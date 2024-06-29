@@ -14,9 +14,20 @@ learn-more = <span data-l10n-name="link">Даведацца больш</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён ні flex-кантэйнер, ні grid-кантэйнер.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён ні flex-кантэйнер, ні grid-кантэйнер, ні шматкалонкавы кантэйнер.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не многаслупковы кантэйнер.
+inactive-css-column-span = <strong>{ $property }</strong> не мае эфекту ахопу для гэтага элемента, паколькі ён не знаходзіцца ўнутры многаслупковага кантэйнера.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён ні grid, ні flex элемент.
 inactive-css-not-grid-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не grid-элемент.
 inactive-css-not-grid-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не grid-кантэйнер.
@@ -28,8 +39,10 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі яго ўласцівасць display зададзена <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значэнне <strong>display</strong> было заменена рухавіком на <strong>block</strong>, таму што элемент <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Значэнне <strong>display</strong> было заменена рухавіком на <strong>{ $display }</strong>, таму што элемент <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Немагчыма перавызначыць <strong>{ $property }</strong> з-за абмежавання <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не пазіцыянаваны элемент.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі яго можна прымяніць толькі да замененых элементаў.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі <strong>overflow:hidden</strong> не ўсталяваны.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> не ўплывае на ўнутраныя элементы табліцы.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> не ўплывае на ўнутраныя элементы табліцы, акрамя ячэек табліцы.
@@ -37,6 +50,7 @@ inactive-css-not-table = <strong>{ $property }</strong> не ўплывае на
 inactive-css-not-table-cell = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не з’яўляецца ячэйкай табліцы.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькi ён не пракручваецца.
 inactive-css-border-image = <strong>{ $property }</strong> не мае ніякага ўплыву на гэты элемент, паколькі ён не можа быць ужыты да ўнутраных элементаў табліцы, дзе для <strong>border-collapse</strong> усталявана значэнне <strong>collapse</strong> на элемент бацькоўскай табліцы.
+inactive-css-resize = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён можа прымяняцца толькі да элементаў са значэннем перапаўнення, акрамя visible, і да некаторых замененых элементаў, такіх як тэкставыя вобласці.
 inactive-css-ruby-element = <strong>{ $property }</strong> не ўплывае на гэты элемент, таму што гэта элемент ruby. Яго памер вызначаны памерам шрыфту тэксту ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
