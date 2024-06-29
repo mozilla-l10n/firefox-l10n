@@ -208,6 +208,8 @@ newtab-empty-section-highlights = Comenceu a navegar i aquí us mostrarem els mi
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ja esteu al dia. Torneu més tard per veure més articles populars de { $provider }. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Ja esteu al dia. Torneu més tard per veure més articles. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -260,6 +262,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Dreceres patrocinades
 newtab-custom-pocket-title = Recomanat per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Articles recomanats
+    .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
 newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
@@ -272,9 +277,33 @@ newtab-custom-settings = Gestiona més paràmetres
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Fons de pantalla
+newtab-wallpaper-reset = Reinicia als valors per defecte
+newtab-wallpaper-light-red-panda = Panda vermell
+newtab-wallpaper-light-mountain = Muntanya blanca
+newtab-wallpaper-light-sky = Cel amb núvols roses i liles
+newtab-wallpaper-light-color = Formes blaves, roses i grogues
+newtab-wallpaper-light-landscape = Paisatge de muntanya amb boirina blava
+newtab-wallpaper-light-beach = Platja amb palmera
+newtab-wallpaper-dark-aurora = Aurora boreal
+newtab-wallpaper-dark-color = Formes vermelles i blaves
+newtab-wallpaper-dark-panda = Panda vermell amagat al bosc
+newtab-wallpaper-dark-sky = Paisatge urbà amb un cel nocturn
+newtab-wallpaper-dark-mountain = Paisatge de muntanya
+newtab-wallpaper-dark-city = Paisatge urbà porpra
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Colors sòlids
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Blau clar
+newtab-wallpaper-light-purple = Lila clar
+newtab-wallpaper-light-green = Verd clar
+newtab-wallpaper-green = Verd
+newtab-wallpaper-beige = Beix
+newtab-wallpaper-yellow = Groc
+newtab-wallpaper-orange = Taronja
+newtab-wallpaper-pink = Rosa
 
 ## Abstract
 
@@ -284,3 +313,9 @@ newtab-custom-settings = Gestiona més paràmetres
 
 ## New Tab Weather
 
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Canvia a Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Canvia a Celsius
+newtab-weather-menu-learn-more = Més informació
+# This message is shown if user is working offline
+newtab-weather-error-not-available = La informació meteorològica no està disponible ara mateix.
