@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Zjistit více</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex, ani není kontejnerem s více sloupci.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro více sloupců.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = Vlastnost <strong>{ $pr
 inactive-css-placeholder-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože má nastavenu vlastnost display s hodnotou <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> byla automaticky nastavena na <strong>block</strong>, protože je nastavena vlastnost <strong>float</strong>.
+inactive-css-not-display-block-on-floated-2 = Hodnota vlastnosti <strong>display</strong> byla automaticky nastavena na <strong>{ $display }</strong>, protože je nastavena vlastnost <strong>float</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Není možné přepsat vlastnost <strong>{ $property }</strong> z důvodu omezení selekorem <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože nejde o prvek s definovanou pozicí.
 inactive-css-only-replaced-elements = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože ho lze použít pouze na nahrazené prvky.
@@ -39,6 +50,7 @@ inactive-css-not-table = Vlatnost <strong>{ $property }</strong> nemá žádný 
 inactive-css-not-table-cell = Vlastnost <strong>{ $property }</strong> nemá žádný efekt na tento prvek, protože se nejedná o buňku tabulky.
 inactive-scroll-padding-when-not-scroll-container = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože není rolovatelný.
 inactive-css-border-image = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože jej nelze použít na vnitřní prvky tabulky, kde je <strong>border-collapse</strong> nastaven na <strong>collapse</strong> na nadřazeném prvku tabulky.
+inactive-css-resize = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože ji lze použít jen pro prvky s hodnotou overflow jinou než visible, a pro některé nahrazené prvky, jako je textarea.
 inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se jedná o prvek ruby. Jeho velikost je určena velikostí písma textu ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -57,6 +69,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože má více než { $lineCount } řádků.
     }
 inactive-css-text-wrap-balance-fragmented = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože je fragmentovaný, tj. jeho obsah je rozdělen do více sloupců nebo stránek.
+inactive-css-no-width-height = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože jeho výšku a šířku nelze nastavit.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -86,6 +99,7 @@ inactive-css-not-table-fix = Zkuste přidat <strong>display:table</strong> nebo 
 inactive-css-not-table-cell-fix = Zkuste přidat <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> nebo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = V nadřazeném prvku tabulky odstraňte vlastnost nebo změňte hodnotu <strong>border-collapse</strong> na jinou hodnotu než <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Zkuste nastavit <strong>overflow</strong> na jinou hodnotu než <strong>visible</strong> nebo se zaměřte na nahrazený prvek, který jej podporuje. { learn-more }
 inactive-css-ruby-element-fix = Zkuste změnit <strong>font-size</strong> textu prvku ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Pokuste se snížit počet řádků. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vyhněte se rozdělení obsahu prvku, např. odstraněním sloupců nebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
