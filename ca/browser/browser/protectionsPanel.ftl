@@ -143,12 +143,16 @@ protections-panel-cookie-banner-view-turn-on-description = El { -brand-short-nam
 protections-panel-cookie-banner-view-cancel = Cancel·la
 protections-panel-cookie-banner-view-turn-off = Desactiva
 protections-panel-cookie-banner-view-turn-on = Activa
+protections-panel-cookie-banner-blocker-view-turn-on-description = Si l'activeu, el { -brand-short-name } intentarà rebutjar automàticament tots els bàners de galetes d'aquest lloc.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancel·la
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactiva
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activa
+protections-panel-report-broken-site =
+    .label = Informeu sobre un lloc que no funciona
+    .title = Informeu sobre un lloc que no funciona
 
 ## Protections panel info message
 

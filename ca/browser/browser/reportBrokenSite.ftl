@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+report-broken-site-mainview-title = Informeu sobre un lloc que no funciona
+report-broken-site-panel-header =
+    .label = Informeu sobre un lloc que no funciona
+    .title = Informeu sobre un lloc que no funciona
+report-broken-site-panel-intro = Ajudeu a fer que el { -brand-product-name } sigui millor per a tothom. { -vendor-short-name } utilitza la informació que envieu per solucionar els problemes de llocs web.
+report-broken-site-panel-url = URL
+report-broken-site-panel-reason-label = Què no funciona?
 report-broken-site-panel-reason-optional-label = Què no funciona? (opcional)
 report-broken-site-panel-reason-choose =
     .label = Trieu el motiu
@@ -26,6 +33,7 @@ report-broken-site-panel-button-okay =
     .label = D'acord
 report-broken-site-panel-button-send =
     .label = Envia
+report-broken-site-panel-unspecified = Sense especificar
 report-broken-site-panel-report-sent-label = L'informe s'ha enviat
 report-broken-site-panel-report-sent-header =
     .label = L'informe s'ha enviat
