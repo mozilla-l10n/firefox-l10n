@@ -77,18 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Prikaži več zavihkov
     .tooltiptext = Prikaži več zavihkov iz te naprave
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Prikaži nedejaven zavihek
-            [two] Prikaži { $count } nedejavna zavihka
-            [few] Prikaži { $count } nedejavne zavihke
-           *[other] Prikaži { $count } nedejavnih zavihkov
-        }
-    .tooltiptext = Prikaži nedejavne zavihke na tej napravi
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Nedejavni zavihki
@@ -208,6 +196,8 @@ profiler-popup-presets-power-description = Prednastavitev za preiskovanje napak 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Napajanje
+profiler-popup-presets-debug-label =
+    .label = Razhroščevanje
 profiler-popup-presets-custom-label =
     .label = Po meri
 

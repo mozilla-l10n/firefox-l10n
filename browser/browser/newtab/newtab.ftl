@@ -295,16 +295,47 @@ newtab-wallpaper-dark-panda = Mačji panda, skrit v gozdu
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Enobarvna
+newtab-wallpaper-blue = Modro
+newtab-wallpaper-light-blue = Svetlo modro
+newtab-wallpaper-light-purple = Svetlo vijolično
+newtab-wallpaper-light-green = Svetlo zeleno
+newtab-wallpaper-green = Zeleno
+newtab-wallpaper-beige = Bež
+newtab-wallpaper-yellow = Rumeno
+newtab-wallpaper-orange = Oranžno
+newtab-wallpaper-pink = Roza
+newtab-wallpaper-light-pink = Svetlo roza
+newtab-wallpaper-red = Rdeče
+newtab-wallpaper-dark-blue = Temno modro
+newtab-wallpaper-dark-purple = Temno vijolično
+newtab-wallpaper-dark-green = Temno zeleno
+newtab-wallpaper-brown = Rjavo
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstraktna
+newtab-wallpaper-abstract-green = Zelene oblike
+newtab-wallpaper-abstract-blue = Modre oblike
+newtab-wallpaper-abstract-purple = Vijoličaste oblike
+newtab-wallpaper-abstract-orange = Oranžne oblike
+newtab-wallpaper-gradient-orange = Preliv oranžne in roza
+newtab-wallpaper-abstract-blue-purple = Modre in vijolične oblike
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografije
+newtab-wallpaper-beach-at-sunrise = Plaža ob sončnem vzhodu
+newtab-wallpaper-beach-at-sunset = Plaža ob sončnem zahodu
+newtab-wallpaper-storm-sky = Nevihtno nebo
+newtab-wallpaper-sky-with-pink-clouds = Nebo z rožnatimi oblaki
+newtab-wallpaper-red-panda-yawns-in-a-tree = Zehajoč mačji panda na drevesu
+newtab-wallpaper-white-mountains = Bele gore
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Avtor fotografije: <a data-l10n-name="name-link">{ $author_string }</a>, <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Poskusite s kančkom barve
 newtab-wallpaper-feature-highlight-button = Razumem
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
