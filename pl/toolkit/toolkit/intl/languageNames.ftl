@@ -166,6 +166,7 @@ language-name-se = Lapoński północny
 language-name-sg = Sango
 language-name-si = Syngaleski
 language-name-sk = Słowacki
+language-name-skr = Saraiki
 language-name-sl = Słoweński
 language-name-sm = Samoański
 language-name-sn = Szona

@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Zachowaj ostrożność
 pane-experimental-search-results-header = Eksperymenty przeglądarki { -brand-short-name }: zachowaj ostrożność
 pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+pane-experimental-description3 = Wypróbuj nasze funkcje eksperymentalne! Są w fazie rozwoju i ciągłej zmiany, co może mieć wpływ na działanie { -brand-short-name(case: "gen") }.
 pane-experimental-reset =
     .label = Przywróć domyślne
     .accesskey = P
@@ -976,14 +977,6 @@ autofill-payment-methods-checkbox-submessage = Obejmuje karty kredytowe i debet
     .accesskey = b
 autofill-saved-payment-methods-button = Zachowane metody płatności
     .accesskey = h
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Wymaganie uwierzytelnienia systemu macOS przed wypełnieniem lub zmianą metod płatności.
-        [windows] Wymaganie uwierzytelnienia systemu Windows przed wypełnieniem lub zmianą metod płatności.
-        [linux] Wymaganie uwierzytelnienia systemu Linux przed wypełnieniem lub zmianą metod płatności.
-       *[other] Wymaganie uwierzytelnienia przed wypełnieniem lub zmianą metod płatności.
-    }
-    .accesskey = u
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządzeniu, aby wypełniać metody płatności i zarządzać nimi
     .accesskey = W
@@ -1313,6 +1306,10 @@ privacy-segmentation-radio-off =
     .label = Używaj zaleceń przeglądarki { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Wyświetlaj szczegółowe informacje
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferencje dotyczące reklam na witrynach
 
 ## Privacy Section - Security
 ##
