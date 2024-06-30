@@ -98,6 +98,7 @@ inactive-css-not-table-fix = Spróbuj dodać <strong>display:table</strong> lub 
 inactive-css-not-table-cell-fix = Spróbuj dodać <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Spróbuj dodać <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> lub <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = W nadrzędnym elemencie tabeli usuń własność lub zmień wartość <strong>border-collapse</strong> na inną niż <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Spróbuj ustawić <strong>overflow</strong> na wartość inną niż <strong>visible</strong> lub namierz obsługujący go zastąpiony element. { learn-more }
 inactive-css-ruby-element-fix = Spróbuj zmienić <strong>font-size</strong> tekstu rubi. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spróbuj zmniejszyć liczbę wierszy. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Unikaj dzielenia zawartości elementu, np. usuwając kolumny lub używając <strong>page-break-inside:avoid</strong>. { learn-more }

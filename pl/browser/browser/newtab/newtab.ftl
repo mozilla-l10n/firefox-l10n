@@ -294,10 +294,59 @@ newtab-wallpaper-dark-panda = Pandka ruda schowana w lesie
 newtab-wallpaper-dark-sky = Miejski pejzaż z nocnym niebem
 newtab-wallpaper-dark-mountain = Górski pejzaż
 newtab-wallpaper-dark-city = Fioletowy miejski pejzaż
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Jednolite kolory
+newtab-wallpaper-blue = Niebieski
+newtab-wallpaper-light-blue = Jasnoniebieski
+newtab-wallpaper-light-purple = Jasnofioletowy
+newtab-wallpaper-light-green = Jasnozielony
+newtab-wallpaper-green = Zielony
+newtab-wallpaper-beige = Beżowy
+newtab-wallpaper-yellow = Żółty
+newtab-wallpaper-orange = Pomarańczowy
+newtab-wallpaper-pink = Różowy
+newtab-wallpaper-light-pink = Jasnoróżowy
+newtab-wallpaper-red = Czerwony
+newtab-wallpaper-dark-blue = Ciemnoniebieski
+newtab-wallpaper-dark-purple = Ciemnofioletowy
+newtab-wallpaper-dark-green = Ciemnoniebieski
+newtab-wallpaper-brown = Brązowy
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakcyjne
+newtab-wallpaper-abstract-green = Zielone kształty
+newtab-wallpaper-abstract-blue = Niebieskie kształty
+newtab-wallpaper-abstract-purple = Fioletowe kształty
+newtab-wallpaper-abstract-orange = Pomarańczowe kształty
+newtab-wallpaper-gradient-orange = Przejście między pomarańczowym a różowym
+newtab-wallpaper-abstract-blue-purple = Niebieskie i fioletowe kształty
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Zdjęcia
+newtab-wallpaper-beach-at-sunrise = Plaża o wschodzie słońca
+newtab-wallpaper-beach-at-sunset = Plaża o zachodzie słońca
+newtab-wallpaper-storm-sky = Burzowe niebo
+newtab-wallpaper-sky-with-pink-clouds = Niebo z różowymi chmurami
+newtab-wallpaper-red-panda-yawns-in-a-tree = Pandka ruda ziewa na drzewie
+newtab-wallpaper-white-mountains = Białe góry
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Zdjęcie: <a data-l10n-name="name-link">{ $author_string }</a> z witryny <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Wypróbuj odrobiny koloru
+newtab-wallpaper-feature-highlight-content = Nadaj nowej karcie świeży wygląd dzięki tapetom.
+newtab-wallpaper-feature-highlight-button = OK
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Zamknij
+    .aria-label = Zamknij tę funkcję
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
