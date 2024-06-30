@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Rozmiar bufora:
-
 perftools-custom-threads-label = Dodaj własne wątki według nazw:
-
 perftools-devtools-interval-label = Przedział:
 perftools-devtools-threads-label = Wątki:
 perftools-devtools-settings-label = Ustawienia
@@ -113,7 +111,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Pomiń powyższy wybór i nagraj wszystkie zarejestrowane wątki
-
 perftools-tools-threads-input-label =
     .title = Te nazwy wątków to lista oddzielona przecinkami, która jest używana do włączenia profilowania wątków w profilerze. Nazwa może tylko częściowo pasować do nazwy wątku, aby została uwzględniona. Spacje są rozróżniane.
 
@@ -121,7 +118,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nowość</b>: { -profiler-brand-name } jest teraz zintegrowany z narzędziami dla programistów. <a>Więcej informacji</a> o tym nowym potężnym narzędziu.
-
 perftools-onboarding-close-button =
     .aria-label = Zamknij ten komunikat
 
@@ -129,32 +125,29 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Dla twórców witryn
 perftools-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Zalecane ustawienie do profilowania programu { -brand-shorter-name }.
-
+perftools-presets-firefox-description = Zalecane ustawienie do profilowania { -brand-shorter-name(case: "gen") }.
 perftools-presets-graphics-label = Grafika
-perftools-presets-graphics-description = Ustawienie do badania błędów graficznych w programie { -brand-shorter-name }.
-
+perftools-presets-graphics-description = Ustawienie do badania błędów graficznych w { -brand-shorter-name(case: "loc") }.
 perftools-presets-media-label = Multimedia
-perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
-
+perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w { -brand-shorter-name(case: "loc") }.
 perftools-presets-networking-label = Sieć
-perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w programie { -brand-shorter-name }.
-
+perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
-perftools-presets-power-description = Ustawienie do badania błędów użycia energii w programie { -brand-shorter-name } o niskim wpływie na wydajność.
-
+perftools-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.
+perftools-presets-debug-label = Debugowanie
+perftools-presets-debug-description = Ustawienie do debugowania w { -brand-shorter-name(case: "loc") }. Wysoki wpływ na wydajność. Nie należy używać do pracy nad wydajnością, tylko do zrozumienia zachowania przeglądarki.
 perftools-presets-custom-label = Inne
 
 ##
