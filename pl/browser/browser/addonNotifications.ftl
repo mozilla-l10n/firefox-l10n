@@ -140,3 +140,5 @@ addon-local-install-error-not-signed = Ten dodatek nie może zostać zainstalowa
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ nie jest on zgodny z { -brand-short-name(case: "ins") } { $appVersion }.
 addon-install-error-blocklisted = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ obarczony jest on wysokim ryzykiem utraty stabilności lub problemów z bezpieczeństwem.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Nie można zainstalować dodatku „{ $addonName }” jako użytkownik. Może go instalować wyłącznie organizacja korzystająca z zasad organizacji.
