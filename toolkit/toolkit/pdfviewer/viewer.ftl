@@ -102,8 +102,8 @@ pdfjs-spread-even-button-label = 偶數跨頁
 pdfjs-document-properties-button =
     .title = 文件內容…
 pdfjs-document-properties-button-label = 文件內容…
-pdfjs-document-properties-file-name = 檔案名稱:
-pdfjs-document-properties-file-size = 檔案大小:
+pdfjs-document-properties-file-name = 檔案名稱：
+pdfjs-document-properties-file-size = 檔案大小：
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -112,21 +112,21 @@ pdfjs-document-properties-kb = { $size_kb } KB（{ $size_b } 位元組）
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB（{ $size_b } 位元組）
-pdfjs-document-properties-title = 標題:
-pdfjs-document-properties-author = 作者:
-pdfjs-document-properties-subject = 主旨:
-pdfjs-document-properties-keywords = 關鍵字:
-pdfjs-document-properties-creation-date = 建立日期:
-pdfjs-document-properties-modification-date = 修改日期:
+pdfjs-document-properties-title = 標題：
+pdfjs-document-properties-author = 作者：
+pdfjs-document-properties-subject = 主旨：
+pdfjs-document-properties-keywords = 關鍵字：
+pdfjs-document-properties-creation-date = 建立日期：
+pdfjs-document-properties-modification-date = 修改日期：
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date } { $time }
-pdfjs-document-properties-creator = 建立者:
-pdfjs-document-properties-producer = PDF 產生器:
-pdfjs-document-properties-version = PDF 版本:
-pdfjs-document-properties-page-count = 頁數:
-pdfjs-document-properties-page-size = 頁面大小:
+pdfjs-document-properties-creator = 建立者：
+pdfjs-document-properties-producer = PDF 產生器：
+pdfjs-document-properties-version = PDF 版本：
+pdfjs-document-properties-page-count = 頁數：
+pdfjs-document-properties-page-size = 頁面大小：
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = 垂直
@@ -150,7 +150,7 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
-pdfjs-document-properties-linearized = 快速 Web 檢視:
+pdfjs-document-properties-linearized = 快速 Web 檢視：
 pdfjs-document-properties-linearized-yes = 是
 pdfjs-document-properties-linearized-no = 否
 pdfjs-document-properties-close-button = 關閉
