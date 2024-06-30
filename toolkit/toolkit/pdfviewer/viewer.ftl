@@ -51,12 +51,6 @@ pdfjs-download-button-label = 下載
 pdfjs-bookmark-button =
     .title = 目前頁面（含目前檢視頁面的網址）
 pdfjs-bookmark-button-label = 目前頁面
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = 在應用程式中開啟
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = 用程式開啟
 
 ##  Secondary toolbar and context menu
 
@@ -82,8 +76,8 @@ pdfjs-cursor-hand-tool-button =
     .title = 開啟頁面移動工具
 pdfjs-cursor-hand-tool-button-label = 頁面移動工具
 pdfjs-scroll-page-button =
-    .title = 使用頁面捲動功能
-pdfjs-scroll-page-button-label = 頁面捲動功能
+    .title = 使用單頁捲動版面
+pdfjs-scroll-page-button-label = 單頁捲動
 pdfjs-scroll-vertical-button =
     .title = 使用垂直捲動版面
 pdfjs-scroll-vertical-button-label = 垂直捲動
@@ -296,8 +290,6 @@ pdfjs-editor-stamp-button-label = 新增或編輯圖片
 pdfjs-editor-highlight-button =
     .title = 強調
 pdfjs-editor-highlight-button-label = 強調
-pdfjs-highlight-floating-button =
-    .title = 強調
 pdfjs-highlight-floating-button1 =
     .title = 強調
     .aria-label = 強調
@@ -331,7 +323,7 @@ pdfjs-editor-free-highlight-thickness-title =
     .title = 更改強調文字以外的項目時的線條粗細
 pdfjs-free-text =
     .aria-label = 文本編輯器
-pdfjs-free-text-default-content = 開始打字…
+pdfjs-free-text-default-content = 在此打字…
 pdfjs-ink =
     .aria-label = 圖形編輯器
 pdfjs-ink-canvas =
