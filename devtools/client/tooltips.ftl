@@ -42,6 +42,7 @@ inactive-css-not-display-block-on-floated = Wartość <strong>display</strong> z
 inactive-css-not-display-block-on-floated-2 = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>{ $display }</strong>, ponieważ element to <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Zastąpienie <strong>{ $property }</strong> jest niemożliwe z powodu ograniczenia <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie jest on elementem pozycjonowanym.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ może być stosowane tylko do zastąpionych elementów.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ <strong>overflow:hidden</strong> nie jest ustawione.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nie ma wpływu na wewnętrzne elementy tabeli.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> nie ma wpływu na wewnętrzne elementy tabeli, z wyjątkiem komórek tabeli.
@@ -49,6 +50,7 @@ inactive-css-not-table = <strong>{ $property }</strong> nie ma wpływu na ten el
 inactive-css-not-table-cell = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie jest on komórką tabeli.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie można go przewijać.
 inactive-css-border-image = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie można go stosować do wewnętrznych elementów tabeli, w których <strong>border-collapse</strong> jest ustawione na <strong>collapse</strong> w nadrzędnym elemencie tabeli.
+inactive-css-resize = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ można go stosować tylko do elementów z wartością „overflow” inną niż „visible”, a także do niektórych zastąpionych elementów, takich jak obszary tekstowe.
 inactive-css-ruby-element = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest to element rubi. Jego rozmiar zależy od rozmiaru czcionki tekstu rubi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -66,6 +68,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[many] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wierszy.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest on sfragmentaryzowany, tj. jego zawartość jest podzielona na wiele kolumn lub stron.
+inactive-css-no-width-height = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie można ustawić jego szerokości i wysokości.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -76,6 +79,7 @@ inactive-css-not-grid-or-flex-container-fix = Spróbuj dodać <strong>display:gr
 inactive-css-not-grid-or-flex-or-block-container-fix = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong> lub <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong> lub <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong> do jednego z elementów nadrzędnych. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego. { learn-more }
 inactive-css-not-grid-item-fix-2 = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong> do elementu nadrzędnego. { learn-more }
 inactive-css-not-grid-container-fix = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong>. { learn-more }
@@ -86,6 +90,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Spróbuj dodać
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Spróbuj dodać <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Spróbuj usunąć <strong>float</strong> lub dodać <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Spróbuj ustawić jego własność <strong>position</strong> na coś innego niż <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Upewnij się, że dodajesz własność do zastąpionego elementu. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Spróbuj dodać <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> lub <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> lub <strong>table-footer-group</strong>. { learn-more }
