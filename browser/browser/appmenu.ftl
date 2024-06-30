@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = Pobieranie aktualizacji programu { -brand-shorter-name }
+    .label = Pobieranie aktualizacji { -brand-shorter-name(case: "gen") }
 appmenuitem-banner-update-available =
     .label = Aktualizacja jest dostępna — pobierz teraz
 appmenuitem-banner-update-manual =
@@ -77,17 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Wyświetl więcej kart
     .tooltiptext = Wyświetl więcej kart z tego urządzenia
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Wyświetl nieaktywną kartę
-            [few] Wyświetl { $count } nieaktywne karty
-           *[many] Wyświetl { $count } nieaktywnych kart
-        }
-    .tooltiptext = Wyświetl nieaktywne karty na tym urządzeniu
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Nieaktywne karty
@@ -106,7 +95,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Wyświetl listę kart z innych urządzeń.
 appmenu-remote-tabs-unverified = Konto musi zostać zweryfikowane.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
-appmenuitem-fxa-sign-in = Zaloguj się w przeglądarce { -brand-product-name }
+appmenuitem-fxa-sign-in = Zaloguj się w { -brand-product-name(case: "loc") }
 appmenuitem-fxa-manage-account = Zarządzaj kontem
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
@@ -191,22 +180,25 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
 profiler-popup-presets-web-developer-label =
     .label = Dla twórców witryn
-profiler-popup-presets-firefox-description = Zalecane ustawienie do profilowania programu { -brand-shorter-name }.
+profiler-popup-presets-firefox-description = Zalecane ustawienie do profilowania { -brand-shorter-name(case: "gen") }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-profiler-popup-presets-graphics-description = Ustawienie do badania błędów graficznych w programie { -brand-shorter-name }.
+profiler-popup-presets-graphics-description = Ustawienie do badania błędów graficznych w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-graphics-label =
     .label = Grafika
-profiler-popup-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
+profiler-popup-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-media-label =
     .label = Multimedia
-profiler-popup-presets-networking-description = Ustawienie do badania błędów sieciowych w programie { -brand-shorter-name }.
+profiler-popup-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-networking-label =
     .label = Sieć
-profiler-popup-presets-power-description = Ustawienie do badania błędów użycia energii w programie { -brand-shorter-name } o niskim wpływie na wydajność.
+profiler-popup-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = Ustawienie do debugowania w { -brand-shorter-name(case: "loc") }. Wysoki wpływ na wydajność. Nie należy używać do pracy nad wydajnością, tylko do zrozumienia zachowania przeglądarki.
+profiler-popup-presets-debug-label =
+    .label = Debugowanie
 profiler-popup-presets-custom-label =
     .label = Inne
 
@@ -230,7 +222,7 @@ appmenu-search-history =
 ## Help panel
 
 appmenu-help-header =
-    .title = Pomoc programu { -brand-shorter-name }
+    .title = Pomoc { -brand-shorter-name(case: "gen") }
 appmenu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
