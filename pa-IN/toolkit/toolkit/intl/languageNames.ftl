@@ -166,6 +166,7 @@ language-name-se = ਉੱਤਰੀ ਸਾਂਮੀ
 language-name-sg = ਸਾਂਗਰੋ
 language-name-si = ਸਿੰਹਾਲਾ
 language-name-sk = ਸਲੋਵਾਕ
+language-name-skr = ਸਰਾਇਕੀ
 language-name-sl = ਸਲੋਵੀਅਨ
 language-name-sm = ਸਾਮੋਨਾ
 language-name-sn = ਸੋਨਾ
