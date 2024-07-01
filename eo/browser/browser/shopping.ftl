@@ -134,8 +134,6 @@ shopping-analysis-explainer-learn-more2 = Pli da informo pri <a data-l10n-name="
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Elstaraĵoj</strong> venas el recenzoj de { $retailer }, kiujn ni opinias fidindaj kaj okazis dum la lastaj 80 tagoj.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Elstaraĵoj</strong> venas el recenzoj de %s, kiuj okazis dum la lastaj 80 tagoj kaj kiujn ni opinias fidindaj.
 shopping-analysis-explainer-review-grading-scale-reliable = Fidindaj recenzoj. Ni pensas ke tiuj venas el verŝajnaj veraj klientoj, kiuj donis sincerajn kaj objektivajn recenzojn.
 shopping-analysis-explainer-review-grading-scale-mixed = Ni pensas ke estas miksaĵo de findindaj kaj nefidindaj recenzoj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nefidindaj recenzoj. Ni pensas ke tiuj estas verŝajne ĉu malveraj ĉu donitaj de neobjektivaj recenzintoj.
