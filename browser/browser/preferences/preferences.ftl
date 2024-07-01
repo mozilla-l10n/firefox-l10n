@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Gean foarsichtich troch
 pane-experimental-search-results-header = { -brand-short-name }-eksperiminten: foarsichtichheid advisearre
 pane-experimental-description2 = It wizigjen fan avansearre konfiguraasjeynstellingen kin de prestaasjes of feilichheid fan { -brand-short-name } beynfloedzje.
+pane-experimental-description3 = Probearje ús eksperimintele funksjes! Se binne yn ûntwikkeling en wurde hieltyd better, wat ynfloed hawwe kin op de manier werop { -brand-short-name } wurket.
 pane-experimental-reset =
     .label = Standertwearden opnij ynstelle
     .accesskey = y

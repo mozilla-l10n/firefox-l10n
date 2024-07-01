@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = Mear ynfo oer <a data-l10n-name="revie
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Hichtepunten</strong> binne ôfkomstich fan beoardielingen fan { $retailer } yn de ôfrûne 80 dagen dy’t neffens ús betrouber binne.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Hichtepunten</strong> binne ôfkomstich fan beoardielingen yn de ôfrûne 80 dagen dy’t neffens ús betrouber binne.
 shopping-analysis-explainer-review-grading-scale-reliable = Betroubere beoardielingen. Wy leauwe dat de beoardielingen wierskynlik ôfkomstich binne fan echte klanten dy’t earlike, ûnpartidige beoardielingen efterlitten hawwe.
 shopping-analysis-explainer-review-grading-scale-mixed = Wy leauwe dat der in miks is fan betroubere en ûnbetroubere beoardielingen.
 shopping-analysis-explainer-review-grading-scale-unreliable = Unbetroubere beoardielingen. Wy leauwe dat de beoardielingen wierskynlik nep binne of fan befoaroardiele beoardielers.
