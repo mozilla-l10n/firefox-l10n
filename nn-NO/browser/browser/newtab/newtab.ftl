@@ -296,7 +296,7 @@ newtab-wallpaper-dark-city = Lilla bylandskap
 
 ## Solid Colors
 
-newtab-wallpaper-category-title-colors = Solide fargar
+newtab-wallpaper-category-title-colors = Einsfarga
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Lyseblå
 newtab-wallpaper-light-purple = Lyselilla
