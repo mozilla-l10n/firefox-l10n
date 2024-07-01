@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Mear ynformaasje</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin flexcontainer of gridcontainer is.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong> { $property } </strong> hat gjin effekt op dit elemint, omdat it gjin flex-container, grid-container of in container mei mear kolommen is.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin container mei meardere kolommen is.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::placeholder-pseudo-elementen.
 inactive-css-property-because-of-display = <strong>{ $property }</ strong> hat gjin effekt op dit elemint, omdat it in werjefte fan <strong>{ $display }</ strong> hat.
 inactive-css-not-display-block-on-floated = De wearde <strong>display</strong> is troch de engine yn <strong>block</strong> wizige, omdat it elemint <strong>floated</strong> is.
+inactive-css-not-display-block-on-floated-2 = De wearde <strong>display</strong> is troch de engine yn <strong>{ $display }</strong> wizige, omdat it elemint <strong>floated</strong> is.
 inactive-css-property-is-impossible-to-override-in-visited = It is net mooglik om <strong>{ $property }</strong> te oerskriuwen fanwegen de beheining <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin posisjonearre elemint is.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it allinnich op ferfongen eleminten tapast wurde kin.
