@@ -324,6 +324,9 @@ has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)
 has-seccomp-tsync = Seccomp 스레드 동기화
 has-user-namespaces = 사용자 네임스페이스
 has-privileged-user-namespaces = 권한있는 프로세스를 위한 사용자 네임스페이스
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — 이 기능은 사용자의 시스템에서 허용되지 않습니다. 이는 { -brand-short-name }의 보안 기능을 제한할 수 있습니다.
 can-sandbox-content = 콘텐트 프로세스 샌드박싱
 can-sandbox-media = 미디어 플러그인 샌드박싱
 content-sandbox-level = 콘텐츠 프로세스 샌드박스 수준

@@ -47,6 +47,7 @@ inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong>이 �
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 속성이 내부 테이블 요소에 영향을 미치지 않습니다.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 속성이 테이블 셀을 제외하고 내부 테이블 요소에 영향을 미치지 않습니다.
 inactive-css-not-table = 테이블이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong>는 테두리가 접힌 표이므로 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-table-cell = 테이블 셀이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-scroll-padding-when-not-scroll-container = 스크롤하지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-border-image = <strong>{ $property }</strong>는 부모 테이블 요소에서 <strong>border-collapse</strong>가 <strong>collapse</strong>로 설정된 내부 테이블 요소에 적용할 수 없으므로 이 요소에 영향을 미치지 않습니다.
