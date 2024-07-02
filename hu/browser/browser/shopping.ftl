@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = Tudjon meg többet arról, <a data-l10
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = A <strong>kiemelések</strong> a(z) { $retailer } értékeléseinek az elmúlt 80 napból származó és megbízhatónak ítélt elemei.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = A <strong>kiemelések</strong> az értékelések az elmúlt 80 napból származó és megbízhatónak ítélt elemei.
 shopping-analysis-explainer-review-grading-scale-reliable = Megbízható értékelések. Úgy gondoljuk, hogy az értékelések valószínűleg valódi vásárlóktól származnak, akik őszinte, elfogulatlan értékelést írtak.
 shopping-analysis-explainer-review-grading-scale-mixed = Úgy gondoljuk, hogy vegyesen vannak megbízható és nem megbízható értékelések.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nem megbízható értékelések. Úgy gondoljuk, hogy az értékelések hamisak vagy elfogult értékelőktől származnak.

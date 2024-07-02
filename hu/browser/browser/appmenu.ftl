@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Előbeállítás a { -brand-shorter-n
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energiagazdálkodás
+profiler-popup-presets-debug-description = Előbeállítás a { -brand-shorter-name }ban való hibakereséshez. Magas többletterhelés, ne teljesítménykritikus munkához használja, hanem a böngésző viselkedésének megértéséhez.
 profiler-popup-presets-debug-label =
     .label = Hibakeresés
 profiler-popup-presets-custom-label =

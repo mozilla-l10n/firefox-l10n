@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">További tudnivalók</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis vagy rácstároló.
 inactive-css-not-grid-or-flex-container-or-multicol-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel ez nem flex konténer, rács- vagy többoszlopos tároló.
 inactive-css-not-multicol-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem többoszlopos tároló.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = A(z) <strong>{ $propert
 inactive-css-placeholder-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::placeholder pszeudoelemeken.
 inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a „display” értéke <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő</strong>.
+inactive-css-not-display-block-on-floated-2 = A <strong>display</strong> értéket <strong>{ $display }</strong> értékre változtatta a motor, mert az elem <strong>lebegő<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
 inactive-css-only-replaced-elements = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel csak lecserélt elemekre alkalmazható.
@@ -39,6 +50,7 @@ inactive-css-not-table = A(z) <strong>{ $property }</strong> nem befolyásolja e
 inactive-css-not-table-cell = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem táblázatcella.
 inactive-scroll-padding-when-not-scroll-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem görgethető.
 inactive-css-border-image = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem alkalmazható olyan belső táblázatelemekre, ahol a <strong>border-collapse</strong> <strong>collapse</strong> értékre van állítva szülő táblázatelem.
+inactive-css-resize = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel csak a túlcsorduló értékkel rendelkező elemekre, és bizonyos lecserélt elemekre (például a szövegterületekre) alkalmazható.
 inactive-css-ruby-element = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert ez egy rubi elem. A méretét a rubi szöveg mérete határozza meg.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -55,6 +67,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert több mint { $lineCount } sora van.
     }
 inactive-css-text-wrap-balance-fragmented = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert tördelve van, tehát a tartalma több oszlopra vagy oldalra van felosztva.
+inactive-css-no-width-height = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a szélessége és magassága nem adható meg.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

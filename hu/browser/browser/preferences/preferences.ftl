@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Óvatosan haladjon tovább
 pane-experimental-search-results-header = { -brand-short-name }-kísérletek: Óvatosan menjen tovább
 pane-experimental-description2 = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+pane-experimental-description3 = Próbálja ki kísérleti funkcióinkat! Fejlesztés alatt vannak, fejlődnek, és befolyásolhatják a { -brand-short-name } működését.
 pane-experimental-reset =
     .label = Alapértelmezések visszaállítása
     .accesskey = v
