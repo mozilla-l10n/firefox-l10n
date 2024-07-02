@@ -53,7 +53,7 @@ migration-imported-edge-reading-list = Lista de lectura (ab Edge)
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } non ha accesso a profilos de altere navigatores  installate sur iste apparato.
-migration-no-permissions-instructions = Pro continuar a importar datos de altere navigatores, garanti a { -brand-short-name } le accesso al plica del profilo.
+migration-no-permissions-instructions = Pro continuar a importar datos de altere navigatores, permitte a { -brand-short-name } le accesso al proprie dossier de profilo.
 migration-no-permissions-instructions-step1 = Elige “Continuar”
 # The second step in getting permissions to read data for the selected
 # browser type.
@@ -283,4 +283,4 @@ migration-wizard-progress-success-payment-methods =
     }
 migration-wizard-safari-permissions-sub-header = Pro importar marcapaginas e chronologia de navigation ab Safari
 migration-wizard-safari-instructions-continue = Elige “Continuar”
-migration-wizard-safari-instructions-folder = Selige le plica Safari in le lista e “Open”
+migration-wizard-safari-instructions-folder = Selige le dossier Safari in le lista e elige “Aperir”
