@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (System Call sía)
 has-seccomp-tsync = Seccomp þráðasamstilling
 has-user-namespaces = Nafnarými notanda
 has-privileged-user-namespaces = Nafnarými notanda fyrir forgangsþræði
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Þessi eiginleiki er ekki leyfður af kerfinu þínu. Þetta getur takmarkað öryggiseiginleika { -brand-short-name }.
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level

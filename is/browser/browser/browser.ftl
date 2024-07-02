@@ -990,6 +990,10 @@ firefox-relay-offer-legal-notice = Með því að smella á „Nota tölvupósth
 popup-notification-addon-install-unsigned =
     .value = (Óstaðfest)
 popup-notification-xpinstall-prompt-learn-more = Sjáðu meira um að setja upp viðbætur á öruggan hátt
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Keyra í huliðsgluggum
+    .accesskey = h
 
 ## Pop-up warning
 
