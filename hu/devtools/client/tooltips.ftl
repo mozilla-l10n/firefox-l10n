@@ -97,6 +97,7 @@ inactive-css-not-table-fix = Próbálja meg ezeket hozzáadni: <strong>display:t
 inactive-css-not-table-cell-fix = Próbálja meg ezt hozzáadni: <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Próbálkozzon az <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> vagy <strong>overflow:hidden</strong> hozzáadásával. { learn-more }
 inactive-css-border-image-fix = Távolítsa el a tulajdonságot a szülő táblázatelemen, vagy módosítsa a <strong>border-collapse</strong> értékét a <strong>collapse</strong>-től eltérő értékre. { learn-more }
+inactive-css-resize-fix = Próbálja meg az <strong>overflow</strong> tulajdonságot a <strong>visible</strong> értéktől eltérőre beállítani, vagy célozzon egy azt támogató lecserélt elemet. { learn-more }
 inactive-css-ruby-element-fix = Próbálja módosítani a rubi szöveg <strong>betűméretét</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Próbálja meg csökkenteni a sorok számát. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Kerülje az elem tartalmának felosztását, például az oszlopok eltávolításával, vagy a <strong>page-break-inside:avoid</strong> használatával. { learn-more }
