@@ -987,6 +987,10 @@ firefox-relay-offer-legal-notice = לחיצה על ״שימוש במסיכת ד�
 popup-notification-addon-install-unsigned =
     .value = (ללא אימות)
 popup-notification-xpinstall-prompt-learn-more = מידע נוסף על התקנת תוספות בצורה בטוחה
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = הפעלה בחלונות פרטיים
+    .accesskey = ה
 
 ## Pop-up warning
 
