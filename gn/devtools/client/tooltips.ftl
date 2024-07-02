@@ -14,9 +14,20 @@ learn-more = <span data-l10n-name="link">Kuaave</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe ndaha’éi rupi mbyatyha osẽtava renda.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe, ndaha’éi rupi mbyatyha hu’ũva, peteĩ mbyatyha ikora’ietáva, avei ndaha’éi mbyatyha hi’ytaetáva.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe ndaha’éi rupi mbyatyha heta ytapegua.
+inactive-css-column-span = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe ndaha’éi rupi mbyatyha heta ytapegua.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe, ndaha’éi rupi osẽtava renda ha avei mba’eporu hu’ũva.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ndoguerekói  mba’evai ko mba’eporúpe ndaha’éi rupi mbyatyha osẽtava renda.
@@ -28,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
+inactive-css-not-display-block-on-floated-2 = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’eporúpe <strong>overflow:hidden</strong> ndahekói rupi.
