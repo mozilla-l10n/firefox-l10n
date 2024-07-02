@@ -327,6 +327,9 @@ has-seccomp-bpf = Seccomp-BPF（過濾系統呼叫）
 has-seccomp-tsync = Seccomp 執行緒同步
 has-user-namespaces = 使用者命名空間
 has-privileged-user-namespaces = 取得權限程序的使用者命名空間
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — 您的系統不允許使用此功能，此功能可能會影響 { -brand-short-name } 的安全性功能。
 can-sandbox-content = 內容程序沙盒
 can-sandbox-media = 媒體外掛程式沙盒
 content-sandbox-level = 內容程序沙盒等級
