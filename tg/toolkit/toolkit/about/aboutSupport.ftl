@@ -428,6 +428,7 @@ support-remote-settings-local-timestamp = Тамғаи вақти маҳаллӣ
 support-remote-settings-sync-history = Таърих
 support-remote-settings-sync-history-status = Вазъият
 support-remote-settings-sync-history-datetime = Сана
+support-remote-settings-sync-history-infos = Иттилоот
 
 ## Normandy sections
 

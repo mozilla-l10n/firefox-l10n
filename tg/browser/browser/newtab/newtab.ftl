@@ -324,14 +324,24 @@ newtab-wallpaper-category-title-abstract = Мавҳум
 newtab-wallpaper-abstract-green = Шаклҳои сабз
 newtab-wallpaper-abstract-blue = Шаклҳои кабуд
 newtab-wallpaper-abstract-purple = Шаклҳои лоҷувард
+newtab-wallpaper-abstract-orange = Шаклҳои норинҷӣ
+newtab-wallpaper-gradient-orange = Тағйирёбии норинҷӣ ва голубӣ
+newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва норинҷӣ
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Суратҳо
+newtab-wallpaper-white-mountains = Кӯҳҳои сафед
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Акс аз ҷониби <a data-l10n-name="name-link">{ $author_string }</a> дар <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Чакраҳои рангро кӯшиш намоед
 newtab-wallpaper-feature-highlight-button = Фаҳмидам
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Нодида гузарондан
+    .aria-label = Пӯшидани равзанаҳои зоҳиршаванда
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }

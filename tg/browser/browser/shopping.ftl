@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Абзори тафтиши тақри
 shopping-adjusted-rating-label =
     .label = Баҳодиҳии санҷида дурустшуда
 shopping-adjusted-rating-unreliable-reviews = Тақризҳои беэътимод тоза карда шудаанд
+shopping-adjusted-rating-based-reliable-reviews = Дар асоси тақризҳои беэътимод
 
 ## Strings for the review reliability component
 
