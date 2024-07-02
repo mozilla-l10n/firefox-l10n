@@ -301,15 +301,29 @@ newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Рангҳои яклухт
 newtab-wallpaper-blue = Кабуд
+newtab-wallpaper-light-blue = Кабуди равшан
+newtab-wallpaper-light-purple = Лоҷуварди равшан
+newtab-wallpaper-light-green = Сабзи равшан
 newtab-wallpaper-green = Сабз
+newtab-wallpaper-beige = Қаҳваранг
 newtab-wallpaper-yellow = Зард
 newtab-wallpaper-orange = Норинҷӣ
 newtab-wallpaper-pink = Гулобӣ
+newtab-wallpaper-light-pink = Гулобии равшан
 newtab-wallpaper-red = Сурх
+newtab-wallpaper-dark-blue = Кабди торик
+newtab-wallpaper-dark-purple = Лоҷуварди торик
+newtab-wallpaper-dark-green = Сабзи торик
+newtab-wallpaper-brown = Қаҳвагӣ
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Мавҳум
+newtab-wallpaper-abstract-green = Шаклҳои сабз
+newtab-wallpaper-abstract-blue = Шаклҳои кабуд
+newtab-wallpaper-abstract-purple = Шаклҳои лоҷувард
 
 ## Photographs
 
