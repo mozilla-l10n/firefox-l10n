@@ -234,6 +234,10 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name }은 { -brand-product
 newtab-pocket-save = 저장
 newtab-pocket-saved = 저장됨
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-thumbs-up-or-down = 감사합니다. 사용자의 의견은 제품 개선에 도움이 됩니다.
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = 웹의 최고를 발견하세요
