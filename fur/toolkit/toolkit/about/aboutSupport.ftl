@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (filtri clamadis di sisteme)
 has-seccomp-tsync = Sincronizazion thread seccomp
 has-user-namespaces = Spazis Non utent
 has-privileged-user-namespaces = Spazis Non utent par procès privilegjâts
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Cheste funzion no je consintude sul to sisteme. Chest al pues limitâ cualchi funzion di sigurece di { -brand-short-name }.
 can-sandbox-content = Isolament procès pai contignûts
 can-sandbox-media = Isolament plugins multimediâi
 content-sandbox-level = Nivel di isolament dai procès dai contignûts

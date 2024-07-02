@@ -988,6 +988,10 @@ firefox-relay-offer-legal-notice = Fasint clic su “Dopre mascare di pueste ele
 popup-notification-addon-install-unsigned =
     .value = (No verificât)
 popup-notification-xpinstall-prompt-learn-more = Scuvierç di plui su la instalazion di components adizionâi in sigurece
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Eseguìs in barcons privâts
+    .accesskey = P
 
 ## Pop-up warning
 
