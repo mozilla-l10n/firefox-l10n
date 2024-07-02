@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
 has-seccomp-tsync = Sincronização do thread Seccomp
 has-user-namespaces = Espaço de nomes do usuário
 has-privileged-user-namespaces = Espaço de nomes do usuário para processos privilegiados
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Este recurso não é permitido pelo seu sistema. Isso pode restringir recursos de segurança do { -brand-short-name }.
 can-sandbox-content = Isolamento (sandbox) de processamento de conteúdo
 can-sandbox-media = Isolamento (sandbox) de plugins de mídia
 content-sandbox-level = Nível de isolamento (sandbox) de processamento de conteúdo
