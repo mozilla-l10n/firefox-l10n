@@ -416,6 +416,19 @@ support-printing-modified-settings = Танзимоти тағйирёфтаи �
 support-printing-prefs-name = Ном
 support-printing-prefs-value = Қимат
 
+## Remote Settings sections
+
+support-remote-settings-title = Танзимоти дурдаст
+support-remote-settings-status = Вазъият
+support-remote-settings-status-ok = ХУБ
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Кор намекунад
+support-remote-settings-last-check = Санҷиши охирин
+support-remote-settings-local-timestamp = Тамғаи вақти маҳаллӣ
+support-remote-settings-sync-history = Таърих
+support-remote-settings-sync-history-status = Вазъият
+support-remote-settings-sync-history-datetime = Сана
+
 ## Normandy sections
 
 support-remote-experiments-title = Озмоишҳои дурдаст

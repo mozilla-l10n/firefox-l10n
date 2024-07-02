@@ -232,6 +232,12 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оила
 newtab-pocket-save = Нигоҳ доштан
 newtab-pocket-saved = Нигоҳ дошта шуд
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = Нодида гузарондан
+    .aria-label = Нодида гузарондан
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Маводи беҳтаринро дар Интернет пайдо намоед
@@ -292,10 +298,29 @@ newtab-wallpaper-dark-panda = Пандаи сурх дар ҷангал пинҳ
 newtab-wallpaper-dark-sky = Манзараи шаҳр бо осмони шабона
 newtab-wallpaper-dark-mountain = Манзараи кӯҳӣ
 newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
+
+## Solid Colors
+
+newtab-wallpaper-blue = Кабуд
+newtab-wallpaper-green = Сабз
+newtab-wallpaper-yellow = Зард
+newtab-wallpaper-orange = Норинҷӣ
+newtab-wallpaper-pink = Гулобӣ
+newtab-wallpaper-red = Сурх
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Акс аз ҷониби <a data-l10n-name="name-link">{ $author_string }</a> дар <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-button = Фаҳмидам
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

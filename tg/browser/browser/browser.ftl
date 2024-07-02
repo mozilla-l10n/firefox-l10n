@@ -987,6 +987,10 @@ firefox-relay-offer-legal-notice = Вақте ки шумо имкони «Ис�
 popup-notification-addon-install-unsigned =
     .value = (Тасдиқнашуда)
 popup-notification-xpinstall-prompt-learn-more = Маълумоти бештар дар бораи насбкунии бехатари ҷузъи иловагӣ
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Иҷро кардан дар равзанаҳои махфӣ
+    .accesskey = И
 
 ## Pop-up warning
 
