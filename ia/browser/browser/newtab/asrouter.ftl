@@ -237,7 +237,7 @@ fxa-sync-cfr-secondary = Rememora me plus tarde
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-heavy-user-header = Non oblida de reservar tu datos
+device-migration-fxa-spotlight-heavy-user-header = Non oblida de facer un copia de securitate de tu datos
 device-migration-fxa-spotlight-heavy-user-body = Cura que le informationes importante, como marcapaginas e contrasignos, sia actualisate e protegite inter tote tu apparatos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Comenciar
 device-migration-fxa-spotlight-older-device-header = Tranquillitate, ab { -brand-product-name }
@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-older-device-body = Un conto mantene actualisate 
 device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nove apparato in tu futuro?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Seque alcun simple passos pro portar con te marcapaginas, chronologia e contrasignos quando tu initia usar un nove apparato.
-device-migration-fxa-spotlight-getting-new-device-primary-button = Como reservar mi datos
+device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer un copia de securitate de mi datos
 
 ## Set as Default PDF Reader Infobar
 
