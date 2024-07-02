@@ -91,6 +91,7 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong>�
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> 속성을 <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> 속성을 <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> 또는 <strong>display:inline-table</strong>을 추가해보세요. { learn-more }
+inactive-css-collapsed-table-borders-fix = <strong>border-collapse:separate</strong>를 추가해 보세요. { learn-more }
 inactive-css-not-table-cell-fix = <strong>display:table-cell</strong>을 추가해보세요. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, 또는 <strong>overflow:hidden</strong>을 추가해보세요. { learn-more }
 inactive-css-border-image-fix = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다. { learn-more }
