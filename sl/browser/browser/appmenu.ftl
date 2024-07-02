@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Prednastavitev za preiskovanje napak 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Napajanje
+profiler-popup-presets-debug-description = Prednastavitev za razhroščevanje v { -brand-shorter-name(sklon: "mestnik") }. Visoka poraba sredstev – ne uporabljajte za delo pri visoki zmogljivosti, temveč za osredotočanje na razumevanje delovanja brskalnika.
 profiler-popup-presets-debug-label =
     .label = Razhroščevanje
 profiler-popup-presets-custom-label =

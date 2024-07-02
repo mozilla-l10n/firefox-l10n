@@ -998,6 +998,10 @@ firefox-relay-offer-legal-notice = S klikom na "Uporabi e-poštno masko" se stri
 popup-notification-addon-install-unsigned =
     .value = (Nepotrjeno)
 popup-notification-xpinstall-prompt-learn-more = Več o varni namestitvi dodatkov
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Delovanje v zasebnih oknih
+    .accesskey = z
 
 ## Pop-up warning
 

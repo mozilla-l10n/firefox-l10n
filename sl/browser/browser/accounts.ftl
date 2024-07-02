@@ -102,3 +102,17 @@ account-multiple-tabs-arriving-from-unknown-device =
         [few] { $tabCount } prejeti zavihki
        *[other] { $tabCount } prejetih zavihkov
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Prikaži nedavno zaprte zavihke
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] Zaprt { $closedCount } zavihek { -brand-short-name(sklon: "rodilnik") }
+        [two] Zaprta { $closedCount } zavihka { -brand-short-name(sklon: "rodilnik") }
+        [few] Zaprti { $closedCount } zavihki { -brand-short-name(sklon: "rodilnik") }
+       *[other] Zaprtih { $closedCount } zavihkov { -brand-short-name(sklon: "rodilnik") }
+    }

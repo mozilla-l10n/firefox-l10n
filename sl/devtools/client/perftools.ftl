@@ -104,6 +104,11 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Spletni razvoj
 perftools-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
 perftools-presets-firefox-label = { -brand-shorter-name }
@@ -117,6 +122,8 @@ perftools-presets-networking-description = Prednastavitev za preiskovanje napak 
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napajanje
 perftools-presets-power-description = Prednastavitev za preiskovanje napak pri porabi energije v { -brand-shorter-name(sklon: "mestnik") } z nizko porabo sredstev.
+perftools-presets-debug-label = Razhroščevanje
+perftools-presets-debug-description = Prednastavitev za razhroščevanje v { -brand-shorter-name(sklon: "mestnik") }. Visoka poraba sredstev – ne uporabljajte za delo pri visoki zmogljivosti, temveč za osredotočanje na razumevanje delovanja brskalnika.
 perftools-presets-custom-label = Po meri
 
 ##

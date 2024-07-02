@@ -1299,6 +1299,10 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Prikaži podrobne informacije
 
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Nastavitve oglaševanja spletnih mest
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:

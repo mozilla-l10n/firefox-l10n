@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Več o tem</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni niti vsebnik flex niti vsebnik grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex, vsebnik grid ali vsebnik z več stolpci.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik z več stolpci.
@@ -34,6 +44,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne vpli
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele, razen na celice.
 inactive-css-not-table = <strong>{ $property }</strong> ne vpliva na ta element, ker ni tabela.
+inactive-css-collapsed-table-borders = Lastnost <strong>{ $property }</strong> ne vpliva na ta element, ker je to tabela s strnjenimi robovi.
 inactive-css-not-table-cell = Lastnost <strong>{ $property }</strong> ne vpliva na ta element, ker ni celica tabele.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ne drsi.
 inactive-css-border-image = <strong>{ $property }</strong> nima vpliva na ta element, ker te lastnosti ni mogoče uporabiti za notranje elemente tabele, kjer je v elementu starševske tabele <strong>border-collapse</strong> nastavljen na <strong>collapse</strong>.
@@ -79,6 +90,7 @@ inactive-text-overflow-when-no-overflow-fix = Poskusite dodati <strong>overflow:
 inactive-css-not-for-internal-table-elements-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Poskusite dodati <strong>display:table</strong> ali <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Poskusite dodati <strong>border-collapse:separate</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Poskusite dodati <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Poskusite dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ali <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = V nadrejenem elementu "table" odstranite lastnost ali pa ji spremenite <strong>border-collapse</strong> v vrednost, drugačno od <strong>collapse</strong>. { learn-more }
