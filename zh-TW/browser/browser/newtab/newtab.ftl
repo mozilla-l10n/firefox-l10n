@@ -230,6 +230,19 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-produc
 newtab-pocket-save = 儲存
 newtab-pocket-saved = 已儲存
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = 更多這樣的內容
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = 我沒興趣
+newtab-toast-thumbs-up-or-down = 感謝您。您的意見可幫助我們改善顯示的內容。
+newtab-toast-dismiss-button =
+    .title = 知道了！
+    .aria-label = 知道了！
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = 探索網路精華內容
