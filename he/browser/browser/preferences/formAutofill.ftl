@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = הגדרות כתובות
 address-capture-learn-more-button =
     .label = מידע נוסף
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = הוספת כתובת חדשה
 address-capture-open-menu-button =
     .aria-label = פתיחת תפריט
 address-capture-edit-address-button =
@@ -64,12 +62,16 @@ autofill-address-neighborhood = שכונה
 # Used in MY
 autofill-address-village-township = כפר או עיירה
 autofill-address-island = אי
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
 autofill-address-city = עיר
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = מחוז
+# Used in GB, NO, SE
+autofill-address-post-town = עיר דואר
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = פרבר
 
@@ -78,10 +80,14 @@ autofill-address-suburb = פרבר
 autofill-address-province = מחוז
 autofill-address-state = מדינה
 autofill-address-county = מחוז
+# Used in BB, JM
+autofill-address-parish = פאריש
 # Used in JP
 autofill-address-prefecture = מחוז
 # Used in HK
 autofill-address-area = אזור
+# Used in KR
+autofill-address-do-si = דו/סי
 # Used in NI, CO
 autofill-address-department = מחלקה
 # Used in AE
@@ -91,6 +97,8 @@ autofill-address-oblast = אובלסט
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = PIN
 autofill-address-postal-code = מיקוד
 autofill-address-zip = מיקוד
 # Used in IE
@@ -101,6 +109,8 @@ autofill-address-eircode = מיקוד אירי
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = הוספת כתובת חדשה
 autofill-address-country = ארץ או איזור
 autofill-address-country-only = מדינה
 autofill-address-tel = טלפון
@@ -112,11 +122,6 @@ autofill-country-warning-message = מילוי טפסים אוטומטי זמין
 autofill-add-new-card-title = הוספת כרטיס אשראי חדש
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = עריכת כרטיס אשראי
-autofill-message-tooltip = הצגת הודעה על מילוי אוטומטי
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = הוספת כרטיס
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = עריכת כרטיס
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -125,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי. יש לאשר את הגישה לחשבון ה־Windows הזה להלן.
        *[other] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי.
     }
+autofill-message-tooltip = הצגת הודעה על מילוי אוטומטי
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = הוספת כרטיס
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = עריכת כרטיס
 autofill-card-number = מספר כרטיס
 autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
 autofill-card-name-on-card = שם שעל הכרטיס
