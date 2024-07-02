@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresseinnstillingar
 address-capture-learn-more-button =
     .label = Les meir
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Legg til ny adresse
 address-capture-open-menu-button =
     .aria-label = Opne meny
 address-capture-edit-address-button =
@@ -81,7 +79,7 @@ autofill-address-suburb = Forstad
 
 autofill-address-province = Provins
 autofill-address-state = Stat
-autofill-address-county = Land
+autofill-address-county = Fylke/storkommune
 # Used in BB, JM
 autofill-address-parish = Sokn
 # Used in JP
@@ -111,6 +109,8 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Legg til ny adresse
 autofill-address-country = Land eller region
 autofill-address-country-only = Land
 autofill-address-tel = Telefon
