@@ -230,6 +230,18 @@ newtab-pocket-pocket-firefox-family = O { -pocket-brand-name } faz parte da fam�
 newtab-pocket-save = Salvar
 newtab-pocket-saved = Salvo
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Mais conteúdo como este
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Não me interessa
+newtab-toast-dismiss-button =
+    .title = Descartar
+    .aria-label = Descartar
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Conheça o melhor da web
