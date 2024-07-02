@@ -987,6 +987,10 @@ firefox-relay-offer-legal-notice = "Электронды пошта маскас
 popup-notification-addon-install-unsigned =
     .value = (Тексерілмеген)
 popup-notification-xpinstall-prompt-learn-more = Қосымшаларды қауіпсіз орнату туралы көбірек біліңіз
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Жекелік шолу режиміндегі терезелерде орындау
+    .accesskey = к
 
 ## Pop-up warning
 

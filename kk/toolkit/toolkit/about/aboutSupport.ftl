@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (Жүйелік шақыруларды сүзгі�
 has-seccomp-tsync = Seccomp ағынының синхрондалуы
 has-user-namespaces = Пайдаланушының аттар кеңістіктері
 has-privileged-user-namespaces = Артықшылықты үрдістер үшін пайдаланушының аттар кеңістіктері
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Бұл мүмкіндікке жүйеңіз рұқсат бермейді. Бұл { -brand-short-name } қауіпсіздік мүмкіндіктерін шектей алады.
 can-sandbox-content = Құраманың үрдісін құмсалғышта орындау
 can-sandbox-media = Медиа плагиндерін құмсалғышта орындау
 content-sandbox-level = Құрамасы бар үрдістер үшін шектеулер деңгейі
