@@ -51,6 +51,7 @@ inactive-css-collapsed-table-borders = <strong>{ $property }</strong> ndorekói 
 inactive-css-not-table-cell = <strong>{ $property }</strong> ndojapói mba’eve ko mba’eporúpe ndaha’éire tabla pa’ũgua.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ndojapói mba’eve ko mba’eporúpe ndoku’éi rupi.
 inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’eporúpe ndaikatúi rupi oñemohembiapo mba’eporuita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’eporu mba’ekuaarã’aty tuichavévape.
+inactive-css-resize = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ikatu rupi oku’e mba’eporu hepykue yvatéva ndive ojehecha’ỹva ha mba’eporu myengoviapyre.
 inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’eporúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -94,6 +95,7 @@ inactive-text-overflow-when-no-overflow-fix = Eñeha’ã embojuaju <strong>over
 inactive-css-not-for-internal-table-elements-fix = Ikatu emboheko imba’etee <strong>display</strong> iñambuéva<strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ikatúma emboheko imba’etee <strong>display</strong>iñambuéva<strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> térã <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Eñeha’ã embojuaju <strong>display:table</strong> térã <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Eñeha’ã embojuaju <strong>border-collapse:separate</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Eñeha’ã embojuaju <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
