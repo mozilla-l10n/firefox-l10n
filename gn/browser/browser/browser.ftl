@@ -988,6 +988,10 @@ firefox-relay-offer-legal-notice = Eikutúvo “Eiporu ñanduti veve rovamo’ã
 popup-notification-addon-install-unsigned =
     .value = (Ndojehechajeýiva)
 popup-notification-xpinstall-prompt-learn-more = Eñemomaranduve mba’éichapa emohendáta moĩmbaha tekorosãkuápe
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Emongu’e Windows ñemiguápe
+    .accesskey = P
 
 ## Pop-up warning
 
