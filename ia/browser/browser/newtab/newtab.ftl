@@ -234,11 +234,11 @@ newtab-pocket-saved = Salvate
 
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
-    .title = Altero como isto
+    .title = Plus como isto
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Non me interessa
-newtab-toast-thumbs-up-or-down = Gratias. Cognoscer tu opinion adjuta nos a meliorar tu feed.
+newtab-toast-thumbs-up-or-down = Gratias. Cognoscer tu opinion nos adjuta a meliorar tu canal.
 newtab-toast-dismiss-button =
     .title = Dimitter
     .aria-label = Dimitter

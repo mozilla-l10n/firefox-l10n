@@ -989,7 +989,7 @@ popup-notification-addon-install-unsigned =
 popup-notification-xpinstall-prompt-learn-more = Saper plus re le installation secur de additivos
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
-    .label = Execution in fenestras private
+    .label = Executar in fenestras private
     .accesskey = p
 
 ## Pop-up warning
