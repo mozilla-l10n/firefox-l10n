@@ -230,6 +230,12 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte del famili
 newtab-pocket-save = Salvar
 newtab-pocket-saved = Salvate
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = Dimitter
+    .aria-label = Dimitter
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Discoperi le melio del Web
