@@ -60,7 +60,7 @@ autofill-address-street = Ulica
 # Used in IR, MX
 autofill-address-neighborhood = Susedstvo
 # Used in MY
-autofill-address-village-township = Obec alebo okres
+autofill-address-village-township = Obec alebo township
 autofill-address-island = Ostrov
 # Used in IE
 autofill-address-townland = Townland
