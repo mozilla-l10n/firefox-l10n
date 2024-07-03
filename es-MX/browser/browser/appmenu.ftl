@@ -269,3 +269,4 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Inicie sesión en tu cuenta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
