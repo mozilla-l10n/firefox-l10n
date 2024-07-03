@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua ten
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Tendyry
+profiler-popup-presets-debug-description = Oĩva oñemopotĩ hag̃uáicha { -brand-shorter-name } ndive. Ojehechaiterei, ani eiporu oiko porãve hag̃ua katu eikumby hag̃ua mba’éichapa omba’apo kundahára.
 profiler-popup-presets-debug-label =
     .label = Mopotĩ
 profiler-popup-presets-custom-label =
