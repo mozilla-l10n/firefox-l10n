@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (Ñehenói mboguaha rehegua)
 has-seccomp-tsync = Seccomp mba’eapo’i ñembojuehe
 has-user-namespaces = Poruhára réra rehegua pa’ũ
 has-privileged-user-namespaces = Umi poruhára réra pa’ũ mba’eapo momba’evévape g̃uarã
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Ko apopyvusu nomoneĩri ko tembiapoite. Kóva omochi’ĩkuaa { -brand-short-name } rekorosã rehegua.
 can-sandbox-content = Sandboxing rembiapo retepy
 can-sandbox-media = Sandboxing marandu me’ẽha mba’ejoajurã
 content-sandbox-level = Sandbox Level rembiapo retepy
