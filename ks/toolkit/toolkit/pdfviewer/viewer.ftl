@@ -61,17 +61,13 @@ pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
 # Variables:
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = {{size_kb}} KB ({ $size_b } bytes)
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = عنوان:
 pdfjs-document-properties-author = آتھر
 pdfjs-document-properties-subject = موضوع:
 pdfjs-document-properties-keywords = كی وٲرڈ:
 pdfjs-document-properties-creation-date = بناونُک تأریخ
 pdfjs-document-properties-modification-date = تبدیلی ہُند ڈاٹا
-# Variables:
-#   $date (Date) - the creation/modification date of the PDF file
-#   $time (Time) - the creation/modification time of the PDF file
-pdfjs-document-properties-date-string = {{تأریخ}}, {{ٹایم}}
 pdfjs-document-properties-creator = بناون وول:
 pdfjs-document-properties-producer = پی ڈی ایف پروڈوسر:
 pdfjs-document-properties-version = پی ڈی ایف وْرجن:
@@ -111,10 +107,6 @@ pdfjs-findbar-button =
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = صفحە {{صفحە }}
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
@@ -157,13 +149,6 @@ pdfjs-rendering-error = صفحئ كھولُن ویز۪ی گئی غلطی
 
 ## Annotations
 
-# .alt: This is used as a tooltip.
-# Variables:
-#   $type (String) - an annotation type from a list defined in the PDF spec
-# (32000-1:2008 Table 169 – Annotation types).
-# Some common types are e.g.: "Check", "Text", "Comment", "Note"
-pdfjs-text-annotation-type =
-    .alt = [{{قئسم}} اینوٹیشن]
 
 ## Password
 
@@ -175,9 +160,22 @@ pdfjs-web-fonts-disabled = ویب فانٹ چھ ڈیسیبلْڈ: ایمبیڈی
 ## Editing
 
 
+## Remove button for the various kind of editor.
+
+
+##
+
+
 ## Alt-text dialog
 
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
 
