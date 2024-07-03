@@ -994,6 +994,10 @@ firefox-relay-offer-legal-notice = Націскаючы «Выкарыстоўв
 popup-notification-addon-install-unsigned =
     .value = (Неправерана)
 popup-notification-xpinstall-prompt-learn-more = Даведацца больш пра бяспечнае ўсталяванне дадаткаў
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Задзейнічаць у прыватных вокнах
+    .accesskey = п
 
 ## Pop-up warning
 

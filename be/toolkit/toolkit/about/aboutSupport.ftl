@@ -352,6 +352,9 @@ has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных вы�
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Прасторы імён карыстальніка
 has-privileged-user-namespaces = Прасторы імён карыстальніка для прывілеяваных працэсаў
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Гэтая функцыя не дазволена ў вашай сістэме. Гэта можа абмежаваць функцыі бяспекі { -brand-short-name }.
 can-sandbox-content = Пясочніца змястоўных працэсаў
 can-sandbox-media = Пясочніца медыя-плагінаў
 content-sandbox-level = Узровень пясочніцы змястоўных працэсаў
