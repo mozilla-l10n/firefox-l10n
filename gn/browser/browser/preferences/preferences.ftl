@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Ejapóke mbeguekatu
 pane-experimental-search-results-header = { -brand-short-name } Mba’epyahu: Ejapo mbeguekatu
 pane-experimental-description2 = Emoambue umi moĩporã ñemboheko ombyaikuaáava { -brand-short-name } rembiapokue ýrõ hekorosã.
+pane-experimental-description3 = ¡Eiporu ore rembiapokue ipyahuvéva! Oñemboguata ha okakuaahína, ikatúva ojehecha { -brand-short-name } jeporukuévo.
 pane-experimental-reset =
     .label = Embojevy tekoypykue
     .accesskey = R
