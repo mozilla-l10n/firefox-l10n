@@ -354,6 +354,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
 has-seccomp-tsync = Nitkowa synchronizacija Seccomp
 has-user-namespaces = Wužiwarske mjenowe rumy
 has-privileged-user-namespaces = Wužiwarske mjenowe rumy za priwilegowane procesy
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } – Waš system tutu funkciju njedowoluje. To móže wěstotne funkcije { -brand-short-name } wobmjezować.
 can-sandbox-content = Testowanje wobsahowych procesow w pěskowym kašćiku
 can-sandbox-media = Testowanje medijowych tykačow w pěskowym kašćiku
 content-sandbox-level = Runina wobsahowych procesow w pěskowym kašćiku
