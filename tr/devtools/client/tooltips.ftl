@@ -47,6 +47,7 @@ inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong> ayarl
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>, iç tablo elemanlarını etkilemez.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong>, tablo hücreleri dışında hiçbir iç tablo elemanını etkilemez.
 inactive-css-not-table = Bu eleman bir tablo olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-collapsed-table-borders = Bu eleman kenarlıkları daraltılmış bir tablo olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-table-cell = Bu eleman bir tablo hücresi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
@@ -66,6 +67,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] Bu elemanda { $lineCount } satırdan fazla satır olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
     }
 inactive-css-text-wrap-balance-fragmented = Bu eleman parçalı olduğu için, yani içeriği birden fazla sütuna veya sayfaya bölünmüş olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-no-width-height = Bu elemanın genişliği ve yüksekliği ayarlanamadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -92,6 +94,7 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> e
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> veya <strong>display:inline-table</strong> eklemeyi deneyin. { learn-more }
+inactive-css-collapsed-table-borders-fix = <strong>border-collapse:separate</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-table-cell-fix = <strong>display:table-cell</strong> eklemeyi deneyin. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> veya <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
 inactive-css-border-image-fix = Üst tablo elemanında özelliği kaldırın veya <strong>border-collapse</strong> değerini <strong>collapse</strong> dışında bir değerle değiştirin. { learn-more }

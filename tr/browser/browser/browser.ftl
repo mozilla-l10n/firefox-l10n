@@ -987,6 +987,10 @@ firefox-relay-offer-legal-notice = “E-posta maskesi kullan”a tıkladığın�
 popup-notification-addon-install-unsigned =
     .value = (Doğrulanmamış)
 popup-notification-xpinstall-prompt-learn-more = Eklentileri güvenle yükleme hakkında daha fazla bilgi alın
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Gizli pencerede çalışabilir
+    .accesskey = G
 
 ## Pop-up warning
 
