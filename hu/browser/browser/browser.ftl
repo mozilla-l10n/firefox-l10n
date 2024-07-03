@@ -990,6 +990,10 @@ firefox-relay-offer-legal-notice = Az „E-mail-maszk használata” gombra katt
 popup-notification-addon-install-unsigned =
     .value = (Ellenőrizetlen)
 popup-notification-xpinstall-prompt-learn-more = Tudjon meg többet a bővítmények biztonságos telepítéséről
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Futtatás privát ablakokban
+    .accesskey = F
 
 ## Pop-up warning
 

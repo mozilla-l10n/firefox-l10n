@@ -234,6 +234,12 @@ newtab-pocket-pocket-firefox-family = A { -pocket-brand-name } a { -brand-produc
 newtab-pocket-save = Mentés
 newtab-pocket-saved = Mentve
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Több hasonló
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Fedezze fel a web legjavát
