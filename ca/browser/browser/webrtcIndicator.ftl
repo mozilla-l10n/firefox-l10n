@@ -153,6 +153,17 @@ webrtc-allow-share-screen-and-audio-capture = Voleu permetre que { $origin } acc
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = Voleu permetre que aquest fitxer local escolti l'àudio d'aquesta pestanya?
+webrtc-allow-share-camera-with-file = Voleu permetre que aquest fitxer local utilitzi la càmera?
+webrtc-allow-share-microphone-with-file = Voleu permetre que aquest fitxer local utilitzi el micròfon?
+webrtc-allow-share-screen-with-file = Voleu permetre que aquest fitxer local accedeixi a la vostra pantalla?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Voleu permetre que aquest fitxer local utilitzi altres altaveus?
+webrtc-allow-share-camera-and-microphone-with-file = Voleu permetre que aquest fitxer local utilitzi la càmera i el micròfon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Voleu permetre que aquest fitxer local utilitzi la càmera i escolti l'àudio d'aquesta pestanya?
+webrtc-allow-share-screen-and-microphone-with-file = Voleu permetre que aquest fitxer local utilitzi el micròfon i accedeixi a la vostra pantalla?
+webrtc-allow-share-screen-and-audio-capture-with-file = Voleu permetre que aquest fitxer local accedeixi a la vostra pantalla i escolti l'àudio d'aquesta pestanya?
 
 ## Variables:
 ##   $origin (String): the first party origin.

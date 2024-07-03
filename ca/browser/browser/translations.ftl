@@ -219,6 +219,10 @@ select-translations-panel-translate-button =
     .label = Tradueix
 select-translations-panel-try-again-button =
     .label = Torna-ho a provar
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = S’està traduint…
+select-translations-panel-init-failure-message =
+    .message = No s’han pogut carregar les llengües. Comproveu la connexió a Internet i torneu-ho a provar.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Hi ha hagut un problema en traduir. Torneu-ho a provar.
@@ -232,3 +236,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Aquesta llengua encara no és compatible: { $language }
 select-translations-panel-unsupported-language-message-unknown =
     .message = Aquesta llengua encara no és compatible.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Paràmetres de les traduccions
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = La traducció ha acabat
