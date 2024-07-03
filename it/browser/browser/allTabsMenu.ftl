@@ -19,3 +19,5 @@ all-tabs-menu-manage-user-context =
 all-tabs-menu-close-duplicate-tabs =
   .label = Chiudi schede duplicate
 
+all-tabs-menu-close-all-duplicate-tabs =
+  .label = Chiudi tutte le schede duplicate
