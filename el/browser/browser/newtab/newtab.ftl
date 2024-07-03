@@ -234,6 +234,12 @@ newtab-pocket-pocket-firefox-family = Το { -pocket-brand-name } ανήκει �
 newtab-pocket-save = Αποθήκευση
 newtab-pocket-saved = Αποθηκεύτηκε
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = Απόρριψη
+    .aria-label = Απόρριψη
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Ανακαλύψτε τα καλύτερα του διαδικτύου
