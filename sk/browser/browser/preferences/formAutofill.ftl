@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Nastavenia adresy
 address-capture-learn-more-button =
     .label = Ďalšie informácie
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pridanie novej adresy
 address-capture-open-menu-button =
     .aria-label = Otvoriť ponuku
 address-capture-edit-address-button =
@@ -65,7 +63,7 @@ autofill-address-neighborhood = Susedstvo
 autofill-address-village-township = Obec alebo okres
 autofill-address-island = Ostrov
 # Used in IE
-autofill-address-townland = Mesto
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
@@ -91,7 +89,7 @@ autofill-address-area = Oblasť
 # Used in KR
 autofill-address-do-si = Do/Si
 # Used in NI, CO
-autofill-address-department = Department
+autofill-address-department = Departmán
 # Used in AE
 autofill-address-emirate = Emirát
 # Used in RU and UA
@@ -111,6 +109,8 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Pridanie novej adresy
 autofill-address-country = Krajina alebo oblasť
 autofill-address-country-only = Krajina
 autofill-address-tel = Telefón
@@ -122,11 +122,6 @@ autofill-country-warning-message = Automatické dopĺňanie formulárov momentá
 autofill-add-new-card-title = Pridanie novej platobnej karty
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Úprava platobnej karty
-autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Pridanie karty
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Upraviť údaje o karte
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } chce zobraziť informácie o platobnej karte. Prosím, potvrďte prístup k nižšie uvedenému účtu Windows.
        *[other] { -brand-short-name } chce zobraziť informácie o platobnej karte.
     }
+autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Pridanie karty
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Upraviť údaje o karte
 autofill-card-number = Číslo karty
 autofill-card-invalid-number = Prosím, zadajte platné číslo platobnej karty
 autofill-card-name-on-card = Meno na karte
