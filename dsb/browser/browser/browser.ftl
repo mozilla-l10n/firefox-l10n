@@ -998,6 +998,10 @@ firefox-relay-offer-legal-notice = Gaž na „E-mailowu masku wužywaś“ klika
 popup-notification-addon-install-unsigned =
     .value = (Njewobkšuśony)
 popup-notification-xpinstall-prompt-learn-more = Zgóńśo wěcej wó wěstem instalěrowanju dodankow
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = W priwatnych woknach wuwjasć
+    .accesskey = p
 
 ## Pop-up warning
 
