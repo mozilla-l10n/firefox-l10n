@@ -91,7 +91,6 @@ about-reader-custom-colors-visited-links = Link visitati
 about-reader-custom-colors-selection-highlight = Evidenziatore per lettura ad alta voce
     .title = Modifica colore
 
-about-reader-custom-colors-reset-button = Ripristina predefiniti
 about-reader-reset-button = Ripristina predefiniti
 
 ## Reader View improved text and layout menu
@@ -108,9 +107,6 @@ about-reader-font-weight-bold = Grassetto
 about-reader-layout-header = Layout
 about-reader-advanced-layout-header = Avanzate
 
-about-reader-slider-label-width-narrow = Stretta
-about-reader-slider-label-width-wide = Larga
-about-reader-slider-label-spacing-narrow = Ridotta
 about-reader-slider-label-spacing-standard = Normale
 about-reader-slider-label-spacing-wide = Espansa
 
