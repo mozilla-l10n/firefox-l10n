@@ -57,11 +57,11 @@ pdfjs-document-properties-file-size = फायलीचो आकार:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = {{आकार_kb}} KB ({{आकार_b}} बायटस्)
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } बायटस्)
 # Variables:
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = {{आकार_mb}} MB ({{आकार_b}} बायटस्)
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } बायटस्)
 pdfjs-document-properties-title = मथळो:
 pdfjs-document-properties-author = बरोवपी:
 pdfjs-document-properties-subject = विशय:
@@ -71,7 +71,7 @@ pdfjs-document-properties-modification-date = सुदार तारीक:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
-pdfjs-document-properties-date-string = {{तारीक}}, {{वेळ}}
+pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = निर्मातो:
 pdfjs-document-properties-producer = PDF निर्मातो:
 pdfjs-document-properties-version = PDF आवृत्ती:
@@ -114,11 +114,11 @@ pdfjs-findbar-button =
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
-    .title = पान {{पान}}
+    .title = पान { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
-    .aria-label = {{पान}} पानाचे थंबनेल
+    .aria-label = { $page } पानाचे थंबनेल
 
 ## Find panel button title and messages
 
@@ -160,7 +160,7 @@ pdfjs-rendering-error = पान रेंडरिंग करतास्त
 # (32000-1:2008 Table 169 – Annotation types).
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
-    .alt = [{{प्रकार}} टिप्पणी]
+    .alt = [{ $type } टिप्पणी]
 
 ## Password
 
