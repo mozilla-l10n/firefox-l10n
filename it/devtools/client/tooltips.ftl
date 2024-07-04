@@ -50,6 +50,12 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> non ha
 inactive-css-not-display-block-on-floated = Il valore di <strong>display</strong> è stato modificato in <strong>block</strong> in quanto l’elemento è <strong>floated</strong>.
 inactive-css-not-display-block-on-floated-2 = Il valore di <strong>display</strong> è stato modificato in <strong>{ $display }</strong> in quanto l’elemento è <strong>floated</strong>.
 
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> non ha effetto in quanto non può essere applicato ad elementi grid o flex.
+
+inactive-css-not-block = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto può essere applicato solo ad elementi block-level.
+
+inactive-css-not-floated = <strong>{ $property }</strong> non ha effetto in quanto non può essere applicato ad elementi floated.
+
 inactive-css-property-is-impossible-to-override-in-visited = Non è possibile ignorare <strong>{ $property }</strong> per la restrizione causata da <strong>:visited</strong>.
 
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento posizionato.
@@ -123,6 +129,12 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provare ad aggi
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provare ad aggiungere <strong>display:inline-block</strong>. { learn-more }
 
 inactive-css-not-display-block-on-floated-fix = Provare a rimuovere <strong>float</strong> o aggiungere <strong>display:block</strong>. { learn-more }
+
+inactive-css-only-non-grid-or-flex-item-fix = Provare a impostare <strong>display</strong> per il contenitore dell’elemento a un valore diverso da <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, o <strong>inline-grid</strong>, oppure rimuovere <strong>float</strong>. { learn-more }
+
+inactive-css-not-block-fix = Provare ad aggiungere proprietà come <strong>display:block</strong> o <strong>float:left</strong>. { learn-more }
+
+inactive-css-not-floated-fix = Provare ad aggiungere la proprietà <strong>float</strong> con un valore diverso da <strong>none</strong>. { learn-more }
 
 inactive-css-position-property-on-unpositioned-box-fix = Provare a impostare per la proprietà <strong>position</strong> un valore diverso da <strong>static</strong>. { learn-more }
 
