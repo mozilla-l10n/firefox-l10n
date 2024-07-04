@@ -990,6 +990,10 @@ firefox-relay-offer-legal-notice = Troch op ‘E-mailmasker brûke’ te klikken
 popup-notification-addon-install-unsigned =
     .value = (Net ferifiearre)
 popup-notification-xpinstall-prompt-learn-more = Mear ynfo oer it feilich ynstallearjen fan add-ons
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Utfiere yn priveefinsters
+    .accesskey = p
 
 ## Pop-up warning
 
