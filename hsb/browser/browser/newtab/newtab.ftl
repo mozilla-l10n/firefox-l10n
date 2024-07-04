@@ -242,6 +242,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Nic za mnje
+newtab-toast-thumbs-up-or-down = Dźakujemy so. Waše měnjenje budźe nam pomhać, waš kanal polěpšić.
 newtab-toast-dismiss-button =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
