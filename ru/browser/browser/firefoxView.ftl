@@ -154,7 +154,7 @@ firefoxview-show-more = Показать больше
 firefoxview-show-less = Показать меньше
 firefoxview-show-all = Показать все
 firefoxview-search-text-box-clear-button =
-    .title = Очистить
+    .title = Удалить
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = Поиск
