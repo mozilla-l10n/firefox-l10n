@@ -68,11 +68,11 @@ pdfjs-findbar-button =
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
-    .title = Ukurasa {{ukurasa}}
+    .title = Ukurasa { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
-    .aria-label = Kijipicha cha ukurasa {{ukurasa}}
+    .aria-label = Kijipicha cha Ukurasa { $page }
 
 ## Find panel button title and messages
 
@@ -123,9 +123,22 @@ pdfjs-web-fonts-disabled = Fonti za tovuti zimelemazwa: haziwezi kutumia fonti z
 ## Editing
 
 
+## Remove button for the various kind of editor.
+
+
+##
+
+
 ## Alt-text dialog
 
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
 
