@@ -67,10 +67,10 @@ item-cookies =
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cookies-site-data-with-size =
     .label = Cookies e dados de sites ({ $amount } { $unit })
-    .accesskey = e
+    .accesskey = k
 item-cookies-site-data =
     .label = Cookies e dados de sites
-    .accesskey = e
+    .accesskey = k
 item-cookies-site-data-description = Pode desconectar de contas de sites ou esvaziar carrinhos de compras
 item-active-logins =
     .label = Contas de acesso ativas
@@ -82,11 +82,11 @@ item-cache =
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
-    .label = Arquivos e páginas em cache temporário ({ $amount } { $unit })
-    .accesskey = h
+    .label = Cache temporário de arquivos e páginas ({ $amount } { $unit })
+    .accesskey = C
 item-cached-content =
-    .label = Arquivos e páginas temporariamente em cache
-    .accesskey = A
+    .label = Cache temporário de arquivos e páginas
+    .accesskey = C
 item-cached-content-description = Limpa itens que ajudam a carregar sites mais rápido
 item-form-search-history =
     .label = Histórico de formulários e pesquisa
