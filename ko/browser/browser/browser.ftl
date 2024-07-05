@@ -633,6 +633,15 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = 최근 검색
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } 인기
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = 인기 검색어를 표시하지 않음
+    .accesskey = D
 
 ## Reader View toolbar buttons
 

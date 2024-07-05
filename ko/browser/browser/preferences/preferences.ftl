@@ -1096,6 +1096,9 @@ addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-locbar-showrecentsearches-option =
     .label = 최근 검색 표시
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = 인기 검색어 제안 표시
+    .accesskey = t
 addressbar-quickactions-learn-more = 더 알아보기
 
 ## Privacy Section - Content Blocking
