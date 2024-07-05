@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = H
 all-tabs-menu-close-duplicate-tabs =
     .label = Lat att duplikatfaner
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Lat att alle duplikatfaner
