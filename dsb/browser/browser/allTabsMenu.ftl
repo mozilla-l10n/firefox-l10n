@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = K
 all-tabs-menu-close-duplicate-tabs =
     .label = Dwójne rejtariki zacyniś
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Wšykne dwójne rejtariki zacyniś

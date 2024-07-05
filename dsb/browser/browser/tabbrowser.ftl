@@ -139,6 +139,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Toś ten dialogowy kašćik wěcej n
 
 tabbrowser-confirm-close-duplicate-tabs-title = Glědajśo
 tabbrowser-confirm-close-duplicate-tabs-text = Wóstajijomy slědny aktiwny rejtarik wócynjony
+tabbrowser-confirm-close-all-duplicate-tabs-title = Dwójne rejtariki zacyniś?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Zacynijomy dwójne rejtariki w toś tom woknje. Slědny aktiwny
+    rejtarik wóstanjo wócynjony.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Rejtariki zacyniś
 
 ##
 
