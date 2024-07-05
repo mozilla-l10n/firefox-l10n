@@ -42,6 +42,7 @@ inactive-css-not-display-block-on-floated = Hódnota <strong>display</strong> je
 inactive-css-not-display-block-on-floated-2 = Hódnota <strong>display</strong> je so přez engine do <strong>{ $display }</strong> změnił, dokelž element je <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž njeda so ani na zapiskach grid ani na zapiskach flex wužiwać.
 inactive-css-not-block = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž so jenož na elementy blokoweje runiny nałožuje.
+inactive-css-not-floated = <strong>{ $property }</strong> wuskutk nima, dokelž so jenož na znošowacy so elementy nałožuje.
 inactive-css-property-is-impossible-to-override-in-visited = Wobmjezowanja <strong>:visited</strong> dla je njemóžno, <strong>{ $property }</strong> přepisać.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> na tutón element efekt nima, dokelž pozicionowany element njeje.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž da so jenož na wuměnjene elementy nałožić.
