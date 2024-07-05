@@ -642,6 +642,12 @@ urlbar-group-trending =
 urlbar-result-menu-trending-dont-show =
     .label = 인기 검색어를 표시하지 않음
     .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = 왜 이게 표시되나요?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = 의견을 보내주셔서 감사합니다. 더 이상 인기 검색어가 표시되지 않습니다.
 
 ## Reader View toolbar buttons
 

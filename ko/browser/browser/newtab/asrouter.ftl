@@ -11,7 +11,7 @@ cfr-doorhanger-feature-heading = 추천 기능
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = 왜 이게 나왔나요
+    .tooltiptext = 왜 이게 표시되나요
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
 cfr-doorhanger-extension-ok-button = 지금 추가
