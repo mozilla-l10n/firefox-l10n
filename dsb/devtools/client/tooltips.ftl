@@ -80,7 +80,7 @@ inactive-css-no-width-height = <strong>{ $property }</strong> njama efekt na to�
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
 
-inactive-css-not-grid-or-flex-container-fix = Wppytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś. { learn-more }
+inactive-css-not-grid-or-flex-container-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-or-block-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>display:block</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> pśidaś. { learn-more }
 inactive-css-not-multicol-container-fix = Wopytajśo pak <strong>column-count</strong> pak <strong>column-width</strong> pśidaś. { learn-more }
