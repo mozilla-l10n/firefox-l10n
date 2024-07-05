@@ -94,6 +94,7 @@ inactive-css-not-inline-or-tablecell-fix = Wopytajśo <strong>display:inline</st
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Wopytajśo <strong>display:inline-block</strong> abo <strong>display:block</strong> pśidaś. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Wopytajśo <strong>display:inline-block</strong> pśidaś. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Wopytajśo <strong>float</strong> wotstronić abo <strong>display:block</strong> pśidaś. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Wopytajśo gódnotu <strong>display</strong> elementowego kontejnera do něco drugego ako <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změniś abo <strong>float</strong> wótwónoźeś. { learn-more }
 inactive-css-not-block-fix = Wopytajśo kakosći <strong>display:block</strong> abo <strong>float:left</strong> pśidaś. { learn-more }
 inactive-css-not-floated-fix = Wopytajśo kakosć <strong>float</strong> z drugeju gódnotu ako <strong>none</strong> pśidaś. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Wopytajśo jogo kakosć <strong>position</strong> na něco druge ako <strong>static</strong> nastajiś. { learn-more }
