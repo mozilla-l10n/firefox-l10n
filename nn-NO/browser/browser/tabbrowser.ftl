@@ -115,6 +115,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ikkje vis denne dialogen igjen.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Varsel
 tabbrowser-confirm-close-duplicate-tabs-text = Vi held den siste aktive fana open
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Lat att faner
 
 ##
 
