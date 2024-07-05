@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = M
 all-tabs-menu-close-duplicate-tabs =
     .label = Serra is ischedas duplicadas
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Serra totu is ischedas duplicadas

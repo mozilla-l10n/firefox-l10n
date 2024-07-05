@@ -126,7 +126,13 @@ translations-manage-description = Iscàrriga lìnguas pro sa tradutzione in fora
 translations-manage-all-language = Totu is lìnguas
 translations-manage-download-button = Iscàrriga
 translations-manage-delete-button = Cantzella
+translations-manage-intro-2 = Cunfigura is preferèntzias de lìngua e tradutzione de sitos e gesti is lìnguas iscarrigadas pro sa tradutzione a foras de lìnia.
 translations-manage-download-description = Iscàrriga lìnguas pro sa tradutzione in foras de lìnia
+translations-manage-language-download-button =
+    .label = Iscàrriga
+translations-manage-language-download-all-button =
+    .label = Iscàrriga totu
+    .accesskey = I
 translations-manage-language-remove-button =
     .label = Boga
 translations-manage-language-remove-all-button =
@@ -165,12 +171,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Serra
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Tradue sa seletzione...
+    .accesskey = T
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Tradue sa seletzione in { $language }
+    .accesskey = r
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Tradue su testu de su ligòngiu…
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Tradue su testu de su ligòngiu in { $language }…
+    .accesskey = i
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tradutzione
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Dae
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = A
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Proa un'àtera limba de orìgine
 select-translations-panel-cancel-button =
     .label = Annulla
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Còpia
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiadu
+select-translations-panel-done-button =
+    .label = Fatu
+select-translations-panel-translate-full-page-button =
+    .label = Tradue totu sa pàgina
 select-translations-panel-translate-button =
     .label = Tradue
 select-translations-panel-try-again-button =
     .label = Torra a nche proare
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Su testu traduidu at a apàrrere inoghe.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traduende…
+select-translations-panel-init-failure-message =
+    .message = Impossìbile carrigare is limbas. Averìgua sa connessione tua a Internet e torra a proare.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Ddoe est istadu unu problema cun sa tradutzione. Torra a proare.
@@ -184,3 +240,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Custa lìngua no est ancora cumpatìbile: { $language }
 select-translations-panel-unsupported-language-message-unknown =
     .message = Custa lìngua no est ancora cumpatìbile.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Cunfiguratzione de sa tradutzione
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Tradutzione cumpletada

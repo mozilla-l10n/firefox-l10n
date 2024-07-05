@@ -637,6 +637,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Chircas reghentes
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Tendèntzia in { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = No ammustres is chircas de tendèntzias
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Pro ite bido custu?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Gràtzias de su feedback. Non t'amus a ammustrare àteras chircas de tendèntzias.
 
 ## Reader View toolbar buttons
 
