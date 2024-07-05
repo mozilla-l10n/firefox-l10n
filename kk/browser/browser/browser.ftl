@@ -637,6 +637,9 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Жуырдағы іздеулер
+urlbar-result-menu-trending-why =
+    .label = Мен бұны неге көріп отырмын?
+    .accesskey = н
 
 ## Reader View toolbar buttons
 
