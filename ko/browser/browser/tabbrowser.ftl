@@ -91,6 +91,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = 이 대화 상자를 다시 표시�
 
 tabbrowser-confirm-close-duplicate-tabs-title = 주의하세요
 tabbrowser-confirm-close-duplicate-tabs-text = 최근 활성 탭을 계속 열어 둡니다.
+tabbrowser-confirm-close-all-duplicate-tabs-title = 중복 탭을 닫으시겠습니까?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    이 창에서 중복 탭을 닫습니다. 
+    마지막 활성 탭은 계속 열려 있습니다.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = 탭 닫기
 
 ##
 
