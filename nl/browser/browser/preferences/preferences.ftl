@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 addressbar-locbar-showrecentsearches-option =
     .label = Recente zoekopdrachten tonen
     .accesskey = R
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Trending zoeksuggesties tonen
+    .accesskey = T
 addressbar-quickactions-learn-more = Meer info
 
 ## Privacy Section - Content Blocking

@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Dubbele tabbladen sluiten
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Alle dubbele tabbladen sluiten
