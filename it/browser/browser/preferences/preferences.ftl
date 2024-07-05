@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra ricerche recenti
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostra suggerimenti di ricerca di tendenza
+    .accesskey = m
 addressbar-quickactions-learn-more = Ulteriori informazioni
 
 ## Privacy Section - Content Blocking

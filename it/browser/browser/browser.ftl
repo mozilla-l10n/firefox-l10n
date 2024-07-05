@@ -638,6 +638,24 @@ urlbar-group-quickactions =
 urlbar-group-recent-searches =
     .label = Ricerche recenti
 
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+  .label = Di tendenza su { $engine }
+
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Non mostrare ricerche di tendenza
+    .accesskey = z
+urlbar-result-menu-trending-why =
+    .label = Perché viene visualizzato questo elemento?
+    .accesskey = P
+
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Grazie per il tuo feedback. Le ricerche di tendenza non verranno più visualizzate.
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
