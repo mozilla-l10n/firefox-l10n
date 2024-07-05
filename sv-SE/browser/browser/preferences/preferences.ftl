@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 addressbar-locbar-showrecentsearches-option =
     .label = Visa senaste sökningar
     .accesskey = s
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Visa populära sökförslag
+    .accesskey = V
 addressbar-quickactions-learn-more = Läs mer
 
 ## Privacy Section - Content Blocking

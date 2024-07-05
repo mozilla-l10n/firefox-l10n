@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = b
 all-tabs-menu-close-duplicate-tabs =
     .label = Stäng dubbla flikar
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Stäng alla dubbla flikar
