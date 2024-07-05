@@ -139,6 +139,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Tutón dialogowy kašćik wjace njep
 
 tabbrowser-confirm-close-duplicate-tabs-title = Kedźbu
 tabbrowser-confirm-close-duplicate-tabs-text = Wostajimy posledni aktiwny rajtark wočinjeny
+tabbrowser-confirm-close-all-duplicate-tabs-title = Dwójne rajtarki začinić?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Rajtarki začinić
 
 ##
 

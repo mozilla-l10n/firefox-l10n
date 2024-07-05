@@ -648,6 +648,9 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Najnowše pytanja
+urlbar-result-menu-trending-why =
+    .label = Čehodla so to pokazuje?
+    .accesskey = h
 
 ## Reader View toolbar buttons
 
