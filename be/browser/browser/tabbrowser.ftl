@@ -131,6 +131,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Не паказваць мне гэ�
 
 tabbrowser-confirm-close-duplicate-tabs-title = Увага
 tabbrowser-confirm-close-duplicate-tabs-text = Мы будзем трымаць адкрытай апошнюю актыўную картку
+tabbrowser-confirm-close-all-duplicate-tabs-title = Закрыць дублікаты картак?
 
 ##
 

@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = К
 all-tabs-menu-close-duplicate-tabs =
     .label = Закрыць дублікаты картак
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Закрыць усе дублікаты картак
