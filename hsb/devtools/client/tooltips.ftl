@@ -94,6 +94,7 @@ inactive-css-not-inline-or-tablecell-fix = Spytajće <strong>display:inline</str
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Spytajće <strong>display:inline-block</strong> abo <strong>display:block</strong> přidać. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Spytajće <strong>display:inline-block</strong> přidać. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Spytajće <strong>float</strong> wotstronić abo <strong>display:block</strong> přidać. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Spytajće hódnotu <strong>display</strong> elementoweho kontejnera do něšto druheho hač <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změnić abo <strong>float</strong> wotstronić. { learn-more }
 inactive-css-not-block-fix = Spytajće kajkosće kaž <strong>display:block</strong> abo <strong>float:left</strong> přidać. { learn-more }
 inactive-css-not-floated-fix = Spytajće kajkosć <strong>float</strong> z druhej hódnotu hač <strong>none</strong> přidać. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Spytajće jeho kajkosć <strong>position</strong> na něšto druhe hač <strong>static</strong> nastajić. { learn-more }
