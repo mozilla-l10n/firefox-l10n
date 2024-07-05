@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 addressbar-locbar-showrecentsearches-option =
     .label = Resinte sykopdrachten toane
     .accesskey = R
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Trending syksuggestjes toane
+    .accesskey = T
 addressbar-quickactions-learn-more = Mear ynfo
 
 ## Privacy Section - Content Blocking

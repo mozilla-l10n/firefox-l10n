@@ -640,6 +640,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Resinte sykopdrachten
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Trending op { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Gjin trending sykopdrachten toane
+    .accesskey = G
+urlbar-result-menu-trending-why =
+    .label = Wêrom sjoch ik dit?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Tank foar jo kommentaar. Jo sille gjin trending sykopdrachten mear sjen.
 
 ## Reader View toolbar buttons
 

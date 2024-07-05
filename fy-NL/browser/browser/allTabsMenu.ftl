@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = K
 all-tabs-menu-close-duplicate-tabs =
     .label = Dûbele ljepblêden slute
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Alle dûbele ljepblêden slute
