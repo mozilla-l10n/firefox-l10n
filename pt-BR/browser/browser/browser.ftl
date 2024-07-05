@@ -637,6 +637,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Pesquisas recentes
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Populares no { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Não mostrar pesquisas populares
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Por que isso apareceu?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Obrigado por sua opinião Não aparecerá mais pesquisas populares.
 
 ## Reader View toolbar buttons
 

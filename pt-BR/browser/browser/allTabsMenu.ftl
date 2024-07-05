@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = O
 all-tabs-menu-close-duplicate-tabs =
     .label = Fechar abas duplicadas
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Fechar todas as abas duplicadas
