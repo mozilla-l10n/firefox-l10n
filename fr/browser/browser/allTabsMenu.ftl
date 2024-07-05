@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Fermer les onglets en double
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Fermer tous les onglets en double
