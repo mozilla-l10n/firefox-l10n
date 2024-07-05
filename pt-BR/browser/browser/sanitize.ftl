@@ -71,7 +71,7 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies e dados de sites
     .accesskey = k
-item-cookies-site-data-description = Pode desconectar de contas de sites ou esvaziar carrinhos de compras
+item-cookies-site-data-description = Limpar pode desconectar de contas de sites ou esvaziar carrinhos de compras
 item-active-logins =
     .label = Contas de acesso ativas
     .accesskey = n
@@ -87,14 +87,14 @@ item-cached-content-with-size =
 item-cached-content =
     .label = Cache temporário de arquivos e páginas
     .accesskey = C
-item-cached-content-description = Limpa itens salvos localmente para ajudar a carregar sites mais rápido, evitando que precise baixar novamente
+item-cached-content-description = Limpa itens que foram salvos localmente (ajudam a carregar sites mais rápido, pois não precisa baixar novamente)
 item-form-search-history =
     .label = Histórico de formulários e pesquisa
     .accesskey = f
 item-site-prefs =
     .label = Configurações de sites
     .accesskey = f
-item-site-prefs-description = Redefine para a configuração original suas permissões e preferências de sites
+item-site-prefs-description = Redefine suas permissões e preferências de sites para a configuração original
 data-section-label = Dados
 item-site-settings =
     .label = Configurações de sites
@@ -122,4 +122,4 @@ sanitize-everything-warning = Todo o histórico será limpo.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Todos os itens selecionados serão limpos.
+sanitize-selected-warning = Será limpo tudo dos itens selecionados.
