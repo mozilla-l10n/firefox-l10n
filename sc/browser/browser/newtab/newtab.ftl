@@ -233,6 +233,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa fam
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvadu
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Iscoberi su mègius de su web
@@ -293,10 +296,57 @@ newtab-wallpaper-dark-panda = Panda ruju cuadu in su padente
 newtab-wallpaper-dark-sky = Paesàgiu de tzitade cun chelu de note
 newtab-wallpaper-dark-mountain = Paesàgiu de monte
 newtab-wallpaper-dark-city = Paesàgiu de tzitade tanada
+
+## Solid Colors
+
+newtab-wallpaper-blue = Asulu
+newtab-wallpaper-light-blue = Asulu craru
+newtab-wallpaper-light-purple = Tanadu craru
+newtab-wallpaper-light-green = Birde craru
+newtab-wallpaper-green = Birde
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Grogu
+newtab-wallpaper-orange = Arantzu
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa craru
+newtab-wallpaper-red = Ruju
+newtab-wallpaper-dark-blue = Asulu iscuru
+newtab-wallpaper-dark-purple = Tanadu iscuru
+newtab-wallpaper-dark-green = Birde iscuru
+newtab-wallpaper-brown = Marrone
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Astratu
+newtab-wallpaper-abstract-green = Formas birdes
+newtab-wallpaper-abstract-blue = Formas asulas
+newtab-wallpaper-abstract-purple = Formas tanadas
+newtab-wallpaper-abstract-orange = Formas arantzu
+newtab-wallpaper-abstract-blue-purple = Formas asulas e tanadas
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografias
+newtab-wallpaper-beach-at-sunrise = Ispiàgia in s'arbeschidòrgiu
+newtab-wallpaper-beach-at-sunset = Ispiàgia in s'iscurigadòrgiu
+newtab-wallpaper-storm-sky = Chelu in traschia
+newtab-wallpaper-sky-with-pink-clouds = Chelu cun nues rosas
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ruju cascat a subra de un'àrbore
+newtab-wallpaper-white-mountains = Montes biancos
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografia de <a data-l10n-name="name-link">{ $author_string }</a> subra <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Proa un’istrichiddu de colore
+newtab-wallpaper-feature-highlight-content = Dona a s'ischeda noa una bisura frisca cun isfundos.
+newtab-wallpaper-feature-highlight-button = Apo cumprèndidu
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Serra
+    .aria-label = Serra ventanedda
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

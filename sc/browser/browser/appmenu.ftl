@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Ammustra prus ischedas
     .tooltiptext = Ammustra prus ischedas dae custu dispositivu
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Ammustra un'ischeda inativa
-           *[other] Ammustra { $count } ischedas inativas
-        }
-    .tooltiptext = Ammustra is ischedas inativas in custu dispositivu
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Ischedas inativas
@@ -206,6 +196,8 @@ profiler-popup-presets-power-description = Profilu pro compidare faddinas de imp
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-label =
+    .label = Curregi faddinas
 profiler-popup-presets-custom-label =
     .label = Personalizadu
 

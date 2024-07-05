@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Su verificadore de retzensiones est <s
 shopping-adjusted-rating-label =
     .label = Valutatzione assentada
 shopping-adjusted-rating-unreliable-reviews = Retzensiones non fidadas bogadas
+shopping-adjusted-rating-based-reliable-reviews = Basadu subra retzensiones fidadas
 
 ## Strings for the review reliability component
 

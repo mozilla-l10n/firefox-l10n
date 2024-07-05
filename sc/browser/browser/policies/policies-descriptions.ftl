@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Impedi a su navigadore de s'agiornare.
 policy-DisableBuiltinPDFViewer = Disativa PDF.js, su leghidore de PDF integradu in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedi a s'agente de su navigadore predefinidu de fàghere cale si siat atzione. Si podet aplicare petzi a Windows; àteras prataformas non tenent s'agente.
 policy-DisableDeveloperTools = Bloca s'atzessu a is ainas de isvilupu.
+policy-DisableEncryptedClientHello = Disativa s'impreu de TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disativa is cumandos pro imbiare opiniones dae su menù Agiudu («Imbia opiniones» e «Sinnala unu situ ingannosu»).
 policy-DisableFirefoxAccounts = Disativa is servìtzios basados subra de { -fxaccount-brand-name }, incluende Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Disativa is servìtzios basados subra de contos, incluida sa sincronizatzione.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disativa sa funtzionalidade de ischermadas de Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedi a { -brand-short-name } de fàghere istùdios.
@@ -81,6 +84,8 @@ policy-Handlers = Cunfigura is gestores de aplicatziones predefinidos.
 policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware est istudada.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Cunfigura e, si boles, bloca sa pàgina initziale.
+policy-HttpAllowlist = Orìgines chi no ant a essere atualizadas a HTTPS.
+policy-HttpsOnlyMode = Permite de ativare sa modalidade «isceti HTTPS»
 policy-InstallAddonsPermission = Permite a tzertos sitos de installare cumplementos.
 policy-LegacyProfiles = Istuda sa funtzione chi pedit unu profilu separadu pro ònnia installatzione.
 

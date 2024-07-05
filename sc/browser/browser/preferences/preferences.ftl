@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Chirca in cunfiguratzione
 managed-notice = Su navigadore est gestidu dae s'organizatzione tua.
+managed-notice-info-icon =
+    .alt = Informatzione
 category-list =
     .aria-label = Categorias
 pane-general-title = Generale
@@ -598,6 +600,9 @@ home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos re
 home-prefs-snippets-header =
     .label = Retàllios
 home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Tempus
+home-prefs-weather-learn-more-link = Àteras informatziones
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -712,6 +717,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Muda s'immàgine de su profilu
     .alt = Muda s'immàgine de su profilu
+sync-profile-picture-account-problem =
+    .alt = Immàgine de profilu
+fxa-login-rejected-warning =
+    .alt = Avisu
 sync-sign-out =
     .label = Serra sa sessione…
     .accesskey = s
@@ -939,6 +948,7 @@ primary-password-os-auth-dialog-message-win = Pro creare una crae printzipale, i
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crea una crae printzipale
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -953,14 +963,6 @@ autofill-payment-methods-checkbox-submessage = Includet cartas de crèditu e de 
     .accesskey = I
 autofill-saved-payment-methods-button = Mètodos de pagamentu sarvados
     .accesskey = t
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Rechede s’autenticatzione de macOS pro insertare e modificare is mètodos de pagamentu.
-        [windows] Rechede s’autenticatzione de Windows pro insertare e modificare is mètodos de pagamentu.
-        [linux] Rechede s’autenticatzione de Linux pro insertare e modificare is mètodos de pagamentu.
-       *[other] Rechede s’autenticatzione pro insertare e modificare is mètodos de pagamentu.
-    }
-    .accesskey = e
 
 ## Privacy Section - History
 
@@ -1287,6 +1289,10 @@ privacy-segmentation-radio-off =
     .label = Imprea is cussìgios de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Ammustra informatziones detalliadas
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferèntzias de publitzidade de su situ
 
 ## Privacy Section - Security
 ##
