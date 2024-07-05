@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 addressbar-locbar-showrecentsearches-option =
     .label = Sýna nýlegar leitir
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Sýna vinsælar leitartillögur
+    .accesskey = t
 addressbar-quickactions-learn-more = Kanna nánar
 
 ## Privacy Section - Content Blocking

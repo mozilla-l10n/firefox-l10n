@@ -115,6 +115,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ekki sýna þennan glugga aftur.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Gættu þín
 tabbrowser-confirm-close-duplicate-tabs-text = Við munum halda síðasta virka flipanum opnum
+tabbrowser-confirm-close-all-duplicate-tabs-title = Loka tvíteknum flipum?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Við munum loka tvíteknum flipum í þessum glugga. Síðasti
+    virki flipinn verður áfram opinn.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Loka flipum
 
 ##
 

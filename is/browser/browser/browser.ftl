@@ -640,6 +640,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nýlegar leitir
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Vinsælt á { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ekki sýna vinsælar leitir
+    .accesskey = k
+urlbar-result-menu-trending-why =
+    .label = Hvers vegna er ég að sjá þetta?
+    .accesskey = v
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Takk fyrir álit þitt. Þú munt ekki lengur sjá vinsælar leitir.
 
 ## Reader View toolbar buttons
 

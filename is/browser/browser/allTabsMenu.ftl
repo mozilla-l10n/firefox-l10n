@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = f
 all-tabs-menu-close-duplicate-tabs =
     .label = Loka tvíteknum flipum
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Loka öllum tvíteknum flipum
