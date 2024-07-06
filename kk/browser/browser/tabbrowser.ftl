@@ -115,6 +115,10 @@ tabbrowser-confirm-caretbrowsing-checkbox = Осы сұхбат терезесі
 
 tabbrowser-confirm-close-duplicate-tabs-title = Ескерту
 tabbrowser-confirm-close-duplicate-tabs-text = Біз соңғы белсенді бетті ашық ұстаймыз
+tabbrowser-confirm-close-all-duplicate-tabs-title = Қайталанатын беттерді жабу керек пе?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Бұл терезеде қайталанатын беттерді жабамыз. Соңғы белсенді
+    бет ашық қалады.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Беттерді жабу
 
 ##

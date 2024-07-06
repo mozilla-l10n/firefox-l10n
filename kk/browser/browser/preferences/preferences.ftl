@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 addressbar-locbar-showrecentsearches-option =
     .label = Жуырдағы іздеулерді көрсету
     .accesskey = р
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Танымал іздеу ұсыныстарын көрсету
+    .accesskey = т
 addressbar-quickactions-learn-more = Көбірек білу
 
 ## Privacy Section - Content Blocking
