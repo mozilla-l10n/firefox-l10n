@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = U
 all-tabs-menu-close-duplicate-tabs =
     .label = Zapri podvojene zavihke
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Zapri vse podvojene zavihke
