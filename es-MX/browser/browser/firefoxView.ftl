@@ -42,6 +42,7 @@ firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
+firefoxview-syncedtabs-synctabs-header = Actualiza tu configuración de sincronización
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
@@ -103,18 +104,40 @@ firefoxview-overview-header = Navegación reciente
 firefoxview-history-nav = Historial
     .title = Historial
 firefoxview-history-header = Historial
+firefoxview-history-context-delete = Eliminar del historial
+    .accesskey = E
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Pestañas abiertas
+    .title = Pestañas abiertas
+firefoxview-opentabs-header = Pestañas abiertas
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Pestañas cerradas recientemente
+    .title = Pestañas cerradas recientemente
+firefoxview-recently-closed-header = Pestañas cerradas recientemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = Ver todo
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Ventana { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Ventana { $winID } (actual)
+firefoxview-opentabs-focus-tab =
+    .title = Cambiar a esta pestaña
+firefoxview-show-more = Mostrar más
+firefoxview-show-less = Mostrar menos
 firefoxview-show-all = Mostrar todo
 firefoxview-search-text-box-clear-button =
     .title = Limpiar
@@ -160,6 +183,8 @@ firefoxview-opentabs-tab-row =
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Hoy - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Ayer - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in

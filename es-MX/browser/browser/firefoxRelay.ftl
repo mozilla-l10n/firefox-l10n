@@ -17,6 +17,8 @@ firefox-relay-must-login-to-fxa = Debes iniciar sesión en { -fxaccount-brand-na
 firefox-relay-get-unlimited-masks =
     .label = Administrar máscaras
     .accesskey = A
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Protege tu dirección de correo electrónico:
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Usar la máscara de correo electrónico
     .accesskey = U
