@@ -180,28 +180,53 @@ firefoxview-history-empty-description-two = La protección de tu privacidad est�
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Elegir navegador
+    .title = Elegir navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nada que mostrar
+firefoxview-dont-remember-history-empty-description-two = Basándose en tus configuraciones actuales, { -brand-short-name } no recuerda tu actividad mientras navegas. Para cambiarlo, <a data-l10n-name="history-settings-url-two">cambia tus configuraciones de historial para que recuerde tu historial</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Cerrar
+    .title = Cerrar
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar historial desde otro navegador
+firefoxview-import-history-description = Haz de { -brand-short-name } tu navegador favorito. Importa el historial de navegación, los marcadores y más.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ¿Cerraste una pestaña demasiado pronto?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = Conectar otro dispositivo
+firefoxview-pinned-tabs =
+    .title = Pestañas fijas
+firefoxview-tabs =
+    .title = Pestañas
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Cambiar a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Cambiar a (Marcado como favorito) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Marcado como favorito) { $url }

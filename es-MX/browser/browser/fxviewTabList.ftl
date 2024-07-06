@@ -4,25 +4,24 @@
 
 fxviewtabrow-open-menu-button =
     .title = Abrir menú
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Abrir { $targetURI } en una pestaña nueva
-
+# Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Cerrar { $tabTitle }
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Descartar { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ahora mismo
 
@@ -44,3 +43,20 @@ fxviewtabrow-save-to-pocket = Guardar en { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Copiar enlace
     .accesskey = L
+fxviewtabrow-close-tab = Cerrar pestaña
+    .accesskey = C
+fxviewtabrow-move-tab = Mover pestaña
+    .accesskey = v
+fxviewtabrow-move-tab-start = Mover al inicio
+    .accesskey = S
+fxviewtabrow-move-tab-end = Mover al final
+    .accesskey = E
+fxviewtabrow-move-tab-window = Mover a una nueva ventana
+    .accesskey = W
+fxviewtabrow-send-tab = Enviar pestaña al dispositivo
+    .accesskey = n
+fxviewtabrow-pin-tab = Fijar Pestaña
+    .accesskey = P
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

@@ -108,6 +108,30 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizada
        *[other] { $updatedEntries } actualizadas
     }
+migration-bookmarks-from-file-progress-header = Importando marcadores
+migration-bookmarks-from-file = Marcadores
+migration-bookmarks-from-file-success-header = Marcadores importados con éxito
+migration-bookmarks-from-file-no-valid-data = El archivo no contiene datos de marcadores. Elija otro archivo.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Documento HTML
+       *[other] Archivo HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Archivo JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } marcador
+       *[other] { $newEntries } marcadores
+    }
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar desde archivo
 migration-import-from-file-button-label = Seleccionar archivo
@@ -129,12 +153,21 @@ migration-list-bookmark-label = marcadores
 migration-list-favorites-label = favoritos
 migration-list-password-label = contraseñas
 migration-list-history-label = historial
+migration-list-extensions-label = extensiones
 migration-list-autofill-label = datos de autocompletado
+migration-list-payment-methods-label = métodos de pago
 
 ##
 
 migration-wizard-progress-header = Importando datos
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Datos importados con éxito
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importación de datos completada
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importando…
 migration-wizard-progress-icon-completed =
@@ -174,6 +207,28 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } extensión
+       *[other] { $quantity } extensiones
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensiones
+migration-wizard-progress-extensions-support-link = Descubra cómo { -brand-product-name } coincide con las extensiones
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = No hay extensiones que coincidan
+migration-wizard-progress-extensions-addons-link = Explore extensiones para { -brand-short-name }
 
 ##
 
@@ -198,6 +253,16 @@ migration-wizard-progress-success-history =
        *[other] De los últimos { $maxAgeInDays } días
     }
 migration-wizard-progress-success-formdata = Historial de formularios
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } método de pago
+       *[other] { $quantity } métodos de pago
+    }
 migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Selecciona "Continuar"
 migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elije “Abrir”

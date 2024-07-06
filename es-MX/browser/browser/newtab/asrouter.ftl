@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendación
     .tooltiptext = Recomendación de la característica
     .a11y-announcement = Recomendación de las características disponibles
@@ -61,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en todas partes.
 cfr-doorhanger-bookmark-fxa-body = ¡Gran hallazgo! Ahora no te quedes sin este marcador en tus dispositivos móviles. Coemienza con una { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = ¡Qué gran hallazgo! Ahora no te quedes sin este marcador en tus dispositivos móviles. Comienza con una cuenta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores ahora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón Cerrar
@@ -202,6 +205,9 @@ cfr-cbh-confirm-button = Rechazar banners de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
     .accesskey = n
+cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un anuncio de cookies por ti
+cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que te siguen en este sitio.
+cookie-banner-blocker-onboarding-learn-more = Saber más
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -231,19 +237,33 @@ fxa-sync-cfr-secondary = Recordarme luego
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = ¿Usando un dispositivo más antiguo?
-device-migration-fxa-spotlight-body = Realiza una copia de seguridad de tus datos para asegurarte de no perder información importante como marcadores y contraseñas, especialmente si cambias a un nuevo dispositivo.
-device-migration-fxa-spotlight-primary-button = Cómo hacer una copia de seguridad de mis datos
-device-migration-fxa-spotlight-link = Recordarme luego
+device-migration-fxa-spotlight-heavy-user-header = No olvides hacer una copia de seguridad de tus datos
+device-migration-fxa-spotlight-heavy-user-body = Asegúrate de que la información importante — como marcadores y contraseñas — esté actualizada y protegida en todos tus dispositivos.
+device-migration-fxa-spotlight-heavy-user-primary-button = Empezar
+device-migration-fxa-spotlight-older-device-header = Tranquilidad con { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Una cuenta mantiene tu información importante actualizada y protegida en cualquier dispositivo que conectes.
+device-migration-fxa-spotlight-older-device-primary-button = Crear una cuenta
 device-migration-fxa-spotlight-getting-new-device-header-2 = ¿Está planeando obtener un nuevo dispositivo en el futuro?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Siga unos sencillos pasos para llevar consigo sus marcadores, historial y contraseñas cuando empiece a utilizar un nuevo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer una copia de seguridad de mis datos
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-decline-button =
+    .label = Ahora no
 
 ## Launch on login infobar notification
 
+launch-on-login-learnmore = Saber más
+launch-on-login-infobar-confirm-button = Sí, abrir { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Ahora no
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Ahora no
