@@ -961,6 +961,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Eliminar datos de la sesión
+    .accesskey = D
+reset-pbm-panel-complete = Los datos de la sesión privada han sido eliminados
 
 ## Autorefresh blocker
 
@@ -972,6 +976,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de usar protegen tu identidad y evitan el spam al ocultar tu dirección de correo electrónico.
 
 ## Add-on Pop-up Notifications
 
