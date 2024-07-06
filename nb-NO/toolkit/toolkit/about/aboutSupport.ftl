@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (systemkall-filtrering)
 has-seccomp-tsync = Seccomp trådsynkronisering
 has-user-namespaces = Brukernavnerom
 has-privileged-user-namespaces = Brukernavnerom for priviligerte prosesser
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Denne funksjonen er ikke tillatt av systemet ditt. Dette kan begrense sikkerhetsfunksjonene til { -brand-short-name }.
 can-sandbox-content = Sandkasse for innholdsprosesser
 can-sandbox-media = Sandkasse for medietillegg
 content-sandbox-level = Nivå for sandkasse for innholdsprosesser
