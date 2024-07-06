@@ -123,6 +123,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Bu iletişim kutusunu bir daha göst
 
 tabbrowser-confirm-close-duplicate-tabs-title = Dikkat
 tabbrowser-confirm-close-duplicate-tabs-text = Son aktif sekmeyi açık tutacağız
+tabbrowser-confirm-close-all-duplicate-tabs-title = Yinelenen sekmeler kapatılsın mı?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Bu penceredeki yinelenen sekmeleri kapatacağız.
+    Son etkin sekme açık kalacaktır.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Sekmeleri kapat
 
 ##
 
