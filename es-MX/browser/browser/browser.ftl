@@ -570,6 +570,11 @@ urlbar-result-action-search-w-engine = Buscar con { $engine }
 urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Cambiar a la pestaña
 urlbar-result-action-visit = Visitar
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Cambiar a pestaña · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar desde el portapapeles
 # Directs a user to press the Tab key to perform a search with the specified
@@ -602,6 +607,9 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Navegue con { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -652,6 +660,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Este sitio no recomienda Picture-in-Picture
+picture-in-picture-panel-body = Es posible que los videos no se muestren como el desarrollador lo había planteado mientras Picture-in-Picture esté activado.
+picture-in-picture-enable-toggle =
+    .label = Activar de todos modos
 
 ## Full Screen and Pointer Lock UI
 
@@ -896,6 +907,7 @@ restore-session-startup-suggestion-button = Mostrar cómo
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Su organización ha bloqueado el acceso a archivos locales en esta computadora
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -905,6 +917,11 @@ data-reporting-notification-button =
     .accesskey = c
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Prevención de pérdida de datos (DLP) por { $agentName }. Haga click para saber más información.
 content-analysis-panel-title = Protección de datos
 
 ## Unified extensions (toolbar) button
@@ -925,9 +942,22 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Extensiones
+    .tooltiptext =
+        Extensiones
+        Algunas extensiones no están permitidas
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Finalizar sesión privada
+    .tooltiptext = Finalizar sesión privada
+reset-pbm-panel-heading = ¿Finalizar tu sesión privada?
+reset-pbm-panel-description = Cerrar todas las pestañas privadas y borrar el historial, las cookies y todos los demás datos del sitio.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Preguntarme siempre
+    .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C

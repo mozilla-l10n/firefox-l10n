@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostrar más pestañas
     .tooltiptext = Mostrar más pestañas desde este dispositivo
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Pestañas inactivas
+    .tooltiptext = Ver pestañas inactivas en este dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No hay pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -269,4 +273,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Inicie sesión en tu cuenta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Reciba alertas de filtración de datos
+appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protege tu actividad en línea
