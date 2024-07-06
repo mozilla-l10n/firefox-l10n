@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Contraseñas del archivo CSV
+migration-wizard-migrator-display-name-file-bookmarks = Marcadores del archivo HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -51,6 +52,7 @@ migration-imported-edge-reading-list = Lista de lectura (de Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = Selecciona "Continuar"
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -66,6 +68,7 @@ migration-bookmarks-option-label = Marcadores
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritos
 migration-logins-and-passwords-option-label = Inicios de sesión y contraseñas guardados
+migration-passwords-option-label = Contraseñas guardadas
 migration-history-option-label = Historial de navegación
 migration-extensions-option-label = Extensiones
 migration-form-autofill-option-label = Datos de autocompletado de formularios
@@ -113,6 +116,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizada
        *[other] { $updatedEntries } actualizadas
     }
+migration-bookmarks-from-file-picker-title = Importar archivo de marcadores
 migration-bookmarks-from-file-progress-header = Importando marcadores
 migration-bookmarks-from-file = Marcadores
 migration-bookmarks-from-file-success-header = Marcadores importados con éxito

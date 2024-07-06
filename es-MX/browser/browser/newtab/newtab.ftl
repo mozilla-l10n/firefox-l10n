@@ -319,11 +319,16 @@ newtab-wallpaper-abstract-orange = Formas naranjas
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografías
 newtab-wallpaper-beach-at-sunset = Playa al atardecer
 newtab-wallpaper-storm-sky = Cielo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas
 newtab-wallpaper-red-panda-yawns-in-a-tree = El panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Descartar
+    .aria-label = Cerrar popup
 
 ## New Tab Weather
 

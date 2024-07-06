@@ -334,6 +334,8 @@ onboarding-device-migration-primary-button-label = Iniciar sesión
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte seguro
 
 ## New user time and familiarity survey strings
 

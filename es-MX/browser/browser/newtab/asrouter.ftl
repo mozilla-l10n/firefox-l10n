@@ -249,6 +249,8 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer u
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = Establecer como predeterminado
 pdf-default-notification-decline-button =
     .label = Ahora no
 
