@@ -115,6 +115,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non monstrar me plus iste fenestra d
 
 tabbrowser-confirm-close-duplicate-tabs-title = Attention
 tabbrowser-confirm-close-duplicate-tabs-text = Nos mantenera aperte le ultime scheda active
+tabbrowser-confirm-close-all-duplicate-tabs-title = Clauder schedas duplicate?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Clauder schedas
 
 ##
 
