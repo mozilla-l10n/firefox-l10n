@@ -1109,6 +1109,9 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 addressbar-locbar-showrecentsearches-option =
     .label = הצגת חיפושים אחרונים
     .accesskey = ח
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = הצגת הצעות חיפוש פופולריים
+    .accesskey = פ
 addressbar-quickactions-learn-more = מידע נוסף
 
 ## Privacy Section - Content Blocking
