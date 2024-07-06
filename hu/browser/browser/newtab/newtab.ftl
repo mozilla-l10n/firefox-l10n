@@ -239,6 +239,9 @@ newtab-pocket-saved = Mentve
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Több hasonló
+newtab-toast-dismiss-button =
+    .title = Eltüntetés
+    .aria-label = Eltüntetés
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
