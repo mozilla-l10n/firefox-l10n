@@ -4,17 +4,14 @@
 
 password-not-set =
     .value = (ur iţusbadu ara)
-
 failed-pp-change = Ur yezmir ara ad isnifel awal uffir agejdan.
 incorrect-pp = Ur teskecmeḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen.
 pp-change-ok = Awal uffir agejdan yettubeddel akken iwata.
-
 pp-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 pw-change-success-title = Asnifel n wawal uffir yedda
 pw-change-failed-title = Tuccḍa deg usnifel n wawal uffir agejdan
 pw-remove-button =
     .label = Kkes
-
 primary-password-dialog =
     .title = Awal uffir agejdan
 set-password-old-password = Awal uffir aqbuṛ:
@@ -22,11 +19,10 @@ set-password-new-password = Sekcem awal uffir amaynut:
 set-password-reenter-password = Sekcem tikelt-nniḍen awal uffir:
 set-password-meter = Asɣel n tɣaṛa n wawal uffir
 set-password-meter-loading = Asali
-
 primary-password-admin = Anedbal-inek·inem yesra tesεiḍ awal uffir agejdan yettusbaduni uḥraz n yinekcam d wawalen uffiren.
+primary-password-required-by-policy = Takebbanit-inek·inem yesra tesεiḍ awal uffir agejdan yettusbaduni uḥraz n yinekcam d wawalen uffiren.
 primary-password-description = Awal uffir agejdan ittuseqdac akken ad immesten talɣut tamḥulfut am yinekcam d wawalen uffiren ɣef yibenk-a. Ma terniḍ Awal uffir agejdan, ad ak·am-d-yettusuter yiwet n tikkelt yal mi ara tesnekreḍ tiɣimit ticki { -brand-short-name } yettnadi talɣut yettwaskelsen, yettummestnen s wawal-agi uffir.
 primary-password-warning = Ma ulac aɣilif, ur tettu ara awal uffir agejdan i tesbaduḍ. Ma tettuḍ-t, ur tettizmireḍ ara ad tkecmeḍ ula ɣer yiwet telɣut yettummestnen yis-s ɣef yibenk-a.
-
 remove-primary-password =
     .title = Kkes awal uffir agejdan
 remove-info =
