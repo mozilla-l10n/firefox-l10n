@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai
 addressbar-locbar-showrecentsearches-option =
     .label = Mostre ricercjis resintis
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostre sugjeriments di ricercje di tindince
+    .accesskey = t
 addressbar-quickactions-learn-more = Plui informazions
 
 ## Privacy Section - Content Blocking
