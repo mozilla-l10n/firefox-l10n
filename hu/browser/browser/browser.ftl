@@ -640,6 +640,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Legutóbbi keresések
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Felkapott ebben: { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ne jelenítse meg a felkapott kereséseket
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Miért látom ezt?
+    .accesskey = M
 
 ## Reader View toolbar buttons
 
