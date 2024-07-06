@@ -40,6 +40,7 @@ inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</s
 inactive-css-property-because-of-display = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның display қасиеті <strong>{ $display }</strong> етіп берілген.
 inactive-css-not-display-block-on-floated = <strong>display</strong> қасиетінің мәні қозғалтқышпен <strong>block</strong> етіп өзгертілді, өйткені элемент <strong>қалқымалы</strong>.
 inactive-css-not-display-block-on-floated-2 = <strong>display</strong> қасиетінің мәні қозғалтқышпен <strong>{ $display }</strong> етіп өзгертілді, өйткені элемент <strong>қалқымалы</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол grid немесе flex элементтеріне қолданылуы мүмкін емес.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> қасиетін <strong>:visited</strong> шектеуі салдарынан үстінен жазу мүмкін емес.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол орны бекітілген элементі емес.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол тек ауыстырылған элементтер үшін іске асырылуы мүмкін.
