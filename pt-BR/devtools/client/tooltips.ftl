@@ -40,6 +40,7 @@ inactive-css-placeholder-pseudo-element-not-supported = Não há suporte para<st
 inactive-css-property-because-of-display = <strong>{ $property }</strong> não tem efeito neste elemento, pois tem um display de <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi alterado pelo mecanismo para <strong>block</strong> porque o elemento é <strong>floated</strong>.
 inactive-css-not-display-block-on-floated-2 = O valor de <strong>display</strong> foi alterado pelo mecanismo para <strong>{ $display }</strong> porque o elemento é <strong>floated</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> não tem efeito porque não pode ser usado em itens de grid ou flex.
 inactive-css-property-is-impossible-to-override-in-visited = Não é possível substituir <strong>{ $property }</strong> devido à restrição <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um elemento posicionado.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> não tem efeito neste elemento, pois só pode ser aplicado a elementos substituídos.

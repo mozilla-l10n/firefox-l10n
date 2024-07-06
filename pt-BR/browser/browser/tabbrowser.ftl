@@ -119,6 +119,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Não mostrar mais este aviso.
 tabbrowser-confirm-close-duplicate-tabs-title = Atenção
 tabbrowser-confirm-close-duplicate-tabs-text = A aba com atividade mais recente permanecerá aberta
 tabbrowser-confirm-close-all-duplicate-tabs-title = Fechar abas duplicadas?
+tabbrowser-confirm-close-all-duplicate-tabs-text = As abas duplicadas nesta janela serão fechadas. A aba com atividade mais recente permanecerá aberta.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Fechar abas
 
 ##
 
