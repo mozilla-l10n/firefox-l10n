@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Clauder schedas duplicate
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Clauder tote le schedas duplicate
