@@ -172,6 +172,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar tu inicio de se
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar el inicio de sesión guardado
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] cambia la configuración de las contraseñas
+       *[other] { -brand-short-name } está tratando de cambiar la configuración de las constraseñas. Usa tu dispositivo e inicia sesión para permitirlo.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Para editar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to edit a login in about:logins
@@ -254,11 +261,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
         [one] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará todos los inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Esto eliminará el inicio de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
-       *[other] Esto eliminará todos los inicios de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
