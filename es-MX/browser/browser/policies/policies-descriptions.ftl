@@ -16,6 +16,7 @@ policy-AppAutoUpdate = Activar o desactivar la actualización automática de la 
 policy-AppUpdatePin = Previene que { -brand-short-name } sea actualizado más allá de la versión especificada.
 policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que lo admitan.
+policy-AutofillAddressEnabled = Habilitar autocompletado de direcciones.
 policy-AutoLaunchProtocolsFromOrigins = Define una lista de protocolos externos que pueden ser usados desde los orígenes que aparecen en la lista sin que se le pregunte al usuario.
 policy-BackgroundAppUpdate2 = Habilitar o deshabilitar la actualización en segundo plano.
 policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (about:addons).

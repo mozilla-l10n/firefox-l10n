@@ -30,3 +30,4 @@ more-from-moz-firefox-relay-button = Obtener { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Recupera automáticamente tu información personal expuesta.
+more-from-moz-mozilla-monitor-button = Obtener { -monitor-brand-short-name }

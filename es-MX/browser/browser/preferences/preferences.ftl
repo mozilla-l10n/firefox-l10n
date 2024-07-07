@@ -21,6 +21,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Buscar en ajustes
 managed-notice = Tu organización gestiona el navegador.
+managed-notice-info-icon =
+    .alt = Información
 category-list =
     .aria-label = Categorías
 pane-general-title = General
@@ -821,6 +823,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Contraseñas
+    .searchkeywords = inicios de sesión
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -876,6 +882,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Autocompletar
+autofill-addresses-checkbox = Guardar y completar direcciones
+    .accesskey = a
+autofill-saved-addresses-button = Direcciones guardadas
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Guardar y completar métodos de pago
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Incluye tarjetas de crédito y débito.
+    .accesskey = I
+autofill-saved-payment-methods-button = Métodos de pago guardados
+    .accesskey = v
 
 ## Privacy Section - History
 
@@ -970,6 +987,7 @@ cookie-banner-handling-description = { -brand-short-name } rechaza automáticame
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Bloqueador de banners de cookies
 cookie-banner-learn-more = Saber más
 forms-handle-cookie-banners =
     .label = Reducir los avisos de cookies
@@ -984,6 +1002,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
+addressbar-locbar-clipboard-option =
+    .label = Portapapeles
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = Abrir pestañas
     .accesskey = O
@@ -1001,6 +1022,9 @@ addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = Q
 addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de búsqueda
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostrar búsquedas recientes
+    .accesskey = r
 addressbar-quickactions-learn-more = Saber más
 
 ## Privacy Section - Content Blocking
