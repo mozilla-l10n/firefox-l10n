@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 addressbar-locbar-showrecentsearches-option =
     .label = Show recent searches
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Show trending search suggestions
+    .accesskey = t
 addressbar-quickactions-learn-more = Learn more
 
 ## Privacy Section - Content Blocking
