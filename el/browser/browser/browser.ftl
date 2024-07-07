@@ -637,6 +637,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Πρόσφατες αναζητήσεις
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Τάσεις στο { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Απόκρυψη δημοφιλών αναζητήσεων
+    .accesskey = Α
+urlbar-result-menu-trending-why =
+    .label = Γιατί το βλέπω αυτό;
+    .accesskey = Γ
 
 ## Reader View toolbar buttons
 

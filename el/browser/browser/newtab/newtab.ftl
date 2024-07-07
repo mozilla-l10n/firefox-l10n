@@ -236,6 +236,12 @@ newtab-pocket-saved = Αποθηκεύτηκε
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Περισσότερα σαν κι αυτό
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Όχι για μένα
 newtab-toast-dismiss-button =
     .title = Απόρριψη
     .aria-label = Απόρριψη

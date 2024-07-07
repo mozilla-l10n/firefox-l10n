@@ -1112,6 +1112,9 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 addressbar-locbar-showrecentsearches-option =
     .label = Εμφάνιση πρόσφατων αναζητήσεων
     .accesskey = φ
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Εμφάνιση δημοφιλών προτάσεων αναζήτησης
+    .accesskey = φ
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 
 ## Privacy Section - Content Blocking

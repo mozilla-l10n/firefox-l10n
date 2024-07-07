@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = Θ
 all-tabs-menu-close-duplicate-tabs =
     .label = Κλείσιμο διπλών καρτελών
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Κλείσιμο όλων των διπλών καρτελών
