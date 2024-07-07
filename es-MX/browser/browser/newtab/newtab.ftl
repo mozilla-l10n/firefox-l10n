@@ -308,6 +308,7 @@ newtab-wallpaper-red = Rojo
 newtab-wallpaper-dark-blue = Azul oscuro
 newtab-wallpaper-dark-purple = Morado oscuro
 newtab-wallpaper-dark-green = Verde oscuro
+newtab-wallpaper-brown = Café
 
 ## Abstract
 
@@ -316,10 +317,13 @@ newtab-wallpaper-abstract-green = Formas verdes
 newtab-wallpaper-abstract-blue = Formas azules
 newtab-wallpaper-abstract-purple = Formas moradas
 newtab-wallpaper-abstract-orange = Formas naranjas
+newtab-wallpaper-gradient-orange = Naranja degradado y rosa
+newtab-wallpaper-abstract-blue-purple = Formas azules y moradas
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotografías
+newtab-wallpaper-beach-at-sunrise = Playa al amanecer
 newtab-wallpaper-beach-at-sunset = Playa al atardecer
 newtab-wallpaper-storm-sky = Cielo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas

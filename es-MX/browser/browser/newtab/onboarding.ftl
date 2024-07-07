@@ -339,3 +339,13 @@ onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte seguro
 
 ## New user time and familiarity survey strings
 
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Siguiente
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Soy nuevo
+onboarding-new-user-survey-time-based-option-2 = Menos de 1 mes
+onboarding-new-user-survey-time-based-option-3 = Más de 1 mes, regularmente
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Soy nuevo
+onboarding-new-user-survey-familiarity-based-option-2 = Lo he usado un poco
+onboarding-new-user-survey-familiarity-based-option-3 = Estoy muy familiarizado

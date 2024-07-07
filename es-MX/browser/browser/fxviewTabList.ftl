@@ -66,3 +66,5 @@ fxviewtabrow-unmute-tab = Desilenciar Pestaña
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Silenciar pestaña
