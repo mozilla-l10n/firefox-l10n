@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Continuar con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Proceder con precaución
 pane-experimental-description2 = Cambiar los ajustes de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-description3 = ¡Pruebe nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -1111,6 +1112,9 @@ addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscado
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostrar las sugerencias de búsqueda más populares
+    .accesskey = t
 addressbar-quickactions-learn-more = Saber más
 
 ## Privacy Section - Content Blocking

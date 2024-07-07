@@ -640,6 +640,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Búsquedas recientes
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Popular en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = No mostrar las búsquedas más populares
+    .accesskey = d
+urlbar-result-menu-trending-why =
+    .label = ¿Por qué estoy viendo esto?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Gracias por su opinión. Ya no verá más búsquedas populares.
 
 ## Reader View toolbar buttons
 
@@ -990,6 +1005,10 @@ firefox-relay-offer-legal-notice = Al hacer clic en “Usar máscara de correo e
 popup-notification-addon-install-unsigned =
     .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Descubra más sobre cómo instalar complementos de forma segura
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Ejecutar en ventanas privadas
+    .accesskey = p
 
 ## Pop-up warning
 
