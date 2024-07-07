@@ -57,6 +57,12 @@ fxviewtabrow-send-tab = Enviar pestaña al dispositivo
     .accesskey = n
 fxviewtabrow-pin-tab = Fijar Pestaña
     .accesskey = P
+fxviewtabrow-unpin-tab = Desanclar pestaña
+    .accesskey = p
+fxviewtabrow-mute-tab = Silenciar pestaña
+    .accesskey = S
+fxviewtabrow-unmute-tab = Desilenciar Pestaña
+    .accesskey = s
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

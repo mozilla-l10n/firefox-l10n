@@ -19,6 +19,8 @@ autofill-manage-edit-button = Editar…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = ¿Guardar dirección?
+address-capture-update-doorhanger-header = ¿Actualizar dirección?
+address-capture-edit-doorhanger-header = Editar dirección
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar dirección
 autofill-address-given-name = Primer nombre

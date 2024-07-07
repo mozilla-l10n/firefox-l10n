@@ -121,6 +121,7 @@ firefoxview-recently-closed-header = Pestañas cerradas recientemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
 ##
 
@@ -212,6 +213,7 @@ firefoxview-choose-browser-button = Elegir navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nada que mostrar
+firefoxview-dont-remember-history-empty-description = Proteger tu privacidad está en el corazón de lo que hacemos. Por eso puedes controlar la actividad que { -brand-short-name } recuerda.
 firefoxview-dont-remember-history-empty-description-two = Basándose en tus configuraciones actuales, { -brand-short-name } no recuerda tu actividad mientras navegas. Para cambiarlo, <a data-l10n-name="history-settings-url-two">cambia tus configuraciones de historial para que recuerde tu historial</a>.
 
 ##
@@ -229,9 +231,12 @@ firefoxview-import-history-description = Haz de { -brand-short-name } tu navegad
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = ¿Cerraste una pestaña demasiado pronto?
+firefoxview-recentlyclosed-empty-description = Aquí encontrarás las pestañas que cerraste recientemente, para que puedas volver a abrir cualquiera de ellas rápidamente.
+firefoxview-recentlyclosed-empty-description-two = Para encontrar pestañas de hace más tiempo, mira tu <a data-l10n-name="history-url">historial de navegación</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = No hay pestañas abiertas en este dispositivo
 firefoxview-syncedtabs-connect-another-device = Conectar otro dispositivo
 firefoxview-pinned-tabs =
     .title = Pestañas fijas
