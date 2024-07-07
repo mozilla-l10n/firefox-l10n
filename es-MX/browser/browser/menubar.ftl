@@ -350,3 +350,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este no es un sitio engañoso…
     .accesskey = d
+menu-report-broken-site =
+    .label = Informar de un sitio no funcional
