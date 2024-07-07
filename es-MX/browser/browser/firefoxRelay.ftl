@@ -14,11 +14,15 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no pudo encontra
 ##
 
 firefox-relay-must-login-to-fxa = Debes iniciar sesión en { -fxaccount-brand-name } para usar { -relay-brand-name }.
+firefox-relay-must-login-to-account = Inicia sesión en tu cuenta para usar las máscaras de correo electrónico de { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Administrar máscaras
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protege tu dirección de correo electrónico:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Usar máscara de correo electrónico de { -relay-brand-name }
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Usar la máscara de correo electrónico
     .accesskey = U

@@ -923,6 +923,9 @@ private-browsing-indicator-label = Navegación privada
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevención de pérdida de datos (DLP) por { $agentName }. Haga click para saber más información.
 content-analysis-panel-title = Protección de datos
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Su organización utiliza { $agentName } para protegerse contra la pérdida de datos. <a data-l10n-name="info">Más información</a>
 
 ## Unified extensions (toolbar) button
 
@@ -977,6 +980,9 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de usar protegen tu identidad y evitan el spam al ocultar tu dirección de correo electrónico.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a tus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decidas bloquearlos).
 
 ## Add-on Pop-up Notifications
 
