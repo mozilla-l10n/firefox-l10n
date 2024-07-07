@@ -649,6 +649,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Γιατί το βλέπω αυτό;
     .accesskey = Γ
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον δημοφιλείς αναζητήσεις.
 
 ## Reader View toolbar buttons
 
