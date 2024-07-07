@@ -234,6 +234,12 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } حصہ ہے { -bran
 newtab-pocket-save = محفوظ
 newtab-pocket-saved = محفوظ تھیا
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = فارغ کرو
+    .aria-label = فارغ کرو
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = ویب وچوں بہترین دریافت کرو
