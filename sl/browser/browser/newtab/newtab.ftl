@@ -349,6 +349,7 @@ newtab-wallpaper-white-mountains = Bele gore
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Avtor fotografije: <a data-l10n-name="name-link">{ $author_string }</a>, <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Poskusite s kančkom barve
+newtab-wallpaper-feature-highlight-content = Vdahnite strani novega zavihka svež videz in ji nastavite ozadje.
 newtab-wallpaper-feature-highlight-button = Razumem
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
@@ -360,6 +361,14 @@ feature-highlight-wallpaper =
 
 ## New Tab Weather
 
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Preprosto
+newtab-weather-menu-change-weather-display-simple = Preklopi na preprost pogled
+newtab-weather-menu-weather-display-option-detailed = Podrobno
+newtab-weather-menu-change-weather-display-detailed = Preklopi na podroben pogled
+newtab-weather-menu-temperature-units = Enote za temperaturo
 newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
 # This message is shown if user is working offline

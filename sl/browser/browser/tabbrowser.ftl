@@ -137,6 +137,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Tega pogovornega okna ne prikazuj ve
 
 tabbrowser-confirm-close-duplicate-tabs-title = Pozor
 tabbrowser-confirm-close-duplicate-tabs-text = Obdržali bomo zadnji aktivni zavihek
+tabbrowser-confirm-close-all-duplicate-tabs-title = Zaprem podvojene zavihke?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    V tem oknu bomo zaprli podvojene zavihke. Zadnji dejavni
+    zavihek bo ostal odprt.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Zapri zavihke
 
 ##
 
