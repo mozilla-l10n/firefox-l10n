@@ -640,6 +640,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Búsquedas recientes
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Tendencia en { $motor }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = No mostrar búsquedas de tendencia
+    .accesskey = s
+urlbar-result-menu-trending-why =
+    .label = ¿Por qué estoy viendo esto?
+    .accesskey = v
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Gracias por tus comentarios. Ya no verás búsquedas de tendencia.
 
 ## Reader View toolbar buttons
 
@@ -983,12 +998,17 @@ firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de 
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a tus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decidas bloquearlos).
+firefox-relay-offer-legal-notice = Al hacer clic en "Usar máscara de correo electrónico", aceptas <label data-l10n-name="tos-url">Los Términos de Servicio</label> y <label data-l10n-name="privacy-url">El Aviso de Privacidad</label>.
 
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
     .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber más sobre cómo instalar complementos de forma segura
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Ejecutar en ventanas privadas
+    .accesskey = p
 
 ## Pop-up warning
 
