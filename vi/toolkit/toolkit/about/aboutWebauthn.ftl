@@ -119,3 +119,4 @@ about-webauthn-auth-info-null = Không hỗ trợ
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Không có hoạt động từ người dùng.

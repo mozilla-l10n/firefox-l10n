@@ -1096,6 +1096,9 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 addressbar-locbar-showrecentsearches-option =
     .label = Hiển thị các tìm kiếm gần đây
     .accesskey = F
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Hiển thị đề xuất tìm kiếm thịnh hành
+    .accesskey = t
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 
 ## Privacy Section - Content Blocking

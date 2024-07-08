@@ -316,6 +316,9 @@ has-seccomp-bpf = Seccomp-BPF (Lọc cuộc gọi hệ thống)
 has-seccomp-tsync = Đồng bộ hóa chủ đề Seccomp
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces với các tiến trình ưu tiên
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Tính năng này không được hệ thống của bạn cho phép. Điều này có thể hạn chế các tính năng bảo mật của { -brand-short-name }.
 can-sandbox-content = Nội dung tiến trình Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Cấp độ quy trình nội dung hộp cát
@@ -392,9 +395,11 @@ support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Không hoạt động
 support-remote-settings-last-check = Lần kiểm tra cuối
+support-remote-settings-local-timestamp = Dấu thời gian cục bộ
 support-remote-settings-sync-history = Lịch sử
 support-remote-settings-sync-history-status = Trạng thái
 support-remote-settings-sync-history-datetime = Ngày
+support-remote-settings-sync-history-infos = Thông tin
 
 ## Normandy sections
 
