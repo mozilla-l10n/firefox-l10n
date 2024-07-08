@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = S
 all-tabs-menu-close-duplicate-tabs =
     .label = Zavrieť duplicitné karty
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Zavrieť všetky duplicitné karty
