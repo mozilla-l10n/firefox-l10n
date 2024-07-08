@@ -1104,6 +1104,9 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-locbar-showrecentsearches-option =
     .label = 显示近期搜索
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = 显示热门搜索建议
+    .accesskey = t
 addressbar-quickactions-learn-more = 详细了解
 
 ## Privacy Section - Content Blocking
