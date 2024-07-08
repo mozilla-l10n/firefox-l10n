@@ -1240,6 +1240,9 @@ addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledáv
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
     .accesskey = e
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Našeptávat návrhy populárních vyhledávání
+    .accesskey = p
 addressbar-quickactions-learn-more = Zjistit více
 
 ## Privacy Section - Content Blocking
