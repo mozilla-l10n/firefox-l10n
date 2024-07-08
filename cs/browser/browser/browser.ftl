@@ -698,6 +698,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nedávno vyhledávané
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Populární na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Nezobrazovat populární vyhledávání
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Proč se mi to zobrazuje?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Děkujeme za zpětnou vazbu. Už se vám populární vyhledávání nebudou zobrazovat.
 
 ## Reader View toolbar buttons
 
@@ -1076,6 +1091,10 @@ firefox-relay-offer-legal-notice = Klepnutím na „Použít e-mailovou masku“
 popup-notification-addon-install-unsigned =
     .value = (Neověřeno)
 popup-notification-xpinstall-prompt-learn-more = Zjistit více o bezpečné instalaci doplňků
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Povolit v anonymních oknech
+    .accesskey = P
 
 ## Pop-up warning
 
