@@ -88,6 +88,7 @@ inactive-css-not-inline-or-tablecell-fix = 請嘗試加入 <strong>display:inlin
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = 請嘗試加入 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。{ learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 請嘗試加入 <strong>display:inline-block</strong>。{ learn-more }
 inactive-css-not-display-block-on-floated-fix = 可試著移除 <strong>float</strong> 或加入 <strong>display:block</strong>。{ learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = 請試著將元素容器的 <strong>display</strong> 屬性值，更改為 <strong>flex</strong>、<strong>grid</strong>、<strong>inline-flex</strong> 或 <strong>inline-grid</strong> 以外的值，或是移除 <strong>float</strong>。{ learn-more }
 inactive-css-not-block-fix = 請嘗試加入 <strong>display:block</strong> 或 <strong>float:left</strong>。{ learn-more }
 inactive-css-not-floated-fix = 請嘗試加入 <strong>none</strong> 以外的 <strong>float</strong> 屬性值。{ learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = 請試著將 <strong>position</strong> 屬性設定為 <strong>static</strong> 以外的值。{ learn-more }
