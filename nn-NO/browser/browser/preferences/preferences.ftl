@@ -1160,7 +1160,7 @@ content-blocking-fingerprinters = Nettlesaravtrykk
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
-content-blocking-known-and-suspected-fingerprinters = Kjende og mistenkte nettlesaravtrykksporarar
+content-blocking-known-and-suspected-fingerprinters = Kjende og mistenkte nettlesaravtrykk
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1204,12 +1204,12 @@ content-blocking-fingerprinters-label =
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
-    .label = Kjende nettlesaravtrykksporarar
+    .label = Kjende nettlesaravtrykk
     .accesskey = K
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Mistenkte nettlesaravtrykksporarar
+    .label = Mistenkte nettlesaravtrykk
     .accesskey = M
 
 ## Privacy Section - Tracking
