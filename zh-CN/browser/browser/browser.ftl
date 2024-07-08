@@ -633,6 +633,13 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = 近期搜索
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = 不再显示热门搜索
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = 为什么我会看到这个？
+    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = 感谢反馈，您将不会再看到热门搜索。
