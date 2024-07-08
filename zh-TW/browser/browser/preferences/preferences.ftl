@@ -1100,6 +1100,9 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-locbar-showrecentsearches-option =
     .label = 顯示近期搜尋項目
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = 顯示熱門搜尋建議
+    .accesskey = t
 addressbar-quickactions-learn-more = 了解更多
 
 ## Privacy Section - Content Blocking

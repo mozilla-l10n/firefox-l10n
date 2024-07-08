@@ -649,6 +649,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = 為什麼我會看到這個？
     .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = 感謝您的意見回饋，不再會看到熱門搜尋趨勢。
 
 ## Reader View toolbar buttons
 
