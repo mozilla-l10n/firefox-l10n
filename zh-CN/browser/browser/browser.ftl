@@ -808,7 +808,7 @@ toolbar-button-open-file =
     .label = 打开文件
     .tooltiptext = 打开文件 ({ $shortcut })
 toolbar-button-synced-tabs =
-    .label = 受同步标签页
+    .label = 同步的标签页
     .tooltiptext = 显示来自其他设备的标签页
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
