@@ -633,6 +633,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Tìm kiếm gần đây
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Đang thịnh hành trên { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Không hiển thị các tìm kiếm thịnh hành
+    .accesskey = K
+urlbar-result-menu-trending-why =
+    .label = Tại sao tôi thấy cái này?
+    .accesskey = T
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy các tìm kiếm thịnh hành nữa.
 
 ## Reader View toolbar buttons
 
@@ -983,6 +998,10 @@ firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng mặt
 popup-notification-addon-install-unsigned =
     .value = (Chưa xác thực)
 popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Chạy trong cửa sổ riêng tư
+    .accesskey = P
 
 ## Pop-up warning
 
