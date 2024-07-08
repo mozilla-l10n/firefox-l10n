@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = O
 all-tabs-menu-close-duplicate-tabs =
     .label = 关闭重复标签页
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = 关闭所有重复标签页
