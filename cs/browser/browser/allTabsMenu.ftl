@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = k
 all-tabs-menu-close-duplicate-tabs =
     .label = Zavřít duplicitní panely
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Zavřít všechny duplicitní panely
