@@ -1120,6 +1120,9 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-locbar-showrecentsearches-option =
     .label = Najnowše pytanja pokazać
     .accesskey = n
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Trendowe pytanske namjety pokazać
+    .accesskey = d
 addressbar-quickactions-learn-more = Dalše informacije
 
 ## Privacy Section - Content Blocking
