@@ -88,6 +88,7 @@ inactive-css-not-inline-or-tablecell-fix = 請嘗試加入 <strong>display:inlin
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = 請嘗試加入 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。{ learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 請嘗試加入 <strong>display:inline-block</strong>。{ learn-more }
 inactive-css-not-display-block-on-floated-fix = 可試著移除 <strong>float</strong> 或加入 <strong>display:block</strong>。{ learn-more }
+inactive-css-not-block-fix = 請嘗試加入 <strong>display:block</strong> 或 <strong>float:left</strong>。{ learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = 請試著將 <strong>position</strong> 屬性設定為 <strong>static</strong> 以外的值。{ learn-more }
 inactive-css-only-replaced-elements-fix = 請確認您將屬性加入到要被置換的元素。{ learn-more }
 inactive-text-overflow-when-no-overflow-fix = 請嘗試加入 <strong>overflow:hidden</strong>。{ learn-more }
