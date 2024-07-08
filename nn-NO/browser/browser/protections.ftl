@@ -45,7 +45,7 @@ cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 cookie-tab-content = Desse infokapslane følgjer deg frå nettstad til nettstad for å samle inn data om kva du gjer på nettet. Dei vert brukte av tredjepartar som annonsørar og analyseselskap. Blokkering av sporingsinfokapslar på tvers av nettstadar reduserer talet på annonsar som følgjer deg. <a data-l10n-name="learn-more-link">Les meir</a>
 tracker-tab-title = Sporingsinnhald
 tracker-tab-description = Nettstadar kan laste eksterne annonsar, videoar og anna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan vere at  nokre knappar, skjema og innloggingsfelt ikkje fungerer. <a data-l10n-name="learn-more-link">Les meir</a>
-fingerprinter-tab-title = Fingerprinters
+fingerprinter-tab-title = Nettlesaravtrykksporarar
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
 cryptominer-tab-title = Kryptoutvinnarar
 cryptominer-tab-content = Kryptoutvinnarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptoutvinningsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
@@ -189,11 +189,11 @@ bar-tooltip-tracker =
            *[other] { $count } sporingsinnhald ({ $percentage } %)
         }
 bar-tooltip-fingerprinter =
-    .title = Fingerprinters
+    .title = Nettlesaravtrykk
     .aria-label =
         { $count ->
-            [one] { $count } fingerprinter ({ $percentage }%)
-           *[other] { $count } fingerprinters ({ $percentage }%)
+            [one] { $count } nettlesaravtrykk ({ $percentage }%)
+           *[other] { $count } nettlesaravtrykk ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Kryptoutvinnarar

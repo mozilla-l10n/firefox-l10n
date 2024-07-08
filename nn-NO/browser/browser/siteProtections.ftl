@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Nullstill infokapsel-unntak for { $domain }
-tracking-protection-icon-active = Blokkering av sporing via sosiale medium, sporing på tvers av nettstadar og fingerprinters.
+tracking-protection-icon-active = Blokkering av sporing via sosiale medium, sporing på tvers av nettstadar og nettlesaravtrykk.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Utvida sporingsvern er slått AV for denne nettstaden.
@@ -41,7 +41,7 @@ protections-header = Vern for { $host }
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Fingerprinters blokkerte
+    .title = Nettlesaravtrykk blokkerte
 protections-blocking-cryptominers =
     .title = Kryptoutvinnarar blokkerte
 protections-blocking-cookies-trackers =
@@ -57,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Sporing via sosiale medium blokkert
 protections-not-blocking-fingerprinters =
-    .title = Blokkerer ikkje fingerprinters
+    .title = Blokkerer ikkje nettlesaravtrykk
 protections-not-blocking-cryptominers =
     .title = Blokkerer ikkje kryptoutvinnarar
 protections-not-blocking-cookies-third-party =
