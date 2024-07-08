@@ -633,6 +633,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = 近期搜索
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } 热门搜索
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = 不再显示热门搜索
