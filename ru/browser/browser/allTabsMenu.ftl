@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = й
 all-tabs-menu-close-duplicate-tabs =
     .label = Закрыть дублирующиеся вкладки
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Закрыть все дублирующиеся вкладки

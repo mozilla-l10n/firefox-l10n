@@ -1116,6 +1116,9 @@ addressbar-suggestions-settings = Изменить настройки для п�
 addressbar-locbar-showrecentsearches-option =
     .label = Показать недавние поисковые запросы
     .accesskey = к
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Отображать популярные поисковые предложения
+    .accesskey = е
 addressbar-quickactions-learn-more = Подробнее
 
 ## Privacy Section - Content Blocking
