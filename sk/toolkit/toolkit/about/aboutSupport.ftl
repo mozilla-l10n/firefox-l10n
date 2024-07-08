@@ -352,6 +352,9 @@ has-seccomp-bpf = Seccomp-BPF (filtrovanie systémových volaní)
 has-seccomp-tsync = Synchronizácia vlákien Seccomp
 has-user-namespaces = Priestory názvov používateľa
 has-privileged-user-namespaces = Priestory názvov používateľa pre privilegované procesy
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — túto funkciu váš systém nepovoľuje. Môže to obmedziť bezpečnostné funkcie { -brand-short-name(case: "gen") }.
 can-sandbox-content = Sandboxing procesov obsahu
 can-sandbox-media = Sandboxing zásuvných modulov médií
 content-sandbox-level = Úroveň sandboxu procesu s obsahom

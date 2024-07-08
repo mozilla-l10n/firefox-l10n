@@ -1114,8 +1114,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = r
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-locbar-showrecentsearches-option =
-    .label = zobraziť nedávne vyhľadávania
+    .label = Zobrazovať nedávne vyhľadávania
     .accesskey = e
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Zobrazovať návrhy populárnych vyhľadávaní
+    .accesskey = n
 addressbar-quickactions-learn-more = Ďalšie informácie
 
 ## Privacy Section - Content Blocking
