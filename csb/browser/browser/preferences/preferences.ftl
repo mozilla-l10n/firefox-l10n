@@ -5,16 +5,15 @@
 pane-general-title = Òglowé
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Zamkni
 
@@ -32,18 +31,8 @@ should-restart-title = Zrëszë { -brand-short-name } znowa.
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -51,9 +40,7 @@ should-restart-title = Zrëszë { -brand-short-name } znowa.
 ## General Section
 
 startup-header = Zrëszanié
-
 tabs-group-header = Kôrtë
-
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa
     .accesskey = P
@@ -61,16 +48,16 @@ show-tabs-in-taskbar =
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+
 ##
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Zaawansowóné…
     .accesskey = Z
-
 choose-language-description = Wëbierzë preferowóny jãzëk
-
 choose-button =
     .label = Wëbierzë...
     .accesskey = i
@@ -78,10 +65,8 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Zladënczi
-
 download-save-where = Zapiszë lopczi do
     .accesskey = o
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -93,45 +78,36 @@ download-choose-folder =
             [macos] b
            *[other] r
         }
-
 applications-type-column =
     .label = Ôrt zamkłoscë
     .accesskey = t
-
 applications-action-column =
     .label = Dzejanié
     .accesskey = D
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = lopk { $extension }
 applications-action-save =
     .label = Zapiszë lopk
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Ùżëjë aplikacje { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Ùżëjë aplikacje { $app-name } (domëslnô)
-
 applications-use-other =
     .label = Ùżëjë jinny aplikacje…
 applications-select-helper = Wëbierzë pòmòcną aplikacjã
-
 applications-manage-app =
     .label = Detale aplikacje…
 applications-always-ask =
     .label = Wiedno pëtôj
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -143,24 +119,18 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
-
 
 update-application-use-service =
     .label = Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje
@@ -175,15 +145,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Przezéranié
-
 browsing-use-autoscroll =
     .label = Ùżëjë aùtomatnégò przewijaniô
     .accesskey = é
-
 browsing-use-smooth-scrolling =
     .label = Ùżëjë lejnégò przewijaniô
     .accesskey = ò
-
 browsing-use-cursor-navigation =
     .label = Zezwòlë na ùżëcé kùrsora do nawigacje pò stronach
     .accesskey = Z
@@ -210,7 +177,6 @@ use-current-pages =
            *[other] Ùżëjë ti stronë
         }
     .accesskey = Ù
-
 choose-bookmark =
     .label = Ùżëjë załóżka…
     .accesskey = ż
@@ -219,17 +185,13 @@ choose-bookmark =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
 
 ## Search Section
-
 
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -241,22 +203,19 @@ search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym p
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -269,7 +228,6 @@ search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym p
 sync-engine-bookmarks =
     .label = Załóżczi
     .accesskey = Z
-
 sync-engine-history =
     .label = Historiô
     .accesskey = r
@@ -280,49 +238,48 @@ sync-engine-history =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Wëjimczi…
     .accesskey = m
-
 forms-master-pw-change =
     .label = Zmieni przédną parolã…
     .accesskey = Z
-
 forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
 
 ## OS Authentication dialog
 
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historiô
-
 history-remember-option-all =
     .label = Spamiãtiwô historiã
 history-remember-option-never =
     .label = Nie spamiãtiwô historie
 history-remember-option-custom =
     .label = Ùżiwô swòji historie
-
 history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
-
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
     .accesskey = Ù
-
 history-remember-search-option =
     .label = Spamiãtiwôj historiã szëkbë i fòrmùlarzów
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Wëczëszczë historiã przë zamëkanim programù { -brand-short-name }
     .accesskey = ë
-
 history-clear-on-close-settings =
     .label = Nastawë…
     .accesskey = N
@@ -331,6 +288,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -344,7 +305,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -354,7 +317,6 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Blokùjë wëskakùjącé òkna
     .accesskey = B
-
 permissions-addon-exceptions =
     .label = Wëjimczi…
     .accesskey = W
@@ -362,6 +324,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Wicy wëdowiedzë
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -377,6 +342,7 @@ certs-header = Certifikatë
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
