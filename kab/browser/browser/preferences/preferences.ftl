@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = Kemmel, maca ɣur-k.
 pane-experimental-search-results-header = { -brand-short-name } Tirma: ddu kan s leεqel
 pane-experimental-description2 = Abeddel n yiɣewwaren n twila lqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Err-d iɣewwaren imezwer
     .accesskey = R
@@ -1270,6 +1273,9 @@ privacy-segmentation-radio-off =
     .label = Seqdec iwellihen n { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sken Talɣut leqqayen
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
