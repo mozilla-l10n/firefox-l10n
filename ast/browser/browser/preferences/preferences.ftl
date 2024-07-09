@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Sigui con curiáu
 pane-experimental-search-results-header = Esperimentos de { -brand-short-name }: Vete con curiáu
 pane-experimental-description2 = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Reafitar
     .accesskey = R
@@ -996,6 +999,9 @@ collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } 
     .accesskey = c
 collection-backlogged-crash-reports = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos
     .accesskey = c
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
