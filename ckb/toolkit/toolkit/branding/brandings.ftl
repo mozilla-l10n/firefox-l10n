@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-
 ## The following feature names must be treated as a brand.
 ##
 ## They cannot be:
@@ -26,20 +20,18 @@
 -lockwise-brand-short-name = لوکوایز
 -monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = چاودێری
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name = گیرفان
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
-
-
-
 -focus-brand-name = Firefox Focus
-
-
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
-
--mozmonitor-brand-name = Mozilla Monitor
+# Firefox Labs is the name for a page in Settings to allow users to learn about
+# experimental and in-development features, and turn those features on and off.
+# The "Labs" portion can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxlabs-brand-name = Firefox Labs

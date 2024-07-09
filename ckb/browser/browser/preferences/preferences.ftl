@@ -21,6 +21,9 @@ category-search =
 pane-privacy-title = تایبەتی و پاراستن
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } پشتگیری
 addons-button-label = پێوەکراوەکان & ڕووکارەکان
 focus-search =
@@ -832,6 +835,9 @@ collection-privacy-notice = تێبینی لەسەر تایبەتێتی
 collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
