@@ -76,3 +76,8 @@
         [loc] Prehľade Firefoxu
         [ins] Prehľadom Firefoxu
     }
+# Firefox Labs is the name for a page in Settings to allow users to learn about
+# experimental and in-development features, and turn those features on and off.
+# The "Labs" portion can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxlabs-brand-name = Firefox Labs
