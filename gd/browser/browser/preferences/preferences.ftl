@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Cùm a’ dol ach bidh air d’ fhaiceall
 pane-experimental-search-results-header = Deuchainn air { -brand-short-name }: Cùm a’ dol ach bidh air d’ fhaiceall
 pane-experimental-description2 = Ma nì thu atharrachadh air roghainnean adhartach an rèiteachaidh, dh’fhaoidte gun doir sin buaidh air dèanadas no tèarainteachd { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Aisig na bun-roghainnean
     .accesskey = r
@@ -1173,6 +1176,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
