@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Aneu amb compte
 pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
 pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -1050,6 +1053,9 @@ collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-nam
     .accesskey = f
 collection-backlogged-crash-reports = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament
     .accesskey = f
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
