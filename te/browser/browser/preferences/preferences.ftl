@@ -42,6 +42,9 @@ category-experimental =
     .tooltiptext = { -brand-short-name } ప్రయోగాలు
 pane-experimental-subtitle = జాగ్రత్తతో ముందుకెళ్ళండి
 pane-experimental-search-results-header = { -brand-short-name } ప్రయోగాలు: జాగ్రత్తతో ముందుకెళ్ళండి
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
@@ -905,6 +908,9 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
