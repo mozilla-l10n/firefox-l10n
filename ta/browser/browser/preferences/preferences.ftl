@@ -18,6 +18,9 @@ category-search =
 pane-privacy-title = தனியுரிமை & பாதுகாப்பு
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } ஆதரவு
 focus-search =
     .key = f
@@ -713,6 +716,9 @@ addon-recommendations-link = மேலும் அறிக
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
