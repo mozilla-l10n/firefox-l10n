@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
 pane-experimental-search-results-header = { -brand-short-name } ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱥ ᱠᱚ ᱺ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
 pane-experimental-description2 = ᱮᱰᱵᱷᱟᱱᱥ ᱠᱚᱱᱯᱷᱮᱜᱩᱨᱮᱥᱚᱱ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱨᱮᱭᱟᱜ ᱚᱥᱚᱨ ᱫᱚ { -brand-short-name }ᱦᱟᱜ ᱠᱟᱹᱢᱤ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱟᱲᱟᱣᱜᱼᱟ ᱾
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = ᱢᱩᱞ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
     .accesskey = R
@@ -1186,6 +1189,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
