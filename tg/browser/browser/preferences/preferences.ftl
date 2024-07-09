@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = Бо эҳтиёт идома диҳед
 pane-experimental-search-results-header = Озмоишҳои «{ -brand-short-name }»: Бо эҳтиёт идома диҳед
 pane-experimental-description2 = Тағйир додани хусусиятҳо танзимоти иловагӣ метавонад ба кор ё амнияти «{ -brand-short-name }» таъсир расонад.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
@@ -971,14 +974,6 @@ autofill-payment-methods-checkbox-submessage = Дар бар гирифтани 
     .accesskey = б
 autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
     .accesskey = р
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Дархости санҷиши ҳаққонияти «macOS» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
-        [windows] Дархости санҷиши ҳаққонияти «Windows» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
-        [linux] Дархости санҷиши ҳаққонияти «Linux» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
-       *[other] Дархости санҷиши ҳаққоният барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
-    }
-    .accesskey = х
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
@@ -1308,6 +1303,9 @@ privacy-segmentation-radio-off =
     .label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
 privacy-segmentation-radio-on =
     .label = Намоиш додани маълумоти муфассал
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
