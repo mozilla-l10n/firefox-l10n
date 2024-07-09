@@ -55,6 +55,9 @@ category-experimental =
 pane-experimental-subtitle = გამოიყენეთ სიფრთხილით
 pane-experimental-search-results-header = { -brand-short-name } ცდები: გამოიყენეთ სიფრთხილით
 pane-experimental-description2 = გაფართოებული პარამეტრების შეცვლის შედეგად შესაძლოა, დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = უ
@@ -1269,6 +1272,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-შემოთავაზებების გამოყენება
 privacy-segmentation-radio-on =
     .label = დაწვრილებით ჩვენება
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
