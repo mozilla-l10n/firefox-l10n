@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = Proceed with Caution
 pane-experimental-search-results-header = { -brand-short-name } Experiments: Proceed with Caution
 pane-experimental-description2 = Changing advanced configuration settings can impact { -brand-short-name } performance or security.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restore Defaults
     .accesskey = R
@@ -972,14 +975,6 @@ autofill-payment-methods-checkbox-submessage = Includes credit and debit cards
     .accesskey = I
 autofill-saved-payment-methods-button = Saved payment methods
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Require macOS authentication to fill and edit payment methods.
-        [windows] Require Windows authentication to fill and edit payment methods.
-        [linux] Require Linux authentication to fill and edit payment methods.
-       *[other] Require authentication to fill and edit payment methods.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Require device sign in to fill and manage payment methods
     .accesskey = o
@@ -1309,6 +1304,9 @@ privacy-segmentation-radio-off =
     .label = Use { -brand-product-name } recommendations
 privacy-segmentation-radio-on =
     .label = Show detailed information
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
