@@ -5,13 +5,13 @@
 pane-general-title = Iamu ampe
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Mikani
 
@@ -26,18 +26,8 @@ close-button =
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -45,12 +35,11 @@ close-button =
 ## General Section
 
 startup-header = Uénakua
-
 tabs-group-header = Arhukutarakua
-
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -60,9 +49,7 @@ tabs-group-header = Arhukutarakua
 advanced-fonts =
     .label = Orhepaniksï...
     .accesskey = O
-
 choose-language-description = Eraku ma uantakuani nákinkari uekaka parakari xaranharitaka web
-
 choose-button =
     .label = K´umanharhitani...
     .accesskey = ´
@@ -70,28 +57,22 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Anchitarakua keskukuecha
-
 applications-type-column =
     .label = Najasi ukua
     .accesskey = N
-
 applications-action-column =
     .label = Anchikuarikua
     .accesskey = A
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Úrani { $app-name }
-
 applications-use-other =
     .label = Úrani máteru…
-
 applications-manage-app =
     .label = Mamaru úrani…
 applications-always-ask =
     .label = k'urhamarhini
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -103,19 +84,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -128,11 +104,9 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Miiunskakua
-
 browsing-use-autoscroll =
     .label = Jintiojku itsakukua
     .accesskey = i
-
 browsing-use-cursor-navigation =
     .label = Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani
     .accesskey = m
@@ -156,7 +130,6 @@ use-current-pages =
            *[other] Úra eranharhitakuechani enka xaranharhi kuarhini jakaksï
         }
     .accesskey = k
-
 choose-bookmark =
     .label = Kuirunharhikata Úrani…
     .accesskey = K
@@ -165,19 +138,16 @@ choose-bookmark =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
-## Search Section
 
+## Search Section
 
 search-choose-keyword-column =
     .label = Uantakua minta
-
 search-remove-engine =
     .label = Kéntitani
     .accesskey = K
@@ -185,28 +155,19 @@ search-remove-engine =
 ## Containers Section
 
 
-## Sync Section - Signed out
-
-
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Sync Section - Signed in
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -219,26 +180,31 @@ search-remove-engine =
 sync-engine-bookmarks =
     .label = Kuirunharitarakuecha
     .accesskey = K
-
 sync-engine-history =
     .label = Patsakata
     .accesskey = P
 
 ## The device name controls.
 
+
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
-
-
-## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
 
 
+## Privacy Section - Passwords
+
+
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -248,21 +214,16 @@ history-remember-option-never =
     .label = Karakata patsakatani nóteru miántani
 history-remember-option-custom =
     .label = Karakata patsakatantini májku pérache
-
 history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
-
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
     .accesskey = J
-
 history-remember-search-option =
     .label = Miatantakarini nénasïni xéntapi
     .accesskey = M
-
 history-clear-on-close-option =
     .label = Ásï ampe ma patsa { -brand-short-name } míkani
     .accesskey = Á
-
 history-clear-on-close-settings =
     .label = Xerpetarakua…
     .accesskey = X
@@ -271,6 +232,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -284,7 +249,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -294,12 +261,14 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Eranharitarakuechani p´inkuni
     .accesskey = E
-
 permissions-addon-exceptions =
     .label = Licha no ampe…
     .accesskey = L
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -313,9 +282,10 @@ permissions-addon-exceptions =
 
 ## Privacy Section - HTTPS-Only
 
+
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
 downloads-folder-name = Anchitarakua keskukuecha
-
