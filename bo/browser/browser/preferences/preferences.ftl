@@ -20,6 +20,9 @@ category-search =
 pane-privacy-title = བདག་དབང་དང་བདེ་འཇགས
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } Support
 addons-button-label = ཟུར་སྣོན་དང་དཔེ་གཞི
 focus-search =
@@ -674,6 +677,9 @@ addon-recommendations-link = Learn more
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
