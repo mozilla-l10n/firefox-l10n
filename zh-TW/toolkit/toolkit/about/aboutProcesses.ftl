@@ -50,6 +50,7 @@ about-processes-remote-sandbox-broker-process = 遠端沙盒溝通工具（{ $pi
 about-processes-fork-server-process = Fork 伺服器（{ $pid }）
 about-processes-preallocated-process = 預先分配（{ $pid }）
 about-processes-utility-process = 小工具（{ $pid }）
+about-processes-inference-process = 推斷（{ $pid }）
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
