@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = Продовжуйте обережно
 pane-experimental-search-results-header = Експерименти { -brand-short-name }: Продовжуйте з обережністю
 pane-experimental-description2 = Зміна розширених налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Відновити типові
     .accesskey = В
@@ -976,14 +979,6 @@ autofill-payment-methods-checkbox-submessage = Застосовується до
     .accesskey = к
 autofill-saved-payment-methods-button = Збережені способи оплати
     .accesskey = т
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Вимагати автентифікацію macOS для заповнення та редагування способів оплати.
-        [windows] Вимагати автентифікацію Windows для заповнення та редагування способів оплати.
-        [linux] Вимагати автентифікацію Linux для заповнення та редагування способів оплати.
-       *[other] Вимагати автентифікацію для заповнення та редагування способів оплати
-    }
-    .accesskey = г
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Вимагати входу на пристрої для заповнення та керування способами оплати
     .accesskey = х
@@ -1313,6 +1308,9 @@ privacy-segmentation-radio-off =
     .label = Використовувати рекомендації { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показати подробиці
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
