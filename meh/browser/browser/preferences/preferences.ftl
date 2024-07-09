@@ -29,6 +29,9 @@ category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Kaka ji precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: kaka ji precaución
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Natee tuku predeterminados
     .accesskey = R
@@ -866,6 +869,9 @@ collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
