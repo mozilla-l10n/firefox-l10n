@@ -15,6 +15,9 @@ category-search =
 pane-privacy-title = Privaatheid en sekuriteit
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name }-ondersteuning
 focus-search =
     .key = f
@@ -604,6 +607,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Meer inligting
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
