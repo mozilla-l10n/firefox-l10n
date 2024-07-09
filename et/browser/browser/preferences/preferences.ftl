@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Jätka ettevaatlikult
 pane-experimental-search-results-header = { -brand-short-name }i katsetused: jätka ettevaatlikult
 pane-experimental-description2 = Parameetrite muutmine võib mõjutada { -brand-short-name }i jõudlust ja turvalisust.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Taasta vaikeväärtused
     .accesskey = T
@@ -1114,6 +1117,9 @@ collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sin
     .accesskey = L
 collection-backlogged-crash-reports = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid
     .accesskey = L
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
