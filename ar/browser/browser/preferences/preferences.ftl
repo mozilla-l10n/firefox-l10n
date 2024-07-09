@@ -51,6 +51,9 @@ category-experimental =
 pane-experimental-subtitle = واصِل وأنت حذر
 pane-experimental-search-results-header = تجارب { -brand-short-name }: واصِل وأنت حذر
 pane-experimental-description2 = يمكن أن يؤثّر التغيير على إعدادات الضبط المتقدمة أداء { -brand-short-name } وأمنه.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = استعد المبدئيات
     .accesskey = س
@@ -1215,6 +1218,9 @@ privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = أظهِر المعلومات المفصلة
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
