@@ -15,6 +15,9 @@ category-search =
 pane-privacy-title = गोपनीयता आ सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } समर्थन
 focus-search =
     .key = f
@@ -399,6 +402,9 @@ permissions-addon-exceptions =
     .accesskey = E
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
