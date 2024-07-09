@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = ප්‍රවේශම්ව ඉදිරියට යන්න
 pane-experimental-search-results-header = { -brand-short-name } අත්හදා බැලීම්: ප්‍රවේශම්ව ඉදිරියට යන්න
 pane-experimental-description2 = වැඩිදුර වින්‍යාස සැකසුම් වෙනස් කිරීම { -brand-short-name } කාර්ය සාධනයට හෝ ආරක්‍ෂාවට බලපෑ හැකිය.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
@@ -1181,6 +1184,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 privacy-segmentation-radio-on =
     .label = විස්තරාත්මක තොරතුරු පෙන්වන්න
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
