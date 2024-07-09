@@ -20,6 +20,9 @@ category-search =
 pane-privacy-title = Mung ki Ber bedo
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Cwak me { -brand-short-name }
 focus-search =
     .key = f
@@ -761,6 +764,9 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
