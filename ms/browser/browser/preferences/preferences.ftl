@@ -18,6 +18,9 @@ category-search =
 pane-privacy-title = Privasi & Keselamatan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Sokongan { -brand-short-name }
 addons-button-label = Ekstensi & Tema
 focus-search =
@@ -716,6 +719,9 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
