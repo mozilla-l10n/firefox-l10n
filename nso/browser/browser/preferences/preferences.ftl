@@ -5,17 +5,16 @@
 pane-general-title = Kakaretšo
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Nyaka
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Tswalela
 
@@ -33,18 +32,8 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -52,11 +41,8 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 ## General Section
 
 startup-header = Thoma
-
 is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
-
 tabs-group-header = Dithepe
-
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
     .accesskey = k
@@ -64,20 +50,19 @@ show-tabs-in-taskbar =
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+
 ##
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Gatetšego pele…
     .accesskey = G
-
 choose-language-description = Kgetha leleme leo o le kganyogago la go bontšha matlakala
-
 choose-button =
     .label = Kgetha…
     .accesskey = g
-
 translate-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = k
@@ -85,10 +70,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Ditaollo
-
 download-save-where = Boloka difaele go
     .accesskey = k
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -100,45 +83,36 @@ download-choose-folder =
             [macos] e
            *[other] e
         }
-
 applications-type-column =
     .label = Mohuta wa dikagare
     .accesskey = t
-
 applications-action-column =
     .label = Modiro
     .accesskey = M
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Faele ya { $extension }
 applications-action-save =
     .label = Boloka faele
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Diriša { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Diriša { $app-name } (tirelwa)
-
 applications-use-other =
     .label = Diriša … e nngwe
 applications-select-helper = Kgetha tirišo ya mothuši
-
 applications-manage-app =
     .label = Dintlha tša tirišo…
 applications-always-ask =
     .label = Botšiša ka mehla
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -150,24 +124,18 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
-
 
 update-application-use-service =
     .label = Diriša tirelo ya bokamorago gore o lokele dimpshafatšo
@@ -182,15 +150,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Go praosa
-
 browsing-use-autoscroll =
     .label = Diriša sekorolo sa maitirišo
     .accesskey = s
-
 browsing-use-smooth-scrolling =
     .label = Diriša sekorolo se boreledi
     .accesskey = r
-
 browsing-use-cursor-navigation =
     .label = Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala
     .accesskey = k
@@ -217,7 +182,6 @@ use-current-pages =
            *[other] Diriša matlakala a bjale
         }
     .accesskey = l
-
 choose-bookmark =
     .label = Diriša pukutshwayo...
     .accesskey = p
@@ -226,22 +190,17 @@ choose-bookmark =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
 
 ## Search Section
 
-
 search-remove-engine =
     .label = Tloša
     .accesskey = T
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dira kopi ya lentšu la motheo
@@ -253,22 +212,19 @@ search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le di
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -281,7 +237,6 @@ search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le di
 sync-engine-bookmarks =
     .label = Dipukutshwayo
     .accesskey = s
-
 sync-engine-history =
     .label = Histori
     .accesskey = i
@@ -292,22 +247,27 @@ sync-engine-history =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = e
-
 forms-master-pw-change =
     .label = Fetoša lentšuphetišo le legolo…
     .accesskey = l
-
 forms-master-pw-fips-desc = Go fetolwa ga lentšuphetišo go paletšwe
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -318,21 +278,16 @@ history-remember-option-never =
     .label = O se ke wa gopola histori
 history-remember-option-custom =
     .label = Diriša dipeakanyo tša tlwaelo bakeng sa histori
-
 history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
-
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete
     .accesskey = p
-
 history-remember-search-option =
     .label = Gopola histori ya nyako le foromo
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Tloša histori ge { -brand-short-name } e tswalela
     .accesskey = o
-
 history-clear-on-close-settings =
     .label = Dipeakanyo…
     .accesskey = e
@@ -341,6 +296,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -354,7 +313,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -364,12 +325,14 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Thibela mafasetere a runyago
     .accesskey = T
-
 permissions-addon-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = T
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -386,6 +349,7 @@ certs-header = Ditifikeiti
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
