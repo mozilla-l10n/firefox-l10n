@@ -335,6 +335,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtrim Thirrjesh Sistemi)
 has-seccomp-tsync = Njëkohësim Seccomp Rrjedhe
 has-user-namespaces = Emërhapësira Përdoruesi
 has-privileged-user-namespaces = Emërhapësira Përdoruesi për procese të privilegjuar
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Kjo veçori nuk lejohet nga sistemi juaj. Ky mund të kufizojë veçori sigurie të { -brand-short-name }-it.
 can-sandbox-content = Mbajtje Brenda Bankëprovës e Proceseve të Lëndës
 can-sandbox-media = Mbajtje Brenda Bankëprovës e Shtojcave Për Media
 content-sandbox-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve të Lëndës
@@ -403,6 +406,7 @@ support-printing-prefs-value = Vlerë
 
 ## Remote Settings sections
 
+support-remote-settings-title = Rregullime për të Largët
 support-remote-settings-status = Gjendje
 support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
