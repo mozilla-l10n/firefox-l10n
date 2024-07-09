@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = Broker de isolamento (sandbox) r
 about-processes-fork-server-process = Servidor de fork ({ $pid })
 about-processes-preallocated-process = Pré-alocado ({ $pid })
 about-processes-utility-process = Utilidade ({ $pid })
+about-processes-inference-process = Inferência ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
