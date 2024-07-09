@@ -50,6 +50,7 @@ about-processes-remote-sandbox-broker-process = 원격 샌드박스 브로커 ({
 about-processes-fork-server-process = 포크 서버 ({ $pid })
 about-processes-preallocated-process = 사전 할당 ({ $pid })
 about-processes-utility-process = 유틸리티 ({ $pid })
+about-processes-inference-process = 추론 ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
