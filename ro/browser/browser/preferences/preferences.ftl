@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Procedează cu grijă
 pane-experimental-search-results-header = Experimente { -brand-short-name }: Procedează cu grijă
 pane-experimental-description2 = Modificarea setărilor avansate de configurare poate afecta performanța sau securitatea din { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -1121,6 +1124,9 @@ collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name }
     .accesskey = c
 collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
