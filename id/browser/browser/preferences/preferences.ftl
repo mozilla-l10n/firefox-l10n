@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Lanjutkan dengan Kehati-hatian
 pane-experimental-search-results-header = Eksperimen { -brand-short-name }: Lanjutkan dengan Hati-hati
 pane-experimental-description2 = Mengubah pengaturan konfigurasi tingkat lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Pulihkan Bawaan
     .accesskey = B
@@ -1147,6 +1150,9 @@ privacy-segmentation-radio-off =
     .label = Gunakan rekomendasi { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tampilkan informasi rinci
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
