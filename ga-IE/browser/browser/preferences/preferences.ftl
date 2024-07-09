@@ -31,6 +31,9 @@ pane-privacy-title = Príobháideachas agus Slándáil
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-experimental-search-results-header = { -brand-short-name } Turgnaimh: Bí cúramach
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Tacaíocht { -brand-short-name }
 addons-button-label = Eisínteachtaí agus Téamaí
 focus-search =
@@ -657,6 +660,9 @@ addon-recommendations-link = Tuilleadh eolais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
