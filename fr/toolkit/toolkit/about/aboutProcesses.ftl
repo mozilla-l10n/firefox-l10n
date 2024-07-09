@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = Broker du bac à sable distant (
 about-processes-fork-server-process = Serveur d’instanciation de processus ({ $pid })
 about-processes-preallocated-process = Préalloué ({ $pid })
 about-processes-utility-process = Utilitaire ({ $pid })
+about-processes-inference-process = Inférence ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
