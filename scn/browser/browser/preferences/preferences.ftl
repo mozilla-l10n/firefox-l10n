@@ -21,6 +21,9 @@ category-search =
 pane-privacy-title = Privatizza e sicurizza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Supportu di { -brand-short-name }
 addons-button-label = Stinziuna e temi
 focus-search =
@@ -880,6 +883,9 @@ addon-recommendations-link = Cchiù nfurmazziuna
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta virsiuni
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
