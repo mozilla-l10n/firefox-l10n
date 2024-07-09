@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Elkitės atsargiai
 pane-experimental-search-results-header = „{ -brand-short-name }“ eksperimentai: elkitės atsargiai
 pane-experimental-description2 = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Atstatyti numatytuosius
     .accesskey = A
@@ -1149,6 +1152,9 @@ privacy-segmentation-radio-off =
     .label = Naudoti „{ -brand-product-name }“ rekomendacijas
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
