@@ -637,6 +637,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Tschertgà dacurt
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Trend sin { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Betg mussar trends da tschertga
+    .accesskey = B
+urlbar-result-menu-trending-why =
+    .label = Pertge ves jau quai?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Grazia per tes resun. Ti na vegns betg pli a vesair trends da tschertga.
 
 ## Reader View toolbar buttons
 
@@ -987,6 +1002,10 @@ firefox-relay-offer-legal-notice = Cun cliccar sin «Utilisar alias dad e-mail»
 popup-notification-addon-install-unsigned =
     .value = (Betg verifitgà)
 popup-notification-xpinstall-prompt-learn-more = Vegnir a savair dapli davart l'installaziun da supplements a moda segira
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Exequir en fanestras privatas
+    .accesskey = p
 
 ## Pop-up warning
 

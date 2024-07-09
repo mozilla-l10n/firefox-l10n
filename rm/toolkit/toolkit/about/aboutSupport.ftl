@@ -347,6 +347,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtrar cloms dal sistem)
 has-seccomp-tsync = Sincronisaziun Seccomp Thread
 has-user-namespaces = Spazis da num da l'utilisader
 has-privileged-user-namespaces = Spazis da num da l'utilisader per process privilegiads
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Questa funcziun n’è betg permessa da tes sistem. Quai po restrenscher funcziuns da segirezza da { -brand-short-name }.
 can-sandbox-content = Sandbox per process da cuntegn
 can-sandbox-media = Sandbox per plug-ins da medias
 content-sandbox-level = Nivel da sandbox per process da cuntegn

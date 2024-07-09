@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 addressbar-locbar-showrecentsearches-option =
     .label = Mussar las ultimas tschertgas
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mussar propostas da trends da tschertga
+    .accesskey = t
 addressbar-quickactions-learn-more = Ulteriuras infurmaziuns
 
 ## Privacy Section - Content Blocking

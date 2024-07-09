@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = A
 all-tabs-menu-close-duplicate-tabs =
     .label = Serrar tabs duplitgads
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Serrar tut ils tabs duplitgads
