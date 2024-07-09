@@ -18,6 +18,9 @@ category-search =
 pane-privacy-title = Suturo & Kisal
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Wallitorde { -brand-short-name }
 addons-button-label = Jokke & Kettule
 focus-search =
@@ -767,6 +770,9 @@ collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
