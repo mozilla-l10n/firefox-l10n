@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Продължете с повишено внимание
 pane-experimental-search-results-header = Опити с { -brand-short-name }: Продължете с повишено внимание
 pane-experimental-description2 = Промяната на разширените настройки може да повлияе на производителността или сигурността на { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Възстановяване на стандартните настройки
     .accesskey = С
@@ -1105,6 +1108,9 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
