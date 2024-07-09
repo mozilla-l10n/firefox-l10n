@@ -5,16 +5,15 @@
 pane-general-title = Okuvamile
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Vala
 
@@ -32,18 +31,8 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -51,11 +40,8 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 ## General Section
 
 startup-header = Qala
-
 is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
-
 tabs-group-header = Amathebhu
-
 show-tabs-in-taskbar =
     .label = Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows
     .accesskey = b
@@ -63,20 +49,19 @@ show-tabs-in-taskbar =
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+
 ##
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Okuthuthukile…
     .accesskey = O
-
 choose-language-description = Khetha ulimi olithandayo lokuboniswa kwamakhasi
-
 choose-button =
     .label = Khetha…
     .accesskey = e
-
 translate-exceptions =
     .label = Okuhlukile…
     .accesskey = k
@@ -84,10 +69,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Okulayishiwe kwangeniswa
-
 download-save-where = Gcina amafayela ku
     .accesskey = i
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -99,45 +82,36 @@ download-choose-folder =
             [macos] a
            *[other] m
         }
-
 applications-type-column =
     .label = Isimo sokuqukethwe
     .accesskey = s
-
 applications-action-column =
     .label = Isenzo
     .accesskey = I
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ifayela
 applications-action-save =
     .label = Gcina Ifayela
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Sebenzisa i-{ $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } (okwakhona)
-
 applications-use-other =
     .label = Sebenzisa enye…
 applications-select-helper = Khetha Umsizi Wokusetshenziswayo
-
 applications-manage-app =
     .label = Imininingwane yohlelo lokusebenza…
 applications-always-ask =
     .label = Buza njalo
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -149,24 +123,18 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
-
 
 update-application-use-service =
     .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
@@ -181,15 +149,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Ukudlulisa amehlo
-
 browsing-use-autoscroll =
     .label = Sebenzisa ukuzula okuzenzakalelayo
     .accesskey = o
-
 browsing-use-smooth-scrolling =
     .label = Sebenzisa ukwehla wenyuka okushelelayo
     .accesskey = k
-
 browsing-use-cursor-navigation =
     .label = Makuhlalwe kusetshenziswa izinkinobho zesikhombisi ekuzuleni kumakhasi
     .accesskey = z
@@ -216,7 +181,6 @@ use-current-pages =
            *[other] Sebenzisa amakhasi wamanje
         }
     .accesskey = m
-
 choose-bookmark =
     .label = Sebenzisa ukuphawula nokubekisa…
     .accesskey = u
@@ -225,22 +189,17 @@ choose-bookmark =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
 
 ## Search Section
 
-
 search-remove-engine =
     .label = Susa
     .accesskey = S
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Yenza ikhophi yegama elingukhiye
@@ -252,22 +211,19 @@ search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu 
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -280,7 +236,6 @@ search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu 
 sync-engine-bookmarks =
     .label = Izimpawu zokubekisa
     .accesskey = z
-
 sync-engine-history =
     .label = Umlando
     .accesskey = d
@@ -291,22 +246,27 @@ sync-engine-history =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Okuhlukile…
     .accesskey = k
-
 forms-master-pw-change =
     .label = Shintsha iphasiwedi yokungena ephethe…
     .accesskey = e
-
 forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -317,21 +277,16 @@ history-remember-option-never =
     .label = Kungalokothwa kukhunjulwe umlando
 history-remember-option-custom =
     .label = Sebenzisa izimiso zokuzenzela uzisebenzisele umlando
-
 history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
-
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
     .accesskey = n
-
 history-remember-search-option =
     .label = Khumbula ukusesha nohlobo lomlando
     .accesskey = n
-
 history-clear-on-close-option =
     .label = Susa umlando uma i-{ -brand-short-name } ivala
     .accesskey = a
-
 history-clear-on-close-settings =
     .label = Izilungiselelo…
     .accesskey = z
@@ -340,6 +295,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -353,7 +312,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -363,12 +324,14 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Vimbela amawindi azivelelayo
     .accesskey = V
-
 permissions-addon-exceptions =
     .label = Okuhlukile…
     .accesskey = k
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -385,6 +348,7 @@ certs-header = Izitifiketi
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
