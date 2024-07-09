@@ -33,6 +33,9 @@ pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = সিঙ্ক
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } সহায়তা
 addons-button-label = এক্সটেনশন ও থিম
 focus-search =
@@ -908,6 +911,9 @@ addon-recommendations-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
