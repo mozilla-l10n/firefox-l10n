@@ -5,14 +5,14 @@
 pane-general-title = Rusange
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Gushakisha
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Gufunga
 
@@ -27,18 +27,8 @@ close-button =
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -46,11 +36,11 @@ close-button =
 ## General Section
 
 startup-header = Ntangiriro
-
 tabs-group-header = Udufishi
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -60,7 +50,6 @@ tabs-group-header = Udufishi
 advanced-fonts =
     .label = Bihanitse...
     .accesskey = h
-
 translate-exceptions =
     .label = Amarengayobora...
     .accesskey = r
@@ -68,10 +57,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Ibyakuruwe
-
 download-save-where = Kubika dosiye mu
     .accesskey = K
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -83,15 +70,12 @@ download-choose-folder =
             [macos] h
            *[other] h
         }
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Idosiye ya { $extension }
 applications-action-save =
     .label = Kubika Dosiye
-
 applications-select-helper = Guhitamo Porogaramu yungirije
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -103,19 +87,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -128,15 +107,12 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Gushakisha
-
 browsing-use-autoscroll =
     .label = Gukoresha Nyamwinyereza
     .accesskey = k
-
 browsing-use-smooth-scrolling =
     .label = Gukoresha Inyereza Rinyorotse
     .accesskey = I
-
 browsing-use-cursor-navigation =
     .label = Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji
     .accesskey = r
@@ -168,11 +144,8 @@ use-current-pages =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
@@ -183,22 +156,19 @@ use-current-pages =
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -215,22 +185,27 @@ use-current-pages =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Amarengayobora...
     .accesskey = A
-
 forms-master-pw-change =
     .label = Guhindura Ijambobanga Ngenga...
     .accesskey = h
-
 forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -240,6 +215,10 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -253,7 +232,9 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -263,12 +244,14 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 permissions-block-popups =
     .label = Guhagarika Amadirishya y'Ibyiramburirahejuru
     .accesskey = h
-
 permissions-addon-exceptions =
     .label = Amarengayobora...
     .accesskey = r
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -285,6 +268,7 @@ certs-header = Ibyemezo
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
