@@ -18,6 +18,9 @@ category-search =
 pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } အထောက်အပံ့
 addons-button-label = တပ်တိုးအပိုနှင့် နောက်ခံအပြင်ဆင်
 focus-search =
@@ -740,6 +743,9 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
