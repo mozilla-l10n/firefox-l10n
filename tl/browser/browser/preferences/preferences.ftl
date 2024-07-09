@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
 pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
 pane-experimental-description2 = Ang pagbabago sa mga advanced na setting ng pagsasaayos ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Ibalik sa Dating Ayos
     .accesskey = I
@@ -1009,6 +1012,9 @@ addon-recommendations-link = Alamin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
