@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Pozōr!
 pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
 pane-experimental-description2 = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Wrōć bazowe
     .accesskey = W
@@ -1116,6 +1119,9 @@ collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-n
     .accesskey = c
 collection-backlogged-crash-reports = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie
     .accesskey = c
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
