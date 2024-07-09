@@ -5,16 +5,15 @@
 pane-general-title = Ëmb lépp
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Tëj
 
@@ -29,18 +28,8 @@ close-button =
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -48,9 +37,7 @@ close-button =
 ## General Section
 
 startup-header = Tàmbali
-
 is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
-
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
@@ -58,20 +45,19 @@ show-tabs-in-taskbar =
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
+
 ##
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Xóot…
     .accesskey = X
-
 choose-language-description = Tànn lammiñ ngir wone xët yi
-
 choose-button =
     .label = Tànn…
     .accesskey = T
-
 translate-exceptions =
     .label = Yi kenn tëggaalewul…
     .accesskey = k
@@ -79,10 +65,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Yeb yi
-
 download-save-where = Aar dencukaay yi ci biir wayndare bi
     .accesskey = n
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -94,45 +78,36 @@ download-choose-folder =
             [macos] T
            *[other] S
         }
-
 applications-type-column =
     .label = Giiri këmb
     .accesskey = G
-
 applications-action-column =
     .label = Jëf
     .accesskey = J
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = jukki { $extension }
 applications-action-save =
     .label = Aar jukki bi
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Jëfandikoo { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Jëfandikoo { $app-name } (ñakk ndigal)
-
 applications-use-other =
     .label = Beneen…
 applications-select-helper = Tànn jëfekaayu biti
-
 applications-manage-app =
     .label = Benn bennali jëfekaay bi…
 applications-always-ask =
     .label = Laaj saa su ne
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -144,24 +119,18 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
-
 
 update-application-use-service =
     .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
@@ -176,15 +145,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Joow mi
-
 browsing-use-autoscroll =
     .label = Jëfandikoo lemmi boppam gi
     .accesskey = l
-
 browsing-use-smooth-scrolling =
     .label = Jëfandikoo lemmi gu nooy
     .accesskey = m
-
 browsing-use-cursor-navigation =
     .label = Jëfandikoo saa su nekk butoŋu joow mi ngir doxantu ci biir xët yi
     .accesskey = t
@@ -211,7 +177,6 @@ use-current-pages =
            *[other] Xët yiy daw
         }
     .accesskey = X
-
 choose-bookmark =
     .label = Mandarga xët...
     .accesskey = M
@@ -220,21 +185,16 @@ choose-bookmark =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
 
 ## Search Section
 
-
 search-choose-keyword-column =
     .label = Caabi baat
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Caabi baat bi dafa seex
@@ -246,22 +206,19 @@ search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di 
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -274,7 +231,6 @@ search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di 
 sync-engine-bookmarks =
     .label = Mandarga xët yi
     .accesskey = g
-
 sync-engine-history =
     .label = Jaar jaar
     .accesskey = r
@@ -285,22 +241,27 @@ sync-engine-history =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Seppi yi…
     .accesskey = S
-
 forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o
-
 forms-master-pw-fips-desc = Baatu jàll bi lajj na
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -311,21 +272,16 @@ history-remember-option-never =
     .label = Bul denc mukk jaar jaar bi
 history-remember-option-custom =
     .label = Jëfandikoo parameetar yi ñu solal ngir jaar jaar bi
-
 history-dontremember-description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
-
 history-private-browsing-permanent =
     .label = Saa su nekk jëfandikoo anamu joowum biir
     .accesskey = j
-
 history-remember-search-option =
     .label = Denc jaar jaaru wut yi ak formileer yi
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Dindi jaar jaar yi boo dee tëj { -brand-short-name }
     .accesskey = D
-
 history-clear-on-close-settings =
     .label = Parameetar…
     .accesskey = P
@@ -334,6 +290,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -347,7 +307,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -357,12 +319,14 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Tëye panlanteeru popup
     .accesskey = T
-
 permissions-addon-exceptions =
     .label = Seppi yi…
     .accesskey = S
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -379,6 +343,7 @@ certs-header = Sarsifikaa
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
