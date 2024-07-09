@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Շարունակէք զգուշաւորութեամբ
 pane-experimental-search-results-header = { -brand-short-name } Փորձարկումներ․ շարունակէք զգուշութեամբ
 pane-experimental-description2 = Ընդլայնուած ձեւակազմի կարգաւորումների փոփոխութիւնը, կարող է ազդել { -brand-short-name }-ի աշխատանքի կամ անվտանգութեան վրայ:
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Վերականգնել լռելեայն կարգաբերումները
     .accesskey = Վ
@@ -1111,6 +1114,9 @@ collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-n
     .accesskey = թ
 collection-backlogged-crash-reports = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ
     .accesskey = թ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
