@@ -637,6 +637,15 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Kërkime Së Fundi
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Prirje te { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Mos shfaq prirje kërkimesh
+    .accesskey = M
 urlbar-result-menu-trending-why =
     .label = Pse më del kjo?
     .accesskey = P

@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Paracaktim për hetim të metash për
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energji
+profiler-popup-presets-debug-description = Paracaktim për diagnostikim në { -brand-shorter-name }. Ngarkesë e madhe, mos e përdorni për punë funksionimi, por përdoreni për t’u përqendruar te të kuptuarit e sjelljes së shfletuesit.
 profiler-popup-presets-debug-label =
     .label = Diagnostikoje
 profiler-popup-presets-custom-label =

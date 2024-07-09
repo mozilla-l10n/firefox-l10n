@@ -401,6 +401,19 @@ support-printing-modified-settings = Rregullime shtypjeje të ndryshuara
 support-printing-prefs-name = Emër
 support-printing-prefs-value = Vlerë
 
+## Remote Settings sections
+
+support-remote-settings-status = Gjendje
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = S’funksionon
+support-remote-settings-last-check = Kontrolli i fundit më
+support-remote-settings-local-timestamp = Vulë kohore vendore
+support-remote-settings-sync-history = Historik
+support-remote-settings-sync-history-status = Gjendje
+support-remote-settings-sync-history-datetime = Datë
+support-remote-settings-sync-history-infos = Hollësi
+
 ## Normandy sections
 
 support-remote-experiments-title = Eksperimente Së Largëti
