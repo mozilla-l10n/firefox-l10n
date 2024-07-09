@@ -15,6 +15,9 @@ category-search =
 pane-privacy-title = UbuNgasese noKhuseleko
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = INkxaso ye{ -brand-short-name }
 focus-search =
     .key = f
@@ -508,6 +511,9 @@ collection-health-report-link = Funda okungakumbi
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
