@@ -11,6 +11,9 @@ category-search =
 pane-privacy-title = Sutura nda saajaw
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } faaba
 focus-search =
     .key = f
@@ -481,6 +484,9 @@ permissions-addon-exceptions =
     .accesskey = H
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
