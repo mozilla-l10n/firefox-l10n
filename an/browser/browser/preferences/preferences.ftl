@@ -26,6 +26,9 @@ category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Ves con cuenta!
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Ves con cuenta
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Extensions y temas
 focus-search =
@@ -936,6 +939,9 @@ addon-recommendations-link = Saber-ne mas
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
