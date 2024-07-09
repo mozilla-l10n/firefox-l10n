@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Nastavi s oprezom
 pane-experimental-search-results-header = { -brand-short-name } eksperimenti: Nastavi s oprezom
 pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki može utjecati na performancu i sigurnost programa { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Vrati zadano
     .accesskey = r
@@ -1056,6 +1059,9 @@ privacy-segmentation-radio-off =
     .label = Koristi { -brand-product-name } preporuke
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
