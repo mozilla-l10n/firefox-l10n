@@ -52,6 +52,7 @@ about-processes-remote-sandbox-broker-process = Удалённый брокер 
 about-processes-fork-server-process = Форк-сервер ({ $pid })
 about-processes-preallocated-process = Предварительно выделено ({ $pid })
 about-processes-utility-process = Утилита ({ $pid })
+about-processes-inference-process = Вывод ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
