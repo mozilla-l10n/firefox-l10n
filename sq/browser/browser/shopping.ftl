@@ -134,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = Mësoni më tepër mbi <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Gjërat në pah</strong> janë nga shqyrtime { $retailer } brenda 80 ditëve të fundit, të cilave besojmë se janë të vlefshme.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Gjërat në pah</strong> janë nga shqyrtime brenda 80 ditëve të fundit, të cilave besojmë se mund t’u zihet besë.
 shopping-analysis-explainer-review-grading-scale-reliable = Shqyrtime të vlefshme. Besojmë se shqyrtimet janë, me gjasa, prej klientësh të njëmendtë, që lanë shqyrtime të ndershme, të paanshme.
 shopping-analysis-explainer-review-grading-scale-mixed = Besojmë se bëhet fjalë për një përzierje shqyrtimesh të besueshme dhe jo të besueshme.
 shopping-analysis-explainer-review-grading-scale-unreliable = Shqyrtime jo të besueshme. Besojmë se shqyrtimet ka gjasa të jenë të rreme, ose prej shqyrtuesish të anshëm.

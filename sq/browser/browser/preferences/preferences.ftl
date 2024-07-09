@@ -60,6 +60,7 @@ pane-experimental-description2 = Ndryshimi i rregullimeve të mëtejshme të for
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Provoni veçoritë tonë eksperimentale! Janë në zhvillim e sipër dhe evoluojnë, çka mund të prekë mënyrën se si funksionon { -brand-short-name }-i.
 pane-experimental-reset =
     .label = Rikthe Parazgjedhjet
     .accesskey = R
