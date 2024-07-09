@@ -25,6 +25,9 @@ pane-sync-title3 = Sinxronizatsiya
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-experimental-search-results-header = { -brand-short-name } Tajriba: Ehtiyotkorlik bilan foydalaning
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } yordami
 addons-button-label = Kengaytmalar va mavzular
 focus-search =
@@ -777,6 +780,9 @@ addon-recommendations-link = Batafsil
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
