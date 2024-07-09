@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-locbar-showrecentsearches-option =
     .label = Näytä viimeisimmät haut
     .accesskey = h
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Näytä suositut hakuehdotukset
+    .accesskey = t
 addressbar-quickactions-learn-more = Lue lisää
 
 ## Privacy Section - Content Blocking

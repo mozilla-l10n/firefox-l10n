@@ -234,6 +234,19 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-pro
 newtab-pocket-save = Tallenna
 newtab-pocket-saved = Tallennettu
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Lisää tällaista
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Ei minulle
+newtab-toast-thumbs-up-or-down = Kiitos. Palautteesi auttaa meitä parantamaan syötettäsi.
+newtab-toast-dismiss-button =
+    .title = Hylkää
+    .aria-label = Hylkää
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Löydä verkon parhaat puolet

@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = M
 all-tabs-menu-close-duplicate-tabs =
     .label = Sulje välilehtien kaksoiskappaleet
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Sulje kaikki välilehtien kaksoiskappaleet
