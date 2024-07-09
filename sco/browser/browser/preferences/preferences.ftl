@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = Haud Forrit wi Tent
 pane-experimental-search-results-header = { -brand-short-name } Experiments: Haud Forrit wi Tent
 pane-experimental-description2 = Chyngin advanced confeeguration settins can effect { -brand-short-name } performance or siccarness.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restore Staunarts
     .accesskey = R
@@ -1052,6 +1055,9 @@ collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae 
     .accesskey = c
 collection-backlogged-crash-reports = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf
     .accesskey = c
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
