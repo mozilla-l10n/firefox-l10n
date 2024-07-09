@@ -4,13 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Pfala
 
@@ -25,18 +25,8 @@ close-button =
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -47,6 +37,7 @@ startup-header = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -60,10 +51,8 @@ advanced-fonts =
 ## General Section - Files and Applications
 
 download-header = Downloads
-
 download-save-where = Save files to
     .accesskey = v
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -75,13 +64,10 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Fayili { $extension }
-
 applications-select-helper = Hlawula Apulikhexini ya Mupfuni
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -93,19 +79,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -118,15 +99,12 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Secha
-
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Tirhisa xo secha xa othomethiki
     .accesskey = t
-
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
@@ -158,11 +136,8 @@ use-current-pages =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
@@ -173,22 +148,19 @@ use-current-pages =
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
@@ -205,14 +177,21 @@ use-current-pages =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -222,6 +201,10 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -235,7 +218,9 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -244,6 +229,9 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -259,6 +247,7 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
