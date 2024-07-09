@@ -60,6 +60,7 @@ pane-experimental-description2 = Changing advanced configuration settings can im
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Give our experimental features a try! They’re in development and evolving, which could impact how { -brand-short-name } works.
 pane-experimental-reset =
     .label = Restore Defaults
     .accesskey = R
@@ -1114,6 +1115,9 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 addressbar-locbar-showrecentsearches-option =
     .label = Show recent searches
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Show trending search suggestions
+    .accesskey = t
 addressbar-quickactions-learn-more = Learn more
 
 ## Privacy Section - Content Blocking
@@ -1307,6 +1311,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Website Advertising Preferences
+website-advertising-private-attribution =
+    .label = Allow websites to perform privacy-preserving ad measurement
+    .accesskey = a
+website-advertising-private-attribution-description = This helps sites understand how their ads perform without collecting data about you.
 
 ## Privacy Section - Security
 ##

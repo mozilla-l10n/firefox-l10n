@@ -234,6 +234,19 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is part of the { -b
 newtab-pocket-save = Save
 newtab-pocket-saved = Saved
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = More like this
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Not for me
+newtab-toast-thumbs-up-or-down = Thanks. Your feedback will help us improve your feed.
+newtab-toast-dismiss-button =
+    .title = Dismiss
+    .aria-label = Dismiss
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Discover the best of the web
@@ -294,10 +307,59 @@ newtab-wallpaper-dark-panda = Red panda hidden in forest
 newtab-wallpaper-dark-sky = City landscape with a night sky
 newtab-wallpaper-dark-mountain = Landscape mountain
 newtab-wallpaper-dark-city = Purple city landscape
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Solid colours
+newtab-wallpaper-blue = Blue
+newtab-wallpaper-light-blue = Light blue
+newtab-wallpaper-light-purple = Light purple
+newtab-wallpaper-light-green = Light green
+newtab-wallpaper-green = Green
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Yellow
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Pink
+newtab-wallpaper-light-pink = Light pink
+newtab-wallpaper-red = Red
+newtab-wallpaper-dark-blue = Dark blue
+newtab-wallpaper-dark-purple = Dark purple
+newtab-wallpaper-dark-green = Dark green
+newtab-wallpaper-brown = Brown
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstract
+newtab-wallpaper-abstract-green = Green shapes
+newtab-wallpaper-abstract-blue = Blue shapes
+newtab-wallpaper-abstract-purple = Purple shapes
+newtab-wallpaper-abstract-orange = Orange shapes
+newtab-wallpaper-gradient-orange = Gradient orange and pink
+newtab-wallpaper-abstract-blue-purple = Blue and purple shapes
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Photographs
+newtab-wallpaper-beach-at-sunrise = Beach at sunrise
+newtab-wallpaper-beach-at-sunset = Beach at sunset
+newtab-wallpaper-storm-sky = Storm sky
+newtab-wallpaper-sky-with-pink-clouds = Sky with pink clouds
+newtab-wallpaper-red-panda-yawns-in-a-tree = Red panda yawns in a tree
+newtab-wallpaper-white-mountains = White mountains
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo by <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Try a splash of colour
+newtab-wallpaper-feature-highlight-content = Give your New Tab a fresh look with wallpapers.
+newtab-wallpaper-feature-highlight-button = Got it
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Dismiss
+    .aria-label = Close popup
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
