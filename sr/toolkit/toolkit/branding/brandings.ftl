@@ -60,6 +60,7 @@
         [ins] Monitor-ом
         [loc] Monitor-у
     }
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name =
     { $case ->
        *[nom] Pocket
@@ -109,17 +110,17 @@
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox предлог
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Firefox почетна
-
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox преглед
-
--mozmonitor-brand-name = Mozilla Monitor
+# Firefox Labs is the name for a page in Settings to allow users to learn about
+# experimental and in-development features, and turn those features on and off.
+# The "Labs" portion can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxlabs-brand-name = Firefox Labs

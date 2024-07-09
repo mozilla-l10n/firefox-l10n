@@ -50,6 +50,9 @@ pane-experimental-description2 =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
@@ -1248,6 +1251,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
