@@ -53,6 +53,7 @@ about-processes-remote-sandbox-broker-process = Broker zdaleneho pěskoweho kaš
 about-processes-fork-server-process = Serwer Fork ({ $pid })
 about-processes-preallocated-process = Do toho připokazany ({ $pid })
 about-processes-utility-process = Pomocny program ({ $pid })
+about-processes-inference-process = Inferenca ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
