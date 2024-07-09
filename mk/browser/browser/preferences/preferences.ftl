@@ -23,6 +23,9 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Поддршка за { -brand-short-name }
 focus-search =
     .key = f
@@ -588,6 +591,9 @@ collection-health-report-telemetry-disabled-link = Дознајте повеќе
 collection-health-report-link = Дознај повеќе
 collection-studies-link = Погледнете ги студиите на { -brand-short-name }
 addon-recommendations-link = Дознајте повеќе
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
