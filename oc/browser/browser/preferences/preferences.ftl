@@ -55,6 +55,9 @@ category-experimental =
 pane-experimental-subtitle = Agissètz amb prudéncia
 pane-experimental-search-results-header = Experiéncias de { -brand-short-name } : siatz atentiu
 pane-experimental-description2 = Cambiar las configuracions avançadas pòt influenciar las performanças o la seguretat de { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restablir los paramètres per defaut
     .accesskey = R
@@ -1253,6 +1256,9 @@ privacy-segmentation-radio-off =
     .label = Utilizar las recomandacions { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar las informacions detalhadas
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
