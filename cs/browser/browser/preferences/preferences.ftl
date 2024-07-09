@@ -61,6 +61,9 @@ pane-experimental-description2 =
         [with-cases] Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name(case: "gen") }.
        *[no-cases] Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
     }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description3 =
     { -brand-short-name.case-status ->
         [with-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a vyvíjejí se, což může ovlivnit fungování { -brand-short-name(case: "gen") }.
