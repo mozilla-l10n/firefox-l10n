@@ -21,6 +21,9 @@ category-search =
 pane-privacy-title = Sa huìi 'ngà sa hua ran
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Sa nikaj ñu'ūnj { -brand-short-name }
 addons-button-label = Ekstensiûn ni Têma
 focus-search =
@@ -865,6 +868,9 @@ addon-recommendations-link = Gahuin chrūn doj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
