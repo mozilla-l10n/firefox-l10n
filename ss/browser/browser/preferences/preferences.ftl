@@ -5,13 +5,13 @@
 pane-general-title = Lokuvamile
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Vala
 
@@ -26,18 +26,8 @@ close-button =
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -46,23 +36,22 @@ close-button =
 
 tabs-group-header = Emathebhu
 
-
 ## Variables:
 ##   $tabCount (number) - Number of tabs
+
 
 ##
 
 
 ## General Section - Language & Appearance
 
+
 ## General Section - Files and Applications
 
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Lifayela { $extension }
-
 applications-select-helper = Khetsa kusetjentiswa kwekusita
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -74,19 +63,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -99,7 +83,6 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Tfunguluta
-
 browsing-use-smooth-scrolling =
     .label = Sebentisa kugicika lokushelelako
     .accesskey = s
@@ -117,12 +100,11 @@ browsing-use-smooth-scrolling =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
+
 ##
+
 
 ## Search Section
 
@@ -130,48 +112,51 @@ browsing-use-smooth-scrolling =
 ## Containers Section
 
 
-## Sync Section - Signed out
-
-
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-## Sync Section - Signed in
-
-
-## Firefox Account - Signed in
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+
 ##
+
 
 ## Sync section - enabling or disabling sync.
 
+
 ## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
+
 ## The device name controls.
+
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
 
 
-## Privacy Section - Forms
-
 ## Privacy Section - Logins and Passwords
+
+
+## Privacy Section - Passwords
 
 forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -181,6 +166,10 @@ history-header = Umlandvo
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -194,7 +183,9 @@ history-header = Umlandvo
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -203,6 +194,9 @@ history-header = Umlandvo
 
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -217,10 +211,11 @@ certs-header = Titifiketi
 
 ## Privacy Section - HTTPS-Only
 
+
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Busokhompyutha
 choose-download-folder-title = Khetsa ifolda yekulayisha:
-
