@@ -44,6 +44,9 @@ category-experimental =
 pane-experimental-subtitle = با هوشیاری پیش بروید
 pane-experimental-search-results-header = آزمایش‌های { -brand-short-name }: با احتیاط ادامه دهید
 pane-experimental-description2 = تغییر تنظیمات پیشرفته می‌تواند بر روی کارآیی و امنیت { -brand-short-name } تاثیر بگذارد.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -1079,6 +1082,9 @@ collection-backlogged-crash-reports-with-link = به { -brand-short-name } اج�
     .accesskey = ج
 collection-backlogged-crash-reports = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند
     .accesskey = ج
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
