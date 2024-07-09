@@ -56,6 +56,9 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
 pane-experimental-subtitle = Շարունակեք զգուշորեն
 pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր. զգուշությամբ շարունակեք
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = R
@@ -1179,6 +1182,9 @@ collection-backlogged-crash-reports = Թույլատրել { -brand-short-name }
     .accesskey = c
 privacy-segmentation-radio-on =
     .label = Ցուցադրել մանրամասն տեղեկություն
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
