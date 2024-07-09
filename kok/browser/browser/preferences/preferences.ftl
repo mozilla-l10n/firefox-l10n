@@ -5,14 +5,14 @@
 pane-general-title = सर्वसादारण
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = सोद
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = बंद
 
@@ -21,17 +21,6 @@ close-button =
 feature-enable-requires-restart = हे वैशिष्ट्य सक्रिय करपाक { -brand-short-name } न परत चालू जावपाक जाय.
 feature-disable-requires-restart = हे वैशिष्ट्य निष्क्रिय करपाक { -brand-short-name } न परत चालू जावपाक जाय.
 should-restart-title = { -brand-short-name } परतून सुरू करचें
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (String): name of the extension
-
 
 ## Extension Control Notifications
 ##
@@ -50,12 +39,9 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 ## General Section
 
 startup-header = सुरवेक
-
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
-
 tabs-group-header = टॅब्जा
-
 show-tabs-in-taskbar =
     .label = विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो
     .accesskey = र
@@ -72,21 +58,16 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = अद्ययावत...
     .accesskey = A
-
 choose-language-description = पानांचें प्रदर्शन करूंक तुमची आवडीची भास निवडची
-
 choose-button =
     .label = निवडचें...
     .accesskey = व
-
 translate-web-pages =
     .label = वेब आशय अणकारात
     .accesskey = अ
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = अणकार करपी <img data-l10n-name="logo"/>
-
 translate-exceptions =
     .label = अपवाद...
     .accesskey = व
@@ -94,10 +75,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = डाऊनलोड
-
 download-save-where = न धारिका जतन करात
     .accesskey = v
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -109,45 +88,36 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
-
 applications-type-column =
     .label = आशय प्रकार
     .accesskey = T
-
 applications-action-column =
     .label = कारवाय
     .accesskey = A
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = % फायली
 applications-action-save =
     .label = धारिका जतनाय करात
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } वापरचें
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } (डिफॉल्ट) वापरचें
-
 applications-use-other =
     .label = दुसरें वापरचें...
 applications-select-helper = मदत करपी अनुप्रयोग निवडात
-
 applications-manage-app =
     .label = ऍप्लिकेशनाचे तपशील...
 applications-always-ask =
     .label = सदांच विचारचें
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -159,19 +129,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -190,15 +155,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = ब्रावजिंग
-
 browsing-use-autoscroll =
     .label = आपसूक स्क्रॉलिंग वापरात
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = सरळ स्क्रॉलिंग वापरात
     .accesskey = m
-
 browsing-use-cursor-navigation =
     .label = पानामदी नेविगेट करपाक कर्सर कळ वापरात
     .accesskey = c
@@ -225,16 +187,11 @@ use-current-pages =
            *[other] सद्याची पानां वापरात
         }
     .accesskey = C
-
 choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
-
-
-## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
 ## Variables:
@@ -247,25 +204,19 @@ choose-bookmark =
 ## Search Section
 
 search-engine-default-header = मुळावे सोद इंजिन
-
 search-suggestions-option =
     .label = सोद सुचोवण्यो दियात
     .accesskey = स
-
-
 search-choose-engine-column =
     .label = सोद इंजिन
 search-choose-keyword-column =
     .label = कीवर्ड
-
 search-restore-default =
     .label = मुळावी सोद इंजिनां परत करात
     .accesskey = म
-
 search-remove-engine =
     .label = काडात
     .accesskey = R
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = किवर्डाची प्रत करात
@@ -277,15 +228,8 @@ search-keyword-warning-bookmark = तुमी किवर्ड निवड�
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
 
 
 ## Firefox account - Signed in
@@ -311,7 +255,6 @@ sync-signedin-login-failure = परत जुळपाक मात्शे �
 sync-engine-bookmarks =
     .label = बुकमार्क्स
     .accesskey = m
-
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
@@ -330,44 +273,42 @@ sync-verification-not-sent-title = दुजोरो धाडपाक शक�
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = अपवाद...
     .accesskey = व
-
 forms-master-pw-change =
     .label = प्रधान गुप्त शब्द बदलात...
     .accesskey = M
-
 forms-master-pw-fips-desc = गुप्तशब्द  बदलप असफळ
 
 ## OS Authentication dialog
 
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
-
 history-remember-option-all =
     .label = इतिहास उगडास धरचो
 history-remember-option-never =
     .label = इतिहास केन्नाच उगडास धरचो न्हय
 history-remember-option-custom =
     .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
-
 history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
-
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
     .accesskey = p
-
 history-remember-search-option =
     .label = सोद आनी फॉर्म इतिहास उगडास धरचो
     .accesskey = फ
-
 history-clear-on-close-option =
     .label = &brandShortName बंद जाता तेन्ना इतिहास पुसचो
     .accesskey = च
-
 history-clear-on-close-settings =
     .label = मांडावळी…
     .accesskey = ड
@@ -376,6 +317,9 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
@@ -408,12 +352,14 @@ addressbar-locbar-openpage-option =
 permissions-block-popups =
     .label = पॉप अप जनेलां आडयात
     .accesskey = B
-
 permissions-addon-exceptions =
     .label = अपवाद...
     .accesskey = E
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -425,7 +371,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्रां
-
 certs-enable-ocsp =
     .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात
     .accesskey = प
