@@ -29,6 +29,9 @@ pane-experimental-title = { -brand-short-name } تجربات
 category-experimental =
     .tooltiptext = { -brand-short-name } تجربات
 pane-experimental-subtitle = احتیاط سے آگے بڑھیں
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } تعاون
 addons-button-label = ایکسٹینشن اور تھیم
 focus-search =
@@ -893,6 +896,9 @@ collection-health-report-telemetry-disabled-link = مزید سیکھیں
 collection-health-report-link = مزید سیکھیں
 collection-studies-link = { -brand-short-name } کی مطالعات دیکھیں
 addon-recommendations-link = مزید سیکھیں
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
