@@ -59,6 +59,7 @@ about-processes-fork-server-process = Fork server ({ $pid })
 about-processes-preallocated-process = Preallocato ({ $pid })
 
 about-processes-utility-process = Utilità ({ $pid })
+about-processes-inference-process = Inferenza ({ $pid })
 
 about-processes-unknown-process = Altro: { $type } ({ $pid })
 
