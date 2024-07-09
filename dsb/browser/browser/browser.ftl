@@ -648,9 +648,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nejnowše pytanja
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Trendowy na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Trendowe pytanja njepokazaś
+    .accesskey = T
 urlbar-result-menu-trending-why =
     .label = Cogodla se to pokazujo?
     .accesskey = C
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Wjeliki źěk za waš komentar. Njebuźośo wěcej trendowe pytanja wiźeś.
 
 ## Reader View toolbar buttons
 
