@@ -308,6 +308,9 @@ loaded-lib-versions = גרסה שבשימוש
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-user-namespaces = מרחב שמות משתמש
 has-privileged-user-namespaces = מרחב שמות משתמש לתהליכים מורשים
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } - תכונה זו אינה מותרת על־ידי המערכת שלך. זה יכול להגביל את יכולות האבטחה של { -brand-short-name }.
 can-sandbox-content = ארגז חול לתהליכי תוכן
 can-sandbox-media = ארגז חול לתוספים חיצוניים עבור מדיה
 support-sandbox-gpu-level = רמת ארגז חול של תהליך GPU
