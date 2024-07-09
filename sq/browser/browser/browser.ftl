@@ -637,6 +637,12 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Kërkime Së Fundi
+urlbar-result-menu-trending-why =
+    .label = Pse më del kjo?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Faleminderit për përshtypjet. S’do të shihni më prirje kërkimi.
 
 ## Reader View toolbar buttons
 
@@ -985,6 +991,10 @@ firefox-relay-offer-legal-notice = Duke klikuar mbi “Përdor maskë email-i”
 popup-notification-addon-install-unsigned =
     .value = (E paverifikuar)
 popup-notification-xpinstall-prompt-learn-more = Mësoni më tepër rreth instalimit të shtesave në mënyrë të parrezik
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Xhiroje në Dritare Private
+    .accesskey = P
 
 ## Pop-up warning
 

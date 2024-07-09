@@ -1114,6 +1114,9 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga moto
 addressbar-locbar-showrecentsearches-option =
     .label = Shfaq kërkime së fundi
     .accesskey = k
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Shfaq sugjerime prirjesh kërkimi
+    .accesskey = k
 addressbar-quickactions-learn-more = Mësoni më tepër
 
 ## Privacy Section - Content Blocking
