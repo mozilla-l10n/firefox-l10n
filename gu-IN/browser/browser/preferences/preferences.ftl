@@ -20,6 +20,9 @@ category-search =
 pane-privacy-title = ગોપનીયતા & સુરક્ષા
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = { -brand-short-name } આધાર
 addons-button-label = એક્સ્ટેન્શન્સ અને થીમ્સ
 focus-search =
@@ -766,6 +769,9 @@ addon-recommendations-link = વધુ શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
