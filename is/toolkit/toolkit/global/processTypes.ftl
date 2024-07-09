@@ -41,6 +41,8 @@ process-type-gpu = GPU
 process-type-socket = Sökkull
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Ályktun
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Einangraðar IPC-aðgerðir
 process-type-utility-actor-audio-decoder-generic = Nytjatól fyrir almenna hljóðafkóðun
