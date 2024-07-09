@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = Procedere con cautela
 pane-experimental-search-results-header = Esperimenti di { -brand-short-name }: procedere con cautela
 pane-experimental-description2 = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description3 = Prova le nostre funzioni sperimentali. Sono in fase di sviluppo e in continua evoluzione, e questo potrebbe influire sul funzionamento di { -brand-short-name }.
 pane-experimental-reset =
     .label = Ripristina predefiniti
@@ -437,7 +440,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -1309,11 +1312,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Impostazioni per le pubblicità nei siti web
-
 website-advertising-private-attribution =
     .label = Permetti ai siti web di effettuare misurazioni pubblicitarie nel rispetto della privacy
     .accesskey = a
-
 website-advertising-private-attribution-description = Questo permette ai siti di valutare le prestazioni dei loro annunci senza raccogliere dati personali.
 
 ## Privacy Section - Security
