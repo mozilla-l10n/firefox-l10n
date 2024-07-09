@@ -57,6 +57,9 @@ category-experimental =
 pane-experimental-subtitle = احتیاط نال اڳو تے ودھو
 pane-experimental-search-results-header = { -brand-short-name } تجربات: احتیاط دے نال اڳو تے ودھو۔
 pane-experimental-description2 = اعلی درجے دی ترتیب دیاں ترتیباں کوں تبدیل کرݨ { -brand-short-name } دی کارکردگی یا سیکیورٹی کوں متاثر کر سڳدا ہے۔
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = ڈیفالٹس بحال کرو
     .accesskey = R
@@ -962,14 +965,6 @@ autofill-payment-methods-checkbox-submessage = کریڈٹ اَتے ڈیبٹ کا
     .accesskey = I
 autofill-saved-payment-methods-button = محفوظ تھئے ادائیگی طریقے
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے میک او ایس دی توثیق دی لوڑ ہِے۔
-        [windows] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے ونڈوز دی توثیق دی لوڑ ہِے۔
-        [linux] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے لائنیکس دی توثیق دی لوڑ ہِے۔
-       *[other] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے  توثیق دی لوڑ ہِے۔
-    }
-    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1296,6 +1291,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } دیاں سفارشاں استعمال کرو
 privacy-segmentation-radio-on =
     .label = تفصیلی معلومات ݙکھاؤ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
