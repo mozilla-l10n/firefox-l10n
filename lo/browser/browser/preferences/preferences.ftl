@@ -33,6 +33,9 @@ category-experimental =
 pane-experimental-subtitle = ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
 pane-experimental-search-results-header = { -brand-short-name } ການທົດລອງ: ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
 pane-experimental-description2 = ການປ່ຽນການຕັ້ງຄ່າຂັ້ນສູງສາມາດສົ່ງຜົນກະທົບຕໍ່ປະສິດທິພາບ ຫຼື ຄວາມປອດໄພຂອງ { -brand-short-name }.
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = ກູ້ຄືນສູ່ຄ່າເລີ່ມຕົ້ນ
     .accesskey = R
@@ -1080,6 +1083,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
