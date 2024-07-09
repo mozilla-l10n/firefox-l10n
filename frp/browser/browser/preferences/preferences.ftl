@@ -4,21 +4,19 @@
 
 do-not-track-option-always =
     .label = Tojòrn
-
 pane-general-title = G·ènèrâl
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-home-title = Reçua
 category-home =
     .tooltiptext = { pane-home-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Sarrar
 
@@ -34,18 +32,8 @@ cancel-no-restart-button = Anular
 ## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
 ##
 ## Variables:
-##   $name (String): name of the extension
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
 ##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -55,14 +43,13 @@ cancel-no-restart-button = Anular
 always-check-default =
     .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
     .accesskey = T
-
 browser-containers-settings =
     .label = Règllajos...
     .accesskey = R
 
-
 ## Variables:
 ##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -75,10 +62,8 @@ browser-containers-settings =
 download-always-ask-where =
     .label = Tojòrn demandar onte sarvar los fôlyos
     .accesskey = T
-
 applications-always-ask =
     .label = Tojòrn demandar
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -90,19 +75,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -131,15 +111,13 @@ home-homepage-custom-url =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 
 ##
 
-## Search Section
 
+## Search Section
 
 search-remove-engine =
     .label = Garar
@@ -150,23 +128,16 @@ search-remove-engine =
 containers-remove-button =
     .label = Garar
 
-## Sync Section - Signed out
-
-
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-## Sync Section - Signed in
-
-## Firefox Account - Signed in
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+
 ## Firefox account - Signed in
+
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+
 
 ##
 
@@ -176,9 +147,12 @@ sync-remove-account =
 
 ## Sync section - enabling or disabling sync.
 
+
 ## The list of things currently syncing.
 
+
 ## The "Choose what to sync" dialog.
+
 
 ## The device name controls.
 
@@ -189,15 +163,21 @@ sync-device-name-cancel =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
+
 ## Privacy Section
-
-
-## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
+
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -209,6 +189,10 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -222,7 +206,9 @@ history-clear-on-close-settings =
 
 ##
 
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 
 ## Privacy Section - Tracking
 
@@ -232,20 +218,20 @@ history-clear-on-close-settings =
 permissions-location-settings =
     .label = Règllajos
     .accesskey = R
-
 permissions-camera-settings =
     .label = Règllajos
     .accesskey = R
-
 permissions-microphone-settings =
     .label = Règllajos
     .accesskey = R
-
 permissions-notification-settings =
     .label = Règllajos
     .accesskey = R
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
@@ -259,7 +245,9 @@ permissions-notification-settings =
 
 ## Privacy Section - HTTPS-Only
 
+
 ## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
