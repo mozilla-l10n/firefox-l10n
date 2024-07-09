@@ -4,28 +4,17 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Aphna
 
 ## Browser Restart Dialog
-
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (String): name of the extension
 
 
 ## Extension Control Notifications
@@ -85,10 +74,6 @@ close-button =
 
 
 ## Variables:
-##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
-
-
-## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
 
@@ -97,22 +82,14 @@ close-button =
 
 ## Search Section
 
-
 search-choose-engine-column =
     .label = jxukatek ẽsesen pakwe'
 
 ## Containers Section
 
 
-## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox Account - Signed in
 
 
 ## Firefox account - Signed in
@@ -150,7 +127,13 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 ## Privacy Section - Logins and Passwords
 
 
+## Privacy Section - Passwords
+
+
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
@@ -160,6 +143,9 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
@@ -185,6 +171,9 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 
 
 ## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
 
 
 ## Privacy Section - Security
