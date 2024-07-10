@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = Agente de spatio isolate remote 
 about-processes-fork-server-process = Servitor de bifurcation ({ $pid })
 about-processes-preallocated-process = Pre-allocate ({ $pid })
 about-processes-utility-process = Utilitate ({ $pid })
+about-processes-inference-process = Inferentia ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
