@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = 暂时不要
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = { -brand-shorter-name } 有更新可用，由于 { -brand-shorter-name } 的另一副本还在运行，因此无法安装。您可以将其关闭以继续更新，或选择仍要更新（其他副本在重新启动之前可能无法正常工作）。
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = 好的
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = 通过应用程序菜单管理扩展和主
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允许此扩展在隐私窗口中运行
     .accesskey = A
-    
 appmenu-new-tab-controlled-changes =
     .label = 您的新标签页已变更。
     .buttonlabel = 保留变更
@@ -59,7 +57,7 @@ appmenu-homepage-controlled-changes =
     .secondarybuttonlabel = 管理主页
     .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
-    .label = 存取您隐藏的标签页
+    .label = 访问您隐藏的标签页
     .buttonlabel = 保持隐藏标签页
     .buttonaccesskey = K
     .secondarybuttonlabel = 禁用扩展
