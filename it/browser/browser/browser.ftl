@@ -1040,3 +1040,25 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Visualizza “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Impossibile aprire la finestra di selezione file di Windows. Non è stato selezionato alcun file o cartella.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Impossibile aprire la finestra di selezione file di Windows. Il file verrà salvato come { $path }.
+file-picker-failed-save-nowhere = Impossibile aprire la finestra di selezione file di Windows. Non è stata trovata una cartella predefinita e il file non verrà salvato.
+
+file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stato selezionato alcun file o cartella.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
+file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stata trovata una cartella predefinita e il file non verrà salvato.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Mostra nella cartella
+    .accessKey = M
