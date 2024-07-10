@@ -397,7 +397,7 @@ update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지하세요.
 # Variables:
 # $version (string) - Firefox version
-update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새 기능</a>
+update-application-version = { $version } 버전 <a data-l10n-name="learn-more">새 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
     .accesskey = p
