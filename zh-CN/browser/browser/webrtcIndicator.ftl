@@ -196,5 +196,5 @@ webrtc-remember-allow-checkbox-microphone = 为所有麦克风记住此设置
 webrtc-remember-allow-checkbox-camera-and-microphone = 为所有摄像头和麦克风记住此设置
 webrtc-mute-notifications-checkbox = 共享期间不显示网站通知
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 不能长效允许访问您的屏幕。
-webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许存取任意标签页的音频内容。
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许访问任意标签页的音频内容。
 webrtc-reason-for-no-permanent-allow-insecure = 您与此网站间的连接并不安全。为了保护您，{ -brand-short-name } 将只允许此次浏览期间的访问。
