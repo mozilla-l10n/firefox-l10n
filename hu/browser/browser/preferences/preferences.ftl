@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 addressbar-locbar-showrecentsearches-option =
     .label = Legutóbbi keresések megjelenítése
     .accesskey = L
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Felkapott keresési javaslatok megjelenítése
+    .accesskey = F
 addressbar-quickactions-learn-more = További tudnivalók
 
 ## Privacy Section - Content Blocking
