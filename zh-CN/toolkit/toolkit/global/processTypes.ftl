@@ -41,6 +41,8 @@ process-type-gpu = GPU
 process-type-socket = 套接字
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = 推理进程
 # process used to run some IPC actor in their own sandbox
 process-type-utility = 沙盒化 IPC 角色
 process-type-utility-actor-audio-decoder-generic = 实用工具“通用音频解码器”

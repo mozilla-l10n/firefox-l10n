@@ -327,6 +327,9 @@ has-seccomp-bpf = Seccomp-BPF（系统调用过滤）
 has-seccomp-tsync = Seccomp 线程同步
 has-user-namespaces = 用户命名空间
 has-privileged-user-namespaces = 用于特权进程的用户命名空间
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } - 您的系统不允许此功能，可能限制 { -brand-short-name } 的安全功能发挥作用。
 can-sandbox-content = 内容进程沙盒化
 can-sandbox-media = 媒体插件沙盒化
 content-sandbox-level = 内容进程沙盒级别
