@@ -41,6 +41,8 @@ process-type-gpu = GPU
 process-type-socket = Socket
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferencia
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Actor IPC en espacio aislado
 process-type-utility-actor-audio-decoder-generic = Utilidad de decodificador de audio genérico
