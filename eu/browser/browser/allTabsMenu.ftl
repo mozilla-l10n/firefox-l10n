@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Itxi bikoiztutako fitxak
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Itxi bikoiztutako fitxa guztiak

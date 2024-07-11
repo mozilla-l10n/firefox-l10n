@@ -231,6 +231,12 @@ newtab-pocket-pocket-firefox-family = { -brand-product-name }(r)en familiakoa da
 newtab-pocket-save = Gorde
 newtab-pocket-saved = Gordeta
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = Baztertu
+    .aria-label = Baztertu
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Aurkitu webeko onena
@@ -278,6 +284,32 @@ newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-light-mountain = Mendi zuria
 newtab-wallpaper-dark-aurora = Aurora boreala
+
+## Solid Colors
+
+newtab-wallpaper-blue = Urdina
+newtab-wallpaper-light-blue = Urdin argia
+newtab-wallpaper-light-purple = More argia
+newtab-wallpaper-light-green = Berde argia
+newtab-wallpaper-green = Berdea
+newtab-wallpaper-yellow = Horia
+newtab-wallpaper-orange = Laranja
+newtab-wallpaper-pink = Arrosa
+newtab-wallpaper-light-pink = Arrosa argia
+newtab-wallpaper-red = Gorria
+newtab-wallpaper-dark-blue = Urdin iluna
+newtab-wallpaper-dark-purple = More iluna
+newtab-wallpaper-dark-green = Berde iluna
+newtab-wallpaper-brown = Marroia
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstraktua
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Argazkiak
+newtab-wallpaper-feature-highlight-header = Probatu kolore ukitu bat
 
 ## New Tab Weather
 

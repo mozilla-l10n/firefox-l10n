@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] Fitxa { $tabCount } iritsi da
        *[other] { $tabCount } fitxa iritsi dira
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Ikusi itxitako azken fitxak
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { -brand-short-name }(e)ko fitxa bat itxita
+       *[other] { -brand-short-name }(e)ko { $closedCount } fitxa itxita
+    }
