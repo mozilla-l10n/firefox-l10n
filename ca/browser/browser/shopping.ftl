@@ -191,6 +191,9 @@ shopping-callout-closed-opted-in-subtitle = Podeu tornar al <strong>verificador 
 shopping-callout-pdp-opted-in-title = Són fiables aquestes ressenyes? Descobriu-ho ràpidament.
 shopping-callout-pdp-opted-in-subtitle = Obriu el verificador de ressenyes per veure una valoració ajustada un cop eliminades les ressenyes poc fiables. També veureu els aspectes més destacats basats en les ressenyes autèntiques més recents.
 shopping-callout-closed-not-opted-in-title = Ressenyes fiables amb un sol clic
+shopping-callout-closed-not-opted-in-subtitle = Proveu el verificador de ressenyes quan vegeu l’etiqueta de preu. Vegeu informació de compradors reals abans de comprar.
+shopping-callout-closed-not-opted-in-revised-title = Ressenyes fiables amb un sol clic
+shopping-callout-closed-not-opted-in-revised-subtitle = Feu clic a la icona d’etiqueta de preu a la barra d’adreces per tornar al verificador de ressenyes.
 shopping-callout-closed-not-opted-in-revised-button = Entesos
 shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
 shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
@@ -219,6 +222,8 @@ shopping-onboarding-dynamic-subtitle-1 = Vegeu com de fiables són les ressenyes
 # Variables:
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Vegeu com de fiables són les ressenyes de productes a <b>{ $currentSite }</b> abans de comprar. El verificador de ressenyes, una funció experimental del { -brand-product-name }, està integrada directament en el navegador.
+shopping-onboarding-body = Gràcies al { -fakespot-brand-full-name } de Mozilla, us ajudem a evitar ressenyes esbiaixades i no autèntiques. El nostre model d’IA sempre millora per a protegir-vos mentre compreu. <a data-l10n-name="learn_more">Més informació</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = En seleccionar «{ shopping-onboarding-opt-in-button }», accepteu la <a data-l10n-name="privacy_policy">política de privadesa</a> del { -brand-product-name } i les <a data-l10n-name="terms_of_use">condicions d’ús</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sí, prova-ho
 shopping-onboarding-not-now-button = Ara no
 shopping-onboarding-dialog-close-button =
