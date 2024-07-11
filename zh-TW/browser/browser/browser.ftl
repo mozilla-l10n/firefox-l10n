@@ -1046,3 +1046,6 @@ file-picker-failed-save-somewhere = 無法開啟 Windows 檔案對話框，檔�
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = 於資料夾顯示
+    .accessKey = F
