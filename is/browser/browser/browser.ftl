@@ -1041,6 +1041,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Ekki var hægt að opna Windows-skráagluggann. Ekki var hægt að velja neina skrá eða möppu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Ekki var hægt að opna Windows-skráagluggann. Skráin verður vistuð í { $path }.
+file-picker-failed-save-nowhere = Ekki var hægt að opna Windows-skráagluggann. Engin sjálfgefin mappa fannst; skráin verður ekki vistuð.
+file-picker-crashed-open = Windows-skráaglugginn hefur hrunið. Ekki var hægt að velja neina skrá eða möppu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows-skráaglugginn hefur hrunið. Skráin verður vistuð í { $path }.
+file-picker-crashed-save-nowhere = Windows-skráaglugginn hefur hrunið. Engin sjálfgefin mappa fannst; skráin verður ekki vistuð.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
