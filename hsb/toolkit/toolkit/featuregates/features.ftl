@@ -50,3 +50,5 @@ experimental-features-group-browsing =
     .label = Přehladowanje
 experimental-features-group-developer-tools =
     .label = Wuwiwarske nastroje
+experimental-features-group-webpage-display =
+    .label = Pokazanje webstrony
