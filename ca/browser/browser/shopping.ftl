@@ -190,6 +190,7 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = Podeu tornar al <strong>verificador de ressenyes</strong> quan vegeu l'etiqueta de preu.
 shopping-callout-pdp-opted-in-title = Són fiables aquestes ressenyes? Descobriu-ho ràpidament.
 shopping-callout-pdp-opted-in-subtitle = Obriu el verificador de ressenyes per veure una valoració ajustada un cop eliminades les ressenyes poc fiables. També veureu els aspectes més destacats basats en les ressenyes autèntiques més recents.
+shopping-callout-closed-not-opted-in-title = Ressenyes fiables amb un sol clic
 shopping-callout-closed-not-opted-in-revised-button = Entesos
 shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
 shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
