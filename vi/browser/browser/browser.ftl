@@ -1027,3 +1027,24 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Hiển thị '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Không thể mở hộp thoại tập tin Windows. Không thể chọn tập tin hoặc thư mục.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Không thể mở hộp thoại tập tin Windows. Tập tin sẽ được lưu vào { $path }.
+file-picker-failed-save-nowhere = Không thể mở hộp thoại tập tin Windows. Không tìm thấy thư mục mặc định; tập tin sẽ không được lưu.
+file-picker-crashed-open = Không thể mở hộp thoại tập tin Windows. Không thể chọn tập tin hoặc thư mục.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Hộp thoại tập tin Windows đã bị lỗi. Tập tin sẽ được lưu vào { $path }.
+file-picker-crashed-save-nowhere = Hộp thoại tập tin Windows đã bị lỗi. Không tìm thấy thư mục mặc định; tập tin sẽ không được lưu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Hiển thị trong thư mục
+    .accessKey = F
