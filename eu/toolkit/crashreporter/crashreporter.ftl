@@ -2,9 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Hutsegiteen berriemailea
-crashreporter-crash-message = { -brand-short-name }(e)k arazo bat izan du eta huts egin du.
+crashreporter-branded-title = { -brand-short-name } hutsegite-berriemailea
+crashreporter-apology = Sentitzen dugu
 crashreporter-plea = Arazo hau aztertu eta konpontzen laguntzeko, hutsegitearen txostena bidal diezagukezu.
+crashreporter-information = Aplikazio hau hutsegite baten ondoren exekutatzen da { -vendor-short-name }(r)i arazoaren berri emateko. Ez litzateke zuzenean exekutatu behar.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Xehetasunak: { $details }
 crashreporter-no-run-message = Aplikazio hau hutsegite baten ondoren exekutatzen da aplikazioaren egileari hutsegitearen berri emateko. Ez litzateke zuzenean exekutatu behar.
