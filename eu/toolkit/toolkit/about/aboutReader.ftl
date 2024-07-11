@@ -103,3 +103,7 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Lerroartea
 about-reader-advanced-layout-header = Aurreratua
+about-reader-character-spacing-label =
+    .label = Karaktere arteko tartea
+about-reader-word-spacing-label =
+    .label = Hitzen arteko tartea

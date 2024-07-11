@@ -4,6 +4,7 @@
 
 crashreporter-branded-title = { -brand-short-name } hutsegite-berriemailea
 crashreporter-apology = Sentitzen dugu
+crashreporter-crashed-and-restore = { -brand-short-name }(e)k arazo bat izan du eta huts egin du. Berrabiaraztean, zure fitxa eta leihoak berreskuratzen saiatuko gara.
 crashreporter-plea = Arazo hau aztertu eta konpontzen laguntzeko, hutsegitearen txostena bidal diezagukezu.
 crashreporter-information = Aplikazio hau hutsegite baten ondoren exekutatzen da { -vendor-short-name }(r)i arazoaren berri emateko. Ez litzateke zuzenean exekutatu behar.
 crashreporter-error = { -brand-short-name }(e)k arazo bat izan du eta huts egin du. Tamalez, hutsegiteen berriemailea ez da gai hutsegite honen txostena bidaltzeko.
@@ -44,3 +45,4 @@ crashreporter-error-no-home-dir = Etxe direktorioa falta da
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Huts egin du { $from } bidetik { $to } bidera lekuz aldatzean
+crashreporter-error-version-eol = Bertsioaren balio-bizitza amaituta: ez da hutsegite-txosten gehiago onartzen.

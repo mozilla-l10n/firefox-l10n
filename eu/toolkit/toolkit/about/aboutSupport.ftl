@@ -412,6 +412,18 @@ support-printing-modified-settings = Aldatutako inprimatze-ezarpenak
 support-printing-prefs-name = Izena
 support-printing-prefs-value = Balioa
 
+## Remote Settings sections
+
+support-remote-settings-status = Egoera
+support-remote-settings-status-ok = Ados
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ez dabil
+support-remote-settings-last-check = Azken egiaztapena
+support-remote-settings-sync-history = Historia
+support-remote-settings-sync-history-status = Egoera
+support-remote-settings-sync-history-datetime = Data
+support-remote-settings-sync-history-infos = Informazioa
+
 ## Normandy sections
 
 support-remote-experiments-title = Urruneko esperimentuak

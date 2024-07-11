@@ -6,10 +6,6 @@ contentanalysis-alert-title = Edukiaren analisia
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Edukiaren analisi-tresna denbora luze ari da hartzen "{ $content }" baliabideari erantzuteko
-contentanalysis-slow-agent-dialog-title = Edukiaren analisia lanean ari da
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Edukiaren analisia "{ $content }" baliabidea ari da analizatzen
 contentanalysis-slow-agent-dialog-header = Eskaneatzen ari da
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -40,9 +36,9 @@ contentanalysis-genericresponse-message = Edukiaren analisiak { $response } eran
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Zure erakundeak datuen galera eragozteko softwarea darabil eta eduki hau blokeatu egin du: { $content }.
-# Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Errorea gertatu da datu-galerak eragozteko softwarearekin komunikatzean. Transferentzia ukatu egin da ondorengo baliabiderako: { $content }.
+contentanalysis-error-message-dropped-text = Arrastatu eta jaregitea ukatuta.
+contentanalysis-error-message-clipboard = Itsastea ukatuta.
+contentanalysis-error-message-print = Inprimatzea ukatuta.
 contentanalysis-inprogress-quit-title = Irten { -brand-shorter-name }(e)tik?
 contentanalysis-inprogress-quit-message = Hainbat ekintza lanean ari dira. { -brand-shorter-name }(e)tik irtenez gero, ekintza hauek ez dira burutuko.
 contentanalysis-inprogress-quit-yesbutton = Bai, irten
