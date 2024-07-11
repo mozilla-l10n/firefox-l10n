@@ -651,7 +651,7 @@ urlbar-result-menu-trending-dont-show =
     .accesskey = D
 urlbar-result-menu-trending-why =
     .label = ¿Por qué estoy viendo esto?
-    .accesskey = W
+    .accesskey = q
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Gracias por tu opinión. Ya no verás las búsquedas más populares.
@@ -1039,6 +1039,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = El diálogo de archivo de Windows no se pudo abrir. No se pudo seleccionar ningún archivo o carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = El diálogo de archivo de Windows no se pudo abrir. El archivo se guardará en { $path }.
+file-picker-failed-save-nowhere = El diálogo de archivo de Windows no se pudo abrir. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+file-picker-crashed-open = El diálogo de archivo de Windows se colgó. No se pudo seleccionar ningún archivo o carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = El diálogo de archivo de Windows se colgó. El archivo se guardará en { $path }.
+file-picker-crashed-save-nowhere = El diálogo de archivo de Windows se colgó. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
