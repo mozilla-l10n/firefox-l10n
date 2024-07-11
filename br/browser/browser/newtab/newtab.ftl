@@ -228,6 +228,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus 
 newtab-pocket-save = Enrollañ
 newtab-pocket-saved = Enrollet
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Dizoleiñ ar pep gwellañ eus ar web
@@ -282,6 +285,30 @@ newtab-wallpaper-dark-aurora = Tarzh-gouloù
 newtab-wallpaper-dark-color = Furmoù ruz ha glas
 newtab-wallpaper-dark-panda = Panda ruz kuzhet er c’hoad
 newtab-wallpaper-dark-mountain = Menezioù
+
+## Solid Colors
+
+newtab-wallpaper-blue = Glas
+newtab-wallpaper-light-blue = Glas sklaer
+newtab-wallpaper-light-purple = Limestra sklaer
+newtab-wallpaper-green = Gwer
+newtab-wallpaper-yellow = Melen
+newtab-wallpaper-orange = Orañjez
+newtab-wallpaper-pink = Roz
+newtab-wallpaper-light-pink = Roz sklaer
+newtab-wallpaper-red = Ruz
+newtab-wallpaper-dark-blue = Glas teñval
+newtab-wallpaper-dark-purple = Limestra teñval
+newtab-wallpaper-dark-green = Gwer teñval
+
+## Abstract
+
+newtab-wallpaper-abstract-orange = Furmoù orañjez
+newtab-wallpaper-abstract-blue-purple = Furmoù limestra hag orañjez
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotoioù
 
 ## New Tab Weather
 
