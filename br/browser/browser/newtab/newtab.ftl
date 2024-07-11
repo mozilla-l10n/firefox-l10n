@@ -309,6 +309,20 @@ newtab-wallpaper-abstract-blue-purple = Furmoù limestra hag orañjez
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotoioù
+newtab-wallpaper-beach-at-sunrise = Traezhenn e-pad ar sav-heol
+newtab-wallpaper-beach-at-sunset = Traezhenn e-pad ar c’huzh-heol
+newtab-wallpaper-storm-sky = Oabl arnevek
+newtab-wallpaper-sky-with-pink-clouds = Oabl gant koumoul roz
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ruz o vazailhat en ur wezenn
+newtab-wallpaper-white-mountains = Menezioù gwenn
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto gant <a data-l10n-name="name-link">{ $author_string }</a> war <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-button = Komprenet am eus
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
@@ -316,6 +330,7 @@ newtab-wallpaper-category-title-photographs = Fotoioù
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Paeroniet
 newtab-weather-menu-change-location = Cheñch al lec’hiadur
+newtab-weather-change-location-search-input = Klask ul lec’h
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
