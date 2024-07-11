@@ -91,10 +91,21 @@ shopping-settings-label =
     .label = Paràmetres
 shopping-settings-recommendations-toggle =
     .label = Mostra anuncis al verificador de ressenyes
+shopping-settings-recommendations-learn-more2 = De tant en tant, veureu anuncis de productes rellevants. Només s'anunciaran productes amb ressenyes fiables. <a data-l10n-name="review-quality-url">Més informació</a>
 shopping-settings-opt-out-button = Desactiva el verificador de ressenyes
 powered-by-fakespot = El verificador de ressenyes funciona amb tecnologia de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Obre automàticament el verificador de ressenyes
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Quan vegeu productes a { $firstSite }, { $secondSite } i { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Quan vegeu productes a { $currentSite }
 shopping-settings-sidebar-enabled-state = El verificador de ressenyes està <strong>activat</strong>
 
 ## Strings for the adjusted rating component
@@ -177,6 +188,7 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-closed-opted-in-subtitle = Podeu tornar al <strong>verificador de ressenyes</strong> quan vegeu l'etiqueta de preu.
+shopping-callout-pdp-opted-in-title = Són fiables aquestes ressenyes? Descobriu-ho ràpidament.
 shopping-callout-closed-not-opted-in-revised-button = Entesos
 shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
 shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
