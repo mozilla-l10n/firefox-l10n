@@ -1046,3 +1046,24 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Показать «{ $popupURI }»
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Не удалось открыть диалоговое окно «Файл» Windows. Не удалось выбрать ни один файл или папку.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Не удалось открыть диалоговое окно «Файл» Windows. Файл будет сохранён в { $path }.
+file-picker-failed-save-nowhere = Не удалось открыть диалоговое окно «Файл» Windows. Папка по умолчанию не найдена; файл не будет сохранён.
+file-picker-crashed-open = Произошло падение диалогового окна «Файл» Windows. Не удалось выбрать ни один файл или папку.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Произошло падение диалогового окна «Файл» Windows. Файл будет сохранён в { $path }.
+file-picker-crashed-save-nowhere = Произошло падение диалогового окна «Файл» Windows. Папка по умолчанию не найдена; файл не будет сохранён.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Показать в папке
+    .accessKey = А
