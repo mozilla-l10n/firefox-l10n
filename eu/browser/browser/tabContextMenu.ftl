@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Itxi hainbat fitxa
     .accesskey = h
+tab-context-close-duplicate-tabs =
+    .label = Itxi bikoiztutako fitxak
+    .accesskey = b
 tab-context-share-url =
     .label = Partekatu
     .accesskey = a
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

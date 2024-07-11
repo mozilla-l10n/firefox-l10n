@@ -163,7 +163,10 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Itzuli <strong>balorazioen egiaztatzaile</strong>ra prezioen ikonoa ikusten duzun aldiro.
 shopping-callout-pdp-opted-in-title = Balorazio hauek fidatzekoak dira? Ikusi di-da batean.
+shopping-callout-closed-not-opted-in-revised-button = Ulertuta
+shopping-callout-not-opted-in-reminder-open-button = Ireki balorazioen egiaztatzailea
 shopping-callout-not-opted-in-reminder-close-button = Baztertu
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ez erakutsi berriro
 shopping-callout-disabled-auto-open-button = Ulertuta
 shopping-callout-opted-out-button = Ulertuta
 

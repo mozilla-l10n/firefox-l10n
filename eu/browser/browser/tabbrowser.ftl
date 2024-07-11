@@ -111,6 +111,11 @@ tabbrowser-confirm-caretbrowsing-title = Kurtsore bidezko nabigazioa
 tabbrowser-confirm-caretbrowsing-message = F7 zapaltzeak kurtsore bidezko nabigazioa gaitzen edo desgaitzen du. Eginbide honek web orrietan kurtsore bat ezartzen du testua teklatuarekin aukeratzea baimenduz. Kurtsore bidezko nabigazioa gaitu nahi duzu?
 tabbrowser-confirm-caretbrowsing-checkbox = Ez erakutsi berriro elkarrizketa-koadro hau.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-title = Bikoiztutako fitxak itxi?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Itxi fitxak
+
 ##
 
 # Variables:

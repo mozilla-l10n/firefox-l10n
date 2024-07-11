@@ -126,21 +126,17 @@ translations-manage-description = Deskargatu hizkuntzak lineaz kanpoko itzulpene
 translations-manage-all-language = Hizkuntza guztiak
 translations-manage-download-button = Deskargatu
 translations-manage-delete-button = Ezabatu
-translations-manage-intro = Ezarri zure hizkuntza eta guneen itzulpenerako hobespenak eta kudeatu lineaz kanpoko itzulpenerako instalatuta dauden hizkuntzak.
-translations-manage-install-description = Instalatu hizkuntzak lineaz kanpoko itzulpenerako
-translations-manage-language-install-button =
-    .label = Instalatu
-translations-manage-language-install-all-button =
-    .label = Instalatu denak
-    .accesskey = d
+translations-manage-download-description = Deskargatu hizkuntzak lineaz kanpoko itzulpenerako
 translations-manage-language-download-button =
     .label = Deskargatu
+translations-manage-language-download-all-button =
+    .label = Deskargatu denak
+    .accesskey = D
 translations-manage-language-remove-button =
     .label = Kendu
 translations-manage-language-remove-all-button =
     .label = Kendu denak
     .accesskey = d
-translations-manage-error-install = Arazo bat gertatu da hizkuntza-fitxategiak instalatzean. Saiatu berriro mesedez.
 translations-manage-error-download = Arazo bat gertatu da hizkuntza-fitxategiak deskargatzean. Saiatu berriro mesedez.
 translations-manage-error-delete = Arazo bat gertatu da hizkuntza-fitxategiak ezabatzean. Saiatu berriro mesedez.
 translations-manage-error-remove = Errore bat gertatu da hizkuntza-fitxategiak kentzean. Saiatu berriro mesedez.
@@ -172,6 +168,24 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Itxi
     .buttonaccesskeyaccept = x
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Itzuli hautapena…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Itzuli hautapena { $language } hizkuntzara
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Itzuli loturaren testua…
+    .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Itzulpena
 select-translations-panel-cancel-button =
@@ -188,6 +202,8 @@ select-translations-panel-translate-button =
     .label = Itzuli
 select-translations-panel-try-again-button =
     .label = Saiatu berriro
+select-translations-panel-init-failure-message =
+    .message = Ezin dira hizkuntzak kargatu. Egiaztatu zure Interneterako konexioa eta saiatu berriro.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Arazo bat gertatu da itzultzean. Saiatu berriro mesedez.
@@ -201,3 +217,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sentitzen dugu, oraindik ez dugu hizkuntza hau onartzen.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Itzulpenen ezarpenak
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Itzulpena burututa
