@@ -101,7 +101,7 @@ detail-show-preferences =
            *[other] Canvia les preferències del complement
         }
 detail-rating =
-    .value = Puntuació
+    .value = Valoració
 addon-restart-now =
     .label = Reinicia ara
 disabled-unsigned-heading =

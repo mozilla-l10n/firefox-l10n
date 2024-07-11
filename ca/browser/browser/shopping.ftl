@@ -128,7 +128,7 @@ shopping-analysis-explainer-label =
     .label = Com es determina la qualitat de la ressenya
 shopping-analysis-explainer-intro2 = Usem tecnologia d'IA de { -fakespot-brand-full-name } per a comprovar la fiabilitat de les ressenyes de productes. Això només us ajudarà a avaluar la qualitat de la ressenya, no la qualitat del producte.
 shopping-analysis-explainer-grades-intro = Assignem a les ressenyes de cada producte una <strong>puntuació alfabètica</strong> de la A a la F.
-shopping-analysis-explainer-adjusted-rating-description = La <strong>puntuació ajustada</strong> només es basa en les ressenyes que creiem fiables.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>valoració ajustada</strong> només es basa en les ressenyes que creiem fiables.
 shopping-analysis-explainer-learn-more2 = Més informació sobre <a data-l10n-name="review-quality-url">com { -fakespot-brand-name } determina la qualitat de les ressenyes</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -189,6 +189,7 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Podeu tornar al <strong>verificador de ressenyes</strong> quan vegeu l'etiqueta de preu.
 shopping-callout-pdp-opted-in-title = Són fiables aquestes ressenyes? Descobriu-ho ràpidament.
+shopping-callout-pdp-opted-in-subtitle = Obriu el verificador de ressenyes per veure una valoració ajustada un cop eliminades les ressenyes poc fiables. També veureu els aspectes més destacats basats en les ressenyes autèntiques més recents.
 shopping-callout-closed-not-opted-in-revised-button = Entesos
 shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
 shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
