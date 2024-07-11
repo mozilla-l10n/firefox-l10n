@@ -362,6 +362,13 @@ has-seccomp-bpf = Seccomp-BPF (filtrování systémových volání)
 has-seccomp-tsync = Synchronizace vláken Seccomp
 has-user-namespaces = Uživatelské jmenné prostory
 has-privileged-user-namespaces = Uživatelské jmenné prostory pro privilegované procesy
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable =
+    { -brand-short-name.case-status ->
+        [with-cases] { $status } — Tato funkce není v systému povolena. To může omezit bezpečnostní funkce { -brand-short-name(case: "gen") }.
+       *[no-cases] { $status } — Tato funkce není v systému povolena. To může omezit bezpečnostní funkce aplikace { -brand-short-name }.
+    }
 can-sandbox-content = Sandbox procesů pro obsah
 can-sandbox-media = Sandbox zásuvných modulů médií
 content-sandbox-level = Úroveň sandboxu procesů pro obsah
