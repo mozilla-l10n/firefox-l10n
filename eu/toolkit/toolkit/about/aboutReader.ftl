@@ -4,7 +4,6 @@
 
 about-reader-loading = Kargatzen...
 about-reader-load-error = Huts egin du artikulua orritik kargatzean
-
 about-reader-color-scheme-light = Argia
     .title = Kolore-eskema argia
 about-reader-color-scheme-dark = Iluna
@@ -13,7 +12,18 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kolore-eskema sepia
 about-reader-color-scheme-auto = Automatikoa
     .title = Kolore-eskema automatikoa
-
+about-reader-color-light-theme = Argia
+    .title = Itxura argia
+about-reader-color-dark-theme = Iluna
+    .title = Itxura iluna
+about-reader-color-sepia-theme = Sepia
+    .title = Sepia itxura
+about-reader-color-auto-theme = Automatikoa
+    .title = Itxura automatikoa
+about-reader-color-gray-theme = Grisa
+    .title = Itxura grisa
+about-reader-color-contrast-theme = Kontrastea
+    .title = Kontrastedun itxura
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -44,9 +54,52 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Tarte bakarrekoa
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Itxi irakurtzeko ikuspegia
 about-reader-toolbar-type-controls = Tipografia-kontrolak
+about-reader-toolbar-text-layout-controls = Testua eta diseinua
+about-reader-toolbar-theme-controls = Itxura
 about-reader-toolbar-savetopocket = Gorde hemen: { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Itxura
+about-reader-fxtheme-tab = Lehenetsia
+about-reader-customtheme-tab = Pertsonalizatua
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Testua
+    .title = Editatu kolorea
+about-reader-custom-colors-background = Atzeko planoa
+    .title = Editatu kolorea
+about-reader-custom-colors-unvisited-links = Bisitatu gabeko loturak
+    .title = Editatu kolorea
+about-reader-custom-colors-visited-links = Bisitatutako loturak
+    .title = Editatu kolorea
+about-reader-custom-colors-selection-highlight = Ozen irakurtzeko nabarmengailua
+    .title = Editatu kolorea
+about-reader-reset-button = Berrezarri lehenespenak
+
+## Reader View improved text and layout menu
+
+about-reader-text-header = Testua
+about-reader-text-size-label = Testuaren tamaina
+about-reader-font-type-selector-label = Letra-tipoa
+about-reader-font-weight-selector-label = Letraren pisua
+about-reader-font-weight-light = Argia
+about-reader-font-weight-regular = Arrunta
+about-reader-font-weight-bold = Lodia
+about-reader-layout-header = Diseinua
+about-reader-slider-label-spacing-standard = Oinarrizkoa
+about-reader-slider-label-spacing-wide = Zabala
+about-reader-content-width-label =
+    .label = Edukiaren zabalera
+about-reader-line-spacing-label =
+    .label = Lerroartea
+about-reader-advanced-layout-header = Aurreratua
