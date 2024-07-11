@@ -50,3 +50,5 @@ experimental-features-group-browsing =
     .label = Navigeren
 experimental-features-group-developer-tools =
     .label = Ontwikkelaarshulpmiddelen
+experimental-features-group-webpage-display =
+    .label = Websiteweergave
