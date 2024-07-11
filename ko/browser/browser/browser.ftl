@@ -1027,3 +1027,20 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = 표시: “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Windows 파일 대화 상자를 열 수 없습니다. 파일이나 폴더를 선택할 수 없습니다.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows 파일 대화 상자를 열 수 없습니다. 파일은 { $path }에 저장됩니다.
+file-picker-failed-save-nowhere = Windows 파일 대화 상자를 열 수 없습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
+file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. 파일이나 폴더를 선택할 수 없습니다.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
