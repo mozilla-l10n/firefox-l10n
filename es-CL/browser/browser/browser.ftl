@@ -1056,3 +1056,6 @@ file-picker-crashed-save-nowhere = El diálogo de archivo de Windows ha fallado.
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Mostrar en carpeta
+    .accessKey = F
