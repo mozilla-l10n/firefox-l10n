@@ -1039,6 +1039,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = 無法開啟 Windows 檔案對話框，無法選擇任何檔案或資料夾。
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = 無法開啟 Windows 檔案對話框，檔案將儲存至 { $path }。
+file-picker-failed-save-nowhere = 無法開啟 Windows 檔案對話框，找不到預設資料夾，無法儲存檔案。
+file-picker-crashed-open = Windows 檔案對話框發生錯誤，無法選擇任何檔案或資料夾。
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows 檔案對話框發生錯誤，檔案將儲存至 { $path }。
+file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不到預設資料夾，無法儲存檔案。
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
