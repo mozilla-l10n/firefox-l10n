@@ -1044,6 +1044,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = It Windows-bestânsdialoochfinster koe net iepene wurde. Der is gjin bestân of map selektearre.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = It Windows-bestânsdialoochfinster koe net iepene wurde. It bestân wurdt bewarre yn { $path }.
+file-picker-failed-save-nowhere = It Windows-bestânsdialoochfinster koe net iepene wurde. Der is gjin standertmap fûn; it bestân sil net bewarre wurde.
+file-picker-crashed-open = It Windows-bestânsdialoochfinster is ferûngelokke. Der is gjin bestân of map selektearre.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = It Windows-bestânsdialoochfinster is ferûngelokke. It bestân wurdt bewarre yn { $path }.
+file-picker-crashed-save-nowhere = It Windows-bestânsdialoochfinster is ferûngelokke. Der is gjin standertmap fûn; it bestân sil net bewarre wurde.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1051,3 +1056,6 @@ file-picker-failed-save-somewhere = It Windows-bestânsdialoochfinster koe net i
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Yn map toane
+    .accessKey = m
