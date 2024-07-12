@@ -120,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = میکوں ایہ ڈائیلاگ ب�
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = دھیان ݙیوو
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ٹیباں بند کرو
 
 ##
 
