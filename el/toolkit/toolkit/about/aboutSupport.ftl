@@ -347,6 +347,9 @@ has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστή�
 has-seccomp-tsync = Συγχρονισμός νήματος Seccomp
 has-user-namespaces = Χώροι ονομάτων χρήστη
 has-privileged-user-namespaces = Χώροι ονομάτων χρήστη για προνομιακές διεργασίες
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Αυτή η λειτουργία δεν επιτρέπεται από το σύστημά σας. Αυτό μπορεί να περιορίσει τις λειτουργίες ασφαλείας του { -brand-short-name }.
 can-sandbox-content = Sandboxing διεργασίας περιεχομένου
 can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
 content-sandbox-level = Επίπεδο sandbox διεργασίας περιεχομένου
