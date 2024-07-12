@@ -11,7 +11,7 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = أعد التشغيل لتحديث { -brand-shorter-name }
     .accesskey = د
-update-checkingForUpdates = يلتمس التحديثات…
+update-checkingForUpdates = جاري مراجعة التحديثات…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.

@@ -65,6 +65,17 @@ login-list-filtered-count =
         [many] { $count } من أصل { $total } جلسات الولوج
        *[other] { $count } من أصل { $total } جلسات الولوج
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [zero] ولا كلمة مرور
+        [one] كلمة مرور واحدة
+        [two] كلمتا مرور
+        [few] { $count } كلمات مرور
+        [many] { $count } كلمة مرور
+       *[other] { $count } كلمة مرور
+    }
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
 login-list-name-reverse-option = الاسم (ي-ا)
@@ -99,6 +110,7 @@ about-logins-login-intro-heading-logged-out2 = أتبحث عن جلسات ولو
 about-logins-login-intro-heading-logged-in = لم نجد أيّ جلسة ولوج متزامنة.
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
 login-intro-instructions-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
+about-logins-login-intro-heading-message = احفظ كلمات مرورك في مكان آمن
 login-intro-instructions-fxa2 = أنشئ أو لج إلى حسابك على الأجهزة التي لديك عليها جلسات ولوج محفوظة.
 login-intro-instructions-fxa-settings = انتقل إلى ”الإعدادات > المزامنة > فعّل المزامنة…“ وضَع علامة على ”جلسات الولوج وكلمات السر“.
 login-intro-instructions-fxa-passwords-help = زُر <a data-l10n-name="passwords-help-link">دعم كلمات السر</a> لمزيد من المساعدة.
