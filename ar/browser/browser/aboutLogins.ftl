@@ -139,6 +139,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = انسخ
 login-item-copied-password-button-text = نُسخ.
 login-item-save-changes-button = احفظ التغييرات
+about-logins-login-item-save-changes-button = احفظ
 login-item-save-new-button = احفظ
 login-item-cancel-button = ألغِ
 
@@ -166,6 +167,9 @@ about-logins-edit-login-os-auth-dialog-message-win = أدخِل معلومات �
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = تحرير جلسة الولوج المحفوظة
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = تحرير كلمة المرور المحفوظة
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتعرض كلمة السر. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to reveal a password in about:logins
