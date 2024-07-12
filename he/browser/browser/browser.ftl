@@ -1047,6 +1047,9 @@ file-picker-failed-open = לא ניתן היה לפתוח את דו־שיח הק
 file-picker-failed-save-somewhere = לא ניתן היה לפתוח את דו־שיח הקבצים של Windows. הקובץ יישמר ב־{ $path }.
 file-picker-failed-save-nowhere = לא ניתן היה לפתוח את דו־שיח הקבצים של Windows. לא נמצאה תיקיית ברירת מחדל; הקובץ לא יישמר.
 file-picker-crashed-open = דו־שיח הקבצים של Windows קרס. לא ניתן לבחור קובץ או תיקייה.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = דו־שיח הקבצים של Windows קרס. הקובץ יישמר ב־{ $path }.
+file-picker-crashed-save-nowhere = דו־שיח הקבצים של Windows קרס. לא נמצאה תיקיית ברירת מחדל; הקובץ לא יישמר.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1054,3 +1057,6 @@ file-picker-crashed-open = דו־שיח הקבצים של Windows קרס. לא �
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = הצגה בתיקייה
+    .accessKey = ת
