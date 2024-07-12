@@ -1038,6 +1038,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Δεν ήταν δυνατό το άνοιγμα του παραθύρου διαλόγου αρχείων των Windows. Δεν ήταν δυνατή η επιλογή αρχείου ή φακέλου.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Δεν ήταν δυνατό το άνοιγμα του παραθύρου διαλόγου αρχείων των Windows. Το αρχείο θα αποθηκευτεί στο { $path }.
+file-picker-failed-save-nowhere = Δεν ήταν δυνατό το άνοιγμα του παραθύρου διαλόγου αρχείων των Windows. Δεν ήταν δυνατή η εύρεση προεπιλεγμένου φακέλου· το αρχείο δεν θα αποθηκευτεί.
+file-picker-crashed-open = Το παράθυρο διαλόγου αρχείων των Windows κατέρρευσε. Δεν ήταν δυνατή η επιλογή αρχείου ή φακέλου.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Το παράθυρο διαλόγου αρχείων των Windows κατέρρευσε. Το αρχείο θα αποθηκευτεί στο { $path }.
+file-picker-crashed-save-nowhere = Το παράθυρο διαλόγου αρχείων των Windows κατέρρευσε. Δεν ήταν δυνατή η εύρεση προεπιλεγμένου φακέλου· το αρχείο δεν θα αποθηκευτεί.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
