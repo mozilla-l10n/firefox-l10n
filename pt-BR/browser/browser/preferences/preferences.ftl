@@ -1313,7 +1313,7 @@ privacy-segmentation-radio-on =
 
 website-advertising-header = Preferências de publicidade em sites
 website-advertising-private-attribution =
-    .label = Permitir que sites façam medição de publicidade, respeitando sua privacidade
+    .label = Permitir que sites façam medição de publicidade respeitando sua privacidade
     .accesskey = P
 website-advertising-private-attribution-description = Isso ajuda sites a entender o desempenho de seus anúncios sem coletar dados sobre você.
 
