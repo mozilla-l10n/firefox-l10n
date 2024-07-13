@@ -1035,3 +1035,21 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = "{ $popupURI }" көрсету
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Windows файл сұхбатын ашу мүмкін емес. Бірде-бір файл немесе буманы таңдау мүмкін емес.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows файл сұхбатын ашу мүмкін емес. Файл { $path } жеріне сақталатын болады.
+file-picker-failed-save-nowhere = Windows файл сұхбатын ашу мүмкін емес. Үнсіз келісім бумасын табу мүмкін емес, файл сақталмайтын болады.
+file-picker-crashed-open = Windows файл сұхбаты құлап түсті. Бірде-бір файл немесе буманы таңдау мүмкін емес.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows файл сұхбаты құлап түсті. Файл { $path } жеріне сақталатын болады.
+file-picker-crashed-save-nowhere = Windows файл сұхбаты құлап түсті. Үнсіз келісім бумасын табу мүмкін емес, файл сақталмайтын болады.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
