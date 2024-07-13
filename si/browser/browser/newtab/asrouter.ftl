@@ -228,6 +228,7 @@ fxa-sync-cfr-secondary = පසුව මතක් කරන්න
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-primary-button = පටන් ගන්න
 device-migration-fxa-spotlight-older-device-primary-button = ගිණුමක් සාදන්න
 device-migration-fxa-spotlight-getting-new-device-header-2 = අනාගතයේදී අළුත් උපාංගයක්?
 

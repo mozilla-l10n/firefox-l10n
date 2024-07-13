@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ඔබව ලුහුබඳිනවාට අකමැති බව ලුහු නොබඳින්න සංඥාවකින් අඩවි වෙත දන්වන්න
+do-not-track-description2 =
+    .label = අඩවි වෙත "ලුහුබඳින්න එපා" ඉල්ලීමක් යවන්න
+    .accesskey = d
 do-not-track-learn-more = තව දැනගන්න
 do-not-track-option-default-content-blocking-known =
     .label = දන්නා ලුහුබැඳීම් බාධනයට { -brand-short-name } සකසා ඇති විට පමණි
@@ -1212,7 +1215,7 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-private-attribution =
-    .label = රහස්‍යතා ප්‍රරක්ෂණ දැන්වීම් මාපන සඳහා අඩවි වලට ඉඩදෙන්න
+    .label = අඩවි වලට රහස්‍යතා ප්‍රරක්ෂණ දැන්වීම් මාපනයට ඉඩදෙන්න
     .accesskey = a
 
 ## Privacy Section - Security

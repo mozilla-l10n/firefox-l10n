@@ -24,3 +24,8 @@ more-from-moz-learn-more-link = තව දැනගන්න
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = ඔබගේ තැ.පෙ. සහ අනන්‍යතාවය නොමිලේ වි-තැපැල් වැස්මකින් රැකගන්න.
 more-from-moz-firefox-relay-button = { -relay-brand-short-name } ගන්න
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-global-description = ඔබගේ දත්ත උල්ලංඝනය වී ඇති විට ඇඟවීම් ලබා ගන්න.
+more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්න
