@@ -396,7 +396,7 @@ identity-description-passive-loaded = Jūsu savienojums nav privāts, un inform�
 identity-description-passive-loaded-insecure2 = Šajā vietnē ir saturs, kas nav drošs (piemēram, attēli).
 identity-description-passive-loaded-mixed2 = Lai arī { -brand-short-name } bloķēja daļu satura, lapā joprojām ir saturs, kas nav drošs (piemēram, attēli).
 identity-description-active-loaded = Šajā vietnē ir saturs, kas nav drošs (piemēram, skripti), un jūsu savienojums ar to nav privāts.
-identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
+identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram, paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
 identity-disable-mixed-content-blocking =
     .label = Pagaidām izslēgt aizsardzību
     .accesskey = d
@@ -491,7 +491,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, vispirms atveriet Izstrādātju Rīki, izmantojot izvēlni Pārlūka Rīki.
+enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, izvēlnē Pārlūka Rīki atveriet sadaļu Izstrādātāju Rīki.
 
 ## URL Bar
 
