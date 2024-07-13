@@ -50,3 +50,5 @@ experimental-features-group-browsing =
     .label = Navigazion
 experimental-features-group-developer-tools =
     .label = Struments di disvilup
+experimental-features-group-webpage-display =
+    .label = Visualizazion pagjine web
