@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = පහත වියමන අඩවි සඳහා පිවිසුම් සුරැකෙන්නේ නැත
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = හැරදැමීම් - සුරැකි මුරපද
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = මෙහි දැක්වෙන අඩවි සඳහා { -brand-short-name } මුරපද සුරකින්නේ නැත.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

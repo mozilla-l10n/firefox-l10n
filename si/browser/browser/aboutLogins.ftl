@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = වෙනත් අත�
 about-logins-menu-menuitem-import-from-a-file = ගොනුවකින් ආයාත කරන්න…
 about-logins-menu-menuitem-export-logins = පිවිසුම් නිර්යාතය…
 about-logins-menu-menuitem-remove-all-logins = සියළු පිවිසුම් ඉවත් කරන්න…
+about-logins-menu-menuitem-export-logins2 = මුරපද නිර්යාතය…
+about-logins-menu-menuitem-remove-all-logins2 = සියලු මුරපද ඉවත් කරන්න…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] විකල්ප
@@ -110,6 +112,8 @@ about-logins-intro-browser-only-import = ඔබගේ පිවිසුම් �
 ## Login
 
 login-item-new-login-title = නව පිවිසුමක් සාදන්න
+# Header for adding a password
+about-logins-login-item-new-login-title = මුරපදය එක් කරන්න
 login-item-edit-button = සංස්කරණය
 about-logins-login-item-remove-button = ඉවත් කරන්න
 login-item-origin-label = අඩවියේ ලිපිනය
@@ -154,6 +158,9 @@ about-logins-edit-login-os-auth-dialog-message-win = ඔබගේ පිවි�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = සුරැකි පිවිසුම සංස්කරණය
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = සුරැකි මුරපදය සංස්කරණය
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ඔබගේ මුරපදය දැකීමට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -169,6 +176,9 @@ about-logins-export-password-os-auth-dialog-message-win = ඔබගේ පිව
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = සුරැකි පිවිසුම් හා මුරපද නිර්යාත කරන්න
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = සුරැකි මුරපද නිර්යාත කරන්න
 
 ## Primary Password notification
 
@@ -184,6 +194,8 @@ confirmation-dialog-dismiss-button =
     .title = අවලංගු
 about-logins-confirm-remove-dialog-title = මෙම පිවිසුම මකන්නද?
 confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = මුරපදය ඉවත් කරන්නද?
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
 
 ## Variables
@@ -214,12 +226,19 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] සියළුම උපාංග වලින් පිවිසුම් { $count } ඉවත් කරන්නද?
        *[other] සියළුම උපාංග වලින් පිවිසුම් { $count } ඉවත් කරන්නද?
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] ඔව්, මුරපදය ඉවත් කරන්න
+       *[other] Yes, remove passwords
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = පිවිසුම් හා මුරපද නිර්යාත කරන්න
 about-logins-confirm-export-dialog-message = ඔබගේ මුරපද කියවීමට හැකි පෙළක් ලෙස සුරකිනු ඇත (උදා., BadP@ssw0rd) එබැවින් නිර්යාත කළ ගොනුව විවෘත කළ හැකි ඕනෑම අයෙකු ඒවා දකිනු ඇත.
 about-logins-confirm-export-dialog-confirm-button = නිර්යාතය…
+about-logins-confirm-export-dialog-title2 = මුරපද නිර්යාතය පිළිබඳ සටහනක්
 about-logins-alert-import-title = ආයාත වීම නිමයි
 about-logins-alert-import-message = සවිස්තරාත්මක ආයාත සාරාංශය බලන්න
 confirm-discard-changes-dialog-title = සුරැකි වෙනස්කම් ඉවත් කරන්නද?
@@ -260,6 +279,11 @@ about-logins-export-file-picker-title = පිවිසුම් ගොනුව
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = පිවිසුම්.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } වෙතින් මුරපද නිර්යාත කරන්න
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = මුරපද.csv
 about-logins-export-file-picker-export-button = නිර්යාත
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -273,6 +297,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = පිවිසුම් ගොනුව ආයාතය
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name } වෙත මුරපද ආයාත කරන්න
 about-logins-import-file-picker-import-button = ආයාතය
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -322,6 +348,7 @@ about-logins-import-dialog-error-try-import-again = යළි ආයාත ක�
 about-logins-import-dialog-error-cancel = අවලංගු
 about-logins-import-report-title = ආයාත සාරාංශය
 about-logins-import-report-description = { -brand-short-name } වෙත පිවිසුම් හා මුරපද ආයාත කෙරිණි.
+about-logins-import-report-description2 = { -brand-short-name } වෙත මුරපද ආයාත කර ඇත.
 #
 # Variables:
 #  $number (number) - The number of the row

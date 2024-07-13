@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = { $host } සඳහා මුරපදය සුරකින්නද?
+password-manager-save-password-button-deny =
+    .label = දැන් නොවේ
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = සුරකින්න
     .accesskey = S
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = { $host } සඳහා මුරපදය යාවත්කාල කරන්නද?
+password-manager-update-password-button-delete =
+    .label = සුරැකි මුරපදය ඉවත් කරන්න
+    .accesskey = R
 password-manager-update-login-add-username = සුරැකි මුරපදයට පරි. නාමය එක් කරන්නද?
 password-manager-password-password-button-allow =
     .label = යාවත්කාල

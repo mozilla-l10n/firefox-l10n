@@ -67,6 +67,7 @@ migration-bookmarks-option-label = පොත්යොමු
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ප්‍රියතමයන්
 migration-logins-and-passwords-option-label = සුරැකි පිවිසුම් සහ මුරපද
+migration-passwords-option-label = සුරැකි මුරපද
 migration-history-option-label = පිරික්සුම් ඉතිහාසය
 migration-extensions-option-label = දිගු
 migration-form-autofill-option-label = ආකෘති ස්වයං පිරවුම් දත්ත
