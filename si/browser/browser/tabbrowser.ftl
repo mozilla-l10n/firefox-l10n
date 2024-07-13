@@ -73,6 +73,10 @@ tabbrowser-confirm-open-multiple-tabs-button = පටිති අරින්�
 ## Confirmation dialog for enabling caret browsing
 
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = පටිති වසන්න
+
 ##
 
 tabbrowser-customizemode-tab-title = { -brand-short-name } අභිරුචිකරණය

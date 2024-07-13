@@ -93,3 +93,10 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] පටිති { $tabCount } ක් ලැබිණි
        *[other] පටිති { $tabCount } ක් ලැබිණි
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = මෑත දී වසා දැමූ පටිති බලන්න
