@@ -1211,6 +1211,9 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-private-attribution =
+    .label = රහස්‍යතා ප්‍රරක්ෂණ දැන්වීම් මාපන සඳහා අඩවි වලට ඉඩදෙන්න
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
