@@ -108,8 +108,24 @@ account-multiple-tabs-arriving-from-unknown-device =
 account-view-recently-closed-tabs = Zobrazit nedávno zavřené panely
 account-tabs-closed-remotely =
     { $closedCount ->
-        [one] { $closedCount } panel aplikace { -brand-short-name } byl zavřen
-        [few] { $closedCount } panely aplikace { -brand-short-name } byly zavřeny
-        [many] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
-       *[other] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
+        [one]
+            { -brand-short-name.case-status ->
+                [with-cases] { $closedCount } panel { -brand-short-name(case: "gen") } byl zavřen
+               *[no-cases] { $closedCount } panel aplikace { -brand-short-name } byl zavřen
+            }
+        [few]
+            { -brand-short-name.case-status ->
+                [with-cases] { $closedCount } panely { -brand-short-name(case: "gen") } byly zavřeny
+               *[no-cases] { $closedCount } panely aplikace { -brand-short-name } byly zavřeny
+            }
+        [many]
+            { -brand-short-name.case-status ->
+                [with-cases] { $closedCount } panelů { -brand-short-name(case: "gen") } bylo zavřeno
+               *[no-cases] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
+            }
+       *[other]
+            { -brand-short-name.case-status ->
+                [with-cases] { $closedCount } panelů { -brand-short-name(case: "gen") } bylo zavřeno
+               *[no-cases] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
+            }
     }

@@ -222,7 +222,7 @@ profiler-popup-presets-power-label =
     .label = Napájení a spotřeba
 profiler-popup-presets-debug-description =
     { -brand-shorter-name.case-status ->
-        [with-cases] Přednastaveno pro ladění ve { -brand-shorter-name(case: "gen") }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
+        [with-cases] Přednastaveno pro ladění ve { -brand-shorter-name(case: "loc") }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
        *[no-cases] Přednastaveno pro ladění v aplikaci { -brand-shorter-name }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
     }
 profiler-popup-presets-debug-label =
