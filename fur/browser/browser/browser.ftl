@@ -1039,7 +1039,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-file-picker-failed-open = Nol è stât pussibil vierzi il dialic pe selezion dai files di Windows. Nol è stât selezionât nissun file o cartele.
+file-picker-failed-open = Nol è stât pussibil vierzi il dialic di Windows pe selezion dai files. Nol è stât selezionât nissun file o cartele.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nol è stât pussibil vierzi il dialic di Windows pe selezion dai files. Il file al vignarà salvât come { $path },
+file-picker-failed-save-nowhere = Nol è stât pussibil vierzi il dialic di Windows pe selezion dai files. No je stade cjatade nissune cartele predefinide e il file nol vignarà salvât.
+file-picker-crashed-open = Il dialic di Windows pe selezion dai files al è colassât. Nol è stât selezionât nissun file o cartele.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Il dialic di Windows pe selezion dai files al è colassât. Il file al vignarà salvât come { $path }.
+file-picker-crashed-save-nowhere = Il dialic di Windows pe selezion dai files al è colassât. No je stade cjatade nissune cartele predefinide e il file nol vignarà salvât.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1047,3 +1054,6 @@ file-picker-failed-open = Nol è stât pussibil vierzi il dialic pe selezion dai
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Mostre te cartele
+    .accessKey = F
