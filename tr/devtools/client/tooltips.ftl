@@ -91,6 +91,7 @@ inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> veya 
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong>’u silmeyi veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Elemanın kapsayıcısının <strong>display</strong> değerini <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> veya <strong>inline-grid</strong> dışında bir değerle değiştirmeyi veya <strong>float</strong> özelliğini kaldırmayı deneyin. { learn-more }
 inactive-css-not-block-fix = <strong>display:block</strong> veya <strong>float:left</strong> gibi özellikler eklemeyi deneyin. { learn-more }
 inactive-css-not-floated-fix = <strong>float</strong> özelliğini <strong>none</strong> dışında bir değerle eklemeyi deneyin. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> özelliğini <strong>static</strong> dışında bir şey yapmayı deneyin. { learn-more }

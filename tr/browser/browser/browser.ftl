@@ -639,9 +639,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Son Aramalar
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } arama trendleri
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Arama trendlerini gösterme
+    .accesskey = A
 urlbar-result-menu-trending-why =
     .label = Bunu neden görüyorum?
     .accesskey = B
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Geri bildiriminiz için teşekkür ederiz. Artık arama trendlerini görmeyeceksiniz.
 
 ## Reader View toolbar buttons
 
@@ -1031,6 +1043,13 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Windows dosya iletişim kutusu açılamadı. Hiçbir dosya veya klasör seçilemedi.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows dosya iletişim kutusu açılamadı. Dosya { $path } konumuna kaydedilecek.
+file-picker-failed-save-nowhere = Windows dosya iletişim kutusu açılamadı. Varsayılan klasör bulunamadı. Dosya kaydedilmeyecektir.
+file-picker-crashed-open = Windows dosya iletişim kutusu çöktü. Hiçbir dosya veya klasör seçilemedi.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows dosya iletişim kutusu çöktü. Dosya { $path } konumuna kaydedilecek.
+file-picker-crashed-save-nowhere = Windows dosya iletişim kutusu çöktü. Varsayılan klasör bulunamadı. Dosya kaydedilmeyecektir.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1038,3 +1057,6 @@ file-picker-failed-open = Windows dosya iletişim kutusu açılamadı. Hiçbir d
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Klasörde göster
+    .accessKey = l

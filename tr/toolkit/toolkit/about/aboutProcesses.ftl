@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = Uzak sandbox aracısı { $pid }
 about-processes-fork-server-process = Fork sunucusu ({ $pid })
 about-processes-preallocated-process = Ayrılmış ({ $pid })
 about-processes-utility-process = Araç ({ $pid })
+about-processes-inference-process = Çıkarsama ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

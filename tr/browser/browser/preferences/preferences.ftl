@@ -60,6 +60,7 @@ pane-experimental-description2 = Gelişmiş yapılandırma ayarlarını değişt
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Deneysel özelliklerimizi deneyin! Bu özellikler sürekli geliştikleri ve değiştikleri için { -brand-short-name } tarayıcınızın çalışma şeklini etkileyebilirler.
 pane-experimental-reset =
     .label = Varsayılanları geri yükle
     .accesskey = V
@@ -1114,6 +1115,9 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 addressbar-locbar-showrecentsearches-option =
     .label = Son aramaları göster
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Arama trendi önerilerini göster
+    .accesskey = t
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 
 ## Privacy Section - Content Blocking
