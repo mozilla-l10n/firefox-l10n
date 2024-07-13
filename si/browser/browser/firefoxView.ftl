@@ -138,6 +138,9 @@ firefoxview-show-more = තව පෙන්වන්න
 firefoxview-show-less = අඩුවෙන් පෙන්වන්න
 firefoxview-search-text-box-clear-button =
     .title = මකන්න
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = සොයන්න
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = සෙවුම් ඉතිහාසය
@@ -224,3 +227,13 @@ firefoxview-recentlyclosed-empty-header = වැරදීමකින් පට�
 
 firefoxview-syncedtabs-device-notabs = මෙම උපාංගයේ විවෘත පටිති නැත
 firefoxview-syncedtabs-connect-another-device = වෙනත් උපාංගයක් සබඳින්න
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+

@@ -8,6 +8,10 @@ do-not-track-option-default-content-blocking-known =
     .label = දන්නා ලුහුබැඳීම් බාධනයට { -brand-short-name } සකසා ඇති විට පමණි
 do-not-track-option-always =
     .label = සැමවිට
+global-privacy-control-description =
+    .label = මාගේ දත්ත විකිණීමෙන් හෝ බෙදා ගැනීමෙන් වළකින ලෙස අඩවි වලට පවසන්න
+    .accesskey = s
+non-technical-privacy-header = අඩවි‌ සඳහා පෞද්ගලිකත්ව අභිප්‍රේත
 settings-page-title = සැකසුම්
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -604,6 +608,9 @@ search-suggestions-desc = සෙවුම් යන්ත්‍ර වලින�
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
     .accesskey = s
+search-show-suggestions-option =
+    .label = සෙවුම් යෝජනා පෙන්වන්න
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
@@ -826,6 +833,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = මුරපද
+    .searchkeywords = පිවිසුම්
 forms-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
@@ -1013,6 +1024,12 @@ addressbar-locbar-quickactions-option =
     .label = ඉක්මන් ක්‍රියාමාර්ග
     .accesskey = Q
 addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිප්‍රේත වෙනස් කරන්න
+addressbar-locbar-showrecentsearches-option =
+    .label = මෑත සෙවුම් පෙන්වන්න
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = නැගීඑන සෙවුම් යෝජනා පෙන්වන්න
+    .accesskey = t
 addressbar-quickactions-learn-more = තව දැනගන්න
 
 ## Privacy Section - Content Blocking
