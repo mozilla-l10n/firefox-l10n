@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Onglet novèl
 tabbrowser-empty-private-tab-title = Novèl onglet de nav. privada
-
 tabbrowser-menuitem-close-tab =
     .label = Tampar l'onglet
 tabbrowser-menuitem-close =
     .label = Tampar
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Navegacion amb lo cursor
 tabbrowser-confirm-caretbrowsing-message = La quichada sus F7 activa o desactiva la navegacion amb lo cursor. Aquesta foncion plaça un cursor desplaçable dins las paginas Web, que permet de seleccionar de tèxte amb lo clavièr. Desiratz activar la navegacion amb lo cursor ?
 tabbrowser-confirm-caretbrowsing-checkbox = Afichar pas mai aqueste dialòg a l'avenir.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-title = Tampar los onglets en doble ?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Tampar los onglets
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Autorizar las notificacions coma aquesta de { $domain } a vos fa passar a lor onglet
-
 tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Restablir lo son dels onglets
     .accesskey = R
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Lectura àudio
 

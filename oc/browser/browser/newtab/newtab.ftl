@@ -316,3 +316,4 @@ newtab-weather-see-forecast =
 newtab-weather-menu-change-location = Modificar lo luòc
 newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius

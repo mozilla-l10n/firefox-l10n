@@ -591,6 +591,8 @@ home-prefs-recent-activity-description = Una seleccion de sites e contenguts rec
 home-prefs-snippets-header =
     .label = Extraches
 home-prefs-snippets-description-new = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Metèo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -924,6 +926,7 @@ primary-password-os-auth-dialog-message-win = Per crear un senhal principal, pic
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear un senhal principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -934,6 +937,8 @@ autofill-saved-addresses-button = Adreças salvadas
     .accesskey = A
 autofill-payment-methods-checkbox-message = Enregistrar e entresenhar los metòdes de pagament
     .accesskey = m
+autofill-payment-methods-checkbox-submessage = Inclutz las cartas de crèdit e de debit
+    .accesskey = I
 autofill-saved-payment-methods-button = Metòdes de pagament enregistrats
     .accesskey = e
 

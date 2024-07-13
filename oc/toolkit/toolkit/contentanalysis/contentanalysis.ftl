@@ -9,5 +9,6 @@ contentanalysis-customdisplaystring-description = mandadís de « { $filename }
 contentanalysis-warndialogtitle = Aqueste contengut poiriá èsser insegur
 contentanalysis-warndialog-response-allow = Utilizar lo contengut
 contentanalysis-warndialog-response-deny = Anullar
+contentanalysis-error-message-print = Impression refusada
 contentanalysis-inprogress-quit-title = Quitar { -brand-shorter-name } ?
 contentanalysis-inprogress-quit-yesbutton = Òc, quitar

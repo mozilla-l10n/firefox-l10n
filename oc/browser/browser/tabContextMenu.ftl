@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tampar mantun onglet
     .accesskey = T
+tab-context-close-duplicate-tabs =
+    .label = Tampar los onglets duplicats
+    .accesskey = T
 tab-context-share-url =
     .label = Partejar
     .accesskey = P
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Desplaçar los onglets
         }
     .accesskey = D
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
