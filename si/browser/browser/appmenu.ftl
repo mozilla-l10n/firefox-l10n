@@ -248,3 +248,4 @@ appmenu-developer-tools-extensions =
 ## Panel for privacy and security products
 
 appmenuitem-monitor-description = දත්ත උල්ලංඝන ඇඟවීම් ලබන්න
+appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
