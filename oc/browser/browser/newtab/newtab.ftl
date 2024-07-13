@@ -227,6 +227,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fa part de la famil
 newtab-pocket-save = Enregistrar
 newtab-pocket-saved = Enregistrada
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Descobrissètz çò melhor del web
@@ -262,12 +265,17 @@ newtab-custom-recent-subtitle = Una seleccion de sites e contenguts recents
 newtab-custom-recent-toggle =
     .label = Activitat recenta
     .description = Una seleccion de sites e contenguts recents
+newtab-custom-weather-toggle =
+    .label = Metèo
+    .description = Lo bulletin metèo d’uèi dins un ai
 newtab-custom-close-button = Tampar
 newtab-custom-settings = Gerir mai de paramètres
 
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Fonzes
+newtab-wallpaper-reset = Reïnicializar
+newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montanha blanca
 
 ## Solid Colors
@@ -301,3 +309,10 @@ newtab-wallpaper-abstract-orange = Fòrmas iranjas
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Mostrar la prevision metèo de { $provider }
+newtab-weather-menu-change-location = Modificar lo luòc
+newtab-weather-menu-temperature-units = Unitats de temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit

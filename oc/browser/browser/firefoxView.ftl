@@ -186,6 +186,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Cap de resultat per « { $query } »
 firefoxview-sort-history-by-date-label = Triar per data
 firefoxview-sort-history-by-site-label = Triar per site
+firefoxview-sort-open-tabs-by-recency-label = Triar per activitat recenta
+firefoxview-sort-open-tabs-by-order-label = Triar per onglets
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -255,6 +257,9 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Anar a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Anar a { $tabTitle } (dins los marcapaginas)
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
