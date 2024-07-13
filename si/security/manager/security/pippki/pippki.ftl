@@ -43,6 +43,8 @@ download-cert-trust-ssl =
 download-cert-trust-email =
     .label = වි-තැපැල් පරිශීලකයින් හඳුනාගැනීමට මෙම CA විශ්වාස කරන්න.
 download-cert-message-desc = කිසියම් කාර්යයක් සඳහා මෙම CA විශ්වාස කිරීමට පෙර, සහතිකය සහ එහි ප්‍රතිපත්ති මෙන්ම ක්‍රියා පටිපාටි (තිබේ නම්) පරීක්‍ෂා කළ යුතුය.
+download-cert-view-cert =
+    .label = දකින්න
 download-cert-view-text = CA සහතිකය පිරික්සන්න
 
 ## Client Authorization Ask dialog
