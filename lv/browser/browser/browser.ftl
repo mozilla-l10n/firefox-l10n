@@ -84,11 +84,11 @@ urlbar-storage-access-anchor =
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Pārvaldīt sava loga vai visa ekrāna koplietošanu ar šo vietni
 urlbar-indexed-db-notification-anchor =
-    .tooltiptext = Atvērt nesaistes datu saglabāšanas ziņojumu paneli
+    .tooltiptext = Atvērt bezsaistes krātuves ziņojumu paneli
 urlbar-password-notification-anchor =
     .tooltiptext = Atvērt paroles saglabāšanas ziņojumu paneli
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Pārvaldīt papildinājumu izmantošanu
+    .tooltiptext = Pārvaldīt spraudņu izmantošanu
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo vietni
 # "Speakers" is used in a general sense that might include headphones or
@@ -135,7 +135,7 @@ urlbar-search-tips-redirect-2 = Sāciet meklēšanu adreses joslā, lai redzētu
 urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Mēģiniet precizēt meklēšanu adreses joslā. Lai tā vietā rādītu URL, iestatījumos atveriet Meklēšana.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Atlasiet šo īsinājumtaustiņu, lai varētu ātrāk atrastu vajadzīgo.
+urlbar-tabtosearch-onboard = Atlasiet šo saīsni, lai ātrāk atrastu vajadzīgo.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -159,17 +159,17 @@ urlbar-microphone-blocked =
 urlbar-screen-blocked =
     .tooltiptext = Jūs esat bloķējis ekrāna koplietošanu ar šo tīmekļa vietni.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Datu glabāšana ir bloķēta šajā lapā.
+    .tooltiptext = Jūs esat bloķējis šīs vietnes pastāvīgo krātuvi.
 urlbar-popup-blocked =
-    .tooltiptext = Uzlecošo logu rādīšana no šīs lapas ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis uzlecošo logu rādīšanu šajā tīmekļa vietnē.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Automātiskā multimēdiju ar skaņu atskaņošana šajā lapā ir bloķēta.
+    .tooltiptext = Jūs šai tīmekļa vietnei esat bloķējis automātiskās atskaņošanas multividi ar skaņu.
 urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas pamatnes datu ieguve ir bloķēta.
 urlbar-midi-blocked =
-    .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis MIDI piekļuvi šai tīmekļa vietnei.
 urlbar-install-blocked =
-    .tooltiptext = Jūs esat bloķējis papildinājumu instalēšanu šai vietnei.
+    .tooltiptext = Jūs esat bloķējis papildinājumu instalēšanu šai tīmekļa vietnei.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -201,7 +201,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Šoreiz meklējiet ar:
+search-one-offs-with-title = Šoreiz meklēt ar:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
 search-one-offs-context-open-new-tab =
@@ -328,7 +328,7 @@ bookmark-panel-remove =
         }
     .accesskey = A
 bookmark-panel-show-editor-checkbox =
-    .label = Rādīt redaktoru, saglabājot
+    .label = Rādīt redaktoru saglabājot
     .accesskey = S
 bookmark-panel-save-button =
     .label = Saglabāt
@@ -1029,3 +1029,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Rādīt '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
