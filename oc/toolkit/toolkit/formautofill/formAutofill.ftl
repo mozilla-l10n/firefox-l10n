@@ -11,6 +11,8 @@ autofill-options-link-osx = Preferéncias d’emplenatge automatic dels formular
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Salvar d’un biais segur aquesta carta ?
 credit-card-save-doorhanger-description = { -brand-short-name } chifra vòstre numèro de carta. Vòstre còdi de seguretat serà pas salvat.
 credit-card-capture-save-button =
     .label = Salvar
@@ -18,9 +20,17 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Pas ara
     .accessKey = P
+credit-card-capture-never-save-button =
+    .label = Salvar pas jamai las carta
+    .accessKey = S
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Actualizar la carta ?
+credit-card-update-doorhanger-description = Carta d’actualizar :
+credit-card-capture-save-new-button =
+    .label = Salvar coma carta nòva
+    .accessKey = S
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Escafar l’autocomplecion
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
