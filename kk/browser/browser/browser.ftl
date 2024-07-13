@@ -1053,3 +1053,6 @@ file-picker-crashed-save-nowhere = Windows файл сұхбаты құлап т
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Бумада көрсету
+    .accessKey = Б
