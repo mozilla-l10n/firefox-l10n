@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = v
 all-tabs-menu-close-duplicate-tabs =
     .label = Doppelte Tabs schließen
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Alle doppelten Tabs schließen
