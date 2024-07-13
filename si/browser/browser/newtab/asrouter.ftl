@@ -228,10 +228,6 @@ fxa-sync-cfr-secondary = පසුව මතක් කරන්න
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = පරණ උපාංගයක් භාවිතා කරන්නේද?
-device-migration-fxa-spotlight-body = පොත්යොමු සහ මුරපද වැනි වැදගත් තොරතුරු ඔබට අහිමි නොවීමට ඔබගේ දත්ත උපස්ථ කරන්න — විශේෂයෙන් ඔබ නව උපාංගයකට මාරු වන්නේ නම්.
-device-migration-fxa-spotlight-primary-button = මාගේ දත්ත උපස්ථ කරන්නේ කෙසේද?
-device-migration-fxa-spotlight-link = පසුව මතක් කරන්න
 device-migration-fxa-spotlight-older-device-primary-button = ගිණුමක් සාදන්න
 device-migration-fxa-spotlight-getting-new-device-header-2 = අනාගතයේදී අළුත් උපාංගයක්?
 
@@ -244,6 +240,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>ඔබගේ පරිගණකය නැවත අරඹන සැමවිට { -brand-short-name } අරින්න ද?</strong> දැන් ඔබට උපාංගය නැවත ඇරඹෙන විට ස්වයංක්‍රීයව { -brand-short-name }  විවෘත වීමට සැකසිය හැකිය.
 launch-on-login-learnmore = තව දැනගන්න
 launch-on-login-infobar-confirm-button = ඔව්, { -brand-short-name } අරින්න
     .accesskey = Y
@@ -253,5 +250,9 @@ launch-on-login-infobar-reject-button = දැන් නොවේ
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>ඔබගේ පරිගණකය නැවත අරඹන සැමවිට { -brand-short-name } අරින්න ද?</strong> ආරම්භක අභිප්‍රේත කළමනාකරණයට සැකසුම් තුළ “ආරම්භය” සොයන්න.
 launch-on-login-infobar-final-reject-button = එපා, ස්තුතියි
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
