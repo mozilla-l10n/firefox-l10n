@@ -31,3 +31,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ඔබ ඇතුළු වී සිටින ඕනෑම උපාංගයකට පටිති ක්‍ෂණිකව යවන්න.
 fxa-menu-sign-out =
     .label = නික්මෙන්න…
+fxa-menu-sync-description = ඕනෑම තැනකින් වියමනට ප්‍රවේශය

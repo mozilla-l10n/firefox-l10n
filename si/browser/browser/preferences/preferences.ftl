@@ -876,6 +876,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = පරිශ්‍රීලක නාම සහ මුරපද ස්වයංක්‍රීයව පුරවන්න
     .accesskey = F
+forms-saved-passwords =
+    .label = සුරැකි මුරපද
+    .accesskey = d
 forms-primary-pw-use =
     .label = ප්‍රාථමික මුරපදයක් යොදා ගන්න
     .accesskey = U
@@ -1026,6 +1029,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = පොත්යොමු
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = පසුරු පුවරුව
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = විවෘත පටිති
     .accesskey = O
@@ -1230,6 +1236,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = අඩවි දැන්වීම්කරණ අභිප්‍රේත
 website-advertising-private-attribution =
     .label = අඩවි වලට රහස්‍යතා ප්‍රරක්ෂණ දැන්වීම් මාපනයට ඉඩදෙන්න
     .accesskey = a
@@ -1286,6 +1293,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS හරහා ව.නා.ප.
 preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්ධතාවයක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
+preferences-doh-description2 = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්ධතාවයක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සපයමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = තත්‍වය: { $status }
@@ -1302,6 +1310,7 @@ preferences-doh-status-disabled = අක්‍රියයි
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = සක්‍රිය නැත ({ $reason })
 preferences-doh-group-message = මෙයින් ආරක්‍ෂිත ව.නා.ප. සබල කරන්න:
+preferences-doh-group-message2 = මෙලෙස HTTPS මගින් ව.නා.ප. සබල කරන්න:
 preferences-doh-expand-section =
     .tooltiptext = තවත් තොරතුරු
 preferences-doh-setting-default =

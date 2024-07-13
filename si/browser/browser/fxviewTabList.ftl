@@ -51,7 +51,18 @@ fxviewtabrow-move-tab-window = නව කවුළුවකට ගෙනයන�
     .accesskey = W
 fxviewtabrow-send-tab = උපාංගයට පටිත්ත යවන්න
     .accesskey = n
+fxviewtabrow-pin-tab = පටිත්ත අමුණන්න
+    .accesskey = P
+fxviewtabrow-unpin-tab = පටිත්ත ගළවන්න
+    .accesskey = p
+fxviewtabrow-mute-tab = පටිත්ත නිහඬ
+    .accesskey = M
+fxviewtabrow-unmute-tab = පටිත්ත නොනිහඬ
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } සඳහා විකල්ප
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

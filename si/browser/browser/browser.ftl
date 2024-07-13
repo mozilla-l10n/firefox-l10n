@@ -580,6 +580,9 @@ urlbar-result-action-copy-to-clipboard = පිටපතක්
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -856,6 +859,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>කලින් පටිත්ත අරින්නද?</strong> ඉතිහාසය යටතේ, { -brand-short-name } යෙදුමේ <img data-l10n-name="icon"/> වට්ටෝරුව හරහා ඔබගේ කලින් වාරය ප්‍රත්‍යර්පණය කිරීමට හැකිය.
 restore-session-startup-suggestion-button = කෙසේදැයි පෙන්වන්න
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ස්වයංක්‍රීයව සමහර දත්ත { -vendor-short-name } වෙත යවයි, එයින් ඔබගේ අත්දැකීම වැඩිදියුණු කළ හැකිය.
@@ -937,3 +943,16 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' පෙන්වන්න
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = බහාලුමෙහි පෙන්වන්න
+    .accessKey = F
