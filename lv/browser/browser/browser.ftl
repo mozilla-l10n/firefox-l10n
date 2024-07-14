@@ -76,9 +76,9 @@ urlbar-web-rtc-share-microphone-notification-anchor =
 urlbar-default-notification-anchor =
     .tooltiptext = Atvērt ziņojumu paneli
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Atvērt atrašanās vietu pieprasījumu paneli
+    .tooltiptext = Atvērt atrašanās vietas pieprasījumu paneli
 urlbar-xr-notification-anchor =
-    .tooltiptext = Atveriet virtuālās realitātes atļauju paneli
+    .tooltiptext = Atvērt virtuālās realitātes atļauju paneli
 urlbar-storage-access-anchor =
     .tooltiptext = Atvērt pārlūkošanas darbību atļauju paneli
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -86,7 +86,7 @@ urlbar-web-rtc-share-screen-notification-anchor =
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Atvērt bezsaistes krātuves ziņojumu paneli
 urlbar-password-notification-anchor =
-    .tooltiptext = Atvērt paroles saglabāšanas ziņojumu paneli
+    .tooltiptext = Atvērt paroļu saglabāšanas ziņojumu paneli
 urlbar-plugins-notification-anchor =
     .tooltiptext = Pārvaldīt spraudņu izmantošanu
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -94,7 +94,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Pārvaldiet citu skaļruņu kopīgošanu ar vietni
+    .tooltiptext = Pārvaldīt citu skaļruņu kopīgošanu ar šo vietni
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Atvērt automātiskās atskaņošanas paneli
 urlbar-persistent-storage-notification-anchor =
@@ -122,7 +122,7 @@ urlbar-result-menu-remove-from-history =
     .accesskey = r
 urlbar-result-menu-tip-get-help =
     .label = Iegūt palīdzību
-    .accesskey = I
+    .accesskey = p
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
