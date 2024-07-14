@@ -50,3 +50,5 @@ experimental-features-group-browsing =
     .label = Duyệt
 experimental-features-group-developer-tools =
     .label = Công cụ phát triển
+experimental-features-group-webpage-display =
+    .label = Hiển thị trang web
