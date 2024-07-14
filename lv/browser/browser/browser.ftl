@@ -1052,6 +1052,13 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atlasīt nevienu datni vai mapi.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nevarēja atvērt Windows datņu dialoglodziņu. Datne tiks saglabāta mapē { $path }.
+file-picker-failed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atrast noklusējuma mapi; datne netiks saglabāta.
+file-picker-crashed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atlasīt nevienu datni vai mapi.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows datņu dialoglodziņš ir avarējis. Datne tiks saglabāta mapē { $path }.
+file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atrast noklusējuma mapi; datne netiks saglabāta.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1059,3 +1066,6 @@ file-picker-failed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Nevar
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Rādīt mapē
+    .accessKey = m
