@@ -124,6 +124,11 @@ media-device-latency = ගුප්තතාව
 ## Codec support table
 
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-app-title = යෙදුමේ සැකසුම්
@@ -265,6 +270,12 @@ support-printing-modified-settings = සංශෝධිත මුද්‍රණ
 support-printing-prefs-name = නම
 support-printing-prefs-value = අගය
 
+## Remote Settings sections
+
+support-remote-settings-sync-history = ඉතිහාසය
+support-remote-settings-sync-history-status = තත්‍වය
+support-remote-settings-sync-history-datetime = දිනය
+
 ## Normandy sections
 
 support-remote-experiments-name = නම
@@ -273,4 +284,7 @@ support-remote-features-name = නම
 support-remote-features-status = තත්‍වය
 
 ## Pointing devices
+
+
+## Content Analysis (DLP)
 
