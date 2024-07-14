@@ -656,6 +656,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Kāpēc es šo redzu?
     .accesskey = K
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Paldies par atsauksmi. Jūs vairs neredzēsit meklēšanas vaicājumu tendences.
 
 ## Reader View toolbar buttons
 
@@ -1006,6 +1009,10 @@ firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku�
 popup-notification-addon-install-unsigned =
     .value = (Nepārbaudīts)
 popup-notification-xpinstall-prompt-learn-more = Uzziniet vairāk par papildinājumu drošu instalēšanu
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Palaist privātajā logā
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1044,6 +1051,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atlasīt nevienu datni vai mapi.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
