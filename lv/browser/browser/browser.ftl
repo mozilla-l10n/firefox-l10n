@@ -644,6 +644,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nesenie meklējumi
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Tendences meklētājā { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Nerādīt tendences meklēšanas vaicājumos
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Kāpēc es šo redzu?
+    .accesskey = K
 
 ## Reader View toolbar buttons
 
