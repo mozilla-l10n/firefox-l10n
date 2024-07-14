@@ -1057,6 +1057,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Datajowy dialog Windows njedajo se wócyniś. Dataja abo zarědnik njedajo se wubraś.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Datajowy dialog Windows njedajo se wócyniś. Dataja buźo se do { $path } składowaś.
+file-picker-failed-save-nowhere = Datajowy dialog Windows njedajo se wócyniś. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
+file-picker-crashed-open = Datajowy dialog Windows jo spadnuł. Dataja abo zarědnik njedajo se wubraś.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Datajowy dialog Windows jo spadnuł. Dataja buźo se do { $path } składowaś.
+file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
