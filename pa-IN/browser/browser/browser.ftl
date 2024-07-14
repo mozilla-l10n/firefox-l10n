@@ -657,6 +657,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = ਮੈਂ ਇਹ ਕਿਉਂ ਦੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ?
     .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਹੋਰ ਖੋਜ ਰੁਝਾਨ ਨਹੀਂ ਵੇਖੋਗੇ।
 
 ## Reader View toolbar buttons
 
@@ -1007,6 +1010,10 @@ firefox-relay-offer-legal-notice = “ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ�
 popup-notification-addon-install-unsigned =
     .value = (ਨਾ-ਜਾਂਚ ਕੀਤੇ)
 popup-notification-xpinstall-prompt-learn-more = ਐਡ-ਆਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਚਲਾਓ
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1039,6 +1046,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ। ਕੋਈ ਫ਼ਾਇਲ ਜਾਂ ਫੋਲਡਰ ਚੁਣਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਨੂੰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
+file-picker-failed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਫਾਇਲ ਜਾਂ ਫੋਲਡਰ ਚੁਣਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
+file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1046,3 +1061,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
+    .accessKey = F

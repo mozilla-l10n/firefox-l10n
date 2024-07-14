@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ �
 addressbar-locbar-showrecentsearches-option =
     .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਵੇਖਾਓ
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = ਖੋਜ ਸੁਝਾਆਵਾਂ ਦੇ ਰੁਝਾਨਾਂ ਨੂੰ ਵੇਖੋ
+    .accesskey = t
 addressbar-quickactions-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## Privacy Section - Content Blocking

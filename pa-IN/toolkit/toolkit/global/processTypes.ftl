@@ -41,6 +41,8 @@ process-type-gpu = GPU
 process-type-socket = ਸਾਕਟ
 # process used to decode media
 process-type-rdd = ਰੈਡ
+# process used to run inference
+process-type-inference = ਸਿੱਟਾ
 # process used to run some IPC actor in their own sandbox
 process-type-utility = ਸੈਂਡਬਾਕਸ ਕੀਤਾ IPC ਐਕਟਰ
 process-type-utility-actor-audio-decoder-generic = ਸਹੂਲਤ ਸਧਾਰਨ ਆਡੀਓ ਡੀਕੋਡਰ
