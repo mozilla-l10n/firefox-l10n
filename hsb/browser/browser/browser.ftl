@@ -1060,6 +1060,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Datajowy dialog Windows njeda so wočinić. Dataja abo rjadowak njeda so wubrać.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Datajowy dialog Windows njeda so wočinić. Dataja budźe so do { $path } składować.
+file-picker-failed-save-nowhere = Datajowy dialog Windows njeda so wočinić. Standardny rjadowak njeda so namakać; dataja njebudźe so składować.
+file-picker-crashed-open = Datajowy dialog Windows je spadnył. Dataja abo rjadowak njeda so wubrać.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Datajowy dialog Windows je spadnył. Dataja budźe so do { $path } składować.
+file-picker-crashed-save-nowhere = Datajowy dialog Windows je spadnył. Standardny rjadowak njeda so namakać; dataja njebudźe so składować.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
