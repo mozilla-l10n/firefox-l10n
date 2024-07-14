@@ -4,6 +4,7 @@
 
 about-networking-title = ජාලකරණය පිළිබඳව
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP නිහිතය මකන්න
 about-networking-sockets = කෙවෙනි
 about-networking-dns = ව.නා.ප.
 about-networking-dns-clear-cache-button = ව.නා.ප. නිහිතය මකන්න

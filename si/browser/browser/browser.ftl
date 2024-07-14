@@ -897,6 +897,7 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description = පෞද්ගලික පටිති සියල්ල වසා ඉතිහාසය, දත්තකඩ සහ අනෙකුත් සියලුම අඩවි දත්ත මකන්න.
 reset-pbm-panel-always-ask-checkbox =
     .label = සැමවිට අසන්න
     .accesskey = A

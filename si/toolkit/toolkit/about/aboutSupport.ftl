@@ -104,6 +104,8 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 restart-in-troubleshoot-mode-label = දොස් සෙවීමේ ප්‍රකාරය…
 clear-startup-cache-title = ආරම්භක නිහිතය මැකීමට බලන්න
+clear-startup-cache-label = ආරම්භක නිහිතය මකන්න…
+startup-cache-dialog-title2 = ආරම්භක නිහිතය මැකීමට { -brand-short-name } යළි අරඹන්න ද?
 restart-button-label = යළි අරඹන්න
 
 ## Media titles
