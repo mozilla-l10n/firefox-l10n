@@ -54,6 +54,7 @@ inactive-css-collapsed-table-borders = Bu eleman kenarlıkları daraltılmış b
 inactive-css-not-table-cell = Bu eleman bir tablo hücresi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
+inactive-css-resize = <strong>{ $property }</strong> özelliği yalnızca visible dışında bir taşma değerine sahip elemanlara ve textarea gibi belirli değiştirilmiş elemanlara uygulanabileceği için bu eleman üzerinde bir etkisi yoktur.
 inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -104,6 +105,7 @@ inactive-css-collapsed-table-borders-fix = <strong>border-collapse:separate</str
 inactive-css-not-table-cell-fix = <strong>display:table-cell</strong> eklemeyi deneyin. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> veya <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
 inactive-css-border-image-fix = Üst tablo elemanında özelliği kaldırın veya <strong>border-collapse</strong> değerini <strong>collapse</strong> dışında bir değerle değiştirin. { learn-more }
+inactive-css-resize-fix = <strong>overflow</strong> özelliğini <strong>visible</strong> dışında bir değere ayarlamayı ya da onu destekleyen değiştirilen bir elemana hedeflemeyi deneyin. { learn-more }
 inactive-css-ruby-element-fix = Ruby metninin <strong>font-size</strong> değerini değiştirmeyi deneyin. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Satır sayısını azaltmayı deneyin. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Elemanın içeriğini bölmekten kaçının. Örneğin sütunları kaldırabilir veya <strong>page-break-inside:avoid</strong> kullanabilirsiniz. { learn-more }
