@@ -336,6 +336,8 @@ onboarding-device-migration-primary-button-label = Iniciar sesión
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte seguro
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te respalda
 
 ## New user time and familiarity survey strings
 

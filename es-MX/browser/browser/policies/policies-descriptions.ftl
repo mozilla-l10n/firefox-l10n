@@ -12,11 +12,13 @@
 
 policy-3rdparty = Establece políticas a las que WebExtensions pueda acceder a través de chrome.storage.managed.
 policy-AllowedDomainsForApps = Define los dominios autorizados para acceder a Google Workspace.
+policy-AllowFileSelectionDialogs = Permitir cuadros de diálogo de selección de archivos.
 policy-AppAutoUpdate = Activar o desactivar la actualización automática de la aplicación.
 policy-AppUpdatePin = Previene que { -brand-short-name } sea actualizado más allá de la versión especificada.
 policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que lo admitan.
 policy-AutofillAddressEnabled = Habilitar autocompletado de direcciones.
+policy-AutofillCreditCardEnabled = Habilitar autocompletado para métodos de pago.
 policy-AutoLaunchProtocolsFromOrigins = Define una lista de protocolos externos que pueden ser usados desde los orígenes que aparecen en la lista sin que se le pregunte al usuario.
 policy-BackgroundAppUpdate2 = Habilitar o deshabilitar la actualización en segundo plano.
 policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (about:addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas Marcadores, menú Marcadores o una carpeta específica dentro de ellos.
 policy-CaptivePortal = Habilitar o deshabilitar soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
+policy-ContentAnalysis = Habilitar o deshabilitar la conexión al agente de prevención de pérdida de datos.
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Establecer políticas relacionadas con los contenedores.
@@ -37,6 +40,8 @@ policy-DisableDefaultBrowserAgent = Previene que el agente de navegación predet
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
 policy-DisableFeedbackCommands = Deshabilitar comandos para enviar comentarios desde el menú Ayuda (Enviar comentario y reportar sitios engañosos).
 policy-DisableFirefoxAccounts = Deshabilitar los servicios basados en { -fxaccount-brand-name }, incluido Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Deshabilitar los servicios basados en cuentas, incluyendo la sincronización.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deshabilitar la función de Firefox Screenshots.
 policy-DisableFirefoxStudies = Evitar que { -brand-short-name } ejecute estudios.
@@ -90,6 +95,7 @@ policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archiv
 policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
 policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario sobre las actualizaciones.
 policy-PrimaryPassword = Requerir o evitar el uso de una contraseña maestra.
+policy-PrintingEnabled = Habilita o deshabilita la impresión.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
 policy-NewTabPage = Habilitar o deshabilitar la página Nueva pestaña.
 policy-NoDefaultBookmarks = Deshabilitar la creación de los marcadores predeterminados incluidos con { -brand-short-name }, y los marcadores inteligentes (etiquetas más visitadas y recientes). Nota: esta política solo es efectiva si se usa antes de la primera ejecución del perfil.
