@@ -14,6 +14,9 @@
 firefox-relay-get-unlimited-masks =
     .label = Upravljaj maskama
     .accesskey = U
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Koristi e-mail masku
+    .accesskey = K
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N

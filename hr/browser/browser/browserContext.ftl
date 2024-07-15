@@ -301,6 +301,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Koristi { -relay-brand-short-name } e-mail masku
+    .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Predloži jaku lozinku …
     .accesskey = j
