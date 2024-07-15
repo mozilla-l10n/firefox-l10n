@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Podaci URL klasifikatora
 url-classifier-search-title = Traži
 url-classifier-search-result-title = Rezultati
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Popis tablica: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Neispravan URL
@@ -30,7 +35,6 @@ url-classifier-cache-prefix = Prefiks
 url-classifier-debug-title = Otklanjanje grešaka
 url-classifier-debug-modules = Trenutačni log moduli
 url-classifier-debug-file = Trenutačna log datoteka
-
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = Ništa
 url-classifier-disable-sbjs-log = Onemogući JS zapis sigurnog pregledavanja
