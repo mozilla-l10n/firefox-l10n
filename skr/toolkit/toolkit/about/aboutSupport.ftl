@@ -417,6 +417,7 @@ support-printing-prefs-value = قدر
 
 ## Remote Settings sections
 
+support-remote-settings-title = پروبھریاں ترتیباں
 support-remote-settings-status = حالت
 support-remote-settings-status-ok = ٹھیک ہے
 support-remote-settings-sync-history = تاریخ
