@@ -110,7 +110,7 @@ permissions-exceptions-saved-logins-desc = As contas de acesso dos seguintes sit
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Exceções - Senhas salvas
+    .title = Exceções - Salvamento de senhas
     .style = { permissions-window2.style }
 permissions-exceptions-saved-passwords-desc = O { -brand-short-name } não salva senhas dos sites desta lista.
 
