@@ -1307,7 +1307,7 @@ website-advertising-header = 网站广告首选项
 website-advertising-private-attribution =
     .label = 允许网站进行隐私保护下的广告监测
     .accesskey = a
-website-advertising-private-attribution-description = 此选项可帮助网站了解其广告表现，而无需收集关于您的数据。
+website-advertising-private-attribution-description = 此功能可帮助网站了解其广告表现，而无需收集关于您的数据。
 
 ## Privacy Section - Security
 ##

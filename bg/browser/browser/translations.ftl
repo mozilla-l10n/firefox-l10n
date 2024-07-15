@@ -5,6 +5,8 @@
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Управление на езици
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -22,6 +24,8 @@
 
 ## Firefox Translations language management in about:preferences.
 
+translations-settings-languages-column =
+    .label = Езици
 translations-settings-close-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = з
