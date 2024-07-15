@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Tìm hiểu thêm</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex hay ngăn chứa lưới.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex, ngăn chứa lưới hoặc ngăn chứa nhiều cột.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> không có tác dụng trên phần tử này vì nó không phải là một ngăn chứa nhiều cột.
@@ -68,12 +78,15 @@ inactive-css-not-inline-or-tablecell-fix = Hãy thử thêm <strong>display:inli
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Hãy thử thêm <strong>display:inline-block</strong> hoặc <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Hãy thử thêm <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>. { learn-more }
+inactive-css-not-block-fix = Hãy thử thêm thuộc tính <strong>display:grid</strong> hoặc <strong>display:flex</strong>. { learn-more }
+inactive-css-not-floated-fix = Hãy thử thêm thuộc tính <strong>float</strong> có giá trị khác <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Hãy thử đặt thuộc tính <strong>position</strong> của nó thành một thứ khác ngoài <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Đảm bảo bạn đang thêm thuộc tính vào phần tử được thay thế. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Hãy thử thêm <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Hãy thử thêm <strong>display:table</strong> hoặc <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Hãy thử thêm <strong>border-collapse:separate</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Hãy thử thêm <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>. { learn-more }
