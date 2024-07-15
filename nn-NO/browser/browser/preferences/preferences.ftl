@@ -98,7 +98,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillinga.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> krev innhaldsfaner.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> krev behaldarfaner.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillinga.
@@ -174,26 +174,26 @@ show-tabs-in-taskbar =
     .label = Vis førehandsvising av faner i Windows-oppgåvelinja
     .accesskey = s
 browser-containers-enabled =
-    .label = Aktiver innhaldsfaner
+    .label = Aktiver behaldarfaner
     .accesskey = k
 browser-containers-learn-more = Les meir
 browser-containers-settings =
     .label = Innstillingar…
     .accesskey = I
-containers-disable-alert-title = Late att alle innhaldsfaner?
+containers-disable-alert-title = Late att alle behaldarfaner?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfane bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
-       *[other] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfaner bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
+        [one] Dersom du deaktiverer behaldarfaner no, vil { $tabCount } innhaldsfane bli stengt. Er du sikker på at du vil deaktivere behaldarfaner?
+       *[other] Dersom du deaktiverer behaldarfaner no, vil { $tabCount } behaldarfaner bli stengt. Er du sikker på at du vil deaktivere behaldarfaner?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Lat att { $tabCount } innhaldsfane
-       *[other] Lat att { $tabCount } innhaldsfaner
+       *[other] Lat att { $tabCount } behaldarfaner
     }
 
 ##
@@ -684,7 +684,7 @@ search-keyword-warning-bookmark = Du har valt eit nøkkelord som allereie vert b
 
 containers-back-button2 =
     .aria-label = Tilbake til innstillingar
-containers-header = Innhaldsfaner
+containers-header = Behaldarfaner
 containers-add-button =
     .label = Legg til ny behaldar
     .accesskey = L

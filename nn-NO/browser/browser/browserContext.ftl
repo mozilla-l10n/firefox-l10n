@@ -131,8 +131,8 @@ main-context-menu-open-link-new-tab =
     .label = Opne lenke i ny fane
     .accesskey = n
 main-context-menu-open-link-container-tab =
-    .label = Opne lenke i ny innhaldsfane
-    .accesskey = a
+    .label = Opne lenke i ny behaldarfane
+    .accesskey = O
 main-context-menu-open-link-new-window =
     .label = Opne lenke i nytt vindauge
     .accesskey = O
@@ -384,7 +384,7 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Opne lenke i ny { $containerName }-innhaldsfane
+    .label = Opne lenke i ny { $containerName }-behaldarfane
     .accesskey = p
 main-context-menu-reveal-password =
     .label = Vis passord
