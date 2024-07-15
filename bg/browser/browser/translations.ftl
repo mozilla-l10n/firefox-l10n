@@ -24,6 +24,8 @@ translations-panel-settings-manage-languages =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-settings-languages-column =
+    .label = Езици
 translations-settings-close-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = з
