@@ -66,6 +66,8 @@ migration-bookmarks-option-label = Zabilješke
 migration-favorites-option-label = Favoriti
 migration-logins-and-passwords-option-label = Spremi prijave i lozinke
 migration-history-option-label = Povijest pregledavanja
+migration-cookies-option-label = Kolačići
+migration-session-option-label = Prozori i kartice
 migration-passwords-from-file-progress-header = Uvezi datoteke lozinki
 migration-passwords-from-file-success-header = Lozinke su uspješno uvezene
 migration-passwords-new = Nove lozinke
@@ -85,6 +87,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV dokument
        *[other] TSV datoteka
     }
+migration-bookmarks-from-file = Zabilješke
 migration-import-button-label = Uvezi
 migration-choose-to-import-from-file-button-label = Uvezi iz datoteke
 migration-import-from-file-button-label = Odaberi datoteku
@@ -108,6 +111,8 @@ migration-list-history-label = povijest
 ##
 
 migration-wizard-progress-header = Uvoz podataka
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Podaci su uspješno uvezeni
 migration-wizard-progress-icon-in-progress =
     .aria-label = Uvoz …

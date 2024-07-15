@@ -111,9 +111,16 @@ firefoxview-sort-history-by-site-label = Poredaj prema web stranici
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Danas - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Jučer - { DATETIME($date, dateStyle: "full") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokalne datoteke)
 
 ##
 
+firefoxview-show-all-history = Prikaži svu povijest
 
 ## Message displayed in Firefox View when the user has no history data
 
