@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-sign-in = Prijavi se u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Račun
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -167,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-label =
     .label = Web programer
 profiler-popup-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name }a.
@@ -201,6 +207,9 @@ appmenu-recently-closed-tabs =
     .label = Nedavno zatvorene kartice
 appmenu-recently-closed-windows =
     .label = Nedavno zatvoreni prozori
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Povijest pretrage
 
 ## Help panel
 
@@ -220,6 +229,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Dijeli ideje i povratne informacije …
     .accesskey = D
+appmenu-help-switch-device =
+    .label = Prelazak na novi uređaj
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -248,3 +259,6 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
     .label = Proširenja za razvijatelje
+
+## Panel for privacy and security products
+
