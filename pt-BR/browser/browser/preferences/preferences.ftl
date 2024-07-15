@@ -922,7 +922,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Requer autenticação do dispositivo para preencher e gerenciar senhas
+    .label = Exigir autenticação do dispositivo para preencher e gerenciar senhas
 forms-primary-pw-learn-more-link = Saiba mais
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -977,7 +977,7 @@ autofill-payment-methods-checkbox-submessage = Incluir cartões de crédito e d�
 autofill-saved-payment-methods-button = Métodos de pagamento salvos
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Requer autenticação do dispositivo para preencher e gerenciar métodos de pagamento
+autofill-reauth-payment-methods-checkbox = Exigir autenticação do dispositivo para preencher e gerenciar métodos de pagamento
     .accesskey = o
 
 ## Privacy Section - History
