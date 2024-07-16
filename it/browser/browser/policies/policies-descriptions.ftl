@@ -204,6 +204,8 @@ policy-PopupBlocking = Consenti ad alcuni siti web di visualizzare finestre pop-
 
 policy-Preferences = Imposta un gruppo di preferenze e bloccane il valore.
 
+policy-PrivateBrowsingModeAvailability = Imposta la disponibilità della modalità Navigazione anonima.
+
 policy-PromptForDownloadLocation = Chiedi dove salvare i file scaricati.
 
 policy-Proxy = Configura le impostazioni dei proxy.
