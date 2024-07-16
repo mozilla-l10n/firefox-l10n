@@ -12,10 +12,13 @@
 
 policy-3rdparty = Ad yeǧǧ ad srekdeḍ tistṛatijiyin anida zemren ad kecmen WebExtensions s chrome.storage.managed.
 policy-AllowedDomainsForApps = Sbadu tiɣula yettusirgen i unekcum ɣer Google Workspace
+policy-AllowFileSelectionDialogs = Sireg idiwenniyen n tefrant n ufaylu.
 policy-AppAutoUpdate = Rmed neɣ gdel alqem awurman n yisnasen.
 policy-AppUpdatePin = Sewḥel { -brand-short-name } akken ur yettwaleqqam ara nnig n lqem i yettwafernen
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
+policy-AutofillAddressEnabled = Rmed taččart tawurmant i tansiwin.
+policy-AutofillCreditCardEnabled = Rmed taččart tawurmant i tarrayin n uxelleṣ.
 policy-AutoLaunchProtocolsFromOrigins = Sbadu tabdart n yineggafen iẓɣarayen i izemren ad ttusqedcen seg yiɣbula i d-yettwabedren war ma yettusuter deg useqdac.
 policy-BackgroundAppUpdate2 = Rmed neɣ sens aleqqam n ugilal.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
@@ -122,6 +125,7 @@ policy-SSLVersionMax = Sbadu lqem afellay n SSL.
 policy-SSLVersionMin = Sbadu lqem adday n SSL.
 policy-StartDownloadsInTempDirectory = Ḥettem beddu n yisadaren deg wadig adigan askudan deg wadeg n ukaram n usader amezwer.
 policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
+policy-TranslateEnabled = Rmed neɣ sens asuqqel n usebter web.
 policy-UserMessaging = Ur d-skan ara kra n yiznan i useqdac.
 policy-UseSystemPrintDialog = Siggez s useqdec n udiwenni Anagraw n usiggez.
 # “format” refers to the format used for the value of this policy.
