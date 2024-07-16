@@ -269,12 +269,20 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] Ukloniti sve { $count } lozinke?
        *[other] Ukloniti sve { $count } lozinke?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Ukloniti { $count } lozinku sa svih uređaja?
+        [few] Ukloniti sve { $count } lozinke sa svih uređaja?
+       *[other] Ukloniti sve { $count } lozinke sa svih uređaja?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvezi …
+about-logins-confirm-export-dialog-confirm-button2 = Nastavi s izvozom
 about-logins-alert-import-title = Uvoz je dovršen
 about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
 confirm-discard-changes-dialog-title = Odbaciti nespremljene promjene?
