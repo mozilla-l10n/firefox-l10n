@@ -169,6 +169,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, upi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredi spremljenu prijavu
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = uredi spremljenu lozinku
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Za prikaz tvoje lozinke, upiši svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -184,6 +187,9 @@ about-logins-export-password-os-auth-dialog-message-win = Za izvoz tvojih prijav
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izvezi spremljene prijave i lozinke
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = izvezi spremljene lozinke
 
 ## Primary Password notification
 
@@ -199,6 +205,10 @@ confirmation-dialog-dismiss-button =
     .title = Odustani
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja je nepovratna.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Ukloniti lozinku?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ovu radnju ne možeš poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
 
 ## Variables
@@ -243,6 +253,21 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Ovo će ukloniti prijavu spremljenu u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
         [few] Ovo će ukloniti prijave spremljene u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
        *[other] Ovo će ukloniti prijave spremljene u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Ukloniti { $count } lozinku?
+        [few] Ukloniti sve { $count } lozinke?
+       *[other] Ukloniti sve { $count } lozinke?
     }
 
 ##
