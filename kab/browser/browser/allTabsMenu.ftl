@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = O
 all-tabs-menu-close-duplicate-tabs =
     .label = Mdel accaren i d-yettεawden
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Mdel akk accaren i d-yettεawden
