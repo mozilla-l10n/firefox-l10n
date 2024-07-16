@@ -16,3 +16,7 @@ elevation-more-elevated =
     시작할 때 업데이트가 설치될 것입니다. 지금 { -brand-short-name }를
     다시 시작하거나, 계속 사용한 후에 나중에 다시 시작하거나, 이 업데이트를
     취소할 수 있습니다.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = 다시 표시 안 함
+    .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = 이 문제를 해결하는 방법
