@@ -345,7 +345,8 @@ identity-connection-secure = Veza sigurna
 identity-connection-failure = Greška kod spajanja
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
 identity-connection-file = Ova je stranica spremljena na tvom računalu.
-identity-extension-page = Ova stranica je učitana iz dodatka.
+identity-connection-associated = Ova je stranica učitana iz jedne druge stranice.
+identity-extension-page = Ova je stranica učitana iz jednog proširenja.
 identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
 identity-custom-root = Vezu je potvrdio izdavatelj certifikata kojeg Mozilla ne prepoznaje.
 identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
@@ -354,6 +355,7 @@ identity-weak-encryption = Ova stranica koristi slabo šifriranje.
 identity-insecure-login-forms = Prijave na ovoj stranici mogu biti kompromitirane.
 identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
 identity-https-only-label = Način rada "Samo HTTPS"
+identity-https-only-label2 = Automatski nadogradi ovu stranicu na sigurnu vezu
 identity-https-only-dropdown-on =
     .label = Uključeno
 identity-https-only-dropdown-off =
@@ -563,6 +565,11 @@ urlbar-result-action-search-w-engine = Traži pomoću { $engine }
 urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Prebaci na karticu
 urlbar-result-action-visit = Posjeti
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Prijeđi na karticu · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Posjeti web stranicu iz međuspremnika
 # Directs a user to press the Tab key to perform a search with the specified
@@ -595,6 +602,9 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Traži pomoću { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

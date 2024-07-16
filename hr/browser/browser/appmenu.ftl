@@ -268,3 +268,9 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Prijavi se na tvoj račun
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Zaštiti svoju online aktivnost
