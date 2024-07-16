@@ -1054,6 +1054,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Не ўдалося адкрыць дыялогавае акно файла Windows. Немагчыма выбраць файл або папку.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Не ўдалося адкрыць дыялогавае акно файла Windows. Файл будзе захаваны ў { $path }.
+file-picker-failed-save-nowhere = Не ўдалося адкрыць дыялогавае акно файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
+file-picker-crashed-open = Здарыўся крах дыялогавага акна файла Windows. Немагчыма выбраць файл або папку.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Здарыўся крах дыялогавага акна файла Windows. Файл будзе захаваны ў { $path }.
+file-picker-crashed-save-nowhere = Здарыўся крах дыялогавага акна файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1061,3 +1066,6 @@ file-picker-failed-save-somewhere = Не ўдалося адкрыць дыял�
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Паказаць у папцы
+    .accessKey = а
