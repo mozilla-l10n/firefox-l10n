@@ -324,6 +324,11 @@ about-logins-export-file-picker-title = Izvezi datoteku prijava
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = prijave.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Izvezi lozinke iz { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = lozinke.csv
 about-logins-export-file-picker-export-button = Izvezi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -337,6 +342,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Uvezi datoteku s prijavama
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Uvezi lozinke u { -brand-short-name }
 about-logins-import-file-picker-import-button = Uvezi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -375,6 +382,10 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
         [few] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
        *[other] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
