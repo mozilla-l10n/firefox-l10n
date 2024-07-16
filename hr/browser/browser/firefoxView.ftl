@@ -94,20 +94,36 @@ firefoxview-collapse-button-show =
     .title = Pokaži popis
 firefoxview-collapse-button-hide =
     .title = Sakrij popis
+firefoxview-overview-nav = Nedavno pregledavanje
+    .title = Nedavno pregledavanje
+firefoxview-overview-header = Nedavno pregledavanje
+    .title = Nedavno pregledavanje
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Povijest
+    .title = Povijest
 firefoxview-history-header = Povijest
+firefoxview-history-context-delete = Izbriši iz povijesti
+    .accesskey = I
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Otvorene kartice
+    .title = Otvorene kartice
+firefoxview-opentabs-header = Otvorene kartice
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nedavno zatvorene kartice
+    .title = Nedavno zatvorene kartice
 firefoxview-recently-closed-header = Nedavno zatvorene kartice
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Kartice s drugih uređaja
+    .title = Kartice s drugih uređaja
+firefoxview-synced-tabs-header = Kartice s drugih uređaja
 
 ##
 
@@ -123,6 +139,18 @@ firefoxview-opentabs-current-window-header =
     .title = Prozor { $winID } (trenutačni)
 firefoxview-show-more = Prikaži više
 firefoxview-show-less = Prikaži manje
+firefoxview-show-all = Prikaži sve
+firefoxview-search-text-box-clear-button =
+    .title = Izbriši
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Traži
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Povijest pretraživanja
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Pretraživanje nedavno zatvorenih kartica
 firefoxview-sort-history-by-date-label = Poredaj prema datumu
 firefoxview-sort-history-by-site-label = Poredaj prema web stranici
 
