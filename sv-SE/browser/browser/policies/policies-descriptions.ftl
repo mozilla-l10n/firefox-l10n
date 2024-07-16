@@ -119,6 +119,7 @@ policy-Permissions2 = Konfigurera behörigheter för kamera, mikrofon, plats, av
 policy-PictureInPicture = Aktivera eller inaktivera bild-i-bild.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
+policy-PrivateBrowsingModeAvailability = Ange tillgänglighet för privat surfläge.
 policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.
 policy-Proxy = Ange inställningar för proxy.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
