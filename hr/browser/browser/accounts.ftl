@@ -103,3 +103,9 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Pogledaj nedavno zatvorene kartice
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount }{ -brand-short-name } kartica zatvorena
+        [few] { $closedCount }{ -brand-short-name } kartice zatvorene
+       *[other] { $closedCount }{ -brand-short-name } kartica zatvoreno
+    }
