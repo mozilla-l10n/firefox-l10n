@@ -6,6 +6,9 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-devtools-compatibility-panel =
+    .label = Orodja za razvijalce: plošča Združljivost
+experimental-features-devtools-compatibility-panel-description = Stranska plošča ob pregledovalniku strani, ki prikazuje podatke o združljivosti aplikacije med brskalniki. Za več podrobnosti glejte <a data-l10n-name="bugzilla">hrošč 1584464</a>.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -15,3 +18,16 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Orodja za razvijalce: Razhroščevanje Service Workerjev
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Omogoči poskusno podporo za Service Workerje na plošči razhroščevalnika. Ta zmožnost lahko upočasni razvojna orodja in poveča porabo pomnilnika.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Omogoči Warp, projekt, katerega cilj je izboljšanje delovanja JavaScripta in porabe pomnilnika.
+# Search during IME
+experimental-features-ime-search =
+    .label = Naslovna vrstica: prikaži rezultate med sestavljanjem IME
+experimental-features-group-browsing =
+    .label = Brskanje
+experimental-features-group-developer-tools =
+    .label = Razvojna orodja
+experimental-features-group-webpage-display =
+    .label = Prikaz spletnih strani
