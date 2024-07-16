@@ -24,6 +24,7 @@ translations-panel-settings-manage-languages =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-intro-2 = Настройте вашия език и предпочитанията си за превод на сайтове. Управлявайте изтеглянето на езици за офлайн превод.
 translations-settings-languages-column =
     .label = Езици
 translations-settings-close-dialog =
