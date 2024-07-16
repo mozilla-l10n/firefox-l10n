@@ -418,6 +418,8 @@ about-logins-import-report-row-description-no-change = Duplikat: točno podudara
 about-logins-import-report-row-description-modified = Postojeća prijava je aktualizirana
 about-logins-import-report-row-description-added = Dodana je nova prijava
 about-logins-import-report-row-description-no-change2 = Duplikat: Točno podudaranje postojećeg unosa
+about-logins-import-report-row-description-modified2 = Postojeći unos aktualiziran
+about-logins-import-report-row-description-added2 = Nova lozinka dodana
 about-logins-import-report-row-description-error = Greška: nedostaje polje
 
 ##
@@ -448,6 +450,18 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikat prijave</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nova lozinka dodana</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nove lozinke dodane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Novih lozinki dodano</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojeći unos dodan</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojeća unosa dodana</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojećih unosa dodano</div>
     }
 about-logins-import-report-error =
     { $count ->
