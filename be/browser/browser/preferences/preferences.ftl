@@ -1119,6 +1119,9 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 addressbar-locbar-showrecentsearches-option =
     .label = Паказваць апошнія пошукі
     .accesskey = к
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Паказваць папулярныя пошукавыя прапановы
+    .accesskey = п
 addressbar-quickactions-learn-more = Падрабязней
 
 ## Privacy Section - Content Blocking
