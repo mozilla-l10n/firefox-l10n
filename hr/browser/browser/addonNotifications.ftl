@@ -50,6 +50,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Tvoj administrator sustava je blokirao dodatak { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Tvoj administrator sustava je spriječio ovu stranicu da te zatraži instalirati softver na računalo.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Tvoja je organizacija blokirala dodatak { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Tvoja je organizacija spriječila ovu stranicu da te zatraži da instaliraš softver na računalo.
 addon-install-full-screen-blocked = Instaliranje dodatka nije dopušteno za vrijeme ili prije ulaska u cjeloekranski prikaz.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -57,6 +64,10 @@ webext-perms-sideload-menu-item = Dodatak je { $addonName } dodan u { -brand-sho
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } traži nova dopuštenja
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Završi instaliranje proširenja uvezenih u { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -117,6 +128,7 @@ addon-install-error-incorrect-hash = Ovaj dodatak nije moguće instalirati jer s
 addon-install-error-corrupt-file = Dodatak preuzet s ove stranice nije moguće instalirati jer je oštećen.
 addon-install-error-file-access = { $addonName } nije moguće instalirati jer { -brand-short-name } ne može urediti potrebnu datoteku.
 addon-install-error-not-signed = { -brand-short-name } je spriječio instalaciju neprovjerenog dodatka.
+addon-install-error-invalid-domain = Dodatak { $addonName } se ne može instalirati s ove lokacije.
 addon-local-install-error-network-failure = Ovaj dodatak nije moguće instalirati zbog greške s datotečnim sustavom.
 addon-local-install-error-incorrect-hash = Ovaj dodatak nije moguće instalirati jer se ne podudara s dodatkom kojeg je { -brand-short-name } očekivao.
 addon-local-install-error-corrupt-file = Ovaj dodatak nije moguće instalirati jer je najvjerojatnije oštećen.

@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Prikaži više kartica
     .tooltiptext = Prikaz više kartica s ovoga uređaja
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Neaktivne kartice
+    .tooltiptext = Pogledaj neaktivne kartice na ovom uređaju
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih kartica
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -259,6 +263,8 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
     .label = Proširenja za razvijatelje
+appmenuitem-report-broken-site =
+    .label = Prijavi pokvarenu web stranicu
 
 ## Panel for privacy and security products
 
