@@ -367,21 +367,21 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Uvoz je dovršen
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
-        [few] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
-       *[other] <span>Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [one] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [few] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+       *[other] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
@@ -409,6 +409,7 @@ about-logins-import-dialog-error-try-import-again = Pokušaj ponovno uvesti…
 about-logins-import-dialog-error-cancel = Odustani
 about-logins-import-report-title = Sažetak uvoza
 about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-short-name }.
+about-logins-import-report-description2 = Lozinke uvezene u { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -416,6 +417,7 @@ about-logins-import-report-row-index = { $number }. redak
 about-logins-import-report-row-description-no-change = Duplikat: točno podudaranje postojeće prijave
 about-logins-import-report-row-description-modified = Postojeća prijava je aktualizirana
 about-logins-import-report-row-description-added = Dodana je nova prijava
+about-logins-import-report-row-description-no-change2 = Duplikat: Točno podudaranje postojećeg unosa
 about-logins-import-report-row-description-error = Greška: nedostaje polje
 
 ##
