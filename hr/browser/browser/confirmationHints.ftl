@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Prijavljeno. Hvala!
 confirmation-hint-login-removed = Prijava je uklonjena!
+confirmation-hint-password-removed = Lozinka je uklonjena!
 confirmation-hint-page-bookmarked = Spremljeno u zabilješke
 confirmation-hint-password-saved = Lozinka je spremljena!
 confirmation-hint-password-created = Lozinka spremljena
@@ -16,3 +17,6 @@ confirmation-hint-address-updated = Adresa akutilizirana
 confirmation-hint-pin-tab = Zakačeno!
 confirmation-hint-pin-tab-description = Desni klik na karticu za otkačivanje.
 confirmation-hint-send-to-device = Poslano!
+confirmation-hint-firefox-relay-mask-created = Nova maska je stvorena!
+confirmation-hint-firefox-relay-mask-reused = Postojeća maska je ponovo korištena!
+confirmation-hint-screenshot-copied = Snimka ekrana je kopirana!

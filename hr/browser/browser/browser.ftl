@@ -655,6 +655,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Zatvori sliku u slici ({ $shortcut })
 picture-in-picture-panel-header = Slika u slici
 picture-in-picture-panel-headline = Ova web stranica ne preporučuje koristiti funkciju slika u slici
+picture-in-picture-panel-body = Videa se možda neće prikazivati onako kako je programer zamislio dok je aktivirana funkcija slika u slici.
 picture-in-picture-enable-toggle =
     .label = Svejedno aktiviraj
 
@@ -806,9 +807,9 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Neki audio ili video materijali na ovoj stranici koriste DRM softver koji može ograničiti što { -brand-short-name } može učiniti s njima.
 eme-notifications-drm-content-playing-manage = Upravljaj postavkama
-eme-notifications-drm-content-playing-manage-accesskey = m
+eme-notifications-drm-content-playing-manage-accesskey = U
 eme-notifications-drm-content-playing-dismiss = Odbaci
-eme-notifications-drm-content-playing-dismiss-accesskey = d
+eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 ## Password save/update panel
 
@@ -908,6 +909,7 @@ data-reporting-notification-button =
     .accesskey = O
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privatno pregledavanje
+content-analysis-panel-title = Zaštita podataka
 
 ## Unified extensions (toolbar) button
 
@@ -927,9 +929,20 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Proširenja
+    .tooltiptext =
+        Proširenja
+        Neka proširenja nisu dozvoljena
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = Uvijek me pitaj
+    .accesskey = U
+reset-pbm-panel-cancel-button =
+    .label = Odustani
+    .accesskey = O
 
 ## Autorefresh blocker
 
@@ -992,3 +1005,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Prikaži u mapi
+    .accessKey = m
