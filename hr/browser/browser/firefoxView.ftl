@@ -5,13 +5,22 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Pogledaj nedavno pregledavanje na prozorima i uređajima
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Zatvori
     .aria-label = Zatvori
+firefoxview-empty-state-icon =
+    .alt = Pažnja:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Upravo sada
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -27,10 +36,12 @@ firefoxview-tabpickup-adddevice-header = Sinkroniziraj { -brand-product-name } n
 firefoxview-tabpickup-adddevice-description = Preuzmi { -brand-product-name } za moblni uređaj i tamo se prijavi.
 firefoxview-tabpickup-adddevice-learn-how = Saznaj kako
 firefoxview-tabpickup-adddevice-primarybutton = Preuzmi { -brand-product-name } za mobilni uređaj
+firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel
 firefoxview-tabpickup-synctabs-header = Uključi sinkronizaciju kartica
 firefoxview-tabpickup-synctabs-description = Dozvoli da { -brand-short-name } dijeli kartice između uređaja.
 firefoxview-tabpickup-synctabs-learn-how = Saznaj kako
 firefoxview-tabpickup-synctabs-primarybutton = Sinkroniziraj otvorene kartice
+firefoxview-syncedtabs-synctabs-header = Aktualiziraj tvoje postavke sinkronizacije
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoj administrator deaktivirao sinkronizaciju.
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu
