@@ -40,7 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Talɣut tamaynut ara yettusneqden
 shopping-message-bar-warning-stale-analysis-button = Senqed tura
+shopping-message-bar-generic-error =
+    .heading = Ulac talɣut i yellan akka tura
+    .message = Aql-aɣ nxeddem ad nefru ugur-a. Ttxil-k, ssefqed-d ticki.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ulac ddeqs n tamiwin akka tura
+    .message = Mi ara yesɛu ufaris-a ugar n yiceggiren, ad nezmer ad nessefqed taɣara-s
+shopping-message-bar-warning-product-not-available =
+    .heading = Afaris ulac-it
+    .message = Ma twalaḍ afaris-a yuɣal-d deg taggazt, ini-aɣ-t-id, ad nexdem akken ara nessefqed iceggiren.
 shopping-message-bar-warning-product-not-available-button2 = Mmel tuɣalin n ufaris deg tawsa
+shopping-message-bar-thanks-for-reporting =
+    .heading = Tanemmirt ɣef tuzna n uneqqis!
+    .message = Ilaq ad nesεu isallan ɣef yiceggiren n ufaris-a sya ɣer 24 n yisragen. Ttxil-k, ssefqed-d ticki.
 shopping-message-bar-analysis-in-progress-title2 = Adenqed n tɣara n yilɣa
 shopping-message-bar-analysis-in-progress-message2 = Aya yezmer ad yeṭṭef 60 tsinin.
 # Variables:
