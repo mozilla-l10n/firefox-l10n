@@ -119,6 +119,7 @@ policy-Permissions2 = Configure permissions for camera, microphone, location, no
 policy-PictureInPicture = Enable or disable Picture-in-Picture.
 policy-PopupBlocking = Allow certain web sites to display popups by default.
 policy-Preferences = Set and lock the value for a subset of preferences.
+policy-PrivateBrowsingModeAvailability = Set availability of private browsing mode.
 policy-PromptForDownloadLocation = Ask where to save files when downloading.
 policy-Proxy = Configure proxy settings.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
