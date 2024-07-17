@@ -195,12 +195,28 @@ colorways-cfr-primarybutton = Odaberi kolorit
     .accesskey = O
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Oboji preglednik s ekskluzivnim { -brand-short-name } nijansama inspiriranim glasovima koji su promijenili kulturu.
+colorways-cfr-header-28days = Boje za „Neovisni glasovi” isteču 16. siječnja
+colorways-cfr-header-14days = Boje za „Neovisni glasovi” isteču za dva tjedna
+colorways-cfr-header-7days = Boje za „Neovisni glasovi” isteču ovaj tjedan
+colorways-cfr-header-today = Boje za „Neovisni glasovi” isteču danas
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Dopustiti da { -brand-short-name } odbije natpise kolačića?
+cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge zahtjeve za natpise kolačića.
+cfr-cbh-confirm-button = Odbij natpise kolačića
+    .accesskey = O
+cfr-cbh-dismiss-button = Ne sada
+    .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } je za tebe upravo odbio natpis kolačića
+cookie-banner-blocker-onboarding-body = Manje ometanja, manje kolačića koji te prate na ovoj stranici.
+cookie-banner-blocker-onboarding-learn-more = Saznaj više
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Sve što trebaš
+july-jam-body = Svakog mjeseca { -brand-short-name } blokira u prosjeku više od 3000 sustava za praćenje po korisniku te omogućuje siguran i brz pristup dobrom internetu.
+july-jam-set-default-primary = Koristi { -brand-short-name } za otvaranje mojih poveznica
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
