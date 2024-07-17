@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Čarobnjak uvoza
-
 import-from =
     { PLATFORM() ->
         [windows] Uvezi opcije, zabilješke, povijest pretraživanja, lozinke i ostale podatke iz:
        *[other] Uvezi postavke, zabilješke, povijest, lozinke i ostale podatke iz:
     }
-
 import-from-bookmarks = Uvezi zabilješke iz:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,34 +61,23 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
-
 no-migration-sources = Niti jedan program koji sadrži zabilješke, povijest pretraživanja ili lozinke nije pronađen.
-
 import-source-page-title = Uvezi postavke i podatke
 import-items-page-title = Stavke za uvoz
-
 import-items-description = Odaberi stavke za uvoz:
-
 import-permissions-page-title = Odobri { -brand-short-name }u dozvole
-
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS zahtijeva da izričito dopustiš da { -brand-short-name } pristupi podacima Safarija. Pritisni „Nastavi”, odaberi mapu „Safari” u dijaloškom okviru Findera koji se pojavi i zatim pritisni „Otvori”.
 import-migrating-page-title = Uvozi se …
-
 import-migrating-description = Sljedeće stavke se trenutačno uvoze …
-
 import-select-profile-page-title = Odaberi profil
-
 import-select-profile-description = Uvoz sljedećih profila je moguć iz:
-
 import-done-page-title = Uvoz završen
-
 import-done-description = Sljedeće stavke su uspješno uvezene:
-
 import-close-source-browser = Prije nastavka, provjeri je li odabrani preglednik zatvoren.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Popis čitanja (iz Safarija)
 imported-edge-reading-list = Popis čitanja (sa Edgea)
 
@@ -112,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Kolačići
 browser-data-cookies-label =
     .value = Kolačići
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -125,12 +111,10 @@ browser-data-history-label =
             [firefox] Povijest pregledavanja i zabilješke
            *[other] Povijest pregledavanja
         }
-
 browser-data-formdata-checkbox =
     .label = Spremljeno iz povijesti
 browser-data-formdata-label =
     .value = Spremljeno iz povijesti
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -139,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Spremljene prijave i lozinke
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -154,14 +137,15 @@ browser-data-bookmarks-label =
             [edge] Favoriti
            *[other] Zabilješke
         }
-
 browser-data-otherdata-checkbox =
     .label = Ostali podaci
 browser-data-otherdata-label =
     .label = Ostali podaci
-
 browser-data-session-checkbox =
     .label = Prozori i kartice
 browser-data-session-label =
     .value = Prozori i kartice
-
+browser-data-payment-methods-checkbox =
+    .label = Načini plaćanja:
+browser-data-payment-methods-label =
+    .value = Načini plaćanja:

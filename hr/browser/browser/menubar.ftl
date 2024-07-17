@@ -229,6 +229,9 @@ menu-history-undo-menu =
     .label = Nedavno zatvorene kartice
 menu-history-undo-window-menu =
     .label = Nedavno zatvoreni prozori
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Pretraži povijest
 
 ## Bookmarks Menu
 
@@ -241,6 +244,9 @@ menu-bookmark-tab =
     .label = Zabilježi trenutačnu karticu …
 menu-edit-bookmark =
     .label = Uredi ovu zabilješku …
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Pretraži zabilješke
 menu-bookmarks-all-tabs =
     .label = Dodaj sve kartice u zabilješke …
 menu-bookmarks-toolbar =
@@ -334,6 +340,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
     .accesskey = m
+menu-help-switch-device =
+    .label = Prelazak na novi uređaj
+    .accesskey = P
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -342,3 +351,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
+menu-report-broken-site =
+    .label = Prijavi pokvarenu stranicu

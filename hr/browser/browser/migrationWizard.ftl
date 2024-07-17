@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Lozinke iz CSV datoteke
+migration-wizard-migrator-display-name-file-bookmarks = Zabilješke iz HTML datoteke
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -51,6 +52,15 @@ migration-imported-edge-reading-list = Popis čitanja (sa Edgea)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } nema pristup profilima drugih preglednika koji su instalirani na ovom uređaju.
+migration-no-permissions-instructions = Za nastavak uvoza podataka iz jednog drugog preglednika, odobri da { -brand-short-name } pristupi njegovoj mapi profila.
+migration-no-permissions-instructions-step1 = Odaberi „Nastavi”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = U alatu za biranje datoteka idi na <code>{ $permissionsPath }</code> i odaberi „Odaberi”
 
 ## These strings will be displayed based on how many resources are selected to import
 
