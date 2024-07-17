@@ -1035,3 +1035,24 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mussar: '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Impussibel dad avrir la fanestra per selecziunar datotecas da Windows. I n’è betg reussì da tscherner ina datoteca u in ordinatur.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Impussibel dad avrir la fanestra per selecziunar datotecas da Windows. La datoteca vegn a vegnir memorisada en { $path }.
+file-picker-failed-save-nowhere = Impussibel dad avrir la fanestra per selecziunar datotecas da Windows. Betg chattà in ordinatur predefinì; la datoteca na vegn betg memorisada.
+file-picker-crashed-open = La fanestra per selecziunar datotecas da Windows è collabada. I n’è betg reussì da tscherner ina datoteca u in ordinatur.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = La fanestra per selecziunar datotecas da Windows è collabada. La datoteca vegn a vegnir memorisada en { $path }.
+file-picker-crashed-save-nowhere = La fanestra per selecziunar datotecas da Windows è collabada. Betg chattà in ordinatur predefinì; la datoteca na vegn betg memorisada.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Mussar en l’ordinatur
+    .accessKey = F
