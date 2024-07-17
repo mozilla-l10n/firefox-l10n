@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Показване на повече раздели
     .tooltiptext = Повече раздели от други устройства
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Неактивни раздели
+    .tooltiptext = Вижте неактивните раздели на това устройство
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма отворени раздели
 # This is shown when Sync is configured but syncing tabs is disabled.
