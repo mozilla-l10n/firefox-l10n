@@ -260,10 +260,26 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Otvoriti { -brand-short-name } svaki put kada ponovo pokreneš računalo?</strong> Sada možeš postaviti da se { -brand-short-name } automatski otvara kada ponovo pokreneš uređaj.
+launch-on-login-learnmore = Saznaj više
+launch-on-login-infobar-confirm-button = Da, otvori { -brand-short-name }
+    .accesskey = D
+launch-on-login-infobar-reject-button = Ne sada
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Otvoriti { -brand-short-name } svaki put kada ponovo pokreneš računalo?</strong> Za upravljanje postavkama pokretanja potraži „Pokretanje” u postavkama.
+launch-on-login-infobar-final-reject-button = Ne hvala
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Onemogući dosadne sustave za praćenje
+tail-fox-spotlight-primary-button = Koristi { -brand-short-name } za otvaranje mojih poveznica
+tail-fox-spotlight-secondary-button = Ne sada
