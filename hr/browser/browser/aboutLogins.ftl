@@ -300,6 +300,9 @@ about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvezi …
 about-logins-confirm-export-dialog-title2 = Napomena o izvozu lozinki
+about-logins-confirm-export-dialog-message2 =
+    Kada izvoziš, tvoje se lozinke spremaju u datoteku s čitljivim tekstom.
+    Kada završiš koristiti datoteku, preporučujemo da je izbrišeš kako drugi koji koriste ovaj uređaj ne bi mogli vidjeti tvoje lozinke.
 about-logins-confirm-export-dialog-confirm-button2 = Nastavi s izvozom
 about-logins-alert-import-title = Uvoz je dovršen
 about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
@@ -405,6 +408,18 @@ about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
+        [few] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
+       *[other] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezen)</span >
+        [few] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nisu uvezeni)</span >
+       *[other] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nisu uvezeni)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
@@ -480,6 +495,12 @@ about-logins-import-report-modified2 =
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojeći unos dodan</div>
         [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojeća unosa dodana</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Postojećih unosa dodano</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezen)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nisu uvezeni)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nisu uvezeni)</div>
     }
 about-logins-import-report-error =
     { $count ->
