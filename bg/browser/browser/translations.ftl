@@ -2,11 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-translations-button-loading =
+    .tooltiptext = Превежда се
+translations-panel-settings-button =
+    .aria-label = Управление настройките за превод
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } БЕТА
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Управление на езици
+translations-panel-settings-always-translate-unknown-language =
+    .label = Винаги да се превежда от този език
+translations-panel-settings-always-offer-translation =
+    .label = Винаги да се предлага превод
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Никога да не се превежда от { $language }
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = Никога да не се превежда този сайт
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
