@@ -318,13 +318,37 @@ newtab-wallpaper-brown = น้ำตาล
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = นามธรรม
+newtab-wallpaper-abstract-green = รูปร่างสีเขียว
+newtab-wallpaper-abstract-blue = รูปร่างสีน้ำเงิน
+newtab-wallpaper-abstract-purple = รูปร่างสีม่วง
+newtab-wallpaper-abstract-orange = รูปร่างสีส้ม
+newtab-wallpaper-gradient-orange = ไล่ระดับสีส้มและชมพู
+newtab-wallpaper-abstract-blue-purple = รูปร่างสีน้ำเงินและสีม่วง
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = ภาพถ่าย
+newtab-wallpaper-beach-at-sunrise = ชายหาดตอนพระอาทิตย์ขึ้น
+newtab-wallpaper-beach-at-sunset = ชายหาดตอนพระอาทิตย์ตก
+newtab-wallpaper-storm-sky = ท้องฟ้ามีพายุ
+newtab-wallpaper-sky-with-pink-clouds = ท้องฟ้ามีเมฆสีชมพู
+newtab-wallpaper-red-panda-yawns-in-a-tree = แพนด้าแดงหาวอยู่บนต้นไม้
+newtab-wallpaper-white-mountains = ภูเขาสีขาว
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = ภาพถ่ายโดย <a data-l10n-name="name-link">{ $author_string }</a> จาก <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = ลองเลือกสีสันที่คุณชอบ
+newtab-wallpaper-feature-highlight-content = เปลี่ยนโฉมแท็บใหม่ของคุณด้วยภาพพื้นหลัง
+newtab-wallpaper-feature-highlight-button = เข้าใจแล้ว
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = ปิด
+    .aria-label = ปิดป็อปอัป
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

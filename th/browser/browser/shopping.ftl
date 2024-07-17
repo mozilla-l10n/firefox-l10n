@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = เครื่องมือตร�
 shopping-adjusted-rating-label =
     .label = คะแนนที่ปรับแล้ว
 shopping-adjusted-rating-unreliable-reviews = เอาบทวิจารณ์ที่ไม่น่าเชื่อถือออกแล้ว
+shopping-adjusted-rating-based-reliable-reviews = อ้างอิงจากบทวิจารณ์ที่เชื่อถือได้
 
 ## Strings for the review reliability component
 
