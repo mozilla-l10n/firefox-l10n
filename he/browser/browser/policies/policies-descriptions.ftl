@@ -117,6 +117,7 @@ policy-Permissions2 = קביעת תצורה של הרשאות עבור מצלמ�
 policy-PictureInPicture = הפעלה או השבתה של תמונה בתוך תמונה.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
+policy-PrivateBrowsingModeAvailability = הגדרת הזמינות של מצב הגלישה הפרטית.
 policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצים בזמן הורדה.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
