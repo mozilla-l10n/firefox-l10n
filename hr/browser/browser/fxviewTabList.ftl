@@ -37,6 +37,10 @@ fxviewtabrow-save-to-pocket = Spremi u { -pocket-brand-name }
     .accesskey = S
 fxviewtabrow-copy-link = Kopiraj poveznicu
     .accesskey = K
+fxviewtabrow-close-tab = Zatvori karticu
+    .accesskey = Z
+fxviewtabrow-move-tab = Pomakni karticu
+    .accesskey = P
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

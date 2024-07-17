@@ -214,25 +214,46 @@ firefoxview-choose-browser-button = Odaberi preglednik
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ništa za pokazati
+firefoxview-dont-remember-history-empty-description = Zaštita tvoje privatnosti u središtu je onoga što radimo. Zato možeš kontrolirati aktivnost koju { -brand-short-name } pamti.
+firefoxview-dont-remember-history-empty-description-two = Na temelju tvojih trenutačnih postavki, { -brand-short-name } ne pamti tvoju aktivnost dok pregledavaš internet. <a data-l10n-name="history-settings-url-two">Promijeni postavke svoje povijesti ako želiš da se tvoja povijest pamti</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zatvori
+    .title = Zatvori
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Uvezi povijest iz jednog drugog web preglednika
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Na ovom uređaju nema otvorenih kartica
+firefoxview-syncedtabs-connect-another-device = Poveži jedan drugi uređaj
+firefoxview-pinned-tabs =
+    .title = Prikvačene kartice
+firefoxview-tabs =
+    .title = Kartice
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Prijeđi na { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Prijeđi na (zabilježeno) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Zabilježeno) { $url }
