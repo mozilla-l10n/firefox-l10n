@@ -226,6 +226,7 @@ fox-doodle-pin-secondary = Ne sada
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Za otvaranje PDF datoteka se sada koristi { -brand-short-name }.</strong> Uredi ili potpiši obrasce izravno u pregledniku. Za mijenjanje ove opcije potraži „PDF” u postavkama.
 set-default-pdf-handler-primary = Razumijem
 
 ## FxA sync CFR
@@ -239,10 +240,23 @@ fxa-sync-cfr-secondary = Podsjeti me kasnije
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-getting-new-device-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
+device-migration-fxa-spotlight-heavy-user-header = Nemoj zaboraviti spremiti sigurnosne kopije tvojih podataka
+device-migration-fxa-spotlight-heavy-user-body = Osiguraj da su važne informacije – poput zabilješke i lozinke – aktualizirane i zaštićene na svim tvojim uređajima.
+device-migration-fxa-spotlight-heavy-user-primary-button = Započni
+device-migration-fxa-spotlight-older-device-body = Račun aktualizira i štiti tvoje važne podatke na svakom uređaju koji povežeš.
+device-migration-fxa-spotlight-older-device-primary-button = Otvori račun
+device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u tvojoj budućnosti?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Slijedi nekoliko jednostavnih koraka da poneseš svoje zabilješke, povijest i lozinke sa sobom kada počneš koristiti novi uređaj.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kako izraditi sigurnosnu kopiju mojih podataka
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Postaviti { -brand-short-name } kao standardni čitač PDF datoteka?</strong> Koristi { -brand-short-name } za čitanje i uređivanje PDF datoteka koje su spremljene na tvom računalu.
+pdf-default-notification-set-default-button =
+    .label = Postavi kao standardno
+pdf-default-notification-decline-button =
+    .label = Ne sada
 
 ## Launch on login infobar notification
 
