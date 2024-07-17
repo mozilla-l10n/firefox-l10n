@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN d arameɣtu. Ɛreḍ tikelt-nniḍen.
 webauthn-pin-required-prompt = Ttxil-k·m sekcem PIN i yibenk-ik·im.
 webauthn-select-sign-result-unknown-account = Amiḍan arussin
+webauthn-a-passkey-label = Seqdec tasarut n uεeddi
+webauthn-another-passkey-label = Seqdec tasarut n uεeddi niḍen
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Tasarut n uεeddi i { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

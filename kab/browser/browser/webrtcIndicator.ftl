@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = iccer
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Aɣbalu arussin
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Beṭṭu n waccaren n yibenkan
     .accesskey = b
-
 webrtc-sharing-window = Aql-ak/am tbeṭṭuḍ asnas-nniḍen n Window.
 webrtc-sharing-browser-window = Tbeṭṭuḍ { -brand-short-name }.
 webrtc-sharing-screen = Aql-ak tbeṭṭuḍ akk agdil-inek.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Senqed beṭṭu
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Beṭṭu n usenqed d "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Beṭṭu n tkamirat d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Taɣdellest tebḍa d  { $tabCount } n yiccer
            *[other] Taɣdellest tebḍa d { $tabCount } n yiccaren
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Beṭṭu n usawaḍ d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Asawaḍ ibḍa d  { $tabCount } n yiccer
            *[other] Isawaḍen bḍan d { $tabCount } n yiccaren
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Beṭṭu n usnas d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Asnas ibḍa d  { $tabCount } n yiccer
            *[other] Isnasen bḍan d { $tabCount } n yiccaren
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Beṭṭu n ugdil d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Agdil ibḍa d  { $tabCount } n yiccer
            *[other] Iggdilen bḍan d { $tabCount } n yiccaren
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Beṭṭu n usfaylu d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Asfaylu ibḍa d  { $tabCount } n yiccer
            *[other] Isfuyla bḍan d { $tabCount } n yiccaren
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Beṭṭu n yiccer d "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,17 @@ webrtc-allow-share-camera-and-audio-capture = Sireg { $origin } akken ad iseqdec
 webrtc-allow-share-screen-and-microphone = Sireg { $origin } ad iseqdec aṣawaḍ wa ad iwali agdil-inek?
 webrtc-allow-share-screen-and-audio-capture = Sireg { $origin } ad isel i umselaw n yiccer-a u ad iwali agdil-inek?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Sireg afaylu-a adigan ad isel i umeslaw n yiccer-a?
+webrtc-allow-share-camera-with-file = Sireg afaylu-a adigan ad isegdec takamiṛat?
+webrtc-allow-share-microphone-with-file = Sireg afaylu-a adigan ad iseqdec asawaḍ?
+webrtc-allow-share-screen-with-file = Sireg afaylu-a adigan ad iseqdec agdil?
+webrtc-allow-share-camera-and-microphone-with-file = Sireg afaylu-a adigan ad iseqdec takamirat akked usawaḍ?
+webrtc-allow-share-camera-and-audio-capture-with-file = Sireg afaylu-a adigan akken ad iseqdec takamirat u ad isell i umeslaw n yiccer-a?
+webrtc-allow-share-screen-and-microphone-with-file = Sireg afaylu-a adigan ad iseqdec aṣawaḍ wa ad iwali agdil-inek?
+webrtc-allow-share-screen-and-audio-capture-with-file = Sireg afaylu-a adigan ad isel i umselaw n yiccer-a u ad iwali agdil-inek?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +182,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Sireg { $origin 
 
 webrtc-share-screen-warning = Bḍu kan igdilen akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč, ad rnun ad akren isefka-inek·inem usligen.
 webrtc-share-browser-warning = Bḍu kan { -brand-short-name } akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč·kemm, ad rnun ad akren isefka-inek·inem usligen.
-
 webrtc-share-screen-learn-more = Issin ugar
 webrtc-pick-window-or-screen = Fren asfaylu neɣ agdil
 webrtc-share-entire-screen = Akk agdil
@@ -220,8 +216,10 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Cfu ɣef leqsed-a
+webrtc-remember-allow-checkbox-camera = Sentem-it ɣef meṛṛa tikamiṛatin
+webrtc-remember-allow-checkbox-microphone = Sentem-it ɣef meṛṛa isawaḍen
+webrtc-remember-allow-checkbox-camera-and-microphone = Sentem-it ɣef meṛṛa tikamiṛatin d yisawaḍen
 webrtc-mute-notifications-checkbox = Sgugem ilɣa n usmel web mi ara tbeṭṭuḍ
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ur izmir ara ad isireg anekcum izgan ɣer ugdil-inek.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ur yizmir ara ad isireg anekcum izgan ɣer yiccer-inek amesalw war ma isuter anwa iccer ara yebḍu.
 webrtc-reason-for-no-permanent-allow-insecure = Tuqqna-inek ɣer usmel-a mačči d taɣelsant. Akken ad tḥerzeḍ iman-ik, { -brand-short-name } ad isireg anekcum deg tɣimit-a kan.

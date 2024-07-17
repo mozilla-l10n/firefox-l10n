@@ -215,6 +215,10 @@ select-translations-panel-translate-button =
     .label = Suqel
 select-translations-panel-try-again-button =
     .label = Ɛreḍ tikelt nniḍen
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Aḍris i yettwasuqlen ad d-iban dagi.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Asuqqel…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
@@ -228,3 +232,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Nesḥassef, ur nessefrak ara { $language } akka tura.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Nesḥassef, ur nessefrak ara tutlayt-a akka tura.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Iɣewwaren n usuqqel
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Tasuqilt temmed
