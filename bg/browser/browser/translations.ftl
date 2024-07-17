@@ -56,6 +56,24 @@ translations-settings-close-dialog =
 select-translations-panel-header = Превеждане
 # Text displayed above the from-language dropdown menu.
 select-translations-panel-from-label = От
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = На
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Опитайте с друг изходен език
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Копиране
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Копирано
+select-translations-panel-done-button =
+    .label = Готово
+select-translations-panel-translate-full-page-button =
+    .label = Превод на цялата страница
+select-translations-panel-try-again-button =
+    .label = Опитайте отново
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Преведеният текст ще се появи тук.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Превеждане…
 select-translations-panel-init-failure-message =
@@ -63,3 +81,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Възникна проблем при превода. Моля, опитайте отново.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Съжаляваме, но все още не поддържаме преводи от %1$s.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Настройки за преводи
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Преводът е завършен
