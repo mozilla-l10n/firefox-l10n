@@ -65,6 +65,7 @@ migration-no-permissions-instructions-step2 = U alatu za biranje datoteka idi na
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Uvezi sve dostupne podatke
+migration-no-selected-data-label = Nijedan podatak nije odabran za uvoz
 migration-selected-data-label = Uvezi odabrane podatke
 
 ##
@@ -75,13 +76,20 @@ migration-bookmarks-option-label = Zabilješke
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriti
 migration-logins-and-passwords-option-label = Spremi prijave i lozinke
+migration-passwords-option-label = Spremljene lozinke
 migration-history-option-label = Povijest pregledavanja
+migration-extensions-option-label = Proširenja
+migration-form-autofill-option-label = Podaci za automatsko ispunjavanje obrazaca
+migration-payment-methods-option-label = Načini plaćanja
 migration-cookies-option-label = Kolačići
 migration-session-option-label = Prozori i kartice
+migration-otherdata-option-label = Drugi podaci
 migration-passwords-from-file-progress-header = Uvezi datoteke lozinki
 migration-passwords-from-file-success-header = Lozinke su uspješno uvezene
+migration-passwords-from-file = Pregledavanje datoteke za lozinkama
 migration-passwords-new = Nove lozinke
 migration-passwords-updated = Postojeće lozinke
+migration-passwords-from-file-no-valid-data = Datoteka ne sadrži ispravne podatke za lozinke. Odaberi jednu drugu datoteku.
 migration-passwords-from-file-picker-title = Uvezi datoteku lozinki
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
