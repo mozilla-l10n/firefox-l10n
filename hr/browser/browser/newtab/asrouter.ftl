@@ -217,12 +217,21 @@ cookie-banner-blocker-onboarding-learn-more = Saznaj više
 july-jam-headline = Sve što trebaš
 july-jam-body = Svakog mjeseca { -brand-short-name } blokira u prosjeku više od 3000 sustava za praćenje po korisniku te omogućuje siguran i brz pristup dobrom internetu.
 july-jam-set-default-primary = Koristi { -brand-short-name } za otvaranje mojih poveznica
+fox-doodle-pin-headline = Dobro došao, dobro došla natrag
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ovo je kratki podsjetnik da svom omiljenom neovisnom pregledniku možeš pristupiti jednim klikom.
+fox-doodle-pin-primary = Koristi { -brand-short-name } za otvaranje mojih poveznica
+fox-doodle-pin-secondary = Ne sada
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Razumijem
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Novi uređaj u tvojoj budućnosti?
+fxa-sync-cfr-body = Osiguraj da imaš najnovije zabilješke, lozinke i kartice svaki put kada otvoriš novi { -brand-product-name } preglednik.
 fxa-sync-cfr-primary = Saznaj više
     .accesskey = S
 fxa-sync-cfr-secondary = Podsjeti me kasnije
