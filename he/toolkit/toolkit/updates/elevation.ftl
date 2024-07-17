@@ -18,3 +18,7 @@ elevation-more-elevated =
                                                יותקן בפעם הבאה ש־{ -brand-short-name } יופעל. ניתן להפעיל מחדש
                                                את { -brand-short-name } כעת, להמשיך בעבודה ולהפעיל מחדש מאוחר יותר, או לסרב
                                                לעדכון זה.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = לא להציג שוב
+    .accesskey = ל
+sandbox-unprivileged-namespaces-howtofix = כיצד לתקן בעיה זו
