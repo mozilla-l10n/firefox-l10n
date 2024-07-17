@@ -905,7 +905,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = パスワードの入力と管理には端末のログイン情報が必要です
+    .label = パスワードの入力と管理に端末のログイン情報を要求する
 forms-primary-pw-learn-more-link = 詳細情報
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1148,9 +1148,6 @@ content-blocking-fingerprinters = フィンガープリント採取
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 既知および疑わしいフィンガープリント採取
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護機能により現在のサイトへの Cookie が制限されているため、トラッカーはサイトを横断してあなたを追跡する Cookie を利用できません。
