@@ -65,6 +65,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sinkroniziraj svoje zabilješke svagdje.
 cfr-doorhanger-bookmark-fxa-body = Koristi ovu zabilješku na mobilnim uređajima. Započni s računom { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Koristi ovu zabilješku na mobilnim uređajima. Započni s jednim računom.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkroniziraj zabilješke sada …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
@@ -134,6 +135,10 @@ spotlight-public-wifi-vpn-link = Ne sada
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Bolji internet počinje s tobom
+spotlight-better-internet-body = Kada koristiš { -brand-short-name } glasaš za otvoren i pristupačan internet koji je bolji za sve.
+spotlight-peace-mind-header = Sve što trebaš
+spotlight-peace-mind-body = Svaki mjesec { -brand-short-name } blokira u prosjeku više od 3000 sustava za praćenje po korisniku, jer ništa – a posebno problematika privatnosti zbog sustava za praćenje – ne bi smjeli stajati između tebe i dobrog interneta.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Zadrži u Doku
