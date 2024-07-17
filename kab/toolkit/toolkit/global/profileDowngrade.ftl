@@ -5,13 +5,11 @@
 profiledowngrade-window2 =
     .title = Tessenkkreḍ lqem aqbuṛ n { -brand-product-name }
     .style = min-width: 490px;
-
 profiledowngrade-window-create =
     .label = Rnu amaɣnu amaynut
-
 profiledowngrade-sync = Aseqdec n lqem aqbuṛ n { -brand-product-name } izmer ad isexseṛ ticraḍ n yisebtar akked uzray n tunigin i yettwaskelsen yakan deg umaɣnu { -brand-product-name } yellan. Akken ad tettummesten telɣut-ik, rnu amaqnu amaynut i usebeddi-a n { -brand-short-name }. Tzemreḍ yal tikkelt ad teqqneḍ s { -fxaccount-brand-name } akken ad temtawiḍ ticraḍ-ik n yisebtar akked uzray n tunigin gar yimuɣna.
+profiledowngrade-sync2 = Aseqdec n lqem aqbuṛ n { -brand-product-name } izmer ad isexseṛ ticraḍ n yisebtar akked uzray n tunigin i yettwaskelsen yakan deg umaɣnu { -brand-product-name } yellan yakan. I ummesten telɣut-ik, rnu amaɣnu amaynut i usebeddi-a n { -brand-short-name }. Tzemreḍ yal tikkelt ad teqqneḍ s umiḍan i umtawi n ticraḍ n yisebtar akked uzray n tunigin gar yimuɣna.
 profiledowngrade-nosync = Aseqdec n lqem aqbuṛ n { -brand-product-name } izmer ad isexseṛ ticraḍ n yisebtar akked uzray n tunigin i yettwaskelsen yakan deg umaɣnu { -brand-product-name } yellan. Akken ad tettummesten telɣut-ik, rnu amaqnu amaynut i usebeddi-a n { -brand-short-name }.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
