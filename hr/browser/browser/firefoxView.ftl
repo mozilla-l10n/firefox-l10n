@@ -157,14 +157,38 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Pretraži otvorene kartice
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Rezultati pretraživanja za „{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } stranica
+        [few] { $count } stranice
+       *[other] { $count } stranica
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nema rezultata za „{ $query }”
 firefoxview-sort-history-by-date-label = Poredaj prema datumu
 firefoxview-sort-history-by-site-label = Poredaj prema web stranici
+firefoxview-sort-open-tabs-by-recency-label = Poredaj prema nedavnoj aktivnosti
+firefoxview-sort-open-tabs-by-order-label = Poredaj prema redoslijedu kartica
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Prijeđi na { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
-firefoxview-history-date-today = Danas - { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-yesterday = Jučer - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-today = Danas – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Jučer – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -173,15 +197,23 @@ firefoxview-history-site-localhost = (lokalne datoteke)
 ##
 
 firefoxview-show-all-history = Prikaži svu povijest
+firefoxview-view-more-browsing-history = Pogledaj još povijesti pregledavanja
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Vrati se tamo gdje si bio/bila
+firefoxview-history-empty-description = Dok pregledavaš internet, stranice koje posjećuješ će se ovdje zapisati.
+firefoxview-history-empty-description-two = Zaštita tvoje privatnosti u središtu je onoga što radimo. Zato možeš kontrolirati aktivnost koju { -brand-short-name } pamti, u svojim <a data-l10n-name="history-settings-url">postavkama povijesti</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Odaberi preglednik
+    .title = Odaberi preglednik
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ništa za pokazati
 
 ##
 
