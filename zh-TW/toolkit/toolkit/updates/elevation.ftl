@@ -14,3 +14,8 @@ elevation-finished-background = 更新:
 elevation-more-elevated =
     需要有系統管理員權限才能安裝此更新，此更新將在下次啟動 { -brand-short-name } 時安裝。
     您可以立刻重新啟動 { -brand-short-name }、繼續使用稍後再更新，或是拒絕此更新。
+sandbox-missing-unprivileged-namespaces = 在您目前的作業系統，{ -brand-short-name } 的某些安全性功能可能僅能提供較少保護。
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = 不要再顯示
+    .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = 如何修正此問題
