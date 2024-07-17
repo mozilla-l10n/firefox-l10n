@@ -122,7 +122,7 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
-    .message = Съжаляваме, но все още не поддържаме преводи от %1$s.
+    .message = Съжаляваме, но все още не поддържаме преводи от { $language }.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Настройки за преводи
