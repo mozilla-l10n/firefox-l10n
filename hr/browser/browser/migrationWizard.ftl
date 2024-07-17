@@ -249,6 +249,10 @@ migration-wizard-progress-success-extensions =
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } od { $quantity } proširenja
 migration-wizard-progress-extensions-support-link = Saznaj kako { -brand-product-name } uspoređuje proširenja
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nema proširenja koja se podudaraju
+migration-wizard-progress-extensions-addons-link = Pregledaj proširenja za { -brand-short-name }
 
 ##
 
@@ -263,4 +267,29 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } lozinke
        *[other] { $quantity } lozinki
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Od zadnjeg dana
+        [few] Od zadnja { $maxAgeInDays } dana
+       *[other] Od zadnjih { $maxAgeInDays } dana
+    }
+migration-wizard-progress-success-formdata = Povijest obrazaca
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } način plačanja
+        [few] { $quantity } načina plačanja
+       *[other] { $quantity } načina plačanja
+    }
+migration-wizard-safari-permissions-sub-header = Za uvoz Safarijevih knjižnih oznaka i povijesti pregledavanja:
 migration-wizard-safari-instructions-continue = Odaberi „Nastavi”
+migration-wizard-safari-instructions-folder = U popisu odaberi mapu Safari i odaberi „Otvori”

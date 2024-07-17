@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = od { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Preporuka
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Preporuka
     .tooltiptext = Preporuka dodatka
     .a11y-announcement = Dostupna je preporuka dodatka
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Preporuka
     .tooltiptext = Preporuka mogućnosti
     .a11y-announcement = Dostupna je preporuka mogućnosti
@@ -62,7 +64,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkroniziraj svoje zabilješke svagdje.
-cfr-doorhanger-bookmark-fxa-body = Koristi ovu zabilješku i na mobilnom uređaju. Pokreni { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Koristi ovu zabilješku na mobilnim uređajima. Započni s računom { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkroniziraj zabilješke sada …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
@@ -202,9 +204,6 @@ fxa-sync-cfr-secondary = Podsjeti me kasnije
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Koristiš stariji uređaj?
-device-migration-fxa-spotlight-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
-device-migration-fxa-spotlight-link = Podsjeti me kasnije
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
 
 ## Set as Default PDF Reader Infobar
@@ -215,4 +214,7 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Kako napravit
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
 
