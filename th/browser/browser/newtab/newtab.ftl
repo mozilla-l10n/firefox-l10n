@@ -234,6 +234,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } เป็นส่�
 newtab-pocket-save = บันทึก
 newtab-pocket-saved = บันทึกแล้ว
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = ค้นพบสุดยอดเว็บ
@@ -293,6 +296,31 @@ newtab-wallpaper-dark-panda = แพนด้าแดงที่ซ่อน�
 newtab-wallpaper-dark-sky = วิวเมืองใต้ท้องฟ้ายามค่ำคืน
 newtab-wallpaper-dark-mountain = วิวภูเขา
 newtab-wallpaper-dark-city = วิวเมืองสีม่วง
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = สีทึบ
+newtab-wallpaper-blue = น้ำเงิน
+newtab-wallpaper-light-blue = น้ำเงินอ่อน
+newtab-wallpaper-light-purple = ม่วงอ่อน
+newtab-wallpaper-light-green = เขียวอ่อน
+newtab-wallpaper-green = เขียว
+newtab-wallpaper-beige = เบจ
+newtab-wallpaper-yellow = เหลือง
+newtab-wallpaper-orange = ส้ม
+newtab-wallpaper-pink = ชมพู
+newtab-wallpaper-light-pink = ชมพูอ่อน
+newtab-wallpaper-red = แดง
+newtab-wallpaper-dark-blue = น้ำเงินเข้ม
+newtab-wallpaper-dark-purple = ม่วงเข้ม
+newtab-wallpaper-dark-green = เขียวเข้ม
+newtab-wallpaper-brown = น้ำตาล
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
