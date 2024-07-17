@@ -41,6 +41,18 @@ fxviewtabrow-close-tab = Zatvori karticu
     .accesskey = Z
 fxviewtabrow-move-tab = Pomakni karticu
     .accesskey = P
+fxviewtabrow-move-tab-start = Pomakni na početak
+    .accesskey = o
+fxviewtabrow-move-tab-end = Pomakni na kraj
+    .accesskey = m
+fxviewtabrow-move-tab-window = Pomakni u novi prozor
+    .accesskey = a
+fxviewtabrow-send-tab = Pošalji karticu na uređaj
+    .accesskey = n
+fxviewtabrow-pin-tab = Prikvači karticu
+    .accesskey = r
+fxviewtabrow-unpin-tab = Otkvači karticu
+    .accesskey = O
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
