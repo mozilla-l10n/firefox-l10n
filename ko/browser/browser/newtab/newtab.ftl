@@ -288,7 +288,7 @@ newtab-custom-weather-toggle =
     .label = 날씨
     .description = 오늘의 일기예보를 한눈에 보기
 newtab-custom-close-button = 닫기
-newtab-custom-settings = 설정 더 보기
+newtab-custom-settings = 추가 설정
 
 ## New Tab Wallpapers
 
