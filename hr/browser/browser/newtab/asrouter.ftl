@@ -178,9 +178,12 @@ firefoxview-cfr-primarybutton = Isprobaj ga
     .accesskey = I
 firefoxview-cfr-secondarybutton = Ne sada
     .accesskey = N
+firefoxview-cfr-header-v2 = Brzo nastavi tamo gdje si stao/stala
+firefoxview-cfr-body-v2 = Vrati nedavno zatvorene kartice i neprimjetno skači između uređaja koristeći { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Upoznaj { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Pogledaj kako radi
 firefoxview-spotlight-promo-secondarybutton = Preskoči
 
