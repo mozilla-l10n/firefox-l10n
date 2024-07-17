@@ -20,3 +20,8 @@ elevation-more-elevated =
     keer dat { -brand-short-name } start worden geïnstalleerd. U kunt
     { -brand-short-name } nu herstarten, doorgaan met werken en later herstarten, of deze
     update weigeren.
+sandbox-missing-unprivileged-namespaces = Sommige beveiligingsfuncties van { -brand-short-name } bieden mogelijk minder bescherming op uw huidige besturingssysteem.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Niet meer tonen
+    .accesskey = t
+sandbox-unprivileged-namespaces-howtofix = Hoe dit probleem op te lossen

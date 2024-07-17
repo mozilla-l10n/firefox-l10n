@@ -119,6 +119,7 @@ policy-Permissions2 = Toestemmingen voor camera, microfoon, locatie, notificatie
 policy-PictureInPicture = Picture-in-picture in- of uitschakelen.
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
+policy-PrivateBrowsingModeAvailability = Beschikbaarheid van privénavigatiemodus instellen.
 policy-PromptForDownloadLocation = Vragen waar gedownloade bestanden moeten worden opgeslagen.
 policy-Proxy = Proxyinstellingen configureren.
 policy-RequestedLocales = De lijst van gevraagde locales voor de toepassing instellen, op volgorde van voorkeur.
