@@ -105,13 +105,62 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV dokument
        *[other] TSV datoteka
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } dodana
+        [few] { $newEntries } dodane
+       *[other] { $newEntries } dodano
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } aktualizirana
+        [few] { $updatedEntries } aktualizirane
+       *[other] { $updatedEntries } aktualizirano
+    }
+migration-bookmarks-from-file-picker-title = Uvezi datoteku zabilješki
+migration-bookmarks-from-file-progress-header = Uvoz zabilješki
 migration-bookmarks-from-file = Zabilješke
+migration-bookmarks-from-file-success-header = Zabilješke su uspješno uvezene
+migration-bookmarks-from-file-no-valid-data = Datoteka ne sadrži podatke zabilješki. Odaberi jednu drugu datoteku.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML dokument
+       *[other] HTML datoteka
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON datoteka
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } zabilješka
+        [few] { $newEntries } zabilješke
+       *[other] { $newEntries } zabilješki
+    }
 migration-import-button-label = Uvezi
 migration-choose-to-import-from-file-button-label = Uvezi iz datoteke
 migration-import-from-file-button-label = Odaberi datoteku
 migration-cancel-button-label = Odustani
 migration-done-button-label = Gotovo
 migration-continue-button-label = Nastavi
+migration-wizard-import-browser-no-browsers = { -brand-short-name } nije mogao pronaći nijedan program koji sadrži podatke o zabilješkama, povijesti ili lozinkama.
+migration-wizard-import-browser-no-resources = Dogodila se greška. { -brand-short-name } ne može pronaći podatke za uvoz iz tog profila preglednika.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -125,6 +174,9 @@ migration-list-bookmark-label = zabilješke
 migration-list-favorites-label = favoriti
 migration-list-password-label = lozinke
 migration-list-history-label = povijest
+migration-list-extensions-label = proširenja
+migration-list-autofill-label = podaci za automatsko ispunjavanje
+migration-list-payment-methods-label = načini plaćanja
 
 ##
 
