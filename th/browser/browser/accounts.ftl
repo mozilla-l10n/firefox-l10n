@@ -84,3 +84,10 @@ account-multiple-tabs-arriving-from-single-device = มี { $tabCount } แท�
 account-multiple-tabs-arriving-from-multiple-devices = มี { $tabCount } แท็บเข้ามาจากอุปกรณ์ที่เชื่อมต่อของคุณ
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = มี { $tabCount } แท็บเข้ามา
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = ดูแท็บที่ปิดล่าสุด
