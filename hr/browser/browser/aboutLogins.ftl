@@ -498,9 +498,9 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezen)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nisu uvezeni)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nisu uvezeni)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
     }
 about-logins-import-report-error =
     { $count ->
