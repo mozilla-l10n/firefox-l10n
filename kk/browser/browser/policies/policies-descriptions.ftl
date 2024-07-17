@@ -119,6 +119,7 @@ policy-Permissions2 = Камера, микрофон, орналасулар, х
 policy-PictureInPicture = Суреттегі сурет режимін іске қосу немесе сөндіру.
 policy-PopupBlocking = Кейбір веб-сайттарға үнсіз келісім бойынша қалқымалы хабарламаларды көрсетуге рұқсат ету.
 policy-Preferences = Баптаулардың бір жиыны үшін мәндерін орнату және бұғаттау.
+policy-PrivateBrowsingModeAvailability = Жекелік шолу режимінің қолжетімділігін орнату.
 policy-PromptForDownloadLocation = Жүктеп алу кезінде файлдарды сақтау орны туралы сұрау.
 policy-Proxy = Прокси баптауларын орнату.
 policy-RequestedLocales = Таңдау ретімен қолданба үшін сұралатын локальдер тізімін орнату.
