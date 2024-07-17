@@ -84,6 +84,16 @@ shopping-settings-recommendations-toggle =
     .label = Sken adellel deg umsenqad n tamawt
 shopping-settings-opt-out-button = Sens Amsenqed n tamawin
 powered-by-fakespot = Amsenqad n tamiwin yella d lmendad n <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Mira twaliḍ ifarisen ɣef { $firstSite }, { $secondSite }, akked { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Mira twaliḍ ifarisen ɣef { $currentSite }
 
 ## Strings for the adjusted rating component
 

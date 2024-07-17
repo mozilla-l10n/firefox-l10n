@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Ugar n telɣut ɣef Ummesten yettwaseǧehden mgal aḍfaṛ
 protections-panel-etp-on-header = Ammesten yettwaseǧehden mgal aḍfaṛ irmed i usmel-a
 protections-panel-etp-off-header = Ammesten yettwaseǧehden mgal aḍfaṛ yensa i usmel-a
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Ur iteddu ara usmel?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Ur iteddu ara usmel?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -33,11 +38,10 @@ protections-panel-etp-toggle-on =
     .label = Ammesten mgal aḍfaṛ yettwaseǧhed
     .description = Rmed i usmel-a
     .aria-label = Ammesten mgal aḍfaṛ yettwaseǧhed: Rmed i { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Ur iteddu ara usmel?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Ur iteddu ara usmel?
+protections-panel-etp-toggle-off =
+    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
+    .description = Sens i usmel-a
+    .aria-label = Ammesten mgal aḍfaṛ yettwaseǧhed: Sens i { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -104,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Cegger asmel yerẓen
 protections-panel-content-blocking-breakage-report-view-description = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.) <label data-l10n-name="learn-more">Issin ugar</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer { -vendor-short-name }.)
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -140,6 +143,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Sefsex
 protections-panel-cookie-banner-view-turn-off = Sens
 protections-panel-cookie-banner-view-turn-on = Rmed
+protections-panel-cookie-banner-blocker-view-turn-on-description = Rmed-it syen { -brand-short-name } ad yeɛreḍ ad yagi s wudem awurman akk iɣarracen n yinagan n tuqqna ɣef usmel-a.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Sefsex
 protections-panel-cookie-banner-view-turn-off-label =

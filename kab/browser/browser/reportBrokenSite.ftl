@@ -38,3 +38,4 @@ report-broken-site-panel-report-sent-header =
     .label = Tuzna-k n uneqqis tettwazen
     .title = Tuzna-k n uneqqis tettwazen
 report-broken-site-panel-invalid-url-label = Ma ulac aɣilif, sekcem URL ameɣtu
+report-broken-site-panel-missing-reason-label = Ma ulac aɣilif, fren ssebba
