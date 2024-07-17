@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Dodaj tražilicu
 newtab-topsites-add-shortcut-header = Novi prečac
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-edit-shortcut-header = Uredi prečac
+newtab-topsites-add-shortcut-label = Dodaj prečac
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Upiši naslov
@@ -230,6 +231,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dio { -brand-pro
 newtab-pocket-save = Spremi
 newtab-pocket-saved = Spremljeno
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Otkrij najbolje na webu
@@ -258,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponzorirani prečaci
 newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Preporuke iz { -pocket-brand-name(case: "gen") }
-    .description = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponzorirane priče
 newtab-custom-pocket-show-recent-saves = Prikaži nedavna spremanja
 newtab-custom-recent-title = Nedavna aktivnost
@@ -270,3 +271,18 @@ newtab-custom-recent-toggle =
     .description = Izbor nedavno posjećenih stranica i sadržaja
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+

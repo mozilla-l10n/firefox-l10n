@@ -281,5 +281,6 @@ launch-on-login-infobar-final-reject-button = Ne hvala
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Onemogući dosadne sustave za praćenje
+tail-fox-spotlight-subtitle = Reci zbogom dosadnim oglasima za praćenje i uživaj u sigurnijem i bržem internetskom iskustvu.
 tail-fox-spotlight-primary-button = Koristi { -brand-short-name } za otvaranje mojih poveznica
 tail-fox-spotlight-secondary-button = Ne sada
