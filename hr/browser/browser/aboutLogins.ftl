@@ -130,6 +130,9 @@ about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
 login-item-tooltip-message = Provjeri podudara li se adresa web stranice na kojoj se prijavljuješ.
 about-logins-origin-tooltip2 = Upiši punu adresu i provjeri da točno odgovara stranici na kojoj se prijavljuješ.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Osiguraj spremanje tvoje trenutačne lozinke za ovu stranicu. Mijenjanje lozinke ovdje ne mijenja je za { $webTitle }.
 about-logins-add-password-tooltip = Osiguraj spremanje tvoje trenutačne lozinke za ovu stranicu.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -144,6 +147,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spremi promjene
+about-logins-login-item-save-changes-button = Spremi
 login-item-save-new-button = Spremi
 login-item-cancel-button = Odustani
 
@@ -171,6 +175,15 @@ about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, upi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredi spremljenu prijavu
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] promijeni postavke za lozinke
+       *[other] { -brand-short-name } pokušava promijeniti postavke za lozinke. Za dozvoljavanje mijenjanja postavki koristi svoj uređaj za prijavu.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Za uređivanje tvoje lozinke, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = uredi spremljenu lozinku
@@ -189,6 +202,8 @@ about-logins-export-password-os-auth-dialog-message-win = Za izvoz tvojih prijav
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izvezi spremljene prijave i lozinke
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Za izvoz tvojih lozinki, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = izvezi spremljene lozinke
@@ -197,7 +212,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = izvezi spremljene 
 
 about-logins-primary-password-notification-message = Za prikaz spremljenih prijava i lozinki, upiši primarnu lozinku
 master-password-reload-button =
-    .label = Prijava
+    .label = Prijavi se
     .accesskey = r
 
 ## Dialogs
@@ -284,6 +299,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvezi …
+about-logins-confirm-export-dialog-title2 = Napomena o izvozu lozinki
 about-logins-confirm-export-dialog-confirm-button2 = Nastavi s izvozom
 about-logins-alert-import-title = Uvoz je dovršen
 about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
