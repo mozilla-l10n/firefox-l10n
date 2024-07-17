@@ -635,6 +635,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nedavne pretrage
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = U trendu na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ne prikazuj popularna pretraživanja
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Zašto ovo vidim?
+    .accesskey = Z
 
 ## Reader View toolbar buttons
 
@@ -900,6 +912,7 @@ restore-session-startup-suggestion-button = Pokaži mi kako
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Tvoja je organizacija blokirala pristup lokalnim datotekama na ovom računalu
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -960,6 +973,10 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (Nepotvrđeno)
 popup-notification-xpinstall-prompt-learn-more = Naučite više o sigurnom instaliranju dodataka
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Pokreni u privatnim prozorima
+    .accesskey = P
 
 ## Pop-up warning
 
