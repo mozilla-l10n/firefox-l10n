@@ -184,6 +184,8 @@ firefoxview-cfr-body-v2 = Vrati nedavno zatvorene kartice i neprimjetno skači i
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Upoznaj { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Želiš tu otvorenu karticu na svom mobitelu? Zgrabi je. Trebaš upravo posjećenu stranicu? Trenutno se pojavljuje s preglednikom { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Pogledaj kako radi
 firefoxview-spotlight-promo-secondarybutton = Preskoči
 
