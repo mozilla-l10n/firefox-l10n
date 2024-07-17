@@ -26,4 +26,5 @@ default-browser-prompt-button-secondary = Не сега
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-info-page = Покажи ми
 default-browser-guidance-notification-dismiss = Готово

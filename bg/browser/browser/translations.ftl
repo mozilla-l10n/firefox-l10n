@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button =
+    .tooltiptext = Превеждане на тази страница
 urlbar-translations-button-loading =
     .tooltiptext = Превежда се
 translations-panel-settings-button =
@@ -32,15 +35,19 @@ translations-panel-settings-never-translate-site =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = Да се преведе ли тази страница?
+translations-panel-learn-more-link = Научете повече
 translations-panel-error-translating = Възникна проблем при превода. Моля, опитайте отново.
 translations-panel-error-load-languages-hint = Проверете връзката си с интернет и опитайте отново.
 translations-panel-error-load-languages-hint-button =
     .label = Опитайте отново
+translations-panel-error-unsupported = Преводът не е наличен за тази страница
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Превод от
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -58,11 +65,17 @@ translations-manage-download-button = Изтегляне
 translations-manage-delete-button = Изтриване
 translations-manage-intro-2 = Настройте вашия език и предпочитанията си за превод на сайтове. Управлявайте изтеглянето на езици за офлайн превод.
 translations-manage-download-description = Изтегляне на езици за офлайн превод
+translations-manage-language-download-button =
+    .label = Изтегляне
+translations-manage-language-download-all-button =
+    .label = Изтегляне на всички
+    .accesskey = в
 translations-manage-language-remove-button =
     .label = Премахване
 translations-manage-language-remove-all-button =
     .label = Премахване на всички
     .accesskey = е
+translations-manage-error-download = Възникна проблем при изтеглянето на езиковите файлове. Моля, опитайте отново.
 translations-settings-always-translate-langs-description = Сайтове на изброените по-долу езици ще се превеждат автоматично
 translations-settings-never-translate-langs-description = Няма да бъде предлаган превод за следните езици
 translations-settings-languages-column =

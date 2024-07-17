@@ -802,12 +802,19 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Питане за запазване на паролите
+    .accesskey = а
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
 forms-generate-passwords =
     .label = Предлагане и създаване на силни пароли
     .accesskey = р
+forms-suggest-passwords =
+    .label = Предлагане на силни пароли
+    .accesskey = с
 forms-breach-alerts =
     .label = Показване на известия за изтекли пароли от взломени страници
     .accesskey = и
