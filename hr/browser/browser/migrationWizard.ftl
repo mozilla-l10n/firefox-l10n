@@ -184,12 +184,21 @@ migration-wizard-progress-header = Uvoz podataka
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = Podaci su uspješno uvezeni
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Uvoz podataka je završen
 migration-wizard-progress-icon-in-progress =
-    .aria-label = Uvoz …
+    .aria-label = Uvozi se …
 migration-wizard-progress-icon-completed =
     .aria-label = Završeno
 migration-safari-password-import-header = Uvezi lozinke iz Safarija
 migration-safari-password-import-steps-header = Za uvoz Safari lozinki:
+migration-safari-password-import-step1 = U pregledniku Safari otvori izbornik „Safari” i idi na Postavke > Lozinke
+migration-safari-password-import-step2 = Odaberi gumb <img data-l10n-name="safari-icon-3dots"/> i odaberi opciju „Izvezi sve lozinke”
+migration-safari-password-import-step3 = Spremi datoteku s lozinkama
+migration-safari-password-import-step4 = Koristi opciju „Odaberi datoteku” za biranje spremljene datoteke s lozinkama
 migration-safari-password-import-skip-button = Preskoči
 migration-safari-password-import-select-button = Odaberi datoteku
 # Shown in the migration wizard after importing bookmarks from another
@@ -221,6 +230,25 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } proširenje
+        [few] { $quantity } proširenja
+       *[other] { $quantity } proširenja
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } od { $quantity } proširenja
+migration-wizard-progress-extensions-support-link = Saznaj kako { -brand-product-name } uspoređuje proširenja
 
 ##
 
