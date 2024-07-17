@@ -111,6 +111,12 @@ tabbrowser-confirm-caretbrowsing-title = Tunigin s teḥnaccaṭ
 tabbrowser-confirm-caretbrowsing-message = Asiti ɣef F7 ad irmed neɣ ad isens tunigin s teḥnaccat. Tamahilt-a ad tsers taḥnaccaṭ i ileḥḥun  deg yisebtar n web, ayen ara ak-yeǧǧen ad tferneḍ aḍris s unasiw. Tebɣiḍ ad tremdeḍ tunigin s teḥnaccaṭ?
 tabbrowser-confirm-caretbrowsing-checkbox = Ur iy-id-skan ara akka d asawen tanaka-yagi n udiwenni.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Ḥader
+tabbrowser-confirm-close-all-duplicate-tabs-title = Mdel accaren i d-yettεawden?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Mdel accaren
+
 ##
 
 # Variables:

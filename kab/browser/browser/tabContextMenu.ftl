@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mdel aṭas n waccaren
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Mdel accaren i d-yettεawden
+    .accesskey = e
 tab-context-share-url =
     .label = Bḍu
     .accesskey = B
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Senkez iccaren
         }
     .accesskey = S
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

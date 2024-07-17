@@ -125,22 +125,19 @@ translations-manage-description = Sader tutlayin i usuqqel aruqqin.
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
+translations-manage-download-description = Sader tutlayin i usuqqel aruqqin
 translations-manage-language-download-button =
     .label = Sader
+translations-manage-language-download-all-button =
+    .label = Sader kullec
+    .accesskey = S
 translations-manage-language-remove-button =
     .label = Kkes
 translations-manage-language-remove-all-button =
     .label = Kkes kullec
     .accesskey = e
-translations-manage-error-install = Yella-d wugur deg usebded n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-download = Yella-d wugur deg usader n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-delete = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
-translations-manage-install-description = Sebded tutlayin i usuqqel aruqqin.
-translations-manage-language-install-button =
-    .label = Sebded
-translations-manage-language-install-all-button =
-    .label = Sebded kullec
-    .accesskey = S
 translations-manage-error-remove = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-settings-title =
     .title = Iɣewwaren n tsuqqilin
@@ -168,8 +165,52 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Mdel
     .buttonaccesskeyaccept = M
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Suqqel tafrant…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Suqqel tafrant ɣer { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Suqqel aḍris n useɣwen…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Suqqel aḍris n useɣwen ɣer { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tasuqilt
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Si
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = I
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Ɛreḍ tutlayt taɣbalut niḍen
 select-translations-panel-cancel-button =
     .label = Sefsex
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Nɣel
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Yettwanɣel
+select-translations-panel-done-button =
+    .label = Immed
+select-translations-panel-translate-full-page-button =
+    .label = Suqel asebter ummid
 select-translations-panel-translate-button =
     .label = Suqel
 select-translations-panel-try-again-button =
