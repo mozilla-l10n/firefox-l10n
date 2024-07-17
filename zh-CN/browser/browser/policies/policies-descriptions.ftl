@@ -119,6 +119,7 @@ policy-Permissions2 = 配置摄像头、麦克风、位置、通知和自动播�
 policy-PictureInPicture = 启用或禁用画中画。
 policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
 policy-Preferences = 设置并锁定若干首选项的值。
+policy-PrivateBrowsingModeAvailability = 设置隐私浏览模式的可用性。
 policy-PromptForDownloadLocation = 下载前询问文件保存位置。
 policy-Proxy = 配置代理设置
 policy-RequestedLocales = 设置应用程序表明语言区域偏好的语言区域请求列表。
