@@ -20,6 +20,7 @@ elevation-more-elevated =
     installate le proxime vice que { -brand-short-name } se initia. Tu pote reinitiar
     { -brand-short-name } ora, continuar a laborar e reinitiar plus tarde, o rejectar iste
     actualisation.
+sandbox-missing-unprivileged-namespaces = Alcun function de securitate de { -brand-short-name } poterea offerer minus protection con le systema operative axtal.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Non plus monstrar.
     .accesskey = N
