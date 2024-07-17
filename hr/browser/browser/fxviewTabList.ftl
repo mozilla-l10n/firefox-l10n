@@ -53,6 +53,10 @@ fxviewtabrow-pin-tab = Prikvači karticu
     .accesskey = r
 fxviewtabrow-unpin-tab = Otkvači karticu
     .accesskey = O
+fxviewtabrow-mute-tab = Isključi zvuk kartice
+    .accesskey = I
+fxviewtabrow-unmute-tab = Uključi zvuk kartice
+    .accesskey = U
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -60,3 +64,7 @@ fxviewtabrow-options-menu-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Isključi zvuk kartice
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Uključi zvuk kartice

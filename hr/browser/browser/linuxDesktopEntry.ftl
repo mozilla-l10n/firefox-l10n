@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Pregledaj World Wide Web
 desktop-entry-generic-name = Web preglednik
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name } web preglednik
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -22,3 +24,4 @@ desktop-entry-keywords = Internet;WWW;Preglednik;Web;Istraživač;
 
 desktop-action-new-window-name = Novi prozor
 desktop-action-new-private-window-name = Novi privatni prozor
+desktop-action-open-profile-manager = Otvori upravljač profila

@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
-
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -143,6 +147,8 @@ menu-view-history-button =
     .label = Povijest
 menu-view-synced-tabs-sidebar =
     .label = Sinkronizirane kartice
+menu-view-megalist-sidebar =
+    .label = Lozinke
 menu-view-full-zoom =
     .label = Zumiraj
     .accesskey = Z
