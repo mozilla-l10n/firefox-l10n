@@ -119,6 +119,7 @@ policy-Permissions2 = Configurar le permissiones pro camera, microphono, positio
 policy-PictureInPicture = Activar o disactivar Imagine annidate
 policy-PopupBlocking = Permitter a certe sitos web de monstrar fenestras emergente per predefinition.
 policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
+policy-PrivateBrowsingModeAvailability = Predefini le disponibilitate del modalitate Navigation private.
 policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.
 policy-Proxy = Configurar le parametros del servitor proxy.
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
