@@ -91,3 +91,4 @@ account-multiple-tabs-arriving-from-unknown-device = มี { $tabCount } แท
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = ดูแท็บที่ปิดล่าสุด
+account-tabs-closed-remotely = ปิดแท็บ { -brand-short-name } { $closedCount } แท็บแล้ว
