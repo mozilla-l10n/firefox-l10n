@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = Потвърждаване на профил
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = Акаунт
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Компютърът се синхронизира с { $deviceName }.
