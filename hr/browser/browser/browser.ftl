@@ -211,7 +211,7 @@ search-one-offs-context-set-as-default =
     .label = Postavi kao zadanu tražilicu
     .accesskey = d
 search-one-offs-context-set-as-default-private =
-    .label = Postavi kao zadanu tražilicu za privatne prozore
+    .label = Postavi kao standardnu tražilicu za privatne prozore
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -471,8 +471,8 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Zvučnici
 popup-select-window-or-screen =
-    .label = Prozor ili zaslon:
-    .accesskey = z
+    .label = Prozor ili ekran:
+    .accesskey = P
 popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 
 ## WebRTC window or screen share tab switch warning
