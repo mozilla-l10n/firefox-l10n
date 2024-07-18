@@ -9,6 +9,9 @@ callout-primary-complete-button-label = Razumijem!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Skači između uređaja uz preuzimanje otvorenih kartica
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
