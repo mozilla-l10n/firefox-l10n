@@ -91,6 +91,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Upravljanje korištenjem priključaka
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Upravljaj dijeljenjem tvoje kamere i/ili mikrofona sa stranicom
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Upravljaj dijeljenjem drugih zvučnika s web stranicom
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Otvori ploču za automatsku reprodukciju
 urlbar-persistent-storage-notification-anchor =

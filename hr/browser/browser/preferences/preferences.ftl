@@ -1095,6 +1095,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Postavke…
     .accesskey = m
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Izbor zvučnika
+permissions-speaker-settings =
+    .label = Postavkev…
+    .accesskey = t
 permissions-notification = Obavijesti
 permissions-notification-settings =
     .label = Postavke…

@@ -179,6 +179,7 @@ permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristup
 permissions-site-speaker-window =
     .title = Postavke – Dozvole za zvučnike
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Sljedeće web-stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web-stranice koje smiju odabrati izlazni audio uređaj.
 permissions-doh-entry-field = Upiši ime domene web stranice
     .accesskey = d
 permissions-doh-add-exception =
