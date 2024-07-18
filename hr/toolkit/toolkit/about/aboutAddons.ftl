@@ -151,18 +151,18 @@ extensions-warning-check-compatibility2 =
     .message = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeru kompatibilnosti dodataka
-extensions-warning-update-security = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
+extensions-warning-update-security = Provjera sigurnosti aktualiziranja dodataka je isključena. Aktualiziranja mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security2 =
     .message = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
-extensions-warning-update-security-button = Omogući
-    .title = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
+extensions-warning-update-security-button = Aktiviraj
+    .title = Aktiviraj provjeru sigurnosti aktualiziranja dodataka
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Provjeri dostupnost dopuna
-    .accesskey = d
-addon-updates-view-updates = Prikaži nedavne dopune
-    .accesskey = v
+addon-updates-check-for-updates = Traži nove verzije
+    .accesskey = T
+addon-updates-view-updates = Prikaži nedavna aktualiziranja
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -185,8 +185,8 @@ addon-updates-reset-updates-to-manual = Postavi ručno aktualiziranje za sve dod
 
 addon-updates-updating = Aktualiziranje dodataka
 addon-updates-installed = Tvoji su dodaci aktualizirani.
-addon-updates-none-found = Nema dopuna
-addon-updates-manual-updates-found = Prikaži dostupne dopune
+addon-updates-none-found = Nema novih verzija
+addon-updates-manual-updates-found = Prikaži dostupne nove verzije
 
 ## Add-on install/debug strings for page options menu
 
@@ -360,7 +360,7 @@ addon-detail-updates-label = Dozvoli automatska aktualiziranja
 addon-detail-updates-radio-default = Standardno
 addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
-addon-detail-update-check-label = Provjeri dostupnost dopuna
+addon-detail-update-check-label = Traži nove verzije
 install-update-button = Aktualiziraj
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
@@ -392,8 +392,8 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = Dostupne dopune
-recent-updates-heading = Nedavne dopune
+available-updates-heading = Dostupne nove verzije
+recent-updates-heading = Nedavna aktualiziranja
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.

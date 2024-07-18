@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Povijest nadogradnji
-history-intro = Instalirane su sljedeće verzije
+history-intro = Instalirane su sljedeće nove verzije
 close-button-label =
     .buttonlabelcancel = Zatvori
     .title = Povijest nadogradnji
-no-updates-label = Još nema instaliranih dopuna
+no-updates-label = Još nema instaliranih novih verzija
 name-header = Naziv dopune
 date-header = Datum instalacije
 type-header = Vrsta
