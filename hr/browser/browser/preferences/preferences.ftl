@@ -553,16 +553,24 @@ search-suggestions-desc = Odaberi način prikaza prijedloga tražilica.
 search-suggestions-option =
     .label = Prikaži prijedloge za pretraživanje
     .accesskey = P
+search-show-suggestions-option =
+    .label = Prikaži prijedloge pretraživanja
+    .accesskey = P
 search-show-suggestions-url-bar-option =
-    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
+    .label = Prikaži prijedloge pretraživanja u rezultatima adresne trake
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Prikaži pojmove pretraživanja umjesto URL-a na standardnoj stranici s rezultatima tražilice
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake prije povijesti pregledavanja
+    .label = Prikaži prijedloge pretraživanja u rezultatima adresne trake prije povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
 suggestions-addressbar-settings-generic2 = Promijeni postavke za ostale prijedloge adresne trake
@@ -934,8 +942,8 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = Prečaci (S)
-    .accesskey = S
+    .label = Prečaci
+    .accesskey = P
 addressbar-locbar-topsites-option =
     .label = Najbolje stranice
     .accesskey = N
@@ -943,6 +951,12 @@ addressbar-locbar-engines-option =
     .label = Tražilice
     .accesskey = a
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
+addressbar-locbar-showrecentsearches-option =
+    .label = Prikaži nedavna pretraživanja
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Prikaži prijedloge pretraživanja u trendu
+    .accesskey = t
 addressbar-quickactions-learn-more = Saznaj više
 
 ## Privacy Section - Content Blocking
@@ -1021,7 +1035,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Upravljenje iznimkama…
+    .label = Upravljanje iznimkama …
     .accesskey = v
 
 ## Privacy Section - Permissions
