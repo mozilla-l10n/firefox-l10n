@@ -7,23 +7,22 @@
 
 autofill-manage-addresses-title = Spremljene adrese
 autofill-manage-addresses-list-header = Adrese
-
 autofill-manage-credit-cards-title = Spremljene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Ukloni
 autofill-manage-add-button = Dodaj…
 autofill-manage-edit-button = Uredi…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Dodaj novu adresu
+address-capture-update-doorhanger-header = Aktualizirati adresu?
+address-capture-update-button =
+    .label = Aktualiziraj
+    .accessKey = A
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi adresu
-
 autofill-address-given-name = Ime
 autofill-address-additional-name = Srednje ime
 autofill-address-family-name = Prezime
@@ -81,19 +80,21 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Dodaj novu adresu
 autofill-address-country = Država ili pokrajina
 autofill-address-tel = Telefon
 autofill-address-email = Adresa e-pošte
-
 autofill-cancel-button = Odustani
 autofill-save-button = Spremi
 autofill-country-warning-message = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novu kreditnu karticu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditnu karticu
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +103,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici. U nastavku potvrdite pristup ovom Windows računu.
        *[other] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici.
     }
-
 autofill-card-number = Broj kartice
 autofill-card-invalid-number = Upiši ispravan broj kartice
 autofill-card-name-on-card = Ime na kartici

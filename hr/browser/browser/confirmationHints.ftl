@@ -14,6 +14,7 @@ confirmation-hint-password-created = Lozinka spremljena
 confirmation-hint-password-updated = Lozinka aktualizirana
 confirmation-hint-address-created = Adresa spremljena
 confirmation-hint-address-updated = Adresa akutilizirana
+confirmation-hint-credit-card-updated = Kreditna kartica aktualizirana
 confirmation-hint-pin-tab = Zakačeno!
 confirmation-hint-pin-tab-description = Desni klik na karticu za otkačivanje.
 confirmation-hint-send-to-device = Poslano!
