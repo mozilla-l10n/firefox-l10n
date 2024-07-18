@@ -98,6 +98,7 @@ firefoxview-change-colorway-button = Promijeni kolorit
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Još se nema što vidjeti
+firefoxview-synced-tabs-placeholder-body = Sljedeći put kada otvoriš stranicu u { -brand-product-name }u na jednom drugom uređaju, zgrabi je ovdje.
 firefoxview-collapse-button-show =
     .title = Pokaži popis
 firefoxview-collapse-button-hide =
@@ -145,6 +146,8 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Prozor { $winID } (trenutačni)
+firefoxview-opentabs-focus-tab =
+    .title = Prijeđi na ovu karticu
 firefoxview-show-more = Prikaži više
 firefoxview-show-less = Prikaži manje
 firefoxview-show-all = Prikaži sve
@@ -235,9 +238,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Uvezi povijest iz jednog drugog web preglednika
+firefoxview-import-history-description = Postavi { -brand-short-name } kao glavni preglednik. Uvezi povijest pregledavanja, zabilješke i još mnogo toga.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Prerano si zatvorio/la karticu?
+firefoxview-recentlyclosed-empty-description = Ovdje ćeš pronaći nedavno zatvorene kartice, tako da ih možeš brzo ponovo otvoriti.
+firefoxview-recentlyclosed-empty-description-two = Za pronalaženje kartica iz davne prošlosti, pogledaj <a data-l10n-name="history-url">povijest pregledavanja</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

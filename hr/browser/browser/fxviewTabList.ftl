@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Otvori { $targetURI } u novoj kartici
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Zatvori { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Odbaci { $tabTitle }
@@ -26,6 +30,8 @@ fxviewtabrow-just-now-timestamp = Upravo sada
 
 fxviewtabrow-delete = Izbriši
     .accesskey = I
+fxviewtabrow-forget-about-this-site = Zaboravi ovu stranicu …
+    .accesskey = Z
 fxviewtabrow-open-in-window = Otvori u novom prozoru
     .accesskey = O
 fxviewtabrow-open-in-private-window = Otvori u novom privatnom prozoru
