@@ -18,7 +18,7 @@ xpinstall-prompt-dont-allow =
     .label = Nemoj dozvoliti
     .accesskey = N
 xpinstall-prompt-never-allow =
-    .label = Nikad ne dozvoli
+    .label = Ne dozvoli nikada
     .accesskey = N
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.

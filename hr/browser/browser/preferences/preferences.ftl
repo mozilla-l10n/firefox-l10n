@@ -184,6 +184,7 @@ preferences-web-appearance-choice-dark = Tamna
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u sekciji <a data-l10n-name="themes-link">Dodaci i teme</a>
 preferences-colors-header = Boje
+preferences-colors-description = Prepiši standardne { -brand-short-name } boje za tekst, pozadinu web stranice i poveznice.
 preferences-colors-manage-button =
     .label = Upravljaj bojama …
     .accesskey = b
@@ -459,6 +460,8 @@ home-newtabs-mode-label = Nove kartice
 home-restore-defaults =
     .label = Vrati standardne vrijednosti
     .accesskey = r
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (standardno)
 home-mode-choice-custom =
     .label = Prilagođeni URL-ovi…
 home-mode-choice-blank =
@@ -482,6 +485,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
+home-prefs-content-description2 = Odaberi sadržaj koji želiš na { -firefox-home-brand-name } stranici.
 home-prefs-search-header =
     .label = Web pretraga
 home-prefs-shortcuts-header =

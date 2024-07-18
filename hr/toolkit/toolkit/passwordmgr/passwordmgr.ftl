@@ -12,7 +12,7 @@ password-manager-save-password-button-allow =
     .label = Spremi
     .accesskey = S
 password-manager-save-password-button-never =
-    .label = Nikad ne spremaj
+    .label = Nikada ne spremaj
     .accesskey = e
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
