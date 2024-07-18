@@ -49,8 +49,10 @@ firefoxview-syncedtabs-synctabs-header = Aktualiziraj tvoje postavke sinkronizac
 firefoxview-syncedtabs-synctabs-description = Za prikaz kartica s drugih uređaja moraš sinkronizirati otvorene kartice.
 firefoxview-syncedtabs-synctabs-checkbox = Dozvoli sinkronizaciju otvorenih kartica
 firefoxview-syncedtabs-loading-header = Sinkronizacija u tijeku
+firefoxview-syncedtabs-loading-description = Kada sinkronizacija završi, vidjet ćeš sve otvorene kartice s drugih uređaja. Navrati uskoro.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoj administrator deaktivirao sinkronizaciju.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoja organizacija deaktivirala sinkronizaciju.
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu
 firefoxview-tabpickup-network-offline-description = Ako koristiš vatrozid ili proxy, provjeri ima li { -brand-short-name } dozvolu za pristup webu.
 firefoxview-tabpickup-network-offline-primarybutton = Pokušaj ponovo
@@ -77,6 +79,8 @@ firefoxview-mobile-confirmation-description = Sada možeü preuzeti svoje { -bra
 firefoxview-closed-tabs-title = Nedavno zatvorene kartice
 firefoxview-closed-tabs-description2 = Ponovo otvori stranice koje si zatvorio/la u ovom prozoru.
 firefoxview-closed-tabs-placeholder-header = Nema nedavno zatvorenih kartica
+firefoxview-closed-tabs-placeholder-body = Kada zatvoriš karticu u ovom prozoru, možeš je preuzeti odavde.
+firefoxview-closed-tabs-placeholder-body2 = Kada zatvoriš karticu, možeš je preuzeti odavde.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
