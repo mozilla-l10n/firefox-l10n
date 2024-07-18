@@ -7,11 +7,13 @@
 
 more-from-moz-firefox-mobile-description = Mobilni preglednik koji stavlja tvoju privatnost na prvo mjesto.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Otkrij dodatni sloj anonimnog pregledavanja i zaštite.
 more-from-moz-learn-more-link = Saznaj više
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Zaštiti sandučić dolazne pošte i svoj identitet besplatnim maskiranjem e-mail adrese.
 more-from-moz-firefox-relay-button = Preuzmi { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
