@@ -3,27 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Povijest nadogradnji
-history-intro = Instalirane su sljedeće dopune
-
+history-intro = Instalirane su sljedeće verzije
 close-button-label =
     .buttonlabelcancel = Zatvori
     .title = Povijest nadogradnji
-
 no-updates-label = Još nema instaliranih dopuna
 name-header = Naziv dopune
 date-header = Datum instalacije
 type-header = Vrsta
 state-header = Stanje
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Detalji
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Instalirano: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Stanje: { $status }
