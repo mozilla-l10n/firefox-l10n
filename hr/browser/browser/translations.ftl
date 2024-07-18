@@ -23,9 +23,21 @@ urlbar-translations-button-intro =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Stranica prevedena iz jezika { $fromLanguage } u { $toLanguage }
+translations-panel-settings-button =
+    .aria-label = Upravljaj postavkama prijevoda
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Upravljaj jezicima
+translations-panel-settings-about = O prijevodima u { -brand-shorter-name }u
+translations-panel-settings-about2 =
+    .label = O prijevodima u { -brand-shorter-name }u
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -56,6 +68,23 @@ translations-panel-translate-button-loading =
     .label = Molimo pričekajte...
 translations-panel-translate-cancel =
     .label = Odustani
+translations-panel-learn-more-link = Saznaj više
+translations-panel-intro-header = Isprobaj privatne prijevode u pregledniku { -brand-shorter-name }
+translations-panel-error-load-languages-hint-button =
+    .label = Pokušaj ponovo
+translations-panel-error-unsupported = Prijevod nije dostupan za ovu stranicu
+translations-panel-error-dismiss-button =
+    .label = Razumijem
+translations-panel-error-change-button =
+    .label = Promijeni izvorni jezik
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Nažalost još ne podržavamo { $language } jezik.
+translations-panel-error-unsupported-hint-unknown = Nažalost, još ne podržavamo ovaj jezik.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
