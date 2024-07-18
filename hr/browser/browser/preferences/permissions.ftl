@@ -118,14 +118,14 @@ permissions-exceptions-addons-desc = Možeš odrediti web-stranice, koje smiju i
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Postavke - automatska reprodukcija
+    .title = Postavke – Automatska reprodukcija
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = Ovdje možeđ upravljati stranicama koje ne slijede standardne postavke za automatsku reprodukciju.
+permissions-site-autoplay-desc = Ovdje možeš upravljati stranicama koje ne slijede standardne postavke za automatsku reprodukciju.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Postavke - dozvole za obavijesti
+    .title = Postavke – Dozvole za obavijesti
     .style = { permissions-window2.style }
 permissions-site-notification-desc = Sljedeće web stranice su te zatražile odobrenje za slanje obavijesti. Možeš navesti web stranice kojima dozvoljavaš slanje obavijesti. Također možeš blokirati nove zahtjeve za slanje obavijesti.
 permissions-site-notification-disable-label =
@@ -135,7 +135,7 @@ permissions-site-notification-disable-desc = Ovo će spriječiti traženje dopu�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Postavke - lokacijske dozvole
+    .title = Postavke – Lokacijske dozvole
     .style = { permissions-window2.style }
 permissions-site-location-desc = Sljedeće web stranice su zatražile pristup tvojoj lokaciji. Možeš navesti web stranice kojima dozvoljavaš pristup tvojoj lokaciji. Također možeš blokirati nove zahtjeve koji traže pristup tvojoj lokaciji.
 permissions-site-location-disable-label =
@@ -145,7 +145,7 @@ permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Postavke - dopuštenja virtualne stvarnosti
+    .title = Postavke – Dozvole virtualne stvarnosti
     .style = { permissions-window2.style }
 permissions-site-xr-desc = Sljedeće web stranice su zatražile pristup tvojim uređajima za virtualnu stvarnost. Možeš navesti web stranice kojima dozvoljavaš pristup tvojim uređajima za virtualnu stvarnost. Možeš i blokirati nove zahtjeve za pristup tvojim uređajima za virtualnu stvarnost.
 permissions-site-xr-disable-label =
@@ -155,7 +155,7 @@ permissions-site-xr-disable-desc = Ovo će spriječiti bilo koju web stranicu ko
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Postavke - dozvole pristupa kameri
+    .title = Postavke – Dozvole pristupa kameri
     .style = { permissions-window2.style }
 permissions-site-camera-desc = Sljedeće web stranice su zatražile pristup tvojoj kameri. Možeš navesti web stranice kojima dozvoljavaš pristup tvojoj kameri. Također možeš blokirati nove zahtjeve koji traže pristup tvojoj kameri.
 permissions-site-camera-disable-label =
@@ -165,7 +165,7 @@ permissions-site-camera-disable-desc = Ovo će spriječiti traženje pristupa tv
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Postavke - dozvole pristupa mikrofonu
+    .title = Postavke – Dozvole pristupa mikrofonu
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = Sljedeće stranice su zatražile pristup tvom mikrofonu. Možeš navesti koje web stranice imaju pristup tvom mikrofonu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mikrofonu.
 permissions-site-microphone-disable-label =

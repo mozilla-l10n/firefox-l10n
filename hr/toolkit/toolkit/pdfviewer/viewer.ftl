@@ -201,7 +201,7 @@ pdfjs-find-previous-button =
 pdfjs-find-previous-button-label = Prethodno
 pdfjs-find-next-button =
     .title = Pronađi sljedeće pojavljivanje ovog izraza
-pdfjs-find-next-button-label = Sljedeće
+pdfjs-find-next-button-label = Dalje
 pdfjs-find-highlight-checkbox = Istankni sve
 pdfjs-find-match-case-checkbox-label = Razlikovanje velikih i malih slova
 pdfjs-find-entire-word-checkbox-label = Cijele riječi
@@ -261,6 +261,12 @@ pdfjs-web-fonts-disabled = Web fontovi su deaktivirani: nije moguće koristiti u
 pdfjs-editor-free-text-button =
     .title = Tekst
 pdfjs-editor-free-text-button-label = Tekst
+
+## Remove button for the various kind of editor.
+
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Boja
 pdfjs-editor-free-text-size-input = Veličina
@@ -276,4 +282,11 @@ pdfjs-free-text-default-content = Počni tipkati …
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
 

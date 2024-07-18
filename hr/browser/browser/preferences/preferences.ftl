@@ -626,7 +626,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ponesi svoj web sa sobom
-sync-signedout-description2 = Sinkroniziraj svoje zabilješke, povijest, kartice, lozinke, dodatke i postavke kroz sve svoje uređaje.
+sync-signedout-description2 = Sinkroniziraj zabilješke, povijest, kartice, lozinke, dodatke i postavke na svim tvojim uređajima.
 sync-signedout-account-signin3 =
     .label = Prijavi se za sinkronizaciju…
     .accesskey = i
@@ -678,7 +678,7 @@ prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 prefs-sync-turn-on-syncing =
     .label = Uključi sinkronizaciju…
     .accesskey = s
-prefs-sync-offer-setup-label2 = Sinkroniziraj svoje zabilješke, povijest, kartice, lozinke, dodatke i postavke kroz sve svoje uređaje.
+prefs-sync-offer-setup-label2 = Sinkroniziraj zabilješke, povijest, kartice, lozinke, dodatke i postavke na svim tvojim uređajima.
 prefs-sync-now =
     .labelnotsyncing = Sinkroniziraj sada
     .accesskeynotsyncing = n
