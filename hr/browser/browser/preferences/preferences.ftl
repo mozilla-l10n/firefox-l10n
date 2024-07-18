@@ -1198,6 +1198,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-default-desc = { -brand-short-name } odlučuje kada koristiti sigurni DNS za zaštitu tvoje privatnosti.
 
 ## The following strings are used in the Download section of settings
 

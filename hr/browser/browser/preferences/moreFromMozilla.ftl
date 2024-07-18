@@ -8,6 +8,7 @@
 more-from-moz-firefox-mobile-description = Mobilni preglednik koji stavlja tvoju privatnost na prvo mjesto.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Otkrij dodatni sloj anonimnog pregledavanja i zaštite.
+more-from-moz-qr-code-box-firefox-mobile-title = Preuzmi pomoću tvog mobilnog uređaja. Usmjeri kameru prema QR kodu. Kada se poveznica pojavi, dodirni je.
 more-from-moz-learn-more-link = Saznaj više
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

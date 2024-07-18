@@ -31,4 +31,4 @@ unified-extensions-mb-quarantined-domain-message = Samo neka proširenja koja na
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Neka proširenja nisu dozvoljena
-    .message = Radi zaštite vaših podataka, neka proširenja ne mogu čitati niti mijenjati podatke na ovoj web-stranici.  Upotrijebite postavke proširenja za dopuštanje na web-lokacijama koje ograničava { -vendor-short-name }.
+    .message = Za zaštiti tvojih podataka, neka proširenja ne mogu čitati niti mijenjati podatke na ovoj web-stranici. Koriti postavke proširenja za dozvoljavanje na web-stranicama koje ograničava { -vendor-short-name }.
