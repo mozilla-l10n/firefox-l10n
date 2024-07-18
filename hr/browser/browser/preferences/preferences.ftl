@@ -258,7 +258,7 @@ download-always-ask-where =
 applications-header = Aplikacije
 applications-description = Odaberi kako će { -brand-short-name } upravljati datotekama koje preuzmeš s interneta ili aplikacijama koje koristiš prilikom pregledavanja.
 applications-filter =
-    .placeholder = Traži tipove datoteka ili aplikacija
+    .placeholder = Traži vrste datoteka ili aplikacija
 applications-type-column =
     .label = Vrsta sadržaja
     .accesskey = t
@@ -330,6 +330,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Što bi { -brand-short-name } trebao učiniti s drugim datotekama?
 drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
