@@ -410,9 +410,9 @@ about-logins-import-dialog-items-added2 =
     }
 about-logins-import-dialog-items-modified2 =
     { $count ->
-        [one] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
-        [few] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
-       *[other] <span>Aktualizirani postojeći unosi:</span><span data-l10n-name="count"></span>
+        [one] <span>Aktualizirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
@@ -498,9 +498,9 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported ">(nije uvezeno)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dupli unosi</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
     }
 about-logins-import-report-error =
     { $count ->
