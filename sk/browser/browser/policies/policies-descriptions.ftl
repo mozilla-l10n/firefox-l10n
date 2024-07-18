@@ -119,6 +119,7 @@ policy-Permissions2 = Nastaví povolenia pre kameru, mikrofón, polohu, upozorne
 policy-PictureInPicture = Povolí alebo zakáže režim Obraz v obraze.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
+policy-PrivateBrowsingModeAvailability = Nastaví dostupnosť režimu súkromného prehliadania.
 policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho stiahnutím.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.

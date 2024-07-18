@@ -16,3 +16,8 @@ elevation-finished-background-page =
     aktualizácie, ktorá je teraz pripravená na inštaláciu.
 elevation-finished-background = Aktualizácia:
 elevation-more-elevated = Táto aktualizácia vyžaduje oprávnenie administrátora. Aktualizácia bude nainštalovaná pri ďalšom spustení aplikácie { -brand-short-name }. Aplikáciu môžete reštartovať teraz, alebo môžete pokračovať v práci a reštartovať neskôr, alebo môžete túto aktualizáciu úplne zrušiť.
+sandbox-missing-unprivileged-namespaces = Niektoré bezpečnostné funkcie { -brand-short-name(case: "gen") } môžu poskytovať menšiu ochranu vo vašom aktuálnom operačnom systéme.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Nabudúce nezobrazovať
+    .accesskey = b
+sandbox-unprivileged-namespaces-howtofix = Ako vyriešiť tento problém
