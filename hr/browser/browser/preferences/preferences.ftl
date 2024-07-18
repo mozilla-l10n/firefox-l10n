@@ -854,9 +854,21 @@ primary-password-os-auth-dialog-message-win = Za stvaranje primarne lozinke, une
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = stvori primarnu lozinku
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Automatsko ispunjavanje
+autofill-addresses-checkbox = Spremi i ispuni adrese
+    .accesskey = a
+autofill-saved-addresses-button = Spremljene adrese
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Spremi i ispuni načine plaćanja
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Uključuje kreditne i debitne kartice
+    .accesskey = U
+autofill-saved-payment-methods-button = Spremljeni načini plaćanja
+    .accesskey = S
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Zatraži prijavu uređajem za ispunjavanje i upravljanje načinima plaćanja
     .accesskey = Z

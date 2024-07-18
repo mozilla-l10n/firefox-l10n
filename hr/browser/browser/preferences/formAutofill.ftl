@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Spremljene adrese
 autofill-manage-addresses-list-header = Adrese
 autofill-manage-credit-cards-title = Spremljene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
+autofill-manage-payment-methods-title = Spremljeni načini plaćanja
+autofill-manage-cards-list-header = Kreditne kartice
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Ukloni
@@ -21,12 +23,16 @@ address-capture-update-doorhanger-header = Aktualizirati adresu?
 address-capture-update-button =
     .label = Aktualiziraj
     .accessKey = A
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Dodaj adresu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi adresu
 autofill-address-given-name = Ime
 autofill-address-additional-name = Srednje ime
 autofill-address-family-name = Prezime
+autofill-address-name = Ime
 autofill-address-organization = Organizacija
+autofill-address-street-address = Ulica
 autofill-address-street = Ulica
 
 ## address-level-3 (Sublocality) names
@@ -85,9 +91,10 @@ autofill-address-eircode = Eircode
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Dodaj novu adresu
-autofill-address-country = Država ili pokrajina
+autofill-address-country = Zemlja ili regija
+autofill-address-country-only = Zemlja
 autofill-address-tel = Telefon
-autofill-address-email = Adresa e-pošte
+autofill-address-email = E-mail adresa
 autofill-cancel-button = Odustani
 autofill-save-button = Spremi
 autofill-country-warning-message = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje.
@@ -103,13 +110,18 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici. U nastavku potvrdite pristup ovom Windows računu.
        *[other] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici.
     }
-autofill-card-number = Broj kartice
-autofill-card-invalid-number = Upiši ispravan broj kartice
-autofill-card-name-on-card = Ime na kartici
+autofill-message-tooltip = Pogledaj poruku o automatskom ispunjavanju
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Dodaj kreditnu karticu
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Uredi kreditnu karticu
+autofill-card-number = Broj kreditne kartice
+autofill-card-invalid-number = Upiši ispravan broj kreditne kartice
+autofill-card-name-on-card = Ime na kreditnoj kartici
 autofill-card-expires-month = Mjesec isteka
 autofill-card-expires-year = Godina isteka
 autofill-card-billing-address = Adresa za naplatu
-autofill-card-network = Vrsta kartice
+autofill-card-network = Vrsta kreditne kartice
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
