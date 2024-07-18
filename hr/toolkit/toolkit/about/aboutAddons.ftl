@@ -19,7 +19,7 @@ list-empty-get-language-packs-message = Nabavi jezične pakete na <a data-l10n-n
 list-empty-installed =
     .value = Nemate instaliran nijedan dodatak ove vrste
 list-empty-available-updates =
-    .value = Nema nadogradnji
+    .value = Nema novih verzija
 list-empty-recent-updates =
     .value = U posljednje vrijeme nisi aktualizirao/la nijedan dodatak
 list-empty-find-updates =
@@ -79,9 +79,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Provjeri dostupnost dopuna
-    .accesskey = r
-    .tooltiptext = Provjeri dostupnost dopuna za ovaj dodatak
+    .label = Traži nove verzije
+    .accesskey = T
+    .tooltiptext = Traži nove verzije za ovaj dodatak
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -131,12 +131,12 @@ addon-category-dictionary-title =
 addon-category-locale = Jezici
 addon-category-locale-title =
     .title = Jezici
-addon-category-available-updates = Dostupne dopune
+addon-category-available-updates = Dostupne nove verzije
 addon-category-available-updates-title =
-    .title = Dostupne dopune
-addon-category-recent-updates = Nedavne dopune
+    .title = Dostupne nove verzije
+addon-category-recent-updates = Nedavna aktualiziranja
 addon-category-recent-updates-title =
-    .title = Nedavne dopune
+    .title = Nedavna aktualiziranja
 addon-category-sitepermission = Dozvole web-mjesta
 addon-category-sitepermission-title =
     .title = Dozvole web-mjesta
@@ -229,6 +229,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Već se koristi za { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Prikaži još { $numberToShow }
@@ -425,7 +427,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Dodatak { $name } je nekompatibilan s { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
