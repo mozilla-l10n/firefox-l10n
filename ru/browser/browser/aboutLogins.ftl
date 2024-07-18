@@ -323,9 +323,9 @@ about-logins-confirm-export-dialog-message2 =
 about-logins-confirm-export-dialog-confirm-button2 = Продолжить экспорт
 about-logins-alert-import-title = Импорт завершён
 about-logins-alert-import-message = Посмотреть подробную сводку импорта
-confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
+confirm-discard-changes-dialog-title = Отказаться от несохранённых изменений?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
-confirm-discard-changes-dialog-confirm-button = Отменить
+confirm-discard-changes-dialog-confirm-button = Отказаться
 
 ## Breach Alert notification
 
