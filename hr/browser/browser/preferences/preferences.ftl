@@ -331,6 +331,12 @@ applications-use-os-default-label =
 ##
 
 applications-handle-new-file-types-description = Što bi { -brand-short-name } trebao učiniti s drugim datotekama?
+applications-save-for-new-types =
+    .label = Spremi datoteke
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Pitaj želiü li otvoriti ili spremiti datoteke
+    .accesskey = P
 drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
