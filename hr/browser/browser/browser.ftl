@@ -64,11 +64,11 @@ urlbar-services-notification-anchor =
 urlbar-web-notification-anchor =
     .tooltiptext = Promijeni postavke primanja obavijesti od ove stranice
 urlbar-midi-notification-anchor =
-    .tooltiptext = Otvori MIDI okno
+    .tooltiptext = Otvori MIDI ploču
 urlbar-eme-notification-anchor =
     .tooltiptext = Upravljaj korištenjem DRM softvera
 urlbar-web-authn-anchor =
-    .tooltiptext = Otvori okno Web autentifikacije
+    .tooltiptext = Otvori ploču web autentifikacije
 urlbar-canvas-notification-anchor =
     .tooltiptext = Upravljanje dozvolama za izdvajanje platna
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -962,6 +962,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Odustani
     .accesskey = O
+reset-pbm-panel-confirm-button =
+    .label = Izbriši podatke sesije
+    .accesskey = I
+reset-pbm-panel-complete = Podaci privatne sesije izbrisani
 
 ## Autorefresh blocker
 

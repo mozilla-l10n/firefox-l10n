@@ -23,17 +23,25 @@ protections-panel-etp-more-info =
     .aria-label = Više informacija o poboljšanoj zaštiti od praćenja
 protections-panel-etp-on-header = Pojačana zaštita od praćenja je UKLJUČENA za ovu stranicu
 protections-panel-etp-off-header = Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Stranica ne radi?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Stranica ne radi?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Stranica ne radi?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Stranica ne radi?
+protections-panel-etp-toggle-on =
+    .label = Poboljšana zaštita od praćenja
+    .description = Uključeno za ovu web stranicu
+    .aria-label = Poboljšana zaštita od praćenja: Uključeno za { $host }
+protections-panel-etp-toggle-off =
+    .label = Poboljšana zaštita od praćenja
+    .description = Isključeno za ovu web stranicu
+    .aria-label = Poboljšana zaštita od praćenja: Isključeno za { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -75,12 +83,13 @@ protections-panel-protectionsdashboard-label = Nadzorna ploča zaštite
 # The header of the list
 protections-panel-site-not-working-view-header = Isključi zaštite ukoliko imaš problema s:
 # The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Poljem za prijavu
+protections-panel-site-not-working-view-issue-list-login-fields = Poljima prijave
 protections-panel-site-not-working-view-issue-list-forms = Obrascima
 protections-panel-site-not-working-view-issue-list-payments = Plaćanjima
 protections-panel-site-not-working-view-issue-list-comments = Komentarima
-protections-panel-site-not-working-view-issue-list-videos = Videom
-protections-panel-site-not-working-view-send-report = Pošaljite izvještaj
+protections-panel-site-not-working-view-issue-list-videos = Videima
+protections-panel-site-not-working-view-issue-list-fonts = Fontovima
+protections-panel-site-not-working-view-send-report = Pošalji izvještaj
 
 ##
 
@@ -99,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi neispravnu web stranicu
 protections-panel-content-blocking-breakage-report-view-description = Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti { -brand-short-name } za sve korisnike. Kad pošalješ ove prijavu, Mozilli ćeš poslati URL stranice i informacije o postavkama preglednika. <label data-l10n-name="learn-more">Saznaj više</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti { -brand-short-name } za sve korisnike. Kad pošalješ ove prijavu, poslati ćeš URL stranice i informacije o postavkama preglednika prema { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -113,6 +121,21 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-enabled = Uključeno za ovu stranicu
+protections-panel-cookie-banner-handling-disabled = Isključeno za ovu stranicu
+protections-panel-cookie-banner-handling-undetected = Stranica trenutačno nije podržana
+protections-panel-cookie-banner-view-cancel = Odustani
+protections-panel-cookie-banner-view-turn-off = Isključi
+protections-panel-cookie-banner-view-turn-on = Uključi
+protections-panel-cookie-banner-view-cancel-label =
+    .label = Odustani
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Isključi
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Uključi
+protections-panel-report-broken-site =
+    .label = Prijavi pokvarenu web stranicu
+    .title = Prijavi pokvarenu web stranicu
 
 ## Protections panel info message
 
