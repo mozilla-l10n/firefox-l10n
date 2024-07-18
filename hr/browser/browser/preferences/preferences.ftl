@@ -8,6 +8,7 @@ do-not-track-option-default-content-blocking-known =
     .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
 do-not-track-option-always =
     .label = Uvijek
+non-technical-privacy-header = Postavke privatnosti web stranice
 settings-page-title = Postavke
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -175,11 +176,17 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izgled
-preferences-web-appearance-header = Izgled web-stranica
+preferences-web-appearance-header = Izgled web-stranice
 preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Automatski promijeni pozadinu i sadržaj web stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Koristi svijetli izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u sekciji <a data-l10n-name="themes-link">Dodaci i teme</a>
@@ -803,6 +810,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Spremljene prijave…
     .accesskey = l
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Automatski ispuni korisnička imena i lozinke
+    .accesskey = A
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u

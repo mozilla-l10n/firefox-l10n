@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Iznimke
     .style = min-width: 41em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa web stranice
     .accesskey = d
-
 permissions-block =
     .label = Blokiraj
     .accesskey = B
-
 permissions-disable-etp =
     .label = Dodaj iznimku
     .accesskey = i
-
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
-
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
-
 permissions-button-off =
     .label = Isključi
     .accesskey = s
-
 permissions-button-off-temporarily =
     .label = Isključi privremeno
     .accesskey = I
-
 permissions-site-name =
     .label = Web stranica
-
 permissions-status =
     .label = Stanje
-
 permissions-remove =
     .label = Ukloni stranicu
     .accesskey = U
-
 permissions-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Standardno za sve web-stranice:
-
 permissions-searchbox =
     .placeholder = Traži web stranicu
-
 permissions-capabilities-autoplay-allow =
     .label = Dozvoli zvuk i video
 permissions-capabilities-autoplay-block =
     .label = Blokiraj zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokiraj zvuk i video
-
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
-
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
     .value = Blokiraj
 permissions-capabilities-listitem-allow-session =
     .value = Dozvoli za sesiju
-
 permissions-capabilities-listitem-off =
     .value = Isključeno
 permissions-capabilities-listitem-off-temporarily =
@@ -95,6 +76,7 @@ permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 permissions-exceptions-etp-window2 =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Možeš odrediti web-stranice za koje je isključena poboljšana zaštita od praćenja. Upiši točnu adresu stranice kojom želiš upravljati, a zatim pritisni „Dodaj iznimku”.
 
 ## Exceptions - Cookies
 
@@ -122,6 +104,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Iznimke - spremljene prijave
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti spremljene
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -193,18 +178,14 @@ permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristup
 
 permissions-doh-entry-field = Upiši ime domene web stranice
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Dodaj
     .accesskey = D
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Ukloni
     .accesskey = U
-
 permissions-doh-remove-all =
     .label = Ukloni sve
     .accesskey = s
