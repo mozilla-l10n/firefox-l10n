@@ -335,7 +335,7 @@ applications-save-for-new-types =
     .label = Spremi datoteke
     .accesskey = S
 applications-ask-before-handling =
-    .label = Pitaj želiü li otvoriti ili spremiti datoteke
+    .label = Pitaj da li otvoriti ili spremiti datoteke
     .accesskey = P
 drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
@@ -407,12 +407,18 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Koristi uglađeno klizanje
     .accesskey = u
+browsing-always-underline-links =
+    .label = Uvijek podcrtaj poveznice
+    .accesskey = p
 browsing-use-onscreen-keyboard =
     .label = Prikaži tipkovnicu na ekranu kad je potrebno
     .accesskey = k
 browsing-use-cursor-navigation =
     .label = Uvijek koristi tipke pokazivača za navigaciju unutar stranica
     .accesskey = c
+browsing-use-full-keyboard-navigation =
+    .label = Koristi tipku tabulatora za pomicanje fokusa između kontrola obrasca i poveznica
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Traži tekst već prilikom upisivanja
     .accesskey = k
@@ -757,6 +763,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Pitaj za spremanje lozinki
+    .accesskey = P
 forms-exceptions =
     .label = Iznimke …
     .accesskey = m
@@ -767,6 +777,11 @@ forms-breach-alerts =
     .label = Prikaži upozorenja o lozinkama za hakirane web stranice
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
+preferences-relay-integration-checkbox =
+    .label = Predloži { -relay-brand-name } maske e-mail adrese za zaštitu tvoje e-mail adrese
+preferences-relay-integration-checkbox2 =
+    .label = Predloži { -relay-brand-name } maske e-mail adrese za zaštitu tvoje e-mail adrese
+    .accesskey = r
 relay-integration-learn-more-link = Saznaj više
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
