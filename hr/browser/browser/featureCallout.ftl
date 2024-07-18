@@ -12,6 +12,13 @@ callout-primary-complete-button-label = Razumijem!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Skači između uređaja uz preuzimanje otvorenih kartica
+callout-firefox-view-tab-pickup-subtitle = Brzo zgrabi otvorene kartice sa svog mobitela i otvori ih ovdje za nesmetano pregledavanje.
+callout-firefox-view-recently-closed-title = Vrati zatvorene kartice u trenu
+callout-firefox-view-recently-closed-subtitle = Sve tvoje zatvorene kartice će se magično pojaviti ovdje. Više se ne moraš brinuti o slučajnom zatvaranju stranice.
+callout-firefox-view-colorways-title = Dodaj nešto boje
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Odaberi nijansu boje koja ti govora. Samo u { -brand-product-name }u.
+callout-firefox-view-colorways-reminder-title = Istraži naše najnovije boje
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
