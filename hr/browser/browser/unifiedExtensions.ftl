@@ -24,6 +24,10 @@ unified-extensions-context-menu-remove-extension =
     .label = Ukloni proširenje
 unified-extensions-context-menu-report-extension =
     .label = Prijavi proširenje
+unified-extensions-context-menu-move-widget-up =
+    .label = Pomakni prema gore
+unified-extensions-context-menu-move-widget-down =
+    .label = Pomakni prema dolje
 
 ## Notifications
 

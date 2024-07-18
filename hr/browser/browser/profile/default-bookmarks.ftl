@@ -9,19 +9,15 @@
 
 default-bookmarks-title = Zabilješke
 default-bookmarks-heading = Zabilješke
-
+# link title for https://www.mozilla.org/firefox/central/
+default-bookmarks-getting-started = Započinjanje
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
-
 # link title for https://www.mozilla.org/firefox/help/
-default-bookmarks-firefox-get-help = Potraži pomoć
-
+default-bookmarks-firefox-get-help = Dobij pomoć
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = Prilagodi Firefox
-
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = Uključi se
-
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = O nama
-

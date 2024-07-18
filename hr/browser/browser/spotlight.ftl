@@ -9,6 +9,11 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Preuzmi s Google Playa
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Preuzmi { -focus-brand-name }
+spotlight-focus-promo-qr-code =
+    .alt = Skeniraj QR kod za preuzimanje { -focus-brand-name }a
