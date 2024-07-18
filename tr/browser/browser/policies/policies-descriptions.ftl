@@ -119,6 +119,7 @@ policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izin
 policy-PictureInPicture = Görüntü içinde görüntü özelliğini aç veya kapat.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
+policy-PrivateBrowsingModeAvailability = Gizli gezinti modunun kullanılabilirliğini ayarla.
 policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
 policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
