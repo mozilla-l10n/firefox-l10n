@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-history-title = Povijest nadogradnji
+history-title = Povijest aktualiziranja
 history-intro = Instalirane su sljedeće nove verzije
 close-button-label =
     .buttonlabelcancel = Zatvori
     .title = Povijest nadogradnji
 no-updates-label = Još nema instaliranih novih verzija
-name-header = Naziv dopune
+name-header = Ime nove verzije
 date-header = Datum instalacije
 type-header = Vrsta
 state-header = Stanje

@@ -17,6 +17,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Aktualizirati lozinku za { $host }?
+password-manager-update-password-button-delete =
+    .label = Ukloni spremljenu lozinku
+    .accesskey = U
 password-manager-update-login-add-username = Dodati korisničko ime spremljenoj lozinki?
 password-manager-password-password-button-allow =
     .label = Aktualiziraj

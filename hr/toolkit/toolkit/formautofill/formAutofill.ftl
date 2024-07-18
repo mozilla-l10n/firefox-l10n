@@ -14,6 +14,11 @@ autofill-options-link-osx = Postavke automatskog popunjavanja obrazaca
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Aktualizirati kreditnu karticu?
+credit-card-update-doorhanger-description = Kreditna kartica za aktualiziranje:
+credit-card-capture-update-button =
+    .label = AKtualiziraj postojeću kreditnu karticu
+    .accessKey = A
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Izbriši automatski ispunjen obrazac
 

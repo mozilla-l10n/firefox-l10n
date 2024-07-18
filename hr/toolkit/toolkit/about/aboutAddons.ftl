@@ -23,7 +23,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = U posljednje vrijeme nisi aktualizirao/la nijedan dodatak
 list-empty-find-updates =
-    .label = Provjeri dostupnost dopuna
+    .label = Traži nove verzije
 list-empty-button =
     .label = Saznaj više o dodacima
 help-button = Podrška za dodatke
@@ -39,13 +39,13 @@ show-all-extensions-button =
 detail-version =
     .label = Verzija
 detail-last-updated =
-    .label = Posljednja dopuna
+    .label = Zadnje aktualiziranje
 detail-contributions-description = Programer ovog proširenja te moli, da pomoću male donacije podržiš daljnji razvoj proširenja.
 detail-contributions-button = Doprinesi
     .title = Doprinesi razvoju ovog dodatka
     .accesskey = D
 detail-update-type =
-    .value = Automatske dopune
+    .value = Automatska aktualiziranja
 detail-update-default =
     .label = Standardno
     .tooltiptext = Instaliraj dopune automatski samo ako je to standardno postavljeno
@@ -362,6 +362,10 @@ addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
 addon-detail-update-check-label = Traži nove verzije
 install-update-button = Aktualiziraj
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
