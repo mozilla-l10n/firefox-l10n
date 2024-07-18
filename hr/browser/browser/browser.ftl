@@ -102,7 +102,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori ploču s informacijama o instaliranim dodacima
 urlbar-tip-help-icon =
-    .title = Potraži pomoć
+    .title = Dobij pomoć
 urlbar-search-tips-confirm = U redu, razumijem
 urlbar-search-tips-confirm-short = Razumijem
 # Read out before Urlbar Tip text content so screenreader users know the
@@ -121,8 +121,8 @@ urlbar-result-menu-remove-from-history =
     .label = Ukloni iz povijesti
     .accesskey = U
 urlbar-result-menu-tip-get-help =
-    .label = Zatraži pomoć
-    .accesskey = Z
+    .label = Dobij pomoć
+    .accesskey = D
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
