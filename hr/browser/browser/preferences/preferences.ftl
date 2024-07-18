@@ -854,6 +854,12 @@ primary-password-os-auth-dialog-message-win = Za stvaranje primarne lozinke, une
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = stvori primarnu lozinku
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] promijeni postavke za načine plaćanja
+       *[other] { -brand-short-name } pokušava promijeniti postavke za načine plaćanja. Koristi prijavu na svom uređaju da bi to dozvolio/la.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -890,7 +896,7 @@ history-remember-label = { -brand-short-name } će
 history-remember-option-all =
     .label = zapamtiti povijest
 history-remember-option-never =
-    .label = Ne pamti povijest
+    .label = zaboraviti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
 history-remember-description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
