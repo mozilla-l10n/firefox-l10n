@@ -791,8 +791,11 @@ forms-exceptions =
     .label = Iznimke …
     .accesskey = m
 forms-generate-passwords =
-    .label = Predloži i generiraj jake lozinke
+    .label = Predloži i generiraj snažne lozinke
     .accesskey = g
+forms-suggest-passwords =
+    .label = Predloži snažnu lozinku
+    .accesskey = P
 forms-breach-alerts =
     .label = Prikaži upozorenja o lozinkama za hakirane web stranice
     .accesskey = u
@@ -817,6 +820,9 @@ forms-fill-usernames-and-passwords =
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Zatraži prijavu uređajem za ispunjavanje i upravljanje lozinkama
 forms-primary-pw-learn-more-link = Saznaj više
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -851,6 +857,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Zatraži prijavu uređajem za ispunjavanje i upravljanje načinima plaćanja
+    .accesskey = Z
 
 ## Privacy Section - History
 

@@ -15,6 +15,7 @@ policy-AppAutoUpdate = Aktiviraj ili deaktiviraj automatsko aktualiziranje progr
 policy-AppUpdatePin = Spriječi { -brand-short-name } da se aktualizira na noviju verziju od navedene.
 policy-AppUpdateURL = Postavi prilagođeni URL za aktualiziranje programa.
 policy-Authentication = Postavi integriranu provjeru autentičnosti za web stranice koje to podržavaju.
+policy-AutofillAddressEnabled = Aktiviraj automatsko ispunjavanje za adrese.
 policy-BackgroundAppUpdate2 = Aktiviraj ili deaktiviraj aktualiziranje u pozadini.
 policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
 policy-BlockAboutConfig = Blokiraj pristup stranici about:config.

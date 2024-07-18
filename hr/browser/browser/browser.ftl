@@ -908,6 +908,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Želiš otvoriti prethodne kartice?</strong> Prethodnu sesiju možeš obnoviti u izborniku aplikacije { -brand-short-name } <img data-l10n-name="icon"/>, pod Povijest.
 restore-session-startup-suggestion-button = Pokaži mi kako
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
