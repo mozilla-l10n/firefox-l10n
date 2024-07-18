@@ -19,15 +19,23 @@ callout-firefox-view-colorways-title = Dodaj nešto boje
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Odaberi nijansu boje koja ti govora. Samo u { -brand-product-name }u.
 callout-firefox-view-colorways-reminder-title = Istraži naše najnovije boje
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Oboji preglednik ovim legendarnim nijansama, inspiriranim od nezavisnih glasova. Samo u { -brand-product-name }u.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Poboljšaj svoje iskustvo pregledavanja s preuzimanjem kartica
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Pristupi otvorenim karticama s bilo kojeg uređaja. Dodatno tome sinkroniziraj zabilješke, lozinke i još mnogo toga.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Započni
 
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Uredi PDF datoteke s našim novim alatom za tekst
 callout-pdfjs-edit-body-a = Ispuni obrasce, dodaj komentare ili zapiši bilješke izravno u { -brand-short-name }u.
+callout-pdfjs-edit-body-b = Preskoči traženje besplatnih internetskih uređivača. Ispuni obrasce, dodaj komentare ili vodi bilješke izravno u { -brand-short-name }u.
 callout-pdfjs-edit-button = Dalje
 callout-pdfjs-draw-title = Potpiši dokumente s našim novim alatom za crtanje
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.

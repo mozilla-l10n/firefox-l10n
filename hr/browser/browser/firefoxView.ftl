@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } % dovršeno
 firefoxview-tabpickup-step-signin-header = Prebaci se bez problema između uređaja
 firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog telefona ovdje, najprije se prijavi ili otvori račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nastavi
+firefoxview-syncedtabs-signin-header = Ugrabi kartice s bilo kojeg mjesta
 firefoxview-tabpickup-adddevice-header = Sinkroniziraj { -brand-product-name } na svom telefonu ili tabletu
 firefoxview-tabpickup-adddevice-description = Preuzmi { -brand-product-name } za moblni uređaj i tamo se prijavi.
 firefoxview-tabpickup-adddevice-learn-how = Saznaj kako
