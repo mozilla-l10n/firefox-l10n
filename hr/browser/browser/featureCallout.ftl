@@ -20,7 +20,7 @@ callout-firefox-view-colorways-title = Dodaj nešto boje
 callout-firefox-view-colorways-subtitle = Odaberi nijansu boje koja ti govora. Samo u { -brand-product-name }u.
 callout-firefox-view-colorways-reminder-title = Istraži naše najnovije boje
 # “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Oboji preglednik ovim legendarnim nijansama, inspiriranim od nezavisnih glasova. Samo u { -brand-product-name }u.
+callout-firefox-view-colorways-reminder-subtitle = Oboji preglednik ovim legendarnim nijansama, inspiriranim od neovisnih glasova. Samo u { -brand-product-name }u.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
