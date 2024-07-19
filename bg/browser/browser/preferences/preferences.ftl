@@ -219,6 +219,8 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Да се ползва светъл външен вид за фон и съдържание на страниците.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Да се ползва тъмен външен вид за фон и съдържание на страниците.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -511,6 +513,8 @@ home-newtabs-mode-label = Нов раздел
 home-restore-defaults =
     .label = Стандартни настройки
     .accesskey = с
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (По подразбиране)
 home-mode-choice-custom =
     .label = Потребителски адреси…
 home-mode-choice-blank =
@@ -548,6 +552,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
 home-prefs-recommended-by-description-new = Изключително съдържание, подбрано от { $provider } част от семейството на { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Препоръчани истории
 
 ##
 
@@ -572,6 +578,10 @@ home-prefs-recent-activity-description = Избрани страници и съ
 home-prefs-snippets-header =
     .label = Изрезки
 home-prefs-snippets-description-new = Съвети и новини от { -vendor-short-name } и { -brand-product-name }
+home-prefs-weather-header =
+    .label = Времето
+home-prefs-weather-description = Днешната прогноза
+home-prefs-weather-learn-more-link = Научете повече
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -678,6 +688,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Промяна снимката на профила
     .alt = Промяна снимката на профила
+fxa-login-rejected-warning =
+    .alt = Предупреждение
 sync-sign-out =
     .label = Излизане…
     .accesskey = з
@@ -726,8 +738,10 @@ sync-currently-syncing-bookmarks = Отметки
 sync-currently-syncing-history = История
 sync-currently-syncing-tabs = Отворени раздели
 sync-currently-syncing-logins-passwords = Регистрации и пароли
+sync-currently-syncing-passwords = Пароли
 sync-currently-syncing-addresses = Адреси
 sync-currently-syncing-creditcards = Банкови карти
+sync-currently-syncing-payment-methods = Начини на плащане
 sync-currently-syncing-addons = Добавки
 sync-currently-syncing-settings = Настройки
 sync-change-options =
@@ -757,6 +771,10 @@ sync-engine-logins-passwords =
     .label = Регистрации и пароли
     .tooltiptext = Запазени потребителски имена и пароли
     .accesskey = е
+sync-engine-passwords =
+    .label = Пароли
+    .tooltiptext = Паролите, които сте запазили
+    .accesskey = П
 sync-engine-addresses =
     .label = Адреси
     .tooltiptext = Запазени адреси (само от настолния)
@@ -764,6 +782,10 @@ sync-engine-addresses =
 sync-engine-creditcards =
     .label = Банкови карти
     .tooltiptext = Имена, номера и дати на изтичане (само от настолния)
+    .accesskey = н
+sync-engine-payment-methods2 =
+    .label = Начини на плащане
+    .tooltiptext = Име, номер и дата на валидност на картата
     .accesskey = н
 sync-engine-addons =
     .label = Добавки
@@ -814,6 +836,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Пароли
+    .searchkeywords = данни за вход
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Питане за запазване на паролите
@@ -831,6 +857,7 @@ forms-breach-alerts =
     .label = Показване на известия за изтекли пароли от взломени страници
     .accesskey = и
 forms-breach-alerts-learn-more-link = Научете повече
+relay-integration-learn-more-link = Научете повече
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Автоматично попълване на регистрации и пароли
@@ -838,6 +865,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Запазени регистрации…
     .accesskey = р
+forms-saved-passwords =
+    .label = Запазени пароли
+    .accesskey = д
 forms-primary-pw-use =
     .label = Използване на главна парола
     .accesskey = п
@@ -870,9 +900,11 @@ forms-windows-sso-desc = Управление на профили в настр�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = създаде основна парола
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Автоматично попълване
 
 ## Privacy Section - History
 
@@ -1088,6 +1120,9 @@ permissions-microphone = Микрофон
 permissions-microphone-settings =
     .label = Настройки…
     .accesskey = с
+permissions-speaker-settings =
+    .label = Настройки…
+    .accesskey = т
 permissions-notification = Известия
 permissions-notification-settings =
     .label = Настройки…
@@ -1136,6 +1171,8 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+privacy-segmentation-radio-on =
+    .label = Показване на подробна информация
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -1187,6 +1224,18 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS през HTTPS
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Невалиден URL
+preferences-doh-status-active = Включено
+preferences-doh-status-disabled = Изключено
+preferences-doh-setting-enabled =
+    .label = Повишена защита
+    .accesskey = и
+preferences-doh-setting-strict =
+    .label = Максимална защита
+    .accesskey = М
 
 ## The following strings are used in the Download section of settings
 
