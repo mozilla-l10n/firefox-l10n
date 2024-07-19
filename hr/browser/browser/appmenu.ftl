@@ -262,7 +262,7 @@ appmenu-customizetoolbar =
     .label = Prilagodi alatnu traku…
 appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
-    .label = Proširenja za razvijatelje
+    .label = Proširenja za programere
 appmenuitem-report-broken-site =
     .label = Prijavi pokvarenu web stranicu
 
