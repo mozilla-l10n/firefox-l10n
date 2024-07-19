@@ -143,3 +143,27 @@ select-translations-panel-translate-button =
     .label = Prevedi
 select-translations-panel-try-again-button =
     .label = Pokušaj ponovo
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Ovdje će se pojaviti prevedeni tekst.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Prevođenje u tijeku …
+select-translations-panel-init-failure-message =
+    .message = Nije bilo moguće učitati jezike. Provjeri internetsku vezu i pokušaj ponovo.
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Došlo je do problema pri prevođenju. Pokušaj ponovo.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Nažalost još ne podržavamo { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Nažalost još ne podržavamo ovaj jezik.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Postavke za prevođenje
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Prijevod završen
