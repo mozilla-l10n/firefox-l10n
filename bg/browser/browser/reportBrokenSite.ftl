@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 report-broken-site-mainview-title = Докладване за повреден сайт
+report-broken-site-panel-header =
+    .label = Докладване за повреден сайт
+    .title = Докладване за повреден сайт
+report-broken-site-panel-intro = Помогнете да направим { -brand-product-name } по-добър за всички. { -vendor-short-name } използва информацията, която изпращате, за да отстранява проблеми в сайтовете.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Какво е повредено?
 report-broken-site-panel-reason-optional-label = Какво е повредено? (по избор)
@@ -20,6 +24,8 @@ report-broken-site-panel-reason-adblockers =
     .label = Блокери на реклами
 report-broken-site-panel-reason-other =
     .label = Нещо друго
+report-broken-site-panel-description-label = Опишете проблема
+report-broken-site-panel-description-optional-label = Опишете проблема (по избор)
 report-broken-site-panel-send-more-info-link = Изпратете повече информация
 report-broken-site-panel-button-cancel =
     .label = Отказ
@@ -27,6 +33,7 @@ report-broken-site-panel-button-okay =
     .label = Добре
 report-broken-site-panel-button-send =
     .label = Изпращане
+report-broken-site-panel-unspecified = Неуточнено
 report-broken-site-panel-report-sent-label = Докладът ви е изпратен
 report-broken-site-panel-report-sent-header =
     .label = Докладът ви е изпратен
