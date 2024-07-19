@@ -91,7 +91,7 @@ firefoxview-pickup-tabs-badge = Zadnja aktivna kartica
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Otvori { $targetURI } u novoj kartici
-firefoxview-try-colorways-button = Isprobaj kolorit
+firefoxview-try-colorways-button = Isprobaj kolorite
 firefoxview-change-colorway-button = Promijeni kolorit
 # Variables:
 #  $intensity (String): Colorway intensity

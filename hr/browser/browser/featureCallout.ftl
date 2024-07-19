@@ -17,8 +17,8 @@ callout-firefox-view-recently-closed-title = Vrati zatvorene kartice u trenu
 callout-firefox-view-recently-closed-subtitle = Sve tvoje zatvorene kartice će se magično pojaviti ovdje. Više se ne moraš brinuti o slučajnom zatvaranju stranice.
 callout-firefox-view-colorways-title = Dodaj nešto boje
 # "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Odaberi nijansu boje koja ti govora. Samo u { -brand-product-name }u.
-callout-firefox-view-colorways-reminder-title = Istraži naše najnovije boje
+callout-firefox-view-colorways-subtitle = Odaberi nijansu boje koja ti govora s koloritima. Samo u { -brand-product-name }u.
+callout-firefox-view-colorways-reminder-title = Istraži naše najnovije kolorite
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Oboji preglednik ovim legendarnim nijansama, inspiriranim od neovisnih glasova. Samo u { -brand-product-name }u.
 
