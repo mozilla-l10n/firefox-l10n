@@ -65,11 +65,15 @@ translations-panel-header = Prevesti ovu stranicu?
 translations-panel-translate-button =
     .label = Prevedi
 translations-panel-translate-button-loading =
-    .label = Molimo pričekajte...
+    .label = Pričekaj …
 translations-panel-translate-cancel =
     .label = Odustani
 translations-panel-learn-more-link = Saznaj više
 translations-panel-intro-header = Isprobaj privatne prijevode u pregledniku { -brand-shorter-name }
+translations-panel-intro-description = Radi tvoje privatnosti, prijevodi nikada ne napuštaju tvoj uređaj. Novi jezici i poboljšanja stižu uskoro!
+translations-panel-error-translating = Došlo je do problema pri prevođenju. Pokušaj ponovo.
+translations-panel-error-load-languages = Nije bilo moguće učitati jezike
+translations-panel-error-load-languages-hint = Provjeri internetsku vezu i pokušaj ponovo.
 translations-panel-error-load-languages-hint-button =
     .label = Pokušaj ponovo
 translations-panel-error-unsupported = Prijevod nije dostupan za ovu stranicu
@@ -115,7 +119,27 @@ translations-panel-restore-button =
 translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
 translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
 translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Prijevod
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Iz
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = U
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Pokušaj jedan drugi izvorni jezik
 select-translations-panel-cancel-button =
     .label = Odustani
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopiraj
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopirano
+select-translations-panel-done-button =
+    .label = Gotovo
+select-translations-panel-translate-full-page-button =
+    .label = Prevedi cijelu stranicu
 select-translations-panel-translate-button =
     .label = Prevedi
+select-translations-panel-try-again-button =
+    .label = Pokušaj ponovo
