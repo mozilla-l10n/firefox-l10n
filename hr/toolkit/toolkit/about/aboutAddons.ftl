@@ -250,8 +250,8 @@ discopane-intro =
     lozinke, preuzimanje videozapisa, pronalaženje ponuda, blokiranje
     dosadnih oglasa, izmjenu izgleda preglednika i još puno više. Ove male
     programe često razvijaju treće strane. Ovdje je izbor dodataka koje
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a> za dodatnu
-    sigurnost, perfomanse i funkcionalnost.
+    { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a>
+    za izvrsnu sigurnost, perfomansu i funkcionalnost.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
