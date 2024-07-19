@@ -3,11 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Изпраща на сайтовете "Не следи" сигнал, че не желаете да бъдете проследявани.
+do-not-track-description2 =
+    .label = Изпращане на сайтовете заявка „Без проследяване“.
+    .accesskey = д
 do-not-track-learn-more = Научете повече
 do-not-track-option-default-content-blocking-known =
     .label = Само когато { -brand-short-name } е настроен да блокира известни тракери
 do-not-track-option-always =
     .label = Винаги
+global-privacy-control-description =
+    .label = Уведомяване на сайтовете да не продават или споделят мои данни
+    .accesskey = с
+non-technical-privacy-header = Предпочитания за поверителност към сайтовете
 settings-page-title = Настройки
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -21,6 +28,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Търсене в настройките
 managed-notice = Настройките на вашия браузър се управляват от вашата организация.
+managed-notice-info-icon =
+    .alt = Информация
 category-list =
     .aria-label = Категории
 pane-general-title = Основни
@@ -194,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Премахване
 containers-remove-cancel-button = Запазване
+settings-tabs-show-image-in-preview =
+    .label = Показване на визуализация, когато задържите курсора на мишката върху раздел
+    .accessKey = х
 
 ## General Section - Language & Appearance
 
