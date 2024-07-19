@@ -195,10 +195,10 @@ colorways-cfr-primarybutton = Odaberi kolorit
     .accesskey = O
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Oboji preglednik s ekskluzivnim { -brand-short-name } nijansama inspiriranim glasovima koji su promijenili kulturu.
-colorways-cfr-header-28days = Boje za „Neovisni glasovi” isteču 16. siječnja
-colorways-cfr-header-14days = Boje za „Neovisni glasovi” isteču za dva tjedna
-colorways-cfr-header-7days = Boje za „Neovisni glasovi” isteču ovaj tjedan
-colorways-cfr-header-today = Boje za „Neovisni glasovi” isteču danas
+colorways-cfr-header-28days = Koloriti „Neovisni glasovi” isteču 16. siječnja
+colorways-cfr-header-14days = Koloriti „Neovisni glasovi” isteču za dva tjedna
+colorways-cfr-header-7days = Koloriti „Neovisni glasovi” isteču ovaj tjedan
+colorways-cfr-header-today = Koloriti „Neovisni glasovi” isteču danas
 
 ## Cookie Banner Handling CFR
 
