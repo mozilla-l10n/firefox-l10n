@@ -220,15 +220,19 @@ mr2022-onboarding-colorway-description-expressionist = <b>Ti si ekspresionist.</
 mr2022-onboarding-colorway-label-visionary = Vizionar
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Vizionar (zelena)
+mr2022-onboarding-colorway-description-visionary = <b>Ti si vizionar.</b> Preispituješ status quo i potičeš druge da si zamisle bolju budućnost.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (plava)
+mr2022-onboarding-colorway-description-activist = <b>Ti si aktivist.</b> Ostavljaš svijet boljim mjestom od sadašnjeg i potičeš druge da tome vjeruju.
 mr2022-onboarding-colorway-label-dreamer = Sanjar
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sanjar (ljubičasta)
+mr2022-onboarding-colorway-description-dreamer = <b>Ti si sanjar.</b> Vjeruješ da je sreća naklonjena hrabrima i inspiriraj druge da budu hrabri.
 mr2022-onboarding-colorway-label-innovator = Inovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovator (narančasta)
+mr2022-onboarding-colorway-description-innovator = <b>Ti si inovator.</b> Posvuda vidiš prilike i utječi na živote svih oko sebe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -254,6 +258,8 @@ onboarding-infrequent-import-primary-button = Uvezi u { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Šareni kolaž zelenog oka, narančaste cipele, crvene košarkaške lopte, ljubičastih slušalica, plavog srca i žute krune stvoren ručnim sprejem.
 
 ## Device migration onboarding
 
