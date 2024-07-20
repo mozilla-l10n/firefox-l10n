@@ -475,7 +475,7 @@ browsing-cfr-recommendations =
     .label = Preporuči dodatke tijekom pregledavanja
     .accesskey = r
 browsing-cfr-features =
-    .label = Preporuči mogućnosti tijekom pregledavanja
+    .label = Preporuči funkcije tijekom pregledavanja
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Saznaj više
 

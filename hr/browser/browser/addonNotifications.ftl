@@ -38,8 +38,8 @@ site-permission-install-first-prompt-midi-message = Ovaj pristup nije zajamčeno
 
 ##
 
-xpinstall-disabled-locked = Tvoj administrator sustava je deaktivirao mogućnost instaliranja softvera.
-xpinstall-disabled-by-policy = Tvoja organizacija je deaktivirala mogućnost instaliranja softvera.
+xpinstall-disabled-locked = Tvoj administrator sustava je deaktivirao instaliranje softvera.
+xpinstall-disabled-by-policy = Tvoja organizacija je deaktivirala instaliranje softvera.
 xpinstall-disabled = Instaliranje programa trenutačno je deaktivirano. Klikni na Aktiviraj i pokušaj ponovo.
 xpinstall-disabled-button =
     .label = Aktiviraj

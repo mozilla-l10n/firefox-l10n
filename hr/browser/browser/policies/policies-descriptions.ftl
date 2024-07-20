@@ -43,7 +43,7 @@ policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pre
 policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
 policy-DisablePrimaryPasswordCreation = Ukoliko je točno, neće biti moguće postaviti primarnu lozinku.
 policy-DisablePasswordReveal = Nemoj dozvoliti prikaz spremljenih lozinki.
-policy-DisablePocket2 = Onemogući mogućnost spremanja web stranica u { -pocket-brand-name }.
+policy-DisablePocket2 = Deaktiviraj funkcije za spremanje web stranica u { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Onemogući privatno pregledavanje.
 policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podatka iz drugog preglednika.
 policy-DisableProfileRefresh = Onemogućite tipku za osvježavanje { -brand-short-name } na about:support stranici.
@@ -64,7 +64,7 @@ policy-EncryptedMediaExtensions = Aktiviraj ili deaktiviraj proširenja za šifr
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Mogućnost instalacije uzima URL-ove ili putanje kao parametre. Mogućnosti ukloni ili zaključaj uzima ID dodatka kao parametar.
+policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Opcije instalacije uzima URL-ove ili putanje kao parametre. Opcije za deinstaliranje ili zaključavanje uzima ID dodatka kao parametar.
 policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska aktualiziranja dodataka.
 policy-FirefoxHome2 = Konfiguriraj { -firefox-home-brand-name }.
