@@ -440,7 +440,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -1367,6 +1367,14 @@ httpsonly-radio-enabled-pbm =
     .label = Attiva solo in finestre anonime
 httpsonly-radio-disabled =
     .label = Non attivare
+
+httpsonly-description2 = { -brand-short-name } crea connessioni sicure e crittate ai siti che visiti. Quando la modalità solo HTTPS è attiva, { -brand-short-name } ti avviserà se una connessione non è sicura.
+httpsonly-radio-enabled2 =
+    .label = Utilizza solo HTTPS in tutte le finestre
+httpsonly-radio-enabled-pbm2 =
+    .label = Utilizza solo HTTPS in finestre anonime
+httpsonly-radio-disabled2 =
+    .label = Prova prima HTTPS, ma consenti connessioni non sicure
 
 ## DoH Section
 
