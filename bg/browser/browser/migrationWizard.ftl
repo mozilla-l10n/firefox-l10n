@@ -82,7 +82,15 @@ migration-passwords-from-file-tsv-filter-title =
 migration-bookmarks-from-file-picker-title = Внасяне на файл с отметки
 migration-bookmarks-from-file-progress-header = Внасяне на отметки
 migration-bookmarks-from-file = Отметки
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML документ
+       *[other] HTML файл
+    }
 migration-import-button-label = Внасяне
+migration-done-button-label = Готово
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

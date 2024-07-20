@@ -865,6 +865,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Запазени регистрации…
     .accesskey = р
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Автоматично попълване на потребителски имена и пароли
+    .accesskey = А
 forms-saved-passwords =
     .label = Запазени пароли
     .accesskey = д
@@ -905,6 +909,12 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Автоматично попълване
+autofill-saved-addresses-button = Запазени адреси
+    .accesskey = с
+autofill-payment-methods-checkbox-submessage = Включва кредитни и дебитни карти
+    .accesskey = и
+autofill-saved-payment-methods-button = Запазени начини на плащане
+    .accesskey = п
 
 ## Privacy Section - History
 
@@ -976,6 +986,8 @@ sitedata-option-block-cross-site-tracking-cookies =
     .label = Междусайтови проследяващи бисквитки
 sitedata-option-block-unvisited =
     .label = Бисквитки от непосетени страници
+sitedata-option-block-all-cross-site-cookies =
+    .label = Всички междусайтови бисквитки (може да наруши работата на някои страници)
 sitedata-option-block-all =
     .label = Всички бисквитки (ще наруши работата на страниците)
 sitedata-clear =
@@ -994,6 +1006,7 @@ cookie-banner-handling-header = Намаляване на банерите за 
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-learn-more = Научете повече
 
 ## Privacy Section - Address Bar
 
@@ -1005,6 +1018,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Отметки
     .accesskey = О
+addressbar-locbar-clipboard-option =
+    .label = Системен буфер
+    .accesskey = С
 addressbar-locbar-openpage-option =
     .label = Отворени раздели
     .accesskey = р
@@ -1019,6 +1035,7 @@ addressbar-locbar-engines-option =
     .label = Търсещи машини
     .accesskey = р
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
+addressbar-quickactions-learn-more = Научете повече
 
 ## Privacy Section - Content Blocking
 
@@ -1120,6 +1137,8 @@ permissions-microphone = Микрофон
 permissions-microphone-settings =
     .label = Настройки…
     .accesskey = с
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Избор на високоговорители
 permissions-speaker-settings =
     .label = Настройки…
     .accesskey = т
@@ -1214,6 +1233,7 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Режим „само HTTPS“
+httpsonly-description = HTTPS осигурява сигурна, шифрована връзка между { -brand-short-name } и посещаваните от вас уебсайтове. Повечето уебсайтове поддържат HTTPS и ако режимът „само HTTPS“ е включен, { -brand-short-name } ще надстрои всички връзки до HTTPS.
 httpsonly-learn-more = Научете повече
 httpsonly-radio-enabled =
     .label = Включване на режим „само HTTPS“ за всички прозорци
@@ -1225,17 +1245,29 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS през HTTPS
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Доставчик: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Невалиден URL
 preferences-doh-status-active = Включено
 preferences-doh-status-disabled = Изключено
+preferences-doh-expand-section =
+    .tooltiptext = Повече информация
+preferences-doh-setting-default =
+    .label = Защита по подразбиране
+    .accesskey = д
 preferences-doh-setting-enabled =
     .label = Повишена защита
     .accesskey = и
 preferences-doh-setting-strict =
     .label = Максимална защита
     .accesskey = М
+preferences-doh-setting-off =
+    .label = Изключено
+    .accesskey = о
+preferences-doh-select-resolver = Изберете доставчик:
 
 ## The following strings are used in the Download section of settings
 
