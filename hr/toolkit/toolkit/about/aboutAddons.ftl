@@ -356,7 +356,7 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } je uklonjen.
-pending-uninstall-undo-button = Vrati
+pending-uninstall-undo-button = Poništi
 addon-detail-updates-label = Dozvoli automatska aktualiziranja
 addon-detail-updates-radio-default = Standardno
 addon-detail-updates-radio-on = Uključeno
