@@ -286,9 +286,17 @@ pdfjs-free-text-default-content = Počni tipkati …
 pdfjs-editor-alt-text-button-label = Alternativni tekst
 pdfjs-editor-alt-text-edit-button-label = Uredi alternativni tekst
 pdfjs-editor-alt-text-dialog-label = Odaberi jednu opciju
+pdfjs-editor-alt-text-dialog-description = Alternativni tekst pomaže slijepim osobama ili kada se slika ne učita.
 pdfjs-editor-alt-text-add-description-label = Dodaj opis
+pdfjs-editor-alt-text-add-description-description = Sažmi sadržaj predmeta, okruženje ili radnje u jednoj ili dvije rečenice.
+pdfjs-editor-alt-text-mark-decorative-label = Označi kao ukrasno
+pdfjs-editor-alt-text-mark-decorative-description = Ovo se koristi za ukrasne slike, poput rubova ili vodenih žigova.
 pdfjs-editor-alt-text-cancel-button = Odustani
 pdfjs-editor-alt-text-save-button = Spremi
+pdfjs-editor-alt-text-decorative-tooltip = Označeno kao ukrasno
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Na primjer, „Mladić sjeda za stol kako bi jeo”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -300,3 +308,6 @@ pdfjs-editor-alt-text-save-button = Spremi
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Prikaži sve
+pdfjs-editor-highlight-show-all-button =
+    .title = Prikaži sve

@@ -278,6 +278,7 @@ newtab-wallpaper-dark-aurora = Polarna svjetlost
 
 ## Solid Colors
 
+newtab-wallpaper-orange = Narančasta
 
 ## Abstract
 
@@ -286,6 +287,7 @@ newtab-wallpaper-abstract-green = Zeleni oblici
 newtab-wallpaper-abstract-blue = Plavi oblici
 newtab-wallpaper-abstract-purple = Ljubičasti oblici
 newtab-wallpaper-abstract-orange = Narančasti oblici
+newtab-wallpaper-gradient-orange = Gradijent narančaste i ružičaste
 newtab-wallpaper-abstract-blue-purple = Plavi i ljubičasti oblici
 
 ## Photographs
@@ -302,5 +304,12 @@ newtab-wallpaper-attribution = Autor fotografije <a data-l10n-name="name-link">{
 
 newtab-weather-menu-change-location = Promijeni mjesto
 newtab-weather-change-location-search-input = Traži mjesto
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Jednostavno
+newtab-weather-menu-weather-display-option-detailed = Detaljano
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celzija
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podaci o vremenu trenutačno nisu dostupni.
