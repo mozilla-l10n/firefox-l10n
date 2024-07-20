@@ -146,8 +146,8 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
             [one] Prikaži { $tabCount } karticu
-            [few] Prikaži { $tabCount } kartice
-           *[other] Prikaži svih { $tabCount } kartica
+            [few] Prikaži sve { $tabCount } kartice
+           *[other] Prikaži sve { $tabCount } kartice
         }
 
 ## Tab manager menu buttons

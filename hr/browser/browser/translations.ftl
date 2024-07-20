@@ -116,9 +116,22 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-all-language = Svi jezici
+translations-manage-language-download-all-button =
+    .label = Preuzmi sve
+    .accesskey = P
+translations-manage-language-remove-all-button =
+    .label = Ukloni sve
+    .accesskey = U
 translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
 translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
 translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
+translations-settings-remove-all-languages-button =
+    .label = Ukloni sve jezike
+    .accesskey = e
+translations-settings-remove-all-sites-button =
+    .label = Ukloni sve stranice
+    .accesskey = k
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Prijevod
 # Text displayed above the from-language dropdown menu.

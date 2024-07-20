@@ -7,4 +7,5 @@
 ## in an image, and copies the results to the clipboard.
 
 text-recognition-modal-close-button = Zatvori
-
+# The title of the the modal is only available to screen readers.
+text-recognition-modal-accessible-modal-title = Rezultati za izdvajanje teksta

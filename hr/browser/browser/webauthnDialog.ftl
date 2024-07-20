@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webauthn-pin-required-prompt = Upiši PIN za tvoj uređaj.
+webauthn-select-sign-result-unknown-account = Nepoznati račun
+webauthn-a-passkey-label = Koristi pristupni ključ
+webauthn-another-passkey-label = Koristi jedan drugi pristupni ključ

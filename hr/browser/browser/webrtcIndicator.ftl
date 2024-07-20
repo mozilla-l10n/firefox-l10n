@@ -104,7 +104,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
            *[other] Dijeljenje mikrofona sa { $tabCount } kartica
         }
 webrtc-indicator-menuitem-sharing-application-with =
-    .label = Aplikacija se dijeli sa "{ $streamTitle }"
+    .label = Dijeljenje aplikacije sa „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -159,6 +159,9 @@ webrtc-allow-share-screen-and-audio-capture = Dozvoliti stranici { $origin } da 
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = Dopustiti ovoj lokalnoj datoteci da sluša zvuk ove kartice?
+webrtc-allow-share-camera-with-file = Dopustiti ovoj lokalnoj datoteci da koristi tvoju kameru?
+webrtc-allow-share-microphone-with-file = Dopustiti ovoj lokalnoj datoteci da koristi tvoj mikrofon?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Dozvoliti ovoj lokalnoj datoteci da koristi druge zvučnike?
