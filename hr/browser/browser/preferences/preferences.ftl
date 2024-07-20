@@ -301,8 +301,8 @@ applications-type-column =
     .label = Vrsta sadržaja
     .accesskey = t
 applications-action-column =
-    .label = Akcija
-    .accesskey = A
+    .label = Radnja
+    .accesskey = R
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } datoteka
