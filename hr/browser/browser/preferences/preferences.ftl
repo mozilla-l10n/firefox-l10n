@@ -190,6 +190,19 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Koristi svijetli izgled za pozadinu i sadržaj web stranice.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Tvoj izbor boja nadvladava izgled web stranice.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u sekciji <a data-l10n-name="themes-link">Dodaci i teme</a>
@@ -650,6 +663,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Primijeni sliku profila
     .alt = Primijeni sliku profila
+sync-profile-picture-account-problem =
+    .alt = Slika profila računa
 sync-sign-out =
     .label = Odjavi se …
     .accesskey = O
@@ -667,6 +682,9 @@ sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
 sync-resend-verification =
     .label = Ponovo pošalji potvrdu
     .accesskey = d
+sync-verify-account =
+    .label = Potvrdi račun
+    .accesskey = v
 sync-remove-account =
     .label = Ukloni račun
     .accesskey = r
@@ -694,6 +712,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Ove stavke sinkroniziraš na svim svojim povezanim uređajima:
 sync-currently-syncing-bookmarks = Zabilješke
 sync-currently-syncing-history = Povijest
 sync-currently-syncing-tabs = Otvorene kartice
@@ -1037,6 +1056,10 @@ content-blocking-unvisited-cookies = Kolačići neposjećenih stranica
 content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
 content-blocking-cryptominers = Kripto-rudari
 content-blocking-fingerprinters = Jedinstvene otiske
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi čitači digitalnih otisaka
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1201,6 +1224,10 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-status-active = Aktivno
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Nije aktivno ({ $reason })
 preferences-doh-default-desc = { -brand-short-name } odlučuje kada koristiti sigurni DNS za zaštitu tvoje privatnosti.
 
 ## The following strings are used in the Download section of settings
