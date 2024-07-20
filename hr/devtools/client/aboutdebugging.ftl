@@ -120,15 +120,15 @@ about-debugging-setup-usb-step-plug-device = Spojite Android uređaj s računalo
 about-debugging-setup-usb-troubleshoot = Imaš probleme povezati se s USB uređajem? <a>Rješavanje problema</a>
 # Network section of the Setup page
 about-debugging-setup-network =
-    .title = Lokacija mreže
+    .title = Adresa mreže
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
-about-debugging-setup-network-troubleshoot = Imaš probleme povezati se putem mrežne lokacije? <a>Rješavanje problema</a>
+about-debugging-setup-network-troubleshoot = Imaš probleme povezati se putem mrežne adrese? <a>Rješavanje problema</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Dodaj
 # Text to display when there are no locations to show.
-about-debugging-network-locations-empty-text = Još nisu dodane mrežne lokacije.
+about-debugging-network-locations-empty-text = Još nije dodana nijedna mrežna adresa.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
