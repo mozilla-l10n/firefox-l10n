@@ -115,6 +115,6 @@ certificate-viewer-unknown-group-label = (nepoznato)
 
 certificate-viewer-tab-mine = Tvoji certifikati
 certificate-viewer-tab-people = Osobe
-certificate-viewer-tab-servers = Poslužitelji
+certificate-viewer-tab-servers = Serveri
 certificate-viewer-tab-ca = Certifikacijska tijela
 certificate-viewer-tab-unkonwn = Nepoznato

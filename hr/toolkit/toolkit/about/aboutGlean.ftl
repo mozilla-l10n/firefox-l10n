@@ -5,6 +5,7 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+about-glean-upload-enabled-local = Prijenos podataka je aktiviran samo za slanje na lokalni server.
 # Variables:
 #   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
 # Do not translate strings between <code> </code> tags.
