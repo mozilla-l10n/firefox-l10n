@@ -127,4 +127,4 @@ printui-error-invalid-copies = Kopije moraju biti broj između 1 i 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Raspon mora biti broj između 1 i { $numPages }.
-printui-error-invalid-start-overflow = Broj stranice “od” mora biti manji od broja stranice “do”.
+printui-error-invalid-start-overflow = Broj stranice „od” mora biti manji od broja stranice „do”.

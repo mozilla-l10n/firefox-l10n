@@ -35,6 +35,7 @@ process-type-prealloc = Unaprijed alocirano
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Utičnica
+process-type-utility-actor-js-oracle = Uslužni program JavaScript Oracle
 
 ##
 ## Other

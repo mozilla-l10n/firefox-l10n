@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = spremi about:webrtc kao
@@ -22,7 +21,6 @@ about-webrtc-aec-logging-msg-label = AEC zapisnik
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisnik
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisnik
 about-webrtc-aec-logging-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,14 +28,14 @@ about-webrtc-aec-logging-toggled-off-state-msg = Snimljene log datoteke je mogu�
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatsko aktualiziranje stranice
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Broj otvorenih podatkovnih kanala:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -81,12 +79,10 @@ about-webrtc-type-remote = Udaljeno
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Predloženo
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Odabrano
-
 about-webrtc-save-page-label = Spremi stranicu
 about-webrtc-debug-mode-msg-label = Debug način rada
 about-webrtc-debug-mode-off-state-label = Započni debug način rada
@@ -99,7 +95,6 @@ about-webrtc-log-show-msg = prikaži zapisnik
     .title = klikni za rasklapanje ovog odjeljka
 about-webrtc-log-hide-msg = sakrij zapisnik
     .title = klikni za sklapanje ovog odjeljka
-
 about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Klikni za rasklapanje ovog odjeljka
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
@@ -155,10 +150,16 @@ about-webrtc-rotation-degrees = Okretanje (u stupnjevima)
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Zadano
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nije zadano
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -169,13 +170,11 @@ about-webrtc-save-page-msg = stranica spremljena u: { $path }
 about-webrtc-debug-mode-off-state-msg = trace zapisnik je moguće pronaći na: { $path }
 about-webrtc-debug-mode-on-state-msg = debug način rada aktivan, trace zapisnik pri: { $path }
 about-webrtc-aec-logging-off-state-msg = snimljene log datoteke je moguće pronaći u: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stranica spremljena u: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Trace zapisnik je moguće pronaći na: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Debug način rada aktivan, trace zapisnik pri: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
