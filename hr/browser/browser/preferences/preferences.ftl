@@ -77,6 +77,9 @@ restart-later = Ponovo pokreni kasnije
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolira ovu postavku.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #

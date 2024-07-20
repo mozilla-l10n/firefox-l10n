@@ -135,7 +135,10 @@ places-untag-bookmark =
 places-manage-bookmarks =
     .label = Upravljaj zabilješkama
     .accesskey = m
-places-forget-about-this-site-confirmation-title = Zaboravljanje ove stranice
+places-forget-about-this-site-confirmation-title = Zaboravi ovu stranicu
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ova radnja će ukloniti podatke koji se odnose na { $hostOrBaseDomain } uključujući povijest, kolačiće, predmemoriju i postavke sadržaja. Povezane oznake i lozinke se neće ukloniti. Stvarno želiš nastaviti?
 places-forget-about-this-site-forget = Zaboravi
 places-library3 =
     .title = Biblioteka

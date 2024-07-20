@@ -23,6 +23,10 @@ address-capture-update-doorhanger-header = Aktualizirati adresu?
 address-capture-update-button =
     .label = Aktualiziraj
     .accessKey = A
+address-capture-manage-address-button =
+    .label = Postavke adrese
+address-capture-edit-address-button =
+    .aria-label = Uredi adresu
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Dodaj adresu
 # The dialog title for editing addresses in browser preferences.
@@ -51,7 +55,7 @@ autofill-address-city = Grad
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Okrug
 # Used in GB, NO, SE
-autofill-address-post-town = Poštanski grad
+autofill-address-post-town = Poštanski broj grada
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = Predgrađe
 

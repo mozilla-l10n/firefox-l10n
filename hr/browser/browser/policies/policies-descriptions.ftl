@@ -11,6 +11,8 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Postavi pravila kojima će WebExtensions moći pristupiti putem chrome.storage.managed.
+policy-AllowedDomainsForApps = Definiraj domene kojima je dopušten pristup Google Workspaceu.
+policy-AllowFileSelectionDialogs = Dopusti dijaloške okvire za biranje datoteke.
 policy-AppAutoUpdate = Aktiviraj ili deaktiviraj automatsko aktualiziranje programa.
 policy-AppUpdatePin = Spriječi { -brand-short-name } da se aktualizira na noviju verziju od navedene.
 policy-AppUpdateURL = Postavi prilagođeni URL za aktualiziranje programa.
