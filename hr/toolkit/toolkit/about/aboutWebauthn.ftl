@@ -8,6 +8,7 @@
 
 ## Section titles
 
+about-webauthn-options-subsection-title = Opcije autentifikatora
 
 ## Info field texts
 
@@ -71,3 +72,4 @@ about-webauthn-auth-info-null = Nije podržano
 ##
 
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Nema aktivnosti od korisnika.
+about-webauthn-ctap2-enroll-feedback-other = Primjer greške.

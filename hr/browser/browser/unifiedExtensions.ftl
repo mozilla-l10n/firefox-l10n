@@ -14,6 +14,12 @@ unified-extensions-manage-extensions =
 
 ## An extension in the main list
 
+# Each extension in the unified extensions panel (list) has a secondary button
+# to open a context menu. This string is used for each of these buttons.
+# Variables:
+#   $extensionName (String) - Name of the extension
+unified-extensions-item-open-menu =
+    .aria-label = Otvori izbornik za { $extensionName }
 unified-extensions-item-message-manage = Upravljaj proširenjem
 
 ## Extension's context menu

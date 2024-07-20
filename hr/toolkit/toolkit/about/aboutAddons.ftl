@@ -17,7 +17,7 @@ list-empty-get-language-packs-message = Nabavi jezične pakete na <a data-l10n-n
 ##
 
 list-empty-installed =
-    .value = Nemate instaliran nijedan dodatak ove vrste
+    .value = Nemaš instaliran nijedan dodatak ove vrste
 list-empty-available-updates =
     .value = Nema novih verzija
 list-empty-recent-updates =

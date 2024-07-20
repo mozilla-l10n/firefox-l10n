@@ -155,6 +155,7 @@ media-capabilities-enumerate = Popis unosa baze podataka
 
 ## Codec support table
 
+media-codec-support-lack-of-extension = Instaliraj proširenje
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
@@ -329,6 +330,7 @@ fission-status-enabled-by-default = Standardno aktivirano
 fission-status-disabled-by-default = Onemogućeno prema zadanim postavkama
 fission-status-enabled-by-user-pref = Omogućio korisnik
 fission-status-disabled-by-user-pref = Onemogućio korisnik
+fission-status-disabled-by-e10s-other = E10s deaktiviran
 async-pan-zoom = Asinkrono pomicanje/zumiranje
 apz-none = ništa
 wheel-enabled = unos kotačićem aktiviran
@@ -361,6 +363,7 @@ support-printing-prefs-value = Vrijednost
 
 ## Remote Settings sections
 
+support-remote-settings-status-ok = U redu
 
 ## Normandy sections
 
