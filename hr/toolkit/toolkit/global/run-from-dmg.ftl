@@ -22,3 +22,6 @@ install-failed-message = { -brand-short-name } instalacija nije uspjela, ali i d
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Otvoriti postojeću aplikaciju { -brand-short-name }?
+prompt-to-launch-existing-app-yes-button = Otvori postojeću
+prompt-to-launch-existing-app-no-button = Ne hvala
