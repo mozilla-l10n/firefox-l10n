@@ -33,7 +33,7 @@ about-logins-menu-menuitem-export-logins2 = Izvezi lozinke…
 about-logins-menu-menuitem-remove-all-logins2 = Ukloni sve lozinke…
 menu-menuitem-preferences =
     { PLATFORM() ->
-        [windows] Mogućnosti
+        [windows] Opcije
        *[other] Postavke
     }
 about-logins-menu-menuitem-help = Pomoć

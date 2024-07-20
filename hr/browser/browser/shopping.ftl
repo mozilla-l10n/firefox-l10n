@@ -32,9 +32,13 @@ shopping-message-bar-keep-closed-accept-button = Da, zadrži zatvoreno
 
 ## Strings for show more card
 
+shopping-show-more-button = Prikaži više
+shopping-show-less-button = Prikaži manje
 
 ## Strings for the settings card
 
+shopping-settings-recommendations-toggle =
+    .label = Prikaži oglase u pregledniku recenzija
 shopping-settings-auto-open-toggle =
     .label = Automatski otvori preglednik recenzija
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.

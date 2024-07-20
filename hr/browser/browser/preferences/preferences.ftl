@@ -187,6 +187,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Ukloni ovaj kontejner
 containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
+settings-tabs-show-image-in-preview =
+    .label = Prikaži pregled slike kada prelaziš pokazivačem na kartici
+    .accessKey = P
 
 ## General Section - Language & Appearance
 

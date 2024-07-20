@@ -7,3 +7,6 @@
 ### localized (https://freebsoft.org/speechd).
 
 speech-dispatcher-lib-too-old = Ne možeš koristiti sintezu govora jer se Speech Dispatcher mora aktualizirati.
+speech-dispatcher-dismiss-button =
+    .label = Nemoj ponovo prikazati
+    .accesskey = N
