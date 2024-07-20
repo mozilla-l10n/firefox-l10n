@@ -54,6 +54,7 @@ mr1-onboarding-theme-header = Učini ga svojim
 mr1-onboarding-theme-subtitle = Personaliziraj { -brand-short-name } temom.
 mr1-onboarding-theme-secondary-button-label = Ne sada
 newtab-wallpaper-onboarding-title = Dodaj nešto boje
+newtab-wallpaper-onboarding-subtitle = Odaberi sliku pozadinu kako bi tvoja nova kartica dobila svjež izgled.
 newtab-wallpaper-onboarding-primary-button-label = Postavi sliku pozadine
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sustava
@@ -166,6 +167,12 @@ mr2022-onboarding-secondary-skip-button-label = Preskoči ovaj korak
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Spremi i nastavi
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Postavi { -brand-short-name } kao standardni preglednik
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Uvezi iz prethodnog preglednika
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -194,9 +201,12 @@ mr2022-onboarding-set-default-primary-button-label = Postavi { -brand-short-name
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Postavi u tren oka
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Super brzo postavljanje
+mr2022-onboarding-import-subtitle = Postavi { -brand-short-name } kako te se sviđa. Dodaj oznake, lozinke i još mnogo toga iz svog starog preglednika.
 mr2022-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog preglednika
 
 ## If your language uses grammatical genders, in the description for the
@@ -239,10 +249,18 @@ mr2022-onboarding-colorway-description-innovator = <b>Ti si inovator.</b> Posvud
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Snimi QR kod za preuzimanje { -brand-product-name } za mobilni uređaj.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Dobij slobodu privatnog pregledavanja jednim klikom
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Bez spremljenih kolačića ili povijesti, izravno s tvoje radne površine. Pregledavaj kao da nitko ne gleda.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Drži { -brand-short-name } privatno pregledavanje u Docku
+       *[other] Prikvači { -brand-short-name } privatno pregledavanje u programsku traku
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
