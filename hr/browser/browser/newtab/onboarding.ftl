@@ -17,7 +17,7 @@ mr1-onboarding-get-started-primary-button-label = Započni
 
 ## Custom Return To AMO onboarding strings
 
-return-to-amo-subtitle = Super, koristite { -brand-short-name }
+return-to-amo-subtitle = Super, imaš { -brand-short-name }
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:

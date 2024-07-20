@@ -274,17 +274,33 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-dark-aurora = Polarna svjetlost
 
 ## Solid Colors
 
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstraktno
+newtab-wallpaper-abstract-green = Zeleni oblici
+newtab-wallpaper-abstract-blue = Plavi oblici
+newtab-wallpaper-abstract-purple = Ljubičasti oblici
+newtab-wallpaper-abstract-orange = Narančasti oblici
+newtab-wallpaper-abstract-blue-purple = Plavi i ljubičasti oblici
 
 ## Photographs
 
+newtab-wallpaper-beach-at-sunrise = Plaža pri izlasku sunca
+newtab-wallpaper-beach-at-sunset = Plaža pri zalasku sunca
+newtab-wallpaper-red-panda-yawns-in-a-tree = Crvena panda zijeva na drvetu
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Autor fotografije <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 
 ## New Tab Weather
 
 newtab-weather-menu-change-location = Promijeni mjesto
 newtab-weather-change-location-search-input = Traži mjesto
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Podaci o vremenu trenutačno nisu dostupni.

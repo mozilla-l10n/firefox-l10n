@@ -135,7 +135,7 @@ permissions-site-notification-disable-desc = Ovo će spriječiti traženje dopu�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Postavke – Dozvole za mjesta
+    .title = Postavke – Dozvole pristupanja mjestu
     .style = { permissions-window2.style }
 permissions-site-location-desc = Sljedeće web stranice su zatražile pristup tvom mjestu. Možeš navesti web stranice kojima dozvoljavaš pristup tvom mjestu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mjestu.
 permissions-site-location-disable-label =

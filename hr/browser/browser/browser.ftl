@@ -651,6 +651,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Zašto ovo vidim?
     .accesskey = Z
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Hvala na odgovoru. Više nećeš vidjeti pretraživanja u trendu.
 
 ## Reader View toolbar buttons
 
@@ -929,6 +932,9 @@ data-reporting-notification-button =
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privatno pregledavanje
 content-analysis-panel-title = Zaštita podataka
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Tvoja organizacija koristi { $agentName } za zaštitu od gubitka podataka. <a data-l10n-name="info">Saznaj više</a>
 
 ## Unified extensions (toolbar) button
 
