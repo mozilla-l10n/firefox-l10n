@@ -50,6 +50,10 @@ shopping-settings-auto-open-description-single-site = Kada pregledavaš proizvod
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Prilagođene recenzije
 shopping-adjusted-rating-unreliable-reviews = Nepouzdane recenzije uklonjene
 shopping-adjusted-rating-based-reliable-reviews = Na temelju pouzdanih recenzija
 
@@ -71,9 +75,12 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-button = Provjeri kvalitetu recenzije
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Razmotri još
 
 ## Shopping survey strings.
 
@@ -82,6 +89,12 @@ shopping-analysis-explainer-label =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Sažetak ilustracija triju recenzija proizvoda. Jedan ima simbol upozorenja koji ukazuje da možda nije pouzdan.
+shopping-callout-disabled-auto-open-title = Preglednik recenzija je sada standardno zatvoren
+shopping-callout-disabled-auto-open-subtitle = Klikni ikonu oznake cijene u adresnoj traci kad god želiš vidjeti je li možeš li vjerovati recenzijama proizvoda.
+shopping-callout-disabled-auto-open-button = Razumijem
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Označavanjem gumba „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">pravila privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>

@@ -3,18 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nova kartica
-
 tabbrowser-menuitem-close-tab =
     .label = Zatvori karticu
 tabbrowser-menuitem-close =
     .label = Zatvori
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -106,13 +103,20 @@ tabbrowser-confirm-caretbrowsing-title = Pregledavanje kursorom
 tabbrowser-confirm-caretbrowsing-message = Pritiskom na F7 uključuje se ili isključuje pregledavanje kursorom. Ova funkcija postavlja pomični kursor na web-stranice, što omogućuje biranje teksta tipkovnicom. Želiš li uključiti pregledavanje pomoću kursora?
 tabbrowser-confirm-caretbrowsing-checkbox = Ne prikazuj više ovaj dijaloški okvir.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-title = Zatvoriti duple kartice?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Zatvorit ćemo duple kartice u ovom prozoru. Zadnja aktivna
+    kartica će ostati otvorena.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Zatvori kartice
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Dopusti ovakvim obavijestima od { $domain } da te vrati na njihovu karticu
-
 tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -131,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Uključi zvuk kartica
     .accesskey = U
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Reprodukcija zvuka
 
 ## Ctrl-Tab dialog
 
