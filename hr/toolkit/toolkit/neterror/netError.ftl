@@ -10,7 +10,7 @@ certerror-page-title = Upozorenje: potencijalni sigurnosni rizik
 certerror-sts-page-title = Neuspjelo povezivanje: potencijalni sigurnosni problem
 neterror-blocked-by-policy-page-title = Blokirana stranica
 neterror-captive-portal-page-title = Prijava na mrežu
-neterror-dns-not-found-title = Poslužitelj nije pronađen
+neterror-dns-not-found-title = Server nije pronađen
 neterror-malformed-uri-page-title = Neispravan URL
 
 ## Error page actions
@@ -72,7 +72,7 @@ neterror-proxy-resolve-failure-settings = Provjeri postavke za proxy.
 neterror-proxy-resolve-failure-connection = Provjeri ima li tvoje računalo ispravnu vezu s mrežom.
 neterror-proxy-resolve-failure-firewall = Ako je tvoje računalo zaštićeno vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristupanje webu.
 neterror-proxy-connect-failure-settings = Provjeri proxy postavke i potvrdi da su ispravne.
-neterror-proxy-connect-failure-contact-admin = Kontaktiraj administratora mreže i provjeri da je proxy poslužitelj radi.
+neterror-proxy-connect-failure-contact-admin = Kontaktiraj administratora mreže i provjeri da proxy server radi.
 neterror-content-encoding-error = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
 neterror-unsafe-content-type = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
 neterror-nss-failure-not-verified = Stranicu koju pokušavaš vidjeti nije moguće prikazati, jer nije moguće provjeriti autentičnost primljenih podataka.
@@ -96,13 +96,13 @@ neterror-corrupted-content-contact-website = Kontaktiraj vlasnike web-stranice i
 neterror-sslv3-used = Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje smatraš da su sigurne. Administrator web stranice će morati popraviti poslužitelj prije nego možeš posjetiti stranicu.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje smatraš da su sigurne. Administrator web stranice će morati popraviti server prije nego možeš posjetiti stranicu.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Tvoje računalo misli da je { DATETIME($now, dateStyle: "medium") }, što sprečava { -brand-short-name } da se sigurno poveže. Za posjećivanje poslužitelja <b>{ $hostname }</b>, aktualiziraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda osvježi <b>{ $hostname }</b>.
+neterror-clock-skew-error = Tvoje računalo misli da je { DATETIME($now, dateStyle: "medium") }, što sprečava { -brand-short-name } da se sigurno poveže. Za posjećivanje servera <b>{ $hostname }</b>, aktualiziraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda aktualiziraj <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u mrežnom protokolu.
 neterror-network-protocol-error-contact-website = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
 certerror-expired-cert-second-para = Vjerojatno je certifikat web-stranice istekao, što sprečava { -brand-short-name } da se sigurno poveže. Ukoliko posjetiš ovu web-stranicu, napadači mogu pokušati ukrasti tvoje lozinke, e-poruke ili podatke kreditne kartice.
