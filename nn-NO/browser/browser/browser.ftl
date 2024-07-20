@@ -649,6 +649,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Kvifor ser eg dette?
     .accesskey = K
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Takk for tilbakemeldinga di. Du vil ikkje lenger sjå populære søk.
 
 ## Reader View toolbar buttons
 
