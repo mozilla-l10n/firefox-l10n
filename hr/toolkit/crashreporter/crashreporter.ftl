@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-apology = Oprosti
-crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i prekinuo je rad. Pokušat ćemo vratiti tvoje kartice i prozore kada se ponovo pokrene.
+crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i prekinuo je rad. Pokušat ćemo obnoviti tvoje kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Da biste nam pomogli u ispravljanju problema, možete nam poslati izvještaj rušenja.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljji: { $details }

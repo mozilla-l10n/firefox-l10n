@@ -408,7 +408,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Proširi
 browser-window-restore-down-button =
-    .tooltiptext = Vrati dolje
+    .tooltiptext = Obnovi dolje
 browser-window-close-button =
     .tooltiptext = Zatvori
 

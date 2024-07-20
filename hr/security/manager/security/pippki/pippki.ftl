@@ -96,7 +96,7 @@ set-password-backup-pw =
     .value = Sigurnosna kopija lozinke certifikata:
 set-password-repeat-backup-pw =
     .value = Sigurnosna kopija lozinke certifikata (opet):
-set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći vratiti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
+set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći obnoviti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
 
 ## Protected authentication alert
 

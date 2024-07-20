@@ -20,7 +20,7 @@ neterror-copy-to-clipboard-button = Kopiraj tekst u međuspremnik
 neterror-learn-more-link = Saznaj više …
 neterror-open-portal-login-page-button = Otvaranje stranice prijave na mrežu
 neterror-override-exception-button = Prihvati rizik i nastavi
-neterror-pref-reset-button = Vrati standardne postavke
+neterror-pref-reset-button = Obnovi standardne postavke
 neterror-return-to-previous-page-button = Idi natrag
 neterror-return-to-previous-page-recommended-button = Natrag (preporučeno)
 neterror-try-again-button = Pokušaj ponovo
@@ -29,7 +29,7 @@ neterror-view-certificate-link = Pregled certifikata
 
 ##
 
-neterror-pref-reset = Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li vratiti standardne postavke?
+neterror-pref-reset = Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li obnoviti standardne postavke?
 neterror-error-reporting-automatic = Prijavi greške poput ove i pomogni { -vendor-short-name } identificirati i blokirati zlonamjerne stranice
 
 ## Specific error messages
