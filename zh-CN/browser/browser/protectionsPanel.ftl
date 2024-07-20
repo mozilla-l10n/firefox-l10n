@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = 关于增强型跟踪保护功能的更多信息
 protections-panel-etp-on-header = 此网站已开启增强型跟踪保护
 protections-panel-etp-off-header = 此网站已关闭增强型跟踪保护
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = 网站不正常？
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = 网站不正常？
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = 增强型跟踪保护
     .description = 已为此网站关闭
     .aria-label = 增强型跟踪保护：已为 { $host } 关闭
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = 网站不正常？
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = 网站不正常？
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -95,7 +95,7 @@ protections-panel-site-not-working-view-send-report = 发送反馈
 
 protections-panel-cross-site-tracking-cookies = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。
 protections-panel-cryptominers = 加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。
-protections-panel-fingerprinters = 数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。
+protections-panel-fingerprinters = 数字指纹跟踪程序会收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。
 protections-panel-tracking-content = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录栏可能无法正常工作。
 protections-panel-social-media-trackers = 社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。
 protections-panel-description-shim-allowed = 由于您已与此页面上的部分跟踪器交互过，已放行下列标记的跟踪器。
@@ -108,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = 反馈网站问题
 protections-panel-content-blocking-breakage-report-view-description = 拦截某些跟踪器可能导致部分网站出现问题，反馈问题可以帮助改善所有用户的 { -brand-short-name } 使用体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。<label data-l10n-name="learn-more">详细了解</label>
-protections-panel-content-blocking-breakage-report-view-description2 = 拦截某些跟踪器可能导致部分网站出现问题，反馈问题可以帮助改善所有用户的 { -brand-short-name } 使用体验。发送反馈将会向 { -vendor-short-name } 发送网页的地址及浏览器的有关信息。
 protections-panel-content-blocking-breakage-report-view-collection-url = 网址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 网址
