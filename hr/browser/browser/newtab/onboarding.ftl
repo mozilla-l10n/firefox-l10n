@@ -267,15 +267,25 @@ mr2022-onboarding-import-image-alt =
     .aria-label = Osoba koja vozi skateboard s kutijom softverskih ikona
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Žabe koje skaču po ljiljanima s QR kodom za preuzimanje { -brand-product-name } za mobitel u centru
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Čarobni štapić prikazuje { -brand-product-name } logotip privatnog pregledavanja iz šešira
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Ikona „Daj mi pet” za svijetlopute i tamnopute ruke
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pogled zalaska sunca kroz prozor s lisicom i sobnom biljkom na prozorskoj dasci
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Šareni kolaž zelenog oka, narančaste cipele, crvene košarkaške lopte, ljubičastih slušalica, plavog srca i žute krune stvoren ručnim sprejem.
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Lisica na ekranu prijenosnog računala maše. Prijenosno računalo ima priključen miš.
 onboarding-device-migration-primary-button-label = Prijava
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Volimo te štititi
 
 ## New user time and familiarity survey strings
 
