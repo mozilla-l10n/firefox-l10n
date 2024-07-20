@@ -119,6 +119,7 @@ policy-Permissions2 = Prawa za kameru, mikrofon, adresu, zdźělenki a awtomatis
 policy-PictureInPicture = Wobraz-we-wobrazu zmóžnić abo znjemóžnić.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
+policy-PrivateBrowsingModeAvailability = Nastajće disponujomnosć priwatneho modusa.
 policy-PromptForDownloadLocation = Prašeć so, hdźež maja so dataje při sćehnjenju składować.
 policy-Proxy = Nastajenja proksy konfigurować.
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
