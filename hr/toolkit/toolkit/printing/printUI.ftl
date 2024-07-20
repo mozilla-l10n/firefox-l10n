@@ -25,8 +25,8 @@ printui-page-custom-range-input =
     .placeholder = npr. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopije
-printui-orientation = Usmjerenje
-printui-landscape = Horizontalno
+printui-orientation = Položaj
+printui-landscape = Položeno
 printui-portrait = Uspravno
 # Section title for the printer or destination device to target
 printui-destination-label = Cilj
@@ -66,7 +66,7 @@ printui-simplify-page-radio = Pojednostavljeno
 
 ##
 
-printui-color-mode-label = Tip boje
+printui-color-mode-label = Modus boje
 printui-color-mode-color = Boja
 printui-color-mode-bw = Crno-bijelo
 printui-margins = Margine
@@ -97,7 +97,7 @@ printui-loading = Priprema pregleda
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Pregled ispisa
-printui-pages-per-sheet = Stranica po listu
+printui-pages-per-sheet = Broj stranica po listu
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ispisivanje…
