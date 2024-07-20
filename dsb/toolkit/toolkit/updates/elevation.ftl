@@ -12,6 +12,7 @@ elevation-finished-page = Aktualizacija gótowa za instalaciju
 elevation-finished-background-page = Aktualizacija wěstoty a stabilnosći za { -brand-short-name } jo se ześěgnuła a móžo se něnto instalěrowaś.
 elevation-finished-background = Aktualizacija:
 elevation-more-elevated = Toś ta aktualizacija pomina se administratorowe priwilegije. Aktualizacija buźo se pśiducy raz instalěrowaś, gaž se { -brand-short-name } startujo. Móžośo { -brand-short-name } něnto znowego startowaś, dalej źěłaś a pózdźej znowaego startowaś abo toś tu aktualizaciju wótpokazaś.
+sandbox-missing-unprivileged-namespaces = Někotare wěstotne funkcije { -brand-short-name } na wašom aktualnem źěłowem systemje mjenjej šćita bitujo.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Wěcej se njepokazaś
     .accesskey = W
