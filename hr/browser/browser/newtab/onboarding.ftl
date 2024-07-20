@@ -22,13 +22,14 @@ return-to-amo-subtitle = Super, imaš { -brand-short-name }
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Dohvatimo ti sada <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-addon-title = Sada instalirajmo <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Dodaj proširenje
 return-to-amo-add-theme-label = Dodaj temu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Upoznaj { -brand-short-name }
+mr1-return-to-amo-addon-title = Imaš brz, privatan preglednik na dohvat ruke. Sada možeš dodati <b>{ $addon-name }</b> i učiniti još više pomoću { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -258,6 +259,14 @@ onboarding-infrequent-import-primary-button = Uvezi u { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Osoba koja radi na prijenosnom računalu okružena zvijezdama i cvijećem
+mr2022-onboarding-default-image-alt =
+    .aria-label = Osoba grli { -brand-product-name } logotip
+mr2022-onboarding-import-image-alt =
+    .aria-label = Osoba koja vozi skateboard s kutijom softverskih ikona
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žabe koje skaču po ljiljanima s QR kodom za preuzimanje { -brand-product-name } za mobitel u centru
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Šareni kolaž zelenog oka, narančaste cipele, crvene košarkaške lopte, ljubičastih slušalica, plavog srca i žute krune stvoren ručnim sprejem.
 
