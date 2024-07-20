@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Izvor ping podataka:
-about-telemetry-show-current-data = Trenutačni podaci
+about-telemetry-show-current-data = Aktualni podaci
 about-telemetry-show-archived-ping-data = Arhivirani ping podaci
 about-telemetry-show-subsession-data = Prikaži podatke podsesije
 about-telemetry-choose-ping = Odaberi ping:
@@ -38,7 +38,7 @@ about-telemetry-fetch-stack-symbols = Prikupi imena funkcija za stogove
 about-telemetry-hide-stack-symbols = Prikaži sirove podatke stogova
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] podaci izdanja
@@ -46,7 +46,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] aktivirano
@@ -54,9 +54,9 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } uzorak, prosjek = { $prettyAverage }, zbroj = { $sum }
@@ -64,36 +64,36 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } uzoraka, prosjek = { $prettyAverage }, zbroj = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansi, hardveru, korištenju i podešenjima prikupljenim od Telemetrije. Ovi podaci se šalju u { $telemetryServerOwner } kako bi pomogli unaprijediti { -brand-full-name }.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>”. Gledate na { $name }, { $timestamp } ping.
 about-telemetry-data-details-current = Svaki dio podataka šalje se u paketu „<a data-l10n-name="ping-link">pingova</a>”. Gledaš trenutačne podatke.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Pronađi u { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Pronađi u svim odjeljcima
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Rezultati za “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Nema rezultata u { $sectionName } za “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Žao nam je! Trenutačno nema podataka u „{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = trenutačni podaci
@@ -111,13 +111,13 @@ about-telemetry-slow-sql-statement = Izjava
 about-telemetry-addon-table-id = ID dodatka
 about-telemetry-addon-table-details = Detalji
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } pružatelj usluge
 about-telemetry-keys-header = Svojstvo
 about-telemetry-names-header = Naziv
 about-telemetry-values-header = Vrijednost
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Zakašnjelo zapisivanje #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Mapa memorije:
@@ -128,5 +128,5 @@ about-telemetry-method-header = način
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = dodatno
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } proces

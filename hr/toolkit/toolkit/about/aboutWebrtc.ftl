@@ -144,6 +144,7 @@ about-webrtc-rotation-degrees = Okretanje (u stupnjevima)
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Prikaži konfiguraciju
 
 ##
 
@@ -157,6 +158,7 @@ about-webrtc-configuration-element-not-provided = Nije zadano
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički promijenjenu konfiguraciju
 
 ##
 
@@ -187,11 +189,13 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = Prikaži SDP
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Prikaži kontekst medija
 
 ##
 

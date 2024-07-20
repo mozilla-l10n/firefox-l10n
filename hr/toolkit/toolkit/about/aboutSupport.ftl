@@ -105,6 +105,7 @@ graphics-window-protocol = Protokol prozora
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Radno okruženje
 place-database-title = Baza podataka mjesta
+place-database-stats-show = Prikaži statistiku
 place-database-integrity = Cjelovitost
 place-database-verify-integrity = Provjeri cjelovitost
 a11y-title = Pristupačnost

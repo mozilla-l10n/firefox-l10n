@@ -7,3 +7,5 @@ third-party-detail-occurrences = Pojave
 third-party-detail-app = Aplikacija
 third-party-button-open =
     .title = Otvori adresu datoteke …
+third-party-button-expand =
+    .title = Prikaži detaljne informacije
