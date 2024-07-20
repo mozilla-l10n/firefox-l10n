@@ -231,7 +231,7 @@ pdfjs-page-landmark =
 pdfjs-loading-error = Došlo je do greške pri učitavanju PDF-a.
 pdfjs-invalid-file-error = Neispravna ili oštećena PDF datoteka.
 pdfjs-missing-file-error = Nedostaje PDF datoteka.
-pdfjs-unexpected-response-error = Neočekivani odgovor poslužitelja.
+pdfjs-unexpected-response-error = Neočekivani odgovor servera.
 pdfjs-rendering-error = Došlo je do greške prilikom iscrtavanja stranice.
 
 ## Annotations

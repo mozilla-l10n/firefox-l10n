@@ -1224,7 +1224,7 @@ security-block-uncommon-software =
 
 certs-header = Certifikati
 certs-enable-ocsp =
-    .label = Upitaj OCSP poslužitelje za potvrđivanje valjanosti certifikata
+    .label = Upitaj OCSP server za potvrđivanje valjanosti certifikata
     .accesskey = U
 certs-view =
     .label = Prikaz certifikata…
