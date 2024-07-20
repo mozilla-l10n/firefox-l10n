@@ -20,11 +20,14 @@ connection-proxy-option-no =
 connection-proxy-option-system =
     .label = Koristi proxy postavke sustava
     .accesskey = K
+connection-proxy-option-wpad =
+    .label = Koristi postavku sustava za automatsko otkrivanja web proxyja
+    .accesskey = K
 connection-proxy-option-auto =
-    .label = Automatski pronađi postavke za ovu mrežu
+    .label = Automatski pronađi proxy postavke za ovu mrežu
     .accesskey = t
 connection-proxy-option-manual =
-    .label = Ručno podešavanje proxyja
+    .label = Ručna konfiguracija proxyja
     .accesskey = x
 connection-proxy-http = HTTP Proxy
     .accesskey = H
@@ -75,8 +78,8 @@ connection-proxy-socks-remote-dns =
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $name } (zadano)
-    .tooltiptext = Koristi zadani URL za rješavanje DNS-a preko HTTPS-a
+    .label = { $name } (standardno)
+    .tooltiptext = Koristi standardni URL za rješavanje DNS-a preko HTTPS-a
 connection-dns-over-https-url-custom =
     .label = Prilagođeno
     .accesskey = o
