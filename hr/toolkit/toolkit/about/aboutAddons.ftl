@@ -85,17 +85,17 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Mogućnosti
+            [windows] Opcije
            *[other] Osobitosti
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] o
+            [windows] O
            *[other] t
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Promijeni mogućnosti ovog dodatka
+            [windows] Promijeni opcije ovog dodatka
            *[other] Promijeni osobitosti ovog dodatka
         }
 detail-rating =
@@ -282,7 +282,7 @@ find-more-themes = Pronađi više tema
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
-    .aria-label = Više mogućnosti
+    .aria-label = Više opcija
 
 ## Add-on actions
 
@@ -298,8 +298,8 @@ extension-enable-addon-button-label =
     .aria-label = Omogući
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] Mogućnosti
-       *[other] Mogućnosti
+        [windows] Opcije
+       *[other] Postavke
     }
 details-addon-button = Detalji
 release-notes-addon-button = Napomene o izdanju

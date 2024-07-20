@@ -29,7 +29,7 @@ shrink-to-fit =
     .label = Smanji na širinu prozora
     .accesskey = S
 options-group-label =
-    .value = Mogućnosti
+    .value = Opcije
 print-bg =
     .label = Ispiši pozadinu (boje i slike)
     .accesskey = b
@@ -103,7 +103,6 @@ print-window =
     .title = Ispisivanje
 print-complete =
     .value = Ispisivanje je dovršeno.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

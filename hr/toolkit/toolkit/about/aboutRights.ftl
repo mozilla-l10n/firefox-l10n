@@ -6,10 +6,10 @@ rights-title = O tvojim pravima
 rights-intro = { -brand-full-name } je slobodan program otvorenog koda, koju je izradila zajednica od tisuću osoba iz cijelog svijeta. Neke podatke trebaš znati:
 rights-intro-point-1 = { -brand-short-name } je dostupan pod uvjetima <a data-l10n-name="mozilla-public-license-link">Mozilline javne licence</a>. To znači da možeš koristiti, kopirati i distribuirati { -brand-short-name } drugima. Također smiješ mijenjati izvorni kod { -brand-short-name } kako god želiš. Mozillina javna licenca daje ti pravo distribuirati promijenjene verzije.
 rights-intro-point-2 = Nemaš prava na zaštitni znak ili licenciranje zaštitnih znakova Mozilla zaklade ili bilo kojih drugih strana, uključujući, ali ne i ograničeno na, Firefox ime ili logotip. Dodatne informacije o zaštitnim znacima možeš pronaći <a data-l10n-name="mozilla-trademarks-link">ovdje</a>.
-rights-intro-point-3 = Neke mogućnosti u { -brand-short-name }, poput izvjestitelja o rušenjima, nude izbor slanja povratnih informacija na { -vendor-short-name }. Odabirom slanja povratnih informacija, automatski dopuštaš da { -vendor-short-name } koristi tvoje informacije za unaprijeđenje svojih proizoda, objavi informacije na svojim web stranicama i da distribuira tvoje povratne informacije.
+rights-intro-point-3 = Neke funkcije u { -brand-short-name }, poput izvjestitelja o rušenjima, nude izbor slanja povratnih informacija na { -vendor-short-name }. Odabirom slanja povratnih informacija, automatski dopuštaš da { -vendor-short-name } koristi tvoje informacije za unaprijeđenje svojih proizoda, objavi informacije na svojim web stranicama i da distribuira tvoje povratne informacije.
 rights-intro-point-4 = Način na koji koristimo tvoje osobne informacije i povratne informacije poslane na { -vendor-short-name } kroz { -brand-short-name } je opisan u <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } pravilima o privatnosti</a>.
 rights-intro-point-4-unbranded = Bilo koje primjenjivo pravilo privatnosti za ovaj proizvod mora biti navedeno ovdje.
-rights-intro-point-5 = Neke { -brand-short-name } mogućnosti koriste informacijske usluge na webu, međutim, ne možemo jamčiti da su one 100 % točne i bez grešaka. Više detalja, uključujući i informacije kako onemogućiti ovu mogućnosti koje koriste te usluge možeš pronaći u <a data-l10n-name="mozilla-service-terms-link">uvjetima usluga</a>.
+rights-intro-point-5 = Neke { -brand-short-name } funkcije koriste informacijske usluge na webu, međutim, ne možemo jamčiti da su one 100 % točne i bez grešaka. Više detalja, uključujući i informacije kako onemogućiti ovu mogućnosti koje koriste te usluge možeš pronaći u <a data-l10n-name="mozilla-service-terms-link">uvjetima usluga</a>.
 rights-intro-point-5-unbranded = Ukoliko ovaj proizvod uključuje web usluge, svi primjenjivi uvjeti za tu uslugu bi trebali biti povezani na <a data-l10n-name="mozilla-website-services-link">Usluge web stranica</a> odjeljku.
 rights-intro-point-6 = Da bi mogao reproducirati neke vrste video zapisa, { -brand-short-name } preuzima određene module za dekripciju od trećih strana.
 rights-webservices-header = { -brand-full-name }ove informacijske usluge na webu
@@ -17,7 +17,7 @@ rights-webservices = { -brand-full-name } koristi web-bazirane usluge („Usluge
 rights-safebrowsing = <strong>Sigurno pregledavanje: </strong>Ne preporučuje se deaktivirati funkciju za sigurno pregledavanje, jer u tom slučaju ne postoji zaštita od pristupanja nesigurnim stranicama.  Ako u potpunosti želiš deaktivirati ovu funkciju, slijedi ove korake:
 rights-safebrowsing-term-1 = Otvori postavke programa
 rights-safebrowsing-term-2 = Odaberi izbor Sigurnost
-rights-safebrowsing-term-3 = Isključite mogućnost kako biste "{ enableSafeBrowsing-label }"
+rights-safebrowsing-term-3 = Isključi opciju za „{ enableSafeBrowsing-label }”
 enableSafeBrowsing-label = Blokiraj opasni i zavaravajući sadržaj
 rights-safebrowsing-term-4 = Sigurno pregledavanje je sad onemogućeno
 rights-locationawarebrowsing = <strong>Pregledavanje putem adresa: </strong>je uvijek opcionalno. Podaci o mjestu se nikada ne šalju bez tvojeg dopuštenja. Ako želiš u potpunosti deaktivirati ovu funkciju, slijedi ove korake:
