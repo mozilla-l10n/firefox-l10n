@@ -286,3 +286,5 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 
 ## New Tab Weather
 
+newtab-weather-menu-change-location = Promijeni mjesto
+newtab-weather-change-location-search-input = Traži mjesto

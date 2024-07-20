@@ -94,7 +94,7 @@ policy-OverridePostUpdatePage = Poništi stranicu „Što je novo” nakon aktua
 policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name }u.
-policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
+policy-Permissions2 = Podesi dozvole za kameru, mikrofon, mjesto, obavijesti i automatsku reprodukciju.
 policy-PictureInPicture = Aktiviraj ili deaktiviraj sliku u slici.
 policy-PopupBlocking = Dozvoli određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
@@ -102,12 +102,13 @@ policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzim
 policy-Proxy = Podesi proxy postavke.
 policy-RequestedLocales = Postavite popis traženih jezika za aplikaciju prema redosljedu preferencija.
 policy-SanitizeOnShutdown2 = Brisanje podataka pretraživanja prilikom gašenja.
-policy-SearchBar = Postavi standardno mjesto za traku pretrage. Korisnik je i dalje može prilagoditi.
+policy-SearchBar = Postavi standardno mjesto u traci pretrage. Korisnik će ga i dalje moći prilagoditi.
 policy-SearchEngines = Prilagodi postavke tražilice. Ovo pravilo dostupno je samo u izdanju proširene podrške (ESR).
 policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
 policy-ShowHomeButton = Prikaži gumb početne stranice u alatnoj traci.
 policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
+policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremeno mjesto umjesto u standardnu mapu za preuzimanje.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 # “format” refers to the format used for the value of this policy.

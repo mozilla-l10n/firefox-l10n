@@ -127,7 +127,7 @@ cfr-doorhanger-video-support-primary-button = Nadogradi sada
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Izgleda da koristiš javni Wi-Fi
-spotlight-public-wifi-vpn-body = Za skrivanje tvoje lokacije i aktivnosti pregledavanja, razmisli o virtualnoj privatnoj mreži. Pomoći će ti u zaštiti svog pregledavanja weba na javnim mjestima, kao što su zračne luke i kafići.
+spotlight-public-wifi-vpn-body = Za skrivanje tvog mjesta i aktivnosti pregledavanja, razmisli o virtualnoj privatnoj mreži. Pomoći će ti zaštiti tvoje pregledavanje weba na javnim mjestima, kao što su zračne luke i kafići.
 spotlight-public-wifi-vpn-primary-button = Sačuvaj privatnost uz { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ne sada

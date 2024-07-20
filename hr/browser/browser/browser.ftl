@@ -546,7 +546,7 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = Dodatak:
 urlbar-go-button =
-    .tooltiptext = Idi na adresu iz lokacijske trake
+    .tooltiptext = Otvori adresu u adresnoj traci
 urlbar-page-action-button =
     .tooltiptext = Radnje na stranici
 
