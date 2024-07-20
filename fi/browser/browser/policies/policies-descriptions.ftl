@@ -118,6 +118,7 @@ policy-Permissions2 = Aseta kameran, mikrofonin, sijainnin, ilmoitusten ja autom
 policy-PictureInPicture = Ota käyttöön tai poista käytöstä Kuva kuvassa -ominaisuus.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
+policy-PrivateBrowsingModeAvailability = Aseta yksityisen selaustilan saatavuus.
 policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.

@@ -1019,6 +1019,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Windowsin tiedostovalintaikkunaa ei voitu avata. Tiedostoa tai kansiota ei voitu valita.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windowsin tiedostovalintaikkunaa ei voitu avata. Tiedosto tallennetaan sijaintiin { $path }.
+file-picker-failed-save-nowhere = Windowsin tiedostovalintaikkunaa ei voitu avata. Oletuskansiota ei löytynyt; tiedostoa ei tallenneta.
+file-picker-crashed-open = Windowsin tiedostovalintaikkuna on kaatunut. Tiedostoa tai kansiota ei voitu valita.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windowsin tiedostovalintaikkuna on kaatunut. Tiedosto tallennetaan sijaintiin { $path }.
+file-picker-crashed-save-nowhere = Windowsin tiedostovalintaikkuna on kaatunut. Oletuskansiota ei löytynyt; tiedostoa ei tallenneta.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
