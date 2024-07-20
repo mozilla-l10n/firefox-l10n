@@ -15,20 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Prikači dolje
 toolbox-meatball-menu-dock-left-label = Prikači lijevo
 toolbox-meatball-menu-dock-right-label = Prikači desno
 toolbox-meatball-menu-dock-separate-window-label = Odvojeni prozor
-
 toolbox-meatball-menu-splitconsole-label = Pokaži podijeljenu konzolu
 toolbox-meatball-menu-hideconsole-label = Sakrij podijeljenu konzolu
-
 toolbox-meatball-menu-settings-label = Postavke
 toolbox-meatball-menu-documentation-label = Dokumentacija…
 toolbox-meatball-menu-community-label = Zajednica…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Onemogući automatsko skrivanje skočnog prozora
 
-##
-
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-always-on-top-enabled2 = Deaktiviraj uvijek na vrhu
+    .title = Ovo će ponovo pokrenuti alate za programere
+toolbox-always-on-top-disabled2 = Aktiviraj uvijek na vrhu
+    .title = Ovo će ponovo pokrenuti alate za programere

@@ -185,7 +185,7 @@ webrtc-allow-share-speaker-unsafe-delegation = Dozvoliti stranici { $origin } da
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri i mikrofonu?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri i slušanje zvuka ove kartice?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvom mikrofonu i da vidi tvoj ekran?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti { $origin } da dade { $thirdParty } odobrenje za sluüanje zvuka ove kartice i za prikaz tvog ekrana?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } dozvoli slušanje zvuka ove kartice i da vidi tvoj ekran?
 
 ##
 
@@ -226,6 +226,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Zapamti moju odluku
+webrtc-remember-allow-checkbox-camera = Zapamti za sve kamere
+webrtc-remember-allow-checkbox-microphone = Zapamti za sve mikrofone
+webrtc-remember-allow-checkbox-camera-and-microphone = Zapamti za sve kamere i mikrofone
 webrtc-mute-notifications-checkbox = Utišaj obavijesti web-stranice tijekom dijeljenja
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dozvoliti trajni pristup tvom ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može trajno dozvoliti pristup zvuku kartice, jer mora pitati koju karticu želiš dijeliti.

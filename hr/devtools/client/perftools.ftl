@@ -27,6 +27,7 @@ perftools-devtools-settings-label = Postavke
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = Jedan drugi alat je zaustavio snimanje.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -58,13 +59,14 @@ perftools-button-edit-settings = Uredi postavke…
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
+
 
 ##
 
