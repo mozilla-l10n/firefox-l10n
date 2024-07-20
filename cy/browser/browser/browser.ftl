@@ -656,6 +656,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Chwilio Diweddar
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Yn tueddu ar { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Peidio â dangos chwiliadau tueddiadol
+    .accesskey = P
+urlbar-result-menu-trending-why =
+    .label = Pam ydw i'n gweld hyn?
+    .accesskey = g
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Diolch am eich adborth. Fyddwch chi ddim yn gweld chwiliadau tueddiadol bellach.
 
 ## Reader View toolbar buttons
 
@@ -1051,3 +1066,21 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Dangos '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Nid oedd modd agor deialog ffeil Windows. Nid oedd modd dewis ffeil neu ffolder.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nid oedd modd agor deialog ffeil Windows. Bydd y ffeil yn cael ei chadw i { $path }.
+file-picker-failed-save-nowhere = Nid oedd modd agor deialog ffeil Windows. Nid oedd modd dod o hyd i ffolder rhagosodedig; ni fydd y ffeil yn cael ei chadw.
+file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd dewis ffeil neu ffolder.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
+file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd dod o hyd i ffolder rhagosodedig; ni fydd y ffeil yn cael ei chadw.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
