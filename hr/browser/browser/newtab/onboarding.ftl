@@ -317,3 +317,13 @@ onboarding-easy-setup-security-and-privacy-title = Volimo te štititi
 
 ## New user time and familiarity survey strings
 
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Ja sam potpuno novi korisnik
+onboarding-new-user-survey-time-based-option-2 = Manje od jednog mjeseca
+onboarding-new-user-survey-time-based-option-3 = Više od jednog mjeseca, redovito
+onboarding-new-user-survey-time-based-option-4 = Više od jednog mjeseca, povremeno
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Ja sam potpuno novi korisnik
+onboarding-new-user-survey-familiarity-based-option-2 = Koristio sam ga par puta
+onboarding-new-user-survey-familiarity-based-option-3 = Poznam ga vrlo dobro
+onboarding-new-user-survey-familiarity-based-option-4 = Koristio/la sam ga u prošlosti, ali je prošlo dosta vremena

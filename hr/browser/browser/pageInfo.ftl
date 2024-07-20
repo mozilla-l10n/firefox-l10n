@@ -116,7 +116,7 @@ help-button =
 
 security-site-data-cookies = Da, kolačiće i { $value } { $unit } podataka
 security-site-data-only = Da, { $value } { $unit } podataka
-security-site-data-cookies-only = Da, kolačiće
+security-site-data-cookies-only = Da, kolačići
 security-site-data-no = Ne
 
 ##
