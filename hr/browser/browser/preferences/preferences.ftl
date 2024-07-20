@@ -581,7 +581,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
 suggestions-addressbar-settings-generic2 = Promijeni postavke za ostale prijedloge adresne trake
-search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
+search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 search-one-click-header2 = Prečaci za pretraživanje
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
 search-choose-engine-column =
@@ -1079,10 +1079,10 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Dopuštenja
-permissions-location = Lokacija
+permissions-location = Mjesto
 permissions-location-settings =
-    .label = Postavke…
-    .accesskey = l
+    .label = Postavke …
+    .accesskey = t
 permissions-xr = Virtualna stvarnost
 permissions-xr-settings =
     .label = Postavke…

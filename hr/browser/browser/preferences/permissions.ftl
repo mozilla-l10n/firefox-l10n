@@ -139,8 +139,8 @@ permissions-site-location-window2 =
     .style = { permissions-window2.style }
 permissions-site-location-desc = Sljedeće web stranice su zatražile pristup tvom mjestu. Možeš navesti web stranice kojima dozvoljavaš pristup tvom mjestu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mjestu.
 permissions-site-location-disable-label =
-    .label = Blokiraj nove zahtjeve za pristup tvojoj lokaciji
-permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa tvojoj lokaciji za svaku stranicu koja nije navedena. Blokiranje pristupa tvojoj lokaciji može pokvariti neke funkcije web stranice.
+    .label = Blokiraj nove zahtjeve za pristup tvom mjestu
+permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa tvom mjestu za svaku stranicu koja gore nije navedena. Blokiranje pristupa tvom mjestu može pokvariti neke funkcije web stranica.
 
 ## Site Permissions - Virtual Reality
 
