@@ -249,6 +249,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Ti si inovator.</b> Posvud
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Prebaci se s prijenosnog računala na mobitel i natrag
+mr2022-onboarding-mobile-download-subtitle = Ugrabi kartice s jednog uređaja i nastavi tamo gdje si stao/la na drugom. Osim toga, sinkroniziraj zabilješke i lozinke gdje god koristiš { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Snimi QR kod za preuzimanje { -brand-product-name } za mobilni uređaj ili si <a data-l10n-name="download-label">pošalji poveznicu za preuzimanje.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Snimi QR kod za preuzimanje { -brand-product-name } za mobilni uređaj.
 
 ## MR2022 Upgrade Dialog screens
@@ -264,11 +267,16 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Uvijek poštujemo tvoju privatnost
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnih prijedloga do pametnijeg pretraživanja, neprestano radimo na stvaranju boljeg, osobnijeg { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Što želiš vidjeti kada ponudimo nove funkcije koje koriste tvoje podatke za poboljšanje pregledavanja?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Koristi { -brand-product-name } preporuke
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži detaljne informacije
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomažeš nam izgraditi bolji web
+mr2022-onboarding-gratitude-subtitle = Hvala što koristiš { -brand-short-name } koju podupire Mozilla zaklada. Uz tvoju podršku, radimo na tome da učinimo internet otvorenijim, dostupnijim i boljim za sve.
 mr2022-onboarding-gratitude-primary-button-label = Pogledaj novosti
 mr2022-onboarding-gratitude-secondary-button-label = Počni pregledavati
 
