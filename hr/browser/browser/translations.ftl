@@ -112,7 +112,7 @@ translations-panel-revisit-header = Ova je stranica prevedena iz jezika { $fromL
 translations-panel-choose-language =
     .label = Odaberi jezik
 translations-panel-restore-button =
-    .label = Prikaži izvornu stranicu
+    .label = Prikaži izvor
 
 ## Firefox Translations language management in about:preferences.
 

@@ -5,7 +5,7 @@
 crashed-title = Izvjestitelj rušenja kartica
 crashed-close-tab-button = Zatvori karticu
 crashed-restore-tab-button = Obnovi ovu karticu
-crashed-restore-all-button = Vrati sve prisilno zatvorene kartice
+crashed-restore-all-button = Obnovi sve prisilno zatvorene kartice
 crashed-header = Ups. Kartica je prisilno prekinula s radom.
 crashed-offer-help = Možemo pomoći!
 crashed-single-offer-help-message = Odaberi { crashed-restore-tab-button } za ponovno učitavanje stranice.

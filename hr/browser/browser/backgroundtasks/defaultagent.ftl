@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-notification-header-text = Nastaviti koristiti { -brand-short-name }?
-default-browser-notification-body-text = Tvoj standardni preglednik je nedavno promijenjen. Dodirni za vraćanje { -brand-short-name } kao standardni preglednik.
+default-browser-notification-body-text = Tvoj standardni preglednik je nedavno promijenjen. Dodirni za obnavljanje { -brand-short-name } kao standardni preglednik.
 default-browser-notification-yes-button-text = Da
 default-browser-notification-no-button-text = Ne

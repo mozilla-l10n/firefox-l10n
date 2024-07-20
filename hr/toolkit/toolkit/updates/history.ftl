@@ -21,7 +21,7 @@ update-full-build-name = { $name } ({ $buildID })
 update-details = Detalji
 # Variables:
 #   $date (string) - Date the last update was installed
-update-installed-on = Instalirano: { $date }
+update-installed-on = Datum instaliranja: { $date }
 # Variables:
 #   $status (string) - Status of the last update
 update-status = Stanje: { $status }
