@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = Nastavak će:
+panic-button-action-desc = Nastavljanjem će se:
 panic-button-delete-cookies = izbrisati nedavne <strong>kolačiće</strong>
 panic-button-delete-history = izbrisati nedavnu <strong>povijest</strong>
 panic-button-delete-tabs-and-windows = zatvoriti sve <strong>kartice</strong> i <strong>prozore</strong>

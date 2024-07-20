@@ -22,8 +22,11 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Ne može čitati i mijenjati podatke na ovoj stranici
+origin-controls-state-always-on = Može uvijek čitati i mijenjati podatke na ovoj stranici
 origin-controls-state-runnable-hover-open = Otvori dodatak
 origin-controls-state-runnable-hover-run = Pokreni dodatak
+origin-controls-state-temporary-access = Može čitati i mijenjati podatke pri ovoj posjeti
 
 ## Extension's toolbar button.
 ## Variables:
