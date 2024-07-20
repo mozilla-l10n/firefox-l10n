@@ -158,7 +158,7 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = Traži
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = Povijest pretraživanja
+    .placeholder = Pretraži povijest
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Pretraži nedavno zatvorene kartice

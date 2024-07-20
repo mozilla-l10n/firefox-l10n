@@ -213,7 +213,7 @@ appmenu-recently-closed-windows =
     .label = Nedavno zatvoreni prozori
 # This allows to search through the browser's history.
 appmenu-search-history =
-    .label = Povijest pretrage
+    .label = Pretraži povijest
 
 ## Help panel
 

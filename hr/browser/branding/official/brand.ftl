@@ -19,12 +19,12 @@
 
 -brand-shorter-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxa
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxu
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-short-name =
