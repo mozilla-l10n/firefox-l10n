@@ -155,6 +155,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Peidio dangos y blwch deialog yma et
 
 tabbrowser-confirm-close-duplicate-tabs-title = Rhybudd
 tabbrowser-confirm-close-duplicate-tabs-text = Byddwn yn cadw'r tab gweithredol olaf ar agor
+tabbrowser-confirm-close-all-duplicate-tabs-title = Cau tabiau dyblyg?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Byddwn yn cau tabiau dyblyg yn y ffenestr hon. Bydd y tab
+    gweithredol olaf yn aros ar agor.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Cau tabiau
 
 ##
 

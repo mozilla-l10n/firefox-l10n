@@ -1131,6 +1131,9 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 addressbar-locbar-showrecentsearches-option =
     .label = Dangos y chwilio diweddar
     .accesskey = D
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Dangos awgrymiadau chwilio tueddiadol
+    .accesskey = t
 addressbar-quickactions-learn-more = Darllen rhagor
 
 ## Privacy Section - Content Blocking
