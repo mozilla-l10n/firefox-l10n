@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = حالیہ بند ٹیبز ݙیکھو
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } ٹیب بند تھی ڳئی
+       *[other] { $closedCount } { -brand-short-name } ٹیباں بند تھی ڳیاں
+    }
