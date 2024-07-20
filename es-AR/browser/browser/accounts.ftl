@@ -105,6 +105,6 @@ account-multiple-tabs-arriving-from-unknown-device =
 account-view-recently-closed-tabs = Ver las pestañas cerradas recientemente
 account-tabs-closed-remotely =
     { $closedCount ->
-        [one] { $closedCount }{ -brand-short-name } pestaña cerrada
-       *[other] { $closedCount }{ -brand-short-name } pestañas cerradas
+        [one] { $closedCount } pestaña cerrada de { -brand-short-name }
+       *[other] { $closedCount } pestañas cerradas de { -brand-short-name }
     }
