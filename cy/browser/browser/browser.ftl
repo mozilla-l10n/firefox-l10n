@@ -663,14 +663,14 @@ urlbar-group-trending =
     .label = Yn tueddu ar { $engine }
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
-    .label = Peidio â dangos chwiliadau tueddiadol
+    .label = Peidio â dangos chwiliadau tuedd
     .accesskey = P
 urlbar-result-menu-trending-why =
     .label = Pam ydw i'n gweld hyn?
     .accesskey = g
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-trending-dismissal-acknowledgment = Diolch am eich adborth. Fyddwch chi ddim yn gweld chwiliadau tueddiadol bellach.
+urlbar-trending-dismissal-acknowledgment = Diolch am eich adborth. Fyddwch chi ddim yn gweld chwiliadau tuedd bellach.
 
 ## Reader View toolbar buttons
 
