@@ -273,12 +273,22 @@ pdfjs-editor-free-text-size-input = Veličina
 pdfjs-editor-ink-color-input = Boja
 pdfjs-editor-ink-thickness-input = Debljina
 pdfjs-editor-ink-opacity-input = Neprozirnost
+pdfjs-editor-stamp-add-image-button =
+    .title = Dodaj sliku
+pdfjs-editor-stamp-add-image-button-label = Dodaj sliku
 pdfjs-free-text =
     .aria-label = Uređivač teksta
 pdfjs-free-text-default-content = Počni tipkati …
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternativni tekst
+pdfjs-editor-alt-text-edit-button-label = Uredi alternativni tekst
+pdfjs-editor-alt-text-dialog-label = Odaberi jednu opciju
+pdfjs-editor-alt-text-add-description-label = Dodaj opis
+pdfjs-editor-alt-text-cancel-button = Odustani
+pdfjs-editor-alt-text-save-button = Spremi
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.

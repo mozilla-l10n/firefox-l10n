@@ -24,6 +24,7 @@ neterror-pref-reset-button = Vrati standardne postavke
 neterror-return-to-previous-page-button = Idi natrag
 neterror-return-to-previous-page-recommended-button = Natrag (preporučeno)
 neterror-try-again-button = Pokušaj ponovo
+neterror-add-exception-button = Uvijek nastavi za ovu stranicu
 neterror-view-certificate-link = Pregled certifikata
 
 ##
@@ -38,6 +39,7 @@ neterror-load-error-try-again = Ova je stranica privremeno nedostupna ili prezau
 neterror-load-error-connection = Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.
 neterror-load-error-firewall = Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristup internetu.
 neterror-captive-portal = Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.
+neterror-dns-not-found-hint-try-again = Pokušaj kasnije ponovo
 
 ## TRR-only specific messages
 ## Variables:
