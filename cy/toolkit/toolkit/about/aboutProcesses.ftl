@@ -55,6 +55,7 @@ about-processes-remote-sandbox-broker-process = Brocer Blwch Tywod Pell ({ $pid 
 about-processes-fork-server-process = Gweinydd Fforc ({ $pid })
 about-processes-preallocated-process = Wedi'i rhagddyrannu ({ $pid })
 about-processes-utility-process = Gwasanaeth ({ $pid })
+about-processes-inference-process = Rhesymiad ( { $pid } )
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

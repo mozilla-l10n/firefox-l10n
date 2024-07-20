@@ -41,6 +41,8 @@ process-type-gpu = GPU
 process-type-socket = Soced
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Rhesymiad
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Actor IPC mewn blwch tywod
 process-type-utility-actor-audio-decoder-generic = Gwasanaeth Datgodiwr Sain Generig
