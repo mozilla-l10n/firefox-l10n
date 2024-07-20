@@ -14,10 +14,14 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Отваряне на { $targetURI } в нов раздел
+# Used instead of the localized relative time when a timestamp is within a minute or so of now
+fxviewtabrow-just-now-timestamp = Току-що
 
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-delete = Изтриване
+    .accesskey = И
 fxviewtabrow-open-in-window = Отваряне в нов прозорец
     .accesskey = О
 fxviewtabrow-open-in-private-window = Отваряне в поверителен прозорец
@@ -36,7 +40,16 @@ fxviewtabrow-move-tab-window = Преместване в нов прозорец
     .accesskey = ц
 fxviewtabrow-send-tab = Изпращане на раздела до устройство
     .accesskey = у
+fxviewtabrow-pin-tab = Закачане на раздела
+    .accesskey = З
+fxviewtabrow-mute-tab = Заглушаване на раздела
+    .accesskey = г
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Опции за { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Заглушаване на раздела

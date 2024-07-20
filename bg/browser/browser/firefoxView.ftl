@@ -165,6 +165,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Няма резултати за „{ $query }“
 firefoxview-sort-history-by-date-label = Сортиране по дата
 firefoxview-sort-history-by-site-label = Сортиране по страница
+firefoxview-sort-open-tabs-by-order-label = Сортиране по ред на раздели
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -185,6 +186,7 @@ firefoxview-history-site-localhost = (местни файлове)
 ##
 
 firefoxview-show-all-history = Цялата история
+firefoxview-view-more-browsing-history = Вижте още история на сърфирането
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -218,3 +220,17 @@ firefoxview-recentlyclosed-empty-header = Рано затворихте разд
 
 firefoxview-syncedtabs-device-notabs = На устройството няма отворени раздели
 firefoxview-syncedtabs-connect-another-device = Свързване на друго устройство
+firefoxview-pinned-tabs =
+    .title = Закачени раздели
+firefoxview-tabs =
+    .title = Раздели
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+

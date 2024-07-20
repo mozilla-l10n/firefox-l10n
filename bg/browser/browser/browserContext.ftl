@@ -304,6 +304,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Използвайте маскирането на имейл адреси с { -relay-brand-short-name }.
+    .accesskey = е
 main-context-menu-suggest-strong-password =
     .label = Предлагане на добра парола…
     .accesskey = а

@@ -58,7 +58,13 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 
 migration-select-all-option-label = Избиране на всичко
 migration-bookmarks-option-label = Отметки
+migration-passwords-option-label = Запазени пароли
+migration-cookies-option-label = Бисквитки
+migration-session-option-label = Прозорци и раздели
+migration-otherdata-option-label = Други данни
 migration-passwords-new = Нови пароли
+migration-passwords-updated = Съществуващи пароли
+migration-passwords-from-file-picker-title = Внасяне на файл с пароли
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -73,6 +79,9 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Документ на TSV
        *[other] Файл на TSV
     }
+migration-bookmarks-from-file-picker-title = Внасяне на файл с отметки
+migration-bookmarks-from-file-progress-header = Внасяне на отметки
+migration-bookmarks-from-file = Отметки
 migration-import-button-label = Внасяне
 
 ## These strings will be used to create a dynamic list of items that can be

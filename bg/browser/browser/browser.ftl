@@ -642,6 +642,16 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Набиращи популярност в { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Без показване на набиращи популярност търсения
+    .accesskey = Б
+urlbar-result-menu-trending-why =
+    .label = Защо виждам това?
+    .accesskey = в
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Благодарим ви за обратната връзка. Вече няма да виждате набиращи популярност търсения.
 
 ## Reader View toolbar buttons
 

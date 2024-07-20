@@ -33,4 +33,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Въвед�
 callout-pdfjs-edit-title = Редактиране на PDF файлове с нашия нов инструмент за текст
 callout-pdfjs-edit-button = Напред
 callout-pdfjs-draw-title = Подписвайте документи с нашия нов инструмент за рисуване
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Без повече отпечатване и сканиране. Маркирайте PDF файловете, след което запазете промените.
 callout-pdfjs-draw-button = Разбрах!
