@@ -25,6 +25,8 @@ address-capture-update-button =
     .accessKey = A
 address-capture-manage-address-button =
     .label = Postavke adrese
+address-capture-open-menu-button =
+    .aria-label = Otvori izbornik
 address-capture-edit-address-button =
     .aria-label = Uredi adresu
 # The dialog title for creating addresses in browser preferences.
