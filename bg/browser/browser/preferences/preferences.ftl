@@ -1174,6 +1174,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Събиране и използване на данни от { -brand-short-name }
+collection-header2 = Събиране и използване на данни от { -brand-short-name }
+    .searchkeywords = събиране данни
 collection-description = Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме { -brand-short-name } за всички. Винаги искаме разрешение преди да получим лична информация.
 collection-privacy-notice = Политика на поверителност
 collection-health-report-telemetry-disabled = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
