@@ -139,11 +139,11 @@ about-debugging-network-locations-remove-button = Ukloni
 # Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-invalid = Neispravno glavno računalo „{ $host-value }”. Očekivani format je „hostname:portnumber”.
+about-debugging-network-location-form-invalid = Neispravno računalo „{ $host-value }”. Očekivani format je „hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-duplicate = Računalo “{ $host-value }” je već registrirano
+about-debugging-network-location-form-duplicate = Računalo „{ $host-value }” je već registrirano
 
 # Runtime Page strings
 
@@ -257,7 +257,7 @@ about-debugging-extension-uuid =
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
-    .label = Lokacija
+    .label = Mjesto
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
