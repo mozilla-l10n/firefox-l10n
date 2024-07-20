@@ -31,3 +31,7 @@ elevation-more-elevated =
         [neuter] Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
        *[other] Nyní můžete aplikaci restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
     }
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Znovu nezobrazovat
+    .accesskey = Z
+sandbox-unprivileged-namespaces-howtofix = Jak vyřešit tento problém
