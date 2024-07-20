@@ -18,6 +18,7 @@ elevation-more-elevated =
                                                יותקן בפעם הבאה ש־{ -brand-short-name } יופעל. ניתן להפעיל מחדש
                                                את { -brand-short-name } כעת, להמשיך בעבודה ולהפעיל מחדש מאוחר יותר, או לסרב
                                                לעדכון זה.
+sandbox-missing-unprivileged-namespaces = חלק מיכולות האבטחה של { -brand-short-name } עשויות להציע פחות הגנה במערכת ההפעלה הנוכחית שלך.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = לא להציג שוב
     .accesskey = ל
