@@ -1072,6 +1072,7 @@ content-blocking-social-media-trackers = Проследяване от соци�
 content-blocking-all-cookies = Всички бисквитки
 content-blocking-unvisited-cookies = Бисквитки от непосетени страници
 content-blocking-all-windows-tracking-content = Проследяващо съдържание във всички прозорци
+content-blocking-all-cross-site-cookies = Всички междусайтови бисквитки
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
 
@@ -1190,6 +1191,8 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+privacy-segmentation-radio-off =
+    .label = Използвайте препоръките от { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показване на подробна информация
 
@@ -1226,9 +1229,13 @@ certs-view =
 certs-devices =
     .label = Устройства по безопасността…
     .accesskey = у
+certs-thirdparty-toggle =
+    .label = Разрешаване на { -brand-short-name } автоматично да се доверява на кореновите сертификати на трети страни, които инсталирате
+    .accesskey = т
 space-alert-over-5gb-settings-button =
     .label = Към Настройки
     .accesskey = с
+space-alert-under-5gb-message2 = Дисковото пространство на <strong>{ -brand-short-name } е на свършване.</strong> Съдържанието на страницата може да не се показва правилно. За да оптимизирате употребата на вашия диск и да имате едно по-добро сърфиране кликнете бутона „Научете повече“.
 
 ## Privacy Section - HTTPS-Only
 
