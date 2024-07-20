@@ -76,7 +76,7 @@ urlbar-web-rtc-share-microphone-notification-anchor =
 urlbar-default-notification-anchor =
     .tooltiptext = Otvori ploču s porukama
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Otvori ploču sa zahtjevima lokacije
+    .tooltiptext = Otvori ploču za traženje mjesta
 urlbar-xr-notification-anchor =
     .tooltiptext = Otvori ploču dopuštenja za virtualnu stvarnost
 urlbar-storage-access-anchor =
@@ -147,7 +147,7 @@ urlbar-search-mode-actions = Radnje
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Ovoj stranici zabranjen je pristup informacijama o lokaciji.
+    .tooltiptext = Ovoj je stranici zabranjen pristup podacima mjesta.
 urlbar-xr-blocked =
     .tooltiptext = Ovoj ste stranici blokirali pristup uređajima za virtualnu stvarnost.
 urlbar-web-notifications-blocked =
