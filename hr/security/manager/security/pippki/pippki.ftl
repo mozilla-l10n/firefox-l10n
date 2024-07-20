@@ -56,6 +56,11 @@ client-auth-window =
     .title = Zahtjev identifikacije korisnika
 client-auth-site-description = Ova stranica je zatražila da se identificirate s certifikatom:
 client-auth-choose-cert = Odaberi certifikat za identifikaciju:
+client-auth-send-no-certificate =
+    .label = Nemoj poslati certifikat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }” je zatražio da se identificiraš sa certifikatom:
 client-auth-cert-details = Detalji odabranog certifikata:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

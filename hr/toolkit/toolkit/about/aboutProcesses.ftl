@@ -4,6 +4,9 @@
 
 # Page title
 about-processes-title = Upravitelj procesima
+# The Actions column
+about-processes-column-action =
+    .title = Radnje
 
 ## Tooltips
 
@@ -33,6 +36,9 @@ about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 
 ## Utility process actor names
 
+about-processes-utility-actor-audio-decoder-generic = Standardni audio dekoder
+about-processes-utility-actor-audio-decoder-applemedia = Apple Media audio dekoder
+about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework audio dekoder
 
 ## Displaying CPU (percentage and total)
 ## Variables:

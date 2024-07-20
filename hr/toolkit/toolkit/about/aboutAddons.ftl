@@ -156,6 +156,7 @@ extensions-warning-update-security2 =
     .message = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security-button = Aktiviraj
     .title = Aktiviraj provjeru sigurnosti aktualiziranja dodataka
+extensions-warning-imported-addons-button = Instaliraj proširenja
 
 ## Strings connected to add-on updates
 
@@ -378,6 +379,8 @@ addon-detail-private-browsing-disallow = Nemoj dozvoliti
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Dozvoli
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
