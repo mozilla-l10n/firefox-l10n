@@ -11,6 +11,7 @@
 
 ## Info field texts
 
+about-webauthn-text-not-available = Nije dostupno na ovoj platformi.
 
 ## Results label
 
@@ -25,6 +26,14 @@ about-webauthn-update-button = Aktualiziraj
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Potvrđivanje korisnika
+about-webauthn-auth-option-up = Prisutnost korisnika
+about-webauthn-auth-option-clientpin = PIN klijenta
+about-webauthn-auth-option-plat = Uređaj platforme
+about-webauthn-auth-option-credmgmt = Upravljanje podacima za prijavu
+about-webauthn-auth-option-credentialmgmtpreview = Prototip za upravljanje podacima za prijavu
+about-webauthn-auth-option-setminpinlength = Postavi minimalnu duljinu PIN-a
+about-webauthn-auth-option-alwaysuv = Uvijek zatraži potvrdu korisnika
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo

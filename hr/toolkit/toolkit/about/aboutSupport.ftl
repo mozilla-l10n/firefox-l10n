@@ -70,6 +70,7 @@ app-basics-location-service-key-google = Google ključ za usluge lokacije
 app-basics-safebrowsing-key-google = Google ključ za sigurno pregledavanje
 app-basics-key-mozilla = Mozilla ključ za usluge lokacije
 app-basics-safe-mode = Siguran način rada
+app-basics-disk-available = Dostupna memorija na disku
 show-dir-label =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
@@ -372,3 +373,7 @@ support-remote-features-status = Status
 
 ## Content Analysis (DLP)
 
+content-analysis-active = Aktivno
+content-analysis-connected-to-agent = Povezano s agentom
+content-analysis-agent-path = Putanja agenta
+content-analysis-request-count = Broj zahtjeva

@@ -39,6 +39,10 @@ about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-utility-actor-audio-decoder-generic = Standardni audio dekoder
 about-processes-utility-actor-audio-decoder-applemedia = Apple Media audio dekoder
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework audio dekoder
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Oracle
+about-processes-utility-actor-windows-utils = Uslužni programi za Windows
+about-processes-utility-actor-windows-file-dialog = Dijalog za datoteke za Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -49,6 +53,12 @@ about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework audio 
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mjerenje)
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0,1 %
+    .title = Ukupno vrijeme procesora: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:

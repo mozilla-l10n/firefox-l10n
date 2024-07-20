@@ -4,14 +4,16 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
-
 about-reader-color-scheme-light = Svijetlo
     .title = Svijetla shema boja
 about-reader-color-scheme-dark = Tamno
     .title = Tamna shema boja
 about-reader-color-scheme-sepia = Sepia
     .title = Sepia shema boja
-
+about-reader-color-scheme-auto = Automatski
+    .title = Automatska shema boja
+about-reader-color-auto-theme = Automatski
+    .title = Automatska tema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,3 +51,22 @@ about-reader-font-type-sans-serif = Bezserifni
 about-reader-toolbar-close = Zatvori pregled čitača
 about-reader-toolbar-type-controls = Kontrole tipova
 about-reader-toolbar-savetopocket = Spremi u { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+
+about-reader-advanced-layout-header = Napredno
+about-reader-text-alignment-label = Poravnanje teksta
+about-reader-text-alignment-left =
+    .title = Poravnaj tekst lijevo
+about-reader-text-alignment-center =
+    .title = Centriraj tekst
+about-reader-text-alignment-right =
+    .title = Poravnaj tekst desno
