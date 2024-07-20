@@ -1021,7 +1021,7 @@ addressbar-locbar-clipboard-option =
     .label = Međuspremnik
     .accesskey = M
 addressbar-locbar-openpage-option =
-    .label = Otvorene kartice
+    .label = Otvori kartice
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
@@ -1033,6 +1033,9 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Tražilice
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Brze radnje
+    .accesskey = B
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna pretraživanja
@@ -1252,6 +1255,9 @@ preferences-doh-status-active = Aktivno
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nije aktivno ({ $reason })
 preferences-doh-default-desc = { -brand-short-name } odlučuje kada koristiti sigurni DNS za zaštitu tvoje privatnosti.
+preferences-doh-setting-off =
+    .label = Isključeno
+    .accesskey = I
 
 ## The following strings are used in the Download section of settings
 

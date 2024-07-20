@@ -89,12 +89,28 @@ more-to-consider-ad-label =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-revised-button = Razumijem
+shopping-callout-not-opted-in-reminder-title = Kupuj s povjerenjem
+shopping-callout-not-opted-in-reminder-close-button = Odbaci
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Nemoj ponovo prikazati
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Sažetak ilustracija triju recenzija proizvoda. Jedan ima simbol upozorenja koji ukazuje da možda nije pouzdan.
 shopping-callout-disabled-auto-open-title = Preglednik recenzija je sada standardno zatvoren
 shopping-callout-disabled-auto-open-subtitle = Klikni ikonu oznake cijene u adresnoj traci kad god želiš vidjeti je li možeš li vjerovati recenzijama proizvoda.
 shopping-callout-disabled-auto-open-button = Razumijem
+shopping-callout-opted-out-button = Razumijem
 
 ## Onboarding message strings.
 
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Označavanjem gumba „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">pravila privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>
+shopping-onboarding-opt-in-button = Da, probaj
+shopping-onboarding-not-now-button = Ne sada
+shopping-onboarding-dialog-close-button =
+    .title = Zatvori
+    .aria-label = Zatvori
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Napredak: korak { $current } od { $total }

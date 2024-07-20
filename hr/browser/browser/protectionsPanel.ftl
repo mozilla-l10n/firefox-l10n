@@ -124,9 +124,15 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 protections-panel-cookie-banner-handling-enabled = Uključeno za ovu stranicu
 protections-panel-cookie-banner-handling-disabled = Isključeno za ovu stranicu
 protections-panel-cookie-banner-handling-undetected = Stranica trenutačno nije podržana
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Isključiti blokiranje natpisa kolačića za { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Uključiti blokiranje natpisa kolačića za ovu stranicu?
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pokušava automatski odbiti sve zahtjeve za kolačićima na podržanim stranicama.
 protections-panel-cookie-banner-view-cancel = Odustani
 protections-panel-cookie-banner-view-turn-off = Isključi
 protections-panel-cookie-banner-view-turn-on = Uključi
+protections-panel-cookie-banner-blocker-view-turn-on-description = Uključii i { -brand-short-name } će pokušati automatski odbiti natpise kolačića na ovoj stranici.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Odustani
 protections-panel-cookie-banner-view-turn-off-label =

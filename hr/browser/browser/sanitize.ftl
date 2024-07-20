@@ -73,6 +73,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Izbriši sada
+sanitize-button-ok2 =
+    .label = Izbriši
+sanitize-button-ok-on-shutdown =
+    .label = Spremi promjene
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
