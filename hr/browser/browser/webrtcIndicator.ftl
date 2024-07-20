@@ -34,7 +34,7 @@ webrtc-sharing-menu =
     .accesskey = u
 webrtc-sharing-window = Dijeliš drugi prozor aplikacije.
 webrtc-sharing-browser-window = Dijeliš { -brand-short-name }.
-webrtc-sharing-screen = Dijeliš svoj cijeli zaslon
+webrtc-sharing-screen = Dijeliš svoj cijeli ekran.
 webrtc-stop-sharing-button = Prestani dijeliti
 webrtc-microphone-unmuted =
     .title = Isključi mikrofon
@@ -56,7 +56,7 @@ webrtc-camera-system-menu =
 webrtc-microphone-system-menu =
     .label = Dijeliš svoj mikrofon. Klikni za upravljanje dijeljenjem.
 webrtc-screen-system-menu =
-    .label = Dijeliš prozor ili zaslon. Klikni za upravljanje dijeljenjem.
+    .label = Dijeliš prozor ili ekran. Klikni za upravljanje dijeljenjem.
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -148,14 +148,14 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 webrtc-allow-share-audio-capture = Dopustiti stranici { $origin } slušanje zvuka ove kartice?
 webrtc-allow-share-camera = Dopustiti stranici { $origin } korištenje tvoje kamere?
 webrtc-allow-share-microphone = Dopustiti stranici { $origin } korištenje tvojeg mikrofona?
-webrtc-allow-share-screen = Dopustiti stranici { $origin } da vidi tvoj zaslon?
+webrtc-allow-share-screen = Dozvoliti stranici { $origin } da vidi tvoj ekran?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Dozvoliti { $origin } da koristi druge zvučnike?
 webrtc-allow-share-camera-and-microphone = Dopustiti stranici { $origin } korištenje kamere i mikrofona?
 webrtc-allow-share-camera-and-audio-capture = Dopustiti stranici { $origin } korištenje kamere i slušanje zvuka ove kartice?
-webrtc-allow-share-screen-and-microphone = Dopustiti stranici { $origin } korištenje mikrofona i pregledavanje tvog zaslona?
-webrtc-allow-share-screen-and-audio-capture = Dopustiti stranici { $origin } slušanje zvuka ove kartice i pregledavanje tvog zaslona?
+webrtc-allow-share-screen-and-microphone = Dozvoliti stranici { $origin } da koristi tvoj mikrofon i da vidi tvo ekran?
+webrtc-allow-share-screen-and-audio-capture = Dozvoliti stranici { $origin } da sluša zvuk ove kartice i da vidi tvoj ekran?
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
@@ -169,7 +169,7 @@ webrtc-allow-share-speaker-with-file = Dozvoliti ovoj lokalnoj datoteci da koris
 
 webrtc-allow-share-camera-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri?
 webrtc-allow-share-microphone-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
-webrtc-allow-share-screen-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } dozvoli da vidi tvoj zaslon?
+webrtc-allow-share-screen-unsafe-delegation = Dozvoliti stranici { $origin } da stranici { $thirdParty } dozvoli da vidi tvoj ekran?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Dozvoliti stranici { $origin } da omogući { $thirdParty } pristup drugim zvučnicima?

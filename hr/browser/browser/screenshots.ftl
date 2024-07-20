@@ -16,13 +16,13 @@ screenshots-download-button-tooltip = Preuzmi snimku ekrana
 screenshots-copy-button = Kopiraj
 screenshots-copy-button-tooltip = Kopiraj snimku ekrana u međuspremnik
 screenshots-download-button-title =
-    .title = Preuzmi snimku zaslona
+    .title = Preuzmi snimku ekrana
 screenshots-copy-button-title =
-    .title = Kopiraj snimku zaslona u međuspremnik
+    .title = Kopiraj snimku ekrana u međuspremnik
 screenshots-cancel-button-title =
     .title = Odustani
 screenshots-retry-button-title =
-    .title = Ponovi snimku zaslona
+    .title = Ponovi snimanje ekrana
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -45,10 +45,8 @@ screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Ne znamo točno što se upravo dogodilo. Možeš li ponovo pokušati ili snimiti jednu drugu stranicu?
 screenshots-component-retry-button =
-    .title = Ponovi snimku zaslona
-    .aria-label = Ponovi snimku zaslona
-screenshots-component-copy-button-label = Kopiraj
-screenshots-component-download-button-label = Preuzmi
+    .title = Ponovi snimanje ekrana
+    .aria-label = Ponovi snimanje ekrana
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
