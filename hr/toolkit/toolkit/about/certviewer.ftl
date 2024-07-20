@@ -35,7 +35,7 @@ certificate-viewer-key-size = Veličina ključa
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-locality = Mjesto osnivanja
 certificate-viewer-locality = Područje
-certificate-viewer-location = Lokacija
+certificate-viewer-location = Mjesto
 certificate-viewer-logid = ID dnevnika
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Podaci certifikacijskog tijela (AIA)
 certificate-viewer-certificate-policies = Pravila certifikata
 certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
 certificate-viewer-crl-endpoints = Krajnje točke CRL-a
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Preuzmi
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (certifikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanac)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ovaj dodatak je označen kao kritičan, što znači da klijenti moraju odbaciti certifikat ukoliko ga ne razumiju.
