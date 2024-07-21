@@ -1038,6 +1038,9 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Der Windows-Dateidialog konnte nicht geöffnet werden. Es konnte keine Datei oder Ordner ausgewählt werden.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Der Windows-Dateidialog konnte nicht geöffnet werden. Die Datei wird unter { $path } gespeichert.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
