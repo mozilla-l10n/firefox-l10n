@@ -112,9 +112,9 @@ autofill-edit-card-title = Uredi kreditnu karticu
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
     { PLATFORM() ->
-        [macos] pokaži podatke kreditne kartice
-        [windows] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici. U nastavku potvrdite pristup ovom Windows računu.
-       *[other] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici.
+        [macos] pokušava prikazati podatke kreditne kartice
+        [windows] { -brand-short-name } pokušava prikazati podatke kreditne kartice. U nastavku potvrdi pristup ovom Windows računu.
+       *[other] { -brand-short-name } pokušava prikazati podatke kreditne kartice.
     }
 autofill-message-tooltip = Pogledaj poruku o automatskom ispunjavanju
 # The dialog title for creating credit cards in browser preferences.
