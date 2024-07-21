@@ -169,6 +169,9 @@ shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
 shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup, pridobite vpogled v mnenja resničnih kupcev.
 shopping-callout-closed-not-opted-in-revised-button = Razumem
 shopping-callout-not-opted-in-reminder-close-button = Opusti
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj več
+shopping-callout-disabled-auto-open-button = Razumem
+shopping-callout-opted-out-button = Razumem
 
 ## Onboarding message strings.
 
