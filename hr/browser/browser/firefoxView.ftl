@@ -30,7 +30,7 @@ firefoxview-tabpickup-description = Otvori stranica s drugih uređaja.
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % dovršeno
 firefoxview-tabpickup-step-signin-header = Prebaci se bez problema između uređaja
-firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog telefona ovdje, najprije se prijavi ili otvori račun.
+firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog mobitela ovdje, najprije se prijavi ili otvori račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nastavi
 firefoxview-syncedtabs-signin-header = Ugrabi kartice s bilo kojeg mjesta
 firefoxview-syncedtabs-signin-primarybutton = Prijavi se / Registriraj se
@@ -72,7 +72,7 @@ firefoxview-tabpickup-signed-out-description = Za ponovno povezivanje i preuzima
 firefoxview-tabpickup-signed-out-description2 = Za ponovno povezivanje i preuzimanje tvojih kartica prijavi se.
 firefoxview-tabpickup-signed-out-primarybutton = Prijavi se
 firefoxview-tabpickup-syncing = Pričekaj sinkroniziraju  kartica. Neće dugo trajati.
-firefoxview-mobile-promo-header = Preuzmi kartice s tvog telefona ili tableta
+firefoxview-mobile-promo-header = Preuzmi kartice s tvog mobitela ili tableta
 firefoxview-mobile-promo-primarybutton = Preuzmi { -brand-product-name } za mobilne uređaje
 firefoxview-mobile-confirmation-header = 🎉 Sve je spremno!
 firefoxview-mobile-confirmation-description = Sada možeš preuzeti svoje { -brand-product-name } kartice sa svog tableta ili mobitela.
