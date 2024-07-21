@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ट्याब आइपुगेको छ
        *[other] { $tabCount } ट्याबहरू आइपुगेका छन्
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = हालै बन्द गरिएका ट्याबहरू हेर्नुहोस्
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } ट्याब बन्द गरियो
+       *[other] { $closedCount } { -brand-short-name } ट्याबगरू बन्द गरिए
+    }
