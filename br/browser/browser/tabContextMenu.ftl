@@ -4,7 +4,7 @@
 
 tab-context-new-tab =
     .label = Ivinell nevez
-    .accesskey = w
+    .accesskey = I
 reload-tab =
     .label = Adkargañ an ivinell
     .accesskey = A
@@ -56,7 +56,7 @@ bookmark-selected-tabs =
     .accesskey = i
 tab-context-bookmark-tab =
     .label = Ouzhpennañ an ivinell d'ar sinedoù…
-    .accesskey = B
+    .accesskey = O
 tab-context-open-in-new-container-tab =
     .label = Digeriñ en un ivinell enderc’hel nevez
     .accesskey = e
@@ -89,7 +89,7 @@ tab-context-reopen-closed-tabs =
             [many] Addigeriñ an ivinelloù serret
            *[other] Addigeriñ an ivinelloù serret
         }
-    .accesskey = o
+    .accesskey = g
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -100,7 +100,7 @@ tab-context-close-n-tabs =
             [many] Serriñ { $tabCount } ivinell
            *[other] Serriñ { $tabCount } ivinell
         }
-    .accesskey = C
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
