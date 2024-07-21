@@ -15,4 +15,4 @@ all-tabs-menu-manage-user-context =
 all-tabs-menu-close-duplicate-tabs =
     .label = Lat att duplikatfaner
 all-tabs-menu-close-all-duplicate-tabs =
-    .label = Lat att alle duplikatfaner
+    .label = Lat att alle dupliserte faner
