@@ -276,7 +276,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Използвайте настройките на вашата операционна система на „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
+    .label = Използвайте настройките на вашата операционна система за „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
 check-user-spelling =
     .label = Проверяване на правописа при въвеждане
     .accesskey = в
@@ -931,9 +931,9 @@ history-header = История
 history-remember-label = Нека { -brand-short-name } да
     .accesskey = д
 history-remember-option-all =
-    .label = Помни история
+    .label = помни история
 history-remember-option-never =
-    .label = Не помни история
+    .label = не помни история
 history-remember-option-custom =
     .label = Използва потребителски настройки
 history-remember-description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
@@ -1281,10 +1281,12 @@ preferences-doh-enabled-detailed-desc-1 = Използва се избран о�
 preferences-doh-setting-strict =
     .label = Максимална защита
     .accesskey = М
+preferences-doh-strict-detailed-desc-2 = Винаги да се предупреждава, ако не е наличен защитен DNS
 preferences-doh-setting-off =
     .label = Изключено
     .accesskey = о
 preferences-doh-select-resolver = Изберете доставчик:
+preferences-doh-exceptions-description = { -brand-short-name } няма да използва защитени DNS за тези сайтове
 
 ## The following strings are used in the Download section of settings
 
