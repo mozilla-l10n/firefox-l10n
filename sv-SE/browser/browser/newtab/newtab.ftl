@@ -238,7 +238,7 @@ newtab-pocket-saved = Sparad
 
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
-    .title = Mer sådana här
+    .title = Mer sånt här
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Inte för mig

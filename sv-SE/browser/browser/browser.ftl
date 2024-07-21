@@ -645,7 +645,7 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Visa inte populära sökningar
-    .accesskey = V
+    .accesskey = n
 urlbar-result-menu-trending-why =
     .label = Varför ser jag detta?
     .accesskey = V
@@ -1041,11 +1041,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Windows fildialog kunde inte öppnas. Ingen fil eller mapp kunde väljas.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Windows fildialog kunde inte öppnas. Filen kommer att sparas till { $path }.
-file-picker-failed-save-nowhere = Windows fildialog kunde inte öppnas. Ingen standardmapp hittades. filen kommer inte att sparas.
+file-picker-failed-save-nowhere = Windows fildialog kunde inte öppnas. Ingen standardmapp hittades, filen kommer inte att sparas.
 file-picker-crashed-open = Windows fildialog har kraschat. Ingen fil eller mapp kunde väljas.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows fildialog har kraschat. Filen kommer att sparas till { $path }.
-file-picker-crashed-save-nowhere = Windows fildialog har kraschat. Ingen standardmapp hittades. filen kommer inte att sparas.
+file-picker-crashed-save-nowhere = Windows fildialog har kraschat. Ingen standardmapp hittades, filen kommer inte att sparas.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1055,4 +1055,4 @@ file-picker-crashed-save-nowhere = Windows fildialog har kraschat. Ingen standar
 
 file-picker-crashed-show-in-folder =
     .label = Visa i mapp
-    .accessKey = F
+    .accessKey = m

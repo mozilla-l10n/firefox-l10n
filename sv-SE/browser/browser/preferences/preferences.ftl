@@ -1117,7 +1117,7 @@ addressbar-locbar-showrecentsearches-option =
     .accesskey = s
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Visa populära sökförslag
-    .accesskey = V
+    .accesskey = p
 addressbar-quickactions-learn-more = Läs mer
 
 ## Privacy Section - Content Blocking
