@@ -1041,6 +1041,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Der Windows-Dateidialog konnte nicht geöffnet werden. Es konnte keine Datei oder Ordner ausgewählt werden.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Der Windows-Dateidialog konnte nicht geöffnet werden. Die Datei wird unter { $path } gespeichert.
+file-picker-failed-save-nowhere = Der Windows-Dateidialog konnte nicht geöffnet werden. Es konnte kein Standardordner gefunden werden; die Datei wird nicht gespeichert.
+file-picker-crashed-open = Der Windows-Dateidialog ist abgestürzt. Es konnte keine Datei oder Ordner ausgewählt werden.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Der Windows-Dateidialog ist abgestürzt. Die Datei wird unter { $path } gespeichert.
+file-picker-crashed-save-nowhere = Der Windows-Dateidialog ist abgestürzt. Es konnte kein Standardordner gefunden werden; die Datei wird nicht gespeichert.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1048,3 +1053,6 @@ file-picker-failed-save-somewhere = Der Windows-Dateidialog konnte nicht geöffn
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = In Ordner anzeigen
+    .accessKey = O
