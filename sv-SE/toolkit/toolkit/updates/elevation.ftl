@@ -15,5 +15,5 @@ elevation-more-elevated = Denna uppdateringen kräver administratörsbehörighet
 sandbox-missing-unprivileged-namespaces = Vissa av { -brand-short-name }:s säkerhetsfunktioner kan erbjuda ett sämre skydd på ditt nuvarande operativsystem.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Visa inte igen
-    .accesskey = V
+    .accesskey = n
 sandbox-unprivileged-namespaces-howtofix = Hur du åtgärdar det här problemet
