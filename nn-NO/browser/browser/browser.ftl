@@ -1002,6 +1002,10 @@ firefox-relay-offer-legal-notice = Ved å klikke «Bruk e-postalias» godtek du 
 popup-notification-addon-install-unsigned =
     .value = (Ikkje stadfesta)
 popup-notification-xpinstall-prompt-learn-more = Les meir om sikker installering av tillegg
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Køyr i privat vindauge
+    .accesskey = P
 
 ## Pop-up warning
 
