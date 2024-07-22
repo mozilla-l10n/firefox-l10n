@@ -59,3 +59,8 @@ synced-tabs-context-sync-now =
     .accesskey = х
 synced-tabs-fxa-sign-in = Войти в синхронизацию
 synced-tabs-turn-on-sync = Включить синхронизацию
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = Закрыть вкладку на { $deviceName }

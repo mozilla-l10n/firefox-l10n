@@ -1369,11 +1369,15 @@ httpsonly-learn-more = Подробнее
 httpsonly-radio-enabled =
     .label = Включить режим «Только HTTPS» во всех окнах
 httpsonly-radio-enabled2 =
-    .label = Использовать только HTTPS во всех окнах
+    .label = Во всех окнах использовать только HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Включить режим «Только HTTPS» только в приватных окнах
+httpsonly-radio-enabled-pbm2 =
+    .label = В приватных окнах использовать только HTTPS
 httpsonly-radio-disabled =
     .label = Не включать режим «Только HTTPS»
+httpsonly-radio-disabled2 =
+    .label = Попробовать сначала HTTPS, но разрешить незащищённые соединения
 
 ## DoH Section
 
