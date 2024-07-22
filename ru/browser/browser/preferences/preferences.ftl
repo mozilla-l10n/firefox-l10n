@@ -1364,9 +1364,12 @@ space-alert-under-5gb-message2 = <strong>У { -brand-short-name } заканчи
 
 httpsonly-header = Режим «Только HTTPS»
 httpsonly-description = HTTPS обеспечивает безопасное и зашифрованное соединение между { -brand-short-name } и сайтами, которые вы посещаете. Большинство сайтов поддерживают HTTPS, и если включён режим «Только HTTPS», то { -brand-short-name } переключит все соединения на HTTPS.
+httpsonly-description2 = { -brand-short-name } создает безопасные и зашифрованные соединения с посещаемыми вами сайтами. { -brand-short-name } будет предупреждать вас, если соединение не защищено при включенном «Только HTTPS».
 httpsonly-learn-more = Подробнее
 httpsonly-radio-enabled =
     .label = Включить режим «Только HTTPS» во всех окнах
+httpsonly-radio-enabled2 =
+    .label = Использовать только HTTPS во всех окнах
 httpsonly-radio-enabled-pbm =
     .label = Включить режим «Только HTTPS» только в приватных окнах
 httpsonly-radio-disabled =
