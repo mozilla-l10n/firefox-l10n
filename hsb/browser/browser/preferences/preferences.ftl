@@ -1368,13 +1368,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 
 httpsonly-header = Modus Jenož-HTTPS
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.
+httpsonly-description2 = { -brand-short-name } wěste a zaklučowane zwiski ze sydłami, kotrež wopytujeće, wutworja. { -brand-short-name } budźe was warnować, jeli zwisk wěsty njeje, hdyž Jenož-HTTPS je aktiwny.
 httpsonly-learn-more = Dalše informacije
 httpsonly-radio-enabled =
     .label = Modus Jenož-HTTPS we wšěch woknach zmóžnić
+httpsonly-radio-enabled2 =
+    .label = HTTPS jenož we wšěch woknach wužiwać
 httpsonly-radio-enabled-pbm =
     .label = Modus Jenož-HTTPS jenož w priwatnych woknach zmóžnić
+httpsonly-radio-enabled-pbm2 =
+    .label = HTTPS jenož w priwatnych woknach wužiwać
 httpsonly-radio-disabled =
     .label = Modus Jenož-HTTPS njezmóžnić
+httpsonly-radio-disabled2 =
+    .label = HTTPS najprjedy wupruwować, ale zwiski dowolić, kotrež wěste njejsu
 
 ## DoH Section
 
