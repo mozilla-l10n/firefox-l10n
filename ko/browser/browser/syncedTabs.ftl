@@ -59,3 +59,8 @@ synced-tabs-context-sync-now =
     .accesskey = S
 synced-tabs-fxa-sign-in = Sync에 로그인
 synced-tabs-turn-on-sync = Sync 켜기
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = { $deviceName }에서 탭 닫기

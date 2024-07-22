@@ -1344,6 +1344,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량�
 
 httpsonly-header = HTTPS 전용 모드
 httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.
+httpsonly-description2 = { -brand-short-name }는 사용자가 방문하는 사이트에 대해 안전하고 암호화된 연결을 생성합니다. { -brand-short-name }는 HTTPS 전용이 켜져 있을 때 연결이 안전하지 않으면 경고합니다.
 httpsonly-learn-more = 더 알아보기
 httpsonly-radio-enabled =
     .label = 모든 창에서 HTTPS 전용 모드 사용
@@ -1355,6 +1356,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = 사생활 보호 창에서 HTTPS만 사용
 httpsonly-radio-disabled =
     .label = HTTPS 전용 모드 사용 안 함
+httpsonly-radio-disabled2 =
+    .label = 먼저 HTTPS를 시도하되, 안전하지 않은 연결을 허용
 
 ## DoH Section
 
