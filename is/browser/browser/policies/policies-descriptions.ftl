@@ -119,6 +119,7 @@ policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetnin
 policy-PictureInPicture = Virkja eða slökkva á mynd-í-mynd.
 policy-PopupBlocking = Leyfa tilteknum vefsvæðum að birta sprettglugga sjálfgefið.
 policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
+policy-PrivateBrowsingModeAvailability = Stilltu framboð á huliðsvafurham.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
 policy-Proxy = Sýsla með stillingar á milliþjóni (proxy).
 policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
