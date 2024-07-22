@@ -196,6 +196,9 @@ profiler-popup-presets-power-description = ค่าที่ตั้งล่�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = พลังงาน
+profiler-popup-presets-debug-description = พรีเซ็ตสำหรับการดีบั๊กใน { -brand-shorter-name }  มีโอเวอร์เฮดสูง อย่าใช้เพื่องานด้านประสิทธิภาพ แต่ให้ใช้เพื่อทำความเข้าใจพฤติกรรมการทำงานของเบราว์เซอร์
+profiler-popup-presets-debug-label =
+    .label = ดีบั๊ก
 profiler-popup-presets-custom-label =
     .label = กำหนดเอง
 
