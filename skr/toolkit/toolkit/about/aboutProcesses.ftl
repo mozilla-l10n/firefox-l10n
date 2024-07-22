@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = ریموٹ سینڈ باکس ب�
 about-processes-fork-server-process = فورک سرور ({ $pid })
 about-processes-preallocated-process = پہلے کنوں مختص ({ $pid })
 about-processes-utility-process = یوٹیلیٹی ({ $pid })
+about-processes-inference-process = انٹرفیس ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
