@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att f
 
 httpsonly-header = Endast HTTPS-läge
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.
+httpsonly-description2 = { -brand-short-name } skapar säkra och krypterade förbindelser till webbplatser du besöker. { -brand-short-name } varnar om en anslutning inte är säker när HTTPS-Only är på.
 httpsonly-learn-more = Läs mer
 httpsonly-radio-enabled =
     .label = Aktivera endast HTTPS-läge i alla fönster
+httpsonly-radio-enabled2 =
+    .label = Använd endast HTTPS i alla fönster
 httpsonly-radio-enabled-pbm =
     .label = Aktivera endast HTTPS-läge i privata fönster
+httpsonly-radio-enabled-pbm2 =
+    .label = Använd endast HTTPS i privata fönster
 httpsonly-radio-disabled =
     .label = Aktivera inte endast HTTPS-läge
+httpsonly-radio-disabled2 =
+    .label = Prova HTTPS först, men tillåt anslutningar som inte är säkra
 
 ## DoH Section
 
