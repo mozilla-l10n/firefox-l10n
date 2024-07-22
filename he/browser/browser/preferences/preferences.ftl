@@ -1368,6 +1368,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = להשתמש ב־HTTPS בלבד בחלונות פרטיים
 httpsonly-radio-disabled =
     .label = לא להפעיל מצב HTTPS בלבד
+httpsonly-radio-disabled2 =
+    .label = לנסות תחילה את HTTPS, אבל לאפשר חיבורים שאינם מאובטחים
 
 ## DoH Section
 
