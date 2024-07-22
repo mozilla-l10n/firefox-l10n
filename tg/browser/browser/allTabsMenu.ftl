@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = И
 all-tabs-menu-close-duplicate-tabs =
     .label = Пӯшидани варақаҳои такрорӣ
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Пӯшидани ҳамаи варақаҳои такрорӣ
