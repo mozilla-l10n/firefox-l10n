@@ -392,6 +392,20 @@ support-printing-modified-settings = การตั้งค่าการพ�
 support-printing-prefs-name = ชื่อ
 support-printing-prefs-value = ค่า
 
+## Remote Settings sections
+
+support-remote-settings-title = ตั้งค่าระยะไกล
+support-remote-settings-status = สถานะ
+support-remote-settings-status-ok = ตกลง
+# Status when synchronization is not working.
+support-remote-settings-status-broken = ไม่ทำงาน
+support-remote-settings-last-check = ตรวจสอบครั้งล่าสุด
+support-remote-settings-local-timestamp = การลงบันทึกเวลาเฉพาะที่
+support-remote-settings-sync-history = ประวัติ
+support-remote-settings-sync-history-status = สถานะ
+support-remote-settings-sync-history-datetime = วันที่
+support-remote-settings-sync-history-infos = ข้อมูล
+
 ## Normandy sections
 
 support-remote-experiments-title = คุณลักษณะทดลองระยะไกล
