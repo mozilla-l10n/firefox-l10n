@@ -1347,8 +1347,12 @@ httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한
 httpsonly-learn-more = 더 알아보기
 httpsonly-radio-enabled =
     .label = 모든 창에서 HTTPS 전용 모드 사용
+httpsonly-radio-enabled2 =
+    .label = 모든 창에서 HTTPS만 사용
 httpsonly-radio-enabled-pbm =
     .label = 사생활 보호 창에서만 HTTPS 전용 모드 사용
+httpsonly-radio-enabled-pbm2 =
+    .label = 사생활 보호 창에서 HTTPS만 사용
 httpsonly-radio-disabled =
     .label = HTTPS 전용 모드 사용 안 함
 
