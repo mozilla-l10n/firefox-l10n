@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylege søk
     .accesskey = V
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Vi populære søkjeforslag
+    .accesskey = V
 addressbar-quickactions-learn-more = Les meir
 
 ## Privacy Section - Content Blocking
@@ -1360,10 +1363,16 @@ httpsonly-description = HTTPS gir eit trygt, kryptert samband mellom { -brand-sh
 httpsonly-learn-more = Les meir
 httpsonly-radio-enabled =
     .label = Slå på berre HTTPS-modus i alle vindauge
+httpsonly-radio-enabled2 =
+    .label = Bruk berre HTTPS i alle vindauge
 httpsonly-radio-enabled-pbm =
     .label = Slå på berre HTTPS-modus kun i private vindauge
+httpsonly-radio-enabled-pbm2 =
+    .label = Bruk berre HTTPS i private vindauge
 httpsonly-radio-disabled =
     .label = Ikkje slå på berre HTTPS-modus
+httpsonly-radio-disabled2 =
+    .label = Prøv HTTPS først, bmen tillat tilkoplingar som ikkje er trygge
 
 ## DoH Section
 
