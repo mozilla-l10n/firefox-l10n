@@ -91,6 +91,19 @@ translations-settings-sites-column =
 translations-settings-close-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = з
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Превод на текста на връзката…
+    .accesskey = д
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Превеждане текста на връзката на { $language }
+    .accesskey = ж
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Превеждане
 # Text displayed above the from-language dropdown menu.
