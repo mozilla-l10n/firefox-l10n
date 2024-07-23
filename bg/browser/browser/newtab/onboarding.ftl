@@ -119,7 +119,6 @@ mr2-onboarding-start-browsing-button-label = Започнете да разгл�
 
 onboarding-live-language-header = Изберете език
 mr2022-onboarding-live-language-text = { -brand-short-name } говори твоя език
-mr2022-language-mismatch-subtitle = Благодарение на нашата общност { -brand-short-name } е преведен на над 90 езика. Изглежда, че вашата система използва { $systemLanguage }, а { -brand-short-name } използва { $appLanguage }.
 onboarding-live-language-button-label-downloading = Изтегляне на { $negotiatedLanguage } езиков пакет…
 onboarding-live-language-waiting-button = Зареждане на наличните езици…
 onboarding-live-language-installing = Инсталиране на { $negotiatedLanguage } езиков пакет…
@@ -265,4 +264,7 @@ onboarding-device-migration-subtitle = Влезте в { -fxaccount-brand-name(c
 onboarding-device-migration-primary-button-label = Вход
 
 ## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
 

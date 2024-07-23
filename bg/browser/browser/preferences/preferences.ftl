@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Изпраща на сайтовете "Не следи" сигнал, че не желаете да бъдете проследявани.
+do-not-track-description = Изпраща на сайтовете сигнал "Не проследявай" - указание, че не желаете да бъдете проследявани.
 do-not-track-description2 =
     .label = Изпращане на сайтовете заявка „Без проследяване“.
     .accesskey = д
