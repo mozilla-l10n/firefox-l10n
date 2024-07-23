@@ -1355,8 +1355,12 @@ httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站
 httpsonly-learn-more = 详细了解
 httpsonly-radio-enabled =
     .label = 在所有窗口启用 HTTPS-Only 模式
+httpsonly-radio-enabled2 =
+    .label = 在所有窗口中都仅使用 HTTPS
 httpsonly-radio-enabled-pbm =
     .label = 仅在隐私窗口启用 HTTPS-Only 模式
+httpsonly-radio-enabled-pbm2 =
+    .label = 在隐私窗口中仅使用 HTTPS
 httpsonly-radio-disabled =
     .label = 不启用 HTTPS-Only 模式
 
