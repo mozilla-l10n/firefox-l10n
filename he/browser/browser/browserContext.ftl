@@ -379,7 +379,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = חקירת מאפייני נגישות
 main-context-menu-eme-learn-more =
-    .label = מידע נוסף על ניהול זכויות דיגיטלי…
+    .label = מידע נוסף על ניהול זכויות קניין…
     .accesskey = ז
 # Variables
 #   $containerName (String): The name of the current container
