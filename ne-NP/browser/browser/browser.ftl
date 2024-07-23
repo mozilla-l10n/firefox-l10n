@@ -641,6 +641,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = हालै गरिएका खोजहरू
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } मा ट्रेन्डिङ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = म यो किन देख्दै छु?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = तपाईंको प्रतिक्रियाको लागि धन्यवाद। तपाईंले अब ट्रेन्डिङ खोजहरू देख्नुहुने छैन।
 
 ## Reader View toolbar buttons
 
@@ -987,6 +1002,10 @@ firefox-relay-offer-legal-notice = "इमेल मास्क प्रयो
 popup-notification-addon-install-unsigned =
     .value = (अप्रमाणित)
 popup-notification-xpinstall-prompt-learn-more = एड-अनहरू सुरक्षित रूपमा स्थापना गर्ने बारे थप जान्नुहोस्
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = निजी विन्डोजमा चलाउनुहोस्
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1020,3 +1039,24 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' देखाउनुहोस्
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = विन्डोज फाइल-संवाद खोल्न सकिएन। कुनै फाइल वा फोल्डर चयन गर्न सकिएन।
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = विन्डोज फाइल-संवाद खोल्न सकिएन। फाइल { $path } मा सुरक्षित हुनेछ।
+file-picker-failed-save-nowhere = विन्डोज फाइल-संवाद खोल्न सकिएन। कुनै पूर्वनिर्धारित फोल्डर फेला परेन; फाइल बचत हुनेछैन।
+file-picker-crashed-open = Windows फाइल-संवाद क्र्यास भएको छ। कुनै फाइल वा फोल्डर चयन गर्न सकिएन।
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows फाइल-संवाद क्र्यास भएको छ। फाइल { $path } मा सुरक्षित हुनेछ।
+file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्र्यास भएको छ। कुनै पूर्वनिर्धारित फोल्डर फेला परेन; फाइल बचत हुनेछैन।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = फोल्डरमा देखाउनुहोस्
+    .accessKey = F
