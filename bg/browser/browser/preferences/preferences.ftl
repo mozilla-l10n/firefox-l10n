@@ -351,7 +351,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 applications-use-plugin-in =
     .label = Използване на { $plugin-name } (от { -brand-short-name })
 applications-open-inapp =
-    .label = Отваряне в { -brand-short-name }
+    .label = Отваряне във { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
