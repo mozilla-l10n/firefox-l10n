@@ -59,3 +59,8 @@ synced-tabs-context-sync-now =
     .accesskey = N
 synced-tabs-fxa-sign-in = Oanmelde om te syngronisearjen
 synced-tabs-turn-on-sync = Syngronisaasje ynskeakelje
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = Ljepblêd yn { $deviceName } slute

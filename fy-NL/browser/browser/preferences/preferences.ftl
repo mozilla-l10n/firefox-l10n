@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin ski
 
 httpsonly-header = Allinnich-HTTPS-modus
 httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.
+httpsonly-description2 = { -brand-short-name } makket feilige en fersifere ferbiningen mei websites dy’t jo besykje. { -brand-short-name } warskôget jo as in ferbining net feilich is wannear Allinnich-HTTPS ynskeakele is.
 httpsonly-learn-more = Mear ynfo
 httpsonly-radio-enabled =
     .label = Allinnich-HTTPS-modus yn alle finsters ynskeakelje
+httpsonly-radio-enabled2 =
+    .label = Allinnich HTTPS yn alle finsters brûke
 httpsonly-radio-enabled-pbm =
     .label = Allinnich-HTTPS-modus yn alle priveefinsters ynskeakelje
+httpsonly-radio-enabled-pbm2 =
+    .label = Allinnich HTTPS yn priveefinsters brûke
 httpsonly-radio-disabled =
     .label = Allinnich-HTTPS-modus net ynskeakelje
+httpsonly-radio-disabled2 =
+    .label = Earst HTTPS probearje, mar net-befeilige ferbiningen tastean
 
 ## DoH Section
 
