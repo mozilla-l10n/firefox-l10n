@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = थप ट्याबहरू देखाउनुहोस्
     .tooltiptext = यस यन्त्रबाट थप ट्याबहरू देखाउनुहोस्
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] एउटा निष्क्रिय ट्याब देखाउनुहोस्
-           *[other] { $count } निष्क्रिय ट्याबहरू देखाउनुहोस्
-        }
-    .tooltiptext = यो यन्त्रमा निष्क्रिय ट्याबहरू देखाउनुहोस्
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = निष्क्रिय ट्याबहरू
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = कम ओभरहेडको स�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = शक्ति
+profiler-popup-presets-debug-description = { -brand-shorter-name } मा डिबगिङका लागि प्रिसेट। उच्च ओभरहेड, प्रदर्शन कार्यको लागि प्रयोग नगर्नुहोस् तर ब्राउजर व्यवहार बुझ्नमा ध्यान केन्द्रित गर्न प्रयोग गर्नुहोस्।
+profiler-popup-presets-debug-label =
+    .label = डिबग
 profiler-popup-presets-custom-label =
     .label = अनुकूलन
 
