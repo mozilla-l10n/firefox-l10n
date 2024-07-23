@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen 
 
 httpsonly-header = Alleen-HTTPS-modus
 httpsonly-description = HTTPS biedt een veilige, versleutelde verbinding tussen { -brand-short-name } en de door u bezochte websites. De meeste websites ondersteunen HTTPS en als de Alleen-HTTPS-modus is ingeschakeld, zal { -brand-short-name } alle verbindingen upgraden naar HTTPS.
+httpsonly-description2 = { -brand-short-name } maakt veilige en versleutelde verbindingen met websites die u bezoekt. { -brand-short-name } waarschuwt u als een verbinding niet veilig is wanneer Alleen-HTTPS is ingeschakeld.
 httpsonly-learn-more = Meer info
 httpsonly-radio-enabled =
     .label = Alleen-HTTPS-modus in alle vensters inschakelen
+httpsonly-radio-enabled2 =
+    .label = Alleen HTTPS gebruiken in alle vensters
 httpsonly-radio-enabled-pbm =
     .label = Alleen-HTTPS-modus uitsluitend in privévensters inschakelen
+httpsonly-radio-enabled-pbm2 =
+    .label = Alleen HTTPS gebruiken in privévensters
 httpsonly-radio-disabled =
     .label = Alleen-HTTPS-modus niet inschakelen
+httpsonly-radio-disabled2 =
+    .label = Eerst HTTPS proberen, maar niet-beveiligde verbindingen toestaan
 
 ## DoH Section
 
