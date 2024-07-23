@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 
 httpsonly-header = Modo solo HTTPS
 httpsonly-description = HTTPS proporciona una conexión segura y encriptada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo HTTPS-Only está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
+httpsonly-description2 = { -brand-short-name } crea conexiones seguras y cifradas a los sitios visitados. { -brand-short-name } avisará si una conexión no es segura cuando solo HTTPS está activado.
 httpsonly-learn-more = Conocer más
 httpsonly-radio-enabled =
     .label = Habilitar el modo solo HTTPS en todas las ventanas
+httpsonly-radio-enabled2 =
+    .label = Solo usar HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
     .label = Habilitar el modo solo HTTPS solo en ventanas privadas
+httpsonly-radio-enabled-pbm2 =
+    .label = Solo usar HTTPS en las ventanas privadas
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-radio-disabled2 =
+    .label = Probar HTTPS primero, pero permitir conexiones que no son seguras
 
 ## DoH Section
 
