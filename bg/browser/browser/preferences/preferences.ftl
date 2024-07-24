@@ -217,6 +217,8 @@ preferences-web-appearance-description = Някои страници адапт�
 preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тъмна
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Автоматична промяна на фона и съдържанието на страницата въз основа на вашите системни настройки и темата на { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Да се ползва светъл външен вид за фон и съдържание на страниците.
 preferences-web-appearance-choice-tooltip-dark =
@@ -227,6 +229,13 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Избраните от вас цветове променят външния вид на сайта. <a data-l10n-name="colors-link">Управление на цветове</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Избраните от вас цветове променят външния вид на сайта.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
@@ -254,6 +263,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Само на текста
     .accesskey = т
+preferences-text-zoom-override-warning =
+    .message = Предупреждение: Ако изберете „Мащабиране само на текста“ и мащабирането по подразбиране не е 100%, това може да доведе до некоректното изобразяване при някои сайтове.
 language-header = Език
 choose-language-description = Избор на език при показване на многоезични страници
 choose-button =
@@ -475,6 +486,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Използване на каретка за придвижване в страниците
     .accesskey = к
+browsing-use-full-keyboard-navigation =
+    .label = Използвайте клавиша Tab, за да премествате фокуса между контролите на формуляра и връзките
+    .accesskey = T
 browsing-search-on-start-typing =
     .label = Търсене на текст при започване на въвеждане
     .accesskey = Т
@@ -540,6 +554,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
 home-prefs-content-description2 = Изберете съдържанието, което искате да виждате на началната страница на { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Търсене в Мрежата
@@ -1314,6 +1329,9 @@ preferences-doh-setting-off =
     .label = Изключено
     .accesskey = о
 preferences-doh-off-desc = Използва се вашият DNS по подразбиране (от доставчика ви на Интернет).
+preferences-doh-checkbox-warn =
+    .label = Предупреждение, ако трета страна активно пречи на защитен DNS
+    .accesskey = D
 preferences-doh-select-resolver = Изберете доставчик:
 preferences-doh-exceptions-description = { -brand-short-name } няма да използва защитени DNS за тези сайтове
 preferences-doh-manage-exceptions =
