@@ -645,9 +645,16 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populært på { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Vis ikke populære søgninger
+    .accesskey = V
 urlbar-result-menu-trending-why =
     .label = Hvorfor ser jeg dette?
     .accesskey = H
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Tak for tilbagemeldingen. Du vil ikke længere se populære søgninger.
 
 ## Reader View toolbar buttons
 
