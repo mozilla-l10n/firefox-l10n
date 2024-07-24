@@ -1282,6 +1282,9 @@ preferences-doh-bad-url = Невалиден URL
 preferences-doh-steering-status = Използване на местен доставчик
 preferences-doh-status-active = Включено
 preferences-doh-status-disabled = Изключено
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Неактивен ({ $reason })
 preferences-doh-group-message = Активиране на защитен DNS чрез:
 preferences-doh-group-message2 = Активиране на DNS през HTTPS използвайки:
 preferences-doh-expand-section =
@@ -1300,13 +1303,17 @@ preferences-doh-setting-enabled =
     .accesskey = и
 preferences-doh-enabled-desc = Вие определяте кога да се използва защитен DNS и избирате своя доставчик.
 preferences-doh-enabled-detailed-desc-1 = Използва се избран от вас доставчик
+preferences-doh-enabled-detailed-desc-2 = Използва се вашият стандартен DNS (от доставчика ви на интернет), само ако има проблем със сигурния DNS.
 preferences-doh-setting-strict =
     .label = Максимална защита
     .accesskey = М
+preferences-doh-strict-detailed-desc-1 = Използва се само избрания от вас доставчик
 preferences-doh-strict-detailed-desc-2 = Винаги да се предупреждава, ако не е наличен защитен DNS
+preferences-doh-strict-detailed-desc-3 = Ако защитеният DNS не е наличен, сайтовете няма да зареждат или да работят правилно.
 preferences-doh-setting-off =
     .label = Изключено
     .accesskey = о
+preferences-doh-off-desc = Използва се вашият DNS по подразбиране (от доставчика ви на Интернет).
 preferences-doh-select-resolver = Изберете доставчик:
 preferences-doh-exceptions-description = { -brand-short-name } няма да използва защитени DNS за тези сайтове
 preferences-doh-manage-exceptions =
