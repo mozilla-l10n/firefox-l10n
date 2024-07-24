@@ -4,28 +4,23 @@
 
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
-csp-error-missing-directive = Pšawidłam trěbna direktiwa '{ $directive }' felujo
-
+csp-error-missing-directive = Pšawidłam trjebna direktiwa '{ $directive }' felujo
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = Direktiwa '{ $directive }' wopśimujo zakazane klucowe słowo { $keyword }
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = Direktiwa '{ $directive }' wopśimujo zakazany { $scheme }: protokolowe žrědło
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: Protokol pomina se host w direktiwach '{ $directive }'
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = '{ $directive }' musy žrědło { $source } wopśimowaś
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
