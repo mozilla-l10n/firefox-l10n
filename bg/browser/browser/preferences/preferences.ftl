@@ -941,8 +941,12 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Автоматично попълване
+autofill-addresses-checkbox = Запазване и попълване на адреси
+    .accesskey = а
 autofill-saved-addresses-button = Запазени адреси
     .accesskey = с
+autofill-payment-methods-checkbox-message = Запазване и попълване на начини на плащане
+    .accesskey = щ
 autofill-payment-methods-checkbox-submessage = Включва кредитни и дебитни карти
     .accesskey = и
 autofill-saved-payment-methods-button = Запазени начини на плащане
@@ -1070,6 +1074,12 @@ addressbar-locbar-quickactions-option =
     .label = Бързи действия
     .accesskey = д
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
+addressbar-locbar-showrecentsearches-option =
+    .label = Показване на последните търсения
+    .accesskey = п
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Показване на набиращи популярност предложения за търсене
+    .accesskey = щ
 addressbar-quickactions-learn-more = Научете повече
 
 ## Privacy Section - Content Blocking
@@ -1151,6 +1161,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Снемане на цифров отпечатък
     .accesskey = ц
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Познати скриптове, които събират данни
+    .accesskey = з
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Подозрителни скриптове, които събират данни
+    .accesskey = р
 
 ## Privacy Section - Tracking
 
@@ -1232,6 +1254,8 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+privacy-segmentation-section-header = Нови функции, които подобряват вашето сърфиране
+privacy-segmentation-section-description = Когато предлагаме функции, които използват вашите данни, за да ви дадат по-лично изживяване:
 privacy-segmentation-radio-off =
     .label = Използвайте препоръките от { -brand-product-name }
 privacy-segmentation-radio-on =
@@ -1239,6 +1263,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Настройки за рекламите в сайтовете
+website-advertising-private-attribution =
+    .label = Позволява на уебсайтовете да извършват измервания относно рекламите, като запазват вашата поверителност
+    .accesskey = й
+website-advertising-private-attribution-description = Това помага на сайтовете да разберат каква е ефективността на техните реклами, без да събират данни за вас.
 
 ## Privacy Section - Security
 ##
@@ -1330,6 +1359,7 @@ preferences-doh-enabled-detailed-desc-2 = Използва се вашият с�
 preferences-doh-setting-strict =
     .label = Максимална защита
     .accesskey = М
+preferences-doh-strict-desc = { -brand-short-name } винаги ще използва защитен DNS. Ще видите предупреждение относно риск за сигурността, преди да се ползва вашият системен DNS.
 preferences-doh-strict-detailed-desc-1 = Използва се само избрания от вас доставчик
 preferences-doh-strict-detailed-desc-2 = Винаги да се предупреждава, ако не е наличен защитен DNS
 preferences-doh-strict-detailed-desc-3 = Ако защитеният DNS не е наличен, сайтовете няма да зареждат или да работят правилно.
