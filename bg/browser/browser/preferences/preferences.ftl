@@ -894,6 +894,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Научете повече
 preferences-relay-integration-checkbox =
     .label = Предложения за маскирани имейли от { -relay-brand-name }, с цел защита на вашия имейл адрес
+preferences-relay-integration-checkbox2 =
+    .label = Предложения за маскирани имейли от { -relay-brand-name }, с цел защита на вашия имейл адрес
+    .accesskey = д
 relay-integration-learn-more-link = Научете повече
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1040,6 +1043,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Проследяване в различни сайтове
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Междусайтови проследяващи бисквитки
+sitedata-option-block-cross-site-cookies =
+    .label = Междусайтовите проследяващи бисквитки и изолиране на другите междусайтови бисквитки
 sitedata-option-block-unvisited =
     .label = Бисквитки от непосетени страници
 sitedata-option-block-all-cross-site-cookies =
@@ -1062,6 +1067,7 @@ cookie-banner-handling-header = Намаляване на банерите за 
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Блокиране на банери за бисквитки
 cookie-banner-learn-more = Научете повече
 
 ## Privacy Section - Address Bar
