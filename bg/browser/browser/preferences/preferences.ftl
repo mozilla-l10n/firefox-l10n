@@ -15,6 +15,10 @@ global-privacy-control-description =
     .label = Уведомяване на сайтовете да не продават или споделят мои данни
     .accesskey = с
 non-technical-privacy-header = Предпочитания за поверителност към сайтовете
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Настройки
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -1106,6 +1110,10 @@ content-blocking-all-windows-tracking-content = Проследяващо съд�
 content-blocking-all-cross-site-cookies = Всички междусайтови бисквитки
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Познати и подозрителни скриптове, които събират данни
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
