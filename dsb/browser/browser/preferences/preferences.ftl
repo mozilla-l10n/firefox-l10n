@@ -445,7 +445,7 @@ update-setting-write-failure-title2 = Zmólka pśi składowanju aktualizěrowań
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se změnjanje toś togo aktualizěrowańskego nastajenja pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywarskej kupce połnu kontrolu nad toś teju dataju dajotej.
+    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se změnjanje toś togo aktualizěrowańskego nastajenja pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywaŕskej kupce połnu kontrolu nad toś teju dataju dajotej.
     
     Njedajo se do dataje pisaś: { $path }
 update-in-progress-title = Aktualizacija běžy
