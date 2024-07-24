@@ -640,6 +640,11 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Показване на предложения при търсене в резултатите от адресната лента
     .accesskey = р
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Показване на думите за търсене вместо URL на страницата с резултати от търсещата машина
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -1029,6 +1034,7 @@ sitedata-delete-on-close =
     .label = Изтриване на бисквитки и данни на страници при затваряне на { -brand-short-name }
     .accesskey = д
 sitedata-delete-on-close-private-browsing = В постоянен режим на поверително разглеждане бисквитките и данните на страници винаги ще бъдат изчиствани при затваряне на { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Въз основа на вашите настройки за пазене на история { -brand-short-name } изтрива бисквитки и данни от сайтове от вашата сесията при затваряне на браузъра.
 sitedata-allow-cookies-option =
     .label = Разрешаване на бисквитки и данни
     .accesskey = р
@@ -1068,7 +1074,12 @@ cookie-banner-handling-header = Намаляване на банерите за 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Блокиране на банери за бисквитки
+cookie-banner-blocker-description = Когато сайт попита дали може да използва бисквитки в режим на поверително разглеждане, { -brand-short-name } автоматично отказва вместо вас. Само за сайтове, които поддържат тази функция.
 cookie-banner-learn-more = Научете повече
+forms-handle-cookie-banners =
+    .label = Намаляване на банерите за бисквитки
+cookie-banner-blocker-checkbox-label =
+    .label = Автоматично отказване на банерите за бисквитки
 
 ## Privacy Section - Address Bar
 
@@ -1114,6 +1125,10 @@ content-blocking-enhanced-tracking-protection = Подобрена защита 
 content-blocking-section-top-level-description = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
 content-blocking-learn-more = Научете повече
 content-blocking-fpi-incompatibility-warning = Използвате изолация от първа страна (FPI), която отменя някои от настройките на бисквитките на { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Използвате Resist Fingerprinting (RFP), което заменя някои от настройките за защита на { -brand-short-name }. Това може да наруши работата на отделни сайтове.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1139,6 +1154,7 @@ content-blocking-private-windows = Проследяващо съдържание
 content-blocking-cross-site-cookies-in-all-windows2 = Междусайтови бисквитки във всички прозорци
 content-blocking-cross-site-tracking-cookies = Бисквитки за следене в различни сайтове
 content-blocking-all-cross-site-cookies-private-windows = Междусайтови бисквитки в поверителни прозорци
+content-blocking-cross-site-tracking-cookies-plus-isolate = Междусайтовите проследяващи бисквитки и изолиране на другите бисквитки
 content-blocking-social-media-trackers = Проследяване от социални мрежи
 content-blocking-all-cookies = Всички бисквитки
 content-blocking-unvisited-cookies = Бисквитки от непосетени страници
@@ -1158,6 +1174,7 @@ content-blocking-etp-standard-tcp-rollout-description = Цялостната з�
 content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
 content-blocking-etp-standard-tcp-title = Включва цялостна защита на бисквитките, най-мощната ни поверителна функция
 content-blocking-warning-title = Внимание!
+content-blocking-and-isolating-etp-warning-description-2 = Тази настройка може да накара някои уебсайтове да не показват коректно съдържанието или да не работят правилно. Ако даден сайт изглежда повреден, може да искате да изключите защитата от проследяване, за да се зареди цялото съдържание на сайта.
 content-blocking-warning-learn-how = Научете как
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
 content-blocking-reload-tabs-button =
@@ -1280,6 +1297,8 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+collection-backlogged-crash-reports-with-link = Разрешава на { -brand-short-name } да изпраща събрани доклади за сривове от ваше име. <a data-l10n-name="crash-reports-link">Научете повече</a>
+    .accesskey = щ
 collection-backlogged-crash-reports = Разрешаване на { -brand-short-name } да изпраща събрани доклади за сривове от ваше име
     .accesskey = д
 privacy-segmentation-section-header = Нови функции, които подобряват вашето сърфиране
