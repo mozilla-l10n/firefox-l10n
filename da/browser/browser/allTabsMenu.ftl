@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Luk kopierede faneblade
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Luk alle kopierede faneblade
