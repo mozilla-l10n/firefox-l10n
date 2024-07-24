@@ -1271,13 +1271,19 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS през HTTPS
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Състояние: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Доставчик: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Невалиден URL
+preferences-doh-steering-status = Използване на местен доставчик
 preferences-doh-status-active = Включено
 preferences-doh-status-disabled = Изключено
+preferences-doh-group-message = Активиране на защитен DNS чрез:
+preferences-doh-group-message2 = Активиране на DNS през HTTPS използвайки:
 preferences-doh-expand-section =
     .tooltiptext = Повече информация
 preferences-doh-setting-default =
@@ -1303,6 +1309,9 @@ preferences-doh-setting-off =
     .accesskey = о
 preferences-doh-select-resolver = Изберете доставчик:
 preferences-doh-exceptions-description = { -brand-short-name } няма да използва защитени DNS за тези сайтове
+preferences-doh-manage-exceptions =
+    .label = Управление на изключенията…
+    .accesskey = и
 
 ## The following strings are used in the Download section of settings
 
