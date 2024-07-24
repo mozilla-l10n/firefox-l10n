@@ -1368,6 +1368,8 @@ httpsonly-radio-enabled-pbm =
     .label = Slå udelukkende kun-HTTPS til for private vinduer
 httpsonly-radio-disabled =
     .label = Slå ikke kun-HTTPS til
+httpsonly-radio-disabled2 =
+    .label = Forsøg først med HTTPS, men tillad også usikre forbindelser.
 
 ## DoH Section
 
