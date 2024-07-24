@@ -237,6 +237,16 @@ newtab-pocket-saved = Gemt
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Mere som dette
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Ikke noget for mig
+newtab-toast-thumbs-up-or-down = Tak. Din tilbagemelding hjælper os med at forbedre dit feed.
+newtab-toast-dismiss-button =
+    .title = Afvis
+    .aria-label = Afvis
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
