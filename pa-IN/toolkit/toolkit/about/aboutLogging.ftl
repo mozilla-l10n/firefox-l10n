@@ -31,6 +31,7 @@ about-logging-preset-networking-description = ਨੈੱਟਵਰਕ ਮਸਲੇ
 about-logging-preset-networking-cookie-label = ਕੂਕੀਜ਼
 about-logging-preset-networking-websocket-label = ਵੈੱਬਸਾਕਟ
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 ਅੱਪਲੋਡ ਗਤੀ
 about-logging-preset-media-playback-label = ਮੀਡੀਆ ਪਲੇਅਬੈਕ
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webgpu-label = WebGPU
