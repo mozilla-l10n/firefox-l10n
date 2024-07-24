@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis seneste søgninger
     .accesskey = s
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Vis populære søgeforslag
+    .accesskey = p
 addressbar-quickactions-learn-more = Læs mere
 
 ## Privacy Section - Content Blocking
