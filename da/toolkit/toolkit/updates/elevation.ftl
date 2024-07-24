@@ -21,3 +21,8 @@ elevation-more-elevated =
     kan genstarte
     { -brand-short-name } nu, fortsætte med at arbejde og genstarte senere, eller du kan afvise denne
     opdatering.
+sandbox-missing-unprivileged-namespaces = Nogle af sikkerhedsfunktionerne i { -brand-short-name } giver muligvis mindre beskyttelse i dit aktuelle styresystem.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Vis ikke igen
+    .accesskey = V
+sandbox-unprivileged-namespaces-howtofix = Sådan løser du problemet
