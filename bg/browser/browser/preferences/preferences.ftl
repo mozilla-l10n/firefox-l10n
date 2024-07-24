@@ -132,6 +132,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Автоматично отваряне на { -brand-short-name } при стартиране на компютъра
     .accesskey = А
+windows-launch-on-login-disabled = Тази настройка е изключена в Windows. За да я промените, посетете <a data-l10n-name="startup-link">Приложения > Стартиране</a> в Настройки на Windows.
 startup-restore-warn-on-quit =
     .label = Предупреждаване при затваряне на четеца
 disable-extension =
