@@ -143,6 +143,7 @@ spotlight-pin-secondary-button = Не сега
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Новият { -brand-short-name }. Персонален. Без проследяване. Без компромиси.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -154,27 +155,49 @@ mr2022-background-update-toast-secondary-button-label = Напомни ми по
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Кажете здравей на { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Вижте как работи
+firefoxview-spotlight-promo-secondarybutton = Пропускане
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Изберете цветова комбинация
+    .accesskey = ц
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-dismiss-button = Не сега
+    .accesskey = Н
+cookie-banner-blocker-onboarding-learn-more = Научете повече
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+fox-doodle-pin-headline = Добре дошли отново
+fox-doodle-pin-secondary = Не сега
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Разбрах
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Планирате ли ново устройство в бъдеще?
+fxa-sync-cfr-primary = Научете повече
+    .accesskey = п
+fxa-sync-cfr-secondary = Напомни ми по-късно
+    .accesskey = к
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = Не забравяйте да архивирате данните си
+device-migration-fxa-spotlight-heavy-user-primary-button = Първи стъпки
+device-migration-fxa-spotlight-older-device-primary-button = Създаване на профил
+device-migration-fxa-spotlight-getting-new-device-primary-button = Как да архивирам данните си
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-decline-button =
+    .label = Не сега
 
 ## Launch on login infobar notification
 
