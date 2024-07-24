@@ -26,5 +26,14 @@ default-browser-prompt-button-secondary = Не сега
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Стъпка 1: Отидете на Настройки > Приложения по подразбиране
+    Стъпка 2: Превъртете надолу до „Уеб браузър“
+    Стъпка 3: Изберете { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Стъпка 1: Отидете на Настройки > Приложения по подразбиране
+    Стъпка 2: Изберете „Задаване по подразбиране“ за { -brand-short-name }
 default-browser-guidance-notification-info-page = Покажи ми
 default-browser-guidance-notification-dismiss = Готово

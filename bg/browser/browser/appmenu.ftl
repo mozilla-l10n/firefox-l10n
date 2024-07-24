@@ -196,6 +196,8 @@ profiler-popup-presets-power-description = Предварителни настр
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Захранване
+profiler-popup-presets-debug-label =
+    .label = Дебъг
 profiler-popup-presets-custom-label =
     .label = Потребителски
 

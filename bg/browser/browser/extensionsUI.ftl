@@ -23,6 +23,7 @@ addon-post-install-message = Разширението { $addonName } е доба
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Изпълняване на { $addonName } на ограничени страници?
+webext-quarantine-confirmation-line-1 = За да защитим вашите данни, това разширение не е разрешено за този сайт.
 webext-quarantine-confirmation-allow =
     .label = Разрешаване
     .accesskey = Р
