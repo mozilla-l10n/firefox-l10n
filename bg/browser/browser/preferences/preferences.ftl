@@ -935,6 +935,8 @@ windows-passkey-settings-label = Управляване на ключ-парол
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = За да създадете главна парола тук, въведете данните за вход в Windows. Това помага за защитата на сигурността на вашите профили.
+# This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
@@ -1326,6 +1328,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = Използвайте HTTPS само в поверителни прозорци
 httpsonly-radio-disabled =
     .label = Да не се включва режим „само HTTPS“
+httpsonly-radio-disabled2 =
+    .label = Опитва се първо с HTTPS, но се разрешават и връзки, които не са защитени
 
 ## DoH Section
 
