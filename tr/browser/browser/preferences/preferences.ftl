@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulll
 
 httpsonly-header = Yalnızca HTTPS modu
 httpsonly-description = HTTPS, ziyaret ettiğiniz sitelerle { -brand-short-name } arasında güvenli ve şifrelenmiş bağlantı sağlar. Çoğu site HTTPS desteği sunar. “Yalnızca HTTPS” modunu açarsanız { -brand-short-name } tüm bağlantılarda HTTPS kullanmaya çalışır.
+httpsonly-description2 = { -brand-short-name }, ziyaret ettiğiniz sitelerle sizin aranızda güvenli ve şifrelenmiş bağlantılar kurar. Yalnızca HTTPS modu açıkken bir bağlantı güvenli değilse { -brand-short-name } sizi uyarır.
 httpsonly-learn-more = Daha fazla bilgi al
 httpsonly-radio-enabled =
     .label = Yalnızca HTTPS modunu tüm pencerelerde etkinleştir
+httpsonly-radio-enabled2 =
+    .label = Tüm pencerelerde yalnızca HTTPS kullan
 httpsonly-radio-enabled-pbm =
     .label = Yalnızca HTTPS modunu yalnızca gizli pencerelerde etkinleştir
+httpsonly-radio-enabled-pbm2 =
+    .label = Gizli pencerelerde yalnızca HTTPS kullan
 httpsonly-radio-disabled =
     .label = Yalnızca HTTPS modunu etkinleştirme
+httpsonly-radio-disabled2 =
+    .label = Önce HTTPS’i dene ama güvenli olmayan bağlantılara da izin ver
 
 ## DoH Section
 
