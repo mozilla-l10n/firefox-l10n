@@ -238,7 +238,7 @@ appmenu-help-share-ideas =
     .label = Del idear og tilbakemeldingar...
     .accesskey = D
 appmenu-help-switch-device =
-    .label = Byter til ei ny eining
+    .label = Byte til ei ny eining
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

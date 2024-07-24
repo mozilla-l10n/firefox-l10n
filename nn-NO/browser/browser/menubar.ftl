@@ -339,7 +339,7 @@ menu-help-exit-troubleshoot-mode =
     .label = Slå av feilsøkingsmodus
     .accesskey = S
 menu-help-switch-device =
-    .label = Byter til ei ny eining
+    .label = Byte til ei ny eining
     .accesskey = B
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
