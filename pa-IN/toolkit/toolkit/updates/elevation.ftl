@@ -15,3 +15,8 @@ elevation-more-elevated =
     ਇਸ ਅੱਪਡੇਟ ਲਈ ਪਰਸ਼ਾਸ਼ਕ ਅਧਿਕਾਰਾਂ ਦੀ ਲੋੜ ਹੈ। ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ { -brand-short-name } ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਹੁਣੇ
     { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ, ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇਸ ਅੱਪਡੇਟ ਨੂੰ
     ਰੱਦ ਵੀ ਕਰ ਸਕਦੇ ਹੋ।
+sandbox-missing-unprivileged-namespaces = { -brand-short-name } ਦੇ ਕੁਝ ਸੁਰੱਖਿਆ ਫ਼ੀਚਰ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਉੱਤੇ ਘੱਟ ਸੁਰੱਖਿਆ ਦੇ ਸਕਦੇ ਹਨ।
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = ਮੁੜ ਨਾ ਵੇਖਾਓ
+    .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = ਇਸ ਮਸਲੇ ਨੂੰ ਕਿਵੇਂ ਠੀਕ ਕਰੀਏ
