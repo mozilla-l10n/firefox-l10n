@@ -119,6 +119,7 @@ policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, besked
 policy-PictureInPicture = Slå Billede-i-billede til eller fra.
 policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som standard.
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
+policy-PrivateBrowsingModeAvailability = Indstil adgang til privat browsing-tilstand.
 policy-PromptForDownloadLocation = Spørg hvor hentede filer skal gemmes.
 policy-Proxy = Opsæt proxy-indstillinger.
 policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
