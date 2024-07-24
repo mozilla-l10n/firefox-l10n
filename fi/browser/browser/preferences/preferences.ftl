@@ -1360,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") }
 
 httpsonly-header = Vain HTTPS -tila
 httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS”-tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.
+httpsonly-description2 = { -brand-short-name } luo suojattuja ja salattuja yhteyksiä sivustoihin, joissa käyt. { -brand-short-name } varoittaa, jos yhteys ei ole suojattu, kun "Vain HTTPS"-tila on käytössä.
 httpsonly-learn-more = Lue lisää
 httpsonly-radio-enabled =
     .label = Käytä ”Vain HTTPS”-tilaa kaikissa ikkunoissa
+httpsonly-radio-enabled2 =
+    .label = Käytä vain HTTPS:ää kaikissa ikkunoissa
 httpsonly-radio-enabled-pbm =
     .label = Käytä ”Vain HTTPS”-tilaa vain yksityisissä ikkunoissa
+httpsonly-radio-enabled-pbm2 =
+    .label = Käytä vain HTTPS:ää yksityisissä ikkunoissa
 httpsonly-radio-disabled =
     .label = Älä käytä ”Vain HTTPS”-tilaa
+httpsonly-radio-disabled2 =
+    .label = Kokeile ensin HTTPS:ää, mutta salli yhteydet, jotka eivät ole suojattuja
 
 ## DoH Section
 
