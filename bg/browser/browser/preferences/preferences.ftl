@@ -576,6 +576,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Изключително съдържание, подбрано от { $provider } част от семейството на { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Препоръчани истории
+home-prefs-recommended-by-description-generic = Изключително съдържание, подбрано от семейството на { -brand-product-name }
 
 ##
 
@@ -790,6 +791,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = з
     .buttonlabelextra2 = Изключване…
     .buttonaccesskeyextra2 = и
+sync-choose-dialog-subtitle = Промените в списъка с елементи за синхронизиране ще бъдат отразени на всичките ви свързани устройства.
 sync-engine-bookmarks =
     .label = Отметки
     .accesskey = О
@@ -910,6 +912,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Използване на главна парола
     .accesskey = п
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Изисква се влизане в устройство за попълването и управлението на паролите
 forms-primary-pw-learn-more-link = Научете повече
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -942,6 +947,12 @@ primary-password-os-auth-dialog-message-win = За да създадете гл�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = създаде основна парола
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] променя настройките за начините на плащане
+       *[other] { -brand-short-name } се опитва да промени настройките за начините на плащане. Използвайте вашето устройство за вписване, за да разрешите това.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -957,6 +968,9 @@ autofill-payment-methods-checkbox-submessage = Включва кредитни �
     .accesskey = и
 autofill-saved-payment-methods-button = Запазени начини на плащане
     .accesskey = п
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Изисква се влизане в устройство за попълването и управлението на начините за плащане
+    .accesskey = щ
 
 ## Privacy Section - History
 
@@ -1260,6 +1274,8 @@ addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+collection-backlogged-crash-reports = Разрешаване на { -brand-short-name } да изпраща събрани доклади за сривове от ваше име
+    .accesskey = д
 privacy-segmentation-section-header = Нови функции, които подобряват вашето сърфиране
 privacy-segmentation-section-description = Когато предлагаме функции, които използват вашите данни, за да ви дадат по-лично изживяване:
 privacy-segmentation-radio-off =
