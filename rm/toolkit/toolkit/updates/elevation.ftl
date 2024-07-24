@@ -16,3 +16,8 @@ elevation-more-elevated =
     installada la proxima giada che { -brand-short-name } vegn avià. Ti pos ussa reaviar
     { -brand-short-name }, cuntinuar cun la lavur e reaviar pli tard u refusar questa
     actualisaziun.
+sandbox-missing-unprivileged-namespaces = Tschertas funcziuns da segirezza da { -brand-short-name } porschan eventualmain damain protecziun sin tes sistem operativ actual.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Betg pli mussar
+    .accesskey = B
+sandbox-unprivileged-namespaces-howtofix = Co schliar quest problem

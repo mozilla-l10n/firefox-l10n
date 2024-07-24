@@ -119,6 +119,7 @@ policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, not
 policy-PictureInPicture = Activar u deactivar maletg-en-maletg.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
+policy-PrivateBrowsingModeAvailability = Definir la disponibladad dal modus privat.
 policy-PromptForDownloadLocation = Dumandar nua memorisar datotecas cun telechargiar.
 policy-Proxy = Configurar ils parameters dal proxy.
 policy-RequestedLocales = Definescha, en la successiun da preferenza, la glista da las linguas («locales») dumandadas da l'applicaziun.
