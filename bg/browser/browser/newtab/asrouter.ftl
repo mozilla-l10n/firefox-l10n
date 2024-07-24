@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Препоръчана възможност
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
-
 cfr-doorhanger-extension-manage-settings-button = Управление на настройки за препоръки
     .accesskey = н
-
 cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
     .accesskey = н
-
 cfr-doorhanger-extension-learn-more-link = Научете повече
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Препоръчано
     .tooltiptext = Препоръка за разширение
     .a11y-announcement = Налична е препоръка за разширение
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Препоръка
     .tooltiptext = Препоръка за възможност
     .a11y-announcement = Налична е препоръка за възможност
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Научете повече
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова възможност:
-
 cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
-
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 
 ## Enhanced Tracking Protection Milestones
@@ -114,15 +106,11 @@ cfr-doorhanger-doh-primary-button-2 = Добре
 cfr-doorhanger-doh-secondary-button = Изключване
     .accesskey = з
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = Обновете { -brand-short-name } за възпроизвеждане на видео
 cfr-doorhanger-video-support-primary-button = Обновяване
     .accesskey = б
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -136,8 +124,6 @@ spotlight-public-wifi-vpn-primary-button = Запазете поверителн
     .accesskey = З
 spotlight-public-wifi-vpn-link = Не сега
     .accesskey = Н
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -157,6 +143,11 @@ spotlight-pin-secondary-button = Не сега
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Напомни ми по-късно
 
 ## Firefox View CFR
 
@@ -169,12 +160,30 @@ spotlight-pin-secondary-button = Не сега
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Да се отваря ли { -brand-short-name } всеки път, когато рестартирате Вашия компютър?</strong> Вече имате възможността да настроите { -brand-short-name } да тръгва автоматично при рестартиране на устройството.
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Да се отваря ли { -brand-short-name } всеки път, когато рестартирате компютъра?</strong> За да управлявате предпочитанията си при стартиране, потърсете „Стартиране“ в настройките.
+
+## Tail Fox Set Default Spotlight
 
