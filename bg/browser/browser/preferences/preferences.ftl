@@ -890,6 +890,8 @@ forms-breach-alerts =
     .label = Показване на известия за изтекли пароли от взломени страници
     .accesskey = и
 forms-breach-alerts-learn-more-link = Научете повече
+preferences-relay-integration-checkbox =
+    .label = Предложения за маскирани имейли от { -relay-brand-name }, с цел защита на вашия имейл адрес
 relay-integration-learn-more-link = Научете повече
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -928,6 +930,7 @@ forms-windows-sso =
     .label = Позволява еднократно вписване от Windows за профили в Microsoft, за работа и за училище
 forms-windows-sso-learn-more-link = Научете повече
 forms-windows-sso-desc = Управление на профили в настройките на устройството
+windows-passkey-settings-label = Управляване на ключ-паролите в системните настройки
 
 ## OS Authentication dialog
 
