@@ -371,6 +371,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Privremeno isključeno
 identity-https-only-info-turn-on2 = Uključi način rada „samo HTTPS” za ovu stranicu, ako želiš da { -brand-short-name } nadogradi vezu kad je to moguće.
 identity-https-only-info-turn-off2 = Ako se stranica čini slomljenom, možda ćeš htjeti isključiti način rada "samo HTTPS" za ovu stranicu i ponovno ju učitati pomoću nesigurnog HTTP-a.
+identity-https-only-info-turn-on3 = Uključite HTTPS nadogradnje za ovu stranicu ako želite da { -brand-short-name } nadogradi vezu kada je to moguće.
+identity-https-only-info-turn-off3 = Ukoliko se stranica ne učitava ispravno, možda biste trebali isključiti HTTPS nadogradnje za ovu stranicu i koristiti nesigurni HTTP.
 identity-https-only-info-no-upgrade = Nije moguće nadograditi vezu s HTTP-a.
 identity-permissions-storage-access-header = Međustranični kolačići
 identity-permissions-storage-access-hint = Ove stranke mogu koristiti kolačiće i podatke dijeljene među više stranica dok ste na toj stranici.
@@ -934,6 +936,11 @@ data-reporting-notification-button =
     .accesskey = O
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privatno pregledavanje
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Sprječavanje gubitka podataka od { $agentName }. Kliknite za više informacija.
 content-analysis-panel-title = Zaštita podataka
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
