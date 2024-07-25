@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 40em
 sanitize-prefs-style =
     .style = width: 20em
+sanitize-dialog-title2 =
+    .title = Изчистване на данните от сърфиране и бисквитките
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Изчистване на скорошната история
     .style = min-width: 34em
@@ -60,6 +63,12 @@ item-active-logins =
 item-cache =
     .label = Склад
     .accesskey = с
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Временно кеширани файлове и страници ({ $amount } { $unit })
+    .accesskey = ш
 item-cached-content =
     .label = Временно кеширани файлове и страници
     .accesskey = В

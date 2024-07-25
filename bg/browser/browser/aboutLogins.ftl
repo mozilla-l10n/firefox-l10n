@@ -105,10 +105,10 @@ about-logins-list-section-week = Последните 7 дни
 
 about-logins-login-intro-heading-logged-out2 = Търсите запазените си регистрации? Включете синхронизирането или ги внесете.
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
-login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
-login-intro-instructions-fxa = Създайте или влезте в { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+login-intro-description = Ако сте запазили данните си за вход във { -brand-product-name } на друго устройство, ето как да ги вземете тук:
+login-intro-instructions-fxa = Създайте или влезте във { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 about-logins-login-intro-heading-message = Запазете паролите си на безопасно място
-login-intro-description2 = Всички пароли, които запазвате в { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
+login-intro-description2 = Всички пароли, които запазвате във { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
 login-intro-instructions-fxa2 = Създайте или влезте в профила на устройството, където са запазени вашите данни за вход
 login-intro-instructions-fxa-settings = Отворете "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-passwords-help = Посетете <a data-l10n-name="passwords-help-link">поддръжка на пароли</a> за помощ.
@@ -427,7 +427,7 @@ about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
 about-logins-import-report-title = Отчет за внасянето
-about-logins-import-report-description = Регистрации и пароли внесени в { -brand-short-name }.
+about-logins-import-report-description = Регистрации и пароли внесени във { -brand-short-name }.
 about-logins-import-report-description2 = Пароли внесени в/ъв { -brand-short-name }.
 #
 # Variables:

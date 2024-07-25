@@ -25,3 +25,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Изпратете незабавно раздел до всяко устройство, в което сте вписани.
 fxa-menu-sign-out =
     .label = Излизане…
+fxa-menu-sync-title = Синхронизиране

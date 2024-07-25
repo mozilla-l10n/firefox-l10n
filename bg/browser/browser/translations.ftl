@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Превеждане на тази страница
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Превеждане на тази страница - Beta
 urlbar-translations-button-loading =
     .tooltiptext = Превежда се
 translations-panel-settings-button =
@@ -76,6 +81,9 @@ translations-manage-language-remove-all-button =
     .label = Премахване на всички
     .accesskey = е
 translations-manage-error-download = Възникна проблем при изтеглянето на езиковите файлове. Моля, опитайте отново.
+translations-settings-title =
+    .title = Настройки за преводи
+    .style = min-width: 36em
 translations-settings-always-translate-langs-description = Сайтове на изброените по-долу езици ще се превеждат автоматично
 translations-settings-never-translate-langs-description = Няма да бъде предлаган превод за следните езици
 translations-settings-languages-column =
@@ -88,6 +96,9 @@ translations-settings-remove-all-languages-button =
     .accesskey = е
 translations-settings-sites-column =
     .label = Уеб сайтове
+translations-settings-remove-all-sites-button =
+    .label = Премахване на всички сайтове
+    .accesskey = к
 translations-settings-close-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = з
