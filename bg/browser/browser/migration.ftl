@@ -143,3 +143,7 @@ browser-data-session-checkbox =
     .label = Прозорци и раздели
 browser-data-session-label =
     .value = Прозорци и раздели
+browser-data-payment-methods-checkbox =
+    .label = Начини на плащане
+browser-data-payment-methods-label =
+    .value = Начини на плащане
