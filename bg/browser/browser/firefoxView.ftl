@@ -71,6 +71,10 @@ firefoxview-closed-tabs-dismiss-tab =
     .title = Отхвърляне на { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последна активност
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Отворете { $targetURI } в нов раздел
 firefoxview-try-colorways-button = Опитайте цветовете
 firefoxview-change-colorway-button = Променяне на цветовете
 # Variables:
@@ -229,6 +233,8 @@ firefoxview-tabs =
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Превключване към { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
