@@ -972,6 +972,11 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Završi privatnu sesiju
+    .tooltiptext = Završi privatnu sesiju
+reset-pbm-panel-heading = Završi privatnu sesiju?
+reset-pbm-panel-description = Zatvori sve privatne kartice i izbriši povijest, kolačiće i sve ostale podatke web stranica.
 reset-pbm-panel-always-ask-checkbox =
     .label = Uvijek me pitaj
     .accesskey = U
@@ -993,6 +998,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Naše maske su sigurne i lake za korištenje te štite vaš identitet i sprečavaju neželjenu poštu tako što skrivaju vašu adresu e-pošte.
 
 ## Add-on Pop-up Notifications
 
