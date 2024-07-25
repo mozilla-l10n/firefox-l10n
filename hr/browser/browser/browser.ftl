@@ -279,6 +279,9 @@ quickactions-cmd-plugins = priključci
 # Opens the print dialog
 quickactions-print2 = Ispiši stranicu
 quickactions-cmd-print = ispis
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Spremi stranicu kao PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
 quickactions-cmd-private = privatno pregledavanje
