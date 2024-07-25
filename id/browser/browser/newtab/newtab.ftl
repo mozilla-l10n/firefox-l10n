@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cari lewat { $engine } atau masukkan alamat
 newtab-search-box-handoff-text-no-engine = Cari atau masukkan alamat
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Cari lewat { $engine } atau masukkan alamat
     .title = Cari lewat { $engine } atau masukkan alamat
@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Tambahkan Mesin Pencari
 newtab-topsites-add-shortcut-header = Pintasan Baru
 newtab-topsites-edit-topsites-header = Ubah Situs Pilihan
 newtab-topsites-edit-shortcut-header = Edit Pintasan
+newtab-topsites-add-shortcut-label = Tambahkan Pintasan
 newtab-topsites-title-label = Judul
 newtab-topsites-title-input =
     .placeholder = Masukkan judul
@@ -86,7 +87,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Hapus
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Buka menu
     .aria-label = Buka menu konteks untuk { $title }
@@ -154,16 +155,16 @@ newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Pesan Sponsor
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Disponsori oleh { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } ・ { $timeToRead } mnt
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -192,7 +193,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Situs Teratas
 newtab-section-header-recent-activity = Aktivitas terbaru
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Disarankan oleh { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -200,7 +201,7 @@ newtab-section-header-pocket = Disarankan oleh { $provider }
 newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan beberapa artikel bagus, video, dan halaman lain yang baru saja Anda kunjungi atau termarkah di sini.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -226,6 +227,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } adalah bagian dari 
 newtab-pocket-save = Simpan
 newtab-pocket-saved = Disimpan
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -242,6 +246,8 @@ newtab-custom-shortcuts-subtitle = Situs yang Anda simpan atau kunjungi
 newtab-custom-shortcuts-toggle =
     .label = Pintasan
     .description = Situs yang Anda simpan atau kunjungi
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } baris
@@ -249,9 +255,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Pintasan bersponsor
 newtab-custom-pocket-title = Disarankan oleh { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Konten luar biasa yang dikelola oleh { -pocket-brand-name }, bagian dari keluarga { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Disarankan oleh { -pocket-brand-name }
-    .description = Konten luar biasa yang dikelola oleh { -pocket-brand-name }, bagian dari keluarga { -brand-product-name }
 newtab-custom-pocket-sponsored = Konten bersponsor
 newtab-custom-pocket-show-recent-saves = Tampilkan penyimpanan terbaru
 newtab-custom-recent-title = Aktivitas terbaru
@@ -261,3 +264,18 @@ newtab-custom-recent-toggle =
     .description = Pilihan situs dan konten terbaru
 newtab-custom-close-button = Tutup
 newtab-custom-settings = Kelola pengaturan lainnya
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+

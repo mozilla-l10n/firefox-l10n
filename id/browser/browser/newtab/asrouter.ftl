@@ -229,10 +229,20 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Memulai
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-confirm-button = Ya, buka { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Jangan sekarang
+    .accesskey = J
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Buka { -brand-short-name } setiap kali Anda memulai ulang komputer?</strong> Untuk mengelola preferensi mulai Anda, cari “mulai” di pengaturan.
+launch-on-login-infobar-final-reject-button = Tidak, terima kasih
+    .accesskey = T
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-subtitle = Ucapkan selamat tinggal pada pelacak iklan yang mengganggu dan nikmati pengalaman internet yang lebih aman dan cepat.
+tail-fox-spotlight-primary-button = Buka tautan saya dengan { -brand-short-name }
+tail-fox-spotlight-secondary-button = Jangan sekarang

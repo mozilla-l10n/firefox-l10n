@@ -238,10 +238,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Impor riwayat dari peramban lainnya
+firefoxview-import-history-description = Jadikan { -brand-short-name } sebagai peramban pilihan Anda. Impor riwayat penjelajahan, markah, dan lainnya.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Menutup tab terlalu cepat?
+firefoxview-recentlyclosed-empty-description = Di sini Anda akan menemukan tab yang baru saja ditutup, agar dapat dibuka kembali dengan cepat.
+firefoxview-recentlyclosed-empty-description-two = Untuk menemukan tab dari masa lalu, lihat <a data-l10n-name="history-url">riwayat penjelajahan</a> Anda.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

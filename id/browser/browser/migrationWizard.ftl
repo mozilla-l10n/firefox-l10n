@@ -4,6 +4,21 @@
 
 migration-wizard-selection-header = Impor Data Peramban
 migration-wizard-selection-list = Pilih data yang ingin Anda impor.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -21,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Kata Sandi dari file CSV
+migration-wizard-migrator-display-name-file-bookmarks = Markah dari berkas HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -36,11 +52,20 @@ migration-imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } tidak memiliki akses ke profil peramban lain yang terpasang pada perangkat ini.
+migration-no-permissions-instructions = Untuk melanjutkan mengimpor data dari peramban lain, beri { -brand-short-name } akses ke folder profilnya.
 migration-no-permissions-instructions-step1 = Pilih “Lanjutkan”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Di pemilih berkas, navigasikan ke <code>{ $permissionsPath }</code> dan pilih “Pilih”
 
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Impor semua data tersedia
+migration-no-selected-data-label = Tidak ada data yang dipilih untuk diimpor
 migration-selected-data-label = Impor data terpilih
 
 ##
@@ -54,6 +79,7 @@ migration-logins-and-passwords-option-label = Info masuk dan sandi tersimpan
 migration-passwords-option-label = Sandi tersimpan
 migration-history-option-label = Riwayat penjelajahan
 migration-extensions-option-label = Ekstensi
+migration-form-autofill-option-label = Data formulir isi otomatis
 migration-payment-methods-option-label = Metode pembayaran
 migration-cookies-option-label = Kuki
 migration-session-option-label = Jendela dan tab
@@ -63,6 +89,7 @@ migration-passwords-from-file-success-header = Sandi Berhasil Diimpor
 migration-passwords-from-file = Memeriksa berkas sandi
 migration-passwords-new = Sandi baru
 migration-passwords-updated = Sandi yang ada
+migration-passwords-from-file-no-valid-data = Berkas tidak menyertakan data sandi yang valid. Pilih berkas lain.
 migration-passwords-from-file-picker-title = Impor Berkas Sandi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,8 +105,23 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Berkas TSV
        *[other] Berkas TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords = { $newEntries } ditambahkan
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords = { $updatedEntries } diperbarui
+migration-bookmarks-from-file-picker-title = Impor Berkas Markah
+migration-bookmarks-from-file-progress-header = Mengimpor Markah
 migration-bookmarks-from-file = Markah
 migration-bookmarks-from-file-success-header = Markah Berhasil Diimpor
+migration-bookmarks-from-file-no-valid-data = Berkas tidak menyertakan data markah apa pun. Pilih berkas lain.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -106,6 +148,8 @@ migration-import-from-file-button-label = Pilih Berkas
 migration-cancel-button-label = Batalkan
 migration-done-button-label = Selesai
 migration-continue-button-label = Lanjutkan
+migration-wizard-import-browser-no-browsers = { -brand-short-name } tidak dapat menemukan program apa pun yang berisi data markah, riwayat, atau sandi.
+migration-wizard-import-browser-no-resources = Terjadi kesalahan. { -brand-short-name } tidak dapat menemukan data apa pun untuk diimpor dari profil peramban tersebut.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -117,9 +161,18 @@ migration-list-bookmark-label = markah
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favorit
+migration-list-password-label = sandi
+migration-list-history-label = riwayat
+migration-list-extensions-label = ekstensi
+migration-list-autofill-label = data formulir isi otomatis
+migration-list-payment-methods-label = metode pembayaran
 
 ##
 
+migration-wizard-progress-header = Mengimpor Data
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Data Berhasil Diimpor
 migration-safari-password-import-step3 = Simpan berkas sandi
 migration-safari-password-import-skip-button = Lewati
 migration-safari-password-import-select-button = Pilih Berkas
