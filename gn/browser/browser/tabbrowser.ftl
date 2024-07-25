@@ -115,6 +115,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Anive ehechaukajey ko ñomongeta.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Ema’ẽmi
 tabbrowser-confirm-close-duplicate-tabs-text = Rombojurujáta tendayke paha hendyhápe
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Emboty tendayke
 
 ##
 

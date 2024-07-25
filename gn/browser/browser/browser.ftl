@@ -640,6 +640,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Ojeheka ramóva
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Ojehayhuvéva { $engine } pegua
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Anive ehechauka jeheka ojehayhuvéva
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = ¿Mba’ére ahecha kóva?
+    .accesskey = W
 
 ## Reader View toolbar buttons
 
@@ -1021,3 +1033,16 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” jehechauka
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Ehechauka ñongatuhápe
+    .accessKey = F
