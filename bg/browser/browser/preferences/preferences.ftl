@@ -453,7 +453,7 @@ update-in-progress-cancel-button = &Продължаване
 
 performance-title = Производителност
 performance-use-recommended-settings-checkbox =
-    .label = Използване на препоръчителните настройки на производителността
+    .label = Използване на препоръчителните настройки за производителност
     .accesskey = п
 performance-use-recommended-settings-desc = Тези настройки са съобразени с хардуера и операционната система на компютъра.
 performance-settings-learn-more = Научете повече
