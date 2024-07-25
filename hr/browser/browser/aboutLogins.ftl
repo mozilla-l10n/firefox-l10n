@@ -286,12 +286,28 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] Ukloniti sve { $count } lozinke?
        *[other] Ukloniti sve { $count } lozinke?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] Ovo će ukloniti lozinku spremljenu u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
+        [one] Ovo će ukloniti lozinku spremljenu u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
+        [few] Ovo će ukloniti lozinke spremljene u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
+       *[other] Ovo će ukloniti lozinke spremljene u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Ukloniti { $count } lozinku sa svih uređaja?
         [few] Ukloniti sve { $count } lozinke sa svih uređaja?
        *[other] Ukloniti sve { $count } lozinke sa svih uređaja?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
+        [one] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
+        [few] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
+       *[other] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
     }
 
 ##

@@ -25,6 +25,7 @@ update-applying = Primjena nove verzije …
 update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
 update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
 update-adminDisabled = Tvoj administrator sustava je deaktivirao aktualiziranja
+update-policy-disabled = Ažuriranja su onemogućena od vaše organizacije
 update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
 aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nadograđuje jedna druga instanca

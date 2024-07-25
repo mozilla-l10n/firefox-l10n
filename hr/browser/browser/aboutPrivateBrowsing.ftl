@@ -63,6 +63,11 @@ about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijest
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Vidite manje zahtjeva za kolačiće!
+about-private-browsing-cookie-banners-promo-button = Smanjite pojavljivanje dijaloga kolačića
+about-private-browsing-cookie-banners-promo-message = Dopustite { -brand-short-name }u da automatski odgovori na skočne prozore kolačića tako da se možete vratiti pregledavanju bze ometanja. { -brand-short-name } će odbiti sve zahtjeve ukoliko je moguće.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
