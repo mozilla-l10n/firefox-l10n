@@ -79,4 +79,4 @@
         [ins] Mozillom
     }
     .gender = feminine
-trademarkInfo = Firefox i Firefox logotipi zaštitni su znakovi zaklade Mozilla.
+trademarkInfo = Firefox i Firefox logotipi su zaštićeni znakovi zaklade Mozilla.
