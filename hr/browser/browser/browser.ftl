@@ -999,6 +999,10 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = Naše maske su sigurne i lake za korištenje te štite vaš identitet i sprečavaju neželjenu poštu tako što skrivaju vašu adresu e-pošte.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Sve poruke e-pošte poslane na maskiranu e-poštu će biti proslijeđene na <strong>{ $useremail }</strong> (ukoliko odlučite da ih nećete blokirati).
+firefox-relay-offer-legal-notice = Klikom na “Koristi masku e-pošte” pristajete na <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1047,6 +1051,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Nije moguće odabrati datoteku ili mapu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Datoteka će biti spremljena u { $path }.
+file-picker-failed-save-nowhere = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Zadana mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
+file-picker-crashed-open = Windows dijaloški okvir za odabir datoteke se srušio. Nije moguće odabrati datoteku ili mapu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows dijaloški okvir za odabir datoteke se srušio. Datoteka će biti spremljena u { $path }.
+file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke se srušio. Zadana mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
