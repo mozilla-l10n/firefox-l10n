@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = จ
 all-tabs-menu-close-duplicate-tabs =
     .label = ปิดแท็บที่ซ้ำกัน
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = ปิดแท็บที่ซ้ำกันทั้งหมด

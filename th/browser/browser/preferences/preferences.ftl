@@ -1099,6 +1099,9 @@ addressbar-suggestions-settings = เปลี่ยนการกำหนด�
 addressbar-locbar-showrecentsearches-option =
     .label = แสดงการค้นหาล่าสุด
     .accesskey = ล
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = แสดงข้อเสนอแนะการค้นหาที่กำลังมาแรง
+    .accesskey = ม
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Content Blocking

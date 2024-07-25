@@ -59,3 +59,8 @@ synced-tabs-context-sync-now =
     .accesskey = ง
 synced-tabs-fxa-sign-in = ลงชื่อเข้าใช้เพื่อซิงค์
 synced-tabs-turn-on-sync = เปิดการซิงค์
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = ปิดแท็บใน { $deviceName }

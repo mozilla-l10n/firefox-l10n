@@ -633,6 +633,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = การค้นหาล่าสุด
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = กำลังมาแรงใน { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
+    .accesskey = ม
+urlbar-result-menu-trending-why =
+    .label = ทำไมฉันถึงเห็นสิ่งนี้?
+    .accesskey = ท
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = ขอบคุณสำหรับความคิดเห็นของคุณ คุณจะไม่เห็นการค้นหาที่กำลังมาแรงอีกต่อไป
 
 ## Reader View toolbar buttons
 
@@ -983,6 +998,10 @@ firefox-relay-offer-legal-notice = การคลิก “ใช้ตัว�
 popup-notification-addon-install-unsigned =
     .value = (ไม่ได้รับการยืนยัน)
 popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งส่วนเสริมอย่างปลอดภัย
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = เรียกใช้ในหน้าต่างส่วนตัว
+    .accesskey = ส
 
 ## Pop-up warning
 
@@ -1008,3 +1027,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = แสดง “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
