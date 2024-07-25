@@ -19,12 +19,26 @@ autofill-manage-edit-button = Uredi…
 
 ## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Spremi adresu?
+address-capture-save-doorhanger-description = Spremite informacije u { -brand-short-name } kako biste mogli brzo ispuniti obrasce.
 address-capture-update-doorhanger-header = Aktualizirati adresu?
+address-capture-edit-doorhanger-header = Uredi adresu
+address-capture-save-button =
+    .label = Spremi
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Ne sada
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Odustani
+    .accessKey = O
 address-capture-update-button =
     .label = Aktualiziraj
     .accessKey = A
 address-capture-manage-address-button =
     .label = Postavke adrese
+address-capture-learn-more-button =
+    .label = Saznaj više
 address-capture-open-menu-button =
     .aria-label = Otvori izbornik
 address-capture-edit-address-button =
@@ -89,9 +103,6 @@ autofill-address-postal-code = Poštanski broj
 autofill-address-zip = Poštanski broj
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

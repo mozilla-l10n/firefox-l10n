@@ -243,6 +243,7 @@ fxa-sync-cfr-secondary = Podsjeti me kasnije
 device-migration-fxa-spotlight-heavy-user-header = Nemoj zaboraviti spremiti sigurnosne kopije tvojih podataka
 device-migration-fxa-spotlight-heavy-user-body = Osiguraj da su važne informacije – poput zabilješke i lozinke – aktualizirane i zaštićene na svim tvojim uređajima.
 device-migration-fxa-spotlight-heavy-user-primary-button = Započni
+device-migration-fxa-spotlight-older-device-header = Bezbrižnost, od { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Račun aktualizira i štiti tvoje važne podatke na svakom uređaju koji povežeš.
 device-migration-fxa-spotlight-older-device-primary-button = Otvori račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u tvojoj budućnosti?

@@ -8,6 +8,12 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Dodatak ne može čitati i mijenjati podatke
+origin-controls-quarantined =
+    .label = Dodatku nije dozvoljeno čitanje i mijenjanje podataka
+origin-controls-quarantined-status =
+    .label = Dodatak nije dozvoljen na ograničenim stranicama
 origin-controls-quarantined-allow =
     .label = Dozvoli na ograničenim stranicama
 origin-controls-options =
@@ -27,7 +33,9 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ne može čitati i mijenjati podatke na ovoj stranici
+origin-controls-state-quarantined = Nije dozvoljeno od strane { -vendor-short-name } na ovoj stranici
 origin-controls-state-always-on = Može uvijek čitati i mijenjati podatke na ovoj stranici
+origin-controls-state-when-clicked = Potrebna je dozvola za čitanje i promjenu podataka
 origin-controls-state-hover-run-visit-only = Pokreni samo za ovaj posjet
 origin-controls-state-runnable-hover-open = Otvori dodatak
 origin-controls-state-runnable-hover-run = Pokreni dodatak
@@ -47,3 +55,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Potrebna je dozvola
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Nije dozvoljeno od strane { -vendor-short-name } na ovoj stranici
