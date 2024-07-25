@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = Izbrišite podatke o pregledavanju i kolačiće
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Izbriši nedavnu povijest
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Izbriši svu povijest
     .style = min-width: 34em
 clear-data-settings-label = Kad se zatvori, { -brand-short-name } bi automatski trebao sve izbrisati
+sanitize-on-shutdown-description = Automatski obriši sve označene stavke kada se { -brand-short-name } zatvori.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -28,6 +32,9 @@ clear-data-settings-label = Kad se zatvori, { -brand-short-name } bi automatski 
 clear-time-duration-prefix =
     .value = Vremenski raspon za brisanje:{ " " }
     .accesskey = o
+clear-time-duration-prefix2 =
+    .value = Kada:
+    .accesskey = K
 clear-time-duration-value-last-hour =
     .label = zadnji sat
 clear-time-duration-value-last-2-hours =
@@ -48,10 +55,22 @@ history-section-label = Povijest
 item-history-and-downloads =
     .label = Povijest pregledavanja i preuzimanja
     .accesskey = v
+item-history-form-data-downloads =
+    .label = Povijest
+    .accesskey = v
 item-history-form-data-downloads-description = Briše povijest web-stranica i preuzimanja, spremljene podatke obrazaca i pretraživanja
 item-cookies =
     .label = Kolačići
     .accesskey = K
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Kolačići i podaci web stranice ({ $amount } { $unit })
+    .accesskey = e
+item-cookies-site-data =
+    .label = Kolačići i podaci web stranice
+    .accesskey = e
 item-active-logins =
     .label = Aktivne prijave
     .accesskey = A
