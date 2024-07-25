@@ -1070,6 +1070,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Намаляване на банерите за бисквитки
+cookie-banner-handling-description = { -brand-short-name } автоматично се опитва да отхвърли заявките за бисквитки на банерите за бисквитки на сайтове, които поддържат тази функция.
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1352,6 +1353,7 @@ certs-thirdparty-toggle =
 space-alert-over-5gb-settings-button =
     .label = Към Настройки
     .accesskey = с
+space-alert-over-5gb-message2 = Дисковото пространство на <strong>{ -brand-short-name } е на свършване.</strong> Съдържанието на страниците може да не се показва правилно. Можете да изчистите съхранените данни в Настройки > Поверителност и защита > Бисквитки и данни на страници.
 space-alert-under-5gb-message2 = Дисковото пространство на <strong>{ -brand-short-name } е на свършване.</strong> Съдържанието на страницата може да не се показва правилно. За да оптимизирате употребата на вашия диск и да имате едно по-добро сърфиране кликнете бутона „Научете повече“.
 
 ## Privacy Section - HTTPS-Only
