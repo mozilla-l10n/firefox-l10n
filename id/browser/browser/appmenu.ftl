@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Prasetel untuk menyelidiki bug penggu
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Daya
+profiler-popup-presets-debug-description = Prasetel untuk debugging di { -brand-shorter-name }. Profiler ini memiliki overhead tinggi, jangan gunakan untuk kinerja tetapi gunakan untuk fokus pada pemahaman perilaku peramban.
 profiler-popup-presets-debug-label =
     .label = Debug
 profiler-popup-presets-custom-label =

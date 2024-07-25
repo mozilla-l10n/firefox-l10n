@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = K
 all-tabs-menu-close-duplicate-tabs =
     .label = Tutup tab berganda
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Tutup semua tab duplikat
