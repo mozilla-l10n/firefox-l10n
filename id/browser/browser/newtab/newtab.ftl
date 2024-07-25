@@ -229,9 +229,14 @@ newtab-pocket-saved = Disimpan
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+newtab-toast-thumbs-up-or-down = Terima kasih. Umpan balik Anda akan membantu kami meningkatkan umpan Anda.
+newtab-toast-dismiss-button =
+    .title = Tutup
+    .aria-label = Tutup
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Temukan yang terbaik dari web
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
