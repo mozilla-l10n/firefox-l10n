@@ -638,6 +638,16 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ngetren di { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Jangan tampilkan penelusuran ngetren
+    .accesskey = J
+urlbar-result-menu-trending-why =
+    .label = Mengapa saya melihat ini?
+    .accesskey = M
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Terima kasih atas tanggapan Anda. Anda tidak akan melihat pencarian ngetren lagi.
 
 ## Reader View toolbar buttons
 
@@ -915,7 +925,15 @@ data-reporting-notification-button =
     .accesskey = P
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Penjelajahan pribadi
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Pencegahan kehilangan data (DLP) oleh { $agentName }. Klik untuk info lebih lanjut.
 content-analysis-panel-title = Perlindungan data
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Organisasi Anda menggunakan { $agentName } untuk melindungi dari kehilangan data. <a data-l10n-name="info">Pelajari lebih lanjut</a>
 
 ## Unified extensions (toolbar) button
 
@@ -978,6 +996,10 @@ firefox-relay-offer-legal-notice = Dengan mengklik “Gunakan masker surel”, A
 popup-notification-addon-install-unsigned =
     .value = (Belum Diverifikasi)
 popup-notification-xpinstall-prompt-learn-more = Pelajari lebih lanjut tentang memasang pengaya dengan aman
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Jalankan di Jendela Pribadi
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1006,6 +1028,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Dialog berkas Windows tidak dapat dibuka. Tidak ada berkas atau folder yang dapat dipilih.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Dialog berkas Windows tidak dapat dibuka. Berkas akan disimpan ke { $path }.
+file-picker-failed-save-nowhere = Dialog berkas Windows tidak dapat dibuka. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
+file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau folder yang dapat dipilih.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
+file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1013,3 +1043,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Tampilkan di Folder
+    .accessKey = F

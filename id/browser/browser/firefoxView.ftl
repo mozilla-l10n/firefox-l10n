@@ -53,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Penyelarasan sedang berlangsung
 firefoxview-syncedtabs-loading-description = Setelah selesai, Anda akan melihat semua tab Anda yang terbuka di perangkat lainnya. Silakan kembali lagi nanti.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasi Anda telah menonaktifkan sinkronisasi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } tidak dapat menyinkronkan tab antar perangkat karena administrator Anda telah menonaktifkan sinkronisasi.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } tidak dapat menyinkronkan tab antar perangkat karena organisasi Anda telah menonaktifkan sinkronisasi.
 firefoxview-tabpickup-network-offline-header = Periksa koneksi Internet Anda
 firefoxview-tabpickup-network-offline-description = Jika Anda menggunakan firewall atau proksi, periksa apakah { -brand-short-name } memiliki izin untuk mengakses web.
 firefoxview-tabpickup-network-offline-primarybutton = Coba lagi
@@ -69,6 +70,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Masukkan Sandi Utama
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pelajari lebih lanjut</a>
 firefoxview-tabpickup-signed-out-header = Masuk untuk menghubungkan ulang
 firefoxview-tabpickup-signed-out-description = Untuk menyambungkan ulang dan mengambil tab Anda, masuk ke { -fxaccount-brand-name } Anda.
+firefoxview-tabpickup-signed-out-description2 = Untuk menyambungkan kembali dan mengambil tab Anda, masuk ke akun Anda.
 firefoxview-tabpickup-signed-out-primarybutton = Masuk
 firefoxview-tabpickup-syncing = Duduklah dengan tenang saat tab Anda disinkronkan. Tunggu sebentar.
 firefoxview-mobile-promo-header = Ambil tab dari ponsel atau tablet Anda
@@ -197,6 +199,8 @@ firefoxview-opentabs-tab-row =
 
 firefoxview-history-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Kemarin - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -222,6 +226,7 @@ firefoxview-choose-browser-button = Pilih peramban
 
 firefoxview-dont-remember-history-empty-header = Tidak ada yang ditampilkan
 firefoxview-dont-remember-history-empty-description = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengendalikan aktivitas yang diingat { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Berdasarkan pengaturan Anda saat ini, { -brand-short-name } tidak mengingat aktivitas Anda saat menjelajah. Untuk mengubahnya, <a data-l10n-name="history-settings-url-two">ubah pengaturan riwayat untuk mengingat riwayat Anda</a>.
 
 ##
 

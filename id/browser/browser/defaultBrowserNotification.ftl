@@ -27,5 +27,14 @@ default-browser-prompt-button-secondary = Jangan sekarang
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = Selesai menjadikan { -brand-short-name } peramban baku Anda
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Langkah ke-1: Buka Pengaturan > Aplikasi default
+    Langkah ke-2: Gulir ke bawah ke “Browser web”
+    Langkah ke-3: Pilih { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Langkah ke-1: Buka Pengaturan > Aplikasi default
+    Langkah ke-2: Pilih “Tetapkan default” untuk { -brand-short-name }
 default-browser-guidance-notification-info-page = Tampilkan
 default-browser-guidance-notification-dismiss = Selesai
