@@ -121,6 +121,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Smanjivanje pojavljivanja dijaloga kolačića
 protections-panel-cookie-banner-handling-enabled = Uključeno za ovu stranicu
 protections-panel-cookie-banner-handling-disabled = Isključeno za ovu stranicu
 protections-panel-cookie-banner-handling-undetected = Stranica trenutačno nije podržana

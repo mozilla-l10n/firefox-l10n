@@ -48,4 +48,7 @@ site-data-removing-dialog =
     .buttonlabelaccept = Ukloni
 site-data-removing-header = Uklanjanje kolačića i podataka web stranice
 site-data-removing-desc = Uklanjanje kolačića i podataka web stranica će te možda odjaviti s web stranica. Stvarno želiš napraviti promjene?
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Uklanjanje kolačića i podataka web stranica vas može odjaviti s web stranice. Jeste li sigurni da želite ukloniti kolačiće i podatke web stranice za <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Kolačići i podaci web stranica će se ukloniti za sljedeće stranice

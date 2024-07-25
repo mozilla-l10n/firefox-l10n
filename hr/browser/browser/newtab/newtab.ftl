@@ -199,6 +199,7 @@ newtab-section-header-recent-activity = Nedavna aktivnost
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
+newtab-section-header-stories = Priče koje potiču na razmišljanje
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

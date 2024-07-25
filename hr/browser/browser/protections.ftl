@@ -58,6 +58,8 @@ mobile-app-title = Blokiraj oglase koji te prate na više uređaja
 mobile-app-card-content = Koristi mobilni preglednik s ugrađenom zaštitom od praćenja.
 mobile-app-links = { -brand-product-name } preglednik za <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nikada više nemoj zaboraviti lozinku
+passwords-title-logged-in = Upravljajte svojim lozinkama
+passwords-header-content = { -brand-product-name } sigurno pohranjuje vaše lozinke u vašem pregledniku.
 lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svojim uređajima na siguran način.
 protection-report-passwords-save-passwords-button = Spremi lozinke
     .title = Spremi lozinke

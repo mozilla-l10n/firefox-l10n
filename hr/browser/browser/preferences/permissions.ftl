@@ -90,6 +90,8 @@ permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju u
 permissions-exceptions-https-only-window2 =
     .title = Iznimke - način rada "samo HTTPS"
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc = Možete isključiti isključivo HTTPS način rada za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u siguran HTTPS za te stranice. Iznimke se ne odnose na privatne prozore.
+permissions-exceptions-https-only-desc2 = Možete isključiti isključivo HTTPS način rada za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u siguran HTTPS za te stranice.
 
 ## Exceptions - Pop-ups
 
@@ -107,6 +109,10 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće web stranice se 
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = Iznimke - spremljene lozinke
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } neće spremiti lozinke za stranice navedene ovdje.
 
 ## Exceptions - Add-ons
 
@@ -180,6 +186,10 @@ permissions-site-speaker-window =
     .title = Postavke – Dozvole za zvučnike
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sljedeće web-stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web-stranice koje smiju odabrati izlazni audio uređaj.
+permissions-exceptions-doh-window =
+    .title = Iznimke web stranica za DNS preko HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama i njihovim podstranicama.
 permissions-doh-entry-field = Upiši ime domene web stranice
     .accesskey = d
 permissions-doh-add-exception =
