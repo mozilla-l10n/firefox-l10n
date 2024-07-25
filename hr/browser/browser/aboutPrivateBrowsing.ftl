@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijest
 about-private-browsing-cookie-banners-promo-header = Vidite manje zahtjeva za kolačiće!
 about-private-browsing-cookie-banners-promo-button = Smanjite pojavljivanje dijaloga kolačića
 about-private-browsing-cookie-banners-promo-message = Dopustite { -brand-short-name }u da automatski odgovori na skočne prozore kolačića tako da se možete vratiti pregledavanju bze ometanja. { -brand-short-name } će odbiti sve zahtjeve ukoliko je moguće.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se brine za skočne prozore kolačića umjesto vas
+about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnoge zahtjeve za kolačiće tako da ćete biti manje praćeni i možete pregledavati bez ometanja.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
