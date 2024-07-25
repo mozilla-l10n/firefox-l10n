@@ -45,13 +45,33 @@ screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Ne znamo točno što se upravo dogodilo. Možeš li ponovo pokušati ili snimiti jednu drugu stranicu?
 screenshots-too-large-error-title = Vaša je snimka zaslona izrezana jer je bila prevelika
+screenshots-too-large-error-details = Pokušajte odabrati područje koje je manje od 32.700 piksela na najdužoj strani ili ukupne površine od 124.900.000 piksela.
 screenshots-component-retry-button =
     .title = Ponovi snimanje ekrana
     .aria-label = Ponovi snimanje ekrana
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Odustani (esc)
+           *[other] Odustani (Esc)
+        }
+    .aria-label = Odustani
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopiraj
+    .title = Kopiraj ({ $shortcut })
+    .aria-label = Kopiraj
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Preuzmi
+    .title = Preuzmi ({ $shortcut })
+    .aria-label = Preuzmi
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
