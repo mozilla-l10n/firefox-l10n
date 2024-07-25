@@ -278,9 +278,32 @@ newtab-custom-settings = Kelola pengaturan lainnya
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstrak
 
 ## Photographs
 
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Bersponsor
+newtab-weather-menu-change-location = Ubah lokasi
+newtab-weather-change-location-search-input = Cari lokasi
+newtab-weather-menu-weather-display = Tampilan cuaca
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Sederhana
+newtab-weather-menu-change-weather-display-simple = Beralih ke tampilan sederhana
+newtab-weather-menu-weather-display-option-detailed = Detail
+newtab-weather-menu-change-weather-display-detailed = Beralih ke tampilan detail
+newtab-weather-menu-temperature-units = Satuan suhu
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celcius
+newtab-weather-menu-change-temperature-units-fahrenheit = Beralih ke Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Beralih ke Celcius
+newtab-weather-menu-hide-weather = Sembunyikan cuaca di Tab Baru
+newtab-weather-menu-learn-more = Pelajari lebih lanjut
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Data cuaca tidak tersedia saat ini.
