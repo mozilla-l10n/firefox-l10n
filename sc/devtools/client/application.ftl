@@ -5,8 +5,7 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
@@ -52,5 +51,15 @@ manifest-view-header = Manifestu de s'aplicatzione
 manifest-empty-intro2 = Nissunu manifestu de s'aplicatzione rilevadu
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Leghe comente agiùnghere unu manifestu
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Faddinas e avisos
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identidade
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentatzione
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Iconas
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icona

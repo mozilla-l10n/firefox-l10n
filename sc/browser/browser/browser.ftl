@@ -1002,6 +1002,10 @@ firefox-relay-offer-legal-notice = Faghende clic subra “Imprea alias de posta�
 popup-notification-addon-install-unsigned =
     .value = (No averiguadu)
 popup-notification-xpinstall-prompt-learn-more = Àteras informatziones subra de s'installatzione segura de cumplementos
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Imprea in is ventanas privadas
+    .accesskey = p
 
 ## Pop-up warning
 
@@ -1031,3 +1035,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ammustra “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

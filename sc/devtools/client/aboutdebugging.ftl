@@ -99,6 +99,9 @@ about-debugging-setup-usb-step-plug-device = Acàpia su dispositivu Android a s'
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
 about-debugging-setup-usb-troubleshoot = Problemas de connessione cun su dispositivu USB? <a>Modalidade de curretzione de faddinas</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Positzione de rete
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Agiunghe

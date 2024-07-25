@@ -308,6 +308,7 @@ newtab-wallpaper-dark-city = Paesàgiu de tzitade tanada
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Colores uniformes
 newtab-wallpaper-blue = Asulu
 newtab-wallpaper-light-blue = Asulu craru
 newtab-wallpaper-light-purple = Tanadu craru
