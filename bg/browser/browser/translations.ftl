@@ -10,6 +10,15 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Превеждане на тази страница - Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Страницата е преведена от { $fromLanguage } на { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = Превежда се
 translations-panel-settings-button =
@@ -24,6 +33,11 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Управление на езици
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Винаги да се превежда от { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Винаги да се превежда от този език
 translations-panel-settings-always-offer-translation =
@@ -33,6 +47,8 @@ translations-panel-settings-always-offer-translation =
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
     .label = Никога да не се превежда от { $language }
+translations-panel-settings-never-translate-unknown-language =
+    .label = Никога да не се превежда от този език
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Никога да не се превежда този сайт
@@ -41,6 +57,12 @@ translations-panel-settings-never-translate-site =
 ## translation view.
 
 translations-panel-header = Да се преведе ли тази страница?
+translations-panel-translate-button =
+    .label = Превеждане
+translations-panel-translate-button-loading =
+    .label = Моля, изчакайте…
+translations-panel-translate-cancel =
+    .label = Отказ
 translations-panel-learn-more-link = Научете повече
 translations-panel-error-translating = Възникна проблем при превода. Моля, опитайте отново.
 translations-panel-error-load-languages-hint = Проверете връзката си с интернет и опитайте отново.
@@ -53,11 +75,20 @@ translations-panel-error-unsupported = Преводът не е наличен �
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Превод от
+translations-panel-to-label = Превеждане на
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Тази страница е преведена от { $fromLanguage } на { $toLanguage }
 
 ## Firefox Translations language management in about:preferences.
 
@@ -103,6 +134,19 @@ translations-settings-close-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = з
 # Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Превод на избраното…
+    .accesskey = и
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Превод на избраното на { $language }
+    .accesskey = П
+# Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = Превод на текста на връзката…
@@ -133,6 +177,8 @@ select-translations-panel-done-button =
     .label = Готово
 select-translations-panel-translate-full-page-button =
     .label = Превод на цялата страница
+select-translations-panel-translate-button =
+    .label = Превеждане
 select-translations-panel-try-again-button =
     .label = Опитайте отново
 # Text displayed as a placeholder when the panel is idle.
