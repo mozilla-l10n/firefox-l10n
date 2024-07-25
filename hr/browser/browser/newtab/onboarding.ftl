@@ -317,6 +317,7 @@ onboarding-easy-setup-security-and-privacy-title = Volimo te štititi
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-survey-legal-link-label = Odabirom „{ onboarding-new-user-survey-next-button-label }” prihvaćaš { -brand-product-name }<a data-l10n-name="privacy_notice">napomene o privatnosti</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ja sam potpuno novi korisnik
 onboarding-new-user-survey-time-based-option-2 = Manje od jednog mjeseca
