@@ -1352,6 +1352,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 运行所需的�
 
 httpsonly-header = HTTPS-Only 模式
 httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站之间提供安全、加密的连接。现今，大多数网站都支持 HTTPS，若选择启用 HTTPS-Only 模式，{ -brand-short-name } 将会升级所有连接为 HTTPS。
+httpsonly-description2 = { -brand-short-name } 会与您访问的网站创建安全的加密连接。HTTPS-Only 模式启用时，{ -brand-short-name } 会向您警示不安全连接。
 httpsonly-learn-more = 详细了解
 httpsonly-radio-enabled =
     .label = 在所有窗口启用 HTTPS-Only 模式
@@ -1363,6 +1364,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = 在隐私窗口中仅使用 HTTPS
 httpsonly-radio-disabled =
     .label = 不启用 HTTPS-Only 模式
+httpsonly-radio-disabled2 =
+    .label = 首选 HTTPS，同时仍允许不安全连接
 
 ## DoH Section
 
