@@ -17,3 +17,4 @@ elevation-more-elevated =
     oñemohendáta { -brand-short-name } ikatu vove. Ikatu oñepyrũjey
     { -brand-short-name } ko’ág̃a, emba’apo ha emoñepyrũjey ag̃ave térã emboyke ko
     mbohekopyahu.
+sandbox-unprivileged-namespaces-howtofix = Mba’éicha emoĩporã ko apañuái
