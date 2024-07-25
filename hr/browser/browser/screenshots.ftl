@@ -44,6 +44,7 @@ screenshots-private-window-error-title = { -screenshots-brand-name } je deaktivi
 screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na ovoj funkciji za buduća izdanja.
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Ne znamo točno što se upravo dogodilo. Možeš li ponovo pokušati ili snimiti jednu drugu stranicu?
+screenshots-too-large-error-title = Vaša je snimka zaslona izrezana jer je bila prevelika
 screenshots-component-retry-button =
     .title = Ponovi snimanje ekrana
     .aria-label = Ponovi snimanje ekrana

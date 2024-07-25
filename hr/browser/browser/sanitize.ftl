@@ -71,15 +71,30 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Kolačići i podaci web stranice
     .accesskey = e
+item-cookies-site-data-description = Može vas odjaviti s web stranica ili isprazniti košaricu za kupnju
 item-active-logins =
     .label = Aktivne prijave
     .accesskey = A
 item-cache =
     .label = Međuspremnik
     .accesskey = s
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Privremeno spremljene datoteke i stranice ({ $amount } { $unit })
+    .accesskey = d
+item-cached-content =
+    .label = Privremeno spremljene datoteke i stranice
+    .accesskey = d
+item-cached-content-description = Briše stavke koje pomažu web stranicama da se brže učitaju
 item-form-search-history =
     .label = Povijest obrazaca i pretraživanja
     .accesskey = P
+item-site-prefs =
+    .label = Postavke stranice
+    .accesskey = i
+item-site-prefs-description = Vraća vaša dopuštenja i postavke stranice na izvorne postavke
 data-section-label = Podaci
 item-site-settings =
     .label = Postavke stranice
