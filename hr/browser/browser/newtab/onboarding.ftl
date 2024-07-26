@@ -343,9 +343,18 @@ onboarding-easy-setup-security-and-privacy-title = Volimo te štititi
 onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni preglednik pomaže spriječiti tvrtke da vas potajno prate na webu.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Ostanite zaštićeni kada prenosite podatke između uređaja
+onboarding-mobile-download-security-and-privacy-subtitle = Kada ste sinkronizirani, { -brand-short-name } šifrira vaše lozinke, zabilješke i još mnogo toga. Osim toga, možete preuzeti kartice sa svojih drugih uređaja.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam čuva leđa
+onboarding-gratitude-security-and-privacy-subtitle = Hvala što koristiš { -brand-short-name } kojeg podupire Mozilla zaklada. Uz tvoju podršku, radimo na tome da učinimo Internet sigurnijim i dostupnijim za sve.
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Koliko dugo koristite { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Koliko ste upoznati s { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Vaše povratne informacije pomažu nam da { -brand-short-name } postane još bolji.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Dalje
 onboarding-new-user-survey-legal-link-label = Odabirom „{ onboarding-new-user-survey-next-button-label }” prihvaćaš { -brand-product-name }<a data-l10n-name="privacy_notice">napomene o privatnosti</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ja sam potpuno novi korisnik
