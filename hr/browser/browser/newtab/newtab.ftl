@@ -307,10 +307,26 @@ newtab-wallpaper-dark-color = Crveni i plavi oblici
 newtab-wallpaper-dark-panda = Crvena panda skrivena u šumi
 newtab-wallpaper-dark-sky = Gradski pejzaž s noćnim nebom
 newtab-wallpaper-dark-mountain = Planinski krajolik
+newtab-wallpaper-dark-city = Ljubičasti gradski pejzaž
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Jednobojne
+newtab-wallpaper-blue = Plava
+newtab-wallpaper-light-blue = Svijetlo plava
+newtab-wallpaper-light-purple = Svijetlo ljubičasta
+newtab-wallpaper-light-green = Svijetlo zelena
+newtab-wallpaper-green = Zelena
+newtab-wallpaper-beige = Bež
+newtab-wallpaper-yellow = Žuta
 newtab-wallpaper-orange = Narančasta
+newtab-wallpaper-pink = Ružičasta
+newtab-wallpaper-light-pink = Svijetlo ružičasta
+newtab-wallpaper-red = Crvena
+newtab-wallpaper-dark-blue = Tamno plava
+newtab-wallpaper-dark-purple = Tamno ljubičasta
+newtab-wallpaper-dark-green = Tamno zelena
+newtab-wallpaper-brown = Smeđa
 
 ## Abstract
 
@@ -324,24 +340,53 @@ newtab-wallpaper-abstract-blue-purple = Plavi i ljubičasti oblici
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografije
 newtab-wallpaper-beach-at-sunrise = Plaža pri izlasku sunca
 newtab-wallpaper-beach-at-sunset = Plaža pri zalasku sunca
+newtab-wallpaper-storm-sky = Olujno nebo
+newtab-wallpaper-sky-with-pink-clouds = Nebo s ružičastim oblacima
 newtab-wallpaper-red-panda-yawns-in-a-tree = Crvena panda zijeva na drvetu
+newtab-wallpaper-white-mountains = Bijele planine
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Autor fotografije <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Pokušajte s malo boje
+newtab-wallpaper-feature-highlight-content = Dajte svojoj novoj kartici svjež izgled pomoću pozadinskih slika.
+newtab-wallpaper-feature-highlight-button = Razumijem
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Odbaci
+    .aria-label = Zatvori skočni prozor
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Pogledajte prognozu u { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponzorirano
 newtab-weather-menu-change-location = Promijeni mjesto
 newtab-weather-change-location-search-input = Traži mjesto
+newtab-weather-menu-weather-display = Prikaz vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Jednostavno
+newtab-weather-menu-change-weather-display-simple = Prebaci se na jednostavan prikaz
 newtab-weather-menu-weather-display-option-detailed = Detaljano
+newtab-weather-menu-change-weather-display-detailed = Prebaci na detaljni prikaz
+newtab-weather-menu-temperature-units = Jedinice za temperaturu
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzija
+newtab-weather-menu-change-temperature-units-fahrenheit = Prebaci na Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Prebaci na Celzijeve stupnjeve
+newtab-weather-menu-hide-weather = Sakrij vremensku prognozu na novoj kartici
+newtab-weather-menu-learn-more = Saznaj više
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podaci o vremenu trenutačno nisu dostupni.

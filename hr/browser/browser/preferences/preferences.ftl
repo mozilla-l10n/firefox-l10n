@@ -3,12 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Šalji web-stranicama signal „Ne prati me” (stranice ga ne moraju poštivati)
+do-not-track-description2 =
+    .label = Šalji web stranicama zahtjev da vas ne prate
+    .accesskey = d
 do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
     .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
 do-not-track-option-always =
     .label = Uvijek
+global-privacy-control-description =
+    .label = Reci web stranicama da ne prodaju ili dijele moje podatke
+    .accesskey = s
 non-technical-privacy-header = Postavke privatnosti web stranice
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Postavke
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -22,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Pronađi u postavkama
 managed-notice = Tvojim preglednikom upravlja tvoja organizacija.
+managed-notice-info-icon =
+    .alt = Informacije
 category-list =
     .aria-label = Kategorije
 pane-general-title = Opće
@@ -48,6 +60,7 @@ pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Isprobajte naše eksperimentalne značajke! U razvoju su i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name }.
 pane-experimental-reset =
     .label = Obnovi standardne vrijednosti
     .accesskey = O
@@ -77,6 +90,15 @@ restart-later = Ponovo pokreni kasnije
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolira ovu postavku.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolira ovu postavku.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> zahtijeva kontejnerske kartice.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolira ovu postavku.
