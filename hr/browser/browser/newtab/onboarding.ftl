@@ -199,15 +199,29 @@ mr2022-onboarding-set-default-only-subtitle = Započnite s preglednikom koji pod
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Hvala vam što volite { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Pokrenite zdraviji Internet s bilo kojeg mjesta jednim klikom. Naše najnovije ažuriranje prepuno je novih stvari za koje mislimo da ćete ih obožavati.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Koristite preglednik koji štiti vašu privatnost dok jurite po webu. Naše najnovije ažuriranje prepuno je stvari koje ćete obožavati.
+mr2022-onboarding-existing-pin-checkbox-label = Također dodajte { -brand-short-name } privatno pregledavanje
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Neka { -brand-short-name } bude vaš preglednik
 mr2022-onboarding-set-default-primary-button-label = Postavi { -brand-short-name } kao standardni preglednik
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Koristite preglednik koji podržava neprofitna organizacija. Branimo vašu privatnost dok jurite po webu.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovija inačica izgrađena je oko vas, što više nego ikad olakšava kretanje po webu. Prepun je značajki za koje mislimo da ćete ih obožavati.
 mr2022-onboarding-get-started-primary-button-label = Postavi u tren oka
 
 ## MR2022 Import Settings screen strings
@@ -289,6 +303,8 @@ mr2022-onboarding-gratitude-secondary-button-label = Počni pregledavati
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Osjećajte se kao kod kuće
+onboarding-infrequent-import-subtitle = Bilo da se smještate ili samo svraćate, zapamtite da možete uvesti svoje zabilješke, lozinke i još mnogo toga.
 onboarding-infrequent-import-primary-button = Uvezi u { -brand-short-name }
 
 ## MR2022 Illustration alt tags
@@ -315,12 +331,18 @@ mr2022-onboarding-colorways-image-alt =
 
 onboarding-device-migration-image-alt =
     .aria-label = Lisica na ekranu prijenosnog računala maše. Prijenosno računalo ima priključen miš.
+onboarding-device-migration-title = Dobro došli natrag!
+onboarding-device-migration-subtitle = Prijavite se u svoj { -fxaccount-brand-name(capitalization: "sentence") } kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
+onboarding-device-migration-subtitle2 = Prijavite se u svoj račun kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
 onboarding-device-migration-primary-button-label = Prijava
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Volimo te štititi
+onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni preglednik pomaže spriječiti tvrtke da vas potajno prate na webu.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Ostanite zaštićeni kada prenosite podatke između uređaja
 
 ## New user time and familiarity survey strings
 
