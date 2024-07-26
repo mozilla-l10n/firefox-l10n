@@ -1073,9 +1073,18 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Smanjivanje pojavljivanja dijaloga kolačića
+cookie-banner-handling-description = { -brand-short-name } pokušava automatski odbiti zahtjeve za kolačićima na podržanim stranicama.
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Blokiranje pojavljivanja dijaloga kolačića
+cookie-banner-blocker-description = Kada web stranica pita može li koristiti kolačiće u privatnom načinu pregledavanja, { -brand-short-name } automatski odbija umjesto vas. Samo na podržanim stranicama.
+cookie-banner-learn-more = Saznajte više
+forms-handle-cookie-banners =
+    .label = Smanjite pojavljivanje dijaloga kolačića
+cookie-banner-blocker-checkbox-label =
+    .label = Automatski odbij dijaloge kolačića
 
 ## Privacy Section - Address Bar
 
@@ -1121,6 +1130,10 @@ content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenj
 content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
 content-blocking-learn-more = Saznaj više
 content-blocking-fpi-incompatibility-warning = Koristiš značajku First Party Isolation (FPI), koja nadjačava neke postavke kolačića u { -brand-short-name }u.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Koristite Resist Fingerprinting (RFP) koji zamjenjuje neke od { -brand-short-name } postavki zaštite otiska prsta. To može uzrokovati kvar kod nekih stranica.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1143,6 +1156,7 @@ content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti proble
 content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokira sljedeće:
 content-blocking-private-windows = Praćenje sadržaja u privatnim prozorima
+content-blocking-cross-site-cookies-in-all-windows2 = Međustranični kolačići u svim prozorima
 content-blocking-cross-site-tracking-cookies = Kolačići za praćenje među web lokacijama
 content-blocking-all-cross-site-cookies-private-windows = Međustranični kolačići u privatnim prozorima
 content-blocking-cross-site-tracking-cookies-plus-isolate = Pratitelji između više stranica, te izoliranje preostalih kolačića
@@ -1150,6 +1164,7 @@ content-blocking-social-media-trackers = Programi za praćenje s društvenih mre
 content-blocking-all-cookies = Sve kolačiće
 content-blocking-unvisited-cookies = Kolačići neposjećenih stranica
 content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
+content-blocking-all-cross-site-cookies = Svi međustranični kolačići
 content-blocking-cryptominers = Kripto-rudari
 content-blocking-fingerprinters = Jedinstvene otiske
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
