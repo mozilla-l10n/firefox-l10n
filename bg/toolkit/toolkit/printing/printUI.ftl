@@ -9,7 +9,7 @@ printui-save-to-pdf-title = Запазване като
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-        [one] Общо { $sheetCount } листа
+        [one] { $sheetCount } лист
        *[other] { $sheetCount } листа
     }
 printui-page-range-all = Всички
@@ -36,7 +36,7 @@ printui-less-settings = По-малко настройки
 printui-paper-size-label = Размер на хартия
 # Section title (noun) for the print scaling options
 printui-scale = Мащаб
-printui-scale-fit-to-page-width = Побиране по ширина на листа
+printui-scale-fit-to-page-width = Побиране по ширината на листа
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Мащаб
 # Section title (noun) for the two-sided print options
@@ -67,7 +67,7 @@ printui-simplify-page-radio = Опростен
 ##
 
 printui-color-mode-label = Цвят
-printui-color-mode-color = Цвят
+printui-color-mode-color = Цветно
 printui-color-mode-bw = Черно-бяло
 printui-margins = Отстояния
 printui-margins-default = По поздразбиране
