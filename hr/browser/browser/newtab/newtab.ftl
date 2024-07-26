@@ -250,6 +250,7 @@ newtab-toast-dismiss-button =
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Otkrij najbolje na webu
+newtab-pocket-onboarding-cta = { -pocket-brand-name } istražuje raznolik raspon publikacija kako bi donio najinformativniji, inspirativniji i najvjerodostojniji sadržaj izravno u vaš { -brand-product-name } preglednik.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -275,6 +276,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponzorirani prečaci
 newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Preporučene priče
+    .description = Izvanredni sadržaj odabran od { -brand-product-name } obitelji
 newtab-custom-pocket-sponsored = Sponzorirane priče
 newtab-custom-pocket-show-recent-saves = Prikaži nedavna spremanja
 newtab-custom-recent-title = Nedavna aktivnost
@@ -282,12 +286,27 @@ newtab-custom-recent-subtitle = Izbor nedavno posjećenih stranica i sadržaja
 newtab-custom-recent-toggle =
     .label = Nedavna aktivnost
     .description = Izbor nedavno posjećenih stranica i sadržaja
+newtab-custom-weather-toggle =
+    .label = Vrijeme
+    .description = Današnja prognoza
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Pozadine
+newtab-wallpaper-reset = Poništi na zadano
+newtab-wallpaper-light-red-panda = Crvena panda
+newtab-wallpaper-light-mountain = Bijela planina
+newtab-wallpaper-light-sky = Nebo s ljubičastim i ružičastim oblacima
+newtab-wallpaper-light-color = Plavi, ružičasti i žuti oblici
+newtab-wallpaper-light-landscape = Planinski pejzaž plave magle
+newtab-wallpaper-light-beach = Plaža s palmama
 newtab-wallpaper-dark-aurora = Polarna svjetlost
+newtab-wallpaper-dark-color = Crveni i plavi oblici
+newtab-wallpaper-dark-panda = Crvena panda skrivena u šumi
+newtab-wallpaper-dark-sky = Gradski pejzaž s noćnim nebom
+newtab-wallpaper-dark-mountain = Planinski krajolik
 
 ## Solid Colors
 
