@@ -608,6 +608,8 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
 home-prefs-weather-header =
     .label = Vremenska prognoza
+home-prefs-weather-description = Današnja prognoza ukratko
+home-prefs-weather-learn-more-link = Saznajte više
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +727,8 @@ sync-profile-picture-with-alt =
     .alt = Primijeni sliku profila
 sync-profile-picture-account-problem =
     .alt = Slika profila računa
+fxa-login-rejected-warning =
+    .alt = Upozorenje
 sync-sign-out =
     .label = Odjavi se …
     .accesskey = O
@@ -777,8 +781,10 @@ sync-currently-syncing-bookmarks = Zabilješke
 sync-currently-syncing-history = Povijest
 sync-currently-syncing-tabs = Otvorene kartice
 sync-currently-syncing-logins-passwords = Prijave i lozinke
+sync-currently-syncing-passwords = Lozinke
 sync-currently-syncing-addresses = Adrese
 sync-currently-syncing-creditcards = Kreditne kartice
+sync-currently-syncing-payment-methods = Načini plaćanja
 sync-currently-syncing-addons = Dodaci
 sync-currently-syncing-settings = Postavke
 sync-change-options =
@@ -794,6 +800,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Odspoji …
     .buttonaccesskeyextra2 = d
+sync-choose-dialog-subtitle = Promjene na popisu stavki za sinkronizaciju odrazit će se na sve vaše povezane uređaje.
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
@@ -808,6 +815,10 @@ sync-engine-logins-passwords =
     .label = Prijave i lozinke
     .tooltiptext = Korisnička imena i lozinke koje ste spremili
     .accesskey = l
+sync-engine-passwords =
+    .label = Lozinke
+    .tooltiptext = Lozinke koje ste spremili
+    .accesskey = L
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Poštanske adrese koje ste spremili (samo radna površina)
@@ -816,6 +827,10 @@ sync-engine-creditcards =
     .label = Kreditne kartice
     .tooltiptext = Nazivi, brojevi i rok trajanja (samo radna površina)
     .accesskey = c
+sync-engine-payment-methods2 =
+    .label = Načini plaćanja
+    .tooltiptext = Imena, brojevi kartica i datumi isteka važenja
+    .accesskey = N
 sync-engine-addons =
     .label = Dodaci
     .tooltiptext = Dodaci i teme za Firefox na radnoj površini
@@ -865,6 +880,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Lozinke
+    .searchkeywords = logins
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pitaj za spremanje lozinki
@@ -899,6 +918,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Automatski ispuni korisnička imena i lozinke
     .accesskey = A
+forms-saved-passwords =
+    .label = Spremljene lozinke
+    .accesskey = p
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u
@@ -925,6 +947,7 @@ forms-windows-sso =
     .label = Dopusti jedinstvenu prijavu u Windowsu za Microsoftove, poslovne i školske račune
 forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
+windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
 
 ## OS Authentication dialog
 
@@ -1028,8 +1051,14 @@ sitedata-block-desc = Vrsta blokiranog
     .accesskey = t
 sitedata-option-block-cross-site-trackers =
     .label = Programi za praćenje među različitim web lokacijama
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Kolačići za praćenje među web lokacijama
+sitedata-option-block-cross-site-cookies =
+    .label = Kolačići za praćenje među web lokacijama i izoliranje drugih među straničnih kolačića
 sitedata-option-block-unvisited =
     .label = Kolačići neposjećenih web-stranica
+sitedata-option-block-all-cross-site-cookies =
+    .label = Svi kolačići za praćenje među web lokacijama (može uzrokovati neispravno učitavanje web stranice)
 sitedata-option-block-all =
     .label = Sve kolačiće (uzrokovat će greške na stranicama)
 sitedata-clear =
