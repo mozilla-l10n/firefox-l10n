@@ -31,6 +31,7 @@ elevation-more-elevated =
         [neuter] Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
        *[other] Nyní můžete aplikaci restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
     }
+sandbox-missing-unprivileged-namespaces = Některé z bezpečnostních funkcí { -brand-short-name(case: "gen") } mohou na vašem aktuálním operačním systému poskytovat horší ochranu.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Znovu nezobrazovat
     .accesskey = Z

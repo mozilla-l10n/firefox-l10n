@@ -1556,13 +1556,20 @@ httpsonly-description =
         [with-cases] Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi { -brand-short-name(case: "ins") } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
        *[no-cases] Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi aplikací { -brand-short-name } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
     }
+httpsonly-description2 = { -brand-short-name } vytváří bezpečné a šifrované spojení se stránkami, které navštěvujete. { -brand-short-name } vás upozorní, pokud připojení není zabezpečené, když je zapnuto „pouze HTTPS“.
 httpsonly-learn-more = Zjistit více
 httpsonly-radio-enabled =
     .label = Zapnout režim „pouze HTTPS“ ve všech oknech
+httpsonly-radio-enabled2 =
+    .label = Použít ve všech oknech pouze HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Zapnout režim „pouze HTTPS“ v anonymních oknech
+httpsonly-radio-enabled-pbm2 =
+    .label = Použít HTTPS pouze v anonymních oknech
 httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
+httpsonly-radio-disabled2 =
+    .label = Nejprve zkusit HTTPS, ale povolit i nezabezpečená připojení
 
 ## DoH Section
 
