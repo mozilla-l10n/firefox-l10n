@@ -1030,6 +1030,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-crashed-open = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไม่สามารถเลือกไฟล์หรือโฟลเดอร์ได้
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1037,3 +1038,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = แสดงในโฟลเดอร์
+    .accessKey = F
