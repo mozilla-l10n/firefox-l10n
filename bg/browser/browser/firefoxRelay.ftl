@@ -11,6 +11,11 @@
 
 ##
 
+firefox-relay-get-unlimited-masks =
+    .label = Управление на маски
+    .accesskey = У
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Защитете вашия имейл адрес:
 firefox-relay-opt-in-confirmation-disable =
     .label = Спиране на този въпрос
     .accesskey = С
