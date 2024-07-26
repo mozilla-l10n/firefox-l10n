@@ -20,6 +20,9 @@ connection-proxy-option-no =
 connection-proxy-option-system =
     .label = Използване на системните настройки
     .accesskey = с
+connection-proxy-option-wpad =
+    .label = Използва се системната настройка за автоматично откриване на уеб прокси
+    .accesskey = а
 connection-proxy-option-auto =
     .label = Автоматично откриване
     .accesskey = А
@@ -70,8 +73,8 @@ connection-proxy-socks4-remote-dns =
     .label = Прокси DNS при използване на SOCKS v4
     .accesskey = 4
 connection-proxy-socks-remote-dns =
-    .label = Посредник за DNS при използване на SOCKS v5
-    .accesskey = D
+    .label = Прокси DNS при използване на SOCKS v5
+    .accesskey = 5
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
