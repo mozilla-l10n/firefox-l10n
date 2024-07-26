@@ -78,6 +78,10 @@ abuse-report-broken-suggestions-extension =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je, da kontaktiraš programera proširenja.
     Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
+abuse-report-broken-suggestions-sitepermission =
+    Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
+    rješavanje funkcionalnih problema je da kontaktirate programera web stranice.
+    Podatke o programeru potražite na <a data-l10n-name="support-link">web-stranici dodatka</a>.
 abuse-report-broken-suggestions-theme =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je da kontaktiraš programera teme.

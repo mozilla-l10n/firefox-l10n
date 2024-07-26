@@ -4,6 +4,11 @@
 
 notification-learnmore-default-label =
     .value = Saznaj više
-
+# This label is read by screen readers when focusing the close button for an
+# "infobar" (message shown when for example a popup is blocked),
+# and shown when hovering over the button
+notification-close-button =
+    .aria-label = Zatvori
+    .title = Zatvori
 close-notification-message =
     .tooltiptext = Zatvori ovu poruku

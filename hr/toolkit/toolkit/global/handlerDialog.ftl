@@ -13,11 +13,13 @@
 permission-dialog-description = Dopustiti ovoj stranici otvaranje poveznice { $scheme }?
 permission-dialog-description-file = Dopustiti ovoj datoteci otvaranje poveznice { $scheme }?
 permission-dialog-description-host = Dopustiti { $host } otvaranje poveznice { $scheme }?
+permission-dialog-description-extension = Dopusti dodatku { $extension } da otvara { $scheme } poveznicu?
 permission-dialog-description-app = Dopustiti ovoj stranici otvaranje poveznice { $scheme } aplikacijom { $appName }?
 permission-dialog-description-host-app = Dopustiti { $host } otvaranje poveznice { $scheme } aplikacijom { $appName }?
 permission-dialog-description-file-app = Dopustiti ovoj datoteci otvaranje poveznice { $scheme } aplikacijom { $appName }?
 permission-dialog-description-extension-app = Dopustiti proširenju { $extension } da otvori { $scheme } poveznicu s aplikacijom { $appName }?
 permission-dialog-description-system-app = Otvoriti { $scheme } poveznicu s aplikacijom { $appName }?
+permission-dialog-description-system-noapp = Otvori { $scheme } poveznicu?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -28,6 +30,7 @@ permission-dialog-description-system-app = Otvoriti { $scheme } poveznicu s apli
 
 permission-dialog-remember = Uvijek dopusti <strong>{ $host }</strong> otvaranje poveznica <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Uvijek dopusti ovoj datoteci otvaranje poveznica <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Uvijek dozvoli ovom dodatku da otvara<strong>{ $scheme }</strong> poveznice
 
 ##
 

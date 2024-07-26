@@ -23,5 +23,6 @@ install-failed-message = { -brand-short-name } instalacija nije uspjela, ali i d
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Otvoriti postojeću aplikaciju { -brand-short-name }?
+prompt-to-launch-existing-app-message = Već imate instaliran { -brand-short-name }. Koristite instaliranu aplikaciju kako biste bili u toku i spriječili gubitak podataka.
 prompt-to-launch-existing-app-yes-button = Otvori postojeću
 prompt-to-launch-existing-app-no-button = Ne hvala
