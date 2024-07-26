@@ -208,6 +208,8 @@ newtab-empty-section-highlights = Započni pregledavanje i pokazat ćemo ti neke
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Provjeri kasnije daljnje najpopularnije priče od { $provider }. Ne možeš dočekati? Odaberi popularnu temu za pronalaženje daljnjih kvalitetnih priča s cijelog weba.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Navrati kasnije za više priča. Ne možeš dočekati? Odaberi popularne teme i pronađi još više kvalitetnih priča na internetu.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -234,6 +236,16 @@ newtab-pocket-saved = Spremljeno
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Više kao ova
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Nije za mene
+newtab-toast-thumbs-up-or-down = Hvala. Vaše povratne informacije pomoći će nam da poboljšamo predlaganje tema.
+newtab-toast-dismiss-button =
+    .title = Odbaci
+    .aria-label = Odbaci
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
