@@ -1030,6 +1030,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-save-nowhere = ไม่สามารถเปิดกล่องโต้ตอบไฟล์ Windows ได้ ไม่พบโฟลเดอร์เริ่มต้น ไฟล์จึงไม่ถูกบันทึก
 file-picker-crashed-open = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไม่สามารถเลือกไฟล์หรือโฟลเดอร์ได้
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows

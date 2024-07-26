@@ -46,3 +46,7 @@ experimental-features-js-warp-description = เปิดใช้งาน Warp 
 experimental-features-ime-search =
     .label = แถบที่อยู่: แสดงผลลัพธ์ระหว่างการแปลงตัวอักษรของ IME
 experimental-features-ime-search-description = IME (Input Method Editor) เป็นเครื่องมือที่ให้คุณสามารถป้อนสัญลักษณ์ที่ซับซ้อน เช่น สัญลักษณ์ที่ใช้ในภาษาเขียนในแถบเอเชียตะวันออกหรือภาษาเขียนในอินเดีย โดยใช้แป้นพิมพ์มาตรฐานได้ การเปิดใช้งานคุณลักษณะทดลองนี้จะทำให้แผงแถบที่อยู่เปิดเสมอ โดยจะแสดงผลลัพธ์การค้นหาและข้อเสนอแนะการค้นหา ในขณะที่ใช้ IME ในการป้อนข้อความ โปรดทราบว่า IME อาจแสดงผลแผงที่อาจปิดบังผลลัพธ์ในแถบที่อยู่ได้ จึงแนะนำให้ใช้ค่าปรับแต่งนี้สำหรับ IME ที่ไม่ได้ใช้แผงชนิดนี้เท่านั้น
+experimental-features-group-developer-tools =
+    .label = เครื่องมือนักพัฒนา
+experimental-features-group-webpage-display =
+    .label = Webpage Display
