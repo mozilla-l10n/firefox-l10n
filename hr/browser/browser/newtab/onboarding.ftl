@@ -189,9 +189,16 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Ostavi { -brand-short-name } u Docku
        *[other] Prikvači { -brand-short-name } na programsku traku
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Započnite s preglednikom koji podržava neprofitna organizacija. Branimo vašu privatnost dok jurite po webu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Hvala vam što volite { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
