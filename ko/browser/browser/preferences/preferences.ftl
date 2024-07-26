@@ -441,7 +441,7 @@ update-in-progress-cancel-button = 계속(&C)
 
 performance-title = 성능
 performance-use-recommended-settings-checkbox =
-    .label = 권장 설정을 사용
+    .label = 권장 설정 사용
     .accesskey = U
 performance-use-recommended-settings-desc = 이 설정은 컴퓨터 하드웨어 및 운영체제에 맞게 조정됩니다.
 performance-settings-learn-more = 더 알아보기
