@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Prijava za { $addon-name }
 abuse-report-title-extension = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
+abuse-report-title-sitepermission = Prijavite dodatak s dozvolama stranice prema { -vendor-short-name }
 abuse-report-title-theme = Prijavi ovu temu prodavaču { -vendor-short-name }
 abuse-report-subtitle = Što je problem?
 # Variables:
@@ -17,8 +18,6 @@ abuse-report-addon-authored-by = od <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     Ne znaš koji problem odabrati?
     <a data-l10n-name="learnmore-link">Saznaj više o prijavljivanju problema s dodacima i temama</a>
-abuse-report-learnmore-intro = Ne znaš koji problem odabrati?
-abuse-report-learnmore-link = Saznaj više o prijavljivanju problema s dodacima i temama
 abuse-report-submit-description = Opišite problem (opcionalno)
 abuse-report-textarea =
     .placeholder = Lakše nam je ispraviti pogrešku ukoliko znamo detalje problema. Opiši događaj. Hvala, što nam pomažeš održati web zdravim.
@@ -43,25 +42,10 @@ abuse-report-messagebar-submitting = Slanje prijave za <span data-l10n-name="add
 abuse-report-messagebar-submitted = Hvala ti za slanje izvještaja. Želiš li ukloniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala ti za slanje izvještaja.
 abuse-report-messagebar-removed-extension = Hvala ti za slanje izvještaja. Uklonio/la si dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Hvala vam na slanju prijave. Uklonili ste dodatak s dozvolama stranice <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Hvala ti za slanje izvještaja. Tema <span data-l10n-name="addon-name">{ $addon-name }</span> je uklonjena.
 abuse-report-messagebar-error = Došlo je do greške prilikom slanja prijave za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> nije poslana iz razloga što je druga prijava nedavno poslana.
-abuse-report-messagebar-aborted2 =
-    .message = Prijava za { $addon-name } je prekinuta.
-abuse-report-messagebar-submitting2 =
-    .message = Slanje prijave za { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Hvala ti za slanje izvještaja. Želiš li ukloniti { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Hvala ti za slanje izvještaja.
-abuse-report-messagebar-removed-extension2 =
-    .message = Hvala ti za slanje izvještaja. Uklonio/la si dodatak { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Hvala ti za slanje izvještaja. Tema { $addon-name } je uklonjena.
-abuse-report-messagebar-error2 =
-    .message = Došlo je do greške prilikom slanja prijave za { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Prijava za { $addon-name } nije poslana iz razloga što je druga prijava nedavno poslana.
 
 ## Message bars actions.
 
