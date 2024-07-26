@@ -437,6 +437,14 @@ update-application-suppress-prompts =
     .label = Prikaži manje obavijesti o aktualiziranju
     .accesskey = P
 update-setting-write-failure-title2 = Greška prilikom spremanja postavki aktualiziranja
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmite u obzir da mijenjanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Vi ili vaš administrator sustava možda ste u mogućnosti otkloniti ovu grešku tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
+    
+    Nije moguće pisati u datoteku: { $path }
 update-in-progress-title = Aktualiziranje u tijeku
 update-in-progress-message = Želiš li da { -brand-short-name } nastavi s ovim aktualiziranjem?
 update-in-progress-ok-button = O&dbaci
@@ -569,6 +577,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio obitelji { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Preporučene priče
+home-prefs-recommended-by-description-generic = Izniman sadržaj koji je pripremila { -brand-product-name } obitelj
 
 ##
 
@@ -595,6 +606,8 @@ home-prefs-recent-activity-description = Izbor nedavno posjećenih stranica i sa
 home-prefs-snippets-header =
     .label = Kratke obavijesti
 home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
+home-prefs-weather-header =
+    .label = Vremenska prognoza
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
