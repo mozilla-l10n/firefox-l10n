@@ -16,3 +16,8 @@ elevation-more-elevated =
     được cài đặt ở lần khởi động { -brand-short-name } tiếp theo. Bạn có thể khởi động lại
     { -brand-short-name } ngay bây giờ, tiếp tục làm việc và khởi động lại sau, hoặc từ chối
     bản cập nhật này.
+sandbox-missing-unprivileged-namespaces = Một số tính năng bảo mật của { -brand-short-name } có thể cung cấp ít khả năng bảo vệ hơn trên hệ điều hành hiện tại của bạn.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Đừng hiện lại nữa
+    .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = Làm thế nào để giải quyết vấn đề này
