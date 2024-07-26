@@ -20,3 +20,8 @@ elevation-more-elevated =
     θα εγκατασταθεί την επόμενη φορά που το { -brand-short-name } θα ξεκινήσει. Μπορείτε είτε να επανεκκινήσετε το
     { -brand-short-name } τώρα, είτε να συνεχίσετε τη δουλειά σας και να επανεκκινήσετε αργότερα, είτε να αρνηθείτε
     την ενημέρωση.
+sandbox-missing-unprivileged-namespaces = Μερικές από τις λειτουργίες ασφαλείας του { -brand-short-name } ενδέχεται να προσφέρουν λιγότερη προστασία στο τρέχον λειτουργικό σας σύστημα.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Να μην εμφανιστεί ξανά
+    .accesskey = Ν
+sandbox-unprivileged-namespaces-howtofix = Τρόπος διόρθωσης του ζητήματος

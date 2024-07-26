@@ -1360,11 +1360,16 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 
 httpsonly-header = Λειτουργία «Μόνο HTTPS»
 httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοτόπων που επισκέπτεστε. Οι περισσότεροι ιστότοποι υποστηρίζουν το HTTPS και αν είναι ενεργή η λειτουργία «Μόνο HTTPS», τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
+httpsonly-description2 = Το { -brand-short-name } δημιουργεί ασφαλείς και κρυπτογραφημένες συνδέσεις με τους ιστοτόπους που επισκέπτεστε. Το { -brand-short-name } θα σας προειδοποιήσει εάν μια σύνδεση δεν είναι ασφαλής όταν είναι ενεργή η λειτουργία «Μόνο HTTPS».
 httpsonly-learn-more = Μάθετε περισσότερα
 httpsonly-radio-enabled =
     .label = Ενεργοποίηση λειτουργίας «Μόνο HTTPS» σε όλα τα παράθυρα
+httpsonly-radio-enabled2 =
+    .label = Χρήση μόνο HTTPS σε όλα τα παράθυρα
 httpsonly-radio-enabled-pbm =
     .label = Ενεργοποίηση λειτουργίας «Μόνο HTTPS» μόνο σε ιδιωτικά παράθυρα
+httpsonly-radio-enabled-pbm2 =
+    .label = Χρήση μόνο HTTPS στα ιδιωτικά παράθυρα
 httpsonly-radio-disabled =
     .label = Να μην ενεργοποιηθεί η λειτουργία «Μόνο HTTPS»
 
