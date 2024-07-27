@@ -20,3 +20,6 @@ elevation-more-elevated =
     навбатӣ «{ -brand-short-name }»-ро оғоз мекунед. навсозӣ насб карда мешавад.
     Шумо метавонед «{ -brand-short-name }»-ро ҳозир аз нав оғоз кунед, кори худро
     идома диҳед ва дертар барномаро аз нав оғоз кунед ё ин навсозиро рад намоед.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Дигар нишон дода нашавад
+    .accesskey = Д

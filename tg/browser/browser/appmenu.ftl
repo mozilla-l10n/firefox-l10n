@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Танзимот барои тафт�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Қувва
+profiler-popup-presets-debug-description = Танзими пешбинишуда барои ислоҳ кардани хатоҳо дар «{ -brand-shorter-name }». Ба сабаби хароҷоти изофӣ, аз он барои кори самаранок истифода набаред, аммо аз он барои таваҷҷуҳ ба фаҳмидани рафтори браузер истифода баред.
 profiler-popup-presets-debug-label =
     .label = Ислоҳ кардани хатоҳо
 profiler-popup-presets-custom-label =
