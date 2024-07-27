@@ -1412,9 +1412,31 @@ preferences-doh-default-detailed-desc-2 = Koristi zadani DNS ukoliko postoji pro
 preferences-doh-default-detailed-desc-3 = Koristi lokalnog pružatelja usluga, ukoliko je moguće
 preferences-doh-default-detailed-desc-4 = Isključi kada su aktivni VPN, roditeljska kontrola ili pravila poduzeća
 preferences-doh-default-detailed-desc-5 = Isključi kada mreža kaže { -brand-short-name }u da ne bi trebao koristiti sigurni DNS
+preferences-doh-setting-enabled =
+    .label = Povećana zaštita
+    .accesskey = i
+preferences-doh-enabled-desc = Vi određujete kada ćete koristiti sigurni DNS i birate svog pružatelja usluge.
+preferences-doh-enabled-detailed-desc-1 = Koristite pružatelja usluge kojeg odaberete
+preferences-doh-enabled-detailed-desc-2 = Samo koristi zadani DNS ukoliko postoji problem sa sigurnim DNSom
+preferences-doh-setting-strict =
+    .label = Maksimalna zaštita
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } će uvijek koristiti sigurni DNS. Vidjet ćete upozorenje o sigurnosnom riziku prije nego što upotrijebimo DNS vašeg sustava.
+preferences-doh-strict-detailed-desc-1 = Koristi samo odabranog pružatelja usluge
+preferences-doh-strict-detailed-desc-2 = Uvijek upozori ako sigurni DNS nije dostupan
+preferences-doh-strict-detailed-desc-3 = Ako sigurni DNS nije dostupan stranice se neće učitati ili ispravno funkcionirati
 preferences-doh-setting-off =
     .label = Isključeno
     .accesskey = I
+preferences-doh-off-desc = Koristi zadani DNS
+preferences-doh-checkbox-warn =
+    .label = Upozori ukoliko treća strana aktivno sprječava sigurni DNS
+    .accesskey = U
+preferences-doh-select-resolver = Odaberite pružatelja usluge:
+preferences-doh-exceptions-description = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama
+preferences-doh-manage-exceptions =
+    .label = Upravljanje iznimkama…
+    .accesskey = r
 
 ## The following strings are used in the Download section of settings
 
