@@ -750,6 +750,7 @@ sync-currently-syncing-logins-passwords = පිවිසුම් සහ මු
 sync-currently-syncing-passwords = මුරපද
 sync-currently-syncing-addresses = ලිපින
 sync-currently-syncing-creditcards = ණය පත්
+sync-currently-syncing-payment-methods = ගෙවීම් ක්‍රම
 sync-currently-syncing-addons = එක්කහු
 sync-currently-syncing-settings = සැකසුම්
 sync-change-options =
@@ -792,6 +793,10 @@ sync-engine-creditcards =
     .label = ණය පත්
     .tooltiptext = නම්, අංක හා කල් ඉකුත්වන දින (වැඩතලයට පමණි)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = ගෙවීම් ක්‍රම
+    .tooltiptext = නම්, පත් අංක සහ ඉකුත් වන දින
+    .accesskey = n
 sync-engine-addons =
     .label = එක්කහු
     .tooltiptext = ෆයර්ෆොක්ස් වැඩතලය සඳහා එක්කහු හා තේමා
@@ -913,6 +918,12 @@ primary-password-os-auth-dialog-message-win = ප්‍රාථමික මු
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ප්‍රාථමික මුරපදයක් සාදන්න
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ගෙවීම් ක්‍රම සඳහා සැකසුම් වෙනස් කිරීම
+       *[other] { -brand-short-name } ගෙවීම් ක්‍රම සඳහා සැකසුම් වෙනස් කිරීමට උත්සාහ කරයි. මෙයට ඉඩ දීමට ඔබගේ උපාංගයේ පිවිසුම භාවිතා කරන්න.
+    }
 
 ## Privacy section - Autofill
 
@@ -920,6 +931,15 @@ autofill-addresses-checkbox = ලිපින සුරැකීම හා ප�
     .accesskey = a
 autofill-saved-addresses-button = සුරැකි ලිපින
     .accesskey = S
+autofill-payment-methods-checkbox-message = ගෙවීම් ක්‍රම සුරකින්න සහ පුරවන්න
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = ණය සහ බැරපත් ඇතුළත් වේ
+    .accesskey = I
+autofill-saved-payment-methods-button = සුරැකි ගෙවීම් ක්‍රම
+    .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = ගෙවීම් ක්‍රම පිරවීමට සහ කළමනාකරණයට උපාංගයේ පිවිසුම වුවමනාය
+    .accesskey = o
 
 ## Privacy Section - History
 

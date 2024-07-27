@@ -164,7 +164,7 @@ migration-list-password-label = මුරපද
 migration-list-history-label = ඉතිහාසය
 migration-list-extensions-label = දිගු
 migration-list-autofill-label = ස්වයං පිරවුම් දත්ත
-migration-list-payment-methods-label = ගෙවීමේ ක්‍රම
+migration-list-payment-methods-label = ගෙවීම් ක්‍රම
 
 ##
 
@@ -269,8 +269,8 @@ migration-wizard-progress-success-formdata = ආකෘති ඉතිහාස�
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] ගෙවීමේ ක්‍රම { $quantity }
-       *[other] ගෙවීමේ ක්‍රම { $quantity }
+        [one] ගෙවීම් ක්‍රම { $quantity }
+       *[other] ගෙවීම් ක්‍රම { $quantity }
     }
 migration-wizard-safari-permissions-sub-header = සෆාරි පොත්යොමු සහ පිරික්සුම් ඉතිහාසය ආයාතයට:
 migration-wizard-safari-instructions-continue = “ඉදිරියට” තෝරන්න
