@@ -7,13 +7,10 @@
 
 site-data-settings-window =
     .title = Управление на бисквитки и данни на страници
-
 site-data-settings-description = Страници, съхраняващи бисквитки и данни на вашия компютър. { -brand-short-name } запазва информация от тези страници в хранилището за постоянни данни, докато не я изтриете и я изтрива от хранилището за временни данни, когато е необходимо пространство.
-
 site-data-search-textbox =
     .placeholder = Търсене на сайтове
     .accesskey = т
-
 site-data-column-host =
     .label = Страница
 site-data-column-cookies =
@@ -22,18 +19,14 @@ site-data-column-storage =
     .label = Хранилище
 site-data-column-last-used =
     .label = Последно използване
-
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (местен файл)
-
 site-data-remove-selected =
     .label = Премахване на избраните
     .accesskey = и
-
 site-data-settings-dialog =
     .buttonlabelaccept = Запазване
     .buttonaccesskeyaccept = з
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -41,11 +34,9 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (постоянни данни)
-
 site-data-remove-all =
     .label = Премахване на всички
     .accesskey = в
-
 site-data-remove-shown =
     .label = Премахване на изброените
     .accesskey = б
@@ -55,9 +46,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Премахване
-
 site-data-removing-header = Премахване на бисквитки и данни на страници
-
 site-data-removing-desc = Премахването на бисквитките или данни на страници може да наложи да се впишете отново в някои сайтове. Наистина ли желаете да направите тези промени?
-
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Премахването на бисквитки и данни на страници може да доведе до излизането ви от уебсайтове. Сигурни ли сте, че искате да премахнете бисквитките и данните за <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Бисквитките и данните от следните страници ще бъдат премахнати

@@ -61,4 +61,5 @@ certificate-viewer-critical-extension =
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Вашите сертификати
 certificate-viewer-tab-servers = Сървъри
