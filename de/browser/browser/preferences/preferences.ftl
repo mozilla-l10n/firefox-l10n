@@ -1372,6 +1372,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = Nur HTTPS in privaten Fenstern verwenden
 httpsonly-radio-disabled =
     .label = Nur-HTTPS-Modus nicht aktivieren
+httpsonly-radio-disabled2 =
+    .label = Zuerst HTTPS ausprobieren, aber nicht sichere Verbindungen erlauben
 
 ## DoH Section
 
