@@ -23,6 +23,8 @@ urlbar-translations-button-intro =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Stranica prevedena iz jezika { $fromLanguage } u { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Prijevod u tijeku
 translations-panel-settings-button =
     .aria-label = Upravljaj postavkama prijevoda
 # Text displayed on a language dropdown when the language is in beta
@@ -116,22 +118,83 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Prijevodi
+translations-manage-settings-button =
+    .label = Postavke…
+    .accesskey = t
+translations-manage-description = Preuzmite jezike za izvanmrežni prijevod.
 translations-manage-all-language = Svi jezici
+translations-manage-download-button = Preuzmi
+translations-manage-delete-button = Obriši
+translations-manage-intro-2 = Postavite svoj jezik i postavke prijevoda stranica i upravljajte jezicima preuzetim za izvanmrežni prijevod.
+translations-manage-download-description = Preuzmite jezike za izvanmrežni prijevod
+translations-manage-language-download-button =
+    .label = Preuzmi
 translations-manage-language-download-all-button =
     .label = Preuzmi sve
     .accesskey = P
+translations-manage-language-remove-button =
+    .label = Ukloni
 translations-manage-language-remove-all-button =
     .label = Ukloni sve
     .accesskey = U
+translations-manage-error-download = Došlo je do problema prilikom preuzimanja jezičnih datoteka. Pokušajte ponovno.
+translations-manage-error-delete = Došlo je do greške prilikom brisanja jezičnih datoteka. Pokušajte ponovno.
+translations-manage-error-remove = Došlo je do greške prilikom uklanjanja jezičnih datoteka. Pokušajte ponovno.
+translations-manage-error-list = Dohvaćanje popisa dostupnih jezika za prijevod nije uspjelo. Osvježite stranicu za ponovni pokušaj.
+translations-settings-title =
+    .title = Postavke prijevoda
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
 translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
 translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
+translations-settings-languages-column =
+    .label = Jezici
+translations-settings-remove-language-button =
+    .label = Ukloni jezik
+    .accesskey = U
 translations-settings-remove-all-languages-button =
     .label = Ukloni sve jezike
     .accesskey = e
+translations-settings-sites-column =
+    .label = Web stranice
+translations-settings-remove-site-button =
+    .label = Ukloni stranicu
+    .accesskey = s
 translations-settings-remove-all-sites-button =
     .label = Ukloni sve stranice
     .accesskey = k
+translations-settings-close-dialog =
+    .buttonlabelaccept = Zatvori
+    .buttonaccesskeyaccept = Z
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Prevedi odabir…
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Prevedi odabir na { $language }
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Prevedi tekst poveznice…
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Prevedi tekst poveznice na { $language }
+    .accesskey = o
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Prijevod
 # Text displayed above the from-language dropdown menu.
