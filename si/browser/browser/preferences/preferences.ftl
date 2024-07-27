@@ -890,6 +890,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = ප්‍රාථමික මුරපදයක් යොදා ගන්න
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = මුරපද පිරවීම සහ කළමනාකරණයට උපාංගයේ පිවිසුම වුවමනාය
 forms-primary-pw-learn-more-link = තව දැනගන්න
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -910,6 +913,7 @@ forms-windows-sso =
     .label = මයික්‍රොසොෆ්ට්, වැඩ හා පාසල් ගිණුම් සඳහා වින්ඩෝස් තනි පිවිසුමට ඉඩ දෙන්න
 forms-windows-sso-learn-more-link = තව දැනගන්න
 forms-windows-sso-desc = ඔබගේ උපාංග සැකසුම් තුළ ගිණුම් කළමනාකරණය
+windows-passkey-settings-label = පද්ධතියේ සැකසුම් තුළ මුරයතුරු කළමනාකරණය කරන්න
 
 ## OS Authentication dialog
 

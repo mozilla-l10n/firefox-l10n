@@ -257,3 +257,4 @@ launch-on-login-infobar-final-reject-button = එපා, ස්තුතිය�
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න

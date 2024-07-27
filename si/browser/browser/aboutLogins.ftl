@@ -121,6 +121,11 @@ login-item-edit-button = සංස්කරණය
 about-logins-login-item-remove-button = ඉවත් කරන්න
 login-item-origin-label = අඩවියේ ලිපිනය
 login-item-tooltip-message = මෙය ඔබ පිවිසෙන අඩවියේ නිවැරදි ලිපිනයට ගැළපෙන බවට වග බලා ගන්න.
+about-logins-origin-tooltip2 = සම්පූර්ණ ලිපිනය ඇතුළත් කර එය ඔබ පිවිසෙන තැනට හරියටම ගැළපෙනවා දැයි බලන්න.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = ඔබ මෙම අඩවිය සඳහා ඔබගේ වත්මන් මුරපදය සුරකින බවට වග බලා ගන්න. මෙහි මුරපදය වෙනස් කිරීමෙන් එය { $webTitle } සමඟ වෙනස් නොවේ.
+about-logins-add-password-tooltip = ඔබ මෙම අඩවිය සඳහා ඔබගේ වත්මන් මුරපදය සුරකින බවට වග බලා ගන්න.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = පරිශ්‍රීලක නාමය
@@ -200,6 +205,8 @@ about-logins-confirm-remove-dialog-title = මෙම පිවිසුම ම�
 confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = මුරපදය ඉවත් කරන්නද?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
 
 ## Variables
