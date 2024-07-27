@@ -935,6 +935,9 @@ private-browsing-indicator-label = Поверително разглеждане
 content-analysis-indicator-tooltip =
     .tooltiptext = Предотвратяване загуба на данни (DLP) от { $agentName }. Натиснете за повече информация.
 content-analysis-panel-title = Защита на данните
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Вашата организация използва { $agentName } за защита срещу загубата на данни. <a data-l10n-name="info">Научете повече</a>
 
 ## Unified extensions (toolbar) button
 
@@ -988,12 +991,19 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Всички имейли, изпратени до вашите имейл маски, ще бъдат препращани към <strong>{ $useremail }</strong> (освен ако не решите да ги блокирате).
 
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
     .value = (непроверено)
 popup-notification-xpinstall-prompt-learn-more = Научете повече за безопасното инсталиране на добавки
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = В поверителни прозорци
+    .accesskey = п
 
 ## Pop-up warning
 
@@ -1026,6 +1036,8 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Файловият диалогов прозорец на Windows се срина. Файлът ще бъде запазен в { $path }.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1033,3 +1045,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Показване в папка
+    .accessKey = о
