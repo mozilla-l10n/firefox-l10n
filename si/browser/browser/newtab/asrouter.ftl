@@ -55,8 +55,8 @@ cfr-doorhanger-extension-rating =
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
-        [one] { $total }පරිශීලකයා
-       *[other] { $total }පරිශීලකයින්
+        [one] පරිශ්‍රීලකයින් { $total }
+       *[other] පරිශ්‍රීලකයින් { $total }
     }
 
 ## Firefox Accounts Message

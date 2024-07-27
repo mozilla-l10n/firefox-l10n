@@ -3,10 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabmodalprompt-username =
-    .value = පරිශීලක නාමය:
+    .value = පරිශ්‍රීලක නාමය:
 tabmodalprompt-password =
     .value = මුරපදය:
-
 tabmodalprompt-ok-button =
     .label = හරි
 tabmodalprompt-cancel-button =
