@@ -920,6 +920,9 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = අපගේ ආරක්‍ෂිත සහ භාවිතයට පහසු වැස්ම ඔබගේ අනන්‍යතාවය රැක දෙන අතර වි-තැපැල් ලිපිනය සැඟවීමෙන් අයාචිත තැපැල් පණිවිඩ වළක්වයි.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = ඔබගේ  වි-තැපැල් වැස්ම වෙත එවන සියලුම වි-තැපැල් <strong>{ $useremail }</strong> වෙත යොමු කෙරේ (ඔබ ඒවා අවහිර කිරීමට තීරණය නොකරනවා නම් මිස).
 
 ## Add-on Pop-up Notifications
 
