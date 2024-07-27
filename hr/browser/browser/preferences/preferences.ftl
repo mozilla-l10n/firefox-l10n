@@ -1316,6 +1316,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Postavke oglašavanja web stranice
+website-advertising-private-attribution =
+    .label = Dopustite web- stranicama izvođenje mjerenja oglasa koje čuva privatnost
+    .accesskey = a
+website-advertising-private-attribution-description = To pomaže web stranicama da razumiju izvedbu njihovih oglasa bez prikupljanja podataka o vama.
 
 ## Privacy Section - Security
 ##
@@ -1347,24 +1351,37 @@ certs-view =
 certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = S
+certs-thirdparty-toggle =
+    .label = Dopustite { -brand-short-name }u da automatski vjeruje korijenskim certifikatima treće strane koje instalirate
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Otvori postavke
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name }u ponestaje diskovnog prostora.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možete obrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci web stranice.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name }u ponestaje diskovnog prostora.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Posjetite „Saznaj više” za optimiziranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način rada "Samo HTTPS"
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između preglednika { -brand-short-name } i web-stranica koje posjećuješ. Većina web-stranica podržava HTTPS, a ako je aktiviran način rada "Samo HTTPS", tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećujete. { -brand-short-name } će vas upozoriti ukoliko veza nije sigurna kada je uključen Samo HTTPS.
 httpsonly-learn-more = Saznaj više
 httpsonly-radio-enabled =
     .label = Aktiviraj način rada "Samo HTTPS" u svim prozorima
+httpsonly-radio-enabled2 =
+    .label = Koristite Samo HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
     .label = Aktiviraj način rada "Samo HTTPS" samo u privatnim prozorima
+httpsonly-radio-enabled-pbm2 =
+    .label = Koristite Samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
     .label = Nemoj aktivirati način rada "Samo HTTPS"
+httpsonly-radio-disabled2 =
+    .label = Prvo pokušaj s HTTPS, ali dopusti veze koje nisu sigurne
 
 ## DoH Section
 
+preferences-doh-header = DNS preko HTTPS
 preferences-doh-status-active = Aktivno
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
