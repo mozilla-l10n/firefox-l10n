@@ -134,6 +134,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = පිටපතක්
 login-item-copied-password-button-text = පිටපත් විය!
 login-item-save-changes-button = වෙනස්කම් සුරකින්න
+about-logins-login-item-save-changes-button = සුරකින්න
 login-item-save-new-button = සුරකින්න
 login-item-cancel-button = අවලංගු
 
