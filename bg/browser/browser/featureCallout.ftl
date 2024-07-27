@@ -12,9 +12,12 @@ callout-primary-complete-button-label = Разбрах!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Прескайте между устройства с избор на раздели
+callout-firefox-view-tab-pickup-subtitle = Лесно вземайте отворените раздели от телефона си и ги отваряйте тук за по-добър преглед.
 callout-firefox-view-recently-closed-title = Върнете си затворените раздели за един миг
 callout-firefox-view-recently-closed-subtitle = Затворените раздели магически ще се покажат тук. Повече не се тревожете ако случайно затворите раздел.
 callout-firefox-view-colorways-title = Добавете пръска цвят
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Изберете цветовете които обичате. Само в { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Разгледайте най-новите цветове
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Оцветете браузъра си с тези емблематични нюанси, вдъхновени от независими гласове. Само в { -brand-product-name }.
