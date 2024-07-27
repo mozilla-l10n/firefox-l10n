@@ -1364,6 +1364,7 @@ space-alert-under-5gb-message2 =
 
 httpsonly-header = Tilstanden Kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
+httpsonly-description2 = { -brand-short-name } etablerer sikre og krypterede forbindelser til de websteder, du besøger. Når Kun-HTTPS er slået til, advarer { -brand-short-name } dig, hvis forbindelsen ikke er sikker.
 httpsonly-learn-more = Læs mere
 httpsonly-radio-enabled =
     .label = Slå kun-HTTPS til for alle vinduer
