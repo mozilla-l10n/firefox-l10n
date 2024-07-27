@@ -132,3 +132,5 @@ addon-local-install-error-not-signed = Ин ҷузъи иловагӣ насб �
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } насб карда намешавад, зеро ки он ба { -brand-short-name } { $appVersion } мувофиқат намекунад.
 addon-install-error-blocklisted = { $addonName } насб карда намешавад, зеро ки он барои ба вуҷуд овардани мушкилиҳои устуворӣ ва амниятӣ хатари баланд дорад.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Шумо наметавонед, ки «{ $addonName }»-ро ҳамчун корбари ниҳоӣ насб намоед, зеро ки он метавонад танҳо аз ҷониби ташкилоте, ки аз сиёсатҳои корхона истифода мебарад, насб карда шавад.
