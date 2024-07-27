@@ -9,6 +9,7 @@ autofill-manage-addresses-title = සුරැකි ලිපින
 autofill-manage-addresses-list-header = ලිපින
 autofill-manage-credit-cards-title = සුරැකි ණය පත්
 autofill-manage-credit-cards-list-header = ණය පත්
+autofill-manage-payment-methods-title = සුරැකි ගෙවීමේ ක්‍රම
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ඉවත් කරන්න
@@ -87,9 +88,6 @@ autofill-address-postal-code = තැපැල් කේතය
 autofill-address-zip = තැපැල් කේතය
 # Used in IE
 autofill-address-eircode = Eirකේතය
-
-##
-
 
 ##
 
