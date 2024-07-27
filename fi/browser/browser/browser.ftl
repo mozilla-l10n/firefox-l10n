@@ -637,6 +637,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Viimeisimmät haut
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Suosittuja hakukoneessa { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Älä näytä suositujja hakuja
+    .accesskey = Ä
+urlbar-result-menu-trending-why =
+    .label = Miksi näen tämän?
+    .accesskey = M
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Kiitos palautteestasi. Et näe enää suosittuja hakuja.
 
 ## Reader View toolbar buttons
 
@@ -987,6 +1002,10 @@ firefox-relay-offer-legal-notice = Napsauttamalla “Käytä sähköpostimaskia�
 popup-notification-addon-install-unsigned =
     .value = (Varmentamaton)
 popup-notification-xpinstall-prompt-learn-more = Lue lisää lisäosien asentamisesta turvallisesti
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Suorita yksityisissä ikkunoissa
+    .accesskey = S
 
 ## Pop-up warning
 
