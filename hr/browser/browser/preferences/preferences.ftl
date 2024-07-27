@@ -1174,7 +1174,10 @@ content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi čitač
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolačića izolira kolačiće na stranicu koja ih je postavila, tako da ih programi za praćenje ne mogu koristiti da vas prate između stranica koje posjećujete.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
+content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju značajku privatnosti ikada
 content-blocking-warning-title = Upozorenje!
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
@@ -1206,6 +1209,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Jedinstveni otisci
     .accesskey = J
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Poznati jedinstveni otisci
+    .accesskey = z
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Mogući jedinstveni otisci
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
@@ -1252,6 +1267,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Iznimke…
+    .accesskey = e
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Upozorava te kad stranice pokušaju instalirati dodatke
     .accesskey = d
@@ -1262,6 +1283,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } – prikupljanje i upotreba podataka
+collection-header2 = { -brand-short-name } prikupljanje i upotreba podataka
+    .searchkeywords = telemetry
 collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što nam treba da bismo pružali i unaprijedili { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Napomena o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
@@ -1279,6 +1302,12 @@ addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
+collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name }u slanje zaostalih zapisa o rušenju u vaše ime <a data-l10n-name="crash-reports-link">Saznajte više</a>
+    .accesskey = D
+collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje zaostale zapise o rušenju u tvoje ime
+    .accesskey = D
+privacy-segmentation-section-header = Nove značajke koje poboljšavaju vaše pregledavanje
+privacy-segmentation-section-description = Kada nudimo značajke koje koriste vaše podatke kako bi vam pružile osobnije iskustvo:
 privacy-segmentation-radio-off =
     .label = Koristi { -brand-product-name } preporuke
 privacy-segmentation-radio-on =
@@ -1286,6 +1315,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Postavke oglašavanja web stranice
 
 ## Privacy Section - Security
 ##
