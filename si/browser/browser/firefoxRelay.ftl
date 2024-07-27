@@ -11,6 +11,7 @@
 
 ##
 
+firefox-relay-must-login-to-account = ඔබගේ { -relay-brand-name } වි-තැපැල් වැස්ම භාවිතයට ඔබගේ ගිණුමට පිවිසෙන්න.
 firefox-relay-get-unlimited-masks =
     .label = වැසුම් කළමනාකරණය
     .accesskey = M

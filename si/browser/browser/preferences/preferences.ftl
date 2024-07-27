@@ -869,6 +869,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = තව දැනගන්න
 preferences-relay-integration-checkbox =
     .label = ඔබගේ වි-තැපැල් ලිපිනය රැක ගැනීමට { -relay-brand-name } වි-තැපැල් වැස්ම යෝජනා කරන්න
+preferences-relay-integration-checkbox2 =
+    .label = ඔබගේ වි-තැපැල් ලිපිනය රැක ගැනීමට { -relay-brand-name } වි-තැපැල් වැස්ම යෝජනා කරන්න
+    .accesskey = r
 relay-integration-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
