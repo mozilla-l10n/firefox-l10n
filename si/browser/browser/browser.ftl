@@ -781,7 +781,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = පරිශීලක නාමය
+panel-save-update-username = පරිශ්‍රීලක නාමය
 panel-save-update-password = මුරපදය
 
 ##

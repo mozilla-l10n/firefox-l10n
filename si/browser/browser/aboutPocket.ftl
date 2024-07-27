@@ -33,7 +33,7 @@ pocket-panel-signup-add-tags = අනන්‍යන යොදන්න:
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-already-have = දැනටමත් { -pocket-brand-name } පරිශීලකයෙක්ද?
+pocket-panel-signup-already-have = දැනටමත් { -pocket-brand-name } පරිශ්‍රීලකයෙක්ද?
 pocket-panel-signup-learn-more = තව දැනගන්න
 pocket-panel-signup-login = පිවිසෙන්න
 pocket-panel-signup-signup-email = වි-තැපෑලකින් ලියාපදිංචි වන්න

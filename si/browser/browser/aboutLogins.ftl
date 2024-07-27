@@ -75,8 +75,8 @@ login-list-filtered-count2 =
 login-list-sort-label-text = වර්ග කරන්න:
 login-list-name-option = නම (අ-ෆ)
 login-list-name-reverse-option = නම (ෆ-අ)
-login-list-username-option = පරිශීලක නාමය (අ-ෆ)
-login-list-username-reverse-option = පරිශීලක නාමය (ෆ-අ)
+login-list-username-option = පරිශ්‍රීලක නාමය (අ-ෆ)
+login-list-username-reverse-option = පරිශ්‍රීලක නාමය (ෆ-අ)
 about-logins-login-list-alerts-option = ඇඟවීම්
 login-list-last-changed-option = අවසන් සංශෝධනය
 login-list-last-used-option = අවසන් භාවිතය
@@ -89,7 +89,7 @@ about-logins-login-list-empty-search-description = ඔබගේ සෙවුම�
 login-list-item-title-new-login = නව පිවිසුම
 login-list-item-subtitle-new-login = ඔබගේ පිවිසුම් අක්තපත්‍ර යොදන්න
 login-list-item-title-new-login2 = මුරපදය එක් කරන්න
-login-list-item-subtitle-missing-username = (පරිශීලක නාමය නැත)
+login-list-item-subtitle-missing-username = (පරිශ්‍රීලක නාමය නැත)
 about-logins-list-item-breach-icon =
     .title = උල්ලංඝනය වූ අඩවියකි
 about-logins-list-section-breach = උල්ලංඝනය වූ අඩවි
@@ -123,9 +123,9 @@ login-item-origin-label = අඩවියේ ලිපිනය
 login-item-tooltip-message = මෙය ඔබ පිවිසෙන අඩවියේ නිවැරදි ලිපිනයට ගැළපෙන බවට වග බලා ගන්න.
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = පරිශීලක නාමය
+login-item-username-label = පරිශ්‍රීලක නාමය
 about-logins-login-item-username =
-    .placeholder = (පරිශීලක නාමය නැත)
+    .placeholder = (පරිශ්‍රීලක නාමය නැත)
 login-item-copy-username-button-text = පිටපතක්
 login-item-copied-username-button-text = පිටපත් විය!
 login-item-password-label = මුරපදය
@@ -272,7 +272,7 @@ about-logins-vulnerable-alert-learn-more-link = තව දැනගන්න
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = එම පරිශීලක නාමය සහිත { $loginTitle } සඳහා නිවේශිතයක් දැනටමත් පවතී. <a data-l10n-name="duplicate-link">පවතින නිවේශිතයට යන්නද?</a>
+about-logins-error-message-duplicate-login-with-link = එම පරිශ්‍රීලක නාමය සහිත { $loginTitle } සඳහා නිවේශිතයක් දැනටමත් පවතී. <a data-l10n-name="duplicate-link">පවතින නිවේශිතයට යන්නද?</a>
 # This is a generic error message.
 about-logins-error-message-default = මෙම මුරපදය සුරැකීමේදී දෝෂයක් සිදු විය.
 
