@@ -48,6 +48,13 @@ certificate-viewer-extended-key-usages = Разширена употреба
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (сертификат)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (верига)
+    .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Това разширение е отбелязано като критично, което означава, че клиентите трябва да отхвърлят сертификата, ако не го разбират.
 
 ##
 
