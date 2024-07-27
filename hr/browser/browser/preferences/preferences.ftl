@@ -1382,11 +1382,36 @@ httpsonly-radio-disabled2 =
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS
+preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje vaše zahtjeve s nazivom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice planirate posjetiti.
+preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje vaše zahtjeve s nazivom domene putem šifrirane veze, pružajući siguran DNS i otežava drugima da vide koje web stranice planirate posjetiti.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Pružatelj usluge: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Neispravan URL
+preferences-doh-steering-status = Korištenje lokalnog pružatelja usluga
 preferences-doh-status-active = Aktivno
+preferences-doh-status-disabled = Isključeno
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nije aktivno ({ $reason })
+preferences-doh-group-message = Omogućite sigurni DNS pomoću:
+preferences-doh-group-message2 = Omogućite DNS preko HTTPS pomoću:
+preferences-doh-expand-section =
+    .tooltiptext = Više informacija
+preferences-doh-setting-default =
+    .label = Zadana zaštita
+    .accesskey = d
 preferences-doh-default-desc = { -brand-short-name } odlučuje kada koristiti sigurni DNS za zaštitu tvoje privatnosti.
+preferences-doh-default-detailed-desc-1 = Koristi sigurni DNS u regijama gdje je dostupan
+preferences-doh-default-detailed-desc-2 = Koristi zadani DNS ukoliko postoji problem sa pružateljem usluge sigurnog DNSa
+preferences-doh-default-detailed-desc-3 = Koristi lokalnog pružatelja usluga, ukoliko je moguće
+preferences-doh-default-detailed-desc-4 = Isključi kada su aktivni VPN, roditeljska kontrola ili pravila poduzeća
+preferences-doh-default-detailed-desc-5 = Isključi kada mreža kaže { -brand-short-name }u da ne bi trebao koristiti sigurni DNS
 preferences-doh-setting-off =
     .label = Isključeno
     .accesskey = I
