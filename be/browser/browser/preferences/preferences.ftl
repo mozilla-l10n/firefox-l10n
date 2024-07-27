@@ -1364,13 +1364,20 @@ space-alert-under-5gb-message2 = <strong>У { -brand-short-name } сканчае
 
 httpsonly-header = Рэжым толькі HTTPS
 httpsonly-description = HTTPS забяспечвае бяспечнае зашыфраванае злучэнне паміж { -brand-short-name } і вэб-сайтамі, якія вы наведваеце. Большасць сайтаў падтрымліваюць HTTPS, і калі ўключаны рэжым толькі HTTPS, { -brand-short-name } пераключа ўсе злучэнні на HTTPS.
+httpsonly-description2 = { -brand-short-name } стварае бяспечныя і зашыфраваныя злучэнні з сайтамі, якія вы наведваеце. { -brand-short-name } будзе папярэджваць, калі злучэнне не з'яўляецца бяспечным пры ўключаным «Толькі HTTPS».
 httpsonly-learn-more = Даведацца больш
 httpsonly-radio-enabled =
     .label = Уключыць рэжым толькі HTTPS ва ўсіх вокнах
+httpsonly-radio-enabled2 =
+    .label = Ва ўсіх вокнах выкарыстоўваць толькі HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Уключыць рэжым толькі HTTPS толькі ў прыватных вокнах
+httpsonly-radio-enabled-pbm2 =
+    .label = У прыватных вокнах выкарыстоўваць толькі HTTPS
 httpsonly-radio-disabled =
     .label = Не ўключаць рэжым толькі HTTPS
+httpsonly-radio-disabled2 =
+    .label = Спрабаваць спачатку HTTPS, але дазваляць злучэнні, якія не з'яўляюцца бяспечнымі
 
 ## DoH Section
 
