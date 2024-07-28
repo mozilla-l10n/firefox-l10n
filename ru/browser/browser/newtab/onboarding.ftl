@@ -162,7 +162,7 @@ fx100-upgrade-thanks-header = 100 благодарностей
 fx100-upgrade-thank-you-body = Это наш 100-й выпуск { -brand-short-name }. Спасибо <em>Вам</em> за помощь в создании лучшего и более здорового Интернета.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Это наш 100-й выпуск! Спасибо, что являетесь частью нашего сообщества. Держите { -brand-short-name } под рукой для следующих 100.
-mr2022-onboarding-secondary-skip-button-label = Пропустить этот шаг
+mr2022-onboarding-secondary-skip-button-label = Пропустить шаг
 
 ## MR2022 New User Easy Setup screen strings
 
