@@ -11,4 +11,4 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN incorrecto. Intenta de nuevo.
 webauthn-pin-required-prompt = Por favor, ingresa el PIN de tu dispositivo.
-
+webauthn-select-sign-result-unknown-account = Cuenta desconocida
