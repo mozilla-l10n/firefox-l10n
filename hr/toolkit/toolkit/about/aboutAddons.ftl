@@ -284,7 +284,7 @@ find-more-themes = Pronađi više tema
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
-    .aria-label = Više mogućnosti
+    .aria-label = Više opcija
 
 ## Add-on actions
 
@@ -300,7 +300,7 @@ extension-enable-addon-button-label =
     .aria-label = Omogući
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] Mogućnosti
+        [windows] Opcije
        *[other] Mogućnosti
     }
 details-addon-button = Detalji
