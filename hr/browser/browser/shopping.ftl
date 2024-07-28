@@ -5,8 +5,16 @@
 shopping-page-title = { -brand-product-name } kupovina
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = Provjera pregleda
+shopping-main-container-title = Provjera recenzija
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Provjera recenzija - beta
+shopping-close-button =
+    .title = Zatvori
 # This string is for notifying screen reader users that the
 # sidebar is still loading data.
 shopping-a11y-loading =
@@ -18,11 +26,37 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Pouzdane recenzije
+shopping-letter-grade-description-c = Mješavina pouzdanih i nepouzdanih recenzija
+shopping-letter-grade-description-df = Nepouzdane recenzije
+# This string is displayed in a tooltip that appears when the user hovers
+# over the letter grade component without a visible description.
+# It is also used for screen readers.
+#  $letter (String) - The letter grade as A, B, C, D or F (hardcoded).
+#  $description (String) - The localized letter grade description. See shopping-letter-grade-description-* strings above.
+shopping-letter-grade-tooltip =
+    .title = { $letter } - { $description }
 
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nove informacije za provjeru
 shopping-message-bar-warning-stale-analysis-button = Provjeri sada
+shopping-message-bar-generic-error =
+    .heading = Trenutno nema dostupnih informacija
+    .message = Radimo na ispravku ovog problema. Provjerite ponovno uskoro.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Još nema dovoljno recenzija
+    .message = Kada ovaj proizvod bude imao više recenzija, moći ćemo provjeriti njihovu kvalitetu.
+shopping-message-bar-warning-product-not-available =
+    .heading = Proizvod nije dostupan
+    .message = Ukolilko proizvod ponovno postane dostupan, prijavite nam i raditi ćemo na provjeri recenzija.
+shopping-message-bar-warning-product-not-available-button2 = Prijavljeni proizvod je na skladištu
+shopping-message-bar-thanks-for-reporting =
+    .heading = Hvala na javljanju!
+    .message = Imati ćemo više informacija o recenzijama ovog proizvoda unutar 24 sata. Provjerite ponovno kasnije.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informacije uskoro
+    .message = Imati ćemo više informacija o recenzijama ovog proizvoda unutar 24 sata. Provjerite ponovno kasnije.
+shopping-message-bar-analysis-in-progress-title2 = Provjera kvalitete recenzije
 shopping-message-bar-analysis-in-progress-message2 = To bi moglo potrajati oko 60 sekundi.
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
