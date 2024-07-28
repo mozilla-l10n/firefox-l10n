@@ -61,13 +61,24 @@ shopping-message-bar-analysis-in-progress-message2 = To bi moglo potrajati oko 6
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = Provjera kvalitete recenzije ({ $percentage }%)
+shopping-message-bar-page-not-supported =
+    .heading = Ne možemo provjeriti ove recenzije
+    .message = Nažalost, ne možemo provjeriti kvalitetu recenzija za neke tipove proizvoda. Na primjer darovne kartice, streaming videa, glazbe i igre.
 shopping-message-bar-keep-closed-header =
     .heading = Zadržati zatvoreno?
     .message = Tvoje postavke možeš aktualizirati kako bi preglednik recenzija standardno bio zatvoren. Trenutačno se automatski otvara.
+shopping-message-bar-keep-closed-dismiss-button = Ne hvala
 shopping-message-bar-keep-closed-accept-button = Da, zadrži zatvoreno
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Izdvajamo iz nedavnih recenzija
+shopping-highlight-price = Cijena
+shopping-highlight-quality = Kvaliteta
+shopping-highlight-shipping = Dostava
+shopping-highlight-competitiveness = Konkurentnost
+shopping-highlight-packaging = Pakiranje
 
 ## Strings for show more card
 
@@ -76,8 +87,12 @@ shopping-show-less-button = Prikaži manje
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Postavke
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase u pregledniku recenzija
+shopping-settings-recommendations-learn-more2 = Povremeno ćete vidjeti oglase za relevantne proizvode. Oglašavamo samo proizvode s pouzdanim recenzijama. <a data-l10n-name="review-quality-url">Saznajte više</a>
+shopping-settings-opt-out-button = Isključite provjeru recenzija
 shopping-settings-auto-open-toggle =
     .label = Automatski otvori preglednik recenzija
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
