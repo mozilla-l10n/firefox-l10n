@@ -236,6 +236,9 @@ newtab-pocket-saved = محفوظ تھیا
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = میݙے کیتے کائنی
 newtab-toast-dismiss-button =
     .title = فارغ کرو
     .aria-label = فارغ کرو

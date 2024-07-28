@@ -14,3 +14,5 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = واڳی ٹیباں بند کرو
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = ساریاں واڳی ٹیباں بند کرو
