@@ -1031,8 +1031,13 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = ไม่สามารถเปิดกล่องโต้ตอบไฟล์ Windows ได้ ไม่สามารถเลือกไฟล์หรือโฟลเดอร์ได้
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = ไม่สามารถเปิดกล่องโต้ตอบไฟล์ Windows ได้ ไฟล์ดังกล่าวจะถูกบันทึกไว้ที่ { $path }
 file-picker-failed-save-nowhere = ไม่สามารถเปิดกล่องโต้ตอบไฟล์ Windows ได้ ไม่พบโฟลเดอร์เริ่มต้น ไฟล์จึงไม่ถูกบันทึก
 file-picker-crashed-open = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไม่สามารถเลือกไฟล์หรือโฟลเดอร์ได้
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไฟล์ดังกล่าวจะถูกบันทึกไว้ที่ { $path }
+file-picker-crashed-save-nowhere = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไม่พบโฟลเดอร์เริ่มต้น ไฟล์จึงไม่ถูกบันทึก
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
