@@ -10,6 +10,7 @@ experimental-features-css-masonry2 =
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">API за WebGPU</a> осигурява поддръжка на ниско ниво за извършване на изчисления и изчертаване на графики, използвайки <a data-l10n-name="wikipedia-gpu">графичния процесор (GPU)</a> на устройството/компютъра на потребителя. Първата версия на <a data-l10n-name="spec">спецификацията</a> е пред финализиране. Вижте <a data-l10n-name="bugzilla">бъг 1616739</a> за повече подробности.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

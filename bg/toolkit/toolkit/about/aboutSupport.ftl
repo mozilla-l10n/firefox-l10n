@@ -245,6 +245,8 @@ webgl2-renderer = Рендер на драйвера за WebGL 2
 webgl2-version = Версия на драйвера за WebGL 2
 webgl2-driver-extensions = Разширения на драйвера за WebGL 2
 webgl2-extensions = Разширения на WebGL 2
+webgpu-default-adapter = Адаптер по подразбиране за WebGPU
+webgpu-fallback-adapter = Резервен адаптер за WebGPU
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = В списъка на блокираните: код на грешка { $failureCode }
