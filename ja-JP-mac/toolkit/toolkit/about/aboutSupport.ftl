@@ -209,7 +209,7 @@ intl-app-title = アプリケーションの設定
 intl-locales-requested = 要求されたロケール
 intl-locales-available = 利用可能なロケール
 intl-locales-supported = アプリケーションのロケール
-intl-locales-default = デフォルトのロケール
+intl-locales-default = デフォルトロケール
 intl-os-title = オペレーティングシステム
 intl-os-prefs-system-locales = システムのロケール
 intl-regional-prefs = 地域設定
@@ -296,7 +296,7 @@ webgl2-renderer = WebGL 2 ドライバーのレンダラー
 webgl2-version = WebGL 2 ドライバーのバージョン
 webgl2-driver-extensions = WebGL 2 ドライバーの拡張
 webgl2-extensions = WebGL 2 拡張
-webgpu-default-adapter = WebGPU のデフォルトのアダプター
+webgpu-default-adapter = WebGPU のデフォルトアダプター
 webgpu-fallback-adapter = WebGPU のフォールバックアダプター
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
