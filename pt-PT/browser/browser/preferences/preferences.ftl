@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar pesquisas recentes
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostrar sugestões de pesquisa com uma popularidade crescente
+    .accesskey = p
 addressbar-quickactions-learn-more = Saber mais
 
 ## Privacy Section - Content Blocking
@@ -1357,6 +1360,7 @@ space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar s
 
 httpsonly-header = Modo apenas HTTPS
 httpsonly-description = O HTTPS fornece um ligação segura e encriptada entre o { -brand-short-name } e os sites que visita. A maioria dos sites suporta HTTPS e se o modo apenas HTTPS estiver ativo, então o { -brand-short-name } irá melhorar/atualizar todas as ligações para HTTPS.
+httpsonly-description2 = O { -brand-short-name } estabelece ligações seguras e encriptadas aos sites que visita. Irá alertar caso uma ligação não seja segura, quando o modo Apenas HTTPS estiver ativado.
 httpsonly-learn-more = Saber mais
 httpsonly-radio-enabled =
     .label = Ativar o modo apenas HTTPS em todas as janelas

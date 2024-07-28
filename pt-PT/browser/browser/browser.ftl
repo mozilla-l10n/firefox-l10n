@@ -1045,6 +1045,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Não foi possível abrir a janela de ficheiros do Windows. Não se conseguiu selecionar qualquer ficheiro ou pasta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Não foi possível abrir a janela de ficheiros do Windows. O ficheiro será guardado em { $path }.
+file-picker-failed-save-nowhere = Não foi possível abrir a janela de ficheiros do Windows. Não se encontrou nenhuma pasta predefinida; consequentemente, o ficheiro não será guardado.
+file-picker-crashed-open = A janela de ficheiros do Windows falhou. Não se conseguiu selecionar qualquer ficheiro ou pasta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = A janela de ficheiros do Windows falhou. O ficheiro será guardado em { $path }.
+file-picker-crashed-save-nowhere = A janela de ficheiros do Windows falhou. Não se encontrou nenhuma pasta predefinida; consequentemente, o ficheiro não será guardado.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
