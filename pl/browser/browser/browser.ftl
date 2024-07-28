@@ -644,6 +644,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Ostatnie wyszukiwania
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Popularne w { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Nie pokazuj popularnych wyszukiwań
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Dlaczego to widzę?
+    .accesskey = D
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Dziękujemy za opinię. Nie będziemy już pokazywać popularnych wyszukiwań.
 
 ## Reader View toolbar buttons
 
@@ -994,6 +1009,10 @@ firefox-relay-offer-legal-notice = Klikając „Użyj maski dla adresu e-mail”
 popup-notification-addon-install-unsigned =
     .value = (niezweryfikowany)
 popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpiecznym instalowaniu dodatków
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Działanie w oknach prywatnych
+    .accesskey = p
 
 ## Pop-up warning
 
@@ -1029,3 +1048,20 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Wyświetl „{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Nie można otworzyć okna wyboru pliku systemu Windows. Nie można wybrać żadnego pliku ani folderu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nie można otworzyć okna wyboru pliku systemu Windows. Plik zostanie zapisany jako { $path }.
+file-picker-failed-save-nowhere = Nie można otworzyć okna wyboru pliku systemu Windows. Nie można odnaleźć żadnego folderu domyślnego. Plik nie zostanie zapisany.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Pokaż w folderze
+    .accessKey = P
