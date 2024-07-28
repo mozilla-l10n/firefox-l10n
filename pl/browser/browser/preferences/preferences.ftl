@@ -1117,8 +1117,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = d
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-locbar-showrecentsearches-option =
-    .label = ostatnich wyszukiwaniach
+    .label = Ostatnie wyszukiwania
     .accesskey = n
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Popularne wyszukiwania
+    .accesskey = u
 addressbar-quickactions-learn-more = Więcej informacji
 
 ## Privacy Section - Content Blocking
@@ -1361,13 +1364,20 @@ space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zac
 
 httpsonly-header = Tryb używania wyłącznie protokołu HTTPS
 httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
+httpsonly-description2 = { -brand-short-name } tworzy zabezpieczone i zaszyfrowane połączenia z odwiedzanymi witrynami. { -brand-short-name } będzie ostrzegać, jeśli połączenie nie jest zabezpieczone, gdy włączony jest tryb używania wyłącznie protokołu HTTPS.
 httpsonly-learn-more = Więcej informacji
 httpsonly-radio-enabled =
     .label = Włącz we wszystkich oknach
+httpsonly-radio-enabled2 =
+    .label = Używanie wyłącznie protokołu HTTPS we wszystkich oknach
 httpsonly-radio-enabled-pbm =
     .label = Włącz tylko w oknach prywatnych
+httpsonly-radio-enabled-pbm2 =
+    .label = Używanie wyłącznie protokołu HTTPS w prywatnych oknach
 httpsonly-radio-disabled =
     .label = Nie włączaj
+httpsonly-radio-disabled2 =
+    .label = Najpierw próbowanie protokołu HTTPS, ale zezwalanie na niezabezpieczone połączenia
 
 ## DoH Section
 
