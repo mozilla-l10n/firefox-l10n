@@ -1360,10 +1360,16 @@ httpsonly-description = O HTTPS fornece um ligação segura e encriptada entre o
 httpsonly-learn-more = Saber mais
 httpsonly-radio-enabled =
     .label = Ativar o modo apenas HTTPS em todas as janelas
+httpsonly-radio-enabled2 =
+    .label = Utilizar apenas HTTPS em todas as janelas
 httpsonly-radio-enabled-pbm =
     .label = Ativar o modo apenas HTTPS somente em janelas privadas
+httpsonly-radio-enabled-pbm2 =
+    .label = Utilizar HTTPS apenas nas janelas privadas
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
+httpsonly-radio-disabled2 =
+    .label = Tentar primeiro HTTPS, mas permitir as ligações que não são seguras
 
 ## DoH Section
 

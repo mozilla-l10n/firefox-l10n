@@ -115,6 +115,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Não voltar a mostrar esta janela.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Atenção
 tabbrowser-confirm-close-duplicate-tabs-text = Iremos manter aberto o último separador ativo
+tabbrowser-confirm-close-all-duplicate-tabs-title = Fechar os separadores duplicados?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Nós iremos fechar os separadores duplicados nesta janela. O último separador
+    ativo irá permanecer aberto.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Fechar separadores
 
 ##
 

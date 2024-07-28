@@ -640,6 +640,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Pesquisas recentes
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Tendência no { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Não mostrar pesquisas em tendência
+    .accesskey = d
+urlbar-result-menu-trending-why =
+    .label = Porque estou a ver isto?
+    .accesskey = e
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Obrigado pelo seu comentário. Não irá ver mais as pesquisas em destaque.
 
 ## Reader View toolbar buttons
 
@@ -990,6 +1005,10 @@ firefox-relay-offer-legal-notice = Ao clicar em “Usar máscara de e-mail”, c
 popup-notification-addon-install-unsigned =
     .value = (Não verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber mais acerca de instalar extras com segurança
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Executar nas janelas privadas
+    .accesskey = j
 
 ## Pop-up warning
 
@@ -1023,3 +1042,16 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Mostrar na pasta
+    .accessKey = p
