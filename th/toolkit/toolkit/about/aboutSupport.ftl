@@ -324,6 +324,9 @@ has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = เนมสเปซผู้ใช้
 has-privileged-user-namespaces = เนมสเปซผู้ใช้สำหรับโพรเซสที่ได้รับสิทธิ์
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — คุณลักษณะนี้ไม่ได้รับอนุญาตให้ใช้งานในระบบของคุณ ซึ่งอาจจำกัดคุณลักษณะด้านความปลอดภัยของ { -brand-short-name }
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = ระดับแซนด์บอกซ์ของโพรเซสเนื้อหา
