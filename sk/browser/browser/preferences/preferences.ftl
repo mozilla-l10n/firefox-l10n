@@ -1364,7 +1364,7 @@ space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochá
 
 httpsonly-header = Režim "Len HTTPS"
 httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.
-httpsonly-description2 = { -brand-short-name } vytvára bezpečné a šifrované pripojenia k stránkam, ktoré navštevujete. { -brand-short-name } vás upozorní, ak pripojenie nie je zabezpečené, keď je zapnuté voľba Len HTTPS.
+httpsonly-description2 = { -brand-short-name } vytvára bezpečné a šifrované pripojenia k stránkam, ktoré navštevujete. { -brand-short-name } vás upozorní v prípade, že pripojenie nie je zabezpečené a vy chcete používať len HTTPS.
 httpsonly-learn-more = Ďalšie informácie
 httpsonly-radio-enabled =
     .label = Povoliť režim "Len HTTPS" vo všetkých oknách
