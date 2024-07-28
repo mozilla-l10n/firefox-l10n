@@ -61,9 +61,15 @@ shopping-message-bar-analysis-in-progress-message2 = Esto podría tardar unos 60
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Precio
+shopping-highlight-quality = Calidad
+shopping-highlight-shipping = Envío
+shopping-highlight-packaging = Empaquetado
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostrar más
+shopping-show-less-button = Mostrar menos
 
 ## Strings for the settings card
 
@@ -94,11 +100,23 @@ shopping-adjusted-rating-based-reliable-reviews = Basado en reseñas confiables
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = Muy satisfecho
+shopping-survey-q1-radio-2-label = Satisfecho
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Insatisfecho
+shopping-survey-q1-radio-5-label = Muy insatisfecho
+shopping-survey-next-button-label = Siguiente
+shopping-survey-submit-button-label = Enviar
+shopping-survey-terms-link = Términos de uso
+shopping-survey-thanks =
+    .heading = ¡Gracias por tus comentarios!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-close-button = Descartar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No volver a mostrar
 
 ## Onboarding message strings.
 

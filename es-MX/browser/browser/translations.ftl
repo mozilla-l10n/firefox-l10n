@@ -44,23 +44,52 @@ translations-panel-settings-always-translate-unknown-language =
     .label = Siempre traduce este idioma
 translations-panel-settings-always-offer-translation =
     .label = Siempre ofrecer traducir
+translations-panel-settings-never-translate-unknown-language =
+    .label = Nunca traducir este idioma
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = Nunca traducir este sitio
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = ¿Traducir esta página?
+translations-panel-translate-button =
+    .label = Traducir
+translations-panel-translate-button-loading =
+    .label = Por favor, espera…
+translations-panel-translate-cancel =
+    .label = Cancelar
+translations-panel-error-load-languages-hint-button =
+    .label = Intentar de nuevo
+translations-panel-error-change-button =
+    .label = Cambiar el idioma de origen
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Traducir del
+translations-panel-to-label = Traducir al
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Selecciona un idioma
+translations-panel-restore-button =
+    .label = Mostrar original
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Traducciones
+translations-manage-settings-button =
+    .label = Ajustes…
+    .accesskey = t
+translations-manage-all-language = Todos los idiomas
+translations-manage-download-button = Descargar
+translations-manage-delete-button = Eliminar
 translations-manage-intro-2 = Ajuste sus preferencias de idioma y de traducción y administre los idiomas descargados para poder traducirlos sin conexión.
 translations-manage-download-description = Descargue idiomas para traducirlos sin conexión
 translations-manage-language-download-button =

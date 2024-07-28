@@ -66,6 +66,9 @@ item-cache =
 item-form-search-history =
     .label = Historial de búsquedas y formularios
     .accesskey = f
+item-site-prefs =
+    .label = Configuración del sitio
+    .accesskey = i
 data-section-label = Datos
 item-site-settings =
     .label = Configuración del sitio
@@ -78,6 +81,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Limpiar ahora
+sanitize-button-ok2 =
+    .label = Limpiar
+sanitize-button-ok-on-shutdown =
+    .label = Guardar cambios
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
