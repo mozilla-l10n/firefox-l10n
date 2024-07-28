@@ -93,6 +93,7 @@ shopping-settings-recommendations-toggle =
     .label = Prikaži oglase u pregledniku recenzija
 shopping-settings-recommendations-learn-more2 = Povremeno ćete vidjeti oglase za relevantne proizvode. Oglašavamo samo proizvode s pouzdanim recenzijama. <a data-l10n-name="review-quality-url">Saznajte više</a>
 shopping-settings-opt-out-button = Isključite provjeru recenzija
+powered-by-fakespot = Provjeru recenzija pokreće <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Automatski otvori preglednik recenzija
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
@@ -105,6 +106,7 @@ shopping-settings-auto-open-description-three-sites = Kada pregledavaš proizvod
 # Variables:
 #   $currentSite (String) - The current shopping page name
 shopping-settings-auto-open-description-single-site = Kada pregledavaš proizvode na { $currentSite }
+shopping-settings-sidebar-enabled-state = Provjera recenzija je <strong>uključena</strong>
 
 ## Strings for the adjusted rating component
 
@@ -117,14 +119,33 @@ shopping-adjusted-rating-based-reliable-reviews = Na temelju pouzdanih recenzija
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Koliko su te recenzije pouzdane?
 
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
     .label = Kako određujemo kvalitetu recenzija
+shopping-analysis-explainer-intro2 = Koristimo AI tehnologiju od { -fakespot-brand-full-name } za provjeru pouzdanosti recenzija proizvoda. To će vam samo pomoći u procjeni kvalitete recenzija, a ne kvalitete proizvoda.
+shopping-analysis-explainer-grades-intro = Svakoj recenziji proizvoda dodjeljujemo <strong>slovnu ocjenu</strong> od A do F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Prilagođena ocjena</strong> temelji se samo na recenzijama za koje vjerujemo da su pouzdane.
+shopping-analysis-explainer-learn-more2 = Saznajte više o tome <a data-l10n-name="review-quality-url">kako { -fakespot-brand-name } određuje kvalitetu recenzija</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Istaknute stavke</strong> potječu iz { $retailer } recenzija u zadnjih 80 dana za koje vjerujemo da su pouzdane.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Istaknute stavke</strong> potječu iz recenzija u zadnjih 80 dana za koje vjerujemo da su pouzdane.
+shopping-analysis-explainer-review-grading-scale-reliable = Pouzdane recenzije. Vjerujemo da su recenzije vjerojatno od stvarnih kupaca koji su ostavili iskrene, nepristrane recenzije.
+shopping-analysis-explainer-review-grading-scale-mixed = Vjerujemo da postoji mješavina pouzdanih i nepouzdanih recenzija.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nepouzdane recenzije. Vjerujemo da su recenzije vjerojatno lažne ili od pristranih recenzenata.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Otvorite provjeru recenzija
+shopping-sidebar-close-button2 =
+    .tooltiptext = Zatvorite provjeru recenzija
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -133,15 +154,25 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Još nema informacija o ovim recenzijama
+shopping-unanalyzed-product-message-2 = Da biste saznali jesu li recenzije ovog proizvoda pouzdane, provjerite kvalitetu recenzije. Traje samo oko 60 sekundi.
 shopping-unanalyzed-product-analyze-button = Provjeri kvalitetu recenzije
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Razmotri još
+ad-by-fakespot = Oglas od { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Pomozite poboljšati { -brand-product-name }
+shopping-survey-question-one = Koliko ste zadovoljni iskustvom s provjerom recenzija za { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Vrlo zadovoljan
+shopping-survey-q1-radio-2-label = Zadovoljan
+shopping-survey-q1-radio-3-label = Neutralan
+shopping-survey-q1-radio-4-label = Nezadovoljan
+shopping-survey-q1-radio-5-label = Vrlo nezadovoljan
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -149,6 +180,8 @@ more-to-consider-ad-label =
 
 shopping-callout-closed-not-opted-in-revised-button = Razumijem
 shopping-callout-not-opted-in-reminder-title = Kupuj s povjerenjem
+shopping-callout-not-opted-in-reminder-subtitle = Niste sigurni jesu li recenzije proizvoda stvarne ili lažne? Provjera recenzija tvrtke { -brand-product-name } može pomoći.
+shopping-callout-not-opted-in-reminder-open-button = Otvorite provjeru recenzija
 shopping-callout-not-opted-in-reminder-close-button = Odbaci
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Nemoj ponovo prikazati
 shopping-callout-not-opted-in-reminder-img-alt =
@@ -156,10 +189,19 @@ shopping-callout-not-opted-in-reminder-img-alt =
 shopping-callout-disabled-auto-open-title = Preglednik recenzija je sada standardno zatvoren
 shopping-callout-disabled-auto-open-subtitle = Klikni ikonu oznake cijene u adresnoj traci kad god želiš vidjeti je li možeš li vjerovati recenzijama proizvoda.
 shopping-callout-disabled-auto-open-button = Razumijem
+shopping-callout-opted-out-title = Provjera recenzija je isključena
+shopping-callout-opted-out-subtitle = Da biste ju uključili, kliknite ikonu oznake cijene u adresnoj traci i slijedite upute.
 shopping-callout-opted-out-button = Razumijem
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Isprobajte naš pouzdani vodič za recenzije proizvoda
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Provjerite koliko su pouzdane recenzije proizvoda na <b>{ $currentSite }</b> prije nego što kupite. Provjera recenzija, eksperimentalna značajka tvrtke { -brand-product-name }, ugrađena je izravno u preglednik. Radi i na <b>{ $secondSite }</b> i <b>{ $thirdSite }</b>.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Označavanjem gumba „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">pravila privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>
 shopping-onboarding-opt-in-button = Da, probaj
 shopping-onboarding-not-now-button = Ne sada
