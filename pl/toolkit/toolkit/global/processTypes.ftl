@@ -47,7 +47,7 @@ process-type-utility-actor-audio-decoder-generic = Narzędziowy standardowy deko
 process-type-utility-actor-audio-decoder-applemedia = Narzędziowy AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Narzędziowy Windows Media Foundation
 process-type-utility-actor-mf-media-engine = Narzędziowy Media Foundation Engine
-process-type-utility-actor-js-oracle = Narzędziowy Oracle języka JavaScript
+process-type-utility-actor-js-oracle = Narzędziowy JavaScript Oracle
 process-type-utility-actor-windows-utils = Narzędziowy narzędzi systemu Windows
 process-type-utility-actor-windows-file-dialog = Narzędziowy okna otwierania pliku w systemie Windows
 
