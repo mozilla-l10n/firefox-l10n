@@ -12,3 +12,7 @@ elevation-finished-page = Oppdatering klar for innstallering
 elevation-finished-background-page = Ei tryggings- og stabilitetsoppdatering for { -brand-short-name } er lasta ned og klar for installering.
 elevation-finished-background = Oppdatering:
 elevation-more-elevated = Denne oppdateringa krev administratorrettar. Opdateringa vil bli installert neste gong { -brand-short-name } vert starta. Du kan starte { -brand-short-name } på nytt no, halde fram med å arbeide og starte på nytt seinare, eller du kan avvise denne opdateringa.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Ikkje vis igjen
+    .accesskey = k
+sandbox-unprivileged-namespaces-howtofix = Korleis du fiksar dette problemet

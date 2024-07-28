@@ -119,6 +119,7 @@ policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, plassering, varsel
 policy-PictureInPicture = Slå på eller av bilde-i-bilde
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
+policy-PrivateBrowsingModeAvailability = Vel tilgjengelegheit for privat nettlesingsmodus.
 policy-PromptForDownloadLocation = Spør kvar nedlasta filer skal lagrast.
 policy-Proxy = Konfigurer proxy-innstillingar.
 policy-RequestedLocales = Vel rekkjefølgja av språk, som skal brukeast i programmet.
