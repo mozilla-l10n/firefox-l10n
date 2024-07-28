@@ -1055,6 +1055,10 @@ file-picker-failed-open = Nie można otworzyć okna wyboru pliku systemu Windows
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Nie można otworzyć okna wyboru pliku systemu Windows. Plik zostanie zapisany jako { $path }.
 file-picker-failed-save-nowhere = Nie można otworzyć okna wyboru pliku systemu Windows. Nie można odnaleźć żadnego folderu domyślnego. Plik nie zostanie zapisany.
+file-picker-crashed-open = Okno wyboru pliku systemu Windows uległo awarii. Nie można wybrać żadnego pliku ani folderu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Okno wyboru pliku systemu Windows uległo awarii. Plik zostanie zapisany jako { $path }.
+file-picker-crashed-save-nowhere = Okno wyboru pliku systemu Windows uległo awarii. Nie można odnaleźć żadnego folderu domyślnego. Plik nie zostanie zapisany.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

@@ -50,7 +50,7 @@ account-connection-title = { -fxaccount-brand-name }
 account-connection-title-2 = Konto
 # Variables:
 #   $deviceName (String): the name of the new device
-account-connection-connected-with = Ten komputer jest teraz połączony z urządzeniem { $deviceName }.
+account-connection-connected-with = Ten komputer jest teraz połączony z „{ $deviceName }”.
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Ten komputer jest teraz połączony z nowym urządzeniem.
 # Used in a notification shown after a Firefox account is connected to the current device.
@@ -65,7 +65,7 @@ account-connection-disconnected = Ten komputer został rozłączony.
 account-single-tab-arriving-title = Przychodząca karta
 # Variables:
 #   $deviceName (String): the device name.
-account-single-tab-arriving-from-device-title = Karta z urządzenia { $deviceName }
+account-single-tab-arriving-from-device-title = Karta z „{ $deviceName }”
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -82,15 +82,15 @@ account-multiple-tabs-arriving-title = Przychodzące karty
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
     { $tabCount ->
-        [one] { $tabCount } karta od „{ $deviceName }”.
-        [few] { $tabCount } karty od „{ $deviceName }”.
-       *[many] { $tabCount } kart od „{ $deviceName }”.
+        [one] { $tabCount } karta z „{ $deviceName }”
+        [few] { $tabCount } karty z „{ $deviceName }”
+       *[many] { $tabCount } kart z „{ $deviceName }”
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
-        [one] { $tabCount } karta od połączonych urządzeń.
-        [few] { $tabCount } karty od połączonych urządzeń.
-       *[many] { $tabCount } kart od połączonych urządzeń.
+        [one] { $tabCount } karta z połączonego urządzenia
+        [few] { $tabCount } karty z połączonych urządzeń
+       *[many] { $tabCount } kart z połączonych urządzeń
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =

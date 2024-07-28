@@ -131,6 +131,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nie pytaj ponownie.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Uwaga
 tabbrowser-confirm-close-duplicate-tabs-text = Ostatnia aktywna karta nie zostanie zamknięta
+tabbrowser-confirm-close-all-duplicate-tabs-title = Czy zamknąć podwójne karty?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Zamkniemy podwójne karty w tym oknie. Ostatnia aktywna
+    karta nie zostanie zamknięta.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Zamknij karty
 
 ##
 
