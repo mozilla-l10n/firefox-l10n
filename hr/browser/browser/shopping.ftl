@@ -173,11 +173,27 @@ shopping-survey-q1-radio-2-label = Zadovoljan
 shopping-survey-q1-radio-3-label = Neutralan
 shopping-survey-q1-radio-4-label = Nezadovoljan
 shopping-survey-q1-radio-5-label = Vrlo nezadovoljan
+shopping-survey-question-two = Olakšava li vam provjera recenzija donošenje odluka o kupnji?
+shopping-survey-q2-radio-1-label = Da
+shopping-survey-q2-radio-2-label = Ne
+shopping-survey-q2-radio-3-label = Ne znam
+shopping-survey-next-button-label = Dalje
+shopping-survey-submit-button-label = Pošalji
+shopping-survey-terms-link = Uvjeti korištenja
+shopping-survey-thanks =
+    .heading = Hvala Vam na Vašim povratnim informacijama!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vratite se na <strong>provjeru recenzija</strong> kad god vidite oznaku s cijenom.
+shopping-callout-pdp-opted-in-title = Jesu li ove recenzije pouzdane? Saznajte brzo.
+shopping-callout-pdp-opted-in-subtitle = Otvorite provjeru recenzija da biste vidjeli prilagođenu ocjenu s uklonjenim nepouzdanim recenzijama. Osim toga, pogledajte istaknute dijelove nedavnih autentičnih recenzija.
+shopping-callout-closed-not-opted-in-title = Jednim klikom do pouzdanih recenzija
+shopping-callout-closed-not-opted-in-subtitle = Isprobajte provjeru recenzija kad god vidite oznaku s cijenom. Brzo steknite uvide od pravih kupaca — prije kupnje.
+shopping-callout-closed-not-opted-in-revised-title = Jednim klikom do pouzdanih recenzija
+shopping-callout-closed-not-opted-in-revised-subtitle = Samo kliknite ikonu oznake cijene u adresnoj traci da biste se vratili na provjeru recenzija.
 shopping-callout-closed-not-opted-in-revised-button = Razumijem
 shopping-callout-not-opted-in-reminder-title = Kupuj s povjerenjem
 shopping-callout-not-opted-in-reminder-subtitle = Niste sigurni jesu li recenzije proizvoda stvarne ili lažne? Provjera recenzija tvrtke { -brand-product-name } može pomoći.
@@ -202,6 +218,11 @@ shopping-onboarding-headline = Isprobajte naš pouzdani vodič za recenzije proi
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Provjerite koliko su pouzdane recenzije proizvoda na <b>{ $currentSite }</b> prije nego što kupite. Provjera recenzija, eksperimentalna značajka tvrtke { -brand-product-name }, ugrađena je izravno u preglednik. Radi i na <b>{ $secondSite }</b> i <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Provjerite koliko su pouzdane recenzije proizvoda na <b>{ $currentSite }</b> prije nego što kupite. Provjera recenzija, eksperimentalna značajka tvrtke { -brand-product-name }, ugrađena je izravno u preglednik.
+shopping-onboarding-body = Koristeći snagu { -fakespot-brand-full-name }, pomažemo vam da izbjegnete pristrane i neautentične recenzije. Naš AI model stalno se poboljšava kako bi vas zaštitio dok kupujete. <a data-l10n-name="learn_more">Saznajte više</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Označavanjem gumba „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">pravila privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>
 shopping-onboarding-opt-in-button = Da, probaj
 shopping-onboarding-not-now-button = Ne sada

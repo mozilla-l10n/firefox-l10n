@@ -268,7 +268,7 @@ appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
     .label = Proširenja za programere
 appmenuitem-report-broken-site =
-    .label = Prijavi pokvarenu web stranicu
+    .label = Prijavi neispravnu stranicu
 
 ## Panel for privacy and security products
 

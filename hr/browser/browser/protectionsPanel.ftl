@@ -106,7 +106,7 @@ protections-panel-content-blocking-manage-settings =
     .label = Upravljaj postavkama zaštite
     .accesskey = U
 protections-panel-content-blocking-breakage-report-view =
-    .title = Prijavi neispravnu web stranicu
+    .title = Prijavi neispravnu stranicu
 protections-panel-content-blocking-breakage-report-view-description = Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti { -brand-short-name } za sve korisnike. Kad pošalješ ove prijavu, Mozilli ćeš poslati URL stranice i informacije o postavkama preglednika. <label data-l10n-name="learn-more">Saznaj više</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
@@ -151,8 +151,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Uključi
 protections-panel-report-broken-site =
-    .label = Prijavi pokvarenu web stranicu
-    .title = Prijavi pokvarenu web stranicu
+    .label = Prijavi neispravnu stranicu
+    .title = Prijavi neispravnu stranicu
 
 ## Protections panel info message
 

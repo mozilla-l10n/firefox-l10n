@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-report-broken-site-mainview-title = Prijavi pokvarenu web stranicu
+report-broken-site-mainview-title = Prijavi neispravnu stranicu
 report-broken-site-panel-header =
-    .label = Prijavi pokvarenu web stranicu
-    .title = Prijavi pokvarenu web stranicu
+    .label = Prijavi neispravnu stranicu
+    .title = Prijavi neispravnu stranicu
 report-broken-site-panel-intro = Pomozite da { -brand-product-name } bude bolji za sve. { -vendor-short-name } koristi podatke koje pošaljete za rješavanje problema s web stranicom.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Što je pokvareno?
@@ -39,5 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Tvoj je izvještaj poslan
     .title = Tvoj je izvještaj poslan
 report-broken-site-panel-report-sent-text = Hvala vam što pomažete { -brand-product-name }u učiniti web otvorenijim, dostupnijim i boljim za sve.
-report-broken-site-panel-invalid-url-label = Upiši ispravni URL
-report-broken-site-panel-missing-reason-label = Odaberi razlog
+report-broken-site-panel-invalid-url-label = Upišite ispravan URL
+report-broken-site-panel-missing-reason-label = Odaberite razlog

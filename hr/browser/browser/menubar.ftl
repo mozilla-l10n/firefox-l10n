@@ -352,4 +352,4 @@ menu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
 menu-report-broken-site =
-    .label = Prijavi pokvarenu stranicu
+    .label = Prijavi neispravnu stranicu
