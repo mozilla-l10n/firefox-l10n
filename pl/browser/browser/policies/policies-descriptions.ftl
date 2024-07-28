@@ -119,6 +119,7 @@ policy-Permissions2 = Konfiguracja uprawnień kamery, mikrofonu, położenia, po
 policy-PictureInPicture = Włączenie lub wyłączenie funkcji „Obraz w obrazie”.
 policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
 policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferencji.
+policy-PrivateBrowsingModeAvailability = Ustawienie dostępności trybu prywatnego.
 policy-PromptForDownloadLocation = Pytanie, gdzie zapisywać pliki podczas pobierania.
 policy-Proxy = Konfiguracja ustawień proxy.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.

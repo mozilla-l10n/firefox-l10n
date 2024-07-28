@@ -52,6 +52,7 @@ about-processes-remote-sandbox-broker-process = Broker zdalnej piaskownicy ({ $p
 about-processes-fork-server-process = Serwer rozdzielania ({ $pid })
 about-processes-preallocated-process = Wstępnie przydzielony ({ $pid })
 about-processes-utility-process = Narzędziowy ({ $pid })
+about-processes-inference-process = Wnioskowanie ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
