@@ -47,7 +47,7 @@ printui-two-sided-printing-long-edge = Preokreni na dužem rubu
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Preokreni na kraćem rubu
 # Section title for miscellaneous print options
-printui-options = Opcije
+printui-options = Mogućnosti
 printui-headers-footers-checkbox = Ispis zaglavlja i podnožja
 printui-backgrounds-checkbox = Ispis pozadine
 

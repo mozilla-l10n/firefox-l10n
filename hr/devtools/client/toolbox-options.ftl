@@ -97,13 +97,15 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Omogući chrome preglednika i alate za otklanjanje grešaka u dodacima
 options-enable-chrome-tooltip =
-    .title = Uključivanje ove opcije će omogućiti korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web programer > Alati preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.
+    .title = Uključivanje ove mogućnosti omogućiti će vam korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web programer > Alati preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogući udaljeno ispravljanje grešaka
+options-enable-remote-tooltip2 =
+    .title = Uključivanjem ove mogućnosti omogućiti će se daljinsko uklanjanje pogrešaka u ovom primjerku preglednika
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kad je alatna traka otvorena)
 options-enable-service-workers-http-tooltip =
-    .title = Uključivanje ove opcije omogućit će korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
+    .title = Uključivanje ove mogućnosti omogućiti će se korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aktiviraj mapiranja izvora
 options-source-maps-tooltip =

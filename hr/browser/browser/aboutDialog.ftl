@@ -6,34 +6,34 @@ aboutDialog-title =
     .title = O { -brand-full-name(case: "loc") }
 releaseNotes-link = Što je novo
 update-checkForUpdatesButton =
-    .label = Traži nove verzije
-    .accesskey = T
+    .label = Provjeri dostupnost dopuna
+    .accesskey = t
 update-updateButton =
     .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name(case: "gen") }
     .accesskey = P
-update-checkingForUpdates = Traženje novih verzija …
+update-checkingForUpdates = Provjera za dopunama…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Preuzimanje nove verzije – <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = Preuzimanje nove verzije –  <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>Preuzimanje nove inačice – <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Preuzimanje nove inačice –  <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
-update-applying = Primjena nove verzije …
-update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
-update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
+update-applying = Primjena dopune…
+update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju inačicu</label>
+update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju inačicu</a>
 update-adminDisabled = Tvoj administrator sustava je deaktivirao aktualiziranja
 update-policy-disabled = Ažuriranja su onemogućena od vaše organizacije
 update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
-aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
+aboutdialog-update-checking-failed = Provjera za dopunama nije uspjela.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nadograđuje jedna druga instanca
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
-aboutdialog-update-manual-with-link = Nove verzije su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+aboutdialog-update-manual-with-link = Nove inačice su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Nove verzije su dostupne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label data-l10n-name="unsupported-link">Saznaj više</label>
 update-restarting = Ponovno pokretanje…

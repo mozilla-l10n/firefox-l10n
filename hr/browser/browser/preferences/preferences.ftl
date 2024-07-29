@@ -408,30 +408,30 @@ play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
     .accesskey = p
 play-drm-content-learn-more = Saznaj više
-update-application-title = Nove { -brand-short-name } verzije
+update-application-title = { -brand-short-name } ažuriranja
 update-application-description = Aktualiziraj { -brand-short-name } za najbolju performancu, stabilnost i sigurnost.
 # Variables:
 # $version (string) - Firefox version
-update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
+update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest nadogradnji …
     .accesskey = P
 update-application-allow-description = Dozvoli { -brand-short-name }u da
 update-application-auto =
-    .label = Automatski instaliraj nove verzije (preporučeno)
+    .label = Automatski instaliraj nove inačice (preporučeno)
     .accesskey = A
 update-application-check-choose =
-    .label = Provjeri dostupnost novih verzija, ali odluči o njihovom instaliranju
+    .label = Provjeri dostupnost novih inačica, ali pitaj prije instalacije
     .accesskey = P
 update-application-manual =
-    .label = Nikada ne provjeravaj dostupnost novih verzija (nije preporučeno)
+    .label = Nikada ne provjeravaj dostupnost novih inačica (nije preporučeno)
     .accesskey = N
 update-application-background-enabled =
     .label = Kada { -brand-short-name } nije pokrenut (w)
     .accesskey = w
 update-application-warning-cross-user-setting = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
 update-application-use-service =
-    .label = Koristi pozadinsku uslugu za instaliranje novih verzija
+    .label = Koristi pozadinsku uslugu za instaliranje novih inačica
     .accesskey = K
 update-application-suppress-prompts =
     .label = Prikaži manje obavijesti o aktualiziranju

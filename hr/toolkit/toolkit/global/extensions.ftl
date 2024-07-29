@@ -35,7 +35,7 @@ webext-perms-sideload-cancel =
     .accesskey = O
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nova dopuštenja prije nego što se aktualizirans verzija instalira. Odabirom opcije „Odustani” zadržat će se trenutačna verzija proširenja. Ovo proširenje imat će dopuštenja za:
+webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nova dopuštenja prije nego što se aktualizirana inačica instalira. Odabirom mogućnosti „Odustani” zadržat će se trenutačna inačica proširenja. Ovo proširenje imati će dopuštenje za:
 webext-perms-update-accept =
     .label = Aktualiziraj
     .accesskey = A

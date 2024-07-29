@@ -87,18 +87,18 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Opcije
-           *[other] Osobitosti
+            [windows] Mogućnosti
+           *[other] Postavke
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] O
-           *[other] t
+            [windows] o
+           *[other] P
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Promijeni opcije ovog dodatka
-           *[other] Promijeni osobitosti ovog dodatka
+            [windows] Promijeni mogućnosti ovog dodatka
+           *[other] Promijeni postavke ovog dodatka
         }
 detail-rating =
     .value = Ocjena
@@ -309,7 +309,7 @@ extension-enable-addon-button-label =
     .aria-label = Omogući
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] Opcije
+        [windows] Mogućnosti
        *[other] Postavke
     }
 details-addon-button = Detalji

@@ -8,7 +8,7 @@
 
 ## Section titles
 
-about-webauthn-options-subsection-title = Opcije autentifikatora
+about-webauthn-options-subsection-title = Mogućnosti autentifikatora
 
 ## Info field texts
 
