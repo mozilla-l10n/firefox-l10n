@@ -296,7 +296,7 @@ quickactions-screenshot3 = Snimi ekran
 quickactions-cmd-screenshot = snimka ekrana
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
-quickactions-cmd-settings = postavke, osobne postavke, opcije
+quickactions-cmd-settings = postavke, osobne postavke, mogućnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
 quickactions-cmd-themes = teme

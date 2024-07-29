@@ -29,7 +29,7 @@ options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Prikaži stilove preglednika
 options-show-user-agent-styles-tooltip =
-    .title = Uključivanjem ove opcije prikazat će se standardni stilovi koje učitava preglednik.
+    .title = Uključivanjem ove mogućnosti prikazat će se standardni stilovi koje učitava preglednik.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrati DOM atribute
 options-collapse-attrs-tooltip =
@@ -89,11 +89,11 @@ options-context-advanced-settings = Napredne postavke
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Onemogući HTTP predmemoriju (kad je otvorena alatna kutija)
 options-disable-http-cache-tooltip =
-    .title = Uključivanjem ove opcije, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova opcije nema utjecaja ne radne procese.
+    .title = Uključivanjem ove mogućnosti, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova mogućnost nema utjecaja na radne procese.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogući JavaScript *
 options-disable-javascript-tooltip =
-    .title = Isključivanje ove opcije će onemogućiti JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
+    .title = Isključivanje ove mogućnosti će onemogućiti JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Omogući chrome preglednika i alate za otklanjanje grešaka u dodacima
 options-enable-chrome-tooltip =

@@ -6,7 +6,7 @@ migration-wizard =
     .title = Čarobnjak uvoza
 import-from =
     { PLATFORM() ->
-        [windows] Uvezi opcije, zabilješke, povijest pretraživanja, lozinke i ostale podatke iz:
+        [windows] Uvezi mogućnosti, zabilješke, povijest pretraživanja, lozinke i ostale podatke iz:
        *[other] Uvezi postavke, zabilješke, povijest, lozinke i ostale podatke iz:
     }
 import-from-bookmarks = Uvezi zabilješke iz:

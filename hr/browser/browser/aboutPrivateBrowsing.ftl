@@ -43,8 +43,8 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } briše tvoju p
 about-private-browsing-search-banner-title = { $engineName } je tvoj zadani pretraživač u privatnim prozorima
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Za odabir jedne druge tražilice, idi na <a data-l10n-name="link-options">Mogućnosti</a>
-       *[other] Za odabir jedne druge tražilice, idi na <a data-l10n-name="link-options">Postavke</a>
+        [windows] Za odabir druge tražilice, idi na <a data-l10n-name="link-options">Mogućnosti</a>
+       *[other] Za odabir druge tražilice, idi na <a data-l10n-name="link-options">Postavke</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zatvori

@@ -66,7 +66,7 @@ fxviewtabrow-unmute-tab = Uključi zvuk kartice
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
-    .title = Opcije za { $tabTitle }
+    .title = Mogućnosti za { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
