@@ -397,8 +397,14 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Pokretanje na stranicama s ograničenjima
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Kada je dopušteno, dodatak će imati pristup stranicama koje je ograničio { -vendor-short-name }. Dopusti samo ako vjeruješ ovom proširenju.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Dozvoli
+addon-detail-quarantined-domains-disallow = Nemoj dopustiti
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -427,6 +433,9 @@ addon-permissions-optional = Opcionalne dozvole za dodatnu funkcionalnost:
 addon-permissions-learnmore = Saznaj više o dozvolama
 recommended-extensions-heading = Preporučeni dodaci
 recommended-themes-heading = Preporučene teme
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = Daje sljedeće mogućnosti <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Želiš drugačiji dizajn? <a data-l10n-name="link">Izradi vlastiti motiv s Firefox Color.</a>
@@ -439,6 +448,7 @@ plugin-heading = Upravljaj priključcima
 dictionary-heading = Upravljaj rječnicima
 locale-heading = Upravljaj jezicima
 updates-heading = Upravljaj nadogradnjama
+sitepermission-heading = Upravljajte svojim dozvolama za stranicu
 discover-heading = Prilagodi svoj { -brand-short-name }
 shortcuts-heading = Upravljaj prečacima dodataka
 default-heading-search-label = Pronađi daljnje dodatke
@@ -458,6 +468,7 @@ details-notification-incompatible = Dodatak { $name } je nekompatibilan s { -bra
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Dodatak { $name } je nekompatibilan s { -brand-short-name } { $version }.
+details-notification-incompatible-link = Više informacija
 details-notification-unsigned-and-disabled = { $name } nije mogao biti verificiran za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nije mogao biti verificiran za rad u { -brand-short-name } te je onemogućen.

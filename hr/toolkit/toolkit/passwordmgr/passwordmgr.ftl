@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Spremiti lozinku za { $host }?
+password-manager-save-password-button-deny =
+    .label = Ne sada
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = Spremi
     .accesskey = S

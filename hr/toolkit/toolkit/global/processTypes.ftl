@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Web sadržaj
 # process used to run privileged about pages,
@@ -17,6 +16,8 @@ process-type-privilegedmozilla = Povlašteni Mozilla sadržaj
 process-type-extension = Dodatak
 # process used to open file:// URLs
 process-type-file = Lokalna datoteka
+# process used to instantiate new child processes
+process-type-forkserver = Fork poslužitelj
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolirani web sadržaj
@@ -28,16 +29,20 @@ process-type-prealloc = Unaprijed alocirano
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
+process-type-default = Glavni
+process-type-tab = Kartica
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Utičnica
+# process used to decode media
+process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Zaključak
 process-type-utility-actor-js-oracle = Uslužni program JavaScript Oracle
 
 ##
 ## Other
-##
 
