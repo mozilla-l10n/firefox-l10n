@@ -1001,6 +1001,10 @@ firefox-relay-offer-legal-notice = En ur glikañ war “Implij an aliaz postel�
 popup-notification-addon-install-unsigned =
     .value = (Nann-gwiriet)
 popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc’h a-zivout staliañ askouezhioù en un doare diogel
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Lañsañ en ur prenestr prevez
+    .accesskey = p
 
 ## Pop-up warning
 
