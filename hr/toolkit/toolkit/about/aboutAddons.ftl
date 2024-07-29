@@ -310,7 +310,7 @@ extension-enable-addon-button-label =
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opcije
-       *[other] Mogućnosti
+       *[other] Postavke
     }
 details-addon-button = Detalji
 release-notes-addon-button = Napomene o izdanju
