@@ -1161,7 +1161,7 @@ content-blocking-all-cookies = Всички бисквитки
 content-blocking-unvisited-cookies = Бисквитки от непосетени страници
 content-blocking-all-windows-tracking-content = Проследяващо съдържание във всички прозорци
 content-blocking-all-cross-site-cookies = Всички междусайтови бисквитки
-content-blocking-cryptominers = Добиване на криптовалути
+content-blocking-cryptominers = Скриптове за добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
@@ -1198,7 +1198,7 @@ content-blocking-expand-section =
     .tooltiptext = Повече информация
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Добиване на криптовалути
+    .label = Скриптове за добиване на криптовалути
     .accesskey = к
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
