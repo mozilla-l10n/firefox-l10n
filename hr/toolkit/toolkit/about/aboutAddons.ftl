@@ -37,7 +37,7 @@ show-unsigned-extensions-button =
 show-all-extensions-button =
     .label = Prikaži sva proširenja
 detail-version =
-    .label = Verzija
+    .label = Inačica
 detail-last-updated =
     .label = Zadnje aktualiziranje
 addon-detail-description-expand = Prikaži više
@@ -81,9 +81,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Traži nove verzije
-    .accesskey = T
-    .tooltiptext = Traži nove verzije za ovaj dodatak
+    .label = Provjeri dostupnost dopuna
+    .accesskey = u
+    .tooltiptext = Traži nove inačice za ovaj dodatak
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -133,9 +133,9 @@ addon-category-dictionary-title =
 addon-category-locale = Jezici
 addon-category-locale-title =
     .title = Jezici
-addon-category-available-updates = Dostupne nove verzije
+addon-category-available-updates = Dostupne dopune
 addon-category-available-updates-title =
-    .title = Dostupne nove verzije
+    .title = Dostupne dopune
 addon-category-recent-updates = Nedavna aktualiziranja
 addon-category-recent-updates-title =
     .title = Nedavna aktualiziranja
@@ -168,8 +168,8 @@ extensions-warning-imported-addons-button = Instaliraj proširenja
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Traži nove verzije
-    .accesskey = T
+addon-updates-check-for-updates = Provjeri dostupnost dopuna
+    .accesskey = P
 addon-updates-view-updates = Prikaži nedavna aktualiziranja
     .accesskey = P
 
@@ -194,8 +194,8 @@ addon-updates-reset-updates-to-manual = Postavi ručno aktualiziranje za sve dod
 
 addon-updates-updating = Aktualiziranje dodataka
 addon-updates-installed = Tvoji su dodaci aktualizirani.
-addon-updates-none-found = Nema novih verzija
-addon-updates-manual-updates-found = Prikaži dostupne nove verzije
+addon-updates-none-found = Nisu pronađene dopune
+addon-updates-manual-updates-found = Prikaži dostupne dopune
 
 ## Add-on install/debug strings for page options menu
 
@@ -330,7 +330,7 @@ sitepermission-disabled-heading = Onemogućeno
 always-activate-button = Uvijek aktiviraj
 never-activate-button = Nikada ne aktiviraj
 addon-detail-author-label = Autor
-addon-detail-version-label = Verzija
+addon-detail-version-label = Inačica
 addon-detail-last-updated-label = Zadnje aktualiziranje
 addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena
@@ -373,7 +373,7 @@ addon-detail-updates-label = Dozvoli automatska aktualiziranja
 addon-detail-updates-radio-default = Standardno
 addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
-addon-detail-update-check-label = Traži nove verzije
+addon-detail-update-check-label = Provjeri dostupnost dopuna
 install-update-button = Aktualiziraj
 # aria-label associated to the updates row to help screen readers to announce the group
 # of input controls being entered.
@@ -423,7 +423,7 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = Dostupne nove verzije
+available-updates-heading = Dostupne dopune
 recent-updates-heading = Nedavna aktualiziranja
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
