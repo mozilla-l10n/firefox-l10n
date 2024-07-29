@@ -41,8 +41,18 @@ process-type-socket = Utičnica
 process-type-rdd = RDD
 # process used to run inference
 process-type-inference = Zaključak
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Sandboxed IPC Actor
+process-type-utility-actor-audio-decoder-generic = Uslužni program standardni audio dekoder
+process-type-utility-actor-audio-decoder-applemedia = Uslužni program AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Uslužni program Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Uslužni program Media Foundation Engine
 process-type-utility-actor-js-oracle = Uslužni program JavaScript Oracle
+process-type-utility-actor-windows-utils = Uslužni program Windows Utils
+process-type-utility-actor-windows-file-dialog = Uslužni program dijaloški okvir Windows datoteke
 
 ##
 ## Other
 
+# fallback
+process-type-unknown = Nepoznato
