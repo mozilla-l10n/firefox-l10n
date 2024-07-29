@@ -42,6 +42,15 @@ pdfjs-print-button-label = Ispiši
 pdfjs-save-button =
     .title = Spremi
 pdfjs-save-button-label = Spremi
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Preuzimanja
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Preuzimanja
+pdfjs-bookmark-button =
+    .title = Trenutna stranica (pogledajte URL s trenutne stranice)
+pdfjs-bookmark-button-label = Trenutna stranica
 
 ##  Secondary toolbar and context menu
 
@@ -66,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Omogući ručni alat
 pdfjs-cursor-hand-tool-button-label = Ručni alat
+pdfjs-scroll-page-button =
+    .title = Koristi klizanje stranice
+pdfjs-scroll-page-button-label = Klizanje stranice
 pdfjs-scroll-vertical-button =
     .title = Koristi okomito pomicanje
 pdfjs-scroll-vertical-button-label = Okomito pomicanje
@@ -204,6 +216,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Dalje
 pdfjs-find-highlight-checkbox = Istankni sve
 pdfjs-find-match-case-checkbox-label = Razlikovanje velikih i malih slova
+pdfjs-find-match-diacritics-checkbox-label = Razlikuj dijakritičke znakove
 pdfjs-find-entire-word-checkbox-label = Cijele riječi
 pdfjs-find-reached-top = Dosegnut početak dokumenta, nastavak s kraja
 pdfjs-find-reached-bottom = Dosegnut kraj dokumenta, nastavak s početka

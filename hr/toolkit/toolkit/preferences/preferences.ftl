@@ -4,17 +4,16 @@
 
 password-not-set =
     .value = (nije postavljeno)
-
 failed-pp-change = Nije moguće promijeniti primarnu lozinku.
 incorrect-pp = Trenutačna glavna lozinka nije točno upisana. Pokušaj ponovo.
 pp-change-ok = Primarna lozinka uspješno je promijenjena.
-
+settings-pp-erased-ok = Obrisali ste svoju primarnu lozinku. Pohranjene lozinke i privatni ključevi certifikata kojima upravlja { -brand-short-name } neće biti zaštićeni.
+settings-pp-not-wanted = Upozorenje! Odlučili ste ne koristiti primarnu lozinku. Pohranjene lozinke i privatni ključevi certifikata kojima upravlja { -brand-short-name } neće biti zaštićeni.
 pp-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS ne dopušta praznu primarnu lozinku.
 pw-change-success-title = Promjena lozinke je uspjela
 pw-change-failed-title = Promjena lozinke nije uspjela
 pw-remove-button =
     .label = Ukloni
-
 primary-password-dialog =
     .title = Primarna lozinka
 set-password-old-password = Trenutačna lozinka:
@@ -22,11 +21,10 @@ set-password-new-password = Upiši novu lozinku:
 set-password-reenter-password = Ponovo upiši novu lozinku:
 set-password-meter = Mjerač kvalitete lozinke
 set-password-meter-loading = Učitavanje
-
 primary-password-admin = Za spremanje prijava i lozinki, administrator zahtijeva da se postavi primarna lozinka.
+primary-password-required-by-policy = Za spremanje prijava i lozinki, vašaa organizacija zahtijeva da se postavi primarna lozinka.
 primary-password-description = Primarna lozinka koristi se za zaštitu nekih osjetljivih podataka, poput prijava i lozinki, na ovom uređaju. Ako izradiš primarnu lozinku, { -brand-short-name } će zatražiti njen unos jednom po sesiji kada dohvaća spremljene informacije koje su zaštićene primarnom lozinkom.
 primary-password-warning = Važno je zapamtiti postavljenu primarnu lozinku. Ako ju zaboraviš, nećeš moći pristupiti informacijama koje štiti na ovom uređaju.
-
 remove-primary-password =
     .title = Ukloni primarnu lozinku
 remove-info =
