@@ -220,6 +220,23 @@ pdfjs-find-match-diacritics-checkbox-label = Razlikuj dijakritičke znakove
 pdfjs-find-entire-word-checkbox-label = Cijele riječi
 pdfjs-find-reached-top = Dosegnut početak dokumenta, nastavak s kraja
 pdfjs-find-reached-bottom = Dosegnut kraj dokumenta, nastavak s početka
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { NUMBER($total) ->
+        [one] { $current } od { $total } rezultata
+        [few] { $current } od { $total } rezultata
+       *[other] { $current } od { $total } rezultata
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { NUMBER($limit) ->
+        [one] Više od { $limit } rezultat
+        [few] Više od { $limit } rezultata
+       *[other] Više od { $limit } rezultata
+    }
 pdfjs-find-not-found = Izraz nije pronađen
 
 ## Predefined zoom values
@@ -274,9 +291,30 @@ pdfjs-web-fonts-disabled = Web fontovi su deaktivirani: nije moguće koristiti u
 pdfjs-editor-free-text-button =
     .title = Tekst
 pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Crtanje
+pdfjs-editor-ink-button-label = Crtanje
+pdfjs-editor-stamp-button =
+    .title = Dodajte ili uredite slike
+pdfjs-editor-stamp-button-label = Dodajte ili uredite slike
+pdfjs-editor-highlight-button =
+    .title = Istakni
+pdfjs-editor-highlight-button-label = Istakni
+pdfjs-highlight-floating-button1 =
+    .title = Istakni
+    .aria-label = Istakni
+pdfjs-highlight-floating-button-label = Istakni
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = Ukloni crtež
+pdfjs-editor-remove-freetext-button =
+    .title = Ukloni tekst
+pdfjs-editor-remove-stamp-button =
+    .title = Ukloni sliku
+pdfjs-editor-remove-highlight-button =
+    .title = Ukloni isticanje
 
 ##
 
@@ -289,9 +327,17 @@ pdfjs-editor-ink-opacity-input = Neprozirnost
 pdfjs-editor-stamp-add-image-button =
     .title = Dodaj sliku
 pdfjs-editor-stamp-add-image-button-label = Dodaj sliku
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Debljina
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Promjeni debljinu pri isticanju drugih stavki osim teksta
 pdfjs-free-text =
     .aria-label = Uređivač teksta
 pdfjs-free-text-default-content = Počni tipkati …
+pdfjs-ink =
+    .aria-label = Uređivač crteža
+pdfjs-ink-canvas =
+    .aria-label = Slika koju je izradio korisnik
 
 ## Alt-text dialog
 
@@ -314,9 +360,33 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Gornji lijevi kut — promijenite veličinu
+pdfjs-editor-resizer-label-top-middle = Gore sredina — promijenite veličinu
+pdfjs-editor-resizer-label-top-right = Gornji desni kut — promijenite veličinu
+pdfjs-editor-resizer-label-middle-right = Sredina desno — promijenite veličinu
+pdfjs-editor-resizer-label-bottom-right = Donji desni kut — promijenite veličinu
+pdfjs-editor-resizer-label-bottom-middle = Dolje sredina — promjenite veličinu
+pdfjs-editor-resizer-label-bottom-left = Donji lijevi kut — promijenite veličinu
+pdfjs-editor-resizer-label-middle-left = Sredina lijevo — promijenite veličinu
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Boja isticanja
+pdfjs-editor-colorpicker-button =
+    .title = Promjeni boju
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Izbor boja
+pdfjs-editor-colorpicker-yellow =
+    .title = Žuta
+pdfjs-editor-colorpicker-green =
+    .title = Zelena
+pdfjs-editor-colorpicker-blue =
+    .title = Plava
+pdfjs-editor-colorpicker-pink =
+    .title = Ružičasta
+pdfjs-editor-colorpicker-red =
+    .title = Crvena
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
