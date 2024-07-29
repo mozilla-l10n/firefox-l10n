@@ -142,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Dozvole web-mjesta
 addon-category-sitepermission-title =
     .title = Dozvole web-mjesta
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Dozvole stranice za { $host }
 
 ## These are global warnings
 
@@ -158,6 +162,8 @@ extensions-warning-update-security2 =
     .message = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security-button = Aktiviraj
     .title = Aktiviraj provjeru sigurnosti aktualiziranja dodataka
+extensions-warning-imported-addons2 =
+    .message = Završite instaliranje dodataka uvezenih u { -brand-short-name }.
 extensions-warning-imported-addons-button = Instaliraj proširenja
 
 ## Strings connected to add-on updates
@@ -209,6 +215,9 @@ shortcuts-no-addons = Nemaš aktiviranih proširenja.
 shortcuts-no-commands = Sljedeći dodaci nemaju prečace:
 shortcuts-input =
     .placeholder = Upišite prečac
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Ukloni prečac
 shortcuts-browserAction2 = Aktiviraj tipku na alatnoj traci
 shortcuts-pageAction = Aktiviraj radnju stranice
 shortcuts-sidebarAction = Prikaži/sakrij bočnu traku
@@ -309,6 +318,7 @@ permissions-addon-button = Dozvole
 extension-enabled-heading = Aktivirano
 extension-disabled-heading = Onemogućeno
 theme-enabled-heading = Aktivirano
+theme-disabled-heading2 = Spremljene teme
 plugin-enabled-heading = Aktivirano
 plugin-disabled-heading = Onemogućeno
 dictionary-enabled-heading = Aktivirano
@@ -377,10 +387,16 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Kad je dopušteno, dodatak će imati pristup tvojim aktivnostima dok si u privatnom pretraživanju. <a data-l10n-name="learn-more">Saznaj više</a>
 addon-detail-private-browsing-allow = Dozvoli
 addon-detail-private-browsing-disallow = Nemoj dozvoliti
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Pokretanje na stranicama s ograničenjima
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Dozvoli
 
