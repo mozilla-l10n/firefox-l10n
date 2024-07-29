@@ -291,6 +291,7 @@ newtab-wallpaper-dark-mountain = Menezioù
 newtab-wallpaper-blue = Glas
 newtab-wallpaper-light-blue = Glas sklaer
 newtab-wallpaper-light-purple = Limestra sklaer
+newtab-wallpaper-light-green = Gwer sklaer
 newtab-wallpaper-green = Gwer
 newtab-wallpaper-yellow = Melen
 newtab-wallpaper-orange = Orañjez
@@ -300,9 +301,14 @@ newtab-wallpaper-red = Ruz
 newtab-wallpaper-dark-blue = Glas teñval
 newtab-wallpaper-dark-purple = Limestra teñval
 newtab-wallpaper-dark-green = Gwer teñval
+newtab-wallpaper-brown = Gell
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Difetis
+newtab-wallpaper-abstract-green = Furmoù gwer
+newtab-wallpaper-abstract-blue = Furmoù glas
+newtab-wallpaper-abstract-purple = Furmoù limestra
 newtab-wallpaper-abstract-orange = Furmoù orañjez
 newtab-wallpaper-abstract-blue-purple = Furmoù limestra hag orañjez
 
@@ -320,6 +326,10 @@ newtab-wallpaper-white-mountains = Menezioù gwenn
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto gant <a data-l10n-name="name-link">{ $author_string }</a> war <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-button = Komprenet am eus
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Argas
+    .aria-label = Serriñ an diflugell
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
