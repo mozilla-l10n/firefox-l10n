@@ -48,21 +48,32 @@ neterror-dns-not-found-with-suggestion = Jesi li mislili ići na <a data-l10n-na
 neterror-dns-not-found-hint-header = <strong>Ako ste upisali ispravnu adresu, možete:</strong>
 neterror-dns-not-found-hint-try-again = Pokušaj kasnije ponovo
 neterror-dns-not-found-hint-check-network = Provjeriti svoju internet vezu
+neterror-dns-not-found-hint-firewall = Provjeriti ima li { -brand-short-name } dozvolu za pristup webu (možda veza postoji, ali iza vatrozida)
 
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg pouzdanog DNS pružatelja. Evo zašto:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg sigurnog DNS pružatelja. Evo zašto:
+neterror-dns-not-found-trr-third-party-warning2 = Možete nastaviti sa svojim zadanim DNS pružateljem. Međutim, treća strana bi mogla vidjeti koje web stranice posjećujete.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Povezivanje s { $trrDomain } je trajalo je duže od očekivanog.
 neterror-dns-not-found-trr-offline = Nisi povezan/a na internet.
+neterror-dns-not-found-trr-unknown-host2 = Ovu web stranicu nije pronašao { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Došlo je do problema s { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = Neispravan URL.
+neterror-dns-not-found-trr-unknown-problem = Neočekivani problem.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg pouzdanog DNS pružatelja. Evo zašto:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg sigurnog DNS pružatelja. Evo zašto:
+neterror-dns-not-found-native-fallback-heuristic = DNS preko HTTPS je onemogućen na vašoj mreži.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 
 ##
 
