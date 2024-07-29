@@ -25,7 +25,10 @@ neterror-return-to-previous-page-button = Idi natrag
 neterror-return-to-previous-page-recommended-button = Natrag (preporučeno)
 neterror-try-again-button = Pokušaj ponovo
 neterror-add-exception-button = Uvijek nastavi za ovu stranicu
+neterror-settings-button = Promjena DNS postavki
 neterror-view-certificate-link = Pregled certifikata
+neterror-trr-continue-this-time = Nastavi ovaj put
+neterror-disable-native-feedback-warning = Uvijek nastavi
 
 ##
 
@@ -39,7 +42,12 @@ neterror-load-error-try-again = Ova je stranica privremeno nedostupna ili prezau
 neterror-load-error-connection = Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.
 neterror-load-error-firewall = Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristup internetu.
 neterror-captive-portal = Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Jesi li mislili ići na <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ako ste upisali ispravnu adresu, možete:</strong>
 neterror-dns-not-found-hint-try-again = Pokušaj kasnije ponovo
+neterror-dns-not-found-hint-check-network = Provjeriti svoju internet vezu
 
 ## TRR-only specific messages
 ## Variables:
