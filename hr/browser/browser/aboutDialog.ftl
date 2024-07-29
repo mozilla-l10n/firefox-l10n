@@ -10,7 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = T
 update-updateButton =
     .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name(case: "gen") }
-    .accesskey = R
+    .accesskey = P
 update-checkingForUpdates = Traženje novih verzija …
 
 ## Variables:
