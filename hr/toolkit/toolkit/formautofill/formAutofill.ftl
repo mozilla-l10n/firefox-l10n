@@ -5,17 +5,45 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = koristi spremljene podatke o načinu plaćanja
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } pokušava koristiti spremljene podatke o načinu plaćanja. U nastavku potvrdi pristup ovom Windows računu.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } pokušava koristiti spremljene podatke o načinu plaćanja.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = prikaži spremljene podatke o načinu plaćanja.
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } pokušava prikazati spremljene podatke o načinu plaćanja. U nastavku potvrdi pristup ovom Windows računu.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } pokušava prikazati spremljene podatke o načinu plaćanja.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opcije automatskog popunjavanja obrazaca
 autofill-options-link-osx = Postavke automatskog popunjavanja obrazaca
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sinkroniziraj sve spremljene kartice na moje uređaje
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Sigurno spremi ovu karticu?
+credit-card-save-doorhanger-description = { -brand-short-name } šifrira broj vaše kartice. Vaš sigurnosni kod neće biti spremljen.
+credit-card-capture-save-button =
+    .label = Spremi
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Ne sada
+    .accessKey = e
+credit-card-capture-never-save-button =
+    .label = Nikad ne spremaj kartice
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Aktualizirati kreditnu karticu?
 credit-card-update-doorhanger-description = Kreditna kartica za aktualiziranje:
+credit-card-capture-save-new-button =
+    .label = Spremi kao novu karticu
+    .accessKey = c
 credit-card-capture-update-button =
     .label = AKtualiziraj postojeću kreditnu karticu
     .accessKey = A
@@ -23,6 +51,8 @@ credit-card-capture-update-button =
 autofill-clear-form-label = Izbriši automatski ispunjen obrazac
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Upravljaj adresama
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Upravljanje načinima plaćanja
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
