@@ -293,7 +293,7 @@ find-more-themes = Pronađi više tema
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
-    .aria-label = Više opcija
+    .aria-label = Više mogućnosti
 
 ## Add-on actions
 
