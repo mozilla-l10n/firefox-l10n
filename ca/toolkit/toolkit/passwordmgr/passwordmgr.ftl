@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Voleu desar la contrasenya per a { $host }?
+password-manager-save-password-button-deny =
+    .label = Ara no
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Desa
     .accesskey = D

@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Afegeix una adreça
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edita l'adreça
-autofill-address-name = Nom
 autofill-address-given-name = Nom
 autofill-address-additional-name = Segon nom
 autofill-address-family-name = Cognoms
+autofill-address-name = Nom
 autofill-address-organization = Organització
 autofill-address-street-address = Adreça postal
 autofill-address-street = Adreça postal
@@ -106,9 +106,6 @@ autofill-address-eircode = Codi postal (Eircode)
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Afegeix una adreça nova
 autofill-address-country = País o regió
@@ -126,9 +123,9 @@ autofill-edit-card-title = Edita la targeta de crèdit
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
     { PLATFORM() ->
-        [macos] mostrar informació d'una targeta de crèdit
-        [windows] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit. Confirmeu l'accés a aquest compte del Windows a continuació.
-       *[other] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit.
+        [macos] mostrar la informació de targetes de crèdit
+        [windows] El { -brand-short-name } està provant de mostrar la informació de targetes de crèdit. Confirmeu l'accés a aquest compte del Windows a continuació.
+       *[other] El { -brand-short-name } està provant de mostrar la informació de targetes de crèdit.
     }
 autofill-message-tooltip = Mostra el missatge sobre l'emplenament automàtic
 # The dialog title for creating credit cards in browser preferences.

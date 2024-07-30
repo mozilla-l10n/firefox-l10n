@@ -8,12 +8,25 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = utilitzar la informació emmagatzemada de formes de pagament
+autofill-use-payment-method-os-prompt-windows = El { -brand-short-name } està provant d'utilitzar la informació emmagatzemada de formes de pagament. Confirmeu l'accés a aquest compte del Windows a continuació.
+autofill-use-payment-method-os-prompt-other = El { -brand-short-name } està provant d'utilitzar la informació emmagatzemada de formes de pagament.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = mostrar la informació emmagatzemada de formes de pagament
+autofill-edit-payment-method-os-prompt-windows = El { -brand-short-name } està provant de mostrar la informació emmagatzemada de formes de pagament. Confirmeu l'accés a aquest compte del Windows a continuació.
+autofill-edit-payment-method-os-prompt-other = El { -brand-short-name } està provant de mostrar la informació emmagatzemada de formes de pagament.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opcions d'emplenament automàtic de formularis
 autofill-options-link-osx = Preferències d'emplenament automàtic de formularis
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronitza totes les targetes desades en els meus dispositius
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Voleu desar aquesta targeta de forma segura?
+credit-card-save-doorhanger-description = El { -brand-short-name } xifra el número de la targeta. El codi de seguretat no es desarà.
 credit-card-capture-save-button =
     .label = Desa
     .accessKey = D
