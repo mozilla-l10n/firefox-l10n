@@ -1171,7 +1171,7 @@ content-blocking-known-and-suspected-fingerprinters = Познати и подо
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Цялостната защита на бисквитките изолира бисквитките само до страницата на която сте, така че механизмите за проследяване да не могат да ви проследят в различни сайтове.
+content-blocking-etp-standard-tcp-rollout-description = Цялостната защита изолира бисквитките само до страницата която посещавате, така че  проследяващите скриптове да не могат ви следват в други сайтове.
 content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
 content-blocking-etp-standard-tcp-title = Включва цялостна защита на бисквитките, най-мощната ни поверителна функция
 content-blocking-warning-title = Внимание!
