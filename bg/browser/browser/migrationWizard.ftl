@@ -110,7 +110,11 @@ migration-bookmarks-from-file-html-filter-title =
        *[other] HTML файл
     }
 migration-import-button-label = Внасяне
+migration-choose-to-import-from-file-button-label = Внасяне от файл
+migration-import-from-file-button-label = Изберете Файл
+migration-cancel-button-label = Отказ
 migration-done-button-label = Готово
+migration-continue-button-label = Продължи
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -118,9 +122,12 @@ migration-done-button-label = Готово
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = отметки
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = любими
+migration-list-password-label = пароли
+migration-list-history-label = история
 
 ##
 
