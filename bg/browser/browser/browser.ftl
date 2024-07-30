@@ -1036,6 +1036,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-save-nowhere = Файловият диалогов прозорец на Windows не може да бъде отворен. Не може да бъде намерена папка по подразбиране; файлът няма да бъде записан.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Файловият диалогов прозорец на Windows се срина. Файлът ще бъде запазен в { $path }.
 

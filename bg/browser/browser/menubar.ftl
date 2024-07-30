@@ -239,6 +239,9 @@ menu-bookmark-tab =
     .label = Отмятане на текущия раздел…
 menu-edit-bookmark =
     .label = Промяна на отметка…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Търсене в отметките
 menu-bookmarks-all-tabs =
     .label = Отмятане на всички раздели…
 menu-bookmarks-toolbar =
@@ -332,6 +335,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Изкл. режим за отстраняване на неизправности
     .accesskey = м
+menu-help-switch-device =
+    .label = Преминаване към ново устройство
+    .accesskey = у
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -152,6 +152,10 @@ mr2022-background-update-toast-secondary-button-label = Напомни ми по
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Опитайте
+    .accesskey = й
+firefoxview-cfr-secondarybutton = Не сега
+    .accesskey = Н
 
 ## Firefox View Spotlight
 
@@ -202,11 +206,17 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-infobar-message = <strong>Да се отваря ли { -brand-short-name } всеки път, когато рестартирате Вашия компютър?</strong> Вече имате възможността да настроите { -brand-short-name } да тръгва автоматично при рестартиране на устройството.
+launch-on-login-learnmore = Научете повече
+launch-on-login-infobar-reject-button = Не сега
+    .accesskey = Н
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
 launch-on-login-infobar-final-message = <strong>Да се отваря ли { -brand-short-name } всеки път, когато рестартирате компютъра?</strong> За да управлявате предпочитанията си при стартиране, потърсете „Стартиране“ в настройките.
+launch-on-login-infobar-final-reject-button = Не, благодаря
+    .accesskey = Н
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-secondary-button = Не сега
