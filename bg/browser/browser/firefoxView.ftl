@@ -58,7 +58,9 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = Включете син�
 firefoxview-tabpickup-password-locked-header = Въведете вашата главна парола, за да видите разделите
 firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Научете повече</a>
 firefoxview-tabpickup-signed-out-header = Впишете се, за да се свържете отново
+firefoxview-tabpickup-signed-out-description2 = За да се свържете отново и да отворите вашите раздели, първо влезте в профила си.
 firefoxview-tabpickup-signed-out-primarybutton = Вписване
 firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
 firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-name } за мобилни устройства
@@ -151,7 +153,7 @@ firefoxview-search-text-box-syncedtabs =
     .placeholder = Търсене в синхронизираните раздели
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
-    .placeholder = Търсене в отворени раздели
+    .placeholder = Търсене в отворените раздели
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -169,6 +171,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Няма резултати за „{ $query }“
 firefoxview-sort-history-by-date-label = Сортиране по дата
 firefoxview-sort-history-by-site-label = Сортиране по страница
+firefoxview-sort-open-tabs-by-recency-label = Сортиране по последна активност
 firefoxview-sort-open-tabs-by-order-label = Сортиране по ред на раздели
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
@@ -235,6 +238,9 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Превключване към { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Превключване към (Отметки) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
