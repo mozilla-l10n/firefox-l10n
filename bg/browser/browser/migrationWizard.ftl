@@ -59,10 +59,19 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 
 migration-select-all-option-label = Избиране на всичко
 migration-bookmarks-option-label = Отметки
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Любими
+migration-logins-and-passwords-option-label = Запазени регистрации и пароли
 migration-passwords-option-label = Запазени пароли
+migration-history-option-label = История на сърфирането
+migration-extensions-option-label = Разширения
+migration-payment-methods-option-label = Начини на плащане
 migration-cookies-option-label = Бисквитки
 migration-session-option-label = Прозорци и раздели
 migration-otherdata-option-label = Други данни
+migration-passwords-from-file-progress-header = Внасяне на файл с пароли
+migration-passwords-from-file-success-header = Паролите бяха успешно внесени
 migration-passwords-new = Нови пароли
 migration-passwords-updated = Съществуващи пароли
 migration-passwords-from-file-picker-title = Внасяне на файл с пароли
@@ -79,6 +88,16 @@ migration-passwords-from-file-tsv-filter-title =
     { PLATFORM() ->
         [macos] Документ на TSV
        *[other] Файл на TSV
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { NUMBER($newEntries) ->
+        [one] { $newEntries } добавена
+       *[other] { $newEntries } добавени
     }
 migration-bookmarks-from-file-picker-title = Внасяне на файл с отметки
 migration-bookmarks-from-file-progress-header = Внасяне на отметки

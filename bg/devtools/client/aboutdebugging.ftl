@@ -152,6 +152,13 @@ about-debugging-runtime-service-workers-not-compatible = Настройките 
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Свързаният браузър е стара версия ({ $runtimeVersion }). Минимално поддържаната версия е ({ $minVersion }). Настройките по-долу не се поддържат и могат да доведат до неуспех на DevTools. Моля, актуализирайте свързания браузър. <a>Отстраняване</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Свързаният браузър е по-нов ({ $runtimeVersion }, buildID { $runtimeID }) отколкото вашият { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Тази комбинация не се поддържа и е възможно инструментите за разработчици да покажат грешка. Моля, обновете Firefox. <a>Отстраняване на грешки</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

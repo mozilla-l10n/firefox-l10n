@@ -8,6 +8,7 @@ sync-disconnect-dialog-body = { -brand-product-name } ще спре синхро
 sync-disconnect-dialog-button = Изключване
 fxa-signout-dialog2-title = Излизане от { -fxaccount-brand-name }?
 fxa-signout-dialog2-button = Излизане
+fxa-signout-dialog2-checkbox = Изтриване на данни от това устройство (пароли, история, отметки и др.)
 fxa-menu-connect-another-device =
     .label = Добавяне на устройство…
 # Variables:
