@@ -150,7 +150,7 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Rejtariki zacyni�
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Powěźeńki dowóliś ako tós tu wót { $domain }, aby k wótpowědnemu rejtarkoju dójšeł
+    .label = Powěźeńki dowóliś ako tós tu wót { $domain }, aby k wótpowědnemu rejtarikoju dojšeł
 tabbrowser-customizemode-tab-title = { -brand-short-name } pśiměriś
 
 ## Context menu buttons, of which only one will be visible at a time

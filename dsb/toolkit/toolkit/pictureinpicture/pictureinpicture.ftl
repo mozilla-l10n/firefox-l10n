@@ -7,6 +7,7 @@ pictureinpicture-player-title = Wobraz-we-wobrazu
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Wótgraś
     .tooltip = Wótgraś (wobceŕkowa rědka)
-
 pictureinpicture-mute-btn =
     .aria-label = Bźez zuka
     .tooltip = Bźez zuka ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Ze zukom
     .tooltip = Ze zukom ({ $shortcut })
-
 pictureinpicture-unpip-btn =
-    .aria-label = K rejtarkoju slědk pósłaś
+    .aria-label = K rejtarikoju slědk pósłaś
     .tooltip = Slědk k rejtarikoju
-
 pictureinpicture-close-btn =
     .aria-label = Zacyniś
     .tooltip = Zacyniś ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Pódtitele
     .tooltip = Pódtitele
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Połna wobrazowka
     .tooltip = Połna wobrazowka (klikniśo dwójcy abo wužywajśo { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Połnu wobrazowku spušćiś
     .tooltip = Połnu wobrazowku spušćiś (klikniśo dwójcy abo wužywajśo { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Slědk
     .tooltip = Slědk (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Doprědka
     .tooltip = Doprědka (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Nastajenja pódtitelow
-
 pictureinpicture-subtitles-label = Pódtitele
-
 pictureinpicture-font-size-label = Pismowa wjelikosć
-
 pictureinpicture-font-size-small = Mały
-
 pictureinpicture-font-size-medium = Srjejźny
-
 pictureinpicture-font-size-large = Wjeliki
