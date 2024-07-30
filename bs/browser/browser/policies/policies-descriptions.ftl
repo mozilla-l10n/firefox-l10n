@@ -119,6 +119,7 @@ policy-Permissions2 = Konfigurirajte dozvole za kameru, mikrofon, lokaciju, obav
 policy-PictureInPicture = Omogućite ili onemogućite Slika u slici.
 policy-PopupBlocking = Dozvolite određenim web stranicama da prikazuju iskačuće prozore prema zadanim postavkama.
 policy-Preferences = Postavite i zaključajte vrijednost za podskup preferencija.
+policy-PrivateBrowsingModeAvailability = Podesite dostupnost režima privatnog pretraživanja.
 policy-PromptForDownloadLocation = Pitajte gdje da sačuvate datoteke prilikom preuzimanja.
 policy-Proxy = Konfigurišite postavke proxyja.
 policy-RequestedLocales = Postavite listu traženih lokaliteta za aplikaciju prema željenom redoslijedu.

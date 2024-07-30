@@ -5,10 +5,13 @@
 containers-window-new2 =
     .title = Dodaj novi Container
     .style = min-width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Postavke kontejnera { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Naziv
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Unesite naziv containera
-
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Boja
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Gotovo
     .buttonaccesskeyaccept = G
-
 containers-color-blue =
     .label = Plava
 containers-color-turquoise =
@@ -55,7 +52,10 @@ containers-color-pink =
     .label = Roza
 containers-color-purple =
     .label = Ljubičasta
-
+containers-color-toolbar =
+    .label = Traka s alatima za podudaranje
+containers-icon-fence =
+    .label = Ograda
 containers-icon-fingerprint =
     .label = Otisak prsta
 containers-icon-briefcase =
