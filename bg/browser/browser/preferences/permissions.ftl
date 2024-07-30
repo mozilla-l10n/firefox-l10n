@@ -12,6 +12,9 @@ permissions-address = Адрес на страница
 permissions-block =
     .label = Забраняване
     .accesskey = З
+permissions-disable-etp =
+    .label = Добавяне на изключениe
+    .accesskey = и
 permissions-session =
     .label = Разрешаване за сесията
     .accesskey = с
@@ -174,3 +177,7 @@ permissions-site-microphone-disable-desc = По този начин ще поп�
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-desc = Следните сайтове са искали достъп до изход за аудио. Можете да укажете, кои сайтове имат право да искат избор на изходно аудио устройство.
+permissions-doh-add-exception =
+    .label = Добавяне
+    .accesskey = Д
