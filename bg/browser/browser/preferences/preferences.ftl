@@ -559,7 +559,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
-home-prefs-content-description2 = Изберете съдържанието, което искате да виждате на началната страница на { -firefox-home-brand-name }.
+home-prefs-content-description2 = Изберете съдържанието, което искате на { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Търсене в Мрежата
 home-prefs-shortcuts-header =
