@@ -388,3 +388,26 @@ newtab-weather-menu-learn-more = Ulteriori informazioni
 # This message is shown if user is working offline
 newtab-weather-error-not-available = I dati sul meteo non sono al momento disponibili.
 
+## Topic Labels
+
+newtab-topic-label-business = Economia
+newtab-topic-label-career = Carriera
+newtab-topic-label-education = Educazione
+newtab-topic-label-arts = Intrattenimento
+newtab-topic-label-food = Alimentazione
+newtab-topic-label-health = Salute
+newtab-topic-label-hobbies = Videogiochi
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Finanze personali
+newtab-topic-label-society-parenting = Educazione dei figli
+newtab-topic-label-government = Politica
+newtab-topic-label-education-science = Scienza
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Like hacks
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Viaggi
