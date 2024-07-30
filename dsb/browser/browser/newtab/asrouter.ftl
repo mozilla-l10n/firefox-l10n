@@ -188,7 +188,7 @@ firefoxview-cfr-body-v2 = Wobstarajśo se zacynjone rejtariki slědk a pśejźć
 
 firefoxview-spotlight-promo-title = Witajśo k { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Cośo ten wócynjony rejtark na swójom telefonje měś? Wobstarajśo se jen. Trjebaśo sedło, ku kótaremuž sćo rowno woglědał? Simsalabim, jo z { -firefoxview-brand-name } slědk.
+firefoxview-spotlight-promo-subtitle = Cośo ten wócynjony rejtarik na swójom telefonje měś? Wobstarajśo se jen. Trjebaśo sedło, ku kótaremuž sćo rowno woglědał? Simsalabim, jo z { -firefoxview-brand-name } slědk.
 firefoxview-spotlight-promo-primarybutton = Glědajśo, kak to funkcioněrujo
 firefoxview-spotlight-promo-secondarybutton = Pśeskócyś
 

@@ -6,7 +6,7 @@ places-open =
     .label = Wócyniś
     .accesskey = c
 places-open-in-tab =
-    .label = W nowem rejtarku wócyniś
+    .label = W nowem rejtariku wócyniś
     .accesskey = n
 places-open-in-container-tab =
     .label = W nowem kontejnerowem rejtariku wócyniś
@@ -101,7 +101,7 @@ places-delete-page =
            *[other] Boki lašowaś
         }
     .accesskey = B
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Zastojane cytańske znamjenja
 # This label is used when a managed bookmarks folder doesn't have a name.

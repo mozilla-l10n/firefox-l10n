@@ -168,7 +168,7 @@ warn-on-open-many-tabs =
     .label = Warnowaś, gaby wócynjanje někotarych rejtarikow mógło { -brand-short-name } spomałšyś
     .accesskey = k
 switch-to-new-tabs =
-    .label = Ned na wótkaz, wobraz abo medij pśešaltowaś, kótaryž jo se w nowem rejtarku wócynił
+    .label = Ned na wótkaz, wobraz abo medium pśešaltowaś, kótaryž jo se w nowem rejtariku wócynił
     .accesskey = N
 show-tabs-in-taskbar =
     .label = Rejtarikowe pśeglědy we Windowsowej nadawkowej rědce pokazaś
@@ -708,7 +708,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Wzejśo swój web sobu
-sync-signedout-description2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+sync-signedout-description2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-signin3 =
     .label = Pla Sync pśizjawiś…
     .accesskey = i
@@ -767,7 +767,7 @@ prefs-syncing-off = Synchronizacija: WUŠALTOWANA
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžniś…
     .accesskey = S
-prefs-sync-offer-setup-label2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+prefs-sync-offer-setup-label2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 prefs-sync-now =
     .labelnotsyncing = Něnto synchronizěrowaś
     .accesskeynotsyncing = N
