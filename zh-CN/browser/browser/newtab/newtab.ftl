@@ -234,7 +234,7 @@ newtab-pocket-saved = 已保存
 
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
-    .title = 相似推荐
+    .title = 再多来点
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = 不感兴趣
