@@ -83,6 +83,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Attiva il menu “Opzioni svil
 
 about-debugging-setup-usb-step-enable-debug2 = Attiva “Debug USB” nel menu “Opzioni sviluppatori” sul dispositivo Android.
 
+about-debugging-setup-usb-step-enable-file-transfer = Attiva il trasferimento file e assicurati che il dispositivo non sia in modalità solo ricarica.
+
 about-debugging-setup-usb-step-enable-debug-firefox2 = Attiva USB Debugging in Firefox sul dispositivo Android.
 
 about-debugging-setup-usb-step-plug-device = Connetti il dispositivo Android al computer.
