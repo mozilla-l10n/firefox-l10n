@@ -63,3 +63,8 @@ experimental-features-group-developer-tools =
   .label = Strumenti di sviluppo
 experimental-features-group-webpage-display =
   .label = Visualizzazione pagine web
+
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Picture-in-Picture: apri automaticamente al cambio scheda
+experimental-features-auto-pip-description = Attiva Picture-in-Picture per i video in esecuzione quando si cambia scheda
