@@ -31,13 +31,12 @@ appmenu-update-restart2 =
     .secondarybuttonaccesskey = D
 appmenu-update-restart-message2 = Obteniu la versió més recent del { -brand-shorter-name }. Les pestanyes i finestres obertes es restauraran.
 appmenu-update-other-instance =
-    .label = El { -brand-shorter-name } no s'ha pogut actualitzar a la versió més recent.
-    .buttonlabel = Actualitza el { -brand-shorter-name } de totes maneres.
+    .label = El { -brand-shorter-name } no s'ha pogut actualitzar automàticament a la versió més recent.
+    .buttonlabel = Actualitza el { -brand-shorter-name } igualment
     .buttonaccesskey = u
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hi ha disponible una actualització del { -brand-shorter-name }, però no es pot instal·lar perquè hi ha una altra còpia del { -brand-shorter-name } en execució. Tanqueu-la per a continuar l'actualització, o trieu actualitzar-la igualment (és possible que l'altra còpia no funcioni correctament fins que no la reinicieu).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acord
     .buttonaccesskey = D
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Gestioneu els vostres complements i temes 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet que aquesta extensió s'executi en finestres privades
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = La pàgina de «Pestanya nova» ha canviat.
     .buttonlabel = Mantén els canvis
