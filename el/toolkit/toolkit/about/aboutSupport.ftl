@@ -456,7 +456,7 @@ pointing-device-none = Δεν υπάρχουν συσκευές κατάδειξ
 # to external websites.
 content-analysis-title = Ανάλυση περιεχομένου (DLP)
 content-analysis-active = Ενεργή
-content-analysis-connected-to-agent = Έγινε σύνδεση με πάροχο
-content-analysis-agent-path = Διαδρομή παρόχου
-content-analysis-agent-failed-signature-verification = Αποτυχία επαλήθευσης υπογραφής παρόχου
+content-analysis-connected-to-agent = Σε σύνδεση με παράγοντα
+content-analysis-agent-path = Διαδρομή παράγοντα
+content-analysis-agent-failed-signature-verification = Αποτυχία επαλήθευσης υπογραφής παράγοντα
 content-analysis-request-count = Αριθμός αιτημάτων
