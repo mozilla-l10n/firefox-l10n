@@ -1360,11 +1360,16 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 
 httpsonly-header = Kun-HTTPS-modus
 httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis kun-HTTPS er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.
+httpsonly-description2 = { -brand-short-name } oppretter sikre og krypterte forbindelser til nettsteder du besøker. { -brand-short-name } vil advare deg hvis en tilkobling ikke er sikker når Kun-HTTPS er på.
 httpsonly-learn-more = Les mer
 httpsonly-radio-enabled =
     .label = Aktiver kun-HTTPS i alle vinduer
+httpsonly-radio-enabled2 =
+    .label = Bruk kun HTTPS i alle vinduer
 httpsonly-radio-enabled-pbm =
     .label = Aktiver kun-HTTPS kun i private vinduer
+httpsonly-radio-enabled-pbm2 =
+    .label = Bruk kun HTTPS i private vinduer
 httpsonly-radio-disabled =
     .label = Ikke aktiver kun-HTTPS
 httpsonly-radio-disabled2 =
