@@ -388,3 +388,27 @@ newtab-weather-menu-hide-weather = 새 탭에서 날씨 숨기기
 newtab-weather-menu-learn-more = 더 알아보기
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 지금은 날씨 데이터를 사용할 수 없습니다.
+
+## Topic Labels
+
+newtab-topic-label-business = 사업
+newtab-topic-label-career = 직업
+newtab-topic-label-education = 교육
+newtab-topic-label-arts = 연예
+newtab-topic-label-food = 음식
+newtab-topic-label-health = 건강
+newtab-topic-label-hobbies = 게임
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = 금융
+newtab-topic-label-society-parenting = 육아
+newtab-topic-label-government = 정치
+newtab-topic-label-education-science = 과학
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = 생활
+newtab-topic-label-sports = 스포츠
+newtab-topic-label-tech = 기술
+newtab-topic-label-travel = 여행
