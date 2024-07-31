@@ -33,7 +33,7 @@ experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Utviklarverktøy: Feilsøking av Service Worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i feilsøkingspanelet. Denne funksjonen kan gjere utviklerverktøyet treg og auke minneforbruket.
+experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i feilsøkingspanelet. Denne funksjonen kan gjere utviklarverktøyet tregt og auke bruken av minne.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Global WebRTC dempekontroll
