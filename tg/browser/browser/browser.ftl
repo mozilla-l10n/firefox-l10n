@@ -637,6 +637,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Ҷустуҷӯҳои охирин
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Машҳур дар «{ $engine }»
 
 ## Reader View toolbar buttons
 
