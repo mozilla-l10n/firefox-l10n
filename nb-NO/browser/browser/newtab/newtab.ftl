@@ -241,6 +241,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Ikke for meg
+newtab-toast-thumbs-up-or-down = Takk. Tilbakemeldingen din vil hjelpe oss med å forbedre kilden din.
 newtab-toast-dismiss-button =
     .title = Lukk
     .aria-label = Lukk

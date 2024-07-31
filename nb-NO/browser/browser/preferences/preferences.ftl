@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylige søk
     .accesskey = V
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Vis populære søkeforslag
+    .accesskey = s
 addressbar-quickactions-learn-more = Les mer
 
 ## Privacy Section - Content Blocking
@@ -1364,6 +1367,8 @@ httpsonly-radio-enabled-pbm =
     .label = Aktiver kun-HTTPS kun i private vinduer
 httpsonly-radio-disabled =
     .label = Ikke aktiver kun-HTTPS
+httpsonly-radio-disabled2 =
+    .label = Prøv HTTPS først, men tillat tilkoblinger som ikke er sikre
 
 ## DoH Section
 
