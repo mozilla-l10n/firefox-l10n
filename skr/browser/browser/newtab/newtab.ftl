@@ -333,10 +333,12 @@ newtab-wallpaper-abstract-purple = جامنی شکلاں
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = فوٹو
+newtab-wallpaper-white-mountains = چٹی پہاڑیاں
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> تے <a data-l10n-name="name-link">{ $author_string }</a> ولوں فوٹو
+newtab-wallpaper-feature-highlight-header = رنگ دا تُرکا ازماؤ
 newtab-wallpaper-feature-highlight-button = سمجھ گھدے
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =

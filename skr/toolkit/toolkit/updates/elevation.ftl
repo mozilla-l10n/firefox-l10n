@@ -20,3 +20,6 @@ elevation-more-elevated =
     اڳلی واری { -brand-short-name } شروع تھیسی تاں اپ ڈیٹ انسٹال تھی ویسی۔
     تساں ہݨ { -brand-short-name } کوں ولدا شروع کر سڳدے ہو، کم جاری رکھو تے بعد وچ ولدا شروع کرو، یا وت
     ایہ اپ ڈیٹ  کرݨ  دا انکار کر ݙیوو۔
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = ولدا نہ ݙکھاؤ
+    .accesskey = D
