@@ -169,12 +169,27 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = بند کرو
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = لنک عبارت دا ترجمہ کرو۔۔۔
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = لنک عبارت دا { $language } وچ ترجمہ کرو
+    .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = ترجمہ
 # Text displayed above the from-language dropdown menu.
 select-translations-panel-from-label = کنوں
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = کوں
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = ہک ٻئی ماخذ زبان ازماؤ
 select-translations-panel-cancel-button =
     .label = منسوخ
 # Text displayed on the copy button before it is clicked.

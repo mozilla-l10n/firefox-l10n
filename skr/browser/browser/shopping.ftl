@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = ریویو چیکر <strong>چالو</
 shopping-adjusted-rating-label =
     .label = مرتب کِیتی ڳئی درجہ بندی
 shopping-adjusted-rating-unreliable-reviews = نا قابلِ بھرواسہ تجزیے ہَٹا ݙِتّے ڳئے
+shopping-adjusted-rating-based-reliable-reviews = قابلِ اعتماد جائزیاں دی بنیاد تے
 
 ## Strings for the review reliability component
 
