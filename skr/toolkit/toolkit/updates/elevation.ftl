@@ -23,3 +23,4 @@ elevation-more-elevated =
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = ولدا نہ ݙکھاؤ
     .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = ایہ مسئلہ کین٘ویں ٹھیک کروں
