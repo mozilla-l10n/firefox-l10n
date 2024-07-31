@@ -112,6 +112,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML документ
        *[other] HTML файл
     }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Файл JSON
 migration-import-button-label = Внасяне
 migration-choose-to-import-from-file-button-label = Внасяне от файл
 migration-import-from-file-button-label = Изберете Файл
@@ -131,9 +134,23 @@ migration-list-bookmark-label = отметки
 migration-list-favorites-label = любими
 migration-list-password-label = пароли
 migration-list-history-label = история
+migration-list-payment-methods-label = методи на плащане
 
 ##
 
+migration-wizard-progress-header = Внасяне на данни
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Данните са внесени успешно
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Внасянето на данни завърши
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Внасяне…
+migration-wizard-progress-icon-completed =
+    .aria-label = Завършено
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible

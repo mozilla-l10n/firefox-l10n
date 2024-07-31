@@ -1036,9 +1036,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Файловият диалогов прозорец на Windows не може да бъде отворен. Не може да бъде избран файл или папка.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Файловият диалогов прозорец на Windows не може да бъде отворен. Файлът ще бъде запазен в { $path }.
 file-picker-failed-save-nowhere = Файловият диалогов прозорец на Windows не може да бъде отворен. Не може да бъде намерена папка по подразбиране; файлът няма да бъде записан.
+file-picker-crashed-open = Файловият диалогов прозорец на Windows се срина. Не може да бъде избран файл или папка.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Файловият диалогов прозорец на Windows се срина. Файлът ще бъде запазен в { $path }.
+file-picker-crashed-save-nowhere = Файловият диалогов прозорец на Windows се срина. Не може да бъде намерена папка по подразбиране. Файлът няма да бъде записан.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
