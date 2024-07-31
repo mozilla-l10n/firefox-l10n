@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre 
 addressbar-locbar-showrecentsearches-option =
     .label = Ehechauka ojeheka ramóva
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Ehechauka jehekarã ojeporuvévape
+    .accesskey = t
 addressbar-quickactions-learn-more = Kuaave
 
 ## Privacy Section - Content Blocking
@@ -1360,10 +1363,16 @@ httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-n
 httpsonly-learn-more = Eikuaave
 httpsonly-radio-enabled =
     .label = Emyandy HTTPS año ayvu opaite ovetãme
+httpsonly-radio-enabled2 =
+    .label = Eiporu HTTPS año opaite ovetãme
 httpsonly-radio-enabled-pbm =
     .label = Embojuruja HTTPS año ayvu opaite ovetãme
+httpsonly-radio-enabled-pbm2 =
+    .label = Eiporu HTTPS año umi ovetã ñemiguápe
 httpsonly-radio-disabled =
     .label = Ani embojuruja HTTPS año ayvu
+httpsonly-radio-disabled2 =
+    .label = Eiporu HTTPS, hákatu emoneĩkuaa umi jeike hekorosã’ỹva
 
 ## DoH Section
 

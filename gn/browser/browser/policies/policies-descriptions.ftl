@@ -119,6 +119,7 @@ policy-Permissions2 = Emboheko ñemoneĩ ta’ãnganohẽha, ñe’ẽatãha, te
 policy-PictureInPicture = Emyandy térã embogue Picture-in-Picture.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.
+policy-PrivateBrowsingModeAvailability = Emboheko ñeikundaha ñemiguáva rekópe.
 policy-PromptForDownloadLocation = Eporandu moõpa eñongatúta marandurenda emboguejykuévo.
 policy-Proxy = Emboheko proxy mohendahavusu.
 policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
