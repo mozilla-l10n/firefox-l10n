@@ -674,10 +674,10 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fechar janela flutuante ({ $shortcut })
 picture-in-picture-panel-header = Janela Flutuante
-picture-in-picture-panel-headline = Este site não recomenda Imagem na Imagem
-picture-in-picture-panel-body = Os vídeos podem não ser apresentados tal como o programador pretendia enquanto a Imagem na Imagem estiver ativada.
+picture-in-picture-panel-headline = Este site não recomenda a Janela Flutuante
+picture-in-picture-panel-body = Os vídeos podem não ser apresentados tal como o programador pretendia enquanto estiver ativada a janela Flutuante.
 picture-in-picture-enable-toggle =
-    .label = Ativar mesmo assim
+    .label = Mesmo assim, ativar
 
 ## Full Screen and Pointer Lock UI
 
@@ -863,17 +863,17 @@ edit-popup-settings =
     .label = Gerir definições de popup
     .accesskey = G
 picture-in-picture-hide-toggle =
-    .label = Ocultar o comutador de vídeo em janela flutuante
+    .label = Ocultar o comutador de janela flutuante
     .accesskey = O
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = Mover o comutador de vídeo em janela flutuante para o lado direito
+    .label = Mover o comutador de janela flutuante para o lado direito
     .accesskey = d
 picture-in-picture-move-toggle-left =
-    .label = Mover o comutador de vídeo em janela flutuante para o lado esquerdo
+    .label = Mover o comutador de janela flutuante para o lado esquerdo
     .accesskey = e
 
 ##
