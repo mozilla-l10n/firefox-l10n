@@ -1038,6 +1038,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Klarte ikke å åpne Windows-fildialogvinduet. Ingen fil eller mappe kunne velges.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
