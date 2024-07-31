@@ -297,7 +297,7 @@ about-logins-confirm-export-dialog-title2 = Бележка относно изн
 about-logins-confirm-export-dialog-message2 =
     При изнасяне, паролите се записват във файл като текст.
     Когато приключите с използването на файла, препоръчваме да го изтриете, за да не могат другите, които използват същото устройство, да видят паролите ви.
-about-logins-confirm-export-dialog-confirm-button2 = Напред с изнасянето
+about-logins-confirm-export-dialog-confirm-button2 = Продължете с изнасянето
 about-logins-alert-import-title = Внасянето е завършено
 about-logins-alert-import-message = Подробен отчет за внасянето
 confirm-discard-changes-dialog-title = Отказвате се от промените?
@@ -424,7 +424,7 @@ about-logins-import-dialog-error-unable-to-read-title = Грешка при ан
 about-logins-import-dialog-error-unable-to-read-description = Уверете се, че избраният файл е CSV или TSV.
 about-logins-import-dialog-error-no-logins-imported = Не са внесени регистраци
 about-logins-import-dialog-error-learn-more = Научете повече
-about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
+about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново...
 about-logins-import-dialog-error-cancel = Отказ
 about-logins-import-report-title = Отчет за внасянето
 about-logins-import-report-description = Регистрации и пароли внесени във { -brand-short-name }.

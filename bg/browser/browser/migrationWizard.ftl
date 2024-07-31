@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Внасяне на данни от друг браузър
+migration-wizard-selection-list = Изберете данните, които искате да внесете.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -54,6 +55,7 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-no-selected-data-label = Няма избрани данни за внасяне
 
 ##
 
@@ -74,6 +76,7 @@ migration-passwords-from-file-progress-header = Внасяне на файл с 
 migration-passwords-from-file-success-header = Паролите бяха успешно внесени
 migration-passwords-new = Нови пароли
 migration-passwords-updated = Съществуващи пароли
+migration-passwords-from-file-no-valid-data = Файлът не съдържа пароли, които може да импортирате. Изберете друг файл.
 migration-passwords-from-file-picker-title = Внасяне на файл с пароли
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
