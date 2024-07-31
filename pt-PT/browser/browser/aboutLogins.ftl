@@ -207,7 +207,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = exportar palavras-
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Por favor introduza a sua palavra-passe principal para ver credenciais e palavras-passe guardadas
+about-logins-primary-password-notification-message = Introduza a sua palavra-passe principal para ver credenciais e palavras-passe guardadas
 master-password-reload-button =
     .label = Iniciar sessão
     .accesskey = I

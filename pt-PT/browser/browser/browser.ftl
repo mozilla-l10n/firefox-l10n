@@ -670,10 +670,10 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Abrir Imagem na Imagem ({ $shortcut })
+    .tooltiptext = Abrir janela flutuante ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = Fechar Imagem na Imagem ({ $shortcut })
-picture-in-picture-panel-header = Imagem na Imagem
+    .tooltiptext = Fechar janela flutuante ({ $shortcut })
+picture-in-picture-panel-header = Janela Flutuante
 picture-in-picture-panel-headline = Este site não recomenda Imagem na Imagem
 picture-in-picture-panel-body = Os vídeos podem não ser apresentados tal como o programador pretendia enquanto a Imagem na Imagem estiver ativada.
 picture-in-picture-enable-toggle =
