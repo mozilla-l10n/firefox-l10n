@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">ٻیا سکھو</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ نہ تاں فلیکس کنٹینر ہے تے نہ وت گرڈ کنٹینر۔
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ فلیکس کنٹینر، گرڈ کنٹینر، یا ملٹی کالم کنٹینر کائنی۔
 inactive-css-not-multicol-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ملٹی کالم کنٹینر کائنی۔
@@ -77,6 +87,7 @@ inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong
 inactive-css-not-for-internal-table-elements-fix = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل سیل</strong> ،<strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>ٹیبل قطار گروپ</strong>, or <strong>ٹیبل فُٹر گروپ</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> یا <strong>display:inline-table</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-collapsed-table-borders-fix = <strong>border-collapse:separate</strong> کوں شامل کرݨ دی کوشش کرو۔{ learn-more }
 inactive-css-not-table-cell-fix = <strong>ݙِکھاؤ:ٹیبل-اکّھا</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>، <strong>overflow:scroll</strong>، یا <strong>overflow:hidden</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-border-image-fix = پیرنٹ ٹیبل عنصر تے، پراپرٹی کوں ہٹا ݙیو یا <strong>بارڈر-کولاپس</strong> دی قدر کوں <strong>کولپس</strong> دے علاوہ کہیں قدر وِچ تبدیل کرو۔ { learn-more }

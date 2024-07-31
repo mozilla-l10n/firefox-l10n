@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = ایہ فیصلہ یاد رکھو
+webrtc-remember-allow-checkbox-camera = سارے کیمریاں کیتے یاد رکھو
+webrtc-remember-allow-checkbox-microphone = سارے مائیکروفوناں کیتے یاد رکھو
+webrtc-remember-allow-checkbox-camera-and-microphone = سارے کیمریاں تے مائیکروفوناں کیتے یاد رکھو
 webrtc-mute-notifications-checkbox = شیئر کریندے ویلھے ویب سائٹ دیاں اطلاعات کوں خاموش کرو
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }تہاݙی سکرین تک مستقل رسائی دی اجازت نئیں ݙے سڳدا۔
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } تہاݙے ٹیب دے آڈیو تک مستقل رسائی دی اجازت نہیں ݙے سڳدا ایہ پچھے بغیر جو کیڑھا ٹیب سانجھا کرݨا ہے۔
