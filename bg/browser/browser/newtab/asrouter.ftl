@@ -207,6 +207,8 @@ pdf-default-notification-decline-button =
 
 launch-on-login-infobar-message = <strong>Да се отваря ли { -brand-short-name } всеки път, когато рестартирате Вашия компютър?</strong> Вече имате възможността да настроите { -brand-short-name } да тръгва автоматично при рестартиране на устройството.
 launch-on-login-learnmore = Научете повече
+launch-on-login-infobar-confirm-button = Да, отвари { -brand-short-name }
+    .accesskey = о
 launch-on-login-infobar-reject-button = Не сега
     .accesskey = Н
 

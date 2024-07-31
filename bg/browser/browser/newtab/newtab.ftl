@@ -226,6 +226,16 @@ newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Не и за мен
+newtab-toast-thumbs-up-or-down = Благодаря! Вашата обратна връзка ще ни помогне в подбора за новини.
+newtab-toast-dismiss-button =
+    .title = Отхвърляне
+    .aria-label = Отхвърляне
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -252,14 +262,57 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсорирани препратки
 newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Препоръчани от { -pocket-brand-name }
-    .description = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
 newtab-custom-pocket-sponsored = Платени публикации
 newtab-custom-recent-title = Последна активност
 newtab-custom-recent-subtitle = Избрани страници и съдържание
 newtab-custom-recent-toggle =
     .label = Последна активност
     .description = Избрани страници и съдържание
+newtab-custom-weather-toggle =
+    .label = Времето
+    .description = Времето днес накратко
 newtab-custom-close-button = Затваряне
 newtab-custom-settings = Настройки
+
+## New Tab Wallpapers
+
+newtab-wallpaper-light-red-panda = Червена панда
+newtab-wallpaper-light-mountain = Бяла планина
+newtab-wallpaper-light-sky = Небе с лилави и розови облаци
+newtab-wallpaper-light-color = Сини, розови и жълти фигури
+newtab-wallpaper-light-landscape = Планински пейзаж със синя мъгла
+newtab-wallpaper-light-beach = Плаж с палма
+newtab-wallpaper-dark-aurora = Северно сияние
+newtab-wallpaper-dark-color = Червени и сини фигури
+newtab-wallpaper-dark-panda = Червена панда, скрита в гора
+newtab-wallpaper-dark-sky = Градски пейзаж с нощно небе
+newtab-wallpaper-dark-mountain = Планински пейзаж
+newtab-wallpaper-dark-city = Лилав градски пейзаж
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Едноцветни
+newtab-wallpaper-pink = Розово
+newtab-wallpaper-light-pink = Светло розово
+newtab-wallpaper-red = Червено
+newtab-wallpaper-dark-blue = Тъмно синьо
+newtab-wallpaper-dark-purple = Тъмно лилаво
+newtab-wallpaper-dark-green = Тъмно зелено
+newtab-wallpaper-brown = Кафяво
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Абстрактно
+newtab-wallpaper-abstract-green = Зелени фигури
+newtab-wallpaper-abstract-blue = Сини фигури
+newtab-wallpaper-abstract-purple = Лилави фигури
+newtab-wallpaper-abstract-orange = Оранжеви фигури
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+

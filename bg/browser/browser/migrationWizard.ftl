@@ -151,6 +151,9 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Внасяне…
 migration-wizard-progress-icon-completed =
     .aria-label = Завършено
+migration-safari-password-import-header = Внасяне на пароли от Safari
+migration-safari-password-import-steps-header = За да внесете пароли от Safari:
+migration-safari-password-import-select-button = Изберете Файл
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
@@ -159,3 +162,5 @@ migration-wizard-progress-icon-completed =
 
 ##
 
+migration-wizard-safari-instructions-continue = Изберете „Продължи“
+migration-wizard-safari-instructions-folder = Изберете папка Safari от списъка и изберете „Отваряне“
