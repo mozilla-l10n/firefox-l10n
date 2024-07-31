@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Ñanduti retepy
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Mboherapyre
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Tuichavéva
 process-type-tab = Tendayke
@@ -41,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Moingeha
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferencia
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Actor IPC pa’ũ guasúpe
 process-type-utility-actor-audio-decoder-generic = Mba’epu papapy’oha ha’ete’ỹva
@@ -53,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Windows File Dialog jeporurã
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Ojekuaa’ỹva
