@@ -411,3 +411,15 @@ newtab-topic-label-society = Like hacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Tecnologia
 newtab-topic-label-travel = Viaggi
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Seleziona degli argomenti per personalizzare il tuo feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Scegli due o più argomenti. I nostri esperti curatori daranno priorità alle storie più adatte ai tuoi interessi. Puoi aggiornare le tue preferenze in qualsiasi momento.
+newtab-topic-selection-save-button = Salva
+newtab-topic-selection-cancel-button = Annulla
+newtab-topic-selection-privacy-link = Scopri come proteggiamo i tuoi dati e la tua privacy
