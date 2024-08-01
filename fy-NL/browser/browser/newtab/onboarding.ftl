@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] { -brand-short-name } yn Dock hâlde
        *[other] { -brand-short-name } oan taakbalke fêstmeitsje
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } oan taakbalke en it startmenu fêstmeitsje
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
