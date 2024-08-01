@@ -134,6 +134,7 @@ migration-list-bookmark-label = отметки
 migration-list-favorites-label = любими
 migration-list-password-label = пароли
 migration-list-history-label = история
+migration-list-extensions-label = разширения
 migration-list-payment-methods-label = методи на плащане
 
 ##

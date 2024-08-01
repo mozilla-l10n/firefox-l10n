@@ -127,7 +127,7 @@ newtab-privacy-modal-link = Научете как работи поверите�
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Премахване на отметка
 # Bookmark is a verb here.
-newtab-menu-bookmark = Отметка
+newtab-menu-bookmark = Добавяне в отметки
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
