@@ -49,7 +49,7 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Wobraz-we-wobrazu: při wuměnjenju rajtarka awtomatisce wočinić
-experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideja zmóžnić, hdyž so rajtarki wuměnjeja
+experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideja zmóžnić, hdyž so rajtarki wuměnjeja.
 experimental-features-group-browsing =
     .label = Přehladowanje
 experimental-features-group-developer-tools =
