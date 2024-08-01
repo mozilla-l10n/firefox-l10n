@@ -319,6 +319,11 @@ newtab-wallpaper-feature-highlight-button = Разбрах
 
 ## New Tab Weather
 
+newtab-weather-menu-change-weather-display-simple = Превключване към опростен изглед
+newtab-weather-menu-weather-display-option-detailed = Подробно
+newtab-weather-menu-change-weather-display-detailed = Превключване към подробен изглед
+newtab-weather-menu-temperature-units = Единици за температура
+newtab-weather-menu-temperature-option-fahrenheit = по Фаренхайт
 
 ## Topic Labels
 
