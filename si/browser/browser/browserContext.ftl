@@ -162,8 +162,8 @@ main-context-menu-copy-link-simple =
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
-    .label = අඩවියේ ලුහුබැඳීම් හැරදමා සබැඳිය පිටපත් කරන්න
-    .accesskey = y
+    .label = අඩවියේ ලුහුබැඳීම් රහිතව සබැඳියේ පිටපතක්
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
