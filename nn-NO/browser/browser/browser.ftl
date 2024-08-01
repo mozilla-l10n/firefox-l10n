@@ -1038,7 +1038,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-file-picker-failed-open = Klarte ikkje å opne Windows fildialog. Inga fil eller mappe kunne veljast.
+file-picker-failed-open = Klarte ikkje å opne Windows-fildialogvindauget. Inga fil eller mappe kunne veljast.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Klarte ikkje å opne Windows fildialog. Fila vert lagra i { $path }.
 file-picker-failed-save-nowhere = Klarte ikkje å opne Windows fildialog. Fann ingen standardmapp, og fila vil ikkje bli lagra.
