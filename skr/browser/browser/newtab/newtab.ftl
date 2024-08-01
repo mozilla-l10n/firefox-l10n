@@ -364,3 +364,16 @@ newtab-weather-menu-weather-display-option-detailed = تفصیلی
 newtab-weather-menu-temperature-option-fahrenheit = فارن ہائیٹ
 newtab-weather-menu-temperature-option-celsius = سیلسیس
 newtab-weather-menu-learn-more = ٻیا سِکھو
+
+## Topic Labels
+
+newtab-topic-label-career = روزگار تے کم
+newtab-topic-label-education = تعلیم
+newtab-topic-label-food = کھاݨا
+newtab-topic-label-health = صحت
+newtab-topic-label-hobbies = کھیݙݨ
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = رقم
+newtab-topic-label-sports = کھیݙاں
