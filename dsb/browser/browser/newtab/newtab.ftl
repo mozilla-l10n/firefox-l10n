@@ -391,3 +391,25 @@ newtab-weather-menu-hide-weather = Wjedro na nowem rejtariku schowaś
 newtab-weather-menu-learn-more = Dalšne informacije
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Wjedrowe daty njejsu tuchylu k dispoziciji
+
+## Topic Labels
+
+newtab-topic-label-business = Pśekupniske
+newtab-topic-label-career = Kariera
+newtab-topic-label-education = Kubłanje
+newtab-topic-label-arts = Rozdrosćenje
+newtab-topic-label-food = Caroba
+newtab-topic-label-health = Strowje
+newtab-topic-label-hobbies = Graśe
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Pjenjeze
+newtab-topic-label-society-parenting = Wótkubłanje
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Wědomnosć
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Swójske pólěpšenja
+newtab-topic-label-sports = Sport
