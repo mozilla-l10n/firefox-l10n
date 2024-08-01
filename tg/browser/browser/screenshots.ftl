@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = Бекор кардан
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = Нусха бардоштан (тугмаи «{ $shortcut }»)
-    .aria-label = Нусха бардоштан
-screenshots-component-copy-button-label = Нусха бардоштан
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = Боргирӣ кардан (тугмаи «{ $shortcut }»)
-    .aria-label = Боргирӣ кардан
-screenshots-component-download-button-label = Боргирӣ кардан
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Нусха бардоштан
     .title = Нусха бардоштан (тугмаи «{ $shortcut }»)
     .aria-label = Нусха бардоштан
@@ -88,14 +76,10 @@ screenshots-component-copy-key = C
 ##
 
 # This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
-# This string represents the selection size area
 # "×" here represents "by" (i.e 123 by 456)
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Ин минтақаро интихоб намоед

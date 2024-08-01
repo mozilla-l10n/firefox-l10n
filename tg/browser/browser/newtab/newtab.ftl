@@ -152,7 +152,7 @@ newtab-menu-open-file = Кушодани файл
 newtab-label-visited = Дидашуда
 newtab-label-bookmarked = Дар хатбаракҳо
 newtab-label-removed-bookmark = Хатбарак тоза карда шуд
-newtab-label-recommended = Маъмул
+newtab-label-recommended = Тамоюл
 newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
 # This string is used in the story cards to indicate sponsored content
@@ -374,3 +374,8 @@ newtab-weather-menu-hide-weather = Нинҳон кардани обу ҳаво �
 newtab-weather-menu-learn-more = Маълумоти бештар
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Айни ҳол маълумот дар бораи обу ҳаво дастнорас аст.
+
+## Topic Labels
+
+newtab-topic-label-business = Тиҷорат
+newtab-topic-label-food = Ғизо

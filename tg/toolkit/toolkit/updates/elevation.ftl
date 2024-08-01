@@ -23,3 +23,4 @@ elevation-more-elevated =
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Дигар нишон дода нашавад
     .accesskey = Д
+sandbox-unprivileged-namespaces-howtofix = Чӣ тавр ин масъаларо ислоҳ кардан мумкин аст

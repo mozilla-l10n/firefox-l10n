@@ -642,6 +642,16 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Тамоюл дар «{ $engine }»
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ҷустуҷӯҳои тамоюл дигар нишон дода нашаванд
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = Чаро ман инро дида истодаам?
+    .accesskey = Ч
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Ташаккур барои фикру мулоҳизаи шумо. Ба шумо дигар ҷустуҷӯҳои тамоюл нишон дода намешаванд.
 
 ## Reader View toolbar buttons
 

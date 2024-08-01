@@ -50,3 +50,5 @@ experimental-features-group-browsing =
     .label = Тамошокунӣ
 experimental-features-group-developer-tools =
     .label = Абзорҳои барномасозӣ
+experimental-features-group-webpage-display =
+    .label = Намоиши саҳифаи сомона

@@ -1113,6 +1113,9 @@ addressbar-suggestions-settings = Иваз кардани хусусиятҳо �
 addressbar-locbar-showrecentsearches-option =
     .label = Намоиш додани ҷустуҷӯҳои охирин
     .accesskey = Н
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯи тамоюл
+    .accesskey = Н
 addressbar-quickactions-learn-more = Маълумоти бештар
 
 ## Privacy Section - Content Blocking
