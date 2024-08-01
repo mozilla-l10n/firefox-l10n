@@ -385,3 +385,23 @@ newtab-weather-menu-hide-weather = 隱藏新分頁的天氣資訊
 newtab-weather-menu-learn-more = 更多資訊
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 目前暫時無法提供天氣資訊。
+
+## Topic Labels
+
+newtab-topic-label-business = 商業
+newtab-topic-label-career = 職涯
+newtab-topic-label-education = 教育
+newtab-topic-label-arts = 娛樂
+newtab-topic-label-food = 美食
+newtab-topic-label-health = 健康
+newtab-topic-label-hobbies = 遊戲
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = 個人財務
+newtab-topic-label-society-parenting = 育兒
+newtab-topic-label-government = 政治
+newtab-topic-label-education-science = 科學
+newtab-topic-label-sports = 體育
+newtab-topic-label-tech = 科技
+newtab-topic-label-travel = 旅遊
