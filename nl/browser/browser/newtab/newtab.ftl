@@ -389,3 +389,27 @@ newtab-weather-menu-hide-weather = Weer op nieuw tabblad verbergen
 newtab-weather-menu-learn-more = Meer info
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Weergegevens zijn momenteel niet beschikbaar.
+
+## Topic Labels
+
+newtab-topic-label-business = Zakelijk
+newtab-topic-label-career = Banen
+newtab-topic-label-education = Onderwijs
+newtab-topic-label-arts = Amusement
+newtab-topic-label-food = Voeding
+newtab-topic-label-health = Gezondheid
+newtab-topic-label-hobbies = Gaming
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Geld
+newtab-topic-label-society-parenting = Ouderschap en opvoeding
+newtab-topic-label-government = Politiek
+newtab-topic-label-education-science = Wetenschap
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Lifehacks
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Technologie
+newtab-topic-label-travel = Reizen
