@@ -389,3 +389,27 @@ newtab-weather-menu-hide-weather = Fela veður á nýjum flipa
 newtab-weather-menu-learn-more = Kanna nánar
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Veðurgögn eru ekki tiltæk í augnablikinu.
+
+## Topic Labels
+
+newtab-topic-label-business = Viðskipti
+newtab-topic-label-career = Starfsferill
+newtab-topic-label-education = Menntun
+newtab-topic-label-arts = Afþreying
+newtab-topic-label-food = Matur
+newtab-topic-label-health = Heilsa
+newtab-topic-label-hobbies = Leikir
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Peningar
+newtab-topic-label-society-parenting = Uppeldi
+newtab-topic-label-government = Stjórnmál
+newtab-topic-label-education-science = Vísindi
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Sjálfshjálp
+newtab-topic-label-sports = Íþróttir
+newtab-topic-label-tech = Tækni
+newtab-topic-label-travel = Ferðalög
