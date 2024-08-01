@@ -383,3 +383,27 @@ newtab-weather-menu-hide-weather = הסתרת מזג האוויר בלשונית
 newtab-weather-menu-learn-more = מידע נוסף
 # This message is shown if user is working offline
 newtab-weather-error-not-available = נתוני מזג האוויר אינם זמינים כעת.
+
+## Topic Labels
+
+newtab-topic-label-business = עסקים
+newtab-topic-label-career = קריירה
+newtab-topic-label-education = חינוך
+newtab-topic-label-arts = בידור
+newtab-topic-label-food = אוכל
+newtab-topic-label-health = בְּרִיאוּת
+newtab-topic-label-hobbies = משחקים
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = כסף
+newtab-topic-label-society-parenting = הורות
+newtab-topic-label-government = פוליטיקה
+newtab-topic-label-education-science = מדע
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = טיפים לחיים
+newtab-topic-label-sports = ספורט
+newtab-topic-label-tech = טכנולוגיה
+newtab-topic-label-travel = טיולים

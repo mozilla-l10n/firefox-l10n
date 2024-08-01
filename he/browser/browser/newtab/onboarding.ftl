@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] שמירת { -brand-short-name } ב־Dock
        *[other] הצמדת { -brand-short-name } לשורת המשימות
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = הצמדת { -brand-short-name } לשורת המשימות ותפריט ההתחל
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
