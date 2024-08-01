@@ -39,6 +39,8 @@ mr1-return-to-amo-add-extension-label = Добавяне на { $addon-name }
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Напредък: стъпка { $current } от { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 # String for the Firefox Accounts button
@@ -269,3 +271,4 @@ onboarding-device-migration-primary-button-label = Вход
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-survey-legal-link-label = С избирането на „{ onboarding-new-user-survey-next-button-label }“ вие се съгласявате с <a data-l10n-name="privacy_notice">Политиката за поверителност на { -brand-product-name } >

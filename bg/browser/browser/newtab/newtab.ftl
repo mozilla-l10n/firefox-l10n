@@ -319,11 +319,40 @@ newtab-wallpaper-feature-highlight-button = Разбрах
 
 ## New Tab Weather
 
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Накратко
 newtab-weather-menu-change-weather-display-simple = Превключване към опростен изглед
 newtab-weather-menu-weather-display-option-detailed = Подробно
 newtab-weather-menu-change-weather-display-detailed = Превключване към подробен изглед
 newtab-weather-menu-temperature-units = Единици за температура
-newtab-weather-menu-temperature-option-fahrenheit = по Фаренхайт
+newtab-weather-menu-temperature-option-fahrenheit = Фаренхайт
+newtab-weather-menu-temperature-option-celsius = Целзий
+newtab-weather-menu-change-temperature-units-fahrenheit = Превключване към Фаренхайт
+newtab-weather-menu-change-temperature-units-celsius = Превключване към Целзий
+newtab-weather-menu-learn-more = Научете повече
 
 ## Topic Labels
 
+newtab-topic-label-business = Бизнес
+newtab-topic-label-career = Кариери
+newtab-topic-label-education = Образование
+newtab-topic-label-arts = Развлечение
+newtab-topic-label-food = Храна
+newtab-topic-label-health = Здраве
+newtab-topic-label-hobbies = Игри
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Пари
+newtab-topic-label-society-parenting = Възпитание
+newtab-topic-label-government = Политика
+newtab-topic-label-education-science = Наука
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Лайфхакове
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Технологии
+newtab-topic-label-travel = Пътуване
