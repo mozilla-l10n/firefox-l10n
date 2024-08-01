@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] { -brand-short-name }를 Dock에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = 작업 표시줄 및 시작 메뉴에 { -brand-short-name } 고정
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration

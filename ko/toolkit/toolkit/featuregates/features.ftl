@@ -49,6 +49,7 @@ experimental-features-ime-search-description = IME (Input Method Editor)는 표�
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = 화면 속 화면: 탭 전환 시 자동 열기
+experimental-features-auto-pip-description = 탭을 전환할 때 활성 동영상에서 화면 속 화면을 사용합니다.
 experimental-features-group-browsing =
     .label = 브라우징
 experimental-features-group-developer-tools =

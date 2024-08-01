@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = 취소
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = 복사 ({ $shortcut })
-    .aria-label = 복사
-screenshots-component-copy-button-label = 복사
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = 다운로드 ({ $shortcut })
-    .aria-label = 다운로드
-screenshots-component-download-button-label = 다운로드
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = 복사
     .title = 복사 ({ $shortcut })
     .aria-label = 복사
@@ -88,14 +76,10 @@ screenshots-component-copy-key = C
 ##
 
 # This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
-# This string represents the selection size area
 # "×" here represents "by" (i.e 123 by 456)
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = 이 영역 선택
