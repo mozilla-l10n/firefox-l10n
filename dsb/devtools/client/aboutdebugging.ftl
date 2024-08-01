@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Wuwijaŕski meni na wašom rě
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Pytanje zmólkow USB we wuwijaŕskem meniju Android zmóžniś.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Zmóžniśo datajowe pśenjasenje a zawěsććo, až waš rěd njejo w jano-lodowańskem modusu.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Pytanje zmólkow USB w Firefox na rěźe Android zmóžniś.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Zwězajśo rěd Android ze swójim licadłom.

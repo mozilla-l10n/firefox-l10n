@@ -413,3 +413,5 @@ newtab-topic-label-education-science = Wědomnosć
 # at the top of https://getpocket.com/explore/self-improvement for more context.
 newtab-topic-label-society = Swójske pólěpšenja
 newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Technologija
+newtab-topic-label-travel = Drogowanje
