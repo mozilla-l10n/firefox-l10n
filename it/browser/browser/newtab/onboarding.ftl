@@ -392,6 +392,14 @@ onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } p
 onboarding-device-migration-subtitle2 = Accedi al tuo account per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
 onboarding-device-migration-primary-button-label = Accedi
 
+## Add-ons Picker screen
+
+amo-picker-title = Personalizza { -brand-short-name }
+amo-picker-subtitle = Le estensioni sono come app per il tuo browser; permettono di proteggere password, scaricare video, risparmiare negli acquisti online, bloccare pubblicità fastidiose, cambiare l’aspetto del browser, e molto altro ancora.
+amo-picker-install-button-label = Aggiungi a { -brand-short-name }
+amo-picker-install-complete-label = Installato
+amo-picker-collection-link = Scopri altri componenti aggiuntivi
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

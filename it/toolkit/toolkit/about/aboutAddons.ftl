@@ -253,7 +253,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Estensioni e temi sono l’equivalente delle app per il tuo browser;
+    Estensioni e temi sono come app per il tuo browser;
     permettono di proteggere password, scaricare video, risparmiare negli
     acquisti online, bloccare pubblicità fastidiose, cambiare l’aspetto del
     browser, e molto altro ancora. Questi software sono spesso sviluppati da
