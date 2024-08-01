@@ -48,7 +48,7 @@ experimental-features-ime-search =
 experimental-features-ime-search-description = En IME (Input Method Editor) är ett verktyg som låter dig skriva in komplexa symboler, som de som används i östasiatiska eller indiska skriftspråk, med ett vanligt tangentbord. Om du aktiverar detta experiment hålls adressfältets panel öppen och visar sökresultat och förslag medan du använder IME för att mata in text. Observera att IME kan visa en panel som täcker resultat i adressfältet, därför föreslås denna inställning endast för IME som inte använder denna typ av panel.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
-    .label = Bild-i-bild: automatisk öppning på flikomkopplare
+    .label = Bild-i-bild: öppnas automatisk när du byter flik
 experimental-features-auto-pip-description = Aktivera bild-i-bild på aktiva videor när du byter flikar.
 experimental-features-group-browsing =
     .label = Webbläsning
