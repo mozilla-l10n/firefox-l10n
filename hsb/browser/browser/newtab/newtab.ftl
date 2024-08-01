@@ -396,7 +396,7 @@ newtab-weather-error-not-available = Wjedrowe daty tuchwilu k dispoziciji njejsu
 
 newtab-topic-label-business = Wobchodnistwo
 newtab-topic-label-career = Karjera
-newtab-topic-label-education = Kubłanje
+newtab-topic-label-education = Zdźěłanje
 newtab-topic-label-arts = Zabawjenje
 newtab-topic-label-food = Cyroba
 newtab-topic-label-health = Strowosć
@@ -405,8 +405,13 @@ newtab-topic-label-hobbies = Hraće
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Pjenjezy
+newtab-topic-label-society-parenting = Kubłanje
 newtab-topic-label-government = Politika
 newtab-topic-label-education-science = Wědomosć
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Swójske polěpšenja
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technologija
 newtab-topic-label-travel = Pućowanje
