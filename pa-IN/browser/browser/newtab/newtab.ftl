@@ -388,3 +388,27 @@ newtab-weather-menu-hide-weather = ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਮੌਸ
 newtab-weather-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # This message is shown if user is working offline
 newtab-weather-error-not-available = ਮੌਸਮ ਦਾ ਡਾਟਾ ਹਾਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
+
+## Topic Labels
+
+newtab-topic-label-business = ਵਪਾਰਕ
+newtab-topic-label-career = ਕੈਰੀਅਰ
+newtab-topic-label-education = ਸਿੱਖਿਆ
+newtab-topic-label-arts = ਮਨੋਰੰਜਨ
+newtab-topic-label-food = ਖਾਣ-ਪੀਣ
+newtab-topic-label-health = ਸਿਹਤ
+newtab-topic-label-hobbies = ਗੇਮਾਂ
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = ਪੈਸਾ
+newtab-topic-label-society-parenting = ਮਾਪੇ
+newtab-topic-label-government = ਰਾਜਨੀਤੀ
+newtab-topic-label-education-science = ਵਿਗਿਆਨ
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = ਜ਼ਿੰਦਗੀ ਦੇ ਟੋਟਕੇ
+newtab-topic-label-sports = ਖੇਡਾਂ
+newtab-topic-label-tech = ਤਕਨੀਕੀ
+newtab-topic-label-travel = ਯਾਤਰਾ

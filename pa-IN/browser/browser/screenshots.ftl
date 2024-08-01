@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = ਰੱਦ ਕਰੋ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = ਕਾਪੀ ਕਰੋ ({ $shortcut })
-    .aria-label = ਕਾਪੀ ਕਰੋ
-screenshots-component-copy-button-label = ਕਾਪੀ
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = ਡਾਊਨਲੋਡ ਕਰੋ ({ $shortcut })
-    .aria-label = ਡਾਊਨਲੋਡ ਕਰੋ
-screenshots-component-download-button-label = ਡਾਊਨਲੋਡ
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = ਕਾਪੀ
     .title = ਕਾਪੀ ਕਰੋ ({ $shortcut })
     .aria-label = ਕਾਪੀ ਕਰੋ
@@ -88,14 +76,10 @@ screenshots-component-copy-key = C
 ##
 
 # This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
-# This string represents the selection size area
 # "×" here represents "by" (i.e 123 by 456)
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = ਇਸ ਖੇਤਰ ਚੁਣੋ
