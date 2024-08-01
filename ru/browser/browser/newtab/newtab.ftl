@@ -390,3 +390,27 @@ newtab-weather-menu-hide-weather = Скрыть погоду на новой в�
 newtab-weather-menu-learn-more = Подробнее
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Данные о погоде сейчас недоступны.
+
+## Topic Labels
+
+newtab-topic-label-business = Бизнес
+newtab-topic-label-career = Карьера
+newtab-topic-label-education = Образование
+newtab-topic-label-arts = Развлечения
+newtab-topic-label-food = Еда
+newtab-topic-label-health = Здоровье
+newtab-topic-label-hobbies = Игры
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Деньги
+newtab-topic-label-society-parenting = Воспитание
+newtab-topic-label-government = Политика
+newtab-topic-label-education-science = Наука
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Лайфхаки
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Техника
+newtab-topic-label-travel = Путешествия
