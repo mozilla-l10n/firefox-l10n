@@ -310,6 +310,12 @@ newtab-wallpaper-abstract-orange = Оранжеви фигури
 
 ## Photographs
 
+newtab-wallpaper-beach-at-sunrise = Плаж при изгрев
+newtab-wallpaper-beach-at-sunset = Плаж по залез
+newtab-wallpaper-storm-sky = Бурно небе
+newtab-wallpaper-sky-with-pink-clouds = Небе с розови облаци
+newtab-wallpaper-white-mountains = Бели планини
+newtab-wallpaper-feature-highlight-button = Разбрах
 
 ## New Tab Weather
 
