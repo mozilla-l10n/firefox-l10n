@@ -49,6 +49,7 @@ experimental-features-ime-search-description = 東亞與印度語系使用者須
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = 子母畫面：切換分頁時自動開啟
+experimental-features-auto-pip-description = 切換分頁時，於播放中的影片開啟子母畫面。
 experimental-features-group-browsing =
     .label = 瀏覽
 experimental-features-group-developer-tools =

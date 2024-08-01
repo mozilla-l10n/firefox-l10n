@@ -402,6 +402,10 @@ newtab-topic-label-finance = 個人財務
 newtab-topic-label-society-parenting = 育兒
 newtab-topic-label-government = 政治
 newtab-topic-label-education-science = 科學
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = 自我成長
 newtab-topic-label-sports = 體育
 newtab-topic-label-tech = 科技
 newtab-topic-label-travel = 旅遊
