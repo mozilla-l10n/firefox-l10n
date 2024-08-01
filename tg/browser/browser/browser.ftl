@@ -641,7 +641,7 @@ urlbar-group-recent-searches =
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
-    .label = Машҳур дар «{ $engine }»
+    .label = Тамоюл дар «{ $engine }»
 
 ## Reader View toolbar buttons
 
