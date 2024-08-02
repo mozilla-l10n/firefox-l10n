@@ -1384,8 +1384,12 @@ httpsonly-radio-enabled2 =
     .label = Defnyddio dim ond HTTPS ym mhob ffenestr
 httpsonly-radio-enabled-pbm =
     .label = Galluogi Modd HTTPS-yn-Unig mewn ffenestri preifat yn unig
+httpsonly-radio-enabled-pbm2 =
+    .label = Defnyddio dim ond HTTPS ym mhob ffenestr breifat
 httpsonly-radio-disabled =
     .label = Peidio â galluogi Modd HTTPS-yn-Unig
+httpsonly-radio-disabled2 =
+    .label = Rhowch gynnig ar HTTPS yn gyntaf, ond caniatewch gysylltiadau heb fod yn ddiogel
 
 ## DoH Section
 

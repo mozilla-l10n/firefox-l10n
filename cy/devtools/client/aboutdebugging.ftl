@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Galluogi dewislen datblygwyr a
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Galluogi Dadfygio USB yn Newislen Datblygwr Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Galluogi trosglwyddo ffeil a sicrhau nad yw eich dyfais yn y modd gwefru'n unig.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Galluogi Dadfygio USB yn Firefox ar y ddyfais Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Cysylltu'r ddyfais Android i'ch cyfrifiadur.
