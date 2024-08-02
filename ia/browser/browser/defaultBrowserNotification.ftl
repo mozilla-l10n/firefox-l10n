@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Facer de { -brand-short-name } tu navigator primari?
 default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: face lo tu navigator predefinite e clava lo al barra de applicationes.
+default-browser-prompt-message-pin-msix = Tene { -brand-short-name } sempre a portata de mano: rende predefinite tu navigator e appuncta lo al barra de applicationes e al menu de initio.
 default-browser-prompt-message-pin-mac = Mantene { -brand-short-name }  a portata de tu manos: face lo tu navigator predefinite e mantene lo in tu Dock.
 default-browser-prompt-button-primary-set = Configura lo como navigator primari
 default-browser-prompt-button-primary-pin = Facer lo le navigator primari
