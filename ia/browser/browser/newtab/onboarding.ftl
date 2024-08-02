@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Retene { -brand-short-name } in Dock
        *[other] Clava { -brand-short-name } al barra de apps
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Appuncta { -brand-short-name } al barra de apps e al menu de initio
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
