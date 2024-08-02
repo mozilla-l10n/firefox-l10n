@@ -395,9 +395,17 @@ newtab-topic-label-arts = Eğlence
 newtab-topic-label-food = Yemek
 newtab-topic-label-health = Sağlık
 newtab-topic-label-hobbies = Oyun
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Para
 newtab-topic-label-society-parenting = Ebeveynlik
 newtab-topic-label-government = Politika
 newtab-topic-label-education-science = Bilim
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Kişisel Gelişim
 newtab-topic-label-sports = Spor
 newtab-topic-label-tech = Teknoloji
 newtab-topic-label-travel = Seyahat
