@@ -344,6 +344,7 @@ onboarding-easy-setup-security-and-privacy-title = Z veseljem skrbimo za vašo v
 onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni brskalnik preprečuje podjetjem, da bi vas skrivaj spremljala po spletu.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Ostanite šifrirani pri skakanju z naprave na napravo
+onboarding-mobile-download-security-and-privacy-subtitle = Pri sinhronizaciji { -brand-short-name } ohranja vaša gesla, zaznamke in druge podatke varne s šifriranjem. Poleg tega vam omogoča priklicati zavihke, ki jih imate odprte na drugih napravah.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam krije hrbet
 onboarding-gratitude-security-and-privacy-subtitle = Hvala, ker uporabljate { -brand-short-name }, ki ga podpira Mozilla Foundation. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.
