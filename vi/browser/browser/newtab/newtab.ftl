@@ -388,3 +388,27 @@ newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
 newtab-weather-menu-learn-more = Tìm hiểu thêm
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Dữ liệu thời tiết hiện không có sẵn.
+
+## Topic Labels
+
+newtab-topic-label-business = Kinh doanh
+newtab-topic-label-career = Nghề nghiệp
+newtab-topic-label-education = Giáo dục
+newtab-topic-label-arts = Giải trí
+newtab-topic-label-food = Thực phẩm
+newtab-topic-label-health = Sức khỏe
+newtab-topic-label-hobbies = Trò chơi
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Tài chính cá nhân
+newtab-topic-label-society-parenting = Nuôi dạy con cái
+newtab-topic-label-government = Chính trị
+newtab-topic-label-education-science = Khoa học
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Mẹo vặt cuộc sống
+newtab-topic-label-sports = Thể thao
+newtab-topic-label-tech = Công nghệ
+newtab-topic-label-travel = Du lịch

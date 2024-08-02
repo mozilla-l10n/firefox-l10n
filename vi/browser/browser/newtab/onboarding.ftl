@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Giữ { -brand-short-name } trên thanh dock
        *[other] Ghim { -brand-short-name } vào thanh tác vụ
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Ghim { -brand-short-name } vào thanh tác vụ và start menu
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
