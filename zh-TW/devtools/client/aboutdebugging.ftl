@@ -112,7 +112,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = 於您的 Android 裝置開啟
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = 於「開發者選單」開啟「USB 除錯」。
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-file-transfer = 請開啟檔案傳輸，並確認您的裝置未處理「僅充電」模式。
+about-debugging-setup-usb-step-enable-file-transfer = 請開啟檔案傳輸，並確認您的裝置未處於「僅充電」模式。
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = 於 Android 裝置上的 Firefox 開啟「USB 除錯」。
 # USB section step by step guide
