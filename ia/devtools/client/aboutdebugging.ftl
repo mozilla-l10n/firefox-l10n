@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Activar le menu pro disveloppa
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Activar le Depuration USB in le menu pro disveloppatores sur Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Activa le transferentia de file e assecura te que tu apparato non es in modo solo in cargamento.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Activar le Depuration USB in Firefox sur le apparato Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connecte le apparato Android a tu computator.
