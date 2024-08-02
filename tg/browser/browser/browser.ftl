@@ -1038,6 +1038,10 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Равзанаи «Файл» дар «Windows» кушода нашуд. Ягон файл ё ҷузвдон интихоб карда нашуд.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Равзанаи «Файл» дар «Windows» кушода нашуд. Файл ба «{ $path }» нигоҳ дошта мешавад.
+file-picker-failed-save-nowhere = Равзанаи «Файл» дар «Windows» кушода нашуд. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
