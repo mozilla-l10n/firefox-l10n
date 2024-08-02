@@ -1376,9 +1376,12 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 
 httpsonly-header = Modd HTTPS-yn-Unig
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.
+httpsonly-description2 = Mae { -brand-short-name } yn creu cysylltiadau diogel ac wedi'u hamgryptio i wefannau rydych yn ymweld â nhw. Bydd { -brand-short-name } yn eich rhybuddio os nad yw cysylltiad yn ddiogel pan fydd Dim-ond-HTTPS ymlaen.
 httpsonly-learn-more = Darllen rhagor
 httpsonly-radio-enabled =
     .label = Galluogi Modd HTTPS-yn-Unig ym mhob ffenestr
+httpsonly-radio-enabled2 =
+    .label = Defnyddio dim ond HTTPS ym mhob ffenestr
 httpsonly-radio-enabled-pbm =
     .label = Galluogi Modd HTTPS-yn-Unig mewn ffenestri preifat yn unig
 httpsonly-radio-disabled =

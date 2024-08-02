@@ -394,3 +394,27 @@ newtab-weather-menu-hide-weather = Cuddio'r tywydd ar Dab Newydd
 newtab-weather-menu-learn-more = Dysgu rhagor
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Nid yw data tywydd ar gael ar hyn o bryd.
+
+## Topic Labels
+
+newtab-topic-label-business = Busnes
+newtab-topic-label-career = Gyrfaoedd
+newtab-topic-label-education = Addysg
+newtab-topic-label-arts = Adloniant
+newtab-topic-label-food = Bwyd
+newtab-topic-label-health = Iechyd
+newtab-topic-label-hobbies = Gemau
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Arian
+newtab-topic-label-society-parenting = Rhiantu
+newtab-topic-label-government = Gwleidyddiaeth
+newtab-topic-label-education-science = Gwyddoniaeth
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Gwella'ch Bywyd
+newtab-topic-label-sports = Chwaraeon
+newtab-topic-label-tech = Technoleg
+newtab-topic-label-travel = Teithio
