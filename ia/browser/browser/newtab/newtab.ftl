@@ -391,12 +391,17 @@ newtab-weather-error-not-available = Datos meteo non es disponibile al momento.
 newtab-topic-label-business = Negotios
 newtab-topic-label-career = Carriera
 newtab-topic-label-education = Education
+newtab-topic-label-arts = Intertenimento
 newtab-topic-label-food = Alimentos
+newtab-topic-label-health = Sanitate
 newtab-topic-label-hobbies = Jocos
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Moneta
+newtab-topic-label-society-parenting = Education
+newtab-topic-label-government = Politica
+newtab-topic-label-education-science = Scientia
 newtab-topic-label-sports = Sports
 newtab-topic-label-tech = Technologia
 newtab-topic-label-travel = Viages
