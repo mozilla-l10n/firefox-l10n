@@ -385,3 +385,19 @@ newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
 newtab-weather-menu-learn-more = Daha fazla bilgi al
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Hava durumu verileri şu anda mevcut değil.
+
+## Topic Labels
+
+newtab-topic-label-business = İş
+newtab-topic-label-career = Kariyer
+newtab-topic-label-education = Eğitim
+newtab-topic-label-arts = Eğlence
+newtab-topic-label-food = Yemek
+newtab-topic-label-health = Sağlık
+newtab-topic-label-hobbies = Oyun
+newtab-topic-label-society-parenting = Ebeveynlik
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Bilim
+newtab-topic-label-sports = Spor
+newtab-topic-label-tech = Teknoloji
+newtab-topic-label-travel = Seyahat
