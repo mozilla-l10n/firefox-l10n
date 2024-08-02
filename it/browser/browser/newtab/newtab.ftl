@@ -424,6 +424,7 @@ newtab-topic-selection-title = Seleziona degli argomenti per personalizzare il t
 newtab-topic-selection-subtitle = Scegli due o più argomenti. I nostri esperti curatori daranno priorità alle storie più adatte ai tuoi interessi. Puoi aggiornare le tue preferenze in qualsiasi momento.
 newtab-topic-selection-save-button = Salva
 newtab-topic-selection-cancel-button = Annulla
+newtab-topic-selection-button-maybe-later = Magari più tardi
 newtab-topic-selection-privacy-link = Scopri come proteggiamo i tuoi dati e la tua privacy
 newtab-topic-selection-button-update-interests = Aggiorna i tuoi interessi
 newtab-topic-selection-button-pick-interests = Scegli i tuoi interessi
