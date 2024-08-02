@@ -234,6 +234,9 @@ newtab-pocket-saved = Нигоҳ дошта шуд
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Бештар ба ин монанд
 newtab-toast-dismiss-button =
     .title = Нодида гузарондан
     .aria-label = Нодида гузарондан

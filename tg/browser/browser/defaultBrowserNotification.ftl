@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Браузери «{ -brand-short-name }»-ро ҳамчун браузери асосӣ таъин мекунед?
 default-browser-prompt-message-pin = «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарз истифода баред ва ба навори вазифаи худ васл кунед.
+default-browser-prompt-message-pin-msix = «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарз истифода баред ва ба навори вазифаи худ ва менюи «Оғоз» васл кунед.
 default-browser-prompt-message-pin-mac = «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарз истифода баред ва ба мустақари худ ҷойгир кунед.
 default-browser-prompt-button-primary-set = Гузоштан ҳамчун браузери асосӣ
 default-browser-prompt-button-primary-pin = Ҳамчун браузери асосӣ истифода бурда шавад
