@@ -1268,6 +1268,7 @@ website-advertising-header = Preferéncias de publicitat dels sites web
 website-advertising-private-attribution =
     .label = Permetre als sites Web de realizar de mesuras publicitàrias en respectant la vida privada
     .accesskey = P
+website-advertising-private-attribution-description = Aquò ajuda los sites a comprendre las performanças de lors publicitats sens reculhir de donadas vos tocant.
 
 ## Privacy Section - Security
 ##
