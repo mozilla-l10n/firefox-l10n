@@ -388,3 +388,21 @@ newtab-weather-menu-hide-weather = Skjul været på ny fane
 newtab-weather-menu-learn-more = Les mer
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Værdata er ikke tilgjengelig akkurat nå.
+
+## Topic Labels
+
+newtab-topic-label-business = Forretning
+newtab-topic-label-career = Karriere
+newtab-topic-label-education = Utdannelse
+newtab-topic-label-arts = Underholdning
+newtab-topic-label-food = Mat
+newtab-topic-label-health = Helse
+newtab-topic-label-hobbies = Spill
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Penger
+newtab-topic-label-society-parenting = Foreldreskap
+newtab-topic-label-government = Politikk
+newtab-topic-label-education-science = Vitenskap
+newtab-topic-label-sports = Sport
