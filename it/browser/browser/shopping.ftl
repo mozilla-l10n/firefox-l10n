@@ -126,7 +126,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Come determiniamo la qualità delle recensioni
-shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia AI di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
+shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
 shopping-analysis-explainer-grades-intro = Assegniamo alle recensioni di ogni prodotto un <strong>voto in lettere</strong> dalla A alla F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo affidabili.
 shopping-analysis-explainer-learn-more2 = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-name } determina la qualità delle recensioni</a>.
