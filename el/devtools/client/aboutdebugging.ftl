@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Ενεργοποιήστε τ�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Ενεργοποιήστε το «Εντοπισμός σφαλμάτων μέσω USB» στο μενού προγραμματιστή Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Ενεργοποιήστε τη μεταφορά αρχείων και βεβαιωθείτε ότι η συσκευή σας δεν είναι σε λειτουργία «Μόνο φόρτιση».
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε τον έλεγχο σφαλμάτων μέσω USB στο Firefox της Android συσκευής σας.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.

@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Διατήρηση του { -brand-short-name } στο Dock
        *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών και το μενού έναρξης
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration

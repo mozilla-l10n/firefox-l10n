@@ -389,3 +389,27 @@ newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα �
 newtab-weather-menu-learn-more = Μάθετε περισσότερα
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Τα δεδομένα καιρού δεν είναι διαθέσιμα αυτήν τη στιγμή.
+
+## Topic Labels
+
+newtab-topic-label-business = Επιχειρήσεις
+newtab-topic-label-career = Καριέρα
+newtab-topic-label-education = Εκπαίδευση
+newtab-topic-label-arts = Ψυχαγωγία
+newtab-topic-label-food = Φαγητό
+newtab-topic-label-health = Υγεία
+newtab-topic-label-hobbies = Παιχνίδια
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Οικονομικά
+newtab-topic-label-society-parenting = Ανατροφή παιδιών
+newtab-topic-label-government = Πολιτική
+newtab-topic-label-education-science = Επιστήμη
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Αυτοβελτίωση
+newtab-topic-label-sports = Αθλήματα
+newtab-topic-label-tech = Τεχνολογία
+newtab-topic-label-travel = Ταξίδια
