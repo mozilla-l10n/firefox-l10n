@@ -392,10 +392,24 @@ newtab-weather-error-not-available = Wetterdaten sind derzeit nicht verfügbar.
 
 ## Topic Labels
 
-newtab-topic-label-business = Geschäftlich
+newtab-topic-label-business = Geschäftliches
 newtab-topic-label-career = Karriere
 newtab-topic-label-education = Bildung
 newtab-topic-label-arts = Unterhaltung
 newtab-topic-label-food = Essen
 newtab-topic-label-health = Gesundheit
 newtab-topic-label-hobbies = Gaming
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Finanzen
+newtab-topic-label-society-parenting = Erziehung
+newtab-topic-label-government = Politik
+newtab-topic-label-education-science = Wissenschaft
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Life-Hacks
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Technik
+newtab-topic-label-travel = Reisen
