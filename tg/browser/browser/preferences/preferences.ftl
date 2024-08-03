@@ -1309,6 +1309,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Хусусиятҳои рекламавӣ барои сомонаҳо
 
 ## Privacy Section - Security
 ##

@@ -381,6 +381,7 @@ newtab-weather-error-not-available = Айни ҳол маълумот дар б�
 ## Topic Labels
 
 newtab-topic-label-business = Тиҷорат
+newtab-topic-label-career = Пешравӣ
 newtab-topic-label-education = Илму маърифат
 newtab-topic-label-arts = Вақтхушӣ
 newtab-topic-label-food = Ғизо
