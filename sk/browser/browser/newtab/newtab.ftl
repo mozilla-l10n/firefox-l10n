@@ -386,3 +386,27 @@ newtab-weather-menu-hide-weather = Skryť počasie na novej karte
 newtab-weather-menu-learn-more = Ďalšie informácie
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Údaje o počasí nie sú momentálne k dispozícii.
+
+## Topic Labels
+
+newtab-topic-label-business = Podnikanie
+newtab-topic-label-career = Kariéra
+newtab-topic-label-education = Vzdelávanie
+newtab-topic-label-arts = Zábava
+newtab-topic-label-food = Jedlo
+newtab-topic-label-health = Zdravie
+newtab-topic-label-hobbies = Hranie hier
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Financie
+newtab-topic-label-society-parenting = Rodičovstvo
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Veda
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Zaujímavé tipy
+newtab-topic-label-sports = Šport
+newtab-topic-label-tech = Technológie
+newtab-topic-label-travel = Cestovanie
