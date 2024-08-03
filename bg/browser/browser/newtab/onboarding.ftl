@@ -271,3 +271,4 @@ onboarding-device-migration-primary-button-label = Вход
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-survey-legal-link-label = С избирането на „{ onboarding-new-user-survey-next-button-label }“ вие се съгласявате с <a data-l10n-name="privacy_notice">Политиката за поверителност на { -brand-product-name }.</a>
