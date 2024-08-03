@@ -388,3 +388,27 @@ newtab-weather-menu-hide-weather = Жаңа бетте ауа райын жас�
 newtab-weather-menu-learn-more = Көбірек білу
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Ауа-райы деректері қазір қолжетімді емес.
+
+## Topic Labels
+
+newtab-topic-label-business = Бизнес
+newtab-topic-label-career = Мансап
+newtab-topic-label-education = Білім алу
+newtab-topic-label-arts = Ойын-сауық
+newtab-topic-label-food = Тамақ
+newtab-topic-label-health = Денсаулық
+newtab-topic-label-hobbies = Ойын
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Ақша
+newtab-topic-label-society-parenting = Тәрбие беру
+newtab-topic-label-government = Саясат
+newtab-topic-label-education-science = Ғылым
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Лайфхактар
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Техника
+newtab-topic-label-travel = Саяхат
