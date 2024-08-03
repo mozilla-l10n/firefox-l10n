@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } өнімін негізгі браузер қылу керек пе?
 default-browser-prompt-message-pin = { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, тапсырмалар панеліне бекітіңіз.
+default-browser-prompt-message-pin-msix = { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, тапсырмалар панеліне және басты мәзірге бекітіңіз.
 default-browser-prompt-message-pin-mac = { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, Dock ішіне бекітіңіз.
 default-browser-prompt-button-primary-set = Негізгі браузер ретінде орнату
 default-browser-prompt-button-primary-pin = Негізгі браузер қылу
