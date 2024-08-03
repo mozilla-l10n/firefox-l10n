@@ -45,7 +45,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Atti
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Attivazione/disattivazione audio e video WebRTC a livello globale
-experimental-features-webrtc-global-mute-toggles-description = Aggiungi controlli all’indicatore di condivisione WebRTC per consentire agli utenti di interrompere a livello globale la condivisione di microfono e fotocamera.
+experimental-features-webrtc-global-mute-toggles-description = Aggiunge controlli all’indicatore di condivisione WebRTC per consentire agli utenti di interrompere a livello globale la condivisione di microfono e fotocamera.
 
 # JS JIT Warp project
 experimental-features-js-warp =
