@@ -389,3 +389,13 @@ newtab-weather-menu-hide-weather = Wetter bei neuem Tab ausblenden
 newtab-weather-menu-learn-more = Weitere Informationen
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Wetterdaten sind derzeit nicht verfügbar.
+
+## Topic Labels
+
+newtab-topic-label-business = Geschäftlich
+newtab-topic-label-career = Karriere
+newtab-topic-label-education = Bildung
+newtab-topic-label-arts = Unterhaltung
+newtab-topic-label-food = Essen
+newtab-topic-label-health = Gesundheit
+newtab-topic-label-hobbies = Gaming
