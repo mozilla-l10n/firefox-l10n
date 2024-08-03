@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = Avbryt
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = Kopier ({ $shortcut })
-    .aria-label = Kopier
-screenshots-component-copy-button-label = Kopier
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = Last ned ({ $shortcut })
-    .aria-label = Last ned
-screenshots-component-download-button-label = Last ned
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Kopier
     .title = Kopier ({ $shortcut })
     .aria-label = Kopier
@@ -88,14 +76,10 @@ screenshots-component-copy-key = C
 ##
 
 # This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
-# This string represents the selection size area
 # "×" here represents "by" (i.e 123 by 456)
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Velg denne regionen

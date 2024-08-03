@@ -406,3 +406,5 @@ newtab-topic-label-society-parenting = Foreldreskap
 newtab-topic-label-government = Politikk
 newtab-topic-label-education-science = Vitenskap
 newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Teknologi
+newtab-topic-label-travel = Reise
