@@ -427,8 +427,8 @@ pdfjs-editor-new-alt-text-error-close-button = Chiudi
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
-pdfjs-editor-new-alt-text-ai-model-downloading-progress = Download in corso del modello AI per il testo alternativo ({ $downloadedSize } di { $totalSize } MB)
-    .aria-valuetext = Download in corso del modello AI per il testo alternativo ({ $downloadedSize } di { $totalSize } MB)
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Download in corso del modello IA per il testo alternativo ({ $downloadedSize } di { $totalSize } MB)
+    .aria-valuetext = Download in corso del modello IA per il testo alternativo ({ $downloadedSize } di { $totalSize } MB)
 
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Aggiunto testo alternativo
@@ -457,7 +457,7 @@ pdfjs-editor-alt-text-settings-create-model-description = Suggerisce una descriz
 
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
-pdfjs-editor-alt-text-settings-download-model-label = Modello AI per il testo alternativo ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-download-model-label = Modello IA per il testo alternativo ({ $totalSize } MB)
 
 pdfjs-editor-alt-text-settings-ai-model-description = Viene eseguito localmente sul tuo dispositivo in modo che i tuoi dati rimangano riservati. È richiesto per la generazione automatica del testo alternativo.
 pdfjs-editor-alt-text-settings-delete-model-button = Elimina

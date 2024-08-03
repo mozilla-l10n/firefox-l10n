@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-  .label = Chatbot AI
+  .label = Chatbot IA
 
 ## Labels for sidebar history panel
 
@@ -64,7 +64,7 @@ sidebar-context-menu-report-extension =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-  .label = Chatbot AI
+  .label = Chatbot IA
 sidebar-menu-history-label =
   .label = Cronologia
 sidebar-menu-synced-tabs-label =
