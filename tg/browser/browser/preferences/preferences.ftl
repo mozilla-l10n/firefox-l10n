@@ -1364,6 +1364,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = Танҳо HTTPS бояд дар равзанаҳои хусусӣ истифода карда шавад
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
+httpsonly-radio-disabled2 =
+    .label = Аввал аз HTTPS истифода баред, аммо ба пайвастҳое, ки бехатар намебошанд, иҷозат диҳед
 
 ## DoH Section
 

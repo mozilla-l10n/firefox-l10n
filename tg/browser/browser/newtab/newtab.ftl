@@ -381,4 +381,22 @@ newtab-weather-error-not-available = Айни ҳол маълумот дар б�
 ## Topic Labels
 
 newtab-topic-label-business = Тиҷорат
+newtab-topic-label-education = Илму маърифат
+newtab-topic-label-arts = Вақтхушӣ
 newtab-topic-label-food = Ғизо
+newtab-topic-label-health = Тандурустӣ
+newtab-topic-label-hobbies = Бозиҳо
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Молия
+newtab-topic-label-society-parenting = Тарбия
+newtab-topic-label-government = Сиёсат
+newtab-topic-label-education-science = Илм
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Таҷрибаи ҳаёт
+newtab-topic-label-sports = Варзишҳо
+newtab-topic-label-tech = Технологияҳо
+newtab-topic-label-travel = Сайёҳӣ
