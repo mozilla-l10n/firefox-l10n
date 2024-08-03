@@ -1356,8 +1356,12 @@ httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомо
 httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
+httpsonly-radio-enabled2 =
+    .label = Танҳо HTTPS бояд дар ҳамаи равзанаҳо истифода карда шавад
 httpsonly-radio-enabled-pbm =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» танҳо дар равзанаҳои хусусӣ
+httpsonly-radio-enabled-pbm2 =
+    .label = Танҳо HTTPS бояд дар равзанаҳои хусусӣ истифода карда шавад
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
 
