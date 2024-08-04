@@ -391,7 +391,6 @@ newtab-weather-error-not-available = Los datos meteorológicos no están disponi
 newtab-topic-label-business = Negocios
 newtab-topic-label-career = Empleo
 newtab-topic-label-education = Educación
-newtab-topic-label-arts = { "" }
 newtab-topic-label-food = Comida
 newtab-topic-label-health = Salud
 newtab-topic-label-hobbies = Juegos
