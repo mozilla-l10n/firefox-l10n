@@ -53,6 +53,7 @@ experimental-features-ime-search-description = IME (Input Method Editor) je nás
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Obraz v obraze: automatické otevírání při přepnutí panelu
+experimental-features-auto-pip-description = Povolí obraz v obraze u aktivních videí při přepínání panelů.
 experimental-features-group-browsing =
     .label = Prohlížení
 experimental-features-group-developer-tools =

@@ -413,6 +413,10 @@ newtab-topic-label-finance = Finance
 newtab-topic-label-society-parenting = Rodičovství
 newtab-topic-label-government = Politika
 newtab-topic-label-education-science = Věda
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Zajímavé tipy
 newtab-topic-label-sports = Sporty
 newtab-topic-label-tech = Technologie
 newtab-topic-label-travel = Cestování
