@@ -50,6 +50,9 @@ experimental-features-js-warp-description = Povolí projekt Warp, který má zle
 experimental-features-ime-search =
     .label = Adresní řádek: zobrazovat výsledky při použití IME
 experimental-features-ime-search-description = IME (Input Method Editor) je nástroj pro zadávání komplexních symbolů, jako jsou znaky východoasijských nebo indických jazyků, pomocí běžné klávesnice. Po zapnutí tohoto experimentu bude panel adresního řádku zobrazovat výsledky vyhledávání a návrhy našeptávače i při použití IME pro zadávání textu. Protože IME může zakrýt výsledky adresního řádku, doporučujeme tuto předvolbu použít jen s IME, který toto nedělá.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Obraz v obraze: automatické otevírání při přepnutí panelu
 experimental-features-group-browsing =
     .label = Prohlížení
 experimental-features-group-developer-tools =

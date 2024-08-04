@@ -242,6 +242,8 @@ mr2022-onboarding-pin-primary-button-label =
                *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel
             }
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Připnout { -brand-short-name } na hlavní panel a do nabídky Start
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
