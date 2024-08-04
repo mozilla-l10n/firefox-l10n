@@ -35,6 +35,7 @@ default-browser-prompt-message-pin-mac =
         [neuter] Mějte { -brand-short-name(case: "acc") } nastavené jako výchozí prohlížeč a připnuté ve svém docku.
        *[other] Mějte aplikaci { -brand-short-name } nastavenou jako výchozí prohlížeč a připnutou ve svém docku.
     }
+default-browser-prompt-button-primary-set = Nastavit jako výchozí prohlížeč
 default-browser-prompt-button-primary-pin = Nastavit jako hlavní prohlížeč
 default-browser-prompt-title-alt =
     { -brand-short-name.case-status ->

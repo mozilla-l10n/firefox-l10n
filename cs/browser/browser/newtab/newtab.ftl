@@ -396,3 +396,20 @@ newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
 newtab-weather-menu-learn-more = Zjistit více
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Údaje o počasí nejsou momentálně dostupné.
+
+## Topic Labels
+
+newtab-topic-label-career = Kariéra
+newtab-topic-label-education = Vzdělávání
+newtab-topic-label-arts = Zábava
+newtab-topic-label-food = Jídlo
+newtab-topic-label-health = Zdraví
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Finance
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Věda
+newtab-topic-label-sports = Sporty
+newtab-topic-label-tech = Technologie
+newtab-topic-label-travel = Cestování
