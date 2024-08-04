@@ -128,6 +128,11 @@ spotlight-public-wifi-vpn-link = Не сега
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = По-добрият интернет започва с вас
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Запази в Dock
+       *[other] Закачане на лентата
+    }
 spotlight-pin-secondary-button = Не сега
 
 ## MR2022 Background Update Windows native toast notification strings.
