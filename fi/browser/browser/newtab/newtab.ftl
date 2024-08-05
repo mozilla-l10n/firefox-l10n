@@ -389,3 +389,16 @@ newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
 newtab-weather-menu-learn-more = Lue lisää
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Säätiedot eivät ole tällä hetkellä saatavilla.
+
+## Topic Labels
+
+newtab-topic-label-education = Koulutus
+newtab-topic-label-arts = Viihde
+newtab-topic-label-food = Ruoka
+newtab-topic-label-health = Terveys
+newtab-topic-label-hobbies = Pelaaminen
+newtab-topic-label-government = Politiikka
+newtab-topic-label-education-science = Tiede
+newtab-topic-label-sports = Urheilu
+newtab-topic-label-tech = Tekniikka
+newtab-topic-label-travel = Matkailu
