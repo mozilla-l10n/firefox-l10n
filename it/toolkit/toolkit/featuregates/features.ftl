@@ -68,3 +68,6 @@ experimental-features-group-webpage-display =
 experimental-features-auto-pip =
     .label = Picture-in-Picture: apri automaticamente al cambio scheda
 experimental-features-auto-pip-description = Attiva Picture-in-Picture per i video in esecuzione quando si cambia scheda.
+
+genai-settings-chat-title =
+    .label = Chatbot IA
