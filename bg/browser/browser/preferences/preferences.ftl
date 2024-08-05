@@ -974,7 +974,7 @@ autofill-payment-methods-checkbox-message = Запазване и попълва
     .accesskey = щ
 autofill-payment-methods-checkbox-submessage = Включва кредитни и дебитни карти
     .accesskey = и
-autofill-saved-payment-methods-button = Запазени начини на плащане
+autofill-saved-payment-methods-button = Запазени начини за плащане
     .accesskey = п
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Изисква се влизане в устройство за попълването и управлението на начините за плащане
