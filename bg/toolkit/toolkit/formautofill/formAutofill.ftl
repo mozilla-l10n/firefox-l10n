@@ -16,6 +16,8 @@ autofill-options-link-osx = Настройки за попълване на фо
 
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Изчистване на попълнения формуляр
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Управление на начините за плащане
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

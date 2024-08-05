@@ -163,5 +163,15 @@ migration-safari-password-import-select-button = Изберете Файл
 
 ##
 
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { NUMBER($quantity) ->
+        [one] { $quantity } начин за плащане
+       *[other] { $quantity } начина за плащане
+    }
 migration-wizard-safari-instructions-continue = Изберете „Продължи“
 migration-wizard-safari-instructions-folder = Изберете папка Safari от списъка и изберете „Отваряне“

@@ -89,11 +89,13 @@ autofill-country-warning-message = Автоматичното попълване
 autofill-add-new-card-title = Нова банкова карта
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Промяна
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Добавяне на карта
 autofill-card-number = Номер на карта
 autofill-card-invalid-number = Моля, въведете валиден номер на банкова карта
 autofill-card-name-on-card = Име от картата
 autofill-card-expires-month = Валидна до месец
-autofill-card-expires-year = Валидна до година
+autofill-card-expires-year = година
 autofill-card-billing-address = Адрес за фактура
 autofill-card-network = Вид на картата
 
