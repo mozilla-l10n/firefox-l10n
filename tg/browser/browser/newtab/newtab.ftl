@@ -237,6 +237,10 @@ newtab-pocket-saved = Нигоҳ дошта шуд
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Бештар ба ин монанд
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Ман ҳавасманд нестам
+newtab-toast-thumbs-up-or-down = Ташаккур. Фикру мулоҳизаҳои шумо ба мо барои беҳтар кардани навори хабарҳои шумо ёрӣ медиҳанд.
 newtab-toast-dismiss-button =
     .title = Нодида гузарондан
     .aria-label = Нодида гузарондан
@@ -334,6 +338,8 @@ newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва нори�
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Суратҳо
+newtab-wallpaper-beach-at-sunrise = Соҳил дар тулӯи офтоб
+newtab-wallpaper-beach-at-sunset = Соҳил дар ғуруби офтоб
 newtab-wallpaper-white-mountains = Кӯҳҳои сафед
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
