@@ -392,13 +392,24 @@ newtab-weather-error-not-available = Säätiedot eivät ole tällä hetkellä sa
 
 ## Topic Labels
 
+newtab-topic-label-business = Liiketoiminta
+newtab-topic-label-career = Ura
 newtab-topic-label-education = Koulutus
 newtab-topic-label-arts = Viihde
 newtab-topic-label-food = Ruoka
 newtab-topic-label-health = Terveys
 newtab-topic-label-hobbies = Pelaaminen
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Raha-asiat
+newtab-topic-label-society-parenting = Vanhemmuus
 newtab-topic-label-government = Politiikka
 newtab-topic-label-education-science = Tiede
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Niksit
 newtab-topic-label-sports = Urheilu
 newtab-topic-label-tech = Tekniikka
 newtab-topic-label-travel = Matkailu
