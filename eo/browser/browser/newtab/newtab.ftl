@@ -230,6 +230,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } estas parto de la f
 newtab-pocket-save = Konservi
 newtab-pocket-saved = Konservitaj
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Malkovru la plej bonajn aferojn en la reto
@@ -372,3 +375,15 @@ newtab-weather-menu-hide-weather = Kaŝi veteron en nova langeto
 newtab-weather-menu-learn-more = Pli da informo
 # This message is shown if user is working offline
 newtab-weather-error-not-available = En tiu ĉi momento ne haveblas veteraj datumoj.
+
+## Topic Labels
+
+newtab-topic-label-government = Politiko
+newtab-topic-label-education-science = Scienco
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Vivsimpligiloj
+newtab-topic-label-sports = Sporto
+newtab-topic-label-tech = Teknologio
+newtab-topic-label-travel = Vojaĝo
