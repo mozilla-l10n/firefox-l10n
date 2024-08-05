@@ -11,6 +11,8 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Добавяне на „{ $extension }“?
+webext-perms-header-with-perms = Да се добави ли { $extension }? Това разширение има следните разрешения:
+webext-perms-header-unsigned = Да се добави ли { $extension }? Това разширение е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете го, само ако имате доверие на източника.
 webext-perms-sideload-header = Добавката „{ $extension }“ е добавена
 webext-perms-optional-perms-header = Добавката „{ $extension }“ иска допълнителни права.
 
@@ -22,7 +24,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Отказ
     .accesskey = О
-
 webext-perms-sideload-text = Друга програма от компютъра е инсталирала добавка, която може да се отрази на разглеждането. Моля, прегледайте правата на тази добавка и изберете Включване или Отказ (оставя добавката изключена).
 webext-perms-sideload-text-no-perms = Друга програма от компютъра е инсталирала добавка, която може да се отрази на разглеждането. Моля, изберете Включване или Отказ (оставя добавката изключена).
 webext-perms-sideload-enable =
@@ -31,11 +32,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Отказ
     .accesskey = О
-
 webext-perms-update-accept =
     .label = Обновяване
     .accesskey = О
-
 webext-perms-optional-perms-list-intro = Иска права за:
 webext-perms-optional-perms-allow =
     .label = Разрешаване
@@ -43,13 +42,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Забраняване
     .accesskey = з
-
 webext-perms-host-description-all-urls = Достъп до вашите данни от всички страници
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Достъп до вашите данни от страниците на домейна { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,7 +57,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Достъп до вашите данни от { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
