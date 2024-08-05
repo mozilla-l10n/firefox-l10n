@@ -115,6 +115,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne montri ĉi tiun dialogon denove.
 
 tabbrowser-confirm-close-duplicate-tabs-title = Atento!
 tabbrowser-confirm-close-duplicate-tabs-text = Ni lasos la lastan aktivan langeton malfermita
+tabbrowser-confirm-close-all-duplicate-tabs-title = Ĉu fermi duobligitajn langetojn?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Fermi langetojn
 
 ##
 

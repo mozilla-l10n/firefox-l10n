@@ -232,6 +232,9 @@ newtab-pocket-saved = Konservitaj
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+newtab-toast-dismiss-button =
+    .title = Ignori
+    .aria-label = I
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -378,6 +381,18 @@ newtab-weather-error-not-available = En tiu ĉi momento ne haveblas veteraj datu
 
 ## Topic Labels
 
+newtab-topic-label-business = Negoco
+newtab-topic-label-career = Kariero
+newtab-topic-label-education = Eduko
+newtab-topic-label-arts = Distro
+newtab-topic-label-food = Manĝaĵo
+newtab-topic-label-health = Sano
+newtab-topic-label-hobbies = Ludo
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Financo
+newtab-topic-label-society-parenting = Gepatreco
 newtab-topic-label-government = Politiko
 newtab-topic-label-education-science = Scienco
 # ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
