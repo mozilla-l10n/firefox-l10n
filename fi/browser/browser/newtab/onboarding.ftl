@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Kiinnitä { -brand-short-name } Dockiin
        *[other] Kiinnitä { -brand-short-name } tehtäväpalkkiin
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Kiinnitä { -brand-short-name } tehtäväpalkkiin ja Käynnistä-valikkoon
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
