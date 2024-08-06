@@ -16,3 +16,7 @@ elevation-more-elevated =
     al vignarà instalât al prossim inviament di { -brand-short-name }. Tu puedis
     tornâ a inviâ { -brand-short-name } cumò, continuâ a lavorâ e tornâ a inviâ plui
     indenant opûr declinâ chest inzornament.
+sandbox-missing-unprivileged-namespaces = Cualchidune des funzionalitâts di sigurece di { -brand-short-name } a podaressin dâti mancul protezion cul sisteme operatîf che tu stâs doprant.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = No sta mostrâ plui
+    .accesskey = N
