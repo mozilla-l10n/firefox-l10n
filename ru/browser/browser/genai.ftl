@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Выбирая Google Gemini, вы согла
 genai-settings-chat-huggingchat-links = Выбирая HuggingChat, вы соглашаетесь с <a data-l10n-name="link1">Уведомлением о конфиденциальности HuggingChat</a> и <a data-l10n-name="link2">Политикой конфиденциальности Hugging Face</a>.
 genai-settings-chat-lechat-links = Выбирая Le Chat Mistral, вы соглашаетесь с <a data-l10n-name="link1">Условиями использования</a> и  <a data-l10n-name="link2">Политикой конфиденциальности</a> Mistral AI.
 genai-settings-chat-localhost-links = Создайте своего приватного локального чат-бота, например, <a data-l10n-name="link1">llamafile</a> из группы инноваций { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Отображает ярлык для запросов при выделении текста. { -brand-short-name } отправляет текст, заголовок страницы и приглашение чат-боту.
+    .label = Показывать подсказки при выделении текста
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +27,32 @@ genai-settings-chat-localhost-links = Создайте своего приват
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Резюмировать
+    .value = Пожалуйста, резюмируйте выделенное, используя точный и лаконичный язык. Используйте заголовки и маркированные списки в резюме, чтобы его можно было просмотреть. Сохраните смысл и фактологическую точность.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Упростить язык
+    .value = Пожалуйста, перепишите выделенное, используя короткие предложения и простые слова. Сохраняйте смысл и фактологическую точность.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Проверить меня
+    .value = Пожалуйста, проверьте меня по выделенному тексту. Задавайте мне различные вопросы, например, с несколькими вариантами ответов, правда или ложь, и краткие ответы. Дождитесь моего ответа, прежде чем переходить к следующему вопросу.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Объяснить это
+    .value = Пожалуйста, объясните ключевые понятия в выделенном тексте простыми словами. Также используйте примеры.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Спросить у ИИ-чат-бота
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Спросить у { $provider }
+genai-input-ask-generic =
+    .placeholder = Спросить у ИИ-чат-бота…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Спросить у { $provider }…
