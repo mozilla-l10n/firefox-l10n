@@ -396,6 +396,20 @@ newtab-topic-label-education = Utdanning
 newtab-topic-label-arts = Underhaldning
 newtab-topic-label-food = Mat
 newtab-topic-label-health = Helse
+newtab-topic-label-hobbies = Spel
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Pengar
+newtab-topic-label-society-parenting = Foreldreskap
+newtab-topic-label-government = Politikk
+newtab-topic-label-education-science = Vitskap
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Teknologi
+newtab-topic-label-travel = Reise
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Lagre
+newtab-topic-selection-cancel-button = Avbryt
+newtab-topic-selection-button-maybe-later = Kanskje seinare
