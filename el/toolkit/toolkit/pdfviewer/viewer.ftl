@@ -51,12 +51,6 @@ pdfjs-download-button-label = Λήψη
 pdfjs-bookmark-button =
     .title = Τρέχουσα σελίδα (Προβολή URL από τρέχουσα σελίδα)
 pdfjs-bookmark-button-label = Τρέχουσα σελίδα
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Άνοιγμα σε εφαρμογή
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Άνοιγμα σε εφαρμογή
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Προσθήκη ή επεξεργασία ε�
 pdfjs-editor-highlight-button =
     .title = Επισήμανση
 pdfjs-editor-highlight-button-label = Επισήμανση
-pdfjs-highlight-floating-button =
-    .title = Επισήμανση
 pdfjs-highlight-floating-button1 =
     .title = Επισήμανση
     .aria-label = Επισήμανση
@@ -400,3 +392,24 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Εμφάνιση όλων
 pdfjs-editor-highlight-show-all-button =
     .title = Εμφάνιση όλων
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Μάθετε περισσότερα
+pdfjs-editor-new-alt-text-create-automatically-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
+pdfjs-editor-new-alt-text-not-now-button = Όχι τώρα
+pdfjs-editor-new-alt-text-error-title = Δεν ήταν δυνατή η αυτόματη δημιουργία εναλλακτικού κειμένου
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Προστέθηκε εναλλακτικό κείμενο
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Απουσία εναλλακτικού κειμένου
+
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-automatic-title = Αυτόματο εναλλακτικό κείμενο
+pdfjs-editor-alt-text-settings-create-model-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
+pdfjs-editor-alt-text-settings-delete-model-button = Διαγραφή
+pdfjs-editor-alt-text-settings-download-model-button = Λήψη
+pdfjs-editor-alt-text-settings-downloading-model-button = Λήψη…
+pdfjs-editor-alt-text-settings-close-button = Κλείσιμο

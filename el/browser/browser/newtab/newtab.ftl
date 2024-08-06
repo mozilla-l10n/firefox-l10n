@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Πρόσφατη δραστηριότη�
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Προτάσεις του { $provider }
 newtab-section-header-stories = Άρθρα που σας βάζουν σε σκέψεις
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Σημερινές επιλογές για εσάς
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,3 +415,18 @@ newtab-topic-label-society = Αυτοβελτίωση
 newtab-topic-label-sports = Αθλήματα
 newtab-topic-label-tech = Τεχνολογία
 newtab-topic-label-travel = Ταξίδια
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Επιλέξτε θέματα για να βελτιώσετε τη ροή σας
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Επιλέξτε δύο ή περισσότερα θέματα. Οι ειδικοί επιμελητές μας δίνουν προτεραιότητα σε άρθρα που ταιριάζουν με τα ενδιαφέροντά σας. Κάντε ενημέρωση ανά πάσα στιγμή.
+newtab-topic-selection-save-button = Αποθήκευση
+newtab-topic-selection-cancel-button = Ακύρωση
+newtab-topic-selection-button-maybe-later = Ίσως αργότερα
+newtab-topic-selection-privacy-link = Μάθετε πώς προστατεύουμε και διαχειριζόμαστε τα δεδομένα
+newtab-topic-selection-button-update-interests = Ενημερώστε τα ενδιαφέροντά σας
+newtab-topic-selection-button-pick-interests = Επιλέξτε τα ενδιαφέροντά σας

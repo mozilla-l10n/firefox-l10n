@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Συνδεθείτε στον { -fxaccoun
 onboarding-device-migration-subtitle2 = Συνδεθείτε στον λογαριασμό σας για να μεταφέρετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-primary-button-label = Σύνδεση
 
+## Add-ons Picker screen
+
+amo-picker-title = Προσαρμόστε το { -brand-short-name } σας
+amo-picker-subtitle = Οι επεκτάσεις είναι σαν εφαρμογές για το πρόγραμμα περιήγησής σας και σας επιτρέπουν να προστατεύσετε τους κωδικούς πρόσβασής σας, να κάνετε λήψη βίντεο, να βρείτε προσφορές, να αποκλείσετε ενοχλητικές διαφημίσεις, να αλλάξετε την εμφάνιση του προγράμματος περιήγησής σας και πολλά άλλα.
+amo-picker-install-button-label = Προσθήκη στο { -brand-short-name }
+amo-picker-install-complete-label = Εγκαταστάθηκε
+amo-picker-collection-link = Εξερεύνηση περισσότερων προσθέτων
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
