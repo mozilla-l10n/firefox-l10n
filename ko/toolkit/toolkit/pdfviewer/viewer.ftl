@@ -51,12 +51,6 @@ pdfjs-download-button-label = 다운로드
 pdfjs-bookmark-button =
     .title = 현재 페이지 (현재 페이지에서 URL 보기)
 pdfjs-bookmark-button-label = 현재 페이지
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = 앱에서 열기
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = 앱에서 열기
 
 ##  Secondary toolbar and context menu
 
@@ -296,8 +290,6 @@ pdfjs-editor-stamp-button-label = 이미지 추가 또는 편집
 pdfjs-editor-highlight-button =
     .title = 강조 표시
 pdfjs-editor-highlight-button-label = 강조 표시
-pdfjs-highlight-floating-button =
-    .title = 강조 표시
 pdfjs-highlight-floating-button1 =
     .title = 강조 표시
     .aria-label = 강조 표시
@@ -392,3 +384,21 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = 모두 보기
 pdfjs-editor-highlight-show-all-button =
     .title = 모두 보기
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = 대체 텍스트 (이미지 설명) 편집
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = 대체 텍스트 (이미지 설명) 추가
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = 여기에 설명을 작성하세요…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = 이미지가 보이지 않거나 이미지가 로딩되지 않는 경우를 위한 간단한 설명입니다.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = 이 대체 텍스트는 자동으로 생성되었습니다.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = 더 알아보기
+
+## Image alt-text settings
+
