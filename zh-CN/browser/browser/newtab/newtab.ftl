@@ -384,3 +384,27 @@ newtab-weather-menu-hide-weather = 隐藏新标签页上的天气信息
 newtab-weather-menu-learn-more = 详细了解
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 目前无法获取天气数据。
+
+## Topic Labels
+
+newtab-topic-label-business = 商业
+newtab-topic-label-career = 职场
+newtab-topic-label-education = 教育
+newtab-topic-label-arts = 娱乐
+newtab-topic-label-food = 饮食
+newtab-topic-label-health = 健康
+newtab-topic-label-hobbies = 游戏
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = 理财
+newtab-topic-label-society-parenting = 育儿
+newtab-topic-label-government = 政治
+newtab-topic-label-education-science = 科学
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = 自我提升
+newtab-topic-label-sports = 体育
+newtab-topic-label-tech = 科技
+newtab-topic-label-travel = 旅行
