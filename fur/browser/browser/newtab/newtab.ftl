@@ -390,3 +390,9 @@ newtab-weather-menu-hide-weather = Plate il meteo ae Gnove schede
 newtab-weather-menu-learn-more = Plui informazions
 # This message is shown if user is working offline
 newtab-weather-error-not-available = I dâts sul meteo in chest moment no son disponibii.
+
+## Topic Labels
+
+newtab-topic-label-business = Economie
+newtab-topic-label-career = Cariere
+newtab-topic-label-education = Educazion

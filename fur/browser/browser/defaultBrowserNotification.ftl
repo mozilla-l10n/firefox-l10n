@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Rindi { -brand-short-name } il to navigadôr principâl?
 default-browser-prompt-message-pin = Ten { -brand-short-name } a puartade di man — rindilu il to navigadôr predefinît e fissilu te sbare des aplicazions.
+default-browser-prompt-message-pin-msix = Ten { -brand-short-name } a puartade di man — fâlu deventâ il to navigadôr predefinît e fissilu te sbare des aplicazions e tal menù Start.
 default-browser-prompt-message-pin-mac = Ten { -brand-short-name } sot man — Rindilu il to navigadôr predefinît e tegnilu tal to Dock.
+default-browser-prompt-button-primary-set = Met come navigadôr principâl
 default-browser-prompt-button-primary-pin = Rindilu navigadôr principâl
 default-browser-prompt-title-alt = Rindi { -brand-short-name } il to navigadôr predefinît?
 default-browser-prompt-message-alt = Garantìssiti velocitât, sigurece e riservatece ogni volte che tu navighis.
