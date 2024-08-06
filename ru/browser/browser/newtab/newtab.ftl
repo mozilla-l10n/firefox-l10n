@@ -430,3 +430,4 @@ newtab-topic-selection-cancel-button = Отменить
 newtab-topic-selection-button-maybe-later = Возможно, позже
 newtab-topic-selection-privacy-link = Узнайте, как мы защищаем данные и управляем ими
 newtab-topic-selection-button-update-interests = Обновите свои интересы
+newtab-topic-selection-button-pick-interests = Выберите ваши интересы

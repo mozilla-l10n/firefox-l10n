@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Войдите в свой { -fxaccount-b
 onboarding-device-migration-subtitle2 = Войдите в свой аккаунт, чтобы перенести свои закладки, пароли и историю на новое устройство.
 onboarding-device-migration-primary-button-label = Войти
 
+## Add-ons Picker screen
+
+amo-picker-title = Настройте свой { -brand-short-name }
+amo-picker-subtitle = Расширения — это вроде приложений для вашего браузера, они позволяют вам защищать пароли, загружать видео, находить выгодные покупки, блокировать раздражающую рекламу, изменять внешний вид браузера и многое другое.
+amo-picker-install-button-label = Добавить в { -brand-short-name }
+amo-picker-install-complete-label = Установлено
+amo-picker-collection-link = Исследуйте больше дополнений
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
