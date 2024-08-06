@@ -16,6 +16,7 @@ genai-settings-chat-copilot-links = בחירה ב־Copilot מהווה הסכמה
 genai-settings-chat-gemini-links = בחירה ב־Google Gemini מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות של Google</a>, מדיניות השימוש האסור של AI גנרטיבי</a> ו<a data-l10n-name="link3">הצהרת הפרטיות של Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = בחירה ב־HuggingChat מהווה הסכמה ל<a data-l10n-name="link1">הצהרת הפרטיות של HuggingChat</a> ול<a data-l10n-name="link2">מדיניות הפרטיות של Hugging Face</a>.
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
+genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -26,3 +27,11 @@ genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה ה�
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = לשאול את { $provider }
+genai-input-ask-generic =
+    .placeholder = לשאול צ’אט בוט AI…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = לשאול את { $provider }…

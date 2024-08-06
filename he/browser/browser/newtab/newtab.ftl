@@ -198,6 +198,8 @@ newtab-section-header-recent-activity = פעילות אחרונה
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = מומלץ על־ידי { $provider }
 newtab-section-header-stories = סיפורים מעוררי מחשבה
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = המאמרים של היום בשבילך
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -407,3 +409,18 @@ newtab-topic-label-society = טיפים לחיים
 newtab-topic-label-sports = ספורט
 newtab-topic-label-tech = טכנולוגיה
 newtab-topic-label-travel = טיולים
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = נא לבחור בנושאים כדי לכוונן את הפיד שלך
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = נא לבחור בשני נושאים או יותר. המומחים שלנו נותנים עדיפות לסיפורים המותאמים לתחומי העניין שלך. ניתן לעדכן אותם בכל עת.
+newtab-topic-selection-save-button = שמירה
+newtab-topic-selection-cancel-button = ביטול
+newtab-topic-selection-button-maybe-later = אולי אחר כך
+newtab-topic-selection-privacy-link = כיצד אנו מגנים על נתונים ומנהלים אותם
+newtab-topic-selection-button-update-interests = עדכון תחומי העניין שלך
+newtab-topic-selection-button-pick-interests = בחירת תחומי העניין שלך
