@@ -396,3 +396,21 @@ newtab-weather-error-not-available = I dâts sul meteo in chest moment no son di
 newtab-topic-label-business = Economie
 newtab-topic-label-career = Cariere
 newtab-topic-label-education = Educazion
+newtab-topic-label-arts = Intratigniment
+newtab-topic-label-food = Mangjative
+newtab-topic-label-health = Salût
+newtab-topic-label-hobbies = Zûcs
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Financis personâls
+newtab-topic-label-society-parenting = Educazion dai fîs
+newtab-topic-label-government = Politiche
+newtab-topic-label-education-science = Sience
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Mioraments personâi
+newtab-topic-label-sports = Sports
+newtab-topic-label-tech = Tecnologjie
+newtab-topic-label-travel = Viaçs

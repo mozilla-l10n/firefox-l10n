@@ -119,6 +119,7 @@ policy-Permissions2 = Configure i permès par fotocjamare, microfon, posizion, n
 policy-PictureInPicture = Ative o disative il Picture-in-Picture.
 policy-PopupBlocking = Permet a cierts sîts web di visualizâ i barcons a comparse in maniere predefinide.
 policy-Preferences = Stabilìs e bloche il valôr par un grup di preferencis.
+policy-PrivateBrowsingModeAvailability = Met la disponibilitât de modalitât di navigazion privade.
 policy-PromptForDownloadLocation = Domande dulà salvâ i files cuant che si ju discjarie.
 policy-Proxy = Configure lis impostazions dal proxy.
 policy-RequestedLocales = Stabilìs la liste des localizazions (lenghis) desideradis pe aplicazion par ordin di preference.

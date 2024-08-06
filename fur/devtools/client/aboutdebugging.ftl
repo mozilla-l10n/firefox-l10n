@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Ative il menù Svilupadôr sul
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Ative lis operazions di debug vie USB intal menù Svilupadôr di Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Ative il trasferiment files e siguriti che il dispositîf nol sedi in modalitât dome-ricjarie.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Ative lis operazions di debug vie USB in Firefox sul dispositîf Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conet il dispositîf Android al computer.
