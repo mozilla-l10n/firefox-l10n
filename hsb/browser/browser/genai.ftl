@@ -15,6 +15,10 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Rěč zjednorić
+    .value = Přepisajće prošu wuběr z pomocu krótkich sadow a jednorych słowow. Wobchowajće woznam a faktowu dokładnosć.
 
 ## Chatbot menu shortcuts
 
