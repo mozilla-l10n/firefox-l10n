@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Senaste aktivitet
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekommenderas av { $provider }
 newtab-section-header-stories = Tankeväckande berättelser
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dagens val för dig
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,3 +415,18 @@ newtab-topic-label-society = Lifehack
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Teknik
 newtab-topic-label-travel = Resa
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Välj ämnen för att finjustera ditt flöde
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Välj två eller flera ämnen. Våra expertkuratorer prioriterar berättelser anpassade efter dina intressen. Uppdatera när som helst.
+newtab-topic-selection-save-button = Spara
+newtab-topic-selection-cancel-button = Avbryt
+newtab-topic-selection-button-maybe-later = Kanske senare
+newtab-topic-selection-privacy-link = Lär dig hur vi skyddar och hanterar data
+newtab-topic-selection-button-update-interests = Uppdatera dina intressen
+newtab-topic-selection-button-pick-interests = Välj dina intressen
