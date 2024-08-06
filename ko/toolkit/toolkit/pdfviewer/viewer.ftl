@@ -399,6 +399,45 @@ pdfjs-editor-new-alt-text-description = 이미지가 보이지 않거나 이미�
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = 이 대체 텍스트는 자동으로 생성되었습니다.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = 더 알아보기
+pdfjs-editor-new-alt-text-create-automatically-button-label = 자동으로 대체 텍스트 생성
+pdfjs-editor-new-alt-text-not-now-button = 나중에
+pdfjs-editor-new-alt-text-error-title = 대체 텍스트를 자동으로 생성할 수 없습니다.
+pdfjs-editor-new-alt-text-error-description = 대체 텍스트를 직접 작성하거나 나중에 다시 시도하세요.
+pdfjs-editor-new-alt-text-error-close-button = 닫기
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = 대체 텍스트 AI 모델 다운로드 중 ({ $downloadedSize } / { $totalSize } MB)
+    .aria-valuetext = 대체 텍스트 AI 모델 다운로드 중 ({ $downloadedSize } / { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = 대체 텍스트 추가됨
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = 대체 텍스트 누락
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = 대체 텍스트 검토
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = 자동으로 생성됨: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = 이미지 대체 텍스트 설정
+pdfjs-image-alt-text-settings-button-label = 이미지 대체 텍스트 설정
+pdfjs-editor-alt-text-settings-dialog-label = 이미지 대체 텍스트 설정
+pdfjs-editor-alt-text-settings-automatic-title = 자동 대체 텍스트
+pdfjs-editor-alt-text-settings-create-model-button-label = 자동으로 대체 텍스트 생성
+pdfjs-editor-alt-text-settings-create-model-description = 이미지가 보이지 않거나 이미지가 로딩되지 않을 때 도움이 되는 설명을 제안합니다.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = 대체 텍스트 AI 모델 ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = 사용자의 장치에서 로컬로 실행되므로 데이터가 비공개로 유지됩니다. 자동 대체 텍스트에 필요합니다.
+pdfjs-editor-alt-text-settings-delete-model-button = 삭제
+pdfjs-editor-alt-text-settings-download-model-button = 다운로드
+pdfjs-editor-alt-text-settings-downloading-model-button = 다운로드 중…
+pdfjs-editor-alt-text-settings-editor-title = 대체 텍스트 편집기
+pdfjs-editor-alt-text-settings-show-dialog-button-label = 이미지 추가 시 바로 대체 텍스트 편집기 표시
+pdfjs-editor-alt-text-settings-show-dialog-description = 모든 이미지에 대체 텍스트가 있는지 확인하는 데 도움이 됩니다.
+pdfjs-editor-alt-text-settings-close-button = 닫기
