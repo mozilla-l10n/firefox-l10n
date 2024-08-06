@@ -266,6 +266,10 @@ onboarding-device-migration-title = Добре дошли отново!
 onboarding-device-migration-subtitle = Влезте в { -fxaccount-brand-name(capitalization: "sentence") }, за да пренесете своите отметки, пароли и история със себе си на новото ви устройство.
 onboarding-device-migration-primary-button-label = Вход
 
+## Add-ons Picker screen
+
+amo-picker-install-complete-label = Инсталирано
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 

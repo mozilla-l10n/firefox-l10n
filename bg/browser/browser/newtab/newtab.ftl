@@ -295,6 +295,11 @@ newtab-wallpaper-category-title-colors = Едноцветни
 newtab-wallpaper-blue = Синьо
 newtab-wallpaper-light-blue = Светлосиньо
 newtab-wallpaper-light-purple = Светло лилаво
+newtab-wallpaper-light-green = Светлозелено
+newtab-wallpaper-green = Зелено
+newtab-wallpaper-beige = Бежово
+newtab-wallpaper-yellow = Жълто
+newtab-wallpaper-orange = Оранжево
 newtab-wallpaper-pink = Розово
 newtab-wallpaper-light-pink = Светло розово
 newtab-wallpaper-red = Червено
@@ -310,13 +315,17 @@ newtab-wallpaper-abstract-green = Зелени фигури
 newtab-wallpaper-abstract-blue = Сини фигури
 newtab-wallpaper-abstract-purple = Лилави фигури
 newtab-wallpaper-abstract-orange = Оранжеви фигури
+newtab-wallpaper-gradient-orange = Преливащо се оранжево и розово
+newtab-wallpaper-abstract-blue-purple = Сини и лилави фигури
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Снимки
 newtab-wallpaper-beach-at-sunrise = Плаж при изгрев
 newtab-wallpaper-beach-at-sunset = Плаж по залез
 newtab-wallpaper-storm-sky = Бурно небе
 newtab-wallpaper-sky-with-pink-clouds = Небе с розови облаци
+newtab-wallpaper-red-panda-yawns-in-a-tree = Червена панда се прозява на дърво
 newtab-wallpaper-white-mountains = Бели планини
 newtab-wallpaper-feature-highlight-button = Разбрах
 
@@ -362,3 +371,4 @@ newtab-topic-label-travel = Пътуване
 
 ## Topic Selection Modal
 
+newtab-topic-selection-button-maybe-later = Може би по-късно
