@@ -404,9 +404,19 @@ pdfjs-editor-new-alt-text-error-title = Δεν ήταν δυνατή η αυτό
 pdfjs-editor-new-alt-text-added-button-label = Προστέθηκε εναλλακτικό κείμενο
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
 pdfjs-editor-new-alt-text-missing-button-label = Απουσία εναλλακτικού κειμένου
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Έλεγχος εναλλακτικού κειμένου
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Αυτόματη δημιουργία: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Ρυθμίσεις εναλλακτικού κειμένου εικόνας
+pdfjs-image-alt-text-settings-button-label = Ρυθμίσεις εναλλακτικού κειμένου εικόνας
+pdfjs-editor-alt-text-settings-dialog-label = Ρυθμίσεις εναλλακτικού κειμένου εικόνας
 pdfjs-editor-alt-text-settings-automatic-title = Αυτόματο εναλλακτικό κείμενο
 pdfjs-editor-alt-text-settings-create-model-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
 pdfjs-editor-alt-text-settings-delete-model-button = Διαγραφή
