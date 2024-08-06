@@ -509,19 +509,19 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Въведете търсене
+    .placeholder = Въведете за търсене
     .aria-label = Търсете в { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Въведете търсене
+    .placeholder = Въведете за търсене
     .aria-label = Търсене в отметки
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Въведете търсене
+    .placeholder = Въведете за търсене
     .aria-label = Търсене в история
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Въведете търсене
+    .placeholder = Въведете за търсене
     .aria-label = Търсене в раздели
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
