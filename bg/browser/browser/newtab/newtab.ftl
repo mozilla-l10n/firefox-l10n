@@ -292,6 +292,9 @@ newtab-wallpaper-dark-city = Лилав градски пейзаж
 ## Solid Colors
 
 newtab-wallpaper-category-title-colors = Едноцветни
+newtab-wallpaper-blue = Синьо
+newtab-wallpaper-light-blue = Светлосиньо
+newtab-wallpaper-light-purple = Светло лилаво
 newtab-wallpaper-pink = Розово
 newtab-wallpaper-light-pink = Светло розово
 newtab-wallpaper-red = Червено
@@ -356,3 +359,6 @@ newtab-topic-label-society = Лайфхакове
 newtab-topic-label-sports = Спорт
 newtab-topic-label-tech = Технологии
 newtab-topic-label-travel = Пътуване
+
+## Topic Selection Modal
+

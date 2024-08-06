@@ -55,6 +55,7 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Внасяне на всички налични данни
 migration-no-selected-data-label = Няма избрани данни за внасяне
 
 ##
