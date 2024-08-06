@@ -15,18 +15,65 @@ sidebar-history-date-yesterday =
     .heading = אתמול - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = מחיקה מההיסטוריה
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = תוצאות חיפוש עבור ״{ $query }״
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = הרחבות סרגל צד
+sidebar-customize-firefox-tools-header =
+    .label = כלים של { -brand-product-name }
+sidebar-customize-firefox-settings = ניהול הגדרות { -brand-short-name }
+sidebar-vertical-tabs =
+    .label = לשוניות אנוכיות
+sidebar-horizontal-tabs =
+    .label = לשוניות אופקיות
+sidebar-customize-tabs-header =
+    .label = הגדרות לשוניות
+sidebar-customize-settings-header =
+    .label = הגדרות סרגל צד
+sidebar-visibility-always-show =
+    .label = תמיד להציג
+sidebar-visibility-hide-sidebar =
+    .label = הסתרת סרגל הצד
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = ניהול הרחבה
+sidebar-context-menu-remove-extension =
+    .label = הסרת הרחבה
+sidebar-context-menu-report-extension =
+    .label = דיווח על הרחבה
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = צ’אט בוט AI
+sidebar-menu-history-label =
+    .label = היסטוריה
+sidebar-menu-synced-tabs-label =
+    .label = לשוניות ממכשירים אחרים
+sidebar-menu-bookmarks-label =
+    .label = סימניות
+sidebar-menu-customize-label =
+    .label = התאמה אישית של סרגל הצד
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = התאמה אישית של סרגל הצד
+sidebar-menu-history-header =
+    .heading = היסטוריה
+sidebar-menu-syncedtabs-header =
+    .heading = לשוניות ממכשירים אחרים

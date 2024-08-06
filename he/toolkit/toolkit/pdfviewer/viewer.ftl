@@ -51,12 +51,6 @@ pdfjs-download-button-label = הורדה
 pdfjs-bookmark-button =
     .title = עמוד נוכחי (הצגת כתובת האתר מהעמוד הנוכחי)
 pdfjs-bookmark-button-label = עמוד נוכחי
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = פתיחה ביישום
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = פתיחה ביישום
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = הוספה או עריכת תמונות
 pdfjs-editor-highlight-button =
     .title = סימון
 pdfjs-editor-highlight-button-label = סימון
-pdfjs-highlight-floating-button =
-    .title = סימון
 pdfjs-highlight-floating-button1 =
     .title = סימון
     .aria-label = סימון
@@ -400,3 +392,26 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = הצגת הכול
 pdfjs-editor-highlight-show-all-button =
     .title = הצגת הכול
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = עריכת טקסט חלופי (תיאור תמונה)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = הוספת טקסט חלופי (תיאור תמונה)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = נא לכתוב את התיאור שלך כאן…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = תיאור קצר לאנשים שאינם יכולים לראות את התמונה או כאשר התמונה אינה נטענת.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = טקסט חלופי זה נוצר באופן אוטומטי.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = מידע נוסף
+pdfjs-editor-new-alt-text-create-automatically-button-label = יצירת טקסט חלופי באופן אוטומטי
+pdfjs-editor-new-alt-text-not-now-button = לא כעת
+pdfjs-editor-new-alt-text-error-title = לא ניתן היה ליצור טקסט חלופי באופן אוטומטי
+pdfjs-editor-new-alt-text-error-description = נא לכתוב טקסט חלופי משלך או לנסות שוב מאוחר יותר.
+pdfjs-editor-new-alt-text-error-close-button = סגירה
+
+## Image alt-text settings
+
