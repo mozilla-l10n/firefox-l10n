@@ -5,9 +5,11 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Προσθέτει το chatbot της επιλογής σας στην πλαϊνή γραμμή, για γρήγορη πρόσβαση κατά την περιήγηση. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 genai-settings-chat-choose = Επιλέξτε ένα chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Επιλέξτε ένα
+genai-settings-chat-links = Όταν επιλέγετε ένα chatbot, συμφωνείτε με τους όρους χρήσης και την πολιτική απορρήτου του παρόχου.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

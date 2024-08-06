@@ -396,10 +396,28 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Επεξεργασία εναλλακτικού κειμένου (περιγραφή εικόνας)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Προσθήκη εναλλακτικού κειμένου (περιγραφή εικόνας)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Γράψτε την περιγραφή σας εδώ…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Σύντομη περιγραφή για άτομα που δεν μπορούν να δουν την εικόνα ή όταν η εικόνα δεν φορτώνεται.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Αυτό το εναλλακτικό κείμενο δημιουργήθηκε αυτόματα.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Μάθετε περισσότερα
 pdfjs-editor-new-alt-text-create-automatically-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
 pdfjs-editor-new-alt-text-not-now-button = Όχι τώρα
 pdfjs-editor-new-alt-text-error-title = Δεν ήταν δυνατή η αυτόματη δημιουργία εναλλακτικού κειμένου
+pdfjs-editor-new-alt-text-error-description = Γράψτε το δικό σας εναλλακτικό κείμενο ή δοκιμάστε ξανά αργότερα.
+pdfjs-editor-new-alt-text-error-close-button = Κλείσιμο
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Λήψη μοντέλου AI εναλλακτικού κειμένου ({ $downloadedSize } από { $totalSize } MB)
+    .aria-valuetext = Λήψη μοντέλου AI εναλλακτικού κειμένου ({ $downloadedSize } από { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Προστέθηκε εναλλακτικό κείμενο
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -419,7 +437,15 @@ pdfjs-image-alt-text-settings-button-label = Ρυθμίσεις εναλλακτ
 pdfjs-editor-alt-text-settings-dialog-label = Ρυθμίσεις εναλλακτικού κειμένου εικόνας
 pdfjs-editor-alt-text-settings-automatic-title = Αυτόματο εναλλακτικό κείμενο
 pdfjs-editor-alt-text-settings-create-model-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
+pdfjs-editor-alt-text-settings-create-model-description = Προτείνει περιγραφές για άτομα που δεν μπορούν να δουν την εικόνα ή όταν η εικόνα δεν φορτώνεται.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Μοντέλο AI εναλλακτικού κειμένου ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Εκτελείται τοπικά στη συσκευή σας, ώστε τα δεδομένα σας να παραμένουν ιδιωτικά. Απαιτείται για τη δημιουργία του αυτόματου εναλλακτικού κειμένου.
 pdfjs-editor-alt-text-settings-delete-model-button = Διαγραφή
 pdfjs-editor-alt-text-settings-download-model-button = Λήψη
 pdfjs-editor-alt-text-settings-downloading-model-button = Λήψη…
+pdfjs-editor-alt-text-settings-editor-title = Επεξεργασία εναλλακτικού κειμένου
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Άμεση εμφάνιση της επεξεργασίας εναλλακτικού κειμένου κατά την προσθήκη εικόνας
+pdfjs-editor-alt-text-settings-show-dialog-description = Σας βοηθά να βεβαιωθείτε ότι όλες οι εικόνες σας έχουν εναλλακτικό κείμενο.
 pdfjs-editor-alt-text-settings-close-button = Κλείσιμο
