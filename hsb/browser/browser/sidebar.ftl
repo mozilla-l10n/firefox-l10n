@@ -30,6 +30,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Rozšěrjenja bóčnicy
 sidebar-customize-firefox-tools-header =
     .label = Nastroje { -brand-product-name }
 sidebar-customize-firefox-settings = Nastajenja { -brand-short-name } rjadować
@@ -43,12 +44,40 @@ sidebar-horizontal-tabs =
     .label = Horicontalne rajtarki
 sidebar-customize-tabs-header =
     .label = Nastajenja rajtarkow
+sidebar-customize-settings-header =
+    .label = Nastajenja bóčnicy
+sidebar-visibility-always-show =
+    .label = Přeco pokazać
+sidebar-visibility-hide-sidebar =
+    .label = Bóčnicu schować
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Rozšěrjenje rjadować
+sidebar-context-menu-remove-extension =
+    .label = Rozšěrjenje wotstronić
+sidebar-context-menu-report-extension =
+    .label = Rozšěrjenje zdźělić
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI chatbot
+sidebar-menu-history-label =
+    .label = Historija
+sidebar-menu-synced-tabs-label =
+    .label = Rajtarki z druhich gratow
+sidebar-menu-bookmarks-label =
+    .label = Zapołožki
+sidebar-menu-customize-label =
+    .label = Bóčnicu přiměrić
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Bóčnicu přiměrić
+sidebar-menu-history-header =
+    .heading = Historija
+sidebar-menu-syncedtabs-header =
+    .heading = Rajtarki z druhich gratow
