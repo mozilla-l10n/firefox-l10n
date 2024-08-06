@@ -387,3 +387,15 @@ newtab-weather-menu-hide-weather = Skjul vêret på ny fane
 newtab-weather-menu-learn-more = Les meir
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Vêrdata er ikkje tilgjengeleg akkurat no.
+
+## Topic Labels
+
+newtab-topic-label-business = Business
+newtab-topic-label-career = Karriere
+newtab-topic-label-education = Utdanning
+newtab-topic-label-arts = Underhaldning
+newtab-topic-label-food = Mat
+newtab-topic-label-health = Helse
+
+## Topic Selection Modal
+
