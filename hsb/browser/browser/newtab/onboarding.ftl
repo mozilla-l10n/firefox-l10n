@@ -338,6 +338,12 @@ onboarding-device-migration-subtitle = Přizjewće so pola { -fxaccount-brand-na
 onboarding-device-migration-subtitle2 = Přizjewće so pola swojeho konta, zo byšće swoje zapołožki, hesła a swoju historiju na swój nowy grat přenošował.
 onboarding-device-migration-primary-button-label = Přizjewić
 
+## Add-ons Picker screen
+
+amo-picker-title = Přiměrće swój { -brand-short-name }
+amo-picker-install-button-label = { -brand-short-name } přidać
+amo-picker-install-complete-label = Instalowany
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

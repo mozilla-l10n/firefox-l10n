@@ -415,3 +415,11 @@ newtab-topic-label-society = Swójske polěpšenja
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technologija
 newtab-topic-label-travel = Pućowanje
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Składować
+newtab-topic-selection-cancel-button = Přetorhnyć
+newtab-topic-selection-button-maybe-later = Snano pozdźišo
+newtab-topic-selection-button-update-interests = Zaktualizujće swoje zajimy
+newtab-topic-selection-button-pick-interests = Wubjerće swoje zajimy

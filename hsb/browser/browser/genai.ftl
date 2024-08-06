@@ -19,6 +19,20 @@ genai-settings-chat-choose-one-menuitem =
 genai-prompts-simplify =
     .label = Rěč zjednorić
     .value = Přepisajće prošu wuběr z pomocu krótkich sadow a jednorych słowow. Wobchowajće woznam a faktowu dokładnosć.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Kwis
+    .value = Prašejće mje wo tutym wuběrje. Stajće mi prašenja wšelakeho raza, na přikład multiple choice, wěrny a njewěrny a krótku wotmołwu. Čakajće na moju wotmołwu, prjedy hač z přichodnym prašenjom pokročujeće.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI chatbot so prašeć
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } so prašeć
+genai-input-ask-generic =
+    .placeholder = Prašejće so AI chatbot
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Prašejće so { $provider }…

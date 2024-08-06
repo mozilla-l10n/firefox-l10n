@@ -51,12 +51,6 @@ pdfjs-download-button-label = Sćahnyć
 pdfjs-bookmark-button =
     .title = Aktualna strona (URL z aktualneje strony pokazać)
 pdfjs-bookmark-button-label = Aktualna strona
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = W nałoženju wočinić
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = W nałoženju wočinić
 
 ##  Secondary toolbar and context menu
 
@@ -308,8 +302,6 @@ pdfjs-editor-stamp-button-label = Wobrazy přidać abo wobdźěłać
 pdfjs-editor-highlight-button =
     .title = Wuzběhnyć
 pdfjs-editor-highlight-button-label = Wuzběhnyć
-pdfjs-highlight-floating-button =
-    .title = Wuzběhnyć
 pdfjs-highlight-floating-button1 =
     .title = Wuzběhnjenje
     .aria-label = Wuzběhnjenje
@@ -404,3 +396,15 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Wšě pokazać
 pdfjs-editor-highlight-show-all-button =
     .title = Wšě pokazać
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-error-close-button = Začinić
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Alternatiwny tekst je so přidał
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Alternatiwny tekst faluje
+
+## Image alt-text settings
+
