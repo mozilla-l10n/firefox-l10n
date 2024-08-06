@@ -20,3 +20,4 @@ sandbox-missing-unprivileged-namespaces = Cualchidune des funzionalitâts di sig
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = No sta mostrâ plui
     .accesskey = N
+sandbox-unprivileged-namespaces-howtofix = Cemût risolvi il probleme
