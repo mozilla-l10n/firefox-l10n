@@ -3,18 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = New Tab
-
 tabbrowser-menuitem-close-tab =
     .label = Sneck Tab
 tabbrowser-menuitem-close =
     .label = Sneck
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Sneck tab
+           *[other] Sneck { $tabCount } tabs
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -113,13 +121,15 @@ tabbrowser-confirm-caretbrowsing-title = Caret Stravaigin
 tabbrowser-confirm-caretbrowsing-message = Pressin F7 turns Caret Stravaigin on or aff. This featur pits a flittable cursor in wab pages, allooin ye tae select text wi the keybuird. Are ye wantin tae turn Caret Stravaigin on?
 tabbrowser-confirm-caretbrowsing-checkbox = Dinnae kythe this dialog box oniemair.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Alloo notifications sic as this fae { $domain } tae tak ye tae their tab
-
 tabbrowser-customizemode-tab-title = Mak { -brand-short-name } Yer Ain
 
 ## Context menu buttons, of which only one will be visible at a time
