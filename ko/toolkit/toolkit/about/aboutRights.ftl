@@ -9,7 +9,7 @@ rights-intro-point-2 = Mozilla는 Mozilla와 Firefox 상표 및 로고에 대한
 rights-intro-point-3 = { -brand-short-name }의 충돌 보고서 같은 기능은 { -vendor-short-name }에 사용자 의견을 제공하는 옵션이 있습니다. 의견 보내기를 선택하면, 사용자는 { -vendor-short-name }가 이 의견을 사용하여 제품을 개선하고, 의견을 웹 사이트에 게시하고 배포할 수 있도록 권한을 부여하게 됩니다.
 rights-intro-point-4 = 저희가 { -vendor-short-name }부터 { -brand-short-name }에 제출된 사용자의 개인 정보 및 의견을 사용하는 방법은 <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }개인정보처리방침</a>을 참고하세요.
 rights-intro-point-4-unbranded = 모든 적용 가능한 개인정보처리방침은 아래에 기술되어 있습니다.
-rights-intro-point-5 = { -brand-short-name }는 몇 가지 웹 사이트 서비스를 제공합니다. 하지만 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 약관을 참고하세요.<a data-l10n-name="mozilla-service-terms-link">서비스 약관</a>.
+rights-intro-point-5 = { -brand-short-name }는 몇 가지 웹 사이트 서비스를 제공합니다. 하지만 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 약관을 참고하세요.<a data-l10n-name="mozilla-service-terms-link">이용 약관</a>.
 rights-intro-point-5-unbranded = 이 제품이 웹 서비스를 지원하지 않으면 당 서비스의 서비스 조건은 링크에서 찾을 수 있습니다.<a data-l10n-name="mozilla-website-services-link">자세히</a> 보기
 rights-intro-point-6 = 특정 유형의 동영상 콘텐츠를 재생하기 위해 { -brand-short-name }는 제3자로부터 특정 콘텐츠 복호화 모듈을 다운로드합니다.
 rights-webservices-header = { -brand-full-name } 웹 기반 정보 서비스
