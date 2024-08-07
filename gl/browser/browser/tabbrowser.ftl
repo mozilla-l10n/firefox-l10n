@@ -4,18 +4,26 @@
 
 tabbrowser-empty-tab-title = Nova lapela
 tabbrowser-empty-private-tab-title = Nova lapela privada
-
 tabbrowser-menuitem-close-tab =
     .label = Pechar lapela
 tabbrowser-menuitem-close =
     .label = Pechar
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Pechar a lapela
+           *[other] Pechar { $tabCount } lapelas
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +122,15 @@ tabbrowser-confirm-caretbrowsing-title = Navegación co cursor do teclado
 tabbrowser-confirm-caretbrowsing-message = Premendo F7 activa ou desactiva a navegación con cursor de teclado. Esta funcionalidade coloca un cursor movíbel nas páxinas web, permitíndolle seleccionar texto co teclado. Quere activar a navegación co cursor do teclado?
 tabbrowser-confirm-caretbrowsing-checkbox = Non amosar esta caixa de diálogo de novo.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificacións como esta de { $domain } leven para a súa lapela
-
 tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +149,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Desenmudecer lapelas
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Reproducindo audio
 
