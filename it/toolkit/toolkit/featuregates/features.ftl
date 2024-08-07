@@ -59,10 +59,22 @@ experimental-features-ime-search-description = Un IME (Input Method Editor) è u
 
 experimental-features-group-browsing =
   .label = Navigazione
+
+# Updated sidebar settings
+sidebar-title =
+    .label = Barra laterale
+sidebar-description = Accedi facilmente a cronologia, schede da altri dispositivi, estensioni per la barra laterale e altro ancora mentre navighi. <a data-l10n-name="connect">Condividi il tuo feeback</a>
+vertical-tabs-title =
+    .label = Schede verticali
+vertical-tabs-description = Sposta le tue schede dalla parte superiore del browser a quella laterale. Per utilizzare questa funzione è necessario attivare anche la barra laterale. <a data-l10n-name="connect">Condividi il tuo feeback</a>
+
 experimental-features-group-developer-tools =
   .label = Strumenti di sviluppo
 experimental-features-group-webpage-display =
   .label = Visualizzazione pagine web
+experimental-features-group-customize-browsing =
+  .label = Personalizza la tua navigazione
+experimental-features-group-customize-browsing-description = Se provi queste funzioni, <a data-l10n-name="connect">facci conoscere la tua opinione su Connect</a>
 
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
