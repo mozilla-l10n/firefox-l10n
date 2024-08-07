@@ -52,6 +52,11 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = 탭을 전환할 때 활성 동영상에서 화면 속 화면을 사용합니다.
 genai-settings-chat-title =
     .label = AI 챗봇
+# Updated sidebar settings
+sidebar-title =
+    .label = 사이드바
+vertical-tabs-title =
+    .label = 세로 탭
 experimental-features-group-browsing =
     .label = 브라우징
 experimental-features-group-developer-tools =
