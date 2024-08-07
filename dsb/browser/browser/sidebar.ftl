@@ -44,12 +44,40 @@ sidebar-horizontal-tabs =
     .label = Horicontalne rejtariki
 sidebar-customize-tabs-header =
     .label = Nastajenja rejtarikow
+sidebar-customize-settings-header =
+    .label = Nastajenja bocnice
+sidebar-visibility-always-show =
+    .label = Pśecej pokazaś
+sidebar-visibility-hide-sidebar =
+    .label = Bocnicu schowaś
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Rozšyrjenje zastojaś
+sidebar-context-menu-remove-extension =
+    .label = Rozšyrjenje wótwónoźeś
+sidebar-context-menu-report-extension =
+    .label = Rozšyrjenje k wěsći daś
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI chatbot
+sidebar-menu-history-label =
+    .label = Historija
+sidebar-menu-synced-tabs-label =
+    .label = Rejtariki z drugich rědow
+sidebar-menu-bookmarks-label =
+    .label = Cytańske znamjenja
+sidebar-menu-customize-label =
+    .label = Bocnicu pśiměriś
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Bocnicu pśiměriś
+sidebar-menu-history-header =
+    .heading = Historija
+sidebar-menu-syncedtabs-header =
+    .heading = Rejtariki z drugich rědow

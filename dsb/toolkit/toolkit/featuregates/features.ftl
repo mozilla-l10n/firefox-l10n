@@ -50,9 +50,19 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 experimental-features-auto-pip =
     .label = Wobraz-we-wobrazu: pśi wuměnjenju rejtarika awtomatiski wócyniś
 experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideo zmóžniś, gaž se rejtariki wuměnjaju.
+genai-settings-chat-title =
+    .label = AI chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Bocnica
+vertical-tabs-title =
+    .label = Wertikalne rejtariki
 experimental-features-group-browsing =
     .label = Pśeglědowanje
 experimental-features-group-developer-tools =
     .label = Wuwijaŕske rědy
 experimental-features-group-webpage-display =
     .label = Pokazanje webboka
+experimental-features-group-customize-browsing =
+    .label = Pśiměŕśo swój pśeglědowanje
+experimental-features-group-customize-browsing-description = Jolic toś te funkcije testujośo, <a data-l10n-name="connect">źělśo swóje mysle na Connect</a>
