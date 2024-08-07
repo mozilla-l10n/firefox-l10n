@@ -4,18 +4,26 @@
 
 tabbrowser-empty-tab-title = Nuova scheda
 tabbrowser-empty-private-tab-title = Nuova scheda anonima
-
 tabbrowser-menuitem-close-tab =
     .label = Chiudi scheda
 tabbrowser-menuitem-close =
     .label = Chiudi
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Chiudi scheda
+           *[other] Chiudi { $tabCount } schede
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -118,7 +126,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non visualizzare questo avviso in fu
 
 tabbrowser-confirm-close-duplicate-tabs-title = Attenzione
 tabbrowser-confirm-close-duplicate-tabs-text = La scheda con attività più recente rimarrà aperta
-
 tabbrowser-confirm-close-all-duplicate-tabs-title = Chiudere le schede duplicate?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Le schede duplicate in questa finestra verranno chiuse. La scheda con attività più recente rimarrà aperta.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Chiudi schede
@@ -129,7 +136,6 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Chiudi schede
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Consenti a notifiche da { $domain } come questa di portarti alla relativa scheda
-
 tabbrowser-customizemode-tab-title = Personalizza { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -148,7 +154,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Attiva audio nelle schede
     .accesskey = v
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Riproduzione audio
 
@@ -162,9 +167,8 @@ tabbrowser-ctrl-tab-list-all-tabs =
 ## Tab manager menu buttons
 
 tabbrowser-manager-mute-tab =
-  .tooltiptext = Disattiva audio nella scheda
+    .tooltiptext = Disattiva audio nella scheda
 tabbrowser-manager-unmute-tab =
-  .tooltiptext = Attiva audio nella scheda
+    .tooltiptext = Attiva audio nella scheda
 tabbrowser-manager-close-tab =
-  .tooltiptext = Chiudi scheda
-
+    .tooltiptext = Chiudi scheda
