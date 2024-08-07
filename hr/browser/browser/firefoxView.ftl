@@ -186,10 +186,10 @@ firefoxview-search-results-count =
 # Variables:
 #   $query (String) - The search query.
 firefoxview-search-results-empty = Nema rezultata za „{ $query }”
-firefoxview-sort-history-by-date-label = Poredaj prema datumu
-firefoxview-sort-history-by-site-label = Poredaj prema web stranici
-firefoxview-sort-open-tabs-by-recency-label = Poredaj prema nedavnoj aktivnosti
-firefoxview-sort-open-tabs-by-order-label = Poredaj prema redoslijedu kartica
+firefoxview-sort-history-by-date-label = Poredaj po datumu
+firefoxview-sort-history-by-site-label = Poredaj po web stranici
+firefoxview-sort-open-tabs-by-recency-label = Poredaj po nedavnoj aktivnosti
+firefoxview-sort-open-tabs-by-order-label = Poredaj po redoslijedu kartica
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

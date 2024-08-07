@@ -77,13 +77,13 @@ login-list-filtered-count2 =
        *[other] { $count } od { $total } lozinki
     }
 login-list-sort-label-text = Poredaj po:
-login-list-name-option = Naziv (A-Z)
-login-list-name-reverse-option = Naziv (Z-A)
+login-list-name-option = Ime (A-Z)
+login-list-name-reverse-option = Ime (Z-A)
 login-list-username-option = Korisničko ime (A-Z)
 login-list-username-reverse-option = Korisničko ime (Z-A)
 about-logins-login-list-alerts-option = Upozorenja
 login-list-last-changed-option = Zadnja promjena
-login-list-last-used-option = Zadnja upotreba
+login-list-last-used-option = Zadnje korišteno
 login-list-intro-title = Nema prijava
 login-list-intro-title2 = Nema spremljenih lozinki
 login-list-intro-description = Kad spremaš lozinku u { -brand-product-name }u, ona će se pojaviti ovdje.
