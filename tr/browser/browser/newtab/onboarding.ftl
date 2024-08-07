@@ -338,6 +338,11 @@ onboarding-device-migration-subtitle = Yer imlerinizi, parolalarınızı ve geç
 onboarding-device-migration-subtitle2 = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınızda yanınızda taşımak için hesabınıza giriş yapın.
 onboarding-device-migration-primary-button-label = Giriş yap
 
+## Add-ons Picker screen
+
+amo-picker-title = { -brand-short-name } tarayıcınızı özelleştirin
+amo-picker-install-complete-label = Yüklendi
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

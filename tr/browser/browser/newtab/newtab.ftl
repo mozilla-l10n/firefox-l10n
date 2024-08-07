@@ -409,3 +409,10 @@ newtab-topic-label-society = Kişisel Gelişim
 newtab-topic-label-sports = Spor
 newtab-topic-label-tech = Teknoloji
 newtab-topic-label-travel = Seyahat
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Kaydet
+newtab-topic-selection-cancel-button = Vazgeç
+newtab-topic-selection-button-maybe-later = Daha sonra
+newtab-topic-selection-privacy-link = Verileri nasıl koruduğumuzu ve yönettiğimizi öğrenin

@@ -298,8 +298,6 @@ pdfjs-editor-stamp-button-label = Resim ekle veya düzenle
 pdfjs-editor-highlight-button =
     .title = Vurgula
 pdfjs-editor-highlight-button-label = Vurgula
-pdfjs-highlight-floating-button =
-    .title = Vurgula
 pdfjs-highlight-floating-button1 =
     .title = Vurgula
     .aria-label = Vurgula
@@ -394,3 +392,40 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Tümünü göster
 pdfjs-editor-highlight-show-all-button =
     .title = Tümünü göster
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Alt metni düzenle (resim açıklaması)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Alt metin ekle (resim açıklaması)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Açıklamanızı buraya yazın…
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Bu alt metin otomatik olarak oluşturuldu.
+pdfjs-editor-new-alt-text-not-now-button = Şimdi değil
+pdfjs-editor-new-alt-text-error-title = Alt metin otomatik olarak oluşturulamadı
+pdfjs-editor-new-alt-text-error-description = Lütfen kendi alt metninizi yazın veya daha sonra yeniden deneyin.
+pdfjs-editor-new-alt-text-error-close-button = Kapat
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Alt metni incele
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Otomatik olarak oluşturuldu: { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Resim alt metni ayarları
+pdfjs-image-alt-text-settings-button-label = Resim alt metni ayarları
+pdfjs-editor-alt-text-settings-dialog-label = Resim alt metni ayarları
+pdfjs-editor-alt-text-settings-automatic-title = Otomatik alt metin
+pdfjs-editor-alt-text-settings-create-model-button-label = Otomatik olarak alt metin oluştur
+pdfjs-editor-alt-text-settings-ai-model-description = Verilerinizin gizli kalması için cihazınızda yerel olarak çalışır. Otomatik alt metin için gereklidir.
+pdfjs-editor-alt-text-settings-delete-model-button = Sil
+pdfjs-editor-alt-text-settings-download-model-button = İndir
+pdfjs-editor-alt-text-settings-downloading-model-button = İndiriliyor…
+pdfjs-editor-alt-text-settings-editor-title = Alt metin düzenleyicisi
+pdfjs-editor-alt-text-settings-close-button = Kapat
