@@ -173,7 +173,21 @@ migration-wizard-progress-header = Mengimpor Data
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = Data Berhasil Diimpor
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Impor Data Selesai
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Mengimpor…
+migration-wizard-progress-icon-completed =
+    .aria-label = Selesai
+migration-safari-password-import-header = Impor Sandi dari Safari
+migration-safari-password-import-steps-header = Untuk mengimpor kata sandi Safari:
+migration-safari-password-import-step1 = Di Safari, buka menu “Safari” dan buka Pengaturan > Kata Sandi
+migration-safari-password-import-step2 = Pilih tombol <img data-l10n-name="safari-icon-3dots"/> dan pilih “Ekspor Semua Kata Sandi”
 migration-safari-password-import-step3 = Simpan berkas sandi
+migration-safari-password-import-step4 = Gunakan “Pilih Berkas” di bawah ini untuk memilih berkas tempat Anda menyimpan kata sandi
 migration-safari-password-import-skip-button = Lewati
 migration-safari-password-import-select-button = Pilih Berkas
 # Shown in the migration wizard after importing bookmarks from another
@@ -213,6 +227,13 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } ekstensi
        *[other] { $quantity } ekstensi
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } dari { $quantity } ekstensi
 
 ##
 
