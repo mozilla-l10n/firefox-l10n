@@ -412,6 +412,7 @@ pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Dalše informacije
 pdfjs-editor-new-alt-text-create-automatically-button-label = Alternatiwny tekst awtomatisce wutworić
 pdfjs-editor-new-alt-text-not-now-button = Nic nětko
 pdfjs-editor-new-alt-text-error-title = Alternatiwny tekst njeda so awtomatisce wutworić
+pdfjs-editor-new-alt-text-error-description = Prošu pisajće swój alternatiwny tekst abo spytajće pozdźišo hišće raz.
 pdfjs-editor-new-alt-text-error-close-button = Začinić
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternatiwny tekst je so přidał

@@ -27,6 +27,10 @@ genai-prompts-simplify =
 genai-prompts-quiz =
     .label = Kwis
     .value = Prašejće mje wo tutym wuběrje. Stajće mi prašenja wšelakeho raza, na přikład multiple choice, wěrny a njewěrny a krótku wotmołwu. Čakajće na moju wotmołwu, prjedy hač z přichodnym prašenjom pokročujeće.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Wujasńće to
+    .value = Prošu wujasńće hłowne koncepty w tutym wuběrje z jednorymi słowami. Wužiwajće tež přikłady.
 
 ## Chatbot menu shortcuts
 

@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Najnowša aktiwita
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Wot { $provider } doporučeny
 newtab-section-header-stories = Stawiznički, kotrež k přemyslowanju pohonjeja
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dźensniše doporučenki za was
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -421,5 +423,6 @@ newtab-topic-label-travel = Pućowanje
 newtab-topic-selection-save-button = Składować
 newtab-topic-selection-cancel-button = Přetorhnyć
 newtab-topic-selection-button-maybe-later = Snano pozdźišo
+newtab-topic-selection-privacy-link = Zhońće, kak daty škitamy a rjadujemy
 newtab-topic-selection-button-update-interests = Zaktualizujće swoje zajimy
 newtab-topic-selection-button-pick-interests = Wubjerće swoje zajimy
