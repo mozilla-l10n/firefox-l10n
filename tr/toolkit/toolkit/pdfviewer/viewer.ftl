@@ -405,6 +405,7 @@ pdfjs-editor-new-alt-text-textarea =
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Bu alt metin otomatik olarak oluşturuldu.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Daha fazla bilgi alın
+pdfjs-editor-new-alt-text-create-automatically-button-label = Otomatik olarak alt metin oluştur
 pdfjs-editor-new-alt-text-not-now-button = Şimdi değil
 pdfjs-editor-new-alt-text-error-title = Alt metin otomatik olarak oluşturulamadı
 pdfjs-editor-new-alt-text-error-description = Lütfen kendi alt metninizi yazın veya daha sonra yeniden deneyin.
