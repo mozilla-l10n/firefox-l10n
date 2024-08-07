@@ -41,6 +41,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Приспособяване…
     .accesskey = П
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Персонализиране на лентата…
+    .accesskey = П
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
