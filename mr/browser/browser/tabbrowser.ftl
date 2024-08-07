@@ -3,18 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = नवीन टॅब
-
 tabbrowser-menuitem-close-tab =
     .label = टॅब बंद करा
 tabbrowser-menuitem-close =
     .label = बंद करा
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] टॅब बंद करा
+           *[other] { $tabCount }टॅब बंद करा
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -54,6 +62,9 @@ tabbrowser-confirm-open-multiple-tabs-button = टॅब्स उघडा
 tabbrowser-confirm-open-multiple-tabs-checkbox = एकापेक्षा जास्त टॅब उघडल्यास { -brand-short-name } हळु होईल त्याकरीता सावध करा
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
