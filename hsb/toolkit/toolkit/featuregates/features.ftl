@@ -52,9 +52,17 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideja zmóžnić, hdyž so rajtarki wuměnjeja.
 genai-settings-chat-title =
     .label = AI chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Bóčnica
+vertical-tabs-title =
+    .label = Wertikalne rajtarki
 experimental-features-group-browsing =
     .label = Přehladowanje
 experimental-features-group-developer-tools =
     .label = Wuwiwarske nastroje
 experimental-features-group-webpage-display =
     .label = Pokazanje webstrony
+experimental-features-group-customize-browsing =
+    .label = Přiměrće swoje přehladowanje
+experimental-features-group-customize-browsing-description = Jeli tute funkcije testujeće, <a data-l10n-name="connect">dźělće swoje mysle na Connect</a>

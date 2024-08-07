@@ -417,6 +417,7 @@ newtab-topic-label-society = Swójske polěpšenja
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technologija
 newtab-topic-label-travel = Pućowanje
+newtab-topic-label-home = Dom a zahroda
 
 ## Topic Selection Modal
 
