@@ -338,6 +338,13 @@ onboarding-device-migration-subtitle = Pśizjawśo se pla { -fxaccount-brand-nam
 onboarding-device-migration-subtitle2 = Pśizjawśo se pla swójogo konta, aby swóje cytańske znamjenja, gronidła a swóju historiju na swój nowy rěd pśenosował.
 onboarding-device-migration-primary-button-label = Pśizjawiś
 
+## Add-ons Picker screen
+
+amo-picker-title = Pśiměŕśo swój { -brand-short-name }
+amo-picker-install-button-label = { -brand-short-name } pśidaś
+amo-picker-install-complete-label = Zainstalěrowany
+amo-picker-collection-link = Wuslěźćo dalšne dodanki
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
