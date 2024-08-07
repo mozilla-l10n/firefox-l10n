@@ -406,6 +406,8 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Alternatiwny tekst wobdźěłać (
 pdfjs-editor-new-alt-text-dialog-add-label = Alternatiwny tekst přidać (wobrazowe wopisanje)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Pisajće tu swoje wopisanje…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Krótke wopisanje za ludźi, kotřiž njemóžeće wobraz widźeć abo hdyž so wobraz njezačita.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Tutón alternatiwny tekst je so awtomatisce wutworił.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Dalše informacije
@@ -440,4 +442,5 @@ pdfjs-editor-alt-text-settings-delete-model-button = Zhašeć
 pdfjs-editor-alt-text-settings-download-model-button = Sćahnyć
 pdfjs-editor-alt-text-settings-downloading-model-button = Sćahuje so…
 pdfjs-editor-alt-text-settings-editor-title = Editor za alternatiwny tekst
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Editor alternatiwneho teksta hnydom pokazać, hdyž so wobraz přidawa
 pdfjs-editor-alt-text-settings-close-button = Začinić
