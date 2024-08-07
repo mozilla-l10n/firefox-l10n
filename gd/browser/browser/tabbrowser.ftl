@@ -4,18 +4,28 @@
 
 tabbrowser-empty-tab-title = Taba ùr
 tabbrowser-empty-private-tab-title = Taba prìobhaideach ùr
-
 tabbrowser-menuitem-close-tab =
     .label = Dùin an taba
 tabbrowser-menuitem-close =
     .label = Dùin
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Dùin { $tabCount } taba
+            [two] Dùin { $tabCount } thaba
+            [few] Dùin { $tabCount } tabaichean
+           *[other] Dùin { $tabCount } taba
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -138,13 +148,15 @@ tabbrowser-confirm-caretbrowsing-title = Brabhsadh carait
 tabbrowser-confirm-caretbrowsing-message = Cuiridh tu brabhsadh carait air is dheth le F7. Cuiridh an gleus seo carait ghluasadach ann an duilleag-lìn agus ’s urrainn dhut teacsa a thaghadh leis a’ mheur-chlàr leis. A bheil thu airson brabhsadh carait a chur air a-nis?
 tabbrowser-confirm-caretbrowsing-checkbox = Na seall am bogsa-còmhraidh seo dhomh a-rithist.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Thoir cead do brathan mar am fear seo o { $domain } gun doir iad dhan taba aca-san thu
-
 tabbrowser-customizemode-tab-title = Gnàthaich { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -163,7 +175,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Till fuaim nan tabaichean
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = A’ cluich fuaim
 
