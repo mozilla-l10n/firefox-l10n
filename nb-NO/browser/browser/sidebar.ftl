@@ -36,12 +36,44 @@ sidebar-position-left =
     .label = Vis på venstre side
 sidebar-position-right =
     .label = Vis på høyre side
+sidebar-vertical-tabs =
+    .label = Vertikale faner
+sidebar-horizontal-tabs =
+    .label = Horisontale faner
+sidebar-customize-tabs-header =
+    .label = Fane-innstillinger
+sidebar-customize-settings-header =
+    .label = Innstillinger for sidestolpe
+sidebar-visibility-always-show =
+    .label = Vis alltid
+sidebar-visibility-hide-sidebar =
+    .label = Skjul sidestolpe
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Behandle utvidelse
+sidebar-context-menu-remove-extension =
+    .label = Fjern utvidelse
+sidebar-context-menu-report-extension =
+    .label = Rapporter utvidelse
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = Historikk
+sidebar-menu-synced-tabs-label =
+    .label = Faner fra andre enheter
+sidebar-menu-bookmarks-label =
+    .label = Bokmerker
+sidebar-menu-customize-label =
+    .label = Tilpass sidestolpe
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Tilpass sidestolpe
+sidebar-menu-history-header =
+    .heading = Historikk
+sidebar-menu-syncedtabs-header =
+    .heading = Faner fra andre enheter
