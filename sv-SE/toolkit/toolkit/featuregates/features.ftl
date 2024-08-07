@@ -52,9 +52,19 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Aktivera bild-i-bild på aktiva videor när du byter flikar.
 genai-settings-chat-title =
     .label = AI chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Sidofält
+sidebar-description = Få enkel åtkomst till din historik, flikar från andra enheter, sidofältstillägg och mer när du surfar. <a data-l10n-name="connect">Dela feedback</a>
+vertical-tabs-title =
+    .label = Vertikala flikar
+vertical-tabs-description = Flytta dina flikar från toppen av webbläsaren till sidan. Kräver att du också provar sidofältet. <a data-l10n-name="connect">Dela feedback</a>
 experimental-features-group-browsing =
     .label = Webbläsning
 experimental-features-group-developer-tools =
     .label = Utvecklarverktyg
 experimental-features-group-webpage-display =
     .label = Visning av webbsida
+experimental-features-group-customize-browsing =
+    .label = Anpassa din surfning
+experimental-features-group-customize-browsing-description = Om du provar dessa funktioner, <a data-l10n-name="connect">dela dina tankar om Connect</a>
