@@ -26,7 +26,7 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Kwis
-    .value = Prašejće mje wo tutym wuběrje. Stajće mi prašenja wšelakeho raza, na přikład multiple choice, wěrny a njewěrny a krótku wotmołwu. Čakajće na moju wotmołwu, prjedy hač z přichodnym prašenjom pokročujeće.
+    .value = Prašejće so mje wo tutym wuběrje. Stajće mi prašenja wšelakeho raza, na přikład multiple choice, wěrny a njewěrny a krótku wotmołwu. Čakajće na moju wotmołwu, prjedy hač z přichodnym prašenjom pokročujeće.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Wujasńće to
