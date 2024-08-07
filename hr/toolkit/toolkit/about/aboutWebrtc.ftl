@@ -62,7 +62,7 @@ about-webrtc-ice-state = ICE stanje
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE statistika
 about-webrtc-ice-restart-count-label = ICE ponovno pokretanje:
-about-webrtc-ice-rollback-count-label = ICE povrati na staro:
+about-webrtc-ice-rollback-count-label = ICE povlačenja:
 about-webrtc-ice-pair-bytes-sent = Poslano bajtova:
 about-webrtc-ice-pair-bytes-received = Primljeno bajtova:
 about-webrtc-ice-component-id = ID komponente
