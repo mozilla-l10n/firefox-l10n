@@ -4,18 +4,22 @@
 
 tabbrowser-empty-tab-title = ເປີດໜ້າຕ່າງໃໝ່
 tabbrowser-empty-private-tab-title = ແທັບສ່ວນຕົວໃຫມ່
-
 tabbrowser-menuitem-close-tab =
     .label = ປິດແທັບ
 tabbrowser-menuitem-close =
     .label = ປິດ
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext = ປິດ { $tabCount } ແທັບ
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -90,13 +94,15 @@ tabbrowser-confirm-caretbrowsing-title = ການເລື່ອນເບິງ
 tabbrowser-confirm-caretbrowsing-message = ກົດ F7 ເພື່ອເປີດ ຫລື ປິດການເລື່ອນເບິງແປ້ນພິມ. ໃນການເລື່ອນເບິງແບບນີ້ຈະມີເຄີເຊີທີ່ເຄື່ອນທີ່ໄດ້ຢູ່ເທິງຫນ້າເວັບທີ່ເຮັດໃຫ້ທ່ານສາມາດເລືອກຂໍ້ຄວາມດ້ວຍແປ້ນພິມໄດ້. ທ່ານຕ້ອງການເປີດນຳໃຊ້ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມຫລືບໍ່?
 tabbrowser-confirm-caretbrowsing-checkbox = ບໍ່ຕ້ອງສະແດງບັອກຂໍ້ຄວາມນີ້ອີກ.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = ອະນຸຍາດໃຫ້ການແຈ້ງເຕືອນແບບນີ້ຈາກ { $domain } ເພື່ອພາທ່ານໄປທີ່ແຖບຂອງເຂົາເຈົ້າ
-
 tabbrowser-customizemode-tab-title = ປັບແຕ່ງ { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -115,7 +121,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = ເຊົາປິດສຽງແທັບ
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = ກຳລັງຫຼິ້ນສຽງ
 
