@@ -4,18 +4,27 @@
 
 tabbrowser-empty-tab-title = Filă nouă
 tabbrowser-empty-private-tab-title = Filă privată nouă
-
 tabbrowser-menuitem-close-tab =
     .label = Închide fila
 tabbrowser-menuitem-close =
     .label = Închide
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Închide fila
+            [few] Închide { $tabCount } file
+           *[other] Închide { $tabCount } de file
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -100,6 +109,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avertizează-mă când deschide
 tabbrowser-confirm-caretbrowsing-title = Navigare la cursor
 tabbrowser-confirm-caretbrowsing-message = Apăsarea pe F7 activează sau dezactivează navigarea la cursor. Acestă funcție plasează un cursor mobil în paginile web, permițându-ți să selectezi textul cu tastatura. Vrei să activezi navigarea la cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = Nu mai afișa această casetă de dialog.
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 

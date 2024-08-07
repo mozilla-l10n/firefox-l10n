@@ -13,6 +13,17 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ჩანართის დახურვა
+           *[other] { $tabCount } ჩანართის დახურვა
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -110,6 +121,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = გაფრთხილებ�
 tabbrowser-confirm-caretbrowsing-title = მაჩვენებლით გადაადგილება
 tabbrowser-confirm-caretbrowsing-message = F7 ღილაკით ჩაირთვება ტექსტში მაჩვენებლის გამოყენების შესაძლებლობა. შედეგად, ვებგვერდზე არსებულ ნებისმიერ ტექსტში გამოჩნდება მოციმციმე მაჩვენებელი, რომ შეიძლებოდეს კლავიატურით მონიშვნა. გსურთ, ტექსტებში მაჩვენებლის გამოყენება?
 tabbrowser-confirm-caretbrowsing-checkbox = აღარ გამოჩნდეს მომავალში.
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 

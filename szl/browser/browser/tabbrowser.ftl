@@ -3,18 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nowo karta
-
 tabbrowser-menuitem-close-tab =
     .label = Zawrzij karta
 tabbrowser-menuitem-close =
     .label = Zawrzij
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Zawrzij karta
+            [few] Zawrzij { $tabCount } karty
+           *[many] Zawrzij { $tabCount } kart
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -100,13 +109,15 @@ tabbrowser-confirm-caretbrowsing-title = Przeglōndanie z kursorym
 tabbrowser-confirm-caretbrowsing-message = Jak prziciśniesz F7, to załōnczosz i wyłōnczosz przeglōndanie z kursorym. Ta funkcyjo pokazuje na strōnach ruchōmy kursōr, bez co idzie ôbiyrać tekst tastaturōm. Załōnczyć przeglōndanie z kursorym?
 tabbrowser-confirm-caretbrowsing-checkbox = Niy pokazuj mi zaś tego dialogowego ôkna.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Dowej takim powiadōmiyniōm ze serwera { $domain } przełōnczać cie na swoja karta
-
 tabbrowser-customizemode-tab-title = Przipasuj { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
