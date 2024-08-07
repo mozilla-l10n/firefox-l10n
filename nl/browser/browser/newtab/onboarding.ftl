@@ -340,6 +340,8 @@ onboarding-device-migration-primary-button-label = Aanmelden
 
 ## Add-ons Picker screen
 
+amo-picker-title = Uw { -brand-short-name } aanpassen
+amo-picker-subtitle = Extensies zijn als apps voor uw browser, en u kunt er wachtwoorden mee beschermen, video’s downloaden, koopjes vinden, vervelende advertenties blokkeren, het uiterlijk van uw browser wijzigen, en nog veel meer.
 amo-picker-install-button-label = Toevoegen aan { -brand-short-name }
 amo-picker-install-complete-label = Geïnstalleerd
 amo-picker-collection-link = Meer add-ons verkennen

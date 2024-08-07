@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Recente activiteit
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Aanbevolen door { $provider }
 newtab-section-header-stories = Verhalen die tot nadenken stemmen
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Keuzes van vandaag voor u
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -416,6 +418,15 @@ newtab-topic-label-travel = Reizen
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selecteer onderwerpen om uw feed te verfijnen
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Kies twee of meer onderwerpen. Onze deskundige curatoren geven prioriteit aan verhalen die zijn afgestemd op uw interesses. Werk op elk gewenst moment bij.
 newtab-topic-selection-save-button = Opslaan
 newtab-topic-selection-cancel-button = Annuleren
 newtab-topic-selection-button-maybe-later = Misschien later
+newtab-topic-selection-privacy-link = Lees hoe we gegevens beschermen en beheren
+newtab-topic-selection-button-update-interests = Werk uw interesses bij
+newtab-topic-selection-button-pick-interests = Kies uw interesses

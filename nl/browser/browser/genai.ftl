@@ -35,6 +35,24 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Taal vereenvoudigen
     .value = Herschrijf de selectie in korte zinnen en eenvoudige woorden. Behoud de betekenis en feitelijke juistheid.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Mij testen
+    .value = Test mij over deze selectie. Stel me een uiteenlopende soort vragen, bijvoorbeeld meerkeuze, waar of niet waar en kort antwoord. Wacht op mijn antwoord voordat wordt doorgegaan naar de volgende vraag.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Dit uitleggen
+    .value = Leg de belangrijkste concepten in deze selectie uit in eenvoudige woorden. Gebruik ook voorbeelden.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI-chatbot vragen
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } vragen
+genai-input-ask-generic =
+    .placeholder = AI-chatbot vragen…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } vragen…
