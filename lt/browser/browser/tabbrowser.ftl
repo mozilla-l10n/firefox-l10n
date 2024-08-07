@@ -3,18 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nauja kortelė
-
 tabbrowser-menuitem-close-tab =
     .label = Užverti kortelę
 tabbrowser-menuitem-close =
     .label = Užverti
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Užverti kortelę
+            [few] Užverti { $tabCount } korteles
+           *[other] Užverti { $tabCount } kortelių
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -127,13 +136,15 @@ tabbrowser-confirm-caretbrowsing-title = Naršymas žymekliu
 tabbrowser-confirm-caretbrowsing-message = Klavišas F7 įjungia arba išjungia žymeklį, kai peržiūrimas tinklalapis. Jį įjungus teksto fragmentus galima pažymėti klaviatūra. Ar įjungti žymeklį?
 tabbrowser-confirm-caretbrowsing-checkbox = Šio dialogo daugiau neberodyti.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Leisti tokiems pranešimams iš { $domain } perkelti jus į jų kortelę
-
 tabbrowser-customizemode-tab-title = Tvarkyti „{ -brand-short-name }“
 
 ## Context menu buttons, of which only one will be visible at a time
