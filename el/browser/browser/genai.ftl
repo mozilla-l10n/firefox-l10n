@@ -27,6 +27,22 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Περίληψη
+    .value = Κάνε περίληψη της επιλογής με ακριβή και περιεκτική γλώσσα, χρήση κεφαλίδων και λιστών με κουκκίδες στην περίληψη για να υπάρχει δυνατότητα σάρωσης. Διατήρησε τη σημασία και την ακρίβεια των δεδομένων.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Απλοποίηση γλώσσας
+    .value = Γράψε ξανά την επιλογή με σύντομες προτάσεις και απλές λέξεις. Διατήρησε τη σημασία και την ακρίβεια των δεδομένων.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Ρώτησέ με
+    .value = Δημιουργία ερωτήσεων για αυτήν την επιλογή. Κάνε μου διάφορους τύπους ερωτήσεων, όπως πολλαπλών επιλογών, σωστού ή λάθους και σύντομων απαντήσεων. Περίμενε την απάντησή μου πριν προχωρήσεις στην επόμενη ερώτηση.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Εξήγησε αυτό
+    .value = Εξήγησε τις βασικές ιδέες αυτής της επιλογής με απλές λέξεις και χρήση παραδειγμάτων.
 
 ## Chatbot menu shortcuts
 
