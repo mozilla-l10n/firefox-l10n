@@ -413,6 +413,7 @@ newtab-topic-label-society = Like hacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Tecnologia
 newtab-topic-label-travel = Viaggi
+newtab-topic-label-home = Casa e giardino
 
 ## Topic Selection Modal
 
