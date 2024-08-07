@@ -420,9 +420,31 @@ pdfjs-editor-new-alt-text-ai-model-downloading-progress = AI-model foar alternat
     .aria-valuetext = AI-model foar alternative tekst downloade ({ $downloadedSize } fan { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternative tekst tafoege
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Alternative tekst ûntbrekt
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Alternative tekst beoardiele
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Automatysk oanmakke: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Ynstellingen foar alternative tekst fan ôfbyldingen
+pdfjs-image-alt-text-settings-button-label = Ynstellingen foar alternative tekst fan ôfbyldingen
+pdfjs-editor-alt-text-settings-dialog-label = Ynstellingen foar alternative tekst fan ôfbyldingen
+pdfjs-editor-alt-text-settings-automatic-title = Automatyske alternative tekst
+pdfjs-editor-alt-text-settings-create-model-button-label = Alternative tekst automatysk oanmeitsje
+pdfjs-editor-alt-text-settings-create-model-description = Stelt beskriuwingen foar om minsken te helpen dy’t de ôfbylding net sjen kinne of foar wa’t de ôfbylding net laden wurdt.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = AI-model foar alternative tekst ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Wurdt lokaal op jo apparaat útfierd, sadat jo gegevens privee bliuwe. Fereaske foar automatyske alternative tekst.
+pdfjs-editor-alt-text-settings-delete-model-button = Fuortsmite
+pdfjs-editor-alt-text-settings-download-model-button = Downloade
+pdfjs-editor-alt-text-settings-downloading-model-button = Downloade…
 pdfjs-editor-alt-text-settings-editor-title = Alternative-tekstbewurker
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Alternative-tekstbewurker daliks toane by tafoegjen fan in ôfbylding
 pdfjs-editor-alt-text-settings-show-dialog-description = Helpt jo derfoar te soargjen dat al jo ôfbyldingen alternative tekst hawwe.
