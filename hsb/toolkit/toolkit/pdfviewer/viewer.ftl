@@ -406,8 +406,12 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Alternatiwny tekst wobdźěłać (
 pdfjs-editor-new-alt-text-dialog-add-label = Alternatiwny tekst přidać (wobrazowe wopisanje)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Pisajće tu swoje wopisanje…
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Tutón alternatiwny tekst je so awtomatisce wutworił.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Dalše informacije
+pdfjs-editor-new-alt-text-create-automatically-button-label = Alternatiwny tekst awtomatisce wutworić
 pdfjs-editor-new-alt-text-not-now-button = Nic nětko
+pdfjs-editor-new-alt-text-error-title = Alternatiwny tekst njeda so awtomatisce wutworić
 pdfjs-editor-new-alt-text-error-close-button = Začinić
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternatiwny tekst je so přidał
@@ -415,10 +419,24 @@ pdfjs-editor-new-alt-text-added-button-label = Alternatiwny tekst je so přidał
 pdfjs-editor-new-alt-text-missing-button-label = Alternatiwny tekst faluje
 # This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
 pdfjs-editor-new-alt-text-to-review-button-label = Alternatiwny tekst přepruwować
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Awtomatisce wutworjeny: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Nastajenja alternatiwneho wobrazoweho teksta
+pdfjs-image-alt-text-settings-button-label = Nastajenja alternatiwneho wobrazoweho teksta
+pdfjs-editor-alt-text-settings-dialog-label = Nastajenja alternatiwneho wobrazoweho teksta
+pdfjs-editor-alt-text-settings-automatic-title = Awtomatiski alternatiwny tekst
+pdfjs-editor-alt-text-settings-create-model-button-label = Alternatiwny tekst awtomatisce wutworić
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model KI alternatiwneho teksta ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-delete-model-button = Zhašeć
 pdfjs-editor-alt-text-settings-download-model-button = Sćahnyć
 pdfjs-editor-alt-text-settings-downloading-model-button = Sćahuje so…
+pdfjs-editor-alt-text-settings-editor-title = Editor za alternatiwny tekst
 pdfjs-editor-alt-text-settings-close-button = Začinić
