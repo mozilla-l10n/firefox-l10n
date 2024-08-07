@@ -483,7 +483,7 @@ popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Dijeliš { -brand-short-name }. Drugi ljudi mogu vidjeti kad prijeđeš na novu karticu.
-sharing-warning-screen = Dijeliš svoj cijeli ekran. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
+sharing-warning-screen = Dijeliš svoj cijeli ekran. Drugi ljudi mogu vidjeti kad prijeđeš na novu karticu.
 sharing-warning-proceed-to-tab =
     .label = Prijeđi na karticu
 sharing-warning-disable-for-session =
@@ -546,7 +546,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici odobrene su dodatne dozvole.
 urlbar-switch-to-tab =
-    .value = Prebaci na karticu:
+    .value = Prijeđi na karticu:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dodatak:
@@ -572,7 +572,7 @@ urlbar-result-action-search-in-private = Pretraži u privatnom prozoru
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Traži pomoću { $engine }
 urlbar-result-action-sponsored = Sponzorirano
-urlbar-result-action-switch-tab = Prebaci na karticu
+urlbar-result-action-switch-tab = Prijeđi na karticu
 urlbar-result-action-visit = Posjeti
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
