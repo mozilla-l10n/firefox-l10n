@@ -13,6 +13,18 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -128,6 +140,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ᱟᱭᱢᱟᱸ ᱴᱮᱵᱽ �
 tabbrowser-confirm-caretbrowsing-title = ᱠᱟᱨᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ
 tabbrowser-confirm-caretbrowsing-message = F7 ᱚᱛᱟ ᱞᱮᱠᱷᱟᱱ ᱠᱟᱨᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱮᱢ ᱥᱮ ᱵᱚᱸᱫᱟᱭ ᱾ ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱫᱚ ᱣᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱩᱪᱟᱹᱲᱚᱜ ᱠᱚᱨᱥᱚᱨ ᱫᱚᱦᱚᱭᱟᱭ, ᱡᱟᱦᱟᱸ ᱛᱮ ᱟᱢ ᱠᱤᱵᱚᱨᱰ ᱚᱞ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱠᱟᱨᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱪᱟᱹᱞᱩ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ?
 tabbrowser-confirm-caretbrowsing-checkbox = ᱱᱚᱶᱟ ᱵᱟᱠᱚᱥ ᱟᱨ ᱟᱞᱚᱢ ᱫᱮᱷᱟᱣᱤᱧᱟ ᱾
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 
