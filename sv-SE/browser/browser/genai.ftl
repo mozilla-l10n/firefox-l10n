@@ -5,21 +5,21 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Lägger till den chatbot som du väljer i sidofältet, för snabb åtkomst när du surfar. <a data-l10n-name="connect">Dela feedback</a>
+genai-settings-chat-description = Lägger till valfri chatbot i sidofältet, för snabb åtkomst när du surfar. <a data-l10n-name="connect">Dela feedback</a>
 genai-settings-chat-choose = Välj en chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Välj en
 genai-settings-chat-links = När du väljer en chatbot godkänner du leverantörens användarvillkor och sekretesspolicy.
-genai-settings-chat-chatgpt-links = Genom att välja ChatGPT godkänner du OpenAI <a data-l10n-name="link1">användarvillkor</a> och <a data-l10n-name="link2">sekretesspolicy</a>.
-genai-settings-chat-claude-links = Genom att välja Antropic Claude, godkänner du Antropics <a data-l10n-name="link1">användarvillkor</a>, <a data-l10n-name="link2">användarpolicy</a>, och <a data-l10n-name="link3">sekretesspolicy</a>.
+genai-settings-chat-chatgpt-links = Genom att välja ChatGPT godkänner du <a data-l10n-name="link1">användarvillkor</a> och <a data-l10n-name="link2">sekretesspolicy</a> för OpenAI.
+genai-settings-chat-claude-links = Genom att välja Antropic Claude, godkänner du <a data-l10n-name="link1">användarvillkor</a>, <a data-l10n-name="link2">användarpolicy</a> och <a data-l10n-name="link3">sekretesspolicy</a> för Antropics.
 genai-settings-chat-copilot-links = Genom att välja Copilot godkänner du <a data-l10n-name="link1">villkoren för Copilot AI Experiences</a> och <a data-l10n-name="link2">Microsofts sekretesspolicy</a>.
-genai-settings-chat-gemini-links = Genom att välja Google Tvillingarna godkänner du <a data-l10n-name="link1">Googles användarvillkor</a>, <a data-l10n-name="link2">Generative AI policy för förbjuden användning av AI</a > och <a data-l10n-name="link3">sekretesspolicy för Gemini Apps</a>.
+genai-settings-chat-gemini-links = Genom att välja Google Gemini godkänner du <a data-l10n-name="link1">Googles användarvillkor</a>, <a data-l10n-name="link2">policyn för förbjuden användning av generativ AI</a > och <a data-l10n-name="link3">sekretessmeddelandet för Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Genom att välja HuggingChat godkänner du <a data-l10n-name="link1">HuggingChat sekretesspolicy</a> och <a data-l10n-name="link2">Hugging Face sekretesspolicy</a>.
 genai-settings-chat-lechat-links = Genom att välja Le Chat Mistral godkänner du <a data-l10n-name="link1">användarvillkoren</a> och <a data-l10n-name="link2">sekretesspolicy</a> för Mistral AI .
 genai-settings-chat-localhost-links = Ta med din egen privata lokala chatbot som <a data-l10n-name="link1">llamafile</a> från { -vendor-short-name }:s innovationsgrupp.
 genai-settings-chat-shortcuts =
-    .description = Visar en genväg till prompter när du markerar text. { -brand-short-name } skickar text, sidtitel och prompt till chatboten.
-    .label = Visa frågor vid textmarkering
+    .description = Visar en genväg till uppmaningar när du markerar text. { -brand-short-name } skickar texten, sidtiteln och uppmaningen till chatboten.
+    .label = Visa uppmaningar vid textval
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
