@@ -63,10 +63,10 @@ experimental-features-group-browsing =
 # Updated sidebar settings
 sidebar-title =
     .label = Barra laterale
-sidebar-description = Accedi facilmente a cronologia, schede da altri dispositivi, estensioni per la barra laterale e altro ancora mentre navighi. <a data-l10n-name="connect">Condividi il tuo feeback</a>
+sidebar-description = Accedi facilmente a cronologia, schede da altri dispositivi, estensioni per la barra laterale e altro ancora mentre navighi. <a data-l10n-name="connect">Condividi il tuo feedback</a>
 vertical-tabs-title =
     .label = Schede verticali
-vertical-tabs-description = Sposta le tue schede dalla parte superiore del browser a quella laterale. Per utilizzare questa funzione è necessario attivare anche la barra laterale. <a data-l10n-name="connect">Condividi il tuo feeback</a>
+vertical-tabs-description = Sposta le tue schede dalla parte superiore del browser a quella laterale. Per utilizzare questa funzione è necessario attivare anche la barra laterale. <a data-l10n-name="connect">Condividi il tuo feedback</a>
 
 experimental-features-group-developer-tools =
   .label = Strumenti di sviluppo
