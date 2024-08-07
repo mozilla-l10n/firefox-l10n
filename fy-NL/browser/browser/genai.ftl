@@ -12,6 +12,9 @@ genai-settings-chat-choose-one-menuitem =
 genai-settings-chat-links = Wannear't jo in chatbot kieze, geane jo akkoard mei de brûkersbetingsten en it privacybelied fan de provider.
 genai-settings-chat-chatgpt-links = Troch ChatGPT te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Gebrûkbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan OpenAI.
 genai-settings-chat-claude-links = Troch Anthropic Claude te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten foar konsuminten</a>, it <a data-l10n-name="link2">gebrûksbelied</a>, en it <a data-l10n-name="link3">Privacybelied</a> fan Anthropic.
+genai-settings-chat-copilot-links = Troch Copilot te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Betingsten fan Copilot AI Experiences</a> en de <a data-l10n-name="link2">Privacyferklearring fan Microsoft</a>.
+genai-settings-chat-gemini-links = Troch Google Gemini te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten fan Google</a>, it <a data-l10n-name="link2">belied foar ferbeane gebrûk fan generative AI</a >, en de <a data-l10n-name="link3">Privacyferklearring fan Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = Troch HuggingChat te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Privacyferklearring fan HuggingChat</a> en it <a data-l10n-name="link2">Privacybelied fan Hugging Face</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
