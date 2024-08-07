@@ -341,6 +341,10 @@ onboarding-device-migration-primary-button-label = Oanmelde
 ## Add-ons Picker screen
 
 amo-picker-title = Jo { -brand-short-name } oanpasse
+amo-picker-subtitle = Utwreidingen binne as apps foar jo browser, en jo kinne der wachtwurden mei beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, it uterlik fan jo browser wizigje, en noch folle mear.
+amo-picker-install-button-label = Tafoegje oan { -brand-short-name }
+amo-picker-install-complete-label = Ynstallearre
+amo-picker-collection-link = Mear add-ons ferkenne
 
 ## The following screens have been updated to use security and privacy focused strings:
 
