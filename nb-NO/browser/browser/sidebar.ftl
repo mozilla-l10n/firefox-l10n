@@ -32,6 +32,10 @@ sidebar-customize-extensions-header = Sidestolpeutvidelser
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-verktøy
 sidebar-customize-firefox-settings = Behandle { -brand-short-name }-innstillinger
+sidebar-position-left =
+    .label = Vis på venstre side
+sidebar-position-right =
+    .label = Vis på høyre side
 
 ## Labels for sidebar context menu items
 
