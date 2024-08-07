@@ -385,3 +385,13 @@ newtab-weather-menu-hide-weather = Masquer la météo sur la page Nouvel onglet
 newtab-weather-menu-learn-more = En savoir plus
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Les données météo ne sont pas disponibles pour le moment.
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Enregistrer
+newtab-topic-selection-cancel-button = Annuler
+newtab-topic-selection-button-maybe-later = Peut-être plus tard
+newtab-topic-selection-privacy-link = Découvrez comment nous protégeons et gérons les données

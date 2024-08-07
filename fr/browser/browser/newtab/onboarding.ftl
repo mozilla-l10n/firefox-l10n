@@ -336,6 +336,10 @@ onboarding-device-migration-subtitle = Connectez-vous à votre { -fxaccount-bran
 onboarding-device-migration-subtitle2 = Connectez-vous à votre compte pour récupérer marque-pages, mots de passe et historique de navigation sur votre nouvel appareil.
 onboarding-device-migration-primary-button-label = Se connecter
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Ajouter à { -brand-short-name }
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
