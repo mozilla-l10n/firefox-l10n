@@ -4,18 +4,26 @@
 
 tabbrowser-empty-tab-title = Uus kaart
 tabbrowser-empty-private-tab-title = Uus privaatne kaart
-
 tabbrowser-menuitem-close-tab =
     .label = Sulge kaart
 tabbrowser-menuitem-close =
     .label = Sulge
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Sulge kaart
+           *[other] Sulge { $tabCount } kaarti
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +122,15 @@ tabbrowser-confirm-caretbrowsing-title = Kursoriga lehitsemine
 tabbrowser-confirm-caretbrowsing-message = F7 vajutamisega lülitatakse kursoriga lehitsemine sisse või välja. See lahendus paigutab veebilehele liigutatava kursori, mis võimaldab teksti valimist klaviatuuri abil. Kas soovid kursoriga veebilehitsemise sisse lülitada?
 tabbrowser-confirm-caretbrowsing-checkbox = Seda akent rohkem ei näidata.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Sellistel teavitustel saidilt { $domain } lubatakse suunata sind nende kaardile
-
 tabbrowser-customizemode-tab-title = { -brand-short-name }i kohandamine
 
 ## Context menu buttons, of which only one will be visible at a time
