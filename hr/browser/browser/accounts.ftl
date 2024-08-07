@@ -85,9 +85,9 @@ account-multiple-tabs-arriving-from-single-device =
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
-        [one] { $tabCount } je kartica preuzeta s priključenog uređaja
-        [few] { $tabCount } su kartice preuzete s priključenog uređaja
-       *[other] { $tabCount } je kartica preuzeto s priključenog uređaja
+        [one] Primljena je { $tabCount } kartica s priključenog uređaja
+        [few] Primljene su { $tabCount } kartice s priključenog uređaja
+       *[other] Primljeno je { $tabCount } kartica s priključenog uređaja
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
