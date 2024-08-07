@@ -1042,6 +1042,10 @@ file-picker-failed-open = Klarte ikkje å opne Windows-fildialogvindauget. Inga 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Klarte ikkje å opne Windows fildialog. Fila vert lagra i { $path }.
 file-picker-failed-save-nowhere = Klarte ikkje å opne Windows fildialog. Fann ingen standardmapp, og fila vil ikkje bli lagra.
+file-picker-crashed-open = Windows-fildialogvindauget har krasja. Ingen fil eller mappe kunne veljast.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows-fildialogvindauget har krasja. Fila vil bli lagra i { $path }.
+file-picker-crashed-save-nowhere = Windows-fildialogvindauget har krasja. Fann inga standardmappe, og fila vil ikkje bli lagra.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
