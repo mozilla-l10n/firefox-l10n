@@ -7,7 +7,7 @@ about-httpsonly-title-site-not-available = Sigurna stranica nije dostupna
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Aktiviran je način rada "samo HTTPS" za bolju sigurnost, a HTTPS verzija stranice <em> { $websiteUrl } </em> nije dostupna.
-about-httpsonly-explanation-question = Što bi moglo uzrokovati ovo?
+about-httpsonly-explanation-question = Što bi mogao biti uzrok?
 about-httpsonly-explanation-nosupport = Web-stranica najvjerojatnije ne podržava HTTPS.
 about-httpsonly-explanation-risk = Moguće je i da je u pitanju napadač. Ako odlučite posjetiti web-stranicu, ne biste trebali unositi nikakve osjetljive podatke, poput lozinki, e-pošte ili podataka o kreditnoj kartici.
 about-httpsonly-explanation-continue = Ako nastavite, način rada "samo HTTPS" bit će privremeno isključen za ovu web-stranicu.
