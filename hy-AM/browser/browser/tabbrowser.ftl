@@ -13,6 +13,17 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Փակել ներդիր
+           *[other] Փակել { $tabCount } ներդիրները
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,6 +125,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել բազմա
 tabbrowser-confirm-caretbrowsing-title = Ակտիվ կուրսոր
 tabbrowser-confirm-caretbrowsing-message = F7 կոճակի սեղմումը անջատում կամ միացնում է ակտիվ կուրսորը: Այսյուրահատկությունը դնում է շարժական կուրսոր վեբ էջերում՝ հնարավորություն տալով ընտրել տեքստը ստեղնաշարով: Դուք ցանկանո՞ւմ եք ակտիվացնել այն:
 tabbrowser-confirm-caretbrowsing-checkbox = Այլևս չույց չտալ այս պատուհանը
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 
