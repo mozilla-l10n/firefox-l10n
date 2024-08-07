@@ -3,16 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Llingüeta nueva
-
 tabbrowser-menuitem-close-tab =
     .label = Zarrar la llingüeta
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Zarrar la llingüeta
+           *[other] Zarrar { $tabCount } llingüetes
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -45,13 +53,15 @@ tabbrowser-confirm-close-tabs-button = Zarrar les llingüetes
 ## Confirmation dialog for enabling caret browsing
 
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que los avisos como esti de «{ $domain }» te lleven a la so llingüeta
-
 tabbrowser-customizemode-tab-title = Personalización de { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -72,6 +82,7 @@ tabbrowser-context-unmute-selected-tabs =
     .accesskey = a
 
 ## Ctrl-Tab dialog
+
 
 ## Tab manager menu buttons
 
