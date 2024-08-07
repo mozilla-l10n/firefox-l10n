@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Stranica:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,7 +60,7 @@ printpreview-nextarrow =
     .tooltiptext = Iduća stranica
 printpreview-endarrow =
     .label = { $arrow }
-    .tooltiptext = Posljednja stranica
+    .tooltiptext = Zadnja stranica
 printpreview-homearrow-button =
     .title = Prva stranica
 printpreview-previousarrow-button =
@@ -69,4 +68,4 @@ printpreview-previousarrow-button =
 printpreview-nextarrow-button =
     .title = Sljedeća stranica
 printpreview-endarrow-button =
-    .title = Posljednja stranica
+    .title = Zadnja stranica
