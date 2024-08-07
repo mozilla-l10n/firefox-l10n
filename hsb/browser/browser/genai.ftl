@@ -15,6 +15,10 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Zjeć
+    .value = Prošu zjimajće wuběr z pomocu precizneje a krótkeje rěče. Wužiwajće hłowowe linki a naličenja w zjeću, zo by so dało skenować. Wobchowajće woznam a faktowu dokładnosć
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Rěč zjednorić
