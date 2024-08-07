@@ -3,18 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Tab Barô
-
 tabbrowser-menuitem-close-tab =
     .label = Tôp Tab
 tabbrowser-menuitem-close =
     .label = Tôp
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext = Tôp { $tabCount } tab
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -44,6 +48,9 @@ tabbrowser-confirm-open-multiple-tabs-button = Peuhah tabs
 ## Confirmation dialog for enabling caret browsing
 
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 
@@ -51,6 +58,7 @@ tabbrowser-confirm-open-multiple-tabs-button = Peuhah tabs
 
 
 ## Ctrl-Tab dialog
+
 
 ## Tab manager menu buttons
 
