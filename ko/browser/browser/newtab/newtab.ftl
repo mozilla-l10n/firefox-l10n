@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = 최근 활동
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 추천
 newtab-section-header-stories = 생각하게 하는 이야기
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = 오늘의 추천
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

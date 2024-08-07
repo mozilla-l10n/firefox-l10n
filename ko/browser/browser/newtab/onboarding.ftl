@@ -340,6 +340,10 @@ onboarding-device-migration-primary-button-label = 로그인
 ## Add-ons Picker screen
 
 amo-picker-title = { -brand-short-name } 사용자 지정
+amo-picker-subtitle = 확장 기능은 브라우저용 앱과 같은 것으로, 이를 통해 비밀번호 보호, 동영상 다운로드, 거래 찾기, 성가신 광고 차단, 브라우저 모양 변경 등을 할 수 있습니다.
+amo-picker-install-button-label = { -brand-short-name }에 추가
+amo-picker-install-complete-label = 설치됨
+amo-picker-collection-link = 더 많은 부가 기능 살펴보기
 
 ## The following screens have been updated to use security and privacy focused strings:
 
