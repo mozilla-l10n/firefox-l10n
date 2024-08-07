@@ -15,6 +15,8 @@ genai-settings-chat-claude-links = Troch Anthropic Claude te kiezen, geane jo ak
 genai-settings-chat-copilot-links = Troch Copilot te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Betingsten fan Copilot AI Experiences</a> en de <a data-l10n-name="link2">Privacyferklearring fan Microsoft</a>.
 genai-settings-chat-gemini-links = Troch Google Gemini te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten fan Google</a>, it <a data-l10n-name="link2">belied foar ferbeane gebrûk fan generative AI</a >, en de <a data-l10n-name="link3">Privacyferklearring fan Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Troch HuggingChat te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Privacyferklearring fan HuggingChat</a> en it <a data-l10n-name="link2">Privacybelied fan Hugging Face</a>.
+genai-settings-chat-lechat-links = Troch Le Chat Mistral te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan Mistral AI.
+genai-settings-chat-localhost-links = Bring jo eigen privee lokale chatbot mei, lykas <a data-l10n-name="link1">llamafile</a> fan de Innovation-groep fan { -vendor-short-name }.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
