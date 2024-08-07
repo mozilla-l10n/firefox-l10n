@@ -25,6 +25,8 @@ sidebar-search-results-header =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Handsam utviding
 
 ## Labels for sidebar menu items.
 
