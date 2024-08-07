@@ -17,3 +17,9 @@ genai-settings-chat-choose-one-menuitem =
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Spør { $provider }
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Spør { $provider }…
