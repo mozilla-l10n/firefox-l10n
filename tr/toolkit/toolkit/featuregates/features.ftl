@@ -46,6 +46,10 @@ experimental-features-js-warp-description = JavaScript performansını ve bellek
 experimental-features-ime-search =
     .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster
 experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyicisi), standart bir klavye kullanarak Doğu Asya veya Hintçe yazı dillerinde kullanılanlar gibi karmaşık sembolleri girmenize olanak tanıyan bir araçtır. Bu deneyi etkinleştirmek, metin girmek için IME’yi kullanırken adres çubuğu panelini açık tutacak ve arama sonuçlarını ve önerileri gösterecektir. IME’nin adres çubuğu sonuçlarını örten bir panel görüntüleyebileceğini, bu nedenle bu tercihin yalnızca bu tür bir paneli kullanmayan IME’ler için önerildiğini unutmayın.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Görüntü içinde görüntü: sekme değiştiğinde otomatik aç
+experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştir.
 experimental-features-group-browsing =
     .label = Gezinti
 experimental-features-group-developer-tools =

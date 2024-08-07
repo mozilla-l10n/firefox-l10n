@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Android cihazınızda Gelişti
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Android geliştirici menüsünden USB hata ayıklamayı etkinleştirin.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Dosya aktarımını etkinleştirin ve cihazınızın yalnızca şarj modunda olmadığından emin olun.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Android cihazınızdaki Firefox’ta USB hata ayıklamayı etkinleştirin.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android cihazını bilgisayarınıza bağlayın.
