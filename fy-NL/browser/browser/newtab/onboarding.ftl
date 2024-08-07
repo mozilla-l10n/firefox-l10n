@@ -338,6 +338,10 @@ onboarding-device-migration-subtitle = Meld jo oan by jo { -fxaccount-brand-name
 onboarding-device-migration-subtitle2 = Meld jo oan by jo account om jo blêdwizers, wachtwurden en skiednis mei jo mei te nimmen op jo nije apparaat.
 onboarding-device-migration-primary-button-label = Oanmelde
 
+## Add-ons Picker screen
+
+amo-picker-title = Jo { -brand-short-name } oanpasse
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

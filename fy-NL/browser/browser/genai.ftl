@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Troch Google Gemini te kiezen, geane jo akkoa
 genai-settings-chat-huggingchat-links = Troch HuggingChat te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Privacyferklearring fan HuggingChat</a> en it <a data-l10n-name="link2">Privacybelied fan Hugging Face</a>.
 genai-settings-chat-lechat-links = Troch Le Chat Mistral te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan Mistral AI.
 genai-settings-chat-localhost-links = Bring jo eigen privee lokale chatbot mei, lykas <a data-l10n-name="link1">llamafile</a> fan de Innovation-groep fan { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Toant in fluchkeppeling nei prompts wannear’t jo tekst selektearje. { -brand-short-name } ferstjoert de tekst, sidetitel en prompt nei de chatbot.
+    .label = Toant prompts by tekstseleksje
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +27,32 @@ genai-settings-chat-localhost-links = Bring jo eigen privee lokale chatbot mei, 
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Gearfetsje
+    .value = Makket in gearfetting fan de seleksje yn eksakte en beskriuwende wurden. Gebrûk kopteksten en opsommingslisten yn de gearfetting, om dizze scanber te meitsjen. Behâld de betsjutting en feitlike krektens.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Taal ferienfâldigje
+    .value = Skriuw de seleksje opnij yn koarte sinnen en ienfâldige wurden. Behâld de betsjutting en feitlike krektens.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = My teste
+    .value = Test my oer dizze seleksje. Stel my in útienrinnende soarte fan fragen, bygelyks mearkeuze, wier of net wier en koart antwurd. Wachtsje op myn antwurd eardat trochgien wurdt nei de folgjende fraach.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Dit útlizze
+    .value = Lis de wichtichste konsepten yn dizze seleksje út yn ienfâldige wurden. Brûk ek foarbylden.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI-chatbot freegje
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } freegje
+genai-input-ask-generic =
+    .placeholder = AI-chatbot freegje…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } freegje…

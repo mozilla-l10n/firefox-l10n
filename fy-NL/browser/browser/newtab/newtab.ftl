@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Resinte aktiviteit
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Oanrekommandearre troch { $provider }
 newtab-section-header-stories = Ferhalen dy’t ta neitinken stimme
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = De karren fan hjoed foar jo
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,3 +415,18 @@ newtab-topic-label-society = Lifehacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technology
 newtab-topic-label-travel = Reizgjen
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selektearje ûnderwerpen om jo feed te ferfynjen
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Kies twa of mear ûnderwerpen. Us saakkundige kurators prioritearje ferhalen ôfstimd op jo ynteressen. Wurkje op elk momint by.
+newtab-topic-selection-save-button = Bewarje
+newtab-topic-selection-cancel-button = Annulearje
+newtab-topic-selection-button-maybe-later = Miskien letter
+newtab-topic-selection-privacy-link = Lês hoe’t wy gegevens beskermje en beheare
+newtab-topic-selection-button-update-interests = Wurkje jo ynteressen by
+newtab-topic-selection-button-pick-interests = Kies jo ynteressen
