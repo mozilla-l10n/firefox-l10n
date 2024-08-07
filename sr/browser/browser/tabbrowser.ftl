@@ -4,18 +4,27 @@
 
 tabbrowser-empty-tab-title = Нова картица
 tabbrowser-empty-private-tab-title = Нова приватна картица
-
 tabbrowser-menuitem-close-tab =
     .label = Затвори картицу
 tabbrowser-menuitem-close =
     .label = Затвори
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
+# This text serves as an on-screen tooltip as well as an accessible name for
+# the "X" button that is shown on the active tab or, when multiple tabs are
+# selected, to all their "X" buttons.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-button =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Затвори { $tabCount } картицу
+            [few] Затвори { $tabCount } картице
+           *[other] Затвори { $tabCount } картица
+        }
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -130,13 +139,15 @@ tabbrowser-confirm-caretbrowsing-title = Преглед курсором
 tabbrowser-confirm-caretbrowsing-message = Притиском на F7 активира се или деактивира преглед курсором. Ова функција поставља покретни курсор на веб странице, омогућавајући одабир текста помоћу тастатуре. Да ли желите да активирате преглед курсором?
 tabbrowser-confirm-caretbrowsing-checkbox = Не показуј поново овај прозорчић.
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Дозволи да ме оваква обавештења од { $domain } одведу на њихову картицу
-
 tabbrowser-customizemode-tab-title = Прилагођавање програма { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -155,7 +166,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Укључи звук картица
     .accesskey = о
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Репродукција звука
 
