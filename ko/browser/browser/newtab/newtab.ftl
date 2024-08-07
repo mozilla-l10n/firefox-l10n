@@ -412,3 +412,18 @@ newtab-topic-label-society = 생활
 newtab-topic-label-sports = 스포츠
 newtab-topic-label-tech = 기술
 newtab-topic-label-travel = 여행
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = 피드를 세부 조정하려면 주제를 선택하세요
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = 두 개 이상의 주제를 선택하세요. 전문 큐레이터가 여러분의 관심사에 맞는 이야기를 우선적으로 선정합니다. 언제든지 업데이트하세요.
+newtab-topic-selection-save-button = 저장
+newtab-topic-selection-cancel-button = 취소
+newtab-topic-selection-button-maybe-later = 나중에요
+newtab-topic-selection-privacy-link = 데이터를 보호하고 관리하는 방법 알아보기
+newtab-topic-selection-button-update-interests = 관심 분야 업데이트
+newtab-topic-selection-button-pick-interests = 관심 분야를 선택하세요

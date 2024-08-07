@@ -337,6 +337,10 @@ onboarding-device-migration-subtitle = { -fxaccount-brand-name(capitalization: "
 onboarding-device-migration-subtitle2 = 새 기기에서 북마크, 비밀번호, 기록을 가져오려면 계정에 로그인하세요.
 onboarding-device-migration-primary-button-label = 로그인
 
+## Add-ons Picker screen
+
+amo-picker-title = { -brand-short-name } 사용자 지정
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
