@@ -410,7 +410,7 @@ pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Läs mer
 pdfjs-editor-new-alt-text-create-automatically-button-label = Skapa alternativ text automatiskt
 pdfjs-editor-new-alt-text-not-now-button = Inte nu
 pdfjs-editor-new-alt-text-error-title = Det gick inte att skapa alternativ text automatiskt
-pdfjs-editor-new-alt-text-error-description = Skriv din egen alternativ-text eller försök igen senare.
+pdfjs-editor-new-alt-text-error-description = Skriv din egna alternativa text eller försök igen senare.
 pdfjs-editor-new-alt-text-error-close-button = Stäng
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
@@ -432,16 +432,16 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Skapas automatisk
 ## Image alt-text settings
 
 pdfjs-image-alt-text-settings-button =
-    .title = Inställningar för alternativ text för bild
-pdfjs-image-alt-text-settings-button-label = Inställningar för alternativ text för bild
-pdfjs-editor-alt-text-settings-dialog-label = Inställningar för alternativ text för bild
+    .title = Alternativ textinställningar för bild
+pdfjs-image-alt-text-settings-button-label = Alternativ textinställningar för bild
+pdfjs-editor-alt-text-settings-dialog-label = Alternativ textinställningar för bild
 pdfjs-editor-alt-text-settings-automatic-title = Automatisk alternativ text
 pdfjs-editor-alt-text-settings-create-model-button-label = Skapa alternativ text automatiskt
 pdfjs-editor-alt-text-settings-create-model-description = Föreslår beskrivningar för att hjälpa personer som inte kan se bilden eller när bilden inte laddas.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = AI-modell för alternativ text ({ $totalSize } MB)
-pdfjs-editor-alt-text-settings-ai-model-description = Körs lokalt på din enhet så att din data förblir privat. Krävs för automatisk alternativ-text.
+pdfjs-editor-alt-text-settings-ai-model-description = Körs lokalt på din enhet så att din data förblir privat. Krävs för automatisk alternativ text.
 pdfjs-editor-alt-text-settings-delete-model-button = Ta bort
 pdfjs-editor-alt-text-settings-download-model-button = Hämta
 pdfjs-editor-alt-text-settings-downloading-model-button = Hämtar…

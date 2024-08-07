@@ -56,7 +56,7 @@ sidebar-visibility-hide-sidebar =
 sidebar-context-menu-manage-extension =
     .label = Hantera tillägg
 sidebar-context-menu-remove-extension =
-    .label = Ta bort tillägget
+    .label = Ta bort tillägg
 sidebar-context-menu-report-extension =
     .label = Rapportera tillägg
 

@@ -30,19 +30,19 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Sammanfatta
-    .value = Sammanfatta valet med ett exakt och koncist språk. Använd rubriker och punktlistor i sammanfattningen för att göra den scanningsbar. Behåll meningen och den sakliga noggrannheten.
+    .value = Sammanfatta urvalet med ett exakt och kortfattat språk. Använd rubriker och punktlistor i sammanfattningen för att göra den skanningsbar. Behåll innebörden och faktaprecisionen.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Förenkla språket
-    .value = Skriv om markeringen med korta meningar och enkla ord. Behåll meningen och den sakliga noggrannheten.
+    .value = Vänligen skriv om urvalet med korta meningar och enkla ord. Behåll innebörden och den faktiska riktigheten.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Testa mig
-    .value = Vänligen fråga mig om detta val. Ställ mig en mängd olika typer av frågor, till exempel flervalsfrågor, sant eller falskt och korta svar. Vänta på mitt svar innan du går vidare till nästa fråga.
+    .value = Fråga mig om detta urval. Ställ mig en mängd olika typer av frågor, till exempel flervalsfrågor, sant eller falskt och korta svar. Vänta på mitt svar innan du går vidare till nästa fråga.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Förklara detta
-    .value = Förklara de viktigaste begreppen i detta urval med enkla ord. Använd också exempel.
+    .value = Förklara nyckelbegreppen i detta urval med enkla ord. Använd också exempel.
 
 ## Chatbot menu shortcuts
 

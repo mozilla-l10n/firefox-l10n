@@ -423,7 +423,7 @@ newtab-topic-label-travel = Resa
 newtab-topic-selection-title = Välj ämnen för att finjustera ditt flöde
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Välj två eller flera ämnen. Våra expertkuratorer prioriterar berättelser anpassade efter dina intressen. Uppdatera när som helst.
+newtab-topic-selection-subtitle = Välj två eller flera ämnen. Våra expertkuratorer prioriterar nyheter anpassade efter dina intressen. Uppdatera när som helst.
 newtab-topic-selection-save-button = Spara
 newtab-topic-selection-cancel-button = Avbryt
 newtab-topic-selection-button-maybe-later = Kanske senare
