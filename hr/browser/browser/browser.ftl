@@ -482,7 +482,7 @@ popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Dijeliš { -brand-short-name }. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
+sharing-warning-window = Dijeliš { -brand-short-name }. Drugi ljudi mogu vidjeti kad prijeđeš na novu karticu.
 sharing-warning-screen = Dijeliš svoj cijeli ekran. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
 sharing-warning-proceed-to-tab =
     .label = Prijeđi na karticu
@@ -915,8 +915,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Nova kartica
 tabs-toolbar-list-all-tabs =
-    .label = Popis svih tabova
-    .tooltiptext = Popis svih tabova
+    .label = Popis svih kartica
+    .tooltiptext = Popis svih kartica
 
 ## Infobar shown at startup to suggest session-restore
 
