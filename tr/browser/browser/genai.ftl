@@ -19,3 +19,13 @@ genai-settings-chat-links = Bir sohbet botu seçtiğinizde o botun sağlayıcıs
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Yapay zekâlı sohbet botuna sor
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } sohbet botuna sor
+genai-input-ask-generic =
+    .placeholder = Yapay zekâlı sohbet botuna sor…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } sohbet botuna sor…

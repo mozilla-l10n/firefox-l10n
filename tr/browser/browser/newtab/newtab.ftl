@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Son Etkinlikler
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } öneriyor
 newtab-section-header-stories = Merak uyandıran makaleler
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Bugün sizin için seçtiklerimiz
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -416,3 +418,5 @@ newtab-topic-selection-save-button = Kaydet
 newtab-topic-selection-cancel-button = Vazgeç
 newtab-topic-selection-button-maybe-later = Daha sonra
 newtab-topic-selection-privacy-link = Verileri nasıl koruduğumuzu ve yönettiğimizi öğrenin
+newtab-topic-selection-button-update-interests = İlgi alanlarınızı güncelleyin
+newtab-topic-selection-button-pick-interests = İlgi alanlarınızı seçin

@@ -404,6 +404,7 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = Açıklamanızı buraya yazın…
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Bu alt metin otomatik olarak oluşturuldu.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Daha fazla bilgi alın
 pdfjs-editor-new-alt-text-not-now-button = Şimdi değil
 pdfjs-editor-new-alt-text-error-title = Alt metin otomatik olarak oluşturulamadı
 pdfjs-editor-new-alt-text-error-description = Lütfen kendi alt metninizi yazın veya daha sonra yeniden deneyin.
@@ -428,4 +429,6 @@ pdfjs-editor-alt-text-settings-delete-model-button = Sil
 pdfjs-editor-alt-text-settings-download-model-button = İndir
 pdfjs-editor-alt-text-settings-downloading-model-button = İndiriliyor…
 pdfjs-editor-alt-text-settings-editor-title = Alt metin düzenleyicisi
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Resim eklerken alt metin düzenleyicisini hemen göster
+pdfjs-editor-alt-text-settings-show-dialog-description = Tüm resimlerinizin alt metne sahip olduğundan emin olmanızı sağlar.
 pdfjs-editor-alt-text-settings-close-button = Kapat
