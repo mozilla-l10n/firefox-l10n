@@ -138,7 +138,7 @@ protections-panel-cookie-banner-blocker-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Isključiti blokiranje natpisa kolačića za { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Uključiti blokiranje natpisa kolačića za ovu stranicu?
-protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } će obrisati kolačiće ove stranice i osvježiti stranicu. Brisanje svih kolačića će vas vjerojatno odjaviti sa stranice ili isprazniti vašu košaricu.
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } će izbrisati kolačiće ove stranice i aktualizirati stranicu. Brisanje svih kolačića će te vjerojatno odjaviti sa stranice ili isprazniti tvoju košaricu.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pokušava automatski odbiti sve zahtjeve za kolačićima na podržanim stranicama.
 protections-panel-cookie-banner-view-cancel = Odustani
 protections-panel-cookie-banner-view-turn-off = Isključi
