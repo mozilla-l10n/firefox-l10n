@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Tambahkan chatbot pilihan Anda ke bilah samping, untuk akses cepat saat  menjelajah. <a data-l10n-name="connect">Bagikan masukan</a>
 genai-settings-chat-choose = Pilih chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Pilih satu
@@ -34,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Sederhanakan bahasa
     .value = Tulis ulang dari pilihan menggunakan kalimat pendek dan kata yang sederhana. Pertahankan makna dan keakuratan faktual.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Tanyakan kepada saya
+    .value = Tanyakan kepada saya tentang pilihan ini. Tanya berbagai jenis pertanyaan, misalnya dengan pilihan ganda, benar-salah, serta jawaban singkat. Tunggu balasan saya sebelum bertanya ke pertanyaan berikutnya.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Jelaskan ini
