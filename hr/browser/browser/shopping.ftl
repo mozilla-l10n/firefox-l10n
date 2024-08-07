@@ -187,13 +187,13 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Vratite se na <strong>provjeru recenzija</strong> kad god vidite oznaku s cijenom.
+shopping-callout-closed-opted-in-subtitle = Vrati se na <strong>provjeru recenzija</strong> kad god vidiš oznaku s cijenom.
 shopping-callout-pdp-opted-in-title = Jesu li ove recenzije pouzdane? Saznajte brzo.
 shopping-callout-pdp-opted-in-subtitle = Otvorite provjeru recenzija da biste vidjeli prilagođenu ocjenu s uklonjenim nepouzdanim recenzijama. Osim toga, pogledajte istaknute dijelove nedavnih autentičnih recenzija.
 shopping-callout-closed-not-opted-in-title = Jednim klikom do pouzdanih recenzija
 shopping-callout-closed-not-opted-in-subtitle = Isprobajte provjeru recenzija kad god vidite oznaku s cijenom. Brzo steknite uvide od pravih kupaca — prije kupnje.
 shopping-callout-closed-not-opted-in-revised-title = Jednim klikom do pouzdanih recenzija
-shopping-callout-closed-not-opted-in-revised-subtitle = Samo kliknite ikonu oznake cijene u adresnoj traci da biste se vratili na provjeru recenzija.
+shopping-callout-closed-not-opted-in-revised-subtitle = Jednostavno klikni ikonu oznake cijene u adresnoj traci da bi se vratio/la na provjeru recenzija.
 shopping-callout-closed-not-opted-in-revised-button = Razumijem
 shopping-callout-not-opted-in-reminder-title = Kupuj s povjerenjem
 shopping-callout-not-opted-in-reminder-subtitle = Niste sigurni jesu li recenzije proizvoda stvarne ili lažne? Provjera recenzija tvrtke { -brand-product-name } može pomoći.
