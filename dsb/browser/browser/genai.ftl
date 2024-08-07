@@ -23,6 +23,24 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Rěc zjadnoriś
     .value = Pśepišćo pšosym wuběrk z pomocu krotkich sadow a jadnorych słowow. Wobchowajśo wóznam a faktowu dokradnosć.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Kwis
+    .value = Pšašajśo se mě wó toś tom wuběrku. Stajśo mě pšašanja wšakego raza, na pśikład multiple choice, wěrny a njewěrny a krotke wótegrono. Cakajśo na mójo wótegrono, nježli až z pśiducym pšašanim pókšacujośo.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Wujasniśo to
+    .value = Pšosym wujasniśo głowne koncepty w toś tom wuběrku z jadnorymi słowami. Wužywajśo teke pśikłady.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI chatbot se pšašaś
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } se pšašaś
+genai-input-ask-generic =
+    .placeholder = Pšašajśo se AI chatbot
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Pšašajśo se { $provider }…
