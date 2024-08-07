@@ -414,6 +414,7 @@ newtab-topic-label-society = 생활
 newtab-topic-label-sports = 스포츠
 newtab-topic-label-tech = 기술
 newtab-topic-label-travel = 여행
+newtab-topic-label-home = 홈 & 마당
 
 ## Topic Selection Modal
 
