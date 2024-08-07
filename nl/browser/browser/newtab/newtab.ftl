@@ -413,3 +413,9 @@ newtab-topic-label-society = Lifehacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technologie
 newtab-topic-label-travel = Reizen
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Opslaan
+newtab-topic-selection-cancel-button = Annuleren
+newtab-topic-selection-button-maybe-later = Misschien later

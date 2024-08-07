@@ -51,12 +51,6 @@ pdfjs-download-button-label = Downloaden
 pdfjs-bookmark-button =
     .title = Huidige pagina (URL van huidige pagina bekijken)
 pdfjs-bookmark-button-label = Huidige pagina
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Openen in app
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Openen in app
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Afbeeldingen toevoegen of bewerken
 pdfjs-editor-highlight-button =
     .title = Markeren
 pdfjs-editor-highlight-button-label = Markeren
-pdfjs-highlight-floating-button =
-    .title = Markeren
 pdfjs-highlight-floating-button1 =
     .title = Markeren
     .aria-label = Markeren
@@ -400,3 +392,17 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Alles tonen
 pdfjs-editor-highlight-show-all-button =
     .title = Alles tonen
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Meer info
+pdfjs-editor-new-alt-text-not-now-button = Niet nu
+pdfjs-editor-new-alt-text-error-close-button = Sluiten
+
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-delete-model-button = Verwijderen
+pdfjs-editor-alt-text-settings-download-model-button = Downloaden
+pdfjs-editor-alt-text-settings-downloading-model-button = Downloaden…
+pdfjs-editor-alt-text-settings-close-button = Sluiten

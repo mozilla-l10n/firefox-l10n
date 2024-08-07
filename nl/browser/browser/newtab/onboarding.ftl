@@ -338,6 +338,12 @@ onboarding-device-migration-subtitle = Meld u aan bij uw { -fxaccount-brand-name
 onboarding-device-migration-subtitle2 = Meld u aan bij uw account om uw bladwijzers, wachtwoorden en geschiedenis mee te nemen op uw nieuwe apparaat.
 onboarding-device-migration-primary-button-label = Aanmelden
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Toevoegen aan { -brand-short-name }
+amo-picker-install-complete-label = Geïnstalleerd
+amo-picker-collection-link = Meer add-ons verkennen
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
