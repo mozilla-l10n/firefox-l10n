@@ -52,9 +52,19 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Включать «Картинку в картинке» для активных видео при переключении вкладок.
 genai-settings-chat-title =
     .label = ИИ-чат-бот
+# Updated sidebar settings
+sidebar-title =
+    .label = Боковая панель
+sidebar-description = Легко получайте доступ к истории, вкладкам с других устройств, расширениям боковой панели и многому другому во время веб-сёрфинга. <a data-l10n-name="connect">Поделитесь отзывом</a>
+vertical-tabs-title =
+    .label = Вертикальные вкладки
+vertical-tabs-description = Переместите ваши вкладки из верхней части браузера в боковую. Требует также попробовать боковую панель. <a data-l10n-name="connect">Поделитесь отзывом</a>
 experimental-features-group-browsing =
     .label = Просмотр сайтов
 experimental-features-group-developer-tools =
     .label = Инструменты разработчика
 experimental-features-group-webpage-display =
     .label = Отображение веб-страницы
+experimental-features-group-customize-browsing =
+    .label = Настройте свой просмотр
+experimental-features-group-customize-browsing-description = Если вы попробуете эти возможности, <a data-l10n-name="connect">поделитесь своими мыслями на Connect</a>

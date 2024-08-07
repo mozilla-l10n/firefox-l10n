@@ -416,6 +416,7 @@ newtab-topic-label-society = Лайфхаки
 newtab-topic-label-sports = Спорт
 newtab-topic-label-tech = Техника
 newtab-topic-label-travel = Путешествия
+newtab-topic-label-home = Дом и сад
 
 ## Topic Selection Modal
 
