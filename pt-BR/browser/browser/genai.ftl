@@ -9,6 +9,9 @@ genai-settings-chat-description = Adiciona o chatbot de sua escolha no painel la
 genai-settings-chat-choose-one-menuitem =
     .label = Escolha um
 genai-settings-chat-links = Ao escolher um chatbot, você concorda com os termos de uso e a política de privacidade do provedor.
+genai-settings-chat-chatgpt-links = Ao escolher o ChatGPT, você concorda com os <a data-l10n-name="link1">termos de uso</a> e a <a data-l10n-name="link2">política de privacidade</a> da OpenAI.
+genai-settings-chat-claude-links = Ao escolher o Anthropic Claude, você concorda com os <a data-l10n-name="link1">termos do serviço ao consumidor</a>, a <a data-l10n-name="link2">política de uso</a> e a <a data-l10n-name="link3">política de privacidade</a> da Anthropic.
+genai-settings-chat-copilot-links = Ao escolher o Copilot, você concorda com os <a data-l10n-name="link1">termos de uso do Copilot AI</a> e a <a data-l10n-name="link2">declaração de privacidade da Microsoft</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
