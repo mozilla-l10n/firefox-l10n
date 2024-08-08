@@ -998,7 +998,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = Naše maske su sigurne i lake za korištenje te štite vaš identitet i sprečavaju neželjenu poštu tako što skrivaju vašu adresu e-pošte.
+firefox-relay-offer-why-to-use-relay = Naše sigurne i jednostavne maske štite tvoj identitet i sprečavaju neželjenu poštu skrivanjem tvoje e-mail adrese.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Sve poruke e-pošte poslane na maskiranu e-poštu će biti proslijeđene na <strong>{ $useremail }</strong> (ukoliko odlučite da ih nećete blokirati).

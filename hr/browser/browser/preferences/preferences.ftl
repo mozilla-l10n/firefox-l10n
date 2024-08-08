@@ -875,7 +875,7 @@ pane-privacy-logins-and-passwords-header = Prijave i lozinke
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Pitaj za spremanje prijava i lozinka za web stranice
+    .label = Pitaj za spremanje prijava i lozinki za web stranice
     .accesskey = r
 
 ## Privacy Section - Passwords
@@ -902,9 +902,9 @@ forms-breach-alerts =
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
 preferences-relay-integration-checkbox =
-    .label = Predloži { -relay-brand-name } maske e-mail adrese za zaštitu tvoje e-mail adrese
+    .label = Predloži { -relay-brand-name } e-mail maske za štićenje tvoje e-mail adrese
 preferences-relay-integration-checkbox2 =
-    .label = Predloži { -relay-brand-name } maske e-mail adrese za zaštitu tvoje e-mail adrese
+    .label = Predloži { -relay-brand-name } e-mail maske za štićenje tvoje e-mail adrese
     .accesskey = r
 relay-integration-learn-more-link = Saznaj više
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
