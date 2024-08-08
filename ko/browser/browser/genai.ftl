@@ -37,8 +37,8 @@ genai-prompts-simplify =
     .value = 짧은 문장과 간단한 단어를 사용하여 선택 항목을 다시 작성해 주세요. 의미와 사실적 정확성을 유지하세요.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
-    .label = 퀴즈를 내보세요
-    .value = 이 선택에 대해 저에게 퀴즈를 내주세요. 객관식, 참 또는 거짓, 단답형 등 다양한 유형의 질문을 물어보세요. 다음 질문으로 넘어가기 전에 제 답변을 기다리세요.
+    .label = 퀴즈
+    .value = 이 선택에 대해서 저에게 퀴즈를 내주세요. 객관식, 참 또는 거짓, 단답형 등 다양한 유형의 질문을 해주세요. 다음 질문으로 넘어가기 전에 제 답변을 기다리세요.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = 이것을 설명하세요
