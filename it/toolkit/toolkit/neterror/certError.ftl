@@ -123,6 +123,7 @@ contentEncodingError-title = Errore di codifica del contenuto
 unsafeContentType-title = Tipo di file non sicuro
 netReset-title = La connessione è stata annullata
 netTimeout-title = Tempo per la connessione esaurito
+serverError-title = Sembra che ci sia un problema con questo sito
 unknownProtocolFound-title = Indirizzo non interpretabile
 proxyConnectFailure-title = Connessione rifiutata dal server proxy
 proxyResolveFailure-title = Impossibile stabilire una connessione con il server proxy
