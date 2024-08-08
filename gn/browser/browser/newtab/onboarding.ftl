@@ -336,6 +336,12 @@ onboarding-device-migration-subtitle = Emoñepyrũ tembiapo { -fxaccount-brand-n
 onboarding-device-migration-subtitle2 = Eñepyrũ tembiapo ne mba’etépe eru hag̃ua nde rechaukaha, ñe’ẽñemi ha tembiasakue ne mba’e’oka pyahúpe.
 onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Embojuaju { -brand-short-name } rehe
+amo-picker-install-complete-label = Oñemohendapyréva
+amo-picker-collection-link = Ejepovyvyve moĩmbaháre
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

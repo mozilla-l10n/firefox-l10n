@@ -421,3 +421,6 @@ newtab-topic-label-home = Óga ha yvotyty
 newtab-topic-selection-save-button = Ñongatu
 newtab-topic-selection-cancel-button = Heja
 newtab-topic-selection-button-maybe-later = Ikatu ag̃amieve
+newtab-topic-selection-privacy-link = Ehecha mba’éichapa romo’ã ha romboguata ne mba’ekuaarã
+newtab-topic-selection-button-update-interests = Embohekopyahu eipotáva
+newtab-topic-selection-button-pick-interests = Eiporavo eipotáva
