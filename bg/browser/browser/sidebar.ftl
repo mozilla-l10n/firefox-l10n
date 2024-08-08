@@ -34,3 +34,5 @@ sidebar-menu-history-label =
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-history-header =
+    .heading = История
