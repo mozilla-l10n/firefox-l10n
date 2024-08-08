@@ -9,3 +9,5 @@ third-party-button-open =
     .title = Otvori adresu datoteke …
 third-party-button-expand =
     .title = Prikaži detaljne informacije
+third-party-button-collapse =
+    .title = Sklopi detaljne informacije
