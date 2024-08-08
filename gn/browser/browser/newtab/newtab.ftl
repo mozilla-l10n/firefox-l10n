@@ -388,3 +388,26 @@ newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Marandu ára rehegua ndaipóri ko’ag̃aite.
+
+## Topic Labels
+
+newtab-topic-label-business = Ñemuha
+newtab-topic-label-career = Mba’apoha
+newtab-topic-label-education = Tekombo’e
+newtab-topic-label-arts = Mbovy’aha
+newtab-topic-label-food = Tembi’u
+newtab-topic-label-health = Tesãi
+newtab-topic-label-hobbies = Ñembosarái
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Viru
+newtab-topic-label-society-parenting = Tuvakuéra
+newtab-topic-label-government = Porureko
+newtab-topic-label-education-science = Tembikuaaty
+newtab-topic-label-sports = Tetemongu’e
+newtab-topic-label-tech = Tembiporupyahu
+newtab-topic-label-travel = jehomombyry
+
+## Topic Selection Modal
+
