@@ -471,6 +471,10 @@ onboarding-device-migration-subtitle = Přihlaste se ke svému { -fxaccount-bran
 onboarding-device-migration-subtitle2 = Přihlaste se ke svému účtu a přeneste své záložky, hesla a historii na vaše nové zařízení.
 onboarding-device-migration-primary-button-label = Přihlásit se
 
+## Add-ons Picker screen
+
+amo-picker-install-complete-label = Nainstalováno
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
