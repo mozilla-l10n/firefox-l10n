@@ -1317,9 +1317,9 @@ privacy-segmentation-radio-on =
 
 website-advertising-header = Postavke oglašavanja web stranice
 website-advertising-private-attribution =
-    .label = Dopustite web- stranicama izvođenje mjerenja oglasa koje čuva privatnost
+    .label = Dozvoli web stranicama izvođenje mjerenja oglasa za očuvanje privatnosti
     .accesskey = a
-website-advertising-private-attribution-description = To pomaže web stranicama da razumiju izvedbu njihovih oglasa bez prikupljanja podataka o vama.
+website-advertising-private-attribution-description = Ovo pomaže web stranicama da razumiju izvedbu njihovih oglasa bez prikupljanja podataka o tebi.
 
 ## Privacy Section - Security
 ##
@@ -1352,7 +1352,7 @@ certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = S
 certs-thirdparty-toggle =
-    .label = Dopustite { -brand-short-name }u da automatski vjeruje korijenskim certifikatima treće strane koje instalirate
+    .label = Dozvoli { -brand-short-name }u da automatski vjeruje korijenskim certifikatima treće strane koje si instalirao/la
     .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Otvori postavke
