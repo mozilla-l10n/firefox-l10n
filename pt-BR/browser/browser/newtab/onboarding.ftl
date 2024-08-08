@@ -337,6 +337,13 @@ onboarding-device-migration-subtitle = Entre na sua { -fxaccount-brand-name(capi
 onboarding-device-migration-subtitle2 = Entre na sua conta para ter seus favoritos, senhas e histórico em seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Entrar
 
+## Add-ons Picker screen
+
+amo-picker-title = Personalize seu { -brand-short-name }
+amo-picker-install-button-label = Adicionar ao { -brand-short-name }
+amo-picker-install-complete-label = Instalado
+amo-picker-collection-link = Explorar mais extensões
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
