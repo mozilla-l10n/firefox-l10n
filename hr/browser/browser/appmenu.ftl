@@ -274,7 +274,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Prijavi se na tvoj račun
 appmenuitem-monitor-title = { -monitor-brand-short-name }
-appmenuitem-monitor-description = Dobij upozorenja o povredi podataka
+appmenuitem-monitor-description = Primaj upozorenja o povredi podataka
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
