@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Actividad reciente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
 newtab-section-header-stories = Historias que provocan reflexión
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Las selecciones de hoy para ti
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -391,6 +393,7 @@ newtab-weather-error-not-available = Los datos meteorológicos no están disponi
 newtab-topic-label-business = Negocios
 newtab-topic-label-career = Empleo
 newtab-topic-label-education = Educación
+newtab-topic-label-arts = Entretenimiento
 newtab-topic-label-food = Comida
 newtab-topic-label-health = Salud
 newtab-topic-label-hobbies = Juegos
@@ -408,3 +411,15 @@ newtab-topic-label-society = Trucos para la vida
 newtab-topic-label-sports = Deportes
 newtab-topic-label-tech = Tecnología
 newtab-topic-label-travel = Viajes
+newtab-topic-label-home = Hogar y jardín
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Seleccione temas para ajustar tu feed
+newtab-topic-selection-save-button = Guardar
+newtab-topic-selection-cancel-button = Cancelar
+newtab-topic-selection-button-maybe-later = Quizá más tarde
+newtab-topic-selection-button-update-interests = Actualiza tus intereses
+newtab-topic-selection-button-pick-interests = Elige tus intereses

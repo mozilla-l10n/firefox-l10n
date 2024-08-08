@@ -337,6 +337,10 @@ onboarding-device-migration-subtitle = Conéctate a tu { -fxaccount-brand-name(c
 onboarding-device-migration-subtitle2 = Conéctate a tu cuenta para llevar tus marcadores, contraseñas e historial a tu nuevo dispositivo.
 onboarding-device-migration-primary-button-label = Conectarse
 
+## Add-ons Picker screen
+
+amo-picker-title = Personaliza tu { -brand-short-name }
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

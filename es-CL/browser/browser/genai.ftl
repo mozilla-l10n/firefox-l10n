@@ -46,3 +46,13 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Preguntar al chatbot de IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Preguntar a { $provider }
+genai-input-ask-generic =
+    .placeholder = Preguntar al chatbot de IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Preguntar a { $provider }…
