@@ -50,9 +50,21 @@ experimental-features-ime-search-description = IME (Trình chỉnh sửa phươn
 experimental-features-auto-pip =
     .label = Hình trong hình: tự động mở khi chuyển sang thẻ khác
 experimental-features-auto-pip-description = Tự động bật hình trong hình trên video đang được phát khi chuyển sang thẻ khác.
+genai-settings-chat-title =
+    .label = Chatbot AI
+# Updated sidebar settings
+sidebar-title =
+    .label = Thanh lề
+sidebar-description = Dễ dàng truy cập lịch sử thẻ từ các thiết bị khác của bạn, tiện ích mở rộng sử dụng thanh lề và hơn thế nữa khi bạn duyệt. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+vertical-tabs-title =
+    .label = Thẻ dọc (Vertical tabs)
+vertical-tabs-description = Di chuyển các thẻ của bạn từ trên cùng trình duyệt sang thanh lề. Yêu cầu bạn sử dụng thanh lề. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
 experimental-features-group-browsing =
     .label = Duyệt
 experimental-features-group-developer-tools =
     .label = Công cụ phát triển
 experimental-features-group-webpage-display =
     .label = Hiển thị trang web
+experimental-features-group-customize-browsing =
+    .label = Tùy chỉnh trình duyệt của bạn
+experimental-features-group-customize-browsing-description = Nếu bạn thử những tính năng này, <a data-l10n-name="connect">hãy chia sẻ suy nghĩ của bạn trên Connect</a>
