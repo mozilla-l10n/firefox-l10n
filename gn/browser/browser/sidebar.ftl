@@ -51,6 +51,12 @@ sidebar-visibility-always-show =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Eñangareko jepysokuére
+sidebar-context-menu-remove-extension =
+    .label = Emboguete jepysokue
+sidebar-context-menu-report-extension =
+    .label = Marandu’i pukukue
 
 ## Labels for sidebar menu items.
 
@@ -62,9 +68,13 @@ sidebar-menu-synced-tabs-label =
     .label = Tendaykekuéra ambue mba’e’okagua
 sidebar-menu-bookmarks-label =
     .label = Techaukaha
+sidebar-menu-customize-label =
+    .label = Embohéra ta’ãngarupa ykegua
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Embohéra ta’ãngarupa ykegua
 sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
