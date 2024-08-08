@@ -416,7 +416,7 @@ recommended-theme-1 = Чувствате се креативни? <a data-l10n-n
 
 ## Page headings
 
-extension-heading = Управление на добавки
+extension-heading = Управлявайте вашите разширения
 theme-heading = Управление на теми
 plugin-heading = Управление на приставки
 dictionary-heading = Управление на речници

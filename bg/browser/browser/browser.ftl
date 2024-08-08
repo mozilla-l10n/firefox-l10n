@@ -265,7 +265,7 @@ quickactions-cmd-clearhistory = изчистване на историята
 quickactions-downloads2 = Преглед на изтеглените файлове
 quickactions-cmd-downloads = изтегляния
 # Opens about:addons page in the extensions section
-quickactions-extensions = Управление на добавки
+quickactions-extensions = Управление на разширения
 quickactions-cmd-extensions = разширения
 # Opens the devtools web inspector
 quickactions-inspector2 = Развойни инструменти
