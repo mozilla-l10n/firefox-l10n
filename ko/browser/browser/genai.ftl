@@ -30,10 +30,10 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = 요약
-    .value = 정확하고 간결한 언어를 사용하여 선택 항목을 요약해 주세요. 요약에 헤더와 글머리 기호 목록을 사용하여 스캔할 수 있도록 만드세요. 의미와 사실적 정확성을 유지하세요.
+    .value = 정확하고 간결한 언어를 사용하여 선택 항목을 요약해 주세요. 요약에 헤더와 글머리 기호 목록을 사용하여 스캔할 수 있도록 하세요. 의미와 사실적 정확성을 유지하세요.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
-    .label = 언어 단순화
+    .label = 간소화
     .value = 짧은 문장과 간단한 단어를 사용하여 선택 항목을 다시 작성해 주세요. 의미와 사실적 정확성을 유지하세요.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
@@ -41,18 +41,18 @@ genai-prompts-quiz =
     .value = 이 선택에 대해서 저에게 퀴즈를 내주세요. 객관식, 참 또는 거짓, 단답형 등 다양한 유형의 질문을 해주세요. 다음 질문으로 넘어가기 전에 제 답변을 기다리세요.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = 이것을 설명하세요
+    .label = 설명
     .value = 간단한 단어를 사용하여 이 선택 항목의 주요 개념을 설명하세요. 또한 예제를 사용하세요.
 
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = AI 챗봇에게 물어보세요
+    .label = AI 챗봇에게 물어보기
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
-    .label = { $provider }에게 물어보세요
+    .label = { $provider }에게 물어보기
 genai-input-ask-generic =
-    .placeholder = AI 챗봇에게 물어보세요…
+    .placeholder = AI 챗봇에게 물어보기…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
-    .placeholder = { $provider }에게 물어보세요...
+    .placeholder = { $provider }에게 물어보기...
