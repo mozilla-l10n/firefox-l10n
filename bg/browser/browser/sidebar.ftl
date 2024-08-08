@@ -31,6 +31,8 @@ sidebar-history-delete =
 
 sidebar-menu-history-label =
     .label = История
+sidebar-menu-bookmarks-label =
+    .label = Отметки
 
 ## Headings for sidebar menu panels.
 
