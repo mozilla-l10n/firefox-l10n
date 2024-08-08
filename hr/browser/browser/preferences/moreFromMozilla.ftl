@@ -17,14 +17,14 @@ more-from-moz-qr-code-box-firefox-mobile-title = Preuzmi pomoću tvog mobilnog u
 more-from-moz-qr-code-box-firefox-mobile-button = Umjesto toga pošaljite e-poštu na svoj telefon
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR kod za preuzimanje { -brand-product-name } Mobile
-more-from-moz-button-mozilla-vpn-2 = Preuzmi VPN
+more-from-moz-button-mozilla-vpn-2 = Nabavi VPN
 more-from-moz-learn-more-link = Saznaj više
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Zaštiti sandučić dolazne pošte i svoj identitet besplatnim maskiranjem e-mail adrese.
-more-from-moz-firefox-relay-button = Preuzmi { -relay-brand-short-name }
+more-from-moz-firefox-relay-button = Nabavi { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
