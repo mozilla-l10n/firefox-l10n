@@ -58,3 +58,5 @@ experimental-features-group-developer-tools =
     .label = Ferramentas de desenvolvimento
 experimental-features-group-webpage-display =
     .label = Exibição de página web
+experimental-features-group-customize-browsing =
+    .label = Personalize sua navegação
