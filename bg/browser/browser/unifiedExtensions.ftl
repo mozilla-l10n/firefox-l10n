@@ -29,6 +29,12 @@ unified-extensions-context-menu-remove-extension =
     .label = Премахване на разширението
 unified-extensions-context-menu-report-extension =
     .label = Докладване на разширението
+unified-extensions-context-menu-move-widget-up =
+    .label = Преместване нагоре
+unified-extensions-context-menu-move-widget-down =
+    .label = Преместване надолу
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-learn-more = Научете повече
+    .aria-label = Научете повече: Някои разширения не са позволени
