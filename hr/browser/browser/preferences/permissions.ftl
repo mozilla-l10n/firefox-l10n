@@ -141,7 +141,7 @@ permissions-site-notification-disable-desc = Ovo će spriječiti traženje dopu�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Postavke – Dozvole pristupanja mjestu
+    .title = Postavke – Dozvole za lokaciju
     .style = { permissions-window2.style }
 permissions-site-location-desc = Sljedeće web stranice su zatražile pristup tvom mjestu. Možeš navesti web stranice kojima dozvoljavaš pristup tvom mjestu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mjestu.
 permissions-site-location-disable-label =
@@ -151,7 +151,7 @@ permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Postavke – Dozvole virtualne stvarnosti
+    .title = Postavke – Dozvole za virtualnu stvarnost
     .style = { permissions-window2.style }
 permissions-site-xr-desc = Sljedeće web stranice su zatražile pristup tvojim uređajima za virtualnu stvarnost. Možeš navesti web stranice kojima dozvoljavaš pristup tvojim uređajima za virtualnu stvarnost. Možeš i blokirati nove zahtjeve za pristup tvojim uređajima za virtualnu stvarnost.
 permissions-site-xr-disable-label =
@@ -161,7 +161,7 @@ permissions-site-xr-disable-desc = Ovo će spriječiti bilo koju web stranicu ko
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Postavke – Dozvole pristupa kameri
+    .title = Postavke – Dozvole za kameru
     .style = { permissions-window2.style }
 permissions-site-camera-desc = Sljedeće web stranice su zatražile pristup tvojoj kameri. Možeš navesti web stranice kojima dozvoljavaš pristup tvojoj kameri. Također možeš blokirati nove zahtjeve koji traže pristup tvojoj kameri.
 permissions-site-camera-disable-label =
@@ -171,7 +171,7 @@ permissions-site-camera-disable-desc = Ovo će spriječiti traženje pristupa tv
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Postavke – Dozvole pristupa mikrofonu
+    .title = Postavke – Dozvole za mikrofon
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = Sljedeće stranice su zatražile pristup tvom mikrofonu. Možeš navesti koje web stranice imaju pristup tvom mikrofonu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mikrofonu.
 permissions-site-microphone-disable-label =
@@ -183,7 +183,7 @@ permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristup
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Postavke – Dozvole za zvučnike
+    .title = Postavke – Dozvole za zvučnik
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sljedeće web-stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web-stranice koje smiju odabrati izlazni audio uređaj.
 permissions-exceptions-doh-window =
