@@ -1230,7 +1230,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Dopuštenja
+permissions-header = Dozvole
 permissions-location = Mjesto
 permissions-location-settings =
     .label = Postavke …
