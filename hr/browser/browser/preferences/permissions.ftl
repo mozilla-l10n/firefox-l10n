@@ -64,7 +64,7 @@ permissions-capabilities-listitem-allow-session =
 permissions-capabilities-listitem-off =
     .value = Isključeno
 permissions-capabilities-listitem-off-temporarily =
-    .value = Isključeno privremeno
+    .value = Privremeno isključeno
 
 ## Invalid Hostname Dialog
 
