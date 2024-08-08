@@ -415,6 +415,7 @@ newtab-topic-label-society = Αυτοβελτίωση
 newtab-topic-label-sports = Αθλήματα
 newtab-topic-label-tech = Τεχνολογία
 newtab-topic-label-travel = Ταξίδια
+newtab-topic-label-home = Σπίτι και κήπος
 
 ## Topic Selection Modal
 
