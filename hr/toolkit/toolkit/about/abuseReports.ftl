@@ -64,7 +64,7 @@ abuse-report-damage-reason-v2 = Oštetilo je moje računalo ili ugrozilo moje po
 abuse-report-damage-example = Primjer: Ubrizgani zlonamjerni program ili ukradeni podaci
 abuse-report-spam-reason-v2 = Sadrži neželjeni sadržaj ili ubacuje nepoželjne oglase
 abuse-report-spam-example = Primjer: Umeće reklame na web stranice
-abuse-report-settings-reason-v2 = Promijenilo je moju tražilicu, početnu stranicu ili novu karticu bez obavještavanja ili traženja dopuštenja
+abuse-report-settings-reason-v2 = Promijenilo je moju tražilicu, početnu stranicu ili novu karticu bez obavještavanja ili traženja dozvole
 abuse-report-settings-suggestions = Prije prijave dodatka, možete pokušati izmijeniti svoje postavke:
 abuse-report-settings-suggestions-search = Promijeni svoje standardne postavke za pretraživanje
 abuse-report-settings-suggestions-homepage = Izmijenite svoju početnu stranicu ili novu karticu
@@ -91,5 +91,5 @@ abuse-report-policy-suggestions =
     Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u
     odvojenom procesu. <a data-l10n-name="report-infringement-link">Koristite ova upute</a> za prijavu problema.
 abuse-report-unwanted-reason-v2 = Nisam to želio i ne znam kako to ukloniti
-abuse-report-unwanted-example = Primjer: Aplikacija instalirana bez mog dopuštenja
+abuse-report-unwanted-example = Primjer: Aplikacija instalirana bez moje dozvole
 abuse-report-other-reason = Nešto drugo

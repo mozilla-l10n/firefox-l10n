@@ -25,7 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Odustani
     .accesskey = O
-webext-perms-sideload-text = Jedan je drugi program na tvom računalu instalirao dodatak koji može utjecati na ponašanje internetskog preglednika. Provjeri zatražena dopuštenja i odluči, želiš li aktivirati ili deaktivirati dodatak.
+webext-perms-sideload-text = Jedan je drugi program na tvom računalu instalirao dodatak koji može utjecati na ponašanje internetskog preglednika. Provjeri zatražena dozvole i odluči, želiš li aktivirati ili deaktivirati dodatak.
 webext-perms-sideload-text-no-perms = Jedan je drugi program na tvom računalu instalirao dodatak koji može utjecati na ponašanje preglednika. Pritisni Aktiviraj ili Odustani (da bi dodatak ostao deaktiviran).
 webext-perms-sideload-enable =
     .label = Aktiviraj
@@ -35,7 +35,7 @@ webext-perms-sideload-cancel =
     .accesskey = O
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nova dopuštenja prije nego što se aktualizirana inačica instalira. Odabirom mogućnosti „Odustani” zadržat će se trenutačna inačica proširenja. Ovo proširenje imati će dopuštenje za:
+webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nove dozvole prije instaliranja aktualizirane verzije. Odabirom mogućnosti „Odustani” zadržat će se trenutačna verzija proširenja. Ovo proširenje imati će dozvole za:
 webext-perms-update-accept =
     .label = Aktualiziraj
     .accesskey = A
