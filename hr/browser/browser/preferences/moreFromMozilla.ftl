@@ -30,5 +30,5 @@ more-from-moz-firefox-relay-button = Preuzmi { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automatski povucite svoje izložene osobne podatke.
-more-from-moz-mozilla-monitor-global-description = Primajte upozorenja kada je došlo do povrede vaših podataka.
+more-from-moz-mozilla-monitor-global-description = Primaj obavijesti o neovlaštenom izlaganju tvojh podataka.
 more-from-moz-mozilla-monitor-button = Nabavi { -monitor-brand-short-name }
