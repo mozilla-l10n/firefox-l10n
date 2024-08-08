@@ -414,6 +414,7 @@ newtab-topic-label-society = Kuaarã tekovépe g̃uarã
 newtab-topic-label-sports = Tetemongu’e
 newtab-topic-label-tech = Tembiporupyahu
 newtab-topic-label-travel = jehomombyry
+newtab-topic-label-home = Óga ha yvotyty
 
 ## Topic Selection Modal
 
