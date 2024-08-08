@@ -5,6 +5,11 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    je biblioteka za prikupljanje podataka koja se koristi u { -vendor-short-name } projektima.
+    Ovo je sučelje dizajnirano za ručno korištenje programera i testera za
+    <a data-l10n-name="fog-link">ručno testiranje instrumentacije</a>.
 about-glean-upload-enabled-local = Prijenos podataka je aktiviran samo za slanje na lokalni server.
 # Variables:
 #   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
