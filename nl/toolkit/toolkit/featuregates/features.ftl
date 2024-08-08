@@ -52,9 +52,19 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Schakel Picture-in-Picture in voor actieve video’s bij het wisselen van tabbladen.
 genai-settings-chat-title =
     .label = AI-chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Zijbalk
+sidebar-description = Benader eenvoudig uw geschiedenis, tabbladen van andere apparaten, zijbalkextensies en meer terwijl u surft. <a data-l10n-name="connect">Feedback delen</a>
+vertical-tabs-title =
+    .label = Verticale tabbladen
+vertical-tabs-description = Verplaats uw tabbladen van de bovenkant van de browser naar de zijkant. Vereist dat u ook de zijbalk probeert. <a data-l10n-name="connect">Feedback delen</a>
 experimental-features-group-browsing =
     .label = Navigeren
 experimental-features-group-developer-tools =
     .label = Ontwikkelaarshulpmiddelen
 experimental-features-group-webpage-display =
     .label = Websiteweergave
+experimental-features-group-customize-browsing =
+    .label = Pas uw browser aan
+experimental-features-group-customize-browsing-description = Als u deze functies probeert, <a data-l10n-name="connect">deel dan uw mening op Connect</a>
