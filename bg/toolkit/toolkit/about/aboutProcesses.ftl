@@ -15,6 +15,7 @@ about-processes-shutdown-tab =
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-extension-process = Разширения ({ $pid })
 about-processes-plugin-process = Приставки ({ $pid })
 about-processes-gmp-plugin-process = Приставки за медия на Gecko ({ $pid })
 
@@ -32,6 +33,7 @@ about-processes-gmp-plugin-process = Приставки за медия на Gec
 about-processes-tab-name = Раздел: { $name }
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:

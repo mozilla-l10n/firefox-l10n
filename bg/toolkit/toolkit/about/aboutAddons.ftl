@@ -160,6 +160,7 @@ extensions-warning-update-security2 =
     .message = Проверката за безопасност на обновяването на добавки е изключена. Възможно е системата да се компрометира от добавки.
 extensions-warning-update-security-button = Включване
     .title = Включване на проверка за безопасност на обновяването на добавки
+extensions-warning-imported-addons-button = Инсталиране на разширения
 
 ## Strings connected to add-on updates
 
@@ -180,8 +181,8 @@ addon-updates-update-addons-automatically = Автоматично обновя�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Нулиране на всички добавки, за да бъдат автоматично обновявани
-    .accesskey = Н
+addon-updates-reset-updates-to-automatic = Автоматично обновяване на всички добави
+    .accesskey = А
 addon-updates-reset-updates-to-manual = Нулиране на всички добавки, за да бъдат ръчно обновявани
     .accesskey = у
 
