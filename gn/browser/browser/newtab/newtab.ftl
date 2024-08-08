@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Tembiapo ramovegua
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
 newtab-section-header-stories = Tembiasakue nemoakãngetáva
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Poravopyre ko arapegua ndéve g̃uarã
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -405,9 +407,16 @@ newtab-topic-label-finance = Viru
 newtab-topic-label-society-parenting = Tuvakuéra
 newtab-topic-label-government = Porureko
 newtab-topic-label-education-science = Tembikuaaty
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Kuaarã tekovépe g̃uarã
 newtab-topic-label-sports = Tetemongu’e
 newtab-topic-label-tech = Tembiporupyahu
 newtab-topic-label-travel = jehomombyry
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Ñongatu
+newtab-topic-selection-cancel-button = Heja
+newtab-topic-selection-button-maybe-later = Ikatu ag̃amieve
