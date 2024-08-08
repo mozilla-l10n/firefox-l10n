@@ -415,6 +415,7 @@ newtab-topic-label-society = Lifehacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technology
 newtab-topic-label-travel = Reizgjen
+newtab-topic-label-home = Hûs en tún
 
 ## Topic Selection Modal
 

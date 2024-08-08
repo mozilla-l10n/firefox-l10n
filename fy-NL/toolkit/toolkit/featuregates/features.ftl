@@ -52,9 +52,19 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Skeakelje Picture-in-Picture yn foar aktive fideo’s by it wikseljen fan ljepblêden.
 genai-settings-chat-title =
     .label = AI-chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Sidebalke
+sidebar-description = Benaderje ienfâldich jo skiednis, ljepblêden fan oare apparaten, sidebalke-útwreidingen en mear wylst jo sneupe. <a data-l10n-name="connect">Kommentaar diele</a>
+vertical-tabs-title =
+    .label = Fertikale ljepblêden
+vertical-tabs-description = Ferpleats jo ljepblêden fan de boppekant fan de browser nei de sydkant. Fereasket dat jo ek de sydbalke probearje. <a data-l10n-name="connect">Kommentaar diele</a>
 experimental-features-group-browsing =
     .label = Navigearje
 experimental-features-group-developer-tools =
     .label = Untwikkelersark
 experimental-features-group-webpage-display =
     .label = Websitewerjefte
+experimental-features-group-customize-browsing =
+    .label = Pas jo browser oan
+experimental-features-group-customize-browsing-description = As jo dizze funksjes probearje, <a data-l10n-name="connect">diel dan jo miening op Connect</a>
