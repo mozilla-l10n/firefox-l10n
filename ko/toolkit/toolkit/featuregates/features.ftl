@@ -60,7 +60,7 @@ vertical-tabs-title =
     .label = 세로 탭
 vertical-tabs-description = 탭을 브라우저 상단에서 옆으로 이동하세요. 사이드바도 사용해야 합니다. <a data-l10n-name="connect">의견 공유</a>
 experimental-features-group-browsing =
-    .label = 브라우징
+    .label = 탐색
 experimental-features-group-developer-tools =
     .label = 개발자 도구
 experimental-features-group-webpage-display =

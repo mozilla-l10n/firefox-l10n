@@ -18,7 +18,7 @@ genai-settings-chat-huggingchat-links = HuggingChat을 선택하면, <a data-l10
 genai-settings-chat-lechat-links = Le Chat Mistral을 선택하면, Mistral AI <a data-l10n-name="link1">이용 약관</a> 및 <a data-l10n-name="link2">개인정보처리방침</a>에 동의하게 됩니다.
 genai-settings-chat-localhost-links = { -vendor-short-name }의 혁신 그룹에서 <a data-l10n-name="link1">llamafile</a>과 같은 개인 로컬 챗봇을 가져오세요.
 genai-settings-chat-shortcuts =
-    .description = 텍스트를 선택할 때 프롬프트에 대한 바로가기를 표시합니다. { -brand-short-name }는 텍스트, 페이지 제목 및 프롬프트를 챗봇에 보냅니다.
+    .description = 텍스트를 선택하면 프롬프트에 대한 바로가기를 표시합니다. { -brand-short-name }는 텍스트, 페이지 제목을 챗봇에 보내고 질문합니다.
     .label = 텍스트 선택 시 프롬프트 표시
 
 ## Chatbot prompts
