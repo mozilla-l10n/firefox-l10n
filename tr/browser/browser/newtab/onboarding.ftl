@@ -343,7 +343,7 @@ onboarding-device-migration-primary-button-label = Giriş yap
 amo-picker-title = { -brand-short-name } tarayıcınızı özelleştirin
 amo-picker-install-button-label = { -brand-short-name } tarayıcısına ekle
 amo-picker-install-complete-label = Yüklendi
-amo-picker-collection-link = Daha fazla eklenti keşfet
+amo-picker-collection-link = Daha fazla eklenti keşfedin
 
 ## The following screens have been updated to use security and privacy focused strings:
 

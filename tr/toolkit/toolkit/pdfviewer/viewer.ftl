@@ -402,6 +402,8 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Alt metni düzenle (resim açıkla
 pdfjs-editor-new-alt-text-dialog-add-label = Alt metin ekle (resim açıklaması)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Açıklamanızı buraya yazın…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Görme engelli kişilere gösterilecek veya resmin yüklenemediği durumlarda gösterilecek kısa açıklama.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Bu alt metin otomatik olarak oluşturuldu.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Daha fazla bilgi alın
@@ -429,6 +431,7 @@ pdfjs-image-alt-text-settings-button-label = Resim alt metni ayarları
 pdfjs-editor-alt-text-settings-dialog-label = Resim alt metni ayarları
 pdfjs-editor-alt-text-settings-automatic-title = Otomatik alt metin
 pdfjs-editor-alt-text-settings-create-model-button-label = Otomatik olarak alt metin oluştur
+pdfjs-editor-alt-text-settings-create-model-description = Görme engelli kişilere gösterilecek veya resmin yüklenemediği durumlarda gösterilecek açıklamalar önerir.
 pdfjs-editor-alt-text-settings-ai-model-description = Verilerinizin gizli kalması için cihazınızda yerel olarak çalışır. Otomatik alt metin için gereklidir.
 pdfjs-editor-alt-text-settings-delete-model-button = Sil
 pdfjs-editor-alt-text-settings-download-model-button = İndir

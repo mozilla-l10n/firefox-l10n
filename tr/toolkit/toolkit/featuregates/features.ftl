@@ -31,12 +31,12 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Başlangıçta varsayılan olarak yüklenen about:home belgesi için önbellek. Bu önbelleğin amacı, başlangıç performansını artırmaktır.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Geliştirici Araçları: Service Worker hata ayıklama
+    .label = Geliştirici araçları: Service Worker hata ayıklama
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Hata ayıklama panelinde Service Worker’lar için deneysel destek sağlar. Bu özellik, Geliştirici Araçlarını yavaşlatabilir ve bellek tüketimini artırabilir.
+experimental-features-devtools-serviceworker-debugger-support-description = Hata ayıklama panelinde Service Worker’lar için deneysel destek sağlar. Bu özellik geliştirici araçlarını yavaşlatabilir ve bellek tüketimini artırabilir.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = WebRTC Global Ses Kapatma Düğmeleri
+    .label = WebRTC global ses kapatma düğmeleri
 experimental-features-webrtc-global-mute-toggles-description = WebRTC genel paylaşım göstergesine kullanıcıların mikrofonlarını ve kameralarını her yerde sessize almalarını sağlayan düğmeleri ekler.
 # JS JIT Warp project
 experimental-features-js-warp =
@@ -44,7 +44,7 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = JavaScript performansını ve bellek kullanımını iyileştirme projesi Warp’u etkinleştirir.
 # Search during IME
 experimental-features-ime-search =
-    .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster
+    .label = Adres çubuğu: IME oluşturma sırasında sonuçları göster
 experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyicisi), standart bir klavye kullanarak Doğu Asya veya Hintçe yazı dillerinde kullanılanlar gibi karmaşık sembolleri girmenize olanak tanıyan bir araçtır. Bu deneyi etkinleştirmek, metin girmek için IME’yi kullanırken adres çubuğu panelini açık tutacak ve arama sonuçlarını ve önerileri gösterecektir. IME’nin adres çubuğu sonuçlarını örten bir panel görüntüleyebileceğini, bu nedenle bu tercihin yalnızca bu tür bir paneli kullanmayan IME’ler için önerildiğini unutmayın.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
@@ -52,9 +52,16 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştir.
 genai-settings-chat-title =
     .label = YZ sohbet botu
+# Updated sidebar settings
+sidebar-title =
+    .label = Kenar çubuğu
+vertical-tabs-title =
+    .label = Dikey sekmeler
 experimental-features-group-browsing =
     .label = Gezinti
 experimental-features-group-developer-tools =
     .label = Geliştirici araçları
 experimental-features-group-webpage-display =
     .label = Web sayfası görünümü
+experimental-features-group-customize-browsing =
+    .label = Gezintinizi özelleştirin
