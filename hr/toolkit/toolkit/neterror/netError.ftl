@@ -72,7 +72,7 @@ neterror-dns-not-found-trr-unknown-problem = Neočekivani problem.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg pouzdanog DNS pružatelja. Evo zašto:
 neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ne može zaštititi vaš zahtjev za adresom ove web lokacije putem našeg sigurnog DNS pružatelja. Evo zašto:
-neterror-dns-not-found-native-fallback-heuristic = DNS preko HTTPS je onemogućen na vašoj mreži.
+neterror-dns-not-found-native-fallback-heuristic = DNS preko HTTPS-a je deaktiviran na tvojoj mreži.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 
 ##
