@@ -65,6 +65,8 @@ inactive-css-position-property-on-unpositioned-box-fix = Pokušaj postaviti svoj
 inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Pokušaj dodati <strong>border-collapse:separate</strong>. { learn-more }
+inactive-css-border-image-fix = U nadređenom elementu tablice ukloni svojstvo ili promijeni vrijednost <strong>border-collapse</strong> na vrijednost koja nije <strong>collapse</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
