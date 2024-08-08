@@ -58,7 +58,7 @@ translations-panel-settings-never-translate-unknown-language =
     .label = Nikada ne prevodi ovaj jezik
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Nikada ne prevodi ovu stranicu
+    .label = Nikada ne prevodi ovu web stranicu
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -149,7 +149,7 @@ translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
 translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
-translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
+translations-settings-never-translate-sites-description = Prijevod neće biti ponuđen za sljedeće web stranice
 translations-settings-languages-column =
     .label = Jezici
 translations-settings-remove-language-button =
@@ -161,10 +161,10 @@ translations-settings-remove-all-languages-button =
 translations-settings-sites-column =
     .label = Web stranice
 translations-settings-remove-site-button =
-    .label = Ukloni stranicu
+    .label = Ukloni web stranicu
     .accesskey = s
 translations-settings-remove-all-sites-button =
-    .label = Ukloni sve stranice
+    .label = Ukloni sve web stranice
     .accesskey = k
 translations-settings-close-dialog =
     .buttonlabelaccept = Zatvori
