@@ -412,3 +412,9 @@ newtab-topic-label-society = Лайфхактар
 newtab-topic-label-sports = Спорт
 newtab-topic-label-tech = Техника
 newtab-topic-label-travel = Саяхат
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Сақтау
+newtab-topic-selection-cancel-button = Бас тарту
+newtab-topic-selection-button-maybe-later = Мүмкін, кейінірек
