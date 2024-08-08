@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Đăng nhập vào { -fxaccount-brand-nam
 onboarding-device-migration-subtitle2 = Đăng nhập vào tài khoản của bạn để mang theo dấu trang, mật khẩu và lịch sử trên thiết bị mới của bạn.
 onboarding-device-migration-primary-button-label = Đăng nhập
 
+## Add-ons Picker screen
+
+amo-picker-title = Tuỳ biến { -brand-short-name } của bạn
+amo-picker-subtitle = Tiện ích mở rộng giống như các ứng dụng dành cho trình duyệt của bạn và chúng cho phép bạn bảo vệ mật khẩu, tải video xuống, tìm ưu đãi, chặn quảng cáo gây phiền nhiễu, thay đổi giao diện trình duyệt của bạn và hơn thế nữa.
+amo-picker-install-button-label = Thêm vào { -brand-short-name }
+amo-picker-install-complete-label = Đã cài đặt
+amo-picker-collection-link = Khám phá thêm tiện ích mở rộng
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

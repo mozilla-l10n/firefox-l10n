@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Hoạt động gần đây
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Được đề xuất bởi { $provider }
 newtab-section-header-stories = Những câu chuyện kích động tư tưởng
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Lựa chọn hôm nay dành cho bạn
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -412,3 +414,19 @@ newtab-topic-label-society = Mẹo vặt cuộc sống
 newtab-topic-label-sports = Thể thao
 newtab-topic-label-tech = Công nghệ
 newtab-topic-label-travel = Du lịch
+newtab-topic-label-home = Nhà & vườn
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Chọn chủ đề để tinh chỉnh nguồn cấp dữ liệu của bạn
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Chọn hai hoặc nhiều chủ đề. Các người chuyên gia giám tuyển của chúng tôi sẽ ưu tiên những câu chuyện phù hợp với sở thích của bạn. Cập nhật bất cứ lúc nào.
+newtab-topic-selection-save-button = Lưu
+newtab-topic-selection-cancel-button = Hủy bỏ
+newtab-topic-selection-button-maybe-later = Có lẽ để sau
+newtab-topic-selection-privacy-link = Tìm hiểu cách chúng tôi bảo vệ và quản lý dữ liệu
+newtab-topic-selection-button-update-interests = Cập nhật sở thích của bạn
+newtab-topic-selection-button-pick-interests = Chọn sở thích của bạn
