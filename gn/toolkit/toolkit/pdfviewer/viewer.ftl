@@ -51,12 +51,6 @@ pdfjs-download-button-label = Mboguejy
 pdfjs-bookmark-button =
     .title = Kuatiarogue ag̃agua (Ehecha URL kuatiarogue ag̃agua)
 pdfjs-bookmark-button-label = Kuatiarogue Ag̃agua
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Embojuruja tembiporu’ípe
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Embojuruja tembiporu’ípe
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Embojuaju térã embosako’i ta’ãnga
 pdfjs-editor-highlight-button =
     .title = Mbosa’y
 pdfjs-editor-highlight-button-label = Mbosa’y
-pdfjs-highlight-floating-button =
-    .title = Mbosa’y
 pdfjs-highlight-floating-button1 =
     .title = Mbosa’y
     .aria-label = Mbosa’y
@@ -400,3 +392,18 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Techaukapa
 pdfjs-editor-highlight-show-all-button =
     .title = Techaukapa
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Ta’ãnga moñe’ẽrã mokõiha ñemboheko
+pdfjs-image-alt-text-settings-button-label = Ta’ãnga moñe’ẽrã mokõiha ñemboheko
+pdfjs-editor-alt-text-settings-delete-model-button = Mboguete
+pdfjs-editor-alt-text-settings-download-model-button = Mboguejy
+pdfjs-editor-alt-text-settings-downloading-model-button = Emboguejyhína…
+pdfjs-editor-alt-text-settings-editor-title = Moñe’ẽrã mokõiha mbosako’iha
+pdfjs-editor-alt-text-settings-close-button = Mboty
