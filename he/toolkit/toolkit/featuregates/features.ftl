@@ -36,9 +36,19 @@ experimental-features-auto-pip =
 experimental-features-auto-pip-description = הפעלת תמונה בתוך תמונה בסרטונים פעילים בעת מעבר ללשוניות אחרות.
 genai-settings-chat-title =
     .label = צ’אט בוט AI
+# Updated sidebar settings
+sidebar-title =
+    .label = סרגל צד
+sidebar-description = גישה קלה להיסטוריה שלך, ללשוניות ממכשירים אחרים, להרחבות סרגל צד ועוד תוך כדי גלישה. <a data-l10n-name="connect">מתן משוב</a>
+vertical-tabs-title =
+    .label = לשוניות אנוכיות
+vertical-tabs-description = העברת הלשוניות שלך מהחלק העליון של הדפדפן לצד. פעולה זו מחייבת אותך לנסות גם את סרגל הצד. <a data-l10n-name="connect">מתן משוב</a>
 experimental-features-group-browsing =
     .label = גלישה
 experimental-features-group-developer-tools =
     .label = כלי פיתוח
 experimental-features-group-webpage-display =
     .label = תצוגה של דפי אינטרנט
+experimental-features-group-customize-browsing =
+    .label = התאמה אישית של הגלישה שלך
+experimental-features-group-customize-browsing-description = אם תנסו את התכונות האלה, <a data-l10n-name="connect">שקלו לשתף את המחשבות שלכם ב־Connect</a>
