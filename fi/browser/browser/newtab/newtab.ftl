@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Viimeisin toiminta
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Suositukset lähteestä { $provider }
 newtab-section-header-stories = Ajatuksia herättäviä tarinoita
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Tämän päivän valinnat sinulle
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,3 +415,12 @@ newtab-topic-label-society = Niksit
 newtab-topic-label-sports = Urheilu
 newtab-topic-label-tech = Tekniikka
 newtab-topic-label-travel = Matkailu
+newtab-topic-label-home = Koti ja puutarha
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Tallenna
+newtab-topic-selection-cancel-button = Peruuta
+newtab-topic-selection-button-maybe-later = Ehkä myöhemmin
+newtab-topic-selection-button-update-interests = Päivitä kiinnostuksen kohteesi
+newtab-topic-selection-button-pick-interests = Valitse kiinnostuksen kohteesi

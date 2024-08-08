@@ -338,6 +338,14 @@ onboarding-device-migration-subtitle = Kirjaudu sisään { -fxaccount-brand-name
 onboarding-device-migration-subtitle2 = Kirjaudu tilillesi tuodaksesi kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-primary-button-label = Kirjaudu sisään
 
+## Add-ons Picker screen
+
+amo-picker-title = Muokkaa { -brand-short-name }-selainta
+amo-picker-subtitle = Laajennukset ovat kuin selaimesi sovelluksia, ja niiden avulla voit suojata salasanoja, ladata videoita, löytää tarjouksia, estää ärsyttäviä mainoksia, muuttaa selaimen ulkoasua ja paljon muuta.
+amo-picker-install-button-label = Lisää { -brand-short-name }iin
+amo-picker-install-complete-label = Asennettu
+amo-picker-collection-link = Tutustu muihin lisäosiin
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

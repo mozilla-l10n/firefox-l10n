@@ -412,10 +412,18 @@ pdfjs-editor-new-alt-text-not-now-button = Ei nyt
 pdfjs-editor-new-alt-text-error-title = Vaihtoehtotekstiä ei voitu luoda automaattisesti
 pdfjs-editor-new-alt-text-error-description = Kirjoita oma vaihtoehtoinen teksti tai yritä myöhemmin uudelleen.
 pdfjs-editor-new-alt-text-error-close-button = Sulje
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Ladataan vaihtoehtoisen tekstin tekoälymallia ({ $downloadedSize } / { $totalSize } Mt)
+    .aria-valuetext = Ladataan vaihtoehtoisen tekstin tekoälymallia ({ $downloadedSize } / { $totalSize } Mt)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Vaihtoehtoinen teksti lisätty
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
 pdfjs-editor-new-alt-text-missing-button-label = Vaihtoehtoinen teksti puuttuu
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Tarkista vaihtoehtoinen teksti
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
 #   $generatedAltText (String) - the generated alt-text.
@@ -429,6 +437,7 @@ pdfjs-image-alt-text-settings-button-label = Kuvan vaihtoehtoisen tekstin asetuk
 pdfjs-editor-alt-text-settings-dialog-label = Kuvan vaihtoehtoisen tekstin asetukset
 pdfjs-editor-alt-text-settings-automatic-title = Automaattinen vaihtoehtoinen teksti
 pdfjs-editor-alt-text-settings-create-model-button-label = Luo vaihtoehtoinen teksti automaattisesti
+pdfjs-editor-alt-text-settings-create-model-description = Ehdottaa kuvauksia, jotka auttavat ihmisiä, jotka eivät näe kuvaa tai kun kuva ei lataudu.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Vaihtoehtoisen tekstin tekoälymalli ({ $totalSize } Mt)
@@ -437,4 +446,6 @@ pdfjs-editor-alt-text-settings-delete-model-button = Poista
 pdfjs-editor-alt-text-settings-download-model-button = Lataa
 pdfjs-editor-alt-text-settings-downloading-model-button = Ladataan…
 pdfjs-editor-alt-text-settings-editor-title = Vaihtoehtoisen tekstin muokkain
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Näytä vaihtoehtoisen tekstin muokkain heti, kun lisäät kuvan
+pdfjs-editor-alt-text-settings-show-dialog-description = Auttaa varmistamaan, että kaikissa kuvissasi on vaihtoehtoinen teksti.
 pdfjs-editor-alt-text-settings-close-button = Sulje
