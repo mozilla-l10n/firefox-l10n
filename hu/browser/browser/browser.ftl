@@ -1038,3 +1038,23 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = „{ $popupURI }” megjelenítése
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = A Windows fájlválasztó párbeszédablaka nem nyitható meg. A fájl ide lesz mentve: { $path }.
+file-picker-failed-save-nowhere = A Windows fájlválasztó párbeszédablaka nem nyitható meg. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
+file-picker-crashed-open = A Windows fájlválasztó párbeszédablaka összeomlott. Nem választható ki fájl vagy mappa.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = A Windows fájlválasztó párbeszédablaka összeomlott. A fájl ide lesz mentve: { $path }.
+file-picker-crashed-save-nowhere = A Windows fájlválasztó párbeszédablaka összeomlott. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Megjelenítés mappában
+    .accessKey = m

@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Legutóbbi tevékenység
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = A(z) { $provider } ajánlásával
 newtab-section-header-stories = Elgondolkodtató történetek
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Mai kedvencek
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -239,6 +241,7 @@ newtab-pocket-saved = Mentve
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Több hasonló
+newtab-toast-thumbs-up-or-down = Köszönjük. Visszajelzése segít nekünk a hírforrás fejlesztésében.
 newtab-toast-dismiss-button =
     .title = Eltüntetés
     .aria-label = Eltüntetés
@@ -385,3 +388,9 @@ newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Az időjárásadatok most nem érhetők el
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

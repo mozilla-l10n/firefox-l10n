@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = A { -brand-short-name } legyen az elsődleges böngészője?
 default-browser-prompt-message-pin = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és rögzítse a tálcára.
+default-browser-prompt-message-pin-msix = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és rögzítse a tálcára és a start menübe.
 default-browser-prompt-message-pin-mac = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és tartsa a Dokkon.
+default-browser-prompt-button-primary-set = Beállítás elsődleges böngészőként
 default-browser-prompt-button-primary-pin = Elsődleges böngészővé tétel
 default-browser-prompt-title-alt = A { -brand-short-name } legyen az alapértelmezett böngészője?
 default-browser-prompt-message-alt = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
