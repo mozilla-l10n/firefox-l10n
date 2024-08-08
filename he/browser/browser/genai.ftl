@@ -12,6 +12,8 @@ genai-settings-chat-choose-one-menuitem =
 genai-settings-chat-links = בחירה בצ’אט בוט מהווה הסכמה לתנאי השימוש ולמדיניות הפרטיות של ספק הצ’אט בוט.
 genai-settings-chat-chatgpt-links = בחירה ב־ChatGPT מהווה הסכמה ל<a data-l10n-name="link1">תנאי השימוש</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של OpenAI.
 genai-settings-chat-claude-links = בחירה ב־Anthropic Claude מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות של הצרכן</a>, <a data-l10n-name="link2">מדיניות השימוש</a> ו<a data-l10n-name="link3">מדיניות הפרטיות</a> של Anthropic.
+genai-settings-chat-copilot-links = בחירה ב־Copilot מהווה הסכמה ל<a data-l10n-name="link1">תנאי החוויות של Copilot AI</a> ול<a data-l10n-name="link2">הצהרת הפרטיות של Microsoft</a>.
+genai-settings-chat-gemini-links = בחירה ב־Google Gemini מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות של Google</a>, <a data-l10n-name="link2">מדיניות השימוש האסור של AI גנרטיבי</a> ו<a data-l10n-name="link3">הצהרת הפרטיות של Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = בחירה ב־HuggingChat מהווה הסכמה ל<a data-l10n-name="link1">הצהרת הפרטיות של HuggingChat</a> ול<a data-l10n-name="link2">מדיניות הפרטיות של Hugging Face</a>.
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
 genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.

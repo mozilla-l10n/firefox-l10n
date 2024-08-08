@@ -294,6 +294,14 @@ onboarding-device-migration-subtitle = באפשרותך להיכנס אל { -fxa
 onboarding-device-migration-subtitle2 = באפשרותך להיכנס לחשבון שלך כדי להביא איתך את הסימניות, הססמאות וההיסטוריה שלך במכשיר החדש שלך.
 onboarding-device-migration-primary-button-label = כניסה
 
+## Add-ons Picker screen
+
+amo-picker-title = התאמה אישית של ה־{ -brand-short-name } שלך
+amo-picker-subtitle = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד.
+amo-picker-install-button-label = הוספה ל־{ -brand-short-name }
+amo-picker-install-complete-label = הותקן
+amo-picker-collection-link = סיור בתוספות נוספות
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

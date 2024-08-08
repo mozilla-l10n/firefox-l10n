@@ -409,6 +409,7 @@ newtab-topic-label-society = טיפים לחיים
 newtab-topic-label-sports = ספורט
 newtab-topic-label-tech = טכנולוגיה
 newtab-topic-label-travel = טיולים
+newtab-topic-label-home = בית וגן
 
 ## Topic Selection Modal
 
