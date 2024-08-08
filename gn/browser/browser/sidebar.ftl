@@ -44,6 +44,10 @@ sidebar-horizontal-tabs =
     .label = Tendayke ñeno
 sidebar-customize-tabs-header =
     .label = Tendayke mboheko
+sidebar-customize-settings-header =
+    .label = Emboheko ta’ãngarupa ykegua
+sidebar-visibility-always-show =
+    .label = Jehechauka tapia
 
 ## Labels for sidebar context menu items
 
