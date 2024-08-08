@@ -437,4 +437,8 @@ pdfjs-image-alt-text-settings-button-label = הגדרות טקסט חלופי ש
 pdfjs-editor-alt-text-settings-dialog-label = הגדרות טקסט חלופי של תמונה
 pdfjs-editor-alt-text-settings-automatic-title = טקסט חלופי אוטומטי
 pdfjs-editor-alt-text-settings-create-model-button-label = יצירת טקסט חלופי באופן אוטומטי
+pdfjs-editor-alt-text-settings-create-model-description = הצעת תיאורים כדי לסייע לאנשים שאינם יכולים לראות את התמונה או כאשר התמונה אינה נטענת.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = מודל AI לטקסט חלופי ({ $totalSize } מ״ב)
 pdfjs-editor-alt-text-settings-close-button = סגירה
