@@ -258,12 +258,12 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Dodaci i teme su kao programi za preglednik i omogućavaju zaštitu za
-    lozinke, preuzimanje videozapisa, pronalaženje ponuda, blokiranje
-    dosadnih oglasa, izmjenu izgleda preglednika i još puno više. Ove male
-    programe često razvijaju treće strane. Ovdje je izbor dodataka koje
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a>
-    za izvrsnu sigurnost, perfomansu i funkcionalnost.
+    Dodaci i teme su kao programi za preglednik i omogućuju
+    zaštitu za lozinke, preuzimanje videa, pronalaženje ponuda,
+    blokiranje oglasa, mijenjanje izgleda preglednika i još više.
+    Ove male programe često razvijaju treće strane. Ovdje je izbor
+    dodataka koje { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a>
+    za sigurnost, perfomansu i funkcionalnost.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
