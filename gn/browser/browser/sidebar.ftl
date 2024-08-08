@@ -48,6 +48,8 @@ sidebar-customize-settings-header =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-visibility-always-show =
     .label = Jehechauka tapia
+sidebar-visibility-hide-sidebar =
+    .label = Eñomi ta’ãngarupa ykegua
 
 ## Labels for sidebar context menu items
 
