@@ -7,12 +7,43 @@ menu-view-genai-chat =
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Ko’ára - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Kuehe - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Emboguete tembiasakuégui
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Jeheka rapykuere “{ $query }-pe g̃uarã”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Jepysokue ta’ãngarupa ykegua
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } rembiporu
+sidebar-customize-firefox-settings = Eñangareko { -brand-short-name } ñemboheko rehe
+sidebar-position-left =
+    .label = Ehechauka asu gotyo
+sidebar-position-right =
+    .label = Ehechauka akatúa gotyo
+sidebar-vertical-tabs =
+    .label = Tendayke ñembo’y
+sidebar-horizontal-tabs =
+    .label = Tendayke ñeno
+sidebar-customize-tabs-header =
+    .label = Tendayke mboheko
 
 ## Labels for sidebar context menu items
 
