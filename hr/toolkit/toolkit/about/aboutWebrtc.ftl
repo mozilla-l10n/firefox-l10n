@@ -119,6 +119,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 
 about-webrtc-local-candidate = Lokalni kandidat
 about-webrtc-remote-candidate = Udaljeni kandidat
+about-webrtc-raw-cand-hide-msg = sakrij neobrađene kandidate
+    .title = klikni za sklapanje ovog odjeljka
+about-webrtc-raw-cand-section-hide-msg = Sakrij neobrađene kandidate
+    .title = Klikni za sklapanje ovog odjeljka
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = prikaži detalje
     .title = klikni za rasklapanje ovog odjeljka

@@ -8,8 +8,8 @@
 more-from-moz-title = Više od { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Više od { -vendor-short-name }
-more-from-moz-subtitle = Provjerite ostale { -vendor-short-name } proizvode koji pomažu u stvaranju zdravijeg Interneta.
-more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
+more-from-moz-subtitle = Pogledaj druge { -vendor-short-name } proizvode koji pomažu u stvaranju zdravijeg interneta.
+more-from-moz-firefox-mobile-title = { -brand-product-name } Mobitel
 more-from-moz-firefox-mobile-description = Mobilni preglednik koji stavlja tvoju privatnost na prvo mjesto.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Otkrij dodatni sloj anonimnog pregledavanja i zaštite.
