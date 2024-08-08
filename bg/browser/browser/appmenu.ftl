@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Предварителни настр
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Захранване
+profiler-popup-presets-debug-description = Предварителни настройки за отстраняване на грешки в { -brand-shorter-name }. Имат голямо и негативно въздействие на системата, не се използват за работа по производителността, а за фокусиране върху разбиране на поведението на браузъра.
 profiler-popup-presets-debug-label =
     .label = Дебъг
 profiler-popup-presets-custom-label =
