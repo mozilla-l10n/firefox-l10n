@@ -29,7 +29,7 @@ protection-report-page-content-title = Nadzorna ploča zaštite
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } može zaštititi tvoju privatnost iza scene dok surfaš. Ovo je personalizirani sažetak te zaštite, uključujući alate za preuzimanje kontrole nad vlastitom sigurnošću na webu.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } štiti tvoju privatnost iza scene dok surfaš. Ovo je personalizirani sažetak te zaštite, uključujući alate za preuzimanje kontrole nad vlastitom sigurnošću na webu.
+protection-report-page-summary-default = { -brand-short-name } štiti tvoju privatnost iza scene dok pregledavaš. Ovo je personalizirani sažetak tih zaštita, uključujući alate za preuzimanje kontrole nad vlastitom sigurnošću na webu.
 protection-report-settings-link = Upravljaj svojim postavkama za privatnost i sigurnost
 etp-card-title-always = Poboljšana zaštita od praćenja: uvijek uključeno
 etp-card-title-custom-not-blocking = Poboljšana zaštita od praćenja: ISKLJUČENO
