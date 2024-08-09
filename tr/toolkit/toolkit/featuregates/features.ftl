@@ -49,9 +49,9 @@ experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyici
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Görüntü içinde görüntü: sekme değiştiğinde otomatik aç
-experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştir.
+experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştirir.
 genai-settings-chat-title =
-    .label = YZ sohbet botu
+    .label = Yapay zekâ sohbet botu
 # Updated sidebar settings
 sidebar-title =
     .label = Kenar çubuğu
