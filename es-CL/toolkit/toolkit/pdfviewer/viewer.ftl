@@ -51,12 +51,6 @@ pdfjs-download-button-label = Descargar
 pdfjs-bookmark-button =
     .title = Página actual (Ver URL de la página actual)
 pdfjs-bookmark-button-label = Página actual
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Abrir en una aplicación
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Abrir en una aplicación
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Añadir o editar imágenes
 pdfjs-editor-highlight-button =
     .title = Destacar
 pdfjs-editor-highlight-button-label = Destacar
-pdfjs-highlight-floating-button =
-    .title = Destacar
 pdfjs-highlight-floating-button1 =
     .title = Destacar
     .aria-label = Destacar
@@ -400,3 +392,16 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Mostrar todo
 pdfjs-editor-highlight-show-all-button =
     .title = Mostrar todo
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Aprender más
+pdfjs-editor-new-alt-text-create-automatically-button-label = Crear texto alternativo automáticamente
+pdfjs-editor-new-alt-text-not-now-button = Ahora no
+pdfjs-editor-new-alt-text-error-title = No se pudo crear el texto alternativo automáticamente
+pdfjs-editor-new-alt-text-error-description = Escribe tu propio texto alternativo o vuelve a intentarlo más tarde.
+pdfjs-editor-new-alt-text-error-close-button = Cerrar
+
+## Image alt-text settings
+

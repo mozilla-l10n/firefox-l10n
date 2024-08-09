@@ -340,6 +340,9 @@ onboarding-device-migration-primary-button-label = Conectarse
 ## Add-ons Picker screen
 
 amo-picker-title = Personaliza tu { -brand-short-name }
+amo-picker-install-button-label = Añadir a { -brand-short-name }
+amo-picker-install-complete-label = Instalado
+amo-picker-collection-link = Explora más complementos
 
 ## The following screens have been updated to use security and privacy focused strings:
 
