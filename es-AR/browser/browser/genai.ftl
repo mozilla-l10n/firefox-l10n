@@ -32,6 +32,20 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Simplificar lenguaje
     .value = Reescribe la selección usando oraciones cortas y palabras simples. Mantén el significado y la exactitud factual.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explicar esto
+    .value = Explica los conceptos claves en esta selección, usando palabras simples. Además, usá ejemplos.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Preguntar al chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Preguntar a { $provider }
+genai-input-ask-generic =
+    .placeholder = Preguntar al chatbot IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Preguntar a { $provider }…

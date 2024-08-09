@@ -50,6 +50,13 @@ experimental-features-ime-search-description = Una IME (Input Method Editor) es 
 experimental-features-auto-pip =
     .label = Picture-in-Picture: abrir automáticamente al cambiar de pestaña
 experimental-features-auto-pip-description = Habilitar Picture-in-Picture en videos activos al cambiar de pestañas.
+genai-settings-chat-title =
+    .label = Chatbot IA
+# Updated sidebar settings
+sidebar-title =
+    .label = Barra lateral
+vertical-tabs-title =
+    .label = Pestañas verticales
 experimental-features-group-browsing =
     .label = Navegación
 experimental-features-group-developer-tools =
