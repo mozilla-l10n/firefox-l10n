@@ -435,6 +435,7 @@ pdfjs-image-alt-text-settings-button-label = Nastajenja alternatiwneho wobrazowe
 pdfjs-editor-alt-text-settings-dialog-label = Nastajenja alternatiwneho wobrazoweho teksta
 pdfjs-editor-alt-text-settings-automatic-title = Awtomatiski alternatiwny tekst
 pdfjs-editor-alt-text-settings-create-model-button-label = Alternatiwny tekst awtomatisce wutworić
+pdfjs-editor-alt-text-settings-create-model-description = Namjetuje wopisanja, zo by ludźom pomhał, kotřiž njemóžeće wobraz widźeć abo hdyž so wobraz njezačita.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Model KI alternatiwneho teksta ({ $totalSize } MB)
