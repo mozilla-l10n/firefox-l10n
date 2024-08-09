@@ -203,12 +203,12 @@ bar-tooltip-tracker =
            *[other] { $count } praćenja sadržaja { $percentage }
         }
 bar-tooltip-fingerprinter =
-    .title = Čitači digitalnog otiska
+    .title = Prikupljači digitalnih otisaka
     .aria-label =
         { $count ->
-            [one] { $count } čitač digitalnog otiska ({ $percentage }%)
-            [few] { $count } čitača digitalnog otiska ({ $percentage }%)
-           *[other] { $count } čitača digitalnog otiska ({ $percentage }%)
+            [one] { $count } prikupljač digitalnih otisaka ({ $percentage }%)
+            [few] { $count } prikupljača digitalnih otisaka ({ $percentage }%)
+           *[other] { $count } prikupljača digitalnih otisaka ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Kripto-rudari
