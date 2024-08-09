@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Giriş yap
 ## Add-ons Picker screen
 
 amo-picker-title = { -brand-short-name } tarayıcınızı özelleştirin
+amo-picker-subtitle = Uzantılar tarayıcınızın içinde çalışan uygulamalara benzer. Parolalarınızı korumanızı, video indirmenizi, indirimleri bulmanızı, sinir bozucu reklamları engellemenizi, tarayıcınızın görünümünü değiştirmenizi ve çok daha fazlasını yapmanızı sağlarlar.
 amo-picker-install-button-label = { -brand-short-name } tarayıcısına ekle
 amo-picker-install-complete-label = Yüklendi
 amo-picker-collection-link = Daha fazla eklenti keşfedin

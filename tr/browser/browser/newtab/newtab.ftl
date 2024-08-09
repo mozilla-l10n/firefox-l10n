@@ -411,9 +411,16 @@ newtab-topic-label-society = Kişisel Gelişim
 newtab-topic-label-sports = Spor
 newtab-topic-label-tech = Teknoloji
 newtab-topic-label-travel = Seyahat
+newtab-topic-label-home = Ev ve bahçe
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Akışınızı iyileştirmek için konuları seçin
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = En az iki konu seçin. Küratörlerimiz ilgi alanlarınıza uyan makalelere öncelik verir. Seçtiğiniz konuları istediğiniz zaman güncelleyebilirsiniz.
 newtab-topic-selection-save-button = Kaydet
 newtab-topic-selection-cancel-button = Vazgeç
 newtab-topic-selection-button-maybe-later = Daha sonra

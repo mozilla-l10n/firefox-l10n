@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Seçtiğiniz sohbet botunu kolayca ulaşabileceğiniz kenar çubuğuna ekler. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
 genai-settings-chat-choose = Bir sohbet botu seçin
 genai-settings-chat-choose-one-menuitem =
     .label = Birini seçin
@@ -20,12 +21,12 @@ genai-settings-chat-links = Bir sohbet botu seçtiğinizde o botun sağlayıcıs
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Yapay zekâlı sohbet botuna sor
+    .label = Yapay zekâ sohbet botuna sor
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } sohbet botuna sor
 genai-input-ask-generic =
-    .placeholder = Yapay zekâlı sohbet botuna sor…
+    .placeholder = Yapay zekâ sohbet botuna sor…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } sohbet botuna sor…

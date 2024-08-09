@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = YZ sohbet botu
+    .label = Yapay zekâ sohbet botu
 
 ## Labels for sidebar history panel
 
@@ -63,7 +63,7 @@ sidebar-context-menu-report-extension =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = YZ sohbet botu
+    .label = Yapay zekâ sohbet botu
 sidebar-menu-history-label =
     .label = Geçmiş
 sidebar-menu-synced-tabs-label =
