@@ -46,13 +46,19 @@ experimental-features-js-warp-description = Habilitar Warp, un proyecto para mej
 experimental-features-ime-search =
     .label = Barra de direcciones: mostrar resultados durante la composición IME
 experimental-features-ime-search-description = Un IME (Editor de método de entrada) es una herramienta que te permite ingresar símbolos complejos, como aquellos usados en los idiomas escritos del este asiático o índico, usando un teclado estándar. Habilitar este experimento mantendrá el panel de la barra de direcciones abierto, mostrando resultados de búsqueda y sugerencias, mientras que se usa un IME para ingresar texto. Nótese que el IME podría mostrar un panel que cubra los resultados de la barra de direcciones, por lo que se recomienda el uso de esta preferencia solo si el IME no usa este tipo de panel.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Picture-in-Picture: abrir automáticamente al cambiar de pestaña
+experimental-features-auto-pip-description = Activar Picture-in-Picture en videos activos al cambiar de pestañas.
 genai-settings-chat-title =
     .label = Chatbot de IA
 # Updated sidebar settings
 sidebar-title =
     .label = Barra lateral
+sidebar-description = Accede fácilmente a tu historial, pestañas de otros dispositivos, extensiones de la barra lateral y más mientras navegas. <a data-l10n-name="connect">Comparte tus comentarios</a>
 vertical-tabs-title =
     .label = Pestañas verticales
+vertical-tabs-description = Mueve las pestañas de la parte superior del navegador al costado. Requiere que también pruebes la barra lateral. <a data-l10n-name="connect">Comparte tus comentarios</a>
 experimental-features-group-browsing =
     .label = Navegación
 experimental-features-group-developer-tools =
@@ -61,3 +67,4 @@ experimental-features-group-webpage-display =
     .label = Visualización de página web
 experimental-features-group-customize-browsing =
     .label = Personaliza tu navegación
+experimental-features-group-customize-browsing-description = Si pruebas estas funciones, <a data-l10n-name="connect">comparte tus comentarios acerca de Connect</a>
