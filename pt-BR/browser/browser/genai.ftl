@@ -6,6 +6,7 @@
 ## Generative AI (GenAI) Settings section
 
 genai-settings-chat-description = Adiciona o chatbot de sua escolha no painel lateral, para acesso rápido durante a navegação. <a data-l10n-name="connect">Compartilhar opinião</a>
+genai-settings-chat-choose = Escolha um chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Escolha um
 genai-settings-chat-links = Ao escolher um chatbot, você concorda com os termos de uso e a política de privacidade do provedor.
@@ -16,6 +17,9 @@ genai-settings-chat-gemini-links = Ao escolher o Google Gemini, você concorda c
 genai-settings-chat-huggingchat-links = Ao escolher o HuggingChat, você concorda com o <a data-l10n-name="link1">aviso de privacidade do HuggingChat</a> e a <a data-l10n-name="link2">política de privacidade do Hugging Face</a>.
 genai-settings-chat-lechat-links = Ao escolher o Le Chat Mistral, você concorda com os <a data-l10n-name="link1">termos do serviço</a> e a <a data-l10n-name="link2">Política de privacidade</a> da Mistral AI .
 genai-settings-chat-localhost-links = Traga seu próprio chatbot local privativo, como o <a data-l10n-name="link1">llamafile</a> do grupo de inovação da { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Exibe um atalho para consultas quando você seleciona texto. O { -brand-short-name } envia o texto, o título da página e consulta o chatbot.
+    .label = Mostrar consultas ao selecionar texto
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
