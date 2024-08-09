@@ -1166,11 +1166,11 @@ content-blocking-unvisited-cookies = Kolačići neposjećenih stranica
 content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
 content-blocking-all-cross-site-cookies = Svi međustranični kolačići
 content-blocking-cryptominers = Kripto-rudari
-content-blocking-fingerprinters = Jedinstvene otiske
+content-blocking-fingerprinters = Prikupljači digitalnih otisaka
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
-content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi čitači digitalnih otisaka
+content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi prikupljač digitalnih otisaka
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1207,19 +1207,19 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Jedinstveni otisci
-    .accesskey = J
+    .label = Prikupljač digitalnih otisaka
+    .accesskey = P
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
-    .label = Poznati jedinstveni otisci
+    .label = Poznati prikupljači digitalnih otisaka
     .accesskey = z
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Mogući jedinstveni otisci
+    .label = Sumnjivi prikupljači digitalnih otisaka
     .accesskey = s
 
 ## Privacy Section - Tracking
