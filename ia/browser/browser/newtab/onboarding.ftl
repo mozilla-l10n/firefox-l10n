@@ -337,6 +337,12 @@ onboarding-device-migration-subtitle = Accede a tu { -fxaccount-brand-name } pro
 onboarding-device-migration-subtitle2 = Accede a tu conto pro portar con te marcapaginas, contrasignos, e chronologia sur tu nove apparato.
 onboarding-device-migration-primary-button-label = Aperir session
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Adder a { -brand-short-name }
+amo-picker-install-complete-label = Installate
+amo-picker-collection-link = Discoperi altere additivos
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
