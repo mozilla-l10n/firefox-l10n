@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 bookmark-overlay-name-2 =
-    .value = Naziv
-    .accesskey = N
+    .value = Ime
+    .accesskey = I
 bookmark-overlay-url =
     .value = URL
     .accesskey = U
