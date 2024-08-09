@@ -9,6 +9,9 @@ with exceptions for specific locales:
 - `it`: Translations committed to repo directly by @flodolo as part of source string localizability review process.
 - `ja` and  `ja-JP-mac`: Translations are merged via PR due to legacy constraints.
 
+Issues with a locale should be reported [in Bugzilla](https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Localizations)
+(select the locale in the component).
+
 ## String updates
 
 This repo contains only localized files;
