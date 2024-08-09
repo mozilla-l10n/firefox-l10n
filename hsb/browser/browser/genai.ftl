@@ -31,6 +31,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Wujasńće to
     .value = Prošu wujasńće hłowne koncepty w tutym wuběrje z jednorymi słowami. Wužiwajće tež přikłady.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Sym na stronje “{ $tabTitle }” ze slědowacym tekstom: “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
