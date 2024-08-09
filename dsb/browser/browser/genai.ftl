@@ -31,6 +31,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Wujasniśo to
     .value = Pšosym wujasniśo głowne koncepty w toś tom wuběrku z jadnorymi słowami. Wužywajśo teke pśikłady.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Som na boku “{ $tabTitle }” ze slědujucym tekstom: “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
