@@ -15,7 +15,7 @@ about-processes-shutdown-tab =
 
 ## Column headers
 
-about-processes-column-name = Naziv
+about-processes-column-name = Ime
 about-processes-column-memory-resident = Memorija
 about-processes-column-cpu-total = CPU
 

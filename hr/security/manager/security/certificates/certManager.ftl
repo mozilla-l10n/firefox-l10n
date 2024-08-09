@@ -33,7 +33,7 @@ certmgr-delete-cert2 =
 certmgr-cert-host =
     .label = Računalo
 certmgr-cert-name =
-    .label = Naziv certifikata
+    .label = Ime certifikata
 certmgr-cert-server =
     .label = Server
 certmgr-token-name =
@@ -100,7 +100,7 @@ pkcs12-dup-data = Certifikat i sigurnosni ključ već postoje na sigurnosnom ure
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Naziv datoteke za izradu sigurnosne kopije
+choose-p12-backup-file-dialog = Ime datoteke za izradu sigurnosne kopije
 file-browse-pkcs12-spec = PKCS12 Datoteke
 choose-p12-restore-file-dialog = Datoteka certifikata za uvoz
 
