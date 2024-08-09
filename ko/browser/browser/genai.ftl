@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = 설명
     .value = 간단한 단어를 사용하여 이 선택 항목의 주요 개념을 설명하세요. 또한 예제를 사용하세요.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = 나는 현재 “{ $selection }” 텍스트가 선택된 “{ $tabTitle }” 페이지에서 있습니다.
 
 ## Chatbot menu shortcuts
 

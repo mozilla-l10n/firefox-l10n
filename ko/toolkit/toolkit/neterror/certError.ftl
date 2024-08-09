@@ -92,6 +92,7 @@ contentEncodingError-title = 콘텐츠 인코딩 오류
 unsafeContentType-title = 안전하지 않은 파일 형식
 netReset-title = 연결 초기화
 netTimeout-title = 연결 시간 초과
+serverError-title = 이 사이트에 문제가 있는 것 같음
 unknownProtocolFound-title = 인식할 수 없는 주소
 proxyConnectFailure-title = 프록시 서버가 연결을 거부함
 proxyResolveFailure-title = 프록시 서버를 찾을 수 없음
