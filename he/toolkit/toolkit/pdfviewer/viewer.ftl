@@ -441,4 +441,11 @@ pdfjs-editor-alt-text-settings-create-model-description = הצעת תיאורי�
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = מודל AI לטקסט חלופי ({ $totalSize } מ״ב)
+pdfjs-editor-alt-text-settings-ai-model-description = פועל באופן מקומי במכשיר שלך כך שהנתונים שלך נשארים פרטיים. נדרש עבור טקסט חלופי אוטומטי.
+pdfjs-editor-alt-text-settings-delete-model-button = מחיקה
+pdfjs-editor-alt-text-settings-download-model-button = הורדה
+pdfjs-editor-alt-text-settings-downloading-model-button = בהורדה…
+pdfjs-editor-alt-text-settings-editor-title = עורך טקסט חלופי
+pdfjs-editor-alt-text-settings-show-dialog-button-label = הצגת עורך טקסט חלופי מיד בעת הוספת תמונה
+pdfjs-editor-alt-text-settings-show-dialog-description = מסייע לך לוודא שלכל התמונות שלך יש טקסט חלופי.
 pdfjs-editor-alt-text-settings-close-button = סגירה
