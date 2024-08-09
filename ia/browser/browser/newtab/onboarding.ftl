@@ -339,6 +339,7 @@ onboarding-device-migration-primary-button-label = Aperir session
 
 ## Add-ons Picker screen
 
+amo-picker-title = Personalisa tu { -brand-short-name }
 amo-picker-install-button-label = Adder a { -brand-short-name }
 amo-picker-install-complete-label = Installate
 amo-picker-collection-link = Discoperi altere additivos
