@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Förklara detta
     .value = Förklara nyckelbegreppen i detta urval med enkla ord. Använd också exempel.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Jag är på sidan "{ $tabTitle }" med "{ $selection }" vald.
 
 ## Chatbot menu shortcuts
 
