@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Izbriši iznimku kolačića za { $domain }
-tracking-protection-icon-active = Blokiranje pratitelja društvenih mreža, kolačića za praćenje između stranica i jedinstvenih otisaka.
+tracking-protection-icon-active = Blokiranje programa za praćenje društvenih mreža, kolačići za praćenje na različitim web stranicama i prikupljači digitalnih otisaka.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu.
