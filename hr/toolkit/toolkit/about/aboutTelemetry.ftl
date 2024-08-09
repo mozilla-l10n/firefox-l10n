@@ -114,7 +114,7 @@ about-telemetry-addon-table-details = Detalji
 #   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } pružatelj usluge
 about-telemetry-keys-header = Svojstvo
-about-telemetry-names-header = Naziv
+about-telemetry-names-header = Ime
 about-telemetry-values-header = Vrijednost
 # Variables:
 #   $lateWriteCount (number) - The number of the late writes

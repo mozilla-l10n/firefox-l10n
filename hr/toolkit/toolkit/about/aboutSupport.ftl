@@ -10,26 +10,26 @@ crashes-send-date = Poslano
 crashes-all-reports = Svi izvještaji o rušenju
 crashes-no-config = Ovaj program nije podešen da prikazuje izvještaje o rušenju.
 support-addons-title = Dodaci
-support-addons-name = Naziv
+support-addons-name = Ime
 support-addons-type = Vrsta
 support-addons-enabled = Aktivirano
 support-addons-version = Inačica
 support-addons-id = ID
 security-software-title = Sigurnosni softver
 security-software-type = Vrsta
-security-software-name = Naziv
+security-software-name = Ime
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Vatrozid
 features-title = Značajke preglednika { -brand-short-name }
-features-name = Naziv
+features-name = Ime
 features-version = Inačica
 features-id = ID
 processes-title = Udaljeni procesi
 processes-type = Vrsta
 processes-count = Broj
 app-basics-title = Osnove aplikacije
-app-basics-name = Naziv
+app-basics-name = Ime
 app-basics-version = Inačica
 app-basics-build-id = Build ID
 app-basics-distribution-id = ID distribucije
@@ -78,18 +78,18 @@ show-dir-label =
        *[other] Otvori direktorij
     }
 environment-variables-title = Varijable okruženja
-environment-variables-name = Naziv
+environment-variables-name = Ime
 environment-variables-value = Vrijednost
 experimental-features-title = Eksperimentalne funkcije
-experimental-features-name = Naziv
+experimental-features-name = Ime
 experimental-features-value = Vrijednost
 modified-key-prefs-title = Važne izmijenjene postavke
-modified-prefs-name = Naziv
+modified-prefs-name = Ime
 modified-prefs-value = Vrijednost
 user-js-title = user.js osobitosti
 user-js-description = Tvoj profil sadrži <a data-l10n-name="user-js-link">user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio { -brand-short-name }.
 locked-key-prefs-title = Važne zaključane postavke
-locked-prefs-name = Naziv
+locked-prefs-name = Ime
 locked-prefs-value = Vrijednost
 graphics-title = Grafika
 graphics-features-title = Funkcije
@@ -141,7 +141,7 @@ sample-rate = Željena učestalost uzorka
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
 media-input-devices-title = Ulazni uređaji
-media-device-name = Naziv
+media-device-name = Ime
 media-device-group = Grupa
 media-device-vendor = Prodavač
 media-device-state = Država
@@ -359,7 +359,7 @@ support-printing-title = Ispisivanje
 support-printing-troubleshoot = Otklanjanje grešaka
 support-printing-clear-settings-button = Očisti spremljene postavke ispisa
 support-printing-modified-settings = Izmijenjene postavke ispisa
-support-printing-prefs-name = Naziv
+support-printing-prefs-name = Ime
 support-printing-prefs-value = Vrijednost
 
 ## Remote Settings sections
@@ -368,8 +368,8 @@ support-remote-settings-status-ok = U redu
 
 ## Normandy sections
 
-support-remote-experiments-name = Naziv
-support-remote-features-name = Naziv
+support-remote-experiments-name = Ime
+support-remote-features-name = Ime
 support-remote-features-status = Status
 
 ## Pointing devices
