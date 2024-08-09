@@ -70,6 +70,10 @@ manifest-icon-img-title = Икона с размери: { $sizes }
 sidebar-item-manifest = Манифест
     .alt = Пиктограма на манифест
     .title = Манифест
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Service Workers Icon
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Пиктограма на предупреждение

@@ -66,6 +66,9 @@ about-debugging-sidebar-runtime-item-name =
 #   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
+about-debugging-sidebar-support = Поддръжка за отстраняване на грешки
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Опресняване на устройства

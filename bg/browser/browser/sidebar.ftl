@@ -23,18 +23,30 @@ sidebar-history-delete =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-settings-header =
+    .label = Настройки на страничната лента
 
 ## Labels for sidebar context menu items
 
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI чатбот
 sidebar-menu-history-label =
     .label = История
+sidebar-menu-synced-tabs-label =
+    .label = Раздели от други устройства
 sidebar-menu-bookmarks-label =
     .label = Отметки
+sidebar-menu-customize-label =
+    .label = Персонализиране на страничната лента
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Персонализиране на страничната лента
 sidebar-menu-history-header =
     .heading = История
+sidebar-menu-syncedtabs-header =
+    .heading = Раздели от други устройства
