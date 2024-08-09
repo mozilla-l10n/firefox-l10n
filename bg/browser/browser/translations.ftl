@@ -89,6 +89,8 @@ translations-panel-to-label = Превеждане на
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Тази страница е преведена от { $fromLanguage } на { $toLanguage }
+translations-panel-choose-language =
+    .label = Изберете език
 
 ## Firefox Translations language management in about:preferences.
 
