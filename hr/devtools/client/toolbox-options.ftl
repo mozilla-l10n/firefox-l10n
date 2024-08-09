@@ -42,7 +42,7 @@ options-default-color-unit-authored = Zadano od autora
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
-options-default-color-unit-name = Nazivi boja
+options-default-color-unit-name = Imena boja
 
 ## Web Console section
 

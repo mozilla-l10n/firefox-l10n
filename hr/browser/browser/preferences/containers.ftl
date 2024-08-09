@@ -22,8 +22,8 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-containers-name-label = Naziv
-    .accesskey = N
+containers-name-label = Ime
+    .accesskey = I
     .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Upiši ime kontejnera

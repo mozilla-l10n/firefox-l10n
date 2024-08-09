@@ -842,9 +842,9 @@ sync-engine-settings =
 
 ## The device name controls.
 
-sync-device-name-header = Naziv uređaja
+sync-device-name-header = Ime uređaja
 sync-device-name-change =
-    .label = Promijeni naziv uređaja…
+    .label = Promijeni ime uređaja …
     .accesskey = n
 sync-device-name-cancel =
     .label = Odustani

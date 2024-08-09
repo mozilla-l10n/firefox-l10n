@@ -12,5 +12,5 @@ add-engine-url = URL tražilice, koristi %s umjesto pojma za pretraživanje
 add-engine-dialog =
     .buttonlabelaccept = Dodaj tražilicu
     .buttonaccesskeyaccept = D
-engine-name-exists = Tražilica s tim nazivom već postoji
+engine-name-exists = Tražilica s tim imenom već postoji
 engine-alias-exists = Tražilica s tim pseudonimom već postoji
