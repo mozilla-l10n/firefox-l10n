@@ -23,11 +23,26 @@ sidebar-history-delete =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-firefox-tools-header =
+    .label = Инструменти на { -brand-product-name }
+sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
+sidebar-position-left =
+    .label = Показване отляво
+sidebar-vertical-tabs =
+    .label = Вертикални раздели
 sidebar-customize-settings-header =
     .label = Настройки на страничната лента
+sidebar-visibility-hide-sidebar =
+    .label = Скриване на страничната лента
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Управление на разширението
+sidebar-context-menu-remove-extension =
+    .label = Премахване на разширението
+sidebar-context-menu-report-extension =
+    .label = Докладване на разширението
 
 ## Labels for sidebar menu items.
 

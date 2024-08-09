@@ -20,3 +20,4 @@ experimental-features-ime-search-description = IME (Редактор на мет
 # Updated sidebar settings
 sidebar-title =
     .label = Странична лента
+vertical-tabs-description = Преместете разделите от горната част на браузъра встрани. Изисква да включите и страничната лента. <a data-l10n-name="connect">Споделяне на отзиви</a>
