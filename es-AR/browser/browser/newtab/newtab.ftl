@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Actividad reciente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
 newtab-section-header-stories = Historias que hacen reflexionar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Las selecciones de hoy para vos
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -412,3 +414,18 @@ newtab-topic-label-society = Trucos para la vida
 newtab-topic-label-sports = Deportes
 newtab-topic-label-tech = Tecnología
 newtab-topic-label-travel = Viajes
+newtab-topic-label-home = Hogar y jardín
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Seleccioná temas para mejorar tu canal
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Elegí dos o más temas. Nuestros curadores expertos priorizan las historias adaptadas a tus intereses. Actualizá en cualquier momento.
+newtab-topic-selection-save-button = Guardar
+newtab-topic-selection-cancel-button = Cancelar
+newtab-topic-selection-button-maybe-later = Quizá más tarde
+newtab-topic-selection-button-update-interests = Actualizá tus intereses
+newtab-topic-selection-button-pick-interests = Elegí tus intereses

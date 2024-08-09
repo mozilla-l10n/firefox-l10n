@@ -338,6 +338,12 @@ onboarding-device-migration-subtitle = Inicie la sesión en su { -fxaccount-bran
 onboarding-device-migration-subtitle2 = Inicie sesión en su cuenta para traer sus marcadores, contraseñas e historial a su nuevo dispositivo.
 onboarding-device-migration-primary-button-label = Iniciar la sesión
 
+## Add-ons Picker screen
+
+amo-picker-title = Personalizá tu { -brand-short-name }
+amo-picker-install-button-label = Añadir a { -brand-short-name }
+amo-picker-install-complete-label = Instalado
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
