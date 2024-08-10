@@ -51,12 +51,6 @@ pdfjs-download-button-label = Download
 pdfjs-bookmark-button =
     .title = Current Page (View URL from Current Page)
 pdfjs-bookmark-button-label = Current Page
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Open in app
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Open in app
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Add or edit images
 pdfjs-editor-highlight-button =
     .title = Highlight
 pdfjs-editor-highlight-button-label = Highlight
-pdfjs-highlight-floating-button =
-    .title = Highlight
 pdfjs-highlight-floating-button1 =
     .title = Highlight
     .aria-label = Highlight
@@ -400,3 +392,28 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Show all
 pdfjs-editor-highlight-show-all-button =
     .title = Show all
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Image alt text settings
+pdfjs-image-alt-text-settings-button-label = Image alt text settings
+pdfjs-editor-alt-text-settings-dialog-label = Image alt text settings
+pdfjs-editor-alt-text-settings-automatic-title = Automatic alt text
+pdfjs-editor-alt-text-settings-create-model-button-label = Create alt text automatically
+pdfjs-editor-alt-text-settings-create-model-description = Suggests descriptions to help people who can’t see the image or when the image doesn’t load.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Alt text AI model ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Runs locally on your device so your data stays private. Required for automatic alt text.
+pdfjs-editor-alt-text-settings-delete-model-button = Delete
+pdfjs-editor-alt-text-settings-download-model-button = Download
+pdfjs-editor-alt-text-settings-downloading-model-button = Downloading…
+pdfjs-editor-alt-text-settings-editor-title = Alt text editor
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Show alt text editor right away when adding an image
+pdfjs-editor-alt-text-settings-show-dialog-description = Helps you make sure all your images have alt text.
+pdfjs-editor-alt-text-settings-close-button = Close
