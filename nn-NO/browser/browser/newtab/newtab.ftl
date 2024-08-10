@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Nyleg aktivitet
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Tilrådd av { $provider }
 newtab-section-header-stories = Tankevekkjande artiklar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dagens val for deg
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -407,9 +409,12 @@ newtab-topic-label-education-science = Vitskap
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Teknologi
 newtab-topic-label-travel = Reise
+newtab-topic-label-home = Heim og hage
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = Lagre
 newtab-topic-selection-cancel-button = Avbryt
 newtab-topic-selection-button-maybe-later = Kanskje seinare
+newtab-topic-selection-button-update-interests = Oppdater interessene dine
+newtab-topic-selection-button-pick-interests = Vel interessene dine
