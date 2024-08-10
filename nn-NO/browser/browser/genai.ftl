@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Legg til valfri samtalerobot i sidestolpen, for rask tilgang når du surfar. <a data-l10n-name="connect">Del tilbakemelding</a>
 genai-settings-chat-choose-one-menuitem =
     .label = Vel ein
 genai-settings-chat-chatgpt-links = Ved å velje ChatGPT, godkjenner du <a data-l10n-name="link1">brukarvilkåra</a> og <a data-l10n-name="link2">personvernerklæringa</a> for OpenAI.
