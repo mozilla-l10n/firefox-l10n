@@ -136,7 +136,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Предупреждать ме
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Активный курсор
-tabbrowser-confirm-caretbrowsing-message = Нажатие клавиши F7 включает или выключает режим активного курсора. В этом режиме, поместив курсор на страницу, вы можете выделять текст с помощью клавиатуры. Включить этот режим?
+tabbrowser-confirm-caretbrowsing-message = Нажатие клавиши F7 включает или отключает режим активного курсора. В этом режиме, поместив курсор на страницу, вы можете выделять текст с помощью клавиатуры. Включить этот режим?
 tabbrowser-confirm-caretbrowsing-checkbox = Больше не показывать это окно.
 
 ## Confirmation dialog for closing all duplicate tabs

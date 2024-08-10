@@ -366,7 +366,7 @@ about-logins-export-file-picker-default-filename = логины.csv
 about-logins-export-file-picker-title2 = Экспорт паролей из { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename2 = passwords.csv
+about-logins-export-file-picker-default-filename2 = пароли.csv
 about-logins-export-file-picker-export-button = Экспортировать
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -405,25 +405,25 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Импорт завершён
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Добавлен новый логин:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Обновлён существующий логин:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
+        [one] <span>Найден повторяющийся логин:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
         [few] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
        *[many] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
-        [one] <span>Добавлен новый пароли:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Добавлен новый пароль:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Добавлены новые пароли:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Добавлены новые пароли:</span> <span data-l10n-name="count">{ $count }</span>
     }
@@ -454,7 +454,7 @@ about-logins-import-dialog-error-file-format-description = Неверные ил
 about-logins-import-dialog-error-file-permission-title = Не удалось прочитать файл
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } не имеет прав на чтение файла. Попробуйте сменить разрешения для файла.
 about-logins-import-dialog-error-unable-to-read-title = Не удалось обработать файл
-about-logins-import-dialog-error-unable-to-read-description = Проверьте, что вы действительно выбрали CSV- или TSV-файл.
+about-logins-import-dialog-error-unable-to-read-description = Проверьте, что вы действительно выбрали CSV или TSV-файл.
 about-logins-import-dialog-error-no-logins-imported = Ни один логин не импортирован
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-import-again = Повторить попытку импорта…
@@ -466,19 +466,19 @@ about-logins-import-report-description2 = Пароли импортирован�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Строка { $number }
-about-logins-import-report-row-description-no-change = Дубликат: Такой логин уже существует
-about-logins-import-report-row-description-modified = Существующий логин обновлен
+about-logins-import-report-row-description-no-change = Дубликат: такой логин уже существует
+about-logins-import-report-row-description-modified = Существующий логин обновлён
 about-logins-import-report-row-description-added = Новый логин добавлен
 about-logins-import-report-row-description-no-change2 = Дубликат: точное совпадение с существующей записью
 about-logins-import-report-row-description-modified2 = Существующая запись обновлена
 about-logins-import-report-row-description-added2 = Добавлен новый пароль
-about-logins-import-report-row-description-error = Ошибка: Отсутствует поле
+about-logins-import-report-row-description-error = Ошибка: отсутствует поле
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Ошибка: Несколько значений для { $field }
+about-logins-import-report-row-description-error-multiple-values = Ошибка: несколько значений для { $field }
 about-logins-import-report-row-description-error-missing-field = Ошибка: Отсутствует { $field }
 
 ##
@@ -499,7 +499,7 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортирован)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
     }

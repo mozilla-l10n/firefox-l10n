@@ -250,11 +250,11 @@ mr2022-onboarding-colorway-tooltip-playmaker2 =
 mr2022-onboarding-colorway-description-playmaker = <b>Вы — Создатель игр.</b> Вы создаёте возможности победить и помогаете всем вокруг поднять их игру на новый уровень.
 mr2022-onboarding-colorway-label-expressionist = Экспрессионист
 mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Экспрессионист (желтый)
+    .title = Экспрессионист (жёлтый)
 mr2022-onboarding-colorway-description-expressionist = <b>Вы — Экспрессионист.</b> Вы видите мир иначе, а ваши творения поражают остальных.
 mr2022-onboarding-colorway-label-visionary = Провидец
 mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Провидец (зеленый)
+    .title = Провидец (зелёный)
 mr2022-onboarding-colorway-description-visionary = <b>Вы — Провидец.</b> Вы ставите под сомнение статус-кво и побуждаете остальных представлять лучшее будущее.
 mr2022-onboarding-colorway-label-activist = Активист
 mr2022-onboarding-colorway-tooltip-activist2 =
@@ -326,7 +326,7 @@ mr2022-onboarding-privacy-segmentation-image-alt =
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Вид на закат через окно с лисой и комнатным растением на подоконнике
 mr2022-onboarding-colorways-image-alt =
-    .aria-label = Баллончик с краской рисует красочный коллаж из зеленого глаза, оранжевой обуви, красного баскетбольного мяча, фиолетовых наушников, синего сердца и желтой короны
+    .aria-label = Баллончик с краской рисует красочный коллаж из зелёного глаза, оранжевой обуви, красного баскетбольного мяча, фиолетовых наушников, синего сердца и жёлтой короны
 
 ## Device migration onboarding
 

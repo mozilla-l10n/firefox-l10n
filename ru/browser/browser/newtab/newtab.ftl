@@ -317,7 +317,7 @@ newtab-wallpaper-category-title-colors = Сплошные цвета
 newtab-wallpaper-blue = Синий
 newtab-wallpaper-light-blue = Голубой
 newtab-wallpaper-light-purple = Светло-фиолетовый
-newtab-wallpaper-light-green = Светло-зеленый
+newtab-wallpaper-light-green = Светло-зелёный
 newtab-wallpaper-green = Зелёный
 newtab-wallpaper-beige = Бежевый
 newtab-wallpaper-yellow = Жёлтый
@@ -325,15 +325,15 @@ newtab-wallpaper-orange = Оранжевый
 newtab-wallpaper-pink = Розовый
 newtab-wallpaper-light-pink = Светло-розовый
 newtab-wallpaper-red = Красный
-newtab-wallpaper-dark-blue = Темно-синий
-newtab-wallpaper-dark-purple = Темно-фиолетовый
-newtab-wallpaper-dark-green = Темно-зеленый
+newtab-wallpaper-dark-blue = Тёмно-синий
+newtab-wallpaper-dark-purple = Тёмно-фиолетовый
+newtab-wallpaper-dark-green = Тёмно-зелёный
 newtab-wallpaper-brown = Коричневый
 
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Абстракция
-newtab-wallpaper-abstract-green = Зеленые формы
+newtab-wallpaper-abstract-green = Зелёные формы
 newtab-wallpaper-abstract-blue = Синие формы
 newtab-wallpaper-abstract-purple = Фиолетовые формы
 newtab-wallpaper-abstract-orange = Оранжевые формы
