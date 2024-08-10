@@ -18,3 +18,5 @@ genai-settings-chat-choose-one-menuitem =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Demandar a chatbot IA
