@@ -349,3 +349,13 @@ newtab-weather-menu-temperature-units = Unanenn wrezverk
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-learn-more = Gouzout hiroc’h
+
+## Topic Labels
+
+newtab-topic-label-education = Deskadurezh
+newtab-topic-label-arts = Dudi
+newtab-topic-label-food = Boued
+newtab-topic-label-health = Yec’hed
+
+## Topic Selection Modal
+
