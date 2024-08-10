@@ -17,6 +17,14 @@ genai-settings-chat-links = Bir sohbet botu seçtiğinizde o botun sağlayıcıs
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Özetle
+    .value = Seçtiğim metni özetle. Özetin kolay okunabilmesi için başlıklar ve madde işaretli listeler kullan. Anlam bütünlüğünü ve bilgilerin doğruluğunu koru.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Dili basitleştir
+    .value = Seçtiğim metni kısa cümleler ve basit kelimeler kullanarak baştan yaz. Anlam bütünlüğünü ve bilgilerin doğruluğunu koru.
 
 ## Chatbot menu shortcuts
 
