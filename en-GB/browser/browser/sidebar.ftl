@@ -48,12 +48,36 @@ sidebar-customize-settings-header =
     .label = Sidebar settings
 sidebar-visibility-always-show =
     .label = Always show
+sidebar-visibility-hide-sidebar =
+    .label = Hide sidebar
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Manage extension
+sidebar-context-menu-remove-extension =
+    .label = Remove extension
+sidebar-context-menu-report-extension =
+    .label = Report extension
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI chatbot
+sidebar-menu-history-label =
+    .label = History
+sidebar-menu-synced-tabs-label =
+    .label = Tabs from other devices
+sidebar-menu-bookmarks-label =
+    .label = Bookmarks
+sidebar-menu-customize-label =
+    .label = Customise sidebar
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Customise sidebar
+sidebar-menu-history-header =
+    .heading = History
+sidebar-menu-syncedtabs-header =
+    .heading = Tabs from other devices
