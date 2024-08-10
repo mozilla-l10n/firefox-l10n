@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Veprimtari së fundi
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomanduar nga { $provider }
 newtab-section-header-stories = Histori që të vënë në mendim
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Zgjedhjet e sotme për ju
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -388,9 +390,28 @@ newtab-weather-error-not-available = S’ka të dhëna moti tani për tani.
 
 ## Topic Labels
 
+newtab-topic-label-business = Biznes
+newtab-topic-label-career = Punësime
+newtab-topic-label-education = Edukim
+newtab-topic-label-arts = Spektakël
+newtab-topic-label-food = Ushqim
+newtab-topic-label-health = Shëndet
+newtab-topic-label-hobbies = Lojëra
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Para
+newtab-topic-label-government = Politikë
+newtab-topic-label-education-science = Shkencë
+newtab-topic-label-sports = Sporte
+newtab-topic-label-tech = Teknologji
+newtab-topic-label-travel = Udhëtime
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = Ruaje
 newtab-topic-selection-cancel-button = Anuloje
 newtab-topic-selection-button-maybe-later = Ndoshta më vonë
+newtab-topic-selection-privacy-link = Mësoni se si i mbrojmë dhe administrojmë të dhënat
+newtab-topic-selection-button-update-interests = Përditësoni interesat tuaja
+newtab-topic-selection-button-pick-interests = Zgjidhni interesat tuaja
