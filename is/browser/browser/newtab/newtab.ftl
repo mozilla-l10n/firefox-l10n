@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Nýleg virkni
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Með þessu mælir { $provider }
 newtab-section-header-stories = Umhugsunarverðar sögur
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Úrval dagsins fyrir þig
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,3 +415,16 @@ newtab-topic-label-society = Sjálfshjálp
 newtab-topic-label-sports = Íþróttir
 newtab-topic-label-tech = Tækni
 newtab-topic-label-travel = Ferðalög
+newtab-topic-label-home = Heimili & garðar
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Veldu efni til að fínstilla streymið þitt
+newtab-topic-selection-save-button = Vista
+newtab-topic-selection-cancel-button = Hætta við
+newtab-topic-selection-button-maybe-later = Kannski seinna
+newtab-topic-selection-privacy-link = Sjáðu hvernig við verndum og stjórnum gögnum
+newtab-topic-selection-button-update-interests = Uppfærðu áhugamálin þín
+newtab-topic-selection-button-pick-interests = Veldu áhugamálin þín

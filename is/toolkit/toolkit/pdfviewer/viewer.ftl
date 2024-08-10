@@ -392,3 +392,17 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Birta allt
 pdfjs-editor-highlight-show-all-button =
     .title = Birta allt
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Kanna nánar
+pdfjs-editor-new-alt-text-not-now-button = Ekki núna
+pdfjs-editor-new-alt-text-error-close-button = Loka
+
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-delete-model-button = Eyða
+pdfjs-editor-alt-text-settings-download-model-button = Sækja
+pdfjs-editor-alt-text-settings-downloading-model-button = Sæki…
+pdfjs-editor-alt-text-settings-close-button = Loka

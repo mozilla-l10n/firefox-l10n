@@ -338,6 +338,13 @@ onboarding-device-migration-subtitle = Skráðu þig inn á { -fxaccount-brand-n
 onboarding-device-migration-subtitle2 = Skráðu þig inn á reikninginn þinn til að hafa bókamerkin þín, lykilorð og feril með þér yfir á nýja tækið þitt.
 onboarding-device-migration-primary-button-label = Skrá inn
 
+## Add-ons Picker screen
+
+amo-picker-title = Sérsníddu { -brand-short-name }
+amo-picker-install-button-label = Bæta við { -brand-short-name }
+amo-picker-install-complete-label = Uppsett
+amo-picker-collection-link = Skoðaðu fleiri viðbætur
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
