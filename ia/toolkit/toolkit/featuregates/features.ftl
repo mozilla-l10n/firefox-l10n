@@ -50,6 +50,11 @@ experimental-features-ime-search-description = Un IME (Input Method Editor, edit
 experimental-features-auto-pip =
     .label = Imagine annidate: auto aperir al mutation de scheda.
 experimental-features-auto-pip-description = Activar Imagine annidate sur le videos active mutante schedas.
+genai-settings-chat-title =
+    .label = Chatbot IA
+# Updated sidebar settings
+sidebar-title =
+    .label = Barra lateral
 vertical-tabs-title =
     .label = Schedas vertical
 experimental-features-group-browsing =

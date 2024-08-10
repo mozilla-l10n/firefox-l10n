@@ -409,3 +409,9 @@ newtab-topic-label-society = Auto-amelioration
 newtab-topic-label-sports = Sports
 newtab-topic-label-tech = Technologia
 newtab-topic-label-travel = Viages
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Salvar
+newtab-topic-selection-cancel-button = Cancellar
+newtab-topic-selection-button-maybe-later = Forsan un altere vice
