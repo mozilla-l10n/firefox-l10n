@@ -63,3 +63,5 @@ experimental-features-group-developer-tools =
     .label = Instrumentos de disveloppamento
 experimental-features-group-webpage-display =
     .label = Visualisation de pagina web
+experimental-features-group-customize-browsing =
+    .label = Personalisa tu navigation

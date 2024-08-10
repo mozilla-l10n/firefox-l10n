@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Chatbot IA
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Hodie - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-yesterday =
     .heading = Heri - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
@@ -25,6 +31,10 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = Extensiones del barra lateral
+sidebar-vertical-tabs =
+    .label = Schedas vertical
+sidebar-horizontal-tabs =
+    .label = Schedas horizontal
 sidebar-customize-tabs-header =
     .label = Configurationes del schedas
 sidebar-customize-settings-header =
@@ -36,6 +46,10 @@ sidebar-visibility-hide-sidebar =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Gerer extension
+sidebar-context-menu-remove-extension =
+    .label = Remover extension
 sidebar-context-menu-report-extension =
     .label = Signalar extension
 
