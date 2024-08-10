@@ -4,6 +4,7 @@
 
 about-networking-title = Rreth Punimit në Rrjet
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Spastro Fshehtinë HTTP
 about-networking-sockets = Socket-e
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Spastro Fshehtinë DNS-je

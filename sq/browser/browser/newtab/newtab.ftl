@@ -385,3 +385,12 @@ newtab-weather-menu-hide-weather = Fshihe motin në Skedë të Re
 newtab-weather-menu-learn-more = Mësoni më tepër
 # This message is shown if user is working offline
 newtab-weather-error-not-available = S’ka të dhëna moti tani për tani.
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Ruaje
+newtab-topic-selection-cancel-button = Anuloje
+newtab-topic-selection-button-maybe-later = Ndoshta më vonë
