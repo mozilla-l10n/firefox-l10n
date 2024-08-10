@@ -31,6 +31,14 @@ sidebar-history-delete =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-customize-label =
+    .label = Personalizar barra lateral
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personalizar barra lateral
+sidebar-menu-history-header =
+    .heading = Historial
+sidebar-menu-syncedtabs-header =
+    .heading = Pestañas de otros dispositivos
