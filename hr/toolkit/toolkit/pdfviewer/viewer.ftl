@@ -102,7 +102,7 @@ pdfjs-spread-even-button-label = Parne duplerice
 pdfjs-document-properties-button =
     .title = Svojstva dokumenta …
 pdfjs-document-properties-button-label = Svojstva dokumenta …
-pdfjs-document-properties-file-name = Naziv datoteke:
+pdfjs-document-properties-file-name = Ime datoteke:
 pdfjs-document-properties-file-size = Veličina datoteke:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
@@ -394,3 +394,10 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Prikaži sve
 pdfjs-editor-highlight-show-all-button =
     .title = Prikaži sve
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+

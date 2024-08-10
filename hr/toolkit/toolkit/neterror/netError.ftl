@@ -77,7 +77,7 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se
 
 ##
 
-neterror-file-not-found-filename = Provjeri naziv datoteke, te postoji li pravopisna ili tipografska greška.
+neterror-file-not-found-filename = Provjeri ime datoteke (korištenje velikih i malih slova ili druge greške pri tipkanju).
 neterror-file-not-found-moved = Provjeri, je li datoteka premještena, preimenovana ili izbrisana.
 neterror-access-denied = Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.
 neterror-unknown-protocol = Možda je potrebno instalirati jedan drugi program za otvaranje ove adrese.
