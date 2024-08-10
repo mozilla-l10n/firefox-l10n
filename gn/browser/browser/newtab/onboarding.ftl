@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Eguereko { -brand-short-name } Dock-pe
        *[other] Emboja { -brand-short-name } tembiapo rendáre
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Emboja { -brand-short-name } tembiapo ra’ãngarupa ha ñepyrũha poravorãre
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -338,6 +340,7 @@ onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
 
 ## Add-ons Picker screen
 
+amo-picker-title = Emomba’e nde { -brand-short-name }
 amo-picker-install-button-label = Embojuaju { -brand-short-name } rehe
 amo-picker-install-complete-label = Oñemohendapyréva
 amo-picker-collection-link = Ejepovyvyve moĩmbaháre
