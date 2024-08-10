@@ -31,6 +31,14 @@ permission-dialog-set-change-app-link = Изберете друго прилож
 ## Variables:
 ##  $scheme (string) - The type of link that's being opened.
 
+chooser-window =
+    .title = Изберете приложение
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Това може да бъде променено в настройките на { -brand-short-name }.
+       *[other] Това може да бъде променено в настройките на { -brand-short-name }.
+    }
 choose-other-app-description = Избиране на друго приложение
 choose-app-btn =
     .label = Избиране…
