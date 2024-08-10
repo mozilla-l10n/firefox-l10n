@@ -427,5 +427,6 @@ newtab-topic-selection-subtitle = Elegí dos o más temas. Nuestros curadores ex
 newtab-topic-selection-save-button = Guardar
 newtab-topic-selection-cancel-button = Cancelar
 newtab-topic-selection-button-maybe-later = Quizá más tarde
+newtab-topic-selection-privacy-link = Conocer cómo protegemos y administramos los datos
 newtab-topic-selection-button-update-interests = Actualizá tus intereses
 newtab-topic-selection-button-pick-interests = Elegí tus intereses

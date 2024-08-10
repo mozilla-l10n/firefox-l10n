@@ -341,8 +341,10 @@ onboarding-device-migration-primary-button-label = Iniciar la sesión
 ## Add-ons Picker screen
 
 amo-picker-title = Personalizá tu { -brand-short-name }
+amo-picker-subtitle = Las extensiones son como aplicaciones para el navegador y permiten proteger contraseñas, descargar videos, encontrar ofertas, bloquear publicidades molestas, cambiar la apariencia del navegador y mucho más.
 amo-picker-install-button-label = Añadir a { -brand-short-name }
 amo-picker-install-complete-label = Instalado
+amo-picker-collection-link = Explorar más complementos
 
 ## The following screens have been updated to use security and privacy focused strings:
 
