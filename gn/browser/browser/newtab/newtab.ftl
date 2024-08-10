@@ -418,6 +418,9 @@ newtab-topic-label-home = Óga ha yvotyty
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Eiporavo téma emoporãve hag̃ua ne canal
 newtab-topic-selection-save-button = Ñongatu
 newtab-topic-selection-cancel-button = Heja
 newtab-topic-selection-button-maybe-later = Ikatu ag̃amieve

@@ -15,6 +15,18 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Mombyky
+    .value = Emombyky poravoha eiporúvo ñe’ẽ ha’ete ha mbykýva. Eiporu myakãha ha viñéta rysýi mombykykuépe oñemoñe’ẽrei hag̃ua. Ehecha he’iséva ha oikoteéva.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Ñe’ẽngue ñemomichĩ
+    .value = Ehai jey poravoha eiporúvo ñe’ẽjoaju mbyky ha hasy’ỹva. Ehecha he’iséva ha oikoteéva.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Aime kuatiarogue “{ $tabTitle }” “{ $selection }” poravopyre ndive.
 
 ## Chatbot menu shortcuts
 
