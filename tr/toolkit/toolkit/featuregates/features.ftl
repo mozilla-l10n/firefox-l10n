@@ -55,8 +55,10 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Kenar çubuğu
+sidebar-description = Gezinirken geçmişinize, diğer cihazlardaki sekmelere, kenar çubuğu uzantılarına ve daha fazlasına kolayca erişin. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
 vertical-tabs-title =
     .label = Dikey sekmeler
+vertical-tabs-description = Sekmelerinizi tarayıcının üst kısmından kenara taşıyın. Kenar çubuğunu da etkinleştirmeniz gerekir. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
 experimental-features-group-browsing =
     .label = Gezinti
 experimental-features-group-developer-tools =
