@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Εξήγησε αυτό
     .value = Εξήγησε τις βασικές ιδέες αυτής της επιλογής με απλές λέξεις και χρήση παραδειγμάτων.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Βρίσκομαι στη σελίδα «{ $tabTitle }» με επιλεγμένο το «{ $selection }».
 
 ## Chatbot menu shortcuts
 
