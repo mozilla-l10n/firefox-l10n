@@ -356,6 +356,18 @@ newtab-topic-label-education = Deskadurezh
 newtab-topic-label-arts = Dudi
 newtab-topic-label-food = Boued
 newtab-topic-label-health = Yec’hed
+newtab-topic-label-hobbies = C’hoarioù video
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Arc’hant
+newtab-topic-label-government = Politikerezh
+newtab-topic-label-education-science = Skiantoù
+newtab-topic-label-sports = Sportoù
+newtab-topic-label-tech = Teknologiezh
+newtab-topic-label-travel = Beajiñ
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Enrollañ
+newtab-topic-selection-cancel-button = Nullañ

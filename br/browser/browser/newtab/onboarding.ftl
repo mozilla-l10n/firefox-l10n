@@ -273,6 +273,11 @@ mr2022-onboarding-default-image-alt =
 onboarding-device-migration-title = Donemat en-dro!
 onboarding-device-migration-primary-button-label = Kennaskañ
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Ouzhpennañ da { -brand-short-name }
+amo-picker-install-complete-label = Staliet
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
