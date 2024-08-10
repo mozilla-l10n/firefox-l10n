@@ -412,6 +412,12 @@ pdfjs-editor-new-alt-text-not-now-button = Şimdi değil
 pdfjs-editor-new-alt-text-error-title = Alt metin otomatik olarak oluşturulamadı
 pdfjs-editor-new-alt-text-error-description = Lütfen kendi alt metninizi yazın veya daha sonra yeniden deneyin.
 pdfjs-editor-new-alt-text-error-close-button = Kapat
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Alt metin yapay zekâ modeli indiriliyor ({ $downloadedSize } / { $totalSize } MB)
+    .aria-valuetext = Alt metin yapay zekâ modeli indiriliyor ({ $downloadedSize } / { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alt metin eklendi
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -432,6 +438,9 @@ pdfjs-editor-alt-text-settings-dialog-label = Resim alt metni ayarları
 pdfjs-editor-alt-text-settings-automatic-title = Otomatik alt metin
 pdfjs-editor-alt-text-settings-create-model-button-label = Otomatik olarak alt metin oluştur
 pdfjs-editor-alt-text-settings-create-model-description = Görme engelli kişilere gösterilecek veya resmin yüklenemediği durumlarda gösterilecek açıklamalar önerir.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Alt metin yapay zekâ modeli ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-ai-model-description = Verilerinizin gizli kalması için cihazınızda yerel olarak çalışır. Otomatik alt metin için gereklidir.
 pdfjs-editor-alt-text-settings-delete-model-button = Sil
 pdfjs-editor-alt-text-settings-download-model-button = İndir
