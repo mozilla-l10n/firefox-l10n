@@ -437,3 +437,6 @@ pdfjs-editor-alt-text-settings-delete-model-button = Borrar
 pdfjs-editor-alt-text-settings-download-model-button = Descargar
 pdfjs-editor-alt-text-settings-downloading-model-button = Descargando…
 pdfjs-editor-alt-text-settings-editor-title = Editor de texto alternativo
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostrar el editor de texto alternativo inmediatamente al agregar una imagen
+pdfjs-editor-alt-text-settings-show-dialog-description = Te ayuda a asegurarse de que todas las imágenes tengan texto alternativo.
+pdfjs-editor-alt-text-settings-close-button = Cerrar
