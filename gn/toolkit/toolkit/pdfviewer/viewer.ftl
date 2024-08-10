@@ -442,4 +442,6 @@ pdfjs-editor-alt-text-settings-delete-model-button = Mboguete
 pdfjs-editor-alt-text-settings-download-model-button = Mboguejy
 pdfjs-editor-alt-text-settings-downloading-model-button = Emboguejyhína…
 pdfjs-editor-alt-text-settings-editor-title = Moñe’ẽrã mokõiha mbosako’iha
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Ehechauka moñe’ẽrã mokõiha mbosako’iha embojuajúvo ta’ãnga
+pdfjs-editor-alt-text-settings-show-dialog-description = Nepytyvõta ta’ãngakuéra orekotaha moñe’ẽrã mokõiha.
 pdfjs-editor-alt-text-settings-close-button = Mboty
