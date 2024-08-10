@@ -316,7 +316,7 @@ download-choose-folder =
            *[other] Р
         }
 download-always-ask-where =
-    .label = Винаги да пита къде да бъдат запазвани файловете
+    .label = Винаги да се пита къде да бъдат запазвани файловете
     .accesskey = В
 applications-header = Приложения
 applications-description = Изберете как { -brand-short-name } управлява изтеглените файлове или приложенията, които използвате докато разглеждате.
