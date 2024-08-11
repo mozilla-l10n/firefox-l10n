@@ -52,6 +52,7 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } няма достъп до профилите на другите браузъри, инсталирани на това устройство.
 
 ## These strings will be displayed based on how many resources are selected to import
 

@@ -15,6 +15,7 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = Да бъде ли избран { -brand-short-name } за основен четец?
 default-browser-prompt-message-pin = Дръжте { -brand-short-name } наблизо като го направите четец по подразбиране и го закачите към лентата със задачи.
 default-browser-prompt-message-pin-mac = Дръжте { -brand-short-name } наблизо като го направите четец по подразбиране и го държите в Dock.
+default-browser-prompt-button-primary-set = Задаване като основен браузър
 default-browser-prompt-button-primary-pin = Направете основен четец
 default-browser-prompt-title-alt = Да бъде ли избран { -brand-short-name } за четец по подразбиране?
 default-browser-prompt-message-alt = Получавате скорост, безопасност и сигурност всеки път когато разглеждате.

@@ -23,6 +23,7 @@ policy-DisablePrivateBrowsing = Изключва поверителното ра
 policy-DisableTelemetry = Изключва телеметрията.
 policy-DisplayMenuBar = Показва лентата с менюто по подразбиране.
 policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
+policy-DontCheckDefaultBrowser = Изключване на проверката за браузър по подразбиране при стартиране.
 policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
