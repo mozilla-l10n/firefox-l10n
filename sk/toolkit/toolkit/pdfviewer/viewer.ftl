@@ -51,12 +51,6 @@ pdfjs-download-button-label = Stiahnuť
 pdfjs-bookmark-button =
     .title = Aktuálna stránka (zobraziť adresu URL z aktuálnej stránky)
 pdfjs-bookmark-button-label = Aktuálna stránka
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Otvoriť v aplikácii
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Otvoriť v aplikácii
 
 ##  Secondary toolbar and context menu
 
@@ -308,8 +302,6 @@ pdfjs-editor-stamp-button-label = Pridať alebo upraviť obrázky
 pdfjs-editor-highlight-button =
     .title = Zvýrazniť
 pdfjs-editor-highlight-button-label = Zvýrazniť
-pdfjs-highlight-floating-button =
-    .title = Zvýrazniť
 pdfjs-highlight-floating-button1 =
     .title = Zvýrazniť
     .aria-label = Zvýrazniť
@@ -404,3 +396,41 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Zobraziť všetko
 pdfjs-editor-highlight-show-all-button =
     .title = Zobraziť všetko
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Ďalšie informácie
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automaticky vytvoriť alternatívny text
+pdfjs-editor-new-alt-text-not-now-button = Teraz nie
+pdfjs-editor-new-alt-text-error-title = Alternatívny text sa nepodarilo vytvoriť automaticky
+pdfjs-editor-new-alt-text-error-description = Napíšte svoj vlastný alternatívny text alebo to skúste znova neskôr.
+pdfjs-editor-new-alt-text-error-close-button = Zavrieť
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Sťahuje sa alternatívny textový AI model ({ $downloadedSize } z { $totalSize } MB)
+    .aria-valuetext = Sťahuje sa alternatívny textový AI model ({ $downloadedSize } z { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Alternatívny text bol pridaný
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Chýbajúci alternatívny text
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Skontrolovať alternatívny text
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Vytvorené automaticky: { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Nastavenia alternatívneho textu obrázka
+pdfjs-image-alt-text-settings-button-label = Nastavenia alternatívneho textu obrázka
+pdfjs-editor-alt-text-settings-dialog-label = Nastavenia alternatívneho textu obrázka
+pdfjs-editor-alt-text-settings-automatic-title = Automatický alternatívny text
+pdfjs-editor-alt-text-settings-delete-model-button = Odstrániť
+pdfjs-editor-alt-text-settings-download-model-button = Stiahnuť
+pdfjs-editor-alt-text-settings-downloading-model-button = Sťahuje sa…
+pdfjs-editor-alt-text-settings-close-button = Zavrieť
