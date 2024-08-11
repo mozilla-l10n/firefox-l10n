@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Prihláste sa do svojho { -fxaccount-bran
 onboarding-device-migration-subtitle2 = Prihláste sa do svojho účtu a preneste si svoje záložky, heslá a históriu na vaše nové zariadenie.
 onboarding-device-migration-primary-button-label = Prihlásiť sa
 
+## Add-ons Picker screen
+
+amo-picker-title = Prispôsobte si svoj { -brand-short-name }
+amo-picker-subtitle = Rozšírenia sú ako aplikácie pre váš prehliadač a umožňujú vám chrániť heslá, sťahovať videá, hľadať ponuky, blokovať otravné reklamy, meniť vzhľad vášho prehliadača a oveľa viac.
+amo-picker-install-button-label = Pridať do { -brand-short-name(case: "gen") }
+amo-picker-install-complete-label = Nainštalované
+amo-picker-collection-link = Preskúmajte ďalšie doplnky
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
