@@ -52,3 +52,11 @@ genai-prompt-prefix-selection = Rwyf ar dudalen “{ $tabTitle }” gyda “{ $s
 
 genai-menu-ask-generic =
     .label = Gofynnwch i sgwrsfot AI
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Gofynnwch i { $provider }
+genai-input-ask-generic =
+    .placeholder = Gofynnwch i sgwrsfot AI…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Gofynnwch i { $provider }…

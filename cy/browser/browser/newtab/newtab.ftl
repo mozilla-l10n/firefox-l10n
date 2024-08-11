@@ -201,6 +201,8 @@ newtab-section-header-recent-activity = Gweithgaredd diweddar
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Argymhellwyd gan { $provider }
 newtab-section-header-stories = Straeon sy’n procio’r meddwl
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dewisiadau heddiw i chi
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -418,3 +420,19 @@ newtab-topic-label-society = Gwella'ch Bywyd
 newtab-topic-label-sports = Chwaraeon
 newtab-topic-label-tech = Technoleg
 newtab-topic-label-travel = Teithio
+newtab-topic-label-home = Cartref a Gardd
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Dewiswch bynciau i fireinio'ch llif
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Dewiswch ddau bwnc neu fwy. Mae ein curaduron arbenigol yn blaenoriaethu straeon sydd wedi'u teilwra i'ch diddordebau. Diweddarwch nhw ar unrhyw adeg.
+newtab-topic-selection-save-button = Cadw
+newtab-topic-selection-cancel-button = Diddymu
+newtab-topic-selection-button-maybe-later = Rhywbryd eto
+newtab-topic-selection-privacy-link = Dysgwch sut rydym yn diogelu ac yn rheoli data
+newtab-topic-selection-button-update-interests = Diweddarwch eich diddordebau
+newtab-topic-selection-button-pick-interests = Dewiswch eich diddordebau

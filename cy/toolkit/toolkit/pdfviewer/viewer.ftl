@@ -51,12 +51,6 @@ pdfjs-download-button-label = Llwytho i lawr
 pdfjs-bookmark-button =
     .title = Tudalen Gyfredol (Gweld URL o'r Dudalen Gyfredol)
 pdfjs-bookmark-button-label = Tudalen Gyfredol
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Agor yn yr ap
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Agor yn yr ap
 
 ##  Secondary toolbar and context menu
 
@@ -312,8 +306,6 @@ pdfjs-editor-stamp-button-label = Ychwanegu neu olygu delweddau
 pdfjs-editor-highlight-button =
     .title = Amlygu
 pdfjs-editor-highlight-button-label = Amlygu
-pdfjs-highlight-floating-button =
-    .title = Amlygu
 pdfjs-highlight-floating-button1 =
     .title = Amlygu
     .aria-label = Amlygu
@@ -408,3 +400,28 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Dangos y cyfan
 pdfjs-editor-highlight-show-all-button =
     .title = Dangos y cyfan
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Gosodiadau testun amgen delwedd
+pdfjs-image-alt-text-settings-button-label = Gosodiadau testun amgen delwedd
+pdfjs-editor-alt-text-settings-dialog-label = Gosodiadau testun amgen delwedd
+pdfjs-editor-alt-text-settings-automatic-title = Testun amgen awtomatig
+pdfjs-editor-alt-text-settings-create-model-button-label = Creu testun amgen yn awtomatig
+pdfjs-editor-alt-text-settings-create-model-description = Yn awgrymu disgrifiadau i helpu pobl sydd ddim yn gallu gweld y ddelwedd neu pan nad yw'r ddelwedd yn llwytho.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model AI testun amgen ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Yn rhedeg yn lleol ar eich dyfais fel bod eich data'n aros yn breifat. Yn ofynnol ar gyfer testun amgen awtomatig.
+pdfjs-editor-alt-text-settings-delete-model-button = Dileu
+pdfjs-editor-alt-text-settings-download-model-button = Llwytho i Lawr
+pdfjs-editor-alt-text-settings-downloading-model-button = Wrthi'n llwytho i lawr…
+pdfjs-editor-alt-text-settings-editor-title = Golygydd testun amgen
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Dangoswch y golygydd testun amgen yn syth wrth ychwanegu delwedd
+pdfjs-editor-alt-text-settings-show-dialog-description = Yn eich helpu i wneud yn siŵr bod gan eich holl ddelweddau destun amgen.
+pdfjs-editor-alt-text-settings-close-button = Cau
