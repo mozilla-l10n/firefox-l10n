@@ -1360,6 +1360,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 
 httpsonly-header = Berre HTTPS-modus
 httpsonly-description = HTTPS gir eit trygt, kryptert samband mellom { -brand-short-name } og nettstadane du besøkjer. Dei fleste nettstadar støttar HTTPS, og dersom berre HTTPS-modus er slått på, vil { -brand-short-name } oppgradere alle tilkoplingar til HTTPS.
+httpsonly-description2 = { -brand-short-name } opprettar sikre og krypterte tilkoplingar til nettstadar du besøkjer. { -brand-short-name } vil åtvare deg dersom ei tilkopling ikkje er sikker når Berre-HTTPS er på.
 httpsonly-learn-more = Les meir
 httpsonly-radio-enabled =
     .label = Slå på berre HTTPS-modus i alle vindauge

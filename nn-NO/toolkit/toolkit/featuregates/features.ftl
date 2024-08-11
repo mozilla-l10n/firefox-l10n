@@ -50,6 +50,7 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) er 
 sidebar-title =
     .label = Sidestolpe
 sidebar-description = Få enkel tilgang  til historikken din, faner frå andre einingar, sidestolpe-utvidingar, og meir, når du surfar. <a data-l10n-name="connect">Dela feedback</a>
+vertical-tabs-description = Flytt fanene dine frå toppen av nettlesaren til sida. Dette krev at du aktiverer sidestolpen. <a data-l10n-name="connect">Del tilbakemelding</a>
 experimental-features-group-browsing =
     .label = Nettlesing
 experimental-features-group-developer-tools =
