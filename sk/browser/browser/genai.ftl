@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Výberom služby Google Gemini vyjadrujete s�
 genai-settings-chat-huggingchat-links = Výberom služby HuggingChat vyjadrujete súhlas s <a data-l10n-name="link1">Oznámením o ochrane osobných údajov služby HuggingChat</a> a <a data-l10n-name="link2">Zásadami ochrany osobných údajov služby Hugging Face</a>.
 genai-settings-chat-lechat-links = Výberom Le Chat Mistral vyjadrujete súhlas s <a data-l10n-name="link1">Zmluvnými podmienkami</a> a <a data-l10n-name="link2">Zásadami ochrany osobných údajov</a> Mistral AI.
 genai-settings-chat-localhost-links = Prineste si svojho vlastného súkromného lokálneho chatbota, ako je napríklad <a data-l10n-name="link1">llamafile</a> zo skupiny inovácií { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Po označení textu zobrazí odkazy na výzvu pre chatbota. { -brand-short-name } odošle text, názov stránky a výzvu chatbotovi.
+    .label = Zobrazí výzvy po označení textu
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
