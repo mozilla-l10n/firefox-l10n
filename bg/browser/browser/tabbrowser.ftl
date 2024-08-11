@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Нов раздел
+tabbrowser-empty-private-tab-title = Нов поверителен раздел
 tabbrowser-menuitem-close-tab =
     .label = Затваряне на раздела
 tabbrowser-menuitem-close =
