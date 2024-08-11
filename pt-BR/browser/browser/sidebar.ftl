@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Chatbot de inteligência artificial
 
 ## Labels for sidebar history panel
 
@@ -41,23 +43,37 @@ sidebar-horizontal-tabs =
     .label = Abas horizontais
 sidebar-customize-tabs-header =
     .label = Configurações das abas
+sidebar-customize-settings-header =
+    .label = Configurações do painel lateral
+sidebar-visibility-hide-sidebar =
+    .label = Ocular painel lateral
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Gerenciar extensão
+sidebar-context-menu-remove-extension =
+    .label = Remover extensão
 sidebar-context-menu-report-extension =
     .label = Denunciar extensão
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Chatbot de inteligência artificial
 sidebar-menu-history-label =
     .label = Histórico
 sidebar-menu-synced-tabs-label =
     .label = Abas de outros dispositivos
 sidebar-menu-bookmarks-label =
     .label = Favoritos
+sidebar-menu-customize-label =
+    .label = Personalizar painel lateral
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personalizar painel lateral
 sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =

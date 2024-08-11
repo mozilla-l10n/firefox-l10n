@@ -50,6 +50,11 @@ experimental-features-ime-search-description = Um IME (Input Method Editor, ou e
 experimental-features-auto-pip =
     .label = Picture-in-Picture: abertura automática ao mudar de aba
 experimental-features-auto-pip-description = Ativar picture-in-picture de vídeos ativos ao mudar de aba.
+genai-settings-chat-title =
+    .label = Chatbot de inteligência artificial
+# Updated sidebar settings
+sidebar-title =
+    .label = Painel lateral
 vertical-tabs-title =
     .label = Abas verticais
 experimental-features-group-browsing =

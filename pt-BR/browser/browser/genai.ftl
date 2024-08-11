@@ -30,6 +30,10 @@ genai-settings-chat-shortcuts =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Perguntar ao chatbot de inteligência artificial
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Consultar { $provider }
+genai-input-ask-generic =
+    .placeholder = Perguntar ao chatbot de inteligência artificial…
