@@ -340,6 +340,7 @@ onboarding-device-migration-primary-button-label = Logg inn
 ## Add-ons Picker screen
 
 amo-picker-title = Tilpass { -brand-short-name }
+amo-picker-subtitle = Utvidingar er som appar for nettlesaren din og dei lèt deg deg beskytte passord, laste ned videoar, finne tilbod, blokkere irriterande annonsar, endre korleis nettlesaren din ser ut, og mykje meir.
 amo-picker-install-button-label = Legg til i { -brand-short-name }
 amo-picker-install-complete-label = Installert
 amo-picker-collection-link = Utforsk fleire tillegg
