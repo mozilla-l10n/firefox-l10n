@@ -1123,7 +1123,7 @@ addressbar-quickactions-learn-more = Научете повече
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Подобрена защита от проследяване
-content-blocking-section-top-level-description = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
+content-blocking-section-top-level-description = Проследяващите сайтове ви следват онлайн, като събират информация за вашите навици и интереси. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
 content-blocking-learn-more = Научете повече
 content-blocking-fpi-incompatibility-warning = Използвате изолация от първа страна (FPI), която отменя някои от настройките на бисквитките на { -brand-short-name }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
