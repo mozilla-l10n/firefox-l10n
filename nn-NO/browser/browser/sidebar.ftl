@@ -75,6 +75,8 @@ sidebar-menu-customize-label =
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Tilpass sidestolpe
 sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =

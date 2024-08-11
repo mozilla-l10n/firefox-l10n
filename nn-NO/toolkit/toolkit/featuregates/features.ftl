@@ -46,7 +46,14 @@ experimental-features-js-warp-description = Slå på Warp, eit prosjekt for å f
 experimental-features-ime-search =
     .label = Adresselinja: Vis resultat under IME-samansetjing
 experimental-features-ime-search-description = Ein IME (Input Method Editor) er eit verktøy som lar deg skrive inn komplekse symbol, til dømes dei som vert brukte i austasiatiske eller Indiske skriftspråk, ved hjelp av eit standardtastatur. Aktivering av dette eksperimentet held adresselinjepanelet ope, viser søkjeresultat og forslag medan du brukar IME til å leggje inn tekst. Merk at IME kan vise eit panel som dekkjer resultata i adresselinja, og derfor er denne preferansen berre tilrådd for IME som ikkje brukar denne typen panel.
+# Updated sidebar settings
+sidebar-title =
+    .label = Sidestolpe
+sidebar-description = Få enkel tilgang  til historikken din, faner frå andre einingar, sidestolpe-utvidingar, og meir, når du surfar. <a data-l10n-name="connect">Dela feedback</a>
 experimental-features-group-browsing =
     .label = Nettlesing
 experimental-features-group-developer-tools =
     .label = Utviklarverktøy
+experimental-features-group-customize-browsing =
+    .label = Tilpass nettlesinga di
+experimental-features-group-customize-browsing-description = Om du prøver desse funksjonane, <a data-l10n-name="connect">del tankane dine om Connect</a>
