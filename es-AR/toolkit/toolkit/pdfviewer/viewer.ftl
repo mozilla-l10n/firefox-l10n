@@ -412,6 +412,12 @@ pdfjs-editor-new-alt-text-not-now-button = No ahora
 pdfjs-editor-new-alt-text-error-title = No se pudo crear el texto alternativo automáticamente
 pdfjs-editor-new-alt-text-error-description = Escriba su propio texto alternativo o pruebe nuevamente más tarde.
 pdfjs-editor-new-alt-text-error-close-button = Cerrar
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Descargando modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Descargando modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Texto alternativo agregado
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -432,6 +438,9 @@ pdfjs-editor-alt-text-settings-dialog-label = Configuración de texto alternativ
 pdfjs-editor-alt-text-settings-automatic-title = Texto alternativo automático
 pdfjs-editor-alt-text-settings-create-model-button-label = Crear texto alternativo automáticamente
 pdfjs-editor-alt-text-settings-create-model-description = Sugiere descripciones para ayudar a las personas que no pueden ver la imagen o cuando la imagen no se carga.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Modelo de IA de texto alternativo ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-ai-model-description = Se ejecuta localmente en el dispositivo para que los datos se mantengan privados. Requerido para texto alternativo automático.
 pdfjs-editor-alt-text-settings-delete-model-button = Borrar
 pdfjs-editor-alt-text-settings-download-model-button = Descargar

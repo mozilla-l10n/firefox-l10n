@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Al seleccionar Google Gemini, acepta los <a d
 genai-settings-chat-huggingchat-links = Al seleccionar HuggingChat, acepta la <a data-l10n-name="link1">nota de privacidad de HuggingChat</a> y la <a data-l10n-name="link2">política de privacidad de Hugging Face</a>.
 genai-settings-chat-lechat-links = Al seleccionar Le Chat Mistral, acepta los <a data-l10n-name="link1">términos del servicio</a> de Mistral AI y la <a data-l10n-name="link2">política de privacidad</a>.
 genai-settings-chat-localhost-links = Traiga su propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> del grupo de innovación de { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Muestra un acceso directo a los promptss al seleccionar texto. { -brand-short-name } envía el texto, el título de la página y el prompt al chatbot.
+    .label = Mostrar prompts al seleccionar texto
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
