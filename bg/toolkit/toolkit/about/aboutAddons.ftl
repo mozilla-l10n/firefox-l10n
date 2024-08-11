@@ -250,12 +250,12 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Разширенията и темите са като приложения за вашия четец и ви дават
+    Разширенията и темите са като приложения за вашия браузър и ви дават
     възможност за защита на пароли, изтегляне на видеоклипове,
-    намиране на изгодни оферти, блокиране на досадни реклами, промяна
-    на изгледа на четеца и много други. Тези малки софтуерни приложения
+    намиране на изгодни оферти, блокиране на досадните реклами, промяна
+    изгледа на браузъра и много други. Тези малки софтуерни приложения
     често се разработват от трети страни. Ето избраните, които { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">препоръчва</a> за изключителна
+    <a data-l10n-name="learn-more-trigger">препоръчва</a> за превъзходна
     сигурност, производителност и възможности.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
