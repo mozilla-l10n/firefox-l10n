@@ -36,7 +36,7 @@ pippki-reset-password-confirmation-message = Mae eich Prif Gyfrinair wedi cael e
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Llwytho Tystysgrifau i Lawr
+    .title = Wrthi'n Llwytho Tystysgrifau i Lawr
     .style = min-width: 46em
 download-cert-message = Rydych wedi cael cais i ymddiried mewn Awdurdod Tystysgrifo (CA) newydd.
 download-cert-trust-ssl =
