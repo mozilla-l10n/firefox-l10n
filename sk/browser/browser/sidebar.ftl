@@ -17,12 +17,23 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Odstrániť z histórie
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Výsledky vyhľadávania pre “{ $query }”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Rozšírenia pre bočný panel
+sidebar-customize-firefox-tools-header =
+    .label = Nástroje { -brand-product-name(case: "gen") }
+sidebar-customize-firefox-settings = Spravovať nastavenia { -brand-short-name(case: "gen") }
 sidebar-position-left =
     .label = Zobraziť vľavo
 sidebar-position-right =

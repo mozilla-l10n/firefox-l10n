@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Nedávna aktivita
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Odporúča { $provider }
 newtab-section-header-stories = Príbehy na zamyslenie
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dnešný výber pre vás
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -410,10 +412,19 @@ newtab-topic-label-society = Zaujímavé tipy
 newtab-topic-label-sports = Šport
 newtab-topic-label-tech = Technológie
 newtab-topic-label-travel = Cestovanie
+newtab-topic-label-home = Dom a záhrada
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Vyberte témy na doladenie informačného kanála
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Vyberte si dve alebo viac tém. Naši odborní kurátori uprednostňujú príbehy prispôsobené vašim záujmom. Aktualizovať môžete kedykoľvek.
 newtab-topic-selection-save-button = Uložiť
 newtab-topic-selection-cancel-button = Zrušiť
 newtab-topic-selection-button-maybe-later = Možno neskôr
 newtab-topic-selection-privacy-link = Zistite, ako chránime a spravujeme údaje
+newtab-topic-selection-button-update-interests = Aktualizujte svoje záujmy
+newtab-topic-selection-button-pick-interests = Vyberte si svoje záujmy
