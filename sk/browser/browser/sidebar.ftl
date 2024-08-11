@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI Chatbot
 
 ## Labels for sidebar history panel
 
@@ -33,12 +35,38 @@ sidebar-customize-tabs-header =
     .label = Nastavenia kariet
 sidebar-customize-settings-header =
     .label = Nastavenia bočného panela
+sidebar-visibility-always-show =
+    .label = Vždy zobrazovať
+sidebar-visibility-hide-sidebar =
+    .label = Skryť bočný panel
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Spravovať rozšírenie
+sidebar-context-menu-remove-extension =
+    .label = Odstrániť rozšírenie
+sidebar-context-menu-report-extension =
+    .label = Nahlásiť rozšírenie
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI chatbot
+sidebar-menu-history-label =
+    .label = História
+sidebar-menu-synced-tabs-label =
+    .label = Karty z ďalších zariadení
+sidebar-menu-bookmarks-label =
+    .label = Záložky
+sidebar-menu-customize-label =
+    .label = Prispôsobiť bočný panel
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Prispôsobiť bočný panel
+sidebar-menu-history-header =
+    .heading = História
+sidebar-menu-syncedtabs-header =
+    .heading = Karty z ďalších zariadení
