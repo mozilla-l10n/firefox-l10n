@@ -400,6 +400,16 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Upraviť alternatívny text (popis obrázka)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Pridať alternatívny text (popis obrázka)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Sem napíšte svoj popis…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Krátky popis pre ľudí, ktorí nevidia obrázok alebo ak sa obrázok nenačíta.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Tento alternatívny text bol vytvorený automaticky.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Ďalšie informácie
 pdfjs-editor-new-alt-text-create-automatically-button-label = Automaticky vytvoriť alternatívny text
 pdfjs-editor-new-alt-text-not-now-button = Teraz nie
@@ -410,8 +420,8 @@ pdfjs-editor-new-alt-text-error-close-button = Zavrieť
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
-pdfjs-editor-new-alt-text-ai-model-downloading-progress = Sťahuje sa alternatívny textový AI model ({ $downloadedSize } z { $totalSize } MB)
-    .aria-valuetext = Sťahuje sa alternatívny textový AI model ({ $downloadedSize } z { $totalSize } MB)
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Sťahuje sa model AI pre alternatívne texty ({ $downloadedSize } z { $totalSize } MB)
+    .aria-valuetext = Sťahuje sa model AI pre alternatívne texty ({ $downloadedSize } z { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternatívny text bol pridaný
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -430,7 +440,16 @@ pdfjs-image-alt-text-settings-button =
 pdfjs-image-alt-text-settings-button-label = Nastavenia alternatívneho textu obrázka
 pdfjs-editor-alt-text-settings-dialog-label = Nastavenia alternatívneho textu obrázka
 pdfjs-editor-alt-text-settings-automatic-title = Automatický alternatívny text
+pdfjs-editor-alt-text-settings-create-model-button-label = Automaticky vytvoriť alternatívny text
+pdfjs-editor-alt-text-settings-create-model-description = Navrhuje popisy, ktoré pomôžu ľuďom, ktorým sa obrázok nezobrazuje alebo ak sa obrázok nenačíta.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model AI pre alternatívne texty ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Beží lokálne na vašom zariadení, takže vaše dáta zostanú súkromné. Vyžaduje sa pre automatický alternatívny text.
 pdfjs-editor-alt-text-settings-delete-model-button = Odstrániť
 pdfjs-editor-alt-text-settings-download-model-button = Stiahnuť
 pdfjs-editor-alt-text-settings-downloading-model-button = Sťahuje sa…
+pdfjs-editor-alt-text-settings-editor-title = Editor alternatívneho textu
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Pri pridávaní obrázka ihneď zobraziť editor alternatívneho textu
+pdfjs-editor-alt-text-settings-show-dialog-description = Pomáha vám zabezpečiť, aby všetky vaše obrázky mali alternatívny text.
 pdfjs-editor-alt-text-settings-close-button = Zavrieť

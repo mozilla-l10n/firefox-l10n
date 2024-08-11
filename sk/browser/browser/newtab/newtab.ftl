@@ -410,3 +410,10 @@ newtab-topic-label-society = Zaujímavé tipy
 newtab-topic-label-sports = Šport
 newtab-topic-label-tech = Technológie
 newtab-topic-label-travel = Cestovanie
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Uložiť
+newtab-topic-selection-cancel-button = Zrušiť
+newtab-topic-selection-button-maybe-later = Možno neskôr
+newtab-topic-selection-privacy-link = Zistite, ako chránime a spravujeme údaje

@@ -92,6 +92,7 @@ contentEncodingError-title = Chyba kódovania obsahu
 unsafeContentType-title = Nebezpečný typ obsahu
 netReset-title = Výpadok pripojenia
 netTimeout-title = Čas pripojenia vypršal
+serverError-title = Zdá sa, že s touto stránkou je problém
 unknownProtocolFound-title = Adresa nebola rozpoznaná
 proxyConnectFailure-title = Server proxy odmieta pripojenia
 proxyResolveFailure-title = Server proxy nemožno nájsť
