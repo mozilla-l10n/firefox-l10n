@@ -433,6 +433,6 @@ newtab-topic-selection-subtitle = Dewiswch ddau bwnc neu fwy. Mae ein curaduron 
 newtab-topic-selection-save-button = Cadw
 newtab-topic-selection-cancel-button = Diddymu
 newtab-topic-selection-button-maybe-later = Rhywbryd eto
-newtab-topic-selection-privacy-link = Dysgwch sut rydym yn diogelu ac yn rheoli data
+newtab-topic-selection-privacy-link = Dyma sut rydym yn diogelu ac yn rheoli data
 newtab-topic-selection-button-update-interests = Diweddarwch eich diddordebau
 newtab-topic-selection-button-pick-interests = Dewiswch eich diddordebau

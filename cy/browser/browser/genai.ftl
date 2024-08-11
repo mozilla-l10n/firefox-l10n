@@ -5,18 +5,18 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Yn ychwanegu'r sgwrsfot o'ch dewis i'r bar ochr, er mwyn cael mynediad cyflym iddo wrth i chi bori. <a data-l10n-name="connect">Rhannu adborth</a>
+genai-settings-chat-description = Yn ychwanegu'r sgwrsfot rydych wedi'i ddewis i'r bar ochr, er mwyn cael mynediad cyflym iddo wrth i chi bori. <a data-l10n-name="connect">Rhannu adborth</a>
 genai-settings-chat-choose = Dewiswch sgwrsfot
 genai-settings-chat-choose-one-menuitem =
     .label = Dewiswch un
-genai-settings-chat-links = Pan fyddwch chi'n dewis sgwrsfot, rydych chi'n cytuno i delerau defnydd a pholisi preifatrwydd y darparwr.
+genai-settings-chat-links = Pan fyddwch chi'n dewis sgwrsfot, rydych yn cytuno i delerau defnydd a pholisi preifatrwydd y darparwr.
 genai-settings-chat-chatgpt-links = Drwy ddewis ChatGPT, rydych yn cytuno i'r <a data-l10n-name="link1">Telerau Defnydd</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd</a> OpenAI.
-genai-settings-chat-claude-links = Trwy ddewis Anthropic Claude, rydych yn cytuno i'r <a data-l10n-name="link1">Telerau Gwasanaeth Defnyddwyr</a>, <a data-l10n-name="link2">Polisi Defnydd</a>, a'r <a data-l10n-name="link3">Polisi Preifatrwydd</a>.
-genai-settings-chat-copilot-links = Drwy ddewis Copilot, rydych yn cytuno i <a data-l10n-name="link1">Delerau Profiadau Copilot AI</a> a <a data-l10n-name="link2">Datganiad Preifatrwydd Microsoft</a>.
-genai-settings-chat-gemini-links = Trwy ddewis Google Gemini, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth Google</a>, <a data-l10n-name="link2">Polisi Defnydd Gwaharddedig AI Cynhyrchol</a >, a <a data-l10n-name="link3">Hysbysiad Preifatrwydd Apiau Gemini</a>.
-genai-settings-chat-huggingchat-links = Trwy ddewis HuggingChat, rydych chi'n cytuno i'r <a data-l10n-name="link1">Hysbysiad Preifatrwydd HuggingChat</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd Hugging Face</a>.
-genai-settings-chat-lechat-links = Trwy ddewis Le Chat Mistral, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Polisi Preifatrwydd</a> Mistral AI .
-genai-settings-chat-localhost-links = Dewch â'ch sgwrsfot lleol preifat eich hun megis <a data-l10n-name="link1">llamafile</a> { -vendor-short-name }, grŵp Innovation.
+genai-settings-chat-claude-links = Trwy ddewis Anthropic Claude, rydych yn cytuno i'w <a data-l10n-name="link1">Telerau Gwasanaeth Defnyddwyr</a>, <a data-l10n-name="link2">Polisi Defnydd</a>, a'u <a data-l10n-name="link3">Polisi Preifatrwydd</a>.
+genai-settings-chat-copilot-links = Drwy ddewis Copilot, rydych yn cytuno i'w <a data-l10n-name="link1">Telerau Profiadau Copilot AI</a> ac i <a data-l10n-name="link2">Ddatganiad Preifatrwydd Microsoft</a>.
+genai-settings-chat-gemini-links = Trwy ddewis Google Gemini, rydych yn cytuno ia data-l10n-name="link1">Delerau Gwasanaeth Google</a>, <a data-l10n-name="link2">Polisi Defnydd Gwaharddedig AI Cynhyrchol</a >, a <a data-l10n-name="link3">Hysbysiad Preifatrwydd Apiau Gemini</a>.
+genai-settings-chat-huggingchat-links = Trwy ddewis HuggingChat, rydych yn cytuno i'r <a data-l10n-name="link1">Hysbysiad Preifatrwydd HuggingChat</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd Hugging Face</a>.
+genai-settings-chat-lechat-links = Trwy ddewis Le Chat Mistral, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd</a> Mistral AI .
+genai-settings-chat-localhost-links = Defnyddiwch eich sgwrsfot lleol preifat eich hun, megis <a data-l10n-name="link1">llamafile</a> { -vendor-short-name }, grŵp Innovation.
 genai-settings-chat-shortcuts =
     .description = Yn dangos llwybr byr i anogwyr pan fyddwch chi'n dewis testun. Mae { -brand-short-name } yn anfon y testun, teitl y dudalen, a'r anogwr i'r sgwrsfot.
     .label = Dangos anogwr wrth ddewis testun
@@ -41,7 +41,7 @@ genai-prompts-quiz =
     .value = Gofynnwch i mi am y dewis hwn. Gofynnwch i mi amrywiol fathau o gwestiynau, er enghraifft, dewis lluosog, gwir neu gau, ac atebion byr. Arhoswch am fy ateb cyn gofyn y cwestiwn nesaf.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = Esboniwch hyn
+    .label = Esbonio hyn
     .value = Esboniwch y prif gysyniadau yn y dewis hwn, gan ddefnyddio geiriau syml. Hefyd, defnyddiwch esiamplau.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
@@ -51,12 +51,12 @@ genai-prompt-prefix-selection = Rwyf ar dudalen “{ $tabTitle }” gyda “{ $s
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Gofynnwch i sgwrsfot AI
+    .label = Gofynnwch i'r sgwrsfot AI
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Gofynnwch i { $provider }
 genai-input-ask-generic =
-    .placeholder = Gofynnwch i sgwrsfot AI…
+    .placeholder = Gofynnwch i'r sgwrsfot AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Gofynnwch i { $provider }…
