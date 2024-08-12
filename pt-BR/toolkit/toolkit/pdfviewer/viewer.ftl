@@ -441,6 +441,7 @@ pdfjs-editor-alt-text-settings-create-model-description = Sugere uma descrição
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Modelo de inteligência artificial de texto alternativo ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Funciona localmente no seu dispositivo para que seus dados permaneçam privativos. Necessário para texto alternativo automático.
 pdfjs-editor-alt-text-settings-delete-model-button = Excluir
 pdfjs-editor-alt-text-settings-download-model-button = Baixar
 pdfjs-editor-alt-text-settings-downloading-model-button = Baixando…
