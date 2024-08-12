@@ -106,8 +106,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = 新しい住所の追加
 autofill-address-country = 国または地域
