@@ -9,7 +9,7 @@ genai-settings-chat-description = 将所选聊天机器人添加到侧栏，方�
 genai-settings-chat-choose = 选择聊天机器人
 genai-settings-chat-choose-one-menuitem =
     .label = 请选择
-genai-settings-chat-links = 选择聊天机器人，即代表您同意相应提供方的使用条款和隐私声明。
+genai-settings-chat-links = 选择聊天机器人，即代表您同意相应提供方的使用条款和隐私政策。
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
