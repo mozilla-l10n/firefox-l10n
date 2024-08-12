@@ -321,6 +321,10 @@ onboarding-device-migration-subtitle = 登录 { -fxaccount-brand-name(capitaliza
 onboarding-device-migration-subtitle2 = 登录账户即可将您的书签、密码、历史记录同步到新设备。
 onboarding-device-migration-primary-button-label = 登录
 
+## Add-ons Picker screen
+
+amo-picker-collection-link = 探索更多附加组件
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

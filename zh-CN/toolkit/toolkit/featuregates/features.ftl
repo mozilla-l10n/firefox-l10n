@@ -50,9 +50,16 @@ experimental-features-ime-search-description = 对于东亚及印度语言使用
 experimental-features-auto-pip =
     .label = 画中画：切换标签页时自动开启
 experimental-features-auto-pip-description = 切换标签页时，为正在播放的视频启用画中画功能。
+genai-settings-chat-title =
+    .label = AI 聊天机器人
+# Updated sidebar settings
+sidebar-title =
+    .label = 侧栏
 experimental-features-group-browsing =
     .label = 浏览
 experimental-features-group-developer-tools =
     .label = 开发者工具
 experimental-features-group-webpage-display =
     .label = 网页显示
+experimental-features-group-customize-browsing =
+    .label = 定制浏览体验

@@ -413,3 +413,4 @@ newtab-topic-label-travel = 旅行
 
 newtab-topic-selection-save-button = 保存
 newtab-topic-selection-cancel-button = 取消
+newtab-topic-selection-button-maybe-later = 以后再说
