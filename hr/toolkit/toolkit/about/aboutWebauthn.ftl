@@ -31,8 +31,12 @@ about-webauthn-auth-option-uv = Potvrđivanje korisnika
 about-webauthn-auth-option-up = Prisutnost korisnika
 about-webauthn-auth-option-clientpin = PIN klijenta
 about-webauthn-auth-option-plat = Uređaj platforme
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Dozvole za naredbe (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Nema „MakeCredential/GetAssertion” dozvola s PIN-om klijenta
+about-webauthn-auth-option-uvbioenroll = Dozvola za biometrijski upis
+about-webauthn-auth-option-uvacfg = Dozvola za konfiguraciju autentifikatora
 about-webauthn-auth-option-credmgmt = Upravljanje podacima za prijavu
 about-webauthn-auth-option-credentialmgmtpreview = Prototip za upravljanje podacima za prijavu
 about-webauthn-auth-option-setminpinlength = Postavi minimalnu duljinu PIN-a
