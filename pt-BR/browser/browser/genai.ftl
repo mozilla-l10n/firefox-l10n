@@ -37,8 +37,16 @@ genai-prompts-simplify =
     .value = Reescreva a seleção usando frases curtas e palavras simples. Mantenha o significado e a precisão dos fatos.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
-    .label = Pergunte-me
-    .value = Me pergunte sobre essa seleção. Formule vários tipos de perguntas, por exemplo, múltipla escolha, verdadeiro ou falso ou resposta curta. Espere minha resposta antes de passar para a próxima pergunta.
+    .label = Me perguntar
+    .value = Pergunte-me sobre essa seleção. Formule vários tipos de perguntas, por exemplo, múltipla escolha, verdadeiro ou falso ou resposta curta. Espere minha resposta antes de passar para a próxima pergunta.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explicar isto
+    .value = Explique os principais conceitos dessa seleção, usando palavras simples. Use exemplos também.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Estou na página “{ $tabTitle }” com “{ $selection }” selecionado.
 
 ## Chatbot menu shortcuts
 
@@ -49,3 +57,6 @@ genai-menu-ask-provider =
     .label = Consultar { $provider }
 genai-input-ask-generic =
     .placeholder = Perguntar ao chatbot de inteligência artificial…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Consultar { $provider }…
