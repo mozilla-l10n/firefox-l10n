@@ -27,6 +27,14 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumir
+    .value = Faça um resumo da seleção usando uma linguagem precisa e concisa. Use cabeçalhos e listas com marcadores no resumo para facilitar encontrar trechos. Mantenha o significado e a precisão dos fatos.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplificar linguagem
+    .value = Reescreva a seleção usando frases curtas e palavras simples. Mantenha o significado e a precisão dos fatos.
 
 ## Chatbot menu shortcuts
 
