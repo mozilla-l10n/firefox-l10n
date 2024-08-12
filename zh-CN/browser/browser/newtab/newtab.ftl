@@ -408,3 +408,8 @@ newtab-topic-label-society = 自我提升
 newtab-topic-label-sports = 体育
 newtab-topic-label-tech = 科技
 newtab-topic-label-travel = 旅行
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = 保存
+newtab-topic-selection-cancel-button = 取消
