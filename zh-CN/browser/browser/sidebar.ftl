@@ -17,9 +17,29 @@ sidebar-customize-extensions-header = 侧栏扩展
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } 工具
 sidebar-customize-firefox-settings = 管理 { -brand-short-name } 设置
+sidebar-position-left =
+    .label = 在左侧显示
+sidebar-position-right =
+    .label = 在右侧显示
+sidebar-vertical-tabs =
+    .label = 垂直标签页
+sidebar-horizontal-tabs =
+    .label = 水平标签页
+sidebar-customize-tabs-header =
+    .label = 标签页设置
+sidebar-customize-settings-header =
+    .label = 侧栏设置
+sidebar-visibility-always-show =
+    .label = 始终显示
+sidebar-visibility-hide-sidebar =
+    .label = 隐藏侧栏
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-remove-extension =
+    .label = 移除扩展
+sidebar-context-menu-report-extension =
+    .label = 举报扩展
 
 ## Labels for sidebar menu items.
 
@@ -27,6 +47,8 @@ sidebar-menu-genai-chat-label =
     .label = AI 聊天机器人
 sidebar-menu-history-label =
     .label = 历史记录
+sidebar-menu-synced-tabs-label =
+    .label = 其他设备上的标签页
 sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
@@ -38,3 +60,5 @@ sidebar-menu-customize-header =
     .heading = 定制侧栏
 sidebar-menu-history-header =
     .heading = 历史记录
+sidebar-menu-syncedtabs-header =
+    .heading = 其他设备上的标签页

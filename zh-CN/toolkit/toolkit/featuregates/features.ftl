@@ -55,6 +55,8 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = 侧栏
+vertical-tabs-title =
+    .label = 垂直标签页
 experimental-features-group-browsing =
     .label = 浏览
 experimental-features-group-developer-tools =

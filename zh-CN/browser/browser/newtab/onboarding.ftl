@@ -323,6 +323,7 @@ onboarding-device-migration-primary-button-label = 登录
 
 ## Add-ons Picker screen
 
+amo-picker-install-complete-label = 已安装
 amo-picker-collection-link = 探索更多附加组件
 
 ## The following screens have been updated to use security and privacy focused strings:

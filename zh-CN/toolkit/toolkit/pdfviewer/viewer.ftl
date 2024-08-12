@@ -396,3 +396,5 @@ pdfjs-editor-new-alt-text-error-close-button = 关闭
 
 pdfjs-editor-alt-text-settings-delete-model-button = 删除
 pdfjs-editor-alt-text-settings-download-model-button = 下载
+pdfjs-editor-alt-text-settings-downloading-model-button = 正在下载…
+pdfjs-editor-alt-text-settings-close-button = 关闭
