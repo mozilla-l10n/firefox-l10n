@@ -55,8 +55,10 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Painel lateral
+sidebar-description = Acesse facilmente seu histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
 vertical-tabs-title =
     .label = Abas verticais
+vertical-tabs-description = Mova suas abas do topo para o lado do navegador. Requer que você também experimente o painel lateral. <a data-l10n-name="connect">Compartilhar opinião</a>
 experimental-features-group-browsing =
     .label = Navegação
 experimental-features-group-developer-tools =
@@ -65,3 +67,4 @@ experimental-features-group-webpage-display =
     .label = Exibição de página web
 experimental-features-group-customize-browsing =
     .label = Personalize sua navegação
+experimental-features-group-customize-browsing-description = Se você experimentar estes recursos, <a data-l10n-name="connect">compartilhe o que pensa no Connect</a>

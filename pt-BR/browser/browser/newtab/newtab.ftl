@@ -415,7 +415,15 @@ newtab-topic-label-home = Casa e jardim
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selecione tópicos para ajustar seu feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Escolha dois ou mais tópicos. Nossos consultores especializados priorizam histórias adaptadas aos seus interesses. Atualize quando quiser.
 newtab-topic-selection-save-button = Salvar
 newtab-topic-selection-cancel-button = Cancelar
 newtab-topic-selection-button-maybe-later = Talvez mais tarde
 newtab-topic-selection-privacy-link = Saiba como protegemos e gerenciamos dados
+newtab-topic-selection-button-update-interests = Atualize seus interesses
+newtab-topic-selection-button-pick-interests = Escolha seus interesses

@@ -30,6 +30,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Extensões do painel lateral
 sidebar-customize-firefox-tools-header =
     .label = Ferramentas do { -brand-product-name }
 sidebar-customize-firefox-settings = Gerenciar configurações do { -brand-short-name }
@@ -45,6 +46,8 @@ sidebar-customize-tabs-header =
     .label = Configurações das abas
 sidebar-customize-settings-header =
     .label = Configurações do painel lateral
+sidebar-visibility-always-show =
+    .label = Sempre aparecer
 sidebar-visibility-hide-sidebar =
     .label = Ocular painel lateral
 
