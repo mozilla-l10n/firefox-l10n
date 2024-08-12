@@ -35,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Simplificar linguagem
     .value = Reescreva a seleção usando frases curtas e palavras simples. Mantenha o significado e a precisão dos fatos.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Pergunte-me
+    .value = Me pergunte sobre essa seleção. Formule vários tipos de perguntas, por exemplo, múltipla escolha, verdadeiro ou falso ou resposta curta. Espere minha resposta antes de passar para a próxima pergunta.
 
 ## Chatbot menu shortcuts
 
