@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = 近期动态
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 推荐
 newtab-section-header-stories = 精选文章
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = 今日专属荐读
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -408,9 +410,12 @@ newtab-topic-label-society = 自我提升
 newtab-topic-label-sports = 体育
 newtab-topic-label-tech = 科技
 newtab-topic-label-travel = 旅行
+newtab-topic-label-home = 家庭与园艺
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = 保存
 newtab-topic-selection-cancel-button = 取消
 newtab-topic-selection-button-maybe-later = 以后再说
+newtab-topic-selection-button-update-interests = 更新您感兴趣的主题
+newtab-topic-selection-button-pick-interests = 选择您感兴趣的主题

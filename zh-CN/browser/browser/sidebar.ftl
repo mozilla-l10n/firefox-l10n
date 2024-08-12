@@ -7,9 +7,24 @@ menu-view-genai-chat =
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = 今天 - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = 昨天 - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = “{ $query }”的搜索结果
 
 ## Labels for sidebar customize panel
 
@@ -36,6 +51,8 @@ sidebar-visibility-hide-sidebar =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = 管理扩展
 sidebar-context-menu-remove-extension =
     .label = 移除扩展
 sidebar-context-menu-report-extension =

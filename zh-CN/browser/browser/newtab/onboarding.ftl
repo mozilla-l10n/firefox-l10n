@@ -323,6 +323,8 @@ onboarding-device-migration-primary-button-label = 登录
 
 ## Add-ons Picker screen
 
+amo-picker-title = 定制您的 { -brand-short-name }
+amo-picker-install-button-label = 添加到 { -brand-short-name }
 amo-picker-install-complete-label = 已安装
 amo-picker-collection-link = 探索更多附加组件
 
