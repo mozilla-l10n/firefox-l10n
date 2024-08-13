@@ -324,6 +324,11 @@ onboarding-device-migration-subtitle = آپݨیاں نشانیاں، پاس ور
 onboarding-device-migration-subtitle2 = آپݨی نویں ڈیوائس اُتے آپݨے بُک مارکس، پاس ورڈز اَتے تاریخ آپݨے نال گِھن آنݨ کِیتے آپݨے اکاؤنٹ وِچ سائن اِن تھیوو۔
 onboarding-device-migration-primary-button-label = سائن ان
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = { -brand-short-name } وچ شامل کرو
+amo-picker-install-complete-label = انسٹال تھیا
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

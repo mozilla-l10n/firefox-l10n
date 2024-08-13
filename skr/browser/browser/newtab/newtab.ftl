@@ -380,6 +380,9 @@ newtab-topic-label-finance = رقم
 newtab-topic-label-government = سیاست
 newtab-topic-label-education-science = سائنس
 newtab-topic-label-sports = کھیݙاں
+newtab-topic-label-tech = ٹیکنالوجی
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = محفوظ
+newtab-topic-selection-cancel-button = منسوخ
