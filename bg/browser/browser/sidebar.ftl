@@ -30,12 +30,16 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
 sidebar-position-left =
     .label = Показване отляво
+sidebar-position-right =
+    .label = Показване отдясно
 sidebar-vertical-tabs =
     .label = Вертикални раздели
 sidebar-horizontal-tabs =
     .label = Хоризонтални раздели
 sidebar-customize-settings-header =
     .label = Настройки на страничната лента
+sidebar-visibility-always-show =
+    .label = Да се показва винаги
 sidebar-visibility-hide-sidebar =
     .label = Скриване на страничната лента
 
