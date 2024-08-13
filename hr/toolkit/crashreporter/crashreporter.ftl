@@ -9,6 +9,7 @@ crashreporter-plea = Da biste nam pomogli u ispravljanju problema, možete nam p
 crashreporter-error-details = Detaljji: { $details }
 crashreporter-no-run-message = Ovaj program pokreće se nakon rušenja kako bi prijavio problem programerima programa. Ne bi se smio izravno pokretati.
 crashreporter-button-details = Detalji…
+crashreporter-loading-details = Učitavanje …
 crashreporter-view-report-title = Sadržaj izvještaja
 crashreporter-comment-prompt = Dodaj komentar (komentari su javno vidljivi)
 crashreporter-report-info = Ovaj izvještaj također sadrži tehničke informacije o stanju programa kad se srušio.

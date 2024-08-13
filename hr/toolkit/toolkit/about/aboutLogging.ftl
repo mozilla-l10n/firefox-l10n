@@ -10,9 +10,16 @@ about-logging-set-log-file = Postavi log datoteku
 about-logging-set-log-modules = Postavi log module
 about-logging-start-logging = Pokreni vođenje zapisnika
 about-logging-stop-logging = Zaustavi vođenje zapisnika
+about-logging-info = Informacije:
 
 ## Logging presets
 
+about-logging-preset-networking-cookie-label = Kolačići
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-media-playback-label = Reprodukcija medija
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-gfx-label = Slike
 
 ## Variables:
 ##   $k (String) - Variable name
