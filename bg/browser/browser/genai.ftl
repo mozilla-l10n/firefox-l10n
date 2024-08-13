@@ -42,3 +42,6 @@ genai-menu-ask-provider =
     .label = Попитайте { $provider }
 genai-input-ask-generic =
     .placeholder = Попитайте AI чатбота…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Попитайте { $provider }
