@@ -28,6 +28,10 @@ genai-settings-chat-shortcuts =
 genai-prompts-quiz =
     .label = Изпитайте ме
     .value = Мола, изпитайте ме на този избор. Попитайте ме различни въпроси - с няколко отговора, истина или лъжа или нещо просто. Изчакайте моя отговор, преди да преминете на следващия въпрос.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Обясни това
+    .value = Моля, обясни ми основните положения в избрания текст използвайки прости думи и изрази. Добави и примери.
 
 ## Chatbot menu shortcuts
 
