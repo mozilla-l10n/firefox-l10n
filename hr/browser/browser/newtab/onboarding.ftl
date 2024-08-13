@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Ostavi { -brand-short-name } u Docku
        *[other] Prikvači { -brand-short-name } na programsku traku
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Prikvači { -brand-short-name } na programsku traku i početni izbornik
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -335,6 +337,11 @@ onboarding-device-migration-title = Dobro došli natrag!
 onboarding-device-migration-subtitle = Prijavite se u svoj { -fxaccount-brand-name(capitalization: "sentence") } kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
 onboarding-device-migration-subtitle2 = Prijavite se u svoj račun kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
 onboarding-device-migration-primary-button-label = Prijava
+
+## Add-ons Picker screen
+
+amo-picker-title = Prilagodi svoj { -brand-short-name }
+amo-picker-install-button-label = Dodaj u { -brand-short-name }
 
 ## The following screens have been updated to use security and privacy focused strings:
 

@@ -423,3 +423,12 @@ newtab-topic-label-home = Dom i vrt
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Odaberi teme prilagođavanje tvog feeda
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Odaberi dvije ili više tema. Naši stručni suradnici prioriziraju priče prema tvojim interesima. Aktualiziraj bilo kada.
+newtab-topic-selection-save-button = Spremi
+newtab-topic-selection-cancel-button = Odustani
+newtab-topic-selection-button-maybe-later = Možda kasnije
+newtab-topic-selection-privacy-link = Saznaj kako štitimo i upravljamo podacima
+newtab-topic-selection-button-update-interests = Aktualiziraj tvoje interese
+newtab-topic-selection-button-pick-interests = Odaberi tvoje interese

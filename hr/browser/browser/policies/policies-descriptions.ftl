@@ -108,11 +108,15 @@ policy-SanitizeOnShutdown2 = Brisanje podataka pretraživanja prilikom gašenja.
 policy-SearchBar = Postavi standardno mjesto u traci pretrage. Korisnik će ga i dalje moći prilagoditi.
 policy-SearchEngines = Prilagodi postavke tražilice. Ovo pravilo dostupno je samo u izdanju proširene podrške (ESR).
 policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Dodaj ili izbriši PKCS #11 module.
 policy-ShowHomeButton = Prikaži gumb početne stranice u alatnoj traci.
 policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
 policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremeno mjesto umjesto u standardnu mapu za preuzimanje.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
+policy-TranslateEnabled = Aktiviraj ili deaktiviraj prevođenje web stranica.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
+policy-UseSystemPrintDialog = Ispiši pomoću dijaloškog prozora sustava …
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokiraj posjećivanje web stranica. Prouči dokumentaciju za daljnje detalje o formatu.
