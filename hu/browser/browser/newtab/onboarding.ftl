@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] A { -brand-short-name } Dokkban tartása
        *[other] A { -brand-short-name } rögzítése a tálcára
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = A { -brand-short-name } rögzítése a tálcára és a start menüre
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -334,6 +336,13 @@ onboarding-device-migration-title = Üdvözöljük újra!
 onboarding-device-migration-subtitle = Jelentkezzen be a { -fxaccount-brand-name }jába, hogy könyvjelzőit, jelszavait és előzményeit magával vigye az új eszközén.
 onboarding-device-migration-subtitle2 = Jelentkezzen be a fiókjába, hogy áthozza a könyvjelzőit, jelszavait és előzményeit az új eszközére.
 onboarding-device-migration-primary-button-label = Bejelentkezés
+
+## Add-ons Picker screen
+
+amo-picker-title = A { -brand-short-name } testreszabása
+amo-picker-subtitle = A kiegészítők olyanok, mintha alkalmazások lennének a böngészőhöz, és lehetővé teszik a jelszavak védelmét, videók letöltését, akciók megtalálását, a bosszantó hirdetések blokkolását, a böngésző kinézetének módosítását, és még sok minden mást.
+amo-picker-install-button-label = Hozzáadás a { -brand-short-name }hoz
+amo-picker-install-complete-label = Telepítve
 
 ## The following screens have been updated to use security and privacy focused strings:
 

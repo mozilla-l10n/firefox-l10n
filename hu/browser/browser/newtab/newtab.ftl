@@ -241,6 +241,9 @@ newtab-pocket-saved = Mentve
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Több hasonló
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Nem nekem való
 newtab-toast-thumbs-up-or-down = Köszönjük. Visszajelzése segít nekünk a hírforrás fejlesztésében.
 newtab-toast-dismiss-button =
     .title = Eltüntetés
@@ -422,3 +425,9 @@ newtab-topic-selection-title = Válasszon témákat a hírforrás finomhangolás
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
 newtab-topic-selection-subtitle = Válasszon kettő vagy több témát. Szakértő kurátoraink az érdeklődési körének megfelelő történeteket részesítik előnyben. Frissítse bármikor.
+newtab-topic-selection-save-button = Mentés
+newtab-topic-selection-cancel-button = Mégse
+newtab-topic-selection-button-maybe-later = Talán később
+newtab-topic-selection-privacy-link = Tudja meg, hogyan védjük és kezeljük az adatait
+newtab-topic-selection-button-update-interests = Frissítse az érdeklődési köreit
+newtab-topic-selection-button-pick-interests = Válassza ki az érdeklődési köreit

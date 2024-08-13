@@ -24,6 +24,10 @@ genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbo
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = A(z) „{ $tabTitle }” oldalon vagyok, és ez van kiválasztva: „{ $selection }”.
 
 ## Chatbot menu shortcuts
 
