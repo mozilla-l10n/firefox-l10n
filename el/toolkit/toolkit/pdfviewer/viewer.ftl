@@ -405,6 +405,8 @@ pdfjs-editor-new-alt-text-textarea =
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Σύντομη περιγραφή για άτομα που δεν μπορούν να δουν την εικόνα ή όταν η εικόνα δεν φορτώνεται.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Αυτό το εναλλακτικό κείμενο δημιουργήθηκε αυτόματα και ενδέχεται να είναι ανακριβές.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Αυτό το εναλλακτικό κείμενο δημιουργήθηκε αυτόματα.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Μάθετε περισσότερα
 pdfjs-editor-new-alt-text-create-automatically-button-label = Αυτόματη δημιουργία εναλλακτικού κειμένου
