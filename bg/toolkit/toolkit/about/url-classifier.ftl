@@ -5,7 +5,11 @@
 url-classifier-title = Информация за класификатора на URL
 url-classifier-search-title = Търсене
 url-classifier-search-result-title = Резултати
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = Адрес: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Списък на таблици: { $list }
 url-classifier-search-input = Адрес
 url-classifier-search-error-invalid-url = Неправилен адрес
@@ -21,7 +25,7 @@ url-classifier-provider-back-off-time = Време за премахване н�
 url-classifier-provider-last-update-status = Състояние на последното обновяване
 url-classifier-provider-update-btn = Обновяване
 url-classifier-cache-title = Склад за данни
-url-classifier-cache-refresh-btn = Опресняване
+url-classifier-cache-refresh-btn = Презареждане
 url-classifier-cache-clear-btn = Изчистване
 url-classifier-cache-table-name = Име на таблица
 url-classifier-cache-ncache-entries = Брой на отрицателни записи в склада
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Модули за журнала при без
 url-classifier-debug-modules = Текущи модули за журнала
 url-classifier-debug-sbjs-modules = Журнал на JS при безопасно разглеждане
 url-classifier-debug-file = Текущ файл на журнала
-
 url-classifier-trigger-update = Пускане на обновяване
 url-classifier-not-available = липсва
 url-classifier-disable-sbjs-log = Изключване на журнала на JS при безопасно разглеждане

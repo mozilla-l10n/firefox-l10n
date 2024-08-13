@@ -287,7 +287,7 @@ quickactions-private2 = Поверителен прозорец
 quickactions-cmd-private = поверително разглеждане
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Освежаване на { -brand-short-name }
-quickactions-cmd-refresh = освежаване, опресняване
+quickactions-cmd-refresh = освежаване, опресняване, презареждане
 # Restarts the browser
 quickactions-restart = Рестартиране на { -brand-short-name }
 quickactions-cmd-restart = рестарт, рестартиране
