@@ -50,6 +50,11 @@ experimental-features-ime-search-description = IME (Input Method Editor - Енг
 experimental-features-auto-pip =
     .label = Суреттегі сурет: беттер ауысқанда автоматты түрде ашу
 experimental-features-auto-pip-description = Беттерді ауыстырған кезде белсенді видеолар үшін суреттегі сурет мүмкіндігін іске қосу.
+# Updated sidebar settings
+sidebar-title =
+    .label = Бүйір панелі
+vertical-tabs-title =
+    .label = Вертикалды беттер
 experimental-features-group-browsing =
     .label = Шолу
 experimental-features-group-developer-tools =

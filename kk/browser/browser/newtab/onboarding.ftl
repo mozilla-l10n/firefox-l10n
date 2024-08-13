@@ -337,6 +337,11 @@ onboarding-device-migration-subtitle = Бетбелгілер, парольде�
 onboarding-device-migration-subtitle2 = Жаңа құрылғыңызға бетбелгілер, парольдер және тарихты өзіңізбен бірге алып келу үшін өз тіркелгіңізге кіріңіз.
 onboarding-device-migration-primary-button-label = Кіру
 
+## Add-ons Picker screen
+
+amo-picker-install-complete-label = Орнатылған
+amo-picker-collection-link = Көбірек қосымшаларды шолу
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
