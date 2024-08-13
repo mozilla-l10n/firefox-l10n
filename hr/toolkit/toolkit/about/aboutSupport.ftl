@@ -15,6 +15,7 @@ support-addons-type = Vrsta
 support-addons-enabled = Aktivirano
 support-addons-version = Inačica
 support-addons-id = ID
+legacy-user-stylesheets-enabled = Aktivno
 security-software-title = Sigurnosni softver
 security-software-type = Vrsta
 security-software-name = Ime
@@ -364,7 +365,16 @@ support-printing-prefs-value = Vrijednost
 
 ## Remote Settings sections
 
+support-remote-settings-status = Stanje
 support-remote-settings-status-ok = U redu
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ne radi
+support-remote-settings-last-check = Zadnja provjera
+support-remote-settings-local-timestamp = Lokalna vremenska oznaka
+support-remote-settings-sync-history = Povijest
+support-remote-settings-sync-history-status = Stanje
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Informacije
 
 ## Normandy sections
 
@@ -374,6 +384,8 @@ support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Miš
+pointing-device-touchscreen = Ekran na dodir
 
 ## Content Analysis (DLP)
 

@@ -23,16 +23,32 @@ about-processes-column-cpu-total = CPU
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Datoteke ({ $pid })
+about-processes-extension-process = Proširenja ({ $pid })
+about-processes-privilegedabout-process = Informacije o stranicama ({ $pid })
+about-processes-plugin-process = Dodaci ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } web stranice ({ $pid })
+about-processes-gmp-plugin-process = Gecko medijski dodaci ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-socket-process = Mreža ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Kartica: { $name }
+about-processes-preloaded-tab = Unaprijed učitana nova kartica
 
 ## Utility process actor names
 
@@ -86,3 +102,8 @@ duration-unit-d = d
 
 memory-unit-B = B
 memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB

@@ -20,6 +20,11 @@ about-logging-preset-media-playback-label = Reprodukcija medija
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Slike
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-custom-label = Prilagođeno
+# Error handling
+about-logging-error = Greška:
 
 ## Variables:
 ##   $k (String) - Variable name

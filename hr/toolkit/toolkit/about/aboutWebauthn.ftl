@@ -5,10 +5,15 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = O WebAuthnu
 
 ## Section titles
 
 about-webauthn-options-subsection-title = Mogućnosti autentifikatora
+about-webauthn-pin-required-section-title = Potreban je PIN
+about-webauthn-confirm-deletion-section-title = Potvrdi brisanje
 
 ## Info field texts
 
@@ -16,6 +21,7 @@ about-webauthn-text-not-available = Nije dostupno na ovoj platformi.
 
 ## Results label
 
+about-webauthn-results-success = Uspjeh!
 
 ## Labels
 
