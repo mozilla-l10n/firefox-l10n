@@ -16,6 +16,7 @@ genai-settings-chat-copilot-links = A Copilot választásával elfogadja a <a da
 genai-settings-chat-gemini-links = A Google Gemini választásával elfogadja a <a data-l10n-name="link1">Google szolgáltatási feltételeit</a>, a <a data-l10n-name="link2">Generatív MI tiltott használatára vonatkozó irányelveket</a > és a <a data-l10n-name="link3">Gemini alkalmazásokra vonatkozó adatvédelmi nyilatkozatát</a>.
 genai-settings-chat-huggingchat-links = A HuggingChat választásával elfogadja a <a data-l10n-name="link1">HuggingChat adatvédelmi nyilatkozatát</a> és a <a data-l10n-name="link2">Hugging Face adatvédelmi irányelveit</a>.
 genai-settings-chat-lechat-links = A Le Chat Mistral választásával elfogadja a Mistral AI <a data-l10n-name="link1">Felhasználási feltételeit</a> és az <a data-l10n-name="link2">Adatvédelmi irányelveket</a>.
+genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbotját, például a <a data-l10n-name="link1">llamafile</a>-t, a { -vendor-short-name } innovációs csoportjától.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

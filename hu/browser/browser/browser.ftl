@@ -1041,6 +1041,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = A Windows fájlválasztó párbeszédablaka nem nyitható meg. Nem választható ki fájl vagy mappa.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = A Windows fájlválasztó párbeszédablaka nem nyitható meg. A fájl ide lesz mentve: { $path }.
 file-picker-failed-save-nowhere = A Windows fájlválasztó párbeszédablaka nem nyitható meg. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
