@@ -24,6 +24,10 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Обобщи това
+    .value = Моля, обобщи избрания текст използвайки прецизни изрази. Използвай заглавия и номерирани списъци, за да по-лесно възприемане. Не променяй смисъла и фактическата точност.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Изпитайте ме
