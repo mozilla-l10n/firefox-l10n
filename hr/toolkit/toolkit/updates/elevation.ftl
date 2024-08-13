@@ -16,3 +16,4 @@ sandbox-missing-unprivileged-namespaces = Neke od sigurnosnih { -brand-short-nam
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Nemoj ponovo prikazati
     .accesskey = N
+sandbox-unprivileged-namespaces-howtofix = Kako riješiti ovaj problem

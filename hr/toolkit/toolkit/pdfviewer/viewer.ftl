@@ -399,6 +399,20 @@ pdfjs-editor-highlight-show-all-button =
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saznaj više
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski stvori zamjenski tekst
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Postavke zamjenskog teksta slike
+pdfjs-image-alt-text-settings-button-label = Postavke zamjenskog teksta slike
+pdfjs-editor-alt-text-settings-dialog-label = Postavke zamjenskog teksta slike
+pdfjs-editor-alt-text-settings-automatic-title = Automatski zamjenski tekst
+pdfjs-editor-alt-text-settings-create-model-button-label = Automatski stvori zamjenski tekst
+pdfjs-editor-alt-text-settings-delete-model-button = Izbriši
+pdfjs-editor-alt-text-settings-download-model-button = Preuzmi
+pdfjs-editor-alt-text-settings-downloading-model-button = Preuzimanje …
+pdfjs-editor-alt-text-settings-editor-title = Uređivač zamjenskog teksta
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Prikaži uređivač zamjenskog teksta odmah pri dodavanju slike
+pdfjs-editor-alt-text-settings-show-dialog-description = Pomaže osigurati da sve tvoje slike imaju zamjenski tekst.
+pdfjs-editor-alt-text-settings-close-button = Zatvori

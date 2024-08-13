@@ -14,6 +14,7 @@ printui-sheets-count =
        *[other] { $sheetCount } listova papira
     }
 printui-page-range-all = Sve
+printui-page-range-current = Trenutačno
 printui-page-range-odd = Neparne
 printui-page-range-even = Parne
 printui-page-range-custom = Prilagođeno
