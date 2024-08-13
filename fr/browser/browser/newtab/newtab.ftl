@@ -419,3 +419,5 @@ newtab-topic-selection-save-button = Enregistrer
 newtab-topic-selection-cancel-button = Annuler
 newtab-topic-selection-button-maybe-later = Peut-être plus tard
 newtab-topic-selection-privacy-link = Découvrez comment nous protégeons et gérons les données
+newtab-topic-selection-button-update-interests = Mettre à jour vos centres d’intérêt
+newtab-topic-selection-button-pick-interests = Choisir vos centres d’intérêt

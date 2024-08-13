@@ -46,7 +46,22 @@ experimental-features-js-warp-description = Active Warp, un projet pour amélior
 experimental-features-ime-search =
     .label = Barre d’adresse : afficher les résultats pendant la composition IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, éditeur de méthode de saisie) est un outil qui permet la saisie de symboles complexes, tels que ceux utilisés pour écrire les langues indiennes ou celles d’Asie de l’Est, tout en utilisant un clavier ordinaire. Activer cette expérience conserve ouvert le panneau de la barre d’adresse qui affiche les résultats de recherche et des suggestions, pendant que l’IME est utilisé pour saisir du texte. Notez que l’IME pourrait afficher un panneau recouvrant les résultats de la barre d’adresse, c’est pourquoi cette préférence n’est suggérée que pour les IME qui n’utilisent pas ce type de panneau.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Incrustation vidéo : activation automatique lors du changement d’onglet
+experimental-features-auto-pip-description = Activer l’incrustation vidéo pour les vidéos actives lorsque vous changez d’onglet.
+genai-settings-chat-title =
+    .label = Chatbot IA
+# Updated sidebar settings
+sidebar-title =
+    .label = Panneau latéral
+sidebar-description = Accédez facilement à votre historique, aux onglets d’autres appareils, aux extensions du panneau latéral et à d’autres fonctions en cours de navigation. <a data-l10n-name="connect">Donner votre avis</a>
+vertical-tabs-title =
+    .label = Onglets verticaux
 experimental-features-group-browsing =
     .label = Navigation
 experimental-features-group-developer-tools =
     .label = Outils de développement
+experimental-features-group-customize-browsing =
+    .label = Personnalisez votre navigation
+experimental-features-group-customize-browsing-description = Si vous essayez ces fonctionnalités, <a data-l10n-name="connect">donnez votre avis sur Connect</a>

@@ -14,7 +14,7 @@ webconsole-commands-usage-block =
     Démarrer le blocage des requêtes réseau
     
       Un seul argument URL_STRING est accepté, une chaîne sans quotes. Toute requête dont l’URL contient cette chaîne est bloquée.
-      Utilisez :unblock ou la barre latérale de blocage de requêtes du moniteur réseau pour annuler cette action.
+      Utilisez :unblock ou le panneau latéral de blocage de requêtes du moniteur réseau pour annuler cette action.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =
     :unblock URL_STRING
@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Arrêter le blocage de requêtes réseau
     
       Un seul argument est accepté, la chaîne exacte passée précédemment à :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Active ou désactive le traceur JavaScript
-    
-      Les arguments suivants sont acceptés  :
-        --logMethod, à définir à « console » pour journaliser dans la console web (valeur par défaut) ou à « stdout » pour diriger les messages vers la sortie standard ;
-        --prefix, chaîne facultative ajoutée au début de chaque journal de traçage ;
-        --help ou --usage, affiche ce message.

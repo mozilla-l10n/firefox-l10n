@@ -22,13 +22,34 @@ sidebar-history-delete =
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Résultats de la recherche pour « { $query } »
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Extensions du panneau latéral
+sidebar-customize-firefox-tools-header =
+    .label = Outils de { -brand-product-name }
+sidebar-customize-firefox-settings = Gérer les paramètres de { -brand-short-name }
+sidebar-position-left =
+    .label = Afficher à gauche
+sidebar-position-right =
+    .label = Afficher à droite
+sidebar-vertical-tabs =
+    .label = Onglets verticaux
+sidebar-horizontal-tabs =
+    .label = Onglets horizontaux
+sidebar-customize-tabs-header =
+    .label = Paramètres des onglets
+sidebar-customize-settings-header =
+    .label = Paramètres du panneau latéral
 sidebar-visibility-always-show =
     .label = Toujours afficher
 sidebar-visibility-hide-sidebar =
-    .label = Masquer la barre latérale
+    .label = Masquer le panneau latéral
 
 ## Labels for sidebar context menu items
 
@@ -50,12 +71,12 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Marque-pages
 sidebar-menu-customize-label =
-    .label = Personnaliser la barre latérale
+    .label = Personnaliser le panneau latéral
 
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Personnaliser la barre latérale
+    .heading = Personnaliser le panneau latéral
 sidebar-menu-history-header =
     .heading = Historique
 sidebar-menu-syncedtabs-header =
