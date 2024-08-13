@@ -1360,11 +1360,16 @@ space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a
 
 httpsonly-header = Csak HTTPS mód
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.
+httpsonly-description2 = A { -brand-short-name } biztonságos és titkosított kapcsolatokat hoz létre a felkeresett webhelyekkel. A „csak HTTPS” mód esetén a { -brand-short-name } figyelmeztet, ha a kapcsolat nem biztonságos.
 httpsonly-learn-more = További tudnivalók
 httpsonly-radio-enabled =
     .label = A Csak HTTPS mód engedélyezése az összes ablakban
+httpsonly-radio-enabled2 =
+    .label = Csak HTTPS mód használata az összes ablakban
 httpsonly-radio-enabled-pbm =
     .label = A Csak HTTPS mód engedélyezése csak privát ablakokban
+httpsonly-radio-enabled-pbm2 =
+    .label = Csak HTTPS mód használata a privát ablakokban
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
 
