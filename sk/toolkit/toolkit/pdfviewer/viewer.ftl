@@ -409,6 +409,8 @@ pdfjs-editor-new-alt-text-textarea =
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Krátky popis pre ľudí, ktorí nevidia obrázok alebo ak sa obrázok nenačíta.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Tento alternatívny text bol vytvorený automaticky a môže byť nepresný.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = Tento alternatívny text bol vytvorený automaticky.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Ďalšie informácie
 pdfjs-editor-new-alt-text-create-automatically-button-label = Automaticky vytvoriť alternatívny text
