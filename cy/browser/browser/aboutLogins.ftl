@@ -255,13 +255,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] Ie, tynnu'r mewngofnod
-        [zero] Ie, tynnu'r mewngofnodion
-        [one] Ie, tynnu'r mewngofnod
-        [two] Ie, tynnu'r mewngofnodion
-        [few] Ie, tynnu'r mewngofnodion
-        [many] Ie, tynnu'r mewngofnodion
-       *[other] Ie, tynnu'r mewngofnodion
+        [1] Iawn, tynnu'r mewngofnod
+        [zero] Iawn, tynnu'r mewngofnodion
+        [one] Iawn, tynnu'r mewngofnod
+        [two] Iawn, tynnu'r mewngofnodion
+        [few] Iawn, tynnu'r mewngofnodion
+        [many] Iawn, tynnu'r mewngofnodion
+       *[other] Iawn, tynnu'r mewngofnodion
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
