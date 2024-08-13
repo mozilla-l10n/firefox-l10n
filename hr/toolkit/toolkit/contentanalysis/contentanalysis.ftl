@@ -5,3 +5,6 @@
 contentanalysis-operationtype-clipboard = međuspremnik
 contentanalysis-operationtype-dropped-text = ispušteni tekst
 contentanalysis-operationtype-print = ispis
+contentanalysis-warndialog-response-allow = Koristi sadržaj
+contentanalysis-warndialog-response-deny = Odustani
+contentanalysis-notification-title = Analiza sadržaja

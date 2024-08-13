@@ -22,12 +22,22 @@ about-webauthn-text-not-available = Nije dostupno na ovoj platformi.
 ## Results label
 
 about-webauthn-results-success = Uspjeh!
+about-webauthn-results-general-error = Greška!
 
 ## Labels
 
+about-webauthn-new-pin-label = Novi PIN:
+about-webauthn-repeat-pin-label = Ponovi novi PIN:
+about-webauthn-current-pin-label = Trenutačni PIN:
+about-webauthn-pin-required-label = Upiši tvoj PIN:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Postavi PIN
+about-webauthn-current-change-pin-button = Promijeni PIN
+about-webauthn-cancel-button = Odustani
+about-webauthn-send-pin-button = U redu
+about-webauthn-delete-button = Izbriši
 about-webauthn-update-button = Aktualiziraj
 
 ## Authenticator options fields
