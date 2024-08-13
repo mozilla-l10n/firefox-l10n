@@ -397,6 +397,8 @@ pdfjs-editor-new-alt-text-textarea =
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = 이미지가 보이지 않거나 이미지가 로딩되지 않는 경우를 위한 간단한 설명입니다.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = 이 대체 텍스트는 자동으로 생성되었으므로 정확하지 않을 수 있습니다.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = 이 대체 텍스트는 자동으로 생성되었습니다.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = 더 알아보기
 pdfjs-editor-new-alt-text-create-automatically-button-label = 자동으로 대체 텍스트 생성
