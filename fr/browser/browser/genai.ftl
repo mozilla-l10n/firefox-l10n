@@ -24,6 +24,36 @@ genai-settings-chat-localhost-links = Utilisez votre propre chatbot privé local
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Résume
+    .value = Résume le texte sélectionné en utilisant une formulation précise et concise. Utilise des en-têtes et des listes à puces dans le résumé, afin qu’il soit facilement lisible. Conserve le sens et la véracité des faits.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplifie la formulation
+    .value = Réécris le texte sélectionné en utilisant des phrases courtes et des mots simples. Conserve le sens et la véracité des faits.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Teste-moi
+    .value = Teste-moi sur le texte sélectionné. Pose-moi différents types de questions, par exemple à choix multiples, vrai ou faux, ou à réponse courte. Attends ma réponse avant de passer à la question suivante.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explique ceci
+    .value = Explique les concepts clés du texte sélectionné, en utilisant des mots simples. Utilise également des exemples.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Je suis sur la page « { $tabTitle } » et j’ai sélectionné « { $selection } ».
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Demander à un chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Demander à { $provider }
+genai-input-ask-generic =
+    .placeholder = Demander à un chatbot IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Demander à { $provider }…

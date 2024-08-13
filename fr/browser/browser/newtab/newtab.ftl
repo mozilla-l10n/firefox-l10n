@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Activité récente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recommandations par { $provider }
 newtab-section-header-stories = Des articles qui font réfléchir
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Notre sélection du jour
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -409,6 +411,7 @@ newtab-topic-label-society = Astuces du quotidien
 newtab-topic-label-sports = Sports
 newtab-topic-label-tech = Technologie
 newtab-topic-label-travel = Voyage
+newtab-topic-label-home = Maison et extérieur
 
 ## Topic Selection Modal
 
