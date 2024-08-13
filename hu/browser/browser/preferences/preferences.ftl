@@ -1372,6 +1372,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = Csak HTTPS mód használata a privát ablakokban
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
+httpsonly-radio-disabled2 =
+    .label = Először próbálja ki a HTTPS-t, de engedélyezze a nem biztonságos kapcsolatokat
 
 ## DoH Section
 
