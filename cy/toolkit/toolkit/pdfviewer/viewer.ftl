@@ -404,12 +404,30 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Golygu testun amgen (disgrifiad o ddelwedd)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Ychwanegwch destun amgen (disgrifiad delwedd)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Ysgrifennwch eich disgrifiad yma…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Disgrifiad byr ar gyfer pobl sydd ddim yn gallu gweld y ddelwedd neu pan nad yw'r ddelwedd yn llwytho.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Crëwyd y testun amgen hwn yn awtomatig.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Dysgu rhagor
+pdfjs-editor-new-alt-text-create-automatically-button-label = Creu testun amgen yn awtomatig
+pdfjs-editor-new-alt-text-not-now-button = Nid nawr
+pdfjs-editor-new-alt-text-error-title = Methu â chreu testun amgen yn awtomatig
+pdfjs-editor-new-alt-text-error-description = Ysgrifennwch eich testun amgen eich hun neu ceisiwch eto yn nes ymlaen.
+pdfjs-editor-new-alt-text-error-close-button = Cau
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
 pdfjs-editor-new-alt-text-ai-model-downloading-progress = Wrthi'n llwytho i lawr model AI testun amgen ( { $downloadedSize } o { $totalSize } MB)
     .aria-valuetext = { "" }
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Ychwanegwyd testun amgen
 
 ## Image alt-text settings
 
