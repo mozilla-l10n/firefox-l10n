@@ -46,6 +46,7 @@ firefoxview-tabpickup-synctabs-header = Включване синхронизи�
 firefoxview-tabpickup-synctabs-description = Разрешава на { -brand-short-name } да споделя раздели между устройствата.
 firefoxview-tabpickup-synctabs-learn-how = Научете как
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизиране на отворените раздели
+firefoxview-syncedtabs-synctabs-header = Актуализирайте настройките си за синхронизиране
 firefoxview-syncedtabs-synctabs-checkbox = Разрешаване на синхронизиране на отворените раздели
 firefoxview-syncedtabs-loading-header = Извършва се синхронизиране
 firefoxview-tabpickup-fxa-admin-disabled-header = Вашата организация е забранила синхронизирането
