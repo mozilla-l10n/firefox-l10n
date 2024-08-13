@@ -46,6 +46,10 @@ options-default-color-unit-name = Imena boja
 
 ## Web Console section
 
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktiviraj podijeljenu konzolu
+options-webconsole-split-console-tooltip =
+    .title = Otvori podijeljenu konzolu tipkom Escape
 
 ## Style Editor section
 

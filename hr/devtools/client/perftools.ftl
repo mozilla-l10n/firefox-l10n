@@ -14,6 +14,8 @@ perftools-intro-title = Postavke profiliranja
 perftools-heading-settings = Potpune postavke
 perftools-heading-buffer = Postavke međuspremnika
 perftools-heading-features = Funkcije
+perftools-heading-features-disabled = Deaktivirane funkcije
+perftools-heading-features-experimental = Eksperimentalno
 
 ##
 
