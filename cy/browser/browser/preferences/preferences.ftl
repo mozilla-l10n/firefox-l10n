@@ -617,7 +617,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
 home-prefs-weather-header =
     .label = Y Tywydd
-home-prefs-weather-description = Cipolwg ar ragolygon heddiw
+home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Dysgu rhagor
 # Variables:
 #   $num (number) - Number of rows displayed

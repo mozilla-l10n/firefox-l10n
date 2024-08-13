@@ -425,7 +425,7 @@ pdfjs-editor-new-alt-text-error-close-button = Cau
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
 pdfjs-editor-new-alt-text-ai-model-downloading-progress = Wrthi'n llwytho i lawr model AI testun amgen ( { $downloadedSize } o { $totalSize } MB)
-    .aria-valuetext = { "" }
+    .aria-valuetext = Wrthi'n llwytho i lawr model AI testun amgen ( { $downloadedSize } o { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Ychwanegwyd testun amgen
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.

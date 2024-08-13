@@ -294,7 +294,7 @@ newtab-custom-recent-toggle =
     .description = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-weather-toggle =
     .label = Y Tywydd
-    .description = Cip ar ragolygon y tywydd heddiw
+    .description = Cipolwg ar ragolygon tywydd heddiw
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
 

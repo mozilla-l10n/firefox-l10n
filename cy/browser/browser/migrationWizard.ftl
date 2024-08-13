@@ -54,7 +54,7 @@ migration-imported-edge-reading-list = Rhestr Darllen (O Edge)
 
 migration-no-permissions-message = Does gan { -brand-short-name } ddim mynediad i broffiliau porwyr eraill sydd wedi'u gosod ar y ddyfais hon.
 migration-no-permissions-instructions = I barhau i fewnforio data o borwr arall, caniatewch i { -brand-short-name } gael mynediad i'w ffolder proffil.
-migration-no-permissions-instructions-step1 = Dewis “Ymlaen”
+migration-no-permissions-instructions-step1 = Dewis “Continue”
 # The second step in getting permissions to read data for the selected
 # browser type.
 #
