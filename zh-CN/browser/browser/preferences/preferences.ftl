@@ -206,7 +206,7 @@ containers-remove-alert-msg = 如果您现在移除此身份，{ $count } 个身
 containers-remove-ok-button = 移除此身份
 containers-remove-cancel-button = 不移除此身份
 settings-tabs-show-image-in-preview =
-    .label = 悬停在标签页上时显示预览图
+    .label = 悬停在标签页的标签上时显示预览图
     .accessKey = h
 
 ## General Section - Language & Appearance
