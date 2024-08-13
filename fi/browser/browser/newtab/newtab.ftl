@@ -422,5 +422,6 @@ newtab-topic-label-home = Koti ja puutarha
 newtab-topic-selection-save-button = Tallenna
 newtab-topic-selection-cancel-button = Peruuta
 newtab-topic-selection-button-maybe-later = Ehkä myöhemmin
+newtab-topic-selection-privacy-link = Lue lisää, kuinka suojaamme ja hallitsemme tietoja
 newtab-topic-selection-button-update-interests = Päivitä kiinnostuksen kohteesi
 newtab-topic-selection-button-pick-interests = Valitse kiinnostuksen kohteesi
