@@ -15,6 +15,7 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = Postaviti { -brand-short-name } kao primarni preglednik?
 default-browser-prompt-message-pin = Neka { -brand-short-name } bude nadohvat tvoje ruke — postavi ga kao zadani preglednik i prikvači na programsku traku.
 default-browser-prompt-message-pin-mac = Neka { -brand-short-name } bude nadohvat tvoje ruke — postavi ga kao zadani preglednik i dodaj ga u svoj Dock.
+default-browser-prompt-button-primary-set = Postavi kao primarni preglednik
 default-browser-prompt-button-primary-pin = Postavi kao primarni preglednik
 default-browser-prompt-title-alt = Postaviti { -brand-short-name } kao zadani preglednik?
 default-browser-prompt-message-alt = Dobij brzinu, sigurnost i privatnost pri svakom pregledavanju.
