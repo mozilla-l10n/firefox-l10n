@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Сила на звука
 videocontrols-closed-caption-button =
     .aria-label = Субтитри
-
 videocontrols-play-button =
     .aria-label = Изпълняване
 videocontrols-pause-button =
@@ -25,13 +24,17 @@ videocontrols-exitfullscreen-button =
     .aria-label = Излизане от цял екран
 videocontrols-casting-button-label =
     .aria-label = Пускане на екрана
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Изключено
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Картина в картината
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Повече екрани = повече забава. Гледайте това видео, докато правите други неща.
 videocontrols-error-aborted = Зареждането на видео спря.
 videocontrols-error-network = Зареждането на видео е прекъснато поради мрежова грешка.
 videocontrols-error-decode = Видеото не може да бъде възпроизведено, защото файлът е развален.
@@ -39,7 +42,6 @@ videocontrols-error-src-not-supported = Видеоформатът или тоз
 videocontrols-error-no-source = Не е намерен поддържан видео формат и вид MIME.
 videocontrols-error-generic = Възпроизвеждането на видео прекъсна поради неизвестна грешка.
 videocontrols-status-picture-in-picture = Видеоклипът се възпроизвежда в режим картина в картината.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -53,7 +55,6 @@ videocontrols-status-picture-in-picture = Видеоклипът се възпр
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

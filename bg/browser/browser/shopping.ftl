@@ -29,6 +29,14 @@
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Как определяме качеството на отзивите
+shopping-analysis-explainer-intro2 = Ние използваме технология с изкуствен интелект от { -fakespot-brand-full-name } за да проверим надеждността на отзивите за продукти. Това ще ви помогне да оцените само отзивите, но не и качеството на самия продукт.
+shopping-analysis-explainer-grades-intro = Ние поставяме на всяка рецензия за продукт <strong>оценка</strong> от A до F.
+shopping-analysis-explainer-learn-more2 = Научете повече за това <a data-l10n-name="review-quality-url">как { -fakespot-brand-name } определя качеството на рецензиите</a>.
+shopping-analysis-explainer-review-grading-scale-reliable = Надеждни отзиви. Ние вярваме, че е твърде вероятно рецензиите да са от реални клиенти, оставили честни и безпристрастни отзиви.
+shopping-analysis-explainer-review-grading-scale-mixed = Ние предполагаме, че това е смесица от надеждни и недотам надеждни отзиви.
+shopping-analysis-explainer-review-grading-scale-unreliable = Ненадеждни отзиви. Вярваме, че рецензиите са или фалшиви или са оставени от предубедени потребители.
 
 ## Strings for UrlBar button
 
