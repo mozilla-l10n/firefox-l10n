@@ -435,7 +435,7 @@ pdfjs-editor-new-alt-text-to-review-button-label = Adolygu'r testun amgen
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
 #   $generatedAltText (String) - the generated alt-text.
-pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Crëwyd yn awtomatig: { $generedAltText }
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Crëwyd yn awtomatig: { $generatedAltText }
 
 ## Image alt-text settings
 
