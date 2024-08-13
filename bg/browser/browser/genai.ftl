@@ -27,7 +27,11 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Обобщи това
-    .value = Моля, обобщи избрания текст използвайки прецизни изрази. Използвай заглавия и номерирани списъци, за да по-лесно възприемане. Не променяй смисъла и фактическата точност.
+    .value = Моля, обобщи избора, като ползваш точни и кратки изрази. Използвай заглавки и неномерирани списъци за по-лесно възприемане. Придържай се към смисъла и фактическата точност.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Опрости езика
+    .value = Моля, перифразирай избора използвайки кратки изречения и прости думи. Придържай се към смисъла и фактическата точност.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Изпитайте ме
