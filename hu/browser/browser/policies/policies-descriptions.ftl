@@ -119,6 +119,7 @@ policy-Permissions2 = A kamera, mikrofon, helyadatok, értesítések és automat
 policy-PictureInPicture = Kép a képben engedélyezése vagy letiltása.
 policy-PopupBlocking = Bizonyos weboldalak alapértelmezetten jeleníthessenek meg felugró ablakokat.
 policy-Preferences = Értékek beállítása és zárolása a beállítások egy részhalmazánál.
+policy-PrivateBrowsingModeAvailability = A privát böngészési mód elérhetőségének beállítása.
 policy-PromptForDownloadLocation = Kérdezze meg, hogy hová legyenek letöltve a fájlok.
 policy-Proxy = Proxy-beállítások konfigurálása.
 policy-RequestedLocales = Adja meg a kért területi beállításokat az alkalmazásnak, az Ön által előnyben részesített sorrendben.

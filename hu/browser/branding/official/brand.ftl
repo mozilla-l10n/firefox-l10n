@@ -19,30 +19,90 @@
 
 -brand-shorter-name =
     { $case ->
-       *[nominative] Firefox
         [accusative] Firefoxot
+        [dative] Firefoxnak
+        [genitive] Firefoxé
         [instrumental] Firefoxszal
+        [causal] Firefoxért
+        [translative] Firefoxszá
+        [terminative] Firefoxig
+        [illative] Firefoxba
+        [adessive] Firefoxnál
+        [ablative] Firefoxtól
+        [elative] Firefoxból
+        [allative] Firefoxhoz
+        [sublative] Firefoxra
+        [inessive] Firefoxban
+        [superessive] Firefoxon
+        [delative] Firefoxról
+        [sociative] Firefoxostul
+       *[nominative] Firefox
     }
 -brand-short-name =
     { $case ->
-       *[nominative] Firefox
         [accusative] Firefoxot
+        [dative] Firefoxnak
+        [genitive] Firefoxé
         [instrumental] Firefoxszal
+        [causal] Firefoxért
+        [translative] Firefoxszá
+        [terminative] Firefoxig
+        [illative] Firefoxba
+        [adessive] Firefoxnál
+        [ablative] Firefoxtól
+        [elative] Firefoxból
+        [allative] Firefoxhoz
+        [sublative] Firefoxra
+        [inessive] Firefoxban
+        [superessive] Firefoxon
+        [delative] Firefoxról
+        [sociative] Firefoxostul
+       *[nominative] Firefox
     }
 -brand-shortcut-name =
     { $case ->
-       *[nominative] Firefox
         [accusative] Firefoxot
+        [dative] Firefoxnak
+        [genitive] Firefoxé
         [instrumental] Firefoxszal
+        [causal] Firefoxért
+        [translative] Firefoxszá
+        [terminative] Firefoxig
+        [illative] Firefoxba
+        [adessive] Firefoxnál
+        [ablative] Firefoxtól
+        [elative] Firefoxból
+        [allative] Firefoxhoz
+        [sublative] Firefoxra
+        [inessive] Firefoxban
+        [superessive] Firefoxon
+        [delative] Firefoxról
+        [sociative] Firefoxostul
+       *[nominative] Firefox
     }
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
-       *[nominative] Firefox
         [accusative] Firefoxot
+        [dative] Firefoxnak
+        [genitive] Firefoxé
         [instrumental] Firefoxszal
+        [causal] Firefoxért
+        [translative] Firefoxszá
+        [terminative] Firefoxig
+        [illative] Firefoxba
+        [adessive] Firefoxnál
+        [ablative] Firefoxtól
+        [elative] Firefoxból
+        [allative] Firefoxhoz
+        [sublative] Firefoxra
+        [inessive] Firefoxban
+        [superessive] Firefoxon
+        [delative] Firefoxról
+        [sociative] Firefoxostul
+       *[nominative] Firefox
     }
 -vendor-short-name =
     { $ending ->

@@ -341,8 +341,9 @@ onboarding-device-migration-primary-button-label = Bejelentkezés
 
 amo-picker-title = A { -brand-short-name } testreszabása
 amo-picker-subtitle = A kiegészítők olyanok, mintha alkalmazások lennének a böngészőhöz, és lehetővé teszik a jelszavak védelmét, videók letöltését, akciók megtalálását, a bosszantó hirdetések blokkolását, a böngésző kinézetének módosítását, és még sok minden mást.
-amo-picker-install-button-label = Hozzáadás a { -brand-short-name }hoz
+amo-picker-install-button-label = Hozzáadás a { -brand-short-name(case: "allative") }
 amo-picker-install-complete-label = Telepítve
+amo-picker-collection-link = További kiegészítők felfedezése
 
 ## The following screens have been updated to use security and privacy focused strings:
 
