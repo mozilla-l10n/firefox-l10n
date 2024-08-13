@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Nedavna aktivnost
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
 newtab-section-header-stories = Priče koje potiču na razmišljanje
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Današnji preporučeni članci za tebe
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -390,3 +392,34 @@ newtab-weather-menu-hide-weather = Sakrij vremensku prognozu na novoj kartici
 newtab-weather-menu-learn-more = Saznaj više
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podaci o vremenu trenutačno nisu dostupni.
+
+## Topic Labels
+
+newtab-topic-label-business = Posao
+newtab-topic-label-career = Karijera
+newtab-topic-label-education = Obrazovanje
+newtab-topic-label-arts = Zabava
+newtab-topic-label-food = Hrana
+newtab-topic-label-health = Zdravlje
+newtab-topic-label-hobbies = Igranje
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Novac
+newtab-topic-label-society-parenting = Odgoj
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Znanost
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Životni savjeti
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Tehnologija
+newtab-topic-label-travel = Putovanja
+newtab-topic-label-home = Dom i vrt
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Odaberi teme prilagođavanje tvog feeda
