@@ -33,14 +33,14 @@ firefoxview-tabpickup-step-signin-header = Passe facilmente de um dispositivo pa
 firefoxview-tabpickup-step-signin-description = Para abrir aqui as abas do seu celular, primeiro entre na sua conta ou crie uma.
 firefoxview-tabpickup-step-signin-primarybutton = Avançar
 firefoxview-syncedtabs-signin-header = Recupere abas de qualquer dispositivo
-firefoxview-syncedtabs-signin-description = Para acessar suas abas de onde quer que você use o { -brand-product-name }, entre na sua conta. Se ainda não tiver, nós te orientamos no processo de criar uma conta.
+firefoxview-syncedtabs-signin-description = Para acessar suas abas de onde quer que use o { -brand-product-name }, entre na sua conta. Se ainda não tiver conta, nós te orientamos no processo de criar uma.
 firefoxview-syncedtabs-signin-primarybutton = Entrar ou criar conta
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } em seu celular ou tablet
 firefoxview-tabpickup-adddevice-description = Instale o { -brand-product-name } para dispositivos móveis e entre na sua conta.
 firefoxview-tabpickup-adddevice-learn-how = Saiba como
 firefoxview-tabpickup-adddevice-primarybutton = Instale o { -brand-product-name } para dispositivos móveis
 firefoxview-syncedtabs-adddevice-header = Entre na sua conta no { -brand-product-name } em seus outros dispositivos
-firefoxview-syncedtabs-adddevice-description = Para acessar suas abas de onde quer que você use o { -brand-product-name }, entre na sua conta em todos os seus dispositivos. Saiba como <a data-l10n-name="url">conectar outros dispositivos</a>.
+firefoxview-syncedtabs-adddevice-description = Para acessar suas abas de onde quer que use o { -brand-product-name }, entre na sua conta em todos os seus dispositivos. Saiba como <a data-l10n-name="url">conectar outros dispositivos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para celular
 firefoxview-tabpickup-synctabs-header = Ative a sincronização de abas
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } compartilhe abas entre dispositivos.
