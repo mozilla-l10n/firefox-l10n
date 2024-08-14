@@ -31,6 +31,11 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = Oldalsáv-kiegészítők
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } eszközök
+sidebar-customize-firefox-settings = A { -brand-short-name } beállításainak kezelése
+sidebar-position-left =
+    .label = Megjelenítés a bal oldalon
 sidebar-position-right =
     .label = Megjelenítés a jobb oldalon
 sidebar-vertical-tabs =
