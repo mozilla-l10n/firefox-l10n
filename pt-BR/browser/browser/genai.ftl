@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Adiciona o chatbot de sua escolha no painel lateral, para acesso rápido durante a navegação. <a data-l10n-name="connect">Compartilhar opinião</a>
+genai-settings-chat-description = Adicionar o chatbot de sua escolha no painel lateral, para acesso rápido durante a navegação. <a data-l10n-name="connect">Compartilhar opinião</a>
 genai-settings-chat-choose = Escolha um chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Escolha um

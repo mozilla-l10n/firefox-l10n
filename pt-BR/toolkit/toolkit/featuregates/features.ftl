@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
-experimental-features-css-masonry-description = Ativa o suporte para o recurso experimental CSS Masonry Layout. Consulte o <a data-l10n-name="explainer">explicador</a> para obter uma descrição de alto nível do recurso. Para fornecer feedback, comente <a data-l10n-name="w3c-issue">neste problema no GitHub</a> ou <a data-l10n-name="bug">neste bug</a>.
+experimental-features-css-masonry-description = Ativar suporte para o recurso experimental CSS Masonry Layout. Consulte o <a data-l10n-name="explainer">explicador</a> para obter uma descrição de alto nível do recurso. Para fornecer feedback, comente <a data-l10n-name="w3c-issue">neste problema no GitHub</a> ou <a data-l10n-name="bug">neste registro de bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
@@ -37,7 +37,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Ativ
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Ativar/desativar som WebRTC globalmente
-experimental-features-webrtc-global-mute-toggles-description = Adiciona controles ao indicador de compartilhamento global WebRTC, permitindo ao usuário silenciar globalmente seu microfone e câmera.
+experimental-features-webrtc-global-mute-toggles-description = Adicionar controles ao indicador de compartilhamento global WebRTC, permitindo ao usuário silenciar globalmente seu microfone e câmera.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -48,17 +48,17 @@ experimental-features-ime-search =
 experimental-features-ime-search-description = Um IME (Input Method Editor, ou editor de método de entrada) é uma ferramenta que permite inserir símbolos complexos, como os usados em idiomas escritos do subcontinente indiano ou do leste asiático, usando um teclado padrão. Ativar este experimento faz com que o painel da barra de endereços se mantenha aberto, mostrando resultados e sugestões de pesquisa ao usar o IME para inserir texto. Note que o IME pode exibir um painel que cubra os resultados da barra de endereços, portanto essa preferência é sugerida apenas para IME que não usa esse tipo de painel.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
-    .label = Picture-in-Picture: abertura automática ao mudar de aba
+    .label = Picture-in-picture: Abrir automaticamente ao mudar de aba
 experimental-features-auto-pip-description = Ativar picture-in-picture de vídeos ativos ao mudar de aba.
 genai-settings-chat-title =
     .label = Chatbot de inteligência artificial
 # Updated sidebar settings
 sidebar-title =
     .label = Painel lateral
-sidebar-description = Acesse facilmente seu histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
+sidebar-description = Acessar facilmente o histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
 vertical-tabs-title =
     .label = Abas verticais
-vertical-tabs-description = Mova suas abas do topo para o lado do navegador. Requer que você também experimente o painel lateral. <a data-l10n-name="connect">Compartilhar opinião</a>
+vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa reiniciar com o experimento 'Painel lateral'. <a data-l10n-name="connect">Compartilhar opinião</a>
 experimental-features-group-browsing =
     .label = Navegação
 experimental-features-group-developer-tools =
