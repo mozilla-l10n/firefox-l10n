@@ -58,7 +58,7 @@ sidebar-title =
 sidebar-description = Acessar facilmente o histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
 vertical-tabs-title =
     .label = Abas na vertical
-vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa reiniciar com o experimento 'Painel lateral'. <a data-l10n-name="connect">Compartilhar opinião</a>
+vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa do experimento “Painel lateral“. <a data-l10n-name="connect">Compartilhar opinião</a>
 experimental-features-group-browsing =
     .label = Navegação
 experimental-features-group-developer-tools =
