@@ -30,6 +30,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Oldalsáv-kiegészítők
 sidebar-position-right =
     .label = Megjelenítés a jobb oldalon
 sidebar-vertical-tabs =
