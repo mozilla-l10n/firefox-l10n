@@ -3,9 +3,39 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Web stranicama šalji “Ne prati” signal da ne želite biti praćeni
+do-not-track-description2 =
+    .label = Pošaljite web lokacijama zahtjev “Ne prati”.
+    .accesskey = d
 do-not-track-learn-more = Saznajte više
+do-not-track-option-default-content-blocking-known =
+    .label = Samo kada je { -brand-short-name } postavljen da blokira poznate tragače
 do-not-track-option-always =
     .label = Uvijek
+global-privacy-control-description =
+    .label = Recite web stranicama da ne prodaju ili dijele moje podatke
+    .accesskey = s
+non-technical-privacy-header = Postavke privatnosti web stranice
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Globalna kontrola privatnosti (GPC)
+settings-page-title = Postavke
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Pronađi u Postavkama
+managed-notice = Vašim pretraživačem upravlja vaša organizacija.
+managed-notice-info-icon =
+    .alt = Informacije
+category-list =
+    .aria-label = Kategorije
 pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
@@ -701,7 +731,7 @@ collection-header = { -brand-short-name } prikupljanje i upotreba podataka
 collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili { -brand-short-name } za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.
 collection-privacy-notice = Polica privatnosti
 collection-health-report =
-    .label = Omogući { -brand-short-name }u da šalje tehničke i interakcijske podatke Mozilli
+    .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke o interakciji na { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saznajte više
 collection-studies =

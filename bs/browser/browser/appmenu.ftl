@@ -254,6 +254,6 @@ appmenuitem-sign-in-account = Prijavite se na svoj račun
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primajte upozorenja o curenju podataka
 appmenuitem-relay-title = { -relay-brand-short-name }
-appmenuitem-relay-description = Maskirajte svoj prav e-mail i telefon
+appmenuitem-relay-description = Maskirajte svoj pravi e-mail i telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
