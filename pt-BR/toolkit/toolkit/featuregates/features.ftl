@@ -31,9 +31,9 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Um cache para o documento inicial about:home, carregado por padrão ao iniciar. O objetivo do cache é melhorar o desempenho da inicialização.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Developer Tools: Debug de Service Worker
+    .label = Ferramentas de desenvolvimento: Debug de Service Worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Ativa o suporte experimental de Service Workers no painel Debugger. Este recurso pode tornar o Developer Tools mais lento e aumentar o consumo de memória.
+experimental-features-devtools-serviceworker-debugger-support-description = Ativar suporte experimental de Service Workers no painel Debugger. Este recurso pode tornar o Developer Tools mais lento e aumentar o consumo de memória.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Ativar/desativar som WebRTC globalmente
@@ -57,7 +57,7 @@ sidebar-title =
     .label = Painel lateral
 sidebar-description = Acessar facilmente o histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
 vertical-tabs-title =
-    .label = Abas verticais
+    .label = Abas na vertical
 vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa reiniciar com o experimento 'Painel lateral'. <a data-l10n-name="connect">Compartilhar opinião</a>
 experimental-features-group-browsing =
     .label = Navegação
