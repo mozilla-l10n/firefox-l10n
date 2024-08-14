@@ -56,7 +56,7 @@ mobile-app-title = Bloquear anúncios de monitorização em mais dispositivos
 mobile-app-card-content = Utilize o navegador móvel com proteção integrada contra anúncios de monitorização.
 mobile-app-links = O navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nunca mais esqueça uma palavra-passe
-passwords-title-logged-in = Gira as suas palavras-passe
+passwords-title-logged-in = Gerir as suas palavras-passe
 passwords-header-content = O { -brand-product-name } guarda as suas palavras-passe em segurança no seu navegador.
 lockwise-header-content-logged-in = Guarde e sincronize em segurança as suas palavras-passe em todos os seus dispositivos.
 protection-report-passwords-save-passwords-button = Guardar palavras-passe
