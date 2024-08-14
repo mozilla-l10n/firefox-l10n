@@ -39,16 +39,33 @@ category-list =
 pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Početna
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Traži
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Privatnost & sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Sinhronizacija
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } eksperimenti
+category-experimental =
+    .tooltiptext = { -brand-short-name } eksperimenti
+pane-experimental-subtitle = Nastavite s oprezom
+pane-experimental-search-results-header = { -brand-short-name } eksperimenti: Nastavite s oprezom
+pane-experimental-description2 = Promjena postavki napredne konfiguracije može uticati na performanse ili sigurnost { -brand-short-name }a.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Isprobajte naše eksperimentalne funkcije! Oni su u razvoju i evoluciji, što bi moglo uticati na to kako { -brand-short-name } funkcioniše.
+pane-experimental-reset =
+    .label = Vrati zadane postavke
+    .accesskey = R
 help-button-label = { -brand-short-name } podrška
+addons-button-label = Ekstenzije i teme
 focus-search =
     .key = f
 close-button =
@@ -60,6 +77,7 @@ feature-enable-requires-restart = { -brand-short-name } se mora restartovati kak
 feature-disable-requires-restart = { -brand-short-name } se mora restartovati kako bi onemogućio ovu funkcionalnost.
 should-restart-title = Restartuj { -brand-short-name }
 should-restart-ok = Restartuj { -brand-short-name } odmah
+cancel-no-restart-button = Otkaži
 restart-later = Restartuj kasnije
 
 ## Extension Control Notifications
@@ -72,6 +90,21 @@ restart-later = Restartuj kasnije
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroliše ovu postavku.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroliše ovu postavku.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> zahtijeva tabove kontejnera.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroliše ovu postavku.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontroliše kako se { -brand-short-name } povezuje na internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
