@@ -15,8 +15,8 @@ genai-settings-chat-gemini-links = Избирайки Google Gemini, вие се
 genai-settings-chat-huggingchat-links = Избирайки HuggingChat, вие се съгласявате с <a data-l10n-name="link1">Декларацията за поверителност на HuggingChat</a> и <a data-l10n-name="link2">Политиката за поверителност на Hugging Face</a>.
 genai-settings-chat-localhost-links = Вземете свой частен локален чатбот, като <a data-l10n-name="link1">llamafile</a> от групата за иновации на { -vendor-short-name }.
 genai-settings-chat-shortcuts =
-    .description = Показват се икони за подкани към чатбота когато изберете текст. { -brand-short-name } изпраща текста, заглавието на страницата и подканата към чатбота.
-    .label = Показване на чатбот подкани при избор на текст
+    .description = Контекстни икони с подкани към чатбота, когато изберете текст. { -brand-short-name } изпраща текста, заглавието на страницата и подканата към чатбота.
+    .label = Контекстни чатбот подкани при избор на текст
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
