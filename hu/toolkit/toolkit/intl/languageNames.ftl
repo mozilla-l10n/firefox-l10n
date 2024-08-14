@@ -166,6 +166,7 @@ language-name-se = északi számi
 language-name-sg = sango
 language-name-si = szingaléz
 language-name-sk = szlovák
+language-name-skr = Saraiki
 language-name-sl = szlovén
 language-name-sm = szamoai
 language-name-sn = shona

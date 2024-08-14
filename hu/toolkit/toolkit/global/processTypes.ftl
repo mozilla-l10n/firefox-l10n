@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Webtartalom
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Előre lefoglalt
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Elsődleges
 process-type-tab = Lap
@@ -41,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Foglalat
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Következtetés
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Homokozóba zárt IPC aktor
 process-type-utility-actor-audio-decoder-generic = Általános hangdekóder segédprogram
@@ -53,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Windowsos fájlválasztó párb
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Ismeretlen

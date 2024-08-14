@@ -298,8 +298,6 @@ pdfjs-editor-stamp-button-label = Képek hozzáadása vagy szerkesztése
 pdfjs-editor-highlight-button =
     .title = Kiemelés
 pdfjs-editor-highlight-button-label = Kiemelés
-pdfjs-highlight-floating-button =
-    .title = Kiemelés
 pdfjs-highlight-floating-button1 =
     .title = Kiemelés
     .aria-label = Kiemelés
@@ -394,3 +392,16 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Összes megjelenítése
 pdfjs-editor-highlight-show-all-button =
     .title = Összes megjelenítése
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Alt szöveg szerkesztése (képleírás)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Alt szöveg hozzáadása (képleírás)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Írja ide a leírását…
+
+## Image alt-text settings
+
