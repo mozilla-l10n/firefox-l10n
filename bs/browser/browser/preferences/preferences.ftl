@@ -212,10 +212,46 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Ukloni ovaj Container
 containers-remove-cancel-button = Ne uklanjaj ovaj Container
+settings-tabs-show-image-in-preview =
+    .label = Prikažite pregled slike kada zadržite pokazivač miša na tabu
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izled
+preferences-web-appearance-header = Izgled web stranice
+preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
+preferences-web-appearance-choice-auto = Automatski
+preferences-web-appearance-choice-light = Svijetla
+preferences-web-appearance-choice-dark = Tamna
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Automatski promijenite pozadinu i sadržaj web stranice na osnovu postavki vašeg sistema i teme { -brand-short-name }a.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Koristite svijetli izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Koristite taman izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Vaši odabiri boja nadjačavaju izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Vaši odabiri boja nadjačavaju izgled web stranice.
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Upravljajte temama { -brand-short-name }a u <a data-l10n-name="themes-link">Proširenja i teme</a>
+preferences-colors-header = Boje
+preferences-colors-description = Zamijenite zadane boje { -brand-short-name } za tekst, pozadinu web stranice i linkove.
+preferences-colors-manage-button =
+    .label = Upravljaj bojama…
+    .accesskey = C
+preferences-fonts-header = Fontovi
 default-font = Izvorni font:
     .accesskey = f
 default-font-size = Veličina:
@@ -223,21 +259,44 @@ default-font-size = Veličina:
 advanced-fonts =
     .label = Napredno…
     .accesskey = a
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Uvećaj
+preferences-default-zoom = Početno uvećanje
+    .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Uvećaj samo tekst
+    .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Upozorenje: Ako odaberete “Samo uvećanje teksta” i vaše početno uvećanje nije postavljeno na 100%, to može uzrokovati kvar nekih web stranica ili sadržaja.
 language-header = Jezik
 choose-language-description = Izaberite željeni jezik za prikaz stranica
 choose-button =
     .label = Izaberi…
     .accesskey = I
+choose-browser-language-description = Odaberite jezike koji se koriste za prikaz menija, poruka i obavještenja sa { -brand-short-name }a.
+manage-browser-languages-button =
+    .label = Postavi alternative…
+    .accesskey = l
+confirm-browser-language-change-description = Ponovo pokrenite { -brand-short-name } da primijenite ove promjene
 confirm-browser-language-change-button = Primijeni i ponovo pokreni
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Preveli <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izuzeci…
     .accesskey = e
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Koristite postavke operativnog sistema za “{ $localeName }” za formatiranje datuma, vremena, brojeva i mjerenja.
 check-user-spelling =
     .label = Provjeravaj pravopis dok kucam
     .accesskey = o
@@ -285,6 +344,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Koristi { $app-name }  (izvorno)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Koristite macOS zadanu aplikaciju
+            [windows] Koristite Windows zadanu aplikaciju
+           *[other] Koristite sistemski zadanu aplikaciju
+        }
 applications-use-other =
     .label = Koristi drugo…
 applications-select-helper = Odaberite pomoćni program
@@ -297,9 +363,15 @@ applications-always-ask =
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Koristi { $plugin-name } (u { -brand-short-name }u)
+applications-open-inapp =
+    .label = Otvori u { -brand-short-name }u
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -311,15 +383,26 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+applications-handle-new-file-types-description = Šta { -brand-short-name } treba da radi sa drugim datotekama?
+applications-save-for-new-types =
+    .label = Sačuvaj datoteke
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Pitaj da li otvoriti ili sačuvati datoteke
+    .accesskey = A
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
     .label = Reproduciraj DRM-kontrolisani sadržaj
@@ -343,9 +426,27 @@ update-application-check-choose =
 update-application-manual =
     .label = Nikad ne provjeravaj za nadogradnju (nije preporučeno)
     .accesskey = N
+update-application-background-enabled =
+    .label = Kada { -brand-short-name } ne radi
+    .accesskey = W
+update-application-warning-cross-user-setting = Ova postavka će se primijeniti na sve Windows račune i { -brand-short-name } profile koji koriste ovu instalaciju { -brand-short-name }.
 update-application-use-service =
     .label = Koristi pozadinski servis za instalaciju nadogradnji
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Prikaži manje upita za obavještenja o ažuriranju
+    .accesskey = n
+update-setting-write-failure-title2 = Greška pri čuvanju postavki ažuriranja
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } je naišao na grešku i nije sačuvao ovu promjenu. Imajte na umu da promjena ove postavke ažuriranja zahtijeva dozvolu za pisanje u datoteku ispod. Vi ili sistemski administrator možda ćete moći riješiti grešku tako što ćete grupi korisnika dati potpunu kontrolu nad ovom datotekom.
+    
+    Nije moguće pisati u datoteku: { $path }
+update-in-progress-title = Ažuriranje u toku
+update-in-progress-message = Želite li da { -brand-short-name } nastavi s ovim ažuriranjem?
 
 ## General Section - Performance
 
@@ -514,6 +615,9 @@ containers-header = Container tabovi
 containers-add-button =
     .label = Dodaj novi Container
     .accesskey = a
+containers-new-tab-check =
+    .label = Odaberite kontejner za svaki novi tab
+    .accesskey = S
 containers-remove-button =
     .label = Ukloni
 
