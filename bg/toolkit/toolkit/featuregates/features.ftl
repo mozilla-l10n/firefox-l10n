@@ -47,7 +47,7 @@ experimental-features-group-browsing =
 experimental-features-group-developer-tools =
     .label = Развойни инструменти
 experimental-features-group-webpage-display =
-    .label = Показване на уеб страница
+    .label = Изчертаване на уеб страницата
 experimental-features-group-customize-browsing =
     .label = Персонализирайте вашето сърфиране
 experimental-features-group-customize-browsing-description = Ако изпробвате тези функции, <a data-l10n-name="connect">споделете мнението си на Connect</a>
