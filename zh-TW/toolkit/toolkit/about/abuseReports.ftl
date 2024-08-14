@@ -15,9 +15,7 @@ abuse-report-subtitle = 有什麼問題？
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = by <a data-l10n-name="author-name">{ $author-name }</a>
-abuse-report-learnmore = 不確定要選擇哪項嗎？<a data-l10n-name="learnmore-link">了解關於回報擴充套件與佈景主題的相關資訊</a>
-abuse-report-learnmore-intro = 不確定要選擇哪項嗎？
-abuse-report-learnmore-link = 了解關於回報擴充套件與佈景主題的相關資訊
+abuse-report-learnmore = 不確定要選擇哪項嗎？<a data-l10n-name="learnmore-link">了解關於檢舉擴充套件與佈景主題的相關資訊</a>
 abuse-report-submit-description = 請描述問題（選填）
 abuse-report-textarea =
     .placeholder = 如果有更多細節，我們可以比較簡單就找到問題的根源。請描述您遇到了哪些問題，也非常感謝您協助我們，確保網路環境的健康。
@@ -44,24 +42,6 @@ abuse-report-messagebar-removed-sitepermission = 感謝您回報。已移除 <sp
 abuse-report-messagebar-removed-theme = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
 abuse-report-messagebar-error = 傳送<span data-l10n-name="addon-name">{ $addon-name }</span> 的報告時，發生錯誤。
 abuse-report-messagebar-error-recent-submit = 由於最近傳送過另一份報告，並未傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
-abuse-report-messagebar-aborted2 =
-    .message = 已取消回報 { $addon-name }。
-abuse-report-messagebar-submitting2 =
-    .message = 正在傳送 { $addon-name } 的報告。
-abuse-report-messagebar-submitted2 =
-    .message = 感謝您回報。您想要移除 { $addon-name } 嗎？
-abuse-report-messagebar-submitted-noremove2 =
-    .message = 感謝您回報。
-abuse-report-messagebar-removed-extension2 =
-    .message = 感謝您回報。已移除 { $addon-name } 擴充套件。
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = 感謝您回報。已移除 { $addon-name } 網站權限附加元件。
-abuse-report-messagebar-removed-theme2 =
-    .message = 感謝您回報。已移除 { $addon-name } 佈景主題。
-abuse-report-messagebar-error2 =
-    .message = 傳送{ $addon-name } 的報告時，發生錯誤。
-abuse-report-messagebar-error-recent-submit2 =
-    .message = 由於最近傳送過另一份報告，並未傳送 { $addon-name } 的報告。
 
 ## Message bars actions.
 

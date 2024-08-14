@@ -325,6 +325,13 @@ onboarding-device-migration-subtitle = 登入您的 { -fxaccount-brand-name(capi
 onboarding-device-migration-subtitle2 = 登入帳號後，即可將書籤、密碼、上網紀錄帶到新裝置。
 onboarding-device-migration-primary-button-label = 登入
 
+## Add-ons Picker screen
+
+amo-picker-title = 自訂您的 { -brand-short-name }
+amo-picker-install-button-label = 新增至 { -brand-short-name }
+amo-picker-install-complete-label = 已安裝
+amo-picker-collection-link = 探索更多附加元件
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

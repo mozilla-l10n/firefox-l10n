@@ -26,3 +26,13 @@ genai-settings-chat-lechat-links = 若選用 Le Chat Mistral，代表您同意 M
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = 問問 AI 聊天機器人
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = 問問 { $provider }
+genai-input-ask-generic =
+    .placeholder = 問問 AI 聊天機器人…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = 問問 { $provider }…

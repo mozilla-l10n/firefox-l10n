@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = 近期動態
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 推薦
 newtab-section-header-stories = 發人深省的文章
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = 本日精選文章
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -409,3 +411,16 @@ newtab-topic-label-society = 自我成長
 newtab-topic-label-sports = 體育
 newtab-topic-label-tech = 科技
 newtab-topic-label-travel = 旅遊
+newtab-topic-label-home = 家庭與園藝
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = 請選擇主題來調整您的資訊來源
+newtab-topic-selection-save-button = 儲存
+newtab-topic-selection-cancel-button = 取消
+newtab-topic-selection-button-maybe-later = 之後再說
+newtab-topic-selection-privacy-link = 了解我們如何保護與管理資料
+newtab-topic-selection-button-update-interests = 更新您有興趣的項目
+newtab-topic-selection-button-pick-interests = 挑選您有興趣的項目

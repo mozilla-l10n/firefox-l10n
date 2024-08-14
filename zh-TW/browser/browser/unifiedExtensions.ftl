@@ -31,7 +31,7 @@ unified-extensions-context-menu-manage-extension =
 unified-extensions-context-menu-remove-extension =
     .label = 移除擴充套件
 unified-extensions-context-menu-report-extension =
-    .label = 回報擴充套件
+    .label = 檢舉擴充套件
 unified-extensions-context-menu-move-widget-up =
     .label = 上移
 unified-extensions-context-menu-move-widget-down =
@@ -41,7 +41,6 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = 不允許使用某些擴充套件
 unified-extensions-mb-quarantined-domain-message = 為了保護您的資料安全，僅可在此網站使用某些受 { -vendor-short-name } 監控的擴充套件。
-unified-extensions-mb-quarantined-domain-message-2 = 為了保護您的資料，某些擴充套件無法讀取或更改此網站的資料。您可以到套件設定頁面中允許存取受 { -vendor-short-name } 限制的網站。
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 不允許使用某些擴充套件
