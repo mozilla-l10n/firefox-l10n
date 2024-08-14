@@ -402,6 +402,30 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Alt szöveg szerkesztése (képle�
 pdfjs-editor-new-alt-text-dialog-add-label = Alt szöveg hozzáadása (képleírás)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Írja ide a leírását…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Rövid leírás azoknak, akik nem látják a képet, vagy arra az esetre, ha a kép nem tölt be.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Ez az alt szöveg automatikusan lett létrehozva, és pontatlan lehet.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Ez az alt szöveg automatikusan lett létrehozva.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = További tudnivalók
+pdfjs-editor-new-alt-text-create-automatically-button-label = Alt szöveg automatikus létrehozása
+pdfjs-editor-new-alt-text-not-now-button = Most nem
+pdfjs-editor-new-alt-text-error-title = Az alt szöveg automatikus létrehozása nem sikerült
+pdfjs-editor-new-alt-text-error-description = Írja meg a saját alt szövegét, vagy próbálja újra később.
+pdfjs-editor-new-alt-text-error-close-button = Bezárás
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Alt szöveg MI modell letöltése ({ $downloadedSize } / { $totalSize } MB)
+    .aria-valuetext = Alt szöveg MI modell letöltése ({ $downloadedSize } / { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Alt szöveg hozzáadva
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Hiányzó alt szöveg
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Alternatív szöveg szerkesztése
 
 ## Image alt-text settings
 
