@@ -115,6 +115,8 @@ extension-controlled-enable = Da omogućite ekstenziju posjetite <img data-l10n-
 ## Preferences UI Search Results
 
 search-results-header = Rezultati pretrage
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Izvinite! Nema rezultata u postavkama za “<span data-l10n-name="query"></span>”.
 search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -brand-short-name } podrška</a>
 
 ## General Section
@@ -128,6 +130,13 @@ is-not-default = { -brand-short-name } trenutno nije vaš glavni browser
 set-as-my-default-browser =
     .label = Učini glavnim…
     .accesskey = G
+startup-restore-windows-and-tabs =
+    .label = Otvorite prethodne prozore i tabove
+    .accesskey = s
+windows-launch-on-login =
+    .label = Automatski otvori { -brand-short-name } kada se računar pokrene
+    .accesskey = O
+windows-launch-on-login-disabled = Ova postavka je onemogućena u Windowsu. Za promjenu posjetite <a data-l10n-name="startup-link">Aplikacije pri pokretanju</a> u postavkama sistema.
 disable-extension =
     .label = Onemogući ekstenziju
 tabs-group-header = Tabovi
