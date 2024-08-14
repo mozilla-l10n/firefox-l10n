@@ -63,6 +63,8 @@ experimental-features-group-browsing =
     .label = Nettlesing
 experimental-features-group-developer-tools =
     .label = Utviklarverktøy
+experimental-features-group-webpage-display =
+    .label = Vising av nettside
 experimental-features-group-customize-browsing =
     .label = Tilpass nettlesinga di
 experimental-features-group-customize-browsing-description = Om du prøver desse funksjonane, <a data-l10n-name="connect">del tankane dine om Connect</a>
