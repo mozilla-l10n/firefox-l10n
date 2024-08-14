@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Превеждане на тази страница - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Опитайте поверителни преводи в { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -65,10 +69,23 @@ translations-panel-translate-cancel =
     .label = Отказ
 translations-panel-learn-more-link = Научете повече
 translations-panel-error-translating = Възникна проблем при превода. Моля, опитайте отново.
+translations-panel-error-load-languages = Езиците не са заредени
 translations-panel-error-load-languages-hint = Проверете връзката си с интернет и опитайте отново.
 translations-panel-error-load-languages-hint-button =
     .label = Опитайте отново
 translations-panel-error-unsupported = Преводът не е наличен за тази страница
+translations-panel-error-dismiss-button =
+    .label = Разбрах
+translations-panel-error-change-button =
+    .label = Смяна на изходния език
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Съжаляваме, но все още не поддържаме { $language }.
+translations-panel-error-unsupported-hint-unknown = Съжаляваме, но все още не поддържаме този език.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -91,6 +108,8 @@ translations-panel-to-label = на:
 translations-panel-revisit-header = Тази страница е преведена от { $fromLanguage } на { $toLanguage }
 translations-panel-choose-language =
     .label = Изберете език
+translations-panel-restore-button =
+    .label = Показване на оригинала
 
 ## Firefox Translations language management in about:preferences.
 
@@ -98,11 +117,12 @@ translations-manage-header = Преводи
 translations-manage-settings-button =
     .label = Настройки…
     .accesskey = т
+translations-manage-description = Изтегляне на езици за превод без мрежа.
 translations-manage-all-language = Всички езици
 translations-manage-download-button = Изтегляне
 translations-manage-delete-button = Изтриване
-translations-manage-intro-2 = Настройте вашия език и предпочитанията си за превод на сайтове. Управлявайте изтеглянето на езици за офлайн превод.
-translations-manage-download-description = Изтегляне на езици за офлайн превод
+translations-manage-intro-2 = Настройте вашия език и предпочитанията си за превод на сайтове. Управлявайте изтеглянето на езици за превод без мрежа.
+translations-manage-download-description = Изтегляне на езици за превод без мрежа
 translations-manage-language-download-button =
     .label = Изтегляне
 translations-manage-language-download-all-button =
@@ -209,6 +229,8 @@ select-translations-panel-translation-failure-message =
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
     .message = Съжаляваме, но все още не поддържаме преводи от { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Съжаляваме, но все още не поддържаме този език.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Настройки за преводи
