@@ -137,8 +137,15 @@ windows-launch-on-login =
     .label = Automatski otvori { -brand-short-name } kada se računar pokrene
     .accesskey = O
 windows-launch-on-login-disabled = Ova postavka je onemogućena u Windowsu. Za promjenu posjetite <a data-l10n-name="startup-link">Aplikacije pri pokretanju</a> u postavkama sistema.
+startup-restore-warn-on-quit =
+    .label = Upozorava vas kada napuštate pretraživač
 disable-extension =
     .label = Onemogući ekstenziju
+preferences-data-migration-header = Uvezite podatke pretraživača
+preferences-data-migration-description = Uvezite oznake, lozinke, historiju i podatke automatskog popunjavanja u { -brand-short-name }u.
+preferences-data-migration-button =
+    .label = Uvezi podatke
+    .accesskey = m
 tabs-group-header = Tabovi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
@@ -149,9 +156,20 @@ open-new-link-as-tabs =
 confirm-on-close-multiple-tabs =
     .label = Zatraži potvrdu pri zatvaranju više tabova
     .accesskey = d
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Traži potvrdu prije zatvaranja s prečicom { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Upozoriti vas kada otvaranje više tabova može usporiti { -brand-short-name }
     .accesskey = d
+switch-to-new-tabs =
+    .label = Kada otvorite vezu, sliku ili medij u novom tabu, odmah se prebacite na njega
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Prikazuj pregled tabova u Windows taskbaru
     .accesskey = k
@@ -210,6 +228,7 @@ choose-language-description = Izaberite željeni jezik za prikaz stranica
 choose-button =
     .label = Izaberi…
     .accesskey = I
+confirm-browser-language-change-button = Primijeni i ponovo pokreni
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
@@ -377,11 +396,22 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novi prozori i tabovi
 home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorite svoju početnu stranicu, nove prozore i nove tabove.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Početna stranica i novi prozori
+home-newtabs-mode-label = Novi tabovi
+home-restore-defaults =
+    .label = Vrati na početne vrijednosti
+    .accesskey = R
+home-mode-choice-custom =
+    .label = Prilagođeni URL-ovi…
+home-mode-choice-blank =
+    .label = Prazna stranica
+home-homepage-custom-url =
+    .placeholder = Zalijepi URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -684,6 +714,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kolačići i podaci stranica
 sitedata-total-size-calculating = Računam veličinu podataka web stranica i keš memorije…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
