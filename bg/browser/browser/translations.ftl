@@ -74,8 +74,8 @@ translations-panel-error-unsupported = Преводът не е наличен �
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
-translations-panel-from-label = Превод от
-translations-panel-to-label = Превеждане на
+translations-panel-from-label = Превеждане от:
+translations-panel-to-label = на:
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
