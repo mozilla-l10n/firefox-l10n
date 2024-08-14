@@ -26,5 +26,12 @@ sidebar-title =
 vertical-tabs-title =
     .label = Вертикални раздели
 vertical-tabs-description = Преместете разделите от горната част на браузъра встрани. Изисква да включите и страничната лента. <a data-l10n-name="connect">Споделяне на отзиви</a>
+experimental-features-group-browsing =
+    .label = Разглеждане
 experimental-features-group-developer-tools =
     .label = Развойни инструменти
+experimental-features-group-webpage-display =
+    .label = Показване на уеб страница
+experimental-features-group-customize-browsing =
+    .label = Персонализирайте вашето сърфиране
+experimental-features-group-customize-browsing-description = Ако изпробвате тези функции, <a data-l10n-name="connect">споделете мнението си на Connect</a>
