@@ -11,7 +11,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
-onboarding-start-browsing-button-label = Započni pregledavanje
+onboarding-start-browsing-button-label = Počni pregledavati
 onboarding-not-now-button-label = Ne sada
 mr1-onboarding-get-started-primary-button-label = Započni
 
@@ -116,7 +116,7 @@ mr2-onboarding-default-theme-label = Istraži zadane teme.
 
 mr2-onboarding-thank-you-header = Hvala što smo tvoj odabir
 mr2-onboarding-thank-you-text = { -brand-short-name } je neovisan preglednik iza kojeg stoji neprofitna organizacija. Zajedno činimo web sigurnijim, zdravijim i privatnijim.
-mr2-onboarding-start-browsing-button-label = Započnite surfati
+mr2-onboarding-start-browsing-button-label = Počni pregledavati
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -195,7 +195,7 @@ mr2022-onboarding-pin-primary-button-label-msix = Prikvači { -brand-short-name 
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Započnite s preglednikom koji podržava neprofitna organizacija. Branimo vašu privatnost dok jurite po webu.
+mr2022-onboarding-set-default-only-subtitle = Započni s preglednikom koji podržava neprofitna organizacija. Branimo tvoju privatnost dok pregledavaš web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 

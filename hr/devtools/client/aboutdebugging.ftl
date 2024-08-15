@@ -265,7 +265,7 @@ about-debugging-extension-id =
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Pokreni
-    .disabledTitle = Pokretanje radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
+    .disabledTitle = Pokretanje radnih procesa je trenutačno deaktivirano za višeprocesni { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odjavi
 # Displayed for service workers in runtime pages that listen to Fetch events.
