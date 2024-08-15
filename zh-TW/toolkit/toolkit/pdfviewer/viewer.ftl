@@ -431,6 +431,7 @@ pdfjs-image-alt-text-settings-button-label = 圖片替代文字設定
 pdfjs-editor-alt-text-settings-dialog-label = 圖片替代文字設定
 pdfjs-editor-alt-text-settings-automatic-title = 自動化替代文字
 pdfjs-editor-alt-text-settings-create-model-button-label = 自動產生替代文字
+pdfjs-editor-alt-text-settings-create-model-description = 為您建議圖片描述，幫助看不到圖片的讀者，或於圖片無法載入時顯示。
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = 替代文字 AI 模型（{ $totalSize } MB）
