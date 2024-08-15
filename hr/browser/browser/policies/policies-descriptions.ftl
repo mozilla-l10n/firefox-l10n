@@ -73,7 +73,7 @@ policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzan
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
 policy-InstallAddonsPermission = Dozvoli određenim web stranicama instalirati dodatke.
-policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za svaku instalaciju
+policy-LegacyProfiles = Deaktiviraj funkciju koja nameće zaseban profil za svaku instalaciju.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

@@ -60,7 +60,7 @@ pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description3 = Isprobajte naše eksperimentalne značajke! U razvoju su i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name }.
+pane-experimental-description3 = Isprobaj naše eksperimentalne funkcije! Nalaze se u fazi razvoja i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name }.
 pane-experimental-reset =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -1129,7 +1129,7 @@ addressbar-quickactions-learn-more = Saznaj više
 content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
 content-blocking-learn-more = Saznaj više
-content-blocking-fpi-incompatibility-warning = Koristiš značajku First Party Isolation (FPI), koja nadjačava neke postavke kolačića u { -brand-short-name }u.
+content-blocking-fpi-incompatibility-warning = Koristiš funkciju First Party Isolation (FPI), koja nadjačava neke postavke kolačića u { -brand-short-name }u.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
@@ -1177,7 +1177,7 @@ content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi prikupl
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolačića izolira kolačiće na stranicu koja ih je postavila, tako da ih programi za praćenje ne mogu koristiti da vas prate između stranica koje posjećujete.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
-content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju značajku privatnosti ikada
+content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju funkciju za privatnost ikada
 content-blocking-warning-title = Upozorenje!
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
@@ -1306,8 +1306,8 @@ collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name }u
     .accesskey = D
 collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje zaostale zapise o rušenju u tvoje ime
     .accesskey = D
-privacy-segmentation-section-header = Nove značajke koje poboljšavaju vaše pregledavanje
-privacy-segmentation-section-description = Kada nudimo značajke koje koriste vaše podatke kako bi vam pružile osobnije iskustvo:
+privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
+privacy-segmentation-section-description = Kada nudimo funkcije koje koriste tvoje podatke za pružanje osobnijeg iskustva:
 privacy-segmentation-radio-off =
     .label = Koristi { -brand-product-name } preporuke
 privacy-segmentation-radio-on =
