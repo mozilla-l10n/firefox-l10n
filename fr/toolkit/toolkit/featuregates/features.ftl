@@ -55,7 +55,7 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Panneau latéral
-sidebar-description = Accédez facilement à votre historique, aux onglets d’autres appareils, aux extensions du panneau latéral et à d’autres fonctions en cours de navigation. <a data-l10n-name="connect">Donner votre avis</a>
+sidebar-description = Accéder facilement à votre historique, aux onglets d’autres appareils, aux extensions du panneau latéral et à d’autres fonctions en cours de navigation. <a data-l10n-name="connect">Donner votre avis</a>
 vertical-tabs-title =
     .label = Onglets verticaux
 experimental-features-group-browsing =
