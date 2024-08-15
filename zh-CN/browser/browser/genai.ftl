@@ -10,6 +10,9 @@ genai-settings-chat-choose = 选择聊天机器人
 genai-settings-chat-choose-one-menuitem =
     .label = 请选择
 genai-settings-chat-links = 选择聊天机器人，即代表您同意相应提供方的使用条款和隐私政策。
+genai-settings-chat-chatgpt-links = 选择 ChatGPT，即代表您同意 OpenAI 的 <a data-l10n-name="link1">使用条款</a>和<a data-l10n-name="link2">隐私政策</a>。
+genai-settings-chat-claude-links = 选择 Anthropic Claude，即代表您同意 Anthropic 的 <a data-l10n-name="link1">消费者服务条款</a、<a data-l10n-name="link2">使用政策</a>和 <a data-l10n-name="link3">隐私政策</a>。
+genai-settings-chat-localhost-links = 引入您私有的本地聊天机器人，例如 { -vendor-short-name }’s Innovation 集群打造的 <a data-l10n-name="link1">llamafile</a>。
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
