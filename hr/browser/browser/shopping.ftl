@@ -217,11 +217,11 @@ shopping-onboarding-headline = Isprobajte naš pouzdani vodič za recenzije proi
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Provjerite koliko su pouzdane recenzije proizvoda na <b>{ $currentSite }</b> prije nego što kupite. Provjera recenzija, eksperimentalna značajka tvrtke { -brand-product-name }, ugrađena je izravno u preglednik. Radi i na <b>{ $secondSite }</b> i <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 = Provjeri pouzdanost recenzija proizvoda na <b>{ $currentSite }</b> prije kupnje. Provjera recenzija, eksperimentalna { -brand-product-name } funkcija je ugrađena izravno u preglednik. Također radi na <b>{ $secondSite }</b> i <b>{ $thirdSite }</b>.
 # Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
 # Variables:
 #   $currentSite (str) - The current shopping page name
-shopping-onboarding-single-subtitle = Provjerite koliko su pouzdane recenzije proizvoda na <b>{ $currentSite }</b> prije nego što kupite. Provjera recenzija, eksperimentalna značajka tvrtke { -brand-product-name }, ugrađena je izravno u preglednik.
+shopping-onboarding-single-subtitle = Provjeri pouzdanost recenzija proizvoda na <b>{ $currentSite }</b> prije kupnje. Provjera recenzija, eksperimentalna { -brand-product-name } funkcija je ugrađena izravno u preglednik.
 shopping-onboarding-body = Koristeći snagu { -fakespot-brand-full-name }, pomažemo vam da izbjegnete pristrane i neautentične recenzije. Naš AI model stalno se poboljšava kako bi vas zaštitio dok kupujete. <a data-l10n-name="learn_more">Saznajte više</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Označavanjem gumba „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">pravila privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>
 shopping-onboarding-opt-in-button = Da, probaj
