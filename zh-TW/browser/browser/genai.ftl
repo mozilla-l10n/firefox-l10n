@@ -16,6 +16,7 @@ genai-settings-chat-copilot-links = 若選用 Copilot，代表您同意 <a data-
 genai-settings-chat-gemini-links = 若選用 Google Gemini，代表您同意 <a data-l10n-name="link1">Google 服務條款</a>、<a data-l10n-name="link2">生成式人工智慧禁用政策</a>，以及<a data-l10n-name="link3">Gemini Apps 隱私權公告</a>。
 genai-settings-chat-huggingchat-links = 若選用 HuggingChat，代表您同意 <a data-l10n-name="link1">HuggingChat 隱私權公告</a>與 <a data-l10n-name="link2">Hugging Face 隱私權保護政策</a>。
 genai-settings-chat-lechat-links = 若選用 Le Chat Mistral，代表您同意 Mistral AI 的<a data-l10n-name="link1">服務條款</a>與 <a data-l10n-name="link2">隱私權保護政策</a>。
+genai-settings-chat-localhost-links = 將您本機端的私人聊天機器人的 <a data-l10n-name="link1">llamafile</a> 帶到 { -vendor-short-name } 的創新群組使用。
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
