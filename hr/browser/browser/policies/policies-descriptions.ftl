@@ -36,6 +36,8 @@ policy-DisableDefaultBrowserAgent = Spriječi zadanog agenta preglednika da podu
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Deaktiviraj usluge temeljene na računu, uključujući sinkronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogući funkciju Firefox Screenshots.
 policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
