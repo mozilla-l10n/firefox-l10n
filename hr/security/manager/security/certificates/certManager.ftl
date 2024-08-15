@@ -100,7 +100,7 @@ pkcs12-dup-data = Certifikat i sigurnosni ključ već postoje na sigurnosnom ure
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Ime datoteke za izradu sigurnosne kopije
+choose-p12-backup-file-dialog = Ime datoteke za sigurnosnu kopiju
 file-browse-pkcs12-spec = PKCS12 Datoteke
 choose-p12-restore-file-dialog = Datoteka certifikata za uvoz
 
