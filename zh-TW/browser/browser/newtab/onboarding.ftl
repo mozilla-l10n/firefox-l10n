@@ -328,6 +328,7 @@ onboarding-device-migration-primary-button-label = 登入
 ## Add-ons Picker screen
 
 amo-picker-title = 自訂您的 { -brand-short-name }
+amo-picker-subtitle = 擴充套件就像是在您的瀏覽器中安裝應用程式，這些套件可讓您保護密碼、下載影音內容、購物比價、封鎖討人厭的廣告、更改瀏覽器外觀等等功能。
 amo-picker-install-button-label = 新增至 { -brand-short-name }
 amo-picker-install-complete-label = 已安裝
 amo-picker-collection-link = 探索更多附加元件

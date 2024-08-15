@@ -418,6 +418,9 @@ newtab-topic-label-home = 家庭與園藝
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = 請選擇主題來調整您的資訊來源
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = 選擇兩組以上的主題，我們的策展專家會依照您的興趣優先顯示。內容隨時更新。
 newtab-topic-selection-save-button = 儲存
 newtab-topic-selection-cancel-button = 取消
 newtab-topic-selection-button-maybe-later = 之後再說
