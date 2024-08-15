@@ -394,6 +394,10 @@ pdfjs-editor-new-alt-text-dialog-edit-label = 編輯替代文字（圖片描述�
 pdfjs-editor-new-alt-text-dialog-add-label = 新增替代文字（圖片描述）
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = 在此寫下您的描述文字…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = 為看不到圖片的讀者，或圖片無法載入時顯示的簡短描述。
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = 此替代文字是自動產生的，可能不夠精確。
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer = 此替代文字是自動產生而成。
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = 更多資訊
