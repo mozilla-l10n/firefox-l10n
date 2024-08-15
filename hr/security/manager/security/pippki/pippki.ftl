@@ -93,9 +93,9 @@ set-password-window =
     .title = Odaberi sigurnosnu kopiju lozinke certifikata
 set-password-message = Sigurnosna kopija lozinke certifikata koju ćete ovdje postaviti štiti sigurnosnu kopiju datoteke koju ćete upravo stvoriti. Da biste nastaviti s izradom sigurnosne kopije, morate upisati lozinku.
 set-password-backup-pw =
-    .value = Sigurnosna kopija lozinke certifikata:
+    .value = Lozinka sigurnosne kopije certifikata:
 set-password-repeat-backup-pw =
-    .value = Sigurnosna kopija lozinke certifikata (opet):
+    .value = Lozinka sigurnosne kopije certifikata (još jednom):
 set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći obnoviti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
 
 ## Protected authentication alert

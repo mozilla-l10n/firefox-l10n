@@ -248,7 +248,7 @@ device-migration-fxa-spotlight-older-device-body = Račun aktualizira i štiti t
 device-migration-fxa-spotlight-older-device-primary-button = Otvori račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u tvojoj budućnosti?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slijedi nekoliko jednostavnih koraka da poneseš svoje zabilješke, povijest i lozinke sa sobom kada počneš koristiti novi uređaj.
-device-migration-fxa-spotlight-getting-new-device-primary-button = Kako izraditi sigurnosnu kopiju mojih podataka
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kako spremiti sigurnosnu kopiju mojih podataka
 
 ## Set as Default PDF Reader Infobar
 
