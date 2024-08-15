@@ -408,3 +408,12 @@ newtab-topic-label-education-science = Vitenskap
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Teknologi
 newtab-topic-label-travel = Reise
+newtab-topic-label-home = Hjem og hage
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Lagre
+newtab-topic-selection-cancel-button = Avbryt
+newtab-topic-selection-button-maybe-later = Kanskje senere
+newtab-topic-selection-button-update-interests = Oppdater dine interesser
+newtab-topic-selection-button-pick-interests = Velg dine interesser
