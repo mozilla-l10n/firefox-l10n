@@ -14,10 +14,10 @@ printpreview-close =
     .label = Lat att
     .accesskey = L
 printpreview-portrait =
-    .label = Ståande
+    .label = Ståande (portrait)
     .accesskey = S
 printpreview-landscape =
-    .label = Liggande
+    .label = Liggande (landscape)
     .accesskey = n
 printpreview-scale =
     .value = Skaler:
@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Side:
     .accesskey = d
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Siste side
-
 printpreview-homearrow-button =
     .title = Første side
 printpreview-previousarrow-button =

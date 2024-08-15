@@ -15,10 +15,10 @@ format-group-label =
 orientation-label =
     .value = Orientering:
 portrait =
-    .label = Ståande
+    .label = Ståande (portrait)
     .accesskey = t
 landscape =
-    .label = Liggande
+    .label = Liggande (landscape)
     .accesskey = L
 scale =
     .label = Skaler:
@@ -103,7 +103,6 @@ print-window =
     .title = Skriv ut
 print-complete =
     .value = Utskrifta er ferdig.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
