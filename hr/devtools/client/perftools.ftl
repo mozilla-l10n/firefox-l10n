@@ -30,6 +30,7 @@ perftools-devtools-settings-label = Postavke
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-recording-stopped-by-another-tool = Jedan drugi alat je zaustavio snimanje.
+perftools-status-restart-required = Za aktiviranje ove funkcije preglednik se mora ponovo pokrenuti.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -38,11 +39,11 @@ perftools-request-to-get-profile-and-stop-profiler = Snimanje profila
 
 ##
 
-perftools-button-start-recording = Pokreni snimanje
+perftools-button-start-recording = Počni snimati
 perftools-button-capture-recording = Snimi snimku
 perftools-button-cancel-recording = Zaustavi snimanje
 perftools-button-save-settings = Spremi postavke i idi natrag
-perftools-button-restart = Ponovno pokreni
+perftools-button-restart = Pokreni ponovo
 perftools-button-add-directory = Dodaj mapu
 perftools-button-remove-directory = Ukloni odabrano
 perftools-button-edit-settings = Uredi postavke…
