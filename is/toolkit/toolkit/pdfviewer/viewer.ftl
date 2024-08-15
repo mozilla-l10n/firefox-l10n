@@ -399,6 +399,10 @@ pdfjs-editor-highlight-show-all-button =
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Kanna nánar
 pdfjs-editor-new-alt-text-not-now-button = Ekki núna
 pdfjs-editor-new-alt-text-error-close-button = Loka
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Útbúið sjálfvirkt: { $generatedAltText }
 
 ## Image alt-text settings
 
