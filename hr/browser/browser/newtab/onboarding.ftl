@@ -223,7 +223,7 @@ mr2022-onboarding-set-default-subtitle = Koristite preglednik koji podržava nep
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Naša najnovija inačica izgrađena je oko vas, što više nego ikad olakšava kretanje po webu. Prepun je značajki za koje mislimo da ćete ih obožavati.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovija verzija je izgrađena oko tebe, što više nego ikad olakšava kretanje po webu. Prepun je funkcija za koje mislimo da ćeš ih obožavati.
 mr2022-onboarding-get-started-primary-button-label = Postavi u tren oka
 
 ## MR2022 Import Settings screen strings
