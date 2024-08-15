@@ -388,11 +388,26 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = 編輯替代文字（圖片描述）
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = 新增替代文字（圖片描述）
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = 在此寫下您的描述文字…
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = 此替代文字是自動產生而成。
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = 更多資訊
+pdfjs-editor-new-alt-text-create-automatically-button-label = 自動產生替代文字
 pdfjs-editor-new-alt-text-not-now-button = 暫時不要
 pdfjs-editor-new-alt-text-error-title = 無法自動產生替代文字
 pdfjs-editor-new-alt-text-error-description = 請自行填寫替代文字，或稍後再試一次。
 pdfjs-editor-new-alt-text-error-close-button = 關閉
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = 正在下載替代文字 AI 模型（{ $downloadedSize } / { $totalSize } MB）
+    .aria-valuetext = 正在下載替代文字 AI 模型（{ $downloadedSize } / { $totalSize } MB）
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = 已新增替代文字
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -412,8 +427,14 @@ pdfjs-image-alt-text-settings-button-label = 圖片替代文字設定
 pdfjs-editor-alt-text-settings-dialog-label = 圖片替代文字設定
 pdfjs-editor-alt-text-settings-automatic-title = 自動化替代文字
 pdfjs-editor-alt-text-settings-create-model-button-label = 自動產生替代文字
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = 替代文字 AI 模型（{ $totalSize } MB）
+pdfjs-editor-alt-text-settings-ai-model-description = 在您的本機裝置上運作，以確保您的資料隱私。必須下載此模型才可以自動產生替代文字。
 pdfjs-editor-alt-text-settings-delete-model-button = 刪除
 pdfjs-editor-alt-text-settings-download-model-button = 下載
 pdfjs-editor-alt-text-settings-downloading-model-button = 下載中…
 pdfjs-editor-alt-text-settings-editor-title = 替代文字編輯器
+pdfjs-editor-alt-text-settings-show-dialog-button-label = 新增圖片後立即顯示替代文字編輯器
+pdfjs-editor-alt-text-settings-show-dialog-description = 幫助您確保所有圖片都有替代文字。
 pdfjs-editor-alt-text-settings-close-button = 關閉
