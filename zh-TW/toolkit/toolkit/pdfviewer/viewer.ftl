@@ -413,3 +413,7 @@ pdfjs-editor-alt-text-settings-dialog-label = 圖片替代文字設定
 pdfjs-editor-alt-text-settings-automatic-title = 自動化替代文字
 pdfjs-editor-alt-text-settings-create-model-button-label = 自動產生替代文字
 pdfjs-editor-alt-text-settings-delete-model-button = 刪除
+pdfjs-editor-alt-text-settings-download-model-button = 下載
+pdfjs-editor-alt-text-settings-downloading-model-button = 下載中…
+pdfjs-editor-alt-text-settings-editor-title = 替代文字編輯器
+pdfjs-editor-alt-text-settings-close-button = 關閉
