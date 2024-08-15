@@ -116,7 +116,7 @@ tabbrowser-confirm-close-windows-button =
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 tabbrowser-confirm-close-tabs-with-key-title = Zatvori prozor i izađi iz { -brand-short-name }?
-tabbrowser-confirm-close-tabs-with-key-button = Izađi iz { -brand-short-name }
+tabbrowser-confirm-close-tabs-with-key-button = Zatvori { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Potvrdi prije zatvaranja s { $quitKey }
