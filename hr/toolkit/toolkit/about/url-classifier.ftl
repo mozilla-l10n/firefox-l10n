@@ -33,6 +33,7 @@ url-classifier-cache-show-entries = Prikaži unose
 url-classifier-cache-entries = Zapisi predmemorije
 url-classifier-cache-prefix = Prefiks
 url-classifier-debug-title = Otklanjanje grešaka
+url-classifier-debug-sb-modules = Moduli dnevnika sigurnog pregledavanja
 url-classifier-debug-modules = Trenutačni log moduli
 url-classifier-debug-file = Trenutačna log datoteka
 url-classifier-trigger-update = Pokreni nadogradnju
