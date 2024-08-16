@@ -54,6 +54,12 @@ experimental-features-ime-search-description = IME (Input Method Editor) je nás
 experimental-features-auto-pip =
     .label = Obraz v obraze: automatické otevírání při přepnutí panelu
 experimental-features-auto-pip-description = Povolí obraz v obraze u aktivních videí při přepínání panelů.
+genai-settings-chat-title =
+    .label = AI chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Postranní lišta
+sidebar-description = Mějte během prohlížení snadný přístup ke své historii, panelům z jiných zařízení, rozšířením postranní lišty a dalším funkcím. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
 experimental-features-group-browsing =
     .label = Prohlížení
 experimental-features-group-developer-tools =
