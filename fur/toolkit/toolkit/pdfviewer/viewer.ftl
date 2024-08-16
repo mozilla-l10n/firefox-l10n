@@ -396,6 +396,14 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Modifiche test alternatîf (descrizion de imagjin)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Zonte test alternatîf (descrizion de imagjin)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Scrîf achì la tô descrizion…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Curte descrizion par personis che no rivin a viodi la imagjin, o che e ven mostrade cuant che no si rive a cjariâle.
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
 #   $generatedAltText (String) - the generated alt-text.
@@ -420,3 +428,4 @@ pdfjs-editor-alt-text-settings-downloading-model-button = Daûr a discjariâ…
 pdfjs-editor-alt-text-settings-editor-title = Modifiche test alternatîf
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostre l'editôr dal test alternatîf a pene che e ven zontade une imagjin
 pdfjs-editor-alt-text-settings-show-dialog-description = Ti jude a sigurâti che dutis lis tôs imagjins a vedin il test alternatîf.
+pdfjs-editor-alt-text-settings-close-button = Siere

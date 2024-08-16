@@ -92,6 +92,7 @@ contentEncodingError-title = Erôr te codifiche dal contignût
 unsafeContentType-title = Gjenar di file no sigûr
 netReset-title = La conession e je stade anulade
 netTimeout-title = La conession e je lade fûr timp massim
+serverError-title = Al somee che al sedi vignût fûr un probleme cun chest sît
 unknownProtocolFound-title = No ai capît la direzion
 proxyConnectFailure-title = Il servidôr proxy al refude lis conessions
 proxyResolveFailure-title = Impussibil cjatâ il servidôr proxy

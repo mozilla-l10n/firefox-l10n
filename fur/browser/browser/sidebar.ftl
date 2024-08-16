@@ -42,12 +42,42 @@ sidebar-vertical-tabs =
     .label = Schedis verticâls
 sidebar-horizontal-tabs =
     .label = Schedis orizontâls
+sidebar-customize-tabs-header =
+    .label = Impostazions schedis
+sidebar-customize-settings-header =
+    .label = Impostazions sbare laterâl
+sidebar-visibility-always-show =
+    .label = Mostre simpri
+sidebar-visibility-hide-sidebar =
+    .label = Plate sbare laterâl
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Gjestìs estension
+sidebar-context-menu-remove-extension =
+    .label = Gjave estension
+sidebar-context-menu-report-extension =
+    .label = Segnale estension
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Chatbot IA
+sidebar-menu-history-label =
+    .label = Cronologjie
+sidebar-menu-synced-tabs-label =
+    .label = Schedis di altris dispositîfs
+sidebar-menu-bookmarks-label =
+    .label = Segnelibris
+sidebar-menu-customize-label =
+    .label = Personalize sbare laterâl
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personalize sbare laterâl
+sidebar-menu-history-header =
+    .heading = Cronologjie
+sidebar-menu-syncedtabs-header =
+    .heading = Schedis di altris dispositîfs
