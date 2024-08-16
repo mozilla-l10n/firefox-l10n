@@ -404,6 +404,28 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = Scrîf achì la tô descrizion…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Curte descrizion par personis che no rivin a viodi la imagjin, o che e ven mostrade cuant che no si rive a cjariâle.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Chest test alternatîf al è stât creât in automatic e al è pussibil che nol sedi cret.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Chest test alternatîf al è stât creât in automatic.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Plui informazions
+pdfjs-editor-new-alt-text-create-automatically-button-label = Cree test alternatîf in automatic
+pdfjs-editor-new-alt-text-not-now-button = No cumò
+pdfjs-editor-new-alt-text-error-title = Impussibil creâ test alternatîf in automatic
+pdfjs-editor-new-alt-text-error-description = Scrîf il to test alternatîf o prove plui tart.
+pdfjs-editor-new-alt-text-error-close-button = Siere
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Daûr a discjariâil model IA pal test alternatîf ({ $downloadedSize } di { $totalSize } MB)
+    .aria-valuetext = Daûr a discjariâ il model IA pal test alternatîf ({ $downloadedSize } di { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Test alternatîf zontât
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Al mancje il test alternatîf
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Verifiche test alternatîf
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
 #   $generatedAltText (String) - the generated alt-text.
