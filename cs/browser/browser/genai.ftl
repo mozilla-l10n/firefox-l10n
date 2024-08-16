@@ -30,15 +30,19 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Shrnutí
-    .value = Vybraný text shrň přesným a stručným jazykem. Ve shrnutí použij záhlaví a seznamy s odrážkami, aby se dalo snadno přečíst. Zachovej význam a věcnou správnost.
+    .value = Označený text shrň přesným a stručným jazykem. Ve shrnutí použij záhlaví a seznamy s odrážkami, aby se dalo snadno přečíst. Zachovej význam a věcnou správnost.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Zjednodušení jazyka
-    .value = Přepiš vybraný text pomocí krátkých vět a jednoduchých slov. Zachovej význam a věcnou správnost.
+    .value = Přepiš označený text pomocí krátkých vět a jednoduchých slov. Zachovej význam a věcnou správnost.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Vysvětlit
     .value = Vysvětli jednoduchými slovy klíčové pojmy tohoto vybraného textu. Použij také příklady.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Jsem na stránce “{ $tabTitle }” s označeným textem “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
