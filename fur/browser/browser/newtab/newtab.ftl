@@ -201,6 +201,8 @@ newtab-section-header-recent-activity = Ativitât resinte
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Conseât di { $provider }
 newtab-section-header-stories = Storiis che a fasin pensâ
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Lis sieltis di vuê par te
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -414,3 +416,10 @@ newtab-topic-label-society = Mioraments personâi
 newtab-topic-label-sports = Sports
 newtab-topic-label-tech = Tecnologjie
 newtab-topic-label-travel = Viaçs
+newtab-topic-label-home = Cjase e zardin
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selezione i argoments par regolâ il to feed

@@ -35,6 +35,28 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Semplifiche il lengaç
     .value = Torne scrîf la selezion doprant frasis curtis e peraulis semplicis. Manten il significât e la precision dai fats.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Interoghimi
+    .value = Fâmi une interogazion su cheste selezion. Fâmi varis gjenars di domandis, par esempli a plui sieltis, vêr o fals e a rispueste vierte curte. Spiete la mê rispueste prime di passâ ae domande sucessive.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Spieghimi cheste robe
+    .value = Spieghe i concets clâf in cheste selezion, doprant peraulis semplicis. Dopre ancje esemplis.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = O soi te pagjine “{ $tabTitle }” cun “{ $selection }” selezionat.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Domande al chatbox IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Domande a { $provider }
+genai-input-ask-generic =
+    .placeholder = Domande al chatbox IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Domande a { $provider }…
