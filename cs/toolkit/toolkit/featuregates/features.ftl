@@ -60,9 +60,13 @@ genai-settings-chat-title =
 sidebar-title =
     .label = Postranní lišta
 sidebar-description = Mějte během prohlížení snadný přístup ke své historii, panelům z jiných zařízení, rozšířením postranní lišty a dalším funkcím. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+vertical-tabs-title =
+    .label = Svislé panely
 experimental-features-group-browsing =
     .label = Prohlížení
 experimental-features-group-developer-tools =
     .label = Vývojářské nástroje
 experimental-features-group-webpage-display =
     .label = Zobrazení webové stránky
+experimental-features-group-customize-browsing =
+    .label = Přizpůsobte si své prohlížení

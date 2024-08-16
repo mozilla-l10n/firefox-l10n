@@ -474,6 +474,7 @@ onboarding-device-migration-primary-button-label = Přihlásit se
 ## Add-ons Picker screen
 
 amo-picker-install-complete-label = Nainstalováno
+amo-picker-collection-link = Prozkoumat další doplňky
 
 ## The following screens have been updated to use security and privacy focused strings:
 

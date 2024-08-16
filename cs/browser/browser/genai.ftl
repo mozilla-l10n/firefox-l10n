@@ -46,3 +46,8 @@ genai-prompt-prefix-selection = Jsem na stránce “{ $tabTitle }” s označen�
 
 ## Chatbot menu shortcuts
 
+genai-input-ask-generic =
+    .placeholder = Zeptat se AI chatbota…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Zeptat se { $provider }…
