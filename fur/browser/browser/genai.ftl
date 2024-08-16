@@ -11,6 +11,10 @@ genai-settings-chat-choose-one-menuitem =
     .label = Sielç un
 genai-settings-chat-links = Cuant che tu sielzis un chatbot, tu acetis lis cundizions di utilizazion dal servizi e la informative su la riservatece.
 genai-settings-chat-chatgpt-links = Sielzint ChatGPT, tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="link2">informative su la riservatece</a> di OpenAI.
+genai-settings-chat-claude-links = Sielzint Anthropic Claude, tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion pal utent finâl</a>, lis <a data-l10n-name="link2">politichis di utilizazion</a> e la <a data-l10n-name="link3">informative su la riservatece</a>.
+genai-settings-chat-copilot-links = Sielzint Copilot tu acetis i <a data-l10n-name="link1">tiermins di Copilot AI Experiences</a> e la <a data-l10n-name="link2">informative su la riservatece di Microsoft</a>.
+genai-settings-chat-gemini-links = Sielzint Google Gemini tu acetis i <a data-l10n-name="link1">tiermins dal servizi di Google</a>, lis <a data-l10n-name="link2">politichis sul ûs vietât de AI gjenerative</a> e la <a data-l10n-name="link3">informative su la riservatece di Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = Sielzint HuggingChat tu acetis la <a data-l10n-name="link1">informative su la riservatece di HuggingChat e la <a data-l10n-name="link2">informative su la riservatece di Hugging Face</a>
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
