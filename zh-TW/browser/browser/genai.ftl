@@ -24,6 +24,14 @@ genai-settings-chat-localhost-links = 將您本機端的私人聊天機器人的
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = 摘要
+    .value = 請用簡單明瞭的方式為選擇的文字段落做摘要。請加上標題並分項列出摘要內容，讓讀者可以快速理解。請保持內容原意正確與精準。
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = 簡化內容
+    .value = 請用簡短、簡單的語句來重新改寫選擇的文字。
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
