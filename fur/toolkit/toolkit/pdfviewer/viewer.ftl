@@ -51,12 +51,6 @@ pdfjs-download-button-label = Discjame
 pdfjs-bookmark-button =
     .title = Pagjine corinte (mostre URL de pagjine atuâl)
 pdfjs-bookmark-button-label = Pagjine corinte
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Vierç te aplicazion
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Vierç te aplicazion
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Zonte o modifiche imagjins
 pdfjs-editor-highlight-button =
     .title = Evidenzie
 pdfjs-editor-highlight-button-label = Evidenzie
-pdfjs-highlight-floating-button =
-    .title = Evidenzie
 pdfjs-highlight-floating-button1 =
     .title = Evidenzie
     .aria-label = Evidenzie
@@ -400,3 +392,31 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Mostre dut
 pdfjs-editor-highlight-show-all-button =
     .title = Mostre dut
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Creât in automatic: { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Impostazions test alternatîf pes imagjins
+pdfjs-image-alt-text-settings-button-label = Impostazions test alternatîf pes imagjins
+pdfjs-editor-alt-text-settings-dialog-label = Impostazions test alternatîf pes imagjins
+pdfjs-editor-alt-text-settings-automatic-title = Test alternatîf automatic
+pdfjs-editor-alt-text-settings-create-model-button-label = Cree test alternatîf in automatic
+pdfjs-editor-alt-text-settings-create-model-description = Al sugjerìs descrizions par judâ lis personis che no rivin a viodi la imagjin o cuant che la imagjin no ven cjariade.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model IA pal test alternatîf ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Al ven eseguît in locâl sul to dispositîf, cussì che i tiei dâts a restin riservâts. Al è necessari pe gjenerazion automatiche dal test alternatîf.
+pdfjs-editor-alt-text-settings-delete-model-button = Elimine
+pdfjs-editor-alt-text-settings-download-model-button = Discjame
+pdfjs-editor-alt-text-settings-downloading-model-button = Daûr a discjariâ…
+pdfjs-editor-alt-text-settings-editor-title = Modifiche test alternatîf
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostre l'editôr dal test alternatîf a pene che e ven zontade une imagjin
+pdfjs-editor-alt-text-settings-show-dialog-description = Ti jude a sigurâti che dutis lis tôs imagjins a vedin il test alternatîf.

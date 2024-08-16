@@ -423,3 +423,12 @@ newtab-topic-label-home = Cjase e zardin
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Selezione i argoments par regolâ il to feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Sielç doi o plui argoments. I nestris esperts curadôrs a daran prioritât aes storiis plui adatis ai tiei interès. Tu puedis inzornâ lis tôs preferencis cuant che tu vûs.
+newtab-topic-selection-save-button = Salve
+newtab-topic-selection-cancel-button = Anule
+newtab-topic-selection-button-maybe-later = Magari plui indevant
+newtab-topic-selection-privacy-link = Scuvierç cemût che o gjestìn e o protezìn i dâts
+newtab-topic-selection-button-update-interests = Inzorne i tiei interès
+newtab-topic-selection-button-pick-interests = Sielç i tiei interès

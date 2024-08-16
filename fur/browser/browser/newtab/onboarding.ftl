@@ -338,6 +338,14 @@ onboarding-device-migration-subtitle = Jentre tal to { -fxaccount-brand-name(cap
 onboarding-device-migration-subtitle2 = Jentre tal to account par puartâ cun te, sul to gnûf dispositîf, i tiei segnelibris, lis passwords e la cronologjie.
 onboarding-device-migration-primary-button-label = Jentre
 
+## Add-ons Picker screen
+
+amo-picker-title = Personalize { -brand-short-name }
+amo-picker-subtitle = Lis estensions a son come aplicazions pal to navigadôr, ti permetin di protezi passwords, discjariâ videos, sparagnâ tes compris in rêt, blocâ publicitâts fastidiosis, cambiâ l’aspiet dal navigadôr e tant altri.
+amo-picker-install-button-label = Zonte a { -brand-short-name }
+amo-picker-install-complete-label = Instalât
+amo-picker-collection-link = Esplore altris components adizionâi
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
