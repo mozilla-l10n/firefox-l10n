@@ -10,7 +10,7 @@ places-open-in-tab =
     .accesskey = Y
 places-open-in-container-tab =
     .label = Yeni kapsayıcı sekmede aç
-    .accesskey = k
+    .accesskey = i
 places-open-all-bookmarks =
     .label = Tüm yer imlerini aç
     .accesskey = T
@@ -99,7 +99,7 @@ places-delete-page =
            *[other] Sayfaları sil
         }
     .accesskey = S
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Yönetilen yer imleri
 # This label is used when a managed bookmarks folder doesn't have a name.
