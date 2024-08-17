@@ -421,3 +421,10 @@ newtab-topic-label-home = ਘਰ ਤੇ ਬਗੀਚੀ
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = ਆਪਣੀ ਫ਼ੀਡ ਨੂੰ ਮੁਆਫ਼ਕ ਬਣਾਉਣ ਲਈ ਵਿਸ਼ਿਆਂ ਨੂੰ ਚੁਣੋ
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = ਦੋ ਜਾਂ ਵੱਧ ਵਿਸ਼ਿਆਂ ਨੂੰ ਚੁਣੋ। ਸਾਡੇ ਮਾਹਰ ਨਿਗਰਾਨ ਤੁਹਾਡੀਆਂ ਦਿਲਚਪੀਆਂ ਮੁਤਾਬਕ ਕਹਾਣੀਆਂ ਨੂੰ ਤਰਜੀਹ ਦਿੰਦੇ ਹਨ। ਕਿਸੇ ਵੀ ਵੇਲੇ ਅੱਪਡੇਟ ਕਰੋ।
+newtab-topic-selection-save-button = ਸੰਭਾਲੋ
+newtab-topic-selection-cancel-button = ਰੱਦ ਕਰੋ
+newtab-topic-selection-button-maybe-later = ਫੇਰ ਕਦੇ
+newtab-topic-selection-privacy-link = ਜਾਣੋ ਕਿ ਅਸੀਂ ਡਾਟੇ ਨੂੰ ਕਿਵੇਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦੇ ਅਤੇ ਇਸ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੇ ਹਾਂ
