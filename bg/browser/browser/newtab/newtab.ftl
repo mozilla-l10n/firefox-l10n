@@ -348,7 +348,7 @@ newtab-weather-menu-learn-more = Научете повече
 ## Topic Labels
 
 newtab-topic-label-business = Бизнес
-newtab-topic-label-career = Кариери
+newtab-topic-label-career = Кариера
 newtab-topic-label-education = Образование
 newtab-topic-label-arts = Развлечение
 newtab-topic-label-food = Храна
