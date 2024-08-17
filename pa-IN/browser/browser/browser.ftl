@@ -265,7 +265,7 @@ quickactions-cmd-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
 quickactions-downloads2 = ਡਾਊਨਲੋਡ ਵੇਖੋ
 quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
 # Opens about:addons page in the extensions section
-quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
+quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨ
 # Opens the devtools web inspector
 quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲ ਖੋਲ੍ਹੋ

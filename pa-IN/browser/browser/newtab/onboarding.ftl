@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = ਸਾਈਨ ਇਨ
 ## Add-ons Picker screen
 
 amo-picker-title = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲੋ
+amo-picker-subtitle = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਐਪਾਂ ਵਰਗੀਆਂ ਲੱਗਦੀਆਂ ਹਨ ਅਤੇ ਉਹ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ, ਵੀਡੀਓ ਡਾਊਨਲੋਡ ਕਰੋ, ਡੀਲਾਂ ਲੱਭਣ , ਖਿਝਾਉ ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ, ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਦਿੱਖ ਬਦਲਣ ਅਤੇ ਹੋਰ ਕੋਈ ਕੁਝ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦੀਆਂ ਹਨ।
 amo-picker-install-button-label = { -brand-short-name } ਨੂੰ ਜੋੜੋ
 amo-picker-install-complete-label = ਇੰਸਟਾਲ ਹੋਏ
 amo-picker-collection-link = ਹੋਰ ਐਡ-ਆਨ ਨੂੰ ਵੇਖੋ
