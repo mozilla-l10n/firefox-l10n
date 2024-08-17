@@ -265,7 +265,14 @@ launch-on-login-infobar-reject-button = Ahora no
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = No, gracias
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Mantén a los molestos rastreadores alejados de ti
 tail-fox-spotlight-secondary-button = Ahora no

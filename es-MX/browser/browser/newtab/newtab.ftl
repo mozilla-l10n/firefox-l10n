@@ -329,6 +329,7 @@ newtab-wallpaper-storm-sky = Cielo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas
 newtab-wallpaper-red-panda-yawns-in-a-tree = El panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+newtab-wallpaper-feature-highlight-button = Lo tengo
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
     .title = Descartar
@@ -365,3 +366,9 @@ newtab-weather-menu-hide-weather = Ocultar el clima en la nueva pestaña
 newtab-weather-menu-learn-more = Saber más
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Los datos meteorológicos no están disponibles de momento.
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

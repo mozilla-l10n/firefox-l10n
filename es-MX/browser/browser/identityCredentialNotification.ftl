@@ -12,7 +12,10 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = Iniciar sesión con un proveedor de acceso
 identity-credential-header-accounts = Iniciar sesión con { $provider }
+identity-credential-urlbar-anchor =
+    .tooltiptext = Abrir el panel de acceso
 identity-credential-cancel-button =
     .label = Cancelar
     .accesskey = n
@@ -22,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Iniciar sesión
     .accesskey = S
+identity-credential-policy-title = Utilizar { $provider } como proveedor de acceso

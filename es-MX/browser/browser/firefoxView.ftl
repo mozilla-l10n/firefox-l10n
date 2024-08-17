@@ -46,6 +46,7 @@ firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } 
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
 firefoxview-syncedtabs-synctabs-header = Actualiza tu configuración de sincronización
+firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debes sincronizar tus pestañas abiertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que las pestañas abiertas se sincronicen
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
@@ -76,6 +77,7 @@ firefoxview-closed-tabs-title = Cerradas recientemente
 firefoxview-closed-tabs-description2 = Vuelve a abrir las páginas que has cerrado en esta ventana.
 firefoxview-closed-tabs-placeholder-header = No hay pestañas cerradas recientemente
 firefoxview-closed-tabs-placeholder-body = Cuando cierras una pestaña en esta ventana, puedes buscarla desde aquí.
+firefoxview-closed-tabs-placeholder-body2 = Cuando cierres una pestaña, podrás buscarla aquí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -125,6 +127,8 @@ firefoxview-recently-closed-header = Pestañas cerradas recientemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Pestañas de otros dispositivos
+    .title = Pestañas de otros dispositivos
 firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
 ##

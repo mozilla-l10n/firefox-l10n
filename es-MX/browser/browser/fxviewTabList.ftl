@@ -63,8 +63,14 @@ fxviewtabrow-mute-tab = Silenciar pestaña
     .accesskey = S
 fxviewtabrow-unmute-tab = Desilenciar Pestaña
     .accesskey = s
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opciones para { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Silenciar pestaña
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Habilitar sonido de la pestaña
