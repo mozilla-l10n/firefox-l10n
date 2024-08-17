@@ -226,13 +226,20 @@ newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почт�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярни теми:
+newtab-pocket-new-topics-title = Искате ли още истории? Вижте тези популярни теми избрани от { -pocket-brand-name }
 newtab-pocket-more-recommendations = Повече препоръчани
 newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Запазване
+newtab-pocket-saved = Запазено
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Повече като това
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Не и за мен
@@ -243,6 +250,7 @@ newtab-toast-dismiss-button =
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Открийте най-доброто от интернет
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -267,7 +275,11 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсорирани препратки
 newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Препоръчани истории
+    .description = Изключително съдържание подбрано от семейството на { -brand-product-name }
 newtab-custom-pocket-sponsored = Платени публикации
+newtab-custom-pocket-show-recent-saves = Показване на последните запазени
 newtab-custom-recent-title = Последна активност
 newtab-custom-recent-subtitle = Избрани страници и съдържание
 newtab-custom-recent-toggle =
@@ -281,6 +293,7 @@ newtab-custom-settings = Настройки
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Тапети
 newtab-wallpaper-light-red-panda = Червена панда
 newtab-wallpaper-light-mountain = Бяла планина
 newtab-wallpaper-light-sky = Небе с лилави и розови облаци
