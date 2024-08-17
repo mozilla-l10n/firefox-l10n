@@ -40,6 +40,7 @@ firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } p
 firefoxview-tabpickup-adddevice-learn-how = Aprende cómo
 firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } para dispositivos móviles
 firefoxview-syncedtabs-adddevice-header = Inicia sesión en { -brand-product-name }en tus otros dispositivos
+firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo
