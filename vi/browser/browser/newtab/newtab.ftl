@@ -394,7 +394,7 @@ newtab-weather-error-not-available = Dữ liệu thời tiết hiện không có
 ## Topic Labels
 
 newtab-topic-label-business = Kinh doanh
-newtab-topic-label-career = Nghề nghiệp
+newtab-topic-label-career = Cơ hội nghề nghiệp
 newtab-topic-label-education = Giáo dục
 newtab-topic-label-arts = Giải trí
 newtab-topic-label-food = Thực phẩm
