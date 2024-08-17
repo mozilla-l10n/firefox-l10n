@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = ਆਪਣੇ ਮਨਮਰਜ਼ੀ ਦੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਬਾਹੀ ਵਿੱਚ ਜੋੜੋ ਤਾਂ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਫ਼ੌਰਨ ਵਰਤਿਆ ਜਾ ਸਕੇ। <a data-l10n-name="connect">ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ</a>
 genai-settings-chat-choose = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
 genai-settings-chat-choose-one-menuitem =
     .label = ਕੋਈ ਚੁਣੋ
@@ -26,6 +27,32 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = ਭਾਸ਼ਾ ਨੂੰ ਸਰਲ ਕਰੋ
+    .value = ਚੋਣ ਨੂੰ ਛੋਟੇ ਵਾਕਾਂ ਅਤੇ ਸਰਲ ਸ਼ਬਦਾਂ ਵਿੱਚ ਮੁੜ ਲਿਖੋ। ਸ਼ਬਦ ਅਤੇ ਤੱਥਾਂ ਦੀ ਦਰੁਸਤਾ ਬਣਾਈ ਰੱਖੋ।
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = ਮੈਨੂੰ ਸਵਾਲ ਕਰੋ
+    .value = ਇਸ ਚੋਣ ਬਾਰੇ ਮੈਨੂੰ ਸਵਾਲ ਕਰੋ। ਮੈਨੂੰ ਕਈ ਕਿਸਮ ਦੇ ਸਵਾਲ ਪੁੱਛੋ ਜਿਵੇਂ ਕਿ ਬਹੁ ਚੋਣ, ਸਹੀ ਜਾਂ ਗਲਤ ਅਤੇ ਛੋਟੇ ਜਵਾਬ ਆਦਿ। ਅਗਲੇ ਸਵਾਲ ਉੱਤੇ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਮੇਰੇ ਜਵਾਬ ਨੂੰ ਉਡੀਕੋ।
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = ਇਸ ਬਾਰੇ ਸਮਝਾਓ
+    .value = ਇਸ ਚੋਣ ਵਿੱਚ ਮੁੱਖ ਵਿਚਾਰਾਂ ਨੂੰ ਸੌਖੇ ਸ਼ਬਦਾਂ ਵਿੱਚ ਸਮਝਾਓ। ਉਦਾਹਰਨਾਂ ਵੀ ਦਿਓ।
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = ਮੈਂ ਚੁਣੇ “{ $selection }” ਨਾਲ  “{ $tabTitle }” ਸਫ਼ੇ ਉੱਤੇ ਹਾਂ।
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } ਨੂੰ ਪੁੱਛੋ
+genai-input-ask-generic =
+    .placeholder = …AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = …{ $provider } ਨੂੰ ਪੁੱਛੋ

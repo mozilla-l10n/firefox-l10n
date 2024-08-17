@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 newtab-section-header-stories = ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਨ ਵਾਲੇ ਲੇਖ
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = ਤੁਹਾਡੇ ਲਈ ਅੱਜ ਦੀਆਂ ਚੋਣਾਂ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -412,3 +414,10 @@ newtab-topic-label-society = ਜ਼ਿੰਦਗੀ ਦੇ ਟੋਟਕੇ
 newtab-topic-label-sports = ਖੇਡਾਂ
 newtab-topic-label-tech = ਤਕਨੀਕੀ
 newtab-topic-label-travel = ਯਾਤਰਾ
+newtab-topic-label-home = ਘਰ ਤੇ ਬਗੀਚੀ
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = ਆਪਣੀ ਫ਼ੀਡ ਨੂੰ ਮੁਆਫ਼ਕ ਬਣਾਉਣ ਲਈ ਵਿਸ਼ਿਆਂ ਨੂੰ ਚੁਣੋ
