@@ -338,6 +338,13 @@ onboarding-device-migration-subtitle = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾ�
 onboarding-device-migration-subtitle2 = ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-primary-button-label = ਸਾਈਨ ਇਨ
 
+## Add-ons Picker screen
+
+amo-picker-title = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲੋ
+amo-picker-install-button-label = { -brand-short-name } ਨੂੰ ਜੋੜੋ
+amo-picker-install-complete-label = ਇੰਸਟਾਲ ਹੋਏ
+amo-picker-collection-link = ਹੋਰ ਐਡ-ਆਨ ਨੂੰ ਵੇਖੋ
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

@@ -428,3 +428,5 @@ newtab-topic-selection-save-button = ਸੰਭਾਲੋ
 newtab-topic-selection-cancel-button = ਰੱਦ ਕਰੋ
 newtab-topic-selection-button-maybe-later = ਫੇਰ ਕਦੇ
 newtab-topic-selection-privacy-link = ਜਾਣੋ ਕਿ ਅਸੀਂ ਡਾਟੇ ਨੂੰ ਕਿਵੇਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦੇ ਅਤੇ ਇਸ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੇ ਹਾਂ
+newtab-topic-selection-button-update-interests = ਆਪਣੀਆਂ ਦਿਲਚਸਪੀਆਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
+newtab-topic-selection-button-pick-interests = ਆਪਣੀਆਂ ਦਿਲਚਸਪੀਆਂ ਨੂੰ ਚੁਣੋ
