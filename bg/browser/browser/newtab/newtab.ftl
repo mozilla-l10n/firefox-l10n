@@ -199,6 +199,9 @@ newtab-section-header-recent-activity = Последна активност
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Препоръчано от { $provider }
+newtab-section-header-stories = Истории, провокиращи размисъл
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Днешният избор за вас
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -207,6 +210,8 @@ newtab-empty-section-highlights = Разглеждайте и тук ще ви �
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Разгледахте всичко. Проверете по-късно за повече истории от { $provider }. Нямате търпение? Изберете популярна тема, за да откриете повече истории от цялата Мрежа.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Разгледахте всичко. Проверете по-късно за още истории. Нямате търпение? Изберете популярна тема, за да откриете повече в интернет.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
