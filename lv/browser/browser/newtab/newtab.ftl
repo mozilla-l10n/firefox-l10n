@@ -385,10 +385,50 @@ newtab-weather-menu-weather-display-option-detailed = Detalizēts
 newtab-weather-menu-change-weather-display-detailed = Pārslēgties uz detalizēto skatu
 newtab-weather-menu-temperature-units = Temperatūras mērvienības
 newtab-weather-menu-temperature-option-fahrenheit = Fārenheita
+newtab-weather-menu-temperature-option-celsius = Celsija
+newtab-weather-menu-change-temperature-units-fahrenheit = Pārslēgties uz Fārenheita skalu
+newtab-weather-menu-change-temperature-units-celsius = Pārslēgties uz Celsija skalu
+newtab-weather-menu-hide-weather = Paslēpt laikapstākļus jaunā cilnē
 newtab-weather-menu-learn-more = Uzzināt vairāk
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Laikapstākļu dati pašlaik nav pieejami.
 
 ## Topic Labels
 
+newtab-topic-label-business = Bizness
+newtab-topic-label-career = Karjera
+newtab-topic-label-education = Izglītība
+newtab-topic-label-arts = Izklaide
+newtab-topic-label-food = Ēdiens
+newtab-topic-label-health = Veselība
+newtab-topic-label-hobbies = Spēles
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Nauda
+newtab-topic-label-society-parenting = Audzināšana
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Zinātne
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Sevis pilnveidošana
+newtab-topic-label-sports = Sports
+newtab-topic-label-tech = Tehnoloģijas
+newtab-topic-label-travel = Ceļošana
+newtab-topic-label-home = Māja un dārzs
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Atlasiet tēmas, lai pielāgotu plūsmu
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Izvēlieties divas vai vairākas tēmas. Mūsu kuratori piešķir prioritāti stāstiem, kas atbilst jūsu interesēm. Atjauniniet jebkurā laikā.
+newtab-topic-selection-save-button = Saglabāt
+newtab-topic-selection-cancel-button = Atcelt
+newtab-topic-selection-button-maybe-later = Varbūt vēlāk
+newtab-topic-selection-privacy-link = Uzziniet, kā mēs aizsargājam un pārvaldām datus
+newtab-topic-selection-button-update-interests = Atjauniniet savas intereses
+newtab-topic-selection-button-pick-interests = Izvēlieties savas intereses
