@@ -196,6 +196,9 @@ profiler-popup-presets-power-description = Priekšiestatījums enerģijas izmant
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Enerģija
+profiler-popup-presets-debug-description = Priekšiestatījums atkļūdošanai ar { -brand-shorter-name }. Augsts virstēriņš, izmantojiet nevis darbam, kam ir vajadzīga augsta veiktspēja, bet lai saprastu pārlūkprogrammas uzvedību.
+profiler-popup-presets-debug-label =
+    .label = Atkļūdošana
 profiler-popup-presets-custom-label =
     .label = Pielāgots
 
