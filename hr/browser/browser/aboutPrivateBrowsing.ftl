@@ -40,7 +40,7 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } briše tvoju p
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } je tvoj zadani pretraživač u privatnim prozorima
+about-private-browsing-search-banner-title = { $engineName } je tvoj standardna tražilica u privatnim prozorima
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Za odabir druge tražilice, idi na <a data-l10n-name="link-options">Mogućnosti</a>

@@ -54,10 +54,10 @@ policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigur
 policy-DisableSetAsDesktopBackground = Onemogućite naredbu izbornika Postavi kao pozadinu radne površine.
 policy-DisableSystemAddonUpdate = Spriječi instaliranje i aktualiziranje sustavskih dodataka u pregledniku.
 policy-DisableTelemetry = Isključi telemetriju.
-policy-DisplayBookmarksToolbar = Zadano prikaži alatnu traku zabilješki.
-policy-DisplayMenuBar = Zadano prikaži traku izbornika.
+policy-DisplayBookmarksToolbar = Standardno prikaži alatnu traku zabilješki.
+policy-DisplayMenuBar = Standardno prikaži traku izbornika.
 policy-DNSOverHTTPS = Podesi DNS preko HTTPS-a.
-policy-DontCheckDefaultBrowser = Onemogući provjeru standardnog preglednika prilikom pokretanja.
+policy-DontCheckDefaultBrowser = Deaktiviraj provjeru standardnog preglednika prilikom pokretanja.
 policy-DownloadDirectory = Postavi i zaključaj direktorij za preuzimanje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiviraj ili deaktiviraj blokiranje sadržaja i opcionalno ga zaključaj.
