@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Neueste Aktivität
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Empfohlen von { $provider }
 newtab-section-header-stories = Geschichten, die zum Nachdenken anregen
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Unsere heutigen Tipps für Sie
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -413,9 +415,13 @@ newtab-topic-label-society = Life-Hacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technik
 newtab-topic-label-travel = Reisen
+newtab-topic-label-home = Haus und Garten
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Wählen Sie Themen aus, um Ihren Feed zu optimieren
 newtab-topic-selection-save-button = Speichern
 newtab-topic-selection-cancel-button = Abbrechen
 newtab-topic-selection-button-maybe-later = Vielleicht später
