@@ -27,3 +27,4 @@ fxa-menu-send-tab-to-device-description = Изпратете незабавно 
 fxa-menu-sign-out =
     .label = Излизане…
 fxa-menu-sync-title = Синхронизиране
+fxa-menu-sync-description = Вашият интернет навсякъде

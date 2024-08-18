@@ -702,7 +702,7 @@ containers-remove-button =
 sync-signedout-caption = Вземете Мрежата със себе си
 sync-signedout-description2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 sync-signedout-account-signin3 =
-    .label = Вписване в Sync…
+    .label = Вписване за синхронизиране…
     .accesskey = и
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
