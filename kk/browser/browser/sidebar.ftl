@@ -7,11 +7,26 @@ menu-view-genai-chat =
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Бүгін - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Кеше - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Тарихтан өшіру
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = "{ $query }" бойынша іздеу нәтижелері
 
 ## Labels for sidebar customize panel
 

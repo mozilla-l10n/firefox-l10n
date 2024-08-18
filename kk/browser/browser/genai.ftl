@@ -11,6 +11,11 @@ genai-settings-chat-choose-one-menuitem =
     .label = Таңдау
 genai-settings-chat-links = Чат-ботты таңдаған кезде сіз оның провайдерінің қолдану шарттары және жекелік саясатымен келісесіз.
 genai-settings-chat-chatgpt-links = ChatGPT таңдау арқылы сіз OpenAI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-claude-links = Anthropic Claude таңдау арқылы сіз Anthropic ұйымының <a data-l10n-name="link1">Тұтынушыларға қызмет көрсету шарттары</a>, <a data-l10n-name="link2">Пайдалану саясаты</a> және <a data-l10n-name="link3">Жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-copilot-links = Copilot таңдау арқылы сіз <a data-l10n-name="link1">Copilot ЖИ қолдану шарттары</a> және <a data-l10n-name="link2">Microsoft жекелік мәлімдемесі</a> шарттарымен келісесіз.
+genai-settings-chat-gemini-links = Google Gemini таңдау арқылы сіз <a data-l10n-name="link1">Google қызмет көрсету шарттары</a>, <a data-l10n-name="link2">Генеративті ЖИ тыйым салынған қолдану саясаты</a> және <a data-l10n-name="link3">Gemini қолданбаларының жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-huggingchat-links = HuggingChat таңдау арқылы сіз <a data-l10n-name="link1">HuggingChat жекелік ескертуі</a> және <a data-l10n-name="link2">Hugging Face жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-lechat-links = Le Chat Mistral таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -37,3 +42,13 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = ЖИ чат-ботынан сұрау
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } сұрау
+genai-input-ask-generic =
+    .placeholder = ЖИ чат-ботынан сұрау…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } сұрау…
