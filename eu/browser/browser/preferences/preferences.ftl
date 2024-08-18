@@ -597,6 +597,7 @@ home-prefs-recent-activity-description = Azken gune eta edukien hautapena
 home-prefs-snippets-header =
     .label = Mezu-zatiak
 home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
+home-prefs-weather-learn-more-link = Argibide gehiago
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -711,6 +712,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Aldatu profileko argazkia
     .alt = Aldatu profileko argazkia
+fxa-login-rejected-warning =
+    .alt = Abisua
 sync-sign-out =
     .label = Amaitu saioa…
     .accesskey = A
@@ -937,6 +940,7 @@ primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sart
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Sortu pasahitz nagusia
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

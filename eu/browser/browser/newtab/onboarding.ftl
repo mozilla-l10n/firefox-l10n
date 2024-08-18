@@ -331,6 +331,10 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-title = Ongi etorri!
 onboarding-device-migration-primary-button-label = Hasi saioa
 
+## Add-ons Picker screen
+
+amo-picker-install-complete-label = Instalatuta
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

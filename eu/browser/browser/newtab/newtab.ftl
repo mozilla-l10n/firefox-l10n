@@ -310,6 +310,10 @@ newtab-wallpaper-category-title-abstract = Abstraktua
 
 newtab-wallpaper-category-title-photographs = Argazkiak
 newtab-wallpaper-feature-highlight-header = Probatu kolore ukitu bat
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Utzi
+    .aria-label = Itxi laster-lehioa
 
 ## New Tab Weather
 
@@ -332,3 +336,26 @@ newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
 newtab-weather-menu-learn-more = Argibide gehiago
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Eguraldiari buruzko daturik ez dago erabilgarri orain.
+
+## Topic Labels
+
+newtab-topic-label-business = Negozioak
+newtab-topic-label-career = Lan-eskaintzak
+newtab-topic-label-education = Hezkuntza
+newtab-topic-label-arts = Entretenimendua
+newtab-topic-label-food = Janaria
+newtab-topic-label-health = Osasuna
+newtab-topic-label-hobbies = Jokoak
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Finantzak
+newtab-topic-label-education-science = Zientzia
+newtab-topic-label-sports = Kirolak
+newtab-topic-label-tech = Teknologia
+newtab-topic-label-travel = Bidaiak
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Gorde
+newtab-topic-selection-cancel-button = Utzi
