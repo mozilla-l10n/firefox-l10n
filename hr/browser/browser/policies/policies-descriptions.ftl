@@ -69,7 +69,7 @@ policy-EncryptedMediaExtensions = Aktiviraj ili deaktiviraj proširenja za šifr
 policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Opcije instalacije uzima URL-ove ili putanje kao parametre. Opcije za deinstaliranje ili zaključavanje uzima ID dodatka kao parametar.
 policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska aktualiziranja dodataka.
-policy-FirefoxHome2 = Konfiguriraj { -firefox-home-brand-name }.
+policy-FirefoxHome2 = Konfiguriraj „{ -firefox-home-brand-name }”.
 policy-Handlers = Postavite zadane rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting

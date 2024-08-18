@@ -561,8 +561,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
-home-prefs-content-description2 = Odaberi sadržaj koji želiš na { -firefox-home-brand-name } stranici.
+home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
+home-prefs-content-description2 = Odaberi sadržaj na „{ -firefox-home-brand-name }”.
 home-prefs-search-header =
     .label = Web pretraga
 home-prefs-shortcuts-header =

@@ -22,7 +22,7 @@ printui-page-range-label = Stranice
 printui-page-range-picker =
     .aria-label = Odaberi raspon stranica
 printui-page-custom-range-input =
-    .aria-label = Unesi prilagođeni raspon stranica
+    .aria-label = Upiši prilagođeni raspon stranica
     .placeholder = npr. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopije
