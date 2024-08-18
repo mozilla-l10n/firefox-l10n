@@ -1382,8 +1382,8 @@ httpsonly-radio-disabled2 =
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS
-preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide kojim se web stranicama planiraš pristupiti.
-preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide kojim se web stranicama planiraš pristupiti.
+preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
+preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stanje: { $status }
@@ -1399,7 +1399,7 @@ preferences-doh-status-disabled = Isključeno
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nije aktivno ({ $reason })
-preferences-doh-group-message = Omogućite sigurni DNS pomoću:
+preferences-doh-group-message = Aktiviraj sigurni DNS pomoću:
 preferences-doh-group-message2 = Aktiviraj DNS preko HTTPS-a pomoću:
 preferences-doh-expand-section =
     .tooltiptext = Više informacija
