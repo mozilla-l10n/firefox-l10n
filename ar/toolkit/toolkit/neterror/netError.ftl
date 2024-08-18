@@ -46,9 +46,9 @@ neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أ�
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <a data-l10n-name="website">{ $hostAndPath }</a>؟
 neterror-dns-not-found-hint-header = <strong>إذا أدخلت العنوان الصحيح، فيمكنك:</strong>
-neterror-dns-not-found-hint-try-again = محاولة مجددًا لاحقاً
-neterror-dns-not-found-hint-check-network = افحص اتصال الشبكة
-neterror-dns-not-found-hint-firewall = تأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب (قد تكون متصلاً ولكن خلف جدار حماية)
+neterror-dns-not-found-hint-try-again = المحاولة مجددًا لاحقاً
+neterror-dns-not-found-hint-check-network = فحص اتصال الشبكة
+neterror-dns-not-found-hint-firewall = التأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب (قد تكون متصلاً ولكن خلف جدار حماية)
 
 ## TRR-only specific messages
 ## Variables:

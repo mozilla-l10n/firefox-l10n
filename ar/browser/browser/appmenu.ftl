@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = الإعداد المسبق الموصى به لتنقيح أغلبية تطبيقات الوِب دون استهلاك موارد كثيرة.
 profiler-popup-presets-web-developer-label =
     .label = مطوّري الوب
@@ -177,13 +182,17 @@ profiler-popup-presets-firefox-label =
 profiler-popup-presets-graphics-description = إعداد مسبق للتحقيق في أخطاء الرسومات في { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = الرسوميات
+profiler-popup-presets-media-description2 = إعداد مسبق للتحرّي عن مشاكل الصوت والفيديو في { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = الوسائط
+profiler-popup-presets-networking-description = إعداد مسبق للتحرّي عن مشاكل الشبكة في { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = الشبكة
+profiler-popup-presets-power-description = إعداد مسبق للتحرّي عن العلل التي تستخدم الطاقة في { -brand-shorter-name }، مع حمل منخفض.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = طاقة
+profiler-popup-presets-debug-description = إعداد مسبق لتصحيح الأخطاء في { -brand-shorter-name }. تكلفة إضافية عالية، لا تستخدمه لأعمال الأداء ولكن استخدمه للتركيز على فهم سلوك المتصفح.
 profiler-popup-presets-custom-label =
     .label = مخصّص
 
@@ -254,3 +263,6 @@ appmenu-developer-tools-extensions =
     .label = الامتدادات التي تخصّ المطوّرين
 appmenuitem-report-broken-site =
     .label = أبلِغ عن موقع معطوب
+
+## Panel for privacy and security products
+
