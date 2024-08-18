@@ -50,3 +50,13 @@ genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Jautāt MI tērzēšanas robotam
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Jautāt { $provider }
+genai-input-ask-generic =
+    .placeholder = Vaicāt AI tērzēšanas robotam…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Jautāt { $provider }…
