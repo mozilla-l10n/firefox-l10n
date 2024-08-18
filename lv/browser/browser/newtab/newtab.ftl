@@ -354,6 +354,15 @@ newtab-wallpaper-white-mountains = Balti kalni
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografēja <a data-l10n-name="name-link">{ $author_string }</a>, vietne <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Izmēģiniet krāsu akcentu
+newtab-wallpaper-feature-highlight-content = Piešķiriet savai jaunajai cilnei svaigu izskatu ar tapetēm.
+newtab-wallpaper-feature-highlight-button = Sapratu
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Noraidīt
+    .aria-label = Aizvērt uznirstošo logu
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
@@ -361,7 +370,21 @@ newtab-wallpaper-feature-highlight-header = Izmēģiniet krāsu akcentu
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
     .title = Skatīt prognozi { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ sponsorēts
+newtab-weather-menu-change-location = Mainīt atrašanās vietu
 newtab-weather-change-location-search-input = Meklēt atrašanās vietu
+newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Vienkāršs
+newtab-weather-menu-change-weather-display-simple = Pārslēgties uz vienkāršo skatu
+newtab-weather-menu-weather-display-option-detailed = Detalizēts
+newtab-weather-menu-change-weather-display-detailed = Pārslēgties uz detalizēto skatu
+newtab-weather-menu-temperature-units = Temperatūras mērvienības
+newtab-weather-menu-temperature-option-fahrenheit = Fārenheita
 newtab-weather-menu-learn-more = Uzzināt vairāk
 
 ## Topic Labels
