@@ -119,6 +119,9 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Ava eelmised aknad ja kaardid
     .accesskey = v
+windows-launch-on-login =
+    .label = Ava { -brand-short-name } automaatselt, kui arvuti käivitub
+    .accesskey = A
 startup-restore-warn-on-quit =
     .label = Brauserist väljumisel hoiatatakse
 disable-extension =
@@ -135,7 +138,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = M
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -178,7 +181,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Ära keela
 containers-remove-alert-title = Konteineri eemaldamine
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Kui eemaldad selle konteineri, siis konteinerkaart suletakse. Kas oled kindel, et soovid selle konteineri eemaldada?
@@ -229,6 +232,8 @@ advanced-fonts =
 preferences-zoom-header = Suurendamine
 preferences-default-zoom = Vaikimisi suurendamine
     .accesskey = u
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -321,15 +326,15 @@ applications-manage-app =
 applications-always-ask =
     .label = küsitakse alati
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Kasutatakse pluginat { $plugin-name } (kaustas { -brand-short-name })
 applications-open-inapp =
@@ -372,6 +377,8 @@ play-drm-content =
 play-drm-content-learn-more = Rohkem teavet
 update-application-title = { -brand-short-name }i uuendused
 update-application-description = Hoia { -brand-short-name } värske, et saada osa parimast võimekusest, stabiilsusest ja turvalisusest.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Uuendused</a>
 update-history =
     .label = Näita uuenduste ajalugu…
@@ -398,7 +405,7 @@ update-application-suppress-prompts =
     .accesskey = K
 update-setting-write-failure-title2 = Uuendamise sätete salvestamisel esines viga
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -428,7 +435,7 @@ performance-limit-content-process-option = Sisu protsesside limiit
 performance-limit-content-process-enabled-desc = Täiendavad sisu protsessid võivad parandada võimekust mitme kaardi kasutamisel, aga kasutavad ka rohkem mälu.
 performance-limit-content-process-blocked-desc = Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega { -brand-short-name }is. <a data-l10n-name="learn-more">Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (vaikimisi)
 
@@ -553,6 +560,8 @@ home-prefs-recent-activity-description = Valik hiljutisi saite ja sisu
 home-prefs-snippets-header =
     .label = Infokillud
 home-prefs-snippets-description-new = Näpunäited ja uudised { -vendor-short-name }lt ja { -brand-product-name }ilt
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -612,7 +621,7 @@ search-find-more-link = Leia veel otsingumootoreid
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Korduv võtmesõna
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sa valisid võtmesõna, mis on kasutusel juba otsingumootori "{ $name }" juures. Palun vali mõni muu.
 search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järjehoidja juures. Palun vali mõni muu.
 
@@ -894,8 +903,8 @@ history-clear-button =
 sitedata-header = Küpsised ja saidi andmed
 sitedata-total-size-calculating = Saidi andmete ja vahemälu suuruse arvutamine…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Salvestatud küpsised, saitide andmed ja vahemälu kasutavad praegu { $value } { $unit } salvestuspinda.
 sitedata-learn-more = Rohkem teavet
 sitedata-delete-on-close =
