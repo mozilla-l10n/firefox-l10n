@@ -33,7 +33,7 @@ printui-destination-label = Местоназначение
 printui-destination-pdf-label = Запазване в PDF
 printui-more-settings = Още настройки
 printui-less-settings = По-малко настройки
-printui-paper-size-label = Размер на хартия
+printui-paper-size-label = Размер на хартията
 # Section title (noun) for the print scaling options
 printui-scale = Мащаб
 printui-scale-fit-to-page-width = Побиране по ширината на листа
