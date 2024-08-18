@@ -17,18 +17,59 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Dzēst no vēstures
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Meklēšanas rezultāti vaicājumam “{ $query }”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Sānjoslas paplašinājumi
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } rīki
+sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
+sidebar-position-left =
+    .label = Rādīt pa kreisi
+sidebar-position-right =
+    .label = Rādīt pa labi
+sidebar-vertical-tabs =
+    .label = Vertikālas cilnes
+sidebar-horizontal-tabs =
+    .label = Horizontālas cilnes
+sidebar-customize-tabs-header =
+    .label = Ciļņu iestatījumi
+sidebar-customize-settings-header =
+    .label = Sānjoslas iestatījumi
+sidebar-visibility-always-show =
+    .label = Vienmēr rādīt
+sidebar-visibility-hide-sidebar =
+    .label = Slēpt sānjoslu
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Pārvaldīt paplašinājumu
+sidebar-context-menu-remove-extension =
+    .label = Izņemt paplašinājumu
+sidebar-context-menu-report-extension =
+    .label = Ziņot par paplašinājumu
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = MI tērzēšanas robots
+sidebar-menu-history-label =
+    .label = Vēsture
+sidebar-menu-synced-tabs-label =
+    .label = Cilnes no citām ierīcēm
+sidebar-menu-bookmarks-label =
+    .label = Grāmatzīmes
 
 ## Headings for sidebar menu panels.
 
