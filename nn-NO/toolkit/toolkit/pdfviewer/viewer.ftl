@@ -417,7 +417,11 @@ pdfjs-image-alt-text-settings-button-label = Alternative tekst-innstillingar for
 pdfjs-editor-alt-text-settings-dialog-label = Alternative tekst-innstillingar for bilde
 pdfjs-editor-alt-text-settings-automatic-title = Automatisk alternativ tekst
 pdfjs-editor-alt-text-settings-create-model-button-label = Opprett alternativ tekt automatisk
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = AI-modell for alternativ tekst ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-delete-model-button = Slett
 pdfjs-editor-alt-text-settings-download-model-button = Last ned
 pdfjs-editor-alt-text-settings-downloading-model-button = Lastar ned…
 pdfjs-editor-alt-text-settings-editor-title = Alternativ tekst-redigerar
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Vis alternativ tekst-redigerar direkte når du legg til eit bilde
