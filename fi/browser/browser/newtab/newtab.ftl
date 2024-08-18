@@ -419,6 +419,12 @@ newtab-topic-label-home = Koti ja puutarha
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Hienosäädä syötettä valitsemalla aiheita
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Valitse vähintään kaksi aihetta. Asiantuntevat kuraattorimme priorisoivat kiinnostuksen kohteidesi mukaan räätälöityjä tarinoita. Päivitä milloin tahansa.
 newtab-topic-selection-save-button = Tallenna
 newtab-topic-selection-cancel-button = Peruuta
 newtab-topic-selection-button-maybe-later = Ehkä myöhemmin
