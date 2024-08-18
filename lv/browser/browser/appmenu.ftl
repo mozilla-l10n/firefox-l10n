@@ -77,17 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Rādīt vairāk cilņu
     .tooltiptext = Rādīt vairāk ciļņu no šīs ierīces
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [zero] Rādīt { $count } neaktīvu cilni
-            [one] Rādīt { $count } neaktīvās cilnes
-           *[other] Rādīt { $count } neaktīvu ciļņu
-        }
-    .tooltiptext = Rādīt neaktīvās cilnes uz šīs ierīces
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Neaktīvās cilnes
+    .tooltiptext = Apskatīt neaktīvās cilnes, kas ir uz šīs ierīces
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav atvērtu cilņu
 # This is shown when Sync is configured but syncing tabs is disabled.

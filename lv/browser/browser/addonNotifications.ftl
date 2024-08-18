@@ -140,3 +140,5 @@ addon-local-install-error-not-signed = Šo papildinājumu nevar uzinstalēt, jo 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nevar uzinstalēt, jo tas nav saderīgs ar { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = { $addonName } nevar uzinstalēt, jo tas rada lielu drošības un stabilitātes risku.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Kā galalietotājs jūs nevarat instalēt { $addonName }, to var instalēt tikai organizācija, kas izmanto uzņēmuma politikas.
