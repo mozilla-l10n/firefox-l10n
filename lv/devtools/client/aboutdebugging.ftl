@@ -47,9 +47,52 @@ about-debugging-sidebar-item-connect-button-connecting = Savienojas…
 
 # Setup Page strings
 
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Pievienot
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Noņemt
 
 # Runtime Page strings
 
+# Title of the extensions category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-extensions =
+    .name = Paplašinājumi
+# Title of the tabs category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-tabs =
+    .name = Cilnes
+# Title of the service workers category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-service-workers =
+    .name = Pakalpojuma strādņi
+# Title of the shared workers category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-shared-workers =
+    .name = Kopīgotie strādņi
+# Title of the other workers category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-other-workers =
+    .name = Citi strādņi
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Atvienoties
 
 # Debug Targets strings
 
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Izpētīt
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Pārlādēt
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Noņemt
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Atrašanās vieta
