@@ -57,7 +57,7 @@ neterror-dns-not-found-hint-firewall = Provjeriti ima li { -brand-short-name } d
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne može zaštititi tvoj zahtjev za adresom ove web stranice putem našeg pouzdanog DNS servera. Razlog:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne može zaštititi tvoj zahtjev za adresom ove web stranice putem našeg pouzdanog DNS razlučivača. Razlog:
-neterror-dns-not-found-trr-third-party-warning2 = Možeš nastaviti s tvojim standardnim DNS serverom. Međutim, treća strana bi mogla vidjeti koje web stranice posjećuješ.
+neterror-dns-not-found-trr-third-party-warning2 = Možeš nastaviti s tvojim standardnim DNS serverom. Međutim, treća strana bi mogla vidjeti web stranice koje posjećuješ.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Povezivanje s { $trrDomain } je trajalo je duže od očekivanog.
 neterror-dns-not-found-trr-offline = Nisi povezan/a na internet.

@@ -5,7 +5,7 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Postaviti { -brand-short-name } kao standardni preglednik?</strong> Brzo, sigurno i privatno pregledavanje svaki put kad koristiš web.
 default-browser-notification-button =
-    .label = Postavi kao zadani
+    .label = Postavi kao standardni
     .accesskey = s
 
 ## These strings are used for the default browser prompt. There are 2 variations
@@ -13,9 +13,9 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Postaviti { -brand-short-name } kao primarni preglednik?
-default-browser-prompt-message-pin = Neka { -brand-short-name } bude nadohvat tvoje ruke — postavi ga kao zadani preglednik i prikvači na programsku traku.
-default-browser-prompt-message-pin-msix = Drži { -brand-short-name } nadohvat ruke – postavi ga kao zadani preglednik i dodaj ga u programsku traku i početni izbornik.
-default-browser-prompt-message-pin-mac = Neka { -brand-short-name } bude nadohvat tvoje ruke — postavi ga kao zadani preglednik i dodaj ga u svoj Dock.
+default-browser-prompt-message-pin = Neka { -brand-short-name } bude nadohvat tvoje ruke – postavi ga kao standardni preglednik i prikvači ga na programsku traku.
+default-browser-prompt-message-pin-msix = Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u programsku traku i početni izbornik.
+default-browser-prompt-message-pin-mac = Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoj Dock.
 default-browser-prompt-button-primary-set = Postavi kao primarni preglednik
 default-browser-prompt-button-primary-pin = Postavi kao primarni preglednik
 default-browser-prompt-title-alt = Postaviti { -brand-short-name } kao standardni preglednik?
