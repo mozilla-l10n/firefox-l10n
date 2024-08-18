@@ -6,7 +6,6 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -23,9 +22,9 @@ crashed-subframe-submit =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message =
     { $reportCount ->
-        [one] Imaš kedam izvještaj o prekidu programa koji nisi poslao/la
-        [few] Imaš { $reportCount } izvještaja o prekidu programa koji nisi poslao/la
-       *[other] Imaš { $reportCount } izvještaja o prekidu programa koji nisi poslao/la
+        [one] Imaš jedan izvještaj o rušenju koji nije poslan
+        [few] Imaš { $reportCount } izvještaja o rušenju koji nisu poslani
+       *[other] Imaš { $reportCount } izvještaja o rušenju koji nisu poslani
     }
 pending-crash-reports-view-all =
     .label = Prikaži
