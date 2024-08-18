@@ -126,21 +126,20 @@ translations-manage-description = Lejupielādēt valodas bezsaistes tulkošanai.
 translations-manage-all-language = Visas valodas
 translations-manage-download-button = Lejupielādēt
 translations-manage-delete-button = Dzēst
+translations-manage-intro-2 = Iestatiet savas valodas un vietņu tulkošanas preferences un pārvaldiet bezsaistes tulkošanai lejupielādētās valodas.
+translations-manage-download-description = Lejupielādēt valodas bezsaistes tulkošanai
+translations-manage-language-download-button =
+    .label = Lejupielādēt
+translations-manage-language-download-all-button =
+    .label = Lejupielādēt visu
+    .accesskey = D
 translations-manage-language-remove-button =
     .label = Izņemt
 translations-manage-language-remove-all-button =
     .label = Izņemt visu
     .accesskey = e
-translations-manage-error-install = Instalējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
 translations-manage-error-download = Lejupielādējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
 translations-manage-error-delete = Dzēšot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
-translations-manage-intro = Iestatiet savas valodas un vietņu tulkošanas preferences un pārvaldiet bezsaistes tulkošanai instalētās valodas.
-translations-manage-install-description = Instalēt valodas bezsaistes tulkošanai
-translations-manage-language-install-button =
-    .label = Instalēt
-translations-manage-language-install-all-button =
-    .label = Instalēt visu
-    .accesskey = I
 translations-manage-error-remove = Izņemot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
 translations-manage-error-list = Neizdevās iegūt tulkošanai pieejamo valodu sarakstu. Atsvaidziniet lapu, lai mēģinātu vēlreiz.
 translations-settings-title =
@@ -170,12 +169,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Aizvērt
     .buttonaccesskeyaccept = A
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Tulkot atlasi…
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Tulkot atlasi uz { $language }
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Tulkot saites tekstu…
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Tulkot saites tekstu uz { $language }
+    .accesskey = l
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tulkojums
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = No
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Uz
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Mēģināt citu avota valodu
 select-translations-panel-cancel-button =
     .label = Atcelt
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopēt
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Nokopēts
+select-translations-panel-done-button =
+    .label = Gatavs
+select-translations-panel-translate-full-page-button =
+    .label = Tulkot visu lapu
 select-translations-panel-translate-button =
     .label = Tulkot
 select-translations-panel-try-again-button =
     .label = Mēģināt vēlreiz
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Šeit tiks parādīts tulkotais teksts.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Tulko…
+select-translations-panel-init-failure-message =
+    .message = Nevarēja ielādēt valodas. Pārbaudiet savienojumu ar internetu un mēģiniet vēlreiz.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
@@ -189,3 +238,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Diemžēl mēs vēl neatbalstām valodu { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Diemžēl mēs vēl neatbalstām šo valodu.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Tulkošanas iestatījumi
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Tulkošana ir pabeigta
