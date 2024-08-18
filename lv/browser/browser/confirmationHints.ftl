@@ -22,3 +22,11 @@ confirmation-hint-send-to-device = Nosūtīts!
 confirmation-hint-firefox-relay-mask-created = Izveidota jauna maska!
 confirmation-hint-firefox-relay-mask-reused = Esošā maska izmantota atkārtoti!
 confirmation-hint-screenshot-copied = Ekrānuzņēmums nokopēts!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [zero] Aizvērta { $tabCount } cilne
+        [one] Aizvērtas { $tabCount } cilnes
+       *[other] Aizvērtas { $tabCount } ciļņu
+    }

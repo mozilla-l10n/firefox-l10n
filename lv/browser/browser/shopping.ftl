@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Atsauksmju pārbaudītājs ir <strong>
 shopping-adjusted-rating-label =
     .label = Koriģēts vērtējums
 shopping-adjusted-rating-unreliable-reviews = Neuzticamas atsauksmes ir izņemtas
+shopping-adjusted-rating-based-reliable-reviews = Pamatojoties uz uzticamām atsauksmēm
 
 ## Strings for the review reliability component
 
@@ -133,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = Uzziniet vairāk par to, <a data-l10n-
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Svarīgākie punkti</strong> ir no { $retailer } atsauksmēm pēdējo 80 dienu laikā, kuras, mūsuprāt, ir uzticamas.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Svarīgākie punkti</strong> ir no atsauksmēm pēdējo 80 dienu laikā, kuras, mūsuprāt, ir uzticamas.
 shopping-analysis-explainer-review-grading-scale-reliable = Uzticamas atsauksmes. Mēs uzskatām, ka atsauksmes, visticamāk, ir no īstiem klientiem, kuri atstājuši godīgas un objektīvas atsauksmes.
 shopping-analysis-explainer-review-grading-scale-mixed = Mēs uzskatām, ka ir gan uzticamas, gan neuzticamas atsauksmes.
 shopping-analysis-explainer-review-grading-scale-unreliable = Neuzticamas atsauksmes. Mēs uzskatām, ka atsauksmes, visticamāk, ir viltotas vai no neobjektīviem recenzentiem.
