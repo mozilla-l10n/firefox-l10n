@@ -46,6 +46,13 @@ experimental-features-js-warp-description = Warp aktivieren: ein Projekt zur Ver
 experimental-features-ime-search =
     .label = Adressleiste: Ergebnisse während der IME-Komposition anzeigen
 experimental-features-ime-search-description = Ein IME (Input Method Editor) ist ein Werkzeug, mit dem Sie komplexe Symbole, wie sie in ostasiatischen oder indischen Schriftsprachen verwendet werden, über eine Standardtastatur eingeben können. Durch Aktivieren dieses Experiments bleibt die Adressleisten-Ansicht geöffnet, wodurch Suchergebnisse und Vorschläge angezeigt werden, während IME zur Texteingabe verwendet wird. Beachten Sie, dass der IME möglicherweise ein Fenster anzeigt, das die Ergebnisse der Adressleiste verdeckt. Daher wird diese Einstellung nur für IME empfohlen, die diese Art von Fenster nicht verwenden.
+genai-settings-chat-title =
+    .label = KI-Chatbot
+# Updated sidebar settings
+sidebar-title =
+    .label = Sidebar
+vertical-tabs-title =
+    .label = Vertikale Tabs
 experimental-features-group-browsing =
     .label = Surfen
 experimental-features-group-developer-tools =
