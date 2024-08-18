@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Vigadest teatamise rakendus
-crashreporter-crash-message = Rakenduses { -brand-short-name } tekkis probleem ja rakendus lõpetas veaga.
+crashreporter-crashed-and-restore = { -brand-short-name }il tekkis tõrge ja see jooksis kokku. Püüame peale taaskäivitumust sinu kaardid ja aknad taastada.
 crashreporter-plea = Aitamaks meil viga diagnoosida ja parandada, võid saata vearaporti.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Täpsem info: { $details }
