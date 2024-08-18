@@ -23,6 +23,10 @@ genai-settings-chat-lechat-links = Ved å velje Le Chat Mistral godkjenner du <a
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Eg er på sida "{ $tabTitle }" med "{ $selection }" vald.
 
 ## Chatbot menu shortcuts
 

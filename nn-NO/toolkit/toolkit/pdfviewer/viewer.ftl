@@ -396,7 +396,9 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+pdfjs-editor-new-alt-text-create-automatically-button-label = Opprett alternativ tekt automatisk
 pdfjs-editor-new-alt-text-not-now-button = Ikkje no
+pdfjs-editor-new-alt-text-error-title = Klarte ikkje å opprette alternativ tekst automatisk
 pdfjs-editor-new-alt-text-error-close-button = Lat att
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternativ tekst lagt til
@@ -420,8 +422,10 @@ pdfjs-editor-alt-text-settings-create-model-button-label = Opprett alternativ te
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = AI-modell for alternativ tekst ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Køyrer lokalt på eininga di slik at dataa dine blir verande private. Påkravd for automatisk alternativ tekst.
 pdfjs-editor-alt-text-settings-delete-model-button = Slett
 pdfjs-editor-alt-text-settings-download-model-button = Last ned
 pdfjs-editor-alt-text-settings-downloading-model-button = Lastar ned…
 pdfjs-editor-alt-text-settings-editor-title = Alternativ tekst-redigerar
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Vis alternativ tekst-redigerar direkte når du legg til eit bilde
+pdfjs-editor-alt-text-settings-close-button = Lat att
