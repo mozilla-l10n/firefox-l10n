@@ -35,6 +35,18 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Vienkāršojiet valodu
     .value = Lūdzu, pārrakstiet atlasi, izmantojot īsus teikumus un vienkāršus vārdus. Saglabājiet jēgu un faktu precizitāti.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Iztaujā mani
+    .value = Lūdzu, jautājiet man par šo atlasi. Uzdodiet man dažādus jautājumus, piemēram, dodot vairākas atbilžu iespējas, "jā vai nē" jautājumus un prasot īsu atbildu. Pagaidiet manu atbildi, pirms uzdotat nākamo jautājumu.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Izskaidro šo
+    .value = Lūdzu, paskaidrojiet galvenos jēdzienus šajā atlasē, izmantojot vienkāršus vārdus. Izmantojiet arī piemērus.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
