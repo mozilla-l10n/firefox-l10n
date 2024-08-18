@@ -23,9 +23,20 @@ genai-settings-chat-lechat-links = Valitsemalla Le Chat Mistralin hyväksyt Mist
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Selitä tämä
+    .value = Selitä tämän valinnan keskeisimmät käsitteet käyttäen yksinkertaisia sanoja. Käytä myös esimerkkejä.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Kysy AI-chatbotilta
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Kysy palvelulta { $provider }
+genai-input-ask-generic =
+    .placeholder = Kysy AI-chatbotilta…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Kysy { $provider }…
