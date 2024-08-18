@@ -14,7 +14,7 @@ genai-settings-chat-chatgpt-links = Sielzint ChatGPT, tu acetis lis <a data-l10n
 genai-settings-chat-claude-links = Sielzint Anthropic Claude, tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion pal utent finâl</a>, lis <a data-l10n-name="link2">politichis di utilizazion</a> e la <a data-l10n-name="link3">informative su la riservatece</a>.
 genai-settings-chat-copilot-links = Sielzint Copilot tu acetis i <a data-l10n-name="link1">tiermins di Copilot AI Experiences</a> e la <a data-l10n-name="link2">informative su la riservatece di Microsoft</a>.
 genai-settings-chat-gemini-links = Sielzint Google Gemini tu acetis i <a data-l10n-name="link1">tiermins dal servizi di Google</a>, lis <a data-l10n-name="link2">politichis sul ûs vietât de AI gjenerative</a> e la <a data-l10n-name="link3">informative su la riservatece di Gemini Apps</a>.
-genai-settings-chat-huggingchat-links = Sielzint HuggingChat tu acetis la <a data-l10n-name="link1">informative su la riservatece di HuggingChat e la <a data-l10n-name="link2">informative su la riservatece di Hugging Face</a>
+genai-settings-chat-huggingchat-links = Sielzint HuggingChat tu acetis la <a data-l10n-name="link1">informative su la riservatece di HuggingChat</a> e la <a data-l10n-name="link2">informative su la riservatece di Hugging Face</a>
 genai-settings-chat-lechat-links = Sielzint Le Chat Mistral tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="link2">informative su la riservatece</a> di Mistral AI.
 genai-settings-chat-localhost-links = Dopre il to chatbot locâl privât, come <a data-l10n-name="link1">llamafile</a>, dal grup Innovation di { -vendor-short-name }.
 genai-settings-chat-shortcuts =
