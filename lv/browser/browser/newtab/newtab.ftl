@@ -317,16 +317,43 @@ newtab-wallpaper-category-title-colors = Vienkrāsains
 newtab-wallpaper-blue = Zils
 newtab-wallpaper-light-blue = Gaiši zils
 newtab-wallpaper-light-purple = Gaiši violets
+newtab-wallpaper-light-green = Gaiši zaļš
+newtab-wallpaper-green = Zaļš
+newtab-wallpaper-beige = Bēšs
+newtab-wallpaper-yellow = Dzeltens
+newtab-wallpaper-orange = Oranžs
+newtab-wallpaper-pink = Rozā
+newtab-wallpaper-light-pink = Gaiši rozā
+newtab-wallpaper-red = Sarkans
+newtab-wallpaper-dark-blue = Tumši zils
+newtab-wallpaper-dark-purple = Tumši violets
+newtab-wallpaper-dark-green = Tumši zaļš
+newtab-wallpaper-brown = Brūns
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstrakts
+newtab-wallpaper-abstract-green = Zaļas formas
+newtab-wallpaper-abstract-blue = Zilas formas
+newtab-wallpaper-abstract-purple = Violetas formas
+newtab-wallpaper-abstract-orange = Oranžas formas
+newtab-wallpaper-gradient-orange = Oranža un rozā krāsu pāreja
+newtab-wallpaper-abstract-blue-purple = Zilas un violetas formas
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotogrāfijas
+newtab-wallpaper-beach-at-sunrise = Pludmale saullēktā
+newtab-wallpaper-beach-at-sunset = Pludmale saulrietā
+newtab-wallpaper-storm-sky = Vētras debesis
+newtab-wallpaper-sky-with-pink-clouds = Debesis ar rozā mākoņiem
+newtab-wallpaper-red-panda-yawns-in-a-tree = Sarkanā panda žāvājas kokā
+newtab-wallpaper-white-mountains = Balti kalni
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografēja <a data-l10n-name="name-link">{ $author_string }</a>, vietne <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Izmēģiniet krāsu akcentu
 
 ## New Tab Weather
 
