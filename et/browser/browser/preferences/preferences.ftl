@@ -122,6 +122,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Ava { -brand-short-name } automaatselt, kui arvuti käivitub
     .accesskey = A
+windows-launch-on-login-disabled = See eelistus on Windowsis keelatud. Muutmiseks külasta süsteemiseadetes jaotist <a data-l10n-name="startup-link">Käivitusrakendused</a>.
 startup-restore-warn-on-quit =
     .label = Brauserist väljumisel hoiatatakse
 disable-extension =
