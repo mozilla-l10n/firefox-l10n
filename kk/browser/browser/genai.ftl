@@ -5,6 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Шолу кезінде жылдам қол жеткізу үшін сіз таңдаған чат-ботты бүйір панеліне қосады. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
+genai-settings-chat-choose = Чат-ботты таңдау
+genai-settings-chat-choose-one-menuitem =
+    .label = Таңдау
+genai-settings-chat-links = Чат-ботты таңдаған кезде сіз оның провайдерінің қолдану шарттары және жекелік саясатымен келісесіз.
+genai-settings-chat-chatgpt-links = ChatGPT таңдау арқылы сіз OpenAI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
