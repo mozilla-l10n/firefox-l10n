@@ -418,3 +418,4 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Автоматт�
 pdfjs-editor-alt-text-settings-delete-model-button = Өшіру
 pdfjs-editor-alt-text-settings-download-model-button = Жүктеп алу
 pdfjs-editor-alt-text-settings-downloading-model-button = Жүктеліп алынуда…
+pdfjs-editor-alt-text-settings-close-button = Жабу
