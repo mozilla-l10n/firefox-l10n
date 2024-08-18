@@ -50,6 +50,8 @@ experimental-features-ime-search-description = IME (Input Method Editor - Енг
 experimental-features-auto-pip =
     .label = Суреттегі сурет: беттер ауысқанда автоматты түрде ашу
 experimental-features-auto-pip-description = Беттерді ауыстырған кезде белсенді видеолар үшін суреттегі сурет мүмкіндігін іске қосу.
+genai-settings-chat-title =
+    .label = ЖИ чатботы
 # Updated sidebar settings
 sidebar-title =
     .label = Бүйір панелі
