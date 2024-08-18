@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Neļaut pārlūkam atjaunināties.
 policy-DisableBuiltinPDFViewer = Deaktivēt PDF.js, { -brand-short-name } iebūvēto PDF lasītāju.
 policy-DisableDefaultBrowserAgent = Liegt noklusējuma pārlūka aģentam veikt jebkādas darbības. Attiecas tikai uz Windows; citās platformās aģentu nav.
 policy-DisableDeveloperTools = Bloķēt pieeju izstrādātāju rīkiem.
+policy-DisableEncryptedClientHello = Izslēgt TLS funkcijas Encrypted Client Hello (ECH) izmantošanu.
 policy-DisableFeedbackCommands = Atspējo komandas, kas var nosūtīt atsauksmes no Palīdzības izvēlnes (Sūtīt atsauksmi un Ziņot par krāpnieku lapu).
 policy-DisableFirefoxAccounts = Deaktivē { -fxaccount-brand-name } pakalpojumus, piemēram Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Izslēgt ar kontu saistītus pakalpojumus, tostarp sinhronizāciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deaktivē Firefox ekrānattēlu rīku.
 policy-DisableFirefoxStudies = Liedz { -brand-short-name } veikt pētījumus.
@@ -81,6 +84,8 @@ policy-Handlers = Konfigurēt noklusējuma lietotņu apstrādātājus.
 policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātrināšanu.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Iestata un iespējams fiksē sākuma lapu.
+policy-HttpAllowlist = Izcelsmes, kuras netiks uzlabotas uz HTTPS.
+policy-HttpsOnlyMode = Atļaut ieslēgt režīmu Tikai-HTTPS.
 policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.
 policy-LegacyProfiles = Izslēgt funkciju, kas katrai instalācijai nodrošina atsevišķu profilu.
 
@@ -105,12 +110,16 @@ policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatiet še
 policy-OverridePostUpdatePage = Pārraksta pēc atjauninājumu "Kas jauns" lapu. Iestatiet šeit tukšumu, lai deaktivētu šo lapu.
 policy-PasswordManagerEnabled = Ieslēgt paroļu saglabāšanu paroļu pārvaldniekā.
 policy-PasswordManagerExceptions = Liegt { -brand-short-name } saglabāt paroles noteiktām vietnēm.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Ieslēgt pēckvantu atslēgas līgumu TLS savienojumiem.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Izslēgt vai konfigurēt PDF.js, iebūvēto { -brand-short-name } PDF skatītāju.
 policy-Permissions2 = Konfigurēt kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
 policy-PictureInPicture = Ieslēgt vai izslēgt funkciju attēls-attēlā.
 policy-PopupBlocking = Ļaut zināmām lapām pēc noklusējuma rādīt uznirstošos logus.
 policy-Preferences = Iestatīt un noslēgt perefreneču apakškopu vērtības.
+policy-PrivateBrowsingModeAvailability = Iestatīt privātās pārlūkošanas režīma pieejamību.
 policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt datnes.
 policy-Proxy = Konfigurē starpniekservera iestatījumus.
 policy-RequestedLocales = Iestatiet pieejamo valodu sarakstu prioritātes secībā.
