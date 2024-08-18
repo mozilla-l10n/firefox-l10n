@@ -9,7 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Instalēšanas kļūda
-opensearch-error-duplicate-desc = { -brand-short-name } nevar pievienot jaunu meklētāju no "{ $location-url }", jo šāds meklētājs jau ir pievienots.
+opensearch-error-duplicate-desc = { -brand-short-name } nevar pievienot jaunu meklēšanas spraudni no "{ $location-url }", jo jau pastāv dzinis ar šādu nosaukumu.
 opensearch-error-format-title = Nederīgs formāts
 opensearch-error-format-desc = { -brand-short-name } nevarēja instalēt meklētāju no: { $location-url }
 opensearch-error-download-title = Lejupielādes kļūda
