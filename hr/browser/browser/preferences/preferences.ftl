@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Šalji web-stranicama signal „Ne prati me” da ne želiš da te prate
+do-not-track-description = Šalji web stranicama signal „Ne prati me”, da ne želiš da te prate
 do-not-track-description2 =
-    .label = Šalji web stranicama zahtjev da te ne prate
+    .label = Šalji web stranicama zahtjev za „Ne prati me”
     .accesskey = d
 do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
