@@ -38,18 +38,26 @@ sidebar-context-menu-manage-extension =
     .label = Кеңейтуді басқару
 sidebar-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
+sidebar-context-menu-report-extension =
+    .label = Кеңейтуге шағым жіберу
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = ЖИ чатботы
 sidebar-menu-history-label =
     .label = Тарих
 sidebar-menu-synced-tabs-label =
     .label = Басқа құрылғылардан беттер
 sidebar-menu-bookmarks-label =
     .label = Бетбелгілер
+sidebar-menu-customize-label =
+    .label = Бүйір панелін баптау
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Бүйір панелін баптау
 sidebar-menu-history-header =
     .heading = Тарих
 sidebar-menu-syncedtabs-header =
