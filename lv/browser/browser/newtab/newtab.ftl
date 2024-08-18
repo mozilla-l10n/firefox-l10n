@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Nesenās aktivitātes
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iesaka { $provider }
 newtab-section-header-stories = Pārdomas rosinoši stāsti
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Šodienas izlase jums
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -233,6 +235,19 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ir daļa no { -bran
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Saglabāt
 newtab-pocket-saved = Saglabāts
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Vairāk šādus
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Tas nav man
+newtab-toast-thumbs-up-or-down = Paldies. Jūsu atsauksmes palīdzēs mums uzlabot jūsu plūsmu.
+newtab-toast-dismiss-button =
+    .title = Noraidīt
+    .aria-label = Noraidīt
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -273,6 +288,9 @@ newtab-custom-recent-subtitle = Neseno vietņu un satura izlase
 newtab-custom-recent-toggle =
     .label = Nesenās aktivitātes
     .description = Neseno vietņu un satura izlase
+newtab-custom-weather-toggle =
+    .label = Laikapstākļi
+    .description = Šodienas prognoze ātrā acu uzmetienā
 newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vēl iestatījumu
 
@@ -292,7 +310,35 @@ newtab-wallpaper-dark-panda = Sarkanā panda paslēpta mežā
 newtab-wallpaper-dark-sky = Pilsētas ainava ar nakts debesīm
 newtab-wallpaper-dark-mountain = Ainavisks kalns
 newtab-wallpaper-dark-city = Violeta pilsētas ainava
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Vienkrāsains
+newtab-wallpaper-blue = Zils
+newtab-wallpaper-light-blue = Gaiši zils
+newtab-wallpaper-light-purple = Gaiši violets
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografēja <a data-l10n-name="name-link">{ $author_string }</a>, vietne <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Skatīt prognozi { $provider }
+newtab-weather-change-location-search-input = Meklēt atrašanās vietu
+newtab-weather-menu-learn-more = Uzzināt vairāk
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
