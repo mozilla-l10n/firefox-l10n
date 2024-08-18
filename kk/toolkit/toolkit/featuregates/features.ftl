@@ -55,11 +55,16 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Бүйір панелі
+sidebar-description = Шолу кезінде тарих, басқа құрылғылардағы беттер, бүйір панелі қеңейтулеріне және т.б. нәрселерге оңай қол жеткізіңіз. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
 vertical-tabs-title =
     .label = Вертикалды беттер
+vertical-tabs-description = Беттерді браузердің жоғарғы жағынан бүйір жағына жылжытыңыз. Сондай-ақ бүйір панелін пайдаланып көруді талап етеді. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
 experimental-features-group-browsing =
     .label = Шолу
 experimental-features-group-developer-tools =
     .label = Әзірлеуші құралдары
 experimental-features-group-webpage-display =
     .label = Веб-парақтың көрсетілімі
+experimental-features-group-customize-browsing =
+    .label = Шолуыңызды баптаңыз
+experimental-features-group-customize-browsing-description = Осы мүмкіндіктерді қолданып көрсеңіз, <a data-l10n-name="connect"> олар туралы Connect ішінде өз ойыңызбен бөлісіңіз</a>

@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Соңғы белсенділігі
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Ұсынушы { $provider }
 newtab-section-header-stories = Ойландыратын оқиғалар
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Бүгінгі таңдаулар сіз үшін
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -412,9 +414,19 @@ newtab-topic-label-society = Лайфхактар
 newtab-topic-label-sports = Спорт
 newtab-topic-label-tech = Техника
 newtab-topic-label-travel = Саяхат
+newtab-topic-label-home = Үй және бақша
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Таспаңызды дәл баптау үшін тақырыптарды таңдаңыз
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Екі немесе одан да көп тақырыпты таңдаңыз. Біздің сарапшы кураторлар сіздің қызығушылықтарыңызға бейімделген мақалаларға басымдық береді. Кез келген уақытта жаңартуға болады.
 newtab-topic-selection-save-button = Сақтау
 newtab-topic-selection-cancel-button = Бас тарту
 newtab-topic-selection-button-maybe-later = Мүмкін, кейінірек
+newtab-topic-selection-privacy-link = Деректерді қалай қорғайтынымызды және басқаратынымызды біліңіз
+newtab-topic-selection-button-update-interests = Қызығушылықтарыңызды жаңартыңыз
+newtab-topic-selection-button-pick-interests = Қызығушылықтарыңызды таңдаңыз

@@ -339,6 +339,9 @@ onboarding-device-migration-primary-button-label = Кіру
 
 ## Add-ons Picker screen
 
+amo-picker-title = Өз { -brand-short-name } баптаңыз
+amo-picker-subtitle = Кеңейтулер браузеріңізге арналған қолданбалар сияқты және олар парольдерді қорғау, видеоларды жүктеп алу, мәмілелерді табу, тітіркендіргіш жарнамаларды блоктау, браузердің сыртқы түрін өзгерту және т.б. мүмкіндіктерін береді.
+amo-picker-install-button-label = { -brand-short-name } ішіне қосу
 amo-picker-install-complete-label = Орнатылған
 amo-picker-collection-link = Көбірек қосымшаларды шолу
 
