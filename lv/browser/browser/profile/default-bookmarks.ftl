@@ -20,20 +20,20 @@ default-bookmarks-firefox-get-help = Iegūt palīdzību
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = Pielāgot Firefox
 # link title for https://www.mozilla.org/contribute/
-default-bookmarks-firefox-community = Iesaistieties
+default-bookmarks-firefox-community = Iesaistīties
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Par mums
 # Firefox Nightly links folder name
-default-bookmarks-nightly-heading = Firefox ik-nakts laidiena resursi
+default-bookmarks-nightly-heading = Firefox iknakts laidiena resursi
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-default-bookmarks-nightly-blog = Firefox ik-nakts laidiena emuārs
+default-bookmarks-nightly-blog = Firefox iknakts laidiena emuārs
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Mozilla kļūdu izsekotājs
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Mozilla izstrādātāju tīkls
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
-default-bookmarks-nightly-tester-tools = Ik-nakts laidiena testēšanas rīki
+default-bookmarks-nightly-tester-tools = Iknakts laidiena testēšanas rīki
 # Nightly builds only, link title for about:crashes
-default-bookmarks-crashes = Visas jūsu avārijas
+default-bookmarks-crashes = Visas avārijas
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Mozilla planēta

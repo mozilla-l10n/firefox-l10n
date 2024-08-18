@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = Atcelt
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = Kopēt ({ $shortcut })
-    .aria-label = Kopēt
-screenshots-component-copy-button-label = Kopēt
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = Lejupielādēt ({ $shortcut })
-    .aria-label = Lejupielādēt
-screenshots-component-download-button-label = Lejupielādēt
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Kopēt
     .title = Kopēt ({ $shortcut })
     .aria-label = Kopēt
@@ -88,8 +76,8 @@ screenshots-component-copy-key = C
 ##
 
 # This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
+# "×" here represents "by" (i.e 123 by 456)
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
