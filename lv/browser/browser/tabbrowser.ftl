@@ -141,6 +141,13 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nerādīt man vairs šo dialoglodzi�
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = Uzmanību
+tabbrowser-confirm-close-duplicate-tabs-text = Mēs atstāsim atvērtu pēdējo aktīvo cilni
+tabbrowser-confirm-close-all-duplicate-tabs-title = Aizvērt dublētās cilnes?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Mēs aizvērsim dublētās cilnes šajā logā. Pēdējā aktīvā
+    cilne paliks atvērta.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Aizvērt cilnes
 
 ##
 
