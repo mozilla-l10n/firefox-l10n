@@ -192,7 +192,9 @@ profiler-popup-presets-power-description = إعداد مسبق للتحرّي ع
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = طاقة
-profiler-popup-presets-debug-description = إعداد مسبق لتصحيح الأخطاء في { -brand-shorter-name }. تكلفة إضافية عالية، لا تستخدمه لأعمال الأداء ولكن استخدمه للتركيز على فهم سلوك المتصفح.
+profiler-popup-presets-debug-description = إعداد مسبق للتنقيح في { -brand-shorter-name }. تكلفة إضافية عالية، لا تستخدمه لأعمال الأداء ولكن استخدمه للتركيز على فهم سلوك المتصفح.
+profiler-popup-presets-debug-label =
+    .label = نقّح
 profiler-popup-presets-custom-label =
     .label = مخصّص
 
@@ -266,3 +268,4 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-monitor-description = احصل على تنبيهات تسريب البيانات

@@ -225,6 +225,12 @@ newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocke
 newtab-pocket-save = احفظ
 newtab-pocket-saved = حُفظت
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = ليس لي
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = اكتشف أفضل ما في الويب
@@ -257,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = الاختصارات الممولة
 newtab-custom-pocket-title = مُقترح من { -pocket-brand-name }
 newtab-custom-pocket-subtitle = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = مُقترح من { -pocket-brand-name }
-    .description = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
 newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-pocket-show-recent-saves = أظهِر عمليات الحفظ الأخيرة
 newtab-custom-recent-title = أحدث الأنشطة
@@ -269,3 +272,50 @@ newtab-custom-recent-toggle =
     .description = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-close-button = أغلِق
 newtab-custom-settings = أدِر المزيد من الإعدادات
+
+## New Tab Wallpapers
+
+newtab-wallpaper-light-red-panda = باندا أحمر
+newtab-wallpaper-light-mountain = جبل ابيض
+newtab-wallpaper-light-sky = سماء مع غيوم أرجوانية ووردية
+newtab-wallpaper-light-beach = شاطئ مع شجرة نخيل
+newtab-wallpaper-dark-aurora = شفق قطبي
+newtab-wallpaper-dark-color = أشكال حمراء وزرقاء
+
+## Solid Colors
+
+newtab-wallpaper-blue = أزرق
+newtab-wallpaper-light-blue = أزرق فاتح
+newtab-wallpaper-light-purple = ارجواني فاتح
+newtab-wallpaper-light-green = اخضر فاتح
+newtab-wallpaper-green = أخضر
+newtab-wallpaper-beige = بيج
+newtab-wallpaper-yellow = أصفر
+newtab-wallpaper-orange = برتقالي
+newtab-wallpaper-pink = وردي
+newtab-wallpaper-light-pink = وردي فاتح
+newtab-wallpaper-red = أحمر
+newtab-wallpaper-dark-blue = أزرق غامق
+newtab-wallpaper-dark-purple = أرجواني داكن
+newtab-wallpaper-dark-green = أخضر غامق
+newtab-wallpaper-brown = بني
+
+## Abstract
+
+newtab-wallpaper-abstract-green = أشكال خضراء
+newtab-wallpaper-abstract-blue = أشكال زرقاء
+newtab-wallpaper-abstract-purple = أشكال أرجوانية
+newtab-wallpaper-abstract-orange = أشكال برتقالية
+
+## Photographs
+
+newtab-wallpaper-white-mountains = جبال بيضاء
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
