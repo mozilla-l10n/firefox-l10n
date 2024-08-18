@@ -70,6 +70,14 @@ sidebar-menu-synced-tabs-label =
     .label = Cilnes no citām ierīcēm
 sidebar-menu-bookmarks-label =
     .label = Grāmatzīmes
+sidebar-menu-customize-label =
+    .label = Pielāgot sānjoslu
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Pielāgot sānjoslu
+sidebar-menu-history-header =
+    .heading = Vēsture
+sidebar-menu-syncedtabs-header =
+    .heading = Cilnes no citām ierīcēm
