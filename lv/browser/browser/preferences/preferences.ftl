@@ -605,6 +605,9 @@ home-prefs-recent-activity-description = Neseno vietņu un satura izlase
 home-prefs-snippets-header =
     .label = Fragmenti
 home-prefs-snippets-description-new = Padomi un jaunumi no { -vendor-short-name } un { -brand-product-name }
+home-prefs-weather-header =
+    .label = Laikapstākļi
+home-prefs-weather-learn-more-link = Uzzināt vairāk
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -951,6 +954,7 @@ primary-password-os-auth-dialog-message-win = Lai izveidotu galveno paroli, ieva
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = izveidot galveno paroli
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

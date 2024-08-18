@@ -18,7 +18,7 @@ default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = Iegūt palīdzību
 # link title for https://www.mozilla.org/firefox/customize/
-default-bookmarks-firefox-customize = Pielāgo Firefox
+default-bookmarks-firefox-customize = Pielāgot Firefox
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = Iesaistieties
 # link title for https://www.mozilla.org/about/
