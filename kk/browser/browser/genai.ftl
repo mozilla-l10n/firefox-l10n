@@ -16,6 +16,10 @@ genai-settings-chat-copilot-links = Copilot таңдау арқылы сіз <a 
 genai-settings-chat-gemini-links = Google Gemini таңдау арқылы сіз <a data-l10n-name="link1">Google қызмет көрсету шарттары</a>, <a data-l10n-name="link2">Генеративті ЖИ тыйым салынған қолдану саясаты</a> және <a data-l10n-name="link3">Gemini қолданбаларының жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-huggingchat-links = HuggingChat таңдау арқылы сіз <a data-l10n-name="link1">HuggingChat жекелік ескертуі</a> және <a data-l10n-name="link2">Hugging Face жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-lechat-links = Le Chat Mistral таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-localhost-links = { -vendor-short-name } инновациялар тобынан <a data-l10n-name="link1">llamafile</a> сияқты жеке жергілікті чат-ботты жасаңыз.
+genai-settings-chat-shortcuts =
+    .description = Мәтінді таңдаған кезде сұрауларға жарлықты көрсетеді. { -brand-short-name } мәтінді, бет тақырыбын және сұрауды чат-ботқа жібереді.
+    .label = Мәтінді таңдаған кезде сұрауларды көрсету
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -39,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Мұны түсіндіру
     .value = Қарапайым сөздерді қолдана отырып, осы таңдаудағы негізгі ұғымдарды түсіндіріңіз. Сондай-ақ, мысалдарды қолданыңыз.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Мен "{ $tabTitle }" бетінде тұрмын және "{ $selection }" таңдалды.
 
 ## Chatbot menu shortcuts
 

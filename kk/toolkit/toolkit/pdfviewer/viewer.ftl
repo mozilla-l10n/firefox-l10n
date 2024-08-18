@@ -396,12 +396,30 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Балама мәтінді өңдеу (сурет сипаттамасы)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Балама мәтінді қосу (сурет сипаттамасы)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Сипаттамаңызды осында жазыңыз…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Суретті көре алмайтын адамдар үшін немесе сурет жүктелмеген кезіне арналған қысқаша сипаттама.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Бұл балама мәтін автоматты түрде жасалды және дәлсіз болуы мүмкін.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Бұл балама мәтін автоматты түрде жасалды.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Көбірек білу
 pdfjs-editor-new-alt-text-create-automatically-button-label = Балама мәтінді автоматты түрде жасау
 pdfjs-editor-new-alt-text-not-now-button = Қазір емес
 pdfjs-editor-new-alt-text-error-title = Балама мәтінді автоматты түрде жасау мүмкін болмады
 pdfjs-editor-new-alt-text-error-description = Өзіңіздің балама мәтініңізді жазыңыз немесе кейінірек қайталап көріңіз.
 pdfjs-editor-new-alt-text-error-close-button = Жабу
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Балама мәтін үшін ЖИ моделі жүктеп алынуда ({ $downloadedSize }/{ $totalSize } МБ)
+    .aria-valuetext = Балама мәтін үшін ЖИ моделі жүктеп алынуда ({ $downloadedSize }/{ $totalSize } МБ)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Балама мәтін қосылды
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -415,7 +433,21 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Автоматт�
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Суреттің балама мәтінінің баптаулары
+pdfjs-image-alt-text-settings-button-label = Суреттің балама мәтінінің баптаулары
+pdfjs-editor-alt-text-settings-dialog-label = Суреттің балама мәтінінің баптаулары
+pdfjs-editor-alt-text-settings-automatic-title = Автоматты балама мәтін
+pdfjs-editor-alt-text-settings-create-model-button-label = Балама мәтінді автоматты түрде жасау
+pdfjs-editor-alt-text-settings-create-model-description = Суретті көре алмайтын адамдар үшін немесе сурет жүктелмеген кезіне арналған сипаттамаларды ұсынады.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Баламалы мәтіннің ЖИ моделі ({ $totalSize } МБ)
+pdfjs-editor-alt-text-settings-ai-model-description = Деректеріңіз жеке болып қалуы үшін құрылғыңызда жергілікті түрде жұмыс істейді. Автоматты балама мәтін үшін қажет.
 pdfjs-editor-alt-text-settings-delete-model-button = Өшіру
 pdfjs-editor-alt-text-settings-download-model-button = Жүктеп алу
 pdfjs-editor-alt-text-settings-downloading-model-button = Жүктеліп алынуда…
+pdfjs-editor-alt-text-settings-editor-title = Баламалы мәтін редакторы
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Суретті қосқанда балама мәтін редакторын бірден көрсету
+pdfjs-editor-alt-text-settings-show-dialog-description = Барлық суреттерде балама мәтін бар екеніне көз жеткізуге көмектеседі.
 pdfjs-editor-alt-text-settings-close-button = Жабу
