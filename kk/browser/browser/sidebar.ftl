@@ -30,6 +30,10 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Бүйір панелі кеңейтулері
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } құралдары
+sidebar-customize-firefox-settings = { -brand-short-name } баптауларын басқару
 sidebar-position-left =
     .label = Сол жақта көрсету
 sidebar-position-right =
