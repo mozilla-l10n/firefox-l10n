@@ -200,7 +200,7 @@ newtab-section-header-recent-activity = Nyleg aktivitet
 newtab-section-header-pocket = Tilrådd av { $provider }
 newtab-section-header-stories = Tankevekkjande artiklar
 # "picks" refers to recommended articles
-newtab-section-header-todays-picks = Dagens val for deg
+newtab-section-header-todays-picks = Dagens utvalde artiklar for deg
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
