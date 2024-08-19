@@ -405,6 +405,23 @@ pdfjs-editor-new-alt-text-textarea =
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ਹੋਰ ਜਾਣੋ
 pdfjs-editor-new-alt-text-create-automatically-button-label = ਬਲਦਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਓ
 pdfjs-editor-new-alt-text-not-now-button = ਹੁਣੇ ਨਹੀਂ
+pdfjs-editor-new-alt-text-error-close-button = ਬੰਦ ਕਰੋ
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = ਬਦਲਵਾਂ ਲਿਖਤ AI ਮਾਡਲ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ({ $totalSize } MB ਵਿੱਚੋਂ { $downloadedSize })
+    .aria-valuetext = ਬਦਲਵਾਂ ਲਿਖਤ AI ਮਾਡਲ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ({ $totalSize } MB ਵਿੱਚੋਂ { $downloadedSize })
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = ਬਦਲਵੀਂ ਲਿਖਤ ਜੋੜੀ
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = ਬਦਲਵਾਂ ਲਿਖਤ ਗੁੰਮ ਹੈ
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = ਬਦਲਵੀਂ ਲਿਖਤ ਦਾ ਰੀਵਿਊ ਕਰੋ
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = ਆਪਣੇ-ਆਪ ਬਣਾਇਆ: { $generatedAltText }
 
 ## Image alt-text settings
 
