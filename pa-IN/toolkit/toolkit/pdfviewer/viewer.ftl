@@ -298,8 +298,6 @@ pdfjs-editor-stamp-button-label = ਚਿੱਤਰ ਜੋੜੋ ਜਾਂ ਸੋ�
 pdfjs-editor-highlight-button =
     .title = ਹਾਈਲਾਈਟ
 pdfjs-editor-highlight-button-label = ਹਾਈਲਾਈਟ
-pdfjs-highlight-floating-button =
-    .title = ਹਾਈਲਾਈਟ
 pdfjs-highlight-floating-button1 =
     .title = ਹਾਈਲਾਈਟ
     .aria-label = ਹਾਈਲਾਈਟ
@@ -394,3 +392,19 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = ਸਭ ਵੇਖੋ
 pdfjs-editor-highlight-show-all-button =
     .title = ਸਭ ਵੇਖੋ
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = ਬਦਲਵੀਂ ਲਿਖਤ (ਚਿੱਤਰ ਦਾ ਵਰਣਨ) ਨੂੰ ਸੋਧੋ
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = ਬਦਲਵੀਂ ਲਿਖਤ (ਚਿੱਤਰ ਦਾ ਵਰਣਨ) ਨੂੰ ਜੋੜੋ
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = …ਆਪਣਾ ਵਰਣਨਾ ਇੱਥੇ ਲਿਖੋ
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ਹੋਰ ਜਾਣੋ
+pdfjs-editor-new-alt-text-create-automatically-button-label = ਬਲਦਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਓ
+pdfjs-editor-new-alt-text-not-now-button = ਹੁਣੇ ਨਹੀਂ
+
+## Image alt-text settings
+
