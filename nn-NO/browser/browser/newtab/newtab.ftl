@@ -419,7 +419,7 @@ newtab-topic-label-home = Heim og hage
 newtab-topic-selection-title = Vel emne for å finjustere feed-en din
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Vel to eller fleire emne. Ekspertkuratorane våre prioriterer nyheiter tilpassa etter dine interesser. Oppdater når som helst.
+newtab-topic-selection-subtitle = Vel to eller fleire emne. Ekspertkuratorane våre prioriterer artiklar tilpassa etter dine interesser. Oppdater når som helst.
 newtab-topic-selection-save-button = Lagre
 newtab-topic-selection-cancel-button = Avbryt
 newtab-topic-selection-button-maybe-later = Kanskje seinare
