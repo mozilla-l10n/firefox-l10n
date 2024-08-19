@@ -5,8 +5,10 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-choose = Velg en samtalerobot
 genai-settings-chat-choose-one-menuitem =
     .label = Velg en
+genai-settings-chat-links = Når du velger en samtalerobot, godkjenner du brukervilkårene og personvernerklæringen til leverandøren.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -14,12 +16,36 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Oppsummer
+    .value = Oppsummer utvalget med et presist og konsist språk. Bruk overskrifter og punktlister i sammendraget for å gjøre det lett å skanne. Oppretthold betydningen og faktanøyaktigheten.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Forenkle språket
+    .value = Skriv om utvalget med korte setninger og enkle ord. Oppretthold betydningen og faktanøyaktigheten.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Test meg
+    .value = Spør meg om dette utvalget. Still meg en rekke typer spørsmål, for eksempel flervalgsspørsmål, sant eller usant, og kort svar. Vent på svaret mitt før du går videre til neste spørsmål.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Forklar dette
+    .value = Forklar nøkkelbegrepene i dette utvalget ved å bruke enkle ord. Bruk også eksempler.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Jeg er på siden «{ $tabTitle }» med «{ $selection }» valgt.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Spør AI chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spør { $provider }
+genai-input-ask-generic =
+    .placeholder = Spør AI chatbot…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
