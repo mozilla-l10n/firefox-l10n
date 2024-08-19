@@ -15,6 +15,7 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = Err { -brand-short-name } d iminig-ik·im agejdan?
 default-browser-prompt-message-pin = Eǧǧ { -brand-short-name } ɣef wafus — err-it d iminig-ik·im amezwer rnu senteḍ-it ɣer ufeggag-ik·im n twuriwin.
 default-browser-prompt-message-pin-mac = Eǧǧ { -brand-short-name } ɣef wafus — err-it d iminig-ik·im amezwer rnu eǧǧ-it deg Dock inek·inem.
+default-browser-prompt-button-primary-set = Err-it d iminig agejdan
 default-browser-prompt-button-primary-pin = Err-it d iminig agejdan
 default-browser-prompt-title-alt = Err { -brand-short-name } diminig-ik·im amezwer?
 default-browser-prompt-message-alt = Inig yal tikkelt s urured, s uḍman d tbaḍnit.

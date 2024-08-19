@@ -228,6 +228,18 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult
 newtab-pocket-save = Sekles
 newtab-pocket-saved = Yettwasekles
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Ugar am wagi
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Mačči i nekk
+newtab-toast-dismiss-button =
+    .title = Zgel
+    .aria-label = Zgel
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Snirem ayen akk igerrzen deg web
@@ -295,6 +307,9 @@ newtab-wallpaper-white-mountains = Idurar imellalen
 newtab-wallpaper-attribution = Tawlaft s <a data-l10n-name="name-link">{ $author_string }</a> ɣef <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Ɛreḍ aṛuccu n yini
 newtab-wallpaper-feature-highlight-button = Awi-t
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
@@ -314,3 +329,12 @@ newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Beddel ɣer Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Beddel ɣer Celsius
 newtab-weather-menu-learn-more = Issin ugar
+
+## Topic Labels
+
+newtab-topic-label-sports = Addal
+newtab-topic-label-tech = Tatiknulujit
+newtab-topic-label-travel = Tirza
+
+## Topic Selection Modal
+
