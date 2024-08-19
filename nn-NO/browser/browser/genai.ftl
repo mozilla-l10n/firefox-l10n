@@ -27,7 +27,7 @@ genai-settings-chat-localhost-links = Ta med din egen privata lokale samtalerobo
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
-genai-prompt-prefix-selection = Eg er på sida "{ $tabTitle }" med "{ $selection }" vald.
+genai-prompt-prefix-selection = Eg er på sida «{ $tabTitle }» med «{ $selection }» vald.
 
 ## Chatbot menu shortcuts
 
