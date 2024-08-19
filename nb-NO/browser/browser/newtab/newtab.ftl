@@ -200,7 +200,7 @@ newtab-section-header-recent-activity = Nylig aktivitet
 newtab-section-header-pocket = Anbefalt av { $provider }
 newtab-section-header-stories = Tankevekkende artikler
 # "picks" refers to recommended articles
-newtab-section-header-todays-picks = Dagens utvalgte for deg
+newtab-section-header-todays-picks = Dagens utvalgte artikler for deg
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -423,5 +423,6 @@ newtab-topic-selection-subtitle = Velg to eller flere emner. Våre ekspertkurato
 newtab-topic-selection-save-button = Lagre
 newtab-topic-selection-cancel-button = Avbryt
 newtab-topic-selection-button-maybe-later = Kanskje senere
+newtab-topic-selection-privacy-link = Finn ut hvordan vi beskytter og behandler data
 newtab-topic-selection-button-update-interests = Oppdater dine interesser
 newtab-topic-selection-button-pick-interests = Velg dine interesser
