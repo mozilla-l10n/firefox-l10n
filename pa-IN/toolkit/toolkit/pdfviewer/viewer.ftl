@@ -402,6 +402,12 @@ pdfjs-editor-new-alt-text-dialog-edit-label = ਬਦਲਵੀਂ ਲਿਖਤ (�
 pdfjs-editor-new-alt-text-dialog-add-label = ਬਦਲਵੀਂ ਲਿਖਤ (ਚਿੱਤਰ ਦਾ ਵਰਣਨ) ਨੂੰ ਜੋੜੋ
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = …ਆਪਣਾ ਵਰਣਨਾ ਇੱਥੇ ਲਿਖੋ
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = ਲੋਕ, ਜੋ ਕਿ ਚਿੱਤਰ ਨਹੀਂ ਵੇਖ ਸਕਦੇ ਜਾਂ ਜਦ ਵੀ ਚਿੱਤਰਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਉਸ ਲਈ ਛੋਟਾ ਵੇਰਵਾ ਦਿਓ।
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = ਇਹ ਬਦਲਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਤਿਆਰ ਕੀਤੀ ਗਈ ਸੀ ਅਤੇ ਗਲਤ ਵੀ ਹੋ ਸਕਦੀ ਹੈ।
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = ਇਹ ਬਦਲਵੀ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਤਿਆਰ ਕੀਤੀ ਗਈ ਸੀ।
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ਹੋਰ ਜਾਣੋ
 pdfjs-editor-new-alt-text-create-automatically-button-label = ਬਲਦਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਓ
 pdfjs-editor-new-alt-text-not-now-button = ਹੁਣੇ ਨਹੀਂ
@@ -425,3 +431,18 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = ਆਪਣੇ-ਆ�
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = ਚਿੱਤਰ ਬਦਲਵੀਂ ਲਿਖਤ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+pdfjs-image-alt-text-settings-button-label = ਚਿੱਤਰ ਬਦਲਵੀਂ ਲਿਖਤ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+pdfjs-editor-alt-text-settings-dialog-label = ਚਿੱਤਰ ਬਦਲਵੀਂ ਲਿਖਤ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+pdfjs-editor-alt-text-settings-automatic-title = ਆਟੋਮਮੈਟਿਕ ਬਦਲਵੀਂ ਲਿਖਤ
+pdfjs-editor-alt-text-settings-create-model-button-label = ਬਲਦਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਓ
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = ਬਦਲਵੀ ਲਿਖਤ ਲਈ AI ਮਾਡਲ ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-delete-model-button = ਹਟਾਓ
+pdfjs-editor-alt-text-settings-download-model-button = ਡਾਊਨਲੋਡ
+pdfjs-editor-alt-text-settings-downloading-model-button = …ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+pdfjs-editor-alt-text-settings-editor-title = ਬਦਲਵੀਂ ਲਿਖਤ ਐਡੀਟਰ
+pdfjs-editor-alt-text-settings-show-dialog-description = ਤੁਹਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ ਕਿ ਤੁਹਾਡੇ ਸਾਰੇ ਚਿੱਤਰਾਂ ਲਈ ਬਦਲਵੀਂ ਲਿਖਤ ਮੌਜੂਦ ਹੋਵੇ।
+pdfjs-editor-alt-text-settings-close-button = ਬੰਦ ਕਰੋ
