@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Nylig aktivitet
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Anbefalt av { $provider }
 newtab-section-header-stories = Tankevekkende artikler
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dagens utvalgte for deg
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -412,6 +414,12 @@ newtab-topic-label-home = Hjem og hage
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Velg emner for å finjustere kilden din
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Velg to eller flere emner. Våre ekspertkuratorer prioriterer artikler tilpasset dine interesser. Oppdater når som helst.
 newtab-topic-selection-save-button = Lagre
 newtab-topic-selection-cancel-button = Avbryt
 newtab-topic-selection-button-maybe-later = Kanskje senere
