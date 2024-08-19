@@ -16,6 +16,7 @@ default-browser-prompt-title-pin = Gjør { -brand-short-name } til din primærne
 default-browser-prompt-message-pin = Ha alltid { -brand-short-name } tilgjengelig — sett den til standard nettleser og fest den til oppgavelinjen.
 default-browser-prompt-message-pin-msix = Ha alltid { -brand-short-name } tilgjengelig — sett den til standard nettleser og fest den til oppgavelinjen og startmenyen.
 default-browser-prompt-message-pin-mac = Ha alltid { -brand-short-name } tilgjengelig — sett den til standard nettleser og behold den i Dock.
+default-browser-prompt-button-primary-set = Velg som primærnettleser?
 default-browser-prompt-button-primary-pin = Velg som primærnettleser?
 default-browser-prompt-title-alt = Gjør { -brand-short-name } til din standardnettleser?
 default-browser-prompt-message-alt = Få hastighet, sikkerhet og personvern hver gang du surfer.

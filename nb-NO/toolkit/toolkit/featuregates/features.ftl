@@ -50,6 +50,11 @@ experimental-features-ime-search-description = En IME (Input Method Editor) er e
 experimental-features-auto-pip =
     .label = Bilde-i-bilde: automatisk åpning når du bytter fane
 experimental-features-auto-pip-description = Aktiver bilde-i-bilde på aktive videoer når du bytter fane.
+# Updated sidebar settings
+sidebar-title =
+    .label = Sidestolpe
+vertical-tabs-title =
+    .label = Vertikale faner
 experimental-features-group-browsing =
     .label = Nettlesing
 experimental-features-group-developer-tools =

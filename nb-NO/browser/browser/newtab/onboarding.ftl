@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name } for å
 onboarding-device-migration-subtitle2 = Logg på kontoen din for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-primary-button-label = Logg inn
 
+## Add-ons Picker screen
+
+amo-picker-title = Tilpass { -brand-short-name }
+amo-picker-subtitle = Utvidelser er som apper for nettleseren din, og de lar deg beskytte passord, laste ned videoer, finne tilbud, blokkere irriterende annonser, endre hvordan nettleseren ser ut og mye mer.
+amo-picker-install-button-label = Legg til i { -brand-short-name }
+amo-picker-install-complete-label = Installert
+amo-picker-collection-link = Utforsk flere tillegg
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
