@@ -35,3 +35,5 @@ experimental-features-group-developer-tools =
     .label = Razvojna orodja
 experimental-features-group-webpage-display =
     .label = Prikaz spletnih strani
+experimental-features-group-customize-browsing =
+    .label = Prilagodite svoje brskanje
