@@ -23,6 +23,10 @@ genai-settings-chat-lechat-links = Seligente Le Chat Mistral, tu accepta le X<a 
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplificar le linguage
+    .value = Rescribe le selection per phrases breve e parolas simple. Mantene le significato e precision del factos.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Quiza me
