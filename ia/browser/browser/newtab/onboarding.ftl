@@ -340,6 +340,7 @@ onboarding-device-migration-primary-button-label = Aperir session
 ## Add-ons Picker screen
 
 amo-picker-title = Personalisa tu { -brand-short-name }
+amo-picker-subtitle = Extensiones es como apps pro tu navigator, e illes te permitte de proteger contrasignos, discargar videos, trovar accordos, blocar enoiose annuncios publicitari, cambiar como tu navigator pare, e multo plus.
 amo-picker-install-button-label = Adder a { -brand-short-name }
 amo-picker-install-complete-label = Installate
 amo-picker-collection-link = Discoperi altere additivos
