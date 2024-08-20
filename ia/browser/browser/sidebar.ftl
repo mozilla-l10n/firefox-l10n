@@ -31,6 +31,11 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = Extensiones del barra lateral
+sidebar-customize-firefox-tools-header =
+    .label = Utensiles de { -brand-product-name }
+sidebar-customize-firefox-settings = Gerer parametros de { -brand-short-name }
+sidebar-position-left =
+    .label = Monstrar a sinistra
 sidebar-vertical-tabs =
     .label = Schedas vertical
 sidebar-horizontal-tabs =
