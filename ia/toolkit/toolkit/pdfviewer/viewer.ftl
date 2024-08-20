@@ -424,6 +424,7 @@ pdfjs-image-alt-text-settings-button =
     .title = Parametros del texto alternative del imagine
 pdfjs-image-alt-text-settings-button-label = Parametros del texto alternative del imagine
 pdfjs-editor-alt-text-settings-dialog-label = Parametros del texto alternative del imagine
+pdfjs-editor-alt-text-settings-ai-model-description = Flue localmente sur tu apparato assi tu datos remane private. Necessari pro texto alternative automatic.
 pdfjs-editor-alt-text-settings-delete-model-button = Deler
 pdfjs-editor-alt-text-settings-download-model-button = Discargar
 pdfjs-editor-alt-text-settings-downloading-model-button = Discargante…
