@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Апошняя актыўнасць
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Рэкамендавана { $provider }
 newtab-section-header-stories = Гісторыі, якія прымушаюць задумацца
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Сённяшняя падборка для вас
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -390,3 +392,14 @@ newtab-weather-menu-hide-weather = Схаваць надвор'е на нова�
 newtab-weather-menu-learn-more = Даведацца больш
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Звесткі пра надвор'е зараз недаступныя.
+
+## Topic Labels
+
+newtab-topic-label-business = Бізнес
+newtab-topic-label-career = Кар'ера
+newtab-topic-label-arts = Забавы
+newtab-topic-label-travel = Падарожжы
+newtab-topic-label-home = Дом і сад
+
+## Topic Selection Modal
+

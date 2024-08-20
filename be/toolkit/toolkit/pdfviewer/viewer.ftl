@@ -408,6 +408,8 @@ pdfjs-editor-new-alt-text-textarea =
 pdfjs-editor-new-alt-text-description = Кароткае апісанне для людзей, якія не бачаць выяву, ці калі выява не загружаецца.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Гэты тэкст для атрыбута alt быў створаны аўтаматычна і можа быць недакладным
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Гэты тэкст для атрыбута alt быў створаны аўтаматычна.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Даведацца больш
 pdfjs-editor-new-alt-text-create-automatically-button-label = Ствараць тэкст для атрыбута alt аўтаматычна
 pdfjs-editor-new-alt-text-not-now-button = Не зараз
@@ -439,3 +441,15 @@ pdfjs-image-alt-text-settings-button-label = Налады альтэрнатыў
 pdfjs-editor-alt-text-settings-dialog-label = Налады альтэрнатыўнага тэксту для выявы
 pdfjs-editor-alt-text-settings-automatic-title = Аўтаматычны тэкст для атрыбута alt
 pdfjs-editor-alt-text-settings-create-model-button-label = Ствараць тэкст для атрыбута alt аўтаматычна
+pdfjs-editor-alt-text-settings-create-model-description = Прапануе апісанні, каб дапамагчы людзям, якія не бачаць выяву, ці калі выява не загружаецца.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Мадэль ШІ для тэксту для атрыбута alt ({ $totalSize } МБ)
+pdfjs-editor-alt-text-settings-ai-model-description = Працуе лакальна на вашай прыладзе, таму вашы звесткі застаюцца прыватнымі. Патрабуецца для аўтаматычнага альтэрнатыўнага тэксту.
+pdfjs-editor-alt-text-settings-delete-model-button = Выдаліць
+pdfjs-editor-alt-text-settings-download-model-button = Сцягнуць
+pdfjs-editor-alt-text-settings-downloading-model-button = Сцягванне…
+pdfjs-editor-alt-text-settings-editor-title = Рэдактар тэксту для атрыбута alt
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Адразу паказваць рэдактар тэксту для атрыбута alt пры даданні выявы
+pdfjs-editor-alt-text-settings-show-dialog-description = Дапамагае пераканацца, што ўсе вашы выявы маюць альтэрнатыўны тэкст.
+pdfjs-editor-alt-text-settings-close-button = Закрыць
