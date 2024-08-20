@@ -5,18 +5,31 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = Γef WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Talɣut n yibenk
+about-webauthn-info-subsection-title = Talɣut n umsestab
+about-webauthn-options-subsection-title = Tixtiṛiyin n umsestab
+about-webauthn-pin-section-title = Asefrek n tengalt PIN
+about-webauthn-credential-management-section-title = Sefrek inekcam
+about-webauthn-pin-required-section-title = PIN yettwasra
+about-webauthn-confirm-deletion-section-title = Sentem tukksa
 
 ## Info field texts
 
 
 ## Results label
 
+about-webauthn-results-success = Ifuk!
+about-webauthn-results-general-error = Tuccḍa!
 
 ## Labels
 
+about-webauthn-new-pin-label = Tangalt PIN tamaynut:
 
 ## Buttons
 
