@@ -51,12 +51,6 @@ pdfjs-download-button-label = Сцягнуць
 pdfjs-bookmark-button =
     .title = Дзейная старонка (паглядзець URL-адрас з дзейнай старонкі)
 pdfjs-bookmark-button-label = Цяперашняя старонка
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Адкрыць у праграме
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Адкрыць у праграме
 
 ##  Secondary toolbar and context menu
 
@@ -306,8 +300,6 @@ pdfjs-editor-stamp-button-label = Дадаць або змяніць выявы
 pdfjs-editor-highlight-button =
     .title = Вылучэнне
 pdfjs-editor-highlight-button-label = Вылучэнне
-pdfjs-highlight-floating-button =
-    .title = Вылучэнне
 pdfjs-highlight-floating-button1 =
     .title = Падфарбаваць
     .aria-label = Падфарбаваць
@@ -402,3 +394,18 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Паказаць усе
 pdfjs-editor-highlight-show-all-button =
     .title = Паказаць усе
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Рэдагаваць тэкст для атрыбута alt (апісанне выявы)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Дадаць тэкст для атрыбута alt (апісанне выявы)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Напішыце сваё апісанне тут…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Кароткае апісанне для людзей, якія не бачаць выяву, ці калі выява не загружаецца.
+
+## Image alt-text settings
+

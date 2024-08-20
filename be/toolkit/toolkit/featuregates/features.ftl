@@ -49,11 +49,22 @@ experimental-features-ime-search-description = IME (рэдактар метад�
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Выява ў выяве: аўтаматычна адкрываць пры пераключэнні картак
+experimental-features-auto-pip-description = Уключаць "Выяву ў  выяве" на актыўных відэа пры пераключэнні картак.
 genai-settings-chat-title =
     .label = Чат-бот ШІ
+# Updated sidebar settings
+sidebar-title =
+    .label = Бакавая панэль
+sidebar-description = Лёгкі доступ да вашай гісторыі, картак з іншых прылад, пашырэнняў бакавой панэлі і іншага ў часе аглядання. <a data-l10n-name="connect">Адправіць водгук</a>
+vertical-tabs-title =
+    .label = Вертыкальныя карткі
+vertical-tabs-description = Перамясціце карткі з верхняй часткі браўзера ў бок. Спатрэбіцца таксама паспрабаваць бакавую панэль. <a data-l10n-name="connect">Адправіць водгук</a>
 experimental-features-group-browsing =
     .label = Агляданне
 experimental-features-group-developer-tools =
     .label = Прылады распрацоўшчыка
 experimental-features-group-webpage-display =
     .label = Адлюстраванне вэб-старонкі
+experimental-features-group-customize-browsing =
+    .label = Уладкуйце сваё агляданне
+experimental-features-group-customize-browsing-description = Калі вы паспрабуеце гэтыя магчымасці, <a data-l10n-name="connect">падзяліцеся сваімі думкамі ў Connect</a>
