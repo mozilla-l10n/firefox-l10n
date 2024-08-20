@@ -57,6 +57,7 @@ sidebar-title =
     .label = Barra lateral
 vertical-tabs-title =
     .label = Schedas vertical
+vertical-tabs-description = Move tu schedas ab le summitate del navigator al latere. <a data-l10n-name="connect">Comparti tu commentario</a>
 experimental-features-group-browsing =
     .label = Navigar
 experimental-features-group-developer-tools =
