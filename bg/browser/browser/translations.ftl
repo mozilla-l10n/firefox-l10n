@@ -37,6 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Управление на езици
+translations-panel-settings-about = Относно преводите във { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = Относно преводите във { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
