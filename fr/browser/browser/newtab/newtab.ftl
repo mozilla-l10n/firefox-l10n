@@ -415,6 +415,9 @@ newtab-topic-label-home = Maison et extérieur
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Sélectionnez des sujets pour affiner votre flux
 newtab-topic-selection-save-button = Enregistrer
 newtab-topic-selection-cancel-button = Annuler
 newtab-topic-selection-button-maybe-later = Peut-être plus tard
