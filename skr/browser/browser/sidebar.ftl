@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = اے آئی چیٹ بوٹ
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = اڄ - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-yesterday =
     .heading = کل - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
@@ -31,6 +37,12 @@ sidebar-visibility-always-show =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = ایکسٹینشن منظم کرو
+sidebar-context-menu-remove-extension =
+    .label = ایکسٹینشن ہٹاؤ
+sidebar-context-menu-report-extension =
+    .label = ایکسٹنشن دی رپورٹ کرو
 
 ## Labels for sidebar menu items.
 
