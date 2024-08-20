@@ -397,9 +397,38 @@ newtab-weather-error-not-available = Звесткі пра надвор'е за�
 
 newtab-topic-label-business = Бізнес
 newtab-topic-label-career = Кар'ера
+newtab-topic-label-education = Адукацыя
 newtab-topic-label-arts = Забавы
+newtab-topic-label-food = Ежа
+newtab-topic-label-health = Здароўе
+newtab-topic-label-hobbies = Гульні
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Грошы
+newtab-topic-label-society-parenting = Выхаванне
+newtab-topic-label-government = Палітыка
+newtab-topic-label-education-science = Навука
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Лайфхакі
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Тэхналогіі
 newtab-topic-label-travel = Падарожжы
 newtab-topic-label-home = Дом і сад
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Выберыце тэмы, каб наладзіць сваю стужку
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Выберыце дзве або больш тэм. Нашы эксперты-куратары аддаюць перавагу гісторыям, якія адпавядаюць вашым інтарэсам. Абнаўляйце ў любы час.
+newtab-topic-selection-save-button = Захаваць
+newtab-topic-selection-cancel-button = Скасаваць
+newtab-topic-selection-button-maybe-later = Магчыма пазней
+newtab-topic-selection-privacy-link = Даведайцеся, як мы ахоўваем дадзеныя і распараджаемся імі
+newtab-topic-selection-button-update-interests = Абнавіце свае зацікаўленасці
+newtab-topic-selection-button-pick-interests = Выберыце свае зацікаўленасці
