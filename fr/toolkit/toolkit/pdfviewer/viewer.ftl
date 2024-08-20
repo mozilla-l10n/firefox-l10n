@@ -433,7 +433,17 @@ pdfjs-image-alt-text-settings-button =
     .title = Paramètres du texte alternatif des images
 pdfjs-image-alt-text-settings-button-label = Paramètres du texte alternatif des images
 pdfjs-editor-alt-text-settings-dialog-label = Paramètres du texte alternatif des images
+pdfjs-editor-alt-text-settings-automatic-title = Texte alternatif automatique
+pdfjs-editor-alt-text-settings-create-model-button-label = Créer automatiquement le texte alternatif
+pdfjs-editor-alt-text-settings-create-model-description = Suggère des descriptions pour aider les personnes qui ne peuvent pas voir l’image ou lorsque l’image ne se charge pas.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Modèle d’IA de texte alternatif ({ $totalSize } Mo)
+pdfjs-editor-alt-text-settings-ai-model-description = Fonctionne localement sur votre appareil, vos données restent privées. Obligatoire pour la génération automatique de texte alternatif.
 pdfjs-editor-alt-text-settings-delete-model-button = Supprimer
 pdfjs-editor-alt-text-settings-download-model-button = Télécharger
 pdfjs-editor-alt-text-settings-downloading-model-button = Téléchargement…
+pdfjs-editor-alt-text-settings-editor-title = Éditeur de texte alternatif
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Afficher l’éditeur de texte alternatif immédiatement lors de l’ajout d’une image
+pdfjs-editor-alt-text-settings-show-dialog-description = Vous aide à vous assurer que toutes vos images ont du texte alternatif.
 pdfjs-editor-alt-text-settings-close-button = Fermer
