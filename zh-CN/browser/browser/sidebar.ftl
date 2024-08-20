@@ -17,6 +17,8 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = 从历史记录中删除
 
 ## Labels for sidebar search
 

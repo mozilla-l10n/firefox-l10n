@@ -55,8 +55,10 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = 侧栏
+sidebar-description = 在浏览时轻松访问历史记录、其他设备上的标签页、侧栏扩展等。<a data-l10n-name="connect">分享反馈</a>
 vertical-tabs-title =
     .label = 垂直标签页
+vertical-tabs-description = 将标签页栏从浏览器顶部移到侧边。需要同时试用侧栏功能。<a data-l10n-name="connect">分享反馈</a>
 experimental-features-group-browsing =
     .label = 浏览
 experimental-features-group-developer-tools =
@@ -65,3 +67,4 @@ experimental-features-group-webpage-display =
     .label = 网页显示
 experimental-features-group-customize-browsing =
     .label = 定制浏览体验
+experimental-features-group-customize-browsing-description = 如果您尝试了这些功能，欢迎<a data-l10n-name="connect">在 Connect 上分享自己的想法</a>

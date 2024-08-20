@@ -414,8 +414,15 @@ newtab-topic-label-home = 家庭与园艺
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = 选择主题，让推送内容更合您胃口
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = 请选择两个或更多主题。我们的专业采编团队会按照您的喜好，优先呈上专属推荐，您还可以随时刷新。
 newtab-topic-selection-save-button = 保存
 newtab-topic-selection-cancel-button = 取消
 newtab-topic-selection-button-maybe-later = 以后再说
+newtab-topic-selection-privacy-link = 了解我们保护和管理数据的方式
 newtab-topic-selection-button-update-interests = 更新您感兴趣的主题
 newtab-topic-selection-button-pick-interests = 选择您感兴趣的主题

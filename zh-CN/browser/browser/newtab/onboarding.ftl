@@ -324,6 +324,7 @@ onboarding-device-migration-primary-button-label = 登录
 ## Add-ons Picker screen
 
 amo-picker-title = 定制您的 { -brand-short-name }
+amo-picker-subtitle = 扩展就像浏览器中的”小程序“，可帮助您保管密码、下载视频、查找优惠信息、拦截恼人广告、改变浏览器外观等等。
 amo-picker-install-button-label = 添加到 { -brand-short-name }
 amo-picker-install-complete-label = 已安装
 amo-picker-collection-link = 探索更多附加组件
