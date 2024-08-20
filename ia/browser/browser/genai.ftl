@@ -16,6 +16,9 @@ genai-settings-chat-copilot-links = Seligente Copilot, tu accepta le <a data-l10
 genai-settings-chat-gemini-links = Seligente Google Gemini, tu accepta le <a data-l10n-name="link1">Terminos de servicio de Google</a>, le <a data-l10n-name="link2">Regulamento de uso prohibite del IA generative</a>, e le <a data-l10n-name="link3">Aviso de confidentialitate de Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Seligente HuggingChat, tu accepta le <a data-l10n-name="link1">Aviso de confidentialitate de HuggingChat</a> e le <a data-l10n-name="link2">Politica de confidentialitate de Hugging Face</a>.
 genai-settings-chat-lechat-links = Seligente Le Chat Mistral, tu accepta le X<a data-l10n-name="link1">Terminos de servicio</a> del IA e le <a data-l10n-name="link2">Politica de confidentialitate</a> de Mistral.
+genai-settings-chat-shortcuts =
+    .description = Monstra un via-breve pro suggestiones quando tu selige texto. { -brand-short-name } invia le texto, le titulo del pagina, e le requesta al chatbot.
+    .label = Monstrar suggestiones sur le texto seligite
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -23,6 +26,10 @@ genai-settings-chat-lechat-links = Seligente Le Chat Mistral, tu accepta le X<a 
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumer
+    .value = Resume le selection per un linguage precise e concise.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplificar le linguage
