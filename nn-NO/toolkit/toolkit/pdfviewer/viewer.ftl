@@ -396,6 +396,19 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Rediger alternativ tekst (bildeskildring)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Legg til alternativ tekst (bildeskildring)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Skriv skildringa di her…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Kort skildring for personar som ikkje kan sjå bildet, eller når bildet ikkje lastar inn.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Denne alternative teksten vart oppretta automatisk, og kan vere unøyaktig.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Denne alternative teksten vart oppretta automatisk.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Les meir
 pdfjs-editor-new-alt-text-create-automatically-button-label = Opprett alternativ tekt automatisk
 pdfjs-editor-new-alt-text-not-now-button = Ikkje no
 pdfjs-editor-new-alt-text-error-title = Klarte ikkje å opprette alternativ tekst automatisk
