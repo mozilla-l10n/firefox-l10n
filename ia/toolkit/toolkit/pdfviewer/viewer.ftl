@@ -398,6 +398,12 @@ pdfjs-editor-highlight-show-all-button =
 
 # Modal header positioned above a text box where users can edit the alt text.
 pdfjs-editor-new-alt-text-dialog-edit-label = Rediger texto alternative (description del imagine)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Adder texto alternative (description del imagine)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Scribe tu description ci…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Breve description pro personas qui non pote vider le imagine o quando le imagine non se carga.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Pro saper plus
 pdfjs-editor-new-alt-text-not-now-button = Non ora
 pdfjs-editor-new-alt-text-error-close-button = Clauder
