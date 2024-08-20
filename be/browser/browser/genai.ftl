@@ -5,6 +5,9 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-shortcuts =
+    .description = Паказвае цэтлік для запытаў пры вылучэнні тэксту. { -brand-short-name } адпраўляе тэкст, назву старонкі і запрашэнне чат-боту.
+    .label = Паказваць запыты пры вылучэнні тэксту
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -12,6 +15,10 @@
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Падсумаваць
+    .value = Калі ласка, падсумуйце выбранае, выкарыстоўваючы дакладныя і сціслыя словы. Выкарыстоўвайце загалоўкі і маркіраваныя спісы ў падсумаванні, каб зрабіць яго даступным для беглага чытання. Захоўвайце сэнс і фактычную дакладнасць.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Спрасціць мову
@@ -27,8 +34,13 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Спытаць чат-бота ШІ
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Спытаць { $provider }
 genai-input-ask-generic =
     .placeholder = Спытаць чат-бота ШІ…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Спытаць { $provider }…
