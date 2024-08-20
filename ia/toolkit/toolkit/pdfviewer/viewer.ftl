@@ -404,9 +404,22 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = Scribe tu description ci…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Breve description pro personas qui non pote vider le imagine o quando le imagine non se carga.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Iste texto alternative ha essite create automaticamente e pote esser inexacte.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer = Iste texto alternative ha essite create automaticamente.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Pro saper plus
+pdfjs-editor-new-alt-text-create-automatically-button-label = Crear texto alternative automaticamente
 pdfjs-editor-new-alt-text-not-now-button = Non ora
+pdfjs-editor-new-alt-text-error-title = Impossibile crear texto alternative automaticamente
+pdfjs-editor-new-alt-text-error-description = Scribe tu proprie texto alternative o retenta plus tarde.
 pdfjs-editor-new-alt-text-error-close-button = Clauder
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Discargante modello de intelligentia artificial  del texto alternative ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Discargante modello de intelligentia artificial  del texto alternative ({ $downloadedSize } de { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Texto alternative addite
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -424,10 +437,17 @@ pdfjs-image-alt-text-settings-button =
     .title = Parametros del texto alternative del imagine
 pdfjs-image-alt-text-settings-button-label = Parametros del texto alternative del imagine
 pdfjs-editor-alt-text-settings-dialog-label = Parametros del texto alternative del imagine
+pdfjs-editor-alt-text-settings-automatic-title = Texto alternative automatic
+pdfjs-editor-alt-text-settings-create-model-button-label = Crear texto alternative automaticamente
+pdfjs-editor-alt-text-settings-create-model-description = Suggere descriptiones pro adjutar le personas qui non pote vider le imagine o quando le imagine non carga.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Modello de intelligentia artificial del texto alternative ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-ai-model-description = Flue localmente sur tu apparato assi tu datos remane private. Necessari pro texto alternative automatic.
 pdfjs-editor-alt-text-settings-delete-model-button = Deler
 pdfjs-editor-alt-text-settings-download-model-button = Discargar
 pdfjs-editor-alt-text-settings-downloading-model-button = Discargante…
 pdfjs-editor-alt-text-settings-editor-title = Rediger texto alternative
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Monstrar le redactor de texto alternative a pena on adde un imagine
+pdfjs-editor-alt-text-settings-show-dialog-description = Te adjuta a verifica que tote tu imagines ha un texto alternative.
 pdfjs-editor-alt-text-settings-close-button = Clauder
