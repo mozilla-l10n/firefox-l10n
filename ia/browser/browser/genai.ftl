@@ -9,7 +9,10 @@ genai-settings-chat-description = Adde le chatbot preferite al barra lateral, pr
 genai-settings-chat-choose = Elige un data chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Elige un
+genai-settings-chat-links = Quando tu selige un chatbot, tu accepta le conditiones de uso e le politica de confidentialitate del fornitor.
+genai-settings-chat-chatgpt-links = Seligente ChatGPT, tu accepta le <a data-l10n-name="link1">Conditiones de uso</a> e <a data-l10n-name="link2">Politica de confidentialitate</a> de OpenAI.
 genai-settings-chat-claude-links = Seligente Anthropic Claude, tu accepta le <a data-l10n-name="link1">Terminos de servicio de consumitor</a>, <a data-l10n-name="link2">Regulamento de uso</a>, e <a data-l10n-name="link3">Politica de confidentialitate</a> de Anthropic.
+genai-settings-chat-copilot-links = Seligente Copilot, tu accepta le <a data-l10n-name="link1">Terminos de experientias de IA de Copilot</a> e le <a data-l10n-name="link2">Declaration de confidentialitate de Microsoft</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
