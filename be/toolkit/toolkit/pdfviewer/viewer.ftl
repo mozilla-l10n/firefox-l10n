@@ -406,6 +406,36 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = Напішыце сваё апісанне тут…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Кароткае апісанне для людзей, якія не бачаць выяву, ці калі выява не загружаецца.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Гэты тэкст для атрыбута alt быў створаны аўтаматычна і можа быць недакладным
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Даведацца больш
+pdfjs-editor-new-alt-text-create-automatically-button-label = Ствараць тэкст для атрыбута alt аўтаматычна
+pdfjs-editor-new-alt-text-not-now-button = Не зараз
+pdfjs-editor-new-alt-text-error-title = Не ўдалося аўтаматычна стварыць тэкст для атрыбута alt
+pdfjs-editor-new-alt-text-error-description = Калі ласка, напішыце ўласны тэкст для атрыбута alt або паўтарыце спробу пазней.
+pdfjs-editor-new-alt-text-error-close-button = Закрыць
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Сцягванне мадэлі ШІ для тэксту для атрыбута alt ({ $downloadedSize } з { $totalSize } МБ)
+    .aria-valuetext = Сцягванне мадэлі ШІ для тэксту для атрыбута alt ({ $downloadedSize } з { $totalSize } МБ)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Тэкст для атрыбута alt дададзены
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Адсутнічае тэкст для атрыбута alt
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Водгук на тэкст для атрыбута alt
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Створаны аўтаматычна: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Налады альтэрнатыўнага тэксту для выявы
+pdfjs-image-alt-text-settings-button-label = Налады альтэрнатыўнага тэксту для выявы
+pdfjs-editor-alt-text-settings-dialog-label = Налады альтэрнатыўнага тэксту для выявы
+pdfjs-editor-alt-text-settings-automatic-title = Аўтаматычны тэкст для атрыбута alt
+pdfjs-editor-alt-text-settings-create-model-button-label = Ствараць тэкст для атрыбута alt аўтаматычна
