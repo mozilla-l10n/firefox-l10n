@@ -412,6 +412,7 @@ pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Les meir
 pdfjs-editor-new-alt-text-create-automatically-button-label = Opprett alternativ tekt automatisk
 pdfjs-editor-new-alt-text-not-now-button = Ikkje no
 pdfjs-editor-new-alt-text-error-title = Klarte ikkje å opprette alternativ tekst automatisk
+pdfjs-editor-new-alt-text-error-description = Skriv din eigen alternative tekst eller prøv igjen seinare.
 pdfjs-editor-new-alt-text-error-close-button = Lat att
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternativ tekst lagt til
