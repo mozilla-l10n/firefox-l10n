@@ -71,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Отказ
 translations-panel-learn-more-link = Научете повече
+translations-panel-intro-header = Опитайте поверителни преводи във { -brand-shorter-name }
+translations-panel-intro-description = За ваша поверителност, преводите никога не напускат устройството ви. Очаквайте скоро нови езици и подобрения!
 translations-panel-error-translating = Възникна проблем при превода. Моля, опитайте отново.
 translations-panel-error-load-languages = Езиците не са заредени
 translations-panel-error-load-languages-hint = Проверете връзката си с интернет и опитайте отново.
@@ -201,6 +203,8 @@ select-translations-panel-from-label = От
 select-translations-panel-to-label = На
 # Text displayed above the try-another-source-language dropdown menu.
 select-translations-panel-try-another-language-label = Опитайте с друг изходен език
+select-translations-panel-cancel-button =
+    .label = Отказ
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = Копиране
