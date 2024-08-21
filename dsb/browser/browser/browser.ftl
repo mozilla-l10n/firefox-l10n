@@ -558,6 +558,10 @@ urlbar-go-button =
     .tooltiptext = K adresy w adresowem pólu
 urlbar-page-action-button =
     .tooltiptext = Akcije boka
+urlbar-revert-button =
+    .tooltiptext = Adresu w adresowem pólu pokazaś
+urlbar-show-page-actions-button =
+    .tooltiptext = Wšykne akcije boka pokazaś
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
