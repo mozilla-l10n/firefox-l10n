@@ -62,8 +62,8 @@ accessibility-text-label-issue-toolbar = Ja rīkjoslas ir vairākas, tām ir  j�
 ## issue.
 
 accessibility-keyboard-issue-semantics = Fokusējamiem elementiem jābūt interaktīvai semantikai. <a>Uzzināt vairāk</a>
-accessibility-keyboard-issue-tabindex = Atribūtam <code>tabindex</code> izvairieties dod vērtību, kas ir lielāka par nulli. <a>Uzzināt vairāk</a>
-accessibility-keyboard-issue-action = Interaktīvos elementus jāspēj aktivizēt ar tastatūru. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-tabindex = Izvairieties atribūtam <code>tabindex</code> dot vērtību, kas ir lielāka par nulli. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-action = Interaktīvos elementus ir jāspēj aktivizēt ar tastatūru. <a>Uzzināt vairāk</a>
 accessibility-keyboard-issue-focusable = Interaktīvajiem elementiem ir jābūt fokusējamiem. <a>Uzzināt vairāk</a>
 accessibility-keyboard-issue-focus-visible = Iespējams, ka fokusējamam elementam nav fokusa stila. <a>Uzzināt vairāk</a>
 accessibility-keyboard-issue-mouse-only = Klikšķināmiem elementiem ir jābūt fokusējamiem, un tiem jābūt ar interaktīvu semantiku. <a>Uzzināt vairāk</a>
