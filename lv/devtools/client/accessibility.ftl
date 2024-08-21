@@ -5,10 +5,14 @@
 
 ### These strings are used inside the Accessibility panel.
 
+accessibility-learn-more = Uzzināt vairāk
+accessibility-text-label-header = Teksta etiķetes un nosaukumi
 accessibility-keyboard-header = Tastatūra
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+accessibility-progress-initializing = Inicializē…
+    .aria-valuetext = Inicializē…
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
