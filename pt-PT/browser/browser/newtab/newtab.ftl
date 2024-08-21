@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Atividade recente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
 newtab-section-header-stories = Histórias que fazem pensar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Escolhas de hoje para si
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -389,3 +391,21 @@ newtab-weather-menu-hide-weather = Ocultar a meteorologia no novo separador
 newtab-weather-menu-learn-more = Saber mais
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Atualmente não estão disponíveis informações de meteorologia.
+
+## Topic Labels
+
+newtab-topic-label-business = Negócios
+newtab-topic-label-career = Carreiras
+newtab-topic-label-education = Educação
+newtab-topic-label-arts = Entretenimento
+newtab-topic-label-food = Comida
+newtab-topic-label-health = Saúde
+newtab-topic-label-hobbies = Jogos
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Dinheiro
+newtab-topic-label-society-parenting = Parentalidade
+
+## Topic Selection Modal
+

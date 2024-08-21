@@ -30,19 +30,33 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Resumir
-    .value = Resumir a seleção utilizando linguagem precisa e concisa. Utilize cabeçalhos e listas com marcadores no resumo, para facilitar a leitura. Mantenha o significado e a precisão dos fatos.
+    .value = Resume a seleção utilizando linguagem precisa e concisa. Utiliza cabeçalhos e listas com marcadores no resumo, para facilitar a leitura. Mantém o significado e a precisão dos fatos.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplificar a linguagem
-    .value = Reescreva a seleção utilizando frases curtas e palavras simples. Mantenha o significado e a precisão dos fatos.
+    .value = Reescreve a seleção utilizando frases curtas e palavras simples. Mantém o significado e a precisão dos fatos.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Fazer perguntas
-    .value = Fazer perguntas sobre esta seleção. Fazer vários tipos de perguntas, como escolha múltipla, verdadeiro ou falso e resposta curta. Aguardar a minha resposta antes de passar para a próxima pergunta
+    .value = Faz-me perguntas sobre esta seleção. Faz vários tipos de perguntas, tais como escolha múltipla, verdadeiro ou falso e resposta curta. Aguarda pela minha resposta antes de passar para a próxima pergunta.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explicar isto
+    .value = Explica os conceitos-chave desta seleção, utilizando palavras simples. Utiliza também exemplos.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Estou na página “{ $tabTitle }” com “{ $selection }” selecionado.
 
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
     .label = Perguntar ao chatbot de IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Pedir ao { $provider }
 genai-input-ask-generic =
     .placeholder = Perguntar ao chatbot de IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Pedir ao { $provider }…
