@@ -406,6 +406,28 @@ newtab-topic-label-hobbies = Jogos
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Dinheiro
 newtab-topic-label-society-parenting = Parentalidade
+newtab-topic-label-government = Política
+newtab-topic-label-education-science = Ciência
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Dicas
+newtab-topic-label-sports = Desporto
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Viagens
+newtab-topic-label-home = Casa e jardim
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Escolha os temas para personalizar a seu feed.
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Escolha dois ou mais temas. Os nossos curadores especializados priorizam histórias adaptadas aos seus interesses. Atualize a qualquer momento.
+newtab-topic-selection-save-button = Guardar
+newtab-topic-selection-cancel-button = Cancelar
+newtab-topic-selection-button-maybe-later = Talvez mais tarde
+newtab-topic-selection-privacy-link = Descubra como protegemos e gerimos os seus dados
+newtab-topic-selection-button-update-interests = Atualize os seus interesses
+newtab-topic-selection-button-pick-interests = Escolha os seus interesses
