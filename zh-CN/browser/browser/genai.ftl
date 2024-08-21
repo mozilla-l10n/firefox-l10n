@@ -18,8 +18,8 @@ genai-settings-chat-huggingchat-links = 选择 HuggingChat，即代表您同意 
 genai-settings-chat-lechat-links = 选择 Le Chat Mistral，即代表您同意 Mistral AI 的 <a data-l10n-name="link1">服务条款</a> 和 <a data-l10n-name="link2">隐私政策</a>。
 genai-settings-chat-localhost-links = 引入您私有的本地聊天机器人，例如 { -vendor-short-name }’s Innovation 集群打造的 <a data-l10n-name="link1">llamafile</a>。
 genai-settings-chat-shortcuts =
-    .description = 选中文本时显示快捷提示词。{ -brand-short-name } 会向聊天机器人发送选中的文本、页面标题和提示词。
-    .label = 在选中文本旁显示提示词
+    .description = 选中文本时显示快捷提示词按钮。{ -brand-short-name } 会向聊天机器人发送选中的文本、页面标题和提示词。
+    .label = 在选中文本旁显示提示词按钮
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
