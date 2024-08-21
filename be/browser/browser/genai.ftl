@@ -38,11 +38,11 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Апытаць мяне
-    .value = Калі ласка, апытайце мяне аб гэтай падборцы. Задавайце розныя тыпы пытанняў, напрыклад, з некалькімі варыянтамі адказу, праўда ці мана, і патрэбен кароткі адказ. Пачакайце майго адказу, перш чым пераходзіць да наступнага пытання
+    .value = Калі ласка, апытайце мяне аб гэтым вылучэнні. Задавайце розныя тыпы пытанняў, напрыклад, з некалькімі варыянтамі адказу, праўда ці мана, і патрэбен кароткі адказ. Пачакайце майго адказу, перш чым пераходзіць да наступнага пытання.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Патлумачыць гэта
-    .value = Калі ласка, растлумачце ключавыя паняцці ў гэтай падборцы простымі словамі. Таксама выкарыстоўвайце прыклады.
+    .value = Калі ласка, растлумачце ключавыя паняцці ў гэтым вылучэнні простымі словамі. Таксама выкарыстоўвайце прыклады.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
