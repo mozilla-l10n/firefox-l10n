@@ -211,7 +211,7 @@ search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusējuma meklētāju
     .accesskey = n
 search-one-offs-context-set-as-default-private =
-    .label = Iestatīt kā noklusējuma meklētājprogrammu privātajiem logiem
+    .label = Iestatīt kā noklusējuma meklētāju privātajiem logiem
     .accesskey = p
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -322,13 +322,13 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [zero] Aizvākt grāmatzīmi
-            [one] Aizvākt grāmatzīmes ({ $count })
-           *[other] Aizvākt grāmatzīmes ({ $count })
+            [zero] Noņemt grāmatzīmi
+            [one] Noņemt grāmatzīmes ({ $count })
+           *[other] Noņemt grāmatzīmes ({ $count })
         }
-    .accesskey = A
+    .accesskey = N
 bookmark-panel-show-editor-checkbox =
-    .label = Rādīt redaktoru saglabājot
+    .label = Saglabājot rādīt redaktoru
     .accesskey = S
 bookmark-panel-save-button =
     .label = Saglabāt
@@ -357,7 +357,7 @@ identity-extension-page = Šī lapa ir ielādēta no papildinājuma.
 identity-active-blocked = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
 identity-custom-root = Savienojumu ir pārbaudījis sertifikāta izdevējs, kuru Mozilla neatpazīst.
 identity-passive-loaded = Šīs lapas daļas (piemēram, attēli) nav drošas.
-identity-active-loaded = Jūs esat atspējojis aizsardzību šajā lapā.
+identity-active-loaded = Jūs esat izslēdzis aizsardzību šajā lapā.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Šajā lapā ievadītie lietotājvārdi nav aizsargāti un var tikt pārtverti.
 identity-https-only-connection-upgraded = (jaunināts uz HTTPS)
