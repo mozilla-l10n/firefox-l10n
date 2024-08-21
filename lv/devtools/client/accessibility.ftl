@@ -46,6 +46,14 @@ accessibility-text-label-issue-figure = Attēli ar neobligātiem parakstiem būt
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elementi ir jāetiķetē. <a>Uzzināt vairāk</a>
 accessibility-text-label-issue-fieldset-legend2 = Izmantojiet <code>legend</code> elementu, lai etiķetētu <span>fieldset</span>. <a>Uzzināt vairāk</a>
 accessibility-text-label-issue-form = Veidlapu elementiem jābūt etiķetētiem. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-form-visible = Veidlapu elementiem jābūt ar redzamu teksta etiķeti. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-frame = <code>frame</code> elementiem ir jābūt etiķetētam. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-glyph = Izmantojiet atribūtu <code>alt</code>, lai etiķetētu <span>mglyph</span> elementus. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-heading = Virsrakstiem ir jābūt etiķetētiem. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-heading-content = Virsrakstos ir jābūt redzamam teksta saturam. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-iframe = Izmantojiet atribūtu <code>title</code>, lai aprakstītu <span>iframe</span> saturu. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-image = Saturam ar attēliem jābūt etiķetētam. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-interactive = Interaktīvie elementi ir jāetiķetē. <a>Uzzināt vairāk</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
