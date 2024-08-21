@@ -67,12 +67,17 @@ shopping-message-bar-page-not-supported =
 shopping-message-bar-keep-closed-header =
     .heading = ¿Mantener cerrado?
     .message = Puedes actualizar tu configuración para mantener Review Checker cerrado de forma predeterminada. Ahora mismo se abre automáticamente.
+shopping-message-bar-keep-closed-dismiss-button = No, gracias
+shopping-message-bar-keep-closed-accept-button = Sí, mantener cerrado
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Aspectos destacados de reseñas recientes
 shopping-highlight-price = Precio
 shopping-highlight-quality = Calidad
 shopping-highlight-shipping = Envío
+shopping-highlight-competitiveness = Competitividad
 shopping-highlight-packaging = Empaquetado
 
 ## Strings for show more card
@@ -82,16 +87,55 @@ shopping-show-less-button = Mostrar menos
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Ajustes
+shopping-settings-recommendations-toggle =
+    .label = Mostrar anuncios en Review Checker
+shopping-settings-recommendations-learn-more2 = Verá anuncios ocasionales de productos relevantes. Solo anunciamos productos con reseñas confiables. <a data-l10n-name="review-quality-url">Más información</a>
+shopping-settings-opt-out-button = Deshabilitar el Review Checker
+powered-by-fakespot = El Review Checker funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Abrir automáticamente Review Checker
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cuando ves productos en { $firstSite }, { $secondSite }, y { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cuando ves productos en { $currentSite }
+shopping-settings-sidebar-enabled-state = El Review Checker está <strong>habilitado</strong>.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Calificación ajustada
+shopping-adjusted-rating-unreliable-reviews = Se eliminaron las reseñas poco confiables
 shopping-adjusted-rating-based-reliable-reviews = Basado en reseñas confiables
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = ¿Qué tan confiables son estas reseñas?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Cómo determinamos la calidad de las reseñas
+shopping-analysis-explainer-intro2 = Utilizamos tecnología de inteligencia artificial de { -fakespot-brand-full-name } para revisar la confiabilidad de las reseñas de productos. Esto sólo te ayudará a evaluar la calidad de las reseñas, no la calidad del producto.
+shopping-analysis-explainer-grades-intro = Asignamos a las reseñas de cada producto una <strong>calificación con letras</strong> de la A a la F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en reseñas que consideramos confiables.
+shopping-analysis-explainer-learn-more2 = Obtén más información acerca de <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-name } determina la calidad de las reseñas</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Los <strong>puntos destacados</strong> provienen de reseñas de { $retailer } de los últimos 80 días que creemos que son confiables.
+shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las reseñas probablemente provienen de clientes reales que dejaron reseñas honestas e imparciales.
+shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una combinación de reseñas confiables y no confiables.
 
 ## Strings for UrlBar button
 
