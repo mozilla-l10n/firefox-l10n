@@ -42,8 +42,12 @@ fxviewtabrow-send-tab = Изпращане на раздела до устрой
     .accesskey = у
 fxviewtabrow-pin-tab = Закачане на раздела
     .accesskey = З
+fxviewtabrow-unpin-tab = Откачане на раздела
+    .accesskey = т
 fxviewtabrow-mute-tab = Заглушаване на раздела
     .accesskey = г
+fxviewtabrow-unmute-tab = Включване звука на раздела
+    .accesskey = з
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -53,3 +57,5 @@ fxviewtabrow-options-menu-button =
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Заглушаване на раздела
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Включване звука на раздела

@@ -10,6 +10,8 @@ genai-settings-chat-choose = Изберете чатбот
 genai-settings-chat-choose-one-menuitem =
     .label = Изберете от списъка
 genai-settings-chat-links = Когато изберете чатбот, вие се съгласявате с условията за ползване и декларацията за поверителност на доставчика.
+genai-settings-chat-chatgpt-links = Избирайки ChatGPT, вие се съгласявате с <a data-l10n-name="link1">условията за използване</a> на OpenAI и <a data-l10n-name="link2">декларацията за поверителност</a>.
+genai-settings-chat-claude-links = Избирайки Anthropic Claude, вие се съгласявате с <a data-l10n-name="link1">Условията за ползване на Anthropic</a>, <a data-l10n-name="link2">Политиката за използване</a>, и <a data-l10n-name="link3">Декларация за поверителност</a>.
 genai-settings-chat-copilot-links = Избирайки Copilot, вие се съгласявате с <a data-l10n-name="link1">условията на Copilot AI Experiences</a> и <a data-l10n-name="link2">Декларацията за поверителност на Microsoft</a>.
 genai-settings-chat-gemini-links = Избирайки Google Gemini, вие се съгласявате с <a data-l10n-name="link1">Условията на Google</a>, <a data-l10n-name="link2">Правилата относно забраненото използване на генеративен AI</a> > и <a data-l10n-name="link3">Политиката за поверителност на Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Избирайки HuggingChat, вие се съгласявате с <a data-l10n-name="link1">Декларацията за поверителност на HuggingChat</a> и <a data-l10n-name="link2">Политиката за поверителност на Hugging Face</a>.
