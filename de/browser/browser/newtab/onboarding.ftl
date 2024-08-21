@@ -338,6 +338,13 @@ onboarding-device-migration-subtitle = Melden Sie sich mit Ihrem { -fxaccount-br
 onboarding-device-migration-subtitle2 = Melden Sie sich bei Ihrem Konto an, um Ihre Lesezeichen, Passwörter und Chronik auf Ihr neues Gerät mitzunehmen.
 onboarding-device-migration-primary-button-label = Anmelden
 
+## Add-ons Picker screen
+
+amo-picker-title = { -brand-short-name } anpassen
+amo-picker-subtitle = Erweiterungen sind wie Apps für Ihren Browser. Mit ihnen können Sie Passwörter schützen, Videos herunterladen, Angebote finden, störende Werbung blockieren, das Erscheinungsbild Ihres Browsers ändern und vieles mehr.
+amo-picker-install-button-label = Zu { -brand-short-name } hinzufügen
+amo-picker-install-complete-label = Installiert
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
