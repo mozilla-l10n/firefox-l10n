@@ -11,6 +11,9 @@ genai-settings-chat-choose-one-menuitem =
     .label = Выбраць
 genai-settings-chat-links = Калі вы выбіраеце чат-бота, вы згаджаецеся з умовамі выкарыстання і палітыкай прыватнасці яго пастаўшчыка.
 genai-settings-chat-chatgpt-links = Выбіраючы ChatGPT, вы згаджаецеся з <a data-l10n-name="link1">Умовамі выкарыстання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> OpenAI.
+genai-settings-chat-claude-links = Выбіраючы Anthropic Claude, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання спажыўцоў</a>, <a data-l10n-name="link2">Палітыкай выкарыстання</a> і <a data-l10n-name="link3">Палітыкай прыватнасці</a> Anthropic.
+genai-settings-chat-copilot-links = Выбіраючы Copilot, вы згаджаецеся з <a data-l10n-name="link1">Умовамі выкарыстання Copilot AI</a> і <a data-l10n-name="link2">Заявай аб канфідэнцыяльнасці Microsoft</a>.
+genai-settings-chat-gemini-links = Выбіраючы Google Gemini, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання Google</a>, <a data-l10n-name="link2">Палітыкай забароненага выкарыстання Generative AI</a> і <a data-l10n-name="link3">Паведамленнем аб прыватнасці Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Выбіраючы HuggingChat, вы згаджаецеся з <a data-l10n-name="link1">Паведамленнем аб прыватнасці HuggingChat</a> і <a data-l10n-name="link2">Палітыкай прыватнасці Hugging Face</a>.
 genai-settings-chat-lechat-links = Выбіраючы Le Chat Mistral, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> Mistral AI .
 genai-settings-chat-localhost-links = Прынясіце свой уласны прыватны лакальны чат-бот, напрыклад <a data-l10n-name="link1">llamafile<</a> ад інавацыйнай групы { -vendor-short-name }.
