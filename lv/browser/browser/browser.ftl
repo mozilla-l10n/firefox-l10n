@@ -404,7 +404,7 @@ identity-enable-mixed-content-blocking =
     .label = Ieslēgt aizsardzību
     .accesskey = e
 identity-more-info-link-text =
-    .label = Sīkāka informācija
+    .label = Vairāk informācijas
 
 ## Window controls
 
@@ -478,7 +478,7 @@ popup-select-speaker-icon =
 popup-select-window-or-screen =
     .label = Logs vai ekrāns:
     .accesskey = L
-popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
+popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks kopīgoti.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -551,7 +551,7 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = Paplašinājums:
 urlbar-go-button =
-    .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
+    .tooltiptext = Iet uz adresi, kas ir atrašanās vietas joslā
 urlbar-page-action-button =
     .tooltiptext = Lapas darbības
 
@@ -740,7 +740,7 @@ bookmarks-tools-toolbar-visibility-panel =
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Aizvākt grāmatzīmju izvēlni no rīkjoslas
+            [true] Noņemt grāmatzīmju izvēlni no rīkjoslas
            *[other] Pievienot grāmatzīmju izvēlni rīkjoslai
         }
 
@@ -852,17 +852,17 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Pieņemt jaunos logus no { $uriHost }
-    .accesskey = p
+    .label = Atļaut uznirstošos logus vietnei { $uriHost }
+    .accesskey = u
 popups-infobar-block =
-    .label = Bloķēt jaunos logus no { $uriHost }
-    .accesskey = p
+    .label = Bloķēt uznirstošos logus vietnei { $uriHost }
+    .accesskey = u
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Nerādīt šo paziņojumu, bloķējot jaunos logus
-    .accesskey = D
+    .label = Nerādīt šo paziņojumu, ja uznirstošie logi ir bloķēti
+    .accesskey = N
 edit-popup-settings =
     .label = Pārvaldīt uznirstošo logu iestatījumus…
     .accesskey = m
@@ -893,7 +893,7 @@ navbar-accessible =
 navbar-downloads =
     .label = Lejupielādes
 navbar-overflow =
-    .tooltiptext = Citi rīki…
+    .tooltiptext = Vairāk rīku…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
