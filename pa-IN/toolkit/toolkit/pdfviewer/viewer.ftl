@@ -411,6 +411,8 @@ pdfjs-editor-new-alt-text-disclaimer = ਇਹ ਬਦਲਵੀ ਲਿਖਤ ਆ�
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ਹੋਰ ਜਾਣੋ
 pdfjs-editor-new-alt-text-create-automatically-button-label = ਬਲਦਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਓ
 pdfjs-editor-new-alt-text-not-now-button = ਹੁਣੇ ਨਹੀਂ
+pdfjs-editor-new-alt-text-error-title = ਬਦਲਵੀਂ ਲਿਖਤ ਆਪਣੇ-ਆਪ ਬਣਾਈ ਨਹੀਂ ਜਾ ਸਕੀ
+pdfjs-editor-new-alt-text-error-description = ਆਪਣਾ ਖੁਦ ਦੀ ਬਦਲਵੀਂ ਲਿਖਤ ਲਿਖੋ ਜਾਂ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 pdfjs-editor-new-alt-text-error-close-button = ਬੰਦ ਕਰੋ
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
