@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Gå till adressen i adressfältet
 urlbar-page-action-button =
     .tooltiptext = Åtgärder för sida
+urlbar-revert-button =
+    .tooltiptext = Visa adressen i adressfältet
+urlbar-show-page-actions-button =
+    .tooltiptext = Visa alla sidåtgärder
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
