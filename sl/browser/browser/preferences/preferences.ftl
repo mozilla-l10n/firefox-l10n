@@ -949,6 +949,7 @@ forms-windows-sso =
     .label = Dovoli enotno prijavo v sistem Windows za Microsoftove, službene in šolske račune
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
+windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
 
 ## OS Authentication dialog
 

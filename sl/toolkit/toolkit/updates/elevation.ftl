@@ -20,3 +20,8 @@ elevation-more-elevated =
     nameščena, ko se { -brand-short-name } naslednjič zažene. { -brand-short-name }
     lahko ponovno zaženete zdaj, nadaljujete z delom in ga ponovno zaženete
     pozneje ali zavrnete to posodobitev.
+sandbox-missing-unprivileged-namespaces = Nekatere varnostne funkcije { -brand-short-name(sklon: "rodilnik") } lahko v trenutnem operacijskem sistemu nudijo manjšo zaščito.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Ne prikazuj več
+    .accesskey = N
+sandbox-unprivileged-namespaces-howtofix = Kako odpraviti to težavo

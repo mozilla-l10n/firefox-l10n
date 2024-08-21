@@ -38,6 +38,7 @@ inactive-css-first-letter-pseudo-element-not-supported = Lastnost <strong>{ $pro
 inactive-css-placeholder-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne vpliva na ta element, ker prikazuje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pogon je spremenil vrednost <strong>display</strong> v <strong>block</strong>, ker je element nastavljen na <strong>float</strong>.
+inactive-css-not-floated = <strong>{ $property }</strong> nima učinka, ker deluje samo na plavajoče elemente.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> ni mogoče preglasiti zaradi omejitve <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne vpliva na ta element, ker element ni postavljen.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne vpliva na ta element, ker <strong>overflow:hidden</strong> ni nastavljen.
@@ -66,6 +67,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> ne vpliva na ta element, ker ima več kot { $lineCount } vrstic.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne vpliva na ta element, ker je razdrobljen, torej je njegova vsebina razdeljena med več stolpcev ali strani.
+inactive-css-no-width-height = <strong>{ $property }</strong> ne vpliva na ta element, ker njegova širina in višina nista nastavljivi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -76,6 +78,7 @@ inactive-css-not-grid-or-flex-container-fix = Poskusite dodati <strong>display:g
 inactive-css-not-grid-or-flex-or-block-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Poskusite dodati bodisi <strong>column-count</strong> bodisi <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Poskusite enemu od nadrejenih elementov dodati <strong>column-count</strong> ali <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Poskusite starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Nadrejenemu elementu poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
@@ -85,7 +88,11 @@ inactive-css-not-inline-or-tablecell-fix = Poskusite dodati <strong>display:inli
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Poskusite dodati <strong>display:inline-block</strong> ali <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Poskusite dodati <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Poskusite odstraniti<strong>float</strong> ali dodati <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Poskusite vsebniku elementa spremeniti vrednost <strong>display</strong> na kaj drugega kot <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ali <strong>inline-grid</strong> ali pa odstranite <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Poskusite dodati lastnosti, kot sta <strong>display:block</strong> ali <strong>float:left</strong>. { learn-more }
+inactive-css-not-floated-fix = Poskusite dodati lastnost <strong>float</strong> z vrednostjo, ki ni <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Poskusite nastaviti lastnost <strong>position</strong> na kaj drugega kot <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Prepričajte se, da lastnost dodajate zamenjanemu elementu. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Poskusite dodati <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }

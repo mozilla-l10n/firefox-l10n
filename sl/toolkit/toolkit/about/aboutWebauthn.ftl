@@ -21,6 +21,7 @@ about-webauthn-bio-enrollment-section-title = Biometrično vpisovanje
 
 ## Info field texts
 
+about-webauthn-text-not-available = Ni na voljo na tej platformi.
 
 ## Results label
 
@@ -69,6 +70,7 @@ about-webauthn-auth-option-null = Ni podprto
 
 about-webauthn-auth-info-firmware-version = Različica strojne programske opreme
 about-webauthn-auth-info-min-pin-length = Najmanjša dolžina kode PIN
+about-webauthn-auth-info-force-pin-change = Vsili spremembo kode PIN
 about-webauthn-auth-info-algorithms = Algoritmi
 about-webauthn-auth-info-max-msg-size = Največja velikost sporočila
 # AAGUID should not be translated.
