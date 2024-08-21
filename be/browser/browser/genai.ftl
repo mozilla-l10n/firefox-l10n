@@ -9,6 +9,11 @@ genai-settings-chat-description = Дадае чат-бота па вашаму �
 genai-settings-chat-choose = Выберыце чат-бота
 genai-settings-chat-choose-one-menuitem =
     .label = Выбраць
+genai-settings-chat-links = Калі вы выбіраеце чат-бота, вы згаджаецеся з умовамі выкарыстання і палітыкай прыватнасці яго пастаўшчыка.
+genai-settings-chat-chatgpt-links = Выбіраючы ChatGPT, вы згаджаецеся з <a data-l10n-name="link1">Умовамі выкарыстання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> OpenAI.
+genai-settings-chat-huggingchat-links = Выбіраючы HuggingChat, вы згаджаецеся з <a data-l10n-name="link1">Паведамленнем аб прыватнасці HuggingChat</a> і <a data-l10n-name="link2">Палітыкай прыватнасці Hugging Face</a>.
+genai-settings-chat-lechat-links = Выбіраючы Le Chat Mistral, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> Mistral AI .
+genai-settings-chat-localhost-links = Прынясіце свой уласны прыватны лакальны чат-бот, напрыклад <a data-l10n-name="link1">llamafile<</a> ад інавацыйнай групы { -vendor-short-name }.
 genai-settings-chat-shortcuts =
     .description = Паказвае цэтлік для запытаў пры вылучэнні тэксту. { -brand-short-name } адпраўляе тэкст, назву старонкі і запрашэнне чат-боту.
     .label = Паказваць запыты пры вылучэнні тэксту
@@ -35,6 +40,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Патлумачыць гэта
     .value = Калі ласка, растлумачце ключавыя паняцці ў гэтай падборцы простымі словамі. Таксама выкарыстоўвайце прыклады.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Я на старонцы «{ $tabTitle }» з выбраным «{ $selection }».
 
 ## Chatbot menu shortcuts
 
