@@ -70,6 +70,14 @@ sidebar-menu-synced-tabs-label =
     .label = Карткі з іншых прылад
 sidebar-menu-bookmarks-label =
     .label = Закладкі
+sidebar-menu-customize-label =
+    .label = Уладкаванне бакавой панэлі
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Уладкаванне бакавой панэлі
+sidebar-menu-history-header =
+    .heading = Гісторыя
+sidebar-menu-syncedtabs-header =
+    .heading = Карткі з іншых прылад
