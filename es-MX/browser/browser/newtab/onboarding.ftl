@@ -54,6 +54,8 @@ mr1-onboarding-theme-header = Hazlo tuyo
 mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } con un tema.
 mr1-onboarding-theme-secondary-button-label = Ahora no
 newtab-wallpaper-onboarding-title = Prueba un toque de color
+newtab-wallpaper-onboarding-subtitle = Seleccione un fondo de pantalla para darle a las nuevas pestañas un aspecto renovado.
+newtab-wallpaper-onboarding-primary-button-label = Establecer fondo de pantalla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema del sistema
 mr1-onboarding-theme-label-light = Claro
@@ -330,24 +332,39 @@ onboarding-device-migration-image-alt =
     .aria-label = Un zorro que saluda en la pantalla de una laptop. La laptop tiene un mouse conectado.
 onboarding-device-migration-title = ¡Te damos la bienvenida de nuevo!
 onboarding-device-migration-subtitle = Inicia sesión en su { -fxaccount-brand-name(capitalization: "sentence") } para recuperar tus marcadores, contraseñas e historial en tu nuevo dispositivo.
+onboarding-device-migration-subtitle2 = Inicia sesión en tu cuenta para llevar tus marcadores, contraseñas e historial a tu nuevo dispositivo.
 onboarding-device-migration-primary-button-label = Iniciar sesión
+
+## Add-ons Picker screen
+
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte seguro
+onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado por una organización sin fines de lucro ayuda a evitar que las empresas te sigan en secreto por la web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Mantén todo cifrado cuando saltes entre dispositivos
+onboarding-mobile-download-security-and-privacy-subtitle = Cuando tengas todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puedes traer pestañas desde otros dispositivos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te respalda
+onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con tu apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = ¿Cuánto tiempo llevas usando { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = ¿Qué tan familiarizado estás con { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tus comentarios ayudan a que { -brand-short-name } sea aún mejor.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Siguiente
+onboarding-new-user-survey-legal-link-label = Al seleccionar “{ onboarding-new-user-survey-next-button-label },” acepta el <a data-l10n-name="privacy_notice">aviso de privacidad</a> de { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Soy nuevo
 onboarding-new-user-survey-time-based-option-2 = Menos de 1 mes
 onboarding-new-user-survey-time-based-option-3 = Más de 1 mes, regularmente
+onboarding-new-user-survey-time-based-option-4 = Más de 1 mes, ocasionalmente
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Soy nuevo
 onboarding-new-user-survey-familiarity-based-option-2 = Lo he usado un poco
 onboarding-new-user-survey-familiarity-based-option-3 = Estoy muy familiarizado
+onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado antes pero ya tiene un tiempo

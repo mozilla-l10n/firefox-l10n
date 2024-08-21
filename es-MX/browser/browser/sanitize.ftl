@@ -57,18 +57,33 @@ item-history-form-data-downloads =
 item-cookies =
     .label = Cookies
     .accesskey = C
+item-cookies-site-data =
+    .label = Cookies y datos del sitio
+    .accesskey = e
+item-cookies-site-data-description = Puedes cerrar sesión en sitios o vaciar carritos de compras
 item-active-logins =
     .label = Conexiones activas
     .accesskey = C
 item-cache =
     .label = Caché
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Archivos y páginas temporales en caché ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content =
+    .label = Archivos y páginas temporales en caché
+    .accesskey = f
+item-cached-content-description = Borra elementos que ayudan a que los sitios se carguen más rápido
 item-form-search-history =
     .label = Historial de búsquedas y formularios
     .accesskey = f
 item-site-prefs =
     .label = Configuración del sitio
     .accesskey = i
+item-site-prefs-description = Restablece tus permisos y preferencias del sitio a la configuración original
 data-section-label = Datos
 item-site-settings =
     .label = Configuración del sitio

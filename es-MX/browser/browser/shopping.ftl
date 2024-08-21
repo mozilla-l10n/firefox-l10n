@@ -58,6 +58,15 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Deberíamos tener información sobre las reseñas de este producto dentro de 24 horas. Por favor vuelva a revisar.
 shopping-message-bar-analysis-in-progress-title2 = Verificando la calidad de la revisión
 shopping-message-bar-analysis-in-progress-message2 = Esto podría tardar unos 60 segundos.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Comprobando la calidad de la reseña ({ $percentage }%)
+shopping-message-bar-page-not-supported =
+    .heading = No podemos comprobar estas reseñas
+    .message = Lamentablemente, no podemos verificar la calidad de las reseñas para ciertos tipos de productos. Por ejemplo, tarjetas de regalo y transmisión de video, música y juegos.
+shopping-message-bar-keep-closed-header =
+    .heading = ¿Mantener cerrado?
+    .message = Puedes actualizar tu configuración para mantener Review Checker cerrado de forma predeterminada. Ahora mismo se abre automáticamente.
 
 ## Strings for the product review snippets card
 

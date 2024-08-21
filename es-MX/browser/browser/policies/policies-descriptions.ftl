@@ -32,12 +32,14 @@ policy-ContentAnalysis = Habilitar o deshabilitar la conexión al agente de prev
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Establecer políticas relacionadas con los contenedores.
+policy-DisableAccounts = Deshabilitar los servicios basados en cuentas, incluida la sincronización.
 policy-DisabledCiphers = Desactivar cifrados.
 policy-DefaultDownloadDirectory = Establece el directorio de descarga predeterminado
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el lector de PDF integrado en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Previene que el agente de navegación predeterminado tome acciones. Solo aplicable a Windows; otras plataformas no tienen el agente.
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
+policy-DisableEncryptedClientHello = Deshabilitar el uso de la función TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deshabilitar comandos para enviar comentarios desde el menú Ayuda (Enviar comentario y reportar sitios engañosos).
 policy-DisableFirefoxAccounts = Deshabilitar los servicios basados en { -fxaccount-brand-name }, incluido Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
@@ -82,6 +84,8 @@ policy-Handlers = Configurar gestores de aplicación predeterminados.
 policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
+policy-HttpAllowlist = Orígenes que no se actualizarán a HTTPS.
+policy-HttpsOnlyMode = Permitir que se habilite el modo solo HTTPS.
 policy-InstallAddonsPermission = Permitir que algunos sitios web instalen complementos.
 policy-LegacyProfiles = Deshabilitar la función que obliga a tener un perfil separado para cada instalación
 
@@ -106,6 +110,9 @@ policy-OverrideFirstRunPage = Anular la primera página de ejecución. Establece
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establecer esta política en blanco si deseas deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar el guardado de contraseñas en el administrador de contraseñas.
 policy-PasswordManagerExceptions = Evitar que { -brand-short-name } guarde contraseñas para sitios específicos.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Habilitar acuerdo de claves post-quantum para TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-Permissions2 = Configura permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.

@@ -204,6 +204,8 @@ newtab-empty-section-highlights = Empieza a navegar, y nosotros te mostraremos a
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ya estás al día. Vuelve luego y busca más historias de { $provider }. ¿No puedes esperar? Selecciona un tema popular y encontrarás más historias interesantes por toda la web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Te has puesto al día. Revisa más tarde para ver más historias. ¿No puedes esperar? Selecciona un tema popular para encontrar más historias de todo el mundo.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -230,6 +232,9 @@ newtab-pocket-saved = Guardado
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Más como esto
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -278,6 +283,7 @@ newtab-custom-settings = Administrar más ajustes
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Fondos de pantalla
+newtab-wallpaper-reset = Restablecer a predeterminados
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña Blanca
 newtab-wallpaper-light-sky = Cielo con nubes moradas y rosas
@@ -329,6 +335,12 @@ newtab-wallpaper-storm-sky = Cielo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas
 newtab-wallpaper-red-panda-yawns-in-a-tree = El panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prueba un toque de color
+newtab-wallpaper-feature-highlight-content = Dale a tu nueva pestaña una apariencia renovada con fondos de pantalla.
 newtab-wallpaper-feature-highlight-button = Lo tengo
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
