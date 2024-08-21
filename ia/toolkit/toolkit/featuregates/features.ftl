@@ -55,7 +55,7 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Barra lateral
-sidebar-description = Facilemente accede tu chronologia, schedas de altere apparatos, extensiones de barra lateral, e plus quando tu naviga. <a data-l10n-name="connecter">Comparti tu commentario</a>
+sidebar-description = Facilemente accede tu chronologia, schedas de altere apparatos, extensiones de barra lateral, e plus quando tu naviga. <a data-l10n-name="connect">Comparti tu commentario</a>
 vertical-tabs-title =
     .label = Schedas vertical
 vertical-tabs-description = Move tu schedas ab le summitate del navigator al latere. <a data-l10n-name="connect">Comparti tu commentario</a>
