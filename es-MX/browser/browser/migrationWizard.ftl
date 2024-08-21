@@ -52,7 +52,15 @@ migration-imported-edge-reading-list = Lista de lectura (de Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } no tiene acceso a los perfiles de otros navegadores instalados en este dispositivo.
+migration-no-permissions-instructions = Para continuar importando datos desde otro navegador, { -brand-short-name } debe tener acceso a su carpeta de perfil.
 migration-no-permissions-instructions-step1 = Selecciona "Continuar"
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = En el seleccionador de archivos, navega a <code>{ $permissionsPath }</code> y elige "Seleccionar"
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -81,6 +89,7 @@ migration-passwords-from-file-success-header = Contraseñas importadas correctam
 migration-passwords-from-file = Buscando contraseñas en el archivo
 migration-passwords-new = Nuevas contraseñas
 migration-passwords-updated = Contraseñas existentes
+migration-passwords-from-file-no-valid-data = El archivo no incluye ningún dato de contraseña válido. Elige otro archivo.
 migration-passwords-from-file-picker-title = Importar archivo de contraseñas
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

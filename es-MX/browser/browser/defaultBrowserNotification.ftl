@@ -27,5 +27,14 @@ default-browser-prompt-button-secondary = Ahora no
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = Termina de hacer que { -brand-short-name } sea tu predeterminado
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Paso 1: Ve a los Ajustes > Aplicaciones predeterminadas
+    Paso 2: Baja hasta “Navegador Web”
+    Paso 3: Selecciona y elige { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Paso 1: Ve a los Ajustes > Aplicaciones predeterminadas
+    Paso 2: Selecciona “Establecer como predeterminado” para { -brand-short-name }
 default-browser-guidance-notification-info-page = Muéstrame
 default-browser-guidance-notification-dismiss = Listo

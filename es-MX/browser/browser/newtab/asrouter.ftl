@@ -249,6 +249,8 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer u
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>¿Configurar { -brand-short-name } como tu lector de PDF predeterminado?</strong> Utiliza { -brand-short-name } para leer y editar archivos PDF guardados en tu computador.
 pdf-default-notification-set-default-button =
     .label = Establecer como predeterminado
 pdf-default-notification-decline-button =
@@ -256,6 +258,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicias tu computadora?</strong> Ahora puedes configurar { -brand-short-name } para que se abra automáticamente cuando reinicias tu dispositivo.
 launch-on-login-learnmore = Saber más
 launch-on-login-infobar-confirm-button = Sí, abrir { -brand-short-name }
     .accesskey = Y
@@ -265,6 +268,7 @@ launch-on-login-infobar-reject-button = Ahora no
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicies tu computadora?</strong> Para administrar tus preferencias de inicio, busca "inicio" en los ajustes.
 launch-on-login-infobar-final-reject-button = No, gracias
     .accesskey = N
 
@@ -275,4 +279,6 @@ launch-on-login-infobar-final-reject-button = No, gracias
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Mantén a los molestos rastreadores alejados de ti
+tail-fox-spotlight-subtitle = Dile adiós a los molestos rastreadores de anuncios y disfruta de una experiencia de internet más segura y rápida.
+tail-fox-spotlight-primary-button = Abrir mis enlaces con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ahora no
