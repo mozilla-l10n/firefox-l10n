@@ -5,6 +5,10 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Дадае чат-бота па вашаму выбару на бакавую панэль для хуткага доступу ў часе аглядання. <a data-l10n-name="connect">Адправіць водгук</a>
+genai-settings-chat-choose = Выберыце чат-бота
+genai-settings-chat-choose-one-menuitem =
+    .label = Выбраць
 genai-settings-chat-shortcuts =
     .description = Паказвае цэтлік для запытаў пры вылучэнні тэксту. { -brand-short-name } адпраўляе тэкст, назву старонкі і запрашэнне чат-боту.
     .label = Паказваць запыты пры вылучэнні тэксту
