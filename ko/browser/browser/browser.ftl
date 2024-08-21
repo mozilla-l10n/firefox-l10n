@@ -543,6 +543,10 @@ urlbar-go-button =
     .tooltiptext = 주소 표시줄의 주소로 이동
 urlbar-page-action-button =
     .tooltiptext = 페이지 작업
+urlbar-revert-button =
+    .tooltiptext = 주소 표시줄에 주소 표시
+urlbar-show-page-actions-button =
+    .tooltiptext = 모든 페이지 작업 표시
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
