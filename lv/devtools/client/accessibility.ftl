@@ -54,8 +54,16 @@ accessibility-text-label-issue-heading-content = Virsrakstos ir jābūt redzamam
 accessibility-text-label-issue-iframe = Izmantojiet atribūtu <code>title</code>, lai aprakstītu <span>iframe</span> saturu. <a>Uzzināt vairāk</a>
 accessibility-text-label-issue-image = Saturam ar attēliem jābūt etiķetētam. <a>Uzzināt vairāk</a>
 accessibility-text-label-issue-interactive = Interaktīvie elementi ir jāetiķetē. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-optgroup-label2 = Izmantojiet atribūtu <code>label</code>, lai etiķetētu <span>optgroup</span>. <a>Uzzināt vairāk</a>
+accessibility-text-label-issue-toolbar = Ja rīkjoslas ir vairākas, tām ir  jābūt etiķetētām. <a>Uzzināt vairāk</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Fokusējamiem elementiem jābūt interaktīvai semantikai. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-tabindex = Atribūtam <code>tabindex</code> izvairieties dod vērtību, kas ir lielāka par nulli. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-action = Interaktīvos elementus jāspēj aktivizēt ar tastatūru. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-focusable = Interaktīvajiem elementiem ir jābūt fokusējamiem. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-focus-visible = Iespējams, ka fokusējamam elementam nav fokusa stila. <a>Uzzināt vairāk</a>
+accessibility-keyboard-issue-mouse-only = Klikšķināmiem elementiem ir jābūt fokusējamiem, un tiem jābūt ar interaktīvu semantiku. <a>Uzzināt vairāk</a>
