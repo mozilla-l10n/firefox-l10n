@@ -201,6 +201,8 @@ newtab-section-header-recent-activity = Seneste aktivitet
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Anbefalet af { $provider }
 newtab-section-header-stories = Tankevækkende historier
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dagens valg til dig
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -390,3 +392,35 @@ newtab-weather-menu-hide-weather = Skjul vejr på Nyt faneblad
 newtab-weather-menu-learn-more = Læs mere
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Vejrdata er ikke tilgængelige lige nu.
+
+## Topic Labels
+
+newtab-topic-label-business = Forretning
+newtab-topic-label-career = Karriere
+newtab-topic-label-education = Uddannelse
+newtab-topic-label-arts = Underholdning
+newtab-topic-label-food = Mad
+newtab-topic-label-health = Sundhed
+newtab-topic-label-hobbies = Spil
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Penge
+newtab-topic-label-society-parenting = Forældreskab
+newtab-topic-label-government = Politik
+newtab-topic-label-education-science = Videnskab
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Teknologi
+newtab-topic-label-travel = Rejser
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Vælg emner for at finjustere dit feed
+newtab-topic-selection-save-button = Gem
+newtab-topic-selection-cancel-button = Annuller
+newtab-topic-selection-button-maybe-later = Måske senere
+newtab-topic-selection-privacy-link = Lær, hvordan vi beskytter og håndterer data
+newtab-topic-selection-button-update-interests = Opdater dine interesser
+newtab-topic-selection-button-pick-interests = Vælg dine interesser

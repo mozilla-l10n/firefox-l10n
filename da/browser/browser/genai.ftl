@@ -45,3 +45,9 @@ genai-prompt-prefix-selection = Jeg er på siden "{ $tabTitle }" og har markeret
 
 genai-menu-ask-generic =
     .label = Spørg AI-chatbot
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Spørg { $provider }
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Spørg { $provider }...
