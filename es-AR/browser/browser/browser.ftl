@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Ir a la dirección de la barra de direcciones
 urlbar-page-action-button =
     .tooltiptext = Acciones de página
+urlbar-revert-button =
+    .tooltiptext = Mostrar la dirección en la barra de direcciones
+urlbar-show-page-actions-button =
+    .tooltiptext = Mostrar todas las acciones de página
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
