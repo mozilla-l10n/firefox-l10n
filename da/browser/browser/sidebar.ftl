@@ -5,6 +5,16 @@
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = I dag - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = I går - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Labels for sidebar search
 

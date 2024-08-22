@@ -431,8 +431,21 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Oprettet automati
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Indstillinger for alternativ tekst til billeder
+pdfjs-image-alt-text-settings-button-label = Indstillinger for alternativ tekst til billeder
+pdfjs-editor-alt-text-settings-dialog-label = Indstillinger for alternativ tekst til billeder
+pdfjs-editor-alt-text-settings-automatic-title = Automatisk alternativ tekst
 pdfjs-editor-alt-text-settings-create-model-button-label = Opret alternativ tekst automatisk
 pdfjs-editor-alt-text-settings-create-model-description = Foreslår beskrivelser for at hjælpe folk, der ikke kan se billedet, eller når billedet ikke indlæses.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = AI-model til at oprette alternative tekster ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Kører lokalt på din enhed, så dine data forbliver private. Påkrævet for at anvende automatisk alternativ tekst.
 pdfjs-editor-alt-text-settings-delete-model-button = Slet
 pdfjs-editor-alt-text-settings-download-model-button = Hent
 pdfjs-editor-alt-text-settings-downloading-model-button = Henter…
+pdfjs-editor-alt-text-settings-editor-title = Redigering af alternativ tekst
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Vis redigering af alternativ tekst med det samme, når et billede tilføjes
+pdfjs-editor-alt-text-settings-show-dialog-description = Hjælper dig med at sikre, at alle dine billeder har alternativ tekst.
+pdfjs-editor-alt-text-settings-close-button = Luk
