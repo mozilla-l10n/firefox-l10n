@@ -49,8 +49,14 @@ experimental-features-ime-search-description = IME (Input Method Editor, kirjoit
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Kuva kuvassa: automaattinen avautuminen välilehteä vaihtaessa
+experimental-features-auto-pip-description = Ota kuva kuvassa -toiminto käyttöön aktiivisissa videoissa, kun vaihdat välilehteä.
+# Updated sidebar settings
+sidebar-title =
+    .label = Sivupaneeli
+sidebar-description = Käytä helposti historiaa, muiden laitteiden välilehtiä, sivupalkin laajennuksia ja paljon muuta selaamisen aikana. <a data-l10n-name="connect">Anna palautetta</a>
 vertical-tabs-title =
     .label = Pystysuuntaiset välilehdet
+vertical-tabs-description = Siirrä välilehdet selaimen yläreunasta sivuun. Edellyttää, että kokeilet myös sivupaneelia. <a data-l10n-name="connect">Anna palautetta</a>
 experimental-features-group-browsing =
     .label = Selaus
 experimental-features-group-developer-tools =
