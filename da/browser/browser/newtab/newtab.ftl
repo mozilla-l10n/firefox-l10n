@@ -409,15 +409,23 @@ newtab-topic-label-finance = Penge
 newtab-topic-label-society-parenting = Forældreskab
 newtab-topic-label-government = Politik
 newtab-topic-label-education-science = Videnskab
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Lifehacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Teknologi
 newtab-topic-label-travel = Rejser
+newtab-topic-label-home = Hus og have
 
 ## Topic Selection Modal
 
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Vælg emner for at finjustere dit feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Vælg to eller flere emner. Vores ekspertkuratorer prioriterer historier målrettet dine interesser. Opdater når som helst.
 newtab-topic-selection-save-button = Gem
 newtab-topic-selection-cancel-button = Annuller
 newtab-topic-selection-button-maybe-later = Måske senere
