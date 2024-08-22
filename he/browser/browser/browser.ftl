@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
 urlbar-page-action-button =
     .tooltiptext = פעולות דף
+urlbar-revert-button =
+    .tooltiptext = הצגת הכתובת בשורת המיקום
+urlbar-show-page-actions-button =
+    .tooltiptext = הצגת כל פעולות הדף
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
