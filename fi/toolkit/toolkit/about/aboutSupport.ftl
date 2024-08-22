@@ -186,6 +186,14 @@ media-codec-support-unsupported = Ei tuettu
 media-codec-support-error = Koodekkitukitietoja ei ole saatavilla. Yritä uudelleen mediatiedoston toiston jälkeen.
 media-codec-support-lack-of-extension = Asenna laajennus
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 -yhteensopiva
+
 ##
 
 intl-title = Internationalisointi ja lokalisointi
@@ -393,6 +401,18 @@ support-printing-modified-settings = Muokatut tulostusasetukset
 support-printing-prefs-name = Nimi
 support-printing-prefs-value = Arvo
 
+## Remote Settings sections
+
+support-remote-settings-status = Tila
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ei toimi
+support-remote-settings-last-check = Viimeinen tarkistus
+support-remote-settings-local-timestamp = Paikallinen aikaleima
+support-remote-settings-sync-history = Historia
+support-remote-settings-sync-history-status = Tila
+support-remote-settings-sync-history-datetime = Päiväys
+
 ## Normandy sections
 
 support-remote-experiments-title = Etäkokeilut
@@ -409,3 +429,14 @@ pointing-device-mouse = Hiiri
 pointing-device-touchscreen = Kosketusnäyttö
 pointing-device-pen-digitizer = Digitaalinen kynä
 pointing-device-none = Ei osoitinlaitteita
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Sisältöanalyysi (DLP)
+content-analysis-active = Aktiivinen
+content-analysis-connected-to-agent = Yhdistetty agenttiin
+content-analysis-agent-path = Agentin polku
+content-analysis-request-count = Pyyntöjen määrä

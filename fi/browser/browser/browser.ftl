@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
     .tooltiptext = Sivun toiminnot
+urlbar-revert-button =
+    .tooltiptext = Näytä osoite sijaintipalkissa
+urlbar-show-page-actions-button =
+    .tooltiptext = Näytä kaikki sivutoiminnot
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

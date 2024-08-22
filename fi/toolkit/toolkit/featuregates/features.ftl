@@ -46,9 +46,17 @@ experimental-features-js-warp-description = Ota käyttöön Warp, projekti javaS
 experimental-features-ime-search =
     .label = Osoitepalkki: näytä tulokset IME-koostamisen aikana
 experimental-features-ime-search-description = IME (Input Method Editor, kirjoitustapaeditori) on työkalu, jonka avulla voit kirjoittaa tavallisella näppäimistöllä monimutkaisia symboleja, kuten itäaasialaisia tai intialaisia symboleja. Tämän kokeilun ottaminen käyttöön pitää osoitepalkin auki näyttäen hakutulokset ja -ehdotukset samalla, kun käytät tekstinsyöttöä IME:n avulla. Huomaa, että IME saattaa näyttää paneelin, peittäen osoitepalkin hakutulokset. Siksi tätä asetusta suositellaan vain, kun IME ei käytä tämäntyyppistä paneelia.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Kuva kuvassa: automaattinen avautuminen välilehteä vaihtaessa
+vertical-tabs-title =
+    .label = Pystysuuntaiset välilehdet
 experimental-features-group-browsing =
     .label = Selaus
 experimental-features-group-developer-tools =
     .label = Kehittäjätyökalut
 experimental-features-group-webpage-display =
     .label = Verkkosivun näyttö
+experimental-features-group-customize-browsing =
+    .label = Mukauta selaamistasi
+experimental-features-group-customize-browsing-description = Jos kokeilet näitä ominaisuuksia, <a data-l10n-name="connect">jaa ajatuksesi Connectissa</a>
