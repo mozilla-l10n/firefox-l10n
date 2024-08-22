@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Actividad reciente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
 newtab-section-header-stories = Historias que invitan a reflexionar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Las selecciones de hoy para ti
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -235,6 +237,13 @@ newtab-pocket-saved = Guardado
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Más como esto
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = No es para mi
+newtab-toast-thumbs-up-or-down = Gracias. Tus comentarios nos ayudarán a mejorar tu feed.
+newtab-toast-dismiss-button =
+    .title = Ignorar
+    .aria-label = Ignorar
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -381,6 +390,18 @@ newtab-weather-error-not-available = Los datos meteorológicos no están disponi
 
 ## Topic Labels
 
+newtab-topic-label-business = Negocios
+newtab-topic-label-career = Empleo
+newtab-topic-label-education = Educación
+newtab-topic-label-arts = Entretenimiento
+newtab-topic-label-food = Comida
+newtab-topic-label-health = Salud
+newtab-topic-label-hobbies = Juegos
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Dinero
+newtab-topic-label-society-parenting = Paternidad
 
 ## Topic Selection Modal
 
