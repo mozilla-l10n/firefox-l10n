@@ -16,12 +16,28 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-tabs-header =
+    .label = Preferencias de pestañas
+sidebar-visibility-always-show =
+    .label = Mostrar siempre
+sidebar-visibility-hide-sidebar =
+    .label = Ocultar barra lateral
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Administrar extensión
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = Historial
+sidebar-menu-synced-tabs-label =
+    .label = Pestañas de otros dispositivos
+sidebar-menu-bookmarks-label =
+    .label = Marcadores
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-history-header =
+    .heading = Historial
