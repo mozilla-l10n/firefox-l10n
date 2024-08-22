@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
 urlbar-page-action-button =
     .tooltiptext = Ενέργειες σελίδας
+urlbar-revert-button =
+    .tooltiptext = Εμφάνιση διεύθυνσης στη γραμμή τοποθεσίας
+urlbar-show-page-actions-button =
+    .tooltiptext = Εμφάνιση όλων των ενεργειών σελίδας
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
