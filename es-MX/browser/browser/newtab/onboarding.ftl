@@ -337,6 +337,8 @@ onboarding-device-migration-primary-button-label = Iniciar sesión
 
 ## Add-ons Picker screen
 
+amo-picker-install-complete-label = Instalado
+amo-picker-collection-link = Explorar más complementos
 
 ## The following screens have been updated to use security and privacy focused strings:
 

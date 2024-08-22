@@ -150,6 +150,8 @@ shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una com
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Más para considerar
 
 ## Shopping survey strings.
 
@@ -158,6 +160,9 @@ shopping-survey-q1-radio-2-label = Satisfecho
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Insatisfecho
 shopping-survey-q1-radio-5-label = Muy insatisfecho
+shopping-survey-q2-radio-1-label = Sí
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = No lo sé
 shopping-survey-next-button-label = Siguiente
 shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Términos de uso
@@ -168,8 +173,14 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-revised-button = Entendido
+shopping-callout-not-opted-in-reminder-title = Comprar con confianza
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = No volver a mostrar
+shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Sí, poner a prueba
+shopping-onboarding-not-now-button = Ahora no

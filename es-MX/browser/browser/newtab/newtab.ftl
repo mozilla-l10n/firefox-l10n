@@ -402,6 +402,15 @@ newtab-topic-label-hobbies = Juegos
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Dinero
 newtab-topic-label-society-parenting = Paternidad
+newtab-topic-label-government = Políticas
+newtab-topic-label-education-science = Ciencia
+newtab-topic-label-sports = Deportes
+newtab-topic-label-tech = Tecnología
+newtab-topic-label-travel = Viajes
+newtab-topic-label-home = Hogar y jardín
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Guardar
+newtab-topic-selection-cancel-button = Cancelar
+newtab-topic-selection-button-maybe-later = Quizá más tarde
