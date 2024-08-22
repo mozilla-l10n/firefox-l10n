@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = Gå til adressen i adressefeltet
 urlbar-page-action-button =
     .tooltiptext = Sidehandlinger
+urlbar-revert-button =
+    .tooltiptext = Vis adressen i adressefeltet
 urlbar-show-page-actions-button =
     .tooltiptext = Vis alle sidehandlinger
 
