@@ -50,6 +50,8 @@ experimental-features-ime-search-description = IME (Input Method Editor, kirjoit
 experimental-features-auto-pip =
     .label = Kuva kuvassa: automaattinen avautuminen välilehteä vaihtaessa
 experimental-features-auto-pip-description = Ota kuva kuvassa -toiminto käyttöön aktiivisissa videoissa, kun vaihdat välilehteä.
+genai-settings-chat-title =
+    .label = AI-chatbotti
 # Updated sidebar settings
 sidebar-title =
     .label = Sivupaneeli
