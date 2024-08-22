@@ -47,6 +47,13 @@ login-list-count =
     { $count ->
        *[other] { $count }Nuu kajie´e sesión
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } contraseña
+       *[other] { $count } contraseñas
+    }
 login-list-sort-label-text = Naka̱ji:
 login-list-name-option = Sivɨ (A-Z)
 login-list-name-reverse-option = Sivɨ (Z-A)
@@ -236,6 +243,9 @@ about-logins-export-file-picker-title = Kuiso archivo nuu kajie'e sesión
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
