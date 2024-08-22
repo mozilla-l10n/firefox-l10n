@@ -407,3 +407,8 @@ newtab-topic-label-society = Таҷрибаи ҳаёт
 newtab-topic-label-sports = Варзишҳо
 newtab-topic-label-tech = Технологияҳо
 newtab-topic-label-travel = Сайёҳӣ
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Нигоҳ доштан
+newtab-topic-selection-cancel-button = Бекор кардан

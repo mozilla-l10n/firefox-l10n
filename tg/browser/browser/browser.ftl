@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-page-action-button =
     .tooltiptext = Амалҳо дар саҳифа
+urlbar-revert-button =
+    .tooltiptext = Намоиш додани нишонӣ дар навори ҷойгиршавӣ
+urlbar-show-page-actions-button =
+    .tooltiptext = Нишон додани ҳамаи амалҳои саҳифа
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
