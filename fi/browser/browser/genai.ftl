@@ -16,6 +16,10 @@ genai-settings-chat-copilot-links = Valitsemalla Copilotin hyväksyt <a data-l10
 genai-settings-chat-gemini-links = Valitsemalla Google Geminin hyväksyt <a data-l10n-name="link1">Googlen käyttöehdot</a>,<a data-l10n-name="link2">generatiivisen tekoälyn kiellettyä käyttöä koskevan käytännön</a> ja <a data-l10n-name="link3">Gemini Appsin tietosuojakäytännön</a>.
 genai-settings-chat-huggingchat-links = Valitsemalla HuggingChatin hyväksyt <a data-l10n-name="link1">HuggingChatin tietosuojailmoituksen</a> ja <a data-l10n-name="link2">Hugging Face -tietosuojakäytännön</a>.
 genai-settings-chat-lechat-links = Valitsemalla Le Chat Mistralin hyväksyt Mistral AI:n <a data-l10n-name="link1">käyttöehdot</a> ja <a data-l10n-name="link2">tietosuojakäytännön</a>.
+genai-settings-chat-localhost-links = Tuo oma yksityinen paikallinen chatbot, kuten { -vendor-short-name }n innovaatioryhmän <a data-l10n-name="link1">llamafile</a>.
+genai-settings-chat-shortcuts =
+    .description = Näyttää pikakuvakkeen kehotteisiin, kun valitset tekstiä. { -brand-short-name } lähettää tekstin, sivun otsikon ja kehotteen chatbotille.
+    .label = Näytä kehotteita tekstiä valittaessa
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -27,6 +31,10 @@ genai-settings-chat-lechat-links = Valitsemalla Le Chat Mistralin hyväksyt Mist
 genai-prompts-explain =
     .label = Selitä tämä
     .value = Selitä tämän valinnan keskeisimmät käsitteet käyttäen yksinkertaisia sanoja. Käytä myös esimerkkejä.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Olen sivulla "{ $tabTitle }" ja "{ $selection }" on valittuna.
 
 ## Chatbot menu shortcuts
 
