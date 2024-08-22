@@ -566,6 +566,10 @@ urlbar-go-button =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
 urlbar-page-action-button =
     .tooltiptext = Gweithredoedd tudalen
+urlbar-revert-button =
+    .tooltiptext = Dangos y cyfeiriad yn y Bar Lleoliad
+urlbar-show-page-actions-button =
+    .tooltiptext = Dangos pob gweithred tudalen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
