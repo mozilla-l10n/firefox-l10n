@@ -58,6 +58,7 @@ sidebar-title =
 sidebar-description = Accéder facilement à votre historique, aux onglets d’autres appareils, aux extensions du panneau latéral et à d’autres fonctions en cours de navigation. <a data-l10n-name="connect">Donner votre avis</a>
 vertical-tabs-title =
     .label = Onglets verticaux
+vertical-tabs-description = Déplacez vos onglets du haut du navigateur vers le côté. Nécessite que vous essayiez également le panneau latéral. <a data-l10n-name="connect">Donner votre avis</a>
 experimental-features-group-browsing =
     .label = Navigation
 experimental-features-group-developer-tools =
