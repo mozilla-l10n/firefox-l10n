@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Behold { -brand-short-name } i Dock
        *[other] Fastgør { -brand-short-name } til proceslinjen
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fastgør { -brand-short-name } til proceslinjen og startmenuen
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -335,6 +337,11 @@ onboarding-device-migration-title = Velkommen tilbage!
 onboarding-device-migration-subtitle = Log ind på din { -fxaccount-brand-name } for at få adgang til dine bogmærker, adgangskoder og historik på din nye enhed.
 onboarding-device-migration-subtitle2 = Log ind på din konto for at få adgang til dine bogmærker, adgangskoder og historik på din nye enhed.
 onboarding-device-migration-primary-button-label = Log ind
+
+## Add-ons Picker screen
+
+amo-picker-title = Tilpas din { -brand-short-name }
+amo-picker-install-button-label = Føj til { -brand-short-name }
 
 ## The following screens have been updated to use security and privacy focused strings:
 
