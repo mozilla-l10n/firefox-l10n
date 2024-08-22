@@ -35,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Yksinkertaista kieltä
     .value = Kirjoita valinta uudelleen käyttäen lyhyitä lauseita ja yksinkertaisia sanoja. Säilytä merkitys ja faktuaalinen tarkkuus.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Arvuuta minua
+    .value = Esitä kysymyksiä minulle tästä valinnasta. Kysy erityyppisiä kysymyksiä, esimerkiksi sisällytä useita vaihtoehtoja, totuusarvoja ja lyhyitä vastauksia vaatimia kysymyksiä. Odota vastaustani ennen seuraavaan kysymykseen siirtymistä.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Selitä tämä
