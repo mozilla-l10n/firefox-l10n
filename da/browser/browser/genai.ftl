@@ -20,10 +20,28 @@ genai-settings-chat-localhost-links = Brug din egen private chatbot lokalt, fx i
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Sammenfat
+    .value = Sammenfat det markerede præcist og kortfattet. Brug overskrifter og punktopstillinger i sammenfatningen, så det er nemt at læse den. Bevar betydningen og den faktuelle nøjagtighed.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Forenkl sproget
+    .value = Omskriv teksten ved hjælp af korte sætninger og enkle ord. Bevar betydningen og den faktuelle nøjagtighed.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Quiz
+    .value = Lav en quiz til mig om det markerede. Stil mig en række forskellige typer af spørgsmål, f.eks. flervalgs-spørgsmål, sandt eller falsk og kort svar. Vent på mit svar, før næste spørgsmål vises.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Forklar dette
     .value = Forklar de vigtigste begreber i det markerede med enkle ord. Brug også eksempler.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Jeg er på siden "{ $tabTitle }" og har markeret "{ $selection }".
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Spørg AI-chatbot
