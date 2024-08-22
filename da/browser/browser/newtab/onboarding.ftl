@@ -342,6 +342,8 @@ onboarding-device-migration-primary-button-label = Log ind
 
 amo-picker-title = Tilpas din { -brand-short-name }
 amo-picker-install-button-label = Føj til { -brand-short-name }
+amo-picker-install-complete-label = Installeret
+amo-picker-collection-link = Udforsk flere tilføjelser
 
 ## The following screens have been updated to use security and privacy focused strings:
 
