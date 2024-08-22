@@ -418,6 +418,9 @@ newtab-topic-label-home = Maison et extérieur
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Sélectionnez des sujets pour affiner votre flux
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Choisissez au moins deux sujets. Nos spécialistes en sélection d’articles donnent la priorité aux articles qui correspondent à vos centres d’intérêt. Vous pouvez modifier vos choix à tout moment.
 newtab-topic-selection-save-button = Enregistrer
 newtab-topic-selection-cancel-button = Annuler
 newtab-topic-selection-button-maybe-later = Peut-être plus tard
