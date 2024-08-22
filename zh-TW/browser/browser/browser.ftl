@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =
     .tooltiptext = 頁面操作
+urlbar-revert-button =
+    .tooltiptext = 在網址列顯示網址
+urlbar-show-page-actions-button =
+    .tooltiptext = 顯示所有頁面操作
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
