@@ -241,6 +241,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Non pro mene
+newtab-toast-thumbs-up-or-down = Gràtzias. Torrende·nos cumprou nos agiudas a megiorare su feed tuo.
 newtab-toast-dismiss-button =
     .title = Iscarta
     .aria-label = Iscarta
@@ -386,3 +387,13 @@ newtab-weather-menu-hide-weather = Cua su tempus in s’ischeda noa
 newtab-weather-menu-learn-more = Àteras informatziones
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Is datos de su tempus non sunt a disponimentu immoe.
+
+## Topic Labels
+
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Dinare
+
+## Topic Selection Modal
+

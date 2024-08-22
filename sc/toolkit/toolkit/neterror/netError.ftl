@@ -45,7 +45,7 @@ neterror-captive-portal = Depes fàghere s'atzessu a custa rete prima de pòdere
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Bolias bisitare <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Si as insertadu s'indiritzu giustu, podes:</strong>
-neterror-dns-not-found-hint-try-again = Torrare a bi proare luego
+neterror-dns-not-found-hint-try-again = Torra·nche a proare luego
 neterror-dns-not-found-hint-check-network = Controllare sa connessione a sa rete
 neterror-dns-not-found-hint-firewall = Controllare chi { -brand-short-name } tèngiat su permissu de atzèdere a sa rete (mancari su dispositivu siat connessu, però a palas de unu firewall)
 

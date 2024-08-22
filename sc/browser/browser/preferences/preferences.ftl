@@ -857,7 +857,7 @@ sync-verification-sent-title = Verìfica imbiada
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Ligòngiu de verìfica imbiadu a { $email }.
 sync-verification-not-sent-title = Impossìbile imbiare sa verìfica
-sync-verification-not-sent-body = Impossìbile imbiare sa verìfica in custu momentu; torra·bi a proare a pustis.
+sync-verification-not-sent-body = Impossìbile imbiare su messàgiu de verìfica in custu momentu; torra·nche a proare a pustis.
 
 ## Privacy Section
 
