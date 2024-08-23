@@ -30,6 +30,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Sidepanels-udvidelser
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name }-funktioner
 sidebar-customize-firefox-settings = Håndter { -brand-short-name }- indstillinger
 sidebar-position-left =
     .label = Vis til venstre

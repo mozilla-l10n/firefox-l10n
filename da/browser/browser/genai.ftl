@@ -10,9 +10,16 @@ genai-settings-chat-choose = Vælg en chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Vælg en
 genai-settings-chat-links = Når du vælger en chatbot, accepterer du udbyderens privatlivspolitik og betingelser for brug.
+genai-settings-chat-chatgpt-links = Ved at vælge ChatGPT accepterer du OpenAIs <a data-l10n-name="link1">betingelser for brug</a> og <a data-l10n-name="link2">privatlivspolitik</a>.
 genai-settings-chat-claude-links = Ved at vælge Anthropic Claude accepterer du Anthropics <a data-l10n-name="link1">Tjenestevilkår for forbrugere</a>, <a data-l10n-name="link2">Brugspolitik</a> og <a data-l10n-name="link3">Privatlivspolitik</a>.
+genai-settings-chat-copilot-links = Ved at vælge Copilot accepterer du <a data-l10n-name="link1">vilkår for Copilot AI Experiences</a> og <a data-l10n-name="link2">Microsofts privatlivserklæring</a>.
 genai-settings-chat-gemini-links = Ved at vælge Google Gemini accepterer du <a data-l10n-name="link1">Google tjenestevilkår</a>, <a data-l10n-name="link2">Politik for forbudt brug af generativ AI</a> og <a data-l10n-name="link3">Privatlivspolitik for Gemini-apps</a>.
+genai-settings-chat-huggingchat-links = Ved at vælge HuggingChat accepterer du <a data-l10n-name="link1">HuggingChats privatlivserklæring</a> og <a data-l10n-name="link2">privatlivspolitik for Hugging Face</a>.
+genai-settings-chat-lechat-links = Ved at vælge Le Chat Mistral accepterer du Mistral AIs <a data-l10n-name="link1">tjenestevilkår</a> og <a data-l10n-name="link2">privatlivspolitik</a>.
 genai-settings-chat-localhost-links = Brug din egen private chatbot lokalt, fx i form af <a data-l10n-name="link1">llamafil</a> fra { -vendor-short-name }s Innovationsgruppe.
+genai-settings-chat-shortcuts =
+    .description = Viser en genvej til prompts, når du markerer tekst. { -brand-short-name } sender den markerede tekst, sidetitlen og prompten til chatbotten.
+    .label = Vis prompts ved tekstmarkering
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
