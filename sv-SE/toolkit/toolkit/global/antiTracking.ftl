@@ -9,6 +9,5 @@
 #   $gracePeriodSeconds (number): Grace period window in seconds until the site purged (clearing cookies, storages and caches).
 btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
-        [one] "{ $siteHost }" har klassificerats som en avvisningsspårare. Om den inte får användaraktivering inom de närmaste { $gracePeriodSeconds } sekunderna kommer den att radera sitt tillstånd.
-       *[other] "{ $siteHost }" har klassificerats som en avvisningsspårare. Om den inte får användaraktivering inom de närmaste { $gracePeriodSeconds } sekunderna kommer den att radera sitt tillstånd.
+       *[other] "{ $siteHost }" har klassificerats som en bounce tracker. Om den inte får användaraktivering inom de närmaste { $gracePeriodSeconds } sekunderna kommer den att radera sitt tillstånd.
     }
