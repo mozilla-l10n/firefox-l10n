@@ -21,6 +21,13 @@ sidebar-history-date-prev-month =
 sidebar-history-delete =
   .title = Elimina dalla cronologia
 
+sidebar-history-sort-by-date =
+  .label = Ordina per data
+sidebar-history-sort-by-site =
+  .label = Ordina per sito
+sidebar-history-clear =
+  .label = Cancella cronologia
+
 ## Labels for sidebar search
 
 # "Search" is a noun (as in "Results of the search for")
@@ -60,6 +67,20 @@ sidebar-context-menu-remove-extension =
   .label = Rimuovi estensione
 sidebar-context-menu-report-extension =
   .label = Segnala estensione
+
+sidebar-context-menu-open-in-window =
+  .label = Apri in nuova finestra
+sidebar-context-menu-open-in-private-window =
+  .label = Apri in nuova finestra anonima
+sidebar-context-menu-bookmark-tab =
+  .label = Aggiungi scheda ai segnalibri…
+sidebar-context-menu-copy-link =
+  .label = Copia link
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+  .label = Elimina dalla cronologia
 
 ## Labels for sidebar menu items.
 
