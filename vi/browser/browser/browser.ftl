@@ -543,6 +543,8 @@ urlbar-go-button =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
     .tooltiptext = Hành động trên trang
+urlbar-show-page-actions-button =
+    .tooltiptext = Hiển thị tất cả các hành động trên trang
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
