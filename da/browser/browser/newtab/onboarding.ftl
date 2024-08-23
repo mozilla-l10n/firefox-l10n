@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Log ind
 ## Add-ons Picker screen
 
 amo-picker-title = Tilpas din { -brand-short-name }
+amo-picker-subtitle = Udvidelser er som apps til din browser. Du kan bruge dem til at beskytte dine adgangskoder, hente videoer, finde gode tilbud, blokere irriterende annoncer, ændre browserens udseende og meget mere.
 amo-picker-install-button-label = Føj til { -brand-short-name }
 amo-picker-install-complete-label = Installeret
 amo-picker-collection-link = Udforsk flere tilføjelser
