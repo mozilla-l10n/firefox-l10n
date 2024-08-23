@@ -608,6 +608,10 @@ urlbar-go-button =
     .tooltiptext = Přejde na adresu v adresním řádku
 urlbar-page-action-button =
     .tooltiptext = Akce stránky
+urlbar-revert-button =
+    .tooltiptext = Zobrazí adresu v adresním řádku
+urlbar-show-page-actions-button =
+    .tooltiptext = Zobrazí všechny akce stránky
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

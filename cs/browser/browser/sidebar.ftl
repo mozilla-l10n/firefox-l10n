@@ -31,6 +31,9 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = Rozšíření postranní lišty
+sidebar-customize-firefox-tools-header =
+    .label = Nástroje { -brand-product-name(case: "gen") }
+sidebar-customize-firefox-settings = Spravovat nastavení { -brand-short-name(case: "gen") }
 sidebar-position-left =
     .label = Zobrazit nalevo
 sidebar-position-right =
