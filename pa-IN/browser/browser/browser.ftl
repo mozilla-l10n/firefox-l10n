@@ -555,6 +555,10 @@ urlbar-go-button =
     .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ
 urlbar-page-action-button =
     .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
+urlbar-revert-button =
+    .tooltiptext = ਸਿਰਨਾਵੇਂ ਨੂੰ ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਵੇਖਾਓ
+urlbar-show-page-actions-button =
+    .tooltiptext = ਸਾਰੀਆਂ ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ ਵੇਖਾਓ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
