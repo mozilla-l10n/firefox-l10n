@@ -62,6 +62,7 @@ sidebar-title =
 sidebar-description = Mějte během prohlížení snadný přístup ke své historii, panelům z jiných zařízení, rozšířením postranní lišty a dalším funkcím. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
 vertical-tabs-title =
     .label = Svislé panely
+vertical-tabs-description = Přesuňte si panely z horní části prohlížeče na stranu. Vyžaduje, abyste také vyzkoušeli postranní lištu. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
 experimental-features-group-browsing =
     .label = Prohlížení
 experimental-features-group-developer-tools =
@@ -70,3 +71,4 @@ experimental-features-group-webpage-display =
     .label = Zobrazení webové stránky
 experimental-features-group-customize-browsing =
     .label = Přizpůsobte si své prohlížení
+experimental-features-group-customize-browsing-description = Pokud tyto funkce vyzkoušíte, <a data-l10n-name="connect">podělte se o svůj názor na fóru Connect</a>

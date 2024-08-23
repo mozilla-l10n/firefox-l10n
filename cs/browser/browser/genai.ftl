@@ -35,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Zjednodušení jazyka
     .value = Přepiš označený text pomocí krátkých vět a jednoduchých slov. Zachovej význam a věcnou správnost.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Otestujte mě
+    .value = Prosím, udělejte mi kvíz o tomto výběru. Položte mi různé typy otázek, například s výběrem odpovědi, pravdivé nebo nepravdivé a krátké odpovědi. Než přejdete k další otázce, počkejte na mou odpověď.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Vysvětlit
@@ -46,6 +50,11 @@ genai-prompt-prefix-selection = Jsem na stránce “{ $tabTitle }” s označen�
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Zeptat se AI chatbota
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Zeptat se { $provider }
 genai-input-ask-generic =
     .placeholder = Zeptat se AI chatbota…
 # $provider (string) - name of the provider

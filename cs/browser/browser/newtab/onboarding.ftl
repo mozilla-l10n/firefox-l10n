@@ -473,6 +473,9 @@ onboarding-device-migration-primary-button-label = Přihlásit se
 
 ## Add-ons Picker screen
 
+amo-picker-title = Přizpůsobte si svůj { -brand-short-name }
+amo-picker-subtitle = Rozšíření jsou jako aplikace pro váš prohlížeč. Umožňují vám chránit hesla, stahovat videa, hledat akční nabídky, blokovat obtěžující reklamy, měnit vzhled prohlížeče a mnoho dalšího.
+amo-picker-install-button-label = Přidat do { -brand-short-name(case: "gen") }
 amo-picker-install-complete-label = Nainstalováno
 amo-picker-collection-link = Prozkoumat další doplňky
 
