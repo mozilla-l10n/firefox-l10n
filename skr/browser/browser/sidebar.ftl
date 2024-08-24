@@ -65,3 +65,7 @@ sidebar-menu-bookmarks-label =
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-history-header =
+    .heading = تاریخ
+sidebar-menu-syncedtabs-header =
+    .heading = ٻیاں ڈیوائساں کنوں ٹیباں
