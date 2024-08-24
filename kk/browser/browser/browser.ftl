@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Енгізілген адреске өту
 urlbar-page-action-button =
     .tooltiptext = Бет әрекеттері
+urlbar-revert-button =
+    .tooltiptext = Орналасулар жолағында адресті көрсету
+urlbar-show-page-actions-button =
+    .tooltiptext = Барлық бет әрекеттерін көрсету
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
