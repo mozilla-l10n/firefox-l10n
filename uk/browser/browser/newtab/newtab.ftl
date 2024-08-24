@@ -340,10 +340,6 @@ newtab-wallpaper-attribution = Фото від <a data-l10n-name="name-link">{ $
 newtab-wallpaper-feature-highlight-header = Спробуйте сплеск кольорів
 newtab-wallpaper-feature-highlight-content = Надайте своїй новій вкладці свіжий вигляд за допомогою шпалер.
 newtab-wallpaper-feature-highlight-button = Зрозуміло
-# Tooltip for dismiss button
-feature-highlight-dismiss-button =
-    .title = Відхилити
-    .aria-label = Закрити спливаюче вікно
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }

@@ -126,13 +126,6 @@ translations-manage-description = Завантажити мови для офл�
 translations-manage-all-language = Усі мови
 translations-manage-download-button = Завантажити
 translations-manage-delete-button = Видалити
-translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
-translations-manage-install-description = Встановити мови для перекладу офлайн
-translations-manage-language-install-button =
-    .label = Встановити
-translations-manage-language-install-all-button =
-    .label = Встановити всі
-    .accesskey = т
 translations-manage-intro-2 = Налаштуйте параметри мови та перекладу сайтів, а також керуйте мовами, завантаженими для перекладу офлайн.
 translations-manage-download-description = Завантажити мови для офлайн-перекладу
 translations-manage-language-download-button =
@@ -145,7 +138,6 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Вилучити всі
     .accesskey = л
-translations-manage-error-install = Виникла проблема під час встановлення мовних файлів. Спробуйте ще раз.
 translations-manage-error-download = Виникла проблема із завантаженням мовних файлів. Повторіть спробу.
 translations-manage-error-delete = Під час видалення мовних файлів сталася помилка. Повторіть спробу.
 translations-manage-error-remove = Виникла проблема під час вилучення мовних файлів. Спробуйте ще раз.
@@ -249,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Налаштування перекладу
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Переклад завершено
