@@ -420,6 +420,9 @@ support-printing-prefs-value = قدر
 support-remote-settings-title = پروبھریاں ترتیباں
 support-remote-settings-status = حالت
 support-remote-settings-status-ok = ٹھیک ہے
+# Status when synchronization is not working.
+support-remote-settings-status-broken = کم کائنی کریندا پیا
+support-remote-settings-local-timestamp = مقامی ٹائم مہر
 support-remote-settings-sync-history = تاریخ
 support-remote-settings-sync-history-status = حیثیت
 support-remote-settings-sync-history-datetime = تریخ
