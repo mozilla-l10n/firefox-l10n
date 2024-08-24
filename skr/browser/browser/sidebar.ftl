@@ -30,10 +30,18 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-vertical-tabs =
+    .label = عمودی ٹیباں
+sidebar-horizontal-tabs =
+    .label = افقی ٹیباں
 sidebar-customize-tabs-header =
     .label = ٹیب ترتیباں
+sidebar-customize-settings-header =
+    .label = سائیڈ بار ترتیباں
 sidebar-visibility-always-show =
     .label = ہمیشاں ݙکھاؤ
+sidebar-visibility-hide-sidebar =
+    .label = سائیڈ بار لکاؤ
 
 ## Labels for sidebar context menu items
 

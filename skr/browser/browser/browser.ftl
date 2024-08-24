@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
 urlbar-page-action-button =
     .tooltiptext = عملاں دا ورقہ
+urlbar-show-page-actions-button =
+    .tooltiptext = سارے ورقہ عمل ݙکھاؤ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

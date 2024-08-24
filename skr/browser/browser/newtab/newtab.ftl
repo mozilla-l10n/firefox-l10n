@@ -329,10 +329,15 @@ newtab-wallpaper-category-title-abstract = خلاصہ
 newtab-wallpaper-abstract-green = ساویاں شکلاں
 newtab-wallpaper-abstract-blue = نیلیاں شکلاں
 newtab-wallpaper-abstract-purple = جامنی شکلاں
+newtab-wallpaper-abstract-orange = مالٹا شکلاں
+newtab-wallpaper-gradient-orange = میلان نارنجی تے غلابی
+newtab-wallpaper-abstract-blue-purple = نیلے تے جامنی رنگ دیاں شکلاں
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = فوٹو
+newtab-wallpaper-beach-at-sunrise = ݙین٘ہ ابھرݨ ویلے ساحل
+newtab-wallpaper-beach-at-sunset = ݙین٘ہ لہݨ ویلے ساحل
 newtab-wallpaper-white-mountains = چٹی پہاڑیاں
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
