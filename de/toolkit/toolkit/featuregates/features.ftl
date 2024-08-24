@@ -46,16 +46,25 @@ experimental-features-js-warp-description = Warp aktivieren: ein Projekt zur Ver
 experimental-features-ime-search =
     .label = Adressleiste: Ergebnisse während der IME-Komposition anzeigen
 experimental-features-ime-search-description = Ein IME (Input Method Editor) ist ein Werkzeug, mit dem Sie komplexe Symbole, wie sie in ostasiatischen oder indischen Schriftsprachen verwendet werden, über eine Standardtastatur eingeben können. Durch Aktivieren dieses Experiments bleibt die Adressleisten-Ansicht geöffnet, wodurch Suchergebnisse und Vorschläge angezeigt werden, während IME zur Texteingabe verwendet wird. Beachten Sie, dass der IME möglicherweise ein Fenster anzeigt, das die Ergebnisse der Adressleiste verdeckt. Daher wird diese Einstellung nur für IME empfohlen, die diese Art von Fenster nicht verwenden.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Bild-im-Bild: Beim Tab-Wechsel automatisch öffnen
+experimental-features-auto-pip-description = Bild-im-Bild (PiP) für aktive Videos beim Wechseln von Tabs aktivieren
 genai-settings-chat-title =
     .label = KI-Chatbot
 # Updated sidebar settings
 sidebar-title =
     .label = Sidebar
+sidebar-description = Greifen Sie beim Surfen einfach auf Ihre Chronik, Tabs von anderen Geräten, Sidebar-Erweiterungen und mehr zu. <a data-l10n-name="connect">Feedback teilen</a>
 vertical-tabs-title =
     .label = Vertikale Tabs
+vertical-tabs-description = Verschieben Sie Ihre Tabs vom oberen Rand des Browsers an die Seite. Erfordert, dass Sie auch die Sidebar ausprobieren. <a data-l10n-name="connect">Feedback teilen</a>
 experimental-features-group-browsing =
     .label = Surfen
 experimental-features-group-developer-tools =
     .label = Entwicklerwerkzeuge
 experimental-features-group-webpage-display =
     .label = Anzeige von Webseiten
+experimental-features-group-customize-browsing =
+    .label = Passen Sie Ihr Surfen an
+experimental-features-group-customize-browsing-description = Wenn Sie diese Funktionen ausprobieren, <a data-l10n-name="connect">teilen Sie Ihre Meinung auf Connect</a>

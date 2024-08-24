@@ -344,6 +344,7 @@ amo-picker-title = { -brand-short-name } anpassen
 amo-picker-subtitle = Erweiterungen sind wie Apps für Ihren Browser. Mit ihnen können Sie Passwörter schützen, Videos herunterladen, Angebote finden, störende Werbung blockieren, das Erscheinungsbild Ihres Browsers ändern und vieles mehr.
 amo-picker-install-button-label = Zu { -brand-short-name } hinzufügen
 amo-picker-install-complete-label = Installiert
+amo-picker-collection-link = Entdecken Sie weitere Add-ons
 
 ## The following screens have been updated to use security and privacy focused strings:
 
