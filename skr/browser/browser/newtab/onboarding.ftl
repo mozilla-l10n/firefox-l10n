@@ -177,6 +177,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] { -brand-short-name } ڈاک وِچ رہو
        *[other] { -brand-short-name } ٹاسک بار تے پن کرو
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } کوں ٹاسک بار تے پن کرو تے مینیو شروع کرو
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -326,6 +328,7 @@ onboarding-device-migration-primary-button-label = سائن ان
 
 ## Add-ons Picker screen
 
+amo-picker-title = { -brand-short-name } آپݨی من مرضی دا بݨاؤ
 amo-picker-install-button-label = { -brand-short-name } وچ شامل کرو
 amo-picker-install-complete-label = انسٹال تھیا
 

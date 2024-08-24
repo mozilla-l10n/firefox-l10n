@@ -51,6 +51,8 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = بغلی بار
+vertical-tabs-title =
+    .label = عمودی ٹیباں
 experimental-features-group-browsing =
     .label = براؤزنگ
 experimental-features-group-developer-tools =

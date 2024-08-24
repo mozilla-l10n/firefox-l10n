@@ -30,6 +30,13 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } آوزار
+sidebar-customize-firefox-settings = { -brand-short-name } ترتیباں منیج کرو
+sidebar-position-left =
+    .label = کھٻے پاسے ݙکھاؤ
+sidebar-position-right =
+    .label = سڄے پاسے ݙکھاؤ
 sidebar-vertical-tabs =
     .label = عمودی ٹیباں
 sidebar-horizontal-tabs =
@@ -62,9 +69,13 @@ sidebar-menu-synced-tabs-label =
     .label = ٻیاں ڈیوائساں کنوں ٹیباں
 sidebar-menu-bookmarks-label =
     .label = نشانیاں
+sidebar-menu-customize-label =
+    .label = سائیڈ بار مرضی مطابق بݨاؤ
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = سائیڈ بار مرضی مطابق بݨاؤ
 sidebar-menu-history-header =
     .heading = تاریخ
 sidebar-menu-syncedtabs-header =
