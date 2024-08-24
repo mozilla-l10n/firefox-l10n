@@ -545,6 +545,8 @@ urlbar-page-action-button =
     .tooltiptext = 页面操作
 urlbar-revert-button =
     .tooltiptext = 在地址栏中显示网址
+urlbar-show-page-actions-button =
+    .tooltiptext = 显示所有页面操作
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
