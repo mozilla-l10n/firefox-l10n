@@ -549,6 +549,8 @@ urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
     .tooltiptext = Sayfa eylemleri
+urlbar-show-page-actions-button =
+    .tooltiptext = Tüm sayfa eylemlerini göster
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
