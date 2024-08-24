@@ -234,6 +234,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } є частиною
 newtab-pocket-save = Зберегти
 newtab-pocket-saved = Збережено
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Знаходьте найкраще в інтернеті
@@ -295,10 +298,55 @@ newtab-wallpaper-dark-panda = Червона панда, що ховається
 newtab-wallpaper-dark-sky = Міський пейзаж з нічним небом
 newtab-wallpaper-dark-mountain = Гірський краєвид
 newtab-wallpaper-dark-city = Фіолетовий міський пейзаж
+
+## Solid Colors
+
+newtab-wallpaper-blue = Синій
+newtab-wallpaper-light-blue = Блакитний
+newtab-wallpaper-light-purple = Світло-пурпуровий
+newtab-wallpaper-light-green = Світло-зелений
+newtab-wallpaper-green = Зелений
+newtab-wallpaper-beige = Бежевий
+newtab-wallpaper-yellow = Жовтий
+newtab-wallpaper-orange = Помаранчевий
+newtab-wallpaper-pink = Рожевий
+newtab-wallpaper-light-pink = Світло-рожевий
+newtab-wallpaper-red = Червоний
+newtab-wallpaper-dark-blue = Темно-синій
+newtab-wallpaper-dark-green = Темно-зелений
+newtab-wallpaper-brown = Коричневий
+
+## Abstract
+
+newtab-wallpaper-abstract-green = Зелені форми
+newtab-wallpaper-abstract-blue = Сині форми
+newtab-wallpaper-abstract-purple = Фіолетові форми
+newtab-wallpaper-abstract-orange = Помаранчеві форми
+newtab-wallpaper-gradient-orange = Градієнт помаранчевого і рожевого
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Фотографії
+newtab-wallpaper-beach-at-sunrise = Пляж на сході сонця
+newtab-wallpaper-beach-at-sunset = Пляж на заході сонця
+newtab-wallpaper-storm-sky = Грозове небо
+newtab-wallpaper-sky-with-pink-clouds = Небо з рожевими хмарами
+newtab-wallpaper-red-panda-yawns-in-a-tree = Червона панда позіхає на дереві
+newtab-wallpaper-white-mountains = Білі гори
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фото від <a data-l10n-name="name-link">{ $author_string }</a> з <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Спробуйте сплеск кольорів
+newtab-wallpaper-feature-highlight-content = Надайте своїй новій вкладці свіжий вигляд за допомогою шпалер.
+newtab-wallpaper-feature-highlight-button = Зрозуміло
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Відхилити
+    .aria-label = Закрити спливаюче вікно
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
@@ -328,3 +376,29 @@ newtab-weather-menu-hide-weather = Сховати погоду на новій �
 newtab-weather-menu-learn-more = Докладніше
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Дані про погоду зараз недоступні.
+
+## Topic Labels
+
+newtab-topic-label-business = Бізнес
+newtab-topic-label-career = Кар'єра
+newtab-topic-label-education = Навчання
+newtab-topic-label-arts = Розваги
+newtab-topic-label-food = Їжа
+newtab-topic-label-health = Здоров'я
+newtab-topic-label-hobbies = Ігри
+newtab-topic-label-government = Політика
+newtab-topic-label-education-science = Наука
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Корисні поради
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Технології
+newtab-topic-label-travel = Подорожі
+newtab-topic-label-home = Дім і сад
+
+## Topic Selection Modal
+
+newtab-topic-selection-save-button = Зберегти
+newtab-topic-selection-cancel-button = Скасувати
+newtab-topic-selection-button-maybe-later = Можливо, пізніше

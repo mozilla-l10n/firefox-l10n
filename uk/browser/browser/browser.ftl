@@ -641,6 +641,16 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Недавні пошуки
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Не показувати популярні пошукові запити
+    .accesskey = Н
+urlbar-result-menu-trending-why =
+    .label = Чому я це бачу?
+    .accesskey = Ч
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Дякуємо за ваш відгук. Ви більше не бачитимете популярні пошукові запити.
 
 ## Reader View toolbar buttons
 
@@ -991,6 +1001,10 @@ firefox-relay-offer-legal-notice = Натискаючи “Використов�
 popup-notification-addon-install-unsigned =
     .value = (Не перевірено)
 popup-notification-xpinstall-prompt-learn-more = Дізнайтеся більше про безпечне встановлення додатків
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Виконувати в приватних вікнах
+    .accesskey = В
 
 ## Pop-up warning
 
@@ -1026,3 +1040,16 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Показати “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Показати у теці
+    .accessKey = П
