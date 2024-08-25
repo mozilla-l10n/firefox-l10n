@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Nedavna dejavnost
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Priporoča { $provider }
 newtab-section-header-stories = Zgodbe, ki spodbujajo k razmisleku
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Današnji izbor za vas
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -361,6 +363,16 @@ feature-highlight-wallpaper =
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Prikaži napoved v storitvi { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponzorirano
+newtab-weather-menu-change-location = Spremeni lokacijo
+newtab-weather-change-location-search-input = Išči lokacijo
+newtab-weather-menu-weather-display = Prikazovalnik vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -397,3 +409,6 @@ newtab-topic-label-society = Življenjske zvijače
 newtab-topic-label-sports = Šport
 newtab-topic-label-tech = Tehnologija
 newtab-topic-label-travel = Potovanje
+
+## Topic Selection Modal
+

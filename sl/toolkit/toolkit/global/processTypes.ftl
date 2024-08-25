@@ -43,11 +43,13 @@ process-type-rdd = RDD
 process-type-inference = Inferenca
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Igralec IPC v peskovniku
+process-type-utility-actor-audio-decoder-generic = Pripomoček Splošni zvočni dekodirnik
 process-type-utility-actor-audio-decoder-applemedia = Pripomoček AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Pripomoček Windows Media Foundation
 process-type-utility-actor-mf-media-engine = Pripomoček Media Foundation Engine
 process-type-utility-actor-js-oracle = Pripomoček JavaScript Oracle
 process-type-utility-actor-windows-utils = Pripomoček Windows Utils
+process-type-utility-actor-windows-file-dialog = Pripomoček Pogovorno okno Windows za datoteke
 
 ##
 ## Other
