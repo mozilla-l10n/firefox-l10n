@@ -414,6 +414,20 @@ newtab-topic-label-education-science = Nauka
 newtab-topic-label-society = Porady
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Technologia
+newtab-topic-label-travel = Podróże
+newtab-topic-label-home = Dom i ogród
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Dostosuj treści dla siebie, wybierając tematy
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Wybierz minimum dwa tematy. Nasi eksperci wybierają artykuły pasujące do Twoich zainteresowań. Swój wybór możesz zmienić w dowolnej chwili.
+newtab-topic-selection-save-button = Zachowaj
+newtab-topic-selection-cancel-button = Anuluj
+newtab-topic-selection-button-maybe-later = Może później
+newtab-topic-selection-privacy-link = Dowiedz się, jak chronimy i zarządzamy danymi
+newtab-topic-selection-button-update-interests = Zaktualizuj swoje zainteresowania
+newtab-topic-selection-button-pick-interests = Wybierz swoje zainteresowania
