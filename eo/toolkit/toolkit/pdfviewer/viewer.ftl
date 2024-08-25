@@ -298,8 +298,6 @@ pdfjs-editor-stamp-button-label = Aldoni aŭ modifi bildojn
 pdfjs-editor-highlight-button =
     .title = Elstarigi
 pdfjs-editor-highlight-button-label = Elstarigi
-pdfjs-highlight-floating-button =
-    .title = Elstarigi
 pdfjs-highlight-floating-button1 =
     .title = Elstarigi
     .aria-label = Elstarigi
@@ -394,3 +392,16 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Montri ĉiujn
 pdfjs-editor-highlight-show-all-button =
     .title = Montri ĉiujn
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Modifi alternativan tekston (priskribo de bildo)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Aldoni alternativan tekston (priskribo de bildo)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Skribu vian priskribon ĉi tie…
+
+## Image alt-text settings
+
