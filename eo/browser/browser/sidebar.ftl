@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = A.I. dialoganto
 
 ## Labels for sidebar history panel
 
@@ -31,12 +33,51 @@ sidebar-search-results-header =
 sidebar-customize-extensions-header = Etendaĵoj por la flanka strio
 sidebar-customize-firefox-tools-header =
     .label = Iloj de { -brand-product-name }
+sidebar-customize-firefox-settings = Administri agordojn de { -brand-short-name }
+sidebar-position-left =
+    .label = Montri maldekstre
+sidebar-position-right =
+    .label = Montri dekstre
+sidebar-vertical-tabs =
+    .label = Vertikalaj langetoj
+sidebar-horizontal-tabs =
+    .label = Horizontalaj langetoj
+sidebar-customize-tabs-header =
+    .label = Agordoj de langetoj
+sidebar-customize-settings-header =
+    .label = Agordoj de la flanka strio
+sidebar-visibility-always-show =
+    .label = Ĉiam montri
+sidebar-visibility-hide-sidebar =
+    .label = Kaŝi flankan strion
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Administri etendaĵon
+sidebar-context-menu-remove-extension =
+    .label = Forigi etendaĵon
+sidebar-context-menu-report-extension =
+    .label = Denunci etendaĵon
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = A.I. dialoganto
+sidebar-menu-history-label =
+    .label = Historio
+sidebar-menu-synced-tabs-label =
+    .label = Langetoj el aliaj aparatoj
+sidebar-menu-bookmarks-label =
+    .label = Legosignoj
+sidebar-menu-customize-label =
+    .label = Personecigi la flankan strion
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personecigi la flankan strion
+sidebar-menu-history-header =
+    .heading = Historio
+sidebar-menu-syncedtabs-header =
+    .heading = Langetoj el aliaj aparatoj
