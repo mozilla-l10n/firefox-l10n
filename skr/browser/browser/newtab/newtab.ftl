@@ -394,6 +394,7 @@ newtab-topic-label-hobbies = کھیݙݨ
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = رقم
+newtab-topic-label-society-parenting = پرورش کرݨ
 newtab-topic-label-government = سیاست
 newtab-topic-label-education-science = سائنس
 newtab-topic-label-sports = کھیݙاں
@@ -405,3 +406,5 @@ newtab-topic-label-home = گھر تے باغ
 newtab-topic-selection-save-button = محفوظ
 newtab-topic-selection-cancel-button = منسوخ
 newtab-topic-selection-button-maybe-later = شاید بعد وچ
+newtab-topic-selection-button-update-interests = آپݨیاں دلچسپیاں اپ ڈیٹ کرو
+newtab-topic-selection-button-pick-interests = آپݨیاں دلچسپیاں چݨو

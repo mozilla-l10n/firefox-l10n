@@ -30,6 +30,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = سائیڈ بار ایکسٹنشناں
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } آوزار
 sidebar-customize-firefox-settings = { -brand-short-name } ترتیباں منیج کرو

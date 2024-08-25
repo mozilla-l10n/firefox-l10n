@@ -422,6 +422,7 @@ support-remote-settings-status = حالت
 support-remote-settings-status-ok = ٹھیک ہے
 # Status when synchronization is not working.
 support-remote-settings-status-broken = کم کائنی کریندا پیا
+support-remote-settings-last-check = چھیکڑی پڑتال
 support-remote-settings-local-timestamp = مقامی ٹائم مہر
 support-remote-settings-sync-history = تاریخ
 support-remote-settings-sync-history-status = حیثیت
