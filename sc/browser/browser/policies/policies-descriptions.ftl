@@ -116,6 +116,7 @@ policy-Permissions2 = Cunfigura is permissos pro càmera, micròfonu, positzione
 policy-PictureInPicture = Ativa o disativa Immàgine-subra-immàgine
 policy-PopupBlocking = Permite a tzertos sitos de ammustrare ventanas a cumparsa in manera predefinida.
 policy-Preferences = Cunfigura e bloca is valores pro una parte de is preferèntzias.
+policy-PrivateBrowsingModeAvailability = Cunfigura sa disponibilidade de sa modalidade Navigatzione anònima.
 policy-PromptForDownloadLocation = Pregunta in ue sarvare is archìvios de iscarrigare.
 policy-Proxy = Cunfiguratzione de serbidore intermediàriu.
 policy-RequestedLocales = Cunfigura sa lista de locales bòlidos pro s'aplicatzione in òrdine de preferèntzia.
