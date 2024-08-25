@@ -59,12 +59,14 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non s�
 neterror-dns-not-found-trr-only-timeout = Sa connessione a { $trrDomain } at bòlidu prus tempus de cussu abetadu.
 neterror-dns-not-found-trr-offline = Nissuna connessione a internet.
 neterror-dns-not-found-trr-server-problem = Faddina cun { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = URL non vàlidu.
 neterror-dns-not-found-trr-unknown-problem = Faddina disabetada.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non s’est pòdidu connètere a { $trrDomain }.
 
 ##
 
@@ -125,3 +127,4 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si ses in una 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = De acordu cun su rellògiu de s’elaboradore tuo, sa data e s'ora atuales sunt: { DATETIME($now, dateStyle: "medium") }. Assegura·ti chi s’elaboradore tuo tèngiat sa data, s’ora e sa zona orària curretas in is cunfiguratziones de su sistema. Pustis atualiza <b>{ $hostname }</b>.
+certerror-mitm-what-can-you-do-about-it-corporate = Si ses in una rete aziendale, podes cuntatare su servìtziu informàticu.
