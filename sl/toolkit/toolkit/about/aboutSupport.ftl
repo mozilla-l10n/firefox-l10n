@@ -195,7 +195,14 @@ media-codec-support-lack-of-extension = Namesti razširitev
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Podatki o modulih za dešifriranje vsebine
+media-key-system-name = Ime sistema ključev
+media-video-robustness = Robustnost videa
+media-audio-robustness = Robustnost zvoka
 media-cdm-capabilities = Zmogljivosti
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Čisti uvod
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = Združljiv s HDCP 2.2
@@ -288,6 +295,7 @@ try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodob
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
 compositing = Sestavljanje
+support-font-determination = Podatki za razvijalce o vidljivosti pisave
 hardware-h264 = Strojno dekodiranje H264
 main-thread-no-omtc = glavna nit, brez OMTC
 yes = Da
@@ -349,6 +357,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtriranje sistemskih klicev)
 has-seccomp-tsync = Sinhronizacija niti Seccomp
 has-user-namespaces = Uporabniški imenski prostori
 has-privileged-user-namespaces = Uporabniški imenski prostori za privilegirane procese
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — te možnosti vaš sistem ne dovoljuje. To lahko omeji varnostne zmogljivosti { -brand-short-name(sklon: "rodilnik") }.
 can-sandbox-content = Peskovnik vsebinskih procesov
 can-sandbox-media = Peskovnik večpredstavnih vtičnikov
 content-sandbox-level = Raven peskovnika vsebinskih opravil
