@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Alpingli { -brand-short-name } al la taska ilaro
        *[other] Alpingli { -brand-short-name } al via Dock
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Alpingli { -brand-short-name } al la taska ilaro kaj al la menu Komenci
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -334,6 +336,14 @@ onboarding-device-migration-title = Bonvenon denove!
 onboarding-device-migration-subtitle = Komencu seancon en  via { -fxaccount-brand-name(capitalization: "sentence") } por alporti viajn legosignojn, pasvortojn kaj historion al vi, en tiu ĉi nova aparato.
 onboarding-device-migration-subtitle2 = Komencu seancon en via konto por porti viajn legosignojn, pasvortojn kaj historion al via nova aparato.
 onboarding-device-migration-primary-button-label = Komenci seanconKomenci seancon
+
+## Add-ons Picker screen
+
+amo-picker-title = Personecigu vian { -brand-short-name }
+amo-picker-subtitle = Etendaĵoj estas kvazaŭ apoj por via retumilo kaj ili permesas al vi protekti pasvortojn, elŝuti filmetojn, trovi bonajn ofertojn, bloki ĝenajn reklamojn, ŝanĝi la aspekton de via retumilo kaj multajn aliajn aferojn.
+amo-picker-install-button-label = Aldoni al { -brand-short-name }
+amo-picker-install-complete-label = Instalita
+amo-picker-collection-link = Esplori pli da aldonaĵoj
 
 ## The following screens have been updated to use security and privacy focused strings:
 

@@ -1042,6 +1042,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Ne eblis malfermi la dosieran dialogon de Windows. Neniu dosierujo aŭ dosiero estis elektita.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Ne eblis malfermi la dosieran dialogon de Windows. La dosiero estos konservita en { $path }.
+file-picker-failed-save-nowhere = Ne eblis malfermi la dosieran dialogon de Windows. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
+file-picker-crashed-open = La dosiera dialogo de Windows paneis. Neniu dosierujo aŭ dosiero estis elektita.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = La dosiera dialogo de Windows paneis. La dosiero estos konservita en { $path }.
+file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu dosierujo aŭ dosiero estis elektita.. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1049,3 +1057,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Montri en dosierujo
+    .accessKey = d
