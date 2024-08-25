@@ -27,6 +27,7 @@ neterror-try-again-button = Torra a nche proare
 neterror-add-exception-button = Sighi semper pro custu situ
 neterror-settings-button = Modìfica is cunfiguratziones de DNS
 neterror-view-certificate-link = Ammustra su tzertificadu
+neterror-trr-continue-this-time = Sighi custa borta
 neterror-disable-native-feedback-warning = Sighi semper
 
 ##
