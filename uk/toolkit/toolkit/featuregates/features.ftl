@@ -49,3 +49,7 @@ experimental-features-ime-search-description = IME (редактор метод�
 # Updated sidebar settings
 sidebar-title =
     .label = Бічна панель
+vertical-tabs-title =
+    .label = Вертикальні вкладки
+experimental-features-group-developer-tools =
+    .label = Інструменти розробника

@@ -420,6 +420,14 @@ support-printing-modified-settings = Змінені налаштування д�
 support-printing-prefs-name = Назва
 support-printing-prefs-value = Значення
 
+## Remote Settings sections
+
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Не працює
+support-remote-settings-last-check = Остання перевірка
+support-remote-settings-sync-history = Історія
+support-remote-settings-sync-history-infos = Відомості
+
 ## Normandy sections
 
 support-remote-experiments-title = Віддалені експерименти

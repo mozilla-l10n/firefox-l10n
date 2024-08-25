@@ -92,6 +92,7 @@ contentEncodingError-title = Помилка кодування вмісту
 unsafeContentType-title = Небезпечний тип файлу
 netReset-title = З'єднання скинуто
 netTimeout-title = Перевищено термін очікування з'єднання
+serverError-title = Схоже, на цьому сайті виникла проблема
 unknownProtocolFound-title = Незрозуміла адреса
 proxyConnectFailure-title = Проксі-сервер відмовляється приймати з'єднання
 proxyResolveFailure-title = Неможливо знайти проксі-сервер
