@@ -14,3 +14,8 @@ elevation-finished-background-page =
     elŝutita kaj ĝi pretas esti instalita.
 elevation-finished-background = Ĝisdatigo:
 elevation-more-elevated = Tiu ĉi ĝisdatigo postulas administrajn rajtojn. Kiam { -brand-short-name } startos denove, la ĝisdatigo esos instalita. Vi povas restartigi { -brand-short-name } nun, aŭ plu retumi kaj restartigi poste, aŭ rifuzi tiun ĉi ĝisdatigon.
+sandbox-missing-unprivileged-namespaces = Kelkaj sekurecaj trajtoj de { -brand-short-name } povus protekti vin malpli en via nuna mastruma sistemo.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Ne montri denove
+    .accesskey = N
+sandbox-unprivileged-namespaces-howtofix = Solvi tiun ĉi problemon
