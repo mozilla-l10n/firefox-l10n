@@ -381,6 +381,10 @@ newtab-weather-menu-change-weather-display-simple = Preklopi na preprost pogled
 newtab-weather-menu-weather-display-option-detailed = Podrobno
 newtab-weather-menu-change-weather-display-detailed = Preklopi na podroben pogled
 newtab-weather-menu-temperature-units = Enote za temperaturo
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celzij
+newtab-weather-menu-change-temperature-units-fahrenheit = Preklopi na stopinje Fahrenheita
+newtab-weather-menu-change-temperature-units-celsius = Preklopi na stopinje Celzija
 newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
 # This message is shown if user is working offline
@@ -409,6 +413,13 @@ newtab-topic-label-society = Življenjske zvijače
 newtab-topic-label-sports = Šport
 newtab-topic-label-tech = Tehnologija
 newtab-topic-label-travel = Potovanje
+newtab-topic-label-home = Dom in vrt
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Shrani
+newtab-topic-selection-cancel-button = Prekliči
+newtab-topic-selection-button-maybe-later = Morda pozneje
+newtab-topic-selection-privacy-link = Kako ščitimo in upravljamo podatke
+newtab-topic-selection-button-update-interests = Posodobite svoja zanimanja
+newtab-topic-selection-button-pick-interests = Izberite svoja zanimanja

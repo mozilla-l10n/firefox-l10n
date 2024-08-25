@@ -610,6 +610,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Nasveti in novice od { -vendor-short-name(sklon: "rodilnik") } in { -brand-product-name(sklon: "rodilnik") }
 home-prefs-weather-header =
     .label = Vreme
+home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1306,6 +1307,7 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Nastavitve oglaševanja spletnih mest
+website-advertising-private-attribution-description = To spletnim mestom pomaga razumeti učinkovitost njihovih oglasov, ne da bi zbirali podatke o vas.
 
 ## Privacy Section - Security
 ##
@@ -1350,13 +1352,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") 
 
 httpsonly-header = Način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.
+httpsonly-description2 = { -brand-short-name } ustvarja varne in šifrirane povezave na spletna mesta, ki jih obiščete. { -brand-short-name } vas bo opozoril, če povezava ni varna, ko je vklopljen HTTPS-Only.
 httpsonly-learn-more = Več o tem
 httpsonly-radio-enabled =
     .label = Omogoči način "samo HTTPS" v vseh oknih
+httpsonly-radio-enabled2 =
+    .label = Uporabljaj samo HTTPS v vseh oknih
 httpsonly-radio-enabled-pbm =
     .label = Omogoči način "samo HTTPS" samo v zasebnih oknih
+httpsonly-radio-enabled-pbm2 =
+    .label = Uporabljaj samo HTTPS v zasebnih oknih
 httpsonly-radio-disabled =
     .label = Ne omogoči načina "samo HTTPS"
+httpsonly-radio-disabled2 =
+    .label = Najprej preizkusite HTTPS, vendar dovolite povezave, ki niso varne
 
 ## DoH Section
 

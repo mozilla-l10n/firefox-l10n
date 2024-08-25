@@ -58,10 +58,14 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
 shopping-message-bar-analysis-in-progress-title2 = Preverjanje kakovosti mnenj
 shopping-message-bar-analysis-in-progress-message2 = To lahko traja približno 60 sekund.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Preverjanje kakovosti mnenj ({ $percentage } %)
 shopping-message-bar-page-not-supported =
     .heading = Teh mnenj ne moremo preveriti
     .message = Za nekatere vrste izdelkov žal ne moremo preveriti kakovosti mnenj. Na primer za darilne kartice ter pretočne videe, glasbo in igre.
 shopping-message-bar-keep-closed-dismiss-button = Ne, hvala
+shopping-message-bar-keep-closed-accept-button = Da, pusti zaprto
 
 ## Strings for the product review snippets card
 
@@ -86,6 +90,13 @@ shopping-settings-recommendations-toggle =
     .label = Prikaži oglase v pregledovalniku mnenj
 shopping-settings-opt-out-button = Izklopi pregledovalnik mnenj
 powered-by-fakespot = Pregledovalnik mnenj uporablja tehnologijo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Samodejno odpri pregledovalnik mnenj
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Med ogledom izdelkov na { $currentSite }
+shopping-settings-sidebar-enabled-state = Pregledovalnik mnenj je <strong>Vključen</strong>
 
 ## Strings for the adjusted rating component
 
@@ -94,6 +105,7 @@ powered-by-fakespot = Pregledovalnik mnenj uporablja tehnologijo <a data-l10n-na
 shopping-adjusted-rating-label =
     .label = Prilagojena ocena
 shopping-adjusted-rating-unreliable-reviews = Nezanesljiva mnenja odstranjena
+shopping-adjusted-rating-based-reliable-reviews = Temelji na zanesljivih mnenjih
 
 ## Strings for the review reliability component
 
@@ -107,10 +119,13 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Za preverjanje zanesljivosti mnenj o izdelkih uporabljamo tehnologijo umetne inteligence podjetja { -fakespot-brand-full-name }. To vam bo pomagalo oceniti zgolj kakovost mnenja, ne pa tudi izdelka.
 shopping-analysis-explainer-grades-intro = Vsako mnenje o izdelku ocenimo s <strong>črkovno oceno</strong> od A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Prilagojena ocena</strong> temelji samo na mnenjih, za katere menimo, da so zanesljiva.
+shopping-analysis-explainer-learn-more2 = Spoznajte več o tem, <a data-l10n-name="review-quality-url">kako { -fakespot-brand-name } določa kakovost mnenj</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Poudarki</strong> so vzeti iz mnenj v zadnjih 80. dneh, za katera menimo, da so zanesljiva.
 shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so jih napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
@@ -167,10 +182,16 @@ shopping-callout-pdp-opted-in-title = Hitro ugotovite, ali so ta mnenja zaneslji
 shopping-callout-pdp-opted-in-subtitle = Odprite pregledovalnik mnenj in si oglejte prilagojeno oceno, iz katere so odstranjena nezanesljiva mnenja. Poleg tega si oglejte poudarke iz nedavnih verodostojnih mnenj.
 shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
 shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup, pridobite vpogled v mnenja resničnih kupcev.
+shopping-callout-closed-not-opted-in-revised-title = En klik do zanesljivih mnenj
 shopping-callout-closed-not-opted-in-revised-button = Razumem
+shopping-callout-not-opted-in-reminder-title = Nakupujte z zaupanjem
+shopping-callout-not-opted-in-reminder-open-button = Odpri pregledovalnik mnenj
 shopping-callout-not-opted-in-reminder-close-button = Opusti
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj več
+shopping-callout-disabled-auto-open-title = Pregledovalnik mnenj je zdaj privzeto zaprto
 shopping-callout-disabled-auto-open-button = Razumem
+shopping-callout-opted-out-title = Pregledovalnik mnenj je izključen
+shopping-callout-opted-out-subtitle = Če ga želite znova vključiti, kliknite ikono cene v vrstici z naslovom in sledite navodilom.
 shopping-callout-opted-out-button = Razumem
 
 ## Onboarding message strings.

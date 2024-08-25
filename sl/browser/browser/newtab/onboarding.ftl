@@ -337,6 +337,14 @@ onboarding-device-migration-subtitle = Prijavite se v { -fxaccount-brand-name(ca
 onboarding-device-migration-subtitle2 = Prijavite se v svoj račun in si prenesite zaznamke, gesla in zgodovino na novi računalnik.
 onboarding-device-migration-primary-button-label = Prijava
 
+## Add-ons Picker screen
+
+amo-picker-title = Prilagodi svoj { -brand-short-name }
+amo-picker-subtitle = Razširitve so kot aplikacije za vaš brskalnik, ki vam omogočajo zaščito gesel, prenos videoposnetkov, iskanje ponudb, zavračanje nadležnih oglasov, spreminjanje videza brskalnika in še veliko več.
+amo-picker-install-button-label = Dodaj v { -brand-short-name }
+amo-picker-install-complete-label = Nameščen
+amo-picker-collection-link = Raziščite več dodatkov
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
