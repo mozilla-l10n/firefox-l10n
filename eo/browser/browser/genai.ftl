@@ -27,6 +27,36 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumi
+    .value = Bonvolu resumi la elektitaĵon precize kaj koncize. Uzu kaptitolojn kaj listojn en la resumo, tiel ke ĝi estos skanebla. Gardu la signifon kaj precizecon pri faktoj.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simpligi tekston
+    .value = Bonvolu skribi denove la elektitaĵon per mallongaj frazoj kaj simplaj vortoj. Gardu la signifon kaj precizecon pri faktoj.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Taksi mian konon
+    .value = Bonvolu taksi mian konon pri la elektitaĵo per demandaro, ekzemple plurelekta, vera aŭ malvera, kaj kun mallonga respondo. Atendu mian respondon antaŭ ol demandi ion novan.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Klarigi tion ĉi
+    .value = Bonvolu klarigi la ĉefajn nociojn en la elektitaĵo, pero simplaj vortoj. Kaj uzu ekzemplojn.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Mi estas en la paĝo “{ $tabTitle }” kun “{ $selection }” elektita.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Demandi al dialoganto A.I.
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Demandi al { $provider }
+genai-input-ask-generic =
+    .placeholder = Demandi al dialoganto A.I. …
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Demandi al { $provider }…
