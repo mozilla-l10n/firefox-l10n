@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Iri al la adreso en la retadresa strio
 urlbar-page-action-button =
     .tooltiptext = Retpaĝaj agoj
+urlbar-revert-button =
+    .tooltiptext = Montri adreson en la retadresa strio
+urlbar-show-page-actions-button =
+    .tooltiptext = Montri ĉiujn paĝajn agojn
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -642,6 +646,16 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populara en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ne montri popularajn serĉojn
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Kial mi vidas tion ĉi?
+    .accesskey = K
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Dankon pro viaj komentoj. Vi ne plu vidos popularajn serĉojn.
 
 ## Reader View toolbar buttons
 
@@ -992,6 +1006,10 @@ firefox-relay-offer-legal-notice = Se vi alklakas "Uzi retpoŝtan maskon" vi akc
 popup-notification-addon-install-unsigned =
     .value = (Nekontrolita)
 popup-notification-xpinstall-prompt-learn-more = Pli da informo pri sekura instalo de aldonaĵoj
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Lanĉi en privataj fenestroj
+    .accesskey = p
 
 ## Pop-up warning
 
