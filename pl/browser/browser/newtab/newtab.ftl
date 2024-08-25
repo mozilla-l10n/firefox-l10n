@@ -199,6 +199,8 @@ newtab-section-header-recent-activity = Ostatnia aktywność
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Polecane przez { $provider }
 newtab-section-header-stories = Artykuły skłaniające do myślenia
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Dzisiejsze artykuły dla Ciebie
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -389,3 +391,29 @@ newtab-weather-menu-hide-weather = Ukryj pogodę na stronie nowej karty
 newtab-weather-menu-learn-more = Więcej informacji
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Informacje o pogodzie nie są w tej chwili dostępne.
+
+## Topic Labels
+
+newtab-topic-label-business = Biznes
+newtab-topic-label-career = Praca
+newtab-topic-label-education = Edukacja
+newtab-topic-label-arts = Rozrywka
+newtab-topic-label-food = Jedzenie
+newtab-topic-label-health = Zdrowie
+newtab-topic-label-hobbies = Gry
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Finanse
+newtab-topic-label-society-parenting = Rodzicielstwo
+newtab-topic-label-government = Polityka
+newtab-topic-label-education-science = Nauka
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Porady
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Technologia
+
+## Topic Selection Modal
+
