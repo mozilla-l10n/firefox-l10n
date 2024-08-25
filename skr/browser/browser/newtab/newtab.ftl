@@ -344,6 +344,8 @@ newtab-wallpaper-category-title-photographs = فوٹو
 newtab-wallpaper-beach-at-sunrise = ݙین٘ہ ابھرݨ ویلے ساحل
 newtab-wallpaper-beach-at-sunset = ݙین٘ہ لہݨ ویلے ساحل
 newtab-wallpaper-storm-sky = طوفانی آسمان
+newtab-wallpaper-sky-with-pink-clouds = اسمان غلابی بدلاں نال
+newtab-wallpaper-red-panda-yawns-in-a-tree = لال پانڈا ہک درخت تے اُٻاسی گھندے
 newtab-wallpaper-white-mountains = چٹی پہاڑیاں
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -365,6 +367,9 @@ feature-highlight-wallpaper =
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
     .title = { $provider } وچ پیش گوئی ݙیکھو
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙سپانسر تھیا
 newtab-weather-menu-change-location = مقام وٹاؤ
 newtab-weather-change-location-search-input = مقام ڳولو
 # Display options are:
@@ -381,6 +386,7 @@ newtab-weather-menu-learn-more = ٻیا سِکھو
 newtab-topic-label-business = کاروبار
 newtab-topic-label-career = روزگار تے کم
 newtab-topic-label-education = تعلیم
+newtab-topic-label-arts = تفریح
 newtab-topic-label-food = کھاݨا
 newtab-topic-label-health = صحت
 newtab-topic-label-hobbies = کھیݙݨ
