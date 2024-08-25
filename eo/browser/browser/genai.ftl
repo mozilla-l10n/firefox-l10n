@@ -10,6 +10,10 @@ genai-settings-chat-choose = Elekti dialoganton
 genai-settings-chat-choose-one-menuitem =
     .label = Elekti unu
 genai-settings-chat-links = Kiam vi elektas dialoganton vi akceptas la kondiĉojn de uzo kaj la politikon pri privateco de ĝia provizanto.
+genai-settings-chat-chatgpt-links = Se vi elektas ChatGPT vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo</a> kaj <a data-l10n-name="link2">politikon pri privateco</a> de OpenAI.
+genai-settings-chat-claude-links = Se vi elektas Anthropic Claude vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo</a>, <a data-l10n-name="link2">politikon de uzo</a>, kaj <a data-l10n-name="link3">politikon pri privateco</a> de Anthropic.
+genai-settings-chat-copilot-links = Se vi elektas Copilot vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo de Copilot AI Experiences</a> kaj <a data-l10n-name="link2">deklaron pri privateco de Microsoft</a>.
+genai-settings-chat-gemini-links = Se vi elektas Google Gemini vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo de Google</a>, <a data-l10n-name="link2">politikon pri malpermesitaj uzoj de produkta AI</a> kaj <a data-l10n-name="link3">rimarkon pri privateco de Gemini Apps</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
