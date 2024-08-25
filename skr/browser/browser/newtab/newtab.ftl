@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = حالیہ سرگرمی
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 newtab-section-header-stories = فکر انگیز کہاݨیاں
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = تہاݙے کیتے اڄ دیاں چوݨاں
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -236,6 +238,9 @@ newtab-pocket-saved = محفوظ تھیا
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = ایہو جیہے ٻئے
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = میݙے کیتے کائنی
@@ -338,6 +343,7 @@ newtab-wallpaper-abstract-blue-purple = نیلے تے جامنی رنگ دیاں
 newtab-wallpaper-category-title-photographs = فوٹو
 newtab-wallpaper-beach-at-sunrise = ݙین٘ہ ابھرݨ ویلے ساحل
 newtab-wallpaper-beach-at-sunset = ݙین٘ہ لہݨ ویلے ساحل
+newtab-wallpaper-storm-sky = طوفانی آسمان
 newtab-wallpaper-white-mountains = چٹی پہاڑیاں
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -386,8 +392,10 @@ newtab-topic-label-government = سیاست
 newtab-topic-label-education-science = سائنس
 newtab-topic-label-sports = کھیݙاں
 newtab-topic-label-tech = ٹیکنالوجی
+newtab-topic-label-home = گھر تے باغ
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = محفوظ
 newtab-topic-selection-cancel-button = منسوخ
+newtab-topic-selection-button-maybe-later = شاید بعد وچ
