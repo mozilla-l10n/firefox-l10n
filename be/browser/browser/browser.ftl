@@ -554,6 +554,10 @@ urlbar-go-button =
     .tooltiptext = Пайсці па адрасе, які зараз у адрасным радку
 urlbar-page-action-button =
     .tooltiptext = Дзеянні старонкі
+urlbar-revert-button =
+    .tooltiptext = Паказаць адрас у адрасным радку
+urlbar-show-page-actions-button =
+    .tooltiptext = Паказаць усе дзеянні старонкі
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
