@@ -35,7 +35,7 @@ about-processes-privilegedmozilla-process = Spletna mesta { -vendor-short-name(s
 about-processes-gmp-plugin-process = Geckovi predstavnostni vtičniki ({ $pid })
 about-processes-gpu-process = GPE ({ $pid })
 about-processes-vr-process = VR ({ $pid })
-about-processes-rdd-process = Dekoder podatkov ({ $pid })
+about-processes-rdd-process = Dekodirnik podatkov ({ $pid })
 about-processes-socket-process = Omrežje ({ $pid })
 about-processes-preallocated-process = Vnaprej dodeljeno ({ $pid })
 # Unknown process names

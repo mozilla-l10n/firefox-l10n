@@ -7,8 +7,25 @@ contentanalysis-alert-title = Analiza vsebine
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Orodje za analizo vsebine potrebuje veliko časa za odgovor na vir "{ $content }"
 contentanalysis-slow-agent-dialog-header = Pregledovanje v teku
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } pregleduje, ali je “{ $filename }” skladen s pravilniki vaše organizacije. To lahko traja nekaj časa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } pregleduje, ali je prilepljena vsebina skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } pregleduje, ali je izbrisano besedilo skladno s pravilniki vaše organizacije. To lahko traja nekaj časa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } pregleduje, ali je natisnjena vsebina skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
 contentanalysis-operationtype-clipboard = odložišče
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
+contentanalysis-operationtype-print = natisni
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = naloži { $filename }
 contentanalysis-warndialogtitle = Ta vsebina morda ni varna
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -23,6 +40,14 @@ contentanalysis-genericresponse-message = Analiza vsebine je na vir { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Vaša organizacija uporablja programsko opremo za preprečevanje izgube podatkov, ki je blokirala to vsebino: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Pri komunikaciji z { $agent } je prišlo do napake. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Povezava z { $agent } ni mogoča. { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
