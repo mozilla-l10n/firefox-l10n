@@ -547,6 +547,8 @@ urlbar-go-button =
     .tooltiptext = Gå til adressa i adresselinja
 urlbar-page-action-button =
     .tooltiptext = Sidehandlingar
+urlbar-revert-button =
+    .tooltiptext = Vis adressa i adresselinja
 urlbar-show-page-actions-button =
     .tooltiptext = Vis alle sidehandlingar
 
