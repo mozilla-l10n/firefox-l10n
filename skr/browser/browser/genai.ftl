@@ -18,9 +18,13 @@ genai-settings-chat-choose-one-menuitem =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = اے آئی چیٹ بوٹ کنوں پچھو
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } کنوں پچھو
+genai-input-ask-generic =
+    .placeholder = اے آئی چیٹ بوٹ کنوں پچھو۔۔۔
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } کنوں پچھو ۔۔۔

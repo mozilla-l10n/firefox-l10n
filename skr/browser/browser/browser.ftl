@@ -642,6 +642,15 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = حالیہ ڳولاں
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } تے ٹرینڈنگ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ٹرینڈنگ ڳولاں نہ ݙکھاؤ
+    .accesskey = D
 urlbar-result-menu-trending-why =
     .label = میں ایہ کیوں ݙیہدا پیاں؟
     .accesskey = W
