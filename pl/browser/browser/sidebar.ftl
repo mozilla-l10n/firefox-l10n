@@ -44,12 +44,36 @@ sidebar-customize-tabs-header =
     .label = Ustawienia kart
 sidebar-customize-settings-header =
     .label = Ustawienia panelu bocznego
+sidebar-visibility-always-show =
+    .label = Zawsze wyświetlaj
+sidebar-visibility-hide-sidebar =
+    .label = Ukryj panel boczny
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Zarządzaj rozszerzeniem
+sidebar-context-menu-remove-extension =
+    .label = Usuń rozszerzenie
+sidebar-context-menu-report-extension =
+    .label = Zgłoś rozszerzenie
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = Historia
+sidebar-menu-synced-tabs-label =
+    .label = Karty z innych urządzeń
+sidebar-menu-bookmarks-label =
+    .label = Zakładki
+sidebar-menu-customize-label =
+    .label = Dostosuj panel boczny
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Dostosuj panel boczny
+sidebar-menu-history-header =
+    .heading = Historia
+sidebar-menu-syncedtabs-header =
+    .heading = Karty z innych urządzeń
