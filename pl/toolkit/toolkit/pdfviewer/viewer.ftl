@@ -404,6 +404,42 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Edytuj tekst alternatywny (opis ob
 pdfjs-editor-new-alt-text-dialog-add-label = Dodaj tekst alternatywny (opis obrazu)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Napisz tutaj opis…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Krótki opis dla osób, które nie widzą obrazu lub kiedy obraz się nie wczytuje.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Ten tekst alternatywny został utworzony automatycznie i może być niepoprawny.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Więcej informacji
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automatycznie utwórz tekst alternatywny
+pdfjs-editor-new-alt-text-not-now-button = Nie teraz
+pdfjs-editor-new-alt-text-error-title = Nie można automatycznie utworzyć tekstu alternatywnego
+pdfjs-editor-new-alt-text-error-description = Proszę napisać własny tekst alternatywny lub spróbować ponownie później.
+pdfjs-editor-new-alt-text-error-close-button = Zamknij
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Pobieranie modelu SI tekstu alternatywnego ({ $downloadedSize } z { $totalSize } MB)
+    .aria-valuetext = Pobieranie modelu SI tekstu alternatywnego ({ $downloadedSize } z { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Dodano tekst alternatywny
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Brak tekstu alternatywnego
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Przejrzyj tekst alternatywny
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Utworzono automatycznie: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Ustawienia tekstu alternatywnego obrazów
+pdfjs-image-alt-text-settings-button-label = Ustawienia tekstu alternatywnego obrazów
+pdfjs-editor-alt-text-settings-dialog-label = Ustawienia tekstu alternatywnego obrazów
+pdfjs-editor-alt-text-settings-automatic-title = Automatyczny tekst alternatywny
+pdfjs-editor-alt-text-settings-create-model-button-label = Automatyczne tworzenie tekstu alternatywnego
+pdfjs-editor-alt-text-settings-create-model-description = Podpowiada opisy, które mogą pomóc osobom, które nie widzą obrazu lub kiedy obraz się nie wczytuje.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model SI tekstu alternatywnego ({ $totalSize } MB)
