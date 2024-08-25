@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
+urlbar-revert-button =
+    .tooltiptext = Birta vistfangið í staðsetningarstikunni
+urlbar-show-page-actions-button =
+    .tooltiptext = Sýna allar síðuaðgerðir
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

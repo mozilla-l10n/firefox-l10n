@@ -422,6 +422,9 @@ newtab-topic-label-home = Heimili & garðar
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Veldu efni til að fínstilla streymið þitt
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Veldu tvö eða fleiri viðfangsefni. Sérfróðir ritstjórar okkar setja sögur sem eru sérsniðnar að þínum áhugamálum í forgang. Uppfærðu hvenær sem er.
 newtab-topic-selection-save-button = Vista
 newtab-topic-selection-cancel-button = Hætta við
 newtab-topic-selection-button-maybe-later = Kannski seinna

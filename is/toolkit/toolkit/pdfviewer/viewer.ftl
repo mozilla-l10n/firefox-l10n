@@ -441,7 +441,11 @@ pdfjs-editor-alt-text-settings-create-model-description = Stingur upp á lýsing
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Gervigreindarlíkan alt-myndatexta ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Keyrir staðbundið á tækinu þínu svo gögnin þín haldast undir þinni stjórn. Nauðsynlegt fyrir sjálfvirka alt-myndatexta.
 pdfjs-editor-alt-text-settings-delete-model-button = Eyða
 pdfjs-editor-alt-text-settings-download-model-button = Sækja
 pdfjs-editor-alt-text-settings-downloading-model-button = Sæki…
+pdfjs-editor-alt-text-settings-editor-title = Ritill fyrir alt-myndatexta
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Sýna alt-myndatextaritil strax þegar mynd er bætt við
+pdfjs-editor-alt-text-settings-show-dialog-description = Hjálpar þér að tryggja að allar myndirnar þínar séu með alt-myndatexta.
 pdfjs-editor-alt-text-settings-close-button = Loka

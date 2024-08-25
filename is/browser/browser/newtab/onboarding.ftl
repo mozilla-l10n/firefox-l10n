@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Skrá inn
 ## Add-ons Picker screen
 
 amo-picker-title = Sérsníddu { -brand-short-name }
+amo-picker-subtitle = Forritsaukar eru eins og aukaforrit fyrir vafrann þinn og gera þér kleift að vernda lykilorð, sækja myndskeið, finna tilboð, loka fyrir pirrandi auglýsingar, breyta útliti vafrans og margt fleira.
 amo-picker-install-button-label = Bæta við { -brand-short-name }
 amo-picker-install-complete-label = Uppsett
 amo-picker-collection-link = Skoðaðu fleiri viðbætur
