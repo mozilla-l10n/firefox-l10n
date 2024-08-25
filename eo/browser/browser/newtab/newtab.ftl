@@ -196,6 +196,8 @@ newtab-section-header-recent-activity = Ĵusa agado
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomendita de { $provider }
 newtab-section-header-stories = Pensigaj artikoloj
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Niaj hodiaŭaj elektoj por vi
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -232,6 +234,13 @@ newtab-pocket-saved = Konservitaj
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Pli da ĉi tiaj
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Tio ne interesas min
+newtab-toast-thumbs-up-or-down = Dankon, viaj komentoj helpos nin plibonigi vian informan fonton.
 newtab-toast-dismiss-button =
     .title = Ignori
     .aria-label = I
@@ -402,3 +411,19 @@ newtab-topic-label-society = Vivsimpligiloj
 newtab-topic-label-sports = Sporto
 newtab-topic-label-tech = Teknologio
 newtab-topic-label-travel = Vojaĝo
+newtab-topic-label-home = Domo kaj ĝardeno
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Elektu temojn por rafini vian informan fonton
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Elektu du aŭ pli da temoj. Niaj spertaj informzorgantoj elektos unue artikolojn, kiuj kongruas kun viaj interesoj. Vi povas ĝisdatigi tion iam ajn.
+newtab-topic-selection-save-button = Konservi
+newtab-topic-selection-cancel-button = Nuligi
+newtab-topic-selection-button-maybe-later = Eble poste
+newtab-topic-selection-privacy-link = Pli da informo pri kiel ni protektas kaj administras datumojn
+newtab-topic-selection-button-update-interests = Ĝisdatigi viajn interesojn
+newtab-topic-selection-button-pick-interests = Elekti viajn interesojn
