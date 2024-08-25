@@ -558,6 +558,10 @@ urlbar-go-button =
     .tooltiptext = Odpri mesto v vrstici z naslovom
 urlbar-page-action-button =
     .tooltiptext = Dejanja strani
+urlbar-revert-button =
+    .tooltiptext = Prikaži naslov v naslovni vrstici
+urlbar-show-page-actions-button =
+    .tooltiptext = Prikaži vsa dejanja strani
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1056,6 +1060,11 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Okna sistema Windows za izbiro mesta shranjevanja ni bilo mogoče odpreti. Datoteke ali mape ni bilo mogoče izbrati.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Okna sistema Windows za izbiro mesta shranjevanja ni bilo mogoče odpreti. Datoteka se bo shranila v { $path }.
+file-picker-failed-save-nowhere = Okna sistema Windows za izbiro mesta shranjevanja ni bilo mogoče odpreti. Privzete mape ni bilo mogoče najti, zato datoteka ne bo shranjena.
+file-picker-crashed-open = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Datoteke ali mape ni bilo mogoče izbrati.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Datoteka se bo shranila v { $path }.
 file-picker-crashed-save-nowhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Privzete mape ni bilo mogoče najti, zato datoteka ne bo shranjena.
