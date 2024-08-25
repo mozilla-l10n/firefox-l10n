@@ -14,6 +14,12 @@ genai-settings-chat-chatgpt-links = Se vi elektas ChatGPT vi akceptas la <a data
 genai-settings-chat-claude-links = Se vi elektas Anthropic Claude vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo</a>, <a data-l10n-name="link2">politikon de uzo</a>, kaj <a data-l10n-name="link3">politikon pri privateco</a> de Anthropic.
 genai-settings-chat-copilot-links = Se vi elektas Copilot vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo de Copilot AI Experiences</a> kaj <a data-l10n-name="link2">deklaron pri privateco de Microsoft</a>.
 genai-settings-chat-gemini-links = Se vi elektas Google Gemini vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo de Google</a>, <a data-l10n-name="link2">politikon pri malpermesitaj uzoj de produkta AI</a> kaj <a data-l10n-name="link3">rimarkon pri privateco de Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = Se vi elektas HuggingChat vi akceptas la <a data-l10n-name="link1">rimarkon pri privateco de HuggingChat</a> kaj <a data-l10n-name="link2">politikon pri privateco de Hugging Face</a>.
+genai-settings-chat-lechat-links = Se vi elektas Le Chat Mistral vi akceptas la <a data-l10n-name="link1">kondiĉojn de uzo</a> and <a data-l10n-name="link2">politikon pri privateco</a> de Mistral AI.
+genai-settings-chat-localhost-links = Uzu vian propran lokan dialoganton, ekzemple <a data-l10n-name="link1">llamafile</a> el la grupo Innovation de { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Tio ĉi montras ŝparvojon al indikojn kiam vi elektas tekston. { -brand-short-name } sendas la tekston, titolon de paĝo kaj indikilon al la dialoganto.
+    .label = Montri indikojn kiam oni elektas tekston
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
