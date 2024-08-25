@@ -1115,6 +1115,9 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 addressbar-locbar-showrecentsearches-option =
     .label = Montri ĵusajn serĉojn
     .accesskey = M
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Montri sugestojn pri popularaj serĉoj
+    .accesskey = s
 addressbar-quickactions-learn-more = Pli da informo
 
 ## Privacy Section - Content Blocking
@@ -1357,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -bran
 
 httpsonly-header = HTTPS-nura reĝimo
 httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.
+httpsonly-description2 = { -brand-short-name } kreas sekurajn kaj ĉifritajn konektojn al la retejoj, kiujn vi vizitas. Se la HTTPS-nura reĝimo estas ŝaltita { -brand-short-name } avertos vin se konekto ne estas sekura.
 httpsonly-learn-more = Pli da informo
 httpsonly-radio-enabled =
     .label = Aktivigi HTTPS-nuran reĝimon en ĉiuj fenestroj
+httpsonly-radio-enabled2 =
+    .label = Nur uzi HTTPS en ĉiuj fenestroj
 httpsonly-radio-enabled-pbm =
     .label = Aktivigi HTTPS-nuran reĝimon nur en privataj fenestroj
+httpsonly-radio-enabled-pbm2 =
+    .label = Nur uzi HTTPS en privataj fenestroj
 httpsonly-radio-disabled =
     .label = Ne aktivigi HTTPS-nuran reĝimon
+httpsonly-radio-disabled2 =
+    .label = Unue provi HTTPS sed permesi nesekurajn konektojn
 
 ## DoH Section
 
