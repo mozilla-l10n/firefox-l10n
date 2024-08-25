@@ -443,3 +443,11 @@ pdfjs-editor-alt-text-settings-create-model-description = Podpowiada opisy, któ
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Model SI tekstu alternatywnego ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Działa lokalnie na urządzeniu użytkownika, więc Twoje dane pozostają prywatne. Wymagane do funkcji automatycznego tekstu alternatywnego.
+pdfjs-editor-alt-text-settings-delete-model-button = Usuń
+pdfjs-editor-alt-text-settings-download-model-button = Pobierz
+pdfjs-editor-alt-text-settings-downloading-model-button = Pobieranie…
+pdfjs-editor-alt-text-settings-editor-title = Edytor tekstu alternatywnego
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Wyświetlanie edytora tekstu alternatywnego od razu po dodaniu obrazu
+pdfjs-editor-alt-text-settings-show-dialog-description = Pomaga upewnić się, że wszystkie obrazy mają tekst alternatywny.
+pdfjs-editor-alt-text-settings-close-button = Zamknij
