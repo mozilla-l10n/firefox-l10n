@@ -32,6 +32,18 @@ sidebar-customize-extensions-header = Rozszerzenia panelu bocznego
 sidebar-customize-firefox-tools-header =
     .label = Narzędzia { -brand-product-name(case: "gen") }
 sidebar-customize-firefox-settings = Ustawienia { -brand-short-name(case: "gen") }
+sidebar-position-left =
+    .label = Wyświetlaj po lewej stronie
+sidebar-position-right =
+    .label = Wyświetlaj po prawej stronie
+sidebar-vertical-tabs =
+    .label = Karty pionowe
+sidebar-horizontal-tabs =
+    .label = Karty poziome
+sidebar-customize-tabs-header =
+    .label = Ustawienia kart
+sidebar-customize-settings-header =
+    .label = Ustawienia panelu bocznego
 
 ## Labels for sidebar context menu items
 
