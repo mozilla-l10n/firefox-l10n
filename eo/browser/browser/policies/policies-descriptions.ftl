@@ -119,6 +119,7 @@ policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj k
 policy-PictureInPicture = Aktivigi aŭ malaktivigi la reĝimon bildo en bildo
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
+policy-PrivateBrowsingModeAvailability = Agordi la disponeblon de la reĝimo de privata retumo.
 policy-PromptForDownloadLocation = Demandi kie konservi elŝutitajn dosierojn.
 policy-Proxy = Agordi retperantojn.
 policy-RequestedLocales = Agordi la liston de lingvoj petataj de la programo, ordigitaj laŭ prefero.

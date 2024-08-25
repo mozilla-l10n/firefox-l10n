@@ -51,6 +51,7 @@ about-processes-remote-sandbox-broker-process = Agento por mallokaj izolejoj  ({
 about-processes-fork-server-process = Forka servilo ({ $pid })
 about-processes-preallocated-process = Antaŭasignado ({ $pid })
 about-processes-utility-process = Utilaĵo ({ $pid })
+about-processes-inference-process = Dedukto ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
