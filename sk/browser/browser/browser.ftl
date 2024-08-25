@@ -554,6 +554,10 @@ urlbar-go-button =
     .tooltiptext = Prejsť na adresu zadanú v paneli s adresou
 urlbar-page-action-button =
     .tooltiptext = Akcie stránky
+urlbar-revert-button =
+    .tooltiptext = Zobraziť adresu v paneli s adresou
+urlbar-show-page-actions-button =
+    .tooltiptext = Zobraziť všetky akcie stránky
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
