@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Zatrzymaj { -brand-short-name(case: "acc") } w Docku
        *[other] Przypnij { -brand-short-name(case: "acc") } do paska zadań
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Przypnij { -brand-short-name(case: "acc") } do paska zadań i menu Start
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -334,6 +336,14 @@ onboarding-device-migration-title = Witamy z powrotem!
 onboarding-device-migration-subtitle = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby przenieść swoje zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-subtitle2 = Zaloguj się na swoje konto, aby przenieść zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-primary-button-label = Zaloguj się
+
+## Add-ons Picker screen
+
+amo-picker-title = Dostosuj { -brand-short-name(case: "acc") }
+amo-picker-subtitle = Rozszerzenia są jak aplikacje do przeglądarki. Umożliwiają ochronę haseł, pobieranie filmów, znajdowanie ofert, blokowanie irytujących reklam, zmianę wyglądu przeglądarki i wiele więcej.
+amo-picker-install-button-label = Dodaj do { -brand-short-name(case: "gen") }
+amo-picker-install-complete-label = Zainstalowano
+amo-picker-collection-link = Odkryj więcej dodatków
 
 ## The following screens have been updated to use security and privacy focused strings:
 
