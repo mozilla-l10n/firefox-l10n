@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtrado de sistemaj vokoj)
 has-seccomp-tsync = Sinkronigo de fadenoj de Seccomp
 has-user-namespaces = Nomspacoj de uzanto
 has-privileged-user-namespaces = Nomspacoj de uzanto por privilegiitaj procezoj
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Tiu ĉi trajto ne estas permesata de via sistemo, kio povas limigi sekurecajn trajtojn de { -brand-short-name }.
 can-sandbox-content = Izolado de enhava procezo
 can-sandbox-media = Izolado de aŭdvida kromprogramo
 content-sandbox-level = Nivelo de izolado por enhava procezo
