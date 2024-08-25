@@ -336,6 +336,13 @@ onboarding-device-migration-subtitle = Увійдіть у свій { -fxaccount
 onboarding-device-migration-subtitle2 = Увійдіть в обліковий запис, щоб перенести свої закладки, паролі та історію на новий пристрій.
 onboarding-device-migration-primary-button-label = Увійти
 
+## Add-ons Picker screen
+
+amo-picker-title = Налаштуйте свій { -brand-short-name }
+amo-picker-install-button-label = Додати до { -brand-short-name }
+amo-picker-install-complete-label = Встановлено
+amo-picker-collection-link = Ознайомтеся з додатками
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen

@@ -398,3 +398,5 @@ newtab-topic-label-home = Дім і сад
 newtab-topic-selection-save-button = Зберегти
 newtab-topic-selection-cancel-button = Скасувати
 newtab-topic-selection-button-maybe-later = Можливо, пізніше
+newtab-topic-selection-button-update-interests = Оновіть свої інтереси
+newtab-topic-selection-button-pick-interests = Виберіть свої інтереси
