@@ -133,6 +133,7 @@ login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
 login-item-tooltip-message = Prepričajte se, da se to ujema s točnim naslovom spletne strani, na katero se prijavljate.
+about-logins-origin-tooltip2 = Vnesite polni naslov in se prepričajte, da se natančno ujema s stranjo, na kateri se prijavljate.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Prepričajte se, da shranjujete svoje trenutno geslo. Če tukaj spremenite geslo, se s tem ne bo spremenilo tudi na { $webTitle }.
@@ -424,6 +425,20 @@ about-logins-import-dialog-items-modified =
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Najdene podvojene prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+        [one] <span>Dodana nova gesla:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Dodana nova gesla:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Dodana nova gesla:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Dodana nova gesla:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+        [one] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
