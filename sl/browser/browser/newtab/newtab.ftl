@@ -420,6 +420,9 @@ newtab-topic-label-home = Dom in vrt
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Izberite teme za fino nastavitev vira
 newtab-topic-selection-save-button = Shrani
 newtab-topic-selection-cancel-button = Prekliči
 newtab-topic-selection-button-maybe-later = Morda pozneje
