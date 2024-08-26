@@ -549,6 +549,8 @@ urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
     .tooltiptext = Sayfa eylemleri
+urlbar-revert-button =
+    .tooltiptext = Konum çubuğunda adresi göster
 urlbar-show-page-actions-button =
     .tooltiptext = Tüm sayfa eylemlerini göster
 
