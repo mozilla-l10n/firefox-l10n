@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Preverjanje kakovosti mn
 shopping-message-bar-page-not-supported =
     .heading = Teh mnenj ne moremo preveriti
     .message = Za nekatere vrste izdelkov žal ne moremo preveriti kakovosti mnenj. Na primer za darilne kartice ter pretočne videe, glasbo in igre.
+shopping-message-bar-keep-closed-header =
+    .heading = Ohranim zaprto?
+    .message = Nastavitve lahko spremenite tako, da je Pregledovalnik mnenj privzeto zaprt. Trenutno se samodejno odpre.
 shopping-message-bar-keep-closed-dismiss-button = Ne, hvala
 shopping-message-bar-keep-closed-accept-button = Da, pusti zaprto
 
@@ -88,10 +91,17 @@ shopping-settings-label =
     .label = Nastavitve
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase v pregledovalniku mnenj
+shopping-settings-recommendations-learn-more2 = Občasno boste videli oglase za primerne izdelke. Oglašujemo samo izdelke z zanesljivimi ocenami. <a data-l10n-name="review-quality-url">Več o tem</a>
 shopping-settings-opt-out-button = Izklopi pregledovalnik mnenj
 powered-by-fakespot = Pregledovalnik mnenj uporablja tehnologijo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Samodejno odpri pregledovalnik mnenj
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Ko si ogledujete izdelke na { $firstSite }, { $secondSite } in { $thirdSite }
 # Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
 # Variables:
 #   $currentSite (String) - The current shopping page name

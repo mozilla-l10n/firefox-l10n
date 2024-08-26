@@ -60,6 +60,7 @@ pane-experimental-description2 = Spreminjanje naprednih nastavitev lahko vpliva 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Preizkusite naše eksperimentalne zmogljivosti! So v razvoju in se spreminjajo, kar lahko vpliva na delovanje { -brand-short-name(sklon: "rodilnik") }.
 pane-experimental-reset =
     .label = Ponastavi privzeto
     .accesskey = P
@@ -962,6 +963,12 @@ primary-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] spremenite nastavitve plačilnih sredstev
+       *[other] { -brand-short-name } poskuša spremeniti nastavitve plačilnih sredstev. To omogočite z uporabo naprave za prijavo.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -977,6 +984,9 @@ autofill-payment-methods-checkbox-submessage = Vključuje kreditne in debetne ka
     .accesskey = k
 autofill-saved-payment-methods-button = Shranjena plačilna sredstva
     .accesskey = h
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje plačilnih sredstev
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1113,6 +1123,9 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna iskanja
     .accesskey = d
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Prikaži priljubljene predloge iskanja
+    .accesskey = p
 addressbar-quickactions-learn-more = Več o tem
 
 ## Privacy Section - Content Blocking
@@ -1307,6 +1320,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Nastavitve oglaševanja spletnih mest
+website-advertising-private-attribution =
+    .label = Spletnim mestom dovoli izvajanje meritev oglasov, ki ohranjajo zasebnost
+    .accesskey = D
 website-advertising-private-attribution-description = To spletnim mestom pomaga razumeti učinkovitost njihovih oglasov, ne da bi zbirali podatke o vas.
 
 ## Privacy Section - Security
