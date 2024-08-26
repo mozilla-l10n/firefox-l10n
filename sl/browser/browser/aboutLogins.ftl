@@ -440,6 +440,13 @@ about-logins-import-dialog-items-modified2 =
         [few] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Posodobljeni obstoječi vnosi:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+        [one] <span>Najdeni podvojeni vnosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvoženi)</span>
+        [two] <span>Najdeni podvojeni vnosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvoženi)</span>
+        [few] <span>Najdeni podvojeni vnosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvoženi)</span>
+       *[other] <span>Najdeni podvojeni vnosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvoženi)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Napake:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
@@ -504,6 +511,27 @@ about-logins-import-report-no-change =
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojeni prijavi</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojene prijave</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojenih prijav</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novo geslo dodano</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi gesli dodani</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova gesla dodana</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih gesel dodanih</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječ vnos posodobljen</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječa vnosa posodobljena</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječi vnosi posodobljeni</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječih vnosov posodobljenih</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojen vnos</div> <div data-l10n-name="not-imported">(ni uvožen)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojena vnosa</div> <div data-l10n-name="not-imported">(nista uvožena)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojeni vnosi</div> <div data-l10n-name="not-imported">(niso uvoženi)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojenih vnosov</div> <div data-l10n-name="not-imported">(niso uvoženi)</div>
     }
 about-logins-import-report-error =
     { $count ->

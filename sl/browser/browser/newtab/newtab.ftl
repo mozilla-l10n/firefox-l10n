@@ -307,6 +307,9 @@ newtab-wallpaper-light-beach = Plaža s palmo
 newtab-wallpaper-dark-aurora = Severni sij
 newtab-wallpaper-dark-color = Rdeči in modri liki
 newtab-wallpaper-dark-panda = Mačji panda, skrit v gozdu
+newtab-wallpaper-dark-sky = Mestna pokrajina z nočnim nebom
+newtab-wallpaper-dark-mountain = Gorska pokrajina
+newtab-wallpaper-dark-city = Vijolična mestna pokrajina
 
 ## Solid Colors
 
