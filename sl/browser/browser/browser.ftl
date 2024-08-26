@@ -559,7 +559,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Dejanja strani
 urlbar-revert-button =
-    .tooltiptext = Prikaži naslov v naslovni vrstici
+    .tooltiptext = Prikaži naslov v vrstici z naslovom
 urlbar-show-page-actions-button =
     .tooltiptext = Prikaži vsa dejanja strani
 

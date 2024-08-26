@@ -116,11 +116,13 @@ about-logins-login-intro-heading-logged-in = Ni najdenih sinhroniziranih prijav.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instructions-fxa = Ustvarite { -fxaccount-brand-name(capitalization: "sentence") } ali se prijavite na napravi, na kateri so shranjene vaše prijave.
 about-logins-login-intro-heading-message = Shranite si gesla na varno mesto
+login-intro-description2 = Vsa gesla, ki jih shranite v { -brand-product-name }, so šifrirana. Poleg tega smo pozorni na kraje podatkov in vas opozorimo, če ste med prizadetimi. <a data-l10n-name="breach-alert-link">Več o tem</a>
 login-intro-instructions-fxa2 = Ustvarite račun ali se prijavite na napravi, kjer so shranjene vaše prijave.
 login-intro-instructions-fxa-settings = Pojdite v Nastavitve > Sinhronizacija > Vklopi sinhronizacijo … in označite Prijave in gesla.
 login-intro-instructions-fxa-passwords-help = Za dodatno pomoč obiščite <a data-l10n-name="passwords-help-link">podporo za gesla</a>.
 about-logins-intro-browser-only-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -brand-product-name }</a>
 about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-product-name }a, jih lahko <a data-l10n-name="import-browser-link">uvozite iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">datoteke</a>
+about-logins-intro-import3 = Za dodajanje gesla kliknite zgornji gumb z znakom plus. Gesla lahko tudi uvozite <a data-l10n-name="import-browser-link">iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">iz datoteke</a>.
 
 ## Login
 
