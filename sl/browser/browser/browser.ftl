@@ -555,11 +555,11 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = Razširitev:
 urlbar-go-button =
-    .tooltiptext = Odpri mesto v vrstici z naslovom
+    .tooltiptext = Odpri mesto v naslovni vrstici
 urlbar-page-action-button =
     .tooltiptext = Dejanja strani
 urlbar-revert-button =
-    .tooltiptext = Prikaži naslov v vrstici z naslovom
+    .tooltiptext = Prikaži naslov v naslovni vrstici
 urlbar-show-page-actions-button =
     .tooltiptext = Prikaži vsa dejanja strani
 

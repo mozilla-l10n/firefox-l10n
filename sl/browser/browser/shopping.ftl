@@ -193,15 +193,20 @@ shopping-callout-pdp-opted-in-subtitle = Odprite pregledovalnik mnenj in si ogle
 shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
 shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup, pridobite vpogled v mnenja resničnih kupcev.
 shopping-callout-closed-not-opted-in-revised-title = En klik do zanesljivih mnenj
+shopping-callout-closed-not-opted-in-revised-subtitle = Preprosto kliknite ikono s ceno v naslovni vrstici, da se vrnete na Pregledovalnik mnenj.
 shopping-callout-closed-not-opted-in-revised-button = Razumem
 shopping-callout-not-opted-in-reminder-title = Nakupujte z zaupanjem
+shopping-callout-not-opted-in-reminder-subtitle = Niste prepričani, ali so mnenja o izdelku resnična ali lažna? Pomaga vam lahko Pregledovalnik mnenj { -brand-product-name(sklon: "rodilnik") }.
 shopping-callout-not-opted-in-reminder-open-button = Odpri pregledovalnik mnenj
 shopping-callout-not-opted-in-reminder-close-button = Opusti
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj več
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstraktna ilustracija treh mnenj o izdelku. Ena ima opozorilni simbol, torej morda ni vredna zaupanja.
 shopping-callout-disabled-auto-open-title = Pregledovalnik mnenj je zdaj privzeto zaprto
+shopping-callout-disabled-auto-open-subtitle = Kadarkoli želite preveriti, ali lahko zaupate mnenju o izdelku, kliknite na ikono s ceno v naslovni vrstici.
 shopping-callout-disabled-auto-open-button = Razumem
 shopping-callout-opted-out-title = Pregledovalnik mnenj je izključen
-shopping-callout-opted-out-subtitle = Če ga želite znova vključiti, kliknite ikono cene v vrstici z naslovom in sledite navodilom.
+shopping-callout-opted-out-subtitle = Če ga želite znova vključiti, kliknite ikono s ceno v naslovni vrstici in sledite navodilom.
 shopping-callout-opted-out-button = Razumem
 
 ## Onboarding message strings.
@@ -213,7 +218,12 @@ shopping-onboarding-headline = Preizkusite naš zaupanja vreden vodnik po ocenah
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Pred nakupom preverite, kako zanesljiva so mnenja o izdelkih v trgovini <b>{ $currentSite }</b>. Pregledovalnik mnenj, preizkusna zmogljivost { -brand-product-name(sklon: "rodilnik") }, je vgrajen neposredno v brskalnik. Deluje tudi v trgovinah <b>{ $secondSite }</b> in <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Pred nakupom preverite, kako zanesljiva so mnenja o izdelkih v trgovini <b>{ $currentSite }</b>. Pregledovalnik mnenj, preizkusna zmogljivost { -brand-product-name(sklon: "rodilnik") }, je vgrajen neposredno v brskalnik.
 shopping-onboarding-body = { -fakespot-brand-full-name } vam omogoča, da se izognete pristranskim in nepristnim mnenjem. Naš model umetne inteligence se nenehno izboljšuje, da vas ščiti med nakupovanjem. <a data-l10n-name="learn_more">Več o tem</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Z izbiro “{ shopping-onboarding-opt-in-button }“ se strinjate s <a data-l10n-name="privacy_policy">politiko zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-name(sklon: "rodilnik") }.</a>
 shopping-onboarding-opt-in-button = Da, poskusi
 shopping-onboarding-not-now-button = Ne zdaj
 shopping-onboarding-dialog-close-button =
