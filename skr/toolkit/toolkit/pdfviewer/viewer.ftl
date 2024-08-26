@@ -396,9 +396,13 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = اتھ آپݨی وضاحت لکھو۔۔۔
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ٻیا سِکھو
 pdfjs-editor-new-alt-text-not-now-button = ہݨ کائناں
 pdfjs-editor-new-alt-text-error-close-button = بند کرو
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = آلٹ عبارت شامل تھی ڳئی
 
 ## Image alt-text settings
 
