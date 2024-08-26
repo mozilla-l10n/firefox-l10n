@@ -376,10 +376,18 @@ newtab-weather-change-location-search-input = مقام ڳولو
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = سادہ
+newtab-weather-menu-change-weather-display-simple = سادہ منظر تے سوئچ کرو
 newtab-weather-menu-weather-display-option-detailed = تفصیلی
+newtab-weather-menu-change-weather-display-detailed = تفصیلی منظر تے سوئچ کرو
+newtab-weather-menu-temperature-units = درجہ حرارت دے یونٹ
 newtab-weather-menu-temperature-option-fahrenheit = فارن ہائیٹ
 newtab-weather-menu-temperature-option-celsius = سیلسیس
+newtab-weather-menu-change-temperature-units-fahrenheit = فارن ہائٹ  تے سوئچ کرو
+newtab-weather-menu-change-temperature-units-celsius = سینٹی گریڈ  تے سوئچ کرو
+newtab-weather-menu-hide-weather = نویں ٹیب تے موسم لکاؤ
 newtab-weather-menu-learn-more = ٻیا سِکھو
+# This message is shown if user is working offline
+newtab-weather-error-not-available = عیں ایں ویلے موسم ڈیٹا دستیاب کائنی۔
 
 ## Topic Labels
 
