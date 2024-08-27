@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Ugrás a címmezőben levő címre
 urlbar-page-action-button =
     .tooltiptext = Oldalműveletek
+urlbar-revert-button =
+    .tooltiptext = A cím megjelenítése a címmezőben
+urlbar-show-page-actions-button =
+    .tooltiptext = Összes oldalművelet megjelenítése
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
