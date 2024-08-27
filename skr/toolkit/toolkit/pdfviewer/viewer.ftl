@@ -399,7 +399,9 @@ pdfjs-editor-highlight-show-all-button =
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = اتھ آپݨی وضاحت لکھو۔۔۔
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ٻیا سِکھو
+pdfjs-editor-new-alt-text-create-automatically-button-label = آلٹ عبارت خودکار بݨاؤ
 pdfjs-editor-new-alt-text-not-now-button = ہݨ کائناں
+pdfjs-editor-new-alt-text-error-title = آلٹ عبارت خودکار نہ بݨاؤ
 pdfjs-editor-new-alt-text-error-close-button = بند کرو
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = آلٹ عبارت شامل تھی ڳئی
@@ -413,6 +415,7 @@ pdfjs-image-alt-text-settings-button =
 pdfjs-image-alt-text-settings-button-label = تصویر آلٹ عبارت ترتیباں
 pdfjs-editor-alt-text-settings-dialog-label = تصویر آلٹ عبارت ترتیباں
 pdfjs-editor-alt-text-settings-automatic-title = خودکار آلٹ عبارت
+pdfjs-editor-alt-text-settings-create-model-button-label = آلٹ عبارت خودکار بݨاؤ
 pdfjs-editor-alt-text-settings-delete-model-button = مٹاؤ
 pdfjs-editor-alt-text-settings-download-model-button = ڈاؤن لوڈ
 pdfjs-editor-alt-text-settings-downloading-model-button = ڈاؤن لوڈ تھیندا پئے …
