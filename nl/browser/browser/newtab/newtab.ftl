@@ -395,7 +395,7 @@ newtab-weather-error-not-available = Weergegevens zijn momenteel niet beschikbaa
 ## Topic Labels
 
 newtab-topic-label-business = Zakelijk
-newtab-topic-label-career = Banen
+newtab-topic-label-career = Loopbaan
 newtab-topic-label-education = Onderwijs
 newtab-topic-label-arts = Amusement
 newtab-topic-label-food = Voeding
