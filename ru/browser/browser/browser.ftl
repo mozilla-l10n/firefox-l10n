@@ -553,7 +553,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Действия на странице
 urlbar-revert-button =
-    .tooltiptext = Показать адрес на Панели адреса
+    .tooltiptext = Показать адрес в Строке местоположения
 urlbar-show-page-actions-button =
     .tooltiptext = Показать все действия на странице
 
