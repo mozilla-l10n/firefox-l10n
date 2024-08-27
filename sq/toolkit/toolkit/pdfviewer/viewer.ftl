@@ -289,8 +289,6 @@ pdfjs-editor-stamp-button-label = Shtoni ose përpunoni figura
 pdfjs-editor-highlight-button =
     .title = Theksim
 pdfjs-editor-highlight-button-label = Theksoje
-pdfjs-highlight-floating-button =
-    .title = Theksim
 pdfjs-highlight-floating-button1 =
     .title = Theksim
     .aria-label = Theksim
@@ -385,3 +383,13 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Shfaqi krejt
 pdfjs-editor-highlight-show-all-button =
     .title = Shfaqi krejt
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-download-model-button = Shkarkoje
+pdfjs-editor-alt-text-settings-downloading-model-button = Po shkarkohet…
+pdfjs-editor-alt-text-settings-editor-title = Përpunues alternativ tekstesh

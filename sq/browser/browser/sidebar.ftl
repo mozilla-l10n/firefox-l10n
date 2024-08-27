@@ -15,18 +15,69 @@ sidebar-history-date-yesterday =
     .heading = Dje - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Fshije prej Historiku
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Përfundime kërkimi për “{ $query }”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Zgjerime anështylle
+sidebar-customize-firefox-tools-header =
+    .label = Mjete { -brand-product-name }
+sidebar-customize-firefox-settings = Administroni rregullime { -brand-short-name }-i
+sidebar-position-left =
+    .label = Shfaqe majtas
+sidebar-position-right =
+    .label = Shfaqe djathtas
+sidebar-vertical-tabs =
+    .label = Skeda vertikale
+sidebar-horizontal-tabs =
+    .label = Skeda horizontale
+sidebar-customize-tabs-header =
+    .label = Rregullime skedash
+sidebar-customize-settings-header =
+    .label = Rregullime anështylle
+sidebar-visibility-always-show =
+    .label = Shfaqe përherë
+sidebar-visibility-hide-sidebar =
+    .label = Fshihe anështyllën
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Administroni zgjerim
+sidebar-context-menu-remove-extension =
+    .label = Hiqe zgjerimin
+sidebar-context-menu-report-extension =
+    .label = Raportojeni zgjerimin
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Robot IA fjalosjesh
+sidebar-menu-history-label =
+    .label = Historik
+sidebar-menu-synced-tabs-label =
+    .label = Skeda prej pajisjesh të tjera
+sidebar-menu-bookmarks-label =
+    .label = Faqerojtës
+sidebar-menu-customize-label =
+    .label = Përshtatni anështyllën
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Përshtatni anështyllën
+sidebar-menu-history-header =
+    .heading = Historik
+sidebar-menu-syncedtabs-header =
+    .heading = Skeda prej pajisjesh të tjera

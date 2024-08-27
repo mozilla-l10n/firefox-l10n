@@ -43,3 +43,25 @@ experimental-features-js-warp-description = Aktivizon Warp-in, një projekt për
 experimental-features-ime-search =
     .label = Shtyllë Adresash: shfaq përfundime gjatë hartimi IME
 experimental-features-ime-search-description = Një IME (Input Method Editor - Përpunues Metodash Dhënieje) është një mjet që ju lejon të jepni simbole të ndërlikuar, bie fjala ata të përdorur në shkrim gjuhësh të Lindjes së Largme ose të Indisë, duke përdorur një tastierë standard. Aktivizimi i këtij eksperimenti, do të sjellë mbajtjen hapur të panelit të shtyllës së adresave, duke shfaqur përfundime kërkimi dhe sugjerime, teksa përdoret IME për të dhënë tekst. Kini parasysh që IME mund të shfaqë një panel që i mbulon përfundimet e shtyllës së adresave, ndaj ky parapëlqim sugjerohet vetëm për IME që nuk përdorin këtë lloj paneli.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Picture-in-Picture: hape vetvetiu, kur kalohet në skedë tjetër
+experimental-features-auto-pip-description = Aktivizoni Picture-in-Picture në video aktive, kur kalohet në skeda të tjera.
+genai-settings-chat-title =
+    .label = Robot IA fjalosjesh
+# Updated sidebar settings
+sidebar-title =
+    .label = Anështyllë
+sidebar-description = Shihni kollaj historikun tuaj, skeda prej pajisjesh të tjera, zgjerime anështyllash, etj, teksa shfletoni. <a data-l10n-name="connect">Jepni përshtypje</a>
+vertical-tabs-title =
+    .label = Skeda vertikale
+vertical-tabs-description = Kalojini skedat tuaja nga kreu i shfletuesit në anë të tij. Kjo lyp që të provoni edhe anështyllën. <a data-l10n-name="connect">Jepni përshtypje</a>
+experimental-features-group-browsing =
+    .label = Shfletim
+experimental-features-group-developer-tools =
+    .label = Mjete Zhvilluesish
+experimental-features-group-webpage-display =
+    .label = Shfaqje faqeje Web
+experimental-features-group-customize-browsing =
+    .label = Përshtatni shfletimin tuaj
+experimental-features-group-customize-browsing-description = Nëse i provoni këto veçori, <a data-l10n-name="connect">ndani me të tjerët mendimet tuaja në Connect</a>
