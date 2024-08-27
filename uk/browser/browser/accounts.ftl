@@ -106,3 +106,9 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Переглянути недавно закриті вкладки
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] Закрито { $closedCount } вкладку { -brand-short-name }
+        [few] Закрито { $closedCount } вкладки { -brand-short-name }
+       *[many] Закрито { $closedCount } вкладок { -brand-short-name }
+    }
