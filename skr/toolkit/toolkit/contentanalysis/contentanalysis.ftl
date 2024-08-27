@@ -40,21 +40,9 @@ contentanalysis-genericresponse-message = مواد دے تجزیہ نے وسیل
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = تُہاݙی تنظیم ڈیٹا دے نقصان کنوں بچاؤ دا سافٹ ویئر استعمال کرین٘دی ہِے جئیں اِیں مواد کوں بلاک کر ݙِتّا ہِے: { $content }۔
-# Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = ڈیٹا دے نقصان کنوں بچاء دے سافٹ ویئر دے نال مواصلت وِچ ہِک خرابی پیش آ ڳئی۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = { $agent } نال ڳالھ مُہاڑ کرݨ وِچ ہِک خرابی پیش آ ڳئی۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = { $agent } نال جُڑݨ کنوں وان٘جھا۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = { $agent } کِیتے دستخطی توثیق نا کام تھی ڳئی۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
+contentanalysis-error-message-dropped-text = ڈریگ اینڈ ڈراپ دا انکار کر ݙتا ڳیا۔
+contentanalysis-error-message-clipboard = پیسٹ دا انکار کر ݙتا ڳیا۔
+contentanalysis-error-message-print = پرنٹ دا انکار کر ݙتا ڳیا۔
 contentanalysis-block-dialog-title-upload-file = تہاکوں ایہ فائل اپ لوڈ کرݨ دی اجازت کائنی۔
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

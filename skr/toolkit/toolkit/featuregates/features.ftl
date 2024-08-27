@@ -57,3 +57,7 @@ experimental-features-group-browsing =
     .label = براؤزنگ
 experimental-features-group-developer-tools =
     .label = ڈویلپر ٹولز
+experimental-features-group-webpage-display =
+    .label = ویب پیج ڈسپلے
+experimental-features-group-customize-browsing =
+    .label = آپݨی براؤزنگ دی تخصیص کرو

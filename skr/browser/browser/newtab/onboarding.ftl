@@ -331,6 +331,7 @@ onboarding-device-migration-primary-button-label = سائن ان
 amo-picker-title = { -brand-short-name } آپݨی من مرضی دا بݨاؤ
 amo-picker-install-button-label = { -brand-short-name } وچ شامل کرو
 amo-picker-install-complete-label = انسٹال تھیا
+amo-picker-collection-link = ٻئے ایڈ آن پھلورو
 
 ## The following screens have been updated to use security and privacy focused strings:
 

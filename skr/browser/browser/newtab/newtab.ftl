@@ -372,6 +372,7 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙سپانسر تھیا
 newtab-weather-menu-change-location = مقام وٹاؤ
 newtab-weather-change-location-search-input = مقام ڳولو
+newtab-weather-menu-weather-display = موسم دا ڈسپلے
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -405,8 +406,13 @@ newtab-topic-label-finance = رقم
 newtab-topic-label-society-parenting = پرورش کرݨ
 newtab-topic-label-government = سیاست
 newtab-topic-label-education-science = سائنس
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = لائف ہیکس
 newtab-topic-label-sports = کھیݙاں
 newtab-topic-label-tech = ٹیکنالوجی
+newtab-topic-label-travel = پندھ
 newtab-topic-label-home = گھر تے باغ
 
 ## Topic Selection Modal

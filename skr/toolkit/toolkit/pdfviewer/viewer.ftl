@@ -403,6 +403,8 @@ pdfjs-editor-new-alt-text-not-now-button = ہݨ کائناں
 pdfjs-editor-new-alt-text-error-close-button = بند کرو
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = آلٹ عبارت شامل تھی ڳئی
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = متبادل عبارت غائب ہے
 
 ## Image alt-text settings
 
@@ -414,4 +416,5 @@ pdfjs-editor-alt-text-settings-automatic-title = خودکار آلٹ عبارت
 pdfjs-editor-alt-text-settings-delete-model-button = مٹاؤ
 pdfjs-editor-alt-text-settings-download-model-button = ڈاؤن لوڈ
 pdfjs-editor-alt-text-settings-downloading-model-button = ڈاؤن لوڈ تھیندا پئے …
+pdfjs-editor-alt-text-settings-editor-title = متبادل ٹیکسٹ ایڈیٹر
 pdfjs-editor-alt-text-settings-close-button = بند کرو
