@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Naar het adres in de locatiebalk gaan
 urlbar-page-action-button =
     .tooltiptext = Pagina-acties
+urlbar-revert-button =
+    .tooltiptext = Adres in de locatiebalk tonen
+urlbar-show-page-actions-button =
+    .tooltiptext = Alle pagina-acties tonen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
