@@ -106,7 +106,7 @@ shopping-settings-auto-open-description-three-sites = Ko si ogledujete izdelke n
 # Variables:
 #   $currentSite (String) - The current shopping page name
 shopping-settings-auto-open-description-single-site = Med ogledom izdelkov na { $currentSite }
-shopping-settings-sidebar-enabled-state = Pregledovalnik mnenj je <strong>Vključen</strong>
+shopping-settings-sidebar-enabled-state = Pregledovalnik mnenj je <strong>vključen</strong>
 
 ## Strings for the adjusted rating component
 
@@ -135,7 +135,7 @@ shopping-analysis-explainer-learn-more2 = Spoznajte več o tem, <a data-l10n-nam
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Poudarki</strong> so vzeti iz mnenj v zadnjih 80. dneh, za katera menimo, da so zanesljiva.
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Poudarki</strong> so vzeti iz mnenj v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
 shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so jih napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
@@ -201,7 +201,7 @@ shopping-callout-not-opted-in-reminder-open-button = Odpri pregledovalnik mnenj
 shopping-callout-not-opted-in-reminder-close-button = Opusti
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj več
 shopping-callout-not-opted-in-reminder-img-alt =
-    .aria-label = Abstraktna ilustracija treh mnenj o izdelku. Ena ima opozorilni simbol, torej morda ni vredna zaupanja.
+    .aria-label = Abstraktna ilustracija treh mnenj o izdelku. Eno ima opozorilni simbol, torej morda ni vredno zaupanja.
 shopping-callout-disabled-auto-open-title = Pregledovalnik mnenj je zdaj privzeto zaprto
 shopping-callout-disabled-auto-open-subtitle = Kadarkoli želite preveriti, ali lahko zaupate mnenju o izdelku, kliknite na ikono s ceno v naslovni vrstici.
 shopping-callout-disabled-auto-open-button = Razumem
