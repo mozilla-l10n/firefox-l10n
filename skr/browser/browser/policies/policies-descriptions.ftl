@@ -111,6 +111,7 @@ policy-Permissions2 = کیمرے، مائیکروفون، مقام، اطلاع�
 policy-PictureInPicture = تصویر وِچ تصویر کوں فعال یا غیر فعال کرو۔
 policy-PopupBlocking = کجھ ویب سائٹس کوں بطور ڈیفالٹ پاپ اپ ڈسپلے کرݨ دیی اجازت ݙیو۔
 policy-Preferences = ترجیحات دے ذیلی سیٹ کیتے قدر کوں سیٹ کرو تے لاک کرو۔
+policy-PrivateBrowsingModeAvailability = نجی براؤزنگ موڈ دی دستیابی مقرر کرو۔
 policy-PromptForDownloadLocation = پچھو جو ڈاؤن لوڈ کریندے ویلھے فائلاں کوں کتھاں ہتھیکڑا کریندا ہے۔
 policy-Proxy = پراکسی ترتیباں کوں ترتیب ݙیو۔
 policy-RequestedLocales = درخواست کیتے درخواست کردہ جاہیں دی تندیر ترجیح دے مطابق ترتیب ݙیو۔

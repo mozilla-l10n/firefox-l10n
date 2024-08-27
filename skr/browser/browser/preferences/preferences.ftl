@@ -604,6 +604,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = { -vendor-short-name } تے { -brand-product-name } کنوں تجویزاں تے خبراں
 home-prefs-weather-header =
     .label = موسم
+home-prefs-weather-description = ہک نظر وچ اڄ دی پیش گوئی
 home-prefs-weather-learn-more-link = ٻیا سِکھو
 # Variables:
 #   $num (number) - Number of rows displayed

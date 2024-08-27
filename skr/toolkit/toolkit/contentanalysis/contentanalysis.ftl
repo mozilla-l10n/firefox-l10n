@@ -40,6 +40,9 @@ contentanalysis-genericresponse-message = مواد دے تجزیہ نے وسیل
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = تُہاݙی تنظیم ڈیٹا دے نقصان کنوں بچاؤ دا سافٹ ویئر استعمال کرین٘دی ہِے جئیں اِیں مواد کوں بلاک کر ݙِتّا ہِے: { $content }۔
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = “{ $filename }” دے اپ لوڈ انکار تھی ڳیا۔
 contentanalysis-error-message-dropped-text = ڈریگ اینڈ ڈراپ دا انکار کر ݙتا ڳیا۔
 contentanalysis-error-message-clipboard = پیسٹ دا انکار کر ݙتا ڳیا۔
 contentanalysis-error-message-print = پرنٹ دا انکار کر ݙتا ڳیا۔
