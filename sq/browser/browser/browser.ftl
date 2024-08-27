@@ -1043,6 +1043,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Dialogu Windows për kartela s’u hap dot. S’përzgjidhej dot kartelë, ose dosje.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Dialogu Windows për kartela s’u hap dot. Kartela do të ruhet te { $path }.
+file-picker-failed-save-nowhere = Dialogu Windows për kartela s’u hap dot. S’u gjet dot dosje parazgjedhje, kartela s’do të ruhet.
+file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidhej dot kartelë, ose dosje.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
+file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

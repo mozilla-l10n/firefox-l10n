@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Aktivizoni menu Zhvilluesi te 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Aktivizoni Diagnostikim USB te Menuja Zhvillues e Android-it.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Aktivizoni shpërngulje kartelash dhe garantoni se pajisja juaj s’gjendet nën mënyrën vetëm-ngarkim.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Aktivizoni Diagnostikim USB te Firefox-i në pajisjen Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Lidheni pajisjen Android me kompjuterin tuaj.

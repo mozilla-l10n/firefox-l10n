@@ -119,6 +119,7 @@ policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, 
 policy-PictureInPicture = Aktivizoni ose çaktivizoni veçorinë “Picture-in-Picture”.
 policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
 policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
+policy-PrivateBrowsingModeAvailability = Caktoni përdorimin ose jo të mënyrës së shfletimit privat.
 policy-PromptForDownloadLocation = Pyet ku të ruhen kartelat, kur shkarkohen.
 policy-Proxy = Formësoni rregullime ndërmjetësi
 policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
