@@ -24,6 +24,22 @@ genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbo
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Foglalja össze
+    .value = Foglalja össze a kijelölést pontosan és tömören. Használjon címsorokat és felsorolásokat az összefoglalóban, legyen áttekinthető. Tartsa meg a jelentést és a pontos tényeket.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Egyszerűsítse a nyelvezetet
+    .value = Írja újra a szakaszt rövid mondatokkal és egyszerű szavakkal. Tartsa meg a jelentést és a pontos tényeket.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Kérdezzen ki
+    .value = Kérdezzen ki a kijelölésből. Tegyen fel változatos kérdéseket, például feleletválasztós, igaz-hamis vagy rövid választ igénylő kérdéseket. Várjon a válaszomra a következő kérdésre ugrás előtt.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Magyarázza el
+    .value = Magyarázza le a kulcsfogalmakat a kijelölésben, egyszerű szavakat használva. Használjon példákat is.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
