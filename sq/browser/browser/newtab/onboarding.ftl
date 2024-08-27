@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Mbaje { -brand-short-name }-in në Panel
        *[other] Fiksoje { -brand-short-name }-in te paneli
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fiksoje { -brand-short-name }-in te paneli dhe menuja e nisjes
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -332,6 +334,14 @@ onboarding-device-migration-title = Mirë se u kthyet!
 onboarding-device-migration-subtitle = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te { -fxaccount-brand-name(capitalization: "sentence") } juaj.
 onboarding-device-migration-subtitle2 = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te llogaria juaj.
 onboarding-device-migration-primary-button-label = Hyni
+
+## Add-ons Picker screen
+
+amo-picker-title = Përshtatni { -brand-short-name }-in tuaj
+amo-picker-subtitle = Zgjerimet janë si punë aplikacionesh për shfletuesin tuaj dhe ju lejojnë të mbroni fjalëkalimet tuaj, të shkarkoni video, të gjeni okazione, të bllokoni reklama të bezdisshme, të ndryshoni pamjen e shfletuesit tuaj e shumë gjëra të tjera.
+amo-picker-install-button-label = Shtoje te { -brand-short-name }
+amo-picker-install-complete-label = Të instaluara
+amo-picker-collection-link = Eksploroni më tepër shtesa
 
 ## The following screens have been updated to use security and privacy focused strings:
 

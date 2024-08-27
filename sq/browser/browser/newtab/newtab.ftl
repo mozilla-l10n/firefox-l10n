@@ -406,9 +406,16 @@ newtab-topic-label-education-science = Shkencë
 newtab-topic-label-sports = Sporte
 newtab-topic-label-tech = Teknologji
 newtab-topic-label-travel = Udhëtime
+newtab-topic-label-home = Shtëpi & Kopsht
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Përzgjidhni subjekte, që të përimtohet prurja për ju
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Zgjidhni dy ose më shumë subjekte. Ekspertët tanë u japin përparësi historive që përkojnë me interesat tuaja. Përditësojeni kur të doni.
 newtab-topic-selection-save-button = Ruaje
 newtab-topic-selection-cancel-button = Anuloje
 newtab-topic-selection-button-maybe-later = Ndoshta më vonë

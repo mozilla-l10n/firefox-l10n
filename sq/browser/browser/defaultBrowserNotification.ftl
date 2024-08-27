@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Të bëhet { -brand-short-name }-i shfletuesi juaj parësor?
 default-browser-prompt-message-pin = Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe fiksojeni te paneli.
+default-browser-prompt-message-pin-msix = Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe fiksojeni te paneli juaj i punëve dhe te menuja e nisjes.
 default-browser-prompt-message-pin-mac = Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te Paneli juaj.
+default-browser-prompt-button-primary-set = Vëre si shfletuesin parësor
 default-browser-prompt-button-primary-pin = Bëje shfletues parazgjedhje
 default-browser-prompt-title-alt = Të bëhet { -brand-short-name }-i shfletuesi juaj parazgjedhje?
 default-browser-prompt-message-alt = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
