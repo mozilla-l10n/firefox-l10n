@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
     .tooltiptext = Veprime faqeje
+urlbar-revert-button =
+    .tooltiptext = Shfaqe adresën te Shtylla e Vendndodhjeve
+urlbar-show-page-actions-button =
+    .tooltiptext = Shfaqi krejt veprimet për faqen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1033,3 +1037,19 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Shfaq '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Dialogu Windows për kartela s’u hap dot. S’përzgjidhej dot kartelë, ose dosje.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Dialogu Windows për kartela s’u hap dot. Kartela do të ruhet te { $path }.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Shfaqe Në Dosje
+    .accessKey = D
