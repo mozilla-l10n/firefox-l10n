@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (rendszerhívás-szűrés)
 has-seccomp-tsync = Seccomp szálszinkronizáció
 has-user-namespaces = Felhasználói névterek
 has-privileged-user-namespaces = Felhasználói névterek privilegizált folyamatokhoz
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } – Ezt a funkciót a rendszer nem engedélyezi. Ez korlátozhatja a { -brand-short-name } biztonsági funkcióit.
 can-sandbox-content = Tartalomfolyamat homokozója
 can-sandbox-media = Médiabővítmény homokozója
 content-sandbox-level = Tartalomfolyamat homokozóhasználati szintje
