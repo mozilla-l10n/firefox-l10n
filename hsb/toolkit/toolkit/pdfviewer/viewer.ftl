@@ -420,8 +420,8 @@ pdfjs-editor-new-alt-text-error-close-button = Začinić
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
-pdfjs-editor-new-alt-text-ai-model-downloading-progress = Model KI za alternatiwny tekst sp sćahuje ({ $downloadedSize } z { $totalSize } MB)
-    .aria-valuetext = Model KI za alternatiwny tekst sp sćahuje ({ $downloadedSize } z { $totalSize } MB)
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Model KI za alternatiwny tekst so sćahuje ({ $downloadedSize } z { $totalSize } MB)
+    .aria-valuetext = Model KI za alternatiwny tekst so sćahuje ({ $downloadedSize } z { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternatiwny tekst je so přidał
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
