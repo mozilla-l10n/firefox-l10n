@@ -73,3 +73,6 @@ aboutDialog-version = { $version } ({ $bits } bit)
 
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } bit)
 
+aboutdialog-version-arch = { $version } ({ $arch })
+
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
