@@ -108,10 +108,19 @@ pdfjs-document-properties-file-size = Dimensione file:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } kB ({ $size_b } byte)
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } byte)
+
 # Variables:
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } byte)
+
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } byte)
+
 pdfjs-document-properties-title = Titolo:
 pdfjs-document-properties-author = Autore:
 pdfjs-document-properties-subject = Oggetto:
@@ -122,6 +131,7 @@ pdfjs-document-properties-modification-date = Data modifica:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 pdfjs-document-properties-creator = Autore originale:
 pdfjs-document-properties-producer = Produttore PDF:
 pdfjs-document-properties-version = Versione PDF:
@@ -271,6 +281,7 @@ pdfjs-rendering-error = Si è verificato un errore durante il rendering della pa
 #   $date (Date) - the modification date of the annotation
 #   $time (Time) - the modification time of the annotation
 pdfjs-annotation-date-string = { $date }, { $time }
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
