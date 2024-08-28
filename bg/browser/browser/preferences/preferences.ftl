@@ -293,7 +293,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Използвайте настройките на вашата операционна система за „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
+    .label = Използване настройките на вашата операционна система за „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
 check-user-spelling =
     .label = Проверяване на правописа при въвеждане
     .accesskey = в
