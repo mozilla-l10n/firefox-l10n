@@ -89,6 +89,8 @@ shopping-show-less-button = Prikaži manj
 
 shopping-settings-label =
     .label = Nastavitve
+shopping-settings-recommendations-toggle2 =
+    .label = Prikaži priporočila in sponzorirane vsebine
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase v pregledovalniku mnenj
 shopping-settings-recommendations-learn-more2 = Občasno boste videli oglase za primerne izdelke. Oglašujemo samo izdelke z zanesljivimi ocenami. <a data-l10n-name="review-quality-url">Več o tem</a>
@@ -162,6 +164,7 @@ shopping-unanalyzed-product-analyze-button = Preveri kakovost mnenj
 
 more-to-consider-ad-label =
     .label = Več za razmislek
+shopping-sponsored-label = Sponzorirano
 ad-by-fakespot = Oglas { -fakespot-brand-name }a
 
 ## Shopping survey strings.
@@ -203,7 +206,7 @@ shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj več
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Abstraktna ilustracija treh mnenj o izdelku. Eno ima opozorilni simbol, torej morda ni vredno zaupanja.
 shopping-callout-disabled-auto-open-title = Pregledovalnik mnenj je zdaj privzeto zaprt
-shopping-callout-disabled-auto-open-subtitle = Kadarkoli želite preveriti, ali lahko zaupate mnenju o izdelku, kliknite na ikono s ceno v naslovni vrstici.
+shopping-callout-disabled-auto-open-subtitle = Kadarkoli želite preveriti, ali lahko zaupate mnenju o izdelku, kliknite na ikono listka s ceno v naslovni vrstici.
 shopping-callout-disabled-auto-open-button = Razumem
 shopping-callout-opted-out-title = Pregledovalnik mnenj je izključen
 shopping-callout-opted-out-subtitle = Če ga želite znova vključiti, kliknite ikono s ceno v naslovni vrstici in sledite navodilom.
