@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Ta bort från historik
+sidebar-history-sort-by-date =
+    .label = Sortera efter datum
+sidebar-history-sort-by-site =
+    .label = Sortera efter webbplats
+sidebar-history-clear =
+    .label = Rensa historik
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Ta bort tillägg
 sidebar-context-menu-report-extension =
     .label = Rapportera tillägg
+sidebar-context-menu-open-in-window =
+    .label = Öppna i nytt fönster
+sidebar-context-menu-open-in-private-window =
+    .label = Öppna i nytt privat fönster
+sidebar-context-menu-bookmark-tab =
+    .label = Bokmärk flik…
+sidebar-context-menu-copy-link =
+    .label = Kopiera länk
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Ta bort från historik
 
 ## Labels for sidebar menu items.
 

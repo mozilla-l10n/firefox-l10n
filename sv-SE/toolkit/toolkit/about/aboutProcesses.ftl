@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Inaktivera flikar och avsluta processen
+about-processes-kill-process =
+    .title = Avsluta processen
 about-processes-shutdown-tab =
     .title = Stäng flik
 # Profiler icons
