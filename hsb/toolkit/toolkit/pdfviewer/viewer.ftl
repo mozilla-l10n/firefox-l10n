@@ -445,6 +445,7 @@ pdfjs-editor-alt-text-settings-create-model-description = Namjetuje wopisanja, z
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Model KI alternatiwneho teksta ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Běži lokalnje na wašim graće, zo bychu waše daty priwatne wostali. Za awtomatiski alternatiwny tekst trěbny.
 pdfjs-editor-alt-text-settings-delete-model-button = Zhašeć
 pdfjs-editor-alt-text-settings-download-model-button = Sćahnyć
 pdfjs-editor-alt-text-settings-downloading-model-button = Sćahuje so…
