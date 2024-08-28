@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Nastavitve
 shopping-settings-recommendations-toggle2 =
     .label = Prikaži priporočila in sponzorirane vsebine
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne deli vaših osebnih podatkov, zato vam ta priporočila ne bodo sledila po internetu. <a data-l10n-name="review-quality-url">Več o tem</a>
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase v pregledovalniku mnenj
 shopping-settings-recommendations-learn-more2 = Občasno boste videli oglase za primerne izdelke. Oglašujemo samo izdelke z zanesljivimi ocenami. <a data-l10n-name="review-quality-url">Več o tem</a>
