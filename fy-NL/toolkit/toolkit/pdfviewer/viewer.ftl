@@ -405,7 +405,7 @@ pdfjs-editor-new-alt-text-textarea =
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Koarte beskriuwing foar minsken dy’t de ôfbylding net sjen kinne of wannear’t de ôfbylding net laden wurdt.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
-pdfjs-editor-new-alt-text-disclaimer = Dizze alternative tekst is automatysk oanmakke.
+pdfjs-editor-new-alt-text-disclaimer1 = Dizze alternative tekst is automatysk makke en is mooglik net korrekt.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Mear ynfo
 pdfjs-editor-new-alt-text-create-automatically-button-label = Alternative tekst automatysk oanmeitsje
 pdfjs-editor-new-alt-text-not-now-button = No net
