@@ -166,7 +166,7 @@ main-context-menu-copy-link-simple =
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = Copia l'enllaç sense seguiment del lloc
-    .accesskey = p
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##

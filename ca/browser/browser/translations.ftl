@@ -173,7 +173,7 @@ translations-settings-close-dialog =
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
     .label = Tradueix la selecció…
-    .accesskey = T
+    .accesskey = x
 # Text displayed in the right-click context menu for translating
 # selected text to a target language.
 #
@@ -181,12 +181,12 @@ main-context-menu-translate-selection =
 #   $language (string) - The localized display name of the target language
 main-context-menu-translate-selection-to-language =
     .label = Tradueix la selecció a: { $language }
-    .accesskey = T
+    .accesskey = x
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = Tradueix el text de l'enllaç…
-    .accesskey = T
+    .accesskey = x
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a target language.
 #
@@ -194,7 +194,7 @@ main-context-menu-translate-link-text =
 #   $language (string) - The localized display name of the target language
 main-context-menu-translate-link-text-to-language =
     .label = Tradueix el text de l'enllaç a: { $language }
-    .accesskey = T
+    .accesskey = x
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Traducció
 # Text displayed above the from-language dropdown menu.
