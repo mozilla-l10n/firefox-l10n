@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Décharger les onglets et tuer le processus
+about-processes-kill-process =
+    .title = Tuer le processus
 about-processes-shutdown-tab =
     .title = Fermer l’onglet
 # Profiler icons
