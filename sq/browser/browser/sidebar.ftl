@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Fshije prej Historiku
+sidebar-history-sort-by-date =
+    .label = Renditi sipas datash
+sidebar-history-sort-by-site =
+    .label = Renditi sipas sajtesh
+sidebar-history-clear =
+    .label = Spastro historikun
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Hiqe zgjerimin
 sidebar-context-menu-report-extension =
     .label = Raportojeni zgjerimin
+sidebar-context-menu-open-in-window =
+    .label = Hape në Dritare të Re
+sidebar-context-menu-open-in-private-window =
+    .label = Hape në Dritare të Re Private
+sidebar-context-menu-bookmark-tab =
+    .label = Faqeruaje Skedën…
+sidebar-context-menu-copy-link =
+    .label = Kopjoji Lidhjen
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Fshije prej Historiku
 
 ## Labels for sidebar menu items.
 

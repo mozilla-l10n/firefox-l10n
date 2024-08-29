@@ -89,6 +89,8 @@ shopping-show-less-button = Shfaq më pak
 
 shopping-settings-label =
     .label = Rregullime
+shopping-settings-recommendations-toggle2 =
+    .label = Shfaq rekomandime dhe lëndë të sponsorizuar
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
 shopping-settings-recommendations-learn-more2 = Do të shihni reklama me raste, për produkte të afërt. Shfaqim reklama vetëm për produkte me shqyrtime të besueshme. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
