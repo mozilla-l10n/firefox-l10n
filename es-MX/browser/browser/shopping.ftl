@@ -182,5 +182,15 @@ shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Al seleccionar “{ shopping-onboarding-opt-in-button }“, aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -brand-product-name } y <a data-l10n-name="terms_of_use">los términos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sí, poner a prueba
 shopping-onboarding-not-now-button = Ahora no
+shopping-onboarding-dialog-close-button =
+    .title = Cerrar
+    .aria-label = Cerrar
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paso { $current } de { $total }

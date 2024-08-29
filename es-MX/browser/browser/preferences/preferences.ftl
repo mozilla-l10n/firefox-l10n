@@ -920,6 +920,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Utilizar una contraseña principal
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Requerir inicio de sesión en el dispositivo para completar y administrar contraseñas
 forms-primary-pw-learn-more-link = Más información
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -940,6 +943,7 @@ forms-windows-sso =
     .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar las cuentas en la configuración de tu dispositivo
+windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
 
 ## OS Authentication dialog
 
@@ -951,6 +955,12 @@ primary-password-os-auth-dialog-message-win = Para crear una contraseña princip
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear una contraseña principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] cambia los ajustes para los métodos de pago
+       *[other] { -brand-short-name } está intentando cambiar los ajustes de los métodos de pago. Usa el inicio de sesión de su dispositivo para permitir esto.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -966,6 +976,9 @@ autofill-payment-methods-checkbox-submessage = Incluye tarjetas de crédito y d�
     .accesskey = I
 autofill-saved-payment-methods-button = Métodos de pago guardados
     .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el dispositivo para introducir y administrar métodos de pago
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1021,6 +1034,7 @@ sitedata-delete-on-close =
     .label = Eliminar cookies y datos del sitio cuando se cierra { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio se borrarán siempre cuando se cierre { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
@@ -1061,9 +1075,12 @@ cookie-banner-handling-description = { -brand-short-name } rechaza automáticame
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Bloqueador de banners de cookies
+cookie-banner-blocker-description = Cuando un sitio pregunta si puede utilizar cookies en el modo de navegación privada, { -brand-short-name } se niega automáticamente. Solo en sitios compatibles.
 cookie-banner-learn-more = Saber más
 forms-handle-cookie-banners =
     .label = Reducir los avisos de cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Rechazar automáticamente los avisos de cookies
 
 ## Privacy Section - Address Bar
 
@@ -1098,6 +1115,9 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostrar las sugerencias de búsqueda más populares
+    .accesskey = t
 addressbar-quickactions-learn-more = Saber más
 
 ## Privacy Section - Content Blocking
@@ -1106,6 +1126,10 @@ content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorad
 content-blocking-section-top-level-description = Los rastreadores te siguen en línea para recopilar información sobre tus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Saber más
 content-blocking-fpi-incompatibility-warning = Estás usando First Party Isolation (FPI), que reemplaza algunas de las configuraciones de cookies de { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Estás usando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de protección de huellas digitales de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1139,6 +1163,10 @@ content-blocking-all-windows-tracking-content = Contenido de rastreo en todas la
 content-blocking-all-cross-site-cookies = Todas las cookies entre sitios
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Detectores de huellas digitales, conocidos y sospechosos
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1177,6 +1205,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Huellas dactilares
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Detectores de huellas digitales conocidos
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Presuntos detectores de huellas digitales
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1272,6 +1312,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Preferencias de publicidad para el sitio web
+website-advertising-private-attribution =
+    .label = Permitir que los sitios web realicen mediciones de anuncios con respeto a la privacidad
+    .accesskey = a
+website-advertising-private-attribution-description = Esto ayuda a los sitios a entender el rendimiento de sus anuncios sin recopilar datos sobre los usuarios.
 
 ## Privacy Section - Security
 ##
@@ -1303,6 +1347,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguridad…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permitir que { -brand-short-name } confíe automáticamente en los certificados raíz de terceros que se instalen
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Abrir ajustes
     .accesskey = A
@@ -1313,13 +1360,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 
 httpsonly-header = Modo solo HTTPS
 httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visitas. La mayoría de los sitios web admiten HTTPS, y si el modo HTTPS-Only está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
+httpsonly-description2 = { -brand-short-name } crea conexiones seguras y cifradas a los sitios que visitas. { -brand-short-name } te avisará si una conexión no es segura cuando el modo solo HTTPS esté activado.
 httpsonly-learn-more = Saber más
 httpsonly-radio-enabled =
     .label = Habilitar el modo solo HTTPS en todas las ventanas
+httpsonly-radio-enabled2 =
+    .label = Solo usar HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
     .label = Habilitar el modo solo HTTPS solo en ventanas privadas
+httpsonly-radio-enabled-pbm2 =
+    .label = Solo usar HTTPS en las ventanas privadas
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-radio-disabled2 =
+    .label = Probar HTTPS primero, pero permitir conexiones que no son seguras
 
 ## DoH Section
 
