@@ -210,7 +210,7 @@ containers-remove-alert-msg =
 containers-remove-ok-button = Fjern denne behaldaren
 containers-remove-cancel-button = Ikkje fjern denne behaldaren
 settings-tabs-show-image-in-preview =
-    .label = Vis ei førehandsvising av eit bilde når du held musepeikaren på ei fane
+    .label = Vis ei førehandsvising når du held musepeikaren over ei fane
     .accessKey = f
 
 ## General Section - Language & Appearance
