@@ -71,20 +71,32 @@ sidebar-context-menu-open-in-private-window =
     .label = Abrir en una nueva ventana privada
 sidebar-context-menu-bookmark-tab =
     .label = Agregar pestaña a marcadores…
+sidebar-context-menu-copy-link =
+    .label = Copiar enlace
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Eliminar del historial
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Chatbot de IA
 sidebar-menu-history-label =
     .label = Historial
 sidebar-menu-synced-tabs-label =
     .label = Pestañas de otros dispositivos
 sidebar-menu-bookmarks-label =
     .label = Marcadores
+sidebar-menu-customize-label =
+    .label = Personalizar barra lateral
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personalizar barra lateral
 sidebar-menu-history-header =
     .heading = Historial
+sidebar-menu-syncedtabs-header =
+    .heading = Pestañas de otros dispositivos

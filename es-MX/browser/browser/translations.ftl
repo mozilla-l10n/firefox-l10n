@@ -40,10 +40,20 @@ translations-panel-settings-manage-languages =
 translations-panel-settings-about = Acerca de las traducciones en { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Acerca de las traducciones en { -brand-shorter-name }
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Siempre traducir { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Siempre traduce este idioma
 translations-panel-settings-always-offer-translation =
     .label = Siempre ofrecer traducir
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Nunca traducir { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nunca traducir este idioma
 # Text displayed for the option to never translate this website
@@ -60,6 +70,8 @@ translations-panel-translate-button-loading =
     .label = Por favor, espera…
 translations-panel-translate-cancel =
     .label = Cancelar
+translations-panel-learn-more-link = Saber más
+translations-panel-intro-header = Prueba traducciones privadas en { -brand-shorter-name }
 translations-panel-error-load-languages-hint-button =
     .label = Intentar de nuevo
 translations-panel-error-change-button =
