@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Controlar qualitate de recension
 
 more-to-consider-ad-label =
     .label = Altero a considerar
+shopping-sponsored-label = Sponsorisate
 ad-by-fakespot = Aviso publicitari per { -fakespot-brand-name }
 
 ## Shopping survey strings.
