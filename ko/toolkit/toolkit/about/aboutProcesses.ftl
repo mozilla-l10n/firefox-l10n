@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = 탭 언로드 및 프로세스 종료
+about-processes-kill-process =
+    .title = 프로세스 종료
 about-processes-shutdown-tab =
     .title = 탭 닫기
 # Profiler icons

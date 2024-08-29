@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니�
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain }이(가) 이 웹 사이트를 찾지 못했습니다.
 neterror-dns-not-found-trr-server-problem = { $trrDomain }에 문제가 있습니다.
 neterror-dns-not-found-bad-trr-url = 잘못된 URL.
+neterror-dns-not-found-system-sleep = 시스템이 절전 모드 상태입니다.
 neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
 
 ## Native fallback specific messages
