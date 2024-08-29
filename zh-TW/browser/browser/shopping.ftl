@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = 設定
 shopping-settings-recommendations-toggle2 =
     .label = 顯示推薦與贊助內容
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } 不會將您的個人資料與他人分享，這些建議設定不會在網路上偷偷跟蹤您。<a data-l10n-name="review-quality-url">更多資訊</a>
 shopping-settings-recommendations-toggle =
     .label = 在商品評論檢查器中顯示廣告
 shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
