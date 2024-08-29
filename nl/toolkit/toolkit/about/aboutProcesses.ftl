@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Tabbladen leegmaken en proces beëindigen
+about-processes-kill-process =
+    .title = Proces beëindigen
 about-processes-shutdown-tab =
     .title = Tabblad sluiten
 # Profiler icons

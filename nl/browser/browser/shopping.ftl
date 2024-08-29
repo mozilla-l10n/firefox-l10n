@@ -89,6 +89,9 @@ shopping-show-less-button = Minder tonen
 
 shopping-settings-label =
     .label = Instellingen
+shopping-settings-recommendations-toggle2 =
+    .label = Aanbevelingen en gesponsorde inhoud tonen
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } deelt uw persoonlijke gegevens niet, dus deze aanbevelingen volgen u niet op het internet. <a data-l10n-name="review-quality-url">Meer info</a>
 shopping-settings-recommendations-toggle =
     .label = Advertenties tonen in beoordelingscontrole
 shopping-settings-recommendations-learn-more2 = U ziet af en toe advertenties voor relevante producten. We adverteren alleen voor producten met betrouwbare beoordelingen. <a data-l10n-name="review-quality-url">Meer info</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Beoordelingskwaliteit controleren
 
 more-to-consider-ad-label =
     .label = Meer overwegingen
+shopping-sponsored-label = Gesponsord
 ad-by-fakespot = Advertentie van { -fakespot-brand-name }
 
 ## Shopping survey strings.
