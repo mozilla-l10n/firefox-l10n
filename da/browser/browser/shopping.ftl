@@ -89,6 +89,9 @@ shopping-show-less-button = Vis færre
 
 shopping-settings-label =
     .label = Indstillinger
+shopping-settings-recommendations-toggle2 =
+    .label = Vis anbefalinger og sponsoreret indhold
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } deler ikke dine personlige data, så disse anbefalinger kommer ikke til at følge dig rundt på nettet. <a data-l10n-name="review-quality-url">Læs mere</a>
 shopping-settings-recommendations-toggle =
     .label = Vis reklamer i verificering af anmeldelser
 shopping-settings-recommendations-learn-more2 = Du vil til tider få vist reklamer for relevante produkter. Vi reklamerer kun for produkter med pålidelige anmeldelser. <a data-l10n-name="review-quality-url">Læs mere</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Kontroller kvalitet af anmeldelser
 
 more-to-consider-ad-label =
     .label = Mere at overveje
+shopping-sponsored-label = Sponsoreret
 ad-by-fakespot = Reklame fra { -fakespot-brand-name }
 
 ## Shopping survey strings.

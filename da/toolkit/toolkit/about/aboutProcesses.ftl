@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Inaktiver faneblade og afslut proces
+about-processes-kill-process =
+    .title = Afslut proces
 about-processes-shutdown-tab =
     .title = Luk faneblad
 # Profiler icons
