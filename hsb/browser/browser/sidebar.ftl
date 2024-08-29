@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Z historije zhašeć
+sidebar-history-sort-by-date =
+    .label = Po datumje sortěrować
+sidebar-history-sort-by-site =
+    .label = Po sydle sortěrować
+sidebar-history-clear =
+    .label = Historiju zhašeć
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
 sidebar-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
+sidebar-context-menu-open-in-window =
+    .label = W nowym woknje wočinić
+sidebar-context-menu-open-in-private-window =
+    .label = W nowym priwatnym woknje wočinić
+sidebar-context-menu-bookmark-tab =
+    .label = Rajtark jako zapołožku składować …
+sidebar-context-menu-copy-link =
+    .label = Wotkaz kopěrować
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Z historije zhašeć
 
 ## Labels for sidebar menu items.
 

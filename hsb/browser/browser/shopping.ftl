@@ -164,6 +164,7 @@ shopping-unanalyzed-product-analyze-button = Kwalitu pohódnoćenjow kontrolowa�
 
 more-to-consider-ad-label =
     .label = Dalše móžnosće
+shopping-sponsored-label = Sponserowany
 ad-by-fakespot = Wabjenje wot { -fakespot-brand-name }
 
 ## Shopping survey strings.
