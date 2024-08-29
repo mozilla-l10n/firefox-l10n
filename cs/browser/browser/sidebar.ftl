@@ -60,6 +60,9 @@ sidebar-context-menu-remove-extension =
 sidebar-context-menu-report-extension =
     .label = Nahlásit rozšíření
 
+## Labels for sidebar history context menu items
+
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -76,7 +79,7 @@ sidebar-menu-customize-label =
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Přizpůsobit postranní lištu
+    .heading = Přizpůsobení postranní lišty
 sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
