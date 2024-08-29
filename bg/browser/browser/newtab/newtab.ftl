@@ -349,6 +349,10 @@ newtab-wallpaper-feature-highlight-button = Разбрах
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Вижте прогнозата в { $provider }
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

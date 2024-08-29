@@ -14,6 +14,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Отваряне на { $targetURI } в нов раздел
+# Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Затваряне на { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Току-що
 

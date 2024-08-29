@@ -157,14 +157,46 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Внасяне на пароли от Safari
 migration-safari-password-import-steps-header = За да внесете пароли от Safari:
 migration-safari-password-import-select-button = Изберете Файл
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { NUMBER($quantity) ->
+        [one] { $quantity } любим
+       *[other] { $quantity } любими
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { NUMBER($quantity) ->
+        [one] { $quantity } разширениe
+       *[other] { $quantity } разширения
+    }
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { NUMBER($quantity) ->
+        [one] { $quantity } парола
+       *[other] { $quantity } пароли
+    }
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #

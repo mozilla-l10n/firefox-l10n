@@ -161,6 +161,8 @@ mr2022-onboarding-secondary-skip-button-label = Пропускане
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Запазване и продължаване
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Задаване на { -brand-short-name } като браузър по подразбиране
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Внасяне от предишен браузър
 
@@ -270,6 +272,7 @@ onboarding-device-migration-primary-button-label = Вход
 
 ## Add-ons Picker screen
 
+amo-picker-title = Персонализирайте вашия { -brand-short-name }
 amo-picker-install-complete-label = Инсталирано
 
 ## The following screens have been updated to use security and privacy focused strings:
