@@ -170,6 +170,11 @@ translations-settings-close-dialog =
     .buttonlabelaccept = بند کرو
     .buttonaccesskeyaccept = C
 # Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = ترجمہ چݨݨ۔۔۔
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = لنک عبارت دا ترجمہ کرو۔۔۔
