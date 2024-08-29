@@ -89,6 +89,9 @@ shopping-show-less-button = Vis mindre
 
 shopping-settings-label =
     .label = Innstillingar
+shopping-settings-recommendations-toggle2 =
+    .label = Vis tilrådingar og sponsa innhald
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } deler ikkje dine personlege data, så desse tilrådingane følgjer deg ikkje rundt på internett.<a data-l10n-name="review-quality-url">Finn ut meir</a>
 shopping-settings-recommendations-toggle =
     .label = Vis annonsar i vurderingskontrolløren
 shopping-settings-recommendations-learn-more2 = Du ser sporadiske annonsar for relevante produkt. Vi annonserer berre produkt med pålitelege vurderingar. <a data-l10n-name="review-quality-url">Les meir</a>
