@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = מחיקה מההיסטוריה
+sidebar-history-sort-by-date =
+    .label = מיון לפי תאריך
+sidebar-history-sort-by-site =
+    .label = מיון לפי אתר
+sidebar-history-clear =
+    .label = ניקוי היסטוריה
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = הסרת הרחבה
 sidebar-context-menu-report-extension =
     .label = דיווח על הרחבה
+sidebar-context-menu-open-in-window =
+    .label = פתיחה בחלון חדש
+sidebar-context-menu-open-in-private-window =
+    .label = פתיחה בחלון פרטי חדש
+sidebar-context-menu-bookmark-tab =
+    .label = יצירת סימנייה ללשונית…
+sidebar-context-menu-copy-link =
+    .label = העתקת קישור
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = מחיקה מההיסטוריה
 
 ## Labels for sidebar menu items.
 

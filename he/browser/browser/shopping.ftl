@@ -89,6 +89,9 @@ shopping-show-less-button = להציג פחות
 
 shopping-settings-label =
     .label = הגדרות
+shopping-settings-recommendations-toggle2 =
+    .label = הצגת המלצות ותוכן ממומן
+shopping-settings-recommendations-learn-more3 = ‏{ -brand-product-name } לא משתף את הנתונים האישיים שלך, כך שההמלצות האלה לא יעקבו אחריך ברחבי הרשת. <a data-l10n-name="review-quality-url">מידע נוסף</a>
 shopping-settings-recommendations-toggle =
     .label = הצגת פרסומות בבודק הסקירות
 shopping-settings-recommendations-learn-more2 = מדי פעם יוצגו פרסומות עבור מוצרים רלוונטיים. אנו מפרסמים רק מוצרים בעלי סקירות אמינות. <a data-l10n-name="review-quality-url">מידע נוסף</a>
@@ -160,6 +163,7 @@ shopping-unanalyzed-product-analyze-button = בדיקת איכות הסקירו�
 
 ## Strings for the advertisement
 
+shopping-sponsored-label = ממומן
 ad-by-fakespot = פרסומת מאת { -fakespot-brand-name }
 
 ## Shopping survey strings.

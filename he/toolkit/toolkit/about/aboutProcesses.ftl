@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = ביטול טעינת הלשוניות וסיום התהליך
+about-processes-kill-process =
+    .title = סגירת תהליך
 about-processes-shutdown-tab =
     .title = סגירת לשונית
 # Profiler icons
