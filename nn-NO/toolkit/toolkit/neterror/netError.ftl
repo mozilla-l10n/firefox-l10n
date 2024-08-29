@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Du er ikkje kopla til internett.
 neterror-dns-not-found-trr-unknown-host2 = Denne nettstaden vart ikkje funnen av { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Det er eit problem med { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ugyldig nettadresse.
+neterror-dns-not-found-system-sleep = Systemet er i kvilemodus.
 neterror-dns-not-found-trr-unknown-problem = Uventa problem.
 
 ## Native fallback specific messages
