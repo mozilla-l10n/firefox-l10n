@@ -117,3 +117,6 @@ about-telemetry-category-header = категория
 about-telemetry-method-header = метод
 about-telemetry-object-header = обект
 about-telemetry-extra-header = допълнително
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } процес

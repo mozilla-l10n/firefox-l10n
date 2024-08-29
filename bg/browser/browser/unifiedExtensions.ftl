@@ -36,5 +36,9 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Някои разширения не са позволени
+    .message = С цел защита на вашите данни, някои разширения не могат да четат или променят данни на този сайт. Използвайте настройките на разширението за да разрешите тези действия на сайтове, които са ограничени от { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Научете повече
     .aria-label = Научете повече: Някои разширения не са позволени
