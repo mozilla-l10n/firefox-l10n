@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Kontroller kvaliteten på vurdering
 
 more-to-consider-ad-label =
     .label = Meir å vurdere
+shopping-sponsored-label = Sponsa
 ad-by-fakespot = Reklame frå { -fakespot-brand-name }
 
 ## Shopping survey strings.
