@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Descarregar abas e encerrar processo
+about-processes-kill-process =
+    .title = Encerrar processo
 about-processes-shutdown-tab =
     .title = Fechar aba
 # Profiler icons
