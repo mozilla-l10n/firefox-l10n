@@ -75,6 +75,14 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { NUMBER($tabCount) ->
+        [one] Да се затвори ли { $tabCount } раздел?
+       *[other] Да се затворят ли { $tabCount } раздела?
+    }
 tabbrowser-confirm-close-tabs-button = Затваряне на разделите
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.

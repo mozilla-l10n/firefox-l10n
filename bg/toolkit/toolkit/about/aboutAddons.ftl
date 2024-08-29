@@ -367,6 +367,10 @@ addon-detail-updates-radio-on = Включено
 addon-detail-updates-radio-off = Изключено
 addon-detail-update-check-label = Проверка за обновяване
 install-update-button = Обновяване
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -375,6 +379,10 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 addon-detail-private-browsing-allow = Разрешаване
 addon-detail-private-browsing-disallow = Забраняване
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
