@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Unload tabs and kill process
+about-processes-kill-process =
+    .title = Kill process
 about-processes-shutdown-tab =
     .title = Close tab
 # Profiler icons
