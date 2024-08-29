@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Нещодавня активність
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Рекомендації від { $provider }
 newtab-section-header-stories = Розповіді, що спонукають замислитися
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Сьогоднішня підбірка для вас
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -236,6 +238,16 @@ newtab-pocket-saved = Збережено
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Більше подібного
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Не для мене
+newtab-toast-thumbs-up-or-down = Дякую. Ваш відгук допоможе нам покращити вашу стрічку.
+newtab-toast-dismiss-button =
+    .title = Відхилити
+    .aria-label = Відхилити
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -395,6 +407,9 @@ newtab-topic-label-home = Дім і сад
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Виберіть теми, щоб налаштувати свій канал
 newtab-topic-selection-save-button = Зберегти
 newtab-topic-selection-cancel-button = Скасувати
 newtab-topic-selection-button-maybe-later = Можливо, пізніше

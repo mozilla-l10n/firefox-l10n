@@ -60,6 +60,7 @@ pane-experimental-description2 = Зміна розширених налашту�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Спробуйте наші експериментальні функції! Вони розробляються та розвиваються, що може вплинути на роботу { -brand-short-name }.
 pane-experimental-reset =
     .label = Відновити типові
     .accesskey = В

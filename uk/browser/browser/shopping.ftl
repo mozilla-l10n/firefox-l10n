@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Перевірку відгуків <s
 shopping-adjusted-rating-label =
     .label = Скоригований рейтинг
 shopping-adjusted-rating-unreliable-reviews = Сумнівні відгуки прибрано
+shopping-adjusted-rating-based-reliable-reviews = На основі надійних відгуків
 
 ## Strings for the review reliability component
 

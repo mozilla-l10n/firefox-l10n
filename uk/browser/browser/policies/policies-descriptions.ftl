@@ -119,6 +119,7 @@ policy-Permissions2 = Налаштувати дозволи для камери,
 policy-PictureInPicture = Увімкнути чи вимкнути Зображення в зображенні.
 policy-PopupBlocking = Дозволити певним вебсайтам завжди показувати спливні вікна.
 policy-Preferences = Встановити і зафіксувати значення для набору налаштувань.
+policy-PrivateBrowsingModeAvailability = Налаштувати доступність режиму приватного перегляду.
 policy-PromptForDownloadLocation = Запитувати, де зберігати файли під час завантаження.
 policy-Proxy = Налаштувати параметри проксі.
 policy-RequestedLocales = Встановити перелік запитуваних мов для програми в бажаному порядку.
