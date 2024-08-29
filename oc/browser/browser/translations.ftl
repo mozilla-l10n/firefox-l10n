@@ -125,6 +125,7 @@ translations-manage-description = Telecargar de lengas per la traduccion fòra l
 translations-manage-all-language = Totas les lengas
 translations-manage-download-button = Telecargar
 translations-manage-delete-button = Suprimir
+translations-manage-intro-2 = Definissètz vòstras preferéncias de lenga e de traduccion dels sites, e gerissètz lo telecargament de las lengas per la traduccion fòra linha.
 translations-manage-download-description = Telecargar de lengas per la traduccion fòra linha
 translations-manage-language-download-button =
     .label = Telecargar
