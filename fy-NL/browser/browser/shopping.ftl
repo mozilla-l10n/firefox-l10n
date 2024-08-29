@@ -89,6 +89,9 @@ shopping-show-less-button = Minder toane
 
 shopping-settings-label =
     .label = Ynstellingen
+shopping-settings-recommendations-toggle2 =
+    .label = Oanrekommandaasjes en sponsore ynhâld toane
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } dielt jo persoanlike gegevens net, dus dizze oanrekommandaasjes folgje jo net op it ynternet. <a data-l10n-name="review-quality-url">Mear ynfo</a>
 shopping-settings-recommendations-toggle =
     .label = Advertinsjes toane yn beoardielingskontrôle
 shopping-settings-recommendations-learn-more2 = Jo sjogge sa no en dan advertinsjes foar relevante produkten. Wy advertearje allinnich foar produkten mei betroubere beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
@@ -164,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = Beoardielingskwaliteit kontrolearje
 
 more-to-consider-ad-label =
     .label = Mear oerwagingen
+shopping-sponsored-label = Sponsore
 ad-by-fakespot = Advertinsje fan { -fakespot-brand-name }
 
 ## Shopping survey strings.

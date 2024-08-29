@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Ljepblêden leechmeitsje en proses beëinigje
+about-processes-kill-process =
+    .title = Proses beëinigje
 about-processes-shutdown-tab =
     .title = Ljepblêd slute
 # Profiler icons
