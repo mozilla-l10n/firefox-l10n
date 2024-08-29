@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Chargiar l'adressa endatada en la trav d'adressas
 urlbar-page-action-button =
     .tooltiptext = Acziuns da pagina
+urlbar-revert-button =
+    .tooltiptext = Mussar l’adressa en la trav d’adressas
+urlbar-show-page-actions-button =
+    .tooltiptext = Mussar tut las acziuns per la pagina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
