@@ -410,7 +410,7 @@ newtab-topic-label-education-science = Vitenskap
 # ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
 # aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
 # at the top of https://getpocket.com/explore/self-improvement for more context.
-newtab-topic-label-society = Lifehacks
+newtab-topic-label-society = Life hacks
 newtab-topic-label-sports = Sport
 newtab-topic-label-tech = Teknologi
 newtab-topic-label-travel = Reise
