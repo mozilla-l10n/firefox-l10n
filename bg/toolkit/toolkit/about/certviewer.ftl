@@ -44,6 +44,14 @@ certificate-viewer-fingerprints = Отпечатъци
 certificate-viewer-basic-constraints = Основни ограничения
 certificate-viewer-key-usages = Основна употреба
 certificate-viewer-extended-key-usages = Разширена употреба
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Да
+       *[false] не
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.

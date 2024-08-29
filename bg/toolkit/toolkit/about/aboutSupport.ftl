@@ -62,6 +62,10 @@ app-basics-remote-processes-count = Отдалечени процеси
 app-basics-enterprise-policies = Ведомствени ограничения
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Надежден режим
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Показване във Finder
@@ -278,6 +282,10 @@ sandbox-proc-type-media-plugin = приставка за медия
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Асинхронно преместване / мащабиране
 apz-none = няма
 wheel-enabled = използване на колелцето на мишката
