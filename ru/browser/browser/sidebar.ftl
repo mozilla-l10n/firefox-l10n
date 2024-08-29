@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Удалить из истории
+sidebar-history-sort-by-date =
+    .label = Сортировать по дате
+sidebar-history-sort-by-site =
+    .label = Сортировать по сайтам
+sidebar-history-clear =
+    .label = Очистить журнал
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Удалить расширение
 sidebar-context-menu-report-extension =
     .label = Пожаловаться на расширение
+sidebar-context-menu-open-in-window =
+    .label = Открыть в новом окне
+sidebar-context-menu-open-in-private-window =
+    .label = Открыть в новом приватном окне
+sidebar-context-menu-bookmark-tab =
+    .label = Добавить вкладку в закладки…
+sidebar-context-menu-copy-link =
+    .label = Копировать ссылку
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Удалить из журнала
 
 ## Labels for sidebar menu items.
 
