@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = 解除載入分頁並結束處理程序
+about-processes-kill-process =
+    .title = 結束處理程序
 about-processes-shutdown-tab =
     .title = 關閉分頁
 # Profiler icons

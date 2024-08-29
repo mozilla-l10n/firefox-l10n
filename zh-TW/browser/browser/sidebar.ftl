@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = 從瀏覽紀錄刪除
+sidebar-history-sort-by-date =
+    .label = 依照日期排序
+sidebar-history-sort-by-site =
+    .label = 依照網站排序
+sidebar-history-clear =
+    .label = 清除瀏覽紀錄
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = 移除擴充套件
 sidebar-context-menu-report-extension =
     .label = 檢舉擴充套件
+sidebar-context-menu-open-in-window =
+    .label = 用新視窗開啟
+sidebar-context-menu-open-in-private-window =
+    .label = 用新隱私視窗開啟
+sidebar-context-menu-bookmark-tab =
+    .label = 將分頁加入書籤…
+sidebar-context-menu-copy-link =
+    .label = 複製鏈結
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = 從瀏覽紀錄刪除
 
 ## Labels for sidebar menu items.
 

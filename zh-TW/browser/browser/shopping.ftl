@@ -89,6 +89,8 @@ shopping-show-less-button = 顯示更少
 
 shopping-settings-label =
     .label = 設定
+shopping-settings-recommendations-toggle2 =
+    .label = 顯示推薦與贊助內容
 shopping-settings-recommendations-toggle =
     .label = 在商品評論檢查器中顯示廣告
 shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
@@ -162,6 +164,7 @@ shopping-unanalyzed-product-analyze-button = 檢查評論品質
 
 more-to-consider-ad-label =
     .label = 可參考其他產品
+shopping-sponsored-label = 贊助項目
 ad-by-fakespot = { -fakespot-brand-name } 提供的商品廣告
 
 ## Shopping survey strings.
