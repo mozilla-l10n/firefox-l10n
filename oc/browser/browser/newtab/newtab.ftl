@@ -229,6 +229,9 @@ newtab-pocket-saved = Enregistrada
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+newtab-toast-dismiss-button =
+    .title = Ignorar
+    .aria-label = Ignorar
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -317,3 +320,9 @@ newtab-weather-menu-change-location = Modificar lo luòc
 newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

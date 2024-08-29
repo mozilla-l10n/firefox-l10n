@@ -881,6 +881,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Ne saber mai
 preferences-relay-integration-checkbox =
     .label = Suggerir los àlias de messatjariá { -relay-brand-name } per protegir vòstra adreça electronica.
+preferences-relay-integration-checkbox2 =
+    .label = Suggerir los àlias de messatjariá { -relay-brand-name } per protegir vòstra adreça electronica.
+    .accesskey = g
 relay-integration-learn-more-link = Ne saber mai
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -889,12 +892,19 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Identificants salvats…
     .accesskey = S
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Emplenar automaticament los noms d’utilizaire e senhals
+    .accesskey = E
 forms-saved-passwords =
     .label = Senhals salvats
     .accesskey = n
 forms-primary-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Exigir la connexion a l’aparelh per entresenhar e gerir los senhals
 forms-primary-pw-learn-more-link = Ne saber mai
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -941,6 +951,9 @@ autofill-payment-methods-checkbox-submessage = Inclutz las cartas de crèdit e d
     .accesskey = I
 autofill-saved-payment-methods-button = Metòdes de pagament enregistrats
     .accesskey = e
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Exigir la connexion a l’aparelh per entresenhar e gerir los metòdes de pagament
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1036,6 +1049,7 @@ cookie-banner-handling-description = Permetre a { -brand-short-name } de regetar
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blocador de bandièras de cookies
+cookie-banner-blocker-description = Quand un site demanda se pòt utilizar de cookies en navegacion privada, { -brand-short-name } refusa automaticament. S’aplica sonque als sites compatibles.
 cookie-banner-learn-more = Ne saber mai
 forms-handle-cookie-banners =
     .label = Reduire las bandièras de cookies
@@ -1075,6 +1089,9 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 addressbar-locbar-showrecentsearches-option =
     .label = Afichar las recèrcas recentas
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Afichar las suggestions de recèrca popularas
+    .accesskey = f
 addressbar-quickactions-learn-more = Ne saber mai
 
 ## Privacy Section - Content Blocking
