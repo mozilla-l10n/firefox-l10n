@@ -71,9 +71,13 @@ sidebar-context-menu-open-in-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
 sidebar-context-menu-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
+sidebar-context-menu-copy-link =
+    .label = Αντιγραφή συνδέσμου
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Διαγραφή από ιστορικό
 
 ## Labels for sidebar menu items.
 
