@@ -3,12 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar a los sitios web una señal de “No rastrear”, significa que no quieres ser rastreado
+do-not-track-description2 =
+    .label = Enviar a los sitios web una solicitud de “No rastrear”
+    .accesskey = d
 do-not-track-learn-more = Aprender más
 do-not-track-option-default-content-blocking-known =
     .label = Solo cuando { -brand-short-name } está configurado para bloquear los rastreadores conocidos
 do-not-track-option-always =
     .label = Siempre
+global-privacy-control-description =
+    .label = Decir a los sitios web que no vendan ni compartan mis datos
+    .accesskey = s
 non-technical-privacy-header = Preferencias de privacidad del sitio web
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Configuraciones
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -50,6 +60,7 @@ pane-experimental-description2 = Modificar los parámetros de la configuración 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = ¡Prueba nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -122,6 +133,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Abrir ventanas y pestañas anteriores
     .accesskey = s
+windows-launch-on-login =
+    .label = Abrir { -brand-short-name } automáticamente cuando se inicie tu computadora
+    .accesskey = O
+windows-launch-on-login-disabled = Esta opción se ha deshabilitado en Windows. Para cambiarla, visita <a data-l10n-name="startup-link">Aplicaciones de inicio</a> en la configuración del sistema.
 startup-restore-warn-on-quit =
     .label = Advertir al salir del navegador
 disable-extension =
@@ -194,6 +209,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Eliminar este marcador
 containers-remove-cancel-button = No eliminar este marcador
+settings-tabs-show-image-in-preview =
+    .label = Mostrar una imagen de vista previa cuando pases el cursor sobre una pestaña
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
@@ -249,6 +267,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Hacer zoom en el texto solamente
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Advertencia: si seleccionas "Ampliar solo texto" y tu aumento predeterminado no está configurado en 100%, podría ser que algunos sitios o contenidos fallen.
 language-header = Idioma
 choose-language-description = Elegir el idioma preferido para mostrar las páginas web
 choose-button =
@@ -470,6 +490,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Usar siempre las teclas del cursor para navegar dentro de las páginas
     .accesskey = c
+browsing-use-full-keyboard-navigation =
+    .label = Usa la tecla de tabulación para mover el foco entre los controles de formulario y los enlaces
+    .accesskey = p
 browsing-search-on-start-typing =
     .label = Buscar el texto cuando empiezas a escribir
     .accesskey = x
@@ -857,6 +880,10 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contraseñas
     .searchkeywords = inicios de sesión
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Preguntar para guardar contraseñas
+    .accesskey = A
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -870,6 +897,11 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contraseñas para sitios web comprometidos
     .accesskey = b
 forms-breach-alerts-learn-more-link = Saber más
+preferences-relay-integration-checkbox =
+    .label = Sugerir máscaras de correo electrónico { -relay-brand-name } para proteger tu dirección de correo electrónico
+preferences-relay-integration-checkbox2 =
+    .label = Sugerir máscaras de correo electrónico { -relay-brand-name } para proteger su dirección de correo electrónico
+    .accesskey = r
 relay-integration-learn-more-link = Saber más
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -878,6 +910,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Inicios de sesión guardados…
     .accesskey = I
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Completar nombres de usuario y contraseñas automáticamente
+    .accesskey = F
+forms-saved-passwords =
+    .label = Contraseñas guardadas
+    .accesskey = d
 forms-primary-pw-use =
     .label = Utilizar una contraseña principal
     .accesskey = U

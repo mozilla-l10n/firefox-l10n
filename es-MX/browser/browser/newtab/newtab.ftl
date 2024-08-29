@@ -404,6 +404,10 @@ newtab-topic-label-finance = Dinero
 newtab-topic-label-society-parenting = Paternidad
 newtab-topic-label-government = Políticas
 newtab-topic-label-education-science = Ciencia
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Trucos para la vida
 newtab-topic-label-sports = Deportes
 newtab-topic-label-tech = Tecnología
 newtab-topic-label-travel = Viajes
@@ -411,6 +415,15 @@ newtab-topic-label-home = Hogar y jardín
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selecciona temas para mejorar tu canal
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Selecciona dos o más temas. Nuestros curadores expertos priorizan las historias adaptadas a tus intereses. Puedes actualizar en cualquier momento.
 newtab-topic-selection-save-button = Guardar
 newtab-topic-selection-cancel-button = Cancelar
 newtab-topic-selection-button-maybe-later = Quizá más tarde
+newtab-topic-selection-privacy-link = Conoce cómo protegemos y administramos los datos
+newtab-topic-selection-button-update-interests = Actualiza tus intereses
+newtab-topic-selection-button-pick-interests = Elige tus intereses

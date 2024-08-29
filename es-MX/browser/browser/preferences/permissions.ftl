@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepciones - Modo solo HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puedes desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión a HTTPS seguro para esos sitios. Las excepciones no se aplican a las ventanas privadas.
+permissions-exceptions-https-only-desc2 = Puedes desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión a HTTPS seguro para esos sitios.
 
 ## Exceptions - Pop-ups
 
@@ -111,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Los inicios de sesión para los sigui
 permissions-exceptions-saved-passwords-window =
     .title = Excepciones - contraseñas guardadas
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } no guardará las contraseñas de los sitios listados aquí.
 
 ## Exceptions - Add-ons
 

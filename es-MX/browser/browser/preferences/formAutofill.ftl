@@ -20,6 +20,7 @@ autofill-manage-edit-button = Editar…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = ¿Guardar dirección?
+address-capture-save-doorhanger-description = Guarda la información en { -brand-short-name } para que pueda completar formularios rápidamente.
 address-capture-update-doorhanger-header = ¿Actualizar dirección?
 address-capture-edit-doorhanger-header = Editar dirección
 address-capture-save-button =
@@ -102,9 +103,6 @@ autofill-address-postal-code = Código postal
 autofill-address-zip = Código postal
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 
