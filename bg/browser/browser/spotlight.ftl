@@ -8,6 +8,7 @@
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Вземете { -focus-brand-name }
 spotlight-focus-promo-subtitle = Сканирайте QR кода за изтегляне.
 spotlight-focus-promo-qr-code =
     .alt = Сканирайте QR кода, за да получите { -focus-brand-name }

@@ -2,12 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name } Пазаруване
 
 ## Strings for the letter grade component.
 ## For now, we only support letter grades A, B, C, D and F.
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+# This string is displayed in a tooltip that appears when the user hovers
+# over the letter grade component without a visible description.
+# It is also used for screen readers.
+#  $letter (String) - The letter grade as A, B, C, D or F (hardcoded).
+#  $description (String) - The localized letter grade description. See shopping-letter-grade-description-* strings above.
+shopping-letter-grade-tooltip =
+    .title = { $letter } - { $description }
 
 ## Strings for the shopping message-bar
 
@@ -53,9 +61,11 @@ shopping-sidebar-open-button2 =
 
 ## Strings for the advertisement
 
+ad-by-fakespot = Реклама от { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Помогнете ни да подобрим { -brand-product-name }
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -64,3 +74,9 @@ shopping-sidebar-open-button2 =
 
 ## Onboarding message strings.
 
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Напредък: стъпка { $current } от { $total }
