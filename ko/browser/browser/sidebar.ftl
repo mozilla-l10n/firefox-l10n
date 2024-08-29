@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = 기록에서 삭제
+sidebar-history-sort-by-date =
+    .label = 날짜순 정렬
+sidebar-history-sort-by-site =
+    .label = 사이트순 정렬
+sidebar-history-clear =
+    .label = 기록 지우기
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = 확장 기능 제거
 sidebar-context-menu-report-extension =
     .label = 확장 기능 신고
+sidebar-context-menu-open-in-window =
+    .label = 새 창에서 열기
+sidebar-context-menu-open-in-private-window =
+    .label = 새 사생활 보호 창에서 열기
+sidebar-context-menu-bookmark-tab =
+    .label = 탭 북마크…
+sidebar-context-menu-copy-link =
+    .label = 링크 복사
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = 기록에서 삭제
 
 ## Labels for sidebar menu items.
 

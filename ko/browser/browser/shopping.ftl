@@ -89,6 +89,9 @@ shopping-show-less-button = 덜 보기
 
 shopping-settings-label =
     .label = 설정
+shopping-settings-recommendations-toggle2 =
+    .label = 추천 및 스폰서 콘텐츠 표시
+shopping-settings-recommendations-learn-more3 = { -brand-product-name }는 개인 데이터를 공유하지 않으므로 이러한 추천 항목은 인터넷에서 사용자를 따라다니지 않습니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-recommendations-toggle =
     .label = 리뷰 검사기에 광고 표시
 shopping-settings-recommendations-learn-more2 = 관련 제품에 대한 광고가 가끔 표시됩니다. 믿을 수 있는 리뷰가 있는 제품만을 광고합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
@@ -164,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = 리뷰 품질 확인
 
 more-to-consider-ad-label =
     .label = 더 보기
+shopping-sponsored-label = 스폰서
 ad-by-fakespot = { -fakespot-brand-name }의 광고
 
 ## Shopping survey strings.
