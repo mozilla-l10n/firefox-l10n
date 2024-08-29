@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Zrušit načtení panelů a zabít proces
+about-processes-kill-process =
+    .title = Ukončí proces
 about-processes-shutdown-tab =
     .title = Zavřít panel
 # Profiler icons
