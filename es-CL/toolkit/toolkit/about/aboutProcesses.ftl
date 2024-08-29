@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Detener pestañas y eliminar procesos
+about-processes-kill-process =
+    .title = Terminar proceso
 about-processes-shutdown-tab =
     .title = Cerrar pestaña
 # Profiler icons
