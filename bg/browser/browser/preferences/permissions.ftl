@@ -108,6 +108,9 @@ permissions-exceptions-saved-logins-desc = Регистрациите в сле�
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = Изключения - Запазени пароли
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
