@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Διαγραφή από ιστορικό
+sidebar-history-sort-by-date =
+    .label = Ταξινόμηση κατά ημερομηνία
+sidebar-history-sort-by-site =
+    .label = Ταξινόμηση κατά ιστότοπο
+sidebar-history-clear =
+    .label = Απαλοιφή ιστορικού
 
 ## Labels for sidebar search
 
@@ -59,6 +65,15 @@ sidebar-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
 sidebar-context-menu-report-extension =
     .label = Αναφορά επέκτασης
+sidebar-context-menu-open-in-window =
+    .label = Άνοιγμα σε νέο παράθυρο
+sidebar-context-menu-open-in-private-window =
+    .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
+sidebar-context-menu-bookmark-tab =
+    .label = Προσθήκη σελιδοδείκτη…
+
+## Labels for sidebar history context menu items
+
 
 ## Labels for sidebar menu items.
 
