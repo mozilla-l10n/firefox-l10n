@@ -160,6 +160,7 @@ shopping-unanalyzed-product-analyze-button = جائزے دا معیار ݙیکھ
 
 more-to-consider-ad-label =
     .label = غور کرݨ کِیتے کُجھ ٻِیا
+shopping-sponsored-label = سپانسر تھئے
 ad-by-fakespot = { -fakespot-brand-name } ولوں مشہوری
 
 ## Shopping survey strings.

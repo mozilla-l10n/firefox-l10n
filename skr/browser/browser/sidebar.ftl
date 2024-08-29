@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ہسٹری کنوں مٹاؤ
+sidebar-history-sort-by-date =
+    .label = تریخ دے لحاظ نال چھانٹی کرو
+sidebar-history-sort-by-site =
+    .label = سائٹ دے لحاظ نال چھانٹی کرو
+sidebar-history-clear =
+    .label = تاریخ صاف کرو
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = ایکسٹینشن ہٹاؤ
 sidebar-context-menu-report-extension =
     .label = ایکسٹنشن دی رپورٹ کرو
+sidebar-context-menu-open-in-window =
+    .label = نویں ونڈو وِچ کھولو
+sidebar-context-menu-open-in-private-window =
+    .label = نویں نجی ونڈو وِچ کھولو
+sidebar-context-menu-bookmark-tab =
+    .label = ٹیب کوں نشان زد کرو …
+sidebar-context-menu-copy-link =
+    .label = لنک کاپی کرو
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = ہسٹری کنوں مٹاؤ
 
 ## Labels for sidebar menu items.
 
