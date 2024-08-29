@@ -5,6 +5,10 @@
 
 ## Labels for sidebar history panel
 
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Видалити з історії
 
@@ -44,6 +48,9 @@ sidebar-context-menu-manage-extension =
     .label = Керувати розширенням
 sidebar-context-menu-report-extension =
     .label = Поскаржитись на розширення
+
+## Labels for sidebar history context menu items
+
 
 ## Labels for sidebar menu items.
 
