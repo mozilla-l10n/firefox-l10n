@@ -157,6 +157,16 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Внасяне на пароли от Safari
 migration-safari-password-import-steps-header = За да внесете пароли от Safari:
 migration-safari-password-import-select-button = Изберете Файл
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { NUMBER($quantity) ->
+        [one] { $quantity } отметка
+       *[other] { $quantity } отметки
+    }
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
