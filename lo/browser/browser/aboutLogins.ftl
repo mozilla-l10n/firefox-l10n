@@ -359,6 +359,7 @@ about-logins-import-report-row-index = ແຖວ { $number }
 about-logins-import-report-row-description-no-change = ຊໍ້າກັນ: ກົງກັນທຸກຢ່າງຂອງການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
+about-logins-import-report-row-description-added2 = ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ
 about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
 
 ##

@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = ສຳເລັດການຕັ້ງຄ່າບັນຊີ
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = ຕັດການເຊື່ອມຕໍ່ບັນຊີ
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = ສົ່ງໄປຫາທຸກອຸປະກອນ
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = ຈັດການອຸປະກອນ…
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = ຈັດການອຸປະກອນ...
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = ບໍ່ມີອຸປະກອນເຊື່ອມຕໍ່
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ຮຽນຮູ້ກ່ຽວກັບແທັບສົ່ງຕໍ່...
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ…
 
@@ -50,17 +45,16 @@ account-send-tab-to-device-verify = ຢືນຢັນບັນຊີຂອງ�
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
-
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = ບັນຊີ
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = ຄອມພິວເຕີເຄື່ອງນີ້ເຊື່ອມຕໍ່ກັບ { $deviceName } ແລ້ວ.
-
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = ດຽວນີ້ຄອມພິວເຕີເຄື່ອງນີ້ເຊື່ອມຕໍ່ກັບອຸປະກອນໃໝ່ແລ້ວ.
-
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = ທ່ານໄດ້ເຂົ້າສູ່ລະບົບສຳເລັດແລ້ວ
-
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = ຄອມພິວເຕີເຄື່ອງນີ້ຖືກຕັດການເຊື່ອມຕໍ່.
 
@@ -72,7 +66,6 @@ account-single-tab-arriving-title = ແທັບທີ່ໄດ້ຮັບ
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = ແທັບຈາກ { $deviceName }
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -85,10 +78,16 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ແທັບທີ່ໄດ້ຮັບ
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device = { $tabCount } ໄດ້ຮັບແທັບຈາກ { $deviceName }
 account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } ໄດ້ຮັບແທັບຈາກອຸປະກອນທີ່ໄດ້ເຊື່ອມຕໍ່ຂອງທ່ານ
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = { $tabCount } ໄດ້ຮັບແທັບແລ້ວ
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = ເບິ່ງແຖບທີ່ປິດບໍ່ດົນມານີ້
