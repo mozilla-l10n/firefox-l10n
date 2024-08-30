@@ -82,7 +82,7 @@ hf-blank =
 hf-title =
     .label = Cím
 hf-url =
-    .label = URL
+    .label = Webcím
 hf-date-and-time =
     .label = Dátum/idő
 hf-page =
@@ -103,7 +103,6 @@ print-window =
     .title = Nyomtatás
 print-complete =
     .value = A nyomtatás kész.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
