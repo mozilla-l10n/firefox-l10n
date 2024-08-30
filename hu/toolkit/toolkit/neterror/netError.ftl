@@ -11,7 +11,7 @@ certerror-sts-page-title = Nem kapcsolódott: lehetséges biztonsági probléma
 neterror-blocked-by-policy-page-title = Blokkolt oldal
 neterror-captive-portal-page-title = Bejelentkezés a hálózatba
 neterror-dns-not-found-title = A kiszolgáló nem található
-neterror-malformed-uri-page-title = Érvénytelen URL
+neterror-malformed-uri-page-title = Érvénytelen webcím
 
 ## Error page actions
 

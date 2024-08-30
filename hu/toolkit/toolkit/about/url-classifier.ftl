@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = URL-osztályozó információk
+url-classifier-title = Webcímosztályozó információk
 url-classifier-search-title = Keresés
 url-classifier-search-result-title = Találatok
 # Variables:
@@ -11,8 +11,8 @@ url-classifier-search-result-uri = URI: { $uri }
 # Variables:
 #   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Táblázatok listája: { $list }
-url-classifier-search-input = URL
-url-classifier-search-error-invalid-url = Érvénytelen URL
+url-classifier-search-input = Webcím
+url-classifier-search-error-invalid-url = Érvénytelen webcím
 url-classifier-search-error-no-features = Nincs funkció kiválasztva
 url-classifier-search-btn = Keresés indítása
 url-classifier-search-features = Funkciók
@@ -44,7 +44,6 @@ url-classifier-debug-sb-modules = Biztonságos böngészés naplómodulok
 url-classifier-debug-modules = Jelenlegi naplómodulok
 url-classifier-debug-sbjs-modules = Biztonságos böngészés JS napló
 url-classifier-debug-file = Jelenlegi naplófájl
-
 url-classifier-trigger-update = Frissítés aktiválása
 url-classifier-not-available = Nincs
 url-classifier-disable-sbjs-log = Biztonságos böngészés JS napló kikapcsolása

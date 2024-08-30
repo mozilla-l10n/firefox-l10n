@@ -28,7 +28,7 @@ styleeditor-no-stylesheet-tip = Szeretne <a data-l10n-name="append-new-styleshee
 styleeditor-open-link-new-tab =
     .label = Hivatkozás megnyitása új lapon
 styleeditor-copy-url =
-    .label = URL másolása
+    .label = Webcím másolása
 styleeditor-find =
     .label = Keresés
     .accesskey = e

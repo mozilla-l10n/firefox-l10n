@@ -15,7 +15,6 @@ psmerr-hostreusedissuerandserial =
     Érvénytelen tanúsítványt kapott.  Lépjen kapcsolatba a kiszolgáló adminisztrátorával vagy e-mailes kapcsolattartójával, és adja meg a következő információkat: 
     
     A tanúsítvány a hitelesítésszolgáltató egy másik tanúsítványával megegyező sorozatszámot tartalmaz.  Szerezzen egy egyedi sorozatszámmal rendelkező új tanúsítványt.
-
 ssl-error-export-only-server = Nem lehet biztonságosan kommunikálni. A partner nem támogatja a magas szintű titkosítást.
 ssl-error-us-only-server = Nem lehet biztonságosan kommunikálni. A partner olyan magas szintű titkosítást kíván meg, amely nincs támogatva.
 ssl-error-no-cypher-overlap = Nem lehet biztonságosan kommunikálni a partnerrel: nincs közös titkosító algoritmus.
@@ -119,7 +118,7 @@ ssl-error-user-canceled-alert = A partner megszakította a kézfogást.
 ssl-error-no-renegotiation-alert = A partner nem engedi az SSL biztonsági paramétereinek újratárgyalását.
 ssl-error-server-cache-not-configured = Az SSL kiszolgálói gyorsítótár nincs konfigurálva, és nincs letiltva a sockethez.
 ssl-error-unsupported-extension-alert = Az SSL-partner nem támogatja a kért TLS hello kiterjesztést.
-ssl-error-certificate-unobtainable-alert = Az SSL-partner nem tudja letölteni az Ön tanúsítványát a megadott URL-ről.
+ssl-error-certificate-unobtainable-alert = Az SSL-partner nem tudja letölteni az Ön tanúsítványát a megadott webcímről.
 ssl-error-unrecognized-name-alert = Az SSL-partnernek nincs tanúsítványa a kért DNS-névhez.
 ssl-error-bad-cert-status-response-alert = Az SSL-patner nem kapott OCSP-választ a tanúsítványára.
 ssl-error-bad-cert-hash-value-alert = Az SSL-partner hibás ujjlenyomat-értéket jelzett a tanúsítványhoz.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nem lett beállítva támogatott TL
 ssl-error-unsupported-signature-algorithm = A partner az aláírási és ujjlenyomat-készítési algoritmusok nem támogatott kombinációját használta.
 ssl-error-missing-extended-master-secret = A partner megfelelő extended_master_secret kiterjesztés nélkül próbálta folytatni.
 ssl-error-unexpected-extended-master-secret = A partner egy váratlan extended_master_secret kiterjesztéssel próbálta folytatni.
-
 sec-error-io = I/O hiba történt a biztonsági hitelesítés közben.
 sec-error-library-failure = biztonsági könyvtár hibája.
 sec-error-bad-data = biztonsági könyvtár: rossz adatok érkeztek.
@@ -319,7 +317,6 @@ sec-error-locked-password = A jelszó zárolva van.
 sec-error-unknown-pkcs11-error = Ismeretlen PKCS #11 hiba.
 sec-error-bad-crl-dp-url = Érvénytelen vagy nem támogatott URL a CRL terjesztési pont nevében.
 sec-error-cert-signature-algorithm-disabled = A tanúsítvány egy nem biztonságos, és emiatt letiltott aláírási algoritmussal lett aláírva.
-
 mozilla-pkix-error-key-pinning-failure = A kiszolgáló a kulcsrögzítést (HPKP) használja, de nem hozható létre a rögzítési készletnek megfelelő megbízható tanúsítványlánc. A kulcsrögzítés irányelvsértései nem bírálhatók felül.
 mozilla-pkix-error-ca-cert-used-as-end-entity = A kiszolgáló által használt tanúsítvány alapvető megszorítások kiterjesztése hitelesítésszolgáltatóként azonosítja. A megfelelően kibocsátott tanúsítványok esetén ennek nem így kell lennie.
 mozilla-pkix-error-inadequate-key-size = A kiszolgáló által bemutatott tanúsítvány kulcsmérete túl kicsi biztonságos kapcsolat létrehozásához.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = A kiszolgáló egy egész szám é
 mozilla-pkix-error-empty-issuer-name = A kiszolgáló által bemutatott tanúsítványban a kibocsátó megkülönböztető neve üres.
 mozilla-pkix-error-additional-policy-constraint-failed = Egy további házirendmegszorítás lett megsértve a tanúsítvány érvényesítésekor.
 mozilla-pkix-error-self-signed-cert = A tanúsítvány nem megbízható, mert a saját kibocsátója által van aláírva.
-
 xp-java-remove-principal-error = Nem sikerült eltávolítani az egyszerű nevet
 xp-java-delete-privilege-error = Nem sikerült törölni a jogosultságot
 xp-java-cert-not-exists-error = Ehhez az egyszerű névhez nem tartozik tanúsítvány
-
 xp-sec-fortezza-bad-card = A Fortezza kártya nem lett megfelelően inicializálva. Vegye ki, és juttassa vissza a kibocsátóhoz.
 xp-sec-fortezza-no-card = Nem található Fortezza kártya
 xp-sec-fortezza-none-selected = Nincs kiválasztva Fortezza kártya

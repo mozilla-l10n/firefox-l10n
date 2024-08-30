@@ -227,7 +227,7 @@ intl-regional-prefs = Területi beállítások
 
 remote-debugging-title = Távoli hibakeresés (Chromium protokoll)
 remote-debugging-accepting-connections = Kapcsolatok elfogadása
-remote-debugging-url = URL
+remote-debugging-url = Webcím
 
 ##
 

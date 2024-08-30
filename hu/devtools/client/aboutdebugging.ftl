@@ -256,7 +256,7 @@ about-debugging-tmp-extension-temporary-id = Ez a WebExtension ideiglenes azonos
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
-    .label = Jegyzékfájl URL
+    .label = Jegyzékfájl webcíme
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
