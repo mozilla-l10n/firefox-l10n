@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = ٹیباں کوں ان لوڈ کرو تے عمل کوں ختم کرو۔
+about-processes-kill-process =
+    .title = مارݨ دا عمل
 about-processes-shutdown-tab =
     .title = ٹیب بند کرو
 # Profiler icons

@@ -1102,6 +1102,9 @@ addressbar-suggestions-settings = ڳولݨ انجݨ تجویزاں کیتے تر
 addressbar-locbar-showrecentsearches-option =
     .label = حالیہ ڳویڑاں ݙِکھاؤ
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = رجحان ساز ڳولݨ تجویزاں ݙکھاؤ
+    .accesskey = t
 addressbar-quickactions-learn-more = ٻیا سِکھو
 
 ## Privacy Section - Content Blocking
@@ -1295,6 +1298,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = ویب سائٹ مشہوری ترجیحاں
 
 ## Privacy Section - Security
 ##
