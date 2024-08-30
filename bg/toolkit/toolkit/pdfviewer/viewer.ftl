@@ -51,12 +51,6 @@ pdfjs-download-button-label = Изтегляне
 pdfjs-bookmark-button =
     .title = Текуща страница (преглед на адреса на страницата)
 pdfjs-bookmark-button-label = Текуща страница
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Отваряне в приложение
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Отваряне в приложение
 
 ##  Secondary toolbar and context menu
 
@@ -110,6 +104,10 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Свойства на документа…
 pdfjs-document-properties-file-name = Име на файл:
 pdfjs-document-properties-file-size = Големина на файл:
+# Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } КБ ({ $b } байта)
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -301,8 +299,6 @@ pdfjs-editor-ink-button-label = Рисуване
 pdfjs-editor-stamp-button =
     .title = Добавяне или променяне на изображения
 pdfjs-editor-stamp-button-label = Добавяне или променяне на изображения
-pdfjs-editor-remove-button =
-    .title = Премахване
 
 ## Remove button for the various kind of editor.
 
@@ -382,3 +378,14 @@ pdfjs-editor-colorpicker-pink =
     .title = Розово
 pdfjs-editor-colorpicker-red =
     .title = Червено
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
