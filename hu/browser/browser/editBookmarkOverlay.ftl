@@ -6,8 +6,8 @@ bookmark-overlay-name-2 =
     .value = Név
     .accesskey = N
 bookmark-overlay-url =
-    .value = URL
-    .accesskey = U
+    .value = Webcím
+    .accesskey = W
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =

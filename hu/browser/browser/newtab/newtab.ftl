@@ -49,13 +49,13 @@ newtab-topsites-add-shortcut-label = Indítóikon hozzáadása
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
-newtab-topsites-url-label = URL
+newtab-topsites-url-label = Webcím
 newtab-topsites-url-input =
-    .placeholder = Írjon vagy illesszen be egy URL-t
-newtab-topsites-url-validation = Érvényes URL szükséges
-newtab-topsites-image-url-label = Egyéni kép URL
+    .placeholder = Írjon vagy illesszen be egy webcímet
+newtab-topsites-url-validation = Érvényes webcím szükséges
+newtab-topsites-image-url-label = Egyéni kép webcíme
 newtab-topsites-use-image-link = Egyéni kép használata…
-newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik URL-t.
+newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik webcímet.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

@@ -15,7 +15,7 @@ policy-AllowedDomainsForApps = Adja meg azokat a domaineket, amelyek hozzáférh
 policy-AllowFileSelectionDialogs = Fájlválasztó párbeszédablakok engedélyezése.
 policy-AppAutoUpdate = Az automatikus alkalmazásfrissítés engedélyezése vagy letiltása.
 policy-AppUpdatePin = A { -brand-short-name } megakadályozása abban, hogy a megadott verzión túl frissüljön.
-policy-AppUpdateURL = Egyéni alkalmazás-frissítési URL megadása.
+policy-AppUpdateURL = Egyéni alkalmazásfrissítési webcím megadása.
 policy-Authentication = Integrált hitelesítés beállítása azokhoz a weboldalakhoz, melyek támogatják.
 policy-AutofillAddressEnabled = Automatikus címkitöltés engedélyezése.
 policy-AutofillCreditCardEnabled = Fizetési módok automatikus kitöltésének engedélyezése.
@@ -74,7 +74,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = A fájlok kiterje
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása. A Telepítés lehetőség URL-t vagy útvonalat vár paraméterként. Az Eltávolítás és Zárolás kiegészítőazonosítót vár.
+policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása. A Telepítés lehetőség webcímet vagy útvonalat vár paraméterként. Az Eltávolítás és Zárolás kiegészítőazonosítót vár.
 policy-ExtensionSettings = Kezelje a kiegészítők telepítésének összes vonatkozását.
 policy-ExtensionUpdate = Az automatikus kiegészítőfrissítések engedélyezése vagy letiltása.
 policy-FirefoxHome2 = A { -firefox-home-brand-name } beállítása.

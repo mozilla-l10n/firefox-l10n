@@ -56,7 +56,7 @@ connection-proxy-noproxy-desc = Példa: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = A localhost, a 127.0.0.1/8, és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.
 connection-proxy-autotype =
-    .label = Automatikus proxybeállítás URL
+    .label = Automatikus proxybeállítási webcím
     .accesskey = A
 connection-proxy-reload =
     .label = Frissítés

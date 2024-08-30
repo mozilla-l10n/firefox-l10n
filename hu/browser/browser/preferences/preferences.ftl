@@ -536,11 +536,11 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (alapértelmezett)
 home-mode-choice-custom =
-    .label = Egyéni URL-ek…
+    .label = Egyéni webcímek…
 home-mode-choice-blank =
     .label = Üres lap
 home-homepage-custom-url =
-    .placeholder = Illesszen be egy URL-t…
+    .placeholder = Illesszen be egy webcímet…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = További információk a fokozott követés elleni védelemről
 protections-panel-etp-on-header = A fokozott követés elleni védelem BE van kapcsolva ezen a webhelyen
 protections-panel-etp-off-header = A fokozott követés elleni védelem KI van kapcsolva ezen a webhelyen
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Nem működik az oldal?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Nem működik az oldal?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Fokozott követés elleni védelem
     .description = Kikapcsolva ezen az oldalon
     .aria-label = Fokozott követés elleni védelem: Kikapcsolva ennél: { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Nem működik az oldal?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Nem működik az oldal?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -107,11 +107,10 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = k
 protections-panel-content-blocking-breakage-report-view =
     .title = Hibás webhely bejelentése
-protections-panel-content-blocking-breakage-report-view-description = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a Mozillának. <label data-l10n-name="learn-more">További tudnivalók</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a { -vendor-short-name(ending: "accented") }nak.
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-description = Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a { -brand-short-name } böngészőt mindenki számára. A jelentés elküldi a webcímet és a böngészőbeállításait a Mozillának. <label data-l10n-name="learn-more">További tudnivalók</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = Webcím
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
+    .aria-label = Webcím
 protections-panel-content-blocking-breakage-report-view-collection-comments = Nem kötelező: Írja le a problémát
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Nem kötelező: Írja le a problémát
