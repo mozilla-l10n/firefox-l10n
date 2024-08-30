@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Тарихтан өшіру
+sidebar-history-sort-by-date =
+    .label = Күні бойынша сұрыптау
+sidebar-history-sort-by-site =
+    .label = Сайт бойынша сұрыптау
+sidebar-history-clear =
+    .label = Тарихты тазарту
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
 sidebar-context-menu-report-extension =
     .label = Кеңейтуге шағым жіберу
+sidebar-context-menu-open-in-window =
+    .label = Жаңа терезеде ашу
+sidebar-context-menu-open-in-private-window =
+    .label = Жаңа жекелік терезесінде ашу
+sidebar-context-menu-bookmark-tab =
+    .label = Бетті бетбелгілерге қосу…
+sidebar-context-menu-copy-link =
+    .label = Сілтемені көшіріп алу
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Тарихтан өшіру
 
 ## Labels for sidebar menu items.
 

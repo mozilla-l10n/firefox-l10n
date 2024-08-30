@@ -164,6 +164,7 @@ shopping-unanalyzed-product-analyze-button = Пікір сапасын текс�
 
 more-to-consider-ad-label =
     .label = Көбірек қарастыру үшін
+shopping-sponsored-label = Демеуленген
 ad-by-fakespot = { -fakespot-brand-name } ұсынған жарнама
 
 ## Shopping survey strings.
