@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Выдаліць з гісторыі
+sidebar-history-sort-by-date =
+    .label = Сартаваць па даце
+sidebar-history-sort-by-site =
+    .label = Сартаваць па сайтах
+sidebar-history-clear =
+    .label = Ачысціць гісторыю
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
 sidebar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
+sidebar-context-menu-open-in-window =
+    .label = Адкрыць у новым акне
+sidebar-context-menu-open-in-private-window =
+    .label = Адкрыць у новым прыватным акне
+sidebar-context-menu-bookmark-tab =
+    .label = Зрабіць закладку на картку…
+sidebar-context-menu-copy-link =
+    .label = Капіяваць спасылку
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Выдаліць з гісторыі
 
 ## Labels for sidebar menu items.
 
