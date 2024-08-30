@@ -89,6 +89,8 @@ shopping-show-less-button = Εμφάνιση λιγότερων
 
 shopping-settings-label =
     .label = Ρυθμίσεις
+shopping-settings-recommendations-toggle2 =
+    .label = Εμφάνιση προτάσεων και χορηγούμενου περιεχομένου
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
 shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
