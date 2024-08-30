@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Ρυθμίσεις
 shopping-settings-recommendations-toggle2 =
     .label = Εμφάνιση προτάσεων και χορηγούμενου περιεχομένου
+shopping-settings-recommendations-learn-more3 = Το { -brand-product-name } δεν κοινοποιεί τα προσωπικά σας δεδομένα, επομένως αυτές οι προτάσεις δεν θα σας ακολουθούν σε όλο το διαδίκτυο. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
 shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
@@ -164,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Έλεγχος ποιότητας �
 
 more-to-consider-ad-label =
     .label = Περισσότερες εναλλακτικές
+shopping-sponsored-label = Χορηγία
 ad-by-fakespot = Διαφήμιση από το { -fakespot-brand-name }
 
 ## Shopping survey strings.
