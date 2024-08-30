@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Докладніше</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером flex чи grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером flex, grid, чи multi-column.
 inactive-css-not-multicol-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером multi-column.
@@ -73,11 +83,14 @@ inactive-css-not-inline-or-tablecell-fix = Спробуйте додати <stro
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Спробуйте додати <strong>display:inline-block</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Спробуйте додати <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Спробуйте вилучити <strong>float</strong> або додати <strong>display:block</strong>. { learn-more }
+inactive-css-not-floated-fix = Спробуйте додати властивість <strong>float</strong> зі значенням, відмінним від <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Спробуйте налаштувати його властивість <strong>позиції</strong> на щось інше, ніж <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Переконайтеся, що ви додаєте властивість до заміненого елемента. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Спробуйте додати <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Спробуйте встановити властивість <strong>display</strong> на щось інше, ніж <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, або <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Спробуйте встановити властивість <strong>display</strong> на щось інше, ніж <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, або <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Спробуйте додати <strong>display:table</strong> або <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Спробуйте додати <strong>border-collapse:separate</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Спробуйте додати <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Спробуйте додати <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, або <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = На елементі таблиці вищого рівня вилучіть властивість або змініть значення для <strong>border-collapse</strong> на інше, ніж <strong>collapse</strong>. { learn-more }
