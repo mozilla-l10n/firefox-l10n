@@ -661,10 +661,10 @@ urlbar-trending-dismissal-acknowledgment = Obrigado por sua opinião Não aparec
 
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
-    .aria-label = Ativar leitor
+    .aria-label = Ativar modo de leitura
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = Desativar leitor
+    .aria-label = Desativar modo de leitura
 
 ## Picture-in-Picture urlbar button
 ## Variables:

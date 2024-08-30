@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sépia
     .title = Esquema de cores sépia
 about-reader-color-scheme-auto = Automático
     .title = Esquema de cores automático
-about-reader-color-theme-light = Claro
-    .title = Tema de cores claras
-about-reader-color-theme-dark = Escuro
-    .title = Tema de cores escuras
-about-reader-color-theme-sepia = Sépia
-    .title = Tema de cores sépia
-about-reader-color-theme-auto = Automático
-    .title = Tema automático de cores
-about-reader-color-theme-gray = Cinza
-    .title = Tema de cores cinza
-about-reader-color-theme-contrast = Contraste
-    .title = Tema de cores com contraste
-about-reader-color-theme-custom = Cores personalizadas
-    .title = Tema de cores personalizadas
 about-reader-color-light-theme = Claro
     .title = Tema claro
 about-reader-color-dark-theme = Escuro
@@ -72,9 +58,8 @@ about-reader-font-type-monospace = Monoespaçada
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = Fechar leitor
+about-reader-toolbar-close = Fechar modo de leitura
 about-reader-toolbar-type-controls = Controle de fontes
-about-reader-toolbar-color-controls = Cores
 about-reader-toolbar-text-layout-controls = Texto e layout
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Salvar no { -pocket-brand-name }
@@ -99,7 +84,6 @@ about-reader-custom-colors-visited-links = Links visitados
     .title = Editar cor
 about-reader-custom-colors-selection-highlight = Destacador para ler em voz alta
     .title = Editar cor
-about-reader-custom-colors-reset-button = Restaurar padrão
 about-reader-reset-button = Restaurar padrão
 
 ## Reader View improved text and layout menu
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Espaçamento entre linhas
 about-reader-advanced-layout-header = Avançado
-about-reader-slider-label-width-narrow = Estreito
-about-reader-slider-label-width-wide = Largo
-about-reader-slider-label-spacing-narrow = Estreito
 about-reader-character-spacing-label =
     .label = Espaçamento entre caracteres
 about-reader-word-spacing-label =

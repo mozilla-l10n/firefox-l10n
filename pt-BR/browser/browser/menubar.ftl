@@ -192,11 +192,11 @@ menu-view-full-screen =
 
 # This should match reader-view-enter-button in browser.ftl
 menu-view-enter-readerview =
-    .label = Ativar leitor
+    .label = Ativar modo de leitura
     .accesskey = l
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = Desativar leitor
+    .label = Desativar modo de leitura
     .accesskey = l
 
 ##
