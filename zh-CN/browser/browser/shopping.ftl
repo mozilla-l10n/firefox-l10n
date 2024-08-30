@@ -89,6 +89,9 @@ shopping-show-less-button = 折叠
 
 shopping-settings-label =
     .label = 设置
+shopping-settings-recommendations-toggle2 =
+    .label = 显示推荐内容和赞助内容
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } 不会共享您的个人数据。因此，此类推荐内容不会在网络上跟踪您。<a data-l10n-name="review-quality-url">详细了解</a>
 shopping-settings-recommendations-toggle =
     .label = 在核查评价中展示广告
 shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">详细了解</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = 核查评价质量
 
 more-to-consider-ad-label =
     .label = 可参考其他商品
+shopping-sponsored-label = 赞助推广
 ad-by-fakespot = { -fakespot-brand-name } 提供的广告
 
 ## Shopping survey strings.

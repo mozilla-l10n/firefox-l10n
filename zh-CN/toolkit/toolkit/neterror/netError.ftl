@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = 您未连接到互联网。
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } 找不到此网站。
 neterror-dns-not-found-trr-server-problem = { $trrDomain } 出现问题。
 neterror-dns-not-found-bad-trr-url = 无效网址。
+neterror-dns-not-found-system-sleep = 系统处于睡眠模式。
 neterror-dns-not-found-trr-unknown-problem = 未知问题。
 
 ## Native fallback specific messages

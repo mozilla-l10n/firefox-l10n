@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = 卸载标签页并结束进程
+about-processes-kill-process =
+    .title = 结束进程
 about-processes-shutdown-tab =
     .title = 关闭标签页
 # Profiler icons
