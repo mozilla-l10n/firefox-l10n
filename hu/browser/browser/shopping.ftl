@@ -89,6 +89,9 @@ shopping-show-less-button = Kevesebb megjelenítése
 
 shopping-settings-label =
     .label = Beállítások
+shopping-settings-recommendations-toggle2 =
+    .label = Ajánlások és szponzorált tartalmak megjelenítése
+shopping-settings-recommendations-learn-more3 = A { -brand-product-name } nem osztja meg a személyes adatait, így ezek az ajánlások nem követik Önt az interneten. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-recommendations-toggle =
     .label = Reklámok megjelenítése az értékelés-ellenőrzőben
 shopping-settings-recommendations-learn-more2 = Alkalmanként releváns termékek hirdetéseit fogja látni. Csak megbízható értékeléssel rendelkező termékeket hirdetünk. <a data-l10n-name="review-quality-url">További tudnivalók</a>
