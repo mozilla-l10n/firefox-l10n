@@ -8,3 +8,6 @@
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Относно { -glean-brand-name }
 about-glean-header = Относно { -glean-brand-name }
+about-glean-about-data-explanation =
+    За да разгледате списъка със събрани данни, вижте
+    <a data-l10n-name="glean-dictionary-link">Речник { -glean-brand-name }</a>.
