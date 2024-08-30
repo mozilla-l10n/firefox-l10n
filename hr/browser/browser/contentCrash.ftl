@@ -22,7 +22,7 @@ crashed-subframe-submit =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message =
     { $reportCount ->
-        [one] Imaš jedan izvještaj o rušenju koji nije poslan
+        [one] Imaš { $reportCount } izvještaj o rušenju koji nije poslan
         [few] Imaš { $reportCount } izvještaja o rušenju koji nisu poslani
        *[other] Imaš { $reportCount } izvještaja o rušenju koji nisu poslani
     }
