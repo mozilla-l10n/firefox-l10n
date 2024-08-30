@@ -89,6 +89,8 @@ shopping-show-less-button = Азырақ көрсету
 
 shopping-settings-label =
     .label = Баптаулар
+shopping-settings-recommendations-toggle2 =
+    .label = Ұсыныстар мен демеушілік мазмұнды көрсету
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
 shopping-settings-recommendations-learn-more2 = Сәйкес өнімдерге арналған кездейсоқ жарнамаларды көресіз. Біз тек сенімді пікірлері бар өнімдерді жарнамалаймыз. <a data-l10n-name="review-quality-url">Көбірек білу</a>
