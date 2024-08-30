@@ -175,6 +175,14 @@ main-context-menu-translate-selection =
     .label = ترجمہ چݨݨ۔۔۔
     .accesskey = n
 # Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = چݨی ہوئی دا { $language } وچ ترجمہ کرو
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = لنک عبارت دا ترجمہ کرو۔۔۔
@@ -211,6 +219,8 @@ select-translations-panel-translate-button =
     .label = ترجمہ کرو
 select-translations-panel-try-again-button =
     .label = ولدا کوشش کرو
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = ترجمہ تھئی عبارت اتھ ظاہر تھیسی۔
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = ترجمہ کریندا پئے۔۔۔
 select-translations-panel-init-failure-message =

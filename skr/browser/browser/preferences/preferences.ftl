@@ -1346,8 +1346,12 @@ httpsonly-description = HTTPS { -brand-short-name } تے انہاں ویب سا�
 httpsonly-learn-more = ٻیا سِکھو
 httpsonly-radio-enabled =
     .label = تمام ونڈوز وِچ HTTPS-Only Mode فعال کرو
+httpsonly-radio-enabled2 =
+    .label = ساریاں ونڈوز وچ صرف HTTPS ورتو
 httpsonly-radio-enabled-pbm =
     .label = صرف نجی ونڈوز وِچ HTTPS-Only Mode فعال کرو
+httpsonly-radio-enabled-pbm2 =
+    .label = نجی ونڈوز وچ صرف HTTPS ورتو
 httpsonly-radio-disabled =
     .label = HTTPS-Only Mode فعال نہ کرو
 
