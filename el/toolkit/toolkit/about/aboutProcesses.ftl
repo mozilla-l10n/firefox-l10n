@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = "Ξεφόρτωμα" καρτελών και τερματισμός διεργασίας
+about-processes-kill-process =
+    .title = Τερματισμός διεργασίας
 about-processes-shutdown-tab =
     .title = Κλείσιμο καρτέλας
 # Profiler icons
