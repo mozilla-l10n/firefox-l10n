@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Беттерді жадыдан түсіріп, үрдісті өлтіру
+about-processes-kill-process =
+    .title = Үрдісті өлтіру
 about-processes-shutdown-tab =
     .title = Бетті жабу
 # Profiler icons

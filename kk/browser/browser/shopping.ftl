@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Баптаулар
 shopping-settings-recommendations-toggle2 =
     .label = Ұсыныстар мен демеушілік мазмұнды көрсету
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } жеке деректеріңізді бөліспейді, сондықтан бұл ұсыныстар интернетте сіздің артыңыздан ермейді. <a data-l10n-name="review-quality-url">Көбірек білу</a>
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
 shopping-settings-recommendations-learn-more2 = Сәйкес өнімдерге арналған кездейсоқ жарнамаларды көресіз. Біз тек сенімді пікірлері бар өнімдерді жарнамалаймыз. <a data-l10n-name="review-quality-url">Көбірек білу</a>
