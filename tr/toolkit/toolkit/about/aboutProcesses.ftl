@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Sekmeleri kaldır ve işlemi sonlandır
+about-processes-kill-process =
+    .title = İşlemi sonlandır
 about-processes-shutdown-tab =
     .title = Sekmeyi kapat
 # Profiler icons

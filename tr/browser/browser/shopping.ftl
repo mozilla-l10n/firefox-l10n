@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Değerlendirme kalitesini kontrol e
 
 more-to-consider-ad-label =
     .label = İlginizi çekebilir
+shopping-sponsored-label = Sponsorlu
 ad-by-fakespot = { -fakespot-brand-name } reklamı
 
 ## Shopping survey strings.
