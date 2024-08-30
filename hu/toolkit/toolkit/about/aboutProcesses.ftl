@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Lapok eldobása és a folyamat kilövése
+about-processes-kill-process =
+    .title = Folyamat kilövése
 about-processes-shutdown-tab =
     .title = Lap bezárása
 # Profiler icons

@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Törlés az előzményekből
+sidebar-history-sort-by-date =
+    .label = Rendezés dátum szerint
+sidebar-history-sort-by-site =
+    .label = Rendezés webhely szerint
+sidebar-history-clear =
+    .label = Előzmények törlése
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Kiegészítő eltávolítása
 sidebar-context-menu-report-extension =
     .label = Kiegészítő jelentése
+sidebar-context-menu-open-in-window =
+    .label = Megnyitás új ablakban
+sidebar-context-menu-open-in-private-window =
+    .label = Megnyitás új privát ablakban
+sidebar-context-menu-bookmark-tab =
+    .label = Lap könyvjelzőzése…
+sidebar-context-menu-copy-link =
+    .label = Hivatkozás másolása
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Törlés az előzményekből
 
 ## Labels for sidebar menu items.
 

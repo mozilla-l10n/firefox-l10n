@@ -167,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = Értékelési minőség ellenőrzé
 
 more-to-consider-ad-label =
     .label = További megfontolandó információk
+shopping-sponsored-label = Szponzorált
 ad-by-fakespot = A { -fakespot-brand-name } hirdetése
 
 ## Shopping survey strings.
