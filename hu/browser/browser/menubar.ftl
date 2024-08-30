@@ -253,7 +253,7 @@ menu-bookmarks-toolbar =
 menu-bookmarks-other =
     .label = Más könyvjelzők
 menu-bookmarks-mobile =
-    .label = Mobil könyvjelzők
+    .label = Mobilos könyvjelzők
 
 ## Tools Menu
 

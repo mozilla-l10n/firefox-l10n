@@ -713,7 +713,7 @@ bookmarks-menu-button =
 bookmarks-other-bookmarks-menu =
     .label = Más könyvjelzők
 bookmarks-mobile-bookmarks-menu =
-    .label = Mobil könyvjelzők
+    .label = Mobilos könyvjelzők
 
 ## Variables:
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
