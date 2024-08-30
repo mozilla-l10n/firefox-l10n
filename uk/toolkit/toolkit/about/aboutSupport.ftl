@@ -426,6 +426,8 @@ support-printing-prefs-value = Значення
 support-remote-settings-status-broken = Не працює
 support-remote-settings-last-check = Остання перевірка
 support-remote-settings-sync-history = Історія
+support-remote-settings-sync-history-status = Стан
+support-remote-settings-sync-history-datetime = Дата
 support-remote-settings-sync-history-infos = Відомості
 
 ## Normandy sections

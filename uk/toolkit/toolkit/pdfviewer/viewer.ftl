@@ -402,9 +402,18 @@ pdfjs-editor-highlight-show-all-button =
 pdfjs-editor-new-alt-text-dialog-edit-label = Редагувати альтернативний текст (опис зображення)
 # Modal header positioned above a text box where users can add the alt text.
 pdfjs-editor-new-alt-text-dialog-add-label = Додати альтернативний текст (опис зображення)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Напишіть свій опис тут…
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Докладніше
 pdfjs-editor-new-alt-text-create-automatically-button-label = Автоматично створювати альтернативний текст
 pdfjs-editor-new-alt-text-not-now-button = Не зараз
+pdfjs-editor-new-alt-text-error-close-button = Закрити
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Альтернативний текст додано
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Відсутній альтернативний текст
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Переглянути альтернативний текст
 
 ## Image alt-text settings
 
