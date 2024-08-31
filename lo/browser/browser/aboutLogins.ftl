@@ -112,6 +112,7 @@ about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
 login-item-tooltip-message = ໃຫ້ແນ່ໃຈວ່ານີ້ກົງກັບທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 about-logins-origin-tooltip2 = ໃສ່ທີ່ຢູ່ເຕັມ ແລະ ໃຫ້ແນ່ໃຈວ່າມັນກົງກັນແທ້ສໍາລັບບ່ອນທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
+about-logins-add-password-tooltip = ໃຫ້ແນ່ໃຈວ່າທ່ານກໍາລັງບັນທຶກລະຫັດຜ່ານປະຈຸບັນຂອງທ່ານສໍາລັບເວັບໄຊທ໌ນີ້.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ຊື່ຜູ້ໃຊ້
@@ -299,6 +300,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ນໍາເຂົ້າໄຟລ໌ເຂົ້າສູ່ລະບົບ
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = ນຳເຂົ້າລະຫັດຜ່ານໃສ່ { -brand-short-name }
 about-logins-import-file-picker-import-button = ນຳເຂົ້າ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -359,6 +362,7 @@ about-logins-import-report-row-index = ແຖວ { $number }
 about-logins-import-report-row-description-no-change = ຊໍ້າກັນ: ກົງກັນທຸກຢ່າງຂອງການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
+about-logins-import-report-row-description-modified2 = ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added2 = ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ
 about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
 
@@ -385,6 +389,8 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ການເຂົ້າສູ່ລະບົບຊ້ຳກັນ</div> <div data-l10n-name="not-imported">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
     }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ</div>
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ອັບເດດລາຍການທີ່ມີຢູ່ກ່ອນແລ້ວ</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ຄວາມຜິດພາດ</div> <div data-l10n-name="not-imported" >(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
