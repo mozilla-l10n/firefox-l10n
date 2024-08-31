@@ -925,6 +925,7 @@ forms-windows-sso =
     .label = Autorizar l’autentificacion unica de Windows per Microsoft, pel trabalh e los comptes escolars
 forms-windows-sso-learn-more-link = Ne saber mai
 forms-windows-sso-desc = Gerissètz los compte als paramètres de vòstre periferic
+windows-passkey-settings-label = Gerir las claus d’accès als paramètres sistèma
 
 ## OS Authentication dialog
 
