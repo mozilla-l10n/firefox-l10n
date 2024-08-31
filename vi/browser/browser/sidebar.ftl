@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Xóa khỏi lịch sử
+sidebar-history-sort-by-date =
+    .label = Sắp xếp theo ngày
+sidebar-history-sort-by-site =
+    .label = Sắp xếp theo trang web
+sidebar-history-clear =
+    .label = Xóa lịch sử
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Xoá tiện ích
 sidebar-context-menu-report-extension =
     .label = Báo cáo tiện ích
+sidebar-context-menu-open-in-window =
+    .label = Mở trong cửa sổ mới
+sidebar-context-menu-open-in-private-window =
+    .label = Mở trong cửa sổ riêng tư mới
+sidebar-context-menu-bookmark-tab =
+    .label = Đánh dấu thẻ…
+sidebar-context-menu-copy-link =
+    .label = Sao chép liên kết
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Xóa khỏi lịch sử
 
 ## Labels for sidebar menu items.
 
