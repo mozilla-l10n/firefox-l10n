@@ -417,6 +417,9 @@ newtab-topic-label-home = گھر تے باغ
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = آپݨی فیڈ کوں چنگا بݨاوݨ کیتے موضوعات چݨو
 newtab-topic-selection-save-button = محفوظ
 newtab-topic-selection-cancel-button = منسوخ
 newtab-topic-selection-button-maybe-later = شاید بعد وچ
