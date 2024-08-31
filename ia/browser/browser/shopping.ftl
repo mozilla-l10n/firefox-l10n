@@ -89,6 +89,9 @@ shopping-show-less-button = Monstrar minus
 
 shopping-settings-label =
     .label = Parametros
+shopping-settings-recommendations-toggle2 =
+    .label = Monstrar recommendationes e contento sponsorisate
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } non comparti tu datos personal, assi iste recommendationes non te sequera circum internet. <a data-l10n-name="review-quality-url">Pro saper plus</a>
 shopping-settings-recommendations-toggle =
     .label = Monstrar avisos publicitari in verificator de recension
 shopping-settings-recommendations-learn-more2 = Tu videra avisos publicitari occasional pro productos pertinente. Nos solo clama productos con recensiones fidabile. <a data-l10n-name="review-quality-url">Pro saper plus</a>

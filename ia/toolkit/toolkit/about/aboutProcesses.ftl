@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Discargar schedas e terminar le processo
+about-processes-kill-process =
+    .title = Terminar le processo
 about-processes-shutdown-tab =
     .title = Clauder le scheda
 # Profiler icons
