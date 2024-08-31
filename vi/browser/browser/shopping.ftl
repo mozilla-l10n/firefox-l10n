@@ -89,6 +89,9 @@ shopping-show-less-button = Xem ít hơn
 
 shopping-settings-label =
     .label = Cài đặt
+shopping-settings-recommendations-toggle2 =
+    .label = Hiển thị đề xuất và nội dung được tài trợ
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } không chia sẻ dữ liệu cá nhân của bạn, vì vậy những đề xuất này sẽ không theo bạn trên internet. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
 shopping-settings-recommendations-toggle =
     .label = Hiển thị quảng cáo trong trình kiểm tra đánh giá
 shopping-settings-recommendations-learn-more2 = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Chúng tôi chỉ quảng cáo những sản phẩm có đánh giá đáng tin cậy. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Kiểm tra chất lượng đánh g
 
 more-to-consider-ad-label =
     .label = Thêm điều cần xem xét
+shopping-sponsored-label = Được tài trợ
 ad-by-fakespot = Quảng cáo bởi { -fakespot-brand-name }
 
 ## Shopping survey strings.
