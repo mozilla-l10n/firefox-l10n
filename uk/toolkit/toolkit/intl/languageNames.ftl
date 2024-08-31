@@ -166,6 +166,7 @@ language-name-se = Самі (пн.)
 language-name-sg = Санго
 language-name-si = Сингальська
 language-name-sk = Словацька
+language-name-skr = Сараїкі
 language-name-sl = Словенська
 language-name-sm = Самоанська
 language-name-sn = Шона

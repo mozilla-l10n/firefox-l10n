@@ -422,6 +422,7 @@ support-printing-prefs-value = Значення
 
 ## Remote Settings sections
 
+support-remote-settings-title = Віддалені налаштування
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Не працює
 support-remote-settings-last-check = Остання перевірка

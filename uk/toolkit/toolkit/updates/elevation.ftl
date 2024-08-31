@@ -20,3 +20,7 @@ elevation-more-elevated =
     встановлено під час наступного запуску { -brand-short-name }.
     Ви можете перезапустити { -brand-short-name } зараз, продовжити роботу і
     перезапустити пізніше, або відхилити це оновлення.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Не показувати знову
+    .accesskey = Н
+sandbox-unprivileged-namespaces-howtofix = Як вирішити цю проблему
