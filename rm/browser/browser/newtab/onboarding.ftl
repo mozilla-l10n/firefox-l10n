@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Fixar { -brand-short-name } en il dock
        *[other] Fixar { -brand-short-name } en la taskbar
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fixescha { -brand-short-name } en la taskbar ed en il menu start
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -335,6 +337,14 @@ onboarding-device-migration-title = Bel da ta vesair puspè!
 onboarding-device-migration-subtitle = T'annunzia en tes { -fxaccount-brand-name(capitalization: "sentence") } per prender cun tai tes segnapaginas, pleds-clav e tia cronologia sin tes nov apparat.
 onboarding-device-migration-subtitle2 = T'annunzia en tes conto per purtar cun tai tes segnapaginas, pleds-clav e la cronologia sin tes nov apparat.
 onboarding-device-migration-primary-button-label = S'annunziar
+
+## Add-ons Picker screen
+
+amo-picker-title = Persunalisescha tes { -brand-short-name }
+amo-picker-subtitle = Extensiuns èn sco apps per tes navigatur. Ellas ta permettan da proteger pleds-clav, telechargiar videos, chattar rabats, bloccar reclamas stentusas, midar l’apparientscha da tes navigatur e bler auter.
+amo-picker-install-button-label = Agiuntar a { -brand-short-name }
+amo-picker-install-complete-label = Installà
+amo-picker-collection-link = Scuvrir dapli supplements
 
 ## The following screens have been updated to use security and privacy focused strings:
 

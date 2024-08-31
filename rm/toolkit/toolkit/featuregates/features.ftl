@@ -46,9 +46,25 @@ experimental-features-js-warp-description = Activar Warp, in project per meglier
 experimental-features-ime-search =
     .label = Trav d'adressas: mussar resultats durant la cumposiziun IME
 experimental-features-ime-search-description = In IME (Input Method Editor) è in utensil che permetta dad endatar simbols cumplexs sco quels da linguas da l'Asia da l'Ost u da linguas scrittas en l'India, cun agid dad ina tastatura da standard. L'activaziun da quest experiment vegn a laschar avert la panela da la trav d'adressas e mussar resultats e propostas da tschertga durant l'endataziun da text cun l'IME. Remartga: L'IME mussa eventualmain ina panela che cuvra ils resultats da la trav d'adressas. Perquai è questa preferenza mo recumandabla per IMEs che n'utiliseschan betg quest tip da panela.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Maletg-en-maletg: avrir automaticamain cun midar tab
+experimental-features-auto-pip-description = Activar maletg-en-maletg per videos activs cun midar tabs.
+genai-settings-chat-title =
+    .label = Chatbot IA
+# Updated sidebar settings
+sidebar-title =
+    .label = Trav laterala
+sidebar-description = Acceda durant la navigaziun a moda simpla a tia cronologia, a tabs dad auters apparats, ad extensiuns da la trav laterala ed a bler auter. <a data-l10n-name="connect">Dà tes resun</a>
+vertical-tabs-title =
+    .label = Tabs verticals
+vertical-tabs-description = Sposta tes tabs da la part sura dal navigatur en la part laterala. Per pudair utilisar questa funcziun sto la trav laterala esser activada. <a data-l10n-name="connect">Dar in resun</a>
 experimental-features-group-browsing =
     .label = Navigaziun
 experimental-features-group-developer-tools =
     .label = Utensils per sviluppaders
 experimental-features-group-webpage-display =
     .label = Visualisaziun paginas-web
+experimental-features-group-customize-browsing =
+    .label = Persunalisescha tia navigaziun
+experimental-features-group-customize-browsing-description = Sche ti emprovas questas funcziunalitads, <a data-l10n-name="connect">parta tes avis sin Connect</a>

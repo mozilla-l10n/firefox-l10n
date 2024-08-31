@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Stgargiar ils tabs e terminar ils process
+about-processes-kill-process =
+    .title = far crappar il process
 about-processes-shutdown-tab =
     .title = Serrar il tab
 # Profiler icons

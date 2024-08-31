@@ -68,6 +68,7 @@ neterror-dns-not-found-trr-offline = Ti n'es betg connectà cun l'internet.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } n'ha betg chattà questa website.
 neterror-dns-not-found-trr-server-problem = Igl ha dà in problem cun { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL nunvalid.
+neterror-dns-not-found-system-sleep = Il sistem dorma.
 neterror-dns-not-found-trr-unknown-problem = Problem nunspetgà.
 
 ## Native fallback specific messages

@@ -200,6 +200,8 @@ newtab-section-header-recent-activity = Activitad recenta
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recumandà da { $provider }
 newtab-section-header-stories = Istorgias che dattan da pensar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Noss tips dad oz per tai
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -389,3 +391,43 @@ newtab-weather-menu-hide-weather = Zuppentar l’aura sin ils novs tabs
 newtab-weather-menu-learn-more = Ulteriuras infurmaziuns
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Datas meteorologicas n’èn actualmain betg disponiblas.
+
+## Topic Labels
+
+newtab-topic-label-business = Economia
+newtab-topic-label-career = Carriera
+newtab-topic-label-education = Furmaziun
+newtab-topic-label-arts = Divertiment
+newtab-topic-label-food = Nutriment
+newtab-topic-label-health = Sanadad
+newtab-topic-label-hobbies = Gieus
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Daners
+newtab-topic-label-society-parenting = Educaziun
+newtab-topic-label-government = Politica
+newtab-topic-label-education-science = Scienza
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Life hacks
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Viagiar
+newtab-topic-label-home = Chasa e curtin
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Tscherna temas per persunalisar tes feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Tscherna dus u dapli temas. Noss curaturs experts prioriseschan istorgias che correspundan a tes interess. Ils temas pos ti adattar da tut temp.
+newtab-topic-selection-save-button = Memorisar
+newtab-topic-selection-cancel-button = Interrumper
+newtab-topic-selection-button-maybe-later = Forsa pli tard
+newtab-topic-selection-privacy-link = Ve a savair co nus protegin e gestin las datas
+newtab-topic-selection-button-update-interests = Actualisescha tes interess
+newtab-topic-selection-button-pick-interests = Tscherna tes interess

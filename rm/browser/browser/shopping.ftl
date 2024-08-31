@@ -89,6 +89,9 @@ shopping-show-less-button = Mussar damain
 
 shopping-settings-label =
     .label = Parameters
+shopping-settings-recommendations-toggle2 =
+    .label = Mussar recumandaziuns e cuntegn sponsurà
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } na cundivida betg tias datas persunalas, uschia che questas recumandaziuns na ta suondan betg en l’internet. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-recommendations-toggle =
     .label = Mussar reclamas en la verificaziun da recensiuns
 shopping-settings-recommendations-learn-more2 = Ti vegns a vesair reclamas occasiunalas per products relevants. Nus faschain mo reclama per products cun recensiuns fidablas. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
@@ -164,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = Controllar la qualitad da las recen
 
 more-to-consider-ad-label =
     .label = Dapli pussaivladads
+shopping-sponsored-label = Sponsurà
 ad-by-fakespot = Reclama da { -fakespot-brand-name }
 
 ## Shopping survey strings.
