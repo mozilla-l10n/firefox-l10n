@@ -243,7 +243,11 @@ mr2022-onboarding-pin-primary-button-label =
             }
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
-mr2022-onboarding-pin-primary-button-label-msix = Připnout { -brand-short-name } na hlavní panel a do nabídky Start
+mr2022-onboarding-pin-primary-button-label-msix =
+    { -brand-short-name.case-status ->
+        [with-cases] Připnout { -brand-short-name(case: "acc") } na hlavní panel a do nabídky start
+       *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel a do nabídky start
+    }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -473,9 +477,19 @@ onboarding-device-migration-primary-button-label = Přihlásit se
 
 ## Add-ons Picker screen
 
-amo-picker-title = Přizpůsobte si svůj { -brand-short-name }
+amo-picker-title =
+    { -brand-short-name.gender ->
+        [masculine] Přizpůsobte si svůj { -brand-short-name(case: "acc") }
+        [feminine] Přizpůsobte si svou { -brand-short-name(case: "acc") }
+        [neuter] Přizpůsobte si své { -brand-short-name(case: "acc") }
+       *[other] Přizpůsobte si svou aplikaci { -brand-short-name }
+    }
 amo-picker-subtitle = Rozšíření jsou jako aplikace pro váš prohlížeč. Umožňují vám chránit hesla, stahovat videa, hledat akční nabídky, blokovat obtěžující reklamy, měnit vzhled prohlížeče a mnoho dalšího.
-amo-picker-install-button-label = Přidat do { -brand-short-name(case: "gen") }
+amo-picker-install-button-label =
+    { -brand-short-name.case-status ->
+        [with-cases] Přidat do { -brand-short-name(case: "gen") }
+       *[no-cases] Přidat do aplikace { -brand-short-name }
+    }
 amo-picker-install-complete-label = Nainstalováno
 amo-picker-collection-link = Prozkoumat další doplňky
 

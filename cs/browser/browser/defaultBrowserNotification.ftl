@@ -29,9 +29,11 @@ default-browser-prompt-message-pin =
        *[other] Mějte aplikaci { -brand-short-name } nastavenou jako výchozí prohlížeč a připnutou na své liště.
     }
 default-browser-prompt-message-pin-msix =
-    { -brand-short-name.case-status ->
-        [with-cases] Mějte { -brand-short-name } na dosah ruky — nastavte si ho jako výchozí prohlížeč, připněte na hlavní panel a do nabídky Start.
-       *[no-cases] Mějte aplikaci { -brand-short-name } na dosah ruky — nastavte si ji jako výchozí prohlížeč, připněte na hlavní panel a do nabídky Start.
+    { -brand-short-name.gender ->
+        [masculine] Mějte { -brand-short-name(case: "acc") } nastavený jako výchozí prohlížeč a připnutý na své liště a v nabídce start.
+        [feminine] Mějte { -brand-short-name(case: "acc") } nastavenou jako výchozí prohlížeč a připnutou na své liště a v nabídce start.
+        [neuter] Mějte { -brand-short-name(case: "acc") } nastavené jako výchozí prohlížeč a připnuté na své liště a v nabídce start.
+       *[other] Mějte aplikaci { -brand-short-name } nastavenou jako výchozí prohlížeč a připnutou na své liště a v nabídce start.
     }
 default-browser-prompt-message-pin-mac =
     { -brand-short-name.gender ->

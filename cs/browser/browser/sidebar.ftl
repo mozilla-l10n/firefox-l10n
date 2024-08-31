@@ -38,8 +38,16 @@ sidebar-search-results-header =
 
 sidebar-customize-extensions-header = Rozšíření postranní lišty
 sidebar-customize-firefox-tools-header =
-    .label = Nástroje { -brand-product-name(case: "gen") }
-sidebar-customize-firefox-settings = Spravovat nastavení { -brand-short-name(case: "gen") }
+    .label =
+        { -brand-product-name.case-status ->
+            [with-cases] Nástroje { -brand-product-name(case: "gen") }
+           *[no-cases] Nástroje aplikace { -brand-product-name }
+        }
+sidebar-customize-firefox-settings =
+    { -brand-short-name.case-status ->
+        [with-cases] Spravovat nastavení { -brand-short-name(case: "gen") }
+       *[no-cases] Spravovat nastavení aplikace { -brand-short-name }
+    }
 sidebar-position-left =
     .label = Zobrazit nalevo
 sidebar-position-right =
