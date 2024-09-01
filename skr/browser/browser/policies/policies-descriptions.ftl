@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = ڈیفالٹ براؤزر ایجنٹ کوں 
 policy-DisableDeveloperTools = ڈویلپر ٹولز تک رسائی کوں مسدود کرو۔
 policy-DisableFeedbackCommands = ہیلپ مینو کنوں تاثرات بھیڄݨ کیتے کمانڈز کوں غیر فعال کرو (فیڈ بیک جمع کرواؤ تے فریب ݙیوݨ والی سائٹ دی اطلاع ݙیو)۔
 policy-DisableFirefoxAccounts = سنک سمیت { -fxaccount-brand-name } تے مبنی خدمات کوں غیر فعال بݨاؤ۔
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = ہم وقت کرݨ دے نال اکاؤنٹ اُتے مبنی خدمتاں کوں غیر فعال کرو۔
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox دیاں سکرین شاٹ خصوصیت کوں غیر فعال کرو۔
 policy-DisableFirefoxStudies = { -brand-short-name } کوں جاری مطالعے کنوں روکو۔
