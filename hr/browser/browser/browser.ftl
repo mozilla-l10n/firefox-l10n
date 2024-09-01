@@ -554,6 +554,10 @@ urlbar-go-button =
     .tooltiptext = Otvori adresu u adresnoj traci
 urlbar-page-action-button =
     .tooltiptext = Radnje na stranici
+urlbar-revert-button =
+    .tooltiptext = Prikaži adresu u lokacijskoj traci
+urlbar-show-page-actions-button =
+    .tooltiptext = Prikaži sve radnje na stranici
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
