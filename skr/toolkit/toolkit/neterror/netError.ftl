@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = تساں انٹرنیٹ نال منسلک �
 neterror-dns-not-found-trr-unknown-host2 = ایہ ویب سائٹ { $trrDomain } کنوں کائناں لبھی ہائی۔
 neterror-dns-not-found-trr-server-problem = { $trrDomain } دے نال ہک مسئلہ ہا۔
 neterror-dns-not-found-bad-trr-url = غلط یوآرایل۔
+neterror-dns-not-found-system-sleep = سسٹم سلیپ موڈ وچ ہے۔
 neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
 
 ## Native fallback specific messages
