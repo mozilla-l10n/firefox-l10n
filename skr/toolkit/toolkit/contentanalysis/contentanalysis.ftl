@@ -41,6 +41,14 @@ contentanalysis-genericresponse-message = مواد دے تجزیہ نے وسیل
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = تُہاݙی تنظیم ڈیٹا دے نقصان کنوں بچاؤ دا سافٹ ویئر استعمال کرین٘دی ہِے جئیں اِیں مواد کوں بلاک کر ݙِتّا ہِے: { $content }۔
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = { $agent } تے کنکٹ کرݨ دے قابل کائنی۔ { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } کیتے دستخط تصدیق کرݨ وچ ناکام تھیا۔ { $content }
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = “{ $filename }” دے اپ لوڈ انکار تھی ڳیا۔
 contentanalysis-error-message-dropped-text = ڈریگ اینڈ ڈراپ دا انکار کر ݙتا ڳیا۔
