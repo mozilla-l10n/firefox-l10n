@@ -89,6 +89,8 @@ shopping-show-less-button = گھٹ ݙکھاؤ
 
 shopping-settings-label =
     .label = ترتیباں
+shopping-settings-recommendations-toggle2 =
+    .label = سفارشاں تے سپانسر تھیا مواد ݙکھاؤ
 shopping-settings-recommendations-toggle =
     .label = ریویو چیکر وِچ اشتہارات ݙِکھاؤ
 shopping-settings-recommendations-learn-more2 = تُہاکوں متعلقہ مصنوعات کِیتے کݙان٘ہیں کݙان٘ہیں اشتہارات نظرسِن۔ اَساں صرف قابلِ بھرواسہ جائزیاں دے نال مصنوعات دی تشہیر کرین٘دے ہِسے۔ <a data-l10n-name="review-quality-url">ٻِیا ڄاݨو</a>
