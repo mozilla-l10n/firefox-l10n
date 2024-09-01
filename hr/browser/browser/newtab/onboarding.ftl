@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Prijava
 ## Add-ons Picker screen
 
 amo-picker-title = Prilagodi svoj { -brand-short-name }
+amo-picker-subtitle = Dodaci su poput aplikacija za vaš preglednik i omogućuju vam zaštitu lozinki, preuzimanje videozapisa, pronalaženje ponuda, blokiranje dosadnih oglasa, promjenu izgleda preglednika i još mnogo toga.
 amo-picker-install-button-label = Dodaj u { -brand-short-name }
 amo-picker-install-complete-label = Instalirano
 amo-picker-collection-link = Istraži daljnje dodatke

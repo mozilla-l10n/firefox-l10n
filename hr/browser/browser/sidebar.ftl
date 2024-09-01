@@ -69,12 +69,20 @@ sidebar-context-menu-open-in-window =
     .label = Otvori u novom prozoru
 sidebar-context-menu-open-in-private-window =
     .label = Otvori u novom privatnom prozoru
+sidebar-context-menu-bookmark-tab =
+    .label = Zabilježi karticu…
+sidebar-context-menu-copy-link =
+    .label = Kopiraj poveznicu
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Izbriši iz povijesti
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI chatbot
 sidebar-menu-history-label =
     .label = Povijest
 sidebar-menu-synced-tabs-label =
