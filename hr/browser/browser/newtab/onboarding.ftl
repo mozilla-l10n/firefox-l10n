@@ -342,6 +342,8 @@ onboarding-device-migration-primary-button-label = Prijava
 
 amo-picker-title = Prilagodi svoj { -brand-short-name }
 amo-picker-install-button-label = Dodaj u { -brand-short-name }
+amo-picker-install-complete-label = Instalirano
+amo-picker-collection-link = Istraži daljnje dodatke
 
 ## The following screens have been updated to use security and privacy focused strings:
 

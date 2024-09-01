@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI Chatbot
 
 ## Labels for sidebar history panel
 
@@ -17,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Izbriši iz povijesti
+sidebar-history-sort-by-date =
+    .label = Sortiraj prema datumu
+sidebar-history-sort-by-site =
+    .label = Sortiraj po web stranici
+sidebar-history-clear =
+    .label = Izbriši povijest
 
 ## Labels for sidebar search
 
@@ -57,6 +65,13 @@ sidebar-context-menu-remove-extension =
     .label = Ukloni proširenje
 sidebar-context-menu-report-extension =
     .label = Prijavi proširenje
+sidebar-context-menu-open-in-window =
+    .label = Otvori u novom prozoru
+sidebar-context-menu-open-in-private-window =
+    .label = Otvori u novom privatnom prozoru
+
+## Labels for sidebar history context menu items
+
 
 ## Labels for sidebar menu items.
 

@@ -20,6 +20,36 @@ genai-settings-chat-copilot-links = Odabirom Copilota pristajete na <a data-l10n
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Sažmi
+    .value = Sažmi odabrani dio koristeći precizan i sažet jezik. Koristi zaglavlja i popise s grafičkim oznakama kako bi bio čitljiviji. Zadrži značenje i činjenice.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Pojednostavi jezik
+    .value = Ponovno napiši odabrani dio koristeći kratke rečenice i jednostavne riječi. Zadrži značenje i činjenice.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Ispitaj me
+    .value = Ispitaj me o ovom odabiru. Pitaj me razne tipove pitanja, kao što su pitanja s višestrukim odgovorima, točno ili netočno pitanja i pitanja s kratkim odgovorima. Sačekaj moj odgovor prije nego pređeš na sljedeće pitanje.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Objasni ovo
+    .value = Objasni ključne pojmove u odabranom dijelu koristeći jednostavne riječi. Također koristi primjere.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Nalazim se na stranici “{ $tabTitle }” s odabranim “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Pitaj AI chatbota
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Pitaj { $provider }
+genai-input-ask-generic =
+    .placeholder = Pitaj AI chatbota…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Pitaj { $provider }…
