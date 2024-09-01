@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Ir a la URL de la barra de direcciones
 urlbar-page-action-button =
     .tooltiptext = Acciones con la página
+urlbar-revert-button =
+    .tooltiptext = Mostrar la dirección en la barra de direcciones
+urlbar-show-page-actions-button =
+    .tooltiptext = Mostrar todas las acciones de página
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1038,3 +1042,24 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = No se ha podido abrir el  diálogo de archivos de Windows. No se ha podido seleccionar ningún archivo o carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = No se ha podido abrir el diálogo de archivos de Windows. No se ha podido seleccionar ningún archivo o carpeta. El archivo se guardará en { $path }.
+file-picker-failed-save-nowhere = No se ha podido abrir el  diálogo de archivos de Windows.  No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+file-picker-crashed-open = El  diálogo de archivos de Windows ha fallado. No se ha podido seleccionar ningún archivo o carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = El  diálogo de archivos de Windows ha fallado. El archivo se guardará en { $path }.
+file-picker-crashed-save-nowhere = El  diálogo de archivos de Windows ha fallado. No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Mostrar en la carpeta
+    .accessKey = F
