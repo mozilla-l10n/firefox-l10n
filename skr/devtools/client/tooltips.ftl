@@ -84,6 +84,7 @@ inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> یا 
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> یا <strong>display:block</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-display-block-on-floated-fix = <strong>فلوٹ</strong> کو ہٹانے یا <strong>display:block</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-not-block-fix = <strong>display:block</strong> یا <strong>float:left</strong> وانگوں خصوصیات شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = ایندی <strong>پوزیشن</strong> پراپرٹی کوں <strong>static</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-for-internal-table-elements-fix = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل سیل</strong> ،<strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>ٹیبل قطار گروپ</strong>, or <strong>ٹیبل فُٹر گروپ</strong>. { learn-more }
