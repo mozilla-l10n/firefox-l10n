@@ -89,6 +89,9 @@ shopping-show-less-button = Zobraziť menej
 
 shopping-settings-label =
     .label = Nastavenia
+shopping-settings-recommendations-toggle2 =
+    .label = Zobrazovať odporúčania a sponzorovaný obsah
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } nezdieľa vaše osobné údaje, takže tieto odporúčania vás nebudú na internete sledovať. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
 shopping-settings-recommendations-toggle =
     .label = Zobrazovať reklamy v nástroji Kontrola recenzií
 shopping-settings-recommendations-learn-more2 = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Inzerujeme iba produkty so spoľahlivými recenziami. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Skontrolovať kvalitu recenzií
 
 more-to-consider-ad-label =
     .label = Ďalšie na zváženie
+shopping-sponsored-label = Sponzorované
 ad-by-fakespot = Reklama od { -fakespot-brand-name }
 
 ## Shopping survey strings.

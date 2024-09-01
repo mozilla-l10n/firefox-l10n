@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Odstrániť z histórie
+sidebar-history-sort-by-date =
+    .label = Usporiadať podľa dátumu
+sidebar-history-sort-by-site =
+    .label = Usporiadať podľa lokality
+sidebar-history-clear =
+    .label = Vymazať históriu
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
 sidebar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
+sidebar-context-menu-open-in-window =
+    .label = Otvoriť v novom okne
+sidebar-context-menu-open-in-private-window =
+    .label = Otvoriť v novom súkromnom okne
+sidebar-context-menu-bookmark-tab =
+    .label = Pridať kartu medzi záložky…
+sidebar-context-menu-copy-link =
+    .label = Kopírovať odkaz
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Odstrániť z histórie
 
 ## Labels for sidebar menu items.
 

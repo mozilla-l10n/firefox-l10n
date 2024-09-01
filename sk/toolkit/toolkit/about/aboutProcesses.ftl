@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Zavrieť karty a zrušiť proces
+about-processes-kill-process =
+    .title = Ukončiť proces
 about-processes-shutdown-tab =
     .title = Zavrieť kartu
 # Profiler icons

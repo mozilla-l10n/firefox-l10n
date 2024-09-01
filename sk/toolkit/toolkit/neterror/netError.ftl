@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Nie ste pripojení na internet.
 neterror-dns-not-found-trr-unknown-host2 = Táto stránka nebola pomocou servera { $trrDomain } nájdená.
 neterror-dns-not-found-trr-server-problem = Vyskytol sa problém s { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Neplatná adresa URL.
+neterror-dns-not-found-system-sleep = Systém je v režime spánku.
 neterror-dns-not-found-trr-unknown-problem = Neočakávaný problém.
 
 ## Native fallback specific messages
