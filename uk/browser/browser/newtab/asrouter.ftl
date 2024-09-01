@@ -263,7 +263,7 @@ pdf-default-notification-decline-button =
 
 launch-on-login-infobar-message = <strong>Відкривати { -brand-short-name } щоразу, коли ви перезапускаєте комп'ютер?</strong> Тепер ви можете налаштувати { -brand-short-name } на автоматичне відкриття під час перезапуску пристрою.
 launch-on-login-learnmore = Докладніше
-launch-on-login-infobar-confirm-button = Так, відкрити { -brand-short-name }
+launch-on-login-infobar-confirm-button = Так, відкривати { -brand-short-name }
     .accesskey = Т
 launch-on-login-infobar-reject-button = Не зараз
     .accesskey = Н
