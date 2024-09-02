@@ -166,11 +166,11 @@ ad-by-fakespot = Реклама від { -fakespot-brand-name }
 
 shopping-survey-headline = Допоможіть удосконалити { -brand-product-name }
 shopping-survey-question-one = Як ви оцінюєте роботу засобу перевірки відгуків у { -brand-product-name }?
-shopping-survey-q1-radio-1-label = Дуже добре
+shopping-survey-q1-radio-1-label = Відмінно
 shopping-survey-q1-radio-2-label = Добре
 shopping-survey-q1-radio-3-label = Нейтрально
 shopping-survey-q1-radio-4-label = Погано
-shopping-survey-q1-radio-5-label = Дуже погано
+shopping-survey-q1-radio-5-label = Гірше не може бути
 shopping-survey-question-two = Чи полегшує вам прийняття рішень про купівлю засіб перевірки відгуків?
 shopping-survey-q2-radio-1-label = Так
 shopping-survey-q2-radio-2-label = Ні
