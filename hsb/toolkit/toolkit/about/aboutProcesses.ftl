@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Rajtarki wuswobodźić a proces zničić
+about-processes-kill-process =
+    .title = Proces skónčić
 about-processes-shutdown-tab =
     .title = Rajtark začinić
 # Profiler icons
