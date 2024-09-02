@@ -235,6 +235,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 = ລຶບລະຫັດຜ່ານ { $count } ທັງໝົດອອກບໍ?
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = ລຶບລະຫັດຜ່ານ { $count } ທັງໝົດອອກຈາກອຸປະກອນທັງໝົດບໍ?
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] ນີ້ຈະເປັນການລຶບລະຫັດຜ່ານທັງໝົດທີ່ບັນທຶກໄວ້ໃນ { -brand-short-name } ຢູ່ໃນອຸປະກອນທີ່ຊິ້ງທັງໝົດຂອງທ່ານ. ນີ້ຈະເປັນການລຶບການແຈ້ງເຕືອນການລະເມີດທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານບໍ່ສາມາດຍົກເລີກການກະທຳນີ້ໄດ້.
+       *[other] ນີ້ຈະເປັນການລຶບລະຫັດຜ່ານທັງໝົດທີ່ບັນທຶກໄວ້ໃນ { -brand-short-name } ຢູ່ໃນອຸປະກອນທີ່ຊິ້ງທັງໝົດຂອງທ່ານ. ນີ້ຈະເປັນການລຶບການແຈ້ງເຕືອນການລະເມີດທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານບໍ່ສາມາດຍົກເລີກການກະທຳນີ້ໄດ້.
+    }
 
 ##
 
@@ -242,6 +250,9 @@ about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າ�
 about-logins-confirm-export-dialog-message = ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ເປັນຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້ (ເຊັ່ນ: BadP@ssw0rd) ດັ່ງນັ້ນທຸກຄົນທີ່ສາມາດເປີດໄຟລ໌ທີ່ສົ່ງອອກສາມາດເບິ່ງໄດ້.
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
 about-logins-confirm-export-dialog-title2 = ບັນທຶກກ່ຽວກັບການສົ່ງອອກລະຫັດຜ່ານ
+about-logins-confirm-export-dialog-message2 =
+    ເມື່ອທ່ານສົ່ງອອກ, ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ໃນໄຟລ໌ທີ່ມີຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້.
+    ເມື່ອທ່ານໃຊ້ໄຟລ໌ສຳເລັດແລ້ວ, ພວກເຮົາແນະນຳໃຫ້ລຶບມັນອອກ ເພື່ອໃຫ້ຜູ້ອື່ນທີ່ໃຊ້ອຸປະກອນນີ້ບໍ່ສາມາດເຫັນລະຫັດຜ່ານຂອງທ່ານໄດ້.
 about-logins-confirm-export-dialog-confirm-button2 = ສືບຕໍ່ການສົ່ງອອກ
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
@@ -284,6 +295,8 @@ about-logins-export-file-picker-title = ສົ່ງອອກໄຟລ໌ເຂ�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = ສົ່ງອອກລະຫັດຜ່ານຈາກ { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
@@ -335,6 +348,9 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ພົບການເຂົ້າສູ່ລະບົບຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
     }
+about-logins-import-dialog-items-added2 = <span>ເພີ່ມລະຫັດຜ່ານໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change2 = <span>ພົບລາຍການຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>ຂໍ້ຜິດພາດ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນໍາເຂົ້າ)</span>
@@ -355,6 +371,7 @@ about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້�
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
 about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ້າ
 about-logins-import-report-description = ນໍາ​ເຂົ້າການເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ​​ໄປຍັງ { -brand-short-name } ແລ້ວ.
+about-logins-import-report-description2 = ນຳເຂົ້າລະຫັດຜ່ານໃສ່ { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -362,6 +379,7 @@ about-logins-import-report-row-index = ແຖວ { $number }
 about-logins-import-report-row-description-no-change = ຊໍ້າກັນ: ກົງກັນທຸກຢ່າງຂອງການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
+about-logins-import-report-row-description-no-change2 = ຊໍ້າກັນ: ກົງກັນທີ່ແນ່ນອນຂອງລາຍການທີ່ມີຢູ່
 about-logins-import-report-row-description-modified2 = ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added2 = ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ
 about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
@@ -391,6 +409,7 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-added2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ</div>
 about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ອັບເດດລາຍການທີ່ມີຢູ່ກ່ອນແລ້ວ</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ລາຍການຊໍ້າກັນ</div> <div data-l10n-name="not-imported ">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ຄວາມຜິດພາດ</div> <div data-l10n-name="not-imported" >(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
