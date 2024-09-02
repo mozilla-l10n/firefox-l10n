@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Nid ydych wedi'ch cysylltu â'r rhyngrwyd.
 neterror-dns-not-found-trr-unknown-host2 = Nid yw { $trrDomain } wedi canfod y wefan hon.
 neterror-dns-not-found-trr-server-problem = Bu anhawster gyda { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL annilys.
+neterror-dns-not-found-system-sleep = Mae'r system yn y modd cysgu.
 neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
 
 ## Native fallback specific messages

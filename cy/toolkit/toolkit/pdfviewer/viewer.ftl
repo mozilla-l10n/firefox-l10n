@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = Priodweddau Dogfen…
 pdfjs-document-properties-file-name = Enw ffeil:
 pdfjs-document-properties-file-size = Maint ffeil:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } beit)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } beit)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } beit)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = Pwnc:
 pdfjs-document-properties-keywords = Allweddair:
 pdfjs-document-properties-creation-date = Dyddiad Creu:
 pdfjs-document-properties-modification-date = Dyddiad Addasu:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -283,6 +294,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [Anodiad { $type } ]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
