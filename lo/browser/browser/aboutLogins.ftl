@@ -409,7 +409,7 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-added2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ</div>
 about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ອັບເດດລາຍການທີ່ມີຢູ່ກ່ອນແລ້ວ</div>
-about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ລາຍການຊໍ້າກັນ</div> <div data-l10n-name="not-imported ">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ລາຍການຊໍ້າກັນ</div> <div data-l10n-name="not-imported">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ຄວາມຜິດພາດ</div> <div data-l10n-name="not-imported" >(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
