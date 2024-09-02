@@ -543,6 +543,10 @@ urlbar-go-button =
     .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
     .tooltiptext = การกระทำหน้า
+urlbar-revert-button =
+    .tooltiptext = แสดงที่อยู่ในแถบตำแหน่งที่ตั้ง
+urlbar-show-page-actions-button =
+    .tooltiptext = แสดงการกระทำหน้าทั้งหมด
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
