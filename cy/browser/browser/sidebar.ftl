@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Dileu o'r Hanes
+sidebar-history-sort-by-date =
+    .label = Trefnu yn ôl dyddiad
+sidebar-history-sort-by-site =
+    .label = Trefnu yn ôl gwefan
+sidebar-history-clear =
+    .label = Clirio'r hanes
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Tynnu'r estyniad
 sidebar-context-menu-report-extension =
     .label = Adrodd ar yr estyniad
+sidebar-context-menu-open-in-window =
+    .label = Agor mewn Ffenestr Newydd
+sidebar-context-menu-open-in-private-window =
+    .label = Agor mewn Ffenestr Breifat Newydd
+sidebar-context-menu-bookmark-tab =
+    .label = Gosod Nod Tudalen i'r Tab…
+sidebar-context-menu-copy-link =
+    .label = Copïo'r Ddolen
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Dileu o'r Hanes
 
 ## Labels for sidebar menu items.
 

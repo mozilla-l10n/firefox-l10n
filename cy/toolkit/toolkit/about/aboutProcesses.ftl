@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Dadlwytho tabiau a lladd y broses
+about-processes-kill-process =
+    .title = Terfynu'r broses
 about-processes-shutdown-tab =
     .title = Cau tab
 # Profiler icons
