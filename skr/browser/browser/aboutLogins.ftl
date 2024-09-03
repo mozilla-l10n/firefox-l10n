@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = اپݨے لاگ ان وِچ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ تھئے لاگ ان وچ تبدیلی کرو
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] پاس ورڈ کیتے ترتیباں وٹاؤ
+       *[other] { -brand-short-name } پاس ورڈ دیاں ترتیباں وٹاوݨ دی کوشش کریندا پئے۔ ایندی اجازت ݙیوݨ کیتے آپݨی ڈیوائس دا سائن ان ورتو۔
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = اپݨا پاس ورڈ وچ تبدیلی کرݨ کیتے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے
 # This message can be seen when attempting to edit a login in about:logins
