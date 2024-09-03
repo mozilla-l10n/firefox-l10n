@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Rechte untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-bottom-middle = Unten mittig - Größe ändern
 pdfjs-editor-resizer-label-bottom-left = Linke untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-middle-left = Mitte links - Größe ändern
+pdfjs-editor-resizer-top-left =
+    .aria-label = Linke obere Ecke - Größe ändern
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Oben mittig - Größe ändern
+pdfjs-editor-resizer-top-right =
+    .aria-label = Rechts oben - Größe ändern
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Mitte rechts - Größe ändern
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Rechte untere Ecke - Größe ändern
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Unten mittig - Größe ändern
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Linke untere Ecke - Größe ändern
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Mitte links - Größe ändern
 
 ## Color picker
 
