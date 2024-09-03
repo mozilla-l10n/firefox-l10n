@@ -77,17 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Показати більше вкладок
     .tooltiptext = Показати більше вкладок з цього пристрою
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Показати { $count } неактивну вкладку
-            [few] Показати { $count } неактивні вкладки
-           *[many] Показати { $count } неактивних вкладок
-        }
-    .tooltiptext = Показати неактивні вкладки на цьому пристрої
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Неактивні вкладки
@@ -207,6 +196,9 @@ profiler-popup-presets-power-description = Налаштування для ви�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Потужність
+profiler-popup-presets-debug-description = Типові задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
+profiler-popup-presets-debug-label =
+    .label = Налагодження
 profiler-popup-presets-custom-label =
     .label = Власний
 

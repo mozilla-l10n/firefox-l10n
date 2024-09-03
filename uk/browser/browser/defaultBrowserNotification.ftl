@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Зробити { -brand-short-name } вашим основним браузером?
 default-browser-prompt-message-pin = Тримайте { -brand-short-name } під рукою – зробіть його своїм типовим браузером і закріпіть на панелі завдань.
+default-browser-prompt-message-pin-msix = Тримайте { -brand-short-name } під рукою – зробіть його своїм типовим браузером, закріпіть на панелі завдань і в меню "Пуск".
 default-browser-prompt-message-pin-mac = Тримайте { -brand-short-name } під рукою – зробіть його типовим браузером і додайте до Dock.
+default-browser-prompt-button-primary-set = Встановити основним браузером
 default-browser-prompt-button-primary-pin = Зробити основним браузером
 default-browser-prompt-title-alt = Зробити { -brand-short-name } вашим типовим браузером?
 default-browser-prompt-message-alt = Отримайте швидкість, безпеку та приватність завжди під час перегляду.

@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Закріпити { -brand-short-name } у Dock
        *[other] Закріпити { -brand-short-name } на панелі завдань
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Закріпіть { -brand-short-name } на панелі завдань і в меню "Пуск".
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -339,6 +341,7 @@ onboarding-device-migration-primary-button-label = Увійти
 ## Add-ons Picker screen
 
 amo-picker-title = Налаштуйте свій { -brand-short-name }
+amo-picker-subtitle = Розширення – це як програми для вашого браузера. За допомогою них можна захищати паролі, завантажувати відео, знаходити пропозиції, блокувати надокучливу рекламу, змінювати вигляд браузера, а також робити багато інших речей.
 amo-picker-install-button-label = Додати до { -brand-short-name }
 amo-picker-install-complete-label = Встановлено
 amo-picker-collection-link = Ознайомтеся з додатками

@@ -89,6 +89,9 @@ shopping-show-less-button = Показати менше
 
 shopping-settings-label =
     .label = Налаштування
+shopping-settings-recommendations-toggle2 =
+    .label = Показувати рекомендації та спонсоровані матеріали
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } не поширює ваші особисті дані, тому ці рекомендації не переслідуватимуть вас в інтернеті. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-recommendations-toggle =
     .label = Показувати рекламу в засобі перевірки відгуків
 shopping-settings-recommendations-learn-more2 = Ви періодично бачитимете рекламу схожих товарів. Ми рекламуємо лише продукти, які мають надійні відгуки. <a data-l10n-name="review-quality-url">Докладніше</a>
@@ -134,6 +137,8 @@ shopping-analysis-explainer-learn-more2 = Дізнайтеся, <a data-l10n-nam
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Обрані</strong> беруться з відгуків { $retailer } за останні 80 днів, які ми вважаємо надійними.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Обрані</strong> беруться з відгуків %s за останні 80 днів, які ми вважаємо надійними.
 shopping-analysis-explainer-review-grading-scale-reliable = Надійні – чесні, неупереджені відгуки, найімовірніше від справжніх замовників.
 shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, що тут поєднано надійні та сумнівні відгуки.
 shopping-analysis-explainer-review-grading-scale-unreliable = Сумнівні – нечесні відгуки, найімовірніше від упереджених оглядачів.
@@ -160,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Перевірити якість �
 
 more-to-consider-ad-label =
     .label = Більше товарів
+shopping-sponsored-label = Спонсоровано
 ad-by-fakespot = Реклама від { -fakespot-brand-name }
 
 ## Shopping survey strings.

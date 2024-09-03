@@ -551,6 +551,10 @@ urlbar-go-button =
     .tooltiptext = Перейти за адресою з панелі адреси
 urlbar-page-action-button =
     .tooltiptext = Дії сторінки
+urlbar-revert-button =
+    .tooltiptext = Показати адресу в панелі адреси
+urlbar-show-page-actions-button =
+    .tooltiptext = Показати всі дії для сторінки
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -641,6 +645,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Недавні пошуки
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Популярне в { $engine }
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Не показувати популярні пошукові запити
@@ -1043,6 +1052,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Не вдалося відкрити діалогове вікно провідника Windows. Неможливо вибрати файл або теку.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Не вдалося відкрити діалогове вікно провідника Windows. Файл буде збережено в { $path }.
+file-picker-failed-save-nowhere = Не вдалося відкрити діалогове вікно провідника Windows. Неможливо знайти типову теку. Файл не буде збережено.
+file-picker-crashed-open = Стався збій діалогового вікна провідника Windows. Неможливо вибрати файл або теку.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Стався збій діалогового вікна провідника Windows. Файл буде збережено в { $path }.
+file-picker-crashed-save-nowhere = Стався збій діалогового вікна провідника Windows. Неможливо знайти типову теку. Файл не буде збережено.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

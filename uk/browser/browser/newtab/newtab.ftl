@@ -244,6 +244,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Не для мене
+newtab-toast-thumbs-up-or-down = Дякуємо. Ваш відгук допоможе нам покращити вашу стрічку.
 newtab-toast-dismiss-button =
     .title = Відхилити
     .aria-label = Відхилити
@@ -312,6 +313,7 @@ newtab-wallpaper-dark-city = Фіолетовий міський пейзаж
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Суцільні кольори
 newtab-wallpaper-blue = Синій
 newtab-wallpaper-light-blue = Блакитний
 newtab-wallpaper-light-purple = Світло-пурпуровий
@@ -324,16 +326,19 @@ newtab-wallpaper-pink = Рожевий
 newtab-wallpaper-light-pink = Світло-рожевий
 newtab-wallpaper-red = Червоний
 newtab-wallpaper-dark-blue = Темно-синій
+newtab-wallpaper-dark-purple = Темно-пурпуровий
 newtab-wallpaper-dark-green = Темно-зелений
 newtab-wallpaper-brown = Коричневий
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Абстракція
 newtab-wallpaper-abstract-green = Зелені форми
 newtab-wallpaper-abstract-blue = Сині форми
 newtab-wallpaper-abstract-purple = Фіолетові форми
 newtab-wallpaper-abstract-orange = Помаранчеві форми
 newtab-wallpaper-gradient-orange = Градієнт помаранчевого і рожевого
+newtab-wallpaper-abstract-blue-purple = Сині та пурпурові форми
 
 ## Photographs
 
@@ -351,6 +356,10 @@ newtab-wallpaper-attribution = Фото від <a data-l10n-name="name-link">{ $
 newtab-wallpaper-feature-highlight-header = Спробуйте сплеск кольорів
 newtab-wallpaper-feature-highlight-content = Надайте своїй новій вкладці свіжий вигляд за допомогою шпалер.
 newtab-wallpaper-feature-highlight-button = Зрозуміло
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Відхилити
+    .aria-label = Закрити спливне вікно
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
@@ -393,6 +402,11 @@ newtab-topic-label-arts = Розваги
 newtab-topic-label-food = Їжа
 newtab-topic-label-health = Здоров'я
 newtab-topic-label-hobbies = Ігри
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Гроші
+newtab-topic-label-society-parenting = Батьківство
 newtab-topic-label-government = Політика
 newtab-topic-label-education-science = Наука
 # ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
@@ -409,8 +423,12 @@ newtab-topic-label-home = Дім і сад
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Виберіть теми, щоб налаштувати свій канал
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Оберіть принаймні дві теми. Наші досвідчені куратори підбирають матеріали відповідно до ваших інтересів. Оновлюйте коли завгодно.
 newtab-topic-selection-save-button = Зберегти
 newtab-topic-selection-cancel-button = Скасувати
 newtab-topic-selection-button-maybe-later = Можливо, пізніше
+newtab-topic-selection-privacy-link = Дізнайтеся, як ми захищаємо дані та керуємо ними
 newtab-topic-selection-button-update-interests = Оновіть свої інтереси
 newtab-topic-selection-button-pick-interests = Виберіть свої інтереси

@@ -1119,6 +1119,9 @@ addressbar-suggestions-settings = Змінити налаштування про
 addressbar-locbar-showrecentsearches-option =
     .label = Показати останні пошуки
     .accesskey = о
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Показувати популярні пошукові пропозиції
+    .accesskey = П
 addressbar-quickactions-learn-more = Докладніше
 
 ## Privacy Section - Content Blocking
@@ -1312,6 +1315,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Налаштування реклами для вебсайтів
 
 ## Privacy Section - Security
 ##
