@@ -919,6 +919,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = ہک منڈھلا پاس ورڈ استعمال کرو
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = پاس ورڈاں کوں پُر کرݨ اَتے منیج کرݨ کِیتے  ڈیوائس سائن ان دی لوڑ ہِے۔
 forms-primary-pw-learn-more-link = ٻیا سِکھو
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -951,6 +954,12 @@ primary-password-os-auth-dialog-message-win = ہک منڈھلا پاس ورڈ ب
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ہک منڈھلا پاس ورڈ بݨاؤ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ادائیگی طریقیاں کیتے ترتیباں وٹاؤ
+       *[other] { -brand-short-name } ادائیگی طریقیاں دیاں ترتیباں وٹاوݨ دی کوشش کریندا پئے۔ ایندی اجازت ݙیوݨ کیتے آپݨی ڈیوائس دا سائن ان ورتو۔
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
