@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Cjanton in bas a diestre — ridimensi
 pdfjs-editor-resizer-label-bottom-middle = Bande inferiôr tal mieç — ridimensione
 pdfjs-editor-resizer-label-bottom-left = Cjanton in bas a çampe — ridimensione
 pdfjs-editor-resizer-label-middle-left = Bande di çampe tal mieç — ridimensione
+pdfjs-editor-resizer-top-left =
+    .aria-label = Cjanton in alt a çampe — ridimensione
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Bande superiôr tal mieç — ridimensione
+pdfjs-editor-resizer-top-right =
+    .aria-label = Cjanton in alt a diestre — ridimensione
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Bande diestre tal mieç — ridimensione
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Cjanton in bas a diestre — ridimensione
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Bande inferiôr tal mieç — ridimensione
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Cjanton in bas a çampe — ridimensione
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Bande di çampe tal mieç — ridimensione
 
 ## Color picker
 
