@@ -406,8 +406,6 @@ pdfjs-editor-new-alt-text-textarea =
 pdfjs-editor-new-alt-text-description = Curte descrizion par personis che no rivin a viodi la imagjin, o che e ven mostrade cuant che no si rive a cjariâle.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Chest test alternatîf al è stât creât in automatic e al è pussibil che nol sedi cret.
-# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
-pdfjs-editor-new-alt-text-disclaimer = Chest test alternatîf al è stât creât in automatic.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Plui informazions
 pdfjs-editor-new-alt-text-create-automatically-button-label = Cree test alternatîf in automatic
 pdfjs-editor-new-alt-text-not-now-button = No cumò
