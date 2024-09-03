@@ -358,6 +358,22 @@ pdfjs-editor-resizer-label-bottom-right = ქვევით მარჯვნ�
 pdfjs-editor-resizer-label-bottom-middle = ქვევით შუაში — ზომაცვლა
 pdfjs-editor-resizer-label-bottom-left = ზვევით მარცხნივ — ზომაცვლა
 pdfjs-editor-resizer-label-middle-left = შუაში მარცხნივ — ზომაცვლა
+pdfjs-editor-resizer-top-left =
+    .aria-label = ზევით მარცხნივ — ზომაცვლა
+pdfjs-editor-resizer-top-middle =
+    .aria-label = ზევით შუაში — ზომაცვლა
+pdfjs-editor-resizer-top-right =
+    .aria-label = ზევით მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-middle-right =
+    .aria-label = შუაში მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = ქვევით მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = ქვევით შუაში — ზომაცვლა
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = ზვევით მარცხნივ — ზომაცვლა
+pdfjs-editor-resizer-middle-left =
+    .aria-label = შუაში მარცხნივ — ზომაცვლა
 
 ## Color picker
 
