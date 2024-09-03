@@ -382,6 +382,22 @@ pdfjs-editor-resizer-label-bottom-right = Нижний правый угол —
 pdfjs-editor-resizer-label-bottom-middle = Внизу посередине — изменить размер
 pdfjs-editor-resizer-label-bottom-left = Нижний левый угол — изменить размер
 pdfjs-editor-resizer-label-middle-left = В центре слева — изменить размер
+pdfjs-editor-resizer-top-left =
+    .aria-label = Левый верхний угол — изменить размер
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Вверху посередине — изменить размер
+pdfjs-editor-resizer-top-right =
+    .aria-label = Верхний правый угол — изменить размер
+pdfjs-editor-resizer-middle-right =
+    .aria-label = В центре справа — изменить размер
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Нижний правый угол — изменить размер
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Внизу посередине — изменить размер
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Нижний левый угол — изменить размер
+pdfjs-editor-resizer-middle-left =
+    .aria-label = В центре слева — изменить размер
 
 ## Color picker
 
