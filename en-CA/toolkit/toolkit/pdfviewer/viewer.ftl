@@ -404,8 +404,6 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = Write your description here…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Short description for people who can’t see the image or when the image doesn’t load.
-# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
-pdfjs-editor-new-alt-text-disclaimer = This alt text was created automatically.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Learn more
 pdfjs-editor-new-alt-text-create-automatically-button-label = Create alt text automatically
 pdfjs-editor-new-alt-text-not-now-button = Not now
