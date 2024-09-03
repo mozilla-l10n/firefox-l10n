@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Cjanton in bas a diestre — ridimensi
 pdfjs-editor-resizer-label-bottom-middle = Bande inferiôr tal mieç — ridimensione
 pdfjs-editor-resizer-label-bottom-left = Cjanton in bas a çampe — ridimensione
 pdfjs-editor-resizer-label-middle-left = Bande di çampe tal mieç — ridimensione
+pdfjs-editor-resizer-top-left =
+    .aria-label = Cjanton in alt a çampe — ridimensione
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Bande superiôr tal mieç — ridimensione
+pdfjs-editor-resizer-top-right =
+    .aria-label = Cjanton in alt a diestre — ridimensione
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Bande diestre tal mieç — ridimensione
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Cjanton in bas a diestre — ridimensione
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Bande inferiôr tal mieç — ridimensione
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Cjanton in bas a çampe — ridimensione
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Bande di çampe tal mieç — ridimensione
 
 ## Color picker
 
@@ -406,8 +422,6 @@ pdfjs-editor-new-alt-text-textarea =
 pdfjs-editor-new-alt-text-description = Curte descrizion par personis che no rivin a viodi la imagjin, o che e ven mostrade cuant che no si rive a cjariâle.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Chest test alternatîf al è stât creât in automatic e al è pussibil che nol sedi cret.
-# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
-pdfjs-editor-new-alt-text-disclaimer = Chest test alternatîf al è stât creât in automatic.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Plui informazions
 pdfjs-editor-new-alt-text-create-automatically-button-label = Cree test alternatîf in automatic
 pdfjs-editor-new-alt-text-not-now-button = No cumò

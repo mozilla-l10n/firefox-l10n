@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Neðst í hægra horni - breyta stær�
 pdfjs-editor-resizer-label-bottom-middle = Neðst á miðju - breyta stærð
 pdfjs-editor-resizer-label-bottom-left = Neðst í vinstra horni - breyta stærð
 pdfjs-editor-resizer-label-middle-left = Miðja til vinstri - breyta stærð
+pdfjs-editor-resizer-top-left =
+    .aria-label = Efst í vinstra horni - breyta stærð
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Efst á miðju - breyta stærð
+pdfjs-editor-resizer-top-right =
+    .aria-label = Efst í hægra horni - breyta stærð
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Miðja til hægri - breyta stærð
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Neðst í hægra horni - breyta stærð
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Neðst á miðju - breyta stærð
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Neðst í vinstra horni - breyta stærð
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Miðja til vinstri - breyta stærð
 
 ## Color picker
 

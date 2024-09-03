@@ -388,6 +388,22 @@ pdfjs-editor-resizer-label-bottom-right = Y gornel dde isaf — newid maint
 pdfjs-editor-resizer-label-bottom-middle = Canol gwaelod — newid maint
 pdfjs-editor-resizer-label-bottom-left = Y gornel chwith isaf — newid maint
 pdfjs-editor-resizer-label-middle-left = Chwith canol — newid maint
+pdfjs-editor-resizer-top-left =
+    .aria-label = Y gornel chwith uchaf — newid maint
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Canol uchaf - newid maint
+pdfjs-editor-resizer-top-right =
+    .aria-label = Y gornel dde uchaf - newid maint
+pdfjs-editor-resizer-middle-right =
+    .aria-label = De canol - newid maint
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Y gornel dde isaf — newid maint
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Canol gwaelod — newid maint
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Y gornel chwith isaf — newid maint
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Chwith canol — newid maint
 
 ## Color picker
 

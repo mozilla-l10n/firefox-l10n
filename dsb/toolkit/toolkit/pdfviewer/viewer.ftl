@@ -370,6 +370,22 @@ pdfjs-editor-resizer-label-bottom-right = Dołojce napšawo – wjelikosć změn
 pdfjs-editor-resizer-label-bottom-middle = Dołojce wesrjejź – wjelikosć změniś
 pdfjs-editor-resizer-label-bottom-left = Dołojce nalěwo – wjelikosć změniś
 pdfjs-editor-resizer-label-middle-left = Wesrjejź nalěwo – wjelikosć změniś
+pdfjs-editor-resizer-top-left =
+    .aria-label = Górjejce nalěwo – wjelikosć změniś
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Górjejce wesrjejź – wjelikosć změniś
+pdfjs-editor-resizer-top-right =
+    .aria-label = Górjejce napšawo – wjelikosć změniś
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Wesrjejź napšawo – wjelikosć změniś
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Dołojce napšawo – wjelikosć změniś
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Dołojce wesrjejź – wjelikosć změniś
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Dołojce nalěwo – wjelikosć změniś
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Wesrjejź nalěwo – wjelikosć změniś
 
 ## Color picker
 

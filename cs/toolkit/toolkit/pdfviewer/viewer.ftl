@@ -376,6 +376,22 @@ pdfjs-editor-resizer-label-bottom-right = Pravý dolní roh — změna velikosti
 pdfjs-editor-resizer-label-bottom-middle = Střed dole — změna velikosti
 pdfjs-editor-resizer-label-bottom-left = Levý dolní roh — změna velikosti
 pdfjs-editor-resizer-label-middle-left = Vlevo uprostřed — změna velikosti
+pdfjs-editor-resizer-top-left =
+    .aria-label = Levý horní roh — změna velikosti
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Horní střed — změna velikosti
+pdfjs-editor-resizer-top-right =
+    .aria-label = Pravý horní roh — změna velikosti
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Vpravo uprostřed — změna velikosti
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Pravý dolní roh — změna velikosti
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Střed dole — změna velikosti
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Levý dolní roh — změna velikosti
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Vlevo uprostřed — změna velikosti
 
 ## Color picker
 

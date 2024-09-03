@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Rechte untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-bottom-middle = Unten mittig - Größe ändern
 pdfjs-editor-resizer-label-bottom-left = Linke untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-middle-left = Mitte links - Größe ändern
+pdfjs-editor-resizer-top-left =
+    .aria-label = Linke obere Ecke - Größe ändern
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Oben mittig - Größe ändern
+pdfjs-editor-resizer-top-right =
+    .aria-label = Rechts oben - Größe ändern
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Mitte rechts - Größe ändern
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Rechte untere Ecke - Größe ändern
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Unten mittig - Größe ändern
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Linke untere Ecke - Größe ändern
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Mitte links - Größe ändern
 
 ## Color picker
 
@@ -406,8 +422,6 @@ pdfjs-editor-new-alt-text-textarea =
 pdfjs-editor-new-alt-text-description = Kurze Beschreibung für Personen, die die Grafik nicht sehen können, oder wenn die Grafik nicht geladen wird.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Dieser Alternativ-Text wurde automatisch erstellt und könnte ungenau sein.
-# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
-pdfjs-editor-new-alt-text-disclaimer = Dieser Alternativ-Text wurde automatisch erstellt.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Weitere Informationen
 pdfjs-editor-new-alt-text-create-automatically-button-label = Alternativ-Text automatisch erstellen
 pdfjs-editor-new-alt-text-not-now-button = Nicht jetzt

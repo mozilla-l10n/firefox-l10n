@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Malsupra deksta angulo — ŝanĝi gra
 pdfjs-editor-resizer-label-bottom-middle = Malsupra mezo — ŝanĝi grandon
 pdfjs-editor-resizer-label-bottom-left = Malsupra maldekstra angulo — ŝanĝi grandon
 pdfjs-editor-resizer-label-middle-left = Maldekstra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-top-left =
+    .aria-label = Supra maldekstra angulo — ŝangi grandon
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Supra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-top-right =
+    .aria-label = Supran dekstran angulon — ŝanĝi grandon
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Dekstra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Malsupra deksta angulo — ŝanĝi grandon
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Malsupra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Malsupra maldekstra angulo — ŝanĝi grandon
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Maldekstra mezo — ŝanĝi grandon
 
 ## Color picker
 
