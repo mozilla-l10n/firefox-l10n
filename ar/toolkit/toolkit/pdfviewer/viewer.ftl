@@ -306,8 +306,6 @@ pdfjs-editor-stamp-button-label = أضِف أو حرّر الصور
 pdfjs-editor-highlight-button =
     .title = أبرِز
 pdfjs-editor-highlight-button-label = أبرِز
-pdfjs-highlight-floating-button =
-    .title = أبرِز
 pdfjs-highlight-floating-button1 =
     .title = أبرِز
     .aria-label = أبرِز
@@ -402,3 +400,10 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = أظهِر الكل
 pdfjs-editor-highlight-show-all-button =
     .title = أظهِر الكل
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
