@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Beheko eskuineko izkina — aldatu tam
 pdfjs-editor-resizer-label-bottom-middle = Behean erdian — aldatu tamaina
 pdfjs-editor-resizer-label-bottom-left = Beheko ezkerreko izkina — aldatu tamaina
 pdfjs-editor-resizer-label-middle-left = Erdian ezkerrean —  aldatu tamaina
+pdfjs-editor-resizer-top-left =
+    .aria-label = Goiko ezkerreko izkina — aldatu tamaina
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Goian erdian — aldatu tamaina
+pdfjs-editor-resizer-top-right =
+    .aria-label = Goiko eskuineko izkina — aldatu tamaina
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Erdian eskuinean — aldatu tamaina
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Beheko eskuineko izkina — aldatu tamaina
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Behean erdian — aldatu tamaina
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Beheko ezkerreko izkina — aldatu tamaina
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Erdian ezkerrean —  aldatu tamaina
 
 ## Color picker
 
