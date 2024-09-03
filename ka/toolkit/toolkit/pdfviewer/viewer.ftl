@@ -51,12 +51,6 @@ pdfjs-download-button-label = ჩამოტვირთვა
 pdfjs-bookmark-button =
     .title = მიმდინარე გვერდი (ბმული ამ გვერდისთვის)
 pdfjs-bookmark-button-label = მიმდინარე გვერდი
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = გახსნა პროგრამით
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = გახსნა პროგრამით
 
 ##  Secondary toolbar and context menu
 
@@ -301,8 +295,6 @@ pdfjs-editor-ink-button-label = ხაზვა
 pdfjs-editor-stamp-button =
     .title = სურათების დართვა ან ჩასწორება
 pdfjs-editor-stamp-button-label = სურათების დართვა ან ჩასწორება
-pdfjs-editor-remove-button =
-    .title = მოცილება
 pdfjs-editor-highlight-button =
     .title = მონიშვნა
 pdfjs-editor-highlight-button-label = მონიშვნა
@@ -385,3 +377,14 @@ pdfjs-editor-colorpicker-pink =
     .title = ვარდისფერი
 pdfjs-editor-colorpicker-red =
     .title = წითელი
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
