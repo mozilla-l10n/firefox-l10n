@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = ਹੇਠਾਂ ਸੱਜਾ ਕੋਨ
 pdfjs-editor-resizer-label-bottom-middle = ਹੇਠਾਂ ਮੱਧ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
 pdfjs-editor-resizer-label-bottom-left = ਹੇਠਾਂ ਖੱਬਾ ਕੋਨਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
 pdfjs-editor-resizer-label-middle-left = ਮੱਧ ਖੱਬਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-top-left =
+    .aria-label = ਉੱਤੇ ਖੱਬਾ ਕੋਨਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-top-middle =
+    .aria-label = ਉੱਤੇ ਮੱਧ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-top-right =
+    .aria-label = ਉੱਤੇ ਸੱਜਾ ਕੋਨਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-middle-right =
+    .aria-label = ਮੱਧ ਸੱਜਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = ਹੇਠਾਂ ਸੱਜਾ ਕੋਨਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = ਹੇਠਾਂ ਮੱਧ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = ਹੇਠਾਂ ਖੱਬਾ ਕੋਨਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
+pdfjs-editor-resizer-middle-left =
+    .aria-label = ਮੱਧ ਖੱਬਾ — ਮੁੜ-ਆਕਾਰ ਕਰੋ
 
 ## Color picker
 
