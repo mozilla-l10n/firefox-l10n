@@ -380,6 +380,22 @@ pdfjs-editor-resizer-label-bottom-right = تلوِیں سَڄّی نُکَّڑ �
 pdfjs-editor-resizer-label-bottom-middle = تلواں وِچلا — سائز بدلو
 pdfjs-editor-resizer-label-bottom-left = تلوِیں کَھٻّی نُکّڑ — سائز بدلو
 pdfjs-editor-resizer-label-middle-left = وِچلا کَھٻّا — سائز بدلو
+pdfjs-editor-resizer-top-left =
+    .aria-label = اُتلی کَھٻّی نُکّڑ — سائز بدلو
+pdfjs-editor-resizer-top-middle =
+    .aria-label = اُتلا وِچلا — سائز بدلو
+pdfjs-editor-resizer-top-right =
+    .aria-label = اُتلی سَڄّی نُکَّڑ — سائز بدلو
+pdfjs-editor-resizer-middle-right =
+    .aria-label = وِچلا سڄّا — سائز بدلو
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = تلوِیں سَڄّی نُکَّڑ — سائز بدلو
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = تلواں وِچلا — سائز بدلو
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = تلوِیں کَھٻّی نُکّڑ — سائز بدلو
+pdfjs-editor-resizer-middle-left =
+    .aria-label = وِچلا کَھٻّا — سائز بدلو
 
 ## Color picker
 
