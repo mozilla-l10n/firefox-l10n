@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Oikea alakulma - muuta kokoa
 pdfjs-editor-resizer-label-bottom-middle = Alhaalla keskellä - muuta kokoa
 pdfjs-editor-resizer-label-bottom-left = Vasen alakulma - muuta kokoa
 pdfjs-editor-resizer-label-middle-left = Keskellä vasemmalla - muuta kokoa
+pdfjs-editor-resizer-top-left =
+    .aria-label = Vasen yläkulma - muuta kokoa
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Ylhäällä keskellä - muuta kokoa
+pdfjs-editor-resizer-top-right =
+    .aria-label = Oikea yläkulma - muuta kokoa
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Keskellä oikealla - muuta kokoa
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Oikea alakulma - muuta kokoa
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Alhaalla keskellä - muuta kokoa
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Vasen alakulma - muuta kokoa
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Keskellä vasemmalla - muuta kokoa
 
 ## Color picker
 
