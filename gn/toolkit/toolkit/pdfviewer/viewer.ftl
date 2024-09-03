@@ -366,6 +366,22 @@ pdfjs-editor-resizer-label-bottom-right = Yvy gotyo akatúape — emoambue tuich
 pdfjs-editor-resizer-label-bottom-middle = Yvy gotyo mbytépe — emoambue tuichakue
 pdfjs-editor-resizer-label-bottom-left = Iguýpe asu gotyo — emoambue tuichakue
 pdfjs-editor-resizer-label-middle-left = Mbyte asu gotyo — emoambue tuichakue
+pdfjs-editor-resizer-top-left =
+    .aria-label = Yvate asu gotyo — emoambue tuichakue
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Yvate mbytépe — emoambue tuichakue
+pdfjs-editor-resizer-top-right =
+    .aria-label = Yvate akatúape — emoambue tuichakue
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Mbyte akatúape — emoambue tuichakue
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Yvy gotyo akatúape — emoambue tuichakue
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Yvy gotyo mbytépe — emoambue tuichakue
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Iguýpe asu gotyo — emoambue tuichakue
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Mbyte asu gotyo — emoambue tuichakue
 
 ## Color picker
 
