@@ -966,6 +966,9 @@ autofill-payment-methods-checkbox-submessage = کریڈٹ اَتے ڈیبٹ کا
     .accesskey = I
 autofill-saved-payment-methods-button = محفوظ تھئے ادائیگی طریقے
     .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = ادائیگی دے طریقیاں کوں پُر کرݨ اَتے منیج کرݨ کِیتے  ڈیوائس سائن ان دی لوڑ ہِے۔
+    .accesskey = o
 
 ## Privacy Section - History
 
