@@ -374,6 +374,22 @@ pdfjs-editor-resizer-label-bottom-right = الزاوية اليُمنى السُ
 pdfjs-editor-resizer-label-bottom-middle = أسفل الوسط - غيّر الحجم
 pdfjs-editor-resizer-label-bottom-left = الزاوية اليُسرى السُفلية - غيّر الحجم
 pdfjs-editor-resizer-label-middle-left = مُنتصف اليسار - غيّر الحجم
+pdfjs-editor-resizer-top-left =
+    .aria-label = الزاوية اليُسرى العُليا — غيّر الحجم
+pdfjs-editor-resizer-top-middle =
+    .aria-label = أعلى الوسط - غيّر الحجم
+pdfjs-editor-resizer-top-right =
+    .aria-label = الزاوية اليُمنى العُليا - غيّر الحجم
+pdfjs-editor-resizer-middle-right =
+    .aria-label = اليمين الأوسط - غيّر الحجم
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = الزاوية اليُمنى السُفلى - غيّر الحجم
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = أسفل الوسط - غيّر الحجم
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = الزاوية اليُسرى السُفلية - غيّر الحجم
+pdfjs-editor-resizer-middle-left =
+    .aria-label = مُنتصف اليسار - غيّر الحجم
 
 ## Color picker
 
