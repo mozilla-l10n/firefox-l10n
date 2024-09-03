@@ -51,12 +51,6 @@ pdfjs-download-button-label = Deskargatu
 pdfjs-bookmark-button =
     .title = Uneko orria (ikusi uneko orriaren URLa)
 pdfjs-bookmark-button-label = Uneko orria
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Ireki aplikazioan
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Ireki aplikazioan
 
 ##  Secondary toolbar and context menu
 
@@ -304,8 +298,6 @@ pdfjs-editor-stamp-button-label = Gehitu edo editatu irudiak
 pdfjs-editor-highlight-button =
     .title = Nabarmendu
 pdfjs-editor-highlight-button-label = Nabarmendu
-pdfjs-highlight-floating-button =
-    .title = Nabarmendu
 pdfjs-highlight-floating-button1 =
     .title = Nabarmendu
     .aria-label = Nabarmendu
@@ -400,3 +392,10 @@ pdfjs-editor-colorpicker-red =
 pdfjs-editor-highlight-show-all-button-label = Erakutsi denak
 pdfjs-editor-highlight-show-all-button =
     .title = Erakutsi denak
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
