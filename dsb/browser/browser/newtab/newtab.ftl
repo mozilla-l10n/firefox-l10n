@@ -421,6 +421,12 @@ newtab-topic-label-home = Dom a zagroda
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Wubjeŕśo temy, aby swój kanal optiměrował
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Wubjeŕśo dwě temje abo wěcej z nich. Naše nazgónjone kuratory prioritu na tšojeńka kładu, kótarež su na waše zajmy wusměrjone. Pśiměŕśo to kuždy cas.
 newtab-topic-selection-save-button = Składowaś
 newtab-topic-selection-cancel-button = Pśetergnuś
 newtab-topic-selection-button-maybe-later = Snaź pózdźej
