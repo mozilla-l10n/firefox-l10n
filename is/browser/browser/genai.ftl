@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-choose = Veldu spjallkerfi
 genai-settings-chat-choose-one-menuitem =
     .label = Veldu einn
 
@@ -14,6 +15,10 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Ég er á síðunni „{ $tabTitle }“ með „{ $selection }“ valið.
 
 ## Chatbot menu shortcuts
 
