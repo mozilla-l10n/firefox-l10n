@@ -423,9 +423,12 @@ support-printing-prefs-value = Значення
 ## Remote Settings sections
 
 support-remote-settings-title = Віддалені налаштування
+support-remote-settings-status = Стан
+support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Не працює
 support-remote-settings-last-check = Остання перевірка
+support-remote-settings-local-timestamp = Локальна позначка часу
 support-remote-settings-sync-history = Історія
 support-remote-settings-sync-history-status = Стан
 support-remote-settings-sync-history-datetime = Дата

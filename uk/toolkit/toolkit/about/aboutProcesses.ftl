@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Розвантажити вкладки та вбити процес
+about-processes-kill-process =
+    .title = Завершити процес
 about-processes-shutdown-tab =
     .title = Закрити вкладку
 # Profiler icons
