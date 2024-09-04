@@ -89,6 +89,9 @@ shopping-show-less-button = Mjenjej pokazaś
 
 shopping-settings-label =
     .label = Nastajenja
+shopping-settings-recommendations-toggle2 =
+    .label = Pórucenja a sponserowane wopśimjeśe pokazaś
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } waše wósobinske daty njeźěle, togodla toś te pórucenja njebudu wam pśez internet slědowaś. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pógódnośenjow pokazaś
 shopping-settings-recommendations-learn-more2 = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wabimy jano za produkty ze spušćobnymi pógódnośenjami. <a data-l10n-name="review-quality-url">Dalšne informacije</a>

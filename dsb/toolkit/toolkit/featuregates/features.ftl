@@ -55,6 +55,7 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Bocnica
+sidebar-description = Mějśo lažki pśistup k swójej historiji, rejtarikam z drugich rědow, rozšyrjenjam za bocnicu a wěcej pśi pśeglědowanju. <a data-l10n-name="connect">Měnjenja źěliś</a>
 vertical-tabs-title =
     .label = Wertikalne rejtariki
 experimental-features-group-browsing =
