@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =
     .tooltiptext = Accions de la pagina
+urlbar-show-page-actions-button =
+    .tooltiptext = Afichar totas las accions de la pagina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

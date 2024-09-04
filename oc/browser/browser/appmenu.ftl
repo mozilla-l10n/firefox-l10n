@@ -196,6 +196,8 @@ profiler-popup-presets-power-description = Preconfiguracion per analisar las ava
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-label =
+    .label = Desbugatge
 profiler-popup-presets-custom-label =
     .label = Personalizats
 

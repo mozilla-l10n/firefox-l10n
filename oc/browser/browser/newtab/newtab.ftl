@@ -280,9 +280,11 @@ newtab-wallpaper-title = Fonzes
 newtab-wallpaper-reset = Reïnicializar
 newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montanha blanca
+newtab-wallpaper-light-color = Fòrmas blavas, ròsas e jaunas
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Colors unidas
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau clar
 newtab-wallpaper-light-purple = Violet clar
@@ -309,6 +311,10 @@ newtab-wallpaper-abstract-orange = Fòrmas iranjas
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografias
+newtab-wallpaper-beach-at-sunrise = Plaja a l’alba
+newtab-wallpaper-storm-sky = Cèl auratjós
+newtab-wallpaper-white-mountains = Montanhas blancas
 
 ## New Tab Weather
 
@@ -320,9 +326,12 @@ newtab-weather-menu-change-location = Modificar lo luòc
 newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-learn-more = Ne saber mai
 
 ## Topic Labels
 
+newtab-topic-label-business = Afars
+newtab-topic-label-career = Carrièra
 
 ## Topic Selection Modal
 
