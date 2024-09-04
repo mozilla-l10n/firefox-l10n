@@ -16,7 +16,7 @@ genai-settings-chat-huggingchat-links = Hdyž HuggingChat wuběraće, zwoliće d
 genai-settings-chat-lechat-links = Hdyž Le Chat Mistral wuběraće, zwoliće do <a data-l10n-name="link1">>wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow priwatnosće</a> Mistral AI.
 genai-settings-chat-localhost-links = Přinjesće swójsku priwatny lokalny chatbot kaž na přikład <a data-l10n-name="link1">llamafile</a> z inowaciskeje skupiny { -vendor-short-name } sobu.
 genai-settings-chat-shortcuts =
-    .description = Pokazuje zwjazanje z namołwami, hdyž tekst wuběraće. { -brand-short-name } tekst, titul strony a namołwu na chatbot sćele.
+    .description = Pokazuje zwjazanje z namołwami (jendź. prompts), hdyž tekst wuběraće. { -brand-short-name } tekst, titul strony a namołwu na chatbot sćele.
     .label = Namołwy při wuběranju teksta pokazać
 
 ## Chatbot prompts
