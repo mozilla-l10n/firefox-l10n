@@ -296,7 +296,7 @@ newtab-custom-settings = Διαχείριση περισσότερων ρυθμ�
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Ταπετσαρίες
-newtab-wallpaper-reset = Επαναφορά στην προεπιλογή
+newtab-wallpaper-reset = Επαναφορά προεπιλογής
 newtab-wallpaper-light-red-panda = Κόκκινο πάντα
 newtab-wallpaper-light-mountain = Λευκό βουνό
 newtab-wallpaper-light-sky = Ουρανός με μωβ και ροζ σύννεφα
