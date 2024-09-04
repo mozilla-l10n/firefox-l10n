@@ -332,6 +332,28 @@ newtab-weather-menu-learn-more = Ne saber mai
 
 newtab-topic-label-business = Afars
 newtab-topic-label-career = Carrièra
+newtab-topic-label-education = Educacion
+newtab-topic-label-arts = Léser
+newtab-topic-label-food = Manjar
+newtab-topic-label-health = Santat
+newtab-topic-label-hobbies = Jòc vidèo
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Argent
+newtab-topic-label-society-parenting = Parents
+newtab-topic-label-government = Politica
+newtab-topic-label-education-science = Sciéncia
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Astúcias de vida
+newtab-topic-label-sports = Espòrts
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Viatge
+newtab-topic-label-home = Ostal e òrt
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Enregistrar
+newtab-topic-selection-cancel-button = Anullar
