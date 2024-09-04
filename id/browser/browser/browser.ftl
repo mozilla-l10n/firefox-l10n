@@ -543,6 +543,8 @@ urlbar-go-button =
     .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =
     .tooltiptext = Tindakan laman
+urlbar-show-page-actions-button =
+    .tooltiptext = Tampilkan semua tindakan laman
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
