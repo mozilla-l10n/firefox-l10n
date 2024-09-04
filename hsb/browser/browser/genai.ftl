@@ -15,6 +15,9 @@ genai-settings-chat-copilot-links = Hdyž Copilot wuběraće, zwoliće do <a dat
 genai-settings-chat-huggingchat-links = Hdyž HuggingChat wuběraće, zwoliće do <a data-l10n-name="link1">>zdźělenki priwatnosće HuggingChat</a> a <a data-l10n-name="link2">prawidłow priwatnosće Hugging Face</a>.
 genai-settings-chat-lechat-links = Hdyž Le Chat Mistral wuběraće, zwoliće do <a data-l10n-name="link1">>wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow priwatnosće</a> Mistral AI.
 genai-settings-chat-localhost-links = Přinjesće swójsku priwatny lokalny chatbot kaž na přikład <a data-l10n-name="link1">llamafile</a> z inowaciskeje skupiny { -vendor-short-name } sobu.
+genai-settings-chat-shortcuts =
+    .description = Pokazuje zwjazanje z namołwami, hdyž tekst wuběraće. { -brand-short-name } tekst, titul strony a namołwu na chatbot sćele.
+    .label = Namołwy při wuběranju teksta pokazać
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
