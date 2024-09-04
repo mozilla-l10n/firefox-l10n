@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Nastajenja
 shopping-settings-recommendations-toggle2 =
     .label = Poručenja a sponserowany wobsah pokazać
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } waše wosobinske daty njedźěla, tohodla tute poručenja njebudu wam přez internet slědować. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pohódnoćenjow pokazać
 shopping-settings-recommendations-learn-more2 = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wabimy jenož za produkty ze spušćomnymi pohódnoćenjemi. <a data-l10n-name="review-quality-url">Dalše informacije</a>

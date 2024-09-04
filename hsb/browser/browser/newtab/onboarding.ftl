@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Přizjewić
 ## Add-ons Picker screen
 
 amo-picker-title = Přiměrće swój { -brand-short-name }
+amo-picker-subtitle = Rozšěrjenja kaž nałoženja za waš wobhladowak a móžeće z nimi hesła škitać, wideja sćahnyć, poskitki namakać, wobćežowace wabjenje blokować, napohlad wašeho wobhladowaka změnić a wjele wjace.
 amo-picker-install-button-label = { -brand-short-name } přidać
 amo-picker-install-complete-label = Instalowany
 amo-picker-collection-link = Wuslědźće dalše přidatki
