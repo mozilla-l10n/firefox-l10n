@@ -5,12 +5,24 @@
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Сьогодні – { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Учора – { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Видалити з історії
+sidebar-history-sort-by-date =
+    .label = Сортувати за датою
+sidebar-history-sort-by-site =
+    .label = Сортувати за сайтом
+sidebar-history-clear =
+    .label = Стерти історію
 
 ## Labels for sidebar search
 
@@ -25,6 +37,7 @@ sidebar-search-results-header =
 sidebar-customize-extensions-header = Розширення бічної панелі
 sidebar-customize-firefox-tools-header =
     .label = Інструменти { -brand-product-name }
+sidebar-customize-firefox-settings = Керувати налаштуваннями { -brand-short-name }
 sidebar-position-left =
     .label = Показати ліворуч
 sidebar-position-right =
@@ -46,11 +59,23 @@ sidebar-visibility-hide-sidebar =
 
 sidebar-context-menu-manage-extension =
     .label = Керувати розширенням
+sidebar-context-menu-remove-extension =
+    .label = Вилучити розширення
 sidebar-context-menu-report-extension =
     .label = Поскаржитись на розширення
+sidebar-context-menu-open-in-window =
+    .label = Відкрити в новому вікні
+sidebar-context-menu-open-in-private-window =
+    .label = Відкрити в приватному вікні
+sidebar-context-menu-bookmark-tab =
+    .label = Додати вкладку до закладок…
+sidebar-context-menu-copy-link =
+    .label = Копіювати посилання
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Видалити з історії
 
 ## Labels for sidebar menu items.
 

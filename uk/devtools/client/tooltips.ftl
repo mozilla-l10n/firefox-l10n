@@ -27,6 +27,7 @@ learn-more = <span data-l10n-name="link">Докладніше</span>
 inactive-css-not-grid-or-flex-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером flex чи grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером flex, grid, чи multi-column.
 inactive-css-not-multicol-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером multi-column.
+inactive-css-column-span = Властивість <strong>{ $property }</strong> не має ефекту охоплення для цього елемента, оскільки він не знаходиться всередині контейнера multi-column.
 inactive-css-not-grid-or-flex-item = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є елементом grid чи flex.
 inactive-css-not-grid-item = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є елементом grid.
 inactive-css-not-grid-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером grid.
@@ -38,12 +39,18 @@ inactive-css-first-letter-pseudo-element-not-supported = Властивість 
 inactive-css-placeholder-pseudo-element-not-supported = Властивість <strong>{ $property }</strong> не підтримується у псевдоелементах ::placeholder.
 inactive-css-property-because-of-display = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має відображення <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значення <strong>display</strong> було замінено рушієм на <strong>block</strong>, тому що цей елемент <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Значення <strong>display</strong> було змінено рушієм на <strong>{ $display }</strong>, тому що цей елемент <strong>floated</strong>.
+inactive-css-only-non-grid-or-flex-item = Властивість <strong>{ $property }</strong> не працює, оскільки її не можна використовувати для об'єктів grid або flex.
+inactive-css-not-block = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки вона застосовується лише до блокових елементів.
+inactive-css-not-floated = Властивість <strong>{ $property }</strong> не працює, оскільки вона застосовується лише до пливучих елементів.
 inactive-css-property-is-impossible-to-override-in-visited = Неможливо перевизначити властивість <strong>{ $property }</strong>, у зв'язку з обмеженням <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що це не позиціонований елемент.
+inactive-css-only-replaced-elements = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що її можна застосувати лише до замінених елементів.
 inactive-text-overflow-when-no-overflow = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки не встановлено <strong>overflow:hidden</strong>.
 inactive-css-not-for-internal-table-elements = Властивість <strong>{ $property }</strong> не впливає на внутрішні елементи таблиці.
 inactive-css-not-for-internal-table-elements-except-table-cells = Властивість <strong>{ $property }</strong> не впливає на внутрішні елементи таблиці, окрім комірок таблиці.
 inactive-css-not-table = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є елементом table.
+inactive-css-collapsed-table-borders = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки це таблиця зі згорнутими межами.
 inactive-css-not-table-cell = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки він не є коміркою таблиці.
 inactive-scroll-padding-when-not-scroll-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не прокручується.
 inactive-css-border-image = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки його не можна застосувати до внутрішньої таблиці елементів, де для <strong>border-collapse</strong> встановлено <strong>collapse</strong> на елементі таблиці вищого рівня.
@@ -64,6 +71,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[many] Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має понад { $lineCount } рядків.
     }
 inactive-css-text-wrap-balance-fragmented = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він фрагментований, тобто його вміст розділений на декілька стовпчиків або сторінок.
+inactive-css-no-width-height = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що неможливо встановити його ширину і висоту.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -74,6 +82,7 @@ inactive-css-not-grid-or-flex-container-fix = Спробуйте додати <s
 inactive-css-not-grid-or-flex-or-block-container-fix = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong>, або <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Спробуйте додати <strong>column-count</strong> або <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Спробуйте додати <strong>column-count</strong> або <strong>column-width</strong> до одного з елементів верхнього рівня. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, або <strong>display:inline-flex</strong> до елемента вищого рівня. { learn-more }
 inactive-css-not-grid-item-fix-2 = Спробуйте додати <strong>display:grid</strong> або <strong>display:inline-grid</strong> до елемента вищого рівня. { learn-more }
 inactive-css-not-grid-container-fix = Спробуйте додати <strong>display:grid</strong> або <strong>display:inline-grid</strong>. { learn-more }
@@ -83,6 +92,8 @@ inactive-css-not-inline-or-tablecell-fix = Спробуйте додати <stro
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Спробуйте додати <strong>display:inline-block</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Спробуйте додати <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Спробуйте вилучити <strong>float</strong> або додати <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Спробуйте змінити значення для <strong>display</strong> контейнера елемента на щось інше, ніж <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> чи <strong>inline-grid</strong>, або вилучити <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Спробуйте додати властивості, як-от <strong>display:block</strong> або <strong>float:left</strong>. { learn-more }
 inactive-css-not-floated-fix = Спробуйте додати властивість <strong>float</strong> зі значенням, відмінним від <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Спробуйте налаштувати його властивість <strong>позиції</strong> на щось інше, ніж <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Переконайтеся, що ви додаєте властивість до заміненого елемента. { learn-more }
@@ -94,6 +105,7 @@ inactive-css-collapsed-table-borders-fix = Спробуйте додати <stro
 inactive-css-not-table-cell-fix = Спробуйте додати <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Спробуйте додати <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, або <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = На елементі таблиці вищого рівня вилучіть властивість або змініть значення для <strong>border-collapse</strong> на інше, ніж <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Спробуйте встановити для <strong>overflow</strong> значення, відмінне від <strong>visible</strong>, або націлити на замінений елемент, який це підтримує. { learn-more }
 inactive-css-ruby-element-fix = Спробуйте змінити <strong>font-size</strong> тексту ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Спробуйте зменшити кількість рядків. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Уникайте розділення вмісту елемента, наприклад, видаливши стовпчики або використавши <strong>page-break-inside:avoid</strong>. { learn-more }
