@@ -5,9 +5,13 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Přidawa bóčnicy chatbot wašeje wólby, za spěšny přistup při přehladowanju. <a data-l10n-name="connect">Měnjenja dźělić</a>
 genai-settings-chat-choose = Wubjerće chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Wubjerće jedyn
+genai-settings-chat-links = Hdyž chatbot wuběraće, zwoliće do wuměnjenjow wužiwanja a prawidłow priwatnosće poskićowarja.
+genai-settings-chat-chatgpt-links = Hdyž ChatGPT wuběraće, zwoliće do <a data-l10n-name="link1">>wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow priwatnosće</a>.
+genai-settings-chat-copilot-links = Hdyž Copilot wuběraće, zwoliće do <a data-l10n-name="link1">>wuměnjenjow za nazhonjenja KI w Copilot</a> a <a data-l10n-name="link2">zdźělenkow priwatnosće Microsoft</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
