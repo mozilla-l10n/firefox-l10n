@@ -11,7 +11,7 @@ genai-settings-chat-choose-one-menuitem =
     .label = Wubjerće jedyn
 genai-settings-chat-links = Hdyž chatbot wuběraće, zwoliće do wuměnjenjow wužiwanja a prawidłow priwatnosće poskićowarja.
 genai-settings-chat-chatgpt-links = Hdyž ChatGPT wuběraće, zwoliće do <a data-l10n-name="link1">>wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow priwatnosće</a>.
-genai-settings-chat-claude-links = Hdyž Anthropic Claude wuběraće, zwoliće do <a data-l10n-name="link1">>přetrjebowarskich wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow wužiwanja</a> a <a data-l10n-name="link3">prawidłow priwatnosće Anthropic Claude.
+genai-settings-chat-claude-links = Hdyž Anthropic Claude wuběraće, zwoliće do <a data-l10n-name="link1">>přetrjebowarskich wužiwanskich wuměnjenjow</a> a <a data-l10n-name="link2">prawidłow wužiwanja</a> a <a data-l10n-name="link3">prawidłow priwatnosće</a> Anthropic Claude.
 genai-settings-chat-copilot-links = Hdyž Copilot wuběraće, zwoliće do <a data-l10n-name="link1">>wuměnjenjow za nazhonjenja KI w Copilot</a> a <a data-l10n-name="link2">zdźělenkow priwatnosće Microsoft</a>.
 genai-settings-chat-gemini-links = Hdyž Google Gemini wuběraće, zwoliće do <a data-l10n-name="link1">>wužiwanskich wuměnjenjow Google</a> a <a data-l10n-name="link2">prawidłow wo njedowolenym wužiwanju generatiwneje KI</a> a <a data-l10n-name="link3">zdźělenki priwatnosće Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Hdyž HuggingChat wuběraće, zwoliće do <a data-l10n-name="link1">>zdźělenki priwatnosće HuggingChat</a> a <a data-l10n-name="link2">prawidłow priwatnosće Hugging Face</a>.
