@@ -89,6 +89,9 @@ shopping-show-less-button = Sýna minna
 
 shopping-settings-label =
     .label = Stillingar
+shopping-settings-recommendations-toggle2 =
+    .label = Sýna tillögur og kostað efni
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } deilir ekki persónulegum gögnum þínum, þannig að þessar ráðleggingar munu ekki fylgja þér á internetinu. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
 shopping-settings-recommendations-toggle =
     .label = Birta auglýsingar í umsagnaskoðun
 shopping-settings-recommendations-learn-more2 = Þú munt sjá einstaka auglýsingar fyrir tengdar vörur. Allar auglýsingar verða að uppfylla gæðastaðla okkar vegna umsagna. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
@@ -164,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = Athugaðu gæði umsagna
 
 more-to-consider-ad-label =
     .label = Fleira sem mætti skoða
+shopping-sponsored-label = Kostað
 ad-by-fakespot = Auglýsing frá { -fakespot-brand-name }
 
 ## Shopping survey strings.
