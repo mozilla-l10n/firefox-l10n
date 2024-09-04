@@ -424,6 +424,9 @@ newtab-topic-label-home = Dom a zahroda
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Wubjerće temy, zo byšće swój kanal optimował
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Wubjerće dwě temje abo wjace z nich. Naši nazhonjeni kuratorojo prioritu na stawiznički kładu, kotrež su na waše zajimy wusměrjene. Přiměrće to kóždy čas.
 newtab-topic-selection-save-button = Składować
 newtab-topic-selection-cancel-button = Přetorhnyć
 newtab-topic-selection-button-maybe-later = Snano pozdźišo

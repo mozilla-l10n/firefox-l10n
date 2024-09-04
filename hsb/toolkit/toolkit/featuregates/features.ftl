@@ -57,6 +57,7 @@ sidebar-title =
     .label = Bóčnica
 vertical-tabs-title =
     .label = Wertikalne rajtarki
+vertical-tabs-description = Přesuńće swoje rajtarki wot hornjeje kromy wobhladowaka nabok. Wužaduje sej, zo tež bóčnicu wupruwujeće. <a data-l10n-name="connect">Měnjenja dźělić</a>
 experimental-features-group-browsing =
     .label = Přehladowanje
 experimental-features-group-developer-tools =
