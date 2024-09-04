@@ -54,6 +54,7 @@ inactive-css-collapsed-table-borders = Властивість <strong>{ $propert
 inactive-css-not-table-cell = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки він не є коміркою таблиці.
 inactive-scroll-padding-when-not-scroll-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не прокручується.
 inactive-css-border-image = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки його не можна застосувати до внутрішньої таблиці елементів, де для <strong>border-collapse</strong> встановлено <strong>collapse</strong> на елементі таблиці вищого рівня.
+inactive-css-resize = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки її можна застосувати лише до елементів зі значенням для "overflow", відмінним від "visible", а також до окремих замінених елементів, як-от "textarea".
 inactive-css-ruby-element = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки це елемент ruby. Його розмір визначається розміром шрифту тексту ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
