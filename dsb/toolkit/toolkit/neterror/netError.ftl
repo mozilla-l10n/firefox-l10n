@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Njejsćo z internetom zwězany.
 neterror-dns-not-found-trr-unknown-host2 = Toś to websedło njejo se namakało wót { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Problem z { $trrDomain } jo nastał.
 neterror-dns-not-found-bad-trr-url = Njepłaśiwy URL.
+neterror-dns-not-found-system-sleep = System jo w spańskem modusu.
 neterror-dns-not-found-trr-unknown-problem = Njewócakany problem.
 
 ## Native fallback specific messages

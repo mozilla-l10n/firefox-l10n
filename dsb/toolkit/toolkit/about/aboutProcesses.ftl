@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Rejtariki wuwólniś a proces znicyś
+about-processes-kill-process =
+    .title = Proces skóńcyś
 about-processes-shutdown-tab =
     .title = Rejtarik zacyniś
 # Profiler icons
