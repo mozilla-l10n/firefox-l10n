@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = За последние два часа
 clear-time-duration-value-last-4-hours =
     .label = За последние четыре часа
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = С { $midnightTime }
 clear-time-duration-value-today =
     .label = За сегодня
 clear-time-duration-value-everything =
