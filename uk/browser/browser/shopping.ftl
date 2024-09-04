@@ -137,6 +137,8 @@ shopping-analysis-explainer-learn-more2 = Дізнайтеся, <a data-l10n-nam
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Обрані</strong> беруться з відгуків { $retailer } за останні 80 днів, які ми вважаємо надійними.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Обрані</strong> беруться з відгуків за останні 80 днів, які ми вважаємо надійними.
 shopping-analysis-explainer-review-grading-scale-reliable = Надійні – чесні, неупереджені відгуки, найімовірніше від справжніх замовників.
 shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, що тут поєднано надійні та сумнівні відгуки.
 shopping-analysis-explainer-review-grading-scale-unreliable = Сумнівні – нечесні відгуки, найімовірніше від упереджених оглядачів.
