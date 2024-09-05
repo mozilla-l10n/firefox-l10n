@@ -20,6 +20,7 @@ elevation-more-elevated =
     встановлено під час наступного запуску { -brand-short-name }.
     Ви можете перезапустити { -brand-short-name } зараз, продовжити роботу і
     перезапустити пізніше, або відхилити це оновлення.
+sandbox-missing-unprivileged-namespaces = Деякі функції безпеки { -brand-short-name } можуть знизити рівень захисту в поточній операційній системі.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Не показувати знову
     .accesskey = Н

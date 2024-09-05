@@ -352,6 +352,9 @@ has-seccomp-bpf = Seccomp-BPF (Фільтрування системних ви�
 has-seccomp-tsync = Синхронізація потоку Seccomp
 has-user-namespaces = Користувацькі простори імен
 has-privileged-user-namespaces = Користувацькі простори імен для привілейованих процесів
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } – ця функція не дозволена вашою системою. Це може обмежити функції безпеки { -brand-short-name }.
 can-sandbox-content = Пісочниця для процесу вмісту
 can-sandbox-media = Пісочниця для плагіна медіа
 content-sandbox-level = Рівень пісочниці процесів вмісту
