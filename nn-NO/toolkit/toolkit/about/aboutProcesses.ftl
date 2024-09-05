@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Stopp faner og avslutt prosessen
+about-processes-kill-process =
+    .title = Avslutt prosessen
 about-processes-shutdown-tab =
     .title = Lat att fane
 # Profiler icons
