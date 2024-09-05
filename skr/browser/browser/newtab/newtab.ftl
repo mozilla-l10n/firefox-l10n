@@ -424,5 +424,6 @@ newtab-topic-selection-title = آپݨی فیڈ کوں چنگا بݨاوݨ کی
 newtab-topic-selection-save-button = محفوظ
 newtab-topic-selection-cancel-button = منسوخ
 newtab-topic-selection-button-maybe-later = شاید بعد وچ
+newtab-topic-selection-privacy-link = سکھو جو اساں ڈیٹا دی حفاظت تے منیج کین٘ویں کریندے ہیں۔
 newtab-topic-selection-button-update-interests = آپݨیاں دلچسپیاں اپ ڈیٹ کرو
 newtab-topic-selection-button-pick-interests = آپݨیاں دلچسپیاں چݨو
