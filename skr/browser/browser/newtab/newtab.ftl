@@ -352,6 +352,7 @@ newtab-wallpaper-white-mountains = چٹی پہاڑیاں
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> تے <a data-l10n-name="name-link">{ $author_string }</a> ولوں فوٹو
 newtab-wallpaper-feature-highlight-header = رنگ دا تُرکا ازماؤ
+newtab-wallpaper-feature-highlight-content = وال پیپراں نال آپݨی نویں ٹیب کوں تازہ شکل ݙیوو۔
 newtab-wallpaper-feature-highlight-button = سمجھ گھدے
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
