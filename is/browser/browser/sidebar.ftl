@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI-gervigreindarspjall
 
 ## Labels for sidebar history panel
 
@@ -79,6 +81,8 @@ sidebar-history-context-menu-delete-page =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI-gervigreindarspjall
 sidebar-menu-history-label =
     .label = Ferill
 sidebar-menu-synced-tabs-label =

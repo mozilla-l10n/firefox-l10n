@@ -27,6 +27,14 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Samantekt
+    .value = Taka saman efni valsins á nákvæmu og skýru máli. Nota fyrirsagnir og punktalista í samantektinni, svo auðveldara sé að skanna þetta. Viðhalda meiningu og nákvæmni staðreynda.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Einfalda málfar
+    .value = Endurskrifa valinn texta með stuttum setningum og einföldum orðum. Viðhalda meiningu og nákvæmni staðreynda.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -34,3 +42,13 @@ genai-prompt-prefix-selection = Ég er á síðunni „{ $tabTitle }“ með „
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Spyrja AI-gervigreindarspjallkerfi
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Spyrja { $provider }
+genai-input-ask-generic =
+    .placeholder = Spyrja AI-gervigreindarspjallkerfi…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Spyrja { $provider }…
