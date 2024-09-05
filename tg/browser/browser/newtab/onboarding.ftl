@@ -336,6 +336,12 @@ onboarding-device-migration-subtitle = Барои интиқол додани х
 onboarding-device-migration-subtitle2 = Барои интиқол кардани хатбаракҳо, ниҳонвожаҳо ва таърихи худ ба дастгоҳи нав, ба ҳисоби худ ворид шавед.
 onboarding-device-migration-primary-button-label = Ворид шудан
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Илова кардан ба «{ -brand-short-name }»
+amo-picker-install-complete-label = Насбшуда
+amo-picker-collection-link = Боз ҳам ҷузъҳои иловагиро пайдо намоед
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
