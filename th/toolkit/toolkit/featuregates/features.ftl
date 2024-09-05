@@ -50,3 +50,5 @@ experimental-features-group-developer-tools =
     .label = เครื่องมือนักพัฒนา
 experimental-features-group-webpage-display =
     .label = Webpage Display
+experimental-features-group-customize-browsing =
+    .label = ปรับแต่งการการท่องเว็บของคุณ
