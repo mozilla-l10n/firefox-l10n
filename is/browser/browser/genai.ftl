@@ -35,6 +35,14 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Einfalda málfar
     .value = Endurskrifa valinn texta með stuttum setningum og einföldum orðum. Viðhalda meiningu og nákvæmni staðreynda.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Spyrja mig
+    .value = Spyrja mig spurninga um valinn texta. Það má vera á ýmsu formi; fjölvalsreitir, satt/ósatt eða stutt svör. Bíða eftir svari frá mér áður en haldið er áfram í næstu spurningu.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Útskýra þetta
+    .value = Útskýra aðalatriðin í valda textanum, með einföldum orðum. Einnig má nota dæmi.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
