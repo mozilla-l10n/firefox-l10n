@@ -77,7 +77,7 @@ feature-disable-requires-restart = { -brand-short-name } si depet torrare a avia
 should-restart-title = Torra a aviare { -brand-short-name }
 should-restart-ok = Torra a aviare { -brand-short-name } immoe
 cancel-no-restart-button = Annulla
-restart-later = Torra a aviare luego
+restart-later = Torra a aviare prus tardu
 
 ## Extension Control Notifications
 ##
