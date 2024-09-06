@@ -19,6 +19,10 @@ genai-settings-chat-choose-one-menuitem =
 genai-prompts-simplify =
     .label = زبان سادہ بݨاؤ
     .value = سوہݨا، چݨے ہوئے کوں سادہ لفظ تے مختصر جملے ورت تے ولدا لکھو۔ مطلب تے حقائق  دی درستی برقرار رکھو۔
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = میں “{ $selection }” چݨے ہوئے نال “{ $tabTitle }“ ورقے تے ہاں۔
 
 ## Chatbot menu shortcuts
 

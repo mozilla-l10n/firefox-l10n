@@ -244,6 +244,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = میݙے کیتے کائنی
+newtab-toast-thumbs-up-or-down = شکریہ،  تہاݙی فیڈبیک تہاݙی فیڈ کوں چنگا بݨاوݨ کیتے ساݙی مدد کریسی۔
 newtab-toast-dismiss-button =
     .title = فارغ کرو
     .aria-label = فارغ کرو
