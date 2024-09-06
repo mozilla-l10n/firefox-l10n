@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Kontroli kvaliton de recenzoj
 
 more-to-consider-ad-label =
     .label = Alternativaj produktoj
+shopping-sponsored-label = Patronita
 ad-by-fakespot = Reklamo de { -fakespot-brand-name }
 
 ## Shopping survey strings.
