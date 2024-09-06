@@ -36,7 +36,7 @@ sidebar-search-results-header =
 
 sidebar-customize-extensions-header = Razširitve za stransko vrstico
 sidebar-customize-firefox-tools-header =
-    .label = Orodja za { -brand-product-name(sklon: "tožilnik") }
+    .label = Orodja za { -brand-product-name(sklon: "tozilnik") }
 sidebar-customize-firefox-settings = Upravljanje nastavitev { -brand-short-name(sklon: "rodilnik") }
 sidebar-position-left =
     .label = Prikaži na levi
