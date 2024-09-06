@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Aus Chronik löschen
+sidebar-history-sort-by-date =
+    .label = Nach Datum sortieren
+sidebar-history-sort-by-site =
+    .label = Nach Website sortieren
+sidebar-history-clear =
+    .label = Chronik löschen
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Erweiterung entfernen
 sidebar-context-menu-report-extension =
     .label = Erweiterung melden
+sidebar-context-menu-open-in-window =
+    .label = In neuem Fenster öffnen
+sidebar-context-menu-open-in-private-window =
+    .label = In neuem privaten Fenster öffnen
+sidebar-context-menu-bookmark-tab =
+    .label = Tab als Lesezeichen hinzufügen…
+sidebar-context-menu-copy-link =
+    .label = Link kopieren
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Aus Chronik löschen
 
 ## Labels for sidebar menu items.
 
