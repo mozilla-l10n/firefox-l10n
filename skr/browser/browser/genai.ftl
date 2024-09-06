@@ -15,6 +15,10 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = زبان سادہ بݨاؤ
+    .value = سوہݨا، چݨے ہوئے کوں سادہ لفظ تے مختصر جملے ورت تے ولدا لکھو۔ مطلب تے حقائق  دی درستی برقرار رکھو۔
 
 ## Chatbot menu shortcuts
 
