@@ -198,6 +198,7 @@ firefoxview-view-more-browsing-history = Вижте още история на �
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Върнете се там, където сте били
 
 ##
 
