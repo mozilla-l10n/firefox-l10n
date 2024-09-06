@@ -227,6 +227,9 @@ menu-history-undo-menu =
     .label = Последно затворени раздели
 menu-history-undo-window-menu =
     .label = Последно затворени прозорци
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Търсене в историята
 
 ## Bookmarks Menu
 

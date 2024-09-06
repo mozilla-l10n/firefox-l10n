@@ -26,10 +26,17 @@ fxviewtabrow-just-now-timestamp = Току-що
 
 fxviewtabrow-delete = Изтриване
     .accesskey = И
+fxviewtabrow-forget-about-this-site = Забравяне за този сайт…
+    .accesskey = З
 fxviewtabrow-open-in-window = Отваряне в нов прозорец
     .accesskey = О
 fxviewtabrow-open-in-private-window = Отваряне в поверителен прозорец
     .accesskey = я
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = Отмятане…
+    .accesskey = О
+fxviewtabrow-save-to-pocket = Запазване във { -pocket-brand-name }
+    .accesskey = п
 fxviewtabrow-copy-link = Копиране на препратката
     .accesskey = К
 fxviewtabrow-close-tab = Затваряне на раздела
