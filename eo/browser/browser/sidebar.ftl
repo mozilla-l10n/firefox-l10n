@@ -65,9 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Forigi etendaĵon
 sidebar-context-menu-report-extension =
     .label = Denunci etendaĵon
+sidebar-context-menu-open-in-window =
+    .label = Malfermi en nova fenestro
+sidebar-context-menu-open-in-private-window =
+    .label = Malfermi en nova privata fenestro
+sidebar-context-menu-bookmark-tab =
+    .label = Aldoni langeton al legosignoj…
+sidebar-context-menu-copy-link =
+    .label = Kopii ligilon
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Forigi el la historio
 
 ## Labels for sidebar menu items.
 

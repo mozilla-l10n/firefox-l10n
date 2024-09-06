@@ -89,6 +89,9 @@ shopping-show-less-button = Montri malpli
 
 shopping-settings-label =
     .label = Agordoj
+shopping-settings-recommendations-toggle2 =
+    .label = Montri rekomenditan kaj patronitan enhavon
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne dividas viajn personajn datumojn, tial tiuj ĉi rekomendoj ne sekvos vin tra la reto. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
 shopping-settings-recommendations-learn-more2 = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ni nur reklamas produktojn kun fidindaj recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
