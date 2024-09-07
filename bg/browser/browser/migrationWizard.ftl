@@ -195,6 +195,13 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } разширениe
        *[other] { $quantity } разширения
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } от { $quantity } разширения
 
 ##
 
