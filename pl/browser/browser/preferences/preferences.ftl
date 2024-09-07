@@ -1120,7 +1120,7 @@ addressbar-locbar-showrecentsearches-option =
     .label = Ostatnie wyszukiwania
     .accesskey = n
 addressbar-locbar-showtrendingsuggestions-option =
-    .label = Popularne wyszukiwania
+    .label = Popularne wyszukiwania.
     .accesskey = u
 addressbar-quickactions-learn-more = Więcej informacji
 
