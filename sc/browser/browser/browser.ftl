@@ -987,7 +987,7 @@ refresh-blocked-refresh-label = { -brand-short-name } at impedidu a custa pàgin
 refresh-blocked-redirect-label = { -brand-short-name } at impedidu a custa pàgina de si torrare a deretare a un'àtera pàgina.
 refresh-blocked-allow =
     .label = Permite
-    .accesskey = C
+    .accesskey = { "" }
 
 ## Firefox Relay integration
 
