@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Discjame lis schedis e cope i procès
+about-processes-kill-process =
+    .title = Cope procès
 about-processes-shutdown-tab =
     .title = Siere schede
 # Profiler icons
