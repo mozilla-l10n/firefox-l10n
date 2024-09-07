@@ -548,6 +548,10 @@ urlbar-go-button =
     .tooltiptext = Va ae direzion specificade te sbare de direzion
 urlbar-page-action-button =
     .tooltiptext = Azions par cheste pagjine
+urlbar-revert-button =
+    .tooltiptext = Mostre la direzion te sbare de direzion
+urlbar-show-page-actions-button =
+    .tooltiptext = Mostre dutis lis azions pe pagjine
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

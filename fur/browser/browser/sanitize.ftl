@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Lis ultimis dôs oris
 clear-time-duration-value-last-4-hours =
     .label = Lis ultimis cuatri oris
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = di miezegnot ({ $midnightTime })
 clear-time-duration-value-today =
     .label = Vuê
 clear-time-duration-value-everything =

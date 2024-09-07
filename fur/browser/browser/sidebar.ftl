@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Elimine de cronologjie
+sidebar-history-sort-by-date =
+    .label = Ordene par date
+sidebar-history-sort-by-site =
+    .label = Ordene par sît
+sidebar-history-clear =
+    .label = Nete la cronologjie
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Gjave estension
 sidebar-context-menu-report-extension =
     .label = Segnale estension
+sidebar-context-menu-open-in-window =
+    .label = Vierç intun gnûf barcon
+sidebar-context-menu-open-in-private-window =
+    .label = Vierç intun gnûf barcon privât
+sidebar-context-menu-bookmark-tab =
+    .label = Zonte schede tai segnelibris…
+sidebar-context-menu-copy-link =
+    .label = Copie colegament
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Elimine de cronologjie
 
 ## Labels for sidebar menu items.
 
