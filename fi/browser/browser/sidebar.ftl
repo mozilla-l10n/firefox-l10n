@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Poista historiasta
+sidebar-history-sort-by-date =
+    .label = Järjestä päiväyksen mukaan
+sidebar-history-sort-by-site =
+    .label = Järjestä sivuston mukaan
+sidebar-history-clear =
+    .label = Tyhjennä historia
 
 ## Labels for sidebar search
 
@@ -59,6 +65,19 @@ sidebar-context-menu-remove-extension =
     .label = Poista laajennus
 sidebar-context-menu-report-extension =
     .label = Raportoi laajennus
+sidebar-context-menu-open-in-window =
+    .label = Avaa uudessa ikkunassa
+sidebar-context-menu-open-in-private-window =
+    .label = Avaa uuteen yksityiseen ikkunaan
+sidebar-context-menu-bookmark-tab =
+    .label = Lisää välilehti kirjanmerkkeihin…
+sidebar-context-menu-copy-link =
+    .label = Kopioi linkki
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Poista historiasta
 
 ## Labels for sidebar menu items.
 

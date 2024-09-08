@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ei löytänyt tätä verkkosivustoa.
 neterror-dns-not-found-trr-server-problem = Verkkotunnuksen { $trrDomain } kanssa ilmeni ongelma.
 neterror-dns-not-found-bad-trr-url = Virheellinen osoite.
+neterror-dns-not-found-system-sleep = Järjestelmä on lepotilassa.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
 
 ## Native fallback specific messages
