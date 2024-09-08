@@ -188,6 +188,8 @@ main-context-menu-translate-link-text =
     .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Itzulpena
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Probatu beste iturburu-hizkuntza bat
 select-translations-panel-cancel-button =
     .label = Utzi
 # Text displayed on the copy button before it is clicked.
@@ -198,10 +200,16 @@ select-translations-panel-copy-button-copied =
     .label = Kopiatuta
 select-translations-panel-done-button =
     .label = Eginda
+select-translations-panel-translate-full-page-button =
+    .label = Itzuli orri guztia
 select-translations-panel-translate-button =
     .label = Itzuli
 select-translations-panel-try-again-button =
     .label = Saiatu berriro
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Itzulitako testua hemen agertuko da.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Itzultzen…
 select-translations-panel-init-failure-message =
     .message = Ezin dira hizkuntzak kargatu. Egiaztatu zure Interneterako konexioa eta saiatu berriro.
 # Text displayed when the translation fails to complete.
