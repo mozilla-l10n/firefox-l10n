@@ -427,15 +427,16 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Stvoreno automats
 ## Image alt-text settings
 
 pdfjs-image-alt-text-settings-button =
-    .title = Postavke zamjenskog teksta slike
-pdfjs-image-alt-text-settings-button-label = Postavke zamjenskog teksta slike
-pdfjs-editor-alt-text-settings-dialog-label = Postavke zamjenskog teksta slike
+    .title = Postavke alternativnog teksta slike
+pdfjs-image-alt-text-settings-button-label = Postavke alternativnog teksta slike
+pdfjs-editor-alt-text-settings-dialog-label = Postavke alternativnog teksta slike
 pdfjs-editor-alt-text-settings-automatic-title = Automatski alternativni tekst
-pdfjs-editor-alt-text-settings-create-model-button-label = Automatski stvori zamjenski tekst
+pdfjs-editor-alt-text-settings-create-model-button-label = Stvori alternativni tekst automatski
+pdfjs-editor-alt-text-settings-ai-model-description = Radi lokalno na tvom uređaju kako bi tvoji podaci ostali privatni. Potrebno za automatski alternativni tekst.
 pdfjs-editor-alt-text-settings-delete-model-button = Izbriši
 pdfjs-editor-alt-text-settings-download-model-button = Preuzmi
 pdfjs-editor-alt-text-settings-downloading-model-button = Preuzimanje …
-pdfjs-editor-alt-text-settings-editor-title = Uređivač zamjenskog teksta
-pdfjs-editor-alt-text-settings-show-dialog-button-label = Prikaži uređivač zamjenskog teksta odmah pri dodavanju slike
-pdfjs-editor-alt-text-settings-show-dialog-description = Pomaže osigurati da sve tvoje slike imaju zamjenski tekst.
+pdfjs-editor-alt-text-settings-editor-title = Uređivač alternativnog teksta
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Prikaži uređivač alternativnog teksta odmah pri dodavanju slike
+pdfjs-editor-alt-text-settings-show-dialog-description = Pomaže osigurati da sve tvoje slike imaju alternativni tekst.
 pdfjs-editor-alt-text-settings-close-button = Zatvori
