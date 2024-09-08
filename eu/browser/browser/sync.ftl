@@ -33,3 +33,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Bidali fitxa bat berehala saioa hasita duzun edozein gailutara.
 fxa-menu-sign-out =
     .label = Amaitu saioa…
+fxa-menu-sync-title = Sync

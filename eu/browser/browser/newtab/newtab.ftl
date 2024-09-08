@@ -359,3 +359,6 @@ newtab-topic-label-travel = Bidaiak
 
 newtab-topic-selection-save-button = Gorde
 newtab-topic-selection-cancel-button = Utzi
+newtab-topic-selection-button-maybe-later = Geroago agian
+newtab-topic-selection-button-update-interests = Eguneratu zure interesak
+newtab-topic-selection-button-pick-interests = Hautatu zure interesak

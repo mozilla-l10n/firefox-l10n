@@ -597,6 +597,8 @@ home-prefs-recent-activity-description = Azken gune eta edukien hautapena
 home-prefs-snippets-header =
     .label = Mezu-zatiak
 home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
+home-prefs-weather-header =
+    .label = Eguraldia
 home-prefs-weather-learn-more-link = Argibide gehiago
 # Variables:
 #   $num (number) - Number of rows displayed

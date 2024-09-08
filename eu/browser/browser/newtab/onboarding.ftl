@@ -334,6 +334,7 @@ onboarding-device-migration-primary-button-label = Hasi saioa
 ## Add-ons Picker screen
 
 amo-picker-install-complete-label = Instalatuta
+amo-picker-collection-link = Esploratu gehigarri gehiago
 
 ## The following screens have been updated to use security and privacy focused strings:
 
