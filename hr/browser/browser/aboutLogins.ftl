@@ -112,7 +112,7 @@ about-logins-login-intro-heading-logged-in = Nema sinkroniziranih prijava.
 login-intro-description = Ako su tvoje prijave spremljene u { -brand-product-name }u na jednom drugom uređaju, evo kako ih ovdje možeš preuzeti:
 login-intro-instructions-fxa = Stvori ili prijavi se na svoj { -fxaccount-brand-name } na uređaju gdje su spremljene tvoje prijave.
 about-logins-login-intro-heading-message = Spremite svoje lozinke na sigurno mjesto
-login-intro-description2 = Sve lozinke koje spremite u { -brand-product-name } su šifrirane. Osim toga, pazimo na curenja lozinki i obavještavamo vas ukoliko ste pogođeni. <a data-l10n-name="breach-alert-link">Saznajte više</a>
+login-intro-description2 = Sve lozinke koje spremiš u { -brand-product-name } se šifriraju. Osim toga, pazimo na curenja lozinki i upozoravamo te ako si pogođen/a. <a data-l10n-name="breach-alert-link">Saznaj više</a>
 login-intro-instructions-fxa2 = Otvori račun ili se prijavi u svoj na uređaju gdje su tvoje prijave spremljene.
 login-intro-instructions-fxa-settings = Idi u Postavke > Sinkronizacija > Uključi sinkronizaciju… Odaberi opciju "Prijave i lozinke".
 login-intro-instructions-fxa-passwords-help = Posjeti <a data-l10n-name="passwords-help-link">podršku za lozinke</a> za dodatnu pomoć.

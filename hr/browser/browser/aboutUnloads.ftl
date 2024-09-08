@@ -18,8 +18,8 @@ about-unloads-intro =
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
-    Pogledajte <a data-l10n-name="doc-link">Isključivanje kartice</a> kako biste saznali više
-    o mogućnosti i ovoj stranici.
+    Pogledaj <a data-l10n-name="doc-link">Uklanjanje kartica</a> i saznaj više
+    o funkciji i ovoj stranici.
 about-unloads-last-updated = Zadnje aktualiziranje: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Isključi
     .title = Isključi karticu s najvišim prioritetom
