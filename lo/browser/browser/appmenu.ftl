@@ -179,6 +179,7 @@ profiler-popup-presets-power-description = ກຳນົດໄວ້ລ່ວງ�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
+profiler-popup-presets-debug-description = ຕັ້ງໄວ້ລ່ວງໜ້າສຳລັບການດີບັກໃນ { -brand-shorter-name }. overhead ສູງ, ບໍ່ໃຊ້ສໍາລັບການເຮັດວຽກປະສິດທິພາບແຕ່ໃຊ້ສໍາລັບການສຸມໃສ່ການເຂົ້າໃຈພຶດຕິກໍາຂອງຕົວທ່ອງເວັບ.
 profiler-popup-presets-custom-label =
     .label = ປັບແຕ່ງ
 
