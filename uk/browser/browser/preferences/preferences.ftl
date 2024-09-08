@@ -1389,11 +1389,11 @@ preferences-doh-description2 = Завдяки системі DNS через HTTP
 preferences-doh-status = Стан: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
-preferences-doh-resolver = Постачальник: { $name }
+preferences-doh-resolver = Провайдер: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Неправильний URL
-preferences-doh-steering-status = За допомогою локального постачальника
+preferences-doh-steering-status = За допомогою локального провайдера
 preferences-doh-status-active = Активна
 preferences-doh-status-disabled = Вимкнено
 # Variables:
@@ -1408,21 +1408,21 @@ preferences-doh-setting-default =
     .accesskey = Т
 preferences-doh-default-desc = { -brand-short-name } вирішує, коли використовувати захищену DNS для захисту вашої приватності.
 preferences-doh-default-detailed-desc-1 = Використовувати захищену DNS у регіонах, де вона доступна
-preferences-doh-default-detailed-desc-2 = Використовувати ваш типовий DNS-перетворювач, якщо виникла проблема з захищеним постачальником DNS
-preferences-doh-default-detailed-desc-3 = Використовувати локального постачальника, якщо це можливо
+preferences-doh-default-detailed-desc-2 = Використовувати ваш типовий DNS-перетворювач у разі проблем із провайдером захищеної DNS
+preferences-doh-default-detailed-desc-3 = Використовувати локального провайдера, якщо це можливо
 preferences-doh-default-detailed-desc-4 = Вимикати, якщо є активні політики VPN, батьківський контроль або корпоративні політики
 preferences-doh-default-detailed-desc-5 = Вимикати, якщо мережа повідомляє { -brand-short-name }, що вона не повинна використовувати безпечну DNS
 preferences-doh-setting-enabled =
     .label = Підвищений захист
     .accesskey = П
-preferences-doh-enabled-desc = Ви визначаєте, коли використовувати захищену DNS, і обираєте свого постачальника.
-preferences-doh-enabled-detailed-desc-1 = Використовувати обраного вами постачальника
+preferences-doh-enabled-desc = Ви визначаєте, коли використовувати захищену DNS, і обираєте свого провайдера.
+preferences-doh-enabled-detailed-desc-1 = Використовувати вибраного провайдера
 preferences-doh-enabled-detailed-desc-2 = Ваш типовий DNS-перетворювач використовується, лише якщо є проблема з захищеною DNS
 preferences-doh-setting-strict =
     .label = Максимальний захист
     .accesskey = М
 preferences-doh-strict-desc = { -brand-short-name } завжди використовуватиме захищену DNS. Ви побачите попередження про загрозу безпеці, перш ніж ми використаємо DNS вашої системи.
-preferences-doh-strict-detailed-desc-1 = Використовувати лише обраного вами постачальника
+preferences-doh-strict-detailed-desc-1 = Використовувати лише вибраного провайдера
 preferences-doh-strict-detailed-desc-2 = Завжди попереджати, якщо захищена DNS недоступна
 preferences-doh-strict-detailed-desc-3 = Якщо захищена DNS недоступна, сайти не завантажуватимуться або не працюватимуть належним чином
 preferences-doh-setting-off =
@@ -1432,7 +1432,7 @@ preferences-doh-off-desc = Використовувати ваш типовий 
 preferences-doh-checkbox-warn =
     .label = Попереджати, якщо третя сторона активно блокує захищену DNS
     .accesskey = П
-preferences-doh-select-resolver = Обрати постачальника:
+preferences-doh-select-resolver = Вибрати провайдера:
 preferences-doh-exceptions-description = { -brand-short-name } не використовуватиме захищену DNS на цих сайтах
 preferences-doh-manage-exceptions =
     .label = Керувати винятками…
