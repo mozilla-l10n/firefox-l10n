@@ -20,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundea
 contentanalysis-slow-agent-dialog-body-dropped-text = Jaregin duzun testua zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
+contentanalysis-operationtype-print = inprimatu
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = "{ $filename }" igotzea
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke
