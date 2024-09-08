@@ -40,6 +40,10 @@ clear-time-duration-value-last-2-hours =
     .label = Последните два часа
 clear-time-duration-value-last-4-hours =
     .label = Последните четири часа
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = От { $midnightTime }
 clear-time-duration-value-today =
     .label = Днес
 clear-time-duration-value-everything =
@@ -54,9 +58,22 @@ history-section-label = История
 item-history-and-downloads =
     .label = История на разглеждане и изтегляния
     .accesskey = с
+item-history-form-data-downloads =
+    .label = История
+    .accesskey = И
 item-cookies =
     .label = Бисквитки
     .accesskey = Б
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Бисквитки и данни на страници ({ $amount } { $unit })
+    .accesskey = Б
+item-cookies-site-data =
+    .label = Бисквитки и данни на страници
+    .accesskey = Б
+item-cookies-site-data-description = Това действие може да ви отпише от някои сайтове или да изтрие нещата в пазарската количка
 item-active-logins =
     .label = Вписвания в сайтове
     .accesskey = В
@@ -72,6 +89,7 @@ item-cached-content-with-size =
 item-cached-content =
     .label = Временно кеширани файлове и страници
     .accesskey = В
+item-cached-content-description = Изчиства кешираните данни, които помагат за по-бързото зареждане на сайтове
 item-form-search-history =
     .label = История на формуляри и търсения
     .accesskey = ф
