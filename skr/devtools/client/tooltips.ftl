@@ -65,6 +65,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> دا اِیں عنصر اُتّے کُئی اثر کائنی کیوں جو اِین٘دے وِچ { $lineCount } کنوں وَدھ لائناں ہِن۔
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> دا اِیں عنصر اُتّے کُئی اثر کائنی کیوں جو اِیہ کِھنݙیا ہوئیا ہِے، یعنی اِین٘دا مواد اَݨ ڳِݨَت کالماں یا پَنّیاں اُتّے ونݙیڄا ہوئیا ہِے۔
+inactive-css-no-width-height = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایندی چوڑائی تے اُچائی ٹھیک کائنی تھی سڳدیاں۔
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
