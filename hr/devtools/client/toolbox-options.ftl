@@ -63,7 +63,7 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Način rada snimke ekrana
+options-screenshot-label = Ponašanje snimke ekrana
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Pokreni zvuk okidača kamere
 options-screenshot-audio-tooltip =
@@ -81,7 +81,7 @@ options-sourceeditor-autoclosebrackets-tooltip =
 options-sourceeditor-autoclosebrackets-label = Automatsko zatvaranje zagrada
 options-sourceeditor-expandtab-tooltip =
     .title = Koristi razmake umjesto tabulatora
-options-sourceeditor-expandtab-label = Uvlake sa razmakom
+options-sourceeditor-expandtab-label = Uvlake s razmakom
 options-sourceeditor-tabsize-label = Veličina tabulatora
 options-sourceeditor-keybinding-label = Tipkovnički prečaci
 options-sourceeditor-keybinding-default-label = Standard
@@ -91,7 +91,7 @@ options-sourceeditor-keybinding-default-label = Standard
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Napredne postavke
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Onemogući HTTP predmemoriju (kad je otvorena alatna kutija)
+options-disable-http-cache-label = Onemogući HTTP predmemoriju (kada je kutija alata otvorena)
 options-disable-http-cache-tooltip =
     .title = Uključivanjem ove mogućnosti, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova mogućnost nema utjecaja na radne procese.
 # The label for checkbox that toggles JavaScript on or off
@@ -106,8 +106,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Omogući udaljeno ispravljanje grešaka
 options-enable-remote-tooltip2 =
     .title = Uključivanjem ove mogućnosti omogućiti će se daljinsko uklanjanje pogrešaka u ovom primjerku preglednika
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Koristi tipku F12 za otvaranje ili zatvaranje programerskih alata
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kad je alatna traka otvorena)
+options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kada je kutija alata otvorena)
 options-enable-service-workers-http-tooltip =
     .title = Uključivanje ove mogućnosti omogućiti će se korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The label for the checkbox that toggles source maps in all tools.

@@ -40,7 +40,7 @@ perftools-request-to-get-profile-and-stop-profiler = Snimanje profila
 ##
 
 perftools-button-start-recording = Počni snimati
-perftools-button-capture-recording = Snimi snimku
+perftools-button-capture-recording = Snimi snimanje
 perftools-button-cancel-recording = Zaustavi snimanje
 perftools-button-save-settings = Spremi postavke i idi natrag
 perftools-button-restart = Pokreni ponovo
