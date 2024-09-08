@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Изчистване на цялата история
     .style = min-width: 34em
 clear-data-settings-label = При затваряне на { -brand-short-name } автоматично да бъдат изчиствани
+sanitize-on-shutdown-description = Автоматично изчистване на всички отметнати елементи при затваряне на { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -61,6 +62,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = История
     .accesskey = И
+item-history-form-data-downloads-description = Изчиства историята на страниците и изтеглянията, информацията за запазените формуляри и всички търсения
 item-cookies =
     .label = Бисквитки
     .accesskey = Б
@@ -93,7 +95,14 @@ item-cached-content-description = Изчиства кешираните данн
 item-form-search-history =
     .label = История на формуляри и търсения
     .accesskey = ф
+item-site-prefs =
+    .label = Настройки на сайтове
+    .accesskey = Н
+item-site-prefs-description = Нулиране на дадените разрешения и предпочитания за сайтовете до оригиналните им настройки
 data-section-label = Данни
+item-site-settings =
+    .label = Настройки на сайтове
+    .accesskey = Н
 item-offline-apps =
     .label = Данни за сайтове без мрежа
     .accesskey = м
@@ -104,6 +113,8 @@ sanitize-button-ok =
     .label = Изчистване
 sanitize-button-ok2 =
     .label = Изчистване
+sanitize-button-ok-on-shutdown =
+    .label = Запазване на промените
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
