@@ -44,7 +44,7 @@ energy-impact-low = Низьке ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
-size-KB = { $value } КБ
+size-KB = { $value } кБ
 size-MB = { $value } МБ
 size-GB = { $value } ГБ
 
@@ -54,7 +54,6 @@ close-tab =
     .title = Закрити вкладку
 show-addon =
     .title = Показати в менеджері додатків
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

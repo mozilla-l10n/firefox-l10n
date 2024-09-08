@@ -188,7 +188,7 @@ duration-unit-d = д
 ## Memory units
 
 memory-unit-B = Б
-memory-unit-KB = КБ
+memory-unit-KB = кБ
 memory-unit-MB = МБ
 memory-unit-GB = ГБ
 memory-unit-TB = ТБ
