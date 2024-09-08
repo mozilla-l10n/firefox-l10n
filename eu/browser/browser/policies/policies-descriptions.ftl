@@ -119,6 +119,7 @@ policy-Permissions2 = Konfiguratu kamera, mikrofonoa, kokapena, jakinarazpenak e
 policy-PictureInPicture = Gaitu edo desgaitu bideo beste leiho batean ikusteko eginbidea.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
+policy-PrivateBrowsingModeAvailability = Ezarri nabigatze pribatuko moduaren erabilgarritasuna.
 policy-PromptForDownloadLocation = Galdetu non gorde deskargatutako fitxategiak.
 policy-Proxy = Konfiguratu proxy-ezarpenak.
 policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
