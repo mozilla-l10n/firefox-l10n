@@ -208,7 +208,7 @@ search-one-offs-context-open-new-tab =
     .label = Traži u novoj kartici
     .accesskey = t
 search-one-offs-context-set-as-default =
-    .label = Postavi kao zadanu tražilicu
+    .label = Postavi kao standardnu tražilicu
     .accesskey = d
 search-one-offs-context-set-as-default-private =
     .label = Postavi kao standardnu tražilicu za privatne prozore
@@ -1058,11 +1058,11 @@ popup-show-popup-menuitem =
 file-picker-failed-open = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Nije moguće odabrati datoteku ili mapu.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Datoteka će biti spremljena u { $path }.
-file-picker-failed-save-nowhere = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Zadana mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
+file-picker-failed-save-nowhere = Nije moguće otvoriti Windows dijaloški okvir za odabir datoteke. Standardna mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
 file-picker-crashed-open = Windows dijaloški okvir za odabir datoteke se srušio. Nije moguće odabrati datoteku ili mapu.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows dijaloški okvir za odabir datoteke se srušio. Datoteka će biti spremljena u { $path }.
-file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke se srušio. Zadana mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
+file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke se srušio. Standardna mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
