@@ -43,6 +43,10 @@ contentanalysis-block-message = تُہاݙی تنظیم ڈیٹا دے نقصان
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = { $agent } نال ابلاغ کرݨ وچ خرابی تھئی۔ { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-no-agent-connected-message-content = { $agent } تے کنکٹ کرݨ دے قابل کائنی۔ { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
