@@ -108,6 +108,12 @@ options-enable-remote-tooltip2 =
     .title = Uključivanjem ove mogućnosti omogućiti će se daljinsko uklanjanje pogrešaka u ovom primjerku preglednika
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Koristi tipku F12 za otvaranje ili zatvaranje programerskih alata
+options-enable-f12-tooltip =
+    .title = Uključivanjem ove opcije će se tipka F12 koristiti za otvaranje ili zatvaranje programerskih alata
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Aktiviraj prilagođeno formatiranje
+options-enable-custom-formatters-tooltip =
+    .title = Uključivanjem ove opcije će web stranicama dozvoliti definirati prilagođeno formatiranje za DOM objekte
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kada je kutija alata otvorena)
 options-enable-service-workers-http-tooltip =
