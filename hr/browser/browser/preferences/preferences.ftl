@@ -271,7 +271,7 @@ preferences-zoom-text-only =
     .label = Zumiraj samo tekst
     .accesskey = t
 preferences-text-zoom-override-warning =
-    .message = Upozorenje: Ako odabereš „Zumiraj samo tekst”, a tvoje zadano zumiranje nije postavljeno na 100 %, to može pokvariti prikaz nekih stranica ili sadržaja.
+    .message = Upozorenje: Ako odabereš „Zumiraj samo tekst”, a tvoje standardno zumiranje nije postavljeno na 100 %, to može pokvariti prikaz nekih stranica ili sadržaja.
 language-header = Jezik
 choose-language-description = Odaberi jezik za prikazivanje stranica
 choose-button =
@@ -347,9 +347,9 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Koristi zadanu aplikaciju u macOS-u
-            [windows] Koristi zadanu aplikaciju u Windowsu
-           *[other] Koristi zadanu aplikaciju sustava
+            [macos] Koristi standardnu macOS aplikaciju
+            [windows] Koristi standardnu Windows aplikaciju
+           *[other] Koristi standardnu aplikaciju sustava
         }
 applications-use-other =
     .label = Koristi drugi…

@@ -80,7 +80,7 @@ policy-LegacyProfiles = Deaktiviraj funkciju koja nameće zaseban profil za svak
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj zadanu staru postavku ponašanja SameSite kolačića.
+policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj standardnu staru postavku ponašanja SameSite kolačića.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro ponašanje SameSitea za kolačiće na određenim stranicama.
 
 ##

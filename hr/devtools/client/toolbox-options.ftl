@@ -38,7 +38,7 @@ options-collapse-attrs-tooltip =
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Standardna jedinica boje
-options-default-color-unit-authored = Zadano od autora
+options-default-color-unit-authored = Izvorno
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -84,7 +84,7 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = Uvlake sa razmakom
 options-sourceeditor-tabsize-label = Veličina tabulatora
 options-sourceeditor-keybinding-label = Tipkovnički prečaci
-options-sourceeditor-keybinding-default-label = Standardno
+options-sourceeditor-keybinding-default-label = Standard
 
 ## Advanced section
 
