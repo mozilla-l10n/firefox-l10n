@@ -417,7 +417,12 @@ pdfjs-editor-highlight-show-all-button =
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Ovaj je alternativni tekst stvoren automatski i može biti netočan.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saznaj više
-pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski stvori zamjenski tekst
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski stvori alternativni tekst
+pdfjs-editor-new-alt-text-error-title = Nije bilo moguće automatski izraditi alternativni tekst
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Stvoreno automatski: { $generatedAltText }
 
 ## Image alt-text settings
 
@@ -425,7 +430,7 @@ pdfjs-image-alt-text-settings-button =
     .title = Postavke zamjenskog teksta slike
 pdfjs-image-alt-text-settings-button-label = Postavke zamjenskog teksta slike
 pdfjs-editor-alt-text-settings-dialog-label = Postavke zamjenskog teksta slike
-pdfjs-editor-alt-text-settings-automatic-title = Automatski zamjenski tekst
+pdfjs-editor-alt-text-settings-automatic-title = Automatski alternativni tekst
 pdfjs-editor-alt-text-settings-create-model-button-label = Automatski stvori zamjenski tekst
 pdfjs-editor-alt-text-settings-delete-model-button = Izbriši
 pdfjs-editor-alt-text-settings-download-model-button = Preuzmi
