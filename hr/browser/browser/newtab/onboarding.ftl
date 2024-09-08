@@ -110,7 +110,7 @@ mr1-onboarding-theme-description-alpenglow =
         Koristi dinamičnu, šarenu temu za tipke,
         izbornike i prozore.
 # Selector description for default themes
-mr2-onboarding-default-theme-label = Istraži zadane teme.
+mr2-onboarding-default-theme-label = Istraži standardne teme.
 
 ## Strings for Thank You page
 

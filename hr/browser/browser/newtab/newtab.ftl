@@ -297,7 +297,7 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Pozadine
-newtab-wallpaper-reset = Poništi na zadano
+newtab-wallpaper-reset = Obnovi na standardno
 newtab-wallpaper-light-red-panda = Crvena panda
 newtab-wallpaper-light-mountain = Bijela planina
 newtab-wallpaper-light-sky = Nebo s ljubičastim i ružičastim oblacima

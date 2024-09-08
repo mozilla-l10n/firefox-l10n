@@ -31,12 +31,12 @@ default-browser-prompt-button-secondary = Ne sada
 default-browser-guidance-notification-title = Dovrši postavljanje aplikacije { -brand-short-name } kao standardnog preglednika
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
-    Korak 1: Idi u Postavke > Standardne aplikacije
+    Korak 1: Idi na Postavke > Standardne aplikacije
     Korak 2: Pomakni se prema dolje do „Web preglednik”
     Korak 3: Odaberi { -brand-short-name }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 =
-    Korak 1: Idite na Postavke > Aplikacije > Zadane aplikacije
-    Korak 2: Odaberite "Postavi kao zadano" za { -brand-short-name }
+    Korak 1: Idi na Postavke > Aplikacije > Standardne aplikacije
+    Korak 2: Odaberi „Postavi kao standard” za { -brand-short-name }
 default-browser-guidance-notification-info-page = Pokaži mi
 default-browser-guidance-notification-dismiss = Gotovo

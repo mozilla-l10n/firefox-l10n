@@ -32,7 +32,7 @@ policy-DisabledCiphers = Deaktiviraj šifratore.
 policy-DefaultDownloadDirectory = Postavi standardnu mapu za preuzimanje.
 policy-DisableAppUpdate = Spriječi aktualiziranje preglednika.
 policy-DisableBuiltinPDFViewer = Onemogući PDF.js, ugrađeni preglednik PDF datoteka u { -brand-short-name }u.
-policy-DisableDefaultBrowserAgent = Spriječi zadanog agenta preglednika da poduzima bilo kakve radnje. Primjenjivo samo na Windowsu; druge platforme nemaju agenta.
+policy-DisableDefaultBrowserAgent = Spriječi standardnog agenta preglednika da poduzima bilo kakve radnje. Primjenjivo samo na Windowsu; druge platforme nemaju agenta.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
@@ -71,7 +71,7 @@ policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska aktualiziranja dodataka.
 policy-FirefoxHome2 = Konfiguriraj „{ -firefox-home-brand-name }”.
 policy-FirefoxSuggest = Konfiguriraj „{ -firefox-suggest-brand-name }”.
-policy-Handlers = Postavite zadane rukovatelje aplikacijama.
+policy-Handlers = Postavi standardne rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
