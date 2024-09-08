@@ -29,7 +29,7 @@ about-webrtc-aec-logging-toggled-off-state-msg = Snimljene log datoteke je moguÄ
 ##
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
-about-webrtc-auto-refresh-label = Automatsko aktualiziranje stranice
+about-webrtc-auto-refresh-label = Automatsko aktualiziranje
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Aktualiziraj
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is

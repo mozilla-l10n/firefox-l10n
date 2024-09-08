@@ -4,7 +4,7 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
-about-reader-color-scheme-light = Svijetlo
+about-reader-color-scheme-light = Svijetla
     .title = Svijetla shema boja
 about-reader-color-scheme-dark = Tamna
     .title = Tamna shema boja

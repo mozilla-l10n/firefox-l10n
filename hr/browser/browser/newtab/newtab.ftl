@@ -315,19 +315,19 @@ newtab-wallpaper-dark-city = Ljubičasti gradski pejzaž
 
 newtab-wallpaper-category-title-colors = Jednobojne
 newtab-wallpaper-blue = Plava
-newtab-wallpaper-light-blue = Svijetlo plava
-newtab-wallpaper-light-purple = Svijetlo ljubičasta
-newtab-wallpaper-light-green = Svijetlo zelena
+newtab-wallpaper-light-blue = Svijetloplava
+newtab-wallpaper-light-purple = Svijetloljubičasta
+newtab-wallpaper-light-green = Svijetlozelena
 newtab-wallpaper-green = Zelena
 newtab-wallpaper-beige = Bež
 newtab-wallpaper-yellow = Žuta
 newtab-wallpaper-orange = Narančasta
 newtab-wallpaper-pink = Ružičasta
-newtab-wallpaper-light-pink = Svijetlo ružičasta
+newtab-wallpaper-light-pink = Svijetloružičasta
 newtab-wallpaper-red = Crvena
-newtab-wallpaper-dark-blue = Tamno plava
-newtab-wallpaper-dark-purple = Tamno ljubičasta
-newtab-wallpaper-dark-green = Tamno zelena
+newtab-wallpaper-dark-blue = Tamnoplava
+newtab-wallpaper-dark-purple = Tamnoljubičasta
+newtab-wallpaper-dark-green = Tamnozelena
 newtab-wallpaper-brown = Smeđa
 
 ## Abstract
