@@ -6,7 +6,7 @@ about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
 about-reader-color-scheme-light = Svijetlo
     .title = Svijetla shema boja
-about-reader-color-scheme-dark = Tamno
+about-reader-color-scheme-dark = Tamna
     .title = Tamna shema boja
 about-reader-color-scheme-sepia = Sepia
     .title = Sepia shema boja
@@ -68,7 +68,7 @@ about-reader-toolbar-savetopocket = Spremi u { -pocket-brand-name }
 ## Reader View colors menu
 
 about-reader-colors-menu-header = Tema
-about-reader-fxtheme-tab = Zadano
+about-reader-fxtheme-tab = Standardno
 about-reader-customtheme-tab = Prilagođeno
 
 ## These are used as labels for the custom theme color pickers.
@@ -85,7 +85,7 @@ about-reader-custom-colors-visited-links = Posjećene poveznice
     .title = Uredi boju
 about-reader-custom-colors-selection-highlight = Marker za čitanje naglas
     .title = Uredi boju
-about-reader-reset-button = Obnovi zadane postavke
+about-reader-reset-button = Obnovi standardne
 
 ## Reader View improved text and layout menu
 
