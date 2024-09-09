@@ -244,8 +244,8 @@ appmenu-help-switch-device =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-enter-troubleshoot-mode2 =
-    .label = Način rada za rješavanje problema
-    .accesskey = m
+    .label = Modus za rješavanje problema …
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
     .accesskey = N
