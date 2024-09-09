@@ -941,7 +941,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Prije poznato kao glavna lozinka
-forms-primary-pw-fips-title = Trenutačno se nalaziš u modusu FIPS. FIPS ne dopušta praznu primarnu lozinku.
+forms-primary-pw-fips-title = Trenutačno se nalaziš u FIPS modusu. FIPS ne dopušta praznu primarnu lozinku.
 forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 forms-windows-sso =
     .label = Dopusti jedinstvenu prijavu u Windowsu za Microsoftove, poslovne i školske račune
@@ -1362,20 +1362,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }u ponestaje diskov
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Način rada "Samo HTTPS"
-httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između preglednika { -brand-short-name } i web-stranica koje posjećuješ. Većina web-stranica podržava HTTPS, a ako je aktiviran način rada "Samo HTTPS", tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-header = „Samo HTTPS” modus
+httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između preglednika { -brand-short-name } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran "Samo HTTPS" modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećujete. { -brand-short-name } će vas upozoriti ukoliko veza nije sigurna kada je uključen Samo HTTPS.
 httpsonly-learn-more = Saznaj više
 httpsonly-radio-enabled =
-    .label = Aktiviraj način rada "Samo HTTPS" u svim prozorima
+    .label = Aktiviraj „Samo HTTPS” modus u svim prozorima
 httpsonly-radio-enabled2 =
     .label = Koristi samo HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
-    .label = Aktiviraj način rada "Samo HTTPS" samo u privatnim prozorima
+    .label = Aktiviraj „Samo HTTPS” modus samo u privatnim prozorima
 httpsonly-radio-enabled-pbm2 =
     .label = Koristi samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
-    .label = Nemoj aktivirati način rada "Samo HTTPS"
+    .label = Nemoj aktivirati „Samo HTTPS” modus
 httpsonly-radio-disabled2 =
     .label = Prvo pokušaj s HTTPS, ali dopusti veze koje nisu sigurne
 
