@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Rregullime
 shopping-settings-recommendations-toggle2 =
     .label = Shfaq rekomandime dhe lëndë të sponsorizuar
+shopping-settings-recommendations-learn-more3 = { -brand-product-name }-i nuk i jep kujt të dhënat tuaja personale, ndaj këto rekomandime s’do t’ju ndjekin nëpër internet. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
 shopping-settings-recommendations-learn-more2 = Do të shihni reklama me raste, për produkte të afërt. Shfaqim reklama vetëm për produkte me shqyrtime të besueshme. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
@@ -164,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Kontrollo cilësi shqyrtimi
 
 more-to-consider-ad-label =
     .label = Më tepër për t’u marrë parasysh
+shopping-sponsored-label = E sponsorizuar
 ad-by-fakespot = Reklamë nga { -fakespot-brand-name }
 
 ## Shopping survey strings.
