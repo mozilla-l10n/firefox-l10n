@@ -180,6 +180,8 @@ profiler-popup-presets-power-description = ກຳນົດໄວ້ລ່ວງ�
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
 profiler-popup-presets-debug-description = ຕັ້ງໄວ້ລ່ວງໜ້າສຳລັບການດີບັກໃນ { -brand-shorter-name }. overhead ສູງ, ບໍ່ໃຊ້ສໍາລັບການເຮັດວຽກປະສິດທິພາບແຕ່ໃຊ້ສໍາລັບການສຸມໃສ່ການເຂົ້າໃຈພຶດຕິກໍາຂອງຕົວທ່ອງເວັບ.
+profiler-popup-presets-debug-label =
+    .label = ດີບັກ
 profiler-popup-presets-custom-label =
     .label = ປັບແຕ່ງ
 
@@ -196,6 +198,9 @@ appmenu-recently-closed-tabs =
     .label = ແທັບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 appmenu-recently-closed-windows =
     .label = ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = ຄົ້ນຫາປະຫວັດ
 
 ## Help panel
 
@@ -215,6 +220,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = ແບ່ງ​ປັນ​ຄວາມ​ຄິດ​ເຫັນ​ແລະ​ຄໍາ​ຕິຊົມ…
     .accesskey = S
+appmenu-help-switch-device =
+    .label = ສະຫຼັບປ່ຽນໄປໃຊ້ອຸປະກອນໃໝ່
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
