@@ -101,7 +101,7 @@ policy-PasswordManagerExceptions = Spriječi { -brand-short-name } da sprema loz
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name }u.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, mjesto, obavijesti i automatsku reprodukciju.
-policy-PictureInPicture = Aktiviraj ili deaktiviraj sliku u slici.
+policy-PictureInPicture = Aktiviraj ili deaktiviraj funkciju „Slika-u-slici”.
 policy-PopupBlocking = Dozvoli određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
 policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzimanja.

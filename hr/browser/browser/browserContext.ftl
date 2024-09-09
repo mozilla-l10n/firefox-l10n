@@ -227,7 +227,7 @@ main-context-menu-media-video-leave-fullscreen =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = Gledaj u prikazu slike-u-slici
+    .label = Gledaj u prikazu „Slika-u-slici”
     .accesskey = u
 main-context-menu-image-reload =
     .label = Ponovo učitaj sliku

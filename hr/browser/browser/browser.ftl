@@ -426,7 +426,7 @@ browser-tab-audio-muted2 = UTIŠANO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = AUTOMATSKA REPRODUKCIJA BLOKIRANA
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = SLIKA U SLICI
+browser-tab-audio-pip = SLIKA-U-SLICI
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -678,12 +678,12 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Otvori sliku u slici ({ $shortcut })
+    .tooltiptext = Otvori „Slika-u-slici” ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = Zatvori sliku u slici ({ $shortcut })
-picture-in-picture-panel-header = Slika u slici
-picture-in-picture-panel-headline = Ova web stranica ne preporučuje koristiti funkciju slika u slici
-picture-in-picture-panel-body = Videa se možda neće prikazivati onako kako je programer zamislio dok je aktivirana funkcija slika u slici.
+    .tooltiptext = Zatvori „Slika-u-slici” ({ $shortcut })
+picture-in-picture-panel-header = Slika-u-slici
+picture-in-picture-panel-headline = Ova web stranica ne preporučuje koristiti funkciju „Slika-u-slici”
+picture-in-picture-panel-body = Videa se možda neće prikazivati onako kako je programer zamislio dok je aktivirana funkcija „Slika-u-slici”.
 picture-in-picture-enable-toggle =
     .label = Svejedno aktiviraj
 
@@ -871,17 +871,17 @@ edit-popup-settings =
     .label = Upravljaj postavkama skočnih prozora …
     .accesskey = U
 picture-in-picture-hide-toggle =
-    .label = Sakrij prekidač za slika-u-sliku
+    .label = Sakrij prekidač za „Slika-u-slici”
     .accesskey = S
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = Premjesti preklopnik za slika-u-slici na desnu stranu
+    .label = Premjesti prekidač za „Slika-u-slici” na desnu stranu
     .accesskey = d
 picture-in-picture-move-toggle-left =
-    .label = Premjesti preklopnik za slika-u-slici na lijevu stranu
+    .label = Premjesti prekidač za „Slika-u-slici” na lijevu stranu
     .accesskey = l
 
 ##

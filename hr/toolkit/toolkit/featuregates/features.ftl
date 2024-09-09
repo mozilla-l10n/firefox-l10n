@@ -20,6 +20,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Omog
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Slika-u-slici: automatsko otvaranje pri mijenjanju kartice
+experimental-features-auto-pip-description = Aktiviraj „Slika-u-slici” za aktivna videa prilikom mijenjanja kartica.
 # Updated sidebar settings
 sidebar-title =
     .label = Bočna traka
