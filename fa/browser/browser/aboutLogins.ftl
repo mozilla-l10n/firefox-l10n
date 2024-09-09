@@ -125,6 +125,10 @@ about-logins-login-item-remove-button = برداشتن
 login-item-origin-label = نشانی پایگاه
 login-item-tooltip-message = مطمئن شوید که این آدرس با آدرس دقیق وب سایتی که در آن وارد شده‌اید مطابقت دارد.
 about-logins-origin-tooltip2 = آدرس کامل را وارد کنید و اطمینان حاصل کنید که با جایی که وارد می‌شوید دقیقاً مطابقت دارد
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = اطمینان حاصل کنید که گذرواژه فعلی خود را برای این سایت ذخیره کرده‌اید. تغییر گذرواژه در اینجا آن را در { $webTitle } تغییر نمی‌دهد.
+about-logins-add-password-tooltip = اطمینان حاصل کنید که گذرواژه فعلی خود را برای این سایت ذخیره کرده‌اید.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = نام کاربری
@@ -138,6 +142,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = رونوشت
 login-item-copied-password-button-text = رونوشت شد!
 login-item-save-changes-button = ذخیره تغییرات
+about-logins-login-item-save-changes-button = ذخیره
 login-item-save-new-button = ذخیره
 login-item-cancel-button = لغو
 
@@ -165,6 +170,11 @@ about-logins-edit-login-os-auth-dialog-message-win = برای ویرایش ور�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = برای ویرایش گذرواژه، اطلاعات ورود به سیستم ویندوز خود را وارد کنید. این به محافظت از امنیت حساب‌های شما کمک می‌کند.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = ویرایش گذرواژه ذخیره شده
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = برای دیدن گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -180,6 +190,9 @@ about-logins-export-password-os-auth-dialog-message-win = برای برون‌ر
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = برون‌ریزی ورودها و گذرواژه‌های ذخیره‌شده
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = استخراج گذرواژه‌های نگهداری شده
 
 ## Primary Password notification
 
@@ -195,6 +208,8 @@ confirmation-dialog-dismiss-button =
     .title = انصراف
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = گذرواژه حذف شود؟
 about-logins-confirm-remove-dialog-confirm-button = برداشتن
 
 ## Variables
