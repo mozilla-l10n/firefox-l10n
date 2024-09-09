@@ -88,7 +88,7 @@ permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju u
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Iznimke - način rada "samo HTTPS"
+    .title = Iznimke – „Samo HTTPS” modus
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Možete isključiti isključivo HTTPS način rada za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u siguran HTTPS za te stranice. Iznimke se ne odnose na privatne prozore.
 permissions-exceptions-https-only-desc2 = Možete isključiti isključivo HTTPS način rada za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u siguran HTTPS za te stranice.
