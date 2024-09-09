@@ -86,6 +86,7 @@ devinfo-label =
     .label = Oznaka
 devinfo-serialnum =
     .label = Serijski broj
+fips-nonempty-primary-password-required = FIPS modus zahtijeva da imaš postavljenu primarnu lozinku za svaki sigurnosni uređaj. Postavi lozinku prije nego što pokušaš aktivirati FIPS modus.
 unable-to-toggle-fips = Promjena FIPS modusa za sigurnosni uređaj nije moguća. Preporučujemo da zatvoriš ili ponovo pokreneš ovu aplikaciju.
 load-pk11-module-file-picker-title = Odaberi upravljački program PKCS#11 uređaja za učitavanje
 # Load Module Dialog

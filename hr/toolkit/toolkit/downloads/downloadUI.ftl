@@ -27,7 +27,7 @@ download-ui-confirm-offline-cancel-downloads =
         [1] Ako aktiviraš izvanmrežni modus, prekinut ćeš jedno preuzimanje. Stvarno želiš nastaviti?
        *[other] Ako aktiviraš izvanmrežni modus, prekinut ćeš { $downloadsCount } preuzimanja. Stvarno želiš nastaviti?
     }
-download-ui-dont-go-offline-button = Ostani u mrežnom načinu
+download-ui-dont-go-offline-button = Ostani na mreži
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ako zatvoriš sve prozore privatnog pregledavanja, prekinut će se jedno preuzimanje. Stvarno želiš napustiti privatno pregledavanje?
