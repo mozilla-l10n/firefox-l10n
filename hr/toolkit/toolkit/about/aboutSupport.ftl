@@ -325,12 +325,12 @@ launcher-process-status-unknown = Nepoznato stanje
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 fission-status-experiment-control = Onemogućio eksperiment
-fission-status-experiment-treatment = Omogućio eksperiment
+fission-status-experiment-treatment = Aktivirano od eksperimenta
 fission-status-disabled-by-e10s-env = Onemogućilo okruženje
-fission-status-enabled-by-env = Omogućilo okruženje
+fission-status-enabled-by-env = Aktivirano od okruženja
 fission-status-enabled-by-default = Standardno aktivirano
 fission-status-disabled-by-default = Standardno deaktivirano
-fission-status-enabled-by-user-pref = Omogućio korisnik
+fission-status-enabled-by-user-pref = Aktivirano od korisnika
 fission-status-disabled-by-user-pref = Onemogućio korisnik
 fission-status-disabled-by-e10s-other = E10s deaktiviran
 async-pan-zoom = Asinkrono pomicanje/zumiranje
