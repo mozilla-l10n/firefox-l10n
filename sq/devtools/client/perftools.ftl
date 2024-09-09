@@ -123,6 +123,7 @@ perftools-presets-networking-description = Model për hetim të metash punimi n�
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energji
 perftools-presets-power-description = Paracaktim për hetim të metash përdorimi energjie në { -brand-shorter-name }, me ngarkesë të ulët.
+perftools-presets-debug-label = Diagnostikoje
 perftools-presets-debug-description = Paracaktim për diagnostikim në { -brand-shorter-name }. Ngarkesë e madhe, mos e përdorni për punë funksionimi, por përdoreni për t’u përqendruar te të kuptuarit e sjelljes së shfletuesit.
 perftools-presets-custom-label = Vetjak
 

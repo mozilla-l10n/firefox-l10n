@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
 neterror-dns-not-found-trr-unknown-host2 = Ky sajt s’u gjet nga { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL e pavlefshme.
+neterror-dns-not-found-system-sleep = Sistemi gjendet nën mënyrën dremitje.
 neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
 
 ## Native fallback specific messages
