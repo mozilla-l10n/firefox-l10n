@@ -247,8 +247,8 @@ appmenu-help-enter-troubleshoot-mode2 =
     .label = Modus za rješavanje problema …
     .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
-    .label = Isključi način rada za rješavanje problema
-    .accesskey = N
+    .label = Isključi modus za rješavanje problema
+    .accesskey = I
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
