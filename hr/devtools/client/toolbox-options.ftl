@@ -101,9 +101,9 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Aktiviraj chrome preglednik i alate za otklanjanje grešaka u dodacima
 options-enable-chrome-tooltip =
-    .title = Uključivanje ove mogućnosti omogućiti će vam korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web programer > Alati preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.
+    .title = Uključivanje ove opcije će ti dozvoliti koristiti razne razvojne alate u kontekstu preglednika (putem Alati > Web programer > Alati preglednika) i dodatke za otklanjanje grešaka u upravljaču dodataka.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Omogući udaljeno ispravljanje grešaka
+options-enable-remote-label = Aktiviraj udaljeno ispravljanje grešaka
 options-enable-remote-tooltip2 =
     .title = Uključivanjem ove mogućnosti omogućiti će se daljinsko uklanjanje pogrešaka u ovom primjerku preglednika
 # The label for checkbox that enables F12 as a shortcut to open DevTools

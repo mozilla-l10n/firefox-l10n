@@ -155,8 +155,8 @@ extensions-warning-safe-mode2 =
     .message = Siguran modus je isključio sve dodatke.
 extensions-warning-check-compatibility2 =
     .message = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
-extensions-warning-check-compatibility-button = Omogući
-    .title = Omogući provjeru kompatibilnosti dodataka
+extensions-warning-check-compatibility-button = Aktiviraj
+    .title = Aktiviraj provjeru kompatibilnosti dodataka
 extensions-warning-update-security = Provjera sigurnosti aktualiziranja dodataka je isključena. Aktualiziranja mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security2 =
     .message = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
@@ -302,11 +302,11 @@ remove-addon-button = Ukloni
 # The link will always be shown after the other text.
 remove-addon-disabled-button = Ne može se ukloniti. <a data-l10n-name="link">Zašto?</a>
 disable-addon-button = Onemogući
-enable-addon-button = Omogući
+enable-addon-button = Aktiviraj
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
-    .aria-label = Omogući
+    .aria-label = Aktiviraj
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mogućnosti
