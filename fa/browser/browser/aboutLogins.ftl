@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = درون‌ریزی ا�
 about-logins-menu-menuitem-import-from-a-file = درون‌ریزی از یک پرونده…
 about-logins-menu-menuitem-export-logins = برون‌ریزی ورودها…
 about-logins-menu-menuitem-remove-all-logins = برداشتن تمامی ورودها…
+about-logins-menu-menuitem-export-logins2 = استخراج گذرواژه‌ها
+about-logins-menu-menuitem-remove-all-logins2 = حذف تمامی گذرواژه‌ها
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -55,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } از { $total } ورود
        *[other] { $count } از { $total } ورود
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] 	{ $count } گذرواژه
+       *[other] 	{ $count } گذرواژه
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } از { $total } گذرواژه
+       *[other] { $count } از { $total } گذرواژه
+    }
 login-list-sort-label-text = چیدن بر اساس:
 login-list-name-option = نام (آ-ی)
 login-list-name-reverse-option = نام (ی-آ)
@@ -64,11 +81,14 @@ about-logins-login-list-alerts-option = هشدارها
 login-list-last-changed-option = آخرین تغییر
 login-list-last-used-option = آخرین استفاده
 login-list-intro-title = هیچ اطلاعات ورودی پیدا نشد
+login-list-intro-title2 = هیچ گذرواژه‌ای ذخیره نشده است
 login-list-intro-description = وقتی گذرواژه‌ای را در { -brand-product-name } ذخیره می‌کنید، آنها را اینجا می‌بینید.
 about-logins-login-list-empty-search-title = هیچ اطلاعات ورودی پیدا نشد
+about-logins-login-list-empty-search-title2 = هیچ گذرواژه‌ای یافت نشد
 about-logins-login-list-empty-search-description = هیچ نتیجه‌ای مطابق با جست‌وجوی شما یافت نشد.
 login-list-item-title-new-login = ورود جدید
 login-list-item-subtitle-new-login = اطلاعات ورود خود را وارد کنید
+login-list-item-title-new-login2 = افزودن گذرواژه
 login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 about-logins-list-item-breach-icon =
     .title = پایگاه لو رفته
@@ -87,6 +107,9 @@ about-logins-login-intro-heading-logged-out2 = به دنبال ورودهای ذ
 about-logins-login-intro-heading-logged-in = هیچ ورود همگام شده‌ای پیدا نشد
 login-intro-description = اگر شما ورودتون به{ -brand-product-name } را بر روی دستگاه دیگری ذخیره کرده‌اید،‌ به این شکل بدستشون بیارید:
 login-intro-instructions-fxa = { -fxaccount-brand-name } خود را در دستگاهی که ورودهای شما در آن ذخیره شده‌اند ایجاد یا در آن وارد شوید.
+about-logins-login-intro-heading-message = گذرواژه‌های خود را در جایی امن نگهداری کنید
+login-intro-description2 = همه گذرواژه‌هایی که در { -brand-product-name } نگهداری می‌کنید، رمزنگاری شده‌اند. همچنین، ما مراقب لو رفتن آنها هستیم و اگر در خطر باشید به شما هشدار می‌دهیم. <a data-l10n-name="breach-alert-link">بیشتر بیاموزید</a>
+login-intro-instructions-fxa2 = به دستگاهی که در آن اطلاعات ورودی خود را ذخیره کردید ورود و یا یک حساب جدید برای خود بسازید.
 login-intro-instructions-fxa-settings = به تنظیمات> همگام‌سازی> روشن کردن همگام‌سازی… بروید و گزینهٔ ورودها و گذرواژها را انتخاب کنید.
 login-intro-instructions-fxa-passwords-help = برای راهنمایی بیشتر به <a data-l10n-name="passwords-help-link">پشتیبانی مربوط به گذرواژه</a> مراجعه کنید.
 about-logins-intro-browser-only-import = اگر اطلاعات ورود شما در یک مرورگر دیگر ذخیره شده است، شما می‌توانید <a data-l10n-name="import-link">آن‌ها را به { -brand-product-name } منتقل کنید</a>
@@ -95,10 +118,13 @@ about-logins-intro-import2 = اگر ورودهای شما خارج از { -brand
 ## Login
 
 login-item-new-login-title = ایجاد ورود جدید
+# Header for adding a password
+about-logins-login-item-new-login-title = افزودن گذرواژه
 login-item-edit-button = ویرایش
 about-logins-login-item-remove-button = برداشتن
 login-item-origin-label = نشانی پایگاه
 login-item-tooltip-message = مطمئن شوید که این آدرس با آدرس دقیق وب سایتی که در آن وارد شده‌اید مطابقت دارد.
+about-logins-origin-tooltip2 = آدرس کامل را وارد کنید و اطمینان حاصل کنید که با جایی که وارد می‌شوید دقیقاً مطابقت دارد
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = نام کاربری
