@@ -138,7 +138,7 @@ options-enable-custom-formatters-tooltip =
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = 啟用 Service Workers over HTTP（當工具箱開啟時）
 options-enable-service-workers-http-tooltip =
-    .title = 開啟此選項後，將會允許在開啟工具箱的所有分頁中透過 HTTP 使用 service workers。
+    .title = 開啟此選項後，將會允許在開啟工具箱的所有分頁中透過 HTTP 使用 Service worker。
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = 開啟原始碼對應表
 options-source-maps-tooltip =
