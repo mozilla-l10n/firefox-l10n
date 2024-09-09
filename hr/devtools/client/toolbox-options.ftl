@@ -99,7 +99,7 @@ options-disable-javascript-label = Onemogući JavaScript *
 options-disable-javascript-tooltip =
     .title = Isključivanje ove mogućnosti će onemogućiti JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Omogući chrome preglednika i alate za otklanjanje grešaka u dodacima
+options-enable-chrome-label = Aktiviraj chrome preglednik i alate za otklanjanje grešaka u dodacima
 options-enable-chrome-tooltip =
     .title = Uključivanje ove mogućnosti omogućiti će vam korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web programer > Alati preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference

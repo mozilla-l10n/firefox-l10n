@@ -94,7 +94,7 @@ about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Ako se ovo omogući, preuzeti i dodati će se potrebne Android USB komponente za ispravljanje grešaka u { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Ako se ovo aktivira, preuzet i dodat će se potrebne Android USB komponente za ispravljanje grešaka u { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Aktiviraj USB uređaje
@@ -112,7 +112,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Aktiviraj izbornik za programe
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Aktiviraj USB uklanjanje grešaka u Android izborniku za programere.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Omogući USB uklanjanje grešaka u Firefoxu na Android uređaju.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktiviraj USB uklanjanje grešaka u Firefoxu na Android uređaju.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Spojite Android uređaj s računalom.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
