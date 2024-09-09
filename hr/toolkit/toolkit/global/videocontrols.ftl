@@ -44,7 +44,7 @@ videocontrols-error-decode = Video nije moguće reproducirati jer je datoteka o�
 videocontrols-error-src-not-supported = Video format ili MIME vrsta nisu podržani.
 videocontrols-error-no-source = Nije pronađen video s podržanim formatom ili MIME vrstom.
 videocontrols-error-generic = Reprodukcija videa je prekinuta zbog nepoznate greške.
-videocontrols-status-picture-in-picture = Ovaj videozapis reproducira u načinu rada Slika u slici.
+videocontrols-status-picture-in-picture = Ovaj se video reproducira u modusu „Slika u slici”.
 # This message shows the current position and total video duration
 #
 # Variables:

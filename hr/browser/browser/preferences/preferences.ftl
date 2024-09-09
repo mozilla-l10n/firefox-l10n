@@ -1037,7 +1037,7 @@ sitedata-learn-more = Saznaj više
 sitedata-delete-on-close =
     .label = Izbriši kolačiće i podatke stranica kad se { -brand-short-name } zatvori
     .accesskey = c
-sitedata-delete-on-close-private-browsing = U trajnom privatnom pregledavanju, kolačići i podaci o web stranicama će uvijek biti izbrisani kad se zatvori { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = U modusu trajnog privatnog pregledavanja će se kolačići i podaci o web stranicama uvijek izbrisati kada se zatvori { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web stranica kada zatvoriš preglednik.
 sitedata-allow-cookies-option =
     .label = Prihvati kolačiće i podatke web stranica
@@ -1079,7 +1079,7 @@ cookie-banner-handling-description = { -brand-short-name } pokušava automatski 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokiranje pojavljivanja dijaloga kolačića
-cookie-banner-blocker-description = Kada web stranica pita može li koristiti kolačiće u privatnom načinu pregledavanja, { -brand-short-name } automatski odbija umjesto vas. Samo na podržanim stranicama.
+cookie-banner-blocker-description = Kada web stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } automatski odbija umjesto tebe. Samo na podržanim stranicama.
 cookie-banner-learn-more = Saznajte više
 forms-handle-cookie-banners =
     .label = Smanjite pojavljivanje dijaloga kolačića

@@ -176,7 +176,7 @@ about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički promije
 
 about-webrtc-save-page-msg = stranica spremljena u: { $path }
 about-webrtc-debug-mode-off-state-msg = trace zapisnik je moguće pronaći na: { $path }
-about-webrtc-debug-mode-on-state-msg = debug način rada aktivan, trace zapisnik pri: { $path }
+about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, staza zapisnika: { $path }
 about-webrtc-aec-logging-off-state-msg = snimljene log datoteke je moguće pronaći u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
