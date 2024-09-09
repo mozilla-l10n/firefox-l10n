@@ -86,7 +86,7 @@ devinfo-label =
     .label = Oznaka
 devinfo-serialnum =
     .label = Serijski broj
-unable-to-toggle-fips = Promjena FIPS načina rada za sigurnosni uređaj nije moguća. Preporuka je da zatvoriš ili ponovo pokreneš ovu aplikaciju.
+unable-to-toggle-fips = Promjena FIPS modusa za sigurnosni uređaj nije moguća. Preporučujemo da zatvoriš ili ponovo pokreneš ovu aplikaciju.
 load-pk11-module-file-picker-title = Odaberi upravljački program PKCS#11 uređaja za učitavanje
 # Load Module Dialog
 load-module-help-empty-module-name =

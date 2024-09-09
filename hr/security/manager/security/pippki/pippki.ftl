@@ -20,7 +20,7 @@ pippki-pw-change-ok = Lozinka uspješno promijenjena.
 pippki-pw-empty-warning = Tvoje spremljene lozinke i privatni ključevi neće biti zaštićeni.
 pippki-pw-erased-ok = Lozinka je izbrisana. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Upozorenje! Odabrano je da se ne koristi lozinka. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS zahtijeva nepraznu lozinku.
+pippki-pw-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS ne dopušta praznu lozinku.
 
 ## Reset Primary Password dialog
 

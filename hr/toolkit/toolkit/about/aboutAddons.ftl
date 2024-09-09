@@ -149,10 +149,10 @@ addon-sitepermission-host = Dozvole stranice za { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Siguran način rada isključio je sve dodatke.
+extensions-warning-safe-mode = Siguran modus je isključio sve dodatke.
 extensions-warning-check-compatibility = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-safe-mode2 =
-    .message = Siguran način rada isključio je sve dodatke.
+    .message = Siguran modus je isključio sve dodatke.
 extensions-warning-check-compatibility2 =
     .message = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-button = Omogući

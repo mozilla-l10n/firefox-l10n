@@ -70,7 +70,7 @@ app-basics-enterprise-policies = Pravila za poduzeća
 app-basics-location-service-key-google = Google ključ za usluge lokacije
 app-basics-safebrowsing-key-google = Google ključ za sigurno pregledavanje
 app-basics-key-mozilla = Mozilla ključ za usluge lokacije
-app-basics-safe-mode = Siguran način rada
+app-basics-safe-mode = Sigurni modus
 app-basics-disk-available = Dostupna memorija na disku
 show-dir-label =
     { PLATFORM() ->
@@ -127,7 +127,7 @@ sandbox-sys-call-proc-type = Vrsta procesa
 sandbox-sys-call-number = Poziv sustava
 sandbox-sys-call-args = Argumenti
 troubleshoot-mode-title = Dijagnosticiranje problema
-restart-in-troubleshoot-mode-label = Način rada za rješavanje problema…
+restart-in-troubleshoot-mode-label = Modus za rješavanje problema …
 clear-startup-cache-title = Pokušaj poništiti predmemoriju pokretanja
 clear-startup-cache-label = Poništi predmemoriju pokretanja …
 startup-cache-dialog-title2 = Ponovno pokrenuti { -brand-short-name } za čišćenje predmemorije pokretanja?

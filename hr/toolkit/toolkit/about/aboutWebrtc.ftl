@@ -86,9 +86,9 @@ about-webrtc-nominated = Predloženo
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Odabrano
 about-webrtc-save-page-label = Spremi stranicu
-about-webrtc-debug-mode-msg-label = Debug način rada
-about-webrtc-debug-mode-off-state-label = Pokreni modus otklanjanja grešaka
-about-webrtc-debug-mode-on-state-label = Zaustavi debug način rada
+about-webrtc-debug-mode-msg-label = Modus za otklanjanje grešaka
+about-webrtc-debug-mode-off-state-label = Pokreni modus za otklanjanja grešaka
+about-webrtc-debug-mode-on-state-label = Prekini modus za otklanjanja grešaka
 about-webrtc-stats-heading = Statistika sesije
 about-webrtc-stats-clear = Izbriši povijest
 about-webrtc-log-heading = Zapisnik veze
