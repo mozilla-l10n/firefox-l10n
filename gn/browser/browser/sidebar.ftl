@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Emboguete tembiasakuégui
+sidebar-history-sort-by-date =
+    .label = Arange rupive
+sidebar-history-sort-by-site =
+    .label = Tenda rupive
+sidebar-history-clear =
+    .label = Embogue tembiasakue
 
 ## Labels for sidebar search
 
@@ -59,6 +65,17 @@ sidebar-context-menu-remove-extension =
     .label = Emboguete jepysokue
 sidebar-context-menu-report-extension =
     .label = Marandu’i pukukue
+sidebar-context-menu-open-in-window =
+    .label = Eike Ovetã Pyahúpe
+sidebar-context-menu-open-in-private-window =
+    .label = Eike Ovetã Ñemigua Pyahúpe
+sidebar-context-menu-copy-link =
+    .label = Emonguatia juajuha
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Emboguete tembiasakuégui
 
 ## Labels for sidebar menu items.
 

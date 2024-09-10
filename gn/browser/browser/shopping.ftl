@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Ehechajey marandu’i porãngue
 
 more-to-consider-ad-label =
     .label = Ehecha emomba’e hag̃ua
+shopping-sponsored-label = Pytyvõpyréva
 ad-by-fakespot = { -fakespot-brand-name } moñemurã
 
 ## Shopping survey strings.

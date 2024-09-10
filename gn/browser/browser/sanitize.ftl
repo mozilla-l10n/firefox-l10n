@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Mokõi aravóntema
 clear-time-duration-value-last-4-hours =
     .label = Irundy aravóntema
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = { $midnightTime }-guive
 clear-time-duration-value-today =
     .label = Ko árape
 clear-time-duration-value-everything =
