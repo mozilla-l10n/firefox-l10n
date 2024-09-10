@@ -1045,6 +1045,9 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-crashed-open = ونڈوز فائل ڈائیلاگ کریش تھی ڳیا ہے۔ کوئی فائل یا فولڈر کائنی چُݨیج سڳیا۔
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = ونڈوز فائل ڈائیلاگ کریش تھی ڳیا ہے۔ فائل { $path } تے محفوظ تھیسی۔
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
