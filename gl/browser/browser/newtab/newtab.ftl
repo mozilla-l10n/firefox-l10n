@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Engadir buscador
 newtab-topsites-add-shortcut-header = Novo atallo
 newtab-topsites-edit-topsites-header = Editar sitio favorito
 newtab-topsites-edit-shortcut-header = Editar o atallo
+newtab-topsites-add-shortcut-label = Engadir atallo
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Escribir un título
@@ -231,6 +232,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } forma parte da fami
 newtab-pocket-save = Gardar
 newtab-pocket-saved = Gardado
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Descubrir o mellor da web
@@ -259,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Atallos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomendado por { -pocket-brand-name }
-    .description = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar o gardado recentemente
 newtab-custom-recent-title = Actividade recente
@@ -271,3 +272,27 @@ newtab-custom-recent-toggle =
     .description = Unha selección de sitios e contido recentes
 newtab-custom-close-button = Pechar
 newtab-custom-settings = Xestionar máis axustes
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fondos de pantalla
+newtab-wallpaper-reset = Restablecer os valores predeterminados
+newtab-wallpaper-light-red-panda = Panda vermello
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

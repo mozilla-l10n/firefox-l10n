@@ -172,6 +172,7 @@ firefoxview-search-text-box-opentabs =
 firefoxview-search-results-empty = Non hai resultados para «{ $query }»
 firefoxview-sort-history-by-date-label = Ordenar pola data
 firefoxview-sort-history-by-site-label = Ordenar polo sitio
+firefoxview-sort-open-tabs-by-recency-label = Ordenar por actividade recente
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -227,3 +228,19 @@ firefoxview-recentlyclosed-empty-header = Pechou unha pestana demasiado pronto?
 
 firefoxview-syncedtabs-device-notabs = Non hai lapelas abertas neste dispositivo
 firefoxview-syncedtabs-connect-another-device = Conectar outro dispositivo
+firefoxview-pinned-tabs =
+    .title = Lapelas fixadas
+firefoxview-tabs =
+    .title = Lapelas
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Cambiar a { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
