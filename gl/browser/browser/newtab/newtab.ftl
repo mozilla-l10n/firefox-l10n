@@ -278,9 +278,21 @@ newtab-custom-settings = Xestionar máis axustes
 newtab-wallpaper-title = Fondos de pantalla
 newtab-wallpaper-reset = Restablecer os valores predeterminados
 newtab-wallpaper-light-red-panda = Panda vermello
+newtab-wallpaper-light-mountain = Montaña branca
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Cores sólidas
+newtab-wallpaper-blue = Azul
+newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-green = Verde
+newtab-wallpaper-yellow = Amarelo
+newtab-wallpaper-orange = Laranxa
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa claro
+newtab-wallpaper-red = Vermello
+newtab-wallpaper-dark-blue = Azul escuro
+newtab-wallpaper-dark-green = Verde escuro
 
 ## Abstract
 
