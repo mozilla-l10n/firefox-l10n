@@ -1279,11 +1279,15 @@ httpsonly-learn-more = Máis información
 httpsonly-radio-enabled =
     .label = Activar o modo só HTTPS en todas as xanelas
 httpsonly-radio-enabled2 =
-    .label = Usar só HTTPS en todas as fiestras
+    .label = Usar só HTTPS en todas as xanelas
 httpsonly-radio-enabled-pbm =
     .label = Activar o modo só HTTPS só nas xanelas privadas
+httpsonly-radio-enabled-pbm2 =
+    .label = Usar HTTPS só en xanelas privadas
 httpsonly-radio-disabled =
     .label = Non activar o modo só HTTPS
+httpsonly-radio-disabled2 =
+    .label = Probar primeiro HTTPS, pero permitir conexións que non sexan seguras
 
 ## DoH Section
 
