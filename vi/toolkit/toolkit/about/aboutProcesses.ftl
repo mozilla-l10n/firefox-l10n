@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Đóng các thẻ và buộc dừng tiến trình
+about-processes-kill-process =
+    .title = Buộc dừng tiến trình
 about-processes-shutdown-tab =
     .title = Đóng thẻ
 # Profiler icons

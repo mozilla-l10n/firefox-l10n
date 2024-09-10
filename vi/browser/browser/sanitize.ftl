@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Hai tiếng gần đây
 clear-time-duration-value-last-4-hours =
     .label = Bốn tiếng gần đây
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = Kể từ { $midnightTime }
 clear-time-duration-value-today =
     .label = Hôm nay
 clear-time-duration-value-everything =
