@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previ
 mr1-onboarding-theme-header = Fágao seu
 mr1-onboarding-theme-subtitle = Personalice o { -brand-short-name } cun tema.
 mr1-onboarding-theme-secondary-button-label = Agora non
+newtab-wallpaper-onboarding-title = Probar un toque de cor
+newtab-wallpaper-onboarding-primary-button-label = Establecer fondo de pantalla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema do sistema
 mr1-onboarding-theme-label-light = Claro
@@ -332,6 +334,13 @@ onboarding-device-migration-title = Benvido de novo!
 onboarding-device-migration-subtitle = Inicie sesión no seu { -fxaccount-brand-name(capitalization: "sentence") } para recuperar os seus marcadores, contrasinais e historial consigo no seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Acceder
 
+## Add-ons Picker screen
+
+amo-picker-title = Personalizar o seu { -brand-short-name }
+amo-picker-install-button-label = Engadir a { -brand-short-name }
+amo-picker-install-complete-label = Instalado
+amo-picker-collection-link = Explore máis complementos
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -339,6 +348,8 @@ onboarding-easy-setup-security-and-privacy-title = Encántanos telo seguro
 onboarding-easy-setup-security-and-privacy-subtitle = O noso navegador sen ánimo de lucro axuda a evitar que as empresas o sigan en segredo pola web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteña todo cifrado cando salte entre dispositivos
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protéxeo
 
 ## New user time and familiarity survey strings
 
