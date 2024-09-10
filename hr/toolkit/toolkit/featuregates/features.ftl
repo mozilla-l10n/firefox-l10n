@@ -17,6 +17,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Alati za programere: Otklanjanje grešaka pomoću Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Omogućuje eksperimentalnu podršku za Service Workers na ploči „Ispravljač grešaka”. Ova funkcija može usporiti programerske alate i povećati potrošnju memorije.
+experimental-features-webrtc-global-mute-toggles-description = Dodaj WebRTC indikatoru za globalno dijeljenje kontrole koje korisnicima omogućuju da globalno isključe mikrofon i kameru.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
