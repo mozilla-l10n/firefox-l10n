@@ -291,8 +291,6 @@ quickactions-cmd-refresh = adnewyddu
 # Restarts the browser
 quickactions-restart = Ailgychwyn { -brand-short-name }
 quickactions-cmd-restart = ailgychwyn
-# Opens the screenshot tool
-quickactions-screenshot3 = Cymryd llun sgrin
 quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings2 = Rheoli gosodiadau
@@ -414,7 +412,7 @@ identity-more-info-link-text =
 browser-window-minimize-button =
     .tooltiptext = Lleihau
 browser-window-maximize-button =
-    .tooltiptext = Mwyhau
+    .tooltiptext = Ehangu
 browser-window-restore-down-button =
     .tooltiptext = Adfer i Lawr
 browser-window-close-button =
