@@ -55,7 +55,7 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Sidestolpe
-sidebar-description = Få enkel tilgang  til historikken din, faner frå andre einingar, sidestolpe-utvidingar, og meir, når du surfar. <a data-l10n-name="connect">Dela feedback</a>
+sidebar-description = Få enkel tilgang til historikken din, faner frå andre einingar, sidestolpe-utvidingar, og meir, når du surfar. <a data-l10n-name="connect">Del tilbakemelding</a>
 vertical-tabs-title =
     .label = Vertikale faner
 vertical-tabs-description = Flytt fanene dine frå toppen av nettlesaren til sida. Dette krev at du aktiverer sidestolpen. <a data-l10n-name="connect">Del tilbakemelding</a>
