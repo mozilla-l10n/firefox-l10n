@@ -122,12 +122,12 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Smanjenje broja dijaloga kolačića
-protections-panel-cookie-banner-blocker-header = Blokiranje pojavljivanja dijaloga kolačića
+protections-panel-cookie-banner-blocker-header = Blokiranje dijaloga kolačića
 protections-panel-cookie-banner-handling-enabled = Uključeno za ovu stranicu
 protections-panel-cookie-banner-handling-disabled = Isključeno za ovu stranicu
 protections-panel-cookie-banner-handling-undetected = Stranica trenutačno nije podržana
 protections-panel-cookie-banner-view-title =
-    .title = Smanjivanje pojavljivanja dijaloga kolačića
+    .title = Smanjenje broja dijaloga kolačića
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Isključi smanjivanje pojavljivanja dijaloga kolačića za { $host }?
@@ -143,7 +143,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Odustani
 protections-panel-cookie-banner-view-turn-off = Isključi
 protections-panel-cookie-banner-view-turn-on = Uključi
-protections-panel-cookie-banner-blocker-view-turn-on-description = Uključii i { -brand-short-name } će pokušati automatski odbiti natpise kolačića na ovoj stranici.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Uključii i { -brand-short-name } će pokušati automatski odbiti dijaloge kolačića na ovoj stranici.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Odustani
 protections-panel-cookie-banner-view-turn-off-label =

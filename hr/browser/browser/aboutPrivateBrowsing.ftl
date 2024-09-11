@@ -70,7 +70,7 @@ about-private-browsing-cookie-banners-promo-button = Smanji broj dijaloga kolač
 about-private-browsing-cookie-banners-promo-message = Dopusti da { -brand-short-name } automatski odgovara na skočne prozore kolačića tako da se možeš vratiti na pregledavanje bez ometanja. Ako je moguće, { -brand-short-name } će odbiti sve zahtjeve.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
-about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se brine za dijaloge kolačića umjesto tebe
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se brine o dijalozima kolačića umjesto tebe
 about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnoge dijaloge kolačića što smanjuje praćenje tvojih radnji na internetu i omogućuje pregledavanje bez ometanja.
 
 ## Strings for Felt Privacy v1 experiments in 119

@@ -1080,9 +1080,9 @@ cookie-banner-handling-description = { -brand-short-name } pokušava automatski 
 
 cookie-banner-blocker-header = Blokiranje dijaloga kolačića
 cookie-banner-blocker-description = Kada web stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } automatski odbija umjesto tebe. Samo na podržanim stranicama.
-cookie-banner-learn-more = Saznajte više
+cookie-banner-learn-more = Saznaj više
 forms-handle-cookie-banners =
-    .label = Smanji broj pojavljivanja dijaloga kolačića
+    .label = Smanji broj dijaloga kolačića
 cookie-banner-blocker-checkbox-label =
     .label = Automatski odbij dijaloge kolačića
 
