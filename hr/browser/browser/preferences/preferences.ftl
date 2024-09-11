@@ -1073,7 +1073,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Smanjenje broja dijaloga kolačića
+cookie-banner-handling-header = Smanjivanje broja dijaloga kolačića
 cookie-banner-handling-description = { -brand-short-name } pokušava automatski odbiti dijaloge kolačića na podržanim stranicama.
 
 ## Privacy Section - Cookie Banner Blocking

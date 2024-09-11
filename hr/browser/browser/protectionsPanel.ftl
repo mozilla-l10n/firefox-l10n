@@ -121,13 +121,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
-protections-panel-cookie-banner-handling-header = Smanjenje broja dijaloga kolačića
+protections-panel-cookie-banner-handling-header = Smanjivanje broja dijaloga kolačića
 protections-panel-cookie-banner-blocker-header = Blokiranje dijaloga kolačića
 protections-panel-cookie-banner-handling-enabled = Uključeno za ovu stranicu
 protections-panel-cookie-banner-handling-disabled = Isključeno za ovu stranicu
 protections-panel-cookie-banner-handling-undetected = Stranica trenutačno nije podržana
 protections-panel-cookie-banner-view-title =
-    .title = Smanjenje broja dijaloga kolačića
+    .title = Smanjivanje broja dijaloga kolačića
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Isključiti smanjivanje broja dijaloga kolačića za { $host }?
