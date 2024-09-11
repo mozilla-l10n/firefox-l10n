@@ -8,13 +8,13 @@
 appmenuitem-banner-update-downloading =
     .label = Preuzimanje nadogradnje za { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = Dostupna nadogradnja — preuzmi sada
+    .label = Dostupna nadogradnja – preuzmi sada
 appmenuitem-banner-update-manual =
-    .label = Dostupna nadogradnja — preuzmi sada
+    .label = Dostupna nadogradnja – preuzmi sada
 appmenuitem-banner-update-unsupported =
-    .label = Nije moguće nadograditi — sustav nije kompatibilan
+    .label = Nije moguće nadograditi – sustav nije kompatibilan
 appmenuitem-banner-update-restart =
-    .label = Dostupna nadogradnja — ponovno pokreni sada
+    .label = Dostupna nadogradnja – ponovo pokreni sada
 appmenuitem-new-tab =
     .label = Nova kartica
 appmenuitem-new-window =

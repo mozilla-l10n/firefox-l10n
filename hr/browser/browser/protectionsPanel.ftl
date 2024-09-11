@@ -130,14 +130,14 @@ protections-panel-cookie-banner-view-title =
     .title = Smanjenje broja dijaloga kolačića
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Isključi smanjivanje pojavljivanja dijaloga kolačića za { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Uključi smanjivanje pojavljivanja dijaloga kolačića za ovu stranicu?
+protections-panel-cookie-banner-view-turn-off-for-site = Isključiti smanjivanje broja dijaloga kolačića za { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Uključiti smanjivanje broja dijaloga kolačića za ovu stranicu?
 protections-panel-cookie-banner-blocker-view-title =
-    .title = Blokiranje pojavljivanja dijaloga kolačića
+    .title = Blokiranje dijaloga kolačića
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-blocker-view-turn-off-for-site = Isključiti blokiranje natpisa kolačića za { $host }?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Uključiti blokiranje natpisa kolačića za ovu stranicu?
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Isključiti blokiranje dijaloga kolačića za { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Uključiti blokiranje dijaloga kolačića za ovu stranicu?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } će izbrisati kolačiće ove stranice i aktualizirati stranicu. Brisanje svih kolačića će te vjerojatno odjaviti sa stranice ili isprazniti tvoju košaricu.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pokušava automatski odbiti sve zahtjeve za kolačićima na podržanim stranicama.
 protections-panel-cookie-banner-view-cancel = Odustani

@@ -203,7 +203,7 @@ colorways-cfr-header-today = Koloriti „Neovisni glasovi” isteču danas
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Dopustiti da { -brand-short-name } odbije dijaloge kolačića?
-cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge dijaloge kolačića.
+cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge zahtjeve dijaloga kolačića.
 cfr-cbh-confirm-button = Odbij dijaloge kolačića
     .accesskey = O
 cfr-cbh-dismiss-button = Ne sada
