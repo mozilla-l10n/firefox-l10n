@@ -187,13 +187,13 @@ containers-disable-alert-title = Lukk alle beholderfaner?
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Hvis du deaktiverer innholdsfaner nå, vil { $tabCount } innholdsfane bli stengt. Er du sikker på at du vil deaktivere innholdsfaner?
-       *[other] Hvis du deaktiverer innholdsfaner nå, vil { $tabCount } innholdsfaner bli stengt. Er du sikker på at du vil deaktivere innholdsfaner?
+        [one] Hvis du deaktiverer beholderfaner nå, vil { $tabCount } beholderfane bli stengt. Er du sikker på at du vil deaktivere beholderfaner?
+       *[other] Hvis du deaktiverer beholderfaner nå, vil { $tabCount } beholderfaner bli stengt. Er du sikker på at du vil deaktivere beholderfaner?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Lukk { $tabCount } innholdsfane
-       *[other] Lukk { $tabCount } innholdsfaner
+        [one] Lukk { $tabCount } beholderfane
+       *[other] Lukk { $tabCount } beholderfaner
     }
 
 ##
@@ -204,8 +204,8 @@ containers-remove-alert-title = Fjern denne beholderen?
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Hvis du fjerner denne beholdere nå, vil { $count } innholdsfane bli stengt. Er du sikker på at du vil fjerne denne beholderen?
-       *[other] Hvis du fjerner denne beholdere nå, vil { $count } innholdsfaner bli stengt. Er du sikker på at du vil fjerne denne beholderen?
+        [one] Hvis du fjerner denne beholderen nå, vil { $count } beholderfane bli stengt. Er du sikker på at du vil fjerne denne beholderen?
+       *[other] Hvis du fjerner denne beholderen nå, vil { $count } beholderfaner bli stengt. Er du sikker på at du vil fjerne denne beholderen?
     }
 containers-remove-ok-button = Fjern denne beholderen?
 containers-remove-cancel-button = Ikke fjern denne beholderen
@@ -684,7 +684,7 @@ search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et an
 
 containers-back-button2 =
     .aria-label = Tilbake til innstillinger
-containers-header = Innholdsfaner
+containers-header = Beholderfaner
 containers-add-button =
     .label = Legg til ny beholder
     .accesskey = L
