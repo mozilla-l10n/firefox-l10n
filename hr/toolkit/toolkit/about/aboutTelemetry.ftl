@@ -20,7 +20,7 @@ about-telemetry-more-information = Tražiš više informacija?
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Nadzorne ploče telemetrije</a> omogućuju vizualizaciju podataka koje Mozilla prima putem Telemetrije.
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna stranica
-about-telemetry-general-data-section =   Opći podaci
+about-telemetry-general-data-section = Opći podaci
 about-telemetry-environment-data-section = Podaci okruženja
 about-telemetry-session-info-section = Informacije o sesiji
 about-telemetry-scalar-section = skalari

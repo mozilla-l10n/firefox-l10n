@@ -26,9 +26,9 @@ datetime-hour =
 datetime-minute =
     .aria-label = Minuta
 datetime-second =
-    .aria-label = Sekundi
+    .aria-label = Sekunde
 datetime-millisecond =
-    .aria-label = Milisekundi
+    .aria-label = Milisekunde
 datetime-dayperiod =
     .aria-label = AM/PM
 

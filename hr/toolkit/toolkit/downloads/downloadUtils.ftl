@@ -94,7 +94,7 @@ download-utils-time-left-single = preostalo { $time }
 #   $time1 (string) - Time left, including a unit
 #   $time2 (string) - Smaller measure of time left, including a unit
 download-utils-time-left-double = preostalo { $time1 } { $time2 }
-download-utils-time-few-seconds = Još samo nekoliko trenutaka
+download-utils-time-few-seconds = Još par sekundi
 download-utils-time-unknown = Nepoznato vremena preostalo
 # Variables:
 #   $scheme (string) - URI scheme like data: jar: about:

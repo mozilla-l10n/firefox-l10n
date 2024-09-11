@@ -11,7 +11,11 @@ about-webauthn-page-title = O WebAuthnu
 
 ## Section titles
 
+about-webauthn-info-section-title = Informacije o uređaju
+about-webauthn-info-subsection-title = Informacije o autentifikatoru
 about-webauthn-options-subsection-title = Mogućnosti autentifikatora
+about-webauthn-pin-section-title = Upravljanje PIN-ovima
+about-webauthn-credential-management-section-title = Upravljanje podacima prijave
 about-webauthn-pin-required-section-title = Potreban je PIN
 about-webauthn-confirm-deletion-section-title = Potvrdi brisanje
 

@@ -22,6 +22,7 @@ perftools-heading-features-experimental = Eksperimentalno
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
