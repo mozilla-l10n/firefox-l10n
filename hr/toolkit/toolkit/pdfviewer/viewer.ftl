@@ -360,30 +360,30 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
-pdfjs-editor-resizer-label-top-left = Gornji lijevi kut — promijenite veličinu
-pdfjs-editor-resizer-label-top-middle = Gore sredina — promijenite veličinu
-pdfjs-editor-resizer-label-top-right = Gornji desni kut — promijenite veličinu
-pdfjs-editor-resizer-label-middle-right = Sredina desno — promijenite veličinu
-pdfjs-editor-resizer-label-bottom-right = Donji desni kut — promijenite veličinu
-pdfjs-editor-resizer-label-bottom-middle = Dolje sredina — promjenite veličinu
-pdfjs-editor-resizer-label-bottom-left = Donji lijevi kut — promijenite veličinu
-pdfjs-editor-resizer-label-middle-left = Sredina lijevo — promijenite veličinu
+pdfjs-editor-resizer-label-top-left = Gornji lijevi kut – promijeni veličinu
+pdfjs-editor-resizer-label-top-middle = Sredina gore – promijeni veličinu
+pdfjs-editor-resizer-label-top-right = Gornji desni kut – promijeni veličinu
+pdfjs-editor-resizer-label-middle-right = Sredina desno – promijeni veličinu
+pdfjs-editor-resizer-label-bottom-right = Donji desni kut – promijeni veličinu
+pdfjs-editor-resizer-label-bottom-middle = Sredina dolje – promjeni veličinu
+pdfjs-editor-resizer-label-bottom-left = Donji lijevi kut – promijeni veličinu
+pdfjs-editor-resizer-label-middle-left = Sredina lijevo – promijeni veličinu
 pdfjs-editor-resizer-top-left =
-    .aria-label = Gornji lijevi kut — promijenite veličinu
+    .aria-label = Gornji lijevi kut – promijeni veličinu
 pdfjs-editor-resizer-top-middle =
-    .aria-label = Gore sredina — promijenite veličinu
+    .aria-label = Sredina gore – promijeni veličinu
 pdfjs-editor-resizer-top-right =
-    .aria-label = Gornji desni kut — promijenite veličinu
+    .aria-label = Gornji desni kut – promijeni veličinu
 pdfjs-editor-resizer-middle-right =
-    .aria-label = Sredina desno — promijenite veličinu
+    .aria-label = Sredina desno – promijeni veličinu
 pdfjs-editor-resizer-bottom-right =
-    .aria-label = Donji desni kut — promijenite veličinu
+    .aria-label = Donji desni kut – promijeni veličinu
 pdfjs-editor-resizer-bottom-middle =
-    .aria-label = Dolje sredina — promjenite veličinu
+    .aria-label = Sredina dolje – promjeni veličinu
 pdfjs-editor-resizer-bottom-left =
-    .aria-label = Donji lijevi kut — promijenite veličinu
+    .aria-label = Donji lijevi kut – promijeni veličinu
 pdfjs-editor-resizer-middle-left =
-    .aria-label = Sredina lijevo — promijenite veličinu
+    .aria-label = Sredina lijevo – promijeni veličinu
 
 ## Color picker
 
