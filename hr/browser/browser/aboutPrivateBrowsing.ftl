@@ -65,9 +65,9 @@ about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijest
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Vidite manje zahtjeva za kolačiće!
-about-private-browsing-cookie-banners-promo-button = Smanjite pojavljivanje dijaloga kolačića
-about-private-browsing-cookie-banners-promo-message = Dopusti { -brand-short-name }u da automatski odgovara na skočne prozore kolačića tako da se možeš vratiti pregledavanju bez ometanja. Ako je moguće, { -brand-short-name } će odbiti sve zahtjeve.
+about-private-browsing-cookie-banners-promo-header = Vidi manje dijaloga kolačića!
+about-private-browsing-cookie-banners-promo-button = Smanji broj pojavljivanja dijaloga kolačića
+about-private-browsing-cookie-banners-promo-message = Dopusti da { -brand-short-name } automatski odgovara na skočne prozore kolačića tako da se možeš vratiti na pregledavanje bez ometanja. Ako je moguće, { -brand-short-name } će odbiti sve zahtjeve.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se brine za skočne prozore kolačića umjesto vas
