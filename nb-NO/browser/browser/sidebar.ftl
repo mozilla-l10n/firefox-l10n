@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI-chatbot
 
 ## Labels for sidebar history panel
 
@@ -17,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Slett fra historikk
+sidebar-history-sort-by-date =
+    .label = Sorter etter dato
+sidebar-history-sort-by-site =
+    .label = Sorter etter nettsted
+sidebar-history-clear =
+    .label = Tøm historikk
 
 ## Labels for sidebar search
 
@@ -57,9 +65,24 @@ sidebar-context-menu-remove-extension =
     .label = Fjern utvidelse
 sidebar-context-menu-report-extension =
     .label = Rapporter utvidelse
+sidebar-context-menu-open-in-window =
+    .label = Åpne i nytt vindu
+sidebar-context-menu-open-in-private-window =
+    .label = Åpne i nytt privat vindu
+sidebar-context-menu-bookmark-tab =
+    .label = Bokmerk fane…
+sidebar-context-menu-copy-link =
+    .label = Kopier lenke
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Slett fra historikk
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI-chatbot
 sidebar-menu-history-label =
     .label = Historikk
 sidebar-menu-synced-tabs-label =
