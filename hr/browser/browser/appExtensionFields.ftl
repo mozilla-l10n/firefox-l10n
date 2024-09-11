@@ -21,7 +21,7 @@ extension-firefox-alpenglow-description = Koristi šareni izgled tipki, izbornik
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
-extension-colorways-soft-name = { $colorway-name } – Slabo
+extension-colorways-soft-name = { $colorway-name } – Delikatno
 extension-colorways-balanced-name = { $colorway-name } – Uravnoteženo
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
