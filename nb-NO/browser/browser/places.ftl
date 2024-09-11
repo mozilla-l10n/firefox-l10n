@@ -9,7 +9,7 @@ places-open-in-tab =
     .label = Åpne i ny fane
     .accesskey = n
 places-open-in-container-tab =
-    .label = Åpne i ny innholdsfane
+    .label = Åpne i ny beholderfane
     .accesskey = n
 places-open-all-bookmarks =
     .label = Åpne alle bokmerker
@@ -98,7 +98,7 @@ places-delete-page =
            *[other] Slett sidene
         }
     .accesskey = S
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerker
 # This label is used when a managed bookmarks folder doesn't have a name.

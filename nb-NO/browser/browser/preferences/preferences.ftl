@@ -98,7 +98,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillingen.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> krever innholdsfaner.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> krever beholderfaner.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillingen.
@@ -174,13 +174,13 @@ show-tabs-in-taskbar =
     .label = Vis forhåndsvisning av faner i Windows-oppgavelinjen
     .accesskey = s
 browser-containers-enabled =
-    .label = Aktiver innholdsfaner
+    .label = Aktiver beholderfaner
     .accesskey = k
 browser-containers-learn-more = Les mer
 browser-containers-settings =
     .label = Innstillinger …
     .accesskey = I
-containers-disable-alert-title = Lukk alle innholdsfaner?
+containers-disable-alert-title = Lukk alle beholderfaner?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs

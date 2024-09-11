@@ -6,7 +6,7 @@
 all-tabs-menu-search-tabs =
     .label = Søk i faner
 all-tabs-menu-new-user-context =
-    .label = Ny innholdsfane
+    .label = Ny beholderfane
 all-tabs-menu-hidden-tabs =
     .label = Skjulte faner
 all-tabs-menu-manage-user-context =
