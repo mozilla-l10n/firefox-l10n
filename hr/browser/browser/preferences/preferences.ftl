@@ -1073,16 +1073,16 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Smanjivanje pojavljivanja dijaloga kolačića
-cookie-banner-handling-description = { -brand-short-name } pokušava automatski odbiti zahtjeve za kolačićima na podržanim stranicama.
+cookie-banner-handling-header = Smanjenje broja dijaloga kolačića
+cookie-banner-handling-description = { -brand-short-name } pokušava automatski odbiti dijaloge kolačića na podržanim stranicama.
 
 ## Privacy Section - Cookie Banner Blocking
 
-cookie-banner-blocker-header = Blokiranje pojavljivanja dijaloga kolačića
+cookie-banner-blocker-header = Blokiranje dijaloga kolačića
 cookie-banner-blocker-description = Kada web stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } automatski odbija umjesto tebe. Samo na podržanim stranicama.
 cookie-banner-learn-more = Saznajte više
 forms-handle-cookie-banners =
-    .label = Smanjite pojavljivanje dijaloga kolačića
+    .label = Smanji broj pojavljivanja dijaloga kolačića
 cookie-banner-blocker-checkbox-label =
     .label = Automatski odbij dijaloge kolačića
 

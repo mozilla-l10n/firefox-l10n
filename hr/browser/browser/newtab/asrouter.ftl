@@ -202,13 +202,13 @@ colorways-cfr-header-today = Koloriti „Neovisni glasovi” isteču danas
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Dopustiti da { -brand-short-name } odbije natpise kolačića?
-cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge zahtjeve za natpise kolačića.
-cfr-cbh-confirm-button = Odbij natpise kolačića
+cfr-cbh-header = Dopustiti da { -brand-short-name } odbije dijaloge kolačića?
+cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge dijaloge kolačića.
+cfr-cbh-confirm-button = Odbij dijaloge kolačića
     .accesskey = O
 cfr-cbh-dismiss-button = Ne sada
     .accesskey = N
-cookie-banner-blocker-onboarding-header = { -brand-short-name } je za tebe upravo odbio natpis kolačića
+cookie-banner-blocker-onboarding-header = { -brand-short-name } je za tebe upravo odbio jedan dijalog kolačića
 cookie-banner-blocker-onboarding-body = Manje ometanja, manje kolačića koji te prate na ovoj stranici.
 cookie-banner-blocker-onboarding-learn-more = Saznaj više
 
