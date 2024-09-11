@@ -1366,6 +1366,8 @@ httpsonly-radio-enabled-pbm2 =
     .label = نجی ونڈوز وچ صرف HTTPS ورتو
 httpsonly-radio-disabled =
     .label = HTTPS-Only Mode فعال نہ کرو
+httpsonly-radio-disabled2 =
+    .label = پہلے ایچ ٹی ٹی پی ایس دی کوشش کرو، پر انہاں کنکشناں دی اجازت ݙیوو جہڑے محفوظ کائنی۔
 
 ## DoH Section
 
