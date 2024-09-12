@@ -105,22 +105,92 @@ firefoxview-synced-tabs-header = अन्य यन्त्रमा भएक
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = सबै हेर्नुहोस्
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = विन्डो { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = विन्डो { $winID } (वर्तमान)
+firefoxview-opentabs-focus-tab =
+    .title = यो ट्याबमा स्विच गर्नुहोस्
+firefoxview-show-more = थप देखाउनुहोस्
+firefoxview-show-less = कम देखाउनुहोस्
+firefoxview-show-all = सबै देखाउनुहोस्
+firefoxview-search-text-box-clear-button =
+    .title = मेटाउनुहोस्
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = खोजी गर्नुहोस्
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = इतिहास खोज्नुहोस्
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = हालै बन्द गरिएका ट्याबहरू खोज्नुहोस्
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = सिंक गरिएका ट्याबहरू खोज्नुहोस्
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = खुला ट्याबहरू खोज्नुहोस्
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }” को लागि खोजिएको परिणामहरू
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { NUMBER($count) ->
+        [one] { $count } साइट
+       *[other] { $count } साइटहरू
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = "{ $query }" को लागि कुनै परिणाम छैन
+firefoxview-sort-history-by-date-label = मितिअनुसार क्रमबद्ध गर्नुहोस्
+firefoxview-sort-history-by-site-label = साइट द्वारा क्रमबद्ध गर्नुहोस्
+firefoxview-sort-open-tabs-by-recency-label = हालको गतिविधि अनुसार क्रमबद्ध गर्नुहोस्
+firefoxview-sort-open-tabs-by-order-label = ट्याब अनुसार क्रमबद्ध गर्नुहोस्
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url } मा स्विच गर्नुहोस्
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = आज - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = हिजो - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (स्थानीय फाइलहरू)
 
 ##
 
+firefoxview-show-all-history = सबै इतिहास देखाउनुहोस्
+firefoxview-view-more-browsing-history = ब्राउजिङ्ग इतिहास खाली गर्नुहोस्
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = तपाईं जहाँ हुनुहुन्थ्यो त्यहाँ फर्कनुहोस्
+firefoxview-history-empty-description = तपाईं ब्राउज गर्दा, तपाईंले भ्रमण गरेका पृष्ठहरू यहाँ सूचीमा आउनेछन्।
+firefoxview-history-empty-description-two = तपाईंको गोपनीयता सुरक्षित राख्नु हाम्रो मुख्य काम हो। त्यसैले तपाईंले आफ्नो <a data-l10n-name="history-settings-url">इतिहास सेटिङ</a>मा { -brand-short-name }ले सम्झने गतिविधिहरू आफैं नियन्त्रण गर्न सक्नुहुन्छ।
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ब्राउजर छान्नुहोस्
+    .title = ब्राउजर छान्नुहोस्
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = देखाउन को लागी केहि छैन
 
 ##
 
