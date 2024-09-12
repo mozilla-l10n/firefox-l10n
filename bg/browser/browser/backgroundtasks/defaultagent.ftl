@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = Услугата „Default Browser Agent“ проверява дали четецът по подразбиране { -brand-short-name } ще бъде заменен от друг. Ако това се случи при подозрителни обстоятелства, най-много два пъти ще бъде изведено запитване към потребителя дали да върне { -brand-short-name } като подразбиран четец. Услугата се инсталира автоматично от { -brand-short-name } и се инсталира всеки път при обновяването му. За да я изключите променете настройката „default-browser-agent.enabled“ в страницата на about:config или чрез ведомственото ограничение „DisableDefaultBrowserAgent“ на четеца.
+default-browser-notification-header-text = Ще продължавате ли да използвате { -brand-short-name }?
 default-browser-notification-body-text = Вашият стандартен браузър наскоро беше променен. Докоснете, за да възстановите { -brand-short-name } по подразбиране.
 default-browser-notification-yes-button-text = Да
 default-browser-notification-no-button-text = Не

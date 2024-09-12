@@ -187,6 +187,7 @@ mr2022-onboarding-existing-pin-header = Благодарим ви, че обич
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Задаване на { -brand-short-name } като браузър по подразбиране
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page

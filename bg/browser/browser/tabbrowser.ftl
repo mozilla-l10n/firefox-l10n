@@ -96,6 +96,7 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = Изход от { -brand-short-name }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -111,9 +112,15 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Предупреждаване,
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Навигация с каретка
+tabbrowser-confirm-caretbrowsing-message = Натискането на F7 включва и изключва Навигацията с каретка. Тази възможност поставя подвижен курсор в страниците, позволявайки избирането на текст с клавиатура. Искате ли да включите този режим?
+tabbrowser-confirm-caretbrowsing-checkbox = Да не се показва този диалогов прозорец отново.
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = Внимание!
+tabbrowser-confirm-close-duplicate-tabs-text = Ще държим отворен последния активен раздел
+tabbrowser-confirm-close-all-duplicate-tabs-title = Да се затварят ли дублиращите се раздели?
 
 ##
 
