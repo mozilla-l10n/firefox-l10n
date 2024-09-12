@@ -121,6 +121,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Да не се показва тоз
 tabbrowser-confirm-close-duplicate-tabs-title = Внимание!
 tabbrowser-confirm-close-duplicate-tabs-text = Ще държим отворен последния активен раздел
 tabbrowser-confirm-close-all-duplicate-tabs-title = Да се затварят ли дублиращите се раздели?
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Затваряне на разделите
 
 ##
 
