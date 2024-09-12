@@ -152,6 +152,7 @@ shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una com
 
 more-to-consider-ad-label =
     .label = Más para considerar
+shopping-sponsored-label = Patrocinado
 
 ## Shopping survey strings.
 
