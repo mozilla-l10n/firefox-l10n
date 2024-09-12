@@ -551,6 +551,8 @@ urlbar-go-button =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
 urlbar-page-action-button =
     .tooltiptext = पृष्ठ कार्यहरु
+urlbar-revert-button =
+    .tooltiptext = लोकेशन बारमा ठेगाना देखाउनुहोस्
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
