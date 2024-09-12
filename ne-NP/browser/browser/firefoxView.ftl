@@ -57,21 +57,54 @@ firefoxview-tabpickup-network-offline-primarybutton = पुन: प्रया
 firefoxview-tabpickup-sync-error-header = हामीलाई सिंक गर्न समस्या भइरहेको छ
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } अहिले सिङ्क गर्ने सेवामा पहुँच गर्न सकिरहेको छैन। केही समयपछि पुन: प्रयास गर्नुहोस्।
 firefoxview-tabpickup-sync-error-primarybutton = पुन: प्रयास गर्नुहोस्
+firefoxview-tabpickup-sync-disconnected-header = अगाडी बढ्न सिंक गर्ने सुविधा अन गर्नुहोस्
+firefoxview-tabpickup-sync-disconnected-description = तपाईंको ट्याबहरू पाउन, तपाईंले { -brand-short-name } मा सिंक गर्ने अनुमति दिनुपर्छ।
+firefoxview-change-colorway-button = colorway परिवर्तन गर्नुहोस्
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = हालसम्म हेर्नको लागि केही छैन।
+firefoxview-synced-tabs-placeholder-body = अर्को पटक जब तपाईं अर्को यन्त्रमा { -brand-product-name } मा कुनै पृष्ठ खोल्नुहुन्छ, त्यसलाई यहाँ जादुमय रूपमा लिनुहोस्।
+firefoxview-collapse-button-show =
+    .title = सूची देखाउनुहोस्
+firefoxview-collapse-button-hide =
+    .title = सूची लुकाउनुहोस्
+firefoxview-overview-nav = हालैको ब्राउजिङ
+    .title = हालैको ब्राउजिङ
+firefoxview-overview-header = हालैको ब्राउजिङ
+    .title = हालैको ब्राउजिङ
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = इतिहास
+    .title = इतिहास
+firefoxview-history-header = इतिहास
+firefoxview-history-context-delete = इतिहासबाट मेटाउनुहोस्
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = खुला ट्याबहरू
+    .title = खुला ट्याबहरू
+firefoxview-opentabs-header = खुला ट्याबहरू
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = भर्खरै बन्द गरिएका ट्याबहरु
+    .title = भर्खरै बन्द गरिएका ट्याबहरु
+firefoxview-recently-closed-header = भर्खरै बन्द गरिएका ट्याबहरु
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = अन्य यन्त्रमा भएका टयाबहरू
+    .title = अन्य यन्त्रमा भएका टयाबहरू
+firefoxview-synced-tabs-header = अन्य यन्त्रमा भएका टयाबहरू
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = सबै हेर्नुहोस्
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
