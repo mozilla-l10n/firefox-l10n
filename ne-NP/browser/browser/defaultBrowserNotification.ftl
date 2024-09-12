@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } लाई आफ्नो प्राथमिक ब्राउजर बनाउने हो?
 default-browser-prompt-message-pin = { -brand-short-name } लाई आफ्नो औंलाको छेउमा राख्नुहोस् — यसलाई आफ्नो पूर्वनिर्धारित ब्राउजर बनाउनुहोस् र यसलाई आफ्नो टास्कबारमा पिन गर्नुहोस्।
+default-browser-prompt-message-pin-msix = { -brand-short-name } लाई आफ्नो नजिकै राखौं — यसलाई आफ्नो मुख्य ब्राउजर बनाउ र यसलाई आफ्नो टास्कबार र स्टार्ट मेनुमा पिन गरौं।
 default-browser-prompt-message-pin-mac = आफ्नो औंलाको छेउमा { -brand-short-name } राख्नुहोस् — यसलाई आफ्नो पूर्वनिर्धारित ब्राउजर बनाउनुहोस् र यसलाई आफ्नो डकमा राख्नुहोस्।
+default-browser-prompt-button-primary-set = मुख्य ब्राउजरको रूपमा सेट गर्नुहोस्
 default-browser-prompt-button-primary-pin = प्राथमिक ब्राउजर बनाउनुहोस्
 default-browser-prompt-title-alt = { -brand-short-name } लाई आफ्नो पूर्वनिर्धारित ब्राउजर बनाउने हो?
 default-browser-prompt-message-alt = प्रत्येक पटक ब्राउज गर्दा गति, सुरक्षा र गोपनीयता प्राप्त गर्नुहोस्।
