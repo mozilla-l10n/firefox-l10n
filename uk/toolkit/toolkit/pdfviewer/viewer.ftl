@@ -444,6 +444,12 @@ pdfjs-editor-new-alt-text-not-now-button = Не зараз
 pdfjs-editor-new-alt-text-error-title = Не вдалося автоматично створити альтернативний текст
 pdfjs-editor-new-alt-text-error-description = Напишіть власний альтернативний текст або повторіть спробу пізніше.
 pdfjs-editor-new-alt-text-error-close-button = Закрити
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Завантаження моделі ШІ для альтернативного тексту ({ $downloadedSize } з { $totalSize } МБ)
+    .aria-valuetext = Завантаження моделі ШІ для альтернативного тексту ({ $downloadedSize } з { $totalSize } МБ)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Альтернативний текст додано
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -463,8 +469,15 @@ pdfjs-image-alt-text-settings-button-label = Налаштування альте
 pdfjs-editor-alt-text-settings-dialog-label = Налаштування альтернативного тексту зображення
 pdfjs-editor-alt-text-settings-automatic-title = Автоматичний альтернативний текст
 pdfjs-editor-alt-text-settings-create-model-button-label = Автоматично створювати альтернативний текст
+pdfjs-editor-alt-text-settings-create-model-description = Пропонує описи, щоб допомогти людям, які не бачать зображення, або якщо зображення не завантажується.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Модель ШІ для альтернативного тексту ({ $totalSize } МБ)
+pdfjs-editor-alt-text-settings-ai-model-description = Працює локально на вашому пристрої, тому приватність ваших даних захищена. Призначена для автоматичного створення альтернативного тексту.
 pdfjs-editor-alt-text-settings-delete-model-button = Видалити
 pdfjs-editor-alt-text-settings-download-model-button = Завантажити
 pdfjs-editor-alt-text-settings-downloading-model-button = Завантаження…
 pdfjs-editor-alt-text-settings-editor-title = Редактор альтернативного тексту
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Показувати редактор альтернативного тексту під час додавання зображення
+pdfjs-editor-alt-text-settings-show-dialog-description = Допомагає переконатися, що всі ваші зображення мають альтернативний текст.
 pdfjs-editor-alt-text-settings-close-button = Закрити
