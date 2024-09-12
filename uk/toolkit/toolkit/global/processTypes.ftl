@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Вебвміст
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Попередньо зарезервовано
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Основний
 process-type-tab = Вкладка
@@ -41,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Сокет
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Вивід
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC Actor в пісочниці
 process-type-utility-actor-audio-decoder-generic = Утиліта Generic Audio Decoder
@@ -53,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Утиліта Windows File Dia
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Невідомий

@@ -46,14 +46,25 @@ experimental-features-js-warp-description = Увімкнути Warp - проєк
 experimental-features-ime-search =
     .label = Панель адреси: показувати результати під час складання IME
 experimental-features-ime-search-description = IME (редактор методу введення) – це засіб, який дозволяє вводити складні символи, як-от такі, що використовуються у східноазійських або індійських писемних мовах, за допомогою стандартної клавіатури. Увімкнення цього експерименту залишатиме панель адреси відкритою, показуючи результати пошуку та пропозиції, одночасно використовуючи IME для введення тексту. Зверніть увагу, що IME може показувати панель, яка перекриває результати панелі адреси, тому це налаштування пропонується лише для IME, який не використовує цей тип панелі.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Зображення в зображенні: автоматично відкривати під час перемикання вкладок
+experimental-features-auto-pip-description = Вмикати функцію "Зображення в зображенні" для активних відео під час перемикання вкладок.
+genai-settings-chat-title =
+    .label = Чат-бот з ШІ
 # Updated sidebar settings
 sidebar-title =
     .label = Бічна панель
+sidebar-description = Легко отримуйте доступ до своєї історії, вкладок з інших пристроїв, розширень бічної панелі та інших даних під час перегляду. <a data-l10n-name="connect">Поділіться відгуком</a>
 vertical-tabs-title =
     .label = Вертикальні вкладки
+vertical-tabs-description = Перемістіть вкладки з верхньої до бічної частини браузера. Для цього також необхідно випробувати роботу з бічною панеллю. <a data-l10n-name="connect">Поділіться відгуком</a>
 experimental-features-group-browsing =
     .label = Перегляд сайтів
 experimental-features-group-developer-tools =
     .label = Інструменти розробника
+experimental-features-group-webpage-display =
+    .label = Подання вебсторінки
 experimental-features-group-customize-browsing =
     .label = Налаштуйте свій перегляд
+experimental-features-group-customize-browsing-description = Якщо ви спробуєте ці функції, <a data-l10n-name="connect">поділіться своїми враженнями на Connect</a>
