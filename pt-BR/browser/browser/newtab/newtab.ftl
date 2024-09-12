@@ -291,7 +291,7 @@ newtab-custom-settings = Gerenciar mais configurações
 
 ## New Tab Wallpapers
 
-newtab-wallpaper-title = Imagens de fundo
+newtab-wallpaper-title = Fundo de tela
 newtab-wallpaper-reset = Restaurar padrão
 newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha branca
