@@ -18,7 +18,7 @@ genai-settings-chat-huggingchat-links = Ao escolher o HuggingChat, você concord
 genai-settings-chat-lechat-links = Ao escolher o Le Chat Mistral, você concorda com os <a data-l10n-name="link1">termos do serviço</a> e a <a data-l10n-name="link2">Política de privacidade</a> da Mistral AI .
 genai-settings-chat-localhost-links = Traga seu próprio chatbot local privativo, como o <a data-l10n-name="link1">llamafile</a> do grupo de inovação da { -vendor-short-name }.
 genai-settings-chat-shortcuts =
-    .description = Exibe um atalho para consultas quando você seleciona texto. O { -brand-short-name } envia o texto, o título da página e consulta o chatbot.
+    .description = Exibir um atalho para consultas quando você selecionar texto. O { -brand-short-name } envia o texto, o título da página e a consulta para o chatbot.
     .label = Mostrar consultas ao selecionar texto
 
 ## Chatbot prompts
