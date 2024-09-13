@@ -87,6 +87,7 @@ inactive-css-not-inline-or-tablecell-fix = Provoni të shtoni <strong>display:in
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provoni të shtoni <strong>display:inline-block</strong> ose <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provoni të shtoni <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Provoni të hiqni <strong>float</strong> ose të shtoni <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Provoni të ndryshoni vlerën e <strong>display</strong> të kontejnerit të elementit në diçka tjetër nga <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, apo <strong>inline-grid</strong>, ose të hiqni <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Provoni të shtoni veti të tilla si <strong>display:block</strong>, ose <strong>float:left</strong>. { learn-more }
 inactive-css-not-floated-fix = Provoni të shtoni vetinë <strong>float</strong> me një vlerë tjetër nga <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provoni të ujdisni vetinë e tij <strong>position</strong> si diçka tjetër nga <strong>static</strong>. { learn-more }
