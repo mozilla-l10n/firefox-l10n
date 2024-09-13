@@ -39,6 +39,7 @@ policy-DisableAppUpdate = براؤزر کوں اپڈیٹ تھیوݨ کنوں ر�
 policy-DisableBuiltinPDFViewer = PDF.js کوں غیر فعال کرو، جیڑھا { -brand-short-name } وِچ پہلے کنوں بݨیا PDF ویور ہے۔
 policy-DisableDefaultBrowserAgent = ڈیفالٹ براؤزر ایجنٹ کوں کوئی وی کارروائی کرݨ کنوں روکو۔ صرف ونڈوز تے لاگو؛ ٻئے پلیٹ فارمز وِچ ایجنٹ کائنی۔
 policy-DisableDeveloperTools = ڈویلپر ٹولز تک رسائی کوں مسدود کرو۔
+policy-DisableEncryptedClientHello = ٹی ایل ایس خصوصیت خفیہ کردہ کلائنٹ ہیلو (ای سی ایچ) دے ورتݨ کوں غیر فعال کرو۔
 policy-DisableFeedbackCommands = ہیلپ مینو کنوں تاثرات بھیڄݨ کیتے کمانڈز کوں غیر فعال کرو (فیڈ بیک جمع کرواؤ تے فریب ݙیوݨ والی سائٹ دی اطلاع ݙیو)۔
 policy-DisableFirefoxAccounts = سنک سمیت { -fxaccount-brand-name } تے مبنی خدمات کوں غیر فعال بݨاؤ۔
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
