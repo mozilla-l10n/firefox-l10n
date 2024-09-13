@@ -23,7 +23,7 @@ styleeditor-options-button =
 styleeditor-at-rules = Rregulla me @
 styleeditor-editor-textbox =
     .data-placeholder = Jepeni CSS-në këtu.
-styleeditor-no-stylesheet = Kjo faqe nuk fletë stili.
+styleeditor-no-stylesheet = Kjo faqe s’ka fletë stili.
 styleeditor-no-stylesheet-tip = Ndoshta do të donit të <a data-l10n-name="append-new-stylesheet">ngjitnit në fletë stili të ri</a>?
 styleeditor-open-link-new-tab =
     .label = Hape Lidhjen në Skedë të Re
