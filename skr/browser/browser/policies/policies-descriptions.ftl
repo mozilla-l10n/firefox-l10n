@@ -84,6 +84,7 @@ policy-Handlers = ڈیفالٹ ایپلیکیشن ہینڈلرز کوں ترتی
 policy-HardwareAcceleration = جے غلط ہووے تاں ہارڈویئر ایکسلریشن کوں بند کر ݙیو۔
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ہوم پیج کوں سیٹ کرو تے اختیاری طور تے لاک کرو۔
+policy-HttpAllowlist = اصل جہڑے ایچ ٹی ٹی پی ایس تے اپ گریڈ کائناں کیتے ویسن۔
 policy-HttpsOnlyMode = صرف ایچ ٹی ٹی پی ایس موڈ کوں فعال کرݨ دی اجازت ݙیوو۔
 policy-InstallAddonsPermission = کجھ ویب سائٹس کوں ایڈ آنز انسٹال کرݨ دی اجازت ݙیو۔
 policy-LegacyProfiles = ہر تنصیب کیتے علیحدہ پروفائل نافذ کرݨ  والی خصوصیت کوں غیر فعال کرو۔

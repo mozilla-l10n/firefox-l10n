@@ -1311,6 +1311,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = ویب سائٹ مشہوری ترجیحاں
+website-advertising-private-attribution =
+    .label = ویب سائٹاں کوں رازداری دے تحفظ تے پیمائش کرݨ دی اجازت ݙیوو
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
