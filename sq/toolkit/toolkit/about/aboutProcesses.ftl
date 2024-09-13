@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Hiqe ngarkimin e skedave dhe asgjësoje procesin
+about-processes-kill-process =
+    .title = Asgjësoje procesin
 about-processes-shutdown-tab =
     .title = Mbylleni skedën
 # Profiler icons
