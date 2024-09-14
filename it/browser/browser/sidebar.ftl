@@ -76,6 +76,10 @@ sidebar-context-menu-bookmark-tab =
   .label = Aggiungi scheda ai segnalibri…
 sidebar-context-menu-copy-link =
   .label = Copia link
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+  .label = Chiudi scheda su { $deviceName }
 
 ## Labels for sidebar history context menu items
 
