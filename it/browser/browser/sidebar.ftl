@@ -103,3 +103,12 @@ sidebar-menu-history-header =
   .heading = Cronologia
 sidebar-menu-syncedtabs-header =
   .heading = Schede da altri dispositivi
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Chiudi scheda su { $deviceName }
