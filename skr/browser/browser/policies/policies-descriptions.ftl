@@ -110,6 +110,9 @@ policy-OverrideFirstRunPage = پہلے رن پیج کوں اوور رائیڈ ک
 policy-OverridePostUpdatePage = پوسٹ اپ ڈیٹ "نواں کیا ہے" ورقہ کوں اوور رائیڈ کرو۔ جے تساں پوسٹ اپ ڈیٹ ورقہ کوں غیر فعال کرݨ چاہندے او تاں ایں پالیسی کوں خالی تے سیٹ کرو۔
 policy-PasswordManagerEnabled = پاس ورڈ مینیجر وِچ پاس ورڈ محفوظ کرݨ کوں فعال کرو۔
 policy-PasswordManagerExceptions = { -brand-short-name } کوں مخصوص سائٹس دے پاس ورڈ ہتھیکڑا کرݨ کنوں روکو۔
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = ٹی ایل ایس کیتے پوسٹ کوانٹم اہم معاہدے کوں فعال کرو۔
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js کوں غیر فعال یا ترتیب ݙیو، جیڑھا جو { -brand-short-name } وِچ بلٹ ان پی ڈی ایف ویور ہے۔
 policy-Permissions2 = کیمرے، مائیکروفون، مقام، اطلاعات تے آٹو پلے کیتے اجازتاں ترتیب ݙیو۔
