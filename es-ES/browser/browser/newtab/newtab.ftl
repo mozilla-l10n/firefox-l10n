@@ -424,3 +424,6 @@ newtab-topic-selection-subtitle = Elija dos o más temas. Nuestros expertos prio
 newtab-topic-selection-save-button = Guardar
 newtab-topic-selection-cancel-button = Cancelar
 newtab-topic-selection-button-maybe-later = Quizá más tarde
+newtab-topic-selection-privacy-link = Descubra cómo protegemos y gestionamos los datos
+newtab-topic-selection-button-update-interests = Actualice sus intereses
+newtab-topic-selection-button-pick-interests = Elija sus intereses
