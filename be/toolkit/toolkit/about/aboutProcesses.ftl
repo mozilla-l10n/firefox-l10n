@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Выгрузіць карткі і забіць працэс
+about-processes-kill-process =
+    .title = Забіць працэс
 about-processes-shutdown-tab =
     .title = Закрыць картку
 # Profiler icons
