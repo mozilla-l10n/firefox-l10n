@@ -89,6 +89,9 @@ shopping-show-less-button = Паказаць менш
 
 shopping-settings-label =
     .label = Налады
+shopping-settings-recommendations-toggle2 =
+    .label = Паказаць рэкамендацыі і спонсарскае змесціва
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } не абагульвае вашы асабістыя звесткі, таму гэтыя рэкамендацыі не будуць ісці за вамі па інтэрнэце. <a data-l10n-name="review-quality-url">Падрабязней</a>
 shopping-settings-recommendations-toggle =
     .label = Паказваць рэкламу ў сродку праверкі водгукаў
 shopping-settings-recommendations-learn-more2 = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Мы рэкламуем толькі прадукты з надзейнымі водгукамі. <a data-l10n-name="review-quality-url">Падрабязней</a>
@@ -164,6 +167,7 @@ shopping-unanalyzed-product-analyze-button = Праверыць якасць в�
 
 more-to-consider-ad-label =
     .label = Што яшчэ варта разгледзець
+shopping-sponsored-label = Спонсарскі
 ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
 
 ## Shopping survey strings.
