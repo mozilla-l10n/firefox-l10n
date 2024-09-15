@@ -52,3 +52,11 @@ genai-prompt-prefix-selection = Estoy en la página “{ $tabTitle }” con “{
 
 genai-menu-ask-generic =
     .label = Preguntar al chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Preguntar a { $provider }
+genai-input-ask-generic =
+    .placeholder = Preguntar al chatbot IA…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Preguntar a { $provider }…
