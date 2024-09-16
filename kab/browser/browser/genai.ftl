@@ -21,3 +21,6 @@ genai-settings-chat-choose-one-menuitem =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ssuter { $provider }
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Ssuter { $provider }…

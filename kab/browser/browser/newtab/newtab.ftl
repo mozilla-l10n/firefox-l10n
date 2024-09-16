@@ -293,6 +293,7 @@ newtab-wallpaper-yellow = Awraɣ
 newtab-wallpaper-orange = Ačinawi
 newtab-wallpaper-pink = Axuxi
 newtab-wallpaper-red = Azggaɣ
+newtab-wallpaper-dark-blue = Amidadi iḥemqen
 
 ## Abstract
 
