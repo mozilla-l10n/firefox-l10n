@@ -2,9 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = บอตสนทนา AI
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = วันนี้ - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = เมื่อวาน - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ลบออกจากประวัติ
 sidebar-history-sort-by-date =
@@ -70,7 +82,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = บอทสนทนา AI
+    .label = บอตสนทนา AI
 sidebar-menu-history-label =
     .label = ประวัติ
 sidebar-menu-synced-tabs-label =
