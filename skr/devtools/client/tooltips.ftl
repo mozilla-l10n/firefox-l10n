@@ -41,6 +41,8 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> دا �
 inactive-css-not-display-block-on-floated = انجݨ دے ذریعہ <strong>ڈسپلے</strong> دی قدر کوں <strong>بلاک</strong> وِچ تبدیل کر ݙتا ڳیا ہے کیوں جو عنصر <strong>فلوٹ</strong> ہے۔
 inactive-css-not-display-block-on-floated-2 = انجݨ دے ذریعہ <strong>ڈسپلے</strong> دی قدر کوں <strong>{ $display }</strong> وِچ تبدیل کر ݙتا ڳیا ہے کیوں جو عنصر <strong>فلوٹ</strong> ہے۔
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ گرڈ یا فلیکس آئٹماں تے  کائنی ورتیج سڳدی۔
+inactive-css-not-block = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا کیوں جو ایہ صرف بلاک لیول دے عناصر تے لاگو تھیندا ہے۔
+inactive-css-not-floated = <strong>{ $property }</strong> دا کوئی اثر کائنی کیوں جو ایہ صرف تردے ہوئے عناصر تے لاگو تھیندا ہے۔
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> پابندی سی وجہ توں <strong>{ $property }</strong> کوں اوور رائڈ کرݨ ناممکن ہے۔
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا کیوں جو ایہ پوزیشن شدہ عنصر کائنی۔
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو <strong>overflow:hidden</strong> سیٹ کائنی۔
