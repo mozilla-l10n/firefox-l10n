@@ -9,9 +9,10 @@ genai-settings-chat-choose = چیٹ بوٹ چݨو
 genai-settings-chat-choose-one-menuitem =
     .label = ہک چݨو
 genai-settings-chat-links = جہڑے ویلے تساں چیٹ بوٹ چݨدے ہو، تساں فراہم کنندہ دی ورتݨ شرطاں تے رازداری پالسی نال متفق ہوندے ہو۔
-genai-settings-chat-chatgpt-links = چیٹ جی پی ٹی چُݨݨ نال تساں اوپن اے آئی دیاں <a data-l10n-name="link1">ورتݨ شرطاں</a> تے <a data-l10n-name="link2">رازداری پالیسی</a> نال متفق ہوندے ہو۔
+genai-settings-chat-chatgpt-links = چیٹ جی پی ٹی چُݨݨ نال تساں اوپن اے آئی دیاں <a data-l10n-name="link1">ورتݨ شرطاں</a> تے <a data-l10n-name="link2">رازداری پالیسی</a> نال متفق ہوسو۔
 genai-settings-chat-copilot-links = کوپائلٹ چُݨݨ نال تساں <a data-l10n-name="link1">کوپائلٹ اے آئی تجربے دیاں شرطاں</a> تے <a data-l10n-name="link2">مائیکروسافٹ رازداری پالیسی</a> نال متفق ہوسو۔
 genai-settings-chat-huggingchat-links = ہگنگ چیٹ چُݨݨ نال تساں  <a data-l10n-name="link1">ہگنگ چیٹ رازداری نوٹس</a> تے <a data-l10n-name="link2">ہگنگ فیس رازداری پالیسی</a> نال متفق ہوسو۔
+genai-settings-chat-lechat-links = لی چیٹ مسٹرل چُݨݨ نال تساں مسٹرل اے آئی دیاں <a data-l10n-name="link1">خدمت شرطاں</a> تے <a data-l10n-name="link2">رازداری پالیسی</a> نال متفق ہوسو۔
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
