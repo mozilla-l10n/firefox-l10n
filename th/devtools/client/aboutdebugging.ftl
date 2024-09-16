@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = เปิดใช้งาน
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = เปิดใช้งานการดีบั๊ก USB ในเมนูนักพัฒนา Android
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = เปิดใช้งานการถ่ายโอนไฟล์และตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณไม่ได้อยู่ในโหมดชาร์จอย่างเดียว
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = เปิดใช้งานการดีบั๊ก USB ใน Firefox ในอุปกรณ์ Android
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = เชื่อมต่ออุปกรณ์ Android กับคอมพิวเตอร์ของคุณ
