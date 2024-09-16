@@ -8,6 +8,7 @@
 genai-settings-chat-choose = چیٹ بوٹ چݨو
 genai-settings-chat-choose-one-menuitem =
     .label = ہک چݨو
+genai-settings-chat-links = جہڑے ویلے تساں چیٹ بوٹ چݨدے ہو، تساں فراہم کنندہ دی ورتݨ شرطاں تے رازداری پالسی نال متفق ہوندے ہو۔
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
