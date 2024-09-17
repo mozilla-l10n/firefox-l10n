@@ -23,21 +23,80 @@ sidebar-history-sort-by-date =
     .label = ਤਾਰੀਖ ਰਾਹੀਂ ਲੜੀਬੱਧ
 sidebar-history-sort-by-site =
     .label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
+sidebar-history-clear =
+    .label = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = “{ $query }” ਲਈ ਖੋਜ ਨਤੀਜੇ
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = ਾਹੀ ਇਕਸਟੈਨਸ਼ਨ
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } ਟੂਲ
+sidebar-customize-firefox-settings = { -brand-short-name } ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+sidebar-position-left =
+    .label = ਖੱਬੇ ਪਾਸੇ ਵੇਖਾਓ
+sidebar-position-right =
+    .label = ਸੱਜੇ ਪਾਸੇ ਵੇਖਾਓ
+sidebar-vertical-tabs =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+sidebar-horizontal-tabs =
+    .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
+sidebar-customize-tabs-header =
+    .label = ਟੈਬ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+sidebar-customize-settings-header =
+    .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+sidebar-visibility-always-show =
+    .label = ਹਮੇਸ਼ਾਂ ਵੇਖਾਓ
+sidebar-visibility-hide-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
+sidebar-context-menu-remove-extension =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਹਟਾਓ
+sidebar-context-menu-report-extension =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+sidebar-context-menu-open-in-window =
+    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+sidebar-context-menu-open-in-private-window =
+    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+sidebar-context-menu-bookmark-tab =
+    .label = …ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+sidebar-context-menu-copy-link =
+    .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI ਚੈਟਬੋਟ
+sidebar-menu-history-label =
+    .label = ਅਤੀਤ
+sidebar-menu-synced-tabs-label =
+    .label = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+sidebar-menu-bookmarks-label =
+    .label = ਬੁੱਕਮਾਰਕ
+sidebar-menu-customize-label =
+    .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+sidebar-menu-history-header =
+    .heading = ਅਤੀਤ
+sidebar-menu-syncedtabs-header =
+    .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
