@@ -351,3 +351,5 @@ newtab-topic-label-travel = Tirza
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = Sekles
+newtab-topic-selection-cancel-button = Sefsex
+newtab-topic-selection-button-maybe-later = Ahat ticki
