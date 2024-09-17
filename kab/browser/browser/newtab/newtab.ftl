@@ -294,6 +294,7 @@ newtab-wallpaper-orange = Ačinawi
 newtab-wallpaper-pink = Axuxi
 newtab-wallpaper-red = Azggaɣ
 newtab-wallpaper-dark-blue = Amidadi iḥemqen
+newtab-wallpaper-brown = Aqehwi
 
 ## Abstract
 
@@ -333,9 +334,20 @@ newtab-weather-menu-learn-more = Issin ugar
 
 ## Topic Labels
 
+newtab-topic-label-business = Amahil
+newtab-topic-label-education = Aselmed
+newtab-topic-label-food = Tuččit
+newtab-topic-label-health = Tazmert
+newtab-topic-label-hobbies = Uraren
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Tadrimt
+newtab-topic-label-education-science = Tussna
 newtab-topic-label-sports = Addal
 newtab-topic-label-tech = Tatiknulujit
 newtab-topic-label-travel = Tirza
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Sekles
