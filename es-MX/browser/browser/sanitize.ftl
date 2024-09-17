@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = Borrar datos de navegación y cookies
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Borrar el historial reciente
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Borrar todo el historial
     .style = min-width: 34em
 clear-data-settings-label = Cuando se cierre { -brand-short-name } debería automáticamente limpiar todo
+sanitize-on-shutdown-description = Borra automáticamente todos los elementos marcados cuando se cierre { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -58,9 +62,16 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historial
     .accesskey = H
+item-history-form-data-downloads-description = Borra el historial de sitios y descargas, información guardada de formularios y búsquedas.
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies y datos del sitio ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies y datos del sitio
     .accesskey = e

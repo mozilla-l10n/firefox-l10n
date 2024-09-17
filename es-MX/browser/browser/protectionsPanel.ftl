@@ -34,6 +34,14 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Protección mejorada contra el rastreo
+    .description = Activada para este sitio
+    .aria-label = Protección mejorada contra el rastreo: Activada para { $host }
+protections-panel-etp-toggle-off =
+    .label = Protección mejorada contra el rastreo
+    .description = Desactivada para este sitio
+    .aria-label = Protección mejorada contra el rastreo: Desactiva para { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -126,6 +134,10 @@ protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducci
 protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de banner de cookies para este sitio?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bloqueador de banners de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Desactivar el bloqueo de aviso de cookies para { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Activar el bloqueo de anuncios de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning =
     { -brand-short-name } borrará las cookies este sitios y actualizará la página.
     Borrar todas las cookies puede cerrar tu sesión o vaciar los carritos de compra.
@@ -133,6 +145,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Al activarlo { -brand-short-name } intentará rechazar automáticamente los avisos de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancelar
 protections-panel-cookie-banner-view-turn-off-label =
