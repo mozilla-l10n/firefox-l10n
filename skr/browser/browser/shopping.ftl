@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>نمونے</strong>پِچھوکڑ 80 ݙیہاڑیاں دے وِچ{ $retailer } جائزیاں وِچوں ہِن جِنّھاں کوں اَساں قابلِ بھرواسہ سمجھدے ہِسے۔
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>نمونے</strong>پِچھوکڑ 80 ݙیہاڑیاں دے وِچ جائزیاں وِچوں ہِن جِنّھاں کوں اَساں قابلِ بھرواسہ سمجھدے ہِسے۔
 shopping-analysis-explainer-review-grading-scale-reliable = قابلِ بھرواسہ جائزے۔ اَساں منین٘دے ہِسے جو جائزے ممکنہ طور تے اصلی ڳاہکاں دی طرفوں ہِن، جِنّھاں نے ایماندار، غیر جانبدارانہ جائزے چھوڑے ہِن۔
 shopping-analysis-explainer-review-grading-scale-mixed = اَساں منین٘دے ہِسے جو اِتّھاں قابلِ بھرواسہ اَتے نا قابلِ بھرواسہ جائزیاں دا مرکب ہِے۔
 shopping-analysis-explainer-review-grading-scale-unreliable = نا قابلِ بھرواسہ جائزے۔ اَساں منین٘دے ہِسے جو جائزے ممکنہ طور تے کُوڑے ہِن یا جانبدار تجزیہ کاراں دے ہِن۔
