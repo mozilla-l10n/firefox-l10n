@@ -72,10 +72,24 @@ translations-panel-translate-cancel =
     .label = Cancelar
 translations-panel-learn-more-link = Saber más
 translations-panel-intro-header = Prueba traducciones privadas en { -brand-shorter-name }
+translations-panel-intro-description = Para tu privacidad, las traducciones nunca salen de tu dispositivo. ¡Nuevos idiomas y mejoras próximamente!
+translations-panel-error-translating = Ha surgido un problema al traducir. Por favor inténtalo de nuevo.
+translations-panel-error-load-languages = No se pudieron cargar los idiomas
+translations-panel-error-load-languages-hint = Revisa tu conexión a internet e inténtalo de nuevo.
 translations-panel-error-load-languages-hint-button =
     .label = Intentar de nuevo
+translations-panel-error-unsupported = La traducción no está disponible para esta página
+translations-panel-error-dismiss-button =
+    .label = Entendido
 translations-panel-error-change-button =
     .label = Cambiar el idioma de origen
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Lo sentimos, todavía no admitimos { $language }.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to

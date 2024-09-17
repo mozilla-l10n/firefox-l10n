@@ -216,6 +216,17 @@ shopping-callout-opted-out-button = Entendido
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prueba nuestra guía confiable de reseñas de productos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Revisa qué tan confiables son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -brand-product-name }, está integrado en { -brand-product-name } y también funciona en <b>{ $secondSite }</b> y en <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Mira qué tan confiables son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -brand-product-name }, está integrada directamente en el navegador.
+shopping-onboarding-body = Usando el poder de { -fakespot-brand-full-name }, te ayudamos a evitar reseñas sesgadas y no auténticas. Nuestro modelo de IA siempre está mejorando para protegerte mientras compras. <a data-l10n-name="learn_more">Saber más</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Al seleccionar “{ shopping-onboarding-opt-in-button }“, aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -brand-product-name } y <a data-l10n-name="terms_of_use">los términos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sí, poner a prueba
 shopping-onboarding-not-now-button = Ahora no
