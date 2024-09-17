@@ -89,6 +89,9 @@ shopping-show-less-button = Mostrar menos
 
 shopping-settings-label =
     .label = Ajustes
+shopping-settings-recommendations-toggle2 =
+    .label = Mostrar recomendaciones y contenido patrocinado
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } no comparte tu información personal, así que estas recomendaciones no te seguirán por todo el internet. <a data-l10n-name="review-quality-url">Saber más</a>
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios en Review Checker
 shopping-settings-recommendations-learn-more2 = Verá anuncios ocasionales de productos relevantes. Solo anunciamos productos con reseñas confiables. <a data-l10n-name="review-quality-url">Más información</a>
@@ -134,11 +137,18 @@ shopping-analysis-explainer-learn-more2 = Obtén más información acerca de <a 
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Los <strong>puntos destacados</strong> provienen de reseñas de { $retailer } de los últimos 80 días que creemos que son confiables.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = Los <strong>destacados</strong> son de reseñas de los últimos 80 días que creemos que son confiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las reseñas probablemente provienen de clientes reales que dejaron reseñas honestas e imparciales.
 shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una combinación de reseñas confiables y no confiables.
+shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco confiables. Creemos que las reseñas probablemente sean falsas o provengan de revisores sesgados.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Abrir el verificador de reseñas
+shopping-sidebar-close-button2 =
+    .tooltiptext = Cerrar el verificador de reseñas
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -147,20 +157,27 @@ shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una com
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Aún no hay información sobre estas reseñas
+shopping-unanalyzed-product-message-2 = Para saber si las reseñas de este producto son confiables, verifica la calidad de las mismas. Solo te llevará unos 60 segundos.
+shopping-unanalyzed-product-analyze-button = Comprobar la calidad de la reseña
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Más para considerar
 shopping-sponsored-label = Patrocinado
+ad-by-fakespot = Anuncio de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ayuda a mejorar { -brand-product-name }
+shopping-survey-question-one = ¿Qué tan satisfecho estás con la experiencia del verificador de reseñas en { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Muy satisfecho
 shopping-survey-q1-radio-2-label = Satisfecho
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Insatisfecho
 shopping-survey-q1-radio-5-label = Muy insatisfecho
+shopping-survey-question-two = ¿El verificador de reseñas te facilita la toma de decisiones para comprar?
 shopping-survey-q2-radio-1-label = Sí
 shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = No lo sé
@@ -174,15 +191,31 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vuelve al <strong>verificador de reseñas</strong> cada vez que veas la etiqueta de precio.
+shopping-callout-pdp-opted-in-title = ¿Son confiables estas reseñas? Descúbrelo rápido.
+shopping-callout-pdp-opted-in-subtitle = Abre el verificador de reseñas para ver una calificación ajustada, eliminando las reseñas no confiables. Además, mira los aspectos más destacados de las reseñas auténticas recientes.
+shopping-callout-closed-not-opted-in-title = Un clic para obtener revisiones confiables
+shopping-callout-closed-not-opted-in-subtitle = Prueba el verificador de reseñas cada vez que veas la etiqueta de precio. Obtén rápidamente información de compradores reales, antes de comprar.
+shopping-callout-closed-not-opted-in-revised-title = Un clic para obtener reseñas confiables
+shopping-callout-closed-not-opted-in-revised-subtitle = Simplemente haz clic en el ícono de etiqueta de precio en la barra de direcciones para volver al verificador de reseñas.
 shopping-callout-closed-not-opted-in-revised-button = Entendido
 shopping-callout-not-opted-in-reminder-title = Comprar con confianza
+shopping-callout-not-opted-in-reminder-subtitle = ¿No estás seguro de si las reseñas de un producto son reales o falsas? El verificador de reseñas de { -brand-product-name } puede ayudar.
+shopping-callout-not-opted-in-reminder-open-button = Abrir verificador de reseñas
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = No volver a mostrar
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustración abstracta de tres reseñas de productos. Una de ellas tiene un símbolo de advertencia que indica que puede no ser confiable.
+shopping-callout-disabled-auto-open-title = El verificador de reseñas ahora está cerrado de forma predeterminada
+shopping-callout-disabled-auto-open-subtitle = Haz clic en el ícono de etiqueta de precio en la barra de direcciones cuando quieras ver si puedes confiar en las reseñas de un producto.
 shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-title = El verificador de reseñas está desactivado
+shopping-callout-opted-out-subtitle = Para volver a activarlo, haz clic en el ícono de etiqueta de precio en la barra de direcciones y sigue las instrucciones.
 shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Prueba nuestra guía confiable de reseñas de productos
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Al seleccionar “{ shopping-onboarding-opt-in-button }“, aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -brand-product-name } y <a data-l10n-name="terms_of_use">los términos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sí, poner a prueba
 shopping-onboarding-not-now-button = Ahora no
