@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Cun tscherner Google Gemini, acceptas ti las 
 genai-settings-chat-huggingchat-links = Cun tscherner HuggingChat, acceptas ti las <a data-l10n-name="link1">infurmaziuns davart la protecziun da datas da HuggingChat</a> e la <a data-l10n-name="link2">decleraziun davart la protecziun da datas da Hugging Face</a>.
 genai-settings-chat-lechat-links = Cun tscherner Le Chat Mistral, acceptas ti las <a data-l10n-name="link1">cundiziuns d’utilisaziun</a> e la <a data-l10n-name="link2">decleraziun davart la protecziun da datas</a> da Mistral AI.
 genai-settings-chat-localhost-links = Utilisescha tes chatbot privat local sco <a data-l10n-name="link1">llamafile</a> da la gruppa { -vendor-short-name } Innovation.
+genai-settings-chat-shortcuts =
+    .description = Mussa ina scursanida a cumonds sche ti selecziuneschas text. { -brand-short-name } trametta il text, il titel da la pagina ed il cumond al chatbot.
+    .label = Mussar cumonds cun la selecziun da text
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
