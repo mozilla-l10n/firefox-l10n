@@ -428,6 +428,7 @@ pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Issin ugar
 pdfjs-editor-new-alt-text-create-automatically-button-label = Rnu aḍris niḍen s wudem awurman
 pdfjs-editor-new-alt-text-not-now-button = Mačči tura
 pdfjs-editor-new-alt-text-error-title = D awezɣi timerna n uḍris niḍen s wudem awurman
+pdfjs-editor-new-alt-text-error-close-button = Mdel
 
 ## Image alt-text settings
 
