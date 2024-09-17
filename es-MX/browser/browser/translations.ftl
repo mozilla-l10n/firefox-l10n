@@ -90,6 +90,7 @@ translations-panel-error-change-button =
 # Variables:
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known = Lo sentimos, todavía no admitimos { $language }.
+translations-panel-error-unsupported-hint-unknown = Lo sentimos, todavía no admitimos este idioma.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -102,6 +103,14 @@ translations-panel-to-label = Traducir al
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Está página está traducida del { $fromLanguage } al { $toLanguage }
 translations-panel-choose-language =
     .label = Selecciona un idioma
 translations-panel-restore-button =
@@ -113,6 +122,7 @@ translations-manage-header = Traducciones
 translations-manage-settings-button =
     .label = Ajustes…
     .accesskey = t
+translations-manage-description = Descargar idiomas para la traducción sin conexión.
 translations-manage-all-language = Todos los idiomas
 translations-manage-download-button = Descargar
 translations-manage-delete-button = Eliminar
@@ -123,9 +133,23 @@ translations-manage-language-download-button =
 translations-manage-language-download-all-button =
     .label = Descarga todo
     .accesskey = D
+translations-manage-language-remove-button =
+    .label = Eliminar
+translations-manage-language-remove-all-button =
+    .label = Eliminar todo
+    .accesskey = e
+translations-manage-error-download = Hubo un problema al descargar los archivos de idioma. Por favor, vuelve a intentarlo.
+translations-manage-error-delete = Hubo un error al eliminar los archivos de idioma. Por favor, vuelve a intentarlo.
+translations-manage-error-remove = Ocurrió un error al eliminar los archivos del idioma. Por favor, vuelve a intentarlo.
+translations-manage-error-list = No se pudo obtener la lista de idiomas disponibles para la traducción. Actualiza la página para volver a intentarlo.
+translations-settings-title =
+    .title = Ajustes de traducción
+    .style = min-width: 36em
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = La traducción se realizará automáticamente para los siguientes idiomas
+translations-settings-never-translate-langs-description = No se ofrecerá traducción para los siguientes idiomas
+translations-settings-never-translate-sites-description = No se ofrecerá traducción para los siguientes sitios
 translations-settings-languages-column =
     .label = Idiomas
 translations-settings-remove-language-button =
