@@ -12,6 +12,7 @@ elevation-finished-page = Lqem ihegga i wesebded.
 elevation-finished-background-page = Lqem n urkad d tɣellist { -brand-short-name } teţwazdem-d u thegga i wesebded.
 elevation-finished-background = Lqem:
 elevation-more-elevated = Aleqqem-agi yesra taseglut n unedbal. Aleqqem ad yettwasebded deg usenker i d-itteddun n { -brand-short-name }. Tzemreḍ ad talseḍ asenker n { -brand-short-name } tura, neɣ smed amahil imir ales asenker ticki neɣ agwi aleqqem-agi.
+sandbox-missing-unprivileged-namespaces = Kra n tmahilin n tɣellist n { -brand-short-name } zemrent ad d-muddent drus n ummesten ɣef unagraw-ik n wammud amiran.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ur d-skan ara tikkelt niḍen
     .accesskey = U
