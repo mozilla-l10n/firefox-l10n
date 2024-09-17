@@ -63,6 +63,7 @@ neterror-dns-not-found-trr-offline = Ur teqqineḍ ara ɣer internet.
 neterror-dns-not-found-trr-unknown-host2 = Asmel-a web ur yettwaf ara sɣur { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Yella-d wugur akken { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL d arameɣtu.
+neterror-dns-not-found-system-sleep = Anagraw deg uskar n tguni.
 neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 
 ## Native fallback specific messages

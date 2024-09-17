@@ -432,3 +432,7 @@ pdfjs-editor-new-alt-text-error-close-button = Mdel
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-delete-model-button = Kkes
+pdfjs-editor-alt-text-settings-download-model-button = Sader
+pdfjs-editor-alt-text-settings-downloading-model-button = Asader…
+pdfjs-editor-alt-text-settings-close-button = Mdel
