@@ -69,8 +69,14 @@ sidebar-context-menu-open-in-window =
     .label = Eike Ovetã Pyahúpe
 sidebar-context-menu-open-in-private-window =
     .label = Eike Ovetã Ñemigua Pyahúpe
+sidebar-context-menu-bookmark-tab =
+    .label = Embojuaju kuatiarogue techaukaháre…
 sidebar-context-menu-copy-link =
     .label = Emonguatia juajuha
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Emboty tendayke { $deviceName }-pe
 
 ## Labels for sidebar history context menu items
 
@@ -98,3 +104,6 @@ sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
+
+## Context for closing synced tabs when hovering over the items
+

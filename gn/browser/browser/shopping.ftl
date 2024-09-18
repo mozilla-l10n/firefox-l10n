@@ -89,6 +89,8 @@ shopping-show-less-button = Ehechauka’ive
 
 shopping-settings-label =
     .label = Ñemboheko
+shopping-settings-recommendations-toggle2 =
+    .label = Ehechauka ñemoñe’ẽ ha tetepy jeykekóva
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
 shopping-settings-recommendations-learn-more2 = Ehecháta ñemurã sapy’apy’a apopyre iporãva rehegua. Romoherakuã apopyre ojejeroviaha oñónte. <a data-l10n-name="review-quality-url">Eikuaave</a>

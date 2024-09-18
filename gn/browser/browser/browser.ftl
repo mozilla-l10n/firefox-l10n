@@ -550,6 +550,10 @@ urlbar-go-button =
     .tooltiptext = Kundaharape renda URL-pe jeho
 urlbar-page-action-button =
     .tooltiptext = Kuatiarogue rembiapo
+urlbar-revert-button =
+    .tooltiptext = Ehechauka kundaharape kundaha rupápe
+urlbar-show-page-actions-button =
+    .tooltiptext = Ehechaukapaite kuatiaroguepegua
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
