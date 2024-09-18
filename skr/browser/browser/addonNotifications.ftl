@@ -128,3 +128,5 @@ addon-local-install-error-not-signed = ایہ ایڈ آن انسٹال نہیں 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } کوں انسٹال نہیں کیتا ونڄ سڳیا کیوں جو ایہ { -brand-short-name } { $appVersion } دے نال میل نئیں کھاندا۔
 addon-install-error-blocklisted = { $addonName } کوں انسٹال نہیں کیتا ونڄ سڳیا کیوں جو ایندے وِچ استحکام یا سیکورٹی دے مسائل پیدا تھیوݨ دا زیادہ بھئو ہے۔
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = تساں { $addonName } کوں چھیکڑی ورتݨ آلے دے طور تے انسٹال نہوے کر سڳدے، ایں کوں صرف انٹرپرائز پالیسیاں ورت کے کہیں تنظیم  ولوں انسٹال کیتا ون٘ڄ سڳدا ہے۔
