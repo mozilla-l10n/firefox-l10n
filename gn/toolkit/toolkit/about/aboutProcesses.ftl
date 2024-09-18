@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Emboguejy tendayke ha ejapopa tapereko
+about-processes-kill-process =
+    .title = Mba’eapo jejoko
 about-processes-shutdown-tab =
     .title = Emboty tendayke
 # Profiler icons
