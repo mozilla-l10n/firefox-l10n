@@ -133,6 +133,9 @@ tabbrowser-confirm-caretbrowsing-checkbox = میکوں ایہ ڈائیلاگ ب�
 tabbrowser-confirm-close-duplicate-tabs-title = دھیان ݙیوو
 tabbrowser-confirm-close-duplicate-tabs-text = اساں چھیکڑی فعال ٹیب کھلی رکھسوں
 tabbrowser-confirm-close-all-duplicate-tabs-title = واڳی ٹیباں بند کرو؟
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    ایں ونڈو وچ اساں واڳی ٹیباں بند کریسوں۔ چھیکڑی فعال
+    ٹیب کھلی راہسی۔
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ٹیباں بند کرو
 
 ##
