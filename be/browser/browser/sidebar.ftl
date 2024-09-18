@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Зрабіць закладку на картку…
 sidebar-context-menu-copy-link =
     .label = Капіяваць спасылку
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Закрыць картку на { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,12 @@ sidebar-menu-history-header =
     .heading = Гісторыя
 sidebar-menu-syncedtabs-header =
     .heading = Карткі з іншых прылад
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Закрыць картку на { $deviceName }
