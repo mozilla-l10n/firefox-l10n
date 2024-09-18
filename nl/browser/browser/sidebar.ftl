@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Bladwijzer voor tabblad maken…
 sidebar-context-menu-copy-link =
     .label = Koppeling kopiëren
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Tabblad op { $deviceName } sluiten
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,12 @@ sidebar-menu-history-header =
     .heading = Geschiedenis
 sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Tabblad op { $deviceName } sluiten
