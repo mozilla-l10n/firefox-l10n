@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Malŝargi langetojn kaj fini procezon
+about-processes-kill-process =
+    .title = Fini procezon
 about-processes-shutdown-tab =
     .title = Fermi langeton
 # Profiler icons
