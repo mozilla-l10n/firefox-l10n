@@ -45,4 +45,4 @@ crashreporter-error-no-home-dir = חסרה ספריית בית
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = ההעברה מ־{ $from } אל { $to } נכשלה
-crashreporter-error-version-eol = סוף החיים של הגרסה: דוחות קריסה אינם מתקבלים עוד.
+crashreporter-error-version-eol = סוף החיים של הגרסה: דיווחי קריסה אינם מתקבלים עוד.
