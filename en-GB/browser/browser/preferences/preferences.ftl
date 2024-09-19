@@ -1076,7 +1076,7 @@ cookie-banner-handling-description = { -brand-short-name } automatically tries t
 
 cookie-banner-blocker-header = Cookie Banner Blocker
 cookie-banner-blocker-description = When a site asks if they can use cookies in private browsing mode, { -brand-short-name } automatically refuses for you. Only on supported sites.
-cookie-banner-learn-more = Learn More
+cookie-banner-learn-more = Learn more
 forms-handle-cookie-banners =
     .label = Reduce Cookie Banners
 cookie-banner-blocker-checkbox-label =
