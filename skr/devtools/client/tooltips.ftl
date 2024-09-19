@@ -81,6 +81,7 @@ inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> یا
 inactive-css-not-grid-or-flex-or-block-container-fix = <strong>ݙِکھاؤ:گرِڈ</strong>، <strong>ݙِکھاؤ:فلیکس</strong> یا <strong>ݙِکھاؤ:بلاک</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = یا تاں <strong>display:grid</strong>, <strong>display:flex</strong>، یا <strong>columns:2</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-multicol-container-fix = یا تاں <strong>کالم-ڳِݨَتری</strong>یا <strong>کالم-چوڑائی</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
+inactive-css-column-span-fix = ایندے آبائی عناصر وچوں ہک وچ<strong>کالم-ڳِݨَتری</strong>یا <strong>کالم-چوڑائی</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> شامل کرݨ دی کوشش کرو۔ عنصر دے وݙکے کوں۔ { learn-more }
 inactive-css-not-grid-item-fix-2 = عنصر دے وݙکیاں وِچ <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
