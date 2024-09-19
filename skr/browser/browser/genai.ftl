@@ -24,6 +24,10 @@ genai-settings-chat-lechat-links = لی چیٹ مسٹرل چُݨݨ نال تسا
 genai-prompts-simplify =
     .label = زبان سادہ بݨاؤ
     .value = سوہݨا، چݨے ہوئے کوں سادہ لفظ تے مختصر جملے ورت تے ولدا لکھو۔ مطلب تے حقائق  دی درستی برقرار رکھو۔
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = ایندی وضاحت کرو۔
+    .value = سوہݨا، سادہ الفاظ ورت تے، ایں انتخاب وچ اہم تصورات دی وضاحت کرو۔ مثالاں وی ورتو۔
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
