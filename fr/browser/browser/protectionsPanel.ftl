@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Plus d’informations sur la protection renforcée contre le pistage
 protections-panel-etp-on-header = La protection renforcée contre le pistage est ACTIVÉE pour ce site.
 protections-panel-etp-off-header = La protection renforcée contre le pistage est DÉSACTIVÉE pour ce site.
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Le site ne fonctionne pas ?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Le site ne fonctionne pas ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Protection renforcée contre le pistage
     .description = Désactivée pour ce site
     .aria-label = Protection renforcée contre le pistage : désactivée pour { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Le site ne fonctionne pas ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Le site ne fonctionne pas ?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -108,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Signaler des problèmes avec ce site
 protections-panel-content-blocking-breakage-report-view-description = Le blocage de certains traqueurs peut occasionner des problèmes sur des sites web. En signalant ces problèmes, vous contribuez à rendre { -brand-short-name } meilleur pour tout le monde. L’envoi du rapport communiquera une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla. <label data-l10n-name="learn-more">En savoir plus</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Le blocage de certains traqueurs peut occasionner des problèmes sur des sites web. En signalant ces problèmes, vous contribuez à rendre { -brand-short-name } meilleur pour tout le monde. L’envoi du rapport communiquera une URL ainsi que des informations sur les préférences de votre navigateur à { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -138,7 +137,7 @@ protections-panel-cookie-banner-blocker-view-title =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Désactiver le bloqueur de bannières de cookies pour { $host } ?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activer le bloqueur de bannières de cookies pour ce site ?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activer le bloqueur de bannières de cookies pour ce site ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } effacera les cookies de ce site et actualisera la page. La suppression de tous les cookies peut vous déconnecter ou vider les paniers d’achats.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } peut essayer de refuser automatiquement les demandes de dépôt de cookies sur les sites compatibles.
 protections-panel-cookie-banner-view-cancel = Annuler
