@@ -72,6 +72,7 @@ translations-panel-translate-cancel =
     .label = Sefsex
 translations-panel-learn-more-link = Issin ugar
 translations-panel-intro-header = Ɛreḍ tisuqqilin tusligin deg { -brand-shorter-name }
+translations-panel-intro-description = I uqader n tudert tabaḍnit, tisuqilin ur teffɣent ara akk seg yibenk-ik. Tutlayin timaynutin d yisnerniyen ur ttεeṭṭilen ara ad ilin!
 translations-panel-error-translating = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
 translations-panel-error-load-languages = Ggumant ad d-alint tutlayin
 translations-panel-error-load-languages-hint = Senqed tuqqna ɣer internet sakin ɛreḍ tikkelt niḍen.
@@ -219,6 +220,8 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = Aḍris i yettwasuqlen ad d-iban dagi.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Asuqqel…
+select-translations-panel-init-failure-message =
+    .message = Ggumant ad d-alint tutlayin. Senqed tuqqna ɣer internet syen εreḍ tikkelt niḍen.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
