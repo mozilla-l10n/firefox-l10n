@@ -5,10 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Legger til valgfri samtalerobot i sidestolpen, for rask tilgang mens du surfer. <a data-l10n-name="connect">Del tilbakemelding</a>
 genai-settings-chat-choose = Velg en samtalerobot
 genai-settings-chat-choose-one-menuitem =
     .label = Velg en
 genai-settings-chat-links = Når du velger en samtalerobot, godkjenner du brukervilkårene og personvernerklæringen til leverandøren.
+genai-settings-chat-localhost-links = Ta med din egen private lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
