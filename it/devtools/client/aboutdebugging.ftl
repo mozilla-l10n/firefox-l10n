@@ -219,6 +219,10 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
   .label = Servizio push
 
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+  .label = Origine
+
 about-debugging-worker-inspect-action-disabled =
   .title = L’analisi di service worker è attualmente disattivata in { -brand-shorter-name } multiprocesso.
 
