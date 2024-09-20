@@ -49,6 +49,8 @@ experimental-features-ime-search-description = IME (Input Method Editor) абз�
 # Updated sidebar settings
 sidebar-title =
     .label = Навори ҷонибӣ
+vertical-tabs-title =
+    .label = Варақаҳои амудӣ
 experimental-features-group-browsing =
     .label = Тамошокунӣ
 experimental-features-group-developer-tools =
