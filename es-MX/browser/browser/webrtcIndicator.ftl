@@ -160,6 +160,10 @@ webrtc-allow-share-screen-with-file = ¿Permitir que esté archivo local vea tu 
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = ¿Permitir que este archivo local utilice otros altavoces?
+webrtc-allow-share-camera-and-microphone-with-file = ¿Permitir que este archivo local use tu cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture-with-file = ¿Permitir que este archivo local use tu cámara y escuche el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone-with-file = ¿Permitir que este archivo local use tu micrófono y vea tu pantalla?
+webrtc-allow-share-screen-and-audio-capture-with-file = ¿Permitir que este archivo local escuche el audio de esta pestaña y vea tu pantalla?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -215,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-remember-allow-checkbox-camera = Recordar para todas las cámaras
+webrtc-remember-allow-checkbox-microphone = Recordar para todos los micrófonos
+webrtc-remember-allow-checkbox-camera-and-microphone = Recordar para todas las cámaras y micrófonos
 webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no permite que se acceda de manera permanente a tu monitor.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no permite acceso permanente al audio de tu pestaña sin preguntar cuál audio se va a compartir.
