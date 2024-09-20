@@ -247,3 +247,6 @@ firefoxview-opentabs-bookmarked-pinned-tab =
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Marcado como favorito) { $url }
