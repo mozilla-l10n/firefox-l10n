@@ -5,7 +5,7 @@
 crashreporter-branded-title = { -brand-short-name } 崩溃报告器
 crashreporter-apology = 很抱歉
 crashreporter-crashed-and-restore = { -brand-short-name } 遇到问题并崩溃了。我们将尝试在它重新启动时恢复您的标签页和窗口。
-crashreporter-plea = 您可以发送给我们一个崩溃报告，以协助我们诊断并修正该问题。
+crashreporter-plea = 您可以向我们发送崩溃报告，以协助我们诊断并修正该问题。
 crashreporter-information = 此应用程序会在发生崩溃后运行并向 { -vendor-short-name } 报告相应问题，无法被直接运行。
 crashreporter-error = { -brand-short-name } 碰到一个问题而崩溃了，且崩溃报告器无法提交相应的崩溃报告。
 # $details (String) - the reason that a crash report cannot be submitted
