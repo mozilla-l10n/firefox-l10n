@@ -239,6 +239,9 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Cambiar a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Cambiar a (En marcadores) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

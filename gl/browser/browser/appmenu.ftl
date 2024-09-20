@@ -271,5 +271,6 @@ appmenuitem-sign-in-account = Acceda á súa conta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recibir alertas sobre filtracións de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Oculte o seu correo electrónico e teléfono reais
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protexa a súa actividade en liña
