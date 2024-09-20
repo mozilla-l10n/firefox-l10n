@@ -432,6 +432,8 @@ pdfjs-editor-new-alt-text-dialog-edit-label = آلٹ عبارت وچ تبدی�
 pdfjs-editor-new-alt-text-dialog-add-label = آلٹ عبارت شامل کرو (تصویر تفصیل)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = اتھ آپݨی وضاحت لکھو۔۔۔
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = اُنہاں لوکاں کیتے مختصر تفصیل جہڑے تصویر کائنی ݙیکھ سڳدے یا ڄݙݨ تصویر لوڈ کائبی تھیندی۔
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = آلٹ عبارت خودکار تخلیق تھئی ہے تے غلط تھی سڳدی ہے۔
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ٻیا سِکھو
