@@ -354,8 +354,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 # Alternative text (alt text) helps when people can't see the image.
-pdfjs-editor-alt-text-button-label = Матни ивазкунанда
-pdfjs-editor-alt-text-edit-button-label = Таҳрир кардани матни ивазкунанда
+pdfjs-editor-alt-text-button-label = Матни иловагӣ
+pdfjs-editor-alt-text-edit-button-label = Таҳрир кардани матни иловагӣ
 pdfjs-editor-alt-text-dialog-label = Имконеро интихоб намоед
 pdfjs-editor-alt-text-dialog-description = Вақте ки одамон тасвирро дида наметавонанд ё вақте ки тасвир бор карда намешавад, матни иловагӣ (Alt text) кумак мерасонад.
 pdfjs-editor-alt-text-add-description-label = Илова кардани тавсиф
@@ -430,7 +430,32 @@ pdfjs-editor-highlight-show-all-button =
 pdfjs-editor-new-alt-text-dialog-edit-label = Таҳрир кардани матни иловагӣ (тафсири тасвир)
 # Modal header positioned above a text box where users can add the alt text.
 pdfjs-editor-new-alt-text-dialog-add-label = Илова кардани матни иловагӣ (тафсири тасвир)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Тафсири худро дар ин ҷо нависед…
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Маълумоти бештар
+pdfjs-editor-new-alt-text-not-now-button = Ҳоло не
+pdfjs-editor-new-alt-text-error-close-button = Пӯшидан
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button-label = Матни иловагӣ илова карда шуд
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button-label = Матни иловагӣ вуҷуд надорад
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button-label = Бознигарӣ кардани матни иловагӣ
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Ба таври худкор сохта шудааст: «{ $generatedAltText }»
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Танзимоти матни иловагии тасвир
+pdfjs-image-alt-text-settings-button-label = Танзимоти матни иловагии тасвир
+pdfjs-editor-alt-text-settings-dialog-label = Танзимоти матни иловагии тасвир
+pdfjs-editor-alt-text-settings-automatic-title = Матни иловагии худкор
+pdfjs-editor-alt-text-settings-create-model-button-label = Ба таври худкор эҷод кардани матни иловагӣ
+pdfjs-editor-alt-text-settings-delete-model-button = Нест кардан
+pdfjs-editor-alt-text-settings-download-model-button = Боргирӣ кардан
+pdfjs-editor-alt-text-settings-downloading-model-button = Дар ҳоли боргирӣ…
+pdfjs-editor-alt-text-settings-editor-title = Муҳаррири матни иловагӣ
+pdfjs-editor-alt-text-settings-close-button = Пӯшидан
