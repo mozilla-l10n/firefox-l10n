@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = 将标签页加入书签…
 sidebar-context-menu-copy-link =
     .label = 复制链接
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = 关闭 { $deviceName } 中的标签页
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,12 @@ sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = 关闭 { $deviceName } 中的标签页
