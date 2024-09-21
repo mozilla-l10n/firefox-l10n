@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Phông
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Phông cho
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Ả Rập
 fonts-langgroup-armenian =
@@ -34,7 +32,7 @@ fonts-langgroup-ethiopic =
 fonts-langgroup-georgian =
     .label = Gruzia
 fonts-langgroup-el =
-    .label = Hi Lạp
+    .label = Hy Lạp
 fonts-langgroup-gujarati =
     .label = Gujarat
 fonts-langgroup-gurmukhi =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Tỷ lệ
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Kích thước
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Kích thước
     .accesskey = h
-
 fonts-minsize = Cỡ phông tối thiểu
     .accesskey = o
-
 fonts-minsize-none =
     .label = Không
-
 fonts-allow-own =
     .label = Cho phép các trang web tự lựa chọn phông chữ riêng, thay vì sử dụng phông mà bạn chọn ở trên
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
