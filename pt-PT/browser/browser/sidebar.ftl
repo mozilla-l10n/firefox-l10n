@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Eliminar do histórico
+sidebar-history-sort-by-date =
+    .label = Ordenar por data
+sidebar-history-sort-by-site =
+    .label = Ordenar por site
+sidebar-history-clear =
+    .label = Limpar histórico
 
 ## Labels for sidebar search
 
@@ -59,6 +65,23 @@ sidebar-context-menu-remove-extension =
     .label = Remover extensão
 sidebar-context-menu-report-extension =
     .label = Reportar extensão
+sidebar-context-menu-open-in-window =
+    .label = Abrir numa nova janela
+sidebar-context-menu-open-in-private-window =
+    .label = Abrir numa nova janela privada
+sidebar-context-menu-bookmark-tab =
+    .label = Adicionar separador aos marcadores…
+sidebar-context-menu-copy-link =
+    .label = Copiar ligação
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Fechar separador em { $deviceName }
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Eliminar do histórico
 
 ## Labels for sidebar menu items.
 
@@ -81,3 +104,12 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Separadores de outros dispositivos
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Fechar separador em { $deviceName }

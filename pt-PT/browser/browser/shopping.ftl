@@ -89,6 +89,9 @@ shopping-show-less-button = Mostrar menos
 
 shopping-settings-label =
     .label = Definições
+shopping-settings-recommendations-toggle2 =
+    .label = Mostrar recomendações e conteúdo patrocinado
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } não partilha os seus dados pessoais, pelo que estas recomendações não o seguirão na Internet. <a data-l10n-name="review-quality-url">Saiba mais</a>
 shopping-settings-recommendations-toggle =
     .label = Mostrar anúncios no verificador de avaliações
 shopping-settings-recommendations-learn-more2 = Irá ver anúncios ocasionais de produtos relevantes. Anunciamos apenas produtos com avaliações confiáveis. <a data-l10n-name="review-quality-url">Saiba mais</a>
@@ -162,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Verificar a qualidade da avaliaçã
 
 more-to-consider-ad-label =
     .label = Mais a considerar
+shopping-sponsored-label = Patrocinado
 ad-by-fakespot = Anúncio por { -fakespot-brand-name }
 
 ## Shopping survey strings.

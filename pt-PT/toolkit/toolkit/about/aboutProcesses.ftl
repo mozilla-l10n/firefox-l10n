@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Remover os separadores da memória e matar o processo
+about-processes-kill-process =
+    .title = Matar processo
 about-processes-shutdown-tab =
     .title = Fechar separador
 # Profiler icons
