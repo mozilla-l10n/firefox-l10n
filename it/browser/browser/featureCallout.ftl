@@ -54,3 +54,19 @@ callout-pdfjs-draw-body-a = Aggiungi note direttamente al PDF e salva le tue mod
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Non c’è più bisogno di stampare e fare scansioni. Aggiungi note direttamente al PDF e salva le tue modifiche.
 callout-pdfjs-draw-button = OK
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-title = Non volevi chiudere quella scheda?
+fx-view-discoverability-subtitle = Qui puoi trovarla e riaprirla velocemente. Conserviamo per te una cronologia delle schede chiuse di recente.
+fx-view-discoverability-primary-button-label = Apri { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Chiudi
+
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Non mostrare di nuovo questo suggerimento
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Mostra meno suggerimenti
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Gestisci impostazioni
