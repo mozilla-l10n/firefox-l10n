@@ -27,6 +27,10 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = ਸੰਖੇਪ
+    .value = ਕੀਤੀ ਚੋਣ ਦਾ ਸਾਰ ਸਹੀ ਤੇ ਸੰਖੇਪ ਭਾਸ਼ਾ ਵਿੱਚ ਦਿਓ। ਸਾਰ ਨੂੰ ਸੌਖਾ ਸਮਝਣਯੋਗ ਬਣਾਉਣ ਲਈ ਇਸ ਵਿੱਚ ਸਿਰਲੇਖ ਅਤੇ ਬਿੰਦੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਅਰਥ ਅਤੇ ਤੱਥਾਂ ਦੀ ਦਰੁਸਤਾ ਨੂੰ ਬਣਾਈ ਰੱਖੋ।
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = ਭਾਸ਼ਾ ਨੂੰ ਸਰਲ ਕਰੋ
