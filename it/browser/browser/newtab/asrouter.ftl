@@ -280,3 +280,14 @@ tail-fox-spotlight-subtitle = Dì addio alle irritanti pubblicità che ti seguon
 tail-fox-spotlight-primary-button = Apri i miei link con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Non adesso
 
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Le versioni più vecchie di { -brand-short-name } potrebbero avere problemi a partire dal 14 gennaio 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aggiorna per continuare a utilizzare { -brand-short-name } dopo il 14 marzo 2025.</strong>
+root-certificate-succession-infobar-link = Perché devo aggiornare?
+root-certificate-succession-infobar-primary-button =
+  .label = Aggiorna adesso
+  .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+  .label = Più tardi
+  .accesskey = P
