@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Lisää välilehti kirjanmerkkeihin…
 sidebar-context-menu-copy-link =
     .label = Kopioi linkki
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Sulje välilehti laitteella { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,12 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Sulje välilehti laitteella { $deviceName }

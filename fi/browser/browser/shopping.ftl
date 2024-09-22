@@ -89,6 +89,9 @@ shopping-show-less-button = Näytä vähemmän
 
 shopping-settings-label =
     .label = Asetukset
+shopping-settings-recommendations-toggle2 =
+    .label = Näytä suosituksia ja sponsoroitua sisältöä
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } ei jaa henkilökohtaisia tietojasi, joten nämä suositukset eivät seuraa sinua Internetissä. <a data-l10n-name="review-quality-url">Lisätietoja</a>
 shopping-settings-recommendations-toggle =
     .label = Näytä mainoksia arvostelujen tarkistimessa
 shopping-settings-opt-out-button = Poista arvostelujen tarkistus käytöstä
@@ -159,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Tarkista arvostelun laatu
 
 more-to-consider-ad-label =
     .label = Lisää harkittavaa
+shopping-sponsored-label = Sponsoroitu
 ad-by-fakespot = Mainostaja { -fakespot-brand-name }
 
 ## Shopping survey strings.

@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Sulje välilehdet ja tapa prosessi
+about-processes-kill-process =
+    .title = Tapa prosessi
 about-processes-shutdown-tab =
     .title = Sulje välilehti
 # Profiler icons
