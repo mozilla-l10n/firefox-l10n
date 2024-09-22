@@ -11,7 +11,9 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Usuń karty z pamięci i zakończ proces
+    .title = Usuń karty z pamięci i wymuś zakończenie procesu
+about-processes-kill-process =
+    .title = Wymuś zakończenie procesu
 about-processes-shutdown-tab =
     .title = Zamknij kartę
 # Profiler icons

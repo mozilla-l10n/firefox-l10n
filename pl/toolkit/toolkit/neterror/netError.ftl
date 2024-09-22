@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Nie ma połączenia z Internetem.
 neterror-dns-not-found-trr-unknown-host2 = Serwer { $trrDomain } nie odnalazł tej witryny.
 neterror-dns-not-found-trr-server-problem = Wystąpił problem z serwerem { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Nieprawidłowy adres URL.
+neterror-dns-not-found-system-sleep = System jest w trybie uśpienia.
 neterror-dns-not-found-trr-unknown-problem = Nieoczekiwany problem.
 
 ## Native fallback specific messages
