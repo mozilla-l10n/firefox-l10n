@@ -17,6 +17,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Usuń z historii
+sidebar-history-sort-by-date =
+    .label = Sortuj według dat
+sidebar-history-sort-by-site =
+    .label = Sortuj według witryn
+sidebar-history-clear =
+    .label = Wyczyść historię
 
 ## Labels for sidebar search
 
@@ -57,6 +63,23 @@ sidebar-context-menu-remove-extension =
     .label = Usuń rozszerzenie
 sidebar-context-menu-report-extension =
     .label = Zgłoś rozszerzenie
+sidebar-context-menu-open-in-window =
+    .label = Otwórz w nowym oknie
+sidebar-context-menu-open-in-private-window =
+    .label = Otwórz w nowym oknie prywatnym
+sidebar-context-menu-bookmark-tab =
+    .label = Dodaj zakładkę do karty…
+sidebar-context-menu-copy-link =
+    .label = Kopiuj odnośnik
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Zamknij kartę na „{ $deviceName }”
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Usuń z historii
 
 ## Labels for sidebar menu items.
 
@@ -77,3 +100,12 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Karty z innych urządzeń
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Zamknij kartę na „{ $deviceName }”
