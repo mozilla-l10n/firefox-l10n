@@ -1042,7 +1042,7 @@ forms-primary-pw-use =
     .accesskey = P
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Vyžadovat heslo k účtu na zařízení na vyplnění a správu hesel
+    .label = K vyplňování a správě hesel vyžadovat přihlášení se do zařízení
 forms-primary-pw-learn-more-link = Zjistit více
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found

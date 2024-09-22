@@ -81,6 +81,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Přidat panel do záložek…
 sidebar-context-menu-copy-link =
     .label = Kopírovat odkaz
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Zavřít panel v { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -108,3 +112,12 @@ sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Zavřít panel v { $deviceName }
