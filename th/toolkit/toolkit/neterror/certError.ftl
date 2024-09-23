@@ -92,6 +92,7 @@ contentEncodingError-title = ข้อผิดพลาดการเข้า
 unsafeContentType-title = ชนิดไฟล์ที่ไม่ปลอดภัย
 netReset-title = ตัดการเชื่อมต่อแล้ว
 netTimeout-title = การเชื่อมต่อหมดเวลา
+serverError-title = ดูเหมือนว่าเว็บไซต์นี้จะมีปัญหา
 unknownProtocolFound-title = ไม่เข้าใจที่อยู่
 proxyConnectFailure-title = เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ
 proxyResolveFailure-title = ไม่พบเซิร์ฟเวอร์พร็อกซี

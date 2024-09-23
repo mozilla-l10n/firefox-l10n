@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = เนื้อหาเว็บ
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = จัดสรรไว้ล่วงหน้า
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = หลัก
 process-type-tab = แท็บ
@@ -41,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = ซ็อกเก็ต
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = การอนุมาน
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Sandboxed IPC Actor
 process-type-utility-actor-audio-decoder-generic = ยูทิลิตี Generic Audio Decoder
@@ -53,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = ยูทิลิตี Window
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = ไม่ทราบ
