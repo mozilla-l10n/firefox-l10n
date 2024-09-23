@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = ตรวจสอบคุณภ�
 
 more-to-consider-ad-label =
     .label = ลองดูเพิ่ม
+shopping-sponsored-label = ได้รับการสนับสนุน
 ad-by-fakespot = โฆษณาโดย { -fakespot-brand-name }
 
 ## Shopping survey strings.

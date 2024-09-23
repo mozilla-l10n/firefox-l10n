@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บ…
 sidebar-context-menu-copy-link =
     .label = คัดลอกลิงก์
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = ปิดแท็บบน { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,12 @@ sidebar-menu-history-header =
     .heading = ประวัติ
 sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = ปิดแท็บบน { $deviceName }

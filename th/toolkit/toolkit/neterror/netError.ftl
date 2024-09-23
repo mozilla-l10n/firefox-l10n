@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = คุณไม่ได้เชื่อ�
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ไม่พบเว็บไซต์นี้
 neterror-dns-not-found-trr-server-problem = เกิดปัญหากับ { $trrDomain }
 neterror-dns-not-found-bad-trr-url = URL ไม่ถูกต้อง
+neterror-dns-not-found-system-sleep = ระบบอยู่ในโหมดพักการทำงาน
 neterror-dns-not-found-trr-unknown-problem = เกิดปัญหาที่ไม่คาดคิด
 
 ## Native fallback specific messages

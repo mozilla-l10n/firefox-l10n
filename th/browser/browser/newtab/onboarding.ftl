@@ -336,6 +336,13 @@ onboarding-device-migration-subtitle = ลงชื่อเข้าใช้ {
 onboarding-device-migration-subtitle2 = ลงชื่อเข้าใช้บัญชีของคุณเพื่อนำที่คั่นหน้า รหัสผ่าน และประวัติไปกับคุณบนอุปกรณ์เครื่องใหม่ของคุณ
 onboarding-device-migration-primary-button-label = ลงชื่อเข้า
 
+## Add-ons Picker screen
+
+amo-picker-title = ปรับแต่ง { -brand-short-name } ของคุณ
+amo-picker-install-button-label = เพิ่มไปยัง { -brand-short-name }
+amo-picker-install-complete-label = ติดตั้งแล้ว
+amo-picker-collection-link = สำรวจส่วนเสริมเพิ่มเติม
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
