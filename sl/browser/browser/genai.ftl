@@ -35,6 +35,14 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Poenostavi jezik
     .value = Prosim, ponovno napiši izbiro s kratkimi stavki in preprostimi besedami. Ohrani pomen in natančna dejstva.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Vprašaj me
+    .value = Prosim, vprašaj me o tej izbiri. Zastavi mi različne tipe vprašanj, na primer z več možnimi izbirami, z odgovori da ali ne ter kratkimi odgovori. Počakaj na moj odgovor, preden preideš na naslednje vprašanje.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Razloži
+    .value = Prosim, s preprostimi besedami pojasni ključne koncepte te izbire. Uporabljaj tudi primere.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
