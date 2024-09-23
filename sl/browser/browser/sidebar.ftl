@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI klepetalnik
 
 ## Labels for sidebar history panel
 
@@ -71,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Dodaj zavihek med zaznamke …
 sidebar-context-menu-copy-link =
     .label = Kopiraj povezavo
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Zapri zavihek na napravi { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -79,6 +85,8 @@ sidebar-history-context-menu-delete-page =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = AI klepetalnik
 sidebar-menu-history-label =
     .label = Zgodovina
 sidebar-menu-synced-tabs-label =
@@ -96,3 +104,12 @@ sidebar-menu-history-header =
     .heading = Zgodovina
 sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Zapri zavihek na napravi { $deviceName }
