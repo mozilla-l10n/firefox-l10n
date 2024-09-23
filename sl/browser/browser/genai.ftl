@@ -5,6 +5,10 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = V stransko vrstico doda klepetalnega robota po vaši izbiri za hiter dostop med brskanjem. <a data-l10n-name="connect">Povratne informacije</a>
+genai-settings-chat-choose = Izberite klepetalnega robota
+genai-settings-chat-choose-one-menuitem =
+    .label = Izberite enega
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
