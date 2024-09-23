@@ -27,6 +27,14 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Povzemi
+    .value = Prosim, povzemi izbiro v natančnem in jedrnatem jeziku. Za večjo preglednost povzetka uporabljaj naslove in sezname. Ohrani pomen in natančna dejstva.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Poenostavi jezik
+    .value = Prosim, ponovno napiši izbiro s kratkimi stavki in preprostimi besedami. Ohrani pomen in natančna dejstva.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
