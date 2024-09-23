@@ -21,7 +21,7 @@ credit-card-capture-cancel-button =
     .label = Pas ara
     .accessKey = P
 credit-card-capture-never-save-button =
-    .label = Salvar pas jamai las carta
+    .label = Salvar pas jamai las cartas
     .accessKey = S
 
 # Used on the doorhanger when an credit card change is detected.
