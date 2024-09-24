@@ -46,11 +46,15 @@ callout-pdfjs-draw-button = Io lo comprendeva!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Non voleva tu clauder iste schedas?
+fx-view-discoverability-subtitle = Trova e reaperi lo velocemente. Nos reserva pro te un chronologia del schedas recentemente claudite.
 fx-view-discoverability-primary-button-label = Aperir { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Dimitter
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Non monstrar de novo iste recommendation
 # Dismisses message and reduces frequency of message
 split-dismiss-button-show-fewer-option-label = Monstrar minus recommendationes
 # Opens about:preferences#general-cfrfeatures
