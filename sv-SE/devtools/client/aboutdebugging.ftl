@@ -313,6 +313,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Push-tjänst
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = Ursprung
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = Inspektion av Service Worker är för närvarande inaktiverad för { -brand-shorter-name } med multiprocess

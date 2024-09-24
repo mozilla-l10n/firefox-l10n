@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Recensionsgranskare
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Bokmärken
 sidebar-menu-customize-label =
     .label = Anpassa sidofält
+sidebar-menu-review-checker-label =
+    .label = Recensionsgranskare
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Anpassa sidofält
+sidebar-history-title = Historik
+sidebar-syncedtabs-title = Flikar från andra enheter
 
 ## Context for closing synced tabs when hovering over the items
 
