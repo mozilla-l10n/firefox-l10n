@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = Imprimer usante le fenestra de impression del syst
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro plus detalios sur le formato.
 policy-Windows10SSO = Permitter le autorisation unic de Windows pro le contos de labor e schola de Microsoft.
+policy-MicrosoftEntraSSO = Permitter authentication singule pro le conto Microsoft Entra.

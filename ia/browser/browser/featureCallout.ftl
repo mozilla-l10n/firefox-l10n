@@ -43,3 +43,15 @@ callout-pdfjs-draw-body-a = Marca le files pdf, pois salva tu cambiamentos.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Non plus imprimer e scannar. Annota le files pdf, pois salva tu cambiamentos.
 callout-pdfjs-draw-button = Io lo comprendeva!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-primary-button-label = Aperir { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Dimitter
+
+## Split Dismiss Button Labels
+
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Monstrar minus recommendationes
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Gerer parametros

@@ -282,3 +282,13 @@ tail-fox-spotlight-title = Libera te del spias que tracia tu datos
 tail-fox-spotlight-subtitle = Dice adeo al enoiose traciatores publicitari e opta pro un experientia internet plus rapide e plus secur.
 tail-fox-spotlight-primary-button = Aperir mi ligamines con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Non ora
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Perque debe io actualisar?
+root-certificate-succession-infobar-primary-button =
+    .label = Actualisar ora
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Plus tarde
+    .accesskey = t
