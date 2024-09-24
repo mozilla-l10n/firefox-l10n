@@ -79,7 +79,7 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } �
 ##
 
 neterror-file-not-found-filename = 请检查文件名是否大小写输错，或者有其他输入错误。
-neterror-file-not-found-moved = 请检查文件是否已被移动，重命名或删除。
+neterror-file-not-found-moved = 请检查文件是否已被移动、重命名或删除。
 neterror-access-denied = 文件可能已被删除、移动，或者因文件权限问题被拒绝访问。
 neterror-unknown-protocol = 您可能需要安装其他软件才能打开此网址。
 neterror-redirect-loop = 有时候禁用或拒绝接受 Cookie 会导致此问题。
