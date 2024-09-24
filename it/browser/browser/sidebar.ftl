@@ -113,6 +113,12 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
   .heading = Schede da altri dispositivi
 
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personalizzazione barra laterale
+sidebar-history-title = Cronologia
+sidebar-syncedtabs-title = Schede da altri dispositivi
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
