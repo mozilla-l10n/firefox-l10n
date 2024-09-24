@@ -15,6 +15,7 @@ genai-settings-chat-claude-links = Z izbiro Anthropic Clauda se strinjate s <a d
 genai-settings-chat-copilot-links = Z izbiro Copilota se strinjate s <a data-l10n-name="link1">pogoji uporabe Copilot AI Experiences</a> in <a data-l10n-name="link2">Microsoftovo izjavo o zasebnosti</a>.
 genai-settings-chat-gemini-links = Z izbiro Google Gemini se strinjate z <a data-l10n-name="link1">Googlovimi pogoji uporabe</a>, <a data-l10n-name="link2">pravilnikom o prepovedani uporabi generativne UI</a> in <a data-l10n-name="link3">obvestilo o zasebnosti Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Z izbiro HuggingChata se strinjate z <a data-l10n-name="link1">obvestilom o zasebnosti HuggingChata</a> in <a data-l10n-name="link2">pravilnikom o zasebnosti Hugging Faca</a>.
+genai-settings-chat-lechat-links = Z izbiro Le Chat Mistral se strinjate s <a data-l10n-name="link1">pogoji uporabe</a> in z <a data-l10n-name="link2">obvestilom o zasebnosti</a>.
 genai-settings-chat-localhost-links = Pripeljite svojega zasebnega klepetalnega robota kot je <a data-l10n-name="link1">llamafile</a> iz skupine za inovacije { -vendor-short-name }.
 genai-settings-chat-shortcuts =
     .description = Prikaže bližnjico do pozivov, ko izbirate besedilo. { -brand-short-name } klepetalnemu robotu pošilja besedilo, naslov strani in poziv.
