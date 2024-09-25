@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = Sym to zrozumił!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Njeje rěkało, zo so ma tón rajtark začinić?
+fx-view-discoverability-subtitle = Pytajće jón a wočińće spěšnje tu znowa. Wobchowamy historiju wašich njedawno začinjene rajtarki za was.
 fx-view-discoverability-primary-button-label = { -firefoxview-brand-name } wočinić
 fx-view-discoverability-secondary-button-label = Zaćisnyć
 
