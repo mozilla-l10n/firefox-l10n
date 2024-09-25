@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot AI
+menu-view-review-checker =
+    .label = Trình kiểm tra đánh giá
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Dấu trang
 sidebar-menu-customize-label =
     .label = Tùy biến thanh lề
+sidebar-menu-review-checker-label =
+    .label = Trình kiểm tra đánh giá
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Lịch sử
 sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Tùy biến thanh lề
+sidebar-history-title = Lịch sử
+sidebar-syncedtabs-title = Thẻ từ thiết bị khác
 
 ## Context for closing synced tabs when hovering over the items
 
