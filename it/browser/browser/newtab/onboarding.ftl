@@ -434,3 +434,65 @@ onboarding-new-user-survey-familiarity-based-option-1 = Non lo conosco per nulla
 onboarding-new-user-survey-familiarity-based-option-2 = L’ho utilizzato alcune volte
 onboarding-new-user-survey-familiarity-based-option-3 = Lo conosco molto bene
 onboarding-new-user-survey-familiarity-based-option-4 = L’ho utilizzato in passato, ma è trascorso un po’ di tempo
+
+## UI strings for the sidebar and vertical tabs
+
+# New users
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Scegli dove preferisci tenere le tue schede
+
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Puoi cambiare idea in qualsiasi momento nelle impostazioni della barra laterale.
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Schede a lato
+
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Schede in alto
+
+# Existing users
+
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Sono arrivate le schede verticali
+
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Ti presentiamo le schede verticali
+
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prova a mettere le tue schede su un lato. Puoi cambiare idea in qualsiasi momento nelle impostazioni della barra laterale.
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prova le schede verticali
+onboarding-flair-text = Novità
+
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantieni le schede orizzontali
+
+# All users - Initial setup card
+
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Una finestra del browser che mostra le schede lungo il lato dello schermo nella barra laterale di { -brand-shorter-name }.
+
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Una finestra del browser che mostra le schede lungo il lato dello schermo nella barra laterale di { -brand-shorter-name }.
+
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Una finestra del browser con le schede nella parte superiore.
+
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Una finestra del browser con le schede nella parte superiore.
+
+# Existing users - additional setup card
+
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prova un chatbot AI nella barra laterale
+
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Riassumi contenuti online, genera idee, scrivi bozze di messaggi, tutto questo mentre navighi. Seleziona tra vari fornitori, cambia quando vuoi.
+onboarding-genai-sidebar-primary-button = Scegli un chatbot
+onboarding-genai-sidebar-secondary-button = Inizia a navigare
