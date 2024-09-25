@@ -279,3 +279,15 @@ tail-fox-spotlight-title = 성가신 추적기로부터 벗어나세요
 tail-fox-spotlight-subtitle = 귀찮은 광고 추적기와 작별하고 더 안전하고 빠른 인터넷 경험을 누리세요.
 tail-fox-spotlight-primary-button = { -brand-short-name }로 내 링크 열기
 tail-fox-spotlight-secondary-button = 나중에
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>구 버전의 { -brand-short-name }는 2025년 1월 14일에 문제가 생기기 시작할 수 있습니다.</strong>
+root-certificate-succession-infobar-march-message = <strong>2025년 3월 14일 이후에 { -brand-short-name }를 계속 사용하기 위한 업데이트</strong>
+root-certificate-succession-infobar-link = 업데이트가 필요한 이유?
+root-certificate-succession-infobar-primary-button =
+    .label = 지금 업데이트
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = 나중에
+    .accesskey = L

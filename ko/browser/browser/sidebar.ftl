@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI 챗봇
+menu-view-review-checker =
+    .label = 리뷰 검사기
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = 북마크
 sidebar-menu-customize-label =
     .label = 사이드바 사용자 지정
+sidebar-menu-review-checker-label =
+    .label = 리뷰 검사기
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,10 @@ sidebar-menu-history-header =
     .heading = 기록
 sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = 사이드바 사용자 지정
 
 ## Context for closing synced tabs when hovering over the items
 
