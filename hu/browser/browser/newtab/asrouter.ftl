@@ -282,3 +282,15 @@ tail-fox-spotlight-title = Rázza le a bosszantó nyomkövetőket
 tail-fox-spotlight-subtitle = Mondjon búcsút a bosszantó hirdetéskövetőknek, és élvezze a biztonságosabb, gyorsabb internetezést.
 tail-fox-spotlight-primary-button = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
 tail-fox-spotlight-secondary-button = Most nem
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>A { -brand-short-name } régebbi verzióiban 2025. január 14-én problémák léphetnek fel.</strong>
+root-certificate-succession-infobar-march-message = <strong>Frissítsen, hogy 2025. március 14. után is használja a { -brand-short-name(case: "accusative") }.</strong>
+root-certificate-succession-infobar-link = Miért van szükségem a frissítésre?
+root-certificate-succession-infobar-primary-button =
+    .label = Frissítés most
+    .accesskey = F
+root-certificate-succession-infobar-secondary-button =
+    .label = Később
+    .accesskey = K

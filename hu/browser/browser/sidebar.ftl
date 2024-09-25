@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = MI csevegőbot
+menu-view-review-checker =
+    .label = Értékelés-ellenőrző
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Könyvjelzők
 sidebar-menu-customize-label =
     .label = Oldalsáv testreszabása
+sidebar-menu-review-checker-label =
+    .label = Értékelés-ellenőrző
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Előzmények
 sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Oldalsáv testreszabása
+sidebar-history-title = Előzmények
+sidebar-syncedtabs-title = Lapok más eszközökről
 
 ## Context for closing synced tabs when hovering over the items
 
