@@ -46,7 +46,7 @@ callout-pdfjs-draw-button = Jag fattar!
 
 ## Firefox View Discoverability Strings
 
-fx-view-discoverability-title = Menade det inte att stänga den fliken?
+fx-view-discoverability-title = Ville du inte stänga den fliken?
 fx-view-discoverability-subtitle = Hitta och öppna den snabbt här. Vi för en historik över dina nyligen stängda flikar åt dig.
 fx-view-discoverability-primary-button-label = Öppna { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Ignorera
