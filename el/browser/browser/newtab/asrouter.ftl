@@ -175,13 +175,13 @@ firefoxview-cfr-primarybutton = Δοκιμή
 firefoxview-cfr-secondarybutton = Όχι τώρα
     .accesskey = χ
 firefoxview-cfr-header-v2 = Συνεχίστε γρήγορα από εκεί που σταματήσατε
-firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που έκλεισαν πρόσφατα και κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών με την { -firefoxview-brand-name }.
+firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που έκλεισαν πρόσφατα και κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών με την { -firefoxview-brand-name(case: "nom") }.
 
 ## Firefox View Spotlight
 
-firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name }
+firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name(case: "nom") }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Θέλετε αυτήν την ανοικτή καρτέλα στο τηλέφωνό σας; Αρπάξτε την. Χρειάζεστε αυτόν τον ιστότοπο που μόλις επισκεφτήκατε; Πουφ, επέστρεψε με την { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-subtitle = Θέλετε αυτήν την ανοικτή καρτέλα στο τηλέφωνό σας; Αρπάξτε την. Χρειάζεστε αυτόν τον ιστότοπο που μόλις επισκεφτήκατε; Eπέστρεψε μαγικά με την { -firefoxview-brand-name(case: "nom") }.
 firefoxview-spotlight-promo-primarybutton = Δείτε πώς λειτουργεί
 firefoxview-spotlight-promo-secondarybutton = Παράλειψη
 

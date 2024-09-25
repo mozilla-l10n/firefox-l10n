@@ -3,19 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
+    .label = { -firefoxview-brand-name(case: "nom") }
+    .tooltiptext = { -firefoxview-brand-name(case: "nom") }
 toolbar-button-firefox-view-2 =
-    .label = { -firefoxview-brand-name }
+    .label = { -firefoxview-brand-name(case: "nom") }
     .tooltiptext = Προβολή πρόσφατης περιήγησης από όλα τα παράθυρα και τις συσκευές
 menu-tools-firefox-view =
-    .label = { -firefoxview-brand-name }
+    .label = { -firefoxview-brand-name(case: "nom") }
     .accesskey = F
-firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-title = { -firefoxview-brand-name(case: "nom") }
 firefoxview-page-heading =
-    .heading = { -firefoxview-brand-name }
+    .heading = { -firefoxview-brand-name(case: "nom") }
 firefoxview-page-label =
-    .label = { -firefoxview-brand-name }
+    .label = { -firefoxview-brand-name(case: "nom") }
 firefoxview-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο

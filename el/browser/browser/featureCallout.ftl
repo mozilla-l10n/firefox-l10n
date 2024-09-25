@@ -48,6 +48,7 @@ callout-pdfjs-draw-button = Το 'πιασα!
 
 fx-view-discoverability-title = Δεν θέλατε να κλείσετε αυτήν την καρτέλα;
 fx-view-discoverability-subtitle = Βρείτε και ανοίξτε την ξανά εδώ. Διατηρούμε ένα ιστορικό με τις πρόσφατα κλεισμένες καρτέλες σας.
+fx-view-discoverability-primary-button-label = Άνοιγμα { -firefoxview-brand-name(case: "gen") }
 fx-view-discoverability-secondary-button-label = Απόρριψη
 
 ## Split Dismiss Button Labels
