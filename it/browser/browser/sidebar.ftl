@@ -61,6 +61,14 @@ sidebar-visibility-always-show =
   .label = Mostra sempre
 sidebar-visibility-hide-sidebar =
   .label = Nascondi barra laterale
+sidebar-customize-button-header =
+  .label = Pulsante barra laterale
+sidebar-customize-position-header =
+  .label = Posizione barra laterale
+sidebar-visibility-setting-always-show =
+  .label = Espandi e comprimi barra laterale
+sidebar-visibility-setting-hide-sidebar =
+  .label = Mostra e nascondi barra laterale
 
 ## Labels for sidebar context menu items
 
@@ -106,6 +114,8 @@ sidebar-menu-review-checker-label =
 
 ## Headings for sidebar menu panels.
 
+sidebar-panel-header-close-button =
+  .tooltiptext = Chiudi
 sidebar-menu-customize-header =
   .heading = Personalizza barra laterale
 sidebar-menu-history-header =
@@ -127,3 +137,14 @@ sidebar-syncedtabs-title = Schede da altri dispositivi
 # $deviceName - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Chiudi scheda su { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+  .tooltiptext = Espandi la barra latrale
+sidebar-toolbar-collapse-sidebar =
+  .tooltiptext = Comprimi la barra latrale
+sidebar-toolbar-show-sidebar =
+  .tooltiptext = Mostra la barra latrale
+sidebar-toolbar-hide-sidebar =
+  .tooltiptext = Nascondi la barra latrale
