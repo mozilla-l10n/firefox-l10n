@@ -288,3 +288,13 @@ tail-fox-spotlight-title = Wotdźeržće wobćežne přesćěhowaki
 tail-fox-spotlight-subtitle = Rozžohnujće z wobćežnymi wabjenskimi přesćěhowakami a zažiwće so do wěsćišeho, spěšneho internetneho dožiwjenja.
 tail-fox-spotlight-primary-button = Moje wotkazy z { -brand-short-name } wočinić
 tail-fox-spotlight-secondary-button = Nic nětko
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Čehodla dyrbju aktualizować?
+root-certificate-succession-infobar-primary-button =
+    .label = Nětko aktualizować
+    .accesskey = N
+root-certificate-succession-infobar-secondary-button =
+    .label = Pozdźišo
+    .accesskey = P

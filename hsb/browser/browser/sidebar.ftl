@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Kontrola pohódnoćenjow
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Zapołožki
 sidebar-menu-customize-label =
     .label = Bóčnicu přiměrić
+sidebar-menu-review-checker-label =
+    .label = Kontrola pohódnoćenjow
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Bóčnicu přiměrić
+sidebar-history-title = Historija
+sidebar-syncedtabs-title = Rajtarki z druhich gratow
 
 ## Context for closing synced tabs when hovering over the items
 
