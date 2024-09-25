@@ -288,3 +288,15 @@ tail-fox-spotlight-title = Wótźaržćo gramne pśeslědowaki
 tail-fox-spotlight-subtitle = Rozžognujśo se z gramnymi wabjeńskimi pśeslědowakami a zažywśo se do wěsćejšego, malsnego internetnego dožywjenja.
 tail-fox-spotlight-primary-button = Móje wótkaze z { -brand-short-name } wócyniś
 tail-fox-spotlight-secondary-button = Nic něnto
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } mógu snaź wót 14. januara 2025 problemy měá.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aktualizěrujśo, aby { -brand-short-name } pó 14. měrca 2025 dalej wužywał.</strong>
+root-certificate-succession-infobar-link = Cogodla musym aktualizěrowaś?
+root-certificate-succession-infobar-primary-button =
+    .label = Něnto aktualizěrowaś
+    .accesskey = N
+root-certificate-succession-infobar-secondary-button =
+    .label = Pózdźej
+    .accesskey = P
