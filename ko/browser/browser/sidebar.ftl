@@ -112,6 +112,8 @@ sidebar-menu-syncedtabs-header =
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = 사이드바 사용자 지정
+sidebar-history-title = 기록
+sidebar-syncedtabs-title = 다른 기기의 탭
 
 ## Context for closing synced tabs when hovering over the items
 
