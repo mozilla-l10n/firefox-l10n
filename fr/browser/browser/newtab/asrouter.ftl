@@ -281,3 +281,7 @@ tail-fox-spotlight-title = Gardez les traqueurs indésirables à distance
 tail-fox-spotlight-subtitle = Dites adieu aux traqueurs publicitaires pénibles et optez pour une expérience Internet plus rapide et plus sûre.
 tail-fox-spotlight-primary-button = Ouvrir mes liens avec { -brand-short-name }
 tail-fox-spotlight-secondary-button = Plus tard
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Les anciennes versions de { -brand-short-name } pourraient commencer à rencontrer des problèmes à partir du 14 janvier 2025.</strong>
