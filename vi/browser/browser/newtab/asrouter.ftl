@@ -279,3 +279,15 @@ tail-fox-spotlight-title = Loại bỏ những trình theo dõi phiền toái ph
 tail-fox-spotlight-subtitle = Nói lời tạm biệt với những trình theo dõi quảng cáo phiền toái và tận hưởng trải nghiệm Internet nhanh chóng, an toàn hơn.
 tail-fox-spotlight-primary-button = Mở liên kết của tôi bằng { -brand-short-name }
 tail-fox-spotlight-secondary-button = Không phải bây giờ
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Các phiên bản cũ hơn của { -brand-short-name } có thể bắt đầu gặp sự cố vào ngày 14 tháng 1 năm 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Cập nhật để tiếp tục sử dụng { -brand-short-name } sau ngày 14 tháng 3 năm 2025.</strong>
+root-certificate-succession-infobar-link = Tại sao tôi cần cập nhật?
+root-certificate-succession-infobar-primary-button =
+    .label = Cập nhật ngay
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = Để sau
+    .accesskey = L
