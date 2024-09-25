@@ -138,6 +138,8 @@ login-item-copied-username-button-text = ¡Xwachib'ëx!
 login-item-password-label = Ewan tzij
 login-item-password-reveal-checkbox =
     .aria-label = Tik'ut ewan tzij
+login-item-password-conceal-checkbox =
+    .aria-label = Tewäx ewan tzij
 login-item-copy-password-button-text = Tiwachib'ëx
 login-item-copied-password-button-text = ¡Xwachib'ëx!
 login-item-save-changes-button = Keyak Jaloj
@@ -272,6 +274,7 @@ about-logins-confirm-export-dialog-title = Kek'wäx el kitikirisaxik molojri'ïl
 about-logins-confirm-export-dialog-message = Xkeyak ri ewan taq atzij achi'el tz'etel tz'ib'anïk (achi'el, BadP@ssw0rd) richin chi xab'achike xtijaqon ri yakb'äl k'wa'an, nitikïr nutz'ët.
 about-logins-confirm-export-dialog-confirm-button = Tik'wäx el…
 about-logins-confirm-export-dialog-title2 = Jun rutzijol chi rij ri kijik'ik ewan taq tzij
+about-logins-confirm-export-dialog-confirm-button2 = Tisamajïx chik na ri k'amoj
 about-logins-alert-import-title = Xtz'aqät Ruk'amik
 about-logins-alert-import-message = Titz'et rub'anikil ruk'amik
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
@@ -313,6 +316,8 @@ about-logins-export-file-picker-title = Tik'wäx el Ruyakb'al Tikirib'äl Molojr
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Tik'am ri Ewan tzij pa { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = ewatzij.csv
@@ -329,6 +334,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Tijik' Ruyakb'al Tikirib'äl Molojri'ïl
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Tijik' ri Ewan tzij pa { -brand-short-name }
 about-logins-import-file-picker-import-button = Tijik'
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
