@@ -284,6 +284,8 @@ tail-fox-spotlight-secondary-button = Όχι τώρα
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Οι παλαιότερες εκδόσεις του { -brand-short-name } ίσως αρχίσουν να έχουν προβλήματα στις 14 Ιανουαρίου 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Κάντε ενημέρωση για να συνεχίσετε τη χρήση του { -brand-short-name } μετά τις 14 Μαρτίου 2025.</strong>
 root-certificate-succession-infobar-link = Γιατί πρέπει να κάνω ενημέρωση;
 root-certificate-succession-infobar-primary-button =
     .label = Ενημέρωση τώρα
