@@ -52,6 +52,8 @@ fx-view-discoverability-secondary-button-label = Ignorer
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Ikkje vis denne tilrådinga igjen
 # Dismisses message and reduces frequency of message
 split-dismiss-button-show-fewer-option-label = Vis færre tilrådingar
 # Opens about:preferences#general-cfrfeatures
