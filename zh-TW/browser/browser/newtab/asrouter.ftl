@@ -279,3 +279,15 @@ tail-fox-spotlight-title = 別讓討厭的追蹤器跟上來
 tail-fox-spotlight-subtitle = 跟令人討厭的廣告追蹤器說再見，並且有一套更快、更安全的上網體驗。
 tail-fox-spotlight-primary-button = 用 { -brand-short-name } 開啟我的鏈結
 tail-fox-spotlight-secondary-button = 現在不要
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>舊版的 { -brand-short-name } 可能會在 2025 年 1 月 14 起遇到啟動問題。</strong>
+root-certificate-succession-infobar-march-message = <strong>若要在 2025 年 3 月 14 日後繼續使用 { -brand-short-name }，請更新。</strong>
+root-certificate-succession-infobar-link = 為什麼我需要更新？
+root-certificate-succession-infobar-primary-button =
+    .label = 立即更新
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = 以後再更新
+    .accesskey = L

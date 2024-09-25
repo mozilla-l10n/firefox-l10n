@@ -313,6 +313,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = 推送服務
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = 來源
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = 多程序的 { -brand-shorter-name } 目前暫時無法使用 Service Worker 檢測

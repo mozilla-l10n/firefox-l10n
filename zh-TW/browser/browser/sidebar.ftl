@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI 聊天機器人
+menu-view-review-checker =
+    .label = 商品評論檢查器
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = 書籤
 sidebar-menu-customize-label =
     .label = 自訂側邊欄
+sidebar-menu-review-checker-label =
+    .label = 商品評論檢查器
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
     .heading = 來自其他裝置的分頁
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = 自訂側邊欄
+sidebar-history-title = 瀏覽紀錄
+sidebar-syncedtabs-title = 來自其他裝置的分頁
 
 ## Context for closing synced tabs when hovering over the items
 

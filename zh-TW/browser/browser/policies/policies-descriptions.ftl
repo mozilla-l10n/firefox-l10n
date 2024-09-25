@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = 使用系統列印對話框列印。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
 policy-Windows10SSO = 允許使用 Windows 單一登入系統，登入微軟、工作單位、學校提供的帳號。
+policy-MicrosoftEntraSSO = 允許使用 Microsoft Entra 帳號單一登入。
