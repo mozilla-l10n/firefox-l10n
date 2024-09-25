@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = Z pomocu systemoweho ćišćerskeho dialoga ćiš�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Wopytowanju websydłow zadźěwać. Hlejće dokumentaciju za dalše podrobnosće wo formaće.
 policy-Windows10SSO = Jednotne přizjewjenje za konta Microsoft, dźěłowe konta a šulske konta zmóžnić
+policy-MicrosoftEntraSSO = Jednotliwe přizjewjenje za konta Microsoft Entra dowolić.

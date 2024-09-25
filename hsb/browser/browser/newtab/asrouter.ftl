@@ -292,6 +292,7 @@ tail-fox-spotlight-secondary-button = Nic nětko
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } móža snano wot 14. januara 2025 problemy měć.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aktualizujće, zo byšće { -brand-short-name } po 14. měrca 2025 dale wužiwał.</strong>
 root-certificate-succession-infobar-link = Čehodla dyrbju aktualizować?
 root-certificate-succession-infobar-primary-button =
     .label = Nětko aktualizować
