@@ -294,3 +294,15 @@ tail-fox-spotlight-title = Cadw tracwyr blin oddi ar eich cefn
 tail-fox-spotlight-subtitle = Ffarweliwch â thracwyr hysbysebion annifyr a symud i brofiad rhyngrwyd mwy diogel a chyflym.
 tail-fox-spotlight-primary-button = Agor fy nolenni gyda { -brand-short-name }
 tail-fox-spotlight-secondary-button = Nid nawr
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Mae'n bosib y bydd fersiynau hŷn o { -brand-short-name } yn dechrau cael problemau ar Ionawr 14, 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Diweddarwch i barhau i ddefnyddio { -brand-short-name } ar ôl Mawrth 14, 2025.</strong>
+root-certificate-succession-infobar-link = Pam fod angen i mi ddiweddaru?
+root-certificate-succession-infobar-primary-button =
+    .label = Diweddarwch nawr
+    .accesskey = D
+root-certificate-succession-infobar-secondary-button =
+    .label = Yn hwyrach
+    .accesskey = Y

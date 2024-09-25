@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Sgwrsfot AI
+menu-view-review-checker =
+    .label = Gwirydd Adolygiadau
 
 ## Labels for sidebar history panel
 
@@ -73,6 +75,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab…
 sidebar-context-menu-copy-link =
     .label = Copïo'r Ddolen
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Cau tab ar { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -91,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Nodau Tudalen
 sidebar-menu-customize-label =
     .label = Cyfaddasu'r bar offer
+sidebar-menu-review-checker-label =
+    .label = Gwirydd Adolygiadau
 
 ## Headings for sidebar menu panels.
 
@@ -100,3 +108,18 @@ sidebar-menu-history-header =
     .heading = Hanes
 sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Cyfaddasu'r bar offer
+sidebar-history-title = Hanes
+sidebar-syncedtabs-title = Tabiau o ddyfeisiau eraill
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Cau tab ar { $deviceName }
