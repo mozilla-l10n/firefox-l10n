@@ -270,3 +270,13 @@ launch-on-login-infobar-final-reject-button = לא תודה
 
 tail-fox-spotlight-primary-button = פתיחת הקישורים שלי באמצעות { -brand-short-name }
 tail-fox-spotlight-secondary-button = לא כעת
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = למה צריך לעדכן?
+root-certificate-succession-infobar-primary-button =
+    .label = עדכון כעת
+    .accesskey = ע
+root-certificate-succession-infobar-secondary-button =
+    .label = מאוחר יותר
+    .accesskey = מ

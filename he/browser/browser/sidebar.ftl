@@ -105,6 +105,12 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
 
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = התאמה אישית של סרגל הצד
+sidebar-history-title = היסטוריה
+sidebar-syncedtabs-title = לשוניות ממכשירים אחרים
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will

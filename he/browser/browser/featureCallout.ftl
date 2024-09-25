@@ -28,3 +28,19 @@ callout-pdfjs-draw-body-a = כתיבה על קובצי PDF ושמירת השינ
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = לא צריך עוד להדפיס ולסרוק. אפשר לסמן בקובצי PDF ואז לשמור את השינויים שלך.
 callout-pdfjs-draw-button = הבנתי!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-title = לא התכוונת לסגור את הלשונית ההיא?
+fx-view-discoverability-subtitle = ניתן למצוא ולפתוח אותה מחדש כאן. אנו שומרים עבורך היסטוריה של הלשוניות שנסגרו לאחרונה.
+fx-view-discoverability-primary-button-label = פתיחת { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = סגירה
+
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = לא להציג המלצה זו שוב
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = להציג פחות המלצות
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = ניהול הגדרות

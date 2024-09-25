@@ -30,6 +30,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% הושלמו
 firefoxview-tabpickup-step-signin-header = מעבר חלק בין מכשירים
 firefoxview-tabpickup-step-signin-description = כדי לקבל כאן את הלשוניות שלך מהטלפון, תחילה יש להיכנס או צור חשבון.
 firefoxview-tabpickup-step-signin-primarybutton = המשך
+firefoxview-syncedtabs-signin-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר לחשבון שלך. אם אין לך חשבון, אנו נדריך אותך בשלבי ההרשמה.
 firefoxview-syncedtabs-signin-primarybutton = התחברות או הרשמה
 firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 firefoxview-tabpickup-adddevice-description = יש להוריד את { -brand-product-name } לנייד ולהתחבר שם.
