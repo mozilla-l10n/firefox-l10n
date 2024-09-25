@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot IA
+menu-view-review-checker =
+    .label = Vérificateur d’avis
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Marque-pages
 sidebar-menu-customize-label =
     .label = Personnaliser le panneau latéral
+sidebar-menu-review-checker-label =
+    .label = Vérificateur d’avis
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Historique
 sidebar-menu-syncedtabs-header =
     .heading = Onglets d’autres appareils
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personnaliser le panneau latéral
+sidebar-history-title = Historique
+sidebar-syncedtabs-title = Onglets d’autres appareils
 
 ## Context for closing synced tabs when hovering over the items
 
