@@ -281,3 +281,13 @@ tail-fox-spotlight-title = Hald irriterande sporingstenester på avstand
 tail-fox-spotlight-subtitle = Sei farvel til irriterande annonsesporarar, og møt ei tryggare og raskere internettoppleving.
 tail-fox-spotlight-primary-button = Opne lenkene mine med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikkje no
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Kvifor må eg oppdatere?
+root-certificate-succession-infobar-primary-button =
+    .label = Oppdater no
+    .accesskey = O
+root-certificate-succession-infobar-secondary-button =
+    .label = Seinare
+    .accesskey = S

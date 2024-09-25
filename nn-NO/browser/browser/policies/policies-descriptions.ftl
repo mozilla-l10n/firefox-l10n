@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = Skriv ut ved hjelp av utskriftsdialogvindauget til
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettstadar. Les dokumentasjonen for detaljer om formatet.
 policy-Windows10SSO = Tillat Windows enkel pålogging for Microsoft, arbeids- og skulekontoar.
+policy-MicrosoftEntraSSO = Tillat enkel pålogging for Microsoft Entra-kontoar.
