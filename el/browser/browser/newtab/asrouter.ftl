@@ -281,3 +281,13 @@ tail-fox-spotlight-title = Κρατήστε μακριά τους ενοχλητ
 tail-fox-spotlight-subtitle = Πείτε αντίο στους ενοχλητικούς ιχνηλάτες διαφημίσεων και απολαύστε μια πιο ασφαλή και γρήγορη εμπειρία στο διαδίκτυο.
 tail-fox-spotlight-primary-button = Άνοιγμα συνδέσμων με το { -brand-short-name }
 tail-fox-spotlight-secondary-button = Όχι τώρα
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Γιατί πρέπει να κάνω ενημέρωση;
+root-certificate-succession-infobar-primary-button =
+    .label = Ενημέρωση τώρα
+    .accesskey = Ε
+root-certificate-succession-infobar-secondary-button =
+    .label = Αργότερα
+    .accesskey = Α

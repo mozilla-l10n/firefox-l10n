@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Έλεγχος κριτικών
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Σελιδοδείκτες
 sidebar-menu-customize-label =
     .label = Προσαρμογή πλαϊνής γραμμής
+sidebar-menu-review-checker-label =
+    .label = Έλεγχος κριτικών
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Ιστορικό
 sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Προσαρμογή πλαϊνής γραμμής
+sidebar-history-title = Ιστορικό
+sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = Εκτύπωση μέσω του διαλόγου 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Φραγή ιστοτόπων προς επίσκεψη. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
 policy-Windows10SSO = Να επιτρέπεται η καθολική σύνδεση των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
+policy-MicrosoftEntraSSO = Να επιτρέπεται η καθολική σύνδεση για λογαριασμούς Microsoft Entra.
