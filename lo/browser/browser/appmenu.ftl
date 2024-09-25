@@ -253,3 +253,5 @@ appmenu-developer-tools-extensions =
 
 ## Panel for privacy and security products
 
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = ປົກປ້ອງການເຄື່ອນໄຫວອອນໄລນ໌ຂອງທ່ານ

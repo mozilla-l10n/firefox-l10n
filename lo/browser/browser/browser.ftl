@@ -471,6 +471,8 @@ urlbar-result-action-search-w-engine = ຄົ້ນຫາດ້ວຍ { $engine 
 urlbar-result-action-sponsored = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 urlbar-result-action-switch-tab = ປ່ຽນໄປຫາແທັບ
 urlbar-result-action-visit = ຢ້ຽມຢາມ
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = ເຂົ້າເບິ່ງຈາກຄລິບບອດ
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -499,6 +501,12 @@ urlbar-result-action-copy-to-clipboard = ສໍາເນົາ
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = ຄົ້ນຫາດ້ວຍ { $engine }
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -523,6 +531,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ຄຳສັ່ງດ່ວນ
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = ການຄົ້ນຫາຫຼ້າສຸດ
 
 ## Reader View toolbar buttons
 
@@ -541,6 +554,8 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = ເປີດຮູບໃນຮູບ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ປິດຮູບໃນຮູບ ({ $shortcut })
+picture-in-picture-enable-toggle =
+    .label = ຢືນຢັນການເປີດໃຊ້ງານ
 
 ## Full Screen and Pointer Lock UI
 
@@ -761,6 +776,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>ເປີດແຖບກ່ອນໜ້າບໍ?</strong> ທ່ານສາມາດຟື້ນຟູເຊສຊັນກ່ອນໜ້າຂອງທ່ານໄດ້ຈາກເມນູແອັບພລິເຄຊັນ { -brand-short-name } <img data-l10n-name="icon"/>, ພາຍໃຕ້ປະຫວັດ.
 restore-session-startup-suggestion-button = ບອກວິທີເຮັດໃຫ້ຂ້ອຍຮູ້
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ສົ່ງຂໍ້ມູນບາງຢ່າງໄປ { -vendor-short-name } ໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ພວກເຮົາສາມາດປັບປຸງປະສົບການຂອງທ່ານໄດ້.
@@ -836,3 +854,14 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = ສະແດງ '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Windows file-dialog ບໍ່ສາມາດເປີດໄດ້. ບໍ່ມີໄຟລ໌ ຫຼື ໂຟນເດີໃດສາມາດເລືອກໄດ້.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

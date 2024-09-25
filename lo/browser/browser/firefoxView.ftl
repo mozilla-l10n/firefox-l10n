@@ -31,6 +31,7 @@ firefoxview-tabpickup-synctabs-header = ເປີດການຊິງຄ໌ແ�
 firefoxview-tabpickup-synctabs-description = ອະນຸຍາດໃຫ້ { -brand-short-name } ແບ່ງປັນແຖບລະຫວ່າງອຸປະກອນ.
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-synctabs-primarybutton = Sync ແຖບເປີດ
+firefoxview-syncedtabs-synctabs-checkbox = ອະນຸຍາດໃຫ້ແຖບເປີດເພື່ອຊິງຄ໌
 firefoxview-tabpickup-fxa-admin-disabled-header = ອົງການຂອງທ່ານໄດ້ປິດການຊິ້ງຂໍ້ມູນ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ບໍ່ສາມາດຊິງຄ໌ແຖບລະຫວ່າງອຸປະກອນໄດ້ເນື່ອງຈາກຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ປິດການຊິງຄ໌.
 firefoxview-tabpickup-network-offline-header = ກວດເບິ່ງການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ
@@ -108,7 +109,7 @@ firefoxview-synced-tabs-header = ແຖບຈາກອຸປະກອນອື�
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = ເບິ່ງ​ທັງ​ຫມົດ
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -136,3 +137,34 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົດ
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
