@@ -282,3 +282,7 @@ tail-fox-spotlight-title = Evite los rastreadores de datos
 tail-fox-spotlight-subtitle = Diga adiós a los molestos rastreadores de publicidad y disfrute de una experiencia de Internet más segura y rápida.
 tail-fox-spotlight-primary-button = Abrir mis enlaces con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ahora no
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Versiones viejas de { -brand-short-name } pueden empezar a tener problemas el 14 de enero de 2025.</strong>
