@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = ИИ-чат-бот
+menu-view-review-checker =
+    .label = Проверка отзывов
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Закладки
 sidebar-menu-customize-label =
     .label = Настройка боковой панели
+sidebar-menu-review-checker-label =
+    .label = Проверка отзывов
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Журнал
 sidebar-menu-syncedtabs-header =
     .heading = Вкладки с других устройств
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Настройка боковой панели
+sidebar-history-title = Журнал
+sidebar-syncedtabs-title = Вкладки с других устройств
 
 ## Context for closing synced tabs when hovering over the items
 

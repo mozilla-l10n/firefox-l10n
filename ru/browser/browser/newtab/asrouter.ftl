@@ -285,3 +285,15 @@ tail-fox-spotlight-title = Держите надоедливые трекеры 
 tail-fox-spotlight-subtitle = Попрощайтесь с надоедливыми рекламными трекерами и переключитесь на более безопасный и быстрый Интернет.
 tail-fox-spotlight-primary-button = Открывать мои ссылки с помощью { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не сейчас
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>14 января 2025 г. в более старых версиях { -brand-short-name } могут начаться проблемы.</strong>
+root-certificate-succession-infobar-march-message = <strong>Обновите, чтобы продолжить использовать { -brand-short-name } после 14 марта 2025 г.</strong>
+root-certificate-succession-infobar-link = Почему мне необходимо обновление?
+root-certificate-succession-infobar-primary-button =
+    .label = Обновить сейчас
+    .accesskey = Г
+root-certificate-succession-infobar-secondary-button =
+    .label = Позже
+    .accesskey = Д
