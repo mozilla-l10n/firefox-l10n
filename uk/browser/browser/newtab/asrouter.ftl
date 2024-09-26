@@ -285,3 +285,13 @@ tail-fox-spotlight-title = Тримайте надокучливі елемен�
 tail-fox-spotlight-subtitle = Попрощайтеся з надокучливим стеженням реклами та приготуйтеся до безпечнішої та швидшої роботи в інтернеті.
 tail-fox-spotlight-primary-button = Відкривати посилання в { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не зараз
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Чому мені потрібно оновлювати?
+root-certificate-succession-infobar-primary-button =
+    .label = Оновити зараз
+    .accesskey = О
+root-certificate-succession-infobar-secondary-button =
+    .label = Пізніше
+    .accesskey = П
