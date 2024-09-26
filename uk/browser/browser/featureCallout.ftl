@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = Зрозуміло!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Не хотіли закривати цю вкладку?
+fx-view-discoverability-subtitle = Тут можна швидко знайти і знову відкрити її. Ми зберігаємо історію нещодавно закритих вкладок.
 fx-view-discoverability-primary-button-label = Відкрити { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Відхилити
 
