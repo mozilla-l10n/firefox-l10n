@@ -379,6 +379,39 @@ onboarding-new-user-survey-familiarity-based-option-4 = 예전에 사용했지�
 ## UI strings for the sidebar and vertical tabs
 
 # Setup screen for vertical tabs
-onboarding-new-tabs-title = 탭을 둘 위치를 알려주세요
+onboarding-new-tabs-title = 탭의 위치를 알려주세요
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = 측면에 있는 탭
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = 상단에 있는 탭
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = 세로 탭
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = 세로 탭 소개
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = 옆에서 탭을 사용해보세요. 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = 세로 탭 사용해보기
+onboarding-flair-text = 새 기능!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = 가로 탭 유지
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = { -brand-shorter-name } 사이드바의 일부로 화면 측면에 탭을 표시하는 브라우저 창입니다.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = { -brand-shorter-name } 사이드바의 일부로 화면 측면에 탭을 표시하는 브라우저 창입니다.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = 탭을 상단에 표시하는 브라우저 창입니다.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = 탭을 상단에 표시하는 브라우저 창입니다.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = 사이드바에서 AI 챗봇을 사용해 보세요
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = 탐색하는 동안 웹 콘텐츠를 요약하고, 아이디어를 브레인스토밍하고, 메시지 초안을 작성하세요. 여러 공급자 중에서 선택하세요. 언제든지 전환할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+onboarding-genai-sidebar-primary-button = 챗봇 선택
+onboarding-genai-sidebar-secondary-button = 탐색 시작
