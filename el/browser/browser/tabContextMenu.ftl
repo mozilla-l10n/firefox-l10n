@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Κλείσιμο καρτελών στα αριστερά
     .accesskey = μ
+close-tabs-to-the-start-vertical =
+    .label = Κλείσιμο των από πάνω καρτελών
+    .accesskey = λ
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Κλείσιμο καρτελών στα δεξιά
     .accesskey = ξ
+close-tabs-to-the-end-vertical =
+    .label = Κλείσιμο των από κάτω καρτελών
+    .accesskey = ι
 close-other-tabs =
     .label = Κλείσιμο άλλων καρτελών
     .accesskey = ω
@@ -81,6 +87,9 @@ tab-context-share-url =
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Νέα καρτέλα στα δεξιά
+    .accesskey = α
+tab-context-new-tab-open-vertical =
+    .label = Νέα καρτέλα από κάτω
     .accesskey = α
 
 ## Variables:

@@ -76,10 +76,55 @@ genai-provider-view-details =
     .label = Προβολή λεπτομερειών chatbot
 genai-provider-about-chatbots =
     .label = Σχετικά με αυτά τα chatbot
+genai-options-reload-generic =
+    .label = Επαναφόρτωση AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Επαναφόρτωση του { $provider }
+genai-options-show-shortcut =
+    .label = Εμφάνιση συντόμευσης κατά την επιλογή κειμένου
+genai-options-hide-shortcut =
+    .label = Απόκρυψη συντόμευσης κατά την επιλογή κειμένου
+genai-options-about-chatbot =
+    .label = Σχετικά με τα ΑΙ chatbot στο { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Συνέχεια
+genai-onboarding-secondary = Κλείσιμο
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Μάθετε περισσότερα σχετικά με το Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Μάθετε περισσότερα σχετικά με το ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Μάθετε περισσότερα σχετικά με το Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Μάθετε περισσότερα σχετικά με το HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Μάθετε περισσότερα σχετικά με το Le Chat
+genai-onboarding-select-header = Επιλέξτε κείμενο για να δείτε προτάσεις
+genai-onboarding-select-description = Όταν επιλέγετε κείμενο, θα προτείνουμε εντολές που μπορείτε να στείλετε στο chatbot. Μπορείτε επίσης να γράψετε τις δικές σας.
+genai-onboarding-select-primary = Έναρξη συνομιλίας
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Δημιουργία κειμένου και κώδικα
+genai-onboarding-claude-analyze = Ανάλυση εγγράφων και εικόνων
+genai-onboarding-claude-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός
+genai-onboarding-chatgpt-generate = Δημιουργία κειμένου, εικόνων και κώδικα
+genai-onboarding-chatgpt-analyze = Ανάλυση εγγράφων και εικόνων
+genai-onboarding-chatgpt-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός για ορισμένες χώρες και εργασίες
+genai-onboarding-gemini-generate = Δημιουργία κειμένου, εικόνων και κώδικα
+genai-onboarding-gemini-analyze = Ανάλυση εικόνων (δωρεάν) και εγγράφων (επί πληρωμή)
+genai-onboarding-gemini-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός
+genai-onboarding-huggingchat-generate = Δημιουργία κειμένου και κώδικα
+genai-onboarding-huggingchat-switch = Εναλλαγή ανάμεσα σε ένα ευρύ φάσμα ανοικτών μοντέλων
+genai-onboarding-huggingchat-price = Δωρεάν· απαιτείται λογαριασμός για ορισμένες εργασίες
+genai-onboarding-lechat-generate = Δημιουργία κειμένου και κώδικα
+genai-onboarding-lechat-price = Δωρεάν· απαιτείται λογαριασμός

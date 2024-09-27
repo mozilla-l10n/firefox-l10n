@@ -136,6 +136,10 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής
 sidebar-toolbar-show-sidebar =
     .tooltiptext = Εμφάνιση πλαϊνής γραμμής
 sidebar-toolbar-hide-sidebar =

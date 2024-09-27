@@ -378,6 +378,13 @@ onboarding-new-user-survey-familiarity-based-option-4 = Το χρησιμοπο�
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις καρτέλες σας
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Καρτέλες στο πάνω μέρος
+onboarding-flair-text = Νέο!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Διατήρηση οριζόντιων καρτελών
 onboarding-genai-sidebar-secondary-button = Έναρξη περιήγησης
