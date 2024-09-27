@@ -78,6 +78,9 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = C
+tab-context-new-tab-open-vertical =
+    .label = Nueva pestaña a continuación
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

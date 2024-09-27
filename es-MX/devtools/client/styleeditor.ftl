@@ -51,3 +51,6 @@ styleeditor-stylesheet-rule-count =
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
     .title = Imprimir hoja de estilos formateada
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Solo se puede dar formato a archivos CSS
