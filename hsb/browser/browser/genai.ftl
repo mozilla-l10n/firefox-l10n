@@ -70,6 +70,11 @@ genai-header-options-button =
     .title = Meni wočinić
 genai-header-close-button =
     .title = Začinić
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } znowa začitać
+genai-options-about-chatbot =
+    .label = Wo chatbotach w { -brand-short-name }
 
 ## Chatbot onboarding
 
@@ -77,16 +82,24 @@ genai-onboarding-primary = Dale
 genai-onboarding-secondary = Začinić
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Zhońće wjace wo Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = Zhońće wjace wo ChatGPT
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
+genai-onboarding-gemini-learn = Zhońće wjace wo Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-huggingchat-learn = Zhońće wjace wo HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Zhońće wjace wo Le Chat
 genai-onboarding-select-header = Wubjerće tekst, zo byšće namjety widźał
+genai-onboarding-select-primary = Chattować započeć
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Tekst a kod generować
+genai-onboarding-claude-analyze = Dokumenty a wobrazy analyzować
