@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Tlač pomocou systémového dialógového okna tla
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
 policy-Windows10SSO = Povolí jednotné prihlásenie systému Windows pre konto Microsoft a pracovné a školské účty.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Povolí jednotné prihlásenie pre účty Microsoft Entra.

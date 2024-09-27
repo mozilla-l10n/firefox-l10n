@@ -285,3 +285,15 @@ tail-fox-spotlight-title = Zbavte sa dotieravých sledovacích prvkov
 tail-fox-spotlight-subtitle = Rozlúčte sa s otravnými reklamnými sledovacími prvkami a zažite bezpečnejší a rýchlejší internet.
 tail-fox-spotlight-primary-button = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
 tail-fox-spotlight-secondary-button = Teraz nie
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Staršie verzie { -brand-short-name(case: "gen") } môžu začať mať problémy 14. januára 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aktualizujte, aby ste { -brand-short-name } mohli používať aj po 14. marci 2025.</strong>
+root-certificate-succession-infobar-link = Prečo by som mal aktualizovať?
+root-certificate-succession-infobar-primary-button =
+    .label = Aktualizovať teraz
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Neskôr
+    .accesskey = N

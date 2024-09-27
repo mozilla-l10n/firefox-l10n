@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Kontrola recenzií
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Záložky
 sidebar-menu-customize-label =
     .label = Prispôsobiť bočný panel
+sidebar-menu-review-checker-label =
+    .label = Kontrola recenzií
 
 ## Headings for sidebar menu panels.
 
@@ -105,6 +109,12 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Karty z ďalších zariadení
 
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Prispôsobiť bočný panel
+sidebar-history-title = História
+sidebar-syncedtabs-title = Karty z ďalších zariadení
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -113,3 +123,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zavrieť kartu v zariadení { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
