@@ -60,3 +60,22 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Prašejće so { $provider }…
+
+## Chatbot header
+
+genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Wubjerće chatbot
+genai-header-options-button =
+    .title = Meni wočinić
+genai-header-close-button =
+    .title = Začinić
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Dale
+genai-onboarding-secondary = Začinić
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
