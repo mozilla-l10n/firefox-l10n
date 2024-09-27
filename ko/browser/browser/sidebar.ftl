@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = 가로 탭
 sidebar-customize-tabs-header =
     .label = 탭 설정
+sidebar-customize-button-header =
+    .label = 사이드바 버튼
+sidebar-customize-position-header =
+    .label = 사이드바 위치
+sidebar-visibility-setting-always-show =
+    .label = 사이드바 펼치기 및 접기
+sidebar-visibility-setting-hide-sidebar =
+    .label = 사이드바 표시 및 숨기기
 sidebar-customize-settings-header =
     .label = 사이드바 설정
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = 기록
 sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
+sidebar-panel-header-close-button =
+    .tooltiptext = 닫기
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = 다른 기기의 탭
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }의 탭 닫기
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = 사이드바 펼치기
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = 사이드바 접기
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = 사이드바 표시
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = 사이드바 숨기기
