@@ -28,10 +28,16 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = 왼쪽 탭 닫기
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = 위 탭 닫기
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = 오른쪽 탭 닫기
+    .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = 아래 탭 닫기
     .accesskey = i
 close-other-tabs =
     .label = 다른 탭 닫기
@@ -78,6 +84,9 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = 공유
     .accesskey = h
+tab-context-new-tab-open-vertical =
+    .label = 아래에 새 탭
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
