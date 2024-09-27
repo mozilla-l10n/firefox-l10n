@@ -60,3 +60,63 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }…
+genai-shortcuts-hide =
+    .label = Ocultar el atajo del chatbot
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot de IA
+genai-header-provider-menu =
+    .title = Elegir un chatbot
+genai-header-options-button =
+    .title = Abrir menú
+genai-header-close-button =
+    .title = Cerrar
+genai-provider-view-details =
+    .label = Ver detalles del chatbot
+genai-provider-about-chatbots =
+    .label = Acerca de estos chatbots
+genai-options-reload-generic =
+    .label = Recargar chatbot de IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Recargar { $provider }
+genai-options-show-shortcut =
+    .label = Mostrar acceso directo al seleccionar texto
+genai-options-hide-shortcut =
+    .label = Ocultar acceso directo al seleccionar texto
+genai-options-about-chatbot =
+    .label = Acerca de los chatbots de IA en { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Resume, haz una lluvia de ideas y más mientras navegas
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Elige un chatbot de IA para usar en la barra lateral { -brand-short-name }. Te mostraremos detalles sobre cada chatbot cuando lo selecciones. Cambia cuando quieras. <a data-l10n-name="learn-more">Más información</a>
+genai-onboarding-primary = Continuar
+genai-onboarding-secondary = Cerrar
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Conoce más sobre Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Obtén más información sobre ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Géminis
+genai-onboarding-gemini-learn = Conoce más sobre Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Obtén más información sobre HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Obtén más información sobre Le Chat
+genai-onboarding-select-header = Selecciona texto para ver sugerencias
+genai-onboarding-select-description = Cuando selecciones texto, te sugeriremos indicaciones que puedes enviar al chatbot. También puedes escribir tus propias indicaciones.
+genai-onboarding-select-primary = Empezar a chatear
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Generar texto y código
+genai-onboarding-claude-analyze = Analizar documentos e imágenes
+genai-onboarding-claude-price = Opciones gratuitas y de pago; se requiere cuenta
