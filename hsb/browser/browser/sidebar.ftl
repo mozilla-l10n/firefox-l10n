@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horicontalne rajtarki
 sidebar-customize-tabs-header =
     .label = Nastajenja rajtarkow
+sidebar-customize-button-header =
+    .label = Tłóčatko bóčnicy
+sidebar-customize-position-header =
+    .label = Pozicija bóčnicy
+sidebar-visibility-setting-always-show =
+    .label = Bóčnicu pokazać a schować
+sidebar-visibility-setting-hide-sidebar =
+    .label = Bóčnicu pokazać a schować
 sidebar-customize-settings-header =
     .label = Nastajenja bóčnicy
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
+sidebar-panel-header-close-button =
+    .tooltiptext = Začinić
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Rajtarki z druhich gratow
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Rajtark na { $deviceName } začinić
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Bóčnicu pokazać
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Bóčnicu schować
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Bóčnicu pokazać
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Bóčnicu schować

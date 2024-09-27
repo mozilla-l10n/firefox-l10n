@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Rajtarki nalěwo začinić
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Rajtarki horjeka začinić
+    .accesskey = h
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Rajtarki naprawo začinić
     .accesskey = n
+close-tabs-to-the-end-vertical =
+    .label = Rajtarki deleka začinić
+    .accesskey = d
 close-other-tabs =
     .label = Druhe rajtarki začinić
     .accesskey = D
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Dźělić
     .accesskey = D
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nowy rajtark doprawa
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Nowy rajtark deleka
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

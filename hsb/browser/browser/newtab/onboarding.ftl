@@ -376,3 +376,19 @@ onboarding-new-user-survey-familiarity-based-option-1 = Sym cyle nowy
 onboarding-new-user-survey-familiarity-based-option-2 = Sym jón hižo něštokróć wužiwał
 onboarding-new-user-survey-familiarity-based-option-3 = Znaju jón jara derje
 onboarding-new-user-survey-familiarity-based-option-4 = Sym jón w zańdźenosći wužiwał, ale je tomu hižo chwila
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Rajtarki naboku
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Rajtarki horjeka
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Wertikalne rajtarki su tu
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Wupruwujće wertikalne rajtarki
+onboarding-flair-text = Nowy!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Horicontalne rajtarki wobchować
+onboarding-genai-sidebar-primary-button = Wubjerće chatbot
+onboarding-genai-sidebar-secondary-button = Přehladowanje započeć
