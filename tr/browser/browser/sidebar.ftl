@@ -105,6 +105,11 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
 
+## Titles for sidebar menu panels.
+
+sidebar-history-title = Geçmiş
+sidebar-syncedtabs-title = Diğer cihazlardaki sekmeler
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -113,3 +118,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } cihazındaki sekmeyi kapat
+
+## Tooltips for the sidebar toolbar button.
+
