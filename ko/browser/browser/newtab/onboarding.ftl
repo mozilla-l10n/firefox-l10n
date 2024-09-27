@@ -391,7 +391,7 @@ onboarding-existing-tabs-title = 세로 탭
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = 세로 탭 소개
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-existing-tabs-subtitle = 옆에서 탭을 사용해보세요. 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
+onboarding-existing-tabs-subtitle = 측면에서 탭을 사용해보세요. 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = 세로 탭 사용해보기
 onboarding-flair-text = 새 기능!
