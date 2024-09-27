@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = บอตสนทนา AI
+menu-view-review-checker =
+    .label = เครื่องมือตรวจสอบบทวิจารณ์
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = ที่คั่นหน้า
 sidebar-menu-customize-label =
     .label = ปรับแต่งแถบข้าง
+sidebar-menu-review-checker-label =
+    .label = เครื่องมือตรวจสอบบทวิจารณ์
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = ประวัติ
 sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = ปรับแต่งแถบข้าง
+sidebar-history-title = ประวัติ
+sidebar-syncedtabs-title = แท็บจากอุปกรณ์อื่น ๆ
 
 ## Context for closing synced tabs when hovering over the items
 

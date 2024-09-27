@@ -279,3 +279,12 @@ tail-fox-spotlight-title = ไล่ตัวติดตามอันน่�
 tail-fox-spotlight-subtitle = บอกลาตัวติดตามโฆษณาอันน่ารำคาญและเข้าสู่ประสบการณ์อินเทอร์เน็ตที่ปลอดภัยและรวดเร็วยิ่งขึ้น
 tail-fox-spotlight-primary-button = เปิดลิงก์ของฉันด้วย { -brand-short-name }
 tail-fox-spotlight-secondary-button = ยังไม่ทำตอนนี้
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = อัปเดตตอนนี้
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = ภายหลัง
+    .accesskey = L
