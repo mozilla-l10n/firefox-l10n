@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = ЖИ чатботы
+menu-view-review-checker =
+    .label = Пікірлерді тексеру
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Бетбелгілер
 sidebar-menu-customize-label =
     .label = Бүйір панелін баптау
+sidebar-menu-review-checker-label =
+    .label = Пікірлерді тексеру
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = Тарих
 sidebar-menu-syncedtabs-header =
     .heading = Басқа құрылғылардан беттер
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Бүйір панелін баптау
+sidebar-history-title = Тарих
+sidebar-syncedtabs-title = Басқа құрылғылардан беттер
 
 ## Context for closing synced tabs when hovering over the items
 

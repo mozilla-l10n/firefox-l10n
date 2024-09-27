@@ -282,6 +282,9 @@ tail-fox-spotlight-secondary-button = Қазір емес
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>2025 жылдың 14 қаңтарында { -brand-short-name } ескі нұсқаларында мәселелер пайда болуы мүмкін.</strong>
+root-certificate-succession-infobar-march-message = <strong>2025 жылдың 14 наурызынан кейін { -brand-short-name } пайдалануды жалғастыру үшін жаңартыңыз.</strong>
+root-certificate-succession-infobar-link = Жаңарту не үшін керек?
 root-certificate-succession-infobar-primary-button =
     .label = Қазір жаңарту
     .accesskey = ж
