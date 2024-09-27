@@ -59,6 +59,7 @@ migration-no-permissions-instructions-step1 = Изберете „Продълж
 
 migration-all-available-data-label = Внасяне на всички налични данни
 migration-no-selected-data-label = Няма избрани данни за внасяне
+migration-selected-data-label = Внасяне на избраните данни
 
 ##
 
@@ -77,6 +78,7 @@ migration-session-option-label = Прозорци и раздели
 migration-otherdata-option-label = Други данни
 migration-passwords-from-file-progress-header = Внасяне на файл с пароли
 migration-passwords-from-file-success-header = Паролите бяха успешно внесени
+migration-passwords-from-file = Проверка на файла за пароли
 migration-passwords-new = Нови пароли
 migration-passwords-updated = Съществуващи пароли
 migration-passwords-from-file-no-valid-data = Файлът не съдържа пароли, които може да импортирате. Изберете друг файл.
@@ -157,6 +159,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Завършено
 migration-safari-password-import-header = Внасяне на пароли от Safari
 migration-safari-password-import-steps-header = За да внесете пароли от Safari:
+migration-safari-password-import-skip-button = Пропускане
 migration-safari-password-import-select-button = Изберете Файл
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
