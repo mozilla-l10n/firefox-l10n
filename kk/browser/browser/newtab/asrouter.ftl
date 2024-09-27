@@ -279,3 +279,12 @@ tail-fox-spotlight-title = Тітіркендіргіш трекерлерді �
 tail-fox-spotlight-subtitle = Тітіркендіргіш жарнама трекерлерімен қоштасып, қауіпсіз, жылдам интернет тәжірибесіне ие болыңыз.
 tail-fox-spotlight-primary-button = Менің сілтемелерімді { -brand-short-name } арқылы ашу
 tail-fox-spotlight-secondary-button = Қазір емес
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = Қазір жаңарту
+    .accesskey = ж
+root-certificate-succession-infobar-secondary-button =
+    .label = Кейінірек
+    .accesskey = й
