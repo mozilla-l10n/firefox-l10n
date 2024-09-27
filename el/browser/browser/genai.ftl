@@ -60,3 +60,26 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ερώτηση στο { $provider }…
+genai-shortcuts-hide =
+    .label = Απόκρυψη συντόμευσης chatbot
+
+## Chatbot header
+
+genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Επιλέξτε ένα chatbot
+genai-header-options-button =
+    .title = Άνοιγμα μενού
+genai-header-close-button =
+    .title = Κλείσιμο
+genai-provider-view-details =
+    .label = Προβολή λεπτομερειών chatbot
+genai-provider-about-chatbots =
+    .label = Σχετικά με αυτά τα chatbot
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Οριζόντιες καρτέλες
 sidebar-customize-tabs-header =
     .label = Ρυθμίσεις καρτελών
+sidebar-customize-button-header =
+    .label = Κουμπί πλαϊνής γραμμής
+sidebar-customize-position-header =
+    .label = Θέση πλαϊνής γραμμής
+sidebar-visibility-setting-always-show =
+    .label = Ανάπτυξη και σύμπτυξη πλαϊνής γραμμής
+sidebar-visibility-setting-hide-sidebar =
+    .label = Εμφάνιση και απόκρυψη πλαϊνής γραμμής
 sidebar-customize-settings-header =
     .label = Ρυθμίσεις πλαϊνής γραμμής
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Ιστορικό
 sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
+sidebar-panel-header-close-button =
+    .tooltiptext = Κλείσιμο
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,10 @@ sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Κλείσιμο καρτέλας στο «{ $deviceName }»
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Εμφάνιση πλαϊνής γραμμής
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Απόκρυψη πλαϊνής γραμμής

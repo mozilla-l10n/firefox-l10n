@@ -78,6 +78,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Κοινή χρήση
     .accesskey = χ
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Νέα καρτέλα στα δεξιά
+    .accesskey = α
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -375,3 +375,9 @@ onboarding-new-user-survey-familiarity-based-option-1 = Είμαι αρχάρι�
 onboarding-new-user-survey-familiarity-based-option-2 = Το έχω χρησιμοποιήσει λίγο
 onboarding-new-user-survey-familiarity-based-option-3 = Είμαι πολύ εξοικειωμένος με αυτό
 onboarding-new-user-survey-familiarity-based-option-4 = Το χρησιμοποιούσα στο παρελθόν, αλλά έχει περάσει καιρός
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Διατήρηση οριζόντιων καρτελών
+onboarding-genai-sidebar-secondary-button = Έναρξη περιήγησης
