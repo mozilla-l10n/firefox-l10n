@@ -51,10 +51,16 @@ about-webauthn-update-button = Leqqem
 about-webauthn-auth-option-uv = Asenqed n useqdac
 about-webauthn-auth-option-up = Tiltin n useqdac
 about-webauthn-auth-option-clientpin = Tangalt PIN n umsaɣ
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = Uzɣrin
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = Aruzɣin
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Isleknen
+about-webauthn-auth-info-algorithms = Ilguritmen
 about-webauthn-auth-info-pin-protocols = Ineggafen n tengalt PIN
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
