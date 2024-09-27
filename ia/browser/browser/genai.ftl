@@ -60,3 +60,44 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Demandar a  { $provider }…
+genai-shortcuts-hide =
+    .label = Celar via breve pro chatbot
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Elige un chatbot
+genai-header-options-button =
+    .title = Aperir le menu
+genai-header-close-button =
+    .title = Clauder
+genai-provider-view-details =
+    .label = Vider detalios de chatbot
+genai-options-reload-generic =
+    .label = Recargar chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Recargar { $provider }
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Continuar
+genai-onboarding-secondary = Clauder
+genai-onboarding-claude-learn = Saper plus re Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Saper plus re ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Saper plus re Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Saper plus re HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Saper plus re Le Chat
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
