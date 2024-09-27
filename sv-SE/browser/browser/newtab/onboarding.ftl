@@ -375,3 +375,43 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jag är ny
 onboarding-new-user-survey-familiarity-based-option-2 = Jag har använt det en del
 onboarding-new-user-survey-familiarity-based-option-3 = Jag är mycket bekant med det
 onboarding-new-user-survey-familiarity-based-option-4 = Jag använde det tidigare, men det var ett tag sedan
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Berätta var du vill ha dina flikar
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Växla den när du vill i sidofältsinställningarna.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Flikar på sidan
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Flikar på toppen
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Vertikala flikar är här
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Introducerar vertikala flikar
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prova dina flikar på sidan. Växla den när du vill i sidofältsinställningarna.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prova vertikala flikar
+onboarding-flair-text = Nytt!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Håll horisontella flikar
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Ett webbläsarfönster som visar flikar längs sidan av skärmen som en del av sidofältet { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Ett webbläsarfönster som visar flikar längs sidan av skärmen som en del av sidofältet { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Ett webbläsarfönster som visar flikar längst upp.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Ett webbläsarfönster som visar flikar längst upp.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Testa en AI-chatbot i sidofältet
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Sammanfatta webbinnehåll, brainstorma idéer, skapa utkast — allt när du surfar. Välj bland flera leverantörer. Byt när som helst. <a data-l10n-name="learn-more">Läs mer</a>
+onboarding-genai-sidebar-primary-button = Välj en chatbot
+onboarding-genai-sidebar-secondary-button = Börja surfa

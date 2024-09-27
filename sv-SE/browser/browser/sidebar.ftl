@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horisontella flikar
 sidebar-customize-tabs-header =
     .label = Tabbinställningar
+sidebar-customize-button-header =
+    .label = Knapp för sidofält
+sidebar-customize-position-header =
+    .label = Sidofältets position
+sidebar-visibility-setting-always-show =
+    .label = Expandera och komprimera sidofältet
+sidebar-visibility-setting-hide-sidebar =
+    .label = Visa och dölj sidofält
 sidebar-customize-settings-header =
     .label = Inställningar för sidofält
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
+sidebar-panel-header-close-button =
+    .tooltiptext = Stäng
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Flikar från andra enheter
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Stäng fliken på { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Expandera sidofält
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Komprimera sidofältet
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Visa sidofält
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Dölj sidofält

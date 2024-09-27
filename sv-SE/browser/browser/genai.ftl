@@ -60,3 +60,74 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Fråga { $provider }…
+genai-shortcuts-hide =
+    .label = Dölj chatbot-genväg
+
+## Chatbot header
+
+genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Välj en chatbot
+genai-header-options-button =
+    .title = Öppna meny
+genai-header-close-button =
+    .title = Stäng
+genai-provider-view-details =
+    .label = Se chatbot detaljer
+genai-provider-about-chatbots =
+    .label = Om dessa chatbots
+genai-options-reload-generic =
+    .label = Ladda om AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ladda om { $provider }
+genai-options-show-shortcut =
+    .label = Visa genväg vid textmarkering
+genai-options-hide-shortcut =
+    .label = Dölj genväg vid textmarkering
+genai-options-about-chatbot =
+    .label = Om AI-chatbots i { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Sammanfatta, brainstorma och mer medan du surfar
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Välj en AI-chatbot att använda i sidofältet { -brand-short-name }. Vi visar detaljer om varje chatbot när du väljer den. Byt när som helst. <a data-l10n-name="learn-more">Läs mer</a>
+genai-onboarding-primary = Fortsätt
+genai-onboarding-secondary = Stäng
+genai-onboarding-claude-tooltip =
+    .title = Antropiska Claude
+genai-onboarding-claude-learn = Lär dig mer om Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChattGPT
+genai-onboarding-chatgpt-learn = Läs mer om ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Tvillingarna
+genai-onboarding-gemini-learn = Läs mer om Tvillingarna
+genai-onboarding-huggingchat-tooltip =
+    .title = KramChat
+genai-onboarding-huggingchat-learn = Läs mer om HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chatt på Mistral
+genai-onboarding-lechat-learn = Läs mer om Le Chat
+genai-onboarding-select-header = Markera text för att se förslag
+genai-onboarding-select-description = När du väljer text föreslår vi frågor du kan skicka till chatboten. Du kan också skriva med egna frågor.
+genai-onboarding-select-primary = Börja chatta
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Skapa text och kod
+genai-onboarding-claude-analyze = Analysera dokument och bilder
+genai-onboarding-claude-price = Gratis och betalda alternativ; konto krävs
+genai-onboarding-chatgpt-generate = Skapa text, bilder och kod
+genai-onboarding-chatgpt-analyze = Analysera dokument och bilder
+genai-onboarding-chatgpt-price = Gratis och betalda alternativ; konto krävs för vissa länder och uppgifter
+genai-onboarding-gemini-generate = Skapa text, bilder och kod
+genai-onboarding-gemini-analyze = Analysera bilder (gratis) och dokument (betald)
+genai-onboarding-gemini-price = Gratis och betalda alternativ; konto krävs
+genai-onboarding-huggingchat-generate = Skapa text och kod
+genai-onboarding-huggingchat-switch = Växla mellan en mångsidig uppsättning öppna modeller
+genai-onboarding-huggingchat-price = Gratis; konto krävs för vissa uppgifter
+genai-onboarding-lechat-generate = Skapa text och kod
+genai-onboarding-lechat-price = Gratis; konto krävs
