@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Review Checker
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Bookmarks
 sidebar-menu-customize-label =
     .label = Customise sidebar
+sidebar-menu-review-checker-label =
+    .label = Review Checker
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = History
 sidebar-menu-syncedtabs-header =
     .heading = Tabs from other devices
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Customise sidebar
+sidebar-history-title = History
+sidebar-syncedtabs-title = Tabs from other devices
 
 ## Context for closing synced tabs when hovering over the items
 

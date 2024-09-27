@@ -140,3 +140,4 @@ policy-UseSystemPrintDialog = Print using the system print dialogue.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Block web sites from being visited. See documentation for more details on the format.
 policy-Windows10SSO = Allow Windows single sign-on for Microsoft, work, and school accounts.
+policy-MicrosoftEntraSSO = Allow single sign-on for Microsoft Entra accounts.
