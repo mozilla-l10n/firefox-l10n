@@ -84,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = 공유
     .accesskey = h
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = 오른쪽에 새 탭
+    .accesskey = w
 tab-context-new-tab-open-vertical =
     .label = 아래에 새 탭
     .accesskey = w
