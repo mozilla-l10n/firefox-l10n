@@ -85,6 +85,7 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+genai-onboarding-select-header = Wubjerće tekst, zo byšće namjety widźał
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
