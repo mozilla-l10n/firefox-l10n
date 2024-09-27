@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI 聊天机器人
+menu-view-review-checker =
+    .label = 核查评价
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
     .label = 定制侧栏
+sidebar-menu-review-checker-label =
+    .label = 核查评价
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = 定制侧栏
+sidebar-history-title = 历史记录
+sidebar-syncedtabs-title = 其他设备上的标签页
 
 ## Context for closing synced tabs when hovering over the items
 
