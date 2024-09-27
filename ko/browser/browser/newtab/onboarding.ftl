@@ -375,3 +375,10 @@ onboarding-new-user-survey-familiarity-based-option-1 = 완전 새내기
 onboarding-new-user-survey-familiarity-based-option-2 = 사용해 본 적이 있음
 onboarding-new-user-survey-familiarity-based-option-3 = 매우 익숙함
 onboarding-new-user-survey-familiarity-based-option-4 = 예전에 사용했지만 시간이 좀 지남
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = 탭을 둘 위치를 알려주세요
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
