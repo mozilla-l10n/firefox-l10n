@@ -99,6 +99,11 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Iccaren seg ibenkan nniḍen
 
+## Titles for sidebar menu panels.
+
+sidebar-history-title = Azray
+sidebar-syncedtabs-title = Iccaren seg ibenkan niḍen
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -107,3 +112,8 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Mdel iccer ɣef { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Ffer afeggag adisan

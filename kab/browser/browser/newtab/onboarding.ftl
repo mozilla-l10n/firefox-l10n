@@ -317,6 +317,11 @@ mr2022-onboarding-default-image-alt =
 onboarding-device-migration-title = Ansuf tikkelt niḍen!
 onboarding-device-migration-primary-button-label = Kcem
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Rnu ɣer { -brand-short-name }
+amo-picker-install-complete-label = ibded
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -341,3 +346,6 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ad bduɣ kan
 onboarding-new-user-survey-familiarity-based-option-2 = Sqedceɣ-t cwiṭ
 onboarding-new-user-survey-familiarity-based-option-3 = Ssneɣ-t akken ilaq
 onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca ddeqs aya.
+
+## UI strings for the sidebar and vertical tabs
+
