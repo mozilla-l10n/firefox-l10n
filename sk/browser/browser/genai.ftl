@@ -60,3 +60,45 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Opýtajte sa { $provider }…
+genai-shortcuts-hide =
+    .label = Skryť skratku chatbota
+
+## Chatbot header
+
+genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Vyberte si chatbota
+genai-header-options-button =
+    .title = Otvoriť ponuku
+genai-header-close-button =
+    .title = Zavrieť
+genai-provider-view-details =
+    .label = Zobraziť podrobnosti o chatbotovi
+genai-provider-about-chatbots =
+    .label = O týchto chatbotoch
+genai-options-reload-generic =
+    .label = Znova načítať AI chatbota
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Pokračovať
+genai-onboarding-secondary = Zavrieť
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Ďalšie informácie o Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Ďalšie informácie o ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Ďalšie informácie o Google Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Ďalšie informácie o HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Ďalšie informácie o Le Chat
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

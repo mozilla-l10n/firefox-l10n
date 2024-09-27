@@ -48,7 +48,7 @@ callout-pdfjs-draw-button = Rozumiem
 
 fx-view-discoverability-title = Nechceli ste túto kartu zavrieť?
 fx-view-discoverability-subtitle = Tu ju rýchlo nájdite a znova otvoríte. Uchovávame pre vás históriu nedávno zatvorených kariet.
-fx-view-discoverability-primary-button-label = Otvoriť { -firefoxview-brand-name(case: "gen") }
+fx-view-discoverability-primary-button-label = Otvoriť { -firefoxview-brand-name(case: "acc") }
 fx-view-discoverability-secondary-button-label = Zavrieť
 
 ## Split Dismiss Button Labels

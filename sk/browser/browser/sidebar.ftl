@@ -52,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Horizontálne karty
 sidebar-customize-tabs-header =
     .label = Nastavenia kariet
+sidebar-customize-position-header =
+    .label = Umiestnenie bočného panela
+sidebar-visibility-setting-always-show =
+    .label = Rozbaliť a zbaliť bočný panel
 sidebar-customize-settings-header =
     .label = Nastavenia bočného panela
 sidebar-visibility-always-show =
@@ -108,6 +112,8 @@ sidebar-menu-history-header =
     .heading = História
 sidebar-menu-syncedtabs-header =
     .heading = Karty z ďalších zariadení
+sidebar-panel-header-close-button =
+    .tooltiptext = Zavrieť
 
 ## Titles for sidebar menu panels.
 
@@ -126,3 +132,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Rozbaliť bočný panel
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Zbaliť bočný panel
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Zobraziť bočný panel
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Skryť bočný panel
