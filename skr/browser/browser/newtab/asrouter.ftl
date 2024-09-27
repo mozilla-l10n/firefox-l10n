@@ -282,3 +282,12 @@ tail-fox-spotlight-title = پریشان کُن ٹریکرز کوں آپݨ دُم
 tail-fox-spotlight-subtitle = پریشان کرݨ آلے اشتہاراتی ٹریکرز کوں خیرباد آکھو اَتے ہِک محفوظ، تِکّھی رفتار انٹرنیٹ تجربہ حاصل کرو۔
 tail-fox-spotlight-primary-button = { -brand-short-name } دے نال میݙے لنک کھولو
 tail-fox-spotlight-secondary-button = ہݨ کائناں
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = ہݨ ابڈیٹ کرو
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = بعد وچ
+    .accesskey = L

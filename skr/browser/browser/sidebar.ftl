@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = اے آئی چیٹ بوٹ
+menu-view-review-checker =
+    .label = نظرثانی پڑتالݨ آلا
 
 ## Labels for sidebar history panel
 
@@ -95,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = نشانیاں
 sidebar-menu-customize-label =
     .label = سائیڈ بار مرضی مطابق بݨاؤ
+sidebar-menu-review-checker-label =
+    .label = نظرثانی پڑتالݨ آلا
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +108,12 @@ sidebar-menu-history-header =
     .heading = تاریخ
 sidebar-menu-syncedtabs-header =
     .heading = ٻیاں ڈیوائساں کنوں ٹیباں
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = سائیڈ بار مرضی مطابق بݨاؤ
+sidebar-history-title = تاریخ
+sidebar-syncedtabs-title = ٻیاں ڈیوائساں کنوں ٹیباں
 
 ## Context for closing synced tabs when hovering over the items
 
