@@ -110,6 +110,7 @@ migration-wizard-progress-success-new-passwords =
 migration-bookmarks-from-file-picker-title = Внасяне на файл с отметки
 migration-bookmarks-from-file-progress-header = Внасяне на отметки
 migration-bookmarks-from-file = Отметки
+migration-bookmarks-from-file-success-header = Отметките са успешно внесени
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
