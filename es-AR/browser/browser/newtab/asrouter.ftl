@@ -286,7 +286,7 @@ tail-fox-spotlight-secondary-button = Ahora no
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versiones viejas de { -brand-short-name } pueden empezar a tener problemas el 14 de enero de 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Actualizar para seguir usando { -brand-short-name } después del 14 de María de 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualizar para seguir usando { -brand-short-name } después del 14 de marzo de 2025.</strong>
 root-certificate-succession-infobar-link = ¿Por qué necesito actualizar?
 root-certificate-succession-infobar-primary-button =
     .label = Actualizar ahora
