@@ -46,6 +46,7 @@ callout-pdfjs-draw-button = مل ڳئے!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = بھلا اوں ٹیب کوں بند کرݨ دا ارادہ کائناں ہائی؟
 fx-view-discoverability-primary-button-label = { -firefoxview-brand-name } کھولو
 fx-view-discoverability-secondary-button-label = فارغ کرو
 
