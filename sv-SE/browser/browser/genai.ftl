@@ -73,7 +73,7 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Stäng
 genai-provider-view-details =
-    .label = Se chatbot detaljer
+    .label = Visa chatbot-detaljer
 genai-provider-about-chatbots =
     .label = Om dessa chatbots
 genai-options-reload-generic =
@@ -86,32 +86,32 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Dölj genväg vid textmarkering
 genai-options-about-chatbot =
-    .label = Om AI-chatbots i { -brand-short-name }
+    .label = Om AI chatbots i { -brand-short-name }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Sammanfatta, brainstorma och mer medan du surfar
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Välj en AI-chatbot att använda i sidofältet { -brand-short-name }. Vi visar detaljer om varje chatbot när du väljer den. Byt när som helst. <a data-l10n-name="learn-more">Läs mer</a>
+genai-onboarding-description = Välj en AI chatbot att använda i sidofältet { -brand-short-name }. Vi visar detaljer om varje chatbot när du väljer den. Byt när som helst. <a data-l10n-name="learn-more">Läs mer</a>
 genai-onboarding-primary = Fortsätt
 genai-onboarding-secondary = Stäng
 genai-onboarding-claude-tooltip =
-    .title = Antropiska Claude
+    .title = Anthropic Claude
 genai-onboarding-claude-learn = Lär dig mer om Claude
 genai-onboarding-chatgpt-tooltip =
-    .title = ChattGPT
+    .title = ChatGPT
 genai-onboarding-chatgpt-learn = Läs mer om ChatGPT
 genai-onboarding-gemini-tooltip =
-    .title = Google Tvillingarna
-genai-onboarding-gemini-learn = Läs mer om Tvillingarna
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Läs mer om Gemini
 genai-onboarding-huggingchat-tooltip =
-    .title = KramChat
+    .title = HuggingChat
 genai-onboarding-huggingchat-learn = Läs mer om HuggingChat
 genai-onboarding-lechat-tooltip =
-    .title = Le Chatt på Mistral
+    .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Läs mer om Le Chat
 genai-onboarding-select-header = Markera text för att se förslag
-genai-onboarding-select-description = När du väljer text föreslår vi frågor du kan skicka till chatboten. Du kan också skriva med egna frågor.
+genai-onboarding-select-description = När du väljer text föreslår vi frågor du kan skicka till chatboten. Du kan också skriva egna frågor.
 genai-onboarding-select-primary = Börja chatta
 
 ## Chatbot onboarding choices
