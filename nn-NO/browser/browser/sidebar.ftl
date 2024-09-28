@@ -52,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Horisontale faner
 sidebar-customize-tabs-header =
     .label = Faneinnstillingar
+sidebar-customize-button-header =
+    .label = Sidestolpeknapp
+sidebar-customize-position-header =
+    .label = Sidestolpe-plassering
 sidebar-customize-settings-header =
     .label = Innstillingar for sidestolpe
 sidebar-visibility-always-show =
@@ -108,6 +112,8 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner frå andre einingar
+sidebar-panel-header-close-button =
+    .tooltiptext = Lat att
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +129,6 @@ sidebar-syncedtabs-title = Faner frå andre einingar
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lat att fana på { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+

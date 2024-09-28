@@ -85,6 +85,7 @@ genai-onboarding-huggingchat-learn = Les meir om HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les meir om Le Chat
+genai-onboarding-select-primary = Begynn å chatte
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

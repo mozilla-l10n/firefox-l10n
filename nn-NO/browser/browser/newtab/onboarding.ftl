@@ -375,3 +375,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = Eg er heilt ny
 onboarding-new-user-survey-familiarity-based-option-2 = Eg har brukt det ein del
 onboarding-new-user-survey-familiarity-based-option-3 = Eg kjenner veldig godt til det
 onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare, men det er en stund sidan
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Faner på sida
