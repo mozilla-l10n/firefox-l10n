@@ -60,3 +60,24 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = 询问 { $provider }…
+genai-shortcuts-hide =
+    .label = 隐藏聊天机器人快捷方式
+
+## Chatbot header
+
+genai-chatbot-title = AI 聊天机器人
+genai-header-provider-menu =
+    .title = 选择聊天机器人
+genai-header-options-button =
+    .title = 打开菜单
+genai-header-close-button =
+    .title = 关闭
+genai-provider-view-details =
+    .label = 查看聊天机器人详细信息
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
