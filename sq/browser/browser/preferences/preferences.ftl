@@ -406,7 +406,7 @@ play-drm-content =
     .accesskey = L
 play-drm-content-learn-more = Mësoni më tepër
 update-application-title = Përditësime { -brand-short-name }-i
-update-application-description = Për punimin, qëndrueshmërinë dhe sigurinë më të mirë mbajeni { -brand-short-name }-in të përditësuar.
+update-application-description = Për punimin, qëndrueshmërinë dhe sigurinë më të mirë, mbajeni { -brand-short-name }-in të përditësuar.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Ç’ka të re</a>
@@ -497,7 +497,7 @@ browsing-search-on-start-typing =
     .label = Kërko për tekst, kur niset të shtypet
     .accesskey = t
 browsing-picture-in-picture-toggle-enabled =
-    .label = Aktivizoni kontrolle video për foto-në-foto
+    .label = Aktivizo kontrolle video për foto-në-foto
     .accesskey = A
 browsing-picture-in-picture-learn-more = Mësoni më tepër
 browsing-media-control =
