@@ -44,8 +44,8 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Kích hoạt Warp, một dự án để cải thiện hiệu suất JavaScript và sử dụng bộ nhớ.
 # Search during IME
 experimental-features-ime-search =
-    .label = Thanh địa chỉ: hiển thị kết quả trong quá trình thành phần IME
-experimental-features-ime-search-description = IME (Trình chỉnh sửa phương thức nhập) là một công cụ cho phép bạn nhập các ký hiệu phức tạp, chẳng hạn như các ký hiệu được sử dụng trong các ngôn ngữ viết Đông Á hoặc Ấn Độ, bằng bàn phím tiêu chuẩn. Bật thử nghiệm này sẽ giữ cho bảng thanh địa chỉ luôn mở, hiển thị kết quả tìm kiếm và đề xuất, trong khi sử dụng IME để nhập văn bản. Lưu ý rằng IME có thể hiển thị một bảng che các kết quả trên thanh địa chỉ, do đó tùy chọn này chỉ được đề xuất cho IME không sử dụng loại bảng này.
+    .label = Thanh địa chỉ: hiển thị kết quả trong chế độ soạn thảo của bộ gõ
+experimental-features-ime-search-description = Bộ gõ là công cụ cho phép bạn nhập các ký tự phức tạp, chẳng hạn như chữ quốc ngữ hoặc các hệ chữ viết Đông Á hoặc Ấn Độ, bằng bàn phím tiêu chuẩn. Bật thử nghiệm này sẽ giữ cho bảng thanh địa chỉ luôn mở, hiển thị kết quả tìm kiếm và đề xuất, trong khi sử dụng bộ gõ để nhập văn bản. Lưu ý rằng bộ gõ có thể hiển thị một bảng che các kết quả trên thanh địa chỉ, do đó tùy chọn này chỉ được đề xuất cho bộ gõ không sử dụng loại bảng này.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Hình trong hình: tự động mở khi chuyển sang thẻ khác
@@ -59,8 +59,6 @@ sidebar-description = Dễ dàng truy cập lịch sử thẻ từ các thiết 
 vertical-tabs-title =
     .label = Thẻ dọc (Vertical tabs)
 vertical-tabs-description = Di chuyển các thẻ của bạn từ trên cùng trình duyệt sang thanh lề. Yêu cầu bạn sử dụng thanh lề. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
-experimental-features-group-browsing =
-    .label = Duyệt
 experimental-features-group-developer-tools =
     .label = Công cụ phát triển
 experimental-features-group-webpage-display =
