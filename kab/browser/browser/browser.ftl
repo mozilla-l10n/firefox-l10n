@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
     .tooltiptext = Asebter n tigawin
+urlbar-show-page-actions-button =
+    .tooltiptext = Sken meṛṛa tigawin n usebter
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

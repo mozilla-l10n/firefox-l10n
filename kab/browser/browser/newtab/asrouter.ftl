@@ -271,3 +271,13 @@ launch-on-login-infobar-final-reject-button = Ala, tanemmirt
 tail-fox-spotlight-title = Eǧǧ yir ineḍfaṛen mbaεid
 tail-fox-spotlight-primary-button = Ldi iseɣwan-iw s { -brand-short-name }
 tail-fox-spotlight-secondary-button = Mačči tura
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Ayɣer i sriɣ aleqqem?
+root-certificate-succession-infobar-primary-button =
+    .label = Leqqem tura
+    .accesskey = L
+root-certificate-succession-infobar-secondary-button =
+    .label = Ticki
+    .accesskey = T

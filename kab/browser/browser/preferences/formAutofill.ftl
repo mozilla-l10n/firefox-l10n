@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Tansiwin ittwakelsen
 autofill-manage-addresses-list-header = Tansiwin
 autofill-manage-credit-cards-title = Tikaṛḍiwin n uselek ittwakelsen
 autofill-manage-credit-cards-list-header = Takaṛḍa n usmad
+autofill-manage-payment-methods-title = Isseklas tarrayin n uxelleṣ
 autofill-manage-cards-list-header = Tikarḍiwin
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -38,8 +39,6 @@ address-capture-manage-address-button =
     .label = Iɣewwaren n tansa
 address-capture-learn-more-button =
     .label = Issin ugar
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Rnu tansa tamaynut
 address-capture-open-menu-button =
     .aria-label = Ldi umuɣ
 address-capture-edit-address-button =
@@ -48,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Rnu tansa
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Ẓreg tansa
-autofill-address-name = Isem
 autofill-address-given-name = Isem n twacult
 autofill-address-additional-name = Isem alemmas
 autofill-address-family-name = Isem
+autofill-address-name = Isem
 autofill-address-organization = Takebbanit
 autofill-address-street-address = Tansa n taddart
 autofill-address-street = Tansa n taddart
@@ -107,9 +106,8 @@ autofill-address-eircode = Tangalt n irlanda
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Rnu tansa tamaynut
 autofill-address-country = Tamnaḍt neγ tamurt
 autofill-address-country-only = Tamurt
 autofill-address-tel = Tiliγri
@@ -129,6 +127,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ittaεraḍ ad d-sken talɣut n tkarḍa n usmad. Sentem anekcum ɣer usfaylu-a n umiḍan ddaw.
        *[other] { -brand-short-name } yettaεraḍ ad isken talɣut n tkarḍa n usmad.
     }
+autofill-message-tooltip = Sken izen yerzan taččart tawurmant
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Rnu takarḍa
 # The dialog title for editing credit cards in browser preferences.

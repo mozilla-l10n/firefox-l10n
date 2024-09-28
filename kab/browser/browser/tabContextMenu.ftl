@@ -88,6 +88,9 @@ tab-context-share-url =
 tab-context-new-tab-open =
     .label = Iccer Amaynut ɣer yeffus
     .accesskey = m
+tab-context-new-tab-open-vertical =
+    .label = Iccer amaynut addaw
+    .accesskey = m
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
