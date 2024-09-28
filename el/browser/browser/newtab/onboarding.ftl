@@ -380,6 +380,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Το χρησιμοπο�
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις καρτέλες σας
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Αλλάξτε την επιλογή ανά πάσα στιγμή από τις ρυθμίσεις της πλαϊνής γραμμής.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -388,7 +390,28 @@ onboarding-new-horizontal-tabs-label = Καρτέλες στο πάνω μέρο
 onboarding-existing-tabs-title = Οι κάθετες καρτέλες είναι εδώ
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Παρουσίαση των κάθετων καρτελών
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Δοκιμάστε τις καρτέλες σας στο πλάι. Αλλάξτε την επιλογή ανά πάσα στιγμή από τις ρυθμίσεις της πλαϊνής γραμμής.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Δοκιμάστε τις κάθετες καρτέλες
 onboarding-flair-text = Νέο!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Διατήρηση οριζόντιων καρτελών
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Ένα παράθυρο του προγράμματος περιήγησης που εμφανίζει τις καρτέλες στα πλάγια της οθόνης ως μέρος της πλαϊνής γραμμής του { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Ένα παράθυρο του προγράμματος περιήγησης που εμφανίζει τις καρτέλες στα πλάγια της οθόνης ως μέρος της πλαϊνής γραμμής του { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Ένα παράθυρο του προγράμματος περιήγησης που εμφανίζει τις καρτέλες στο πάνω μέρος.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Ένα παράθυρο του προγράμματος περιήγησης που εμφανίζει τις καρτέλες στο πάνω μέρος.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Δοκιμάστε ένα AI chatbot στην πλαϊνή γραμμή
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Συνοψίστε διαδικτυακό περιεχόμενο, βρείτε νέες ιδέες, δημιουργήστε προσχέδια μηνυμάτων — όλα αυτά κατά την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλούς παρόχους. Αλλάξτε την επιλογή σας ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
+onboarding-genai-sidebar-primary-button = Επιλογή chatbot
 onboarding-genai-sidebar-secondary-button = Έναρξη περιήγησης
