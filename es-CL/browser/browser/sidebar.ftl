@@ -54,6 +54,12 @@ sidebar-customize-tabs-header =
     .label = Ajustes de pestañas
 sidebar-customize-button-header =
     .label = Botón de la barra lateral
+sidebar-customize-position-header =
+    .label = Posición de la barra lateral
+sidebar-visibility-setting-always-show =
+    .label = Expandir y contraer la barra lateral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Mostrar y ocultar la barra lateral
 sidebar-customize-settings-header =
     .label = Ajustes de la barra lateral
 sidebar-visibility-always-show =
@@ -99,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
     .label = Personalizar barra lateral
+sidebar-menu-review-checker-label =
+    .label = Verificador de reseñas
 
 ## Headings for sidebar menu panels.
 
@@ -108,9 +116,14 @@ sidebar-menu-history-header =
     .heading = Historial
 sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
+sidebar-panel-header-close-button =
+    .tooltiptext = Cerrar
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Personalizar barra lateral
+sidebar-history-title = Historial
+sidebar-syncedtabs-title = Pestañas de otros dispositivos
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -123,3 +136,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Expandir barra lateral
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Contraer barra lateral
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Mostrar barra lateral
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Ocultar barra lateral
