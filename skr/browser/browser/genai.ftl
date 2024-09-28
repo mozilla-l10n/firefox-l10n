@@ -65,6 +65,8 @@ genai-options-reload-provider =
 
 genai-onboarding-primary = جاری
 genai-onboarding-secondary = بند کرو
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = ChatGPT بارے ٻیا سِکھو۔
