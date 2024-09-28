@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Clauder le schedas a sinistra
     .accesskey = C
+close-tabs-to-the-start-vertical =
+    .label = Clauder le schedas superior
+    .accesskey = s
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Clauder le schedas a dextra
     .accesskey = h
+close-tabs-to-the-end-vertical =
+    .label = Clauder le schedas inferior
+    .accesskey = i
 close-other-tabs =
     .label = Clauder le altere schedas
     .accesskey = l
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nove scheda a dextra
+    .accesskey = d
+tab-context-new-tab-open-vertical =
+    .label = Nove scheda infra
+    .accesskey = i
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

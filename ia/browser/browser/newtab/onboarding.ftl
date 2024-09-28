@@ -378,16 +378,40 @@ onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma des
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Dice nos ubi tu amarea tener tu schedas
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Muta lo quandocunque tu vole in le parametro del barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Schedas sur le latere
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Schedas sur le parte superior
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Ecce le schedas vertical
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Presentante schedas vertical
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Tenta tu schedas sur le latere. Muta lo quandocunque tu vole in le parametro del barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Tenta schedas vertical
 onboarding-flair-text = Nove!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mantener le schedas horizontal
 # Tooltip displayed on hover for vertical tabs image
 onboarding-vertical-tabs-tooltip =
     .title = Un fenestra de navigator monstrante schedas preter le latere del schermo como parte del barra lateral de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Un fenestra de navigator monstrante schedas preter le latere del schermo como parte del barra lateral de { -brand-shorter-name }.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Un fenestra de navigator monstrante schedas preter su summitate.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Un fenestra de navigator monstrante schedas preter su summitate.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prova un chatbot IA in le barra lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resumer contento de web, liberemente exponer ideas, minutas de message, toto quando tu naviga. Seliger ab plure fornitores. Muta lo quandocunque tu vole. <a data-l10n-name="learn-more">Pro saper plus</a>
 onboarding-genai-sidebar-primary-button = Elige un chatbot
 onboarding-genai-sidebar-secondary-button = Comenciar a navigar

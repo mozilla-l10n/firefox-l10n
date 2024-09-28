@@ -118,3 +118,16 @@ genai-onboarding-select-primary = Initia a chattar
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Generar texto e codice
+genai-onboarding-claude-analyze = Analysar documentos e imagines
+genai-onboarding-claude-price = Optiones gratuite e pagate; conto obligatori
+genai-onboarding-chatgpt-generate = Generar texto, imagines, e codice
+genai-onboarding-chatgpt-analyze = Analysar documentos e imagines
+genai-onboarding-chatgpt-price = Optiones gratuite e pagate; conto necessari pro alcun paises e activitates
+genai-onboarding-gemini-generate = Generar texto, imagines, e codice
+genai-onboarding-gemini-analyze = Analysar imagines (gratuite) e documentos (pagate)
+genai-onboarding-gemini-price = Optiones gratuite e pagate; conto obligatori
+genai-onboarding-huggingchat-generate = Generar texto e codice
+genai-onboarding-huggingchat-switch = Passar a un diverse insimul de modellos aperte
+genai-onboarding-huggingchat-price = Gratuite; conto necessari pro alcun activitates
+genai-onboarding-lechat-generate = Generar texto e codice
+genai-onboarding-lechat-price = Gratuite; conto obligatori
