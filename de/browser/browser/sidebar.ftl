@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = KI-Chatbot
+menu-view-review-checker =
+    .label = Review Checker
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horizontale Tabs
 sidebar-customize-tabs-header =
     .label = Tab-Einstellungen
+sidebar-customize-button-header =
+    .label = Sidebar-Schaltfläche
+sidebar-customize-position-header =
+    .label = Sidebar-Position
+sidebar-visibility-setting-always-show =
+    .label = Sidebar aus- und einklappen
+sidebar-visibility-setting-hide-sidebar =
+    .label = Sidebar anzeigen und ausblenden
 sidebar-customize-settings-header =
     .label = Sidebar-Einstellungen
 sidebar-visibility-always-show =
@@ -95,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Lesezeichen
 sidebar-menu-customize-label =
     .label = Sidebar anpassen
+sidebar-menu-review-checker-label =
+    .label = Review Checker
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +116,11 @@ sidebar-menu-history-header =
     .heading = Chronik
 sidebar-menu-syncedtabs-header =
     .heading = Tabs von anderen Geräten
+sidebar-panel-header-close-button =
+    .tooltiptext = Schließen
+
+## Titles for sidebar menu panels.
+
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +130,14 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tab auf { $deviceName } schließen
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Sidebar ausklappen
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Sidebar einklappen
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Sidebar anzeigen
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Sidebar ausblenden

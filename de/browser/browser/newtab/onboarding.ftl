@@ -376,3 +376,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ich bin ganz neu
 onboarding-new-user-survey-familiarity-based-option-2 = Ich habe ihn schon mehrmals verwendet
 onboarding-new-user-survey-familiarity-based-option-3 = Ich kenne mich sehr gut damit aus
 onboarding-new-user-survey-familiarity-based-option-4 = Ich habe ihn in der Vergangenheit verwendet, aber es ist schon eine Weile her
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-genai-sidebar-primary-button = Wählen Sie einen Chatbot
+onboarding-genai-sidebar-secondary-button = Lossurfen

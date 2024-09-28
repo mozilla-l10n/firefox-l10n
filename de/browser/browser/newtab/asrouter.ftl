@@ -282,3 +282,13 @@ tail-fox-spotlight-title = Hängen Sie lästige Verfolger ab
 tail-fox-spotlight-subtitle = Verabschieden Sie sich von nervigen Werbe-Trackern und nutzen Sie ein sichereres und schnelleres Interneterlebnis.
 tail-fox-spotlight-primary-button = Meine Links mit { -brand-short-name } öffnen
 tail-fox-spotlight-secondary-button = Nicht jetzt
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Warum muss ich aktualisieren?
+root-certificate-succession-infobar-primary-button =
+    .label = Jetzt aktualisieren
+    .accesskey = a
+root-certificate-succession-infobar-secondary-button =
+    .label = Später
+    .accesskey = S
