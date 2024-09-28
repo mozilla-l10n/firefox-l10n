@@ -381,6 +381,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma des
 onboarding-flair-text = Nove!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mantener le schedas horizontal
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Un fenestra de navigator monstrante schedas preter le latere del schermo como parte del barra lateral de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Un fenestra de navigator monstrante schedas preter su summitate.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prova un chatbot IA in le barra lateral
 onboarding-genai-sidebar-primary-button = Elige un chatbot
