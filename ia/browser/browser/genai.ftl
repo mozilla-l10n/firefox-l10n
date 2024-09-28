@@ -79,6 +79,8 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Recargar { $provider }
+genai-options-about-chatbot =
+    .label = Re le chatbots IA in { -brand-short-name }
 
 ## Chatbot onboarding
 
@@ -97,6 +99,7 @@ genai-onboarding-huggingchat-learn = Saper plus re HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Saper plus re Le Chat
+genai-onboarding-select-primary = Initia a chattar
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

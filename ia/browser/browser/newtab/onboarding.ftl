@@ -375,3 +375,13 @@ onboarding-new-user-survey-familiarity-based-option-1 = Io justo comenciava
 onboarding-new-user-survey-familiarity-based-option-2 = Io lo usava aliquando
 onboarding-new-user-survey-familiarity-based-option-3 = Io lo cognosce multo ben
 onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma desde tempore
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = Nove!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantener le schedas horizontal
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prova un chatbot IA in le barra lateral
+onboarding-genai-sidebar-primary-button = Elige un chatbot
+onboarding-genai-sidebar-secondary-button = Comenciar a navigar

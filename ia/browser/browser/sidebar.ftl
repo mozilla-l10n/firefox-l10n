@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Schedas horizontal
 sidebar-customize-tabs-header =
     .label = Configurationes del schedas
+sidebar-customize-button-header =
+    .label = Button barra lateral
+sidebar-customize-position-header =
+    .label = Position barra lateral
+sidebar-visibility-setting-always-show =
+    .label = Expander e collaber barra lateral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Monstrar e celar le barra lateral
 sidebar-customize-settings-header =
     .label = Configurationes del barra lateral
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Chronologia
 sidebar-menu-syncedtabs-header =
     .heading = Schedas ab altere apparatos
+sidebar-panel-header-close-button =
+    .tooltiptext = Clauder
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,6 @@ sidebar-syncedtabs-title = Schedas de altere apparatos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Clauder schedas in { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
