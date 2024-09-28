@@ -376,3 +376,25 @@ onboarding-new-user-survey-familiarity-based-option-1 = Som cele nowy
 onboarding-new-user-survey-familiarity-based-option-2 = Som jen wužywał južo někotare raze
 onboarding-new-user-survey-familiarity-based-option-3 = Znajom jen wjelgin derje
 onboarding-new-user-survey-familiarity-based-option-4 = Som jen wužywał w zajźonosći, ale jo južo chyla
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Dajśo nam k wěsći, źož cośo swóje rejtariki měś
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Pśešaltujśo  w nastajenjach bocnicy, gažkuli cośo.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Rejtariki na boku
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Rejtariki górjejce
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Wertikalne rejtariki su how
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Wertikalne rejtariki pśedstajiś
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Wopytajśo swóje rejtariki na boku. Pśešaltujśo w nastajenjach bocnicy, gažkuli cośo.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Wopytajśo wertikalne rejtariki
+onboarding-flair-text = Nowy!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Horicontalne rejtariki wobchowaś

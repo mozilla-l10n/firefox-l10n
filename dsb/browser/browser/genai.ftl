@@ -119,3 +119,15 @@ genai-onboarding-select-primary = Chattowaś zachopiś
 
 genai-onboarding-claude-generate = Tekst a kod generěrowaś
 genai-onboarding-claude-analyze = Dokumenty a wobraze analyzěrowaś
+genai-onboarding-claude-price = Dermotne a płaśobne móžnosći; konto jo trjebne
+genai-onboarding-chatgpt-generate = Tekst, wobraze a kod generěrowaś
+genai-onboarding-chatgpt-analyze = Dokumenty a wobraze analyzěrowaś
+genai-onboarding-chatgpt-price = Dermotne a płaśobne móžnosći; konto jo trjebne za někotare kraje a nadawki
+genai-onboarding-gemini-generate = Tekst, wobraze a kod generěrowaś
+genai-onboarding-gemini-analyze = Wobraze analyzěrowaś (dermotny) a dokumenty analyzěrowaś (płaśobny)
+genai-onboarding-gemini-price = Dermotne a płaśobne móžnosći; konto jo trjebne
+genai-onboarding-huggingchat-generate = Tekst a kod generěrowaś
+genai-onboarding-huggingchat-switch = Pśešaltujśo mjazy rozdźělneju sajźbu wótwórjonych modelow
+genai-onboarding-huggingchat-price = Dermotny; konto jo trjebne za někotare nadawki
+genai-onboarding-lechat-generate = Tekst a kod generěrowaś
+genai-onboarding-lechat-price = Dermotny; konto jo trjebne
