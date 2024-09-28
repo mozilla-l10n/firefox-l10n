@@ -65,7 +65,41 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = יש לבחור בצ'אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ'אט בוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
+genai-onboarding-primary = המשך
+genai-onboarding-secondary = סגירה
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = מידע נוסף על Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = מידע נוסף על ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = מידע נוסף על Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = מידע נוסף על HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = מידע נוסף על Le Chat
+genai-onboarding-select-header = יש לבחור בטקסט כדי לראות הצעות
+genai-onboarding-select-primary = התחלה בשיחוח
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = יצירת טקסט וקוד
+genai-onboarding-claude-analyze = ניתוח מסמכים ותמונות
+genai-onboarding-claude-price = אפשרויות בחינם ובתשלום; נדרש חשבון
+genai-onboarding-chatgpt-generate = יצירת טקסט, תמונות וקוד
+genai-onboarding-chatgpt-analyze = ניתוח מסמכים ותמונות
+genai-onboarding-chatgpt-price = אפשרויות בחינם ובתשלום; נדרש חשבון עבור מדינות ומשימות מסויימות
+genai-onboarding-gemini-generate = יצירת טקסט, תמונות וקוד
+genai-onboarding-gemini-analyze = ניתוח תמונות (בחינם) ומסמכים (בתשלום)
+genai-onboarding-gemini-price = אפשרויות בחינם ובתשלום; נדרש חשבון
+genai-onboarding-huggingchat-generate = יצירת טקסט וקוד
+genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דגמים פתוחים
+genai-onboarding-huggingchat-price = בחינם; נדרש חשבון עבור משימות מסויימות

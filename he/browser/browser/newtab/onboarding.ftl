@@ -331,3 +331,16 @@ onboarding-new-user-survey-familiarity-based-option-1 = אני חדש לגמרי
 onboarding-new-user-survey-familiarity-based-option-2 = השתמשתי בו קצת
 onboarding-new-user-survey-familiarity-based-option-3 = אני מאוד מכיר את זה
 onboarding-new-user-survey-familiarity-based-option-4 = השתמשתי בו בעבר, אבל עבר זמן מה
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = ניתן להחליף בינהם בכל עת בהגדרות סרגל הצד.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = לשוניות בצד
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = לשוניות למעלה
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = לשוניות אנוכיות נמצאות כאן
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = היכרות עם לשוניות אנוכיות
