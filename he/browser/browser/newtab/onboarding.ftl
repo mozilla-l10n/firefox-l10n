@@ -344,3 +344,28 @@ onboarding-new-horizontal-tabs-label = לשוניות למעלה
 onboarding-existing-tabs-title = לשוניות אנוכיות נמצאות כאן
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = היכרות עם לשוניות אנוכיות
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = נסו את הלשוניות שלכם בצד. החליפו בין המצבים בכל עת בהגדרות סרגל הצד.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = נסו לשוניות אנוכיות
+onboarding-flair-text = חדש!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = להישאר עם לשוניות אופקיות
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = חלון דפדפן המציג לשוניות בצד המסך כחלק מסרגל הצד של { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = חלון דפדפן המציג לשוניות בצד המסך כחלק מסרגל הצד של { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = חלון דפדפן המציג לשוניות בחלק העליון.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = חלון דפדפן המציג לשוניות בחלק העליון.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = נסו צ'אט בוט AI בסרגל הצד
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = סיכום תוכן אינטרנט, סיעור מוחות, טיוטת הודעות - הכל תוך כדי גלישה. בחירה מתוך מספר ספקים. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
+onboarding-genai-sidebar-primary-button = בחירת צ’אט בוט
+onboarding-genai-sidebar-secondary-button = התחלת גלישה

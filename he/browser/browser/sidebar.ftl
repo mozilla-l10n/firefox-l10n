@@ -50,6 +50,14 @@ sidebar-horizontal-tabs =
     .label = לשוניות אופקיות
 sidebar-customize-tabs-header =
     .label = הגדרות לשוניות
+sidebar-customize-button-header =
+    .label = כפתור סרגל הצד
+sidebar-customize-position-header =
+    .label = מיקום סרגל הצד
+sidebar-visibility-setting-always-show =
+    .label = מרחיב ומכווץ את סרגל הצד
+sidebar-visibility-setting-hide-sidebar =
+    .label = מציג ומסתיר את סרגל הצד
 sidebar-customize-settings-header =
     .label = הגדרות סרגל צד
 sidebar-visibility-always-show =
@@ -95,6 +103,8 @@ sidebar-menu-bookmarks-label =
     .label = סימניות
 sidebar-menu-customize-label =
     .label = התאמה אישית של סרגל הצד
+sidebar-menu-review-checker-label =
+    .label = בודק הסקירות
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +114,8 @@ sidebar-menu-history-header =
     .heading = היסטוריה
 sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
+sidebar-panel-header-close-button =
+    .tooltiptext = סגירה
 
 ## Titles for sidebar menu panels.
 
@@ -119,3 +131,14 @@ sidebar-syncedtabs-title = לשוניות ממכשירים אחרים
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = סגירת לשונית ב־{ $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = הרחבת סרגל הצד
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = כיווץ סרגל הצד
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = הצגת סרגל הצד
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = הסתרת סרגל הצד
