@@ -91,12 +91,39 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Resumir, tormenta de ideas y más mientras se navega
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Seleccione un chatbot IA para usar en la barra lateral de { -brand-short-name }. Mostraremos detalles sobre cada chatbot al seleccionarlo. Se puede cambiar en cualquier momento. <a data-l10n-name="learn-more">Conocer más</a>
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Cerrar
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Conocer más sobre Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Conocer más sobre ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Conocer más sobre Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Conocer más sobre HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Conocer más sobre Le Chat
+genai-onboarding-select-header = Seleccionar texto para ver sugerencias
+genai-onboarding-select-description = Al seleccionar texto, sugeriremos prompts que se pueden enviar al chatbot. También puede escribir sus propios prompts.
+genai-onboarding-select-primary = Empezar a chatear
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generar texto y código
+genai-onboarding-claude-analyze = Analizar documentos e imágenes
+genai-onboarding-claude-price = Opciones gratuitas y pagas; se requiere una cuenta
+genai-onboarding-chatgpt-generate = Generar texto, imágenes y código
+genai-onboarding-chatgpt-analyze = Analizar documentos e imágenes
+genai-onboarding-chatgpt-price = Opciones gratuitas y pagas; se requiere una cuenta para algunos países y tareas
+genai-onboarding-gemini-generate = Generar texto, imágenes y código
+genai-onboarding-gemini-analyze = Analizar imágenes (gratis) y documentos (pago)
+genai-onboarding-gemini-price = Opciones gratuitas y pagas; se requiere una cuenta
+genai-onboarding-huggingchat-generate = Generar texto y código
