@@ -83,6 +83,8 @@ genai-options-reload-provider =
     .label = 重新加载 { $provider }
 genai-options-show-shortcut =
     .label = 选中文本时显示快捷方式
+genai-options-hide-shortcut =
+    .label = 选中文本时隐藏快捷方式
 genai-options-about-chatbot =
     .label = 关于 { -brand-short-name } 中的 AI 聊天机器人
 
@@ -108,7 +110,7 @@ genai-onboarding-huggingchat-learn = 详细了解 HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = 详细了解 Le Chat
-genai-onboarding-select-header = 选中文本来查看建议
+genai-onboarding-select-header = 选中文本可查看建议
 genai-onboarding-select-primary = 开始聊天
 
 ## Chatbot onboarding choices
