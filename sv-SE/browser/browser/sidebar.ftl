@@ -137,7 +137,7 @@ synced-tabs-context-close-tab-title =
 ## Tooltips for the sidebar toolbar button.
 
 sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Expandera sidofält
+    .tooltiptext = Expandera sidofältet
 sidebar-toolbar-collapse-sidebar =
     .tooltiptext = Komprimera sidofältet
 sidebar-toolbar-show-sidebar =
