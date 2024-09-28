@@ -88,6 +88,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = 在浏览的同时，摘要总结、集思广益、处理大小任务
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = 选择在 { -brand-short-name } 侧栏中使用的 AI 聊天机器人。您在选择聊天机器人时，将看到其详细信息，以后也可以随时切换。<a data-l10n-name="learn-more">详细了解</a>
 genai-onboarding-primary = 继续
 genai-onboarding-secondary = 关闭
 genai-onboarding-claude-tooltip =
