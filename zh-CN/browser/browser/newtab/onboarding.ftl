@@ -364,3 +364,7 @@ onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = 告诉我们您希望将标签页放在哪里
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = 试试侧栏中的 AI 聊天机器人
+onboarding-genai-sidebar-primary-button = 选择聊天机器人
+onboarding-genai-sidebar-secondary-button = 开始上网冲浪

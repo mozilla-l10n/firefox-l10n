@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = 水平标签页
 sidebar-customize-tabs-header =
     .label = 标签页设置
+sidebar-customize-button-header =
+    .label = 侧栏按钮
+sidebar-customize-position-header =
+    .label = 侧栏位置
+sidebar-visibility-setting-always-show =
+    .label = 展开和收起侧栏
+sidebar-visibility-setting-hide-sidebar =
+    .label = 显示和隐藏侧栏
 sidebar-customize-settings-header =
     .label = 侧栏设置
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
+sidebar-panel-header-close-button =
+    .tooltiptext = 关闭
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,10 @@ sidebar-syncedtabs-title = 其他设备上的标签页
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = 关闭 { $deviceName } 中的标签页
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = 收起侧栏
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = 显示侧栏
