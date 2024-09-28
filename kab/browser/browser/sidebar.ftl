@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = AI Chatbot
+menu-view-review-checker =
+    .label = Amsenqad n tamawt
 
 ## Labels for sidebar history panel
 
@@ -42,8 +46,18 @@ sidebar-position-left =
     .label = Sken deg zelmeḍ
 sidebar-position-right =
     .label = Sken deg yeffus
+sidebar-vertical-tabs =
+    .label = Accaren ubdiden
+sidebar-horizontal-tabs =
+    .label = Accaren iglawanen
 sidebar-customize-tabs-header =
     .label = Iɣewwaren n yiccer
+sidebar-customize-button-header =
+    .label = Taqeffalt n ufeggag adisan
+sidebar-customize-position-header =
+    .label = Adig n ufeggag adisan
+sidebar-visibility-setting-hide-sidebar =
+    .label = Sken syen ffer afeggag adisan
 sidebar-customize-settings-header =
     .label = Iɣewwaren n ufeggag adisan
 sidebar-visibility-always-show =
@@ -89,6 +103,8 @@ sidebar-menu-bookmarks-label =
     .label = Ticraḍ n isebtar
 sidebar-menu-customize-label =
     .label = Sagen afeggag adigan
+sidebar-menu-review-checker-label =
+    .label = Amsenqad n tamawt
 
 ## Headings for sidebar menu panels.
 
@@ -98,9 +114,12 @@ sidebar-menu-history-header =
     .heading = Azray
 sidebar-menu-syncedtabs-header =
     .heading = Iccaren seg ibenkan nniḍen
+sidebar-panel-header-close-button =
+    .tooltiptext = Mdel
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Sagen afeggag adigan
 sidebar-history-title = Azray
 sidebar-syncedtabs-title = Iccaren seg ibenkan niḍen
 
@@ -115,5 +134,9 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Fneẓ afeggag adisan
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Sken afeggag adisan
 sidebar-toolbar-hide-sidebar =
     .tooltiptext = Ffer afeggag adisan

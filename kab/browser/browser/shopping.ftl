@@ -148,6 +148,7 @@ shopping-unanalyzed-product-analyze-button = Senqed tɣara n yilɣa
 
 more-to-consider-ad-label =
     .label = Ugar n tamawt
+shopping-sponsored-label = S lmendad
 ad-by-fakespot = Adellel sɣur { -fakespot-brand-name }
 
 ## Shopping survey strings.
