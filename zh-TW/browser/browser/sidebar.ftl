@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = 水平分頁標籤
 sidebar-customize-tabs-header =
     .label = 分頁選項
+sidebar-customize-button-header =
+    .label = 側邊欄按鈕
+sidebar-customize-position-header =
+    .label = 側邊欄位置
+sidebar-visibility-setting-always-show =
+    .label = 展開或折疊側邊欄
+sidebar-visibility-setting-hide-sidebar =
+    .label = 顯示或隱藏側邊欄
 sidebar-customize-settings-header =
     .label = 側邊欄選項
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
     .heading = 來自其他裝置的分頁
+sidebar-panel-header-close-button =
+    .tooltiptext = 關閉
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = 來自其他裝置的分頁
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = 關閉 { $deviceName } 上的分頁
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = 展開側邊欄
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = 摺疊側邊欄
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = 顯示側邊欄
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = 隱藏側邊欄

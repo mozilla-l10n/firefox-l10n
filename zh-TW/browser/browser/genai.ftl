@@ -91,6 +91,8 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = 一邊上網，一邊摘要、腦力激盪，還有更多功能
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = 挑選要在 { -brand-short-name } 側邊欄當中使用的 AI 聊天機器人。當您選擇時，我們會顯示每一套機器人的詳細資訊，也可隨時切換。<a data-l10n-name="learn-more">更多資訊</a>
 genai-onboarding-primary = 繼續
 genai-onboarding-secondary = 關閉
 genai-onboarding-claude-tooltip =
@@ -109,6 +111,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = 了解 Le Chat 的更多資訊
 genai-onboarding-select-header = 選擇文字即可檢視建議
+genai-onboarding-select-description = 選擇文字時，我們將提供您一些可以直接送到機器人的提示語，您也可以寫自己的提示語。
 genai-onboarding-select-primary = 開始聊天
 
 ## Chatbot onboarding choices
@@ -121,3 +124,10 @@ genai-onboarding-chatgpt-generate = 產生文字、圖片或程式碼
 genai-onboarding-chatgpt-analyze = 分析文件與圖片
 genai-onboarding-chatgpt-price = 有免費與收費版，在某些國家或作特定任務時需要註冊
 genai-onboarding-gemini-generate = 產生文字、圖片或程式碼
+genai-onboarding-gemini-analyze = 分析圖片（免費）與文件（收費）
+genai-onboarding-gemini-price = 有免費與收費版，需要註冊
+genai-onboarding-huggingchat-generate = 產生文字或程式碼
+genai-onboarding-huggingchat-switch = 切換使用一系列不同的開放模型
+genai-onboarding-huggingchat-price = 免費，需要註冊才能作某些任務
+genai-onboarding-lechat-generate = 產生文字或程式碼
+genai-onboarding-lechat-price = 免費，需要註冊

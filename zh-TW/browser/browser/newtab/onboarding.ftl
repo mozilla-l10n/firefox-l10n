@@ -363,3 +363,29 @@ onboarding-new-user-survey-familiarity-based-option-1 = 我剛開始使用
 onboarding-new-user-survey-familiarity-based-option-2 = 我大概會用
 onboarding-new-user-survey-familiarity-based-option-3 = 我很熟悉操作
 onboarding-new-user-survey-familiarity-based-option-4 = 我曾經用過，但已經好一陣子了
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = 告訴我們您想將分頁列放在哪裡
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = 可以到側邊欄設定中隨時切換。
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = 分頁顯示在側邊
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = 分頁顯示在頂端
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = 垂直分頁將顯示於此處
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = 正式推出垂直分頁功能
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = 試試看將分頁列移到側邊，可在側邊欄設定中隨時切換。
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = 試用垂直分頁標籤功能
+onboarding-flair-text = 新功能！
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = 保留水平分頁標籤
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = 在側邊欄試用 AI 聊天機器人
+onboarding-genai-sidebar-primary-button = 挑選一套機器人
+onboarding-genai-sidebar-secondary-button = 開始上網
