@@ -395,3 +395,5 @@ onboarding-existing-tabs-subtitle = Попробуйте свои вкладки
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Попробуйте вертикальные вкладки
 onboarding-flair-text = Новинка!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Сохраните горизонтальные вкладки
