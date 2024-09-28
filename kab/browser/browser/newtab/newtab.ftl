@@ -353,3 +353,5 @@ newtab-topic-label-travel = Tirza
 newtab-topic-selection-save-button = Sekles
 newtab-topic-selection-cancel-button = Sefsex
 newtab-topic-selection-button-maybe-later = Ahat ticki
+newtab-topic-selection-privacy-link = Ẓer amek i nemmestan akked wamek i nessefrak isefka
+newtab-topic-selection-button-update-interests = Leqqem ismenyaf-ik
