@@ -60,3 +60,64 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = 問問 { $provider }…
+genai-shortcuts-hide =
+    .label = 隱藏聊天機器人捷徑
+
+## Chatbot header
+
+genai-chatbot-title = AI 聊天機器人
+genai-header-provider-menu =
+    .title = 挑選一套機器人
+genai-header-options-button =
+    .title = 開啟選單
+genai-header-close-button =
+    .title = 關閉
+genai-provider-view-details =
+    .label = 檢視聊天機器人的詳細資訊
+genai-provider-about-chatbots =
+    .label = 關於這些聊天機器人
+genai-options-reload-generic =
+    .label = 重新載入 AI 聊天機器人
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = 重新載入 { $provider }
+genai-options-show-shortcut =
+    .label = 選擇文字時顯示捷徑
+genai-options-hide-shortcut =
+    .label = 選擇文字時隱藏捷徑
+genai-options-about-chatbot =
+    .label = 關於 { -brand-short-name } 的 AI 聊天機器人功能
+
+## Chatbot onboarding
+
+genai-onboarding-header = 一邊上網，一邊摘要、腦力激盪，還有更多功能
+genai-onboarding-primary = 繼續
+genai-onboarding-secondary = 關閉
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = 了解 Claude 的更多資訊
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = 了解 ChatGPT 的更多資訊
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = 了解 Gemini 的更多資訊
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = 了解 HuggingChat 的更多資訊
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = 了解 Le Chat 的更多資訊
+genai-onboarding-select-header = 選擇文字即可檢視建議
+genai-onboarding-select-primary = 開始聊天
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = 產生文字或程式碼
+genai-onboarding-claude-analyze = 分析文件與圖片
+genai-onboarding-claude-price = 有免費與收費版，需要註冊
+genai-onboarding-chatgpt-generate = 產生文字、圖片或程式碼
+genai-onboarding-chatgpt-analyze = 分析文件與圖片
+genai-onboarding-chatgpt-price = 有免費與收費版，在某些國家或作特定任務時需要註冊
+genai-onboarding-gemini-generate = 產生文字、圖片或程式碼
