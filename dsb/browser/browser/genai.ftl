@@ -74,9 +74,43 @@ genai-header-close-button =
     .title = Zacyniś
 genai-provider-view-details =
     .label = Drobnostki chatowego bota pokazaś
+genai-provider-about-chatbots =
+    .label = Wó toś tych chatowych botach
+genai-options-reload-generic =
+    .label = Chatowy bot KI znowego zacytaś
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } znowego zacytaś
+genai-options-show-shortcut =
+    .label = Tastowu skrotconku pokazaś, gaž se tekst wuběra
+genai-options-hide-shortcut =
+    .label = Tastowu skrotconku schowaś, gaž se tekst wuběra
+genai-options-about-chatbot =
+    .label = Wó chatowych botach w { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Zespominaś, namakanje idejow a wěcej, gaž pśeglědujośo
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Wubjeŕśo chatowy bot, aby jen w bocnicy { -brand-short-name } wužywał. Pokažomy drobnostki wó kuždem chatowem bośe, gaž jen wuběraśo. Móžośo jen kuždy cas změniś. <a data-l10n-name="learn-more">Dalšne informacije</a>
+genai-onboarding-primary = Dalej
+genai-onboarding-secondary = Zacyniś
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Zgóńśo wěcej wó Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Zgóńśo wěcej wó ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Zgóńśo wěcej wó Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Zgóńśo wěcej wó HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Zgóńśo wěcej wó Le Chat
+genai-onboarding-select-header = Wubjeŕśo tekst, aby naraźenja wiźeł
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
