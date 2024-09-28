@@ -60,6 +60,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Prašejće so { $provider }…
+genai-shortcuts-hide =
+    .label = Tastowu skrótšenku chatoweho bota schować
 
 ## Chatbot header
 
@@ -70,14 +72,27 @@ genai-header-options-button =
     .title = Meni wočinić
 genai-header-close-button =
     .title = Začinić
+genai-provider-view-details =
+    .label = Podrobnosće chatoweho bota pokazać
+genai-provider-about-chatbots =
+    .label = Wo tutych chatowych botach
+genai-options-reload-generic =
+    .label = Chatowy bot KI znowa začitać
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = { $provider } znowa začitać
+genai-options-show-shortcut =
+    .label = Tastowu skrótšenku pokazać, hdyž so tekst wuběra
+genai-options-hide-shortcut =
+    .label = Tastowu skrótšenku schować, hdyž so tekst wuběra
 genai-options-about-chatbot =
     .label = Wo chatbotach w { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Zjimać, namakanje idejow a wjace, hdyž přehladujeće
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Wubjerće chatowy bot, zo byšće jón w bóčnicy { -brand-short-name } wužiwał. Pokazamy podrobnosće wo kóždym chatowym boće, hdyž jón wuběraće. Móžeće jón kóždy čas změnić. <a data-l10n-name="learn-more">Dalše informacije</a>
 genai-onboarding-primary = Dale
 genai-onboarding-secondary = Začinić
 genai-onboarding-claude-tooltip =
