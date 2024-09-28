@@ -268,7 +268,7 @@ preferences-zoom-text-only =
     .label = Zoom vetëm për tekst
     .accesskey = t
 preferences-text-zoom-override-warning =
-    .message = Kujdes: Nëse përzgjidhni “Zoom vetëm tekst” dhe shkalla parazgjedhje për zoom-in s’është caktuar 100%, mund të bëjë që disa sajte, ose lëndë të mos funksionojë.
+    .message = Kujdes: Nëse përzgjidhni “Zoom vetëm tekst” dhe shkalla parazgjedhje për zoom-in s’është vënë si 100%, mund të bëjë që disa sajte, ose lëndë të mos funksionojë.
 language-header = Gjuhë
 choose-language-description = Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh
 choose-button =
@@ -559,7 +559,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
-home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën { -firefox-home-brand-name } tuaj.
+home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën “{ -firefox-home-brand-name }” tuaj.
 home-prefs-search-header =
     .label = Kërkim në Web
 home-prefs-shortcuts-header =
@@ -1409,7 +1409,7 @@ preferences-doh-default-detailed-desc-3 = Përdor një furnizues vendor, në qof
 preferences-doh-default-detailed-desc-4 = Çaktivizoje, kur janë aktive VPN-ja, kontrolli prindëror dhe rregulla ndërmarrjeje
 preferences-doh-default-detailed-desc-5 = Çaktivizoje, kur një rrjet i kërkon { -brand-short-name }-it të mos përdorë DNS të siguruar
 preferences-doh-setting-enabled =
-    .label = Shtim Mbrojtjeje
+    .label = Mbrojtje e Shtuar
     .accesskey = M
 preferences-doh-enabled-desc = Ju keni kontroll kur të përdoret DNS dhe zgjidhet furnizuesi juaj
 preferences-doh-enabled-detailed-desc-1 = Përdorni furnizuesin që përzgjodhët
