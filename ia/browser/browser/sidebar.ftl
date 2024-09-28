@@ -136,3 +136,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Expander barra lateral
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Collaber barra lateral
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Monstrar barra lateral
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Celar barra lateral
