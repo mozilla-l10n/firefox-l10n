@@ -132,3 +132,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = سائیڈ بار کھنڈاؤ
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = سائیڈ بار ولھیٹو
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = سائیڈ بار ݙکھاؤ
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = سائیڈ بار لکاؤ

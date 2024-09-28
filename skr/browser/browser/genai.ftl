@@ -53,6 +53,8 @@ genai-header-options-button =
     .title = مینیو کھولو
 genai-header-close-button =
     .title = بند کرو
+genai-provider-view-details =
+    .label = چیٹ بوٹ تفصیلاں ݙیکھو
 genai-options-reload-generic =
     .label = اے آئی چیٹ بوٹ ولدا لوڈ کرو
 # $provider (string) - name of the provider
@@ -63,6 +65,18 @@ genai-options-reload-provider =
 
 genai-onboarding-primary = جاری
 genai-onboarding-secondary = بند کرو
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT بارے ٻیا سِکھو۔
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini بارے ٻیا سکھو
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat بارے ٻیا سِکھو۔
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat بارے ٻیا سِکھو۔
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
