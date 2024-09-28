@@ -24,11 +24,11 @@ more-from-moz-learn-more-link = Mësoni më tepër
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Mbroni email-et dhe identitetin tuaj me maskim email-i falas.
-more-from-moz-firefox-relay-button = Merrni { -relay-brand-short-name }
+more-from-moz-firefox-relay-button = Merrni { -relay-brand-short-name }-n
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Rifitoni automatikisht hollësi personale të ekspozuara.
 more-from-moz-mozilla-monitor-global-description = Merrni sinjalizime, kur të dhënat tuaja janë bërë pjesë e një cenimi.
-more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }
+more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }-in

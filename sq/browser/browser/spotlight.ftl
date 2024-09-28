@@ -16,7 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
-spotlight-focus-promo-title = Merrni { -focus-brand-name }
+spotlight-focus-promo-title = Merrni { -focus-brand-name }-in
 spotlight-focus-promo-subtitle = Që të shkarkohet, skanoni këtë kod QR.
 spotlight-focus-promo-qr-code =
     .alt = Skanoni kodin QR që të merrni { -focus-brand-name }
