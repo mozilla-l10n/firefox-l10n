@@ -136,7 +136,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = 展开侧栏
 sidebar-toolbar-collapse-sidebar =
     .tooltiptext = 收起侧栏
 sidebar-toolbar-show-sidebar =
     .tooltiptext = 显示侧栏
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = 隐藏侧栏
