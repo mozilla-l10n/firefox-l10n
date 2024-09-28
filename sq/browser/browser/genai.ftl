@@ -60,3 +60,71 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pyetni { $provider }…
+genai-shortcuts-hide =
+    .label = Fshihe shkurtoren e robotit të fjalosjeve
+
+## Chatbot header
+
+genai-chatbot-title = Robot IA fjalosjesh
+genai-header-provider-menu =
+    .title = Zgjidhni një robot fjalosjesh
+genai-header-options-button =
+    .title = Hape menunë
+genai-header-close-button =
+    .title = Mbylle
+genai-provider-view-details =
+    .label = Shihni hollësi roboti fjalosjesh
+genai-provider-about-chatbots =
+    .label = Rreth këtyre robotësh fjalosjeje
+genai-options-reload-generic =
+    .label = Ringarko robot IA fjalosjesh
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ringarko { $provider }
+genai-options-show-shortcut =
+    .label = Shfaq shkurtore, kur përzgjidhet tekst
+genai-options-hide-shortcut =
+    .label = Fshihe shkurtoren, kur përzgjidhet tekst
+genai-options-about-chatbot =
+    .label = Rreth robotësh IA fjalosjeje në { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Vazhdo
+genai-onboarding-secondary = Mbylle
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Mësoni më tepër rreth Claude-it
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Mësoni më tepër rreth ChatGPT-së
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Mësoni më tepër rreth Gemini-t
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Mësoni më tepër rreth HiggingChat-it
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Mësoni më tepër rreth Le Chat-it
+genai-onboarding-select-header = Përzgjidhni tekst që të shihni sugjerime
+genai-onboarding-select-description = Kur përzgjidhni tekst, do t’ju sugjerojmë urdhra që mund t’ia dërgoni robotit të fjalosjeve. Mundeni edhe të shkruani urdhrat tuaja.
+genai-onboarding-select-primary = Filloni të bisedoni
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Prodho tekst dhe kod
+genai-onboarding-claude-analyze = Analizo dokumente dhe figura
+genai-onboarding-claude-price = Mundësi falas dhe me pagesë; lypset llogari
+genai-onboarding-chatgpt-generate = Prodho tekst, figura dhe kod
+genai-onboarding-chatgpt-analyze = Analizo dokumente dhe figura
+genai-onboarding-chatgpt-price = Mundësi falas dhe me pagesë; për disa vende dhe gjëra lypset llogari
+genai-onboarding-gemini-generate = Prodho tekst, figura dhe kod
+genai-onboarding-gemini-analyze = Analizo figura (falas) dhe dokumente (me pagesë)
+genai-onboarding-gemini-price = Mundësi falas dhe me pagesë; lypset llogari
+genai-onboarding-huggingchat-generate = Prodho tekst dhe kod
+genai-onboarding-huggingchat-switch = Kaloni nga një grup modelesh të hapta në një tjetër
+genai-onboarding-huggingchat-price = Falas, për disa gjëra lypset llogari
+genai-onboarding-lechat-generate = Prodho tekst dhe kod
+genai-onboarding-lechat-price = Falas; lypset llogari

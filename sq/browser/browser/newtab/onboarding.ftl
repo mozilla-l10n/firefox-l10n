@@ -373,3 +373,21 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jam fringo i ri
 onboarding-new-user-survey-familiarity-based-option-2 = E kam përdorur ca herë
 onboarding-new-user-survey-familiarity-based-option-3 = Jam shumë i familjarizuar me të
 onboarding-new-user-survey-familiarity-based-option-4 = E kam përdorur në të kaluarën, por u bënë kohë
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Tregonani se ku do t’i donit skedat tuaja
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Skedat anash
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Skedat në krye
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Mbërritën skedat vertikale
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Ju paraqesim skedat vertikale
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Provoni skedat vertikale
+onboarding-flair-text = E re!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mbaji horizontale skedat

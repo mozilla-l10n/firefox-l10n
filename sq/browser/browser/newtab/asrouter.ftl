@@ -281,3 +281,15 @@ tail-fox-spotlight-title = Mbajini larg vetes gjurmuesit e bezdisshëm
 tail-fox-spotlight-subtitle = U thoni lamtumirë gjurmuesve të bezdisshëm në reklama dhe hidhni bazat e një punimi më të parrezik, të shpejtë të internetit.
 tail-fox-spotlight-primary-button = Hapi lidhjet e mia me { -brand-short-name }
 tail-fox-spotlight-secondary-button = Jo tani
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Versione më të vjetër të { -brand-short-name }-it mund të zënë e të kenë probleme më 14 janar 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Përditësojeni, që të vazhdoni ta përdorni { -brand-short-name }-in pas 14 marsit 2025.</strong>
+root-certificate-succession-infobar-link = Pse më duhet ta përditësoj?
+root-certificate-succession-infobar-primary-button =
+    .label = Përditësojeni tani
+    .accesskey = P
+root-certificate-succession-infobar-secondary-button =
+    .label = Më vonë
+    .accesskey = v
