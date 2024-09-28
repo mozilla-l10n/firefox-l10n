@@ -81,13 +81,22 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Recargar { $provider }
+genai-options-show-shortcut =
+    .label = Monstrar via-breve seligente texto
+genai-options-hide-shortcut =
+    .label = Celar via-breve seligente texto
 genai-options-about-chatbot =
     .label = Re le chatbots IA in { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Resume, liberemente expone ideas, e altero quando tu naviga
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }. Nos monstrara detalios re cata chatbot quando tu lo seligera. Muta lo quandocunque tu vole.
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Clauder
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
 genai-onboarding-claude-learn = Saper plus re Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
@@ -101,8 +110,11 @@ genai-onboarding-huggingchat-learn = Saper plus re HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Saper plus re Le Chat
+genai-onboarding-select-header = Seliger texto pro vider suggestiones
+genai-onboarding-select-description = Quando tu selige texto, nos suggerera le suggestiones que tu potera inviar al chatbot. Tu alsi pote inscriber tu proprie suggestiones.
 genai-onboarding-select-primary = Initia a chattar
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generar texto e codice
