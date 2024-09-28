@@ -60,3 +60,41 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } fragen…
+genai-shortcuts-hide =
+    .label = Chatbot-Verknüpfung ausblenden
+
+## Chatbot header
+
+genai-chatbot-title = KI-Chatbot
+genai-header-provider-menu =
+    .title = Wählen Sie einen Chatbot
+genai-header-options-button =
+    .title = Menü öffnen
+genai-header-close-button =
+    .title = Schließen
+genai-provider-view-details =
+    .label = Details des Chatbots ansehen
+genai-provider-about-chatbots =
+    .label = Über diese Chatbots
+genai-options-reload-generic =
+    .label = KI-Chatbot neu laden
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } neu laden
+genai-options-show-shortcut =
+    .label = Verknüpfung beim Auswählen von Text anzeigen
+genai-options-hide-shortcut =
+    .label = Verknüpfung beim Auswählen von Text ausblenden
+genai-options-about-chatbot =
+    .label = Über KI-Chatbots in { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Weiter
+genai-onboarding-secondary = Schließen
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
