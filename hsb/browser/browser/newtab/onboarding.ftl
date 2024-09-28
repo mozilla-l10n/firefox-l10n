@@ -379,16 +379,33 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sym jón w zańdźenosć
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Zdźělće nam, hdźež chceće swoje rajtarki měć
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Přepinajće w nastajenjach bóčnicy, hdyžkuli chceće.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Rajtarki naboku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Rajtarki horjeka
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Wertikalne rajtarki su tu
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Wertikalne rajtarki předstajić
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Spytajće swoje rajtarki naboku. Přepinajće w nastajenjach bóčnicy, hdyžkuli chceće.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Wupruwujće wertikalne rajtarki
 onboarding-flair-text = Nowy!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Horicontalne rajtarki wobchować
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Wokno wobhladowaka, kotrež rajtarki podłu boka wobrazowki jako dźěl bóčnicy { -brand-shorter-name } pokazuje.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Wokno wobhladowaka, kotrež rajtarki podłu boka wobrazowki jako dźěl bóčnicy { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Wokno wobhladowaka, kotrež rajtarki horjeka pokazuje
 onboarding-genai-sidebar-primary-button = Wubjerće chatbot
 onboarding-genai-sidebar-secondary-button = Přehladowanje započeć

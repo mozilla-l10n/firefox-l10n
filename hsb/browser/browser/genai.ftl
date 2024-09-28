@@ -127,3 +127,7 @@ genai-onboarding-gemini-generate = Tekst, wobrazy a kod generować
 genai-onboarding-gemini-analyze = Wobrazy analyzować (darmotny) a dokumenty analyzować (płaćomny)
 genai-onboarding-gemini-price = Darmotne a płaćomne móžnosće; konto je trěbne
 genai-onboarding-huggingchat-generate = Tekst a kod generować
+genai-onboarding-huggingchat-switch = Přepinajće mjez rozdźělnej sadźbu wotewrjenych modelow
+genai-onboarding-huggingchat-price = Darmotny; konto je trěbne za někotre nadawki
+genai-onboarding-lechat-generate = Tekst a kod generować
+genai-onboarding-lechat-price = Darmotny; konto je trěbne
