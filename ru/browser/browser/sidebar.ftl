@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Горизонтальные вкладки
 sidebar-customize-tabs-header =
     .label = Настройки вкладок
+sidebar-customize-button-header =
+    .label = Кнопка боковой панели
+sidebar-customize-position-header =
+    .label = Положение боковой панели
+sidebar-visibility-setting-always-show =
+    .label = Развернуть и свернуть боковую панель
+sidebar-visibility-setting-hide-sidebar =
+    .label = Показать и скрыть боковую панель
 sidebar-customize-settings-header =
     .label = Настройки боковой панели
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Журнал
 sidebar-menu-syncedtabs-header =
     .heading = Вкладки с других устройств
+sidebar-panel-header-close-button =
+    .tooltiptext = Закрыть
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Вкладки с других устройств
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрыть вкладку на { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Развернуть боковую панель
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Свернуть боковую панель
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Показать боковую панель
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Скрыть боковую панель

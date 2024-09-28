@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Закрыть вкладки слева
     .accesskey = л
+close-tabs-to-the-start-vertical =
+    .label = Закрыть вкладки выше
+    .accesskey = Ш
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Закрыть вкладки справа
     .accesskey = п
+close-tabs-to-the-end-vertical =
+    .label = Закрыть вкладки ниже
+    .accesskey = ш
 close-other-tabs =
     .label = Закрыть другие вкладки
     .accesskey = ы
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Поделиться
     .accesskey = д
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Новая вкладка справа
+    .accesskey = ц
+tab-context-new-tab-open-vertical =
+    .label = Новая вкладка ниже
+    .accesskey = ц
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

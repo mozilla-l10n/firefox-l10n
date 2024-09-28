@@ -397,3 +397,21 @@ onboarding-existing-vertical-tabs-label = Попробуйте вертикал�
 onboarding-flair-text = Новинка!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Сохраните горизонтальные вкладки
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Окно браузера, отображающее вкладки сбоку экрана как часть боковой панели { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Окно браузера, отображающее вкладки сбоку экрана как часть боковой панели { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Окно браузера со вкладками вверху.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Окно браузера со вкладками вверху.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Попробуйте ИИ-чат-бот в боковой панели
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Суммируйте веб-содержимое, используйте идеи, черновики сообщений — и всё это во время интернет-сёрфинга. Выбирайте из множества провайдеров. Переключайтесь в любое время. <a data-l10n-name="learn-more">Подробнее</a>
+onboarding-genai-sidebar-primary-button = Выберите чат-бот
+onboarding-genai-sidebar-secondary-button = Начать веб-сёрфинг
