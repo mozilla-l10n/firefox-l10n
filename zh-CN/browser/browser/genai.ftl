@@ -74,6 +74,11 @@ genai-header-close-button =
     .title = 关闭
 genai-provider-view-details =
     .label = 查看聊天机器人详细信息
+genai-options-reload-generic =
+    .label = 重新加载 AI 聊天机器人
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = 重新加载 { $provider }
 
 ## Chatbot onboarding
 
