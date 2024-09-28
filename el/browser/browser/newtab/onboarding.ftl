@@ -384,6 +384,10 @@ onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις κ
 onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Καρτέλες στο πάνω μέρος
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Οι κάθετες καρτέλες είναι εδώ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Παρουσίαση των κάθετων καρτελών
 onboarding-flair-text = Νέο!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Διατήρηση οριζόντιων καρτελών
