@@ -376,3 +376,20 @@ onboarding-new-user-survey-familiarity-based-option-1 = I’m brand new
 onboarding-new-user-survey-familiarity-based-option-2 = I’ve used it some
 onboarding-new-user-survey-familiarity-based-option-3 = I’m very familiar with it
 onboarding-new-user-survey-familiarity-based-option-4 = I used it in the past, but it’s been a while
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Tell us where you’d like your tabs
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Switch it up whenever you want in the sidebar settings.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Tabs on the side
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Tabs on the top
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Vertical tabs are here
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Introducing vertical tabs
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Try your tabs on the side. Switch it up whenever you want in the sidebar settings.
