@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Zavřít panely vlevo
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Zavřít panel výše
+    .accesskey = v
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zavřít panely vpravo
     .accesskey = r
+close-tabs-to-the-end-vertical =
+    .label = Zavřít panely níže
+    .accesskey = n
 close-other-tabs =
     .label = Zavřít ostatní panely
     .accesskey = o
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Sdílet
     .accesskey = S
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nový panel vpravo
+    .accesskey = p
+tab-context-new-tab-open-vertical =
+    .label = Nový panel níže
+    .accesskey = p
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

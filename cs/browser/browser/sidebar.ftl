@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Kontrola recenzí
 
 ## Labels for sidebar history panel
 
@@ -58,6 +60,8 @@ sidebar-horizontal-tabs =
     .label = Vodorovné panely
 sidebar-customize-tabs-header =
     .label = Nastavení panelů
+sidebar-customize-position-header =
+    .label = Umístění postranní lišty
 sidebar-customize-settings-header =
     .label = Nastavení postranní lišty
 sidebar-visibility-always-show =
@@ -103,6 +107,8 @@ sidebar-menu-bookmarks-label =
     .label = Záložky
 sidebar-menu-customize-label =
     .label = Přizpůsobit postranní lištu
+sidebar-menu-review-checker-label =
+    .label = Kontrola recenzí
 
 ## Headings for sidebar menu panels.
 
@@ -112,6 +118,14 @@ sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
+sidebar-panel-header-close-button =
+    .tooltiptext = Zavřít
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Přizpůsobit postranní lištu
+sidebar-history-title = Historie
+sidebar-syncedtabs-title = Panely z jiných zařízení
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -121,3 +135,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zavřít panel v { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
