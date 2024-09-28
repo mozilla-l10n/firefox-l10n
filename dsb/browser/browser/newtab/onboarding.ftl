@@ -398,3 +398,21 @@ onboarding-existing-vertical-tabs-label = Wopytajśo wertikalne rejtariki
 onboarding-flair-text = Nowy!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Horicontalne rejtariki wobchowaś
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Wokno wobglědowaka, kótarež rejtariki spóromje boka wobrazowki ako źěl bocnice { -brand-shorter-name } pokazujo.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Wokno wobglědowaka, kótarež rejtariki spóromje boka wobrazowki ako źěl bocnice { -brand-shorter-name } pokazujo.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Wokno wobglědowaka, kótarež rejtariki górjejce pokazujo.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Wokno wobglědowaka, kótarež rejtariki górjejce pokazujo.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Wopytajśo chatowy bot KI w bocnicy.
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Zespominajśo webwopśimjeśe, ideje namakanja idejow, nacerjenja powěsćow – wšykno, gaž pśeglědujośo. Wubjeŕśo z někotarych póbitowarjow. Móžośo jogo kuždy raz změniś. <a data-l10n-name="learn-more">Dalšne informacije</a>
+onboarding-genai-sidebar-primary-button = Wubjeŕśo chatowy bot
+onboarding-genai-sidebar-secondary-button = Pśeglědowanje zachopiś

@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horicontalne rejtariki
 sidebar-customize-tabs-header =
     .label = Nastajenja rejtarikow
+sidebar-customize-button-header =
+    .label = Tłocašk bocnice
+sidebar-customize-position-header =
+    .label = Pozicija bocnice
+sidebar-visibility-setting-always-show =
+    .label = Bocnicu pokazaś a schowaś
+sidebar-visibility-setting-hide-sidebar =
+    .label = Bocnicu pokazaś a schowaś
 sidebar-customize-settings-header =
     .label = Nastajenja bocnice
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rejtariki z drugich rědow
+sidebar-panel-header-close-button =
+    .tooltiptext = Zacyniś
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Rejtariki z drugich rědow
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Rejtarik na { $deviceName } zacyniś
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Bocnicu pokazaś
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Bocnicu schowaś
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Bocnicu pokazaś
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Bocnicu schowaś
