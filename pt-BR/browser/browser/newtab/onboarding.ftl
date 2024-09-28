@@ -375,3 +375,12 @@ onboarding-new-user-survey-familiarity-based-option-1 = Acabei de começar
 onboarding-new-user-survey-familiarity-based-option-2 = Já usei um pouco
 onboarding-new-user-survey-familiarity-based-option-3 = Estou muito familiarizado
 onboarding-new-user-survey-familiarity-based-option-4 = Já usei, mas faz um tempo
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Abas na lateral
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Abas no alto
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Apresentamos abas na vertical
