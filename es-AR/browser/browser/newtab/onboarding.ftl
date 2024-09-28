@@ -376,3 +376,43 @@ onboarding-new-user-survey-familiarity-based-option-1 = Soy nuevo
 onboarding-new-user-survey-familiarity-based-option-2 = Lo he usado algo
 onboarding-new-user-survey-familiarity-based-option-3 = Estoy muy familiarizado
 onboarding-new-user-survey-familiarity-based-option-4 = Lo usé en el pasado, pero ha pasado un tiempo
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Díganos dónde quiere las pestañas
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Cambie cuando quiera en la configuración de barra lateral .
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Pestañas en el costado
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Pestañas en la parte superior
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Acá están las pestañas verticales
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Presentando las pestañas verticales
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Pruebe las pestañas al costado. Cambie cuando quiera en la configuración de barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Pruebe pestañas verticales
+onboarding-flair-text = ¡Nuevo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantener pestañas horizontales
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Una ventana de navegador mostrando pestañas en el costado de la pantalla como parte de la barra lateral de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Una ventana de navegador mostrando pestañas en el costado de la pantalla como parte de la barra lateral de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Una ventana del navegador mostrando pestañas en la parte superior.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Una ventana del navegador mostrando pestañas en la parte superior.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Pruebe un chatbot IA en la barra lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resumir contenido web, tormenta de ideas, borrador de mensajes — todo mientras se navega. Seleccione entre múltiples proveedores. Cambie en cualquier momento. <a data-l10n-name="learn-more">Conocer más</a>
+onboarding-genai-sidebar-primary-button = Seleccionar un chatbot
+onboarding-genai-sidebar-secondary-button = Empezar a navegar

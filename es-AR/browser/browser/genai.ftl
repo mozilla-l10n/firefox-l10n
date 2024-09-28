@@ -127,3 +127,7 @@ genai-onboarding-gemini-generate = Generar texto, imágenes y código
 genai-onboarding-gemini-analyze = Analizar imágenes (gratis) y documentos (pago)
 genai-onboarding-gemini-price = Opciones gratuitas y pagas; se requiere una cuenta
 genai-onboarding-huggingchat-generate = Generar texto y código
+genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de modelos abiertos
+genai-onboarding-huggingchat-price = Gratis; se requiere una cuenta para algunas tareas
+genai-onboarding-lechat-generate = Generar texto y código
+genai-onboarding-lechat-price = Gratis; se requiere una cuenta
