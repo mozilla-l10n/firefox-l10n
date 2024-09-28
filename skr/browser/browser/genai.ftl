@@ -45,3 +45,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } کنوں پچھو ۔۔۔
+
+## Chatbot header
+
+genai-chatbot-title = اے آئی چیٹ بوٹ
+genai-header-options-button =
+    .title = مینیو کھولو
+genai-header-close-button =
+    .title = بند کرو
+genai-options-reload-generic =
+    .label = اے آئی چیٹ بوٹ ولدا لوڈ کرو
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } ولدا لوڈ کرو
+
+## Chatbot onboarding
+
+genai-onboarding-primary = جاری
+genai-onboarding-secondary = بند کرو
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

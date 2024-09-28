@@ -52,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = افقی ٹیباں
 sidebar-customize-tabs-header =
     .label = ٹیب ترتیباں
+sidebar-customize-button-header =
+    .label = سائیڈ بار بٹݨ
+sidebar-customize-position-header =
+    .label = سائیڈ بار مقام
 sidebar-customize-settings-header =
     .label = سائیڈ بار ترتیباں
 sidebar-visibility-always-show =
@@ -108,6 +112,8 @@ sidebar-menu-history-header =
     .heading = تاریخ
 sidebar-menu-syncedtabs-header =
     .heading = ٻیاں ڈیوائساں کنوں ٹیباں
+sidebar-panel-header-close-button =
+    .tooltiptext = بند کرو
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +129,6 @@ sidebar-syncedtabs-title = ٻیاں ڈیوائساں کنوں ٹیباں
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } تے ٹیب بند کرو
+
+## Tooltips for the sidebar toolbar button.
+

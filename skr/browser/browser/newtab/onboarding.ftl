@@ -363,3 +363,11 @@ onboarding-new-user-survey-familiarity-based-option-1 = میں اصلوں نوا
 onboarding-new-user-survey-familiarity-based-option-2 = میں اِیکُوں کُجھ ورتیا ہِے
 onboarding-new-user-survey-familiarity-based-option-3 = میں اِین٘دا چَنڳا ڄاݨُوں ہاں
 onboarding-new-user-survey-familiarity-based-option-4 = میں اِیکوں ماضی وِچ ورتیا ہَئی، پَر کُجھ وخت لنگھ ڳِیا ہِے
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = نواں!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = افقی ٹیباں رکھو
+onboarding-genai-sidebar-primary-button = چیٹ بوٹ چݨو
+onboarding-genai-sidebar-secondary-button = براؤزنگ شروع کرو
