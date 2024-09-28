@@ -65,7 +65,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = AI chatbot
+genai-chatbot-title = Chatbot KI
 genai-header-provider-menu =
     .title = Wubjerće chatbot
 genai-header-options-button =
