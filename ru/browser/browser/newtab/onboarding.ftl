@@ -375,3 +375,23 @@ onboarding-new-user-survey-familiarity-based-option-1 = Я новичок
 onboarding-new-user-survey-familiarity-based-option-2 = Пользовался несколько раз
 onboarding-new-user-survey-familiarity-based-option-3 = Очень хорошо знаком
 onboarding-new-user-survey-familiarity-based-option-4 = Я пользовался им в прошлом, но прошло много времени
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Расскажите нам, где вы хотите видеть свои вкладки
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Включите это, когда захотите, в настройках боковой панели.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Вкладки сбоку
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Вкладки вверху
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Вертикальные вкладки уже здесь
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Представляем вертикальные вкладки
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Попробуйте свои вкладки сбоку. Включите это, когда захотите, в настройках боковой панели.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Попробуйте вертикальные вкладки
+onboarding-flair-text = Новинка!

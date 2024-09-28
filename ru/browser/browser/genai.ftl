@@ -95,7 +95,39 @@ genai-onboarding-header = Подводите итоги, проводите мо
 genai-onboarding-description = Выберите ИИ-чат-бот для использования в боковой панели { -brand-short-name }. Мы покажем подробности о каждом чат-боте, когда вы его выберете. Переключайтесь в любое время. <a data-l10n-name="learn-more">Подробнее</a>
 genai-onboarding-primary = Продолжить
 genai-onboarding-secondary = Закрыть
+genai-onboarding-claude-tooltip =
+    .title = Разумный Клод
+genai-onboarding-claude-learn = Узнайте больше о Клоде
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Узнайте больше о ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Узнайте больше о Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Узнайте больше о HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Узнайте больше о Le Chat
+genai-onboarding-select-header = Выберите текст для просмотра предложений
+genai-onboarding-select-description = При выделении текста мы будем предлагать подсказки, которые вы можете отправить чат-боту. Вы также можете писать в своих собственных запросах.
+genai-onboarding-select-primary = Начать чат
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Генерация текста и кода
+genai-onboarding-claude-analyze = Анализ документов и изображений
+genai-onboarding-claude-price = Бесплатные и платные опции; требуется аккаунт
+genai-onboarding-chatgpt-generate = Генерация текста, изображения и кода
+genai-onboarding-chatgpt-analyze = Анализ документов и изображений
+genai-onboarding-chatgpt-price = Бесплатные и платные опции; для некоторых стран и задач требуется аккаунт
+genai-onboarding-gemini-generate = Генерация текста, изображения и кода
+genai-onboarding-gemini-analyze = Анализируйте изображения (бесплатно) и документы (платно)
+genai-onboarding-gemini-price = Бесплатные и платные опции; требуется аккаунт
+genai-onboarding-huggingchat-generate = Генерация текста и кода
+genai-onboarding-huggingchat-switch = Переключайтесь между разнообразным набором открытых моделей
+genai-onboarding-huggingchat-price = Бесплатно; для некоторых задач требуется аккаунт
+genai-onboarding-lechat-generate = Генерация текста и кода
+genai-onboarding-lechat-price = Бесплатно; требуется аккаунт
