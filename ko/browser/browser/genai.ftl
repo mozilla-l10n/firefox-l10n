@@ -95,7 +95,39 @@ genai-onboarding-header = 탐색하면서 요약, 브레인스토밍 등을 하�
 genai-onboarding-description = { -brand-short-name } 사이드바에서 사용할 AI 챗봇을 선택하세요. 각 챗봇을 선택하면 해당 챗봇에 대한 세부 정보가 표시됩니다. 언제든지 전환할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 genai-onboarding-primary = 계속
 genai-onboarding-secondary = 닫기
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude에 대해 더 알아보기
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT에 대해 더 알아보기
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini에 대해 더 알아보기
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat에 대해 더 알아보기
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat에 대해 더 알아보기
+genai-onboarding-select-header = 제안을 보려면 텍스트를 선택하세요
+genai-onboarding-select-description = 텍스트를 선택하면 챗봇에 보낼 수 있는 메시지를 제안합니다. 자신만의 프롬프트를 작성할 수도 있습니다.
+genai-onboarding-select-primary = 채팅 시작
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = 텍스트와 코드 생성
+genai-onboarding-claude-analyze = 문서 및 이미지 분석
+genai-onboarding-claude-price = 무료 및 유료 옵션; 계정 필요
+genai-onboarding-chatgpt-generate = 텍스트, 이미지 및 코드 생성
+genai-onboarding-chatgpt-analyze = 문서 및 이미지 분석
+genai-onboarding-chatgpt-price = 무료 및 유료 옵션; 일부 국가 및 작업에는 계정 필요
+genai-onboarding-gemini-generate = 텍스트, 이미지 및 코드 생성
+genai-onboarding-gemini-analyze = 이미지(무료)와 문서(유료) 분석
+genai-onboarding-gemini-price = 무료 및 유료 옵션; 계정 필요
+genai-onboarding-huggingchat-generate = 텍스트와 코드 생성
+genai-onboarding-huggingchat-switch = 다양한 개방형 모델 간 전환
+genai-onboarding-huggingchat-price = 무료; 일부 작업에는 계정 필요
+genai-onboarding-lechat-generate = 텍스트와 코드 생성
+genai-onboarding-lechat-price = 무료; 계정 필요
