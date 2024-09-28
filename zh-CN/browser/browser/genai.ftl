@@ -79,10 +79,40 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = 重新加载 { $provider }
+genai-options-show-shortcut =
+    .label = 选中文本时显示快捷方式
+genai-options-about-chatbot =
+    .label = 关于 { -brand-short-name } 中的 AI 聊天机器人
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = 继续
+genai-onboarding-secondary = 关闭
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = 详细了解 Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = 详细了解 ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = 详细了解 Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = 详细了解 HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = 详细了解 Le Chat
+genai-onboarding-select-header = 选中文本来查看建议
+genai-onboarding-select-primary = 开始聊天
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = 生成文本和代码
+genai-onboarding-claude-analyze = 分析文档和图像
+genai-onboarding-chatgpt-generate = 生成文本、图像、代码
+genai-onboarding-chatgpt-analyze = 分析文档和图像
+genai-onboarding-gemini-generate = 生成文本、图像、代码
+genai-onboarding-gemini-analyze = 分析图像（免费）和文本（付费）
+genai-onboarding-huggingchat-generate = 生成文本和代码
