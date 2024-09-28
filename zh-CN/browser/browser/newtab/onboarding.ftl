@@ -359,3 +359,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = 我是新用户
 onboarding-new-user-survey-familiarity-based-option-2 = 我已有一些了解
 onboarding-new-user-survey-familiarity-based-option-3 = 我已非常熟悉
 onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没使用了
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = 告诉我们您希望将标签页放在哪里
