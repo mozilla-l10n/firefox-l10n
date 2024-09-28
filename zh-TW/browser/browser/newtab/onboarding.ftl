@@ -385,7 +385,21 @@ onboarding-existing-vertical-tabs-label = 試用垂直分頁標籤功能
 onboarding-flair-text = 新功能！
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = 保留水平分頁標籤
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = 於 { -brand-shorter-name } 側邊欄顯示分頁列的瀏覽器視窗。
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = 於 { -brand-shorter-name } 側邊欄顯示分頁列的瀏覽器視窗。
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = 於頂端顯示分頁列的瀏覽器視窗。
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = 於頂端顯示分頁列的瀏覽器視窗。
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = 在側邊欄試用 AI 聊天機器人
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = 一邊上網一般摘要網頁內容、找出新點子、撰寫訊息草稿。多套機器人可供使用，並可隨時切換。<a data-l10n-name="learn-more">更多資訊</a>
 onboarding-genai-sidebar-primary-button = 挑選一套機器人
 onboarding-genai-sidebar-secondary-button = 開始上網
