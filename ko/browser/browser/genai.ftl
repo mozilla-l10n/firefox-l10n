@@ -18,7 +18,7 @@ genai-settings-chat-huggingchat-links = HuggingChat을 선택하면, <a data-l10
 genai-settings-chat-lechat-links = Le Chat Mistral을 선택하면, Mistral AI <a data-l10n-name="link1">이용 약관</a> 및 <a data-l10n-name="link2">개인정보처리방침</a>에 동의하게 됩니다.
 genai-settings-chat-localhost-links = { -vendor-short-name }의 혁신 그룹에서 <a data-l10n-name="link1">llamafile</a>과 같은 개인 로컬 챗봇을 가져오세요.
 genai-settings-chat-shortcuts =
-    .description = 텍스트를 선택하면 프롬프트에 대한 바로가기를 표시합니다. { -brand-short-name }는 텍스트, 페이지 제목을 챗봇에 보내고 질문합니다.
+    .description = 텍스트를 선택하면 프롬프트에 대한 바로 가기를 표시합니다. { -brand-short-name }는 텍스트, 페이지 제목을 챗봇에 보내고 질문합니다.
     .label = 텍스트 선택 시 프롬프트 표시
 
 ## Chatbot prompts
@@ -60,3 +60,42 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider }에게 물어보기...
+genai-shortcuts-hide =
+    .label = 챗봇 바로 가기 숨기기
+
+## Chatbot header
+
+genai-chatbot-title = AI 챗봇
+genai-header-provider-menu =
+    .title = 챗봇 선택
+genai-header-options-button =
+    .title = 메뉴 열기
+genai-header-close-button =
+    .title = 닫기
+genai-provider-view-details =
+    .label = 챗봇 세부 정보 보기
+genai-provider-about-chatbots =
+    .label = 챗봇 정보
+genai-options-reload-generic =
+    .label = AI 챗봇 새로 고침
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } 새로 고침
+genai-options-show-shortcut =
+    .label = 텍스트를 선택할 때 바로 가기 표시
+genai-options-hide-shortcut =
+    .label = 텍스트를 선택할 때 바로 가기 숨기기
+genai-options-about-chatbot =
+    .label = { -brand-short-name }의 AI 챗봇 정보
+
+## Chatbot onboarding
+
+genai-onboarding-header = 탐색하면서 요약, 브레인스토밍 등을 하세요
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = { -brand-short-name } 사이드바에서 사용할 AI 챗봇을 선택하세요. 각 챗봇을 선택하면 해당 챗봇에 대한 세부 정보가 표시됩니다. 언제든지 전환할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+genai-onboarding-primary = 계속
+genai-onboarding-secondary = 닫기
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
