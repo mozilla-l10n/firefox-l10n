@@ -94,6 +94,19 @@ genai-onboarding-primary = Weiter
 genai-onboarding-secondary = Schließen
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Mehr über Claude erfahren
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Mehr über ChatGPT erfahren
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Mehr über Gemini erfahren
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Mehr über HuggingChat erfahren
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Mehr über Le Chat erfahren
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
