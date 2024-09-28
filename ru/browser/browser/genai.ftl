@@ -60,3 +60,42 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Спросить у { $provider }…
+genai-shortcuts-hide =
+    .label = Скрыть ярлык чат-бота
+
+## Chatbot header
+
+genai-chatbot-title = ИИ-чат-бот
+genai-header-provider-menu =
+    .title = Выберите чат-бот
+genai-header-options-button =
+    .title = Открыть меню
+genai-header-close-button =
+    .title = Закрыть
+genai-provider-view-details =
+    .label = Посмотреть информацию о чате-боте
+genai-provider-about-chatbots =
+    .label = Об этих чат-ботах
+genai-options-reload-generic =
+    .label = Перезагрузить ИИ-чат-бот
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Перезагрузить { $provider }
+genai-options-show-shortcut =
+    .label = Показывать ярлык при выделении текста
+genai-options-hide-shortcut =
+    .label = Скрывать ярлык при выделении текста
+genai-options-about-chatbot =
+    .label = Об ИИ-чат-ботах в { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Подводите итоги, проводите мозговые штурмы и многое другое во время веб-сёрфинга
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Выберите ИИ-чат-бот для использования в боковой панели { -brand-short-name }. Мы покажем подробности о каждом чат-боте, когда вы его выберете. Переключайтесь в любое время. <a data-l10n-name="learn-more">Подробнее</a>
+genai-onboarding-primary = Продолжить
+genai-onboarding-secondary = Закрыть
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
