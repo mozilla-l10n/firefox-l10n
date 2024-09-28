@@ -49,6 +49,13 @@ callout-pdfjs-draw-button = ¡Entendido!
 fx-view-discoverability-title = ¿No querías cerrar esa pestaña?
 fx-view-discoverability-subtitle = Encuéntrala y vuelve a abrirla rápidamente desde aquí. Mantenemos un historial de las pestañas cerradas recientemente para tu comodidad.
 fx-view-discoverability-primary-button-label = Abrir { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Ocultar
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = No volver a mostrar esta recomendación
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Mostrar menos recomendaciones
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Administrar ajustes

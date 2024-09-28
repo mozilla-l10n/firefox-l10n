@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot de IA
+menu-view-review-checker =
+    .label = Verificador de reseñas
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,8 @@ sidebar-horizontal-tabs =
     .label = Pestañas horizontales
 sidebar-customize-tabs-header =
     .label = Ajustes de pestañas
+sidebar-customize-button-header =
+    .label = Botón de la barra lateral
 sidebar-customize-settings-header =
     .label = Ajustes de la barra lateral
 sidebar-visibility-always-show =
@@ -105,6 +109,9 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
 
+## Titles for sidebar menu panels.
+
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -113,3 +120,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Cerrar pestaña en { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
