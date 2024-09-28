@@ -111,7 +111,11 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Zgóńśo wěcej wó Le Chat
 genai-onboarding-select-header = Wubjeŕśo tekst, aby naraźenja wiźeł
+genai-onboarding-select-description = Gaž tekst wuběraśo, naraźujomy wam naspominanja, kótarež móžośo na chatowy bot pósłaś. Móžośo teke do swójskich naspominanjow pisaś.
+genai-onboarding-select-primary = Chattowaś zachopiś
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Tekst a kod generěrowaś
+genai-onboarding-claude-analyze = Dokumenty a wobraze analyzěrowaś
