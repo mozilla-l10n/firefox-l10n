@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Pestañas horizontales
 sidebar-customize-tabs-header =
     .label = Configuración de pestañas
+sidebar-customize-button-header =
+    .label = Botón de barra lateral
+sidebar-customize-position-header =
+    .label = Posición de barra lateral
+sidebar-visibility-setting-always-show =
+    .label = Expandir y colapsar la barra lateral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Mostrar y ocultar la barra lateral
 sidebar-customize-settings-header =
     .label = Configuración de barra lateral
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Historial
 sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
+sidebar-panel-header-close-button =
+    .tooltiptext = Cerrar
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Pestañas de otros dispositivos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Cerrar pestaña en { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Expandir la barra lateral
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Colapsar la barra lateral
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Mostrar barra lateral
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Ocultar barra lateral
