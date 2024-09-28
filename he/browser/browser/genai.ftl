@@ -35,3 +35,37 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = לשאול את { $provider }…
+genai-shortcuts-hide =
+    .label = הסתרת קיצור דרך לצ'אט בוט
+
+## Chatbot header
+
+genai-chatbot-title = צ’אט בוט AI
+genai-header-provider-menu =
+    .title = בחירת צ’אט בוט
+genai-header-options-button =
+    .title = פתיחת תפריט
+genai-header-close-button =
+    .title = סגירה
+genai-provider-view-details =
+    .label = הצגת פרטי צ'אט בוט
+genai-provider-about-chatbots =
+    .label = על אודות הצ'אט בוטים האלו
+genai-options-reload-generic =
+    .label = טעינה מחדש של צ'אט בוט AI
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = טעינה מחדש של { $provider }
+genai-options-show-shortcut =
+    .label = הצגת קיצור דרך בעת בחירת טקסט
+genai-options-hide-shortcut =
+    .label = הסתרת קיצור דרך בעת בחירת טקסט
+genai-options-about-chatbot =
+    .label = על אודות צ'אט בוטים של AI ב־{ -brand-short-name }
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
