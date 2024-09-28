@@ -367,6 +367,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = میں اِیکوں ما
 ## UI strings for the sidebar and vertical tabs
 
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = سائیڈ تے ٹیباں
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = ٹاپ تے ٹیباں
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = عمودی ٹیباں اتھ ہن
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = عمودی ٹیباں ازماؤ
 onboarding-flair-text = نواں!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
