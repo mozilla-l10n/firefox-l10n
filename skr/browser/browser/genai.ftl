@@ -45,21 +45,29 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } کنوں پچھو ۔۔۔
+genai-shortcuts-hide =
+    .label = چیٹ بوٹ شارٹ کٹ لکاؤ
 
 ## Chatbot header
 
 genai-chatbot-title = اے آئی چیٹ بوٹ
+genai-header-provider-menu =
+    .title = چیٹ بوٹ چݨو
 genai-header-options-button =
     .title = مینیو کھولو
 genai-header-close-button =
     .title = بند کرو
 genai-provider-view-details =
     .label = چیٹ بوٹ تفصیلاں ݙیکھو
+genai-provider-about-chatbots =
+    .label = انہاں چیٹ بوٹاں بارے
 genai-options-reload-generic =
     .label = اے آئی چیٹ بوٹ ولدا لوڈ کرو
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = { $provider } ولدا لوڈ کرو
+genai-options-about-chatbot =
+    .label = { -brand-short-name } وچ اے آئی چیٹ بوٹاں بارے
 
 ## Chatbot onboarding
 
@@ -67,6 +75,7 @@ genai-onboarding-primary = جاری
 genai-onboarding-secondary = بند کرو
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude بارے ٻیا سِکھو
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = ChatGPT بارے ٻیا سِکھو۔
@@ -79,7 +88,12 @@ genai-onboarding-huggingchat-learn = HuggingChat بارے ٻیا سِکھو۔
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat بارے ٻیا سِکھو۔
+genai-onboarding-select-primary = چیٹنگ شروع کرو
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = عبارت تے کوڈ جنریٹ کرو
+genai-onboarding-huggingchat-generate = عبارت تے کوڈ جنریٹ کرو
+genai-onboarding-lechat-generate = عبارت تے کوڈ جنریٹ کرو
+genai-onboarding-lechat-price = مفت: کھاتہ ضروری ہے
