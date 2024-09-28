@@ -414,5 +414,5 @@ onboarding-horizontal-tabs-description =
 onboarding-genai-sidebar-title = Wupruwujće chatowy bot KI w bóčnicy.
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Zjimajće webwobsah, ideje namakanja idejow, naćiski powěsćow – wšitko, hdyž přehladujeće. Wubjerće z wjacorych poskićowarjow. Móžeće jeho kóždy raz změnić. <a data-l10n-name="learn-more">Dalše informacije</a>
-onboarding-genai-sidebar-primary-button = Wubjerće chatbot
+onboarding-genai-sidebar-primary-button = Wubjerće chatowy bot
 onboarding-genai-sidebar-secondary-button = Přehladowanje započeć
