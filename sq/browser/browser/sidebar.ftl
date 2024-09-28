@@ -50,6 +50,14 @@ sidebar-horizontal-tabs =
     .label = Skeda horizontale
 sidebar-customize-tabs-header =
     .label = Rregullime skedash
+sidebar-customize-button-header =
+    .label = Buton anështylle
+sidebar-customize-position-header =
+    .label = Pozicion anështylle
+sidebar-visibility-setting-always-show =
+    .label = Zgjeroni dhe tkurrni anështyllën
+sidebar-visibility-setting-hide-sidebar =
+    .label = Shfaqni dhe fshihni anështyllën
 sidebar-customize-settings-header =
     .label = Rregullime anështylle
 sidebar-visibility-always-show =
@@ -73,6 +81,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Faqeruaje Skedën…
 sidebar-context-menu-copy-link =
     .label = Kopjoji Lidhjen
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Mbylle skedën te { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -91,6 +103,8 @@ sidebar-menu-bookmarks-label =
     .label = Faqerojtës
 sidebar-menu-customize-label =
     .label = Përshtatni anështyllën
+sidebar-menu-review-checker-label =
+    .label = Kontrollor Shqyrtimesh
 
 ## Headings for sidebar menu panels.
 
@@ -100,3 +114,31 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Skeda prej pajisjesh të tjera
+sidebar-panel-header-close-button =
+    .tooltiptext = Mbylle
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Përshtatni anështyllën
+sidebar-history-title = Historik
+sidebar-syncedtabs-title = Skeda prej pajisjesh të tjera
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Mbylle skedën te { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Zgjeroje anështyllën
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Tkurre anështyllën
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Shfaqe anështyllën
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Fshihe anështyllën

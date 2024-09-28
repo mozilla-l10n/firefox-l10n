@@ -391,3 +391,5 @@ onboarding-existing-vertical-tabs-label = Provoni skedat vertikale
 onboarding-flair-text = E re!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mbaji horizontale skedat
+onboarding-genai-sidebar-primary-button = Zgjidhni një robot fjalosjesh
+onboarding-genai-sidebar-secondary-button = Nisni shfletimin
