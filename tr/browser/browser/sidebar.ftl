@@ -50,6 +50,14 @@ sidebar-horizontal-tabs =
     .label = Yatay sekmeler
 sidebar-customize-tabs-header =
     .label = Sekme ayarları
+sidebar-customize-button-header =
+    .label = Kenar çubuğu düğmesi
+sidebar-customize-position-header =
+    .label = Kenar çubuğu konumu
+sidebar-visibility-setting-always-show =
+    .label = Kenar çubuğunu genişlet ve daralt
+sidebar-visibility-setting-hide-sidebar =
+    .label = Kenar çubuğunu göster ve gizle
 sidebar-customize-settings-header =
     .label = Kenar çubuğu ayarları
 sidebar-visibility-always-show =
@@ -104,9 +112,12 @@ sidebar-menu-history-header =
     .heading = Geçmiş
 sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
+sidebar-panel-header-close-button =
+    .tooltiptext = Kapat
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Kenar çubuğunu özelleştir
 sidebar-history-title = Geçmiş
 sidebar-syncedtabs-title = Diğer cihazlardaki sekmeler
 
@@ -121,3 +132,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Kenar çubuğunu genişlet
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Kenar çubuğunu daralt
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Kenar çubuğunu göster
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Kenar çubuğunu gizle

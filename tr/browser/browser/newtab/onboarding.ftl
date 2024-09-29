@@ -376,3 +376,9 @@ onboarding-new-user-survey-familiarity-based-option-1 = Yeni kullanmaya başlad�
 onboarding-new-user-survey-familiarity-based-option-2 = Biraz kullandım
 onboarding-new-user-survey-familiarity-based-option-3 = Çok iyi tanıyorum
 onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama epey zaman geçti
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
+onboarding-flair-text = Yeni!

@@ -59,3 +59,46 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } sohbet botuna sor…
+genai-shortcuts-hide =
+    .label = Sohbet botu kısayolunu gizle
+
+## Chatbot header
+
+genai-chatbot-title = Yapay zekâ sohbet botu
+genai-header-provider-menu =
+    .title = Bir sohbet botu seçin
+genai-header-options-button =
+    .title = Menüyü aç
+genai-header-close-button =
+    .title = Kapat
+genai-provider-view-details =
+    .label = Sohbet botu ayrıntılarını göster
+genai-provider-about-chatbots =
+    .label = Bu sohbet botları hakkında
+genai-options-reload-generic =
+    .label = Yapay zekâ sohbet botunu tazele
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } botunu tazele
+genai-options-show-shortcut =
+    .label = Metin seçerken kısayolu göster
+genai-options-hide-shortcut =
+    .label = Metin seçerken kısayolu gizle
+
+## Chatbot onboarding
+
+genai-onboarding-secondary = Kapat
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
