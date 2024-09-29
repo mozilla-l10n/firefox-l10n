@@ -78,6 +78,15 @@ genai-provider-about-chatbots =
     .label = O týchto chatbotoch
 genai-options-reload-generic =
     .label = Znova načítať AI chatbota
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Znovu načítať { $provider }
+genai-options-show-shortcut =
+    .label = Zobrazovať skratku pri výbere textu
+genai-options-hide-shortcut =
+    .label = Skryť skratku pri výbere textu
+genai-options-about-chatbot =
+    .label = O chatbotoch AI vo { -brand-short-name(case: "gen") }
 
 ## Chatbot onboarding
 
