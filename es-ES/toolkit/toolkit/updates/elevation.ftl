@@ -16,3 +16,4 @@ elevation-finished-background-page =
     para { -brand-short-name } y está lista para ser instalada.
 elevation-finished-background = Actualización:
 elevation-more-elevated = Esta actualización requiere privilegios de administrador. La actualización se instalará la próxima vez que se inicie { -brand-short-name }. Puede reiniciar { -brand-short-name } ahora, continuar trabajando y reiniciar más tarde, o declinar esta actualización.
+sandbox-unprivileged-namespaces-howtofix = Cómo arreglar este problema

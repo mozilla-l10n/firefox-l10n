@@ -50,7 +50,7 @@ browser-main-window-mac-window-titles =
 browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
-private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navegación privada
+private-browsing-shortcut-text-2 = Navegación privada de { -brand-shortcut-name }
 
 ##
 
@@ -76,7 +76,7 @@ urlbar-web-rtc-share-microphone-notification-anchor =
 urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Abrir panel de peticiones de ubicación
+    .tooltiptext = Abrir panel de solicitud de ubicación
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir el panel de permisos de realidad virtual
 urlbar-storage-access-anchor =

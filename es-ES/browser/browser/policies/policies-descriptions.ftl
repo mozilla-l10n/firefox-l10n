@@ -119,6 +119,7 @@ policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, 
 policy-PictureInPicture = Activar o desactivar Picture-in-Picture.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
+policy-PrivateBrowsingModeAvailability = Establecer la disponibilidad del modo privado de navegación.
 policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos que se descargan.
 policy-Proxy = Configurar los ajustes del proxy.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
