@@ -543,6 +543,8 @@ urlbar-go-button =
     .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =
     .tooltiptext = Tindakan laman
+urlbar-revert-button =
+    .tooltiptext = Tampilkan alamat di Bilah Lokasi
 urlbar-show-page-actions-button =
     .tooltiptext = Tampilkan semua tindakan laman
 
