@@ -50,3 +50,5 @@ fx-view-discoverability-primary-button-label = Buka { -firefoxview-brand-name }
 
 ## Split Dismiss Button Labels
 
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Kelola pengaturan

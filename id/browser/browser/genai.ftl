@@ -56,3 +56,19 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Tanyakan { $provider }…
+
+## Chatbot header
+
+genai-header-options-button =
+    .title = Buka menu
+genai-header-close-button =
+    .title = Tutup
+genai-provider-view-details =
+    .label = Lihat detail chatbot
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
