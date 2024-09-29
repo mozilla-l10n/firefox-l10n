@@ -554,3 +554,8 @@ onboarding-new-horizontal-tabs-label = Panely v horní části
 onboarding-existing-tabs-title = Svislé panely jsou tady
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Představujeme svislé panely
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Vyzkoušet svislé panely
+onboarding-flair-text = Novinka!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Ponechat panely vodorovně
