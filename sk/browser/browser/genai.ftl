@@ -107,7 +107,13 @@ genai-onboarding-huggingchat-learn = Ďalšie informácie o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Ďalšie informácie o Le Chat
+genai-onboarding-select-primary = Začnite četovať
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generovanie textu a kódu
+genai-onboarding-claude-analyze = Analýza dokumentov a obrázkov
+genai-onboarding-claude-price = Bezplatné a platené možnosti; je vyžadovaný účet
+genai-onboarding-chatgpt-generate = Generovanie textu, obrázkov a kódu
+genai-onboarding-chatgpt-analyze = Analýza dokumentov a obrázkov
