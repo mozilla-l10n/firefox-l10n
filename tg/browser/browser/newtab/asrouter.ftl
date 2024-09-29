@@ -281,3 +281,12 @@ tail-fox-spotlight-title = Васоити пайгирии безоркунан�
 tail-fox-spotlight-subtitle = Ба васоити пайгирии таблиғотии безоркунанда хайрбод гӯед ва ба таҷрибаи бехатартар ва Интернети босуръат  мубаддал шавед.
 tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 tail-fox-spotlight-secondary-button = Ҳоло не
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = Ҳозир навсозӣ кунед
+    .accesskey = Ҳ
+root-certificate-succession-infobar-secondary-button =
+    .label = Дертар
+    .accesskey = Д
