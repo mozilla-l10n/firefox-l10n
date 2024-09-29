@@ -372,3 +372,7 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ман комилан н
 onboarding-new-user-survey-familiarity-based-option-2 = Ман онро якчанд маротиба истифода кардам
 onboarding-new-user-survey-familiarity-based-option-3 = Ман бо он хуб шинос ҳастам
 onboarding-new-user-survey-familiarity-based-option-4 = Ман онро пеш истифода бурдам, аммо бисёр вақт гузашт
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = Нав!

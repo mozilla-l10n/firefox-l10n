@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Холӣ кардани варақаҳо ва қатъ кардани равандҳо
+about-processes-kill-process =
+    .title = Куштани раванд
 about-processes-shutdown-tab =
     .title = Пӯшидани варақа
 # Profiler icons

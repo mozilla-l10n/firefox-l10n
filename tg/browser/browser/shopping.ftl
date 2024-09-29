@@ -162,6 +162,7 @@ shopping-unanalyzed-product-analyze-button = Ҷанҷиши сифати тақ�
 
 more-to-consider-ad-label =
     .label = Боз чӣ бояд ба назар гирифта шавад
+shopping-sponsored-label = Сарпарастӣ
 ad-by-fakespot = Реклама аз ҷониби «{ -fakespot-brand-name }»
 
 ## Shopping survey strings.

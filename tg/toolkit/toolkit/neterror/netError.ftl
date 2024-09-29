@@ -64,6 +64,7 @@ neterror-dns-not-found-trr-offline = Шумо ба Интернет пайвас
 neterror-dns-not-found-trr-unknown-host2 = Ин сомона аз тарафи «{ $trrDomain }» ёфт нашуд.
 neterror-dns-not-found-trr-server-problem = Мушкилии { $trrDomain } ба миён омад.
 neterror-dns-not-found-bad-trr-url = Нишонии URL беэътибор аст.
+neterror-dns-not-found-system-sleep = Низом дар реҷаи хоб қарор дорад.
 neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
 
 ## Native fallback specific messages

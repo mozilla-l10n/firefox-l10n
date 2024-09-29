@@ -100,6 +100,14 @@ sidebar-menu-history-header =
     .heading = Таърих
 sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
+sidebar-panel-header-close-button =
+    .tooltiptext = Пӯшидан
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Фармоишдиҳии навори ҷонибӣ
+sidebar-history-title = Таърих
+sidebar-syncedtabs-title = Варақаҳо аз дастгоҳҳои дигар
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -109,3 +117,14 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Пӯшидани варақа дар «{ $deviceName }»
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Баркушодани навори ҷонибӣ
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Печондани навори ҷонибӣ
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Намоиш додани навори ҷонибӣ
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Пинҳон кардани навори ҷонибӣ
