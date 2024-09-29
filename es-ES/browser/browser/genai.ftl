@@ -103,7 +103,31 @@ genai-onboarding-chatgpt-tooltip =
 genai-onboarding-chatgpt-learn = Saber más sobre ChatGPT
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
+genai-onboarding-gemini-learn = Saber más sobre Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Saber más sobre HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Saber más sobre Le Chat
+genai-onboarding-select-header = Seleccione texto para ver sugerencias
+genai-onboarding-select-description = Al seleccionar texto, sugeriremos prompts que se pueden enviar al chatbot. También puede escribir sus propios prompts.
+genai-onboarding-select-primary = Empezar a chatear
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generar texto y código
+genai-onboarding-claude-analyze = Analizar documentos e imágenes
+genai-onboarding-claude-price = Opciones gratuitas y de pago; se requiere una cuenta
+genai-onboarding-chatgpt-generate = Generar texto, imágenes y código
+genai-onboarding-chatgpt-analyze = Analizar documentos e imágenes
+genai-onboarding-chatgpt-price = Opciones gratuitas y de pago; se requiere una cuenta para algunos países y tareas
+genai-onboarding-gemini-generate = Generar texto, imágenes y código
+genai-onboarding-gemini-analyze = Analizar imágenes (gratis) y documentos (de pago)
+genai-onboarding-gemini-price = Opciones gratuitas y de pago; se requiere una cuenta
+genai-onboarding-huggingchat-generate = Generar texto y código
+genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de modelos abiertos
+genai-onboarding-huggingchat-price = Gratuito; se requiere una cuenta para algunas tareas
+genai-onboarding-lechat-generate = Generar texto y código
+genai-onboarding-lechat-price = Gratuito; se requiere una cuenta
