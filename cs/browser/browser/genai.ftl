@@ -64,3 +64,16 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Zeptat se { $provider }…
+genai-shortcuts-hide =
+    .label = Skrýt zkratku chatbota
+
+## Chatbot header
+
+genai-chatbot-title = AI chatbot
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
