@@ -375,3 +375,39 @@ onboarding-new-user-survey-familiarity-based-option-1 = Som úplný nováčik
 onboarding-new-user-survey-familiarity-based-option-2 = Už som ho trochu používal
 onboarding-new-user-survey-familiarity-based-option-3 = Poznám ho dobre
 onboarding-new-user-survey-familiarity-based-option-4 = Používal som ho v minulosti, ale už je to dávno
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Karty na bočnej strane
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Karty v hornej časti
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Prichádzajú vertikálne karty
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Predstavujeme vertikálne karty
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Vyskúšajte karty na bočnej strane. Túto možnosť nájdete v nastaveniach bočného panela.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Vyskúšajte vertikálne karty
+onboarding-flair-text = Novinka!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Ponechať karty v hornej časti
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Okno prehliadača zobrazujúce karty pozdĺž okraja obrazovky ako súčasť bočného panela { -brand-shorter-name(case: "gen") }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Okno prehliadača zobrazujúce karty pozdĺž okraja obrazovky ako súčasť bočného panela { -brand-shorter-name(case: "gen") }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Okno prehliadača s kartami v hornej časti.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Okno prehliadača s kartami v hornej časti.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Vyskúšajte chatbota AI na bočnom paneli
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Získajte súhrn obsahu na stránkach, poraďte sa ohľadom vašich nápadov či píšte správy – to všetko počas prehliadania. Vyberte si z viacerých poskytovateľov. Meniť ich môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
+onboarding-genai-sidebar-primary-button = Vyberte si chatbota
+onboarding-genai-sidebar-secondary-button = Začať prehliadať
