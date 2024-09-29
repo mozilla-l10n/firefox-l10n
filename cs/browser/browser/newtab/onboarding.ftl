@@ -539,3 +539,18 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jsem nováček
 onboarding-new-user-survey-familiarity-based-option-2 = Několikrát jsem ho použil
 onboarding-new-user-survey-familiarity-based-option-3 = Znám jej velmi dobře
 onboarding-new-user-survey-familiarity-based-option-4 = V minulosti jsem jej používal, ale už je to nějaký čas
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Sdělte nám, kde chcete mít své panely
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Přepněte si ho kdykoliv chcete v nastavení postranní lišty.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Panely na straně
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Panely v horní části
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Svislé panely jsou tady
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Představujeme svislé panely

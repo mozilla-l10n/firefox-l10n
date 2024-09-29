@@ -70,9 +70,45 @@ genai-shortcuts-hide =
 ## Chatbot header
 
 genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Vyberte si chatbota
+genai-header-options-button =
+    .title = Otevřít nabídku
+genai-header-close-button =
+    .title = Zavřít
+genai-provider-view-details =
+    .label = Zobrazit podrobnosti o chatbotovi
+genai-provider-about-chatbots =
+    .label = O těchto chatbotech
+genai-options-reload-generic =
+    .label = Znovu načíst AI chatbota
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Znovu načíst { $provider }
+genai-options-show-shortcut =
+    .label = Zobrazit zkratku při označení textu
+genai-options-hide-shortcut =
+    .label = Skrýt zkratku při označení textu
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Pokračovat
+genai-onboarding-secondary = Zavřít
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Zjistit více o Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Zjistit více o ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Zjistit více o Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Zjistit více o HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Zjistit více o Le Chat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

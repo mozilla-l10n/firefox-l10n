@@ -377,3 +377,13 @@ tail-fox-spotlight-primary-button =
        *[no-cases] Otevírat mé odkazy pomocí aplikace { -brand-short-name }
     }
 tail-fox-spotlight-secondary-button = Teď ne
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Proč potřebuji aktualizaci?
+root-certificate-succession-infobar-primary-button =
+    .label = Aktualizovat
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Později
+    .accesskey = P
