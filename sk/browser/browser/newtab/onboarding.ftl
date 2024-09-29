@@ -378,6 +378,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Používal som ho v minu
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Povedzte nám, kde by ste chceli mať svoje karty
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = V nastaveniach bočného panela voľbu kedykoľvek zmeníte.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Karty na bočnej strane
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

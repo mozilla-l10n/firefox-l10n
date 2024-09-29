@@ -90,6 +90,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Sumarizujte, vymýšľajte a ešte oveľa viac
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } vyberte chatbota AI, ktorý chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 genai-onboarding-primary = Pokračovať
 genai-onboarding-secondary = Zavrieť
 genai-onboarding-claude-tooltip =
@@ -107,6 +110,8 @@ genai-onboarding-huggingchat-learn = Ďalšie informácie o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Ďalšie informácie o Le Chat
+genai-onboarding-select-header = Ak chcete zobraziť návrhy, vyberte text
+genai-onboarding-select-description = Keď vyberiete text, navrhneme vám výzvy, ktoré môžete poslať chatbotovi. Môžete tiež napísať svoje vlastné výzvy.
 genai-onboarding-select-primary = Začnite četovať
 
 ## Chatbot onboarding choices
@@ -114,6 +119,15 @@ genai-onboarding-select-primary = Začnite četovať
 
 genai-onboarding-claude-generate = Generovanie textu a kódu
 genai-onboarding-claude-analyze = Analýza dokumentov a obrázkov
-genai-onboarding-claude-price = Bezplatné a platené možnosti; je vyžadovaný účet
+genai-onboarding-claude-price = Bezplatné a platené možnosti; je potrebný účet
 genai-onboarding-chatgpt-generate = Generovanie textu, obrázkov a kódu
 genai-onboarding-chatgpt-analyze = Analýza dokumentov a obrázkov
+genai-onboarding-chatgpt-price = Bezplatné a platené možnosti; pre niektoré krajiny a úlohy je potrebný účet
+genai-onboarding-gemini-generate = Generovanie textu, obrázkov a kódu
+genai-onboarding-gemini-analyze = Analýza obrázkov (zadarmo) a dokumentov (platené)
+genai-onboarding-gemini-price = Bezplatné a platené možnosti; je potrebný účet
+genai-onboarding-huggingchat-generate = Generovanie textu a kódu
+genai-onboarding-huggingchat-switch = Prepínanie medzi rozmanitou sadou otvorených modelov
+genai-onboarding-huggingchat-price = Zadarmo; účet potrebný pre niektoré úlohy
+genai-onboarding-lechat-generate = Generovanie textu a kódu
+genai-onboarding-lechat-price = Zadarmo; je potrebný účet
