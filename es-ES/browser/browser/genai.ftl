@@ -60,3 +60,50 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }…
+genai-shortcuts-hide =
+    .label = Ocultar el acceso directo del chatbot
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot de IA
+genai-header-provider-menu =
+    .title = Elija un chatbot
+genai-header-options-button =
+    .title = Abrir menú
+genai-header-close-button =
+    .title = Cerrar
+genai-provider-view-details =
+    .label = Ver detalles del chatbot
+genai-provider-about-chatbots =
+    .label = Acerca de estos chatbots
+genai-options-reload-generic =
+    .label = Recargar el chatbot de IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Recargar { $provider }
+genai-options-show-shortcut =
+    .label = Mostrar acceso directo al seleccionar texto
+genai-options-hide-shortcut =
+    .label = Ocultar acceso directo al seleccionar texto
+genai-options-about-chatbot =
+    .label = Acerca de los chatbots de IA en { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Resumir, tormenta de ideas y más mientras se navega
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Seleccione un chatbot de IA para usar en la barra lateral de { -brand-short-name }. Mostraremos detalles sobre cada chatbot al seleccionarlo. Se puede cambiar en cualquier momento. <a data-l10n-name="learn-more">Saber más</a>
+genai-onboarding-primary = Continuar
+genai-onboarding-secondary = Cerrar
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Saber más sobre Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Saber más sobre ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
