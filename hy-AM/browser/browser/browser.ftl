@@ -560,7 +560,7 @@ urlbar-result-action-search-in-private = Որոնել գաղտնի պատուհ�
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
 urlbar-result-action-sponsored = Հովանավորված
-urlbar-result-action-switch-tab = Փոխանջատել ներդիրը
+urlbar-result-action-switch-tab = Փոխարկվել ներդիրին
 urlbar-result-action-visit = Այցելել
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -991,3 +991,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ցուցադրել '{ $popupURI }'-ը
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
