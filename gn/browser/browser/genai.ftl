@@ -52,6 +52,15 @@ genai-header-options-button =
     .title = Eike poravorãme
 genai-header-close-button =
     .title = Mboty
+genai-provider-view-details =
+    .label = Ehecha mba’emimi chatbot rehegua
+genai-provider-about-chatbots =
+    .label = Ko’ã chatbot rehegua
+genai-options-reload-generic =
+    .label = Emyanyhẽjey chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Emyanyhẽjey { $provider }
 
 ## Chatbot onboarding
 
