@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = Ir ao enderezo da barra de localización
 urlbar-page-action-button =
     .tooltiptext = Accións da páxina
+urlbar-revert-button =
+    .tooltiptext = Mostrar o enderezo da barra de localización
 urlbar-show-page-actions-button =
     .tooltiptext = Mostrar todas as accións da páxina
 

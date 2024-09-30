@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostrar máis lapelas
     .tooltiptext = Amosar máis lapelas deste dispositivo
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Lapelas inactivas
+    .tooltiptext = Ver as lapelas inactivas neste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ningunha lapela aberta
 # This is shown when Sync is configured but syncing tabs is disabled.
