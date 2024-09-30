@@ -132,3 +132,7 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Vis sidestolpe
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Skjul sidestolpe

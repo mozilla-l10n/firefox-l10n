@@ -67,6 +67,13 @@ genai-header-options-button =
     .title = Opne meny
 genai-header-close-button =
     .title = Lat att
+genai-provider-about-chatbots =
+    .label = Om desse samtalerobotane
+genai-options-reload-generic =
+    .label = Oppdater AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Oppdater { $provider }
 
 ## Chatbot onboarding
 
@@ -91,3 +98,5 @@ genai-onboarding-select-primary = Begynn å chatte
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Lag tekst og kode
+genai-onboarding-huggingchat-generate = Lag tekst og kode
+genai-onboarding-lechat-generate = Lag tekst og kode
