@@ -40,3 +40,22 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Eporandu { $provider }-pe…
+genai-shortcuts-hide =
+    .label = Eñomi jeike pya’eha chatbot-pe
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Eiporavo chatbot
+genai-header-options-button =
+    .title = Eike poravorãme
+genai-header-close-button =
+    .title = Mboty
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
