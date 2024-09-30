@@ -378,9 +378,16 @@ onboarding-new-user-survey-familiarity-based-option-4 = Já usei, mas faz um tem
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Diga onde você prefere ter suas abas
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Abas na lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Abas no alto
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Apresentamos abas na vertical
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Experimentar abas na vertical
+onboarding-flair-text = Novidade!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Manter abas na horizontal

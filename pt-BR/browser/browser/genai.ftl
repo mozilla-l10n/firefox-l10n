@@ -113,3 +113,4 @@ genai-onboarding-select-description = Ao selecionar texto, sugerimos consultas q
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-lechat-price = Gratuito, precisa ter conta

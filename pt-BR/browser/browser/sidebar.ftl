@@ -52,6 +52,12 @@ sidebar-horizontal-tabs =
     .label = Abas na horizontal
 sidebar-customize-tabs-header =
     .label = Configuração de abas
+sidebar-customize-button-header =
+    .label = Botão do painel lateral
+sidebar-customize-position-header =
+    .label = Posição do painel lateral
+sidebar-visibility-setting-always-show =
+    .label = Expandir e recolher painel lateral
 sidebar-customize-settings-header =
     .label = Configuração do painel lateral
 sidebar-visibility-always-show =
@@ -108,6 +114,8 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Abas de outros dispositivos
+sidebar-panel-header-close-button =
+    .tooltiptext = Fechar
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +131,14 @@ sidebar-syncedtabs-title = Abas de outros dispositivos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fechar aba em { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Expandir painel lateral
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Recolher painel lateral
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Mostrar painel lateral
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Ocular painel lateral
