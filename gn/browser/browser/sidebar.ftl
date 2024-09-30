@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI chatbot
+menu-view-review-checker =
+    .label = Marandu’i rechajeyha
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Tendayke ñeno
 sidebar-customize-tabs-header =
     .label = Tendayke mboheko
+sidebar-customize-button-header =
+    .label = Votõ tenda ykegua
+sidebar-customize-position-header =
+    .label = Tenda ykegua oĩha
 sidebar-customize-settings-header =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-visibility-always-show =
@@ -95,6 +101,8 @@ sidebar-menu-bookmarks-label =
     .label = Techaukaha
 sidebar-menu-customize-label =
     .label = Embohéra ta’ãngarupa ykegua
+sidebar-menu-review-checker-label =
+    .label = Marandu’i rechajeyha
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +112,14 @@ sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
+sidebar-panel-header-close-button =
+    .tooltiptext = Mboty
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Embohéra ta’ãngarupa ykegua
+sidebar-history-title = Tembiasakue
+sidebar-syncedtabs-title = Tendaykekuéra ambue mba’e’okaygua
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +129,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Emboty tendayke { $deviceName }-pe
+
+## Tooltips for the sidebar toolbar button.
+

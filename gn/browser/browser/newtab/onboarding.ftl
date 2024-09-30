@@ -388,3 +388,10 @@ onboarding-new-vertical-tabs-label = Tendayke yke gotyo
 onboarding-new-horizontal-tabs-label = Tendayke yvate gotyo
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Ko’ápe oĩ umi tendayke oñembo’ýva
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Eiporu tendayke oñembo’ýva
+onboarding-flair-text = ¡Pyahu!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Ereko Tendayke ñenohápe
+onboarding-genai-sidebar-primary-button = Eiporavo chatbot
+onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha
