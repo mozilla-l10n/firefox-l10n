@@ -95,6 +95,8 @@ sidebar-menu-bookmarks-label =
     .label = Bladwijzers
 sidebar-menu-customize-label =
     .label = Zijbalk aanpassen
+sidebar-menu-review-checker-label =
+    .label = Beoordelingscontrole
 
 ## Headings for sidebar menu panels.
 
@@ -105,6 +107,9 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
 
+## Titles for sidebar menu panels.
+
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -113,3 +118,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tabblad op { $deviceName } sluiten
+
+## Tooltips for the sidebar toolbar button.
+
