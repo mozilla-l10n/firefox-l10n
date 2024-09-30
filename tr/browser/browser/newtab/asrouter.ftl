@@ -282,3 +282,15 @@ tail-fox-spotlight-title = İstenmeyen takip kodlarına izinizi kaybettirin
 tail-fox-spotlight-subtitle = Can sıkıcı reklam takip kodlarını engelleyerek daha güvenli, daha hızlı bir internet deneyimine kavuşun.
 tail-fox-spotlight-primary-button = Bağlantılarımı { -brand-short-name } ile aç
 tail-fox-spotlight-secondary-button = Şimdi değil
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } tarayıcısının eski sürümleri 14 Ocak 2025’ten itibaren sorun yaşamaya başlayabilir.</strong>
+root-certificate-succession-infobar-march-message = <strong>{ -brand-short-name } tarayıcınızı 14 Mart 2025’ten sonra da kullanmaya devam etmek için güncelleme yapın.</strong>
+root-certificate-succession-infobar-link = Neden güncellemeliyim?
+root-certificate-succession-infobar-primary-button =
+    .label = Şimdi güncelle
+    .accesskey = m
+root-certificate-succession-infobar-secondary-button =
+    .label = Daha sonra
+    .accesskey = D

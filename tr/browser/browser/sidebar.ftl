@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
+menu-view-review-checker =
+    .label = Değerlendirme kontrolcüsü
 
 ## Labels for sidebar history panel
 
@@ -103,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Yer imleri
 sidebar-menu-customize-label =
     .label = Kenar çubuğunu özelleştir
+sidebar-menu-review-checker-label =
+    .label = Değerlendirme kontrolcüsü
 
 ## Headings for sidebar menu panels.
 
