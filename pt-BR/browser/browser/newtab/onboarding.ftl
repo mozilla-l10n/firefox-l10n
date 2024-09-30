@@ -380,10 +380,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Já usei, mas faz um tem
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Diga onde você prefere ter suas abas
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Mude quando quiser nas configurações do painel lateral.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Abas na lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Abas no alto
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Chegou a opção de abas na vertical
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Apresentamos abas na vertical
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
@@ -393,3 +397,5 @@ onboarding-existing-vertical-tabs-label = Experimentar abas na vertical
 onboarding-flair-text = Novidade!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Manter abas na horizontal
+onboarding-genai-sidebar-primary-button = Escolha um chatbot
+onboarding-genai-sidebar-secondary-button = Iniciar navegação
