@@ -364,7 +364,38 @@ onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = 您希望将标签页放在哪里
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = 可随时在侧栏设置中切换。
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = 侧边
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = 顶部
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = 垂直标签页在这里
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = 垂直标签页新亮相
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = 试试位于侧边的标签页。您可以随时在侧栏设置中切换位置。
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = 试试垂直标签页
+onboarding-flair-text = 新功能！
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = 保留水平标签页
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = 浏览器窗口的标签页放在 { -brand-shorter-name } 侧栏中，沿屏幕侧边排列。
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = 一个浏览器窗口，标签页放在 { -brand-shorter-name } 侧栏中，沿屏幕侧边排列。
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = 浏览器窗口的标签页沿顶部排列。
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = 一个浏览器窗口，标签页沿其顶部排列。
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = 试试侧栏中的 AI 聊天机器人
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = 摘要总结、集思广益、起草邮件，在浏览时顺手就能搞定。有多个提供方可供选择，以后也可随时切换。<a data-l10n-name="learn-more">详细了解</a>
 onboarding-genai-sidebar-primary-button = 选择聊天机器人
 onboarding-genai-sidebar-secondary-button = 开始上网冲浪

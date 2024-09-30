@@ -111,6 +111,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = 详细了解 Le Chat
 genai-onboarding-select-header = 选中文本可查看建议
+genai-onboarding-select-description = 选中文本时，我们会为您建议提示词。您可以直接向聊天机器人发送，也可以自行撰写。
 genai-onboarding-select-primary = 开始聊天
 
 ## Chatbot onboarding choices
@@ -118,8 +119,15 @@ genai-onboarding-select-primary = 开始聊天
 
 genai-onboarding-claude-generate = 生成文本和代码
 genai-onboarding-claude-analyze = 分析文档和图像
+genai-onboarding-claude-price = 提供免费和付费选项；需要登录账户
 genai-onboarding-chatgpt-generate = 生成文本、图像、代码
 genai-onboarding-chatgpt-analyze = 分析文档和图像
+genai-onboarding-chatgpt-price = 提供免费和付费选项；在部分国家/地区或处理部分任务需登录账户
 genai-onboarding-gemini-generate = 生成文本、图像、代码
 genai-onboarding-gemini-analyze = 分析图像（免费）和文本（付费）
+genai-onboarding-gemini-price = 提供免费和付费选项；需要登录账户
 genai-onboarding-huggingchat-generate = 生成文本和代码
+genai-onboarding-huggingchat-switch = 可在多个开源模型间切换
+genai-onboarding-huggingchat-price = 免费；处理部分任务需登录账户
+genai-onboarding-lechat-generate = 生成文本和代码
+genai-onboarding-lechat-price = 免费；需要登录账户
