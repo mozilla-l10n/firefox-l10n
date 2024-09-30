@@ -84,9 +84,12 @@ genai-options-show-shortcut =
     .label = Metin seçerken kısayolu göster
 genai-options-hide-shortcut =
     .label = Metin seçerken kısayolu gizle
+genai-options-about-chatbot =
+    .label = { -brand-short-name } YZ sohbet botları hakkında
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = İleri
 genai-onboarding-secondary = Kapat
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude

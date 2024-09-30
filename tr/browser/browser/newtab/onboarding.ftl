@@ -381,4 +381,7 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama e
 
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Dikey sekmelerle tanışın
 onboarding-flair-text = Yeni!
+onboarding-genai-sidebar-primary-button = Bir sohbet botu seçin

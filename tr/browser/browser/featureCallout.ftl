@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = Anladım
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Bir sekmeyi yanlışlıkla mı kapattınız?
+fx-view-discoverability-subtitle = Sekmeleri buradan hızlıca bulup yeniden açabilirsiniz. Sizin için son kapattığınız sekmelerin kaydını tutuyoruz.
 fx-view-discoverability-primary-button-label = { -firefoxview-brand-name }’u aç
 fx-view-discoverability-secondary-button-label = Kapat
 
