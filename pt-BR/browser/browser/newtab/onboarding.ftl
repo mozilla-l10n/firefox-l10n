@@ -386,6 +386,8 @@ onboarding-new-vertical-tabs-label = Abas na lateral
 onboarding-new-horizontal-tabs-label = Abas no alto
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Apresentamos abas na vertical
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Experimente suas abas na lateral. Mude quando quiser nas configurações do painel lateral.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Experimentar abas na vertical
 onboarding-flair-text = Novidade!

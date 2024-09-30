@@ -113,4 +113,16 @@ genai-onboarding-select-description = Ao selecionar texto, sugerimos consultas q
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Geração de texto e código
+genai-onboarding-claude-analyze = Análise de documentos e imagens
+genai-onboarding-claude-price = Opções gratuito e pago, precisa ter conta
+genai-onboarding-chatgpt-generate = Geração de texto, imagens e código
+genai-onboarding-chatgpt-analyze = Análise de documentos e imagens
+genai-onboarding-chatgpt-price = Opções gratuito e pago, precisa ter conta em alguns países e tarefas
+genai-onboarding-gemini-generate = Geração de texto, imagens e código
+genai-onboarding-gemini-analyze = Análise de imagens (gratuito) e documentos (pago)
+genai-onboarding-gemini-price = Opções gratuito e pago, precisa ter conta
+genai-onboarding-huggingchat-generate = Geração de texto e código
+genai-onboarding-huggingchat-price = Gratuito, precisa ter conta para algumas tarefas
+genai-onboarding-lechat-generate = Geração de texto e código
 genai-onboarding-lechat-price = Gratuito, precisa ter conta
