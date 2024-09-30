@@ -36,6 +36,9 @@ close-tabs-to-the-start-vertical =
 close-tabs-to-the-end =
     .label = Sağdaki sekmeleri kapat
     .accesskey = a
+close-tabs-to-the-end-vertical =
+    .label = Alttaki sekmeleri kapat
+    .accesskey = l
 close-other-tabs =
     .label = Diğer sekmeleri kapat
     .accesskey = D
@@ -83,8 +86,11 @@ tab-context-share-url =
     .accesskey = P
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
-    .label = Sağa yeni sekme
+    .label = Sağda yeni sekme
     .accesskey = a
+tab-context-new-tab-open-vertical =
+    .label = Altta yeni sekme
+    .accesskey = A
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -101,6 +101,7 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+genai-onboarding-select-header = Önerileri görmek istediğiniz metni seçin
 genai-onboarding-select-primary = Sohbete başlayın
 
 ## Chatbot onboarding choices
