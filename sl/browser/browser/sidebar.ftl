@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI klepetalnik
+menu-view-review-checker =
+    .label = Pregledovalnik mnenj
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Vodoravni zavihki
 sidebar-customize-tabs-header =
     .label = Nastavitve zavihkov
+sidebar-customize-button-header =
+    .label = Gumb stranske vrstice
+sidebar-customize-position-header =
+    .label = Položaj stranske vrstice
+sidebar-visibility-setting-always-show =
+    .label = Razširi ali skrči stransko vrstico
+sidebar-visibility-setting-hide-sidebar =
+    .label = Prikaži ali skrij stransko vrstico
 sidebar-customize-settings-header =
     .label = Nastavitve stranske vrstice
 sidebar-visibility-always-show =
@@ -95,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Zaznamki
 sidebar-menu-customize-label =
     .label = Prilagodi stransko vrstico
+sidebar-menu-review-checker-label =
+    .label = Pregledovalnik mnenj
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +116,14 @@ sidebar-menu-history-header =
     .heading = Zgodovina
 sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
+sidebar-panel-header-close-button =
+    .tooltiptext = Zapri
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Prilagodi stransko vrstico
+sidebar-history-title = Zgodovina
+sidebar-syncedtabs-title = Zavihki z drugih naprav
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +133,14 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zapri zavihek na napravi { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Razširi stransko vrstico
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Skrči stransko vrstico
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Prikaži stransko vrstico
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Skrij stransko vrstico

@@ -375,3 +375,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = sem popoln začetnik
 onboarding-new-user-survey-familiarity-based-option-2 = imam nekaj izkušenj
 onboarding-new-user-survey-familiarity-based-option-3 = zelo mi je domač
 onboarding-new-user-survey-familiarity-based-option-4 = uporabljal/a sem ga v preteklosti, a je minilo že nekaj časa
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Kje želite imeti zavihke?
