@@ -376,3 +376,27 @@ onboarding-new-user-survey-familiarity-based-option-1 = Je commence seulement
 onboarding-new-user-survey-familiarity-based-option-2 = Je l’ai utilisé un peu
 onboarding-new-user-survey-familiarity-based-option-3 = Je le connais bien
 onboarding-new-user-survey-familiarity-based-option-4 = Je l’ai utilisé autrefois, mais cela fait longtemps.
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Dites-nous où vous souhaitez placer vos onglets
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Changez de mode à tout moment depuis les paramètres du panneau latéral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Onglets sur le côté
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Onglets en haut
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Les onglets verticaux sont là
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Essayer les onglets verticaux
+onboarding-flair-text = Nouveau !
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Conserver les onglets horizontaux
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Une fenêtre de navigateur affichant des onglets sur le côté de l’écran dans le panneau latéral de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Une fenêtre de navigateur affichant des onglets sur le côté de l’écran dans le panneau latéral de { -brand-shorter-name }.

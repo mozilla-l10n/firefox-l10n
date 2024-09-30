@@ -63,6 +63,26 @@ genai-input-ask-provider =
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Choisir un chatbot
+genai-header-options-button =
+    .title = Ouvrir le menu
+genai-header-close-button =
+    .title = Fermer
+genai-provider-view-details =
+    .label = Afficher les détails du chatbot
+genai-provider-about-chatbots =
+    .label = À propos de ces chatbots
+genai-options-reload-generic =
+    .label = Recharger le chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Recharger { $provider }
+genai-options-show-shortcut =
+    .label = Afficher un raccourci lors de la sélection de texte
+genai-options-hide-shortcut =
+    .label = Masquer le raccourci lors de la sélection de texte
 
 ## Chatbot onboarding
 
@@ -84,7 +104,21 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = En savoir plus à propos de Le Chat
 genai-onboarding-select-header = Sélectionnez du texte pour afficher des suggestions
+genai-onboarding-select-description = Lorsque vous sélectionnez du texte, nous vous suggérons des prompts à envoyer au chatbot. Vous pouvez également écrire vos propres prompts.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Générer du texte et du code
+genai-onboarding-claude-analyze = Analyser des documents et des images
+genai-onboarding-claude-price = Options gratuites et payantes ; compte nécessaire
+genai-onboarding-chatgpt-generate = Générer du texte, des images et du code
+genai-onboarding-chatgpt-analyze = Analyser des documents et des images
+genai-onboarding-chatgpt-price = Options gratuites et payantes ; compte requis pour certains pays et certaines tâches
+genai-onboarding-gemini-generate = Générer du texte, des images et du code
+genai-onboarding-gemini-analyze = Analyser des images (gratuit) et des documents (payant)
+genai-onboarding-gemini-price = Options gratuites et payantes ; compte nécessaire
+genai-onboarding-huggingchat-generate = Générer du texte et du code
+genai-onboarding-huggingchat-price = Gratuit ; compte nécessaire pour certaines tâches
+genai-onboarding-lechat-generate = Générer du texte et du code
+genai-onboarding-lechat-price = Gratuit ; compte nécessaire
