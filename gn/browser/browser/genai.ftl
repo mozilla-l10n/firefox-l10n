@@ -61,9 +61,32 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Emyanyhẽjey { $provider }
+genai-options-show-shortcut =
+    .label = Ehechauka jeike pya’eha eiporavóvo moñe’ẽrã
+genai-options-hide-shortcut =
+    .label = Eñomi jeike pya’eha eiporavóvo moñe’ẽrã
+genai-options-about-chatbot =
+    .label = Umi chatbot IA { -brand-short-name }-pe
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Ku’ejey
+genai-onboarding-secondary = Mboty
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Eikuaave Claude rehegua
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Eikuaave ChatGPT rehegua
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Eikuaave Gemini rehegua
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Eikuaave HuggingChat rehegua
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
