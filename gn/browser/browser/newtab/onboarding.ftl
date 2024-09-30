@@ -375,3 +375,16 @@ onboarding-new-user-survey-familiarity-based-option-1 = Che pyahu ápe
 onboarding-new-user-survey-familiarity-based-option-2 = Aiporu’imíkuri
 onboarding-new-user-survey-familiarity-based-option-3 = Aikuaaporã mba’épa
 onboarding-new-user-survey-familiarity-based-option-4 = Aiporuva’kue yma, aréma upehague
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Eremi moõpa eipota umi tendayke
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Emoambue ejapose vove tenda yke ñembohekópe.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Tendayke yke gotyo
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Tendayke yvate gotyo
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Ko’ápe oĩ umi tendayke oñembo’ýva

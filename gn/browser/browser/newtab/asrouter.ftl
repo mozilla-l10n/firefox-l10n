@@ -285,3 +285,9 @@ tail-fox-spotlight-secondary-button = Ani ko’ág̃a
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-link = ¿Mba’ére ambohekopyahuva’erã?
+root-certificate-succession-infobar-primary-button =
+    .label = Embohekopyahu ko’ág̃a
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = Upéi
+    .accesskey = L
