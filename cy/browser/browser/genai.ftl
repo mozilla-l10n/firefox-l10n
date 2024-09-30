@@ -33,8 +33,8 @@ genai-prompts-summarize =
     .value = Crynhowch y dewis drwy ddefnyddio iaith fanwl a chynnil. Defnyddiwch benynnau a rhestr bwledi yn y crynodeb, i'w wneud yn sganadwy. Cofiwch gynnal yr ystyr a'r cywirdeb ffeithiol.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
-    .label = Symlhewch yr iaith
-    .value = Ail ysgrifennwch y dewis gan ddefnyddio brawddegau byr a geiriau syml. Cofiwch gadw ystyr a'r cywirdeb ffeithiol.
+    .label = Symleiddio'r iaith
+    .value = Ail ysgrifennu’r dewis gan ddefnyddio brawddegau byr a geiriau syml. Cofio cadw ystyr a'r cywirdeb ffeithiol.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Gofyn i mi
@@ -51,12 +51,22 @@ genai-prompt-prefix-selection = Rwyf ar dudalen “{ $tabTitle }” gyda “{ $s
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Gofynnwch i'r sgwrsfot AI
+    .label = Gofyn i'r sgwrsfot AI
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
-    .label = Gofynnwch i { $provider }
+    .label = Gofyn i { $provider }
 genai-input-ask-generic =
-    .placeholder = Gofynnwch i'r sgwrsfot AI…
+    .placeholder = Gofyn i'r sgwrsfot AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
-    .placeholder = Gofynnwch i { $provider }…
+    .placeholder = Gofyn i { $provider }…
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

@@ -140,4 +140,5 @@ policy-UseSystemPrintDialog = Argraffu gan ddefnyddio deialog argraffu'r system.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.
 policy-Windows10SSO = Caniatáu mewngofnodiad unigol ar gyfer cyfrifon Microsoft, gwaith ac ysgol.
+# Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Caniatáu mewngofnodi sengl ar gyfer cyfrifon Microsoft Entra.
