@@ -83,9 +83,13 @@ genai-options-show-shortcut =
     .label = Afficher un raccourci lors de la sélection de texte
 genai-options-hide-shortcut =
     .label = Masquer le raccourci lors de la sélection de texte
+genai-options-about-chatbot =
+    .label = À propos des chatbots IA dans { -brand-short-name }
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Choisissez un chatbot IA à utiliser dans le panneau latéral de { -brand-short-name }. Nous afficherons des détails sur chaque chatbot lorsque vous le sélectionnerez. Changez de chatbot à tout moment. <a data-l10n-name="learn-more">En savoir plus</a>
 genai-onboarding-primary = Continuer
 genai-onboarding-secondary = Fermer
 genai-onboarding-claude-tooltip =

@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Onglets horizontaux
 sidebar-customize-tabs-header =
     .label = Paramètres des onglets
+sidebar-customize-button-header =
+    .label = Bouton du panneau latéral
+sidebar-customize-position-header =
+    .label = Position du panneau latéral
+sidebar-visibility-setting-always-show =
+    .label = Développer et réduire le panneau latéral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Afficher et masquer le panneau latéral
 sidebar-customize-settings-header =
     .label = Paramètres du panneau latéral
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Historique
 sidebar-menu-syncedtabs-header =
     .heading = Onglets d’autres appareils
+sidebar-panel-header-close-button =
+    .tooltiptext = Fermer
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Onglets d’autres appareils
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermer l’onglet sur { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Développer le panneau latéral
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Réduire le panneau latéral
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Afficher le panneau latéral
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Masquer le panneau latéral
