@@ -90,3 +90,4 @@ genai-onboarding-select-primary = Begynn å chatte
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Lag tekst og kode
