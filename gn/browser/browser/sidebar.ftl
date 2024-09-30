@@ -56,6 +56,10 @@ sidebar-customize-button-header =
     .label = Votõ tenda ykegua
 sidebar-customize-position-header =
     .label = Tenda ykegua oĩha
+sidebar-visibility-setting-always-show =
+    .label = Emyasãi ha emyanyhẽrasa tenda yke
+sidebar-visibility-setting-hide-sidebar =
+    .label = Ehechauka ha eñomi tenda yke
 sidebar-customize-settings-header =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-visibility-always-show =
@@ -132,3 +136,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Emyasãi tenda yke
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Ta’ãngarupa yke momichĩ
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Ehechauka tenda yke
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Eñomi tenda yke
