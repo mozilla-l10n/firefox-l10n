@@ -123,7 +123,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Mantener habilitadas
 containers-remove-alert-title = Borrar iste contenedor?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si borra iste contenedor agora, { $count } pestanya de contender se zarrará. Ye seguro que quiere borrar iste contenedor?
@@ -146,6 +146,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecto
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -237,15 +239,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Preguntar siempre
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en o { -brand-short-name })
 applications-open-inapp =
@@ -281,6 +283,8 @@ play-drm-content =
 play-drm-content-learn-more = Mas información
 update-application-title = Actualizacions d'o { -brand-short-name }:
 update-application-description = Mantener { -brand-short-name } a lo día pa tener lo millor rendimiento, estabilidat y seguranza.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedatz</a>
 update-history =
     .label = Amostrar l'historial d'actualizacions
@@ -322,7 +326,7 @@ performance-limit-content-process-option = Limite de procesado de conteniu
 performance-limit-content-process-enabled-desc = Los procesos de conteniu adicional pueden millorar las prestacions quan se fan servir multiples pestanyas, pero tamién usarán mas memoria.
 performance-limit-content-process-blocked-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprebar si los multiprocesos son activaus</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (por defecto)
 
@@ -428,6 +432,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Retallos
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -454,7 +460,7 @@ search-suggestions-option =
     .label = Dar sucherencia de busca
     .accesskey = b
 search-show-suggestions-url-bar-option =
-    .label = Amostrar las sucherencias de busqueda en os resultaus d'a barra d'adrezas
+    .label = Amostrar as sucherencias de busqueda en os resultaus d'a barra d'adrezas
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -462,7 +468,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Amostrar las sucherencias de busqueda antes de l'hstorial de navegación en os resultasu d'a barra d'adrezas
+    .label = Amostrar as sucherencias de busqueda antes de l'historial de navegación en os resultaus d'a barra d'adrezas
 search-show-suggestions-private-windows =
     .label = Amostrar las sucherencias de busqueda en as finestras privadas
 search-suggestions-cant-show = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
@@ -485,7 +491,7 @@ search-find-more-link = Troba mas motors de busqueda
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicar a parola clau
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ha trigau una parola clau que ya emplega "{ $name }". Trigue-ne unatra.
 search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatro marcapachinas. Trigue-ne unatra.
 
@@ -746,8 +752,8 @@ history-clear-button =
 sitedata-header = Cookies y datos de puestos web
 sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria d'a caché…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
 sitedata-delete-on-close =
