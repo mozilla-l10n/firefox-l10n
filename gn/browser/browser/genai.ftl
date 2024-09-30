@@ -87,7 +87,14 @@ genai-onboarding-huggingchat-learn = Eikuaave HuggingChat rehegua
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
+genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe’ẽ
+genai-onboarding-select-primary = Eñepyrũ echatea
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Emoheñói moñe’ẽrã ha ayvu
+genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiate ha ta’ãnga
+genai-onboarding-claude-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
+genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
+genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete

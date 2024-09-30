@@ -281,3 +281,7 @@ tail-fox-spotlight-title = Eguereko mombyrymi umi tapykuehoha
 tail-fox-spotlight-subtitle = Emboyke umi marandu tapykuehoha ha eike ñanduti hekorosã ha ipya’evévape.
 tail-fox-spotlight-primary-button = Embojuruja juajuha { -brand-short-name } ndive
 tail-fox-spotlight-secondary-button = Ani ko’ág̃a
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = ¿Mba’ére ambohekopyahuva’erã?
