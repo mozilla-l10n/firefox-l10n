@@ -20,6 +20,7 @@ confirmation-hint-pin-tab = Закачен!
 confirmation-hint-pin-tab-description = Щракнете с десния бутон върху раздела, за да го махнете от леснодостъпните.
 confirmation-hint-send-to-device = Изпратено!
 confirmation-hint-firefox-relay-mask-created = Създадена е нова маска!
+confirmation-hint-firefox-relay-mask-reused = Повторно е използвана съществуваща маска!
 confirmation-hint-screenshot-copied = Екранната снимка е копирана!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.

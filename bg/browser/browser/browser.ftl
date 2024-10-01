@@ -547,6 +547,10 @@ urlbar-go-button =
     .tooltiptext = Зареждане на адреса в полето
 urlbar-page-action-button =
     .tooltiptext = Действия със страницата
+urlbar-revert-button =
+    .tooltiptext = Показване на адреса в адресната лента
+urlbar-show-page-actions-button =
+    .tooltiptext = Показване на всички действия със страницата
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
