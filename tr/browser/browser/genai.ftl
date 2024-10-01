@@ -93,17 +93,23 @@ genai-onboarding-primary = İleri
 genai-onboarding-secondary = Kapat
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude hakkında bilgi alın
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT hakkında bilgi alın
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini hakkında bilgi alın
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat hakkında bilgi alın
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat hakkında bilgi alın
 genai-onboarding-select-header = Önerileri görmek istediğiniz metni seçin
 genai-onboarding-select-primary = Sohbete başlayın
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Metin ve kod oluşturma

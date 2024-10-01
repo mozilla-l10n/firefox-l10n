@@ -154,7 +154,7 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = 100. sürümümüze ulaştık! Daha iyi ve daha sağlıklı bir internet inşa etmemize destek verdiğiniz için teşekkür ederiz.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] { -brand-short-name } tarayıcısını Dock’a sabitla
+        [macos] { -brand-short-name } tarayıcısını Dock’a sabitle
        *[other] { -brand-short-name } tarayıcısını görev çubuğuma sabitle
     }
 fx100-upgrade-thanks-header = 100 Kere Teşekkürler
@@ -379,9 +379,16 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama e
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Sekmelerinizi nerede görmek istersiniz?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Dikey sekmelerle tanışın
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Dikey sekmeleri dene
 onboarding-flair-text = Yeni!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Yatay sekmeleri kullanmaya devam et
 onboarding-genai-sidebar-primary-button = Bir sohbet botu seçin
+onboarding-genai-sidebar-secondary-button = Gezinmeye başla
