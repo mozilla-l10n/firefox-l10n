@@ -403,5 +403,7 @@ onboarding-vertical-tabs-description =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Une fenêtre de navigateur affichant des onglets en haut de l’écran.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Testez un chatbot IA dans le panneau latéral
 onboarding-genai-sidebar-primary-button = Choisir un chatbot
 onboarding-genai-sidebar-secondary-button = Commencer la navigation
