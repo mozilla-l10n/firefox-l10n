@@ -386,7 +386,7 @@ onboarding-new-tabs-subtitle = Changez de mode à tout moment depuis les paramè
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Onglets sur le côté
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
-onboarding-new-horizontal-tabs-label = Onglets en haut
+onboarding-new-horizontal-tabs-label = Onglets en haut de l’écran
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Les onglets verticaux sont là
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
