@@ -60,3 +60,47 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Запитати в { $provider }…
+genai-shortcuts-hide =
+    .label = Приховати ярлик чат-бота
+
+## Chatbot header
+
+genai-chatbot-title = Чат-бот з ШІ
+genai-header-provider-menu =
+    .title = Вибір чат-бота
+genai-header-options-button =
+    .title = Відкрити меню
+genai-header-close-button =
+    .title = Закрити
+genai-provider-about-chatbots =
+    .label = Про ці чат-боти
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Перезавантажити { $provider }
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Продовжити
+genai-onboarding-secondary = Закрити
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Докладніше про Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Докладніше про ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Докладніше про Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Докладніше про HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Докладніше про Le Chat
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-analyze = Аналіз документів та зображень
+genai-onboarding-chatgpt-analyze = Аналіз документів та зображень
+genai-onboarding-gemini-generate = Створення тексту, зображень і коду
