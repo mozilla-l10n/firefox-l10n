@@ -371,9 +371,9 @@ onboarding-new-tabs-title = 告訴我們您想將分頁列放在哪裡
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 可以到側邊欄設定中隨時切換。
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-new-vertical-tabs-label = 分頁顯示在側邊
+onboarding-new-vertical-tabs-label = 放在側邊
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
-onboarding-new-horizontal-tabs-label = 分頁顯示在頂端
+onboarding-new-horizontal-tabs-label = 放在頂端
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = 垂直分頁將顯示於此處
 # Setup screen for vertical tabs for existing users
