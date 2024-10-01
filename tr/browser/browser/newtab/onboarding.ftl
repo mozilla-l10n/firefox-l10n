@@ -383,12 +383,36 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama e
 onboarding-new-tabs-title = Sekmelerinizi nerede görmek istersiniz?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Kenarda
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Üstte
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Karşınızda dikey sekmeler
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Dikey sekmelerle tanışın
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Sekmelerinizi kenarda kullanmayı deneyin. İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Dikey sekmeleri dene
 onboarding-flair-text = Yeni!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Yatay sekmeleri kullanmaya devam et
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = { -brand-shorter-name } kenar çubuğunda sekmelerin görüntündüğü bir tarayıcı penceresi.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = { -brand-shorter-name } kenar çubuğunda sekmelerin görüntündüğü bir tarayıcı penceresi.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Sekmelerin üstte göründüğü bir tarayıcı penceresi.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Sekmelerin üstte göründüğü bir tarayıcı penceresi.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Kenar çubuğunda yapay zekâ sohbet botlarını deneyin
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = İnternette gezinirken web içeriklerini özetleyin, yeni fikirler üretin, mesaj taslakları oluşturun. Farklı sağlayıcılar arasından seçim yapabilir, istediğiniz zaman başka bir sağlayıcıya geçebilirsiniz. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 onboarding-genai-sidebar-primary-button = Bir sohbet botu seçin
 onboarding-genai-sidebar-secondary-button = Gezinmeye başla

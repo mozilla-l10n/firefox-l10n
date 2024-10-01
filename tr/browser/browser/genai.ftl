@@ -107,9 +107,23 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat hakkında bilgi alın
 genai-onboarding-select-header = Önerileri görmek istediğiniz metni seçin
+genai-onboarding-select-description = Metin seçtiğinizde sohbet botuna gönderebileceğiniz istemler önereceğiz. Kendi istemlerinizi de yazabilirsiniz.
 genai-onboarding-select-primary = Sohbete başlayın
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Metin ve kod oluşturma
+genai-onboarding-claude-analyze = Belgeleri ve görselleri analiz etme
+genai-onboarding-claude-price = Ücretsiz ve ücretli seçenekler: Hesap açmanız gerekir
+genai-onboarding-chatgpt-generate = Metin, görsel ve kod oluşturma
+genai-onboarding-chatgpt-analyze = Belgeleri ve görselleri analiz etme
+genai-onboarding-chatgpt-price = Ücretsiz ve ücretli seçenekler: Bazı ülkeler ve görevler için hesap açmanız gerekir
+genai-onboarding-gemini-generate = Metin, görsel ve kod oluşturma
+genai-onboarding-gemini-analyze = Görselleri analiz etme (ücretsiz) ve belgeleri analiz etme (ücretli)
+genai-onboarding-gemini-price = Ücretsiz ve ücretli seçenekler: Hesap açmanız gerekir
+genai-onboarding-huggingchat-generate = Metin ve kod oluşturma
+genai-onboarding-huggingchat-switch = Farklı açık modeller arasında geçiş yapma
+genai-onboarding-huggingchat-price = Ücretsiz: Bazı görevler için hesap açmanız gerekir
+genai-onboarding-lechat-generate = Metin ve kod oluşturma
+genai-onboarding-lechat-price = Ücretsiz: Hesap açmanız gerekir
