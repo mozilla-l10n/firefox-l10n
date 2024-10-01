@@ -103,4 +103,3 @@ genai-onboarding-lechat-learn = Докладніше про Le Chat
 
 genai-onboarding-claude-analyze = Аналіз документів та зображень
 genai-onboarding-chatgpt-analyze = Аналіз документів та зображень
-genai-onboarding-gemini-generate = Створення тексту, зображень і коду
