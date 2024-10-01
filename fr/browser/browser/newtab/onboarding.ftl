@@ -400,5 +400,8 @@ onboarding-vertical-tabs-tooltip =
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
     .aria-description = Une fenêtre de navigateur affichant des onglets sur le côté de l’écran dans le panneau latéral de { -brand-shorter-name }.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Une fenêtre de navigateur affichant des onglets en haut de l’écran.
 onboarding-genai-sidebar-primary-button = Choisir un chatbot
 onboarding-genai-sidebar-secondary-button = Commencer la navigation
