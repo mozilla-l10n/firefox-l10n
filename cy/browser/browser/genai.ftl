@@ -72,10 +72,62 @@ genai-header-options-button =
     .title = Agor dewislen
 genai-header-close-button =
     .title = Cau
+genai-provider-view-details =
+    .label = Gweld manylion y sgwrsfot
+genai-provider-about-chatbots =
+    .label = Ynghylch y sgyrsfotiau hyn
+genai-options-reload-generic =
+    .label = Ail-lwytho'r sgwrsfot AI
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ail-lwytho { $provider }
+genai-options-show-shortcut =
+    .label = Dangos llwybr byr wrth ddewis testun
+genai-options-hide-shortcut =
+    .label = Cuddio llwybr byr wrth ddewis testun
+genai-options-about-chatbot =
+    .label = Ynghylch sgyrsfotiau AI yn { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio yn y bar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+genai-onboarding-primary = Parhau
+genai-onboarding-secondary = Cau
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Dysgu rhagor am Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Dysgu rhagor am ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Dysgu rhagor am Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Dysgu rhagor am HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Dysgu rhagor am Le Chat
+genai-onboarding-select-header = Dewiswch destun i weld awgrymiadau
+genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn awgrymu awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
+genai-onboarding-select-primary = Dechrau sgwrsio
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Cynhyrchu testun a chod
+genai-onboarding-claude-analyze = Dadansoddi dogfennau a delweddau
+genai-onboarding-claude-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif
+genai-onboarding-chatgpt-generate = Cynhyrchu testun, delweddau, a chod
+genai-onboarding-chatgpt-analyze = Dadansoddi dogfennau a delweddau
+genai-onboarding-chatgpt-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif ar gyfer rhai gwledydd a thasgau
+genai-onboarding-gemini-generate = Cynhyrchu testun, delweddau, a chod
+genai-onboarding-gemini-analyze = Dadansoddi delweddau (am ddim) a dogfennau (taledig)
+genai-onboarding-gemini-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif
+genai-onboarding-huggingchat-generate = Cynhyrchu testun a chod
+genai-onboarding-huggingchat-switch = Newid rhwng set amrywiol o fodelau agored
+genai-onboarding-huggingchat-price = Rhad ac am ddim; bydd angen cyfrif ar gyfer rhai tasgau
+genai-onboarding-lechat-generate = Cynhyrchu testun a chod
+genai-onboarding-lechat-price = Rhad ac am ddim; bydd angen cyfrif
