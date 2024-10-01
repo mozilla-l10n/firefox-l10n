@@ -108,6 +108,8 @@ sidebar-menu-history-header =
     .heading = ประวัติ
 sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
+sidebar-panel-header-close-button =
+    .tooltiptext = ปิด
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +125,6 @@ sidebar-syncedtabs-title = แท็บจากอุปกรณ์อื่�
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = ปิดแท็บบน { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+

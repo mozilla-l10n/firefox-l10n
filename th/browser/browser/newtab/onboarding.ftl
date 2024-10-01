@@ -373,3 +373,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = ฉันเพิ่ง
 onboarding-new-user-survey-familiarity-based-option-2 = ฉันใช้มาบ้างแล้ว
 onboarding-new-user-survey-familiarity-based-option-3 = ฉันคุ้นเคยมาก
 onboarding-new-user-survey-familiarity-based-option-4 = ฉันเคยใช้ในอดีต แต่ก็ผ่านไปนานแล้ว
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = ใหม่!
+onboarding-genai-sidebar-secondary-button = เริ่มต้นการเรียกดู
