@@ -60,9 +60,18 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Gofyn i { $provider }…
+genai-shortcuts-hide =
+    .label = Cuddio llwybr byr sgwrsfot
 
 ## Chatbot header
 
+genai-chatbot-title = Sgwrsfot AI
+genai-header-provider-menu =
+    .title = Dewiswch sgwrsfot
+genai-header-options-button =
+    .title = Agor dewislen
+genai-header-close-button =
+    .title = Cau
 
 ## Chatbot onboarding
 
