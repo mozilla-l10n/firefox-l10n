@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Cau Tabiau i'r Chwith
     .accesskey = h
+close-tabs-to-the-start-vertical =
+    .label = Cau'r Tabiau Uchod
+    .accesskey = U
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Cau Tabiau i'r Dde
     .accesskey = D
+close-tabs-to-the-end-vertical =
+    .label = Cau'r Tabiau Isod
+    .accesskey = I
 close-other-tabs =
     .label = Cau Tabiau Eraill
     .accesskey = C
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Tab Newydd i'r Dde
+    .accesskey = D
+tab-context-new-tab-open-vertical =
+    .label = Tab Newydd Isod
+    .accesskey = s
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

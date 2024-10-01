@@ -86,13 +86,13 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Cuddio llwybr byr wrth ddewis testun
 genai-options-about-chatbot =
-    .label = Ynghylch sgyrsfotiau AI yn { -brand-short-name }
+    .label = Ynghylch y sgyrsfotiau AI yn { -brand-short-name }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio yn y bar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 genai-onboarding-primary = Parhau
 genai-onboarding-secondary = Cau
 genai-onboarding-claude-tooltip =
@@ -111,7 +111,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Dysgu rhagor am Le Chat
 genai-onboarding-select-header = Dewiswch destun i weld awgrymiadau
-genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn awgrymu awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
+genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn cynnig awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
 genai-onboarding-select-primary = Dechrau sgwrsio
 
 ## Chatbot onboarding choices
@@ -119,13 +119,13 @@ genai-onboarding-select-primary = Dechrau sgwrsio
 
 genai-onboarding-claude-generate = Cynhyrchu testun a chod
 genai-onboarding-claude-analyze = Dadansoddi dogfennau a delweddau
-genai-onboarding-claude-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif
+genai-onboarding-claude-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif
 genai-onboarding-chatgpt-generate = Cynhyrchu testun, delweddau, a chod
 genai-onboarding-chatgpt-analyze = Dadansoddi dogfennau a delweddau
-genai-onboarding-chatgpt-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif ar gyfer rhai gwledydd a thasgau
+genai-onboarding-chatgpt-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif ar gyfer rhai gwledydd a thasgau
 genai-onboarding-gemini-generate = Cynhyrchu testun, delweddau, a chod
 genai-onboarding-gemini-analyze = Dadansoddi delweddau (am ddim) a dogfennau (taledig)
-genai-onboarding-gemini-price = Dewisiadau am ddim ac â thâl; bydd angen cyfrif
+genai-onboarding-gemini-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif
 genai-onboarding-huggingchat-generate = Cynhyrchu testun a chod
 genai-onboarding-huggingchat-switch = Newid rhwng set amrywiol o fodelau agored
 genai-onboarding-huggingchat-price = Rhad ac am ddim; bydd angen cyfrif ar gyfer rhai tasgau

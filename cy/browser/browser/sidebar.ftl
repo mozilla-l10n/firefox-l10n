@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Tabiau llorweddol
 sidebar-customize-tabs-header =
     .label = Gosodiadau tabiau
+sidebar-customize-button-header =
+    .label = Botwm bar ochr
+sidebar-customize-position-header =
+    .label = Safle'r bar ochr
+sidebar-visibility-setting-always-show =
+    .label = Ehangu a chau'r bar ochr
+sidebar-visibility-setting-hide-sidebar =
+    .label = Dangos a chuddio'r bar ochr
 sidebar-customize-settings-header =
     .label = Gosodiadau bariau ochr
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Hanes
 sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
+sidebar-panel-header-close-button =
+    .tooltiptext = Cau
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Tabiau o ddyfeisiau eraill
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Cau tab ar { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Ehangu'r bar ochr
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Cau'r bar ochr
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Dangos y bar ochr
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Cuddio'r bar ochr

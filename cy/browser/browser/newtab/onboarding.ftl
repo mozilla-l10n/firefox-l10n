@@ -387,3 +387,32 @@ onboarding-new-tabs-subtitle = Gallwch ei symud pryd bynnag fyddwch eisiau yng n
 onboarding-new-vertical-tabs-label = Tabiau ar yr ochr
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Tabiau ar y brig
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Mae'r tabiau fertigol yma
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Yn cyflwyno tabiau fertigol
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Rhowch gynnig ar eich tabiau ochr. Newidiwch nhw pryd bynnag yn y gosodiadau bar ochr.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Rhowch gynnig ar dabiau fertigol
+onboarding-flair-text = Newydd!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Cadw'r tabiau llorweddol
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Ffenestr porwr yn dangos tabiau ar hyd ochr y sgrin fel rhan o far ochr { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Ffenestr porwr yn dangos tabiau ar hyd ochr y sgrin fel rhan o far ochr { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Ffenestr porwr sy'n dangos tabiau ar hyd y brig.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Ffenestr porwr sy'n dangos tabiau ar hyd y brig.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Rhowch gynnig ar sgwrsfot AI yn y bar ochr
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Crynhoi cynnwys gwe, trafod syniadau, drafftio negeseuon - i gyd wrth i chi bori. Dewiswch o blith darparwyr lluosog. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+onboarding-genai-sidebar-primary-button = Dewiswch sgwrsfot
+onboarding-genai-sidebar-secondary-button = Cychwyn pori
