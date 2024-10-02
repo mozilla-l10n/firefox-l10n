@@ -55,6 +55,9 @@ migration-passwords-from-file-tsv-filter-title =
        *[other] TSV దస్త్రం
     }
 migration-bookmarks-from-file = ఇష్టాంశాలు
+migration-cancel-button-label = రద్దుచేయి
+migration-done-button-label = పూర్తయింది
+migration-continue-button-label = కొనసాగించు
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -62,9 +65,17 @@ migration-bookmarks-from-file = ఇష్టాంశాలు
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-password-label = సంకేతపదాలు
+migration-list-history-label = చరిత్ర
+migration-list-extensions-label = పొడగింతలు
+migration-list-payment-methods-label = చెల్లింపు పద్ధతులు
 
 ##
 
+migration-wizard-progress-icon-in-progress =
+    .aria-label = దిగుమతవుతున్నది…
+migration-wizard-progress-icon-completed =
+    .aria-label = పూర్తయింది
 migration-safari-password-import-skip-button = దాటవేయి
 
 ## The import process identifies extensions installed in other supported
@@ -74,3 +85,13 @@ migration-safari-password-import-skip-button = దాటవేయి
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { NUMBER($quantity) ->
+        [one] { $quantity } సంకేతపదం
+       *[other] { $quantity } సంకేతపదాలు
+    }
