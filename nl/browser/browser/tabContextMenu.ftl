@@ -78,6 +78,9 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Delen
     .accesskey = e
+tab-context-new-tab-open-vertical =
+    .label = Nieuw tabblad hieronder
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
