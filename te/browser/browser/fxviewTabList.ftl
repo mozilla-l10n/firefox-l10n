@@ -4,6 +4,10 @@
 
 fxviewtabrow-open-menu-button =
     .title = మెనూని తెరువు
+# Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle }ను మూసివేయి
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = ఇప్పుడే
 
@@ -14,6 +18,10 @@ fxviewtabrow-delete = తొలగించు
     .accesskey = D
 fxviewtabrow-open-in-window = కొత్త విండోలో తెరువు
     .accesskey = N
+fxviewtabrow-copy-link = లంకెను కాపీచేయి
+    .accesskey = L
+fxviewtabrow-close-tab = ట్యాబును మూసివేయి
+    .accesskey = C
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

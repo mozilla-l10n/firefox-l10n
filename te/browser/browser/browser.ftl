@@ -359,6 +359,9 @@ popup-select-microphone-icon =
     .tooltiptext = మైక్రోఫోను
 popup-select-speaker-icon =
     .tooltiptext = స్పీకర్లు
+popup-select-window-or-screen =
+    .label = కిటికీ లేదా తెర:
+    .accesskey = W
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
 
 ## WebRTC window or screen share tab switch warning
@@ -478,6 +481,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = త్వరిత చర్యలు
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = ఇటీవలి వెతుకులాటలు
 
 ## Reader View toolbar buttons
 
@@ -774,3 +782,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' చూపించు
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

@@ -91,3 +91,10 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ట్యాబు వచ్చింది
        *[other] { $tabCount } ట్యాబులు వచ్చాయి
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = ఇటీవల మూసిన ట్యాబులను చూడండి

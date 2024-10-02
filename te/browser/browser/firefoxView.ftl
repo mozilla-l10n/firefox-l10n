@@ -122,6 +122,8 @@ firefoxview-import-history-close-button =
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-tabs =
+    .title = ట్యాబులు
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:

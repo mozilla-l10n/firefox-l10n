@@ -143,6 +143,8 @@ about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = సంకేతపదం తొలగించాలా?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = ఈ చర్యను మీరు రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
 
 ## Variables
@@ -169,6 +171,19 @@ about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ప్రవేశాన్ని అన్ని పరికరాల నుండి తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ అన్ని పరికరాల నుండి తొలగించాలా?
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { NUMBER($count) ->
+        [1] అవును, సంకేతపదాన్ని తొలగించు
+        [one] అవును, సంకేతపదాన్ని తొలగించు
+       *[other] అవును, సంకేతపదాలను తొలగించు
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { NUMBER($count) ->
+        [one] { $count } సంకేతపదాన్ని తొలగించాలా?
+       *[other] { $count } సంకేతపదాలనూ తొలగించాలా?
     }
 
 ##
