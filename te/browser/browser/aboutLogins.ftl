@@ -98,6 +98,9 @@ login-item-cancel-button = రద్దుచేయి
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = సృష్టితం
+login-item-timeline-action-updated = మార్పు
+login-item-timeline-action-used = వాడుక
 
 ## OS Authentication dialog
 
@@ -138,6 +141,8 @@ confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = సంకేతపదం తొలగించాలా?
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
 
 ## Variables
