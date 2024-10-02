@@ -60,3 +60,71 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } freegje…
+genai-shortcuts-hide =
+    .label = Chatbot-fluchkeppeling ferstopje
+
+## Chatbot header
+
+genai-chatbot-title = AI-chatbot
+genai-header-provider-menu =
+    .title = Kies in chatbot
+genai-header-options-button =
+    .title = Menu iepenje
+genai-header-close-button =
+    .title = Slute
+genai-provider-view-details =
+    .label = Chatbotdetails besjen
+genai-provider-about-chatbots =
+    .label = Oer dizze chatbots
+genai-options-reload-generic =
+    .label = AI-chatbot opnij lade
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } opnij lade
+genai-options-show-shortcut =
+    .label = Fluchkeppeling toane by selektearjen fan tekst
+genai-options-hide-shortcut =
+    .label = Fluchkeppeling ferstopje by selektearjen fan tekst
+genai-options-about-chatbot =
+    .label = Oer AI-chatbots yn { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Gearfetsje, brainstoarmje, en mear wylst jo sneupe
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sydbalke. Wy toane details oer elke chatbot as jo dizze selektearje. Wikselje op elk winske momint. <a data-l10n-name="learn-more">Mear ynfo</a>
+genai-onboarding-primary = Trochgean
+genai-onboarding-secondary = Slute
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Mear ynfo oer Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Mear ynfo oer ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Mear ynfo oer Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Mear ynfo oer HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Mear ynfo oer Le Chat
+genai-onboarding-select-header = Selektearje tekst om suggestjes te sjen
+genai-onboarding-select-description = As jo tekst selektearje, sille wy fragen foarstelle dy’t jo nei de chatbot stjoere kinne. Jo kinne ek jo eigen fragen stelle.
+genai-onboarding-select-primary = Begjinne mei chatte
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Tekst en koade generearje
+genai-onboarding-claude-analyze = Dokuminten en ôfbyldingen analysearje
+genai-onboarding-claude-price = Fergeze en betelle opsjes; account nedich
+genai-onboarding-chatgpt-generate = Tekst, ôfbyldingen en koade generearje
+genai-onboarding-chatgpt-analyze = Dokuminten en ôfbyldingen analysearje
+genai-onboarding-chatgpt-price = Fergeze en betelle opsjes; account nedich foar guon lannen en taken
+genai-onboarding-gemini-generate = Tekst, ôfbyldingen en koade generearje
+genai-onboarding-gemini-analyze = Ofbyldingen (fergees) en dokuminten (betelle) analysearje
+genai-onboarding-gemini-price = Fergeze en betelle opsjes; account nedich
+genai-onboarding-huggingchat-generate = Tekst en koade generearje
+genai-onboarding-huggingchat-switch = Skeakelje tusken in ferskaat oan iepen modellen
