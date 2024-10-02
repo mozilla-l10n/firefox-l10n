@@ -172,3 +172,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Attiva audio nella scheda
 tabbrowser-manager-close-tab =
     .tooltiptext = Chiudi scheda
+
+## Tab Groups
+
+tab-group-editor-title-create = Create nuovo gruppo di schede
+tab-group-editor-title-edit = Gestisci gruppo di schede
+tab-group-editor-name-label = Nome
+tab-group-editor-name-field =
+  .placeholder = Esempio: Shopping
+tab-group-editor-cancel =
+  .label = Annulla
+  .accesskey = A
+tab-group-editor-create =
+  .label = Crea
+  .accesskey = C
