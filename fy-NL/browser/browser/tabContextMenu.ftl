@@ -78,6 +78,9 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Diele
     .accesskey = e
+tab-context-new-tab-open-vertical =
+    .label = Nij ljepblêd hjirûnder
+    .accesskey = j
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

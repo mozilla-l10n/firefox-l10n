@@ -376,3 +376,42 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ik bin hielendal nij
 onboarding-new-user-survey-familiarity-based-option-2 = Ik haw it wat brûkt
 onboarding-new-user-survey-familiarity-based-option-3 = Ik bin der tige bekend mei
 onboarding-new-user-survey-familiarity-based-option-4 = Ik haw it yn it ferline brûkt, mar it is in tydsje lyn
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Fertel ús wêr’t jo jo ljepblêden hawwe wolle
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Wizigje it wannear’t jo mar wolle yn de sybalkeynstellingen.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Ljepblêden oan de sydkant
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Ljepblêden boppe oan
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Der binne no fertikale ljepblêden
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Nij: fertikale ljepblêden
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Probearje jo ljepblêden oan de sydkant. Wizigje it wannear’t jo mar wolle yn de sydbalkeynstellingen.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Fertikale ljepblêden probearje
+onboarding-flair-text = Nij!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Horizontale ljepblêden behâlde
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = In browserfinster dat ljepblêden lâns de sydkant fan it skerm toant as ûnderdiel fan de { -brand-shorter-name }-sydbalke.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = In browserfinster dat ljepblêden lâns de sydkant fan it skerm toant as ûnderdiel fan de { -brand-shorter-name }-sydbalke.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = In browserfinster mei ljepblêden oan de boppekant.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = In browserfinster mei ljepblêden oan de boppekant.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Probearje in AI-chatbot yn de sydbalke
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Gearfetsje webynhâld, brainstorm ideeën, konseptberjochten – alles as jo sneupe. Kies út meardere providers. Wikselje elk momint. <a data-l10n-name="learn-more">Mear ynfo</a>
+onboarding-genai-sidebar-primary-button = Kies in chatbot

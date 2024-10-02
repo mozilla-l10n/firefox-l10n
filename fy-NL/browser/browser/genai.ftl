@@ -128,3 +128,6 @@ genai-onboarding-gemini-analyze = Ofbyldingen (fergees) en dokuminten (betelle) 
 genai-onboarding-gemini-price = Fergeze en betelle opsjes; account nedich
 genai-onboarding-huggingchat-generate = Tekst en koade generearje
 genai-onboarding-huggingchat-switch = Skeakelje tusken in ferskaat oan iepen modellen
+genai-onboarding-huggingchat-price = Fergees; account nedich foar guon taken
+genai-onboarding-lechat-generate = Tekst en koade generearje
+genai-onboarding-lechat-price = Fergees; account nedich
