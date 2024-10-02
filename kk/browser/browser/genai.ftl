@@ -76,6 +76,17 @@ genai-provider-view-details =
     .label = Чат-бот мәліметтерін қарау
 genai-provider-about-chatbots =
     .label = Бұл чат-боттар туралы
+genai-options-reload-generic =
+    .label = ЖИ чат-ботын қайта жүктеу
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } қайта жүктеу
+genai-options-show-shortcut =
+    .label = Мәтінді таңдаған кезде жарлықты көрсету
+genai-options-hide-shortcut =
+    .label = Мәтінді таңдаған кезде жарлықты жасыру
+genai-options-about-chatbot =
+    .label = { -brand-short-name } ішіндегі ЖИ чат-боттары туралы
 
 ## Chatbot onboarding
 
@@ -83,13 +94,23 @@ genai-onboarding-primary = Жалғастыру
 genai-onboarding-secondary = Жабу
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude туралы көбірек білу
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT туралы көбірек білу
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini туралы көбірек білу
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat туралы көбірек білу
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat туралы көбірек білу
+genai-onboarding-select-header = Ұсыныстарды көру үшін мәтінді таңдаңыз
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-lechat-generate = Мәтін мен кодты генерациялау
+genai-onboarding-lechat-price = Тегін; тіркелгі қажет

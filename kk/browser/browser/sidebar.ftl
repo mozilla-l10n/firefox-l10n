@@ -52,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Горизонталды беттер
 sidebar-customize-tabs-header =
     .label = Бет баптаулары
+sidebar-customize-button-header =
+    .label = Бүйір панелі батырмасы
+sidebar-customize-position-header =
+    .label = Бүйір панелі орналасуы
 sidebar-customize-settings-header =
     .label = Бүйір панель баптаулары
 sidebar-visibility-always-show =
@@ -123,3 +127,6 @@ sidebar-syncedtabs-title = Басқа құрылғылардан беттер
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } құрылғыдағы бетті жабу
+
+## Tooltips for the sidebar toolbar button.
+

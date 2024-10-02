@@ -375,3 +375,13 @@ onboarding-new-user-survey-familiarity-based-option-1 = Мен жаңадан к
 onboarding-new-user-survey-familiarity-based-option-2 = Мен оны біраз қолдандым
 onboarding-new-user-survey-familiarity-based-option-3 = Мен онымен өте жақсы таныспын
 onboarding-new-user-survey-familiarity-based-option-4 = Мен оны бұрын қолдандым, бірақ біраз уақыт өтті
+
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Вертикалды беттерді қолданып көріңіз
+onboarding-flair-text = Жаңа!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Горизонталды беттерді қолдана беру
+onboarding-genai-sidebar-primary-button = Чат-ботты таңдау
+onboarding-genai-sidebar-secondary-button = Шолуды бастау
