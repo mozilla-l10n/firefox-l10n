@@ -57,6 +57,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
+genai-shortcuts-hide =
+    .label = Skjul samtalerobot-snarveg
 
 ## Chatbot header
 
@@ -67,6 +69,8 @@ genai-header-options-button =
     .title = Opne meny
 genai-header-close-button =
     .title = Lat att
+genai-provider-view-details =
+    .label = Vis samtalerobot-detaljar
 genai-provider-about-chatbots =
     .label = Om desse samtalerobotane
 genai-options-reload-generic =
@@ -74,6 +78,8 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Oppdater { $provider }
+genai-options-about-chatbot =
+    .label = Om AI-samtalerobotar i { -brand-short-name }
 
 ## Chatbot onboarding
 

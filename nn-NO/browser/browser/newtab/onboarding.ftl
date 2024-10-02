@@ -380,3 +380,6 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare,
 
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Faner på sida
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prøv ein samtalerobot i sidefeltet
+onboarding-genai-sidebar-primary-button = Vel ein samtalerobot
