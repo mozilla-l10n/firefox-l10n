@@ -282,3 +282,15 @@ tail-fox-spotlight-title = Houd vervelende trackers van u af
 tail-fox-spotlight-subtitle = Zeg vaarwel tegen vervelende advertentietrackers en geniet van een veiligere, snelle internetervaring.
 tail-fox-spotlight-primary-button = Mijn koppelingen openen met { -brand-short-name }
 tail-fox-spotlight-secondary-button = Niet nu
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Oudere versies van { -brand-short-name } beginnen mogelijk problemen te krijgen op 14 januari 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Werk bij om { -brand-short-name } na 14 maart 2025 te blijven gebruiken.</strong>
+root-certificate-succession-infobar-link = Waarom moet ik bijwerken?
+root-certificate-succession-infobar-primary-button =
+    .label = Nu bijwerken
+    .accesskey = w
+root-certificate-succession-infobar-secondary-button =
+    .label = Later
+    .accesskey = L

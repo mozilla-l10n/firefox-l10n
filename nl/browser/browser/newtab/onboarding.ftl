@@ -376,3 +376,43 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ik ben helemaal nieuw
 onboarding-new-user-survey-familiarity-based-option-2 = Ik heb het wat gebruikt
 onboarding-new-user-survey-familiarity-based-option-3 = Ik ben er heel bekend mee
 onboarding-new-user-survey-familiarity-based-option-4 = Ik heb het in het verleden gebruikt, maar het is een poosje geleden
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Vertel ons waar u uw tabbladen wilt hebben
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Wijzig het wanneer u maar wilt in de zijbalkinstellingen.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Tabbladen aan de zijkant
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Tabbladen bovenaan
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Er zijn verticale tabbladen
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Nieuw: verticale tabbladen
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Probeer uw tabbladen aan de zijkant. Wijzig het wanneer u maar wilt in de zijbalkinstellingen.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Verticale tabbladen proberen
+onboarding-flair-text = Nieuw!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Horizontale tabbladen behouden
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Een browservenster dat tabbladen langs de zijkant van het scherm toont als onderdeel van de { -brand-shorter-name }-zijbalk.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Een browservenster dat tabbladen langs de zijkant van het scherm toont als onderdeel van de { -brand-shorter-name }-zijbalk.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Een browservenster met bovenaan tabbladen.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Een browservenster met bovenaan tabbladen.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Probeer een AI-chatbot in de zijbalk
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Vat webinhoud samen, brainstorm over ideeën, stel berichten op – allemaal terwijl u surft. Kies uit meerdere providers. Wissel op elk gewenst moment. <a data-l10n-name="learn-more">Meer info</a>
+onboarding-genai-sidebar-primary-button = Kies een chatbot
+onboarding-genai-sidebar-secondary-button = Beginnen met surfen

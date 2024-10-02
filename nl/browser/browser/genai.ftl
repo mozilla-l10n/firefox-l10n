@@ -130,3 +130,4 @@ genai-onboarding-huggingchat-generate = Tekst en code genereren
 genai-onboarding-huggingchat-switch = Schakelen tussen een diverse set open modellen
 genai-onboarding-huggingchat-price = Gratis; account vereist voor sommige taken
 genai-onboarding-lechat-generate = Tekst en code genereren
+genai-onboarding-lechat-price = Gratis; account vereist

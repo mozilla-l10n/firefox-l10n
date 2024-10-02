@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Afdrukken via het afdrukdialoogvenster van het sys
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Het bezoeken van websites blokkeren. Zie de documentatie voor meer informatie over de notatie.
 policy-Windows10SSO = Windows-single-sign-on toestaan voor Microsoft- werk- en schoolaccounts.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Single sign-on voor Microsoft Entra-accounts toestaan.

@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Tabbladen aan de linkerkant sluiten
     .accesskey = i
+close-tabs-to-the-start-vertical =
+    .label = Bovenstaande tabbladen sluiten
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tabbladen aan de rechterkant sluiten
     .accesskey = r
+close-tabs-to-the-end-vertical =
+    .label = Onderstaande tabbladen sluiten
+    .accesskey = O
 close-other-tabs =
     .label = Overige tabbladen sluiten
     .accesskey = e
@@ -78,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Delen
     .accesskey = e
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nieuw tabblad rechts
+    .accesskey = w
 tab-context-new-tab-open-vertical =
     .label = Nieuw tabblad hieronder
     .accesskey = w

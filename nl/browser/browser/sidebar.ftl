@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
+menu-view-review-checker =
+    .label = Beoordelingscontrole
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horizontale tabbladen
 sidebar-customize-tabs-header =
     .label = Tabbladinstellingen
+sidebar-customize-button-header =
+    .label = Zijbalkknop
+sidebar-customize-position-header =
+    .label = Positie zijbalk
+sidebar-visibility-setting-always-show =
+    .label = Zijbalk uitvouwen en samenvouwen
+sidebar-visibility-setting-hide-sidebar =
+    .label = Zijbalk tonen en verbergen
 sidebar-customize-settings-header =
     .label = Zijbalkinstellingen
 sidebar-visibility-always-show =
@@ -106,9 +116,14 @@ sidebar-menu-history-header =
     .heading = Geschiedenis
 sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
+sidebar-panel-header-close-button =
+    .tooltiptext = Sluiten
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Zijbalk aanpassen
+sidebar-history-title = Geschiedenis
+sidebar-syncedtabs-title = Tabbladen van andere apparaten
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -121,3 +136,11 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar button.
 
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Zijbalk uitvouwen
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Zijbalk samenvouwen
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Zijbalk tonen
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Zijbalk verbergen
