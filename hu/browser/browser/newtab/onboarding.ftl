@@ -375,3 +375,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = Teljesen új vagyok
 onboarding-new-user-survey-familiarity-based-option-2 = Használtam valamennyit
 onboarding-new-user-survey-familiarity-based-option-3 = Jól ismerem
 onboarding-new-user-survey-familiarity-based-option-4 = Régebben használtam, de ennek már egy ideje
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Mondja el, hová szeretné tenni a lapjait
