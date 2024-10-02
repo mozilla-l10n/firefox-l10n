@@ -137,25 +137,25 @@ synced-tabs-context-close-tab-title =
 ## Tooltips for the sidebar toolbar widget.
 
 sidebar-widget-expand-sidebar =
-    .tooltiptext = Espandi la barra latrale
+    .tooltiptext = Espandi la barra laterale
     .label = Barre laterali
 sidebar-widget-collapse-sidebar =
-    .tooltiptext = Comprimi la barra latrale
+    .tooltiptext = Comprimi la barra laterale
     .label = Barre laterali
 sidebar-widget-show-sidebar =
-    .tooltiptext = Mostra la barra latrale
+    .tooltiptext = Mostra la barra laterale
     .label = Barre laterali
 sidebar-widget-hide-sidebar =
-    .tooltiptext = Nascondi la barra latrale
+    .tooltiptext = Nascondi la barra laterale
     .label = Barre laterali
 
 ## Tooltips for the sidebar toolbar button.
 
 sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Espandi la barra latrale
+    .tooltiptext = Espandi la barra laterale
 sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Comprimi la barra latrale
+    .tooltiptext = Comprimi la barra laterale
 sidebar-toolbar-show-sidebar =
-    .tooltiptext = Mostra la barra latrale
+    .tooltiptext = Mostra la barra laterale
 sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Nascondi la barra latrale
+    .tooltiptext = Nascondi la barra laterale
