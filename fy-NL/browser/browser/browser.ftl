@@ -722,8 +722,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Blêdwizersydbalke ferstopje
-           *[other] Blêdwizersydbalke werjaan
+            [true] Blêdwizersidebalke ferstopje
+           *[other] Blêdwizersidebalke werjaan
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =

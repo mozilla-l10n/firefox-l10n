@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Foeget de chatbot fan jo kar ta oan de sydbalke, foar rappe tagong as jo sneupje. <a data-l10n-name="connect">Kommentaar diele</a>
+genai-settings-chat-description = Foeget de chatbot fan jo kar ta oan de sidebalke, foar rappe tagong as jo sneupje. <a data-l10n-name="connect">Kommentaar diele</a>
 genai-settings-chat-choose = Kies in chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Kies ien…
@@ -92,7 +92,7 @@ genai-options-about-chatbot =
 
 genai-onboarding-header = Gearfetsje, brainstoarmje, en mear wylst jo sneupe
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sydbalke. Wy toane details oer elke chatbot as jo dizze selektearje. Wikselje op elk winske momint. <a data-l10n-name="learn-more">Mear ynfo</a>
+genai-onboarding-description = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sidebalke. Wy toane details oer elke chatbot as jo dizze selektearje. Wikselje op elk winske momint. <a data-l10n-name="learn-more">Mear ynfo</a>
 genai-onboarding-primary = Trochgean
 genai-onboarding-secondary = Slute
 genai-onboarding-claude-tooltip =

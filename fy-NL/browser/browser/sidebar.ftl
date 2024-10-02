@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
+menu-view-review-checker =
+    .label = Beoardielingskontrôle
 
 ## Labels for sidebar history panel
 
@@ -36,7 +38,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sydbalke-útwreidingen
+sidebar-customize-extensions-header = Sidebalke-útwreidingen
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-ark
 sidebar-customize-firefox-settings = { -brand-short-name }-ynstellingen beheare
@@ -50,12 +52,20 @@ sidebar-horizontal-tabs =
     .label = Horizontale ljepblêden
 sidebar-customize-tabs-header =
     .label = Ljepblêdynstellingen
+sidebar-customize-button-header =
+    .label = Sidebalkeknop
+sidebar-customize-position-header =
+    .label = Posysje sidebalke
+sidebar-visibility-setting-always-show =
+    .label = Sidebalke útklappe en ynklappe
+sidebar-visibility-setting-hide-sidebar =
+    .label = Sidebalke toane en ferstopje
 sidebar-customize-settings-header =
-    .label = Sydbalke-ynstellingen
+    .label = Sidebalke-ynstellingen
 sidebar-visibility-always-show =
     .label = Altyd toane
 sidebar-visibility-hide-sidebar =
-    .label = Sydbalke ferstopje
+    .label = Sidebalke ferstopje
 
 ## Labels for sidebar context menu items
 
@@ -94,16 +104,26 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Blêdwizers
 sidebar-menu-customize-label =
-    .label = Sydbalke oanpasse
+    .label = Sidebalke oanpasse
+sidebar-menu-review-checker-label =
+    .label = Beoardielingskontrôle
 
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Sydbalke oanpasse
+    .heading = Sidebalke oanpasse
 sidebar-menu-history-header =
     .heading = Skiednis
 sidebar-menu-syncedtabs-header =
     .heading = Ljepblêden fan oare apparaten
+sidebar-panel-header-close-button =
+    .tooltiptext = Slute
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Sidebalke oanpasse
+sidebar-history-title = Skiednis
+sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +133,14 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Ljepblêd op { $deviceName } slute
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Sidebalke útklappe
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Sidebalke ynklappe
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Sidebalke toane
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Sidebalke ferstopje

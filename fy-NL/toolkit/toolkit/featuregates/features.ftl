@@ -58,9 +58,7 @@ sidebar-title =
 sidebar-description = Benaderje ienfâldich jo skiednis, ljepblêden fan oare apparaten, sidebalke-útwreidingen en mear wylst jo sneupe. <a data-l10n-name="connect">Kommentaar diele</a>
 vertical-tabs-title =
     .label = Fertikale ljepblêden
-vertical-tabs-description = Ferpleats jo ljepblêden fan de boppekant fan de browser nei de sydkant. Fereasket dat jo ek de sydbalke probearje. <a data-l10n-name="connect">Kommentaar diele</a>
-experimental-features-group-browsing =
-    .label = Navigearje
+vertical-tabs-description = Ferpleats jo ljepblêden fan de boppekant fan de browser nei de sydkant. Fereasket dat jo ek de sidebalke probearje. <a data-l10n-name="connect">Kommentaar diele</a>
 experimental-features-group-developer-tools =
     .label = Untwikkelersark
 experimental-features-group-webpage-display =
