@@ -60,3 +60,74 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = A(z) { $provider } megkérdezése…
+genai-shortcuts-hide =
+    .label = Csevegőbot indítójának elrejtése
+
+## Chatbot header
+
+genai-chatbot-title = MI csevegőbot
+genai-header-provider-menu =
+    .title = Válasszon csevegőbotot
+genai-header-options-button =
+    .title = Menü megnyitása
+genai-header-close-button =
+    .title = Bezárás
+genai-provider-view-details =
+    .label = Csevegőbot részleteinek megtekintése
+genai-provider-about-chatbots =
+    .label = A csevegőbotok névjegye
+genai-options-reload-generic =
+    .label = MI csevegőbot újratöltése
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = A(z) { $provider } újratöltése
+genai-options-show-shortcut =
+    .label = Gyorsindító megjelenítése szöveg kijelölésekor
+genai-options-hide-shortcut =
+    .label = Gyorsindító elrejtése szöveg kijelölésekor
+genai-options-about-chatbot =
+    .label = A { -brand-short-name } MI csevegőbotjainak névjegye
+
+## Chatbot onboarding
+
+genai-onboarding-header = Összegezzen és ötleteljen böngészés közben
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Válasszon egy MI csevegőbotot a { -brand-short-name } oldalsávjában. Az egyes csevegőbotok részletei a kiválasztásuk után jelennek meg. Váltson bármikor. <a data-l10n-name="learn-more">További információk</a>
+genai-onboarding-primary = Folytatás
+genai-onboarding-secondary = Bezárás
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Tudjon meg többet a Claude-ról
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Tudjon meg többet a ChatGPT-ről
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Tudjon meg többet a Geminiről
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Tudjon meg többet a HuggingChatről
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Tudjon meg többet a Le Chatről
+genai-onboarding-select-header = Jelöljön ki szöveget a javaslatok megtekintéséhez
+genai-onboarding-select-description = Ha szöveget választ ki, akkor a csevegőbotnak küldött promptokat javasolunk. Beírhatja a saját kéréseit is.
+genai-onboarding-select-primary = Kezdjen csevegni
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Szöveg és kód előállítása
+genai-onboarding-claude-analyze = Dokumentumok és képek elemzése
+genai-onboarding-claude-price = Ingyenes és fizetős lehetőségek; fiók szükséges
+genai-onboarding-chatgpt-generate = Szöveg, kép és kód előállítása
+genai-onboarding-chatgpt-analyze = Dokumentumok és képek elemzése
+genai-onboarding-chatgpt-price = Ingyenes és fizetős lehetőségek; egyes országok és feladatok esetén fiók szükséges
+genai-onboarding-gemini-generate = Szöveg, kép és kód előállítása
+genai-onboarding-gemini-analyze = Képek (ingyenes) és dokumentumok (fizetős) elemzése
+genai-onboarding-gemini-price = Ingyenes és fizetős lehetőségek; fiók szükséges
+genai-onboarding-huggingchat-generate = Szöveg és kód előállítása
+genai-onboarding-huggingchat-switch = Váltás a különböző nyílt modellek között
+genai-onboarding-huggingchat-price = Ingyenes; egyes feladatok esetén fiók szükséges
+genai-onboarding-lechat-generate = Szöveg és kód előállítása
+genai-onboarding-lechat-price = Ingyenes; fiók szükséges
