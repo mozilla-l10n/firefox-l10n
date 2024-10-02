@@ -83,6 +83,8 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Vel ein AI-samtalerobot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar samtalerobot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
 genai-onboarding-primary = Hald fram
 genai-onboarding-secondary = Lat att
 genai-onboarding-claude-learn = Les meir om Claude
@@ -98,6 +100,7 @@ genai-onboarding-huggingchat-learn = Les meir om HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les meir om Le Chat
+genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til samtaleroboten. Du kan òg skrive eigne spørsmål.
 genai-onboarding-select-primary = Begynn å chatte
 
 ## Chatbot onboarding choices
