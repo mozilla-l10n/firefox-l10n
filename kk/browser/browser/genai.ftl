@@ -60,13 +60,22 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } сұрау…
+genai-shortcuts-hide =
+    .label = Чат-бот жарлығын жасыру
 
 ## Chatbot header
 
+genai-chatbot-title = ЖИ чат-боты
+genai-header-provider-menu =
+    .title = Чат-ботты таңдау
 genai-header-options-button =
     .title = Мәзірді ашу
 genai-header-close-button =
     .title = Жабу
+genai-provider-view-details =
+    .label = Чат-бот мәліметтерін қарау
+genai-provider-about-chatbots =
+    .label = Бұл чат-боттар туралы
 
 ## Chatbot onboarding
 
