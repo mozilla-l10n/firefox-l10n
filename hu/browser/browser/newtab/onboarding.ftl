@@ -380,3 +380,20 @@ onboarding-new-user-survey-familiarity-based-option-4 = Régebben használtam, d
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Mondja el, hová szeretné tenni a lapjait
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Állítsa be bármikor az oldalsáv beállításaiban.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Lapok oldalt
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Lapok fent
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Megérkeztek a függőleges lapok
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = A függőleges lapok bemutatása
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Próbálja ki, hogy oldalra teszi lapjait. Állítsa be bármikor az oldalsáv beállításaiban.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Próbálja ki a függőleges lapokat
+onboarding-flair-text = Új!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Vízszintes lapok megtartása
