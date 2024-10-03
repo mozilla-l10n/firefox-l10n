@@ -397,5 +397,11 @@ onboarding-existing-vertical-tabs-label = Függőleges lapok kipróbálása
 onboarding-flair-text = Új!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Vízszintes lapok megtartása
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Egy böngészőablak, amely a lapokat a képernyő szélén jeleníti meg, a { -brand-shorter-name } oldalsávjának részeként.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Egy böngészőablak, amely a lapokat a képernyő szélén jeleníti meg, a { -brand-shorter-name } oldalsávjának részeként.
 onboarding-genai-sidebar-primary-button = Válasszon csevegőbotot
 onboarding-genai-sidebar-secondary-button = Böngészés megkezdése

@@ -88,6 +88,9 @@ tab-context-share-url =
 tab-context-new-tab-open =
     .label = Új lap jobbra
     .accesskey = j
+tab-context-new-tab-open-vertical =
+    .label = Új lap alább
+    .accesskey = j
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
