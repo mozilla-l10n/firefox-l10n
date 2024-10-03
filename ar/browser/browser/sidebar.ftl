@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-review-checker =
+    .label = مدقق المراجعة
 
 ## Labels for sidebar history panel
 
@@ -86,18 +88,47 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = احذف من التأريخ
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = التأريخ
+sidebar-menu-synced-tabs-label =
+    .label = علامات التبويب من أجهزة أخرى
+sidebar-menu-bookmarks-label =
+    .label = العلامات
+sidebar-menu-customize-label =
+    .label = تخصيص الشريط الجانبي
+sidebar-menu-review-checker-label =
+    .label = مدقق المراجعة
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = تخصيص الشريط الجانبي
+sidebar-menu-history-header =
+    .heading = تاريخ
+sidebar-menu-syncedtabs-header =
+    .heading = علامات التبويب من أجهزة أخرى
+sidebar-panel-header-close-button =
+    .tooltiptext = أغلق
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = تخصيص الشريط الجانبي
+sidebar-history-title = تاريخ
+sidebar-syncedtabs-title = علامات التبويب من أجهزة أخرى
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = أغلق علامة التبويب على { $deviceName }
 
 ## Tooltips for the sidebar toolbar button.
 
