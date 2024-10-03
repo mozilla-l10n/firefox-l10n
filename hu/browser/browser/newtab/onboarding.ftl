@@ -403,5 +403,15 @@ onboarding-vertical-tabs-tooltip =
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
     .aria-description = Egy böngészőablak, amely a lapokat a képernyő szélén jeleníti meg, a { -brand-shorter-name } oldalsávjának részeként.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Egy böngészőablak, amely a lapokat felül jeleníti meg.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Egy böngészőablak, amely a lapokat felül jeleníti meg.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Próbáljon ki egy MI csevegőbotot az oldalsávban
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Foglalja össze a webes tartalmakat, ötleteljen, írjon összes piszkozatokat – mindezt böngészés közben. Válasszon több szolgáltató közül. Váltson bármikor. <a data-l10n-name="learn-more">További információk</a>
 onboarding-genai-sidebar-primary-button = Válasszon csevegőbotot
 onboarding-genai-sidebar-secondary-button = Böngészés megkezdése
