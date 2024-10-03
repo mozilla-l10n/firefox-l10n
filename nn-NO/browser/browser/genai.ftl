@@ -87,6 +87,8 @@ genai-options-about-chatbot =
 genai-onboarding-description = Vel ein AI-samtalerobot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar samtalerobot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
 genai-onboarding-primary = Hald fram
 genai-onboarding-secondary = Lat att
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
 genai-onboarding-claude-learn = Les meir om Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
