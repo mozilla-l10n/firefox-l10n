@@ -18,3 +18,13 @@ default-bookmarks-firefox-heading = Mozilla Firefox
 default-bookmarks-firefox-get-help = احصل على مُساعدة
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = خصّص Firefox
+# link title for https://www.mozilla.org/about/
+default-bookmarks-firefox-about = معلومات عنا
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = متتبع عِلَل Mozilla
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = شبكة مطوري موزيلا
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = كل انهياراتك
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = كوكب Mozilla
