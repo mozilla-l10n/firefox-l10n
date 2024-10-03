@@ -393,7 +393,7 @@ onboarding-existing-tabs-title2 = A függőleges lapok bemutatása
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-existing-tabs-subtitle = Próbálja ki, hogy oldalra teszi lapjait. Állítsa be bármikor az oldalsáv beállításaiban.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-existing-vertical-tabs-label = Próbálja ki a függőleges lapokat
+onboarding-existing-vertical-tabs-label = Függőleges lapok kipróbálása
 onboarding-flair-text = Új!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Vízszintes lapok megtartása
