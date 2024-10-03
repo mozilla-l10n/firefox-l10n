@@ -99,9 +99,14 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = كيف نحدد جودة المراجعة
 shopping-analysis-explainer-intro2 = نحن نستخدم تقنية الذكاء الاصطناعي من { -fakespot-brand-full-name } للتحقق من موثوقية مراجعات المنتجات. سيساعدك هذا فقط في تقييم جودة المراجعات، وليس جودة المنتج.
+shopping-analysis-explainer-grades-intro = نقوم بتعيين <strong>درجة بالحروف</strong> من A إلى F لمراجعات كل منتج.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = افتح مدقق المراجعة
+shopping-sidebar-close-button2 =
+    .tooltiptext = أغلق مدقق المراجعة
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -110,22 +115,51 @@ shopping-analysis-explainer-intro2 = نحن نستخدم تقنية الذكاء
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-button = افحص جودة التقييم
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = هناك المزيد للنظر فيه
+shopping-sponsored-label = برعاية
+ad-by-fakespot = إعلان بواسطة { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = ساعد في تحسين { -brand-product-name }
+shopping-survey-q1-radio-1-label = راضٍ جدًا
+shopping-survey-q1-radio-2-label = راضٍ
+shopping-survey-q1-radio-3-label = حيادي
+shopping-survey-q1-radio-4-label = غير راضٍ
+shopping-survey-q1-radio-5-label = غير راضٍ أبدًا
+shopping-survey-question-two = هل يساعدك "مدقق المراجعة" على اتخاذ قرارات الشراء بشكل أسهل؟
+shopping-survey-q2-radio-1-label = نعم
+shopping-survey-q2-radio-2-label = لا
+shopping-survey-q2-radio-3-label = لا أعرف
+shopping-survey-next-button-label = التالي
+shopping-survey-submit-button-label = أرسِل
+shopping-survey-terms-link = شروط الاستخدام
+shopping-survey-thanks =
+    .heading = شكرًا على تعليقك!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = ارجع إلى <strong>مدقق المراجعة</strong> عندما ترى بطاقة السعر.
 shopping-callout-closed-not-opted-in-revised-button = فهمت
 shopping-callout-not-opted-in-reminder-close-button = أهمِل
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = نعم، جربها
+shopping-onboarding-not-now-button = ليس الآن
 shopping-onboarding-dialog-close-button =
     .title = أغلِق
     .aria-label = أغلِق
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = التقدم: الخطوة { $current } من { $total }
