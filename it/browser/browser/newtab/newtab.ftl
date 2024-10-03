@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Personalizza Nuova scheda
 newtab-personalize-dialog-label =
     .aria-label = Personalizza
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
