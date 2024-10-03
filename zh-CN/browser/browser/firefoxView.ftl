@@ -40,7 +40,7 @@ firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-n
 firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
 firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-syncedtabs-adddevice-header = 在您的其他设备上登录 { -brand-product-name }
-firefoxview-syncedtabs-adddevice-description = 为您在各设备上使用的 { -brand-product-name } 登录账户，即可查看您在其他设备上打开的标签页。详细了解<a data-l10n-name="url">连接其他设备的方法</a>。
+firefoxview-syncedtabs-adddevice-description = 为您在各设备上使用的 { -brand-product-name } 登录账户，即可查看在其他设备上打开的标签页。您可了解<a data-l10n-name="url">连接其他设备的方法</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
