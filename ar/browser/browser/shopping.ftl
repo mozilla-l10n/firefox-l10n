@@ -147,6 +147,7 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-closed-opted-in-subtitle = ارجع إلى <strong>مدقق المراجعة</strong> عندما ترى بطاقة السعر.
+shopping-callout-pdp-opted-in-title = هل هذه المراجعات موثوقة؟ اكتشف ذلك بسرعة.
 shopping-callout-closed-not-opted-in-revised-button = فهمت
 shopping-callout-not-opted-in-reminder-close-button = أهمِل
 
