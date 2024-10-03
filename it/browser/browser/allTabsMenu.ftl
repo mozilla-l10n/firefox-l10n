@@ -21,3 +21,6 @@ all-tabs-menu-close-duplicate-tabs =
 
 all-tabs-menu-close-all-duplicate-tabs =
   .label = Chiudi tutte le schede duplicate
+
+all-tabs-menu-synced-tabs =
+  .label = Schede da altri dispositivi
