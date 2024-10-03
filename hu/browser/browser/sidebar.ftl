@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Vízszintes lapok
 sidebar-customize-tabs-header =
     .label = Lapbeállítások
+sidebar-customize-button-header =
+    .label = Oldalsávgomb
+sidebar-customize-position-header =
+    .label = Oldalsáv-pozíció
+sidebar-visibility-setting-always-show =
+    .label = Oldalsáv kibontása és összecsukása
+sidebar-visibility-setting-hide-sidebar =
+    .label = Oldalsáv megjelenítése és elrejtése
 sidebar-customize-settings-header =
     .label = Oldalsáv-beállítások
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Előzmények
 sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
+sidebar-panel-header-close-button =
+    .tooltiptext = Bezárás
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,14 @@ sidebar-syncedtabs-title = Lapok más eszközökről
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lap bezárása itt: { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Oldalsáv kibontása
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Oldalsáv összecsukása
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Oldalsáv megjelenítése
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Oldalsáv elrejtése
