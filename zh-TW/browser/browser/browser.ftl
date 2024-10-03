@@ -661,10 +661,10 @@ urlbar-trending-dismissal-acknowledgment = 感謝您的意見回饋，不再會�
 
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
-    .aria-label = 進入閱讀模式
+    .aria-label = 進入閱讀畫面
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = 關閉閱讀模式
+    .aria-label = 關閉閱讀畫面
 
 ## Picture-in-Picture urlbar button
 ## Variables:

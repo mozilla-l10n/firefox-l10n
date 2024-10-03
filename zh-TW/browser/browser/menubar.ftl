@@ -192,11 +192,11 @@ menu-view-full-screen =
 
 # This should match reader-view-enter-button in browser.ftl
 menu-view-enter-readerview =
-    .label = 進入閱讀模式
+    .label = 進入閱讀畫面
     .accesskey = R
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = 關閉閱讀模式
+    .label = 關閉閱讀畫面
     .accesskey = R
 
 ##

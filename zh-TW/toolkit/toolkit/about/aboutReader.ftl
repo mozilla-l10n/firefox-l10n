@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = 棕褐色調
     .title = 棕褐色調主題
 about-reader-color-scheme-auto = 自動
     .title = 自動色彩布景
-about-reader-color-theme-light = 亮色
-    .title = 亮色佈景主題
-about-reader-color-theme-dark = 暗色
-    .title = 暗色佈景主題
-about-reader-color-theme-sepia = 懷舊風
-    .title = 懷舊風佈景主題
-about-reader-color-theme-auto = 自動
-    .title = 自動色調佈景主題
-about-reader-color-theme-gray = 灰暗
-    .title = 灰暗佈景主題
-about-reader-color-theme-contrast = 對比
-    .title = 對比色佈景主題
-about-reader-color-theme-custom = 自訂色彩
-    .title = 自訂色彩佈景主題
 about-reader-color-light-theme = 亮色
     .title = 亮色佈景主題
 about-reader-color-dark-theme = 暗色
@@ -68,9 +54,8 @@ about-reader-font-type-monospace = 等寬
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = 關閉閱讀模式
+about-reader-toolbar-close = 關閉閱讀畫面
 about-reader-toolbar-type-controls = 字體控制
-about-reader-toolbar-color-controls = 色彩
 about-reader-toolbar-text-layout-controls = 文字與版面
 about-reader-toolbar-theme-controls = 佈景主題
 about-reader-toolbar-savetopocket = 儲存到 { -pocket-brand-name }
@@ -95,7 +80,6 @@ about-reader-custom-colors-visited-links = 已拜訪鏈結
     .title = 編輯色彩
 about-reader-custom-colors-selection-highlight = 為閱讀功能加上強調效果
     .title = 編輯色彩
-about-reader-custom-colors-reset-button = 重設為預設值
 about-reader-reset-button = 重設為預設值
 
 ## Reader View improved text and layout menu
@@ -115,9 +99,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = 行距
 about-reader-advanced-layout-header = 進階
-about-reader-slider-label-width-narrow = 窄小
-about-reader-slider-label-width-wide = 寬闊
-about-reader-slider-label-spacing-narrow = 窄小
 about-reader-character-spacing-label =
     .label = 字元間距
 about-reader-word-spacing-label =
