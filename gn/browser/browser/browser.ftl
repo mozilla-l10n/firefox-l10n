@@ -656,6 +656,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = ¿Mba’ére ahecha kóva?
     .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Aguyje ne remiandu rehe. Nderehechamoʼãvéima umi ojehekavéva.
 
 ## Reader View toolbar buttons
 
@@ -1040,6 +1043,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Noñembojurujakuaái marandurenda Windows pegua. Ndojeporavokuaái marandurenda térã ñongatuha.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
