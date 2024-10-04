@@ -23,6 +23,14 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Ñe’ẽngue ñemomichĩ
     .value = Ehai jey poravoha eiporúvo ñe’ẽjoaju mbyky ha hasy’ỹva. Ehecha he’iséva ha oikoteéva.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Eporandu chéve
+    .value = Ikatúpiko, che ra’ãmína ko jeporavo rehegua. Emba’eporandu chéve opaichagua, techapyrã, hekoetáva jepe, añete térã japugua ha mbohovái mbykýva. Eha’arõ che ñembohovái rehasa mboyve ambue porandúpe.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Emyesakã kóva
+    .value = Emyesakã ko’ã poravopyre he’iséva eikumby hag̃uáicha. Eiporu avei techapyrã.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -99,5 +107,9 @@ genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
 genai-onboarding-claude-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
 genai-onboarding-chatgpt-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
 genai-onboarding-chatgpt-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
+genai-onboarding-gemini-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
+genai-onboarding-gemini-analyze = Ehesa’ỹijo ta’ãnga (rei) ha kuatiaite (jehepyme’ẽva)
+genai-onboarding-gemini-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
+genai-onboarding-huggingchat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
