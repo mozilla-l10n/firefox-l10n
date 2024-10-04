@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = ¡Aikũmby!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = ¿Embotysépako pe tendayke?
+fx-view-discoverability-primary-button-label = Embojuruja { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Mboyke
 
 ## Split Dismiss Button Labels

@@ -94,7 +94,9 @@ genai-onboarding-select-primary = Eñepyrũ echatea
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Emoheñói moñe’ẽrã ha ayvu
-genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiate ha ta’ãnga
+genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
 genai-onboarding-claude-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
+genai-onboarding-chatgpt-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
+genai-onboarding-chatgpt-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
 genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
