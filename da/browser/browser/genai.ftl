@@ -60,3 +60,31 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spørg { $provider }...
+genai-shortcuts-hide =
+    .label = Skjul genvej til chatbot
+
+## Chatbot header
+
+genai-chatbot-title = AI-chatbot
+genai-header-provider-menu =
+    .title = Vælg en chatbot
+genai-header-options-button =
+    .title = Åbn menu
+genai-header-close-button =
+    .title = Luk
+genai-provider-view-details =
+    .label = Vis detaljer om chatbots
+genai-options-reload-generic =
+    .label = Genindlæs AI-chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Genindlæs { $provider }
+genai-options-show-shortcut =
+    .label = Vis genvej, når du markerer tekst
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
