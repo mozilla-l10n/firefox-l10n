@@ -111,5 +111,7 @@ genai-onboarding-gemini-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
 genai-onboarding-gemini-analyze = Ehesa’ỹijo ta’ãnga (rei) ha kuatiaite (jehepyme’ẽva)
 genai-onboarding-gemini-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
 genai-onboarding-huggingchat-generate = Emoheñói moñe’ẽrã ha ayvu
+genai-onboarding-huggingchat-switch = Emombue peteĩ ijurujáva aty apytépe
+genai-onboarding-huggingchat-price = Reigua; eikotevẽ mba’ete heta tembiaporãme
 genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
