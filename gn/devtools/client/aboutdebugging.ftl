@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Emyandy mboguatahára poravoha
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Emyandy USB mopotĩha mboguatahára poravoha Android pegua.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Emyandy marandurenda jeguerova ha ehecháke nde apopyvusu myanyhẽhápe añoite.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Emyandy USB mopotĩha Firefox-pe Android mba’e’okápe.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
