@@ -372,10 +372,14 @@ onboarding-new-vertical-tabs-label = سائیڈ تے ٹیباں
 onboarding-new-horizontal-tabs-label = ٹاپ تے ٹیباں
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = عمودی ٹیباں اتھ ہن
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = افقی ٹیباں متعارف کرواوݨ
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = عمودی ٹیباں ازماؤ
 onboarding-flair-text = نواں!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = افقی ٹیباں رکھو
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = سائیڈ بار وچ اے آئی چیٹ بوٹ ازماؤ
 onboarding-genai-sidebar-primary-button = چیٹ بوٹ چݨو
 onboarding-genai-sidebar-secondary-button = براؤزنگ شروع کرو
