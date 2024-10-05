@@ -77,6 +77,19 @@ webext-perms-host-description-too-many-sites =
        *[other] Accedere ai dati per { $domainCount } altri siti
     }
 
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Accedere ai dati per siti nei domini { $domain }
+
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains = Accedere ai dati per siti in { $domainCount } domini
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -94,7 +107,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Questo componente aggiunt
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
     Si tratta tipicamente di dispositivi esterni come un sintonizzatore audio, ma potrebbe anche trattarsi di dispositivi integrati nel computer.
-    
+
     Normalmente i siti web non hanno accesso ai dispositivi MIDI. Un utilizzo improprio potrebbe danneggiare il dispositivo o compromettere la sicurezza.
 
 ## Headers used in the webextension permissions dialog.
