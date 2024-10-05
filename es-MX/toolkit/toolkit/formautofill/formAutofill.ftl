@@ -5,23 +5,54 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = utilizar información almacenada del método de pago
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } está intentando utilizar la información del método de pago almacenada. Confirme el acceso a esta cuenta de Windows a continuación.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } está intentando utilizar la información del método de pago almacenada.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = mostrar información del método de pago almacenado
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está intentando mostrar la información del método de pago almacenado. Confirme el acceso a esta cuenta de Windows a continuación.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está intentando mostrar la información del método de pago almacenado.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opciones de llenado automático de formularios
 autofill-options-link-osx = Preferencias de llenado automático de formularios
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas las tarjetas guardadas en mis dispositivos
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = ¿Guardar de forma segura esta tarjeta?
+credit-card-save-doorhanger-description = { -brand-short-name } cifra su número de tarjeta. Su código de seguridad no se guardará.
 credit-card-capture-save-button =
     .label = Guardar
     .accessKey = S
 credit-card-capture-cancel-button =
     .label = Ahora no
     .accessKey = W
+credit-card-capture-never-save-button =
+    .label = Nunca guardar tarjetas
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = ¿Actualizar tarjeta?
+credit-card-update-doorhanger-description = Tarjeta para actualizar:
+credit-card-capture-save-new-button =
+    .label = Guardar como tarjeta nueva
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Actualizar tarjeta existente
+    .accessKey = U
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Limpiar formularios de autollenado
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Administrar direcciones
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Administrar métodos de pago
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

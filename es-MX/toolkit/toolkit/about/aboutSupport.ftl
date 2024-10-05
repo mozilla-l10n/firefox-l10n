@@ -15,6 +15,7 @@ support-addons-type = Tipo
 support-addons-enabled = Habilitado
 support-addons-version = Versión
 support-addons-id = ID
+legacy-user-stylesheets-title = Hojas de estilo de usuario heredadas
 legacy-user-stylesheets-enabled = Activo
 legacy-user-stylesheets-stylesheet-types = Hojas de estilo
 legacy-user-stylesheets-no-stylesheets-found = No se encontró ninguna hoja de estilo
@@ -77,6 +78,7 @@ app-basics-key-mozilla = Clave del servicio de localización de Mozilla
 app-basics-safe-mode = Modo Seguro
 app-basics-memory-size = Tamaño de la memoria (RAM)
 app-basics-disk-available = Espacio disponible del disco
+app-basics-pointing-devices = Dispositivos señaladores
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -177,18 +179,30 @@ media-capabilities-enumerate = Enumerar base de datos
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Decodificación por software
+media-codec-support-hw-decoding = Decodificación por hardware
+media-codec-support-codec-name = Nombre del códec
 media-codec-support-supported = Soporte
 media-codec-support-unsupported = No admitido
+media-codec-support-error = Información de soporte de códec no disponible. Vuelve a intentarlo después de reproducir un archivo multimedia.
+media-codec-support-lack-of-extension = Instalar extensión
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Información de los módulos de descifrado de contenido
+media-key-system-name = Nombre del la llave del sistema
+media-video-robustness = Robustez del vídeo
+media-audio-robustness = Robustez del audio
 media-cdm-capabilities = Capacidades
 # Clear Lead isn't defined in the spec, which means the the first few seconds
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Limpiar registro
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Compatible con HDCP 2.2
 
 ##
 
@@ -268,6 +282,7 @@ try-newer-driver = Bloqueado para la versión de tu controlador gráfico. Prueba
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
 compositing = Composición
+support-font-determination = Información de depuración de visibilidad de fuentes
 hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, no OMTC
 yes = Sí
@@ -413,7 +428,18 @@ support-remote-features-status = Estado
 ## Pointing devices
 
 pointing-device-mouse = Ratón
+pointing-device-touchscreen = Pantalla táctil
+pointing-device-pen-digitizer = Lápiz digitalizador
+pointing-device-none = Sin dispositivos señaladores
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Análisis de contenido (DLP)
 content-analysis-active = Activo
+content-analysis-connected-to-agent = Conectado al agente
+content-analysis-agent-path = Ruta del agente
+content-analysis-agent-failed-signature-verification = El agente falló en la verificación de firma
+content-analysis-request-count = Recuento de solicitudes

@@ -5,9 +5,21 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = Acerca de WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Información del dispositivo
+about-webauthn-info-subsection-title = Información del autenticador
+about-webauthn-options-subsection-title = Opciones del autenticador
+about-webauthn-pin-section-title = Gestión de PIN
+about-webauthn-credential-management-section-title = Administrar credenciales
+about-webauthn-pin-required-section-title = Se requiere PIN
+about-webauthn-confirm-deletion-section-title = Confirmar la eliminación
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Inscripciones biométricas
 
 ## Info field texts
 
@@ -91,17 +103,78 @@ about-webauthn-auth-option-credentialmgmtpreview = Gestión de credenciales de p
 about-webauthn-auth-option-setminpinlength = Establecer la longitud mínima del PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sin verificación de usuario
+about-webauthn-auth-option-alwaysuv = Requerir siempre verificación de usuario
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = No soportado
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Comandos de configuración del prototipo del proveedor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credenciales detectables restantes
+about-webauthn-auth-info-certifications = Certificaciones
+about-webauthn-auth-info-uv-modality = Modalidad de verificación de usuario
+about-webauthn-auth-info-preferred-platform-uv-attempts = Intentos de verificación de usuario de plataforma preferida
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = ID máximas de usuarios de confianza para establecer la longitud mínima del PIN
+about-webauthn-auth-info-max-cred-blob-length = Longitud máxima del blob de credenciales
+about-webauthn-auth-info-firmware-version = Versión de firmware
+about-webauthn-auth-info-min-pin-length = Longitud mínima del PIN
+about-webauthn-auth-info-force-pin-change = Forzar cambio de PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Tamaño máximo de una matriz de blobs grandes
 about-webauthn-auth-info-algorithms = Algoritmos
+about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-max-credential-id-length = Longitud máxima de identificación de credencial
+about-webauthn-auth-info-max-credential-count-in-list = Recuento máximo de credenciales en la lista
+about-webauthn-auth-info-pin-protocols = Protocolos PIN
+about-webauthn-auth-info-max-msg-size = Tamaño máximo del mensaje
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensiones
+about-webauthn-auth-info-versions = Versiones
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Verdadero
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Falso
+about-webauthn-auth-info-null = No admitido
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Aún se necesitan { $repeatCount } muestras.
+       *[other] Aún se necesitan { $repeatCount } muestras.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = La muestra fue buena.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = La muestra era demasiado alta.
+about-webauthn-ctap2-enroll-feedback-too-low = La muestra era demasiado baja.
+about-webauthn-ctap2-enroll-feedback-too-left = La muestra fue muy a la izquierda.
+about-webauthn-ctap2-enroll-feedback-too-right = La muestra fue muy a la derecha
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = La muestra fue demasiado rápida.
+about-webauthn-ctap2-enroll-feedback-too-slow = La muestra fue demasiado lenta.
+about-webauthn-ctap2-enroll-feedback-poor-quality = La muestra tenía mala calidad.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = La muestra estaba demasiado sesgada.
+about-webauthn-ctap2-enroll-feedback-too-short = La muestra era demasiado corta.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Error de fusión de muestra.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = La muestra ya existe.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = No hay actividad del usuario.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = El usuario no completó el muestreo como se esperaba.
+about-webauthn-ctap2-enroll-feedback-other = Error de muestra.
