@@ -8,6 +8,7 @@
 genai-settings-chat-choose = Eiporavo chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Eiporavo peteĩ
+genai-settings-chat-chatgpt-links = Eiporavóvo ChatGPT, emoneĩ ko’ã <a data-l10n-name="link1">mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">Porureko ñemigua</a> OpenAI rehegua.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
