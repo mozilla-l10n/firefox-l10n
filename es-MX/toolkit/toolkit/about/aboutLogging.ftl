@@ -33,6 +33,8 @@ about-logging-preset-networking-label = Red
 about-logging-preset-networking-description = Módulos de registro para diagnosticar problemas de red
 about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
+about-logging-preset-webrtc-description = Módulos de registro para diagnosticar llamadas WebRTC
+about-logging-preset-webgpu-label = WebGPU
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Personalizado
