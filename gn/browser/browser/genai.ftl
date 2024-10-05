@@ -111,6 +111,7 @@ genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
 genai-onboarding-claude-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
 genai-onboarding-chatgpt-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
 genai-onboarding-chatgpt-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
+genai-onboarding-chatgpt-price = Ikatúva rei ha ojehepyme’ẽva; teikotevẽ mba’ete heta tetãme g̃uarã
 genai-onboarding-gemini-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
 genai-onboarding-gemini-analyze = Ehesa’ỹijo ta’ãnga (rei) ha kuatiaite (jehepyme’ẽva)
 genai-onboarding-gemini-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete

@@ -390,6 +390,8 @@ onboarding-new-horizontal-tabs-label = Tendayke yvate gotyo
 onboarding-existing-tabs-title = Ko’ápe oĩ umi tendayke oñembo’ýva
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Ehechauka tendayke oñembo’ýva
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Eiporu umi tendayke yke gotyo oĩva. Emoambue reipotáramo tenda yke ñembohekópe.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Eiporu tendayke oñembo’ýva
 onboarding-flair-text = ¡Pyahu!
