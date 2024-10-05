@@ -110,9 +110,9 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće web stranice se 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Iznimke - spremljene lozinke
+    .title = Iznimke – spremljene lozinke
     .style = { permissions-window2.style }
-permissions-exceptions-saved-passwords-desc = { -brand-short-name } neće spremiti lozinke za stranice navedene ovdje.
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } neće spremati lozinke za ovdje navedene web stranice.
 
 ## Exceptions - Add-ons
 

@@ -352,7 +352,7 @@ applications-use-os-default =
            *[other] Koristi standardnu aplikaciju sustava
         }
 applications-use-other =
-    .label = Koristi drugi…
+    .label = Koristi druge …
 applications-select-helper = Odaberi pomoćnu aplikaciju
 applications-manage-app =
     .label = Detalji programa…
@@ -539,7 +539,7 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (standardno)
 home-mode-choice-custom =
-    .label = Prilagođeni URL-ovi…
+    .label = Prilagođeni URL-ovi …
 home-mode-choice-blank =
     .label = Prazna stranica
 home-homepage-custom-url =
@@ -1068,7 +1068,7 @@ sitedata-settings =
     .label = Upravljaj podacima …
     .accesskey = m
 sitedata-cookies-exceptions =
-    .label = Upravljanje iznimkama…
+    .label = Upravljanje iznimkama …
     .accesskey = z
 
 ## Privacy Section - Cookie Banner Handling
@@ -1349,7 +1349,7 @@ certs-view =
     .label = Prikaz certifikata…
     .accesskey = c
 certs-devices =
-    .label = Sigurnosni uređaji…
+    .label = Sigurnosni uređaji …
     .accesskey = S
 certs-thirdparty-toggle =
     .label = Dozvoli { -brand-short-name }u da automatski vjeruje korijenskim certifikatima treće strane koje si instaliraš
@@ -1435,7 +1435,7 @@ preferences-doh-checkbox-warn =
 preferences-doh-select-resolver = Odaberi pružatelja usluge:
 preferences-doh-exceptions-description = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama
 preferences-doh-manage-exceptions =
-    .label = Upravljanje iznimkama…
+    .label = Upravljanje iznimkama …
     .accesskey = r
 
 ## The following strings are used in the Download section of settings
