@@ -46,9 +46,12 @@ callout-pdfjs-draw-button = เข้าใจแล้ว!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = ไม่ได้ตั้งใจจะปิดแท็บนั้นใช่ไหม?
 fx-view-discoverability-secondary-button-label = ปิด
 
 ## Split Dismiss Button Labels
 
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = แสดงคำแนะนำน้อยลง
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = จัดการการตั้งค่า
