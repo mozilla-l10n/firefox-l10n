@@ -397,11 +397,19 @@ onboarding-existing-vertical-tabs-label = Eiporu tendayke oñembo’ýva
 onboarding-flair-text = ¡Pyahu!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Ereko Tendayke ñenohápe
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Peteĩ kundahára rovetã ohechaukáva tendayke mba’erechaha tenda yke gotyo { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Peteĩ kundahára rovetã ohechaukáva tendayke mba’erechaha tenda yke gotyo { -brand-shorter-name }.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Kundahára rovetã ohechaukáva tendayke yvate gotyo.
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Kundahára rovetã ohechaukáva tendayke yvate gotyo.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Eiporu peteĩ chatbot IA tenda yképe
 onboarding-genai-sidebar-primary-button = Eiporavo chatbot
 onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha

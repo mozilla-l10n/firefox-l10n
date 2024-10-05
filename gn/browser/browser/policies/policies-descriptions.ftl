@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Eguenohẽ kuatiáre eiporuhápe apopyvusúpe ñe�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
 policy-Windows10SSO = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Emoneĩ tembiapo ñepyrũ Microsoft Entra mba’etépe.
