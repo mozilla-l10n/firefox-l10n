@@ -26,15 +26,26 @@ about-logging-logging-to-profiler = Registrar en el { -profiler-brand-name }
 about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
+about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila para mensajes de registro
 
 ## Logging presets
 
 about-logging-preset-networking-label = Red
 about-logging-preset-networking-description = Módulos de registro para diagnosticar problemas de red
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Módulos de registro para diagnosticar problemas de cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Módulos de registro para diagnosticar problemas de WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Módulos de registro para diagnosticar problemas de HTTP/3 y QUIC
+about-logging-preset-networking-http3-upload-speed-label = Velocidad de carga HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Módulos de registro para diagnosticar problemas de velocidad de carga HTTP/3
 about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registro para diagnosticar llamadas WebRTC
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Personalizado
