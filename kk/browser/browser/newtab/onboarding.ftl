@@ -378,6 +378,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Мен оны бұрын
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Беттер қай жерде көргіңіз келетініңізді айтыңыз
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Вертикалды беттерді қолданып көріңіз
 onboarding-flair-text = Жаңа!
