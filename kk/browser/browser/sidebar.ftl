@@ -112,6 +112,8 @@ sidebar-menu-history-header =
     .heading = Тарих
 sidebar-menu-syncedtabs-header =
     .heading = Басқа құрылғылардан беттер
+sidebar-panel-header-close-button =
+    .tooltiptext = Жабу
 
 ## Titles for sidebar menu panels.
 
