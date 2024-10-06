@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = احصل عليه على متجر Google Play
+spotlight-ios-marketplace-button =
+    .title = نزّله من الـApp Store
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = نزِّل { -focus-brand-name }
+spotlight-focus-promo-subtitle = امسح رمز الـQR ضوئيًا للتنزيل
+spotlight-focus-promo-qr-code =
+    .alt = امسح رمز الـQR ضوئيا لتحصل على { -focus-brand-name }

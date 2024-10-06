@@ -5,25 +5,21 @@
 
 ## Permission Dialog
 ## Variables:
-##  $host - the hostname that is initiating the request
-##  $scheme - the type of link that's being opened.
-##  $appName - Name of the application that will be opened.
-
-## Permission Dialog
-## Variables:
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 ##  $appName (string) - Name of the application that will be opened.
 ##  $extension (string) - Name of extension that initiated the request
 
 permission-dialog-description = أتسمح لهذا الموقع بفتح رابط { $scheme }؟
-
+permission-dialog-description-file = أتسمح لهذا الملف بفتح رابط { $schime }؟
+permission-dialog-description-host = أتسمح بأن يفتح { $host } رابط { $schimee }؟
+permission-dialog-description-extension = أأسمح لامتداد { $extension } بفتح رابط { $scheme }؟
 permission-dialog-description-app = أتسمح لهذا الموقع بفتح رابط { $scheme } في { $appName }؟
-
-## Please keep the emphasis around the hostname and scheme (ie the
-## `<strong>` HTML tags). Please also keep the hostname as close to the start
-## of the sentence as your language's grammar allows.
-
+permission-dialog-description-host-app = أتسمح بأن يفتح { $host } رابط { $schimee } بواسطة { $appName }؟
+permission-dialog-description-file-app = أتسمح لهذا الملف بفتح رابط { $schime } بواسطة { $appName }؟
+permission-dialog-description-extension-app = أأسمح للامتداد { $extension } بفتح رابط { $scheme } باستخدام { $appName }؟
+permission-dialog-description-system-app = أأفتح رابط { $scheme } باستخدام { $appName }؟
+permission-dialog-description-system-noapp = أأفتح الرابط { $scheme }؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -32,12 +28,12 @@ permission-dialog-description-app = أتسمح لهذا الموقع بفتح ر
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 
+permission-dialog-remember = اسمح دائما لـ<strong>{ $host }</strong> بفتح روابط <strong>{ $scheme }</strong>
+permission-dialog-remember-file = اسمح دائما لهذا الملف بأن يفتح روابط <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = السماح دائمًا لهذا الامتداد بفتح روابط <strong>{ $scheme }</strong>
+
 ##
 
-
-## Chooser dialog
-## Variables:
-##  $scheme - the type of link that's being opened.
 
 ## Chooser dialog
 ## Variables:
@@ -48,6 +44,5 @@ choose-app-btn =
     .label = اختر…
     .accessKey = خ
 choose-other-app-window-title = تطبيق آخر…
-
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = معطّل في النوافذ الخاصة

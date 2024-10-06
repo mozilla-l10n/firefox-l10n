@@ -38,11 +38,23 @@ origin-controls-state-always-on = يمكنك دائمًا قراءة البيا�
 origin-controls-state-when-clicked = الإذن مطلوب لقراءة البيانات وتغييرها
 origin-controls-state-hover-run-visit-only = تشغيل لهذه الزيارة فقط
 origin-controls-state-runnable-hover-open = فتح الامتداد
+origin-controls-state-runnable-hover-run = تشغيل الامتداد
+origin-controls-state-temporary-access = يمكنه قراءة و تغيير بيانات هذه الزيارة
 
 ## Extension's toolbar button.
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        التصريح مطلوب
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =
