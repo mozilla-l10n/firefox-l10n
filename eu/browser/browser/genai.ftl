@@ -17,3 +17,17 @@ genai-settings-chat-choose-one-menuitem =
 
 ## Chatbot menu shortcuts
 
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Jarraitu
+genai-onboarding-secondary = Itxi
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

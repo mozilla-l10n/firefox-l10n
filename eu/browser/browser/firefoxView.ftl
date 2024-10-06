@@ -19,6 +19,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Itxi
     .aria-label = Itxi
+firefoxview-empty-state-icon =
+    .alt = Adi:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Oraintxe bertan
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Sinkronizatzen ari da
 firefoxview-syncedtabs-loading-description = Amaitutakoan, beste gailuetan irekita dituzun fitxak ikusiko dituzu. Itzuli geroago.
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure administratzaileak sinkronizazioa desgaitu duelako.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure erakundeak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako konexioa
 firefoxview-tabpickup-network-offline-description = Suebaki edo proxy bat erabiltzen baduzu, egiaztatu { -brand-short-name }(e)k weba atzitzeko baimena duela.
 firefoxview-tabpickup-network-offline-primarybutton = Saiatu berriro
@@ -184,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Emaitzarik ez "{ $query }" bilaketarako
 firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
+firefoxview-sort-open-tabs-by-recency-label = Ordenatu azken jardueraren arabera
+firefoxview-sort-open-tabs-by-order-label = Ordenatu fitxen ordenaren arabera
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
