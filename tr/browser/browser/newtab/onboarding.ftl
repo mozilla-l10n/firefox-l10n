@@ -400,10 +400,10 @@ onboarding-flair-text = Yeni!
 onboarding-existing-horizontal-tabs-label = Yatay sekmeleri kullanmaya devam et
 # Tooltip displayed on hover for vertical tabs image
 onboarding-vertical-tabs-tooltip =
-    .title = { -brand-shorter-name } kenar çubuğunda sekmelerin görüntündüğü bir tarayıcı penceresi.
+    .title = { -brand-shorter-name } kenar çubuğunda sekmelerin göründüğü bir tarayıcı penceresi.
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
-    .aria-description = { -brand-shorter-name } kenar çubuğunda sekmelerin görüntündüğü bir tarayıcı penceresi.
+    .aria-description = { -brand-shorter-name } kenar çubuğunda sekmelerin göründüğü bir tarayıcı penceresi.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Sekmelerin üstte göründüğü bir tarayıcı penceresi.
