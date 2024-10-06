@@ -90,6 +90,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Zusammenfassen, Brainstorming und mehr, während Sie surfen
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Wählen Sie einen KI-Chatbot aus, der in der { -brand-short-name }-Sidebar verwendet werden soll. Wir zeigen Details zu jedem Chatbot, wenn Sie ihn auswählen. Sie können jederzeit wechseln. <a data-l10n-name="learn-more">Weitere Informationen</a>
 genai-onboarding-primary = Weiter
 genai-onboarding-secondary = Schließen
 genai-onboarding-claude-tooltip =
@@ -107,7 +110,24 @@ genai-onboarding-huggingchat-learn = Mehr über HuggingChat erfahren
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Mehr über Le Chat erfahren
+genai-onboarding-select-header = Wählen Sie Text aus, um Vorschläge zu sehen
+genai-onboarding-select-description = Wenn Sie Text auswählen, schlagen wir Ihnen Prompts vor, die Sie an den Chatbot senden können. Sie können auch Ihre eigenen Prompts schreiben.
+genai-onboarding-select-primary = Chat starten
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Text und Code erzeugen
+genai-onboarding-claude-analyze = Dokumente und Grafiken analysieren
+genai-onboarding-claude-price = Kostenlose und kostenpflichtige Optionen; Konto erforderlich
+genai-onboarding-chatgpt-generate = Text, Grafiken und Code erzeugen
+genai-onboarding-chatgpt-analyze = Dokumente und Grafiken analysieren
+genai-onboarding-chatgpt-price = Kostenlose und kostenpflichtige Optionen; für einige Länder und Aufgaben Konto erforderlich
+genai-onboarding-gemini-generate = Text, Grafiken und Code erzeugen
+genai-onboarding-gemini-analyze = Bilder (kostenlos) und Dokumente (kostenpflichtig) analysieren
+genai-onboarding-gemini-price = Kostenlose und kostenpflichtige Optionen; Konto erforderlich
+genai-onboarding-huggingchat-generate = Text und Code erzeugen
+genai-onboarding-huggingchat-switch = Wechseln Sie zwischen einer Vielzahl offener Modelle
+genai-onboarding-huggingchat-price = Kostenlos; Konto für einige Aufgaben erforderlich
+genai-onboarding-lechat-generate = Text und Code erzeugen
+genai-onboarding-lechat-price = Kostenlos; Konto erforderlich
