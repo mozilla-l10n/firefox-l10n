@@ -153,15 +153,15 @@ webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } escuchar 
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
-webrtc-allow-share-audio-capture-with-file = ¿Permitir que esté archivo local escuche el audio de esta pestaña?
+webrtc-allow-share-audio-capture-with-file = ¿Permitir que este archivo local escuche el audio de esta pestaña?
 webrtc-allow-share-camera-with-file = ¿Permitir que este archivo local use la cámara?
 webrtc-allow-share-microphone-with-file = ¿Permitir que este archivo local use el micrófono?
 webrtc-allow-share-screen-with-file = ¿Permitir que esté archivo local vea la pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-with-file = ¿Permitir que esté archivo local use otros altavoces?
-webrtc-allow-share-camera-and-microphone-with-file = ¿Permitir que esté archivo local use la cámara y el micrófono?
-webrtc-allow-share-camera-and-audio-capture-with-file = ¿Permitir que esté archivo local use la cámara y escuche el audio de esta pestaña?
+webrtc-allow-share-speaker-with-file = ¿Permitir que este archivo local use otros altavoces?
+webrtc-allow-share-camera-and-microphone-with-file = ¿Permitir que este archivo local use la cámara y el micrófono?
+webrtc-allow-share-camera-and-audio-capture-with-file = ¿Permitir que este archivo local use la cámara y escuche el audio de esta pestaña?
 webrtc-allow-share-screen-and-microphone-with-file = ¿Permitir que este archivo local use el micrófono y vea la pantalla?
 webrtc-allow-share-screen-and-audio-capture-with-file = ¿Permitir que este archivo local escuche el audio de esta pestaña y vea la pantalla?
 

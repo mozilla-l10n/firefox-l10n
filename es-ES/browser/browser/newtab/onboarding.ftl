@@ -136,7 +136,7 @@ onboarding-live-language-installing = Instalando el pack de idioma para { $negot
 mr2022-onboarding-live-language-switch-to = Cambiar a { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Continuar en { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Cancelar
-onboarding-live-language-skip-button-label = Saltar
+onboarding-live-language-skip-button-label = Omitir
 
 ## Firefox 100 Thank You screens
 
