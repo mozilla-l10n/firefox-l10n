@@ -34,11 +34,24 @@ permission-dialog-remember-extension = السماح دائمًا لهذا الا
 
 ##
 
+permission-dialog-unset-description = عليك اختيار تطبيق.
+permission-dialog-set-change-app-link = اختر تطبيقا مختلفا.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme (string) - The type of link that's being opened.
 
+chooser-window =
+    .title = اختر تطبيقا
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog-description = اختر تطبيقا لفتح رابط { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = استخدم هذا التطبيق دائما لفتح روابط <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] يُمكن تغيير هذا من خيارات { -brand-short-name }.
+       *[other] يُمكن تغيير هذا من تفضيلات { -brand-short-name }.
+    }
 choose-other-app-description = اختر تطبيقا آخر
 choose-app-btn =
     .label = اختر…
