@@ -27,6 +27,17 @@ genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPTri buruzko argibide gehiago
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Geminiri buruzko argibide gehiago
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat-i buruzko argibide gehiago
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat-i buruzko argibide gehiago
+genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

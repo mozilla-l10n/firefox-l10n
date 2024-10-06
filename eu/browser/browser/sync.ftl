@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Bidali fitxa bat berehala saioa hasita
 fxa-menu-sign-out =
     .label = Amaitu saioa…
 fxa-menu-sync-title = Sync
+fxa-menu-sync-description = Izan zure weberako sarbidea edonon

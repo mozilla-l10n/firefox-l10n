@@ -124,7 +124,12 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ez erakutsi berriro elkarrizketa-koa
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = Argi
+tabbrowser-confirm-close-duplicate-tabs-text = Azken fitxa aktiboa irekita mantenduko dugu
 tabbrowser-confirm-close-all-duplicate-tabs-title = Bikoiztutako fitxak itxi?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Leiho honetan bikoiztuta dauden fitxak itxiko ditugu. Azken
+    fitxa aktiboa irekita mantenduko da.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Itxi fitxak
 
 ##

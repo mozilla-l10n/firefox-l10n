@@ -86,3 +86,31 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Beste gailuetako fitxak
+sidebar-panel-header-close-button =
+    .tooltiptext = Itxi
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Pertsonalizatu alboko barra
+sidebar-history-title = Historia
+sidebar-syncedtabs-title = Beste gailuetako fitxak
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Itxi { $deviceName } gailuko fitxa
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Zabaldu alboko barra
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Tolestu alboko barra
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Erakutsi alboko barra
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Ezkutatu alboko barra
