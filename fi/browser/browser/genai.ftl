@@ -60,3 +60,50 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Kysy { $provider }…
+
+## Chatbot header
+
+genai-header-provider-menu =
+    .title = Valitse chatbotti
+genai-header-options-button =
+    .title = Avaa valikko
+genai-header-close-button =
+    .title = Sulje
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Jatka
+genai-onboarding-secondary = Sulje
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Lue lisää Claudesta
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Lue lisää ChatGPT:stä
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Lue lisää Geministä
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Lue lisää HuggingChatista
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Lue lisää Le Chatista
+genai-onboarding-select-header = Valitse teksti nähdäksesi ehdotukset
+genai-onboarding-select-description = Kun valitset tekstiä, ehdotamme kehotteita, jotka voit lähettää chatbotille. Voit myös kirjoittaa omia kehotteita.
+genai-onboarding-select-primary = Aloita keskustelu
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Luo tekstiä ja koodia
+genai-onboarding-claude-analyze = Analysoi asiakirjoja ja kuvia
+genai-onboarding-claude-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
+genai-onboarding-chatgpt-generate = Luo tekstiä, kuvia ja koodia
+genai-onboarding-chatgpt-analyze = Analysoi asiakirjoja ja kuvia
+genai-onboarding-gemini-generate = Luo tekstiä, kuvia ja koodia
+genai-onboarding-gemini-analyze = Analysoi kuvia (ilmainen) ja asiakirjoja (maksullinen)
+genai-onboarding-gemini-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
+genai-onboarding-huggingchat-generate = Luo tekstiä ja koodia
+genai-onboarding-lechat-generate = Luo tekstiä ja koodia
+genai-onboarding-lechat-price = Ilmainen; tili vaaditaan

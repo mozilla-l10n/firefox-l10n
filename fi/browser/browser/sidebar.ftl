@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI-chatbotti
+menu-view-review-checker =
+    .label = Arvostelujen tarkistin
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Vaakasuuntaiset välilehdet
 sidebar-customize-tabs-header =
     .label = Välilehtiasetukset
+sidebar-customize-button-header =
+    .label = Sivupalkin painike
+sidebar-customize-position-header =
+    .label = Sivupalkin sijainti
+sidebar-visibility-setting-always-show =
+    .label = Laajenna ja supista sivupalkki
+sidebar-visibility-setting-hide-sidebar =
+    .label = Näytä ja piilota sivupalkki
 sidebar-customize-settings-header =
     .label = Sivupalkin asetukset
 sidebar-visibility-always-show =
@@ -95,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Kirjanmerkit
 sidebar-menu-customize-label =
     .label = Muokkaa sivupalkkia
+sidebar-menu-review-checker-label =
+    .label = Arvostelujen tarkistin
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +116,14 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
+sidebar-panel-header-close-button =
+    .tooltiptext = Sulje
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Muokkaa sivupalkkia
+sidebar-history-title = Sivuhistoria
+sidebar-syncedtabs-title = Välilehdet muista laitteista
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +133,14 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Sulje välilehti laitteella { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Laajenna sivupalkki
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Supista sivupalkki
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Näytä sivupalkki
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Piilota sivupalkki

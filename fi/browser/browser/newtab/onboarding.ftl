@@ -381,6 +381,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Olen käyttänyt sitä a
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Missä haluat välilehtien sijaitsevan?
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Voit vaihtaa tätä asetusta milloin vain sivupalkin asetuksista.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Välilehdet reunassa
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -389,6 +391,12 @@ onboarding-new-horizontal-tabs-label = Välilehdet ylhäällä
 onboarding-existing-tabs-title = Pystysuuntaiset välilehdet ovat täällä
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Esittelyssä pystysuuntaiset välilehdet
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Kokeile reunassa olevia välilehtiä. Voit vaihtaa tätä asetusta milloin vain sivupalkin asetuksista.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Kokeile pystysuuntaisia välilehtiä
 onboarding-flair-text = Uutta!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Pidä vaakasuuntaiset välilehdet
+onboarding-genai-sidebar-primary-button = Valitse chatbotti
+onboarding-genai-sidebar-secondary-button = Aloita selaaminen

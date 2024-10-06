@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Sulje välilehdet vasemmalla
     .accesskey = v
+close-tabs-to-the-start-vertical =
+    .label = Sulje yläpuolella olevat välilehdet
+    .accesskey = y
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Sulje välilehdet oikealla
     .accesskey = o
+close-tabs-to-the-end-vertical =
+    .label = Sulje alapuolella olevat välilehdet
+    .accesskey = a
 close-other-tabs =
     .label = Sulje muut välilehdet
     .accesskey = m
@@ -78,6 +84,13 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Jaa
     .accesskey = J
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Uusi välilehti oikealle
+    .accesskey = o
+tab-context-new-tab-open-vertical =
+    .label = Uusi välilehti alapuolelle
+    .accesskey = p
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
