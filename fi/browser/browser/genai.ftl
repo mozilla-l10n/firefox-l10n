@@ -60,15 +60,33 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Kysy { $provider }…
+genai-shortcuts-hide =
+    .label = Piilota chatbotin oikotie
 
 ## Chatbot header
 
+genai-chatbot-title = AI-chatbotti
 genai-header-provider-menu =
     .title = Valitse chatbotti
 genai-header-options-button =
     .title = Avaa valikko
 genai-header-close-button =
     .title = Sulje
+genai-provider-view-details =
+    .label = Näytä chatbotin tiedot
+genai-provider-about-chatbots =
+    .label = Tietoja näistä chatboteista
+genai-options-reload-generic =
+    .label = Lataa AI-chatbotti uudelleen
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Lataa uudelleen { $provider }
+genai-options-show-shortcut =
+    .label = Näytä oikotie tekstiä valittaessa
+genai-options-hide-shortcut =
+    .label = Piilota oikotie tekstiä valittaessa
+genai-options-about-chatbot =
+    .label = Tietoja { -brand-short-name }in AI-chatboteista
 
 ## Chatbot onboarding
 
@@ -101,9 +119,12 @@ genai-onboarding-claude-analyze = Analysoi asiakirjoja ja kuvia
 genai-onboarding-claude-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
 genai-onboarding-chatgpt-generate = Luo tekstiä, kuvia ja koodia
 genai-onboarding-chatgpt-analyze = Analysoi asiakirjoja ja kuvia
+genai-onboarding-chatgpt-price = Ilmaiset ja maksulliset vaihtoehdot; tili vaaditaan joissakin maissa ja tehtävissä
 genai-onboarding-gemini-generate = Luo tekstiä, kuvia ja koodia
 genai-onboarding-gemini-analyze = Analysoi kuvia (ilmainen) ja asiakirjoja (maksullinen)
 genai-onboarding-gemini-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
 genai-onboarding-huggingchat-generate = Luo tekstiä ja koodia
+genai-onboarding-huggingchat-switch = Vaihda useiden avointen mallien välillä
+genai-onboarding-huggingchat-price = Ilmainen; joihinkin tehtäviin tarvitaan tili
 genai-onboarding-lechat-generate = Luo tekstiä ja koodia
 genai-onboarding-lechat-price = Ilmainen; tili vaaditaan
