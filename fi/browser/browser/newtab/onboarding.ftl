@@ -376,3 +376,19 @@ onboarding-new-user-survey-familiarity-based-option-1 = Olen aivan uusi
 onboarding-new-user-survey-familiarity-based-option-2 = Olen käyttänyt sitä jonkin verran
 onboarding-new-user-survey-familiarity-based-option-3 = Olen hyvin perehtynyt siihen
 onboarding-new-user-survey-familiarity-based-option-4 = Olen käyttänyt sitä aiemmin, mutta siitä on aikaa
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Missä haluat välilehtien sijaitsevan?
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Välilehdet reunassa
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Välilehdet ylhäällä
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Pystysuuntaiset välilehdet ovat täällä
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Esittelyssä pystysuuntaiset välilehdet
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Kokeile pystysuuntaisia välilehtiä
+onboarding-flair-text = Uutta!

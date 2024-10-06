@@ -281,3 +281,15 @@ tail-fox-spotlight-title = Pidä ärsyttävät seuraimet kaukana
 tail-fox-spotlight-subtitle = Sano hyvästit ärsyttäville mainosseuraimille ja asetu turvallisempaan, nopeampaan Internet-kokemukseen.
 tail-fox-spotlight-primary-button = Avaa linkit { -brand-short-name }illa
 tail-fox-spotlight-secondary-button = Ei nyt
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Vanhemmissa { -brand-short-name }in versioissa saattaa ilmetä ongelmia 14. tammikuuta 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Päivitä jatkaaksesi { -brand-short-name }in käyttöä 14. maaliskuuta 2025 jälkeen.</strong>
+root-certificate-succession-infobar-link = Miksi minun tarvitsee päivittää?
+root-certificate-succession-infobar-primary-button =
+    .label = Päivitä nyt
+    .accesskey = P
+root-certificate-succession-infobar-secondary-button =
+    .label = Myöhemmin
+    .accesskey = M
