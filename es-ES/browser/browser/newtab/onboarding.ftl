@@ -378,3 +378,5 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado en el pasado
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Díganos dónde quiere las pestañas
