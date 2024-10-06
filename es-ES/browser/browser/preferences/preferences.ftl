@@ -1368,8 +1368,12 @@ httpsonly-radio-enabled2 =
     .label = Utilizar solo HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
     .label = Activar el modo solo-HTTPS solamente en ventanas privadas
+httpsonly-radio-enabled-pbm2 =
+    .label = Utilizar solo HTTPS en ventanas privadas
 httpsonly-radio-disabled =
     .label = No activar el modo solo-HTTPS
+httpsonly-radio-disabled2 =
+    .label = Probar HTTPS primero, pero permitir conexiones que no son seguras
 
 ## DoH Section
 

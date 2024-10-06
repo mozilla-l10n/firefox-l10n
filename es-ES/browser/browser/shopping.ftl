@@ -89,6 +89,8 @@ shopping-show-less-button = Mostrar menos
 
 shopping-settings-label =
     .label = Ajustes
+shopping-settings-recommendations-toggle2 =
+    .label = Mostrar recomendaciones y contenido patrocinado
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios en el verificador de reseñas
 shopping-settings-recommendations-learn-more2 = Verá anuncios ocasionales de productos relevantes. Solo publicitamos productos con reseñas fiables. <a data-l10n-name="review-quality-url">Saber más</a>
