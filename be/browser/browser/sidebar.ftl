@@ -52,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Гарызантальныя карткі
 sidebar-customize-tabs-header =
     .label = Налады картак
+sidebar-customize-button-header =
+    .label = Кнопка бакавой панэлі
+sidebar-customize-position-header =
+    .label = Становішча бакавой панэлі
 sidebar-customize-settings-header =
     .label = Налады бакавой панэлі
 sidebar-visibility-always-show =
@@ -108,6 +112,8 @@ sidebar-menu-history-header =
     .heading = Гісторыя
 sidebar-menu-syncedtabs-header =
     .heading = Карткі з іншых прылад
+sidebar-panel-header-close-button =
+    .tooltiptext = Закрыць
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +129,14 @@ sidebar-syncedtabs-title = Карткі з іншых прылад
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрыць картку на { $deviceName }
+
+## Tooltips for the sidebar toolbar button.
+
+sidebar-toolbar-expand-sidebar =
+    .tooltiptext = Разгарнуць бакавую панэль
+sidebar-toolbar-collapse-sidebar =
+    .tooltiptext = Згарнуць бакавую панэль
+sidebar-toolbar-show-sidebar =
+    .tooltiptext = Паказаць бакавую панэль
+sidebar-toolbar-hide-sidebar =
+    .tooltiptext = Схаваць бакавую панэль
