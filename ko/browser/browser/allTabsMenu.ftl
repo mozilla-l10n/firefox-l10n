@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = 중복 탭 닫기
 all-tabs-menu-close-all-duplicate-tabs =
     .label = 모든 중복 탭 닫기
+all-tabs-menu-synced-tabs =
+    .label = 다른 기기의 탭
