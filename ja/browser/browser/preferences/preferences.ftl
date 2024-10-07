@@ -232,7 +232,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">アドオンとテーマ</a> で { -brand-short-name } のテーマを管理する
 preferences-colors-header = 配色
-preferences-colors-description = ウェブサイトのテキスト、背景、リンクを、{ -brand-short-name } の既定の配色で上書きする。
+preferences-colors-description = ウェブサイトのテキスト、背景、リンクを、{ -brand-short-name } の既定の配色で上書きします。
 preferences-colors-manage-button =
     .label = 配色の管理...
     .accesskey = C
@@ -253,7 +253,7 @@ preferences-default-zoom = 既定のズーム
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = 文字サイズのみ変更
+    .label = 文字サイズのみ変更する
     .accesskey = t
 preferences-text-zoom-override-warning =
     .message = 警告: [文字サイズのみ変更] を選択し、既定のズームが 100% でない場合、一部のサイトやコンテンツが正しく表示されない可能性があります。
@@ -281,7 +281,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = 日付、時刻、数値、寸法の書式に、OS の “{ $localeName }” の設定を使う。
+    .label = 日付、時刻、数値、寸法の書式に、OS の “{ $localeName }” の設定を使う
 check-user-spelling =
     .label = 自動スペルチェック機能を使用する
     .accesskey = t
@@ -390,7 +390,7 @@ applications-ask-before-handling =
     .accesskey = A
 drm-content-header = デジタル著作権管理 (DRM) コンテンツ
 play-drm-content =
-    .label = DRM 制御のコンテンツを再生
+    .label = DRM 制御のコンテンツを再生する
     .accesskey = P
 play-drm-content-learn-more = 詳細情報
 update-application-title = { -brand-short-name } の更新
@@ -547,7 +547,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } コンテンツ
-home-prefs-content-description2 = { -firefox-home-brand-name } に表示するコンテンツを選びましょう。
+home-prefs-content-description2 = { -firefox-home-brand-name } に表示するコンテンツを選んでください。
 home-prefs-search-header =
     .label = ウェブ検索
 home-prefs-shortcuts-header =
@@ -1214,7 +1214,7 @@ permissions-location = 位置情報
 permissions-location-settings =
     .label = 設定...
     .accesskey = t
-permissions-xr = バーチャルリアリティ
+permissions-xr = VR デバイス
 permissions-xr-settings =
     .label = 設定...
     .accesskey = t
@@ -1266,10 +1266,10 @@ collection-header2 = { -brand-short-name } のデータ収集と利用につい�
     .searchkeywords = テレメトリー
 collection-description = 私たちはユーザーに選択肢を提供し、{ -brand-short-name } をすべての人に提供し改善するために必要なものだけを収集するよう努力しています。私たちは、個人情報を受け取る前に、常にユーザーの許可を求めます。
 collection-privacy-notice = 個人情報保護方針
-collection-health-report-telemetry-disabled = { -vendor-short-name } への技術的な対話データの送信の許可を取り消しました。過去のデータは 30 日以内にすべて削除されます。
+collection-health-report-telemetry-disabled = { -vendor-short-name } への技術データと対話データの送信の許可を取り消しました。過去のデータは 30 日以内にすべて削除されます。
 collection-health-report-telemetry-disabled-link = 詳細情報
 collection-health-report =
-    .label = { -brand-short-name } が技術的な対話データを { -vendor-short-name } へ送信することを許可する
+    .label = { -brand-short-name } が技術データと対話データを { -vendor-short-name } へ送信することを許可する
     .accesskey = r
 collection-health-report-link = 詳細情報
 collection-studies =
