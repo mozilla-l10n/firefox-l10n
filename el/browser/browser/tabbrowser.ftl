@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Άρση σίγασης καρτέλας
 tabbrowser-manager-close-tab =
     .tooltiptext = Κλείσιμο καρτέλας
+
+## Tab Groups
+
+tab-group-editor-title-create = Δημιουργία ομάδας καρτελών
+tab-group-editor-title-edit = Διαχείριση ομάδας καρτελών
+tab-group-editor-name-label = Όνομα
+tab-group-editor-name-field =
+    .placeholder = Παράδειγμα: Αγορές
+tab-group-editor-cancel =
+    .label = Ακύρωση
+    .accesskey = Α
+tab-group-editor-create =
+    .label = Δημιουργία
+    .accesskey = ρ

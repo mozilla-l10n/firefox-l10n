@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Νέα καρτέλα από κάτω
     .accesskey = α
+tab-context-new-group =
+    .label = Νέα ομάδα
+    .accesskey = ο
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

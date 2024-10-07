@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Κλείσιμο διπλών καρτελών
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Κλείσιμο όλων των διπλών καρτελών
+all-tabs-menu-synced-tabs =
+    .label = Καρτέλες από άλλες συσκευές
