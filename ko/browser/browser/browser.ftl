@@ -612,6 +612,10 @@ urlbar-result-search-with = { $engine } 검색
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
 #  or actions) to search with.
 urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode } 검색
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } 검색
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
