@@ -206,3 +206,13 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Zněmjenje rajtarka anulować
 tabbrowser-manager-close-tab =
     .tooltiptext = Rajtark začinić
+
+## Tab Groups
+
+tab-group-editor-name-label = Mjeno
+tab-group-editor-cancel =
+    .label = Přetorhnyć
+    .accesskey = P
+tab-group-editor-create =
+    .label = Wutworić
+    .accesskey = u

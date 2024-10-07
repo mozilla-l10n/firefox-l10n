@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Přetorhnyć
     .accesskey = P
-
 webext-perms-sideload-text = Druhi program na wašim ličaku je přidatk instalował, kotryž móhł waš wobhladowak kazyć. Prošu přepruwujće prawa tutoho přidatka a wubjerće Zmóžnić abo Přetorhnyć (zo byšće jón znjemóžnjeny wostajił).
 webext-perms-sideload-text-no-perms = Druhi program na wašim ličaku je přidatk instalował, kotryž móhł waš wobhladowak kazyć. Prošu wubjerće Zmóžnić abo Přetorhnyć (zo byšće jón znjemóžnjeny wostajił).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Přetorhnyć
     .accesskey = P
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } je so zaktualizował. Dyrbiće nowe prawa schwalić, prjedy hač budźe so zaktualizowana wersija instalować. Jeli „Přetorhnyć“ wubjerće, so waša aktualna wersija rozšěrjenja wobchowa. Tute rozšěrjenje změje prawo za:
 webext-perms-update-accept =
     .label = Aktualizować
     .accesskey = A
-
 webext-perms-optional-perms-list-intro = Chce:
 webext-perms-optional-perms-allow =
     .label = Dowolić
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Wotpokazać
     .accesskey = W
-
 webext-perms-host-description-all-urls = Mějće přistup k swojim datam za wšě websydła
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mějće přistup k swojim datam za sydła w domenje { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -69,7 +63,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Mějće přistup k swojim datam za { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -80,6 +73,10 @@ webext-perms-host-description-too-many-sites =
         [few] Mějće přistup k swojim datam na { $domainCount } druhich sydłach
        *[other] Mějće přistup k swojim datam na { $domainCount } druhich sydłach
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Mějće přistup k swojim datam za sydła w domenach { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Dwójne rajtarki začinić
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Wšě dwójne rajtarki začinić
+all-tabs-menu-synced-tabs =
+    .label = Rajtarki z druhich gratow
