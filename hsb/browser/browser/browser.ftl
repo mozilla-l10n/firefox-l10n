@@ -622,6 +622,11 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Z { $engine } pytać
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMode } pytać
 # Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine

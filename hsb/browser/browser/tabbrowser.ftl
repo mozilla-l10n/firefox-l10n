@@ -209,7 +209,11 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Skupinu rajtarkow wutworić
+tab-group-editor-title-edit = Skupinu rajtarkow rjadować
 tab-group-editor-name-label = Mjeno
+tab-group-editor-name-field =
+    .placeholder = Přikład: Nakupowanje
 tab-group-editor-cancel =
     .label = Přetorhnyć
     .accesskey = P
