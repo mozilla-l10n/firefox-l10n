@@ -11,12 +11,12 @@
 ##  $extension (string) - Name of extension that initiated the request
 
 permission-dialog-description = أتسمح لهذا الموقع بفتح رابط { $scheme }؟
-permission-dialog-description-file = أتسمح لهذا الملف بفتح رابط { $schime }؟
-permission-dialog-description-host = أتسمح بأن يفتح { $host } رابط { $schimee }؟
+permission-dialog-description-file = أتسمح لهذا الملف بفتح رابط { $scheme }؟
+permission-dialog-description-host = أتسمح بأن يفتح { $host } رابط { $scheme }؟
 permission-dialog-description-extension = أأسمح لامتداد { $extension } بفتح رابط { $scheme }؟
 permission-dialog-description-app = أتسمح لهذا الموقع بفتح رابط { $scheme } في { $appName }؟
-permission-dialog-description-host-app = أتسمح بأن يفتح { $host } رابط { $schimee } بواسطة { $appName }؟
-permission-dialog-description-file-app = أتسمح لهذا الملف بفتح رابط { $schime } بواسطة { $appName }؟
+permission-dialog-description-host-app = أتسمح بأن يفتح { $host } رابط { $scheme } بواسطة { $appName }؟
+permission-dialog-description-file-app = أتسمح لهذا الملف بفتح رابط { $scheme } بواسطة { $appName }؟
 permission-dialog-description-extension-app = أأسمح للامتداد { $extension } بفتح رابط { $scheme } باستخدام { $appName }؟
 permission-dialog-description-system-app = أأفتح رابط { $scheme } باستخدام { $appName }؟
 permission-dialog-description-system-noapp = أأفتح الرابط { $scheme }؟
