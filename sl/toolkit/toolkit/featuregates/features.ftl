@@ -29,11 +29,17 @@ experimental-features-ime-search =
 experimental-features-auto-pip =
     .label = Slika v sliki: samodejno odpri ob preklopu na zavihek
 experimental-features-auto-pip-description = Omogoči sliko v sliki za aktivne videoposnetke ob preklopu z enega zavihka na drugega.
-experimental-features-group-browsing =
-    .label = Brskanje
+# Updated sidebar settings
+sidebar-title =
+    .label = Stranska vrstica
+sidebar-description = Med brskanjem imejte enostaven dostop do zgodovine, zavihkov z drugih naprav, razširitev in drugih možnosti. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+vertical-tabs-title =
+    .label = Navpični zavihki
+vertical-tabs-description = Premaknite zavihke z vrha ob stran brskalnika. Predpogoj je omogočena stranska vrstica. <a data-l10n-name="connect">Sporočite povratne informacije</a>
 experimental-features-group-developer-tools =
     .label = Razvojna orodja
 experimental-features-group-webpage-display =
     .label = Prikaz spletnih strani
 experimental-features-group-customize-browsing =
     .label = Prilagodite svoje brskanje
+experimental-features-group-customize-browsing-description = Če preizkusite te funkcije, <a data-l10n-name="connect">sporočite svoje mnenje na Connect</a>

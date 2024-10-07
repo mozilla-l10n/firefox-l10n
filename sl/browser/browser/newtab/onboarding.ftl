@@ -380,3 +380,20 @@ onboarding-new-user-survey-familiarity-based-option-4 = uporabljal/a sem ga v pr
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Kje želite imeti zavihke?
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Ob strani
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Na vrhu
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Navpični zavihki so tu
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Predstavljamo navpične zavihke
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Preizkusite navpične zavihke
+onboarding-flair-text = Novo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Obdrži vodoravne zavihke
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Okno brskalnika, v katerem so zavihki prikazani vzdolž roba zaslona v { -brand-shorter-name }ovi stranski vrstici.
+onboarding-genai-sidebar-secondary-button = Začni z brskanjem

@@ -288,3 +288,15 @@ tail-fox-spotlight-title = Spravite nadležne sledilce s svoje sledi
 tail-fox-spotlight-subtitle = Poslovite se od nadležnega sledenja oglasov in se prepustite varnejšemu in hitrejšemu internetu.
 tail-fox-spotlight-primary-button = Odpiraj povezave v { -brand-short-name(sklon: "mestnik") }
 tail-fox-spotlight-secondary-button = Ne zdaj
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>V starejših različicah { -brand-short-name(sklon: "rodilnik") } se bodo po 14. januarju 2025 morda pojavile težave.</strong>
+root-certificate-succession-infobar-march-message = <strong>Posodobite za nemoteno uporabo { -brand-short-name(sklon: "rodilnik") } tudi po 14. marcu 2025.</strong>
+root-certificate-succession-infobar-link = Zakaj moram izvesti posodobitev?
+root-certificate-succession-infobar-primary-button =
+    .label = Posodobi zdaj
+    .accesskey = P
+root-certificate-succession-infobar-secondary-button =
+    .label = Pozneje
+    .accesskey = n
