@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Stäng dubbla flikar
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Stäng alla dubbla flikar
+all-tabs-menu-synced-tabs =
+    .label = Flikar från andra enheter

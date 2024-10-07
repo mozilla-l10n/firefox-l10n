@@ -172,3 +172,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ljud på för flik
 tabbrowser-manager-close-tab =
     .tooltiptext = Stäng flik
+
+## Tab Groups
+
+tab-group-editor-title-create = Skapa flikgrupp
+tab-group-editor-title-edit = Hantera flikgrupp
+tab-group-editor-name-label = Namn
+tab-group-editor-name-field =
+    .placeholder = Exempel: Shopping
+tab-group-editor-cancel =
+    .label = Avbryt
+    .accesskey = A
+tab-group-editor-create =
+    .label = Skapa
+    .accesskey = S
