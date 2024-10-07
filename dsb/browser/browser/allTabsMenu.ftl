@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Dwójne rejtariki zacyniś
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Wšykne dwójne rejtariki zacyniś
+all-tabs-menu-synced-tabs =
+    .label = Rejtariki z drugich rědow

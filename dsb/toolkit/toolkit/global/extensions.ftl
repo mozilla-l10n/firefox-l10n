@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Pśetergnuś
     .accesskey = P
-
 webext-perms-sideload-text = Drugi program na wašom licadle jo dodank instalěrował, kótaryž by mógał waš wobglědowak kazyś. Pšosym pśeglědujśo pšawa toś togo dodanka a wubjeŕśo Zmóžniś abo Pśetergnuś (aby jen znjemóžnjony wóstajił).
 webext-perms-sideload-text-no-perms = Drugi program na wašom licadle jo dodank instalěrował, kótaryž by mógał waš wobglědowak kazyś. Pšosym wubjeŕśo Zmóžniś abo Pśetergnuś (aby jen znjemóžnjony wóstajił).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Pśetergnuś
     .accesskey = P
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } jo se aktualizěrował. Musyśo nowe pšawa pśizwóliś, nježli až buźo se aktualizěrowana wersija instalěrowaś. Jolic wubjerjośo „Pśetergnuś“, se waša aktualna wersija rozšyrjenja zdźaržyjo. Toś to rozšyrjenje změjo pšawo za:
 webext-perms-update-accept =
     .label = Aktualizěrowaś
     .accesskey = A
-
 webext-perms-optional-perms-list-intro = Co:
 webext-perms-optional-perms-allow =
     .label = Dowóliś
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Wótpokazaś
     .accesskey = W
-
 webext-perms-host-description-all-urls = Mějśo pśistup k swójim datam za wšykne websedła
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mějśo pśistup k swójim datam za sedła w domenje { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -69,7 +63,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Mějśo pśistup k swójim datam za { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -80,6 +73,10 @@ webext-perms-host-description-too-many-sites =
         [few] Mějśo pśistup k swójim datam na { $domainCount } drugich sedłach
        *[other] Mějśo pśistup k swójim datam na { $domainCount } drugich sedłach
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Mějśo pśistup k swójim datam za sedła w domenach { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

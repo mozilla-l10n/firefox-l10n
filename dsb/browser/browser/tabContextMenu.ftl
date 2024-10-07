@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Nowy rejtarik dołojce
     .accesskey = w
+tab-context-new-group =
+    .label = Nowa kupka
+    .accesskey = o
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

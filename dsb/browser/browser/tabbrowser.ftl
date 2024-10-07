@@ -206,3 +206,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Rejtarik głosny cyniś
 tabbrowser-manager-close-tab =
     .tooltiptext = Rejtarik zacyniś
+
+## Tab Groups
+
+tab-group-editor-title-create = Rejtarikowu kupku napóraś
+tab-group-editor-title-edit = Rejtarikowu kupku zastojaś
+tab-group-editor-name-label = Mě
+tab-group-editor-name-field =
+    .placeholder = Pśikład: Nakupowanje
+tab-group-editor-cancel =
+    .label = Pśetergnuś
+    .accesskey = P
+tab-group-editor-create =
+    .label = Napóraś
+    .accesskey = N
