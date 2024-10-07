@@ -146,3 +146,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = 탭 음소거 해제
 tabbrowser-manager-close-tab =
     .tooltiptext = 탭 닫기
+
+## Tab Groups
+
+tab-group-editor-title-create = 탭 그룹 만들기
+tab-group-editor-title-edit = 탭 그룹 관리
+tab-group-editor-name-label = 이름
+tab-group-editor-name-field =
+    .placeholder = 예: 쇼핑
+tab-group-editor-cancel =
+    .label = 취소
+    .accesskey = C
+tab-group-editor-create =
+    .label = 만들기
+    .accesskey = r
