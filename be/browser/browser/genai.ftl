@@ -60,3 +60,30 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Спытаць { $provider }…
+
+## Chatbot header
+
+genai-chatbot-title = Чат-бот ШІ
+genai-header-provider-menu =
+    .title = Выберыце чат-бота
+genai-header-options-button =
+    .title = Адкрыць меню
+genai-header-close-button =
+    .title = Закрыць
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Працягнуць
+genai-onboarding-secondary = Закрыць
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

@@ -129,7 +129,7 @@ urlbar-result-menu-tip-get-help =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Уводзьце менш, знаходзьце больш: Пошук { $engineName } наўпрост у адрасным радку.
+urlbar-search-tips-onboard = Уводзьце менш, знаходзьце больш: Пошук { $engineName } наўпрост у адрасным радку.
 urlbar-search-tips-redirect-2 = Пачніце свой пошук у адрасным радку, каб пабачыць прапановы ад { $engineName } і з вашай гісторыі аглядання.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Пошук стаў прасцейшым. Паспрабуйце ўдакладніць свой пошукавы запыт тут, у адрасным радку. Каб паказваць URL-адрас замест гэтага, наведайце раздзел «Пошук» у наладах.
