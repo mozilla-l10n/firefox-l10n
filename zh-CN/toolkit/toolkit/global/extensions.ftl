@@ -49,7 +49,7 @@ webext-perms-optional-perms-deny =
 webext-perms-host-description-all-urls = 访问您在所有网站的数据
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = 访问您在 { $domain } 域名的数据
+webext-perms-host-description-wildcard = 访问您在 { $domain } 域名下的数据
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
