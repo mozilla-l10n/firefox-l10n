@@ -196,3 +196,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Восстановить звук во вкладке
 tabbrowser-manager-close-tab =
     .tooltiptext = Закрыть вкладку
+
+## Tab Groups
+
+tab-group-editor-title-create = Создать группу вкладок
+tab-group-editor-title-edit = Управление группой вкладок
+tab-group-editor-name-label = Имя
+tab-group-editor-name-field =
+    .placeholder = Пример: Шоппинг
+tab-group-editor-cancel =
+    .label = Отмена
+    .accesskey = С
+tab-group-editor-create =
+    .label = Создать
+    .accesskey = к
