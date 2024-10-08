@@ -176,7 +176,10 @@ tabbrowser-manager-close-tab =
 ## Tab Groups
 
 tab-group-editor-title-create = Crear gruppo de schedas
+tab-group-editor-title-edit = Gerer gruppo de schedas
 tab-group-editor-name-label = Nomine
+tab-group-editor-name-field =
+    .placeholder = Exemplo: compras
 tab-group-editor-cancel =
     .label = Cancellar
     .accesskey = C

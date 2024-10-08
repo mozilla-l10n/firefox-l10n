@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Clauder schedas duplicate
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Clauder tote le schedas duplicate
+all-tabs-menu-synced-tabs =
+    .label = Schedas ab altere apparatos
