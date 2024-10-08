@@ -90,6 +90,7 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Resuma, tenha ideias e muito mais enquanto navega
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Fechar
 genai-onboarding-claude-tooltip =
@@ -109,6 +110,7 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = Saiba mais sobre o Le Chat
 genai-onboarding-select-header = Selecione texto para ver sugestões
 genai-onboarding-select-description = Ao selecionar texto, sugerimos consultas que você pode enviar ao chatbot. Você também pode escrever suas próprias consultas.
+genai-onboarding-select-primary = Comece a conversar
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -123,6 +125,7 @@ genai-onboarding-gemini-generate = Geração de texto, imagens e código
 genai-onboarding-gemini-analyze = Análise de imagens (gratuito) e documentos (pago)
 genai-onboarding-gemini-price = Opções gratuito e pago, precisa ter conta
 genai-onboarding-huggingchat-generate = Geração de texto e código
+genai-onboarding-huggingchat-switch = Alterne entre um conjunto diverso de modelos abertos
 genai-onboarding-huggingchat-price = Gratuito, precisa ter conta para algumas tarefas
 genai-onboarding-lechat-generate = Geração de texto e código
 genai-onboarding-lechat-price = Gratuito, precisa ter conta

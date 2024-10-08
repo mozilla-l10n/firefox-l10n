@@ -177,3 +177,15 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ativar som da aba
 tabbrowser-manager-close-tab =
     .tooltiptext = Fechar aba
+
+## Tab Groups
+
+tab-group-editor-name-label = Nome
+tab-group-editor-name-field =
+    .placeholder = Exemplo: Compras
+tab-group-editor-cancel =
+    .label = Cancelar
+    .accesskey = C
+tab-group-editor-create =
+    .label = Criar
+    .accesskey = r
