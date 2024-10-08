@@ -72,7 +72,7 @@ webext-perms-host-description-too-many-sites =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
-webext-perms-host-description-one-domain = גישה לנתונים שלך עבור אתרים תחת שמות המתחם { $domain }
+webext-perms-host-description-one-domain = גישה לנתונים שלך עבור אתרים תחת שמות המתחם של { $domain }
 # Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
 # be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
 # used instead).
