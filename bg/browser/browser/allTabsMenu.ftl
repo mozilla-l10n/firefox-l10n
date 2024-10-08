@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Затваряне на дублиращите се раздели
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Затваряне на всички дублиращи се раздели
+all-tabs-menu-synced-tabs =
+    .label = Раздели от други устройства
