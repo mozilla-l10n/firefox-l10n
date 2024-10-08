@@ -375,3 +375,43 @@ onboarding-new-user-survey-familiarity-based-option-1 = Tôi là người mới
 onboarding-new-user-survey-familiarity-based-option-2 = Tôi đã sử dụng nó nhiều lúc
 onboarding-new-user-survey-familiarity-based-option-3 = Tôi rất quen thuộc với nó
 onboarding-new-user-survey-familiarity-based-option-4 = Tôi có dùng nó trước đây, nhưng đã rất lâu rồi
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Hãy cho chúng tôi biết bạn muốn đặt thẻ ở đâu
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Chuyển sang thẻ ở trên cùng bất cứ khi nào bạn muốn trong cài đặt thanh lề.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Thẻ ở bên cạnh
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Thẻ ở trên cùng
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Các thẻ dọc ở đây
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Giới thiệu thẻ dọc
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Hãy thử thẻ của bạn ở bên cạnh. Chuyển sang thẻ ở trên cùng bất cứ khi nào bạn muốn trong cài đặt thanh lề.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Hãy thử thẻ dọc (Vertical tabs)
+onboarding-flair-text = Mới!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Giữ thẻ ở trên cùng
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Cửa sổ trình duyệt hiển thị các thẻ dọc theo cạnh màn hình như một phần của thanh lề { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Cửa sổ trình duyệt hiển thị các thẻ dọc theo cạnh màn hình như một phần của thanh lề { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Một cửa sổ trình duyệt hiển thị các thẻ dọc theo phía trên.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Một cửa sổ trình duyệt hiển thị các thẻ dọc theo phía trên.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Hãy thử chatbot AI trong thanh lề
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Tổng hợp nội dung web, lên ý tưởng, soạn thảo tin nhắn — tất cả khi bạn duyệt. Chọn từ nhiều nhà cung cấp. Chuyển đổi bất kỳ lúc nào. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+onboarding-genai-sidebar-primary-button = Chọn một chatbot
+onboarding-genai-sidebar-secondary-button = Bắt đầu duyệt web
