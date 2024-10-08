@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ljepblêd dôvje opheffe
 tabbrowser-manager-close-tab =
     .tooltiptext = Ljepblêd slute
+
+## Tab Groups
+
+tab-group-editor-title-create = Ljepblêdgroep meitsje
+tab-group-editor-title-edit = Ljepblêdgroep beheare
+tab-group-editor-name-label = Namme
+tab-group-editor-name-field =
+    .placeholder = Foarbyld: winkelje
+tab-group-editor-cancel =
+    .label = Annulearje
+    .accesskey = A
+tab-group-editor-create =
+    .label = Oanmeitsje
+    .accesskey = m
