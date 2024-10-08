@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 all-tabs-menu-close-all-duplicate-tabs =
     .label = ਸਭ ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+all-tabs-menu-synced-tabs =
+    .label = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ

@@ -60,3 +60,55 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = …{ $provider } ਨੂੰ ਪੁੱਛੋ
+genai-shortcuts-hide =
+    .label = ਚੈਟਬੋਟ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਓਹਲੇ ਕਰੋ
+
+## Chatbot header
+
+genai-chatbot-title = AI ਚੈਟਬੋਟ
+genai-header-provider-menu =
+    .title = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
+genai-header-options-button =
+    .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+genai-header-close-button =
+    .title = ਬੰਦ ਕਰੋ
+genai-provider-view-details =
+    .label = ਚੈਟ-ਬੋਟ ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
+genai-provider-about-chatbots =
+    .label = ਇਹਨਾਂ ਚੈਟ-ਬੋਟ ਬਾਰੇ
+genai-options-reload-generic =
+    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
+genai-options-show-shortcut =
+    .label = ਜਦੋਂ ਲਿਖਤ ਚੁਣਨਾ ਹੋਵੇ ਤਾਂ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਦਿਖਾਓ
+genai-options-hide-shortcut =
+    .label = ਜਦੋਂ ਲਿਖਤ ਚੁਣਨਾ ਹੋਵੇ ਤਾਂ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਓਹਲੇ ਕਰੋ
+genai-options-about-chatbot =
+    .label = { -brand-short-name } ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਬਾਰੇ
+
+## Chatbot onboarding
+
+genai-onboarding-primary = ਜਾਰੀ ਰੱਖੋ
+genai-onboarding-secondary = ਬੰਦ ਕਰੋ
+genai-onboarding-claude-learn = Claude ਬਾਰੇ ਹੋਰ ਸਿਖੋ
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = HuggingChat ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
+genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-huggingchat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
