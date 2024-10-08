@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Cá nhân hóa thẻ mới
 newtab-personalize-dialog-label =
     .aria-label = Cá nhân hóa
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -233,6 +235,8 @@ newtab-pocket-cta-button = Sử dụng { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } là một phần của gia đình { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Lưu
 newtab-pocket-saved = Đã lưu
 
