@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = 關閉重複的分頁
 all-tabs-menu-close-all-duplicate-tabs =
     .label = 關閉所有重複的分頁
+all-tabs-menu-synced-tabs =
+    .label = 來自其他裝置的分頁

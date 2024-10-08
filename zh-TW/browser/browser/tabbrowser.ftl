@@ -147,6 +147,11 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = 建立分頁群組
+tab-group-editor-title-edit = 管理分頁群組
+tab-group-editor-name-label = 名稱
+tab-group-editor-name-field =
+    .placeholder = 例如：購物
 tab-group-editor-cancel =
     .label = 取消
     .accesskey = C
