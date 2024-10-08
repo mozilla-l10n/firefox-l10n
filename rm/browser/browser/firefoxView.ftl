@@ -68,7 +68,7 @@ firefoxview-tabpickup-password-locked-description = Per ir per tes tabs stos ti 
 firefoxview-tabpickup-password-locked-link = Ulteriuras infurmaziuns
 firefoxview-tabpickup-password-locked-primarybutton = Endatar il pled-clav universal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ulteriuras infurmaziuns</a>
-firefoxview-tabpickup-signed-out-header = T\'annunzia per reconnectar
+firefoxview-tabpickup-signed-out-header = T’annunzia per reconnectar
 firefoxview-tabpickup-signed-out-description = Per reconnectar ed ir per tes tabs, t'annunzia en tes { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Per reconnectar ed ir per tes tabs, t'annunzia en tes conto.
 firefoxview-tabpickup-signed-out-primarybutton = S'annunziar
