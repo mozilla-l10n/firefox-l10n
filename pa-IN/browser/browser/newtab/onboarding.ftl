@@ -387,3 +387,12 @@ onboarding-new-vertical-tabs-label = ਬਾਹੀ ਉੱਤੇ ਟੈਬ
 onboarding-new-horizontal-tabs-label = ਟੈਬਾਂ ਉੱਤੇ
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਇੱਥੇ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਪੇਸ਼ ਹਨ
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
+onboarding-flair-text = ਨਵਾਂ!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ ਰੱਖੋ
+onboarding-genai-sidebar-primary-button = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
+onboarding-genai-sidebar-secondary-button = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ

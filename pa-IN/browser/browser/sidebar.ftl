@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI ਚੈਟਬੋਟ
+menu-view-review-checker =
+    .label = ਰੀਵਿਊ ਚੈਕਰ
 
 ## Labels for sidebar history panel
 
@@ -105,6 +107,9 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
 
+## Titles for sidebar menu panels.
+
+
 ## Context for closing synced tabs when hovering over the items
 
 # Context for hovering over the close tab button that will
@@ -113,3 +118,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } ਉੱਤੇ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
+
+## Tooltips for the sidebar toolbar widget.
+
