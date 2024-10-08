@@ -476,6 +476,7 @@ details-notification-unsigned-link = Más información
 details-notification-blocked = Se deshabilitó { $name } debido a problemas de seguridad o estabilidad.
 details-notification-blocked2 =
     .message = Se deshabilitó { $name } debido a problemas de seguridad o estabilidad.
+details-notification-blocked-link2 = Ver detalles
 details-notification-blocked-link = Más información
 details-notification-softblocked = Se sabe que { $name } causa problemas de seguridad o estabilidad.
 details-notification-softblocked2 =
