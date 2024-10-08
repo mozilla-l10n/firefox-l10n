@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Sagen iccer amaynut
 newtab-personalize-dialog-label =
     .aria-label = Sagen
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -224,7 +226,6 @@ newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sekles
 newtab-pocket-saved = Yettwasekles
 

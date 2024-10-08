@@ -205,6 +205,8 @@ cfr-cbh-confirm-button = Agi iɣarracen n yinagan n tuqqna
     .accesskey = A
 cfr-cbh-dismiss-button = Mačči tura
     .accesskey = M
+cookie-banner-blocker-onboarding-header = { -brand-short-name } yugi iɣerracen n yinagan n tuqqna
+cookie-banner-blocker-onboarding-body = Drus n usedhu d yinagan n tuqqna ara ak-iḍefren ɣef usmel-a.
 cookie-banner-blocker-onboarding-learn-more = Issin ugar
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -274,6 +276,7 @@ tail-fox-spotlight-secondary-button = Mačči tura
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-march-message = <strong>Leqqem i ukemmel n useqdec { -brand-short-name } send 14 deg meɣres 2025.</strong>
 root-certificate-succession-infobar-link = Ayɣer i sriɣ aleqqem?
 root-certificate-succession-infobar-primary-button =
     .label = Leqqem tura
