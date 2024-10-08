@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Zavrieť duplicitné karty
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Zavrieť všetky duplicitné karty
+all-tabs-menu-synced-tabs =
+    .label = Karty z ďalších zariadení

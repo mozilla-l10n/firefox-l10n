@@ -75,6 +75,19 @@ webext-perms-host-description-too-many-sites =
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
 webext-perms-host-description-one-domain = Pristupovať k vašim údajom webových stránok v doménach { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] Prístup k údajom webových stránok na { $domain } doméne
+        [few] Prístup k údajom webových stránok na { $domain } doménach
+        [many] Prístup k údajom webových stránok na { $domain } doménach
+       *[other] Prístup k údajom webových stránok na { $domain } doménach
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
