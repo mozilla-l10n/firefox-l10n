@@ -534,7 +534,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
-    .value = Անցնել ներդիրի՝
+    .value = Փոխարկել ներդիրին՝
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝

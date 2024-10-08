@@ -452,7 +452,7 @@ browsing-media-control =
     .accesskey = v
 browsing-media-control-learn-more = Իմանալ ավելին
 browsing-cfr-recommendations =
-    .label = Զննարկելիս առաջարկել հավելումներ
+    .label = Դիտարկելիս առաջարկել ընդլայնումներ
     .accesskey = R
 browsing-cfr-features =
     .label = Զննարկելիս առաջարկել յուրահատկություններ
@@ -475,10 +475,10 @@ home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ 
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Տուն էջ և նոր պատուհաններ
-home-newtabs-mode-label = Նոր Ներդիրներ
+home-homepage-mode-label = Տնէջ և նոր պատուհաններ
+home-newtabs-mode-label = Նոր ներդիրներ
 home-restore-defaults =
-    .label = Վերականգնել ծրագրայինը
+    .label = Վերականգնել սկզբնադիրը
     .accesskey = R
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (սկզբնադիր)
@@ -505,7 +505,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = { -firefox-home-brand-name } բովանդակություն
+home-prefs-content-header2 = { -firefox-home-brand-name }-ի բովանդակություն
 home-prefs-content-description2 = Ընտրեք, թե ինչ բովանդակություն պետք է ունենա { -firefox-home-brand-name }-ի էկրանը:
 home-prefs-search-header =
     .label = Վեբ որոնում
@@ -538,7 +538,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ում պահված էջեր
 home-prefs-recent-activity-header =
     .label = Վերջին ակտիվություն
-home-prefs-recent-activity-description = Վերջին կայքերի և բովանդակության ընտրում
+home-prefs-recent-activity-description = Վերջին կայքերի և բովանդակության ընտրանին
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -563,11 +563,11 @@ search-bar-hidden =
 search-bar-shown =
     .label = Ավելացնել որոնման գոտին գործիքագոտիում
 search-engine-default-header = Սկզբնադիր որոնիչ
-search-engine-default-desc-2 = Սա ձեր լռելյայն որոնման միջոցն է հասցեագոտում և որոնման գոտում։ Դուք կարող եք փոխել այն ցանկացած ժամանակ։
-search-engine-default-private-desc-2 = Ընտրեք այլ լռելյայն որոնման միջոց անձնական պատուհանների համար միայն
+search-engine-default-desc-2 = Սա Ձեր սկզբնադիր որոնիչն է հասցեագոտում և որոնման գոտում։ Դուք կարող եք փոխել այն ցանկացած ժամանակ։
+search-engine-default-private-desc-2 = Ընտրեք այլ որոնիչ՝ գաղտնի պատուհանների համար միայն
 search-separate-default-engine =
-    .label = Անձնական պատուհաններում օգտագործեք այս որոնիչը
-    .accesskey = U
+    .label = Օգտագործել այս որոնիչը գաղտնի պատուհաններում
+    .accesskey = Օ
 search-suggestions-header = Որոնել առաջարկություն
 search-suggestions-desc = Ընտրեք, թե ինչպես են որոնման առաջարկները երևում։
 search-suggestions-option =

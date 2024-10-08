@@ -134,7 +134,7 @@ firefoxview-opentabs-window-header =
 firefoxview-opentabs-current-window-header =
     .title = Պատուհան՝ { $winID } (ընթացիկ)
 firefoxview-opentabs-focus-tab =
-    .title = Փոխարկել այս ներդիրին
+    .title = Փոխարկվել այս ներդիրին
 firefoxview-show-more = Ցուցադրել ավելին
 firefoxview-show-less = Ցուցադրել ավելի քիչ
 firefoxview-show-all = Ցուցադրել բոլորը
@@ -177,7 +177,7 @@ firefoxview-sort-open-tabs-by-order-label = Տեսակավորել ըստ` նե�
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
-    .title = Անցնել { $url }-ին
+    .title = Փոխարկվել { $url }-ին
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -189,7 +189,7 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
-firefoxview-history-site-localhost = (Տեղային ֆայլեր)
+firefoxview-history-site-localhost = (տեղային ֆայլեր)
 
 ##
 

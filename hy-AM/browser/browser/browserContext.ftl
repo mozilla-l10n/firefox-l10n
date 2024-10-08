@@ -299,7 +299,7 @@ main-context-menu-use-saved-login =
     .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
-    .label = Օգտագործեք պահված գաղտնաբառը
+    .label = Օգտվել պահված գաղտնաբառից
     .accesskey = o
 
 ##
@@ -309,7 +309,7 @@ main-context-menu-use-relay-mask =
     .accesskey = Է
 main-context-menu-suggest-strong-password =
     .label = Առաջարկել ուժեղ գաղտնաբառ…
-    .accesskey = S
+    .accesskey = Ա
 main-context-menu-manage-logins2 =
     .label = Կառավարել մուտքագրումները
     .accesskey = M
