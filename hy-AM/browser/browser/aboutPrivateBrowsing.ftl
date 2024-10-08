@@ -13,11 +13,11 @@ about-private-browsing-search-btn =
 about-private-browsing-handoff =
     .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 about-private-browsing-handoff-no-engine =
-    .title = Որոնեք կամ մուտքագրեք հասցեն
+    .title = Որոնեք կամ մուտքագրեք հասցե
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
-about-private-browsing-handoff-text-no-engine = Որոնեք կամ մուտքագրեք հասցեն
+about-private-browsing-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
+about-private-browsing-handoff-text-no-engine = Որոնեք կամ մուտքագրեք հասցե
 about-private-browsing-not-private = Դուք այժմ գաղտնի պատուհանում չեք:
 about-private-browsing-info-description-private-window = Գաղտնի պատուհան. { -brand-short-name }-ը մաքրում է Ձեր որոնումը և դիտարկման պատնությունը՝ երբ փակում եք բոլոր գաղտնի պատուհանները: Սա Ձեզ անանուն չի դարձնում:
 about-private-browsing-info-description-simplified = { -brand-short-name }-ը մաքրում է Ձեր որոնման և դիտարկման պատմությունը, երբ փակում եք բոլոր գաղտնի պատուհանները, բայց դա Ձեզ անանուն չի դարձնում:
@@ -39,11 +39,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրո�
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը ձեր որոնման սկզբնադիր միջոցն է
+about-private-browsing-search-banner-title = { $engineName }-ը Ձեր սկզբնադիր որոնիչն է գաղտնի պատուհաններում
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>
-       *[other] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options"> Նախընտրություններ</a>
+        [windows] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>
+       *[other] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options"> Նախընտրանքներ</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել

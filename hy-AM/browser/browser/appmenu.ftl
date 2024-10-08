@@ -20,7 +20,7 @@ appmenuitem-new-tab =
 appmenuitem-new-window =
     .label = Նոր պատուհան
 appmenuitem-new-private-window =
-    .label = Սկսել գաղտնի դիտարկում
+    .label = Նոր գաղտնի պատուհան
 appmenuitem-history =
     .label = Պատմություն
 appmenuitem-downloads =
@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Ցուցադրել ավելի շատ ներդիրներ
     .tooltiptext = Ցուցադրել ավելի շատ ներդիրներ այս սարքի համար
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Ցուցադրել մեկ ոչ ակտիվ ներդիր
-           *[other] Ցուցադրել { $count } ոչ ակտիվ ներդիրներ
-        }
-    .tooltiptext = Ցուցադրել ոչ ակտիվ ներդիրներն այս սարքում
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Չգործող ներդիրներ
@@ -235,7 +225,7 @@ appmenu-help-share-ideas =
     .label = Կիսվեք գաղափարներով և կարծիքներով…
     .accesskey = S
 appmenu-help-switch-device =
-    .label = Անցում նոր սարքի
+    .label = Փոխարկվում է նոր սարքին
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -274,5 +264,5 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ստացեք ծանուցումներ տվյալների արտահոսման մասին
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
-appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
