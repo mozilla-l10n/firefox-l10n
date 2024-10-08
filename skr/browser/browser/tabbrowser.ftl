@@ -180,3 +180,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ٹیب کوں چالو کرو
 tabbrowser-manager-close-tab =
     .tooltiptext = ٹیب بند کرو
+
+## Tab Groups
+
+tab-group-editor-title-create = ٹیب گروپ خلقو
+tab-group-editor-title-edit = ٹیب گروپ منیج کرو
+tab-group-editor-name-label = ناں
+tab-group-editor-name-field =
+    .placeholder = مثال: خریداری
+tab-group-editor-cancel =
+    .label = منسوخ
+    .accesskey = C
+tab-group-editor-create =
+    .label = بݨاؤ
+    .accesskey = r
