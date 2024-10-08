@@ -645,6 +645,10 @@ search-show-suggestions-url-bar-option =
 # when using the current default search engine.
 search-show-search-term-option =
     .label = Mostra i termini di ricerca invece dell’indirizzo nella pagina dei risultati del motore di ricerca predefinito
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
