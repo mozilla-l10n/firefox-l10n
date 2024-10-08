@@ -376,3 +376,41 @@ onboarding-new-user-survey-familiarity-based-option-1 = Новий корист�
 onboarding-new-user-survey-familiarity-based-option-2 = Користуюся певний час
 onboarding-new-user-survey-familiarity-based-option-3 = Досвідчений користувач
 onboarding-new-user-survey-familiarity-based-option-4 = Користувався в минулому
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Скажіть нам, де ви хочете розмістити вкладки
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Перемикайте за потреби в налаштуваннях бічної панелі.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Вкладки збоку
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Вкладки вгорі
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Вертикальні вкладки вже доступні
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Знайомство з вертикальними вкладками
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Спробуйте вкладки збоку. Увімкніть їх будь-коли в налаштуваннях бічної панелі.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Спробуйте вертикальні вкладки
+onboarding-flair-text = Новинка!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Тримайте вкладки горизонтально
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Вікно браузера з вкладками вздовж екрана як частина бічної панелі { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Вікно браузера з вкладками вздовж екрана як частина бічної панелі { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Вікно браузера з вкладками вгорі.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Вікно браузера з вкладками вгорі.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Спробуйте чат-бота ШІ на бічній панелі
+onboarding-genai-sidebar-primary-button = Виберіть чат-бота
+onboarding-genai-sidebar-secondary-button = Почати перегляд

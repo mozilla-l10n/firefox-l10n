@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Горизонтальні вкладки
 sidebar-customize-tabs-header =
     .label = Налаштування вкладок
+sidebar-customize-button-header =
+    .label = Кнопка бічної панелі
+sidebar-customize-position-header =
+    .label = Розташування бічної панелі
+sidebar-visibility-setting-always-show =
+    .label = Розгорнути та згорнути бічну панель
+sidebar-visibility-setting-hide-sidebar =
+    .label = Показати та приховати бічну панель
 sidebar-customize-settings-header =
     .label = Налаштування бічної панелі
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Історія
 sidebar-menu-syncedtabs-header =
     .heading = Вкладки з інших пристроїв
+sidebar-panel-header-close-button =
+    .tooltiptext = Закрити
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,6 @@ sidebar-syncedtabs-title = Вкладки з інших пристроїв
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрити вкладку на { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
