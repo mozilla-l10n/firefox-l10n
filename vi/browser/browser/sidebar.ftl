@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Thẻ ngang
 sidebar-customize-tabs-header =
     .label = Cài đặt thẻ
+sidebar-customize-button-header =
+    .label = Nút thanh lề
+sidebar-customize-position-header =
+    .label = Vị trí thanh lề
+sidebar-visibility-setting-always-show =
+    .label = Mở rộng và thu gọn thanh lề
+sidebar-visibility-setting-hide-sidebar =
+    .label = Hiện và ẩn thanh lề
 sidebar-customize-settings-header =
     .label = Cài đặt thanh lề
 sidebar-visibility-always-show =
@@ -108,6 +116,8 @@ sidebar-menu-history-header =
     .heading = Lịch sử
 sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
+sidebar-panel-header-close-button =
+    .tooltiptext = Đóng
 
 ## Titles for sidebar menu panels.
 
@@ -123,3 +133,18 @@ sidebar-syncedtabs-title = Thẻ từ thiết bị khác
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Đóng thẻ trên { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Mở rộng thanh lề
+    .label = Thanh lề
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Thu gọn thanh lề
+    .label = Thanh lề
+sidebar-widget-show-sidebar =
+    .tooltiptext = Hiện thanh lề
+    .label = Thanh lề
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Ẩn thanh lề
+    .label = Thanh lề

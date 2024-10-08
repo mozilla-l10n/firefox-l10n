@@ -146,3 +146,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Bỏ tắt tiếng thẻ
 tabbrowser-manager-close-tab =
     .tooltiptext = Đóng thẻ
+
+## Tab Groups
+
+tab-group-editor-title-create = Tạo nhóm thẻ
+tab-group-editor-title-edit = Quản lý nhóm thẻ
+tab-group-editor-name-label = Tên
+tab-group-editor-name-field =
+    .placeholder = Ví dụ: Mua sắm
+tab-group-editor-cancel =
+    .label = Huỷ bỏ
+    .accesskey = C
+tab-group-editor-create =
+    .label = Tạo
+    .accesskey = r

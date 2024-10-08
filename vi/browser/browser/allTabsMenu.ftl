@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Đóng các thẻ trùng
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Đóng các thẻ trùng
+all-tabs-menu-synced-tabs =
+    .label = Thẻ từ thiết bị khác
