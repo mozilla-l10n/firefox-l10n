@@ -397,5 +397,8 @@ onboarding-existing-vertical-tabs-label = Experimentar abas na vertical
 onboarding-flair-text = Novidade!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Manter abas na horizontal
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Uma janela do navegador com abas na parte superior.
 onboarding-genai-sidebar-primary-button = Escolha um chatbot
 onboarding-genai-sidebar-secondary-button = Iniciar navegação
