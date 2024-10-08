@@ -103,3 +103,5 @@ genai-onboarding-gemini-price = אפשרויות בחינם ובתשלום; נד
 genai-onboarding-huggingchat-generate = יצירת טקסט וקוד
 genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דגמים פתוחים
 genai-onboarding-huggingchat-price = בחינם; נדרש חשבון עבור משימות מסויימות
+genai-onboarding-lechat-generate = יצירת טקסט וקוד
+genai-onboarding-lechat-price = בחינם, נדרש חשבון

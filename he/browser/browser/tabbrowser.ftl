@@ -172,3 +172,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ביטול השתקת לשונית
 tabbrowser-manager-close-tab =
     .tooltiptext = סגירת לשונית
+
+## Tab Groups
+
+tab-group-editor-title-create = יצירת קבוצת לשוניות
+tab-group-editor-title-edit = ניהול קבוצת לשוניות
+tab-group-editor-name-label = שם
+tab-group-editor-name-field =
+    .placeholder = לדוגמה: קניות
+tab-group-editor-cancel =
+    .label = ביטול
+    .accesskey = ב
+tab-group-editor-create =
+    .label = יצירה
+    .accesskey = צ

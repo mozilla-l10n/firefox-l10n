@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = סגירת לשוניות כפולות
 all-tabs-menu-close-all-duplicate-tabs =
     .label = סגירת כל הלשוניות הכפולות
+all-tabs-menu-synced-tabs =
+    .label = לשוניות ממכשירים אחרים
