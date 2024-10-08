@@ -276,6 +276,7 @@ tail-fox-spotlight-secondary-button = Mačči tura
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Ileqman iqburen n { -brand-short-name } zemren ad bdun ad sεun uguren seg 14 deg yennayer 2025.</strong>
 root-certificate-succession-infobar-march-message = <strong>Leqqem i ukemmel n useqdec { -brand-short-name } send 14 deg meɣres 2025.</strong>
 root-certificate-succession-infobar-link = Ayɣer i sriɣ aleqqem?
 root-certificate-succession-infobar-primary-button =

@@ -198,6 +198,8 @@ newtab-section-header-recent-activity = Armud n melmi kan
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iwelleh-it-id { $provider }
 newtab-section-header-stories = Tiqsiḍin i ijebbden lwelha
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Tafrant-nneɣ n wass
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -226,6 +228,9 @@ newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Sekles
 newtab-pocket-saved = Yettwasekles
 
@@ -237,6 +242,7 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Mačči i nekk
+newtab-toast-thumbs-up-or-down = Tanemmirt. Tamawt-ik ad ak-tall ad tesnerniḍ asuddem-ik.
 newtab-toast-dismiss-button =
     .title = Zgel
     .aria-label = Zgel
