@@ -111,4 +111,14 @@ genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-claude-analyze = ਦਸਤਾਵੇਜ਼ ਅਤੇ ਚਿੱਤਰਾਂ ਦੀ ਜਾਂਚ ਪੜਤਾਲ
+genai-onboarding-claude-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
+genai-onboarding-chatgpt-generate = ਲਿਖਤ, ਚਿੱਤਰ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-chatgpt-analyze = ਦਸਤਾਵੇਜ਼ ਅਤੇ ਚਿੱਤਰਾਂ ਦੀ ਜਾਂਚ ਪੜਤਾਲ
+genai-onboarding-gemini-generate = ਲਿਖਤ, ਚਿੱਤਰ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-gemini-analyze = ਚਿੱਤਰਾਂ (ਮੁਫ਼ਤ) ਅਤੇ ਦਸਤਾਵੇਜ਼ਾਂ (ਭੁਗਤਾਨ) ਦੀ ਜਾਂਚ ਪੜਤਾਲ
+genai-onboarding-gemini-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
 genai-onboarding-huggingchat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-huggingchat-price = ਮੁਫ਼ਤ; ਕੁਝ ਕੰਮਾਂ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
+genai-onboarding-lechat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
+genai-onboarding-lechat-price = ਮੁਫ਼ਤ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ

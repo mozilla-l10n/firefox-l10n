@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
 newtab-personalize-dialog-label =
     .aria-label = ਆਪਣਾ ਬਣਾਓ
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -232,6 +234,8 @@ newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
 newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } { -brand-product-name } ਗਰੁੱਪ ਦਾ ਭਾਗ ਹੈ
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = ਸੰਭਾਲੋ
 newtab-pocket-saved = ਸੰਭਾਲਿਆ
 

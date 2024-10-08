@@ -376,3 +376,14 @@ onboarding-new-user-survey-familiarity-based-option-1 = ਮੈਂ ਬਿਲਕ�
 onboarding-new-user-survey-familiarity-based-option-2 = ਮੈਂ ਇਸ ਨੂੰ ਵਰਤਦਾ/ਵਰਤਦੀ ਹਾਂ ਕੁਝ
 onboarding-new-user-survey-familiarity-based-option-3 = ਮੈਂ ਇਸ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣੂ ਹਾਂ
 onboarding-new-user-survey-familiarity-based-option-4 = ਮੈ ਪਹਿਲਾਂ ਵਰਤਿਆ ਸੀ, ਪਰ ਇਸ ਨੂੰ ਚਿਰ ਹੋ ਗਿਆ ਹੈ
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਚਾਹੁੰਦੇ ਹੋ
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = ਬਾਹੀ ਉੱਤੇ ਟੈਬ
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = ਟੈਬਾਂ ਉੱਤੇ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਇੱਥੇ

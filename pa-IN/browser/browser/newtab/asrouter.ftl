@@ -281,3 +281,15 @@ tail-fox-spotlight-title = ਬੇਲੋੜੇ ਟਰੈਕਾਂ ਤੋਂ ਪ�
 tail-fox-spotlight-subtitle = ਖਿਝਾਉਣ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ਨੂੰ ਕਹੋ ਅਲਵਿਦਾ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਅਤ, ਤੇਜ਼ ਇੰਟਰਨੈੱਟ ਦੇ ਲਵੋ ਨਜ਼ਾਰੇ।
 tail-fox-spotlight-primary-button = ਮੇਰੇ ਲਿੰਕ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 tail-fox-spotlight-secondary-button = ਹੁਣੇ ਨਹੀਂ
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨਾਂ ਨੂੰ 14 ਜਨਵਰੀ 2024 ਤੋਂ ਸਮੱਸਿਆਵਾਂ ਆਉਣੀਆਂ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।</strong>
+root-certificate-succession-infobar-march-message = <strong>14 ਮਾਰਚ 2025 ਤੋਂ ਬਾਅਦ { -brand-short-name } ਵਰਤਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</strong>
+root-certificate-succession-infobar-link = ਮੈਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਕੀ ਲੋੜ ਹੈ?
+root-certificate-succession-infobar-primary-button =
+    .label = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = ਬਾਅਦ 'ਚ
+    .accesskey = L
