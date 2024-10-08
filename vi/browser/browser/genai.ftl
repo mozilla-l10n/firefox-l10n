@@ -60,3 +60,74 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Hỏi { $provider }…
+genai-shortcuts-hide =
+    .label = Ẩn lối tắt chatbot
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot AI
+genai-header-provider-menu =
+    .title = Chọn một chatbot
+genai-header-options-button =
+    .title = Mở menu
+genai-header-close-button =
+    .title = Đóng
+genai-provider-view-details =
+    .label = Xem chi tiết chatbot
+genai-provider-about-chatbots =
+    .label = Về những chatbot này
+genai-options-reload-generic =
+    .label = Tải lại chatbot AI
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Tải lại { $provider }
+genai-options-show-shortcut =
+    .label = Hiển thị lối tắt khi chọn văn bản
+genai-options-hide-shortcut =
+    .label = Ẩn lối tắt khi chọn văn bản
+genai-options-about-chatbot =
+    .label = Về chatbot AI trong { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Tóm tắt, giải thích và hơn thế nữa khi bạn duyệt qua
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Chọn một chatbot AI để sử dụng trong thanh lề { -brand-short-name }. Chúng tôi sẽ hiển thị chi tiết về từng chatbot khi bạn chọn nó. Chuyển đổi bất cứ lúc nào. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+genai-onboarding-primary = Tiếp tục
+genai-onboarding-secondary = Đóng
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Tìm hiểu thêm về Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Tìm hiểu thêm về ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Tìm hiểu thêm về Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Tìm hiểu thêm về HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Tìm hiểu thêm về Le Chat
+genai-onboarding-select-header = Chọn văn bản để xem đề xuất
+genai-onboarding-select-description = Khi bạn chọn văn bản, chúng tôi sẽ đề xuất lời nhắc mà bạn có thể gửi tới chatbot. Bạn cũng có thể viết theo lời nhắc của riêng bạn.
+genai-onboarding-select-primary = Bắt đầu chat
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Tạo văn bản và mã
+genai-onboarding-claude-analyze = Phân tích tài liệu và hình ảnh
+genai-onboarding-claude-price = Tùy chọn miễn phí và trả phí; yêu cầu tài khoản
+genai-onboarding-chatgpt-generate = Tạo văn bản, hình ảnh và mã
+genai-onboarding-chatgpt-analyze = Phân tích tài liệu và hình ảnh
+genai-onboarding-chatgpt-price = Tùy chọn miễn phí và trả phí; tài khoản cần thiết cho một số quốc gia và tác vụ
+genai-onboarding-gemini-generate = Tạo văn bản, hình ảnh và mã
+genai-onboarding-gemini-analyze = Phân tích hình ảnh (miễn phí) và tài liệu (trả phí)
+genai-onboarding-gemini-price = Tùy chọn miễn phí và trả phí; yêu cầu tài khoản
+genai-onboarding-huggingchat-generate = Tạo văn bản và mã
+genai-onboarding-huggingchat-switch = Chuyển đổi giữa tập hợp các mô hình mở đa dạng
+genai-onboarding-huggingchat-price = Miễn phí; yêu cầu tài khoản cho một số tác vụ
+genai-onboarding-lechat-generate = Tạo văn bản và mã
+genai-onboarding-lechat-price = Miễn phí; yêu cầu tài khoản
