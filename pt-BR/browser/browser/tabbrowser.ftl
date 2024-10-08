@@ -180,6 +180,8 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Criar grupo de abas
+tab-group-editor-title-edit = Gerenciar grupo de abas
 tab-group-editor-name-label = Nome
 tab-group-editor-name-field =
     .placeholder = Exemplo: Compras

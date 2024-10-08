@@ -397,8 +397,21 @@ onboarding-existing-vertical-tabs-label = Experimentar abas na vertical
 onboarding-flair-text = Novidade!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Manter abas na horizontal
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Uma janela do navegador com abas ao lado, no painel lateral do { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Uma janela do navegador com abas ao lado, no painel lateral do { -brand-shorter-name }.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Uma janela do navegador com abas na parte superior.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Uma janela do navegador com abas na parte superior.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Experimente um chatbot de inteligência artificial no painel lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resuma conteúdo, tenha ideias, rascunhe mensagens, tudo isso enquanto navega. Escolha entre vários provedores. Mude quando quiser. <a data-l10n-name="learn-more">Saiba mais</a>
 onboarding-genai-sidebar-primary-button = Escolha um chatbot
 onboarding-genai-sidebar-secondary-button = Iniciar navegação
