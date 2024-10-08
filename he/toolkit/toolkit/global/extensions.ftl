@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ביטול
     .accesskey = ב
-
 webext-perms-sideload-text = יישום נוסף במחשב שלך התקין תוספת העשויה להשפיע על הדפדפן שלך. נא לסקור את בקשות ההרשאות של תוספת זו ולבחור הפעלה או ביטול (כדי להשאיר אותה מנוטרלת).
 webext-perms-sideload-text-no-perms = יישום נוסף במחשב שלך התקין תוספת העשויה להשפיע על הדפדפן שלך. נא לבחור הפעלה או ביטול (כדי להשאיר אותה מנוטרלת).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ביטול
     .accesskey = ב
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = ההרחבה { $extension } עודכנה. עליך לאשר הרשאות חדשות לפני שהגרסה העדכנית תותקן. בחירה באפשרות ״ביטול״ תשאיר את ההרחבה בגרסתה הנוכחית. להרחבה זו תהיה ההרשאות הבאות:
 webext-perms-update-accept =
     .label = עדכון
     .accesskey = ע
-
 webext-perms-optional-perms-list-intro = היא מבקשת:
 webext-perms-optional-perms-allow =
     .label = אישור
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = דחיה
     .accesskey = ד
-
 webext-perms-host-description-all-urls = גישה לנתונים שלך מכל האתרים
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = גישה לנתונים שלך עבור אתרים תחת שם המתחם { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = גישה לנתונים שלך עבור { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -76,6 +69,10 @@ webext-perms-host-description-too-many-sites =
         [one] גישה לנתונים שלך באתר נוסף
        *[other] גישה לנתונים שלך ב־{ $domainCount } אתרים נוספים
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = גישה לנתונים שלך עבור אתרים תחת שמות המתחם { $domain }.
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

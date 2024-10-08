@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = צ’אט בוט AI
+menu-view-review-checker =
+    .label = בודק הסקירות
 
 ## Labels for sidebar history panel
 
@@ -132,16 +134,8 @@ sidebar-syncedtabs-title = לשוניות ממכשירים אחרים
 synced-tabs-context-close-tab-title =
     .title = סגירת לשונית ב־{ $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = הרחבת סרגל הצד
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = כיווץ סרגל הצד
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = הצגת סרגל הצד
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = הסתרת סרגל הצד
 sidebar-widget-expand-sidebar =
     .tooltiptext = הרחבת סרגל הצד
     .label = סרגלי צד
