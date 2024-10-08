@@ -29,7 +29,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Հղումը պատճենվել է
-screenshots-notification-link-copied-details = Ձեր պատկերի հղումը պատճենվել է: Սեղմեք { screenshots-meta-key }-V՝ այն տեղադրելու համար:
+screenshots-notification-link-copied-details = Ձեր պատկերի հղումը պատճենվել է: Սեղմեք { screenshots-meta-key }-V՝ այն փակցնելու համար:
 screenshots-notification-image-copied-title = Պատճենվել է
 screenshots-notification-image-copied-details = Ձեր պատկերը պատճենվել է սեղմատախտակին։ Սեղմեք { screenshots-meta-key }-V տեղադրելու համար։
 screenshots-request-error-title = Անսարք:
@@ -56,18 +56,6 @@ screenshots-component-cancel-button =
     .aria-label = Չեղարկել
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = Պատճենել ({ $shortcut })
-    .aria-label = Պատճենել
-screenshots-component-copy-button-label = Պատճենել
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = Ներբեռնել ({ $shortcut })
-    .aria-label = Ներբեռնել
-screenshots-component-download-button-label = Ներբեռնել
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Պատճենել
     .title = Պատճենել ({ $shortcut })
     .aria-label = Պատճենել
@@ -85,9 +73,3 @@ screenshots-component-copy-key = C
 
 ##
 
-# This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }

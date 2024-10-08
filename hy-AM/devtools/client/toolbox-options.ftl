@@ -69,7 +69,7 @@ options-screenshot-clipboard-only-label = Էկրանակադրը միայն սե
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Նվագարկել խցիկի փակման ձայնը
 options-screenshot-audio-tooltip =
-    .title = Միացնում է խցիկի աուդիո ձայնը, երբ կորզում է պատկերը
+    .title = Միացնում է տեսախցիկի ձայնանյութը, երբ վերցվում է էկրանակադրը
 
 ## Editor section
 

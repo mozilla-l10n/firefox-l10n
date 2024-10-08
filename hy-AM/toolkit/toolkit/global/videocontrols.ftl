@@ -39,7 +39,7 @@ videocontrols-error-network = Տեսանյութի վերարտադրումը կ
 videocontrols-error-decode = Տեսանյութը չի կարող վերարտադրվել, քանզի ֆայլը վնասված է:
 videocontrols-error-src-not-supported = Տեսանյութի տեսակը կամ MIME-ի տեսակը չեն աջակցվում:
 videocontrols-error-no-source = Չկա աջակցվող տեսանյութի և MIME-ի տեսակ:
-videocontrols-error-generic = Տեսանյութի վերարտադրումը կանգնեցվել է անհայտ սխալի պատճառով:
+videocontrols-error-generic = Տեսանյութի նվագարկումը ընդհատվեց անհայտ սխալի պատճառով:
 videocontrols-status-picture-in-picture = Այս տեսանյութը նվագարկվում է Նկար֊Նկարում աշխատակերպում։
 # This message shows the current position and total video duration
 #

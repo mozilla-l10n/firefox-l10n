@@ -569,10 +569,10 @@ search-separate-default-engine =
     .label = Օգտագործել այս որոնիչը գաղտնի պատուհաններում
     .accesskey = Օ
 search-suggestions-header = Որոնել առաջարկություն
-search-suggestions-desc = Ընտրեք, թե ինչպես են որոնման առաջարկները երևում։
+search-suggestions-desc = Ընտրեք, թե ինչպես հայտնվեն որոնման առաջարկները։
 search-suggestions-option =
-    .label = Ցուցադրել որոնման հուշումներ
-    .accesskey = ո
+    .label = Տրամադրել որոնման առաջարկները
+    .accesskey = s
 search-show-suggestions-option =
     .label = Ցուցադրել որոնման առաջարկները
     .accesskey = S
@@ -590,7 +590,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքների ամենավերևում
+    .label = Ցուցադրել որոնման առաջարկները հասցեագոտու արդյունքներում դիտարկման պատմության առջև
 search-show-suggestions-private-windows =
     .label = Ցուցադրել որոնման առաջարկները գաղտնի պատուհաններում
 suggestions-addressbar-settings-generic2 = Փոխել այլ հասցեագոտիների առաջարկությունների կարգավորումները
@@ -783,7 +783,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
-sync-connect-another-device = Միացնել այլ սարքի
+sync-connect-another-device = Կապվել այլ սարքի
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -833,7 +833,7 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = Իմանալ ավելին
 preferences-relay-integration-checkbox =
-    .label = Առաջարկեում է { -relay-brand-name } էլ. փոստի դիմակներ՝ պաշտպանելու ձեր էլ. փոստի հասցեն
+    .label = Առաջարկել { -relay-brand-name }-ին էլ. փոստի դիմակներ՝ Ձեր էլ. հասցեն պաշտպանելու համար
 preferences-relay-integration-checkbox2 =
     .label = Առաջարկել { -relay-brand-name }-ին էլ. փոստի դիմակներ՝ Ձեր էլ. հասցեն պաշտպանելու համար
     .accesskey = r
@@ -908,19 +908,19 @@ history-header = Պատմություն
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }-ը կսկսի`
-    .accesskey = կ
+history-remember-label = { -brand-short-name }-ը
+    .accesskey = ը
 history-remember-option-all =
-    .label = Հիշել պատմությունը
+    .label = կհիշի պատմությունը
 history-remember-option-never =
-    .label = Երբեք չհիշել այցելությունները
+    .label = երբեք չի հիշի պատմությունը
 history-remember-option-custom =
-    .label = Պատմության համար օգտագործել սեփական կարգավորումները
+    .label = կօգտվի պատմության համար հարմարեցված կարգավորումներից
 history-remember-description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-private-browsing-permanent =
-    .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
-    .accesskey = Գ
+    .label = Միշտ օգտագործել գաղտնի դիտարկումը
+    .accesskey = p
 history-remember-browser-option =
     .label = Հիշել դիտարկումները և ներբեռնումների պատմությունը
     .accesskey = b
@@ -999,7 +999,7 @@ addressbar-locbar-clipboard-option =
     .label = Սեղմատախտակ
     .accesskey = Ս
 addressbar-locbar-openpage-option =
-    .label = Բացել ներդիրները
+    .label = Բացել ներդիրներ
     .accesskey = Բ
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
@@ -1010,7 +1010,7 @@ addressbar-locbar-topsites-option =
     .accesskey = T
 addressbar-locbar-engines-option =
     .label = Որոնիչներ
-    .accesskey = a
+    .accesskey = հ
 addressbar-locbar-quickactions-option =
     .label = Արագ գործողություններ
     .accesskey = Ա
@@ -1051,7 +1051,7 @@ content-blocking-cross-site-cookies-in-all-windows2 = Միջկայքային թ�
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետևող նշոցիկներ
 content-blocking-all-cross-site-cookies-private-windows = Միջկայքային թխուկները գաղտնի պատուհաններում
 content-blocking-cross-site-tracking-cookies-plus-isolate = Խաչաձև կայքերի հետագծումների թխուկներ, և մեկուսացնում է մնացած թխուկները
-content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
+content-blocking-social-media-trackers = Սոցիալական մեդիայի հետևիչներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
 content-blocking-unvisited-cookies = Նշոցիկներ չստուգված կայքերից
 content-blocking-all-windows-tracking-content = Հետևում են բովանդակությանը բոլոր պատուհաններում
@@ -1247,7 +1247,7 @@ preferences-doh-resolver = Մատակարար՝ { $name }
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Անվավեր URL
 preferences-doh-steering-status = Օգտվելով տեղական մատակարարից
-preferences-doh-status-active = Ակտիվ
+preferences-doh-status-active = Գործող
 preferences-doh-status-disabled = Անջ.
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
@@ -1281,7 +1281,7 @@ preferences-doh-strict-detailed-desc-3 = Եթե ապահով DNS հասանել�
 preferences-doh-setting-off =
     .label = Անջատել
     .accesskey = Ա
-preferences-doh-off-desc = Օգտագործել ձեր սկզբնադիր DNS լուծումը
+preferences-doh-off-desc = Օգտագործել Ձեր սկզբնադիր DNS լուծողը
 preferences-doh-checkbox-warn =
     .label = Զգուշացնել, եթե երրորդ կողմն ակտիվորեն կանխում է անվտանգ DNS-ը
     .accesskey = Զ

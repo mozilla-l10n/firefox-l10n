@@ -20,7 +20,7 @@ neterror-copy-to-clipboard-button = Պատճենել սեղմատախտակին
 neterror-learn-more-link = Իմանալ ավելին…
 neterror-open-portal-login-page-button = Բացել ցանց մուտք գործելու էջը
 neterror-override-exception-button = Ընդունել վտանգը և շարունակել
-neterror-pref-reset-button = Վերականգնել հիմնական կարգավորումները
+neterror-pref-reset-button = Վերականգնել սկզբնադիր կարգավորումները
 neterror-return-to-previous-page-button = Հետ գնալ
 neterror-return-to-previous-page-recommended-button = Հետ գնալ (առաջարկվում է)
 neterror-try-again-button = Կրկին փորձել
@@ -56,7 +56,7 @@ neterror-dns-not-found-bad-trr-url = Անվավեր URL:
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-native-fallback-heuristic = DNS՝ HTTPS-ի միջոցովը անջատված է ձեր  ցանցում:
+neterror-dns-not-found-native-fallback-heuristic = DNS-ը HTTPS-ի միջովն անջատված է Ձեր ցանցում:
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-ը անկարող է միանալ { $trrDomain }-ին:
 
 ##
