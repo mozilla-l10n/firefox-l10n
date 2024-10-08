@@ -11,6 +11,8 @@ about-httpsonly-explanation-nosupport = Molto probabilmente il sito non supporta
 about-httpsonly-explanation-risk = Potrebbe anche trattarsi di un tentativo di attacco. Se decidi di visitare il sito non inserire informazioni riservate come password, indirizzi email o dati delle carte di credito.
 about-httpsonly-explanation-continue = Proseguendo, la modalità solo HTTPS verrà temporaneamente disattivata per questo sito.
 
+about-httpsonly-explanation-iframe = A causa del blocco dei contenuti misti, non è possibile consentire il caricamento manualmente di questo riquadro.
+
 about-httpsonly-button-continue-to-site = Prosegui sul sito HTTP
 about-httpsonly-button-go-back = Torna indietro
 about-httpsonly-link-learn-more = Ulteriori informazioni…
