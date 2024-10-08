@@ -196,3 +196,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Zapnúť zvuk na tejto karte
 tabbrowser-manager-close-tab =
     .tooltiptext = Zavrieť kartu
+
+## Tab Groups
+
+tab-group-editor-title-create = Vytvoriť skupinu kariet
+tab-group-editor-title-edit = Spravovať skupinu kariet
+tab-group-editor-name-label = Názov
+tab-group-editor-name-field =
+    .placeholder = Príklad: Nakupovanie
+tab-group-editor-cancel =
+    .label = Zrušiť
+    .accesskey = Z
+tab-group-editor-create =
+    .label = Vytvoriť
+    .accesskey = V
