@@ -81,8 +81,8 @@ webext-perms-host-description-one-domain = Jo gegevens foar websites yn { $domai
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Jo gegevens foar websites yn { $domain } domein benaderje
-       *[other] Jo gegevens foar websites yn { $domain } domeinen benaderje
+        [one] Jo gegevens foar websites yn { $domainCount } domein benaderje
+       *[other] Jo gegevens foar websites yn { $domainCount } domeinen benaderje
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
