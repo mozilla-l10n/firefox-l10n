@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Dubbele tabbladen sluiten
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Alle dubbele tabbladen sluiten
+all-tabs-menu-synced-tabs =
+    .label = Tabbladen van andere apparaten

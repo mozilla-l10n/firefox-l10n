@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annuleren
     .accesskey = A
-
 webext-perms-sideload-text = Een ander programma op uw computer heeft een add-on geïnstalleerd die invloed kan hebben op uw browser. Controleer de aanvragen voor toestemmingen van deze add-on en kies voor Inschakelen of Annuleren (om deze uitgeschakeld te houden).
 webext-perms-sideload-text-no-perms = Een ander programma op uw computer heeft een add-on geïnstalleerd die invloed kan hebben op uw browser. Kies voor Inschakelen of Annuleren (om deze uitgeschakeld te houden).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annuleren
     .accesskey = n
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } is bijgewerkt. U moet nieuwe toestemmingen goedkeuren voordat de bijgewerkte versie wordt geïnstalleerd. ‘Annuleren’ kiezen zal de huidige versie van de extensie behouden. Deze extensie heeft toestemming om:
 webext-perms-update-accept =
     .label = Bijwerken
     .accesskey = B
-
 webext-perms-optional-perms-list-intro = De add-on wil:
 webext-perms-optional-perms-allow =
     .label = Toestaan
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Weigeren
     .accesskey = W
-
 webext-perms-host-description-all-urls = Uw gegevens voor alle websites benaderen
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Uw gegevens voor websites in het domein { $domain } benaderen
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Uw gegevens voor { $domain } benaderen
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -75,6 +68,21 @@ webext-perms-host-description-too-many-sites =
     { $domainCount ->
         [one] Uw gegevens op { $domainCount } andere website benaderen
        *[other] Uw gegevens op { $domainCount } andere websites benaderen
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Uw gegevens voor websites in { $domain }-domeinen benaderen
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] Uw gegevens voor websites in { $domainCount } domein benaderen
+       *[other] Uw gegevens voor websites in { $domainCount } domeinen benaderen
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.

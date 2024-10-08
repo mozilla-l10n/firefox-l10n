@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Tabblad dempen opheffen
 tabbrowser-manager-close-tab =
     .tooltiptext = Tabblad sluiten
+
+## Tab Groups
+
+tab-group-editor-title-create = Tabbladgroep maken
+tab-group-editor-title-edit = Tabbladgroep beheren
+tab-group-editor-name-label = Naam
+tab-group-editor-name-field =
+    .placeholder = Voorbeeld: winkelen
+tab-group-editor-cancel =
+    .label = Annuleren
+    .accesskey = A
+tab-group-editor-create =
+    .label = Aanmaken
+    .accesskey = m
