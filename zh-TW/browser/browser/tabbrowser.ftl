@@ -144,3 +144,12 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = 取消分頁靜音
 tabbrowser-manager-close-tab =
     .tooltiptext = 關閉分頁
+
+## Tab Groups
+
+tab-group-editor-cancel =
+    .label = 取消
+    .accesskey = C
+tab-group-editor-create =
+    .label = 建立
+    .accesskey = r
