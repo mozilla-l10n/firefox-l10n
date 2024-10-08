@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = 关闭重复标签页
 all-tabs-menu-close-all-duplicate-tabs =
     .label = 关闭所有重复标签页
+all-tabs-menu-synced-tabs =
+    .label = 其他设备上的标签页

@@ -144,3 +144,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = 取消静音标签页
 tabbrowser-manager-close-tab =
     .tooltiptext = 关闭标签页
+
+## Tab Groups
+
+tab-group-editor-title-create = 创建标签页组
+tab-group-editor-title-edit = 管理标签页组
+tab-group-editor-name-label = 名称
+tab-group-editor-name-field =
+    .placeholder = 例如：购物
+tab-group-editor-cancel =
+    .label = 取消
+    .accesskey = C
+tab-group-editor-create =
+    .label = 创建
+    .accesskey = r

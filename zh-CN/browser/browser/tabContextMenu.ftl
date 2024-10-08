@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = 在下方新建标签页
     .accesskey = w
+tab-context-new-group =
+    .label = 新建标签页组
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
