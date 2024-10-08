@@ -172,3 +172,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Non plus tacer le scheda
 tabbrowser-manager-close-tab =
     .tooltiptext = Clauder le scheda
+
+## Tab Groups
+
+tab-group-editor-title-create = Crear gruppo de schedas
+tab-group-editor-name-label = Nomine
+tab-group-editor-cancel =
+    .label = Cancellar
+    .accesskey = C
+tab-group-editor-create =
+    .label = Crear
+    .accesskey = r

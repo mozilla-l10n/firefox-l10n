@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Nove scheda infra
     .accesskey = i
+tab-context-new-group =
+    .label = Nove gruppo
+    .accesskey = g
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
