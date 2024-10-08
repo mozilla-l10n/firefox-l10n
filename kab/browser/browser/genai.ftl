@@ -24,3 +24,21 @@ genai-menu-ask-provider =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ssuter { $provider }…
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Issi ugar ɣef Chat
+genai-onboarding-select-header = Fren aḍris i uwali n yisumar
+genai-onboarding-select-primary = Bdu ameslay
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Sirew aḍris akked tengalt
+genai-onboarding-claude-analyze = Sleḍ isemliyen d tugniwin
+genai-onboarding-claude-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra
