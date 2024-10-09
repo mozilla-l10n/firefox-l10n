@@ -83,10 +83,10 @@ webext-perms-host-description-one-domain = Pristupovať k vašim údajom webový
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Prístup k údajom webových stránok na { $domain } doméne
-        [few] Prístup k údajom webových stránok na { $domain } doménach
-        [many] Prístup k údajom webových stránok na { $domain } doménach
-       *[other] Prístup k údajom webových stránok na { $domain } doménach
+        [one] Prístup k údajom webových stránok na { $domainCount } doméne
+        [few] Prístup k údajom webových stránok na { $domainCount } doménach
+        [many] Prístup k údajom webových stránok na { $domainCount } doménach
+       *[other] Prístup k údajom webových stránok na { $domainCount } doménach
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
