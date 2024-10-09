@@ -46,35 +46,35 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Odmietnuť
     .accesskey = d
-webext-perms-host-description-all-urls = Prístup k údajom pre všetky webové stránky
+webext-perms-host-description-all-urls = Pristupovať k údajom všetkých webových stránok
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = Prístup k údajom pre webové stránky na doméne { $domain }
+webext-perms-host-description-wildcard = Pristupovať k údajom webových stránok v doméne { $domain }i
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-wildcards =
     { $domainCount ->
-        [one] Prístup k údajom pre { $domainCount } ďalšiu doménu
-        [few] Prístup k údajom pre { $domainCount } ďalšie domény
-       *[other] Prístup k údajom pre { $domainCount } ďalších domén
+        [one] Pristupovať k údajom v { $domainCount } ďalšej doméne
+        [few] Pristupovať k údajom v { $domainCount } ďalších doménach
+       *[other] Pristupovať k údajom v { $domainCount } ďalších doménach
     }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
-webext-perms-host-description-one-site = Prístup k údajom pre { $domain }
+webext-perms-host-description-one-site = Pristupovať k údajom pre { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites =
     { $domainCount ->
-        [one] Prístup k údajom pre { $domainCount } ďalšiu stránku
-        [few] Prístup k údajom pre { $domainCount } ďalšie stránky
-       *[other] Prístup k údajom pre { $domainCount } ďalších stránok
+        [one] Pristupovať k údajom pre { $domainCount } ďalšiu stránku
+        [few] Pristupovať k údajom pre { $domainCount } ďalšie stránky
+       *[other] Pristupovať k údajom pre { $domainCount } ďalších stránok
     }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
-webext-perms-host-description-one-domain = Pristupovať k vašim údajom webových stránok v doménach { $domain }
+webext-perms-host-description-one-domain = Pristupovať k údajom webových stránok v doménach { $domain }
 # Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
 # be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
 # used instead).
@@ -83,10 +83,10 @@ webext-perms-host-description-one-domain = Pristupovať k vašim údajom webový
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Prístup k údajom webových stránok na { $domainCount } doméne
-        [few] Prístup k údajom webových stránok na { $domainCount } doménach
-        [many] Prístup k údajom webových stránok na { $domainCount } doménach
-       *[other] Prístup k údajom webových stránok na { $domainCount } doménach
+        [one] Pristupovať k údajom webových stránok v { $domainCount } doméne
+        [few] Pristupovať k údajom webových stránok v { $domainCount } doménach
+        [many] Pristupovať k údajom webových stránok v { $domainCount } doménach
+       *[other] Pristupovať k údajom webových stránok v { $domainCount } doménach
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
@@ -120,5 +120,5 @@ webext-site-perms-header-unsigned-with-perms = Chcete nainštalovať { $extensio
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
-webext-site-perms-midi = Prístup k zariadeniam MIDI
-webext-site-perms-midi-sysex = Prístup k MIDI zariadeniam s podporou SysEx
+webext-site-perms-midi = Pristupovať k zariadeniam MIDI
+webext-site-perms-midi-sysex = Pristupovať k zariadeniam MIDI s podporou SysEx
