@@ -121,6 +121,9 @@ sidebar-panel-header-close-button =
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Sidebar anpassen
+sidebar-history-title = Chronik
+sidebar-syncedtabs-title = Tabs von anderen Geräten
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -131,16 +134,8 @@ sidebar-panel-header-close-button =
 synced-tabs-context-close-tab-title =
     .title = Tab auf { $deviceName } schließen
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Sidebar ausklappen
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Sidebar einklappen
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Sidebar anzeigen
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Sidebar ausblenden
 sidebar-widget-expand-sidebar =
     .tooltiptext = Sidebar ausklappen
     .label = Sidebars

@@ -387,5 +387,32 @@ onboarding-new-tabs-subtitle = Wechsle in den Sidebar-Einstellungen, wann immer 
 onboarding-new-vertical-tabs-label = Tabs seitlich
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Tabs oben
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Vertikale Tabs sind hier
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Neu: vertikale Tabs
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Probiere seitliche Tabs aus. Wechsle in den Sidebar-Einstellungen, wann immer du möchtest.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Vertikale Tabs ausprobieren
+onboarding-flair-text = Neu!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Horizontale Tabs behalten
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Ein Browser-Fenster, in dem Tabs am seitlichen Bildschirmrand als Teil der { -brand-shorter-name }-Sidebar angezeigt werden.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Ein Browser-Fenster, in dem Tabs am seitlichen Bildschirmrand als Teil der { -brand-shorter-name }-Sidebar angezeigt werden.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Ein Browser-Fenster, in dem Tabs am oberen Rand angezeigt werden.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Ein Browser-Fenster, in dem Tabs am oberen Rand angezeigt werden.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Probiere einen KI-Chatbot in der Sidebar aus
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Fasse Web-Inhalte zusammen, sammle Brainstorming-Ideen oder entwirf Nachrichten – alles während des Surfens. Wähle aus mehreren Anbietern. Jederzeit wechseln. <a data-l10n-name="learn-more">Weitere Informationen</a>
 onboarding-genai-sidebar-primary-button = Wählen Sie einen Chatbot
 onboarding-genai-sidebar-secondary-button = Lossurfen

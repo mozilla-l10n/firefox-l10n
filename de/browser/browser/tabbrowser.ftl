@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Stummschaltung für Tab aufheben
 tabbrowser-manager-close-tab =
     .tooltiptext = Tab schließen
+
+## Tab Groups
+
+tab-group-editor-title-create = Tab-Gruppe erstellen
+tab-group-editor-title-edit = Tab-Gruppe verwalten
+tab-group-editor-name-label = Name
+tab-group-editor-name-field =
+    .placeholder = Beispiel: Einkaufen
+tab-group-editor-cancel =
+    .label = Abbrechen
+    .accesskey = A
+tab-group-editor-create =
+    .label = Erstellen
+    .accesskey = E
