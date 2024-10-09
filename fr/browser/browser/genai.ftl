@@ -60,6 +60,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Demander à { $provider }…
+genai-shortcuts-hide =
+    .label = Masquer le raccourci du chatbot
 
 ## Chatbot header
 

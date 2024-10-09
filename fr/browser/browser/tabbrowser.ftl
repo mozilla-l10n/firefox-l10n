@@ -172,3 +172,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Réactiver le son de l’onglet
 tabbrowser-manager-close-tab =
     .tooltiptext = Fermer l’onglet
+
+## Tab Groups
+
+tab-group-editor-title-create = Créer un groupe d’onglets
+tab-group-editor-title-edit = Gérer le groupe d’onglets
+tab-group-editor-name-label = Nom
+tab-group-editor-name-field =
+    .placeholder = Exemple : achats
+tab-group-editor-cancel =
+    .label = Annuler
+    .accesskey = A
+tab-group-editor-create =
+    .label = Créer
+    .accesskey = C

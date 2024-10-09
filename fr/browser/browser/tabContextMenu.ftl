@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Nouvel onglet en dessous
     .accesskey = N
+tab-context-new-group =
+    .label = Nouveau groupe
+    .accesskey = N
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

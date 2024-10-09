@@ -400,6 +400,9 @@ onboarding-vertical-tabs-tooltip =
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
     .aria-description = Une fenêtre de navigateur affichant des onglets sur le côté de l’écran dans le panneau latéral de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Une fenêtre de navigateur affichant des onglets en haut de l’écran.
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Une fenêtre de navigateur affichant des onglets en haut de l’écran.
