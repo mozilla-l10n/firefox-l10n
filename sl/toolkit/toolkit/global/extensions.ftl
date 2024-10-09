@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Prekliči
     .accesskey = P
-
 webext-perms-sideload-text = V vaš računalnik je drug program namestil dodatek, ki lahko vpliva na vaš brskalnik. Preglejte zahtevke za dovoljenja tega dodatka in izberite Omogoči ali Prekliči (da ga pustite onemogočenega).
 webext-perms-sideload-text-no-perms = V vaš računalnik je drug program namestil dodatek, ki lahko vpliva na vaš brskalnik. Izberite Omogoči ali Prekliči (da ga pustite onemogočenega).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Prekliči
     .accesskey = P
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Razširitev { $extension } je bila posodobljena. Pred namestitvijo posodobljene različice morate odobriti nova dovoljenja. Če izberete “Prekliči”, bo ohranjena trenutna različica. Ta razširitev bo imela dovoljenje za:
 webext-perms-update-accept =
     .label = Posodobi
     .accesskey = P
-
 webext-perms-optional-perms-list-intro = Želi:
 webext-perms-optional-perms-allow =
     .label = Dovoli
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Zavrni
     .accesskey = Z
-
 webext-perms-host-description-all-urls = dostop do vaših podatkov za vsa spletna mesta
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = dostop do vaših podatkov za strani domene { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -69,7 +63,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = dostop do vaših podatkov za { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -79,6 +72,23 @@ webext-perms-host-description-too-many-sites =
         [two] dostop do vaših podatkov na { $domainCount } drugih straneh
         [few] dostop do vaših podatkov na { $domainCount } drugih straneh
        *[other] dostop do vaših podatkov na { $domainCount } drugih straneh
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = dostop do vaših podatkov za spletna mesta domen { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] dostop do vaših podatkov za spletna mesta { $domainCount } domene
+        [two] dostop do vaših podatkov za spletna mesta { $domainCount } domen
+        [few] dostop do vaših podatkov za spletna mesta { $domainCount } domen
+       *[other] dostop do vaših podatkov za spletna mesta { $domainCount } domen
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.

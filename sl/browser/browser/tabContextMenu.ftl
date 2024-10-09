@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Zapri zavihke na levi
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Zapri zavihke nad izbranim
+    .accesskey = n
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zapri zavihke na desni
     .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Zapri zavihke pod izbranim
+    .accesskey = p
 close-other-tabs =
     .label = Zapri ostale zavihke
     .accesskey = t
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Deli
     .accesskey = D
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nov zavihek desno od izbranega
+    .accesskey = v
+tab-context-new-tab-open-vertical =
+    .label = Nov zavihek pod izbranim
+    .accesskey = p
+tab-context-new-group =
+    .label = Nova skupina
+    .accesskey = k
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

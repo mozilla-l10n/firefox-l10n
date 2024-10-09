@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Zapri podvojene zavihke
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Zapri vse podvojene zavihke
+all-tabs-menu-synced-tabs =
+    .label = Zavihki z drugih naprav

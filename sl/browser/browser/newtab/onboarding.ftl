@@ -396,4 +396,13 @@ onboarding-existing-horizontal-tabs-label = Obdrži vodoravne zavihke
 # Tooltip displayed on hover for vertical tabs image
 onboarding-vertical-tabs-tooltip =
     .title = Okno brskalnika, v katerem so zavihki prikazani vzdolž roba zaslona v { -brand-shorter-name }ovi stranski vrstici.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Okno brskalnika, v katerem so zavihki prikazani vzdolž roba zaslona v { -brand-shorter-name }ovi stranski vrstici.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Okno brskalnika, v katerem so zavihki prikazani vzdolž zgornjega roba.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Okno brskalnika, v katerem so zavihki prikazani vzdolž zgornjega roba.
 onboarding-genai-sidebar-secondary-button = Začni z brskanjem

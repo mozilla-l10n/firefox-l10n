@@ -203,3 +203,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Povrni glasnost zavihka
 tabbrowser-manager-close-tab =
     .tooltiptext = Zapri zavihek
+
+## Tab Groups
+
+tab-group-editor-title-create = Ustvari skupino zavihkov
+tab-group-editor-title-edit = Upravljanje skupine zavihkov
+tab-group-editor-name-label = Ime
+tab-group-editor-name-field =
+    .placeholder = na primer: Nakupovanje
+tab-group-editor-cancel =
+    .label = Prekliči
+    .accesskey = P
+tab-group-editor-create =
+    .label = Ustvari
+    .accesskey = U
