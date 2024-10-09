@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Doppelte Tabs schließen
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Alle doppelten Tabs schließen
+all-tabs-menu-synced-tabs =
+    .label = Tabs von anderen Geräten
