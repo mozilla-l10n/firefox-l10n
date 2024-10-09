@@ -174,7 +174,7 @@ firefoxview-search-results-empty = Няма резултати за „{ $query 
 firefoxview-sort-history-by-date-label = Сортиране по дата
 firefoxview-sort-history-by-site-label = Сортиране по страница
 firefoxview-sort-open-tabs-by-recency-label = Сортиране по последна активност
-firefoxview-sort-open-tabs-by-order-label = Сортиране по ред на раздели
+firefoxview-sort-open-tabs-by-order-label = Подреждане по реда им в прозореца
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
