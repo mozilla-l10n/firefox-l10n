@@ -58,6 +58,7 @@ genai-input-ask-provider =
 
 ## Chatbot header
 
+genai-chatbot-title = AI чатбот
 genai-provider-view-details =
     .label = Преглед на подробностите за чат-бота
 genai-provider-about-chatbots =
@@ -74,8 +75,10 @@ genai-onboarding-primary = Продължи
 genai-onboarding-secondary = Затваряне
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = Научете повече за Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = Научете повече за ChatGPT
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Научете повече за Gemini
@@ -90,4 +93,13 @@ genai-onboarding-select-primary = Започнете разговор
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Генериране на текст и код
+genai-onboarding-claude-analyze = Анализиране на документи и изображения
 genai-onboarding-claude-price = Безплатни и платени опции; изисква се профил
+genai-onboarding-chatgpt-generate = Генериране на текст, изображения и код
+genai-onboarding-chatgpt-analyze = Анализиране на документи и изображения
+genai-onboarding-gemini-generate = Генериране на текст, изображения и код
+genai-onboarding-gemini-analyze = Анализиране на изображения (безплатно) и документи (платено)
+genai-onboarding-gemini-price = Безплатни и платени опции; изисква се профил
+genai-onboarding-huggingchat-generate = Генериране на текст и код
+genai-onboarding-lechat-generate = Генериране на текст и код

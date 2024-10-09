@@ -128,6 +128,7 @@ spotlight-public-wifi-vpn-link = Не сега
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = По-добрият интернет започва с вас
+spotlight-peace-mind-header = Ние сме ви защитили
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Запази в Dock
@@ -149,6 +150,11 @@ spotlight-pin-secondary-button = Не сега
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Новият { -brand-short-name }. Персонален. Без проследяване. Без компромиси.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Отворете { -brand-shorter-name } сега
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -205,6 +211,8 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Как да �
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = Задаване по подразбиране
 pdf-default-notification-decline-button =
     .label = Не сега
 
@@ -227,3 +235,12 @@ launch-on-login-infobar-final-reject-button = Не, благодаря
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = Не сега
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = Актуализирайте сега
+    .accesskey = с
+root-certificate-succession-infobar-secondary-button =
+    .label = По-късно
+    .accesskey = к

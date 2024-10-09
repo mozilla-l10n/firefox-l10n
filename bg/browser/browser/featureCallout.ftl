@@ -43,3 +43,11 @@ callout-pdfjs-draw-body-a = Маркирайте PDF файлове, след к
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Без повече отпечатване и сканиране. Маркирайте PDF файловете, след което запазете промените.
 callout-pdfjs-draw-button = Разбрах!
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Управление на настройките

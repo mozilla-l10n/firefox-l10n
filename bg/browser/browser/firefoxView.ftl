@@ -63,6 +63,7 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-signed-out-header = Впишете се, за да се свържете отново
 firefoxview-tabpickup-signed-out-description2 = За да се свържете отново и да отворите вашите раздели, първо влезте в профила си.
 firefoxview-tabpickup-signed-out-primarybutton = Вписване
+firefoxview-tabpickup-syncing = Почакайте малко, докато разделите ви се синхронизират. Става бързо.
 firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
 firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-name } за мобилни устройства
 firefoxview-mobile-confirmation-header = 🎉 Готово!

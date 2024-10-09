@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Приспособяване на новите раздели
 newtab-personalize-dialog-label =
     .aria-label = Приспособяване
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -232,6 +234,8 @@ newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Запазване
 newtab-pocket-saved = Запазено
 
@@ -346,6 +350,9 @@ newtab-wallpaper-sky-with-pink-clouds = Небе с розови облаци
 newtab-wallpaper-red-panda-yawns-in-a-tree = Червена панда се прозява на дърво
 newtab-wallpaper-white-mountains = Бели планини
 newtab-wallpaper-feature-highlight-button = Разбрах
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
