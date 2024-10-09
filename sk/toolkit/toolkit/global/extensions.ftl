@@ -49,7 +49,7 @@ webext-perms-optional-perms-deny =
 webext-perms-host-description-all-urls = Pristupovať k údajom všetkých webových stránok
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = Pristupovať k údajom webových stránok v doméne { $domain }i
+webext-perms-host-description-wildcard = Pristupovať k údajom webových stránok v doméne { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
