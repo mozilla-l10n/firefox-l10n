@@ -226,3 +226,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Dad-dewi tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Cau tab
+
+## Tab Groups
+
+tab-group-editor-title-create = Creu grŵp tabiau
+tab-group-editor-title-edit = Rheoli grŵp tabiau
+tab-group-editor-name-label = Enw
+tab-group-editor-name-field =
+    .placeholder = Enghraifft: Siopa
+tab-group-editor-cancel =
+    .label = Diddymu
+    .accesskey = D
+tab-group-editor-create =
+    .label = Creu
+    .accesskey = C

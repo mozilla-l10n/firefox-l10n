@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Personoli tab newydd
 newtab-personalize-dialog-label =
     .aria-label = Personoli
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -234,6 +236,8 @@ newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 newtab-pocket-pocket-firefox-family = Mae { -pocket-brand-name } yn rhan o deulu { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Cadw
 newtab-pocket-saved = Wedi'u Cadw
 

@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Tab Newydd Isod
     .accesskey = s
+tab-context-new-group =
+    .label = Grŵp Newydd
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
