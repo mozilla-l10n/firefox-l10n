@@ -81,7 +81,6 @@ webext-perms-host-description-one-domain = Åtkomst till data för webbplatser i
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Åtkomst till din data för webbplatser i { $domainCount } domäner
        *[other] Åtkomst till din data för webbplatser i { $domainCount } domäner
     }
 
