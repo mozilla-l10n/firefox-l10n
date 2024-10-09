@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
 sidebar-customize-tabs-header =
     .label = ਟੈਬ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+sidebar-customize-button-header =
+    .label = ਬਾਹੀ ਬਟਨ
+sidebar-customize-position-header =
+    .label = ਬਾਹੀ ਦੀ ਸਥਿਤੀ
+sidebar-visibility-setting-always-show =
+    .label = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ਤੇ ਸਮੇਟੋ
+sidebar-visibility-setting-hide-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ਤੇ ਓਹਲੇ ਕਰੋ
 sidebar-customize-settings-header =
     .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sidebar-visibility-always-show =
@@ -97,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = ਬੁੱਕਮਾਰਕ
 sidebar-menu-customize-label =
     .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+sidebar-menu-review-checker-label =
+    .label = ਰੀਵਿਊ ਚੈਕਰ
 
 ## Headings for sidebar menu panels.
 
@@ -106,9 +116,14 @@ sidebar-menu-history-header =
     .heading = ਅਤੀਤ
 sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+sidebar-panel-header-close-button =
+    .tooltiptext = ਬੰਦ ਕਰੋ
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+sidebar-history-title = ਅਤੀਤ
+sidebar-syncedtabs-title = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -121,3 +136,15 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
+    .label = ਬਾਹੀਆਂ
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਸਮੇਟੋ
+    .label = ਬਾਹੀਆਂ
+sidebar-widget-show-sidebar =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
+    .label = ਬਾਹੀਆਂ
+sidebar-widget-hide-sidebar =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
+    .label = ਬਾਹੀਆਂ

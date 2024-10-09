@@ -172,3 +172,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ਟੈਬ ਤੋਂ ਸੁਣੋ
 tabbrowser-manager-close-tab =
     .tooltiptext = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
+
+## Tab Groups
+
+tab-group-editor-title-create = ਟੈਬ ਗਰੁੱਪ ਬਣਾਓ
+tab-group-editor-title-edit = ਟੈਬ ਗਰੁੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+tab-group-editor-name-label = ਨਾਂ
+tab-group-editor-name-field =
+    .placeholder = ਮਿਸਾਲ ਵਜੋਂ: ਖਰੀਦਦਾਰੀ
+tab-group-editor-cancel =
+    .label = ਰੱਦ ਕਰੋ
+    .accesskey = C
+tab-group-editor-create =
+    .label = ਬਣਾਓ
+    .accesskey = r
