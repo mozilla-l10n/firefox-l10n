@@ -146,3 +146,5 @@ policy-UseSystemPrintDialog = ਸਿਸਟਮ ਪਰਿੰਟ ਡਾਈਲਾਗ
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ਵੈਬਸਾਈਟ ਨੂੰ ਬਲਾਕ ਕਰਨ ਤੋਂ ਬਲਾਕ ਕਰੋ। ਫੌਰਮੈਟ ਤੇ ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਦਸਤਾਵੇਜ਼ ਵੇਖੋ।
 policy-Windows10SSO = Microsoft, ਕੰਮ ਤੇ ਸਕੂਲ ਖਾਤਿਆਂ ਲਈ Windows ਇਕਹੇਰੇ ਸਾਈਨ-ਆਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Microsoft Entra ਖਾਤਿਆਂ ਲਈ ਸਿੰਗਲ ਸਾਈਨ-ਆਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।
