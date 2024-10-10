@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Pajennad:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } diwar { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
