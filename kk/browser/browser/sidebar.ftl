@@ -56,6 +56,10 @@ sidebar-customize-button-header =
     .label = Бүйір панелі батырмасы
 sidebar-customize-position-header =
     .label = Бүйір панелі орналасуы
+sidebar-visibility-setting-always-show =
+    .label = Бүйір панелін жазық қылу және бүктеу
+sidebar-visibility-setting-hide-sidebar =
+    .label = Бүйір панелін көрсету және жасыру
 sidebar-customize-settings-header =
     .label = Бүйір панель баптаулары
 sidebar-visibility-always-show =
@@ -130,5 +134,5 @@ sidebar-syncedtabs-title = Басқа құрылғылардан беттер
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } құрылғыдағы бетті жабу
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 

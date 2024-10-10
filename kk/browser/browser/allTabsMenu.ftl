@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Қайталама беттерді жабу
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Барлық қайталанатын беттерді жабу
+all-tabs-menu-synced-tabs =
+    .label = Басқа құрылғылардан беттер

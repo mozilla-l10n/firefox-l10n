@@ -381,6 +381,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Мен оны бұрын
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Беттер қай жерде көргіңіз келетініңізді айтыңыз
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Беттер бүйір жақта
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Беттер жоғарыда
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Вертикалды беттер осында
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Вертикалды беттер ұсынылады
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Вертикалды беттерді қолданып көріңіз
 onboarding-flair-text = Жаңа!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
