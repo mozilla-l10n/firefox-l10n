@@ -146,6 +146,8 @@ login-item-copied-username-button-text = Eilet!
 login-item-password-label = Ger-tremen
 login-item-password-reveal-checkbox =
     .aria-label = Diskouez ar ger-tremen
+login-item-password-conceal-checkbox =
+    .aria-label = Kuzhat ar ger-tremen
 login-item-copy-password-button-text = Eilañ
 login-item-copied-password-button-text = Eilet!
 login-item-save-changes-button = Enrollañ ar c’hemmoù
@@ -277,15 +279,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
         [many] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
        *[other] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Dilemel a raio an titour kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-        [one] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-        [two] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-        [few] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-        [many] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
-       *[other] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho kont. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

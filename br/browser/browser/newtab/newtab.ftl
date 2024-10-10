@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Personelaat un ivinell nevez
 newtab-personalize-dialog-label =
     .aria-label = Personelaat
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -224,7 +226,6 @@ newtab-pocket-learn-more = Gouzout hiroc’h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enrollañ
 newtab-pocket-saved = Enrollet
 
@@ -371,3 +372,4 @@ newtab-topic-label-travel = Beajiñ
 
 newtab-topic-selection-save-button = Enrollañ
 newtab-topic-selection-cancel-button = Nullañ
+newtab-topic-selection-button-maybe-later = Diwezhatoc’h marteze

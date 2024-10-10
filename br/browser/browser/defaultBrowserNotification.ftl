@@ -15,6 +15,7 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = Dibab { -brand-short-name } evel merdeer pennañ?
 default-browser-prompt-message-pin = Dalc’hit { -brand-short-name } tost ouzhoc’h — lakait anezhañ da verdeer dre ziouer ha spilhennit anezhañ en ho parrenn drevelloù.
 default-browser-prompt-message-pin-mac = Mirit { -brand-short-name } war beg ho pizied — lakait anezhañ da vezañ ho merdeer dre ziouer ha mirit anezhañ en ho Dock.
+default-browser-prompt-button-primary-set = Lakaat da verdeer pennañ
 default-browser-prompt-button-primary-pin = Lakaat da verdeer pennañ
 default-browser-prompt-title-alt = Lakaat { -brand-short-name } da verdeer dre ziouer?
 default-browser-prompt-message-alt = Ho pezet tizhder, surentez ha dangelez bewech ma verdeit.

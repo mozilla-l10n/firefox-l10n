@@ -291,3 +291,8 @@ onboarding-new-user-time-based-survey-title = Pegeit zo emaoc’h oc’h implij 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = War-lerc’h
 onboarding-new-user-survey-time-based-option-2 = Nebeutoc’h eget 1 miz
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = Nevez!
+onboarding-genai-sidebar-secondary-button = Kregiñ gant ar merdeiñ

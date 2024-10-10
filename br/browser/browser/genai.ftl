@@ -21,3 +21,22 @@ genai-menu-ask-provider =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Goulenn digant { $provider }…
+
+## Chatbot header
+
+genai-header-close-button =
+    .title = Serriñ
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Adkargañ { $provider }
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Kenderc’hel
+genai-onboarding-secondary = Serriñ
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

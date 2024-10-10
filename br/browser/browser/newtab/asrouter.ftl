@@ -264,3 +264,12 @@ launch-on-login-infobar-final-reject-button = Ket
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = Digeriñ ma ereoù gant { -brand-short-name }
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = Hizivaat bremañ
+    .accesskey = H
+root-certificate-succession-infobar-secondary-button =
+    .label = Diwezhatoc’h
+    .accesskey = D
