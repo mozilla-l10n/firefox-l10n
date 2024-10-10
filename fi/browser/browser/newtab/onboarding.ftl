@@ -398,5 +398,7 @@ onboarding-existing-vertical-tabs-label = Kokeile pystysuuntaisia välilehtiä
 onboarding-flair-text = Uutta!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Pidä vaakasuuntaiset välilehdet
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Kokeile AI-chatbottia sivupalkissa
 onboarding-genai-sidebar-primary-button = Valitse chatbotti
 onboarding-genai-sidebar-secondary-button = Aloita selaaminen

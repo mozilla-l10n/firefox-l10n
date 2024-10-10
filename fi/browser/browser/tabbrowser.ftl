@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Palauta ääni
 tabbrowser-manager-close-tab =
     .tooltiptext = Sulje välilehti
+
+## Tab Groups
+
+tab-group-editor-title-create = Luo välilehtiryhmä
+tab-group-editor-title-edit = Hallinnoi välilehtiryhmää
+tab-group-editor-name-label = Nimi
+tab-group-editor-name-field =
+    .placeholder = Esimerkki: Ostokset
+tab-group-editor-cancel =
+    .label = Peruuta
+    .accesskey = P
+tab-group-editor-create =
+    .label = Luo
+    .accesskey = L
