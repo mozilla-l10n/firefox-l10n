@@ -59,3 +59,8 @@ synced-tabs-context-sync-now =
     .accesskey = G
 synced-tabs-fxa-sign-in = Kennaskañ evit goubredañ
 synced-tabs-turn-on-sync = Gweredekaat ar c’houbredañ
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = Serriñ an ivinell war { $deviceName }

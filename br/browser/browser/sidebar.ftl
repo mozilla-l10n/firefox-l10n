@@ -1,3 +1,117 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Labels for sidebar history panel
+
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Hiziv - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Dec’h - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+
+## Labels for sidebar search
+
+
+## Labels for sidebar customize panel
+
+sidebar-customize-firefox-tools-header =
+    .label = Ostilhoù { -brand-product-name }
+sidebar-vertical-tabs =
+    .label = Ivinelloù a-serzh
+sidebar-horizontal-tabs =
+    .label = Ivinelloù a-blaen
+sidebar-customize-tabs-header =
+    .label = Arventennoù an ivinelloù
+sidebar-customize-position-header =
+    .label = Lec’hiadur ar varrenn gostez
+sidebar-customize-settings-header =
+    .label = Arventennoù ar varrenn gostez
+sidebar-visibility-always-show =
+    .label = Diskouez atav
+sidebar-visibility-hide-sidebar =
+    .label = Kuzhat ar varrenn gostez
+
+## Labels for sidebar context menu items
+
+sidebar-context-menu-manage-extension =
+    .label = Merañ an askouezh
+sidebar-context-menu-remove-extension =
+    .label = Dilemel an askouezh
+sidebar-context-menu-report-extension =
+    .label = Danevelliñ an askouezh
+sidebar-context-menu-open-in-window =
+    .label = Digeriñ e-barzh ur prenestr nevez
+sidebar-context-menu-open-in-private-window =
+    .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
+sidebar-context-menu-bookmark-tab =
+    .label = Ouzhpennañ er sinedoù…
+sidebar-context-menu-copy-link =
+    .label = Eilañ an ere
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Serriñ an ivinell war { $deviceName }
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page =
+    .label = Dilemel eus ar roll istor
+
+## Labels for sidebar menu items.
+
+sidebar-menu-history-label =
+    .label = Roll istor
+sidebar-menu-synced-tabs-label =
+    .label = Ivinelloù an trevnadoù all
+sidebar-menu-bookmarks-label =
+    .label = Sinedoù
+sidebar-menu-customize-label =
+    .label = Personelaat ar varrenn gostez
+sidebar-menu-review-checker-label =
+    .label = Gwirier alioù
+
+## Headings for sidebar menu panels.
+
+sidebar-menu-customize-header =
+    .heading = Personelaat ar varrenn gostez
+sidebar-menu-history-header =
+    .heading = Roll istor
+sidebar-menu-syncedtabs-header =
+    .heading = Ivinelloù an trevnadoù all
+sidebar-panel-header-close-button =
+    .tooltiptext = Serriñ
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personelaat ar varrenn gostez
+sidebar-history-title = Roll istor
+sidebar-syncedtabs-title = Ivinelloù an trevnadoù all
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Serriñ an ivinell war { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Dispakañ ar varrenn gostez
+    .label = Barrennoù kostez
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Serriñ ar varrenn gostez
+    .label = Barrennoù kostez
+sidebar-widget-show-sidebar =
+    .tooltiptext = Diskouez ar varrenn gostez
+    .label = Barrennoù kostez
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Kuzhat ar varrenn gostez
+    .label = Barrennoù kostez

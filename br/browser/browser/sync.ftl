@@ -36,3 +36,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Kasit un ivinell war-eeun d'un trevnad kennasket
 fxa-menu-sign-out =
     .label = Digennaskañ…
+fxa-menu-sync-title = Goubredañ
