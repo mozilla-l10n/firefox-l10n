@@ -208,6 +208,8 @@ newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagrade
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden seg { $provider }. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen akken ad twaliḍ imagraden yelhan di Web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen  akken ad twaliḍ imagraden yelhan di Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

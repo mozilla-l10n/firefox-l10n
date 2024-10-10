@@ -35,6 +35,20 @@ genai-header-close-button =
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Kemmel
+genai-onboarding-secondary = Mdel
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Issin ugar ɣef Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Issin ugar ɣef ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Issin ugar ɣef Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Issin ugar vef HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Issi ugar ɣef Chat
@@ -56,3 +70,5 @@ genai-onboarding-gemini-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍa
 genai-onboarding-huggingchat-generate = Sirew aḍris akked tengalt
 genai-onboarding-huggingchat-switch = Senfel gar tegrumma yemgaraden n tmudmin yeldin
 genai-onboarding-huggingchat-price = Ilelli; amiḍan yettwasra i kra n twuriwin
+genai-onboarding-lechat-generate = Sirew aḍris akked tengalt
+genai-onboarding-lechat-price = D ilelli: amiḍan yettwasra
