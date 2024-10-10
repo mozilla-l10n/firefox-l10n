@@ -354,6 +354,16 @@ support-printing-troubleshoot = Disac’hañ
 support-printing-prefs-name = Anv
 support-printing-prefs-value = Talvoud
 
+## Remote Settings sections
+
+support-remote-settings-status-ok = Mat eo
+# Status when synchronization is not working.
+support-remote-settings-status-broken = N’ez a ket en-dro
+support-remote-settings-sync-history = Roll istor
+support-remote-settings-sync-history-status = Stad
+support-remote-settings-sync-history-datetime = Deiziad
+support-remote-settings-sync-history-infos = Titouroù
+
 ## Normandy sections
 
 support-remote-experiments-name = Anv
@@ -363,3 +373,6 @@ support-remote-features-status = Statud
 ## Pointing devices
 
 pointing-device-mouse = Logodenn
+
+## Content Analysis (DLP)
+

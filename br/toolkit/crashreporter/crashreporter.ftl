@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Daneveller sac'hadennoù
-crashreporter-crash-message = Ur gudenn zo bet gant { -brand-short-name } ha sac'het e oa.
+crashreporter-apology = Digarezit ac’hanomp
 crashreporter-plea = Evit sikour ac'hanomp da reizhañ ar gudenn, gallout a rit kas deomp un danevell sac'hadenn.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Munudoù: { $details }
 crashreporter-no-run-message = An arload-mañ zo loc'het goude ur sac'hadenn evit danevellañ ar gudenn d'an embanner. Ne rankfe bezañ loc'het war-eeun.
 crashreporter-button-details = Munudoù…
+crashreporter-loading-details = O kargañ…
 crashreporter-view-report-title = Endalc'had an danevell
 crashreporter-comment-prompt = Ouzhpennañ un askelenn (gwelus eo an askelennoù d'an holl)
 crashreporter-report-info = An danevell-mañ a endalc'h keloù teknikel diwar-benn stad an arload pa oa sac'het.
