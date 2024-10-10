@@ -59,6 +59,12 @@ genai-input-ask-provider =
 ## Chatbot header
 
 genai-chatbot-title = AI чатбот
+genai-header-provider-menu =
+    .title = Изберете чатбот
+genai-header-options-button =
+    .title = Отваряне на меню
+genai-header-close-button =
+    .title = Затваряне
 genai-provider-view-details =
     .label = Преглед на подробностите за чат-бота
 genai-provider-about-chatbots =
