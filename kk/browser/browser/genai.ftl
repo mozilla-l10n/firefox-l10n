@@ -90,6 +90,8 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз. Сіз таңдаған кезде біз әрбір чат-бот туралы мәліметтерді көрсетеміз. Кез келген уақытта ауысуға болады. <a data-l10n-name="learn-more">Көбірек білу</a>
 genai-onboarding-primary = Жалғастыру
 genai-onboarding-secondary = Жабу
 genai-onboarding-claude-tooltip =
