@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Бет дыбысын іске қосу
 tabbrowser-manager-close-tab =
     .tooltiptext = Бетті жабу
+
+## Tab Groups
+
+tab-group-editor-title-create = Беттер тобын жасау
+tab-group-editor-title-edit = Беттер тобын басқару
+tab-group-editor-name-label = Аты
+tab-group-editor-name-field =
+    .placeholder = Мысалы: Шоппинг
+tab-group-editor-cancel =
+    .label = Бас тарту
+    .accesskey = с
+tab-group-editor-create =
+    .label = Жасау
+    .accesskey = Ж

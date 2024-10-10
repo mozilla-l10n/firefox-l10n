@@ -136,3 +136,15 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Бүйір панелін жазық қылу
+    .label = Бүйір панельдер
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Бүйір панелін бүктеу
+    .label = Бүйір панельдер
+sidebar-widget-show-sidebar =
+    .tooltiptext = Бүйір панелін көрсету
+    .label = Бүйір панельдер
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Бүйір панелін жасыру
+    .label = Бүйір панельдер

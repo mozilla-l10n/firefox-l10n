@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Сол жақтан беттерді жабу
     .accesskey = л
+close-tabs-to-the-start-vertical =
+    .label = Үстінен беттерді жау
+    .accesskey = т
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Оң жақтан беттерді жабу
     .accesskey = О
+close-tabs-to-the-end-vertical =
+    .label = Астынан беттерді жау
+    .accesskey = ы
 close-other-tabs =
     .label = Басқа беттерді жабу
     .accesskey = с
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Бөлісу
     .accesskey = л
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Оң жақтан жаңа бет
+    .accesskey = а
+tab-context-new-tab-open-vertical =
+    .label = Астынан жаңа бет
+    .accesskey = а
+tab-context-new-group =
+    .label = Жаңа топ
+    .accesskey = т
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
