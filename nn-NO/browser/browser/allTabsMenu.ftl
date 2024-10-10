@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Lat att duplikatfaner
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Lat att alle dupliserte faner
+all-tabs-menu-synced-tabs =
+    .label = Faner frå andre einingar
