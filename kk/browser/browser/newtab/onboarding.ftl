@@ -397,6 +397,12 @@ onboarding-existing-vertical-tabs-label = Вертикалды беттерді 
 onboarding-flair-text = Жаңа!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Горизонталды беттерді қолдана беру
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = { -brand-shorter-name } бүйір панелінің бөлігі ретінде экран бүйіріндегі беттерді көрсететін браузер терезесі.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = { -brand-shorter-name } бүйір панелінің бөлігі ретінде экран бүйіріндегі беттерді көрсететін браузер терезесі.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Жоғарғы жағында беттерді көрсететін браузер терезесі.
@@ -405,5 +411,7 @@ onboarding-horizontal-tabs-description =
     .aria-description = Жоғарғы жағында беттерді көрсететін браузер терезесі.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Бүйір панелінде ЖИ чат-ботын қолданып көріңіз
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Веб-мазмұнды қорытындылау, идеяларды талқылау, хабарламаларды жобалау - барлығын шолу кезінде жасаңыз. Бірнеше провайдерлерден таңдаңыз. Кез келген уақытта ауысыңыз.<a data-l10n-name="learn-more">Көбірек білу</a>
 onboarding-genai-sidebar-primary-button = Чат-ботты таңдау
 onboarding-genai-sidebar-secondary-button = Шолуды бастау

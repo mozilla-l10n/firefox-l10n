@@ -90,6 +90,7 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Шолу кезінде қорытындылау, ми шабуылын жасау және т.б
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз. Сіз таңдаған кезде біз әрбір чат-бот туралы мәліметтерді көрсетеміз. Кез келген уақытта ауысуға болады. <a data-l10n-name="learn-more">Көбірек білу</a>
 genai-onboarding-primary = Жалғастыру
@@ -110,6 +111,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat туралы көбірек білу
 genai-onboarding-select-header = Ұсыныстарды көру үшін мәтінді таңдаңыз
+genai-onboarding-select-description = Мәтінді таңдаған кезде чат-ботқа жіберуге болатын ескертулерді ұсынамыз. Сіз өзіңіздің сұрауларыңызды да жаза аласыз.
 genai-onboarding-select-primary = Чатты бастау
 
 ## Chatbot onboarding choices
