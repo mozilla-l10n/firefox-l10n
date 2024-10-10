@@ -27,6 +27,11 @@ genai-input-ask-provider =
 
 ## Chatbot header
 
+genai-chatbot-title = AI chatbot
+genai-header-options-button =
+    .title = Ldi umuɣ
+genai-header-close-button =
+    .title = Mdel
 
 ## Chatbot onboarding
 
