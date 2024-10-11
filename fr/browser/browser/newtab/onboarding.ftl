@@ -389,6 +389,10 @@ onboarding-new-vertical-tabs-label = Onglets sur le côté
 onboarding-new-horizontal-tabs-label = Onglets en haut de l’écran
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Les onglets verticaux sont là
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Les onglets verticaux sont là
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Essayez de placer vos onglets sur le côté. Changez de mode à tout moment depuis les paramètres du panneau latéral.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Essayer les onglets verticaux
 onboarding-flair-text = Nouveau !
