@@ -132,5 +132,6 @@ addon-local-install-error-not-signed = Ez a kiegészítő nem telepíthető, mer
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = A(z) { $addonName } nem volt telepíthető, mert nem kompatibilis a { -brand-short-name } { $appVersion } verzióval.
 addon-install-error-blocklisted = A(z) { $addonName } nem volt telepíthető, mert stabilitási és biztonsági szempontból magas kockázatú.
+addon-install-error-soft-blocked = A(z) { $addonName } sérti a Mozilla házirendjeit, és nem telepíthető a { -brand-short-name(case: "sublative") }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Végfelhasználóként nem telepítheti a(z) { $addonName } kiegészítőt, csak a szervezete telepítheti vállalati házirendek használatával.

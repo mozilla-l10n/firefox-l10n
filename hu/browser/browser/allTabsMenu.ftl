@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Ismétlődő lapok bezárása
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Összes ismétlődő lap bezárása
+all-tabs-menu-synced-tabs =
+    .label = Lapok más eszközökről
