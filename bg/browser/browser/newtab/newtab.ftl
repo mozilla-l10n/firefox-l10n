@@ -47,6 +47,7 @@ newtab-topsites-add-search-engine-header = Добавяне на търсеща 
 newtab-topsites-add-shortcut-header = Нова клавишна комбинация
 newtab-topsites-edit-topsites-header = Променяне на често посещавана страница
 newtab-topsites-edit-shortcut-header = Промяна на икона
+newtab-topsites-add-shortcut-label = Добавяне на пряк път
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
@@ -397,6 +398,7 @@ newtab-topic-label-society = Лайфхакове
 newtab-topic-label-sports = Спорт
 newtab-topic-label-tech = Технологии
 newtab-topic-label-travel = Пътуване
+newtab-topic-label-home = Дом и градина
 
 ## Topic Selection Modal
 
