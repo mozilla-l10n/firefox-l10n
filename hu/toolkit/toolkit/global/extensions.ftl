@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Mégse
     .accesskey = M
-
 webext-perms-sideload-text = A számítógépre telepített másik program olyan kiegészítőt telepített, amely hatással lehet a böngészőre. Ellenőrizze a kiegészítő engedélykéréseit, és válassza az Engedélyezést vagy a Mégse lehetőséget (a letiltva hagyáshoz).
 webext-perms-sideload-text-no-perms = A számítógépre telepített másik program olyan kiegészítőt telepített, amely hatással lehet a böngészőre. Válassza az Engedélyezést vagy a Mégse lehetőséget (a letiltva hagyáshoz).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Mégse
     .accesskey = M
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-update-accept =
     .label = Frissítés
     .accesskey = F
-
 webext-perms-optional-perms-list-intro = Ezeket szeretné:
 webext-perms-optional-perms-allow =
     .label = Engedélyezés
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Tiltás
     .accesskey = T
-
 webext-perms-host-description-all-urls = Az adatai elérése az összes webhelyhez
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Az adatai elérése a(z) { $domain } tartományban lévő lapokhoz
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Az adatai elérése itt: { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -75,6 +68,21 @@ webext-perms-host-description-too-many-sites =
     { $domainCount ->
         [one] Az adatai elérése még { $domainCount } oldalon
        *[other] Az adatai elérése még { $domainCount } oldalon
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Az adatai elérése ezekben a tartományokban lévő lapokhoz: { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] Az adatai elérése ebben az 1 tartományban lévő lapokhoz
+       *[other] Az adatai elérése ebben a(z) { $domainCount } tartományban lévő lapokhoz
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
