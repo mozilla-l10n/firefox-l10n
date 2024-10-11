@@ -102,9 +102,9 @@ tabbrowser-confirm-close-tabs-checkbox = Potvrdi prije zatvaranja više kartica
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { NUMBER($windowCount) ->
-        [one] Zatvori { $windowCount } prozor?
-        [few] Zatvori { $windowCount } prozora?
-       *[other] Zatvori { $windowCount } prozora?
+        [one] Zatvoriti { $windowCount } prozor?
+        [few] Zatvoriti { $windowCount } prozora?
+       *[other] Zatvoriti { $windowCount } prozora?
     }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
@@ -196,3 +196,6 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Uključi zvuk kartice
 tabbrowser-manager-close-tab =
     .tooltiptext = Zatvori karticu
+
+## Tab Groups
+
