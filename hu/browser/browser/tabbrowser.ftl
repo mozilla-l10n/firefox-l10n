@@ -174,3 +174,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Lap visszahangosítása
 tabbrowser-manager-close-tab =
     .tooltiptext = Lap bezárása
+
+## Tab Groups
+
+tab-group-editor-title-create = Lapcsoport létrehozása
+tab-group-editor-title-edit = Lapcsoport kezelése
+tab-group-editor-name-label = Név
+tab-group-editor-name-field =
+    .placeholder = Példa: Vásárlás
+tab-group-editor-cancel =
+    .label = Mégse
+    .accesskey = M
