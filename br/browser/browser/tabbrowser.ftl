@@ -159,6 +159,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Na ziskouez ar voestad-emziviz-mañ 
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Serriñ an ivinelloù
 
 ##
 
@@ -209,3 +210,6 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Divudañ an ivinell
 tabbrowser-manager-close-tab =
     .tooltiptext = Serriñ an ivinell
+
+## Tab Groups
+

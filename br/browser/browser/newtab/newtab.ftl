@@ -346,6 +346,7 @@ newtab-weather-change-location-search-input = Klask ul lec’h
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Eeun
+newtab-weather-menu-weather-display-option-detailed = Munudoù
 newtab-weather-menu-temperature-units = Unanenn wrezverk
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
