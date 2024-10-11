@@ -13,6 +13,10 @@ sidebar-history-date-yesterday =
     .heading = Dec’h - { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-delete =
+    .title = Dilemel eus ar roll istor
+sidebar-history-clear =
+    .label = Skarzhañ ar roll istor
 
 ## Labels for sidebar search
 
