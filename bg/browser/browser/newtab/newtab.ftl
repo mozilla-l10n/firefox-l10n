@@ -374,6 +374,8 @@ newtab-weather-menu-temperature-option-celsius = Целзий
 newtab-weather-menu-change-temperature-units-fahrenheit = Превключване към Фаренхайт
 newtab-weather-menu-change-temperature-units-celsius = Превключване към Целзий
 newtab-weather-menu-learn-more = Научете повече
+# This message is shown if user is working offline
+newtab-weather-error-not-available = В момента няма данни за времето.
 
 ## Topic Labels
 
@@ -403,3 +405,4 @@ newtab-topic-label-home = Дом и градина
 ## Topic Selection Modal
 
 newtab-topic-selection-button-maybe-later = Може би по-късно
+newtab-topic-selection-button-pick-interests = Изберете вашите интереси

@@ -213,6 +213,7 @@ mr2022-onboarding-colorway-title = Изберете цвета, който ви 
 mr2022-onboarding-colorway-subtitle = Независимите гласове могат да променят културата.
 mr2022-onboarding-colorway-primary-button-label-continue = Запазване и продължаване
 mr2022-onboarding-existing-colorway-checkbox-label = Направете вашата { -firefox-home-brand-name }  начална страница цветна
+mr2022-onboarding-colorway-label-default = По подразбиране
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Текущи { -brand-short-name } цветове
 mr2022-onboarding-colorway-label-playmaker = Плеймейкър
@@ -282,3 +283,6 @@ amo-picker-install-complete-label = Инсталирано
 ## New user time and familiarity survey strings
 
 onboarding-new-user-survey-legal-link-label = С избирането на „{ onboarding-new-user-survey-next-button-label }“ вие се съгласявате с <a data-l10n-name="privacy_notice">Политиката за поверителност на { -brand-product-name }.</a>
+
+## UI strings for the sidebar and vertical tabs
+
