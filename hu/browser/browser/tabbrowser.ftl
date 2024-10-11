@@ -185,3 +185,6 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Mégse
     .accesskey = M
+tab-group-editor-create =
+    .label = Létrehozás
+    .accesskey = L
