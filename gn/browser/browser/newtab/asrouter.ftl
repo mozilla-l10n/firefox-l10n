@@ -284,6 +284,7 @@ tail-fox-spotlight-secondary-button = Ani ko’ág̃a
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-march-message = <strong>Embohekopyahu eiporu hag̃ua { -brand-short-name } ohasa rire 14 jasyapy 2025.</strong>
 root-certificate-succession-infobar-link = ¿Mba’ére ambohekopyahuva’erã?
 root-certificate-succession-infobar-primary-button =
     .label = Embohekopyahu ko’ág̃a

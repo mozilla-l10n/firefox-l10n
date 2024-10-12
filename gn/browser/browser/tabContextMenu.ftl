@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Tendayke pyahu yvygotyogua
     .accesskey = w
+tab-context-new-group =
+    .label = Aty pyahu
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

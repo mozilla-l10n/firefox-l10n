@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Tendayke ñe’ẽpu moĩporã
 tabbrowser-manager-close-tab =
     .tooltiptext = Emboty tendayke
+
+## Tab Groups
+
+tab-group-editor-title-create = Emoheñói tendayke aty
+tab-group-editor-title-edit = Eñangareko tendayke aty
+tab-group-editor-name-label = Téra
+tab-group-editor-name-field =
+    .placeholder = Techapyrã: Jejogua
+tab-group-editor-cancel =
+    .label = Heja
+    .accesskey = C
+tab-group-editor-create =
+    .label = Moheñói
+    .accesskey = r
