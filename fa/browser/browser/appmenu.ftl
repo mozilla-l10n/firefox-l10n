@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = اکنون همگام شود
 appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = حساب کاربری
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -165,6 +166,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = تنظیمات پیشنهادی برای اشکال‌زدایی بیشتر کاره‌های وب، با سربار پایین.
@@ -254,3 +260,10 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ابزارهای مرورگر
 appmenu-developer-tools-extensions =
     .label = افزونه‌ها برای توسعه‌دهندگان
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = وارد حساب کاربری خود شوید
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
