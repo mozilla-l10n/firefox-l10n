@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Emboty tendayke ikõiva
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Embotypaite tendayke ikõiva
+all-tabs-menu-synced-tabs =
+    .label = Tendaykekuéra ambue mba’e’okagua
