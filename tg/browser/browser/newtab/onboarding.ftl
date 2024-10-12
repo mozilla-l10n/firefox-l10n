@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Нигоҳ доштани «{ -brand-short-name }» дар мустақар
        *[other] Васл кардани «{ -brand-short-name }» ба навори вазифа
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Васл кардани «{ -brand-short-name }» ба навори вазифа ва менюи оғоз
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -338,6 +340,7 @@ onboarding-device-migration-primary-button-label = Ворид шудан
 
 ## Add-ons Picker screen
 
+amo-picker-title = «{ -brand-short-name }»-ро ба таври дилхоҳ танзим кунед
 amo-picker-install-button-label = Илова кардан ба «{ -brand-short-name }»
 amo-picker-install-complete-label = Насбшуда
 amo-picker-collection-link = Боз ҳам ҷузъҳои иловагиро пайдо намоед
@@ -375,4 +378,9 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ман онро пеш �
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлу
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Варақаҳо дар боло
 onboarding-flair-text = Нав!
+onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо

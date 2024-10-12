@@ -284,6 +284,7 @@ tail-fox-spotlight-secondary-button = Ҳоло не
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = Чаро ба ман навсозӣ лозим аст?
 root-certificate-succession-infobar-primary-button =
     .label = Ҳозир навсозӣ кунед
     .accesskey = Ҳ

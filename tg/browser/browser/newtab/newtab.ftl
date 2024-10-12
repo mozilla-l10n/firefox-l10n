@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Танзимоти шахсии варақаи нав
 newtab-personalize-dialog-label =
     .aria-label = Танзимоти шахсӣ
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -228,7 +230,6 @@ newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = «{ -pocket-brand-name }»-ро бор кунед
 newtab-pocket-cta-text = Ҳикояҳоеро, ки дӯст медоред, дар { -pocket-brand-name } нигоҳ доред ва ба зеҳни худ аз хониши дилрабо қувват диҳед.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Нигоҳ доштан
 newtab-pocket-saved = Нигоҳ дошта шуд
 
