@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = منسوخ کرو
     .accesskey = C
-
 webext-perms-sideload-text = تہاݙے کمپیوٹر تے ہک ٻئے پروگرام ہک ایڈ آن انسٹال کیتا ہے جیڑھا تہاݙے براؤزر کوں متاثر کر سڳدا ہے۔ براہ مہربانی اں ایڈ آن دی اجازت دیاں درخواستاں دا جائزہ گھنو تے فعال یا منسوخ کرݨ دا انتخاب کرو (اینکوں غیر فعال چھوڑݨ کیتے)۔
 webext-perms-sideload-text-no-perms = تہاݙے کمپیوٹر تے ہک ٻئے پروگرام ہک ایڈ آن انسٹال کیتا ہے جیڑھا تہاݙے براؤزر کوں متاثر کر سڳدا ہے۔ براہ مہربانی فعال یا منسوخ کرݨ دا انتخاب کرو (ایندے غیر فعال رہݨ کیتے(
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = منسوخ کرو
     .accesskey = C
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } کوں اپ ڈیٹ کر ݙتا ڳیا ہے۔ اپ ڈیٹ شدہ ورژن انسٹال تھیوݨ کنوں پہلے تہاکوں نویاں اجازتاں کوں منظور کرݨا ہوسے۔ "منسوخ کرو" دا انتخاب تہاݙے موجودہ توسیعی ورژن کوں برقرار رکھیسے۔ ایں توسیع کوں اجازت ہوسے:
 webext-perms-update-accept =
     .label = اپ ڈیٹ کرو
     .accesskey = U
-
 webext-perms-optional-perms-list-intro = ایہ چاہندا ہے:
 webext-perms-optional-perms-allow =
     .label = اجازت ݙیوو
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = انکار کرو
     .accesskey = D
-
 webext-perms-host-description-all-urls = ساری ویب سائٹس کیتے آپݨے ڈیٹا تائیں رسائی گھنو
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ڈومین وِچ اپݨے سائٹاں واسطے ڈیٹا تک اپڑو
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } کیتے اپݨے ڈیٹا تک اپڑو
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -75,6 +68,21 @@ webext-perms-host-description-too-many-sites =
     { $domainCount ->
         [one] { $domainCount } ٻئی سائٹ  تے اپݨے ڈیٹا تک رسائی حاصل کرو
        *[other] { $domainCount } ٻنہاں سائٹاں تے اپݨے ڈیٹا تک رسائی حاصل کرو۔
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = { $domain } ڈومیناں وِچ  سائٹاں واسطے آپݨے ڈیٹا تک اپڑو
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] { $domainCount } ڈومین وِچ  سائٹاں واسطے آپݨے ڈیٹا تک اپڑو
+       *[other] { $domainCount } ڈومیناں وِچ  سائٹاں واسطے آپݨے ڈیٹا تک اپڑو
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
