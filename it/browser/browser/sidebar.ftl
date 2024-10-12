@@ -149,13 +149,3 @@ sidebar-widget-hide-sidebar =
     .tooltiptext = Nascondi la barra laterale
     .label = Barre laterali
 
-## Tooltips for the sidebar toolbar button.
-
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Espandi la barra laterale
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Comprimi la barra laterale
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Mostra la barra laterale
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Nascondi la barra laterale

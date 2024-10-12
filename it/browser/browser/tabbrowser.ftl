@@ -183,6 +183,3 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
   .label = Annulla
   .accesskey = A
-tab-group-editor-create =
-  .label = Crea
-  .accesskey = C
