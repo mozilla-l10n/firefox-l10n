@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Eñemomba’e tendayke pyahúre
 newtab-personalize-dialog-label =
     .aria-label = Ñemomba’e
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -232,6 +234,8 @@ newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ha’e { -brand-product-name } pehẽngue
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Ñongatu
 newtab-pocket-saved = Ñongatupyre
 
