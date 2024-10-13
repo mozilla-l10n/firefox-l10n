@@ -212,6 +212,8 @@ about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = گذرواژه حذف شود؟
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = پس از انجام امکان بازگردانی وجود ندارد.
 about-logins-confirm-remove-dialog-confirm-button = برداشتن
 
 ## Variables
@@ -248,12 +250,19 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] این کار همه ورودهایی که در { -brand-short-name } ذخیره شده و در دستگاه‌هایی که با { -fxaccount-brand-name } همگام‌سازی شده‌اند، حذف خواهند شد. این کار هشدارهای ورود ناخواسته‌ای که در اینجا نمایش داده شده‌اند نیز حذف خواهند شد. این عمل غیرقابل بازگشت است.
        *[other] این کار همه ورودهایی که در { -brand-short-name } ذخیره شده و در دستگاه‌هایی که با { -fxaccount-brand-name } همگام‌سازی شده‌اند، حذف خواهند شد. این کار هشدارهای ورود ناخواسته‌ای که در اینجا نمایش داده شده‌اند نیز حذف خواهند شد. این عمل غیرقابل بازگشت است.
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } گذرواژه پاک شود؟
+       *[other] همه { $count } گذرواژه پاک شوند؟
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = برون‌ریزی ورودها و گذرواژه‌ها
 about-logins-confirm-export-dialog-message = گذرواژه‌های شما به عنوان متن قابل خواندن ذخیره خواهد شد (مثلاً BadP@ssw0rd) بنابراین هر کسی که بتواند پرونده صادر شده را باز کند، می‌تواند آنها را ببیند.
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
+about-logins-confirm-export-dialog-title2 = نکته‌ای درباره دریافت گذرواژه‌ها
 about-logins-alert-import-title = ورود اطلاعات کامل شد
 about-logins-alert-import-message = نمایش جزئیاتِ ورود اطلاعات
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
