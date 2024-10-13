@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Zavřít duplicitní panely
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Zavřít všechny duplicitní panely
+all-tabs-menu-synced-tabs =
+    .label = Panely z jiných zařízení

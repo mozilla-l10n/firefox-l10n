@@ -211,3 +211,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Zapne zvuk panelu
 tabbrowser-manager-close-tab =
     .tooltiptext = Zavře panel
+
+## Tab Groups
+
+tab-group-editor-title-create = Vytvořit skupinu panelů
+tab-group-editor-title-edit = Spravovat skupinu panelů
+tab-group-editor-name-label = Název
+tab-group-editor-name-field =
+    .placeholder = Příklad: Nakupování
+tab-group-editor-cancel =
+    .label = Zrušit
+    .accesskey = Z

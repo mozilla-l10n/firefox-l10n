@@ -66,6 +66,7 @@ callout-pdfjs-draw-button = Rozumím
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Nechtěli jste panel zavřít?
 fx-view-discoverability-secondary-button-label = Zavřít
 
 ## Split Dismiss Button Labels
