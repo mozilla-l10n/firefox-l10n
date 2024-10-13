@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Yeni sekmeyi kişiselleştir
 newtab-personalize-dialog-label =
     .aria-label = Kişiselleştir
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -229,6 +231,8 @@ newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınızı okumaya değer şeylerle doldurun.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-name } ailesinin bir parçasıdır
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Kaydet
 newtab-pocket-saved = Kaydedildi
 

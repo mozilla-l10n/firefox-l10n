@@ -182,3 +182,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Sekmenin sesini aç
 tabbrowser-manager-close-tab =
     .tooltiptext = Sekmeyi kapat
+
+## Tab Groups
+
+tab-group-editor-title-create = Sekme grubu oluştur
+tab-group-editor-title-edit = Sekme grubunu yönet
+tab-group-editor-name-field =
+    .placeholder = Örnek: Alışveriş

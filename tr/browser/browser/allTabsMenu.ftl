@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Yinelenen sekmeleri kapat
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Tüm yinelenen sekmeleri kapat
+all-tabs-menu-synced-tabs =
+    .label = Diğer cihazlardaki sekmeler
