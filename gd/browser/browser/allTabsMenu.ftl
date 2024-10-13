@@ -5,13 +5,16 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Lorg sna tabaichean
-
 all-tabs-menu-new-user-context =
     .label = Taba soithich ùr
-
 all-tabs-menu-hidden-tabs =
     .label = Tabaichean falaichte
-
 all-tabs-menu-manage-user-context =
     .label = Stiùirich na soithichean
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = Dùin na tabaichean dùblaichte
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Dùin gach taba dùblaichte
+all-tabs-menu-synced-tabs =
+    .label = Tabaichean o uidheaman eile
