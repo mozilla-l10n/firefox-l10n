@@ -222,3 +222,6 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušit
     .accesskey = Z
+tab-group-editor-create =
+    .label = Vytvořit
+    .accesskey = V

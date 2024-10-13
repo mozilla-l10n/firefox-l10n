@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Nový panel níže
     .accesskey = p
+tab-context-new-group =
+    .label = Nová skupina
+    .accesskey = N
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
