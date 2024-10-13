@@ -412,5 +412,7 @@ onboarding-horizontal-tabs-description =
     .aria-description = Вікно браузера з вкладками вгорі.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Спробуйте чат-бота ШІ на бічній панелі
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Узагальнюйте вебвміст, обмірковуйте ідеї, чернетки повідомлень — і все це під час перегляду. Виберіть з кількох постачальників та перемикайтеся будь-коли. <a data-l10n-name="learn-more">Докладніше</a>
 onboarding-genai-sidebar-primary-button = Виберіть чат-бота
 onboarding-genai-sidebar-secondary-button = Почати перегляд

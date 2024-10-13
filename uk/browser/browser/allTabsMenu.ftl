@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Закрити дублікати вкладок
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Закрити всі дублікати вкладок
+all-tabs-menu-synced-tabs =
+    .label = Вкладки з інших пристроїв

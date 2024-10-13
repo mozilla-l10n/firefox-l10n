@@ -136,3 +136,15 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Розгорнути бічну панель
+    .label = Бічні панелі
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Згорнути бічну панель
+    .label = Бічні панелі
+sidebar-widget-show-sidebar =
+    .tooltiptext = Показати бічну панель
+    .label = Бічні панелі
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Сховати бічну панель
+    .label = Бічні панелі

@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Скасувати
     .accesskey = С
-
 webext-perms-sideload-text = Інша програма на вашому комп'ютері встановила додаток, що може вплинути на ваш браузер. Ознайомтесь із запитами дозволів для цього додатка й оберіть Увімкнути чи Скасувати (щоб залишити його вимкненим).
 webext-perms-sideload-text-no-perms = Інша програма на вашому комп'ютері встановила додаток, що може вплинути на ваш браузер. Оберіть Увімкнути чи Скасувати (щоб залишити його вимкненим).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Скасувати
     .accesskey = С
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } було оновлено. Ви повинні схвалити нові дозволи перед встановленням оновленої версії. Вибравши “Скасувати”, розширення не оновиться і ви продовжите користуватися поточною версією. Це розширення матиме дозвіл:
 webext-perms-update-accept =
     .label = Оновити
     .accesskey = н
-
 webext-perms-optional-perms-list-intro = Він хоче отримати дозвіл на:
 webext-perms-optional-perms-allow =
     .label = Дозволити
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Заборонити
     .accesskey = б
-
 webext-perms-host-description-all-urls = Доступ до ваших даних для всіх вебсайтів
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Доступ до ваших даних для сайтів у домені { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -68,7 +62,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Доступ до ваших даних для { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -77,6 +70,22 @@ webext-perms-host-description-too-many-sites =
         [one] Доступ до ваших даних для ще { $domainCount } сайту
         [few] Доступ до ваших даних для ще { $domainCount } сайтів
        *[many] Доступ до ваших даних для ще { $domainCount } сайтів
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Доступ до ваших даних для сайтів у доменах { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] Доступ до ваших даних для сайтів у { $domainCount } домені
+        [few] Доступ до ваших даних для сайтів у { $domainCount } доменах
+       *[many] Доступ до ваших даних для сайтів у { $domainCount } доменах
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
