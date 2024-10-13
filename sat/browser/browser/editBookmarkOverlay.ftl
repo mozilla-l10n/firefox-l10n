@@ -23,6 +23,9 @@ bookmark-overlay-folders-expander2 =
     .tooltiptext = ᱡᱷᱚᱛᱚ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱯᱚᱴᱚᱢ ᱠᱚ ᱩᱫᱚᱜ ᱢᱮ ᱾
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = ᱩᱠᱩ
+# bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded
+bookmark-overlay-folders-tree =
+    .aria-label = ᱯᱚᱴᱚᱢᱠᱚ
 bookmark-overlay-new-folder-button =
     .label = ᱱᱚᱶᱟ ᱯᱚᱴᱚᱢ
     .accesskey = ᱱ

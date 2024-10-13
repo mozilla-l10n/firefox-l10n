@@ -144,6 +144,8 @@ login-item-copied-username-button-text = ᱱᱚᱠᱚᱞᱮᱱᱟ!
 login-item-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
 login-item-password-reveal-checkbox =
     .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ
+login-item-password-conceal-checkbox =
+    .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱩᱠᱩ
 login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
 login-item-copied-password-button-text = ᱱᱚᱠᱚᱞᱮᱱᱟ!
 login-item-save-changes-button = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
@@ -333,6 +335,9 @@ about-logins-export-file-picker-title = ᱨᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮ�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ.csv
 about-logins-export-file-picker-export-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -346,6 +351,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ᱵᱚᱞᱚ ᱨᱮᱫ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name } ᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱫᱮ ᱢᱮ
 about-logins-import-file-picker-import-button = ᱟᱹᱜᱩ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

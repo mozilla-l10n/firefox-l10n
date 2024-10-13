@@ -21,3 +21,10 @@ default-browser-prompt-message-alt = ᱡᱟᱦᱟᱸ ᱛᱤ ᱨᱮ ᱟᱢ ᱵᱽ
 default-browser-prompt-button-primary-alt = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
 default-browser-prompt-checkbox-not-again-label = ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟᱢ
 default-browser-prompt-button-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-info-page = ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+default-browser-guidance-notification-dismiss = ᱦᱩᱭᱮᱱᱟ
