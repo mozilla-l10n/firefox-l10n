@@ -15,6 +15,8 @@ genai-settings-chat-claude-links = Вақте ки шумо «Anthropic Claude»
 genai-settings-chat-copilot-links = Вақте ки шумо «Copilot»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои таҷрибаи «Copilot AI»</a> ва <a data-l10n-name="link2">Эъломияи махфияти «Microsoft»</a> розӣ мешавед.
 genai-settings-chat-gemini-links = Вақте ки шумо «Google Gemini»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонии «Google»</a>, <a data-l10n-name="link2">Сиёсати истифодабарии зеҳни сунъии маҳсулнокии манъшуда</a> ва <a data-l10n-name="link3">Огоҳномаи махфияти барномаҳои «Gemini»</a> розӣ мешавед.
 genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Огоҳномаи махфияти «HuggingChat»</a> ва <a data-l10n-name="link2">Сиёсати махфияти «Hugging Face»</a> розӣ мешавед.
+genai-settings-chat-lechat-links = Вақте ки шумо «Le Chat Mistral»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> зеҳни сунъии «Mistral AI» розӣ мешавед.
+genai-settings-chat-localhost-links = Чат-боти маҳаллии хусусиро, ба монанди <a data-l10n-name="link1">«llamafile»</a> аз ҷониби гурӯҳи инноватсионии «{ -vendor-short-name }», эҷод намоед.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -98,4 +100,6 @@ genai-onboarding-gemini-generate = Эҷод кардани матн, тасви�
 genai-onboarding-gemini-analyze = Тасвирҳо (ройгон) ва ҳуҷҷатҳоро (пулакӣ) таҳлил кунед
 genai-onboarding-gemini-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
 genai-onboarding-huggingchat-generate = Эҷод кардани матн ва рамз
+genai-onboarding-huggingchat-price = Ройгон; ҳисоби шахсӣ барои баъзе вазифаҳо талаб карда мешавад
 genai-onboarding-lechat-generate = Эҷод кардани матн ва рамз
+genai-onboarding-lechat-price = Ройгон; ҳисоби шахсӣ талаб карда мешавад
