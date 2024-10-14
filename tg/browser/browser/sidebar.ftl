@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Чат-боти зеҳни сунъӣ «AI»
+menu-view-review-checker =
+    .label = Абзори тафтиши тақризҳо
 
 ## Labels for sidebar history panel
 
@@ -48,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Варақаҳои уфуқӣ
 sidebar-customize-tabs-header =
     .label = Танзимоти варақа
+sidebar-customize-button-header =
+    .label = Тугмаи навори ҷонибӣ
+sidebar-customize-position-header =
+    .label = Ҷойгиршавии навори ҷонибӣ
 sidebar-customize-settings-header =
     .label = Танзимоти навори ҷонибӣ
 sidebar-visibility-always-show =
@@ -118,16 +126,8 @@ sidebar-syncedtabs-title = Варақаҳо аз дастгоҳҳои дигар
 synced-tabs-context-close-tab-title =
     .title = Пӯшидани варақа дар «{ $deviceName }»
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Баркушодани навори ҷонибӣ
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Печондани навори ҷонибӣ
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Намоиш додани навори ҷонибӣ
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Пинҳон кардани навори ҷонибӣ
 sidebar-widget-expand-sidebar =
     .tooltiptext = Баркушодани навори ҷонибӣ
     .label = Наворҳои ҷонибӣ

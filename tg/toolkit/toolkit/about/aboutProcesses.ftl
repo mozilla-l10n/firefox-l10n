@@ -53,6 +53,7 @@ about-processes-remote-sandbox-broker-process = Миёнрави дурдаст�
 about-processes-fork-server-process = Сервери «Форк» ({ $pid })
 about-processes-preallocated-process = Пешакӣ ҷойгиршуда ({ $pid })
 about-processes-utility-process = Барномаи пуштибонӣ ({ $pid })
+about-processes-inference-process = Ҷамъбаст ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

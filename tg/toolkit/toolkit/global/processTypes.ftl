@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Муҳтавои сомона
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Пешакӣ ҷойгиршуда
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Асосӣ
 process-type-tab = Варақа
@@ -41,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Бастагоҳ
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Ҷамъбаст
 # process used to run some IPC actor in their own sandbox
 process-type-utility = «IPC Actor» дар минтақаи санҷишӣ
 process-type-utility-actor-audio-decoder-generic = Барномаи пуштибонии рамзкушоии умумии аудио
@@ -53,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Барномаи пуштибо
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Номаълум

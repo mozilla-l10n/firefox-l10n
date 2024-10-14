@@ -423,3 +423,5 @@ newtab-topic-label-home = Хона ва боғ
 newtab-topic-selection-save-button = Нигоҳ доштан
 newtab-topic-selection-cancel-button = Бекор кардан
 newtab-topic-selection-button-maybe-later = Шояд дертар
+newtab-topic-selection-button-update-interests = Манфиатҳои худро навсозӣ кунед
+newtab-topic-selection-button-pick-interests = Манфиатҳои худро интихоб кунед
