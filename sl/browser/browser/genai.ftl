@@ -6,19 +6,19 @@
 ## Generative AI (GenAI) Settings section
 
 genai-settings-chat-description = V stransko vrstico doda klepetalnega robota po vaši izbiri za hiter dostop med brskanjem. <a data-l10n-name="connect">Povratne informacije</a>
-genai-settings-chat-choose = Izberite klepetalnega robota
+genai-settings-chat-choose = Izberite klepetalnik
 genai-settings-chat-choose-one-menuitem =
     .label = Izberite enega
-genai-settings-chat-links = Ko izberete klepetalnega robota se strinjate s pogoji uporabe in pravilnikom o zasebnosti ponudnika.
+genai-settings-chat-links = Ko izberete klepetalnik se strinjate s pogoji uporabe in pravilnikom o zasebnosti ponudnika.
 genai-settings-chat-chatgpt-links = Z izbiro ChatGPT se strinjate s <a data-l10n-name="link1">pogoji uporabe</a> in <a data-l10n-name="link2">pravilnikom o zasebnosti</a> OpenAI.
 genai-settings-chat-claude-links = Z izbiro Anthropic Clauda se strinjate s <a data-l10n-name="link1">pogoji uporabe</a>, <a data-l10n-name="link2">pravilnikom o uporabi</a> in <a data-l10n-name="link3">pravilnikom o zasebnosti</a> Anthropica.
 genai-settings-chat-copilot-links = Z izbiro Copilota se strinjate s <a data-l10n-name="link1">pogoji uporabe Copilot AI Experiences</a> in <a data-l10n-name="link2">Microsoftovo izjavo o zasebnosti</a>.
 genai-settings-chat-gemini-links = Z izbiro Google Gemini se strinjate z <a data-l10n-name="link1">Googlovimi pogoji uporabe</a>, <a data-l10n-name="link2">pravilnikom o prepovedani uporabi generativne UI</a> in <a data-l10n-name="link3">obvestilo o zasebnosti Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Z izbiro HuggingChata se strinjate z <a data-l10n-name="link1">obvestilom o zasebnosti HuggingChata</a> in <a data-l10n-name="link2">pravilnikom o zasebnosti Hugging Faca</a>.
 genai-settings-chat-lechat-links = Z izbiro Le Chat Mistral se strinjate s <a data-l10n-name="link1">pogoji uporabe</a> in z <a data-l10n-name="link2">obvestilom o zasebnosti</a>.
-genai-settings-chat-localhost-links = Pripeljite svojega zasebnega klepetalnega robota kot je <a data-l10n-name="link1">llamafile</a> iz skupine za inovacije { -vendor-short-name }.
+genai-settings-chat-localhost-links = Pripeljite svoj zasebni klepetalnik kot je <a data-l10n-name="link1">llamafile</a> iz skupine za inovacije { -vendor-short-name }.
 genai-settings-chat-shortcuts =
-    .description = Prikaže bližnjico do pozivov, ko izbirate besedilo. { -brand-short-name } klepetalnemu robotu pošilja besedilo, naslov strani in poziv.
+    .description = Prikaže bližnjico do pozivov, ko izbirate besedilo. { -brand-short-name } klepetalniku pošilja besedilo, naslov strani in poziv.
     .label = Prikaži pozive ob izbiri besedila
 
 ## Chatbot prompts
@@ -51,12 +51,46 @@ genai-prompt-prefix-selection = Nahajam se na strani “{ $tabTitle }” z izbir
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Vpraša AI klepetalnega robota
+    .label = Vpraša AI klepetalnik
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Vprašaj { $provider }
 genai-input-ask-generic =
-    .placeholder = Vprašaj AI klepetalnega robota …
+    .placeholder = Vprašaj AI klepetalnik …
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Vprašaj { $provider } …
+genai-shortcuts-hide =
+    .label = Skrij bližnjico klepetalnika
+
+## Chatbot header
+
+genai-chatbot-title = AI klepetalnik
+genai-header-provider-menu =
+    .title = Izberite klepetalnik
+genai-header-options-button =
+    .title = Odpri meni
+genai-header-close-button =
+    .title = Zapri
+genai-provider-view-details =
+    .label = Podrobnosti klepetalnika
+genai-provider-about-chatbots =
+    .label = O teh klepetalnikih
+genai-options-reload-generic =
+    .label = Ponovno naloži AI klepetalnik
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ponovno naloži { $provider }
+genai-options-show-shortcut =
+    .label = Prikaži bližnjico pri izbiranju besedila
+genai-options-hide-shortcut =
+    .label = Skrij bližnjico pri izbiranju besedila
+genai-options-about-chatbot =
+    .label = O AI klepetalnikih v { -brand-shorter-name(sklon: "mestnik") }
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
