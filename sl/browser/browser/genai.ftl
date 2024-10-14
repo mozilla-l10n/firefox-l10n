@@ -111,7 +111,23 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Več o Le Chat
 genai-onboarding-select-header = Izberite besedilo za prikaz predlogov
+genai-onboarding-select-description = Ko izberete besedilo, bomo predlagali pozive, ki jih lahko pošljete klepetalniku. Napišete lahko tudi svoje pozive.
+genai-onboarding-select-primary = Začni klepetati
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Ustvarite besedilo in kodo
+genai-onboarding-claude-analyze = Analizirajte dokumente in slike
+genai-onboarding-claude-price = Brezplačne in plačljive možnosti; zahtevan račun
+genai-onboarding-chatgpt-generate = Ustvarite besedilo, slike in kodo
+genai-onboarding-chatgpt-analyze = Analizirajte dokumente in slike
+genai-onboarding-chatgpt-price = Brezplačne in plačljive možnosti; za nekatere države in opravila je potreben račun
+genai-onboarding-gemini-generate = Ustvarite besedilo, slike in kodo
+genai-onboarding-gemini-analyze = Analizirajte slike (brezplačno) in dokumente (plačljivo)
+genai-onboarding-gemini-price = Brezplačne in plačljive možnosti; zahtevan račun
+genai-onboarding-huggingchat-generate = Ustvarite besedilo in kodo
+genai-onboarding-huggingchat-switch = Izbirajte med raznolikim naborom odprtih modelov
+genai-onboarding-huggingchat-price = Brezplačno; za nekatera opravila je zahtevan račun
+genai-onboarding-lechat-generate = Ustvarite besedilo in kodo
+genai-onboarding-lechat-price = Brezplačno; zahtevan račun
