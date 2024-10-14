@@ -380,6 +380,16 @@ tail-fox-spotlight-secondary-button = Teď ne
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Starší verze { -brand-short-name(case: "gen") } mohou začít mít 14. ledna 2025 problémy.</strong>
+       *[no-cases] <strong>Starší verze aplikace { -brand-short-name } mohou začít mít 14. ledna 2025 problémy.</strong>
+    }
+root-certificate-succession-infobar-march-message =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Proveďte aktualizaci, aby jste mohli { -brand-short-name } nadále používat i po 14. březnu 2025.</strong>
+       *[no-cases] <strong>Proveďte aktualizaci, aby jste mohli aplikaci { -brand-short-name } nadále používat i po 14. březnu 2025.</strong>
+    }
 root-certificate-succession-infobar-link = Proč potřebuji aktualizaci?
 root-certificate-succession-infobar-primary-button =
     .label = Aktualizovat

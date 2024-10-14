@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Přizpůsobení nového panelu
 newtab-personalize-dialog-label =
     .aria-label = Přizpůsobit
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -235,6 +237,8 @@ newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Ukládejte si články do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je součástí rodiny { -brand-product-name(case: "gen") }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Uložit
 newtab-pocket-saved = Uloženo
 
