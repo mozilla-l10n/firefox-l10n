@@ -25,6 +25,18 @@ genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Аз «{ $provider }» пурсед
+genai-input-ask-generic =
+    .placeholder = Аз чат-боти зеҳни сунъӣ «AI» пурсед…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Аз «{ $provider }» пурсед…
+genai-shortcuts-hide =
+    .label = Пинҳон кардани миёнбури чат-бот
 
 ## Chatbot header
 
@@ -44,6 +56,10 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Аз нав бор кардани «{ $provider }»
+genai-options-show-shortcut =
+    .label = Нишон додани миёнбур ҳангоми интихоби матн
+genai-options-hide-shortcut =
+    .label = Пинҳон кардани миёнбур ҳангоми интихоби матн
 genai-options-about-chatbot =
     .label = Дар бораи чат-ботҳои зеҳни сунъӣ «AI» дар «{ -brand-short-name }»
 
@@ -75,3 +91,11 @@ genai-onboarding-select-primary = Оғоз кардани чат
 genai-onboarding-claude-generate = Эҷод кардани матн ва рамз
 genai-onboarding-claude-analyze = Таҳлил кардани ҳуҷҷатҳо ва тасвирҳо
 genai-onboarding-claude-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
+genai-onboarding-chatgpt-generate = Эҷод кардани матн, тасвирҳо ва рамз
+genai-onboarding-chatgpt-analyze = Таҳлил кардани ҳуҷҷатҳо ва тасвирҳо
+genai-onboarding-chatgpt-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ барои баъзе кишварҳо ва вазифаҳо талаб карда мешавад
+genai-onboarding-gemini-generate = Эҷод кардани матн, тасвирҳо ва рамз
+genai-onboarding-gemini-analyze = Тасвирҳо (ройгон) ва ҳуҷҷатҳоро (пулакӣ) таҳлил кунед
+genai-onboarding-gemini-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
+genai-onboarding-huggingchat-generate = Эҷод кардани матн ва рамз
+genai-onboarding-lechat-generate = Эҷод кардани матн ва рамз
