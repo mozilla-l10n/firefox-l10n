@@ -187,5 +187,12 @@ tabbrowser-manager-close-tab =
 
 tab-group-editor-title-create = Sekme grubu oluştur
 tab-group-editor-title-edit = Sekme grubunu yönet
+tab-group-editor-name-label = Ad
 tab-group-editor-name-field =
     .placeholder = Örnek: Alışveriş
+tab-group-editor-cancel =
+    .label = Vazgeç
+    .accesskey = V
+tab-group-editor-create =
+    .label = Oluştur
+    .accesskey = O

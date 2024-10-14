@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Altta yeni sekme
     .accesskey = A
+tab-context-new-group =
+    .label = Yeni grup
+    .accesskey = u
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
