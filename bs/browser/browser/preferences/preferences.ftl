@@ -883,6 +883,9 @@ autofill-payment-methods-checkbox-submessage = Uključuje kreditne i debitne kar
     .accesskey = I
 autofill-saved-payment-methods-button = Sačuvani načini plaćanja
     .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Zahtijevajte prijavu uređaja za popunjavanje i upravljanje načinima plaćanja
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -909,6 +912,9 @@ history-dontremember-description = { -brand-short-name } će koristiti iste post
 history-private-browsing-permanent =
     .label = Uvijek koristi režim privatnog surfanja
     .accesskey = p
+history-remember-browser-option =
+    .label = Pamti historiju surfanja i preuzimanja
+    .accesskey = b
 history-remember-search-option =
     .label = Pamti historiju formi i pretrage
     .accesskey = f
@@ -931,6 +937,25 @@ sitedata-total-size-calculating = Računam veličinu podataka web stranica i ke�
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Vaši pohranjeni kolačići, podaci o stranicama i keš trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
+sitedata-delete-on-close =
+    .label = Izbriši kolačiće i podatke o web stranici kada je { -brand-short-name } zatvoren
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = U trajnom načinu privatnog pretraživanja, kolačići i podaci o web stranici uvijek će biti izbrisani kada se { -brand-short-name } zatvori.
+sitedata-delete-on-close-private-browsing2 = Na osnovu vaših postavki historije, { -brand-short-name } briše kolačiće i podatke web stranice iz vaše sesije kada zatvorite pretraživač.
+sitedata-allow-cookies-option =
+    .label = Prihvatite kolačiće i podatke o web stranici
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blokirajte kolačiće i podatke web stranice
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tip blokiran
+    .accesskey = T
+sitedata-option-block-cross-site-trackers =
+    .label = Programi trećih strana za praćenje
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Kolačići trećih strana za praćenje
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = i
