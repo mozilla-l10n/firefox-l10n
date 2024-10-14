@@ -74,6 +74,8 @@ genai-header-close-button =
     .title = Luk
 genai-provider-view-details =
     .label = Vis detaljer om chatbots
+genai-provider-about-chatbots =
+    .label = Om disse chatbots
 genai-options-reload-generic =
     .label = Genindlæs AI-chatbot
 # $provider (string) - name of the provider
@@ -81,6 +83,8 @@ genai-options-reload-provider =
     .label = Genindlæs { $provider }
 genai-options-show-shortcut =
     .label = Vis genvej, når du markerer tekst
+genai-options-hide-shortcut =
+    .label = Skjul genvej, når du markerer tekst
 
 ## Chatbot onboarding
 

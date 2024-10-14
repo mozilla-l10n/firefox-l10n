@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Luk kopierede faneblade
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Luk alle kopierede faneblade
+all-tabs-menu-synced-tabs =
+    .label = Faneblade fra andre enheder
