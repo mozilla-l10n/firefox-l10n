@@ -378,6 +378,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ман онро пеш �
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Ба мо бигӯед, ки шумо дар куҷо мехоҳед варақаҳои худро ҷойгир намоед
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлу
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

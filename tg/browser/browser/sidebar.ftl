@@ -56,6 +56,10 @@ sidebar-customize-button-header =
     .label = Тугмаи навори ҷонибӣ
 sidebar-customize-position-header =
     .label = Ҷойгиршавии навори ҷонибӣ
+sidebar-visibility-setting-always-show =
+    .label = Баркушодан ва пеҷондани навори ҷонибӣ
+sidebar-visibility-setting-hide-sidebar =
+    .label = Намоиш ва пинҳон кардани навори ҷонибӣ
 sidebar-customize-settings-header =
     .label = Танзимоти навори ҷонибӣ
 sidebar-visibility-always-show =
@@ -91,6 +95,8 @@ sidebar-history-context-menu-delete-page =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Чат-боти зеҳни сунъӣ «AI»
 sidebar-menu-history-label =
     .label = Таърих
 sidebar-menu-synced-tabs-label =
@@ -99,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Хатбаракҳо
 sidebar-menu-customize-label =
     .label = Фармоишдиҳии навори ҷонибӣ
+sidebar-menu-review-checker-label =
+    .label = Абзори тафтиши тақризҳо
 
 ## Headings for sidebar menu panels.
 

@@ -24,6 +24,10 @@ genai-settings-chat-localhost-links = Чат-боти маҳаллии хусу�
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Ман дар саҳифаи «{ $tabTitle }» қарор дорам, ки дар он «{ $selection }»-ро интихоб кардам.
 
 ## Chatbot menu shortcuts
 

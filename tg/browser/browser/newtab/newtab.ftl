@@ -355,6 +355,7 @@ newtab-wallpaper-white-mountains = Кӯҳҳои сафед
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Акс аз ҷониби <a data-l10n-name="name-link">{ $author_string }</a> дар <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Чакраҳои рангро кӯшиш намоед
+newtab-wallpaper-feature-highlight-content = Бо истифода аз тасвирҳои замина ба варақаи нави худ намуди зоҳирии наверо диҳед.
 newtab-wallpaper-feature-highlight-button = Фаҳмидам
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
@@ -423,5 +424,6 @@ newtab-topic-label-home = Хона ва боғ
 newtab-topic-selection-save-button = Нигоҳ доштан
 newtab-topic-selection-cancel-button = Бекор кардан
 newtab-topic-selection-button-maybe-later = Шояд дертар
+newtab-topic-selection-privacy-link = Бифаҳмед, ки чӣ тавр мо маълумотро ҳифз ва идора мекунем
 newtab-topic-selection-button-update-interests = Манфиатҳои худро навсозӣ кунед
 newtab-topic-selection-button-pick-interests = Манфиатҳои худро интихоб кунед
