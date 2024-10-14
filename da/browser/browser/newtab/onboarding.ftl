@@ -376,3 +376,31 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jeg er helt ny
 onboarding-new-user-survey-familiarity-based-option-2 = Jeg har brugt den en del
 onboarding-new-user-survey-familiarity-based-option-3 = Jeg er kender den meget godt
 onboarding-new-user-survey-familiarity-based-option-4 = Jeg har brugt den før, men det er et stykke tid siden
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Fortæl os, hvor du vil have dine faneblade
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Du kan altid ændre det i indstillingerne for sidepanel.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Faneblade til siden
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Faneblade i toppen
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Lodrette faneblade er her
+onboarding-flair-text = Nyt!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Behold vandrette faneblade
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Et browservindue, hvor fanebladene vises langs toppen af skærmen.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Et browservindue, hvor fanebladene vises langs toppen af skærmen.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prøv en AI-chatbot i sidepanelet
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Opsummer indhold på nettet, få nye ideer, skriv udkast - mens du browser. Vælg mellem forskellige udbydere. Skift når som helst. <a data-l10n-name="learn-more">Læs mere</a>
+onboarding-genai-sidebar-primary-button = Vælg en chatbot
+onboarding-genai-sidebar-secondary-button = Afslut rundvisningen

@@ -281,3 +281,15 @@ tail-fox-spotlight-title = Hold irriterende sporings-tjenester på afstand
 tail-fox-spotlight-subtitle = Sig farvel til sporing via reklamer og goddag til en sikrere og hurtigere oplevelse på nettet.
 tail-fox-spotlight-primary-button = Åbn mine links med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikke nu
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Ældre versioner af { -brand-short-name } kan begynde at få problemer den 14. januar 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Opdater for at blive ved med at bruge { -brand-short-name } efter den 14. marts 2025.</strong>
+root-certificate-succession-infobar-link = Hvorfor skal jeg opdatere?
+root-certificate-succession-infobar-primary-button =
+    .label = Opdater nu
+    .accesskey = O
+root-certificate-succession-infobar-secondary-button =
+    .label = Senere
+    .accesskey = S
