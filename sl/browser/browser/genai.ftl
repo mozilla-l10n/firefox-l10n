@@ -86,7 +86,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skrij bližnjico pri izbiranju besedila
 genai-options-about-chatbot =
-    .label = O AI klepetalnikih v { -brand-shorter-name(sklon: "mestnik") }
+    .label = O AI klepetalnikih v { -brand-short-name(sklon: "mestnik") }
 
 ## Chatbot onboarding
 
