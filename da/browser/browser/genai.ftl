@@ -85,10 +85,38 @@ genai-options-show-shortcut =
     .label = Vis genvej, når du markerer tekst
 genai-options-hide-shortcut =
     .label = Skjul genvej, når du markerer tekst
+genai-options-about-chatbot =
+    .label = Om AI-chatbots i { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Opsummer, find nye idéer og mere mens du browser
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Vælg en AI-chatbot at anvende i sidepanelet i { -brand-short-name }. Vi viser detaljer om en chatbot, når du vælger den. Skift når som helst. <a data-l10n-name="learn-more">Læs mere</a>
+genai-onboarding-primary = Fortsæt
+genai-onboarding-secondary = Luk
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Læs mere om Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Læs mere om ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Læs mere om Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Læs mere om HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Læs mere om Le Chat
+genai-onboarding-select-header = Marker tekst for at se forslag
+genai-onboarding-select-description = Når du markerer tekst foreslår vi prompts, du kan sende til chatbotten. Du kan også skrive dine egne prompts.
+genai-onboarding-select-primary = Gå i gang med at chatte
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generer tekst og kode
+genai-onboarding-claude-analyze = Analyser dokumenter og billeder
+genai-onboarding-claude-price = Gratis og betalte alternativer; konto påkrævet
