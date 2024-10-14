@@ -73,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Bogmærk faneblad…
 sidebar-context-menu-copy-link =
     .label = Kopier link
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Luk fanebladet på { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -100,3 +104,18 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
+
+## Titles for sidebar menu panels.
+
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Luk fanebladet på { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+

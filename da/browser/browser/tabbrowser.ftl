@@ -174,3 +174,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Slå lyden til i faneblad
 tabbrowser-manager-close-tab =
     .tooltiptext = Luk faneblad
+
+## Tab Groups
+
+tab-group-editor-title-create = Opret fanebladsgruppe
+tab-group-editor-title-edit = Håndter fanebladsgruppe
+tab-group-editor-name-label = Navn
+tab-group-editor-name-field =
+    .placeholder = Eksempel: Shopping
+tab-group-editor-cancel =
+    .label = Annuller
+    .accesskey = A
+tab-group-editor-create =
+    .label = Opret
+    .accesskey = O
