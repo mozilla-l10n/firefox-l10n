@@ -26,22 +26,50 @@ genai-settings-chat-copilot-links = Вақте ки шумо «Copilot»-ро и
 
 ## Chatbot header
 
+genai-chatbot-title = Чат-боти зеҳни сунъӣ «AI»
+genai-header-provider-menu =
+    .title = Чат-ботеро интихоб намоед
 genai-header-options-button =
     .title = Кушодани меню
 genai-header-close-button =
     .title = Пӯшидан
+genai-provider-view-details =
+    .label = Дидани тафсилоти чат-бот
+genai-provider-about-chatbots =
+    .label = Дар бораи ин чат-ботҳо
+genai-options-reload-generic =
+    .label = Аз нав бор кардани чат-боти зеҳни сунъӣ «AI»
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Аз нав бор кардани «{ $provider }»
+genai-options-about-chatbot =
+    .label = Дар бораи чат-ботҳои зеҳни сунъӣ «AI» дар «{ -brand-short-name }»
 
 ## Chatbot onboarding
 
 genai-onboarding-primary = Идома додан
 genai-onboarding-secondary = Пӯшидан
+genai-onboarding-claude-tooltip =
+    .title = «Anthropic Claude»
+genai-onboarding-claude-learn = Маълумоти бештар дар бораи «Claude»
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Маълумоти бештар дар бораи «ChatGPT»
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Маълумоти бештар дар бораи «Gemini»
+genai-onboarding-huggingchat-tooltip =
+    .title = «HuggingChat»
+genai-onboarding-huggingchat-learn = Маълумоти бештар дар бораи «HuggingChat»
+genai-onboarding-lechat-tooltip =
+    .title = «Le Chat Mistral»
+genai-onboarding-lechat-learn = Маълумоти бештар дар бораи «Le Chat»
+genai-onboarding-select-header = Барои дидани пешниҳодҳо матнро интихоб намоед
+genai-onboarding-select-primary = Оғоз кардани чат
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Эҷод кардани матн ва рамз
+genai-onboarding-claude-analyze = Таҳлил кардани ҳуҷҷатҳо ва тасвирҳо
+genai-onboarding-claude-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
