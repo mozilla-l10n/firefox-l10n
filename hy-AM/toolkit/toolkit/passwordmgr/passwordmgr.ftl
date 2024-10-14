@@ -28,5 +28,5 @@ password-manager-no-username-placeholder = Չկա օգտվողի անուն
 password-manager-toggle-password =
     .label = Ցուցադրել գաղտնաբառերը
     .accesskey = h
-password-manager-confirm-password-change = Հավաստեք Գաղտնաբառի Փոփոխությունը
+password-manager-confirm-password-change = Հաստատեք գաղտնաբառի փոփոխությունը
 password-manager-select-username = Ընտրեք, թե որ մուտքագրումը թարմացնել՝

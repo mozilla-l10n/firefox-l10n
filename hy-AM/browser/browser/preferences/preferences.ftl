@@ -845,12 +845,19 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Պահված մուտքանուններ...
     .accesskey = մ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Լրացնել օգտվողի անունները և գաղտնաբառերն ինքնաբերաբար
+    .accesskey = F
 forms-saved-passwords =
     .label = Պահված գաղտնաբառեր
     .accesskey = d
 forms-primary-pw-use =
     .label = Հիմնական գաղտնաբառի օգտագործում
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Գաղտնաբառերը լրացնելու և կառավարելու համար պահանջել սարքի մուտք գործում
 forms-primary-pw-learn-more-link = Իմանալ ավելին
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -865,7 +872,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Նախկինում հայտնի էր որպես Հիմնական գաղտնաբառ
-forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
+forms-master-pw-fips-desc = Գաղտնաբառը չհաջողվեց փոխել
 forms-windows-sso =
     .label = Թույլատրել Windows եզակի գրանցում Microsoft-ում, աշխատանքային և դպրոցական հաշիվներում:
 forms-windows-sso-learn-more-link = Իմանալ ավելին
