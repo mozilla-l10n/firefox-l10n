@@ -46,10 +46,16 @@ callout-pdfjs-draw-button = Фаҳмидам!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Пӯшидани ин варақаро дар назар надоштед?
+fx-view-discoverability-subtitle = Онро дар ин ҷой зуд пайдо карда, аз нав кушоед. Мо барои шумо таърихи варақаҳои ба наздикӣ пӯшидашударо нигоҳ медорем.
 fx-view-discoverability-primary-button-label = Кушодани «{ -firefoxview-brand-name }»
 fx-view-discoverability-secondary-button-label = Нодида гузарондан
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Ин тавсия дигар нишон дода нашавад
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Камтар нишон додани тавсияҳо
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Идоракунии танзимот
