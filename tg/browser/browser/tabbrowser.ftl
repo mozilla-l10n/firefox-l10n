@@ -171,3 +171,17 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Фаъол кардани садо дар варақа
 tabbrowser-manager-close-tab =
     .tooltiptext = Пӯшидани варақа
+
+## Tab Groups
+
+tab-group-editor-title-create = Эҷод кардани гурӯҳи варақаҳо
+tab-group-editor-title-edit = Идора кардани гурӯҳи варақаҳо
+tab-group-editor-name-label = Ном
+tab-group-editor-name-field =
+    .placeholder = Масалан: Харидорӣ
+tab-group-editor-cancel =
+    .label = Бекор кардан
+    .accesskey = Б
+tab-group-editor-create =
+    .label = Эҷод кардан
+    .accesskey = Э

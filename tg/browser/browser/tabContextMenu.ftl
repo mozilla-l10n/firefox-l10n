@@ -28,10 +28,16 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Пӯшидани варақаҳо аз тарафи чап
     .accesskey = П
+close-tabs-to-the-start-vertical =
+    .label = Пӯшидани варақаҳо аз боло
+    .accesskey = П
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Пӯшидани варақаҳо аз тарафи рост
+    .accesskey = П
+close-tabs-to-the-end-vertical =
+    .label = Пӯшидани варақаҳо аз поён
     .accesskey = П
 close-other-tabs =
     .label = Пӯшидани варақаҳои дигар
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Мубодила кардан
     .accesskey = М
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Варақаи нав аз тарафи рост
+    .accesskey = В
+tab-context-new-tab-open-vertical =
+    .label = Варақаи нав дар поён
+    .accesskey = В
+tab-context-new-group =
+    .label = Гурӯҳи нав
+    .accesskey = Г
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
