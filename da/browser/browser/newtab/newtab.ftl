@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Tilpas nyt faneblad
 newtab-personalize-dialog-label =
     .aria-label = Tilpas
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -234,6 +236,8 @@ newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er en del af { -brand-product-name }-familien
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Gem
 newtab-pocket-saved = Gemt
 
