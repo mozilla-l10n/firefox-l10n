@@ -5,6 +5,11 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Чат-боти интихобкардаи шуморо ба навори ҷонибӣ илова мекунад, то шумо тавонед ҳангоми тамошои сомонаҳо ба он тез дастрасӣ пайдо намоед. <a data-l10n-name="connect">Мубодилаи изҳори назар</a>
+genai-settings-chat-choose = Чат-ботеро интихоб намоед
+genai-settings-chat-choose-one-menuitem =
+    .label = Интихоб кунед
+genai-settings-chat-links = Вақте ки шумо чат-ботеро интихоб мекунед, шумо бо шартҳои истифода ва сиёсати махфияти таъминкунандаи онро розӣ мешавед.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
