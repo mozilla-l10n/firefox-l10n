@@ -52,6 +52,12 @@ sidebar-horizontal-tabs =
     .label = Vandrette faneblade
 sidebar-customize-tabs-header =
     .label = Fanebladsindstillinger
+sidebar-customize-button-header =
+    .label = Sidepanel-knap
+sidebar-customize-position-header =
+    .label = Sidepanel-placering
+sidebar-visibility-setting-hide-sidebar =
+    .label = Vis og skjul sidepanelet
 sidebar-customize-settings-header =
     .label = Indstillinger for sidepanel
 sidebar-visibility-always-show =
@@ -97,6 +103,8 @@ sidebar-menu-bookmarks-label =
     .label = Bogmærker
 sidebar-menu-customize-label =
     .label = Tilpas sidepanel
+sidebar-menu-review-checker-label =
+    .label = Verificering af anmeldelser
 
 ## Headings for sidebar menu panels.
 
@@ -106,9 +114,14 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
+sidebar-panel-header-close-button =
+    .tooltiptext = Luk
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Tilpas sidepanel
+sidebar-history-title = Historik
+sidebar-syncedtabs-title = Faneblade fra andre enheder
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -121,3 +134,12 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Udvid sidepanel
+    .label = Sidepaneler
+sidebar-widget-show-sidebar =
+    .tooltiptext = Vis sidepanel
+    .label = Sidepaneler
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Skjul sidepanel
+    .label = Sidepaneler
