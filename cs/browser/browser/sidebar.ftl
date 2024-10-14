@@ -64,6 +64,10 @@ sidebar-customize-button-header =
     .label = Tlačítko v postranní liště
 sidebar-customize-position-header =
     .label = Umístění postranní lišty
+sidebar-visibility-setting-always-show =
+    .label = Rozbalit a sbalit postranní lištu
+sidebar-visibility-setting-hide-sidebar =
+    .label = Zobrazit a skrýt postranní lištu
 sidebar-customize-settings-header =
     .label = Nastavení postranní lišty
 sidebar-visibility-always-show =
@@ -138,5 +142,17 @@ sidebar-syncedtabs-title = Panely z jiných zařízení
 synced-tabs-context-close-tab-title =
     .title = Zavřít panel v { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Rozbalit postranní lištu
+    .label = Postranní lišty
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Sbalit postranní lištu
+    .label = Postranní lišty
+sidebar-widget-show-sidebar =
+    .tooltiptext = Zobrazit postranní lištu
+    .label = Postranní lišty
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Skrýt postranní lištu
+    .label = Postranní lišty
