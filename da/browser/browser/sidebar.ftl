@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI-Chatbot
+menu-view-review-checker =
+    .label = Verificering af anmeldelser
 
 ## Labels for sidebar history panel
 
