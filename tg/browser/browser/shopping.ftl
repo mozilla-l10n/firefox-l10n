@@ -89,6 +89,8 @@ shopping-show-less-button = Камтар нишон диҳед
 
 shopping-settings-label =
     .label = Танзимот
+shopping-settings-recommendations-toggle2 =
+    .label = Намоиш додани тавсияҳо ва муҳтавои сарпарастӣ
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
 shopping-settings-recommendations-learn-more2 = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Мо танҳо он маҳсулотеро таблиғ мекунем, ки дорои тақризҳои боэътимод мебошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>

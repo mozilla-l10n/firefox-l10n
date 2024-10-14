@@ -346,6 +346,9 @@ newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва нори�
 newtab-wallpaper-category-title-photographs = Суратҳо
 newtab-wallpaper-beach-at-sunrise = Соҳил дар тулӯи офтоб
 newtab-wallpaper-beach-at-sunset = Соҳил дар ғуруби офтоб
+newtab-wallpaper-storm-sky = Осмони тӯфонӣ
+newtab-wallpaper-sky-with-pink-clouds = Осмон бо абрҳои гулобӣ
+newtab-wallpaper-red-panda-yawns-in-a-tree = Пандаи сурх дар дарахт хамёза мекашад
 newtab-wallpaper-white-mountains = Кӯҳҳои сафед
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -419,3 +422,4 @@ newtab-topic-label-home = Хона ва боғ
 
 newtab-topic-selection-save-button = Нигоҳ доштан
 newtab-topic-selection-cancel-button = Бекор кардан
+newtab-topic-selection-button-maybe-later = Шояд дертар

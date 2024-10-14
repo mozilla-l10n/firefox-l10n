@@ -382,5 +382,16 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ман онро пеш �
 onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлу
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Варақаҳо дар боло
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Варақаҳои амудӣ аллакай дар ин ҷой
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Муаррифии варақаҳои амудӣ
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Варақаҳои амудиро кӯшиш кунед
 onboarding-flair-text = Нав!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Варақаҳои уфуқиро нигоҳ доред
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Чат-боти «AI» зеҳни сунъиро дар навори ҷонибӣ кӯшиш кунед
+onboarding-genai-sidebar-primary-button = Чат-ботеро интихоб намоед
 onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо
