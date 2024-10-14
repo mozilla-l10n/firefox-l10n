@@ -13,6 +13,8 @@ genai-settings-chat-links = Вақте ки шумо чат-ботеро инт�
 genai-settings-chat-chatgpt-links = Вақте ки шумо «ChatGPT»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои истифода</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> ташкилоти «OpenAI» розӣ мешавед.
 genai-settings-chat-claude-links = Вақте ки шумо «Anthropic Claude»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонии истеъмолкунандагон</a>, <a data-l10n-name="link2">Сиёсати истифодабарӣ</a> ва <a data-l10n-name="link3">Сиёсати махфияти</a> ташкилоти «Anthropic» розӣ мешавед.
 genai-settings-chat-copilot-links = Вақте ки шумо «Copilot»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои таҷрибаи «Copilot AI»</a> ва <a data-l10n-name="link2">Эъломияи махфияти «Microsoft»</a> розӣ мешавед.
+genai-settings-chat-gemini-links = Вақте ки шумо «Google Gemini»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонии «Google»</a>, <a data-l10n-name="link2">Сиёсати истифодабарии зеҳни сунъии маҳсулнокии манъшуда</a> ва <a data-l10n-name="link3">Огоҳномаи махфияти барномаҳои «Gemini»</a> розӣ мешавед.
+genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Огоҳномаи махфияти «HuggingChat»</a> ва <a data-l10n-name="link2">Сиёсати махфияти «Hugging Face»</a> розӣ мешавед.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
