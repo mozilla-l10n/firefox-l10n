@@ -51,12 +51,12 @@ genai-prompt-prefix-selection = Nahajam se na strani “{ $tabTitle }” z izbir
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Vpraša AI klepetalnik
+    .label = Vprašaj UI-klepetalnik
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Vprašaj { $provider }
 genai-input-ask-generic =
-    .placeholder = Vprašaj AI klepetalnik …
+    .placeholder = Vprašaj UI-klepetalnik …
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Vprašaj { $provider } …
@@ -65,7 +65,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = AI klepetalnik
+genai-chatbot-title = UI-klepetalnik
 genai-header-provider-menu =
     .title = Izberite klepetalnik
 genai-header-options-button =
@@ -77,7 +77,7 @@ genai-provider-view-details =
 genai-provider-about-chatbots =
     .label = O teh klepetalnikih
 genai-options-reload-generic =
-    .label = Ponovno naloži AI klepetalnik
+    .label = Ponovno naloži UI-klepetalnik
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Ponovno naloži { $provider }
@@ -86,10 +86,31 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skrij bližnjico pri izbiranju besedila
 genai-options-about-chatbot =
-    .label = O AI klepetalnikih v { -brand-short-name(sklon: "mestnik") }
+    .label = O UI-klepetalnikih v { -brand-short-name(sklon: "mestnik") }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Povzemajte, razmišljajte in drugo med brskanjem
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Izberite UI-klepetalnik, ki ga želite uporabiti v stranski vrstici { -brand-short-name(sklon: "rodilnik") }. Ko ga izberete, bomo prikazali podrobnosti o klepetalniku. Preklopite kadarkoli. <a data-l10n-name="learn-more">Več o tem</a>
+genai-onboarding-primary = Nadaljuj
+genai-onboarding-secondary = Zapri
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Več o Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Več o ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Več o Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Več o HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Več o Le Chat
+genai-onboarding-select-header = Izberite besedilo za prikaz predlogov
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

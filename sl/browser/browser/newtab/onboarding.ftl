@@ -380,6 +380,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = uporabljal/a sem ga v pr
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Kje želite imeti zavihke?
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = V nastavitvah stranske vrstice lahko to spremenite, kadarkoli želite.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ob strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -388,6 +390,8 @@ onboarding-new-horizontal-tabs-label = Na vrhu
 onboarding-existing-tabs-title = Navpični zavihki so tu
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Predstavljamo navpične zavihke
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Preizkusite zavihke ob strani. Njihov položaj lahko spremenite, kadarkoli želite, v nastavitvah stranske vrstice.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Preizkusite navpične zavihke
 onboarding-flair-text = Novo!
@@ -405,4 +409,5 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Okno brskalnika, v katerem so zavihki prikazani vzdolž zgornjega roba.
+onboarding-genai-sidebar-primary-button = Izberite klepetalnik
 onboarding-genai-sidebar-secondary-button = Začni z brskanjem
