@@ -447,6 +447,10 @@ update-setting-write-failure-message2 =
     Nije moguće pisati u datoteku: { $path }
 update-in-progress-title = Ažuriranje u toku
 update-in-progress-message = Želite li da { -brand-short-name } nastavi s ovim ažuriranjem?
+update-in-progress-ok-button = &Odbaci
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Nastavi
 
 ## General Section - Performance
 
@@ -477,18 +481,43 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Koristi glatko pomjeranje
     .accesskey = m
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Uvijek prikaži trake za pomicanje
+    .accesskey = o
+browsing-always-underline-links =
+    .label = Uvijek podcrtajte linkove
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Prikaži tastaturu za dodir kada je potrebno
     .accesskey = t
 browsing-use-cursor-navigation =
     .label = Uvijek koristi strelice na tastaturi za kretanje po stranicama
     .accesskey = c
+browsing-use-full-keyboard-navigation =
+    .label = Koristite tipku tab za pomicanje fokusa između kontrola obrasca i linkova
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Traži tekst čim počnem da kucam
     .accesskey = k
+browsing-picture-in-picture-toggle-enabled =
+    .label = Omogućite video kontrole slike u slici
+    .accesskey = E
+browsing-picture-in-picture-learn-more = Saznajte više
+browsing-media-control =
+    .label = Kontrolišite medije putem tastature, slušalica ili virtuelnog interfejsa
+    .accesskey = v
+browsing-media-control-learn-more = Saznajte više
+browsing-cfr-recommendations =
+    .label = Preporučite ekstenzije dok pretražujete
+    .accesskey = R
+browsing-cfr-features =
+    .label = Preporučite funkcije dok pretražujete
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Saznajte više
 
 ## General Section - Proxy
 
+network-settings-title = Mrežne postavke
 network-proxy-connection-description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
@@ -507,6 +536,8 @@ home-newtabs-mode-label = Novi tabovi
 home-restore-defaults =
     .label = Vrati na početne vrijednosti
     .accesskey = R
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Zadano)
 home-mode-choice-custom =
     .label = Prilagođeni URL-ovi…
 home-mode-choice-blank =
@@ -530,19 +561,33 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
+home-prefs-content-description2 = Odaberite koji sadržaj želite na svom ekranu { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Web pretraga
+home-prefs-shortcuts-header =
+    .label = Prečice
+home-prefs-shortcuts-description = Web stranice koje sačuvate ili posjetite
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponzorisane prečice
 
 ## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
+home-prefs-recommended-by-description-new = Izuzetan sadržaj koji je kurirao { $provider }, dio { -brand-product-name } porodice
+home-prefs-recommended-by-header-generic =
+    .label = Preporučene priče
+home-prefs-recommended-by-description-generic = Izuzetan sadržaj koji je kurirala porodica { -brand-product-name }
 
 ##
 
+home-prefs-recommended-by-learn-more = Kako to radi
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorisane priče
+home-prefs-recommended-by-option-recent-saves =
+    .label = Prikaži nedavna sačuvana
 home-prefs-highlights-option-visited-pages =
     .label = Posjećene stranice
 home-prefs-highlights-options-bookmarks =
@@ -551,12 +596,20 @@ home-prefs-highlights-option-most-recent-download =
     .label = Najnovija preuzimanja
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stranice spremljene u { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nedavne aktivnosti
+home-prefs-recent-activity-description = Izbor najnovijih stranica i sadržaja
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Isječci
+home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
+home-prefs-weather-header =
+    .label = Vrijeme
+home-prefs-weather-description = Današnja prognoza ukratko
+home-prefs-weather-learn-more-link = Saznajte više
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -575,12 +628,27 @@ search-bar-hidden =
 search-bar-shown =
     .label = Dodaj traku za pretragu u alatnu traku
 search-engine-default-header = Glavni pretraživač
+search-engine-default-desc-2 = Ovo je vaša zadana tražilica u adresnoj traci i traci za pretraživanje. Možete je promijeniti u bilo kojem trenutku.
+search-engine-default-private-desc-2 = Odaberite drugu zadanu tražilicu samo za privatni Windows
+search-separate-default-engine =
+    .label = Koristite ovaj pretraživač u privatnom Windowsu
+    .accesskey = U
+search-suggestions-header = Prijedlozi za pretraživanje
+search-suggestions-desc = Odaberite način na koji će se prijedlozi iz tražilica prikazati.
 search-suggestions-option =
     .label = Pružaj prijedloge za pretraživanje
     .accesskey = p
+search-show-suggestions-option =
+    .label = Prikaži prijedloge pretraživanja
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Prikazuj prijedloge za pretragu u rezultatima adresne trake
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Prikaži pojmove za pretraživanje umjesto URL-a na zadanoj stranici rezultata tražilice
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -588,7 +656,11 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Prikazuj prijedloge za pretragu ispred historije surfanja u rezultatima adresne trake
+search-show-suggestions-private-windows =
+    .label = Prikaži prijedloge za pretraživanje u Privatnim Windowsima
+suggestions-addressbar-settings-generic2 = Promijenite postavke za druge prijedloge adresne trake
 search-suggestions-cant-show = Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili { -brand-short-name } da ne pamti historiju.
+search-one-click-header2 = Prečice za pretragu
 search-one-click-desc = Izaberite alternativne pretraživače koji će se prikazati ispod adresne i trake za pretraživanje kada počnete unositi ključnu riječ.
 search-choose-engine-column =
     .label = Pretraživač
@@ -600,6 +672,9 @@ search-restore-default =
 search-remove-engine =
     .label = Ukloni
     .accesskey = U
+search-add-engine =
+    .label = Dodaj
+    .accesskey = A
 search-find-more-link = Pronađi još pretraživača
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -611,6 +686,8 @@ search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno kor
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Povratak na postavke
 containers-header = Container tabovi
 containers-add-button =
     .label = Dodaj novi Container
@@ -618,6 +695,8 @@ containers-add-button =
 containers-new-tab-check =
     .label = Odaberite kontejner za svaki novi tab
     .accesskey = S
+containers-settings-button =
+    .label = Postavke
 containers-remove-button =
     .label = Ukloni
 
@@ -625,6 +704,10 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ponesite vaš Web sa vama
+sync-signedout-description2 = Sinhronizirajte svoje oznake, historiju, kartice, lozinke, dodatke i postavke na svim svojim uređajima.
+sync-signedout-account-signin3 =
+    .label = Prijavite se za sinhronizaciju…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -642,6 +725,13 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Promijenite profilnu sliku
     .alt = Promijenite profilnu sliku
+sync-profile-picture-account-problem =
+    .alt = Slika profila računa
+fxa-login-rejected-warning =
+    .alt = Upozorenje
+sync-sign-out =
+    .label = Odjava…
+    .accesskey = g
 sync-manage-account = Upravljanje računom
     .accesskey = o
 
@@ -656,6 +746,9 @@ sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
 sync-resend-verification =
     .label = Ponovo pošalji verifikaciju
     .accesskey = v
+sync-verify-account =
+    .label = Potvrdi račun
+    .accesskey = V
 sync-remove-account =
     .label = Ukloni račun
     .accesskey = r
@@ -665,6 +758,7 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinhronizacija: UKLJUČENO
 
 ## The list of things currently syncing.
 
@@ -774,9 +868,21 @@ forms-master-pw-fips-desc = Neuspješna izmjena lozinke
 
 ## OS Authentication dialog
 
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Automatsko popunjavanje
+autofill-addresses-checkbox = Sačuvajte i popunite adrese
+    .accesskey = a
+autofill-saved-addresses-button = Sačuvane adrese
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Sačuvajte i popunite načine plaćanja
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Uključuje kreditne i debitne kartice
+    .accesskey = I
+autofill-saved-payment-methods-button = Sačuvani načini plaćanja
+    .accesskey = v
 
 ## Privacy Section - History
 
