@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Вақте ки шумо «Google Gemini»-р
 genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Огоҳномаи махфияти «HuggingChat»</a> ва <a data-l10n-name="link2">Сиёсати махфияти «Hugging Face»</a> розӣ мешавед.
 genai-settings-chat-lechat-links = Вақте ки шумо «Le Chat Mistral»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> зеҳни сунъии «Mistral AI» розӣ мешавед.
 genai-settings-chat-localhost-links = Чат-боти маҳаллии хусусиро, ба монанди <a data-l10n-name="link1">«llamafile»</a> аз ҷониби гурӯҳи инноватсионии «{ -vendor-short-name }», эҷод намоед.
+genai-settings-chat-shortcuts =
+    .description = Вақте ки шумо матнро интихоб мекунед, миёнбур ба дархостҳо нишон дода мешавад. «{ -brand-short-name }» матн, номи саҳифа ва дархостҳоро ба чат-бот ирсол мекунад.
+    .label = Намоиши дархостҳо ҳангоми интихоби матн
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
