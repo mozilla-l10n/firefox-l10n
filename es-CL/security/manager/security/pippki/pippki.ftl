@@ -97,7 +97,7 @@ set-password-backup-pw =
     .value = Contraseña de respaldo de certificado:
 set-password-repeat-backup-pw =
     .value = Contraseña de respaldo de certificado (nuevamente):
-set-password-reminder = Importante: Si olvida su contraseña de respaldo del certificado, no podrá restaurar el respaldo posteriormente. Por favor, guárdela en un lugar seguro.
+set-password-reminder = Importante: Si olvidas tu contraseña de respaldo del certificado, no podrás restaurar el respaldo posteriormente. Por favor, guárdala en un lugar seguro.
 
 ## Protected authentication alert
 
