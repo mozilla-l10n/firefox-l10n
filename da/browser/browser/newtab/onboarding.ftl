@@ -389,6 +389,12 @@ onboarding-new-vertical-tabs-label = Faneblade til siden
 onboarding-new-horizontal-tabs-label = Faneblade i toppen
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Lodrette faneblade er her
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Nyt: Vandrette faneblade
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prøv at have dine faneblade i siden af skærmen. Du kan altid ændre det igen i indstillinger for sidepaneler.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prøv vandrette faneblade
 onboarding-flair-text = Nyt!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behold vandrette faneblade
