@@ -423,6 +423,7 @@ support-remote-settings-status-ok = Ados
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Ez dabil
 support-remote-settings-last-check = Azken egiaztapena
+support-remote-settings-local-timestamp = Denbora-zigilu lokala
 support-remote-settings-sync-history = Historia
 support-remote-settings-sync-history-status = Egoera
 support-remote-settings-sync-history-datetime = Data
