@@ -8,7 +8,7 @@ sanitize-prefs2 =
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
-    .title = Clarar datos de navigation e cookies
+    .title = Rader datos de navigation e cookies
     .style = min-width: 34em
 sanitize-dialog-title =
     .title = Vacuar le chronologia recente
@@ -19,7 +19,7 @@ sanitize-dialog-title-everything =
     .title = Vacuar tote le chronologia
     .style = min-width: 34em
 clear-data-settings-label = Quando claudite, { -brand-short-name } deberea automaticamente rader tote le
-sanitize-on-shutdown-description = Automaticamente clarar tote le elementos marcate quando { -brand-short-name } claude.
+sanitize-on-shutdown-description = Automaticamente rader tote le elementos marcate quando { -brand-short-name } se claude.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -112,7 +112,7 @@ window-close =
 sanitize-button-ok =
     .label = Vacuar ora
 sanitize-button-ok2 =
-    .label = Clarar
+    .label = Rader
 sanitize-button-ok-on-shutdown =
     .label = Salvar le cambios
 # The label for the default button between the user clicking it and the window

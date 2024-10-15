@@ -154,7 +154,7 @@ firefoxview-show-more = Monstrar plus
 firefoxview-show-less = Monstrar minus
 firefoxview-show-all = Monstrar toto
 firefoxview-search-text-box-clear-button =
-    .title = Clarar
+    .title = Vacuar
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = Cercar
