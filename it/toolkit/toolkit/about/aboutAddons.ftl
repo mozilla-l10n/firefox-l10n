@@ -451,6 +451,10 @@ details-notification-unsigned-link = Ulteriori informazioni
 details-notification-blocked = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
 details-notification-blocked2 =
     .message = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
+details-notification-hard-blocked-extension =
+    .message = Questa estensione è bloccata in quanto viola i criteri di Mozilla ed è stata disattivata.
+details-notification-hard-blocked-other =
+    .message = Questo componente aggiuntivo è bloccato in quanto viola i criteri di Mozilla ed è stato disattivato.
 details-notification-blocked-link = Ulteriori informazioni
 details-notification-blocked-link2 = Mostra dettagli
 details-notification-softblocked = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
@@ -467,6 +471,15 @@ details-notification-softblocked-other-disabled =
 details-notification-softblocked-other-enabled =
     .message = Questo componente aggiuntivo viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
 details-notification-softblocked-link2 = Mostra dettagli
+
+details-notification-soft-blocked-extension-disabled =
+    .message = Questa estensione è soggetta a limitazioni in quanto viola i criteri di Mozilla ed è stata disattivata. È possibile attivarla, ma il suo utilizzo potrebbe comportare dei rischi.
+details-notification-soft-blocked-extension-enabled =
+    .message = Questa estensione viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
+details-notification-soft-blocked-other-disabled =
+    .message = Questo componente aggiuntivo è soggetto a limitazioni in quanto viola i criteri di Mozilla ed è stata disattivato. È possibile attivarlo, ma il suo utilizzo potrebbe comportare dei rischi.
+details-notification-soft-blocked-other-enabled =
+     .message = Questo componente aggiuntivo viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
 
 details-notification-gmp-pending = { $name } verrà installato tra qualche istante.
 details-notification-gmp-pending2 =
