@@ -128,4 +128,4 @@ tab-context-send-tabs-to-device =
             [one] Send faneblad til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
-    .accesskey = n
+    .accesskey = d

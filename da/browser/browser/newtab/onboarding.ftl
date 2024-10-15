@@ -392,6 +392,12 @@ onboarding-existing-tabs-title = Lodrette faneblade er her
 onboarding-flair-text = Nyt!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behold vandrette faneblade
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Et browservindue, hvor fanebladene vises langs siden af skærmen som en del af sidepanelet i { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Et browservindue, hvor fanebladene vises langs siden af skærmen som en del af sidepanelet { -brand-shorter-name }.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Et browservindue, hvor fanebladene vises langs toppen af skærmen.
