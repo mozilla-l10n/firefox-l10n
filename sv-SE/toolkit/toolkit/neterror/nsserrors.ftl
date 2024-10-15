@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Kan inte ansluta på ett säkert sätt eftersom SSL-protokollet har inaktiverats.
 psmerr-ssl2-disabled = Kan inte ansluta på ett säkert sätt eftersom webbplatsen använder en gammal och osäker version av SSL-protokollet.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har mottagit ett ogiltigt certifikat. Kontakta serveradministratören eller e-postkorrespondenten och ge dem följande information:
     
     Ditt certifikat innehåller samma serienummer som ett annat certifikat utfärdat av certifikatutfärdaren.  Skaffa ett nytt certifikat med ett unikt serienummer.
-
 ssl-error-export-only-server = Kan inte kommunicera säkert. Den andra parten stöder inte höggradig kryptering.
 ssl-error-us-only-server = Kan inte kommunicera säkert. Den andra parten kräver en höggradig kryptering som inte stöds.
 ssl-error-no-cypher-overlap = Kan inte kommunicera säkert med den andra parten: ingen gemensam krypteringsalgoritm.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Ingen TLS-signaturalgoritm som stö
 ssl-error-unsupported-signature-algorithm = Den andra parten använder en kombination av signatur och hash-algoritm som inte stöds.
 ssl-error-missing-extended-master-secret = Den andra parten försökte återuppta utan en korrekt extended_master_secre utökning.
 ssl-error-unexpected-extended-master-secret = Den andra parten försökte återuppta med en oväntad extended_master_secret utökning.
-
 sec-error-io = Ett I/O-fel uppstod under säkerhetsauktorisation.
 sec-error-library-failure = Fel i säkerhetsbibliotek.
 sec-error-bad-data = Säkerhetsbibliotek: mottog skadad data.
@@ -319,7 +317,6 @@ sec-error-locked-password = Lösenordet är låst.
 sec-error-unknown-pkcs11-error = Okänt PKCS #11-fel.
 sec-error-bad-crl-dp-url = Ogiltig eller icke stödd URL i distributionspunktnamnet för CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikatet signerades med en signaturalgoritm som är inaktiverad av säkerhetsskäl.
-
 mozilla-pkix-error-key-pinning-failure = Servern använder pinkoder (HPKP) men ingen betrodd certifikatkedja kunde sättas samman som matchar pinuppsättningen. Pinkodöverträdelser kan inte bortses från.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Servern använder ett certifikat med en basic constraints extension som anger det som ett för en certifikatutfärdare. För ett korrekt utfärdat certifikat ska detta inte vara fallet.
 mozilla-pkix-error-inadequate-key-size = Servern presenterade ett certifikat med en nyckelstorlek som är för liten för att etablera en säker anslutning.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Servern visade ett certifikat som 
 mozilla-pkix-error-empty-issuer-name = Servern visade ett certifikat med en tom utfärdare med ett framstående namn.
 mozilla-pkix-error-additional-policy-constraint-failed = En ytterligare policybegränsning misslyckades vid validering av detta certifikat.
 mozilla-pkix-error-self-signed-cert = Certifikatet är inte betrott eftersom det är självsignerat.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Certifikatutfärdaren som utfärdade certifikatet var misstänkt innan certifikatet utfärdades.
 xp-java-remove-principal-error = Kunde inte ta bort huvudpersonen
 xp-java-delete-privilege-error = Kunde inte ta bort privilegium
 xp-java-cert-not-exists-error = Denna principal har inget certifikat
-
 xp-sec-fortezza-bad-card = Fortezza-kortet har inte initierats korrekt. Var god ta bort det och återlämna det till utfärdaren.
 xp-sec-fortezza-no-card = Inga Fortezza-kort hittades
 xp-sec-fortezza-none-selected = Inget Fortezza-kort valt
