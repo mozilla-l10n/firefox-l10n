@@ -334,6 +334,7 @@ mozilla-pkix-error-invalid-integer-encoding = Il server ha fornito un certificat
 mozilla-pkix-error-empty-issuer-name = Il server ha fornito un certificato in cui il nome distinto dell’autorità emittente è vuoto.
 mozilla-pkix-error-additional-policy-constraint-failed = Un vincolo regole aggiuntivo non è stato rispettato durante la validazione di questo certificato.
 mozilla-pkix-error-self-signed-cert = Il certificato non è attendibile in quanto autofirmato.
+mozilla-pkix-error-issuer-no-longer-trusted = L’autorità di certificazione che ha emesso il certificato è stata identificata come non attendibile prima dell’emissione del certificato.
 
 xp-java-remove-principal-error = Impossibile rimuovere l’entità di sicurezza (principal)
 xp-java-delete-privilege-error = Impossibile cancellare il privilegio
