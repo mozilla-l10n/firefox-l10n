@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL fue deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibió un certificado no válido.  Contacte al administrador del servidor o correspondiente correo electrónico y envíeles la siguiente información:
     
     Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificados.  Obtenga un nuevo certificado conteniendo un número de serie único.
-
 ssl-error-export-only-server = No es posible comunicarse de forma segura. La otra parte no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicarse de forma segura. La otra parte requiere cifrado de grado alto que no es compatible.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con un compañero: no hay algoritmos de cifrado comunes.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No se configuró un algoritmo de fi
 ssl-error-unsupported-signature-algorithm = El par utilizó una combinación no soportada de firma y algoritmo de hash.
 ssl-error-missing-extended-master-secret = El par intentó continuar sin una extensión extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = El par intentó continuar con una extensión extended_master_secret inesperada.
-
 sec-error-io = Ocurrió un error de E/S durante la autorización de seguridad.
 sec-error-library-failure = fallo en la biblioteca de seguridad.
 sec-error-bad-data = biblioteca de seguridad: se recibieron datos incorrectos.
@@ -320,7 +317,6 @@ sec-error-locked-password = La contraseña está bloqueada.
 sec-error-unknown-pkcs11-error = Error PKCS #11 desconocido.
 sec-error-bad-crl-dp-url = URL no válida o no soportada en el nombre de punto de distribución de CRL.
 sec-error-cert-signature-algorithm-disabled = El certificado fue firmado usando un algoritmo de firma que está deshabilitado porque no es seguro.
-
 mozilla-pkix-error-key-pinning-failure = El servidor usa key pinning (HPKP) pero no se ha podido construir una cadena de certificados confiables que coincida con el pinset. Las violaciones de key pinning no se pueden anular.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor utiliza un certificado con una extensión de las restricciones básicas que lo identifica como una autoridad de certificación. Para un certificado correctamente emitido, este no debería ser el caso.
 mozilla-pkix-error-inadequate-key-size = El servidor presentó un certificado con un tamaño de clave que es demasiado pequeño para esteblecer una conexión segura.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = El servidor presentó un certifica
 mozilla-pkix-error-empty-issuer-name = El servidor presentó un certificado con un nombre distinguido de emisor vacío.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de política adicional falló al validar este certificado.
 mozilla-pkix-error-self-signed-cert = El certificado no es confiable porque es auto firmado.
-
+mozilla-pkix-error-issuer-no-longer-trusted = La autoridad de certificación que emitió el certificado fue considerada no confiable antes de la emisión del certificado.
 xp-java-remove-principal-error = Couldn't remove the principal
 xp-java-delete-privilege-error = No se puede borrar el privilegio
 xp-java-cert-not-exists-error = This principal doesn't have a certificate
-
 xp-sec-fortezza-bad-card = La tarjeta Fortezza no se ha inicializado correctamente. Elimínela y devuélvala a su emisor.
 xp-sec-fortezza-no-card = No se encontraron tarjetas Fortezza
 xp-sec-fortezza-none-selected = No se seleccionó ninguna tarjeta Fortezza
