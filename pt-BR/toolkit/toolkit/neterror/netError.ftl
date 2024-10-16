@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = Problemas ao carregar a página
+neterror-page-title = Problema ao carregar página
 certerror-page-title = Alerta: Potencial risco de segurança à frente
 certerror-sts-page-title = Não conectou: Potencial problema de segurança
 neterror-blocked-by-policy-page-title = Página bloqueada
@@ -106,7 +106,7 @@ certerror-intro = O { -brand-short-name } detectou uma potencial ameaça de segu
 certerror-sts-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b> porque este site exige uma conexão segura.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = O { -brand-short-name } detectou um problema e não seguiu para <b>{ $hostname }</b>. O site foi mal configurado ou o relógio interno desde computador está errado.
+certerror-expired-cert-intro = O { -brand-short-name } detectou um problema e não prosseguiu para <b>{ $hostname }</b>. O site está mal configurado, ou o relógio deste computador está errado.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
