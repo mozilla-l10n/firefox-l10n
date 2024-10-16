@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Prenta með prentglugga kerfisins.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
 policy-Windows10SSO = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Leyfa einfalda innskráningu (single sign-on) fyrir Microsoft Entra reikninga.

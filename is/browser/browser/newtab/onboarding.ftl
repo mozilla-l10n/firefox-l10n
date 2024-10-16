@@ -376,3 +376,10 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ég er byrjandi
 onboarding-new-user-survey-familiarity-based-option-2 = Ég hef notað það eitthvað
 onboarding-new-user-survey-familiarity-based-option-3 = Ég er þekki það ágætlega
 onboarding-new-user-survey-familiarity-based-option-4 = Ég hef notaði það áður, en fyrir nokkru síðan
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = Nýtt!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Halda láréttum flipum
+onboarding-genai-sidebar-secondary-button = Fara að vafra

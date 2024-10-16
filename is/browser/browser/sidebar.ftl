@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AI-gervigreindarspjall
+menu-view-review-checker =
+    .label = Umsagnaskoðun
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,10 @@ sidebar-horizontal-tabs =
     .label = Láréttir flipar
 sidebar-customize-tabs-header =
     .label = Stillingar flipa
+sidebar-customize-button-header =
+    .label = Hnappur á hliðarstiku
+sidebar-customize-position-header =
+    .label = Staða hliðarstiku
 sidebar-customize-settings-header =
     .label = Stillingar hliðarstiku
 sidebar-visibility-always-show =
@@ -73,6 +79,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Bókamerkja flipa…
 sidebar-context-menu-copy-link =
     .label = Afrita tengil
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Loka flipa á { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -91,6 +101,8 @@ sidebar-menu-bookmarks-label =
     .label = Bókamerki
 sidebar-menu-customize-label =
     .label = Sérsníða hliðarstiku
+sidebar-menu-review-checker-label =
+    .label = Umsagnaskoðun
 
 ## Headings for sidebar menu panels.
 
@@ -100,3 +112,23 @@ sidebar-menu-history-header =
     .heading = Ferill
 sidebar-menu-syncedtabs-header =
     .heading = Flipar frá öðrum tækjum
+sidebar-panel-header-close-button =
+    .tooltiptext = Loka
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Sérsníða hliðarstiku
+sidebar-history-title = Ferill
+sidebar-syncedtabs-title = Flipar frá öðrum tækjum
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Loka flipa á { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+

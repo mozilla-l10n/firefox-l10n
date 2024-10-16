@@ -178,3 +178,9 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Kveikja á hljóði í flipa
 tabbrowser-manager-close-tab =
     .tooltiptext = Loka flipa
+
+## Tab Groups
+
+tab-group-editor-cancel =
+    .label = Hætta við
+    .accesskey = H
