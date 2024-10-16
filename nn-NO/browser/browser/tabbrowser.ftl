@@ -174,3 +174,8 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Lyd på i fane
 tabbrowser-manager-close-tab =
     .tooltiptext = Lat att fane
+
+## Tab Groups
+
+tab-group-editor-title-edit = Handsam fanegruppe
+tab-group-editor-name-label = Namn

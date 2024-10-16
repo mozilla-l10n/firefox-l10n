@@ -291,3 +291,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Seinare
     .accesskey = S
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Lat att
+    .aria-label = Lat att

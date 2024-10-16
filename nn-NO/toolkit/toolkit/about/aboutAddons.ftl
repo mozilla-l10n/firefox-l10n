@@ -482,6 +482,7 @@ details-notification-unsigned-link = Meir informasjon
 details-notification-blocked = { $name } er slått av grunna tryggings- eller stabilitetsomsyn.
 details-notification-blocked2 =
     .message = { $name } er slått av grunna tryggings- eller stabilitetsomsyn.
+details-notification-softblocked-link2 = Vis detaljar
 details-notification-blocked-link = Meir informasjon
 details-notification-softblocked = { $name } har kjende tryggings- eller stabilitetsproblem.
 details-notification-softblocked2 =
