@@ -1104,6 +1104,7 @@ firefox-relay-offer-legal-notice = Klepnutím na „Použít e-mailovou masku“
 popup-notification-addon-install-unsigned =
     .value = (Neověřeno)
 popup-notification-xpinstall-prompt-learn-more = Zjistit více o bezpečné instalaci doplňků
+popup-notification-xpinstall-prompt-block-url = Podrobnosti
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Povolit v anonymních oknech
