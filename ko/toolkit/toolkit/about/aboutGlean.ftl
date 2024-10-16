@@ -99,6 +99,10 @@ about-glean-adhoc-note =
     이는 메트릭 카테고리와 메트릭 이름이 Rust 및 C++ API와 달리 
     <code>camelCase</code> 형식으로 지정됨을 의미합니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
+about-glean-feedback-settings-only =
+    .message = 설정 적용됨!
+about-glean-feedback-settings-and-ping =
+    .message = 설정이 적용되고 핑 전송됨!
 about-glean-about-data-header = 데이터 정보
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 

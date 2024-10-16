@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = 서버가 유효하지 않은 정�
 mozilla-pkix-error-empty-issuer-name = 서버가 구별 이름으로 발급자가 비어있는 인증서를 사용했습니다.
 mozilla-pkix-error-additional-policy-constraint-failed = 이 인증서 검증이 추가적인 제한 정책에서 실패했습니다.
 mozilla-pkix-error-self-signed-cert = 자기 스스로 서명하였으므로 인증서를 신뢰할 수 없습니다.
+mozilla-pkix-error-issuer-no-longer-trusted = 인증서를 발급한 인증 기관은 인증서를 발급하기 전에 불신임되었습니다.
 xp-java-remove-principal-error = 대표를 제거할 수 없음
 xp-java-delete-privilege-error = 특별 권한을 삭제할 수 없음
 xp-java-cert-not-exists-error = 이 대표는 인증서를 가지고 있지 않음
