@@ -199,6 +199,7 @@ cfr-cbh-confirm-button = දත්තකඩ පතාක ඉවතලීම
     .accesskey = R
 cfr-cbh-dismiss-button = දැන් නොවේ
     .accesskey = N
+cookie-banner-blocker-onboarding-learn-more = තව දැනගන්න
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -258,3 +259,10 @@ launch-on-login-infobar-final-reject-button = එපා, ස්තුතිය�
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
+tail-fox-spotlight-secondary-button = දැන් නොවේ
+
+## Root Certificate Succession Infobar
+
+
+## FxA Menu Message variants
+

@@ -21,3 +21,9 @@ default-browser-prompt-message-alt = සැමවිට වේගයයෙන්
 default-browser-prompt-button-primary-alt = පෙරනිමි අතිරික්සුව කරන්න
 default-browser-prompt-checkbox-not-again-label = මෙම පණිවිඩය නැවත නොපෙන්වන්න
 default-browser-prompt-button-secondary = දැන් නොවේ
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-dismiss = අහවරයි

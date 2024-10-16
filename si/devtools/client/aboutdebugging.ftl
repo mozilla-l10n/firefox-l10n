@@ -46,6 +46,9 @@ about-debugging-sidebar-item-connect-button = සම්බන්ධ
 about-debugging-sidebar-item-connect-button-connecting = සම්බන්ධ වෙමින්…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = සබැඳීමට අසමත්!
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = සම්බන්ධතාව තවමත් පොරත්තුයි, ඉලක්කගත අතිරික්සුවේ පණිවිඩ පරීක්‍ෂා කරන්න.
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = සම්බන්ධතාවය ඉකුත් විය
 # Text displayed in sidebar items for remote devices where a compatible browser (eg

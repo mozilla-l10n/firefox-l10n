@@ -9,11 +9,15 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = වසන්න
     .aria-label = වසන්න
+firefoxview-empty-state-icon =
+    .alt = අවධානය:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = මේ දැන්
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -136,6 +140,7 @@ firefoxview-opentabs-focus-tab =
     .title = මෙම පටිත්තට මාරුවන්න
 firefoxview-show-more = තව පෙන්වන්න
 firefoxview-show-less = අඩුවෙන් පෙන්වන්න
+firefoxview-show-all = සියල්ල පෙන්වන්න
 firefoxview-search-text-box-clear-button =
     .title = මකන්න
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
@@ -227,11 +232,17 @@ firefoxview-recentlyclosed-empty-header = වැරදීමකින් පට�
 
 firefoxview-syncedtabs-device-notabs = මෙම උපාංගයේ විවෘත පටිති නැත
 firefoxview-syncedtabs-connect-another-device = වෙනත් උපාංගයක් සබඳින්න
+firefoxview-pinned-tabs =
+    .title = ඇමිණූ පටිති
+firefoxview-tabs =
+    .title = පටිති
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } වෙත මාරුවන්න
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

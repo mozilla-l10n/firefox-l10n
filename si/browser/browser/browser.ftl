@@ -273,6 +273,8 @@ quickactions-cmd-plugins = පේනු
 # Opens the print dialog
 quickactions-print2 = මුද්‍රණ පිටුව
 quickactions-cmd-print = මුද්‍රණය
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = PDF ලෙස පිටුව සුරකින්න
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = නව පෞද්. කවුළුව
@@ -343,6 +345,7 @@ identity-connection-secure = සම්බන්ධතාවය ආරක්‍�
 identity-connection-failure = සබඳතාවය බිඳවැටුණි
 identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short-name } පිටුවකි.
 identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
+identity-connection-associated = මෙම පිටුව වෙනත් පිටුවකින් පූරණය වී ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
 identity-active-blocked = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත.
 identity-custom-root = සම්බන්ධතාවය සත්‍යාපනය කළ සහතික නිකුත් කරන්නා මොසිල්ලා විසින් හඳුනා ගෙන නැත.
@@ -532,6 +535,8 @@ urlbar-go-button =
     .tooltiptext = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-page-action-button =
     .tooltiptext = පිටුවේ ක්‍රියාමාර්ග
+urlbar-show-page-actions-button =
+    .tooltiptext = පිටු ක්‍රියාමාර්ග සියල්ල පෙන්වන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -582,6 +587,9 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = { $engine } සමඟ සොයන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -929,6 +937,7 @@ firefox-relay-offer-what-relay-provides = ඔබගේ  වි-තැපැල�
 popup-notification-addon-install-unsigned =
     .value = (සත්‍යාපනය නොකළ)
 popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්‍ෂිතව ස්ථාපනය ගැන තව දැනගන්න
+popup-notification-xpinstall-prompt-block-url = විස්තර බලන්න
 
 ## Pop-up warning
 

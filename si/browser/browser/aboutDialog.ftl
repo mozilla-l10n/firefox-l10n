@@ -25,6 +25,7 @@ update-applying = යාවත්කාලය යොදමින්…
 update-failed = යාවත්කාල කිරීමට අසමත් විය. <label data-l10n-name="failed-link">නවතම අනුවාදය බාගන්න</label>
 update-failed-main = යාවත්කාල කිරීමට අසමත් විය. <a data-l10n-name="failed-link-main">නවතම අනුවාදය බාගන්න</a>
 update-adminDisabled = පද්ධති පරිපාලක විසින් යාවත්කාල කිරීම අබල කර ඇත
+update-policy-disabled = ඔබගේ සංවිධානයෙන් යාවත්කාල අබල කර ඇත
 update-noUpdatesFound = { -brand-short-name } යාවත්කාලීනයි
 aboutdialog-update-checking-failed = යාවත්කාල පරීක්‍ෂාවට අසමත් විය.
 update-otherInstanceHandlingUpdates = { -brand-short-name } දැනටමත් යාවත්කාලීන වෙමින් පවතී
@@ -63,3 +64,14 @@ aboutDialog-version = { $version } (බිටු-{ $bits })
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) (බිටු-{ $bits })
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
