@@ -112,7 +112,16 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = Saber mais sobre o Le Chat
 genai-onboarding-select-header = Selecione o texto para ver sugestões
 genai-onboarding-select-description = Quando seleciona texto, iremos sugerir mensagens que pode enviar para o chatbot. Pode também escrever as suas próprias mensagens.
+genai-onboarding-select-primary = Começar a conversar
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Gerar texto e código
+genai-onboarding-claude-analyze = Analisar documentos e imagens
+genai-onboarding-claude-price = Opções gratuitas e pagas; é necessária uma conta
+genai-onboarding-chatgpt-generate = Gerar texto, imagens e código
+genai-onboarding-chatgpt-analyze = Analisar documentos e imagens
+genai-onboarding-chatgpt-price = Opções gratuitas e pagas; é necessária uma conta para alguns países e tarefas
+genai-onboarding-gemini-generate = Gerar texto, imagens e código
+genai-onboarding-gemini-analyze = Analisar imagens (grátis) e documentos (pago)

@@ -104,6 +104,14 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Separadores de outros dispositivos
+sidebar-panel-header-close-button =
+    .tooltiptext = Fechar
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personalizar barra lateral
+sidebar-history-title = Histórico
+sidebar-syncedtabs-title = Separadores de outros dispositivos
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +121,18 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fechar separador em { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Expandir barra lateral
+    .label = Barras laterais
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Colapsar barra lateral
+    .label = Barras laterais
+sidebar-widget-show-sidebar =
+    .tooltiptext = Mostrar barra lateral
+    .label = Barras laterais
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Ocultar barra lateral
+    .label = Barras laterais

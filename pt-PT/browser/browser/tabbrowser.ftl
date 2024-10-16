@@ -174,3 +174,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ativar separador
 tabbrowser-manager-close-tab =
     .tooltiptext = Fechar separador
+
+## Tab Groups
+
+tab-group-editor-title-create = Criar grupo de separadores
+tab-group-editor-title-edit = Gerir grupo de separadores
+tab-group-editor-name-label = Nome
+tab-group-editor-name-field =
+    .placeholder = Exemplo: compras
+tab-group-editor-cancel =
+    .label = Cancelar
+    .accesskey = C
