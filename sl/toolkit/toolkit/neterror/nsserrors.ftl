@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Varna povezava ni mogoča, ker je bil protokol SSL onemogočen.
 psmerr-ssl2-disabled = Varna povezava ni mogoča, ker stran uporablja starejšo, nevarno različico protokola SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prejeli ste neveljavno digitalno potrdilo. Obrnite se na skrbnika strežnika ali pošljite elektronsko pošto odgovornim, a ne pozabite dodati naslednje vsebine:
     
     Vaše digitalno potrdilo vsebuje enako serijsko številko, kot drugo digitalno potrdilo, ki ga je izdala uradna oseba. Potrebovali boste novo digitalno potrdilo z unikatno serisjko številko.
-
 ssl-error-export-only-server = Varna komunikacija ni možna. Vrstnik ne podpira visoke stopnje šifriranja.
 ssl-error-us-only-server = Varna komunikacija ni možna. Vrstnik zahteva visoko stopnjo šifriranja, ki ni na voljo.
 ssl-error-no-cypher-overlap = Varna komunikacija z vrstnikom ni mogoča: na voljo ni skupnih šifrirnih algoritmov.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Podprt algoritem za podpisovanje TL
 ssl-error-unsupported-signature-algorithm = Soležnik je uporabil nepodprto kombinacijo podpisa in zgoščevalnega algoritma.
 ssl-error-missing-extended-master-secret = Soležnik je poskusil nadaljevati brez pravilne razširitve extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Soležnik je poskusil nadaljevati z nepričakovano razširitvijo extended_master_secret.
-
 sec-error-io = Med varnostnim preverjanjem je prišlo do I/O napake.
 sec-error-library-failure = napaka varnostne knjižnice.
 sec-error-bad-data = varnosta knjižnica: prejeti so bili neveljavni podatki
@@ -320,7 +317,6 @@ sec-error-locked-password = Geslo je zaklenjeno.
 sec-error-unknown-pkcs11-error = Neznana napaka PKCS #11.
 sec-error-bad-crl-dp-url = Neznan ali nepodprt URL v imenu točke za širjenje CRL.
 sec-error-cert-signature-algorithm-disabled = Sporočilo je bil podpisano s pomočjo algoritma za podpise, ki je iz varnostnih razlogov onemogočen.
-
 mozilla-pkix-error-key-pinning-failure = Strežnik uporablja opredeljevanje ključev (HPKP), vendar ni bilo mogoče sestaviti zaupanja vredne verige digitalnih potrdil, ki bi ustrezala. Zlorab opredeljevanja ključev ni mogoče zavrniti.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Strežnik uporablja digitalno potrdilo z razširitvijo osnovnih omejitev, kar ga predstavlja kot overitelja. V primeru pravilno izdanega digitalnega potrdila se to ne bi smelo zgoditi.
 mozilla-pkix-error-inadequate-key-size = Strežnik uporablja digitalno potrdilo z velikostjo ključa, ki je premajhna za vzpostavitev varne povezave.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Strežnik je predstavil potrdilo,k
 mozilla-pkix-error-empty-issuer-name = Strežnik uporablja digitalno potrdilo s praznim enoličnim imenom izdajatelja.
 mozilla-pkix-error-additional-policy-constraint-failed = Dodatna omejitev politike pri preverjanju digitalnega potrdila je spodletela.
 mozilla-pkix-error-self-signed-cert = Digitalno potrdilo ni vredno zaupanja, ker se je samo podpisalo.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Overitelju, ki je izdal potrdilo, je bilo pred izdajo umaknjeno zaupanje.
 xp-java-remove-principal-error = Ni možno odstraniti predstojnika
 xp-java-delete-privilege-error = Ni možno izbrisati privilegija
 xp-java-cert-not-exists-error = Predstojnik nima digitalnega potrdila
-
 xp-sec-fortezza-bad-card = Fortezza kartica ni bila pravilno inicializirana. Odstranite jo in jo vrnite vašemu izdajatelju kartice.
 xp-sec-fortezza-no-card = Nisem našel Fortezza kartice.
 xp-sec-fortezza-none-selected = Fortezza kartica ni izbrana.

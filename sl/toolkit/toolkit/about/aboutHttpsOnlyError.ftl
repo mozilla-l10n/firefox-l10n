@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = Opozorilo načina "samo HTTPS"
 about-httpsonly-title-site-not-available = Varno spletno mesto ni na voljo
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Omogočili ste način "samo HTTPS" za izboljšano varnost in varna različica HTTPS strani <em>{ $websiteUrl }</em> ni na voljo.
@@ -12,14 +11,10 @@ about-httpsonly-explanation-question = Kaj bi lahko povzročilo to?
 about-httpsonly-explanation-nosupport = Najverjetneje spletno mesto ne podpira HTTPS.
 about-httpsonly-explanation-risk = Možno je tudi, da je vpleten napadalec. Če se odločite za obisk spletnega mesta, ne vnašajte nobenih občutljivih podatkov, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.
 about-httpsonly-explanation-continue = Če nadaljujete, bo za to stran način "samo HTTPS" začasno izklopljen.
-
+about-httpsonly-explanation-iframe = Zaradi zavračanja mešane vsebine ni mogoče ročno dovoliti nalaganja tega okvirja.
 about-httpsonly-button-continue-to-site = Nadaljuj na stran HTTP
 about-httpsonly-button-go-back = Nazaj
 about-httpsonly-link-learn-more = Več o tem …
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
