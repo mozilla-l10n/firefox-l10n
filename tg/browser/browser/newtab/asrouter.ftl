@@ -291,3 +291,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Дертар
     .accesskey = Д
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Пӯшидан
+    .aria-label = Пӯшидан
