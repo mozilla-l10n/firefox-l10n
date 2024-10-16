@@ -102,9 +102,9 @@ about-glean-adhoc-note =
     <code>camelCase</code> till skillnad från Rust och C++ API:erna.
 controls-button-label-verbose = Tillämpa inställningar och skicka ping
 about-glean-feedback-settings-only =
-    .message = Inställningarna tillämpas!
+    .message = Inställningar tillämpade!
 about-glean-feedback-settings-and-ping =
-    .message = Inställningarna tillämpas och ping skickas!
+    .message = Inställningar tillämpas och ping skickas!
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
     För att bläddra i listan över insamlade data, vänligen konsultera
