@@ -1013,6 +1013,7 @@ firefox-relay-offer-legal-notice = 若點擊「使用轉寄信箱」，代表您
 popup-notification-addon-install-unsigned =
     .value = （未驗證）
 popup-notification-xpinstall-prompt-learn-more = 了解如何於安裝附加元件時確保安全的更多資訊
+popup-notification-xpinstall-prompt-block-url = 檢視詳細資訊
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = 於隱私視窗中執行
