@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Serwer jo certifikat prezentěrowa
 mozilla-pkix-error-empty-issuer-name = Serwer jo certifikat bźez rozeznawajobnego mjenja (eng.: distinguished name) wudawarja prezentěrował.
 mozilla-pkix-error-additional-policy-constraint-failed = Pśidatne wobgranicowanje pšawidła njejo mógło toś ten certifikat pśeglědaś.
 mozilla-pkix-error-self-signed-cert = Certifikat njejo dowěry gódny, dokulaž jo se sam pódpisał.
+mozilla-pkix-error-issuer-no-longer-trusted = Městnoju certificěrowanja, kótarež jo certifikat wudało, njejsu dowěrili, nježli až certifikat jo se wudał.
 xp-java-remove-principal-error = Principal njedajo se wótwónoźeś
 xp-java-delete-privilege-error = Priwileg njedajo se lašowaś
 xp-java-cert-not-exists-error = Toś ten principal njama certifikata

@@ -300,3 +300,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Pózdźej
     .accesskey = P
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Zacyniś
+    .aria-label = Zacyniś
