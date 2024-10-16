@@ -109,7 +109,7 @@ urlbar-search-tips-confirm-short = 知道了！
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
-    .alt = 秘訣:
+    .alt = 秘訣：
 urlbar-result-menu-button =
     .title = 開啟選單
 urlbar-result-menu-button-feedback = 意見回饋
