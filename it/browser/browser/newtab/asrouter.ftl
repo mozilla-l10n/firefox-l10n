@@ -201,7 +201,6 @@ cfr-cbh-confirm-button = Rifiuta banner per i cookie
     .accesskey = R
 cfr-cbh-dismiss-button = Non adesso
     .accesskey = N
-
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ha appena rifiutato un banner per i cookie
 cookie-banner-blocker-onboarding-body = Meno distrazioni, meno cookie in grado di tracciarti su questo sito.
 cookie-banner-blocker-onboarding-learn-more = Ulteriori informazioni
@@ -286,8 +285,14 @@ root-certificate-succession-infobar-january-message = <strong>Le versioni più v
 root-certificate-succession-infobar-march-message = <strong>Aggiorna per continuare a utilizzare { -brand-short-name } dopo il 14 marzo 2025.</strong>
 root-certificate-succession-infobar-link = Perché devo aggiornare?
 root-certificate-succession-infobar-primary-button =
-  .label = Aggiorna adesso
-  .accesskey = A
+    .label = Aggiorna adesso
+    .accesskey = A
 root-certificate-succession-infobar-secondary-button =
-  .label = Più tardi
-  .accesskey = P
+    .label = Più tardi
+    .accesskey = P
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Chiudi
+    .aria-label = Chiudi
