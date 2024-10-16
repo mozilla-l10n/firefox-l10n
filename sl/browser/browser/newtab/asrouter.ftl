@@ -300,3 +300,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Pozneje
     .accesskey = n
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Zapri
+    .aria-label = Zapri
