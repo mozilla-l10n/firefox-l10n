@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = Ειδοποίηση λειτουργίας «Μόνο HTTPS»
 about-httpsonly-title-site-not-available = Δεν διατίθεται ασφαλής ιστότοπος
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Έχετε ενεργοποιήσει τη λειτουργία «Μόνο HTTPS» για ενισχυμένη ασφάλεια, αλλά δεν διατίθεται ασφαλής έκδοση HTTPS του <em>{ $websiteUrl }</em>.
@@ -12,14 +11,10 @@ about-httpsonly-explanation-question = Τι μπορεί να το προκαλ�
 about-httpsonly-explanation-nosupport = Πιθανότατα, ο ιστότοπος απλά δεν υποστηρίζει HTTPS.
 about-httpsonly-explanation-risk = Είναι επίσης πιθανό να έχει εμπλακεί ένας εισβολέας. Εάν αποφασίσετε να επισκεφθείτε τον ιστότοπο, δεν πρέπει να εισαγάγετε ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης, email ή στοιχεία πιστωτικής κάρτας.
 about-httpsonly-explanation-continue = Αν συνεχίσετε, η λειτουργία «Μόνο HTTPS» θα απενεργοποιηθεί προσωρινά για τον ιστότοπο.
-
+about-httpsonly-explanation-iframe = Λόγω της φραγής μικτού περιεχομένου, δεν είναι δυνατό να επιτραπεί η χειροκίνητη φόρτωση αυτού του πλαισίου.
 about-httpsonly-button-continue-to-site = Συνέχεια σε ιστότοπο HTTP
 about-httpsonly-button-go-back = Επιστροφή
 about-httpsonly-link-learn-more = Μάθετε περισσότερα…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
