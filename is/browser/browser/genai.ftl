@@ -67,6 +67,13 @@ genai-header-options-button =
     .title = Opna valmynd
 genai-header-close-button =
     .title = Loka
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Endurhlaða { $provider }
+genai-options-show-shortcut =
+    .label = Sýna flýtileið þegar texti er valinn
+genai-options-hide-shortcut =
+    .label = Fela flýtileið þegar texti er valinn
 
 ## Chatbot onboarding
 

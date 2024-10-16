@@ -47,10 +47,15 @@ callout-pdfjs-draw-button = Náði því!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Ætlaðirðu ekki að loka þessum flipa?
+fx-view-discoverability-subtitle = Finndu hann og opnaðu aftur hér. Við geymum ferilinn yfir nýlega lokaða flipa fyrir þig.
 fx-view-discoverability-primary-button-label = Opna { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Afgreiða
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Ekki birta þessi meðmæli aftur
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Birta færri meðmæli
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
