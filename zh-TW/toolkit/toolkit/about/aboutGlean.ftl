@@ -62,5 +62,9 @@ about-glean-adhoc-explanation2 = 若需進行 <i>ad hoc 臨時測試</i>，也�
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = 註：您正透過開發者工具主控台使用 Glean JS API。這代表指標的分類與名稱會使用 <code>camelCase</code> 格式顯示，而與 Rust 及 C++ API 格式不同。
 controls-button-label-verbose = 套用設定並送出 ping
+about-glean-feedback-settings-only =
+    .message = 設定已套用！
+about-glean-feedback-settings-and-ping =
+    .message = 設定已套用，並已送出 ping！
 about-glean-about-data-header = 關於資料
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
