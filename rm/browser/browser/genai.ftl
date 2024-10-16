@@ -124,3 +124,6 @@ genai-onboarding-chatgpt-generate = Generar text, maletgs e code
 genai-onboarding-chatgpt-analyze = Analisar documents e maletgs
 genai-onboarding-chatgpt-price = Opziuns gratuitas e talas cunter pajament; in conto è necessari per tscherts pajais e tschertas incumbensas
 genai-onboarding-gemini-generate = Generar text, maletgs e code
+genai-onboarding-gemini-analyze = Analisar maletgs (gratuit) e documents (cunter pajament)
+genai-onboarding-gemini-price = Opziuns gratuitas e cunter pajament; conto obligatoric
+genai-onboarding-huggingchat-generate = Generar text e code
