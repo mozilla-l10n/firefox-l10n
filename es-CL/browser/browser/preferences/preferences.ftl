@@ -641,6 +641,10 @@ search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búqueda en los resultados de la barra de direcciones
     .accesskey = l
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mostrar términos de búsqueda en la barra de direcciones en las páginas de resultados
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
