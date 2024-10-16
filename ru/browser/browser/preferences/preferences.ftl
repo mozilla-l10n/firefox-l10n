@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Открывать { -brand-short-name } автоматически при загрузке компьютера.
     .accesskey = м
 windows-launch-on-login-disabled = Эта настройка отключена в Windows. Чтобы изменить это, откройте <a data-l10n-name="startup-link">Автозагрузка приложений</a> в настройках системы.
+windows-launch-on-login-profile-disabled = Включите эту настройку, установив флажок «{ profile-manager-use-selected.label }» в окне «Выбор профиля пользователя».
 startup-restore-warn-on-quit =
     .label = Предупреждать при выходе из браузера
 disable-extension =
@@ -644,6 +645,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Отображать поисковые предложения при использовании адресной строки
     .accesskey = ж
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Показывать поисковые запросы в адресной строке на страницах с результатами
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

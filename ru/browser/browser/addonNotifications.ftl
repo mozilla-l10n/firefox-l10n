@@ -139,6 +139,7 @@ addon-local-install-error-not-signed = Это дополнение не може
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } не может быть установлено, так как оно не совместимо с { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } нарушает политики Mozilla и не может быть установлено на { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } не может быть установлено, так как есть высокий риск, что оно вызовет проблемы со стабильностью или безопасностью.
 addon-install-error-soft-blocked = { $addonName } нарушает политики Mozilla и не может быть установлено на { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
