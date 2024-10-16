@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot IA
+menu-view-review-checker =
+    .label = Verificaziun da recensiuns
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,12 @@ sidebar-horizontal-tabs =
     .label = Tabs orizontals
 sidebar-customize-tabs-header =
     .label = Parameters dals tabs
+sidebar-customize-button-header =
+    .label = Buttun trav laterala
+sidebar-customize-position-header =
+    .label = Posiziun trav laterala
+sidebar-visibility-setting-always-show =
+    .label = Expander e reducir la trav laterala
 sidebar-visibility-setting-hide-sidebar =
     .label = Mussar e zuppentar la trav laterala
 sidebar-customize-settings-header =

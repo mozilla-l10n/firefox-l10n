@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Stampar cun agid dal dialog da stampa dal sistem.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
 policy-Windows10SSO = Permetter l'utilisaziun da Windows single sign-on per ils contos Microsoft, da scola e da fatschenta.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permetter l’autentificaziun unica per ils contos Microsoft Entra.

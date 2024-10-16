@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Avrir automaticamain { -brand-short-name } cura ch'il computer vegn avià
     .accesskey = o
 windows-launch-on-login-disabled = Questa preferenza è vegnida deactivada en Windows. Per midar, visitar <a data-l10n-name="startup-link">Startup Apps</a> en ils parameters dal sistem.
+windows-launch-on-login-profile-disabled = Activar questa preferenza cun selecziunar «{ profile-manager-use-selected.label }» en la fanestra «Tscherner il profil d‘utilisader».
 startup-restore-warn-on-quit =
     .label = Avisar avant che terminar il navigatur
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mussar propostas da tschertga en ils resultats da la trav d'adressas
     .accesskey = M
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mussar ils terms da tschertga en la trav d’adressas per las paginas da resultats
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

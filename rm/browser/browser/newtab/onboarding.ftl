@@ -381,3 +381,38 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jau al hai utilisà en i
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Tscherna nua che ti vuls avair tes tabs
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Ti pos mintga mument midar idea ed adattar ils parameters da la trav laterala.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Tabs da la vart
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Tabs sisum
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Ils tabs verticals èn qua
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Nus ta preschentain ils tabs verticals
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Emprova da plazzar tes tabs da la vart. Ti pos midar idea da tut temp ed adattar ils parameters da la trav laterala.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Empruvar ils tabs verticals
+onboarding-flair-text = Nov!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantegnair ils tabs orizontals
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Ina fanestra dal navigatur che visualisescha ils tabs lung la vart dal visur en la trav laterala da { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Ina fanestra dal navigatur che visualisescha ils tabs lung la vart dal visur en la trav laterala da { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Ina fanestra dal navigatur che visualisescha ils tabs da la vart sura.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Ina fanestra dal navigatur che visualisescha ils tabs da la vart sura.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Emprova in chatbot IA en la trav laterala
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Lascha resumar cuntegn dal web, generar ideas, far sbozs da messadis – tut durant la navigaziun. Tscherna tranter differents purschiders ed als mida cura che ti vuls. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
+onboarding-genai-sidebar-primary-button = Tscherna in chatbot
+onboarding-genai-sidebar-secondary-button = Cumenza a navigar
