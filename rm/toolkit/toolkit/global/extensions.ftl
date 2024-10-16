@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Interrumper
     .accesskey = I
-
 webext-perms-sideload-text = In auter program sin tes computer emprova dad installar in supplement che po influenzar a moda negativa tes navigatur. Controllescha las autorisaziuns per quest supplement e tscherna sche ti al vuls activar u interrumper il process (per al laschar deactivà).
 webext-perms-sideload-text-no-perms = In auter program sin tes computer emprova dad installar in supplement che po influenzar a moda negativa tes navigatur. Tscherna sche ti al vuls activar u interrumper il process (per al laschar deactivà).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Interrumper
     .accesskey = I
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } è vegnì actualisà. Ti stos acceptar las novas permissiuns avant che la versiun actualisada vegn installada. Sche ti tschernas «Interrumper», vegn la versiun actuala da l'extensiun mantegnida. Questa extensiun vegn ad avair las permissiuns per:
 webext-perms-update-accept =
     .label = Actualisar
     .accesskey = A
-
 webext-perms-optional-perms-list-intro = L'extensiun vul:
 webext-perms-optional-perms-allow =
     .label = Permetter
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Refusar
     .accesskey = R
-
 webext-perms-host-description-all-urls = Acceder a tias datas per tut las websites
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tias datas per paginas en la domena { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder a tias datas per { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -75,6 +68,21 @@ webext-perms-host-description-too-many-sites =
     { $domainCount ->
         [one] Acceder a tias datas sin { $domainCount } autra pagina
        *[other] Acceder a tias datas sin { $domainCount } autras paginas
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Acceder a tias datas per las websites en las domenas { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { NUMBER($domainCount) ->
+        [one] Acceder a tias datas per las websites da { $domainCount } domenas
+       *[other] Acceder a tias datas per las websites da { $domainCount } domenas
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.

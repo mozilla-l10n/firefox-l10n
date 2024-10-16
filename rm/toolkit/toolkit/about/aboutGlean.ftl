@@ -102,6 +102,10 @@ about-glean-adhoc-note =
     Quai vul dir che la categoria metrica ed il num metric èn formatads en
     <code>camelCase</code> cuntrari a las APIs da Rust e C++.
 controls-button-label-verbose = Applitgar ils parameters e trametter in ping
+about-glean-feedback-settings-only =
+    .message = Applitgà ils parameters!
+about-glean-feedback-settings-and-ping =
+    .message = Applitgà ils parameters e tramess il ping!
 about-glean-about-data-header = Davart las datas
 about-glean-about-data-explanation =
     Per sfegliar en la glista da las datas rimnadas, per plaschair consultar il 

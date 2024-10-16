@@ -131,6 +131,8 @@ addon-local-install-error-not-signed = Impussibel dad installar quest supplement
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impussibel dad installar { $addonName }. Il supplement n'è betg cumpatibel cun { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } violescha las directivas da Mozilla e na po betg vegnir installà en { -brand-short-name }.
 addon-install-error-blocklisted = Impussibel dad installar { $addonName }. Quest supplement chaschuna probablamain problems da segirezza u da stabilitad.
+addon-install-error-soft-blocked = { $addonName } violescha las directivas da Mozilla e na po betg vegnir installà en { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ti na pos betg installar { $addonName } sco utilisader final, quai po mo far in’organisaziun cun agid dad enterprise policies.

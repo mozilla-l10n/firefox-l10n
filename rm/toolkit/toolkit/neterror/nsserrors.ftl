@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Impussibel da realisar ina connexiun segira, perquai ch'il protocol SSL è vegnì deactivà.
 psmerr-ssl2-disabled = Impussibel da realisar ina connexiun segira, perquai che la website utilisescha ina versiun pli veglia e malsegira dal protocol SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ti has retschavì in certificat nunvalid. Contactescha per plaschair l'administratur dal server u il correspundent dad e-mail e dà vinavant las suandantas infurmaziuns:
     
     Voss certificat cuntegna il medem numer da seria sco in auter certificat dal medem post da certificaziun. Cumprai per plaschair in nov certificat cun in numer da seria exact.
-
 ssl-error-export-only-server = Impussibel da communitgar a moda segira. La cuntrapart na sustegna nagin criptadi dad aut grad.
 ssl-error-us-only-server = Impussibel da communitgar a moda segira. La cuntrapart basegna in criptadi dad aut grad che na vegn betg sustegnì.
 ssl-error-no-cypher-overlap = Impussibel da communitgar a moda segira cun la cuntrapart: nagins algoritmus da criptadi communabels.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nagin algoritmus da signatura TLS s
 ssl-error-unsupported-signature-algorithm = Il peer ha utilisà ina cumbinaziun betg sustegnida da signatura ed algoritmus da hash.
 ssl-error-missing-extended-master-secret = Il peer ha empruvà da cuntinuar senza l'extensiun extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = Il peer ha empruvà da cuntinuar cun ina extensiun extended_master_secret nunspetgada.
-
 sec-error-io = In'errur I/O cun autentifitgar la segirezza.
 sec-error-library-failure = Errur da la biblioteca da segirezza.
 sec-error-bad-data = Biblioteca da segirezza: recepì datas donnegiadas.
@@ -319,7 +317,6 @@ sec-error-locked-password = Il pled-clav è bloccà.
 sec-error-unknown-pkcs11-error = Errur nunenconuschenta da PKCS #11.
 sec-error-bad-crl-dp-url = URL nunvalida u betg sustegnida en il num da puncts da la distribuziun CRL.
 sec-error-cert-signature-algorithm-disabled = Il certificat è suttascrit cun in algoritmus ch'è deactivà perquai ch'el n'è betg segir.
-
 mozilla-pkix-error-key-pinning-failure = Quest server utilisescha key pinning (HPKP), ma i n'è betg reussì da crear ina chadaina da certificats fidads che correspunda al pin. Violaziuns da key pinning na pon betg vegnir surscrittas.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Il server utilisescha in certificat cun l'extensiun 'basic constraints' per s'identifitgar sco post da certificaziun. Quai na duess betg capitar tar certificats emess correctamain.
 mozilla-pkix-error-inadequate-key-size = Il server ha preschentà in certificat cun ina clav ch'è memia curta per stabilir ina connexiun segira.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Il server ha preschentà in certif
 mozilla-pkix-error-empty-issuer-name = Il server ha preschentà in certificat senza in num unic dad in emettur.
 mozilla-pkix-error-additional-policy-constraint-failed = Ina restricziun da regla supplementara n'è betg reussida durant la validaziun da quest certificat.
 mozilla-pkix-error-self-signed-cert = I na vegn betg fidà al certificat, perquai ch'el è suttascrit da l'agen emettur.
-
+mozilla-pkix-error-issuer-no-longer-trusted = L’autoritad da certificaziun che ha emess il certificat è vegnida giuditgada sco betg fidabla avant l’emissiun dal certificat.
 xp-java-remove-principal-error = Impussibel d'allontanar 'Principal'
 xp-java-delete-privilege-error = Impussibel da stizzar il privilegi
 xp-java-cert-not-exists-error = Quest 'principal' n'ha nagin certificat
-
 xp-sec-fortezza-bad-card = La carta Fortezza n'è betg vegnida installada correctamain. La deconnectescha per plaschair e la porta enavos a l'emittent.
 xp-sec-fortezza-no-card = Betg chattà cartas Fortezza
 xp-sec-fortezza-none-selected = Betg tschernì ina carta Fortezza

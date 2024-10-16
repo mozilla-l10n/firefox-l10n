@@ -60,3 +60,67 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Dumandar { $provider }…
+genai-shortcuts-hide =
+    .label = Zuppentar las scursanidas a chatbots
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Tscherner in chatbot
+genai-header-options-button =
+    .title = Avrir il menu
+genai-header-close-button =
+    .title = Serrar
+genai-provider-view-details =
+    .label = Vesair ils detagls dal chatbot
+genai-provider-about-chatbots =
+    .label = Davart quests chatbots
+genai-options-reload-generic =
+    .label = Rechargiar il chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Rechargiar { $provider }
+genai-options-show-shortcut =
+    .label = Mussar la scursanida cun selecziunar text
+genai-options-hide-shortcut =
+    .label = Zuppentar la scursanida cun selecziunar text
+genai-options-about-chatbot =
+    .label = Davart chatbots IA en { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Resumaziuns, brainstorming ed auter pli durant la navigaziun
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Tscherna in chatbot IA per l’utilisaziun en la trav laterala da { -brand-short-name }. Nus vegnin a mussar detagls davart mintga chatbot cura che ti al selecziuneschas. Ti al pos midar da tut temp. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
+genai-onboarding-primary = Cuntinuar
+genai-onboarding-secondary = Serrar
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Ulteriuras infurmaziuns davart Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Ulteriuras infurmaziuns davart ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Ulteriuras infurmaziuns davart Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Ulteriuras infurmaziuns davart HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Ulteriuras infurmaziuns davart Le Chat
+genai-onboarding-select-header = Tscherner text per vesair propostas
+genai-onboarding-select-description = Sche ti selecziuneschas text, vegnin nus a proponer cumonds che ti pos trametter al chatbot. Ti pos era scriver tes agens cumonds.
+genai-onboarding-select-primary = Aviar il chat
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Generar text e code
+genai-onboarding-claude-analyze = Analisar documents e maletgs
+genai-onboarding-claude-price = Opziuns gratuitas e cunter pajament; conto obligatoric
+genai-onboarding-chatgpt-generate = Generar text, maletgs e code
+genai-onboarding-chatgpt-analyze = Analisar documents e maletgs
+genai-onboarding-chatgpt-price = Opziuns gratuitas e talas cunter pajament; in conto è necessari per tscherts pajais e tschertas incumbensas
+genai-onboarding-gemini-generate = Generar text, maletgs e code

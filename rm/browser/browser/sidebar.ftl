@@ -50,6 +50,8 @@ sidebar-horizontal-tabs =
     .label = Tabs orizontals
 sidebar-customize-tabs-header =
     .label = Parameters dals tabs
+sidebar-visibility-setting-hide-sidebar =
+    .label = Mussar e zuppentar la trav laterala
 sidebar-customize-settings-header =
     .label = Parameters da la trav laterala
 sidebar-visibility-always-show =
@@ -73,6 +75,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Agiuntar in segnapagina per il tab…
 sidebar-context-menu-copy-link =
     .label = Copiar la colliaziun
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Serrar il tab sin { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -91,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Segnapaginas
 sidebar-menu-customize-label =
     .label = Persunalisar la trav laterala
+sidebar-menu-review-checker-label =
+    .label = Verificaziun da recensiuns
 
 ## Headings for sidebar menu panels.
 
@@ -100,3 +108,35 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Tabs dad auters apparats
+sidebar-panel-header-close-button =
+    .tooltiptext = Serrar
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Persunalisar la trav laterala
+sidebar-history-title = Cronologia
+sidebar-syncedtabs-title = Tabs dad auters apparats
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Serrar il tab sin { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Expander la trav laterala
+    .label = Travs lateralas
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Reducir la trav laterala
+    .label = Travs lateralas
+sidebar-widget-show-sidebar =
+    .tooltiptext = Mussar la trav laterala
+    .label = Travs lateralas
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Zuppentar la trav laterala
+    .label = Travs lateralas

@@ -28,10 +28,16 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Serrar ils tabs da vart sanestra
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Serrar ils survart
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Serrar ils tabs da vart dretga
+    .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Serrar ils tabs sutvart
     .accesskey = i
 close-other-tabs =
     .label = Serrar ils auters tabs
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Cundivider
     .accesskey = u
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nov tab a dretga
+    .accesskey = v
+tab-context-new-tab-open-vertical =
+    .label = Nov tab sutvart
+    .accesskey = s
+tab-context-new-group =
+    .label = Nova gruppa
+    .accesskey = g
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -174,3 +174,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Reactivar il tun dal tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Serrar il tab
+
+## Tab Groups
+
+tab-group-editor-title-create = Crear ina gruppa da tabs
+tab-group-editor-title-edit = Administrar la gruppa da tabs
+tab-group-editor-name-label = Num
+tab-group-editor-name-field =
+    .placeholder = Exempel: far cumpras
+tab-group-editor-cancel =
+    .label = Interrumper
+    .accesskey = I
