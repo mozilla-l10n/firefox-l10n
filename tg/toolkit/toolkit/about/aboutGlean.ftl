@@ -83,5 +83,7 @@ about-glean-adhoc-note =
     Ин маънои онро дорад, ки категорияи андозагирӣ ва номи андозагирӣ дар
     <code>camelCase</code> бар хилофи «API»-ҳои «Rust» ва «C++»  шаклбандӣ карда шудааст.
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
+about-glean-feedback-settings-only =
+    .message = Танзимот татбиқ карда шуд!
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
