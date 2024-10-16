@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Fechar separadores duplicados
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Fechar todos os separadores duplicados
+all-tabs-menu-synced-tabs =
+    .label = Separadores de outros dispositivos
