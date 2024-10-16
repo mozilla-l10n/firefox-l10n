@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = Предупреждение режима «Только HTTPS»
 about-httpsonly-title-site-not-available = Безопасная версия сайта недоступна
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Вы включили режим «Только HTTPS» для повышения безопасности, однако HTTPS-версия сайта <em>{ $websiteUrl }</em> недоступна.
@@ -12,14 +11,10 @@ about-httpsonly-explanation-question = Чем это может быть выз�
 about-httpsonly-explanation-nosupport = Скорее всего, веб-сайт просто не поддерживает HTTPS.
 about-httpsonly-explanation-risk = Причиной этого также может быть злоумышленник. Если вы решите посетить этот веб-сайт, не вводите на нём никакой личной информации, такой как пароли, адреса электронной почты и данные банковских карт.
 about-httpsonly-explanation-continue = Если вы продолжите, режим «Только HTTPS» для этого сайта будет временно отключён.
-
+about-httpsonly-explanation-iframe = Из-за блокировки смешанного содержимого разрешить вручную загрузку этого фрейма невозможно.
 about-httpsonly-button-continue-to-site = Перейти на HTTP-версию
 about-httpsonly-button-go-back = Назад
 about-httpsonly-link-learn-more = Подробнее…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
