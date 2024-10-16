@@ -76,7 +76,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Inaktivera varnin
 # English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen för borttagning och låsning använder tilläggs-ID.
 policy-ExtensionSettings = Hantera alla aspekter av tilläggsinstallation.
-policy-ExtensionUpdate = Aktivera eller inaktivera automatiska utökningsuppdateringar.
+policy-ExtensionUpdate = Aktivera eller inaktivera automatiska tilläggsuppdateringar.
 policy-FirefoxHome2 = Konfigurera { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurera { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Tvinga direkt navigering på intranätet istället för att söka när du skriver in enstaka ord i adressfältet.
@@ -140,4 +140,5 @@ policy-UseSystemPrintDialog = Skriv ut med hjälp av systemets utskriftsdialog.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
 policy-Windows10SSO = Tillåt Windows enkel inloggning för Microsoft-, arbets- och skolkonton.
+# Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Tillåt enkel inloggning för Microsoft Entra-konton.

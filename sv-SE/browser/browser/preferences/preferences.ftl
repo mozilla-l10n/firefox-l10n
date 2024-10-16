@@ -1298,7 +1298,7 @@ collection-studies =
     .label = Tillåt { -brand-short-name } att installera och köra studier
 collection-studies-link = Visa { -brand-short-name }-studier
 addon-recommendations =
-    .label = Tillåt { -brand-short-name } att göra personliga utökningsrekommendationer
+    .label = Tillåt { -brand-short-name } att göra personliga tilläggsrekommendationer
 addon-recommendations-link = Läs mer
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
