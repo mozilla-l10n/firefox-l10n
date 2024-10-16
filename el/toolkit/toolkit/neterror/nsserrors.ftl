@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Ο διακομιστής παρο
 mozilla-pkix-error-empty-issuer-name = Ο διακομιστής παρουσίασε ένα πιστοποιητικό με κενό επιφανές όνομα εκδότη.
 mozilla-pkix-error-additional-policy-constraint-failed = Ένας περιορισμός πρόσθετης πολιτικής απέτυχε κατά την επικύρωση αυτού του πιστοποιητικού.
 mozilla-pkix-error-self-signed-cert = Το πιστοποιητικό δεν είναι αξιόπιστο επειδή είναι αυτοϋπογεγραμμένο.
+mozilla-pkix-error-issuer-no-longer-trusted = Η αρχή πιστοποιητικών που εξέδωσε το πιστοποιητικό δεν θεωρούνταν αξιόπιστη πριν από την έκδοση του πιστοποιητικού.
 xp-java-remove-principal-error = Αδυναμία αφαίρεσης αρχής
 xp-java-delete-privilege-error = Αδυναμία διαγραφής προνομίου
 xp-java-cert-not-exists-error = Αυτή η αρχή δεν διαθέτει πιστοποιητικό

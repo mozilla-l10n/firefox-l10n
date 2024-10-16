@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Άνοιγμα του { -brand-short-name } αυτόματα κατά την εκκίνηση του υπολογιστή
     .accesskey = ν
 windows-launch-on-login-disabled = Αυτή η προτίμηση έχει απενεργοποιηθεί στα Windows. Για να την αλλάξετε, επισκεφτείτε τις <a data-l10n-name="startup-link">Εφαρμογές εκκίνησης</a> στις ρυθμίσεις συστήματος.
+windows-launch-on-login-profile-disabled = Ενεργοποιήστε αυτήν την προτίμηση επιλέγοντας «{ profile-manager-use-selected.label }» στο παράθυρο «Επιλογή προφίλ χρήστη».
 startup-restore-warn-on-quit =
     .label = Προειδοποίηση κατά την έξοδο από το πρόγραμμα περιήγησης
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων
     .accesskey = τ
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων όταν βρίσκεστε σε σελίδες αποτελεσμάτων
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

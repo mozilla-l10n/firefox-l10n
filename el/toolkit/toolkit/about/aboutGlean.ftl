@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Αυτό σημαίνει ότι οι κατηγορίες και τα ονόματα των μετρήσεων μορφοποιούνται σε
     <code>camelCase</code>, σε αντίθεση με τα API των Rust και C++.
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
+about-glean-feedback-settings-only =
+    .message = Οι ρυθμίσεις εφαρμόστηκαν!
+about-glean-feedback-settings-and-ping =
+    .message = Οι ρυθμίσεις εφαρμόστηκαν και έγινε αποστολή του ping!
 about-glean-about-data-header = Σχετικά με τα δεδομένα
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
