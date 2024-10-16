@@ -101,6 +101,17 @@ genai-onboarding-claude-learn = Saber mais sobre o Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Saber mais sobre o ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Saber mais sobre o Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Saber mais sobre o HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Saber mais sobre o Le Chat
+genai-onboarding-select-header = Selecione o texto para ver sugestões
+genai-onboarding-select-description = Quando seleciona texto, iremos sugerir mensagens que pode enviar para o chatbot. Pode também escrever as suas próprias mensagens.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
