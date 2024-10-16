@@ -293,3 +293,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Myöhemmin
     .accesskey = M
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Sulje
+    .aria-label = Sulje

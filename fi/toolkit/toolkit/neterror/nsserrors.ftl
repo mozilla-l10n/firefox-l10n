@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska SSL-yhteiskäytäntö on otettu pois käytöstä.
 psmerr-ssl2-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska sivusto käyttää vanhempaa, heikkoa versiota SSL-yhteiskäytännöstä.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vastaanotettiin epäkäypä varmenne. Ota yhteys palvelimen ylläpitoon ja välitä heille seuraava virheilmoitus:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = Ei voida kommunikoida suojatusti. Toinen osapuoli ei tue korkeatasoista salausta.
 ssl-error-us-only-server = Ei voida kommunikoida suojatusti. Toinen osapuoli vaatii korkeatasoista salaustyyppiä, jota ei tueta.
 ssl-error-no-cypher-overlap = Ei voida kommunikoida suojatusti: ei yhteisiä salausalgoritmeja toisen osapuolen kanssa.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Mitään tuettua TLS-allekirjoitusa
 ssl-error-unsupported-signature-algorithm = Osapuoli käytti ei-tuettua allekirjoitus- ja tiivistealgoritmin yhdistelmää.
 ssl-error-missing-extended-master-secret = Osapuoli yritti jatkaa ilman oikeaa extended_master_secret-laajennusta.
 ssl-error-unexpected-extended-master-secret = Osapuoli yritti jatkaa odottamattoman extended_master_secret-laajennuksen kanssa.
-
 sec-error-io = Tietoturvatodennuksen aikana tapahtui I/O-virhe.
 sec-error-library-failure = tietoturvakirjaston virhe.
 sec-error-bad-data = tietoturvakirjasto: vastaanotettiin virheellistä dataa.
@@ -319,7 +317,6 @@ sec-error-locked-password = Salasana on lukittu.
 sec-error-unknown-pkcs11-error = Tuntematon PKCS #11 -virhe.
 sec-error-bad-crl-dp-url = Virheellinen tai ei tuettu osoite CRL-jakelupisteen nimessä.
 sec-error-cert-signature-algorithm-disabled = Varmenne oli allekirjoitettu allekirjoitusalgoritmilla, joka on poistettu käytöstä, koska se ei ole turvallinen.
-
 mozilla-pkix-error-key-pinning-failure = Palvelin käyttää avaimen lukkolistaa (HPKP), mutta yhtäkään luotettua ja lukkolistan mukaista varmenneketjua ei voitu luoda. Lukkolistarikkeitä ei voida ohittaa.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Palvelin käyttää tavallista rajoitelaajennusvarmennetta, joka tunnistaa sen varmentajaksi. Asianmukaisella varmenteella näin ei pitäisi olla.
 mozilla-pkix-error-inadequate-key-size = Palvelimen tarjoaman varmenteen avaimen koko on liian pieni suojatun yhteyden luomiseksi.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Palvelin tarjosi varmenteen, joka 
 mozilla-pkix-error-empty-issuer-name = Palvelin tarjosi varmenteen, jonka myöntäjän luokiteltu nimi (DN) on tyhjä.
 mozilla-pkix-error-additional-policy-constraint-failed = Varmenteen lisäkäytäntörajoite ei täyttynyt todennettaessa varmennetta.
 mozilla-pkix-error-self-signed-cert = Varmenteeseen ei luoteta, koska se on allekirjoitettu itsellään.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Varmenteen myöntäneeseen varmentajatahoon ei luotettu ennen varmenteen myöntämistä.
 xp-java-remove-principal-error = Ei voitu poistaa päämiestä
 xp-java-delete-privilege-error = Ei voitu poistaa oikeutta
 xp-java-cert-not-exists-error = Tällä päämiehellä ei ole varmennetta
-
 xp-sec-fortezza-bad-card = Fortezza-korttia ei ole asianmukaisesti alustettu. Poista kortti ja palauta se sen myöntäjälle.
 xp-sec-fortezza-no-card = Fortezza-kortteja ei löytynyt
 xp-sec-fortezza-none-selected = Fortezza-korttia ei ole valittu

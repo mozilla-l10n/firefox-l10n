@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Avaa { -brand-short-name } automaattisesti, kun tietokoneesi käynnistyy
     .accesskey = O
 windows-launch-on-login-disabled = Tämä asetus on poistettu käytöstä Windowsissa. Jos haluat muuttaa sitä, siirry kohtaan <a data-l10n-name="startup-link">Käynnistyssovellukset</a> asetuksissa.
+windows-launch-on-login-profile-disabled = Ota tämä asetus käyttöön valitsemalla "{ profile-manager-use-selected.label }" "Valitse käyttäjäprofiili"-ikkunassa.
 startup-restore-warn-on-quit =
     .label = Varoita, kun selainta ollaan sulkemassa
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Näytä hakuehdotukset osoitepalkkihauissa
     .accesskey = o
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Näytä hakuehdot tulossivujen osoitepalkissa
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
