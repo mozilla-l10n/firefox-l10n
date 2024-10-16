@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Imprimir utilizando a janela de impressão do sist
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir que sites sejam visitados. Consulte a documentação para mais detalhes sobre o formato.
 policy-Windows10SSO = Permitir a autenticação única para contas da Microsoft, trabalho e escola.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permitir o início de sessão único para contas Microsoft Entra.

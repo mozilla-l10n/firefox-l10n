@@ -373,3 +373,43 @@ onboarding-new-user-survey-familiarity-based-option-1 = Estou a começar
 onboarding-new-user-survey-familiarity-based-option-2 = Eu já o utilizei um pouco
 onboarding-new-user-survey-familiarity-based-option-3 = Eu estou muito familiarizado com o mesmo
 onboarding-new-user-survey-familiarity-based-option-4 = Eu já o utilizei, mas foi há algum tempo
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Diga-nos onde gostaria de ter os seus separadores
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Pode alterar quando quiser, nas definições da barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Separadores na lateral
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Separadores no topo
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Os separadores vertical estão aqui
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = A apresentar os separadores verticais
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Experimente os seus separadores na lateral. Pode alterar quando quiser, nas definições da barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Experimente os separadores verticais
+onboarding-flair-text = Novo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Manter os separadores horizontais
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Uma janela de navegador a mostrar separadores na lateral do ecrã como uma parte da barra lateral do { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Uma janela de navegador a mostrar separadores na lateral do ecrã como uma parte da barra lateral do { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Uma janela de navegador a mostrar separadores no topo.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Uma janela de navegador a mostrar separadores no topo.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Experimente um chatbot de IA na barra lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resuma conteúdos na Internet, prototipe ideias, faça rascunhos de mensagens — tudo enquanto navega. Escolha a partir de múltiplos fornecedores. Mude a qualquer altura. <a data-l10n-name="learn-more">Saber mais</a>
+onboarding-genai-sidebar-primary-button = Escolha um chatbot
+onboarding-genai-sidebar-secondary-button = Começar a navegar
