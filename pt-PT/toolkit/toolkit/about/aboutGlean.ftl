@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Isto significa que a categoria da métrica e o nome da métrica estão formatados em
     <code>camelCase</code> ao contrário das API Rust e C++.
 controls-button-label-verbose = Aplicar configurações e enviar ping
+about-glean-feedback-settings-only =
+    .message = Definições aplicadas!
+about-glean-feedback-settings-and-ping =
+    .message = Definições aplicadas e ping enviado!
 about-glean-about-data-header = Sobre os dados
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
