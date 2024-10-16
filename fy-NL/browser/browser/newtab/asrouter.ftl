@@ -294,3 +294,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Letter
     .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Slute
+    .aria-label = Slute

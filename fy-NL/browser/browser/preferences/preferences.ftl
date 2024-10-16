@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo computer
     .accesskey = a
 windows-launch-on-login-disabled = Dizze foarkar is útskeakele yn Windows. Gean nei <a data-l10n-name="startup-link">Apps</a> yn Systeemynstellingen om dit te wizigjen.
+windows-launch-on-login-profile-disabled = Skeakelje dizze foarkar yn troch ‘{ profile-manager-use-selected.label }’ yn it finster ‘Brûkersprofyl kieze’ oan te finken.
 startup-restore-warn-on-quit =
     .label = Warskôgje by it ôfsluten fan de browser
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sykfoarstellen yn adresbalkeresultaten toane
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Syktermen yn de adresbalke op resultaatsiden toane
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
