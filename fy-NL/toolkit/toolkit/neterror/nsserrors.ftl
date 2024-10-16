@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Kin gjin befeilige ferbining opsette, omdat it SSL-protokol útskeakele is.
 psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in âldere, minder feilige ferzje fan it SSL-protokol brûkt.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Jo hawwe in ûnjildich sertifikaat ûntfangen. Nim kontakt op mei de serverbehearder of e-mailkorrespondint en jou harren de folgjende ynformaasje:
     
     Jo sertifikaat hat itselde searjenûmer as in oar troch de sertifikaatautoriteit útjûn sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
-
 ssl-error-export-only-server = Befeilige kommunikaasje net mooglik.  Peer stipet gjin hege graad fan fersifering.
 ssl-error-us-only-server = Befeilige kommunikaasje net mooglik.  Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
 ssl-error-no-cypher-overlap = Kin net befeiligd kommunisearje mei peer: gjin algemien(e) fersiferingsalgoritme(n).
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Der is gjin stipe TLS-ûndertekenin
 ssl-error-unsupported-signature-algorithm = De peer brûkte in net-stipe kombinaasje fan ûndertekening en hash-algoritme.
 ssl-error-missing-extended-master-secret = De peer probearre in werfetting sûnder in krekte extended_master_secret-útwreiding.
 ssl-error-unexpected-extended-master-secret = De peer probearre in werfetting mei in ûnferwachte extended_master_secret-útwreiding.
-
 sec-error-io = Der is in I/O-flater bard tiidens befeiligingsautorisaasje.
 sec-error-library-failure = flater yn befeiligingsbiblioteek.
 sec-error-bad-data = befeiligingsbiblioteek: ferkearde gegevens ûntfongen.
@@ -320,7 +317,6 @@ sec-error-locked-password = It wachtwurd is fêstsetten.
 sec-error-unknown-pkcs11-error = Unbekende PKCS #11-flater.
 sec-error-bad-crl-dp-url = Unjildige of net-stipe URL yn CRL-distribúsjepuntennamme.
 sec-error-cert-signature-algorithm-disabled = It sertifikaat is fersifere mei in ûndertekening dat is útskeakele, omdat it ûnfeilich is.
-
 mozilla-pkix-error-key-pinning-failure = De server brûkt kaaipinning (HPKP), mar der kin gjin fertroude sertifikaatketen makke dy’t mei de pinset oerienkomt. Skeining fan kaaipinning kin net negearre wurde.
 mozilla-pkix-error-ca-cert-used-as-end-entity = De server brûkt in sertifikaat mei in basisbetingst-útwreiding dy’t identifisearret as in sertifikaatautoriteit. Foar in korrekt útjûn sertifikaat, soe dit net it gefal wêze moatte.
 mozilla-pkix-error-inadequate-key-size = De server hat in sertifikaat mei in te lytse kaaigrutte presintearre om in befeilige ferbining te meitsjen.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = De server hat in sertifikaat presi
 mozilla-pkix-error-empty-issuer-name = De server presintearre in sertifikaat mei in lege namme foar de ûnderskiedende útjouwer.
 mozilla-pkix-error-additional-policy-constraint-failed = In oanfoljende beliedsbeheining is mislearre by it falidearjen fan dit sertifikaat.
 mozilla-pkix-error-self-signed-cert = It sertifikaat is net fertroud, omdat it sels ûndertekene is.
-
+mozilla-pkix-error-issuer-no-longer-trusted = De sertifikaatautoriteit dy’t it sertifikaat útjoech, waard wantroud eardat it sertifikaat útjûn waard.
 xp-java-remove-principal-error = Koe de haadpersoan net fuortsmite
 xp-java-delete-privilege-error = Koe it privilege net fuortsmite
 xp-java-cert-not-exists-error = Dit haadpersoan hat gjin sertifikaat
-
 xp-sec-fortezza-bad-card = Fortezza-kaart is net goed ynisjalisearre.  Smyt de kaart fuort en retourneer dizze nei jo útjouwer.
 xp-sec-fortezza-no-card = Gjin Fortezza-kaarten fûn
 xp-sec-fortezza-none-selected = Gjin Fortezza-kaart selektearre
