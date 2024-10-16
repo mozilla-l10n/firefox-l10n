@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Nelze se připojit zabezpečeně, protože protokol SSL je zakázán.
 psmerr-ssl2-disabled = Nelze se připojit zabezpečeně, protože server používá starší a už nespolehlivou verzi protokolu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Obdrželi jste neplatný certifikát. Kontaktujte prosím správce serveru nebo odesílatele e-mailové zprávy a poskytněte mu tyto informace:
     
     Váš certifikát obsahuje stejné sériové číslo jako jiný certifikát vydaný danou certifikační autoritou. Opatřete si prosím nový certifikát obsahující unikátní sériové číslo.
-
 ssl-error-export-only-server = Bezpečná komunikace není možná. Partner nepodporuje vysoký stupeň šifrování.
 ssl-error-us-only-server = Bezpečná komunikace není možná. Partner vyžaduje vysoký stupeň šifrování, který není podporován.
 ssl-error-no-cypher-overlap = Bezpečná komunikace s partnerem není možná: Nenalezen žádný společný šifrovací algoritmus.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Byl nakonfigurován nepodporovaný 
 ssl-error-unsupported-signature-algorithm = Partner používá nepodporovanou kombinaci podpisu a hashovacího algoritmu.
 ssl-error-missing-extended-master-secret = Partner se pokusil obnovit bez correct extended_master_secre rozšíření.
 ssl-error-unexpected-extended-master-secret = Partner se pokusil obnovit spojení s neočekávaným rozšířením extended_master_secret.
-
 sec-error-io = Během bezpečnostní autorizace nastala chyba I/O.
 sec-error-library-failure = Chyba bezpečnostní knihovny.
 sec-error-bad-data = Bezpečnostní knihovna: přijaty nesprávné údaje.
@@ -320,7 +317,6 @@ sec-error-locked-password = Heslo je zamčené.
 sec-error-unknown-pkcs11-error = Neznámá chyba PKCS #11.
 sec-error-bad-crl-dp-url = Neplatná nebo nepodporovaná URL adresa v názvu distribučního bodu CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikát byl podepsán algoritmem, který je z bezpečnostních důvodů zakázán.
-
 mozilla-pkix-error-key-pinning-failure = Server používá key pinning (HPKP), ale nebyl složen vhodný řetězec důvěryhodných certifikátů, které se shodují s daným pinsetem. Porušení key pinning není možné ignorovat.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server používá certifikát s rozšířeným základních vymezení, které ho identifikují jako certifikační autoritu. Pro korektně vydaný certifikát by toto nemělo nastat.
 mozilla-pkix-error-inadequate-key-size = Server poskytl certifikát s velikostí klíče, která je příliš malá na sestavení bezpečného spojení.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Server poskytl certifikát, který
 mozilla-pkix-error-empty-issuer-name = Server poskytl certifikát s prázdným jménem vydavatele.
 mozilla-pkix-error-additional-policy-constraint-failed = Při ověřování tohoto certifikátu nebylo splněno dodatečné omezující pravidlo.
 mozilla-pkix-error-self-signed-cert = Certifikát není důvěryhodný, protože je podepsán sám sebou.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Certifikační autorita, která certifikát vydala, byla před vydáním certifikátu nedůvěryhodná.
 xp-java-remove-principal-error = Tohoto představitele nelze odstranit
 xp-java-delete-privilege-error = Toto oprávnění nelze smazat
 xp-java-cert-not-exists-error = Tento představitel nemá certifikát
-
 xp-sec-fortezza-bad-card = Karta typu Fortezza nebyla správně inicializována. Vyjměte ji prosím a vraťte ji vydavateli.
 xp-sec-fortezza-no-card = Nenalezena žádná karta typu Fortezza
 xp-sec-fortezza-none-selected = Karta typu Fortezza nebyla zvolena
