@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Wěsty zwisk móžny njeje, dokelž SSL-protokol je znjemóžnjeny.
 psmerr-ssl2-disabled = Wěsty zwisk móžny njeje, dokelž sydło wužiwa staršu, njewěstu wersiju SSL-protokola.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Sće njepłaćiwy certifikat dóstał. Prošu stajće so ze serwerowym administratorom abo e-mejlowym dopisowarjom do zwiska a zdźělće jemu slědowace informacije:
     
     Waš certifikat wobsahuje samsne serijowe čisło kaž druhi certifikat wudaty wot certifikatoweje awtority. Prošu wobstarajće sej nowy certifikat, kotryž jednozmyslne certifikatowe čisło wobsahuje.
-
 ssl-error-export-only-server = Wěsta komunikacija móžna njeje. Napřećiwne městno njepodpěruje wysoke zaklučowanje.
 ssl-error-us-only-server = Wěsta komunikacija móžna njeje. Napřećiwne městno wužaduje sej wysoke zaklučowanje, kotrež so njepodpěruje.
 ssl-error-no-cypher-overlap = Wěsta komunikacija z napřećiwmnym městnom móžna njeje: žane přihódne zaklučowanske algoritmusy.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Signaturowy algoritmus za TLS njeje
 ssl-error-unsupported-signature-algorithm = Napřećiwne městno je njepodpěranu kombinaciju signatury a pruwowanski algoritmus wužiło.
 ssl-error-missing-extended-master-secret = Napřećiwne městno je spytało, bjez korektneho rozšěrjenja extended_master_secret pokročować.
 ssl-error-unexpected-extended-master-secret = Napřećiwne městno je spytało, z njewočakowanym rozšěrjenjom extended_master_secret pokročować.
-
 sec-error-io = Zapodawanski/wudawanski zmylk je za wěstotnu awtorizaciju wustupił.
 sec-error-library-failure = zmylk wěstotneje biblioteki.
 sec-error-bad-data = wěstotna biblioteka: njepłaćiwe daty dóstane.
@@ -320,7 +317,6 @@ sec-error-locked-password = Hesło je zawrjene.
 sec-error-unknown-pkcs11-error = Njeznaty zmylk PKCS #11.
 sec-error-bad-crl-dp-url = Njepłaćiwy abo njepodpěrany URL w mjenje dypka CRL-distribucije.
 sec-error-cert-signature-algorithm-disabled = Certifikat je so z pomocu signaturowym algoritmom signował, kotryž je so znjemóžnił, dokelž wěsty njeje.
-
 mozilla-pkix-error-key-pinning-failure = Serwer wužiwa klučowe připinanje - jendźelsce: key pinning - (HPKP), ale njeda so žadyn dowěry hódny certifikatowy rjećazk twarić, kotryž sadźbje PIN-čisłam wotpowěduje. Zranjenja klučoweho připinanja njedadźa so wotstronić.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serwer wužiwa certifikat z rozšěrjenjom Basic Constraints, kotrež jón jako certifikatowu awtoritu identifikuje. Za porjadnje wudaty certifikat to njepřitrjechi.
 mozilla-pkix-error-inadequate-key-size = Serwer je certifikat z klučowej wulkosću předstajił, kotraž je přemała, zo by wěsty zwisk wutworiła.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Serwer je certifikat prezentował,
 mozilla-pkix-error-empty-issuer-name = Serwer je certifikat bjez rozeznawajomneho mjena (jendź.: distinguished name) wudawarja prezentował.
 mozilla-pkix-error-additional-policy-constraint-failed = Přidatne wobmjezowanje prawidła njemóžeše tutón certifikat přepruwować.
 mozilla-pkix-error-self-signed-cert = Certifikat njeje dowěry hódny, dokelž je so sam podpisał.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Certifikowanskemu městnu, kotrež je certifikat wudało, su njedowěrili, prjedy hač certifikat je so wudał.
 xp-java-remove-principal-error = Principal njeda so wotstronić
 xp-java-delete-privilege-error = Priwileg njeda so zhašeć
 xp-java-cert-not-exists-error = Tutón principal nima certifikat
-
 xp-sec-fortezza-bad-card = Karta Fortezza njeje so porjadnje inicializowała. Prošu wotstrońće ju a dajće ju swojemu wudawarjej wróćo.
 xp-sec-fortezza-no-card = Žane karty Fortezza namakane
 xp-sec-fortezza-none-selected = Žana karta Fortezza wubrana
