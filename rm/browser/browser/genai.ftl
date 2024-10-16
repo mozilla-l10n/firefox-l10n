@@ -127,3 +127,7 @@ genai-onboarding-gemini-generate = Generar text, maletgs e code
 genai-onboarding-gemini-analyze = Analisar maletgs (gratuit) e documents (cunter pajament)
 genai-onboarding-gemini-price = Opziuns gratuitas e cunter pajament; conto obligatoric
 genai-onboarding-huggingchat-generate = Generar text e code
+genai-onboarding-huggingchat-switch = Tscherner in model avert ord ina gronda schelta
+genai-onboarding-huggingchat-price = Gratuit; conto necessari per tschertas incumbensas
+genai-onboarding-lechat-generate = Generar text e code
+genai-onboarding-lechat-price = Gratuit; conto obligatoric

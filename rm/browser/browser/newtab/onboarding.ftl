@@ -376,3 +376,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jau n’al enconusch ins
 onboarding-new-user-survey-familiarity-based-option-2 = Jau al hai utilisà in pèr giadas
 onboarding-new-user-survey-familiarity-based-option-3 = Jau al enconusch fitg bain
 onboarding-new-user-survey-familiarity-based-option-4 = Jau al hai utilisà en il passà, ma quai è gia daditg
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Tscherna nua che ti vuls avair tes tabs

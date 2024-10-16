@@ -282,3 +282,21 @@ tail-fox-spotlight-title = Ta liberescha da fastizaders stentus
 tail-fox-spotlight-subtitle = Piglia cumià da fastizaders da reclama stentus e giauda l’internet a moda pli segira e svelta.
 tail-fox-spotlight-primary-button = Avrir mias colliaziuns cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = Betg ussa
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Versiuns pli veglias da { -brand-short-name } pon chaschunar problems a partir dals 14 da schaner 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualisescha il program per vinavant pudair utilisar { -brand-short-name } suenter ils 14 da mars 2025.</strong>
+root-certificate-succession-infobar-link = Pertge actualisar?
+root-certificate-succession-infobar-primary-button =
+    .label = Actualisar ussa
+    .accesskey = u
+root-certificate-succession-infobar-secondary-button =
+    .label = Pli tard
+    .accesskey = l
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Serrar
+    .aria-label = Serrar

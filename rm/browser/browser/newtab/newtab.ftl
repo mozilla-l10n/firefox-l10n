@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Persunalisar novs tabs
 newtab-personalize-dialog-label =
     .aria-label = Persunalisar
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -233,6 +235,8 @@ newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fa part da la paletta da products { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Memorisar
 newtab-pocket-saved = Memorisà
 
