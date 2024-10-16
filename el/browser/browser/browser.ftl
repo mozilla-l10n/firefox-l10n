@@ -1015,6 +1015,7 @@ firefox-relay-offer-legal-notice = Κάνοντας κλικ στο «Χρήση
 popup-notification-addon-install-unsigned =
     .value = (Μη επαληθευμένο)
 popup-notification-xpinstall-prompt-learn-more = Μάθετε περισσότερα σχετικά με την ασφαλή εγκατάσταση πρόσθετων
+popup-notification-xpinstall-prompt-block-url = Προβολή λεπτομερειών
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Εκτέλεση σε ιδιωτικά παράθυρα
