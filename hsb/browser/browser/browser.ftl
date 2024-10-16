@@ -1026,6 +1026,7 @@ firefox-relay-offer-legal-notice = Hdyž na „E-mejlowu masku wužiwać“ klik
 popup-notification-addon-install-unsigned =
     .value = (Njewobkrućeny)
 popup-notification-xpinstall-prompt-learn-more = Zhońće wjace wo wěstym instalowanju přidatkow
+popup-notification-xpinstall-prompt-block-url = Hlejće podrobnosće
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = W priwatnych woknach wuwjesć

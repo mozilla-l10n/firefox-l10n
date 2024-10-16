@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     To rěka, zo so metriska kategorija a metriske mjeno w
     <code>camelCase</code> formatěrujetej, na rozdźěl wot API Rust a C++.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
+about-glean-feedback-settings-only =
+    .message = Nastajenja nałožene!
+about-glean-feedback-settings-and-ping =
+    .message = Nastajenja su so nałožili a ping je so pósłał!
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
