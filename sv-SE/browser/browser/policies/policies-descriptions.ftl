@@ -69,7 +69,7 @@ policy-DownloadDirectory = Ange och lås nedladdningskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Aktivera eller inaktivera krypterade medieutökningar och lås den eventuellt.
+policy-EncryptedMediaExtensions = Aktivera eller inaktivera Encrypted Media Extensions och lås eventuellt inställningen.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Inaktivera varningar baserade på filtillägg för specifika filtyper på domäner.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
