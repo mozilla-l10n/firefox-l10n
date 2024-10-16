@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat het SSL-protocol is uitgeschakeld.
 psmerr-ssl2-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat de pagina een oudere, minder veilige versie van het SSL-protocol gebruikt.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     U hebt een ongeldig certificaat ontvangen. Neem contact op met de serverbeheerder of e-mailcorrespondent en geef hen de volgende informatie:
     
     Uw certificaat bevat hetzelfde serienummer als een ander door de certificaatautoriteit uitgegeven certificaat. Haal een nieuw certificaat met een uniek serienummer op.
-
 ssl-error-export-only-server = Kan niet beveiligd communiceren. Peer ondersteunt geen hoge graad van versleuteling.
 ssl-error-us-only-server = Kan niet beveiligd communiceren. Peer vereist hoge graad van versleuteling, die niet wordt ondersteund.
 ssl-error-no-cypher-overlap = Kan niet beveiligd communiceren met peer: geen algeme(e)n(e) versleutelingsalgoritme(n).
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Er is geen ondersteunde TLS-onderte
 ssl-error-unsupported-signature-algorithm = De peer gebruikte een niet-ondersteunde combinatie van ondertekening en hash-algoritme.
 ssl-error-missing-extended-master-secret = De peer probeerde een hervatting zonder een juiste extended_master_secret-extensie.
 ssl-error-unexpected-extended-master-secret = De peer probeerde een hervatting met een onverwachte extended_master_secret-extensie.
-
 sec-error-io = Er is een I/O-fout opgetreden tijdens beveiligingsautorisatie.
 sec-error-library-failure = fout in beveiligingsbibliotheek.
 sec-error-bad-data = beveiligingsbibliotheek: onjuiste gegevens ontvangen.
@@ -319,7 +317,6 @@ sec-error-locked-password = Het wachtwoord is vergrendeld.
 sec-error-unknown-pkcs11-error = Onbekende PKCS #11-fout.
 sec-error-bad-crl-dp-url = Ongeldige of niet-ondersteunde URL in CRL-distributiepuntnaam.
 sec-error-cert-signature-algorithm-disabled = Het certificaat is versleuteld via een ondertekeningsalgoritme dat is uitgeschakeld, omdat het onveilig is.
-
 mozilla-pkix-error-key-pinning-failure = De server gebruikt key pinning (HPKP), maar er kon geen vertrouwde certificaatketen worden geconstrueerd die met de pinset overeenkomt. Schendingen van key pinning kunnen niet worden genegeerd.
 mozilla-pkix-error-ca-cert-used-as-end-entity = De server gebruikt een certificaat met een extensie voor basisbeperkingen die deze identificeert als een certificaatautoriteit. Voor een correct uitgegeven certificaat hoort dit niet het geval te zijn.
 mozilla-pkix-error-inadequate-key-size = De server heeft een certificaat gepresenteerd met een te kleine sleutelgrootte om een beveiligde verbinding te maken.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = De server heeft een certificaat ge
 mozilla-pkix-error-empty-issuer-name = De server heeft een certificaat gepresenteerd met een lege DN-naam van de uitgever.
 mozilla-pkix-error-additional-policy-constraint-failed = Een aanvullende beleidsbeperking is mislukt bij het valideren van dit certificaat.
 mozilla-pkix-error-self-signed-cert = Het certificaat wordt niet vertrouwd, omdat het zelfondertekend is.
-
+mozilla-pkix-error-issuer-no-longer-trusted = De certificaatautoriteit die het certificaat heeft uitgegeven, werd gewantrouwd voordat het certificaat werd uitgegeven.
 xp-java-remove-principal-error = Kon de hoofdpersoon niet verwijderen
 xp-java-delete-privilege-error = Kon het privilege niet verwijderen
 xp-java-cert-not-exists-error = Deze hoofdpersoon heeft geen certificaat
-
 xp-sec-fortezza-bad-card = Fortezza-kaart is niet juist geïnitialiseerd. Verwijder de kaart en retourneer deze naar uw uitgever.
 xp-sec-fortezza-no-card = Geen Fortezza-kaarten gevonden
 xp-sec-fortezza-none-selected = Geen Fortezza-kaart geselecteerd
