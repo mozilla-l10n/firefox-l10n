@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Uusi välilehti alapuolelle
     .accesskey = p
+tab-context-new-group =
+    .label = Uusi ryhmä
+    .accesskey = r
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
