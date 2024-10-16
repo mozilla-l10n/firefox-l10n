@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot de IA
+menu-view-review-checker =
+    .label = Verificador de avaliações
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Separadores horizontais
 sidebar-customize-tabs-header =
     .label = Definições dos separadores
+sidebar-customize-button-header =
+    .label = Botão da barra lateral
+sidebar-customize-position-header =
+    .label = Posição da barra lateral
+sidebar-visibility-setting-always-show =
+    .label = Expandir e colapsar a barra lateral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Mostrar e ocultar a barra lateral
 sidebar-customize-settings-header =
     .label = Definições da barra lateral
 sidebar-visibility-always-show =
@@ -95,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
     .label = Personalizar barra lateral
+sidebar-menu-review-checker-label =
+    .label = Verificador de avaliações
 
 ## Headings for sidebar menu panels.
 
