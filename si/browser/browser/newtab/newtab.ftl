@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = නව පටිත්ත පුද්ගලීකරණය
 newtab-personalize-dialog-label =
     .aria-label = පුද්ගලීකරණය
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -45,6 +47,7 @@ newtab-topsites-add-search-engine-header = සෙවුම් යන්ත්‍
 newtab-topsites-add-shortcut-header = නව කෙටිමඟ
 newtab-topsites-edit-topsites-header = ප්‍රචලිත අඩවිය සංස්කරණය
 newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණය
+newtab-topsites-add-shortcut-label = කෙටිමඟක් යොදන්න
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
@@ -208,8 +211,16 @@ newtab-pocket-learn-more = තව දැනගන්න
 newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } යනු { -brand-product-name } පවුලේ කොටසකි
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = සුරකින්න
 newtab-pocket-saved = සුරැකිණි
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = ඉවතලන්න
+    .aria-label = ඉවතලන්න
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -245,3 +256,61 @@ newtab-custom-recent-toggle =
     .description = මෑත අඩවි සහ අන්තර්ගතවල තේරීමකි
 newtab-custom-close-button = වසන්න
 newtab-custom-settings = වෙනත් සැකසුම් කළමනාකරණය
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = බිතුපත්
+
+## Solid Colors
+
+newtab-wallpaper-blue = නිල්
+newtab-wallpaper-light-blue = ලා නිල්
+newtab-wallpaper-light-purple = ලා දම්
+newtab-wallpaper-light-green = ලා කොළ
+newtab-wallpaper-green = කොළ
+newtab-wallpaper-yellow = කහ
+newtab-wallpaper-orange = තැඹිලි
+newtab-wallpaper-pink = රෝස
+newtab-wallpaper-light-pink = ලා රෝස
+newtab-wallpaper-red = රතු
+
+## Abstract
+
+
+## Photographs
+
+newtab-wallpaper-feature-highlight-button = තේරුණා
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = ඉවතලන්න
+    .aria-label = උත්පතනය වසන්න
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ අනුග්‍රහය
+newtab-weather-menu-change-location = ස්ථානය වෙනස් කරන්න
+newtab-weather-change-location-search-input = ස්ථානයක් සොයන්න
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = සරල
+newtab-weather-menu-change-weather-display-simple = සරල දැක්මට මාරු වන්න
+newtab-weather-menu-temperature-option-fahrenheit = ෆැරන්හයිට්
+newtab-weather-menu-temperature-option-celsius = සෙල්සියස්
+newtab-weather-menu-change-temperature-units-fahrenheit = ෆැරන්හයිට් වෙත මාරු වන්න
+newtab-weather-menu-change-temperature-units-celsius = සෙල්සියස් වෙත මාරු වන්න
+newtab-weather-menu-hide-weather = නව පටිති වල කාලගුණය සඟවන්න
+newtab-weather-menu-learn-more = තව දැනගන්න
+# This message is shown if user is working offline
+newtab-weather-error-not-available = කාලගුණ දත්ත දැනට නොතිබේ.
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

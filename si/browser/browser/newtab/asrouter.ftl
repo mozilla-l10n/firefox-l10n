@@ -263,6 +263,12 @@ tail-fox-spotlight-secondary-button = දැන් නොවේ
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-primary-button =
+    .label = යාවත්කාල කරන්න
+    .accesskey = U
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = වසන්න
+    .aria-label = වසන්න

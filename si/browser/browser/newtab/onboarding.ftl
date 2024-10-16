@@ -282,3 +282,20 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } වෙත �
 
 onboarding-device-migration-title = සාදරයෙන් පිළිගනිමු!
 onboarding-device-migration-primary-button-label = පිවිසෙන්න
+
+## Add-ons Picker screen
+
+amo-picker-install-button-label = { -brand-short-name } වෙත එක් කරන්න
+amo-picker-install-complete-label = ස්ථාපිතයි
+amo-picker-collection-link = තවත් එක්කහු සොයාගන්න
+
+## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
+
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = ඊළඟ
+
+## UI strings for the sidebar and vertical tabs
+
