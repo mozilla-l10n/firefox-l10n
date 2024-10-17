@@ -294,3 +294,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Plus tarde
     .accesskey = t
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Clauder
+    .aria-label = Clauder
