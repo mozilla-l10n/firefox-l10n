@@ -137,7 +137,7 @@ windows-launch-on-login =
     .label = Ob zagonu računalnika samodejno odpri { -brand-short-name(sklon: "tozilnik") }
     .accesskey = O
 windows-launch-on-login-disabled = To nastavitev je onemogočil Windows. Spremenite jo lahko v sistemskih nastavitvah na strani <a data-l10n-name="startup-link">Zagonske aplikacije</a>.
-windows-launch-on-login-profile-disabled = To nastavitev omogočite tako, da označite “{ profile-manager-use-selected.label }” v oknu “Izbira uporabniškega profila”.
+windows-launch-on-login-profile-disabled = To nastavitev omogočite tako, da v okencu “Izbira uporabniškega profila” označite “{ profile-manager-use-selected.label }”.
 startup-restore-warn-on-quit =
     .label = Opozori ob zapiranju brskalnika
 disable-extension =
