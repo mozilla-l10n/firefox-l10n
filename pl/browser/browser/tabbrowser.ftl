@@ -196,3 +196,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Włącz dźwięk
 tabbrowser-manager-close-tab =
     .tooltiptext = Zamknij kartę
+
+## Tab Groups
+
+tab-group-editor-title-create = Utwórz grupę kart
+tab-group-editor-title-edit = Zarządzaj grupą kart
+tab-group-editor-name-label = Nazwa
+tab-group-editor-name-field =
+    .placeholder = Przykład: Zakupy
+tab-group-editor-cancel =
+    .label = Anuluj
+    .accesskey = A

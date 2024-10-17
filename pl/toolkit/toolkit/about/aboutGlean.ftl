@@ -98,6 +98,10 @@ about-glean-adhoc-note =
     Proszę pamiętać, że za pomocą konsoli programistycznej używane jest API Glean języka JavaScript.
     Oznacza to, że kategoria i nazwa statystyki jest sformatowana w konwencji <code>camelCase</code>, inaczej niż w API języków Rust i C++.
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
+about-glean-feedback-settings-only =
+    .message = Zastosowano ustawienia
+about-glean-feedback-settings-and-ping =
+    .message = Zastosowano ustawienia i wysłano ping
 about-glean-about-data-header = Informacje o danych
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
