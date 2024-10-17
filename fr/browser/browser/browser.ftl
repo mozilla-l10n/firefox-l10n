@@ -1018,6 +1018,7 @@ firefox-relay-offer-legal-notice = En cliquant sur « Utiliser les alias de mes
 popup-notification-addon-install-unsigned =
     .value = (Non vérifié)
 popup-notification-xpinstall-prompt-learn-more = En apprendre plus sur l’installation des modules complémentaires en toute sécurité
+popup-notification-xpinstall-prompt-block-url = Consulter les détails
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Exécution dans les fenêtres privées

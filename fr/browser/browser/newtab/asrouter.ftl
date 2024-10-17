@@ -293,3 +293,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Plus tard
     .accesskey = P
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Fermer
+    .aria-label = Fermer

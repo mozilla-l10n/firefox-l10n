@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Ouvrir { -brand-short-name } automatiquement au démarrage de votre ordinateur
     .accesskey = O
 windows-launch-on-login-disabled = Cette préférence a été désactivée dans Windows. Pour modifier ce paramètre, accédez aux <a data-l10n-name="startup-link">Applications de démarrage</a> dans les paramètres système.
+windows-launch-on-login-profile-disabled = Activez cette préférence en cochant « { profile-manager-use-selected.label } » dans la fenêtre « Choisissez un profil utilisateur ».
 startup-restore-warn-on-quit =
     .label = Prévenir à la fermeture du navigateur
 disable-extension =
