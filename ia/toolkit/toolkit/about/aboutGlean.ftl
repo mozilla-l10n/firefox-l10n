@@ -97,5 +97,7 @@ about-glean-adhoc-explanation2 =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Nota que que on usa le API de Glean JS per le consola del utensiles de disveloppamento. Isto significa que le categoria e le nomine metric es formattate in <code>camelCase</code> diversemente del APIs in le Rust e C++.
 controls-button-label-verbose = Applicar parametros e inviar ping
+about-glean-feedback-settings-only =
+    .message = Parametros applicate!
 about-glean-about-data-header = Re datos
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
