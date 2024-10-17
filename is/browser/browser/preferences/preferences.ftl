@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Opna { -brand-short-name } sjálfkrafa þegar tölvan þín ræsir
     .accesskey = O
 windows-launch-on-login-disabled = Þessi kjörstilling hefur verið gerð óvirk í Windows. Til að breyta því, skaltu fara í <a data-l10n-name="startup-link">Ræsiforrit / Startup Apps</a> í kerfisstillingunum.
+windows-launch-on-login-profile-disabled = Virkjaðu þessa stillingu með því að merkja við „{ profile-manager-use-selected.label }“ í glugganum „Veldu notandasnið“.
 startup-restore-warn-on-quit =
     .label = Aðvara þegar vafra er lokað
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sýna leitartillögur í niðurstöðum veffangastikunnar
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Sýna leitarorð í veffangastikunni á niðurstöðusíðum
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
