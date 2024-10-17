@@ -243,6 +243,10 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Nuovo dispositivo n
 device-migration-fxa-spotlight-getting-new-device-body-2 = Segui alcuni semplici passaggi per portare con te segnalibri, cronologia e password quando inizi a utilizzare un nuovo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Come posso salvare i miei dati
 
+device-migration-fxa-spotlight-sync-header = Naviga senza perdere un colpo
+device-migration-fxa-spotlight-sync-body = Sincronizza tutte le tue informazioni più importanti, come segnalibri e password, e proteggile con la crittografia. Potrai accedervi ovunque utilizzi { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Inizia
+
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
