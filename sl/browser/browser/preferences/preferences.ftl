@@ -652,7 +652,7 @@ search-show-suggestions-url-bar-option =
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar.
 search-show-search-term-option-2 =
-    .label = Prikaži iskalne nize v naslovnih vrsticah strani z rezultati iskanja
+    .label = Na strani z rezultati iskanja prikaži iskalni niz v naslovni vrstici
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
