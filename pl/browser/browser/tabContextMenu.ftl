@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Zamknij karty po lewej stronie
     .accesskey = w
+close-tabs-to-the-start-vertical =
+    .label = Zamknij karty powyżej
+    .accesskey = w
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zamknij karty po prawej stronie
     .accesskey = s
+close-tabs-to-the-end-vertical =
+    .label = Zamknij karty poniżej
+    .accesskey = o
 close-other-tabs =
     .label = Zamknij inne karty
     .accesskey = m
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Udostępnij
     .accesskey = U
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nowa karta po prawej
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Nowa karta poniżej
+    .accesskey = w
+tab-context-new-group =
+    .label = Nowe grupa
+    .accesskey = u
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

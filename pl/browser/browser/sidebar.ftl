@@ -48,6 +48,14 @@ sidebar-horizontal-tabs =
     .label = Karty poziome
 sidebar-customize-tabs-header =
     .label = Ustawienia kart
+sidebar-customize-button-header =
+    .label = Przycisk panelu bocznego
+sidebar-customize-position-header =
+    .label = Położenie panelu bocznego
+sidebar-visibility-setting-always-show =
+    .label = Rozwiń i zwiń panel boczny
+sidebar-visibility-setting-hide-sidebar =
+    .label = Wyświetl i ukryj panel boczny
 sidebar-customize-settings-header =
     .label = Ustawienia panelu bocznego
 sidebar-visibility-always-show =
@@ -100,6 +108,14 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Karty z innych urządzeń
+sidebar-panel-header-close-button =
+    .tooltiptext = Zamknij
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Dostosuj panel boczny
+sidebar-history-title = Historia
+sidebar-syncedtabs-title = Karty z innych urządzeń
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -109,3 +125,18 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zamknij kartę na „{ $deviceName }”
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Rozwiń panel boczny
+    .label = Panele boczne
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Zwiń panel boczny
+    .label = Panele boczne
+sidebar-widget-show-sidebar =
+    .tooltiptext = Wyświetl panel boczny
+    .label = Panele boczne
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Ukryj panel boczny
+    .label = Panele boczne
