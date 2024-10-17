@@ -134,7 +134,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se estiver em 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = O relógio desde computador está definido para { DATETIME($now, dateStyle: "medium") }. Assegure que o computador esteja configurado com data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-clock = O relógio deste computador está definido para { DATETIME($now, dateStyle: "medium") }. Assegure que o computador esteja configurado com data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Se o relógio já está com a hora correta, o site deve estar configurado incorretamente, não há nada que você possa fazer para resolver. Notifique o problema para o administrador do site.
 certerror-bad-cert-domain-what-can-you-do-about-it = É mais provável que o problema seja no site, não há nada que você possa fazer para resolver. Você pode notificar o administrador do site.
 certerror-mitm-what-can-you-do-about-it-antivirus = Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.
