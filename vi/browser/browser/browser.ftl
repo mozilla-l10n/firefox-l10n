@@ -1011,6 +1011,7 @@ firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng mặt
 popup-notification-addon-install-unsigned =
     .value = (Chưa xác thực)
 popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
+popup-notification-xpinstall-prompt-block-url = Xem chi tiết
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Chạy trong cửa sổ riêng tư
