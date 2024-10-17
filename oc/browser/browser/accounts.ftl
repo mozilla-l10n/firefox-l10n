@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } onglet es arribat
        *[other] { $tabCount } onglets son arribats
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Veire los onglets tampats recentament
+account-tabs-closed-remotely =
+    { NUMBER($closedCount) ->
+        [one] { $closedCount } onglet { -brand-short-name } tampat
+       *[other] { $closedCount } onglets { -brand-short-name } tampats
+    }

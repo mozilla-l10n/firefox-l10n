@@ -978,6 +978,7 @@ firefox-relay-offer-legal-notice = En clicant « Utilizar los aliàs de messatj
 popup-notification-addon-install-unsigned =
     .value = (Pas verificat)
 popup-notification-xpinstall-prompt-learn-more = Ne saber mai sus l’installacion de moduls de fòrma segura
+popup-notification-xpinstall-prompt-block-url = Afichar los detalhs
 
 ## Pop-up warning
 

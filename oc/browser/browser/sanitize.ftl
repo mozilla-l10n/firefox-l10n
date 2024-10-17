@@ -74,6 +74,15 @@ item-active-logins =
 item-cache =
     .label = Escondedor
     .accesskey = E
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Fichièrs e paginas en cache temporari ({ $amount } { $unit })
+    .accesskey = t
+item-cached-content =
+    .label = Fichièrs e paginas en cache temporari
+    .accesskey = t
 item-cached-content-description = Escafa los elements que permeton d’accelerar lo cargament dels sites
 item-form-search-history =
     .label = Istoric dels formularis e de las recèrcas
