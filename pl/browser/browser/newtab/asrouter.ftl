@@ -287,3 +287,21 @@ tail-fox-spotlight-title = Niech nie siedzą Ci na ogonie
 tail-fox-spotlight-subtitle = Pożegnaj irytujące reklamy z elementami śledzącymi i ciesz się bezpieczniejszym, szybszym Internetem.
 tail-fox-spotlight-primary-button = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
 tail-fox-spotlight-secondary-button = Nie teraz
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Starsze wersje { -brand-short-name(case: "gen") } mogą zacząć mieć problemy po 14 stycznia 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Zaktualizuj, aby móc nadal korzystać z { -brand-short-name(case: "gen") } po 14 marca 2025.</strong>
+root-certificate-succession-infobar-link = Dlaczego muszę zaktualizować?
+root-certificate-succession-infobar-primary-button =
+    .label = Zaktualizuj teraz
+    .accesskey = a
+root-certificate-succession-infobar-secondary-button =
+    .label = Później
+    .accesskey = P
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Zamknij
+    .aria-label = Zamknij

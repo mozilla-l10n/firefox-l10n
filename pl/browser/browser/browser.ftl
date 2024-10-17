@@ -1022,6 +1022,7 @@ firefox-relay-offer-legal-notice = Klikając „Użyj maski dla adresu e-mail”
 popup-notification-addon-install-unsigned =
     .value = (niezweryfikowany)
 popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpiecznym instalowaniu dodatków
+popup-notification-xpinstall-prompt-block-url = Szczegóły
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Działanie w oknach prywatnych
