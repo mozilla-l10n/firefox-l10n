@@ -375,3 +375,37 @@ onboarding-new-user-survey-familiarity-based-option-1 = Dopiero zaczynam go uży
 onboarding-new-user-survey-familiarity-based-option-2 = Trochę go znam
 onboarding-new-user-survey-familiarity-based-option-3 = Bardzo dobrze go znam
 onboarding-new-user-survey-familiarity-based-option-4 = Znam go z przeszłości, ale minęło trochę czasu
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Powiedz nam, gdzie chcesz mieć swoje karty
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Możesz to zmienić w dowolnej chwili w ustawieniach panelu bocznego.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Karty z boku
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Karty na górze
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Pionowe karty już są dostępne
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Przedstawiamy pionowe karty
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Wypróbuj karty z boku. Możesz to cofnąć w dowolnej chwili w ustawieniach panelu bocznego.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Wypróbuj pionowe karty
+onboarding-flair-text = Nowość!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Nadal użwaj kart poziomych
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Okno przeglądarki wyświetlające karty na boku ekranu jako część panelu bocznego { -brand-shorter-name(case: "gen") }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Okno przeglądarki wyświetlające karty na boku ekranu jako część panelu bocznego { -brand-shorter-name(case: "gen") }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Okno przeglądarki wyświetlające karty na górze.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Okno przeglądarki wyświetlające karty na górze.
