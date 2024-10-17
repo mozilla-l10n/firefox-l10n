@@ -132,3 +132,9 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-show-sidebar =
+    .tooltiptext = Sýna hliðarstiku
+    .label = Hliðarstikur
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Fela hliðarstiku
+    .label = Hliðarstikur

@@ -181,6 +181,11 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Búa til flipahóp
+tab-group-editor-title-edit = Sýsla með flipahóp
+tab-group-editor-name-label = Heiti
+tab-group-editor-name-field =
+    .placeholder = Dæmi: Innkaup
 tab-group-editor-cancel =
     .label = Hætta við
     .accesskey = H

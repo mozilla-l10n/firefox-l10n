@@ -282,3 +282,21 @@ tail-fox-spotlight-title = Haltu leiðinlegum rekjurum frá slóðinni þinni
 tail-fox-spotlight-subtitle = Segðu bless við pirrandi auglýsingarekjara og fáðu öruggari, hraðvirkari internetupplifun.
 tail-fox-spotlight-primary-button = Opna tenglana mína með { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ekki núna
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Eldri útgáfur af { -brand-short-name } gætu byrjað að eiga í vandræðum þann 14. janúar 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Uppfærðu til að halda áfram að nota { -brand-short-name } eftir 14. mars 2025.</strong>
+root-certificate-succession-infobar-link = Af hverju þarf ég að uppfæra?
+root-certificate-succession-infobar-primary-button =
+    .label = Uppfæra núna
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = Síðar
+    .accesskey = r
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Loka
+    .aria-label = Loka

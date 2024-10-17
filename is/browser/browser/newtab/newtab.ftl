@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Sérsníða nýjan flipa
 newtab-personalize-dialog-label =
     .aria-label = Sérsníða
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -233,6 +235,8 @@ newtab-pocket-cta-button = Sækja { -pocket-brand-name }
 newtab-pocket-cta-text = Vistaðu sögurnar sem þú elskar í { -pocket-brand-name } og fáðu innblástur í huga þinn með heillandi lesningu.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er hluti af { -brand-product-name } fjölskyldunni
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Vista
 newtab-pocket-saved = Vistað
 
