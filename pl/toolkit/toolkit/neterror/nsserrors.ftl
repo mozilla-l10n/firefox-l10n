@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Serwer zaprezentował certyfikat z
 mozilla-pkix-error-empty-issuer-name = Serwer zaprezentował certyfikat zawierający pustą nazwę DN wystawcy.
 mozilla-pkix-error-additional-policy-constraint-failed = Warunki dodatkowych zasad ograniczeń nie zostały spełnione podczas sprawdzania certyfikatu.
 mozilla-pkix-error-self-signed-cert = Certyfikat nie jest zaufany, ponieważ jest samopodpisany.
+mozilla-pkix-error-issuer-no-longer-trusted = Organ certyfikacji, który wydał certyfikat, utracił zaufanie jeszcze przed jego wydaniem.
 xp-java-remove-principal-error = Nie udało się usunąć podmiotu zabezpieczeń
 xp-java-delete-privilege-error = Nie udało się usunąć uprawnienia
 xp-java-cert-not-exists-error = Ten podmiot zabezpieczeń nie ma certyfikatu
