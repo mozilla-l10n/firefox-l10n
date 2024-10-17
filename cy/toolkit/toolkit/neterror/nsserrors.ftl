@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Methu cysylltu'n ddiogel oherwydd bod y protocol SSL wedi ei analluogi.
 psmerr-ssl2-disabled = Methu cysylltu'n ddiogel oherwydd bod y wefan'n defnyddio hen fersiwn anniogel o brotocol SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Rydych wedi derbyn tystysgrif annilys.  Cysylltwch gweinyddwr y gweinydd neu gyfathrebwr e-bost a rhannu'r wybodaeth ganlynol:
     
     Mae eich tystysgrif yn cynnwys yr un rhifau cyfresol a thystysgrif arall wedi ei gyhoeddi gan yr awdurdod tystysgrifau.  Defnyddiwch dystysgrif newydd yn cynnwys rhif cyfresol unigryw.
-
 ssl-error-export-only-server = Methu cyfathrebu'n ddiogel. Nid yw'r cyfoed cyn cynnal amgryptiad lefel uchel.
 ssl-error-us-only-server = Methu cyfathrebu'n ddiogel. Mae'r cyfoed angen amgryptiad lefel uchel nad yw'n cael ei gynnal.
 ssl-error-no-cypher-overlap = Methu cyfathrebu'n ddiogel gyda cyfoed: dim algorithm(au) amgrypriad cyffredin.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Heb ffurfweddu algorithm llofnod TL
 ssl-error-unsupported-signature-algorithm = Mae'r cyfoed yn defnyddio cyfuniad o lofnod a'r algorithm hash sydd ddim yn cael ei gynnal.
 ssl-error-missing-extended-master-secret = Mae'r cyfoed wedi ceisio ailgychwyn heb yr estyniad extended_master_secret cywir.
 ssl-error-unexpected-extended-master-secret = Mae'r cyfoed wedi ceisio ailgychwyn gyda estyniad extended_master_secret annisgwyl.
-
 sec-error-io = Digwyddodd gwall I/O yn ystod dilysu diogelwch.
 sec-error-library-failure = methiant llyfrgell diogelwch.
 sec-error-bad-data = llyfrgell diogelwch: derbyniwyd data gwael.
@@ -319,7 +317,6 @@ sec-error-locked-password = Mae'r cyfrinair wedi ei gloi.
 sec-error-unknown-pkcs11-error = Gwall PKCS #11 anhysbys.
 sec-error-bad-crl-dp-url = URL annilys neu heb ei gynnal yn enw pwynt dosbarthiad CRL.
 sec-error-cert-signature-algorithm-disabled = Cafodd y dystysgrif ei llofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'n ddiogel.
-
 mozilla-pkix-error-key-pinning-failure = Mae'r gweinydd yn defnyddio pinio allwedd (HPKP) ond nid oedd modd cynhyrchu cadwyn tystysgrif ymddiriedig sy'n cyd-fynd a'r set pinnau. Nid oes mod gwrthwneud torri pinio allweddi.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Mae'r gweinydd yn defnyddio tystysgrif gydag estyniad cyfyngiadau sylfaenol sy'n ei ddynodi fel yr awdurdod tystysgrifo. Ar gyfer tystysgrifau sydd wedi eu rhyddhau'n briodol, ni ddylai hyn fod yn wir.
 mozilla-pkix-error-inadequate-key-size = Cyflwynodd y gweinydd dystysgrif sydd ag allwedd sy'n rhy fach i greu cysylltiad diogel.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Cyflwynodd y gweinydd dystysgrif s
 mozilla-pkix-error-empty-issuer-name = Cyflwynodd y gweinydd dystysgrif gydag enw cyhoeddwr penodol gwag.
 mozilla-pkix-error-additional-policy-constraint-failed = Methodd cyfyngiad polisi ychwanegol wrth ddilysu'r dystysgrif hon.
 mozilla-pkix-error-self-signed-cert = Nid oes modd ymddiried yn y dystysgrif am ei fod wedi ei hunanlofnodi.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Roedd diffyg ymddiriedaeth yn yr awdurdod tystysgrif a gyhoeddodd y dystysgrif cyn i'r dystysgrif gael ei chyhoeddi.
 xp-java-remove-principal-error = Methu tynnu'r prif
 xp-java-delete-privilege-error = Methu dileu'r fraint
 xp-java-cert-not-exists-error = Nid oes gan y prif dystysgrif
-
 xp-sec-fortezza-bad-card = Nid yw cerdyn Fortezza wedi ei gychwyn yn gywir. Tynnwch y cerdyn a'i ddychwelyd ar y cyhoeddwr.
 xp-sec-fortezza-no-card = Heb ganfod cerdyn Fortezza
 xp-sec-fortezza-none-selected = Heb ddewis cerdyn Fortezza

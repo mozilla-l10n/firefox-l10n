@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Beth allai fod yn achosi hyn?
 about-httpsonly-explanation-nosupport = Yn fwyaf tebygol, nid yw'r wefan yn cefnogi HTTPS.
 about-httpsonly-explanation-risk = Mae hefyd yn bosibl bod ymosodwr yn ceisio ymyrryd. Os penderfynwch ymweld â'r wefan, peidiwch â rhannu unrhyw fanylion sensitif fel cyfrineiriau, e-byst, neu fanylion cardiau credyd.
 about-httpsonly-explanation-continue = Os byddwch yn parhau, bydd y Modd HTTPS-yn-Unig yn cael ei ddiffodd dros dro ar gyfer y wefan hon.
+about-httpsonly-explanation-iframe = Oherwydd rhwystro cynnwys cymysg, nid yw'n bosibl caniatáu i'r ffrâm hon lwytho â llaw.
 about-httpsonly-button-continue-to-site = Ymlaen i'r Wefan HTTP
 about-httpsonly-button-go-back = Mynd Nôl
 about-httpsonly-link-learn-more = Darllen Rhagor…

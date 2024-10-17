@@ -306,3 +306,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Yn hwyrach
     .accesskey = Y
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Cau
+    .aria-label = Cau

@@ -1034,6 +1034,7 @@ firefox-relay-offer-legal-notice = Drwy glicio “Defnyddio arallenw e-bost”, 
 popup-notification-addon-install-unsigned =
     .value = (Heb eu gwirio)
 popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion yn ddiogel
+popup-notification-xpinstall-prompt-block-url = Gweld manylion
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Rhedeg mewn Ffenestri Preifat

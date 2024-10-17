@@ -100,6 +100,10 @@ about-glean-adhoc-note =
     Mae hyn yn golygu bod y categori metrig a'r enw metrig wedi'u fformatio
     <code>camelCase</code> yn wahanol i'r APIs Rust a C++.
 controls-button-label-verbose = Gosod y gosodiadau ac anfon ping
+about-glean-feedback-settings-only =
+    .message = Gosodiadau wedi'u gosod!
+about-glean-feedback-settings-and-ping =
+    .message = Gosodiadau wedi'u gosod a ping wedi'i anfon!
 about-glean-about-data-header = Ynghylch Data
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
