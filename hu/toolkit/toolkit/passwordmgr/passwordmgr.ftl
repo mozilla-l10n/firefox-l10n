@@ -15,7 +15,7 @@ password-manager-save-password-button-allow =
     .label = Mentés
     .accesskey = e
 password-manager-save-password-button-never =
-    .label = Soha ne mentse
+    .label = Sose mentse
     .accesskey = S
 # Variables
 #   $host (String) - Hostname for which the password is updated for.

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = szerző: <a data-l10n-name="author-name">{ $aut
 abuse-report-learnmore =
     Nem tudja, hogy melyik problémát válassza ki?
     <a data-l10n-name="learnmore-link">További információk a bővítmények és témák jelentéséről</a>
-abuse-report-learnmore-intro = Nem tudja, hogy melyik problémát válassza ki?
-abuse-report-learnmore-link = További információk a bővítmények és témák jelentéséről
 abuse-report-submit-description = Írja le a problémát (nem kötelező)
 abuse-report-textarea =
     .placeholder = Könnyebb megoldanunk egy problémát, ha vannak konkrétumok. Írja le, hogy mit tapasztal. Köszönjük, hogy segít minket abban, hogy a web egészséges maradjon.
@@ -46,24 +44,6 @@ abuse-report-messagebar-removed-sitepermission = Köszönjük a bejelentést. El
 abuse-report-messagebar-removed-theme = Köszönjük a bejelentést. Eltávolította a(z) <span data-l10n-name="addon-name">{ $addon-name }</span> témát.
 abuse-report-messagebar-error = Hiba történt a(z) <span data-l10n-name="addon-name">{ $addon-name }</span> kiegészítő jelentésének beküldésekor.
 abuse-report-messagebar-error-recent-submit = A(z) <span data-l10n-name="addon-name">{ $addon-name }</span> kiegészítő jelentése nem lett elküldve, mert a közelmúltban már benyújtott egy másik jelentést.
-abuse-report-messagebar-aborted2 =
-    .message = A(z) { $addon-name } bejelentése megszakítva.
-abuse-report-messagebar-submitting2 =
-    .message = Jelentés küldésre erről: { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Köszönjük a bejelentést. Eltávolítja a(z) { $addon-name } kiegészítőt?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Köszönjük a bejelentést.
-abuse-report-messagebar-removed-extension2 =
-    .message = Köszönjük a bejelentést. Eltávolította a(z) { $addon-name } kiegészítőt.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Köszönjük a bejelentést. Eltávolította a(z) { $addon-name } oldalengedély kiegészítőt.
-abuse-report-messagebar-removed-theme2 =
-    .message = Köszönjük a bejelentést. Eltávolította a(z) { $addon-name } témát.
-abuse-report-messagebar-error2 =
-    .message = Hiba történt a(z) { $addon-name } kiegészítő jelentésének beküldésekor.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = A(z) { $addon-name } kiegészítő jelentése nem lett elküldve, mert a közelmúltban már benyújtott egy másik jelentést.
 
 ## Message bars actions.
 
@@ -109,6 +89,6 @@ abuse-report-policy-suggestions =
     Megjegyzés: A szerzői jogi és védjegyekkel kapcsolatos problémákat egy külön folyamatban kell jelenteni.
     <a data-l10n-name="report-infringement-link">Használja ezeket az utasításokat</a> a
     probléma bejelentéséhez.
-abuse-report-unwanted-reason-v2 = Soha nem akartam, és nem tudom, hogyan lehet megszabadulni tőle
+abuse-report-unwanted-reason-v2 = Sosem akartam, és nem tudom, hogyan lehet megszabadulni tőle
 abuse-report-unwanted-example = Példa: Egy alkalmazás az engedélyem nélkül települt
 abuse-report-other-reason = Valami más
