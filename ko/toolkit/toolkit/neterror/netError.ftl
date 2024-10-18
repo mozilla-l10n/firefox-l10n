@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = <b>{ $mitm }</b>에 익숙�
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 사이트는 HTTP Strict Transport Security (HSTS)라는 보안 정책을 가지고 있어서 { -brand-short-name }가 보안 연결만 할 수 있습니다. 이 사이트를 방문하기 위해 예외를 추가 할 수 없습니다.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = 사이트 자체에 문제가 있을 수 있기 때문에 별것 아닙니다.
