@@ -99,6 +99,10 @@ about-glean-adhoc-note =
     Kóva he’ise pe métrica ha pe métrica réra oguerekoha ysaja
     <code>camelCase</code> ojuavýva umi APIs de Rust y C++ reheguágui.
 controls-button-label-verbose = Emboheko ha emondo ping
+about-glean-feedback-settings-only =
+    .message = ¡Ñemboheko jejapopyre!
+about-glean-feedback-settings-and-ping =
+    .message = ¡Ñemboheko jejapopyre ha ping mondopyre!
 about-glean-about-data-header = Mba’ekuaarã rehegua
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
