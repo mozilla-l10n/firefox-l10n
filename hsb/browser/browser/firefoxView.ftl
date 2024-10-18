@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez grat
 firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dale
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšěch wašich gratach
+firefoxview-syncedtabs-signin-description-2 = Zo byšće swoje wočinjene rajtarki na swojim telefonje a druhich gratach widźał, přizjewće so abo registrujće so za konto. Z kontom móžeće tež swoje hesła, swoju historiju a wjace synchronizować.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přizjewić
 firefoxview-syncedtabs-signin-header = Wobstarajće sej rajtarki wot wšudźe
 firefoxview-syncedtabs-signin-description = Zo byšće swoje rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so pola swojeho konta. Jeli konto nimaće, přewodźimy was přez kroki registracije.
@@ -235,6 +236,7 @@ firefoxview-dont-remember-history-empty-header = Njeje ničo, zo hodźi so pokaz
 firefoxview-dont-remember-history-empty-description = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu wodźić,  na kotruž so { -brand-short-name } dopomina.
 firefoxview-dont-remember-history-empty-description-two = Na zakładźe wašich aktualnych nastajenjow so { -brand-short-name } na wašu aktiwitu njedopomina, hdyž přehladujeće. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">změńće swoje nastajenja historije, zo by sej waša historija spomjatkowała</a>.
 firefoxview-dont-remember-history-empty-header-2 = Maće kontrolu wo tym, štož sej { -brand-short-name } spomjatkuje
+firefoxview-dont-remember-history-empty-description-one = Tuchwilu sej { -brand-short-name } wašu přehladowansku aktiwitu njespomjatkuje. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">aktualizujće nastajenja swojeje historije</a>.
 
 ##
 
