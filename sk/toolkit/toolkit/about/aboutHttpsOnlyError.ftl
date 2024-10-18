@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Čo môže byť príčinou?
 about-httpsonly-explanation-nosupport = Najpravdepodobnejšie táto stránka nepodporuje HTTPS.
 about-httpsonly-explanation-risk = Je tiež možné, že v tom má prsty útočník. Ak sa rozhodnete túto stránku navštíviť, odporúčame vám na nej nezadávať žiadne citlivé údaje, ako sú heslá, e‑mailové adresy alebo platobné údaje.
 about-httpsonly-explanation-continue = Ak budete pokračovať, režim "Len HTTPS" bude pre túto stránku dočasne vypnutý.
+about-httpsonly-explanation-iframe = Kvôli blokovaniu zmiešaného obsahu nie je možné manuálne povoliť načítanie tohto rámca.
 about-httpsonly-button-continue-to-site = Pokračovať na nezabezpečenú stránku
 about-httpsonly-button-go-back = Prejsť naspäť
 about-httpsonly-link-learn-more = Ďalšie informácie…

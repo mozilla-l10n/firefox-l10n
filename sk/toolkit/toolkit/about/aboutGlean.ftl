@@ -71,6 +71,10 @@ about-glean-adhoc-note =
     To znamená, že kategória a názov metriky sú naformátované ako 
     <code>camelCase</code> na rozdiel od rozhraní API Rust a C++.
 controls-button-label-verbose = Použiť nastavenia a odoslať ping
+about-glean-feedback-settings-only =
+    .message = Nastavenia boli použité!
+about-glean-feedback-settings-and-ping =
+    .message = Nastavenia boli použité a ping bol odoslaný!
 about-glean-about-data-header = O údajoch
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si

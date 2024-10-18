@@ -249,6 +249,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Vytvoriť účet
 device-migration-fxa-spotlight-getting-new-device-header-2 = Plánujete v blízkej budúcnosti nové zariadenie?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Pomocou niekoľkých jednoduchých krokov si môžete preniesť svoje záložky, históriu a heslá na svoje nové zariadenie.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ako zálohovať moje údaje
+device-migration-fxa-spotlight-sync-header = Prehliadajte bez toho, aby ste čokoľvek zmeškali
+device-migration-fxa-spotlight-sync-body = Synchronizujte všetky dôležité informácie pomocou šifrovania, ako sú záložky a heslá. Všetko máte na dosah všade, kde použijete { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Poďme na to
 
 ## Set as Default PDF Reader Infobar
 
@@ -297,3 +300,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Neskôr
     .accesskey = N
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Zavrieť
+    .aria-label = Zavrieť

@@ -139,6 +139,7 @@ addon-local-install-error-not-signed = Tento doplnok nemohol byť nainštalovan�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Doplnok { $addonName } nemohol byť nainštalovaný, pretože nie je kompatibilný s prehliadačom { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } porušuje pravidlá Mozilly a nedá sa nainštalovať vo { -brand-short-name(case: "loc") }.
 addon-install-error-blocklisted = Doplnok { $addonName } nebolo možné nainštalovať, pretože je veľké riziko, že spôsobí problémy so stabilitou alebo bezpečnosťou prehliadača.
 addon-install-error-soft-blocked = { $addonName } porušuje pravidlá Mozilly a nedá sa nainštalovať vo { -brand-short-name(case: "loc") }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

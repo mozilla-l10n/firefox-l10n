@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = Dokončené na { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule prepínajte medzi zariadeniami
 firefoxview-tabpickup-step-signin-description = Ak chcete získať karty z telefónu, najprv sa prihláste alebo si vytvorte účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovať
+firefoxview-syncedtabs-signin-header-2 = Váš { -brand-product-name } na všetkých vašich zariadeniach
+firefoxview-syncedtabs-signin-description-2 = Ak chcete zobraziť karty, ktoré máte otvorené v telefóne a iných zariadeniach, prihláste sa alebo si vytvorte účet. Pomocou účtu môžete tiež synchronizovať svoje heslá, históriu a ďalšie.
+firefoxview-syncedtabs-signin-primarybutton-2 = Prihlásiť sa
 firefoxview-syncedtabs-signin-header = Vezmite si karty odkiaľkoľvek
 firefoxview-syncedtabs-signin-description = Ak chcete vidieť svoje karty kdekoľvek, kde používate { -brand-product-name }, prihláste sa do svojho účtu. Ak nemáte účet, prevedieme vás krokmi registrácie.
 firefoxview-syncedtabs-signin-primarybutton = Prihláste sa alebo sa zaregistrujte
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Synchronizujte { -brand-product-name } 
 firefoxview-tabpickup-adddevice-description = Stiahnite si { -brand-product-name } pre mobilné zariadenie a prihláste sa tam.
 firefoxview-tabpickup-adddevice-learn-how = Ďalšie informácie
 firefoxview-tabpickup-adddevice-primarybutton = Získať { -brand-product-name } pre mobilné zariadenie
+firefoxview-syncedtabs-adddevice-header-2 = Vezmite si karty odkiaľkoľvek
+firefoxview-syncedtabs-adddevice-description-2 = Prihláste sa do { -brand-product-name(case: "gen") } na svojom telefóne alebo inom počítači, aby ste tu mohli vidieť karty. Pozrite sa, ako <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
 firefoxview-syncedtabs-adddevice-header = Prihláste sa vo { -brand-product-name(case: "loc") } na svojich ostatných zariadeniach
 firefoxview-syncedtabs-adddevice-description = Ak chcete vidieť svoje karty kdekoľvek, kde používate { -brand-product-name }, prihláste sa na všetkých svojich zariadeniach. Pozrite sa, ako <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Vyskúšajte { -brand-product-name } pre mobilné zariadenia
@@ -230,6 +235,8 @@ firefoxview-choose-browser-button = Zvoľte prehliadač
 firefoxview-dont-remember-history-empty-header = Zatiaľ tu nič nie je
 firefoxview-dont-remember-history-empty-description = Ochrana vášho súkromia je základom toho, čo robíme. Preto môžete určiť, ktorú aktivitu si { -brand-short-name } pamätá.
 firefoxview-dont-remember-history-empty-description-two = Na základe vašich aktuálnych nastavení si { -brand-short-name } nepamätá vašu aktivitu pri prehliadaní. Ak to chcete zmeniť, <a data-l10n-name="history-settings-url-two">zmeňte nastavenia histórie tak, aby si históriu pamätal</a>.
+firefoxview-dont-remember-history-empty-header-2 = Máte kontrolu nad tým, čo si { -brand-short-name } zapamätá
+firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } si práve teraz nepamätá vašu aktivitu prehliadania. Ak to chcete zmeniť, <a data-l10n-name="history-settings-url-two">aktualizujte nastavenia histórie</a>.
 
 ##
 

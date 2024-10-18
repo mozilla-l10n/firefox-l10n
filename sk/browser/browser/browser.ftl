@@ -627,6 +627,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hľadať ({ $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Hľadať pomocou { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, vyberte vyhľadávací modul
+    .tooltiptext = { $engine }, vyberte vyhľadávací modul
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Vyberte vyhľadávací modul
+urlbar-searchmode-bookmarks =
+    .label = Záložky
+urlbar-searchmode-tabs =
+    .label = Karty
+urlbar-searchmode-history =
+    .label = História
+urlbar-searchmode-actions =
+    .label = Akcie
+urlbar-searchmode-exit-button =
+    .tooltiptext = Zavrieť
+urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:
+urlbar-searchmode-popup-search-settings = Nastavenia vyhľadávania
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1022,6 +1042,7 @@ firefox-relay-offer-legal-notice = Kliknutím na „Použiť e‑mailovú masku�
 popup-notification-addon-install-unsigned =
     .value = (neoverený)
 popup-notification-xpinstall-prompt-learn-more = Ďalšie informácie o bezpečnej inštalácii doplnkov
+popup-notification-xpinstall-prompt-block-url = Podrobnosti
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Povoliť v súkromných oknách
