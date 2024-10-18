@@ -133,5 +133,6 @@ addon-local-install-error-not-signed = Ko moĩmbaha ndaikatúi oñemohenda ndoje
 addon-install-error-incompatible = { $addonName } ndaikatúi oñemohenda ndojokupytýi rupi { -brand-short-name } { $appVersion } ndive.
 addon-install-error-hard-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
 addon-install-error-blocklisted = { $addonName } ndaikatúi oñemohenda ikatúgui omoapañuái mba’apoporã térã tekorosã rehegua.
+addon-install-error-soft-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ndaikatúi emohenda { $addonName } poruhára paháramo, omohendakuaa tendaguasu oiporúva mba’apohaguasu porureko.
