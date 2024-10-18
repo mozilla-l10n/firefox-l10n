@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = ਸਿਰਫ਼-HTTPS ਮੋਡ ਚੇਤਾਵਨੀ
 about-httpsonly-title-site-not-available = ਸੁਰੱਖਿਅਤ ਸਾਈਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 =
@@ -16,14 +15,10 @@ about-httpsonly-explanation-risk = ਇਹ ਵੀ ਸੰਭਵ ਹੈ ਕਿ ਇ�
 about-httpsonly-explanation-continue =
     ਜੇ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਿਆ ਤਾਂ ਇਸ ਸਾਈਟ ਲਈ ਸਿਰਫ਼-HTTPS ਢੰਗ ਨੂੰ ਆਰਜ਼ੀ ਤੌਰ ਉੱਤੇ ਬੰਦ ਕੀਤਾ
     ਜਾਵੇਗਾ।
-
+about-httpsonly-explanation-iframe = ਰਲਵੀਂ-ਮਿਲਵੀ ਸਮੱਗਰੀ ਉੱਤੇ ਰੋਕ ਲਾਈ ਹੋਣ ਕਰਕੇ ਇਸ ਫਰੇਮ ਨੂੰ ਖੁਦ ਲੋਡ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣਾ ਸੰਭਵ ਨਹੀਂ ਹੈ।
 about-httpsonly-button-continue-to-site = HTTP ਸਾਈਟ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 about-httpsonly-button-go-back = ਪਿੱਛੇ ਜਾਓ
 about-httpsonly-link-learn-more = …ਹੋਰ ਜਾਣੋ
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:

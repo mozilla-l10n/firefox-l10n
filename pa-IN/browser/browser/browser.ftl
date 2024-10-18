@@ -1023,6 +1023,7 @@ firefox-relay-offer-legal-notice = “ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ�
 popup-notification-addon-install-unsigned =
     .value = (ਨਾ-ਜਾਂਚ ਕੀਤੇ)
 popup-notification-xpinstall-prompt-learn-more = ਐਡ-ਆਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+popup-notification-xpinstall-prompt-block-url = ਵੇਰਵੇ ਵੇਖੋ
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਚਲਾਓ

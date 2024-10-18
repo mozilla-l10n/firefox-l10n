@@ -381,6 +381,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = ਮੈ ਪਹਿਲਾ�
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਚਾਹੁੰਦੇ ਹੋ
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚਾਹੋ, ਬਾਹੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = ਬਾਹੀ ਉੱਤੇ ਟੈਬ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -389,10 +391,18 @@ onboarding-new-horizontal-tabs-label = ਟੈਬਾਂ ਉੱਤੇ
 onboarding-existing-tabs-title = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਇੱਥੇ
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਪੇਸ਼ ਹਨ
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਪਾਸੇ ਉੱਤੇ ਰੱਖੋ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚਾਹੋ, ਬਾਹੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
 onboarding-flair-text = ਨਵਾਂ!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ ਰੱਖੋ
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ { -brand-shorter-name } ਬਾਹੀ ਦੇ ਨਾਲ ਸਕਰੀਨ ਦੇ ਪਾਸੇ ਟੈਬਾਂ ਨੂੰ ਦਿਖਾਉਂਦੀ ਹੈ।
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ { -brand-shorter-name } ਬਾਹੀ ਦੇ ਨਾਲ ਸਕਰੀਨ ਦੇ ਪਾਸੇ ਟੈਬਾਂ ਨੂੰ ਦਿਖਾਉਂਦੀ ਹੈ।
 onboarding-genai-sidebar-primary-button = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
 onboarding-genai-sidebar-secondary-button = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
