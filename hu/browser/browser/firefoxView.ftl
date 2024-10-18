@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-prod
 firefoxview-tabpickup-adddevice-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
 firefoxview-syncedtabs-adddevice-header-2 = Vegye át a lapokat bárhonnan
+firefoxview-syncedtabs-adddevice-description-2 = Jelentkezzen be a { -brand-product-name }be a telefonján vagy egy másik számítógépén, hogy itt jelenjenek meg a lapok. Ismerje meg, hogyan <a data-l10n-name="url">csatlakoztasson további eszközöket</a>.
 firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name }ba a többi eszközén
 firefoxview-syncedtabs-adddevice-description = Hogy lássa a lapjait, bárhol is használja a { -brand-product-name(case: "accusative") }, jelentkezzen be az összes eszközén. Ismerje meg, hogyan <a data-l10n-name="url">további eszközöket csatlakoztatni</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name(case: "accusative") }
