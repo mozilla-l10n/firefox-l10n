@@ -113,3 +113,15 @@ genai-onboarding-lechat-learn = Zjistit více o Le Chat
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generování textu a kódu
+genai-onboarding-claude-analyze = Analýza dokumentů a obrázků
+genai-onboarding-claude-price = Bezplatné a placené možnosti; je vyžadován účet
+genai-onboarding-chatgpt-generate = Generování textu, obrázků a kódu
+genai-onboarding-chatgpt-analyze = Analýza dokumentů a obrázků
+genai-onboarding-chatgpt-price = Bezplatné a placené možnosti; pro některé země a úkoly je vyžadován účet
+genai-onboarding-gemini-generate = Generování textu, obrázků a kódu
+genai-onboarding-gemini-analyze = Analýza obrázků (zdarma) a dokumentů (placené)
+genai-onboarding-gemini-price = Bezplatné a placené možnosti; je vyžadován účet
+genai-onboarding-huggingchat-generate = Generování textu a kódu
+genai-onboarding-lechat-generate = Generování textu a kódu
+genai-onboarding-lechat-price = Zdarma; je vyžadován účet
