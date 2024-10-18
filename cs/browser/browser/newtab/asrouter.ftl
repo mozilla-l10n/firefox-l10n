@@ -319,6 +319,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Vytvořit účet
 device-migration-fxa-spotlight-getting-new-device-header-2 = Plánujete v blízké budoucnosti nové zařízení?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Když začínáte používat nové zařízení, přeneste si s sebou své záložky, historii a hesla pomocí několika jednoduchých kroků.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Jak zálohovat moje data
+device-migration-fxa-spotlight-sync-primary-button = Začít
 
 ## Set as Default PDF Reader Infobar
 
