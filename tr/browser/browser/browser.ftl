@@ -622,6 +622,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ile ara
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, Bir arama motoru seçin
+    .tooltiptext = { $engine }, Bir arama motoru seçin
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Bir arama motoru seçin
+urlbar-searchmode-bookmarks =
+    .label = Yer imleri
+urlbar-searchmode-tabs =
+    .label = Sekmeler
+urlbar-searchmode-history =
+    .label = Geçmiş
+urlbar-searchmode-actions =
+    .label = Eylemler
+urlbar-searchmode-exit-button =
+    .tooltiptext = Kapat
+urlbar-searchmode-popup-description = Burada ara:
+urlbar-searchmode-popup-search-settings = Arama Ayarları
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
