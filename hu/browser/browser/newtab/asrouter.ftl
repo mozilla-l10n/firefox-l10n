@@ -294,3 +294,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Később
     .accesskey = K
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Bezárás
+    .aria-label = Bezárás
