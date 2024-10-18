@@ -623,6 +623,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Keresés ezzel: { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, válasszon keresőszolgáltatást
+    .tooltiptext = { $engine }, válasszon keresőszolgáltatást
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Válasszon keresőszolgáltatást
+urlbar-searchmode-bookmarks =
+    .label = Könyvjelzők
+urlbar-searchmode-tabs =
+    .label = Lapok
+urlbar-searchmode-history =
+    .label = Előzmények
+urlbar-searchmode-actions =
+    .label = Műveletek
+urlbar-searchmode-exit-button =
+    .tooltiptext = Bezárás
+urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
+urlbar-searchmode-popup-search-settings = Keresési beállítások
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

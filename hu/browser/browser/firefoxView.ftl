@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% kész
 firefoxview-tabpickup-step-signin-header = Váltson zökkenőmentesen az eszközök között
 firefoxview-tabpickup-step-signin-description = Ha itt szeretné átvenni a telefonja lapjait, először jelentkezzen be, vagy hozzon létre egy fiókot.
 firefoxview-tabpickup-step-signin-primarybutton = Folytatás
+firefoxview-syncedtabs-signin-header-2 = A { -brand-product-name } az összes eszközén
+firefoxview-syncedtabs-signin-description-2 = Ha szeretné megtekinteni a telefonján és más eszközein megnyitott lapokat, jelentkezzen be, vagy hozzon létre egy fiókot. Egy fiókkal a jelszavait, előzményeit és egyebeket is szinkronizálhatja.
+firefoxview-syncedtabs-signin-primarybutton-2 = Bejelentkezés
 firefoxview-syncedtabs-signin-header = Vegye át a lapokat bárhonnan
 firefoxview-syncedtabs-signin-description = Hogy mindenhol lássa a lapjait, ahol a { -brand-product-name(case: "accusative") } használja. Ha nincs még fiókja, akkor végigvezetjük a regisztráció lépésein.
 firefoxview-syncedtabs-signin-primarybutton = Jelentkezzen be vagy regisztráljon
@@ -39,6 +42,7 @@ firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a t�
 firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name(case: "accusative") }, és jelentkezzen be.
 firefoxview-tabpickup-adddevice-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
+firefoxview-syncedtabs-adddevice-header-2 = Vegye át a lapokat bárhonnan
 firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name }ba a többi eszközén
 firefoxview-syncedtabs-adddevice-description = Hogy lássa a lapjait, bárhol is használja a { -brand-product-name(case: "accusative") }, jelentkezzen be az összes eszközén. Ismerje meg, hogyan <a data-l10n-name="url">további eszközöket csatlakoztatni</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name(case: "accusative") }
