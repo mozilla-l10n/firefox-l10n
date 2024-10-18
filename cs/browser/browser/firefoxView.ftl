@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = Dokončeno { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízeními
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
+firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely otevřené v telefonu a dalších zařízeních, přihlaste se nebo si zaregistrujte účet. S účtem můžete také synchronizovat svá hesla, historii a další údaje.
+firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
 firefoxview-syncedtabs-signin-header = Vezměte si panely odkudkoliv
 firefoxview-syncedtabs-signin-description =
     { -brand-product-name.case-status ->
@@ -55,6 +57,7 @@ firefoxview-tabpickup-adddevice-primarybutton =
         [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
        *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
+firefoxview-syncedtabs-adddevice-header-2 = Vezměte si panely odkudkoliv
 firefoxview-syncedtabs-adddevice-header =
     { -brand-product-name.case-status ->
         [with-cases] Na ostatních zařízeních se přihlaste k { -brand-product-name(case: "gen") }
