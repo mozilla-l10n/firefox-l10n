@@ -616,6 +616,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } 검색
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, 검색 엔진 선택
+    .tooltiptext = { $engine }, 검색 엔진 선택
+urlbar-searchmode-dropmarker =
+    .tooltiptext = 검색 엔진 선택
+urlbar-searchmode-bookmarks =
+    .label = 북마크
+urlbar-searchmode-tabs =
+    .label = 탭
+urlbar-searchmode-history =
+    .label = 기록
+urlbar-searchmode-actions =
+    .label = 작업
+urlbar-searchmode-exit-button =
+    .tooltiptext = 닫기
+urlbar-searchmode-popup-description = 이번만 검색:
+urlbar-searchmode-popup-search-settings = 검색 설정
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
