@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name }
 firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajće sej rajtarki wot wšudźe
+firefoxview-syncedtabs-adddevice-description-2 = Přizjewće pola { -brand-product-name } na swojim telefonje abo druhim ličaku, zo byšće rajtarki tu widźał. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-syncedtabs-adddevice-header = Přizjewće so pola { -brand-product-name } na swojich druhich gratach
 firefoxview-syncedtabs-adddevice-description = Zo byšće swoje rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so na wšěch swojich gratach. Zhońće, kak móžeće z <a data-l10n-name="url">přidatnymi gratami zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
@@ -233,6 +234,7 @@ firefoxview-choose-browser-button = Wubjerće wobhladowak
 firefoxview-dont-remember-history-empty-header = Njeje ničo, zo hodźi so pokazać
 firefoxview-dont-remember-history-empty-description = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu wodźić,  na kotruž so { -brand-short-name } dopomina.
 firefoxview-dont-remember-history-empty-description-two = Na zakładźe wašich aktualnych nastajenjow so { -brand-short-name } na wašu aktiwitu njedopomina, hdyž přehladujeće. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">změńće swoje nastajenja historije, zo by sej waša historija spomjatkowała</a>.
+firefoxview-dont-remember-history-empty-header-2 = Maće kontrolu wo tym, štož sej { -brand-short-name } spomjatkuje
 
 ##
 
