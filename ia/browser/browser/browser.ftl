@@ -620,6 +620,18 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Cercar in { $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Cercar con { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Marcapaginas
+urlbar-searchmode-tabs =
+    .label = Schedas
+urlbar-searchmode-history =
+    .label = Chronologia
+urlbar-searchmode-actions =
+    .label = Actiones
+urlbar-searchmode-exit-button =
+    .tooltiptext = Clauder
+urlbar-searchmode-popup-description = Iste vice cerca con:
+urlbar-searchmode-popup-search-settings = Parametros de recerca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
