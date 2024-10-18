@@ -115,7 +115,7 @@ sidebar-menu-customize-header =
 sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
-    .heading = 其他设备标签页
+    .heading = 其他设备上的标签页
 sidebar-panel-header-close-button =
     .tooltiptext = 关闭
 
@@ -123,7 +123,7 @@ sidebar-panel-header-close-button =
 
 sidebar-customize-title = 定制侧栏
 sidebar-history-title = 历史记录
-sidebar-syncedtabs-title = 其他设备上的标签页
+sidebar-syncedtabs-title = 其他设备标签页
 
 ## Context for closing synced tabs when hovering over the items
 
