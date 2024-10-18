@@ -41,7 +41,7 @@ about-logins-menu-menuitem-help = Ajuda
 ## Login List
 
 login-list =
-    .aria-label = Contas que combinar com a consulta
+    .aria-label = Contas que correspondem à consulta
 # Variables
 #   $count (number) - Number of logins
 login-list-count =
