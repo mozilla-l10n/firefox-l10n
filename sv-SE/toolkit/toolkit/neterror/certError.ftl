@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Certifikatet är inte betrott ef
 cert-error-trust-expired-issuer = Certifikatet är inte betrott eftersom utfärdarcertifikatet har förfallit.
 cert-error-trust-self-signed = Certifikatet är inte betrott eftersom det är självsignerat.
 cert-error-trust-symantec = Certifikat som utfärdas av GeoTrust, RapidSSL, Symantec, Thawte och VeriSign anses inte längre säkra eftersom dessa certifikatmyndigheter misslyckades med att följa säkerhetspraxis tidigare.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } litar inte på { $hostname } eftersom det inte kunde bevisa att det uppfyller kraven på offentliga certifikat.
 cert-error-untrusted-default = Certifikatet kommer inte från en betrodd källa.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
