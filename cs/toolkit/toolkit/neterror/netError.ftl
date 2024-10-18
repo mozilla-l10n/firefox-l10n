@@ -194,3 +194,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Pokud <b>{ $mitm }</b> nezn
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b> má nastaveno bezpečnostní pravidlo HTTP Strict Transport Security (HSTS), které vynucuje používání pouze zabezpečeného spojení. Pro připojení k této stránce nelze udělit výjimku.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Pravděpodobně nic, protože je pravděpodobné, že problém je se samotným webem.

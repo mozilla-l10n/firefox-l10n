@@ -89,6 +89,12 @@ genai-options-show-shortcut =
     .label = Zobrazit zkratku při označení textu
 genai-options-hide-shortcut =
     .label = Skrýt zkratku při označení textu
+genai-options-about-chatbot =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] O AI chatbotech ve { -brand-short-name(case: "gen") }
+           *[no-cases] O AI chatbotech v aplikaci { -brand-short-name }
+        }
 
 ## Chatbot onboarding
 
@@ -109,6 +115,8 @@ genai-onboarding-huggingchat-learn = Zjistit více o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Zjistit více o Le Chat
+genai-onboarding-select-header = Výběrem textu zobrazíte návrhy
+genai-onboarding-select-primary = Začněte chatovat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -123,5 +131,6 @@ genai-onboarding-gemini-generate = Generování textu, obrázků a kódu
 genai-onboarding-gemini-analyze = Analýza obrázků (zdarma) a dokumentů (placené)
 genai-onboarding-gemini-price = Bezplatné a placené možnosti; je vyžadován účet
 genai-onboarding-huggingchat-generate = Generování textu a kódu
+genai-onboarding-huggingchat-price = Zdarma; pro některé úkoly je vyžadován účet
 genai-onboarding-lechat-generate = Generování textu a kódu
 genai-onboarding-lechat-price = Zdarma; je vyžadován účet

@@ -22,6 +22,9 @@ cert-error-trust-signature-algorithm-disabled = Certifikát je nedůvěryhodný,
 cert-error-trust-expired-issuer = Certifikát není důvěryhodný, protože doba platnosti certifikátu vydavatele už vypršela.
 cert-error-trust-self-signed = Certifikát není důvěryhodný, protože je podepsán sám sebou.
 cert-error-trust-symantec = S ohledem na provinění společností GeoTrust, RapidSSL, Symantec, Thawte a VeriSign proti bezpečnostním postupům nejsou certifikáty vydané těmito společnostmi nadále považovány za bezpečné.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
 cert-error-untrusted-default = Certifikát nepochází z důvěryhodného zdroje.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
