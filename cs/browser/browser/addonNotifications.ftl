@@ -207,6 +207,7 @@ addon-install-error-incompatible =
         [with-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s { -brand-short-name(case: "ins") } { $appVersion }.
        *[no-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
     }
+addon-install-error-hard-blocked = Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
 addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.
 addon-install-error-soft-blocked =
     { -brand-short-name.case-status ->
