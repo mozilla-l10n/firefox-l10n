@@ -691,6 +691,8 @@ urlbar-searchmode-actions =
     .label = Akce
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavřít
+urlbar-searchmode-popup-description = Vyhledat pomocí:
+urlbar-searchmode-popup-search-settings = Nastavení vyhledávání
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

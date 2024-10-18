@@ -554,8 +554,20 @@ onboarding-new-horizontal-tabs-label = Panely v horní části
 onboarding-existing-tabs-title = Svislé panely jsou tady
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Představujeme svislé panely
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Vyzkoušejte panely nalevo. Zobrazení panelů můžete kdykoliv přepnout v nastavení postranní lišty.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Vyzkoušet svislé panely
 onboarding-flair-text = Novinka!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Ponechat panely vodorovně
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Okno prohlížeče s panely v horní části.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Okno prohlížeče s panely v horní části.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Vyzkoušejte AI chatbota v postranní liště
+onboarding-genai-sidebar-primary-button = Vyberte si chatbota
+onboarding-genai-sidebar-secondary-button = Začít prohlížet
