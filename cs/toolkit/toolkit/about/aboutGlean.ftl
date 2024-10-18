@@ -111,6 +111,8 @@ about-glean-adhoc-note =
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-feedback-settings-only =
     .message = Nastavení použito!
+about-glean-feedback-settings-and-ping =
+    .message = Nastavení bylo použito a ping odeslán!
 about-glean-about-data-header = O datech
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku

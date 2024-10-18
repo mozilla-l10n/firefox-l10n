@@ -477,6 +477,7 @@ available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
+addon-permissions-empty2 = Toto rozšíření nevyžaduje žádná oprávnění.
 addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
 addon-permissions-required = Vyžadovaná oprávnění pro základní funkce:
 addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
@@ -554,19 +555,15 @@ details-notification-unsigned2 =
             [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
            *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
         }
+details-notification-hard-blocked-extension =
+    .message = Toto rozšíření bylo zablokováno z důvodu porušování pravidel Mozilly a bylo zakázáno.
+details-notification-hard-blocked-other =
+    .message = Toto rozšíření bylo zablokováno z důvodu porušování pravidel Mozilly a bylo zakázáno.
 details-notification-unsigned-link = Více informací
 details-notification-blocked = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.
 details-notification-blocked2 =
     .message = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.
 details-notification-blocked-link2 = Zobrazit podrobnosti
-details-notification-softblocked-extension-disabled =
-    .message = Toto rozšíření porušuje zásady společnosti Mozilla a bylo zakázáno. Můžete jej povolit, ale může to být riskantní.
-details-notification-softblocked-extension-enabled =
-    .message = Toto rozšíření porušuje zásady společnosti Mozilla. Jeho používání může být riskantní.
-details-notification-softblocked-other-disabled =
-    .message = Tento doplněk porušuje zásady společnosti Mozilla a byl zakázán. Můžete jej povolit, ale může to být riskantní.
-details-notification-softblocked-other-enabled =
-    .message = Tento doplněk porušuje zásady společnosti Mozilla. Jeho používání může být riskantní.
 details-notification-softblocked-link2 = Zobrazit podrobnosti
 details-notification-blocked-link = Více informací
 details-notification-softblocked = Doplněk { $name } způsobuje bezpečnostní a výkonnostní problémy.
