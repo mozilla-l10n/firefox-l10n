@@ -1009,6 +1009,7 @@ firefox-relay-offer-legal-notice = 点击“使用马甲邮箱”，即表示您
 popup-notification-addon-install-unsigned =
     .value = （未验证）
 popup-notification-xpinstall-prompt-learn-more = 详细了解如何安全地安装附加组件
+popup-notification-xpinstall-prompt-block-url = 查阅详情
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = 在隐私窗口中运行
