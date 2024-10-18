@@ -60,13 +60,24 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spyrja { $provider }…
+genai-shortcuts-hide =
+    .label = Fela flýtileið spjallkerfis
 
 ## Chatbot header
 
+genai-chatbot-title = AI-gervigreindarspjall
+genai-header-provider-menu =
+    .title = Veldu spjallkerfi
 genai-header-options-button =
     .title = Opna valmynd
 genai-header-close-button =
     .title = Loka
+genai-provider-view-details =
+    .label = Skoða nánari upplýsingar um spjallkerfið
+genai-provider-about-chatbots =
+    .label = Um þessi spjallkerfi
+genai-options-reload-generic =
+    .label = Endurhlaða AI-gervigreindarspjallkerfi
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Endurhlaða { $provider }
@@ -74,13 +85,36 @@ genai-options-show-shortcut =
     .label = Sýna flýtileið þegar texti er valinn
 genai-options-hide-shortcut =
     .label = Fela flýtileið þegar texti er valinn
+genai-options-about-chatbot =
+    .label = Um gervigreindar-spjallkerfi í { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Gerðu samantektir, fáðu hugmyndir og fleira um leið og þú vafrar
 genai-onboarding-primary = Halda áfram
 genai-onboarding-secondary = Loka
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Frekari upplýsingar um Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Frekari upplýsingar um ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Frekari upplýsingar um Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Frekari upplýsingar um HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Frekari upplýsingar um Le Chat
+genai-onboarding-select-header = Veldu texta til að sjá tillögur
+genai-onboarding-select-description = Þegar þú velur texta munum við stinga upp á kvaðningum sem þú getur sent til spjallkerfisins. Þú getur líka skrifað í þínar eigin kvaðningar.
+genai-onboarding-select-primary = Byrjaðu að spjalla
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Framleiddu texta og kóða
+genai-onboarding-claude-analyze = Greindu skjöl og myndir
 genai-onboarding-lechat-price = Ókeypis; reiknings krafist
