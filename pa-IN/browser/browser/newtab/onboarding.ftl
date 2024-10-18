@@ -404,5 +404,15 @@ onboarding-vertical-tabs-tooltip =
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
     .aria-description = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ { -brand-shorter-name } ਬਾਹੀ ਦੇ ਨਾਲ ਸਕਰੀਨ ਦੇ ਪਾਸੇ ਟੈਬਾਂ ਨੂੰ ਦਿਖਾਉਂਦੀ ਹੈ।
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਸਿਖਰ ਦੇ ਨਾਲ ਟੈਬਾਂ ਨੂੰ ਦਿਖਾਉਂਦੀ ਹੈ।
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਸਿਖਰ ਦੇ ਨਾਲ ਟੈਬਾਂ ਨੂੰ ਦਿਖਾਉਂਦੀ ਹੈ।
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = ਬਾਹੀ ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਅਜ਼ਮਾਓ
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = ਵੈੱਬ ਸਮੱਗਰੀ ਦਾ ਸਾਰ ਵੇਖੋ, ਦਿਮਾਗ ਲੜਾਓ, ਸੁਨੇਹਿਆਂ ਦਾ ਖਰੜਾ ਤਿਆਰ ਕਰੋ — ਸਭ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਹੀ। ਕਈ ਪੂਰਕਾਂ ਤੋਂ ਚੁਣੋ। ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲੋ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 onboarding-genai-sidebar-primary-button = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
 onboarding-genai-sidebar-secondary-button = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ

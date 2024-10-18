@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = ਜਦੋਂ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਸ਼ੁਰੂ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਖੋਲ੍ਹੋ
     .accesskey = O
 windows-launch-on-login-disabled = ਇਸ ਪਸੰਦ ਨੂੰ Windows ਵਿੱਚ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਦਲਣ ਲਈ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ <a data-l10n-name="startup-link">Startup Apps</a> ਨੂੰ ਵੇਖੋ।
+windows-launch-on-login-profile-disabled = “ਵਰਤੋਂਕਾਰ ਪਰੋਫਾਇਲ ਚੁਣੋ” ਵਿੱਚ “{ profile-manager-use-selected.label }” ਚੁਣ ਕੇ ਇਸ ਪਸੰਦ ਨੂੰ ਸਮਰੱਥ ਕਰੋ।
 startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨਤੀਜਿਆਂ 'ਚ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = ਨਤੀਜਾ ਸਫ਼ਿਆਂ ਉੱਤੇ ਐਡਰੈ ਪੱਟੀ ਵਿੱਚ ਖੋਜ ਸ਼ਬਦ ਵੇਖਾਓ
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

@@ -293,3 +293,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = ਬਾਅਦ 'ਚ
     .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = ਬੰਦ ਕਰੋ
+    .aria-label = ਬੰਦ ਕਰੋ
