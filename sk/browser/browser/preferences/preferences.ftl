@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Spustiť { -brand-short-name } automaticky po spustení počítača
     .accesskey = S
 windows-launch-on-login-disabled = Táto predvoľba bola v systéme Windows zakázaná. Ak to chcete zmeniť, navštívte stránku <a data-l10n-name="startup-link">Aplikácie pri spustení</a> v nastaveniach systému.
+windows-launch-on-login-profile-disabled = Povoľte túto predvoľbu začiarknutím položky “{ profile-manager-use-selected.label }” v okne „Výber používateľského profilu“.
 startup-restore-warn-on-quit =
     .label = Upozorniť pri ukončení prehliadača
 disable-extension =
@@ -644,6 +645,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
     .accesskey = a
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Na stránkach s výsledkami zobrazovať v paneli s adresou hľadané výrazy
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
