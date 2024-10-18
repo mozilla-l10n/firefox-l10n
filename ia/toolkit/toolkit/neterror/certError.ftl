@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Le certificato non es digne de f
 cert-error-trust-expired-issuer = Le certificato non es digne de fide perque le certificato del emissor ha expirate.
 cert-error-trust-self-signed = Le certificato non es digne de fide perque illo es auto-signate.
 cert-error-trust-symantec = Le certificatos emittite per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign non es plus considerate secur perque iste autoritates de certification ha fallite de sequer le practicas de securitate in le passato.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } non confide in { $hostname } perque illo non poteva provar que illo satisface le public requisitos de transparentia del certificato.
 cert-error-untrusted-default = Le certificato non proveni de un fonte digne de fide.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
