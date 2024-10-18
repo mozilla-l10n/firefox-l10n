@@ -681,6 +681,16 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hledat { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Hledat pomocí { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Záložky
+urlbar-searchmode-tabs =
+    .label = Panely
+urlbar-searchmode-history =
+    .label = Historie
+urlbar-searchmode-actions =
+    .label = Akce
+urlbar-searchmode-exit-button =
+    .tooltiptext = Zavřít
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
