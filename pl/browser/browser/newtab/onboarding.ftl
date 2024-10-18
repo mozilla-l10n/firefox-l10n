@@ -396,7 +396,7 @@ onboarding-existing-tabs-subtitle = Wypróbuj karty z boku. Możesz to cofnąć
 onboarding-existing-vertical-tabs-label = Wypróbuj pionowe karty
 onboarding-flair-text = Nowość!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
-onboarding-existing-horizontal-tabs-label = Nadal użwaj kart poziomych
+onboarding-existing-horizontal-tabs-label = Nadal używaj kart poziomych
 # Tooltip displayed on hover for vertical tabs image
 onboarding-vertical-tabs-tooltip =
     .title = Okno przeglądarki wyświetlające karty na boku ekranu jako część panelu bocznego { -brand-shorter-name(case: "gen") }.
