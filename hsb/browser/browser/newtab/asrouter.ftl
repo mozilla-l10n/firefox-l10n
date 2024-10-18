@@ -252,6 +252,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Konto załožić
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nowy grat we wašim přichodźe?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slědujće mało jednorym krokam, zo byšće swoje zapołožki, historiju a hesła sobu wzał, hdyž na nowym graće započinaće.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak móžu swoje daty zawěsćić
+device-migration-fxa-spotlight-sync-primary-button = Prěnje kroki
 
 ## Set as Default PDF Reader Infobar
 
