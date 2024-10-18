@@ -127,6 +127,8 @@ addon-local-install-error-not-signed = Bu eklenti doğrulanmadığı için yükl
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } yüklenemedi çünkü { -brand-short-name } { $appVersion } ile uyumlu değil.
+addon-install-error-hard-blocked = { $addonName } Mozilla politikalarını ihlal ettiği için { -brand-short-name } uygulamasına yüklenemiyor.
 addon-install-error-blocklisted = { $addonName } yüklenemedi çünkü kararsızlık veya güvenlik sorunlarına yol açma riski yüksek.
+addon-install-error-soft-blocked = { $addonName } Mozilla politikalarını ihlal ettiği için { -brand-short-name } uygulamasına yüklenemiyor.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = { $addonName } eklentisini son kullanıcı olarak yükleyemezsiniz. Yalnızca kurumsal ilkeleri kullanan bir kuruluş tarafından yüklenebilir.

@@ -71,5 +71,7 @@ about-glean-adhoc-note =
     Bu nedenle, ölçüm kategorisi ve ölçüm adı Rust ve C++ API’lerinden farklı olarak
     <code>camelCase</code> biçiminde olacaktır.
 controls-button-label-verbose = Ayarları uygula ve ping gönder
+about-glean-feedback-settings-only =
+    .message = Ayarlar uygulandı.
 about-glean-about-data-header = Veriler Hakkında
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.

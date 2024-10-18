@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Sistem yazdırma iletişim kutusunu kullanarak yaz
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
 policy-Windows10SSO = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Microsoft Entra hesapları için çoklu oturum açmaya (SSO) izin ver.
