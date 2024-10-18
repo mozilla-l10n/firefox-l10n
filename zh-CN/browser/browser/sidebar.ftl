@@ -100,7 +100,7 @@ sidebar-menu-genai-chat-label =
 sidebar-menu-history-label =
     .label = 历史记录
 sidebar-menu-synced-tabs-label =
-    .label = 其他设备上的标签页
+    .label = 其他设备标签页
 sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
@@ -115,7 +115,7 @@ sidebar-menu-customize-header =
 sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
-    .heading = 其他设备上的标签页
+    .heading = 其他设备标签页
 sidebar-panel-header-close-button =
     .tooltiptext = 关闭
 
@@ -134,16 +134,8 @@ sidebar-syncedtabs-title = 其他设备上的标签页
 synced-tabs-context-close-tab-title =
     .title = 关闭 { $deviceName } 中的标签页
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = 展开侧栏
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = 收起侧栏
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = 显示侧栏
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = 隐藏侧栏
 sidebar-widget-expand-sidebar =
     .tooltiptext = 展开侧栏
     .label = 侧栏
