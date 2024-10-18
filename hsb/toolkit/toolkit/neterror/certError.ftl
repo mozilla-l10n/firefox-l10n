@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Tutón certifikat dowěry hódny
 cert-error-trust-expired-issuer = Certifikat njeje dowěry hódny, dokelž wudawarski certifikat je spadnjeny.
 cert-error-trust-self-signed = Certifikat njeje dowěry hódny, dokelž je so sam podpisał.
 cert-error-trust-symantec = Certifikaty, kotrež su GeoTrust, RapidSSL, Symantec, Thawte a VeriSign wudali hižo za wěste nimaja, dokelž tute certifikowanišća w zańdźenosći njejsu so wěstotnych zwučenosćow dźerželi.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } { $hostname } njedowěrja, dokelž njemóžeše dopokazać, zo žadanja transparency za zjawne certifikaty spjelnja.
 cert-error-untrusted-default = Certifikat njepochadźa z dowěry hódneho žórła.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
