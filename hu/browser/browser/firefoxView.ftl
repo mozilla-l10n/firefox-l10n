@@ -233,6 +233,7 @@ firefoxview-choose-browser-button = Válasszon böngészőt
 firefoxview-dont-remember-history-empty-header = Nincs megjeleníthető elem
 firefoxview-dont-remember-history-empty-description = Az adatvédelme áll tevékenységünk középpontjában. Ezért szabályozhatja, hogy mely tevékenységekre emlékezzen a { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = A jelenlegi beállítások alapján a { -brand-short-name } nem jegyzi meg a tevékenységét böngészés közben. Hogy ezt megváltoztassa, <a data-l10n-name="history-settings-url-two">módosítsa az előzménybeállításokat, hogy megjegyezze az előzményeit</a>.
+firefoxview-dont-remember-history-empty-header-2 = Ön irányítja, hogy a { -brand-short-name } mire emlékszik
 
 ##
 
