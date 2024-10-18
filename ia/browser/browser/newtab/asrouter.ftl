@@ -246,6 +246,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nove apparato in tu futuro?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Seque alcun simple passos pro portar con te marcapaginas, chronologia e contrasignos quando tu initia usar un nove apparato.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer un copia de securitate de mi datos
+device-migration-fxa-spotlight-sync-primary-button = Comenciar
 
 ## Set as Default PDF Reader Infobar
 
