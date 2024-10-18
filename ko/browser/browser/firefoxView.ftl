@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% 완료
 firefoxview-tabpickup-step-signin-header = 기기 간 원활한 전환
 firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 보려면, 먼저 로그인하거나 계정을 만드세요.
 firefoxview-tabpickup-step-signin-primarybutton = 계속
+firefoxview-syncedtabs-signin-header-2 = 모든 기기에 { -brand-product-name } 사용
+firefoxview-syncedtabs-signin-description-2 = 휴대폰 및 다른 기기에서 열려 있는 탭을 보려면, 계정에 로그인하거나 가입하세요. 계정을 사용하면 비밀번호, 기록 등을 동기화 할 수도 있습니다.
+firefoxview-syncedtabs-signin-primarybutton-2 = 로그인
 firefoxview-syncedtabs-signin-header = 어디서나 탭 가져오기
 firefoxview-syncedtabs-signin-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 계정에 로그인하세요. 계정이 없는 경우 가입 단계를 안내해 드립니다.
 firefoxview-syncedtabs-signin-primarybutton = 로그인 또는 가입
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -bra
 firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
 firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
 firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
+firefoxview-syncedtabs-adddevice-header-2 = 어디서나 탭 가져오기
+firefoxview-syncedtabs-adddevice-description-2 = 여기에서 탭을 보려면 휴대전화나 다른 컴퓨터에서 { -brand-product-name }에 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
 firefoxview-syncedtabs-adddevice-header = 다른 기기에서 { -brand-product-name }에 로그인하세요.
 firefoxview-syncedtabs-adddevice-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 모든 기기에서 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
 firefoxview-syncedtabs-adddevice-primarybutton = 모바일용 { -brand-product-name } 사용해보기
