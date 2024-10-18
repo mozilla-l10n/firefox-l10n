@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = Ολοκλήρωση κατά { $percentV
 firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
 firefoxview-tabpickup-step-signin-description = Για να φέρετε τις καρτέλες του τηλεφώνου σας εδώ, κάντε πρώτα σύνδεση ή δημιουργήστε έναν λογαριασμό.
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
+firefoxview-syncedtabs-signin-header-2 = Το { -brand-product-name } σας σε όλες τις συσκευές σας
+firefoxview-syncedtabs-signin-description-2 = Για να δείτε τις ανοικτές σας καρτέλες στο τηλέφωνο και σε άλλες συσκευές σας, συνδεθείτε ή δημιουργήστε έναν λογαριασμό. Με έναν λογαριασμό, μπορείτε να συγχρονίσετε τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα.
+firefoxview-syncedtabs-signin-primarybutton-2 = Σύνδεση
 firefoxview-syncedtabs-signin-header = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-signin-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε στον λογαριασμό σας. Εάν δεν έχετε λογαριασμό, θα σας καθοδηγήσουμε κατά την εγγραφή.
 firefoxview-syncedtabs-signin-primarybutton = Σύνδεση ή εγγραφή
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -bran
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
 firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
+firefoxview-syncedtabs-adddevice-header-2 = Λάβετε καρτέλες από οπουδήποτε
+firefoxview-syncedtabs-adddevice-description-2 = Συνδεθείτε στο { -brand-product-name } από το τηλέφωνό σας ή από κάποιο άλλο υπολογιστή για να δείτε τις καρτέλες. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
 firefoxview-syncedtabs-adddevice-header = Συνδεθείτε στο { -brand-product-name } στις άλλες συσκευές σας
 firefoxview-syncedtabs-adddevice-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε από όλες τις συσκευές σας. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε πρόσθετες συσκευές</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
@@ -228,6 +233,7 @@ firefoxview-choose-browser-button = Επιλογή προγράμματος πε
 firefoxview-dont-remember-history-empty-header = Δεν υπάρχουν δεδομένα
 firefoxview-dont-remember-history-empty-description = Η προστασία του απορρήτου σας βρίσκεται στο επίκεντρο της αποστολής μας. Γι' αυτό, μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Με βάση τις τρέχουσες ρυθμίσεις σας, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητά σας κατά την περιήγηση. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">αλλάξτε τις ρυθμίσεις απομνημόνευσης του ιστορικού σας</a>.
+firefoxview-dont-remember-history-empty-description-one = Προς το παρόν, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητα περιήγησής σας. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">ενημερώστε τις ρυθμίσεις ιστορικού σας</a>.
 
 ##
 

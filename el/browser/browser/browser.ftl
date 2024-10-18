@@ -620,6 +620,20 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Αναζήτηση
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Αναζήτηση με { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Επιλογή μηχανής αναζήτησης
+urlbar-searchmode-bookmarks =
+    .label = Σελιδοδείκτες
+urlbar-searchmode-tabs =
+    .label = Καρτέλες
+urlbar-searchmode-history =
+    .label = Ιστορικό
+urlbar-searchmode-actions =
+    .label = Ενέργειες
+urlbar-searchmode-exit-button =
+    .tooltiptext = Κλείσιμο
+urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
+urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

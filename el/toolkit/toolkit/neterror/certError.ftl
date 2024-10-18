@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Το πιστοποιητικό 
 cert-error-trust-expired-issuer = Το πιστοποιητικό δεν είναι αξιόπιστο επειδή το πιστοποιητικό του εκδότη έχει λήξει.
 cert-error-trust-self-signed = Το πιστοποιητικό δεν είναι αξιόπιστο επειδή είναι αυτοϋπογεγραμμένο.
 cert-error-trust-symantec = Τα πιστοποιητικά που εκδίδονται από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign δεν θεωρούνται πλέον ασφαλή επειδή αυτές οι αρχές πιστοποιητικών δεν ακολούθησαν πρακτικές ασφαλείας στο παρελθόν.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname }, επειδή δεν μπόρεσε να αποδείξει ότι πληροί τις απαιτήσεις διαφάνειας του δημόσιου πιστοποιητικού.
 cert-error-untrusted-default = Το πιστοποιητικό δεν προέρχεται από αξιόπιστη πηγή.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
