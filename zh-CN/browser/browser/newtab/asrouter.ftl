@@ -243,6 +243,7 @@ device-migration-fxa-spotlight-older-device-primary-button = 创建账户
 device-migration-fxa-spotlight-getting-new-device-header-2 = 打算换新设备？
 device-migration-fxa-spotlight-getting-new-device-body-2 = 只需简单几步，即可将您的书签、历史记录、密码同步至新设备。
 device-migration-fxa-spotlight-getting-new-device-primary-button = 如何备份数据
+device-migration-fxa-spotlight-sync-primary-button = 开始使用
 
 ## Set as Default PDF Reader Infobar
 
@@ -291,3 +292,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = 以后
     .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = 关闭
+    .aria-label = 关闭

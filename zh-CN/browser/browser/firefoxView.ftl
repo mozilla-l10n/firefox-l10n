@@ -233,6 +233,7 @@ firefoxview-dont-remember-history-empty-header = 无内容
 firefoxview-dont-remember-history-empty-description = 保护隐私是我们的首要事项。因此，您可以控制 { -brand-short-name } 所记录的活动。
 firefoxview-dont-remember-history-empty-description-two = 基于当前的设置，{ -brand-short-name } 不会记录您的浏览活动。如有需要，请将历史记录设置<a data-l10n-name="history-settings-url-two">更改为记录历史</a>。
 firefoxview-dont-remember-history-empty-header-2 = 您已控制 { -brand-short-name } 可记录的内容
+firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } 当前不会记录您的浏览历史。若要更改，请<a data-l10n-name="history-settings-url-two">更新历史记录设置</a>。
 
 ##
 
