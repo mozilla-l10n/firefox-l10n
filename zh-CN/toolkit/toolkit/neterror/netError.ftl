@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = 如果您并不熟悉 <b>{ 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 启用了被称为 HTTP 严格传输安全（HSTS）的安全策略，{ -brand-short-name } 只能与其建立安全连接。您无法为此网站添加例外，以访问此网站。
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = 这很可能是网站自身的问题，无法通过您的操作解决。
