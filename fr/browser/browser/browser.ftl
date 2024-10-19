@@ -623,6 +623,18 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Rechercher dans { 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Rechercher avec { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Marque-pages
+urlbar-searchmode-tabs =
+    .label = Onglets
+urlbar-searchmode-history =
+    .label = Historique
+urlbar-searchmode-actions =
+    .label = Actions
+urlbar-searchmode-exit-button =
+    .tooltiptext = Fermer
+urlbar-searchmode-popup-description = Pour cette fois-ci, rechercher avec :
+urlbar-searchmode-popup-search-settings = Paramètres de recherche
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
