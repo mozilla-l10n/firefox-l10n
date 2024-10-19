@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst 
 cert-error-trust-expired-issuer = Þessu skilríki er ekki treyst því skilríki útgefanda er útrunnið.
 cert-error-trust-self-signed = Þessu skilríki er ekki treyst því það er sjálfundirritað.
 cert-error-trust-symantec = Skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thwate og Verisign eru ekki lengur talin örugg vegna þess að þeim hefur áður mistekist að fylgja öryggisvenjum.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } treystir ekki { $hostname } vegna þess að ekki var hægt að sanna að það uppfylli kröfur um gagnsæi opinberra skilríkja.
 cert-error-untrusted-default = Skilríkið kemur ekki frá traustum aðila.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

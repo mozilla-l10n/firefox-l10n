@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ef þú kannast ekki við <
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> er með öryggisstefnu sem kallast HTTP Strict Transport Security (HSTS), sem þýðir að { -brand-short-name } getur aðeins tengst því á öruggan hátt. Þú getur ekki bætt við undantekningu til að heimsækja þetta vefsvæði.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Sennilega ekkert, þar sem það er líklegt að vandamál sé með síðuna sjálfa.

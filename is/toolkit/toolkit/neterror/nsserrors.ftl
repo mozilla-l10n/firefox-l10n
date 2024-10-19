@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Netþjónn sendi skilríki sem inn
 mozilla-pkix-error-empty-issuer-name = Netþjónn sendi skilríki sem var með tómt nafn útgefanda.
 mozilla-pkix-error-additional-policy-constraint-failed = Viðbótaröryggisráðstafanir mistókust við sannreyningu þessa skilríkis.
 mozilla-pkix-error-self-signed-cert = Skilríkinu er ekki treyst því það var undirritað af útgefandanum sjálfum.
+mozilla-pkix-error-issuer-no-longer-trusted = Vottunarstöðin sem gaf út skilríkið missti traust áður en skilríkið var gefið út.
 xp-java-remove-principal-error = Gat ekki fjarlægt umbjóðanda
 xp-java-delete-privilege-error = Get ekki eytt sérréttindunum
 xp-java-cert-not-exists-error = Umbjóðandi er ekki með skilríki
