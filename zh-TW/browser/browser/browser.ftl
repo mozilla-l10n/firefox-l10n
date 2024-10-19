@@ -620,6 +620,14 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜尋{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜尋
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }，挑選一套搜尋引擎
+    .tooltiptext = { $engine }，挑選一套搜尋引擎
+urlbar-searchmode-dropmarker =
+    .tooltiptext = 挑選一套搜尋引擎
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
