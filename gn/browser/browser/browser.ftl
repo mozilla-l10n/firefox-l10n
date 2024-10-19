@@ -641,6 +641,8 @@ urlbar-searchmode-actions =
     .label = Ñemongu’e
 urlbar-searchmode-exit-button =
     .tooltiptext = Mboty
+urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
+urlbar-searchmode-popup-search-settings = Jehekaha ñemboheko
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% henyhẽma
 firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñekytĩ’ỹre
 firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } opaite ne mba’e’okápe
+firefoxview-syncedtabs-signin-primarybutton-2 = Eñemboheraguapy
 firefoxview-syncedtabs-signin-header = Ejapyhy tendayke oimeha guive
 firefoxview-syncedtabs-signin-description = Ehecha hag̃ua ne rendayke oimeraẽva mba’e’oka guive eiporuhápe { -brand-product-name }, eike ne mba’etépe. Ndereguerekóiramo, rombohapéta emoheñoikuaa hag̃ua.
 firefoxview-syncedtabs-signin-primarybutton = Eike térã eñemboheraguapy
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pu
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
 firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe g̃uarã
+firefoxview-syncedtabs-adddevice-header-2 = Ejapyhy tendayke oimeha guive
 firefoxview-syncedtabs-adddevice-header = Eike { -brand-product-name } ndive ambue imba’e’okápe
 firefoxview-syncedtabs-adddevice-description = Ehecha ne rendayke oimeraẽva mba’e’oka guive eiporúvo { -brand-product-name }, eike mba’e’okakuérape. Eikuaa mba’éicha <a data-l10n-name="url">eikéta mba’e’okápe</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
@@ -228,6 +231,7 @@ firefoxview-choose-browser-button = Eiporavo kundahára
 firefoxview-dont-remember-history-empty-header = Ndaipóri jehechaukarã
 firefoxview-dont-remember-history-empty-description = Ne rekoñemi ñemo’ã tuicha mba’e oréve g̃uarã. Upévare ikatu ehechameme tembiapo omomandu’áva { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Pe ñemboheko ko’ag̃agua oĩháicha, { -brand-short-name } naimandu’ái tembiapóre oikundahakuévo. Emoambuekuaa hag̃ua, <a data-l10n-name="history-settings-url-two">emoambue ñemboheko tembiasakuégui</a>.
+firefoxview-dont-remember-history-empty-header-2 = Reikuaa mba’etérehepa nemandu’a { -brand-short-name }
 
 ##
 
