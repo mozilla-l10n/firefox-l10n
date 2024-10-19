@@ -350,7 +350,7 @@ newtab-wallpaper-white-mountains = 皑白山脉
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
-newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 在 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 上发布
+newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 发布于 <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = 试用新色彩
 newtab-wallpaper-feature-highlight-content = 选张壁纸，给新标签页加点新鲜感。
 newtab-wallpaper-feature-highlight-button = 知道了
