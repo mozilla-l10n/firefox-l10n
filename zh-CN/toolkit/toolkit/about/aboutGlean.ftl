@@ -66,5 +66,9 @@ about-glean-adhoc-note =
     这意味着指标类别和指标名称的格式为
     <code>camelCase</code>，这与 Rust 和 C++ API 不同。
 controls-button-label-verbose = 应用设置并提交 ping
+about-glean-feedback-settings-only =
+    .message = 设置已应用！
+about-glean-feedback-settings-and-ping =
+    .message = 设置已应用，并已发送 ping！
 about-glean-about-data-header = 关于数据
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。

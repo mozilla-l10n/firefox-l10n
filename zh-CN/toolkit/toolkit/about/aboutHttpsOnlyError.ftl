@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = 可能是什么原因造成的？
 about-httpsonly-explanation-nosupport = 该网站很可能只是不支持 HTTPS。
 about-httpsonly-explanation-risk = 也可能是有人正企图攻击您。若您还是决定访问此网站的 HTTP 版本，则不应在网站中输入密码、邮箱、信用卡号等敏感信息。
 about-httpsonly-explanation-continue = 若继续，将暂时为此网站关闭 HTTPS-Only 模式。
+about-httpsonly-explanation-iframe = 由于已阻止混合内容，无法手动允许加载此框架。
 about-httpsonly-button-continue-to-site = 继续前往 HTTP 网站
 about-httpsonly-button-go-back = 返回
 about-httpsonly-link-learn-more = 详细了解…
