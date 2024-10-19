@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si no estás familiarizado 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), lo que se traduce en que { -brand-short-name } solo puede conectarse de forma segura. No puedes añadir una excepción para visitar este sitio.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablemente nada, ya que es posible que haya un problema con el sitio en sí.
