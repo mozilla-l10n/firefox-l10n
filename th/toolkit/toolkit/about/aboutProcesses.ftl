@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = เลิกโหลดแท็บและหยุดการทำงานของโพรเซส
+about-processes-kill-process =
+    .title = ฆ่าโปรเซส
 about-processes-shutdown-tab =
     .title = ปิดแท็บ
 # Profiler icons
@@ -50,6 +52,7 @@ about-processes-remote-sandbox-broker-process = ตัวกลาง Sandbox �
 about-processes-fork-server-process = ฟอร์คเซิร์ฟเวอร์ ({ $pid })
 about-processes-preallocated-process = จัดสรรล่วงหน้า ({ $pid })
 about-processes-utility-process = โปรแกรมอรรถประโยชน์ ({ $pid })
+about-processes-inference-process = การอนุมาน ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

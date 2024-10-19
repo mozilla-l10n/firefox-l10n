@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = พิมพ์โดยใช้กล่อง�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ปิดกั้นไม่ให้เยี่ยมชมเว็บไซต์ ดูคู่มือสำหรับรายละเอียดเพิ่มเติมเกี่ยวกับรูปแบบ
 policy-Windows10SSO = อนุญาต Windows single sign-on สำหรับบัญชีที่ทำงานและโรงเรียนของ Microsoft
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = อนุญาต Single Sign-On สำหรับบัญชี Microsoft Entra

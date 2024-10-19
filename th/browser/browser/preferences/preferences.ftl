@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = เปิด { -brand-short-name } โดยอัตโนมัติตอนเปิดเครื่องคอมพิวเตอร์
     .accesskey = ป
 windows-launch-on-login-disabled = การกำหนดลักษณะนี้ถูกปิดใช้งานใน Windows เมื่อต้องการเปลี่ยน ให้ไปที่ <a data-l10n-name="startup-link">แอปเริ่มต้น</a> ในการตั้งค่าระบบ
+windows-launch-on-login-profile-disabled = เปิดใช้งานการกำหนดลักษณะนี้โดยทำเครื่องหมายที่ “{ profile-manager-use-selected.label }” ในหน้าต่าง “เลือกโปรไฟล์ผู้ใช้”
 startup-restore-warn-on-quit =
     .label = เตือนคุณเมื่อออกจากเบราว์เซอร์
 disable-extension =
@@ -624,6 +625,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = แสดงคำค้นหาในแถบที่อยู่บนหน้าผลลัพธ์
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1344,6 +1349,7 @@ space-alert-under-5gb-message2 = <strong>พื้นที่ดิสก์ข
 
 httpsonly-header = โหมด HTTPS-Only
 httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และถ้าเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS
+httpsonly-description2 = { -brand-short-name } จะสร้างการเชื่อมต่อที่ปลอดภัยและผ่านการเข้ารหัสลับไปยังไซต์ที่คุณเยี่ยมชม { -brand-short-name } จะแจ้งเตือนคุณหากการเชื่อมต่อไม่มีความปลอดภัยเมื่อเปิดใช้งาน HTTPS-Only
 httpsonly-learn-more = เรียนรู้เพิ่มเติม
 httpsonly-radio-enabled =
     .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างทั้งหมด

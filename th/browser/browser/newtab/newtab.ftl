@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
 newtab-personalize-dialog-label =
     .aria-label = ปรับให้เป็นแบบส่วนตัว
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -233,6 +235,8 @@ newtab-pocket-cta-button = รับ { -pocket-brand-name }
 newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } เป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = บันทึก
 newtab-pocket-saved = บันทึกแล้ว
 

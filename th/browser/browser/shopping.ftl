@@ -89,6 +89,9 @@ shopping-show-less-button = แสดงน้อยลง
 
 shopping-settings-label =
     .label = การตั้งค่า
+shopping-settings-recommendations-toggle2 =
+    .label = แสดงคำแนะนำและเนื้อหาที่ได้รับการสนับสนุน
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } จะไม่แบ่งปันข้อมูลส่วนตัวของคุณ ดังนั้นคำแนะนำเหล่านี้จะไม่ติดตามคุณไปบนโลกอินเทอร์เน็ต <a data-l10n-name="review-quality-url">เรียนรู้เพิ่มเติม</a>
 shopping-settings-recommendations-toggle =
     .label = แสดงโฆษณาในเครื่องมือตรวจสอบบทวิจารณ์
 shopping-settings-recommendations-learn-more2 = คุณจะเห็นโฆษณาสำหรับผลิตภัณฑ์ที่เกี่ยวข้องเป็นครั้งคราว เราจะโฆษณาเฉพาะผลิตภัณฑ์ที่มีบทวิจารณ์ที่เชื่อถือได้เท่านั้น <a data-l10n-name="review-quality-url">เรียนรู้เพิ่มเติม</a>
