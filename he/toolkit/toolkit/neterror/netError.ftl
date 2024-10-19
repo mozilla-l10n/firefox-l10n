@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = אם <b>{ $mitm }</b> אי�
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = ל־<b>{ $hostname }</b> יש מדיניות אבטחה בשם אבטחת תעבורה מחמירה של HTTP ‏(HSTS), כלומר { -brand-short-name } יכול להתחבר לאתר באופן מאובטח בלבד. לא ניתן להוסיף חריגה כדי לבקר באתר זה.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו.
