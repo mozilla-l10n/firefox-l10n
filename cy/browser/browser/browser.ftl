@@ -639,6 +639,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Chwilio { $localSe
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Chwilio gyda { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, Dewiswch Beiriant Chwilio
+    .tooltiptext = { $engine }, Dewiswch Beiriant Chwilio
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Dewiswch Beiriant Chwilio
+urlbar-searchmode-bookmarks =
+    .label = Nodau Tudalen
+urlbar-searchmode-tabs =
+    .label = Tabiau
+urlbar-searchmode-history =
+    .label = Hanes
+urlbar-searchmode-actions =
+    .label = Gweithredoedd
+urlbar-searchmode-exit-button =
+    .tooltiptext = Cau
+urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
+urlbar-searchmode-popup-search-settings = Gosodiadau chwilio
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% wedi'i gwblhau
 firefoxview-tabpickup-step-signin-header = Symud yn rhwydd rhwng dyfeisiau
 firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma, mewngofnodwch yn gyntaf neu greu cyfrif.
 firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
+firefoxview-syncedtabs-signin-header-2 = Eich { -brand-product-name } ar eich holl ddyfeisiau
+firefoxview-syncedtabs-signin-description-2 = I weld tabiau sydd gennych ar agor ar eich ffôn a dyfeisiau eraill, mewngofnodwch neu cofrestrwch am gyfrif. Gyda chyfrif, gallwch hefyd gydweddu'ch cyfrineiriau, hanes, a mwy.
+firefoxview-syncedtabs-signin-primarybutton-2 = Mewngofnodi
 firefoxview-syncedtabs-signin-header = Cipio tabiau o unrhyw le
 firefoxview-syncedtabs-signin-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch i'ch cyfrif. Os nad oes gennych gyfrif, byddwn yn mynd â chi drwy'r camau i gofrestru.
 firefoxview-syncedtabs-signin-primarybutton = Mewngofnodi neu gofrestru
@@ -39,6 +42,7 @@ firefoxview-tabpickup-adddevice-header = Cydweddwch { -brand-product-name } ar e
 firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
 firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
 firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar gyfer symudol
+firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
 firefoxview-syncedtabs-adddevice-header = Mewngofnodwch i { -brand-product-name } ar eich dyfeisiau eraill
 firefoxview-syncedtabs-adddevice-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch ar eich holl ddyfeisiau. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
