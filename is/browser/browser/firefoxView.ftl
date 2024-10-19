@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% lokið
 firefoxview-tabpickup-step-signin-header = Skiptu hiklaust á milli tækja
 firefoxview-tabpickup-step-signin-description = Til að grípa símaflipana hér, skaltu fyrst skrá þig inn eða búa til reikning.
 firefoxview-tabpickup-step-signin-primarybutton = Halda áfram
+firefoxview-syncedtabs-signin-header-2 = Náðu í { -brand-product-name } fyrir öll tækin þín
+firefoxview-syncedtabs-signin-primarybutton-2 = Innskráning
 firefoxview-syncedtabs-signin-header = Gríptu flipa með þér hvert sem er
 firefoxview-syncedtabs-signin-description = Til að sjá flipana þína hvar sem þú notar { -brand-product-name } skaltu skrá þig inn á reikninginn þinn. Ef þú ert ekki með reikning, munum við leiðbeina þér í gegnum þau skref sem þarf til að nýskrá þig.
 firefoxview-syncedtabs-signin-primarybutton = Skráðu þig inn eða nýskráðu þig
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Samstilltu { -brand-product-name } á s
 firefoxview-tabpickup-adddevice-description = Sæktu { -brand-product-name } fyrir farsíma og skráðu þig inn þar.
 firefoxview-tabpickup-adddevice-learn-how = Lærðu hvernig
 firefoxview-tabpickup-adddevice-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
+firefoxview-syncedtabs-adddevice-header-2 = Gríptu flipa með þér hvaðan sem er
 firefoxview-syncedtabs-adddevice-header = Skráðu þig inn á { -brand-product-name } í hinum tækjunum þínum
 firefoxview-syncedtabs-adddevice-description = Til að sjá flipana þína hvar sem þú notar { -brand-product-name } skaltu skrá þig inn á öllum tækjunum þínum. Skoðaðu hvernig á að <a data-l10n-name="url">tengja fleiri tæki</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prófaðu { -brand-product-name } fyrir farsíma
@@ -228,6 +231,7 @@ firefoxview-choose-browser-button = Veldu vafra
 firefoxview-dont-remember-history-empty-header = Ekkert til að sýna
 firefoxview-dont-remember-history-empty-description = Að vernda friðhelgi þína er kjarninn í því sem við gerum. Þess vegna geturðu stjórnað hvaða virkni { -brand-short-name } kemur til með að muna.
 firefoxview-dont-remember-history-empty-description-two = Miðað við núverandi stillingar þínar, mun { -brand-short-name } ekki skrá virkni þína við vafur. Til að breyta því, skaltu <a data-l10n-name="history-settings-url-two">breyta ferlistillingunum þínum í að muna vafrið þitt</a>.
+firefoxview-dont-remember-history-empty-header-2 = Þú hefur stjórn á því sem { -brand-short-name } man
 
 ##
 
