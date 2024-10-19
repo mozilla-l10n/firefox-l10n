@@ -246,6 +246,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = ਤੁਹਾਡੇ 
 device-migration-fxa-spotlight-getting-new-device-body-2 = ਜਦੋਂ ਤੁਸੀਂ ਨਵੇਂ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਉਣ ਲਈ ਅੱਗੇ ਦਿੱਤੇ ਕੁਝ ਪੜਾਅ ਪੂਰੇ ਕਰੋ।
 device-migration-fxa-spotlight-getting-new-device-primary-button = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਕਿਵੇਂ ਲਈਏ
 device-migration-fxa-spotlight-sync-header = ਬਿਨਾਂ ਪਲ਼ ਖੁੰਝਾਏ ਬਰਾਊਜ਼ ਕਰੋ
+device-migration-fxa-spotlight-sync-body = ਆਪਣੀ ਸਾਰੀ ਜ਼ਰੂਰੀ ਜਾਣਕਾਰੀ — ਜਿਵੇਂ ਬੁੱਕਮਾਰਕ ਤੇ ਪਾਸਵਰਡ, ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸਿੰਕ ਕਰੋ। ਤੁਸੀਂ ਹਰ ਚੀਜ਼ ਨੂੰ ਕਿਤੇ ਵੀ ਲੈ ਸਕਦੇ ਹੋ, ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-product-name } ਵਰਤਦੇ ਹੋ।
 device-migration-fxa-spotlight-sync-primary-button = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Set as Default PDF Reader Infobar

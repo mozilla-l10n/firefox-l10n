@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = ਡਿਵਾਈਸ ਵਿਚਾਲੇ
 firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
 firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
 firefoxview-syncedtabs-signin-header-2 = ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡਾ { -brand-product-name }
+firefoxview-syncedtabs-signin-description-2 = ਤੁਹਾਡੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿਚ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਖਾਤੇ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਆਦਿ ਨੂੰ ਵੀ ਸਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।
 firefoxview-syncedtabs-signin-primarybutton-2 = ਸਾਈਨ ਇਨ
 firefoxview-syncedtabs-signin-header = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
 firefoxview-syncedtabs-signin-description = ਕਿਤੋਂ ਵੀ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਵਾਸਤੇ { -brand-product-name } ਵਰਤੋਂ। ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ ਤਾਂ ਅਸੀਂ ਸਾਈਨ ਅੱਪ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ।
@@ -232,6 +233,8 @@ firefoxview-choose-browser-button = ਬਰਾਊਜ਼ਰ ਚੁਣੋ
 firefoxview-dont-remember-history-empty-header = ਵੇਖਾਉਣ ਲਈ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ
 firefoxview-dont-remember-history-empty-description = ਅਸੀਂ ਜੋ ਵੀ ਕਰਦੇ ਹਾਂ, ਉਸ ਲਈ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਹਮੇਸ਼ਾਂ ਸਾਹਮਣੇ ਰੱਖਦੇ ਹਾਂ। ਇਸੇ ਕਰਕੇ ਤੁਸੀਂ { -brand-short-name } ਵਲੋਂ ਯਾਦ ਰੱਖਣ ਦੀ ਸਰਗਰਮੀ ਉੱਤੇ ਕੰਟਰੋਲ ਰੱਖ ਸਕਦੇ ਹੋ।
 firefoxview-dont-remember-history-empty-description-two = ਤੁਹਾਡੀਆਂ ਸੈਟਿੰਗਾਂ ਦੇ ਮੁਤਾਬਕ { -brand-short-name } ਬਰਾਊਜ਼ਰ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ। ਉਸ ਨੂੰ ਬਦਲਣ ਲਈ <a data-l10n-name="history-settings-url-two">ਆਪਣੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖਣ ਲਈ ਬਦਲੋ</a>।
+firefoxview-dont-remember-history-empty-header-2 = ਤੁਸੀਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ ਕਿ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖਦਾ ਹੈ
+firefoxview-dont-remember-history-empty-description-one = ਇਸ ਵੇਲੇ { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖਦਾ ਹੈ। ਉਸ ਨੂੰ ਬਦਲਣ ਲਈ <a data-l10n-name="history-settings-url-two">ਆਪਣੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।</a>
 
 ##
 
