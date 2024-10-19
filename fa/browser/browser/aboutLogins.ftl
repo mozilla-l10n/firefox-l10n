@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = به تنظیمات> همگام‌ساز
 login-intro-instructions-fxa-passwords-help = برای راهنمایی بیشتر به <a data-l10n-name="passwords-help-link">پشتیبانی مربوط به گذرواژه</a> مراجعه کنید.
 about-logins-intro-browser-only-import = اگر اطلاعات ورود شما در یک مرورگر دیگر ذخیره شده است، شما می‌توانید <a data-l10n-name="import-link">آن‌ها را به { -brand-product-name } منتقل کنید</a>
 about-logins-intro-import2 = اگر ورودهای شما خارج از { -brand-product-name } ذخیره شده‌اند، می‌توانید <a data-l10n-name="import-browser-link">آنها را از مرورگری دیگر</a> یا <a data-l10n-name="import-file-link">از طریق یک پرونده</a> وارد کنید
+about-logins-intro-import3 = برای افزودن گذرواژه، دکمه علامت مثبت را انتخاب کنید. همچنین می‌توانید <a data-l10n-name="import-browser-link">گذرواژه‌ها را از مرورگر دیگری درون‌ریزی کنید</a> یا <a data-l10n-name="import-file-link">از یک پرونده درون‌ریزی کنید</a>.
 
 ## Login
 
@@ -172,6 +173,13 @@ about-logins-edit-login-os-auth-dialog-message-win = برای ویرایش ور�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] تغییر تنظیمات برای گذرواژه‌ها
+       *[other] { -brand-short-name } در حال تلاش برای تغییر تنظیمات برای گذرواژه‌ها است. برای اجازه این کار، با دستگاه خود وارد شوید.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = برای ویرایش گذرواژه، اطلاعات ورود به سیستم ویندوز خود را وارد کنید. این به محافظت از امنیت حساب‌های شما کمک می‌کند.
 # This message can be seen when attempting to edit a login in about:logins
@@ -192,6 +200,8 @@ about-logins-export-password-os-auth-dialog-message-win = برای برون‌ر
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = برون‌ریزی ورودها و گذرواژه‌های ذخیره‌شده
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = برای برون‌ریزی گذرواژه، اطلاعات گواهی ورود به ویندوز خود را وارد کنید. این به محافظت از امنیت حساب‌های شما کمک می‌کند.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = استخراج گذرواژه‌های نگهداری شده
@@ -254,7 +264,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { NUMBER($count) ->
         [1] بله، گذرواژه را حذف کنید
-       *[other] Yes, remove passwords
+       *[other] بله، گذرواژه‌ها را حذف کنید
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
