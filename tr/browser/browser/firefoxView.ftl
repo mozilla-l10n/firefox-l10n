@@ -232,6 +232,8 @@ firefoxview-choose-browser-button = Tarayıcı seç
 firefoxview-dont-remember-history-empty-header = Gösterilecek bir şey yok
 firefoxview-dont-remember-history-empty-description = Yaptığımız işin merkezinde gizliliğinizi korumak var. Bu yüzden, { -brand-short-name } tarayıcınızın hatırlayacağı etkinlikleri kendiniz seçebilirsiniz.
 firefoxview-dont-remember-history-empty-description-two = Mevcut ayarlarınıza göre { -brand-short-name } siz internette gezinirken etkinliklerinizi hatırlamıyor. Bunu değiştirmek için <a data-l10n-name="history-settings-url-two">geçmiş ayarlarınızı geçmişinizi hatırlayacak şekilde değiştirebilirsiniz</a>.
+firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name } tarayıcınızın neleri hatırlayacağı sizin kontrolünüzde
+firefoxview-dont-remember-history-empty-description-one = Şu anda { -brand-short-name } gezdiğiniz sayfaları hatırlamıyor. Bunu değiştirmek için <a data-l10n-name="history-settings-url-two">geçmiş ayarlarınızı güncelleyebilirsiniz</a>.
 
 ##
 
