@@ -616,6 +616,20 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜索{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜索
+urlbar-searchmode-dropmarker =
+    .tooltiptext = 选取搜索引擎
+urlbar-searchmode-bookmarks =
+    .label = 书签
+urlbar-searchmode-tabs =
+    .label = 标签页
+urlbar-searchmode-history =
+    .label = 历史记录
+urlbar-searchmode-actions =
+    .label = 操作
+urlbar-searchmode-exit-button =
+    .tooltiptext = 关闭
+urlbar-searchmode-popup-description = 本次搜索使用：
+urlbar-searchmode-popup-search-settings = 搜索设置
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
