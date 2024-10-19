@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% klar
 firefoxview-tabpickup-step-signin-header = Växla enkelt mellan enheter
 firefoxview-tabpickup-step-signin-description = För att se de öppna flikarna på din telefon, logga in eller skapa ett konto.
 firefoxview-tabpickup-step-signin-primarybutton = Fortsätt
+firefoxview-syncedtabs-signin-header-2 = Ditt { -brand-product-name } på alla dina enheter
+firefoxview-syncedtabs-signin-description-2 = För att se flikar du har öppna på din telefon och andra enheter, logga in eller registrera dig för ett konto. Med ett konto kan du också synkronisera dina lösenord, historik och mer.
+firefoxview-syncedtabs-signin-primarybutton-2 = Logga in
 firefoxview-syncedtabs-signin-header = Hämta flikar var du än befinner dig
 firefoxview-syncedtabs-signin-description = Logga in på ditt konto om du vill se dina flikar var du än använder { -brand-product-name }. Om du inte har ett konto tar vi dig genom stegen för att registrera dig.
 firefoxview-syncedtabs-signin-primarybutton = Logga in eller registrera dig
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Synkronisera { -brand-product-name } p�
 firefoxview-tabpickup-adddevice-description = Ladda ner { -brand-product-name } för mobil och logga in där.
 firefoxview-tabpickup-adddevice-learn-how = Läs mer
 firefoxview-tabpickup-adddevice-primarybutton = Hämta { -brand-product-name } för mobil
+firefoxview-syncedtabs-adddevice-header-2 = Hämta flikar från överallt
+firefoxview-syncedtabs-adddevice-description-2 = Logga in på { -brand-product-name } på din telefon eller en annan dator för att se flikar här. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-syncedtabs-adddevice-header = Logga in på { -brand-product-name } på dina andra enheter
 firefoxview-syncedtabs-adddevice-description = Om du vill se dina flikar var du än använder { -brand-product-name }, loggar du in på alla dina enheter. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova { -brand-product-name } för mobil
@@ -228,6 +233,8 @@ firefoxview-choose-browser-button = Välj webbläsare
 firefoxview-dont-remember-history-empty-header = Inget att visa
 firefoxview-dont-remember-history-empty-description = Att skydda din integritet är kärnan i vad vi gör. Det är därför du kan kontrollera den aktivitet som { -brand-short-name } kommer ihåg.
 firefoxview-dont-remember-history-empty-description-two = Baserat på dina nuvarande inställningar kommer inte { -brand-short-name } ihåg din aktivitet när du surfar. För att ändra det, <a data-l10n-name="history-settings-url-two">ändra dina historikinställningar för att komma ihåg din historik</a>.
+firefoxview-dont-remember-history-empty-header-2 = Du har kontroll över vad { -brand-short-name } kommer ihåg
+firefoxview-dont-remember-history-empty-description-one = Just nu kommer inte { -brand-short-name } ihåg din surfaktivitet. För att ändra det, <a data-l10n-name="history-settings-url-two">uppdatera dina historikinställningar</a>.
 
 ##
 

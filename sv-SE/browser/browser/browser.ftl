@@ -620,6 +620,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Sök { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Sök med { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, välj en sökmotor
+    .tooltiptext = { $engine }, välj en sökmotor
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Välj en sökmotor
+urlbar-searchmode-bookmarks =
+    .label = Bokmärken
+urlbar-searchmode-tabs =
+    .label = Flikar
+urlbar-searchmode-history =
+    .label = Historik
+urlbar-searchmode-actions =
+    .label = Åtgärder
+urlbar-searchmode-exit-button =
+    .tooltiptext = Stäng
+urlbar-searchmode-popup-description = Denna gång, sök med:
+urlbar-searchmode-popup-search-settings = Sökinställningar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
