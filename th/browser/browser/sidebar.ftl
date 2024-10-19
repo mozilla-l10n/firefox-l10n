@@ -52,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = แท็บแนวนอน
 sidebar-customize-tabs-header =
     .label = การตั้งค่าแท็บ
+sidebar-customize-button-header =
+    .label = ปุ่มแถบข้าง
+sidebar-customize-position-header =
+    .label = ตำแหน่งแถบข้าง
+sidebar-visibility-setting-always-show =
+    .label = ขยายและยุบแถบข้าง
+sidebar-visibility-setting-hide-sidebar =
+    .label = แสดงและซ่อนแถบข้าง
 sidebar-customize-settings-header =
     .label = การตั้งค่าแถบข้าง
 sidebar-visibility-always-show =
@@ -126,5 +134,17 @@ sidebar-syncedtabs-title = แท็บจากอุปกรณ์อื่�
 synced-tabs-context-close-tab-title =
     .title = ปิดแท็บบน { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = ขยายแถบข้าง
+    .label = แถบข้าง
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = ยุบแถบข้าง
+    .label = แถบข้าง
+sidebar-widget-show-sidebar =
+    .tooltiptext = แสดงแถบข้าง
+    .label = แถบข้าง
+sidebar-widget-hide-sidebar =
+    .tooltiptext = ซ่อนแถบข้าง
+    .label = แถบข้าง

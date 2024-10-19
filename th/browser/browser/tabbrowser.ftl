@@ -146,3 +146,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = เปิดเสียงแท็บ
 tabbrowser-manager-close-tab =
     .tooltiptext = ปิดแท็บ
+
+## Tab Groups
+
+tab-group-editor-title-create = สร้างกลุ่มแท็บ
+tab-group-editor-title-edit = จัดการกลุ่มแท็บ
+tab-group-editor-name-label = ชื่อ
+tab-group-editor-name-field =
+    .placeholder = ตัวอย่าง: ซื้อของ
+tab-group-editor-cancel =
+    .label = ยกเลิก
+    .accesskey = ย

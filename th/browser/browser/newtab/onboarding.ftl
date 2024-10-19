@@ -189,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] เก็บ { -brand-short-name } ลงใน Dock
        *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงาน
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = ปักหมุด { -brand-short-name } เข้ากับแถบงานและเมนูเริ่ม
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -339,6 +341,7 @@ onboarding-device-migration-primary-button-label = ลงชื่อเข้�
 ## Add-ons Picker screen
 
 amo-picker-title = ปรับแต่ง { -brand-short-name } ของคุณ
+amo-picker-subtitle = ส่วนขยายนั้นเหมือนกับแอปสำหรับเบราว์เซอร์ของคุณ และช่วยให้คุณปกป้องรหัสผ่าน ดาวน์โหลดวิดีโอ ค้นหาโปรโมชั่น ปิดกั้นโฆษณาที่น่ารำคาญ เปลี่ยนรูปลักษณ์ของเบราว์เซอร์ของคุณ และทำสิ่งต่างๆ ได้อีกมากมาย
 amo-picker-install-button-label = เพิ่มไปยัง { -brand-short-name }
 amo-picker-install-complete-label = ติดตั้งแล้ว
 amo-picker-collection-link = สำรวจส่วนเสริมเพิ่มเติม
@@ -376,5 +379,9 @@ onboarding-new-user-survey-familiarity-based-option-4 = ฉันเคยใช
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = บอกเราว่าคุณต้องการให้แท็บของคุณอยู่ตรงไหน
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = คุณสามารถเปลี่ยนได้เมื่อใดที่คุณต้องการในการตั้งค่าแถบข้าง
 onboarding-flair-text = ใหม่!
 onboarding-genai-sidebar-secondary-button = เริ่มต้นการเรียกดู
