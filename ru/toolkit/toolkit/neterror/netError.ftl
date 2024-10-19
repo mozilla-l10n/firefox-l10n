@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Если вы не знак
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что { -brand-short-name } может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Вероятно, ничего, так как, вероятно, возникла проблема с самим сайтом.

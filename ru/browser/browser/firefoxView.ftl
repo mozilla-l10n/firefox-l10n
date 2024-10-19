@@ -235,6 +235,7 @@ firefoxview-dont-remember-history-empty-header = Нет информации
 firefoxview-dont-remember-history-empty-description = Защита вашей конфиденциальности лежит в основе того, что мы делаем. Вот почему вы можете контролировать активность, которую помнит { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Основываясь на ваших текущих настройках, { -brand-short-name } не запоминает ваши действия во время просмотра. Чтобы изменить это, <a data-l10n-name="history-settings-url-two">отредактируйте настройки истории для её запоминания</a>.
 firefoxview-dont-remember-history-empty-header-2 = Вы контролируете то, что запоминает { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = В данный момент { -brand-short-name } не запоминает вашу активность в Интернете. Чтобы изменить это, <a data-l10n-name="history-settings-url-two">обновите настройки истории</a>.
 
 ##
 

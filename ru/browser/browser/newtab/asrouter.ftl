@@ -249,6 +249,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Создать ак
 device-migration-fxa-spotlight-getting-new-device-header-2 = Собираетесь перейти на новое устройство?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Выполните несколько простых шагов, чтобы перенести свои закладки, историю и пароли, когда начнете работу на новом устройстве.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как сделать резервную копию моих данных
+device-migration-fxa-spotlight-sync-header = Сёрфите, не пропуская ни секунды
+device-migration-fxa-spotlight-sync-body = Синхронизируйте всю важную информацию, такую как закладки и пароли, с помощью шифрования. Вы можете просматривать всё, где бы вы ни использовали { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Начало работы
 
 ## Set as Default PDF Reader Infobar
 
