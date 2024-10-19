@@ -623,6 +623,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } – Sykje yn { $loca
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Sykje mei { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, kies in sykmasine
+    .tooltiptext = { $engine }, kies in sykmasine
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Kies in sykmasine
+urlbar-searchmode-bookmarks =
+    .label = Blêdwizers
+urlbar-searchmode-tabs =
+    .label = Ljepblêden
+urlbar-searchmode-history =
+    .label = Skiednis
+urlbar-searchmode-actions =
+    .label = Aksjes
+urlbar-searchmode-exit-button =
+    .tooltiptext = Slute
+urlbar-searchmode-popup-description = Diskear sykje mei:
+urlbar-searchmode-popup-search-settings = Sykynstellingen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

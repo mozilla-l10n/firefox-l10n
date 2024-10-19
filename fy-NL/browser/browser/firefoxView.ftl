@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% foltôge
 firefoxview-tabpickup-step-signin-header = Wikselje maklik tusken apparaten
 firefoxview-tabpickup-step-signin-description = Meld jo earst oan of meitsje in account om hjir de ljepblêden fan jo telefoan te iepenjen.
 firefoxview-tabpickup-step-signin-primarybutton = Trochgean
+firefoxview-syncedtabs-signin-header-2 = Jo { -brand-product-name } op al jo apparaten
+firefoxview-syncedtabs-signin-primarybutton-2 = Oanmelde
 firefoxview-syncedtabs-signin-header = Pak oeral ljepblêden
 firefoxview-syncedtabs-signin-description = Meld jo oan by jo account om jo ljepblêden te besjen, net achte wêr’t jo { -brand-product-name } brûke. As jo gjin account hawwe, sille wy jo troch de stappen liede om jo te registrearjen.
 firefoxview-syncedtabs-signin-primarybutton = Oanmelde of registrearje
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } op jo telefoan 
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } foar mobyl en meld jo dêr oan.
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
+firefoxview-syncedtabs-adddevice-header-2 = Pak oeral ljepblêden
 firefoxview-syncedtabs-adddevice-header = Meld jo oan by { -brand-product-name } op jo oare apparaten
 firefoxview-syncedtabs-adddevice-description = Meld jo oan op al jo apparaten om jo ljepblêden te besjen, wêr’t jo { -brand-product-name } ek brûke. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute</a>
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
