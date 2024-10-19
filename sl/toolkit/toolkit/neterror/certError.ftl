@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Digitalno potrdilo ni vredno zau
 cert-error-trust-expired-issuer = Digitalno potrdilo ni vredno zaupanja, ker je njegov izdajatelj potekel.
 cert-error-trust-self-signed = Digitalno potrdilo ni vredno zaupanja, ker se je samo podpisalo.
 cert-error-trust-symantec = Digitalna potrdila, ki jih izdajajo GeoTrust, RapidSSL, Symantec, Thawte in VeriSign, ne veljajo več za varna, ker te organizacije v preteklosti niso sledile varnostnim praksam.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker mu ni uspelo dokazati, da izpolnjuje zahteve glede preglednosti javnih potrdil.
 cert-error-untrusted-default = Digitalno potrdilo ne prihaja iz zaupanja vrednega vira.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
