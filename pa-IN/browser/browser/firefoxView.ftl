@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ਪੂਰਾ
 firefoxview-tabpickup-step-signin-header = ਡਿਵਾਈਸ ਵਿਚਾਲੇ ਸਹਿਜ ਨਾਲ ਬਦਲੋ
 firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
 firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
+firefoxview-syncedtabs-signin-header-2 = ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡਾ { -brand-product-name }
+firefoxview-syncedtabs-signin-primarybutton-2 = ਸਾਈਨ ਇਨ
 firefoxview-syncedtabs-signin-header = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
 firefoxview-syncedtabs-signin-description = ਕਿਤੋਂ ਵੀ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਵਾਸਤੇ { -brand-product-name } ਵਰਤੋਂ। ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ ਤਾਂ ਅਸੀਂ ਸਾਈਨ ਅੱਪ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ।
 firefoxview-syncedtabs-signin-primarybutton = ਸਾਈਨ ਇਨ ਜਾਂ ਸਾਈਨ ਅੱਪ ਕਰੋ
@@ -39,6 +41,8 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } ਨੂੰ ਆ�
 firefoxview-tabpickup-adddevice-description = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-adddevice-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ
+firefoxview-syncedtabs-adddevice-header-2 = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
+firefoxview-syncedtabs-adddevice-description-2 = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ { -brand-product-name } ਸਾਈਨ ਇਨ ਕਰਕੇ ਟੈਬਾਂ ਇੱਥੇ ਵੇਖੋ। <a data-l10n-name="url">ਹੋਰ ਡਿਵਾਈਸ ਕਨੈਕਟ</a> ਲਈ ਸਿੱਖੋ।
 firefoxview-syncedtabs-adddevice-header = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
 firefoxview-syncedtabs-adddevice-description = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-product-name } ਨੂੰ ਵਰਤੋਂ, ਓਥੇ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਾਈਨ ਇਨ ਕਰੋ। <a data-l10n-name="url">ਹੋਰ ਡਿਵਾਈਸਾਂ ਨਾਲ ਕਨੈਕਟ</a> ਕਰਨ ਬਾਰੇ ਸਿੱਖੋ।
 firefoxview-syncedtabs-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਵਰਤ ਕੇ ਵੇਖੋ

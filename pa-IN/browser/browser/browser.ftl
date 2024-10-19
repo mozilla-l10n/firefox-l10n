@@ -628,6 +628,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ਨਾਲ ਖੋਜੋ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
+    .tooltiptext = { $engine }, ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
+urlbar-searchmode-dropmarker =
+    .tooltiptext = ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
+urlbar-searchmode-bookmarks =
+    .label = ਬੁੱਕਮਾਰਕ
+urlbar-searchmode-tabs =
+    .label = ਟੈਬਾਂ
+urlbar-searchmode-history =
+    .label = ਅਤੀਤ
+urlbar-searchmode-actions =
+    .label = ਕਾਰਵਾਈਆਂ
+urlbar-searchmode-exit-button =
+    .tooltiptext = ਬੰਦ ਕਰੋ
+urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
+urlbar-searchmode-popup-search-settings = ਖੋਜ ਸੈਟਿੰਗਾਂ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-older-device-primary-button = ਖਾਤਾ ਬਣ
 device-migration-fxa-spotlight-getting-new-device-header-2 = ਤੁਹਾਡੇ ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ?
 device-migration-fxa-spotlight-getting-new-device-body-2 = ਜਦੋਂ ਤੁਸੀਂ ਨਵੇਂ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਉਣ ਲਈ ਅੱਗੇ ਦਿੱਤੇ ਕੁਝ ਪੜਾਅ ਪੂਰੇ ਕਰੋ।
 device-migration-fxa-spotlight-getting-new-device-primary-button = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਕਿਵੇਂ ਲਈਏ
+device-migration-fxa-spotlight-sync-primary-button = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Set as Default PDF Reader Infobar
 
