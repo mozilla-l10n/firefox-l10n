@@ -60,6 +60,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = ถาม { $provider }…
+genai-shortcuts-hide =
+    .label = ซ่อนทางลัดบอตสนทนา
 
 ## Chatbot header
 
@@ -70,22 +72,62 @@ genai-header-options-button =
     .title = เปิดเมนู
 genai-header-close-button =
     .title = ปิด
+genai-provider-view-details =
+    .label = ดูรายละเอียดบอตสนทนา
+genai-provider-about-chatbots =
+    .label = เกี่ยวกับบอตสนทนาเหล่านี้
+genai-options-reload-generic =
+    .label = โหลดบอตสนทนา AI ใหม่
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = โหลด { $provider } ใหม่
+genai-options-show-shortcut =
+    .label = แสดงทางลัดเมื่อเลือกข้อความ
+genai-options-hide-shortcut =
+    .label = ซ่อนทางลัดเมื่อเลือกข้อความ
+genai-options-about-chatbot =
+    .label = เกี่ยวกับบอตสนทนา AI ใน { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = สรุป ระดมความคิด และทำสิ่งต่างๆ ขณะที่คุณท่องเว็บ
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = เลือกบอตสนทนา AI ที่จะใช้ในแถบข้างของ { -brand-short-name } เราจะแสดงรายละเอียดเกี่ยวกับบอตสนทนาแต่ละตัวเมื่อคุณเลือกบอตสนทนาตัวนั้น คุณสามารถเปลี่ยนบอตสนทนาได้ตลอดเวลา <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 genai-onboarding-primary = ดำเนินการต่อ
 genai-onboarding-secondary = ปิด
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
+genai-onboarding-claude-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ ChatGPT
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
+genai-onboarding-gemini-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-huggingchat-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+genai-onboarding-lechat-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Le Chat
+genai-onboarding-select-header = เลือกข้อความเพื่อดูคำแนะนำ
+genai-onboarding-select-description = เมื่อคุณเลือกข้อความ เราจะแนะนำพรอมต์ที่คุณสามารถส่งไปยังบอตสนทนาได้ คุณยังสามารถเขียนพรอมต์ของคุณเองได้ด้วย
+genai-onboarding-select-primary = เริ่มสนทนา
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = สร้างข้อความและโค้ด
+genai-onboarding-claude-analyze = วิเคราะห์เอกสารและภาพ
+genai-onboarding-claude-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งาน
+genai-onboarding-chatgpt-generate = สร้างข้อความ ภาพ และโค้ด
+genai-onboarding-chatgpt-analyze = วิเคราะห์เอกสารและภาพ
+genai-onboarding-chatgpt-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งานสำหรับบางประเทศและงานบางอย่าง
+genai-onboarding-gemini-generate = สร้างข้อความ ภาพ และโค้ด
+genai-onboarding-gemini-analyze = วิเคราะห์ภาพ (ฟรี) และเอกสาร (ชำระเงิน)
+genai-onboarding-gemini-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งาน
+genai-onboarding-huggingchat-generate = สร้างข้อความและโค้ด
+genai-onboarding-huggingchat-switch = เปลี่ยนไปใช้โมเดลแบบเปิดต่างๆ ซึ่งมีให้เลือกหลากหลาย
+genai-onboarding-huggingchat-price = ฟรี แต่ต้องมีบัญชีสำหรับงานบางอย่าง
+genai-onboarding-lechat-generate = สร้างข้อความและโค้ด
+genai-onboarding-lechat-price = ฟรี แต่ต้องมีบัญชีเพื่อใช้งาน
