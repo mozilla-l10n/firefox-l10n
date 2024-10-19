@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar
 firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
 firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar gyfer symudol
 firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
+firefoxview-syncedtabs-adddevice-description-2 = Mewngofnodwch i { -brand-product-name } ar eich ffôn neu gyfrifiadur arall i weld tabiau yma. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-header = Mewngofnodwch i { -brand-product-name } ar eich dyfeisiau eraill
 firefoxview-syncedtabs-adddevice-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch ar eich holl ddyfeisiau. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
@@ -236,6 +237,8 @@ firefoxview-choose-browser-button = Dewiswch borwr
 firefoxview-dont-remember-history-empty-header = Dim byd i'w ddangos
 firefoxview-dont-remember-history-empty-description = Mae diogelu eich preifatrwydd wrth wraidd yr hyn a wnawn. Dyna pam y gallwch reoli'r gweithgaredd y mae { -brand-short-name } yn ei gofio.
 firefoxview-dont-remember-history-empty-description-two = Yn seiliedig ar eich gosodiadau presennol, nid yw { -brand-short-name } yn cofio eich gweithgarwch wrth i chi bori. I newid hynny, <a data-l10n-name="history-settings-url-two">newidiwch eich gosodiadau hanes i gofio eich hanes</a>.
+firefoxview-dont-remember-history-empty-header-2 = Chi sy'n rheoli beth mae { -brand-short-name } yn ei gofio
+firefoxview-dont-remember-history-empty-description-one = Ar hyn o bryd, nid yw { -brand-short-name } yn cofio eich gweithgarwch pori. I newid hynny, <a data-l10n-name="history-settings-url-two">diweddarwch eich gosodiadau hanes</a>.
 
 ##
 

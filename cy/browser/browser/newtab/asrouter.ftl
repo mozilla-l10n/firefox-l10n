@@ -258,6 +258,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Crëwch gyfrif
 device-migration-fxa-spotlight-getting-new-device-header-2 = Dyfais newydd yn eich dyfodol?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Dilynwch ychydig o gamau syml i ddod â'ch nodau tudalen, hanes, a chyfrineiriau gyda chi pan fyddwch chi'n dechrau ar ddyfais newydd.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sut i wneud copi wrth gefn o fy nata
+device-migration-fxa-spotlight-sync-header = Pori'n ddi-lol
+device-migration-fxa-spotlight-sync-body = Cydweddwch eich holl fanylion pwysig gydag amgryptio - fel nodau tudalen a chyfrineiriau. Gallwch amlygu popeth lle bynnag rydych yn defnyddio { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Cychwyn arni
 
 ## Set as Default PDF Reader Infobar
 

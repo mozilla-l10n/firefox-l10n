@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Nid oes ymddiriedaeth i'r dystys
 cert-error-trust-expired-issuer = Nid oes modd ymddiried yn y dystysgrif oherwydd bod y dystysgrif ryddhau wedi dod i ben.
 cert-error-trust-self-signed = Nid oes modd ymddiried yn y dystysgrif am ei fod wedi ei hunanlofnodi.
 cert-error-trust-symantec = Nid yw tystysgrifau a gyhoeddwyd gan GeoTrust, RapidSSL, Symantec, Thawte, a VeriSign bellach yn cael eu hystyried yn ddiogel oherwydd nad oedd yr awdurdodau tystysgrif hyn yn dilyn arferion diogelwch yn y gorffennol.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = Nid yw { -brand-short-name } yn ymddiried yn { $hostname } oherwydd nid yw'n gallu profi ei fod yn bodloni gofynion tryloywder tystysgrif gyhoeddus.
 cert-error-untrusted-default = Nid yw'r dystysgrif yn dod o fan gellir ymddiried ynddo.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
