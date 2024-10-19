@@ -12,6 +12,7 @@ elevation-finished-page = การอัปเดตพร้อมติดต
 elevation-finished-background-page = ดาวน์โหลดการอัปเดตความปลอดภัยและเสถียรภาพสำหรับ { -brand-short-name } แล้วและพร้อมติดตั้ง
 elevation-finished-background = อัปเดต:
 elevation-more-elevated = การอัปเดตนี้ต้องการสิทธิของผู้ดูแลระบบ การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ { -brand-short-name } เริ่ม คุณสามารถเริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้ ทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง หรือปฏิเสธการอัปเดตนี้
+sandbox-missing-unprivileged-namespaces = คุณลักษณะด้านความปลอดภัยบางอย่างของ { -brand-short-name } อาจให้การป้องกันน้อยลงบนระบบปฏิบัติการปัจจุบันของคุณ
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = ไม่ต้องแสดงอีก
     .accesskey = D

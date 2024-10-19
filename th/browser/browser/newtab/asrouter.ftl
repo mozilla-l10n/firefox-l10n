@@ -282,9 +282,15 @@ tail-fox-spotlight-secondary-button = ยังไม่ทำตอนนี้
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } รุ่นเก่าๆ อาจจะเริ่มมีปัญหาในการทำงานตั้งแต่วันที่ 14 มกราคม 2025</strong>
+root-certificate-succession-infobar-march-message = <strong>อัปเดตเพื่อใช้ { -brand-short-name } ต่อไปหลังจากวันที่ 14 มีนาคม 2025</strong>
+root-certificate-succession-infobar-link = ทำไมฉันถึงต้องอัปเดต?
 root-certificate-succession-infobar-primary-button =
     .label = อัปเดตตอนนี้
     .accesskey = U
 root-certificate-succession-infobar-secondary-button =
     .label = ภายหลัง
     .accesskey = L
+
+## FxA Menu Message variants
+
