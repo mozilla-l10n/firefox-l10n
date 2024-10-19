@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = حساب خود را تایید کنید
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = حساب کاربری
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = این رایانه اکنون به { $deviceName } متصل است.
@@ -93,3 +96,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } زبانه دریافت شد
        *[other] { $tabCount } زبانه دریافت شدند
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
