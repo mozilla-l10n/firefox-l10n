@@ -620,6 +620,12 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Αναζήτηση
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Αναζήτηση με { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, Επιλογή μηχανής αναζήτησης
+    .tooltiptext = { $engine }, Επιλογή μηχανής αναζήτησης
 urlbar-searchmode-dropmarker =
     .tooltiptext = Επιλογή μηχανής αναζήτησης
 urlbar-searchmode-bookmarks =
