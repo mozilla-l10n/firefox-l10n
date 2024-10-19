@@ -246,6 +246,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Búa til reikning
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nýtt tæki í framtíðinni?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Fylgdu nokkrum einföldum skrefum til að hafa bókamerkin þín, feril og lykilorð með þér þegar þú byrjar á nýju tæki.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hvernig tek ég öryggisafrit af gögnunum mínum
+device-migration-fxa-spotlight-sync-header = Vafraðu án þess að missa úr takti
+device-migration-fxa-spotlight-sync-body = Samstilltu allar mikilvægar upplýsingar þínar með dulritun - til að mynda bókamerki og lykilorð. Þú getur dregið allt fram hvar svo sem þú notar { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Hefjast handa
 
 ## Set as Default PDF Reader Infobar
 

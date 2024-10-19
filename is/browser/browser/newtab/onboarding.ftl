@@ -381,6 +381,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ég hef notaði það á
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Segðu okkur hvar þú vilt hafa flipana þína
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Skiptu um þetta hvenær sem er í stillingum hliðarstikunnar.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Flipar til hliðar
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -389,9 +391,28 @@ onboarding-new-horizontal-tabs-label = Flipar efst
 onboarding-existing-tabs-title = Lóðréttir flipar eru hér
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Kynntu þér lóðrétta flipa
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prófaðu flipana þína til hliðar. Breyttu því hvenær sem þú vilt í stillingum hliðarstikunnar.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Prófa lóðrétta flipa
 onboarding-flair-text = Nýtt!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Halda láréttum flipum
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Vafragluggi sem sýnir flipa meðfram hlið skjásins sem hluta af { -brand-shorter-name } hliðarstikunni.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Vafragluggi sem sýnir flipa meðfram hlið skjásins sem hluta af { -brand-shorter-name } hliðarstikunni.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Vafragluggi sem sýnir flipa efst.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Vafragluggi sem sýnir flipa efst.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prófaðu gervigreindar-spjallkerfi í hliðarstikunni
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Taktu saman yfirlit í efni á vefnum, fáðu hugmyndir, gerðu drög að skilaboðum - allt á meðan þú vafrar. Veldu úr mörgum þjónustuveitum. Skiptu um hvenær sem er. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+onboarding-genai-sidebar-primary-button = Veldu spjallkerfi
 onboarding-genai-sidebar-secondary-button = Fara að vafra

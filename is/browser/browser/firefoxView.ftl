@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Sæktu { -brand-product-name } fyr
 firefoxview-tabpickup-adddevice-learn-how = Lærðu hvernig
 firefoxview-tabpickup-adddevice-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
 firefoxview-syncedtabs-adddevice-header-2 = Gríptu flipa með þér hvaðan sem er
+firefoxview-syncedtabs-adddevice-description-2 = Skráðu þig inn á { -brand-product-name } í símanum þínum eða annarri tölvu til að sjá flipana þína hér. Lærðu hvernig á að <a data-l10n-name="url">tengja fleiri tæki</a>.
 firefoxview-syncedtabs-adddevice-header = Skráðu þig inn á { -brand-product-name } í hinum tækjunum þínum
 firefoxview-syncedtabs-adddevice-description = Til að sjá flipana þína hvar sem þú notar { -brand-product-name } skaltu skrá þig inn á öllum tækjunum þínum. Skoðaðu hvernig á að <a data-l10n-name="url">tengja fleiri tæki</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prófaðu { -brand-product-name } fyrir farsíma
