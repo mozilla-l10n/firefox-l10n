@@ -245,6 +245,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Emoheñói mba’et
 device-migration-fxa-spotlight-getting-new-device-header-2 = ¿Eikesépa mba’e’oka pyahúpe?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ejapo koichaite eguerekokuaa hag̃ua techaukaha, tembiasakue ha ñe’ẽñemi eiporu ñepyrũ vove mba’e’oka pyahu.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
+device-migration-fxa-spotlight-sync-header = Eikundaha eheja’ỹre mba’eve
+device-migration-fxa-spotlight-sync-primary-button = Eñepyrũ
 
 ## Set as Default PDF Reader Infobar
 
