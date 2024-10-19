@@ -282,3 +282,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = מאוחר יותר
     .accesskey = מ
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = סגירה
+    .aria-label = סגירה

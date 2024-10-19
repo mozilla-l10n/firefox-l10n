@@ -31,12 +31,16 @@ firefoxview-tabpickup-step-signin-header = מעבר חלק בין מכשירים
 firefoxview-tabpickup-step-signin-description = כדי לקבל כאן את הלשוניות שלך מהטלפון, תחילה יש להיכנס או צור חשבון.
 firefoxview-tabpickup-step-signin-primarybutton = המשך
 firefoxview-syncedtabs-signin-header-2 = ה־{ -brand-product-name } שלך בכל המכשירים שלך
+firefoxview-syncedtabs-signin-description-2 = כדי לראות לשוניות שפתחת בטלפון ובמכשירים האחרים שלך, יש להיכנס או להירשם לחשבון. עם חשבון, באפשרותך גם לסנכרן את הססמאות, ההיסטוריה שלך ועוד.
+firefoxview-syncedtabs-signin-primarybutton-2 = כניסה
 firefoxview-syncedtabs-signin-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר לחשבון שלך. אם אין לך חשבון, אנו נדריך אותך בשלבי ההרשמה.
 firefoxview-syncedtabs-signin-primarybutton = התחברות או הרשמה
 firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 firefoxview-tabpickup-adddevice-description = יש להוריד את { -brand-product-name } לנייד ולהתחבר שם.
 firefoxview-tabpickup-adddevice-learn-how = מידע נוסף
 firefoxview-tabpickup-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
+firefoxview-syncedtabs-adddevice-header-2 = לקבל את הלשוניות מכל מקום
+firefoxview-syncedtabs-adddevice-description-2 = יש להתחבר ל־{ -brand-product-name } בטלפון שלך או במחשב אחר כדי לראות לשוניות כאן. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
 firefoxview-syncedtabs-adddevice-header = כניסה אל { -brand-product-name } במכשירים האחרים שלך
 firefoxview-syncedtabs-adddevice-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר בכל המכשירים שלך. למידע נוסף על <a data-l10n-name="url">כיצד לחבר מכשירים נוספים</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
@@ -222,6 +226,8 @@ firefoxview-choose-browser-button = בחירת דפדפן
 firefoxview-dont-remember-history-empty-header = אין מה לראות כאן
 firefoxview-dont-remember-history-empty-description = ליבת העשייה שלנו היא להגן על הפרטיות שלך. זוהי הסיבה שבאפשרותך לשלוט בפעילות ש־{ -brand-short-name } זוכר.
 firefoxview-dont-remember-history-empty-description-two = בהתבסס על ההגדרות הנוכחיות שלך, { -brand-short-name } לא זוכר את הפעילות שלך תוך כדי גלישה. כדי לשנות זאת, ניתן <a data-l10n-name="history-settings-url-two">לשנות את הגדרות ההיסטוריה שלך כדי לזכור את ההיסטוריה שלך</a>.
+firefoxview-dont-remember-history-empty-header-2 = באפשרותך לשלוט על מה ש־{ -brand-short-name } יזכור
+firefoxview-dont-remember-history-empty-description-one = כרגע, { -brand-short-name } לא זוכר את פעילות הגלישה שלך. כדי לשנות זאת, יש <a data-l10n-name="history-settings-url-two">לעדכן את הגדרות ההיסטוריה שלך</a>.
 
 ##
 
