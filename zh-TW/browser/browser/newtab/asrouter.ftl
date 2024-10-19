@@ -243,6 +243,9 @@ device-migration-fxa-spotlight-older-device-primary-button = 註冊帳號
 device-migration-fxa-spotlight-getting-new-device-header-2 = 打算要換新裝置？
 device-migration-fxa-spotlight-getting-new-device-body-2 = 只要有幾個簡單步驟，就可以將書籤、瀏覽紀錄、密碼帶到新裝置上面立即使用。
 device-migration-fxa-spotlight-getting-new-device-primary-button = 如何備份我的資料
+device-migration-fxa-spotlight-sync-header = 上網不漏拍
+device-migration-fxa-spotlight-sync-body = 將您的重要資訊（書籤、網站密碼等）加密後進行同步。這樣就可以隨時隨地透過同一套資料使用 { -brand-product-name }。
+device-migration-fxa-spotlight-sync-primary-button = 開始使用
 
 ## Set as Default PDF Reader Infobar
 

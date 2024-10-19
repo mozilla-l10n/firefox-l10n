@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = 若您不了解 <b>{ $mitm 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 有一條稱為 HTTP Strict Transport Security (HSTS) 的安全性政策，讓 { -brand-short-name } 僅能與其進行安全連線。您無法加入例外，手動排除此政策。
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = 可能無法由您解決，因為這通常是網站本身的問題。

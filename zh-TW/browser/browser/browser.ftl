@@ -628,6 +628,18 @@ urlbar-searchmode-button =
     .tooltiptext = { $engine }，挑選一套搜尋引擎
 urlbar-searchmode-dropmarker =
     .tooltiptext = 挑選一套搜尋引擎
+urlbar-searchmode-bookmarks =
+    .label = 書籤
+urlbar-searchmode-tabs =
+    .label = 分頁
+urlbar-searchmode-history =
+    .label = 瀏覽紀錄
+urlbar-searchmode-actions =
+    .label = 動作
+urlbar-searchmode-exit-button =
+    .tooltiptext = 關閉
+urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：
+urlbar-searchmode-popup-search-settings = 搜尋設定
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

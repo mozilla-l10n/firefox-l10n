@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
 firefoxview-tabpickup-step-signin-header = 無縫切換裝置
 firefoxview-tabpickup-step-signin-description = 請先登入或註冊帳號，即可在此處接收手機上的分頁。
 firefoxview-tabpickup-step-signin-primarybutton = 繼續
+firefoxview-syncedtabs-signin-header-2 = 在您所有裝置有同步的 { -brand-product-name }
+firefoxview-syncedtabs-signin-description-2 = 請登入或註冊帳號，即可在您的手機或其他裝置檢視您開啟的分頁。您可以使用帳號同步網站密碼、上網紀錄，還有更多功能。
+firefoxview-syncedtabs-signin-primarybutton-2 = 登入
 firefoxview-syncedtabs-signin-header = 取回所有裝置上的分頁
 firefoxview-syncedtabs-signin-description = 登入帳號後，即可看到您所有使用 { -brand-product-name } 的裝置開啟的分頁。若沒有帳號，我們可帶您完成註冊。
 firefoxview-syncedtabs-signin-primarybutton = 登入或註冊
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = 與您的手機或平板電腦同步 { 
 firefoxview-tabpickup-adddevice-description = 下載 { -brand-product-name } 行動版並在該裝置登入。
 firefoxview-tabpickup-adddevice-learn-how = 了解要怎麼做
 firefoxview-tabpickup-adddevice-primarybutton = 下載 { -brand-product-name } 行動版
+firefoxview-syncedtabs-adddevice-header-2 = 取回所有裝置上的分頁
+firefoxview-syncedtabs-adddevice-description-2 = 在手機或另一台電腦登入 { -brand-product-name } 即可在此看到分頁。了解如何<a data-l10n-name="url">連結其他裝置</a>。
 firefoxview-syncedtabs-adddevice-header = 在您其他裝置上的 { -brand-product-name } 也登入
 firefoxview-syncedtabs-adddevice-description = 請在您所有使用的裝置都登入 { -brand-product-name }，才能看到所有地方開啟的分頁。了解如何<a data-l10n-name="url">連結更多裝置</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 試用 { -brand-product-name } 行動版
@@ -224,6 +229,8 @@ firefoxview-choose-browser-button = 選擇瀏覽器
 firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
 firefoxview-dont-remember-history-empty-description = 保護您的隱私是我們的第一要務。這也是為什麼您可以自行設定要讓 { -brand-short-name } 記得哪些瀏覽行為。
 firefoxview-dont-remember-history-empty-description-two = 依照您目前的設定，{ -brand-short-name } 不會記得您的上網行為。要改變此設定，<a data-l10n-name="history-settings-url-two">請將設定調整為要記得您的瀏覽紀錄</a>。
+firefoxview-dont-remember-history-empty-header-2 = 您可以自行掌控 { -brand-short-name } 要記得哪些資訊
+firefoxview-dont-remember-history-empty-description-one = 目前 { -brand-short-name } 不會記憶您的上網行為，若要調整這個行為，請<a data-l10n-name="history-settings-url-two">更改瀏覽紀錄設定</a>。
 
 ##
 
