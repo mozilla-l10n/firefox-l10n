@@ -623,6 +623,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } – Zoeken in { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Zoeken met { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, kies een zoekmachine
+    .tooltiptext = { $engine }, kies een zoekmachine
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Kies een zoekmachine
+urlbar-searchmode-bookmarks =
+    .label = Bladwijzers
+urlbar-searchmode-tabs =
+    .label = Tabbladen
+urlbar-searchmode-history =
+    .label = Geschiedenis
+urlbar-searchmode-actions =
+    .label = Acties
+urlbar-searchmode-exit-button =
+    .tooltiptext = Sluiten
+urlbar-searchmode-popup-description = Deze keer zoeken met:
+urlbar-searchmode-popup-search-settings = Zoekinstellingen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

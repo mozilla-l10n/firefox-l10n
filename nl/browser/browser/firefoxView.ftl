@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% voltooid
 firefoxview-tabpickup-step-signin-header = Schakel naadloos tussen apparaten
 firefoxview-tabpickup-step-signin-description = Meld u eerst aan of maak een account aan om hier de tabbladen van uw telefoon op te halen.
 firefoxview-tabpickup-step-signin-primarybutton = Doorgaan
+firefoxview-syncedtabs-signin-header-2 = Uw { -brand-product-name } op al uw apparaten
+firefoxview-syncedtabs-signin-primarybutton-2 = Aanmelden
 firefoxview-syncedtabs-signin-header = Pak overal tabbladen
 firefoxview-syncedtabs-signin-description = Meld u aan bij uw account om uw tabbladen te bekijken, ongeacht waar u { -brand-product-name } gebruikt. Als u geen account hebt, zullen we u door de stappen leiden om u in te schrijven.
 firefoxview-syncedtabs-signin-primarybutton = Aanmelden of inschrijven
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } op uw telefoon 
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } voor mobiel en meld u daar aan.
 firefoxview-tabpickup-adddevice-learn-how = Meer info
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } voor mobiel downloaden
+firefoxview-syncedtabs-adddevice-header-2 = Pak overal tabbladen
 firefoxview-syncedtabs-adddevice-header = Meld u aan bij { -brand-product-name } op uw andere apparaten
 firefoxview-syncedtabs-adddevice-description = Meld u aan op al uw apparaten om uw tabbladen te bekijken, waar u { -brand-product-name } ook gebruikt. Lees hoe u <a data-l10n-name="url">extra apparaten aansluit</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } voor mobiel proberen

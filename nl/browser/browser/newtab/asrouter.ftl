@@ -246,6 +246,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Een account aanmake
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nieuw apparaat in de toekomst?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Volg een paar eenvoudige stappen om uw bladwijzers, geschiedenis en wachtwoorden mee te nemen als u op een nieuw apparaat aan de slag gaat.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hoe maak ik een reservekopie van mijn gegevens
+device-migration-fxa-spotlight-sync-primary-button = Beginnen
 
 ## Set as Default PDF Reader Infobar
 
