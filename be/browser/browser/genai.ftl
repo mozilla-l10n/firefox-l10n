@@ -111,8 +111,21 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Даведацца больш пра Le Chat
 genai-onboarding-select-header = Вылучыце тэкст, каб убачыць прапановы
+genai-onboarding-select-description = Калі вы вылучыце тэкст, мы прапануем запрашэнні, якія вы можаце адправіць чат-боту. Вы таксама можаце напісаць уласныя запрашэнні.
+genai-onboarding-select-primary = Пачаць чат
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Стварэнне тэксту і коду
+genai-onboarding-claude-analyze = Аналіз дакументаў і відарысаў
+genai-onboarding-claude-price = Бясплатныя і платныя варыянты; патрэбен уліковы запіс
+genai-onboarding-chatgpt-generate = Стварэнне тэксту, малюнкаў і коду
+genai-onboarding-chatgpt-analyze = Аналіз дакументаў і відарысаў
+genai-onboarding-chatgpt-price = Бясплатныя і платныя варыянты; уліковы запіс патрэбен для некаторых краін і задач
+genai-onboarding-gemini-generate = Стварэнне тэксту, малюнкаў і коду
+genai-onboarding-gemini-analyze = Аналіз відарысаў (бясплатна) і дакументаў (платна)
+genai-onboarding-gemini-price = Бясплатныя і платныя варыянты; патрэбен уліковы запіс
+genai-onboarding-huggingchat-generate = Стварэнне тэксту і коду
+genai-onboarding-huggingchat-switch = Пераключайцеся паміж разнастайным наборам адкрытых мадэляў
 genai-onboarding-lechat-price = Бясплатна; патрэбен уліковы запіс
