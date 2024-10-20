@@ -98,6 +98,12 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Zvolte chatbota AI, kterého chcete používat v postranním panelu  { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+       *[no-cases] Zvolte chatbota AI, kterého chcete používat v postranním panelu aplikace  { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+    }
 genai-onboarding-primary = Pokračovat
 genai-onboarding-secondary = Zavřít
 genai-onboarding-claude-tooltip =
