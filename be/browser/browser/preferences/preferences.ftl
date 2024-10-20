@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Адкрываць { -brand-short-name } аўтаматычна пры запуску камп'ютара
     .accesskey = ў
 windows-launch-on-login-disabled = Гэты параметр быў адключаны ў Windows. Каб змяніць яго, адкрыйце <a data-l10n-name="startup-link">Аўтазагрузка праграм</a> у наладах сістэмы.
+windows-launch-on-login-profile-disabled = Уключыце гэты параметр, адзначыўшы «{ profile-manager-use-selected.label }» у акне «Выбар профілю карыстальніка».
 startup-restore-warn-on-quit =
     .label = Папярэджваць пры выхадзе з браўзера
 disable-extension =
@@ -644,6 +645,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Паказваць пошукавыя прапановы пры выкарыстанні адраснага радка
     .accesskey = п
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Паказваць пошукавыя тэрміны ў адрасным радку на старонках вынікаў
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
