@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершено
 firefoxview-tabpickup-step-signin-header = Легко перемикайтеся між пристроями
 firefoxview-tabpickup-step-signin-description = Щоб побачити тут вкладки зі свого телефона, спершу увійдіть або зареєструйтеся.
 firefoxview-tabpickup-step-signin-primarybutton = Продовжити
+firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на всіх ваших пристроях
+firefoxview-syncedtabs-signin-description-2 = Щоб переглянути вкладки, відкриті на телефоні й інших пристроях, увійдіть в обліковий запис або зареєструйтеся. За допомогою облікового запису ви також можете синхронізувати свої паролі, історію та інші дані.
+firefoxview-syncedtabs-signin-primarybutton-2 = Увійти
 firefoxview-syncedtabs-signin-header = Отримайте доступ до своїх вкладок звідусіль
 firefoxview-syncedtabs-signin-description = Щоб побачити свої вкладки на інших пристроях, на яких ви користуєтеся { -brand-product-name }, увійдіть у свій обліковий запис. Якщо у вас немає облікового запису, ми допоможемо вам зареєструватися.
 firefoxview-syncedtabs-signin-primarybutton = Увійти або зареєструватися
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Синхронізуйте { -brand-pro
 firefoxview-tabpickup-adddevice-description = Завантажте { -brand-product-name } для мобільного та виконайте вхід на ньому.
 firefoxview-tabpickup-adddevice-learn-how = Навчитися
 firefoxview-tabpickup-adddevice-primarybutton = Отримати { -brand-product-name } для мобільного
+firefoxview-syncedtabs-adddevice-header-2 = Отримайте доступ до своїх вкладок звідусіль
+firefoxview-syncedtabs-adddevice-description-2 = Увійдіть у { -brand-product-name } на своєму телефоні чи іншому комп'ютері, щоб переглянути тут вкладки. Дізнайтеся, як <a data-l10n-name="url">під'єднати інші пристрої</a>.
 firefoxview-syncedtabs-adddevice-header = Увійдіть у { -brand-product-name } на інших своїх пристроях
 firefoxview-syncedtabs-adddevice-description = Щоб побачити свої вкладки з інших пристроїв, на яких ви користуєтеся { -brand-product-name }, увійдіть на всіх своїх пристроях. Дізнайтеся, як <a data-l10n-name="url">під'єднати додаткові пристрої</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Спробуйте { -brand-product-name } для мобільних пристроїв
@@ -229,6 +234,8 @@ firefoxview-choose-browser-button = Вибрати браузер
 firefoxview-dont-remember-history-empty-header = Немає елементів для показу
 firefoxview-dont-remember-history-empty-description = Захист вашої приватності – основа нашої діяльності. Ось чому ви можете контролювати діяльність, яку запам'ятовує { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = На основі поточних налаштувань, { -brand-short-name } не зберігає ваші дії під час перегляду. <a data-l10n-name="history-settings-url-two">Змініть налаштування</a>, щоб історія зберігалась.
+firefoxview-dont-remember-history-empty-header-2 = Ви контролюєте, що запам'ятовує { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = Наразі { -brand-short-name } не запам'ятовує вашу історію перегляду. Щоб змінити це, <a data-l10n-name="history-settings-url-two">оновіть налаштування історії</a>.
 
 ##
 

@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Сервер представив 
 mozilla-pkix-error-empty-issuer-name = Сервер представив сертифікат із порожньою розпізнаваною назвою видавця.
 mozilla-pkix-error-additional-policy-constraint-failed = Під час перевірки цього сертифіката виявлено порушення обмежень додаткової політики.
 mozilla-pkix-error-self-signed-cert = Сертифікат не є надійним, оскільки він самопідписаний.
+mozilla-pkix-error-issuer-no-longer-trusted = Центр сертифікації, який видав сертифікат, не був довіреним під час видачі сертифіката.
 xp-java-remove-principal-error = Не вдалося вилучити довірителя
 xp-java-delete-privilege-error = Не вдалося вилучити привілей
 xp-java-cert-not-exists-error = Цей довіритель не має сертифіката
