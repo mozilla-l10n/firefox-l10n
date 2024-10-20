@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Закрыць дублікаты картак
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Закрыць усе дублікаты картак
+all-tabs-menu-synced-tabs =
+    .label = Карткі з іншых прылад

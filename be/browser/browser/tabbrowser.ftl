@@ -196,3 +196,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Раз-цішыць картку
 tabbrowser-manager-close-tab =
     .tooltiptext = Закрыць картку
+
+## Tab Groups
+
+tab-group-editor-title-create = Стварыць групу картак
+tab-group-editor-title-edit = Кіраваць групай картак
+tab-group-editor-name-label = Назва
+tab-group-editor-name-field =
+    .placeholder = Прыклад: Шопінг
+tab-group-editor-cancel =
+    .label = Скасаваць
+    .accesskey = С
