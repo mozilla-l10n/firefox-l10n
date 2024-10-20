@@ -583,5 +583,7 @@ onboarding-horizontal-tabs-description =
     .aria-description = Okno prohlížeče s panely v horní části.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Vyzkoušejte AI chatbota v postranní liště
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Shrnujte webový obsah, využívejte nové nápady, koncepty zpráv – to vše během prohlížení. Vyberte si z více poskytovatelů. Přepnout můžete kdykoli. <a data-l10n-name="learn-more">Zjistit více</a>
 onboarding-genai-sidebar-primary-button = Vyberte si chatbota
 onboarding-genai-sidebar-secondary-button = Začít prohlížet
