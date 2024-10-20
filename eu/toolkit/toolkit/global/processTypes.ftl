@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Web edukia
 # process used to run privileged about pages,
@@ -17,6 +16,8 @@ process-type-privilegedmozilla = Pribilegiodun Mozilla edukia
 process-type-extension = Hedapena
 # process used to open file:// URLs
 process-type-file = Fitxategi lokala
+# process used to instantiate new child processes
+process-type-forkserver = Fork zerbitzaria
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolatutako web edukia
@@ -28,7 +29,6 @@ process-type-prealloc = Aurrez esleituta
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Nagusia
 process-type-tab = Fitxa
@@ -39,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Socketa
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferentzia
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Isolatutako IPC aktorea
 process-type-utility-actor-audio-decoder-generic = Audio-deskodetzaile arruntaren tresna
@@ -51,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Windows File Dialog tresna
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Ezezaguna

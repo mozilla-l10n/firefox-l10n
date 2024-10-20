@@ -67,6 +67,7 @@ contentanalysis-block-dialog-body-clipboard = Zure erakundearen datuen babeserak
 contentanalysis-block-dialog-title-dropped-text = Ez duzu eduki hau jaregiteko baimenik
 contentanalysis-block-dialog-body-dropped-text = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau arrastatu eta jaregiteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-print = Ez duzu dokumentu hau inprimatzeko baimenik
+contentanalysis-block-dialog-body-print = Zure erakundearen datuen babeserako politiken pean, ez duzu dokumentu hau inprimatzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-inprogress-quit-title = Irten { -brand-shorter-name }(e)tik?
 contentanalysis-inprogress-quit-message = Hainbat ekintza lanean ari dira. { -brand-shorter-name }(e)tik irtenez gero, ekintza hauek ez dira burutuko.
 contentanalysis-inprogress-quit-yesbutton = Bai, irten
