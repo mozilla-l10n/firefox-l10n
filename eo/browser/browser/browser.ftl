@@ -1079,7 +1079,7 @@ file-picker-failed-save-nowhere = Ne eblis malfermi la dosieran dialogon de Wind
 file-picker-crashed-open = La dosiera dialogo de Windows paneis. Neniu dosierujo aŭ dosiero estis elektita.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La dosiera dialogo de Windows paneis. La dosiero estos konservita en { $path }.
-file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu dosierujo aŭ dosiero estis elektita.. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
+file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
