@@ -235,6 +235,7 @@ firefoxview-dont-remember-history-empty-header = Nic tu nie ma
 firefoxview-dont-remember-history-empty-description = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje.
 firefoxview-dont-remember-history-empty-description-two = Z powodu obecnych ustawień { -brand-short-name } nie zapamiętuje tego, co przeglądasz. Możesz zmienić <a data-l10n-name="history-settings-url-two">ustawienia historii</a>, aby to pamiętał.
 firefoxview-dont-remember-history-empty-header-2 = Masz kontrolę nad tym, co { -brand-short-name } zapamiętuje
+firefoxview-dont-remember-history-empty-description-one = W tej chwili { -brand-short-name } nie zapamiętuje tego, co przeglądasz. Możesz zmienić <a data-l10n-name="history-settings-url-two">ustawienia historii</a>.
 
 ##
 
