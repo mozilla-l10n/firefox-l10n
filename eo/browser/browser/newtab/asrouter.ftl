@@ -245,6 +245,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Krei konton
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ĉu vi planas akiri novan aparaton?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Sekfu kelkajn simplajn paŝojn por kunporti kun vi viajn legosignojn, historion kaj pasvortojn kiam vi komencas uzi novan aparaton.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kiel fari sekurkopion de miaj datumoj
+device-migration-fxa-spotlight-sync-header = Retumi sen maltrafi ion ajn
+device-migration-fxa-spotlight-sync-body = Ĉifrite spegulu ĉiujn viajn gravajn informojn — ekzemple legosignojn kaj pasvortojn. Vi povas aliri ĉion denove el ie ajn per { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Unuaj paŝoj
 
 ## Set as Default PDF Reader Infobar
 
@@ -281,3 +284,11 @@ tail-fox-spotlight-title = Forpelu nedeziratajn spurilojn
 tail-fox-spotlight-subtitle = Adiaŭu nedeziratajn reklamajn spurilojn kaj ĝuu pli sekuran kaj rapidan sperton retuman.
 tail-fox-spotlight-primary-button = Malfermi miajn ligilojn per { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ne nun
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Malnovaj versioj de { -brand-short-name } povus ekhavi problemojn ekde la 14a de januaro 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Por povi plu uzi { -brand-short-name } post la 14a de marto 2025, bonvolu ĝisdatigi ĝin.</strong>
+
+## FxA Menu Message variants
+
