@@ -47,6 +47,15 @@ callout-pdfjs-draw-button = Mi komprenis!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Ĉu vi ne volis fermi tiun langeton?
+fx-view-discoverability-subtitle = Rapide serĉi kaj remalfermu ĝin ĉi tie. Ni gardas por vi historion de viaj antaŭ nelonge fermitaj langetoj.
+fx-view-discoverability-primary-button-label = Malfermi { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Ignori
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Ne plu montri tiun ĉi rekomendon
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Montri malpli da rekomendoj
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Administri agordojn

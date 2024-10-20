@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = A.I. dialoganto
+menu-view-review-checker =
+    .label = Kontrolilo de recenzoj
 
 ## Labels for sidebar history panel
 
@@ -50,6 +52,14 @@ sidebar-horizontal-tabs =
     .label = Horizontalaj langetoj
 sidebar-customize-tabs-header =
     .label = Agordoj de langetoj
+sidebar-customize-button-header =
+    .label = Butono de flanka strio
+sidebar-customize-position-header =
+    .label = Pozicio de flanka strio
+sidebar-visibility-setting-always-show =
+    .label = Faldi kaj malfaldi flankan strion
+sidebar-visibility-setting-hide-sidebar =
+    .label = Montri kaj kaŝi flankan strion
 sidebar-customize-settings-header =
     .label = Agordoj de la flanka strio
 sidebar-visibility-always-show =
@@ -95,6 +105,8 @@ sidebar-menu-bookmarks-label =
     .label = Legosignoj
 sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
+sidebar-menu-review-checker-label =
+    .label = Kontrolilo de recenzoj
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +116,14 @@ sidebar-menu-history-header =
     .heading = Historio
 sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
+sidebar-panel-header-close-button =
+    .tooltiptext = Fermi
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personecigi la flankan strion
+sidebar-history-title = Historio
+sidebar-syncedtabs-title = Langetoj el aliaj aparatoj
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +133,18 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermi langeton en { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Malfaldi flankan strion
+    .label = Flankaj strioj
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Faldi flankan strion
+    .label = Flankaj strioj
+sidebar-widget-show-sidebar =
+    .tooltiptext = Montri flankan strion
+    .label = Flankaj strioj
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Kaŝi flankan strion
+    .label = Flankaj strioj

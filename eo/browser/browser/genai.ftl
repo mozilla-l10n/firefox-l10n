@@ -60,3 +60,58 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Demandi al { $provider }…
+genai-shortcuts-hide =
+    .label = Kaŝi ŝparvojon al dialoganto
+
+## Chatbot header
+
+genai-chatbot-title = A.I. dialoganto
+genai-header-provider-menu =
+    .title = Elekti dialoganton
+genai-header-options-button =
+    .title = Malfermi menuon
+genai-header-close-button =
+    .title = Fermi
+genai-provider-view-details =
+    .label = Montri detalojn de la dialoganto
+genai-provider-about-chatbots =
+    .label = Informoj pri tiuj ĉi dialogantoj
+genai-options-reload-generic =
+    .label = Reŝargi A.I. dialoganton
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Reŝargi { $provider }
+genai-options-show-shortcut =
+    .label = Montri ŝparvojon dum elekto de teksto
+genai-options-hide-shortcut =
+    .label = Kaŝi ŝparvojon dum elekto de teksto
+genai-options-about-chatbot =
+    .label = Informoj pri A.I. dialogantoj en { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Resumu, trovu ideojn kaj pli, dum vi retumas
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Elektu A.I. dialoganton por uzi en la flanka strio de { -brand-short-name }. Ni montros detalojn pri ĉiu dialoganto kiam vi elektas ĝin. Ŝanĝu la dialoganton iam ajn. <a data-l10n-name="learn-more">Pli da informo</a>
+genai-onboarding-primary = Daŭrigi
+genai-onboarding-secondary = Fermi
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Pli da informo pri Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Pli da informo pri ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Pli da informo pri Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Pli da informo pri HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Pli da informo pri Le Chat
+genai-onboarding-select-header = Elektu tekston por vidi sugestojn
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
