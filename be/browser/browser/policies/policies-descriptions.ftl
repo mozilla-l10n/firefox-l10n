@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Друкаваць з дапамогай сіст
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Забараніць наведванне вэб-сайтаў. За падрабязнасцямі фармату гл. дакументацыю.
 policy-Windows10SSO = Дазволіць адзіны ўваход Windows для ўліковых запісаў Microsoft, працоўных і школьных уліковых запісаў.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Дазволіць адзіны ўваход для ўліковых запісаў Microsoft Entra.

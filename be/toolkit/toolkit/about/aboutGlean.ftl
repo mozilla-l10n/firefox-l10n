@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Гэта азначае, што катэгорыя метрыкі і назва метрыкі адфарматаваны ў
     <code>camelCase</code> у адрозненне ад API Rust і C++.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
+about-glean-feedback-settings-only =
+    .message = Налады прыменены!
+about-glean-feedback-settings-and-ping =
+    .message = Налады прыменены і пінг адпраўлены!
 about-glean-about-data-header = Пра звесткі
 about-glean-about-data-explanation =
     Каб прагледзець спіс сабраных звестак, звярніцеся да
