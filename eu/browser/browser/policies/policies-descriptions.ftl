@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Inprimatu sistemaren inprimatzeko elkarrizketa-koa
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
 policy-Windows10SSO = Baimendu Windows saio-hasiera bakarra (SSO) Microsoft-, laneko eta eskolako kontuentzat.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Baimendu saio-hasiera bakarra Microsoft Entra kontuetarako.
