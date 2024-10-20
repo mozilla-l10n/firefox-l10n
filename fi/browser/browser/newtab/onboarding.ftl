@@ -400,5 +400,7 @@ onboarding-flair-text = Uutta!
 onboarding-existing-horizontal-tabs-label = Pidä vaakasuuntaiset välilehdet
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Kokeile AI-chatbottia sivupalkissa
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Tee yhteenveto verkkosivun sisällöstä, pohdi ideoita ja luonnostele viestejä – kaikki selaamisen aikana. Valitse useista palveluntarjoajista. Vaihda milloin tahansa. <a data-l10n-name="learn-more">Lisätietoja</a>
 onboarding-genai-sidebar-primary-button = Valitse chatbotti
 onboarding-genai-sidebar-secondary-button = Aloita selaaminen

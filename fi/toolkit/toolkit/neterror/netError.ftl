@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jos et tunne <b>{ $mitm }</
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Sivusto <b>{ $hostname }</b> noudattaa tietoturvakäytäntöä nimeltään HTTP Strict Transport Security (HSTS), mikä tarkoittaa, että { -brand-short-name } voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Luultavasti ei mitään, koska todennäköisesti ongelma on itse sivustossa.

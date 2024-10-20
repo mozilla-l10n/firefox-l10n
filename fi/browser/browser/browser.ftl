@@ -620,6 +620,25 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hae kohteesta { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Hae käyttämällä { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, valitse hakukone
+    .tooltiptext = { $engine }, valitse hakukone
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Valitse hakukone
+urlbar-searchmode-bookmarks =
+    .label = Kirjanmerkit
+urlbar-searchmode-tabs =
+    .label = Välilehdet
+urlbar-searchmode-history =
+    .label = Sivuhistoria
+urlbar-searchmode-actions =
+    .label = Toiminnot
+urlbar-searchmode-exit-button =
+    .tooltiptext = Sulje
+urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

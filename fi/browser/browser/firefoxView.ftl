@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue } % valmiina
 firefoxview-tabpickup-step-signin-header = Vaihda saumattomasti laitteiden välillä
 firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehdet tänne, kirjaudu ensin sisään tai luo tili.
 firefoxview-tabpickup-step-signin-primarybutton = Jatka
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } kaikilla laitteillasi
+firefoxview-syncedtabs-signin-description-2 = Näet puhelimellasi ja muilla laitteilla avoinna olevat välilehdet kirjautumalla sisään tai luomalla tilin. Tilin avulla voit myös synkronoida salasanasi, historiasi ja paljon muuta.
+firefoxview-syncedtabs-signin-primarybutton-2 = Kirjaudu sisään
 firefoxview-syncedtabs-signin-header = Nappaa välilehdet mistä tahansa
 firefoxview-syncedtabs-signin-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi. Jos sinulla ei ole tiliä, opastamme sinut rekisteröitymisen vaiheiden läpi.
 firefoxview-syncedtabs-signin-primarybutton = Kirjaudu tai rekisteröidy
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhel
 firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
 firefoxview-tabpickup-adddevice-learn-how = Lue lisää
 firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
+firefoxview-syncedtabs-adddevice-header-2 = Nappaa välilehdet mistä tahansa
+firefoxview-syncedtabs-adddevice-description-2 = Kirjaudu sisään { -brand-product-name }iin puhelimellasi tai toisella tietokoneella nähdäksesi välilehdet täällä. Lue lisää <a data-l10n-name="url">laitteiden yhdistämisestä</a>.
 firefoxview-syncedtabs-adddevice-header = Kirjaudu sisään { -brand-product-name }iin muilla laitteillasi
 firefoxview-syncedtabs-adddevice-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi kaikilla laitteillasi. Tietoa <a data-l10n-name="url">muiden laitteiden yhdistämisestä</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
@@ -228,6 +233,8 @@ firefoxview-choose-browser-button = Valitse selain
 firefoxview-dont-remember-history-empty-header = Ei mitään näytettävää
 firefoxview-dont-remember-history-empty-description = Yksityisyytesi suojaaminen on toimintamme ydin. Sen vuoksi voit hallita, mitä toimintaa { -brand-short-name } muistaa.
 firefoxview-dont-remember-history-empty-description-two = Nykyisten asetustesi perusteella { -brand-short-name } ei muista toimintaasi selaamisen aikana. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">muuttamalla historia-asetuksia niin, että selain muistaa selaushistorian</a>.
+firefoxview-dont-remember-history-empty-header-2 = Sinä hallitset, mitä { -brand-short-name } muistaa
+firefoxview-dont-remember-history-empty-description-one = Tällä hetkellä { -brand-short-name } ei muista selaustoimintaasi. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">päivittämällä historia-asetukset</a>.
 
 ##
 
