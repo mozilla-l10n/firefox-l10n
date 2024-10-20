@@ -375,3 +375,25 @@ onboarding-new-user-survey-familiarity-based-option-1 = Mi estas novulo
 onboarding-new-user-survey-familiarity-based-option-2 = Mi iom uzis ĝin
 onboarding-new-user-survey-familiarity-based-option-3 = Mi konas ĝin tre bone
 onboarding-new-user-survey-familiarity-based-option-4 = Mi antaŭe uzis ĝin, sed antaŭ longe
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Bonvolu diri al ni kie vi ŝatus havi viajn langetojn
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = En la agordoj de la flanka strio vi povas ŝanĝi tion iam ajn.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Langetoj flanke
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Langetoj supre
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Eblas havi vertikalajn langetojn
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Prezento de vertikalaj langetoj
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Provu viajn langetojn ĉe flanke. Reloku ilin iam ajn en la agordoj de la flanka strio.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Provu vertikalajn langetojn
+onboarding-flair-text = Nova!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Gardi horizontalajn langetojn

@@ -289,6 +289,16 @@ tail-fox-spotlight-secondary-button = Ne nun
 
 root-certificate-succession-infobar-january-message = <strong>Malnovaj versioj de { -brand-short-name } povus ekhavi problemojn ekde la 14a de januaro 2025.</strong>
 root-certificate-succession-infobar-march-message = <strong>Por povi plu uzi { -brand-short-name } post la 14a de marto 2025, bonvolu ĝisdatigi ĝin.</strong>
+root-certificate-succession-infobar-link = Kiam bezonatas ĝisdatigi?
+root-certificate-succession-infobar-primary-button =
+    .label = Ĝisdatigi nun
+    .accesskey = n
+root-certificate-succession-infobar-secondary-button =
+    .label = Poste
+    .accesskey = P
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Fermi
+    .aria-label = Fermi
