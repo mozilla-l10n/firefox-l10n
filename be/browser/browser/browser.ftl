@@ -633,6 +633,20 @@ urlbar-result-search-with-engine-keywords = { $keywords } - Пошук з да�
 urlbar-searchmode-button =
     .label = { $engine }, Выберыце пошукавую сістэму
     .tooltiptext = { $engine }, Выберыце пашукавік
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Выбраць пошукавую сістэму
+urlbar-searchmode-bookmarks =
+    .label = Закладкі
+urlbar-searchmode-tabs =
+    .label = Карткі
+urlbar-searchmode-history =
+    .label = Гісторыя
+urlbar-searchmode-actions =
+    .label = Дзеянні
+urlbar-searchmode-exit-button =
+    .tooltiptext = Закрыць
+urlbar-searchmode-popup-description = Гэтым разам шукаць у:
+urlbar-searchmode-popup-search-settings = Налады пошуку
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1028,6 +1042,7 @@ firefox-relay-offer-legal-notice = Націскаючы «Выкарыстоўв
 popup-notification-addon-install-unsigned =
     .value = (Неправерана)
 popup-notification-xpinstall-prompt-learn-more = Даведацца больш пра бяспечнае ўсталяванне дадаткаў
+popup-notification-xpinstall-prompt-block-url = Паказаць падрабязнасці
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Задзейнічаць у прыватных вокнах

@@ -249,6 +249,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Стварыць у
 device-migration-fxa-spotlight-getting-new-device-header-2 = Новая прылада ў вашай будучыні?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Зрабіце некалькі простых крокаў, каб мець з сабой закладкі, гісторыю і паролі, калі вы пачняце карыстацца новай прыладай.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
+device-migration-fxa-spotlight-sync-header = Аглядайце, не прапускаючы ніводнага моманту
 
 ## Set as Default PDF Reader Infobar
 
@@ -297,3 +298,6 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Пазней
     .accesskey = П
+
+## FxA Menu Message variants
+
