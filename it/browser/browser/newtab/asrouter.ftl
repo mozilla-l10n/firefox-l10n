@@ -300,3 +300,21 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Chiudi
     .aria-label = Chiudi
+
+fxa-menu-message-sign-up-button = Registrati
+
+fxa-menu-message-sync-devices-primary-text = Sincronizza tutti i tuoi dispositivi
+fxa-menu-message-sync-devices-secondary-text = Accedi al volo alle tue informazioni, come segnalibri e password, ovunque utilizzi { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sincronizza tutti i tuoi dispositivi
+
+fxa-menu-message-backup-data-primary-text = Salva i dati del browser
+fxa-menu-message-backup-data-secondary-text = Proteggi automaticamente segnalibri, password e altre informazioni su tutti i tuoi dispositivi.
+fxa-menu-message-backup-data-collapsed-text = Salva i dati del browser
+
+fxa-menu-message-backup-sync-primary-text = Mantieni i tuoi dati al sicuro e sincronizzati
+fxa-menu-message-backup-sync-secondary-text = La sincronizzazione esegue il backup della maggior parte dei tuoi dati, così puoi accedervi ovunque utilizzi { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronizza e salva i tuoi dati
+
+fxa-menu-message-mobile-primary-text = Invia schede al tuo telefono
+fxa-menu-message-mobile-secondary-text = Riprendi immediatamente da dove eri rimasto sincronizzando le schede con un dispositivo mobile.
+fxa-menu-message-mobile-collapsed-text = Sincronizza con il tuo telefono
