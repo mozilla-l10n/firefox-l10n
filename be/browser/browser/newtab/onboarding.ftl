@@ -375,3 +375,10 @@ onboarding-new-user-survey-familiarity-based-option-1 = Я новенькі
 onboarding-new-user-survey-familiarity-based-option-2 = Карыстаўся пэўны час
 onboarding-new-user-survey-familiarity-based-option-3 = Мне гэта добра знаёма
 onboarding-new-user-survey-familiarity-based-option-4 = Я выкарыстаў яго ў мінулым, але гэта было даўно
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Скажыце нам, дзе вы хочаце размясціць свае карткі
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Пераключайце гэта, калі захочаце, у наладах бакавой панэлі.
