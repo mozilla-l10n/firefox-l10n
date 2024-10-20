@@ -397,3 +397,21 @@ onboarding-existing-vertical-tabs-label = Provu vertikalajn langetojn
 onboarding-flair-text = Nova!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Gardi horizontalajn langetojn
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Retumila fenestro kun langetoj flanke, kiel parto de la flanka strio de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Retumila fenestro kun langetoj flanke, kiel parto de la flanka strio de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Retumila fenestro kun langetoj supre.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Retumila fenestro kun langetoj supre.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Provu dialoganton de A.I. en la flanka strio
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resumu retan enhavon, trovu ideojn, kreu malnetojn de mesaĝoj dum vi retumas. Elektu inter pluraj provizantoj. Ŝanĝu iam ajn. <a data-l10n-name="learn-more">Pli da informo</a>
+onboarding-genai-sidebar-primary-button = Elekti dialoganton
+onboarding-genai-sidebar-secondary-button = Komenci retumi

@@ -172,3 +172,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Malsilentigi langeton
 tabbrowser-manager-close-tab =
     .tooltiptext = Fermi langeton
+
+## Tab Groups
+
+tab-group-editor-title-create = Krei grupon de langetoj
+tab-group-editor-title-edit = Administri grupon de langetoj
+tab-group-editor-name-label = Nomo
+tab-group-editor-name-field =
+    .placeholder = Ekzemplo: Aĉetumo
+tab-group-editor-cancel =
+    .label = Nuligi
+    .accesskey = N
