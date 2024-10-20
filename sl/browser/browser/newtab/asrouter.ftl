@@ -252,6 +252,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Ustvarite račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Se vam obeta nov računalnik?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Z nekaj preprostimi koraki si preselite zaznamke, zgodovino in gesla s seboj, ko začnete uporabljati novo napravo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako varnostno kopirati podatke
+device-migration-fxa-spotlight-sync-header = Brskajte brez zamujenih trenutkov
+device-migration-fxa-spotlight-sync-body = Varno sinhronizirajte vse svoje pomembne podatke, kot so zaznamki in gesla. Do vseh lahko dostopate, kjerkoli uporabljate { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Začnite
 
 ## Set as Default PDF Reader Infobar
 

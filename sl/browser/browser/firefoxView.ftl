@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Brez težav preklapljajte med naprava
 firefoxview-tabpickup-step-signin-description = Če želite tukaj prikazati zavihke s telefona, se prijavite ali ustvarite račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
 firefoxview-syncedtabs-signin-header-2 = Vaš { -brand-product-name } na vseh napravah
+firefoxview-syncedtabs-signin-description-2 = Če si želite ogledati zavihke, ki jih imate odprte na telefonu in drugih napravah, se prijavite ali ustvarite račun. Z računom lahko sinhronizirate tudi gesla, zgodovino in drugo.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijava
 firefoxview-syncedtabs-signin-header = Zajemite zavihke od koderkoli
 firefoxview-syncedtabs-signin-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v svoj račun. Če računa še nimate, vas bomo popeljali skozi korake za prijavo.
@@ -234,6 +235,7 @@ firefoxview-dont-remember-history-empty-header = Nič za prikaz
 firefoxview-dont-remember-history-empty-description = Varstvo vaše zasebnosti je srž našega delovanja. Zato lahko odločate, katero dejavnost naj si { -brand-short-name } zapomni.
 firefoxview-dont-remember-history-empty-description-two = Pri trenutnih nastavitvah si { -brand-short-name } ne zapomni vašega brskanja. Če želite to spremeniti, <a data-l10n-name="history-settings-url-two">v nastavitvah izberite shranjevanje zgodovine</a>.
 firefoxview-dont-remember-history-empty-header-2 = Vi imate nadzor nad tem, kaj si { -brand-short-name } zapomni
+firefoxview-dont-remember-history-empty-description-one = Trenutno je { -brand-short-name } nastavljen tako, da si ne zapomni vaše dejavnosti brskanja. To lahko spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah zgodovine</a>.
 
 ##
 
