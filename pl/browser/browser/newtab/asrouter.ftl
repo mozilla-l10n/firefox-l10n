@@ -252,6 +252,8 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Będziesz mieć now
 device-migration-fxa-spotlight-getting-new-device-body-2 = Wykonaj kilka prostych kroków, aby mieć przy sobie zakładki, historię i hasła, gdy zaczniesz korzystać z nowego urządzenia.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Jak utworzyć kopię zapasową
 device-migration-fxa-spotlight-sync-header = Przeglądaj bez żadnych przerw
+device-migration-fxa-spotlight-sync-body = Synchronizuj wszystkie ważne dane za pomocą szyfrowania — takie jak zakładki i hasła. Możesz je mieć wszędzie tam, gdzie używasz { -brand-product-name(case: "acc") }.
+device-migration-fxa-spotlight-sync-primary-button = Zacznij teraz
 
 ## Set as Default PDF Reader Infobar
 

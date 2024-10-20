@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = Ukończono { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Płynnie przechodź z urządzenia na urządzenie
 firefoxview-tabpickup-step-signin-description = Zaloguj się lub utwórz konto, aby otwierać tutaj karty z telefonu.
 firefoxview-tabpickup-step-signin-primarybutton = Kontynuuj
+firefoxview-syncedtabs-signin-header-2 = Twój { -brand-product-name } na wszystkich urządzeniach
+firefoxview-syncedtabs-signin-description-2 = Zaloguj się lub utwórz konto, aby widzieć karty otwarte na telefonie i innych urządzeniach. Za pomocą konta możesz także synchronizować hasła, historię i nie tylko.
+firefoxview-syncedtabs-signin-primarybutton-2 = Zaloguj się
 firefoxview-syncedtabs-signin-header = Otwieraj karty z każdego miejsca
 firefoxview-syncedtabs-signin-description = Zaloguj się na swoje konto, aby widzieć karty z każdego urządzenia, na którym używasz { -brand-product-name(case: "acc") }. Jeśli jeszcze nie masz konta, pomożemy Ci je założyć.
 firefoxview-syncedtabs-signin-primarybutton = Zaloguj się lub utwórz konto
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Synchronizuj { -brand-product-name(case
 firefoxview-tabpickup-adddevice-description = Pobierz { -brand-product-name(case: "acc") } na telefon i zaloguj się na nim.
 firefoxview-tabpickup-adddevice-learn-how = Dowiedz się, jak to zrobić
 firefoxview-tabpickup-adddevice-primarybutton = Pobierz { -brand-product-name(case: "acc") } na telefon
+firefoxview-syncedtabs-adddevice-header-2 = Otwieraj karty z każdego miejsca
+firefoxview-syncedtabs-adddevice-description-2 = Zaloguj się w { -brand-product-name(case: "loc") } na telefonie lub innym komputerze, aby widzieć karty w tym miejscu. Dowiedz się, jak <a data-l10n-name="url">połączyć dodatkowe urządzenia</a>.
 firefoxview-syncedtabs-adddevice-header = Zaloguj się w { -brand-product-name(case: "loc") } na pozostałych urządzeniach
 firefoxview-syncedtabs-adddevice-description = Zaloguj się na wszystkich swoich urządzeniach, aby widzieć karty z każdego urządzenia, na którym używasz { -brand-product-name(case: "acc") }. Dowiedz się, jak <a data-l10n-name="url">połączyć dodatkowe urządzenia</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wypróbuj { -brand-product-name(case: "acc") } na telefon
@@ -229,6 +234,7 @@ firefoxview-choose-browser-button = Wybierz przeglądarkę
 firefoxview-dont-remember-history-empty-header = Nic tu nie ma
 firefoxview-dont-remember-history-empty-description = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje.
 firefoxview-dont-remember-history-empty-description-two = Z powodu obecnych ustawień { -brand-short-name } nie zapamiętuje tego, co przeglądasz. Możesz zmienić <a data-l10n-name="history-settings-url-two">ustawienia historii</a>, aby to pamiętał.
+firefoxview-dont-remember-history-empty-header-2 = Masz kontrolę nad tym, co { -brand-short-name } zapamiętuje
 
 ##
 
