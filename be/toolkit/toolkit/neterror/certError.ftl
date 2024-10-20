@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Сертыфікат не мае
 cert-error-trust-expired-issuer = Сертыфікату нельга давяраць, бо сертыфікат выдаўца састарэў.
 cert-error-trust-self-signed = Сертыфікату нельга давяраць, бо ён самападпісаны.
 cert-error-trust-symantec = Сертыфікаты, выдадзеныя GeoTrust, RapidSSL, Symantec, Thawte і VeriSign, больш не лічацца бяспечнымі, таму што гэтыя ўстановы не прытрымліваліся практык бяспекі ў мінулым.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } не давярае { $hostname }, бо ён не змог даказаць, што адпавядае патрабаванням празрыстасці публічных сертыфікатаў.
 cert-error-untrusted-default = Сертыфікат прыйшоў з крыніцы, якой нельга давяраць.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
