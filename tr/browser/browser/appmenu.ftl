@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = { -brand-shorter-name } tarayıcısı
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Güç
+profiler-popup-presets-debug-description = { -brand-shorter-name } tarayıcısında hata ayıklama ayarı. Yüksek ek yük nedeniyle performans çalışması için uygun değildir, tarayıcı davranışını anlamaya odaklanmak için kullanın.
 profiler-popup-presets-debug-label =
     .label = Hata ayıklama
 profiler-popup-presets-custom-label =

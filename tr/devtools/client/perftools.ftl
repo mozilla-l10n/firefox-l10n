@@ -140,6 +140,7 @@ perftools-presets-networking-description = { -brand-shorter-name } tarayıcısı
 perftools-presets-power-label = Güç
 perftools-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.
 perftools-presets-debug-label = Hata ayıklama
+perftools-presets-debug-description = { -brand-shorter-name } tarayıcısında hata ayıklama ayarı. Yüksek ek yük nedeniyle performans çalışması için uygun değildir, tarayıcı davranışını anlamaya odaklanmak için kullanın.
 perftools-presets-custom-label = Özel
 
 ##

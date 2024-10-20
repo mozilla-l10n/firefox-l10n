@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Sunucu, geçersiz bir tamsayı kod
 mozilla-pkix-error-empty-issuer-name = Sunucu, boş bir yayıncı açık adı (DN) içeren bir sertifika sundu.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifika doğrulanırken ek bir ilke kısıtlaması başarısız oldu.
 mozilla-pkix-error-self-signed-cert = Bu sertifika kendi kendine imzalandığı için sertifikaya güvenilmiyor.
+mozilla-pkix-error-issuer-no-longer-trusted = Sertifikayı düzenleyen sertifika makamı, sertifika düzenlenmeden önce güvenilmez kabul ediliyordu.
 xp-java-remove-principal-error = Baş bölüm kaldırılamadı.
 xp-java-delete-privilege-error = Ayrıcalık ortadan kaldırılamadı
 xp-java-cert-not-exists-error = Bu baş bölümün sertifikası yok
