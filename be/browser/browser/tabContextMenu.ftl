@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Новая картка ніжэй
     .accesskey = в
+tab-context-new-group =
+    .label = Новая група
+    .accesskey = п
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
