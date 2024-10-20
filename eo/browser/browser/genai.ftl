@@ -111,7 +111,23 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Pli da informo pri Le Chat
 genai-onboarding-select-header = Elektu tekston por vidi sugestojn
+genai-onboarding-select-description = Kiam vi elektas tekston, ni sugestos mesaĝojn, kiujn vi povos sendi al la dialoganto. Vi povas ankaŭ skribi viajn proprajn mesaĝojn.
+genai-onboarding-select-primary = Komenci dialogi
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Krei tekston kaj kodon
+genai-onboarding-claude-analyze = Analizi dokumentojn kaj bildojn
+genai-onboarding-claude-price = Senpagaj kaj pagendaj ebloj; konto postulata
+genai-onboarding-chatgpt-generate = Krei tekston, bildojn kaj kodon
+genai-onboarding-chatgpt-analyze = Analizi dokumentojn kaj bildojn
+genai-onboarding-chatgpt-price = Senpagaj kaj pagendaj ebloj; konto postulata por kelkaj landoj kaj taskoj
+genai-onboarding-gemini-generate = Krei tekston, bildojn kaj kodon
+genai-onboarding-gemini-analyze = Analizi bildojn (senpage) kaj dokumentojn (pagende)
+genai-onboarding-gemini-price = Senpagaj kaj pagendaj ebloj; konto postulata
+genai-onboarding-huggingchat-generate = Krei tekston kaj kodon
+genai-onboarding-huggingchat-switch = Iri de unu modelo al alia inter diversa aro de malfermitaj modeloj
+genai-onboarding-huggingchat-price = Senpage; konto postulata por kelkaj taskoj
+genai-onboarding-lechat-generate = Krei tekston kaj kodon
+genai-onboarding-lechat-price = Senpage; konto postulata
