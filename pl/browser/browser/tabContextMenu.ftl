@@ -92,7 +92,7 @@ tab-context-new-tab-open-vertical =
     .label = Nowa karta poniżej
     .accesskey = w
 tab-context-new-group =
-    .label = Nowe grupa
+    .label = Nowa grupa
     .accesskey = u
 
 ## Variables:

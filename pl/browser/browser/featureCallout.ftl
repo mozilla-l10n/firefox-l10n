@@ -48,7 +48,7 @@ callout-pdfjs-draw-button = OK
 
 fx-view-discoverability-title = Karta została zamknięta przez przypadek?
 fx-view-discoverability-subtitle = Szybko znajdź i otwórz ją z powrotem w tym miejscu. Przechowujemy dla Ciebie listę ostatnio zamkniętych kart.
-fx-view-discoverability-primary-button-label = Otwórz { -firefoxview-brand-name }
+fx-view-discoverability-primary-button-label = Otwórz { -firefoxview-brand-name(case: "acc", capitalization: "lower") }
 fx-view-discoverability-secondary-button-label = Zamknij
 
 ## Split Dismiss Button Labels
