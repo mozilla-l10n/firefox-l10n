@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершана
 firefoxview-tabpickup-step-signin-header = Лёгка пераключайцеся паміж прыладамі
 firefoxview-tabpickup-step-signin-description = Каб атрымаць тут карткі з тэлефона, спачатку ўвайдзіце або стварыце ўліковы запіс.
 firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
+firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на ўсіх вашых прыладах
+firefoxview-syncedtabs-signin-description-2 = Каб пабачыць адкрытыя карткі на тэлефоне і іншых прыладах, увайдзіце ў сістэму або зарэгіструйцеся. З уліковым запісам вы таксама можаце сінхранізаваць свае паролі, гісторыю і многае іншае.
+firefoxview-syncedtabs-signin-primarybutton-2 = Увайсці
 firefoxview-syncedtabs-signin-header = Захоплівайце карткі адусюль
 firefoxview-syncedtabs-signin-description = Каб бачыць свае карткі ўсюды, дзе вы карыстаецеся { -brand-product-name }, увайдзіце ў свой уліковы запіс. Калі ў вас няма ўліковага запісу, мы правядзём вас праз крокі рэгістрацыі.
 firefoxview-syncedtabs-signin-primarybutton = Увайсці або зарэгістравацца
@@ -39,6 +42,7 @@ firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-pro
 firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-name } для мабільнага і ўвайдзіце там.
 firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
 firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-product-name } для мабільнага
+firefoxview-syncedtabs-adddevice-header-2 = Захоплівайце карткі адусюль
 firefoxview-syncedtabs-adddevice-header = Увайдзіце ў { -brand-product-name } на іншых сваіх прыладах
 firefoxview-syncedtabs-adddevice-description = Каб бачыць свае карткі ўсюды, дзе вы карыстаецеся { -brand-product-name }, увайдзіце ва ўліковы запіс на ўсіх сваіх прыладах. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
