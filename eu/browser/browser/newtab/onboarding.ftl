@@ -348,3 +348,27 @@ onboarding-mobile-download-security-and-privacy-title = Mantendu zifratzea gailu
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Hurrengoa
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Berria naiz
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Esaiguzu non nahiago dituzun fitxak
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Alda ezazu nahi duzunean alboko barrako ezarpenetan.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Fitxak alboan
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Fitxak goian
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Fitxa bertikalak hemen dira
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Fitxa bertikalak aurkezten
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Probatu zure fitxak alboan jartzen. Alda ezazu nahi duzunean alboko barrako ezarpenetan.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Probatu fitxa bertikalak
+onboarding-flair-text = Berria!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantendu fitxa horizontalak
