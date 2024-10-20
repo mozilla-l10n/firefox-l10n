@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Abrir { -brand-short-name } automáticamente al iniciar el ordenador
     .accesskey = A
 windows-launch-on-login-disabled = Esta opción se ha desactivado en Windows. Para cambiarla, visite <a data-l10n-name="startup-link">Aplicaciones de inicio</a> en la configuración del sistema.
+windows-launch-on-login-profile-disabled = Active esta preferencia marcando “{ profile-manager-use-selected.label }” en la ventana “Seleccionar perfil de usuario”.
 startup-restore-warn-on-quit =
     .label = Advertirle al salir del navegador
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
     .accesskey = M
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mostrar términos de búsqueda en la barra de direcciones en las páginas de resultados
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
