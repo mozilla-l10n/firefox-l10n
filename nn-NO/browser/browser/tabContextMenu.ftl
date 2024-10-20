@@ -78,6 +78,9 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Del
     .accesskey = D
+tab-context-new-group =
+    .label = Ny gruppe
+    .accesskey = N
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

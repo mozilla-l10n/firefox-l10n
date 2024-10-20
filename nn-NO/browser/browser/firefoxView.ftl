@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } % fullført
 firefoxview-tabpickup-step-signin-header = Byt enkelt mellom einingar
 firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, loggar du først inn eller opprettar ein konto.
 firefoxview-tabpickup-step-signin-primarybutton = Hald fram
+firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-syncedtabs-signin-header = Hent faner same kvar du er
 firefoxview-syncedtabs-signin-description = Logg på kontoen din for å sjå faner frå dei andre einingane dine med { -brand-product-name }. Dersom du ikkje har ein konto, tek vi deg gjennom stega for å registrere deg.
 firefoxview-syncedtabs-signin-primarybutton = Logg inn eller registrer deg
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
 firefoxview-tabpickup-adddevice-learn-how = Les korleis
 firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
+firefoxview-syncedtabs-adddevice-header-2 = Hent faner same kvar du er
 firefoxview-syncedtabs-adddevice-header = Logg inn på { -brand-product-name } på dei andre einingane dine
 firefoxview-syncedtabs-adddevice-description = Logg på alle einingane dine for å sjå fanene dine frå alle stadane du brukar { -brand-product-name }. <a data-l10n-name="url">Slik legg du til nye einingar</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil

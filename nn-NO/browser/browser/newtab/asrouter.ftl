@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Opprett ein konto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Planlegg du å kjøpe ei ny eining i framtida?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Følg nokre få enkle steg for å ta med deg bokmerka, historikken og passorda dine når du startar med ei ny eining.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
+device-migration-fxa-spotlight-sync-primary-button = Kom i gang
 
 ## Set as Default PDF Reader Infobar
 
