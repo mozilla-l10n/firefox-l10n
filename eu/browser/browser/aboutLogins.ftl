@@ -108,11 +108,13 @@ about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierari
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instructions-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name(kasua: "n") } saio-hasierak gordeta dituzun gailuan
 about-logins-login-intro-heading-message = Gorde zure pasahitzak toki seguru batean
+login-intro-description2 = { -brand-product-name }(e)n gordetzen dituzun pasahitz guztiak zifratuta daude. Hortaz gain, datu-urratzeei erne gaude eta zuri eraginez gero jakinaraziko dizugu. <a data-l10n-name="breach-alert-link">Argibide gehiago</a>
 login-intro-instructions-fxa2 = Sortu edo hasi saioa zure kontuan, saio-hasierak gordeta dituzun gailuan.
 login-intro-instructions-fxa-settings = Zoaz Ezarpenak > Sinkronizazioa > Gaitu sinkronizazioa… menu-aukerara eta hautatu 'Saio-hasierak eta pasahitzak' kontrol-laukia.
 login-intro-instructions-fxa-passwords-help = Laguntza gehiagorako, bisitatu <a data-l10n-name="passwords-help-link">pasahitzen laguntza</a>.
 about-logins-intro-browser-only-import = Zure saio-hasierak beste nabigatzaile batean gordeta badituzu, <a data-l10n-name="import-link">{ -brand-product-name }(e)n inporta ditzakezu</a>
 about-logins-intro-import2 = Zure saio-hasierak { -brand-product-name }(e)tik kanpo badaude gordeta, <a data-l10n-name="import-browser-link">beste nabigatzaile batetik</a> edo <a data-l10n-name="import-file-link">fitxategi batetik</a> inporta ditzakezu
+about-logins-intro-import3 = Hautatu gehi zeinudun botoia pasahitz bat orain gehitzeko. Horrez gain, <a data-l10n-name="import-browser-link">pasahitzak beste nabigatzaile batetik</a> edo <a data-l10n-name="import-file-link">fitxategi batetik</a> inporta ditzakezu.
 
 ## Login
 
@@ -123,6 +125,11 @@ login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
 login-item-tooltip-message = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
+about-logins-origin-tooltip2 = Idatzi helbide osoa eta ziurtatu saioa hasten duzun tokiarekin bat datorrela.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Ziurtatu gune honetarako zure uneko pasahitza gordetzen duzula. Pasahitza hemen aldatuz gero, ez da { $webTitle } webgunean aldatuko.
+about-logins-add-password-tooltip = Ziurtatu gune honetarako zure uneko pasahitza gordetzen duzula.
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena
@@ -166,6 +173,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzek
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] aldatu pasahitzen ezarpenak
+       *[other] { -brand-short-name } pasahitzen ezarpenak aldatzen saiatzen ari da. Hasi saioa zure gailuan hau ahalbidetzeko.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Zure pasahitza aldatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to edit a login in about:logins
@@ -259,6 +273,12 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Kendu pasahitz { $count }?
        *[other] Kendu { $count } pasahitz?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Kendu pasahitza gailu guztietatik?
+       *[other] Kendu { $count } pasahitz gailu guztietatik?
     }
 
 ##
