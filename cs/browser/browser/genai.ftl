@@ -98,6 +98,7 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Shrnutí, brainstorming a mnohem více při procházení webu
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description =
     { -brand-short-name.case-status ->
@@ -122,6 +123,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Zjistit více o Le Chat
 genai-onboarding-select-header = Výběrem textu zobrazíte návrhy
+genai-onboarding-select-description = Když vyberete text, nabídneme vám vstupy, které můžete chatbotovi odeslat. Můžete také napsat své vlastní vstupy.
 genai-onboarding-select-primary = Začněte chatovat
 
 ## Chatbot onboarding choices
