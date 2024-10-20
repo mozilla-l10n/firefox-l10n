@@ -641,7 +641,7 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Kapat
 urlbar-searchmode-popup-description = Burada ara:
-urlbar-searchmode-popup-search-settings = Arama Ayarları
+urlbar-searchmode-popup-search-settings = Arama ayarları
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
