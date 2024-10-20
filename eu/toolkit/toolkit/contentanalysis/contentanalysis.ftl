@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundea
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = Jaregin duzun testua zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = Inprimatu duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-operationtype-print = inprimatu
@@ -37,9 +40,33 @@ contentanalysis-genericresponse-message = Edukiaren analisiak { $response } eran
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Zure erakundeak datuen galera eragozteko softwarea darabil eta eduki hau blokeatu egin du: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Errorea gertatu da { $agent } agentearekin komunikatzean. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Ezin da { $agent } agentera konektatu. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Sinaduraren egiaztapenak huts egin du { $agent } agenterako. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = "{ $filename }" igotzea ukatu da.
 contentanalysis-error-message-dropped-text = Arrastatu eta jaregitea ukatuta.
 contentanalysis-error-message-clipboard = Itsastea ukatuta.
 contentanalysis-error-message-print = Inprimatzea ukatuta.
+contentanalysis-block-dialog-title-upload-file = Ez duzu fitxategi hau igotzeko baimenik
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Zure erakundearen datuen babeserako politiken pean, ez duzu "{ $filename }" fitxategia igotzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
+contentanalysis-block-dialog-title-clipboard = Ez duzu eduki hau itsasteko baimenik
+contentanalysis-block-dialog-body-clipboard = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau itsasteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
+contentanalysis-block-dialog-title-dropped-text = Ez duzu eduki hau jaregiteko baimenik
+contentanalysis-block-dialog-body-dropped-text = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau arrastatu eta jaregiteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
+contentanalysis-block-dialog-title-print = Ez duzu dokumentu hau inprimatzeko baimenik
 contentanalysis-inprogress-quit-title = Irten { -brand-shorter-name }(e)tik?
 contentanalysis-inprogress-quit-message = Hainbat ekintza lanean ari dira. { -brand-shorter-name }(e)tik irtenez gero, ekintza hauek ez dira burutuko.
 contentanalysis-inprogress-quit-yesbutton = Bai, irten
