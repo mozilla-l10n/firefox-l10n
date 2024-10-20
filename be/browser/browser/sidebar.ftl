@@ -56,6 +56,8 @@ sidebar-customize-button-header =
     .label = Кнопка бакавой панэлі
 sidebar-customize-position-header =
     .label = Становішча бакавой панэлі
+sidebar-visibility-setting-always-show =
+    .label = Разгарнуць і згарнуць бакавую панэль
 sidebar-customize-settings-header =
     .label = Налады бакавой панэлі
 sidebar-visibility-always-show =
@@ -130,16 +132,8 @@ sidebar-syncedtabs-title = Карткі з іншых прылад
 synced-tabs-context-close-tab-title =
     .title = Закрыць картку на { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Разгарнуць бакавую панэль
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Згарнуць бакавую панэль
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Паказаць бакавую панэль
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Схаваць бакавую панэль
 sidebar-widget-expand-sidebar =
     .tooltiptext = Разгарнуць бакавую панэль
     .label = Бакавыя панэлі
