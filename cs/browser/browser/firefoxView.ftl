@@ -33,9 +33,11 @@ firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízen�
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
 firefoxview-syncedtabs-signin-header-2 =
-    { -brand-product-name.case-status ->
-        [with-cases] Váš { -brand-product-name } na všech vašich zařízeních
-       *[no-cases] Vaše aplikace { -brand-product-name } na všech vašich zařízeních
+    { -brand-short-name.gender ->
+        [masculine] Váš { -brand-product-name } na všech vašich zařízeních
+        [feminine] Vaše { -brand-product-name } na všech vašich zařízeních
+        [neuter] Vaše { -brand-product-name } na všech vašich zařízeních
+       *[other] Vaše aplikace { -brand-product-name } na všech vašich zařízeních
     }
 firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely otevřené v telefonu a dalších zařízeních, přihlaste se nebo si zaregistrujte účet. S účtem můžete také synchronizovat svá hesla, historii a další údaje.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se

@@ -207,11 +207,15 @@ addon-install-error-incompatible =
         [with-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s { -brand-short-name(case: "ins") } { $appVersion }.
        *[no-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
     }
-addon-install-error-hard-blocked = Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
+addon-install-error-hard-blocked =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do { -brand-short-name(case: "gen") } nainstalovat.
+       *[no-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
+    }
 addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.
 addon-install-error-soft-blocked =
     { -brand-short-name.case-status ->
-        [with-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do { -brand-short-name(case: "loc") } nainstalovat.
+        [with-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do { -brand-short-name(case: "gen") } nainstalovat.
        *[no-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
     }
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

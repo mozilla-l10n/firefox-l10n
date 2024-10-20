@@ -388,8 +388,8 @@ root-certificate-succession-infobar-january-message =
     }
 root-certificate-succession-infobar-march-message =
     { -brand-short-name.case-status ->
-        [with-cases] <strong>Proveďte aktualizaci, aby jste mohli { -brand-short-name } nadále používat i po 14. březnu 2025.</strong>
-       *[no-cases] <strong>Proveďte aktualizaci, aby jste mohli aplikaci { -brand-short-name } nadále používat i po 14. březnu 2025.</strong>
+        [with-cases] <strong>Proveďte aktualizaci, abyste mohli { -brand-short-name(case: "acc") } nadále používat i po 14. březnu 2025.</strong>
+       *[no-cases] <strong>Proveďte aktualizaci, abyste mohli aplikaci { -brand-short-name } nadále používat i po 14. březnu 2025.</strong>
     }
 root-certificate-succession-infobar-link = Proč potřebuji aktualizaci?
 root-certificate-succession-infobar-primary-button =

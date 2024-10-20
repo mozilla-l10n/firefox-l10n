@@ -68,7 +68,7 @@ callout-pdfjs-draw-button = Rozumím
 
 fx-view-discoverability-title = Nechtěli jste panel zavřít?
 fx-view-discoverability-subtitle = Zde ho rychle najdete a znovu otevřete. Uchováváme pro vás historii naposledy zavřených panelů.
-fx-view-discoverability-primary-button-label = Otevřít { -firefoxview-brand-name }
+fx-view-discoverability-primary-button-label = Otevřít { -firefoxview-brand-name(case: "acc") }
 fx-view-discoverability-secondary-button-label = Zavřít
 
 ## Split Dismiss Button Labels

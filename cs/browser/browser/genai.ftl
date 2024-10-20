@@ -92,7 +92,7 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label =
         { -brand-short-name.case-status ->
-            [with-cases] O AI chatbotech ve { -brand-short-name(case: "gen") }
+            [with-cases] O AI chatbotech ve { -brand-short-name(case: "loc") }
            *[no-cases] O AI chatbotech v aplikaci { -brand-short-name }
         }
 
@@ -131,6 +131,7 @@ genai-onboarding-gemini-generate = Generování textu, obrázků a kódu
 genai-onboarding-gemini-analyze = Analýza obrázků (zdarma) a dokumentů (placené)
 genai-onboarding-gemini-price = Bezplatné a placené možnosti; je vyžadován účet
 genai-onboarding-huggingchat-generate = Generování textu a kódu
+genai-onboarding-huggingchat-switch = Přepínejte mezi rozmanitou sadou otevřených modelů
 genai-onboarding-huggingchat-price = Zdarma; pro některé úkoly je vyžadován účet
 genai-onboarding-lechat-generate = Generování textu a kódu
 genai-onboarding-lechat-price = Zdarma; je vyžadován účet
