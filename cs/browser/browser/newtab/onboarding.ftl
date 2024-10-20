@@ -561,6 +561,13 @@ onboarding-existing-vertical-tabs-label = Vyzkoušet svislé panely
 onboarding-flair-text = Novinka!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Ponechat panely vodorovně
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title =
+        { -brand-shorter-name.case-status ->
+            [with-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty { -brand-shorter-name(case: "gen") }.
+           *[no-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty aplikace { -brand-shorter-name }.
+        }
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Okno prohlížeče s panely v horní části.
