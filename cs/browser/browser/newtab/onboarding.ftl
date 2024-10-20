@@ -568,6 +568,13 @@ onboarding-vertical-tabs-tooltip =
             [with-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty { -brand-shorter-name(case: "gen") }.
            *[no-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty aplikace { -brand-shorter-name }.
         }
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description =
+        { -brand-shorter-name.case-status ->
+            [with-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty { -brand-shorter-name(case: "gen") }.
+           *[no-cases] Okno prohlížeče zobrazující panely podél obrazovky jako součást postranní lišty aplikace { -brand-shorter-name }.
+        }
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Okno prohlížeče s panely v horní části.
