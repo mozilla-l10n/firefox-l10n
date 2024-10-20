@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Ne eblas konektiĝi sekure ĉar la protokolo SSL estis malaktivigita.
 psmerr-ssl2-disabled = Ne eblas konektiĝi sekure ĉar la retejo uzas malnovan, nesekuran version de la protokolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vi ricevis nevalidan atestilon.  Bonvolu kontakti la administranton de la servilo aŭ la sendinton de la retpoŝto kaj doni al ili la jenan informon:
     
     Via atestilo enhavas la saman serian numeron de alia atestilo eldonita de la atestila aŭtoritato.  Bonvolu akiri novan atestilon kiu enhavas unikan serian numeron.
-
 ssl-error-export-only-server = Ne eblas komunikiĝi sekure.  La paro ne kapablas uzi altgradan ĉifradon.
 ssl-error-us-only-server = Ne eblas komunikiĝi sekure.  La paro postulas altgradan ĉifradon kiu ne estas subtenata.
 ssl-error-no-cypher-overlap = Ne eblas komunikiĝi sekure kun la paro: neniu komuna ĉifra algoritmo.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
-
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -320,7 +317,6 @@ sec-error-locked-password = The password is locked.
 sec-error-unknown-pkcs11-error = Unknown PKCS #11 error.
 sec-error-bad-crl-dp-url = Invalid or unsupported URL in CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = The certificate was signed using an signature algorithm that is disabled because it is not secure.
-
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = Aldona politika limigo malsuckesis dum validigo de tiu ĉi atestilo.
 mozilla-pkix-error-self-signed-cert = La atestilo ne estas fidata ĉar ĝi estas memsubskribita.
-
+mozilla-pkix-error-issuer-no-longer-trusted = La atestila aŭtoritato, kiu eldonis la atestilon, estis nefidita antaŭ la eldono.
 xp-java-remove-principal-error = Couldn't remove the principal
 xp-java-delete-privilege-error = Couldn't delete the privilege
 xp-java-cert-not-exists-error = This principal doesn't have a certificate
-
 xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized.  Please remove it and return it to your issuer.
 xp-sec-fortezza-no-card = No Fortezza cards Found
 xp-sec-fortezza-none-selected = No Fortezza card selected

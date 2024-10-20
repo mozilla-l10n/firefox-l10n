@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Aŭtomate malfermi { -brand-short-name } kiam la komputilo ŝaltiĝas
     .accesskey = A
 windows-launch-on-login-disabled = Tiu ĉi prefero estis malaktivigita en Windows. Por ŝanĝi ĝin, vizitu <a data-l10n-name="startup-link">Aŭtomata malfermo</a> en la sistemaj agordoj.
+windows-launch-on-login-profile-disabled = Aktivigu tiun ĉi preferon per marko de “{ profile-manager-use-selected.label }” en la fenestro "Elekti profilon de uzanto".
 startup-restore-warn-on-quit =
     .label = Averti min antaŭ ol fini la retumilon.
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Montri serĉan tekston en la adresa strio de la paĝoj de rezultoj
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
