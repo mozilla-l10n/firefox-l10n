@@ -623,6 +623,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Buscar en { $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Buscar con { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, elegir un buscador
+    .tooltiptext = { $engine }, elegir un buscador
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Elegir un buscador
+urlbar-searchmode-bookmarks =
+    .label = Marcadores
+urlbar-searchmode-tabs =
+    .label = Pestañas
+urlbar-searchmode-history =
+    .label = Historial
+urlbar-searchmode-actions =
+    .label = Acciones
+urlbar-searchmode-exit-button =
+    .tooltiptext = Cerrar
+urlbar-searchmode-popup-description = Esta vez buscar con:
+urlbar-searchmode-popup-search-settings = Ajustes de búsqueda
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1018,6 +1038,7 @@ firefox-relay-offer-legal-notice = Al hacer clic en “Usar máscara de correo e
 popup-notification-addon-install-unsigned =
     .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Descubra más sobre cómo instalar complementos de forma segura
+popup-notification-xpinstall-prompt-block-url = Ver detalles
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Ejecutar en ventanas privadas
