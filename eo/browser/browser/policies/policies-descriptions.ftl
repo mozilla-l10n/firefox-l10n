@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Presi per la sistema presa dialogo.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.
 policy-Windows10SSO = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permesi nurfojan komencon de seanco por konton de Microsoft Entra.

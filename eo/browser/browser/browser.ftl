@@ -611,6 +611,35 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Serĉi per { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Serĉi en { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Serĉi per { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, Elekti serĉilon
+    .tooltiptext = { $engine }, Elekti serĉilon
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Elekti serĉion
+urlbar-searchmode-bookmarks =
+    .label = Legosignoj
+urlbar-searchmode-tabs =
+    .label = Langetoj
+urlbar-searchmode-history =
+    .label = Historio
+urlbar-searchmode-actions =
+    .label = Agoj
+urlbar-searchmode-exit-button =
+    .tooltiptext = Fermi
+urlbar-searchmode-popup-description = Ĉi foje serĉi per:
+urlbar-searchmode-popup-search-settings = Agordoj de serĉo
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1006,6 +1035,7 @@ firefox-relay-offer-legal-notice = Se vi alklakas "Uzi retpoŝtan maskon" vi akc
 popup-notification-addon-install-unsigned =
     .value = (Nekontrolita)
 popup-notification-xpinstall-prompt-learn-more = Pli da informo pri sekura instalo de aldonaĵoj
+popup-notification-xpinstall-prompt-block-url = Montri detalojn
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Lanĉi en privataj fenestroj

@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = La atestilo ne estas fidata ĉar
 cert-error-trust-expired-issuer = La atestilo ne estas fidata ĉar la atestilo de la eldoninto senvalidiĝis.
 cert-error-trust-self-signed = La atestilo ne estas fidata ĉar ĝi estas memsubskribita.
 cert-error-trust-symantec = Atestiloj eldonitaj de RapidSSL, RapidSSL, Symantec, Thawte kaj VeriSign ne plu estas konsiderataj sekuraj, ĉar en la pasinteco tiuj atestilaj aŭtoritatoj ne plenumis sekurecajn praktikojn.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ne fidas { $hostname } ĉar ĝi ne povis pruvi ĝian observon de la publikaj postuloj pri atestila travideblo.
 cert-error-untrusted-default = La atestilo ne venas el fidata origino.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

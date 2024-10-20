@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se vi ne rekonas la nomon <
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uzas sekurecan politikon, kiun oni nomas HTTP Strict Transport Security (HSTS), kiu devigas { -brand-short-name } konektiĝi sekure. Vi ne povas aldoni escepton por viziti tiun ĉi retejon.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Verŝajne temas pri nenio grava, sed eble estas problemo en la retejo.
