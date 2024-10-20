@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = %{ $percentValue } osatuta
 firefoxview-tabpickup-step-signin-header = Aldatu di-da batean gailuen artean
 firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen izateko, hasi saioa edo sortu kontua lehenik.
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } zure gailu guztietan
+firefoxview-syncedtabs-signin-primarybutton-2 = Hasi saioa
 firefoxview-syncedtabs-signin-header = Hartu fitxak edonondik
 firefoxview-syncedtabs-signin-description = { -brand-product-name } erabiltzen duzun gailu guztietako fitxak ikusteko, hasi saioa zure kontuan. Konturik ez badaukazu, izen-emateko urratsak erakutsiko dizkizugu.
 firefoxview-syncedtabs-signin-primarybutton = Hasi saioa edo eman izena
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zu
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
 firefoxview-tabpickup-adddevice-learn-how = Ikasi nola
 firefoxview-tabpickup-adddevice-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
+firefoxview-syncedtabs-adddevice-header-2 = Hartu fitxak edonondik
 firefoxview-syncedtabs-adddevice-header = Hasi saioa { -brand-product-name }(e)n zure beste gailuetan
 firefoxview-syncedtabs-adddevice-description = { -brand-product-name } erabiltzen duzun gailu guztietako fitxak ikusteko, hasi saioa gailu guztietan. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probatu mugikorrerako { -brand-product-name }

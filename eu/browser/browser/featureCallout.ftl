@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = Ulertuta!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Ez zenuen fitxa hori itxi nahi?
+fx-view-discoverability-subtitle = Bilatu eta berrireki ezazu hemen di-da. Azkenaldian itxitako fitxen historia gordetzen dugu zuretzat.
 fx-view-discoverability-primary-button-label = Ireki { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Baztertu
 
