@@ -382,3 +382,18 @@ onboarding-new-user-survey-familiarity-based-option-4 = Я выкарыстаў 
 onboarding-new-tabs-title = Скажыце нам, дзе вы хочаце размясціць свае карткі
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Пераключайце гэта, калі захочаце, у наладах бакавой панэлі.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Карткі збоку
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Карткі ўверсе
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Вертыкальныя карткі ўжо тут
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Прадстаўляем вертыкальныя карткі
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Паспрабуйце карткі збоку. Уключыце іх, калі заўгодна, у наладах бакавой панэлі.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Паспрабуйце вертыкальныя карткі
+onboarding-flair-text = Навіна!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Трымаць карткі гарызантальна
