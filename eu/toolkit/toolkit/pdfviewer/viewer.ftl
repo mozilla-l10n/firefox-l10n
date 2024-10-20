@@ -468,6 +468,10 @@ pdfjs-editor-alt-text-settings-dialog-label = Irudiaren testu alternatiboaren ez
 pdfjs-editor-alt-text-settings-automatic-title = Testu alternatibo automatikoa
 pdfjs-editor-alt-text-settings-create-model-button-label = Sortu testu alternatiboa automatikoki
 pdfjs-editor-alt-text-settings-create-model-description = Azalpenak iradokitzen ditu irudia ikusi ezin duen jendearentzat edo irudia kargatu ezin denerako.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Testu alternatiboaren AA modeloa ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Zure gailuan modu lokalean exekutatzen da eta zure datuak pribatu mantentzen dira. Testu alternatibo automatikorako beharrezkoa.
 pdfjs-editor-alt-text-settings-delete-model-button = Ezabatu
 pdfjs-editor-alt-text-settings-download-model-button = Deskargatu
 pdfjs-editor-alt-text-settings-downloading-model-button = Deskargatzen…
