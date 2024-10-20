@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-
 firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
 firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-product-name } для мабільнага
 firefoxview-syncedtabs-adddevice-header-2 = Захоплівайце карткі адусюль
+firefoxview-syncedtabs-adddevice-description-2 = Увайдзіце ў { -brand-product-name } на сваім тэлефоне або іншым камп'ютары, каб убачыць тут карткі. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-syncedtabs-adddevice-header = Увайдзіце ў { -brand-product-name } на іншых сваіх прыладах
 firefoxview-syncedtabs-adddevice-description = Каб бачыць свае карткі ўсюды, дзе вы карыстаецеся { -brand-product-name }, увайдзіце ва ўліковы запіс на ўсіх сваіх прыладах. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
@@ -233,6 +234,8 @@ firefoxview-choose-browser-button = Выбраць браўзер
 firefoxview-dont-remember-history-empty-header = Няма чаго паказаць
 firefoxview-dont-remember-history-empty-description = Ахова вашай прыватнасці з'яўляецца сутнасцю нашай дзейнасці. Вось чаму вы можаце кантраляваць дзеянні, якія запамінае { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Зыходзячы з вашых цяперашніх налад, { -brand-short-name } не запамінае вашы дзеянні ў часе аглядання. Каб змяніць гэта, <a data-l10n-name="history-settings-url-two">змяніце налады гісторыі, каб запамінаць яе</a>.
+firefoxview-dont-remember-history-empty-header-2 = Вы самі кіруеце тым, што запамінае { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = На дадзены момант { -brand-short-name } не запамінае вашу дзейнасць у сеціве. Каб змяніць гэта, <a data-l10n-name="history-settings-url-two">абнавіце налады гісторыі</a>.
 
 ##
 
