@@ -620,6 +620,16 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Pesquisar em { $lo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Pesquisar com { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, escolha um mecanismo de pesquisa
+    .tooltiptext = { $engine }, escolha um mecanismo de pesquisa
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Escolha um mecanismo de pesquisa
+urlbar-searchmode-bookmarks =
+    .label = Favoritos
 urlbar-searchmode-tabs =
     .label = Abas
 urlbar-searchmode-history =
