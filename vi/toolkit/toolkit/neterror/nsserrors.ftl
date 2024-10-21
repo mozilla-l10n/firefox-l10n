@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Không thể kết nối an toàn vì giao thức SSL đã bị vô hiệu hóa.
 psmerr-ssl2-disabled = Không thể kết nối an toàn vì trang này sử dụng một phiên bản giao thức SSL cũ và không bảo mật.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Bạn vừa nhận được một chứng nhận không hợp lệ.  Vui lòng liên hệ quản trị máy chủ hoặc email tương ứng và đưa họ thông tin sau:
     
     Chứng nhận của bạn có cùng số sê-ri với chứng nhận khác được cấp bởi cùng một nhà thẩm định chứng nhận.  Vui lòng tạo một chứng nhận mới có số sê-ri riêng biệt.
-
 ssl-error-export-only-server = Không thể giao tiếp một cách an toàn. Peer không hỗ trợ mã hóa cấp cao.
 ssl-error-us-only-server = Không thể giao tiếp một cách an toàn. Peer yêu cầu mã hóa cao cấp mà không được hỗ trợ.
 ssl-error-no-cypher-overlap = Không thể kết nối an toàn với máy ngang hàng: không dùng chung thuật toán mã hoá dữ liệu.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Đã cấu hình mà không có thu
 ssl-error-unsupported-signature-algorithm = Máy ngang hàng đã sử dụng kết hợp thuật toán hash và chữ ký không được hỗ trợ.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
-
 sec-error-io = Một lỗi I/O xảy ra trong quá trình thẩm định bảo mật.
 sec-error-library-failure = Thư viện bảo mật thất bại.
 sec-error-bad-data = Thư viện bảo mật: nhận dữ liệu xấu.
@@ -319,7 +317,6 @@ sec-error-locked-password = Mật khẩu bị khóa.
 sec-error-unknown-pkcs11-error = Lỗi PKCS #11 không xác định.
 sec-error-bad-crl-dp-url = URL sai hoặc không được hỗ trợ trong tên điểm phân phối CRL.
 sec-error-cert-signature-algorithm-disabled = Chứng nhận được ký bằng thuật toán chữ ký bị vô hiệu hóa vì không an toàn.
-
 mozilla-pkix-error-key-pinning-failure = Máy chủ sử dụng key pinning (HPKP) nhưng không có certificate chain tin cậy nào có thể được xây dựng phù hợp với pinset. Các vi phạm Key pinning không thể được ghi đè.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Máy chủ sử dụng chứng nhận với phần mở rộng ràng buộc cơ bản xác định nó là cơ quan cấp chứng nhận. Đối với một chứng nhận được cấp đúng, điều này không nên xảy ra.
 mozilla-pkix-error-inadequate-key-size = Máy chủ xuất trình chứng nhận với kích thước khóa quá nhỏ để thiết lập kết nối an toàn.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Máy chủ xuất trình chứng n
 mozilla-pkix-error-empty-issuer-name = Các máy chủ xuất trình một chứng nhận không có tên phân biệt nhà phát hành.
 mozilla-pkix-error-additional-policy-constraint-failed = Một ràng buộc của chính sách bổ sung không thành công khi xác nhận chứng nhận này.
 mozilla-pkix-error-self-signed-cert = Chứng nhận này không đáng tin vì nó được tự kí.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Cơ quan cấp chứng nhận đã cấp chứng nhận không được tin cậy trước khi nó được cấp.
 xp-java-remove-principal-error = Không thể xóa principal
 xp-java-delete-privilege-error = Không thể xóa được đặc quyền
 xp-java-cert-not-exists-error = Principal này không có chứng nhận
-
 xp-sec-fortezza-bad-card = Thẻ Fortezza chưa được khởi tạo đúng cách. Vui lòng xóa nó và trả lại cho công ty phát hành của bạn.
 xp-sec-fortezza-no-card = Không tìm thấy thẻ Fortezza nào
 xp-sec-fortezza-none-selected = Chưa chọn thẻ Fortezza
