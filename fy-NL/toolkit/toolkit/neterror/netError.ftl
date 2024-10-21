@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = As jo net bekend binne mei 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> hat in befeiligingsbelied mei de namme HTTP Strict Transport Security (HSTS), wat betsjut dat { -brand-short-name } allinnich in befeilige ferbining dêrmei meitsje kin. Jo kinne gjin útsûndering tafoegje om dizze website te besykjen.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is.

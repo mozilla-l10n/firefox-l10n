@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Wikselje maklik tusken apparaten
 firefoxview-tabpickup-step-signin-description = Meld jo earst oan of meitsje in account om hjir de ljepblêden fan jo telefoan te iepenjen.
 firefoxview-tabpickup-step-signin-primarybutton = Trochgean
 firefoxview-syncedtabs-signin-header-2 = Jo { -brand-product-name } op al jo apparaten
+firefoxview-syncedtabs-signin-description-2 = Meld jo oan of registrearje jo foar in account om op jo telefoan en oare apparaten iepene ljepblêden te sjen. Mei in account kinne jo ek jo wachtwurden, skiednis en mear syngronisearje.
 firefoxview-syncedtabs-signin-primarybutton-2 = Oanmelde
 firefoxview-syncedtabs-signin-header = Pak oeral ljepblêden
 firefoxview-syncedtabs-signin-description = Meld jo oan by jo account om jo ljepblêden te besjen, net achte wêr’t jo { -brand-product-name } brûke. As jo gjin account hawwe, sille wy jo troch de stappen liede om jo te registrearjen.
@@ -42,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } f
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
 firefoxview-syncedtabs-adddevice-header-2 = Pak oeral ljepblêden
+firefoxview-syncedtabs-adddevice-description-2 = Meld jo oan by { -brand-product-name } op jo telefoan of in oare kompjûter om hjir ljepblêden te sjen. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten ferbine kinne</a>.
 firefoxview-syncedtabs-adddevice-header = Meld jo oan by { -brand-product-name } op jo oare apparaten
 firefoxview-syncedtabs-adddevice-description = Meld jo oan op al jo apparaten om jo ljepblêden te besjen, wêr’t jo { -brand-product-name } ek brûke. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute</a>
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
@@ -231,6 +233,8 @@ firefoxview-choose-browser-button = Kies browser
 firefoxview-dont-remember-history-empty-header = Neat sjen te litten
 firefoxview-dont-remember-history-empty-description = It beskermjen fan jo privacy is it hert fan wat wy dogge. Dêrom kinne jo de aktiviteit kontrolearje dy’t { -brand-short-name } ûnthâldt beheare.
 firefoxview-dont-remember-history-empty-description-two = Op grûn fan jo aktuele ynstellingen ûnthâldt { -brand-short-name } jo aktiviteit net as jo sneupe. <a data-l10n-name="history-settings-url-two">Wizigje jo skiednisynstellingen om jo skiednis te ûnthâlden</a> om dat oan te passen.
+firefoxview-dont-remember-history-empty-header-2 = Jo hawwe kontrôle oer wat { -brand-short-name } ûnthâldt
+firefoxview-dont-remember-history-empty-description-one = Op dit stuit ûnthâldt { -brand-short-name } jo sneupaktiviteit net. <a data-l10n-name="history-settings-url-two">Wurkje jo skiednisynstellingen by</a> om dat te wizigjen.
 
 ##
 

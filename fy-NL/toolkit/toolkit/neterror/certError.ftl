@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = It sertifikaat is net fertroud o
 cert-error-trust-expired-issuer = It sertifikaat is net fertroud, omdat it útjousertifikaat ferrûn is.
 cert-error-trust-self-signed = It sertifikaat is net fertroud, omdat it sels ûndertekene is.
 cert-error-trust-symantec = Sertifikaten dy’t troch GeoTrust, RapidSSL, Symantec, Thawte en VeriSign útjûn binne, wurde net mear as feilich beskôge, omdat dizze sertifikaatautoriteiten yn it ferline gjin befeiligingsprosedueres folge hawwe.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } fertrout { $hostname } net, omdat it net bewize koe dat it foldocht oan easken foar iepenbiere sertifikaattransparânsje.
 cert-error-untrusted-default = It sertifikaat komt net fan in fertroude boarne.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
