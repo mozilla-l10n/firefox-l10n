@@ -616,6 +616,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Tìm kiếm { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Tìm kiếm với { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, chọn một công cụ tìm kiếm
+    .tooltiptext = { $engine }, chọn một công cụ tìm kiếm
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Chọn công cụ tìm kiếm
+urlbar-searchmode-bookmarks =
+    .label = Dấu trang
+urlbar-searchmode-tabs =
+    .label = Thẻ
+urlbar-searchmode-history =
+    .label = Lịch sử
+urlbar-searchmode-actions =
+    .label = Hành động
+urlbar-searchmode-exit-button =
+    .tooltiptext = Đóng
+urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
+urlbar-searchmode-popup-search-settings = Cài đặt tìm kiếm
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

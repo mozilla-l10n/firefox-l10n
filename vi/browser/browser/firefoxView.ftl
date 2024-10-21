@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% hoàn thành
 firefoxview-tabpickup-step-signin-header = Chuyển đổi liền mạch giữa các thiết bị
 firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ điện thoại của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
 firefoxview-tabpickup-step-signin-primarybutton = Tiếp tục
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } của riêng bạn trên tất cả các thiết bị
+firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên điện thoại và các thiết bị khác của bạn, xin vui lòng đăng nhập hoặc đăng ký tài khoản. Bạn cũng được đồng bộ các mật khẩu, lịch sử của bạn, vv. bằng một tài khoản.
+firefoxview-syncedtabs-signin-primarybutton-2 = Đăng nhập
 firefoxview-syncedtabs-signin-header = Lấy các thẻ từ bất cứ đâu
 firefoxview-syncedtabs-signin-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, hãy đăng nhập vào tài khoản của bạn. Nếu bạn chưa có tài khoản, chúng tôi sẽ hướng dẫn bạn các bước để đăng ký.
 firefoxview-syncedtabs-signin-primarybutton = Đăng nhập hoặc đăng ký
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Đồng bộ hóa { -brand-product-name
 firefoxview-tabpickup-adddevice-description = Tải xuống { -brand-product-name } cho điện thoại di động và đăng nhập vào đó.
 firefoxview-tabpickup-adddevice-learn-how = Tìm hiểu cách làm
 firefoxview-tabpickup-adddevice-primarybutton = Tải { -brand-product-name } dành cho điện thoại di động
+firefoxview-syncedtabs-adddevice-header-2 = Lấy các thẻ từ bất cứ đâu
+firefoxview-syncedtabs-adddevice-description-2 = Đăng nhập vào { -brand-product-name } trên điện thoại hoặc máy vi tính để được xem các thẻ ở đây. Tìm hiểu cách <a data-l10n-name="url">kết nối thêm thiết bị</a>.
 firefoxview-syncedtabs-adddevice-header = Đăng nhập vào { -brand-product-name } trên các thiết bị khác của bạn
 firefoxview-syncedtabs-adddevice-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, đăng nhập trên tất cả các thiết bị của bạn. Tìm hiểu cách <a data-l10n-name="url">kết nối các thiết bị khác</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Thử { -brand-product-name } cho di động
@@ -224,6 +229,8 @@ firefoxview-choose-browser-button = Chọn trình duyệt
 firefoxview-dont-remember-history-empty-header = Không có gì để hiển thị
 firefoxview-dont-remember-history-empty-description = Bảo vệ sự riêng tư của bạn là trọng tâm của những gì chúng tôi làm. Đó là lý do tại sao bạn có thể kiểm soát hoạt động mà { -brand-short-name } ghi nhớ.
 firefoxview-dont-remember-history-empty-description-two = Dựa trên cài đặt hiện tại của bạn, { -brand-short-name } không nhớ hoạt động của bạn khi bạn duyệt. Để thay đổi ý định, <a data-l10n-name="history-settings-url-two">hãy thay đổi cài đặt lịch sử của bạn để ghi nhớ lịch sử của bạn</a>.
+firefoxview-dont-remember-history-empty-header-2 = Bạn được quyền kiểm soát những gì { -brand-short-name } nhớ.
+firefoxview-dont-remember-history-empty-description-one = Hiện tại, { -brand-short-name } không nhớ hoạt động duyệt web của bạn. Để chỉnh tuỳ chọn này, <a data-l10n-name="history-settings-url-two">cập nhật cài đặt lịch sử</a>.
 
 ##
 
