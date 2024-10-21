@@ -24,7 +24,7 @@ firefoxview-empty-state-icon =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Vừa xong
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Các thẻ trên thiết bị khác
+firefoxview-tabpickup-header = Thẻ trên thiết bị khác
 firefoxview-tabpickup-description = Mở trang từ các thiết bị khác.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -33,7 +33,7 @@ firefoxview-tabpickup-step-signin-header = Chuyển đổi liền mạch giữa 
 firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ điện thoại của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
 firefoxview-tabpickup-step-signin-primarybutton = Tiếp tục
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } của riêng bạn trên tất cả các thiết bị
-firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên điện thoại và các thiết bị khác của bạn, xin vui lòng đăng nhập hoặc đăng ký tài khoản. Bạn cũng được đồng bộ các mật khẩu, lịch sử của bạn, vv. bằng một tài khoản.
+firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên điện thoại và các thiết bị khác của bạn, hãy đăng nhập hoặc đăng ký tài khoản. Với tài khoản, bạn cũng có thể đồng bộ hoá mật khẩu, lịch sử của bạn và hơn thế nữa.
 firefoxview-syncedtabs-signin-primarybutton-2 = Đăng nhập
 firefoxview-syncedtabs-signin-header = Lấy các thẻ từ bất cứ đâu
 firefoxview-syncedtabs-signin-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, hãy đăng nhập vào tài khoản của bạn. Nếu bạn chưa có tài khoản, chúng tôi sẽ hướng dẫn bạn các bước để đăng ký.
@@ -43,7 +43,7 @@ firefoxview-tabpickup-adddevice-description = Tải xuống { -brand-product-nam
 firefoxview-tabpickup-adddevice-learn-how = Tìm hiểu cách làm
 firefoxview-tabpickup-adddevice-primarybutton = Tải { -brand-product-name } dành cho điện thoại di động
 firefoxview-syncedtabs-adddevice-header-2 = Lấy các thẻ từ bất cứ đâu
-firefoxview-syncedtabs-adddevice-description-2 = Đăng nhập vào { -brand-product-name } trên điện thoại hoặc máy vi tính để được xem các thẻ ở đây. Tìm hiểu cách <a data-l10n-name="url">kết nối thêm thiết bị</a>.
+firefoxview-syncedtabs-adddevice-description-2 = Đăng nhập vào { -brand-product-name } trên điện thoại hoặc máy tính để xem các thẻ ở đây. Tìm hiểu cách <a data-l10n-name="url">kết nối thiết bị khác</a>.
 firefoxview-syncedtabs-adddevice-header = Đăng nhập vào { -brand-product-name } trên các thiết bị khác của bạn
 firefoxview-syncedtabs-adddevice-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, đăng nhập trên tất cả các thiết bị của bạn. Tìm hiểu cách <a data-l10n-name="url">kết nối các thiết bị khác</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Thử { -brand-product-name } cho di động
