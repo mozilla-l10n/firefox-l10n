@@ -233,6 +233,7 @@ firefoxview-choose-browser-button = Επιλογή προγράμματος πε
 firefoxview-dont-remember-history-empty-header = Δεν υπάρχουν δεδομένα
 firefoxview-dont-remember-history-empty-description = Η προστασία του απορρήτου σας βρίσκεται στο επίκεντρο της αποστολής μας. Γι' αυτό, μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Με βάση τις τρέχουσες ρυθμίσεις σας, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητά σας κατά την περιήγηση. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">αλλάξτε τις ρυθμίσεις απομνημόνευσης του ιστορικού σας</a>.
+firefoxview-dont-remember-history-empty-header-2 = Εσείς έχετε τον έλεγχο του τι αποθηκεύει το { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Προς το παρόν, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητα περιήγησής σας. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">ενημερώστε τις ρυθμίσεις ιστορικού σας</a>.
 
 ##
