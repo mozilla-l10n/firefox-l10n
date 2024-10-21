@@ -616,6 +616,12 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜索{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜索
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }，选取搜索引擎
+    .tooltiptext = { $engine }，选取搜索引擎
 urlbar-searchmode-dropmarker =
     .tooltiptext = 选取搜索引擎
 urlbar-searchmode-bookmarks =

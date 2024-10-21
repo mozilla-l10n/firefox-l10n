@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
 firefoxview-tabpickup-step-signin-header = 无缝切换设备
 firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，即可在此处接收手机上的标签页。
 firefoxview-tabpickup-step-signin-primarybutton = 继续
+firefoxview-syncedtabs-signin-header-2 = 您各设备上的 { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = 若要查看您在手机等其他设备上打开的标签页，请登录或注册账户。您还可以借助账户来同步密码、历史记录等数据。
 firefoxview-syncedtabs-signin-primarybutton-2 = 登录
 firefoxview-syncedtabs-signin-header = 跨平台接收标签页
