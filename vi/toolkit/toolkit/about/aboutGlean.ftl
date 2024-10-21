@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Điều này có nghĩa là danh mục chỉ số và tên chỉ số được định dạng trong
     <code>camelCase</code> sẽ không giống như ở Rust và C++ API.
 controls-button-label-verbose = Áp dụng cài đặt và gửi ping
+about-glean-feedback-settings-only =
+    .message = Đã áp dụng cài đặt!
+about-glean-feedback-settings-and-ping =
+    .message = Đã áp dụng cài đặt và đã gửi ping!
 about-glean-about-data-header = Về dữ liệu
 about-glean-about-data-explanation =
     Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo

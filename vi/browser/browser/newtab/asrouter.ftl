@@ -243,6 +243,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Tạo tài khoản
 device-migration-fxa-spotlight-getting-new-device-header-2 = Thiết bị mới trong tương lai của bạn?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Hãy làm theo một số bước đơn giản để mang theo dấu trang, lịch sử và mật khẩu khi bạn bắt đầu sử dụng thiết bị mới.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Làm thế nào để sao lưu dữ liệu của tôi
+device-migration-fxa-spotlight-sync-header = Duyệt mà không bỏ lỡ nhịp nào
+device-migration-fxa-spotlight-sync-body = Đồng bộ hóa tất cả thông tin quan trọng của bạn bằng mã hóa — như dấu trang và mật khẩu. Bạn có thể tìm thấy mọi thứ bất cứ nơi nào bạn sử dụng { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Bắt đầu
 
 ## Set as Default PDF Reader Infobar
 

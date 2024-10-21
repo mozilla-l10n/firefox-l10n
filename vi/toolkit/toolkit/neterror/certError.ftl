@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Chứng nhận không đáng tin
 cert-error-trust-expired-issuer = Chứng nhận không đáng tin cậy vì chứng nhận bên cấp phát đã hết hạn.
 cert-error-trust-self-signed = Chứng nhận này không đáng tin cậy vì nó được tự ký.
 cert-error-trust-symantec = Chứng nhận do GeoTrust, RapidSSL, Symantec, Thawte và VeriSign cấp không còn được coi là an toàn vì các cơ quan cấp chứng nhận này đã không tuân theo các thực tiễn bảo mật trong quá khứ.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } không tin tưởng { $hostname } bởi vì nó không thể chứng minh nó đáp ứng các yêu cầu về tính minh bạch của chứng chỉ công khai.
 cert-error-untrusted-default = Chứng nhận không thuộc về một nguồn đáng tin cậy.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
