@@ -626,8 +626,8 @@ urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ile ara
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button =
-    .label = { $engine }, Bir arama motoru seçin
-    .tooltiptext = { $engine }, Bir arama motoru seçin
+    .label = { $engine }, arama motorunu değiştir
+    .tooltiptext = { $engine }, arama motorunu değiştir
 urlbar-searchmode-dropmarker =
     .tooltiptext = Bir arama motoru seçin
 urlbar-searchmode-bookmarks =
