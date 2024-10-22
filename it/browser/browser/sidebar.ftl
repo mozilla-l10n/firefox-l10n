@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verifica recensioni
+sidebar-options-menu-button =
+  .title = Apri menu
 
 ## Labels for sidebar history panel
 
