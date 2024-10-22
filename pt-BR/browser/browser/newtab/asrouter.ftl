@@ -246,6 +246,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Planeja ter um novo dispositivo?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Siga algumas etapas simples para levar seus favoritos, histórico e senhas com você ao começar a usar um novo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como fazer backup dos meus dados
+device-migration-fxa-spotlight-sync-header = Navegue sem perder o ritmo
+device-migration-fxa-spotlight-sync-body = Sincronize com criptografia todas as suas informações importantes, como favoritos e senhas. Você pode acessar tudo em qualquer lugar que use o { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Começar
 
 ## Set as Default PDF Reader Infobar
 
