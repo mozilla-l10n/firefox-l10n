@@ -98,6 +98,8 @@ about-glean-adhoc-note =
     Kjo do të thotë se kategoria metrike dhe emri metrik formatohen në
     <code>camelCase</code>, ndryshe nga ç’ndodh në API Rust dhe C++.
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
+about-glean-feedback-settings-only =
+    .message = Rregullimet u aplikuan!
 about-glean-about-data-header = Mbi të Dhënat
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni

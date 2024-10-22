@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Personalizoni skedën e re
 newtab-personalize-dialog-label =
     .aria-label = Personalizojeni
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -229,6 +231,8 @@ newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni dhe ushqejeni mendjen me lexime të mahnitshme.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } është pjesë e familjes { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Ruaje
 newtab-pocket-saved = U ruajt
 

@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Mbyll skeda të përsëdytura
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Mbylli krejt skedat e përsëdytura
+all-tabs-menu-synced-tabs =
+    .label = Skeda prej pajisjesh të tjera

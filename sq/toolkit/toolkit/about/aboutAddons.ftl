@@ -478,6 +478,7 @@ details-notification-unsigned-link = Më Tepër Hollësi
 details-notification-blocked = { $name } është çaktivizuar për shkak problemesh sigurie ose qëndrueshmërie.
 details-notification-blocked2 =
     .message = { $name } është çaktivizuar për shkak problemesh sigurie ose qëndrueshmërie.
+details-notification-softblocked-link2 = Shihni Hollësitë
 details-notification-blocked-link = Më Tepër Hollësi
 details-notification-softblocked = { $name } njihet si shkaktare problemesh sigurie ose qëndrueshmërie.
 details-notification-softblocked2 =

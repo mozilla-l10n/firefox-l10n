@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% e plotësuar
 firefoxview-tabpickup-step-signin-header = Kaloni si pa u kuptuar nga një pajisje në tjetrën
 firefoxview-tabpickup-step-signin-description = Që të merrni skedat e telefonit tuaj këtu, së pari bëni hyrjen, ose krijoni një llogari të re.
 firefoxview-tabpickup-step-signin-primarybutton = Vazhdo
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name }-i jua në krejt pajisjet tuaja
+firefoxview-syncedtabs-signin-primarybutton-2 = Hyni
 firefoxview-syncedtabs-signin-header = Përlani skeda nga kudo
 firefoxview-syncedtabs-signin-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogarinë tuaj. Nëse s’keni një llogari, do t’ju udhëheqim përmes hapave për të regjistruar një të tillë.
 firefoxview-syncedtabs-signin-primarybutton = Hyni ose regjistrohuni
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Njëkohësoni { -brand-product-name }-i
 firefoxview-tabpickup-adddevice-description = Shkarkoni { -brand-product-name }-in për celular dhe hyni nga këtu.
 firefoxview-tabpickup-adddevice-learn-how = Mësoni se si
 firefoxview-tabpickup-adddevice-primarybutton = Merrni { -brand-product-name } për celular
+firefoxview-syncedtabs-adddevice-header-2 = Përlani skeda nga kudo
 firefoxview-syncedtabs-adddevice-header = Bëni hyrjen në { -brand-product-name } te pajisjet tuaja të tjera
 firefoxview-syncedtabs-adddevice-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogaritë përkatëse në krejt pajisjet tuaja. Mësoni si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
@@ -228,6 +231,7 @@ firefoxview-choose-browser-button = Zgjidhni shfletues
 firefoxview-dont-remember-history-empty-header = Asgjë për shfaqje
 firefoxview-dont-remember-history-empty-description = Mbrojtja e privatësisë tuaj është në qendër të asaj me çka merremi. Kjo është arsyeja pse mund të kontrolloni veprimtarinë që mban mend { -brand-short-name }-i.
 firefoxview-dont-remember-history-empty-description-two = Bazuar në rregullimet tuaja të tanishme, { -brand-short-name }-i nuk mban mend ndonjë veprimtari, teksa shfletoni. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">ndryshoni rregullimet tuaja për historikun, që ky të mbahet mend</a>.
+firefoxview-dont-remember-history-empty-header-2 = Se çfarë mban mend { -brand-short-name }-i e kontrolloni ju
 
 ##
 
