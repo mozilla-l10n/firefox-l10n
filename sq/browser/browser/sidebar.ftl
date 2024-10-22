@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Robot IA Fjalosjesh
+menu-view-review-checker =
+    .label = Kontrollor Shqyrtimesh
 
 ## Labels for sidebar history panel
 
@@ -132,16 +134,8 @@ sidebar-syncedtabs-title = Skeda prej pajisjesh të tjera
 synced-tabs-context-close-tab-title =
     .title = Mbylle skedën te { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Zgjeroje anështyllën
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Tkurre anështyllën
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Shfaqe anështyllën
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Fshihe anështyllën
 sidebar-widget-expand-sidebar =
     .tooltiptext = Zgjeroje anështyllën
     .label = Anështylla

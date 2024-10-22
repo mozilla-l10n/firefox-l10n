@@ -246,6 +246,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Pajisje e re e juaj
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ndiqni pak hapa të thjeshtë për të sjellë faqerojtësit tuaj, historikun dhe fjalëkalimet, kur filloni në një pajisje të re.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Si të kopjeruaj të dhënat e mia
 device-migration-fxa-spotlight-sync-header = Shfletoni pa humbur një grimë
+device-migration-fxa-spotlight-sync-body = Njëkohësoni me fshehtëzim krejt të dhënat tuaja të rëndësishme — bie fjala, faqerojtës dhe fjalëkalime. Mund të merrni më pas ç’të doni, kudo që përdorni { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Fillojani
 
 ## Set as Default PDF Reader Infobar
