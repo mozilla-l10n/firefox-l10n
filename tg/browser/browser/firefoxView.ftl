@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
 firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
 firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
+firefoxview-syncedtabs-signin-header-2 = «{ -brand-product-name }»-и шумо дар ҳамаи дастгоҳҳои шумо
+firefoxview-syncedtabs-signin-primarybutton-2 = Ворид шудан
 firefoxview-syncedtabs-signin-header = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
 firefoxview-syncedtabs-signin-description = Барои дидани варақаҳои худ аз ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, ба ҳисоби худ ворид шавед. Агар шумо ҳисоб надошта бошед, мо ба шумо ҳангоми иҷрои қадамҳои сабти ном мусоидат менамоем.
 firefoxview-syncedtabs-signin-primarybutton = Ворид шавед ё сабти ном кунед
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-pro
 firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-product-name }»-ро барои телефони моболии худ боргирӣ кунед ва дар он ҷо ворид шавед.
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
+firefoxview-syncedtabs-adddevice-header-2 = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
 firefoxview-syncedtabs-adddevice-header = Дар дастгоҳҳои дигари худ ба «{ -brand-product-name }» ворид шавед
 firefoxview-syncedtabs-adddevice-description = Барои дидани варақаҳои худ аз ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, дар ҳамаи дастгоҳҳои худ ворид шавед. Барои тарзи <a data-l10n-name="url">пайваст кардани дастгоҳҳои иловагӣ</a> маълумоти бештар гиред.
 firefoxview-syncedtabs-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро барои дастгоҳи мобилӣ кӯшиш кунед

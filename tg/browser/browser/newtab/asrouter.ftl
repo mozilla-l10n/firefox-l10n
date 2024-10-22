@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Эҷод карда
 device-migration-fxa-spotlight-getting-new-device-header-2 = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ҳангоми оғози кор бо дастгоҳи нав шумо метавонед бо иҷро кардани якчанд қадами одӣ ҳамаи хатбаракҳо, таърих ва ниҳонвожаҳои худро ба браузери нав бурда расонед.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
+device-migration-fxa-spotlight-sync-primary-button = Оғози кор
 
 ## Set as Default PDF Reader Infobar
 

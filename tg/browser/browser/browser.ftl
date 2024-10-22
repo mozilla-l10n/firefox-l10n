@@ -620,6 +620,20 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Ҷустуҷӯ д�
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Ҷустуҷӯ ба воситаи «{ $engine }»
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Низоми ҷустуҷӯиро интихоб намоед
+urlbar-searchmode-bookmarks =
+    .label = Хатбаракҳо
+urlbar-searchmode-tabs =
+    .label = Варақаҳо
+urlbar-searchmode-history =
+    .label = Таърих
+urlbar-searchmode-actions =
+    .label = Амалҳо
+urlbar-searchmode-exit-button =
+    .tooltiptext = Пӯшидан
+urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
+urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
