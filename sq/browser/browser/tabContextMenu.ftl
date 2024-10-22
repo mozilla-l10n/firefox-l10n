@@ -88,6 +88,12 @@ tab-context-share-url =
 tab-context-new-tab-open =
     .label = Skedë e re Djathtas
     .accesskey = a
+tab-context-new-tab-open-vertical =
+    .label = Skedë e Re Poshtë
+    .accesskey = e
+tab-context-new-group =
+    .label = Grup i Ri
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

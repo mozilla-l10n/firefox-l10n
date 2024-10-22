@@ -245,6 +245,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Krijoni një llogar
 device-migration-fxa-spotlight-getting-new-device-header-2 = Pajisje e re e juaj në të ardhmen?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ndiqni pak hapa të thjeshtë për të sjellë faqerojtësit tuaj, historikun dhe fjalëkalimet, kur filloni në një pajisje të re.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Si të kopjeruaj të dhënat e mia
+device-migration-fxa-spotlight-sync-header = Shfletoni pa humbur një grimë
+device-migration-fxa-spotlight-sync-primary-button = Fillojani
 
 ## Set as Default PDF Reader Infobar
 
@@ -293,3 +295,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Më vonë
     .accesskey = v
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Mbylle
+    .aria-label = Mbylleni
