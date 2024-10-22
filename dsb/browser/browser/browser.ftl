@@ -631,6 +631,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – z { $engine } pytaś
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, wubjeŕśo pytnicu
+    .tooltiptext = { $engine }, wubjeŕśo pytnicu
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Wubjeŕśo pytnicu
+urlbar-searchmode-bookmarks =
+    .label = Cytańske znamjenja
+urlbar-searchmode-tabs =
+    .label = Rejtariki
+urlbar-searchmode-history =
+    .label = Historija
+urlbar-searchmode-actions =
+    .label = Akcije
+urlbar-searchmode-exit-button =
+    .tooltiptext = Zacyniś
+urlbar-searchmode-popup-description = Tenraz pytaś z:
+urlbar-searchmode-popup-search-settings = Pytańske nastajenja
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
