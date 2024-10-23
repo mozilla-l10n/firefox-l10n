@@ -620,6 +620,26 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Tschertgar en { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Tschertgar cun { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, tscherner ina maschina da tschertgar
+    .tooltiptext = { $engine }, tscherner ina maschina da tschertgar
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Tscherner ina maschina da tschertgar
+urlbar-searchmode-bookmarks =
+    .label = Segnapaginas
+urlbar-searchmode-tabs =
+    .label = Tabs
+urlbar-searchmode-history =
+    .label = Cronologia
+urlbar-searchmode-actions =
+    .label = Acziuns
+urlbar-searchmode-exit-button =
+    .tooltiptext = Serrar
+urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
+urlbar-searchmode-popup-search-settings = Parameters da tschertga
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

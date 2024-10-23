@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = Cumplettà per { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Mida spert dad in apparat a l'auter
 firefoxview-tabpickup-step-signin-description = Per ir qua per tes tabs dal telefonin, t'annunzia l'emprim u creescha in conto.
 firefoxview-tabpickup-step-signin-primarybutton = Cuntinuar
+firefoxview-syncedtabs-signin-header-2 = Tes { -brand-product-name } sin tut tes apparats
+firefoxview-syncedtabs-signin-description-2 = Per vesair ils tabs che ti has avert sin tes telefonin u auters apparats, t’annunzia u creescha in conto. Cun in conto pos ti era sincronisar tes pleds-clav, la cronologia e dapli.
+firefoxview-syncedtabs-signin-primarybutton-2 = S’annunziar
 firefoxview-syncedtabs-signin-header = Va per tes tabs sin mintga apparat
 firefoxview-syncedtabs-signin-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia en tes conto. Sche ti n'has nagin conto, guidain nus tai tras il process da registraziun.
 firefoxview-syncedtabs-signin-primarybutton = S'annunziar u sa registrar
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sincronisescha { -brand-product-name } 
 firefoxview-tabpickup-adddevice-description = Telechargia { -brand-product-name } per apparats mobils e t'annunzia là.
 firefoxview-tabpickup-adddevice-learn-how = Ve a savair co
 firefoxview-tabpickup-adddevice-primarybutton = Telechargia { -brand-product-name } per apparats mobils
+firefoxview-syncedtabs-adddevice-header-2 = Va per tes tabs sin mintga apparat
+firefoxview-syncedtabs-adddevice-description-2 = T’annunzia en { -brand-product-name } sin tes telefonin u sin in auter computer per vesair qua ils tabs. Ve a savair co <a data-l10n-name="url">associar ulteriurs apparats</a>.
 firefoxview-syncedtabs-adddevice-header = T'annunzia en { -brand-product-name } sin tes auters apparats
 firefoxview-syncedtabs-adddevice-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia sin tut tes apparats. Ve a savair co <a data-l10n-name="url">connectar ulteriurs apparats</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Emprova { -brand-product-name } per apparats mobils
@@ -228,6 +233,8 @@ firefoxview-choose-browser-button = Tscherner in navigatur
 firefoxview-dont-remember-history-empty-header = Nagut per mussar
 firefoxview-dont-remember-history-empty-description = La protecziun da tias datas è nossa prioritad. Perquai pos ti decider tge activitads che { -brand-short-name } duai memorisar.
 firefoxview-dont-remember-history-empty-description-two = Tenor tes parameters actuals, na memorisescha { -brand-short-name } betg tia navigaziun. Per midar quai, <a data-l10n-name="history-settings-url-two">adattescha ils parameters da la cronologia per memorisar tia cronologia</a>.
+firefoxview-dont-remember-history-empty-header-2 = Ti pos controllar tge che { -brand-short-name } memorisescha
+firefoxview-dont-remember-history-empty-description-one = Per il mument na tegna { -brand-short-name } betg endament tia navigaziun. Per midar quai, <a data-l10n-name="history-settings-url-two">actualisescha tes parameters da la cronologia</a>.
 
 ##
 

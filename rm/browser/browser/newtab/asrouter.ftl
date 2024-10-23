@@ -246,6 +246,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Crear in conto
 device-migration-fxa-spotlight-getting-new-device-header-2 = In nov apparat en tes futur?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Suonda in pèr simpels pass per prender cun tai tes segnapaginas, la cronologia ed ils pleds-clav sche ti has in nov apparat.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Co far copias da segirezza da mias datas
+device-migration-fxa-spotlight-sync-header = Navighescha senza perder il fil
+device-migration-fxa-spotlight-sync-body = Sincronisescha tut tias infurmaziuns impurtantas – sco segnapaginas e pleds-clav – a moda criptada. Ti pos acceder a tut las datas dapertut là nua che ti utiliseschas { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Cumenzar
 
 ## Set as Default PDF Reader Infobar
 

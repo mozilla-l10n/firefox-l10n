@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Da quest certificat na vegn betg
 cert-error-trust-expired-issuer = I na vegn betg fidà al certificat, perquai ch'il certificat da l'emettur è scrudà.
 cert-error-trust-self-signed = I na vegn betg fidà al certificat, perquai ch'el è vegnì suttascrit sez.
 cert-error-trust-symantec = Certificats emess da GeoTrust, RapidSSL, Symantec, Thawte e VeriSign na vegnan betg pli considerads sco segirs cunquai che questas autoritads da certificaziun n'han betg resguardà directivas da segirezza en il passà.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } na sa fida betg da { $hostname } perquai ch’il server n’ha betg pudì cumprovar ch’el satisfa a las exigenzas concernent la transparenza da certificats publics.
 cert-error-untrusted-default = Il certificat na deriva betg d'ina funtauna degna da confidenza.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
