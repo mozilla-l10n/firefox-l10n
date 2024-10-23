@@ -25,6 +25,7 @@ update-applying = Primjenjujem nadogradnju…
 update-failed = Neuspješna nadogradnja. <label data-l10n-name="failed-link">Preuzmi posljednju verziju</label>
 update-failed-main = Neuspješna nadogradnja. <a data-l10n-name="failed-link-main">Preuzmi posljednju verziju</a>
 update-adminDisabled = Nadogradnje koje je onemogućio vaš sistemski administrator
+update-policy-disabled = Vaša organizacija je onemogućila ažuriranja
 update-noUpdatesFound = Koristite posljednju verziju { -brand-short-name }a
 aboutdialog-update-checking-failed = Provjera ažuriranja nije uspjela.
 update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od strane druge instance
@@ -63,3 +64,14 @@ aboutDialog-version = { $version } ({ $bits }-bitna)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bitna)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $verzija } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $verzija } ({ $isodate }) ({ $arch })

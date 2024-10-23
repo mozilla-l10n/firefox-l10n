@@ -1240,9 +1240,19 @@ collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name } 
 collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
     .accesskey = c
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju vaše pretraživanje
+privacy-segmentation-section-description = Kada nudimo funkcije koje koriste vaše podatke kako bi vam pružile ličnije iskustvo:
+privacy-segmentation-radio-off =
+    .label = Koristite preporuke { -brand-product-name }a
+privacy-segmentation-radio-on =
+    .label = Prikaži detaljne informacije
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Postavke oglašavanja na web stranici
+website-advertising-private-attribution =
+    .label = Dozvolite web stranicama da vrše mjerenje oglasa za očuvanje privatnosti
+    .accesskey = a
+website-advertising-private-attribution-description = Ovo pomaže web stranicama da razumiju učinak njihovih oglasa bez prikupljanja podataka o vama.
 
 ## Privacy Section - Security
 ##
@@ -1274,9 +1284,31 @@ certs-view =
 certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = U
+certs-thirdparty-toggle =
+    .label = Dozvolite { -brand-short-name } da automatski vjeruje korijenskim certifikatima treće strane koje instalirate
+    .accesskey = t
+space-alert-over-5gb-settings-button =
+    .label = Otvori postavke
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostora na disku.</strong> Sadržaj web stranice se možda neće pravilno prikazati. Pohranjene podatke možete obrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci o web stranici.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostora na disku.</strong> Sadržaj web stranice se možda neće pravilno prikazati. Posjetite “Saznajte više” da optimizirate korištenje diska za bolje iskustvo pretraživanja.
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Način rada samo za HTTPS
+httpsonly-description = HTTPS pruža sigurnu, šifrovanu vezu između { -brand-short-name } i web stranica koje posjećujete. Većina web stranica podržava HTTPS, a ako je omogućen način rada samo za HTTPS, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrovane veze sa web stranicama koje posjećujete. { -brand-short-name } će vas upozoriti ako veza nije sigurna kada je uključen samo HTTPS.
+httpsonly-learn-more = Saznajte više
+httpsonly-radio-enabled =
+    .label = Omogućite režim samo za HTTPS u svim prozorima
+httpsonly-radio-enabled2 =
+    .label = Koristite samo HTTPS u svim prozorima
+httpsonly-radio-enabled-pbm =
+    .label = Omogućite samo HTTPS način rada samo u privatnim prozorima
+httpsonly-radio-enabled-pbm2 =
+    .label = Koristite samo HTTPS u privatnim prozorima
+httpsonly-radio-disabled =
+    .label = Ne omogućavajte samo HTTPS način rada
 
 ## DoH Section
 
