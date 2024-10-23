@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Dëshmia nuk është e besueshme
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
 cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tej të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } s’i zë besë { $hostname }, ngaqë s’provoi dot se plotëson domosdoshmëri transparence dëshmish.
 cert-error-untrusted-default = Dëshmia nuk vjen nga një burim i besuar.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
