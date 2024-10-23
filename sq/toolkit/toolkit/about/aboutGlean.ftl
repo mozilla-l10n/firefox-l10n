@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (mos parashtro ndonjë ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Në fushën para kësaj garantoni se ka një etiketë diagnostikimi që mund të mbahet mend, që të mund të dalloni ping-et tuaja më vonë.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Rregullimet u aplikuan dhe u dërgua ping!
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
