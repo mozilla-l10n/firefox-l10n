@@ -253,7 +253,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Nowy grat we wašim
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slědujće mało jednorym krokam, zo byšće swoje zapołožki, historiju a hesła sobu wzał, hdyž na nowym graće započinaće.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak móžu swoje daty zawěsćić
 device-migration-fxa-spotlight-sync-header = Přehladujće bjez komdźenja
-device-migration-fxa-spotlight-sync-body = Synchronizujće wšě waše wažne informacije ze zaklučowanjom 0 na přikład zapołožki a hesła. Móžeće wšitko tam ćahnyć, hdźež { -brand-product-name } wužiwaće.
+device-migration-fxa-spotlight-sync-body = Synchronizujće wšě waše wažne informacije ze zaklučowanjom – na přikład zapołožki a hesła. Móžeće wšitko tam ćahnyć, hdźež { -brand-product-name } wužiwaće.
 device-migration-fxa-spotlight-sync-primary-button = Prěnje kroki
 
 ## Set as Default PDF Reader Infobar
