@@ -91,19 +91,19 @@ account-multiple-tabs-arriving-title = Schede ricevute
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
     { $tabCount ->
-        [one] è arrivata { $tabCount } scheda da { $deviceName }
-       *[other] sono arrivate { $tabCount } schede da { $deviceName }
+        [one] È arrivata { $tabCount } scheda da { $deviceName }
+       *[other] Sono arrivate { $tabCount } schede da { $deviceName }
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
-        [one] è arrivata { $tabCount } scheda dai dispositivi connessi
-       *[other] sono arrivate { $tabCount } schede dai dispositivi connessi
+        [one] È arrivata { $tabCount } scheda dai dispositivi connessi
+       *[other] Sono arrivate { $tabCount } schede dai dispositivi connessi
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
-        [one] è arrivata { $tabCount } scheda
-       *[other] sono arrivate { $tabCount } schede
+        [one] È arrivata { $tabCount } scheda
+       *[other] Sono arrivate { $tabCount } schede
     }
 
 ## These strings are used in notifications in which the user remotely closed
