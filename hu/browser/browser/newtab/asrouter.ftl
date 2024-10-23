@@ -246,6 +246,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Fiók létrehozása
 device-migration-fxa-spotlight-getting-new-device-header-2 = Új eszköz a jövőben?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Kövessen néhány egyszerű lépést, hogy magával vigye a könyvjelzőit, előzményeit és jelszavait, amikor új eszközt kezd használni.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
+device-migration-fxa-spotlight-sync-header = Böngésszen zökkenőmentesen
+device-migration-fxa-spotlight-sync-body = Szinkronizálja az összes fontos adatát titkosítással – például a könyvjelzőket és a jelszavakat. Bárhol elér mindent, ahol a { -brand-product-name(case: "accusative") } használja.
+device-migration-fxa-spotlight-sync-primary-button = Kezdő lépések
 
 ## Set as Default PDF Reader Infobar
 

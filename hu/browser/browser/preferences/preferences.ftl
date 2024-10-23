@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = A { -brand-short-name } automatikus megnyitása a számítógép indításakor
     .accesskey = m
 windows-launch-on-login-disabled = Ez a beállítás le lett tiltva a Windowsban. A módosításhoz nyissa meg az <a data-l10n-name="startup-link">Indítási alkalmazások</a> oldalt a Rendszerbeállításokban.
+windows-launch-on-login-profile-disabled = Engedélyezze ezt a beállítást a „{ profile-manager-use-selected.label }” kiválasztásával a „Felhasználói profil kiválasztása” ablakban.
 startup-restore-warn-on-quit =
     .label = Figyelmeztetés, amikor kilép a böngészőből
 disable-extension =
@@ -640,6 +641,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Keresési javaslatok megjelenítése a címsáv találataiban
     .accesskey = K
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Keresési kifejezések megjelenítése a találati oldalak címsorában
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
