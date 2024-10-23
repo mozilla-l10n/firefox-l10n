@@ -172,3 +172,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Hapjani zërin skedës
 tabbrowser-manager-close-tab =
     .tooltiptext = Mbylleni skedën
+
+## Tab Groups
+
+tab-group-editor-title-create = Krijoni grup skedash
+tab-group-editor-title-edit = Administroni grup skedash
+tab-group-editor-name-label = Emër
+tab-group-editor-name-field =
+    .placeholder = Shembull:Koncerte
+tab-group-editor-cancel =
+    .label = Anuloje
+    .accesskey = A

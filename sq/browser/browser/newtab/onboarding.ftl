@@ -407,5 +407,9 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Një dritare shfletuesi që i shfaq skeda përgjatë kreut.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Provoni te anështylla një robot IA fjalosjesh
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Krijoni përmbledhje lënde web, përftoni ide të reja, hartoni mesazhe — krejt kjo teksa shfletoni. Zgjidhni prej shërbimesh të ndryshme. Ndërroni mënyrën kur të doni. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 onboarding-genai-sidebar-primary-button = Zgjidhni një robot fjalosjesh
 onboarding-genai-sidebar-secondary-button = Nisni shfletimin
