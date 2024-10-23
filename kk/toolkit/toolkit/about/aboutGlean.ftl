@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Бұл Rust және C++ API интерфейстерінен айырмашылығы метрика санаты мен метрика атауы
     <code>camelCase</code> форматында пішімделгенін білдіреді.
 controls-button-label-verbose = Баптауларды іске асырып, пинг жіберу
+about-glean-feedback-settings-only =
+    .message = Баптаулар іске асырылды!
+about-glean-feedback-settings-and-ping =
+    .message = Баптаулар іске асырылды және пинг жіберілді!
 about-glean-about-data-header = Деректер туралы
 about-glean-about-data-explanation =
     Жиналған деректер тізімін шолу үшін,
