@@ -244,6 +244,8 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Болашақта 
 device-migration-fxa-spotlight-getting-new-device-body-2 = Жаңа құрылғыны пайдалануды бастаған кезде бетбелгілер, тарих және парольдерді өзіңізбен бірге алып келу үшін бірнеше қарапайым қадамдарды орындаңыз.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
 device-migration-fxa-spotlight-sync-header = Бір қадамды жіберіп алмай шолыңыз
+device-migration-fxa-spotlight-sync-body = Бетбелгілер мен парольдер сияқты барлық маңызды ақпаратты шифрлеумен синхрондаңыз. Сіз { -brand-product-name } қолданатын кез келген жерде оның бәріне де қол жеткізе аласыз.
+device-migration-fxa-spotlight-sync-primary-button = Бастау
 
 ## Set as Default PDF Reader Infobar
 
@@ -295,3 +297,6 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Жабу
+    .aria-label = Жабу
