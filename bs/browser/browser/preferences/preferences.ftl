@@ -764,13 +764,48 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sinhronizacija: UKLJUČENO
+prefs-syncing-off = Sinhronizacija: ISKLJUČENO
+prefs-sync-turn-on-syncing =
+    .label = Uključi sinhronizaciju…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sinhronizirajte svoje oznake, historiju, kartice, lozinke, dodatke i postavke na svim svojim uređajima.
+prefs-sync-now =
+    .labelnotsyncing = Sinhronizuj sada
+    .accesskeynotsyncing = N
+    .labelsyncing = Sinhronizacija…
+prefs-sync-now-button =
+    .label = Sinhronizuj sada
+    .accesskey = N
+prefs-syncing-button =
+    .label = Sinhronizujem…
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Sinhronizirate ove stavke na svim povezanim uređajima:
+sync-currently-syncing-bookmarks = Oznake
+sync-currently-syncing-history = Historija
+sync-currently-syncing-tabs = Otvoreni tabovi
 sync-currently-syncing-logins-passwords = Prijave i lozinke
+sync-currently-syncing-passwords = Lozinke
+sync-currently-syncing-addresses = Adrese
+sync-currently-syncing-creditcards = Kreditne kartice
+sync-currently-syncing-payment-methods = Načini plaćanja
+sync-currently-syncing-addons = Dodaci
+sync-currently-syncing-settings = Postavke
+sync-change-options =
+    .label = Promijeni…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog3 =
+    .title = Odaberite šta da sinhronizujete
+    .style = min-width: 36em;
+    .buttonlabelaccept = Sačuvaj promjene
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Promjene na listi stavki za sinhronizaciju će se odraziti na svim vašim povezanim uređajima.
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
@@ -785,6 +820,10 @@ sync-engine-logins-passwords =
     .label = Prijave i lozinke
     .tooltiptext = Korisnička imena i lozinke koje ste spasili
     .accesskey = L
+sync-engine-passwords =
+    .label = Lozinke
+    .tooltiptext = Lozinke koje ste sačuvali
+    .accesskey = P
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Poštanske adrese koje ste spasili (samo desktop)
@@ -793,10 +832,18 @@ sync-engine-creditcards =
     .label = Kreditne kartice
     .tooltiptext = Imena, brojevi i datumi isteka (samo desktop)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Načini plaćanja
+    .tooltiptext = Imena, brojevi kartica i datumi isteka
+    .accesskey = n
 sync-engine-addons =
     .label = Add-oni
     .tooltiptext = Ekstenzije i teme za Firefox desktop
     .accesskey = A
+sync-engine-settings =
+    .label = Postavke
+    .tooltiptext = Opće postavke, postavke privatnosti i sigurnosti koje ste promijenili
+    .accesskey = s
 
 ## The device name controls.
 
@@ -810,6 +857,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Spasi
     .accesskey = s
+sync-connect-another-device = Povežite drugi uređaj
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -837,13 +885,33 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Lozinke
+    .searchkeywords = prijave
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Pitaj za spremanje lozinki
+    .accesskey = A
 forms-exceptions =
     .label = Izuzeci…
     .accesskey = I
 forms-generate-passwords =
     .label = Predlaži i kreiraj snažne lozinke
     .accesskey = u
+forms-suggest-passwords =
+    .label = Predloži jaku lozinku
+    .accesskey = S
+forms-breach-alerts =
+    .label = Prikaži upozorenja o lozinkama za provaljene web stranice
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Saznajte više
+preferences-relay-integration-checkbox =
+    .label = Predložite e-mail maske { -relay-brand-name } da zaštitite svoju e-mail adresu
+preferences-relay-integration-checkbox2 =
+    .label = Predložite e-mail maske { -relay-brand-name } da zaštitite svoju e-mail adresu
+    .accesskey = r
+relay-integration-learn-more-link = Saznajte više
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatsko popunjavanje prijava i lozinki
@@ -851,9 +919,19 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Spašene prijave…
     .accesskey = j
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Automatski popuni korisnička imena i lozinke
+    .accesskey = F
+forms-saved-passwords =
+    .label = Sačuvane lozinke
+    .accesskey = d
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Zahtijevajte prijavu uređaja za popunjavanje i upravljanje lozinkama
 forms-primary-pw-learn-more-link = Saznajte više
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -870,9 +948,28 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Nekada poznata kao Master lozinka
 forms-primary-pw-fips-title = Trenutno ste u FIPS režimu. FIPS zahtjeva postojanje Primarne lozinke.
 forms-master-pw-fips-desc = Neuspješna izmjena lozinke
+forms-windows-sso =
+    .label = Dozvolite Windows jednokratnu prijavu za Microsoft, poslovne i školske račune
+forms-windows-sso-learn-more-link = Saznajte više
+forms-windows-sso-desc = Upravljajte računima u postavkama uređaja
+windows-passkey-settings-label = Upravljajte pristupnim ključevima u sistemskim postavkama
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Da biste kreirali primarnu lozinku, unesite svoje akreditive za prijavu na Windows. Ovo pomaže u zaštiti sigurnosti vaših računa.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = kreiraj primarnu lozinku
+master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] promijenite postavke za načine plaćanja
+       *[other] { -brand-short-name } pokušava promijeniti postavke za načine plaćanja. Upotrijebite prijavu na svom uređaju da ovo dozvolite.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -961,15 +1058,28 @@ sitedata-option-block-cross-site-trackers =
     .label = Programi trećih strana za praćenje
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Kolačići trećih strana za praćenje
+sitedata-option-block-cross-site-cookies =
+    .label = Kolačiće za praćenje na više lokacija i izolirajte druge kolačiće za više lokacija
+sitedata-option-block-unvisited =
+    .label = Kolačići s neposjećenih web stranica
+sitedata-option-block-all-cross-site-cookies =
+    .label = Svi kolačići na različitim stranicama (mogu uzrokovati kvar web stranica)
+sitedata-option-block-all =
+    .label = Svi kolačići (može uzrokovati probleme s web stranicama)
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = i
 sitedata-settings =
     .label = Upravljanje podacima…
     .accesskey = m
+sitedata-cookies-exceptions =
+    .label = Upravljaj izuzecima…
+    .accesskey = x
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Smanjivanje pojavljivanja dijaloga kolačića
+cookie-banner-handling-description = { -brand-short-name } automatski pokušava odbiti zahtjeve za kolačiće na banerima kolačića na podržanim stranicama.
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1001,15 +1111,65 @@ addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-warning-title = Oprez!
+content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se čini da je web stranica pokvarena, možda ćete htjeti da isključite zaštitu od praćenja za tu web stranicu da učita sav sadržaj.
+content-blocking-warning-learn-how = Saznajte kako
+content-blocking-reload-description = Morat ćete ponovo učitati svoje tabove da primijenite ove promjene.
+content-blocking-reload-tabs-button =
+    .label = Obnovi sve tabove
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = Praćenje sadržaja
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = U svim prozorima
+    .accesskey = A
+content-blocking-option-private =
+    .label = Samo u privatnim prozorima
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Promijeni listu za blokiranje
+content-blocking-cookies-label =
+    .label = Kolačići
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Više informacija
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptomajneri
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Sakupljači digitalnih otisaka
+    .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Poznati sakupljači digitalnih otisaka
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Potencijalni sakupljači digitalnih otisaka
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Upravljaj izuzecima…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
 permissions-header = Dozvole
 permissions-location = Lokacija
 permissions-location-settings =
+    .label = Postavke…
+    .accesskey = t
+permissions-xr = Virtuelna stvarnost
+permissions-xr-settings =
     .label = Postavke…
     .accesskey = t
 permissions-camera = Kamera
@@ -1020,6 +1180,11 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Postavke…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Odabir zvučnika
+permissions-speaker-settings =
+    .label = Postavke…
+    .accesskey = t
 permissions-notification = Obavještenja
 permissions-notification-settings =
     .label = Postavke…
@@ -1028,9 +1193,19 @@ permissions-notification-link = Saznajte više
 permissions-notification-pause =
     .label = Pauziraj obavještenja dok se { -brand-short-name } ne restartuje
     .accesskey = n
+permissions-autoplay = Automatska reprodukcija
+permissions-autoplay-settings =
+    .label = Postavke…
+    .accesskey = t
 permissions-block-popups =
     .label = Blokiraj pop-up prozore
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Izuzeci…
+    .accesskey = E
+    .searchkeywords = iskočni prozori
 permissions-addon-install-warning =
     .label = Upozorava vas kada web stranice pokušaju instalirati add-one
     .accesskey = U
@@ -1041,8 +1216,12 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } prikupljanje i upotreba podataka
+collection-header2 = { -brand-short-name } prikupljanje i upotreba podataka
+    .searchkeywords = telemetrija
 collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili { -brand-short-name } za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.
 collection-privacy-notice = Polica privatnosti
+collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
+collection-health-report-telemetry-disabled-link = Saznajte više
 collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke o interakciji na { -vendor-short-name }
     .accesskey = r
@@ -1050,9 +1229,17 @@ collection-health-report-link = Saznajte više
 collection-studies =
     .label = Dozvoli { -brand-short-name }u da instalira i pokreće studije
 collection-studies-link = Prikaži { -brand-short-name } studije
+addon-recommendations =
+    .label = Dozvolite { -brand-short-name } da daje personalizirane preporuke proširenja
+addon-recommendations-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
+collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name } da u vaše ime šalje izvještaje o zaostalim rušenjima <a data-l10n-name="crash-reports-link">Saznajte više</a>
+    .accesskey = c
+collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
+    .accesskey = c
+privacy-segmentation-section-header = Nove funkcije koje poboljšavaju vaše pretraživanje
 
 ## Privacy Section - Website Advertising Preferences
 
