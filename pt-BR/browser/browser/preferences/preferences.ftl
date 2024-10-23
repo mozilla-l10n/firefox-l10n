@@ -1128,7 +1128,7 @@ addressbar-quickactions-learn-more = Saiba mais
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Proteção aprimorada contra rastreamento
-content-blocking-section-top-level-description = Rastreadores tentam te seguir por todo canto para coletar informações sobre seus interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros códigos maliciosos.
+content-blocking-section-top-level-description = Rastreadores tentam nos seguir por todo canto para coletar informações sobre nossos interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros códigos maliciosos.
 content-blocking-learn-more = Saiba mais
 content-blocking-fpi-incompatibility-warning = Você está usando isolamento primário (FPI), que substitui algumas configurações de cookies de { -brand-short-name }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
