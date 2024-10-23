@@ -620,6 +620,12 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Ҷустуҷӯ д�
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Ҷустуҷӯ ба воситаи «{ $engine }»
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, Низоми ҷустуҷӯиро интихоб намоед
+    .tooltiptext = { $engine }, Низоми ҷустуҷӯиро интихоб намоед
 urlbar-searchmode-dropmarker =
     .tooltiptext = Низоми ҷустуҷӯиро интихоб намоед
 urlbar-searchmode-bookmarks =
