@@ -620,6 +620,8 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Søk { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Søk med { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Vel ein søkjemotor
 urlbar-searchmode-bookmarks =
     .label = Bokmerke
 urlbar-searchmode-tabs =
