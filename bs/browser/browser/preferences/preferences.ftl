@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Automatski otvori { -brand-short-name } kada se računar pokrene
     .accesskey = O
 windows-launch-on-login-disabled = Ova postavka je onemogućena u Windowsu. Za promjenu posjetite <a data-l10n-name="startup-link">Aplikacije pri pokretanju</a> u postavkama sistema.
+windows-launch-on-login-profile-disabled = Omogućite ovu opciju tako što ćete označiti “{ profile-manager-use-selected.label }” u prozoru “Odaberi korisnički profil”.
 startup-restore-warn-on-quit =
     .label = Upozorava vas kada napuštate pretraživač
 disable-extension =
@@ -644,6 +645,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikazuj prijedloge za pretragu u rezultatima adresne trake
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Prikaži pojmove za pretraživanje u adresnoj traci na stranicama s rezultatima
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
