@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Nëse nuk jeni i familjariz
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> përmban një rregull sigurie të quajtur HTTP Strict Transport Security (HSTS), që do të thotë se { -brand-short-name }-i mund të lidhet me të vetëm nën mënyrë të sigurt. S’shtoni dot një përjashtim për vizitimin e këtij sajti.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ka shumë mundësi asgjë, ngaqë gjasat janë se pati një problem me vetë sajtin.

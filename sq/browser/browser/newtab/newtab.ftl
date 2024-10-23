@@ -407,6 +407,10 @@ newtab-topic-label-hobbies = Lojëra
 newtab-topic-label-finance = Para
 newtab-topic-label-government = Politikë
 newtab-topic-label-education-science = Shkencë
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Vetëpërmirësim
 newtab-topic-label-sports = Sporte
 newtab-topic-label-tech = Teknologji
 newtab-topic-label-travel = Udhëtime

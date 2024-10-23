@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Shtype duke përdorur dialogun e sistemit për sht
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
 policy-Windows10SSO = Lejo hyrje njëshe Windows për llogari Microsoft, pune, apo shkolle.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Lejo hyrje njëshe për llogari Microsoft Entra.
