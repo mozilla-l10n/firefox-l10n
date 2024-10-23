@@ -623,6 +623,18 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Søg i { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Søg med { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Bogmærker
+urlbar-searchmode-tabs =
+    .label = Faneblade
+urlbar-searchmode-history =
+    .label = Historik
+urlbar-searchmode-actions =
+    .label = Handlinger
+urlbar-searchmode-exit-button =
+    .tooltiptext = Luk
+urlbar-searchmode-popup-description = Søg denne gang med:
+urlbar-searchmode-popup-search-settings = Søgeindstillinger
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1018,6 +1030,7 @@ firefox-relay-offer-legal-notice = Ved at klikke "Brug mail-maske" accepterer du
 popup-notification-addon-install-unsigned =
     .value = (Uverificeret)
 popup-notification-xpinstall-prompt-learn-more = Læs mere om sikker installering af tilføjelser
+popup-notification-xpinstall-prompt-block-url = Vis detaljer
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Anvend i private vinduer

@@ -88,7 +88,7 @@ storage-tree-labels-extension-storage = Extension Storage
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is closed.
 storage-expand-pane =
-    .title = Fold panel ud
+    .title = Udvid panel
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is open.
 storage-collapse-pane =

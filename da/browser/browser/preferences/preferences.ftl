@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Åbn { -brand-short-name } automatisk når din computer starter
     .accesskey = a
 windows-launch-on-login-disabled = Denne indstilling er blevet deaktiveret i Windows. Gå til <a data-l10n-name="startup-link">Apps > Start</a> i Indstillinger for at ændre den.
+windows-launch-on-login-profile-disabled = Aktiver denne indstilling ved at sætte flueben ud for "{ profile-manager-use-selected.label }" i vinduet "Vælg din brugerprofil".
 startup-restore-warn-on-quit =
     .label = Advar mig, når jeg lukker browseren
 disable-extension =

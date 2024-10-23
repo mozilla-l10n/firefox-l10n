@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Opret en konto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Skal du snart have en ny enhed?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Følg nogle få, enkle trin for at tage dine bogmærker, din historik og dine adgangskoder med dig, når du tager en ny enhed i brug.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sådan sikkerhedskopierer du dine data
+device-migration-fxa-spotlight-sync-primary-button = Kom i gang
 
 ## Set as Default PDF Reader Infobar
 
@@ -293,3 +294,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Senere
     .accesskey = S
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Luk
+    .aria-label = Luk
