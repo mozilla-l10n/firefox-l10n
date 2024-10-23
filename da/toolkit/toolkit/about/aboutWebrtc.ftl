@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Log-filer kan findes her: { $pa
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatisk genindlæsning
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Opdater automatisk som standard
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Opdater
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Gem side
 about-webrtc-debug-mode-msg-label = Debug-tilstand
 about-webrtc-debug-mode-off-state-label = Start debug-tilstand
 about-webrtc-debug-mode-on-state-label = Stop debug-tilstand
-about-webrtc-enable-logging-label = Aktiver forhåndsindstilling af logs for WebRTC
 about-webrtc-stats-heading = Sessionsstatistik
+about-webrtc-enable-logging-label = Aktiver forhåndsindstilling af logs for WebRTC
 about-webrtc-peerconnections-section-heading = Statistik for RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Vis statistik for RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Skjul statistik for RTCPeerConnection
@@ -109,11 +107,11 @@ about-webrtc-log-clear = Ryd log
 about-webrtc-log-show-msg = vis log
     .title = klik for at udvide denne sektion
 about-webrtc-log-hide-msg = skjul log
-    .title = klik for at sammenklappe denne sektion
+    .title = klik for at sammenfolde denne sektion
 about-webrtc-log-section-show-msg = Vis log
     .title = Klik for at udvide denne sektion
 about-webrtc-log-section-hide-msg = Skjul log
-    .title = Klik for at sammenklappe denne sektion
+    .title = Klik for at sammenfolde denne sektion
 about-webrtc-copy-report-button = Kopier rapport
 about-webrtc-copy-report-history-button = Kopier rapport-historik
 
@@ -145,20 +143,20 @@ about-webrtc-raw-remote-candidate = Raw fjern-kandikater
 about-webrtc-raw-cand-show-msg = vis raw-kandidater
     .title = klik for at udvide denne sektion
 about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
-    .title = klik for at sammenklappe denne sektion
+    .title = klik for at sammenfolde denne sektion
 about-webrtc-raw-cand-section-show-msg = Vis raw-kandidater
     .title = Klik for at udvide denne sektion
 about-webrtc-raw-cand-section-hide-msg = Skjul raw-kandidater
-    .title = Klik for at sammenklappe denne sektion
+    .title = Klik for at sammenfolde denne sektion
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = vis detaljer
     .title = klik for at udvide denne sektion
 about-webrtc-fold-hide-msg = skjul detaljer
-    .title = klik for at sammenklappe denne sektion
+    .title = klik for at sammenfolde denne sektion
 about-webrtc-fold-default-show-msg = Vis detaljer
     .title = Klik for at udvide denne sektion
 about-webrtc-fold-default-hide-msg = Skjul detaljer
-    .title = Klik for at sammenklappe denne sektion
+    .title = Klik for at sammenfolde denne sektion
 about-webrtc-dropped-frames-label = Dropped frames:
 about-webrtc-discarded-packets-label = Kasserede pakker:
 about-webrtc-decoder-label = Dekoder
