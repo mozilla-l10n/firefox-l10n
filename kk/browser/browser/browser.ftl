@@ -639,6 +639,7 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Жабу
 urlbar-searchmode-popup-description = Осы рет, келесімен іздеу:
+urlbar-searchmode-popup-search-settings = Іздеу баптаулары
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1034,6 +1035,7 @@ firefox-relay-offer-legal-notice = "Электронды пошта маскас
 popup-notification-addon-install-unsigned =
     .value = (Тексерілмеген)
 popup-notification-xpinstall-prompt-learn-more = Қосымшаларды қауіпсіз орнату туралы көбірек біліңіз
+popup-notification-xpinstall-prompt-block-url = Ақпаратын қарау
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Жекелік шолу режиміндегі терезелерде орындау

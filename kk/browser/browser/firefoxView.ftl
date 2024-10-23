@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% дайын
 firefoxview-tabpickup-step-signin-header = Құрылғылар арасында кедергісіз ауысыңыз
 firefoxview-tabpickup-step-signin-description = Телефон беттерін осы жерден алу үшін алдымен жүйеге кіріңіз немесе тіркелгіні жасаңыз.
 firefoxview-tabpickup-step-signin-primarybutton = Жалғастыру
+firefoxview-syncedtabs-signin-primarybutton-2 = Кіру
 firefoxview-syncedtabs-signin-header = Беттерді кез келген жерден алу
 firefoxview-syncedtabs-signin-description = { -brand-product-name } қолданатын әр жеріңізден беттерді көру үшін, тіркелгіңізге кіріңіз. Тіркелгіңіз жоқ болса, сізді тіркелу қадамдарынан өткіземіз.
 firefoxview-syncedtabs-signin-primarybutton = Кіру немесе тіркелгіні жасау
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = Телефонда немесе пла�
 firefoxview-tabpickup-adddevice-description = Мобильді телефонға { -brand-product-name } жүктеп алып, сол жерден кіріңіз.
 firefoxview-tabpickup-adddevice-learn-how = Көбірек білу
 firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-product-name } алу
+firefoxview-syncedtabs-adddevice-header-2 = Беттерді кез келген жерден алу
 firefoxview-syncedtabs-adddevice-header = Басқа құрылғыларыңызда { -brand-product-name } ішіне кіріңіз
 firefoxview-syncedtabs-adddevice-description = { -brand-product-name } қолданатын әр жеріңізден беттерді көру үшін, әр құрылғыңызда тіркелгіңізге кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қалай қосуға болатыны</a> туралы көбірек біліңіз.
 firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
