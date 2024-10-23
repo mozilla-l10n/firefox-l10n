@@ -90,6 +90,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Përmblidhni, reflektoni ide të reja, etj, teksa shfletoni
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Zgjidhni një robot IA fjalosjesh te anështylla { -brand-short-name }. Do t’ju shfaqim hollësi rreth secilit robot fjalosjesh, kur përzgjidhni një. Ndërrojeni kur të doni. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 genai-onboarding-primary = Vazhdo
 genai-onboarding-secondary = Mbylle
 genai-onboarding-claude-tooltip =

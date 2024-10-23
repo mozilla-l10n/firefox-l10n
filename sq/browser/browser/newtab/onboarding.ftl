@@ -378,6 +378,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = E kam përdorur në të 
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Tregonani se ku do t’i donit skedat tuaja
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Ndërrojeni kurdo që doni, që nga rregullimet e anështyllës.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Skedat anash
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -386,10 +388,24 @@ onboarding-new-horizontal-tabs-label = Skedat në krye
 onboarding-existing-tabs-title = Mbërritën skedat vertikale
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Ju paraqesim skedat vertikale
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Provojini anash skedat tuaja. Ndërrojeni mënyrën kurdo që doni, që nga rregullimet e anështyllës.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Provoni skedat vertikale
 onboarding-flair-text = E re!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mbaji horizontale skedat
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Një dritare shfletuesi që shfaq skeda përgjatë anës së ekranit, si pjesë e anështyllës së { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Një dritare shfletuesi që shfaq skeda përgjatë anës së ekranit, si pjesë e anështyllës së { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Një dritare shfletuesi që i shfaq skeda përgjatë kreut.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Një dritare shfletuesi që i shfaq skeda përgjatë kreut.
 onboarding-genai-sidebar-primary-button = Zgjidhni një robot fjalosjesh
 onboarding-genai-sidebar-secondary-button = Nisni shfletimin
