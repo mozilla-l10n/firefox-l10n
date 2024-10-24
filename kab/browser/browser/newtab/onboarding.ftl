@@ -351,3 +351,5 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca d
 
 ## UI strings for the sidebar and vertical tabs
 
+onboarding-genai-sidebar-primary-button = Fren chatbot
+onboarding-genai-sidebar-secondary-button = Bdu tunigin
