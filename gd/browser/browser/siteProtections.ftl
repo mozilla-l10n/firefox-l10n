@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Thoir air falbh na h-eisgeachd airson na briosgaid { $domain }
-tracking-protection-icon-active = A’ bacadh tracaichean am meadhanan sòisealta, briosgaidean tracaidh thar làraichean agus lorgaichean-meur.
+tracking-protection-icon-active = A’ bacadh tracaichean am meadhanan sòisealta, briosgaidean tracaidh thar làraichean agus lorgairean-meòir.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Tha an dìon adhartach o thracadh DHETH air an làrach seo.
@@ -41,7 +41,7 @@ protections-header = Dìon airson { $host }
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Tha lorgaichean-meur ’gam bacadh
+    .title = Tha lorgairean-meòir gam bacadh
 protections-blocking-cryptominers =
     .title = Tha criopto-mhèinneadairean ’gam bacadh
 protections-blocking-cookies-trackers =
@@ -57,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Tha tracaichean nam meadhanan sòisealta ’gam bacadh
 protections-not-blocking-fingerprinters =
-    .title = Chan eil lorgaichean-meur ’gam bacadh
+    .title = Chan eil lorgairean-meòir gam bacadh
 protections-not-blocking-cryptominers =
     .title = Chan eil criopto-mhèinneadairean ’gam bacadh
 protections-not-blocking-cookies-third-party =

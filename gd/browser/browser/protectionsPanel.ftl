@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Barrach fiosrachaidh air an dìon adhartach o thracadh
 protections-panel-etp-on-header = Tha an dìon adhartach o thracadh AIR air an làrach seo
 protections-panel-etp-off-header = Tha an dìon adhartach o thracadh DHETH air an làrach seo
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Nach eil an làrach ag obair?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Nach eil an làrach ag obair?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Nach eil an làrach ag obair?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Nach eil an làrach ag obair?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -52,7 +52,7 @@ protections-panel-no-trackers-found = Cha do mhothaich { -brand-short-name } do 
 protections-panel-content-blocking-tracking-protection = Susbaint tracaidh
 protections-panel-content-blocking-socialblock = Tracaichean nam meadhanan sòisealta
 protections-panel-content-blocking-cryptominers-label = Criopto-mhèinneadairean
-protections-panel-content-blocking-fingerprinters-label = Lorgaichean-meur
+protections-panel-content-blocking-fingerprinters-label = Lorgairean-meòir
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -87,7 +87,7 @@ protections-panel-site-not-working-view-send-report = Cuir aithisg
 
 protections-panel-cross-site-tracking-cookies = Leanaidh na briosgaidean seo thu o làrach gu làrach airson dàta a chruinneachadh mu na nì thu air loidhne. ’S e treas-phàrtaidhean mar luchd-sanasachd agus companaidhean anailise a shuidhicheas iad.
 protections-panel-cryptominers = Cleachdaidh criopto-mhèinneadairean comasan an t-siostaim agad airson airgead digiteach a chosnadh. Traoghaidh criopto-mhèinneadairean am bataraidh agad, nì iad an coimpiutair agad slaodach agus faodaidh gun èirich cosgaisean dealain dhut.
-protections-panel-fingerprinters = Cruinnichidh lorgaichean-meur roghainnean on bhrabhsair is on coimpiutair agad airson pròifil a chruthachadh dhiot. Leis an lorg-mheòir digiteach sin, nì iad tracadh ort thar iomadh làrach-lìn.
+protections-panel-fingerprinters = Cruinnichidh lorgairean-meòir roghainnean on bhrabhsair is on coimpiutair agad airson pròifil a chruthachadh dhiot. Leis an lorg-mheòir digiteach sin, nì iad tracadh ort thar iomadh làrach-lìn.
 protections-panel-tracking-content = Faodaidh làraichean-lìn sanasachd, video is susbaint eile le còd tracaidh a luchdadh on taobh a-muigh. Le bacadh susbaint tracaidh, thèid cuid a làraichean a luchdadh nas luaithe ach dh’fhaoidte nach obraich a h-uile putan, foirm is raon clàraidh a-steach.
 protections-panel-social-media-trackers = Cuiridh meadhanan sòisealta tracaichean air làraichean-lìn eile airson leantainn air na nì, na chì 's na choimheadas tu air air loidhne. Leigidh seo le companaidhean nam meadhanan sòisealta fiosrachadh fhaighinn mu do dhèidhinn a bharrachd air na nithean a cho-roinneas tu fhèin air pròifilean nam meadhanan sòisealta agad.
 protections-panel-description-shim-allowed = Chaidh pàirt dhe na tracaichean comharraichte gu h-ìosal a dhì-bhacadh air an duilleag seo on a ghabh thu eadar-ghnìomh leotha.
@@ -100,7 +100,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Dèan aithris air làrach bhriste
 protections-panel-content-blocking-breakage-report-view-description = Adhbharaichidh bacadh thracaichean sònraichte duilgheadasan air cuid a làraichean. Ma chuireas tu aithris thugainn mu na duilgheadasan seo, cuidichidh sin gun doireamaid piseach air { -brand-short-name } dhan a h-uile duine. Ma chuireas tu an aithris thugainn, gheibh Mozilla URL agus fiosrachadh mu roghainnean a’ bhrabhsair agad. <label data-l10n-name="learn-more">Barrachd fiosrachaidh</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Adhbharaichidh bacadh thracaichean sònraichte duilgheadasan air cuid a làraichean. Ma chuireas tu aithris thugainn mu na duilgheadasan seo, cuidichidh sin gun doireamaid piseach air { -brand-short-name } dhan a h-uile duine. Ma chuireas tu an aithris thugainn, gheibh { -vendor-short-name } URL agus fiosrachadh mu roghainnean a’ bhrabhsair agad.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
