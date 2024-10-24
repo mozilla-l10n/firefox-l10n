@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Spara till { -pocket-brand-name }
 newtab-menu-delete-pocket = Ta bort från { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkivera i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Våra sponsorer & din integritet
+newtab-menu-about-fakespot = Om { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

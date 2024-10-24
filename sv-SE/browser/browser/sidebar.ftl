@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Recensionsgranskare
+sidebar-options-menu-button =
+    .title = Öppna meny
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expandera och komprimera sidofältet
 sidebar-visibility-setting-hide-sidebar =
     .label = Visa och dölj sidofält
-sidebar-customize-settings-header =
-    .label = Inställningar för sidofält
-sidebar-visibility-always-show =
-    .label = Visa alltid
-sidebar-visibility-hide-sidebar =
-    .label = Dölj sidofält
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Flikar från andra enheter
 synced-tabs-context-close-tab-title =
     .title = Stäng fliken på { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Expandera sidofältet
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Komprimera sidofältet
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Visa sidofält
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Dölj sidofält
 sidebar-widget-expand-sidebar =
     .tooltiptext = Expandera sidofältet
     .label = Sidofält

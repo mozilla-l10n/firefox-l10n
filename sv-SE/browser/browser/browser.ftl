@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Åtgärder för sida
 urlbar-revert-button =
     .tooltiptext = Visa adressen i adressfältet
-urlbar-show-page-actions-button =
-    .tooltiptext = Visa alla sidåtgärder
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Sök { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Sök med { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, välj en sökmotor
-    .tooltiptext = { $engine }, välj en sökmotor
 urlbar-searchmode-dropmarker =
     .tooltiptext = Välj en sökmotor
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Stäng
 urlbar-searchmode-popup-description = Denna gång, sök med:
 urlbar-searchmode-popup-search-settings = Sökinställningar
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, välj en sökmotor
+    .tooltiptext = { $engine }, välj en sökmotor
+urlbar-searchmode-button-no-engine =
+    .label = Ingen genväg vald, välj en genväg
+    .tooltiptext = Ingen genväg vald, välj en genväg
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat surfning
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privat surfning
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Förebyggande av dataförlust (DLP) av { $agentName }. Klicka för mer info.
 content-analysis-panel-title = Dataskydd
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Din organisation använder <b>{ $agentName }</b> för att skydda mot dataförlust. <a data-l10n-name="info">Läs mer</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Din organisation använder { $agentName } för att skydda mot dataförlust. <a data-l10n-name="info">Läs mer</a>

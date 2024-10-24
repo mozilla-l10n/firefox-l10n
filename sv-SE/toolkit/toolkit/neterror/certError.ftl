@@ -71,6 +71,45 @@ open-in-new-window-for-csp-or-xfo-error = Öppna webbplatsen i nytt fönster
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = För att skydda din säkerhet tillåter { $hostname } inte { -brand-short-name } att visa sidan om en annan webbplats har den inbäddad. För att se den här sidan måste du öppna den i ett nytt fönster.
+fp-certerror-view-certificate-link = Visa webbplatsens certifikat
+fp-certerror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Webbplatsen är inställd för att endast tillåta säkra anslutningar, men det finns ett problem med platsens certifikat. Det är möjligt att en dålig skådespelare försöker efterapa webbplatsen. Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. { -brand-short-name } litar inte på den här webbplatsen eftersom dess certifikat inte är giltigt för { $hostname }. Certifikatet är endast giltigt för: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Förmodligen ingenting, eftersom det troligtvis finns ett problem med själva webbplatsen. Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. Men om du arbetar på ett företagsnätverk kan ditt supportteam ha mer information. Om du använder antivirusprogram kan du prova att söka efter potentiella konflikter eller kända problem.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Det finns ett problem med webbplatsens certifikat. Det är möjligt att en dålig skådespelare försöker efterapa webbplatsen. Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. { -brand-short-name } litar inte på den här webbplatsen eftersom vi inte kan avgöra vem som utfärdade certifikatet, den är självsignerad eller så skickar webbplatsen inte mellanliggande certifikat vi litar på.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Förmodligen ingenting, eftersom det troligtvis finns ett problem med själva webbplatsen. Men om du arbetar på ett företagsnätverk kan ditt supportteam ha mer information. Om du använder antivirusprogram kan det behöva konfigureras för att fungera med { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Eftersom det finns ett problem med webbplatsens certifikat. Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. Webbplatsens certifikat är självsignerat. Den utfärdades inte av en erkänd certifikatutfärdare - så vi litar inte på den som standard.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Inte mycket. Det är troligt att det finns ett problem med själva webbplatsen.
+fp-certerror-self-signed-important-note = VIKTIGT: Om du försöker besöka den här webbplatsen på företagets intranät kan din IT-personal använda självsignerade certifikat. De kan hjälpa dig att kontrollera deras autenticitet.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. { -brand-short-name } litar inte på den här webbplatsen eftersom det ser ut som att certifikatet upphörde { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. { -brand-short-name } litar inte på den här webbplatsen eftersom det ser ut som att certifikatet inte kommer att vara giltigt till { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Enhetens klocka är inställd på { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Om detta är korrekt ligger säkerhetsproblemet troligen hos själva webbplatsen. Om det är fel kan du ändra det i enhetens systeminställningar.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Felkod: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Läs mer om säkra anslutningsfel
+fp-learn-more-about-cert-issues = Läs mer om dessa typer av certifikatfrågor
+fp-learn-more-about-time-related-errors = Läs mer om felsökning av tidsrelaterade fel
 
 ## Messages used for certificate error titles
 
@@ -112,3 +151,20 @@ networkProtocolError-title = Nätverksprotokollfel
 nssBadCert-title = Varning: Möjlig säkerhetsrisk framöver
 nssBadCert-sts-title = Kunde inte ansluta: Potentiellt säkerhetsproblem
 certerror-mitm-title = Programvaran hindrar { -brand-short-name } från säker anslutning till den här webbplatsen
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Varning: Säkerhetsrisk
+fp-certerror-body-title = Var försiktig. Något ser inte rätt ut.
+fp-certerror-why-site-dangerous = Vad får webbplatsen att se farlig ut?
+fp-certerror-what-can-you-do = Vad kan du göra åt det?
+fp-certerror-advanced-title = Avancerat
+fp-certerror-advanced-button = Avancerat
+fp-certerror-hide-advanced-button = Dölj avancerade
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Fortsätt till { $hostname } (riskfullt)
+fp-certerror-intro = { -brand-short-name } upptäckte ett potentiellt allvarligt säkerhetsproblem med <strong>{ $hostname }</strong>. Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-post.
+fp-certerror-expired-into = { -brand-short-name } upptäckte ett säkerhetsproblem med <strong>{ $hostname }</strong>. Antingen är webbplatsen inte rätt konfigurerad eller så är enhetens klocka inställd på fel datum/tid.
