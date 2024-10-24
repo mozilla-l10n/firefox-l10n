@@ -623,6 +623,18 @@ urlbar-result-search-with-local-search-mode = { $keywords }  - { $localSearchMod
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords }  - { $engine } نال ڳولو
+urlbar-searchmode-bookmarks =
+    .label = نشانیاں
+urlbar-searchmode-tabs =
+    .label = ٹیباں
+urlbar-searchmode-history =
+    .label = تاریخ
+urlbar-searchmode-actions =
+    .label = عمل
+urlbar-searchmode-exit-button =
+    .tooltiptext = بند کرو
+urlbar-searchmode-popup-description = ایں واری، دے نال ڳولو:
+urlbar-searchmode-popup-search-settings = ڳولݨ ترتیباں
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1018,6 +1030,7 @@ firefox-relay-offer-legal-notice = "ای میل ماسک استعمال کرو" 
 popup-notification-addon-install-unsigned =
     .value = (غیر تصدیق شدہ)
 popup-notification-xpinstall-prompt-learn-more = محفوظ طریقے نال ایڈ آنز انسٹال کرݨ بارے مزید سکھو۔
+popup-notification-xpinstall-prompt-block-url = تفصیلاں ݙیکھو
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = نجی ونڈوز وِچ چلاؤ

@@ -486,6 +486,7 @@ details-notification-unsigned-link = ودھیک معلومات
 details-notification-blocked = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-blocked2 =
     .message = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
+details-notification-blocked-link2 = تفصیلاں ݙیکھو
 details-notification-softblocked-link2 = تفصیلاں ݙیکھو
 details-notification-blocked-link = ودھیک معلومات
 details-notification-softblocked = { $name } سیکورٹی یا استحکام دے مسائل کیتے ڄاتا ویندا ہے۔
