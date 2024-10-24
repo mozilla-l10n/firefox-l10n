@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Lukk duplikatfaner
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Lukk alle duplikatfaner
+all-tabs-menu-synced-tabs =
+    .label = Faner fra andre enheter

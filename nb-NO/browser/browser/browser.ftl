@@ -611,6 +611,35 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Søk med { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Søk i { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Søk med { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, velg en søkemotor
+    .tooltiptext = { $engine }, velg en søkemotor
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Velg en søkemotor
+urlbar-searchmode-bookmarks =
+    .label = Bokmerker
+urlbar-searchmode-tabs =
+    .label = Faner
+urlbar-searchmode-history =
+    .label = Historikk
+urlbar-searchmode-actions =
+    .label = Handlinger
+urlbar-searchmode-exit-button =
+    .tooltiptext = Lukk
+urlbar-searchmode-popup-description = Søk denne gang med:
+urlbar-searchmode-popup-search-settings = Søkeinnstillinger
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1006,6 +1035,7 @@ firefox-relay-offer-legal-notice = Ved å klikke «Bruk e-postalias» godtar du 
 popup-notification-addon-install-unsigned =
     .value = (Ubekreftet)
 popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering av utvidelser
+popup-notification-xpinstall-prompt-block-url = Se detaljer
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Kjør i private vindu
