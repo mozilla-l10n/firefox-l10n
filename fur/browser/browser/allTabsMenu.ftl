@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Siere schedis doplis
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Siere dutis lis schedis doplis
+all-tabs-menu-synced-tabs =
+    .label = Schedis di altris dispositîfs

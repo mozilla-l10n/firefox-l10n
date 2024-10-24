@@ -131,6 +131,8 @@ addon-local-install-error-not-signed = Impussibil instalâ chest component adizi
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Nol è stât pussibil instalâ { $addonName } parcè che no je compatibile cun { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } al viole lis politichis di Mozilla e nol è pussibil instalâlu in { -brand-short-name }.
 addon-install-error-blocklisted = Nol è stât pussibil instalâ { $addonName } parcè che al à un risi elevât di causâ problemis di stabilitât o di sigurece.
+addon-install-error-soft-blocked = { $addonName } al viole lis politichis di Mozilla e nol è pussibil instalâlu in { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = No tu puedis instalâ { $addonName } come utent finâl, dome une organizazion che e dopre politichis di imprese e pues instalâlu.

@@ -612,6 +612,35 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Cîr cun { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Cîr { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Cîr cun { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button =
+    .label = { $engine }, sielç un motôr di ricercje
+    .tooltiptext = { $engine }, sielç un motôr di ricercje
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Sielç un motôr di ricercje
+urlbar-searchmode-bookmarks =
+    .label = Segnelibris
+urlbar-searchmode-tabs =
+    .label = Schedis
+urlbar-searchmode-history =
+    .label = Cronologjie
+urlbar-searchmode-actions =
+    .label = Azions
+urlbar-searchmode-exit-button =
+    .tooltiptext = Siere
+urlbar-searchmode-popup-description = Cheste volte cîr cun:
+urlbar-searchmode-popup-search-settings = Impostazions ricercje
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1007,6 +1036,7 @@ firefox-relay-offer-legal-notice = Fasint clic su “Dopre mascare di pueste ele
 popup-notification-addon-install-unsigned =
     .value = (No verificât)
 popup-notification-xpinstall-prompt-learn-more = Scuvierç di plui su la instalazion di components adizionâi in sigurece
+popup-notification-xpinstall-prompt-block-url = Viôt i detais
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Eseguìs in barcons privâts
