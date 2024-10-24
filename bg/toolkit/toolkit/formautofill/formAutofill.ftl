@@ -11,6 +11,9 @@ autofill-options-link-osx = Настройки за попълване на фо
 
 ## The credit card capture doorhanger
 
+credit-card-capture-cancel-button =
+    .label = Не сега
+    .accessKey = Н
 
 # Used on the doorhanger when an credit card change is detected.
 

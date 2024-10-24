@@ -211,6 +211,7 @@ firefoxview-choose-browser-button = Изберете мрежов четец
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Няма нищо за показване
+firefoxview-dont-remember-history-empty-description-one = В момента { -brand-short-name } не помни активността ви при сърфиране. За да промените това, <a data-l10n-name="history-settings-url-two">обновете вашите настройки относно историята</a>.
 
 ##
 

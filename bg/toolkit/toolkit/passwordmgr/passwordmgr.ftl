@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-deny =
+    .label = Не сега
+    .accesskey = Н
 password-manager-save-password-button-allow =
     .label = Запазване
     .accesskey = а

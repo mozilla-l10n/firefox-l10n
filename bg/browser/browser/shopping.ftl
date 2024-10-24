@@ -74,6 +74,7 @@ shopping-survey-headline = Помогнете ни да подобрим { -bran
 
 ## Onboarding message strings.
 
+shopping-onboarding-not-now-button = Не сега
 # Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page

@@ -18,6 +18,9 @@ autofill-manage-edit-button = Промяна…
 
 ## The address capture doorhanger
 
+address-capture-not-now-button =
+    .label = Не сега
+    .accessKey = Н
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Промяна на адрес
 autofill-address-given-name = Име
