@@ -81,8 +81,8 @@ webext-perms-host-description-one-domain = Të hyjë në të dhënat tuaja për 
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domain }
-       *[other] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domain }
+        [one] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
+       *[other] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
