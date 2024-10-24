@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completât
 firefoxview-tabpickup-step-signin-header = Passe cence fastidis di un dispositîf a chel altri
 firefoxview-tabpickup-step-signin-description = Par recuperâ achì lis schedis viertis sul telefon, prime jentre o cree un account.
 firefoxview-tabpickup-step-signin-primarybutton = Continue
+firefoxview-syncedtabs-signin-header-2 = Il to { -brand-product-name } su ducj i tiei dispositîfs
+firefoxview-syncedtabs-signin-description-2 = Par visualizâ lis schedis viertis sul telefon e su altris dispositîfs, jentre o cree un account. Cuntun account tu puedis ancje sincronizâ passwords, cronologjie e tant altri.
+firefoxview-syncedtabs-signin-primarybutton-2 = Jentre
 firefoxview-syncedtabs-signin-header = Recupere lis tôs schedis di cualsisei dispositîf
 firefoxview-syncedtabs-signin-description = Par viodi lis tôs schedis di dapardut là che tu dopris { -brand-product-name }, jentre cul to account. Se no tu âs un account, ti acompagnìn dilunc i passaçs par creâ un.
 firefoxview-syncedtabs-signin-primarybutton = Jentre o regjistriti
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sincronize { -brand-product-name } sul 
 firefoxview-tabpickup-adddevice-description = Discjame { -brand-product-name } par dispositîfs mobii e jentre di lì.
 firefoxview-tabpickup-adddevice-learn-how = Impare cemût
 firefoxview-tabpickup-adddevice-primarybutton = Oten { -brand-product-name } par dispositîfs mobii
+firefoxview-syncedtabs-adddevice-header-2 = Recupere lis tôs schedis di cualsisei dispositîf
+firefoxview-syncedtabs-adddevice-description-2 = Jentre su { -brand-product-name } dal to telefon o di un altri computer par visualizâ lis lôr schedis achì. Scuvierç cemût <a data-l10n-name="url">coneti altris dispositîfs</a>.
 firefoxview-syncedtabs-adddevice-header = Jentre su { -brand-product-name } suntun altri dispositîf
 firefoxview-syncedtabs-adddevice-description = Par viodi lis tôs schedis di dapardut là che tu dopris { -brand-product-name }, jentre su ducj i tiei dispositîfs. Scuvierç cemût <a data-l10n-name="url">coneti altris dispositîfs</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prove { -brand-product-name } par dispositîfs mobii
@@ -228,6 +233,7 @@ firefoxview-choose-browser-button = Sielç un navigadôr
 firefoxview-dont-remember-history-empty-header = Nuie ce mostrâ
 firefoxview-dont-remember-history-empty-description = Protezi la tô riservatece e je la nestre prioritât. Par chest motîf tu puedis decidi lis ativitâts che { -brand-short-name } al à di visâsi.
 firefoxview-dont-remember-history-empty-description-two = In base aes tôs impostazions corintis, { -brand-short-name } nol à di visâsi lis tôs ativitâts dilunc la navigazion. Par cambiâ, <a data-l10n-name="history-settings-url-two">tes impostazions de cronologjie, stabilìs che il to navigadôr al salvi la cronologjie</a>.
+firefoxview-dont-remember-history-empty-header-2 = Tu sês tu a decidi ce salvâ su { -brand-short-name }
 
 ##
 
