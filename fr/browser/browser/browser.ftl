@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Actions pour la page
 urlbar-revert-button =
     .tooltiptext = Afficher l’adresse dans la barre d’adresse
-urlbar-show-page-actions-button =
-    .tooltiptext = Afficher toutes les actions de la page
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,6 +621,8 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Rechercher dans { 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Rechercher avec { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Choisir un moteur de recherche
 urlbar-searchmode-bookmarks =
     .label = Marque-pages
 urlbar-searchmode-tabs =
@@ -957,12 +957,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigation privée
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navigation privée
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Protection contre la perte de données (DLP) par { $agentName }. Cliquer pour plus d’informations.
 content-analysis-panel-title = Protection des données
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Votre organisation utilise <b>{ $agentName }</b> pour se protéger contre la perte de données. <a data-l10n-name="info">En savoir plus</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Votre organisation utilise { $agentName } pour se protéger contre la perte de données. <a data-l10n-name="info">En savoir plus</a>

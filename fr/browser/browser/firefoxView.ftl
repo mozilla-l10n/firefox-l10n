@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = Terminé à { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Passez facilement d’un appareil à l’autre
 firefoxview-tabpickup-step-signin-description = Pour récupérer les onglets de votre téléphone ici, commencez par vous connecter ou créer un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Continuer
+firefoxview-syncedtabs-signin-header-2 = Votre { -brand-product-name } sur tous vos appareils
+firefoxview-syncedtabs-signin-description-2 = Pour afficher les onglets ouverts sur votre téléphone et vos autres appareils, connectez-vous ou créez un compte. Avec un compte, vous pouvez également synchroniser mots de passe, historique et plus encore.
 firefoxview-syncedtabs-signin-primarybutton-2 = Connexion
 firefoxview-syncedtabs-signin-header = Récupérez vos onglets où que vous soyez
 firefoxview-syncedtabs-signin-description = Pour consulter vos onglets où que vous utilisiez { -brand-product-name }, connectez-vous à votre compte. Si vous n’avez pas de compte, nous vous guiderons à chaque étape de l’inscription.
@@ -41,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-nam
 firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
 firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
 firefoxview-syncedtabs-adddevice-header-2 = Récupérez vos onglets où que vous soyez
+firefoxview-syncedtabs-adddevice-description-2 = Connectez-vous à { -brand-product-name } sur votre téléphone ou un autre ordinateur pour afficher leurs onglets ici. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-header = Connectez-vous à { -brand-product-name } sur vos autres appareils
 firefoxview-syncedtabs-adddevice-description = Pour consulter vos onglets où que vous utilisiez { -brand-product-name }, connectez-vous sur tous vos appareils. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
@@ -230,6 +233,8 @@ firefoxview-choose-browser-button = Choisir le navigateur
 firefoxview-dont-remember-history-empty-header = Rien à afficher
 firefoxview-dont-remember-history-empty-description = La protection de votre vie privée est notre priorité. C’est la raison pour laquelle vous pouvez contrôler les activités dont { -brand-short-name } garde trace.
 firefoxview-dont-remember-history-empty-description-two = D’après vos paramètres actuels, { -brand-short-name } ne conserve aucune trace de vos activités de navigation. Pour changer cela, <a data-l10n-name="history-settings-url-two">modifiez vos paramètres d’historique pour conserver votre historique de navigation</a>.
+firefoxview-dont-remember-history-empty-header-2 = Vous contrôlez ce que { -brand-short-name } mémorise
+firefoxview-dont-remember-history-empty-description-one = Pour l’instant, { -brand-short-name } ne mémorise pas votre navigation. Pour changer cela, <a data-l10n-name="history-settings-url-two">modifiez vos paramètres d’historique</a>.
 
 ##
 
