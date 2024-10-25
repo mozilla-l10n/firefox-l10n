@@ -71,6 +71,15 @@ open-in-new-window-for-csp-or-xfo-error = 사이트를 새 창에서 열기
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 보안을 위해 { $hostname } 사이트는 다른 사이트에서 해당 페이지를 포함하면 { -brand-short-name }가 페이지를 표시하지 못하게 합니다. 이 페이지를 보려면 새 창에서 열어야 합니다.
+fp-certerror-view-certificate-link = 사이트의 인증서 보기
+fp-certerror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = 사이트가 보안 연결 만 허용하도록 설정되었지만 사이트 인증서에 문제가 있습니다. 악의적인 사용자가 사이트를 사칭할 수 있습니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 { $hostname }에 대한 인증서가 유효하지 않기 때문에 이 사이트를 신뢰하지 않습니다. 인증서가 유효하지 않음: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 아무것도 아닙니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. 하지만 회사 네트워크를 사용하고 있다면 지원 팀에 더 많은 정보가 있을 수 있습니다. 바이러스 백신 소프트웨어를 사용하는 경우 잠재적인 충돌 또는 알려진 문제를 검색해 보세요.
 
 ## Messages used for certificate error titles
 
@@ -112,3 +121,10 @@ networkProtocolError-title = 네트워크 프로토콜 오류
 nssBadCert-title = 경고: 보안 위험 가능성
 nssBadCert-sts-title = 연결되지 않음: 잠재적인 보안 문제
 certerror-mitm-title = { -brand-short-name }가 이 사이트에 안전하게 연결하는 것을 소프트웨어가 막고 있습니다.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
