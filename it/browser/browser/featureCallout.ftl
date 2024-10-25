@@ -70,3 +70,8 @@ split-dismiss-button-dont-show-option-label = Non mostrare di nuovo questo sugge
 split-dismiss-button-show-fewer-option-label = Mostra meno suggerimenti
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gestisci impostazioni
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
+sidebar-button-callout-subtitle = Utilizza il pulsante della barra laterale per espanderla e visualizzare i titoli delle schede.
