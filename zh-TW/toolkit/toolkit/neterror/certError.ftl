@@ -123,7 +123,15 @@ certerror-mitm-title = 有軟體造成 { -brand-short-name } 無法與此網站�
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = 警告：有安全性風險
+fp-certerror-body-title = 請小心，有些東西不對勁。
+fp-certerror-why-site-dangerous = 哪個部分導致網站看來不安全？
+fp-certerror-what-can-you-do = 您可以做什麼？
+fp-certerror-advanced-title = 進階
+fp-certerror-advanced-button = 進階
+fp-certerror-hide-advanced-button = 隱藏進階資訊
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = 繼續前往 { $hostname }（有風險）
