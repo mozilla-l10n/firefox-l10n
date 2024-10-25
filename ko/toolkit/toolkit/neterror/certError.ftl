@@ -80,6 +80,36 @@ fp-certerror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 fp-certerror-bad-domain-why-dangerous-body = 사이트가 보안 연결 만 허용하도록 설정되었지만 사이트 인증서에 문제가 있습니다. 악의적인 사용자가 사이트를 사칭할 수 있습니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 { $hostname }에 대한 인증서가 유효하지 않기 때문에 이 사이트를 신뢰하지 않습니다. 인증서가 유효하지 않음: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 아무것도 아닙니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. 하지만 회사 네트워크를 사용하고 있다면 지원 팀에 더 많은 정보가 있을 수 있습니다. 바이러스 백신 소프트웨어를 사용하는 경우 잠재적인 충돌 또는 알려진 문제를 검색해 보세요.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = 사이트 인증서에 문제가 있습니다. 악의적인 공격자가 사이트를 사칭하려고 시도하고 있을 수 있습니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 자신이 실제 본인임을 증명합니다. 누가 인증서를 발급했는지 알 수 없거나, 자체 서명되었거나, 사이트가 신뢰할 수 있는 중간 인증서를 보내지 않기 때문에 { -brand-short-name }는 이 사이트를 신뢰할 수 없습니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 아무것도 아닙니다. 하지만 회사 네트워크를 사용하고 있다면 지원 팀에 더 많은 정보가 있을 수 있습니다. 바이러스 백신 소프트웨어를 사용하는 경우 { -brand-short-name }와 작동하도록 구성해야 할 수 있습니다.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = 사이트의 인증서에 문제가 있기 때문입니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. 이 사이트의 인증서는 자체 서명되어 있습니다. 인정된 인증 기관에서 발급한 것이 아닙니다. 그래서 저희는 이를 기본적으로 신뢰하지 않습니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = 많지 않습니다. 사이트 자체에 문제가 있을 수 있습니다.
+fp-certerror-self-signed-important-note = 중요 사항: 만약 여러분이 회사 인트라넷에서 이 사이트에 접속하려고 한다면, 여러분의 IT 직원이 자체 서명된 인증서를 사용할 수 있습니다. 그들은 사용자가 그들의 진위를 확인하는데 도움을 줄 수 있습니다.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 이 사이트를 신뢰하지 않습니다. 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }에 만료되었기 때문입니다.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }까지 유효하지 않을 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = 기기의 시계가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }에 맞춰져 있습니다. 이것이 맞다면 보안 문제는 사이트 자체에 있을 수 있습니다. 맞지 않다면, 기기의 시스템 설정에서 변경할 수 있습니다.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = 오류 코드: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = 보안 연결 실패에 대해 더 알아보기
+fp-learn-more-about-cert-issues = 이러한 종류의 인증서 문제에 대해 더 알아보기
+fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 더 알아보기
 
 ## Messages used for certificate error titles
 
@@ -124,6 +154,10 @@ certerror-mitm-title = { -brand-short-name }가 이 사이트에 안전하게 �
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = 경고: 보안 위험
+fp-certerror-body-title = 조심하세요. 뭔가 문제가 있습니다.
+fp-certerror-why-site-dangerous = 사이트가 위험해 보이는 이유는 무엇인가요?
+fp-certerror-what-can-you-do = 사용자가 무엇을 할 수 있습니까?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
