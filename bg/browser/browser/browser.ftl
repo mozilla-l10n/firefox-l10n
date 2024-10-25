@@ -628,6 +628,7 @@ urlbar-searchmode-history =
     .label = История
 urlbar-searchmode-actions =
     .label = Действия
+urlbar-searchmode-popup-description = Този път търсете с:
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
