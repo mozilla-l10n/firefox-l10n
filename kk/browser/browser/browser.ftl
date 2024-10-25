@@ -960,6 +960,9 @@ data-reporting-notification-button =
     .accesskey = М
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Жекелік шолу
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Жекелік шолу
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

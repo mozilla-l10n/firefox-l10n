@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } ішіне сақтау
 newtab-menu-delete-pocket = { -pocket-brand-name }-тен өшіру
 newtab-menu-archive-pocket = { -pocket-brand-name }-те архивтеу
 newtab-menu-show-privacy-info = Біздің демеушілеріміз және сіздің жекелігіңіз
+newtab-menu-about-fakespot = { -fakespot-brand-name } туралы
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

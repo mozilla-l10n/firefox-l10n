@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = ЖИ чатботы
 menu-view-review-checker =
     .label = Пікірлерді тексеру
+sidebar-options-menu-button =
+    .title = Мәзірді ашу
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Бүйір панелін жазық қылу және бүктеу
 sidebar-visibility-setting-hide-sidebar =
     .label = Бүйір панелін көрсету және жасыру
-sidebar-customize-settings-header =
-    .label = Бүйір панель баптаулары
-sidebar-visibility-always-show =
-    .label = Әрқашан көрсету
-sidebar-visibility-hide-sidebar =
-    .label = Бүйір панельді жасыру
 
 ## Labels for sidebar context menu items
 
