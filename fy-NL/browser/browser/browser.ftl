@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Side-aksjes
 urlbar-revert-button =
     .tooltiptext = Adres yn de lokaasjebalke toane
-urlbar-show-page-actions-button =
-    .tooltiptext = Alle side-aksjes toane
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,12 +621,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – Sykje yn { $loca
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Sykje mei { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, kies in sykmasine
-    .tooltiptext = { $engine }, kies in sykmasine
 urlbar-searchmode-dropmarker =
     .tooltiptext = Kies in sykmasine
 urlbar-searchmode-bookmarks =
@@ -643,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Slute
 urlbar-searchmode-popup-description = Diskear sykje mei:
 urlbar-searchmode-popup-search-settings = Sykynstellingen
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, kies in sykmasine
+    .tooltiptext = { $engine }, kies in sykmasine
+urlbar-searchmode-button-no-engine =
+    .label = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
+    .tooltiptext = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -965,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = K
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priveenavigaasje
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Priveenavigaasje
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Foarkommen fan gegevensferlies (Data Loss Prevention – DLP) troch { $agentName }. Klik foar mear ynfo.
 content-analysis-panel-title = Gegevensbeskerming
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Jo organisaasje brûkt <b>{ $agentName }</b> om jo te beskermjen tsjin gegevensferlies. <a data-l10n-name="info">Mear ynfo</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Jo organisaasje brûkt { $agentName } om jo te beskermjen tsjin gegevensferlies. <a data-l10n-name="info">Mear ynfo</a>

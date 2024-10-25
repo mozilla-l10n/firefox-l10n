@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Bewarje nei { -pocket-brand-name }
 newtab-menu-delete-pocket = Fuortsmite út { -pocket-brand-name }
 newtab-menu-archive-pocket = Argivearje yn { -pocket-brand-name }
 newtab-menu-show-privacy-info = Us sponsors en jo privacy
+newtab-menu-about-fakespot = Oer { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

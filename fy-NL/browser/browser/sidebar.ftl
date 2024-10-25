@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-review-checker =
     .label = Beoardielingskontrôle
+sidebar-options-menu-button =
+    .title = Menu iepenje
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Sidebalke útklappe en ynklappe
 sidebar-visibility-setting-hide-sidebar =
     .label = Sidebalke toane en ferstopje
-sidebar-customize-settings-header =
-    .label = Sidebalke-ynstellingen
-sidebar-visibility-always-show =
-    .label = Altyd toane
-sidebar-visibility-hide-sidebar =
-    .label = Sidebalke ferstopje
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 synced-tabs-context-close-tab-title =
     .title = Ljepblêd op { $deviceName } slute
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Sidebalke útklappe
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Sidebalke ynklappe
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Sidebalke toane
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Sidebalke ferstopje
 sidebar-widget-expand-sidebar =
     .tooltiptext = Sidebalke útklappe
     .label = Sidebalken
