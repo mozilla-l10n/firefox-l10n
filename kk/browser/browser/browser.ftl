@@ -638,6 +638,9 @@ urlbar-searchmode-popup-search-settings = Іздеу баптаулары
 urlbar-searchmode-button2 =
     .label = { $engine }, іздеу жүйесін таңдау
     .tooltiptext = { $engine }, іздеу жүйесін таңдау
+urlbar-searchmode-button-no-engine =
+    .label = Жарлық таңдалмады, жарлықты таңдаңыз
+    .tooltiptext = Жарлық таңдалмады, жарлықты таңдаңыз
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -969,6 +972,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Деректер жоғалуын болдырмаудың (DLP) { $agentName } ұсынған шешімі. Қосымша ақпарат алу үшін шертіңіз.
 content-analysis-panel-title = Деректерді қорғау
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ұйымыңыз деректер жоғалуын қорғау үшін <b>{ $agentName }</b> пайдаланады. <a data-l10n-name="info">Көбірек білу</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ұйымыңыз деректер жоғалуын қорғау үшін { $agentName } пайдаланады. <a data-l10n-name="info">Көбірек білу</a>
