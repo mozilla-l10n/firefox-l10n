@@ -302,3 +302,5 @@ fxa-menu-message-close-button =
     .aria-label = Mboty
 fxa-menu-message-sign-up-button = Eñemboheraguapy
 fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
+fxa-menu-message-sync-devices-collapsed-text = Embojuehe opavave mba’e’oka
+fxa-menu-message-backup-data-primary-text = Eykeko kundahára mba’ekuaarã

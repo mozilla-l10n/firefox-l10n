@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Embojuruja tenda ovetã pyahúpe
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Emo’ã hag̃ua ne rekorosã, { $hostname } nomoneĩmo’ãi { -brand-short-name } ohechaukávo kuatiarogue ambue tenda omoingéramo. Ehecha hag̃ua ko kuatiarogue, embojurujava’erã ovetã pyahúpe.
+fp-certerror-view-certificate-link = Ehecha tenda kuatia’atã
+fp-certerror-return-to-previous-page-recommended-button = Eguevi (ñemoñe’ẽmbyre)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ndahetái. Ikatuhína iñapañuái upe tendaite ndivevoi.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Ayvu jejavy: { $error }
