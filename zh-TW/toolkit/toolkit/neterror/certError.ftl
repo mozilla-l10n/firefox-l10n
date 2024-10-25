@@ -71,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = 用新視窗開啟網站
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 為了保護您的安全，{ $hostname } 不允許在被別的網站嵌入時，讓  { -brand-short-name } 顯示頁面內容。若要見到此頁面，請用新視窗開啟。
+fp-certerror-view-certificate-link = 檢視網站憑證
+fp-certerror-return-to-previous-page-recommended-button = 返回上一頁（建議）
 
 ## Messages used for certificate error titles
 
@@ -112,3 +114,10 @@ networkProtocolError-title = 網路通訊協定錯誤
 nssBadCert-title = 警告: 本網站可能有安全性風險
 nssBadCert-sts-title = 未連線: 潛在的安全性問題
 certerror-mitm-title = 有軟體造成 { -brand-short-name } 無法與此網站建立安全連線
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
