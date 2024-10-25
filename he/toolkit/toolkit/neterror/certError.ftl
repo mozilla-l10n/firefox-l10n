@@ -71,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = פתיחת אתר בחלון חדש
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = כדי להגן על האבטחה שלך, { $hostname } לא יאפשר ל־{ -brand-short-name } להציג את הדף אם אתר אחר הטמיע אותו. כדי לצפות בדף זה, עליך לפתוח אותו בחלון חדש.
+fp-certerror-view-certificate-link = הצגת אישור האתר
+fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 
 ## Messages used for certificate error titles
 
@@ -112,3 +114,10 @@ networkProtocolError-title = שגיאת פרוטוקול רשת
 nssBadCert-title = אזהרה: סכנת אבטחה אפשרית לפניך
 nssBadCert-sts-title = לא בוצעה התחברות: חולשת אבטחה אפשרית
 certerror-mitm-title = תכנית כלשהי מונעת מ־{ -brand-short-name } להתחבר באופן מאובטח לאתר הזה
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
