@@ -71,6 +71,12 @@ csp-xfo-blocked-long-desc = Emo’ã hag̃ua ne rekorosã, { $hostname } nomone�
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Ayvu jejavy: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Eikuaave jeike katu jejavy rehegua
+fp-learn-more-about-cert-issues = Eikuaave ko apañuái kuatia’atã ndive rehegua
+fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta jejavy arange rehegua
 
 ## Messages used for certificate error titles
 
@@ -115,6 +121,10 @@ certerror-mitm-title = Ko software ojokohína { -brand-short-name } ani oike ko 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Kyhyjerã: Tekorosã ñembyaikuaa
+fp-certerror-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
+fp-certerror-why-site-dangerous = ¿Mba’érevaicha upe tenda ivaikuaa?
+fp-certerror-what-can-you-do = ¿Mba’e ikatu rejapo upéicharõ?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
