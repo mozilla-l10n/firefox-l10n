@@ -122,6 +122,8 @@ certerror-mitm-title = Un programma impedi que { -brand-short-name } se connecte
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-body-title = Attention! Alco non pare correcte.
+fp-certerror-what-can-you-do = Que pote tu facer concernente isto?
 fp-certerror-advanced-title = Avantiate
 fp-certerror-advanced-button = Avantiate
 
