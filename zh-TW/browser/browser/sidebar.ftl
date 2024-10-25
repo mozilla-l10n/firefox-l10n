@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 聊天機器人
 menu-view-review-checker =
     .label = 商品評論檢查器
+sidebar-options-menu-button =
+    .title = 開啟選單
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = 展開或摺疊側邊欄
 sidebar-visibility-setting-hide-sidebar =
     .label = 顯示或隱藏側邊欄
-sidebar-customize-settings-header =
-    .label = 側邊欄選項
-sidebar-visibility-always-show =
-    .label = 總是顯示
-sidebar-visibility-hide-sidebar =
-    .label = 隱藏側邊欄
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = 來自其他裝置的分頁
 synced-tabs-context-close-tab-title =
     .title = 關閉 { $deviceName } 上的分頁
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = 展開側邊欄
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = 摺疊側邊欄
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = 顯示側邊欄
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = 隱藏側邊欄
 sidebar-widget-expand-sidebar =
     .tooltiptext = 展開側邊欄
     .label = 側邊欄

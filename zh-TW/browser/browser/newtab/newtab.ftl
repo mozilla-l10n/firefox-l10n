@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = 儲存至 { -pocket-brand-name }
 newtab-menu-delete-pocket = 從 { -pocket-brand-name } 刪除
 newtab-menu-archive-pocket = 在 { -pocket-brand-name } 裡封存
 newtab-menu-show-privacy-info = 我們的贊助商與您的隱私權
+newtab-menu-about-fakespot = 關於 { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
