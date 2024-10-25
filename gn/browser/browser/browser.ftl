@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Kuatiarogue rembiapo
 urlbar-revert-button =
     .tooltiptext = Ehechauka kundaharape kundaha rupápe
-urlbar-show-page-actions-button =
-    .tooltiptext = Ehechaukapaite kuatiaroguepegua
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,12 +621,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Eheka { $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Eheka { $engine }-pe
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, eiporavo jehekaha
-    .tooltiptext = { $engine }, eiporavo jehekaha
 urlbar-searchmode-dropmarker =
     .tooltiptext = Eiporavo jehekaha
 urlbar-searchmode-bookmarks =
@@ -643,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Mboty
 urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
 urlbar-searchmode-popup-search-settings = Jehekaha ñemboheko
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, eiporavo jehekaha
+    .tooltiptext = { $engine }, eiporavo jehekaha
+urlbar-searchmode-button-no-engine =
+    .label = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
+    .tooltiptext = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -965,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Kundaha ñemigua
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Ñeikundaha ñemi
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Mba’éicha emboykéta mba’ekuaarã ñehundi (DLP) { $agentName } rupi. Eikutu ápe eikuaave hag̃ua.
 content-analysis-panel-title = Mba’ekuaarã ñemo’ã
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Nde atyguasu oiporu <b>{ $agentName }</b> oñemo’ã hag̃ua mba’ekuaarã ñehundígui. <a data-l10n-name="info">Eikuaave</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Nde atyguasu oiporu { $agentName } oñemo’ã hag̃ua mba’ekuaarã ñehundígui. <a data-l10n-name="info">Eikuaave</a>
