@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verificator de recension
+sidebar-options-menu-button =
+    .title = Aperir menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expander e collaber barra lateral
 sidebar-visibility-setting-hide-sidebar =
     .label = Monstrar e celar le barra lateral
-sidebar-customize-settings-header =
-    .label = Configurationes del barra lateral
-sidebar-visibility-always-show =
-    .label = Sempre monstrar
-sidebar-visibility-hide-sidebar =
-    .label = Celar le barra lateral
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Schedas de altere apparatos
 synced-tabs-context-close-tab-title =
     .title = Clauder schedas in { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Expander barra lateral
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Collaber barra lateral
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Monstrar barra lateral
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Celar barra lateral
 sidebar-widget-expand-sidebar =
     .tooltiptext = Expander barra lateral
     .label = Barras lateral

@@ -71,6 +71,9 @@ open-in-new-window-for-csp-or-xfo-error = Aperir sito in nove fenestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro proteger tu securitate, { $hostname } non permitte a { -brand-short-name } monstrar le pagina si un altere sito lo ha integrate. Pro vider iste pagina, tu debe aperir lo in un nove fenestra.
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +115,12 @@ networkProtocolError-title = Error de protocollo de rete
 nssBadCert-title = Attention: Risco potential de securitate
 nssBadCert-sts-title = Non connectite: possibile problema de securitate
 certerror-mitm-title = Un programma impedi que { -brand-short-name } se connecte de maniera secur a iste sito
+
+## Felt Privacy V1 Strings
+
+fp-certerror-advanced-title = Avantiate
+fp-certerror-advanced-button = Avantiate
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
