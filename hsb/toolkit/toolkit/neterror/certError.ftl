@@ -125,7 +125,14 @@ certerror-mitm-title = Software { -brand-short-name } při wěstym zwjazowanju z
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Warnowanje: wěstotne riziko
+fp-certerror-body-title = Budźće kedźbliwy. Něšto w porjadku njeje.
+fp-certerror-what-can-you-do = Što móžeće přećiwo tomu činić?
+fp-certerror-advanced-title = Rozšěrjene
+fp-certerror-advanced-button = Rozšěrjene
+fp-certerror-hide-advanced-button = Rozšěrjene schować
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Dale k { $hostname } (riskantny)
