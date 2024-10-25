@@ -234,6 +234,7 @@ firefoxview-dont-remember-history-empty-header = Ақпарат жоқ
 firefoxview-dont-remember-history-empty-description = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті басқаруға болады.
 firefoxview-dont-remember-history-empty-description-two = Сіздің ағымдағы баптауларға сәйкес, { -brand-short-name } шолу кезінде белсенділікті есте сақтамайды. Оны өзгерту үшін, <a data-l10n-name="history-settings-url-two">шолу тарихыңызды есте сақтау үшін, тарих баптауларын өзгертіңіз</a>.
 firefoxview-dont-remember-history-empty-header-2 = Сіз { -brand-short-name } нені есте сақтайтынын басқарасыз
+firefoxview-dont-remember-history-empty-description-one = Дәл қазір { -brand-short-name } сіздің шолу әрекеттеріңізді есте сақтамайды. Оны өзгерту үшін <a data-l10n-name="history-settings-url-two">тарих параметрлерін жаңартыңыз</a>.
 
 ##
 
