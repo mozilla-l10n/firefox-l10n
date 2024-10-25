@@ -128,6 +128,12 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Разрешавате ли на този файл от вашия компютър да използва други говорители?
+webrtc-allow-share-camera-and-microphone-with-file = Разрешавате ли на този файл от вашия компютър да използва вашата камера и микрофон?
+webrtc-allow-share-camera-and-audio-capture-with-file = Разрешавате ли на този файл от вашия компютър да използва вашата камера и да слуша звука от този раздел?
+webrtc-allow-share-screen-and-microphone-with-file = Разрешавате ли на този файл от вашия компютър да използва микрофона и да вижда екрана ви?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -136,6 +142,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-warning = Споделяйте екрани само със сайтове, на които вярвате. Споделянето може да позволи на измамни сайтове да сърфират като вас и да откраднат личните ви данни.
 webrtc-share-screen-learn-more = Научете повече
 webrtc-pick-window-or-screen = Избиране на прозорец или екран
 webrtc-share-entire-screen = Целият екран
