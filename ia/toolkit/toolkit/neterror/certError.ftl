@@ -142,6 +142,7 @@ fp-certerror-body-title = Attention! Alco non pare correcte.
 fp-certerror-what-can-you-do = Que pote tu facer concernente isto?
 fp-certerror-advanced-title = Avantiate
 fp-certerror-advanced-button = Avantiate
+fp-certerror-hide-advanced-button = Celar avantiate
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
