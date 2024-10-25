@@ -246,6 +246,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Crear una cuenta
 device-migration-fxa-spotlight-getting-new-device-header-2 = ¿Está planeando obtener un nuevo dispositivo en el futuro?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Siga unos sencillos pasos para llevar consigo sus marcadores, historial y contraseñas cuando empiece a utilizar un nuevo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer una copia de seguridad de mis datos
+device-migration-fxa-spotlight-sync-header = Navega sin perder el ritmo
+device-migration-fxa-spotlight-sync-body = Sincroniza toda tu información importante con cifrado, como marcadores y contraseñas. Puedes acceder a todo en cualquier lugar donde uses { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Empezar
 
 ## Set as Default PDF Reader Infobar
 
@@ -294,3 +297,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Después
     .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Cerrar
+    .aria-label = Cerrar

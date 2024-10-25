@@ -172,3 +172,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Restaurar sonido en pestaña
 tabbrowser-manager-close-tab =
     .tooltiptext = Cerrar pestaña
+
+## Tab Groups
+
+tab-group-editor-title-create = Crear grupo de pestañas
+tab-group-editor-title-edit = Administrar grupo de pestañas
+tab-group-editor-name-label = Nombre
+tab-group-editor-name-field =
+    .placeholder = Ejemplo: Compras
+tab-group-editor-cancel =
+    .label = Cancelar
+    .accesskey = C

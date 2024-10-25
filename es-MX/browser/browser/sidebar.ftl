@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = Chatbot de IA
+menu-view-review-checker =
+    .label = Verificador de Reseñas
 
 ## Labels for sidebar history panel
 
@@ -50,12 +52,14 @@ sidebar-horizontal-tabs =
     .label = Pestañas horizontales
 sidebar-customize-tabs-header =
     .label = Preferencias de pestañas
-sidebar-customize-settings-header =
-    .label = Ajustes de la barra lateral
-sidebar-visibility-always-show =
-    .label = Mostrar siempre
-sidebar-visibility-hide-sidebar =
-    .label = Ocultar barra lateral
+sidebar-customize-button-header =
+    .label = Botón de la barra lateral
+sidebar-customize-position-header =
+    .label = Posición de la barra lateral
+sidebar-visibility-setting-always-show =
+    .label = Expandir y contraer la barra lateral
+sidebar-visibility-setting-hide-sidebar =
+    .label = Mostrar y ocultar la barra lateral
 
 ## Labels for sidebar context menu items
 
@@ -95,6 +99,8 @@ sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
     .label = Personalizar barra lateral
+sidebar-menu-review-checker-label =
+    .label = Verificador de Reseñas
 
 ## Headings for sidebar menu panels.
 
@@ -104,6 +110,14 @@ sidebar-menu-history-header =
     .heading = Historial
 sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
+sidebar-panel-header-close-button =
+    .tooltiptext = Cerrar
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personalizar barra lateral
+sidebar-history-title = Historial
+sidebar-syncedtabs-title = Pestañas de otros dispositivos
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +127,18 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Cerrar pestaña en { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Expandir la barra lateral
+    .label = Barras laterales
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Contraer barra lateral
+    .label = Barras laterales
+sidebar-widget-show-sidebar =
+    .tooltiptext = Mostrar barra lateral
+    .label = Barras laterales
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Ocultar barra lateral
+    .label = Barras laterales

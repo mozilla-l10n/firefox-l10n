@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Acciones de la página
 urlbar-revert-button =
     .tooltiptext = Mostrar la dirección en la barra de búsqueda
-urlbar-show-page-actions-button =
-    .tooltiptext = Mostrar todas las acciones de la página
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -614,6 +612,29 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Navegue con { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Buscar { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Buscar con { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Elige un Motor de Búsqueda
+urlbar-searchmode-bookmarks =
+    .label = Marcadores
+urlbar-searchmode-tabs =
+    .label = Pestañas
+urlbar-searchmode-history =
+    .label = Historial
+urlbar-searchmode-actions =
+    .label = Acciones
+urlbar-searchmode-exit-button =
+    .tooltiptext = Cerrar
+urlbar-searchmode-popup-description = Esta vez busca con:
+urlbar-searchmode-popup-search-settings = Configuración de Búsqueda
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1009,6 +1030,7 @@ firefox-relay-offer-legal-notice = Al hacer clic en "Usar máscara de correo ele
 popup-notification-addon-install-unsigned =
     .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber más sobre cómo instalar complementos de forma segura
+popup-notification-xpinstall-prompt-block-url = Ver detalles
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Ejecutar en ventanas privadas

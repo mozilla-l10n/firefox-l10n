@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completado
 firefoxview-tabpickup-step-signin-header = Cambia sin problemas entre dispositivos
 firefoxview-tabpickup-step-signin-description = Para obtener las pestañas de tu teléfono aquí, primero inicia sesión o crea una cuenta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } en todos tus dispositivos
+firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas que tienes abiertas en tu teléfono y otros dispositivos, inicia sesión o crea una cuenta. Con una cuenta, también puedes sincronizar tus contraseñas, historial y más.
+firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sesión
 firefoxview-syncedtabs-signin-header = Toma pestañas desde cualquier lugar
 firefoxview-syncedtabs-signin-description = Para ver tus pestañas desde cualquier lugar donde uses { -brand-product-name }, inicia sesión en tu cuenta. Si no tienes una cuenta, te guiaremos a través de los pasos para registrarte.
 firefoxview-syncedtabs-signin-primarybutton = Regístrate o inicia sesión
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } en t
 firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } para dispositivos móviles e inicia sesión allí.
 firefoxview-tabpickup-adddevice-learn-how = Aprende cómo
 firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } para dispositivos móviles
+firefoxview-syncedtabs-adddevice-header-2 = Obtén pestañas desde cualquier lugar
+firefoxview-syncedtabs-adddevice-description-2 = Inicia sesión en { -brand-product-name } en tu teléfono u otra computadora para ver las pestañas aquí. Aprende cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-header = Inicia sesión en { -brand-product-name }en tus otros dispositivos
 firefoxview-syncedtabs-adddevice-description = Para ver tus pestañas donde sea que uses { -brand-product-name }, inicia sesión en todos tus dispositivos. Conoce cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
@@ -228,6 +233,8 @@ firefoxview-choose-browser-button = Elegir navegador
 firefoxview-dont-remember-history-empty-header = Nada que mostrar
 firefoxview-dont-remember-history-empty-description = Proteger tu privacidad está en el corazón de lo que hacemos. Por eso puedes controlar la actividad que { -brand-short-name } recuerda.
 firefoxview-dont-remember-history-empty-description-two = Basándose en tus configuraciones actuales, { -brand-short-name } no recuerda tu actividad mientras navegas. Para cambiarlo, <a data-l10n-name="history-settings-url-two">cambia tus configuraciones de historial para que recuerde tu historial</a>.
+firefoxview-dont-remember-history-empty-header-2 = Tienes el control de lo que { -brand-short-name } recuerda
+firefoxview-dont-remember-history-empty-description-one = En este momento, { -brand-short-name } no recuerda tu actividad de navegación. Para cambiarlo, <a data-l10n-name="history-settings-url-two">actualiza la configuración de tu historial</a>.
 
 ##
 
