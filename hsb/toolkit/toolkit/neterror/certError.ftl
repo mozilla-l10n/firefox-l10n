@@ -75,6 +75,7 @@ fp-certerror-view-certificate-link = Certifikat sydła pokazać
 fp-certerror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic wjele. Zda so, zo je problem ze sydłom samym.
+fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jeli pospytujeće, tute sydło we firmowym interneće wopytać, móže waš personal IT samosignowane certifikaty wužiwać. Móža wam pomhać, jich awtentiskosć přepruwować.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Zmylkowy kod: { $error }
