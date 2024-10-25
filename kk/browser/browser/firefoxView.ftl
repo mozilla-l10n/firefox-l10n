@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% дайын
 firefoxview-tabpickup-step-signin-header = Құрылғылар арасында кедергісіз ауысыңыз
 firefoxview-tabpickup-step-signin-description = Телефон беттерін осы жерден алу үшін алдымен жүйеге кіріңіз немесе тіркелгіні жасаңыз.
 firefoxview-tabpickup-step-signin-primarybutton = Жалғастыру
+firefoxview-syncedtabs-signin-header-2 = Сіздің { -brand-product-name } барлық құрылғыларыңызда
+firefoxview-syncedtabs-signin-description-2 = Телефонда және басқа құрылғыларда ашылған беттерді көру үшін жүйеге кіріңіз немесе тіркелгі жасаңыз. Тіркелгі арқылы парольдер, тарихты және т.б. синхрондауға болады.
 firefoxview-syncedtabs-signin-primarybutton-2 = Кіру
 firefoxview-syncedtabs-signin-header = Беттерді кез келген жерден алу
 firefoxview-syncedtabs-signin-description = { -brand-product-name } қолданатын әр жеріңізден беттерді көру үшін, тіркелгіңізге кіріңіз. Тіркелгіңіз жоқ болса, сізді тіркелу қадамдарынан өткіземіз.
@@ -41,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Мобильді телефонғ�
 firefoxview-tabpickup-adddevice-learn-how = Көбірек білу
 firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-product-name } алу
 firefoxview-syncedtabs-adddevice-header-2 = Беттерді кез келген жерден алу
+firefoxview-syncedtabs-adddevice-description-2 = Осында беттерді көру үшін телефонда немесе басқа компьютерде { -brand-product-name } ішіне кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қосу жолын</a> үйреніңіз.
 firefoxview-syncedtabs-adddevice-header = Басқа құрылғыларыңызда { -brand-product-name } ішіне кіріңіз
 firefoxview-syncedtabs-adddevice-description = { -brand-product-name } қолданатын әр жеріңізден беттерді көру үшін, әр құрылғыңызда тіркелгіңізге кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қалай қосуға болатыны</a> туралы көбірек біліңіз.
 firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
@@ -230,6 +233,7 @@ firefoxview-choose-browser-button = Браузерді таңдау
 firefoxview-dont-remember-history-empty-header = Ақпарат жоқ
 firefoxview-dont-remember-history-empty-description = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті басқаруға болады.
 firefoxview-dont-remember-history-empty-description-two = Сіздің ағымдағы баптауларға сәйкес, { -brand-short-name } шолу кезінде белсенділікті есте сақтамайды. Оны өзгерту үшін, <a data-l10n-name="history-settings-url-two">шолу тарихыңызды есте сақтау үшін, тарих баптауларын өзгертіңіз</a>.
+firefoxview-dont-remember-history-empty-header-2 = Сіз { -brand-short-name } нені есте сақтайтынын басқарасыз
 
 ##
 
