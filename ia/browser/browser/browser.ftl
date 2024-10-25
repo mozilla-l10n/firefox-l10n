@@ -638,6 +638,9 @@ urlbar-searchmode-popup-search-settings = Parametros de recerca
 urlbar-searchmode-button2 =
     .label = { $engine }, seliger un motor de recerca
     .tooltiptext = { $engine }, seliger un motor de recerca
+urlbar-searchmode-button-no-engine =
+    .label = Nulle via breve seligite, selige un via breve
+    .tooltiptext = Nulle via breve seligite, selige un via breve
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -960,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigation private
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navigation private
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevention perdita datos (DLP) per { $agentName }. Clicca pro altere info.
 content-analysis-panel-title = Protection de datos
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tu organisation usa <b>{ $agentName }</b> pro proteger contra perdita de datos. <a data-l10n-name="info">Pro saper plus</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Tu organisation usa { $agentName } pro proteger contra perdita de datos. <a data-l10n-name="info">Pro saper plus</a>
