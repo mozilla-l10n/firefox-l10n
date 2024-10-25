@@ -71,7 +71,23 @@ open-in-new-window-for-csp-or-xfo-error = Aperir sito in nove fenestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro proteger tu securitate, { $hostname } non permitte a { -brand-short-name } monstrar le pagina si un altere sito lo ha integrate. Pro vider iste pagina, tu debe aperir lo in un nove fenestra.
+fp-certerror-view-certificate-link = Vider le certificato de sito
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (Recommendate)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Le sito es configurate pro permitter solo connexiones secur, ma il ha un problema con le certificato de sito. Il es possibile que un malfactor tenta finger se le sito. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque su certificato non es valide pro { $hostname }. Le certificato es solo valide pro: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. Ma si tu es sur un rete corporative, tu equipa de assistentia pote haber altere informationes. Si tu usa software antivirus, prova cercar pro conflictos potential o problemas note.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Il ha un problema con le certificato de sito. Il es possibile que un malfactor tenta finger se le sito. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque nos non pote dicer qui emitteva le certificato, illo es auto-firmate, o le sito non invia certificatos intermedie in que nos confide.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme. Ma si tu es sur un rete corporative, tu equipa de assistentia pote haber altere informationes. Si tu usa software antivirus, illo pote deber esser configurate pro laborar con { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Perque il ha un problema con le certificato de sito. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. Iste certificato de sito es auto-firmate. Il non era emittite per un autoritate de certification recognoscite, assi nos non confide in illo de ordinario.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Non multo. Illo es probabile que il ha un problema con le sito mesme.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codice de error: { $error }
