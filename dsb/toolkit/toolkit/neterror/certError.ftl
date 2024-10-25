@@ -83,6 +83,7 @@ fp-cert-error-code = Zmólkowy kod: { $error }
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Zgóńśo wěcej wó wěstych zwiskowych wótłamanjach
 fp-learn-more-about-cert-issues = Zgóńśo wěcej wó toś tych družynach certifikatowych problemow
+fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na cas póśěgowanych zmólkow
 
 ## Messages used for certificate error titles
 
@@ -127,7 +128,15 @@ certerror-mitm-title = Software { -brand-short-name } wěste zwězowanje z toś 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Warnowanje: wěstotne riziko
+fp-certerror-body-title = Buźćo wobglědniwy. Něco njejo w pórěźe.
+fp-certerror-why-site-dangerous = Cogodla sedło tšašnje wuglěda?
+fp-certerror-what-can-you-do = Co móžośo pśeśiwo tomu cyniś?
+fp-certerror-advanced-title = Rozšyrjone
+fp-certerror-advanced-button = Rozšyrjone
+fp-certerror-hide-advanced-button = Rozšyrjone schowaś
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Dalej k { $hostname } (riskantny)
