@@ -71,6 +71,20 @@ open-in-new-window-for-csp-or-xfo-error = Abrir sitio en una nueva ventana
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para proteger tu seguridad, { $hostname } no permitirá que { -brand-short-name } muestre la página si otro sitio la ha incrustado. Para ver esta página, debes abrirla en una nueva ventana.
+fp-certerror-view-certificate-link = Ver el certificado del sitio
+fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = El sitio está configurado para permitir solo conexiones seguras, pero hay un problema con el certificado del sitio. Es posible que un actor malicioso esté intentando hacerse pasar por el sitio. Los sitios usan certificados emitidos por una autoridad de certificación para demostrar que realmente son quienes dicen ser. { -brand-short-name } no confía en este sitio porque su certificado no es válido para { $hostname }. El certificado solo es válido para: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probablemente nada, ya que es posible que haya un problema con el sitio en sí. Los sitios utilizan certificados emitidos por una autoridad de certificación para demostrar que son realmente quienes dicen ser. Pero si estás en una red corporativa, tu equipo de soporte puede tener más información. Si estás usando un software antivirus, intenta buscar posibles conflictos o problemas conocidos.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Hay un problema con el certificado del sitio. Es posible que un actor malicioso esté intentando hacerse pasar por el sitio. Los sitios utilizan certificados emitidos por una autoridad de certificación para demostrar que son realmente quienes dicen ser. { -brand-short-name } no confía en este sitio porque no podemos saber quién emitió el certificado, es autofirmado o el sitio no envía certificados intermedios en los que confiamos.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Código de error: { $error }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +126,18 @@ networkProtocolError-title = Error de protocolo de red
 nssBadCert-title = Advertencia: Riesgo potencial de seguridad a continuación
 nssBadCert-sts-title = No se conectó: Posible problema de seguridad
 certerror-mitm-title = Hay un software que impide a { -brand-short-name } de conectarse de forma segura a este sitio
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Advertencia: Riesgo de seguridad
+fp-certerror-body-title = Ten cuidado. Algo no parece estar bien.
+fp-certerror-why-site-dangerous = ¿Qué hace que el sitio parezca peligroso?
+fp-certerror-what-can-you-do = ¿Qué puedes hacer al respecto?
+fp-certerror-advanced-title = Avanzado
+fp-certerror-advanced-button = Avanzado
+fp-certerror-hide-advanced-button = Ocultar avanzado
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Proceder a { $hostname } (riesgoso)
