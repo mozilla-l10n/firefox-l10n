@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Review Checker
+sidebar-options-menu-button =
+    .title = Open menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expand and collapse sidebar
 sidebar-visibility-setting-hide-sidebar =
     .label = Show and hide sidebar
-sidebar-customize-settings-header =
-    .label = Sidebar settings
-sidebar-visibility-always-show =
-    .label = Always show
-sidebar-visibility-hide-sidebar =
-    .label = Hide sidebar
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Tabs from other devices
 synced-tabs-context-close-tab-title =
     .title = Close tab on { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Expand sidebar
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Collapse sidebar
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Show sidebar
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Hide sidebar
 sidebar-widget-expand-sidebar =
     .tooltiptext = Expand sidebar
     .label = Sidebars
