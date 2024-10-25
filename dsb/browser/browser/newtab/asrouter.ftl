@@ -309,3 +309,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Zacyniś
     .aria-label = Zacyniś
+fxa-menu-message-sign-up-button = Registrěrowaś
+fxa-menu-message-sync-devices-primary-text = Synchronizěrujśo wšykne swóje rědy
+fxa-menu-message-sync-devices-secondary-text = Wobstarajśo se ned swóje informacije – na pśikład swóje cytańske znamjenja a gronidła – wšuźi, źož { -brand-short-name } wužywaśo.
+fxa-menu-message-sync-devices-collapsed-text = Synchronizěrujśo wšykne swóje rědy

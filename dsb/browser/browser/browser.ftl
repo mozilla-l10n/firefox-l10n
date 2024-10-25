@@ -560,8 +560,6 @@ urlbar-page-action-button =
     .tooltiptext = Akcije boka
 urlbar-revert-button =
     .tooltiptext = Adresu w adresowem pólu pokazaś
-urlbar-show-page-actions-button =
-    .tooltiptext = Wšykne akcije boka pokazaś
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -631,12 +629,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – z { $engine } pytaś
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, wubjeŕśo pytnicu
-    .tooltiptext = { $engine }, wubjeŕśo pytnicu
 urlbar-searchmode-dropmarker =
     .tooltiptext = Wubjeŕśo pytnicu
 urlbar-searchmode-bookmarks =
@@ -651,6 +643,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Zacyniś
 urlbar-searchmode-popup-description = Tenraz pytaś z:
 urlbar-searchmode-popup-search-settings = Pytańske nastajenja
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, wubjeŕśo pytnicu
+    .tooltiptext = { $engine }, wubjeŕśo pytnicu
+urlbar-searchmode-button-no-engine =
+    .label = Žedna skrotconka wubrana, wubjeŕśo skrotconku
+    .tooltiptext = Žedna skrotconka wubrana, wubjeŕśo skrotconku
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -973,12 +974,18 @@ data-reporting-notification-button =
     .accesskey = u
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Priwatny modus
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Zawoboranje pśeśiwo zgubjenju datow (DLP) pśez { $agentName }. Klikniśo, aby wěcej informacijow dostał.
 content-analysis-panel-title = Šćit datow
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Waša organizacija <b>{ $agentName }</b> wužywa, aby pśeśiwo zgubjenjeju datow šćitała. <a data-l10n-name="info">Dalšne informacije</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Waša organizacija { $agentName } wužywa, aby pśeśiwo zgubjenjeju datow šćitała. <a data-l10n-name="info">Dalšne informacije</a>
