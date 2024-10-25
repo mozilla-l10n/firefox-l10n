@@ -14,12 +14,12 @@ rights-intro-point-5-unbranded = As dit produkt webtsjinsten brûkt, moat elke t
 rights-intro-point-6 = Om bepaalde typen fideo-ynhâld ôf te spyljen, downloadt { -brand-short-name } bepaalde ynhâlddekodearringsmodules fan tredden.
 rights-webservices-header = { -brand-full-name } Web-basearre ynformaasjetsjinsten
 rights-webservices = { -brand-full-name } brûkt web-basearre ynformaasjetsjinsten (‘Tsjinsten’) om funksjes oan te bieden foar jo gebrûk mei dizze binêre ferzje fan { -brand-short-name } ûnder de betingsten as hjirûnder beskreaun. As jo ien of mear fan dizze Tsjinsten net brûke wolle of de betingsten hjirûnder binne net te akseptearjen, kinne jo de funksjes of Tsjinst(en) útskeakelje. Ynstruksjes oer hoe’t jo in bepaalde funksje of Tsjinst útskeakelje kinne, kinne jo <a data-l10n-name="mozilla-disable-service-link">hjir</a> fine. Oare ûnderdielen en tsjinsten kinne útskeakele wurde yn de opsjes fan de tapassing.
-rights-safebrowsing = <strong>SafeBrowsing: </strong>Utskeakeljen fan de funksje Feilich sneupje wurdt net oanrekommandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:
+rights-safebrowsing = <strong>SafeBrowsing: </strong>Utskeakeljen fan de funksje Feilich sneupe wurdt net oanrekommandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:
 rights-safebrowsing-term-1 = Iepenje de applikaasjeopsjes
 rights-safebrowsing-term-2 = Selektearje de seksje Befeiliging
 rights-safebrowsing-term-3 = Finkje de opsjes foar ‘{ enableSafeBrowsing-label }’ út
 enableSafeBrowsing-label = Gefaarlike en misliedende ynhâld blokkearje
-rights-safebrowsing-term-4 = Feilich sneupje is no útskeakele
+rights-safebrowsing-term-4 = Feilich sneupe is no útskeakele
 rights-locationawarebrowsing = <strong>Lokaasjebewust sneupe: </strong>is altyd opt-yn.  Lokaasje-ynformaasje wurdt nea ferstjoerd sûnder jo tastimming.  As jo dizze funksje folslein útskeakelje wolle, folgje dan dizze stappen:
 rights-locationawarebrowsing-term-1 = Typ yn de adresbalke <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Typ geo.enabled

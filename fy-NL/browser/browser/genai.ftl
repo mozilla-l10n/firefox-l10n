@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Foeget de chatbot fan jo kar ta oan de sidebalke, foar rappe tagong as jo sneupje. <a data-l10n-name="connect">Kommentaar diele</a>
+genai-settings-chat-description = Foeget de chatbot fan jo kar ta oan de sidebalke, foar rappe tagong as jo sneupe. <a data-l10n-name="connect">Kommentaar diele</a>
 genai-settings-chat-choose = Kies in chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Kies ien…
