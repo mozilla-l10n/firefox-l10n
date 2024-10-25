@@ -83,6 +83,7 @@ fp-cert-error-code = Zmylkowy kod: { $error }
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Zhońće wjace wo wěstych zwiskowych přetorhnjenjach
 fp-learn-more-about-cert-issues = Zhońće wjace wo tutych družinach certifikatowych problemow
+fp-learn-more-about-time-related-errors = Zhońće wjace wo rozrisowanju na čas poćahowanych zmylkow
 
 ## Messages used for certificate error titles
 
@@ -129,6 +130,7 @@ certerror-mitm-title = Software { -brand-short-name } při wěstym zwjazowanju z
 
 fp-certerror-page-title = Warnowanje: wěstotne riziko
 fp-certerror-body-title = Budźće kedźbliwy. Něšto w porjadku njeje.
+fp-certerror-why-site-dangerous = Čehodla sydło strašnje wupada?
 fp-certerror-what-can-you-do = Što móžeće přećiwo tomu činić?
 fp-certerror-advanced-title = Rozšěrjene
 fp-certerror-advanced-button = Rozšěrjene
