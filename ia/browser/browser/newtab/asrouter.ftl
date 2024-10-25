@@ -306,5 +306,7 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Inscriber se
 fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
 fxa-menu-message-sync-devices-collapsed-text = Synchronisa tote tu apparatos
+fxa-menu-message-backup-data-primary-text = Preserva le datos de tu navigator
 fxa-menu-message-backup-data-collapsed-text = Preserva le datos de tu navigator
 fxa-menu-message-backup-sync-primary-text = Mantene tu datos secur e synchronisate
+fxa-menu-message-backup-sync-collapsed-text = Synchronisa e preserva tu datos
