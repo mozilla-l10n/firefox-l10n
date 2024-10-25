@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
 newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
+newtab-menu-about-fakespot = { -fakespot-brand-name } rehegua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

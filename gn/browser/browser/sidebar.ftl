@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI chatbot
 menu-view-review-checker =
     .label = Marandu’i rechajeyha
+sidebar-options-menu-button =
+    .title = Eike poravorãme
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Emyasãi ha emyanyhẽrasa tenda yke
 sidebar-visibility-setting-hide-sidebar =
     .label = Ehechauka ha eñomi tenda yke
-sidebar-customize-settings-header =
-    .label = Emboheko ta’ãngarupa ykegua
-sidebar-visibility-always-show =
-    .label = Jehechauka tapia
-sidebar-visibility-hide-sidebar =
-    .label = Eñomi ta’ãngarupa ykegua
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Tendaykekuéra ambue mba’e’okaygua
 synced-tabs-context-close-tab-title =
     .title = Emboty tendayke { $deviceName }-pe
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Emyasãi tenda yke
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Ta’ãngarupa yke momichĩ
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Ehechauka tenda yke
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Eñomi tenda yke
 sidebar-widget-expand-sidebar =
     .tooltiptext = Emyasãi tenda yke
     .label = Tenda yke
