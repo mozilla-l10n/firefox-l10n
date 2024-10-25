@@ -158,7 +158,13 @@ fp-certerror-page-title = 경고: 보안 위험
 fp-certerror-body-title = 조심하세요. 뭔가 문제가 있습니다.
 fp-certerror-why-site-dangerous = 사이트가 위험해 보이는 이유는 무엇인가요?
 fp-certerror-what-can-you-do = 사용자가 무엇을 할 수 있습니까?
+fp-certerror-advanced-title = 고급
+fp-certerror-advanced-button = 고급
+fp-certerror-hide-advanced-button = 고급 숨기기
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = { $hostname } 사이트로 진행 (위험)
+fp-certerror-intro = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 심각한 보안 문제를 발견했습니다. 사이트를 사칭하는 누군가가 신용카드 정보, 비밀번호, 이메일 등을 탈취할 수 있습니다.
+fp-certerror-expired-into = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 보안 문제를 발견했습니다. 사이트 설정이 올바르지 않거나 기기의 시계가 잘못된 날짜/시간으로 설정되어 있습니다.
