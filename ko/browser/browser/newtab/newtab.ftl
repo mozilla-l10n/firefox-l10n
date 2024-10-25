@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = { -pocket-brand-name }에 저장
 newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
 newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
 newtab-menu-show-privacy-info = 우리의 스폰서와 개인 정보 보호
+newtab-menu-about-fakespot = { -fakespot-brand-name } 정보
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -304,7 +305,7 @@ newtab-wallpaper-light-red-panda = 레서판다
 newtab-wallpaper-light-mountain = 하얀 산
 newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
 newtab-wallpaper-light-color = 파란색, 분홍색, 노란색 모양
-newtab-wallpaper-light-landscape = 푸른 안개 산 풍경
+newtab-wallpaper-light-landscape = 파란 안개 산 풍경
 newtab-wallpaper-light-beach = 야자수가 있는 해변
 newtab-wallpaper-dark-aurora = 북극 오로라
 newtab-wallpaper-dark-color = 빨간색과 파란색 모양

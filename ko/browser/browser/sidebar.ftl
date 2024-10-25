@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 챗봇
 menu-view-review-checker =
     .label = 리뷰 검사기
+sidebar-options-menu-button =
+    .title = 메뉴 열기
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = 사이드바 펼치기 및 접기
 sidebar-visibility-setting-hide-sidebar =
     .label = 사이드바 표시 및 숨기기
-sidebar-customize-settings-header =
-    .label = 사이드바 설정
-sidebar-visibility-always-show =
-    .label = 항상 표시
-sidebar-visibility-hide-sidebar =
-    .label = 사이드바 숨기기
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = 다른 기기의 탭
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }의 탭 닫기
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = 사이드바 펼치기
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = 사이드바 접기
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = 사이드바 표시
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = 사이드바 숨기기
 sidebar-widget-expand-sidebar =
     .tooltiptext = 사이드바 펼치기
     .label = 사이드바
