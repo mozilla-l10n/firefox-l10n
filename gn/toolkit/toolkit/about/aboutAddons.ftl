@@ -419,6 +419,7 @@ available-updates-heading = Ñembohekopyahu eiporukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
+addon-permissions-empty2 = Ko moĩmbaha noikotevẽi ñemoneĩre.
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
 addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
 addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
