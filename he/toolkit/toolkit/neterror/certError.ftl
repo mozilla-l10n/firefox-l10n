@@ -73,6 +73,11 @@ open-in-new-window-for-csp-or-xfo-error = פתיחת אתר בחלון חדש
 csp-xfo-blocked-long-desc = כדי להגן על האבטחה שלך, { $hostname } לא יאפשר ל־{ -brand-short-name } להציג את הדף אם אתר אחר הטמיע אותו. כדי לצפות בדף זה, עליך לפתוח אותו בחלון חדש.
 fp-certerror-view-certificate-link = הצגת אישור האתר
 fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק חיבורים מאובטחים, אבל יש בעיה באישור האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורים המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהאישור שלו אינו תקף עבור { $hostname }. האישור תקף רק עבור: { $validHosts }.
 
 ## Messages used for certificate error titles
 
