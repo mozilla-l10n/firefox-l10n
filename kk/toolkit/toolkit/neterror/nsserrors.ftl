@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Қауіпсіз байланысты орнату мүмкін емес, SSL хаттамасы сөндірулі тұр.
 psmerr-ssl2-disabled = Сервермен байланыс орнату мүмкін емес, өйткені ол ескі, қауіпсіз емес SSL хаттамасын қолдануда.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Сіз алған сертификат қате.  Сервер администраторымен не электронды пошта алушысымен хабарласып, келесі ақпаратты беріңіз:
     
     Сертификат нөмірі осы сертификат шығару орталығы шығарған басқа бір сертификаттың нөмірімен сәйкес болып тұр. Нөмірі ерекше жаңа сертификат алыңыз.
-
 ssl-error-export-only-server = Қорғалған байланысты орнату сәтсіз аяқталды. Торап жоғары дәрежелі шифрлеуді қолдамайды.
 ssl-error-us-only-server = Қорғалған байланысты орнату сәтсіз аяқталды. Торап сұраған жоғары дәрежелі шифрлеуге қолдау жоқ.
 ssl-error-no-cypher-overlap = Қорғалған байланысты орнату сәтсіз аяқталды: шифрлеудің жалпы алгоритмдері жоқ.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Бірде-бір қолдауы б
 ssl-error-unsupported-signature-algorithm = Торап қолдауы жоқ қолтаңба және хэш алгоритмдер жұбын қолданған.
 ssl-error-missing-extended-master-secret = Торап жарамды extended_master_secret кеңейтусіз жалғастыру талабын жасаған.
 ssl-error-unexpected-extended-master-secret = Торап күтілмеген extended_master_secret кеңейтуімен жалғастыру талабын жасаған.
-
 sec-error-io = Қауіпсіз авторизация кезінде Е/Ш қатесі кеткен.
 sec-error-library-failure = қауіпсіздік жинақ қатесі.
 sec-error-bad-data = қауіпсіздік жинақ қатесі: қате мәліметтер алынды.
@@ -319,7 +317,6 @@ sec-error-locked-password = Пароль блокталған.
 sec-error-unknown-pkcs11-error = Белгісіз PKCS #11 қатесі.
 sec-error-bad-crl-dp-url = CRL тарату нүктесінің атындағы белгісіз не қолдауы жоқ URL.
 sec-error-cert-signature-algorithm-disabled = Сертификатқа қауіпсіз емес болғаны салдарынан сөндірілген алгоритмі көмегімен қолтаңба қойылған.
-
 mozilla-pkix-error-key-pinning-failure = Бұл сервер кілттерді бекітуді (HPKP) қолданады, бірақ, бекітуге сай келетін сенімді сертификатты жасау мүмкін емес. Кілттерді бекітуді бұзуын ережеден тыс қабылдауға болмайды.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Бұл сервер негізгі шектеулерді кеңейтетін, сол себептен оны сертификаттау орталығы ретінде анықтайтын сертификатты қолданады. Жарамды сертификаттар үшін осылай болмау тиіс.
 mozilla-pkix-error-inadequate-key-size = Бұл сервер қауіпсіз байланысты орнату үшін өлшемі тым аз болып тұрған кілті бар сертификатты қолданады.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Сервер ұсынған сер
 mozilla-pkix-error-empty-issuer-name = Сервер сертификаттау орталығының ажыратылымды аты бос болып келген сертификатпен жауап берген.
 mozilla-pkix-error-additional-policy-constraint-failed = Бұл сертификатты растау кезінде қосымша саясат шарты сәтсіз аяқталды.
 mozilla-pkix-error-self-signed-cert = Сертификатқа сенім жоқ, өйткені оның қолтаңбасы өздігінен қойылған.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Сертификат берген сертификаттау органына сертификатты шығарғанға дейін сенімсіздік танылды.
 xp-java-remove-principal-error = Principal өшіру мүмкін емес
 xp-java-delete-privilege-error = Privilege өшіру мүмкін емес
 xp-java-cert-not-exists-error = Осы principal сертификаты жоқ
-
 xp-sec-fortezza-bad-card = Fortezza card дұрыс жасалмады. Оны алып тастап, шығарушысына қайтарыңыз.
 xp-sec-fortezza-no-card = Бірде-бір Fortezza картасы табылмады
 xp-sec-fortezza-none-selected = Бірде-бір Fortezza картасы ерекшеленбеді
