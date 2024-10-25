@@ -300,3 +300,5 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Жабу
     .aria-label = Жабу
+fxa-menu-message-sync-devices-collapsed-text = Барлық құрылғыларыңызды синхрондаңыз
+fxa-menu-message-backup-data-primary-text = Браузер деректерінің сақтық көшірмесін жасаңыз
