@@ -649,6 +649,9 @@ urlbar-searchmode-popup-search-settings = Pytanske nastajenja
 urlbar-searchmode-button2 =
     .label = { $engine }, wubjerće pytawu
     .tooltiptext = { $engine }, wubjerće pytawu
+urlbar-searchmode-button-no-engine =
+    .label = Žana skrótšenka wubrana, wubjerće skrótšenku
+    .tooltiptext = Žana skrótšenka wubrana, wubjerće skrótšenku
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

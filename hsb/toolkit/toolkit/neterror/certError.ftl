@@ -81,6 +81,8 @@ fp-cert-error-code = Zmylkowy kod: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Zhońće wjace wo wěstych zwiskowych přetorhnjenjach
+fp-learn-more-about-cert-issues = Zhońće wjace wo tutych družinach certifikatowych problemow
 
 ## Messages used for certificate error titles
 
