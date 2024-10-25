@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola pohódnoćenjow
+sidebar-options-menu-button =
+    .title = Meni wočinić
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Bóčnicu pokazać a schować
 sidebar-visibility-setting-hide-sidebar =
     .label = Bóčnicu pokazać a schować
-sidebar-customize-settings-header =
-    .label = Nastajenja bóčnicy
-sidebar-visibility-always-show =
-    .label = Přeco pokazać
-sidebar-visibility-hide-sidebar =
-    .label = Bóčnicu schować
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Rajtarki z druhich gratow
 synced-tabs-context-close-tab-title =
     .title = Rajtark na { $deviceName } začinić
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Bóčnicu pokazać
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Bóčnicu schować
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Bóčnicu pokazać
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Bóčnicu schować
 sidebar-widget-expand-sidebar =
     .tooltiptext = Bóčnicu pokazać
     .label = Bóčnicy

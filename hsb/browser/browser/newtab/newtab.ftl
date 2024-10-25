@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Pola { -pocket-brand-name } składować
 newtab-menu-delete-pocket = Z { -pocket-brand-name } zhašeć
 newtab-menu-archive-pocket = W { -pocket-brand-name } archiwować
 newtab-menu-show-privacy-info = Naši sponsorojo a waša priwatnosć
+newtab-menu-about-fakespot = Wo { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
