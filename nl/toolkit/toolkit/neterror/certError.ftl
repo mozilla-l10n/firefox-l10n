@@ -103,7 +103,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Websites gebruiken certificaten 
 fp-certerror-expired-what-can-you-do-body = De klok van uw apparaat is ingesteld op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Als dit juist is, ligt het beveiligingsprobleem waarschijnlijk bij de website zelf. Als het verkeerd is, kunt u het wijzigen in de systeeminstellingen van uw apparaat.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-fp-cert-error-code = Foutcode: { $errorCode }
+fp-cert-error-code = Foutcode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
