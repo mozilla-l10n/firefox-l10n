@@ -125,7 +125,11 @@ fp-certerror-page-title = Kyhyjerã: Tekorosã ñembyaikuaa
 fp-certerror-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
 fp-certerror-why-site-dangerous = ¿Mba’érevaicha upe tenda ivaikuaa?
 fp-certerror-what-can-you-do = ¿Mba’e ikatu rejapo upéicharõ?
+fp-certerror-advanced-title = Opapotáva
+fp-certerror-advanced-button = Opapotáva
+fp-certerror-hide-advanced-button = Eñomi opapotáva
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
