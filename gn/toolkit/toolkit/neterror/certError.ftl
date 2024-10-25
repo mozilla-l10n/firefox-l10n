@@ -68,6 +68,9 @@ open-in-new-window-for-csp-or-xfo-error = Embojuruja tenda ovetã pyahúpe
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Emo’ã hag̃ua ne rekorosã, { $hostname } nomoneĩmo’ãi { -brand-short-name } ohechaukávo kuatiarogue ambue tenda omoingéramo. Ehecha hag̃ua ko kuatiarogue, embojurujava’erã ovetã pyahúpe.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Ayvu jejavy: { $error }
 
 ## Messages used for certificate error titles
 
@@ -109,3 +112,10 @@ networkProtocolError-title = Jejavy guasu ñandutípe
 nssBadCert-title = Jesarekorã: Imarãkuaáva tenondeve
 nssBadCert-sts-title = Ndoikéi: Ikatu hína iñapañuái tekorosãrã
 certerror-mitm-title = Ko software ojokohína { -brand-short-name } ani oike ko tendápe tekorasãme
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
