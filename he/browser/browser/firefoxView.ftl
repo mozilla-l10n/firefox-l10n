@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-primarybutton = המשך
 firefoxview-syncedtabs-signin-header-2 = ה־{ -brand-product-name } שלך בכל המכשירים שלך
 firefoxview-syncedtabs-signin-description-2 = כדי לראות לשוניות שפתחת בטלפון ובמכשירים האחרים שלך, יש להיכנס או להירשם לחשבון. עם חשבון, באפשרותך גם לסנכרן את הססמאות, ההיסטוריה שלך ועוד.
 firefoxview-syncedtabs-signin-primarybutton-2 = כניסה
+firefoxview-syncedtabs-signin-header = לקבל את הלשוניות מכל מקום
 firefoxview-syncedtabs-signin-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר לחשבון שלך. אם אין לך חשבון, אנו נדריך אותך בשלבי ההרשמה.
 firefoxview-syncedtabs-signin-primarybutton = התחברות או הרשמה
 firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך

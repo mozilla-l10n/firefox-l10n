@@ -240,6 +240,8 @@ device-migration-fxa-spotlight-older-device-primary-button = יצירת חשבו
 device-migration-fxa-spotlight-getting-new-device-header-2 = יהיה לך מכשיר חדש בעתיד?
 device-migration-fxa-spotlight-getting-new-device-body-2 = בכמה צעדים פשוטים ניתן להביא איתך את הסימניות, ההיסטוריה והססמאות שלך בעת תחילת שימוש במכשיר חדש.
 device-migration-fxa-spotlight-getting-new-device-primary-button = כיצד לגבות את הנתונים שלי
+device-migration-fxa-spotlight-sync-header = גלישה בלי להחמיץ פעימה
+device-migration-fxa-spotlight-sync-primary-button = תחילת עבודה
 
 ## Set as Default PDF Reader Infobar
 
@@ -288,3 +290,13 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = סגירה
     .aria-label = סגירה
+fxa-menu-message-sign-up-button = הרשמה
+fxa-menu-message-sync-devices-primary-text = סנכרון כל המכשירים שלך
+fxa-menu-message-sync-devices-secondary-text = קבלה מיידית של כל המידע שלך - כמו סימניות וססמאות - בכל מקום בו יש לך את { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = סנכרון כל המכשירים שלך
+fxa-menu-message-backup-data-primary-text = גיבוי נתוני הדפדפן שלך
+fxa-menu-message-backup-data-secondary-text = הגנה אוטומטית על סימניות, ססמאות ונתונים אחרים בכל המכשירים שלך.
+fxa-menu-message-backup-data-collapsed-text = גיבוי נתוני הדפדפן
+fxa-menu-message-backup-sync-primary-text = הגנה וסנכרון הנתונים שלך
+fxa-menu-message-backup-sync-secondary-text = הסנכרון מגבה את רוב הנתונים שלך כך שיהיה באפשרותך לגשת אליהם בכל מקום בו יש לך את { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = סנכרון וגיבוי נתונים

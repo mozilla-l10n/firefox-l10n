@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = פעולות דף
 urlbar-revert-button =
     .tooltiptext = הצגת הכתובת בשורת המיקום
-urlbar-show-page-actions-button =
-    .tooltiptext = הצגת כל פעולות הדף
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = ‏{ $keywords } - חיפוש ב{ 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = ‏{ $keywords } - חיפוש באמצעות { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = ‏{ $engine }, בחירת מנוע חיפוש
-    .tooltiptext = ‏{ $engine }, בחירת מנוע חיפוש
 urlbar-searchmode-dropmarker =
     .tooltiptext = בחירת מנוע חיפוש
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = סגירה
 urlbar-searchmode-popup-description = הפעם לחפש באמצעות:
 urlbar-searchmode-popup-search-settings = הגדרות חיפוש
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = ‏{ $engine }, בחירת מנוע חיפוש
+    .tooltiptext = ‏{ $engine }, בחירת מנוע חיפוש
+urlbar-searchmode-button-no-engine =
+    .label = לא נבחר קיצור דרך, בחירת קיצור דרך
+    .tooltiptext = לא נבחר קיצור דרך, בחירת קיצור דרך
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = ש
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = גלישה פרטית
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = גלישה פרטית
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = מניעת אובדן נתונים (DLP) מאת { $agentName }. יש ללחוץ למידע נוסף.
 content-analysis-panel-title = הגנת נתונים
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = הארגון שלך משתמש ב־<b>{ $agentName }</b> כדי להגן מפני אובדן נתונים. <a data-l10n-name="info">מידע נוסף</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = הארגון שלך משתמש ב־{ $agentName } כדי להגן מפני אובדן נתונים. <a data-l10n-name="info">מידע נוסף</a>
