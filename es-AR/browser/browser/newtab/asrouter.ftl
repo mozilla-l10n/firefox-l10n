@@ -314,3 +314,5 @@ fxa-menu-message-backup-sync-primary-text = Mantener los datos seguros y sincron
 fxa-menu-message-backup-sync-secondary-text = Sync hace una copia de seguridad de la mayoría de los datos para que se pueda acceder a ellos desde cualquier lugar donde se use { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sincronizar y respaldar datos
 fxa-menu-message-mobile-primary-text = Enviar pestañas a su teléfono
+fxa-menu-message-mobile-secondary-text = Continúe donde lo dejó instantáneamente al sincronizar las pestañas con un dispositivo móvil.
+fxa-menu-message-mobile-collapsed-text = Sincronizar con el teléfono

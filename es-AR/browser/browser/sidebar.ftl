@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-review-checker =
     .label = Verificador de revisiones
+sidebar-options-menu-button =
+    .title = Abrir menú
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expandir y colapsar la barra lateral
 sidebar-visibility-setting-hide-sidebar =
     .label = Mostrar y ocultar la barra lateral
-sidebar-customize-settings-header =
-    .label = Configuración de barra lateral
-sidebar-visibility-always-show =
-    .label = Mostrar siempre
-sidebar-visibility-hide-sidebar =
-    .label = Ocultar barra lateral
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Pestañas de otros dispositivos
 synced-tabs-context-close-tab-title =
     .title = Cerrar pestaña en { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Expandir la barra lateral
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Colapsar la barra lateral
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Mostrar barra lateral
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Ocultar barra lateral
 sidebar-widget-expand-sidebar =
     .tooltiptext = Expandir la barra lateral
     .label = Barras laterales
