@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Oldalműveletek
 urlbar-revert-button =
     .tooltiptext = A cím megjelenítése a címmezőben
-urlbar-show-page-actions-button =
-    .tooltiptext = Összes oldalművelet megjelenítése
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,12 +621,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Keresés ezzel: { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, válasszon keresőszolgáltatást
-    .tooltiptext = { $engine }, válasszon keresőszolgáltatást
 urlbar-searchmode-dropmarker =
     .tooltiptext = Válasszon keresőszolgáltatást
 urlbar-searchmode-bookmarks =
@@ -643,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Bezárás
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
 urlbar-searchmode-popup-search-settings = Keresési beállítások
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, válasszon keresőszolgáltatást
+    .tooltiptext = { $engine }, válasszon keresőszolgáltatást
+urlbar-searchmode-button-no-engine =
+    .label = Nincs gyorsparancs kiválasztva, válasszon egyet
+    .tooltiptext = Nincs gyorsparancs kiválasztva, válasszon egyet
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -965,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = v
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privát böngészés
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privát böngészés
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Az adatvesztés-megelőzés (DLP) a következőtől: { $agentName }. Kattintson a további információkért.
 content-analysis-panel-title = Adatbiztonság
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = A szervezete a(z) <b>{ $agentName }</b> eszközt használja az adatvesztés elleni védelemhez. <a data-l10n-name="info">További tudnivalók</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = A szervezete a(z) { $agentName } eszközt használja az adatvesztés elleni védelemhez. <a data-l10n-name="info">További tudnivalók</a>
