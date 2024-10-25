@@ -304,3 +304,6 @@ fxa-menu-message-sign-up-button = Eñemboheraguapy
 fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-sync-devices-collapsed-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-backup-data-primary-text = Eykeko kundahára mba’ekuaarã
+fxa-menu-message-backup-data-secondary-text = Ñemo’ã ijeheguíva techaukaha, ñe’ẽñemi ha ambue marandu opaite ne mba’e’okápe.
+fxa-menu-message-backup-data-collapsed-text = Eykeko kundahára mba’ekuaarã
+fxa-menu-message-backup-sync-primary-text = Ereko mba’ekuaarã tekorosã ha ñembojuehépe
