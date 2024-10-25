@@ -300,3 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = 关闭
     .aria-label = 关闭
+fxa-menu-message-sign-up-button = 注册
+fxa-menu-message-sync-devices-primary-text = 同步各设备
+fxa-menu-message-sync-devices-secondary-text = 顷刻间让书签、密码等数据在您使用 { -brand-short-name } 的各设备上触手可得。
+fxa-menu-message-sync-devices-collapsed-text = 同步各设备
