@@ -545,8 +545,6 @@ urlbar-page-action-button =
     .tooltiptext = Hành động trên trang
 urlbar-revert-button =
     .tooltiptext = Hiển thị địa chỉ trong thanh địa chỉ
-urlbar-show-page-actions-button =
-    .tooltiptext = Hiển thị tất cả các hành động trên trang
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -616,12 +614,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Tìm kiếm { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Tìm kiếm với { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, chọn một công cụ tìm kiếm
-    .tooltiptext = { $engine }, chọn một công cụ tìm kiếm
 urlbar-searchmode-dropmarker =
     .tooltiptext = Chọn công cụ tìm kiếm
 urlbar-searchmode-bookmarks =
@@ -636,6 +628,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
 urlbar-searchmode-popup-search-settings = Cài đặt tìm kiếm
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, chọn một công cụ tìm kiếm
+    .tooltiptext = { $engine }, chọn một công cụ tìm kiếm
+urlbar-searchmode-button-no-engine =
+    .label = Không có lối tắt được chọn, hãy chọn một lối tắt
+    .tooltiptext = Không có lối tắt được chọn, hãy chọn một lối tắt
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -958,12 +959,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Duyệt web riêng tư
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Duyệt web riêng tư
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ngăn ngừa mất dữ liệu (DLP) bởi { $agentName }. Nhấp vào đây để biết thêm thông tin.
 content-analysis-panel-title = Bảo vệ dữ liệu
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tổ chức của bạn sử dụng <b>{ $agentName }</b> để bảo vệ chống mất dữ liệu. <a data-l10n-name="info">Tìm hiểu thêm</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Tổ chức của bạn sử dụng { $agentName } để bảo vệ chống mất dữ liệu. <a data-l10n-name="info">Tìm hiểu thêm</a>

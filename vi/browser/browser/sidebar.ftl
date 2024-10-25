@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot AI
 menu-view-review-checker =
     .label = Trình kiểm tra đánh giá
+sidebar-options-menu-button =
+    .title = Mở menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Mở rộng và thu gọn thanh lề
 sidebar-visibility-setting-hide-sidebar =
     .label = Hiện và ẩn thanh lề
-sidebar-customize-settings-header =
-    .label = Cài đặt thanh lề
-sidebar-visibility-always-show =
-    .label = Luôn hiện
-sidebar-visibility-hide-sidebar =
-    .label = Ẩn thanh lề
 
 ## Labels for sidebar context menu items
 
