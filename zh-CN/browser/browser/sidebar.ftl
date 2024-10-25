@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 聊天机器人
 menu-view-review-checker =
     .label = 核查评价
+sidebar-options-menu-button =
+    .title = 打开菜单
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = 展开和收起侧栏
 sidebar-visibility-setting-hide-sidebar =
     .label = 显示和隐藏侧栏
-sidebar-customize-settings-header =
-    .label = 侧栏设置
-sidebar-visibility-always-show =
-    .label = 始终显示
-sidebar-visibility-hide-sidebar =
-    .label = 隐藏侧栏
 
 ## Labels for sidebar context menu items
 

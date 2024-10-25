@@ -71,6 +71,16 @@ open-in-new-window-for-csp-or-xfo-error = 在新窗口中打开网站
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 为了保护您的安全，{ $hostname } 将不允许 { -brand-short-name } 显示嵌入了其他网站的页面。要查看此页面，请在新窗口中打开。
+fp-certerror-view-certificate-link = 查看此网站的证书
+fp-certerror-return-to-previous-page-recommended-button = 返回（推荐）
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = 这很可能是网站自身存在问题，您能进行的操作有限。
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = 错误代码：{ $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +122,16 @@ networkProtocolError-title = 网络协议错误
 nssBadCert-title = 警告：面临潜在的安全风险
 nssBadCert-sts-title = 未连接：有潜在的安全问题
 certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连接至此网站
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = 警告：存在安全风险
+fp-certerror-what-can-you-do = 您可以做什么？
+fp-certerror-advanced-title = 高级
+fp-certerror-advanced-button = 高级
+fp-certerror-hide-advanced-button = 隐藏高级选项
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = 继续前往 { $hostname }（存在风险）
