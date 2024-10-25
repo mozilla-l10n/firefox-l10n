@@ -71,6 +71,15 @@ open-in-new-window-for-csp-or-xfo-error = Website iepenje yn nij finster
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om jo feilichheid te beskermjen, stiet { $hostname } net ta dat { -brand-short-name } de side toant as in oare website dizze opnommen hat. Om dizze side te besjen moatte jo dizze iepenje yn in nij finster.
+fp-certerror-view-certificate-link = Sertifikaat fan de website besjen
+fp-certerror-return-to-previous-page-recommended-button = Tebekgean (Oanrekommandearre)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = De website is ynsteld om allinnich befeilige ferbiningen ta te stean, mar der is in probleem mei it sertifikaat fan de website. It is mooglik dat in kweawollende de website probearret nei te meitsjen. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. { -brand-short-name } fertrout dizze website net, omdat it sertifikaat derfan net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. Mar as jo op in saaklik netwurk binne, hat jo stipeteam mooglik mear ynfo. As jo antifirussoftware brûke, probearje dan nei mooglike konflikten of bekende problemen te sykjen.
 
 ## Messages used for certificate error titles
 
@@ -112,3 +121,10 @@ networkProtocolError-title = Netwurkprotokolflater
 nssBadCert-title = Warskôging: mooglik befeiligingsrisiko
 nssBadCert-sts-title = Gjin ferbining makke: mooglik befeiligingsprobleem
 certerror-mitm-title = Software foarkomt dat { -brand-short-name } in befeilige ferbining mei dizze website meitsje kin
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
