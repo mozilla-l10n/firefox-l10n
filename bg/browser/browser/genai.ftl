@@ -109,3 +109,4 @@ genai-onboarding-gemini-analyze = Анализиране на изображен
 genai-onboarding-gemini-price = Безплатни и платени опции; изисква се профил
 genai-onboarding-huggingchat-generate = Генериране на текст и код
 genai-onboarding-lechat-generate = Генериране на текст и код
+genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил

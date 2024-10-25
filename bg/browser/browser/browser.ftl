@@ -629,6 +629,10 @@ urlbar-searchmode-history =
 urlbar-searchmode-actions =
     .label = Действия
 urlbar-searchmode-popup-description = Този път търсете с:
+urlbar-searchmode-popup-search-settings = Настройки за търсене
+urlbar-searchmode-button-no-engine =
+    .label = Няма избрана клавишна комбинация, изберете една
+    .tooltiptext = Няма избрана клавишна комбинация, изберете една
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -951,6 +955,9 @@ data-reporting-notification-button =
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Поверително разглеждане
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Поверително сърфиране
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
