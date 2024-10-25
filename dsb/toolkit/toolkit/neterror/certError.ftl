@@ -75,6 +75,11 @@ fp-certerror-view-certificate-link = Certifikat sedła pokazaś
 fp-certerror-return-to-previous-page-recommended-button = Slědk (dopórucony)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic wjele. Zda se, až jo problem ze sedłom samym.
+fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jolic wopytujośo, se k toś tomu sedłoju we firmowem interneśe woglědaś, móžo waš personal IT samosigněrowane certifikaty wužywaś. Mógu wam pomagaś, jich awtentiskosć pśeglědowaś.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Zmólkowy kod: { $error }
