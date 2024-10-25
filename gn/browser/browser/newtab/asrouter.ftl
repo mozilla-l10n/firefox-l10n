@@ -307,3 +307,7 @@ fxa-menu-message-backup-data-primary-text = Eykeko kundahára mba’ekuaarã
 fxa-menu-message-backup-data-secondary-text = Ñemo’ã ijeheguíva techaukaha, ñe’ẽñemi ha ambue marandu opaite ne mba’e’okápe.
 fxa-menu-message-backup-data-collapsed-text = Eykeko kundahára mba’ekuaarã
 fxa-menu-message-backup-sync-primary-text = Ereko mba’ekuaarã tekorosã ha ñembojuehépe
+fxa-menu-message-backup-sync-secondary-text = Sync oñongatu heta mba’ekuaarã eikekuaa jey hag̃ua oimeha guive eiporukuaahápe { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Embojuehe ha eykeko mba’ekuaarã
+fxa-menu-message-mobile-primary-text = Emondo tendayke ne pumbyrýpe
+fxa-menu-message-mobile-collapsed-text = Embojuehe pumbyry ndive
