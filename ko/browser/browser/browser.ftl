@@ -545,8 +545,6 @@ urlbar-page-action-button =
     .tooltiptext = 페이지 작업
 urlbar-revert-button =
     .tooltiptext = 주소 표시줄에 주소 표시
-urlbar-show-page-actions-button =
-    .tooltiptext = 모든 페이지 작업 표시
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -616,12 +614,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } 검색
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, 검색 엔진 선택
-    .tooltiptext = { $engine }, 검색 엔진 선택
 urlbar-searchmode-dropmarker =
     .tooltiptext = 검색 엔진 선택
 urlbar-searchmode-bookmarks =
@@ -636,6 +628,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = 닫기
 urlbar-searchmode-popup-description = 이번만 검색:
 urlbar-searchmode-popup-search-settings = 검색 설정
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, 검색 엔진 선택
+    .tooltiptext = { $engine }, 검색 엔진 선택
+urlbar-searchmode-button-no-engine =
+    .label = 선택된 바로 가기 없음, 바로 가기를 선택하세요
+    .tooltiptext = 선택된 바로 가기 없음, 바로 가기를 선택하세요
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -958,12 +959,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 사생활 보호 모드
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = 사생활 보호 모드
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName }의 데이터 손실 방지(DLP)입니다. 자세한 내용을 보려면 누르세요.
 content-analysis-panel-title = 데이터 보호
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = 사용자의 조직은 데이터 손실을 막기 위해 <b>{ $agentName }</b> 에이전트를 사용합니다. <a data-l10n-name="info">더 알아보기</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = 사용자의 조직은 { $agentName } 에이전트를 사용하여 데이터 손실을 방지합니다. <a data-l10n-name="info">더 알아보기</a>
