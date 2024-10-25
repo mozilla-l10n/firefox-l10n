@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-review-checker =
     .label = Beoordelingscontrole
+sidebar-options-menu-button =
+    .title = Menu openen
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Zijbalk uitvouwen en samenvouwen
 sidebar-visibility-setting-hide-sidebar =
     .label = Zijbalk tonen en verbergen
-sidebar-customize-settings-header =
-    .label = Zijbalkinstellingen
-sidebar-visibility-always-show =
-    .label = Altijd tonen
-sidebar-visibility-hide-sidebar =
-    .label = Zijbalk verbergen
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Tabbladen van andere apparaten
 synced-tabs-context-close-tab-title =
     .title = Tabblad op { $deviceName } sluiten
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Zijbalk uitvouwen
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Zijbalk samenvouwen
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Zijbalk tonen
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Zijbalk verbergen
 sidebar-widget-expand-sidebar =
     .tooltiptext = Zijbalk uitvouwen
     .label = Zijbalken

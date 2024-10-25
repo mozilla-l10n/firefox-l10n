@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Opslaan naar { -pocket-brand-name }
 newtab-menu-delete-pocket = Verwijderen uit { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiveren in { -pocket-brand-name }
 newtab-menu-show-privacy-info = Onze sponsors en uw privacy
+newtab-menu-about-fakespot = Over { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

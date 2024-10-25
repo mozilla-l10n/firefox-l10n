@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Pagina-acties
 urlbar-revert-button =
     .tooltiptext = Adres in de locatiebalk tonen
-urlbar-show-page-actions-button =
-    .tooltiptext = Alle pagina-acties tonen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,12 +621,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – Zoeken in { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Zoeken met { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, kies een zoekmachine
-    .tooltiptext = { $engine }, kies een zoekmachine
 urlbar-searchmode-dropmarker =
     .tooltiptext = Kies een zoekmachine
 urlbar-searchmode-bookmarks =
@@ -643,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Sluiten
 urlbar-searchmode-popup-description = Deze keer zoeken met:
 urlbar-searchmode-popup-search-settings = Zoekinstellingen
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, kies een zoekmachine
+    .tooltiptext = { $engine }, kies een zoekmachine
+urlbar-searchmode-button-no-engine =
+    .label = Geen snelkoppeling geselecteerd, kies een snelkoppeling
+    .tooltiptext = Geen snelkoppeling geselecteerd, kies een snelkoppeling
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -965,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = K
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privénavigatie
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privénavigatie
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Voorkomen van gegevensverlies (Data Loss Prevention – DLP) door { $agentName }. Klik voor meer info.
 content-analysis-panel-title = Gegevensbescherming
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Uw organisatie gebruikt <b>{ $agentName }</b> om u te beschermen tegen gegevensverlies. <a data-l10n-name="info">Meer info</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Uw organisatie gebruikt { $agentName } om u te beschermen tegen gegevensverlies. <a data-l10n-name="info">Meer info</a>
