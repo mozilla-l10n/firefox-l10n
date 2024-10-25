@@ -160,7 +160,6 @@ fp-certerror-why-site-dangerous = Vad får webbplatsen att se farlig ut?
 fp-certerror-what-can-you-do = Vad kan du göra åt det?
 fp-certerror-advanced-title = Avancerat
 fp-certerror-advanced-button = Avancerat
-fp-certerror-hide-advanced-button = Dölj avancerade
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
