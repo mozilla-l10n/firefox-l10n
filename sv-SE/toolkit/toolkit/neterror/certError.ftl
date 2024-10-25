@@ -96,11 +96,11 @@ fp-certerror-expired-why-dangerous-body = Webbplatser använder certifikat som u
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Webbplatser använder certifikat som utfärdats av en certifikatutfärdare för att bevisa att de verkligen är vilka de utger sig för att vara. { -brand-short-name } litar inte på den här webbplatsen eftersom det ser ut som att certifikatet inte kommer att vara giltigt till { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
+fp-certerror-not-yet-valid-why-dangerous-body = Webbplatser använder certifikat utfärdade av en certifikatutfärdare för att bevisa att de verkligen är den de säger att de är. { -brand-short-name } litar inte på den här webbplatsen eftersom det verkar som att certifikatet inte kommer att vara giltigt förrän { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Enhetens klocka är inställd på { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Om detta är korrekt ligger säkerhetsproblemet troligen hos själva webbplatsen. Om det är fel kan du ändra det i enhetens systeminställningar.
+fp-certerror-expired-what-can-you-do-body = Enhetens klocka är inställd på { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Om detta är korrekt är säkerhetsproblemet troligen på själva webbplatsen. Om den är fel kan du ändra det i enhetens systeminställningar.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Felkod: { $error }
@@ -166,5 +166,5 @@ fp-certerror-hide-advanced-button = Dölj avancerat
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Fortsätt till { $hostname } (riskfullt)
-fp-certerror-intro = { -brand-short-name } upptäckte ett potentiellt allvarligt säkerhetsproblem med <strong>{ $hostname }</strong>. Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-post.
-fp-certerror-expired-into = { -brand-short-name } upptäckte ett säkerhetsproblem med <strong>{ $hostname }</strong>. Antingen är webbplatsen inte rätt konfigurerad eller så är enhetens klocka inställd på fel datum/tid.
+fp-certerror-intro = { -brand-short-name } upptäckte ett potentiellt allvarligt säkerhetsproblem med <strong>{ $hostname }</strong>. Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-postmeddelanden.
+fp-certerror-expired-into = { -brand-short-name } upptäckte ett säkerhetsproblem med <strong>{ $hostname }</strong>. Antingen är webbplatsen inte rätt inställd eller så är din enhets klocka inställd på fel datum/tid.
