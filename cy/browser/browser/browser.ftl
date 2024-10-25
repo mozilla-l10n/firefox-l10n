@@ -568,8 +568,6 @@ urlbar-page-action-button =
     .tooltiptext = Gweithredoedd tudalen
 urlbar-revert-button =
     .tooltiptext = Dangos y cyfeiriad yn y Bar Lleoliad
-urlbar-show-page-actions-button =
-    .tooltiptext = Dangos pob gweithred tudalen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -639,12 +637,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Chwilio { $localSe
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Chwilio gyda { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, Dewiswch Beiriant Chwilio
-    .tooltiptext = { $engine }, Dewiswch Beiriant Chwilio
 urlbar-searchmode-dropmarker =
     .tooltiptext = Dewiswch Beiriant Chwilio
 urlbar-searchmode-bookmarks =
@@ -659,6 +651,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Cau
 urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
 urlbar-searchmode-popup-search-settings = Gosodiadau chwilio
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine } , dewiswch beiriant chwilio
+    .tooltiptext = { $engine } , dewiswch beiriant chwilio
+urlbar-searchmode-button-no-engine =
+    .label = Dim llwybr byr wedi'i ddewis, dewiswch lwybr byr
+    .tooltiptext = Dim llwybr byr wedi'i ddewis, dewiswch lwybr byr
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -981,12 +982,18 @@ data-reporting-notification-button =
     .accesskey = D
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Pori preifat
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Pori preifat
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Atal colli data (DLP) gan { $agentName }. Cliciwch am fwy o wybodaeth.
 content-analysis-panel-title = Diogelu data
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Mae eich sefydliad yn defnyddio <b>{ $agentName }</b> i ddiogelu rhag colli data. <a data-l10n-name="info">Dysgu rhagor</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Mae eich sefydliad yn defnyddio { $agentName } i ddiogelu rhag colli data. <a data-l10n-name="info">Dysgu rhagor</a>
