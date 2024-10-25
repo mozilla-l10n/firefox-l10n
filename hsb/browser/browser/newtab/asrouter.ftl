@@ -320,4 +320,5 @@ fxa-menu-message-backup-sync-primary-text = Dźeržće swoje daty wěste a synch
 fxa-menu-message-backup-sync-secondary-text = Synchronizacija najwjace wašich datow zawěsćuje, zo byšće k nim wšudźe přistup mě, hdźež { -brand-short-name } wužiwaće.
 fxa-menu-message-backup-sync-collapsed-text = Daty synchronizować a zawěsćić
 fxa-menu-message-mobile-primary-text = Sćelće rajtarki na telefon
+fxa-menu-message-mobile-secondary-text = Čińće tam dale, hdźež sće hnydom zastał, hdyž swoje rajtarki z mobilnym gratom synchronizujeće.
 fxa-menu-message-mobile-collapsed-text = Ze swojim telefonom synchronizować
