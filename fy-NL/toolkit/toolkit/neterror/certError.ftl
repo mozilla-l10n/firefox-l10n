@@ -82,6 +82,8 @@ fp-certerror-bad-domain-why-dangerous-body = De website is ynsteld om allinnich 
 fp-certerror-bad-domain-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. Mar as jo op in saaklik netwurk binne, hat jo stipeteam mooglik mear ynfo. As jo antifirussoftware brûke, probearje dan nei mooglike konflikten of bekende problemen te sykjen.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Der is in probleem mei it sertifikaat fan de website. It is mooglik dat in kweawollende de website probearret nei te meitsjen. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. { -brand-short-name } fertrout dizze website net, omdat wy net sjen kinne wa’t it sertifikaat útjûn hat, it selsûndertekene is of de website gjin yntermediêre sertifikaten dy’t wy fertrouwe ferstjoert.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is. Mar as jo op in saaklik netwurk binne, hat jo stipeteam mooglik mear ynfo. As jo antifirussoftware brûke, moat dizze mooglik konfigurearre wurde om mei { -brand-short-name } te wurkjen.
 
 ## Messages used for certificate error titles
 
