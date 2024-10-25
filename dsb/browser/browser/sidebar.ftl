@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola pógódnośenjow
+sidebar-options-menu-button =
+    .title = Meni wócyniś
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Bocnicu pokazaś a schowaś
 sidebar-visibility-setting-hide-sidebar =
     .label = Bocnicu pokazaś a schowaś
-sidebar-customize-settings-header =
-    .label = Nastajenja bocnice
-sidebar-visibility-always-show =
-    .label = Pśecej pokazaś
-sidebar-visibility-hide-sidebar =
-    .label = Bocnicu schowaś
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Rejtariki z drugich rědow
 synced-tabs-context-close-tab-title =
     .title = Rejtarik na { $deviceName } zacyniś
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Bocnicu pokazaś
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Bocnicu schowaś
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Bocnicu pokazaś
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Bocnicu schowaś
 sidebar-widget-expand-sidebar =
     .tooltiptext = Bocnicu pokazaś
     .label = Bócnice

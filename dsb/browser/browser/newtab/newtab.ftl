@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Pla { -pocket-brand-name } składowaś
 newtab-menu-delete-pocket = Z { -pocket-brand-name } wulašowaś
 newtab-menu-archive-pocket = W { -pocket-brand-name } archiwěrowaś
 newtab-menu-show-privacy-info = Naše sponsory a waša priwatnosć
+newtab-menu-about-fakespot = Wó { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
