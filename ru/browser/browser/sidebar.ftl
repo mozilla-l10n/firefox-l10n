@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = ИИ-чат-бот
 menu-view-review-checker =
     .label = Проверка отзывов
+sidebar-options-menu-button =
+    .title = Открыть меню
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Развернуть и свернуть боковую панель
 sidebar-visibility-setting-hide-sidebar =
     .label = Показать и скрыть боковую панель
-sidebar-customize-settings-header =
-    .label = Настройки боковой панели
-sidebar-visibility-always-show =
-    .label = Показывать всегда
-sidebar-visibility-hide-sidebar =
-    .label = Скрыть боковую панель
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Вкладки с других устройств
 synced-tabs-context-close-tab-title =
     .title = Закрыть вкладку на { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Развернуть боковую панель
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Свернуть боковую панель
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Показать боковую панель
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Скрыть боковую панель
 sidebar-widget-expand-sidebar =
     .tooltiptext = Развернуть боковую панель
     .label = Боковые панели

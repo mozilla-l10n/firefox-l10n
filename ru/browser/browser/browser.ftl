@@ -554,8 +554,6 @@ urlbar-page-action-button =
     .tooltiptext = Действия на странице
 urlbar-revert-button =
     .tooltiptext = Показать адрес в Строке местоположения
-urlbar-show-page-actions-button =
-    .tooltiptext = Показать все действия на странице
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -625,12 +623,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Поиск в { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Поиск с помощью { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, Выберите поисковую систему
-    .tooltiptext = { $engine }, Выберите поисковую систему
 urlbar-searchmode-dropmarker =
     .tooltiptext = Выберите поисковую систему
 urlbar-searchmode-bookmarks =
@@ -645,6 +637,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Закрыть
 urlbar-searchmode-popup-description = В этот раз искать в:
 urlbar-searchmode-popup-search-settings = Параметры поиска
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, выберите поисковую систему
+    .tooltiptext = { $engine }, выберите поисковую систему
+urlbar-searchmode-button-no-engine =
+    .label = Ярлык не выбран, выберите ярлык
+    .tooltiptext = Ярлык не выбран, выберите ярлык
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -967,12 +968,18 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватный просмотр
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Приватный просмотр
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Предотвращение утечек данных (DLP) от { $agentName }. Нажмите для получения дополнительной информации.
 content-analysis-panel-title = Защита данных
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ваша организация использует <b>{ $agentName }</b> для защиты от потери данных. <a data-l10n-name="info">Подробнее</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ваша организация использует { $agentName } для защиты от утечек данных. <a data-l10n-name="info">Подробнее</a>
