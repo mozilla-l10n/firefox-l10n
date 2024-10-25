@@ -300,3 +300,5 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Mboty
     .aria-label = Mboty
+fxa-menu-message-sign-up-button = Eñemboheraguapy
+fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
