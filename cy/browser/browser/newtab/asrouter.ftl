@@ -326,3 +326,5 @@ fxa-menu-message-backup-sync-primary-text = Cadwch eich data'n ddiogel ac wedi'i
 fxa-menu-message-backup-sync-secondary-text = Mae cydweddu'n gwneud copi wrth gefn o'r rhan fwyaf o'ch data fel y gallwch gael mynediad ato ym mhob man rydych yn defnyddio { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Cydweddu a chadw data
 fxa-menu-message-mobile-primary-text = Anfon tabiau i'ch ffôn
+fxa-menu-message-mobile-secondary-text = Dechreuwch eto'n union lle'r oeddech chi wedi gorffen pan fyddwch yn cydweddu'ch tabiau â dyfais symudol.
+fxa-menu-message-mobile-collapsed-text = Cydweddwch gyda'ch ffôn

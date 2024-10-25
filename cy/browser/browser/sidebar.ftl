@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Sgwrsfot AI
 menu-view-review-checker =
     .label = Gwirydd Adolygiadau
+sidebar-options-menu-button =
+    .title = Agor dewislen
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Ehangu a chau'r bar ochr
 sidebar-visibility-setting-hide-sidebar =
     .label = Dangos a chuddio'r bar ochr
-sidebar-customize-settings-header =
-    .label = Gosodiadau bariau ochr
-sidebar-visibility-always-show =
-    .label = Dangos bob tro
-sidebar-visibility-hide-sidebar =
-    .label = Cuddio'r bar ochr
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Tabiau o ddyfeisiau eraill
 synced-tabs-context-close-tab-title =
     .title = Cau tab ar { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Ehangu'r bar ochr
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Cau'r bar ochr
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Dangos y bar ochr
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Cuddio'r bar ochr
 sidebar-widget-expand-sidebar =
     .tooltiptext = Ehangu'r bar ochr
     .label = Barrau Ochr

@@ -71,6 +71,19 @@ open-in-new-window-for-csp-or-xfo-error = Agor Gwefan mewn Ffenestr Newydd
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Er mwyn amddiffyn eich diogelwch, ni fydd { $hostname } yn caniatáu i { -brand-short-name } ddangos y dudalen os yw gwefan arall wedi'i mewnblannu ynddi. I weld y dudalen hon, bydd angen i chi ei hagor mewn ffenestr newydd.
+fp-certerror-view-certificate-link = Gweld tystysgrif y wefan
+fp-certerror-return-to-previous-page-recommended-button = Mynd Nôl (Argymell)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Mae'r wefan wedi'i gosod i ganiatáu cysylltiadau diogel yn unig, ond mae problem gyda thystysgrif y wefan. Mae'n bosibl bod endid drwg yn ceisio dynwared y wefan. Mae gwefannau'n defnyddio tystysgrifau sy'n cael eu cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd nid yw ei thystysgrif yn ddilys ar gyfer { $hostname }. Dim ond ar gyfer : { $validHosts } mae'r dystysgrif yn ddilys.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Mae gwefannau'n defnyddio tystysgrifau sy'n cael eu cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Ond os ydych chi ar rwydwaith corfforaethol, efallai y bydd gan eich tîm cymorth fwy o wybodaeth. Os ydych chi'n defnyddio meddalwedd gwrthfeirws, ceisiwch chwilio am wrthdaro posibl neu faterion hysbys.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Mae problem gyda thystysgrif y wefan. Mae'n bosibl bod endid drwg yn ceisio dynwared y wefan. Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd ni allwn ddweud pwy gyhoeddodd y dystysgrif, mae wedi'i hunan-lofnodi, neu nid yw'r wefan yn anfon tystysgrifau canolradd rydym yn ymddiried ynddyn nhw.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Ond os ydych chi ar rwydwaith corfforaethol, efallai y bydd gan eich tîm cymorth fwy o wybodaeth. Os ydych yn defnyddio meddalwedd gwrthfeirws, efallai y bydd angen ei ffurfweddu i weithio gyda { -brand-short-name }.
 
 ## Messages used for certificate error titles
 
@@ -112,3 +125,10 @@ networkProtocolError-title = Gwall Protocol Rhwydwaith
 nssBadCert-title = Rhybudd: Risg Diogelwch Posibl o'ch Blaen
 nssBadCert-sts-title = Peidiwch â Chysylltu: Mater Diogelwch Posib
 certerror-mitm-title = Mae Meddalwedd yn Rhwystro { -brand-short-name } Rhag Cysylltu'n Ddiogel i'r Wefan Hon
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
