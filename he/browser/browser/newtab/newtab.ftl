@@ -110,6 +110,7 @@ newtab-menu-delete-history = מחיקה מההיסטוריה
 newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
 newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
+newtab-menu-about-fakespot = על אודות { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

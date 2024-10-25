@@ -300,3 +300,6 @@ fxa-menu-message-backup-data-collapsed-text = גיבוי נתוני הדפדפן
 fxa-menu-message-backup-sync-primary-text = הגנה וסנכרון הנתונים שלך
 fxa-menu-message-backup-sync-secondary-text = הסנכרון מגבה את רוב הנתונים שלך כך שיהיה באפשרותך לגשת אליהם בכל מקום בו יש לך את { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = סנכרון וגיבוי נתונים
+fxa-menu-message-mobile-primary-text = שליחת לשוניות לטלפון שלך
+fxa-menu-message-mobile-secondary-text = להמשיך מאיפה שהפסקת באופן מיידי בעת סנכרון הלשוניות שלך עם מכשיר נייד.
+fxa-menu-message-mobile-collapsed-text = סנכרון עם הטלפון שלך
