@@ -71,6 +71,17 @@ open-in-new-window-for-csp-or-xfo-error = Abrir sitio en una ventana nueva
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para proteger su seguridad, { $hostname } no permitirá que { -brand-short-name } muestre la página si otro sitio la ha incrustado. Para ver esta página, debe abrirla en una nueva ventana.
+fp-certerror-view-certificate-link = Ver el certificado del sitio
+fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Código de error: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Conocer más sobre los fallos de conexión segura
+fp-learn-more-about-cert-issues = Conocer más sobre este tipo de problemas con los certificados
+fp-learn-more-about-time-related-errors = Conocer más sobre cómo solucionar errores relacionados con la fecha
 
 ## Messages used for certificate error titles
 
@@ -112,3 +123,13 @@ networkProtocolError-title = Error de protocolo de red
 nssBadCert-title = Advertencia: Potencial riesgo de seguridad próximo
 nssBadCert-sts-title = No se conectó: Posible problema de seguridad
 certerror-mitm-title = El software está impidiendo que { -brand-short-name } se conecte a este sitio de manera segura
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Advertencia: Riesgo de seguridad
+fp-certerror-body-title = Cuidado. Algo no parece estar bien.
+fp-certerror-why-site-dangerous = ¿Qué hace que el sitio se vea peligroso?
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
