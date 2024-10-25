@@ -303,3 +303,6 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Clauder
     .aria-label = Clauder
+fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
+fxa-menu-message-sync-devices-collapsed-text = Synchronisa tote tu apparatos
+fxa-menu-message-backup-data-collapsed-text = Preserva le datos de tu navigator
