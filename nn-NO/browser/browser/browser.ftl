@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Sidehandlingar
 urlbar-revert-button =
     .tooltiptext = Vis adressa i adresselinja
-urlbar-show-page-actions-button =
-    .tooltiptext = Vis alle sidehandlingar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -955,6 +953,9 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat nettlesing
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privat nettlesing
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
