@@ -303,3 +303,4 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Fechar
     .aria-label = Fechar
+fxa-menu-message-sign-up-button = Criar uma conta
