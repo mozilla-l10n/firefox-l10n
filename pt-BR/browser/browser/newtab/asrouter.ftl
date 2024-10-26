@@ -306,3 +306,4 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Criar uma conta
 fxa-menu-message-backup-data-primary-text = Faça backup dos dados do seu navegador
 fxa-menu-message-backup-data-secondary-text = Proteja automaticamente favoritos, senhas e outras informações em todos os seus dispositivos.
+fxa-menu-message-backup-data-collapsed-text = Faça backup dos dados do navegador
