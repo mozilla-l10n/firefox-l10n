@@ -310,3 +310,4 @@ fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszkö
 fxa-menu-message-backup-data-primary-text = Készítsen biztonsági mentést a böngészési adatairól
 fxa-menu-message-backup-data-secondary-text = Automatikusan védje meg a könyvjelzőket, jelszavakat és egyéb információkat az összes eszközén.
 fxa-menu-message-backup-data-collapsed-text = Biztonsági mentés készítése a böngészési adatokról
+fxa-menu-message-backup-sync-primary-text = Tartsa adatait biztonságban és szinkronizálva
