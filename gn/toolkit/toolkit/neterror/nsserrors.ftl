@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Ko mohendahavusu ohechauka mboajep
 mozilla-pkix-error-empty-issuer-name = Mohendahavusu ohechauka peteĩ mboajepyre téra tee rechaha nandíva.
 mozilla-pkix-error-additional-policy-constraint-failed = Oñemomichĩ porureko joapýva ndoikói oñemoneĩsévo mboajepyre.
 mozilla-pkix-error-self-signed-cert = Mboajepyre ndojegueroviapái heraguapy rupi ijehegui.
+mozilla-pkix-error-issuer-no-longer-trusted = Mburuvicha mboajeháva oguenohẽva upe mboajepyre ndojejeroviái hese osẽ mboyve pe mboajepyre.
 xp-java-remove-principal-error = Ndaikatúi emboguete pe tuichavéva
 xp-java-delete-privilege-error = Ndaikatúi emboguete pe techaramovéva
 xp-java-cert-not-exists-error = Ko tuichavéva ndoguerekói peteĩ mboajepyréva
