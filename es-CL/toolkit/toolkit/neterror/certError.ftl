@@ -82,6 +82,13 @@ fp-certerror-bad-domain-why-dangerous-body = El sitio está configurado para per
 fp-certerror-bad-domain-what-can-you-do-body = Probablemente nada, ya que es posible que haya un problema con el sitio en sí. Los sitios utilizan certificados emitidos por una autoridad de certificación para demostrar que son realmente quienes dicen ser. Pero si estás en una red corporativa, tu equipo de soporte puede tener más información. Si estás usando un software antivirus, intenta buscar posibles conflictos o problemas conocidos.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Hay un problema con el certificado del sitio. Es posible que un actor malicioso esté intentando hacerse pasar por el sitio. Los sitios utilizan certificados emitidos por una autoridad de certificación para demostrar que son realmente quienes dicen ser. { -brand-short-name } no confía en este sitio porque no podemos saber quién emitió el certificado, es autofirmado o el sitio no envía certificados intermedios en los que confiamos.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probablemente nada, ya que es probable que haya un problema con el sitio en sí. Pero si estás en una red corporativa, tu equipo de soporte puede tener más información. Si estás usando un software antivirus, es posible que debas configurarlo para que funcione con { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Porque hay un problema con el certificado del sitio. Los sitios usan certificados emitidos por una autoridad de certificación para demostrar que son realmente quienes dicen ser. El certificado de este sitio está autofirmado. No fue emitido por una autoridad de certificación reconocida, por lo que no confiamos en él de manera predeterminada.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = No mucho. Es probable que haya un problema con el sitio en sí.
+fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Si intentas visitar este sitio en una intranet corporativa, tu personal de TI podría hacer uso de certificados autofirmados. Pueden ayudarte a verificar su autenticidad.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de error: { $error }
