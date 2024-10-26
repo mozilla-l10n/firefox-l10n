@@ -55,6 +55,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Попитайте { $provider }
+genai-shortcuts-hide =
+    .label = Скриване на прекия път към чат-бота
 
 ## Chatbot header
 
@@ -74,6 +76,12 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Презареждане на { $provider }
+genai-options-show-shortcut =
+    .label = Показване на пряк път при избиране на текст
+genai-options-hide-shortcut =
+    .label = Скриване на пряк път при избиране на текст
+genai-options-about-chatbot =
+    .label = Относно AI чат ботовете в { -brand-short-name }
 
 ## Chatbot onboarding
 
