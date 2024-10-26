@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Нигоҳ доштан ба { -pocket-brand-name }
 newtab-menu-delete-pocket = Нест кардан аз { -pocket-brand-name }
 newtab-menu-archive-pocket = Бойгонӣ кардан ба { -pocket-brand-name }
 newtab-menu-show-privacy-info = Сарпарастони мо ва махфияти шумо
+newtab-menu-about-fakespot = Дар бораи «{ -fakespot-brand-name }»
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

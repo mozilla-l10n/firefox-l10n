@@ -632,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Пӯшидан
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
 urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, низоми ҷустуҷӯиеро интихоб намоед
+    .tooltiptext = { $engine }, низоми ҷустуҷӯиеро интихоб намоед
+urlbar-searchmode-button-no-engine =
+    .label = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
+    .tooltiptext = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
