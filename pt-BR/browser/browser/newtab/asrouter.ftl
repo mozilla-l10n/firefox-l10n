@@ -304,3 +304,5 @@ fxa-menu-message-close-button =
     .title = Fechar
     .aria-label = Fechar
 fxa-menu-message-sign-up-button = Criar uma conta
+fxa-menu-message-backup-data-primary-text = Faça backup dos dados do seu navegador
+fxa-menu-message-backup-data-secondary-text = Proteja automaticamente favoritos, senhas e outras informações em todos os seus dispositivos.
