@@ -308,3 +308,5 @@ fxa-menu-message-sync-devices-primary-text = Szinkronizálja az összes eszköz�
 fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name(case: "accusative") } használja.
 fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszközét
 fxa-menu-message-backup-data-primary-text = Készítsen biztonsági mentést a böngészési adatairól
+fxa-menu-message-backup-data-secondary-text = Automatikusan védje meg a könyvjelzőket, jelszavakat és egyéb információkat az összes eszközén.
+fxa-menu-message-backup-data-collapsed-text = Biztonsági mentés készítése a böngészési adatokról
