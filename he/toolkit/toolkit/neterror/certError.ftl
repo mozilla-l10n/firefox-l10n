@@ -81,9 +81,22 @@ fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. אבל אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, כדאי לנסות לחפש אחר התנגשויות פוטנציאליות או בעיות ידועות.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
-fp-certerror-unknown-issuer-why-dangerous-body = ישנה בעיה באישור האבטחה של האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר . אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאיננו יכולים לדעת מי הנפיק את אישור האבטחה, הוא נחתם עצמית או שהאתר לא שולח אישורי ביניים שעליהם אנו נותנים אמון.
+fp-certerror-unknown-issuer-why-dangerous-body = ישנה בעיה באישור האבטחה של האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאיננו יכולים לדעת מי הנפיק את אישור האבטחה, הוא נחתם עצמית או שהאתר לא שולח אישורי ביניים שעליהם אנו נותנים אמון.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, ייתכן שיש צורך להגדיר אותה כדי שתעבוד עם { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = מכיוון שיש בעיה עם אישור האבטחה של האתר. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. אישור האבטחה של אתר זה נחתם עצמית, הוא לא הונפק על־ידי רשות אישורים מוכרת - ולכן איננו נותנים בה אמון כברירת מחדל.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = לא הרבה. סביר להניח שיש בעיה באתר עצמו.
+fp-certerror-self-signed-important-note = הערה חשובה: אם הינך מנסה לבקר באתר זה באינטראנט של ארגון, צוות ה־IT עשוי להשתמש באישורים אבטחה חתומים עצמית. הם יוכלו לסייע לך לבדוק את האמינות שלהם.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שפג התוקף של אישור האבטחה ב־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה לא יהיה תקף עד { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 
 ## Messages used for certificate error titles
 
