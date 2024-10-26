@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Ações da página
 urlbar-revert-button =
     .tooltiptext = Mostrar o endereço na barra de localização
-urlbar-show-page-actions-button =
-    .tooltiptext = Mostrar todas as ações da página
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Pesquisar em { $lo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Pesquisar com { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, escolha um mecanismo de pesquisa
-    .tooltiptext = { $engine }, escolha um mecanismo de pesquisa
 urlbar-searchmode-dropmarker =
     .tooltiptext = Escolha um mecanismo de pesquisa
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Fechar
 urlbar-searchmode-popup-description = Desta vez, pesquisar com:
 urlbar-searchmode-popup-search-settings = Configurações de pesquisa
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, escolha um mecanismo de pesquisa
+    .tooltiptext = { $engine }, escolha um mecanismo de pesquisa
+urlbar-searchmode-button-no-engine =
+    .label = Nenhum atalho selecionado, escolha um atalho
+    .tooltiptext = Nenhum atalho selecionado, escolha um atalho
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,6 +963,9 @@ data-reporting-notification-button =
     .accesskey = E
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegação privativa
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navegação privativa
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
