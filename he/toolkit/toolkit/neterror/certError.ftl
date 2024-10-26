@@ -77,7 +77,13 @@ fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
-fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק חיבורים מאובטחים, אבל יש בעיה באישור האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורים המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהאישור שלו אינו תקף עבור { $hostname }. האישור תקף רק עבור: { $validHosts }.
+fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק חיבורים מאובטחים, אבל יש בעיה באישור האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאישור האבטחה שלו אינו תקף עבור { $hostname }. האישור תקף רק עבור: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. אבל אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, כדאי לנסות לחפש אחר התנגשויות פוטנציאליות או בעיות ידועות.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = ישנה בעיה באישור האבטחה של האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר . אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאיננו יכולים לדעת מי הנפיק את אישור האבטחה, הוא נחתם עצמית או שהאתר לא שולח אישורי ביניים שעליהם אנו נותנים אמון.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, ייתכן שיש צורך להגדיר אותה כדי שתעבוד עם { -brand-short-name }.
 
 ## Messages used for certificate error titles
 
