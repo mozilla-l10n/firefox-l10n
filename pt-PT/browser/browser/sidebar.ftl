@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-review-checker =
     .label = Verificador de avaliações
+sidebar-options-menu-button =
+    .title = Abrir menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expandir e colapsar a barra lateral
 sidebar-visibility-setting-hide-sidebar =
     .label = Mostrar e ocultar a barra lateral
-sidebar-customize-settings-header =
-    .label = Definições da barra lateral
-sidebar-visibility-always-show =
-    .label = Mostrar sempre
-sidebar-visibility-hide-sidebar =
-    .label = Ocultar barra lateral
 
 ## Labels for sidebar context menu items
 
