@@ -309,6 +309,8 @@ newtab-wallpaper-dark-panda = Panda rosso nascosto in una foresta
 newtab-wallpaper-dark-sky = Paesaggio cittadino con cielo notturno
 newtab-wallpaper-dark-mountain = Paesaggio con montagne
 newtab-wallpaper-dark-city = Paesaggio cittadino con tonalità viola
+newtab-wallpaper-dark-fox-anniversary = Una volpe sul marciapiede vicino a una foresta
+newtab-wallpaper-light-fox-anniversary = Una volpe in un campo erboso con un paesaggio di montagna avvolto nella nebbia
 
 ## Solid Colors
 
