@@ -97,6 +97,19 @@ fp-certerror-expired-why-dangerous-body = אתרים משתמשים באישור
 # Variables:
 #   $date (Date) - Certificate start date.
 fp-certerror-not-yet-valid-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה לא יהיה תקף עד { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = קוד שגיאה: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = מידע נוסף על כשלים בחיבור מאובטח
+fp-learn-more-about-cert-issues = מידע נוסף על סוגים אלה של בעיות אישורי אבטחה
+fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בעיות של שגיאות הקשורות לזמן
 
 ## Messages used for certificate error titles
 
@@ -141,7 +154,17 @@ certerror-mitm-title = תכנית כלשהי מונעת מ־{ -brand-short-name 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = אזהרה: סיכון אבטחה
+fp-certerror-body-title = נא להיזהר. משהו לא נראה תקין.
+fp-certerror-why-site-dangerous = מה גורם לאתר להיראות מסוכן?
+fp-certerror-what-can-you-do = מה ניתן לעשות בנדון?
+fp-certerror-advanced-title = מתקדם
+fp-certerror-advanced-button = מתקדם
+fp-certerror-hide-advanced-button = הסתרת מתקדם
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = המשך אל { $hostname } (מסוכן)
+fp-certerror-intro = ‏{ -brand-short-name } זיהה בעיית אבטחה שעלולה להיות חמורה עם <strong>{ $hostname }</strong>. מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו פרטי כרטיסי אשראי, ססמאות או דוא״ל.
+fp-certerror-expired-into = ‏{ -brand-short-name } זיהה בעיית אבטחה עם <strong>{ $hostname }</strong>. או שהאתר לא מוגדר נכון או ששעון המכשיר שלך מוגדר לתאריך/שעה הלא נכונים.
