@@ -117,6 +117,7 @@ certerror-mitm-title = Нармафзор имкон намедиҳад, ки «
 
 fp-certerror-advanced-title = Иловагӣ
 fp-certerror-advanced-button = Иловагӣ
+fp-certerror-hide-advanced-button = Пинҳон кардани тафсилот
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
