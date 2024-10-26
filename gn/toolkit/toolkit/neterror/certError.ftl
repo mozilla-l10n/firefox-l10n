@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva 
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.
 cert-error-trust-self-signed = Ndojejeroviái pe mboajepyre rehe oñemboheraguapyjehegui rupi.
 cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign nahekorosãvéima mboajepyre moakãharakuéra ndoguatái tekorosã rapére ymave.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ndojeroviái { $hostname } rehe ndaikatúire ohechauka ojapoha he’íva pe mboajepyre opavaveguáva rekosakã.
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
