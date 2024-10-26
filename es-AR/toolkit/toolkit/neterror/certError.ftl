@@ -100,7 +100,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Los sitios utilizan certificados
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = El reloj de tu dispositivo está en { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si es correcto, probablemente el problema de seguridad esté en el sitio. Si está mal, puede cambiarlo en la configuración del sistema de su dispositivo.
+fp-certerror-expired-what-can-you-do-body = El reloj del dispositivo está en { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Si es correcto, probablemente el problema de seguridad esté en el sitio. Si está mal, puede cambiarlo en la configuración del sistema del dispositivo.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de error: { $error }
