@@ -432,6 +432,8 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Embosako’i moñe’ẽrã mokõi
 pdfjs-editor-new-alt-text-dialog-add-label = Embojuaju moñe’ẽrã mokõiha (ta’ãngáre ñeñe’ẽ)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Edescribi ko’ápe…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Ñemyesakã mbykymi opavave ohecha’ỹva upe ta’ãnga térã pe ta’ãnga nahenyhẽiramo.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Ko moñe’ẽrã mokõiha oñemoheñói ijehegui ha ikatu ndoikoporãi.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Eikuaave
