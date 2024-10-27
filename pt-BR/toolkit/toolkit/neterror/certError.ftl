@@ -75,6 +75,11 @@ fp-certerror-view-certificate-link = Ver o certificado do site
 fp-certerror-return-to-previous-page-recommended-button = Voltar (recomendado)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Não muito. Provavelmente há um problema no próprio site.
+fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se você estiver tentando visitar este site em uma intranet corporativa, sua equipe de TI pode ter usado certificados auto-assinados. Eles podem ajudar a verificar a autenticidade.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Sites usam certificados emitidos por uma autoridade certificadora para comprovar que realmente são quem afirmam ser. O { -brand-short-name } não confia neste site porque parece que o certificado expirou em { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de erro: { $error }
