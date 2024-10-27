@@ -34,8 +34,17 @@ genai-options-reload-provider =
 
 genai-onboarding-primary = Kenderc’hel
 genai-onboarding-secondary = Serriñ
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Gouzout hiroc’h diwar-benn Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = Gouzout hiroc’h diwar-benn ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Gouzout hiroc’h diwar-benn Le Chat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

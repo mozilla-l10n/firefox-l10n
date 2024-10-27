@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% echu
 firefoxview-tabpickup-step-signin-header = Tremen aes eus un trevnad d'unan all
 firefoxview-tabpickup-step-signin-description = Evit adtapout ivinelloù ho pellgomz e rankit kevreañ pe krouiñ ur gont da gentañ penn.
 firefoxview-tabpickup-step-signin-primarybutton = Kenderc'hel
+firefoxview-syncedtabs-signin-primarybutton-2 = Kennaskañ
 firefoxview-syncedtabs-signin-header = Tapit ivinelloù adalek forzh pe lec’h
 firefoxview-syncedtabs-signin-description = Evit gwelet hoc’h ivinelloù e pep lec’h ma implijit { -brand-product-name }, kennaskit d'ho kont. Ma n’ho peus ket a gont, e tiskouezimp deoc’h penaos ober evit krouiñ unan.
 firefoxview-syncedtabs-signin-primarybutton = Kennaskañ pe krouiñ ur gont
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = Goubredit { -brand-product-name } war h
 firefoxview-tabpickup-adddevice-description = Pellgargit { -brand-product-name } evit pellgomz hezoug ha kennaskit amañ
 firefoxview-tabpickup-adddevice-learn-how = Gouzout penaos
 firefoxview-tabpickup-adddevice-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
+firefoxview-syncedtabs-adddevice-header-2 = Tapit ivinelloù adalek forzh pe lec’h
 firefoxview-syncedtabs-adddevice-header = Kennaskit ouzh { -brand-product-name } war ho trevnadoù all
 firefoxview-syncedtabs-adddevice-description = Evit gwelet hoc’h ivinelloù forzh e pep lec’h ma implijit { -brand-product-name }, kennaskit ouzh ho trevnadoù. Deskit penaos <a data-l10n-name="url">kennaskañ trevnadoù all</a>
 firefoxview-syncedtabs-adddevice-primarybutton = Esaeit { -brand-product-name } war hezoug

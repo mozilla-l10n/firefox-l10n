@@ -647,6 +647,12 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
 urlbar-searchmode-popup-search-settings = Arventennoù enklask
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, dibab ul lusker enklask
+    .tooltiptext = { $engine }, dibab ul lusker enklask
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -961,6 +967,9 @@ data-reporting-notification-button =
     .accesskey = D
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Merdeiñ prevez
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Merdeiñ prevez
 content-analysis-panel-title = Gwarez ar roadennoù
 
 ## Unified extensions (toolbar) button
