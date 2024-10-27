@@ -83,6 +83,7 @@ fp-cert-error-code = Código de erro: { $error }
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Saiba mais sobre falhas de conexão segura
 fp-learn-more-about-cert-issues = Saiba mais sobre esses tipos de problemas de certificado
+fp-learn-more-about-time-related-errors = Saiba mais sobre como solucionar erros relativos a data e hora
 
 ## Messages used for certificate error titles
 
@@ -127,7 +128,14 @@ certerror-mitm-title = Um software está impedindo que o { -brand-short-name } s
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Atenção: Risco de segurança
+fp-certerror-body-title = Tenha cautela. Algo não parece estar certo.
+fp-certerror-what-can-you-do = O que você pode fazer a respeito?
+fp-certerror-advanced-title = Avançado
+fp-certerror-advanced-button = Avançado
+fp-certerror-hide-advanced-button = Ocultar informações avançadas
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Prosseguir para { $hostname } (arriscado)
