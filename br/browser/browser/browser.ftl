@@ -562,6 +562,8 @@ urlbar-go-button =
     .tooltiptext = Mont d'ar chomlec'h er varrenn lec'hiañ
 urlbar-page-action-button =
     .tooltiptext = Gweredoù ar bajenn
+urlbar-revert-button =
+    .tooltiptext = Diskouez ar chomlec’h er varrenn chomlec’h
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -631,6 +633,20 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Klask e-barzh { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Klask gant { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Dibab ul lusker enklask
+urlbar-searchmode-bookmarks =
+    .label = Sinedoù
+urlbar-searchmode-tabs =
+    .label = Ivinelloù
+urlbar-searchmode-history =
+    .label = Roll istor
+urlbar-searchmode-actions =
+    .label = Oberoù
+urlbar-searchmode-exit-button =
+    .tooltiptext = Serriñ
+urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
+urlbar-searchmode-popup-search-settings = Arventennoù enklask
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
