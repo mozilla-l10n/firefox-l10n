@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola recenzií
+sidebar-options-menu-button =
+    .title = Otvoriť ponuku
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Rozbaliť a zbaliť bočný panel
 sidebar-visibility-setting-hide-sidebar =
     .label = Zobraziť a skryť bočný panel
-sidebar-customize-settings-header =
-    .label = Nastavenia bočného panela
-sidebar-visibility-always-show =
-    .label = Vždy zobrazovať
-sidebar-visibility-hide-sidebar =
-    .label = Skryť bočný panel
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Karty z ďalších zariadení
 synced-tabs-context-close-tab-title =
     .title = Zavrieť kartu v zariadení { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Rozbaliť bočný panel
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Zbaliť bočný panel
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Zobraziť bočný panel
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Skryť bočný panel
 sidebar-widget-expand-sidebar =
     .tooltiptext = Rozbaliť bočný panel
     .label = Bočné panely

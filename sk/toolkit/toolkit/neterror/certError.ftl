@@ -71,6 +71,12 @@ open-in-new-window-for-csp-or-xfo-error = Otvoriť stránku v novom okne
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Kvôli ochrane vašej bezpečnosti nemôže { -brand-short-name } zobraziť stránku zo servera { $hostname }, pretože táto je vložená do inej stránky. Ak ju chcete zobraziť, musíte ju otvoriť v novom okne.
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Ďalšie informácie o zlyhaniach zabezpečeného pripojenia
+fp-learn-more-about-cert-issues = Ďalšie informácie o týchto typoch problémov s certifikátmi
+fp-learn-more-about-time-related-errors = Ďalšie informácie o odstraňovaní chýb súvisiacich s časom
 
 ## Messages used for certificate error titles
 
@@ -112,3 +118,18 @@ networkProtocolError-title = Chyba sieťového protokolu
 nssBadCert-title = Varovanie: možné bezpečnostné riziko
 nssBadCert-sts-title = Nepripojené: možné bezpečnostné riziko
 certerror-mitm-title = { -brand-short-name } nemôže nadviazať zabezpečené pripojenie s touto stránkou
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Upozornenie: bezpečnostné riziko
+fp-certerror-body-title = Buďte opatrní. Niečo nie je v poriadku.
+fp-certerror-why-site-dangerous = Čo spôsobuje, že stránka vyzerá nebezpečne?
+fp-certerror-what-can-you-do = Čo s tým môžete urobiť?
+fp-certerror-advanced-title = Pokročilé
+fp-certerror-advanced-button = Pokročilé
+fp-certerror-hide-advanced-button = Skryť pokročilé
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Pokračovať na { $hostname } (riskantné)

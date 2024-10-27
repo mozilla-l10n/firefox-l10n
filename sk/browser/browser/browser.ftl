@@ -556,8 +556,6 @@ urlbar-page-action-button =
     .tooltiptext = Akcie stránky
 urlbar-revert-button =
     .tooltiptext = Zobraziť adresu v paneli s adresou
-urlbar-show-page-actions-button =
-    .tooltiptext = Zobraziť všetky akcie stránky
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -627,12 +625,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hľadať ({ $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Hľadať pomocou { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, vyberte vyhľadávací modul
-    .tooltiptext = { $engine }, vyberte vyhľadávací modul
 urlbar-searchmode-dropmarker =
     .tooltiptext = Vyberte vyhľadávací modul
 urlbar-searchmode-bookmarks =
@@ -647,6 +639,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Zavrieť
 urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:
 urlbar-searchmode-popup-search-settings = Nastavenia vyhľadávania
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, vyberte vyhľadávací modul
+    .tooltiptext = { $engine }, vyberte vyhľadávací modul
+urlbar-searchmode-button-no-engine =
+    .label = Nie je vybratá žiadna skratka, vyberte skratku
+    .tooltiptext = Nie je vybratá žiadna skratka, vyberte skratku
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -969,12 +970,18 @@ data-reporting-notification-button =
     .accesskey = v
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Súkromné prehliadanie
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Súkromné prehliadanie
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ochrana pred stratou údajov (DLP) od agenta { $agentName }. Kliknutím zobrazíte ďalšie informácie.
 content-analysis-panel-title = Ochrana údajov
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Vaša organizácia používa <b>{ $agentName }</b> na ochranu pred stratou údajov. <a data-l10n-name="info">Ďalšie informácie</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Vaša organizácia používa { $agentName } na ochranu pred stratou údajov. <a data-l10n-name="info">Ďalšie informácie</a>
