@@ -1320,10 +1320,16 @@ httpsonly-description = HTTPS yettmuddu-d tuqqna taɣelsant, yettwawgelhen gar {
 httpsonly-learn-more = Issin ugar
 httpsonly-radio-enabled =
     .label = Rmed askar HTTPS-Only deg yisfuyla akk
+httpsonly-radio-enabled2 =
+    .label = Seqdec kan HTTPS deg meṛṛa isfuyla
 httpsonly-radio-enabled-pbm =
     .label = Rmed askar HTTPS-Only deg yisfuyla usligen kan
+httpsonly-radio-enabled-pbm2 =
+    .label = Seqdec kan HTTPS deg isfuyla usligen
 httpsonly-radio-disabled =
     .label = Ur remmed ara askar HTTPS-Only
+httpsonly-radio-disabled2 =
+    .label = Ԑreḍ HTTPS d amezwaru, maca sireg tuqqniwin ur nettwaseɣles ara
 
 ## DoH Section
 
@@ -1344,6 +1350,7 @@ preferences-doh-status-disabled = Yensa
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = D arurmid ({ $reason })
 preferences-doh-group-message = Rmed DNS n tɣellist s:
+preferences-doh-group-message2 = Rmed DNS s useqdec HTTPS:
 preferences-doh-expand-section =
     .tooltiptext = Ugar n telɣut
 preferences-doh-setting-default =

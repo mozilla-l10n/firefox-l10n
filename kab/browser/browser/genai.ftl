@@ -18,20 +18,37 @@ genai-settings-chat-choose-one-menuitem =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Ssuter deg AI chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ssuter { $provider }
+genai-input-ask-generic =
+    .placeholder = Ssuter deg AI chatbot…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ssuter { $provider }…
+genai-shortcuts-hide =
+    .label = Ffer anegzum n chatbot
 
 ## Chatbot header
 
 genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Fren chatbot
 genai-header-options-button =
     .title = Ldi umuɣ
 genai-header-close-button =
     .title = Mdel
+genai-provider-view-details =
+    .label = Sken talqayt n chatbot
+genai-provider-about-chatbots =
+    .label = Ayen yerzan chatbots
+genai-options-reload-generic =
+    .label = Ales asali n AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ales asali n { $provider }
 
 ## Chatbot onboarding
 

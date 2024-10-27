@@ -29,4 +29,6 @@ more-from-moz-firefox-relay-button = Awi { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Err-d asenqed n telɣut-ik tudmawant yettbanen s wudem awurman.
+more-from-moz-mozilla-monitor-global-description = Nermes ilɣa mi ara d-banen isefka-k deg trewla n yisefka.
 more-from-moz-mozilla-monitor-button = Awi { -monitor-brand-short-name }

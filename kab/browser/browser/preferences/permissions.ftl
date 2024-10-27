@@ -90,6 +90,7 @@ permissions-exceptions-https-only-window2 =
     .title = Tisuraf - Askar HTTPS kan
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a. Tisuraf ur ttusnasent ara i yisfuyla usligen.
+permissions-exceptions-https-only-desc2 = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a.
 
 ## Exceptions - Pop-ups
 
@@ -104,6 +105,13 @@ permissions-exceptions-saved-logins-window2 =
     .title = Tisuraf - Inekcumen yettwakelsen
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Inekcumen n yismal-agi ur ttwaklasen ara
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Tisuraf - Awalen n uεeddi yettwakelsen
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } ur yesseklas ara awalen n uεeddi i yismal i d-yettwabdaren dagi.
 
 ## Exceptions - Add-ons
 
