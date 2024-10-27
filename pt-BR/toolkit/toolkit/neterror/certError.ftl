@@ -71,6 +71,18 @@ open-in-new-window-for-csp-or-xfo-error = Abrir site em nova janela
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para proteger sua segurança, { $hostname } não permite que o { -brand-short-name } exiba a página se outro site o tiver incorporado. Para ver esta página, você precisa abrir em uma nova janela.
+fp-certerror-view-certificate-link = Ver o certificado do site
+fp-certerror-return-to-previous-page-recommended-button = Voltar (recomendado)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Não muito. Provavelmente há um problema no próprio site.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Código de erro: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Saiba mais sobre falhas de conexão segura
+fp-learn-more-about-cert-issues = Saiba mais sobre esses tipos de problemas de certificado
 
 ## Messages used for certificate error titles
 
@@ -112,3 +124,10 @@ networkProtocolError-title = Erro de protocolo de rede
 nssBadCert-title = Alerta: Potencial risco de segurança à frente
 nssBadCert-sts-title = Não conectou: Potencial problema de segurança
 certerror-mitm-title = Um software está impedindo que o { -brand-short-name } se conecte a este site com segurança
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
