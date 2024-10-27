@@ -621,6 +621,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Itxi
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
 urlbar-searchmode-popup-search-settings = Bilaketa-ezarpenak
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, hautatu bilaketa-motorra
+    .tooltiptext = { $engine }, hautatu bilaketa-motorra
+urlbar-searchmode-button-no-engine =
+    .label = Ez da lasterbiderik hautatu, hautatu lasterbidea
+    .tooltiptext = Ez da lasterbiderik hautatu, hautatu lasterbidea
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -651,9 +660,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Azken bilaketak
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } bilatzaileko joerak
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ez erakutsi bilaketa-joerak
+    .accesskey = z
 urlbar-result-menu-trending-why =
     .label = Zergatik agertu zait hau?
     .accesskey = Z
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu bilaketa-joerarik ikusiko.
 
 ## Reader View toolbar buttons
 
@@ -931,6 +952,9 @@ data-reporting-notification-button =
     .accesskey = A
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Nabigatze pribatua
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Nabigatze pribatua
 content-analysis-panel-title = Datuen babesa
 
 ## Unified extensions (toolbar) button
@@ -1033,6 +1057,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Ezin da ireki Windowsen fitxategien elkarrizketa-koadroa. Ezin da fitxategi edo karpetarik hautatu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Ezin da ireki Windowsen fitxategien elkarrizketa-koadroa. Fitxategia { $path } bidean gordeko da.
+file-picker-failed-save-nowhere = Ezin da ireki Windowsen fitxategien elkarrizketa-koadroa. Ezin da karpeta lehenetsirik aurkitu; fitxategia ez da gordeko.
+file-picker-crashed-open = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Ezin da fitxategi edo karpetarik hautatu.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Fitxategia { $path } bidean gordeko da.
+file-picker-crashed-save-nowhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Ezin da karpeta lehenetsirik aurkitu; fitxategia ez da gordeko.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
