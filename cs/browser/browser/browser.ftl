@@ -610,8 +610,6 @@ urlbar-page-action-button =
     .tooltiptext = Akce stránky
 urlbar-revert-button =
     .tooltiptext = Zobrazí adresu v adresním řádku
-urlbar-show-page-actions-button =
-    .tooltiptext = Zobrazí všechny akce stránky
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -681,12 +679,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hledat { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Hledat pomocí { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, vyberte vyhledávač
-    .tooltiptext = { $engine }, vyberte vyhledávač
 urlbar-searchmode-dropmarker =
     .tooltiptext = Vyberte vyhledávač
 urlbar-searchmode-bookmarks =
@@ -701,6 +693,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Zavřít
 urlbar-searchmode-popup-description = Vyhledat pomocí:
 urlbar-searchmode-popup-search-settings = Nastavení vyhledávání
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, vyberte vyhledávač
+    .tooltiptext = { $engine }, vyberte vyhledávač
+urlbar-searchmode-button-no-engine =
+    .label = Není vybrána žádná zkratka, vyberte zkratku
+    .tooltiptext = Není vybrána žádná zkratka, vyberte zkratku
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1039,12 +1040,18 @@ data-reporting-notification-button =
     .accesskey = N
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Anonymní prohlížení
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Anonymní prohlížení
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ochrana před ztrátou dat (DLP) od agenta { $agentName }. Klepněte pro více informací.
 content-analysis-panel-title = Ochrana údajů
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Vaše organizace používá k ochraně před ztrátou dat agenta <b>{ $agentName }</b>. <a data-l10n-name="info">Zjistit více</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Vaše organizace používá k ochraně před ztrátou dat agenta { $agentName }. <a data-l10n-name="info">Zjistit více</a>

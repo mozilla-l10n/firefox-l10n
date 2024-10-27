@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Uložit do { -pocket-brand-name(case: "gen") }
 newtab-menu-delete-pocket = Smazat z { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Archivovat do { -pocket-brand-name(case: "gen") }
 newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
+newtab-menu-about-fakespot = Co je { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
