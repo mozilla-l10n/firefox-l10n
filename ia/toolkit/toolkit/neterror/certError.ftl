@@ -88,6 +88,10 @@ fp-certerror-unknown-issuer-what-can-you-do-body = Probabilemente nihil, pois qu
 fp-certerror-self-signed-why-dangerous-body = Perque il ha un problema con le certificato de sito. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. Iste certificato de sito es auto-firmate. Il non era emittite per un autoritate de certification recognoscite, assi nos non confide in illo de ordinario.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Non multo. Illo es probabile que il ha un problema con le sito mesme.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque il pare que le certificato ha expirate le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codice de error: { $error }
