@@ -130,6 +130,7 @@ certerror-mitm-title = Um software está impedindo que o { -brand-short-name } s
 
 fp-certerror-page-title = Atenção: Risco de segurança
 fp-certerror-body-title = Tenha cautela. Algo não parece estar certo.
+fp-certerror-why-site-dangerous = O que faz o site parecer perigoso?
 fp-certerror-what-can-you-do = O que você pode fazer a respeito?
 fp-certerror-advanced-title = Avançado
 fp-certerror-advanced-button = Avançado
