@@ -229,5 +229,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } начин за плащане
        *[other] { $quantity } начина за плащане
     }
+migration-wizard-safari-permissions-sub-header = За да внесете отметки и история на сърфиране от Safari:
 migration-wizard-safari-instructions-continue = Изберете „Продължи“
 migration-wizard-safari-instructions-folder = Изберете папка Safari от списъка и изберете „Отваряне“

@@ -628,8 +628,16 @@ urlbar-searchmode-history =
     .label = История
 urlbar-searchmode-actions =
     .label = Действия
+urlbar-searchmode-exit-button =
+    .tooltiptext = Затваряне
 urlbar-searchmode-popup-description = Този път търсете с:
 urlbar-searchmode-popup-search-settings = Настройки за търсене
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, изберете търсеща машина
+    .tooltiptext = { $engine }, изберете търсеща машина
 urlbar-searchmode-button-no-engine =
     .label = Няма избрана клавишна комбинация, изберете една
     .tooltiptext = Няма избрана клавишна комбинация, изберете една
@@ -964,6 +972,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Предотвратяване загуба на данни (DLP) от { $agentName }. Натиснете за повече информация.
 content-analysis-panel-title = Защита на данните
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Вашата организация използва <b>{ $agentName }</b> за защита срещу загуба на данни. <a data-l10n-name="info">Научете повече</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Вашата организация използва { $agentName } за защита срещу загубата на данни. <a data-l10n-name="info">Научете повече</a>

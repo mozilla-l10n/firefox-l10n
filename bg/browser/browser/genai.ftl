@@ -42,6 +42,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Обясни това
     .value = Моля, обясни ми основните положения в избрания текст използвайки прости думи и изрази. Добави и примери.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Аз съм на страница „{ $tabTitle }“ с избрано „{ $selection }“.
 
 ## Chatbot menu shortcuts
 
@@ -102,6 +106,7 @@ genai-onboarding-huggingchat-learn = Научете повече за HuggingCha
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Научете повече за Le Chat
+genai-onboarding-select-header = Изберете текст, за да видите предложения
 genai-onboarding-select-primary = Започнете разговор
 
 ## Chatbot onboarding choices
@@ -112,9 +117,11 @@ genai-onboarding-claude-analyze = Анализиране на документи
 genai-onboarding-claude-price = Безплатни и платени опции; изисква се профил
 genai-onboarding-chatgpt-generate = Генериране на текст, изображения и код
 genai-onboarding-chatgpt-analyze = Анализиране на документи и изображения
+genai-onboarding-chatgpt-price = Безплатни и платени опции; необходим е профил за някои държави и задачи
 genai-onboarding-gemini-generate = Генериране на текст, изображения и код
 genai-onboarding-gemini-analyze = Анализиране на изображения (безплатно) и документи (платено)
 genai-onboarding-gemini-price = Безплатни и платени опции; изисква се профил
 genai-onboarding-huggingchat-generate = Генериране на текст и код
+genai-onboarding-huggingchat-price = Безплатно; необходим е профил за някои задачи
 genai-onboarding-lechat-generate = Генериране на текст и код
 genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил

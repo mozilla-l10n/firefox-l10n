@@ -70,7 +70,10 @@ firefoxview-mobile-promo-header = Вземете разделите от ваш�
 firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-name } за мобилни устройства
 firefoxview-mobile-confirmation-header = 🎉 Готово!
 firefoxview-closed-tabs-title = Наскоро затворени
+firefoxview-closed-tabs-description2 = Възстановяване на затворените страници в този прозорец.
 firefoxview-closed-tabs-placeholder-header = Няма наскоро затворени раздели
+firefoxview-closed-tabs-placeholder-body = Когато затворите раздел в този прозорец, можете да го изтеглите оттук.
+firefoxview-closed-tabs-placeholder-body2 = Когато затворите раздел, можете да го изтеглите оттук.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
