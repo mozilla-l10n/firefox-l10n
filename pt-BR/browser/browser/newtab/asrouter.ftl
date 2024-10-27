@@ -308,3 +308,5 @@ fxa-menu-message-backup-data-primary-text = Faça backup dos dados do seu navega
 fxa-menu-message-backup-data-secondary-text = Proteja automaticamente favoritos, senhas e outras informações em todos os seus dispositivos.
 fxa-menu-message-backup-data-collapsed-text = Faça backup dos dados do navegador
 fxa-menu-message-backup-sync-primary-text = Mantenha seus dados seguros e sincronizados
+fxa-menu-message-backup-sync-secondary-text = A sincronização cria cópia de segurança da maioria dos seus dados, para você poder acessar em qualquer lugar em que use o { -brand-short-name }.
+fxa-menu-message-mobile-primary-text = Envie abas para seu celular
