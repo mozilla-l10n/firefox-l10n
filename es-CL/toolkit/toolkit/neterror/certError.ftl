@@ -89,9 +89,19 @@ fp-certerror-self-signed-why-dangerous-body = Porque hay un problema con el cert
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = No mucho. Es probable que haya un problema con el sitio en sí.
 fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Si intentas visitar este sitio en una intranet corporativa, tu personal de TI podría hacer uso de certificados autofirmados. Pueden ayudarte a verificar su autenticidad.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Los sitios usan certificados emitidos por una autoridad de certificación para demostrar que realmente son quienes dicen ser. { -brand-short-name } no confía en este sitio porque parece que el certificado expiró el { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de error: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Obtén más información acerca de las fallas de conexión segura
+fp-learn-more-about-cert-issues = Obtén más información acerca de este tipo de problemas de certificados.
+fp-learn-more-about-time-related-errors = Obtén más información acerca de cómo solucionar errores relacionados con el tiempo
 
 ## Messages used for certificate error titles
 
@@ -148,3 +158,5 @@ fp-certerror-hide-advanced-button = Ocultar avanzado
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Proceder a { $hostname } (riesgoso)
+fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información como tarjetas de crédito, contraseñas o correos electrónicos.
+fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O bien el sitio no está configurado correctamente o el reloj de tu dispositivo está configurado con una fecha y hora incorrectas.
