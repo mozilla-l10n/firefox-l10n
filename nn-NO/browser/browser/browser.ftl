@@ -630,6 +630,7 @@ urlbar-searchmode-actions =
     .label = Handlingar
 urlbar-searchmode-exit-button =
     .tooltiptext = Lat att
+urlbar-searchmode-popup-description = Søk denne gong med:
 urlbar-searchmode-popup-search-settings = Søkjeinnstillingar
 
 ## Action text shown in urlbar results, usually appended after the search
