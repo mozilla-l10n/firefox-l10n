@@ -49,6 +49,12 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Ales asali n { $provider }
+genai-options-show-shortcut =
+    .label = Sken anegzum deg ufran aḍris
+genai-options-hide-shortcut =
+    .label = Ffer anegzum deg ufran aḍris
+genai-options-about-chatbot =
+    .label = Ɣef AI chatbots deg { -brand-short-name }
 
 ## Chatbot onboarding
 

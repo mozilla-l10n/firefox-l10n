@@ -242,6 +242,8 @@ device-migration-fxa-spotlight-older-device-header = Lehna n uqerru, seg { -bran
 device-migration-fxa-spotlight-older-device-primary-button = Rnu amiḍan
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ibenk amaynut ɣer sdat?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Amek ara ḥerzeɣ isefka-w
+device-migration-fxa-spotlight-sync-header = Inig war ma iruḥ-ak kra
+device-migration-fxa-spotlight-sync-primary-button = Bdu
 
 ## Set as Default PDF Reader Infobar
 
@@ -285,3 +287,18 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Ticki
     .accesskey = T
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Mdel
+    .aria-label = Mdel
+fxa-menu-message-sign-up-button = Jerred
+fxa-menu-message-sync-devices-primary-text = Mtawi akk ibenkan-ik
+fxa-menu-message-sync-devices-collapsed-text = Mtawi akk ibenkan-ik
+fxa-menu-message-backup-data-primary-text = Ḥrez isefka n tunigin
+fxa-menu-message-backup-data-collapsed-text = Ḥrez isefka n tunigin
+fxa-menu-message-backup-sync-primary-text = Eǧǧ isfka-k d iɣellsanen, mtawan
+fxa-menu-message-backup-sync-collapsed-text = Mtawi, tḥerzeḍ isefka
+fxa-menu-message-mobile-primary-text = Azen accaren ɣer tiliɣti-k
+fxa-menu-message-mobile-collapsed-text = Mtawi akked tiliɣri-k
