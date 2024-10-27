@@ -71,6 +71,17 @@ open-in-new-window-for-csp-or-xfo-error = Ireki gunea leiho berrian
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Zure segurtasuna babesteko, { $hostname } ostalariak ez du { -brand-short-name } baimenduko orria bistaratzea, beste gune batek hau kapsulatu badu. Orri hau ikusteko, leiho berri batean ireki behar duzu.
+fp-certerror-view-certificate-link = Ikusi gunearen ziurtagiria
+fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Errore-kodea: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Konexio seguruen hutsegiteei buruzko argibide gehiago
+fp-learn-more-about-cert-issues = Honelako ziurtagiri-arazoei buruzko argibide gehiago
+fp-learn-more-about-time-related-errors = Denborarekin erlazionatutako erroreen arazo-konponketari buruzko argibide gehiago
 
 ## Messages used for certificate error titles
 
@@ -112,3 +123,18 @@ networkProtocolError-title = Sare-protokoloaren errorea
 nssBadCert-title = Abisua: balizko segurtasun arriskua
 nssBadCert-sts-title = Ez da konektatu: balizko segurtasun-arazoa
 certerror-mitm-title = Softwareak { -brand-short-name }(r)i gune honetara modu seguruan konektatzea eragozten dio
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Abisua: segurtasun arriskua
+fp-certerror-body-title = Kontuz. Badirudi zerbait oker dagoela.
+fp-certerror-why-site-dangerous = Zerk egiten du gunea itxuraz arriskutsu?
+fp-certerror-what-can-you-do = Zer egin dezakezu?
+fp-certerror-advanced-title = Aurreratua
+fp-certerror-advanced-button = Aurreratua
+fp-certerror-hide-advanced-button = Ezkutatu aurreratua
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Jarraitu { $hostname } gunera (arriskutsua)

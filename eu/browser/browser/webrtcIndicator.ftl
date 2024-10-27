@@ -154,6 +154,16 @@ webrtc-allow-share-screen-and-audio-capture = Baimendu { $origin } guneak fitxa 
 ## Special phrasing for sharing devices when the origin is a file url.
 
 webrtc-allow-share-audio-capture-with-file = Baimendu fitxategi lokal honek fitxa honetako audioa entzutea?
+webrtc-allow-share-camera-with-file = Baimendu fitxategi lokal honek zure kamera erabiltzea?
+webrtc-allow-share-microphone-with-file = Baimendu fitxategi lokal honek zure mikrofonoa erabiltzea?
+webrtc-allow-share-screen-with-file = Baimendu fitxategi lokal honek zure pantaila ikustea?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Baimendu fitxategi lokal honek beste bozgorailuak erabiltzea?
+webrtc-allow-share-camera-and-microphone-with-file = Baimendu fitxategi lokal honek zure kamera eta mikrofonoa erabiltzea?
+webrtc-allow-share-camera-and-audio-capture-with-file = Baimendu fitxategi lokal honek zure kamera erabili eta fitxa honetako audioa entzutea?
+webrtc-allow-share-screen-and-microphone-with-file = Baimendu fitxategi lokal honek zure mikrofonoa erabili eta zure pantaila ikustea?
+webrtc-allow-share-screen-and-audio-capture-with-file = Baimendu fitxategi lokal honek fitxa honetako audioa entzun eta zure pantaila ikustea?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -209,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Gogoratu erabakia
+webrtc-remember-allow-checkbox-camera = Gogoratu kamera guztietarako
+webrtc-remember-allow-checkbox-microphone = Gogoratu mikrofono guztietarako
+webrtc-remember-allow-checkbox-camera-and-microphone = Gogoratu kamera eta mikrofono guztietarako
 webrtc-mute-notifications-checkbox = Mututu webgunearen jakinarazpenak partekatzea aktibo dagoenean
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }(e)k ezin du zure pantailarako sarbide iraunkorra baimendu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }(e)k ezin du zure fitxaren audiorako sarbide iraunkorra baimendu zein fitxa partekatu galdetu gabe.
