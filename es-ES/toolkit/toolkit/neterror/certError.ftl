@@ -160,7 +160,11 @@ fp-certerror-why-site-dangerous = ¿Qué hace que el sitio parezca peligroso?
 fp-certerror-what-can-you-do = ¿Qué puede hacer al respecto?
 fp-certerror-advanced-title = Avanzado
 fp-certerror-advanced-button = Avanzado
+fp-certerror-hide-advanced-button = Ocultar avanzadas
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Continuar a { $hostname } (arriesgado)
+fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información de tarjetas de crédito, contraseñas o correos electrónicos.
+fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O el sitio no está configurado correctamente o el reloj de su dispositivo está configurado en una fecha/hora incorrecta.
