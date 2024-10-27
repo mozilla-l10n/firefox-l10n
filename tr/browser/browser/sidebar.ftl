@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
 menu-view-review-checker =
     .label = Değerlendirme kontrolcüsü
+sidebar-options-menu-button =
+    .title = Menüyü aç
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Kenar çubuğunu genişlet ve daralt
 sidebar-visibility-setting-hide-sidebar =
     .label = Kenar çubuğunu göster ve gizle
-sidebar-customize-settings-header =
-    .label = Kenar çubuğu ayarları
-sidebar-visibility-always-show =
-    .label = Her zaman göster
-sidebar-visibility-hide-sidebar =
-    .label = Kenar çubuğunu gizle
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Diğer cihazlardaki sekmeler
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } cihazındaki sekmeyi kapat
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Kenar çubuğunu genişlet
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Kenar çubuğunu daralt
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Kenar çubuğunu göster
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Kenar çubuğunu gizle
 sidebar-widget-expand-sidebar =
     .tooltiptext = Kenar çubuğunu genişlet
     .label = Kenar çubukları

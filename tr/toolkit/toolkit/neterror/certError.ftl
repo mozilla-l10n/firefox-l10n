@@ -71,6 +71,14 @@ open-in-new-window-for-csp-or-xfo-error = Siteyi yeni pencerede aç
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Bu sayfayı başka bir site gömdüyse { $hostname } güvenliğinizi korumak için  { -brand-short-name } tarayıcınızın sayfayı görüntülemesine izin vermez. Bu sayfayı görmek için yeni bir pencerede açmanız gerekir.
+fp-certerror-view-certificate-link = Sitenin sertifikasını göster
+fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Hata kodu: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +120,18 @@ networkProtocolError-title = Ağ Protokolü Hatası
 nssBadCert-title = Uyarı: Güvenlik riskiyle karşılaşabilirsiniz
 nssBadCert-sts-title = Bağlanılmadı: Olası Güvenlik Sorunu
 certerror-mitm-title = { -brand-short-name } başka bir yazılım nedeniyle bu siteye güvenli bağlantı kuramıyor
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Uyarı: Güvenlik Riski
+fp-certerror-body-title = Dikkatli olun. Doğru görünmeyen bir şeyler var.
+fp-certerror-why-site-dangerous = Bu site neden tehlikeli görünüyor?
+fp-certerror-what-can-you-do = Ne yapabilirsiniz?
+fp-certerror-advanced-title = Gelişmiş
+fp-certerror-advanced-button = Gelişmiş
+fp-certerror-hide-advanced-button = Gelişmişi gizle
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = { $hostname } sitesine devam et (riskli)

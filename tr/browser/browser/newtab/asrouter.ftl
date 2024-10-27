@@ -303,3 +303,5 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Kapat
     .aria-label = Kapat
+fxa-menu-message-sign-up-button = Kaydol
+fxa-menu-message-backup-data-secondary-text = Tüm cihazlarınızdaki yer imlerinizi, parolalarınızı ve diğer bilgileri otomatik olarak koruyun.
