@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola recenzí
+sidebar-options-menu-button =
+    .title = Otevřít nabídku
 
 ## Labels for sidebar history panel
 
@@ -68,12 +70,6 @@ sidebar-visibility-setting-always-show =
     .label = Rozbalit a sbalit postranní lištu
 sidebar-visibility-setting-hide-sidebar =
     .label = Zobrazit a skrýt postranní lištu
-sidebar-customize-settings-header =
-    .label = Nastavení postranní lišty
-sidebar-visibility-always-show =
-    .label = Vždy zobrazit
-sidebar-visibility-hide-sidebar =
-    .label = Skrýt postranní lištu
 
 ## Labels for sidebar context menu items
 

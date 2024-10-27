@@ -410,3 +410,5 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Zavřít
     .aria-label = Zavřít
+fxa-menu-message-sign-up-button = Přihlásit se
+fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
