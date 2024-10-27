@@ -607,6 +607,20 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Bilatu { $engine } erabiliz
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Hautatu bilaketa-motorra
+urlbar-searchmode-bookmarks =
+    .label = Laster-markak
+urlbar-searchmode-tabs =
+    .label = Fitxak
+urlbar-searchmode-history =
+    .label = Historia
+urlbar-searchmode-actions =
+    .label = Ekintzak
+urlbar-searchmode-exit-button =
+    .tooltiptext = Itxi
+urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
+urlbar-searchmode-popup-search-settings = Bilaketa-ezarpenak
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
