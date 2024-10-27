@@ -296,3 +296,5 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Itxi
     .aria-label = Itxi
+fxa-menu-message-mobile-primary-text = Bidali fitxak zure telefonora
+fxa-menu-message-mobile-collapsed-text = Sinkronizatu zure telefonoarekin

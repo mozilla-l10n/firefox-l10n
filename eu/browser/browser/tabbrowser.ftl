@@ -174,3 +174,12 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ez mututu fitxa
 tabbrowser-manager-close-tab =
     .tooltiptext = Itxi fitxa
+
+## Tab Groups
+
+tab-group-editor-name-label = Izena
+tab-group-editor-name-field =
+    .placeholder = Adibidea: erosketak
+tab-group-editor-cancel =
+    .label = Utzi
+    .accesskey = z

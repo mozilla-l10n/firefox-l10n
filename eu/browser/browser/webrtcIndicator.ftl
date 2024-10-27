@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = fitxa
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Jatorri ezezaguna
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Gailuak partekatzen dituzten fitxak
     .accesskey = G
-
 webrtc-sharing-window = Beste aplikazio baten leihoa ari zara partekatzen.
 webrtc-sharing-browser-window = { -brand-short-name } ari zara partekatzen.
 webrtc-sharing-screen = Pantaila osoa ari zara partekatzen.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kontrolatu partekatzea
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kontrolatu partekatzea "{ $streamTitle }" fitxan
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera partekatzen "{ $streamTitle }" fitxarekin
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera fitxa batekin partekatzen
            *[other] Kamera { $tabCount } fitxekin partekatzen
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofonoa partekatzen "{ $streamTitle }" fitxarekin
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofonoa fitxa batekin partekatzen
            *[other] Mikrofonoa { $tabCount } fitxekin partekatzen
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Aplikazio bat partekatzen "{ $streamTitle }"(r)ekin
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Fitxa batekin aplikazio bat partekatzen
            *[other] { $tabCount } fitxekin aplikazioak partekatzen
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Pantaila partekatzen "{ $streamTitle }" fitxarekin
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Pantaila fitxa batekin partekatzen
            *[other] Pantaila { $tabCount } fitxekin partekatzen
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Leihoa partekatzen "{ $streamTitle }" fitxarekin
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Leihoa fitxa batekin partekatzen
            *[other] Leihoa { $tabCount } fitxekin partekatzen
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Fitxa partekatzen "{ $streamTitle }" fitxarekin
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,10 @@ webrtc-allow-share-camera-and-audio-capture = Baimendu { $origin } guneak zure k
 webrtc-allow-share-screen-and-microphone = Baimendu { $origin } guneak zure kamera erabili eta zure pantaila ikustea?
 webrtc-allow-share-screen-and-audio-capture = Baimendu { $origin } guneak fitxa honetako audioa entzun eta zure pantaila ikustea?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Baimendu fitxategi lokal honek fitxa honetako audioa entzutea?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +175,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Baimendu { $orig
 
 webrtc-share-screen-warning = Partekatu pantailak soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
 webrtc-share-browser-warning = Partekatu { -brand-short-name } soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
-
 webrtc-share-screen-learn-more = Argibide gehiago
 webrtc-pick-window-or-screen = Hautatu leihoa edo pantaila
 webrtc-share-entire-screen = Pantaila osoa
@@ -221,7 +210,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Gogoratu erabakia
 webrtc-mute-notifications-checkbox = Mututu webgunearen jakinarazpenak partekatzea aktibo dagoenean
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }(e)k ezin du zure pantailarako sarbide iraunkorra baimendu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }(e)k ezin du zure fitxaren audiorako sarbide iraunkorra baimendu zein fitxa partekatu galdetu gabe.
 webrtc-reason-for-no-permanent-allow-insecure = Gune honetarako zure konexioa ez da segurua. Zure babeserako, saio honetarako bakarrik baimenduko du sarbidea { -brand-short-name }(e)k.

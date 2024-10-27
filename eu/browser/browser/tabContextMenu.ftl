@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Fitxa berria azpian
     .accesskey = z
+tab-context-new-group =
+    .label = Talde berria
+    .accesskey = b
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
