@@ -298,3 +298,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Lat att
     .aria-label = Lat att
+fxa-menu-message-sign-up-button = Registrer deg
+fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
+fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
+fxa-menu-message-mobile-collapsed-text = Synkroniser med telefonen din

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Vurderingskontrollør
+sidebar-options-menu-button =
+    .title = Opne meny
 
 ## Labels for sidebar history panel
 
@@ -56,12 +58,6 @@ sidebar-customize-button-header =
     .label = Sidestolpeknapp
 sidebar-customize-position-header =
     .label = Sidestolpe-plassering
-sidebar-customize-settings-header =
-    .label = Innstillingar for sidestolpe
-sidebar-visibility-always-show =
-    .label = Vis alltid
-sidebar-visibility-hide-sidebar =
-    .label = Skjul sidestolpe
 
 ## Labels for sidebar context menu items
 
@@ -130,12 +126,8 @@ sidebar-syncedtabs-title = Faner frå andre einingar
 synced-tabs-context-close-tab-title =
     .title = Lat att fana på { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Vis sidestolpe
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Skjul sidestolpe
 sidebar-widget-show-sidebar =
     .tooltiptext = Vis sidestolpe
     .label = Sidestolpar

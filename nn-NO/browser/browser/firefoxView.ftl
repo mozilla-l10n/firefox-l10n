@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } % fullført
 firefoxview-tabpickup-step-signin-header = Byt enkelt mellom einingar
 firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, loggar du først inn eller opprettar ein konto.
 firefoxview-tabpickup-step-signin-primarybutton = Hald fram
+firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle einingane dine
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-syncedtabs-signin-header = Hent faner same kvar du er
 firefoxview-syncedtabs-signin-description = Logg på kontoen din for å sjå faner frå dei andre einingane dine med { -brand-product-name }. Dersom du ikkje har ein konto, tek vi deg gjennom stega for å registrere deg.

@@ -179,3 +179,6 @@ tabbrowser-manager-close-tab =
 
 tab-group-editor-title-edit = Handsam fanegruppe
 tab-group-editor-name-label = Namn
+tab-group-editor-cancel =
+    .label = Avbryt
+    .accesskey = A

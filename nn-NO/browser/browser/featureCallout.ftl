@@ -47,6 +47,7 @@ callout-pdfjs-draw-button = Eg forstår!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Ikkje meininga å late att den fana?
+fx-view-discoverability-subtitle = Finn og opne den raskt her. Vi fører logg over dei nyleg attlatne fanene for deg.
 fx-view-discoverability-primary-button-label = Opne { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Ignorer
 
