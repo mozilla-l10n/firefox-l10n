@@ -310,3 +310,4 @@ fxa-menu-message-backup-data-collapsed-text = Faça backup dos dados do navegado
 fxa-menu-message-backup-sync-primary-text = Mantenha seus dados seguros e sincronizados
 fxa-menu-message-backup-sync-secondary-text = A sincronização cria cópia de segurança da maioria dos seus dados, para você poder acessar em qualquer lugar em que use o { -brand-short-name }.
 fxa-menu-message-mobile-primary-text = Envie abas para seu celular
+fxa-menu-message-mobile-secondary-text = Continue de onde parou num instante ao ter suas abas sincronizadas com um dispositivo móvel.
