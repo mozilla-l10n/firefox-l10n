@@ -122,6 +122,7 @@ certerror-mitm-title = Un software al impedìs a { -brand-short-name } di coneti
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = Atenzion: risi pe sigurece
+fp-certerror-body-title = Sta atent. Alc nol è just.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
