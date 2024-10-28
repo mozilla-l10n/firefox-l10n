@@ -73,6 +73,11 @@ open-in-new-window-for-csp-or-xfo-error = Abrir site em nova janela
 csp-xfo-blocked-long-desc = Para proteger sua segurança, { $hostname } não permite que o { -brand-short-name } exiba a página se outro site o tiver incorporado. Para ver esta página, você precisa abrir em uma nova janela.
 fp-certerror-view-certificate-link = Ver o certificado do site
 fp-certerror-return-to-previous-page-recommended-button = Voltar (recomendado)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = O site está configurado para permitir somente conexões seguras, mas há um problema com o certificado do site. É possível que alguém mal-intencionado tenha criado um algo que esteja tentando se passar pelo site. Sites usam certificados emitidos por uma autoridade certificadora para comprovar que realmente são quem afirmam ser. O { -brand-short-name } não confia neste site porque seu certificado não é válido para { $hostname }. O certificado só é válido para: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Não muito. Provavelmente há um problema no próprio site.
 fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se você estiver tentando visitar este site em uma intranet corporativa, sua equipe de TI pode ter usado certificados auto-assinados. Eles podem ajudar a verificar a autenticidade.
