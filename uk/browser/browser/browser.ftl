@@ -553,8 +553,6 @@ urlbar-page-action-button =
     .tooltiptext = Дії сторінки
 urlbar-revert-button =
     .tooltiptext = Показати адресу в панелі адреси
-urlbar-show-page-actions-button =
-    .tooltiptext = Показати всі дії для сторінки
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -624,12 +622,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Пошук у { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Пошук за допомогою { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, вибрати пошукову систему
-    .tooltiptext = { $engine }, вибрати пошукову систему
 urlbar-searchmode-dropmarker =
     .tooltiptext = Вибрати пошукову систему
 urlbar-searchmode-bookmarks =
@@ -644,6 +636,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Закрити
 urlbar-searchmode-popup-description = Цього разу шукати з:
 urlbar-searchmode-popup-search-settings = Налаштування пошуку
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, вибрати пошукову систему
+    .tooltiptext = { $engine }, вибрати пошукову систему
+urlbar-searchmode-button-no-engine =
+    .label = Ярлик не вибрано, виберіть ярлик
+    .tooltiptext = Ярлик не вибрано, виберіть ярлик
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -966,12 +967,18 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватний перегляд
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Приватний перегляд
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Запобігання втраті даних (DLP) від { $agentName }. Натисніть, щоб дізнатися більше.
 content-analysis-panel-title = Захист даних
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ваша організація використовує <b>{ $agentName }</b> для захисту від втрати даних. <a data-l10n-name="info">Докладніше</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ваша організація використовує { $agentName } для захисту від втрати даних. <a data-l10n-name="info">Докладніше</a>

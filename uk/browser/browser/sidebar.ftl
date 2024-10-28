@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-бот з ШІ
 menu-view-review-checker =
     .label = Засіб перевірки відгуків
+sidebar-options-menu-button =
+    .title = Відкрити меню
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Розгорнути та згорнути бічну панель
 sidebar-visibility-setting-hide-sidebar =
     .label = Показати та приховати бічну панель
-sidebar-customize-settings-header =
-    .label = Налаштування бічної панелі
-sidebar-visibility-always-show =
-    .label = Завжди показувати
-sidebar-visibility-hide-sidebar =
-    .label = Приховати бічну панель
 
 ## Labels for sidebar context menu items
 
