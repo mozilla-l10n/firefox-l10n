@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Stampe doprant il dialic di stampe dal sisteme.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloche l'acès a cierts sîts web. Consulte la documentazion par vê plui detais sul formât.
 policy-Windows10SSO = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permet la utilizazion di Windows single sign-on pai accounts Microsoft Entra.

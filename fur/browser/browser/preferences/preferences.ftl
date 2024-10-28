@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Vierç in automatic { -brand-short-name } cuant che il computer si invie
     .accesskey = V
 windows-launch-on-login-disabled = Cheste opzion e je stade disativade in Windows. Par cambiâle, visite <a data-l10n-name="startup-link">Aplicazions di inviament</a> tes impostazions di sisteme.
+windows-launch-on-login-profile-disabled = Ative cheste preference selezionant “{ profile-manager-use-selected.label }” tal barcon “Sielte dal profîl utent”.
 startup-restore-warn-on-quit =
     .label = Vise cuant che tu jessis dal navigadôr
 disable-extension =

@@ -246,6 +246,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Cree un account
 device-migration-fxa-spotlight-getting-new-device-header-2 = Gnûf dispositîf tal to futûr?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Sta daûr di cualchi sempliç passaç par puartâ cun te segnelibris, cronologjie e passwords cuant che tu tachis a doprâ un gnûf dispositîf.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cemût salvâ i miei dâts
+device-migration-fxa-spotlight-sync-header = Navighe cence pierdi un colp
+device-migration-fxa-spotlight-sync-body = Sincronize dutis lis tôs informazions plui impuartantis, come segnelibris e passwords, e protezilis cu la criptografie. Tu podarâs recuperâlis dapardut là che tu dopris { -brand-product-name }.
 
 ## Set as Default PDF Reader Infobar
 
@@ -282,3 +284,9 @@ tail-fox-spotlight-title = Liberiti des fastidiosis spiis che ti stan daûr
 tail-fox-spotlight-subtitle = Salude par simpri lis publicitâts fastidiosis che ti stan daûr dapardut là che tu vâs e sint internet come un puest plui sigûr e svelt.
 tail-fox-spotlight-primary-button = Vierç i miei colegaments cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = No cumò
+
+## Root Certificate Succession Infobar
+
+
+## FxA Menu Message variants
+
