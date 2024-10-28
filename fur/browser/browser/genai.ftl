@@ -60,3 +60,38 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Domande a { $provider }…
+genai-shortcuts-hide =
+    .label = Plate la scurte pai chatbot
+
+## Chatbot header
+
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Sielç un chatbot
+genai-header-options-button =
+    .title = Vierç menù
+genai-header-close-button =
+    .title = Siere
+genai-provider-view-details =
+    .label = Mostre detais chatbot
+genai-provider-about-chatbots =
+    .label = Informazions su chescj chatbots
+genai-options-reload-generic =
+    .label = Torne cjame chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Torne cjame { $provider }
+genai-options-show-shortcut =
+    .label = Mostre scurte cuant che al ven selezionât un test
+genai-options-hide-shortcut =
+    .label = Plate scurte cuant che al ven selezionât un test
+genai-options-about-chatbot =
+    .label = Informazions sui chatbots IA in { -brand-short-name }
+
+## Chatbot onboarding
+
+genai-onboarding-header = Fâs un sunt, gjenere ideis e tant altri intant che tu navighis
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

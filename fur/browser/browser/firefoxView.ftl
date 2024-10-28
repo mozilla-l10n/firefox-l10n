@@ -234,6 +234,7 @@ firefoxview-dont-remember-history-empty-header = Nuie ce mostrâ
 firefoxview-dont-remember-history-empty-description = Protezi la tô riservatece e je la nestre prioritât. Par chest motîf tu puedis decidi lis ativitâts che { -brand-short-name } al à di visâsi.
 firefoxview-dont-remember-history-empty-description-two = In base aes tôs impostazions corintis, { -brand-short-name } nol à di visâsi lis tôs ativitâts dilunc la navigazion. Par cambiâ, <a data-l10n-name="history-settings-url-two">tes impostazions de cronologjie, stabilìs che il to navigadôr al salvi la cronologjie</a>.
 firefoxview-dont-remember-history-empty-header-2 = Tu sês tu a decidi ce salvâ su { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = Pal moment { -brand-short-name } nol si impense de tô ativitât di navigazion. Par cambiâ cheste impostazion, <a data-l10n-name="history-settings-url-two">inzorne lis impostazions relativis ae cronologjie</a>.
 
 ##
 
