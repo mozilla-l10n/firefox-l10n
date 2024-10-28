@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbotti
 menu-view-review-checker =
     .label = Arvostelujen tarkistin
+sidebar-options-menu-button =
+    .title = Avaa valikko
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Laajenna ja supista sivupalkki
 sidebar-visibility-setting-hide-sidebar =
     .label = Näytä ja piilota sivupalkki
-sidebar-customize-settings-header =
-    .label = Sivupalkin asetukset
-sidebar-visibility-always-show =
-    .label = Näytä aina
-sidebar-visibility-hide-sidebar =
-    .label = Piilota sivupalkki
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Välilehdet muista laitteista
 synced-tabs-context-close-tab-title =
     .title = Sulje välilehti laitteella { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Laajenna sivupalkki
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Supista sivupalkki
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Näytä sivupalkki
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Piilota sivupalkki
 sidebar-widget-expand-sidebar =
     .tooltiptext = Laajenna sivupalkki
     .label = Sivupaneelit
