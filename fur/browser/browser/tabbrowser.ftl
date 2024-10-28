@@ -172,3 +172,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ative audio te schede
 tabbrowser-manager-close-tab =
     .tooltiptext = Siere schede
+
+## Tab Groups
+
+tab-group-editor-title-create = Cree grup di schedis
+tab-group-editor-title-edit = Gjestìs grup di schedis
+tab-group-editor-name-label = Non
+tab-group-editor-name-field =
+    .placeholder = Esepli: Compris
+tab-group-editor-cancel =
+    .label = Anule
+    .accesskey = A

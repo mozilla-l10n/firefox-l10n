@@ -101,6 +101,8 @@ sidebar-menu-bookmarks-label =
     .label = Segnelibris
 sidebar-menu-customize-label =
     .label = Personalize sbare laterâl
+sidebar-menu-review-checker-label =
+    .label = Verifiche recensions
 
 ## Headings for sidebar menu panels.
 
@@ -110,12 +112,35 @@ sidebar-menu-history-header =
     .heading = Cronologjie
 sidebar-menu-syncedtabs-header =
     .heading = Schedis di altris dispositîfs
+sidebar-panel-header-close-button =
+    .tooltiptext = Siere
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Personalize sbare laterâl
+sidebar-history-title = Cronologjie
+sidebar-syncedtabs-title = Schedis di altris dispositîfs
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Siere schede su { $deviceName }
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Slargje la sbare laterâl
+    .label = Sbaris laterâls
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Strenç la sbare laterâl
+    .label = Sbaris laterâls
+sidebar-widget-show-sidebar =
+    .tooltiptext = Mostre la sbare laterâl
+    .label = Sbaris laterâls
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Plate la sbare laterâl
+    .label = Sbaris laterâls
