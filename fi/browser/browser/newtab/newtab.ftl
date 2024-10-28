@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Tallenna { -pocket-brand-name }-palveluun
 newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
 newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
 newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
+newtab-menu-about-fakespot = Tietoja { -fakespot-brand-name }ista
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
