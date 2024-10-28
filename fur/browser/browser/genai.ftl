@@ -111,7 +111,19 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Plui informazions su Le Chat
 genai-onboarding-select-header = Selezione un toc di test par viodi sugjeriments
+genai-onboarding-select-description = Cuant che tu selezionis un toc di test, ti sugjerirìn cualchi domande (“prompt”) che tu puedis inviâ al chatbot. Tu puedis ancje scrivi une tô version des richiestis.
+genai-onboarding-select-primary = Scomence a chatâ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Gjenerazion di test e codiç
+genai-onboarding-claude-analyze = Analisi di documents e imagjins
+genai-onboarding-claude-price = Opzions gratuitis e a paiament; account necessari
+genai-onboarding-chatgpt-generate = Gjenerazion di test, imagjins e codiç
+genai-onboarding-chatgpt-analyze = Analisi di documents e imagjins
+genai-onboarding-chatgpt-price = Opzions gratuitis e a paiament; account necessari par cualchi paîs e par cualchi ativitât
+genai-onboarding-gemini-generate = Gjenerazion di test, imagjins e codiç
+genai-onboarding-gemini-analyze = Analisi di imagjins (gratuite) e di documents (a paiament)
+genai-onboarding-gemini-price = Opzions gratuitis e a paiament; account necessari
+genai-onboarding-huggingchat-generate = Gjenerazion di test e codiç
