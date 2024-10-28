@@ -919,7 +919,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = 要填写或管理密码，需验证设备登录信息
+    .label = 填写或管理密码前需验证设备登录信息
 forms-primary-pw-learn-more-link = 详细了解
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -974,7 +974,7 @@ autofill-payment-methods-checkbox-submessage = 包括信用卡和借记卡
 autofill-saved-payment-methods-button = 保存的付款方式
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 要填写和管理付款方式，需验证设备登录信息。
+autofill-reauth-payment-methods-checkbox = 填写和管理付款方式前需验证设备登录信息
     .accesskey = o
 
 ## Privacy Section - History
