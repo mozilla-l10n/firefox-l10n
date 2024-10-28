@@ -307,6 +307,7 @@ fxa-menu-message-backup-data-primary-text = Varmuuskopioi selaimesi tiedot
 fxa-menu-message-backup-data-secondary-text = Suojaa automaattisesti kirjanmerkit, salasanat ja muut tiedot kaikilla laitteillasi.
 fxa-menu-message-backup-data-collapsed-text = Varmuuskopioi selaimen tiedot
 fxa-menu-message-backup-sync-primary-text = Pidä tietosi turvassa ja synkronoituna
+fxa-menu-message-backup-sync-secondary-text = Synkronointi varmuuskopioi suurimman osan tiedoistasi, jotta voit käyttää niitä kaikkialla, missä käytät { -brand-short-name }ia.
 fxa-menu-message-backup-sync-collapsed-text = Synkronoi ja varmuuskopioi tiedot
 fxa-menu-message-mobile-primary-text = Lähetä välilehdet puhelimeesi
 fxa-menu-message-mobile-collapsed-text = Synkronoi puhelimesi kanssa
