@@ -375,3 +375,7 @@ onboarding-new-user-survey-familiarity-based-option-1 = Jeg er helt ny
 onboarding-new-user-survey-familiarity-based-option-2 = Jeg har brukt den en del
 onboarding-new-user-survey-familiarity-based-option-3 = Jeg er veldig kjent med den
 onboarding-new-user-survey-familiarity-based-option-4 = Jeg brukte den tidligere, men det er en stund siden
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-genai-sidebar-secondary-button = Begynn å surfe

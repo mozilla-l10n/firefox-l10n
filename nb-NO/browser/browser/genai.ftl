@@ -51,3 +51,22 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
+
+## Chatbot header
+
+genai-header-close-button =
+    .title = Lukk
+
+## Chatbot onboarding
+
+genai-onboarding-primary = Fortsett
+genai-onboarding-secondary = Lukk
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Les mer om ChatGPT
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

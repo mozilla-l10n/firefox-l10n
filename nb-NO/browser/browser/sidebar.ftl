@@ -50,12 +50,6 @@ sidebar-horizontal-tabs =
     .label = Horisontale faner
 sidebar-customize-tabs-header =
     .label = Fane-innstillinger
-sidebar-customize-settings-header =
-    .label = Innstillinger for sidestolpe
-sidebar-visibility-always-show =
-    .label = Vis alltid
-sidebar-visibility-hide-sidebar =
-    .label = Skjul sidestolpe
 
 ## Labels for sidebar context menu items
 
@@ -104,6 +98,12 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner fra andre enheter
+sidebar-panel-header-close-button =
+    .tooltiptext = Lukk
+
+## Titles for sidebar menu panels.
+
+sidebar-history-title = Historikk
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -113,3 +113,6 @@ sidebar-menu-syncedtabs-header =
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lukk fanen på { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+

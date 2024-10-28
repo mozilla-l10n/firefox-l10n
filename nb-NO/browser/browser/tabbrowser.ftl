@@ -174,3 +174,7 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Skru på fanelyd
 tabbrowser-manager-close-tab =
     .tooltiptext = Lukk fane
+
+## Tab Groups
+
+tab-group-editor-name-label = Navn
