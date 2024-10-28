@@ -550,8 +550,6 @@ urlbar-page-action-button =
     .tooltiptext = Azions par cheste pagjine
 urlbar-revert-button =
     .tooltiptext = Mostre la direzion te sbare de direzion
-urlbar-show-page-actions-button =
-    .tooltiptext = Mostre dutis lis azions pe pagjine
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -621,12 +619,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Cîr { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Cîr cun { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, sielç un motôr di ricercje
-    .tooltiptext = { $engine }, sielç un motôr di ricercje
 urlbar-searchmode-dropmarker =
     .tooltiptext = Sielç un motôr di ricercje
 urlbar-searchmode-bookmarks =
@@ -641,6 +633,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Siere
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
 urlbar-searchmode-popup-search-settings = Impostazions ricercje
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, sielç un motôr di ricercje
+    .tooltiptext = { $engine }, sielç un motôr di ricercje
+urlbar-searchmode-button-no-engine =
+    .label = Nissune scurte selezionade, sielç une scurte
+    .tooltiptext = Nissune scurte selezionade, sielç une scurte
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -963,12 +964,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Esplorazion privade
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navigazion privade
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevenzion pierdite dâts (DLP) midiant { $agentName }. Fâs clic par vê plui informazions.
 content-analysis-panel-title = Protezion dâts
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = La tô organizazion e dopre <b>{ $agentName }</b> par parâsi des pierditis di dâts. <a data-l10n-name="info">Scuvierç di plui</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = La tô organizazion e dopre { $agentName } par parâsi des pierditis di dâts. <a data-l10n-name="info">Scuvierç di plui</a>
