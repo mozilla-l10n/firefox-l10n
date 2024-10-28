@@ -303,6 +303,7 @@ fxa-menu-message-close-button =
     .aria-label = Sulje
 fxa-menu-message-sign-up-button = Rekisteröidy
 fxa-menu-message-sync-devices-primary-text = Synkronoi kaikki laitteesi
+fxa-menu-message-sync-devices-secondary-text = Hyödynnä tietojasi, kuten kirjanmerkkejä ja salasanoja, kaikkialla missä käytät { -brand-short-name }ia.
 fxa-menu-message-sync-devices-collapsed-text = Synkronoi kaikki laitteesi
 fxa-menu-message-backup-data-primary-text = Varmuuskopioi selaimesi tiedot
 fxa-menu-message-backup-data-secondary-text = Suojaa automaattisesti kirjanmerkit, salasanat ja muut tiedot kaikilla laitteillasi.
