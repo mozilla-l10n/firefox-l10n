@@ -302,3 +302,4 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο
+fxa-menu-message-sign-up-button = Εγγραφή
