@@ -68,6 +68,15 @@ open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permetarà a { -brand-short-name } di visualizâ la pagjine se un altri sît le à incorporade. Par viodi cheste pagjine tu âs di vierzile intun gnûf barcon.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Codiç di erôr: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Scuvierç di plui sui erôrs des conessions siguris
+fp-learn-more-about-cert-issues = Scuvierç di plui su chescj gjenars di problemis sui certificâts
+fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai problemis relatîfs a date e ore
 
 ## Messages used for certificate error titles
 
@@ -109,3 +118,10 @@ networkProtocolError-title = Erôr di protocol di rêt
 nssBadCert-title = Atenzion: potenziâl pericul pe sigurece se si continue
 nssBadCert-sts-title = No si è conetût: potenziâl probleme di sigurece
 certerror-mitm-title = Un software al impedìs a { -brand-short-name } di conetisi in maniere sigure a chest sît
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
