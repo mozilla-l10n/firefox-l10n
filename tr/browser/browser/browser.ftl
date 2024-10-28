@@ -640,6 +640,9 @@ urlbar-searchmode-popup-search-settings = Arama ayarları
 urlbar-searchmode-button2 =
     .label = { $engine }, arama motorunu değiştir
     .tooltiptext = { $engine }, arama motorunu değiştir
+urlbar-searchmode-button-no-engine =
+    .label = Kısayol seçilmemiş, kısayol seçin
+    .tooltiptext = Kısayol seçilmemiş, kısayol seçin
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
