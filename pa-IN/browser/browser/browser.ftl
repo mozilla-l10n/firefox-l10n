@@ -557,8 +557,6 @@ urlbar-page-action-button =
     .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
 urlbar-revert-button =
     .tooltiptext = ਸਿਰਨਾਵੇਂ ਨੂੰ ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਵੇਖਾਓ
-urlbar-show-page-actions-button =
-    .tooltiptext = ਸਾਰੀਆਂ ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ ਵੇਖਾਓ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -628,12 +626,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ਨਾਲ ਖੋਜੋ
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
-    .tooltiptext = { $engine }, ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
 urlbar-searchmode-dropmarker =
     .tooltiptext = ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
 urlbar-searchmode-bookmarks =
@@ -648,6 +640,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
 urlbar-searchmode-popup-search-settings = ਖੋਜ ਸੈਟਿੰਗਾਂ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, ਇੱਕ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ
+    .tooltiptext = { $engine }, ਇੱਕ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ
+urlbar-searchmode-button-no-engine =
+    .label = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
+    .tooltiptext = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਕੋਈ ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -970,12 +971,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName } ਵਲੋਂ ਡਾਟਾ ਨੁਕਸਾਨ ਰੋਕੂ (DLP)। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਲਿੱਕ ਕਰੋ।
 content-analysis-panel-title = ਡਾਟਾ ਰੋਕੂ
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = ਤੁਹਾਡਾ ਸੰਗਠਨ <b>{ $agentName }</b> ਨੂੰ ਡਾਟਾ ਨੁਕਸਾਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਲਈ ਵਰਤਦਾ ਹੈ। <a data-l10n-name="info">ਹੋਰ ਜਾਣੋ</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = ਤੁਹਾਡਾ ਸੰਗਠਨ { $agentName } ਨੂੰ ਡਾਟਾ ਨੁਕਸਾਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਲਈ ਵਰਤਦੀ ਹੈ। <a data-l10n-name="info">ਹੋਰ ਜਾਣੋ</a>
