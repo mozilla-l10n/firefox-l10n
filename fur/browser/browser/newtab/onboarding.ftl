@@ -412,5 +412,7 @@ onboarding-horizontal-tabs-description =
     .aria-description = Un barcon dal navigadôr cu lis schedis te part superiôr.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prove un chatbot IA te sbare laterâl
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Met in struc i contignûts dal web, gjenere ideis, bute jù stampons di messaç — dut intant che tu navighis. Sielç tra varis furnidôrs, cambilu cuant che tu vûs. <a data-l10n-name="learn-more">Plui informazions</a>
 onboarding-genai-sidebar-primary-button = Sielç un chatbot
 onboarding-genai-sidebar-secondary-button = Scomence a navigâ
