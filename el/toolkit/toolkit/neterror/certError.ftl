@@ -71,6 +71,14 @@ open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτήν τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
+fp-certerror-view-certificate-link = Προβολή πιστοποιητικού ιστοτόπου
+fp-certerror-return-to-previous-page-recommended-button = Επιστροφή (Προτείνεται)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Κωδικός σφάλματος: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +120,10 @@ networkProtocolError-title = Σφάλμα πρωτοκόλλου δικτύου
 nssBadCert-title = Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας
 nssBadCert-sts-title = Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας
 certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτόν τον ιστότοπο
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
