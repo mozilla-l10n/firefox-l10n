@@ -79,6 +79,8 @@ fp-certerror-return-to-previous-page-recommended-button = Torne indaûr (conseâ
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Il sît al è configurât par permeti dome conessions siguris, ma al è vignût fûr un probleme cul certificât dal sît. Al è pussibil che un malintenzionât al stedi cirint di sostituîsi al sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol pense che chest sît al sedi atendibil parcè che il so certificât nol è valit par { $hostname }. Il certificât al è valit nome par: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Forsit nol è nuie, viodût che al è probabil che al sedi un probleme cul sît stes. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la proprie identitât. Ma se tu sês colegât/colegade a une rêt aziendâl, il to grup di supuart al podarès vê plui informazions. Se tu stâs doprant un software antivirus, prove a cirî informazions su potenziâi conflits o problemis cognossûts.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = No masse. Al è probabil che al sedi un probleme cul sît stes.
 fp-certerror-self-signed-important-note = NOTE IMPUARTANTE: se tu stâs cirint di visitâ chest sît suntune intranet aziendâl, il personâl IT al podarès doprâ certificâts firmâts in autonomie. A puedin judâti a verificâ la lôr autenticitât.
 # Variables:
