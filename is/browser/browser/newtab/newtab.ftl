@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Vista í { -pocket-brand-name }
 newtab-menu-delete-pocket = Eyða úr { -pocket-brand-name }
 newtab-menu-archive-pocket = Safna í { -pocket-brand-name }
 newtab-menu-show-privacy-info = Styrktaraðilar okkar og friðhelgi þín
+newtab-menu-about-fakespot = Um { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

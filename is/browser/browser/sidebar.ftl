@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-gervigreindarspjall
 menu-view-review-checker =
     .label = Umsagnaskoðun
+sidebar-options-menu-button =
+    .title = Opna valmynd
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Fella út og draga saman hliðarstikuna
 sidebar-visibility-setting-hide-sidebar =
     .label = Birta og fela hliðarstiku
-sidebar-customize-settings-header =
-    .label = Stillingar hliðarstiku
-sidebar-visibility-always-show =
-    .label = Sýna alltaf
-sidebar-visibility-hide-sidebar =
-    .label = Fela hliðarstiku
 
 ## Labels for sidebar context menu items
 

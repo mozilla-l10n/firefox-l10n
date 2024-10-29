@@ -71,6 +71,19 @@ open-in-new-window-for-csp-or-xfo-error = Opna vefsvæði í nýjum glugga
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Til að tryggja öryggi þitt mun { $hostname } ekki leyfa { -brand-short-name } að birta síðuna ef annað vefsvæði hefur fellt hana inn í sínar síður. Til að skoða þessa síðu þarftu að opna hana í nýjum glugga.
+fp-certerror-view-certificate-link = Skoða skilríki vefsvæðis
+fp-certerror-return-to-previous-page-recommended-button = Fara til baka (ráðlagt)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ekki margt. Það virðist vera vandamál með þetta vefsvæði.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Villunúmer: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Lærðu meira um bilanir í öruggri tengingu
+fp-learn-more-about-cert-issues = Lærðu meira um þessar tegundir vandamála með skilríki
+fp-learn-more-about-time-related-errors = Frekari upplýsingar um lagfæringar á tímatengdum villum
 
 ## Messages used for certificate error titles
 
@@ -112,3 +125,20 @@ networkProtocolError-title = Villa í netsamskiptum
 nssBadCert-title = Viðvörun: Hugsanleg öryggisáhætta framundan
 nssBadCert-sts-title = Tengdist ekki: Mögulegt öryggisvandamál
 certerror-mitm-title = Einhver hugbúnaður kemur í veg fyrir að { -brand-short-name } tengist öruggt við þetta vefsvæði
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Aðvörun: Öryggisáhætta
+fp-certerror-body-title = Farðu varlega. Eitthvað lítur ekki út fyrir að vera rétt.
+fp-certerror-why-site-dangerous = Hvað lætur vefsvæðið líta hættulega út?
+fp-certerror-what-can-you-do = Hvað getur þú gert í því?
+fp-certerror-advanced-title = Ítarlegt
+fp-certerror-advanced-button = Ítarlegt
+fp-certerror-hide-advanced-button = Fela ítarlegt
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Halda áfram á { $hostname } (áhættusamt)
+fp-certerror-intro = { -brand-short-name } kom auga á mögulega alvarlegt öryggisvandamál með <strong>{ $hostname }</strong>. Einhver sem þykist vera vefsvæðið gæti reynt að stela atriðum eins og kreditkortaupplýsingum, lykilorðum eða tölvupósti.
+fp-certerror-expired-into = { -brand-short-name } kom auga á öryggisvandamál með <strong>{ $hostname }</strong>. Annaðhvort er vefsvæðið ekki rétt uppsett eða klukka tækisins þíns er stillt á ranga dagsetningu/tíma.
