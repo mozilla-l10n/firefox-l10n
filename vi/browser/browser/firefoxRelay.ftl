@@ -14,7 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } không thể tì
 ##
 
 firefox-relay-must-login-to-fxa = Bạn phải đăng nhập vào { -fxaccount-brand-name } để sử dụng { -relay-brand-name }.
-firefox-relay-must-login-to-account = Đăng nhập vào tài khoản của bạn để sử dụng mặt nạ email { -relay-brand-name } của bạn.
+firefox-relay-must-login-to-account = Đăng nhập vào tài khoản của bạn để sử dụng email ẩn danh { -relay-brand-name } của bạn.
 firefox-relay-get-unlimited-masks =
     .label = Muản lý mặt nạ
     .accesskey = M
@@ -22,10 +22,10 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
-firefox-relay-opt-in-subtitle-1 = Sử dụng mặt nạ email { -relay-brand-name }
-firefox-relay-use-mask-title = Sử dụng mặt nạ email { -relay-brand-name }
+firefox-relay-opt-in-subtitle-1 = Sử dụng email ẩn danh { -relay-brand-name }
+firefox-relay-use-mask-title = Sử dụng email ẩn danh { -relay-brand-name }
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Sử dụng mặt nạ email
+    .label = Sử dụng email ẩn danh
     .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = Đừng hỏi lại tôi điều này

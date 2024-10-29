@@ -1030,8 +1030,8 @@ refresh-blocked-allow =
 firefox-relay-offer-why-to-use-relay = Mặt nạ an toàn, dễ sử dụng của chúng tôi bảo vệ danh tính của bạn và ngăn chặn thư rác bằng cách ẩn địa chỉ email của bạn.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Tất cả email gửi đến mặt nạ email của bạn sẽ được chuyển đến <strong>{ $useremail }</strong> (trừ khi bạn quyết định chặn chúng).
-firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng mặt nạ email”, bạn đồng ý với <label data-l10n-name="tos-url">điều khoản sử dụng</label> và <label data-l10n-name="privacy-url">thông báo về quyền riêng tư</label>.
+firefox-relay-offer-what-relay-provides = Tất cả email gửi đến email ẩn danh của bạn sẽ được chuyển đến <strong>{ $useremail }</strong> (trừ khi bạn quyết định chặn chúng).
+firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng email ẩn danh”, bạn đồng ý với <label data-l10n-name="tos-url">điều khoản sử dụng</label> và <label data-l10n-name="privacy-url">thông báo về quyền riêng tư</label>.
 
 ## Add-on Pop-up Notifications
 

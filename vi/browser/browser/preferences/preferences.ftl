@@ -887,9 +887,9 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = Tìm hiểu thêm
 preferences-relay-integration-checkbox =
-    .label = Đề xuất mặt nạ email { -relay-brand-name } để bảo vệ địa chỉ email của bạn
+    .label = Đề xuất email ẩn danh { -relay-brand-name } để bảo vệ địa chỉ email của bạn
 preferences-relay-integration-checkbox2 =
-    .label = Đề xuất mặt nạ email { -relay-brand-name } để bảo vệ địa chỉ email của bạn
+    .label = Đề xuất email ẩn danh { -relay-brand-name } để bảo vệ địa chỉ email của bạn
     .accesskey = r
 relay-integration-learn-more-link = Tìm hiểu thêm
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
