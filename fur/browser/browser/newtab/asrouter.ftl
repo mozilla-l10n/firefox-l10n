@@ -290,6 +290,29 @@ tail-fox-spotlight-secondary-button = No cumò
 
 root-certificate-succession-infobar-january-message = <strong>Al è pussibil che lis versions plui vecjis di { -brand-short-name } a vedin problemis tacant cui 14 di Zenâr dal 2025.</strong>
 root-certificate-succession-infobar-march-message = <strong>Inzorne par continuâ a doprâ { -brand-short-name } dopo dai 14 di Març dal 2025.</strong>
+root-certificate-succession-infobar-link = Parcè scugnio inzornâ?
+root-certificate-succession-infobar-primary-button =
+    .label = Inzorne daurman
+    .accesskey = I
+root-certificate-succession-infobar-secondary-button =
+    .label = Plui indevant
+    .accesskey = P
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Siere
+    .aria-label = Siere
+fxa-menu-message-sign-up-button = Regjistriti
+fxa-menu-message-sync-devices-primary-text = Sincronize ducj i tiei dispositîfs
+fxa-menu-message-sync-devices-secondary-text = Oten intun lamp lis tôs informazions — come segnelibris e passwords — dapardut là che tu dopris { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sincronize ducj i tiei dispositîfs
+fxa-menu-message-backup-data-primary-text = Fâs il backup dai dâts dal navigadôr
+fxa-menu-message-backup-data-secondary-text = Protêç in automatic segnelibris, passwords e altris informazions su ducj i tiei dispositîfs.
+fxa-menu-message-backup-data-collapsed-text = Fâs il backup dai dâts dal navigadôr
+fxa-menu-message-backup-sync-primary-text = Manten al sigûr e sincronizâts i tiei dâts
+fxa-menu-message-backup-sync-secondary-text = La sincronizazion e fâs il backup de plui part dai tiei dâts, cussì tu puedis doprâju dapardut là che tu dopris { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronize e fâs il backup dai tiei dâts
+fxa-menu-message-mobile-primary-text = Mande schedis al to telefon
+fxa-menu-message-mobile-secondary-text = Ripie intun lamp di dulà che tu jeris restât sincronizant lis schedis cuntun dispositîf mobil.
+fxa-menu-message-mobile-collapsed-text = Sincronize cul to telefon

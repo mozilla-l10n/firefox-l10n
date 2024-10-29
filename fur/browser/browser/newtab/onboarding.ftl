@@ -376,3 +376,37 @@ onboarding-new-user-survey-familiarity-based-option-1 = No lu cognòs
 onboarding-new-user-survey-familiarity-based-option-2 = Lu ai doprât ogni tant
 onboarding-new-user-survey-familiarity-based-option-3 = Lu cognòs une vore ben
 onboarding-new-user-survey-familiarity-based-option-4 = Une volte lu dopravi, ma al è passât un pôc di timp
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Continus dulà che tu preferissis tignî lis tôs schedis
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Tu puedis cambiâ idee cuant che tu vûs tes impostazions de sbare laterâl.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Schedis in bande
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Schedis parsore
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = A son rivadis lis schedis verticâls
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Introduzion aes schedis verticâls
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prove a meti lis tôs schedis in bande. Tu puedis cambiâ idee cuant che tu vûs tes impostazions de sbare laterâl.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prove lis schedis verticâls
+onboarding-flair-text = Gnovis!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Manten lis schedis orizontâls
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Un barcon dal navigadôr che al mostre lis schedis dilunc il flanc dal schermi te sbare laterâl di { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Un barcon dal navigadôr che al mostre lis schedis dilunc il flanc dal schermi te sbare laterâl di { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Un barcon dal navigadôr cu lis schedis te part superiôr.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Un barcon dal navigadôr cu lis schedis te part superiôr.
