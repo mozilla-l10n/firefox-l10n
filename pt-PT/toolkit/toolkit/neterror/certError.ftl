@@ -117,6 +117,9 @@ certerror-mitm-title = Software está a impedir o { -brand-short-name } de se li
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-advanced-title = Avançadas
+fp-certerror-advanced-button = Avançadas
+fp-certerror-hide-advanced-button = Ocultar avançadas
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
