@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
 urlbar-revert-button =
     .tooltiptext = Birta vistfangið í staðsetningarstikunni
-urlbar-show-page-actions-button =
-    .tooltiptext = Sýna allar síðuaðgerðir
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -623,12 +621,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Leita í { $localS
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Leita með { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, veldu leitarvél
-    .tooltiptext = { $engine }, veldu leitarvél
 urlbar-searchmode-dropmarker =
     .tooltiptext = Veldu leitarvél
 urlbar-searchmode-bookmarks =
@@ -643,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Loka
 urlbar-searchmode-popup-description = Að þessu sinni leita með:
 urlbar-searchmode-popup-search-settings = Leitarstillingar
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, veldu leitarvél
+    .tooltiptext = { $engine }, veldu leitarvél
+urlbar-searchmode-button-no-engine =
+    .label = Engin flýtileið valin, veldu flýtileið
+    .tooltiptext = Engin flýtileið valin, veldu flýtileið
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -965,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Huliðsvafur
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Huliðsvafur
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Gagnatapsvörn (DLP) með { $agentName }. Smelltu til að fá frekari upplýsingar.
 content-analysis-panel-title = Gagnavarnir
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Stofnunin þín notar <b>{ $agentName }</b> til að verjast gagnatapi. <a data-l10n-name="info">Frekari upplýsingar</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Stofnunin þín notar { $agentName } til að verjast gagnatapi. <a data-l10n-name="info">Frekari upplýsingar</a>
