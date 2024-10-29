@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = Avîs modalitât dome-HTTPS
 about-httpsonly-title-site-not-available = Sît sigûr no disponibil
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Tu âs abilitât la modalitât dome-HTTPS pe sigurece miorade e no je disponibile une version HTTPS di <em>{ $websiteUrl }</em> .
@@ -12,14 +11,10 @@ about-httpsonly-explanation-question = Cuale podaressie jessi la cause?
 about-httpsonly-explanation-nosupport = Al è probabil che il sît web nol supuarti HTTPS.
 about-httpsonly-explanation-risk = Al è ancje pussibil che al sedi un tentatîf di atac. Se tu decidis di visitâ il sît, no sta inserî informazions riservadis come passwords, emails o detais de cjarte di credit.
 about-httpsonly-explanation-continue = Se tu continuis, la modalitât dome-HTTPS e vignarà disativade in mût temporani par chest sît.
-
+about-httpsonly-explanation-iframe = Par vie dal bloc dai contignût misturâts, nol è pussibil permeti il cjariament manuâl di chest ricuadri.
 about-httpsonly-button-continue-to-site = Continue sul sît HTTP
 about-httpsonly-button-go-back = Torne indaûr
 about-httpsonly-link-learn-more = Plui informazions…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:

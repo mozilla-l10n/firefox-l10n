@@ -94,6 +94,10 @@ about-glean-adhoc-note =
     a son formatâts in <code>camelCase</code> a diference des APIs par Rust e
     C++.
 controls-button-label-verbose = Aplice impostazions e invie ping
+about-glean-feedback-settings-only =
+    .message = Impostazions aplicadis!
+about-glean-feedback-settings-and-ping =
+    .message = Impostazions aplicadis e ping inviât!
 about-glean-about-data-header = Informazions sui dâts
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il

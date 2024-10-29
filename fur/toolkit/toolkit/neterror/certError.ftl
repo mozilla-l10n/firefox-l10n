@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Il certificât nol è atendibil 
 cert-error-trust-expired-issuer = Il certificât nol è atendibil parcè che il certificât dal emitent al è scjadût.
 cert-error-trust-self-signed = Il certificât nol è atendbil parcè che al è auto firmât.
 cert-error-trust-symantec = I certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign no son plui considerâts sigûrs parcè timp indaûr che chestis autoritâts di certificazion no son rivadis a lâ daûr des pratichis di sigurece.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } nol pense che { $hostname } al sedi afidabil parcè che nol è rivât a dimostrâ di sodisfâ i recuisîts di trasparence par certificâts publics.
 cert-error-untrusted-default = Il certificât nol ven di une font afidabile.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -68,6 +71,11 @@ open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permetarà a { -brand-short-name } di visualizâ la pagjine se un altri sît le à incorporade. Par viodi cheste pagjine tu âs di vierzile intun gnûf barcon.
+fp-certerror-view-certificate-link = Viôt il certificât dal sît
+fp-certerror-return-to-previous-page-recommended-button = Torne indaûr (conseât)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = No masse. Al è probabil che al sedi un probleme cul sît stes.
+fp-certerror-self-signed-important-note = NOTE IMPUARTANTE: se tu stâs cirint di visitâ chest sît suntune intranet aziendâl, il personâl IT al podarès doprâ certificâts firmâts in autonomie. A puedin judâti a verificâ la lôr autenticitât.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codiç di erôr: { $error }
@@ -123,7 +131,13 @@ certerror-mitm-title = Un software al impedìs a { -brand-short-name } di coneti
 
 fp-certerror-page-title = Atenzion: risi pe sigurece
 fp-certerror-body-title = Sta atent. Alc nol è just.
+fp-certerror-why-site-dangerous = Ce rindial il sît pericolôs?
+fp-certerror-what-can-you-do = Ce puedistu fâ in merit?
+fp-certerror-advanced-title = Avanzadis
+fp-certerror-advanced-button = Avanzadis
+fp-certerror-hide-advanced-button = Plate avanzadis
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Continue su { $hostname } (pericolôs)

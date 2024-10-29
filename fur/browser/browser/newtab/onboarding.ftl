@@ -410,3 +410,7 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Un barcon dal navigadôr cu lis schedis te part superiôr.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prove un chatbot IA te sbare laterâl
+onboarding-genai-sidebar-primary-button = Sielç un chatbot
+onboarding-genai-sidebar-secondary-button = Scomence a navigâ
