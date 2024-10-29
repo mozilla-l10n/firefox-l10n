@@ -248,6 +248,7 @@ device-migration-fxa-spotlight-getting-new-device-body-2 = Sta daûr di cualchi 
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cemût salvâ i miei dâts
 device-migration-fxa-spotlight-sync-header = Navighe cence pierdi un colp
 device-migration-fxa-spotlight-sync-body = Sincronize dutis lis tôs informazions plui impuartantis, come segnelibris e passwords, e protezilis cu la criptografie. Tu podarâs recuperâlis dapardut là che tu dopris { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Scomence
 
 ## Set as Default PDF Reader Infobar
 
@@ -287,6 +288,8 @@ tail-fox-spotlight-secondary-button = No cumò
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Al è pussibil che lis versions plui vecjis di { -brand-short-name } a vedin problemis tacant cui 14 di Zenâr dal 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Inzorne par continuâ a doprâ { -brand-short-name } dopo dai 14 di Març dal 2025.</strong>
 
 ## FxA Menu Message variants
 
