@@ -104,8 +104,12 @@ appmenu-fxa-sync-and-save-data2 = Sincronizza e salva i dati
 appmenu-fxa-signed-in-label = Accedi
 appmenu-fxa-setup-sync =
     .label = Attiva sincronizzazione…
+appmenu-fxa-setup-sync-new = Attiva
 appmenuitem-save-page =
     .label = Salva pagina con nome…
+
+appmenuitem-fxa-sync-off-title = La sincronizzazione è disattivata
+appmenuitem-fxa-sync-off-description = Proteggi e accedi ai tuoi segnalibri, password e altri dati ovunque ti trovi.
 
 ## What's New panel in App menu.
 
