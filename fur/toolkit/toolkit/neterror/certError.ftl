@@ -84,9 +84,23 @@ fp-certerror-bad-domain-what-can-you-do-body = Forsit nol è nuie, viodût che a
 fp-certerror-unknown-issuer-why-dangerous-body = Al è vignût fûr un probleme cul certificât dal sît. Al è pussibil che un malintenzionât al stedi cirint di sostituîsi al sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } al pense che chest sît nol sedi atendibil parcè che nol è pussibil stabilî cui che al à dât fûr il certificât, il certificât al è firmât in autonomie o il sît nol sta inviant certificâts intermedis atendibii.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Forsit nuie, viodût che al è probabil che al sedi un probleme cul sît stes. Ma se tu sês colegât/colegade a une rêt aziendâl, il to grup di supuart al podarès vê plui informazions. Se tu stâs doprant un software antivirus, al podarès coventâ configurâlu pal funzionament cun { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Par vie che al è vignût fûr un probleme cul certificât dal sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. Il certificât di chest sît al è firmât in autonomie. Nol è stât dât fûr di une autoritât di certificazion ricognossude – duncje, par impostazion predefinide, no lu considerìn atendibil.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = No masse. Al è probabil che al sedi un probleme cul sît stes.
 fp-certerror-self-signed-important-note = NOTE IMPUARTANTE: se tu stâs cirint di visitâ chest sît suntune intranet aziendâl, il personâl IT al podarès doprâ certificâts firmâts in autonomie. A puedin judâti a verificâ la lôr autenticitât.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât al sedi scjadût ai { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât nol sarà valit fintremai { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codiç di erôr: { $error }
@@ -152,3 +166,5 @@ fp-certerror-hide-advanced-button = Plate avanzadis
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Continue su { $hostname } (pericolôs)
+fp-certerror-intro = { -brand-short-name } al à cjatât un potenziâl probleme di sigurece cun <strong>{ $hostname }</strong>. Un sogjet che al fâs fente di jessi il sît al podarès cirî di robâ informazions su cjartis di credit, passwords o e-mails.
+fp-certerror-expired-into = { -brand-short-name } al à cjatât un probleme di sigurece cun <strong>{ $hostname }</strong>. Il sît nol è configurât in maniere juste opûr l’orloi dal dispositîf al è metût suntune date/ore sbaliade.
