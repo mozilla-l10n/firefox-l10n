@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-бот ШІ
 menu-view-review-checker =
     .label = Праверка водгукаў
+sidebar-options-menu-button =
+    .title = Адкрыць меню
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Разгарнуць і згарнуць бакавую панэль
 sidebar-visibility-setting-hide-sidebar =
     .label = Паказаць і схаваць бакавую панэль
-sidebar-customize-settings-header =
-    .label = Налады бакавой панэлі
-sidebar-visibility-always-show =
-    .label = Заўсёды паказваць
-sidebar-visibility-hide-sidebar =
-    .label = Схаваць бакавую панэль
 
 ## Labels for sidebar context menu items
 

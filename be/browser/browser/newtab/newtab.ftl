@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Захаваць у { -pocket-brand-name }
 newtab-menu-delete-pocket = Выдаліць з { -pocket-brand-name }
 newtab-menu-archive-pocket = Архіваваць у { -pocket-brand-name }
 newtab-menu-show-privacy-info = Нашы спонсары і ваша прыватнасць
+newtab-menu-about-fakespot = Пра { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

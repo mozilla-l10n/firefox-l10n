@@ -645,6 +645,9 @@ urlbar-searchmode-popup-search-settings = Налады пошуку
 urlbar-searchmode-button2 =
     .label = { $engine }, выберыце пошукавую сістэму
     .tooltiptext = { $engine }, выберыце пошукавую сістэму
+urlbar-searchmode-button-no-engine =
+    .label = Ярлык не выбраны, выберыце ярлык
+    .tooltiptext = Ярлык не выбраны, выберыце ярлык
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -976,6 +979,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Прадухіленне страты дадзеных (DLP) ад { $agentName }. Націсніце, каб атрымаць дадатковую інфармацыю.
 content-analysis-panel-title = Абарона дадзеных
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ваша арганізацыя выкарыстоўвае <b>{ $agentName }</b> для абароны ад страты дадзеных. <a data-l10n-name="info">Падрабязней</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ваша арганізацыя выкарыстоўвае { $agentName } для абароны ад страты дадзеных. <a data-l10n-name="info">Падрабязней</a>
