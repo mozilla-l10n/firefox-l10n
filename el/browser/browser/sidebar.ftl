@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Έλεγχος κριτικών
+sidebar-options-menu-button =
+    .title = Άνοιγμα μενού
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Ανάπτυξη και σύμπτυξη πλαϊνής γραμμής
 sidebar-visibility-setting-hide-sidebar =
     .label = Εμφάνιση και απόκρυψη πλαϊνής γραμμής
-sidebar-customize-settings-header =
-    .label = Ρυθμίσεις πλαϊνής γραμμής
-sidebar-visibility-always-show =
-    .label = Εμφάνιση πάντα
-sidebar-visibility-hide-sidebar =
-    .label = Απόκρυψη πλαϊνής γραμμής
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
 synced-tabs-context-close-tab-title =
     .title = Κλείσιμο καρτέλας στο «{ $deviceName }»
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Εμφάνιση πλαϊνής γραμμής
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Απόκρυψη πλαϊνής γραμμής
 sidebar-widget-expand-sidebar =
     .tooltiptext = Ανάπτυξη πλαϊνής γραμμής
     .label = Πλαϊνές γραμμές

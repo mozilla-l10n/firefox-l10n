@@ -79,6 +79,9 @@ fp-cert-error-code = Κωδικός σφάλματος: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Μάθετε περισσότερα σχετικά με τις αποτυχίες ασφαλούς σύνδεσης
+fp-learn-more-about-cert-issues = Μάθετε περισσότερα σχετικά με τα ζητήματα πιστοποιητικών αυτού του είδους
+fp-learn-more-about-time-related-errors = Μάθετε περισσότερα σχετικά με την επίλυση προβλημάτων που σχετίζονται με τον χρόνο
 
 ## Messages used for certificate error titles
 
@@ -123,7 +126,12 @@ certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Προειδοποίηση: Κίνδυνος ασφαλείας
+fp-certerror-body-title = Να προσέχετε. Κάτι δεν πάει καλά.
+fp-certerror-why-site-dangerous = Τι είναι αυτό που κάνει τον ιστότοπο να φαίνεται επικίνδυνος;
+fp-certerror-what-can-you-do = Τι μπορείτε να κάνετε για αυτό;
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Συνέχεια στο { $hostname } (Επικίνδυνο)
