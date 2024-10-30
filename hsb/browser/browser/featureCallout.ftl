@@ -59,3 +59,7 @@ split-dismiss-button-dont-show-option-label = Tute poručenje hižo njepokazać
 split-dismiss-button-show-fewer-option-label = Mjenje poručenjow pokazać
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Nastajenja rjadować
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać

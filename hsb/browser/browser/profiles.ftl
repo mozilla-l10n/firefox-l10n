@@ -19,10 +19,13 @@ edit-profile-page-explore-themes = Wuslědźće dalše drasty
 edit-profile-page-avatar-header = Awatar
 edit-profile-page-delete-button =
     .label = Zhašeć
+edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće nowe mjeno.
 edit-profile-page-profile-saved = Składowany
 new-profile-page-title = Nowy profil
 new-profile-page-header = Přiměrće swój nowy profil
 new-profile-page-learn-more = Dalše informacije
+new-profile-page-input-placeholder =
+    .placeholder = Wubjerće mjeno kaž „Dźěło“ abo „Wosobinske“
 new-profile-page-done-button =
     .label = Wobdźěłanje dokónčene
 
@@ -34,3 +37,18 @@ delete-profile-page-title = Profil { $profilename } zhašeć
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Profil { $profilename } zhašeć?
+delete-profile-description = { -brand-short-name } na přeco slědowace daty z tutoho grata zhaša:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Wočinjene wokna
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Wočinjene rajtarki
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Zapołožki
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Historija (wopytane strony, placki, sydłowe daty)
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Hesła
+# Button label
+delete-profile-cancel = Přetorhnyć
+# Button label
+delete-profile-confirm = Zhašeć

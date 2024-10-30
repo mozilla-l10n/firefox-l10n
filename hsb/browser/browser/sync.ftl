@@ -37,3 +37,11 @@ fxa-menu-sign-out =
     .label = Wotzjewić…
 fxa-menu-sync-title = Synchronizować
 fxa-menu-sync-description = Mějće přistup k internetej wot wšudźe
+sync-setup-verify-continue = Dale
+sync-setup-verify-title = Zjednoćenske warnowanje
+sync-setup-verify-heading = Chceće so woprawdźe w sync registrować?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Druhi wužiwar je so do toho na tutym ličaku w sync zregistrował. Registrowanje budźe zapołožki, hesła a druhe nastajenja wobhladowaka z { $email } zjednoćeć
