@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Logga ut…
 fxa-menu-sync-title = Synkronisera
 fxa-menu-sync-description = Få åtkomst till din webb var som helst
+sync-setup-verify-continue = Fortsätt
+sync-setup-verify-title = Ihopslagningsvarning
+sync-setup-verify-heading = Är du säker på att du vill logga in för att synkronisera?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = En annan användare var tidigare inloggad för att synkronisera på den här datorn. Om du loggar in kopplas den här webbläsarens bokmärken, lösenord och andra inställningar med { $email }

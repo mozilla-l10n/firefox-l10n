@@ -314,6 +314,8 @@ newtab-wallpaper-dark-panda = Röd panda dold i skogen
 newtab-wallpaper-dark-sky = Stadslandskap med en natthimmel
 newtab-wallpaper-dark-mountain = Landskap med berg
 newtab-wallpaper-dark-city = Lila stadslandskap
+newtab-wallpaper-dark-fox-anniversary = En räv på trottoaren nära en skog
+newtab-wallpaper-light-fox-anniversary = En räv i ett gräsbevuxet fält med ett dimmigt bergslandskap
 
 ## Solid Colors
 

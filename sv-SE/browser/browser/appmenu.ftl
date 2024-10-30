@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Synkronisera och spara data
 appmenu-fxa-signed-in-label = Logga in
 appmenu-fxa-setup-sync =
     .label = Aktivera synkronisering…
+appmenu-fxa-setup-sync-new = Aktivera
 appmenuitem-save-page =
     .label = Spara sida som…
+appmenuitem-fxa-sync-off-title = Sync är avstängd
+appmenuitem-fxa-sync-off-description = Skydda och komma åt dina bokmärken, lösenord och mer var som helst.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Dölj din riktiga e-postadress och telefonnummer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Skydda din onlineaktivitet
+
+## Profiles panel
+
+appmenu-profiles = Profiler
+appmenu-other-profiles = Andra profiler
+appmenu-manage-profiles =
+    .label = Hantera profiler
+appmenu-create-profile =
+    .label = Ny profil
+appmenu-edit-profile =
+    .aria-label = Redigera profil

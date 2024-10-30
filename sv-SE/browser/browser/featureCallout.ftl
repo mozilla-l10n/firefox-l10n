@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Visa inte den här rekommendatione
 split-dismiss-button-show-fewer-option-label = Visa färre rekommendationer
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Hantera inställningar
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Visa fliktitlar i sidofältet
+sidebar-button-callout-subtitle = Använd sidofältsknappen för att utöka sidofältet så att du kan se fliktitlar.
