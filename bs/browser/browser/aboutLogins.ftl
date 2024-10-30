@@ -10,6 +10,9 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Kreirajte novu prijavu
 about-logins-page-title-name = Lozinke
+about-logins-login-filter2 =
+    .placeholder = Traži lozinke
+    .key = F
 create-login-button =
     .title = Dodaj lozinku
 fxaccounts-sign-in-text = Pristupite lozinkama na drugim uređajima
@@ -55,6 +58,14 @@ login-list-filtered-count =
         [one] { $count } od { $total } prijava
         [few] { $count } od { $total } prijave
        *[other] { $count } od { $total } prijava
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { NUMBER($count) ->
+        [one] { $count } lozinka
+        [few] { $count } lozinke
+       *[other] { $count } lozinki
     }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Nazivu (A-Z)
@@ -124,6 +135,8 @@ login-item-copied-username-button-text = Kopirano!
 login-item-password-label = Lozinka
 login-item-password-reveal-checkbox =
     .aria-label = Prikaži lozinku
+login-item-password-conceal-checkbox =
+    .aria-label = Sakrij lozinku
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spasi promjene
@@ -155,6 +168,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, une
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredite sačuvanu prijavu
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] promijenite postavke za lozinke
+       *[other] { -brand-short-name } pokušava promijeniti postavke za lozinke. Upotrijebite prijavu na svom uređaju da to dozvolite.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Da biste uredili lozinku, unesite svoje podatke za prijavu na Windows. Ovo pomaže u zaštiti sigurnosti vaših računa.
 # This message can be seen when attempting to edit a login in about:logins
