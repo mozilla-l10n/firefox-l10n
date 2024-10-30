@@ -974,6 +974,9 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Datavern
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Organisasjonen din brukar <b>{ $agentName }</b> for å beskytte seg mot datatap. <a data-l10n-name="info">Les meir</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Organisasjonen din brukar { $agentName } for å beskytte mot tap av data. <a data-l10n-name="info">Les meir</a>
 
 ## Unified extensions (toolbar) button
