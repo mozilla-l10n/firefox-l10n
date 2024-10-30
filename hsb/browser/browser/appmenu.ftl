@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = Synchronizować a daty składować
 appmenu-fxa-signed-in-label = Přizjewić
 appmenu-fxa-setup-sync =
     .label = Synchronizaciju zmóžnić…
+appmenu-fxa-setup-sync-new = Zmóžnić
 appmenuitem-save-page =
     .label = Stronu składować jako…
+appmenuitem-fxa-sync-off-title = Synchronizacija je znjemóžnjena
 
 ## What's New panel in App menu.
 
@@ -279,3 +281,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskěrujće swoju woprawdźitu e-mejlowu adresu a swój telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Škitajće swoju aktiwitu online
+
+## Profiles panel
+
+appmenu-profiles = Profile
+appmenu-other-profiles = Druhe profile
+appmenu-manage-profiles =
+    .label = Profile rjadować
+appmenu-create-profile =
+    .label = Nowy profil
+appmenu-edit-profile =
+    .aria-label = Profil wobdźěłać
