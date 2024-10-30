@@ -556,8 +556,6 @@ urlbar-page-action-button =
     .tooltiptext = Дзеянні старонкі
 urlbar-revert-button =
     .tooltiptext = Паказаць адрас у адрасным радку
-urlbar-show-page-actions-button =
-    .tooltiptext = Паказаць усе дзеянні старонкі
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -627,12 +625,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Пошук у { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Пошук з дапамогай { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, Выберыце пошукавую сістэму
-    .tooltiptext = { $engine }, Выберыце пашукавік
 urlbar-searchmode-dropmarker =
     .tooltiptext = Выбраць пошукавую сістэму
 urlbar-searchmode-bookmarks =
@@ -647,6 +639,12 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Закрыць
 urlbar-searchmode-popup-description = Гэтым разам шукаць у:
 urlbar-searchmode-popup-search-settings = Налады пошуку
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, выберыце пошукавую сістэму
+    .tooltiptext = { $engine }, выберыце пошукавую сістэму
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -969,6 +967,9 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Прыватнае агляданне
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Прыватнае агляданне
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
