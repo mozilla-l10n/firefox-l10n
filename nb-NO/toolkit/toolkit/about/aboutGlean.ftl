@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     Dette betyr at analyseresultatkategorier og navn formateres
     med <code>camelCase</code> i motsetning til i Rust- og i C++-API-ene.
 controls-button-label-verbose = Bruk innstillinger og send inn ping
+about-glean-feedback-settings-only =
+    .message = Innstillinger anvendt!
+about-glean-feedback-settings-and-ping =
+    .message = Innstillinger anvendt og ping sendt!
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se

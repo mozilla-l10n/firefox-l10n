@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Sidehandlinger
 urlbar-revert-button =
     .tooltiptext = Vis adressen i adresselinjen
-urlbar-show-page-actions-button =
-    .tooltiptext = Vis alle sidehandlinger
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Søk i { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Søk med { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, velg en søkemotor
-    .tooltiptext = { $engine }, velg en søkemotor
 urlbar-searchmode-dropmarker =
     .tooltiptext = Velg en søkemotor
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Lukk
 urlbar-searchmode-popup-description = Søk denne gang med:
 urlbar-searchmode-popup-search-settings = Søkeinnstillinger
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, velg en søkemotor
+    .tooltiptext = { $engine }, velg en søkemotor
+urlbar-searchmode-button-no-engine =
+    .label = Ingen snarvei valgt, velg en snarvei
+    .tooltiptext = Ingen snarvei valgt, velg en snarvei
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,6 +963,9 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat nettlesing
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privat nettlesing
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
