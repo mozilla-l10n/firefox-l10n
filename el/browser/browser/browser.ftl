@@ -632,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Κλείσιμο
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
 urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, επιλογή μηχανής αναζήτησης
+    .tooltiptext = { $engine }, επιλογή μηχανής αναζήτησης
+urlbar-searchmode-button-no-engine =
+    .label = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
+    .tooltiptext = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -963,6 +972,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Πρόληψη απώλειας δεδομένων (DLP) του { $agentName }. Κάντε κλικ για περισσότερες πληροφορίες.
 content-analysis-panel-title = Προστασία δεδομένων
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ο οργανισμός σας χρησιμοποιεί το <b>{ $agentName }</b> για προστασία από απώλεια δεδομένων. <a data-l10n-name="info">Μάθετε περισσότερα</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ο οργανισμός σας χρησιμοποιεί το { $agentName } για προστασία από απώλεια δεδομένων. <a data-l10n-name="info">Μάθετε περισσότερα</a>
