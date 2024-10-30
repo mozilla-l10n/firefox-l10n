@@ -4,7 +4,6 @@
 
 about-reader-loading = Asali…
 about-reader-load-error = D awezɣi asali n umagrad seg usebter
-
 about-reader-color-scheme-light = Aceɛlal
     .title = Tagrumma n yiniten iceɛlalen
 about-reader-color-scheme-dark = Aberkan
@@ -13,7 +12,8 @@ about-reader-color-scheme-sepia = Sipya
     .title = Tagrumma n yiniten Sepia
 about-reader-color-scheme-auto = Awurman
     .title = Tagrumma n yiniten tawurmant
-
+about-reader-color-light-theme = Aceɛlal
+    .title = Askar aceεlal
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +50,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Mdel timeẓri n tɣuṛi
 about-reader-toolbar-type-controls = Snifel tasefsit
 about-reader-toolbar-savetopocket = Sekles deg { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+

@@ -319,6 +319,10 @@ newtab-wallpaper-white-mountains = Idurar imellalen
 newtab-wallpaper-attribution = Tawlaft s <a data-l10n-name="name-link">{ $author_string }</a> ɣef <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Ɛreḍ aṛuccu n yini
 newtab-wallpaper-feature-highlight-button = Awi-t
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Zgel
+    .aria-label = Mdel asfaylu udhim
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
@@ -335,7 +339,9 @@ newtab-weather-menu-weather-display = Askan n tegnawt
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Aḥerfi
+newtab-weather-menu-change-weather-display-simple = Uɣal ɣer uskan afessas
 newtab-weather-menu-weather-display-option-detailed = S telqayt
+newtab-weather-menu-change-weather-display-detailed = Uɣal ɣer uskan alqayan
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Beddel ɣer Fahrenheit
@@ -345,6 +351,7 @@ newtab-weather-menu-learn-more = Issin ugar
 ## Topic Labels
 
 newtab-topic-label-business = Amahil
+newtab-topic-label-career = Axeddim
 newtab-topic-label-education = Aselmed
 newtab-topic-label-food = Tuččit
 newtab-topic-label-health = Tazmert
@@ -353,10 +360,13 @@ newtab-topic-label-hobbies = Uraren
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Tadrimt
+newtab-topic-label-society-parenting = Timarawt
+newtab-topic-label-government = Tasertit
 newtab-topic-label-education-science = Tussna
 newtab-topic-label-sports = Addal
 newtab-topic-label-tech = Tatiknulujit
 newtab-topic-label-travel = Tirza
+newtab-topic-label-home = Axxam & Tibḥirt
 
 ## Topic Selection Modal
 

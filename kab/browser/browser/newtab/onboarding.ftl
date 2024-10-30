@@ -351,5 +351,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca d
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Accaren ɣef yidis
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Accaren ufella
+onboarding-flair-text = Amaynut!
 onboarding-genai-sidebar-primary-button = Fren chatbot
 onboarding-genai-sidebar-secondary-button = Bdu tunigin
