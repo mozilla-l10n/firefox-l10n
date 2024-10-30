@@ -632,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Lat att
 urlbar-searchmode-popup-description = Søk denne gong med:
 urlbar-searchmode-popup-search-settings = Søkjeinnstillingar
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, vel ein søkjemotor
+    .tooltiptext = { $engine }, vel ein søkjemotor
+urlbar-searchmode-button-no-engine =
+    .label = Ingen snarveg valt, vel ein snarveg
+    .tooltiptext = Ingen snarveg valt, vel ein snarveg
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
