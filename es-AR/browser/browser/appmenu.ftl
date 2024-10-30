@@ -287,3 +287,9 @@ appmenuitem-vpn-description = Proteger la actividad en línea
 
 appmenu-profiles = Perfiles
 appmenu-other-profiles = Otros perfiles
+appmenu-manage-profiles =
+    .label = Administrar los perfiles
+appmenu-create-profile =
+    .label = Nuevo perfil
+appmenu-edit-profile =
+    .aria-label = Editar el perfil
