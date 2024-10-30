@@ -170,3 +170,11 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Kkes tasusmi n yiccer
 tabbrowser-manager-close-tab =
     .tooltiptext = Mdel Iccer
+
+## Tab Groups
+
+tab-group-editor-title-edit = Sefrek agraw n waccaren
+tab-group-editor-name-label = Isem
+tab-group-editor-cancel =
+    .label = Sefsex
+    .accesskey = S

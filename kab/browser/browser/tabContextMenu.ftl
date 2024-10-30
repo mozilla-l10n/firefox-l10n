@@ -91,6 +91,9 @@ tab-context-new-tab-open =
 tab-context-new-tab-open-vertical =
     .label = Iccer amaynut addaw
     .accesskey = m
+tab-context-new-group =
+    .label = Agraw amaynut
+    .accesskey = A
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
