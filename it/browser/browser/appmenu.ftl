@@ -282,3 +282,13 @@ appmenuitem-relay-description = Mantieni al sicuro il tuo indirizzo email e tele
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Proteggi la tua attività online
 
+## Profiles panel
+
+appmenu-profiles = Profili
+appmenu-other-profiles = Altri profili
+appmenu-manage-profiles =
+    .label = Gestisci i profili
+appmenu-create-profile =
+    .label = Nuovo profilo
+appmenu-edit-profile =
+    .aria-label = Modifica profilo
