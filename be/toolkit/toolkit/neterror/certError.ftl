@@ -71,6 +71,11 @@ open-in-new-window-for-csp-or-xfo-error = Адкрыць сайт у новым 
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Каб захаваць вашу бяспеку, { $hostname } не дазволіць { -brand-short-name } паказаць старонку, калі яна ўбудавана ў іншы сайт. Каб убачыць гэтую старонку, трэба адкрыць яе ў новым акне.
+fp-certerror-view-certificate-link = Паглядзець сертыфікат сайта
+fp-certerror-return-to-previous-page-recommended-button = Вярнуцца (рэкамендуецца)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Код памылкі: { $error }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +117,14 @@ networkProtocolError-title = Памылка сеткавага пратакол�
 nssBadCert-title = Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы
 nssBadCert-sts-title = Не злучаны: Патэнцыяльная праблема бяспекі
 certerror-mitm-title = Праграмнае забеспячэнне не дазваляе { -brand-short-name } бяспечна злучыцца з гэтым сайтам
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Папярэджанне: рызыка бяспекі
+fp-certerror-what-can-you-do = Як вы можаце гэта паправіць?
+fp-certerror-advanced-title = Дадаткова
+fp-certerror-advanced-button = Дадаткова
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
