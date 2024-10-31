@@ -316,6 +316,7 @@ newtab-wallpaper-dark-panda = Cerwjeny panda w lěsu schowany
 newtab-wallpaper-dark-sky = Měsćańska krajina z nocnym njebjom
 newtab-wallpaper-dark-mountain = Górinowa krajina
 newtab-wallpaper-dark-city = Wioletna měsćańska krajina
+newtab-wallpaper-dark-fox-anniversary = Liška na flastarju blisko lěsa
 
 ## Solid Colors
 

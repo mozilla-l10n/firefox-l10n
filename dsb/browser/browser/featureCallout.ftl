@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Toś to pórucenje wěcej njepokaz
 split-dismiss-button-show-fewer-option-label = Mjenjej pórucenjow pokazaś
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Nastajenja zastojaś
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
+sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
