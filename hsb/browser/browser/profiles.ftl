@@ -19,6 +19,7 @@ edit-profile-page-explore-themes = Wuslědźće dalše drasty
 edit-profile-page-avatar-header = Awatar
 edit-profile-page-delete-button =
     .label = Zhašeć
+edit-profile-page-no-name = Pomjenujće tutón profil, zo byšće jón pozdźišo zaso namakał. Přemjenujće jón kóždy čas.
 edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće nowe mjeno.
 edit-profile-page-profile-saved = Składowany
 new-profile-page-title = Nowy profil
@@ -46,6 +47,8 @@ delete-profile-tabs = Wočinjene rajtarki
 delete-profile-bookmarks = Zapołožki
 # History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Historija (wopytane strony, placki, sydłowe daty)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Daty za awtomatiske wupjelnjenje (adresy, płaćenske metody)
 # Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Hesła
 # Button label
