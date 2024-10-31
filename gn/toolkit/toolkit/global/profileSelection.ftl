@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } - Eiparavo peteĩ poruhára mba’ete
+    .title = { -brand-short-name } - Eiporavo poruhára mba’ete
 profile-selection-button-accept =
     .label = { -brand-short-name } ñepyrũ
 profile-selection-button-cancel =
