@@ -59,3 +59,7 @@ split-dismiss-button-dont-show-option-label = Anive ehechauka ko ñemoñe’ẽ
 split-dismiss-button-show-fewer-option-label = Ehechauka’ive ñemoñe’ẽ
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Eñangareko ñemoĩporãre
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
