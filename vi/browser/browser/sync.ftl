@@ -31,3 +31,11 @@ fxa-menu-sign-out =
     .label = Đăng xuất…
 fxa-menu-sync-title = Đồng bộ hóa
 fxa-menu-sync-description = Truy cập web của bạn mọi nơi
+sync-setup-verify-continue = Tiếp tục
+sync-setup-verify-title = Cảnh báo gộp dữ liệu
+sync-setup-verify-heading = Bạn có chắc muốn đăng nhập để đồng bộ hóa?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Một người dùng khác trước đây đã đăng nhập để đồng bộ hóa trên máy tính này. Việc đăng nhập sẽ hợp nhất dấu trang, mật khẩu và các cài đặt khác của trình duyệt này với { $email }
