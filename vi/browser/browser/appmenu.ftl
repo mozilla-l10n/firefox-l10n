@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Đồng bộ hóa và lưu dữ liệu
 appmenu-fxa-signed-in-label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
+appmenu-fxa-setup-sync-new = Bật
 appmenuitem-save-page =
     .label = Lưu trang dưới dạng…
+appmenuitem-fxa-sync-off-title = Đã tắt đồng bộ hoá
+appmenuitem-fxa-sync-off-description = Bảo mật và truy cập đánh dấu trang, mật khẩu, và nhiều hơn thế từ bất cứ nơi đâu
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
+
+## Profiles panel
+
+appmenu-profiles = Hồ sơ người dùng
+appmenu-other-profiles = Các hồ sơ người dùng khác
+appmenu-manage-profiles =
+    .label = Quản lý các hồ sơ người dùng
+appmenu-create-profile =
+    .label = Hồ sơ người dùng mới
+appmenu-edit-profile =
+    .aria-label = Chỉnh sửa hồ sơ người dùng
