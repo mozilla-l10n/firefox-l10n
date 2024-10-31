@@ -8,7 +8,7 @@ profile-window-body = Udržujte svoje pracovné a osobné prehliadanie, vrátane
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Zobrazovať vždy pri spustení { -brand-short-name(case: "gen") }
-profile-window-create-profile = Vytvorenie profilu
+profile-window-create-profile = Vytvoriť profil
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
