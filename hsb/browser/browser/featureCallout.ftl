@@ -63,3 +63,4 @@ split-dismiss-button-manage-settings-option-label = Nastajenja rjadować
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
+sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.

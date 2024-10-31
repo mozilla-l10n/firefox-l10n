@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = Zmóžnić
 appmenuitem-save-page =
     .label = Stronu składować jako…
 appmenuitem-fxa-sync-off-title = Synchronizacija je znjemóžnjena
+appmenuitem-fxa-sync-off-description = Mějće přistup k swojim zapołožkam, hesłam a wjace a škitajće je.
 
 ## What's New panel in App menu.
 
