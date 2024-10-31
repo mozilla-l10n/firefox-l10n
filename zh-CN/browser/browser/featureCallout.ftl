@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = 不再显示此建议
 split-dismiss-button-show-fewer-option-label = 减少显示建议
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = 管理设置
+
+## Sidebar Strings
+
+sidebar-button-callout-title = 在侧栏中显示标签页标题
+sidebar-button-callout-subtitle = 使用侧栏按钮展开侧栏，即可查看标签页标题。

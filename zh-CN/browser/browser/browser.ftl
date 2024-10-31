@@ -545,8 +545,6 @@ urlbar-page-action-button =
     .tooltiptext = 页面操作
 urlbar-revert-button =
     .tooltiptext = 在地址栏中显示网址
-urlbar-show-page-actions-button =
-    .tooltiptext = 显示所有页面操作
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -616,12 +614,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜索{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜索
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }，选取搜索引擎
-    .tooltiptext = { $engine }，选取搜索引擎
 urlbar-searchmode-dropmarker =
     .tooltiptext = 选取搜索引擎
 urlbar-searchmode-bookmarks =
@@ -636,6 +628,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = 关闭
 urlbar-searchmode-popup-description = 本次搜索使用：
 urlbar-searchmode-popup-search-settings = 搜索设置
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }，选取搜索引擎
+    .tooltiptext = { $engine }，选取搜索引擎
+urlbar-searchmode-button-no-engine =
+    .label = 未选择快捷方式，请选择
+    .tooltiptext = 未选择快捷方式，请选择
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -958,12 +959,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 隐私浏览
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = 隐私浏览
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = 由“{ $agentName }”提供数据泄露防护。点击以了解更多信息。
 content-analysis-panel-title = 数据保护
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = 您的组织使用 <b>{ $agentName }</b> 进行数据泄露防护。<a data-l10n-name="info">详细了解</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = 您的组织使用“{ $agentName }”进行数据泄露防护。<a data-l10n-name="info">详细了解</a>
