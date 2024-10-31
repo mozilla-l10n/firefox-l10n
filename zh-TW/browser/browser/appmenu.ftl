@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = 開啟
 appmenuitem-save-page =
     .label = 另存新檔…
 appmenuitem-fxa-sync-off-title = Sync 已關閉
+appmenuitem-fxa-sync-off-description = 保護並從任何裝置存取您的書籤、密碼與其他資訊。
 
 ## What's New panel in App menu.
 

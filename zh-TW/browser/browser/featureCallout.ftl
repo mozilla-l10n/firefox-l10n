@@ -63,3 +63,4 @@ split-dismiss-button-manage-settings-option-label = 管理設定
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
+sidebar-button-callout-subtitle = 使用側邊欄按鈕展開側邊欄，就可以看到分頁標題。

@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } - 選取使用者設定檔
 profile-window-heading = 選擇一份 { -brand-short-name } 設定檔
+profile-window-body = 讓您工作與個人使用的上網紀錄（包含網站密碼、書籤等）完全拆開；也可以幫使用這台裝置的每個人建立自己的設定檔。
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name } 啟動時顯示本視窗
@@ -19,6 +20,8 @@ edit-profile-page-explore-themes = 探索更多佈景主題
 edit-profile-page-avatar-header = 頭像
 edit-profile-page-delete-button =
     .label = 刪除
+edit-profile-page-no-name = 為此設定檔命名，方便之後尋找，可以隨時再更名。
+edit-profile-page-duplicate-name = 已有這個名稱的設定檔，請改用其他名稱。
 edit-profile-page-profile-saved = 已儲存
 new-profile-page-title = 新增設定檔
 new-profile-page-header = 自訂您的新設定檔
