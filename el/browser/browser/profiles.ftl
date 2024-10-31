@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Επιλογή προφίλ χρήστη
 profile-window-heading = Επιλέξτε ένα προφίλ του { -brand-short-name }
+profile-window-body = Διαχωρίστε την επαγγελματική από την προσωπική περιήγηση, συμπεριλαμβανομένων των κωδικών πρόσβασης και των σελιδοδεικτών. Ή δημιουργήστε προφίλ για όλους τους χρήστες αυτής της συσκευής.
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Εμφάνιση κατά το άνοιγμα του { -brand-short-name }

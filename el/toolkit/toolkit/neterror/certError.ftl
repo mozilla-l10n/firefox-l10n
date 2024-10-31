@@ -138,3 +138,4 @@ fp-certerror-hide-advanced-button = Απόκρυψη σύνθετων επιλο
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Συνέχεια στο { $hostname } (Επικίνδυνο)
+fp-certerror-expired-into = Το { -brand-short-name } εντόπισε ένα ζήτημα ασφαλείας με το <strong>{ $hostname }</strong>. Είτε ο ιστότοπος δεν έχει ρυθμιστεί σωστά είτε το ρολόι της συσκευής σας έχει ρυθμιστεί σε λανθασμένη ημερομηνία/ώρα.
