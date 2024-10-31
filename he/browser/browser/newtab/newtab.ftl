@@ -308,6 +308,8 @@ newtab-wallpaper-dark-panda = פנדה אדומה חבויה ביער
 newtab-wallpaper-dark-sky = נוף עיר עם שמי לילה
 newtab-wallpaper-dark-mountain = נוף הררי
 newtab-wallpaper-dark-city = נוף עירוני סגול
+newtab-wallpaper-dark-fox-anniversary = שועל על המדרכה ליד יער
+newtab-wallpaper-light-fox-anniversary = שועל בשדה עשב עם נוף הררי ערפילי
 
 ## Solid Colors
 

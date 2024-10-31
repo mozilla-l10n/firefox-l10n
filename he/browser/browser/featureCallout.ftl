@@ -44,3 +44,8 @@ split-dismiss-button-dont-show-option-label = לא להציג המלצה זו ש
 split-dismiss-button-show-fewer-option-label = להציג פחות המלצות
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ניהול הגדרות
+
+## Sidebar Strings
+
+sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
+sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל הצד כדי להרחב את סרגל הצד, כדי שיהיה באפשרותך לראות את הכותרות של הלשוניות.

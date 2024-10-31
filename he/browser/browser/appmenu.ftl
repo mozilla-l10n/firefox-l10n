@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = סנכרון ושמירת נתונים
 appmenu-fxa-signed-in-label = כניסה
 appmenu-fxa-setup-sync =
     .label = הפעלת סנכרון…
+appmenu-fxa-setup-sync-new = הפעלה
 appmenuitem-save-page =
     .label = שמירת דף בשם…
+appmenuitem-fxa-sync-off-title = הסנכרון כבוי
+appmenuitem-fxa-sync-off-description = הגנה וקבלת גישה לסימניות והססמאות שלך מכל מקום.
 
 ## What's New panel in App menu.
 
@@ -278,3 +281,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
+
+## Profiles panel
+
+appmenu-profiles = פרופילים
+appmenu-other-profiles = פרופילים אחרים
+appmenu-manage-profiles =
+    .label = ניהול פרופילים
+appmenu-create-profile =
+    .label = פרופיל חדש
+appmenu-edit-profile =
+    .aria-label = עריכת פרופיל
