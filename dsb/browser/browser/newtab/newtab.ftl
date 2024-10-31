@@ -317,6 +317,7 @@ newtab-wallpaper-dark-sky = Měsćańska krajina z nocnym njebjom
 newtab-wallpaper-dark-mountain = Górinowa krajina
 newtab-wallpaper-dark-city = Wioletna měsćańska krajina
 newtab-wallpaper-dark-fox-anniversary = Liška na flastarju blisko lěsa
+newtab-wallpaper-light-fox-anniversary = Liška w tšawowem pólu z kurjawkateju górinoweju krajinu
 
 ## Solid Colors
 
