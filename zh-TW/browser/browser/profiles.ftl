@@ -22,6 +22,7 @@ edit-profile-page-delete-button =
 edit-profile-page-profile-saved = 已儲存
 new-profile-page-title = 新增設定檔
 new-profile-page-header = 自訂您的新設定檔
+new-profile-page-header-description = 每一套設定檔之間的瀏覽紀錄、設定等均彼此獨立。另外，{ -brand-short-name } 強大的安全性保護設定都會預設開啟。
 new-profile-page-learn-more = 更多資訊
 new-profile-page-input-placeholder =
     .placeholder = 使用諸如「工作」或「個人」這樣的名稱

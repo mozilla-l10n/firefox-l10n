@@ -310,6 +310,8 @@ newtab-wallpaper-dark-panda = 隱藏在森林中的小貓熊
 newtab-wallpaper-dark-sky = 城市的夜空景觀
 newtab-wallpaper-dark-mountain = 山景
 newtab-wallpaper-dark-city = 紫色城市風景
+newtab-wallpaper-dark-fox-anniversary = 一隻在森林附近人行道上的狐狸
+newtab-wallpaper-light-fox-anniversary = 一隻在迷霧山景中的草原上的狐狸
 
 ## Solid Colors
 
