@@ -6,8 +6,6 @@ title-label = Относно приставките
 installed-plugins-label = Инсталирани приставки
 no-plugins-are-installed-label = Не са намерени инсталирани приставки
 deprecation-description = Липсва ли нещо? Някои приставки вече не се поддържат. <a data-l10n-name="deprecation-link">Научете повече</a>
-deprecation-description2 =
-    .message = Липсва ли нещо? Някои приставки вече не се поддържат.
 
 ## The information of plugins
 ##
@@ -39,4 +37,4 @@ plugins-gmp-license-info = Лицензна информация
 plugins-gmp-privacy-info = Информация за личните данни
 plugins-openh264-name = Видео кодек OpenH264, доставен от Cisco Systems, Inc.
 plugins-openh264-description = Тази приставка се инсталира автоматично от Mozilla за съвместимост със спецификацията на WebRTC, и за да направи възможни обаждания към устройства изискващи видео кодек H.264. Посетете http://www.openh264.org/, за да разгледате изходния код и да научите повече за реализацията.
-plugins-widevine-name = Дешифриращият модул на съдържание Widevine е предоставен от Google Inc.
+plugins-widevine-name = Модул за декриптиране на съдържание Widevine, предоставен от Google Inc.
