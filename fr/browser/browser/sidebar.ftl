@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Vérificateur d’avis
+sidebar-options-menu-button =
+    .title = Ouvrir le menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Développer et réduire le panneau latéral
 sidebar-visibility-setting-hide-sidebar =
     .label = Afficher et masquer le panneau latéral
-sidebar-customize-settings-header =
-    .label = Paramètres du panneau latéral
-sidebar-visibility-always-show =
-    .label = Toujours afficher
-sidebar-visibility-hide-sidebar =
-    .label = Masquer le panneau latéral
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Onglets d’autres appareils
 synced-tabs-context-close-tab-title =
     .title = Fermer l’onglet sur { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Développer le panneau latéral
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Réduire le panneau latéral
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Afficher le panneau latéral
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Masquer le panneau latéral
 sidebar-widget-expand-sidebar =
     .tooltiptext = Développer le panneau latéral
     .label = Panneau latéral

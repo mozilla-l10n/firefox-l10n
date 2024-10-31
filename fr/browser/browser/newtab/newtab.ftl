@@ -111,6 +111,7 @@ newtab-menu-save-to-pocket = Enregistrer dans { -pocket-brand-name }
 newtab-menu-delete-pocket = Supprimer de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiver dans { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nos sponsors et votre vie privée
+newtab-menu-about-fakespot = À propos de { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -309,6 +310,8 @@ newtab-wallpaper-dark-panda = Panda roux caché dans la forêt
 newtab-wallpaper-dark-sky = Paysage de ville avec un ciel nocturne
 newtab-wallpaper-dark-mountain = Paysage de montagne
 newtab-wallpaper-dark-city = Paysage de ville avec une teinte violette
+newtab-wallpaper-dark-fox-anniversary = Un renard sur des pavés près d’une forêt
+newtab-wallpaper-light-fox-anniversary = Un renard dans un pré avec un paysage montagneux embrumé
 
 ## Solid Colors
 
