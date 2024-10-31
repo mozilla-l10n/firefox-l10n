@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Seleccione el perfil de usuario
 profile-window-heading = Elija un perfil de { -brand-short-name }
+profile-window-body = Mantenga su navegación personal y laboral, incluyendo cosas como contraseñas y marcadores, totalmente separados. O cree perfiles para todos los usuarios de este dispositivo.
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Mostrar esto cuando se abra { -brand-short-name }
@@ -19,11 +20,23 @@ edit-profile-page-explore-themes = Explorar más temas
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
+edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo más fácil en el futuro. Se puede renombrar en cualquier momento.
 edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Probá un nombre nuevo.
 edit-profile-page-profile-saved = Guardado
 new-profile-page-title = Nuevo perfil
+new-profile-page-header = Personalizar el nuevo perfil
 new-profile-page-header-description = Cada perfil mantiene su historial y configuración de navegación únicos separados de tus otros perfiles. Además, las sólidas protecciones de privacidad de { -brand-short-name } están activadas de forma predeterminada.
 new-profile-page-learn-more = Conocer más
+new-profile-page-input-placeholder =
+    .placeholder = Seleccione un nombre como “Trabajo” o “Personal”
+new-profile-page-done-button =
+    .label = Finalizar edición
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Borrar perfil { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = ¿Borrar perfil { $profilename }?
