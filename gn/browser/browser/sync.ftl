@@ -35,3 +35,6 @@ fxa-menu-sign-out =
     .label = Ñesẽ…
 fxa-menu-sync-title = Mbojuehe
 fxa-menu-sync-description = Eike ne ñandutiroguépe oimehágui
+sync-setup-verify-continue = Ku’ejey
+sync-setup-verify-title = Kyhyjerã jehe’agua
+sync-setup-verify-heading = Remoñepyrũsépa tembiapo embojuehe hag̃ua

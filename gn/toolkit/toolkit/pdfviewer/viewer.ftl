@@ -343,6 +343,10 @@ pdfjs-editor-stamp-add-image-button-label = Embojuaju ta’ãnga
 pdfjs-editor-free-highlight-thickness-input = Anambusu
 pdfjs-editor-free-highlight-thickness-title =
     .title = Emoambue anambusukue embosa’ývo mba’eporu ha’e’ỹva moñe’ẽrã
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Moñe’ẽrã moheñoiha
+    .default-content = Eñepyrũ ehai…
 pdfjs-free-text =
     .aria-label = Moñe’ẽrã moheñoiha
 pdfjs-free-text-default-content = Ehai ñepyrũ…
