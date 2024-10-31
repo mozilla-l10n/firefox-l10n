@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Деректерді синхрондау жә
 appmenu-fxa-signed-in-label = Кіру
 appmenu-fxa-setup-sync =
     .label = Синхрондауды іске қосу…
+appmenu-fxa-setup-sync-new = Іске қосу
 appmenuitem-save-page =
     .label = Парақты қалайша сақтау…
+appmenuitem-fxa-sync-off-title = Синхрондау сөндірулі тұр
+appmenuitem-fxa-sync-off-description = Кез келген жерде бетбелгілер, паррольдер және т.б. қорғау және оларға қол жеткізу.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
+
+## Profiles panel
+
+appmenu-profiles = Профильдер
+appmenu-other-profiles = Басқа профильдер
+appmenu-manage-profiles =
+    .label = Профильдерді басқару
+appmenu-create-profile =
+    .label = Жаңа профиль
+appmenu-edit-profile =
+    .aria-label = Профильді түзету
