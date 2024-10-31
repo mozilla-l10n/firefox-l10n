@@ -31,3 +31,11 @@ fxa-menu-sign-out =
     .label = 登出…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = 隨時隨地開啟您的網頁
+sync-setup-verify-continue = 繼續
+sync-setup-verify-title = 資料合併警告
+sync-setup-verify-heading = 您確定要登入至 Sync 嗎？
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = 先前已有不同使用者於此電腦登入同步。若繼續登入，將會與 %S 合併此瀏覽器中的書籤、密碼與其他設定
