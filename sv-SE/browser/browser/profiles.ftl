@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Välj användarprofil
 profile-window-heading = Välj en { -brand-short-name }-profil
-profile-window-body = Håll din surfning på arbete och privat, inklusive saker som lösenord och bokmärken, helt åtskilda. Eller skapa profiler för alla som använder den här enheten.
+profile-window-body = Håll ditt arbete och din personliga surfning, inklusive saker som lösenord och bokmärken, helt åtskilda. Eller skapa profiler för alla som använder den här enheten.
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Visa detta när { -brand-short-name } öppnas
