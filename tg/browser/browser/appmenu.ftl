@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ до�
 appmenu-fxa-signed-in-label = Ворид шудан
 appmenu-fxa-setup-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
+appmenu-fxa-setup-sync-new = Фаъол кардан
 appmenuitem-save-page =
     .label = Нигоҳ доштани саҳифа ҳамчун…
+appmenuitem-fxa-sync-off-title = Ҳамоҳангсозӣ ғайрифаъол аст
 
 ## What's New panel in App menu.
 
@@ -279,3 +281,9 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
+
+## Profiles panel
+
+appmenu-profiles = Профилҳо
+appmenu-create-profile =
+    .label = Профили нав
