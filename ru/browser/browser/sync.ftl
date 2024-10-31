@@ -36,3 +36,11 @@ fxa-menu-sign-out =
     .label = Выйти…
 fxa-menu-sync-title = Синхронизация
 fxa-menu-sync-description = Доступ к Интернету из любого места
+sync-setup-verify-continue = Продолжить
+sync-setup-verify-title = Предупреждение о слиянии
+sync-setup-verify-heading = Вы уверены, что хотите войти в синхронизацию?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Другой пользователь ранее входил в синхронизацию на этом компьютере. Вход приведёт к слиянию закладок, паролей и других параметров этого браузера с { $email }

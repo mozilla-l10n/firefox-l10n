@@ -40,3 +40,20 @@ delete-profile-page-title = Удалить профиль { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Удалить профиль { $profilename }?
+delete-profile-description = { -brand-short-name } навсегда удалит следующие данные с этого устройства:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Открытые окна
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Открытые вкладки
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Закладки
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = История (посещённые страницы, куки, данные сайтов)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Данные автозаполнения (адреса, способы оплаты)
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Пароли
+# Button label
+delete-profile-cancel = Отмена
+# Button label
+delete-profile-confirm = Удалить
