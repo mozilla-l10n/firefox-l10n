@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Clauder session…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Accede tu web ubique
+sync-setup-verify-continue = Continuar
+sync-setup-verify-title = Notification de fusion
+sync-setup-verify-heading = Desira tu vermente connecter te pro synchronisar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un altere usator esseva previemente connectite pro synchronisar sur iste computator. Aperir session fusionara le marcapaginas, contrasignos e altere parametros de iste navigator con { $email }
