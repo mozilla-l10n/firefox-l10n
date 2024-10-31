@@ -155,18 +155,18 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = E-mejlowu adresu kopěrować
-    .accesskey = E
+    .accesskey = a
 main-context-menu-copy-phone =
     .label = Telefonowe čisło kopěrować
     .accesskey = T
 main-context-menu-copy-link-simple =
     .label = Wotkaz kopěrować
-    .accesskey = z
+    .accesskey = a
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = Wotkaz bjez slědowanja sydła kopěrować
-    .accesskey = o
+    .accesskey = b
 
 ## Media (video/audio) controls
 ##
@@ -243,7 +243,7 @@ main-context-menu-image-copy =
     .accesskey = r
 main-context-menu-image-copy-link =
     .label = Wobrazowy wotkaz kopěrować
-    .accesskey = b
+    .accesskey = r
 main-context-menu-video-copy-link =
     .label = Widejowotkaz kopěrować
     .accesskey = i

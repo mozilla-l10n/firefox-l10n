@@ -42,7 +42,7 @@ fxviewtabrow-add-bookmark = Jako zapołožku składować…
 fxviewtabrow-save-to-pocket = Pola { -pocket-brand-name } składować
     .accesskey = P
 fxviewtabrow-copy-link = Wotkaz kopěrować
-    .accesskey = o
+    .accesskey = a
 fxviewtabrow-close-tab = Rajtark začinić
     .accesskey = z
 fxviewtabrow-move-tab = Rajtark přesunyć
@@ -67,14 +67,6 @@ fxviewtabrow-unmute-tab = Zněmjenje rajtarka anulować
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Nastajenja za { $tabTitle }
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = { $tabTitle } zněmić
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = Zněmjenje { $tabTitle } zběhnyć
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
