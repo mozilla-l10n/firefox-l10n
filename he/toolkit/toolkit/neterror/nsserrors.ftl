@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שפרוטוקול ה־SSL נוטרל.
 psmerr-ssl2-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שהאתר משתמש בגרסה ישנה ולא מאובטחת של פרוטוקול ה־SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     קיבלת אישור אבטחה שגוי. אנא צור קשר עם מנהל השרת או איש הקשר שצוין באישור האבטחה ותן להם את הפרטים הבאים:
     
     אישור האבטחה שלך מכיל את אותו המספר הסידורי כמו אישור אבטחה אחר שהונפק על־ידי רשות אישורי האבטחה. אנא השג אישור אבטחה חדש המכיל מספר סידורי ייחודי.
-
 ssl-error-export-only-server = לא ניתן לתקשר בצורה מאובטחת. נקודת הקצה לא תומכת בהצפנה ברמה גבוהה.
 ssl-error-us-only-server = לא ניתן ליצור קשר בצורה מאובטחת. הצד השני דורש אבטחה ברמה גבוהה שאין בה תמיכה.
 ssl-error-no-cypher-overlap = לא ניתן ליצור קשר בצורה מאובטחת עם הצד השני: אין אלגוריתמים חופפים של הצפנה.
@@ -142,7 +141,6 @@ ssl-error-no-supported-signature-algorithm = לא הוגדר אלגוריתם ח
 ssl-error-unsupported-signature-algorithm = העמית השתמש בצירוף בלתי נתמך של חתימה ואלגוריתם גיבוב.
 ssl-error-missing-extended-master-secret = העמית ניסה להמשיך ללא הרחבת extended_master_secret נכונה.
 ssl-error-unexpected-extended-master-secret = העמית ניסה להמשיך עם הרחבת extended_master_secret בלתי צפויה.
-
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -309,7 +307,6 @@ sec-error-locked-password = הססמה ננעלה.
 sec-error-unknown-pkcs11-error = שגיאת PKCS #11 לא ידועה.
 sec-error-bad-crl-dp-url = כתובת לא חוקית או לא נתמכת בשם נקודת ההפצה של CRL.
 sec-error-cert-signature-algorithm-disabled = אישור האבטחה נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
-
 mozilla-pkix-error-ca-cert-used-as-end-entity = השרת משתמש באישור עם הרחבת אילוצים בסיסית שגורמת לו להזדהות בתור רשות אישורים. זה לא אמור לקרות אם האישור הונפק כראוי.
 mozilla-pkix-error-inadequate-key-size = השרת הציג אישור עם גודל מפתח קטן מכדי לקיים חיבור מאובטח.
 mozilla-pkix-error-not-yet-valid-certificate = השרת הציג אישור שאינו תקף עוד.
@@ -321,11 +318,10 @@ mozilla-pkix-error-required-tls-feature-missing = תכונת ה־TLS הנדרש�
 mozilla-pkix-error-invalid-integer-encoding = השרת הציג אישור שמכיל קידוד שגוי של מספר שלם וחיובי. הסיבות הנפוצות לכך הן מספרי סידוריים שליליים, שאריות שליליות של RSA וקידודים ארוכים מהנדרש.
 mozilla-pkix-error-additional-policy-constraint-failed = אילוץ מדיניות נוסף נכשל בעת אימות האישור הזה.
 mozilla-pkix-error-self-signed-cert = האישור אינו מהימן מכיוון שהוא נחתם עצמית.
-
+mozilla-pkix-error-issuer-no-longer-trusted = רשות האישורים שהנפיקה את אישור האבטחה הפכה לגורם בלתי אמין לפני הנפקת התעודה.
 xp-java-remove-principal-error = Couldn't remove the principal
 xp-java-delete-privilege-error = Couldn't delete the privilege
 xp-java-cert-not-exists-error = This principal doesn't have a certificate
-
 xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized. Please remove it and return it to your issuer.
 xp-sec-fortezza-no-card = No Fortezza cards Found
 xp-sec-fortezza-none-selected = No Fortezza card selected
