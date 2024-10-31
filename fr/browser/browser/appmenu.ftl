@@ -104,8 +104,11 @@ appmenu-fxa-sync-and-save-data2 = Synchroniser et enregistrer les données
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
     .label = Activer la synchronisation…
+appmenu-fxa-setup-sync-new = Activer
 appmenuitem-save-page =
     .label = Enregistrer sous…
+appmenuitem-fxa-sync-off-title = Synchronisation désactivée
+appmenuitem-fxa-sync-off-description = Protégez vos marque-pages, mots de passe et d’autres données et accédez-y où que vous soyez.
 
 ## What's New panel in App menu.
 
@@ -275,3 +278,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Masquez votre véritable adresse e-mail et votre véritable numéro de téléphone
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protégez vos activités en ligne
+
+## Profiles panel
+
+appmenu-profiles = Profils
+appmenu-other-profiles = Autres profils
+appmenu-manage-profiles =
+    .label = Gérer les profils
+appmenu-create-profile =
+    .label = Nouveau profil
+appmenu-edit-profile =
+    .aria-label = Modifier le profil
