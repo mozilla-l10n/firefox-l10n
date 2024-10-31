@@ -316,6 +316,8 @@ newtab-wallpaper-dark-panda = Čerwjeny panda w lěsu schowany
 newtab-wallpaper-dark-sky = Měšćanska krajina z nócnym njebjom
 newtab-wallpaper-dark-mountain = Horinska krajina
 newtab-wallpaper-dark-city = Wioletna měšćanska krajina
+newtab-wallpaper-dark-fox-anniversary = Liška na dłóžbje blisko lěsa
+newtab-wallpaper-light-fox-anniversary = Liška w trawnym polu z młowej horinskej krajinu
 
 ## Solid Colors
 
