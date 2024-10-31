@@ -313,6 +313,8 @@ newtab-wallpaper-dark-panda = Pánda pytã okañýva ñañandýpe
 newtab-wallpaper-dark-sky = Táva jehecha ára pytũmby ndive
 newtab-wallpaper-dark-mountain = Yvyty jehecha
 newtab-wallpaper-dark-city = Táva jehecha pytãũva
+newtab-wallpaper-dark-fox-anniversary = Peteĩ aguara ka’aguy mboypýri
+newtab-wallpaper-light-fox-anniversary = Aguara ñu mbyte ikapi’ipéva ojehechahápe yvyty hatatĩnáva
 
 ## Solid Colors
 
