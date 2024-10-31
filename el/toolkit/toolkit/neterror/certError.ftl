@@ -130,6 +130,9 @@ fp-certerror-page-title = Προειδοποίηση: Κίνδυνος ασφα�
 fp-certerror-body-title = Να προσέχετε. Κάτι δεν πάει καλά.
 fp-certerror-why-site-dangerous = Τι είναι αυτό που κάνει τον ιστότοπο να φαίνεται επικίνδυνος;
 fp-certerror-what-can-you-do = Τι μπορείτε να κάνετε για αυτό;
+fp-certerror-advanced-title = Σύνθετες επιλογές
+fp-certerror-advanced-button = Σύνθετες επιλογές
+fp-certerror-hide-advanced-button = Απόκρυψη σύνθετων επιλογών
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

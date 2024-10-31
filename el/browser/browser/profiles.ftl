@@ -23,6 +23,7 @@ edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ γ�
 edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
 edit-profile-page-profile-saved = Αποθηκεύτηκε
 new-profile-page-title = Νέο προφίλ
+new-profile-page-header = Προσαρμόστε το νέο σας προφίλ
 new-profile-page-learn-more = Μάθετε περισσότερα
 new-profile-page-input-placeholder =
     .placeholder = Επιλέξτε ένα όνομα, όπως «Εργασία» ή «Προσωπικό»
@@ -37,6 +38,7 @@ delete-profile-page-title = Διαγραφή του προφίλ «{ $profilenam
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Διαγραφή του προφίλ «{ $profilename }»;
+delete-profile-description = Το { -brand-short-name } θα διαγράψει οριστικά τα ακόλουθα δεδομένα από αυτήν τη συσκευή:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Ανοικτά παράθυρα
 # Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.

@@ -314,6 +314,8 @@ newtab-wallpaper-dark-panda = Κόκκινο πάντα στο δάσος
 newtab-wallpaper-dark-sky = Αστικό τοπίο με νυχτερινό ουρανό
 newtab-wallpaper-dark-mountain = Ορεινό τοπίο
 newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
+newtab-wallpaper-dark-fox-anniversary = Μια αλεπού στο πεζοδρόμιο κοντά σε ένα δάσος
+newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρασίδι, με ένα ομιχλώδες ορεινό τοπίο
 
 ## Solid Colors
 

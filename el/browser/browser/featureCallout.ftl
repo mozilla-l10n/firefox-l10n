@@ -59,3 +59,7 @@ split-dismiss-button-dont-show-option-label = Να μην εμφανιστεί �
 split-dismiss-button-show-fewer-option-label = Εμφάνιση λιγότερων προτάσεων
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Διαχείριση ρυθμίσεων
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή

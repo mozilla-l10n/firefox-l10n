@@ -111,6 +111,7 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Ενεργοποίηση
 appmenuitem-save-page =
     .label = Αποθήκευση σελίδας ως…
+appmenuitem-fxa-sync-off-title = Ο συγχρονισμός είναι ανενεργός
 
 ## What's New panel in App menu.
 
