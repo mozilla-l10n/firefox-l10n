@@ -33,3 +33,26 @@ new-profile-page-done-button =
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = 删除“{ $profilename }”配置文件
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = 确定要删除“{ $profilename }”配置文件吗？
+delete-profile-description = { -brand-short-name } 将从此设备上永久删除以下数据：
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = 打开的窗口
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = 打开的标签页
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = 书签
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = 历史记录（曾访问的页面、Cookie、网站数据）
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = 自动填写数据（地址、付款方式）
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = 密码
+# Button label
+delete-profile-cancel = 取消
+# Button label
+delete-profile-confirm = 删除
