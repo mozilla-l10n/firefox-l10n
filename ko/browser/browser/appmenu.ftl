@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = 데이터 동기화 및 저장
 appmenu-fxa-signed-in-label = 로그인
 appmenu-fxa-setup-sync =
     .label = 동기화 켜기…
+appmenu-fxa-setup-sync-new = 켜기
 appmenuitem-save-page =
     .label = 페이지를 다른 이름으로 저장…
+appmenuitem-fxa-sync-off-title = 동기화 꺼짐
 
 ## What's New panel in App menu.
 
@@ -279,3 +281,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = 온라인 활동을 보호하세요
+
+## Profiles panel
+
