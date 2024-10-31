@@ -31,3 +31,11 @@ fxa-menu-sign-out =
     .label = 로그아웃…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = 어디서나 웹에 접근하세요
+sync-setup-verify-continue = 계속
+sync-setup-verify-title = 합치기 경고
+sync-setup-verify-heading = Sync에 가입하시겠습니까?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = 다른 사용자가 이전에 이 컴퓨터에서 Sync에 로그인한 적이 있습니다. 로그인하면 이 브라우저의 북마크, 비밀번호 및 기타 설정이 { $email } 사용자와 병합됩니다.
