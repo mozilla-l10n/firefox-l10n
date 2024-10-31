@@ -35,3 +35,4 @@ fxa-menu-sign-out =
     .label = Шығу…
 fxa-menu-sync-title = Синхрондау
 fxa-menu-sync-description = Интернетке кез келген жерден қол жеткізіңіз
+sync-setup-verify-continue = Жалғастыру

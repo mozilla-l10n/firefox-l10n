@@ -14,6 +14,20 @@ edit-profile-page-explore-themes = Көбірек темаларды шолу
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Өшіру
+edit-profile-page-profile-saved = Сақталды
+new-profile-page-title = Жаңа профиль
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Ашық терезелер
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Ашық беттер
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Бетбелгілер
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Парольдер
+# Button label
+delete-profile-cancel = Бас тарту
+# Button label
+delete-profile-confirm = Өшіру
