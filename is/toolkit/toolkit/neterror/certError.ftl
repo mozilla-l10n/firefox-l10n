@@ -75,6 +75,10 @@ fp-certerror-view-certificate-link = Skoða skilríki vefsvæðis
 fp-certerror-return-to-previous-page-recommended-button = Fara til baka (ráðlagt)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ekki margt. Það virðist vera vandamál með þetta vefsvæði.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Klukka tækisins þíns er stillt á { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ef hún er rétt er öryggisvandamálið líklega varðandi sjálft vefsvæðið. Ef hún er röng geturðu breytt henni í kerfisstillingum tækisins.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Villunúmer: { $error }
