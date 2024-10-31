@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = צ’אט בוט AI
 menu-view-review-checker =
     .label = בודק הסקירות
+sidebar-options-menu-button =
+    .title = פתיחת תפריט
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = מרחיב ומכווץ את סרגל הצד
 sidebar-visibility-setting-hide-sidebar =
     .label = מציג ומסתיר את סרגל הצד
-sidebar-customize-settings-header =
-    .label = הגדרות סרגל צד
-sidebar-visibility-always-show =
-    .label = תמיד להציג
-sidebar-visibility-hide-sidebar =
-    .label = הסתרת סרגל הצד
 
 ## Labels for sidebar context menu items
 
