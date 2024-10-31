@@ -25,6 +25,7 @@ edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοπ
 edit-profile-page-profile-saved = Αποθηκεύτηκε
 new-profile-page-title = Νέο προφίλ
 new-profile-page-header = Προσαρμόστε το νέο σας προφίλ
+new-profile-page-header-description = Κάθε προφίλ διατηρεί το μοναδικό ιστορικό περιήγησης και τις ρυθμίσεις του ξεχωριστά από τα υπόλοιπα. Επιπλέον, η ισχυρή προστασία απορρήτου του { -brand-short-name } είναι ενεργή από προεπιλογή.
 new-profile-page-learn-more = Μάθετε περισσότερα
 new-profile-page-input-placeholder =
     .placeholder = Επιλέξτε ένα όνομα, όπως «Εργασία» ή «Προσωπικό»

@@ -73,6 +73,7 @@ open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε
 csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτήν τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
 fp-certerror-view-certificate-link = Προβολή πιστοποιητικού ιστοτόπου
 fp-certerror-return-to-previous-page-recommended-button = Επιστροφή (Προτείνεται)
+fp-certerror-self-signed-important-note = ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ: Εάν προσπαθείτε να επισκεφτείτε αυτόν τον ιστότοπο σε ένα εταιρικό ενδοδίκτυο, οι υπάλληλοι του τμήματος IT ενδέχεται να χρησιμοποιούν αυτοϋπογεγραμμένα πιστοποιητικά. Μπορούν να σας βοηθήσουν να ελέγξετε την αυθεντικότητά τους.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Κωδικός σφάλματος: { $error }
