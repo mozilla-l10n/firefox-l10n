@@ -88,12 +88,28 @@ fp-certerror-unknown-issuer-what-can-you-do-body = 这很可能是网站自身�
 fp-certerror-self-signed-why-dangerous-body = 因为此网站的证书存在问题。各个网站通过证书授权机构颁发的证书证明自己声称的身份。此网站的证书通过自签名得来，而非由受认可的证书授权机构颁发。默认设置下，我们不信任此证书。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = 这很可能是网站自身存在问题，您能进行的操作有限。
+fp-certerror-self-signed-important-note = 【重要提示】：如果您正尝试通过企业内网访问此网站，则您所在组织的 IT 职员可能使用了自签名证书。他们可为您检查证书的真实性。
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = 各个网站通过证书授权机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书似乎已于 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } 过期。
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = 各个网站通过证书授权机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书需到 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } 才开始生效。
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = 您的设备时间为 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }。若无误，则这可能是网站自身的安全问题。若有误，可在设备的系统设置中更改。
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = 错误代码：{ $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = 详细了解安全连接失败
+fp-learn-more-about-cert-issues = 详细了解此类证书问题
+fp-learn-more-about-time-related-errors = 详细了解时间相关错误的解决办法
 
 ## Messages used for certificate error titles
 
@@ -139,6 +155,8 @@ certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连�
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = 警告：存在安全风险
+fp-certerror-body-title = 当心，看来有异常情况。
+fp-certerror-why-site-dangerous = 为什么此网站可能危险？
 fp-certerror-what-can-you-do = 您可以做什么？
 fp-certerror-advanced-title = 高级
 fp-certerror-advanced-button = 高级
@@ -148,3 +166,5 @@ fp-certerror-hide-advanced-button = 隐藏高级选项
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = 继续前往 { $hostname }（存在风险）
+fp-certerror-intro = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在严重的安全隐患。若有人冒充此网站，其可试图窃取您的信用卡信息、密码、邮箱地址等数据。
+fp-certerror-expired-into = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在安全问题。此网站可能未正确设置，或者您设备的日期/时间有误。
