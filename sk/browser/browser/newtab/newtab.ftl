@@ -311,6 +311,8 @@ newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
 newtab-wallpaper-dark-sky = Mestská scenéria s nočnou oblohou
 newtab-wallpaper-dark-mountain = Horská scenéria
 newtab-wallpaper-dark-city = Fialová mestská scenéria
+newtab-wallpaper-dark-fox-anniversary = Líška na chodníku pri lese
+newtab-wallpaper-light-fox-anniversary = Líška na trávnatom poli so zahmlenou horskou krajinou
 
 ## Solid Colors
 

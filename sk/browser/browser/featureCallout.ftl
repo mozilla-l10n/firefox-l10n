@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Toto odporúčanie už nezobrazova
 split-dismiss-button-show-fewer-option-label = Zobrazovať menej odporúčaní
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Spravovať nastavenia
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
+sidebar-button-callout-subtitle = Pomocou tlačidla bočného panela rozbaľte bočný panel, aby ste videli názvy kariet.
