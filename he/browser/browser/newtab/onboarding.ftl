@@ -334,6 +334,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = השתמשתי בו בע
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = איפה בא לך שנשים את הלשוניות?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = ניתן להחליף בינהם בכל עת בהגדרות סרגל הצד.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
