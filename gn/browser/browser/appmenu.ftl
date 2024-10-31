@@ -287,3 +287,9 @@ appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 
 appmenu-profiles = Mba’etekuéra
 appmenu-other-profiles = Ambue mba’etekuéra
+appmenu-manage-profiles =
+    .label = Mba’etekuéra ñangareko
+appmenu-create-profile =
+    .label = Mba’ete pyahu
+appmenu-edit-profile =
+    .aria-label = Embosako’i mba’ete
