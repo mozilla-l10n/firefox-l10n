@@ -88,7 +88,7 @@ fp-certerror-unknown-issuer-what-can-you-do-body = 这很可能是网站自身�
 fp-certerror-self-signed-why-dangerous-body = 因为此网站的证书存在问题。各个网站通过证书授权机构颁发的证书证明自己声称的身份。此网站的证书通过自签名得来，而非由受认可的证书授权机构颁发。默认设置下，我们不信任此证书。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = 这很可能是网站自身存在问题，您能进行的操作有限。
-fp-certerror-self-signed-important-note = 【重要提示】：如果您正尝试通过企业内网访问此网站，则您所在组织的 IT 职员可能使用了自签名证书。他们可为您检查证书的真实性。
+fp-certerror-self-signed-important-note = 【重要提示】如果您正尝试通过企业内网访问此网站，则您所在组织的 IT 职员可能使用了自签名证书。他们可为您检查证书的真实性。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.

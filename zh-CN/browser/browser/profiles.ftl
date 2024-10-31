@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } - 选择用户配置文件
 profile-window-heading = 选择 { -brand-short-name } 配置文件
-profile-window-body = 全面分隔工作与私人浏览体验，包括密码和书签等数据。也可以为此设备的用户分别创建配置文件。
+profile-window-body = 全面分隔办公与私人浏览体验，包括密码和书签等数据。也可以为此设备的用户分别创建配置文件。
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = 打开 { -brand-short-name } 时显示此窗口
@@ -27,7 +27,7 @@ new-profile-page-header = 自定义新配置文件
 new-profile-page-header-description = 各配置文件独立保存浏览历史和设置，互不影响。此外，{ -brand-short-name } 强大的隐私保护功能默认开启。
 new-profile-page-learn-more = 详细了解
 new-profile-page-input-placeholder =
-    .placeholder = 选取名称（例如“工作”或“私人”）
+    .placeholder = 选取名称（例如“办公”或“私人”）
 new-profile-page-done-button =
     .label = 完成编辑
 
