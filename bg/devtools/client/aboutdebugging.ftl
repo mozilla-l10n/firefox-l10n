@@ -85,6 +85,8 @@ about-debugging-refresh-usb-devices-button = Презареждане на сп�
 
 # Title of the Setup page.
 about-debugging-setup-title = Настройки
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Задайте начина на свързване, с който искате да извършите дистанционно отстраняване на грешки в устройството.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Свържете устройство
 # USB section of the Setup page
