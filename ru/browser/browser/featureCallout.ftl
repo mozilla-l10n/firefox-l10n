@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Больше не показыва
 split-dismiss-button-show-fewer-option-label = Показывать меньше рекомендаций
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Управление настройками
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Показывать заголовки вкладок на боковой панели
+sidebar-button-callout-subtitle = Используйте кнопку боковой панели, чтобы развернуть боковую панель и увидеть заголовки вкладок.

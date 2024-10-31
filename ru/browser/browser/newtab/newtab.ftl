@@ -315,6 +315,8 @@ newtab-wallpaper-dark-panda = Красная панда, прячущаяся в
 newtab-wallpaper-dark-sky = Городской пейзаж с ночным небом
 newtab-wallpaper-dark-mountain = Горный пейзаж
 newtab-wallpaper-dark-city = Фиолетовый городской пейзаж
+newtab-wallpaper-dark-fox-anniversary = Лиса на дороге рядом с лесом
+newtab-wallpaper-light-fox-anniversary = Лиса на травяном поле с туманным горным ландшафтом
 
 ## Solid Colors
 

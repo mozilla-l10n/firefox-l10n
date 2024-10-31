@@ -291,3 +291,5 @@ appmenu-manage-profiles =
     .label = Управление профилями
 appmenu-create-profile =
     .label = Новый профиль
+appmenu-edit-profile =
+    .aria-label = Редактировать профиль
