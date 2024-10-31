@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Cerrar sesión…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Acceso a su web en todas partes
+sync-setup-verify-continue = Continuar
+sync-setup-verify-title = Advertencia de mezcla
+sync-setup-verify-heading = ¿Está seguro de querer iniciar sesión para sincronizar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un usuario diferente ya ingresó previamente para sincronizar en esta computadora. Iniciar sesión mezclará los marcadores, contraseñas y otra configuración de este navegador con { $email }
