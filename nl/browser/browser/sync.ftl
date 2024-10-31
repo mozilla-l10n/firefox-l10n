@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Afmelden…
 fxa-menu-sync-title = Synchronisatie
 fxa-menu-sync-description = Overal toegang tot uw internet
+sync-setup-verify-continue = Doorgaan
+sync-setup-verify-title = Waarschuwing voor samenvoegen
+sync-setup-verify-heading = Weet u zeker dat u zich wilt aanmelden om te synchroniseren?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Een andere gebruiker was eerder op deze computer aangemeld om te synchroniseren. Aanmelden zal de bladwijzers, wachtwoorden en andere instellingen van deze browser samenvoegen met die van { $email }

@@ -314,6 +314,8 @@ newtab-wallpaper-dark-panda = Rode panda verborgen in bos
 newtab-wallpaper-dark-sky = Stadslandschap met een nachtelijke hemel
 newtab-wallpaper-dark-mountain = Landschap met berg
 newtab-wallpaper-dark-city = Paars stadslandschap
+newtab-wallpaper-dark-fox-anniversary = Een vos op de stoep bij een bos
+newtab-wallpaper-light-fox-anniversary = Een vos in een grasveld met een mistig berglandschap
 
 ## Solid Colors
 

@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Deze aanbeveling niet meer tonen
 split-dismiss-button-show-fewer-option-label = Minder aanbevelingen tonen
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Instellingen beheren
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
+sidebar-button-callout-subtitle = Gebruik de zijbalkknop om de zijbalk uit te vouwen, zodat u tabbladtitels kunt zien.
