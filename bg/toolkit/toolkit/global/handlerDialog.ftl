@@ -24,8 +24,8 @@ permission-dialog-remember = Винаги да се позволява на <str
 ##
 
 permission-dialog-btn-open-link =
-    .label = Свържи
-    .accessKey = С
+    .label = Отваряне
+    .accessKey = о
 permission-dialog-btn-choose-app =
     .label = Изберете Приложение
     .accessKey = п
@@ -40,8 +40,8 @@ chooser-window =
     .title = Изберете приложение
     .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
-    .buttonlabelaccept = Свържи
-    .buttonaccesskeyaccept = С
+    .buttonlabelaccept = Отваряне
+    .buttonaccesskeyaccept = о
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Това може да бъде променено в настройките на { -brand-short-name }.
