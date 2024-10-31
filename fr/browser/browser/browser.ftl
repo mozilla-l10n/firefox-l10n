@@ -635,6 +635,12 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Fermer
 urlbar-searchmode-popup-description = Pour cette fois-ci, rechercher avec :
 urlbar-searchmode-popup-search-settings = Paramètres de recherche
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, sélectionner un moteur de recherche
+    .tooltiptext = { $engine }, sélectionner un moteur de recherche
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

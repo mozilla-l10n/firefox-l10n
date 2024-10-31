@@ -246,6 +246,8 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Prévoyez-vous d’
 device-migration-fxa-spotlight-getting-new-device-body-2 = Suivez quelques étapes simples pour emporter avec vous vos marque-pages, votre historique et vos mots de passe lorsque vous aurez un nouvel appareil.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Comment sauvegarder mes données
 device-migration-fxa-spotlight-sync-header = Naviguez sans rien manquer
+device-migration-fxa-spotlight-sync-body = Synchronisez et chiffrez vos informations importantes, comme les marque-pages et les mots de passe. Vous pourrez accéder à toutes vos données partout où vous utilisez { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Commencer
 
 ## Set as Default PDF Reader Infobar
 
@@ -300,3 +302,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Fermer
     .aria-label = Fermer
+fxa-menu-message-sync-devices-primary-text = Synchronisez tous vos appareils
+fxa-menu-message-sync-devices-secondary-text = Accédez instantanément à vos informations (comme les marque-pages et les mots de passe) partout où vous utilisez { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Synchronisez tous vos appareils
+fxa-menu-message-backup-data-primary-text = Sauvegardez les données de votre navigateur
