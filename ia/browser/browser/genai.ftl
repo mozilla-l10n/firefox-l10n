@@ -134,6 +134,7 @@ genai-onboarding-gemini-analyze = Analysar imagines (gratuite) e documentos (pag
 genai-onboarding-gemini-price = Optiones gratuite e pagate; conto obligatori
 genai-onboarding-huggingchat-generate = Generar texto e codice
 genai-onboarding-huggingchat-switch = Passar a un diverse insimul de modellos aperte
+genai-onboarding-huggingchat-price-2 = Gratuite; conto obligatori post un certe numero de requestas
 genai-onboarding-huggingchat-price = Gratuite; conto necessari pro alcun activitates
 genai-onboarding-lechat-generate = Generar texto e codice
 genai-onboarding-lechat-price = Gratuite; conto obligatori

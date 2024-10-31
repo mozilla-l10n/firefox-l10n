@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Non monstrar de novo iste recommen
 split-dismiss-button-show-fewer-option-label = Monstrar minus recommendationes
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gerer parametros
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
+sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.

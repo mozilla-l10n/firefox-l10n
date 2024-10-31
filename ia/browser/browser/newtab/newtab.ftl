@@ -310,6 +310,8 @@ newtab-wallpaper-dark-panda = Panda rubie celate in bosco
 newtab-wallpaper-dark-sky = Paisage urban con un celo nocturne
 newtab-wallpaper-dark-mountain = Paisage montan
 newtab-wallpaper-dark-city = Paisage urban purpuree
+newtab-wallpaper-dark-fox-anniversary = Un vulpe sur le pavimento presso un bosco
+newtab-wallpaper-light-fox-anniversary = Un vulpe in un prato con un brumose paisage montan
 
 ## Solid Colors
 

@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } - Eliger un profilo de usator
+profile-window-heading = Elige un profilo de { -brand-short-name }
+profile-window-body = Preserva tu labor e navigation personal, includite cosas como contrasignos e marcapaginas, totalmente separate. O crea profilos pro tote les qui usa iste apparato.
+# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Monstrar isto quando { -brand-short-name } se aperi
 profile-window-create-profile = Crear un profilo
 # Variables
 #   $number (number) - The number of the profile
@@ -15,16 +20,37 @@ edit-profile-page-explore-themes = Explorar altere themas
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Deler
+edit-profile-page-no-name = Nomina iste profilo pro adjutar te a trovar lo plus tarde. Renomina lo quandocunque.
+edit-profile-page-duplicate-name = Nomine de profilo jam in uso. Tenta un nove nomine.
 edit-profile-page-profile-saved = Salvate
 new-profile-page-title = Nove profilo
+new-profile-page-header = Personalisa tu nove profilo
+new-profile-page-header-description = Cata profilo preserva su chronologia de navigation e parametros univoc, separate de tu altere profilos. In addition, le forte protectiones del confidentialitate de { -brand-short-name } es active de ordinario.
 new-profile-page-learn-more = Pro saper plus
+new-profile-page-input-placeholder =
+    .placeholder = Selige un nomine como “Labor” o “Personal”
+new-profile-page-done-button =
+    .label = Modification completate
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Deler profilo { $profileName }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Deler le profilo { $profileName }?
+delete-profile-description = { -brand-short-name } delera permanentemente le sequente datos ab iste apparato:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Aperir fenestras
 # Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
 delete-profile-tabs = Schedas aperte
 # Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Marcapaginas
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Chronologia (paginas visitate, cookies, datos de sito)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Datos de compilation automatic (adresses, methodos de pagamento)
 # Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Contrasignos
 # Button label
