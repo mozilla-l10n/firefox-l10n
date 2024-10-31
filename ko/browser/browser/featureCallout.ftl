@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = 이 추천을 다시 표시 안 �
 split-dismiss-button-show-fewer-option-label = 추천 적게 표시
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = 설정 관리
+
+## Sidebar Strings
+
+sidebar-button-callout-title = 사이드바에 탭 제목 표시
+sidebar-button-callout-subtitle = 사이드바 버튼을 사용하여 탭 제목을 볼 수 있도록 사이드바를 확장하세요.

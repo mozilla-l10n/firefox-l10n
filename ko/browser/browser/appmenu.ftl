@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = 켜기
 appmenuitem-save-page =
     .label = 페이지를 다른 이름으로 저장…
 appmenuitem-fxa-sync-off-title = 동기화 꺼짐
+appmenuitem-fxa-sync-off-description = 어디서나 북마크, 비밀번호 등을 보호하고 접근하세요.
 
 ## What's New panel in App menu.
 
@@ -284,3 +285,11 @@ appmenuitem-vpn-description = 온라인 활동을 보호하세요
 
 ## Profiles panel
 
+appmenu-profiles = 프로필
+appmenu-other-profiles = 다른 프로필
+appmenu-manage-profiles =
+    .label = 프로필 관리
+appmenu-create-profile =
+    .label = 새 프로필
+appmenu-edit-profile =
+    .aria-label = 프로필 편집
