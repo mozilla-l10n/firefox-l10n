@@ -19,6 +19,14 @@ edit-profile-page-explore-themes = Ehapykueho hetave téma
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Mboguete
+edit-profile-page-profile-saved = Ñongatupyre
+new-profile-page-title = Mba’ete pyahu
+new-profile-page-header = Emboava pe mba’ete pyahu
+new-profile-page-learn-more = Eikuaave
+new-profile-page-input-placeholder =
+    .placeholder = Eiporavo téra “Mba’apo” térã “Tapichaite”
+new-profile-page-done-button =
+    .label = Emohu’ã mbasako’i
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
