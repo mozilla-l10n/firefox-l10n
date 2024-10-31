@@ -59,3 +59,7 @@ split-dismiss-button-dont-show-option-label = 不要再顯示此建議
 split-dismiss-button-show-fewer-option-label = 減少顯示建議
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = 管理設定
+
+## Sidebar Strings
+
+sidebar-button-callout-title = 在側邊欄顯示分頁標題

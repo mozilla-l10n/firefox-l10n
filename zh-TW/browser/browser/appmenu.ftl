@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = 同步並儲存資料
 appmenu-fxa-signed-in-label = 登入
 appmenu-fxa-setup-sync =
     .label = 開啟同步…
+appmenu-fxa-setup-sync-new = 開啟
 appmenuitem-save-page =
     .label = 另存新檔…
+appmenuitem-fxa-sync-off-title = Sync 已關閉
 
 ## What's New panel in App menu.
 
@@ -279,3 +281,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = 隱藏您的實際信箱與電話號碼
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = 保護您的線上行為隱私
+
+## Profiles panel
+
+appmenu-profiles = 設定檔
+appmenu-other-profiles = 其他設定檔
+appmenu-manage-profiles =
+    .label = 管理設定檔
+appmenu-create-profile =
+    .label = 新增設定檔
+appmenu-edit-profile =
+    .aria-label = 編輯設定檔
