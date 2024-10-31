@@ -108,6 +108,7 @@ appmenu-fxa-sync-and-save-data2 = Συγχρονισμός και αποθήκε
 appmenu-fxa-signed-in-label = Σύνδεση
 appmenu-fxa-setup-sync =
     .label = Ενεργοποίηση συγχρονισμού…
+appmenu-fxa-setup-sync-new = Ενεργοποίηση
 appmenuitem-save-page =
     .label = Αποθήκευση σελίδας ως…
 
@@ -279,3 +280,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
+
+## Profiles panel
+
+appmenu-profiles = Προφίλ
+appmenu-other-profiles = Άλλα προφίλ
+appmenu-manage-profiles =
+    .label = Διαχείριση προφίλ
+appmenu-create-profile =
+    .label = Νέο προφίλ
+appmenu-edit-profile =
+    .aria-label = Επεξεργασία προφίλ
