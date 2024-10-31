@@ -3,17 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } - Επιλογή προφίλ χρήστη
+profile-window-heading = Επιλέξτε ένα προφίλ του { -brand-short-name }
+# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Εμφάνιση κατά το άνοιγμα του { -brand-short-name }
 profile-window-create-profile = Δημιουργία προφίλ
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Προφίλ { $number }
 edit-profile-page-title = Επεξεργασία προφίλ
+edit-profile-page-header = Επεξεργαστείτε το προφίλ σας
 edit-profile-page-profile-name-label = Όνομα προφίλ
 edit-profile-page-theme-header = Θέμα
+edit-profile-page-explore-themes = Εξερευνήστε περισσότερα θέματα
+edit-profile-page-avatar-header = Εικόνα χρήστη
 edit-profile-page-delete-button =
     .label = Διαγραφή
+edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
+edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
+edit-profile-page-profile-saved = Αποθηκεύτηκε
 new-profile-page-title = Νέο προφίλ
 new-profile-page-learn-more = Μάθετε περισσότερα
+new-profile-page-input-placeholder =
+    .placeholder = Επιλέξτε ένα όνομα, όπως «Εργασία» ή «Προσωπικό»
+new-profile-page-done-button =
+    .label = Τέλος επεξεργασίας
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 

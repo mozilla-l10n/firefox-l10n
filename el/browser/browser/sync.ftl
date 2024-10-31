@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Αποσύνδεση…
 fxa-menu-sync-title = Συγχρονισμός
 fxa-menu-sync-description = Πρόσβαση στον ιστό από οπουδήποτε
+sync-setup-verify-continue = Συνέχεια
+sync-setup-verify-title = Προειδοποίηση συγχώνευσης
+sync-setup-verify-heading = Θέλετε σίγουρα να κάνετε σύνδεση για συγχρονισμό;
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Κάποιος άλλος χρήστης έχει ήδη κάνει σύνδεση για συγχρονισμό σε αυτόν τον υπολογιστή. Αν πραγματοποιήσετε σύνδεση, θα συγχωνευθούν οι σελιδοδείκτες, οι κωδικοί πρόσβασης και οι υπόλοιπες ρυθμίσεις του προγράμματος περιήγησης με το { $email }
