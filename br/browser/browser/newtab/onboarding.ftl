@@ -277,6 +277,7 @@ onboarding-device-migration-primary-button-label = Kennaskañ
 
 amo-picker-install-button-label = Ouzhpennañ da { -brand-short-name }
 amo-picker-install-complete-label = Staliet
+amo-picker-collection-link = Ergerzhout muioc’h a askouezhioù
 
 ## The following screens have been updated to use security and privacy focused strings:
 

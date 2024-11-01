@@ -226,11 +226,17 @@ newtab-pocket-learn-more = Gouzout hiroc’h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Enrollañ
 newtab-pocket-saved = Enrollet
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+newtab-toast-dismiss-button =
+    .title = Argas
+    .aria-label = Argas
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 

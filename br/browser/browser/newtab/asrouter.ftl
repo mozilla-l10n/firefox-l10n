@@ -237,6 +237,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Kregiñ ganti
 device-migration-fxa-spotlight-older-device-primary-button = Krouiñ ur gont
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ur benveg nevez ho po en dazont?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Penaos gwarediñ ma roadennoù
+device-migration-fxa-spotlight-sync-primary-button = Kregiñ ganti
 
 ## Set as Default PDF Reader Infobar
 
@@ -264,6 +265,7 @@ launch-on-login-infobar-final-reject-button = Ket
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = Digeriñ ma ereoù gant { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ket bremañ
 
 ## Root Certificate Succession Infobar
 
@@ -273,3 +275,6 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Diwezhatoc’h
     .accesskey = D
+
+## FxA Menu Message variants
+
