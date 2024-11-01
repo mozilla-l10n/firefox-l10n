@@ -11,6 +11,8 @@ experimental-features-web-gpu2 =
 experimental-features-media-jxl =
     .label = මාධ්‍ය: JPEG XL
 experimental-features-media-jxl-description = මෙම විශේෂාංගය සක්‍රිය නම්, JPEG XL (JXL) ආකෘතියට { -brand-short-name } සහාය දක්වයි. මෙය සාම්ප්‍රදායික JPEG ගොනු වලින් හානි නොවන සංක්‍රාන්තියකට සහාය දක්වන වැඩිදියුණු කළ රූප ගොනු ආකෘතියකි. තව විස්තර සඳහා <a data-l10n-name="bugzilla">1539075 දෝෂය</a> බලන්න.
+experimental-features-devtools-compatibility-panel =
+    .label = සංවර්ධක මෙවලම්: අනුකූලතා මඬල
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -27,6 +29,7 @@ experimental-features-ime-search-description =
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = රූපයෙන් රූපයට: පටිති මාරුවේ දී ඉබේ විවෘත වේ
+experimental-features-auto-pip-description = පටිති මාරු වන විට සක්‍රිය දෘශ්‍යක සඳහා රූපයෙන් රූපයට සබල කරන්න.
 experimental-features-group-developer-tools =
     .label = සංවර්ධක මෙවලම්
 experimental-features-group-customize-browsing =
