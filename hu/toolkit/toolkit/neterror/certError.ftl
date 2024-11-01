@@ -68,6 +68,15 @@ open-in-new-window-for-csp-or-xfo-error = Webhely megnyitása új ablakban
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = A biztonsága érdekében a { $hostname } nem engedi a { -brand-short-name }nak, hogy megjelenítse az oldalt, ha egy másik oldal beágyazta magába. Az oldal megtekintéséhez új ablakban kell megnyitnia.
+fp-certerror-view-certificate-link = A webhely tanúsítványának megtekintése
+fp-certerror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = A webhely úgy van beállítva, hogy csak biztonságos kapcsolatokat engedélyezzen, de probléma van a webhely tanúsítványával. Lehet, hogy egy rosszhiszemű szereplő próbálja megszemélyesíteni a webhelyet. A webhelyek hitelesítésszolgáltatók által kibocsátott tanúsítványokat használnak annak bizonyítására, hogy valóban azok, akiknek mondják magukat. A { -brand-short-name } nem bízik ebben a webhelyben, mert a tanúsítványa nem érvényes a következőre: { $hostname }. A tanúsítvány csak a következőre érvényes: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Valószínűleg semmit, mert valószínűleg magával a webhellyel van a probléma. A webhelyek hitelesítésszolgáltatók által kibocsátott tanúsítványokat használnak annak bizonyítására, hogy valóban azok, akiknek mondják magukat. De ha vállalati hálózaton van, akkor a támogatási csapata több információval rendelkezhet. Ha víruskereső szoftvert használ, próbáljon lehetséges ütközéseket vagy ismert problémákat keresni.
 
 ## Messages used for certificate error titles
 
@@ -109,3 +118,10 @@ networkProtocolError-title = Hálózati protokoll hiba
 nssBadCert-title = Figyelmeztetés: Lehetséges biztonsági kockázat következik
 nssBadCert-sts-title = Nem kapcsolódott: lehetséges biztonsági probléma
 certerror-mitm-title = Egy szoftver megakadályozza, hogy a { -brand-short-name } biztonságosan kapcsolódjon ehhez a webhelyhez
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

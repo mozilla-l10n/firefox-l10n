@@ -25,6 +25,21 @@ edit-profile-page-duplicate-name = A profilnév már használatban van. Próbál
 edit-profile-page-profile-saved = Mentve
 new-profile-page-title = Új profil
 new-profile-page-header = Saját profil testreszabása
+new-profile-page-header-description = Minden profil elkülöníti a saját egyedi böngészési előzményeit és beállításait a többi profiltól. Ráadásul a { -brand-short-name } erős adatvédelmi funkciói alapértelmezés szerint be vannak kapcsolva.
+new-profile-page-learn-more = További tudnivalók
+new-profile-page-input-placeholder =
+    .placeholder = Válasszon egy nevet, például „Munkahelyi” vagy „Személyes”
+new-profile-page-done-button =
+    .label = Szerkesztés kész
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = A(z) { $profilename } profil törlése
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Törli a(z) { $profilename } profilt?
+delete-profile-description = A { -brand-short-name } véglegesen törli a következő adatokat erről az eszközről:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Megnyitott ablakok
