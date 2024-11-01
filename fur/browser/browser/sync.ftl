@@ -35,3 +35,5 @@ fxa-menu-sign-out =
     .label = Disconet…
 fxa-menu-sync-title = Sincronizazion
 fxa-menu-sync-description = Dopre il to web dapardut
+sync-setup-verify-continue = Continue
+sync-setup-verify-title = Avîs di union dâts
