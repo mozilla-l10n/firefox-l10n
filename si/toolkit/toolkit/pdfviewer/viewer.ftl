@@ -230,6 +230,9 @@ pdfjs-editor-free-text-button-label = පෙළ
 pdfjs-editor-ink-button =
     .title = අඳින්න
 pdfjs-editor-ink-button-label = අඳින්න
+pdfjs-editor-stamp-button =
+    .title = රූප සංස්කරණය හෝ එක් කරන්න
+pdfjs-editor-stamp-button-label = රූප සංස්කරණය හෝ එක් කරන්න
 
 ## Remove button for the various kind of editor.
 

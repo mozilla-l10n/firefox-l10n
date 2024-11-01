@@ -51,3 +51,4 @@ abuse-report-damage-reason-v2 = එය මාගේ පරිගණකයට හ
 abuse-report-settings-reason-v2 = එය මට දැනුම් දීමකින් හෝ විමසීමකින් තොරව මාගේ සෙවුම් යන්ත්‍රය, මුල් පිටුව හෝ නව පටිත්ත වෙනස් කෙරිණි
 abuse-report-settings-suggestions-search = ඔබගේ පෙරනිමි සෙවුම් සැකසුම් සංශෝධනය
 abuse-report-settings-suggestions-homepage = ඔබගේ මුල් පිටුව හා නව පටිත්ත සංශෝධනය
+abuse-report-other-reason = වෙනත් යමක්
