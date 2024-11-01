@@ -201,6 +201,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = මෙම අඩංගුව ඉවත් කරන්න
 containers-remove-cancel-button = මෙම අඩංගුව ඉවත් නොකරන්න
+settings-tabs-show-image-in-preview =
+    .label = ඔබ පටිති මතින් යන විට රූප වල පෙරදසුන් පෙන්වන්න
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
