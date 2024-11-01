@@ -70,9 +70,45 @@ genai-header-provider-menu =
     .title = Choose a chatbot
 genai-header-options-button =
     .title = Open menu
+genai-header-close-button =
+    .title = Close
+genai-provider-view-details =
+    .label = View chatbot details
+genai-provider-about-chatbots =
+    .label = About these chatbots
+genai-options-reload-generic =
+    .label = Reload AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Reload { $provider }
+genai-options-show-shortcut =
+    .label = Show shortcut when selecting text
+genai-options-hide-shortcut =
+    .label = Hide shortcut when selecting text
+genai-options-about-chatbot =
+    .label = About AI chatbots in { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Summarize, brainstorm, and more as you browse
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Choose an AI chatbot to use in the { -brand-short-name } sidebar. We’ll show details about each chatbot when you select it. Switch anytime. <a data-l10n-name="learn-more">Learn more</a>
+genai-onboarding-primary = Continue
+genai-onboarding-secondary = Close
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Learn more about Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Learn more about ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Learn more about Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Learn more about Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

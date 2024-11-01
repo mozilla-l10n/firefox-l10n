@@ -298,3 +298,4 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Close
     .aria-label = Close
+fxa-menu-message-mobile-collapsed-text = Sync with your phone

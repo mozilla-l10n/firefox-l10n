@@ -88,6 +88,9 @@ tab-context-share-url =
 tab-context-new-tab-open =
     .label = New Tab to Right
     .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = New Tab Below
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
