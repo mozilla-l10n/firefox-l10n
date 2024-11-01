@@ -314,6 +314,8 @@ newtab-wallpaper-dark-panda = Reade panda ferburgen yn bosk
 newtab-wallpaper-dark-sky = Stedslânskip mei in nachthimel
 newtab-wallpaper-dark-mountain = Lânskip mei berch
 newtab-wallpaper-dark-city = Pears stêdslânskip
+newtab-wallpaper-dark-fox-anniversary = In foks op de stoepe by in bosk
+newtab-wallpaper-light-fox-anniversary = In foks yn in gersfjild mei in mistich berchlânskip
 
 ## Solid Colors
 

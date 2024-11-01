@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Ofmelde…
 fxa-menu-sync-title = Syngronisearje
 fxa-menu-sync-description = Oeral tagong ta jo ynternet
+sync-setup-verify-continue = Trochgean
+sync-setup-verify-title = Warskôging foar gearfoegjen
+sync-setup-verify-heading = Binne jo wis dat jo jo oanmelde wolle om te syngronisearjen?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = In oare brûker wie earder op dizze kompjûter oanmeld om te syngronisearjen. Oanmelde sil de blêdwizers, wachtwurden en oare ynstellingen fan dizze browser byinoar foegje mei dy fan { $email }
