@@ -60,6 +60,7 @@ neterror-dns-not-found-trr-third-party-warning2 = ඔබගේ පෙරනි�
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } මගින් { $trrDomain } වෙත සම්බන්ධ වීමට නොහැකි විය.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } වෙත සම්බන්ධතාවයට අපේක්‍ෂිත කාලයට වඩා ගත විය.
 neterror-dns-not-found-trr-offline = ඔබ අන්තර්ජාලයට සම්බන්ධ වී නැත.
+neterror-dns-not-found-bad-trr-url = ඒ.ස.නි. වැරදිය
 neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ගැටලුවකි.
 
 ## Native fallback specific messages
