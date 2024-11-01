@@ -20,6 +20,24 @@ edit-profile-page-explore-themes = Mais temas
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Excluir
+edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrar mais tarde. Renomeie quando quiser.
+edit-profile-page-duplicate-name = Nome de perfil já em uso. Escolha outro nome.
+edit-profile-page-profile-saved = Salvo
+new-profile-page-title = Novo perfil
+new-profile-page-header = Personalize seu novo perfil
+new-profile-page-header-description = Cada perfil mantém seu próprio histórico de navegação e configurações, separado dos outros perfis. Além disso, as poderosas proteções de privacidade do { -brand-short-name } são ativadas por padrão.
+new-profile-page-learn-more = Saiba mais
+new-profile-page-input-placeholder =
+    .placeholder = Escolha um nome como “Trabalho” ou “Pessoal”
+new-profile-page-done-button =
+    .label = Edição concluída
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Excluir perfil { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Excluir o perfil { $profilename }?
+delete-profile-description = O { -brand-short-name } irá excluir permanentemente os seguintes dados deste dispositivo:
