@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය පිළිබඳව වැඩි විස්තර
 protections-panel-etp-on-header = මෙම අඩවියට දියුණු කළ ලුහුබැඳීමේ රැකවරණය සක්‍රියයි
 protections-panel-etp-off-header = මෙම අඩවියට දියුණු කළ ලුහුබැඳීමේ රැකවරණය අක්‍රියයි
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = අඩවිය වැඩ නොකරයිද?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = අඩවිය වැඩ නොකරයිද?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
     .description = මෙම අඩවියට අක්‍රියයි
     .aria-label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය: { $host } සඳහා අක්‍රියයි
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = අඩවිය වැඩ නොකරයිද?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = අඩවිය වැඩ නොකරයිද?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -106,7 +106,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = කැඩුණු අඩවියක වාර්තාව
 protections-panel-content-blocking-breakage-report-view-description = ඇතැම් ලුහුබැඳීම් අවහිරය නිසා සමහර අඩවිවල ගැටලු මතු වීමට හැකිය. ඊළඟ වතාවේ දී { -brand-short-name } පහසුවෙන් පරිහරණය සඳහා මෙම ගැටලු වාර්තා කිරීමට ද අවස්ථාවක් ඇත. මොසිල්ලා වෙත යවන මෙම වාර්තාවේ එම ඒ.ස.නි. සහ ඔබගේ අතිරික්සුවේ සැකසුම් පිළිබඳ තොරතුරු අඩංගු වේ. <label data-l10n-name="learn-more">තව දැනගන්න</label>
-protections-panel-content-blocking-breakage-report-view-description2 = ඇතැම් ලුහුබැඳීම් අවහිරය නිසා සමහර අඩවිවල ගැටලු මතු වීමට හැකිය. ඊළඟ වතාවේ දී { -brand-short-name } පහසුවෙන් පරිහරණය සඳහා මෙම ගැටලු වාර්තා කිරීමට ද අවස්ථාවක් ඇත. { -vendor-short-name } වෙත යවන මෙම වාර්තාවේ එම ඒ.ස.නි. සහ ඔබගේ අතිරික්සුවේ සැකසුම් පිළිබඳ තොරතුරු අඩංගු වේ.
 protections-panel-content-blocking-breakage-report-view-collection-url = ඒ.ස.නි.
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = ඒ.ස.නි.
@@ -149,6 +148,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = අක්‍රිය කරන්න
 protections-panel-cookie-banner-view-turn-on-label =
     .label = සක්‍රිය කරන්න
+protections-panel-report-broken-site =
+    .label = කැඩුණු අඩවි වාර්තා
+    .title = කැඩුණු අඩවි වාර්තා
 
 ## Protections panel info message
 

@@ -346,3 +346,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = මෙය කූට අඩවියක් නොවේ
     .accesskey = d
+menu-report-broken-site =
+    .label = කැඩුණු අඩවි වාර්තා

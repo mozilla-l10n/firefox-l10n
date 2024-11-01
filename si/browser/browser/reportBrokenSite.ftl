@@ -2,5 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+report-broken-site-mainview-title = කැඩුණු අඩවි වාර්තා
+report-broken-site-panel-header =
+    .label = කැඩුණු අඩවි වාර්තා
+    .title = කැඩුණු අඩවි වාර්තා
 report-broken-site-panel-reason-account =
     .label = පිවිසීම හෝ නික්මීම
