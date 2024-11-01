@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = No stas mostrâ di gnûf cheste ra
 split-dismiss-button-show-fewer-option-label = Mostre mancul racomandazions
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gjestìs impostazions
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
+sidebar-button-callout-subtitle = Dopre il boton de sbare laterâl par slargjâle e cussì di rivâ a viodi i titui des schedis.

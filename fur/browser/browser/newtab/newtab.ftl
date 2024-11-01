@@ -315,6 +315,8 @@ newtab-wallpaper-dark-panda = Panda ros platât tal bosc
 newtab-wallpaper-dark-sky = Paisaç di citât cun cîl di gnot
 newtab-wallpaper-dark-mountain = Paisaç cun montagne
 newtab-wallpaper-dark-city = Paisaç citadin cun tonalitât viole
+newtab-wallpaper-dark-fox-anniversary = Une bolp sul marcjepît dongje di un bosc
+newtab-wallpaper-light-fox-anniversary = Une bolp intun cjamp jerbôs cuntun paesaç di montagne infumatât
 
 ## Solid Colors
 

@@ -287,3 +287,9 @@ appmenuitem-vpn-description = Protêç la tô ativitât in linie
 
 appmenu-profiles = Profîi
 appmenu-other-profiles = Altris profîi
+appmenu-manage-profiles =
+    .label = Gjestìs i profîi
+appmenu-create-profile =
+    .label = Gnûf profîl
+appmenu-edit-profile =
+    .aria-label = Modifiche profîl
