@@ -286,3 +286,4 @@ appmenuitem-vpn-description = Protêç la tô ativitât in linie
 ## Profiles panel
 
 appmenu-profiles = Profîi
+appmenu-other-profiles = Altris profîi
