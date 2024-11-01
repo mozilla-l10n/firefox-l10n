@@ -4,6 +4,27 @@
 
 profile-window-title = { -brand-short-name } – Felhasználói profil kiválasztása
 profile-window-heading = Válasszon egy { -brand-short-name }-profilt
+profile-window-body = Tartsa teljesen külön a munkahelyi és a személyes böngészését, beleértve a jelszavait és a könyvjelzőit. Vagy hozzon létre profilt mindenki számára, aki ezt az eszközt használja.
+# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Megjelenítés a { -brand-short-name } megnyitásakor
+profile-window-create-profile = Profil létrehozása
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = { $number }. profil
+edit-profile-page-title = Profil szerkesztése
+edit-profile-page-header = Saját profil szerkesztése
+edit-profile-page-profile-name-label = Profil neve
+edit-profile-page-theme-header = Téma
+edit-profile-page-explore-themes = További témák felfedezése
+edit-profile-page-avatar-header = Profilkép
+edit-profile-page-delete-button =
+    .label = Törlés
+edit-profile-page-no-name = Nevezze el ezt a profilt, hogy később segítsen megtalálni. Nevezze át bármikor.
+edit-profile-page-duplicate-name = A profilnév már használatban van. Próbáljon meg egy új nevet.
+edit-profile-page-profile-saved = Mentve
+new-profile-page-title = Új profil
+new-profile-page-header = Saját profil testreszabása
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
