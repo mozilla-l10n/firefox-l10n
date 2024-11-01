@@ -307,6 +307,9 @@ onboarding-easy-setup-security-and-privacy-title = ඔබට ආරක්‍ෂ�
 onboarding-easy-setup-security-and-privacy-subtitle = අපගේ ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුව අන්තර්ජාලය පුරා ඔබව රහසින් ලුහුබඳින සමාගම් නවත්වයි.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = ඔබ උපාංග අතර පනින විට සංකේතිතව සිටින්න
+onboarding-mobile-download-security-and-privacy-subtitle = ඔබ සමමුහූර්ත විට, { -brand-short-name } ඔබගේ මුරපද, පොත්යොමු සහ අනෙකුත් දෑ සංකේතනය කරයි. තවද ඔබගේ වෙනත් උපාංග වලින් පටිති ඇහිඳීමට හැකිය.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ඔබ සමඟයි
 
 ## New user time and familiarity survey strings
 
