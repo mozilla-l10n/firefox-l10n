@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Dizze oanrekommandaasje net mear t
 split-dismiss-button-show-fewer-option-label = Mear oanrekommandaasjes toane
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Ynstellingen beheare
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
+sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
