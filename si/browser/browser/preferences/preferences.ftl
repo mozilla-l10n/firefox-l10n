@@ -56,6 +56,7 @@ pane-experimental-description2 = වැඩිදුර වින්‍යාස 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = අපගේ පරීක්‍ෂාත්මක විශේෂාංග උත්සාහ කර බලන්න! සංවර්ධනය හා විකාසනය වෙමින් පවතින ඒවා { -brand-short-name } ක්‍රියා කරන ආකාරය කෙරෙහි බලපෑ හැකිය.
 pane-experimental-reset =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
