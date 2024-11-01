@@ -41,3 +41,19 @@ delete-profile-page-title = Excluir perfil { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Excluir o perfil { $profilename }?
 delete-profile-description = O { -brand-short-name } irá excluir permanentemente os seguintes dados deste dispositivo:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Janelas abertas
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Abas abertas
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Favoritos
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Histórico (páginas visitadas, cookies, dados de sites)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Dados de preenchimento automático (endereços, métodos de pagamento)
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Senhas
+# Button label
+delete-profile-cancel = Cancelar
+# Button label
+delete-profile-confirm = Excluir
