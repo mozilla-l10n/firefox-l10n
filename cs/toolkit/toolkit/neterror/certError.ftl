@@ -79,6 +79,9 @@ csp-xfo-blocked-long-desc =
         [with-cases] Pro vaši ochranu web { $hostname } nepovolí { -brand-short-name(case: "dat") } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
        *[no-cases] Pro vaši ochranu web { $hostname } nepovolí aplikaci { -brand-short-name } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
     }
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Kód chyby: { $error }
 
 ## Messages used for certificate error titles
 
@@ -124,3 +127,12 @@ certerror-mitm-title =
         [with-cases] Software brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení s tímto webem
        *[no-cases] Software brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení s tímto webem
     }
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Upozornění: bezpečnostní riziko
+fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
