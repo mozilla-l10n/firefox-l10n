@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Bu öneriyi bir daha gösterme
 split-dismiss-button-show-fewer-option-label = Daha az öneri göster
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Ayarları yönet
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
+sidebar-button-callout-subtitle = Sekme başlıklarını görmek için kenar çubuğu düğmesini kullanarak kenar çubuğunu genişletin.

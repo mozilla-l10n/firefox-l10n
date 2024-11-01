@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Verileri eşitle ve kaydet
 appmenu-fxa-signed-in-label = Giriş yap
 appmenu-fxa-setup-sync =
     .label = Eşitlemeyi aç…
+appmenu-fxa-setup-sync-new = Aç
 appmenuitem-save-page =
     .label = Sayfayı farklı kaydet…
+appmenuitem-fxa-sync-off-title = Eşitleme kapalı
+appmenuitem-fxa-sync-off-description = Yer imlerinizi, parolalarınızı ve diğer verilerinizi koruyun ve onlara her yerden erişin.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Çevrimiçi etkinliklerinizi koruyun
+
+## Profiles panel
+
+appmenu-profiles = Profiller
+appmenu-other-profiles = Diğer profiller
+appmenu-manage-profiles =
+    .label = Profilleri yönet
+appmenu-create-profile =
+    .label = Yeni profil
+appmenu-edit-profile =
+    .aria-label = Profili düzenle
