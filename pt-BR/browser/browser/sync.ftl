@@ -37,3 +37,4 @@ fxa-menu-sync-title = Sincronização
 fxa-menu-sync-description = Acesse sua web em qualquer lugar
 sync-setup-verify-continue = Avançar
 sync-setup-verify-title = Aviso de mistura de dados
+sync-setup-verify-heading = Tem certeza que quer entrar na conta para sincronizar?
