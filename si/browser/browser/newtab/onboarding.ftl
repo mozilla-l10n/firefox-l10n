@@ -178,12 +178,15 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුවකින් අරඹන්න. ඔබ අන්ර්ජජාලය පුරා ඇවිදින අතරතුර අපි
+mr2022-onboarding-set-default-only-subtitle = ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුවකින් අරඹන්න. ඔබ අන්තර්ජාලය පුරා සැරිසරන අතරතුර ඔබගේ පෞද්ගලිකත්‍වය සුරකිනු ඇත.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name } තෝරා ගැනීමට තුති!
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = ඔබ අන්තර්ජාලය පුරා සැරිසරන අතරතුර ඔබගේ පෞද්ගලිකත්‍වය සුරකින අතිරික්සුවක් භාවිතා කරන්න. අපගේ නවතම යාවත්කාලය ඔබ කැමති දේවල් වලින් පුරවා ඇත.
 mr2022-onboarding-existing-pin-checkbox-label = එසේම { -brand-short-name } පෞද්. පිරික්සුමට යොදන්න
 
 ## MR2022 New User Set Default screen strings
@@ -191,6 +194,9 @@ mr2022-onboarding-existing-pin-checkbox-label = එසේම { -brand-short-name
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = { -brand-short-name } දෛනික අතිරික්සුව කරන්න
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුවක් භාවිතා කරන්න. ඔබ අන්තර්ජාලය පුරා සැරිසරන අතරතුර ඔබගේ පෞද්ගලිකත්‍වය සුරකිනු ඇත
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -299,6 +305,8 @@ amo-picker-collection-link = තවත් එක්කහු සොයාගන�
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = ඔබට ආරක්‍ෂාව සලසන්නෙමු
 onboarding-easy-setup-security-and-privacy-subtitle = අපගේ ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුව අන්තර්ජාලය පුරා ඔබව රහසින් ලුහුබඳින සමාගම් නවත්වයි.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = ඔබ උපාංග අතර පනින විට සංකේතිතව සිටින්න
 
 ## New user time and familiarity survey strings
 
