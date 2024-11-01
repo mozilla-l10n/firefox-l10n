@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Adatok szinkronizálása és mentése
 appmenu-fxa-signed-in-label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
+appmenu-fxa-setup-sync-new = Bekapcsolás
 appmenuitem-save-page =
     .label = Oldal mentése…
+appmenuitem-fxa-sync-off-title = A Sync ki van kapcsolva
+appmenuitem-fxa-sync-off-description = Védje és érje el bárhol könyvjelzőit, jelszavait és egyebeit.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Védje meg az online tevékenységét
+
+## Profiles panel
+
