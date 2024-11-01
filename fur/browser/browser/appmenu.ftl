@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sincronize e salve i dâts
 appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
     .label = Ative la sincronizazion…
+appmenu-fxa-setup-sync-new = Ative
 appmenuitem-save-page =
     .label = Salve pagjine come…
+appmenuitem-fxa-sync-off-title = La sincronizazion e je disativade
+appmenuitem-fxa-sync-off-description = Protêç e dopre i tiei segnelibris, lis passwords e altris dâts dapardut là che tu ti cjatis.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mascare la tô direzion e-mail e il telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protêç la tô ativitât in linie
+
+## Profiles panel
+
+appmenu-profiles = Profîi
