@@ -250,6 +250,7 @@ pdfjs-free-text-default-content = ලිවීීම අරඹන්න…
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-mark-decorative-description = මෙය දාර හෝ දිය සලකුණු වැනි අලංකාර රූප සඳහා භාවිතා වේ.
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.

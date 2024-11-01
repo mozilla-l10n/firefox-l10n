@@ -272,3 +272,4 @@ root-certificate-succession-infobar-primary-button =
 fxa-menu-message-close-button =
     .title = වසන්න
     .aria-label = වසන්න
+fxa-menu-message-mobile-primary-text = ඔබගේ දුරකථනයට පටිති යවන්න
