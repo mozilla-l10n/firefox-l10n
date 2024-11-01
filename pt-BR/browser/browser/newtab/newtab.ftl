@@ -310,6 +310,7 @@ newtab-wallpaper-dark-panda = Panda vermelho escondido na floresta
 newtab-wallpaper-dark-sky = Paisagem de cidade com céu noturno
 newtab-wallpaper-dark-mountain = Paisagem com montanhas
 newtab-wallpaper-dark-city = Paisagem de cidade em tonalidade violeta
+newtab-wallpaper-dark-fox-anniversary = Uma raposa na rua perto de uma floresta
 
 ## Solid Colors
 

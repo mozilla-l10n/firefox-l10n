@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Não mostrar esta recomendação n
 split-dismiss-button-show-fewer-option-label = Mostrar menos recomendações
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gerenciar configurações
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
+sidebar-button-callout-subtitle = Use o botão do painel lateral para expandir e mostrar os títulos das abas.
