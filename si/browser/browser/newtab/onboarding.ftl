@@ -174,6 +174,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] තැටියෙහි { -brand-short-name } තබාගන්න
        *[other] කාර්ය තීරුවට { -brand-short-name } අමුණන්න
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුවකින් අරඹන්න. ඔබ අන්ර්ජජාලය පුරා ඇවිදින අතරතුර අපි
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -293,6 +298,7 @@ amo-picker-collection-link = තවත් එක්කහු සොයාගන�
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = ඔබට ආරක්‍ෂාව සලසන්නෙමු
+onboarding-easy-setup-security-and-privacy-subtitle = අපගේ ලාභ නොලබන පිටුබලයක් සහිත අතිරික්සුව අන්තර්ජාලය පුරා ඔබව රහසින් ලුහුබඳින සමාගම් නවත්වයි.
 
 ## New user time and familiarity survey strings
 
