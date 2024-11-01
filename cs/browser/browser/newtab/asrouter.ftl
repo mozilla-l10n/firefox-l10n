@@ -412,3 +412,4 @@ fxa-menu-message-close-button =
     .aria-label = Zavřít
 fxa-menu-message-sign-up-button = Přihlásit se
 fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
+fxa-menu-message-sync-devices-collapsed-text = Synchronizace všech zařízení

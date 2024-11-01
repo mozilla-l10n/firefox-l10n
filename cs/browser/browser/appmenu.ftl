@@ -112,8 +112,11 @@ appmenu-fxa-sync-and-save-data2 = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…
+appmenu-fxa-setup-sync-new = Zapnout
 appmenuitem-save-page =
     .label = Uložit stránku jako…
+appmenuitem-fxa-sync-off-title = Synchronizace je vypnutá
+appmenuitem-fxa-sync-off-description = Chraňte své záložky, hesla a další údaje a získejte k nim přístup odkudkoli.
 
 ## What's New panel in App menu.
 
@@ -315,3 +318,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zamaskujte svůj skutečný e-mail a telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Chraňte svou online aktivitu
+
+## Profiles panel
+
+appmenu-profiles = Profily
+appmenu-other-profiles = Další profily
+appmenu-manage-profiles =
+    .label = Správa profilů
+appmenu-create-profile =
+    .label = Nový profil
+appmenu-edit-profile =
+    .aria-label = Upravit profil
