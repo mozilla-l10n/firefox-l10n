@@ -17,6 +17,11 @@ experimental-features-devtools-compatibility-panel =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home ආරම්භක නිහිතය
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = සංවර්ධක මෙවලම්: සර්විස් වර්කර් නිදොස්කරණය
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = නිදොස්කරණ මඬලේ සර්විස් වර්කර්ස් සඳහා පරීක්‍ෂාත්මක සහාය සබල කරයි. මෙම විශේෂාංගයෙන් සංවර්ධක මෙවලම් මන්දගාමී විය හැකි අතර මතක පරිභෝජනය වැඩි වනු ඇත.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
