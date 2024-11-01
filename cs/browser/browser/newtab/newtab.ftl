@@ -363,7 +363,7 @@ newtab-wallpaper-white-mountains = Bílé hory
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
-newtab-wallpaper-attribution = Fotografie od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-attribution = Fotografie od autora <a data-l10n-name="name-link">{ $author_string }</a> z webu <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Zkuste barevný nádech
 newtab-wallpaper-feature-highlight-content = Dejte svému novému panelu svěží vzhled pomocí tapet.
 newtab-wallpaper-feature-highlight-button = Rozumím
