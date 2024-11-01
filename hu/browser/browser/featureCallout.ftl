@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Ne jelenítse meg újra ezt a java
 split-dismiss-button-show-fewer-option-label = Kevesebb javaslat megjelenítése
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Beállítások kezelése
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
+sidebar-button-callout-subtitle = Az oldalsáv gombjával bontsa ki az oldalsávot, így a lapok címét is láthatja.

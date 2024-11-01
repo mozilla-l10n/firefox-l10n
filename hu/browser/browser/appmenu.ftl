@@ -285,3 +285,11 @@ appmenuitem-vpn-description = Védje meg az online tevékenységét
 
 ## Profiles panel
 
+appmenu-profiles = Profilok
+appmenu-other-profiles = Egyéb profilok
+appmenu-manage-profiles =
+    .label = Profilok kezelése
+appmenu-create-profile =
+    .label = Új profil
+appmenu-edit-profile =
+    .aria-label = Profil szerkesztése
