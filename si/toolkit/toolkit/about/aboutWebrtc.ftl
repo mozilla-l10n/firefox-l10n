@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC අභ්‍යන්තර
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින්න
@@ -22,7 +21,6 @@ about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
 about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
 about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
 about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,18 +28,14 @@ about-webrtc-aec-logging-toggled-off-state-msg = ග්‍රහණය කළ �
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිරීම
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection හැඳු.:
-
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = විවෘත දත්ත නාලිකා:
-
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = වැසුනු දත්ත නාලිකා:
 
@@ -86,7 +80,6 @@ about-webrtc-type-remote = දුරස්ථ
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
-
 about-webrtc-save-page-label = පිටුව සුරකින්න
 about-webrtc-debug-mode-msg-label = නිදොස්කරණ ප්‍රකාරය
 about-webrtc-debug-mode-off-state-label = නිදොස්කරණ ප්‍රකාරය අරඹන්න
@@ -99,7 +92,6 @@ about-webrtc-log-show-msg = සටහන පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-log-hide-msg = සටහන සඟවන්න
     .title = මෙම කොටස හැකිළීමට ඔබන්න
-
 about-webrtc-log-section-show-msg = සටහන පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-log-section-hide-msg = සටහන සඟවන්න
@@ -121,6 +113,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (වැ�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = යැවීම / ලැබීම: { $codecs }
+about-webrtc-short-send-direction = යැවීම: { $codecs }
 
 ##
 
@@ -156,18 +150,21 @@ about-webrtc-pc-configuration-hide-msg = වින්‍යාසය සඟව�
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = සපයා ඇත
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = සපයා නැත
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = පරිශ්‍රීලක සැකසූ WebRTC අභිප්‍රේත
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
 
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT මි.ත.
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -181,11 +178,11 @@ about-webrtc-frame-stats-heading = දෘශ්‍යක රාමු සංඛ�
 
 about-webrtc-save-page-msg = පිටුව සුරකින ලද්දේ: { $path }
 about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = පිටුව සුරකින ලද්දේ: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -194,7 +191,6 @@ about-webrtc-frames =
         [one] රාමු { $frames }
        *[other] රාමු { $frames }
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.

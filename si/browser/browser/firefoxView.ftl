@@ -175,6 +175,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = “{ $query }” සඳහා ප්‍රතිඵල නැත
 firefoxview-sort-history-by-date-label = දිනය අනුව පිළිවෙළට
 firefoxview-sort-history-by-site-label = අඩවිය අනුව පිළිවෙළට
+firefoxview-sort-open-tabs-by-recency-label = මෑත ක්‍රියාකාරකම් අනුව වර්ගනය
+firefoxview-sort-open-tabs-by-order-label = පටිති අනුපිළිවෙලට වර්ගනය
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

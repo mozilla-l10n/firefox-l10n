@@ -56,6 +56,8 @@ client-auth-window =
     .title = පරිශීලක හඳුනාගැනීමේ ඉල්ලීම
 client-auth-site-description = ඔබ විසින්ම සහතිකයක් ආධාරයෙන් හඳුන්වා දෙන ලෙස මෙම අඩවිය ඉල්ලා සිටියි:
 client-auth-choose-cert = හඳුනාගැනීමක් ලෙස ඉදිරිපත් කිරීමට සහතිකයක් තෝරන්න:
+client-auth-send-no-certificate =
+    .label = සහතිකයක් යවන්න එපා
 client-auth-cert-details = තේරූ සහතිකයේ තොරතුරු:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
