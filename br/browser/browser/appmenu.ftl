@@ -271,3 +271,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Kuzhit ho chomlec’h postel hag ho niverenn bellgomz gwirion
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Gwarezit hoc’h oberiantiz enlinenn
+
+## Profiles panel
+
+appmenu-profiles = Profiloù
+appmenu-other-profiles = Profiloù all
+appmenu-manage-profiles =
+    .label = Merañ ar profiloù
+appmenu-create-profile =
+    .label = Profil nevez
+appmenu-edit-profile =
+    .aria-label = Kemmañ ar profil
