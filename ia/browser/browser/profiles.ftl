@@ -36,10 +36,10 @@ new-profile-page-done-button =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Deler profilo { $profileName }
+delete-profile-page-title = Deler profilo { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-header = Deler le profilo { $profileName }?
+delete-profile-header = Deler le profilo { $profilename }?
 delete-profile-description = { -brand-short-name } delera permanentemente le sequente datos ab iste apparato:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Aperir fenestras
