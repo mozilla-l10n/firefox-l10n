@@ -59,12 +59,10 @@ sidebar-description = 탐색하면서 기록, 다른 기기의 탭, 사이드바
 vertical-tabs-title =
     .label = 세로 탭
 vertical-tabs-description = 탭을 브라우저 상단에서 옆으로 이동하세요. 사이드바도 사용해야 합니다. <a data-l10n-name="connect">의견 공유</a>
-experimental-features-group-browsing =
-    .label = 탐색
 experimental-features-group-developer-tools =
     .label = 개발자 도구
 experimental-features-group-webpage-display =
     .label = 웹 페이지 표시
 experimental-features-group-customize-browsing =
-    .label = 브라우징 사용자 지정
+    .label = 탐색 사용자 지정
 experimental-features-group-customize-browsing-description = 이러한 기능을 사용하신다면, <a data-l10n-name="connect">Connect에 의견을 공유해 주세요</a>
