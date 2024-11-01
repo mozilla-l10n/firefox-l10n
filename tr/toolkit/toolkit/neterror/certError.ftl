@@ -73,12 +73,18 @@ open-in-new-window-for-csp-or-xfo-error = Siteyi yeni pencerede aç
 csp-xfo-blocked-long-desc = Bu sayfayı başka bir site gömdüyse { $hostname } güvenliğinizi korumak için  { -brand-short-name } tarayıcınızın sayfayı görüntülemesine izin vermez. Bu sayfayı görmek için yeni bir pencerede açmanız gerekir.
 fp-certerror-view-certificate-link = Sitenin sertifikasını göster
 fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Yapabileceğiniz pek bir şey yok. Muhtemelen sitenin kendisinde bir sorun var.
+fp-certerror-self-signed-important-note = ÖNEMLİ NOT: Bu siteyi kurumsal bir intranet üzerinden ziyaret etmeye çalışıyorsanız bilgi işlem departmanınız kendi kendine imzalanmış sertifikalar kullanıyor olabilir. Sertifikanın özgünlüğünü kontrol etmenize yardımcı olabilirler.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Hata kodu: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Güvenli bağlantı hataları hakkında daha fazla bilgi alın
+fp-learn-more-about-cert-issues = Bu tür sertifika sorunları hakkında daha fazla bilgi alın
+fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkında daha fazla bilgi
 
 ## Messages used for certificate error titles
 
@@ -135,3 +141,5 @@ fp-certerror-hide-advanced-button = Gelişmişi gizle
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = { $hostname } sitesine devam et (riskli)
+fp-certerror-intro = { -brand-short-name }, <strong>{ $hostname }</strong> sitesiyle ilgili ciddi olabilecek bir güvenlik sorunu tespit etti. Bu siteymiş gibi davranan birisi kredi kartı bilgileriniz, parolalarınız ve e-postalarınız gibi şeyleri çalmaya çalışabilir.
+fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> sitesiyle ilgili bir güvenlik sorunu tespit etti. Ya site doğru kurulmamış ya da cihazınızın tarih/saat ayarları yanlış.
