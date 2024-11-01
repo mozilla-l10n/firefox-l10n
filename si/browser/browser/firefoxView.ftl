@@ -35,6 +35,7 @@ firefoxview-syncedtabs-signin-primarybutton = ලියාපදිංචිය 
 firefoxview-tabpickup-adddevice-description = දුරකථනය සඳහා { -brand-product-name } බාගත කර පිවිසෙන්න.
 firefoxview-tabpickup-adddevice-learn-how = කෙසේදැයි දැනගන්න
 firefoxview-tabpickup-adddevice-primarybutton = දුරකථනය සඳහා { -brand-product-name } ගන්න
+firefoxview-syncedtabs-adddevice-header-2 = ඕනෑම තැනකින් පටිති ඇහිඳින්න
 firefoxview-syncedtabs-adddevice-header = ඔබගේ අනෙකුත් උපාංග වලින් { -brand-product-name } වෙත පිවිසෙන්න
 firefoxview-syncedtabs-adddevice-description = ඔබ { -brand-product-name } භාවිතා කරන ඕනෑම තැනක දී ඔබගේ පටිති බැලීමට, ඔබගේ සියළුම උපාංග වලට පිවිසෙන්න. <a data-l10n-name="url">අතිරේක උපාංග සම්බන්ධ කරන ආකාරය</a> දැනගන්න.
 firefoxview-syncedtabs-adddevice-primarybutton = දුරකථනයට { -brand-product-name } දාගන්න
@@ -173,8 +174,8 @@ firefoxview-search-results-count =
 # Variables:
 #   $query (String) - The search query.
 firefoxview-search-results-empty = “{ $query }” සඳහා ප්‍රතිඵල නැත
-firefoxview-sort-history-by-date-label = දිනය අනුව පිළිවෙළට
-firefoxview-sort-history-by-site-label = අඩවිය අනුව පිළිවෙළට
+firefoxview-sort-history-by-date-label = දිනය අනුව වර්ගනය
+firefoxview-sort-history-by-site-label = අඩවිය අනුව වර්ගනය
 firefoxview-sort-open-tabs-by-recency-label = මෑත ක්‍රියාකාරකම් අනුව වර්ගනය
 firefoxview-sort-open-tabs-by-order-label = පටිති අනුපිළිවෙලට වර්ගනය
 # Variables:
@@ -202,7 +203,7 @@ firefoxview-view-more-browsing-history = තවත් පිරික්සු�
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = ඔබ සිටි තැනට ආපසු යන්න
-firefoxview-history-empty-description = ඔබ පිරික්සන විට, ඔබ ගොඩවදින පිටු මෙහි අනුපිළිවෙළට දිස්වේ.
+firefoxview-history-empty-description = ඔබ පිරික්සන විට, ඔබ ගොඩවදින පිටු මෙහි අනුපිළිවෙලට දිස්වේ.
 
 ##
 
