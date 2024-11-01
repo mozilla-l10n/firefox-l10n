@@ -28,6 +28,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = සැකසුම්වල සොයාගන්න
 managed-notice = අතිරික්සුව ඔබගේ සංවිධානය මගින් කළමනාකරණය කෙරේ.
+managed-notice-info-icon =
+    .alt = තොරතුරු
 category-list =
     .aria-label = ප්‍රවර්ග
 pane-general-title = සාමාන්‍ය
@@ -561,6 +563,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
+home-prefs-recommended-by-header-generic =
+    .label = නිර්දේශිත කතා
 
 ##
 
@@ -587,6 +591,9 @@ home-prefs-recent-activity-description = මෑත අඩවි සහ අන්
 home-prefs-snippets-header =
     .label = කෙටි සටහන්
 home-prefs-snippets-description-new = { -vendor-short-name } සහ { -brand-product-name } වෙතින් ඉඟි සහ පුවත්
+home-prefs-weather-header =
+    .label = කාලගුණය
+home-prefs-weather-learn-more-link = තව දැනගන්න
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -620,6 +627,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = ප්‍රතිඵල පිටු වල ලිපින තීරුවේ සෙවුම් පද පෙන්වන්න
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -701,6 +712,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = පැතිකඩ රූපය සංශෝධනය
     .alt = පැතිකඩ රූපය සංශෝධනය
+sync-profile-picture-account-problem =
+    .alt = ගිණුමේ පැතිකඩ රූපය
+fxa-login-rejected-warning =
+    .alt = අවවාදයයි
 sync-sign-out =
     .label = නික්මෙන්න…
     .accesskey = g
@@ -934,9 +949,11 @@ autofill-creditcard-os-dialog-message =
         [macos] ගෙවීම් ක්‍රම සඳහා සැකසුම් වෙනස් කිරීම
        *[other] { -brand-short-name } ගෙවීම් ක්‍රම සඳහා සැකසුම් වෙනස් කිරීමට උත්සාහ කරයි. මෙයට ඉඩ දීමට ඔබගේ උපාංගයේ පිවිසුම භාවිතා කරන්න.
     }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = ස්වයං පිරවීම
 autofill-addresses-checkbox = ලිපින සුරැකීම හා පිරවීම
     .accesskey = a
 autofill-saved-addresses-button = සුරැකි ලිපින
@@ -1319,10 +1336,16 @@ httpsonly-description = HTTPS මගින් { -brand-short-name } හා ඔ�
 httpsonly-learn-more = තව දැනගන්න
 httpsonly-radio-enabled =
     .label = සියළුම කවුළු වලට HTTPS-පමණි ප්‍රකාරය සබල කරන්න
+httpsonly-radio-enabled2 =
+    .label = සියළුම කවුළු වල HTTPS පමණක් භාවිතා කරන්න
 httpsonly-radio-enabled-pbm =
     .label = පෞද්. කවුළු වලට පමණක් HTTPS-පමණි ප්‍රකාරය
+httpsonly-radio-enabled-pbm2 =
+    .label = පෞද්. කවුළු වල පමණක් HTTPS භාවිතා කරන්න
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
+httpsonly-radio-disabled2 =
+    .label = පළමුව HTTPS සඳහා උත්සාහ කරන්න, නමුත් අනාරක්‍ෂිත සම්බන්ධතා වලට ඉඩ දෙන්න
 
 ## DoH Section
 

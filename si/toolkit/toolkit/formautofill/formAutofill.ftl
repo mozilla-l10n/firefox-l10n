@@ -15,6 +15,9 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } ගබඩා
 autofill-edit-payment-method-os-prompt-macos = ගබඩා කළ ගෙවීම් ක්‍රම තොරතුරු පෙන්වන්න
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ගබඩා කළ ගෙවීම් ක්‍රම තොරතුරු පෙන්වීමට උත්සාහ කරයි. මෙම වින්ඩෝස් ගිණුමට ප්‍රවේශය පහතින් තහවුරු කරන්න.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ගබඩා කළ ගෙවීම් ක්‍රම තොරතුරු පෙන්වීමට උත්සාහ කරයි.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = ආකෘති ස්වයං පිරවුම් විකල්ප
+autofill-options-link-osx = ආකෘති ස්වයං පිරවුම් අභිප්‍රේත
 
 ## The credit card capture doorhanger
 
