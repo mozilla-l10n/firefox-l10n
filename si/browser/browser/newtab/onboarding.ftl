@@ -299,3 +299,4 @@ onboarding-new-user-survey-next-button-label = ඊළඟ
 
 ## UI strings for the sidebar and vertical tabs
 
+onboarding-flair-text = නව!
