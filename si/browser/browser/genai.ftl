@@ -7,6 +7,7 @@
 
 genai-settings-chat-choose-one-menuitem =
     .label = එකක් තෝරන්න
+genai-settings-chat-links = ඔබ කතා ක්‍රමලේඛයක් තෝරන විට, ඔබ ප්‍රතිපාදකයාගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

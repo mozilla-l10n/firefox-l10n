@@ -38,6 +38,9 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = වර්ණ නාම
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -72,6 +75,8 @@ options-disable-http-cache-label = HTTP නිහිතය අබල කරන�
 options-disable-javascript-label = ජාවාස්ක්‍රිප්ට් අබල කරන්න *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = ක්‍රෝම් අතිරික්සුව හා එක්කහු නිදොස්කරණ මෙවලම් පෙට්ටි සබල කරන්න
+options-enable-chrome-tooltip =
+    .title = මෙම විකල්පය සක්‍රිය විට ඔබට අතිරික්සුවේ සන්දර්භය තුළ විවිධ සංවර්ධක මෙවලම් භාවිතයට (මෙවලම් > වියමන සංවර්ධක > අතිරික්සුවේ මෙවලම් පෙට්ටිය හරහා) සහ එක්කහු කළමණාකරු හරහා එක්කහු නිදොස්කරණයට හැකිය.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = දුරස්ථ නිදොස්කරණය සබල කරන්න
 # The label for checkbox that toggles custom formatters for objects
