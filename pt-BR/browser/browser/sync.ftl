@@ -38,3 +38,8 @@ fxa-menu-sync-description = Acesse sua web em qualquer lugar
 sync-setup-verify-continue = Avançar
 sync-setup-verify-title = Aviso de mistura de dados
 sync-setup-verify-heading = Tem certeza que quer entrar na conta para sincronizar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Outro usuário entrou na conta para sincronizar neste computador. Se você entrar na sua conta, irá misturar favoritos, senhas e outras configurações deste navegador com { $email }
