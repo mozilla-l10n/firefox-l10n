@@ -37,3 +37,9 @@ fxa-menu-sync-title = Sincronizazion
 fxa-menu-sync-description = Dopre il to web dapardut
 sync-setup-verify-continue = Continue
 sync-setup-verify-title = Avîs di union dâts
+sync-setup-verify-heading = Continuâ cu l'acès par sincronizâ?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un altri utent al è jentrât prime par sincronizâsi su chest computer. Jentrant a vignaran unîts i segnelibris, lis passwords e altris impostazions di chest navigadôr cun { $email }
