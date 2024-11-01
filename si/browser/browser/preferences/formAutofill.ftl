@@ -10,6 +10,7 @@ autofill-manage-addresses-list-header = ලිපින
 autofill-manage-credit-cards-title = සුරැකි ණය පත්
 autofill-manage-credit-cards-list-header = ණය පත්
 autofill-manage-payment-methods-title = සුරැකි ගෙවීම් ක්‍රම
+autofill-manage-cards-list-header = පත්
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ඉවත් කරන්න

@@ -21,6 +21,12 @@ autofill-options-link-osx = ආකෘති ස්වයං පිරවුම�
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = මාගේ උපාංග අතර සියලුම සුරැකි පත් සමමුහූර්ත කරන්න
+credit-card-capture-never-save-button =
+    .label = කිසිවිටක පත් සුරකින්න එපා
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 

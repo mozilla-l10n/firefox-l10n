@@ -593,6 +593,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = { -vendor-short-name } සහ { -brand-product-name } වෙතින් ඉඟි සහ පුවත්
 home-prefs-weather-header =
     .label = කාලගුණය
+home-prefs-weather-description = අද අනාවැකිය කෙටියෙන්
 home-prefs-weather-learn-more-link = තව දැනගන්න
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1022,6 +1023,7 @@ sitedata-delete-on-close =
     .label = { -brand-short-name } වසා දැමූ විට දත්තකඩ හා අඩවි දත්ත මකන්න
     .accesskey = c
 sitedata-delete-on-close-private-browsing = ස්ථිර පෞද්ගලික පිරික්සීමේ ප්‍රකාරයේ දී, { -brand-short-name } වසන විට දත්තකඩ සහ අඩවි දත්ත සෑම විටම හිස් කෙරේ.
+sitedata-delete-on-close-private-browsing2 = ඉතිහාස සැකසුම් වලට අනුව { -brand-short-name } අතිරික්සුව වැසූ විගස ඔබගේ වාරයේ දත්තකඩ සහ අඩවි දත්ත මැකෙනු ඇත.
 sitedata-allow-cookies-option =
     .label = දත්තකඩ හා අඩවි දත්ත පිළිගන්න
     .accesskey = A
@@ -1066,6 +1068,8 @@ cookie-banner-blocker-description = පෞද්ගලික පිරික්�
 cookie-banner-learn-more = තව දැනගන්න
 forms-handle-cookie-banners =
     .label = දත්තකඩ පතාක අවම කරන්න
+cookie-banner-blocker-checkbox-label =
+    .label = දත්තකඩ පතාක ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කරන්න
 
 ## Privacy Section - Address Bar
 
