@@ -291,6 +291,8 @@ amo-picker-collection-link = තවත් එක්කහු සොයාගන�
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = ඔබට ආරක්‍ෂාව සලසන්නෙමු
 
 ## New user time and familiarity survey strings
 
