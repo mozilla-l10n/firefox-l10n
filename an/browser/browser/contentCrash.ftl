@@ -5,6 +5,7 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Una parte d'esta pachina ha fallau.</strong> Ninvia un reporte pa que  { -brand-product-name } conoixca lo problema y lo pueda apanyar mas aprisa.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
