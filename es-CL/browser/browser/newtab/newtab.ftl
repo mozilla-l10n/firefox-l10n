@@ -310,6 +310,8 @@ newtab-wallpaper-dark-panda = Panda rojo oculto en el bosque
 newtab-wallpaper-dark-sky = Paisaje de ciudad con cielo nocturno
 newtab-wallpaper-dark-mountain = Paisaje de montaña
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque.
+newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de pasto con un paisaje montañoso brumoso.
 
 ## Solid Colors
 
