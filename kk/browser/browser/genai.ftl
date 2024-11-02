@@ -123,6 +123,7 @@ genai-onboarding-claude-price = Тегін және ақылы опциялар;
 genai-onboarding-chatgpt-generate = Мәтінді, суреттерді және кодты генерациялау
 genai-onboarding-chatgpt-analyze = Құжаттар мен суреттерді талдау
 genai-onboarding-chatgpt-price = Тегін және ақылы опциялар; кейбір елдер мен тапсырмалар үшін тіркелгі қажет
+genai-onboarding-copilot-analyze = Суреттерді талдау
 genai-onboarding-gemini-generate = Мәтінді, суреттерді және кодты генерациялау
 genai-onboarding-gemini-analyze = Суреттерді (тегін) және құжаттарды (ақылы) талдау
 genai-onboarding-gemini-price = Тегін және ақылы опциялар; тіркелгі қажет
