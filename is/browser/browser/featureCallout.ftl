@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Ekki birta þessi meðmæli aftur
 split-dismiss-button-show-fewer-option-label = Birta færri meðmæli
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
+sidebar-button-callout-subtitle = Notaðu hliðarstikuhnappinn til að stækka hliðarstikuna, svo þú getir séð titlana á flipunum.
