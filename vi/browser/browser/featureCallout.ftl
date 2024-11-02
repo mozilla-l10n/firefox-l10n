@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Không hiển thị đề xuất n
 split-dismiss-button-show-fewer-option-label = Hiển thị ít đề xuất hơn
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Quản lý cài đặt
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
+sidebar-button-callout-subtitle = Sử dụng nút thanh lề để mở rộng thanh lề, để bạn có thể thấy tiêu đề thẻ.
