@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Útskrá…
 fxa-menu-sync-title = Samstilla
 fxa-menu-sync-description = Fáðu aðgang að vefnum þínum hvar sem er
+sync-setup-verify-continue = Halda áfram
+sync-setup-verify-title = Aðvörun um sameiningu
+sync-setup-verify-heading = Ertu viss um að þú viljir skrá þig inn í Sync?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Annar notandi á þessari tölvu var áður skráður inn. Ef þú skráir þig inn verða bókamerki, lykilorð og aðrar stillingar sameinaðar við { $email }

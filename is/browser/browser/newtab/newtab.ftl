@@ -314,6 +314,8 @@ newtab-wallpaper-dark-panda = Rauð panda falin í skógi
 newtab-wallpaper-dark-sky = Borgarlandslag með næturhimni
 newtab-wallpaper-dark-mountain = Fjöllótt landslag
 newtab-wallpaper-dark-city = Fjólublátt borgarlandslag
+newtab-wallpaper-dark-fox-anniversary = Refur á gangstétt nálægt skógi
+newtab-wallpaper-light-fox-anniversary = Refur í grasi með þokufullu fjallalandslagi
 
 ## Solid Colors
 
