@@ -39,3 +39,11 @@ fxa-menu-sign-out =
     .label = Allgofnodi…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Cael mynediad i'ch gwe yn unrhyw le
+sync-setup-verify-continue = Ymlaen
+sync-setup-verify-title = Rhybudd Cyfuno
+sync-setup-verify-heading = Ydych chi'n siŵr eich bod am fewngofnodi i gydweddu?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Roedd defnyddiwr gwahanol wedi'i fewngofnodi o'r blaen i gydweddu ar y cyfrifiadur hwn. Bydd mewngofnodi yn cyfuno nodau tudalen, cyfrineiriau a gosodiadau eraill y porwr hwn â { $email }

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Dewiswch Proffil Defnyddiwr
+profile-window-title = { -brand-short-name } - Dewiswch Broffil Defnyddiwr
 profile-window-heading = Dewiswch broffil { -brand-short-name }
 profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fel cyfrineiriau a nodau tudalen, yn hollol ar wahân. Neu crëwch broffiliau ar gyfer pawb sy'n defnyddio'r ddyfais hon.
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
@@ -25,6 +25,35 @@ edit-profile-page-duplicate-name = Mae'r enw proffil eisoes yn cael ei ddefnyddi
 edit-profile-page-profile-saved = Wedi'i Gadw
 new-profile-page-title = Proffil newydd
 new-profile-page-header = Cyfaddaswch eich proffil newydd
+new-profile-page-header-description = Mae pob proffil yn cadw ei hanes pori a gosodiadau unigryw ar wahân i'ch proffiliau eraill. Hefyd, mae diogelwch preifatrwydd cryf { -brand-short-name } wedi'i ragosod.
+new-profile-page-learn-more = Dysgu rhagor
+new-profile-page-input-placeholder =
+    .placeholder = Dewiswch enw fel “Gwaith” neu “Personol”
+new-profile-page-done-button =
+    .label = Wedi gorffen golygu
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Dileu proffil { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Dileu proffil { $profilename }?
+delete-profile-description = Bydd { -brand-short-name } yn dileu'r data canlynol o'r ddyfais hon yn barhaol:
+# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+delete-profile-windows = Agor ffenestri
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Agor tabiau
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Nodau Tudalen
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Hanes (tudalennau yr ymwelwyd â hwy, cwcis, data gwefan)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Awtolenwi data (cyfeiriadau, dulliau talu)
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Cyfrineiriau
+# Button label
+delete-profile-cancel = Diddymu
+# Button label
+delete-profile-confirm = Dileu
