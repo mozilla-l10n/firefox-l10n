@@ -52,8 +52,14 @@ fx-view-discoverability-primary-button-label = Buka { -firefoxview-brand-name }
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Jangan tampilkan rekomendasi ini lagi
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Tampilkan lebih sedikit rekomendasi
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Kelola pengaturan
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Tampilkan judul tab di bilah samping
+sidebar-button-callout-subtitle = Gunakan tombol bilah samping untuk memperluas bilah samping, sehingga Anda dapat melihat judul tab.

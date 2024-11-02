@@ -65,9 +65,37 @@ genai-header-close-button =
     .title = Tutup
 genai-provider-view-details =
     .label = Lihat detail chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Muat ulang { $provider }
+genai-options-show-shortcut =
+    .label = Tampilkan pintasan saat memilih teks
+genai-options-hide-shortcut =
+    .label = Sembunyikan pintasan saat memilih teks
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Lanjutkan
+genai-onboarding-secondary = Tutup
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Pelajari lebih lanjut tentang Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Pelajari lebih lanjut tentang ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Pelajari lebih lanjut tentang Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Pelajari lebih lanjut tentang Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Pelajari lebih lanjut tentang HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Pelajari lebih lanjut tentang Le Chat
+genai-onboarding-select-header = Pilih teks untuk melihat saran
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

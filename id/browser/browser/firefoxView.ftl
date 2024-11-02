@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% selesai
 firefoxview-tabpickup-step-signin-header = Beralih antara perangkat dengan mulus
 firefoxview-tabpickup-step-signin-description = Untuk mengambil tab ponsel Anda di sini, masuk terlebih dahulu atau buat akun.
 firefoxview-tabpickup-step-signin-primarybutton = Lanjutkan
+firefoxview-syncedtabs-signin-primarybutton-2 = Masuk
 firefoxview-syncedtabs-signin-header = Ambil tab dari mana saja
 firefoxview-syncedtabs-signin-description = Untuk melihat seluruh tab dari semua tempat Anda menggunakan { -brand-product-name }, masuk ke akun Anda. Jika tidak memiliki akun, kami akan memandu Anda langkah demi langkah untuk mendaftar.
 firefoxview-syncedtabs-signin-primarybutton = Masuk atau daftar
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = Sinkronkan { -brand-product-name } di p
 firefoxview-tabpickup-adddevice-description = Unduh { -brand-product-name } untuk ponsel dan masuk di sana.
 firefoxview-tabpickup-adddevice-learn-how = Pelajari caranya
 firefoxview-tabpickup-adddevice-primarybutton = Dapatkan { -brand-product-name } untuk ponsel
+firefoxview-syncedtabs-adddevice-header-2 = Ambil tab dari mana saja
 firefoxview-syncedtabs-adddevice-header = Masuk ke { -brand-product-name } pada perangkat lainnya
 firefoxview-syncedtabs-adddevice-description = Untuk melihat seluruh tab dari semua tempat Anda menggunakan { -brand-product-name }, masuk di semua perangkat Anda. Pelajari cara <a data-l10n-name="url">menghubungkan perangkat tambahan</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Coba { -brand-product-name } untuk ponsel

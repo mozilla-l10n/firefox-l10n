@@ -223,9 +223,14 @@ fxa-sync-cfr-secondary = Ingatkan saya nanti
 
 device-migration-fxa-spotlight-heavy-user-header = Jangan lupa mencadangkan data Anda
 device-migration-fxa-spotlight-heavy-user-primary-button = Memulai
+device-migration-fxa-spotlight-sync-primary-button = Memulai
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = Jadikan baku
+pdf-default-notification-decline-button =
+    .label = Jangan sekarang
 
 ## Launch on login infobar notification
 
@@ -246,3 +251,19 @@ launch-on-login-infobar-final-reject-button = Tidak, terima kasih
 tail-fox-spotlight-subtitle = Ucapkan selamat tinggal pada pelacak iklan yang mengganggu dan nikmati pengalaman internet yang lebih aman dan cepat.
 tail-fox-spotlight-primary-button = Buka tautan saya dengan { -brand-short-name }
 tail-fox-spotlight-secondary-button = Jangan sekarang
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Mengapa saya perlu memperbarui?
+root-certificate-succession-infobar-primary-button =
+    .label = Perbarui sekarang
+    .accesskey = u
+root-certificate-succession-infobar-secondary-button =
+    .label = Nanti
+    .accesskey = N
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Tutup
+    .aria-label = Tutup
