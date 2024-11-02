@@ -123,6 +123,8 @@ addon-local-install-error-not-signed = Pengaya ini tidak dapat dipasang karena b
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } tidak dapat dipasang karena tidak kompatibel dengan { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } melanggar kebijakan Mozilla dan tidak bisa dipasang di { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } tidak dapat dipasang karena berisiko tinggi untuk menyebabkan masalah stabilitas dan keamanan.
+addon-install-error-soft-blocked = { $addonName } melanggar kebijakan Mozilla dan tidak bisa dipasang di { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Anda tak bisa memasang { $addonName } sebagai pengguna akhir, hanya bisa dipasang oleh sebuah organisasi menggunakan kebijakan perusahaan.

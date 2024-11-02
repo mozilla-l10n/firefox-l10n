@@ -545,8 +545,6 @@ urlbar-page-action-button =
     .tooltiptext = Tindakan laman
 urlbar-revert-button =
     .tooltiptext = Tampilkan alamat di Bilah Lokasi
-urlbar-show-page-actions-button =
-    .tooltiptext = Tampilkan semua tindakan laman
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -607,6 +605,35 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Cari lewat { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Cari { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Cari dengan { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Pilih Mesin Pencari
+urlbar-searchmode-bookmarks =
+    .label = Markah
+urlbar-searchmode-tabs =
+    .label = Tab
+urlbar-searchmode-history =
+    .label = Riwayat
+urlbar-searchmode-actions =
+    .label = Aksi
+urlbar-searchmode-exit-button =
+    .tooltiptext = Tutup
+urlbar-searchmode-popup-description = Kali ini, cari dengan:
+urlbar-searchmode-popup-search-settings = Setelan Pencarian
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, pilih mesin pencari
+    .tooltiptext = { $engine }, pilih mesin pencari
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1000,6 +1027,7 @@ firefox-relay-offer-legal-notice = Dengan mengklik “Gunakan masker surel”, A
 popup-notification-addon-install-unsigned =
     .value = (Belum Diverifikasi)
 popup-notification-xpinstall-prompt-learn-more = Pelajari lebih lanjut tentang memasang pengaya dengan aman
+popup-notification-xpinstall-prompt-block-url = Lihat detail
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Jalankan di Jendela Pribadi
