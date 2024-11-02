@@ -36,10 +36,10 @@ new-profile-page-done-button =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Profyl { $profileName } fuortsmite
+delete-profile-page-title = Profyl { $profilename } fuortsmite
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-header = Profyl { $profileName } fuortsmite?
+delete-profile-header = Profyl { $profilename } fuortsmite?
 delete-profile-description = { -brand-short-name } smyt de folgjende gegevens permanint fan dit apparaat fuort:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Iepen finsters
