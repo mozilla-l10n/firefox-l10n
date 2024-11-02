@@ -1,3 +1,30 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+profile-window-title = { -brand-short-name } - Dewiswch Proffil Defnyddiwr
+profile-window-heading = Dewiswch broffil { -brand-short-name }
+profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fel cyfrineiriau a nodau tudalen, yn hollol ar wahân. Neu crëwch broffiliau ar gyfer pawb sy'n defnyddio'r ddyfais hon.
+# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Dangoswch hwn pan fydd { -brand-short-name } yn agor
+profile-window-create-profile = Crëwch broffil
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Proffil { $number }
+edit-profile-page-title = Golygu proffil
+edit-profile-page-header = Golygu eich proffil
+edit-profile-page-profile-name-label = Enw proffil
+edit-profile-page-theme-header = Thema
+edit-profile-page-explore-themes = Edrych ar ragor o themâu
+edit-profile-page-avatar-header = Afatar
+edit-profile-page-delete-button =
+    .label = Dileu
+edit-profile-page-no-name = Rhowch enw i'r proffil hwn i'ch helpu i ddod o hyd iddo yn nes ymlaen. Gallwch ei ail-enwi ef unrhyw bryd.
+edit-profile-page-duplicate-name = Mae'r enw proffil eisoes yn cael ei ddefnyddio. Rhowch gynnig ar enw newydd.
+edit-profile-page-profile-saved = Wedi'i Gadw
+new-profile-page-title = Proffil newydd
+new-profile-page-header = Cyfaddaswch eich proffil newydd
+
+## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+

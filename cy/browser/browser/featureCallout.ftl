@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Peidio â dangos y neges hon eto
 split-dismiss-button-show-fewer-option-label = Dangos llai o argymhellion
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Rheoli gosodiadau
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
+sidebar-button-callout-subtitle = Defnyddiwch y botwm bar ochr i ehangu'r bar ochr, fel y gallwch weld teitlau tab.

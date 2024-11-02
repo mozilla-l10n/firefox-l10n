@@ -319,6 +319,8 @@ newtab-wallpaper-dark-panda = Panda coch wedi'i guddio yn y goedwig
 newtab-wallpaper-dark-sky = Tirwedd y ddinas gydag awyr y nos
 newtab-wallpaper-dark-mountain = Tirwedd mynydd
 newtab-wallpaper-dark-city = Tirwedd dinas borffor
+newtab-wallpaper-dark-fox-anniversary = Llwynog ar y palmant ger coedwig
+newtab-wallpaper-light-fox-anniversary = Llwynog mewn cae glaswelltog gyda thirlun mynydd niwlog
 
 ## Solid Colors
 
