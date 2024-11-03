@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Serra is ischedas duplicadas
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Serra totu is ischedas duplicadas
+all-tabs-menu-synced-tabs =
+    .label = Ischedas dae àteros dispositivos
