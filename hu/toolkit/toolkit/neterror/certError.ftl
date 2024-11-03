@@ -94,6 +94,19 @@ fp-certerror-expired-why-dangerous-body = A webhelyek hitelesítésszolgáltató
 # Variables:
 #   $date (Date) - Certificate start date.
 fp-certerror-not-yet-valid-why-dangerous-body = A webhelyek hitelesítésszolgáltatók által kibocsátott tanúsítványokat használnak annak bizonyítására, hogy valóban azok, akiknek mondják magukat. A { -brand-short-name } nem bízik a webhelyben, mert úgy tűnik, hogy a tanúsítvány eddig nem lesz érvényes: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Az eszköz órája a következőre van állítva: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ha ez helyes, akkor a biztonsági probléma valószínűleg magán a webhelyen van. Ha hibás, megváltoztathatja az eszköz rendszerbeállításaiban.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Hibakód: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Tudjon meg többet a biztonságos kapcsolódást érintő hibákról
+fp-learn-more-about-cert-issues = Tudjon meg többet az ilyen tanúsítványproblémákról
+fp-learn-more-about-time-related-errors = Tudjon meg többet az idővel kapcsolatos hibák elhárításáról
 
 ## Messages used for certificate error titles
 
@@ -138,6 +151,10 @@ certerror-mitm-title = Egy szoftver megakadályozza, hogy a { -brand-short-name 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Figyelmeztetés: biztonsági kockázat
+fp-certerror-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
+fp-certerror-why-site-dangerous = Mitől tűnik veszélyesnek az oldal?
+fp-certerror-what-can-you-do = Mit tehet ez ellen?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
