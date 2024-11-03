@@ -63,3 +63,4 @@ split-dismiss-button-manage-settings-option-label = ਸੈਟਿੰਗਾਂ ਦ
 ## Sidebar Strings
 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
+sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।

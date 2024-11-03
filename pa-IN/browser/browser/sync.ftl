@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = …ਸਾਈਨ ਆਉਟ
 fxa-menu-sync-title = ਸਿੰਕ
 fxa-menu-sync-description = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਕਿਤੇ ਵੀ ਵੇਖੋ
+sync-setup-verify-continue = ਜਾਰੀ ਰੱਖੋ
+sync-setup-verify-title = ਮਿਲਾਨ ਚੇਤਾਵਨੀ
+sync-setup-verify-heading = ਕੀ ਤੁਸੀਂ ਸਿੰਕ ਲਈ ਸਾਈਨ ਇਨ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਵੱਖਰੇ ਵਰਤੋਂਕਾਰ ਨੇ ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕੀਤਾ ਸੀ। ਸਾਈਨ ਇਨ ਕਰਨ ਨਾਲ ਇਸ ਬਰਾਊਜ਼ਰ ਦੇ ਬੁੱਕਮਾਰਕ ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ %S ਨਾਲ ਮਿਲਾਇਆ ਜਾਵੇਗਾ।

@@ -71,6 +71,10 @@ open-in-new-window-for-csp-or-xfo-error = ਸਾਈਟ ਨੂੰ ਨਵੀਂ �
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ { $hostname } { -brand-short-name } ਨੂੰ ਸਫ਼ਾ ਦਿਖਾਉਣ ਨਹੀਂ ਦੇਵੇਗਾ, ਜੇ ਹੋਰ ਸਾਈਟ ਨੇ ਇਸ ਨੂੰ ਵਿੱਚ ਜੋੜਿਆ ਤਾਂ। ਇਹ ਸਫ਼ਾ ਵੇਖ ਲਈ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹਣਾ ਪਵੇਗਾ।
+fp-certerror-view-certificate-link = ਸਾਈਟ ਦਾ ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ
+fp-certerror-return-to-previous-page-recommended-button = ਪਿੱਛੇ ਜਾਓ (ਸਿਫਾਰਸ਼ੀ)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = ਕੁਝ ਖਾਸ ਨਹੀਂ। ਇਹ ਖੁਦ ਸਾਈਟ ਨਾਲ ਵੀ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ।
 
 ## Messages used for certificate error titles
 
@@ -112,3 +116,10 @@ networkProtocolError-title = ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲ ਗ�
 nssBadCert-title = ਸਾਵਧਾਨ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ
 nssBadCert-sts-title = ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ
 certerror-mitm-title = ਸਾਫਟਵੇਅਰ { -brand-short-name } ਨੂੰ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕਦਾ ਹੈ
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
