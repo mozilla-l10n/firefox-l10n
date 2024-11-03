@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸ
 appmenu-fxa-signed-in-label = ਸਾਈਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
+appmenu-fxa-setup-sync-new = ਚਾਲੂ ਕਰੋ
 appmenuitem-save-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
+appmenuitem-fxa-sync-off-title = ਸਿੰਕ ਬੰਦ ਹੈ
+appmenuitem-fxa-sync-off-description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ ਅਤੇ ਕਿਤੋਂ ਵੀ ਵਰਤੋਂ।
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੂੰ ਲੁਕਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
+
+## Profiles panel
+
+appmenu-profiles = ਪਰੋਫਾਇਲ
+appmenu-other-profiles = ਹੋਰ ਪਰੋਫਾਇਲ
+appmenu-manage-profiles =
+    .label = ਪਰੋਫਾਇਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+appmenu-create-profile =
+    .label = ਨਵਾਂ ਪਰੋਫਾਇਲ
+appmenu-edit-profile =
+    .aria-label = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
