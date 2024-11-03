@@ -2,15 +2,50 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Chatbot IA
+menu-view-review-checker =
+    .label = Verificadore de retzensiones
+sidebar-options-menu-button =
+    .title = Aberi su menù
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Oe - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Erisero - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Cantzella dae sa cronologia
+sidebar-history-sort-by-date =
+    .label = Assenta dae sa data
+sidebar-history-sort-by-site =
+    .label = Assenta dae su situ
+sidebar-history-clear =
+    .label = Isbòida sa cronologia
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Resurtados de sa chirca de “{ $query }”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Estensiones de sa barra laterale
+sidebar-customize-firefox-tools-header =
+    .label = Ainas de { -brand-product-name }
+sidebar-customize-firefox-settings = Gesti sa cunfiguratzione de { -brand-short-name }
+sidebar-position-left =
+    .label = Ammustra a manca
 sidebar-position-right =
     .label = Ammustra a sa dereta
 sidebar-vertical-tabs =

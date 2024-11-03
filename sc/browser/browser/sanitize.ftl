@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Is ùrtimas 2 oras
 clear-time-duration-value-last-4-hours =
     .label = Is ùrtimas 4 oras
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = Dae { $midnightTime }
 clear-time-duration-value-today =
     .label = Oe
 clear-time-duration-value-everything =

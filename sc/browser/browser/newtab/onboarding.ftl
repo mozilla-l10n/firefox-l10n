@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Mantene { -brand-short-name } in Dock
        *[other] Apica { -brand-short-name } a sa barra de is tareas
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Apica { -brand-short-name } a sa barra de is tareas e a su menù prinzipale
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -337,6 +339,10 @@ onboarding-device-migration-primary-button-label = Identìfica·ti
 
 ## Add-ons Picker screen
 
+amo-picker-title = Personaliza su { -brand-short-name } tuo
+amo-picker-install-button-label = Agiunghe a { -brand-short-name }
+amo-picker-install-complete-label = Installadu
+amo-picker-collection-link = Iscoberi àteros cumplementos
 
 ## The following screens have been updated to use security and privacy focused strings:
 
@@ -371,6 +377,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Dd’apo impreadu, ma da
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Nara·nos in ue boles is ischedas tuas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Podes cambiare cando boles dae sa cunfiguratzione de sa barra laterale.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.

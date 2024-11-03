@@ -136,6 +136,7 @@ windows-launch-on-login =
     .label = Aberi { -brand-short-name } in automàticu a s’aviu de s’elaboradore
     .accesskey = A
 windows-launch-on-login-disabled = Custa preferèntzia est disativada in Windows. Pro dda modificare, bae a <a data-l10n-name="startup-link">Aplicatziones de aviu</a> in cunfiguratziones de su sistema.
+windows-launch-on-login-profile-disabled = Ativa custa preferèntzia ativende “{ profile-manager-use-selected.label }” in sa ventana “Sèbera unu profilu de utente”.
 startup-restore-warn-on-quit =
     .label = Faghe ischire cando essis dae su navigadore
 disable-extension =
@@ -605,6 +606,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
 home-prefs-weather-header =
     .label = Tempus
+home-prefs-weather-description = Sa previsione de oe
 home-prefs-weather-learn-more-link = Àteras informatziones
 # Variables:
 #   $num (number) - Number of rows displayed

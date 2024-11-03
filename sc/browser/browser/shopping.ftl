@@ -89,6 +89,9 @@ shopping-show-less-button = Ammustra·nde prus pagu
 
 shopping-settings-label =
     .label = Cunfiguratzione
+shopping-settings-recommendations-toggle2 =
+    .label = Ammustra cussìgios e cuntenutos patrotzinados
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } non cumpartzit is datos tuos: custos cussìgios no t’ant a sighire aterue in internet. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
 shopping-settings-recommendations-toggle =
     .label = Ammustra publitzidade in su verificadore de retzensiones
 shopping-settings-recommendations-learn-more2 = Dias pòdere bìdere publitzidades pro produtos rilevantes. Promovimus isceti produtos cun retzensiones fidadas. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
@@ -134,6 +137,8 @@ shopping-analysis-explainer-learn-more2 = Àteras informatziones in pitzus de <a
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Is elementos <strong>in evidèntzia</strong> benent dae is retzensiones in { $retailer } de is ùrtimas 80 dies chi cunsideramus fidadas.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = Is elementos <strong>in evidèntzia</strong> benent dae is retzensiones de is ùrtimas 80 dies chi cunsideramus fidadas.
 shopping-analysis-explainer-review-grading-scale-reliable = Retzensiones fidadas. Pensamus chi is retzensiones est probàbile chi bèngiant dae clientes reales chi ant lassadu retzensiones sintzeras e ogetivas.
 shopping-analysis-explainer-review-grading-scale-mixed = Pensamus chi ddoe at unu misturu de retzensiones fidadas e non fidadas.
 shopping-analysis-explainer-review-grading-scale-unreliable = Retzensiones non fidadas. Pensamus chi is retzensiones est probàbile chi siant farsas o bèngiant dae utentes no ogetivos.
@@ -160,6 +165,7 @@ shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzens
 
 more-to-consider-ad-label =
     .label = Àteru de cunsiderare
+shopping-sponsored-label = Patrotzinadu
 ad-by-fakespot = Publitzidade dae { -fakespot-brand-name }
 
 ## Shopping survey strings.

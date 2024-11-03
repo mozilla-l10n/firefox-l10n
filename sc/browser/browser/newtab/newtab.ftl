@@ -408,6 +408,22 @@ newtab-topic-label-hobbies = Giogos
 newtab-topic-label-finance = Dinare
 newtab-topic-label-government = Polìtica
 newtab-topic-label-education-science = Sièntzia
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Cussìgios pro sa vida
+newtab-topic-label-sports = Isport
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Biàgios
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Seletziona un’argumentu pro personalizare su feed tuo
+newtab-topic-selection-save-button = Sarva
+newtab-topic-selection-cancel-button = Annulla
+newtab-topic-selection-button-maybe-later = Forsis prus tardu
+newtab-topic-selection-privacy-link = Iscoberi comente amparamus is datos tuos e sa riservadesa tua
+newtab-topic-selection-button-update-interests = Atualiza is interessos tuos
+newtab-topic-selection-button-pick-interests = Sèbera is interessos tuos
