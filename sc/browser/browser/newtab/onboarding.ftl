@@ -335,6 +335,9 @@ onboarding-device-migration-subtitle = Identìfica·ti in { -fxaccount-brand-nam
 onboarding-device-migration-subtitle2 = Identìfica·ti pro ti nche portare a fatu sinnalibros, cronologia e craes in su dispositivu nou.
 onboarding-device-migration-primary-button-label = Identìfica·ti
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -365,3 +368,39 @@ onboarding-new-user-survey-familiarity-based-option-1 = Apo cumintzadu dae pagu
 onboarding-new-user-survey-familiarity-based-option-2 = Dd’apo impreadu unas pariga de bortas
 onboarding-new-user-survey-familiarity-based-option-3 = Ddu connosco bene
 onboarding-new-user-survey-familiarity-based-option-4 = Dd’apo impreadu, ma dae ora
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Podes cambiare cando boles dae sa cunfiguratzione de sa barra laterale.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Ischedas a su costadu
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Ischedas in artu
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Is ischedas verticales sunt inoghe
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Ti presentamus is ischedas verticales
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prova is ischedas a su costadu. Càmbia cando boles dae sa cunfiguratzione de sa barra laterale.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prova is ischedas verticales
+onboarding-flair-text = Nou!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantene is ischedas orizontales
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Una ventana de su navigadore ammustrende is ischedas a su costadu de s’ischermu comente parte de sa barra laterale de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Una ventana de su navigadore ammustrende is ischedas a su costadu de s’ischermu comente parte de sa barra laterale de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Una ventana de su navigadore ammustrende is ischedas in artu.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Una ventana de su navigadore ammustrende is ischedas in artu.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prova unu chatbot in sa barra laterale
+onboarding-genai-sidebar-primary-button = Sèbera unu chatbot
+onboarding-genai-sidebar-secondary-button = Cumintza a navigare

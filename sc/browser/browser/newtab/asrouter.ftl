@@ -291,6 +291,21 @@ tail-fox-spotlight-secondary-button = Immoe nono
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = Podet èssere chi <strong>is versiones betzas de { -brand-short-name } cumintzent a tènnere problemas su 14 de ghennàrgiu de su 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Atualiza pro sighire a impreare { -brand-short-name } a pustis de su 14 de martzu de su 2025.</strong>
+root-certificate-succession-infobar-link = Pro ite depo atualizare?
+root-certificate-succession-infobar-primary-button =
+    .label = Atualiza immoe
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = A pustis
+    .accesskey = p
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Serra
+    .aria-label = Serra
+fxa-menu-message-sign-up-button = Registra·ti
+fxa-menu-message-sync-devices-primary-text = Sincroniza totu is dispositivos tuos
+fxa-menu-message-sync-devices-secondary-text = Atzede deretu a totu is datos tuos, comente sinnalibros e craes, in onni logu cun { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sincroniza totu is dispositivos tuos
