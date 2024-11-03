@@ -86,6 +86,14 @@ fp-certerror-self-signed-why-dangerous-body = Mert probléma van a webhely tanú
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nem sok mindent. Valószínű, hogy magával a webhellyel van a probléma.
 fp-certerror-self-signed-important-note = FONTOS MEGJEGYZÉS: Ha ezt a webhelyet egy vállalati intraneten próbálja meglátogatni, akkor az informatikai munkatársai saját maguk által aláírt tanúsítványokat használhatnak. Ők segíthetnek a hitelességük ellenőrzésében.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = A webhelyek hitelesítésszolgáltatók által kibocsátott tanúsítványokat használnak annak bizonyítására, hogy valóban azok, akiknek mondják magukat. A { -brand-short-name } nem bízik a webhelyben, mert úgy tűnik, hogy a tanúsítvány ekkor lejárt: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = A webhelyek hitelesítésszolgáltatók által kibocsátott tanúsítványokat használnak annak bizonyítására, hogy valóban azok, akiknek mondják magukat. A { -brand-short-name } nem bízik a webhelyben, mert úgy tűnik, hogy a tanúsítvány eddig nem lesz érvényes: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 
 ## Messages used for certificate error titles
 
