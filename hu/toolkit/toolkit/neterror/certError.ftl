@@ -155,7 +155,11 @@ fp-certerror-page-title = Figyelmeztetés: biztonsági kockázat
 fp-certerror-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
 fp-certerror-why-site-dangerous = Mitől tűnik veszélyesnek az oldal?
 fp-certerror-what-can-you-do = Mit tehet ez ellen?
+fp-certerror-advanced-title = Speciális
+fp-certerror-advanced-button = Speciális
+fp-certerror-hide-advanced-button = Speciális lehetőségek elrejtése
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Tovább erre: { $hostname } (kockázatos)
