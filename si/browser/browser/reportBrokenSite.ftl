@@ -29,5 +29,6 @@ report-broken-site-panel-description-optional-label = ගැටලුව වි�
 report-broken-site-panel-send-more-info-link = තව තොරතුරු යවන්න
 report-broken-site-panel-button-send =
     .label = යවන්න
+report-broken-site-panel-report-sent-text = වියමන වඩාත් විවෘත, ප්‍රවේශ්‍ය සහ සැමට යහපත් කිරීමට { -brand-product-name } වෙත දක්වන සහායට ස්තුතියි.
 report-broken-site-panel-invalid-url-label = වලංගු ඒ.ස.නි. ලියන්න
 report-broken-site-panel-missing-reason-label = කරුණාකර හේතුවක් තෝරන්න
