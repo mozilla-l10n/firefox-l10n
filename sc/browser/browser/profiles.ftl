@@ -11,6 +11,16 @@ profile-window-create-profile = Crea unu profilu
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilu { $number }
+edit-profile-page-title = Modifica su profilu
+edit-profile-page-header = Modifica su profilu tuo
+edit-profile-page-profile-name-label = Nòmine de su profilu
+edit-profile-page-theme-header = Tema
+edit-profile-page-explore-themes = Iscoberi àteros temas
+edit-profile-page-avatar-header = Avatar
+edit-profile-page-delete-button =
+    .label = Cantzella
+edit-profile-page-duplicate-name = Su nòmine de su profilu esistit giai. Proa·nde unu nou.
+edit-profile-page-profile-saved = Sarvadu
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 

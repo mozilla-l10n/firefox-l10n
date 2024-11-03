@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Serra sa sessione…
 fxa-menu-sync-title = Sincronizatzione
 fxa-menu-sync-description = Atzede a su web dae ònnia logu
+sync-setup-verify-continue = Sighi
+sync-setup-verify-title = Avisu de unione
+sync-setup-verify-heading = Boles sighire cun s’atzessu pro sa sincronizatzione?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un'àteru utente s’est giai identificadu in custu elaboradore pro fàghere sa sincronizatzione. Si t’identìficas, is sinnalibros, is craes e is àteras cunfiguratziones de custu navigadore s'ant a unire cun cussas de { $email }

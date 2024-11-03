@@ -1371,7 +1371,7 @@ httpsonly-radio-enabled-pbm2 =
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
 httpsonly-radio-disabled2 =
-    .label = Prova HTTPS prima, però permite connessiones chi non siant seguras
+    .label = Proa HTTPS prima, però permite connessiones chi non siant seguras
 
 ## DoH Section
 

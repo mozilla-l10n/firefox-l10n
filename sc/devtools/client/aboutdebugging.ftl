@@ -150,6 +150,10 @@ about-debugging-runtime-name = { $name } ({ $version })
 about-debugging-runtime-disconnect-button = Disconnete
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Analizadore de rendimentu
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Ismànnia/mìnima
 
 # Debug Targets strings
 

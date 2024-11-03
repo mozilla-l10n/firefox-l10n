@@ -33,6 +33,8 @@ firefoxview-tabpickup-step-signin-header = Càmbia dae unu dispositivu a s'àter
 firefoxview-tabpickup-step-signin-description = Pro pòdere recuperare is ischedas tuas dae inoghe, prima atzede a su contu tuo o crea·nde unu.
 firefoxview-tabpickup-step-signin-primarybutton = Sighi
 firefoxview-syncedtabs-signin-header-2 = Su { -brand-product-name } tuo in totu is dispositivos tuos
+firefoxview-syncedtabs-signin-description-2 = Pro bìdere ischedas chi apas abertu in su telèfonu e àteros dispositivos, identìfica·ti o registra·ti cun unu contu. Cun unu contu, as a pòdere puru sincronizare is craes e sa cronologia tuas, e àteru.
+firefoxview-syncedtabs-signin-primarybutton-2 = Identìfica·ti
 firefoxview-syncedtabs-signin-header = Piga ischedas dae ònnia logu
 firefoxview-syncedtabs-signin-description = Pro bìdere is ischedas dae cale si siat dispositivu in ue imprees { -brand-product-name }, identìfica·ti cun su contu tuo. Si non nde tenes, t’amus a ammustrare comente fàghere pro ti registrare.
 firefoxview-syncedtabs-signin-primarybutton = Identìfica·ti o registra·ti
@@ -40,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } in s
 firefoxview-tabpickup-adddevice-description = Iscàrriga { -brand-product-name } pro mòbiles e atzede a su contu tuo.
 firefoxview-tabpickup-adddevice-learn-how = Impara comente ddu fàghere
 firefoxview-tabpickup-adddevice-primarybutton = Otene { -brand-product-name } pro mòbiles
+firefoxview-syncedtabs-adddevice-header-2 = Piga ischedas dae ònnia logu
+firefoxview-syncedtabs-adddevice-description-2 = Identìfica·ti in { -brand-product-name } dae su telèfonu o dae un’àteru elaboradore pro bìdere is ischedas inoghe. Impara comente podes <a data-l10n-name="url">connètere àteros dispositivos</a>.
 firefoxview-syncedtabs-adddevice-header = Identìfica·ti in { -brand-product-name } in un’àteru dispositivu
 firefoxview-syncedtabs-adddevice-description = Pro bìdere is ischedas tuas dae in ue si siat imprees { -brand-product-name }, identìfica·ti in totu is dispositivos tuos. Impara comente podes <a data-l10n-name="url">connètere àteros dispositivos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Proa { -brand-product-name } pro mòbiles
@@ -229,6 +233,7 @@ firefoxview-choose-browser-button = Sèbera su navigadore
 firefoxview-dont-remember-history-empty-header = Nudda de ammustrare
 firefoxview-dont-remember-history-empty-description = Amparare sa riservadesa tua est sa prioridade nostra. Est pro custu chi podes detzìdere cales fainas { -brand-short-name } regordat.
 firefoxview-dont-remember-history-empty-description-two = De acordu cun sa cunfiguratzione atuale tua, { -brand-short-name } no at a regordare nissuna atividade tua durante sa navigatzione. Si ddu preferis, <a data-l10n-name="history-settings-url-two">podes cambiare sa cunfiguratzione pro sarvare sa cronologia</a>.
+firefoxview-dont-remember-history-empty-header-2 = Tenes su controllu de su chi { -brand-short-name } regordat
 
 ##
 

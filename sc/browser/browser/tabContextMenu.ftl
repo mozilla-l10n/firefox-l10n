@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Serra is ischedas de sa manca
     .accesskey = m
+close-tabs-to-the-start-vertical =
+    .label = Serra is ischedas in artu
+    .accesskey = S
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Serra s'ischeda de sa dereta
     .accesskey = d
+close-tabs-to-the-end-vertical =
+    .label = Serra is ischedas in bàsciu
+    .accesskey = e
 close-other-tabs =
     .label = Serra sas àteras ischedas
     .accesskey = e
@@ -78,6 +84,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Cumpartzi
     .accesskey = C
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Ischeda noa a dereta
+    .accesskey = c
+tab-context-new-tab-open-vertical =
+    .label = Ischeda noa in bàsciu
+    .accesskey = b
+tab-context-new-group =
+    .label = Grupu nou
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

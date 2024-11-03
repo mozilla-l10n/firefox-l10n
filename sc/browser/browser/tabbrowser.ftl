@@ -174,3 +174,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ativa s'àudio de s'ischeda
 tabbrowser-manager-close-tab =
     .tooltiptext = Serra s'ischeda
+
+## Tab Groups
+
+tab-group-editor-title-create = Crea unu grupu de ischedas
+tab-group-editor-title-edit = Gesti su grupu de ischedas
+tab-group-editor-name-label = Nòmine
+tab-group-editor-name-field =
+    .placeholder = Esempru: còmporas
+tab-group-editor-cancel =
+    .label = Annulla
+    .accesskey = A
