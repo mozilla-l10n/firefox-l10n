@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Boles chi { -brand-short-name } siat su navigadore printzipale tuo?
 default-browser-prompt-message-pin = Tene { -brand-short-name } a unu clic: faghe·ddu su navigadore predefinidu tuo e apica·ddu a sa barra de tareas.
+default-browser-prompt-message-pin-msix = Tene { -brand-short-name } a unu clic: faghe·ddu su navigadore predefinidu tuo e apica·ddu a sa barra de tareas e a su menù printzipale.
 default-browser-prompt-message-pin-mac = Tene { -brand-short-name } a unu clic: faghe·ddu su navigadore predefinidu tuo e apica·ddu in su Dock.
+default-browser-prompt-button-primary-set = Cunfigura comente navigadore printzipale
 default-browser-prompt-button-primary-pin = Cunfigura comente navigadore printzipale
 default-browser-prompt-title-alt = Boles chi { -brand-short-name } siat su navigadore predefinidu tuo?
 default-browser-prompt-message-alt = Nàviga semper a sa lestra, cun seguresa e in manera privada.

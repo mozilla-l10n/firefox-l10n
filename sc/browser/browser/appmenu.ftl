@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = Ativa
 appmenuitem-save-page =
     .label = Sarva sa pàgina comente...
 appmenuitem-fxa-sync-off-title = Sincronizatzione disativada
+appmenuitem-fxa-sync-off-description = Ampara e atzede a is sinnalibros, craes e àteru dae onni logu.
 
 ## What's New panel in App menu.
 
@@ -283,3 +284,11 @@ appmenuitem-vpn-description = Ampara sa faina tua in lìnia
 
 ## Profiles panel
 
+appmenu-profiles = Profilos
+appmenu-other-profiles = Àteros profilos
+appmenu-manage-profiles =
+    .label = Gesti is profilos
+appmenu-create-profile =
+    .label = Profilu nou
+appmenu-edit-profile =
+    .aria-label = Modifica su profilu
