@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completu
 firefoxview-tabpickup-step-signin-header = Càmbia dae unu dispositivu a s'àteru chena problemas
 firefoxview-tabpickup-step-signin-description = Pro pòdere recuperare is ischedas tuas dae inoghe, prima atzede a su contu tuo o crea·nde unu.
 firefoxview-tabpickup-step-signin-primarybutton = Sighi
+firefoxview-syncedtabs-signin-header-2 = Su { -brand-product-name } tuo in totu is dispositivos tuos
 firefoxview-syncedtabs-signin-header = Piga ischedas dae ònnia logu
 firefoxview-syncedtabs-signin-description = Pro bìdere is ischedas dae cale si siat dispositivu in ue imprees { -brand-product-name }, identìfica·ti cun su contu tuo. Si non nde tenes, t’amus a ammustrare comente fàghere pro ti registrare.
 firefoxview-syncedtabs-signin-primarybutton = Identìfica·ti o registra·ti

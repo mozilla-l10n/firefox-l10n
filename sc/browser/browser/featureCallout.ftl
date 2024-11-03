@@ -53,6 +53,14 @@ fx-view-discoverability-secondary-button-label = Iscarta
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = No torres a ammustrare custu cussìgiu
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Ammustra prus pagu cussìgios
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Gesti sa cunfiguratzione
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
+sidebar-button-callout-subtitle = Imprea su butone pro ismanniare sa barra laterale, in manera chi potzas bìdere is tìtulos de is ischedas.

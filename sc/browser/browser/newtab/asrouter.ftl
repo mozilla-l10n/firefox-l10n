@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza is sinnalibros tuos in ònnia logu.
 cfr-doorhanger-bookmark-fxa-body = Ite iscoberta! Immoe no abarres chenecustu sinnalibru in is dispositivos tuos. Est tempus de impreare { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Ite iscoberta! Immoe no abarres chene custu sinnalibru in is dispositivos tuos. Est tempus de creare unu contu.
 cfr-doorhanger-bookmark-fxa-link-text = Sincroniza is sinnalibros immoe…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butone Serra
@@ -247,6 +248,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Crea unu contu
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ses acanta de tènnere unu dispositivu nou?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Sighi una pariga de passos simpres pro ti nche portare a fatu sinnalibros, cronologia e craes cando incumentzas cun unu dispositivu nou.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Comente potzo fàghere una còpia de is datos mios?
+device-migration-fxa-spotlight-sync-header = Nàviga chene de ti pèrdere nudda
+device-migration-fxa-spotlight-sync-body = Sincroniza e tzifra totu s’informatzione de importu, comente sinnalibros e craes. Podes atzèdere a totu is datos tuos in onni logu si impreas { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Cumintza
 
 ## Set as Default PDF Reader Infobar
 
@@ -283,3 +287,10 @@ tail-fox-spotlight-title = Lassa·nche is sighidores infadosos a tesu
 tail-fox-spotlight-subtitle = Nara adiosu a publitzidades infadosas chi ti sighint e gosa·ti un’esperièntzia de navigatzione segura e lestra.
 tail-fox-spotlight-primary-button = Aberi is ligòngios mios cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = Immoe nono
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = Podet èssere chi <strong>is versiones betzas de { -brand-short-name } cumintzent a tènnere problemas su 14 de ghennàrgiu de su 2025.</strong>
+
+## FxA Menu Message variants
+
