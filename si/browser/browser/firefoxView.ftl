@@ -60,10 +60,13 @@ firefoxview-tabpickup-sync-disconnected-header = ඉදිරියට යාම
 firefoxview-tabpickup-sync-disconnected-description = ඔබගේ පටිති ලබා ගැනීමට, { -brand-short-name } සමමුහූර්ත පහසුකමට ඉඩ දිය යුතුය.
 firefoxview-tabpickup-sync-disconnected-primarybutton = සැකසුම් තුළ සමමුහූර්තය සක්‍රිය කරන්න
 firefoxview-tabpickup-password-locked-header = පටිති දැකීමට ඔබගේ ප්‍රාථමික මුරපදය යොදන්න
+firefoxview-tabpickup-password-locked-description = ඔබගේ පටිති ලබා ගැනීමට, { -brand-short-name } වෙත ප්‍රාථමික මුරපදය ඇතුල් කළ යුතුය.
 firefoxview-tabpickup-password-locked-link = තව දැනගන්න
 firefoxview-tabpickup-password-locked-primarybutton = ප්‍රාථමික මුරපදය යොදන්න
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">තව දැනගන්න</a>
 firefoxview-tabpickup-signed-out-header = යළි සබැඳීමට පිවිසෙන්න
+firefoxview-tabpickup-signed-out-description = නැවත සම්බන්ධ වී පටිති ඇහිඳ ගැනීමට ඔබගේ { -fxaccount-brand-name } ගිණුමට පිවිසෙන්න.
+firefoxview-tabpickup-signed-out-description2 = නැවත සම්බන්ධ වී පටිති ඇහිඳ ගැනීමට ඔබගේ ගිණුමට පිවිසෙන්න.
 firefoxview-tabpickup-signed-out-primarybutton = පිවිසෙන්න
 firefoxview-tabpickup-syncing = ඔබගේ පටිති මොහොතකින් සමමුහූර්ත වනු ඇත. රැඳී සිටින්න.
 firefoxview-mobile-promo-description = ඔබගේ නවතම ජංගම පටිති බැලීමට, අයිඕඑස් හෝ ඇන්ඩ්‍රොයිඩ් හරහා { -brand-product-name } වෙත පිවිසෙන්න.
@@ -90,6 +93,7 @@ firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝ�
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = තවම දකින්න දෙයක් නැත
+firefoxview-synced-tabs-placeholder-body = ඊළඟ වතාවේ ඔබ වෙනත් උපාංගයක { -brand-product-name } හි පිටුවක් අරින විට, විජ්ජාවක් මෙන් මෙතැනින් ඇහිඳින්න.
 firefoxview-collapse-button-show =
     .title = ලේඛනය පෙන්වන්න
 firefoxview-collapse-button-hide =
