@@ -42,4 +42,4 @@ sync-setup-verify-heading = ਕੀ ਤੁਸੀਂ ਸਿੰਕ ਲਈ ਸਾਈ
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:
 #   $email - Email address of a user previously signed into sync.
-sync-setup-verify-description = ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਵੱਖਰੇ ਵਰਤੋਂਕਾਰ ਨੇ ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕੀਤਾ ਸੀ। ਸਾਈਨ ਇਨ ਕਰਨ ਨਾਲ ਇਸ ਬਰਾਊਜ਼ਰ ਦੇ ਬੁੱਕਮਾਰਕ ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ %S ਨਾਲ ਮਿਲਾਇਆ ਜਾਵੇਗਾ।
+sync-setup-verify-description = ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਵੱਖਰੇ ਵਰਤੋਂਕਾਰ ਨੇ ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕੀਤਾ ਸੀ। ਸਾਈਨ ਇਨ ਕਰਨ ਨਾਲ ਇਸ ਬਰਾਊਜ਼ਰ ਦੇ ਬੁੱਕਮਾਰਕ ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ { $email } ਨਾਲ ਮਿਲਾਇਆ ਜਾਵੇਗਾ।
