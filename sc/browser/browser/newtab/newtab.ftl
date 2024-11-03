@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = Personaliza s'ischeda noa
 newtab-personalize-dialog-label =
     .aria-label = Personaliza
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +111,7 @@ newtab-menu-save-to-pocket = Sarva in { -pocket-brand-name }
 newtab-menu-delete-pocket = Cantzella dae { -pocket-brand-name }
 newtab-menu-archive-pocket = Archìvia in { -pocket-brand-name }
 newtab-menu-show-privacy-info = Is patrotzinadores nostros e sa riservadesa tua
+newtab-menu-about-fakespot = Informatziones in pitzus de { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -199,6 +202,8 @@ newtab-section-header-recent-activity = Atividade reghente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Cussigiados dae { $provider }
 newtab-section-header-stories = Istòrias chi faghent pensare
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Is cussìgios de sa die
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -230,6 +235,8 @@ newtab-pocket-cta-button = Otene { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva is istòrias tuas preferidas in { -pocket-brand-name }, e ispàssia·ti cun leturas incantadoras.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa famìlia de { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvadu
 
@@ -390,10 +397,17 @@ newtab-weather-error-not-available = Is datos de su tempus non sunt a disponimen
 
 ## Topic Labels
 
+newtab-topic-label-business = Economia
+newtab-topic-label-education = Formatzione
+newtab-topic-label-food = Cosa de papare
+newtab-topic-label-health = Salude
+newtab-topic-label-hobbies = Giogos
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Dinare
+newtab-topic-label-government = Polìtica
+newtab-topic-label-education-science = Sièntzia
 
 ## Topic Selection Modal
 

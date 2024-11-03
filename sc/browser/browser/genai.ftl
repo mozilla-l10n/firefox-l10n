@@ -5,6 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-choose = Sèbera unu chatbot
+genai-settings-chat-choose-one-menuitem =
+    .label = Sèbera·nde unu
+genai-settings-chat-links = Cando sèberas unu chatbot, atzetas is cunditziones de impreu de su frunidore e sa polìtica de riservadesa sua.
+genai-settings-chat-chatgpt-links = Seberende ChatGPT, atzetas is <a data-l10n-name="link1">Cunditziones de impreu</a> e sa <a data-l10n-name="link2">polìtica de riservadesa</a> de OpenAI.
+genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a data-l10n-name="link1">cunditziones de su servìtziu</a>, sa <a data-l10n-name="link2">polìtica de impreu</a> e sa <a data-l10n-name="link3">polìtica de riservadesa</a> de Anthropic.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -15,9 +21,33 @@
 
 ## Chatbot menu shortcuts
 
+genai-shortcuts-hide =
+    .label = Curtzadòrgiu pro cuare su chatbot
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Sèbera unu chatbot
+genai-header-options-button =
+    .title = Aberi su menù
+genai-header-close-button =
+    .title = Serra
+genai-provider-view-details =
+    .label = Bide is detàllios de su chatbot
+genai-provider-about-chatbots =
+    .label = Informatziones in pitzus de custos chatbots
+genai-options-reload-generic =
+    .label = Torra a carrigare su chatbot de IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Torra a carrigare { $provider }
+genai-options-show-shortcut =
+    .label = Ammustra su curtzadòrgiu cando seletzionas testu
+genai-options-hide-shortcut =
+    .label = Cua su curtzadòrgiu cando seletzionas testu
+genai-options-about-chatbot =
+    .label = Informatziones in pitzus de is chatbots de IA de { -brand-short-name }
 
 ## Chatbot onboarding
 

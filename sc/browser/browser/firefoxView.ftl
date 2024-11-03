@@ -234,6 +234,7 @@ firefoxview-dont-remember-history-empty-header = Nudda de ammustrare
 firefoxview-dont-remember-history-empty-description = Amparare sa riservadesa tua est sa prioridade nostra. Est pro custu chi podes detzìdere cales fainas { -brand-short-name } regordat.
 firefoxview-dont-remember-history-empty-description-two = De acordu cun sa cunfiguratzione atuale tua, { -brand-short-name } no at a regordare nissuna atividade tua durante sa navigatzione. Si ddu preferis, <a data-l10n-name="history-settings-url-two">podes cambiare sa cunfiguratzione pro sarvare sa cronologia</a>.
 firefoxview-dont-remember-history-empty-header-2 = Tenes su controllu de su chi { -brand-short-name } regordat
+firefoxview-dont-remember-history-empty-description-one = In custu momentu, { -brand-short-name } non regordat s’atividade de navigatzione tua. Pro modificare custu, <a data-l10n-name="history-settings-url-two">atualiza sa cunfiguratzione de sa cronologia</a>.
 
 ##
 
