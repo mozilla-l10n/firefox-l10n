@@ -75,6 +75,16 @@ fp-certerror-view-certificate-link = ਸਾਈਟ ਦਾ ਸਰਟੀਫਿਕ�
 fp-certerror-return-to-previous-page-recommended-button = ਪਿੱਛੇ ਜਾਓ (ਸਿਫਾਰਸ਼ੀ)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = ਕੁਝ ਖਾਸ ਨਹੀਂ। ਇਹ ਖੁਦ ਸਾਈਟ ਨਾਲ ਵੀ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ।
+fp-certerror-self-signed-important-note = ਖਾਸ ਸੂਚਨਾ: ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਇੰਟਰਾਨੈੱਟ ਉੱਤੇ ਇਸ ਸਾਈਟ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ IT ਸਟਾਫ ਵਲੋਂ ਖੁਦ-ਸਾਈਨ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਵਰਤੇ ਜਾ ਰਹੇ ਹੋ ਸਕਦੇ ਹਨ। ਇਸ ਦੀ ਪਰਮਾਣਕਿਤਾ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਤੁਸੀਂ ਉਹਨਾਂ ਤੋਂ ਮਦਦ ਲੈ ਸਕਦੇ ਹੋ।
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = ਗ਼ਲਤੀ ਕੋਡ: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਅਸਫ਼ਲਤਾ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+fp-learn-more-about-cert-issues = ਇਸ ਕਿਸਮ ਦੇ ਸਰਟੀਫਿਕੇਟ ਮਸਲਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+fp-learn-more-about-time-related-errors = ਸਮੇਂ ਨਾਲ ਸੰਬੰਧਿਤ ਗ਼ਲਤੀਆਂ ਬਾਰੇ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 ## Messages used for certificate error titles
 
@@ -119,7 +129,15 @@ certerror-mitm-title = ਸਾਫਟਵੇਅਰ { -brand-short-name } ਨੂੰ 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = ਸਾਵਧਾਨ: ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ
+fp-certerror-body-title = ਧਿਆਨ ਰੱਖੋ। ਕੁਝ ਸਹੀ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।
+fp-certerror-why-site-dangerous = ਸਾਈਟ ਨੂੰ ਖ਼ਤਰਨਾਕ ਕੀ ਬਣਾਉਂਦਾ ਹੈ?
+fp-certerror-what-can-you-do = ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?
+fp-certerror-advanced-title = ਤਕਨੀਕੀ
+fp-certerror-advanced-button = ਤਕਨੀਕੀ
+fp-certerror-hide-advanced-button = ਤਕਨੀਕੀ ਓਹਲੇ ਕਰੋ
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = { $hostname } ਨਾਲ ਜਾਰੀ ਰੱਖੋ (ਖ਼ਤਰਨਾਕ)
