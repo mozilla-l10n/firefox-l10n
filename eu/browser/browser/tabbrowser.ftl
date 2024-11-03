@@ -177,6 +177,8 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Sortu fitxen multzoa
+tab-group-editor-title-edit = Kudeatu fitxen multzoa
 tab-group-editor-name-label = Izena
 tab-group-editor-name-field =
     .placeholder = Adibidea: erosketak

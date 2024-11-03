@@ -40,5 +40,9 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Zenbait hedapen ez dira onartzen
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Zenbait hedapen ez dira onartzen
+    .message = Zure datuak babesteko, zenbait hedapenek ezin dute gune honetako daturik irakurri edo aldatu. Erabili hedapenaren ezarpenak { -vendor-short-name }(e)k mugatutako guneetan baimentzeko.
 unified-extensions-mb-quarantined-domain-learn-more = Argibide gehiago
     .aria-label = Argibide gehiago: zenbait hedapen ez dira onartzen
