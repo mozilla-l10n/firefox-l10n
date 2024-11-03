@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Ez erakutsi gomendio hau berriro
 split-dismiss-button-show-fewer-option-label = Erakutsi gomendio gutxiago
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Kudeatu ezarpenak
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
+sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.

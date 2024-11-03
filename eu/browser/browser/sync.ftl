@@ -35,3 +35,4 @@ fxa-menu-sign-out =
     .label = Amaitu saioa…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Izan zure weberako sarbidea edonon
+sync-setup-verify-continue = Jarraitu

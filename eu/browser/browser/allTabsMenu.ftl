@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Itxi bikoiztutako fitxak
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Itxi bikoiztutako fitxa guztiak
+all-tabs-menu-synced-tabs =
+    .label = Beste gailuetako fitxak

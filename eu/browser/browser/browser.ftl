@@ -547,6 +547,8 @@ urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
     .tooltiptext = Orri-ekintzak
+urlbar-revert-button =
+    .tooltiptext = Erakutsi helbidea helbide-barran
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -607,6 +609,15 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Bilatu { $engine } erabiliz
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Bilatu { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Bilatu { $engine } erabiliz
 urlbar-searchmode-dropmarker =
     .tooltiptext = Hautatu bilaketa-motorra
 urlbar-searchmode-bookmarks =

@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = Sinkronizatu eta gorde datuak
 appmenu-fxa-signed-in-label = Hasi saioa
 appmenu-fxa-setup-sync =
     .label = Gaitu sinkronizazioa…
+appmenu-fxa-setup-sync-new = Aktibatu
 appmenuitem-save-page =
     .label = Gorde orria honela…
+appmenuitem-fxa-sync-off-title = Sinkronizazioa desaktibatuta dago
 
 ## What's New panel in App menu.
 
@@ -277,3 +279,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Babestu lineako zure jarduera
+
+## Profiles panel
+
+appmenu-profiles = Profilak
+appmenu-other-profiles = Beste profilak
+appmenu-manage-profiles =
+    .label = Kudeatu profilak
+appmenu-create-profile =
+    .label = Profil berria
+appmenu-edit-profile =
+    .aria-label = Editatu profila

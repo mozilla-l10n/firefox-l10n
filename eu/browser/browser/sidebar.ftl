@@ -2,9 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-review-checker =
+    .label = Balorazioen egiaztatzailea
+sidebar-options-menu-button =
+    .title = Ireki menua
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Gaur - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Atzo - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Ezabatu historiatik
 sidebar-history-sort-by-date =
@@ -38,12 +52,14 @@ sidebar-horizontal-tabs =
     .label = Fitxa horizontalak
 sidebar-customize-tabs-header =
     .label = Fitxen ezarpenak
-sidebar-customize-settings-header =
-    .label = Alboko barraren ezarpenak
-sidebar-visibility-always-show =
-    .label = Erakutsi beti
-sidebar-visibility-hide-sidebar =
-    .label = Ezkutatu alboko barra
+sidebar-customize-button-header =
+    .label = Alboko barraren botoia
+sidebar-customize-position-header =
+    .label = Alboko barraren kokapena
+sidebar-visibility-setting-always-show =
+    .label = Zabaldu eta tolestu alboko barra
+sidebar-visibility-setting-hide-sidebar =
+    .label = Erakutsi eta ezkutatu alboko barra
 
 ## Labels for sidebar context menu items
 
@@ -61,6 +77,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Egin fitxaren laster-marka…
 sidebar-context-menu-copy-link =
     .label = Kopiatu lotura
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Itxi { $deviceName } gailuko fitxa
 
 ## Labels for sidebar history context menu items
 
@@ -77,6 +97,8 @@ sidebar-menu-bookmarks-label =
     .label = Laster-markak
 sidebar-menu-customize-label =
     .label = Pertsonalizatu alboko barra
+sidebar-menu-review-checker-label =
+    .label = Balorazioen egiaztatzailea
 
 ## Headings for sidebar menu panels.
 
@@ -104,16 +126,8 @@ sidebar-syncedtabs-title = Beste gailuetako fitxak
 synced-tabs-context-close-tab-title =
     .title = Itxi { $deviceName } gailuko fitxa
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Zabaldu alboko barra
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Tolestu alboko barra
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Erakutsi alboko barra
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Ezkutatu alboko barra
 sidebar-widget-expand-sidebar =
     .tooltiptext = Zabaldu alboko barra
     .label = Alboko barrak
