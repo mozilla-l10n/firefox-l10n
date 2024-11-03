@@ -68,6 +68,14 @@ open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
+fp-certerror-view-certificate-link = Näytä sivuston varmenne
+fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Virhekoodi: { $error }
+fp-learn-more-about-secure-connection-failures = Lue lisää suojatun yhteyden virheistä
+fp-learn-more-about-cert-issues = Lue lisää tällaisista varmenneongelmista
+fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheiden vianetsinnästä
 
 ## Messages used for certificate error titles
 
@@ -109,3 +117,14 @@ networkProtocolError-title = Verkkoyhteyskäytännön virhe
 nssBadCert-title = Varoitus: mahdollinen tietoturvariski
 nssBadCert-sts-title = Ei yhdistetty: mahdollinen turvallisuusongelma
 certerror-mitm-title = Ohjelmisto estää { -brand-short-name }ia yhdistämästä turvallisesti tähän sivustoon
+
+## Felt Privacy V1 Strings
+
+fp-certerror-body-title = Ole varovainen. Jokin ei vaikuta olevan oikein.
+fp-certerror-why-site-dangerous = Mikä saa sivuston vaikuttamaan vaaralliselta?
+fp-certerror-what-can-you-do = Mitä voit tehdä asialle?
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Jatka sivustolle { $hostname } (riskialtista)

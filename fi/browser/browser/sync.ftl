@@ -34,3 +34,6 @@ fxa-menu-send-tab-to-device-description = Lähetä välilehti välittömästi mi
 fxa-menu-sign-out =
     .label = Kirjaudu ulos…
 fxa-menu-sync-description = Verkkosi missä tahansa
+sync-setup-verify-continue = Jatka
+sync-setup-verify-title = Varoitus tietojen yhdistämisestä
+sync-setup-verify-heading = Haluatko varmasti kirjautua sisään synkronointia varten?
