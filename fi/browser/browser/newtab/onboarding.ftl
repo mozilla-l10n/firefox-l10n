@@ -398,6 +398,18 @@ onboarding-existing-vertical-tabs-label = Kokeile pystysuuntaisia välilehtiä
 onboarding-flair-text = Uutta!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Pidä vaakasuuntaiset välilehdet
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Selainikkuna, jossa välilehdet näkyvät näytön reunassa osana { -brand-shorter-name }-sivupalkkia.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Selainikkuna, jossa välilehdet näkyvät näytön reunassa osana { -brand-shorter-name }-sivupalkkia.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Selainikkuna, jonka yläosassa näkyvät välilehdet.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Selainikkuna, jonka yläosassa näkyvät välilehdet.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Kokeile AI-chatbottia sivupalkissa
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.

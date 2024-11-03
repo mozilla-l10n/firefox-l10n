@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Älä näytä tätä suositusta uu
 split-dismiss-button-show-fewer-option-label = Näytä vähemmän suosituksia
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Muokkaa asetuksia
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Näytä välilehtien otsikot sivupalkissa
+sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi sivupalkkia, jotta näet välilehtien otsikot.
