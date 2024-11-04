@@ -75,6 +75,10 @@ fp-certerror-view-certificate-link = Vis nettstedets sertifikat
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Enhetens klokke er satt til { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Hvis dette er riktig, er sikkerhetsproblemet sannsynligvis med selve nettstedet. Hvis det er feil, kan du endre det i enhetens systeminnstillinger.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Feilkode: { $error }
@@ -131,7 +135,14 @@ certerror-mitm-title = Programvare hindrer { -brand-short-name } fra sikker tilk
 fp-certerror-page-title = Advarsel: Sikkerhetsrisiko
 fp-certerror-body-title = Vær forsiktig. Noe ser ikke riktig ut.
 fp-certerror-why-site-dangerous = Hva får siden til å se farlig ut?
+fp-certerror-what-can-you-do = Hva kan du gjøre med det?
+fp-certerror-advanced-title = Avansert
+fp-certerror-advanced-button = Avansert
+fp-certerror-hide-advanced-button = Skjul avansert
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Fortsett til { $hostname } (risikofylt)
+fp-certerror-intro = { -brand-short-name } oppdaget et potensielt alvorlig sikkerhetsproblem med <strong>{ $hostname }</strong>. Noen som utgir seg for å være nettstedet kan prøve å stjele ting som kredittkortinformasjon, passord eller e-poster.
+fp-certerror-expired-into = { -brand-short-name } oppdaget et sikkerhetsproblem med <strong>{ $hostname }</strong>. Enten er nettstedet ikke konfigurert riktig eller enhetens klokke er satt til feil dato/tid.
