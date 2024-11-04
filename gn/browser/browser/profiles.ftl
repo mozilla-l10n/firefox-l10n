@@ -45,6 +45,8 @@ delete-profile-tabs = Tendayke ijurujáva
 delete-profile-bookmarks = Techaukahakuéra
 # History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Tembiasakue (kuatiarogue eikehague, kookie, tenda mba’ekuaarã)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Mba’ekuaarã myanyhẽrã (kundaharape, ñehepyme’ẽrã)
 # Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Ñe’ẽñemikuéra
 # Button label
