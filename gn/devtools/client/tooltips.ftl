@@ -93,6 +93,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha’ã emb
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha’ã embojuaju <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
 inactive-css-not-block-fix = Eñeha’ã embojuaju <strong>display:block</strong> térã <strong>float:left</strong>. { learn-more }
+inactive-css-not-floated-fix = Eñeha’ã embojuaju upe mba’etee <strong>float</strong> hepykue ambuéva <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Eñeha’ã embojuaju mba’etee mba’eporu myengoviapyrépe. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Eñeha’ã embojuaju <strong>overflow:hidden</strong>. { learn-more }
