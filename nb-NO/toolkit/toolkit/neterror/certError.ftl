@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Sertifikatet er ikke tiltrodd fo
 cert-error-trust-expired-issuer = Sertifikatet er ikke tiltrodd fordi utstedersertifikatet har gått ut på dato.
 cert-error-trust-self-signed = Sertifikatet er ikke tiltrodd fordi det er selvsignert.
 cert-error-trust-symantec = Sertifikater utstedt av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign anses ikke lenger som trygge fordi disse sertifikatmyndighetene ikke klarte å følge sikkerhetspraksis tidligere.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } stoler ikke på { $hostname } fordi den ikke kunne bevise at den oppfyller kravene til offentlig sertifikatåpenhet.
 cert-error-untrusted-default = Sertifikatet kommer ikke fra en tiltrodd kilde.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -68,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = Åpne nettsted i nytt vindu
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheten din, vil { $hostname } ikke tillate at { -brand-short-name } viser siden hvis et annet nettsted har bygd den inn. For å se denne siden, må du åpne den i et nytt vindu.
+fp-certerror-view-certificate-link = Vis nettstedets sertifikat
+fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
 
 ## Messages used for certificate error titles
 
@@ -109,3 +114,10 @@ networkProtocolError-title = Nettverksprotokollfeil
 nssBadCert-title = Advarsel: Potensiell sikkerhetsrisiko forut
 nssBadCert-sts-title = Koblet ikke til: Potensielt sikkerhetsproblem
 certerror-mitm-title = Programvare hindrer { -brand-short-name } fra sikker tilkobling til dette nettstedet
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
