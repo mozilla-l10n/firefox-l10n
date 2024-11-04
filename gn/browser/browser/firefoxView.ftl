@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } 
 firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe g̃uarã
 firefoxview-syncedtabs-adddevice-header-2 = Ejapyhy tendayke oimeha guive
+firefoxview-syncedtabs-adddevice-description-2 = Eñepyrũ tembiapo { -brand-product-name } ne pumbyry térã ambue mohendahápe ehecha hag̃ua tendayke ápe. Ehecha mba’éichapa <a data-l10n-name="url">embojuajúta ambue mba’e’oka</a>.
 firefoxview-syncedtabs-adddevice-header = Eike { -brand-product-name } ndive ambue imba’e’okápe
 firefoxview-syncedtabs-adddevice-description = Ehecha ne rendayke oimeraẽva mba’e’oka guive eiporúvo { -brand-product-name }, eike mba’e’okakuérape. Eikuaa mba’éicha <a data-l10n-name="url">eikéta mba’e’okápe</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe

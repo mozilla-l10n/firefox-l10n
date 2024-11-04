@@ -63,3 +63,4 @@ split-dismiss-button-manage-settings-option-label = Eñangareko ñemoĩporãre
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
+sidebar-button-callout-subtitle = Eiporu tenda yke votõ emyasãi hag̃ua mba’erupa ha ehecha umi tendayke reratee.
