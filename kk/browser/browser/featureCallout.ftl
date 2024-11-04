@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Бұл ұсынысты қайта
 split-dismiss-button-show-fewer-option-label = Азырақ ұсыныстарды көрсету
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Баптауларды басқару
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету
+sidebar-button-callout-subtitle = Бүйір панелін кеңейту үшін бүйір панелі батырмасын пайдаланыңыз, осылай беттер атауларын көре аласыз.

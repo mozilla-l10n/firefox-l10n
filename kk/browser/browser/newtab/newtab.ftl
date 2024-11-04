@@ -313,6 +313,7 @@ newtab-wallpaper-dark-panda = Орманда жасырылған қызыл п�
 newtab-wallpaper-dark-sky = Түнгі аспаны бар қала пейзажы
 newtab-wallpaper-dark-mountain = Таулы пейзаж
 newtab-wallpaper-dark-city = Күлгін қала пейзажы
+newtab-wallpaper-dark-fox-anniversary = Орман жанындағы тротуардағы түлкі
 
 ## Solid Colors
 
