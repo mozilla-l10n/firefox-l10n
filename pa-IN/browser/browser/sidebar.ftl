@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI ਚੈਟਬੋਟ
 menu-view-review-checker =
     .label = ਰੀਵਿਊ ਚੈਕਰ
+sidebar-options-menu-button =
+    .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ਤੇ ਸਮੇਟੋ
 sidebar-visibility-setting-hide-sidebar =
     .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ਤੇ ਓਹਲੇ ਕਰੋ
-sidebar-customize-settings-header =
-    .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
-sidebar-visibility-always-show =
-    .label = ਹਮੇਸ਼ਾਂ ਵੇਖਾਓ
-sidebar-visibility-hide-sidebar =
-    .label = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
 
 ## Labels for sidebar context menu items
 
