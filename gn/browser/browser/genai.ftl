@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Embojuaju chatbot eiporavóva tenda yképe, eike pya’e hag̃ua eikundaha aja. <a data-l10n-name="connect">Emoherakuã ne remiandu</a>
 genai-settings-chat-choose = Eiporavo chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Eiporavo peteĩ
@@ -14,6 +15,7 @@ genai-settings-chat-claude-links = Eiporavóvo Anthropic Claude, emoneĩ ko’ã
 genai-settings-chat-copilot-links = Eiporavóvo Copilot, emoneĩ ko’ã <a data-l10n-name="link1">IA Copilot mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">Microsoft porureko ñemigua</a>.
 genai-settings-chat-huggingchat-links = Eiporavóvo HuggingChat, emoneĩ ko’ã <a data-l10n-name="link1">HuggingChat mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">HuggingChat porureko ñemigua</a>.
 genai-settings-chat-lechat-links = Eiporavóvo Le Chat Mistral, emoneĩ ko’ã <a data-l10n-name="link1">mba’epytyvõrã ñemboguata</a> Mistral AI rehegua ha <a data-l10n-name="link2">Porureko ñemigua</a>.
+genai-settings-chat-localhost-links = Egueru chatbot teéva, ikatúva <a data-l10n-name="link1">llamafile</a> aty pyahuguáva { -vendor-short-name } rehegua.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -106,6 +108,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
 genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe’ẽ
+genai-onboarding-select-description = Embosa’ývo moñe’ẽrã, roikuave’ẽ prompts oñemondokuaáva chatbot-pe. Ehaikuaa avei ne prompts teetéva.
 genai-onboarding-select-primary = Eñepyrũ echatea
 
 ## Chatbot onboarding choices
