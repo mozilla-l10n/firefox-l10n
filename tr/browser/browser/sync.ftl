@@ -35,3 +35,6 @@ fxa-menu-sign-out =
     .label = Çıkış yap…
 fxa-menu-sync-title = Eşitle
 fxa-menu-sync-description = Web’inize her yerden erişin
+sync-setup-verify-continue = İleri
+sync-setup-verify-title = Birleştirme Uyarısı
+sync-setup-verify-heading = Eşitleme için giriş yapmak istediğinizden emin misiniz?

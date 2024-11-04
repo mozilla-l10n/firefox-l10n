@@ -83,7 +83,7 @@ fp-certerror-self-signed-important-note = ÖNEMLİ NOT: Bu siteyi kurumsal bir i
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için bir sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifikanın süresi { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihinde dolmuş.
+fp-certerror-expired-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifikanın süresi { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihinde dolmuş.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Hata kodu: { $error }

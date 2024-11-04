@@ -310,6 +310,8 @@ newtab-wallpaper-dark-panda = Ormanda saklanan kızıl panda
 newtab-wallpaper-dark-sky = Gece gökyüzüyle şehir manzarası
 newtab-wallpaper-dark-mountain = Manzaralı dağ
 newtab-wallpaper-dark-city = Mor şehir manzarası
+newtab-wallpaper-dark-fox-anniversary = Bir ormanın yakınında kaldırımda bir tilki
+newtab-wallpaper-light-fox-anniversary = Sisli bir dağ manzarasıyla çimenli bir alanda bir tilki
 
 ## Solid Colors
 
