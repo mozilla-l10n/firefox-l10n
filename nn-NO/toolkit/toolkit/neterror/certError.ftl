@@ -70,9 +70,19 @@ open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
 fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Klokka i eininga er sett til { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Viss dette er rett, er tryggingsproblemet sannsynlegvis med sjølve nettstaden. Viss det er feil, kan du endre det i systeminnstillingane i eininga.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Feilkode: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Les meir om feil med trygg tilkopling
+fp-learn-more-about-cert-issues = Les meir om slike sertifikatproblem
+fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelaterte feil
 
 ## Messages used for certificate error titles
 
@@ -117,7 +127,17 @@ certerror-mitm-title = Programvara hindrar { -brand-short-name } frå trygg tilk
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Åtvaring: Tryggingsrisiko
+fp-certerror-body-title = Ver varsam. Noko ser ikkje rett ut.
+fp-certerror-why-site-dangerous = Kva får sida til å sjå farleg ut?
+fp-certerror-what-can-you-do = Kva kan du gjere med det?
+fp-certerror-advanced-title = Avansert
+fp-certerror-advanced-button = Avansert
+fp-certerror-hide-advanced-button = Skjul avansert
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Hald fram til { $hostname } (risikofylt)
+fp-certerror-intro = { -brand-short-name } oppdaga eit potensielt alvorleg tryggingsproblem med <strong>{ $hostname }</strong>. Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som kredittkortinformasjon, passord eller e-postar.
+fp-certerror-expired-into = { -brand-short-name } oppdaga eit tryggingsproblem med <strong>{ $hostname }</strong>. Anten er nettstaden ikkje konfigurert rett eller klokka i eininga er sett til feil dato/tid.
