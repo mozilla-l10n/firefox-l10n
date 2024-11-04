@@ -845,8 +845,8 @@ toolbar-button-save-page =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
-    .tooltiptext = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+    .label = ਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ
+    .tooltiptext = ਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
     .tooltiptext = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਓ
@@ -1067,7 +1067,7 @@ popup-warning-button =
     .label =
         { PLATFORM() ->
             [windows] ਚੋਣਾਂ
-           *[other] ਮੇਰੀ ਪਸੰਦ
+           *[other] ਮੇਰੀਆਂ ਪਸੰਦਾਂ
         }
     .accesskey =
         { PLATFORM() ->
