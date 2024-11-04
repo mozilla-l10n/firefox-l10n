@@ -141,3 +141,5 @@ fp-certerror-hide-advanced-button = ਤਕਨੀਕੀ ਓਹਲੇ ਕਰੋ
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = { $hostname } ਨਾਲ ਜਾਰੀ ਰੱਖੋ (ਖ਼ਤਰਨਾਕ)
+fp-certerror-intro = { -brand-short-name } ਨੇ <strong>{ $hostname }</strong> ਲਈ ਸੰਭਾਵੀ ਗੰਭੀਰ ਸੁਰੱਖਿਆ ਮਸਲਾ ਲੱਭਿਆ ਹੈ। ਕੋਈ ਸਾਈਟ ਵਰਗਾ ਭੇਸ ਬਣ ਕੇ ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲਾਂ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
+fp-certerror-expired-into = { -brand-short-name } ਨੇ <strong>{ $hostname }</strong> ਲਈ ਸੁਰੱਖਿਆ ਮਸਲਾ ਲੱਭਿਆ ਹੈ। ਜਾਂ ਤਾਂ ਇਹ ਸਾਈਟ ਸਹੀ ਸੈਟ ਅੱਪ ਨਹੀਂ ਕੀਤੀ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀ ਘੜੀ ਲਈ ਤਾਰੀਖ/ਸਮਾਂ ਗਲਤ ਸੈਟ ਕੀਤਾ ਹੈ।
