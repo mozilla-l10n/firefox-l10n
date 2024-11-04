@@ -832,8 +832,8 @@ toolbar-overflow-customize-button =
     .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
     .accesskey = C
 toolbar-button-email-link =
-    .label = ਲਿੰਕ ਈਮੇਲ ਕਰੋ
-    .tooltiptext = ਇਹ ਸਫ਼ੇ ਲਈ ਲਿੰਕ ਈਮੇਲ ਕਰਕੇ ਭੇਜੋ
+    .label = ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ
+    .tooltiptext = ਇਹ ਸਫ਼ੇ ਲਈ ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰਕੇ ਭੇਜੋ
 toolbar-button-logins =
     .label = ਪਾਸਵਰਡ
     .tooltiptext = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਵੇਖੋ ਅਤੇ ਉਹਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
@@ -845,7 +845,7 @@ toolbar-button-save-page =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = ਫਾਈਲ ਖੋਲ੍ਹੋ
+    .label = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
     .tooltiptext = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
@@ -893,7 +893,7 @@ popups-infobar-dont-show-message =
     .label = ਜਦੋਂ ਪੋਪਅੱਪ ਬਲਾਕ ਕੀਤੇ ਹੋਣ ਤਾਂ ਇਹ ਸੁਨੇਹਾ ਨਾ ਵੇਖਾਓ
     .accesskey = D
 edit-popup-settings =
-    .label = …ਪੌਪ-ਅੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .label = …ਪੌਪ-ਅੱਪ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
 picture-in-picture-hide-toggle =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
@@ -991,16 +991,16 @@ unified-extensions-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 unified-extensions-button-permissions-needed =
-    .label = ਇਕਸਟੈਨਸ਼ਨ
+    .label = ਇਕਸਟੈਨਸ਼ਨਾਂ
     .tooltiptext =
-        Extensions
+        ਇਕਸਟੈਨਸ਼ਨਾਂ
         ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹਨ
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
 unified-extensions-button-quarantined =
-    .label = ਇਕਸਟੈਨਸ਼ਨ
+    .label = ਇਕਸਟੈਨਸ਼ਨਾਂ
     .tooltiptext =
         ਇਕਸਟੈਨਸ਼ਨਾਂ
         ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
@@ -1044,7 +1044,7 @@ firefox-relay-offer-legal-notice = “ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ�
 popup-notification-addon-install-unsigned =
     .value = (ਨਾ-ਜਾਂਚ ਕੀਤੇ)
 popup-notification-xpinstall-prompt-learn-more = ਐਡ-ਆਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-popup-notification-xpinstall-prompt-block-url = ਵੇਰਵੇ ਵੇਖੋ
+popup-notification-xpinstall-prompt-block-url = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖਾਓ
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਚਲਾਓ
