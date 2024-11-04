@@ -73,6 +73,8 @@ open-in-new-window-for-csp-or-xfo-error = Åpne nettsted i nytt vindu
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheten din, vil { $hostname } ikke tillate at { -brand-short-name } viser siden hvis et annet nettsted har bygd den inn. For å se denne siden, må du åpne den i et nytt vindu.
 fp-certerror-view-certificate-link = Vis nettstedets sertifikat
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
 
 ## Messages used for certificate error titles
 
