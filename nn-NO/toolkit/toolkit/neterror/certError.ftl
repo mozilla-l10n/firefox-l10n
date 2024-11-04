@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Sertifikatet er ikkje tiltrudd f
 cert-error-trust-expired-issuer = Sertifikatet er ikkje tiltrudd fordi utskrivarsertifikatet har gått ut på dato.
 cert-error-trust-self-signed = Sertifikatet er ikkje tiltrudd fordi det er sjølvsignert.
 cert-error-trust-symantec = Sertifikat er skrivne ut av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign er ikkje lenger sett på som trygge fordi desse sertifikatstyremaktene ikkje klarte å følgje tidlegare tryggingspraksis.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } stolar ikkje på { $hostname } fordi ho ikkje kunne bevise at ho oppfyller krava til offentleg sertifikatopenheit.
 cert-error-untrusted-default = Sertifikatet kjem ikkje frå ei tiltrudd kjelde.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -70,6 +73,8 @@ open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
 fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ikkje mykje. Det er sannsynleg at det er eit problem med sjølve nettstaden.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
