@@ -314,6 +314,7 @@ newtab-wallpaper-dark-sky = Түнгі аспаны бар қала пейзаж
 newtab-wallpaper-dark-mountain = Таулы пейзаж
 newtab-wallpaper-dark-city = Күлгін қала пейзажы
 newtab-wallpaper-dark-fox-anniversary = Орман жанындағы тротуардағы түлкі
+newtab-wallpaper-light-fox-anniversary = Тұманды тау пейзажы бар шөпті алқаптағы түлкі
 
 ## Solid Colors
 
