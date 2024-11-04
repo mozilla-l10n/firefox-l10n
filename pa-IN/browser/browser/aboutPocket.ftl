@@ -10,7 +10,7 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = ਟੈਗ ਨੂੰ ਜੋੜੋ
+    .placeholder = ਟੈਗਾਂ ਨੂੰ ਜੋੜੋ
 pocket-panel-saved-error-generic = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਸੀ।
 pocket-panel-saved-error-tag-length = ਟੈਗ 25 ਅੱਖਰਾਂ ਤੱਕ ਸੀਮਿਤ ਹਨ
 pocket-panel-saved-error-only-links = ਕੇਵਲ ਲਿੰਕਾਂ ਨੂੰ ਹੀ ਸੰਭਾਲਿਆ ਜਾ ਸਕਦਾ ਹੈ
@@ -29,7 +29,7 @@ pocket-panel-saved-saving-tags = …ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ �
 pocket-panel-saved-suggested-tags = ਸੁਝਾਏ ਗਏ ਟੈਗ
 pocket-panel-saved-tags-saved = ਟੈਗਾਂ ਨੂੰ ਜੋੜਿਆ
 # This is displayed above a field where the user can add tags
-pocket-panel-signup-add-tags = ਟੈਗ ਜੋੜੋ:
+pocket-panel-signup-add-tags = ਟੈਗ ਨੂੰ ਜੋੜੋ:
 
 ## about:pocket-signup panel
 
@@ -40,7 +40,7 @@ pocket-panel-signup-signup-email = ਈਮੇਲ ਨਾਲ ਸਾਈਨ ਅੱਪ
 pocket-panel-signup-signup-cta = { -pocket-brand-name } ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਇਹ ਮੁਫ਼ਤ ਹੈ।
 pocket-panel-signup-signup-firefox = { -brand-product-name } ਨਾਲ ਸਾਇਨ ਅੱਪ ਕਰੋ
 pocket-panel-signup-tagline = { -brand-product-name } ਤੋਂ ਲੇਖਾਂ ਅਤੇ ਵੀਡੀਓ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ ਤਾਂ ਕਿ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
-pocket-panel-signup-tagline-story-one = ਕਿਸੇ ਵੀ ਲੇਖ, ਵੀਡੀਓ ਜਾਂ ਸਫ਼ੇ ਨੂੰ { -brand-product-name } ਤੋਂ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name }ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
+pocket-panel-signup-tagline-story-one = ਕਿਸੇ ਵੀ ਲੇਖ, ਵੀਡੀਓ ਜਾਂ ਸਫ਼ੇ ਨੂੰ { -brand-product-name } ਤੋਂ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-signup-tagline-story-two = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ { -pocket-brand-name } ਵਿੱਚ ਦੇਖੋ।
 pocket-panel-signup-cta-a-fix = ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡਾ ਸੰਭਾਲੋ ਬਟਨ
 pocket-panel-signup-cta-b-updated = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕਾਂ ਨੂੰ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ। ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਸੰਭਾਲੇ ਨੂੰ ਵੇਖੋ।
@@ -66,6 +66,6 @@ pocket-panel-header-sign-in = ਸਾਈਨ ਇਨ
 
 ## Pocket panel buttons
 
-pocket-panel-button-show-all = ਸਭ ਵੇਖੋ
+pocket-panel-button-show-all = ਸਭ ਨੂੰ ਵੇਖਾਓ
 pocket-panel-button-activate = { -brand-product-name } ਵਿੱਚ { -pocket-brand-name } ਸਰਗਰਮ ਕਰੋ
 pocket-panel-button-remove = ਹਟਾਓ

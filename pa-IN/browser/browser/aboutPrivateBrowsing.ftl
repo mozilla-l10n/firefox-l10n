@@ -5,7 +5,7 @@
 privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = P
 about-private-browsing-search-placeholder = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
-about-private-browsing-info-title = ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡੋ ’ਚ ਹੋ
+about-private-browsing-info-title = ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ’ਚ ਹੋ
 about-private-browsing-search-btn =
     .title = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 # Variables
@@ -18,7 +18,7 @@ about-private-browsing-handoff-no-engine =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine } ਨਾਲ ਖੋਜ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 about-private-browsing-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
-about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
+about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
 about-private-browsing-info-description-private-window = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ: ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ (anonymous) ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
 about-private-browsing-info-description-simplified = ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ (anonymous) ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
 about-private-browsing-learn-more-link = ਹੋਰ ਜਾਣੋ

@@ -242,8 +242,8 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] { $count } ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
-       *[other] ਸਾਰੇ { $count } ਲਾਗਇਨ ਹਟਾਉਣੇ ਹਨ?
+        [one] { $count } ਲਾਗਇਨ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਸਭ { $count } ਲਾਗਇਨਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
@@ -253,8 +253,8 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
-       *[other] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨ ਹਟਾਉਣੇ ਹਨ?
+        [one] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
@@ -266,13 +266,13 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
-       *[other] Yes, remove passwords
+       *[other] ਹਾਂ, ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
-        [one] { $count } ਪਾਸਵਰਡ ਹਟਾਉਣਾ ਹੈ?
-       *[other] ਸਾਰੇ { $count } ਪਾਸਵਰਡ ਹਟਾਉਣੇ ਹਨ?
+        [one] { $count } ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਸਾਰੇ { $count } ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
@@ -297,7 +297,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-confirm-export-dialog-title = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 about-logins-confirm-export-dialog-message = ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਪੜ੍ਹਨਯੋਗ ਲਿਖਤ ਵਜੋਂ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ (ਜਿਵੇਂ, BadP@ssw0rd), ਤਾਂ ਕਰਕੇ ਐਕਸਪੋਰਟ ਕੀਤੀ ਫਾਇਲ ਖੋਲ੍ਹ ਸਕਣ ਵਾਲਾ ਕੋਈ ਵੀ ਉਨ੍ਹਾਂ ਨੂੰ ਵੇਖ ਸਕਦਾ ਹੈ।
 about-logins-confirm-export-dialog-confirm-button = …ਐਕਸਪੋਰਟ ਕਰੋ
 about-logins-confirm-export-dialog-title2 = ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰਨ ਬਾਰੇ ਸੂਚਨਾ
@@ -313,7 +313,7 @@ confirm-discard-changes-dialog-confirm-button = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = ਵੈੱਬਸਾਈਟ ਦੀ ਉਲੰਘਣਾ
+about-logins-breach-alert-title = ਵੈੱਬਸਾਈਟ ਉਲੰਘਣਾ
 breach-alert-text = ਤੁਹਾਡੇ ਵਲੋਂ ਆਪਣੇ ਲਾਗਇਨ ਵੇਰਵਿਆਂ ਨੂੰ ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕਰਨ ਦੇ ਬਾਅਦ ਇਸ ਵੈੱਬਸਾਈਟ ਤੋਂ ਪਾਸਵਰਡ ਲੀਕ ਹੋ ਗਏ ਜਾਂ ਚੋਰੀ ਕੀਤੇ ਗਏ ਸਨ। ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ।
 about-logins-breach-alert-date = ਇਹ ਸੰਨ੍ਹ { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ਨੂੰ ਲੱਗੀ ਸੀ
 # Variables:
@@ -347,7 +347,7 @@ about-logins-export-file-picker-title = ਲਾਗਇਨ ਵਾਲੀ ਫਾਇ�
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = { -brand-short-name } ਤੋਂ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-export-file-picker-title2 = { -brand-short-name } ਤੋਂ ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
@@ -363,9 +363,9 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = ਲਾਗਇਨਾਂ ਵਾਲੀ ਫਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
+about-logins-import-file-picker-title = ਲਾਗਇਨਾਂ ਵਾਲੀ ਫਾਇਲ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
 # Title of the file picker dialog
-about-logins-import-file-picker-title2 = ਪਾਸਵਰਡ { -brand-short-name } ਵਿੱਚ ਇੰਪੋਰਟ ਕਰੋ
+about-logins-import-file-picker-title2 = ਪਾਸਵਰਡਾਂ ਨੂੰ { -brand-short-name } ਵਿੱਚ ਇੰਪੋਰਟ ਕਰੋ
 about-logins-import-file-picker-import-button = ਇੰਪੋਰਟ ਕਰੋ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -389,11 +389,11 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = ਇੰਪੋਰਟ ਮੁਕੰਮਲ ਹੋਇਆ
 about-logins-import-dialog-items-added =
     { $count ->
-       *[other] <span>ਨਵੇਂ ਲਾਗਇਨ ਜੋੜੇ ਗਏ:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ਜੋੜੇ ਗਏ ਨਵੇਂ ਲਾਗਇਨ:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-       *[other] <span>ਮੌਜੂਦਾ ਲਾਗਇਨ ਅੱਪਡੇਟ ਕੀਤੇ:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ਅੱਪਡੇਟ ਕੀਤੇ ਗਏ ਮੌਜੂਦਾ ਲਾਗਇਨ:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
@@ -401,7 +401,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
-       *[other] <span>ਨਵੇਂ ਪਾਸਵਰਡ ਜੋੜੇ ਗਏ</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ਜੋੜੇ ਗਏ ਨਵੇਂ ਪਾਸਵਰਡ:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
     { $count ->
@@ -415,12 +415,12 @@ about-logins-import-dialog-items-no-change2 =
     }
 about-logins-import-dialog-items-error =
     { $count ->
-       *[other] <span>ਗ਼ਲਤੀ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੇ)</span>
+       *[other] <span>ਗ਼ਲਤੀਆਂ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੇ)</span>
     }
 about-logins-import-dialog-done = ਮੁਕੰਮਲ
-about-logins-import-dialog-error-title = ਦਰਾਮਦ ਗ਼ਲਤੀ
+about-logins-import-dialog-error-title = ਇੰਪੋਰਟ ਗ਼ਲਤੀ
 about-logins-import-dialog-error-conflicting-values-title = ਇੱਕ ਲਾਗਇਨ ਲਈ ਕਈ ਆਪਾਂ-ਵਿਰੋਧੀ ਮੁੱਲ ਹਨ
-about-logins-import-dialog-error-conflicting-values-description = ਮਿਸਾਲ ਵਜੋਂ: ਇੱਕ ਲਾਗਇਨ ਲਈ ਕਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਵਰਤੋਂਕਾਰ, URL ਆਦਿ।
+about-logins-import-dialog-error-conflicting-values-description = ਮਿਸਾਲ ਵਜੋਂ: ਇੱਕ ਲਾਗਇਨ ਲਈ ਕਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ, URL ਆਦਿ।
 about-logins-import-dialog-error-file-format-title = ਫਾਇਲ ਫਾਰਮੈਟ ਦਾ ਮਸਲਾ
 about-logins-import-dialog-error-file-format-description = ਕਾਲਮ ਹੈੱਡਰ ਗ਼ਲਤ ਜਾਂ ਗੁੰਮ ਹਨ। ਪੱਕਾ ਕਰੋ ਕਿ ਫਾਇਲ ਵਿੱਚੋਂ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਅਤੇ URL ਲਈ ਕਾਲਮ ਹਨ।
 about-logins-import-dialog-error-file-permission-title = ਫਾਇਲ ਪੜ੍ਹਨ ਲਈ ਅਸਮਰੱਥ
@@ -491,4 +491,4 @@ about-logins-import-report-error =
 
 ## Logins import report page
 
-about-logins-import-report-page-title = ਸਾਰ ਰਿਪੋਰਟ ਦਰਾਮਦ ਕਰੋ
+about-logins-import-report-page-title = ਸਾਰ ਰਿਪੋਰਟ ਇੰਪੋਰਟ ਕਰੋ
