@@ -382,7 +382,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
 identity-connection-verified = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋ।
 identity-ev-owner-label = ਸਰਟੀਫਿਕੇਟ ਇਸ ਨੂੰ ਜਾਰੀ ਕੀਤਾ:
-identity-description-custom-root2 = ਮੌਜ਼ੀਲਾ ਇਸ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਨ ਵਾਲੇ ਨੂੰ ਪਛਾਣਦਾ ਨਹੀਂ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਜਾਂ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਜੋੜਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ।
+identity-description-custom-root2 = Mozilla ਇਸ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਨ ਵਾਲੇ ਨੂੰ ਪਛਾਣਦਾ ਨਹੀਂ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਜਾਂ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਜੋੜਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ।
 identity-remove-cert-exception =
     .label = ਛੋਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
@@ -443,15 +443,15 @@ browser-tab-unmute =
     }
 browser-tab-unblock =
     { $count ->
-        [1] ਟੈਬ ਚਲਾਓ
-       *[other] { $count } ਟੈਬਾਂ ਚਲਾਓ
+        [1] ਟੈਬ ਨੂੰ ਚਲਾਓ
+       *[other] { $count } ਟੈਬਾਂ ਨੂੰ ਚਲਾਓ
     }
 
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = …ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ
-    .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕ ਤੋਂ { -brand-short-name } ਲਈ ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ
+    .label = …ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
+    .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕ ਤੋਂ { -brand-short-name } ਲਈ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
 bookmarks-toolbar-empty-message =
     ਫ਼ੌਰੀ ਪਹੁੰਚ ਲਈ, ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਆਪਣੀ ਬੁੱਕਮਾਰਕ ਪੱਟੀ ਉੱਤੇ ਰੱਖੋ।
     <a data-l10n-name="manage-bookmarks">…ਬੁੱਕਮਾਰਕ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ</a>
@@ -546,7 +546,7 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = ਇਕਟੈਨਸ਼ਨ:
 urlbar-go-button =
-    .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ
+    .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਸਿਰਨਾਵੇਂ 'ਤੇ ਜਾਓ
 urlbar-page-action-button =
     .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
 urlbar-revert-button =
@@ -696,16 +696,16 @@ reader-view-enter-button =
     .aria-label = ਪੜ੍ਹਨ ਝਲਕ ਖੋਲ੍ਹੋ
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = ਪੜ੍ਹਨ ਝਲਕ ਬੰਦ ਕਰੋ
+    .aria-label = ਪੜ੍ਹਨ ਝਲਕ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ## Picture-in-Picture urlbar button
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਖੋਲ੍ਹੋ ({ $shortcut })
+    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬੰਦ ਕਰੋ ({ $shortcut })
+    .tooltiptext = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
 picture-in-picture-panel-header = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
 picture-in-picture-panel-headline = ਇਹ ਵੈੱਬਸਾਈਟ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕਰਦੀ ਹੈ
 picture-in-picture-panel-body = ਵੀਡੀਓ ਡਿਵੈਲਪਰ ਵਲੋਂ ਦਿੱਤੇ ਢੰਗ ਨਾਲ ਨਾ ਦਿਖਾਈ ਦੇਵੇ ਜਦੋਂ ਵੀ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਢੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਦੇ ਹੋ।
@@ -731,8 +731,8 @@ pointerlock-warning-no-domain = ਇਹ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੇ 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = ਬੁੱਕਮਾਰਕਾਂ ਇੰਤਜ਼ਾਮ
-bookmarks-recent-bookmarks-panel-subheader = ਹਾਲੀਆ ਬੁੱਕਮਾਰਕ
+    .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+bookmarks-recent-bookmarks-panel-subheader = ਸੱਜਰੇ ਬੁੱਕਮਾਰਕ
 bookmarks-toolbar-chevron =
     .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 bookmarks-sidebar-content =
@@ -751,20 +751,20 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਓਹਲੇ ਕਰੋ
-           *[other] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ
+            [true] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
+           *[other] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਨੂੰ ਵੇਖੋ
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਓਹਲੇ ਕਰੋ
-           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ
+            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਓਹਲੇ ਕਰੋ
+           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਵੇਖੋ
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਲੁਕਾਓ
-           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖਾਓ
+            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਲੁਕਾਓ
+           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਵੇਖਾਓ
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -803,7 +803,7 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = ਬੁੱਕਮਾਰਕ
 library-recent-activity-title =
-    .value = ਹਾਲੀਆ ਸਰਗਰਮੀ
+    .value = ਸੱਜਰੀ ਸਰਗਰਮੀ
 
 ## Pocket toolbar button
 
