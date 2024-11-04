@@ -19,6 +19,7 @@ edit-profile-page-explore-themes = Ehapykueho hetave téma
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Mboguete
+edit-profile-page-duplicate-name = Pe mba’ete réra ojeporúma. Eheka téra pyahu.
 edit-profile-page-profile-saved = Ñongatupyre
 new-profile-page-title = Mba’ete pyahu
 new-profile-page-header = Emboava pe mba’ete pyahu
@@ -42,6 +43,8 @@ delete-profile-windows = Ovetã ijurujáva
 delete-profile-tabs = Tendayke ijurujáva
 # Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Techaukahakuéra
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Tembiasakue (kuatiarogue eikehague, kookie, tenda mba’ekuaarã)
 # Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Ñe’ẽñemikuéra
 # Button label
