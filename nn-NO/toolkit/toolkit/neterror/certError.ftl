@@ -68,6 +68,11 @@ open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
+fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
+fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Feilkode: { $error }
 
 ## Messages used for certificate error titles
 
@@ -109,3 +114,10 @@ networkProtocolError-title = Nettverksprotokollfeil
 nssBadCert-title = Åtvaring: Potensiell sikkerheitsrisiko framom her
 nssBadCert-sts-title = Kopla ikkje til: Potensielt tryggingsproblem
 certerror-mitm-title = Programvara hindrar { -brand-short-name } frå trygg tilkopling til denne nettstaden
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
