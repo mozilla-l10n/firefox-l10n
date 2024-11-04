@@ -75,6 +75,15 @@ fp-certerror-view-certificate-link = Vis nettstedets sertifikat
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Feilkode: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Les mer om feil med sikker tilkobling
+fp-learn-more-about-cert-issues = Les mer om slike sertifikatproblemer
+fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrelaterte feil
 
 ## Messages used for certificate error titles
 
@@ -119,6 +128,9 @@ certerror-mitm-title = Programvare hindrer { -brand-short-name } fra sikker tilk
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Advarsel: Sikkerhetsrisiko
+fp-certerror-body-title = Vær forsiktig. Noe ser ikke riktig ut.
+fp-certerror-why-site-dangerous = Hva får siden til å se farlig ut?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
