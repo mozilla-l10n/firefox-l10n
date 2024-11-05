@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue } % abgeschlossen
 firefoxview-tabpickup-step-signin-header = Nahtlos zwischen Geräten wechseln
 firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier abzurufen, melden Sie sich zuerst an oder erstellen Sie ein Konto.
 firefoxview-tabpickup-step-signin-primarybutton = Weiter
+firefoxview-syncedtabs-signin-header-2 = Ihr { -brand-product-name } auf all Ihren Geräten
+firefoxview-syncedtabs-signin-description-2 = Melden Sie sich an oder erstellen Sie ein Konto, um Tabs zu sehen, die Sie auf Ihrem Telefon und anderen Geräten geöffnet haben. Mit einem Konto können Sie auch Ihre Passwörter, Chronik und mehr synchronisieren.
+firefoxview-syncedtabs-signin-primarybutton-2 = Anmelden
 firefoxview-syncedtabs-signin-header = Holen Sie sich Tabs von überall
 firefoxview-syncedtabs-signin-description = Um Ihre Tabs von überall anzuzeigen, wo Sie { -brand-product-name } verwenden, melden Sie sich bei Ihrem Konto an. Wenn Sie kein Konto haben, führen wir Sie durch die Schritte zur Registrierung.
 firefoxview-syncedtabs-signin-primarybutton = Anmelden oder registrieren
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-na
 firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
 firefoxview-tabpickup-adddevice-learn-how = So wird's gemacht
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte holen
+firefoxview-syncedtabs-adddevice-header-2 = Holen Sie sich Tabs von überall
+firefoxview-syncedtabs-adddevice-description-2 = Melden Sie sich bei { -brand-product-name } auf Ihrem Handy oder einem anderen Computer an, um hier Tabs anzuzeigen. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-header = Melden Sie sich auf Ihren anderen Geräten bei { -brand-product-name } an
 firefoxview-syncedtabs-adddevice-description = Um Ihre Tabs von überall anzuzeigen, wo Sie { -brand-product-name } verwenden, melden Sie sich auf all Ihren Geräten an. Erfahren Sie, wie Sie <a data-l10n-name="url">zusätzliche Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte ausprobieren
@@ -228,6 +233,8 @@ firefoxview-choose-browser-button = Browser wählen
 firefoxview-dont-remember-history-empty-header = Nichts zum Anzeigen
 firefoxview-dont-remember-history-empty-description = Der Schutz Ihrer Privatsphäre ist das Herzstück dessen, was wir tun. Deshalb können Sie anpassen, welche Aktivitäten { -brand-short-name } sich merkt.
 firefoxview-dont-remember-history-empty-description-two = Basierend auf Ihren aktuellen Einstellungen speichert { -brand-short-name } Ihre Aktivitäten nicht während des Surfens. Um das zu ändern, ändern Sie <a data-l10n-name="history-settings-url-two">Ihre Chronik-Einstellungen, um Ihre Chronik zu speichern</a>.
+firefoxview-dont-remember-history-empty-header-2 = Sie haben die Kontrolle darüber, was { -brand-short-name } speichert
+firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } kann im Moment Ihre Surf-Aktivitäten nicht speichern. Um dies zu ändern, <a data-l10n-name="history-settings-url-two">aktualisieren Sie Ihre Chronikeinstellungen</a>.
 
 ##
 

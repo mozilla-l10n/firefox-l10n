@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Aktionen für Seite
 urlbar-revert-button =
     .tooltiptext = Die Adresse in der Adressleiste anzeigen
-urlbar-show-page-actions-button =
-    .tooltiptext = Alle Aktionen für Seite anzeigen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,6 +618,29 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Mit { $engine } suchen
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Suchmaschine auswählen
+urlbar-searchmode-bookmarks =
+    .label = Lesezeichen
+urlbar-searchmode-tabs =
+    .label = Tabs
+urlbar-searchmode-history =
+    .label = Chronik
+urlbar-searchmode-actions =
+    .label = Aktionen
+urlbar-searchmode-exit-button =
+    .tooltiptext = Schließen
+urlbar-searchmode-popup-description = Einmalig suchen mit:
+urlbar-searchmode-popup-search-settings = Sucheinstellungen
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, Suchmaschine auswählen
+    .tooltiptext = { $engine }, Suchmaschine auswählen
+urlbar-searchmode-button-no-engine =
+    .label = Keine Verknüpfung ausgewählt, wählen Sie eine Verknüpfung
+    .tooltiptext = Keine Verknüpfung ausgewählt, wählen Sie eine Verknüpfung
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -942,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = f
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privater Modus
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privater Modus
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Verhinderung vor Datenverlust (DLP) von { $agentName }. Klicken Sie hier, um weitere Informationen zu erhalten.
 content-analysis-panel-title = Datenschutz
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ihre Organisation verwendet <b>{ $agentName }</b> zum Schutz vor Datenverlust. <a data-l10n-name="info">Weitere Informationen</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Ihre Organisation verwendet { $agentName } zum Schutz vor Datenverlust. <a data-l10n-name="info">Weitere Informationen</a>
@@ -1015,6 +1042,7 @@ firefox-relay-offer-legal-notice = Indem Sie auf "E-Mail-Maske verwenden" klicke
 popup-notification-addon-install-unsigned =
     .value = (nicht verifiziert)
 popup-notification-xpinstall-prompt-learn-more = Weitere Informationen über das sichere Installieren von Add-ons
+popup-notification-xpinstall-prompt-block-url = Details ansehen
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = In privaten Fenstern ausführen

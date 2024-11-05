@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Diese Empfehlung nicht mehr anzeig
 split-dismiss-button-show-fewer-option-label = Weniger Empfehlungen anzeigen
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Einstellungen verwalten
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
+sidebar-button-callout-subtitle = Verwenden Sie die Sidebar-Schaltfläche, um die Sidebar einzuklappen, sodass Sie Tab-Titel sehen können.
