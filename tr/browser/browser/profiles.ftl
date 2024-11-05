@@ -12,18 +12,23 @@ profile-window-create-profile = Profil oluştur
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
 edit-profile-page-title = Profili düzenle
+edit-profile-page-header = Profilinizi düzenleyin
 edit-profile-page-profile-name-label = Profil adı
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Daha fazla tema keşfedin
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Sil
+edit-profile-page-no-name = Daha sonra bulmanıza yardımcı olması için bu profile bir ad verin. Daha sonra adını değiştirebilirsiniz.
+edit-profile-page-duplicate-name = Bu profil adı zaten kullanılıyor. Yeni bir ad deneyin.
 edit-profile-page-profile-saved = Kaydedildi
 new-profile-page-title = Yeni profil
 new-profile-page-header = Yeni profilinizi özelleştirin
 new-profile-page-learn-more = Daha fazla bilgi alın
 new-profile-page-input-placeholder =
     .placeholder = “İş” veya “Kişisel” gibi bir ad seçin
+new-profile-page-done-button =
+    .label = Düzenlemeyi bitir
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
@@ -33,6 +38,7 @@ delete-profile-page-title = { $profilename } profilini sil
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } profili silinsin mi?
+delete-profile-description = { -brand-short-name } bu cihazdan aşağıdaki verileri kalıcı olarak silecek:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Açık pencereler
 # Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.

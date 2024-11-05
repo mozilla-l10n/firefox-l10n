@@ -38,3 +38,8 @@ fxa-menu-sync-description = Web’inize her yerden erişin
 sync-setup-verify-continue = İleri
 sync-setup-verify-title = Birleştirme Uyarısı
 sync-setup-verify-heading = Eşitleme için giriş yapmak istediğinizden emin misiniz?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Bu bilgisayarda farklı bir kullanıcı daha önce giriş yaparak eşitleme yaptı. Giriş yaparsanız bu tarayıcının yer imleri, parolaları ve diğer ayarları { $email } hesabıyla birleştirilecektir

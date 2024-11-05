@@ -312,4 +312,5 @@ fxa-menu-message-backup-data-collapsed-text = Tarayıcı verilerinizi yedekleyin
 fxa-menu-message-backup-sync-primary-text = Verilerinizi güvende ve eşitlenmiş tutun
 fxa-menu-message-backup-sync-collapsed-text = Verileri eşitleyip yedekleyin
 fxa-menu-message-mobile-primary-text = Sekmeleri telefonunuza gönderin
+fxa-menu-message-mobile-secondary-text = Sekmelerinizi mobil cihazınızla eşitleyerek kaldığınız yerden devam edin.
 fxa-menu-message-mobile-collapsed-text = Telefonunuzla eşitleyin
