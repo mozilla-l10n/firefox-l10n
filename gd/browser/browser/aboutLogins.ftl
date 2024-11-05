@@ -181,6 +181,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Airson an clàradh a-steach
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] atharraich roghainnean nam faclan-faire
+       *[other] Tha { -brand-short-name } a’ feuchainn ri roghainnean nam faclan-faire atharrachadh. Cleachd clàradh a-steach an uidheim agad airson seo a cheadachadh.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Airson am facal-faire agad a dheasachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to edit a login in about:logins
