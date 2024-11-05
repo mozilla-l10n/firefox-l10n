@@ -35,3 +35,4 @@ fxa-menu-sign-out =
     .label = Abmelden…
 fxa-menu-sync-title = Synchronisieren
 fxa-menu-sync-description = Greifen Sie von überall aus auf Ihr Web zu
+sync-setup-verify-continue = Weiter

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = KI-Chatbot
 menu-view-review-checker =
     .label = Review Checker
+sidebar-options-menu-button =
+    .title = Menü öffnen
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Sidebar aus- und einklappen
 sidebar-visibility-setting-hide-sidebar =
     .label = Sidebar anzeigen und ausblenden
-sidebar-customize-settings-header =
-    .label = Sidebar-Einstellungen
-sidebar-visibility-always-show =
-    .label = Immer anzeigen
-sidebar-visibility-hide-sidebar =
-    .label = Sidebar ausblenden
 
 ## Labels for sidebar context menu items
 
