@@ -25,13 +25,14 @@ scale =
     .accesskey = S
 scale-percent =
     .value = %
+# shrink-to-fit (^^; 長い表現禁止
 shrink-to-fit =
     .label = 用紙に合わせて縮小
     .accesskey = W
 options-group-label =
     .value = オプション
 print-bg =
-    .label = 背景色と背景画像もプリント
+    .label = 背景カラーと背景画像もプリント
     .accesskey = B
 margin-group-label-inches =
     .value = 余白 (インチ)

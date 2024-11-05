@@ -25,6 +25,7 @@ scale =
     .accesskey = S
 scale-percent =
     .value = %
+# shrink-to-fit (^^; 長い表現禁止
 shrink-to-fit =
     .label = 用紙に合わせて縮小
     .accesskey = W
