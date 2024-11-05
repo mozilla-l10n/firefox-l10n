@@ -550,8 +550,6 @@ urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
     .tooltiptext = Asebter n tigawin
-urlbar-show-page-actions-button =
-    .tooltiptext = Sken meṛṛa tigawin n usebter
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -621,6 +619,18 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Nadi { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Nadi s { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Ticraḍ n isebtar
+urlbar-searchmode-tabs =
+    .label = Tibzimin
+urlbar-searchmode-history =
+    .label = Azray
+urlbar-searchmode-actions =
+    .label = Tigawin
+urlbar-searchmode-exit-button =
+    .tooltiptext = Mdel
+urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
+urlbar-searchmode-popup-search-settings = Iɣewwaren n unadi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -941,6 +951,9 @@ data-reporting-notification-button =
     .accesskey = F
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Tunigin tusligt
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Tunigin tusligt
 content-analysis-panel-title = Ammesten n ysefka
 
 ## Unified extensions (toolbar) button
