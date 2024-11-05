@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } – вибір профілю користувача
 profile-window-heading = Виберіть профіль { -brand-short-name }
+profile-window-body = Відокремте робочий та особистий простір, зокрема паролі й закладки. Або створіть профілі для всіх, хто використовує цей пристрій.
 # This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Показувати це вікно під час відкриття { -brand-short-name }
@@ -10,12 +12,16 @@ profile-window-create-profile = Створити профіль
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профіль { $number }
+edit-profile-page-title = Редагувати профіль
+edit-profile-page-header = Редагувати свій профіль
 edit-profile-page-profile-name-label = Назва профілю
 edit-profile-page-theme-header = Тема
 edit-profile-page-explore-themes = Знайти інші теми
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Видалити
+edit-profile-page-no-name = Назвіть цей профіль, щоб потім його було легше знайти. Змінити назву можна будь-коли.
+edit-profile-page-duplicate-name = Назва профілю вже використовується. Спробуйте іншу.
 edit-profile-page-profile-saved = Збережено
 new-profile-page-title = Новий профіль
 new-profile-page-header = Налаштуйте свій новий профіль

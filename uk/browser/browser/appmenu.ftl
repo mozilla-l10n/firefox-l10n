@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = Увімкнути
 appmenuitem-save-page =
     .label = Зберегти як…
 appmenuitem-fxa-sync-off-title = Синхронізацію вимкнено
+appmenuitem-fxa-sync-off-description = Захистіть та отримуйте доступ до своїх закладок, паролів та інших даних звідусіль.
 
 ## What's New panel in App menu.
 
