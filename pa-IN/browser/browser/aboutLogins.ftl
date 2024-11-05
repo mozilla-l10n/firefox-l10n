@@ -23,11 +23,11 @@ fxaccounts-avatar-button =
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਰਾਮਦ ਕਰੋ
 about-logins-menu-menuitem-import-from-a-file = …ਤੋਂ ਫ਼ਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
-about-logins-menu-menuitem-export-logins = …ਲਾਗਇਨ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-menu-menuitem-export-logins = …ਲਾਗਇਨ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 about-logins-menu-menuitem-remove-all-logins = …ਸਾਰੇ ਲਾਗਇਨਾਂ ਨੂੰ ਹਟਾਓ
 about-logins-menu-menuitem-export-logins2 = …ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 about-logins-menu-menuitem-remove-all-logins2 = …ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
@@ -91,10 +91,10 @@ login-list-item-subtitle-new-login = ਆਪਣੀ ਲਾਗਇਨ ਸਨਦ ਦ�
 login-list-item-title-new-login2 = ਪਾਸਵਰਡ ਜੋੜੋ
 login-list-item-subtitle-missing-username = (ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ)
 about-logins-list-item-breach-icon =
-    .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
+    .title = ਸੰਨ੍ਹ ਲੱਗਣ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
 about-logins-list-item-vulnerable-password-icon =
     .title = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
-about-logins-list-section-breach = ਉਲੰਘਣ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟ
+about-logins-list-section-breach = ਸੰਨ੍ਹ ਲੱਗਣ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ
 about-logins-list-section-vulnerable = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
 about-logins-list-section-nothing = ਕੋਈ ਚੌਕਸੀ ਨਹੀਂ
 about-logins-list-section-today = ਅੱਜ
@@ -110,7 +110,7 @@ login-intro-instructions-fxa = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾ�
 about-logins-login-intro-heading-message = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਸੰਭਾਲੋ
 login-intro-description2 = ਤੁਹਾਡੇ ਵਲੋਂ { -brand-product-name } ਵਿੱਚ ਸੰਭਾਲੇ ਸਾਰੇ ਪਾਸਵਰਡ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਇਸ ਦੇ ਨਾਲ ਹੀ ਅਸੀਂ ਸੰਨ੍ਹਮਾਰੀ ਦਾ ਧਿਆਨ ਵੀ ਰੱਖਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਡੇ ਪ੍ਰਭਾਵਿਤ ਹੋਣ ਉੱਤੇ ਸਾਵਧਾਨ ਕਰਦੇ ਹਾਂ। <a data-l10n-name="breach-alert-link">ਹੋਰ ਜਾਣੋ</a>
 login-intro-instructions-fxa2 = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹੋਏ ਹਨ, ਉੱਤੇ ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ।
-login-intro-instructions-fxa-settings = ਸੈਟਿੰਗਾਂ > ਸਿੰਕ > …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ, ਵਿੱਚ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਚੋਣ ਬਾਕਸੇ ਨੂੰ ਚੁਣੋ।
+login-intro-instructions-fxa-settings = ਸੈਟਿੰਗਾਂ > ਸਿੰਕ > …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ, ਵਿੱਚ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਚੋਣ-ਬਕਸੇ ਨੂੰ ਚੁਣੋ।
 login-intro-instructions-fxa-passwords-help = ਹੋਰ ਮਦਦ ਲਈ <a data-l10n-name="passwords-help-link">ਪਾਸਵਰਡ ਮਦਦ</a> ਨੂੰ ਵੇਖੋ।
 about-logins-intro-browser-only-import = ਜੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਹੋਰ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਸੰਭਾਲੇ ਹਨ ਤਾਂ ਤੁਸੀਂ <a data-l10n-name="import-link">ਉਹਨਾਂ ਨੂੰ { -brand-product-name } ਵਿੱਚ ਲਿਆ</a> ਸਕਦੇ ਹੋ।
 about-logins-intro-import2 = ਜੇ ਤੁਹਾਡੇ ਲਾਗ-ਇਨ { -brand-product-name } ਤੋਂ ਅਲੱਗ ਸੰਭਾਲੇ ਗਏ ਹਨ ਤਾਂ ਤੁਸੀਂ <a data-l10n-name="import-browser-link">ਹੋਰ ਬਰਾਊਜ਼ਰ</a> ਜਾਂ <a data-l10n-name="import-file-link">ਫ਼ਾਈਲ</a> ਤੋਂ ਇੰਪੋਰਟ ਕਰ ਸਕਦੇ ਹੋ।
@@ -120,7 +120,7 @@ about-logins-intro-import3 = ਹੁਣੇ ਨਵਾਂ ਪਾਸਵਰਡ ਜੋ
 
 login-item-new-login-title = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 # Header for adding a password
-about-logins-login-item-new-login-title = ਪਾਸਵਰਡ ਜੋੜੋ
+about-logins-login-item-new-login-title = ਪਾਸਵਰਡ ਨੂੰ ਜੋੜੋ
 login-item-edit-button = ਸੋਧੋ
 about-logins-login-item-remove-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
@@ -199,7 +199,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ �
 about-logins-export-password-os-auth-dialog-message-win = ਆਪਣੇ ਲਾਗਇਨ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰਨ ਲਈ ਆਪਣੀ Windows ਸਨਦ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-export-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = ਆਪਣੇ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰਨ ਲਈ ਆਪਣੀਆਂ Windows ਸਨਦਾਂ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 # This message can be seen when attempting to export a password in about:logins
@@ -218,7 +218,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ਰੱਦ ਕਰੋ
 confirmation-dialog-dismiss-button =
     .title = ਰੱਦ ਕਰੋ
-about-logins-confirm-remove-dialog-title = ਇਹ ਲਾਗਇਨ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+about-logins-confirm-remove-dialog-title = ਇਸ ਲਾਗਇਨ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
@@ -254,7 +254,7 @@ about-logins-confirm-remove-all-dialog-message =
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
-       *[other] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ { $count } ਲਾਗਇਨਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਸਾਰੇ ਡਿਵਾਈਸ ਤੋਂ ਸਾਰੇ { $count } ਲਾਗਇਨਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
@@ -313,7 +313,7 @@ confirm-discard-changes-dialog-confirm-button = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = ਵੈੱਬਸਾਈਟ ਉਲੰਘਣਾ
+about-logins-breach-alert-title = ਵੈੱਬਸਾਈਟ ਸੰਨ੍ਹਮਾਰੀ
 breach-alert-text = ਤੁਹਾਡੇ ਵਲੋਂ ਆਪਣੇ ਲਾਗਇਨ ਵੇਰਵਿਆਂ ਨੂੰ ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕਰਨ ਦੇ ਬਾਅਦ ਇਸ ਵੈੱਬਸਾਈਟ ਤੋਂ ਪਾਸਵਰਡ ਲੀਕ ਹੋ ਗਏ ਜਾਂ ਚੋਰੀ ਕੀਤੇ ਗਏ ਸਨ। ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ।
 about-logins-breach-alert-date = ਇਹ ਸੰਨ੍ਹ { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ਨੂੰ ਲੱਗੀ ਸੀ
 # Variables:
