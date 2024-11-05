@@ -36,3 +36,5 @@ fxa-menu-sign-out =
     .label = Вийти…
 fxa-menu-sync-title = Синхронізувати
 fxa-menu-sync-description = Отримуйте доступ до інтернету будь-де
+sync-setup-verify-continue = Продовжити
+sync-setup-verify-heading = Ви дійсно хочете ввійти в синхронізацію?

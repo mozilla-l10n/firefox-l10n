@@ -59,3 +59,7 @@ split-dismiss-button-dont-show-option-label = Більше не показува
 split-dismiss-button-show-fewer-option-label = Показувати менше рекомендацій
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Керувати налаштуваннями
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Показувати заголовки вкладок на бічній панелі
