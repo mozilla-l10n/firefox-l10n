@@ -247,6 +247,8 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Planen Sie die Ansc
 device-migration-fxa-spotlight-getting-new-device-body-2 = Befolgen Sie nur wenige einfache Schritte, um Ihre Lesezeichen, Chronik und Passwörter bei den ersten Schritten auf einem neuen Gerät mitzunehmen.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Wie die Datensicherung funktioniert
 device-migration-fxa-spotlight-sync-header = Surfen Sie, ohne etwas zu verpassen
+device-migration-fxa-spotlight-sync-body = Synchronisieren Sie alle Ihre wichtigen Daten mit Verschlüsselung – wie Lesezeichen und Passwörter. Sie können alles dort abrufen, wo Sie { -brand-product-name } verwenden.
+device-migration-fxa-spotlight-sync-primary-button = Erste Schritte
 
 ## Set as Default PDF Reader Infobar
 
@@ -298,3 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Schließen
+    .aria-label = Schließen
+fxa-menu-message-sign-up-button = Registrieren
