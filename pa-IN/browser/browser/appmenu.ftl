@@ -48,10 +48,10 @@ appmenuitem-exit2 =
            *[other] ਬਾਹਰ
         }
 appmenu-menu-button-closed2 =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
     .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
     .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
