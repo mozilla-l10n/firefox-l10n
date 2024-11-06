@@ -387,5 +387,5 @@ main-context-menu-open-link-in-container-tab =
     .label = ਲਿੰਕ ਨਵੀੰ { $containerName } ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = T
 main-context-menu-reveal-password =
-    .label = ਪਾਸਵਰਡ ਦਿਖਾਓ
+    .label = ਪਾਸਵਰਡ ਨੂੰ ਦਿਖਾਓ
     .accesskey = v
