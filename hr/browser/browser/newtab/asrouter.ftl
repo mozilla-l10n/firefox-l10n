@@ -141,7 +141,7 @@ spotlight-peace-mind-header = Sve što trebaš
 spotlight-peace-mind-body = Svaki mjesec { -brand-short-name } blokira u prosjeku više od 3000 sustava za praćenje po korisniku, jer ništa – a posebno problematika privatnosti zbog sustava za praćenje – ne bi smjeli stajati između tebe i dobrog interneta.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Zadrži u Doku
+        [macos] Dodaj u Dock
        *[other] Prikvači na programsku traku
     }
 spotlight-pin-secondary-button = Ne sada
@@ -285,3 +285,9 @@ tail-fox-spotlight-title = Onemogući dosadne sustave za praćenje
 tail-fox-spotlight-subtitle = Reci zbogom dosadnim oglasima za praćenje i uživaj u sigurnijem i bržem internetskom iskustvu.
 tail-fox-spotlight-primary-button = Koristi { -brand-short-name } za otvaranje mojih poveznica
 tail-fox-spotlight-secondary-button = Ne sada
+
+## Root Certificate Succession Infobar
+
+
+## FxA Menu Message variants
+

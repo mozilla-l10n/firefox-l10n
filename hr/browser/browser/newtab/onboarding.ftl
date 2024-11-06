@@ -154,7 +154,7 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = To je naše 100. izdanje! Hvala što nam pomažeš izgraditi bolji i zdraviji internet.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Ostavi { -brand-short-name } u Docku
+        [macos] Dodaj { -brand-short-name } u Dock
        *[other] Prikvači { -brand-short-name } na programsku traku
     }
 fx100-upgrade-thanks-header = 100 puta hvala
@@ -186,7 +186,7 @@ mr2022-onboarding-welcome-pin-subtitle = Pokreni { -brand-short-name } s bilo ko
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Ostavi { -brand-short-name } u Docku
+        [macos] Dodaj { -brand-short-name } u Dock
        *[other] Prikvači { -brand-short-name } na programsku traku
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
@@ -376,3 +376,6 @@ onboarding-new-user-survey-familiarity-based-option-1 = Ja sam potpuno novi kori
 onboarding-new-user-survey-familiarity-based-option-2 = Koristio sam ga par puta
 onboarding-new-user-survey-familiarity-based-option-3 = Poznam ga vrlo dobro
 onboarding-new-user-survey-familiarity-based-option-4 = Koristio/la sam ga u prošlosti, ali je prošlo dosta vremena
+
+## UI strings for the sidebar and vertical tabs
+

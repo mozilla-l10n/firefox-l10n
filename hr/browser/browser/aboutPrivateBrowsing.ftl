@@ -56,7 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = Sloboda privatnog pregledavanja jednim pritiskom
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Zadrži u Doku
+        [macos] Dodaj u Dock
        *[other] Prikvači na programsku traku
     }
 about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijesti, izravno s tvoje radne površine. Pregledavaj kao da nitko ne gleda.
