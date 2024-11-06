@@ -143,4 +143,6 @@ addon-local-install-error-not-signed = Cha b’ urrainn dhuinn an tuilleadan seo
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s nach eil e co-chòrdail le { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
 addon-install-error-blocklisted = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s bheil cunnart mòr gun adhbharaich e duilgheadasan seasmhachd no tèarainteachd.
+addon-install-error-soft-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
