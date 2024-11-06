@@ -75,8 +75,8 @@ appmenu-remote-tabs-showmore =
     .tooltiptext = Visualizza altre schede da questo dispositivo
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
-  .label = Schede inattive
-  .tooltiptext = Visualizza le schede inattive su questo dispositivo
+    .label = Schede inattive
+    .tooltiptext = Visualizza le schede inattive su questo dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nessuna scheda aperta
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -107,7 +107,6 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Attiva
 appmenuitem-save-page =
     .label = Salva pagina con nome…
-
 appmenuitem-fxa-sync-off-title = La sincronizzazione è disattivata
 appmenuitem-fxa-sync-off-description = Proteggi e accedi ai tuoi segnalibri, password e altri dati ovunque ti trovi.
 
@@ -196,11 +195,9 @@ profiler-popup-presets-power-description = Preset per la diagnosi di problemi re
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
-
 profiler-popup-presets-debug-description = Preset per il debug di { -brand-shorter-name }. Overhead elevato, non utilizzare per analisi delle prestazioni ma solo per comprendere il comportamento del browser.
 profiler-popup-presets-debug-label =
-  .label = Debug
-
+    .label = Debug
 profiler-popup-presets-custom-label =
     .label = Personalizzato
 
@@ -287,7 +284,7 @@ appmenuitem-vpn-description = Proteggi la tua attività online
 appmenu-profiles = Profili
 appmenu-other-profiles = Altri profili
 appmenu-manage-profiles =
-    .label = Gestisci i profili
+    .label = Gestisci profili
 appmenu-create-profile =
     .label = Nuovo profilo
 appmenu-edit-profile =

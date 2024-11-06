@@ -5,6 +5,7 @@
 profile-window-title = { -brand-short-name } — Scelta del profilo utente
 profile-window-heading = Scegli un profilo di { -brand-short-name }
 profile-window-body = Mantieni separate le attività lavorative da quelle personali durante la navigazione, inclusi dettagli come password e segnalibri. Puoi anche creare un profilo per ogni persona che utilizza questo dispositivo.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Mostra all’apertura di { -brand-short-name }
 profile-window-create-profile = Crea un profilo
@@ -16,7 +17,7 @@ edit-profile-page-header = Modifica il tuo profilo
 edit-profile-page-profile-name-label = Nome del profilo
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Esplora altri temi
-edit-profile-page-avatar-header = Avatar
+edit-profile-page-avatar-header = Icona
 edit-profile-page-delete-button =
     .label = Elimina
 edit-profile-page-no-name = Assegna un nome a questo profilo per trovarlo più facilmente in seguito. Puoi rinominarlo in qualsiasi momento.
@@ -30,6 +31,9 @@ new-profile-page-input-placeholder =
     .placeholder = Scegli un nome come “Lavoro” o “Personale”
 new-profile-page-done-button =
     .label = Modifica completata
+
+## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title = Elimina il profilo “{ $profilename }”
@@ -37,12 +41,15 @@ delete-profile-page-title = Elimina il profilo “{ $profilename }”
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Eliminare il profilo “{ $profilename }”?
 delete-profile-description = { -brand-short-name } eliminerà definitivamente i seguenti dati da questo dispositivo:
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Finestre aperte
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Schede aperte
 delete-profile-bookmarks = Segnalibri
 delete-profile-history = Cronologia (pagine visitate, cookie, dati dei siti web)
 delete-profile-autofill = Dati per la compilazione automatica di moduli (indirizzi, metodi di pagamento)
 delete-profile-logins = Password
-# Button labels
+# Button label
 delete-profile-cancel = Annulla
+# Button label
 delete-profile-confirm = Elimina
