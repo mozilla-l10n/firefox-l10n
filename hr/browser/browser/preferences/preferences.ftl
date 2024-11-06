@@ -412,17 +412,17 @@ update-application-title = { -brand-short-name } ažuriranja
 update-application-description = Aktualiziraj { -brand-short-name } za najbolju performancu, stabilnost i sigurnost.
 # Variables:
 # $version (string) - Firefox version
-update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
+update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest nadogradnji …
     .accesskey = P
 update-application-allow-description = Dozvoli { -brand-short-name }u da
 update-application-auto =
-    .label = Automatski instaliraj nove inačice (preporučeno)
+    .label = Automatski instaliraj nove verzije (preporučeno)
     .accesskey = A
 update-application-check-choose =
-    .label = Provjeri dostupnost novih inačica, ali pitaj prije instalacije
-    .accesskey = P
+    .label = Traži nove verzije, ali pita prije instaliranja
+    .accesskey = T
 update-application-manual =
     .label = Nikada ne provjeravaj dostupnost novih inačica (nije preporučeno)
     .accesskey = N

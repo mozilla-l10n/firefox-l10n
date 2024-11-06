@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Dostupna je nova inačica
+    .label = Dostupna je nova verzija
     .buttonlabel = Preuzmi
     .buttonaccesskey = P
     .secondarybuttonlabel = Odbaci
     .secondarybuttonaccesskey = O
 appmenu-update-available-message2 = Preuzmi najnoviju verziju { -brand-shorter-name(case: "gen") }.
 appmenu-update-manual2 =
-    .label = Dostupna je nova inačica
+    .label = Dostupna je nova verzija
     .buttonlabel = Preuzmi
     .buttonaccesskey = P
     .secondarybuttonlabel = Odbaci
