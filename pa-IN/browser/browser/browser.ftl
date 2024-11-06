@@ -283,7 +283,7 @@ quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
 quickactions-savepdf = ਸਫ਼ੇ ਨੂੰ PDF ਵਜੋਂ ਸੰਭਾਲੋ
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
-quickactions-private2 = ਨਿੱਜੀ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
+quickactions-private2 = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
@@ -778,7 +778,7 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = ਬੁੱਕਮਾਰਕ ਲੱਭੋ
 bookmarks-tools =
-    .label = ਬੁੱਕਮਾਰਕ ਬਣਾਉਣ ਵਾਲਾ ਟੂਲ
+    .label = ਬੁੱਕਮਾਰਕ ਬਣਾਉਣ ਵਾਲੇ ਟੂਲ
 bookmarks-subview-edit-bookmark =
     .label = …ਇਸ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 # The aria-label is a spoken label that should not include the word "toolbar" or
@@ -984,8 +984,8 @@ content-analysis-panel-text = ਤੁਹਾਡਾ ਸੰਗਠਨ { $agentName } 
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
-    .label = ਇਕਟੈਨਸ਼ਨਾਂ
-    .tooltiptext = ਇਕਟੈਨਸ਼ਨਾਂ
+    .label = ਇਕਸਟੈਨਸ਼ਨਾਂ
+    .tooltiptext = ਇਕਸਟੈਨਸ਼ਨਾਂ
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
@@ -1008,9 +1008,9 @@ unified-extensions-button-quarantined =
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
-    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰੋ
-    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰੋ
-reset-pbm-panel-heading = ਤੁਹਾਡਾ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰਨਾ ਹੈ?
+    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
+reset-pbm-panel-heading = ਆਪਣੇ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰਨਾ ਹੈ?
 reset-pbm-panel-description = ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਬੰਦ ਕਰੋ ਅਤੇ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟਾ ਹਟਾ ਦਿਓ।
 reset-pbm-panel-always-ask-checkbox =
     .label = ਹਮੇਸ਼ਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
