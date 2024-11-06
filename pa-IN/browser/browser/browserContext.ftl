@@ -93,20 +93,20 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = …ਸਫ਼ਾ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .aria-label = …ਸਫ਼ਾ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = m
-    .tooltiptext = ਸਫ਼ਾ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .tooltiptext = ਸਫ਼ਾ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = …ਸਫ਼ਾ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
-    .label = …ਬੁੱਕਮਾਰਕ ਸੋਧੋ
+    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
@@ -115,15 +115,15 @@ main-context-menu-bookmark-page-with-shortcut =
     .accesskey = m
     .tooltiptext = ਸਫ਼ਾ ਬੁਕਮਾਰਕ ਕਰੋ({ $shortcut })
 main-context-menu-edit-bookmark =
-    .aria-label = …ਬੁੱਕਮਾਰਕ ਸੋਧੋ
+    .aria-label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
     .accesskey = m
-    .tooltiptext = ਬੁੱਕਮਾਰਕ ਸੋਧੋ
+    .tooltiptext = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .aria-label = …ਬੁੱਕਮਾਰਕ ਸੋਧੋ
+    .aria-label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
     .accesskey = m
-    .tooltiptext = ਬੁੱਕਮਾਰਕ ਸੋਧੋ ({ $shortcut })
+    .tooltiptext = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
 main-context-menu-open-link =
     .label = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
@@ -157,7 +157,7 @@ main-context-menu-copy-email =
     .label = ਈਮੇਲ ਐਡਰੈੱਸ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = E
 main-context-menu-copy-phone =
-    .label = ਫ਼ੋਨ ਨੰਬਰ ਕਾਪੀ ਕਰੋ
+    .label = ਫ਼ੋਨ ਨੰਬਰ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = o
 main-context-menu-copy-link-simple =
     .label = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
@@ -210,10 +210,10 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = ਕੰਟਰੋਲ ਵੇਖੋ
+    .label = ਕੰਟਰੋਲਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = C
 main-context-menu-media-hide-controls =
-    .label = ਕੰਟਰੋਲ ਨੂੰ ਓਹਲੇ ਕਰੋ
+    .label = ਕੰਟਰੋਲਾਂ ਨੂੰ ਓਹਲੇ ਕਰੋ
     .accesskey = C
 
 ##
@@ -222,7 +222,7 @@ main-context-menu-media-video-fullscreen =
     .label = ਪੂਰੀ ਸਕਰੀਨ
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
-    .label = ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ
+    .label = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ
     .accesskey = u
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
@@ -338,7 +338,7 @@ main-context-menu-frame-reload =
     .label = ਫਰੇਮ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰੋ
     .accesskey = R
 main-context-menu-frame-add-bookmark =
-    .label = …ਫਰੇਮ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .label = …ਫਰੇਮ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = m
 main-context-menu-frame-save-as =
     .label = …ਫਰੇਮ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ

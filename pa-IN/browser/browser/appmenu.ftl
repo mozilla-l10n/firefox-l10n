@@ -75,7 +75,7 @@ appmenu-remote-tabs-turn-on-sync =
     .label = …ਸਿੰਕ ਚਾਲੂ ਕਰੋ
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
-    .label = ਹੋਰ ਟੈਬਾਂ ਵੇਖਾਓ
+    .label = ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਓ
     .tooltiptext = ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
@@ -148,7 +148,7 @@ profiler-popup-settings =
     .value = ਸੈਟਿੰਗਾਂ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
-    .label = …ਸੈਟਿੰਗਾਂ ਸੋਧੋ
+    .label = …ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ
 profiler-popup-recording-screen = ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 profiler-popup-start-recording-button =
     .label = ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ
