@@ -115,23 +115,23 @@ downloads-cmd-unblock =
     .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = ਫਾਈਲ ਨੂੰ ਹਟਾਓ
+    .tooltiptext = ਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ
 downloads-cmd-remove-file-panel =
-    .aria-label = ਫਾਈਲ ਨੂੰ ਹਟਾਓ
+    .aria-label = ਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = ਫਾਈਲ ਨੂੰ ਹਟਾਓ ਜਾਂ ਡਾਊਨਲੋਡ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ
+    .tooltiptext = ਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ ਜਾਂ ਡਾਊਨਲੋਡ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 downloads-cmd-choose-unblock-panel =
-    .aria-label = ਫਾਈਲ ਨੂੰ ਹਟਾਓ ਜਾਂ ਡਾਊਨਲੋਡ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ
+    .aria-label = ਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ ਜਾਂ ਡਾਊਨਲੋਡ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ
+    .tooltiptext = ਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ
 downloads-cmd-choose-open-panel =
-    .aria-label = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ
+    .aria-label = ਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
@@ -139,7 +139,7 @@ downloads-show-more-information =
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
-    .value = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
+    .value = ਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
@@ -190,8 +190,8 @@ downloads-details =
 
 downloads-files-not-downloaded =
     { $num ->
-        [one] ਫਾਇਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।
-       *[other] { $num } ਫਾਇਲਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।
+        [one] ਫ਼ਾਇਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।
+       *[other] { $num } ਫ਼ਾਇਲਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।
     }
 downloads-blocked-from-url = { $url } ਤੋਂ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ।
 downloads-blocked-download-detailed-info = { $url } ਨੇ ਆਪਣੇ-ਆਪ ਕਈ ਫਾਇਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ। ਸਾਈਟ ਜਾਂ ਤਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸਪੈਮ ਫਾਇਲਾਂ ਸਟੋਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੋ ਸਕਦੀ ਹੈ।

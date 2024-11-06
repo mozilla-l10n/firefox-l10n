@@ -33,9 +33,7 @@ bookmark-overlay-tags-2 =
     .value = ਟੈਗ
     .accesskey = T
 bookmark-overlay-tags-empty-description =
-    .placeholder =
-        ਟੈਗ ਕੌਮਿਆਂ
-        ਨਾਲ ਵੱਖ ਕਰੋ
+    .placeholder = ਟੈਗਾਂ ਨੂੰ ਕੌਮਿਆਂ ਨਾਲ ਵੱਖ ਕਰੋ
 bookmark-overlay-tags-expander =
     .tooltiptext = ਸਭ ਟੈਗ ਵੇਖੋ
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
