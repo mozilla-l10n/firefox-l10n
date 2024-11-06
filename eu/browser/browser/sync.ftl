@@ -36,4 +36,10 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Izan zure weberako sarbidea edonon
 sync-setup-verify-continue = Jarraitu
+sync-setup-verify-title = Elkartzeko abisua
 sync-setup-verify-heading = Ziur zaude sinkronizatzeko saioa hasi nahi duzula?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Beste erabiltzaile batek sinkronizatzeko saioa hasita zeukan ordenagailu honetan. Saioa hasiz gero, nabigatzaile honen laster-markak, pasahitzak eta bestelako ezarpenak { $email } kontuarekin elkartuko dira
