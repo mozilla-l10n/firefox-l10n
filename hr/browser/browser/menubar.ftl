@@ -307,7 +307,7 @@ menu-tools-layout-debugger =
 menu-window-menu =
     .label = Prozor
 menu-window-bring-all-to-front =
-    .label = Postavi sve na vrh
+    .label = Postavi sve naprijed
 
 ## Help Menu
 
