@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-processes-title = Upravitelj procesima
+about-processes-title = Upravljač procesa
 # The Actions column
 about-processes-column-action =
     .title = Radnje
