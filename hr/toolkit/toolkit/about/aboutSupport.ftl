@@ -13,7 +13,7 @@ support-addons-title = Dodaci
 support-addons-name = Ime
 support-addons-type = Vrsta
 support-addons-enabled = Aktivirano
-support-addons-version = Inačica
+support-addons-version = Verzija
 support-addons-id = ID
 legacy-user-stylesheets-enabled = Aktivno
 security-software-title = Sigurnosni softver
@@ -24,14 +24,14 @@ security-software-antispyware = Antispyware
 security-software-firewall = Vatrozid
 features-title = { -brand-short-name } funkcije
 features-name = Ime
-features-version = Inačica
+features-version = Verzija
 features-id = ID
 processes-title = Udaljeni procesi
 processes-type = Vrsta
 processes-count = Broj
 app-basics-title = Osnove aplikacije
 app-basics-name = Ime
-app-basics-version = Inačica
+app-basics-version = Verzija
 app-basics-build-id = Build ID
 app-basics-distribution-id = ID distribucije
 app-basics-update-channel = Kanal nadogradnje
@@ -114,7 +114,7 @@ a11y-activated = Aktivirano
 a11y-force-disabled = Sprečavanje pristupačnosti
 a11y-handler-used = Korišteni upravljač pristupačnosti
 a11y-instantiator = Pokretač pristupačnosti
-library-version-title = Inačice biblioteke
+library-version-title = Verzije biblioteka
 copy-text-to-clipboard-label = Kopiraj tekst u međuspremnik
 copy-raw-data-to-clipboard-label = Kopiraj neobrađene podatke u međuspremnik
 sandbox-title = Odvojeno pokretanje
@@ -236,9 +236,9 @@ text-copied = Tekst kopiran u međuspremnik
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Blokirano zbog inačice upravljačkog programa grafičke kartice.
+blocked-driver = Blokirano zbog verzije upravljačkog programa grafičke kartice.
 blocked-gfx-card = Blokirano za tvoju grafičku karticu zbog neriješenih problema s upravljačkim programom.
-blocked-os-version = Blokirano za inačicu vašeg operativnog sustava.
+blocked-os-version = Blokirano za verziju tvog operacijskog sustava.
 blocked-mismatched-version = Blokiran jer se inačice upravljačkog programa vaše grafičke kartice ne podudaraju u registru i DLL-u.
 # Variables
 # $driverVersion - The graphics driver version string
