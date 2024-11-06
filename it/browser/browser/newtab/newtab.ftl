@@ -8,6 +8,11 @@
 newtab-page-title = Nuova scheda
 newtab-settings-button =
     .title = Personalizza la pagina Nuova scheda
+newtab-personalize-settings-icon-label =
+    .title = Personalizza Nuova scheda
+    .aria-label = Impostazioni
+newtab-settings-dialog-label =
+    .aria-label = Impostazioni
 newtab-personalize-icon-label =
     .title = Personalizza Nuova scheda
     .aria-label = Personalizza Nuova scheda
@@ -22,12 +27,12 @@ newtab-logo-and-wordmark =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cerca con { $engine } o inserisci un indirizzo
 newtab-search-box-handoff-text-no-engine = Cerca o inserisci un indirizzo
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Cerca con { $engine } o inserisci un indirizzo
     .title = Cerca con { $engine } o inserisci un indirizzo
@@ -89,7 +94,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Rimuovi
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Apri menu
     .aria-label = Apri menu contestuale per { $title }
@@ -162,15 +167,18 @@ newtab-label-removed-bookmark = Segnalibro eliminato
 newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorizzata
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorizzata da { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -199,7 +207,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Siti principali
 newtab-section-header-recent-activity = Attività recente
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Consigliati da { $provider }
 newtab-section-header-stories = Storie che fanno riflettere
 # "picks" refers to recommended articles
@@ -210,8 +218,9 @@ newtab-section-header-todays-picks = I consigli di oggi per te
 newtab-empty-section-highlights = Inizia a navigare e, in questa sezione, verranno visualizzati articoli, video e altre pagine visitate di recente o aggiunte ai segnalibri.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Non c’è altro. Controlla più tardi per altre storie da { $provider }. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Non c’è altro. Controlla più tardi per altre storie. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -233,6 +242,7 @@ newtab-pocket-learn-more = Ulteriori informazioni
 newtab-pocket-cta-button = Ottieni { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le storie che ami in { -pocket-brand-name } e nutri la tua mente con letture appassionanti.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } è parte della famiglia { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-image =
     .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Salva
@@ -269,6 +279,8 @@ newtab-custom-shortcuts-subtitle = Siti che hai salvato oppure visitato
 newtab-custom-shortcuts-toggle =
     .label = Scorciatoie
     .description = Siti che hai salvato oppure visitato
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } riga
@@ -278,8 +290,8 @@ newtab-custom-sponsored-sites = Scorciatoie sponsorizzate
 newtab-custom-pocket-title = Consigliati da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
 newtab-custom-stories-toggle =
-  .label = Storie consigliate
-  .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
+    .label = Storie consigliate
+    .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
 newtab-custom-pocket-sponsored = Storie sponsorizzate
 newtab-custom-pocket-show-recent-saves = Mostra elementi salvati di recente
 newtab-custom-recent-title = Attività recente
@@ -350,12 +362,10 @@ newtab-wallpaper-storm-sky = Cielo tempestoso
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nuvole rosa
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rosso che sbadiglia su un albero
 newtab-wallpaper-white-mountains = Montagne bianche
-
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto di <a data-l10n-name="name-link">{ $author_string }</a> da <a data-l10n-name="webpage-link">{ $webpage_string }</a>
-
 newtab-wallpaper-feature-highlight-header = Prova un tocco di colore
 newtab-wallpaper-feature-highlight-content = Dai un look diverso alle nuove schede con gli sfondi.
 newtab-wallpaper-feature-highlight-button = OK
@@ -363,7 +373,6 @@ newtab-wallpaper-feature-highlight-button = OK
 feature-highlight-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi pop-up
-# Tooltip for dismiss button
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
