@@ -51,7 +51,10 @@ whypaused-breakpoint-condition-thrown = Greška s uslovnom točkom prekida
 whypaused-xhr = Zaustavljeno pri XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
-whypaused-get-watchpoint = Pauzirano pri svojstvu „get”
+whypaused-get-watchpoint = Zaustavljeno pri čitanju svojstva
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Zaustavljeno pri postavljanju svojstva
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Zaustavljeno pri ispravljenoj funkciji
