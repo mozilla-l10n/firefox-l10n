@@ -48,7 +48,7 @@ translations-panel-settings-always-translate-language =
 translations-panel-settings-always-translate-unknown-language =
     .label = Uvijek prevodi ovaj jezik
 translations-panel-settings-always-offer-translation =
-    .label = Uvijek ponudi prijevod
+    .label = Uvijek ponudi prevođenje
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
