@@ -36,3 +36,4 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Izan zure weberako sarbidea edonon
 sync-setup-verify-continue = Jarraitu
+sync-setup-verify-heading = Ziur zaude sinkronizatzeko saioa hasi nahi duzula?
