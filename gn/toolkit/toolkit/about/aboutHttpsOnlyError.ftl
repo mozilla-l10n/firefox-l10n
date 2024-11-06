@@ -4,7 +4,6 @@
 
 about-httpsonly-title-alert = HTTPS ayvúpe kyhyjerã
 about-httpsonly-title-site-not-available = Tenda rekorosã oñembotýva
-
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Emyandyhína HTTPS ayvu añoitéva hekorosãve hag̃ua hákatu ndaipori HTTPS ipyahúva <em>{ $websiteUrl }</em>.
@@ -12,15 +11,10 @@ about-httpsonly-explanation-question = ¿Mba’éicha oikokuaa kóva?
 about-httpsonly-explanation-nosupport = Pe ikatúva hína ñanduti renda ndojokupytýi HTTPS ndive.
 about-httpsonly-explanation-risk = Ikatu avei mba’evaiapoha ojapo. Eikeséramo ñanduti rendápe, aníke eme’ẽ marandu kañyguáva, taha’e ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurã reheguáva.
 about-httpsonly-explanation-continue = Eiméramo pype, pe HTTPS ayvu añóva oguéta sapy’ami ko tendápe g̃uarã.
-
+about-httpsonly-explanation-iframe = Ojejoko haguére upe tetepy ikõiva, ndaikatúi emoneĩ nde poite rupive ko kora ñemyanyhẽ.
 about-httpsonly-button-continue-to-site = Epyta ko HTTP rendápe
 about-httpsonly-button-go-back = Guevijey
 about-httpsonly-link-learn-more = Eikuaave…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
-
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
