@@ -42,4 +42,4 @@ sync-setup-verify-heading = Biztos, hogy bejelentkezik a szinkronizálásba?
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:
 #   $email - Email address of a user previously signed into sync.
-sync-setup-verify-description = Egy másik felhasználó korábban bejelentkezett a szinkronizálásba ezen a számítógépen. A bejelentkezés egyesíti ezen böngésző könyvjelzőit, jelszavait és más beállításait ezzel: %S
+sync-setup-verify-description = Egy másik felhasználó korábban bejelentkezett a szinkronizálásba ezen a számítógépen. A bejelentkezés egyesíti ezen böngésző könyvjelzőit, jelszavait és más beállításait ezzel: { $email }
