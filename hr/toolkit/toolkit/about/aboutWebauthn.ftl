@@ -82,7 +82,7 @@ about-webauthn-auth-info-max-msg-size = Maksimalna veličina poruke
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Proširenja
-about-webauthn-auth-info-versions = Inačice
+about-webauthn-auth-info-versions = Verzije
 # Shows when boolean value for an info field is True. True should not be translated.
 about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
