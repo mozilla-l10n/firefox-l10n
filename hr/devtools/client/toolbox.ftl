@@ -29,7 +29,7 @@ toolbox-meatball-menu-noautohide-label = Onemogući automatsko skrivanje skočno
 
 toolbox-mode-everything-sub-label = (Sporije)
 toolbox-mode-parent-process-sub-label = (Brzo)
-toolbox-always-on-top-enabled2 = Deaktiviraj uvijek na vrhu
+toolbox-always-on-top-enabled2 = Deaktiviraj uvijek ispred
     .title = Ovo će ponovo pokrenuti alate za programere
-toolbox-always-on-top-disabled2 = Aktiviraj uvijek na vrhu
+toolbox-always-on-top-disabled2 = Aktiviraj uvijek ispred
     .title = Ovo će ponovo pokrenuti alate za programere
