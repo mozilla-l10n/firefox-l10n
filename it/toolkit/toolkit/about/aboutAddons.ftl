@@ -462,14 +462,6 @@ details-notification-softblocked2 =
     .message = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
 details-notification-softblocked-link = Ulteriori informazioni
 
-details-notification-softblocked-extension-disabled =
-    .message = Questa estensione viola i criteri di Mozilla ed è stata disattivata. È possibile attivarla, ma il suo utilizzo potrebbe comportare dei rischi.
-details-notification-softblocked-extension-enabled =
-    .message = Questa estensione viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
-details-notification-softblocked-other-disabled =
-    .message = Questo componente aggiuntivo viola i criteri di Mozilla ed è stato disattivato. È possibile attivarlo, ma il suo utilizzo potrebbe comportare dei rischi.
-details-notification-softblocked-other-enabled =
-    .message = Questo componente aggiuntivo viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
 details-notification-softblocked-link2 = Mostra dettagli
 
 details-notification-soft-blocked-extension-disabled =

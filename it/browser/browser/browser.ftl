@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Azioni per la pagina
 urlbar-revert-button =
   .tooltiptext = Mostra l’indirizzo nella barra degli indirizzi
-urlbar-show-page-actions-button =
-  .tooltiptext = Mostra tutte le azioni per la pagina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -611,9 +609,6 @@ urlbar-result-action-calculator-result = = { $result }
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, scegli un motore di ricerca
-    .tooltiptext = { $engine }, scegli un motore di ricerca
 urlbar-searchmode-button2 =
     .label = { $engine }, scegli un motore di ricerca
     .tooltiptext = { $engine }, scegli un motore di ricerca

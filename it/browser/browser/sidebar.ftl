@@ -62,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Espandi e comprimi barra laterale
 sidebar-visibility-setting-hide-sidebar =
     .label = Mostra e nascondi barra laterale
-sidebar-customize-settings-header =
-    .label = Impostazioni barra laterale
-sidebar-visibility-always-show =
-    .label = Mostra sempre
-sidebar-visibility-hide-sidebar =
-    .label = Nascondi barra laterale
 
 ## Labels for sidebar context menu items
 
