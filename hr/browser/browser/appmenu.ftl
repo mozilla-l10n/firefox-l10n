@@ -14,7 +14,7 @@ appmenuitem-banner-update-manual =
 appmenuitem-banner-update-unsupported =
     .label = Nije moguće nadograditi – sustav nije kompatibilan
 appmenuitem-banner-update-restart =
-    .label = Dostupna nadogradnja – ponovo pokreni sada
+    .label = Dostupna je nova verzija – ponovo pokreni sada
 appmenuitem-new-tab =
     .label = Nova kartica
 appmenuitem-new-window =
@@ -279,3 +279,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
+
+## Profiles panel
+
