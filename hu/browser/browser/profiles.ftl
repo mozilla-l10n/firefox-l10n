@@ -43,3 +43,17 @@ delete-profile-header = Törli a(z) { $profilename } profilt?
 delete-profile-description = A { -brand-short-name } véglegesen törli a következő adatokat erről az eszközről:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Megnyitott ablakok
+# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+delete-profile-tabs = Nyitott lapok
+# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
+delete-profile-bookmarks = Könyvjelzők
+# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
+delete-profile-history = Előzmények (felkeresett oldalak, sütik, oldaladatok)
+# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
+delete-profile-autofill = Automatikus kitöltési adatok (címek, fizetési módok)
+# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-logins = Jelszavak
+# Button label
+delete-profile-cancel = Mégse
+# Button label
+delete-profile-confirm = Törlés

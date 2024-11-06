@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = MI csevegőbot
 menu-view-review-checker =
     .label = Értékelés-ellenőrző
+sidebar-options-menu-button =
+    .title = Menü megnyitása
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Oldalsáv kibontása és összecsukása
 sidebar-visibility-setting-hide-sidebar =
     .label = Oldalsáv megjelenítése és elrejtése
-sidebar-customize-settings-header =
-    .label = Oldalsáv-beállítások
-sidebar-visibility-always-show =
-    .label = Megjelenítés mindig
-sidebar-visibility-hide-sidebar =
-    .label = Oldalsáv elrejtése
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Lapok más eszközökről
 synced-tabs-context-close-tab-title =
     .title = Lap bezárása itt: { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Oldalsáv kibontása
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Oldalsáv összecsukása
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Oldalsáv megjelenítése
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Oldalsáv elrejtése
 sidebar-widget-expand-sidebar =
     .tooltiptext = Oldalsáv kibontása
     .label = Oldalsávok
