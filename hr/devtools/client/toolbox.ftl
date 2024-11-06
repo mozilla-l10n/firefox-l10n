@@ -11,9 +11,9 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
-toolbox-meatball-menu-dock-bottom-label = Prikači dolje
-toolbox-meatball-menu-dock-left-label = Prikači lijevo
-toolbox-meatball-menu-dock-right-label = Prikači desno
+toolbox-meatball-menu-dock-bottom-label = Prikvači dolje
+toolbox-meatball-menu-dock-left-label = Prikvači lijevo
+toolbox-meatball-menu-dock-right-label = Prikvači desno
 toolbox-meatball-menu-dock-separate-window-label = Odvojeni prozor
 toolbox-meatball-menu-splitconsole-label = Pokaži podijeljenu konzolu
 toolbox-meatball-menu-hideconsole-label = Sakrij podijeljenu konzolu

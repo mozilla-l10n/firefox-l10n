@@ -284,8 +284,8 @@ mr2022-upgrade-onboarding-pin-private-window-header = Dobij slobodu privatnog pr
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Bez spremljenih kolačića ili povijesti, izravno s tvoje radne površine. Pregledavaj kao da nitko ne gleda.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Drži { -brand-short-name } privatno pregledavanje u Docku
-       *[other] Prikvači { -brand-short-name } privatno pregledavanje u programsku traku
+        [macos] Dodaj { -brand-short-name } privatno pregledavanje u Dock
+       *[other] Prikvači { -brand-short-name } privatno pregledavanje na programsku traku
     }
 
 ## MR2022 Privacy Segmentation screen strings
