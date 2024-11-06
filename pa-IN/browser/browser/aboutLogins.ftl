@@ -204,7 +204,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ 
 about-logins-export-password-os-auth-dialog-message2-win = ਆਪਣੇ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰਨ ਲਈ ਆਪਣੀਆਂ Windows ਸਨਦਾਂ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message2-macosx = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-export-password-os-auth-dialog-message2-macosx = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 
 ## Primary Password notification
 
@@ -318,7 +318,7 @@ breach-alert-text = ਤੁਹਾਡੇ ਵਲੋਂ ਆਪਣੇ ਲਾਗਇਨ
 about-logins-breach-alert-date = ਇਹ ਸੰਨ੍ਹ { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ਨੂੰ ਲੱਗੀ ਸੀ
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-breach-alert-link = { $hostname } ਤੇ ਜਾਓ
+about-logins-breach-alert-link = { $hostname } ‘ਤੇ ਜਾਓ
 
 ## Vulnerable Password notification
 
