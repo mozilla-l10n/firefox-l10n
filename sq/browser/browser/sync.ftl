@@ -35,3 +35,8 @@ fxa-menu-sign-out =
     .label = Dilni…
 fxa-menu-sync-title = Njëkohësoni
 fxa-menu-sync-description = Përdoreni web-in nga kudo
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Nga ky kompjuter pat hyrë në Sync një përdorues tjetër. Hyrja tani do të përziejë faqerojtësit fjalëkalimet dhe të tjera rregullime të këtij shfletuesi me { $email }
