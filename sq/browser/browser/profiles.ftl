@@ -25,6 +25,7 @@ edit-profile-page-duplicate-name = Emër profili tashmë në përdorim. Provoni 
 edit-profile-page-profile-saved = U ruajt
 new-profile-page-title = Profil i ri
 new-profile-page-header = Përshtatni profilin tuaj të ri
+new-profile-page-header-description = Çdo profil mban ndarazi nga profilet tuaj të tjerë historikun e vet unik të shfletimeve dhe rregulllimet. Plus, mbrojtjet e fuqishme të privatësisë nga { -brand-short-name }-i janë aktive, si parazgjedhje.
 new-profile-page-learn-more = Mësoni më tepër
 new-profile-page-input-placeholder =
     .placeholder = Zgjidhni një emër, fjala vjen, “Pune”, ose “Personal”
