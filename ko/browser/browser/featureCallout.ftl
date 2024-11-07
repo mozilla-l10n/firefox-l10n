@@ -64,3 +64,19 @@ split-dismiss-button-manage-settings-option-label = 설정 관리
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시
 sidebar-button-callout-subtitle = 사이드바 버튼을 사용하여 탭 제목을 볼 수 있도록 사이드바를 확장하세요.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = { -brand-short-name } 개선에 도와주세요
+sidebar-callout-survey-satisfaction-question = { -brand-short-name }의 사이드바 경험에 얼마나 만족하시나요?
+sidebar-callout-survey-privacy-notice-link = 개인정보처리방침
+sidebar-callout-survey-very-satisfied = 매우 만족
+sidebar-callout-survey-satisfied = 만족
+sidebar-callout-survey-neutral = 보통
+sidebar-callout-survey-dissatisfied = 불만족
+sidebar-callout-survey-very-dissatisfied = 매우 불만족
+sidebar-callout-survey-dont-use-it = 사용하지 않음
+sidebar-callout-survey-productive-question =
+    다음 의견에 얼마나 동의하십니까?<br/>
+    "{ -brand-short-name } 사이드바를 사용하면 생산성을 높일 수 있습니다"
+sidebar-callout-survey-strongly-agree = 매우 동의함
