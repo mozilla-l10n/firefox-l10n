@@ -86,6 +86,8 @@ fp-certerror-unknown-issuer-why-dangerous-body = Υπάρχει πρόβλημα
 fp-certerror-unknown-issuer-what-can-you-do-body = Ίσως τίποτα, αφού είναι πιθανό να υπάρχει πρόβλημα με τον ίδιο τον ιστότοπο. Αλλά αν είστε συνδεμένοι σε εταιρικό δίκτυο, η ομάδα υποστήριξής σας ενδέχεται να έχει περισσότερες πληροφορίες. Αν χρησιμοποιείτε λογισμικό προστασίας από ιούς, ίσως χρειάζεται να ρυθμιστεί ώστε να λειτουργεί με το { -brand-short-name }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Επειδή υπάρχει πρόβλημα με το πιστοποιητικό του ιστοτόπου. Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποιητικών για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το πιστοποιητικό αυτού του ιστοτόπου είναι υπογεγραμμένο από τον ίδιο ιστότοπο. Δεν εκδόθηκε από μια αναγνωρισμένη αρχή πιστοποιητικών, επομένως δεν το εμπιστευόμαστε από προεπιλογή.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Δεν μπορείτε να κάνετε και πολλά. Το πρόβλημα οφείλεται πιθανότατα στον ίδιο τον ιστότοπο.
 fp-certerror-self-signed-important-note = ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ: Εάν προσπαθείτε να επισκεφτείτε αυτόν τον ιστότοπο σε ένα εταιρικό ενδοδίκτυο, οι υπάλληλοι του τμήματος IT ενδέχεται να χρησιμοποιούν αυτοϋπογεγραμμένα πιστοποιητικά. Μπορούν να σας βοηθήσουν να ελέγξετε την αυθεντικότητά τους.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
