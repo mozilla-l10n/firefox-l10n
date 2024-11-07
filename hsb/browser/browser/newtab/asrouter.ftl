@@ -322,3 +322,16 @@ fxa-menu-message-backup-sync-collapsed-text = Daty synchronizować a zawěsćić
 fxa-menu-message-mobile-primary-text = Sćelće rajtarki na telefon
 fxa-menu-message-mobile-secondary-text = Čińće tam dale, hdźež sće hnydom zastał, hdyž swoje rajtarki z mobilnym gratom synchronizujeće.
 fxa-menu-message-mobile-collapsed-text = Ze swojim telefonom synchronizować
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Witajće wróćo
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } k swojemu standardnemu wobhladowakej činić
+multi-cta-fox-doodle-pin-startmenu-checkbox = Připniće { -brand-short-name } k startowemu menijej
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } w doku wostajić
+       *[other] Připniće { -brand-short-name } k nadawkowej lajsće
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Přehladowanje započeć
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } k hłownemu wobhladowakej činić

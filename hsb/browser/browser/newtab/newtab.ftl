@@ -8,6 +8,11 @@
 newtab-page-title = Nowy rajtark
 newtab-settings-button =
     .title = Stronu wašeho noweho rajtarka přiměrić
+newtab-personalize-settings-icon-label =
+    .title = Nowy rajtark personalizować
+    .aria-label = Nastajenja
+newtab-settings-dialog-label =
+    .aria-label = Nastajenja
 newtab-personalize-icon-label =
     .title = Nowy rajtark personalizować
     .aria-label = Nowy rajtark personalizować

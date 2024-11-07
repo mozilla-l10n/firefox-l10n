@@ -64,3 +64,19 @@ split-dismiss-button-manage-settings-option-label = Nastajenja rjadować
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
 sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Pomhajće { -brand-short-name } polěpšować
+sidebar-callout-survey-satisfaction-question = Kak spokojny sće z bóčnicu w { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Zdźělenka priwatnosće
+sidebar-callout-survey-very-satisfied = Jara spokojny
+sidebar-callout-survey-satisfied = Spokojny
+sidebar-callout-survey-neutral = Neutralny
+sidebar-callout-survey-dissatisfied = Njespokojny
+sidebar-callout-survey-very-dissatisfied = Jara njespokojny
+sidebar-callout-survey-dont-use-it = To njewužiwam
+sidebar-callout-survey-agree = Přezjedny
+sidebar-callout-survey-disagree = Njepřezjedny
+sidebar-callout-survey-submit = Wotpósłać
+sidebar-callout-survey-thank-you = Dźakujemy so za waš komentar!
