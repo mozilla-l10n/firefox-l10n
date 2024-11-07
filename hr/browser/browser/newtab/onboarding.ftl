@@ -379,3 +379,11 @@ onboarding-new-user-survey-familiarity-based-option-4 = Koristio/la sam ga u pro
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Kartice gore
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Prozor preglednika koji prikazuje kartice u gornjem rubu.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Prozor preglednika koji prikazuje kartice u gornjem rubu.
