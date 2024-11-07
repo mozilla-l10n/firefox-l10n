@@ -71,6 +71,17 @@ open-in-new-window-for-csp-or-xfo-error = Hape Sajtin në Dritare të Re
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Për të mbrojtur sigurinë tuaj, { $hostname } s’do ta lejojë { -brand-short-name }-in të shfaqë faqen, nëse e ka trupëzuar një sajt tjetër. Që të shihni këtë faqe, duhet ta hapni në një dritare tjetër.
+fp-certerror-view-certificate-link = Shihni dëshminë e sajtit
+fp-certerror-return-to-previous-page-recommended-button = Shko mbrapsht (E këshilluar)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Sajti është ujdisur të lejojë vetëm lidhje të siguruara, por ka një problem me dëshminë e sajtit. Është e mundur që dikush me qëllime të liga të jetë duke provuar të imitojë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë dëshmia e tij s’është e vlefshme për { $hostname }. Dëshmia është e vlefshme vetëm për: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Me gjasa, asgjë, ngaqë ka mundësi që të ketë një problem me vetë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. Por nëse gjendeni në rrjetin e një korporate, ekipi juaj i asistencës mund të ketë më tepër informacion. Nëse përdorni një “software” antivirus, provoni të kërkoni për përplasje potenciale, apo për probleme të ditura.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Ka një problem me dëshminë e sajtit. Është e mundur që dikush me qëllime të liga të jetë duke provuar të imitojë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë s’dimë se kush e lëshoi dëshminë, është e vetënënshkruar, ose sajti s’po dërgon dëshmi të ndërmjetme të cilat i besojmë.
 
 ## Messages used for certificate error titles
 
@@ -112,3 +123,10 @@ networkProtocolError-title = Gabim Protokolli Rrjeti
 nssBadCert-title = Kujdes: Rrezik Potencial Sigurie Përpara
 nssBadCert-sts-title = Nuk U Lidh: Çështje Potenciale Sigurie
 certerror-mitm-title = Një software po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Sigurt te Ky Sajt
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
