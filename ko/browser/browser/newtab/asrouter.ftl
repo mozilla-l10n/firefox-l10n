@@ -135,7 +135,7 @@ spotlight-peace-mind-header = 저희가 사용자를 보호합니다
 spotlight-peace-mind-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단합니다. 특히 추적기와 같은 개인 정보를 침해하는 요소가 사용자와 좋은 인터넷 사이에 있어서는 안 되기 때문입니다.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Dock에 넣기
+        [macos] 독에 넣기
        *[other] 작업 표시줄에 고정
     }
 spotlight-pin-secondary-button = 나중에
@@ -317,4 +317,19 @@ fxa-menu-message-mobile-collapsed-text = 휴대폰과 동기화
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = 환영합니다
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name }를 기본 브라우저로 설정
 multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name }를 시작 메뉴에 고정
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }를 독에 넣기
+       *[other] { -brand-short-name }를 작업 표시줄에 고정
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = 탐색 시작
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+multi-cta-fox-doodle-quick-reminder-subtitle = 개인 정보 보호에 중점을 두는 브라우저를 클릭 한 번으로 계속 사용할 수 있습니다.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] 개인 정보 보호에 중점을 두는 브라우저를 단 한 번의 클릭으로 사용하세요. 링크를 여는 기본 브라우저를 { -brand-short-name }로 설정하고 독에 넣으세요.
+       *[other] 개인 정보 보호에 중점을 두는 브라우저를 단 한 번의 클릭으로 사용하세요. 링크를 여는 기본 브라우저를 { -brand-short-name }로 설정하고 작업 표시줄에 고정하세요.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = 개인 정보 보호에 중점을 두는 브라우저를 단 한 번의 클릭으로 사용하세요. 링크를 여는 기본 브라우저를 { -brand-short-name }로 설정하고 작업 표시줄과 시작 메뉴에 고정하세요.

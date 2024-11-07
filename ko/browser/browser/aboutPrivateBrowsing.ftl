@@ -56,7 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = 한 번의 클릭으로 자유로운 사생활 보호 모드
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Dock에 넣기
+        [macos] 독에 넣기
        *[other] 작업 표시줄에 고정
     }
 about-private-browsing-pin-promo-title = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.

@@ -153,7 +153,7 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = 100번째 출시입니다! 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 감사합니다.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] { -brand-short-name }를 Dock에 넣기
+        [macos] { -brand-short-name }를 독에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
 fx100-upgrade-thanks-header = 100 감사합니다
@@ -185,7 +185,7 @@ mr2022-onboarding-welcome-pin-subtitle = 어디서나 클릭 한 번으로 { -br
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] { -brand-short-name }를 Dock에 넣기
+        [macos] { -brand-short-name }를 독에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
@@ -283,7 +283,7 @@ mr2022-upgrade-onboarding-pin-private-window-header = 한 번의 클릭으로 �
 mr2022-upgrade-onboarding-pin-private-window-subtitle = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] { -brand-short-name } 사생활 보호 모드를 Dock에 넣기
+        [macos] { -brand-short-name } 사생활 보호 모드를 독에 넣기
        *[other] { -brand-short-name } 사생활 보호 모드를 작업 표시줄에 고정
     }
 
