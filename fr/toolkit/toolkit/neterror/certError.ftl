@@ -114,6 +114,7 @@ certerror-mitm-title = Un logiciel empêche { -brand-short-name } de se connecte
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Attention : risque de sécurité
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
