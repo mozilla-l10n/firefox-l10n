@@ -329,3 +329,10 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Empezar a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Hacer de { -brand-short-name } mi navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Aquí hay un recordatorio rápido de que puedes mantener tu navegador centrado en la privacidad favorito a solo un clic de distancia.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y mantenlo en tu Dock.
+       *[other] Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu barra de tareas.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu menú inicio.
