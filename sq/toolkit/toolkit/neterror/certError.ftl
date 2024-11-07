@@ -167,3 +167,4 @@ fp-certerror-hide-advanced-button = Fshihi të mëtejshmet
 
 fp-certerror-override-exception-button = Vazhdo për te { $hostname } (E rrezikshme)
 fp-certerror-intro = { -brand-short-name } pikasi një problem potencialisht serioz sigurie me <strong>{ $hostname }</strong>. Dikush që po pretendon se është sajti mund të vjedhë gjëra të tilla si hollësi kartash kredit, fjalëkalime, ose email-e.
+fp-certerror-expired-into = { -brand-short-name } pikasi një problem sigurie me <strong>{ $hostname }</strong>. Ose sajti s’është ujdisur si duhet, ose sahati i pajisjes tuaj është vënë në datë/kohë të gabuar.

@@ -39,6 +39,7 @@ delete-profile-page-title = Fshije profilin { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Të fshihet profili { $profilename }?
+delete-profile-description = { -brand-short-name }-i do të fshijë përgjithmonë të dhënat vijuese nga kjo pajisje:
 # Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
 delete-profile-windows = Dritare të hapura
 # Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
