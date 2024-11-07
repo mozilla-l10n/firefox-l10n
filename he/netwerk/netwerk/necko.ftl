@@ -6,4 +6,9 @@
 ## Variables:
 ##   $host (String): A website host address
 
+network-connection-status-transferring-data = ‫מעביר נתונים מ־‪{ $host }‬...‬
+network-connection-status-connecting = ‫מתחבר אל ‪{ $host }‬...‬
+network-connection-status-read = קריאת ‪{ $host }‬‬ 
+network-connection-status-wrote = ‫כותב את ‪{ $host }‬‬
+network-connection-status-waiting = ‫ממתין ל־‪{ $host }‬...‬
 network-connection-status-looked-up = מאתר ‬{ $host }‬…
