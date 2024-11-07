@@ -11,3 +11,4 @@ network-connection-status-connected = Կապակցուած է { $host }-ի հե�
 network-connection-status-sending-request = { $host } -ին Ուղարկուում է հարցում...
 network-connection-status-transferring-data = Տուեալների փոխանցում { $host } -ից…
 network-connection-status-connecting = Միանում է { $host }-ին…
+network-connection-status-tls-handshake-finished = TLS ձեռքսեղմումն { $host }-ի հետ աւարտուել է․․․
