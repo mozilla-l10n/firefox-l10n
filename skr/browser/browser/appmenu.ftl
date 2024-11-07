@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = ڈیٹا ہم وقت کرو تے محفوظ ک
 appmenu-fxa-signed-in-label = سائن ان
 appmenu-fxa-setup-sync =
     .label = ہم وقت کرݨ چالو کرو۔۔۔
+appmenu-fxa-setup-sync-new = چالو کرو
 appmenuitem-save-page =
     .label = ورقہ ہتھیکڑا کرو بطور …
+appmenuitem-fxa-sync-off-title = ہم وقت کرݨ بند ہے
 
 ## What's New panel in App menu.
 
@@ -278,3 +280,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = آپݨے اصلی ای میل اَتے فون کوں ماسک کرو
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = آپݨی رازداری دی راکھی کرو
+
+## Profiles panel
+
+appmenu-profiles = پروفائلاں
