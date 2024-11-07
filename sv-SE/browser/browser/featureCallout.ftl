@@ -64,3 +64,29 @@ split-dismiss-button-manage-settings-option-label = Hantera inställningar
 
 sidebar-button-callout-title = Visa fliktitlar i sidofältet
 sidebar-button-callout-subtitle = Använd sidofältsknappen för att utöka sidofältet så att du kan se fliktitlar.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Hjälp till att förbättra { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Hur nöjd är du med sidofältet i { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Sekretesspolicy
+sidebar-callout-survey-very-satisfied = Väldigt nöjd
+sidebar-callout-survey-satisfied = Nöjd
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Missnöjd
+sidebar-callout-survey-very-dissatisfied = Väldigt missnöjd
+sidebar-callout-survey-dont-use-it = Jag använder den inte
+sidebar-callout-survey-productive-question = I vilken utsträckning håller eller avviker du med påståendet:<br/> "Sidofältet i { -brand-short-name } hjälper mig att bli mer produktiv"?
+sidebar-callout-survey-strongly-agree = Instämmer fullständigt
+sidebar-callout-survey-agree = Håller med
+sidebar-callout-survey-disagree = Håller inte med
+sidebar-callout-survey-strongly-disagree = Håller inte alls med
+sidebar-callout-survey-features-question = Följande är potentiella sidofältsfunktioner. Vilket skulle förbättra din produktivitet i { -brand-short-name } mest?
+sidebar-callout-survey-split-view = Visa två webbplatser samtidigt, i en delad vy sida vid sida
+sidebar-callout-survey-keep-website-open = Behåll en webbplats, som e-post eller kalender, öppen i sidofältet när du surfar
+sidebar-callout-survey-saved-websites = Snabb åtkomst till alla dina sparade webbplatser
+sidebar-callout-survey-none-of-above = Inget av ovanstående
+sidebar-callout-survey-submit = Skicka in
+sidebar-callout-survey-thank-you = Tack för din feedback!
+sidebar-genai-survey-satisfaction-question = Hur nöjd är du med att ha tillgång till en AI-chatbot i sidofältet?
+sidebar-genai-survey-productive-question = I vilken utsträckning håller du eller håller du med om påståendet:<br/> "AI-chatboten i sidofältet hjälper mig att bli mer produktiv"?
