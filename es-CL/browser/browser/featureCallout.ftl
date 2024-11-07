@@ -64,3 +64,33 @@ split-dismiss-button-manage-settings-option-label = Administrar ajustes
 
 sidebar-button-callout-title = Mostrar títulos de pestañas en la barra lateral
 sidebar-button-callout-subtitle = Utiliza el botón de la barra lateral para expandir la barra lateral, de modo que puedas ver los títulos de las pestañas.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Ayuda a mejorar { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = ¿Qué tan satisfecho estás con la experiencia de la barra lateral en { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Aviso de privacidad
+sidebar-callout-survey-very-satisfied = Muy satisfecho
+sidebar-callout-survey-satisfied = Satisfecho
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Insatisfecho
+sidebar-callout-survey-very-dissatisfied = Muy insatisfecho
+sidebar-callout-survey-dont-use-it = No la uso
+sidebar-callout-survey-productive-question =
+    ¿En qué medida estás de acuerdo o en desacuerdo con esta afirmación:<br/>
+    “La barra lateral de { -brand-short-name } me ayuda a aumentar mi productividad”?
+sidebar-callout-survey-strongly-agree = Muy de acuerdo
+sidebar-callout-survey-agree = De acuerdo
+sidebar-callout-survey-disagree = En desacuerdo
+sidebar-callout-survey-strongly-disagree = Muy en desacuerdo
+sidebar-callout-survey-features-question = Las siguientes son posibles funcionalidades de la barra lateral. ¿Cuáles mejorarían más tu productividad en { -brand-short-name }?
+sidebar-callout-survey-split-view = Ver dos sitios web a la vez, en una vista dividida uno al lado del otro
+sidebar-callout-survey-keep-website-open = Mantener un sitio web, como el correo electrónico o el calendario, abierto en la barra lateral mientras navegas
+sidebar-callout-survey-saved-websites = Acceso rápido a todos tus sitios web guardados
+sidebar-callout-survey-none-of-above = Ninguna de las anteriores
+sidebar-callout-survey-submit = Enviar
+sidebar-callout-survey-thank-you = ¡Gracias por tu opinión!
+sidebar-genai-survey-satisfaction-question = ¿Qué tan satisfecho estás con tener acceso a un chatbot de IA en la barra lateral?
+sidebar-genai-survey-productive-question =
+    ¿En qué medida estás de acuerdo o en desacuerdo con esta afirmación:<br/>
+    “El chatbot de IA me ayuda a aumentar mi productividad”?
