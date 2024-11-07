@@ -8,21 +8,33 @@ edit-profile-page-theme-header = Theme
 edit-profile-page-avatar-header = Profilbild
 edit-profile-page-delete-button =
     .label = Löschen
+edit-profile-page-profile-saved = Gespeichert
+new-profile-page-title = Neues Profil
 new-profile-page-learn-more = Weitere Informationen
+new-profile-page-done-button =
+    .label = Bearbeitung abgeschlossen
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Profil { $profilename } löschen
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Profil { $profilename } löschen?
+delete-profile-description = { -brand-short-name } löscht die folgenden Daten dauerhaft von diesem Gerät:
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Offene Fenster
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Offene Tabs
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Lesezeichen
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Chronik (besuchte Seiten, Cookies, Website-Daten)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
+delete-profile-autofill = Autovervollständigung (Adressen, Zahlungsmethoden)
 delete-profile-logins = Passwörter
 # Button label
 delete-profile-cancel = Abbrechen
 # Button label
 delete-profile-confirm = Löschen
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+

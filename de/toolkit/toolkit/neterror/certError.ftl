@@ -109,3 +109,14 @@ networkProtocolError-title = Netzwerkprotokoll-Fehler
 nssBadCert-title = Warnung: Mögliches Sicherheitsrisiko erkannt
 nssBadCert-sts-title = Kein Verbindungsversuch unternommen: Mögliches Sicherheitsproblem
 certerror-mitm-title = Software hindert { -brand-short-name } am Aufbauen einer sicheren Verbindung mit dieser Website
+
+## Felt Privacy V1 Strings
+
+fp-certerror-advanced-title = Erweitert
+fp-certerror-advanced-button = Erweitert
+fp-certerror-hide-advanced-button = Erweitert ausblenden
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Weiter zu { $hostname } (riskant)

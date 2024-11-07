@@ -64,3 +64,15 @@ split-dismiss-button-manage-settings-option-label = Einstellungen verwalten
 
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
 sidebar-button-callout-subtitle = Verwenden Sie die Sidebar-Schaltfläche, um die Sidebar einzuklappen, sodass Sie Tab-Titel sehen können.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Helfen Sie bei der Verbesserung von { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Wie zufrieden sind Sie mit der Sidebar-Erfahrung in { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Datenschutzhinweis
+sidebar-callout-survey-very-satisfied = Sehr zufrieden
+sidebar-callout-survey-satisfied = Zufrieden
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Unzufrieden
+sidebar-callout-survey-very-dissatisfied = Sehr unzufrieden
+sidebar-callout-survey-dont-use-it = Ich verwende sie nicht
