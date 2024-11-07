@@ -176,8 +176,8 @@ tabbrowser-tab-audio-playing-description = Репродукција звука
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
-            [few] Прикажи { $tabCount } картице
-           *[other] Прикажи { $tabCount } картица
+            [few] Прикажи све { $tabCount } картице
+           *[other] Прикажи свих { $tabCount } картица
         }
 
 ## Tab manager menu buttons
@@ -188,3 +188,6 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Укључи звук картице
 tabbrowser-manager-close-tab =
     .tooltiptext = Затвори картицу
+
+## Tab Groups
+
