@@ -1,3 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Variables:
+##   $host (String): A website host address
+
+network-connection-status-looking-up = Oñemañahína { $host }...
+network-connection-status-connected = Ojoaju { $host }... rehe
+network-connection-status-sending-request = Omondo jerure { $host }... pe
+network-connection-status-transferring-data = Oñembohasa mba’ekuaarã { $host } guive…
+network-connection-status-connecting = Ojoaju { $host }… rehe
+network-connection-status-read = Oñemoñe´ẽmava { $host }
+network-connection-status-wrote = Ojehaíma { $host }
+network-connection-status-waiting = Oñeha’ãrõ { $host }-pe…
+network-connection-status-looked-up = Oñemoesakãma { $host }…
+network-connection-status-tls-handshake = Ñembosako’i TLS pojopy { $host }…
+network-connection-status-tls-handshake-finished = TLS pojopy opáma { $host }-pe g̃uarã…
