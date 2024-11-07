@@ -320,8 +320,8 @@ fxa-menu-message-mobile-collapsed-text = Synka med din telefon
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Välkommen tillbaka
-multi-cta-fox-doodle-set-default-checkbox = Sätt { -brand-short-name } till standard
-multi-cta-fox-doodle-pin-startmenu-checkbox = Fäst { -brand-short-name } i Start-menyn
+multi-cta-fox-doodle-set-default-checkbox = Gör { -brand-short-name } till standard
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fäst { -brand-short-name } i startmenyn
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] Behåll { -brand-short-name } i Dock
@@ -329,10 +329,10 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Börja surfa
 multi-cta-fox-doodle-main-browser-primary-button-label = Gör { -brand-short-name } till min huvudwebbläsare
-multi-cta-fox-doodle-quick-reminder-subtitle = Här är en snabb påminnelse om att du kan ha din favoritsekretessfokuserade webbläsare endast ett klick bort.
+multi-cta-fox-doodle-quick-reminder-subtitle = Här är en snabb påminnelse om att du kan hålla din integritetsfokuserade favoritwebbläsare bara ett klick bort.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Håll din integritetsfokuserade favoritwebbläsare med ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och behåll den i din Dock.
-       *[other] Håll din integritetsfokuserade favoritwebbläsare med ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet.
+        [macos] Håll din favoritwebbläsare med fokus på integritet bara ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och behåll den i Dock.
+       *[other] Håll din favoritwebbläsare med fokus på integritet bara ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Håll din integritetsfokuserade favoritwebbläsare med ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet och Start-menyn.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Håll din favoritwebbläsare med fokus på integritet bara ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet och startmenyn.
