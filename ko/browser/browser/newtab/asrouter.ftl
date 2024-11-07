@@ -313,3 +313,8 @@ fxa-menu-message-backup-sync-collapsed-text = 데이터 동기화 및 백업
 fxa-menu-message-mobile-primary-text = 탭을 휴대폰에 보내기
 fxa-menu-message-mobile-secondary-text = 모바일 기기와 탭을 동기화할 때 중단한 부분부터 즉시 다시 시작할 수 있습니다.
 fxa-menu-message-mobile-collapsed-text = 휴대폰과 동기화
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = 환영합니다
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name }를 시작 메뉴에 고정

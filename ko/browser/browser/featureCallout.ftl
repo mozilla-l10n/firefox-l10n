@@ -80,3 +80,17 @@ sidebar-callout-survey-productive-question =
     다음 의견에 얼마나 동의하십니까?<br/>
     "{ -brand-short-name } 사이드바를 사용하면 생산성을 높일 수 있습니다"
 sidebar-callout-survey-strongly-agree = 매우 동의함
+sidebar-callout-survey-agree = 동의함
+sidebar-callout-survey-disagree = 동의 안함
+sidebar-callout-survey-strongly-disagree = 매우 동의 안함
+sidebar-callout-survey-features-question = 다음은 잠재적인 사이드바 기능입니다. { -brand-short-name }에서 생산성을 가장 향상시키는 것은 무엇입니까?
+sidebar-callout-survey-split-view = 두 웹사이트를 나란히 분할해서 보기
+sidebar-callout-survey-keep-website-open = 탐색하는 동안 이메일이나 캘린더와 같은 웹 사이트를 사이드바에 열어 두기
+sidebar-callout-survey-saved-websites = 저장된 모든 웹사이트에 빠르게 접근
+sidebar-callout-survey-none-of-above = 해당 사항 없음
+sidebar-callout-survey-submit = 제출
+sidebar-callout-survey-thank-you = 의견을 보내 주셔서 감사합니다!
+sidebar-genai-survey-satisfaction-question = 사이드바의 AI 챗봇에 접근하는 데 얼마나 만족하시나요?
+sidebar-genai-survey-productive-question =
+    다음 의견에 얼마나 동의하십니까?<br/>
+    "사이드바에 AI 챗봇을 사용하면 생산성을 높일 수 있습니다"
