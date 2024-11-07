@@ -35,6 +35,9 @@ fxa-menu-sign-out =
     .label = Dilni…
 fxa-menu-sync-title = Njëkohësoni
 fxa-menu-sync-description = Përdoreni web-in nga kudo
+sync-setup-verify-continue = Vazhdoni
+sync-setup-verify-title = Sinjalizim Përzierjesh
+sync-setup-verify-heading = Jeni i sigurt se doni të hyhet në llogari, që të bëni njëkohësim?
 # The user was previously signed into sync. This dialog confirms to the user
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:

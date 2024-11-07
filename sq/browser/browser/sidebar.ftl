@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Robot IA Fjalosjesh
 menu-view-review-checker =
     .label = Kontrollor Shqyrtimesh
+sidebar-options-menu-button =
+    .title = Hape menunë
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Zgjeroni dhe tkurrni anështyllën
 sidebar-visibility-setting-hide-sidebar =
     .label = Shfaqni dhe fshihni anështyllën
-sidebar-customize-settings-header =
-    .label = Rregullime anështylle
-sidebar-visibility-always-show =
-    .label = Shfaqe përherë
-sidebar-visibility-hide-sidebar =
-    .label = Fshihe anështyllën
 
 ## Labels for sidebar context menu items
 
