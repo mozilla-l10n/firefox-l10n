@@ -12,3 +12,5 @@ network-connection-status-sending-request = Mengirimkan permintaan ke { $host }�
 network-connection-status-transferring-data = Mentransfer data dari { $host }…
 network-connection-status-connecting = Mencari sambungan ke { $host }…
 network-connection-status-looked-up = Mencari { $host }…
+network-connection-status-tls-handshake = Melakukan jabat tangan TLS ke { $host }…
+network-connection-status-tls-handshake-finished = Jabat tangan TLS selesai untuk { $host }…
