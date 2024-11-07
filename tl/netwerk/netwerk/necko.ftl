@@ -7,3 +7,4 @@
 ##   $host (String): A website host address
 
 network-connection-status-looking-up = Hinahanap ang { $host }...
+network-connection-status-tls-handshake-finished = Natapos ang TLS handshake para sa { $host }…
