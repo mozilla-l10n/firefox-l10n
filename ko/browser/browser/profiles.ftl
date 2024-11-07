@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - 사용자 프로필 선택
 profile-window-heading = { -brand-short-name } 프로필 선택
 profile-window-body = 비밀번호와 북마크를 포함한 개인 탐색과 업무를 완전히 분리하세요. 또는 이 기기를 사용하는 모든 사람들의 프로필을 만들 수 있습니다.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name }가 열릴 때 표시
 profile-window-create-profile = 프로필 만들기
@@ -41,19 +41,38 @@ delete-profile-page-title = { $profilename } 프로필 삭제
 #   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } 프로필을 삭제하시겠습니까?
 delete-profile-description = { -brand-short-name }가 다음 데이터를 이 기기에서 영구적으로 삭제합니다:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = 창 열기
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = 탭 열기
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = 북마크
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = 기록 (방문한 페이지, 쿠키, 사이트 데이터)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = 데이터 자동 채우기 (주소, 결제 방법)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = 비밀번호
 # Button label
 delete-profile-cancel = 취소
 # Button label
 delete-profile-confirm = 삭제
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = 금잔화
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = 라벤더
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = 이끼
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = 목련
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = 바다
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = 테라코타
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = 이끼
+# The default light theme
+profiles-light-theme = 밝게
+# The default dark theme
+profiles-dark-theme = 어둡게
+# The default system theme
+profiles-system-theme = 시스템
