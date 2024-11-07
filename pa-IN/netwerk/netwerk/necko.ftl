@@ -11,6 +11,7 @@ network-connection-status-connected = …{ $host } ਨਾਲ ਕਨੈਕਟ ਹ
 network-connection-status-sending-request = …{ $host } ਲਈ ਮੰਗ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 network-connection-status-transferring-data = …{ $host } ਤੋਂ ਡਾਟਾ ਟਰਾਂਸਫਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 network-connection-status-connecting = …{ $host } ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+network-connection-status-read = { $host } ਨੂੰ ਪੜ੍ਹਿਆ
 network-connection-status-wrote = { $host } ਨੂੰ ਲਿਖਿਆ
 network-connection-status-waiting = …{ $host } ਲਈ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 network-connection-status-looked-up = …{ $host } ਨੂੰ ਲੱਭਿਆ ਗਿਆ
