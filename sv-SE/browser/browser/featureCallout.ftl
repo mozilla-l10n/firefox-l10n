@@ -75,8 +75,10 @@ sidebar-callout-survey-satisfied = Nöjd
 sidebar-callout-survey-neutral = Neutral
 sidebar-callout-survey-dissatisfied = Missnöjd
 sidebar-callout-survey-very-dissatisfied = Väldigt missnöjd
-sidebar-callout-survey-dont-use-it = Jag använder den inte
-sidebar-callout-survey-productive-question = I vilken utsträckning håller eller avviker du med påståendet:<br/> "Sidofältet i { -brand-short-name } hjälper mig att bli mer produktiv"?
+sidebar-callout-survey-dont-use-it = Jag använder inte sidofältet
+sidebar-callout-survey-productive-question =
+    I vilken utsträckning håller du med eller håller inte med om detta påstående:<br/>
+    "Sidofältet i { -brand-short-name } hjälper mig att bli mer produktiv"?
 sidebar-callout-survey-strongly-agree = Instämmer fullständigt
 sidebar-callout-survey-agree = Håller med
 sidebar-callout-survey-disagree = Håller inte med
@@ -89,4 +91,4 @@ sidebar-callout-survey-none-of-above = Inget av ovanstående
 sidebar-callout-survey-submit = Skicka in
 sidebar-callout-survey-thank-you = Tack för din feedback!
 sidebar-genai-survey-satisfaction-question = Hur nöjd är du med att ha tillgång till en AI-chatbot i sidofältet?
-sidebar-genai-survey-productive-question = I vilken utsträckning håller du eller håller du med om påståendet:<br/> "AI-chatboten i sidofältet hjälper mig att bli mer produktiv"?
+sidebar-genai-survey-productive-question = I vilken utsträckning håller du med eller håller du inte med om påståendet:<br/> "AI-chatboten i sidofältet hjälper mig att bli mer produktiv"?
