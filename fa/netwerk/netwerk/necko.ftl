@@ -11,3 +11,4 @@ network-connection-status-connected = ‫اتصال با ‪{ $host }‬ برق�
 network-connection-status-sending-request = ‫در حال ارسال درخواست به ‪{ $host }‬…‬
 network-connection-status-transferring-data = ‫در حال انتقال داده‌ها از ‪{ $host }‬‬
 network-connection-status-connecting = ‫در حال برقراری اتصال با ‪{ $host }‬…‬
+network-connection-status-looked-up = ‫در حال پیدا کردن { $host }...
