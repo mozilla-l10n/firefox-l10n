@@ -115,7 +115,13 @@ certerror-mitm-title = Un logiciel empêche { -brand-short-name } de se connecte
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = Attention : risque de sécurité
+fp-certerror-body-title = Faites preuve de prudence, il semble y avoir un problème.
+fp-certerror-why-site-dangerous = Pourquoi ce site semble-t-il dangereux ?
+fp-certerror-what-can-you-do = Que pouvez-vous faire ?
+fp-certerror-advanced-title = Avancé
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Continuer vers { $hostname } (risqué)
+fp-certerror-expired-into = { -brand-short-name } a détecté un problème de sécurité avec <strong>{ $hostname }</strong>. Soit le site n’est pas correctement configuré, soit l’horloge de votre appareil est mal réglée.

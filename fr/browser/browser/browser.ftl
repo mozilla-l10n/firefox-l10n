@@ -641,6 +641,9 @@ urlbar-searchmode-popup-search-settings = Paramètres de recherche
 urlbar-searchmode-button2 =
     .label = { $engine }, sélectionner un moteur de recherche
     .tooltiptext = { $engine }, sélectionner un moteur de recherche
+urlbar-searchmode-button-no-engine =
+    .label = Aucun raccourci sélectionné, choisissez un raccourci
+    .tooltiptext = Aucun raccourci sélectionné, choisissez un raccourci
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
