@@ -10,7 +10,7 @@ genai-settings-chat-choose = Изабери чет-бота
 genai-settings-chat-choose-one-menuitem =
     .label = Изабери једног
 genai-settings-chat-links = Када одаберете чет-бота, прихватате услове коришћења и политику приватности достављача услуге.
-genai-settings-chat-chatgpt-links = Одабиром ChatGPT-a, слажете се са <a data-l10n-name="terms">OpenAI правилима коришћења</a> и <a data-l10n-name="privacy">политиком приватности</a>.
+genai-settings-chat-chatgpt-links = Одабиром ChatGPT-a, слажете се са <a data-l10n-name="link1">OpenAI правилима коришћења</a> и <a data-l10n-name="link2">политиком приватности</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
