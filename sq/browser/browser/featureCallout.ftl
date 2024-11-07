@@ -59,3 +59,8 @@ split-dismiss-button-dont-show-option-label = Mos e shfaq më këtë rekomandim
 split-dismiss-button-show-fewer-option-label = Shfaq më pak rekomandime
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Administroni rregullime
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Shfaq te anështylla tituj skedash
+sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.

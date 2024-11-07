@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Veprime faqeje
 urlbar-revert-button =
     .tooltiptext = Shfaqe adresën te Shtylla e Vendndodhjeve
-urlbar-show-page-actions-button =
-    .tooltiptext = Shfaqi krejt veprimet për faqen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Kërkoni me { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Kërkoni me { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, Zgjidhni një Motor Kërkimesh
-    .tooltiptext = { $engine }, Zgjidhni një Motor Kërkimesh
 urlbar-searchmode-dropmarker =
     .tooltiptext = Zgjidhni një Motor Kërkimesh
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Mbylle
 urlbar-searchmode-popup-description = Këtë herë kërko me:
 urlbar-searchmode-popup-search-settings = Parametra Kërkimi
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, zgjidhni një motor kërkimesh
+    .tooltiptext = { $engine }, zgjidhni një motor kërkimesh
+urlbar-searchmode-button-no-engine =
+    .label = S’u përzgjodh shkurtore, zgjidhni një shkurtore
+    .tooltiptext = S’u përzgjodh shkurtore, zgjidhni një shkurtore
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,6 +963,9 @@ data-reporting-notification-button =
     .accesskey = Z
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Shfletim privat
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Shfletim privat
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
