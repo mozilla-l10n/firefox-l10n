@@ -14,3 +14,4 @@ network-connection-status-connecting = { $host } এর সাথে সংয�
 network-connection-status-read = { $host } পড়ুন
 network-connection-status-wrote = { $host } লেখা হয়েছে
 network-connection-status-waiting = { $host } এর জন্য অপেক্ষা করা হচ্ছে…
+network-connection-status-looked-up = { $host } অনুসন্ধান করা হয়েছে…
