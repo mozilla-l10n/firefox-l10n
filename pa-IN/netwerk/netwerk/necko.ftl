@@ -7,3 +7,6 @@
 ##   $host (String): A website host address
 
 network-connection-status-looking-up = …{ $host } ਦੀ ਖੋਜ ਜਾਰੀ ਹੈ
+network-connection-status-wrote = { $host } ਨੂੰ ਲਿਖਿਆ
+network-connection-status-waiting = …{ $host } ਲਈ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+network-connection-status-looked-up = …{ $host } ਨੂੰ ਲੱਭਿਆ ਗਿਆ
