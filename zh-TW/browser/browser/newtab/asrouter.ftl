@@ -313,3 +313,17 @@ fxa-menu-message-backup-sync-collapsed-text = 同步並備份資料
 fxa-menu-message-mobile-primary-text = 傳送分頁到手機
 fxa-menu-message-mobile-secondary-text = 將分頁同步到行動裝置上後，就可以從中斷的地方立即繼續瀏覽。
 fxa-menu-message-mobile-collapsed-text = 與手機同步
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = 歡迎回來
+multi-cta-fox-doodle-set-default-checkbox = 將 { -brand-short-name } 設為預設瀏覽器
+multi-cta-fox-doodle-pin-startmenu-checkbox = 將 { -brand-short-name } 釘選到開始選單
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 放置於 Dock
+       *[other] 將 { -brand-short-name } 釘選到工具列
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = 開始上網
+multi-cta-fox-doodle-main-browser-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
+multi-cta-fox-doodle-quick-reminder-subtitle = 小提醒：您可以把最愛的隱私保護瀏覽器釘選起來，點一下即可開啟。

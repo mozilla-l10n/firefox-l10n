@@ -88,3 +88,5 @@ sidebar-callout-survey-saved-websites = 快速開啟任何曾經儲存過的網�
 sidebar-callout-survey-none-of-above = 以上皆非
 sidebar-callout-survey-submit = 送出
 sidebar-callout-survey-thank-you = 感謝您的意見回饋！
+sidebar-genai-survey-satisfaction-question = 您對在側邊欄中能夠直接使用 AI 聊天機器人的功能，有多滿意？
+sidebar-genai-survey-productive-question = 您對下面的描述有多同意：<br/>「側邊欄中的 AI 聊天機器人讓我更有生產力」

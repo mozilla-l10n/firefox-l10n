@@ -8,6 +8,9 @@
 newtab-page-title = 新分頁
 newtab-settings-button =
     .title = 自訂您的新分頁頁面
+newtab-personalize-settings-icon-label =
+    .title = 個人化新分頁
+    .aria-label = 設定
 newtab-settings-dialog-label =
     .aria-label = 設定
 newtab-personalize-icon-label =
