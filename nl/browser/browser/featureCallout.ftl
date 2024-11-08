@@ -86,3 +86,11 @@ sidebar-callout-survey-strongly-disagree = Sterk oneens
 sidebar-callout-survey-features-question = Hieronder volgen mogelijke functies in de zijbalk. Welke zou uw productiviteit in { -brand-short-name } het meest verbeteren?
 sidebar-callout-survey-split-view = Twee willekeurige websites tegelijk bekijken, in een gesplitste weergave naast elkaar
 sidebar-callout-survey-keep-website-open = Een website, zoals e-mail of agenda, open houden in de zijbalk terwijl u surft
+sidebar-callout-survey-saved-websites = Snelle toegang tot al uw opgeslagen websites
+sidebar-callout-survey-none-of-above = Geen van bovenstaande
+sidebar-callout-survey-submit = Indienen
+sidebar-callout-survey-thank-you = Bedankt voor uw feedback!
+sidebar-genai-survey-satisfaction-question = Hoe tevreden bent u met toegang tot een AI-chatbot in de zijbalk?
+sidebar-genai-survey-productive-question =
+    In welke mate bent u het eens of oneens met deze stelling:<br/>
+    ‘De AI-chatbot in de zijbalk helpt me productiever te zijn’?
