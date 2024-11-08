@@ -328,3 +328,22 @@ fxa-menu-message-backup-sync-collapsed-text = Cydweddu a chadw data
 fxa-menu-message-mobile-primary-text = Anfon tabiau i'ch ffôn
 fxa-menu-message-mobile-secondary-text = Dechreuwch eto'n union lle'r oeddech chi wedi gorffen pan fyddwch yn cydweddu'ch tabiau â dyfais symudol.
 fxa-menu-message-mobile-collapsed-text = Cydweddwch gyda'ch ffôn
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Croeso nôl
+multi-cta-fox-doodle-set-default-checkbox = Gosod { -brand-short-name } i'r rhagosodedig
+multi-cta-fox-doodle-pin-startmenu-checkbox = Pinio { -brand-short-name } i'ch dewislen Cychwyn
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Caddw { -brand-short-name } yn y Doc
+       *[other] Pinio { -brand-short-name } i'r bar tasgau
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Cychwyn pori
+multi-cta-fox-doodle-main-browser-primary-button-label = Gwneud { -brand-short-name } fy mrhif borwr
+multi-cta-fox-doodle-quick-reminder-subtitle = Dyma neges atgoffa cyflym y gallwch chi gadw'ch hoff borwr annibynnol dim ond un clic i ffwrdd.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Cadwch eich hoff borwr sy'n canolbwyntio ar breifatrwydd dim ond un clic i ffwrdd. Gosod { -brand-short-name } fel eich porwr rhagosodedig ar gyfer agor dolenni a'i binio i'ch Doc
+       *[other] Cadwch eich hoff borwr sy'n canolbwyntio ar breifatrwydd dim ond un clic i ffwrdd. Gosod { -brand-short-name } fel eich porwr rhagosodedig ar gyfer agor dolenni a'i binio i'ch bar tasgau.
+    }

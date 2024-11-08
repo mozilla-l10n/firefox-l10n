@@ -64,3 +64,33 @@ split-dismiss-button-manage-settings-option-label = Rheoli gosodiadau
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
 sidebar-button-callout-subtitle = Defnyddiwch y botwm bar ochr i ehangu'r bar ochr, fel y gallwch weld teitlau tab.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Helpwch i wella { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Pa mor fodlon ydych chi gyda phrofiad y bar ochr yn { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Hysbysiad Preifatrwydd
+sidebar-callout-survey-very-satisfied = Bodlon iawn
+sidebar-callout-survey-satisfied = Bodlon
+sidebar-callout-survey-neutral = Niwtral
+sidebar-callout-survey-dissatisfied = Anfodlon
+sidebar-callout-survey-very-dissatisfied = Anfodlon iawn
+sidebar-callout-survey-dont-use-it = Dydw i ddim yn ei ddefnyddio
+sidebar-callout-survey-productive-question =
+    I ba raddau ydych chi'n cytuno neu'n anghytuno â'r gosodiad hwn:<br/>
+    “Mae bar ochr { -brand-short-name } yn fy helpu i fod yn fwy cynhyrchiol”?
+sidebar-callout-survey-strongly-agree = Cytuno'n Gryf
+sidebar-callout-survey-agree = Cytuno
+sidebar-callout-survey-disagree = Anghytuno
+sidebar-callout-survey-strongly-disagree = Anghytuno'n gryf
+sidebar-callout-survey-features-question = Mae'r canlynol yn nodweddion bar ochr posibl. Pa un fyddai'n gwella eich cynhyrchiant yn { -brand-short-name } fwyaf?
+sidebar-callout-survey-split-view = Gweld unrhyw ddwy wefan ar unwaith, mewn golwg hollt ochr yn ochr
+sidebar-callout-survey-keep-website-open = Cadw gwefan, fel e-bost neu galendr, ar agor yn y bar ochr wrth i chi bori
+sidebar-callout-survey-saved-websites = Mynediad cyflym i'ch holl wefannau sydd wedi'u cadw
+sidebar-callout-survey-none-of-above = Dim un o'r uchod
+sidebar-callout-survey-submit = Cyflwyno
+sidebar-callout-survey-thank-you = Diolch am eich adborth!
+sidebar-genai-survey-satisfaction-question = Pa mor fodlon ydych chi ar gael mynediad at sgwrsfot AI yn y bar ochr?
+sidebar-genai-survey-productive-question =
+    I ba raddau ydych chi'n cytuno neu'n anghytuno â'r gosodiad hwn:<br/>
+    “Mae'r sgwrsfot AI yn y bar ochr yn fy helpu i fod yn fwy cynhyrchiol”?
