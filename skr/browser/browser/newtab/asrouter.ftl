@@ -287,6 +287,8 @@ tail-fox-spotlight-secondary-button = ہݨ کائناں
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong> { -brand-short-name } دے پراݨے ورژناں کوں 14 جنوری 2025 کنوں شروع تھیوݨ وچ مسئلے تھی سڳدن۔</strong>
+root-certificate-succession-infobar-march-message = <strong> 14 مارچ 2025 دے بعد { -brand-short-name } ورتݨ جاری رکھݨ کیتے اپ ڈیٹ کرو۔</strong>
 root-certificate-succession-infobar-link = میکوں اپ ڈیٹ کرݨ دی لوڑ کیوں ہے؟
 root-certificate-succession-infobar-primary-button =
     .label = ہݨ ابڈیٹ کرو
@@ -304,10 +306,12 @@ fxa-menu-message-sign-up-button = سائن اپ
 fxa-menu-message-sync-devices-primary-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
 fxa-menu-message-sync-devices-collapsed-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
 fxa-menu-message-backup-data-primary-text = آپݨے براؤزر ڈیٹا دا بیک اپ گھنو
+fxa-menu-message-backup-data-secondary-text = آپݨیاں ساریاں ڈیوائساں تے نشانیاں، پاس ورڈ، تے ٻیاں معلومات دی خودکار حفاظت کرو۔
 fxa-menu-message-backup-data-collapsed-text = براؤزر ڈیٹا دا بیک اپ گھنو
 fxa-menu-message-backup-sync-primary-text = آپݨاں ڈیٹا محفوظ تے ہم وقت تھیا رکھو
 fxa-menu-message-backup-sync-collapsed-text = ڈیٹا ہم وقت کرو تے بیک اپ کرو
 fxa-menu-message-mobile-primary-text = آپݨے فون تے ٹیباں بھیڄو
+fxa-menu-message-mobile-secondary-text = جہڑے ویلے تساں موبائل ڈیوائس نال آپݨے ٹیباں ہم وقت کریندے ہو تاں اتھاہوں شروع کرو جتھوں تساں چھوڑیا ہائی۔
 fxa-menu-message-mobile-collapsed-text = آپݨے فون نال ہم وقت کرو
 
 ## Multi-CTA Fox Doodle Spotlight

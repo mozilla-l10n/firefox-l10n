@@ -8,6 +8,8 @@
 newtab-page-title = نواں ٹیب
 newtab-settings-button =
     .title = اپݨے نویں ٹیب دے صفحہ دی تخصیص کرو
+newtab-settings-dialog-label =
+    .aria-label = ترتیباں
 newtab-personalize-icon-label =
     .title = نویں ٹیب کوں ذاتی بݨاؤ
     .aria-label = نویں ٹیب کوں ذاتی بݨاؤ
@@ -111,6 +113,7 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } تے ہتھیکڑا کرو
 newtab-menu-delete-pocket = { -pocket-brand-name } کنوں مٹاؤ
 newtab-menu-archive-pocket = { -pocket-brand-name } وِچ سوگھا کرو
 newtab-menu-show-privacy-info = ساݙے سپانسر تے تہاݙی رازداری
+newtab-menu-about-fakespot = { -fakespot-brand-name } بارے
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
