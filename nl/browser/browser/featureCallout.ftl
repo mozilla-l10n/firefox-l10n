@@ -64,3 +64,25 @@ split-dismiss-button-manage-settings-option-label = Instellingen beheren
 
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
 sidebar-button-callout-subtitle = Gebruik de zijbalkknop om de zijbalk uit te vouwen, zodat u tabbladtitels kunt zien.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Help { -brand-short-name } te verbeteren
+sidebar-callout-survey-satisfaction-question = Hoe tevreden bent u met de zijbalkervaring in { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Privacyverklaring
+sidebar-callout-survey-very-satisfied = Zeer tevreden
+sidebar-callout-survey-satisfied = Tevreden
+sidebar-callout-survey-neutral = Gemiddeld
+sidebar-callout-survey-dissatisfied = Ontevreden
+sidebar-callout-survey-very-dissatisfied = Zeer ontevreden
+sidebar-callout-survey-dont-use-it = Ik gebruik het niet
+sidebar-callout-survey-productive-question =
+    In welke mate bent u het eens of oneens met deze stelling:<br/>
+    ‘De { -brand-short-name }-zijbalk helpt me productiever te zijn’?
+sidebar-callout-survey-strongly-agree = Sterk eens
+sidebar-callout-survey-agree = Eens
+sidebar-callout-survey-disagree = Oneens
+sidebar-callout-survey-strongly-disagree = Sterk oneens
+sidebar-callout-survey-features-question = Hieronder volgen mogelijke functies in de zijbalk. Welke zou uw productiviteit in { -brand-short-name } het meest verbeteren?
+sidebar-callout-survey-split-view = Twee willekeurige websites tegelijk bekijken, in een gesplitste weergave naast elkaar
+sidebar-callout-survey-keep-website-open = Een website, zoals e-mail of agenda, open houden in de zijbalk terwijl u surft
