@@ -288,6 +288,6 @@ appmenu-other-profiles = ٻیاں پروفائلاں
 appmenu-manage-profiles =
     .label = پروفائلاں منیج کرو
 appmenu-create-profile =
-    .label = نویں پروفائ
+    .label = نویں پروفائل
 appmenu-edit-profile =
     .aria-label = پروفائل وچ تبدیلی کرو
