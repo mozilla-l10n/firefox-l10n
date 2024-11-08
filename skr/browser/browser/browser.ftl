@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = عملاں دا ورقہ
 urlbar-revert-button =
     .tooltiptext = لوکیشن بار وِچ  پتے ݙکھاؤ
-urlbar-show-page-actions-button =
-    .tooltiptext = سارے ورقہ عمل ݙکھاؤ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -957,6 +955,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = نجی براؤزنگ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = نجی براؤزنگ
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

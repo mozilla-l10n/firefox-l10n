@@ -326,3 +326,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = براؤزنگ شروع کرو
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } کوں میݙا اصلی براؤزر بݨاؤ
+multi-cta-fox-doodle-quick-reminder-subtitle = اِتھ ہک فوری یاد دہانی ہے جو تساں آپݨے پسندیدہ رازداری مرکوز براؤزر کوں صرف ہک کلک دی دوری تے رکھ سڳدے ہو۔

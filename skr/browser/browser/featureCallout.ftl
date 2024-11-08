@@ -64,7 +64,16 @@ split-dismiss-button-manage-settings-option-label = ترتیباں دا بندو
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-privacy-notice-link = رازداری نوٹس
+sidebar-callout-survey-very-satisfied = ݙاڈھا تسلی بخش
+sidebar-callout-survey-satisfied = تسلی بخش
+sidebar-callout-survey-neutral = غیر جانبدار
+sidebar-callout-survey-dissatisfied = غیر تسلی بخش
+sidebar-callout-survey-very-dissatisfied = ݙاڈھا غیرتسلی بخش
+sidebar-callout-survey-dont-use-it = میں ایں کوں کائنی ورتیندا
 sidebar-callout-survey-strongly-agree = ݙاڈھا متفق
 sidebar-callout-survey-agree = متفق
 sidebar-callout-survey-disagree = اختلاف
 sidebar-callout-survey-strongly-disagree = ݙاڈھا اختلاف
+sidebar-callout-survey-submit = جمع کرواؤ
+sidebar-callout-survey-thank-you = تہاݙے فیڈبیک تے تھورائت ہیں!
