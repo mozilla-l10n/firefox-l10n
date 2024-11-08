@@ -145,3 +145,4 @@ fp-certerror-hide-advanced-button = Rozšěrjene schować
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Dale k { $hostname } (riskantny)
+fp-certerror-intro = { -brand-short-name } potencielnje ćežki wěstotny problem z <strong>{ $hostname }</strong> wotkry. Něchtó, kotryž twjerdźi, zo tute sydło wěcy kaž informacije krednitnych kartow, hesła abo e-mejlowe adresy kradnje.
