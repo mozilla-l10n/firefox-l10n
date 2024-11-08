@@ -8,6 +8,11 @@
 newtab-page-title = Yeni Sekme
 newtab-settings-button =
     .title = Yeni Sekme sayfanızı özelleştirin
+newtab-personalize-settings-icon-label =
+    .title = Yeni sekmeyi kişiselleştir
+    .aria-label = Ayarlar
+newtab-settings-dialog-label =
+    .aria-label = Ayarlar
 newtab-personalize-icon-label =
     .title = Yeni sekmeyi kişiselleştir
     .aria-label = Yeni sekmeyi kişiselleştir
