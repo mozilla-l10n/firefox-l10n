@@ -313,3 +313,23 @@ fxa-menu-message-backup-sync-collapsed-text = Đồng bộ hóa và sao lưu d�
 fxa-menu-message-mobile-primary-text = Gửi các thẻ đến điện thoại của bạn
 fxa-menu-message-mobile-secondary-text = Tiếp tục nơi bạn đã dừng lại ngay lập tức khi bạn đồng bộ hóa các thẻ của mình với thiết bị di động.
 fxa-menu-message-mobile-collapsed-text = Đồng bộ hóa với điện thoại của bạn
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Chào mừng bạn trở lại
+multi-cta-fox-doodle-set-default-checkbox = Đặt { -brand-short-name } làm trình duyệt mặc định
+multi-cta-fox-doodle-pin-startmenu-checkbox = Ghim { -brand-short-name } vào Start menu
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Giữ { -brand-short-name } trên Dock
+       *[other] Ghim { -brand-short-name } vào thanh tác vụ
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Bắt đầu duyệt web
+multi-cta-fox-doodle-main-browser-primary-button-label = Đặt { -brand-short-name } làm trình duyệt chính của tôi
+multi-cta-fox-doodle-quick-reminder-subtitle = Dưới đây là lời nhắc nhanh rằng bạn có thể giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột. Đặt { -brand-short-name } làm trình duyệt mặc định để mở liên kết và giữ nó trong Dock của bạn.
+       *[other] Giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột. Đặt { -brand-short-name } làm trình duyệt mặc định để mở các liên kết và ghim nó vào thanh tác vụ của bạn.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột. Đặt { -brand-short-name } làm trình duyệt mặc định để mở các liên kết và ghim nó vào thanh tác vụ và Start menu của bạn.

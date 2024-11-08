@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Chọn hồ sơ người dùng
 profile-window-heading = Chọn một hồ sơ { -brand-short-name }
 profile-window-body = Giữ công việc và duyệt web cá nhân của bạn, bao gồm những thứ như mật khẩu và dấu trang, hoàn toàn tách biệt. Hoặc tạo hồ sơ cho tất cả những người sử dụng thiết bị này.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Hiển thị điều này khi { -brand-short-name } mở
 profile-window-create-profile = Tạo hồ sơ
@@ -41,19 +41,24 @@ delete-profile-page-title = Xoá hồ sơ { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Xoá hồ sơ { $profilename }?
 delete-profile-description = { -brand-short-name } sẽ xóa vĩnh viễn dữ liệu sau khỏi thiết bị này:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Cửa sổ đang mở
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Thẻ đang mở
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Dấu trang
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Lịch sử (các trang đã truy cập, cookie, dữ liệu trang web)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Tự động điền dữ liệu (địa chỉ, phương thức thanh toán)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Mật khẩu
 # Button label
 delete-profile-cancel = Hủy bỏ
 # Button label
 delete-profile-confirm = Xóa
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# The default light theme
+profiles-light-theme = Sáng
+# The default dark theme
+profiles-dark-theme = Tối
+# The default system theme
+profiles-system-theme = Hệ thống
