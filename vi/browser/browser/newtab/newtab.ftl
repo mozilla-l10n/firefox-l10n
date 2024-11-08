@@ -8,6 +8,11 @@
 newtab-page-title = Thẻ mới
 newtab-settings-button =
     .title = Tùy biến trang thẻ mới
+newtab-personalize-settings-icon-label =
+    .title = Cá nhân hóa thẻ mới
+    .aria-label = Cài đặt
+newtab-settings-dialog-label =
+    .aria-label = Cài đặt
 newtab-personalize-icon-label =
     .title = Cá nhân hóa thẻ mới
     .aria-label = Cá nhân hóa thẻ mới
