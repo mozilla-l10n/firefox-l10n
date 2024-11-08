@@ -245,6 +245,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Эҷод карда
 device-migration-fxa-spotlight-getting-new-device-header-2 = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ҳангоми оғози кор бо дастгоҳи нав шумо метавонед бо иҷро кардани якчанд қадами одӣ ҳамаи хатбаракҳо, таърих ва ниҳонвожаҳои худро ба браузери нав бурда расонед.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
+device-migration-fxa-spotlight-sync-header = Ҳатто як сонияро аз даст надода, Интернетро истифода баред
+device-migration-fxa-spotlight-sync-body = Ҳамаи маълумоти муҳими худро бо рамзгузорӣ ҳамоҳанг созед - масалан, хатбаракҳо ва ниҳонвожаҳо. Дар ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, шумо метавонед ҳар гуна маводро ба даст оред.
 device-migration-fxa-spotlight-sync-primary-button = Оғози кор
 
 ## Set as Default PDF Reader Infobar
@@ -306,3 +308,6 @@ fxa-menu-message-backup-data-collapsed-text = Сохтани нусхаи эҳт
 fxa-menu-message-backup-sync-collapsed-text = Ҳамоҳангсозӣ ва сохтани нусхаи эҳтиётии маълумот
 fxa-menu-message-mobile-primary-text = Варақаҳоро ба талефони худ фиристонед
 fxa-menu-message-mobile-collapsed-text = Бо телефони худ ҳамоҳанг созед
+
+## Multi-CTA Fox Doodle Spotlight
+
