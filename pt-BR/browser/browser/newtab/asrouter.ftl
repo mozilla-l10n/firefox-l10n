@@ -305,6 +305,7 @@ fxa-menu-message-close-button =
     .aria-label = Fechar
 fxa-menu-message-sign-up-button = Criar uma conta
 fxa-menu-message-sync-devices-primary-text = Sincronize todos os seus dispositivos
+fxa-menu-message-sync-devices-secondary-text = Acesse imediatamente suas informações, como favoritos e senhas, onde quer que use o { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize todos os seus dispositivos
 fxa-menu-message-backup-data-primary-text = Faça backup dos dados do seu navegador
 fxa-menu-message-backup-data-secondary-text = Proteja automaticamente favoritos, senhas e outras informações em todos os seus dispositivos.
@@ -315,3 +316,16 @@ fxa-menu-message-backup-sync-collapsed-text = Sincronizar e fazer backup de dado
 fxa-menu-message-mobile-primary-text = Envie abas para seu celular
 fxa-menu-message-mobile-secondary-text = Continue de onde parou num instante ao ter suas abas sincronizadas com um dispositivo móvel.
 fxa-menu-message-mobile-collapsed-text = Sincronizar com celular
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Bom ter você de volta
+multi-cta-fox-doodle-set-default-checkbox = Definir o { -brand-short-name } como padrão
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar o { -brand-short-name } no menu Iniciar
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Manter { -brand-short-name } no Dock
+       *[other] Fixar o { -brand-short-name } na barra de tarefas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Iniciar navegação
+multi-cta-fox-doodle-main-browser-primary-button-label = Tornar o { -brand-short-name } meu navegador principal

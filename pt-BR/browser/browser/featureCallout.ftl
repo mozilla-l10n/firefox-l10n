@@ -85,3 +85,11 @@ sidebar-callout-survey-disagree = Discordo
 sidebar-callout-survey-strongly-disagree = Discordo totalmente
 sidebar-callout-survey-features-question = Dentre os seguintes potenciais recursos do painel lateral, qual poderia melhorar mais sua produtividade no { -brand-short-name }?
 sidebar-callout-survey-split-view = Ver dois sites ao mesmo tempo, dividindo a janela lado a lado
+sidebar-callout-survey-keep-website-open = Manter um site, como de email ou agenda, aberto no painel lateral enquanto você navega em outros sites
+sidebar-callout-survey-none-of-above = Nenhuma das opções acima
+sidebar-callout-survey-submit = Enviar
+sidebar-callout-survey-thank-you = Obrigado por sua opinião!
+sidebar-genai-survey-satisfaction-question = Qual é seu nível de satisfação em ter acesso a um chatbot de inteligência artificial no painel lateral?
+sidebar-genai-survey-productive-question =
+    Até que ponto você concorda ou discorda com esta declaração?<br/>
+    “O chatbot de inteligência artificial no painel lateral me ajuda a ser mais produtivo”
