@@ -247,6 +247,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = تہاݙے مستق
 device-migration-fxa-spotlight-getting-new-device-body-2 = آپݨے بُک مارکس، ہسٹری، اَتے پاس ورڈز آپݨے نال گِھن آوݨ کِیتے کُجھ سَوکھے اقدامات اُتے عمل کرو جہڑیلے تُساں کئیں نویں ڈیوائس اُتے کم شروع کرو۔
 device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 device-migration-fxa-spotlight-sync-header = ہک دھڑکن وی چھوڑے بغیر براؤز کرو
+device-migration-fxa-spotlight-sync-body = آپݨیاں ساری اہم معلومات ـــــــ  مثلاً  نشانیاں تے پاس ورڈ کوں خفیہ کاری نال ہم وقت کرو۔ تساں جتھ وی { -brand-product-name } ورتیندے ہو، ہر شئے کوں اُتے چھک سڳدے ہو۔
 device-migration-fxa-spotlight-sync-primary-button = شروع کرو
 
 ## Set as Default PDF Reader Infobar
