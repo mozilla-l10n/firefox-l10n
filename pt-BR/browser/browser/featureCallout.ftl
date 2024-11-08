@@ -68,3 +68,19 @@ sidebar-button-callout-subtitle = Use o botão do painel lateral para expandir e
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ajude a melhorar o { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Qual é seu nível de satisfação com o painel lateral do { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Aviso de privacidade
+sidebar-callout-survey-very-satisfied = Muito satisfeito
+sidebar-callout-survey-satisfied = Satisfeito
+sidebar-callout-survey-neutral = Neutro
+sidebar-callout-survey-dissatisfied = Insatisfeito
+sidebar-callout-survey-very-dissatisfied = Muito insatisfeito
+sidebar-callout-survey-dont-use-it = Não uso
+sidebar-callout-survey-productive-question =
+    Até que ponto você concorda ou discorda com esta declaração?<br/>
+    “O painel lateral do { -brand-short-name } me ajuda a ser mais produtivo”
+sidebar-callout-survey-strongly-agree = Concordo plenamente
+sidebar-callout-survey-agree = Concordo
+sidebar-callout-survey-disagree = Discordo
+sidebar-callout-survey-strongly-disagree = Discordo totalmente
+sidebar-callout-survey-features-question = Dentre os seguintes potenciais recursos do painel lateral, qual poderia melhorar mais sua produtividade no { -brand-short-name }?
