@@ -64,3 +64,33 @@ split-dismiss-button-manage-settings-option-label = Beállítások kezelése
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
 sidebar-button-callout-subtitle = Az oldalsáv gombjával bontsa ki az oldalsávot, így a lapok címét is láthatja.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Segítsen a { -brand-short-name } fejlesztésében
+sidebar-callout-survey-satisfaction-question = Mennyire elégedett az oldalsávval kapcsolatos tapasztalatával a { -brand-short-name(case: "inessive") }?
+sidebar-callout-survey-privacy-notice-link = Adatvédelmi nyilatkozat
+sidebar-callout-survey-very-satisfied = Nagyon elégedett
+sidebar-callout-survey-satisfied = Elégedett
+sidebar-callout-survey-neutral = Semleges
+sidebar-callout-survey-dissatisfied = Elégedetlen
+sidebar-callout-survey-very-dissatisfied = Nagyon elégedetlen
+sidebar-callout-survey-dont-use-it = Nem használom
+sidebar-callout-survey-productive-question =
+    Mennyire ért egyet vagy nem ért egyet ezzel az állítással:<br/>
+    „A { -brand-short-name } oldalsáv segít abban, hogy hatékonyabb legyek”?
+sidebar-callout-survey-strongly-agree = Teljesen egyetért
+sidebar-callout-survey-agree = Egyetért
+sidebar-callout-survey-disagree = Nem ért egyet
+sidebar-callout-survey-strongly-disagree = Egyáltalán nem ért egyet
+sidebar-callout-survey-features-question = A következők lehetséges oldalsáv-funkciók. Melyik javítaná a leginkább a hatékonyságát a { -brand-short-name(case: "inessive") }?
+sidebar-callout-survey-split-view = Két weboldal megtekintése egyszerre, egymás melletti osztott nézetben
+sidebar-callout-survey-keep-website-open = Egy weboldal, például a levelezés vagy a naptár, maradjon nyitva böngészés közben az oldalsávon
+sidebar-callout-survey-saved-websites = Gyors hozzáférés az összes mentett weboldalhoz
+sidebar-callout-survey-none-of-above = A fentiek egyike sem
+sidebar-callout-survey-submit = Beküldés
+sidebar-callout-survey-thank-you = Köszönjük visszajelzését.
+sidebar-genai-survey-satisfaction-question = Mennyire elégedett azzal, hogy az oldalsávban hozzáfér egy MI csevegőbothoz?
+sidebar-genai-survey-productive-question =
+    Mennyire ért egyet vagy nem ért egyet ezzel az állítással:<br/>
+    „Az oldalsávban lévő MI csevegőbot segít abban, hogy hatékonyabb legyek”?

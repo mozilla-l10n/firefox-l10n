@@ -316,3 +316,23 @@ fxa-menu-message-backup-sync-collapsed-text = Adatok szinkronizálása és bizto
 fxa-menu-message-mobile-primary-text = Lapokat küld a telefonjára
 fxa-menu-message-mobile-secondary-text = Folytassa ott, ahol abbahagyta, ha szinkronizálja a lapjait egy mobileszközzel.
 fxa-menu-message-mobile-collapsed-text = Szinkronizáljon a telefonjával
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Üdvözöljük újra
+multi-cta-fox-doodle-set-default-checkbox = A { -brand-short-name } beállítása alapértelmezettként
+multi-cta-fox-doodle-pin-startmenu-checkbox = A { -brand-short-name } rögzítése a Start menüben
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] A { -brand-short-name } dokkban tartása
+       *[other] A { -brand-short-name } rögzítése a tálcára
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Böngészés megkezdése
+multi-cta-fox-doodle-main-browser-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
+multi-cta-fox-doodle-quick-reminder-subtitle = Itt egy gyors emlékeztető, hogy egyetlen kattintásnyira tudhatja kedvenc adatvédelem-központú böngészőjét.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és tartsa a dokkban.
+       *[other] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára és a Start menübe.
