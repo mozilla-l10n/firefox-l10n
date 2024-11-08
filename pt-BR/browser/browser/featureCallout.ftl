@@ -86,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = Discordo totalmente
 sidebar-callout-survey-features-question = Dentre os seguintes potenciais recursos do painel lateral, qual poderia melhorar mais sua produtividade no { -brand-short-name }?
 sidebar-callout-survey-split-view = Ver dois sites ao mesmo tempo, dividindo a janela lado a lado
 sidebar-callout-survey-keep-website-open = Manter um site, como de email ou agenda, aberto no painel lateral enquanto você navega em outros sites
+sidebar-callout-survey-saved-websites = Acessar rapidamente todos os seus sites salvos
 sidebar-callout-survey-none-of-above = Nenhuma das opções acima
 sidebar-callout-survey-submit = Enviar
 sidebar-callout-survey-thank-you = Obrigado por sua opinião!
