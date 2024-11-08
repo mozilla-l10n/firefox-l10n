@@ -167,3 +167,4 @@ fp-certerror-hide-advanced-button = Speciális lehetőségek elrejtése
 
 fp-certerror-override-exception-button = Tovább erre: { $hostname } (kockázatos)
 fp-certerror-intro = A { -brand-short-name } egy lehetséges komoly biztonsági problémát észlelt a(z) <strong>{ $hostname }</strong> webhelyen. Lehet, hogy valaki a webhelynek adja ki magát, és bankkártyaadatokat, jelszavakat vagy e-mail-címeket próbál ellopni.
+fp-certerror-expired-into = A { -brand-short-name } biztonsági problémát észlelt a(z) <strong>{ $hostname }</strong> webhelyen. A webhely nincs jól beállítva, vagy az eszköz órája hibás dátumra és időre van beállítva.

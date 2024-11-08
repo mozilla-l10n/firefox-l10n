@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = A kiszolgáló egy egész szám é
 mozilla-pkix-error-empty-issuer-name = A kiszolgáló által bemutatott tanúsítványban a kibocsátó megkülönböztető neve üres.
 mozilla-pkix-error-additional-policy-constraint-failed = Egy további házirendmegszorítás lett megsértve a tanúsítvány érvényesítésekor.
 mozilla-pkix-error-self-signed-cert = A tanúsítvány nem megbízható, mert a saját kibocsátója által van aláírva.
+mozilla-pkix-error-issuer-no-longer-trusted = A tanúsítványt kibocsátó hitelesítésszolgáltató a tanúsítvány kiadása előtt nem volt megbízható.
 xp-java-remove-principal-error = Nem sikerült eltávolítani az egyszerű nevet
 xp-java-delete-privilege-error = Nem sikerült törölni a jogosultságot
 xp-java-cert-not-exists-error = Ehhez az egyszerű névhez nem tartozik tanúsítvány
