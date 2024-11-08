@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Додаје чет-бота по вашем избору на бочну траку за брзи приступ док прегледате. <a data-l10n-name="connect">Пошаљи повратне податке</а>
+genai-settings-chat-description = Додаје чет-бота по вашем избору на бочну траку за брзи приступ док прегледате. <a data-l10n-name="connect">Пошаљи повратне податке</a>
 genai-settings-chat-choose = Изабери чет-бота
 genai-settings-chat-choose-one-menuitem =
     .label = Изабери једног
