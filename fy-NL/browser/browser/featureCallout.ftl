@@ -74,3 +74,12 @@ sidebar-callout-survey-very-satisfied = Hiel tefreden
 sidebar-callout-survey-satisfied = Tefreden
 sidebar-callout-survey-neutral = Gemiddeld
 sidebar-callout-survey-dissatisfied = Untefreden
+sidebar-callout-survey-very-dissatisfied = Hiel ûntefreden
+sidebar-callout-survey-dont-use-it = Ik brûk it net
+sidebar-callout-survey-productive-question =
+    Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
+    ‘De { -brand-short-name }-sidebalke helpt my produktiver te wêzen’?
+sidebar-callout-survey-strongly-agree = Beslist mei iens
+sidebar-callout-survey-agree = Iens
+sidebar-callout-survey-disagree = Net mei iens
+sidebar-callout-survey-strongly-disagree = Beslist net mei iens
