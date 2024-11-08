@@ -241,6 +241,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = יהיה לך מכ�
 device-migration-fxa-spotlight-getting-new-device-body-2 = בכמה צעדים פשוטים ניתן להביא איתך את הסימניות, ההיסטוריה והססמאות שלך בעת תחילת שימוש במכשיר חדש.
 device-migration-fxa-spotlight-getting-new-device-primary-button = כיצד לגבות את הנתונים שלי
 device-migration-fxa-spotlight-sync-header = גלישה בלי להחמיץ פעימה
+device-migration-fxa-spotlight-sync-body = סנכרון כל המידע החשוב לך עם הצפנה - כמו סימניות וססמאות. באפשרותך לשלוף הכל בכל מקום בו יש לך את { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = תחילת עבודה
 
 ## Set as Default PDF Reader Infobar
@@ -303,3 +304,6 @@ fxa-menu-message-backup-sync-collapsed-text = סנכרון וגיבוי נתונ
 fxa-menu-message-mobile-primary-text = שליחת לשוניות לטלפון שלך
 fxa-menu-message-mobile-secondary-text = להמשיך מאיפה שהפסקת באופן מיידי בעת סנכרון הלשוניות שלך עם מכשיר נייד.
 fxa-menu-message-mobile-collapsed-text = סנכרון עם הטלפון שלך
+
+## Multi-CTA Fox Doodle Spotlight
+

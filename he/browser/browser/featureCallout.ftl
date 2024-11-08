@@ -52,6 +52,7 @@ sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל ה
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-satisfaction-question = עד כמה הינך מרוצה מחווית סרגל הצד ב־{ -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = הצהרת פרטיות
 sidebar-callout-survey-very-satisfied = מאוד מרוצה
 sidebar-callout-survey-satisfied = מרוצה
@@ -59,3 +60,16 @@ sidebar-callout-survey-neutral = נטרלי
 sidebar-callout-survey-dissatisfied = לא מרוצה
 sidebar-callout-survey-very-dissatisfied = מאוד לא מרוצה
 sidebar-callout-survey-dont-use-it = אין לי שימוש בזה
+sidebar-callout-survey-productive-question =
+    באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
+    ״סרגל הצד של { -brand-short-name } מסייע לי להיות יותר פרודקטיבי״?
+sidebar-callout-survey-strongly-agree = נוטה להסכים מאוד
+sidebar-callout-survey-agree = נוטה להסכים
+sidebar-callout-survey-disagree = נוטה לא להסכים
+sidebar-callout-survey-strongly-disagree = נוטה לא להסכים מאוד
+sidebar-callout-survey-features-question = להלן אפשרויות פוטנציאליות של סרגל הצד. מה ישפר הכי הרבה את הפרודקטיביות שלך ב־{ -brand-short-name }?
+sidebar-callout-survey-split-view = הצגת שני אתרים בו זמנית, בתצוגה מפוצלת זה לצד זה
+sidebar-callout-survey-saved-websites = גישה מהירה לכל האתרים השמורים שלך
+sidebar-callout-survey-none-of-above = אף אחד מהאמור לעיל
+sidebar-callout-survey-submit = שליחה
+sidebar-callout-survey-thank-you = אנו מודים לך על המשוב שלך!
