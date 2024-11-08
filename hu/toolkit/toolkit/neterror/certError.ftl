@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = A tanúsítvány nem megbízhat�
 cert-error-trust-expired-issuer = A tanúsítvány nem megbízható, mert a kibocsátó tanúsítványa lejárt
 cert-error-trust-self-signed = A tanúsítvány nem megbízható, mert a saját kibocsátója által van aláírva.
 cert-error-trust-symantec = A GeoTrust, a RapidSSL, a Symantec, a Thawte és a VeriSign által kiadott tanúsítványok már nem minősülnek biztonságosnak, mert ezek a tanúsító hatóságok a múltban nem tartották be a biztonsági gyakorlatokat.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = A { -brand-short-name } nem bízik a(z) { $hostname } webhelyben, mert nem tudta bizonyítani, hogy megfelel a nyilvános tanúsítványok átláthatósági követelményeinek.
 cert-error-untrusted-default = A tanúsítvány nem megbízható forrásból érkezik.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -163,3 +166,4 @@ fp-certerror-hide-advanced-button = Speciális lehetőségek elrejtése
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Tovább erre: { $hostname } (kockázatos)
+fp-certerror-intro = A { -brand-short-name } egy lehetséges komoly biztonsági problémát észlelt a(z) <strong>{ $hostname }</strong> webhelyen. Lehet, hogy valaki a webhelynek adja ki magát, és bankkártyaadatokat, jelszavakat vagy e-mail-címeket próbál ellopni.
