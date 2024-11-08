@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Dewiswch Broffil Defnyddiwr
 profile-window-heading = Dewiswch broffil { -brand-short-name }
 profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fel cyfrineiriau a nodau tudalen, yn hollol ar wahân. Neu crëwch broffiliau ar gyfer pawb sy'n defnyddio'r ddyfais hon.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Dangoswch hwn pan fydd { -brand-short-name } yn agor
 profile-window-create-profile = Crëwch broffil
@@ -41,19 +41,22 @@ delete-profile-page-title = Dileu proffil { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Dileu proffil { $profilename }?
 delete-profile-description = Bydd { -brand-short-name } yn dileu'r data canlynol o'r ddyfais hon yn barhaol:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Agor ffenestri
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Agor tabiau
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Nodau Tudalen
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Hanes (tudalennau yr ymwelwyd â hwy, cwcis, data gwefan)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Awtolenwi data (cyfeiriadau, dulliau talu)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Cyfrineiriau
 # Button label
 delete-profile-cancel = Diddymu
 # Button label
 delete-profile-confirm = Dileu
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Blodyn Gwenyn
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Lafant

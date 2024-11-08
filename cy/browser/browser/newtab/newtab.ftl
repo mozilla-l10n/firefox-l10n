@@ -8,6 +8,11 @@
 newtab-page-title = Tab Newydd
 newtab-settings-button =
     .title = Cyfaddasu eich tudalen Tab Newydd
+newtab-personalize-settings-icon-label =
+    .title = Personoli Tab Newydd
+    .aria-label = Gosodiadau
+newtab-settings-dialog-label =
+    .aria-label = Gosodiadau
 newtab-personalize-icon-label =
     .title = Personoli tab newydd
     .aria-label = Personoli tab newydd
