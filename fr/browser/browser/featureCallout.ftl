@@ -64,3 +64,21 @@ split-dismiss-button-manage-settings-option-label = Gérer les paramètres
 
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral
 sidebar-button-callout-subtitle = Utilisez le bouton du panneau latéral pour développer le panneau latéral, afin de voir le titre des onglets.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Aidez à améliorer { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Êtes-vous satisfait·e du panneau latéral de { -brand-short-name } ?
+sidebar-callout-survey-privacy-notice-link = Politique de confidentialité
+sidebar-callout-survey-very-satisfied = Très satisfait·e
+sidebar-callout-survey-satisfied = Satisfait·e
+sidebar-callout-survey-neutral = Indifférent·e
+sidebar-callout-survey-dissatisfied = Insatisfait·e
+sidebar-callout-survey-very-dissatisfied = Très insatisfait·e
+sidebar-callout-survey-dont-use-it = Je ne l’utilise pas
+sidebar-callout-survey-strongly-agree = Tout à fait d’accord
+sidebar-callout-survey-agree = D’accord
+sidebar-callout-survey-disagree = Pas d’accord
+sidebar-callout-survey-strongly-disagree = Pas du tout d’accord
+sidebar-callout-survey-submit = Envoyer
+sidebar-callout-survey-thank-you = Merci de votre retour !
