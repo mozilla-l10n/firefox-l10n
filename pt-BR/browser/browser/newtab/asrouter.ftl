@@ -329,3 +329,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Iniciar navegação
 multi-cta-fox-doodle-main-browser-primary-button-label = Tornar o { -brand-short-name } meu navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Este é um lembrete rápido de que você pode ter seu navegador preferido, com foco em privacidade, a apenas um clique.
