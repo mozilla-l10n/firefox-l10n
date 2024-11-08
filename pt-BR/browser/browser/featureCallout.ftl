@@ -64,3 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gerenciar configurações
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
 sidebar-button-callout-subtitle = Use o botão do painel lateral para expandir e mostrar os títulos das abas.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Ajude a melhorar o { -brand-short-name }
