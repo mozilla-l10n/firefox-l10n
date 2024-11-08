@@ -8,6 +8,11 @@
 newtab-page-title = Nova aba
 newtab-settings-button =
     .title = Personalizar sua página de nova aba
+newtab-personalize-settings-icon-label =
+    .title = Personalizar página de nova aba
+    .aria-label = Configurações
+newtab-settings-dialog-label =
+    .aria-label = Configurações
 newtab-personalize-icon-label =
     .title = Personalizar página de nova aba
     .aria-label = Personalizar página de nova aba
