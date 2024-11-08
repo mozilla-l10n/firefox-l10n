@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } فیصد مکمل
 firefoxview-tabpickup-step-signin-header = آلات دے درمیان بغیر کہیں رکاوٹ دے سوئچ کرو۔
 firefoxview-tabpickup-step-signin-description = اتھاں اپݨے فون دے ٹیبز حاصل کرݨ کیتے، پہلے سائن ان کرو یا ہک اکاؤنٹ بݨاؤ۔
 firefoxview-tabpickup-step-signin-primarybutton = جاری
+firefoxview-syncedtabs-signin-primarybutton-2 = سائن ان
 firefoxview-syncedtabs-signin-header = کِتھاؤں وی ٹیبز چِھک آؤ
 firefoxview-syncedtabs-signin-description = جِتُّھوں وی تُساں { -brand-product-name } ورتین٘دے ہِیوے اُتّھوں کنوں آپݨے ٹیبز ݙیکھݨ کِیتے، آپݨے اکاؤنٹ وِچ سائن اِن تھیوو۔ ڄیکر تُہاݙے کول اکاؤنٹ کائے نِھیں، تاں وَل اَساں تُہاکُوں سائن اَپ کرݨ کِیتے اقدامات کریسوں۔
 firefoxview-syncedtabs-signin-primarybutton = سائن ان یا سائن اپ
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } اپݨے فون
 firefoxview-tabpickup-adddevice-description = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرو تے اُتھاں سائن اِن تھیوو۔
 firefoxview-tabpickup-adddevice-learn-how = ڄاݨو کیویں
 firefoxview-tabpickup-adddevice-primarybutton = موبائل کیتے { -brand-product-name } حاصل کرو
+firefoxview-syncedtabs-adddevice-header-2 = کِتھاؤں وی ٹیبز چِھک آؤ
 firefoxview-syncedtabs-adddevice-header = آپݨیاں ٻیاں ݙیوائساں تے { -brand-product-name } وچ سائن ان تھیوو
 firefoxview-syncedtabs-adddevice-description = جِتُّھوں وی تُساں { -brand-product-name } ورتین٘دے ہِیوے اُتّھوں کنوں آپݨے ٹیبز ݙیکھݨ کِیتے، آپݨے سبھے آلات اُتے سائن اِن تھیوو۔ <a data-l10n-name="url">وادُھو آلات کوں جوڑݨ</a> دا طریقہ سِکّھو۔
 firefoxview-syncedtabs-adddevice-primarybutton = موبائل کیتے { -brand-product-name } ازماؤ

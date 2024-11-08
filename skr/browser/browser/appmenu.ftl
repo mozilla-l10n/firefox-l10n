@@ -284,3 +284,10 @@ appmenuitem-vpn-description = آپݨی رازداری دی راکھی کرو
 ## Profiles panel
 
 appmenu-profiles = پروفائلاں
+appmenu-other-profiles = ٻیاں پروفائلاں
+appmenu-manage-profiles =
+    .label = پروفائلاں منیج کرو
+appmenu-create-profile =
+    .label = نویں پروفائ
+appmenu-edit-profile =
+    .aria-label = پروفائل وچ تبدیلی کرو

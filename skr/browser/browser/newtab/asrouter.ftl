@@ -302,11 +302,23 @@ fxa-menu-message-close-button =
     .aria-label = بند کرو
 fxa-menu-message-sign-up-button = سائن اپ
 fxa-menu-message-sync-devices-primary-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
+fxa-menu-message-sync-devices-collapsed-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
+fxa-menu-message-backup-data-primary-text = آپݨے براؤزر ڈیٹا دا بیک اپ گھنو
+fxa-menu-message-backup-data-collapsed-text = براؤزر ڈیٹا دا بیک اپ گھنو
+fxa-menu-message-backup-sync-primary-text = آپݨاں ڈیٹا محفوظ تے ہم وقت تھیا رکھو
+fxa-menu-message-backup-sync-collapsed-text = ڈیٹا ہم وقت کرو تے بیک اپ کرو
+fxa-menu-message-mobile-primary-text = آپݨے فون تے ٹیباں بھیڄو
 fxa-menu-message-mobile-collapsed-text = آپݨے فون نال ہم وقت کرو
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = واپسی تے ست بسم اللہ
 multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } کوں اپݨاں طے شدہ مقرر کرو
+multi-cta-fox-doodle-pin-startmenu-checkbox = سٹارٹ مینیو تے { -brand-short-name } پن کرو
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ڈاک وچ رکھو
+       *[other] { -brand-short-name } ٹاسک بار تے پن کرو
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = براؤزنگ شروع کرو
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } کوں میݙا اصلی براؤزر بݨاؤ

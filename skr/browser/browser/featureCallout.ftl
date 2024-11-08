@@ -58,3 +58,13 @@ split-dismiss-button-dont-show-option-label = ایہ سفارش دوبارہ ن�
 split-dismiss-button-show-fewer-option-label = تھوڑیاں سفارشاں ݙکھاؤ
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ترتیباں دا بندوبست کرو
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-strongly-agree = ݙاڈھا متفق
+sidebar-callout-survey-agree = متفق
+sidebar-callout-survey-disagree = اختلاف
+sidebar-callout-survey-strongly-disagree = ݙاڈھا اختلاف
