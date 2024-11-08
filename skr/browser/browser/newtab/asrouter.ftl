@@ -246,6 +246,8 @@ device-migration-fxa-spotlight-older-device-primary-button = کھاتہ بݨاؤ
 device-migration-fxa-spotlight-getting-new-device-header-2 = تہاݙے مستقبل وچ نویں ڈیوائس؟
 device-migration-fxa-spotlight-getting-new-device-body-2 = آپݨے بُک مارکس، ہسٹری، اَتے پاس ورڈز آپݨے نال گِھن آوݨ کِیتے کُجھ سَوکھے اقدامات اُتے عمل کرو جہڑیلے تُساں کئیں نویں ڈیوائس اُتے کم شروع کرو۔
 device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
+device-migration-fxa-spotlight-sync-header = ہک دھڑکن وی چھوڑے بغیر براؤز کرو
+device-migration-fxa-spotlight-sync-primary-button = شروع کرو
 
 ## Set as Default PDF Reader Infobar
 
@@ -285,9 +287,26 @@ tail-fox-spotlight-secondary-button = ہݨ کائناں
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = میکوں اپ ڈیٹ کرݨ دی لوڑ کیوں ہے؟
 root-certificate-succession-infobar-primary-button =
     .label = ہݨ ابڈیٹ کرو
     .accesskey = U
 root-certificate-succession-infobar-secondary-button =
     .label = بعد وچ
     .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = بند کرو
+    .aria-label = بند کرو
+fxa-menu-message-sign-up-button = سائن اپ
+fxa-menu-message-sync-devices-primary-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
+fxa-menu-message-mobile-collapsed-text = آپݨے فون نال ہم وقت کرو
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = واپسی تے ست بسم اللہ
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } کوں اپݨاں طے شدہ مقرر کرو
+multi-cta-fox-doodle-start-browsing-primary-button-label = براؤزنگ شروع کرو
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } کوں میݙا اصلی براؤزر بݨاؤ
