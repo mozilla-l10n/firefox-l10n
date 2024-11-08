@@ -208,6 +208,9 @@ device-migration-fxa-spotlight-heavy-user-header = Не забравяйте д�
 device-migration-fxa-spotlight-heavy-user-primary-button = Първи стъпки
 device-migration-fxa-spotlight-older-device-primary-button = Създаване на профил
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как да архивирам данните си
+device-migration-fxa-spotlight-sync-header = Разглеждайте без да пропускате нищо
+device-migration-fxa-spotlight-sync-body = Синхронизирайте цялата си важна информация (като отметки и пароли) с шифроване. Впоследствие можете да изтеглите всичко и навсякъде където ползвате { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Започнете
 
 ## Set as Default PDF Reader Infobar
 
@@ -244,3 +247,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = По-късно
     .accesskey = к
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
