@@ -308,4 +308,18 @@ fxa-menu-message-sync-devices-secondary-text = Accédez instantanément à vos i
 fxa-menu-message-sync-devices-collapsed-text = Synchronisez tous vos appareils
 fxa-menu-message-backup-data-primary-text = Sauvegardez les données de votre navigateur
 fxa-menu-message-backup-data-secondary-text = Protégez automatiquement vos marque-pages, mots de passe et d’autres informations sur tous vos appareils.
+fxa-menu-message-backup-data-collapsed-text = Sauvegardez les données de votre navigateur
 fxa-menu-message-backup-sync-primary-text = Synchronisez et protégez vos données
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Heureux de vous revoir !
+multi-cta-fox-doodle-pin-startmenu-checkbox = Épingler { -brand-short-name } au menu Démarrer
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Garder { -brand-short-name } dans le Dock
+       *[other] Épingler { -brand-short-name } à la barre des tâches
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Commencer la navigation
+multi-cta-fox-doodle-main-browser-primary-button-label = Faire de { -brand-short-name } mon navigateur principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Nous voulions juste vous rappeler que vous pouvez garder votre navigateur préféré et respectueux de la vie privée à portée de clic.
