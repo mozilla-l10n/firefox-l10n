@@ -327,3 +327,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = 開始上網
 multi-cta-fox-doodle-main-browser-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
 multi-cta-fox-doodle-quick-reminder-subtitle = 小提醒：您可以把最愛的隱私保護瀏覽器釘選起來，點一下即可開啟。
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並放置於 Dock。
+       *[other] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列。
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列與開始選單。
