@@ -305,11 +305,13 @@ fxa-menu-message-close-button =
     .aria-label = Kapat
 fxa-menu-message-sign-up-button = Kaydol
 fxa-menu-message-sync-devices-primary-text = Tüm cihazlarınızı eşitleyin
+fxa-menu-message-sync-devices-secondary-text = Yer imlerinizi, parolalarınızı ve diğer bilgilerinizi { -brand-short-name } kullandığınız her yere götürün.
 fxa-menu-message-sync-devices-collapsed-text = Tüm cihazlarınızı eşitleyin
 fxa-menu-message-backup-data-primary-text = Tarayıcı verilerinizi yedekleyin
 fxa-menu-message-backup-data-secondary-text = Tüm cihazlarınızdaki yer imlerinizi, parolalarınızı ve diğer bilgileri otomatik olarak koruyun.
 fxa-menu-message-backup-data-collapsed-text = Tarayıcı verilerinizi yedekleyin
 fxa-menu-message-backup-sync-primary-text = Verilerinizi güvende ve eşitlenmiş tutun
+fxa-menu-message-backup-sync-secondary-text = Eşitleme özelliği verilerinizin çoğunu yedekler. Böylece { -brand-short-name } kullandığınız her yerden verilerinize erişebilirsiniz.
 fxa-menu-message-backup-sync-collapsed-text = Verileri eşitleyip yedekleyin
 fxa-menu-message-mobile-primary-text = Sekmeleri telefonunuza gönderin
 fxa-menu-message-mobile-secondary-text = Sekmelerinizi mobil cihazınızla eşitleyerek kaldığınız yerden devam edin.
@@ -318,3 +320,19 @@ fxa-menu-message-mobile-collapsed-text = Telefonunuzla eşitleyin
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Yeniden hoş geldiniz
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name } tarayıcısını Başlat menüsüne sabitle
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } tarayıcısını Dock’a sabitle
+       *[other] { -brand-short-name } tarayıcısını görev çubuğuna sabitle
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Gezinmeye başla
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } tarayıcısını ana tarayıcım yap
+multi-cta-fox-doodle-quick-reminder-subtitle = Küçük bir hatırlatma: En sevdiğiniz tarayıcınızı bir tık kadar yakınınızda tutabilirsiniz.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da Dock’a sabitleyin.
+       *[other] Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da görev çubuğunuza sabitleyin.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da görev çubuğunuza ve Başlat menünüze sabitleyin.
