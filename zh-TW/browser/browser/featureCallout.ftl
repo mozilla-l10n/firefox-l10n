@@ -64,3 +64,21 @@ split-dismiss-button-manage-settings-option-label = 管理設定
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
 sidebar-button-callout-subtitle = 使用側邊欄按鈕展開側邊欄，就可以看到分頁標題。
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = 協助改進 { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = 您對 { -brand-short-name } 當中的側邊欄功能使用體驗有多滿意？
+sidebar-callout-survey-privacy-notice-link = 隱私權保護政策
+sidebar-callout-survey-very-satisfied = 非常滿意
+sidebar-callout-survey-satisfied = 滿意
+sidebar-callout-survey-neutral = 普通
+sidebar-callout-survey-dissatisfied = 不滿意
+sidebar-callout-survey-very-dissatisfied = 非常不滿意
+sidebar-callout-survey-dont-use-it = 我沒有使用
+sidebar-callout-survey-productive-question = 您對下面的描述有多同意：<br/>「{ -brand-short-name } 的側邊欄讓我更有生產力」
+sidebar-callout-survey-strongly-agree = 非常同意
+sidebar-callout-survey-agree = 同意
+sidebar-callout-survey-disagree = 不同意
+sidebar-callout-survey-strongly-disagree = 非常不同意
+sidebar-callout-survey-features-question = 以下是側邊欄當中未來會有的功能。在 { -brand-short-name } 裡加入哪一項最能提高您的生產力？
