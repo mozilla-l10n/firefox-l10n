@@ -84,3 +84,4 @@ sidebar-callout-survey-agree = Concordo
 sidebar-callout-survey-disagree = Discordo
 sidebar-callout-survey-strongly-disagree = Discordo totalmente
 sidebar-callout-survey-features-question = Dentre os seguintes potenciais recursos do painel lateral, qual poderia melhorar mais sua produtividade no { -brand-short-name }?
+sidebar-callout-survey-split-view = Ver dois sites ao mesmo tempo, dividindo a janela lado a lado
