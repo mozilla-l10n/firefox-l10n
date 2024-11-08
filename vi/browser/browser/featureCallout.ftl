@@ -64,3 +64,33 @@ split-dismiss-button-manage-settings-option-label = Quản lý cài đặt
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
 sidebar-button-callout-subtitle = Sử dụng nút thanh lề để mở rộng thanh lề, để bạn có thể thấy tiêu đề thẻ.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Giúp cải thiện { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Bạn hài lòng đến mức nào với trải nghiệm thanh lề trong { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Thông báo về quyền riêng tư
+sidebar-callout-survey-very-satisfied = Rất hài lòng
+sidebar-callout-survey-satisfied = Hài lòng
+sidebar-callout-survey-neutral = Trung lập
+sidebar-callout-survey-dissatisfied = Không hài lòng
+sidebar-callout-survey-very-dissatisfied = Rất không hài lòng
+sidebar-callout-survey-dont-use-it = Tôi không sử dụng nó
+sidebar-callout-survey-productive-question =
+    Bạn đồng ý hay không đồng ý với khẳng định này ở mức độ nào:<br/>
+    “Thanh lề trong { -brand-short-name } giúp tôi làm việc hiệu quả hơn”?
+sidebar-callout-survey-strongly-agree = Hoàn toàn đồng ý
+sidebar-callout-survey-agree = Đồng ý
+sidebar-callout-survey-disagree = Không đồng ý
+sidebar-callout-survey-strongly-disagree = Hoàn toàn không đồng ý
+sidebar-callout-survey-features-question = Sau đây là các tính năng có tiềm năng xuất hiện trong thanh lề. Cái nào sẽ cải thiện năng suất của bạn trong { -brand-short-name } nhiều nhất?
+sidebar-callout-survey-split-view = Xem hai trang web bất kỳ cùng một lúc, ở chế độ chia đôi cửa sổ
+sidebar-callout-survey-keep-website-open = Giữ trang web, như email hoặc lịch, mở ở thanh lề khi bạn duyệt
+sidebar-callout-survey-saved-websites = Truy cập nhanh vào tất cả các trang web đã lưu của bạn
+sidebar-callout-survey-none-of-above = Không có cái nào ở trên
+sidebar-callout-survey-submit = Gửi
+sidebar-callout-survey-thank-you = Cảm ơn phản hồi của bạn!
+sidebar-genai-survey-satisfaction-question = Bạn hài lòng đến mức nào với việc có công cụ truy cập vào chatbot AI ở thanh lề?
+sidebar-genai-survey-productive-question =
+    Bạn đồng ý hay không đồng ý với khẳng định này ở mức độ nào:<br/>
+    “Chatbot AI trong thanh lề giúp tôi làm việc hiệu quả hơn”?
