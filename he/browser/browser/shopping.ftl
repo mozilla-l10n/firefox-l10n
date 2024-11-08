@@ -169,7 +169,7 @@ ad-by-fakespot = פרסומת מאת { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = עזרה בשיפור { -brand-product-name }
-shopping-survey-question-one = עד כמה היית מרוצה מחויית בודק הסקירות ב־{ -brand-product-name }?
+shopping-survey-question-one = עד כמה הינך מרוצה מחויית בודק הסקירות ב־{ -brand-product-name }?
 shopping-survey-q1-radio-1-label = מאוד מרוצה
 shopping-survey-q1-radio-2-label = מרוצה
 shopping-survey-q1-radio-3-label = נטרלי

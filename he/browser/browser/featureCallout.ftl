@@ -49,3 +49,13 @@ split-dismiss-button-manage-settings-option-label = ניהול הגדרות
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
 sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל הצד כדי להרחב את סרגל הצד, כדי שיהיה באפשרותך לראות את הכותרות של הלשוניות.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-privacy-notice-link = הצהרת פרטיות
+sidebar-callout-survey-very-satisfied = מאוד מרוצה
+sidebar-callout-survey-satisfied = מרוצה
+sidebar-callout-survey-neutral = נטרלי
+sidebar-callout-survey-dissatisfied = לא מרוצה
+sidebar-callout-survey-very-dissatisfied = מאוד לא מרוצה
+sidebar-callout-survey-dont-use-it = אין לי שימוש בזה
