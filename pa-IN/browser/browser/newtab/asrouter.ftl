@@ -315,3 +315,17 @@ fxa-menu-message-backup-sync-collapsed-text = ਡਾਟੇ ਨੂੰ ਸਿੰ�
 fxa-menu-message-mobile-primary-text = ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਭੇਜੋ
 fxa-menu-message-mobile-secondary-text = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਨਾਲ ਤੁਸੀਂ ਜਿੱਥੇ ਛੱਡਦੇ ਹੋ, ਓਥੋਂ ਹੀ ਵਾਪਸ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।
 fxa-menu-message-mobile-collapsed-text = ਆਪਣੇ ਫ਼ੋਨ ਨਾਲ ਸਿੰਕ ਕਰੋ
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } ਨੂੰ ਮੂਲ ਬਣਾਓ
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name } ਨੂੰ ਸਟਾਰਟ ਮੇਨੂ ਵਿੱਚ ਟੰਗੋ
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਨੂੰ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] { -brand-short-name } ਨੂੰ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੁੱਖ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+multi-cta-fox-doodle-quick-reminder-subtitle = ਯਾਦ ਰੱਖੋ ਕਿ ਤੁੁਸੀਂ ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਜਿੰਨੀ ਨੇੜੇ ਰੱਖ ਸਕਦੇ ਹੋ।
