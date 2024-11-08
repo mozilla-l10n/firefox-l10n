@@ -64,3 +64,13 @@ split-dismiss-button-manage-settings-option-label = Ynstellingen beheare
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
 sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Help { -brand-short-name } te ferbetterjen
+sidebar-callout-survey-satisfaction-question = Hoe tefreden binne jo mei de sidebalkeûnderfining yn { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Privacyferklearring
+sidebar-callout-survey-very-satisfied = Hiel tefreden
+sidebar-callout-survey-satisfied = Tefreden
+sidebar-callout-survey-neutral = Gemiddeld
+sidebar-callout-survey-dissatisfied = Untefreden
