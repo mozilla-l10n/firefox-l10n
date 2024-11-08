@@ -80,6 +80,7 @@ sidebar-callout-survey-strongly-agree = Jara přezjedny
 sidebar-callout-survey-agree = Přezjedny
 sidebar-callout-survey-disagree = Njepřezjedny
 sidebar-callout-survey-strongly-disagree = Jara njepřezjedny
+sidebar-callout-survey-split-view = Wobhladajće sej dwě websydle naraz, bok po boku jedne pódla druheho
 sidebar-callout-survey-saved-websites = Spěšny přistup k wšěm wašim składowanym websydłam
 sidebar-callout-survey-none-of-above = Ničo z nich
 sidebar-callout-survey-submit = Wotpósłać
