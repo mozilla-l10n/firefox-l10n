@@ -8,6 +8,11 @@
 newtab-page-title = Nij ljepblêd
 newtab-settings-button =
     .title = Jo side foar nije ljepblêden oanpasse
+newtab-personalize-settings-icon-label =
+    .title = Nij ljepblêd personalisearje
+    .aria-label = Ynstellingen
+newtab-settings-dialog-label =
+    .aria-label = Ynstellingen
 newtab-personalize-icon-label =
     .title = Nij ljepblêd personalisearje
     .aria-label = Nij ljepblêd personalisearje

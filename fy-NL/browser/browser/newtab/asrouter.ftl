@@ -316,3 +316,23 @@ fxa-menu-message-backup-sync-collapsed-text = Gegevens syngronisearje en der in 
 fxa-menu-message-mobile-primary-text = Ljepblêden nei jo telefoan ferstjoere
 fxa-menu-message-mobile-secondary-text = Gean daliks fierder wêr’t jo bleaun wiene wannear’t jo jo ljepblêden syngronisearje mei in mobyl apparaat.
 fxa-menu-message-mobile-collapsed-text = Syngronisearje mei jo telefoan
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Wolkom werom
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } ynstelle as standert
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name } oan it menu Start fêstmeitsje
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } yn de Dock hâlde
+       *[other] { -brand-short-name } oan de taakbalke fêstmeitsje
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Start mei browsen
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } myn haadbrowser meitsje
+multi-cta-fox-doodle-quick-reminder-subtitle = Dit is in koart omtinken dat jo jo favorite op privacy fokuste browser op mar ien klik ôfstân hâlde kinne.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Hâld jo favorite op privacy rjochte browser op mar ien klik ôfstân. Stel { -brand-short-name } yn as jo standertbrowser foar it iepenjen fan keppelingen en hâld it programma yn jo Dock.
+       *[other] Hâld jo favorite op privacy rjochte browser op mar ien klik ôfstân. Stel { -brand-short-name } yn as jo standertbrowser foar it iepenjen fan keppelingen en hâld it programma fêst op jo taakbalke.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hâld jo favorite op privacy rjochte browser op mar ien klik ôfstân. Stel { -brand-short-name } yn as jo standertbrowser foar it iepenjen fan keppelingen en hâld it programma fêst op jo taakbalke en startmenu.

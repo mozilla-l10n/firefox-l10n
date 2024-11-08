@@ -83,3 +83,14 @@ sidebar-callout-survey-strongly-agree = Beslist mei iens
 sidebar-callout-survey-agree = Iens
 sidebar-callout-survey-disagree = Net mei iens
 sidebar-callout-survey-strongly-disagree = Beslist net mei iens
+sidebar-callout-survey-features-question = Hjirûnder folgje mooglike funksjes yn de sidebalke. Hokker soe jo produktiviteit in { -brand-short-name } it meast ferbetterje?
+sidebar-callout-survey-split-view = Twa ferskate websites tagelyk besjen, yn in splitste werjefte njonken inoar
+sidebar-callout-survey-keep-website-open = In website, lykas e-mail of aginda, iepen hâlde yn de sidebalke wylst jo sneupe
+sidebar-callout-survey-saved-websites = Snelle tagong ta al jo bewarre websites
+sidebar-callout-survey-none-of-above = Gjin fan boppesteande
+sidebar-callout-survey-submit = Yntsjinje
+sidebar-callout-survey-thank-you = Tank foar jo kommentaar!
+sidebar-genai-survey-satisfaction-question = Hoe tefreden binne jo mei tagong ta in AI-chatbot yn de sidebalke?
+sidebar-genai-survey-productive-question =
+    Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
+    ‘De AI-chatbot yn de sidebalke helpt my produktiver te wêzen’?

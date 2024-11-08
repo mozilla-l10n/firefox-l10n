@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Brûkersprofyl kieze
 profile-window-heading = Kies in { -brand-short-name }-profyl
 profile-window-body = Hâld jo wurk en persoanlike navigaasje, ynklusyf saken lykas wachtwurden en blêdwizers, folslein skieden. Of meitsje profilen foar elkenien dy’t dit apparaat brûkt.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Dit toane wannear’t { -brand-short-name } iepene wurdt
 profile-window-create-profile = In profyl oanmeitsje
@@ -41,19 +41,24 @@ delete-profile-page-title = Profyl { $profilename } fuortsmite
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Profyl { $profilename } fuortsmite?
 delete-profile-description = { -brand-short-name } smyt de folgjende gegevens permanint fan dit apparaat fuort:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Iepen finsters
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Iepen ljeplêden
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Blêdwizers
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Skiednis (besochte siden, cookies, websitegegevens)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Gegevens automatysk ynfolje (adressen, betelmetoaden)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Wachtwurden
 # Button label
 delete-profile-cancel = Annulearje
 # Button label
 delete-profile-confirm = Fuortsmite
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Goudsjeblom
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Lavindel
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Koarstmoas
