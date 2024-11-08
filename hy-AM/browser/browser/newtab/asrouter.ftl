@@ -121,6 +121,8 @@ cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Կարծես թե դուք օգտագործում եք հանրային Wi-Fi
 spotlight-public-wifi-vpn-primary-button = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ոչ հիմա
@@ -238,3 +240,21 @@ launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալությո
 
 tail-fox-spotlight-primary-button = Բացել իմ հղումները { -brand-short-name }-ով
 tail-fox-spotlight-secondary-button = Ոչ հիմա
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-secondary-button =
+    .label = Ավելի ուշ
+    .accesskey = L
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Փակել
+    .aria-label = Փակել
+fxa-menu-message-sign-up-button = Գրանցվել
+fxa-menu-message-sync-devices-primary-text = Համաժամացրեք ձեր բոլոր սարքերը
+fxa-menu-message-sync-devices-collapsed-text = Համաժամացրեք ձեր բոլոր սարքերը
+
+## Multi-CTA Fox Doodle Spotlight
+

@@ -123,8 +123,8 @@ menu-edit-find-again =
     .label = Կրկին Որոնել
     .accesskey = Ո
 menu-edit-bidi-switch-text-direction =
-    .label = Փոխել գրույթի ուղղությունը
-    .accesskey = w
+    .label = Փոխարկել տեքստի ուղղությունը
+    .accesskey = ո
 
 ## View Menu
 
@@ -206,8 +206,8 @@ menu-view-show-all-tabs =
     .label = Ցուցադրել բոլոր ներդիրները
     .accesskey = բ
 menu-view-bidi-switch-page-direction =
-    .label = Փոխել Էջի Ուղղությունը
-    .accesskey = Ո
+    .label = Փոխարկել էջի ուղղությունը
+    .accesskey = Ւ
 
 ## History Menu
 
@@ -306,7 +306,7 @@ menu-tools-layout-debugger =
 menu-window-menu =
     .label = Պատուհան
 menu-window-bring-all-to-front =
-    .label = Բոլորն Առաջ Բերել
+    .label = Բոլորն առաջ բերել
 
 ## Help Menu
 
@@ -340,8 +340,8 @@ menu-help-exit-troubleshoot-mode =
     .label = Անջատել խափանաշտկումը
     .accesskey = M
 menu-help-switch-device =
-    .label = Անցում նոր սարքի
-    .accesskey = N
+    .label = Փոխարկվում է նոր սարքին
+    .accesskey = Ն
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

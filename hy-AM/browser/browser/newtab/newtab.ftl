@@ -23,17 +23,17 @@ newtab-search-box-search-button =
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
-newtab-search-box-handoff-text-no-engine = Մուտքագրեք կայքի հասցե կամ որոնում
+newtab-search-box-handoff-text-no-engine = Որոնեք կամ մուտքագրեք հասցե
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
-    .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
-    .aria-label = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
+    .placeholder = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
+    .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
+    .aria-label = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = Որոնեք կամ մուտքագրեք հասցեն
-    .title = Որոնեք կամ մուտքագրեք հասցեն
-    .aria-label = Որոնեք կամ մուտքագրեք հասցեն
+    .placeholder = Որոնեք կամ մուտքագրեք հասցե
+    .title = Որոնեք կամ մուտքագրեք հասցե
+    .aria-label = Որոնեք կամ մուտքագրեք հասցե
 newtab-search-box-text = Որոնել համացանցում
 newtab-search-box-input =
     .placeholder = Որոնել համացանցում
@@ -223,9 +223,11 @@ newtab-pocket-more-recommendations = Լրացուցիչ առաջարկությո
 newtab-pocket-learn-more = Իմանալ ավելին
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք ձեր սիրած պատմությունները { -pocket-brand-name }, և ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանությամբ:
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Պահել
 newtab-pocket-saved = Պահված է
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -285,3 +287,11 @@ newtab-weather-menu-weather-display = Եղանակի ցուցադրում
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Պարզ
+newtab-weather-menu-change-temperature-units-fahrenheit = Փոխարկել ֆարենհեյթին
+newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելսիուսին
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

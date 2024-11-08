@@ -96,14 +96,14 @@ urlbar-web-rtc-share-devices-notification-anchor =
 urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = Կառավարեք  բարձրախոսի համօգտագործումը այս կայքի հետ
 urlbar-autoplay-notification-anchor =
-    .tooltiptext = Բացեք ինքնաշխատ վահանակը
+    .tooltiptext = Բացել ինքնանվագարկման վահանակը
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տվյալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
-urlbar-search-tips-confirm = Հասկանալի է։
+urlbar-search-tips-confirm = Լավ, հասկացա
 urlbar-search-tips-confirm-short = Հասկացա
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -118,8 +118,8 @@ urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
 urlbar-result-menu-remove-from-history =
-    .label = Ջնջել Պատմությունից
-    .accesskey = R
+    .label = Ջնջել պատմությունից
+    .accesskey = Ջ
 urlbar-result-menu-tip-get-help =
     .label = Ստանալ օգնություն
     .accesskey = h
