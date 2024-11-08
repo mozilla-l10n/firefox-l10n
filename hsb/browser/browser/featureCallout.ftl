@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Neutralny
 sidebar-callout-survey-dissatisfied = Njespokojny
 sidebar-callout-survey-very-dissatisfied = Jara njespokojny
 sidebar-callout-survey-dont-use-it = To njewužiwam
+sidebar-callout-survey-productive-question =
+    Do kotreje měry zwoliće abo njezwoliće do tutoho twjerdźenja:<br/>
+    „Bóčnica { -brand-short-name } mi pomha bóle produktiwny być“?
 sidebar-callout-survey-strongly-agree = Jara přezjedny
 sidebar-callout-survey-agree = Přezjedny
 sidebar-callout-survey-disagree = Njepřezjedny

@@ -146,3 +146,4 @@ fp-certerror-hide-advanced-button = Rozšěrjene schować
 
 fp-certerror-override-exception-button = Dale k { $hostname } (riskantny)
 fp-certerror-intro = { -brand-short-name } potencielnje ćežki wěstotny problem z <strong>{ $hostname }</strong> wotkry. Něchtó, kotryž twjerdźi, zo tute sydło wěcy kaž informacije krednitnych kartow, hesła abo e-mejlowe adresy kradnje.
+fp-certerror-expired-into = { -brand-short-name } potencielnje ćežki wěstotny problem z <strong>{ $hostname }</strong> wotkry. Pak sydło korektnje konfigurowane njeje pak časnik wašeho grata je na wopačny datum/čas stajeny.
