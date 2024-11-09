@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Mdel accaren i d-yettεawden
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Mdel akk accaren i d-yettεawden
+all-tabs-menu-synced-tabs =
+    .label = Iccaren seg ibenkan nniḍen
