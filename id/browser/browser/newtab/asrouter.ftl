@@ -61,6 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
 cfr-doorhanger-bookmark-fxa-body = Penemuan yang mantap! Sekarang jangan pergi tanpa markah ini di perangkat seluler Anda. Mulai dengan { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Temuan yang bagus! Sekarang jangan biarkan tanpa markah ini di perangkat seluler Anda. Mulai dengan suatu akun.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
@@ -195,6 +196,8 @@ colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Izinkan { -brand-short-name } untuk menolak banner kuki?
+cfr-cbh-body = { -brand-short-name } dapat menolak permintaan banyak banner kuki secara otomatis.
 cfr-cbh-confirm-button = Tolak spanduk kuki
     .accesskey = T
 cfr-cbh-dismiss-button = Jangan sekarang
@@ -207,13 +210,17 @@ july-jam-headline = Kami membantu Anda
 july-jam-body = Setiap bulan { -brand-short-name } memblokir rata-rata 3000+ pelacak per pengguna, memberikan Anda akses yang aman dan cepat ke internet yang baik.
 july-jam-set-default-primary = Buka tautan saya dengan { -brand-short-name }
 fox-doodle-pin-headline = Selamat datang kembali
+fox-doodle-pin-secondary = Jangan sekarang
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>PDF Anda sekarang terbuka di { -brand-short-name }.</strong> Edit atau tandatangani formulir langsung di peramban Anda. Untuk mengubah, cari “PDF” di pengaturan.
 set-default-pdf-handler-primary = Paham
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Perangkat baru nanti?
+fxa-sync-cfr-body = Pastikan markah, sandi, dan tab terbaru Anda disertakan setiap kali Anda membuka peramban { -brand-product-name } baru.
 fxa-sync-cfr-primary = Pelajari lebih lanjut
     .accesskey = L
 fxa-sync-cfr-secondary = Ingatkan saya nanti
@@ -222,11 +229,22 @@ fxa-sync-cfr-secondary = Ingatkan saya nanti
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Jangan lupa mencadangkan data Anda
+device-migration-fxa-spotlight-heavy-user-body = Pastikan info penting — seperti markah dan kata sandi — diperbarui dan dilindungi di semua perangkat Anda.
 device-migration-fxa-spotlight-heavy-user-primary-button = Memulai
+device-migration-fxa-spotlight-older-device-header = Ketenangan batin, dari { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Akun membuat info penting Anda diperbarui dan dilindungi di perangkat apa pun yang Anda sambungkan.
+device-migration-fxa-spotlight-older-device-primary-button = Buat akun
+device-migration-fxa-spotlight-getting-new-device-header-2 = Perangkat baru nanti?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Ikuti beberapa langkah sederhana untuk membawa markah, riwayat, dan kata sandi Anda saat Anda mulai menggunakan perangkat baru.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Bagaimana cara mencadangkan data saya
+device-migration-fxa-spotlight-sync-header = Meramban tanpa terhambat
+device-migration-fxa-spotlight-sync-body = Sinkronkan semua info penting Anda dengan enkripsi — seperti markah dan sandi. Anda dapat menarik semuanya di mana saja Anda menggunakan { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Memulai
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Jadikan { -brand-short-name } sebagai pembaca PDF baku Anda?</strong> Gunakan { -brand-short-name } untuk membaca dan mengedit PDF yang disimpan ke komputer Anda.
 pdf-default-notification-set-default-button =
     .label = Jadikan baku
 pdf-default-notification-decline-button =
@@ -234,6 +252,8 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Buka { -brand-short-name } setiap kali Anda memulai ulang komputer Anda?</strong> Sekarang Anda dapat mengatur { -brand-short-name } untuk terbuka secara otomatis saat Anda memulai ulang perangkat Anda.
+launch-on-login-learnmore = Pelajari lebih lanjut
 launch-on-login-infobar-confirm-button = Ya, buka { -brand-short-name }
     .accesskey = Y
 launch-on-login-infobar-reject-button = Jangan sekarang
@@ -248,12 +268,19 @@ launch-on-login-infobar-final-reject-button = Tidak, terima kasih
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Hindari pelacak bandel mengikuti Anda
 tail-fox-spotlight-subtitle = Ucapkan selamat tinggal pada pelacak iklan yang mengganggu dan nikmati pengalaman internet yang lebih aman dan cepat.
 tail-fox-spotlight-primary-button = Buka tautan saya dengan { -brand-short-name }
 tail-fox-spotlight-secondary-button = Jangan sekarang
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Versi lama { -brand-short-name } mungkin mulai bermasalah pada 14 Januari 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Perbarui untuk tetap menggunakan { -brand-short-name } setelah 14 Maret 2025.</strong>
 root-certificate-succession-infobar-link = Mengapa saya perlu memperbarui?
 root-certificate-succession-infobar-primary-button =
     .label = Perbarui sekarang
@@ -267,3 +294,17 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Tutup
     .aria-label = Tutup
+fxa-menu-message-sign-up-button = Daftar
+fxa-menu-message-sync-devices-primary-text = Sinkronkan semua perangkat Anda
+fxa-menu-message-sync-devices-secondary-text = Dapatkan info Anda secara instan — seperti markah dan sandi — di mana pun Anda menggunakan { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sinkronkan semua perangkat Anda
+fxa-menu-message-backup-data-primary-text = Cadangkan data peramban Anda
+fxa-menu-message-backup-data-secondary-text = Secara otomatis melindungi markah, sandi, dan info lainnya di semua perangkat Anda.
+fxa-menu-message-backup-data-collapsed-text = Cadangkan data peramban Anda
+fxa-menu-message-backup-sync-primary-text = Jaga data Anda tetap aman dan tersinkronisasi
+fxa-menu-message-backup-sync-secondary-text = Penyelarasan mencadangkan sebagian besar data Anda sehingga Anda dapat mengaksesnya di mana pun Anda menggunakan { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sinkronkan dan cadangkan data
+fxa-menu-message-mobile-primary-text = Kirim tab ke ponsel Anda
+
+## Multi-CTA Fox Doodle Spotlight
+
