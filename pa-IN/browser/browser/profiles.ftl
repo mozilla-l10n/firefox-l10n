@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - ਵਰਤੋਂਕਾਰ ਪਰੋਫਾਈਲ ਚੁਣੋ
 profile-window-heading = { -brand-short-name } ਪਰੋਫਾਈਲ ਚੁਣੋ
 profile-window-body = ਆਪਣੇ ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਬਿਲਕੁਲ ਵੱਖੋ-ਵੱਖਰਾ ਰੱਖੋ, ਜਿਸ ਵਿੱਚ ਪਾਸਵਰਡ ਅਤੇ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ ਹਨ। ਜਾਂ ਇਸ ਡਿਵਾਈਸ ਵਰਤਣ ਵਾਲੇ ਹਰੇਕ ਵਾਪਸੇ ਵੱਖਰਾ ਪਰੋਫਾਈਲ ਬਣਾਓ।
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਾ ਹੋਵੇ ਤਾਂ ਇਹ ਵੇਖਾਓ
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
@@ -41,19 +41,32 @@ delete-profile-page-title = { $profilename } ਪਰੋਫਾਈਲ ਨੂੰ ਹ
 #   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 delete-profile-description = { -brand-short-name } ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਅੱਗੇ ਦਿੱਤੇ ਡਾਟੇ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾ ਦੇਵੇਗਾ:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = ਵਿੰਡੋਆਂ ਨੂੰ ਖੋਲ੍ਹੋ
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = ਬੁੱਕਮਾਰਕ
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = ਅਤੀਤ (ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ, ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = ਆਪਣੇ ਭਰਨ ਵਾਲਾ ਡਾਟਾ (ਸਿਰਨਾਵੇਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = ਪਾਸਵਰਡ
 # Button label
 delete-profile-cancel = ਰੱਦ ਕਰੋ
 # Button label
 delete-profile-confirm = ਹਟਾਓ
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = ਗੇਂਦਾ
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = ਮੈਗਨੋਲੀਆ
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = ਸਮੁੰਦਰੀ
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = ਤੇਜ਼ ਸੰਤਰੀ
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = ਜੰਗਲੀ ਹਰਾ
+# The default light theme
+profiles-light-theme = ਹਲਕਾ
+# The default dark theme
+profiles-dark-theme = ਗੂੜ੍ਹਾ
