@@ -69,7 +69,12 @@ sidebar-callout-survey-disagree = נוטה לא להסכים
 sidebar-callout-survey-strongly-disagree = נוטה לא להסכים מאוד
 sidebar-callout-survey-features-question = להלן אפשרויות פוטנציאליות של סרגל הצד. מה ישפר הכי הרבה את הפרודקטיביות שלך ב־{ -brand-short-name }?
 sidebar-callout-survey-split-view = הצגת שני אתרים בו זמנית, בתצוגה מפוצלת זה לצד זה
+sidebar-callout-survey-keep-website-open = פתיחת אתר כמו דוא״ל או יומן בסרגל הצד תוך כדי גלישה
 sidebar-callout-survey-saved-websites = גישה מהירה לכל האתרים השמורים שלך
 sidebar-callout-survey-none-of-above = אף אחד מהאמור לעיל
 sidebar-callout-survey-submit = שליחה
 sidebar-callout-survey-thank-you = אנו מודים לך על המשוב שלך!
+sidebar-genai-survey-satisfaction-question = עד כמה הינך מרוצה מכך שיש לך גישה לצ’אט בוט AI בסרגל הצד?
+sidebar-genai-survey-productive-question =
+    באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
+    ״צ’אט בוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?

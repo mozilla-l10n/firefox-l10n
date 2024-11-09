@@ -36,7 +36,7 @@ genai-input-ask-generic =
 genai-input-ask-provider =
     .placeholder = לשאול את { $provider }…
 genai-shortcuts-hide =
-    .label = הסתרת קיצור דרך לצ'אט בוט
+    .label = הסתרת קיצור דרך לצ’אט בוט
 
 ## Chatbot header
 
@@ -48,11 +48,11 @@ genai-header-options-button =
 genai-header-close-button =
     .title = סגירה
 genai-provider-view-details =
-    .label = הצגת פרטי צ'אט בוט
+    .label = הצגת פרטי צ’אט בוט
 genai-provider-about-chatbots =
-    .label = על אודות הצ'אט בוטים האלו
+    .label = על אודות הצ’אט בוטים האלו
 genai-options-reload-generic =
-    .label = טעינה מחדש של צ'אט בוט AI
+    .label = טעינה מחדש של צ’אט בוט AI
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = טעינה מחדש של { $provider }
@@ -61,13 +61,13 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = הסתרת קיצור דרך בעת בחירת טקסט
 genai-options-about-chatbot =
-    .label = על אודות צ'אט בוטים של AI ב־{ -brand-short-name }
+    .label = על אודות צ’אט בוטים של AI ב־{ -brand-short-name }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = יש לבחור בצ'אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ'אט בוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
+genai-onboarding-description = יש לבחור בצ’אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ’אט בוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
 genai-onboarding-primary = המשך
 genai-onboarding-secondary = סגירה
 genai-onboarding-claude-tooltip =

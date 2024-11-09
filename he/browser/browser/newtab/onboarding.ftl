@@ -366,7 +366,7 @@ onboarding-horizontal-tabs-tooltip =
 onboarding-horizontal-tabs-description =
     .aria-description = חלון דפדפן המציג לשוניות בחלק העליון.
 # Additional setup card for setting up aichatbot in the sidebar
-onboarding-genai-sidebar-title = נסו צ'אט בוט AI בסרגל הצד
+onboarding-genai-sidebar-title = נסו צ’אט בוט AI בסרגל הצד
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = סיכום תוכן אינטרנט, סיעור מוחות, טיוטת הודעות - הכל תוך כדי גלישה. בחירה מתוך מספר ספקים. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
 onboarding-genai-sidebar-primary-button = בחירת צ’אט בוט

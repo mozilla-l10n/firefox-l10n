@@ -307,3 +307,10 @@ fxa-menu-message-mobile-collapsed-text = סנכרון עם הטלפון שלך
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-pin-startmenu-checkbox = הצמדת { -brand-short-name } לתפריט ההתחל
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } ב־Dock
+       *[other] הצמדת { -brand-short-name } לשורת המשימות
+    }
+multi-cta-fox-doodle-quick-reminder-subtitle = רק תזכורת קטנה שבאפשרותך לשמור את הדפדפן ממוקד הפרטיות האהוב עליך במרחק לחיצה אחת בלבד.
