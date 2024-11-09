@@ -100,6 +100,8 @@ about-glean-adhoc-note =
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
 about-glean-feedback-settings-only =
     .message = Rregullimet u aplikuan!
+about-glean-feedback-settings-and-ping =
+    .message = Rregullimet u zbatuan dhe pingu u dërgua!
 about-glean-about-data-header = Mbi të Dhënat
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
