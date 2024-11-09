@@ -73,6 +73,17 @@ open-in-new-window-for-csp-or-xfo-error = Abrir site numa nova janela
 csp-xfo-blocked-long-desc = Para proteger a sua segurança, { $hostname } não permitirá que o { -brand-short-name } apresente a página se a mesma for incorporada noutro site. Para ver esta página, deve abrir a mesma numa nova janela.
 fp-certerror-view-certificate-link = Ver o certificado do site
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = O site está configurado para permitir apenas ligações seguras, mas há um problema com o certificado do site. É possível que um autor malicioso esteja a tentar fazer-se passar pelo site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. O { -brand-short-name } não confia neste site porque o seu certificado não é válido para { $hostname }. O certificado só é válido para: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Provavelmente nada, já que é provável que exista um problema com o próprio site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. Mas se estiver numa rede empresarial, a sua equipa de apoio poderá ter mais informações. Se está a utilizar um software antivírus, tente procurar por possíveis conflitos ou problemas conhecidos.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Há um problema com o certificado do site. É possível que um autor malicioso esteja a tentar fazer-se passar pelo site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. O { -brand-short-name } não confia neste site porque não podemos dizer quem emitiu o certificado, ou o mesmo é auto-assinado ou o site não está a enviar certificados intermédios nos quais confiamos.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Provavelmente nada, já que é provável que exista um problema com o próprio site. Mas se estiver numa rede empresarial, a sua equipa de apoio poderá ter mais informações. Se está a utilizar um software antivírus, pode ser necessário configurar o mesmo para funcionar com o { -brand-short-name }.
 
 ## Messages used for certificate error titles
 

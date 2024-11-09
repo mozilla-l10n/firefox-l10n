@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Terminar sessão…
 fxa-menu-sync-title = Sincronização
 fxa-menu-sync-description = Aceda à sua Web em qualquer lugar
+sync-setup-verify-continue = Continuar
+sync-setup-verify-title = Aviso de Fusão
+sync-setup-verify-heading = Tem a certeza de que pretende iniciar sessão para sincronizar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Um utilizador diferente tinha anteriormente uma sessão iniciada para sincronizar neste computador. Iniciar a sessão irá fundir os marcadores, palavras-passe e outras definições deste navegador com { $email }

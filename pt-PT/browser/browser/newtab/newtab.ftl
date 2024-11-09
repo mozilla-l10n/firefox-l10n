@@ -8,6 +8,11 @@
 newtab-page-title = Novo separador
 newtab-settings-button =
     .title = Personalizar a sua página de novo separador
+newtab-personalize-settings-icon-label =
+    .title = Personalizar o novo separador
+    .aria-label = Definições
+newtab-settings-dialog-label =
+    .aria-label = Definições
 newtab-personalize-icon-label =
     .title = Personalizar novo separador
     .aria-label = Personalizar novo separador
