@@ -304,6 +304,7 @@ fxa-menu-message-close-button =
     .aria-label = Lukk
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle dine enheter
+fxa-menu-message-sync-devices-secondary-text = Få informasjonen din umiddelbart — som bokmerker og passord — overalt hvor du bruker { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle dine enheter
 fxa-menu-message-backup-data-primary-text = Sikkerhetskopier din nettleserdata
 fxa-menu-message-backup-data-secondary-text = Beskytt bokmerker, passord og annen informasjon automatisk på alle enhetene dine.

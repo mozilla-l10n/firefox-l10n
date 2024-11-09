@@ -378,9 +378,22 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jeg brukte den tidligere
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Fortell oss hvor du vil ha fanene dine
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Slå den opp når du vil i sidestolpeinnstillingene.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Faner på siden
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Faner på toppen
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Vertikale faner er her
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Introduserer vertikale faner
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Prøv vertikale faner
 onboarding-flair-text = Nyhet!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behold horisontale faner
+onboarding-genai-sidebar-primary-button = Velg en samtalerobot
 onboarding-genai-sidebar-secondary-button = Begynn å surfe
