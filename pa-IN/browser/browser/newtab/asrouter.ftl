@@ -27,17 +27,17 @@ cfr-doorhanger-extension-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
+cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ਾਂ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
-cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ੀ
+cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
     .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
-cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼ੀ
-    .tooltiptext = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼
-    .a11y-announcement = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼ ਮੌਜੂਦ ਹੈ
+cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼ਾਂ
+    .tooltiptext = ਫ਼ੀਚਰ ਦੀ ਸਿਫਾਰਸ਼
+    .a11y-announcement = ਫ਼ੀਚਰ ਦੀ ਸਿਫਾਰਸ਼ ਮੌਜੂਦ ਹੈ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -329,3 +329,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੁੱਖ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 multi-cta-fox-doodle-quick-reminder-subtitle = ਯਾਦ ਰੱਖੋ ਕਿ ਤੁੁਸੀਂ ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਜਿੰਨੀ ਨੇੜੇ ਰੱਖ ਸਕਦੇ ਹੋ।
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ। ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ।
+       *[other] ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ। ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ।
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ। ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਤੇ ਸਟਾਰਟ ਮੇਨੂ ਵਿੱਚ ਟੰਗੋ।
