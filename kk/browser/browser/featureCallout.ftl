@@ -86,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = Мүлдем келіспеймін
 sidebar-callout-survey-features-question = Төменде ықтимал бүйір панелі мүмкіндіктері берілген. Олардың қайсысы { -brand-short-name } ішінде өнімділігіңізді көбірек арттырады?
 sidebar-callout-survey-split-view = Кез келген екі веб-сайтты қатар бөлінген көріністе бірден қараңыз
 sidebar-callout-survey-keep-website-open = Шолу кезінде веб-сайтты эл. пошта немесе күнтізбе сияқты бүйір панелінде ашық ұстаңыз
+sidebar-callout-survey-saved-websites = Барлық сақталған веб-сайттарға жылдам қол жеткізу
 sidebar-callout-survey-none-of-above = Жоғарыдағы ешқайсысы
 sidebar-callout-survey-submit = Жіберу
 sidebar-callout-survey-thank-you = Пікіріңізге рахмет!
