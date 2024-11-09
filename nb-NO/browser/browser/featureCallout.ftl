@@ -59,3 +59,35 @@ split-dismiss-button-dont-show-option-label = Ikke vis denne anbefalingen igjen
 split-dismiss-button-show-fewer-option-label = Vis færre anbefalinger
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Behandle innstillinger
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Vis fanetitler i sidestolpen
+sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan se fanetitler.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Hjelp til med å forbedre { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Hvor fornøyd er du med sidestolpeopplevelsen i { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Personvernbestemmelser
+sidebar-callout-survey-very-satisfied = Veldig fornøyd
+sidebar-callout-survey-satisfied = Fornøyd
+sidebar-callout-survey-neutral = Nøytral
+sidebar-callout-survey-dissatisfied = Misfornøyd
+sidebar-callout-survey-very-dissatisfied = Veldig misfornøyd
+sidebar-callout-survey-dont-use-it = Jeg bruker den ikke
+sidebar-callout-survey-productive-question =
+    I hvilken grad er du enig eller uenig i denne påstanden:<br/>
+    «Sidestolpen { -brand-short-name } hjelper meg å bli mer produktiv»?
+sidebar-callout-survey-strongly-agree = Helt enig
+sidebar-callout-survey-agree = Enig
+sidebar-callout-survey-disagree = Uenig
+sidebar-callout-survey-strongly-disagree = Helt uenig
+sidebar-callout-survey-features-question = Følgende er potensielle sidestolpefunksjoner. Hva vil forbedre produktiviteten din i { -brand-short-name } mest?
+sidebar-callout-survey-split-view = Se to nettsteder samtidig, i en delt visning side ved side
+sidebar-callout-survey-keep-website-open = Ha et nettsted, som e-post eller kalender, åpent i sidestolpen mens du surfer
+sidebar-callout-survey-saved-websites = Rask tilgang til alle dine lagrede nettsteder
+sidebar-callout-survey-none-of-above = Ingen av de ovennevnte
+sidebar-callout-survey-submit = Send
+sidebar-callout-survey-thank-you = Takk for tilbakemeldingen!
+sidebar-genai-survey-satisfaction-question = Hvor fornøyd er du med å ha tilgang til en AI-chatbot i sidestolpen?

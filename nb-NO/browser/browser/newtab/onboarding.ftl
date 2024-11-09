@@ -378,4 +378,9 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jeg brukte den tidligere
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Prøv vertikale faner
+onboarding-flair-text = Nyhet!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Behold horisontale faner
 onboarding-genai-sidebar-secondary-button = Begynn å surfe

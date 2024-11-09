@@ -4,6 +4,10 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
+menu-view-review-checker =
+    .label = Vurderingskontrollør
+sidebar-options-menu-button =
+    .title = Åpne meny
 
 ## Labels for sidebar history panel
 
@@ -50,6 +54,8 @@ sidebar-horizontal-tabs =
     .label = Horisontale faner
 sidebar-customize-tabs-header =
     .label = Fane-innstillinger
+sidebar-customize-button-header =
+    .label = Sidestolpeknapp
 
 ## Labels for sidebar context menu items
 

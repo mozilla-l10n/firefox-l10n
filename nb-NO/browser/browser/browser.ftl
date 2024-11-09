@@ -974,6 +974,9 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Databeskyttelse
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Organisasjonen din bruker <b>{ $agentName }</b> for å beskytte mot tap av data. <a data-l10n-name="info">Les mer</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Organisasjonen din bruker { $agentName } for å beskytte mot tap av data. <a data-l10n-name="info">Les mer</a>
 
 ## Unified extensions (toolbar) button
