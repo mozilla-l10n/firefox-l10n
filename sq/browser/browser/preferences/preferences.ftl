@@ -163,8 +163,8 @@ confirm-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
-    .label = Ripohojeni, para se dilet nga { $quitKey }
-    .accesskey = a
+    .label = Ripohojeni, para se dilet me { $quitKey }
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Sinjalizo kur hapja e shumë skedave njëherësh do të mund të ngadalësonte { -brand-short-name }-in
     .accesskey = z

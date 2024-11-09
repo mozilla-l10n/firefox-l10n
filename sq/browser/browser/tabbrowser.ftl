@@ -102,7 +102,7 @@ tabbrowser-confirm-close-tabs-with-key-title = Të mbyllet dritarja dhe të dile
 tabbrowser-confirm-close-tabs-with-key-button = Dil nga { -brand-short-name }-i
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Ripohojeni, para se dilet nga { $quitKey }
+tabbrowser-confirm-close-tabs-with-key-checkbox = Ripohojeni, para se dilet me { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
