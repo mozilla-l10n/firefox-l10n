@@ -80,3 +80,6 @@ sidebar-callout-survey-strongly-agree = Толықтай келісемін
 sidebar-callout-survey-agree = Келісемін
 sidebar-callout-survey-disagree = Келіспеймін
 sidebar-callout-survey-strongly-disagree = Мүлдем келіспеймін
+sidebar-callout-survey-none-of-above = Жоғарыдағы ешқайсысы
+sidebar-callout-survey-submit = Жіберу
+sidebar-callout-survey-thank-you = Пікіріңізге рахмет!

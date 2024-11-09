@@ -313,3 +313,23 @@ fxa-menu-message-backup-sync-collapsed-text = Синхрондау және де
 fxa-menu-message-mobile-primary-text = Беттерді телефоныңызға жіберу
 fxa-menu-message-mobile-secondary-text = Беттерді мобильді құрылғымен синхрондағанда, тоқтаған жеріңізден бірден жалғастырыңыз.
 fxa-menu-message-mobile-collapsed-text = Телефоныңызбен синхрондау
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Қайта қош келдіңіз
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } негізгі браузер қылу
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name } Бастау мәзіріне бекіту
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } Докта ұстау
+       *[other] { -brand-short-name } тапсырмалар панеліне бекіту
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Шолуды бастау
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } менің негізгі браузерім қылу
+multi-cta-fox-doodle-quick-reminder-subtitle = Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз. { -brand-short-name } сілтемелерді ашатын негізгі браузер қылыңыз және Докта ұстаңыз.
+       *[other] Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз. { -brand-short-name } сілтемелерді ашатын негізгі браузер қылыңыз және тапсырмалар панеліне бекітіңіз.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз. { -brand-short-name } сілтемелерді ашатын негізгі браузер қылыңыз және тапсырмалар панелі мен Бастау мәзіріне бекітіңіз.
