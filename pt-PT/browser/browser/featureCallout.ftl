@@ -81,3 +81,16 @@ sidebar-callout-survey-productive-question =
     “A barra lateral do { -brand-short-name } ajuda-me a aumentar a minha produtividade”?
 sidebar-callout-survey-strongly-agree = Concordo plenamente
 sidebar-callout-survey-agree = Concordo
+sidebar-callout-survey-disagree = Discordo
+sidebar-callout-survey-strongly-disagree = Discordo plenamente
+sidebar-callout-survey-features-question = Segue-se uma lista de potenciais funcionalidades para a barra lateral. Quais aumentariam a sua produtividade no { -brand-short-name }?
+sidebar-callout-survey-split-view = Ver quaisquer dois sites em simultâneo, lado a lado, numa vista dividida
+sidebar-callout-survey-keep-website-open = Manter um site, como um e-mail ou calendário, aberto na barra lateral enquanto navega
+sidebar-callout-survey-saved-websites = Acesso rápido a todos os seus sites guardados
+sidebar-callout-survey-none-of-above = Nenhuma das acima
+sidebar-callout-survey-submit = Submeter
+sidebar-callout-survey-thank-you = Obrigado pela sua opinião!
+sidebar-genai-survey-satisfaction-question = Qual o seu grau de satisfação por ter acesso a um chatbot com IA na barra lateral?
+sidebar-genai-survey-productive-question =
+    Em que medida concorda ou discorda da seguinte afirmação:<br/>
+    “O chatbot de IA na barra lateral ajuda-me a aumentar a minha produtividade”?

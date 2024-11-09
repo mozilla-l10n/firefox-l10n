@@ -316,3 +316,17 @@ fxa-menu-message-backup-sync-collapsed-text = Sincronize e faça a cópia de seg
 fxa-menu-message-mobile-primary-text = Envie separadores para o seu telemóvel
 fxa-menu-message-mobile-secondary-text = Continue de onde parou instantaneamente quando sincroniza os seus separadores com um dispositivo móvel.
 fxa-menu-message-mobile-collapsed-text = Sincronize com o seu telefone
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Olá novamente
+multi-cta-fox-doodle-set-default-checkbox = Definir o { -brand-short-name } como a predefinição
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar o { -brand-short-name } ao menu Iniciar
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } na Dock
+       *[other] Fixar o { -brand-short-name } à barra de tarefas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Começar a navegar
+multi-cta-fox-doodle-main-browser-primary-button-label = Definir o { -brand-short-name } como o meu navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Eis uma nota rápida para lembrar que pode manter o seu navegador privado favorito apenas a um clique de distância.
