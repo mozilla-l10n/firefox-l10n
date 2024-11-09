@@ -8,6 +8,11 @@
 newtab-page-title = Новая вкладка
 newtab-settings-button =
     .title = Настроить свою страницу новой вкладки
+newtab-personalize-settings-icon-label =
+    .title = Персонализировать Новую вкладку
+    .aria-label = Настройки
+newtab-settings-dialog-label =
+    .aria-label = Настройки
 newtab-personalize-icon-label =
     .title = Настроить новую вкладку
     .aria-label = Настроить новую вкладку

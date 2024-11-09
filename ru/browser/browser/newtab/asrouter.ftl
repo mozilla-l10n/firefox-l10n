@@ -319,3 +319,23 @@ fxa-menu-message-backup-sync-collapsed-text = Синхронизация и ре
 fxa-menu-message-mobile-primary-text = Отправляйте вкладки на телефон
 fxa-menu-message-mobile-secondary-text = Мгновенно продолжайте с того места, на котором остановились, когда вы синхронизируете вкладки с мобильным устройством.
 fxa-menu-message-mobile-collapsed-text = Синхронизируйтесь со своим телефоном
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = С возвращением
+multi-cta-fox-doodle-set-default-checkbox = Установить { -brand-short-name } по умолчанию
+multi-cta-fox-doodle-pin-startmenu-checkbox = Закрепить { -brand-short-name } в меню «Пуск»
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Сохранить { -brand-short-name } в Dock
+       *[other] Закрепить { -brand-short-name } на панели задач
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Начать веб-сёрфинг
+multi-cta-fox-doodle-main-browser-primary-button-label = Сделать { -brand-short-name } моим основным браузером
+multi-cta-fox-doodle-quick-reminder-subtitle = Небольшое напоминание о том, что вы всегда можете держать под рукой свой любимый, ориентированный на приватность браузер.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Держите под рукой свой любимый, ориентированный на приватность браузер. Установите { -brand-short-name } в качестве браузера по умолчанию для открытия ссылок и сохраните его в Dock.
+       *[other] Держите под рукой свой любимый, ориентированный на приватность браузер. Установите { -brand-short-name } в качестве браузера по умолчанию для открытия ссылок и закрепите его на панели задач.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Держите под рукой свой любимый, ориентированный на приватность браузер. Установите { -brand-short-name } в качестве браузера по умолчанию для открытия ссылок и закрепите его на панели задач и в меню «Пуск».
