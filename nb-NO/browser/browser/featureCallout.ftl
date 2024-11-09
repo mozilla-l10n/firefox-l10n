@@ -91,3 +91,6 @@ sidebar-callout-survey-none-of-above = Ingen av de ovennevnte
 sidebar-callout-survey-submit = Send
 sidebar-callout-survey-thank-you = Takk for tilbakemeldingen!
 sidebar-genai-survey-satisfaction-question = Hvor fornøyd er du med å ha tilgang til en AI-chatbot i sidestolpen?
+sidebar-genai-survey-productive-question =
+    I hvilken grad er du enig eller uenig i denne påstanden:<br/>
+    "AI-chatboten i sidestolpen hjelper meg å bli mer produktiv"?

@@ -56,6 +56,12 @@ sidebar-customize-tabs-header =
     .label = Fane-innstillinger
 sidebar-customize-button-header =
     .label = Sidestolpeknapp
+sidebar-customize-position-header =
+    .label = Sidestolpe-plassering
+sidebar-visibility-setting-always-show =
+    .label = Utvid og skjul sidestolpen
+sidebar-visibility-setting-hide-sidebar =
+    .label = Vis og skjul sidestolpen
 
 ## Labels for sidebar context menu items
 
@@ -95,6 +101,8 @@ sidebar-menu-bookmarks-label =
     .label = Bokmerker
 sidebar-menu-customize-label =
     .label = Tilpass sidestolpe
+sidebar-menu-review-checker-label =
+    .label = Vurderingskontrollør
 
 ## Headings for sidebar menu panels.
 
@@ -109,7 +117,9 @@ sidebar-panel-header-close-button =
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Tilpass sidestolpe
 sidebar-history-title = Historikk
+sidebar-syncedtabs-title = Faner fra andre enheter
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -122,3 +132,15 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Utvid sidestolpen
+    .label = Sidestolper
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Skjul sidestolpen
+    .label = Sidestolper
+sidebar-widget-show-sidebar =
+    .tooltiptext = Vis sidestolpe
+    .label = Sidestolper
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Skjul sidestolpe
+    .label = Sidestolper
