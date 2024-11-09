@@ -64,3 +64,19 @@ split-dismiss-button-manage-settings-option-label = Баптауларды ба�
 
 sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету
 sidebar-button-callout-subtitle = Бүйір панелін кеңейту үшін бүйір панелі батырмасын пайдаланыңыз, осылай беттер атауларын көре аласыз.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = { -brand-short-name } жақсартуға көмектесіңіз
+sidebar-callout-survey-satisfaction-question = { -brand-short-name } бүйір панелін қолдану тәжірибесіне қаншалықты көңіліңіз толады?
+sidebar-callout-survey-privacy-notice-link = Жекелік ескертуі
+sidebar-callout-survey-very-satisfied = Өте жақсы
+sidebar-callout-survey-satisfied = Жақсы
+sidebar-callout-survey-neutral = Бейтарап
+sidebar-callout-survey-dissatisfied = Нашар
+sidebar-callout-survey-very-dissatisfied = Өте нашар
+sidebar-callout-survey-dont-use-it = Мен оны қолданбаймын
+sidebar-callout-survey-strongly-agree = Толықтай келісемін
+sidebar-callout-survey-agree = Келісемін
+sidebar-callout-survey-disagree = Келіспеймін
+sidebar-callout-survey-strongly-disagree = Мүлдем келіспеймін

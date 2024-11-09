@@ -8,6 +8,11 @@
 newtab-page-title = Жаңа бет
 newtab-settings-button =
     .title = Жаңа бетті баптаңыз
+newtab-personalize-settings-icon-label =
+    .title = Жаңа бетті жекелендіру
+    .aria-label = Баптаулар
+newtab-settings-dialog-label =
+    .aria-label = Баптаулар
 newtab-personalize-icon-label =
     .title = Жаңа бетті жекелендіру
     .aria-label = Жаңа бетті жекелендіру
