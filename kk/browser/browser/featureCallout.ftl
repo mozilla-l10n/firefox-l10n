@@ -76,10 +76,16 @@ sidebar-callout-survey-neutral = Бейтарап
 sidebar-callout-survey-dissatisfied = Нашар
 sidebar-callout-survey-very-dissatisfied = Өте нашар
 sidebar-callout-survey-dont-use-it = Мен оны қолданбаймын
+sidebar-callout-survey-productive-question =
+    Сіз бұл мәлімдемемен қаншалықты келісесіз:<br/>
+    "{ -brand-short-name } бүйір панелі маған өнімдірек болуыма көмектеседі"?
 sidebar-callout-survey-strongly-agree = Толықтай келісемін
 sidebar-callout-survey-agree = Келісемін
 sidebar-callout-survey-disagree = Келіспеймін
 sidebar-callout-survey-strongly-disagree = Мүлдем келіспеймін
+sidebar-callout-survey-features-question = Төменде ықтимал бүйір панелі мүмкіндіктері берілген. Олардың қайсысы { -brand-short-name } ішінде өнімділігіңізді көбірек арттырады?
+sidebar-callout-survey-split-view = Кез келген екі веб-сайтты қатар бөлінген көріністе бірден қараңыз
+sidebar-callout-survey-keep-website-open = Шолу кезінде веб-сайтты эл. пошта немесе күнтізбе сияқты бүйір панелінде ашық ұстаңыз
 sidebar-callout-survey-none-of-above = Жоғарыдағы ешқайсысы
 sidebar-callout-survey-submit = Жіберу
 sidebar-callout-survey-thank-you = Пікіріңізге рахмет!
