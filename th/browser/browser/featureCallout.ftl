@@ -59,3 +59,24 @@ split-dismiss-button-dont-show-option-label = ไม่ต้องแสดง�
 split-dismiss-button-show-fewer-option-label = แสดงคำแนะนำน้อยลง
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = จัดการการตั้งค่า
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-privacy-notice-link = ประกาศความเป็นส่วนตัว
+sidebar-callout-survey-very-satisfied = พึงพอใจมาก
+sidebar-callout-survey-satisfied = พึงพอใจ
+sidebar-callout-survey-neutral = เป็นกลาง
+sidebar-callout-survey-dissatisfied = ไม่พอใจ
+sidebar-callout-survey-very-dissatisfied = ไม่พอใจอย่างมาก
+sidebar-callout-survey-dont-use-it = ฉันไม่ได้ใช้มัน
+sidebar-callout-survey-strongly-agree = เห็นด้วยอย่างยิ่ง
+sidebar-callout-survey-agree = เห็นด้วย
+sidebar-callout-survey-disagree = ไม่เห็นด้วย
+sidebar-callout-survey-strongly-disagree = ไม่เห็นด้วยอย่างยิ่ง
+sidebar-callout-survey-saved-websites = เข้าถึงเว็บไซต์ที่บันทึกไว้ทั้งหมดของคุณได้อย่างรวดเร็ว
+sidebar-callout-survey-none-of-above = ไม่มีข้อใดข้างต้น
+sidebar-callout-survey-submit = ส่ง
+sidebar-callout-survey-thank-you = ขอบคุณสำหรับข้อคิดเห็นของคุณ!

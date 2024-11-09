@@ -545,8 +545,6 @@ urlbar-page-action-button =
     .tooltiptext = การกระทำหน้า
 urlbar-revert-button =
     .tooltiptext = แสดงที่อยู่ในแถบตำแหน่งที่ตั้ง
-urlbar-show-page-actions-button =
-    .tooltiptext = แสดงการกระทำหน้าทั้งหมด
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -616,6 +614,19 @@ urlbar-result-search-with-local-search-mode = { $keywords } - ค้นหา { 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - ค้นหาด้วย { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = เลือกเครื่องมือค้นหา
+urlbar-searchmode-bookmarks =
+    .label = ที่คั่นหน้า
+urlbar-searchmode-tabs =
+    .label = แท็บ
+urlbar-searchmode-history =
+    .label = ประวัติ
+urlbar-searchmode-actions =
+    .label = การกระทำ
+urlbar-searchmode-exit-button =
+    .tooltiptext = ปิด
+urlbar-searchmode-popup-search-settings = การตั้งค่าการค้นหา
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1011,6 +1022,7 @@ firefox-relay-offer-legal-notice = การคลิก “ใช้ตัว�
 popup-notification-addon-install-unsigned =
     .value = (ไม่ได้รับการยืนยัน)
 popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งส่วนเสริมอย่างปลอดภัย
+popup-notification-xpinstall-prompt-block-url = ดูรายละเอียด
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = เรียกใช้ในหน้าต่างส่วนตัว

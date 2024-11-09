@@ -8,6 +8,8 @@
 newtab-page-title = แท็บใหม่
 newtab-settings-button =
     .title = ปรับแต่งหน้าแท็บใหม่ของคุณ
+newtab-settings-dialog-label =
+    .aria-label = การตั้งค่า
 newtab-personalize-icon-label =
     .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
     .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
@@ -111,6 +113,7 @@ newtab-menu-save-to-pocket = บันทึกไปยัง { -pocket-brand-n
 newtab-menu-delete-pocket = ลบจาก { -pocket-brand-name }
 newtab-menu-archive-pocket = เก็บถาวรใน { -pocket-brand-name }
 newtab-menu-show-privacy-info = สปอนเซอร์ของเราและความเป็นส่วนตัวของคุณ
+newtab-menu-about-fakespot = เกี่ยวกับ { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

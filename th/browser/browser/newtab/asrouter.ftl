@@ -294,3 +294,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-start-browsing-primary-button-label = เริ่มต้นการเรียกดู
+multi-cta-fox-doodle-main-browser-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
