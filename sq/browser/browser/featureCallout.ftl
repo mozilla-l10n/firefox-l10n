@@ -64,3 +64,14 @@ split-dismiss-button-manage-settings-option-label = Administroni rregullime
 
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash
 sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Ndihmoni të përmirësohet { -brand-short-name }-i
+sidebar-callout-survey-privacy-notice-link = Shënim Mbi Privatësinë
+sidebar-callout-survey-very-satisfied = Shumë i kënaqur
+sidebar-callout-survey-satisfied = I kënaqur
+sidebar-callout-survey-neutral = Asnjanës
+sidebar-callout-survey-dissatisfied = Jo i kënaqur
+sidebar-callout-survey-very-dissatisfied = Shumë i pakënaqur
+sidebar-callout-survey-dont-use-it = S’e përdor
