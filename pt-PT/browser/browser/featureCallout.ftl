@@ -59,3 +59,25 @@ split-dismiss-button-dont-show-option-label = Não mostrar esta recomendação n
 split-dismiss-button-show-fewer-option-label = Mostrar menos recomendações
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gerir definições
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mostrar títulos de separadores na barra lateral
+sidebar-button-callout-subtitle = Utilize o botão da barra lateral para expandir a barra lateral, de modo a que possa ver os títulos dos separadores.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Ajudar a melhorar o { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Qual o seu grau de satisfação com a experiência da barra lateral no { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Informação de privacidade
+sidebar-callout-survey-very-satisfied = Muito satisfeito(a)
+sidebar-callout-survey-satisfied = Satisfeito(a)
+sidebar-callout-survey-neutral = Neutro(a)
+sidebar-callout-survey-dissatisfied = Insatisfeito(a)
+sidebar-callout-survey-very-dissatisfied = Muito insatisfeito(a)
+sidebar-callout-survey-dont-use-it = Não utilizo
+sidebar-callout-survey-productive-question =
+    Em que medida concorda ou discorda da seguinte afirmação:<br/>
+    “A barra lateral do { -brand-short-name } ajuda-me a aumentar a minha produtividade”?
+sidebar-callout-survey-strongly-agree = Concordo plenamente
+sidebar-callout-survey-agree = Concordo
