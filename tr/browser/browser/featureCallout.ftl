@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Orta
 sidebar-callout-survey-dissatisfied = Memnun değilim
 sidebar-callout-survey-very-dissatisfied = Hiç memnun değilim
 sidebar-callout-survey-dont-use-it = Kullanmıyorum
+sidebar-callout-survey-productive-question =
+    Aşağıdaki ifadeye katılıyor musunuz?:<br/>
+    “{ -brand-short-name } kenar çubuğu daha verimli olmamı sağlıyor”
 sidebar-callout-survey-strongly-agree = Kesinlikle katılıyorum
 sidebar-callout-survey-agree = Katılıyorum
 sidebar-callout-survey-disagree = Katılmıyorum
@@ -83,3 +86,4 @@ sidebar-callout-survey-strongly-disagree = Kesinlikle katılmıyorum
 sidebar-callout-survey-none-of-above = Yukarıdakilerin hiçbiri
 sidebar-callout-survey-submit = Gönder
 sidebar-callout-survey-thank-you = Geri bildiriminiz için teşekkür ederiz.
+sidebar-genai-survey-satisfaction-question = Kenar çubuğundan bir yapay zekâ sohbet botuna erişebilmenizden ne kadar memnunsunuz?
