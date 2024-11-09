@@ -64,3 +64,22 @@ split-dismiss-button-manage-settings-option-label = Ayarları yönet
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
 sidebar-button-callout-subtitle = Sekme başlıklarını görmek için kenar çubuğu düğmesini kullanarak kenar çubuğunu genişletin.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = { -brand-short-name } uygulamasını geliştirmemize yardım edin
+sidebar-callout-survey-satisfaction-question = { -brand-short-name } tarayıcısındaki kenar çubuğu deneyiminden ne kadar memnunsunuz?
+sidebar-callout-survey-privacy-notice-link = Gizlilik Bildirimi
+sidebar-callout-survey-very-satisfied = Çok memnunum
+sidebar-callout-survey-satisfied = Memnunum
+sidebar-callout-survey-neutral = Orta
+sidebar-callout-survey-dissatisfied = Memnun değilim
+sidebar-callout-survey-very-dissatisfied = Hiç memnun değilim
+sidebar-callout-survey-dont-use-it = Kullanmıyorum
+sidebar-callout-survey-strongly-agree = Kesinlikle katılıyorum
+sidebar-callout-survey-agree = Katılıyorum
+sidebar-callout-survey-disagree = Katılmıyorum
+sidebar-callout-survey-strongly-disagree = Kesinlikle katılmıyorum
+sidebar-callout-survey-none-of-above = Yukarıdakilerin hiçbiri
+sidebar-callout-survey-submit = Gönder
+sidebar-callout-survey-thank-you = Geri bildiriminiz için teşekkür ederiz.
