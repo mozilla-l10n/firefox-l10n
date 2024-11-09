@@ -64,7 +64,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-bookmark-fxa-header = ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-body = ਵਧੀਆ ਲੱਭੋ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। { -fxaccount-brand-name } ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-body-2 = ਵਧੀਆ ਖੋਜ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। ਖਾਤੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
-cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕ ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ਬੰਦ ਕਰੋ ਬਟਨ
     .title = ਬੰਦ ਕਰੋ
@@ -111,7 +111,7 @@ cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ਇਸ ਸਾਈਟ ਤੋਂ ਵੀਡੀਓ ਨੂੰ { -brand-short-name } ਦੇ ਇਸ ਵਰਜ਼ਨ ਉੱਤੇ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਇਦ ਚਲਾਇਆ ਨਾ ਜਾ ਸਕੇ। ਪੂਰੇ ਵੀਡੀਓ ਸਹਿਯੋਗ ਲਈ { -brand-short-name } ਨੂੰ ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ।
-cfr-doorhanger-video-support-header = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ{ -brand-short-name } ਅੱਪਡੇਟ ਕਰੋ
+cfr-doorhanger-video-support-header = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 cfr-doorhanger-video-support-primary-button = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
 
@@ -227,7 +227,7 @@ set-default-pdf-handler-primary = ਸਮਝੇ
 
 ## FxA sync CFR
 
-fxa-sync-cfr-header = ਤੁਹਾਡੇ ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ?
+fxa-sync-cfr-header = ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈਣਾ ਚਾਹੋਗੇ?
 fxa-sync-cfr-body = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਟੈਬਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੇਂ { -brand-product-name } ਬਰਾਊਜ਼ਰ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਮਿਲ ਰਹੇ ਹਨ।
 fxa-sync-cfr-primary = ਹੋਰ ਜਾਣੋ
     .accesskey = L
@@ -242,7 +242,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = ਸ਼ੁਰੂ ਕਰ�
 device-migration-fxa-spotlight-older-device-header = { -brand-product-name } ਵਲੋਂ, ਮਨ ਦੀ ਤਸੱਲੀ
 device-migration-fxa-spotlight-older-device-body = ਖਾਤਾ ਤੁਹਾਡੀ ਖਾਸ ਜਾਣਕਾਰੀ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਕਨੈਕਟ ਕੀਤੇ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਅੱਪਡੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
 device-migration-fxa-spotlight-older-device-primary-button = ਖਾਤਾ ਬਣਾਓ
-device-migration-fxa-spotlight-getting-new-device-header-2 = ਤੁਹਾਡੇ ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ?
+device-migration-fxa-spotlight-getting-new-device-header-2 = ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈਣਾ ਚਾਹੋਗੇ?
 device-migration-fxa-spotlight-getting-new-device-body-2 = ਜਦੋਂ ਤੁਸੀਂ ਨਵੇਂ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਉਣ ਲਈ ਅੱਗੇ ਦਿੱਤੇ ਕੁਝ ਪੜਾਅ ਪੂਰੇ ਕਰੋ।
 device-migration-fxa-spotlight-getting-new-device-primary-button = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਕਿਵੇਂ ਲਈਏ
 device-migration-fxa-spotlight-sync-header = ਬਿਨਾਂ ਪਲ਼ ਖੁੰਝਾਏ ਬਰਾਊਜ਼ ਕਰੋ
@@ -282,14 +282,14 @@ launch-on-login-infobar-final-reject-button = ਨਹੀਂ, ਧੰਨਵਾਦ
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = ਬੇਲੋੜੇ ਟਰੈਕਾਂ ਤੋਂ ਪਿੱਛੋਂ ਲਾਹੋ
 tail-fox-spotlight-subtitle = ਖਿਝਾਉਣ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ਨੂੰ ਕਹੋ ਅਲਵਿਦਾ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਅਤ, ਤੇਜ਼ ਇੰਟਰਨੈੱਟ ਦੇ ਲਵੋ ਨਜ਼ਾਰੇ।
-tail-fox-spotlight-primary-button = ਮੇਰੇ ਲਿੰਕ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+tail-fox-spotlight-primary-button = ਮੇਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 tail-fox-spotlight-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨਾਂ ਨੂੰ 14 ਜਨਵਰੀ 2024 ਤੋਂ ਸਮੱਸਿਆਵਾਂ ਆਉਣੀਆਂ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।</strong>
 root-certificate-succession-infobar-march-message = <strong>14 ਮਾਰਚ 2025 ਤੋਂ ਬਾਅਦ { -brand-short-name } ਵਰਤਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</strong>
-root-certificate-succession-infobar-link = ਮੈਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਕੀ ਲੋੜ ਹੈ?
+root-certificate-succession-infobar-link = ਮੈਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਕਿਉਂ ਹੈ?
 root-certificate-succession-infobar-primary-button =
     .label = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
