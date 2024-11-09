@@ -319,3 +319,8 @@ fxa-menu-message-backup-sync-collapsed-text = Сінхранізацыя і р�
 fxa-menu-message-mobile-primary-text = Адправіць карткі на тэлефон
 fxa-menu-message-mobile-secondary-text = Імгненна працягвайце з таго месца, дзе спыніліся, калі вы сінхранізуеце карткі з мабільнай прыладай.
 fxa-menu-message-mobile-collapsed-text = Сінхранізуйцеся з вашым тэлефонам
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = З вяртаннем
+multi-cta-fox-doodle-start-browsing-primary-button-label = Пачаць агляданне
