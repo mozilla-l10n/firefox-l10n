@@ -271,6 +271,11 @@ launch-on-login-infobar-final-reject-button = לא תודה
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = הורידו רכיבי מעקב טורדניים מהגב שלכם
 tail-fox-spotlight-primary-button = פתיחת הקישורים שלי באמצעות { -brand-short-name }
 tail-fox-spotlight-secondary-button = לא כעת
 
@@ -307,12 +312,16 @@ fxa-menu-message-mobile-collapsed-text = סנכרון עם הטלפון שלך
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = ברוכים השבים
+multi-cta-fox-doodle-set-default-checkbox = הגדרת { -brand-short-name } כברירת מחדל
 multi-cta-fox-doodle-pin-startmenu-checkbox = הצמדת { -brand-short-name } לתפריט ההתחל
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] שמירת { -brand-short-name } ב־Dock
        *[other] הצמדת { -brand-short-name } לשורת המשימות
     }
+multi-cta-fox-doodle-start-browsing-primary-button-label = התחלת גלישה
+multi-cta-fox-doodle-main-browser-primary-button-label = הגדרת { -brand-short-name } כדפדפן הראשי שלי
 multi-cta-fox-doodle-quick-reminder-subtitle = רק תזכורת קטנה שבאפשרותך לשמור את הדפדפן ממוקד הפרטיות האהוב עליך במרחק לחיצה אחת בלבד.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->

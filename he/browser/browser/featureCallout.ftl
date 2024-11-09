@@ -52,6 +52,7 @@ sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל ה
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = עזרה בשיפור { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = עד כמה הינך מרוצה מחווית סרגל הצד ב־{ -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = הצהרת פרטיות
 sidebar-callout-survey-very-satisfied = מאוד מרוצה
