@@ -2,6 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } - Selecionar perfil de utilizador
+profile-window-heading = Escolha um perfil do { -brand-short-name }
+profile-window-body = Mantenha o seu trabalho e navegação pessoal, incluindo coisas como palavras-passe e marcadores, totalmente separados. Ou crie perfis para todas as pessoas que utilizam este dispositivo.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Mostrar isto quando o { -brand-short-name } for iniciado
+profile-window-create-profile = Criar um perfil
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Perfil { $number }
+edit-profile-page-title = Editar perfil
+edit-profile-page-header = Editar o seu perfil
+edit-profile-page-profile-name-label = Nome do perfil
+edit-profile-page-theme-header = Tema
+edit-profile-page-explore-themes = Explorar mais temas
+edit-profile-page-avatar-header = Avatar
+edit-profile-page-delete-button =
+    .label = Eliminar
+edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrá-lo mais tarde. Renomeie-o a qualquer momento.
+edit-profile-page-duplicate-name = O nome de perfil já está a ser utilizado. Tente um novo nome.
+edit-profile-page-profile-saved = Guardado
+new-profile-page-title = Novo perfil
 new-profile-page-header = Personalize o seu novo perfil
 new-profile-page-header-description = Cada perfil mantém o seu próprio histórico de navegação único e definições separadas dos seus outros perfis. Além disso, as fortes proteções de privacidade do { -brand-short-name } estão ativadas por predefinição.
 new-profile-page-learn-more = Saber mais

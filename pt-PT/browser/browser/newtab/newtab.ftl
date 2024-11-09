@@ -319,6 +319,8 @@ newtab-wallpaper-dark-panda = Panda-vermelho escondido na floresta
 newtab-wallpaper-dark-sky = Paisagem da cidade com um pôr do sol
 newtab-wallpaper-dark-mountain = Paisagem montanhosa
 newtab-wallpaper-dark-city = Paisagem urbana em tons de roxo
+newtab-wallpaper-dark-fox-anniversary = Uma raposa no passeio junto a uma floresta
+newtab-wallpaper-light-fox-anniversary = Uma raposa num campo verdejante com uma paisagem de montanhas envoltas em nevoeiro.
 
 ## Solid Colors
 
