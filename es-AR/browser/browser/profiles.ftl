@@ -70,3 +70,9 @@ profiles-ocean-theme = Océano
 profiles-terracotta-theme = Terracota
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme = Musgo
+# The default light theme
+profiles-light-theme = Claro
+# The default dark theme
+profiles-dark-theme = Oscuro
+# The default system theme
+profiles-system-theme = Sistema
