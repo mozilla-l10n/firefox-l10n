@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Choose User Profile
 profile-window-heading = Choose a { -brand-short-name } profile
 profile-window-body = Keep your work and personal browsing, including things like passwords and bookmarks, totally separate. Or create profiles for everyone who uses this device.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Show this when { -brand-short-name } opens
 profile-window-create-profile = Create a profile
@@ -41,19 +41,38 @@ delete-profile-page-title = Delete { $profilename } profile
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Delete { $profilename } profile?
 delete-profile-description = { -brand-short-name } will permanently delete the following data from this device:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Open windows
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Open tabs
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Bookmarks
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = History (visited pages, cookies, site data)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Autofill data (addresses, payment methods)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Passwords
 # Button label
 delete-profile-cancel = Cancel
 # Button label
 delete-profile-confirm = Delete
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Marigold
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Lavender
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Lichen
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Magnolia
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Ocean
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = Terracotta
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Moss
+# The default light theme
+profiles-light-theme = Light
+# The default dark theme
+profiles-dark-theme = Dark
+# The default system theme
+profiles-system-theme = System
