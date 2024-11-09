@@ -8,6 +8,11 @@
 newtab-page-title = Skedë e Re
 newtab-settings-button =
     .title = Personalizoni faqen tuaj Skedë e Re
+newtab-personalize-settings-icon-label =
+    .title = Personalizoni Skedën e Re
+    .aria-label = Rregullime
+newtab-settings-dialog-label =
+    .aria-label = Rregullime
 newtab-personalize-icon-label =
     .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re

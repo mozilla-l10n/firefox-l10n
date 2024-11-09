@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Zgjidhni Profil Përdoruesi
 profile-window-heading = Zgjidhni një profil { -brand-short-name }
 profile-window-body = Mbani punën tuaj dhe shfletimin personal, përfshi gjëra të tilla si fjalëkalime dhe faqerojtës, tërësish të ndarë nga njëri-tjetri. Ose krijoni profile për këdo që përdor këtë pajisje.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Shfaqe këtë kur hapet { -brand-short-name }-i
 profile-window-create-profile = Krijoni profil
@@ -41,19 +41,24 @@ delete-profile-page-title = Fshije profilin { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Të fshihet profili { $profilename }?
 delete-profile-description = { -brand-short-name }-i do të fshijë përgjithmonë të dhënat vijuese nga kjo pajisje:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Dritare të hapura
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Skeda të hapura
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Faqerojtës
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Historik (faqe të vizituara, “cookies”, të dhëna sajtesh)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Të dhëna vetëplotësimesh (adresa, metoda pagesash)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Fjalëkalime
 # Button label
 delete-profile-cancel = Anuloje
 # Button label
 delete-profile-confirm = Fshije
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# The default light theme
+profiles-light-theme = E çelët
+# The default dark theme
+profiles-dark-theme = E errët
+# The default system theme
+profiles-system-theme = Sistem

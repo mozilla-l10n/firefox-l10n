@@ -315,3 +315,17 @@ fxa-menu-message-backup-sync-collapsed-text = Njëkohësoni dhe kopjeruani të d
 fxa-menu-message-mobile-primary-text = Dërgoni skeda te telefoni juaj
 fxa-menu-message-mobile-secondary-text = Vazhdoni menjëherë ku e latë, kur njëkohësoni skedat tuaja me një pajisje celulare.
 fxa-menu-message-mobile-collapsed-text = Njëkohësojini me telefonin tuaj
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Mirë se u kthyet
+multi-cta-fox-doodle-set-default-checkbox = Vëreni { -brand-short-name }-in si parazgjedhje
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fiksoje { -brand-short-name }-in te menuja e Nisjes
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mbaje { -brand-short-name }-in te Paneli
+       *[other] Fiksoje { -brand-short-name }-in te paneli i punëve
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Nisni shfletimin
+multi-cta-fox-doodle-main-browser-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim kryesor
+multi-cta-fox-doodle-quick-reminder-subtitle = Ja një kujtues i shpejtë se shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia mund ta mbani vetëm një klikim larg.

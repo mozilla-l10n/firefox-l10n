@@ -68,6 +68,7 @@ sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgje
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ndihmoni të përmirësohet { -brand-short-name }-i
+sidebar-callout-survey-satisfaction-question = Sa i kënaqur jeni me funksionimin e anështyllës në { -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = Shënim Mbi Privatësinë
 sidebar-callout-survey-very-satisfied = Shumë i kënaqur
 sidebar-callout-survey-satisfied = I kënaqur
@@ -75,3 +76,14 @@ sidebar-callout-survey-neutral = Asnjanës
 sidebar-callout-survey-dissatisfied = Jo i kënaqur
 sidebar-callout-survey-very-dissatisfied = Shumë i pakënaqur
 sidebar-callout-survey-dont-use-it = S’e përdor
+sidebar-callout-survey-productive-question =
+    Në çfarë mase pajtoheni, ose nuk pajtoheni me këtë pohim:<br/>
+    “Anështylla e { -brand-short-name }-it më ndihmon të jem më prodhimtar”?
+sidebar-callout-survey-strongly-agree = Pajtohem Fort
+sidebar-callout-survey-agree = Pajtohem
+sidebar-callout-survey-disagree = Nuk pajtohem
+sidebar-callout-survey-strongly-disagree = Nuk pajtohem fare
+sidebar-callout-survey-saved-websites = Hyrje e shpejtë te krejt sajtet tuaj të ruajtur
+sidebar-callout-survey-none-of-above = Asnjë prej sa më sipër
+sidebar-callout-survey-submit = Parashtroje
+sidebar-callout-survey-thank-you = Faleminderit për përshtypjet tuaja!
