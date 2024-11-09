@@ -303,12 +303,21 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [two] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
        *[other] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+        [one] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+        [two] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+       *[other] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 about-logins-confirm-export-dialog-message = ᱟᱢᱟᱜᱽ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱚᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱟᱺᱪᱟᱣᱜᱼᱟ (e.g., BadP@ssw0rd) ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱨᱮᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
+about-logins-confirm-export-dialog-title2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱩᱪᱟᱹᱲ ᱵᱟᱨᱮᱛᱮ ᱢᱤᱫ ᱱᱚᱴ
 about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
