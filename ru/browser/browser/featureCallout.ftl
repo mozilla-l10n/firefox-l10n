@@ -64,3 +64,30 @@ split-dismiss-button-manage-settings-option-label = Управление нас�
 
 sidebar-button-callout-title = Показывать заголовки вкладок на боковой панели
 sidebar-button-callout-subtitle = Используйте кнопку боковой панели, чтобы развернуть боковую панель и увидеть заголовки вкладок.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Помогите улучшить { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Насколько вы удовлетворены боковой панелью в { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Уведомление о конфиденциальности
+sidebar-callout-survey-very-satisfied = Очень доволен
+sidebar-callout-survey-satisfied = Доволен
+sidebar-callout-survey-neutral = Нейтрален
+sidebar-callout-survey-dissatisfied = Недоволен
+sidebar-callout-survey-very-dissatisfied = Очень недоволен
+sidebar-callout-survey-dont-use-it = Я её не использую
+sidebar-callout-survey-productive-question =
+    В какой степени вы согласны или не согласны с этим заявлением:<br/>
+    «Боковая панель { -brand-short-name } помогает мне быть более продуктивным»?
+sidebar-callout-survey-strongly-agree = Полностью согласен
+sidebar-callout-survey-agree = Согласен
+sidebar-callout-survey-disagree = Не согласен
+sidebar-callout-survey-strongly-disagree = Полностью не согласен
+sidebar-callout-survey-features-question = Далее - потенциальные возможности боковой панели. Что больше всего повысит вашу производительность в { -brand-short-name }?
+sidebar-callout-survey-split-view = Просмотр любых двух веб-сайтов одновременно, в горизонтальном раздельном представлении
+sidebar-callout-survey-keep-website-open = Удержание веб-сайта, например, электронной почты или календаря, открытыми в боковой панели при просмотре
+sidebar-callout-survey-saved-websites = Быстрый доступ ко всем сохранённым сайтам
+sidebar-callout-survey-none-of-above = Ничего из вышеперечисленного
+sidebar-callout-survey-submit = Отправить
+sidebar-callout-survey-thank-you = Спасибо за ваш отзыв!
+sidebar-genai-survey-satisfaction-question = Насколько вы довольны доступом к ИИ-чат-боту на боковой панели?
