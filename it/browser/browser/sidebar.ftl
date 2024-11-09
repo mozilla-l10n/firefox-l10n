@@ -7,7 +7,7 @@ menu-view-genai-chat =
 menu-view-review-checker =
     .label = Verifica recensioni
 sidebar-options-menu-button =
-  .title = Apri menu
+    .title = Apri menu
 
 ## Labels for sidebar history panel
 
@@ -104,6 +104,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Verifica recensioni
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Apri cronologia ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Chiudi cronologia ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Apri segnalibri ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Chiudi segnalibri ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Apri chatbot IA
+sidebar-menu-close-ai-chatbot-tooltip = Chiudi chatbot AI
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -125,8 +146,8 @@ sidebar-syncedtabs-title = Schede da altri dispositivi
 
 # Context for hovering over the close tab button that will
 # send a push to the device to close said tab
-# Variables
-# $deviceName - the name of the device the user is closing a tab for
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Chiudi scheda su { $deviceName }
 
@@ -144,4 +165,3 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Nascondi la barra laterale
     .label = Barre laterali
-

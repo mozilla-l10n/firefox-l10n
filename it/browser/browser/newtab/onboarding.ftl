@@ -423,3 +423,13 @@ onboarding-genai-sidebar-title = Prova un chatbot IA nella barra laterale
 onboarding-genai-sidebar-subtitle = Riassumi contenuti online, genera idee, scrivi bozze di messaggi, tutto questo mentre navighi. Seleziona tra vari fornitori, cambia quando vuoi. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 onboarding-genai-sidebar-primary-button = Scegli un chatbot
 onboarding-genai-sidebar-secondary-button = Inizia a navigare
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Completa la configurazione di { -brand-short-name }
+onboarding-checklist-subtitle = Completa questi passaggi per ottenere il massimo dalla tua esperienza di navigazione.
+onboarding-checklist-set-default = Imposta { -brand-short-name } come browser predefinito
+onboarding-checklist-pin = Aggiungi { -brand-short-name } alla barra delle applicazioni
+onboarding-checklist-import = Importa dal browser precedente
+onboarding-checklist-extension = Aggiungi un’estensione
+onboarding-checklist-sign-up = Registrati o accedi al tuo account

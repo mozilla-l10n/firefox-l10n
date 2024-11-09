@@ -12,6 +12,8 @@ profile-window-create-profile = Crea un profilo
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Profilo originale
 edit-profile-page-title = Modifica profilo
 edit-profile-page-header = Modifica il tuo profilo
 edit-profile-page-profile-name-label = Nome del profilo
