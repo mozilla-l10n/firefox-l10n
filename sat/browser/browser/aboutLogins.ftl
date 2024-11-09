@@ -288,6 +288,21 @@ about-logins-confirm-remove-all-dialog-title2 =
         [two] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
        *[other] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+        [one] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+        [two] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+       *[other] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
+        [two] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
+       *[other] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
+    }
 
 ##
 
