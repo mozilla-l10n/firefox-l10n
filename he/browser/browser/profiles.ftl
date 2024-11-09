@@ -5,7 +5,7 @@
 profile-window-title = ‏{ -brand-short-name } - בחירת פרופיל משתמש
 profile-window-heading = בחירת פרופיל { -brand-short-name }
 profile-window-body = ניתן לבחור לשמור את העבודה והגלישה האישית שלך, כולל דברים כמו ססמאות או סימניות, מופרדים לחלוטין. או ליצור פרופילים עבור כל מי שמשתמש במכשיר זה.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = להציג הודעה זו כאשר { -brand-short-name } נפתח
 profile-window-create-profile = יצירת פרופיל
@@ -41,19 +41,20 @@ delete-profile-page-title = מחיקת הפרופיל { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = למחוק את הפרופיל { $profilename }?
 delete-profile-description = ‏{ -brand-short-name } ימחק לצמיתות את הנתונים הבאים ממכשיר זה:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = חלונות פתוחים
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = לשוניות פתוחות
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = סימניות
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = היסטוריה (דפים שביקרת בהם, עוגיות, נתוני אתרים)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = נתוני מילוי אוטומטי (כתובות, אמצעי תשלום)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = ססמאות
 # Button label
 delete-profile-cancel = ביטול
 # Button label
 delete-profile-confirm = מחיקה
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# The default system theme
+profiles-system-theme = מערכת
