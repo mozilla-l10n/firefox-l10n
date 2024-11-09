@@ -318,6 +318,10 @@ about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟ�
 about-logins-confirm-export-dialog-message = ᱟᱢᱟᱜᱽ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱚᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱟᱺᱪᱟᱣᱜᱼᱟ (e.g., BadP@ssw0rd) ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱨᱮᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
 about-logins-confirm-export-dialog-title2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱩᱪᱟᱹᱲ ᱵᱟᱨᱮᱛᱮ ᱢᱤᱫ ᱱᱚᱴ
+about-logins-confirm-export-dialog-message2 =
+    ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱮᱢ ᱩᱪᱟᱹᱲ ᱟ, ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱞᱮᱠᱟᱱ ᱚᱱᱚᱞ ᱥᱟᱶ ᱢᱤᱫ ᱨᱮᱫ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱛᱟᱦᱮᱱᱟ ᱾
+     ᱟᱢ ᱯᱷᱟᱭᱤᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱩᱪᱟᱹᱫ ᱠᱟᱛᱮ, ᱟᱞᱮ ᱫᱚ ᱚᱱᱟ ᱢᱮᱴᱟᱣ ᱜᱤᱰᱤ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱢᱮᱛᱟᱜ ᱢᱮᱭᱟ ᱡᱮ ᱮᱴᱟᱜ ᱠᱚ ᱡᱟᱦᱟᱸᱭ ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ ᱩᱱᱠᱩ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱟᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+about-logins-confirm-export-dialog-confirm-button2 = ᱩᱪᱟᱹᱲ ᱥᱟᱞᱟᱜ ᱞᱟᱦᱟ
 about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
@@ -359,6 +363,8 @@ about-logins-export-file-picker-title = ᱨᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮ�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ ᱩᱪᱟᱹᱲ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ.csv
@@ -415,6 +421,12 @@ about-logins-import-dialog-items-no-change =
         [one] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
         [two] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
        *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+        [one] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
+        [two] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
+       *[other] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
