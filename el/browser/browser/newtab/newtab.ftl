@@ -8,6 +8,11 @@
 newtab-page-title = Νέα καρτέλα
 newtab-settings-button =
     .title = Προσαρμογή της σελίδας Νέας Καρτέλας
+newtab-personalize-settings-icon-label =
+    .title = Εξατομίκευση νέας καρτέλας
+    .aria-label = Ρυθμίσεις
+newtab-settings-dialog-label =
+    .aria-label = Ρυθμίσεις
 newtab-personalize-icon-label =
     .title = Εξατομίκευση νέας καρτέλας
     .aria-label = Εξατομίκευση νέας καρτέλας

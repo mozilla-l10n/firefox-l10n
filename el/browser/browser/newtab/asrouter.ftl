@@ -315,3 +315,17 @@ fxa-menu-message-backup-sync-collapsed-text = Συγχρονισμός και α
 fxa-menu-message-mobile-primary-text = Αποστολή καρτελών στο τηλέφωνό σας
 fxa-menu-message-mobile-secondary-text = Συνεχίστε από εκεί που σταματήσατε όταν συγχρονίζετε τις καρτέλες σας με μια κινητή συσκευή.
 fxa-menu-message-mobile-collapsed-text = Συγχρονισμός με το τηλέφωνό σας
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Καλώς ορίσατε και πάλι
+multi-cta-fox-doodle-set-default-checkbox = Ορισμός του { -brand-short-name } ως προεπιλογή
+multi-cta-fox-doodle-pin-startmenu-checkbox = Καρφίτσωμα του { -brand-short-name } στο μενού έναρξης
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Διατήρηση { -brand-short-name } στο Dock
+       *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Έναρξη περιήγησης
+multi-cta-fox-doodle-main-browser-primary-button-label = Ορισμός { -brand-short-name } ως κύριου φυλλομετρητή
+multi-cta-fox-doodle-quick-reminder-subtitle = Ακολουθεί μια γρήγορη υπενθύμιση ότι μπορείτε να έχετε το αγαπημένο σας πρόγραμμα περιήγησης που έχει ως επίκεντρο το απόρρητό σας, μόνο ένα κλικ μακριά.

@@ -64,3 +64,30 @@ split-dismiss-button-manage-settings-option-label = Διαχείριση ρυθ�
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή
 sidebar-button-callout-subtitle = Χρησιμοποιήστε το κουμπί της πλαϊνής γραμμής για να αναπτύξετε την πλαϊνή γραμμή, ώστε να βλέπετε τους τίτλους καρτελών.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Βοηθήστε στη βελτίωση του { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Πόσο ικανοποιημένοι είστε με την εμπειρία της πλαϊνής γραμμής στο { -brand-short-name };
+sidebar-callout-survey-privacy-notice-link = Σημείωση απορρήτου
+sidebar-callout-survey-very-satisfied = Πολύ ικανοποιημένος/-η
+sidebar-callout-survey-satisfied = Ικανοποιημένος/-η
+sidebar-callout-survey-neutral = Ουδέτερος/-η
+sidebar-callout-survey-dont-use-it = Δεν το χρησιμοποιώ
+sidebar-callout-survey-productive-question =
+    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
+    “Με βοηθά η πλευρική γραμμή του { -brand-short-name } να γίνω πιο παραγωγικός/-ή”;
+sidebar-callout-survey-strongly-agree = Συμφωνώ απόλυτα
+sidebar-callout-survey-agree = Συμφωνώ
+sidebar-callout-survey-disagree = Διαφωνώ
+sidebar-callout-survey-strongly-disagree = Διαφωνώ απόλυτα
+sidebar-callout-survey-features-question = Τα παρακάτω είναι πιθανές λειτουργίες της πλαϊνής γραμμής. Τι θα βελτίωνε περισσότερο την παραγωγικότητά σας στο { -brand-short-name };
+sidebar-callout-survey-split-view = Προβολή δύο οποιωνδήποτε ιστοσελίδων ταυτόχρονα, σε διαιρεμένη προβολή δίπλα-δίπλα
+sidebar-callout-survey-saved-websites = Γρήγορη πρόσβαση σε όλες τις αποθηκευμένες ιστοσελίδες σας
+sidebar-callout-survey-none-of-above = Κανένα από τα παραπάνω
+sidebar-callout-survey-submit = Υποβολή
+sidebar-callout-survey-thank-you = Ευχαριστούμε για τα σχόλιά σας!
+sidebar-genai-survey-satisfaction-question = Πόσο ικανοποιημένοι είστε με την πρόσβαση σε ένα chatbot με AI στην πλευρική γραμμή;
+sidebar-genai-survey-productive-question =
+    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
+    “Με βοηθά το chatbot AI στην πλευρική γραμμή να είμαι πιο παραγωγικός/-ή”;
