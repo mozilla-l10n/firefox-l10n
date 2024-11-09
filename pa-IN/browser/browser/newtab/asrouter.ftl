@@ -204,20 +204,20 @@ cfr-cbh-confirm-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਖ਼ਾਰਜ ਕਰੋ
     .accesskey = R
 cfr-cbh-dismiss-button = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
-cookie-banner-blocker-onboarding-header = { -brand-short-name } ਨੇ ਹੁਣੇ ਹੀ ਤੁਹਾਡੇ ਲਈ ਕੂਕੀ ਬੈਨਰ ਤੋਂ ਇਨਕਾਰ ਕੀਤਾ
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ਨੇ ਹੁਣੇ ਹੀ ਤੁਹਾਡੇ ਲਈ ਕੂਕੀ ਬੈਨਰ ਉੱਤੇ ਰੋਕ ਲਾਈ
 cookie-banner-blocker-onboarding-body = ਇਸ ਸਾਈਟ ਲਈ ਤੁਹਾਡੇ ਲਈ ਘੱਟ ਧਿਆਨ ਭਟਕਣਾ, ਘੱਟ ਕੂਕੀਜ਼ ਟਰੈਕਿੰਗ ਹੈ।
 cookie-banner-blocker-onboarding-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਢਾਲ ਬਣ ਕੇ ਖੜ੍ਹੇ ਹਾਂ
-july-jam-body = ਹਰ ਮਹੀਨੇ { -brand-short-name } ਹਰ ਵਰਤੋਂਕਾਰ ਲਈ ਔਸਤਨ 3,000+  ਟਰੈਕਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਕੇ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ, ਤੇਜ਼ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+july-jam-body = ਹਰ ਮਹੀਨੇ { -brand-short-name } ਹਰ ਵਰਤੋਂਕਾਰ ਲਈ ਔਸਤਨ 3,000+ ਟਰੈਕਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਕੇ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ, ਤੇਜ਼ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 july-jam-set-default-primary = ਮੇਰੇ ਲਿੰਕ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 fox-doodle-pin-headline = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = ਤੁਹਾਨੂੰ ਯਾਦ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਾਂ ਕਿ ਤੁੁਹਾਡਾ ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਸਿਰਫ਼ ਇੱਕ ਕਲਿੱਕ ਜਿੰਨੀ ਦੂਰ ਹੈ।
-fox-doodle-pin-primary = ਮੇਰੇ ਲਿੰਕ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+fox-doodle-pin-primary = ਮੇਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 fox-doodle-pin-secondary = ਹੁਣੇ ਨਹੀਂ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
@@ -228,7 +228,7 @@ set-default-pdf-handler-primary = ਸਮਝੇ
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈਣਾ ਚਾਹੋਗੇ?
-fxa-sync-cfr-body = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਟੈਬਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੇਂ { -brand-product-name } ਬਰਾਊਜ਼ਰ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਮਿਲ ਰਹੇ ਹਨ।
+fxa-sync-cfr-body = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਨਵਾਂ { -brand-product-name } ਬਰਾਊਜ਼ਰ ਖੋਲ੍ਹੋ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਟੈਬਾਂ ਤੁਹਾਡੇ ਲਈ ਮੌਜੂਦ ਹਨ।
 fxa-sync-cfr-primary = ਹੋਰ ਜਾਣੋ
     .accesskey = L
 fxa-sync-cfr-secondary = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ

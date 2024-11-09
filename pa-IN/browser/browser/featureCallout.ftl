@@ -64,3 +64,20 @@ split-dismiss-button-manage-settings-option-label = ਸੈਟਿੰਗਾਂ ਦ
 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
 sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = { -brand-short-name } ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ
+sidebar-callout-survey-satisfaction-question = { -brand-short-name } ਵਿੱਚ ਬਾਹੀ ਦੇ ਤਜਰਬੇ ਨਾਲ ਤੁਸੀਂ ਕਿੰਨੇ ਕੁ ਸੰਤੁਸ਼ਟ ਹੋ?
+sidebar-callout-survey-privacy-notice-link = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+sidebar-callout-survey-very-satisfied = ਬਹੁਤ ਸੰਤੁਸ਼ਟ
+sidebar-callout-survey-satisfied = ਸੰਤੁਸ਼ਟ
+sidebar-callout-survey-neutral = ਠੀਕ-ਠਾਕ
+sidebar-callout-survey-dissatisfied = ਅਸੰਤੁਸ਼ਟ
+sidebar-callout-survey-very-dissatisfied = ਬਹੁਤ ਅਸੰਤੁਸ਼ਟ
+sidebar-callout-survey-dont-use-it = ਮੈ ਇਸ ਨੂੰ ਨਹੀਂ ਵਰਤਦਾ/ਵਰਤਦੀ ਹਾਂ
+sidebar-callout-survey-productive-question = ਤੁਸੀਂ ਅੱਗੇ ਦਿੱਤੇ ਬਿਆਨ ਨਾਲ ਕਿੰਨਾ ਸਹਿਮਤ ਜਾਂ ਅਸਹਿਮਤ ਹੋ:<br/>“{ -brand-short-name } ਬਾਹੀ ਨੇ ਮੇਰੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵਧਾਉਣ ਲਈ ਮਦਦ ਕੀਤੀ ਹੈ”?
+sidebar-callout-survey-strongly-agree = ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ
+sidebar-callout-survey-agree = ਸਹਿਮਤ
+sidebar-callout-survey-disagree = ਅਸਹਿਮਤ
+sidebar-callout-survey-strongly-disagree = ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ
