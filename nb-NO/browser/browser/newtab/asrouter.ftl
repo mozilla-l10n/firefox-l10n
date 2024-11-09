@@ -309,6 +309,22 @@ fxa-menu-message-backup-data-primary-text = Sikkerhetskopier din nettleserdata
 fxa-menu-message-backup-data-secondary-text = Beskytt bokmerker, passord og annen informasjon automatisk på alle enhetene dine.
 fxa-menu-message-backup-data-collapsed-text = Sikkerhetskopier nettleserdata
 fxa-menu-message-backup-sync-primary-text = Hold dine data trygg og synkronisert
+fxa-menu-message-backup-sync-secondary-text = Synkronisering sikkerhetskopierer de fleste dataene dine slik at du kan få tilgang til dem overalt hvor du bruker { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Synkroniser og sikkerhetskopier data
+fxa-menu-message-mobile-primary-text = Send faner til telefonen din
+fxa-menu-message-mobile-secondary-text = Fortsett der du sluttet umiddelbart når du synkroniserer fanene dine med en mobilenhet.
+fxa-menu-message-mobile-collapsed-text = Synkroniser med telefonen din
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Velkommen tilbake
+multi-cta-fox-doodle-set-default-checkbox = Gjør { -brand-short-name } til standard
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fest { -brand-short-name } til Start-menyen
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i Dock
+       *[other] Fest { -brand-short-name } til oppgavelinjen
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Begynn å surfe
+multi-cta-fox-doodle-main-browser-primary-button-label = Gjør { -brand-short-name } til min hovednettleser
+multi-cta-fox-doodle-quick-reminder-subtitle = Her er en rask påminnelse om at du kan ha din favorittnettleser med fokus på personvern kun ett klikk unna.
