@@ -202,6 +202,8 @@ cfr-cbh-confirm-button = Tolak spanduk kuki
     .accesskey = T
 cfr-cbh-dismiss-button = Jangan sekarang
     .accesskey = J
+cookie-banner-blocker-onboarding-header = { -brand-short-name } baru saja menolak banner kuki untuk Anda
+cookie-banner-blocker-onboarding-body = Lebih sedikit gangguan, lebih sedikit kuki yang melacak Anda di situs ini.
 cookie-banner-blocker-onboarding-learn-more = Pelajari lebih lanjut
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -210,6 +212,10 @@ july-jam-headline = Kami membantu Anda
 july-jam-body = Setiap bulan { -brand-short-name } memblokir rata-rata 3000+ pelacak per pengguna, memberikan Anda akses yang aman dan cepat ke internet yang baik.
 july-jam-set-default-primary = Buka tautan saya dengan { -brand-short-name }
 fox-doodle-pin-headline = Selamat datang kembali
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ini adalah pengingat singkat bahwa Anda dapat menyimpan peramban indie favorit Anda hanya dengan sekali klik lagi.
+fox-doodle-pin-primary = Buka tautan saya dengan { -brand-short-name }
 fox-doodle-pin-secondary = Jangan sekarang
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
@@ -305,6 +311,25 @@ fxa-menu-message-backup-sync-primary-text = Jaga data Anda tetap aman dan tersin
 fxa-menu-message-backup-sync-secondary-text = Penyelarasan mencadangkan sebagian besar data Anda sehingga Anda dapat mengaksesnya di mana pun Anda menggunakan { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sinkronkan dan cadangkan data
 fxa-menu-message-mobile-primary-text = Kirim tab ke ponsel Anda
+fxa-menu-message-mobile-secondary-text = Lanjutkan di mana Anda terakhir berada secara instan saat Anda menyinkronkan tab Anda dengan perangkat seluler.
+fxa-menu-message-mobile-collapsed-text = Sinkronkan dengan ponsel Anda
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Selamat datang kembali
+multi-cta-fox-doodle-set-default-checkbox = Jadikan { -brand-short-name } baku
+multi-cta-fox-doodle-pin-startmenu-checkbox = Sematkan { -brand-short-name } ke menu Mulai
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Simpan { -brand-short-name } di Dok
+       *[other] Sematkan { -brand-short-name } ke bilah tugas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Mulai menjelajah
+multi-cta-fox-doodle-main-browser-primary-button-label = Jadikan { -brand-short-name } peramban utama saya
+multi-cta-fox-doodle-quick-reminder-subtitle = Ini adalah pengingat singkat bahwa Anda dapat menyimpan peramban favorit yang berfokus pada privasi hanya dengan sekali klik.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke Dok Anda.
+       *[other] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas Anda.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas dan menu Mulai Anda.
