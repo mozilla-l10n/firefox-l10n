@@ -329,3 +329,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Nisni shfletimin
 multi-cta-fox-doodle-main-browser-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim kryesor
 multi-cta-fox-doodle-quick-reminder-subtitle = Ja një kujtues i shpejtë se shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia mund ta mbani vetëm një klikim larg.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Mbajeni shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia, vetëm një klikim larg. Vëren { -brand-short-name }-in si shfletuesin tuaj parazgjedhje për hapje lidhjesh dhe mbajeni te Paneli juaj.
+       *[other] Mbajeni shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia, vetëm një klikim larg. Vëren { -brand-short-name }-in si shfletuesin tuaj parazgjedhje për hapje lidhjesh dhe fiksojeni te shtylla juaj e punëve.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mbajeni shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia, vetëm një klikim larg. Vëren { -brand-short-name }-in si shfletuesin tuaj parazgjedhje për hapje lidhjesh dhe fiksojeni te shtylla juaj e punëve dhe menuja e Nisjes.

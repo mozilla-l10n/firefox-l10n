@@ -90,3 +90,7 @@ sidebar-callout-survey-saved-websites = Hyrje e shpejtë te krejt sajtet tuaj t�
 sidebar-callout-survey-none-of-above = Asnjë prej sa më sipër
 sidebar-callout-survey-submit = Parashtroje
 sidebar-callout-survey-thank-you = Faleminderit për përshtypjet tuaja!
+sidebar-genai-survey-satisfaction-question = Sa të kënaqur jeni me pasjen te anështylla e një roboti fjalosjesh IA?
+sidebar-genai-survey-productive-question =
+    Në çfarë mase pajtoheni, ose nuk pajtoheni me këtë pohim:<br/>
+    Roboti i fjalosjeve IA te anështylla më ndihmon të jem më prodhimtar”?
