@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Jadikan { -brand-short-name } peramban utama Anda?
 default-browser-prompt-message-pin = Simpan { -brand-short-name } di ujung jari Anda — jadikan sebagai peramban utama Anda dan sematkan ke bilah tugas Anda.
+default-browser-prompt-message-pin-msix = Simpan { -brand-short-name } di ujung jari Anda — jadikan sebagai peramban utama Anda dan sematkan ke taskbar dan menu Mulai Anda.
 default-browser-prompt-message-pin-mac = Simpan { -brand-short-name } di ujung jari Anda — jadikan browser default Anda dan simpan di Dock Anda.
 default-browser-prompt-button-primary-set = Setel sebagai peramban utama
 default-browser-prompt-button-primary-pin = Jadikan sebagai peramban utama
