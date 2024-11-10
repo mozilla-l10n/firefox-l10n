@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ
 ##
 
 xpinstall-disabled-locked = ᱥᱯᱷᱴᱣᱮᱭᱨ ᱵᱚᱦᱟᱞ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱫᱟᱨᱚᱭ ᱛᱮ ᱵᱟᱝ ᱞᱮᱜ ᱛᱮᱭᱟᱨ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
+xpinstall-disabled-by-policy = ᱥᱯᱷᱴᱣᱮᱭᱨ ᱵᱚᱦᱟᱞ ᱟᱢᱤᱡ ᱜᱟᱶᱛᱟ ᱫᱟᱨᱚᱭ ᱛᱮ ᱵᱟᱝ ᱞᱮᱜ ᱛᱮᱭᱟᱨ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
 xpinstall-disabled = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱫᱚ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫ ᱛᱷᱟᱲ ᱠᱟᱱᱟ ᱾ ᱮᱢ ᱪᱷᱚᱛ ᱨᱮ ᱚᱛᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
 xpinstall-disabled-button =
     .label = ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ
