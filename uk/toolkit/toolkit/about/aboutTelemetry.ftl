@@ -113,7 +113,7 @@ about-telemetry-slow-sql-hits = Попадання
 about-telemetry-slow-sql-average = Середній час (мс)
 about-telemetry-slow-sql-statement = Інструкція
 # these strings are used in the “Add-on Details” section
-about-telemetry-addon-table-id = Ідентифікатор додатку
+about-telemetry-addon-table-id = Ідентифікатор додатка
 about-telemetry-addon-table-details = Подробиці
 # Variables:
 #   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
