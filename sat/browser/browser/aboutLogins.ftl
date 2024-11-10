@@ -516,6 +516,12 @@ about-logins-import-report-modified2 =
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱤᱱ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱚ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
     }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤᱠᱤᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤ ᱠᱚ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱦᱩᱲᱟᱹᱜ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
