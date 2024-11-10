@@ -634,6 +634,9 @@ urlbar-searchmode-popup-search-settings = Setelan Pencarian
 urlbar-searchmode-button2 =
     .label = { $engine }, pilih mesin pencari
     .tooltiptext = { $engine }, pilih mesin pencari
+urlbar-searchmode-button-no-engine =
+    .label = Tidak ada pintasan yang dipilih, pilih pintasan
+    .tooltiptext = Tidak ada pintasan yang dipilih, pilih pintasan
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -956,12 +959,18 @@ data-reporting-notification-button =
     .accesskey = P
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Penjelajahan pribadi
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Penjelajahan pribadi
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Pencegahan kehilangan data (DLP) oleh { $agentName }. Klik untuk info lebih lanjut.
 content-analysis-panel-title = Perlindungan data
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Organisasi Anda menggunakan <b>{ $agentName }</b> untuk melindungi dari kehilangan data. <a data-l10n-name="info">Pelajari lebih lanjut</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Organisasi Anda menggunakan { $agentName } untuk melindungi dari kehilangan data. <a data-l10n-name="info">Pelajari lebih lanjut</a>

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Tidak dapat tersambung dengan aman karena protokol SSL telah dinonaktifkan.
 psmerr-ssl2-disabled = Tidak dapat tersambung dengan aman karena situs menggunakan protokol SSL versi lama dan tidak aman.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Anda telah menerima sertifikat yang tidak sah. Silakan hubungi administrator sistem atau kirim email kepada yang bersangkutan dan memberitahukan informasi berikut:
     
     Sertifikat Anda mengandung nomor seri yang sama dengan sertifikat lain yang dikeluarkan otoritas sertifikat. Mohon dibuat sertifikat baru yang memiliki nomor seri yang unik.
-
 ssl-error-export-only-server = Gagal tersambung dengan aman. Pihak lain tidak mendukung enkripsi tingkat tinggi.
 ssl-error-us-only-server = Gagal tersambung dengan aman. Pihak lain membutuhkan enkripsi tingkat tinggi yang tidak didukung.
 ssl-error-no-cypher-overlap = Tidak tersambung dengan pihak lain dengan aman: tidak ada algoritma enkripsi yang dimiliki bersama.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Tidak ada penanda algoritma TLS did
 ssl-error-unsupported-signature-algorithm = Pihak lain menggunakan kombinasi penanda dan algoritma hash yang tidak didukung.
 ssl-error-missing-extended-master-secret = Pihak lain mencoba untuk melanjutkan tanpa ekstensi extended_master_secret yang benar.
 ssl-error-unexpected-extended-master-secret = Pihak lain mencoba untuk melanjutkan ekstensi extended_master_secret yang tidak diharapkan.
-
 sec-error-io = Kesalahan Input/Output terjadi saat otorisasi keamanan.
 sec-error-library-failure = kegagalan pustaka keamanan.
 sec-error-bad-data = pustaka keamanan: menerima data salah.
@@ -319,7 +317,6 @@ sec-error-locked-password = Sandi terkunci.
 sec-error-unknown-pkcs11-error = Galat PKCS #11 tidak dikenal.
 sec-error-bad-crl-dp-url = URL tidak valid atau tidak didukung pada nama titik distribusi KRL.
 sec-error-cert-signature-algorithm-disabled = Sertifikat ditandatangani dengan algoritma tandatangan yang dinonaktifkan karena tidak aman.
-
 mozilla-pkix-error-key-pinning-failure = Server menggunakan key pinning (HPKP) tetapi tidak ada rantai sertifikat dipercaya yang dapat dibangun yang sesuai dengan pinset. Pelanggaran key pinning tidak dapat ditimpa.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server menggunakan sertifikat dengan ekstensi kendala dasar yang mengidentifikasi sebagai otoritas sertifikat. Hal ini salah untuk sertifikat yang diterbitkan dengan benar.
 mozilla-pkix-error-inadequate-key-size = Server menggunakan sertifikat dengan ukuran kunci yang terlalu kecil untuk membuat sambungan aman.
@@ -334,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Server menggunakan sertifikat yang
 mozilla-pkix-error-empty-issuer-name = Server menggunakan sertifikat dengan nama penerbit dibedakan yang kosong.
 mozilla-pkix-error-additional-policy-constraint-failed = Batasan kebijakan tambahan gagal ketika memvalidasi sertifikat ini.
 mozilla-pkix-error-self-signed-cert = Sertifikat ini tidak dipercayai karena ditandatangani sendiri.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Otoritas sertifikat yang menerbitkan sertifikat tidak dipercaya sebelum sertifikat diterbitkan.
 xp-java-remove-principal-error = Tidak dapat membuang prinsipal
 xp-java-delete-privilege-error = Tidak dapat menghapus privilege
 xp-java-cert-not-exists-error = Prinsipal berikut tidak memiliki sertifikat
-
 xp-sec-fortezza-bad-card = Kartu Fortezza tidak diinisialisasi dengan benar. Silakan copot dan kembalikan kepada penerbit Anda.
 xp-sec-fortezza-no-card = Tidak ada kartu Fortezza yang dapat ditemukan
 xp-sec-fortezza-none-selected = Tidak ada kartu Fortezza yang dipilih
