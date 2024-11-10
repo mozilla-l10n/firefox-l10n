@@ -811,6 +811,12 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = ຖາມຂ້ອຍສະເໝີ
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = ຍົກເລີກ
+    .accesskey = C
 
 ## Autorefresh blocker
 
