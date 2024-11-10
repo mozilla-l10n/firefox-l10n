@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Byt enkelt mellom einingar
 firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, loggar du først inn eller opprettar ein konto.
 firefoxview-tabpickup-step-signin-primarybutton = Hald fram
 firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle einingane dine
+firefoxview-syncedtabs-signin-description-2 = For å sjå faner du har opne på telefonen og andre einingar, logg inn eller registrer deg for ein konto. Med ein konto kan du også synkronisere passord, historikk, og meir.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-syncedtabs-signin-header = Hent faner same kvar du er
 firefoxview-syncedtabs-signin-description = Logg på kontoen din for å sjå faner frå dei andre einingane dine med { -brand-product-name }. Dersom du ikkje har ein konto, tek vi deg gjennom stega for å registrere deg.
@@ -42,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } f
 firefoxview-tabpickup-adddevice-learn-how = Les korleis
 firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-syncedtabs-adddevice-header-2 = Hent faner same kvar du er
+firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name } på telefonen eller ei anna datamaskin for å sjå faner her. Finn ut korleis du <a data-l10n-name="url">koplar til fleire einingar</a>.
 firefoxview-syncedtabs-adddevice-header = Logg inn på { -brand-product-name } på dei andre einingane dine
 firefoxview-syncedtabs-adddevice-description = Logg på alle einingane dine for å sjå fanene dine frå alle stadane du brukar { -brand-product-name }. <a data-l10n-name="url">Slik legg du til nye einingar</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
@@ -231,6 +233,7 @@ firefoxview-choose-browser-button = Vel nettlesar
 firefoxview-dont-remember-history-empty-header = Ingenting å vise
 firefoxview-dont-remember-history-empty-description = Vern av personvernet ditt er kjernen i det vi gjer. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } hugsar.
 firefoxview-dont-remember-history-empty-description-two = Basert på dei gjeldande innstillingane dine, hugsar ikkje { -brand-short-name } aktiviteten din mens du surfar. For å endre det, <a data-l10n-name="history-settings-url-two">endre historikkinnstillingane dine for å hugse historikken din</a>.
+firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over kva { -brand-short-name } hugsar
 
 ##
 

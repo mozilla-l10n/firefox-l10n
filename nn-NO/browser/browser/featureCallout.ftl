@@ -59,3 +59,23 @@ split-dismiss-button-dont-show-option-label = Ikkje vis denne tilrådinga igjen
 split-dismiss-button-show-fewer-option-label = Vis færre tilrådingar
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Handsam innstillingar
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Vis fanetitlar i sidestolpen
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-very-satisfied = Veldig fornøgd
+sidebar-callout-survey-satisfied = Fornøgd
+sidebar-callout-survey-neutral = Nøytral
+sidebar-callout-survey-agree = Einig
+sidebar-callout-survey-disagree = Ueinig
+sidebar-callout-survey-strongly-disagree = Heilt ueinig
+sidebar-callout-survey-none-of-above = Ingen av dei ovanfor
+sidebar-callout-survey-submit = Send inn
+sidebar-callout-survey-thank-you = Takk for tilbakemeldinga!
+sidebar-genai-survey-satisfaction-question = Kor fornøgd er du med å ha tilgang til ein AI-chatbot i sidestolpen?
+sidebar-genai-survey-productive-question =
+    I kva grad er du samd eller usamd i denne påstanden:<br/>
+    "AI-chatboten i sidestolpen hjelper meg å bli meir produktiv"?
