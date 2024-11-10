@@ -319,3 +319,10 @@ fxa-menu-message-backup-sync-collapsed-text = Синхронізація та р
 fxa-menu-message-mobile-primary-text = Надсилайте вкладки на телефон
 fxa-menu-message-mobile-secondary-text = Миттєво продовжуйте з того місця, де зупинилися, синхронізувавши свої вкладки з мобільним пристроєм.
 fxa-menu-message-mobile-collapsed-text = Синхронізуйте зі своїм телефоном
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = З поверненням
+multi-cta-fox-doodle-pin-startmenu-checkbox = Закріпити { -brand-short-name } у меню Пуск
+multi-cta-fox-doodle-start-browsing-primary-button-label = Почати перегляд
+multi-cta-fox-doodle-main-browser-primary-button-label = Зробити { -brand-short-name } моїм основним браузером
