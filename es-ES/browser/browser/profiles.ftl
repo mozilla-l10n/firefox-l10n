@@ -27,9 +27,26 @@ new-profile-page-title = Nuevo perfil
 new-profile-page-header = Personalizar el nuevo perfil
 new-profile-page-header-description = Cada perfil mantiene su historial de navegación y sus configuraciones únicos separados de los demás perfiles. Además, las sólidas protecciones de privacidad de { -brand-short-name } están activadas de forma predeterminada.
 new-profile-page-learn-more = Saber más
+new-profile-page-input-placeholder =
+    .placeholder = Elija un nombre como “Trabajo” o “Personal”
+new-profile-page-done-button =
+    .label = Edición terminada
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Eliminar el perfil { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = ¿Eliminar el perfil { $profilename }?
+delete-profile-description = { -brand-short-name } eliminará permanentemente los siguientes datos de este dispositivo:
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Pestañas abiertas
+delete-profile-bookmarks = Marcadores
+delete-profile-history = Historial (páginas visitadas, cookies, datos del sitio)
+delete-profile-autofill = Datos de auto completado (direcciones, métodos de pago)
+delete-profile-logins = Contraseñas
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
