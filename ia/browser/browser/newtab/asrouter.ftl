@@ -316,3 +316,10 @@ fxa-menu-message-backup-sync-collapsed-text = Synchronisa e preserva tu datos
 fxa-menu-message-mobile-primary-text = Invia schedas a tu telephono
 fxa-menu-message-mobile-secondary-text = Instantaneemente  reprende de ubi tu ha lassate quando tu synchronisa tu schedas con un apparato mobile.
 fxa-menu-message-mobile-collapsed-text = Synchronisa con tu telephono
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Bentornate
+multi-cta-fox-doodle-set-default-checkbox = Facer de { -brand-short-name } mi predefinite
+multi-cta-fox-doodle-start-browsing-primary-button-label = Comenciar a navigar
+multi-cta-fox-doodle-main-browser-primary-button-label = Facer de { -brand-short-name } mi navigator principal

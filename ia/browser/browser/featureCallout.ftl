@@ -64,3 +64,22 @@ split-dismiss-button-manage-settings-option-label = Gerer parametros
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Adjuta nos a meliorar { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Quanto es tu satisfacite del uso del barra lateral de { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Aviso de confidentialitate
+sidebar-callout-survey-very-satisfied = Absolutemente satisfacite
+sidebar-callout-survey-satisfied = Satisfacite
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Non satisfacite
+sidebar-callout-survey-very-dissatisfied = Absolutemente non satisfacite
+sidebar-callout-survey-dont-use-it = Io non lo usa
+sidebar-callout-survey-strongly-agree = Fortemente de accordo
+sidebar-callout-survey-agree = De accordo
+sidebar-callout-survey-disagree = Io dissenti
+sidebar-callout-survey-strongly-disagree = Io dissenti fortemente
+sidebar-callout-survey-none-of-above = Nihil del previe unos
+sidebar-callout-survey-submit = Inviar
+sidebar-callout-survey-thank-you = Gratias pro tu commentario!
