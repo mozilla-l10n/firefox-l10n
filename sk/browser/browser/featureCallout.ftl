@@ -64,3 +64,22 @@ split-dismiss-button-manage-settings-option-label = Spravovať nastavenia
 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
 sidebar-button-callout-subtitle = Pomocou tlačidla bočného panela rozbaľte bočný panel, aby ste videli názvy kariet.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Pomôžte vylepšiť { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Ako ste spokojný so skúsenosťami s bočným panelom vo { -brand-short-name(case: "loc") }?
+sidebar-callout-survey-privacy-notice-link = Zásady ochrany súkromia
+sidebar-callout-survey-very-satisfied = veľmi spokojný
+sidebar-callout-survey-satisfied = spokojný
+sidebar-callout-survey-neutral = neutrálny
+sidebar-callout-survey-dissatisfied = nespokojný
+sidebar-callout-survey-very-dissatisfied = veľmi nespokojný
+sidebar-callout-survey-dont-use-it = nepoužívam ho
+sidebar-callout-survey-productive-question =
+    Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
+    „Bočný panel { -brand-short-name(case: "gen") } mi pomáha byť produktívnejší“?
+sidebar-callout-survey-strongly-agree = rozhodne súhlasím
+sidebar-callout-survey-agree = súhlasím
+sidebar-callout-survey-disagree = nesúhlasím
+sidebar-callout-survey-strongly-disagree = rozhodne nesúhlasím

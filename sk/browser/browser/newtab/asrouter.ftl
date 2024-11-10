@@ -319,3 +319,15 @@ fxa-menu-message-backup-sync-collapsed-text = Synchronizujte a zálohujte dáta
 fxa-menu-message-mobile-primary-text = Odošlite karty do telefónu
 fxa-menu-message-mobile-secondary-text = Vďaka synchronizácii kariet s mobilným zariadením okamžite pokračujte tam, kde ste prestali.
 fxa-menu-message-mobile-collapsed-text = Synchronizujte s telefónom
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Vitajte späť
+multi-cta-fox-doodle-set-default-checkbox = Nastaviť { -brand-short-name } ako predvolený prehliadač
+multi-cta-fox-doodle-pin-startmenu-checkbox = Pripnúť { -brand-short-name } do ponuky Štart
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Ponechať { -brand-short-name } v Docku
+       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Poďme prehliadať
