@@ -20,6 +20,13 @@ edit-profile-page-explore-themes = Explorar más temas
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
+edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo fácilmente en el futuro. Se puede renombrar en cualquier momento.
+edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Pruebe con un nombre nuevo.
+edit-profile-page-profile-saved = Guardado
+new-profile-page-title = Nuevo perfil
+new-profile-page-header = Personalizar el nuevo perfil
+new-profile-page-header-description = Cada perfil mantiene su historial de navegación y sus configuraciones únicos separados de los demás perfiles. Además, las sólidas protecciones de privacidad de { -brand-short-name } están activadas de forma predeterminada.
+new-profile-page-learn-more = Saber más
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
