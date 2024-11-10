@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = Mbi të Drejtat Tuaja
-rights-intro = { -brand-full-name }-i është software i lirë dhe me burim të hapur, krijuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të duhej t'i dinit:
+rights-intro = { -brand-full-name }-i është <em>software</em> i lirë dhe me burim të hapët, krijuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të duhej t'i dinit:
 rights-intro-point-1 = { -brand-short-name }-i ju jepet sipas kushteve të <a data-l10n-name="mozilla-public-license-link">Licencës Publike Mozilla</a>. Kjo do të thotë që { -brand-short-name }-in mund ta përdorni, kopjoni dhe tua shpërndani të tjerëve. Jeni gjithashtu të lirë ta ndryshoni kodin burim të { -brand-short-name }-it në përputhje me nevojat tuaja. Licenca Publike Mozilla ju jep po ashtu të drejtën të shpërndani versionet tuaj të ndryshuar.
 rights-intro-point-2 = Mozilla nuk ju jep ndonjë të drejtë mbi shenja tregtare ose mbi licenca shenjash tregtare të Mozilla Foundation-it ose të çfarëdo pale të tretë, përfshi, pa kufizim, emrin dhe stemën e Firefox-it. Më tepër të dhëna rreth shenjave tregtare (trademarks) mund të gjeni <a data-l10n-name="mozilla-trademarks-link">këtu</a>.
 rights-intro-point-3 = Disa veçori te { -brand-short-name }-i, të tilla si Njoftuesi i Vithisjeve, ju ofrojnë mundësinë të jepni përshtypjet te { -vendor-short-name }. Duke zgjedhur parashtrim përshtypjesh, i jepni leje { -vendor-short-name }-s t’i përdorë përshtypjet për të përmirësuar produktet e veta, të botojë përshtypje te sajtet e veta dhe t’i shpërndajë përshtypjet.

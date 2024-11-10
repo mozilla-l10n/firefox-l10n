@@ -110,7 +110,7 @@ certerror-expired-cert-intro = { -brand-short-name }-i pikasi një problem dhe n
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = <b>{ $hostname }</b> sipas shumicës së gjasave është sajt i parrezik, por s’u vendos dot një lidhje e sigurt. Ky problem shkaktohet nga <b>{ $mitm }</b>,që është ose software në kompjuterin tuaj, ose në rrjetin tuaj.
+certerror-mitm = <b>{ $hostname }</b> sipas shumicës së gjasave është sajt i parrezik, por s’u vendos dot një lidhje e sigurt. Ky problem shkaktohet nga <b>{ $mitm }</b>,që ose është program në kompjuterin tuaj, ose në rrjetin tuaj.
 neterror-corrupted-content-intro = Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.
 neterror-corrupted-content-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
