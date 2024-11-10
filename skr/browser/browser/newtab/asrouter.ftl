@@ -311,6 +311,7 @@ fxa-menu-message-backup-data-primary-text = آپݨے براؤزر ڈیٹا دا 
 fxa-menu-message-backup-data-secondary-text = آپݨیاں ساریاں ڈیوائساں تے نشانیاں، پاس ورڈ، تے ٻیاں معلومات دی خودکار حفاظت کرو۔
 fxa-menu-message-backup-data-collapsed-text = براؤزر ڈیٹا دا بیک اپ گھنو
 fxa-menu-message-backup-sync-primary-text = آپݨاں ڈیٹا محفوظ تے ہم وقت تھیا رکھو
+fxa-menu-message-backup-sync-secondary-text = ہم وقت کرݨ تہاݙے ڈیٹا دا بیک اپ کریندی ہے تاکہ  ہر اوں جاء تے جتھ تساں { -brand-short-name } ورتیندے ہو، تساں ایندی رسائی حاصل کر سڳو۔
 fxa-menu-message-backup-sync-collapsed-text = ڈیٹا ہم وقت کرو تے بیک اپ کرو
 fxa-menu-message-mobile-primary-text = آپݨے فون تے ٹیباں بھیڄو
 fxa-menu-message-mobile-secondary-text = جہڑے ویلے تساں موبائل ڈیوائس نال آپݨے ٹیباں ہم وقت کریندے ہو تاں اتھاہوں شروع کرو جتھوں تساں چھوڑیا ہائی۔
