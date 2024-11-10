@@ -83,7 +83,11 @@ sidebar-callout-survey-strongly-agree = Kesinlikle katılıyorum
 sidebar-callout-survey-agree = Katılıyorum
 sidebar-callout-survey-disagree = Katılmıyorum
 sidebar-callout-survey-strongly-disagree = Kesinlikle katılmıyorum
+sidebar-callout-survey-split-view = İstediğiniz iki web sitesini yan yana bölünmüş görünümde görüntüleyin
 sidebar-callout-survey-none-of-above = Yukarıdakilerin hiçbiri
 sidebar-callout-survey-submit = Gönder
 sidebar-callout-survey-thank-you = Geri bildiriminiz için teşekkür ederiz.
 sidebar-genai-survey-satisfaction-question = Kenar çubuğundan bir yapay zekâ sohbet botuna erişebilmenizden ne kadar memnunsunuz?
+sidebar-genai-survey-productive-question =
+    Aşağıdaki ifadeye katılıyor musunuz?:<br/>
+    “Kenar çubuğundaki yapay zekâ sohbet botu daha verimli olmamı sağlıyor”
