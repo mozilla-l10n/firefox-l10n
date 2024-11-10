@@ -322,3 +322,16 @@ fxa-menu-message-backup-sync-collapsed-text = Daty synchronizěrowaś a zawěsć
 fxa-menu-message-mobile-primary-text = Sćelśo rejtariki na telefon
 fxa-menu-message-mobile-secondary-text = Cyńśo tam dalej, źož sćo ned zastał, gaž swóje rejtariki z mobilnym rědom synchronizěrujośo.
 fxa-menu-message-mobile-collapsed-text = Ze swójim telefonom synchronizěrowaś
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Witajśo slědk
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś
+multi-cta-fox-doodle-pin-startmenu-checkbox = Pśipějśo { -brand-short-name } k startowemu menijoju
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } w doku wóstajiś
+       *[other] Pśipějśo { -brand-short-name } k nadawkowej rědce
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Pśeglědowanje zachopiś
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ku głownemu wobglědowakoju cyniś
