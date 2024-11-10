@@ -25,6 +25,7 @@ update-applying = হালনাগাদ প্রয়োগ করা হ�
 update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
 update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
+update-policy-disabled = আপনার প্রতিষ্ঠান আপডেট ডিজেবল করে রেখেছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদকৃত
 aboutdialog-update-checking-failed = হালনাগাদের জন্য পরীক্ষা করা সম্ভব হয়নি।
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
@@ -36,6 +37,7 @@ aboutdialog-update-manual-with-link = হালনাগাদ যেখান�
 settings-update-manual-with-link = হালনাগাদ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। <label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরায় আরম্ভ হচ্ছে…
+update-internal-error2 = অভ্যন্তরীণ ত্রুটির কারণে নতুন সংস্করণ পরীক্ষা করা যাচ্ছে না৷ নতুন সংস্করণ পাওয়া যাবে যেই ঠিকানায়<label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
@@ -62,3 +64,14 @@ aboutDialog-version = { $version } ({ $bits }-বিট)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-বিট)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version }{ $arch }
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
