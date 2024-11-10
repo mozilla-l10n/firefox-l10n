@@ -331,3 +331,11 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Poďme prehliadať
+multi-cta-fox-doodle-main-browser-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
+multi-cta-fox-doodle-quick-reminder-subtitle = Tu je rýchle pripomenutie, že svoj obľúbený prehliadač zameraný na ochranu súkromia si môžete ponechať jediným kliknutím.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a ponechajte si ho v Docku.
+       *[other] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ponechajte si svoj obľúbený prehliadač zameraný na ochranu súkromia jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh a ponuku Štart.

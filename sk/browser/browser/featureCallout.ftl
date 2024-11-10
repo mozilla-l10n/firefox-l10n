@@ -83,3 +83,11 @@ sidebar-callout-survey-strongly-agree = rozhodne súhlasím
 sidebar-callout-survey-agree = súhlasím
 sidebar-callout-survey-disagree = nesúhlasím
 sidebar-callout-survey-strongly-disagree = rozhodne nesúhlasím
+sidebar-callout-survey-features-question = Nasledujú potenciálne funkcie bočného panela. Čo by najviac zlepšilo vašu produktivitu vo { -brand-short-name(case: "loc") }?
+sidebar-callout-survey-split-view = Zobrazte si ľubovoľné dve webové stránky naraz v rozdelenom zobrazení vedľa seba
+sidebar-callout-survey-submit = Odoslať
+sidebar-callout-survey-thank-you = Ďakujeme za vašu spätnú väzbu.
+sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k AI chatbotu na bočnom paneli?
+sidebar-genai-survey-productive-question =
+    Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
+    „AI chatbot na bočnom paneli mi pomáha byť produktívnejší“?

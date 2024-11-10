@@ -8,6 +8,11 @@
 newtab-page-title = Nová karta
 newtab-settings-button =
     .title = Prispôsobte si svoju stránku Nová karta
+newtab-personalize-settings-icon-label =
+    .title = Prispôsobte si Novú kartu
+    .aria-label = Nastavenia
+newtab-settings-dialog-label =
+    .aria-label = Nastavenia
 newtab-personalize-icon-label =
     .title = Prispôsobiť stránku novej karty
     .aria-label = Prispôsobiť stránku novej karty
