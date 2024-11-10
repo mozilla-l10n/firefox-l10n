@@ -72,3 +72,7 @@ profiles-terracotta-theme = Теракота
 profiles-moss-theme = Мох
 # The default light theme
 profiles-light-theme = Світла
+# The default dark theme
+profiles-dark-theme = Темна
+# The default system theme
+profiles-system-theme = Система
