@@ -424,15 +424,15 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 =
     { NUMBER($count) ->
-        [one] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
-        [two] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
-       *[other] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
+        [one] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
     { NUMBER($count) ->
-        [one] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
-        [two] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱤᱱ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
-       *[other] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱚ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
+        [one] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
+        [two] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱤᱱ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱚ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
     { NUMBER($count) ->
