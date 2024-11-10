@@ -145,3 +145,5 @@ fp-certerror-hide-advanced-button = Rozšyrjone schowaś
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Dalej k { $hostname } (riskantny)
+fp-certerror-intro = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Něchten, kótaryž twarźi, až toś to sedło wěcy ako informacije kreditowych kórtow, gronidła abo e-mailowe adrese kšadnjo.
+fp-certerror-expired-into = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Pak sedło njejo korektnje konfigurěrowane pak zeger wašogo rěda jo na wopacny datum/cas stajony.
