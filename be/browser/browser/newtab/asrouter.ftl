@@ -323,4 +323,13 @@ fxa-menu-message-mobile-collapsed-text = Сінхранізуйцеся з ва�
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = З вяртаннем
+multi-cta-fox-doodle-set-default-checkbox = Усталяваць { -brand-short-name } як прадвызначаны
+multi-cta-fox-doodle-pin-startmenu-checkbox = Замацаваць { -brand-short-name } у стартавым меню
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Трымаць { -brand-short-name } у доку
+       *[other] Замацаваць { -brand-short-name } на панэлі заданняў
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Пачаць агляданне
+multi-cta-fox-doodle-main-browser-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
+multi-cta-fox-doodle-quick-reminder-subtitle = Кароткі напамін аб тым, што вы можаце трымаць пад рукой свой любімы браўзер, арыентаваны на прыватнасць.
