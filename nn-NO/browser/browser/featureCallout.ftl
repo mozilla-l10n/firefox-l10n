@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Nøytral
 sidebar-callout-survey-dissatisfied = Misfornøgd
 sidebar-callout-survey-very-dissatisfied = Veldig misfornøgd
 sidebar-callout-survey-dont-use-it = Eg brukar han ikkje
+sidebar-callout-survey-productive-question =
+    I kva grad er du samd eller usamd i denne påstanden:<br/>
+    «Sidestolpen { -brand-short-name } hjelper meg å bli meir produktiv»?
 sidebar-callout-survey-strongly-agree = Heilt einig
 sidebar-callout-survey-agree = Einig
 sidebar-callout-survey-disagree = Ueinig
