@@ -428,6 +428,18 @@ about-logins-import-dialog-items-added2 =
         [two] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
        *[other] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count"></span>
     }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+        [one] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
+        [two] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱤᱱ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
+       *[other] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱚ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count"></span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+        [one] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+        [two] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+       *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>ᱵᱷᱩᱞ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
@@ -450,6 +462,7 @@ about-logins-import-dialog-error-try-import-again = ᱟᱹᱜᱩ ᱩᱛᱟᱹᱨ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-import-report-title = ᱟᱹᱜᱩ ᱵᱤᱵᱨᱚᱬ
 about-logins-import-report-description = ᱵᱚᱞᱚᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩ ᱠᱟᱱᱟ ᱾
+about-logins-import-report-description2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩ ᱠᱟᱱᱟ ᱾
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -457,6 +470,7 @@ about-logins-import-report-row-index = ᱛᱷᱟᱨ { $number }
 about-logins-import-report-row-description-no-change = ᱰᱩᱯᱞᱤᱠᱮᱴ : ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱡᱩᱲᱟᱹᱣ
 about-logins-import-report-row-description-modified = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱚᱞᱚ ᱠᱚ ᱟᱹᱯᱰᱮᱴᱮᱱᱟ
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
+about-logins-import-report-row-description-no-change2 = ᱰᱩᱯᱞᱤᱠᱮᱴ : ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱡᱩᱲᱟᱹᱣ
 about-logins-import-report-row-description-modified2 = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟᱫᱮᱨᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
 about-logins-import-report-row-description-added2 = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
@@ -489,6 +503,18 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ ᱠᱤᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ ᱠᱚ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱤᱱ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱤᱱ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱚ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
     }
 about-logins-import-report-error =
     { $count ->
