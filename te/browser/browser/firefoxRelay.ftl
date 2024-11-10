@@ -11,6 +11,9 @@
 
 ##
 
+firefox-relay-opt-in-confirmation-disable =
+    .label = దీన్ని మళ్ళీ నాకు చూపించకు
+    .accesskey = D
 firefox-relay-opt-in-confirmation-postpone =
     .label = ఇప్పుడు వద్దు
     .accesskey = N
