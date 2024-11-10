@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } - Výběr profilu uživatele
 profile-window-create-profile = Vytvořit profil
 # Variables
 #   $number (number) - The number of the profile
@@ -14,9 +15,13 @@ edit-profile-page-explore-themes = Prozkoumejte další motivy
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Smazat
+edit-profile-page-no-name = Tento profil pojmenujte, abyste jej později mohli najít. Kdykoli jej můžete přejmenovat.
 edit-profile-page-profile-saved = Uloženo
 new-profile-page-title = Nový profil
 new-profile-page-learn-more = Zjistit více
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 

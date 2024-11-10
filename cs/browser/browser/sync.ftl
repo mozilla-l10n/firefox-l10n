@@ -36,3 +36,11 @@ fxa-menu-sign-out =
     .label = Odhlásit se…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Získejte přístup ke svému webu odkudkoliv
+sync-setup-verify-continue = Pokračovat
+sync-setup-verify-title = Upozornění na sloučení
+sync-setup-verify-heading = Opravdu se chcete přihlásit k synchronizaci?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = K synchronizaci v tomto počítači byl dříve přihlášen jiný uživatel. Po přihlášení se záložky, hesla a další nastavení tohoto prohlížeče sloučí s účtem { $email }.

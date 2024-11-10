@@ -132,7 +132,11 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
+fp-certerror-advanced-title = Rozšířené
+fp-certerror-advanced-button = Rozšířené
+fp-certerror-hide-advanced-button = Skrýt rozšířené
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Pokračovat na { $hostname } (riskantní)

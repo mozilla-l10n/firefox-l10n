@@ -413,3 +413,8 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Přihlásit se
 fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
 fxa-menu-message-sync-devices-collapsed-text = Synchronizace všech zařízení
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Vítejte zpět
+multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet

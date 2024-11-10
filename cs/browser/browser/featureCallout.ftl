@@ -83,3 +83,20 @@ split-dismiss-button-manage-settings-option-label = Spravovat nastavení
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-privacy-notice-link = Zásady ochrany osobních údajů
+sidebar-callout-survey-very-satisfied = Velmi spokojený
+sidebar-callout-survey-satisfied = Spokojený
+sidebar-callout-survey-neutral = Neutrální
+sidebar-callout-survey-dissatisfied = Nespokojený
+sidebar-callout-survey-very-dissatisfied = Velmi nespokojený
+sidebar-callout-survey-dont-use-it = Nepoužívám
+sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
+sidebar-callout-survey-agree = Souhlasím
+sidebar-callout-survey-disagree = Nesouhlasím
+sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
+sidebar-callout-survey-none-of-above = Nic z výše uvedeného
+sidebar-callout-survey-submit = Odeslat
+sidebar-callout-survey-thank-you = Děkujeme za zpětnou vazbu!

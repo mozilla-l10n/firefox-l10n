@@ -8,6 +8,11 @@
 newtab-page-title = Nový panel
 newtab-settings-button =
     .title = Přizpůsobení stránky nového panelu
+newtab-personalize-settings-icon-label =
+    .title = Přizpůsobení nového panelu
+    .aria-label = Nastavení
+newtab-settings-dialog-label =
+    .aria-label = Nastavení
 newtab-personalize-icon-label =
     .title = Přizpůsobení nového panelu
     .aria-label = Přizpůsobení nového panelu
@@ -321,6 +326,8 @@ newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
 newtab-wallpaper-dark-sky = Městská krajina s noční oblohou
 newtab-wallpaper-dark-mountain = Horská scenérie
 newtab-wallpaper-dark-city = Fialová krajina města
+newtab-wallpaper-dark-fox-anniversary = Liška na chodníku u lesa
+newtab-wallpaper-light-fox-anniversary = Liška na louce se zamlženou horskou krajinou
 
 ## Solid Colors
 
