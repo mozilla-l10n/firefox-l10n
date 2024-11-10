@@ -382,8 +382,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare,
 onboarding-new-tabs-title = Fortel oss kvar du vil ha fanene dine
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Faner på sida
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Faner på toppen
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Vertikale faner er her
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Introduserer vertikale faner
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Prøv verikale faner
 onboarding-flair-text = Nytt!

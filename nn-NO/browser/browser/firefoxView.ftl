@@ -234,6 +234,7 @@ firefoxview-dont-remember-history-empty-header = Ingenting å vise
 firefoxview-dont-remember-history-empty-description = Vern av personvernet ditt er kjernen i det vi gjer. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } hugsar.
 firefoxview-dont-remember-history-empty-description-two = Basert på dei gjeldande innstillingane dine, hugsar ikkje { -brand-short-name } aktiviteten din mens du surfar. For å endre det, <a data-l10n-name="history-settings-url-two">endre historikkinnstillingane dine for å hugse historikken din</a>.
 firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over kva { -brand-short-name } hugsar
+firefoxview-dont-remember-history-empty-description-one = Akkurat no hugsar ikkje { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingane dine</a>.
 
 ##
 
