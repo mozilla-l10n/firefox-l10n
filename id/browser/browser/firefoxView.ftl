@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% selesai
 firefoxview-tabpickup-step-signin-header = Beralih antara perangkat dengan mulus
 firefoxview-tabpickup-step-signin-description = Untuk mengambil tab ponsel Anda di sini, masuk terlebih dahulu atau buat akun.
 firefoxview-tabpickup-step-signin-primarybutton = Lanjutkan
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } Anda di semua perangkat Anda
+firefoxview-syncedtabs-signin-description-2 = Untuk melihat tab yang telah Anda buka di ponsel dan perangkat lainnya, masuk atau daftar akun. Dengan akun, Anda juga dapat menyinkronkan kata sandi, riwayat, dan lainnya.
 firefoxview-syncedtabs-signin-primarybutton-2 = Masuk
 firefoxview-syncedtabs-signin-header = Ambil tab dari mana saja
 firefoxview-syncedtabs-signin-description = Untuk melihat seluruh tab dari semua tempat Anda menggunakan { -brand-product-name }, masuk ke akun Anda. Jika tidak memiliki akun, kami akan memandu Anda langkah demi langkah untuk mendaftar.
@@ -41,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Unduh { -brand-product-name } untu
 firefoxview-tabpickup-adddevice-learn-how = Pelajari caranya
 firefoxview-tabpickup-adddevice-primarybutton = Dapatkan { -brand-product-name } untuk ponsel
 firefoxview-syncedtabs-adddevice-header-2 = Ambil tab dari mana saja
+firefoxview-syncedtabs-adddevice-description-2 = Masuk ke { -brand-product-name } di ponsel Anda atau komputer lain untuk melihat tab di sini. Pelajari cara <a data-l10n-name="url">menghubungkan perangkat tambahan</a>.
 firefoxview-syncedtabs-adddevice-header = Masuk ke { -brand-product-name } pada perangkat lainnya
 firefoxview-syncedtabs-adddevice-description = Untuk melihat seluruh tab dari semua tempat Anda menggunakan { -brand-product-name }, masuk di semua perangkat Anda. Pelajari cara <a data-l10n-name="url">menghubungkan perangkat tambahan</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Coba { -brand-product-name } untuk ponsel
@@ -217,6 +220,7 @@ firefoxview-view-more-browsing-history = Tampilkan lebih banyak riwayat penelusu
 
 firefoxview-history-empty-header = Kembali ke tempat Anda sebelumnya
 firefoxview-history-empty-description = Saat Anda menjelajah, laman yang Anda kunjungi akan terdaftar di sini.
+firefoxview-history-empty-description-two = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengontrol aktivitas yang diingat { -brand-short-name }, di <a data-l10n-name="history-settings-url">setelan riwayat</a> Anda.
 
 ##
 
@@ -229,6 +233,8 @@ firefoxview-choose-browser-button = Pilih peramban
 firefoxview-dont-remember-history-empty-header = Tidak ada yang ditampilkan
 firefoxview-dont-remember-history-empty-description = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengendalikan aktivitas yang diingat { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Berdasarkan pengaturan Anda saat ini, { -brand-short-name } tidak mengingat aktivitas Anda saat menjelajah. Untuk mengubahnya, <a data-l10n-name="history-settings-url-two">ubah pengaturan riwayat untuk mengingat riwayat Anda</a>.
+firefoxview-dont-remember-history-empty-header-2 = Anda mengendalikan apa yang diingat { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = Saat ini, { -brand-short-name } tidak mengingat aktivitas penjelajahan Anda. Untuk mengubahnya, <a data-l10n-name="history-settings-url-two">perbarui pengaturan riwayat Anda</a>.
 
 ##
 

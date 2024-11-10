@@ -234,8 +234,33 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } dari { $quantity } ekstensi
+migration-wizard-progress-extensions-support-link = Pelajari bagaimana { -brand-product-name } mencocokkan ekstensi
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Tidak ada ekstensi yang cocok
+migration-wizard-progress-extensions-addons-link = Jelajahi ekstensi untuk { -brand-short-name }
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords = { $quantity } sandi
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history = Dari { $maxAgeInDays } hari terakhir
 migration-wizard-progress-success-formdata = Riwayat formulir
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods = { $quantity } metode pembayaran
+migration-wizard-safari-permissions-sub-header = Untuk mengimpor markah dan riwayat penjelajahan Safari:
 migration-wizard-safari-instructions-continue = Pilih “Lanjutkan”
+migration-wizard-safari-instructions-folder = Pilih folder Safari dalam daftar dan pilih "Buka"

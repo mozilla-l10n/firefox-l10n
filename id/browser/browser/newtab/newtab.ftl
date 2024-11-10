@@ -8,11 +8,18 @@
 newtab-page-title = Tab Baru
 newtab-settings-button =
     .title = Ubahsuai laman Tab Baru Anda
+newtab-personalize-settings-icon-label =
+    .title = Personalisasikan Tab Baru
+    .aria-label = Pengaturan
+newtab-settings-dialog-label =
+    .aria-label = Pengaturan
 newtab-personalize-icon-label =
     .title = Personalisasikan tab baru
     .aria-label = Personalisasikan tab baru
 newtab-personalize-dialog-label =
     .aria-label = Personalisasikan
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,7 @@ newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
+newtab-menu-about-fakespot = Tentang { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -195,6 +203,9 @@ newtab-section-header-recent-activity = Aktivitas terbaru
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Disarankan oleh { $provider }
+newtab-section-header-stories = Cerita yang menggugah pikiran
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Pilihan hari ini untuk Anda
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -203,6 +214,8 @@ newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan be
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Anda telah mengejar ketinggalan. Periksa kembali nanti untuk cerita lainnya. Tidak sabar? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -224,11 +237,19 @@ newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } adalah bagian dari keluarga { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Simpan
 newtab-pocket-saved = Disimpan
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Lainnya seperti ini
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Bukan untuk saya
 newtab-toast-thumbs-up-or-down = Terima kasih. Umpan balik Anda akan membantu kami meningkatkan umpan Anda.
 newtab-toast-dismiss-button =
     .title = Tutup
@@ -237,6 +258,7 @@ newtab-toast-dismiss-button =
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Temukan yang terbaik dari web
+newtab-pocket-onboarding-cta = { -pocket-brand-name } mengeksplorasi beragam publikasi untuk menghadirkan konten yang paling informatif, inspiratif, dan dapat dipercaya langsung ke peramban { -brand-product-name } Anda.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -260,6 +282,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Pintasan bersponsor
 newtab-custom-pocket-title = Disarankan oleh { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Konten luar biasa yang dikelola oleh { -pocket-brand-name }, bagian dari keluarga { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Cerita yang direkomendasikan
+    .description = Konten luar biasa yang dikurasi oleh keluarga { -brand-product-name }
 newtab-custom-pocket-sponsored = Konten bersponsor
 newtab-custom-pocket-show-recent-saves = Tampilkan penyimpanan terbaru
 newtab-custom-recent-title = Aktivitas terbaru
@@ -307,3 +332,9 @@ newtab-weather-menu-hide-weather = Sembunyikan cuaca di Tab Baru
 newtab-weather-menu-learn-more = Pelajari lebih lanjut
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Data cuaca tidak tersedia saat ini.
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
