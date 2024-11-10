@@ -67,3 +67,30 @@ sidebar-button-callout-subtitle = Utilice el botón de la barra lateral para exp
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Ayude a mejorar { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = ¿Cómo de satisfecho está con la experiencia de la barra lateral en { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Aviso de privacidad
+sidebar-callout-survey-very-satisfied = Muy satisfecho
+sidebar-callout-survey-satisfied = Satisfecho
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Insatisfecho
+sidebar-callout-survey-very-dissatisfied = Muy insatisfecho
+sidebar-callout-survey-dont-use-it = No lo uso
+sidebar-callout-survey-productive-question =
+    ¿En qué medida está de acuerdo o en desacuerdo con esta afirmación:<br/>
+    “La barra lateral de { -brand-short-name } me ayuda a ser más productivo”?
+sidebar-callout-survey-strongly-agree = Totalmente de acuerdo
+sidebar-callout-survey-agree = De acuerdo
+sidebar-callout-survey-disagree = En desacuerdo
+sidebar-callout-survey-strongly-disagree = Totalmente en desacuerdo
+sidebar-callout-survey-features-question = Las siguientes son características potenciales de la barra lateral. ¿Qué mejoraría más su productividad en { -brand-short-name }?
+sidebar-callout-survey-split-view = Ver dos sitios web a la vez, en una vista dividida uno al lado del otro
+sidebar-callout-survey-keep-website-open = Mantener un sitio web, como el correo electrónico o el calendario, abierto en la barra lateral mientras se navega
+sidebar-callout-survey-saved-websites = Acceso rápido a todos los sitios web guardados
+sidebar-callout-survey-none-of-above = Ninguna de las anteriores
+sidebar-callout-survey-submit = Enviar
+sidebar-callout-survey-thank-you = ¡Gracias por su opinión!
+sidebar-genai-survey-satisfaction-question = ¿En qué medida está satisfecho con tener acceso a un chatbot de IA en la barra lateral?
+sidebar-genai-survey-productive-question =
+    ¿En qué medida está de acuerdo o en desacuerdo con esta afirmación:<br/>
+    “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?

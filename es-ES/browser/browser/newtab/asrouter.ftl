@@ -315,3 +315,7 @@ fxa-menu-message-backup-sync-collapsed-text = Sincronizar y respaldar datos
 fxa-menu-message-mobile-primary-text = Envía pestañas a su teléfono
 fxa-menu-message-mobile-secondary-text = Continúe donde lo dejó instantáneamente al sincronizar las pestañas con un dispositivo móvil.
 fxa-menu-message-mobile-collapsed-text = Sincroniza con su teléfono
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Le damos de nuevo la bienvenida

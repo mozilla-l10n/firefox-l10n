@@ -47,6 +47,10 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Historial (páginas visitadas, cookies, datos del sitio)
 delete-profile-autofill = Datos de auto completado (direcciones, métodos de pago)
 delete-profile-logins = Contraseñas
+# Button label
+delete-profile-cancel = Cancelar
+# Button label
+delete-profile-confirm = Eliminar
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
