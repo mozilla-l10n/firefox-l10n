@@ -63,12 +63,20 @@ split-dismiss-button-manage-settings-option-label = Handsam innstillingar
 ## Sidebar Strings
 
 sidebar-button-callout-title = Vis fanetitlar i sidestolpen
+sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan sjå fanetitlar.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Hjelp til med å forbetre { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Kor fornøgd er du med sidestolpeopplevinga i { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Personvernerklæring
 sidebar-callout-survey-very-satisfied = Veldig fornøgd
 sidebar-callout-survey-satisfied = Fornøgd
 sidebar-callout-survey-neutral = Nøytral
+sidebar-callout-survey-dissatisfied = Misfornøgd
+sidebar-callout-survey-very-dissatisfied = Veldig misfornøgd
+sidebar-callout-survey-dont-use-it = Eg brukar han ikkje
+sidebar-callout-survey-strongly-agree = Heilt einig
 sidebar-callout-survey-agree = Einig
 sidebar-callout-survey-disagree = Ueinig
 sidebar-callout-survey-strongly-disagree = Heilt ueinig
