@@ -8,6 +8,11 @@
 newtab-page-title = Nowy rejtarik
 newtab-settings-button =
     .title = Bok wašogo nowego rejtarika pśiměriś
+newtab-personalize-settings-icon-label =
+    .title = Nowy rejtarik personalizěrowaś
+    .aria-label = Nastajenja
+newtab-settings-dialog-label =
+    .aria-label = Nastajenja
 newtab-personalize-icon-label =
     .title = Nowy rejtarik personalizěrowaś
     .aria-label = Nowy rejtarik personalizěrowaś

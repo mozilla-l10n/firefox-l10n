@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Wužywaŕski profil wubraś
 profile-window-heading = Wubjeŕśo profil { -brand-short-name }
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = To pokazaś, gaž se { -brand-short-name } wócynja
 profile-window-create-profile = Profil załožyś
@@ -39,19 +39,38 @@ delete-profile-page-title = Profil { $profilename } lašowaś
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Profil { $profilename } lašowaś?
 delete-profile-description = { -brand-short-name } na pśecej slědujuce daty z toś togo rěda wulašujo:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Wócynjone wokna
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Wócynjone rejtariki
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Cytańske znamjenja
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Historija (woglědane boki, cookieje, sedłowe daty)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Daty za awtomatiske wupołnjenje (adrese, płaśeńske metody)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Gronidła
 # Button label
 delete-profile-cancel = Pśetergnuś
 # Button label
 delete-profile-confirm = Lašowaś
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Knochanka
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Lawendel
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Lišawa
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Magnolija
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Ocean
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = Terakota
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Mech
+# The default light theme
+profiles-light-theme = Swětły
+# The default dark theme
+profiles-dark-theme = Śamny
+# The default system theme
+profiles-system-theme = System

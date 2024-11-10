@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Neutralny
 sidebar-callout-survey-dissatisfied = Njespokojom
 sidebar-callout-survey-very-dissatisfied = Wjelgin njespokojom
 sidebar-callout-survey-dont-use-it = To njewužywam
+sidebar-callout-survey-productive-question =
+    Do kótareje měry zwólijośo abo njezwólijośo do toś togo twarźenja:<br/>
+    „Bocnica { -brand-short-name } mě pomaga wěcej produktiwny byś“?
 sidebar-callout-survey-strongly-agree = Wjelgin wobjadny
 sidebar-callout-survey-agree = Wobjadny
 sidebar-callout-survey-disagree = Njewobjadny
@@ -87,3 +90,6 @@ sidebar-callout-survey-none-of-above = Nic z nich
 sidebar-callout-survey-submit = Wótpósłaś
 sidebar-callout-survey-thank-you = Źěkujomy se wam za waš komentar!
 sidebar-genai-survey-satisfaction-question = Kak spokojny sćo z pśistupom k chatbotoju KI w bocnicy?
+sidebar-genai-survey-productive-question =
+    Do kótareje měry zwólijośo abo njezwólijośo do toś togo twarźenja:<br/>
+    „Chatbot KI w bocnicy mě pomaga wěcej produktiwny byś“?
