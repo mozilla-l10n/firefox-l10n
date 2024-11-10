@@ -382,7 +382,7 @@ addon-detail-group-label-updates =
 addon-badge-private-browsing-allowed2 =
     .title = E lejuar në dritare private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Nën lejim, zgjerimi do të mund të shohë veprimtaritë tuaja në linjë, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
+addon-detail-private-browsing-help = Po të lejohet, zgjerimi do të mund të shohë veprimtaritë tuaja në internet, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
 addon-detail-private-browsing-disallow = Mos e Lejo
 # aria-label associated to the private browsing row to help screen readers to announce the group
