@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = ページ操作
 urlbar-revert-button =
     .tooltiptext = ロケーションバーにアドレスを表示します
-urlbar-show-page-actions-button =
-    .tooltiptext = すべてのページ操作を表示します
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,6 +618,29 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } で検索
+urlbar-searchmode-dropmarker =
+    .tooltiptext = 検索エンジンを選択します
+urlbar-searchmode-bookmarks =
+    .label = ブックマーク
+urlbar-searchmode-tabs =
+    .label = タブ
+urlbar-searchmode-history =
+    .label = 履歴
+urlbar-searchmode-actions =
+    .label = アクション
+urlbar-searchmode-exit-button =
+    .tooltiptext = 閉じる
+urlbar-searchmode-popup-description = 今回だけ使う検索エンジン:
+urlbar-searchmode-popup-search-settings = 検索設定
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = 検索エンジン: { $engine }、別の検索エンジンを選択
+    .tooltiptext = 検索エンジン: { $engine }、別の検索エンジンを選択します
+urlbar-searchmode-button-no-engine =
+    .label = ショートカットが選択されていません。ショートカットを選択
+    .tooltiptext = ショートカットが選択されていません。ショートカットを選択します
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -942,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = プライベートブラウジング
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = プライベートブラウジング
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName } によるデータ損失防止 (DLP)。詳細情報はクリックしてください。
 content-analysis-panel-title = データ保護
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = データ損失から保護するため所属組織が <b>{ $agentName }</b> を利用しています。<a data-l10n-name="info">詳細情報</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = データ損失から保護するため所属組織が { $agentName } を利用しています。<a data-l10n-name="info">詳細情報</a>
@@ -1015,6 +1042,7 @@ firefox-relay-offer-legal-notice = [メールマスクを使用] をクリック
 popup-notification-addon-install-unsigned =
     .value = (未検証)
 popup-notification-xpinstall-prompt-learn-more = アドオンの安全なインストールの詳細
+popup-notification-xpinstall-prompt-block-url = 詳細を見る
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = プライベートウィンドウで実行する
