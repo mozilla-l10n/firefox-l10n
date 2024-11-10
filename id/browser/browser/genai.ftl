@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Jelaskan ini
     .value = Jelaskan konsep penting dalam pilihan menggunakan bahasa sederhana. Gunakan contoh jika sesuai.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Saya berada di laman “{ $tabTitle }” dengan “{ $selection }” dipilih.
 
 ## Chatbot menu shortcuts
 
@@ -56,15 +60,24 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Tanyakan { $provider }…
+genai-shortcuts-hide =
+    .label = Sembunyikan pintasan bot obrolan
 
 ## Chatbot header
 
+genai-chatbot-title = Bot obrolan AI
+genai-header-provider-menu =
+    .title = Pilih bot obrolan
 genai-header-options-button =
     .title = Buka menu
 genai-header-close-button =
     .title = Tutup
 genai-provider-view-details =
     .label = Lihat detail chatbot
+genai-provider-about-chatbots =
+    .label = Tentang bot obrolan ini
+genai-options-reload-generic =
+    .label = Muat ulang bot obrolan AI
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Muat ulang { $provider }
@@ -72,9 +85,14 @@ genai-options-show-shortcut =
     .label = Tampilkan pintasan saat memilih teks
 genai-options-hide-shortcut =
     .label = Sembunyikan pintasan saat memilih teks
+genai-options-about-chatbot =
+    .label = Tentang bot obrolan AI dalam { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Meringkas, bertukar pikiran, dan banyak lagi saat Anda menjelajah
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Pilih bot obrolan AI untuk digunakan di bilah samping { -brand-short-name }. Kami akan menampilkan detail setiap bot obrolan saat Anda memilihnya. Beralih kapan saja. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 genai-onboarding-primary = Lanjutkan
 genai-onboarding-secondary = Tutup
 genai-onboarding-claude-tooltip =
@@ -96,7 +114,27 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Pelajari lebih lanjut tentang Le Chat
 genai-onboarding-select-header = Pilih teks untuk melihat saran
+genai-onboarding-select-description = Saat Anda memilih teks, kami akan menyarankan perintah yang dapat Anda kirim ke bot obrolan. Anda juga dapat menulis di prompt Anda sendiri.
+genai-onboarding-select-primary = Mulai mengobrol
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Menghasilkan teks dan kode
+genai-onboarding-claude-analyze = Menganalisis dokumen dan gambar
+genai-onboarding-claude-price = Opsi gratis dan berbayar; akun diperlukan
+genai-onboarding-chatgpt-generate = Menghasilkan teks, gambar, dan kode
+genai-onboarding-chatgpt-analyze = Menganalisis dokumen dan gambar
+genai-onboarding-chatgpt-price = Opsi gratis dan berbayar; akun diperlukan untuk beberapa negara dan tugas
+genai-onboarding-copilot-generate = Menghasilkan teks, gambar, dan kode
+genai-onboarding-copilot-analyze = Menganalisis gambar
+genai-onboarding-copilot-price = Opsi gratis dan berbayar; akun diperlukan untuk beberapa tugas
+genai-onboarding-gemini-generate = Menghasilkan teks, gambar, dan kode
+genai-onboarding-gemini-analyze = Menganalisis gambar (gratis) dan dokumen (berbayar)
+genai-onboarding-gemini-price = Opsi gratis dan berbayar; akun diperlukan
+genai-onboarding-huggingchat-generate = Menghasilkan teks dan kode
+genai-onboarding-huggingchat-switch = Beralih di antara berragam set dari model terbuka
+genai-onboarding-huggingchat-price-2 = Gratis; akun diperlukan setelah sejumlah permintaan tertentu
+genai-onboarding-huggingchat-price = Gratis; akun diperlukan untuk beberapa tugas
+genai-onboarding-lechat-generate = Menghasilkan teks dan kode
+genai-onboarding-lechat-price = Gratis; akun diperlukan
