@@ -21,6 +21,28 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } అంతరంగిక విహరణ
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } అంతరంగిక విహరణ
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — అంతరంగిక విహారణ
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — అంతరంగిక విహారణ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -457,6 +479,13 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-history =
+    .label = చరిత్ర
+urlbar-searchmode-actions =
+    .label = చర్యలు
+urlbar-searchmode-exit-button =
+    .tooltiptext = మూసివేయి
+urlbar-searchmode-popup-search-settings = వెతుకుడు అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -737,6 +766,9 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = ఎల్లప్పుడూ అడుగు
+    .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = రద్దుచేయి
     .accesskey = C
@@ -757,6 +789,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (నిర్ధారించబడనిది)
 popup-notification-xpinstall-prompt-learn-more = పొడగింతలను సురక్షితంగా స్థాపించుకోవడం గురించి ఇంకా తెలుసుకోండి
+popup-notification-xpinstall-prompt-block-url = వివరాలను చూడండి
 
 ## Pop-up warning
 

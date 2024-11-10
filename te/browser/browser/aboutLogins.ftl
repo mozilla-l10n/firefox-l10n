@@ -190,6 +190,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
+about-logins-confirm-export-dialog-confirm-button2 = ఎగుమతిని కొనసాగించు
 about-logins-alert-import-title = దిగుమతి పూర్తయింది
 about-logins-alert-import-message = వివరణాత్మక దిగుమతి సారాంశాన్ని చూడండి
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
