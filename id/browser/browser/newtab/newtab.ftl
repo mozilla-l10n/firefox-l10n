@@ -292,24 +292,90 @@ newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-recent-toggle =
     .label = Aktivitas terbaru
     .description = Pilihan situs dan konten terbaru
+newtab-custom-weather-toggle =
+    .label = Cuaca
+    .description = Sekilas prakiraan cuaca hari ini
 newtab-custom-close-button = Tutup
 newtab-custom-settings = Kelola pengaturan lainnya
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Gambar latar
+newtab-wallpaper-reset = Setel ulang ke bawaan
+newtab-wallpaper-light-red-panda = Panda merah
+newtab-wallpaper-light-mountain = Pegunungan putih
+newtab-wallpaper-light-sky = Langit dengan awan ungu dan merah muda
+newtab-wallpaper-light-color = Bentuk biru, merah muda, dan kuning
+newtab-wallpaper-light-landscape = Lanskap pegunungan kabut biru
+newtab-wallpaper-light-beach = Pantai dengan pohon palem
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Bentuk merah dan biru
+newtab-wallpaper-dark-panda = Panda merah tersembunyi di hutan
+newtab-wallpaper-dark-sky = Lanskap kota dengan langit malam
+newtab-wallpaper-dark-mountain = Lanskap pegunungan
+newtab-wallpaper-dark-city = Lanskap kota ungu
+newtab-wallpaper-dark-fox-anniversary = Seekor rubah di trotoar dekat hutan
+newtab-wallpaper-light-fox-anniversary = Seekor rubah di padang berrumput dengan lanskap pegunungan yang berkabut
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Warna-warni rata
+newtab-wallpaper-blue = Biru
+newtab-wallpaper-light-blue = Biru muda
+newtab-wallpaper-light-purple = Ungu muda
+newtab-wallpaper-light-green = Hijau muda
+newtab-wallpaper-green = Hijau
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Kuning
+newtab-wallpaper-orange = Jingga
+newtab-wallpaper-pink = Merah Muda
+newtab-wallpaper-light-pink = Merah muda terang
+newtab-wallpaper-red = Merah
+newtab-wallpaper-dark-blue = Biru tua
+newtab-wallpaper-dark-purple = Ungu tua
+newtab-wallpaper-dark-green = Hijau tua
+newtab-wallpaper-brown = Coklat
 
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrak
+newtab-wallpaper-abstract-green = Bentuk hijau
+newtab-wallpaper-abstract-blue = Bentuk biru
+newtab-wallpaper-abstract-purple = Bentuk ungu
+newtab-wallpaper-abstract-orange = Bentuk jingga
+newtab-wallpaper-gradient-orange = Gradien jingga dan merah muda
+newtab-wallpaper-abstract-blue-purple = Bentuk biru dan ungu
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Foto
+newtab-wallpaper-beach-at-sunrise = Pantai saat matahari terbit
+newtab-wallpaper-beach-at-sunset = Pantai saat matahari terbenam
+newtab-wallpaper-storm-sky = Langit badai
+newtab-wallpaper-sky-with-pink-clouds = Langit dengan awan merah muda
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda merah menguap di pohon
+newtab-wallpaper-white-mountains = Pegunungan putih
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto oleh <a data-l10n-name="name-link">{ $author_string }</a> di <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Coba percikan warna
+newtab-wallpaper-feature-highlight-content = Berikan Tab Baru Anda tampilan segar dengan gambar latar.
+newtab-wallpaper-feature-highlight-button = Paham
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Tutup
+    .aria-label = Tutup popup
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Lihat prakiraan di { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Bersponsor
@@ -335,6 +401,40 @@ newtab-weather-error-not-available = Data cuaca tidak tersedia saat ini.
 
 ## Topic Labels
 
+newtab-topic-label-business = Bisnis
+newtab-topic-label-career = Karir
+newtab-topic-label-education = Pendidikan
+newtab-topic-label-arts = Hiburan
+newtab-topic-label-food = Makanan
+newtab-topic-label-health = Kesehatan
+newtab-topic-label-hobbies = Permainan
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Keuangan
+newtab-topic-label-society-parenting = Pengasuhan
+newtab-topic-label-government = Politik
+newtab-topic-label-education-science = Sains
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Peningkatan Diri
+newtab-topic-label-sports = Olahraga
+newtab-topic-label-tech = Teknologi
+newtab-topic-label-travel = Perjalanan
+newtab-topic-label-home = Rumah & Taman
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Pilih topik untuk menyempurnakan asupan Anda
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Pilih dua atau lebih topik. Kurator ahli kami memprioritaskan cerita yang disesuaikan dengan minat Anda. Perbarui kapan saja.
+newtab-topic-selection-save-button = Simpan
+newtab-topic-selection-cancel-button = Batal
+newtab-topic-selection-button-maybe-later = Mungkin nanti
+newtab-topic-selection-privacy-link = Pelajari bagaimana kami melindungi dan mengelola data
+newtab-topic-selection-button-update-interests = Perbarui minat Anda
+newtab-topic-selection-button-pick-interests = Pilih minat Anda
