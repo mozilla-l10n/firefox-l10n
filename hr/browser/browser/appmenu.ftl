@@ -108,6 +108,7 @@ appmenu-fxa-sync-and-save-data2 = Sinkroniziraj i spremi podatke
 appmenu-fxa-signed-in-label = Prijavi se
 appmenu-fxa-setup-sync =
     .label = Uključi sinkronizaciju…
+appmenu-fxa-setup-sync-new = Uključi
 appmenuitem-save-page =
     .label = Spremi stranicu kao …
 

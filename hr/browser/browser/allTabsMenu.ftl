@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Zatvori duple kartice
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Zatvori sve duple kartice
+all-tabs-menu-synced-tabs =
+    .label = Kartice s drugih uređaja
