@@ -319,3 +319,19 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza con su teléfono
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Le damos de nuevo la bienvenida
+multi-cta-fox-doodle-set-default-checkbox = Establecer { -brand-short-name } como predeterminado
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fijar { -brand-short-name } al menú Inicio
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } en el Dock
+       *[other] Fijar { -brand-short-name } a la barra de tareas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Empezar a navegar
+multi-cta-fox-doodle-main-browser-primary-button-label = Hacer que { -brand-short-name } sea mi navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Un recordatorio rápido de que puede mantener su navegador, enfocado en la privacidad, favorito a un solo clic de distancia.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y manténgalo en su Dock.
+       *[other] Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y fíjelo a su barra de tareas.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y fíjelo a su barra de tareas y menú Inicio.
