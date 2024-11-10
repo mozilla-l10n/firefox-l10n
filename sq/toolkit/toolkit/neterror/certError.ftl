@@ -150,7 +150,7 @@ clockSkewError-title = Sahati i Kompjuterit tuaj është Gabim
 networkProtocolError-title = Gabim Protokolli Rrjeti
 nssBadCert-title = Kujdes: Rrezik Potencial Sigurie Përpara
 nssBadCert-sts-title = Nuk U Lidh: Çështje Potenciale Sigurie
-certerror-mitm-title = Një software po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Sigurt te Ky Sajt
+certerror-mitm-title = Një program po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Sigurt te Ky Sajt
 
 ## Felt Privacy V1 Strings
 
