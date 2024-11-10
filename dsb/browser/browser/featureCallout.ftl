@@ -64,3 +64,19 @@ split-dismiss-button-manage-settings-option-label = Nastajenja zastojaś
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
 sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Pomagajśo { -brand-short-name } pólěpšowaś
+sidebar-callout-survey-satisfaction-question = Kak spokojom sćo z bocnicu w { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Powěźeńka priwatnosći
+sidebar-callout-survey-very-satisfied = Wjelgin spokojom
+sidebar-callout-survey-satisfied = Spokojom
+sidebar-callout-survey-neutral = Neutralny
+sidebar-callout-survey-dissatisfied = Njespokojom
+sidebar-callout-survey-very-dissatisfied = Wjelgin njespokojom
+sidebar-callout-survey-dont-use-it = To njewužywam
+sidebar-callout-survey-strongly-agree = Wjelgin wobjadny
+sidebar-callout-survey-agree = Wobjadny
+sidebar-callout-survey-disagree = Njewobjadny
+sidebar-callout-survey-strongly-disagree = Wjelgin njewobjadny
