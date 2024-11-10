@@ -90,3 +90,6 @@ sidebar-callout-survey-none-of-above = Ničo z nich
 sidebar-callout-survey-submit = Wotpósłać
 sidebar-callout-survey-thank-you = Dźakujemy so wam za waš komentar!
 sidebar-genai-survey-satisfaction-question = Kak spokojny sće z přistupom k chatbotej KI w bóčnicy?
+sidebar-genai-survey-productive-question =
+    Do kotreje měry zwoliće abo njezwoliće do tutoho twjerdźenja:<br/>
+    „Chatbot KI w bóčnicy mi pomha bóle produktiwny być“?

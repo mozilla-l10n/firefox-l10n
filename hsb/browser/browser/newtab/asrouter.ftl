@@ -335,3 +335,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Přehladowanje započeć
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } k hłownemu wobhladowakej činić
+multi-cta-fox-doodle-quick-reminder-subtitle = Tu je krótke dopomnjeće, zo móžeće swój najlubši wobhladowak z fokusom na priwatnosć jenož kliknjenje preč měć.
