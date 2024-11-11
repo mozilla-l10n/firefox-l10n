@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Sydło w nowym woknje wočinić
 csp-xfo-blocked-long-desc = Zo byšće swoju wěstotu škitał, { $hostname } { -brand-short-name } njedowoli, stronu pokazać, jeli je zasadźeny w druhim sydle. Zo byšće tutu stronu widźał, dyrbiće ju w nowym woknje wočinić.
 fp-certerror-view-certificate-link = Certifikat sydła pokazać
 fp-certerror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Sydło je tak konfigurowane, zo jenož wěste zwiski dowoluje, ale je problem z certifikatom sydła. Je móžno, zo złowólny akter pospytuje, sydło imitować. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž jeho certifikat za { $hostname } płaćiwy njeje. Certifikat je jenož płaćiwy za: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Snano ničo, dokelž to je najskerje problem ze sydłom samym. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe su, z kotrež so wudawaja. Ale jeli sće w syći předewzaća, waš team pomocy dalše informacije ma. Jeli antiwirusowu software wužiwaće, spytajće za potencielnymi konfliktami abo znatymi problemami pytać.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic wjele. Zda so, zo je problem ze sydłom samym.
 fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jeli pospytujeće, tute sydło we firmowym interneće wopytać, móže waš personal IT samosignowane certifikaty wužiwać. Móža wam pomhać, jich awtentiskosć přepruwować.
