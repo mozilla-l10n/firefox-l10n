@@ -68,3 +68,10 @@ sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova ka
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomogni poboljšati { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Koliko si zadovoljan/na s bočnom trakom u { -brand-short-name }u?
+sidebar-callout-survey-privacy-notice-link = Napomena o privatnosti
+sidebar-callout-survey-very-satisfied = Vrlo zadovoljan/na
+sidebar-callout-survey-satisfied = Zadovoljan/na
+sidebar-callout-survey-dissatisfied = Nezadovoljan/na
+sidebar-callout-survey-very-dissatisfied = Vrlo nezadovoljan/na
+sidebar-callout-survey-dont-use-it = Ne koristim je
