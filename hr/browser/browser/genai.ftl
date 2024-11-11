@@ -70,10 +70,45 @@ genai-header-close-button =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Ponovno učitaj { $provider }
+genai-options-show-shortcut =
+    .label = Prikaži prečac kada označiš tekst
+genai-options-hide-shortcut =
+    .label = Sakrij prečac kada označiš tekst
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Nastavi
+genai-onboarding-secondary = Zatvori
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Saznaj više o Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Saznaj više o ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Saznaj više o Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Saznaj više o Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Saznaj više o HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Saznaj više o Le Chat
+genai-onboarding-select-header = Odaberi tekst za prikaz prijedloga
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generiraj tekst i kod
+genai-onboarding-claude-analyze = Analiziraj dokumente i slike
+genai-onboarding-claude-price = Besplatne i plaćene opcije; potreban je račun
+genai-onboarding-chatgpt-generate = Generiraj tekst, slike i kod
+genai-onboarding-chatgpt-analyze = Analiziraj dokumente i slike
+genai-onboarding-chatgpt-price = Besplatne i plaćene opcije; za neke zemlje i zadatke je potreban račun
+genai-onboarding-copilot-generate = Generiraj tekst, slike i kod
+genai-onboarding-copilot-analyze = Analiziraj slike
+genai-onboarding-copilot-price = Besplatne i plaćene opcije; za neke zadatke je potreban račun
+genai-onboarding-gemini-generate = Generiraj tekst, slike i kod
