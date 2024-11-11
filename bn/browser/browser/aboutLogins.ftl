@@ -129,6 +129,7 @@ about-logins-origin-tooltip2 = সম্পূর্ণ ঠিকানা ল�
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = নিশ্চিত করুন যে আপনি এই সাইটের জন্য আপনার বর্তমান পাসওয়ার্ড সংরক্ষণ করছেন। এখানে পাসওয়ার্ড পরিবর্তন করলে এটি দিয়ে { $webTitle } এর সাথে পরিবর্তন হয় না।
+about-logins-add-password-tooltip = নিশ্চিত করুন যে আপনি এই সাইটের জন্য আপনার বর্তমান পাসওয়ার্ড সংরক্ষণ করছেন।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যবহারকারীর নাম
@@ -139,9 +140,12 @@ login-item-copied-username-button-text = অনুলিপি করা হয়�
 login-item-password-label = পাসওয়ার্ড
 login-item-password-reveal-checkbox =
     .aria-label = পাসওয়ার্ড দেখান
+login-item-password-conceal-checkbox =
+    .aria-label = পাসওয়ার্ড লুকান
 login-item-copy-password-button-text = অনুলিপি
 login-item-copied-password-button-text = অনুলিপি করা হয়েছে!
 login-item-save-changes-button = পরিবর্তন সংরক্ষণ
+about-logins-login-item-save-changes-button = সংরক্ষণ
 login-item-save-new-button = সংরক্ষণ
 login-item-cancel-button = বাতিল
 
@@ -149,6 +153,12 @@ login-item-cancel-button = বাতিল
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "সংখ্যা", month: "ছোট", year: "সংখ্যা") }
+login-item-timeline-action-created = তৈরি হয়েছে
+login-item-timeline-action-updated = আপডেট করা হয়েছে
+login-item-timeline-action-used = ব্যবহৃত
 
 ## OS Authentication dialog
 
@@ -163,6 +173,18 @@ about-logins-edit-login-os-auth-dialog-message-win = আপনার লগই�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] পাসওয়ার্ডের জন্য সেটিংস পরিবর্তন করার চেষ্টা করছে৷
+       *[other] { -brand-short-name } পাসওয়ার্ডের জন্য সেটিংস পরিবর্তন করার চেষ্টা করছে৷ অনুমতি দিতে আপনার ডিভাইস সাইন ইন ব্যবহার করুন।
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = আপনার পাসওয়ার্ড সম্পাদনা করতে, আপনার Windows লগইন বৃত্তান্ত লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সাহায্য করে।
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = সংরক্ষিত পাসওয়ার্ড সম্পাদনা করুন
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = আপনার পাসওয়ার্ড দেখতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +200,11 @@ about-logins-export-password-os-auth-dialog-message-win = আপনার লগ
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = সংরক্ষিত লগইন ও পাসওয়ার্ড রপ্তানি করুন
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = আপনার পাসওয়ার্ড এক্সপোর্ট করতে, আপনার Windows লগইন বৃত্তান্ত লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সাহায্য করে।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = সংরক্ষিত পাসওয়ার্ড এক্সপোর্ট করুন
 
 ## Primary Password notification
 
