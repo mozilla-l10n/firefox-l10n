@@ -111,6 +111,9 @@ about-debugging-setup-usb-troubleshoot = Имате проблеми при св
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Местоположение в мрежата
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
+about-debugging-setup-network-troubleshoot = Имате проблеми при свързване чрез местоположение в мрежата? <a>Отстраняване на неизправности</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Добавяне

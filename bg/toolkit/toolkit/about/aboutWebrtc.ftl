@@ -140,6 +140,8 @@ about-webrtc-encoder-label = Кодер
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Отдалечено изпращане на SSRC
 
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure

@@ -314,11 +314,14 @@ policies-error = Грешка
 
 ## Remote Settings sections
 
+support-remote-settings-title = Отдалечени настройки
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Не работи
 
 ## Normandy sections
 
+support-remote-experiments-title = Отдалечени експерименти
+support-remote-features-title = Отдалечени функции
 
 ## Pointing devices
 
