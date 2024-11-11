@@ -32,6 +32,8 @@ firefoxview-tabpickup-progress-label = { $percentValue } % dovršeno
 firefoxview-tabpickup-step-signin-header = Prebaci se bez problema između uređaja
 firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog mobitela ovdje, najprije se prijavi ili otvori račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nastavi
+firefoxview-syncedtabs-signin-header-2 = Tvoj { -brand-product-name } na svim tvojim uređajima
+firefoxview-syncedtabs-signin-primarybutton-2 = Prijavi se
 firefoxview-syncedtabs-signin-header = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-signin-description = Za prikaz kartica s bilo kojeg uređaja na kojem koristiš { -brand-product-name } prijavi se na svoj račun. Ako nemaš račun, provest ćemo te kroz korake za registraciju.
 firefoxview-syncedtabs-signin-primarybutton = Prijavi se / Registriraj se
@@ -39,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Sinkroniziraj { -brand-product-name } n
 firefoxview-tabpickup-adddevice-description = Preuzmi { -brand-product-name } za moblni uređaj i tamo se prijavi.
 firefoxview-tabpickup-adddevice-learn-how = Saznaj kako
 firefoxview-tabpickup-adddevice-primarybutton = Nabavi { -brand-product-name } za mobilne uređaje
+firefoxview-syncedtabs-adddevice-header-2 = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-adddevice-header = Prijavi se na { -brand-product-name } na svojim drugim uređajima
 firefoxview-syncedtabs-adddevice-description = Za prikaz kartica s bilo kojeg uređaja na kojem koristiš { -brand-product-name } prijavi se na svim svojim uređajima. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel

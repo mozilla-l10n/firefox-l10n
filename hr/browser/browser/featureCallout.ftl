@@ -79,3 +79,14 @@ sidebar-callout-survey-dont-use-it = Ne koristim je
 sidebar-callout-survey-productive-question =
     U kojoj se mjeri slažeš ili ne slažeš s ovom izjavom:<br/>
     „Bočna traka { -brand-short-name }a mi pomaže biti produktivniji/a”?
+sidebar-callout-survey-strongly-agree = Apsolutno se slažem
+sidebar-callout-survey-agree = Slažem se
+sidebar-callout-survey-disagree = Ne slažem se
+sidebar-callout-survey-strongly-disagree = Apsolutno se ne slažem
+sidebar-callout-survey-features-question = Sljedeće su potencijalne funkcije bočne trake. Što bi najviše poboljšalo tvoju produktivnost u { -brand-short-name }u?
+sidebar-callout-survey-split-view = Pregledaj bilo koje dvije web stranice odjednom u podijeljenom prikazu jednu pored druge
+sidebar-callout-survey-keep-website-open = Zadrži web stranicu, poput e-pošte ili kalendara, otvorenom u bočnoj traci tijekom pregledavanja
+sidebar-callout-survey-saved-websites = Brzi pristup svim tvojim spremljenim web stranicama
+sidebar-callout-survey-none-of-above = Ništa od navedenog
+sidebar-callout-survey-submit = Pošalji
+sidebar-callout-survey-thank-you = Hvala ti na povratnim informacijama!
