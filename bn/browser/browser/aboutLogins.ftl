@@ -263,6 +263,26 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
        *[other] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন গুলো মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { NUMBER($count) ->
+        [1] হ্যাঁ, পাসওয়ার্ড মুছে ফেলুন
+        [one] হ্যাঁ, পাসওয়ার্ডটি মুছে ফেলুন
+       *[other] হ্যাঁ, পাসওয়ার্ডসমূহ মুছে ফেলুন
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { NUMBER($count) ->
+        [one] { $count } টি পাসওয়ার্ড মুছে ফেলবেন?
+       *[other] { $count } গুলো পাসওয়ার্ড মুছে ফেলবেন?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ড মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+        [one] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডটি মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+       *[other] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডসমূহ মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+    }
 
 ##
 
