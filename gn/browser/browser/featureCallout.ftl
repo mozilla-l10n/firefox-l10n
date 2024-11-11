@@ -64,3 +64,19 @@ split-dismiss-button-manage-settings-option-label = Eñangareko ñemoĩporãre
 
 sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
 sidebar-button-callout-subtitle = Eiporu tenda yke votõ emyasãi hag̃ua mba’erupa ha ehecha umi tendayke reratee.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Eipytyvõ { -brand-short-name } iporãve hag̃ua
+sidebar-callout-survey-satisfaction-question = Evy’ápa añetehápe tenda yke jeporúpe { -brand-short-name } ndive
+sidebar-callout-survey-privacy-notice-link = Marandu’i ñemiguáva
+sidebar-callout-survey-very-satisfied = Avy’aiterei
+sidebar-callout-survey-satisfied = Chembovy’a
+sidebar-callout-survey-neutral = Mbytegua
+sidebar-callout-survey-dissatisfied = Añemyrõ
+sidebar-callout-survey-very-dissatisfied = Añemyrõrasa
+sidebar-callout-survey-dont-use-it = Ndaiporúi
+sidebar-callout-survey-strongly-agree = Amoneĩmbaite
+sidebar-callout-survey-agree = Amoneĩ
+sidebar-callout-survey-disagree = Namoneĩri
+sidebar-callout-survey-strongly-disagree = Namoneĩriete
