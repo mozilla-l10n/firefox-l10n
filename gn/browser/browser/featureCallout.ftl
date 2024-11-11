@@ -80,3 +80,7 @@ sidebar-callout-survey-strongly-agree = Amoneĩmbaite
 sidebar-callout-survey-agree = Amoneĩ
 sidebar-callout-survey-disagree = Namoneĩri
 sidebar-callout-survey-strongly-disagree = Namoneĩriete
+sidebar-callout-survey-split-view = Ahecha mokõi tenda peteĩcha, jehechaha mboja’opy ojoykére rupive
+sidebar-callout-survey-saved-websites = Jeike pya’e opaite ñanduti renda ñongatupyrépe
+sidebar-callout-survey-none-of-above = Mba’evete ymavegua
+sidebar-callout-survey-submit = Mondo
