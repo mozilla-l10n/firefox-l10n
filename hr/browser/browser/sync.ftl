@@ -37,3 +37,4 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Pristupite svom webu bilo gdje
 sync-setup-verify-continue = Nastavi
+sync-setup-verify-title = Upozorenje o spajanju

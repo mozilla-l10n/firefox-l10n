@@ -199,3 +199,11 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Stvori grupu kartica
+tab-group-editor-title-edit = Upravljanj grupom kartica
+tab-group-editor-name-label = Ime
+tab-group-editor-name-field =
+    .placeholder = Primjer: Šoping
+tab-group-editor-cancel =
+    .label = Odustani
+    .accesskey = O
