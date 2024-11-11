@@ -85,6 +85,7 @@ sidebar-callout-survey-disagree = Njepřezjedny
 sidebar-callout-survey-strongly-disagree = Jara njepřezjedny
 sidebar-callout-survey-features-question = Slědowace su potencielne funkcije bóčnicy. Kotre bychu wašu produktiwnosć w { -brand-short-name } najbóle polěpšowali?
 sidebar-callout-survey-split-view = Wobhladajće sej dwě websydle naraz, bok po boku jedne pódla druheho
+sidebar-callout-survey-keep-website-open = Wostajće websydło, na přikład e-mejl abo protyku, w bóčnicy wočinjene, mjeztym zo přehladujeće
 sidebar-callout-survey-saved-websites = Spěšny přistup ke wšěm wašim składowanym websydłam
 sidebar-callout-survey-none-of-above = Ničo z nich
 sidebar-callout-survey-submit = Wotpósłać
