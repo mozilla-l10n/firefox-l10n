@@ -64,3 +64,24 @@ split-dismiss-button-manage-settings-option-label = Muokkaa asetuksia
 
 sidebar-button-callout-title = Näytä välilehtien otsikot sivupalkissa
 sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi sivupalkkia, jotta näet välilehtien otsikot.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Auta parantamaan { -brand-product-name }ia
+sidebar-callout-survey-satisfaction-question = Kuinka tyytyväinen olet sivupalkin käyttökokemukseen { -brand-short-name }issa?
+sidebar-callout-survey-privacy-notice-link = Tietosuojakäytäntö
+sidebar-callout-survey-very-satisfied = Hyvin tyytyväinen
+sidebar-callout-survey-satisfied = Tyytyväinen
+sidebar-callout-survey-neutral = Neutraali
+sidebar-callout-survey-dissatisfied = Tyytymätön
+sidebar-callout-survey-very-dissatisfied = Hyvin tyytymätön
+sidebar-callout-survey-dont-use-it = En käytä sitä
+sidebar-callout-survey-productive-question =
+    Missä määrin olet samaa tai eri mieltä tämän väitteen kanssa:<br/>
+    "{ -brand-short-name }in sivupalkki auttaa minua olemaan tuottavampi"?
+sidebar-callout-survey-strongly-agree = Vahvasti samaa mieltä
+sidebar-callout-survey-agree = Samaa mieltä
+sidebar-callout-survey-disagree = Eri mieltä
+sidebar-callout-survey-strongly-disagree = Vahvasti eri mieltä
+sidebar-callout-survey-submit = Lähetä
+sidebar-callout-survey-thank-you = Kiitos palautteesta!
