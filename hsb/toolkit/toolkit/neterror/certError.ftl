@@ -92,7 +92,7 @@ fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jeli pospytujeće, tut
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, z kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž so zda, zo certifikat je dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } spadnył.
+fp-certerror-expired-why-dangerous-body = Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž so zda, zo certifikat je dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } spadnył.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
