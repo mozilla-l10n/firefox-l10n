@@ -304,3 +304,18 @@ fxa-menu-message-close-button =
     .title = Schließen
     .aria-label = Schließen
 fxa-menu-message-sign-up-button = Registrieren
+fxa-menu-message-sync-devices-primary-text = Synchronisiere all deine Geräte
+fxa-menu-message-sync-devices-secondary-text = Greife sofort auf deine Inhalte – wie Lesezeichen und Passwörter – zu. Überall wo du { -brand-short-name } verwendest.
+fxa-menu-message-sync-devices-collapsed-text = Synchronisiere all deine Geräte
+fxa-menu-message-backup-data-primary-text = Sichere deine Browser-Daten
+fxa-menu-message-backup-data-secondary-text = Automatisch Lesezeichen, Passwörter und andere Daten auf all deinen Geräten sichern.
+fxa-menu-message-backup-data-collapsed-text = Sichere deine Browser-Daten
+fxa-menu-message-backup-sync-primary-text = Deine Daten – sicher und synchronisiert
+fxa-menu-message-backup-sync-secondary-text = Sicher deine Daten, sodass du überall darauf zugreifen kannst, wo du { -brand-short-name } verwenden.
+fxa-menu-message-backup-sync-collapsed-text = Daten synchronisieren und sichern
+fxa-menu-message-mobile-primary-text = Tabs an dein Handy senden
+fxa-menu-message-mobile-secondary-text = Mache genau dort weiter, wo du aufgehört hast – sofort, wenn du deine Tabs mit einem mobilen Gerät synchronisierst.
+fxa-menu-message-mobile-collapsed-text = Mit deinem Handy synchronisieren
+
+## Multi-CTA Fox Doodle Spotlight
+
