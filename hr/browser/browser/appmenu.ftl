@@ -111,6 +111,8 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Uključi
 appmenuitem-save-page =
     .label = Spremi stranicu kao …
+appmenuitem-fxa-sync-off-title = Sinkronizacija je isključena
+appmenuitem-fxa-sync-off-description = Zaštiti i pristupi zabilješkama, lozinkama i drugim podacima bilo gdje.
 
 ## What's New panel in App menu.
 
@@ -283,3 +285,11 @@ appmenuitem-vpn-description = Zaštiti svoju online aktivnost
 
 ## Profiles panel
 
+appmenu-profiles = Profili
+appmenu-other-profiles = Drugi profili
+appmenu-manage-profiles =
+    .label = Upravljaj profilima
+appmenu-create-profile =
+    .label = Novi profil
+appmenu-edit-profile =
+    .aria-label = Uredi profil
