@@ -67,7 +67,7 @@ sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi si
 
 ## Sidebar Callout Survey Strings
 
-sidebar-callout-survey-title = Auta parantamaan { -brand-product-name }ia
+sidebar-callout-survey-title = Auta parantamaan { -brand-short-name }ia
 sidebar-callout-survey-satisfaction-question = Kuinka tyytyväinen olet sivupalkin käyttökokemukseen { -brand-short-name }issa?
 sidebar-callout-survey-privacy-notice-link = Tietosuojakäytäntö
 sidebar-callout-survey-very-satisfied = Hyvin tyytyväinen
