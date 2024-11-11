@@ -14,13 +14,17 @@ xpinstall-prompt-message = আপনি { $host } থেকে অ্যাড-�
 
 xpinstall-prompt-header-unknown = কোনও অজানা সাইটকে একটি অ্যাড-অন ইনস্টল করার অনুমতি দিবেন?
 xpinstall-prompt-message-unknown = আপনি অজানা সাইট থেকে একটি অ্যাড-অন ইনস্টল করার চেষ্টা করছেন। চালিয়ে যাওয়ার আগে নিশ্চিত করুন যে আপনি এই সাইটে আস্থা রেখেছেন।
-
 xpinstall-prompt-dont-allow =
     .label = অনুমোদন করো না
     .accesskey = D
 xpinstall-prompt-never-allow =
     .label = কখনও অনুমতি দেবেন না
     .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = সন্দেহজনক সাইট রিপোর্ট করুন
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -30,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = এই সাইটটি আপনার MIDI (মিউজিক্যাল ইন্সট্রুমেন্ট ডিজিটাল ইন্টারফেস) ডিভাইসে অ্যাক্সেসের অনুরোধ করছে৷ একটি অ্যাড-অন ইনস্টল করে ডিভাইস অ্যাক্সেস সক্ষম করা যেতে পারে।
+site-permission-install-first-prompt-midi-message = এই অ্যাক্সেস নিরাপদ হবে নিশ্চিত করা যাচ্ছে না। আপনি একান্তই যদি এই সাইটে বিশ্বাস করেন তবেই চালিয়ে যান।
 
 ##
 
@@ -38,14 +44,12 @@ xpinstall-disabled = সফটওয়্যার ইনস্টলেশন ব
 xpinstall-disabled-button =
     .label = সক্রিয়
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) আপনার সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা ব্লক হয়েছে।
 addon-install-full-screen-blocked = পূর্ণস্ক্রিন মোডে বা পূর্ণস্ক্রিন মোডে থাকতে বা প্রবেশের আগে অ্যাড-অন ইনস্টলেশন অনুমোদিত নয়।
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } এর সাথে { $addonName } যোগ হয়েছে
@@ -59,7 +63,6 @@ webext-perms-update-menu-item = { $addonName } এর নতুন অনুম�
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } হতে { $name } অপসারণ করবেন?
 addon-removal-button = অপসারণ
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -68,7 +71,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } টি অ্যাড অন ডাউনলোড এবং যাচাই করা হচ্ছে…
     }
 addon-download-verifying = পরীক্ষা করা হচ্ছে
-
 addon-install-cancel-button =
     .label = বাতিল
     .accesskey = C

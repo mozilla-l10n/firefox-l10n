@@ -27,11 +27,13 @@ about-private-browsing-get-privacy = আপনি যেখানেই ব্�
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } দিয়ে ব্রাউজিং কার্যকলাপ এবং নিজের ভূ-অবস্থান লুকিয়ে রাখুন৷ এক ক্লিকেই নিরাপদ সংযোগ তৈরি করে, এমনকি পাবলিক Wi-Fi পরিবেশেও।
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ব্যবহার করে ব্যক্তিগত থাকুন
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ডাউনলোড করুন
+about-private-browsing-focus-promo-header = { -focus-brand-name }: চলার পথে ব্যক্তিগত ব্রাউজিং
 about-private-browsing-focus-promo-text = আমাদের নিবেদিত ব্যক্তিগত ব্রাউজিং মোবাইল অ্যাপ আপনার ইতিহাস ও কুকি প্রতিবার পরিষ্কার করে।
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = আপনার ফোনে ব্যক্তিগত ব্রাউজিং নিন
+about-private-browsing-focus-promo-text-b = প্রধান মোবাইল ব্রাউজার যেন দেখতে না পায় এমন ব্যক্তিগত অনুসন্ধানের জন্য { -focus-brand-name } ব্যবহার করুন।
 about-private-browsing-focus-promo-header-c = মোবাইলে পরবর্তী স্তরের গোপনীয়তা
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } বিজ্ঞাপন ও ট্র্যাকার অবরুদ্ধ করাসহ প্রতিবার আপনার ইতিহাস পরিষ্কার করে।
 # This string is the title for the banner for search engine selection
@@ -51,6 +53,12 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = এক ক্লিকে ব্যক্তিগত ব্রাউজিং স্বাধীনতা
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] ডক-এ পিন করুন
+       *[other] টাস্কবারে পিন করুন
+    }
 
 ## Strings used in a promotion message for cookie banner reduction
 
