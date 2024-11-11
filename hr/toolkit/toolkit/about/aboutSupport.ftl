@@ -71,7 +71,12 @@ app-basics-location-service-key-google = Google ključ za usluge lokacije
 app-basics-safebrowsing-key-google = Google ključ za sigurno pregledavanje
 app-basics-key-mozilla = Mozilla ključ za usluge lokacije
 app-basics-safe-mode = Sigurni modus
+app-basics-memory-size = Veličina memorije (RAM)
 app-basics-disk-available = Dostupna memorija na disku
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
@@ -106,7 +111,13 @@ graphics-window-protocol = Protokol prozora
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Radno okruženje
 place-database-title = Baza podataka mjesta
+place-database-stats = Statistika
 place-database-stats-show = Prikaži statistiku
+place-database-stats-hide = Sakrij statistiku
+place-database-stats-size-kib = Veličina (KiB)
+place-database-stats-size-perc = Veličina (%)
+place-database-stats-efficiency-perc = Učinkovitost (%)
+place-database-stats-sequentiality-perc = Sekvencijalnost (%)
 place-database-integrity = Cjelovitost
 place-database-verify-integrity = Provjeri cjelovitost
 a11y-title = Pristupačnost

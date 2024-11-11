@@ -5,8 +5,24 @@
 third-party-detail-version = Verzija datoteke
 third-party-detail-occurrences = Pojave
     .title = Broj učitavanja ovog modula.
+third-party-detail-duration = Prosj. vrijeme blokiranja (ms)
+    .title = Koliko je dugo ovaj modul blokirao aplikaciju.
 third-party-detail-app = Aplikacija
 third-party-detail-publisher = Izdavač
+third-party-th-process = Proces
+third-party-th-duration = Trajanje učitavanja (ms)
+third-party-th-status = Stanje
+third-party-tag-background = Pozadina
+    .title =
+        Ovaj modul nije blokirao aplikaciju jer je bio učitan
+        u pozadini
+third-party-icon-unsigned =
+    .title = Ovaj modul nije potpisan
+    .alt = Ovaj modul nije potpisan
+third-party-status-loaded = Učitano
+third-party-status-blocked = Blokirano
+third-party-status-redirected = Preusmjereno
+third-party-button-copy-to-clipboard = Kopiraj neobrađene podatke u međuspremnik
 third-party-button-open =
     .title = Otvori adresu datoteke …
 third-party-button-to-block-module = Blokiraj ovaj modul
