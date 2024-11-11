@@ -79,9 +79,16 @@ csp-xfo-blocked-long-desc =
         [with-cases] Pro vaši ochranu web { $hostname } nepovolí { -brand-short-name(case: "dat") } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
        *[no-cases] Pro vaši ochranu web { $hostname } nepovolí aplikaci { -brand-short-name } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
     }
+fp-certerror-view-certificate-link = Zobrazit certifikát serveru
+fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Nic moc. Je pravděpodobné, že problém je v samotném webu.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kód chyby: { $error }
+fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného připojení
+fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
+fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem
 
 ## Messages used for certificate error titles
 
@@ -132,6 +139,8 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
+fp-certerror-why-site-dangerous = Co způsobuje, že stránka vypadá nebezpečně?
+fp-certerror-what-can-you-do = Co s tím můžete dělat?
 fp-certerror-advanced-title = Rozšířené
 fp-certerror-advanced-button = Rozšířené
 fp-certerror-hide-advanced-button = Skrýt rozšířené
