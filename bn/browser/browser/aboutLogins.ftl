@@ -283,6 +283,12 @@ about-logins-confirm-remove-all-dialog-message2 =
         [one] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডটি মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
        *[other] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডসমূহ মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] সমস্ত ডিভাইস থেকে { $count } টি পাসওয়ার্ড মুছে ফেলবেন?
+       *[other] সমস্ত ডিভাইস থেকে { $count } গুলো পাসওয়ার্ড মুছে ফেলবেন?
+    }
 
 ##
 
