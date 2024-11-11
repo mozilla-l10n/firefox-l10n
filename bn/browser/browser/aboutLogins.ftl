@@ -289,12 +289,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] সমস্ত ডিভাইস থেকে { $count } টি পাসওয়ার্ড মুছে ফেলবেন?
        *[other] সমস্ত ডিভাইস থেকে { $count } গুলো পাসওয়ার্ড মুছে ফেলবেন?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+        [one] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+       *[other] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = লগইন এবং পাসওয়ার্ড রপ্তানি করুন
 about-logins-confirm-export-dialog-message = আপনার পাসওয়ার্ড পাঠযোগ্য টেক্সট হিসাবে সংরক্ষণ করা হবে, সুতরাং ফাইলটি কেহ খুলতে পারলে পাসওয়ার্ড দেখতে পাবে
 about-logins-confirm-export-dialog-confirm-button = রপ্তানি করুন…
+about-logins-confirm-export-dialog-title2 = পাসওয়ার্ড এক্সপোর্ট সম্পর্কিত একটি নোট
+about-logins-confirm-export-dialog-message2 =
+    যখন আপনি আপনার পাসওয়ার্ড এক্সপোর্ট করেন, তখন পাঠযোগ্য টেক্সট হিসেবে একটি ফাইলে সেগুলো সংরক্ষণ করা হয়।
+    আপনি যখন ফাইলটি ব্যবহার করে ফেলেন, আমরা পরামর্শ দেই এটিকে মুছে ফেলার যাতে এই একই ডিভাইস ব্যবহারকারী অন্যেরা আপনার পাসওয়ার্ড দেখতে বা জেনে যেতে না পারে৷
+about-logins-confirm-export-dialog-confirm-button2 = এক্সপোর্ট চালিয়ে যান
 about-logins-alert-import-title = আমদানি সম্পূর্ণ হয়েছে
 about-logins-alert-import-message = বিস্তারিত আমদানির সারাংশ দেখুন
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
