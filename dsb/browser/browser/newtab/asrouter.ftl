@@ -336,3 +336,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Pśeglědowanje zachopiś
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ku głownemu wobglědowakoju cyniś
 multi-cta-fox-doodle-quick-reminder-subtitle = How jo krotke dopomnjeśe, až móžośo swój nejlubšy wobglědowak z fokusom na priwatnosć jano kliknjenje pśec měś.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a źaržćo jen w swójom doku.
+       *[other] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku a startowy meni.

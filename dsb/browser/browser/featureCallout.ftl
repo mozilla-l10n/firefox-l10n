@@ -85,6 +85,7 @@ sidebar-callout-survey-disagree = Njewobjadny
 sidebar-callout-survey-strongly-disagree = Wjelgin njewobjadny
 sidebar-callout-survey-features-question = Slědujuce su potencielne funkcije bocnice. Kótare by wašu produktiwnosć w { -brand-short-name } nejwěcej pólěpšowali?
 sidebar-callout-survey-split-view = Woglědajśo se dwě websedle naraz, bok pó boku jadno pódla drugego
+sidebar-callout-survey-keep-website-open = Wóstajśo websedło, na pśikład e-mail abo kalendaŕ, w bocnicy wócynjone, mjaztym až pśeglědujośo
 sidebar-callout-survey-saved-websites = Malsny pśistup ku wšym wašym skłaźonym websedłam
 sidebar-callout-survey-none-of-above = Nic z nich
 sidebar-callout-survey-submit = Wótpósłaś
