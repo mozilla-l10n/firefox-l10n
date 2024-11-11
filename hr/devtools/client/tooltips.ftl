@@ -26,12 +26,16 @@ learn-more = <span data-l10n-name="link">Saznaj više</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije niti fleks-kontejner niti grid-kontejner.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije višestupčani kontejner.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni ili fleks element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni element.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije grid-kontejner.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks element.
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije „inline” niti „table-cell” element.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::first-letter.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element, budući da sadrži prikaz <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Zbog ograničenja <strong>:visited</strong> nije moguće nadjačati <strong>{ $property }</strong>.
