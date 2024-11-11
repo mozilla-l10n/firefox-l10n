@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Wužiwarski profil wubrać
 profile-window-heading = Wubjerće profil { -brand-short-name }
+profile-window-body = Dźeržće swoje dźěło a wosobinske přehladowanje, mjez nimi na přikład hesła a zapołožki, cyle separatne. Abo załožće profile za kóždeho, kiž tutón grat wužiwa.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = To pokazać, hdyž so { -brand-short-name } wočinja
@@ -24,6 +25,7 @@ edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće n
 edit-profile-page-profile-saved = Składowany
 new-profile-page-title = Nowy profil
 new-profile-page-header = Přiměrće swój nowy profil
+new-profile-page-header-description = Kóždy profil swoju jónkróćnu přehladowansku historiju a nastajenja wot druhich profilow separatnje chowa. Nimo toho je mócny škit priwatnosće { -brand-short-name } po standardźe zmóžnjeny.
 new-profile-page-learn-more = Dalše informacije
 new-profile-page-input-placeholder =
     .placeholder = Wubjerće mjeno kaž „Dźěło“ abo „Wosobinske“

@@ -336,3 +336,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Přehladowanje započeć
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } k hłownemu wobhladowakej činić
 multi-cta-fox-doodle-quick-reminder-subtitle = Tu je krótke dopomnjeće, zo móžeće swój najlubši wobhladowak z fokusom na priwatnosć jenož kliknjenje preč měć.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Dźeržće swój najlubši wobhladowak z fokusom na priwatnosć jenož jedne kliknjenje preč. Nastajće { -brand-short-name } jako swój standardny wobhladowak za wočinjenje wotkazow a dźeržće jón w swojim doku.
+       *[other] Dźeržće swój najlubši wobhladowak z fokusom na priwatnosć jenož jedne kliknjenje preč. Nastajće { -brand-short-name } jako swój standardny wobhladowak za wočinjenje wotkazow a připniće jón na swoju nadawkowu lajstu.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Dźeržće swój najlubši wobhladowak z fokusom na priwatnosć jenož jedne kliknjenje preč. Nastajće { -brand-short-name } jako swój standardny wobhladowak za wočinjenje wotkazow a připniće jón na swoju nadawkowu lajstu a startowy meni.
