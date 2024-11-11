@@ -8,6 +8,11 @@
 newtab-page-title = Nov zavihek
 newtab-settings-button =
     .title = Prilagodite stran novega zavihka
+newtab-personalize-settings-icon-label =
+    .title = Prilagodite stran novega zavihka
+    .aria-label = Nastavitve
+newtab-settings-dialog-label =
+    .aria-label = Nastavitve
 newtab-personalize-icon-label =
     .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zacihek
@@ -111,6 +116,7 @@ newtab-menu-save-to-pocket = Shrani v { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
+newtab-menu-about-fakespot = O { -fakespot-brand-name(sklon: "mestnik") }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -314,6 +320,8 @@ newtab-wallpaper-dark-panda = Mačji panda, skrit v gozdu
 newtab-wallpaper-dark-sky = Mestna pokrajina z nočnim nebom
 newtab-wallpaper-dark-mountain = Gorska pokrajina
 newtab-wallpaper-dark-city = Vijolična mestna pokrajina
+newtab-wallpaper-dark-fox-anniversary = Lisica na pločniku blizu gozda
+newtab-wallpaper-light-fox-anniversary = Lisica na travnatem polju v megleni gorski pokrajini
 
 ## Solid Colors
 

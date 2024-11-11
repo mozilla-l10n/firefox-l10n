@@ -309,3 +309,26 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Zapri
     .aria-label = Zapri
+fxa-menu-message-sign-up-button = Registracija
+fxa-menu-message-sync-devices-primary-text = Sinhronizirajte vse svoje naprave
+fxa-menu-message-sync-devices-secondary-text = Imejte svoje podatke – kot so zaznamki in gesla – pri roki, kjerkoli uporabljate { -brand-short-name(sklon: "tozilnik") }.
+fxa-menu-message-sync-devices-collapsed-text = Sinhronizirajte vse svoje naprave
+fxa-menu-message-backup-data-primary-text = Varnostno kopirajte podatke brskalnika
+fxa-menu-message-backup-data-secondary-text = Samodejno zavarujte zaznamke, gesla in druge podatke z vseh svojih naprav.
+fxa-menu-message-backup-data-collapsed-text = Varnostno kopirajte podatke brskalnika
+fxa-menu-message-backup-sync-primary-text = Imejte svoje podatke na varnem in sinhronizirane
+fxa-menu-message-backup-sync-collapsed-text = Sinhronizirajte in varnostno kopirajte podatke
+fxa-menu-message-mobile-primary-text = Pošljite si zavihke na telefon
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Dobrodošli nazaj
+multi-cta-fox-doodle-set-default-checkbox = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
+multi-cta-fox-doodle-pin-startmenu-checkbox = Pripni { -brand-short-name(sklon: "tozilnik") } v začetni meni
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Obdrži { -brand-short-name(sklon: "tozilnik") } v Docku
+       *[other] Pripni { -brand-short-name(sklon: "tozilnik") } v opravilno vrstico
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Začni z brskanjem
+multi-cta-fox-doodle-main-browser-primary-button-label = Nastavi { -brand-short-name } kot glavni brskalnik

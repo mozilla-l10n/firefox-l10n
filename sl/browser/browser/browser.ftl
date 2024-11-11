@@ -560,8 +560,6 @@ urlbar-page-action-button =
     .tooltiptext = Dejanja strani
 urlbar-revert-button =
     .tooltiptext = Prikaži naslov v naslovni vrstici
-urlbar-show-page-actions-button =
-    .tooltiptext = Prikaži vsa dejanja strani
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -631,12 +629,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – Iskanje { $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Išči z iskalnikom { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }; izberite iskalnik
-    .tooltiptext = { $engine }; izberite iskalnik
 urlbar-searchmode-dropmarker =
     .tooltiptext = Izberite iskalnik
 urlbar-searchmode-bookmarks =
@@ -651,6 +643,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Zapri
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:
 urlbar-searchmode-popup-search-settings = Nastavitve iskanja
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }; izberite iskalnik
+    .tooltiptext = { $engine }; izberite iskalnik
+urlbar-searchmode-button-no-engine =
+    .label = Ni izbrane bližnjice – izberite bližnjico
+    .tooltiptext = Ni izbrane bližnjice – izberite bližnjico
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -973,12 +974,18 @@ data-reporting-notification-button =
     .accesskey = I
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Zasebno brskanje
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = zasebno brskanje
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Preprečevanje izgube podatkov, ki ga omogoča { $agentName }. Kliknite za več informacij.
 content-analysis-panel-title = Varstvo podatkov
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Vaša organizacija za zaščito pred izgubo podatkov uporablja <b>{ $agentName }</b>. <a data-l10n-name="info">Več o tem</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Vaša organizacija za zaščito pred izgubo podatkov uporablja { $agentName }. <a data-l10n-name="info">Več o tem</a>

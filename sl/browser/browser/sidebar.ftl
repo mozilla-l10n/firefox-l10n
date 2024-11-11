@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI klepetalnik
 menu-view-review-checker =
     .label = Pregledovalnik mnenj
+sidebar-options-menu-button =
+    .title = Odpri meni
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Razširi ali skrči stransko vrstico
 sidebar-visibility-setting-hide-sidebar =
     .label = Prikaži ali skrij stransko vrstico
-sidebar-customize-settings-header =
-    .label = Nastavitve stranske vrstice
-sidebar-visibility-always-show =
-    .label = Vedno prikaži
-sidebar-visibility-hide-sidebar =
-    .label = Skrij stransko vrstico
 
 ## Labels for sidebar context menu items
 
@@ -134,16 +130,8 @@ sidebar-syncedtabs-title = Zavihki z drugih naprav
 synced-tabs-context-close-tab-title =
     .title = Zapri zavihek na napravi { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = Razširi stransko vrstico
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Skrči stransko vrstico
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Prikaži stransko vrstico
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Skrij stransko vrstico
 sidebar-widget-expand-sidebar =
     .tooltiptext = Razširi stransko vrstico
     .label = Stranske vrstice

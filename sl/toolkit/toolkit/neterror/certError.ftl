@@ -71,6 +71,23 @@ open-in-new-window-for-csp-or-xfo-error = Odpri stran v novem oknu
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Da bi zaščitil vašo varnost, { $hostname } { -brand-short-name(sklon: "dajalnik") } ne bo dovolil prikaza strani, ki je vdelana v drugo spletno mesto. Če si želite ogledati to stran, jo odprite v novem oknu.
+fp-certerror-view-certificate-link = Prikaži potrdilo spletnega mesta
+fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ne veliko. Najverjetneje je težava v samem spletnem mestu.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Ura vaše naprave je nastavljena na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Če je nastavitev pravilna, je težava verjetno v samem spletnem mestu. Če sta datum in ura napačna, ju lahko popravite v sistemskih nastavitvah naprave.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Koda napake: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Več o neuspelih varnih povezavah
+fp-learn-more-about-cert-issues = Več o tovrstnih težavah z digitalnimi potrdili
+fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih napak
 
 ## Messages used for certificate error titles
 
@@ -112,3 +129,20 @@ networkProtocolError-title = Napaka omrežnega protokola
 nssBadCert-title = Pozor: možno varnostno tveganje
 nssBadCert-sts-title = Povezava ni bila vzpostavljena: morebitna varnostna težava
 certerror-mitm-title = Programska oprema { -brand-short-name }u preprečuje varno povezovanje s to stranjo
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Opozorilo: Varnostno tveganje
+fp-certerror-body-title = Previdno. Nekaj ni videti v redu.
+fp-certerror-why-site-dangerous = Zaradi česa je spletno mesto videti nevarno?
+fp-certerror-what-can-you-do = Kaj lahko storite?
+fp-certerror-advanced-title = Napredno
+fp-certerror-advanced-button = Napredno
+fp-certerror-hide-advanced-button = Skrij napredno
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Nadaljuj na { $hostname } (tvegano)
+fp-certerror-intro = { -brand-short-name } je zaznal morebitno resno varnostno težavo s <strong>{ $hostname }</strong>. Obstaja možnost, da se nekdo izdaja za to spletno mesto in poskuša ukrasti vaše podatke.
+fp-certerror-expired-into = { -brand-short-name } je zaznal varnostno težavo s <strong>{ $hostname }</strong>. Bodisi spletno mesto ni pravilno nastavljeno, bodisi je ura na vašem računalniku nastavljena na napačen datum/čas.

@@ -37,3 +37,11 @@ fxa-menu-sign-out =
     .label = Odjava …
 fxa-menu-sync-title = Sinhronizacija
 fxa-menu-sync-description = Imejte dostop do svojega spleta, kjerkoli ste
+sync-setup-verify-continue = Nadaljuj
+sync-setup-verify-title = Opozorilo o združitvi
+sync-setup-verify-heading = Ali ste prepričani, da se želite prijaviti v sinhronizacijo?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računalniku prijavljen drug uporabnik. Ob prijavi se bodo zaznamki, gesla in druge nastavitve na tem brskalniku dodale k računu { $email }
