@@ -60,3 +60,20 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitaj { $provider }…
+
+## Chatbot header
+
+genai-header-options-button =
+    .title = Otvori izbornik
+genai-header-close-button =
+    .title = Zatvori
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ponovno učitaj { $provider }
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

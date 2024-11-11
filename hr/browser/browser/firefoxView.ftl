@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-description = Preuzmi { -brand-product-name } za
 firefoxview-tabpickup-adddevice-learn-how = Saznaj kako
 firefoxview-tabpickup-adddevice-primarybutton = Nabavi { -brand-product-name } za mobilne uređaje
 firefoxview-syncedtabs-adddevice-header-2 = Ugrabi kartice od bilo kuda
+firefoxview-syncedtabs-adddevice-description-2 = Prijavi se na { -brand-product-name } na svom telefonu ili drugom računalu kako bi se ovdje prikazale kartice. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-header = Prijavi se na { -brand-product-name } na svojim drugim uređajima
 firefoxview-syncedtabs-adddevice-description = Za prikaz kartica s bilo kojeg uređaja na kojem koristiš { -brand-product-name } prijavi se na svim svojim uređajima. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel
@@ -232,6 +233,8 @@ firefoxview-choose-browser-button = Odaberi preglednik
 firefoxview-dont-remember-history-empty-header = Ništa za pokazati
 firefoxview-dont-remember-history-empty-description = Zaštita tvoje privatnosti u središtu je onoga što radimo. Zato možeš kontrolirati aktivnost koju { -brand-short-name } pamti.
 firefoxview-dont-remember-history-empty-description-two = Na temelju tvojih trenutačnih postavki, { -brand-short-name } ne pamti tvoju aktivnost dok pregledavaš internet. <a data-l10n-name="history-settings-url-two">Promijeni postavke svoje povijesti ako želiš da se tvoja povijest pamti</a>.
+firefoxview-dont-remember-history-empty-header-2 = Ti kontroliraš što { -brand-short-name } pamti
+firefoxview-dont-remember-history-empty-description-one = Trenutačno { -brand-short-name } ne pamti tvoju aktivnost pregledavanja. Da bi to promijenio/la, <a data-l10n-name="history-settings-url-two">aktualiziraj svoje postavke povijesti</a>.
 
 ##
 
