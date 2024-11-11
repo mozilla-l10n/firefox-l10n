@@ -126,6 +126,9 @@ about-logins-login-item-remove-button = অপসারণ
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
 login-item-tooltip-message = নিশ্চিত করুন যে এটি আপনি যে ওয়েবসাইটে লগ ইন করেছেন তার সঠিক ঠিকানার সাথে মেলে।
 about-logins-origin-tooltip2 = সম্পূর্ণ ঠিকানা লিখুন এবং নিশ্চিত করুন যে আপনি যেখানে সাইন ইন করেছেন তার সাথে এটির সঠিক মিল।
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = নিশ্চিত করুন যে আপনি এই সাইটের জন্য আপনার বর্তমান পাসওয়ার্ড সংরক্ষণ করছেন। এখানে পাসওয়ার্ড পরিবর্তন করলে এটি দিয়ে { $webTitle } এর সাথে পরিবর্তন হয় না।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যবহারকারীর নাম
