@@ -8,6 +8,11 @@
 newtab-page-title = Uusi välilehti
 newtab-settings-button =
     .title = Muokkaa Uusi välilehti -sivua
+newtab-personalize-settings-icon-label =
+    .title = Mukauta uutta välilehteä
+    .aria-label = Asetukset
+newtab-settings-dialog-label =
+    .aria-label = Asetukset
 newtab-personalize-icon-label =
     .title = Muokkaa uutta välilehteä
     .aria-label = Muokkaa uutta välilehteä

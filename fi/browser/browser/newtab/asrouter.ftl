@@ -315,3 +315,12 @@ fxa-menu-message-backup-sync-collapsed-text = Synkronoi ja varmuuskopioi tiedot
 fxa-menu-message-mobile-primary-text = Lähetä välilehdet puhelimeesi
 fxa-menu-message-mobile-secondary-text = Jatka heti siitä, mihin jäit, kun synkronoit välilehdet mobiililaitteen kanssa.
 fxa-menu-message-mobile-collapsed-text = Synkronoi puhelimesi kanssa
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Tervetuloa takaisin
+multi-cta-fox-doodle-set-default-checkbox = Aseta { -brand-short-name } oletukseksi
+multi-cta-fox-doodle-pin-startmenu-checkbox = Kiinnitä { -brand-short-name } Käynnistä-valikkoon
+multi-cta-fox-doodle-start-browsing-primary-button-label = Aloita selaaminen
+multi-cta-fox-doodle-main-browser-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+multi-cta-fox-doodle-quick-reminder-subtitle = Tässä on pieni muistutus siitä, että voit pitää suosikkiselaimesi vain yhden napsautuksen päässä.
