@@ -86,6 +86,16 @@ sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Pomozte vylepšit { -brand-short-name(case: "acc") }
+       *[no-cases] Pomozte vylepšit aplikaci { -brand-short-name }
+    }
+sidebar-callout-survey-satisfaction-question =
+    { -brand-short-name.case-status ->
+        [with-cases] Jak jste spokojeni s postranním panelem ve { -brand-short-name(case: "dat") }?
+       *[no-cases] Jak jste spokojeni s postranním panelem v aplikaci { -brand-short-name }?
+    }
 sidebar-callout-survey-privacy-notice-link = Zásady ochrany osobních údajů
 sidebar-callout-survey-very-satisfied = Velmi spokojený
 sidebar-callout-survey-satisfied = Spokojený
