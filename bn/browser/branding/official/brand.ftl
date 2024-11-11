@@ -25,4 +25,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox এবং Firefox প্রতীক Mozilla ফাউন্ডেশনের রেজিস্ট্রিকৃত ট্রেডমার্ক।
+trademarkInfo = Firefox এবং Firefox লোগোসমূহ Mozilla ফাউন্ডেশন এর ট্রেডমার্ক।
