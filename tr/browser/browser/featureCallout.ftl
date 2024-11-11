@@ -84,6 +84,7 @@ sidebar-callout-survey-agree = Katılıyorum
 sidebar-callout-survey-disagree = Katılmıyorum
 sidebar-callout-survey-strongly-disagree = Kesinlikle katılmıyorum
 sidebar-callout-survey-split-view = İstediğiniz iki web sitesini yan yana bölünmüş görünümde görüntüleyin
+sidebar-callout-survey-keep-website-open = İnternette gezinirken e-posta veya takvim gibi bir web sitesini kenar çubuğunda açık tutun
 sidebar-callout-survey-none-of-above = Yukarıdakilerin hiçbiri
 sidebar-callout-survey-submit = Gönder
 sidebar-callout-survey-thank-you = Geri bildiriminiz için teşekkür ederiz.
