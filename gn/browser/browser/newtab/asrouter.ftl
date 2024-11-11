@@ -314,3 +314,15 @@ fxa-menu-message-backup-sync-collapsed-text = Embojuehe ha eykeko mba’ekuaarã
 fxa-menu-message-mobile-primary-text = Emondo tendayke ne pumbyrýpe
 fxa-menu-message-mobile-secondary-text = Eku’e jey ehejahaguetégui embojuehévo umi tendayke peteĩ pumbyry ndive.
 fxa-menu-message-mobile-collapsed-text = Embojuehe pumbyry ndive
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Eg̃uahẽporãjeýna
+multi-cta-fox-doodle-set-default-checkbox = Ejapo { -brand-short-name }-gui ne kundahára ypyguáva
+multi-cta-fox-doodle-pin-startmenu-checkbox = Emboja { -brand-short-name } poravoha Ñepyrũháre
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Emboja { -brand-short-name } tembiaporã rendáre
+       *[other] Embjuaju { -brand-short-name } tembiaporã rendáre
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Eñepyrũ eikundaha
