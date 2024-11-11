@@ -67,3 +67,4 @@ sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova ka
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Pomogni poboljšati { -brand-short-name }
