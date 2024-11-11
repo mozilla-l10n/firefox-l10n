@@ -249,6 +249,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Otvori račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u tvojoj budućnosti?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slijedi nekoliko jednostavnih koraka da poneseš svoje zabilješke, povijest i lozinke sa sobom kada počneš koristiti novi uređaj.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako spremiti sigurnosnu kopiju mojih podataka
+device-migration-fxa-spotlight-sync-primary-button = Započni
 
 ## Set as Default PDF Reader Infobar
 
@@ -288,6 +289,24 @@ tail-fox-spotlight-secondary-button = Ne sada
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Starije verzije { -brand-short-name }a bi 14. siječnja 2025 mogle imati probleme.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aktualiziraj za daljnje korištenje { -brand-short-name }a nakon 14. ožujka 2025.</strong>
+root-certificate-succession-infobar-link = Zašto moram aktualizirati?
+root-certificate-succession-infobar-primary-button =
+    .label = Aktualiziraj sada
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Kasnije
+    .accesskey = K
 
 ## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Zatvori
+    .aria-label = Zatvori
+fxa-menu-message-sign-up-button = Registriraj se
+fxa-menu-message-sync-devices-primary-text = Sinkroniziraj sve svoje uređaje
+fxa-menu-message-sync-devices-collapsed-text = Sinkroniziraj sve svoje uređaje
+
+## Multi-CTA Fox Doodle Spotlight
 
