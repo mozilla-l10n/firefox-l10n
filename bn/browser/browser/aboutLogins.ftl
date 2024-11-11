@@ -220,6 +220,10 @@ confirmation-dialog-dismiss-button =
     .title = বাতিল
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = পাসওয়ার্ড অপসারণ করবেন?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = আপনি এই কাজটিকে আনডু (পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
 about-logins-confirm-remove-dialog-confirm-button = সরান
 
 ## Variables
@@ -237,10 +241,27 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] হ্যাঁ, এই লগইন সরান
        *[other] হ্যাঁ, এই লগইনগুলি সরান
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } টি লগইন মুছে ফেলতে চান?
+       *[other] { $count } টির সবগুলো লগইন মুছে ফেলতে চান?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] এটি আপনি { -brand-short-name }-এ যে লগইন সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
+        [one] এটি আপনি { -brand-short-name }-এ যে লগইন সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
+       *[other] এটি আপনি { -brand-short-name }-এ যে লগইন গুলো সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইন মুছে ফেলবেন?
        *[other] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইনগুলো মুছে ফেলবেন?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
+        [one] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
+       *[other] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন গুলো মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
     }
 
 ##
