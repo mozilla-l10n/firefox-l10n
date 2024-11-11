@@ -316,3 +316,17 @@ fxa-menu-message-backup-sync-collapsed-text = Samstilltu og afritaðu gögn
 fxa-menu-message-mobile-primary-text = Sendu flipa í símann þinn
 fxa-menu-message-mobile-secondary-text = Haltu áfram þar sem þú frá var horfið með því að þú samstillir flipana þína við farsíma.
 fxa-menu-message-mobile-collapsed-text = Samstilltu við símann þinn
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Velkomin aftur
+multi-cta-fox-doodle-set-default-checkbox = Stilltu { -brand-short-name } á sjálfgefið
+multi-cta-fox-doodle-pin-startmenu-checkbox = Festu { -brand-short-name } á ræsivalmyndina
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Festu { -brand-short-name } á verkefnastikuna
+       *[other] Festu { -brand-short-name } á verkefnastikuna
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Fara að vafra
+multi-cta-fox-doodle-main-browser-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
+multi-cta-fox-doodle-quick-reminder-subtitle = Hér er vinsamleg áminning um að þú getur haldið áfram að nota eftirlætisvafrann þinn með einum smelli.
