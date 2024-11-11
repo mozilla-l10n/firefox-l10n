@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Sedło w nowem woknje wócyniś
 csp-xfo-blocked-long-desc = Aby swóju wěstotu šćitał, { $hostname } { -brand-short-name } njedowólijo, bok pokazaś, jolic jo zasajźony w drugem sedle. Aby toś ten bok wiźeł, musyśo jen w nowem woknje wócyniś.
 fp-certerror-view-certificate-link = Certifikat sedła pokazaś
 fp-certerror-return-to-previous-page-recommended-button = Slědk (dopórucony)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Sedło jo tak konfigurěrowane, až jano wěste zwiski dowólujo, ale dajo problem z certifikatom sedła. Jo móžno, až złowólny akter wopytujo, sedło imitěrowaś. Sedła certifikaty wužywaju, kótarež su se wudali wót certifikowateje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž jogo certifikat za { $hostname } njejo płaśiwy. Certifikat jo jano płaśiwy za: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Snaź nic, dokulaž to jo nejskerjej problem ze sedłom samym. Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. Ale jolic sćo w seśi pśedewześa, waš team pomocy snaź dalšne informacije ma. Jolic antiwirusowu software wužywaśo, wopytajśo za potencielnymi konfliktami abo znatymi problemami pytaś.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic wjele. Zda se, až jo problem ze sedłom samym.
 fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jolic wopytujośo, se k toś tomu sedłoju we firmowem interneśe woglědaś, móžo waš personal IT samosigněrowane certifikaty wužywaś. Mógu wam pomagaś, jich awtentiskosć pśeglědowaś.
