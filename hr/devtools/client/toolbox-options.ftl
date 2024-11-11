@@ -34,6 +34,15 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Skrati DOM atribute
 options-collapse-attrs-tooltip =
     .title = Skrati duge atribute u inspektoru
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klikni i povuci za uređivanje vrijednosti veličine
+options-inspector-draggable-properties-tooltip =
+    .title = Klikni i povuci za uređivanje vrijednosti veličine u prikazu pravila inspektora.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Fokusiraj sljedeći unos nakon pritiskanja tipke <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Kada je aktivirano, pritiskom tipke Enter prilikom uređivanja selektora, ime svojstva ili vrijednost će premjestiti fokus na sljedeći unos.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -42,6 +51,7 @@ options-default-color-unit-authored = Izvorno
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Imena boja
 
 ## Web Console section
@@ -66,6 +76,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Ponašanje snimke ekrana
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Snimka ekrana samo u međuspremnik
+options-screenshot-clipboard-tooltip2 =
+    .title = Sprema snimku ekrana izravno u međuspremnik
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Pokreni zvuk okidača kamere
 options-screenshot-audio-tooltip =

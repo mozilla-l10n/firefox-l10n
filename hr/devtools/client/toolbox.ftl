@@ -28,7 +28,12 @@ toolbox-meatball-menu-noautohide-label = Onemogući automatsko skrivanje skočno
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
 toolbox-mode-everything-sub-label = (Sporije)
+toolbox-mode-everything-container =
+    .title = Otklanjaj greške u svim procesima
+toolbox-mode-parent-process-label = Samo nadređeni proces
 toolbox-mode-parent-process-sub-label = (Brzo)
+toolbox-mode-parent-process-container =
+    .title = Usredotoči se samo na resurse iz nadređenog procesa.
 toolbox-always-on-top-enabled2 = Deaktiviraj uvijek ispred
     .title = Ovo će ponovo pokrenuti alate za programere
 toolbox-always-on-top-disabled2 = Aktiviraj uvijek ispred
