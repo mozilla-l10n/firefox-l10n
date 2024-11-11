@@ -34,6 +34,7 @@ about-webauthn-new-pin-label = Novi PIN:
 about-webauthn-repeat-pin-label = Ponovi novi PIN:
 about-webauthn-current-pin-label = Trenutačni PIN:
 about-webauthn-pin-required-label = Upiši tvoj PIN:
+about-webauthn-confirm-deletion-label = Izbrisat ćeš:
 
 ## Buttons
 
@@ -91,11 +92,26 @@ about-webauthn-auth-info-null = Nije podržano
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { NUMBER($repeatCount) ->
+        [one] Potreban je još { $repeatCount } uzorak.
+        [few] Potrebna su još { $repeatCount } uzorka.
+       *[other] Potrebno je još { $repeatCount } uzoraka.
+    }
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
 
 ##
 
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Neuspjelo spajanje uzorka.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Uzorak već postoji.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Nema aktivnosti od korisnika.
 about-webauthn-ctap2-enroll-feedback-other = Primjer greške.
