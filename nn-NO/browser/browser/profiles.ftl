@@ -3,7 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } - Vel brukarprofil
+profile-window-heading = Vel ein { -brand-short-name }-profil
 profile-window-create-profile = Opprett ein profil
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Profil { $number }
 edit-profile-page-title = Rediger profil
 edit-profile-page-header = Rediger profilen din
 edit-profile-page-profile-name-label = Profilnamn
@@ -21,6 +25,12 @@ new-profile-page-done-button =
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Slett { $profilename }-profilen
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Vil du slette { $profilename }-profilen?
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Opne vindauge
 # Open is an adjective, as in "browser tabs currently open".
