@@ -72,6 +72,10 @@ sidebar-callout-survey-satisfaction-question = Koliko si zadovoljan/na s bočnom
 sidebar-callout-survey-privacy-notice-link = Napomena o privatnosti
 sidebar-callout-survey-very-satisfied = Vrlo zadovoljan/na
 sidebar-callout-survey-satisfied = Zadovoljan/na
+sidebar-callout-survey-neutral = Neutralan/na
 sidebar-callout-survey-dissatisfied = Nezadovoljan/na
 sidebar-callout-survey-very-dissatisfied = Vrlo nezadovoljan/na
 sidebar-callout-survey-dont-use-it = Ne koristim je
+sidebar-callout-survey-productive-question =
+    U kojoj se mjeri slažeš ili ne slažeš s ovom izjavom:<br/>
+    „Bočna traka { -brand-short-name }a mi pomaže biti produktivniji/a”?
