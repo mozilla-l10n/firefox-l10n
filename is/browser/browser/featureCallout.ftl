@@ -83,5 +83,14 @@ sidebar-callout-survey-strongly-agree = Mjög sammála
 sidebar-callout-survey-agree = Sammála
 sidebar-callout-survey-disagree = Ósammála
 sidebar-callout-survey-strongly-disagree = Mjög ósammála
+sidebar-callout-survey-features-question = Eftirfarandi eru mögulegir eiginleikar hliðarstikunnar. Hvað myndi bæta mest afköst þín í { -brand-short-name }?
+sidebar-callout-survey-split-view = Skoða hvaða tvö vefsvæði sem er í einu, hlið við hlið í tvískiptri sýn
+sidebar-callout-survey-keep-website-open = Halda vefsíðu opinni í hliðarstikunni, eins og tölvupósti eða dagatali, á meðan þú vafrar annað
+sidebar-callout-survey-saved-websites = Skjótur aðgangur að öllum þínum vistuðu vefsíðum
 sidebar-callout-survey-none-of-above = Ekkert af ofangreindu
 sidebar-callout-survey-submit = Senda inn
+sidebar-callout-survey-thank-you = Takk fyrir álit þitt!
+sidebar-genai-survey-satisfaction-question = Hversu ánægð/ur ertu með að hafa aðgang að gervigreindarspjallkerfi í hliðarstikunni?
+sidebar-genai-survey-productive-question =
+    Að hve miklu leyti ertu sammála eða ósammála þessari fullyrðingu:<br/>
+    „Gervigreindar-spjallkerfið í hliðarstikunni hjálpar mér að vera afkastameiri“?

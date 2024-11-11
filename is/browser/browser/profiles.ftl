@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } - Veldu notandasnið
+profile-window-heading = Veldu { -brand-short-name } notkunarsnið
+profile-window-body = Haltu vinnu þinni og persónulegu vafri, þar á meðal atriðum eins og lykilorðum og bókamerkjum, algjörlega aðskildum. Eða búðu til notkunarsnið fyrir alla sem nota þetta tæki.
 edit-profile-page-profile-saved = Vistað
 new-profile-page-title = Nýtt notkunarsnið
 new-profile-page-header = Sérsníddu nýja notkunarsniðið þitt
