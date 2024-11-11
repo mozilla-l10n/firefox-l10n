@@ -64,3 +64,24 @@ split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
 
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
 sidebar-button-callout-subtitle = Notaðu hliðarstikuhnappinn til að stækka hliðarstikuna, svo þú getir séð titlana á flipunum.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Hjálpaðu til við að bæta { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Hversu ánægður ertu með upplifunina af hliðarstikunni í { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Meðferð persónuupplýsinga
+sidebar-callout-survey-very-satisfied = Mjög ánægð/ur
+sidebar-callout-survey-satisfied = Ánægð/ur
+sidebar-callout-survey-neutral = Hlutlaus
+sidebar-callout-survey-dissatisfied = Óánægð/ur
+sidebar-callout-survey-very-dissatisfied = Mjög óánægð/ur
+sidebar-callout-survey-dont-use-it = Ég nota þetta ekki
+sidebar-callout-survey-productive-question =
+    Að hve miklu leyti ertu sammála eða ósammála þessari fullyrðingu:<br/>
+    „{ -brand-short-name } hliðarstikan hjálpar mér að vera afkastameiri“?
+sidebar-callout-survey-strongly-agree = Mjög sammála
+sidebar-callout-survey-agree = Sammála
+sidebar-callout-survey-disagree = Ósammála
+sidebar-callout-survey-strongly-disagree = Mjög ósammála
+sidebar-callout-survey-none-of-above = Ekkert af ofangreindu
+sidebar-callout-survey-submit = Senda inn

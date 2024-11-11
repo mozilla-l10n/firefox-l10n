@@ -8,6 +8,11 @@
 newtab-page-title = Nýr flipi
 newtab-settings-button =
     .title = Sérsníða nýju flipasíðuna
+newtab-personalize-settings-icon-label =
+    .title = Sérsníða nýjan flipa
+    .aria-label = Stillingar
+newtab-settings-dialog-label =
+    .aria-label = Stillingar
 newtab-personalize-icon-label =
     .title = Sérsníða nýjan flipa
     .aria-label = Sérsníða nýjan flipa

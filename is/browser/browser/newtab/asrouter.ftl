@@ -330,3 +330,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Fara að vafra
 multi-cta-fox-doodle-main-browser-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
 multi-cta-fox-doodle-quick-reminder-subtitle = Hér er vinsamleg áminning um að þú getur haldið áfram að nota eftirlætisvafrann þinn með einum smelli.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.
+       *[other] Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.

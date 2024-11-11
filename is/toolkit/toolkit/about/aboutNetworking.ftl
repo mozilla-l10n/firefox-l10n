@@ -4,6 +4,7 @@
 
 about-networking-title = Um net
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Hreinsa HTTP-skyndiminni
 about-networking-sockets = Tengill
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Hreinsa DNS-skyndiminni
