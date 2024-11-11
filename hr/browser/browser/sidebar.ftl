@@ -4,6 +4,10 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
+menu-view-review-checker =
+    .label = Provjera recenzija
+sidebar-options-menu-button =
+    .title = Otvori izbornik
 
 ## Labels for sidebar history panel
 
@@ -50,12 +54,14 @@ sidebar-horizontal-tabs =
     .label = Vodoravne kartice
 sidebar-customize-tabs-header =
     .label = Postavke kartica
-sidebar-customize-settings-header =
-    .label = Postavke bočne trake
-sidebar-visibility-always-show =
-    .label = Uvijek prikaži
-sidebar-visibility-hide-sidebar =
-    .label = Sakrij bočnu traku
+sidebar-customize-button-header =
+    .label = Gumb bočne trake
+sidebar-customize-position-header =
+    .label = Položaj bočne trake
+sidebar-visibility-setting-always-show =
+    .label = Rasklopi i sklopi bočnu traku
+sidebar-visibility-setting-hide-sidebar =
+    .label = Prikaži i sakrij bočnu traku
 
 ## Labels for sidebar context menu items
 
@@ -73,6 +79,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Zabilježi karticu…
 sidebar-context-menu-copy-link =
     .label = Kopiraj poveznicu
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Zatvori karticu na { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -91,6 +101,8 @@ sidebar-menu-bookmarks-label =
     .label = Zabilješke
 sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
+sidebar-menu-review-checker-label =
+    .label = Provjera recenzija
 
 ## Headings for sidebar menu panels.
 
@@ -100,3 +112,35 @@ sidebar-menu-history-header =
     .heading = Povijest
 sidebar-menu-syncedtabs-header =
     .heading = Kartice s drugih uređaja
+sidebar-panel-header-close-button =
+    .tooltiptext = Zatvori
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Prilagodi bočnu traku
+sidebar-history-title = Povijest
+sidebar-syncedtabs-title = Kartice s drugih uređaja
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Zatvori karticu na { $deviceName }
+
+## Tooltips for the sidebar toolbar widget.
+
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Rasklopi bočnu traku
+    .label = Bočne trake
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Sklopi bočnu traku
+    .label = Bočne trake
+sidebar-widget-show-sidebar =
+    .tooltiptext = Prikaži bočnu traku
+    .label = Bočne trake
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Sakrij bočnu traku
+    .label = Bočne trake

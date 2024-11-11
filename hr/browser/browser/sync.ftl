@@ -36,3 +36,4 @@ fxa-menu-sign-out =
     .label = Odjavi se…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Pristupite svom webu bilo gdje
+sync-setup-verify-continue = Nastavi
