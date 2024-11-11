@@ -323,6 +323,7 @@ fxa-menu-message-mobile-collapsed-text = Синхронізуйте зі сво�
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = З поверненням
+multi-cta-fox-doodle-set-default-checkbox = Встановити { -brand-short-name } типовим
 multi-cta-fox-doodle-pin-startmenu-checkbox = Закріпити { -brand-short-name } у меню Пуск
 multi-cta-fox-doodle-start-browsing-primary-button-label = Почати перегляд
 multi-cta-fox-doodle-main-browser-primary-button-label = Зробити { -brand-short-name } моїм основним браузером

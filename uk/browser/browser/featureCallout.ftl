@@ -67,5 +67,27 @@ sidebar-button-callout-subtitle = Натисніть кнопку бічної �
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Допоможіть удосконалити { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Як ви оцінюєте роботу бічної панелі у { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Положення про приватність
+sidebar-callout-survey-very-satisfied = Відмінно
+sidebar-callout-survey-satisfied = Добре
+sidebar-callout-survey-neutral = Нейтрально
+sidebar-callout-survey-dissatisfied = Незадовільно
+sidebar-callout-survey-dont-use-it = Не користуюсь
+sidebar-callout-survey-productive-question =
+    Наскільки ви згодні чи не згодні з цим твердженням:<br/>
+    “Бічна панель { -brand-short-name } підвищує мою продуктивність”?
+sidebar-callout-survey-strongly-agree = Цілком погоджуюсь
+sidebar-callout-survey-agree = Погоджуюсь
+sidebar-callout-survey-disagree = Не погоджуюсь
+sidebar-callout-survey-strongly-disagree = Категорично не погоджуюсь
+sidebar-callout-survey-split-view = Перегляд будь-яких двох вебсайтів одночасно в режимі розділеного перегляду
+sidebar-callout-survey-keep-website-open = Розміщення вебсайту, наприклад електронної пошти чи календаря, відкритим на бічній панелі під час перегляду
+sidebar-callout-survey-saved-websites = Швидкий доступ до всіх збережених вебсайтів
+sidebar-callout-survey-none-of-above = Нічого з переліченого
 sidebar-callout-survey-submit = Надіслати
 sidebar-callout-survey-thank-you = Дякуємо за відгук!
+sidebar-genai-survey-productive-question =
+    Наскільки ви згодні чи не згодні з цим твердженням:<br/>
+    “Чат-бот з ШІ на бічній панелі підвищує мою продуктивність”?
