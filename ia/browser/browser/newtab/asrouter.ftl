@@ -321,5 +321,11 @@ fxa-menu-message-mobile-collapsed-text = Synchronisa con tu telephono
 
 multi-cta-fox-doodle-title = Bentornate
 multi-cta-fox-doodle-set-default-checkbox = Facer de { -brand-short-name } mi predefinite
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar { -brand-short-name } a menu Initiar
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Retener { -brand-short-name } in Dock
+       *[other] Fixar { -brand-short-name } a barra de apps
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comenciar a navigar
 multi-cta-fox-doodle-main-browser-primary-button-label = Facer de { -brand-short-name } mi navigator principal
