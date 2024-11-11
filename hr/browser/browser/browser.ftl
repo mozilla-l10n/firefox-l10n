@@ -556,8 +556,6 @@ urlbar-page-action-button =
     .tooltiptext = Radnje na stranici
 urlbar-revert-button =
     .tooltiptext = Prikaži adresu u lokacijskoj traci
-urlbar-show-page-actions-button =
-    .tooltiptext = Prikaži sve radnje na stranici
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -618,6 +616,38 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Traži pomoću { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } – Pretraži { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } – Pretraži pomoću { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Odaberi tražilicu
+urlbar-searchmode-bookmarks =
+    .label = Zabilješke
+urlbar-searchmode-tabs =
+    .label = Kartice
+urlbar-searchmode-history =
+    .label = Povijest
+urlbar-searchmode-actions =
+    .label = Radnje
+urlbar-searchmode-exit-button =
+    .tooltiptext = Zatvori
+urlbar-searchmode-popup-description = Ovaj put traži pomoću:
+urlbar-searchmode-popup-search-settings = Postavke pretrage
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, odaberi tražilicu
+    .tooltiptext = { $engine }, odaberi tražilicu
+urlbar-searchmode-button-no-engine =
+    .label = Nije odabran nijedan prečac, odaberi prečac
+    .tooltiptext = Nije odabran nijedan prečac, odaberi prečac
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -940,6 +970,9 @@ data-reporting-notification-button =
     .accesskey = O
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privatno pregledavanje
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privatno pregledavanje
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1013,6 +1046,7 @@ firefox-relay-offer-legal-notice = Klikom na „Koristi e-mail masku” prihvać
 popup-notification-addon-install-unsigned =
     .value = (Nepotvrđeno)
 popup-notification-xpinstall-prompt-learn-more = Naučite više o sigurnom instaliranju dodataka
+popup-notification-xpinstall-prompt-block-url = Pogledaj detalje
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Pokreni u privatnim prozorima

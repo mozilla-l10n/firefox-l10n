@@ -43,3 +43,27 @@ callout-pdfjs-draw-body-a = Označi PDF datoteke, zatim spremi promjene.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Ispisivanje i skeniranje više nije potrebno. Označi PDF datoteke, zatim spremi promjene.
 callout-pdfjs-draw-button = Razumijem!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-title = Nisi htio/htjela zatvoriti tu karticu?
+fx-view-discoverability-subtitle = Ovdje je brzo pronađi i ponovo otvori. Čuvamo povijest tvojih nedavno zatvorenih kartica.
+fx-view-discoverability-primary-button-label = Otvori { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Odbaci
+
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Ne prikazuj više ovu preporuku
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Prikaži manje preporuka
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Upravljaj postavkama
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci
+sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova kartica.
+
+## Sidebar Callout Survey Strings
+
