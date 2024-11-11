@@ -84,9 +84,19 @@ fp-certerror-bad-domain-what-can-you-do-body = Snano ničo, dokelž to je najske
 fp-certerror-unknown-issuer-why-dangerous-body = Je problem z certifikatom sydła. Je móžno, zo złowólny akter pospytuje, sydło imitować. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž njemóžemy zdźělić, štóž je certifikat wudał, je samosignowany abo sydło mjeztymne certifikaty njesćele, kotrymž dowěrjamy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Snano ničo, dokelž to je najskerje problem ze sydłom samym. Ale jeli sće w syći předewzaća, waš team pomocy snano dalše informacije ma. Jeli antiwirusowu software wužiwaće, dyrbiće ju snano tak konfigurować, zo by z { -brand-short-name } fungowała.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Dokelž je problem z certifikatom sydła. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. Certifikat tutoho sydła je samosignowany. Njeje so wot připóznateho certifikowanišća wudał – tohodla jemu po standardźe njedowěrjamy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic wjele. Zda so, zo je problem ze sydłom samym.
 fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jeli pospytujeće, tute sydło we firmowym interneće wopytać, móže waš personal IT samosignowane certifikaty wužiwać. Móža wam pomhać, jich awtentiskosć přepruwować.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, z kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž so zda, zo certifikat je dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } spadnył.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, z kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž so zda, zo certifikat njebudźe płaćiwy hač do { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
