@@ -8,17 +8,25 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Postavke profiliranja
+perftools-intro-description =
+    Snimanja pokreću profiler.firefox.com u novoj kartici. Svi se podaci spremaju
+    lokalno, ali ih možeš prenijeti za dijeljenje.
 
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Potpune postavke
 perftools-heading-buffer = Postavke međuspremnika
 perftools-heading-features = Funkcije
+perftools-heading-features-default = Funkcije (preporučuje se da su standardno uključene)
 perftools-heading-features-disabled = Deaktivirane funkcije
 perftools-heading-features-experimental = Eksperimentalno
+perftools-heading-local-build = Lokalna izgradnja
 
 ##
 
+perftools-description-intro =
+    Snimanja pokreću <a>profiler.firefox.com</a> u novoj kartici. Svi se podaci spremaju
+    lokalno, ali ih možeš prenijeti za dijeljenje.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -26,6 +34,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+perftools-devtools-interval-label = Interval:
 perftools-devtools-settings-label = Postavke
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -73,6 +82,9 @@ perftools-thread-compositor =
 # devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Web programer
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-graphics-label = Slike
 
 ##
 
