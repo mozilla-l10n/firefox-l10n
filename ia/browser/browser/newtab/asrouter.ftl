@@ -329,4 +329,10 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comenciar a navigar
 multi-cta-fox-doodle-main-browser-primary-button-label = Facer de { -brand-short-name } mi navigator principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Memora que tu pote tener tu navigator preferite, e attente al confidentialitate, justo a portata de clic.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Tene tu navigator preferite, e attente al confidentialitate, justo a portata de clic. Pone { -brand-short-name } como tu navigator predefinite pro aperir ligamines e tene lo in tu Dock.
+       *[other] Tene tu navigator preferite, e attente al confidentialitate, justo a portata de clic. Pone { -brand-short-name } como tu navigator predefinite pro aperir ligamines e fixa lo a tu barra de apps.
+    }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tene a portata de clic tu navigator preferite, attente al confidentialitate. Pone { -brand-short-name } como navigator predefinite pro le apertura del ligamines, fixa lo al barra del apps.
