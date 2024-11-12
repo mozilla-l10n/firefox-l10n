@@ -313,3 +313,23 @@ fxa-menu-message-backup-sync-collapsed-text = 同步和备份数据
 fxa-menu-message-mobile-primary-text = 发送标签页到手机
 fxa-menu-message-mobile-secondary-text = 将标签页同步到移动设备，从上次看到的地方无缝接续浏览。
 fxa-menu-message-mobile-collapsed-text = 与手机同步
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = 欢迎回来
+multi-cta-fox-doodle-set-default-checkbox = 将 { -brand-short-name } 设为默认浏览器
+multi-cta-fox-doodle-pin-startmenu-checkbox = 将 { -brand-short-name } 固定到开始菜单
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] 将 { -brand-short-name } 保留在程序坞中
+       *[other] 将 { -brand-short-name } 固定到任务栏
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = 开始上网冲浪
+multi-cta-fox-doodle-main-browser-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
+multi-cta-fox-doodle-quick-reminder-subtitle = 小提示：您可以把最爱的隐私为先浏览器固定起来，随时随地一键打开。
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] 随时随地一键打开您最爱的隐私为先浏览器。将 { -brand-short-name } 设为用于打开链接的默认浏览器，并保留在程序坞中。
+       *[other] 随时随地一键打开您最爱的隐私为先浏览器。将 { -brand-short-name } 设为用于打开链接的默认浏览器，并固定到任务栏。
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = 随时随地一键打开您最爱的隐私为先浏览器。将 { -brand-short-name } 设为用于打开链接的默认浏览器，并固定到任务栏和开始菜单。

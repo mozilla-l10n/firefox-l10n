@@ -64,3 +64,33 @@ split-dismiss-button-manage-settings-option-label = 管理设置
 
 sidebar-button-callout-title = 在侧栏中显示标签页标题
 sidebar-button-callout-subtitle = 使用侧栏按钮展开侧栏，即可查看标签页标题。
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = 帮助改进 { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = 您对 { -brand-short-name } 的侧栏体验满意度如何？
+sidebar-callout-survey-privacy-notice-link = 隐私声明
+sidebar-callout-survey-very-satisfied = 非常满意
+sidebar-callout-survey-satisfied = 满意
+sidebar-callout-survey-neutral = 无感
+sidebar-callout-survey-dissatisfied = 不满意
+sidebar-callout-survey-very-dissatisfied = 非常不满意
+sidebar-callout-survey-dont-use-it = 未曾使用
+sidebar-callout-survey-productive-question =
+    您在多大程度上赞同或反对此说法：<br/>
+    “{ -brand-short-name } 侧栏让我的浏览更高效”？
+sidebar-callout-survey-strongly-agree = 非常赞同
+sidebar-callout-survey-agree = 赞同
+sidebar-callout-survey-disagree = 不赞同
+sidebar-callout-survey-strongly-disagree = 非常不赞同
+sidebar-callout-survey-features-question = 以下是未来可能加入的侧栏功能，其中哪个最能提高您使用 { -brand-short-name } 的效率？
+sidebar-callout-survey-split-view = 通过并排分屏视图，同时浏览两个网站
+sidebar-callout-survey-keep-website-open = 浏览时将其他网站（例如邮箱或日历）固定在侧栏中打开
+sidebar-callout-survey-saved-websites = 快速访问您保存的所有网站
+sidebar-callout-survey-none-of-above = 以上皆非
+sidebar-callout-survey-submit = 提交
+sidebar-callout-survey-thank-you = 感谢您的反馈！
+sidebar-genai-survey-satisfaction-question = 您对在侧栏中能够使用 AI 聊天机器人的满意度如何？
+sidebar-genai-survey-productive-question =
+    您在多大程度上赞同或反对此说法：<br/>
+    “侧栏中的 AI 聊天机器人让我的浏览更高效”？

@@ -8,6 +8,11 @@
 newtab-page-title = 新标签页
 newtab-settings-button =
     .title = 定制您的新标签页
+newtab-personalize-settings-icon-label =
+    .title = 个性化新标签页
+    .aria-label = 设置
+newtab-settings-dialog-label =
+    .aria-label = 设置
 newtab-personalize-icon-label =
     .title = 个性化标签页
     .aria-label = 个性化标签页
