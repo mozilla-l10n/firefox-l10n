@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-older-device-primary-button = Opprett ein konto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Planlegg du å kjøpe ei ny eining i framtida?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Følg nokre få enkle steg for å ta med deg bokmerka, historikken og passorda dine når du startar med ei ny eining.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
+device-migration-fxa-spotlight-sync-header = Surf utan å gå glipp av noko viktig
 device-migration-fxa-spotlight-sync-primary-button = Kom i gang
 
 ## Set as Default PDF Reader Infobar
@@ -301,8 +302,25 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
+fxa-menu-message-backup-data-primary-text = Sikkerheitskopier nettlesardataa dine
+fxa-menu-message-backup-data-secondary-text = Vern bokmerke, passord og annan informasjon automatisk på alle einingane dine.
+fxa-menu-message-backup-data-collapsed-text = Sikkerheitskopier nettlesardata
+fxa-menu-message-backup-sync-primary-text = Hald dataa dine trygge og synkroniserte
+fxa-menu-message-backup-sync-secondary-text = Synkronisering sikkerhetskopierer dei fleste dataa dine slik at du kan få tilgang til dei overalt der du brukar { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Synkroniser og sikkerheitskopier data
+fxa-menu-message-mobile-primary-text = Send faner til telefonen din
 fxa-menu-message-mobile-collapsed-text = Synkroniser med telefonen din
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Velkomen tilbake
+multi-cta-fox-doodle-set-default-checkbox = Bruk { -brand-short-name } som standard
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fest { -brand-short-name } til Start-menyen
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Behald { -brand-short-name } i Dock
+       *[other] Fest { -brand-short-name } til oppgåvelinja
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Begynn å surfe
 multi-cta-fox-doodle-main-browser-primary-button-label = Gjer { -brand-short-name } til hovudnettlesaren min
+multi-cta-fox-doodle-quick-reminder-subtitle = Her er ei rask påminning om at du kan ha favorittnettlesaren din med fokus på personvern berre eitt klikk unna.
