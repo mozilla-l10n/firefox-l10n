@@ -26,6 +26,17 @@ new-profile-page-done-button =
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Otevřená okna
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Otevřené panely
+delete-profile-bookmarks = Záložky
+delete-profile-history = Historie (navštívené stránky, cookies, údaje stránek)
+delete-profile-logins = Hesla
+# Button label
+delete-profile-cancel = Zrušit
+# Button label
+delete-profile-confirm = Smazat
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
