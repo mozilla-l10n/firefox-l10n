@@ -76,3 +76,10 @@ sidebar-callout-survey-neutral = Neutral
 sidebar-callout-survey-dissatisfied = Unzufrieden
 sidebar-callout-survey-very-dissatisfied = Sehr unzufrieden
 sidebar-callout-survey-dont-use-it = Ich verwende sie nicht
+sidebar-callout-survey-strongly-agree = Stimme voll zu
+sidebar-callout-survey-agree = Stimme zu
+sidebar-callout-survey-disagree = Stimme nicht zu
+sidebar-callout-survey-strongly-disagree = Stimme überhaupt nicht zu
+sidebar-genai-survey-productive-question =
+    Inwieweit stimmen Sie dieser Aussage zu oder nicht:<br/>
+    „Der KI-Chatbot in der Sidebar hilft mir, produktiver zu sein“?
