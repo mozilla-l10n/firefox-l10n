@@ -317,6 +317,7 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 
 about-logins-breach-alert-title = ওয়েবসাইট উলঙ্গন হয়েছে
 breach-alert-text = আপনার সবশেষ পাসওয়ার্ড হালনাগাদ করার পরে এই ওয়েবসাইট থেকে পাসওয়ার্ড ফাঁস বা চুরি হয়েছে। আপনার অ্যাকাউন্ট সুরক্ষিত করতে পাসওয়ার্ড পরিবর্তন করুন।
+about-logins-breach-alert-date = এই লঙ্ঘনের ঘটনাটি ঘটেছে { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } এ যান
@@ -324,6 +325,7 @@ about-logins-breach-alert-link = { $hostname } এ যান
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ঝুঁকিপূর্ণ পাসওয়ার্ড
+about-logins-vulnerable-alert-text2 = এই পাসওয়ার্ডটি অন্য কোন অ্যাকাউন্টে ব্যবহার করা হয়েছে, যা সম্ভবত ডেটা লঙ্ঘনের শিকার হয়েছিল। একই পাসওয়ার্ড বারবার ব্যাবহার করা হলে, আপনার একাউন্টসমূহ ঝুকির মধ্যে পরবে। এই পাসওয়ার্ডটি পরিবর্তন করুন।
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } এ যান
@@ -346,6 +348,11 @@ about-logins-export-file-picker-title = লগ ইন ফাইল রপ্ত�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } থেকে পাসওয়ার্ড এক্সপোর্ট করুন
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = রপ্তানি করুন
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -359,6 +366,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = লগইন ফাইল আমদানি করুন
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name }-এ পাসওয়ার্ড ইমপোর্ট করুন
 about-logins-import-file-picker-import-button = আমদানি করুন
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -384,6 +393,21 @@ about-logins-import-dialog-items-added =
     { $count ->
         [one] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>বিদ্যমান লগইন হালনাগাদ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>বিদ্যমান লগইনগুলো হালনাগাদ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>ডুপ্লিকেট লগইন পাওয়া গেছেঃ</span><span data-l10n-name="count">{ $count }-টি</span><span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
+       *[other] <span>ডুপ্লিকেট লগইন পাওয়া গেছেঃ</span><span data-l10n-name="count">{ $count }-টি</span><span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+        [one] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
+       *[other] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
