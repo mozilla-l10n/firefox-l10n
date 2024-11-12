@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web-stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
 fp-certerror-return-to-previous-page-recommended-button = Idi natrag (preporučeno)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Web stranice koriste certifikate koje je izdalo certifikacijsko tijelo kako bi dokazale da su stvarno ono za što se predstavljaju. { -brand-short-name } ne vjeruje ovoj web stranici jer izgleda da je certifikat istekao { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
