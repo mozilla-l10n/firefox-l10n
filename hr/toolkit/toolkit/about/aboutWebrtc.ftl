@@ -168,6 +168,9 @@ about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički promije
 
 ##
 
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
