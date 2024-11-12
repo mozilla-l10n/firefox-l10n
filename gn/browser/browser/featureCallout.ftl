@@ -86,3 +86,4 @@ sidebar-callout-survey-saved-websites = Jeike pya’e opaite ñanduti renda ñon
 sidebar-callout-survey-none-of-above = Mba’evete ymavegua
 sidebar-callout-survey-submit = Mondo
 sidebar-callout-survey-thank-you = ¡Aguyje ne remiandu rehe!
+sidebar-genai-survey-satisfaction-question = ¿Mba'éicha ehecharamo eguerekóvo peteĩ chatbot IA reheguáva tenda yképe?

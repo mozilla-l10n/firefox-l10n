@@ -19,6 +19,7 @@ edit-profile-page-explore-themes = Ehapykueho hetave téma
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Mboguete
+edit-profile-page-no-name = Embohéra ko mba’ete ejuhu hag̃ua upéi. Embohéra ambuekuaa uperire.
 edit-profile-page-duplicate-name = Pe mba’ete réra ojeporúma. Eheka téra pyahu.
 edit-profile-page-profile-saved = Ñongatupyre
 new-profile-page-title = Mba’ete pyahu
