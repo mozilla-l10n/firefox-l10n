@@ -11,9 +11,22 @@ contentanalysis-slow-agent-dialog-header = Analiza u tijeku
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of the file being analyzed, such as "aFile.txt"
 contentanalysis-slow-agent-dialog-body-file = { $agent } provjerava je li „{ $filename }” u skladu s politikom podataka tvoje organizacije. Ovo može malo potrajati.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } provjerava je li umetnuti sadržaj u skladu s politikom podataka tvoje organizacije. Ovo može malo potrajati.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } provjerava je li ispušteni tekst u skladu s politikom podataka tvoje organizacije. Ovo može malo potrajati.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } provjerava je li ispisani sadržaj u skladu s politikom podataka tvoje organizacije. Ovo može malo potrajati.
 contentanalysis-operationtype-clipboard = međuspremnik
 contentanalysis-operationtype-dropped-text = ispušteni tekst
 contentanalysis-operationtype-print = ispis
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = prijenos datoteke „{ $filename }”
+contentanalysis-warndialogtitle = Ovaj sadržaj možda nije siguran
 contentanalysis-warndialog-response-allow = Koristi sadržaj
 contentanalysis-warndialog-response-deny = Odustani
 contentanalysis-notification-title = Analiza sadržaja
