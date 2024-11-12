@@ -28,13 +28,13 @@ experimental-features-auto-pip-description = Aktiviraj „Slika-u-slici” za ak
 # Updated sidebar settings
 sidebar-title =
     .label = Bočna traka
+sidebar-description = Jednostavno pristupi svojoj povijesti, karticama s drugih uređaja, proširenjima u bočnoj traci i još mnogo toga dok pregledavaš. <a data-l10n-name="connect">Podijeli povratne informacije</a>
 vertical-tabs-title =
     .label = Okomite kartice
-experimental-features-group-browsing =
-    .label = Pregledavanje
 experimental-features-group-developer-tools =
     .label = Alati za programere
 experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
+experimental-features-group-customize-browsing-description = Ako isprobaš ove funkcije, <a data-l10n-name="connect">podijeli svoje mišljenje na Connectu</a>
