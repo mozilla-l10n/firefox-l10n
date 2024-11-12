@@ -103,12 +103,21 @@ about-webauthn-samples-still-needed =
         [few] Potrebna su još { $repeatCount } uzorka.
        *[other] Potrebno je još { $repeatCount } uzoraka.
     }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Uzorak je bio dobar.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Uzorak je bio previsok.
+about-webauthn-ctap2-enroll-feedback-too-low = Uzorak je bio prenizak.
+about-webauthn-ctap2-enroll-feedback-too-left = Uzorak je bio previše lijevo.
+about-webauthn-ctap2-enroll-feedback-too-right = Uzorak je bio previše desno.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Uzorak je bio prebrz.
+about-webauthn-ctap2-enroll-feedback-too-slow = Uzorak je bio prespor.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Uzorak je bio loše kvalitete.
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = Neuspjelo spajanje uzorka.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
