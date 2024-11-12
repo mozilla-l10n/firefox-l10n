@@ -319,3 +319,4 @@ fxa-menu-message-mobile-collapsed-text = Mit deinem Handy synchronisieren
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Willkommen zurück
