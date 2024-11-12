@@ -83,6 +83,7 @@ split-dismiss-button-manage-settings-option-label = Spravovat nastavení
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
+sidebar-button-callout-subtitle = Pomocí tlačítka postranního panelu rozbalte postranní panel, abyste viděli názvy panelů..
 
 ## Sidebar Callout Survey Strings
 
@@ -93,7 +94,7 @@ sidebar-callout-survey-title =
     }
 sidebar-callout-survey-satisfaction-question =
     { -brand-short-name.case-status ->
-        [with-cases] Jak jste spokojeni s postranním panelem ve { -brand-short-name(case: "dat") }?
+        [with-cases] Jak jste spokojeni s postranním panelem ve { -brand-short-name(case: "loc") }?
        *[no-cases] Jak jste spokojeni s postranním panelem v aplikaci { -brand-short-name }?
     }
 sidebar-callout-survey-privacy-notice-link = Zásady ochrany osobních údajů
@@ -107,6 +108,8 @@ sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
 sidebar-callout-survey-agree = Souhlasím
 sidebar-callout-survey-disagree = Nesouhlasím
 sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
+sidebar-callout-survey-saved-websites = Rychlý přístup ke všem uloženým webovým stránkám
 sidebar-callout-survey-none-of-above = Nic z výše uvedeného
 sidebar-callout-survey-submit = Odeslat
 sidebar-callout-survey-thank-you = Děkujeme za zpětnou vazbu!
+sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k chatbotu s umělou inteligencí v postranním panelu?

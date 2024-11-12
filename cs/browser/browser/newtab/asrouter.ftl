@@ -413,6 +413,13 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Přihlásit se
 fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
 fxa-menu-message-sync-devices-collapsed-text = Synchronizace všech zařízení
+fxa-menu-message-backup-data-primary-text = Zálohujte si údaje prohlížeče
+fxa-menu-message-backup-data-secondary-text = Automaticky chraňte záložky, hesla a další informace na všech svých zařízeních.
+fxa-menu-message-backup-data-collapsed-text = Zálohujte údaje prohlížeče
+fxa-menu-message-backup-sync-primary-text = Udržujte své údaje v bezpečí a synchronizované
+fxa-menu-message-backup-sync-collapsed-text = Synchronizujte a zálohujte data
+fxa-menu-message-mobile-primary-text = Odešlete panely do telefonu
+fxa-menu-message-mobile-collapsed-text = Synchronizujte s telefonem
 
 ## Multi-CTA Fox Doodle Spotlight
 
