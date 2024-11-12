@@ -8,6 +8,9 @@
 newtab-page-title = Neuer Tab
 newtab-settings-button =
     .title = Einstellungen für neue Tabs anpassen
+newtab-personalize-settings-icon-label =
+    .title = Neuen Tab anpassen
+    .aria-label = Einstellungen
 newtab-settings-dialog-label =
     .aria-label = Einstellungen
 newtab-personalize-icon-label =
@@ -316,6 +319,7 @@ newtab-wallpaper-dark-panda = Roter Panda im Wald versteckt
 newtab-wallpaper-dark-sky = Stadtlandschaft mit Nachthimmel
 newtab-wallpaper-dark-mountain = Berg in der Landschaft
 newtab-wallpaper-dark-city = Violette Stadtlandschaft
+newtab-wallpaper-dark-fox-anniversary = Ein Fuchs auf einer Straße in der Nähe eines Waldes
 
 ## Solid Colors
 
