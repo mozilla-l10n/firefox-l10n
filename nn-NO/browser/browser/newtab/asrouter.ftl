@@ -246,6 +246,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Planlegg du å kjø
 device-migration-fxa-spotlight-getting-new-device-body-2 = Følg nokre få enkle steg for å ta med deg bokmerka, historikken og passorda dine når du startar med ei ny eining.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
 device-migration-fxa-spotlight-sync-header = Surf utan å gå glipp av noko viktig
+device-migration-fxa-spotlight-sync-body = Synkroniser all viktig informasjon med kryptering — som bokmerke og passord. Du kan hente alt kvar som helst du brukar { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Kom i gang
 
 ## Set as Default PDF Reader Infobar
@@ -286,6 +287,8 @@ tail-fox-spotlight-secondary-button = Ikkje no
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Eldre versjonar av { -brand-short-name } kan byrje å få problem 14. januar 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Oppdater for å halde fram med å bruke { -brand-short-name } etter 14. mars 2025.</strong>
 root-certificate-succession-infobar-link = Kvifor må eg oppdatere?
 root-certificate-succession-infobar-primary-button =
     .label = Oppdater no
@@ -301,6 +304,7 @@ fxa-menu-message-close-button =
     .aria-label = Lat att
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
+fxa-menu-message-sync-devices-secondary-text = Få informasjonen din omgåande — som bokmerke og passord — overalt der du brukar { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
 fxa-menu-message-backup-data-primary-text = Sikkerheitskopier nettlesardataa dine
 fxa-menu-message-backup-data-secondary-text = Vern bokmerke, passord og annan informasjon automatisk på alle einingane dine.
