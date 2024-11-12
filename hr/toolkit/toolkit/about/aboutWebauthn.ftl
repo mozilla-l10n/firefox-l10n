@@ -118,6 +118,9 @@ about-webauthn-ctap2-enroll-feedback-too-right = Uzorak je bio previše desno.
 about-webauthn-ctap2-enroll-feedback-too-fast = Uzorak je bio prebrz.
 about-webauthn-ctap2-enroll-feedback-too-slow = Uzorak je bio prespor.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Uzorak je bio loše kvalitete.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Uzorak je bio previše ukoso.
+about-webauthn-ctap2-enroll-feedback-too-short = Uzorak je bio prekratak.
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = Neuspjelo spajanje uzorka.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
