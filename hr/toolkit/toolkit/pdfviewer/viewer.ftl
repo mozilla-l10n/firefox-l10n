@@ -427,6 +427,12 @@ pdfjs-editor-new-alt-text-disclaimer1 = Ovaj je alternativni tekst stvoren autom
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saznaj više
 pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski stvori alternativni tekst
 pdfjs-editor-new-alt-text-error-title = Nije bilo moguće automatski izraditi alternativni tekst
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Preuzimanje alternativnog teksta UI modela ({ $downloadedSize } od { $totalSize } MB)
+    .aria-valuetext = Preuzimanje alternativnog teksta UI modela ({ $downloadedSize } od { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternativni tekst je dodan
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
@@ -447,6 +453,9 @@ pdfjs-editor-alt-text-settings-dialog-label = Postavke alternativnog teksta slik
 pdfjs-editor-alt-text-settings-automatic-title = Automatski alternativni tekst
 pdfjs-editor-alt-text-settings-create-model-button-label = Stvori alternativni tekst automatski
 pdfjs-editor-alt-text-settings-create-model-description = Predlaže opise koji pomažu osobama koji ne mogu vidjeti sliku ili kada se slika ne učita.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Alternativni tekst UI modela ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-ai-model-description = Radi lokalno na tvom uređaju kako bi tvoji podaci ostali privatni. Potrebno za automatski alternativni tekst.
 pdfjs-editor-alt-text-settings-delete-model-button = Izbriši
 pdfjs-editor-alt-text-settings-download-model-button = Preuzmi

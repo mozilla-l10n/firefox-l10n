@@ -96,6 +96,7 @@ contentEncodingError-title = Greška kodiranja sadržaja
 unsafeContentType-title = Nesiguran tip datoteke
 netReset-title = Veza je prekinuta
 netTimeout-title = Vezi je isteklo vrijeme
+serverError-title = Čini se da postoji problem s ovom web stranicom
 unknownProtocolFound-title = Nepoznata vrsta adrese
 proxyConnectFailure-title = Proxy server odbija veze
 proxyResolveFailure-title = Proxy server nije pronađen
@@ -115,6 +116,9 @@ certerror-mitm-title = Program spriječava { -brand-short-name } da se sigurno p
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Upozorenje: sigurnosni rizik
+fp-certerror-body-title = Oprez. Nešto nije u redu.
+fp-certerror-why-site-dangerous = Zašto web stranica izgleda opasno?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
