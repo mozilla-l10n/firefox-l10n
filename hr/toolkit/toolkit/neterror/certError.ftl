@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web-stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
+fp-certerror-return-to-previous-page-recommended-button = Idi natrag (preporučeno)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Kȏd greške: { $error }
 
 ## Messages used for certificate error titles
 
@@ -108,3 +112,10 @@ networkProtocolError-title = Greška mrežnog protokola
 nssBadCert-title = Upozorenje: potencijalni sigurnosni rizik
 nssBadCert-sts-title = Neuspjelo povezivanje: potencijalni sigurnosni problem
 certerror-mitm-title = Program spriječava { -brand-short-name } da se sigurno poveže s ovom stranicom
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
