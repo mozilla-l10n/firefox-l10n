@@ -9,6 +9,17 @@ profile-window-body = Mantieni separate le attività lavorative da quelle person
 profile-window-checkbox-label =
     .label = Mostra all’apertura di { -brand-short-name }
 profile-window-create-profile = Crea un profilo
+profile-card-edit-button =
+    .title = Modifica profilo
+    .aria-label = Modifica profilo
+profile-card-delete-button =
+    .title = Elimina profilo
+    .aria-label = Elimina profilo
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Apri { $profileName }
+    .aria-label = Apri { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo { $number }
