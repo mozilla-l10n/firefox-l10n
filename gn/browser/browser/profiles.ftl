@@ -38,6 +38,7 @@ delete-profile-page-title = Embogue mba’ete { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Embogue mba’ete { $profilename }
+delete-profile-description = { -brand-short-name } omboguetéta ko’ã mba’ekuaarã ko mba’e’okágui:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Ovetã ijurujáva
 # Open is an adjective, as in "browser tabs currently open".
