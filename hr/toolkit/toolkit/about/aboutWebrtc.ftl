@@ -186,6 +186,42 @@ about-webrtc-aec-logging-off-state-msg = snimljene log datoteke je moguće prona
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stranica spremljena u: { $path }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { NUMBER($channels) ->
+        [one] { $channels } kanal
+        [few] { $channels } kanala
+       *[other] { $channels } kanala
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { NUMBER($packets) ->
+        [one] Primljen je { $packets } paket
+        [few] Primljena su { $packets } paketa
+       *[other] Primljeno je { $packets } paketa
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { NUMBER($packets) ->
+        [one] Izgubljen je { $packets } paket
+        [few] Izgubljena su { $packets } paketa
+       *[other] Izgubljeno je { $packets } paketa
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { NUMBER($packets) ->
+        [one] Poslan je { $packets } paket
+        [few] Poslana su { $packets } paketa
+       *[other] Poslano je { $packets } paketa
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
