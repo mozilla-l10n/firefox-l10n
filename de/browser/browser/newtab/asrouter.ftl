@@ -320,3 +320,19 @@ fxa-menu-message-mobile-collapsed-text = Mit deinem Handy synchronisieren
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Willkommen zurück
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } als Standardbrowser festlegen
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name } an Startmenü anheften
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } im Dock behalten
+       *[other] { -brand-short-name } an Taskleiste anheften
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Lossurfen
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } als meinen Hauptbrowser festlegen
+multi-cta-fox-doodle-quick-reminder-subtitle = Hier eine schnelle Erinnerung: deinen Lieblings-Browser mit Fokus auf Privatsphäre kannst du auch mit nur einem Klick aufrufen.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und behalte ihn im Dock.
+       *[other] Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste und dein Startmenü.
