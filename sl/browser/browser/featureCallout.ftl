@@ -89,3 +89,4 @@ sidebar-callout-survey-keep-website-open = možnost ves čas odprte spletne stra
 sidebar-callout-survey-saved-websites = hiter dostop do vseh shranjenih spletnih strani
 sidebar-callout-survey-none-of-above = nič od naštetega
 sidebar-callout-survey-submit = Pošlji
+sidebar-callout-survey-thank-you = Hvala za vaše povratne informacije!
