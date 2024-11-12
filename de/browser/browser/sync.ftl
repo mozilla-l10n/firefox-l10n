@@ -36,4 +36,10 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Synchronisieren
 fxa-menu-sync-description = Greifen Sie von überall aus auf Ihr Web zu
 sync-setup-verify-continue = Weiter
-sync-setup-verify-title = "Warnung: Daten Zusammenführen?
+sync-setup-verify-title = Warnung: Daten Zusammenführen
+sync-setup-verify-heading = Wirklich zur Synchronisation anmelden?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Ein anderer Benutzer war zuvor auf diesem Computer für die Synchronisation angemeldet. Bei der Anmeldung werden die Lesezeichen, Passwörter und anderen Einstellungen dieses Browsers mit den Daten von { $email } zusammengeführt.
