@@ -69,9 +69,16 @@ open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web-stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
 fp-certerror-return-to-previous-page-recommended-button = Idi natrag (preporučeno)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Sat tvog uređaja je postavljen na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ako je to točno, vjerojatno je web stranica uzrok za sigurnosni problem. Ako je krivo, možeš ga promijeniti u postavkama sustava tvog uređaja.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kȏd greške: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
