@@ -36,3 +36,4 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Synchronisieren
 fxa-menu-sync-description = Greifen Sie von überall aus auf Ihr Web zu
 sync-setup-verify-continue = Weiter
+sync-setup-verify-title = "Warnung: Daten Zusammenführen?
