@@ -59,3 +59,37 @@ split-dismiss-button-dont-show-option-label = Vis ikke denne anbefaling igen
 split-dismiss-button-show-fewer-option-label = Vis færre anbefalinger
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Håndter indstillinger
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Vis titler på faneblade i sidepanelet
+sidebar-button-callout-subtitle = Brug sidepanels-knappen til at udvide sidepanelet, så du kan se titler på faneblade.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Hjælp os med at forbedre { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Hvor tilfreds er du med, hvordan sidepanelet fungerer i { -brand-short-name }?
+sidebar-callout-survey-very-satisfied = Meget tilfreds
+sidebar-callout-survey-satisfied = Tilfreds
+sidebar-callout-survey-neutral = Hverken/eller
+sidebar-callout-survey-dissatisfied = Utilfreds
+sidebar-callout-survey-very-dissatisfied = Meget utilfreds
+sidebar-callout-survey-dont-use-it = Jeg bruger det ikke
+sidebar-callout-survey-productive-question =
+    Hvor enig er du i udsagnet: <br/>
+    "Sidepanelet i { -brand-short-name } gør det nemmere for mig at være produktiv"?
+sidebar-callout-survey-strongly-agree = Meget enig
+sidebar-callout-survey-agree = Enig
+sidebar-callout-survey-disagree = Uenig
+sidebar-callout-survey-strongly-disagree = Meget uenig
+sidebar-callout-survey-features-question = Hér er en liste med mulige nye funktioner i sidepanelet. Hvilken ville forbedre din produktivitet i { -brand-short-name } mest?
+sidebar-callout-survey-split-view = Se to forskellige websteder ved siden af hinanden på samme tid
+sidebar-callout-survey-keep-website-open = Hav et websted - fx din indbakke eller kalender - åbent i sidepanelet, mens du bruger nettet
+sidebar-callout-survey-saved-websites = Hurtig adgang til alle dine gemte websteder
+sidebar-callout-survey-none-of-above = Intet af de ovenstående
+sidebar-callout-survey-submit = Indsend
+sidebar-callout-survey-thank-you = Tak for din feedback!
+sidebar-genai-survey-satisfaction-question = Hvor tilfreds er du med at have adgang til AI-chatbots i sidepanelet?
+sidebar-genai-survey-productive-question =
+    Hvor enig er du i udsagnet: <br/>
+    "AI-chatbotten i sidepanelet gør det nemmere for mig at være produktiv"?
