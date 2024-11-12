@@ -131,7 +131,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] Otvorit ćeš { $tabCount } kartice(a). Ovo bi moglo usporiti { -brand-short-name } dok se stranice učitavaju. Stvarno želiš nastaviti?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otvori kartice
-tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me kod otvaranja više kartica koje bi moglo usporiti { -brand-short-name }
+tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me pri otvaranju više kartica koje bi moglo usporiti { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 

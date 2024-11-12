@@ -154,8 +154,8 @@ open-new-link-as-tabs =
     .label = Otvori poveznice u karticama umjesto u novim prozorima
     .accesskey = p
 confirm-on-close-multiple-tabs =
-    .label = Potvrdi prije zatvaranja više kartica (m)
-    .accesskey = m
+    .label = Potvrdi prije zatvaranja više kartica
+    .accesskey = P
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
@@ -163,12 +163,12 @@ confirm-on-close-multiple-tabs =
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
     .label = Potvrdi prije zatvaranja s { $quitKey }
-    .accesskey = P
+    .accesskey = t
 warn-on-open-many-tabs =
     .label = Upozorava te prilikom otvaranja višestrukih kartica, što može usporiti { -brand-short-name }
     .accesskey = u
 switch-to-new-tabs =
-    .label = Kod otvaranja poveznice, slike ili medija u novoj kartici, odmah prijeđi na nju
+    .label = Pri otvaranju poveznice, slike ili medija u novoj kartici, odmah prijeđi na nju
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Prikaži preglede kartica u Windows traci zadataka
