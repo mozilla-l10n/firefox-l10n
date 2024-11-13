@@ -108,6 +108,10 @@ about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
 login-intro-instructions-fxa = Crea o trasi nne { -fxaccount-brand-name(capitalization: "sentence") } nnô dispusitivu unni sarbasti i cridinziali.
 about-logins-login-intro-heading-message = Sarba i to chiavi nnôn locu sicuru
+login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t'abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
+login-intro-instructions-fxa2 = Crea o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
+login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
+login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> pi aviri ajutu.
 
 ## Login
 
