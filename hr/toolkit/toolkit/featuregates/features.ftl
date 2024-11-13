@@ -31,6 +31,7 @@ sidebar-title =
 sidebar-description = Jednostavno pristupi svojoj povijesti, karticama s drugih uređaja, proširenjima u bočnoj traci i još mnogo toga dok pregledavaš. <a data-l10n-name="connect">Podijeli povratne informacije</a>
 vertical-tabs-title =
     .label = Okomite kartice
+vertical-tabs-description = Premjesti kartice s gornjeg ruba preglednika na stranu. Zahtijeva da isprobaš i bočnu traku. <a data-l10n-name="connect">Podijeli povratne informacije</a>
 experimental-features-group-developer-tools =
     .label = Alati za programere
 experimental-features-group-webpage-display =
