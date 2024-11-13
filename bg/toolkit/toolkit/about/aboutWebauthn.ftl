@@ -14,6 +14,7 @@
 
 ## Results label
 
+about-webauthn-results-success = Успех!
 
 ## Labels
 
