@@ -73,6 +73,8 @@ sidebar-callout-survey-privacy-notice-link = Σημείωση απορρήτου
 sidebar-callout-survey-very-satisfied = Πολύ ικανοποιημένος/-η
 sidebar-callout-survey-satisfied = Ικανοποιημένος/-η
 sidebar-callout-survey-neutral = Ουδέτερος/-η
+sidebar-callout-survey-dissatisfied = Μη ικανοποιημένος/-η
+sidebar-callout-survey-very-dissatisfied = Καθόλου ικανοποιημένος/-η
 sidebar-callout-survey-dont-use-it = Δεν το χρησιμοποιώ
 sidebar-callout-survey-productive-question =
     Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
