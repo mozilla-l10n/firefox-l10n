@@ -12,36 +12,29 @@ cfr-doorhanger-feature-heading = Funziunalità suggiruta
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Picchì viju chistu
-
 cfr-doorhanger-extension-cancel-button = Ora no
     .accesskey = O
-
 cfr-doorhanger-extension-ok-button = Agghiunci ora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gistisci mpustazziuna dî suggirimenti
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = Nun mi mustrari stu suggirimentu
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Cchiù nfurmazziuna
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suggirimentu
-
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggirimentu
     .tooltiptext = Suggirimentu di stinziuni
     .a11y-announcement = È dispunìbbili un suggirimentu pi na stinziuni
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suggirimentu
     .tooltiptext = Suggirimentu di funziunalità
     .a11y-announcement = È dispunìbbili un suggirimentu di funziunalità
@@ -66,9 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utenti
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincrunizza i to nzingalibbri unn'è-è
@@ -89,57 +79,21 @@ cfr-protections-panel-link-text = Cchiù nfurmazziuna
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funziunalità:
-
 cfr-whatsnew-button =
     .label = Nuvità
     .tooltiptext = Nuvità
-
 cfr-whatsnew-release-notes-link-text = Leggi i nutizzi di sta virsiuni
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Vidi tuttu
     .accesskey = t
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -147,9 +101,9 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -164,19 +118,52 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-sync-header = Nàviga senza chi ti perdi nenti
+device-migration-fxa-spotlight-sync-body = Sincrunizza 'n manera cifrata tutti i to nfurmazzioni mpurtanti — a tipu i nzingalibbri e i chiavi. Doppu i poi pigghiari unn'è-è ca usi { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Accumincia
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 
