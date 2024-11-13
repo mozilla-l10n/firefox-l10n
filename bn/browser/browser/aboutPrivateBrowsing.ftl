@@ -59,9 +59,15 @@ about-private-browsing-pin-promo-link-text =
         [macos] ডক-এ পিন করুন
        *[other] টাস্কবারে পিন করুন
     }
+about-private-browsing-pin-promo-title = আপনার ডেস্কটপ থেকে কোনো কুকি বা ইতিহাস সংরক্ষিত হয়নি। ব্রাউজ করুন এমনভাবে যেন কেউ দেখছে না।
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = কুকি ব্যানার শুরু!
+about-private-browsing-cookie-banners-promo-button = কুকি ব্যানার কমিয়ে দিন
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name } কে স্বয়ংক্রিয় উপায়ে আপনার জন্য কুকি পপ-আপের উত্তর দিতে দিন, যাতে আপনি বিভ্রান্ত না হয়ে ব্রাউজিং করে যেতে পারেন৷ { -brand-short-name } সম্ভব হলে সমস্ত অনুরোধ প্রত্যাখ্যান করবে৷
 
 ## Strings for Felt Privacy v1 experiments in 119
 

@@ -409,6 +409,16 @@ about-logins-import-dialog-items-added2 =
         [one] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
        *[other] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+        [one] <span>বিদ্যমান এনট্রি আপডেট করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>বিদ্যমান এনট্রিসমূহ আপডেট করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+        [one] <span>ডুপ্লিকেট এনট্রি পাওয়া গেছে:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span> >
+       *[other] <span>ডুপ্লিকেট এনট্রিসমূহ পাওয়া গেছে:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span> >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
@@ -430,6 +440,7 @@ about-logins-import-dialog-error-try-import-again = আবার আমদান
 about-logins-import-dialog-error-cancel = বাতিল করুন
 about-logins-import-report-title = আমদানির সারাংশ
 about-logins-import-report-description = লগইন এবং পাসওয়ার্ড { -brand-short-name } এ আমদানি করা হয়েছে।
+about-logins-import-report-description2 = পাসওয়ার্ড সমূহ { -brand-short-name }-এ আমদানি করা হয়েছে৷
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -437,6 +448,9 @@ about-logins-import-report-row-index = সারি { $number }
 about-logins-import-report-row-description-no-change = সদৃশ: বিদ্যমান লগইনের সঠিক মিল
 about-logins-import-report-row-description-modified = বিদ্যমান লগইন আপডেট করা হয়েছে
 about-logins-import-report-row-description-added = নতুন লগইন যোগ করা হয়েছে
+about-logins-import-report-row-description-no-change2 = হুবহু: বিদ্যমান এনট্রির সাথে হুবহু মিল
+about-logins-import-report-row-description-modified2 = বিদ্যমান এনট্রি আপডেট করা হয়েছে
+about-logins-import-report-row-description-added2 = নতুন পাসওয়ার্ড যোগ করা হয়েছে
 about-logins-import-report-row-description-error = ত্রুটি: ফিল্ড অনুপস্থিত
 
 ##
@@ -464,6 +478,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
        *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">নতুন পাসওয়ার্ড যোগ করা হয়েছে</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">নতুন পাসওয়ার্ড সমূহ যোগ করা হয়েছে</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">বিদ্যমান এনট্রি আপডেট করা হয়েছে</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">বিদ্যমান এনট্রিসমূহ আপডেট করা হয়েছে</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রি</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রিসমূহ</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
     }
 about-logins-import-report-error =
     { $count ->
