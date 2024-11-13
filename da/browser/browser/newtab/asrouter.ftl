@@ -303,6 +303,16 @@ fxa-menu-message-close-button =
     .title = Luk
     .aria-label = Luk
 fxa-menu-message-sign-up-button = Tilmeld dig
+fxa-menu-message-sync-devices-primary-text = Synkroniser alle dine enheder
+fxa-menu-message-sync-devices-secondary-text = Få hurtigt adgang til dine oplysninger - fx bogmærker og adgangskoder - overalt, hvor du bruger { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle dine enheder
+fxa-menu-message-backup-data-primary-text = Sikkerhedskopier dine browserdata
+fxa-menu-message-backup-data-secondary-text = Beskyt automatisk bogmærker, adgangskoder og andre oplysninger på alle dine enheder.
+fxa-menu-message-backup-data-collapsed-text = Sikkerhedskopier browserdata
+fxa-menu-message-backup-sync-primary-text = Hold dine data sikre og synkroniserede
+fxa-menu-message-backup-sync-secondary-text = Synkronisering sikkerhedskopierer de fleste af dine data, så du har adgang til dem overalt, hvor du bruger { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Synkroniser og sikkerhedskopier data
+fxa-menu-message-mobile-primary-text = Send faneblade til din telefon
 
 ## Multi-CTA Fox Doodle Spotlight
 

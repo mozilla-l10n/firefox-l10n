@@ -8,6 +8,11 @@
 newtab-page-title = Nyt faneblad
 newtab-settings-button =
     .title = Tilpas siden Nyt faneblad
+newtab-personalize-settings-icon-label =
+    .title = Tilpas nyt faneblad
+    .aria-label = Indstillinger
+newtab-settings-dialog-label =
+    .aria-label = Indstillinger
 newtab-personalize-icon-label =
     .title = Tilpas nyt faneblad
     .aria-label = Tilpas nyt faneblad
@@ -111,6 +116,7 @@ newtab-menu-save-to-pocket = Gem til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slet fra { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Vores sponsorer og dit privatliv
+newtab-menu-about-fakespot = Om { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -314,6 +320,8 @@ newtab-wallpaper-dark-panda = Rød panda skjult i en skov
 newtab-wallpaper-dark-sky = Udsigt over by med nattehimmel
 newtab-wallpaper-dark-mountain = Bjerglandskab
 newtab-wallpaper-dark-city = Lilla bylandskab
+newtab-wallpaper-dark-fox-anniversary = En ræv på fortovet i nærheden af en skov
+newtab-wallpaper-light-fox-anniversary = En ræv på en græsmark i et tåget bjerglandskab
 
 ## Solid Colors
 
