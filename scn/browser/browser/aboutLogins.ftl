@@ -6,13 +6,13 @@
 about-logins-page-title = Cridinziali e chiavi
 about-logins-login-filter =
     .placeholder = Cerca nnê cridinziali
-    .key = C
+    .key = F
 create-new-login-button =
     .title = Crea novi cridinziali
 about-logins-page-title-name = Chiavi
 about-logins-login-filter2 =
     .placeholder = Cerca nnê Chiavi
-    .key = H
+    .key = F
 create-login-button =
     .title = Agghiunci chiavi
 fxaccounts-sign-in-text = Vidi i to chiavi nna tutti i to dispusitivi
@@ -106,7 +106,7 @@ about-logins-list-section-week = Ùrtimi 7 jorna
 about-logins-login-intro-heading-logged-out2 = Stai circannu i to cridinziali sarbati? Abbìa a sincrunizzazzioni o mpòrtali.
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
-login-intro-instructions-fxa = Crea o trasi nne { -fxaccount-brand-name(capitalization: "sentence") } nnô dispusitivu unni sarbasti i cridinziali.
+login-intro-instructions-fxa = Crea o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sarbasti i cridinziali.
 about-logins-login-intro-heading-message = Sarba i to chiavi nnôn locu sicuru
 login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t'abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
 login-intro-instructions-fxa2 = Crea o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
