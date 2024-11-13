@@ -156,14 +156,49 @@ login-item-cancel-button = Sfai
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Criatu
+login-item-timeline-action-updated = Attualizzatu
+login-item-timeline-action-used = Usatu
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Pi canciari a to cridinziali, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = cancia a cridinziali sarbata
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] cancia i mpustazzioni pî chiavi
+       *[other] { -brand-short-name } sta pruvannu a canciari i mpustazzioni pî chiavi. Trasi cû to dispusitivu pi dari u pirmisu.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Pi canciari a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = cancia a chiavi sarbata
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Pi vìdiri a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = ammustra a chiavi sarbata
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pi cupiari a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copia a chiavi sarbata
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Pi espurtari i to cridinziali, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = esporta cridinziali e chiavi sarbati
 
 ## Primary Password notification
 
@@ -212,11 +247,63 @@ about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chia
 
 ## Login Import Dialog
 
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Ducumentu TSV
+       *[other] Pricu TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Mpurtazzioni finuta
+about-logins-import-dialog-items-added =
+    { NUMBER($count) ->
+        [one] <span>Novi cridinziali:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Novi cridinziali:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { NUMBER($count) ->
+        [one] <span>Cridinziali esistenti attualizzati:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Cridinziali esistenti attualizzati:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { NUMBER($count) ->
+       *[other] <span>Cridinziali duppi truvati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+       *[other] <span>Novi chiavi:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+       *[other] <span>Elimenti esistenti attualizzati:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+       *[other] <span>Elimenti duppi truvati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
+    }
+about-logins-import-dialog-items-error =
+    { NUMBER($count) ->
+       *[other] <span>Erruri:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
+    }
+about-logins-import-dialog-done = Fattu
+about-logins-import-dialog-error-title = Erruri di mpurtazzioni
+about-logins-import-dialog-error-conflicting-values-title = Cci sunnu valuri diversi pâ stissa cridinziali
+about-logins-import-dialog-error-conflicting-values-description = Pi scempru: cchiù assai d'un nomu utenti, chiavi, nnirizzi, ecc. pi na cridinziali.
+about-logins-import-dialog-error-file-format-title = Prubblema cû furmatu dû pricu
+about-logins-import-dialog-error-file-format-description = Màncanu o sunnu sbagghiati i tistati dî culonni. Stai accura chi u pricu cunteni i culonni pî nomi utenti, i chiavi e i nnirizzi.
+about-logins-import-dialog-error-file-permission-title = Mpussìbbili lèggiri u pricu
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun àvi u pirmisu pi lèggiri u pricu. Prova a canciari i pirmisi dû pricu.
+about-logins-import-dialog-error-unable-to-read-title = Mpussìbbili analizzari u pricu
+about-logins-import-dialog-error-unable-to-read-description = Cuntrolla chi scartasti un pricu CSV o TSV.
+about-logins-import-dialog-error-no-logins-imported = Nun fu mpurtata nuḍḍa cridinziali
+about-logins-import-dialog-error-learn-more = Cchiù nfurmazzioni
+about-logins-import-dialog-error-try-import-again = Prova a mpurtari arrè…
+about-logins-import-dialog-error-cancel = Sfai
 
 ##
 ## Variables:
