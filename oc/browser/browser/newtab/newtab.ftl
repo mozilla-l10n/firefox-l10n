@@ -223,7 +223,6 @@ newtab-pocket-learn-more = Ne saber mai
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket-brand-name } e garissètz vòstre esperit amb de lecturas fascinantas.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fa part de la familha { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enregistrar
 newtab-pocket-saved = Enregistrada
 
@@ -323,6 +322,12 @@ newtab-wallpaper-white-mountains = Montanhas blancas
 newtab-weather-see-forecast =
     .title = Mostrar la prevision metèo de { $provider }
 newtab-weather-menu-change-location = Modificar lo luòc
+newtab-weather-menu-weather-display = Afichatge metèo
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-weather-display-option-detailed = Detalhat
 newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
