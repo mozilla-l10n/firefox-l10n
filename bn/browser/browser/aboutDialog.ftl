@@ -28,13 +28,13 @@ update-adminDisabled = সিস্টেম প্রশাসক কর্ত�
 update-policy-disabled = আপনার প্রতিষ্ঠান আপডেট ডিজেবল করে রেখেছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদকৃত
 aboutdialog-update-checking-failed = হালনাগাদের জন্য পরীক্ষা করা সম্ভব হয়নি।
-update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
+update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হচ্ছে
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
-aboutdialog-update-manual-with-link = হালনাগাদ যেখানে পাওয়া যাবে <label data-l10n-name="manual-link">{ $displayUrl }</label>
-settings-update-manual-with-link = হালনাগাদ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link">{ $displayUrl }</a>
+aboutdialog-update-manual-with-link = নতুন সংস্করণ যেখানে পাওয়া যাবে <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = নতুন সংস্করণ যেখানে পাওয়া যাবে <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। <label data-l10n-name="unsupported-link">আরও জানুন</label>
 update-restarting = পুনরায় আরম্ভ হচ্ছে…
 update-internal-error2 = অভ্যন্তরীণ ত্রুটির কারণে নতুন সংস্করণ পরীক্ষা করা যাচ্ছে না৷ নতুন সংস্করণ পাওয়া যাবে যেই ঠিকানায়<label data-l10n-name="manual-link">{ $displayUrl }</label>
@@ -47,8 +47,8 @@ aboutdialog-channel-description = আপনি বর্তমানে রয়�
 warningDesc-version = { -brand-short-name } পরীক্ষামূলক সংস্করণ এবং অস্থিতিশীল হতে পারে ।
 aboutdialog-help-user = { -brand-product-name } সাহায্য
 aboutdialog-submit-feedback = প্রতিক্রিয়া জানান
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> হচ্ছে <label data-l10n-name="community-exp-creditsLink">আন্তর্জাতিক সম্প্রদায়</label> যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।
-community-2 = { -brand-short-name } নকশা করেছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, একটি <label data-l10n-name="community-creditsLink">আন্তর্জাতিক সম্প্রদায়</label> যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> একটি <label data-l10n-name="community-exp-creditsLink">আন্তর্জাতিক কমিউনিটি</label> যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে একসাথে কাজ করে যাচ্ছে।
+community-2 = { -brand-short-name } নকশা করেছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, একটি <label data-l10n-name="community-creditsLink">আন্তর্জাতিক কমিউনিটি</label> যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে একসাথে কাজ করে যাচ্ছে।
 helpus = সাহায্য করতে চান? <label data-l10n-name="helpus-donateLink">অনুদান দিন</label> অথবা <label data-l10n-name="helpus-getInvolvedLink">যোগদান করুন!</label>
 bottomLinks-license = লাইসেন্সের তথ্য
 bottomLinks-rights = প্রান্তিক ব্যবহারকারীর অধিকার

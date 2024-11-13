@@ -75,3 +75,6 @@ about-private-browsing-cookie-banners-promo-body = আমরা এখন স্
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = এই ডিভাইসে কোন ট্রেস রাখবেন না
+about-private-browsing-felt-privacy-v1-info-body = আপনি যখন আপনার সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করেন তখন { -brand-short-name } আপনার কুকি, ইতিহাস এবং সাইট ডেটা মুছে দেয়৷
+about-private-browsing-felt-privacy-v1-info-link = কে আমার কার্যকলাপ দেখতে সক্ষম হতে পারে?
