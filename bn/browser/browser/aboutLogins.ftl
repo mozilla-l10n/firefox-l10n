@@ -419,9 +419,12 @@ about-logins-import-dialog-error-title = আমদানি ত্রুটি
 about-logins-import-dialog-error-conflicting-values-title = এক লগইনের জন্য একাধিক পরস্পরবিরোধী মান
 about-logins-import-dialog-error-conflicting-values-description = উদাহরণস্বরূপ: এক লগইনের জন্য একাধিক ব্যবহারকারীর নাম, পাসওয়ার্ড, ইউআরএল ইত্যাদি।
 about-logins-import-dialog-error-file-format-title = ফাইল ফরম্যাট সমস্যা
+about-logins-import-dialog-error-file-format-description = কলামের নাম ভুল বা অনুপস্থিত। নিশ্চিত করুন যে ফাইলটিতে ব্যবহারকারীর নাম, পাসওয়ার্ড এবং URL এর জন্য কলাম রয়েছে।
 about-logins-import-dialog-error-file-permission-title = ফাইল পড়তে অক্ষম
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ফাইলটি পড়ার অনুমতি নেই৷ ফাইলের অনুমতি পরিবর্তন করার চেষ্টা করুন।
 about-logins-import-dialog-error-unable-to-read-title = ফাইল পার্স করা যাচ্ছে না
 about-logins-import-dialog-error-unable-to-read-description = নিশ্চিত করুন যে আপনি একটি CSV অথবা TSV ফাইল নির্বাচন করেছেন৷
+about-logins-import-dialog-error-no-logins-imported = কোন লগইন আমদানি করা হয়নি
 about-logins-import-dialog-error-learn-more = অধিক জানুন
 about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
 about-logins-import-dialog-error-cancel = বাতিল করুন
@@ -432,12 +435,15 @@ about-logins-import-report-description = লগইন এবং পাসওয�
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = সারি { $number }
 about-logins-import-report-row-description-no-change = সদৃশ: বিদ্যমান লগইনের সঠিক মিল
+about-logins-import-report-row-description-modified = বিদ্যমান লগইন আপডেট করা হয়েছে
 about-logins-import-report-row-description-added = নতুন লগইন যোগ করা হয়েছে
+about-logins-import-report-row-description-error = ত্রুটি: ফিল্ড অনুপস্থিত
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = ত্রুটি: { $field } এর জন্য একাধিক মান
 about-logins-import-report-row-description-error-missing-field = ত্রুটি: { $field } অনুপস্থিত
 
 ##
