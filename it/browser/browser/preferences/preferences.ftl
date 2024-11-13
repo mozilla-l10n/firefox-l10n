@@ -441,7 +441,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -642,14 +642,14 @@ search-show-suggestions-url-bar-option =
     .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
     .accesskey = i
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
     .label = Mostra i termini di ricerca invece dell’indirizzo nella pagina dei risultati del motore di ricerca predefinito
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
-search-show-search-term-option-2 =
-    .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -1365,19 +1365,18 @@ space-alert-under-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-sh
 
 httpsonly-header = Modalità solo HTTPS
 httpsonly-description = HTTPS garantisce una connessione sicura e crittata tra { -brand-short-name } e i siti web visitati. La maggior parte dei siti web supporta HTTPS e, quando la modalità solo HTTPS è attiva, { -brand-short-name } si connetterà automaticamente con HTTPS.
+httpsonly-description2 = { -brand-short-name } crea connessioni sicure e crittate ai siti che visiti. Quando la modalità solo HTTPS è attiva, { -brand-short-name } ti avviserà se una connessione non è sicura.
 httpsonly-learn-more = Ulteriori informazioni
 httpsonly-radio-enabled =
     .label = Attiva in tutte le finestre
-httpsonly-radio-enabled-pbm =
-    .label = Attiva solo in finestre anonime
-httpsonly-radio-disabled =
-    .label = Non attivare
-
-httpsonly-description2 = { -brand-short-name } crea connessioni sicure e crittate ai siti che visiti. Quando la modalità solo HTTPS è attiva, { -brand-short-name } ti avviserà se una connessione non è sicura.
 httpsonly-radio-enabled2 =
     .label = Utilizza solo HTTPS in tutte le finestre
+httpsonly-radio-enabled-pbm =
+    .label = Attiva solo in finestre anonime
 httpsonly-radio-enabled-pbm2 =
     .label = Utilizza solo HTTPS in finestre anonime
+httpsonly-radio-disabled =
+    .label = Non attivare
 httpsonly-radio-disabled2 =
     .label = Prova prima HTTPS, ma consenti connessioni non sicure
 
