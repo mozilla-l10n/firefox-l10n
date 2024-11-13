@@ -550,8 +550,6 @@ urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =
     .tooltiptext = Accions de la pagina
-urlbar-show-page-actions-button =
-    .tooltiptext = Afichar totas las accions de la pagina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -607,6 +605,22 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Recercar amb { $engine }
+urlbar-searchmode-tabs =
+    .label = Onglets
+urlbar-searchmode-history =
+    .label = Istoric
+urlbar-searchmode-actions =
+    .label = Accions
+urlbar-searchmode-exit-button =
+    .tooltiptext = Tampar
+urlbar-searchmode-popup-description = Aqueste còp, recercar amb :
+urlbar-searchmode-popup-search-settings = Paramètres de recèrca
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, seleccionar un motor de recèrca
+    .tooltiptext = { $engine }, seleccionar un motor de recèrca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -637,6 +651,15 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Recèrcas recentas
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Tendéncias sus { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Mostrar pas las recèrcas popularas
+    .accesskey = M
 
 ## Reader View toolbar buttons
 
@@ -913,6 +936,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegacion privada
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navegacion privada
 content-analysis-panel-title = Proteccion de donadas
 
 ## Unified extensions (toolbar) button
@@ -979,6 +1005,10 @@ popup-notification-addon-install-unsigned =
     .value = (Pas verificat)
 popup-notification-xpinstall-prompt-learn-more = Ne saber mai sus l’installacion de moduls de fòrma segura
 popup-notification-xpinstall-prompt-block-url = Afichar los detalhs
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Executar en fenèstras privadas
+    .accesskey = E
 
 ## Pop-up warning
 
