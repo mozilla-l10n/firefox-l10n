@@ -73,6 +73,8 @@ open-in-new-window-for-csp-or-xfo-error = Ireki gunea leiho berrian
 csp-xfo-blocked-long-desc = Zure segurtasuna babesteko, { $hostname } ostalariak ez du { -brand-short-name } baimenduko orria bistaratzea, beste gune batek hau kapsulatu badu. Orri hau ikusteko, leiho berri batean ireki behar duzu.
 fp-certerror-view-certificate-link = Ikusi gunearen ziurtagiria
 fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Askorik ez. Litekeena da arazoa guneak berak izatea.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Errore-kodea: { $error }
