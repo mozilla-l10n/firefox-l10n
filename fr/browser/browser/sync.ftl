@@ -37,3 +37,9 @@ fxa-menu-sync-title = Synchronisation
 fxa-menu-sync-description = Accédez à votre Web où que vous soyez
 sync-setup-verify-continue = Continuer
 sync-setup-verify-title = Avertissement de fusion
+sync-setup-verify-heading = Voulez-vous vraiment vous connecter pour synchroniser ?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un autre utilisateur s’est déjà connecté à la synchronisation sur cet ordinateur. Vous connecter fusionnera les marque-pages, mots de passe et autres paramètres de ce navigateur avec { $email }
