@@ -53,6 +53,7 @@ firefoxview-syncedtabs-synctabs-checkbox = Разрешаване на синх�
 firefoxview-syncedtabs-loading-header = Извършва се синхронизиране
 firefoxview-tabpickup-fxa-admin-disabled-header = Вашата организация е забранила синхронизирането
 firefoxview-tabpickup-network-offline-header = Проверете връзката с интернет
+firefoxview-tabpickup-network-offline-description = Ако използвате защитна стена или прокси, проверете дали { -brand-short-name } има права за достъп до мрежата.
 firefoxview-tabpickup-network-offline-primarybutton = Нов опит
 firefoxview-tabpickup-sync-error-header = Срещаме проблем със синхронизирането
 firefoxview-tabpickup-sync-error-primarybutton = Нов опит
