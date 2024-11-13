@@ -319,6 +319,7 @@ fxa-menu-message-backup-data-collapsed-text = Varnostno kopirajte podatke brskal
 fxa-menu-message-backup-sync-primary-text = Imejte svoje podatke na varnem in sinhronizirane
 fxa-menu-message-backup-sync-collapsed-text = Sinhronizirajte in varnostno kopirajte podatke
 fxa-menu-message-mobile-primary-text = Pošljite si zavihke na telefon
+fxa-menu-message-mobile-collapsed-text = Sinhronizirajte s telefonom
 
 ## Multi-CTA Fox Doodle Spotlight
 
