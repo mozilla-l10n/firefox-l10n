@@ -112,13 +112,23 @@ login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } 
 login-intro-instructions-fxa2 = Crea o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
 login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
 login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> pi aviri ajutu.
+about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
+about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navigaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
 
 ## Login
 
 login-item-new-login-title = Crea nova cridinziali
+# Header for adding a password
+about-logins-login-item-new-login-title = Agghiunci chiavi
 login-item-edit-button = Cancia
 about-logins-login-item-remove-button = Leva
 login-item-origin-label = Nnirizzu dû situ
+login-item-tooltip-message = Stai accura chi currispunni ô nnirizzu pricisu dû situ unni trasi.
+about-logins-origin-tooltip2 = Metti u nnirizzu cumpletu e stai accura chi currispunni pricisu ô situ unni trasi.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Stai accura a sarbari a chiavi currenti pi stu situ. Canciari a chiavi cca, nun a cancia pi { $webTitle }.
+about-logins-add-password-tooltip = Stai accura a sarbari a chiavi currenti pi stu situ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomu utenti
@@ -129,9 +139,12 @@ login-item-copied-username-button-text = Cupiatu!
 login-item-password-label = Chiavi
 login-item-password-reveal-checkbox =
     .aria-label = Mustra chiavi
+login-item-password-conceal-checkbox =
+    .aria-label = Ammuccia chiavi
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Cupiatu!
 login-item-save-changes-button = Sarba canciamenti
+about-logins-login-item-save-changes-button = Sarba
 login-item-save-new-button = Sarba
 login-item-cancel-button = Sfai
 
@@ -139,6 +152,10 @@ login-item-cancel-button = Sfai
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Criatu
 
 ## OS Authentication dialog
 
