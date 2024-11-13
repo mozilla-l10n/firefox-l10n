@@ -27,26 +27,30 @@ update-failed-main = L'attualizzu sfallìu. <a data-l10n-name="failed-link-main"
 update-adminDisabled = L'attualizzi foru disabbilitati di l'amministraturi dû sistema
 update-policy-disabled = L'attualizzi foru disabbilitati dâ to urganizzazzioni
 update-noUpdatesFound = { -brand-short-name } è attualizzatu
+aboutdialog-update-checking-failed = U cuntrollu di l'attualizzi sfallìu.
 update-otherInstanceHandlingUpdates = { -brand-short-name } si sta già attualizzannu
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
-aboutdialog-update-manual-with-link = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link">{ $displayUrl }</label>
-settings-update-manual-with-link = L'attualizzazziuna sunnu dispunìbbili nne <a data-l10n-name="manual-link">{ $displayUrl }</a>
-update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
+aboutdialog-update-manual-with-link = L'attualizzi sunnu dispunìbbili nne <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-manual-with-link = L'attualizzi sunnu dispunìbbili nne <a data-l10n-name="manual-link">{ $displayUrl }</a>
+update-unsupported = Nun po' cchiù fari attualizzi nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazzioni</label>
 update-restarting = Staju riabbiannu…
+update-internal-error2 = Mpussìbbili cuntrullari l'attualizzi pi n'erruri nternu. L'attualizzi sunnu dispunìbbili ô nnirizzu <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel">{ $channel }</label> .
+aboutdialog-channel-description = P'accamora sì nnô canali d'attualizzu <label data-l10n-name="current-channel">{ $channel }</label> .
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
+aboutdialog-help-user = Ajutu di { -brand-product-name }
+aboutdialog-submit-feedback = Manna cummentu
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
-helpus = Ni vo' aiutari? <label data-l10n-name="helpus-donateLink">Fai na dunazziuni</label> o <label data-l10n-name="helpus-getInvolvedLink">jùnciti cu nuiautri!</label>
-bottomLinks-license = Nfurmazziuna dâ licenza
+helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Fai na dunazzioni</label> o <label data-l10n-name="helpus-getInvolvedLink">jùnciti cu nuiautri!</label>
+bottomLinks-license = Nfurmazzioni ncapu â licenza
 bottomLinks-rights = Diritti di l'utenti finali
 bottomLinks-privacy = Pulìtica di privatizza
 # Example of resulting string: 66.0.1 (64-bit)
@@ -60,3 +64,14 @@ aboutDialog-version = { $version } ({ $bits }-bit)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version }({ $isodate })({ $bits }-bit)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
