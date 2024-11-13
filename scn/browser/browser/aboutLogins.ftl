@@ -199,9 +199,15 @@ about-logins-export-password-os-auth-dialog-message-win = Pi espurtari i to crid
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esporta cridinziali e chiavi sarbati
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Pi espurtari i to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = esporta chiavi sarbati
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Pi favuri metti a to Chiavi Mastra pi vìdiri i cridinziali e i chiavi sarbati
 master-password-reload-button =
     .label = Trasi
     .accesskey = T
@@ -213,14 +219,39 @@ confirmation-dialog-dismiss-button =
     .title = Sfai
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?
 confirm-delete-dialog-message = St'azziuni nun si po sfari.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Livari a chiavi?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Nun poi sfari st'azzioni.
 about-logins-confirm-remove-dialog-confirm-button = Leva
 
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { NUMBER($count) ->
+        [1] Leva
+        [one] Leva
+       *[other] Leva tuttu
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { NUMBER($count) ->
+        [1] Se, leva sta cridinziali
+        [one] Se, leva sta cridinziali
+       *[other] Se, leva sti cridinziali
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { NUMBER($count) ->
+        [one] Livari { $count } cridinziali?
+       *[other] Livari { $count } cridinziali?
+    }
 
 ##
 
+about-logins-confirm-export-dialog-title = Esporta cridinziali e chiavi
+about-logins-confirm-export-dialog-message = I to chiavi vennu sarbati comu testu liggìbbili (pi scempru, Chi@v1T!nta), adunca stai accura chi cu' è-è chi po' ràpiri u pricu i po' vìdiri.
+about-logins-confirm-export-dialog-confirm-button = Esporta…
+about-logins-confirm-export-dialog-title2 = Abbisu supra a l'espurtazzioni dî chiavi
 confirm-discard-changes-dialog-title = Scartari i canciamenti nun sarbati?
 confirm-discard-changes-dialog-message = Pirdirai tutti i canciamenti nun sarbati.
 confirm-discard-changes-dialog-confirm-button = Scarta
@@ -247,6 +278,14 @@ about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chia
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = Mporta
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Ducumentu CSV
+       *[other] Pricu CSV
+    }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 about-logins-import-file-picker-tsv-filter-title =
@@ -304,16 +343,61 @@ about-logins-import-dialog-error-no-logins-imported = Nun fu mpurtata nuḍḍa 
 about-logins-import-dialog-error-learn-more = Cchiù nfurmazzioni
 about-logins-import-dialog-error-try-import-again = Prova a mpurtari arrè…
 about-logins-import-dialog-error-cancel = Sfai
+about-logins-import-report-title = Suntu dâ mpurtazzioni
+about-logins-import-report-description = I cridinziali e i chiavi foru mpurtati nne { -brand-short-name }.
+about-logins-import-report-description2 = I chiavi foru mpurtati nne { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Ringu { $number }
+about-logins-import-report-row-description-no-change = Duppiu: currispunnenza pricisa di na cridinziali già esistenti
+about-logins-import-report-row-description-modified = Cridinziali esistenti attualizzata
+about-logins-import-report-row-description-added = Nova cridinziali agghiunciuta
+about-logins-import-report-row-description-no-change2 = Duppiu: currispunnenza pricisa di n'elimentu già esistenti
+about-logins-import-report-row-description-modified2 = Elimentu esistenti attualizzatu
+about-logins-import-report-row-description-added2 = Nova chiavi agghiunciuta
+about-logins-import-report-row-description-error = Erruri: campu mancanti
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Erruri: cchiù assai d'un valuri pi { $field }
+about-logins-import-report-row-description-error-missing-field = Erruri: manca { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi cridinziali agghiunciuti</div>
+    }
+about-logins-import-report-modified =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">cridinziali esistenti attualizzati</div>
+    }
+about-logins-import-report-no-change =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">cridinziali duppi</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi chiavi agghiunciuti</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elimenti esisetnti attualizzati</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elimenti duppi</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
+    }
+about-logins-import-report-error =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erruri</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Suntu dâ mpurtazzioni
