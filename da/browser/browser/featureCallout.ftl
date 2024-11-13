@@ -69,6 +69,7 @@ sidebar-button-callout-subtitle = Brug sidepanels-knappen til at udvide sidepane
 
 sidebar-callout-survey-title = Hjælp os med at forbedre { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Hvor tilfreds er du med, hvordan sidepanelet fungerer i { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Privatlivserklæring
 sidebar-callout-survey-very-satisfied = Meget tilfreds
 sidebar-callout-survey-satisfied = Tilfreds
 sidebar-callout-survey-neutral = Hverken/eller
