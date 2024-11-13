@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Carte di credito
 sync-currently-syncing-payment-methods = Metodi di pagamento
 sync-currently-syncing-addons = Componenti aggiuntivi
 sync-currently-syncing-settings = Impostazioni
+sync-manage-options =
+    .label = Gestisci sincronizzazione
+    .accesskey = z
 sync-change-options =
     .label = Cambia…
     .accesskey = b
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Impostazioni
     .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
     .accesskey = z
+sync-choose-what-to-sync-dialog4 =
+    .title = Scelta elementi da sincronizzare
+    .style = min-width: 36em;
+    .buttonlabelaccept = Salva
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnetti…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

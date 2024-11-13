@@ -248,6 +248,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Profili
+menu-profiles-manage-profiles =
+    .label = Gestisci profili
+menu-profiles-new-profile =
+    .label = Nuovo profilo
 
 ## Tools Menu
 
