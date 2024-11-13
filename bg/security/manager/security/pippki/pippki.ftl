@@ -12,6 +12,7 @@ change-password-token = Устройство по безопасността: { 
 change-password-old = Текуща парола:
 change-password-new = Нова парола:
 change-password-reenter = Нова парола (отново):
+pippki-pw-change-ok = Паролата е успешно сменена.
 pippki-pw-erased-ok = Изтрихте паролата си. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Внимание! Решихте да не използвате парола. { pippki-pw-empty-warning }
 

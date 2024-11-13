@@ -89,6 +89,7 @@ info-monitored-emails =
         [one] Наблюдаван адрес на електронна поща
        *[other] Наблюдавани адреси на електронна поща
     }
+monitor-partial-breaches-motivation-title-end = Почти е готово! Продължавайте.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
