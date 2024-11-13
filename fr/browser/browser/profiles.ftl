@@ -20,6 +20,7 @@ edit-profile-page-explore-themes = Découvrir d’autres thèmes
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Supprimer
+edit-profile-page-no-name = Donnez un nom à ce profil pour le retrouver plus tard. Renommez-le à tout moment.
 new-profile-page-title = Nouveau profil
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.

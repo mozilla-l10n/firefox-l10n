@@ -310,10 +310,16 @@ fxa-menu-message-backup-data-primary-text = Sauvegardez les données de votre na
 fxa-menu-message-backup-data-secondary-text = Protégez automatiquement vos marque-pages, mots de passe et d’autres informations sur tous vos appareils.
 fxa-menu-message-backup-data-collapsed-text = Sauvegardez les données de votre navigateur
 fxa-menu-message-backup-sync-primary-text = Synchronisez et protégez vos données
+fxa-menu-message-backup-sync-secondary-text = La synchronisation sauvegarde la plupart de vos données pour que vous puissiez y accéder partout où vous utilisez { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Synchronisez et sauvegardez les données
+fxa-menu-message-mobile-primary-text = Envoyez des onglets sur votre téléphone
+fxa-menu-message-mobile-secondary-text = Reprenez instantanément là où vous en étiez en synchronisant vos onglets avec un appareil mobile.
+fxa-menu-message-mobile-collapsed-text = Synchronisez avec votre téléphone
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Heureux de vous revoir !
+multi-cta-fox-doodle-set-default-checkbox = Faire de { -brand-short-name } votre navigateur par défaut
 multi-cta-fox-doodle-pin-startmenu-checkbox = Épingler { -brand-short-name } au menu Démarrer
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
@@ -323,3 +329,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Commencer la navigation
 multi-cta-fox-doodle-main-browser-primary-button-label = Faire de { -brand-short-name } mon navigateur principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Nous voulions juste vous rappeler que vous pouvez garder votre navigateur préféré et respectueux de la vie privée à portée de clic.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Gardez votre navigateur préféré et qui respecte votre vie privée à portée de clic. Faites de { -brand-short-name } votre navigateur par défaut pour ouvrir des liens et gardez-le dans le Dock.
+       *[other] Gardez votre navigateur préféré et qui respecte votre vie privée à portée de clic. Faites de { -brand-short-name } votre navigateur par défaut pour ouvrir des liens et épinglez-le à la barre des tâches.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gardez votre navigateur préféré et qui respecte votre vie privée à portée de clic. Faites de { -brand-short-name } votre navigateur par défaut pour ouvrir des liens et épinglez-le à la barre des tâches et au menu Démarrer.
