@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } - Benutzerprofil wählen
+profile-window-heading = Ein { -brand-short-name }-Profil wählen
+profile-window-body = Trennen Sie Arbeit und privates Surfen vollständig, inklusive Passwörtern und Lesezeichen. Oder erstellen Sie Profile für alle, die dieses Gerät verwenden.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Anzeigen, wenn { -brand-short-name } geöffnet wird
 profile-window-create-profile = Ein Profil erstellen
 # Variables
 #   $number (number) - The number of the profile
