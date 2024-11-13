@@ -333,3 +333,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Пачаць агляданне
 multi-cta-fox-doodle-main-browser-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
 multi-cta-fox-doodle-quick-reminder-subtitle = Кароткі напамін аб тым, што вы можаце трымаць пад рукой свой любімы браўзер, арыентаваны на прыватнасць.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Трымайце пад рукой свой любімы браўзер, арыентаваны на прыватнасць. Усталюйце { -brand-short-name } як ваш прадвызначаны браўзер для адкрыцця спасылак і трымайце яго ў доку.
+       *[other] Трымайце пад рукой свой любімы браўзер, арыентаваны на прыватнасць. Усталюйце { -brand-short-name } як ваш прадвызначаны браўзер для адкрыцця спасылак і замацуйце яго на панэлі заданняў.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Трымайце пад рукой свой любімы браўзер, арыентаваны на прыватнасць. Усталюйце { -brand-short-name } як ваш прадвызначаны браўзер для адкрыцця спасылак і замацуйце яго ў стартавым меню.

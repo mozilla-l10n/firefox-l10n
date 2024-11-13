@@ -8,6 +8,11 @@
 newtab-page-title = Новая картка
 newtab-settings-button =
     .title = Наладзіць вашу старонку новай карткі
+newtab-personalize-settings-icon-label =
+    .title = Персаналізаваць новую картку
+    .aria-label = Налады
+newtab-settings-dialog-label =
+    .aria-label = Налады
 newtab-personalize-icon-label =
     .title = Персаналізаваць новую картку
     .aria-label = Персаналізаваць новую картку
@@ -315,6 +320,8 @@ newtab-wallpaper-dark-panda = Чырвоная панда схаваная ў л
 newtab-wallpaper-dark-sky = Гарадскі пейзаж з начным небам
 newtab-wallpaper-dark-mountain = Горны пейзаж
 newtab-wallpaper-dark-city = Пурпурны гарадскі пейзаж
+newtab-wallpaper-dark-fox-anniversary = Ліса на тратуары каля лесу
+newtab-wallpaper-light-fox-anniversary = Ліса ў травяністым полі з туманным горным ландшафтам
 
 ## Solid Colors
 
