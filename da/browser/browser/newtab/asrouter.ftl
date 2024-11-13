@@ -313,6 +313,25 @@ fxa-menu-message-backup-sync-primary-text = Hold dine data sikre og synkronisere
 fxa-menu-message-backup-sync-secondary-text = Synkronisering sikkerhedskopierer de fleste af dine data, så du har adgang til dem overalt, hvor du bruger { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Synkroniser og sikkerhedskopier data
 fxa-menu-message-mobile-primary-text = Send faneblade til din telefon
+fxa-menu-message-mobile-secondary-text = Synkroniser dine faneblade med en mobil enhed for at fortsætte, hvor du slap.
+fxa-menu-message-mobile-collapsed-text = Synkroniser med din telefon
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Velkommen tilbage
+multi-cta-fox-doodle-set-default-checkbox = Gør { -brand-short-name } til din standard-browser
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fastgør { -brand-short-name } til startmenuen
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i Dock
+       *[other] Fastgør { -brand-short-name } til proceslinjen
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Afslut rundvisningen
+multi-cta-fox-doodle-main-browser-primary-button-label = Gør { -brand-short-name } til min foretrukne browser
+multi-cta-fox-doodle-quick-reminder-subtitle = Her er en hurtig påmindelse om, at du kan have din foretrukne privatlivsfokuserede browser et enkelt klik borte.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din Dock.
+       *[other] Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din proceslinje.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din proceslinje og startmenu.
