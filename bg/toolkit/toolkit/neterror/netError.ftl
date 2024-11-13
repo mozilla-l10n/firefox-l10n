@@ -40,6 +40,7 @@ neterror-load-error-try-again = Страницата може да е време
 neterror-load-error-connection = Ако не може да отворите друга страница, проверете връзката си с интернет.
 neterror-load-error-firewall = Ако компютърът или мрежата ви са зад защитна стена или мрежов посредник проверете дали { -brand-short-name } има право на достъп до Интернет.
 neterror-captive-portal = Трябва да се впишете в тази мрежа, за да получите достъп до интернет.
+neterror-dns-not-found-hint-try-again = Опитайте отново по-късно
 
 ## TRR-only specific messages
 ## Variables:
