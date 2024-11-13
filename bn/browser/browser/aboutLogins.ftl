@@ -476,8 +476,8 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
-       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
+       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
     }
 about-logins-import-report-added2 =
     { NUMBER($count) ->
@@ -491,8 +491,8 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { NUMBER($count) ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রি</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রিসমূহ</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রি</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রিসমূহ</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
     }
 about-logins-import-report-error =
     { $count ->
