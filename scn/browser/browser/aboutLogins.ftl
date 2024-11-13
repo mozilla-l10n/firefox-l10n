@@ -252,16 +252,33 @@ about-logins-confirm-export-dialog-title = Esporta cridinziali e chiavi
 about-logins-confirm-export-dialog-message = I to chiavi vennu sarbati comu testu liggìbbili (pi scempru, Chi@v1T!nta), adunca stai accura chi cu' è-è chi po' ràpiri u pricu i po' vìdiri.
 about-logins-confirm-export-dialog-confirm-button = Esporta…
 about-logins-confirm-export-dialog-title2 = Abbisu supra a l'espurtazzioni dî chiavi
+about-logins-confirm-export-dialog-message2 =
+    Quannu fai n'espurtazzioni, i to chiavi vennu sarbati nnôn pricu comu testu liggìbbili.
+    Quannu finisti di usari u pricu, ti raccumannamu di cancillàrilu accussì nuḍḍu autru po' vìdiri i to chiavi.
+about-logins-confirm-export-dialog-confirm-button2 = Cuntinua cu l'espurtazzioni
+about-logins-alert-import-title = Mpurtazzioni finuta
+about-logins-alert-import-message = Vidi un riportu chî minutagghi dâ mpurtazzioni
 confirm-discard-changes-dialog-title = Scartari i canciamenti nun sarbati?
 confirm-discard-changes-dialog-message = Pirdirai tutti i canciamenti nun sarbati.
 confirm-discard-changes-dialog-confirm-button = Scarta
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Viulazzioni dû situ
 breach-alert-text = Di l'ùrtima vota chi canciasti sta cridinziali, foru arrubbati o foru spartuti chiavi di stu situ. Cancia a to chiavi pi prutèggiri u to cuntu.
+about-logins-breach-alert-date = Sta viulazzioni mmattìu u { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Vìsita { $hostname }
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Chiavi vurniràbbili
+about-logins-vulnerable-alert-text2 = Sta chiavi fu usata cu n'autru cuntu chi fu parti di na viulazzioni di dati. Usari sempri i stissi cridinziali metti a rìsicu tutti i to cunti. Cancia sta chiavi.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Vìsita { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Cchiù nfurmazzioni
 
 ## Error Messages
 
@@ -275,9 +292,31 @@ about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chia
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Esporta pricu di cridinziali
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = cridinziali.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Esporta chiavi di { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = chiavi.csv
+about-logins-export-file-picker-export-button = Esporta
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Ducumentu CSV
+       *[other] Pricu CSV
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Mporta pricu di cridinziali
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Mporta chiavi nne { -brand-short-name }
 about-logins-import-file-picker-import-button = Mporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
