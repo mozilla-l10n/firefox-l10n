@@ -21,6 +21,7 @@ policy-DisableDeveloperTools = Забранява достъпа до разво
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
+policy-DisableProfileRefresh = Забраняване на бутона за опресняване на { -brand-short-name } в страницата about:support.
 policy-DisableSystemAddonUpdate = Забранява на браузъра да инсталира и обновява системни добавки.
 policy-DisableTelemetry = Изключва телеметрията.
 policy-DisplayMenuBar = Показва лентата с менюто по подразбиране.

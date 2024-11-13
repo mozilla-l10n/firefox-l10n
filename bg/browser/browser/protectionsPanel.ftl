@@ -17,17 +17,17 @@ protections-panel-etp-more-info =
     .aria-label = Повече за подобрената защита от проследяване
 protections-panel-etp-on-header = Подобрена защита от проследяване е ВКЛЮЧЕНА за сайта
 protections-panel-etp-off-header = Подобрена защита от проследяване е ИЗКЛЮЧЕНА за сайта
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Страницата не работи?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Страницата не работи?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Страницата не работи?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Страницата не работи?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -87,7 +87,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Докладване за неработеща страница
 protections-panel-content-blocking-breakage-report-view-description = Спирането на определени проследявания може да наруши работата на някои страници. Като докладвате такива страници помагате да направим { -brand-short-name } по-добър за всички. Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца. <label data-l10n-name="learn-more">Научете повече</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Спирането на определени проследявания може да наруши работата на някои страници. Като докладвате такива страници помагате да направим { -brand-short-name } по-добър за всички. Към { -vendor-short-name } ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.
 protections-panel-content-blocking-breakage-report-view-collection-url = Адрес
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Адрес
@@ -108,6 +107,7 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Изключване на намаляването на банерите за бисквитки за { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Включване на намаляването на банерите за бисквитки за страницата?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ще изчисти бисквитките на този сайт и ще опресни страницата. Изчистването на всички бисквитки може да доведе до излизането ви от профила или да изпразни пазарските колички, ако имате такива на отворени страници.
 
 ## Protections panel info message
 
