@@ -455,6 +455,22 @@ about-logins-import-report-added =
         [one] <div data-l10n-name="count">{ $count }টি</div> <div data-l10n-name="details">নতুন লগইন যোগ করা হয়েছে</div>
        *[other] <div data-l10n-name="count">{ $count }টি</div> <div data-l10n-name="details">নতুন লগইন যোগ করা হয়েছে</div>
     }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">বিদ্যমান লগইন হালনাগাদ করা হয়েছে</div>
+       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">বিদ্যমান লগইন হালনাগাদ করা হয়েছে</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported ">(আমদানি করা হয়নি)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ত্রুটি</div> <div data-l10n-name="not-imported" >(আমদানি করা হয়নি)</div>
+       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ত্রুটি</div> <div data-l10n-name="not-imported" >(আমদানি করা হয়নি)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = রিপোর্টের সারাংশ আমদানি করুন
