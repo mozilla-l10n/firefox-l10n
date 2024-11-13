@@ -7,9 +7,9 @@ profiledowngrade-window2 =
     .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = Stvori novi profil
-profiledowngrade-sync = Korištenje starije verzije { -brand-product-name(case: "gen") } može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju. Uvijek se možeš prijaviti u svoj { -fxaccount-brand-name } i sinkronizirati svoje zabilješke i povijest pretraživanja između profila.
-profiledowngrade-sync2 = Korištenje starije { -brand-product-name } verzije može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju. Koristi jedan račun za prijavu te za naknadno sinkroniziranje tvojih zabilješki i povijesti pretraživanja između profila.
-profiledowngrade-nosync = Korištenje starije verzije { -brand-product-name(case: "gen") } može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju.
+profiledowngrade-sync = Korištenje starije { -brand-product-name } verzije može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju. Koristi { -fxaccount-brand-name } za prijavu te sinkroniziraj tvoje zabilješke i povijest pretraživanja između profila.
+profiledowngrade-sync2 = Korištenje starije { -brand-product-name } verzije može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju. Koristi jedan račun za prijavu te sinkroniziraj tvoje zabilješke i povijest pretraživanja između profila.
+profiledowngrade-nosync = Korištenje starije { -brand-product-name } verzije može oštetiti zabilješke i povijest pretraživanja koje su već spremljene u postojeći { -brand-product-name } profil. Za zaštitu tvojih podataka, stvori novi profil za ovu { -brand-short-name } instalaciju.
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
