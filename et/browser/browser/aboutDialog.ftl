@@ -25,6 +25,7 @@ update-applying = Uuenduse rakendamine…
 update-failed = Uuendamine ebaõnnestus. <label data-l10n-name="failed-link">Laadi alla uusim versioon</label>
 update-failed-main = Uuendamine ebaõnnestus. <a data-l10n-name="failed-link-main">Laadi alla uusim versioon</a>
 update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
+update-policy-disabled = Värskendused on sinu organisatsiooni poolt keelatud
 update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
 aboutdialog-update-checking-failed = Uuenduste kontrollimine ebaõnnestus.
 update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise protsessi poolt
@@ -63,3 +64,14 @@ aboutDialog-version = { $version } ({ $bits }-bitine)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bitine)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
