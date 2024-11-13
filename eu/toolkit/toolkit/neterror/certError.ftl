@@ -75,6 +75,7 @@ fp-certerror-view-certificate-link = Ikusi gunearen ziurtagiria
 fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Askorik ez. Litekeena da arazoa guneak berak izatea.
+fp-certerror-self-signed-important-note = OHAR GARRANTZITSUA: gune hau enpresako intranetean bisitatzen saiatzen ari bazara, bere buruek sinatutako ziurtagiriak egon litezke, enpresako informatikariek hala jarrita. Hauen egiazkotasuna egiaztatzen lagun zaitzakete informatikariek.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Errore-kodea: { $error }
