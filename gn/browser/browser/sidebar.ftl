@@ -114,6 +114,16 @@ sidebar-menu-open-history-tooltip = Embojuruja tembiasakue ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-history-tooltip = Emboty tembiasakue ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Embojuruja techaukaha ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Emboty techaukaha ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Embojuruja IA chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip = Emboty IA chatbot ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
