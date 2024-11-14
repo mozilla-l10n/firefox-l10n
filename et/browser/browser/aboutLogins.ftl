@@ -178,8 +178,13 @@ about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
 about-logins-os-auth-dialog-message =
     { PLATFORM() ->
         [macos] change the settings for passwords
-       *[other] { -brand-short-name } üritab paroolide sätteid muuta. Selle võimaldamiseks kasuta oma seadme sisselogimise tunnuseid.
+       *[other] { -brand-short-name } üritab paroolide sätteid muuta. Selle võimaldamiseks kasuta oma seadme sisselogimisandmeid.
     }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Parooli muutmiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = edit the saved password
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parooli vaatamiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -195,6 +200,11 @@ about-logins-export-password-os-auth-dialog-message-win = Kasutajakontode ekspor
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwords
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Parooli eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = export saved passwords
 
 ## Primary Password notification
 
@@ -210,6 +220,10 @@ confirmation-dialog-dismiss-button =
     .title = Loobu
 about-logins-confirm-remove-dialog-title = Kas eemaldada see kasutajakonto?
 confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Kas parool eemaldada?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Seda toimingut pole võimalik tagasi võtta.
 about-logins-confirm-remove-dialog-confirm-button = Eemalda
 
 ## Variables
@@ -248,6 +262,19 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
         [one] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestadud kasutajakontod kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { NUMBER($count) ->
+        [1] Jah, eemalda parool
+        [one] Jah, eemalda parool
+       *[other] Jah, eemalda paroolid
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Kas eemaldada parool?
+       *[other] Kas eemaldada { $count } parooli?
     }
 
 ##
