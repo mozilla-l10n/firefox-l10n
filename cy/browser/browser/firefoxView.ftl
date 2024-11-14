@@ -170,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Chwilio tabiau a gaewyd yn ddiweddar
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Chwilio’r tabiau
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Chwilio tabiau wedi'u cydweddu
 # Placeholder for the input field to search in open tabs ("search" is a verb).

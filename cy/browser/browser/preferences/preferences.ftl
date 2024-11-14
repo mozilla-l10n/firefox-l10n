@@ -804,6 +804,9 @@ sync-currently-syncing-creditcards = Cardiau Credyd
 sync-currently-syncing-payment-methods = Dulliau talu
 sync-currently-syncing-addons = Ychwanegion
 sync-currently-syncing-settings = Gosodiadau
+sync-manage-options =
+    .label = Rheoli cysoni…
+    .accesskey = R
 sync-change-options =
     .label = Newid…
     .accesskey = N
@@ -856,6 +859,13 @@ sync-engine-settings =
     .label = Gosodiadau
     .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi'u newid
     .accesskey = G
+sync-choose-what-to-sync-dialog4 =
+    .title = Rheoli'r hyn sy'n cydweddu ar eich holl ddyfeisiau cysylltiedig
+    .style = min-width: 36em;
+    .buttonlabelaccept = Cadw
+    .buttonaccesskeyaccept = C
+    .buttonlabelextra2 = Datgysylltu…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

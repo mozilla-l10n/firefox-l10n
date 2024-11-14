@@ -259,6 +259,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Nodau Tudalen Symudol
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Proffiliau
+menu-profiles-manage-profiles =
+    .label = Rheoli proffiliau
+menu-profiles-new-profile =
+    .label = Proffil newydd
+
 ## Tools Menu
 
 menu-tools =

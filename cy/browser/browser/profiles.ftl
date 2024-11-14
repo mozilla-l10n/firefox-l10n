@@ -9,9 +9,22 @@ profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fe
 profile-window-checkbox-label =
     .label = Dangoswch hwn pan fydd { -brand-short-name } yn agor
 profile-window-create-profile = Crëwch broffil
+profile-card-edit-button =
+    .title = Golygu proffil
+    .aria-label = Golygu proffil
+profile-card-delete-button =
+    .title = Dileu proffil
+    .aria-label = Dileu proffil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Agor { $profileName }
+    .aria-label = Agor { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Proffil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Proffil gwreiddiol
 edit-profile-page-title = Golygu proffil
 edit-profile-page-header = Golygu eich proffil
 edit-profile-page-profile-name-label = Enw proffil

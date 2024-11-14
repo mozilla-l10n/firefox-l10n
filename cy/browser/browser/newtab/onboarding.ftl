@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Pan fyddwch wedi'ch c
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Mae { -brand-short-name } yn eich cefnogi
 onboarding-gratitude-security-and-privacy-subtitle = Diolch am ddefnyddio { -brand-short-name }, gan y Mozilla Foundation. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy agored, hygyrch, ac yn well i bawb.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Cydweddu eich data ar draws dyfeisiau
+onboarding-sign-up-description = Cofrestrwch am gyfrif a bydd eich holl fanylion pwysig - cyfrineiriau, nodau tudalen, a mwy - yn cael eu storio'n ddiogel ac ar gael pan fyddwch yn mewngofnodi i unrhyw ddyfais.
+onboarding-sign-up-button = Cofrestrwch neu mewngofnodwch
+onboarding-sign-up-secondary-button = Cychwyn pori
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,13 @@ onboarding-genai-sidebar-title = Rhowch gynnig ar sgwrsfot AI yn y bar ochr
 onboarding-genai-sidebar-subtitle = Crynhoi cynnwys gwe, trafod syniadau, drafftio negeseuon - i gyd wrth i chi bori. Dewiswch o blith darparwyr lluosog. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 onboarding-genai-sidebar-primary-button = Dewiswch sgwrsfot
 onboarding-genai-sidebar-secondary-button = Cychwyn pori
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Gorffen gosod { -brand-short-name }?
+onboarding-checklist-subtitle = Cwblhewch y camau hyn i gael y gorau o'ch profiad pori.
+onboarding-checklist-set-default = Gosod { -brand-short-name } fel y porwr rhagosodedig
+onboarding-checklist-pin = Pinio { -brand-short-name } i'r bar tasgau
+onboarding-checklist-import = Mewnforiwch o'r porwr blaenorol
+onboarding-checklist-extension = Ychwanegu estyniad
+onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
