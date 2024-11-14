@@ -107,14 +107,20 @@ about-logins-login-intro-heading-logged-out2 = Kas otsid oma salvestatud kasutaj
 about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instructions-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
+about-logins-login-intro-heading-message = Salvesta oma paroolid kindlasse kohta
+login-intro-description2 = Kõik { -brand-product-name }i salvestatud paroolid on krüpteeritud. Lisaks jälgime lekkeid ja hoiatame sind, kui oled mõjutatud. <a data-l10n-name="breach-alert-link">Lisateave</a>
+login-intro-instructions-fxa2 = Loo konto või logi sisse seadmes, kus salvestatud kasutajakontod on.
 login-intro-instructions-fxa-settings = Ava Sätted > Sync > Lülita sünkroniseerimine sisse… Märgi linnukesega Kasutajatunnused ja paroolid.
 login-intro-instructions-fxa-passwords-help = Rohkema teabe saamiseks külasta <a data-l10n-name="passwords-help-link">paroolide tugiteenust</a>.
 about-logins-intro-browser-only-import = Kui sinu kasutajatunnused on salvestatud teise brauserisse, siis saad <a data-l10n-name="import-link">need importida { -brand-product-name }i</a>
 about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
+about-logins-intro-import3 = Parooli koheseks lisamiseks vajuta ülalolevale plussmärgi nupule. Paroole saad ka importida <a data-l10n-name="import-browser-link">teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>.
 
 ## Login
 
 login-item-new-login-title = Uue kasutajakonto loomine
+# Header for adding a password
+about-logins-login-item-new-login-title = Parooli lisamine
 login-item-edit-button = Muuda
 about-logins-login-item-remove-button = Eemalda
 login-item-origin-label = Saidi aadress
