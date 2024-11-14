@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = כרטיסי אשראי
 sync-currently-syncing-payment-methods = אמצעי תשלום
 sync-currently-syncing-addons = תוספות
 sync-currently-syncing-settings = הגדרות
+sync-manage-options =
+    .label = ניהול סנכרון…
+    .accesskey = נ
 sync-change-options =
     .label = שינוי…
     .accesskey = ש
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = הגדרות
     .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
     .accesskey = ת
+sync-choose-what-to-sync-dialog4 =
+    .title = ניהול הפריטים שמסתנכרנים בכל המכשירים המחוברים שלך
+    .style = min-width: 36em;
+    .buttonlabelaccept = שמירה
+    .buttonaccesskeyaccept = ש
+    .buttonlabelextra2 = התנתקות…
+    .buttonaccesskeyextra2 = ה
 
 ## The device name controls.
 

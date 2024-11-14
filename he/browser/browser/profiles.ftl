@@ -9,9 +9,22 @@ profile-window-body = ניתן לבחור לשמור את העבודה והגל�
 profile-window-checkbox-label =
     .label = להציג הודעה זו כאשר { -brand-short-name } נפתח
 profile-window-create-profile = יצירת פרופיל
+profile-card-edit-button =
+    .title = עריכת פרופיל
+    .aria-label = עריכת פרופיל
+profile-card-delete-button =
+    .title = מחיקת פרופיל
+    .aria-label = מחיקת פרופיל
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = פתיחת { $profileName }
+    .aria-label = פתיחת { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = פרופיל { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = פרופיל ראשוני
 edit-profile-page-title = עריכת פרופיל
 edit-profile-page-header = עריכת הפרופיל שלך
 edit-profile-page-profile-name-label = שם פרופיל
@@ -56,5 +69,13 @@ delete-profile-confirm = מחיקה
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = חזזית
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = אוקיינוס
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = טרקוטה
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = טחבי עלים
 # The default system theme
 profiles-system-theme = מערכת

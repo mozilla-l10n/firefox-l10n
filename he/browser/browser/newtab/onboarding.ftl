@@ -314,6 +314,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } מאחו
 onboarding-gratitude-security-and-privacy-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
 # Sign up or Sign in screen
 onboarding-sign-up-title = סנכרון הנתונים שלך בין מכשירים
+onboarding-sign-up-description = כדאי להירשם לחשבון וכל המידע החשוב שלך, לרבות ססמאות, סימניות ועוד, יאוחסן בצורה מאובטחת ויהיה זמין לשימוש בעת התחברות לכל מכשיר.
 onboarding-sign-up-button = הרשמה או התחברות
 onboarding-sign-up-secondary-button = התחלת גלישה
 
@@ -379,3 +380,5 @@ onboarding-genai-sidebar-secondary-button = התחלת גלישה
 ## New user onboarding checklist
 
 onboarding-checklist-title = סיום הגדרת { -brand-short-name }
+onboarding-checklist-subtitle = כדאי להשלים את השלבים האלה כדי להפיק את המרב מחווית הגלישה שלך.
+onboarding-checklist-set-default = הגדרת { -brand-short-name } כדפדפן ברירת המחדל
