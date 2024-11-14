@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name }가 어떠한 이유로 인하여 
 neterror-load-error-try-again = 서버가 일시적으로 사용할 수 없거나 사용자가 너무 많은 상태일 수 있습니다. 잠시 후에 다시 시도해 보세요.
 neterror-load-error-connection = 어떤 페이지도 열 수 없다면, 컴퓨터의 네트워크 연결을 확인해 보세요.
 neterror-load-error-firewall = 사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면, { -brand-short-name }가 웹에 접근할 수 있도록 허용되어 있는지 확인해 보세요.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = 로컬 네트워크 페이지를 로드하려고 하는 경우, macOS 개인정보 보호 및 보안 설정에서 { -brand-short-name }에 로컬 네트워크 권한이 부여되었는지 확인하세요.
 neterror-captive-portal = 인터넷을 사용하기 위해서 반드시 이 네트워크에 로그인해야 합니다.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
