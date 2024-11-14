@@ -57,9 +57,13 @@ detail-update-automatic =
 detail-update-manual =
     .label = Disattivato
     .tooltiptext = Non installare automaticamente gli aggiornamenti
+# Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Funzionamento in finestre anonime
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
 detail-private-disallowed-label = Disattivata in finestre anonime
 detail-private-disallowed-description2 = Questa estensione non funziona in navigazione anonima. <<a data-l10n-name="learn-more">Ulteriori informazioni</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Richiede accesso alle finestre anonime
 detail-private-required-description2 = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 detail-private-browsing-on =
@@ -148,7 +152,7 @@ addon-category-sitepermission-title =
     .title = Permessi siti
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Permessi siti per { $host }
 
 ## These are global warnings
@@ -221,8 +225,7 @@ shortcuts-input =
     .placeholder = Inserisci una scorciatoia
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-  .aria-label = Rimuovi scorciatoia
-
+    .aria-label = Rimuovi scorciatoia
 shortcuts-browserAction2 = Attiva pulsante nella barra degli strumenti
 shortcuts-pageAction = Attiva azione pagina
 shortcuts-sidebarAction = Attiva/disattiva barra laterale
@@ -242,7 +245,12 @@ shortcuts-duplicate-warning-message = La combinazione { $shortcut } è utilizzat
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = La combinazione { $shortcut } è utilizzata come scorciatoia da tastiera per più comandi. Scorciatoie duplicate possono causare comportamenti imprevisti.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
 shortcuts-exists = Già utilizzata da { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button = Visualizza altre { $numberToShow }
 shortcuts-card-collapse-button = Mostra meno scorciatoie
 header-back-button =
@@ -260,6 +268,7 @@ discopane-intro =
     terze parti. Ecco una selezione <a data-l10n-name="learn-more-trigger">
     consigliata</a> da { -brand-product-name }, con la garanzia di sicurezza,
     prestazioni e funzionalità al massimo livello.
+# Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
     estensioni già installate, le impostazioni del profilo e statistiche
@@ -276,6 +285,9 @@ privacy-policy = Informativa sulla privacy
 # Variables:
 #   $author (string) - The name of the add-on developer.
 created-by-author = di <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
 user-count = Utenti: { $dailyUsers }
 install-extension-button = Aggiungi a { -brand-product-name }
 install-theme-button = Installa tema
@@ -293,9 +305,12 @@ addon-options-button =
 
 report-addon-button = Segnala
 remove-addon-button = Rimuovi
+# The link will always be shown after the other text.
 remove-addon-disabled-button = Impossibile rimuovere <a data-l10n-name="link">Perché?</a>
 disable-addon-button = Disattiva
 enable-addon-button = Attiva
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
 extension-enable-addon-button-label =
     .aria-label = Attiva
 preferences-addon-button =
@@ -336,7 +351,13 @@ install-postponed-button = Aggiorna adesso
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (disattivato)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
         [one] { $numberOfReviews } recensione
@@ -345,6 +366,8 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è stato rimosso.
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -357,14 +380,20 @@ addon-detail-updates-radio-on = Attivo
 addon-detail-updates-radio-off = Disattivato
 addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
 addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Attiva in finestre anonime
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
 addon-detail-group-label-private-browsing =
     .aria-label = { detail-private-browsing-label }
 
@@ -388,6 +417,8 @@ addon-detail-group-label-quarantined-domains =
 addon-badge-recommended2 =
     .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
     .title = Estensione ufficiale realizzata da Mozilla. Rispetta gli standard in materia di sicurezza e prestazioni
     .aria-label = { addon-badge-line3.title }
@@ -401,14 +432,18 @@ available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.
-addon-permissions-empty = Questa estensione non richiede alcun permesso
 addon-permissions-empty2 = Questa estensione non richiede alcun permesso.
+addon-permissions-empty = Questa estensione non richiede alcun permesso
 addon-permissions-required = Permessi obbligatori per funzionalità principali:
 addon-permissions-optional = Permessi facoltativi per funzionalità aggiuntive:
 addon-permissions-learnmore = Ulteriori informazioni sui permessi
 recommended-extensions-heading = Estensioni consigliate
 recommended-themes-heading = Temi consigliati
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Consente a <span data-l10n-name="hostname">{ $hostname }</span> di utilizzare le seguenti funzioni:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ti senti creativo? <a data-l10n-name="link">Disegna il tuo tema con Firefox Color</a>.
 
 ## Page headings
@@ -433,7 +468,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } non è compatibile con { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
@@ -447,23 +482,15 @@ details-notification-unsigned-and-disabled-link = Ulteriori informazioni
 details-notification-unsigned = { $name } non è verificato per l’utilizzo in { -brand-short-name }. Procedere con cautela.
 details-notification-unsigned2 =
     .message = { $name } non è verificato per l’utilizzo in { -brand-short-name }. Procedere con cautela.
-details-notification-unsigned-link = Ulteriori informazioni
-details-notification-blocked = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
-details-notification-blocked2 =
-    .message = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
 details-notification-hard-blocked-extension =
     .message = Questa estensione è bloccata in quanto viola i criteri di Mozilla ed è stata disattivata.
 details-notification-hard-blocked-other =
     .message = Questo componente aggiuntivo è bloccato in quanto viola i criteri di Mozilla ed è stato disattivato.
-details-notification-blocked-link = Ulteriori informazioni
+details-notification-unsigned-link = Ulteriori informazioni
+details-notification-blocked = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
+details-notification-blocked2 =
+    .message = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
 details-notification-blocked-link2 = Mostra dettagli
-details-notification-softblocked = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
-details-notification-softblocked2 =
-    .message = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
-details-notification-softblocked-link = Ulteriori informazioni
-
-details-notification-softblocked-link2 = Mostra dettagli
-
 details-notification-soft-blocked-extension-disabled =
     .message = Questa estensione è soggetta a limitazioni in quanto viola i criteri di Mozilla ed è stata disattivata. È possibile attivarla, ma il suo utilizzo potrebbe comportare dei rischi.
 details-notification-soft-blocked-extension-enabled =
@@ -471,8 +498,13 @@ details-notification-soft-blocked-extension-enabled =
 details-notification-soft-blocked-other-disabled =
     .message = Questo componente aggiuntivo è soggetto a limitazioni in quanto viola i criteri di Mozilla ed è stata disattivato. È possibile attivarlo, ma il suo utilizzo potrebbe comportare dei rischi.
 details-notification-soft-blocked-other-enabled =
-     .message = Questo componente aggiuntivo viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
-
+    .message = Questo componente aggiuntivo viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
+details-notification-softblocked-link2 = Mostra dettagli
+details-notification-blocked-link = Ulteriori informazioni
+details-notification-softblocked = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
+details-notification-softblocked2 =
+    .message = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
+details-notification-softblocked-link = Ulteriori informazioni
 details-notification-gmp-pending = { $name } verrà installato tra qualche istante.
 details-notification-gmp-pending2 =
     .message = { $name } verrà installato tra qualche istante.
@@ -485,5 +517,3 @@ plugins-openh264-name = Codec video OpenH264 realizzato da Cisco Systems, Inc.
 plugins-openh264-description = Questo plugin viene installato automaticamente da Mozilla, in conformità con le specifiche WebRTC, per consentire chiamate con dispositivi che richiedono un codec video H.264. Visitare https://www.openh264.org/ per visualizzare il codice sorgente e scoprire ulteriori informazioni sull’implementazione.
 plugins-widevine-name = Modulo Widevine Content Decryption fornito da Google Inc.
 plugins-widevine-description = Questo plugin consente la riproduzione di file multimediali crittati, nel rispetto delle specifiche Encrypted Media Extensions. Questo tipo di file è normalmente utilizzato dai siti per proteggere contenuti di alta qualità contro la copia. Consultare https://www.w3.org/TR/encrypted-media/ per ulteriori informazioni relative a Encrypted Media Extensions.
-
-
