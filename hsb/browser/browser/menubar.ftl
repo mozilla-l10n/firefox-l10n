@@ -257,6 +257,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobilne zapołožki
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profile
+menu-profiles-manage-profiles =
+    .label = Profile rjadować
+menu-profiles-new-profile =
+    .label = Nowy profil
+
 ## Tools Menu
 
 menu-tools =

@@ -357,6 +357,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Hdyž sće synchroniz
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami steji
 onboarding-gratitude-security-and-privacy-subtitle = Wulki dźak, zo { -brand-short-name } wužiwaće, kotryž so wot załožby Mozilla Foundation spěchuje. Z wašej pomocu dźěłamy na tym, internet wěsćiši a přistupniši za kóždeho činić.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Waše daty mjez gratami synchronizować
+onboarding-sign-up-button = Registrować abo přizjewić
+onboarding-sign-up-secondary-button = Přehladowanje započeć
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +420,12 @@ onboarding-genai-sidebar-title = Wupruwujće chatowy bot KI w bóčnicy.
 onboarding-genai-sidebar-subtitle = Zjimajće webwobsah, ideje namakanja idejow, naćiski powěsćow – wšitko, hdyž přehladujeće. Wubjerće z wjacorych poskićowarjow. Móžeće jeho kóždy raz změnić. <a data-l10n-name="learn-more">Dalše informacije</a>
 onboarding-genai-sidebar-primary-button = Wubjerće chatowy bot
 onboarding-genai-sidebar-secondary-button = Přehladowanje započeć
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Konfiguraciju { -brand-short-name } skónčić
+onboarding-checklist-set-default = Nastajće { -brand-short-name } jako standardny wobhladowak
+onboarding-checklist-pin = Připniće { -brand-short-name } k nadawkowej lajsće
+onboarding-checklist-import = Z předchadneho wobhladowaka importować
+onboarding-checklist-extension = Rozšěrjenje přidać
+onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho konta
