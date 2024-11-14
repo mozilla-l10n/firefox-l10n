@@ -843,6 +843,13 @@ sync-engine-settings =
     .label = Parametros
     .tooltiptext = Parametros general, de confidentialitate e securitate que tu ha cambiate
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Gere que synchronisar sur tote tu apparatos connexe
+    .style = min-width: 36em;
+    .buttonlabelaccept = Salvar
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnexion…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
