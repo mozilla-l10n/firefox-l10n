@@ -146,9 +146,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco fi
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Abrir el verificador de reseñas
+    .tooltiptext = Abrir el verificador de revisiones
 shopping-sidebar-close-button2 =
-    .tooltiptext = Cerrar el verificador de reseñas
+    .tooltiptext = Cerrar el verificador de revisiones
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
