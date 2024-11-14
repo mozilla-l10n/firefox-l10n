@@ -344,6 +344,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = 資料同步完成後
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 是您的堅強後盾
 onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更安全、更可被所有人使用。
+# Sign up or Sign in screen
+onboarding-sign-up-title = 在不同裝置間同步資料
+onboarding-sign-up-button = 註冊或登入
+onboarding-sign-up-secondary-button = 開始上網
 
 ## New user time and familiarity survey strings
 
@@ -403,3 +407,12 @@ onboarding-genai-sidebar-title = 在側邊欄試用 AI 聊天機器人
 onboarding-genai-sidebar-subtitle = 一邊上網一邊摘要網頁內容、找出新點子、撰寫訊息草稿。多套機器人可供使用，並可隨時切換。<a data-l10n-name="learn-more">更多資訊</a>
 onboarding-genai-sidebar-primary-button = 挑選一套機器人
 onboarding-genai-sidebar-secondary-button = 開始上網
+
+## New user onboarding checklist
+
+onboarding-checklist-title = 完成設定 { -brand-short-name }
+onboarding-checklist-set-default = 將 { -brand-short-name } 設為預設瀏覽器
+onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工具列
+onboarding-checklist-import = 從先前使用的瀏覽器匯入資料
+onboarding-checklist-extension = 新增擴充套件
+onboarding-checklist-sign-up = 註冊或登入帳號

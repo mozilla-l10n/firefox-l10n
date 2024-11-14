@@ -170,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = 搜尋最近關閉的分頁
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = 搜尋分頁
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = 搜尋同步的分頁
 # Placeholder for the input field to search in open tabs ("search" is a verb).

@@ -104,6 +104,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = 商品評論檢查器
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = 開啟瀏覽紀錄（{ $shortcut }）
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = 關閉瀏覽紀錄（{ $shortcut }）
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = 開啟書籤（{ $shortcut }）
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = 關閉書籤（{ $shortcut }）
+sidebar-menu-open-ai-chatbot-tooltip = 開啟 AI 聊天機器人
+sidebar-menu-close-ai-chatbot-tooltip = 關閉 AI 聊天機器人
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =

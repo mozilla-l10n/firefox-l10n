@@ -9,9 +9,22 @@ profile-window-body = 讓您工作與個人使用的上網紀錄（包含網站�
 profile-window-checkbox-label =
     .label = { -brand-short-name } 啟動時顯示本視窗
 profile-window-create-profile = 建立設定檔
+profile-card-edit-button =
+    .title = 編輯設定檔
+    .aria-label = 編輯設定檔
+profile-card-delete-button =
+    .title = 刪除設定檔
+    .aria-label = 刪除設定檔
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = 開啟 { $profileName }
+    .aria-label = 開啟 { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 設定檔 { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = 原始設定檔
 edit-profile-page-title = 編輯設定檔
 edit-profile-page-header = 編輯您的設定檔
 edit-profile-page-profile-name-label = 設定檔名稱
