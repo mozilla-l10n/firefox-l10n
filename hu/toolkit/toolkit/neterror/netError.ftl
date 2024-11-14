@@ -41,6 +41,8 @@ neterror-generic-error = A { -brand-short-name } nem tudja betölteni az oldalt 
 neterror-load-error-try-again = A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár perc múlva.
 neterror-load-error-connection = Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.
 neterror-load-error-firewall = Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a { -brand-short-name } számára engedélyezett-e a webhozzáférés.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ha egy helyi hálózati oldalt próbál betölteni, akkor ellenőrizze, hogy a { -brand-short-name } megkapta-e a helyi hálózati engedélyeket a macOS adatvédelmi és biztonsági beállításaiban.
 neterror-captive-portal = Az internet elérése előtt be kell jelentkezni a hálózatra.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

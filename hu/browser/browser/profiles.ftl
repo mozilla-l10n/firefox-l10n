@@ -9,9 +9,22 @@ profile-window-body = Tartsa teljesen külön a munkahelyi és a személyes bön
 profile-window-checkbox-label =
     .label = Megjelenítés a { -brand-short-name } megnyitásakor
 profile-window-create-profile = Profil létrehozása
+profile-card-edit-button =
+    .title = Profil szerkesztése
+    .aria-label = Profil szerkesztése
+profile-card-delete-button =
+    .title = Profil törlése
+    .aria-label = Profil törlése
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } megnyitása
+    .aria-label = { $profileName } megnyitása
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = { $number }. profil
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Eredeti profil
 edit-profile-page-title = Profil szerkesztése
 edit-profile-page-header = Saját profil szerkesztése
 edit-profile-page-profile-name-label = Profil neve

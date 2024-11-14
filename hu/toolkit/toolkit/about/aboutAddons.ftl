@@ -299,6 +299,9 @@ find-more-themes = További témák keresése
 # used for screen readers.
 addon-options-button =
     .aria-label = További beállítások
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = A kiegészítők és témák lehetővé teszik a { -brand-product-name } testreszabását. Elősegíthetik az adatvédelmet, növelhetik a hatékonyságot, jobbá tehetik a médiatartalmakat, módosíthatják a { -brand-product-name } megjelenését, és még sok másra képesek. Ezeket a kis szoftvereket gyakran harmadik felek fejlesztik. Itt egy válogatás, melyet a { -brand-product-name } <a data-l10n-name="learn-more-trigger">ajánl</a> a kivételes biztonság, teljesítmény és funkcionalitás érdekében.
 
 ## Add-on actions
 

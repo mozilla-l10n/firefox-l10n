@@ -843,6 +843,13 @@ sync-engine-settings =
     .label = Beállítások
     .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
     .accesskey = k
+sync-choose-what-to-sync-dialog4 =
+    .title = Kezelje, hogy mit szinkronizál a csatlakoztatott eszközein
+    .style = min-width: 36em;
+    .buttonlabelaccept = Mentés
+    .buttonaccesskeyaccept = M
+    .buttonlabelextra2 = Kapcsolat bontása…
+    .buttonaccesskeyextra2 = b
 
 ## The device name controls.
 
