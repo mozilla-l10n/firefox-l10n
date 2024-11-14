@@ -286,3 +286,8 @@ appmenuitem-vpn-description = ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤ
 ## Profiles panel
 
 appmenu-profiles = ᱢᱮᱫᱦᱟᱸᱠᱚ
+appmenu-other-profiles = ᱮᱴᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞᱠᱚ
+appmenu-manage-profiles =
+    .label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+appmenu-create-profile =
+    .label = ᱱᱟᱶᱟ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ
