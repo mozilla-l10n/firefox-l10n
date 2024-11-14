@@ -356,6 +356,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchron
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu supporto
 onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus secur r plus accessibile pro totes.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synchronisa tu datos inter apparatos
+onboarding-sign-up-button = Inscribe te o accede
+onboarding-sign-up-secondary-button = Comencia a navigar
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +419,12 @@ onboarding-genai-sidebar-title = Prova un chatbot IA in le barra lateral
 onboarding-genai-sidebar-subtitle = Resumer contento de web, liberemente exponer ideas, minutas de message, toto quando tu naviga. Seliger ab plure fornitores. Muta lo quandocunque tu vole. <a data-l10n-name="learn-more">Pro saper plus</a>
 onboarding-genai-sidebar-primary-button = Elige un chatbot
 onboarding-genai-sidebar-secondary-button = Comenciar a navigar
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Completar le configuration de { -brand-short-name }
+onboarding-checklist-set-default = Face de { -brand-short-name } tu navigator predefinite
+onboarding-checklist-pin = Adde { -brand-short-name } al barra de apps
+onboarding-checklist-import = Importa ab le previe navigator
+onboarding-checklist-extension = Adde un extension
+onboarding-checklist-sign-up = Registrate o accede a tu conto
