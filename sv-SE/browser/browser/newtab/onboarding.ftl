@@ -358,6 +358,9 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } tar hand
 onboarding-gratitude-security-and-privacy-subtitle = Tack för att du använder { -brand-short-name }, med stöd av Mozilla Foundation. Med ditt stöd arbetar vi för att göra internet säkrare och mer tillgängligt för alla.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Synkronisera din data mellan enheter
+onboarding-sign-up-description = Registrera dig för ett konto så lagras all din viktiga information — lösenord, bokmärken och mer — säkert och tillgänglig när du loggar in på vilken enhet som helst.
+onboarding-sign-up-button = Registrera dig eller logga in
+onboarding-sign-up-secondary-button = Börja surfa
 
 ## New user time and familiarity survey strings
 
@@ -420,3 +423,10 @@ onboarding-genai-sidebar-secondary-button = Börja surfa
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Slutför konfigureringen av { -brand-short-name }
+onboarding-checklist-subtitle = Slutför de här stegen för att få ut det mesta av din surfupplevelse.
+onboarding-checklist-set-default = Ange { -brand-short-name } som standardwebbläsare
+onboarding-checklist-pin = Fäst { -brand-short-name } i aktivitetsfältet
+onboarding-checklist-import = Importera från tidigare webbläsare
+onboarding-checklist-extension = Lägg till ett tillägg
+onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto

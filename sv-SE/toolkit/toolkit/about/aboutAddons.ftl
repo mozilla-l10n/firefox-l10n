@@ -293,6 +293,14 @@ find-more-themes = Hitta fler teman
 # used for screen readers.
 addon-options-button =
     .aria-label = Fler alternativ
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Tillägg och teman låter dig anpassa { -brand-product-name }. De kan stärka integriteten,
+    förbättra produktiviteten, förbättra media, ändra hur { -brand-product-name } ser ut och
+    så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är
+    ett urval { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekommenderar</a>
+    för exceptionell säkerhet, prestanda och funktionalitet.
 
 ## Add-on actions
 

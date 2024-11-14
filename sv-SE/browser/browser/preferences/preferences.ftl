@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Kreditkort
 sync-currently-syncing-payment-methods = Betalningsmetoder
 sync-currently-syncing-addons = Tillägg
 sync-currently-syncing-settings = Inställningar
+sync-manage-options =
+    .label = Hantera synkronisering…
+    .accesskey = H
 sync-change-options =
     .label = Ändra…
     .accesskey = n
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Inställningar
     .tooltiptext = Allmänna, sekretess- och säkerhetsinställningar som du har ändrat
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Hantera vad som synkroniseras på alla dina anslutna enheter
+    .style = min-width: 36em;
+    .buttonlabelaccept = Spara
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Koppla från…
+    .buttonaccesskeyextra2 = f
 
 ## The device name controls.
 

@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } kan av någon anledning inte visa
 neterror-load-error-try-again = Webbplatsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.
 neterror-load-error-connection = Om du inte kan öppna sidor, kontrollera datorns nätverksanslutning.
 neterror-load-error-firewall = Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera att { -brand-short-name } har tillstånd att ansluta till webben.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Om du försöker ladda en lokal nätverkssida, kontrollera att { -brand-short-name } har beviljats lokala nätverksbehörigheter i inställningarna för macOS sekretess och säkerhet.
 neterror-captive-portal = Du måste logga in på nätverket innan du kan ansluta till Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

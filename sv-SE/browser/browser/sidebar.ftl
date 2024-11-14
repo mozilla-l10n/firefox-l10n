@@ -104,6 +104,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Recensionsgranskare
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Öppna historik ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Stäng historik ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Öppna bokmärken ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Stäng bokmärken ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Öppna AI chatbot
+sidebar-menu-close-ai-chatbot-tooltip = Stäng AI chatbot
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
