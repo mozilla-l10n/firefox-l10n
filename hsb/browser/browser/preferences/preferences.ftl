@@ -851,6 +851,13 @@ sync-engine-settings =
     .label = Nastajenja
     .tooltiptext = Powšitkowne nastajenja a nastajenja priwatnosće a wěstoty su so změnili
     .accesskey = N
+sync-choose-what-to-sync-dialog4 =
+    .title = Rjadujće daty synchronizacijow na wšěch wašich zwjazanych gratach
+    .style = min-width: 36em;
+    .buttonlabelaccept = Składować
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Zwisk dźělić…
+    .buttonaccesskeyextra2 = Z
 
 ## The device name controls.
 
