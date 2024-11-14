@@ -312,6 +312,10 @@ onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } מאחוריך
 onboarding-gratitude-security-and-privacy-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
+# Sign up or Sign in screen
+onboarding-sign-up-title = סנכרון הנתונים שלך בין מכשירים
+onboarding-sign-up-button = הרשמה או התחברות
+onboarding-sign-up-secondary-button = התחלת גלישה
 
 ## New user time and familiarity survey strings
 
@@ -371,3 +375,7 @@ onboarding-genai-sidebar-title = נסו צ’אט בוט AI בסרגל הצד
 onboarding-genai-sidebar-subtitle = סיכום תוכן אינטרנט, סיעור מוחות, טיוטת הודעות - הכל תוך כדי גלישה. בחירה מתוך מספר ספקים. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
 onboarding-genai-sidebar-primary-button = בחירת צ’אט בוט
 onboarding-genai-sidebar-secondary-button = התחלת גלישה
+
+## New user onboarding checklist
+
+onboarding-checklist-title = סיום הגדרת { -brand-short-name }

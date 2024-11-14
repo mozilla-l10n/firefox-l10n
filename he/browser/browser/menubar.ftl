@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = סימניות מהנייד
 
+## Profiles Menu
+
+menu-profiles =
+    .label = פרופילים
+menu-profiles-manage-profiles =
+    .label = ניהול פרופילים
+menu-profiles-new-profile =
+    .label = פרופיל חדש
+
 ## Tools Menu
 
 menu-tools =
