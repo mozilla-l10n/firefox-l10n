@@ -425,3 +425,9 @@ onboarding-genai-sidebar-secondary-button = Afslut rundvisningen
 ## New user onboarding checklist
 
 onboarding-checklist-title = Færdiggør opsætning af { -brand-short-name }
+onboarding-checklist-subtitle = Udfør disse trin for at få det meste ud af din oplevelse på nettet.
+onboarding-checklist-set-default = Gør { -brand-short-name } til min standard-browser
+onboarding-checklist-pin = Fastgør { -brand-short-name } til proceslinjen
+onboarding-checklist-import = Importer fra tidligere browser
+onboarding-checklist-extension = Tilføj en udvidelse
+onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
