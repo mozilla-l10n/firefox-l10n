@@ -792,6 +792,9 @@ sync-currently-syncing-creditcards = Банковские карты
 sync-currently-syncing-payment-methods = Способы оплаты
 sync-currently-syncing-addons = Дополнения
 sync-currently-syncing-settings = Настройки
+sync-manage-options =
+    .label = Управление синхронизацией…
+    .accesskey = Ь
 sync-change-options =
     .label = Изменить…
     .accesskey = м
@@ -844,6 +847,13 @@ sync-engine-settings =
     .label = Настройки
     .tooltiptext = Изменённые вами общие настройки, настройки приватности и безопасности
     .accesskey = а
+sync-choose-what-to-sync-dialog4 =
+    .title = Управляйте синхронизируемыми данными на всех подключённых устройствах
+    .style = min-width: 36em;
+    .buttonlabelaccept = Сохранить
+    .buttonaccesskeyaccept = Ы
+    .buttonlabelextra2 = Отключить…
+    .buttonaccesskeyextra2 = В
 
 ## The device name controls.
 
