@@ -41,6 +41,8 @@ neterror-generic-error = Nid yw { -brand-short-name } yn gallu llwytho'r dudalen
 neterror-load-error-try-again = Efallai bod y wefan yn brysur neu nad yw ar gael dros dro. Ceisiwch eto ymhen ychydig.
 neterror-load-error-connection = Os nad ydych yn gallu llwytho unrhyw dudalennau, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.
 neterror-load-error-firewall = Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan { -brand-short-name } hawl i fynediad i'r we.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Os ydych chi'n ceisio llwytho tudalen rhwydwaith lleol, gwiriwch fod { -brand-short-name } wedi cael caniatâd Rhwydwaith Lleol yng ngosodiadau Preifatrwydd a Diogelwch macOS.
 neterror-captive-portal = Rhaid i chi fewngofnodi i'r rhwydwaith hwn cyn i chi gael mynediad i'r Rhyngrwyd.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

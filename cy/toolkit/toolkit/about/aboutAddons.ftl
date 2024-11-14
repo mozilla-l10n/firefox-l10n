@@ -297,6 +297,14 @@ find-more-themes = Canfod themâu eraill
 # used for screen readers.
 addon-options-button =
     .aria-label = Rhagor o Ddewisiadau
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Mae estyniadau a themâu yn gadael i chi addasu { -brand-product-name }. Gallan nhw hybu preifatrwydd,
+    gwella cynhyrchiant, gwella cyfryngau, newid y ffordd y mae { -brand-product-name } yn edrych, a
+    cymaint mwy. Mae'r rhaglenni meddalwedd bach hyn yn aml yn cael eu datblygu gan drydydd parti. Dyma
+    mae detholiad { -brand-product-name } <a data-l10n-name="learn-more-trigger">yn eu hargymell</a>
+    ar gyfer diogelwch, perfformiad, ac ymarferoldeb eithriadol.
 
 ## Add-on actions
 
