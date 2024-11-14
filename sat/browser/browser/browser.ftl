@@ -974,6 +974,18 @@ private-browsing-indicator-label = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤ�
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = ᱰᱟᱴᱟ ᱦᱟᱹᱱ ᱵᱚᱱᱫᱚ (DLP) ᱦᱚᱛᱮᱛᱮ { $agentName } ᱾ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
+content-analysis-panel-title = ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱰᱟᱴᱟ ᱟᱫ ᱠᱷᱚᱱ ᱨᱚᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ <b>{ $agentName }</b> ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟᱭ ᱾ <a data-l10n-name="info">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱰᱟᱴᱟ ᱟᱫ ᱠᱷᱚᱱ ᱨᱚᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ { $agentName } ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟᱭ ᱾ <a data-l10n-name="info">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1001,6 +1013,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱢᱩᱪᱟᱹᱫ ᱢᱮ
+    .tooltiptext = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱢᱩᱪᱟᱹᱫ ᱢᱮ
+reset-pbm-panel-heading = ᱱᱤᱡᱮᱨᱟᱜ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱚᱸᱫᱚᱭ ᱟ ᱥᱮ ?
+reset-pbm-panel-description = ᱡᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ ᱦᱤᱛᱟᱹᱞ, ᱠᱩᱠᱤ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ ᱾
+reset-pbm-panel-always-ask-checkbox =
+    .label = ᱥᱟᱨᱟ ᱜᱷᱟᱹᱲᱤᱡ ᱤᱧ ᱠᱩᱞᱤᱧ ᱢᱮ
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
+    .accesskey = D
+reset-pbm-panel-complete = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱮᱱᱟ
 
 ## Autorefresh blocker
 
@@ -1023,6 +1050,11 @@ firefox-relay-offer-legal-notice = “ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟ�
 popup-notification-addon-install-unsigned =
     .value = (ᱵᱟᱝ ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣ)
 popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+popup-notification-xpinstall-prompt-block-url = ᱵᱤᱵᱨᱟᱬ ᱧᱮᱞ ᱢᱮ
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1060,6 +1092,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱵᱟᱝ ᱡᱷᱤᱡᱽ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾ ᱪᱮᱫ ᱨᱮᱫᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱯᱷᱚᱞᱰᱟᱨ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱵᱟᱝ ᱡᱷᱤᱡᱽ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾ ᱨᱮᱫᱽ ᱫᱚ { $path } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+file-picker-failed-save-nowhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱵᱟᱝ ᱡᱷᱤᱡᱽ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾ ᱪᱮᱫ ᱰᱤᱯᱷᱚᱞᱴ ᱯᱚᱴᱚᱢ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ; ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱝ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ ᱾
+file-picker-crashed-open = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱪᱮᱫ ᱨᱮᱫᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱯᱷᱚᱞᱰᱟᱨ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱾
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱨᱮᱫᱽ ᱫᱚ { $path } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+file-picker-crashed-save-nowhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱪᱮᱫ ᱰᱤᱯᱷᱚᱞᱴ ᱯᱚᱴᱚᱢ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ; ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱝ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ ᱾
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
