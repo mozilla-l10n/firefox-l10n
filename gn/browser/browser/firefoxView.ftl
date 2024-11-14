@@ -169,6 +169,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Ndaipóri tendayke oñembotyramóva
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Eheka tendayke
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Eheka tendayke mbojuehepyrépe
 # Placeholder for the input field to search in open tabs ("search" is a verb).
