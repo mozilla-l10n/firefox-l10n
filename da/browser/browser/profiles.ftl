@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Vælg din brugerprofil
 profile-window-heading = Vælg en { -brand-short-name }-profil
+profile-window-body = Hold dit arbejde og dit privatliv helt adskilt på nettet ved at gemme adgangskoder, bogmærker mv. separat. Eller opret profiler til alle, der bruger enheden.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Vis dette, når { -brand-short-name } startes
