@@ -1107,3 +1107,6 @@ file-picker-crashed-save-nowhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟ�
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accessKey = F

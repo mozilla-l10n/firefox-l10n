@@ -14,7 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱟᱢ ᱥᱮ ?
 default-browser-prompt-message-pin = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱠᱟᱹᱴᱩᱵ ᱴᱷᱮᱱ ᱢᱩᱴᱷᱟᱹᱱ ᱢᱮ — ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱛᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ ᱾
+default-browser-prompt-message-pin-msix = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱠᱟᱹᱴᱩᱵ ᱴᱷᱮᱱ ᱢᱩᱴᱷᱟᱹᱱ ᱢᱮ — ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱛᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ ᱾
 default-browser-prompt-message-pin-mac = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱠᱟᱹᱴᱩᱵ ᱴᱷᱮᱱ ᱢᱩᱴᱷᱟᱹᱱ ᱢᱮ — ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱛᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱜᱩᱫᱤ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
+default-browser-prompt-button-primary-set = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ
 default-browser-prompt-button-primary-pin = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱡᱮ
 default-browser-prompt-title-alt = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱟᱢ ᱥᱮ ?
 default-browser-prompt-message-alt = ᱡᱟᱦᱟᱸ ᱛᱤ ᱨᱮ ᱟᱢ ᱵᱽᱨᱟᱣᱡᱽ ᱡᱷᱚᱜ ᱨᱚᱯᱷᱛᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱟᱨ ᱩᱠᱩ ᱧᱟᱢ ᱢᱮ ᱾
@@ -26,5 +28,6 @@ default-browser-prompt-button-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = { -brand-short-name } ᱟᱢᱟᱜ ᱰᱤᱯᱷᱚᱞᱴ ᱵᱮᱱᱟᱣ ᱪᱟᱵᱟᱭ ᱢᱮ
 default-browser-guidance-notification-info-page = ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 default-browser-guidance-notification-dismiss = ᱦᱩᱭᱮᱱᱟ

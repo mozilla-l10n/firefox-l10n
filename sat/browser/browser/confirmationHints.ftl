@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱮᱱᱟ ᱾ ᱥᱟᱨᱦᱟᱣ!
 confirmation-hint-login-removed = ᱵᱚᱞᱚ ᱚᱪᱚᱜ ᱮᱱᱟ !
+confirmation-hint-password-removed = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱚᱪᱚᱜ ᱮᱱᱟ !
 confirmation-hint-page-bookmarked = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
 confirmation-hint-password-saved = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ !
 confirmation-hint-password-created = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
@@ -21,3 +22,11 @@ confirmation-hint-send-to-device = ᱠᱩᱞ ᱮᱱᱟ!
 confirmation-hint-firefox-relay-mask-created = ᱱᱟᱶᱟ ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱮᱱᱟ!
 confirmation-hint-firefox-relay-mask-reused = ᱢᱟᱲᱟᱝᱟᱜ ᱢᱟᱥᱠ ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱮᱱᱟ !
 confirmation-hint-screenshot-copied = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱱᱚᱠᱚᱞ ᱮᱱᱟ!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { NUMBER($tabCount) ->
+        [one] { $tabCount } ᱴᱮᱵᱽ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+        [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+       *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+    }
