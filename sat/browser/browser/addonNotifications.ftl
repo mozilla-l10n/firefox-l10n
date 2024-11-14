@@ -52,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ᱫᱚ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱛᱮ ᱵᱞᱚᱠ ᱟᱠᱟᱱᱟ ᱾
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱠᱮᱫᱟᱭ ᱾
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId })  ᱫᱚ ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱦᱚᱛᱮᱛᱮ ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ ᱾
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱠᱮᱫᱟᱭ ᱾
 addon-install-full-screen-blocked = ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱢᱳᱰ ᱨᱮ ᱵᱚᱞᱚ ᱢᱟᱲᱟᱝ ᱨᱮ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱫᱚ ᱮᱢ ᱵᱟᱹᱰ ᱜᱮᱭᱟ ᱾
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -124,4 +131,8 @@ addon-local-install-error-not-signed = ᱱᱚᱣᱟ ᱮᱰ-ᱚᱱ ᱵᱟᱝ ᱵ�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ᱫᱚ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } { $appVersion } ᱥᱟᱞᱟᱜ ᱢᱮᱞ ᱵᱟᱭ ᱡᱚᱢ ᱞᱮᱫᱼᱟ ᱾
+addon-install-error-hard-blocked = { $addonName } ᱫᱚ Mozilla ᱨᱮᱭᱟᱜ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱝ ᱢᱟᱱᱟᱶ ᱮᱫᱟᱭ ᱟᱨ { -brand-short-name } ᱨᱮ ᱚᱱᱟᱛᱮ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 addon-install-error-blocklisted = { $addonName } ᱫᱚ ᱵᱚᱦᱟᱞ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱫᱚ ᱥᱴᱮᱵᱤᱞᱤᱴᱤ ᱟᱨᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱦᱩᱰᱟᱹᱜ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+addon-install-error-soft-blocked = { $addonName } ᱫᱚ Mozilla ᱨᱮᱭᱟᱜ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱝ ᱢᱟᱱᱟᱶ ᱮᱫᱟᱭ ᱟᱨ { -brand-short-name } ᱨᱮ ᱚᱱᱟᱛᱮ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = ᱟᱢ ᱫᱚ { $addonName } ᱢᱩᱪᱟᱹᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱟ ᱵᱟᱢ ᱤᱱᱥᱴᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱮᱠᱮᱱ ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱯᱚᱞᱤᱥ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱢᱤᱫ ᱜᱟᱶᱛᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱤᱱᱥᱴᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
