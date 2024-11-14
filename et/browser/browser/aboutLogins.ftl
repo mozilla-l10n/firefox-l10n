@@ -88,6 +88,7 @@ about-logins-login-list-empty-search-title2 = Paroole ei leitud
 about-logins-login-list-empty-search-description = Otsingule ei leitud vasteid.
 login-list-item-title-new-login = Uus kasutajakonto
 login-list-item-subtitle-new-login = Sisesta oma kasutajatunnused
+login-list-item-title-new-login2 = Parooli lisamine
 login-list-item-subtitle-missing-username = (kasutajanime pole)
 about-logins-list-item-breach-icon =
     .title = Kasutajatunnused lekitanud sait
