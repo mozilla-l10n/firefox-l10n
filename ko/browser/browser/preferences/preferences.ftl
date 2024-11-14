@@ -772,6 +772,9 @@ sync-currently-syncing-creditcards = 신용카드
 sync-currently-syncing-payment-methods = 결제 방법
 sync-currently-syncing-addons = 부가 기능
 sync-currently-syncing-settings = 설정
+sync-manage-options =
+    .label = 동기화 관리…
+    .accesskey = M
 sync-change-options =
     .label = 변경…
     .accesskey = C
@@ -824,6 +827,13 @@ sync-engine-settings =
     .label = 설정
     .tooltiptext = 변경한 일반, 개인 정보 및 보안 설정
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = 연결된 모든 기기에서 동기화 할 항목 관리
+    .style = min-width: 36em;
+    .buttonlabelaccept = 저장
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 연결끊기…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

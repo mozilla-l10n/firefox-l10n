@@ -9,9 +9,22 @@ profile-window-body = 비밀번호와 북마크를 포함한 개인 탐색과 �
 profile-window-checkbox-label =
     .label = { -brand-short-name }가 열릴 때 표시
 profile-window-create-profile = 프로필 만들기
+profile-card-edit-button =
+    .title = 프로필 편집
+    .aria-label = 프로필 편집
+profile-card-delete-button =
+    .title = 프로필 삭제
+    .aria-label = 프로필 삭제
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } 열기
+    .aria-label = { $profileName } 열기
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 프로필 { $number }개
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = 원본 프로필
 edit-profile-page-title = 프로필 편집
 edit-profile-page-header = 프로필 편집
 edit-profile-page-profile-name-label = 프로필 이름

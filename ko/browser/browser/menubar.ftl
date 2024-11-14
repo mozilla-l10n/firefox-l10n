@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = 모바일 북마크
 
+## Profiles Menu
+
+menu-profiles =
+    .label = 프로필
+menu-profiles-manage-profiles =
+    .label = 프로필 관리
+menu-profiles-new-profile =
+    .label = 새 프로필
+
 ## Tools Menu
 
 menu-tools =

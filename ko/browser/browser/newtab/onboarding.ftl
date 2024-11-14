@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = 동기화되면 { -br
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name }가 여러분을 도와드립니다.
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla 재단이 지원하는 { -brand-short-name }를 사용해 주셔서 감사합니다. 여러분의 지원으로 우리는 인터넷을 더 안전하고 더 쉽게 이용할 수 있도록 노력하고 있습니다.
+# Sign up or Sign in screen
+onboarding-sign-up-title = 기기 간에 데이터 동기화
+onboarding-sign-up-description = 계정에 가입하면 비밀번호, 북마크 등 모든 중요한 정보가 안전하게 저장되며 모든 기기에서 로그인 할 때 사용할 수 있습니다.
+onboarding-sign-up-button = 가입 또는 로그인
+onboarding-sign-up-secondary-button = 탐색 시작
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +420,13 @@ onboarding-genai-sidebar-title = 사이드바에서 AI 챗봇을 사용해 보�
 onboarding-genai-sidebar-subtitle = 탐색하는 동안 웹 콘텐츠를 요약하고, 아이디어를 브레인스토밍하고, 메시지 초안을 작성하세요. 여러 공급자 중에서 선택하세요. 언제든지 전환할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 onboarding-genai-sidebar-primary-button = 챗봇 선택
 onboarding-genai-sidebar-secondary-button = 탐색 시작
+
+## New user onboarding checklist
+
+onboarding-checklist-title = { -brand-short-name } 설정을 마치시겠습니까?
+onboarding-checklist-subtitle = 최고의 탐색 경험을 위해 다음 단계를 완료하세요.
+onboarding-checklist-set-default = { -brand-short-name }를 기본 브라우저로 설정
+onboarding-checklist-pin = { -brand-short-name }를 작업 표시줄에 고정
+onboarding-checklist-import = 이전 브라우저에서 가져오기
+onboarding-checklist-extension = 확장 기능 추가
+onboarding-checklist-sign-up = 계정 가입 또는 로그인
