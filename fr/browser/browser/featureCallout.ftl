@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Indifférent·e
 sidebar-callout-survey-dissatisfied = Insatisfait·e
 sidebar-callout-survey-very-dissatisfied = Très insatisfait·e
 sidebar-callout-survey-dont-use-it = Je ne l’utilise pas
+sidebar-callout-survey-productive-question =
+    Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :</br>
+    « Le panneau latéral de { -brand-short-name } m’aide à être plus productif·tive » ?
 sidebar-callout-survey-strongly-agree = Tout à fait d’accord
 sidebar-callout-survey-agree = D’accord
 sidebar-callout-survey-disagree = Pas d’accord
@@ -88,3 +91,6 @@ sidebar-callout-survey-none-of-above = Aucune de ces propositions
 sidebar-callout-survey-submit = Envoyer
 sidebar-callout-survey-thank-you = Merci de votre retour !
 sidebar-genai-survey-satisfaction-question = Quel est votre degré de satisfaction d’avoir accès à un chatbot IA dans le panneau latéral ?
+sidebar-genai-survey-productive-question =
+    Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :<br/>
+    « Le chatbot IA dans le panneau latéral me permet d’être plus efficace » ?

@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Marque-pages des appareils mobiles
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profils
+menu-profiles-manage-profiles =
+    .label = Gérer les profils
+menu-profiles-new-profile =
+    .label = Nouveau profil
+
 ## Tools Menu
 
 menu-tools =
