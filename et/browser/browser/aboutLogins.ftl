@@ -276,6 +276,13 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Kas eemaldada parool?
        *[other] Kas eemaldada { $count } parooli?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] See tegevus eemaldab { -brand-short-name }i salvestatud parooli ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
+        [one] See tegevus eemaldab { -brand-short-name }i salvestatud parooli ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
+       *[other] See tegevus eemaldab { -brand-short-name }i salvestatud paroolid ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
+    }
 
 ##
 
