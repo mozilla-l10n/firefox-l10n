@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Pumbyry Rechaukaha
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Mba’etekuéra
+menu-profiles-manage-profiles =
+    .label = Mba’etekuéra ñangareko
+menu-profiles-new-profile =
+    .label = Mba’ete pyahu
+
 ## Tools Menu
 
 menu-tools =
