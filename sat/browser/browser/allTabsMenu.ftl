@@ -14,3 +14,7 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱴᱮᱵᱽᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = ᱥᱟᱱᱟᱢ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱴᱮᱵᱽ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
+all-tabs-menu-synced-tabs =
+    .label = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ

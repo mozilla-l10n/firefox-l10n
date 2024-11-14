@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = ᱥᱭᱝᱠ ᱟᱨ ᱰᱟᱴᱟ ᱥᱟᱺᱪ�
 appmenu-fxa-signed-in-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 appmenu-fxa-setup-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+appmenu-fxa-setup-sync-new = ᱮᱢ ᱢᱮ
 appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
+appmenuitem-fxa-sync-off-title = ᱥᱭᱝᱠ ᱵᱚᱸᱫᱚ ᱢᱮᱱᱟᱜ-ᱟ
+appmenuitem-fxa-sync-off-description = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱯᱟᱥᱣᱟᱨᱰ ᱟᱨ ᱟᱭᱢᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱧᱟᱢ  ᱢᱮ ᱾
 
 ## What's New panel in App menu.
 
@@ -196,6 +199,9 @@ profiler-popup-presets-power-description = ᱠᱚᱢ ᱚᱵᱷᱚᱨᱞᱚᱰ �
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ᱞᱟᱹᱭᱤᱱ
+profiler-popup-presets-debug-description = { -brand-shorter-name } ᱨᱮ ᱰᱤᱵᱟᱜᱽ ᱞᱟᱹᱜᱤᱫ ᱯᱨᱤᱥᱮᱴ ᱾ ᱵᱟᱹᱲᱛᱤ ᱚᱵᱷᱟᱨᱞᱚᱰ, ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱵᱮᱵᱷᱟᱨᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱵᱩᱡᱷᱟᱹᱣ ᱨᱮ ᱢᱚᱱᱮ ᱞᱟᱜᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+profiler-popup-presets-debug-label =
+    .label = ᱰᱮᱵᱩᱜᱽ
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 
@@ -276,3 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ᱟᱢᱟᱜ ᱴᱷᱤᱠ ᱤᱢᱮᱞ ᱟᱨ ᱯᱷᱚᱱ ᱩᱠᱩᱭ ᱢᱮ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱢᱮ
+
+## Profiles panel
+
+appmenu-profiles = ᱢᱮᱫᱦᱟᱸᱠᱚ
