@@ -356,6 +356,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Embojuehepaite vove, 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } oĩ tapiaite nendive
 onboarding-gratitude-security-and-privacy-subtitle = Aguyje eiporu haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo Ñanduti hekorosã ha ijuruja hag̃ua opavavetépe g̃uarã.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Embojuehe opavave mba’e’oka ndive
+onboarding-sign-up-button = Emoinge térã eñemboheraguapy
+onboarding-sign-up-secondary-button = Eñepyrũ eikundaha
 
 ## New user time and familiarity survey strings
 
@@ -413,3 +417,7 @@ onboarding-horizontal-tabs-description =
 onboarding-genai-sidebar-title = Eiporu peteĩ chatbot IA tenda yképe
 onboarding-genai-sidebar-primary-button = Eiporavo chatbot
 onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Embohekopákatu { -brand-short-name }
