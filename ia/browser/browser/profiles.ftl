@@ -9,6 +9,17 @@ profile-window-body = Preserva tu labor e navigation personal, includite cosas c
 profile-window-checkbox-label =
     .label = Monstrar isto quando { -brand-short-name } se aperi
 profile-window-create-profile = Crear un profilo
+profile-card-edit-button =
+    .title = Rediger le profilo
+    .aria-label = Rediger le profilo
+profile-card-delete-button =
+    .title = Deler le profilo
+    .aria-label = Deler le profilo
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Aperir { $profileName }
+    .aria-label = Aperir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo: { $number }

@@ -106,6 +106,10 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Aperir chronologia ({ $shortcut })
 # The tooltip to show over the history icon, when history is currently showing.
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
