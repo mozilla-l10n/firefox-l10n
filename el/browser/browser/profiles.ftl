@@ -9,9 +9,22 @@ profile-window-body = Διαχωρίστε την επαγγελματική α�
 profile-window-checkbox-label =
     .label = Εμφάνιση κατά το άνοιγμα του { -brand-short-name }
 profile-window-create-profile = Δημιουργία προφίλ
+profile-card-edit-button =
+    .title = Επεξεργασία προφίλ
+    .aria-label = Επεξεργασία προφίλ
+profile-card-delete-button =
+    .title = Διαγραφή προφίλ
+    .aria-label = Διαγραφή προφίλ
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Άνοιγμα «{ $profileName }»
+    .aria-label = Άνοιγμα «{ $profileName }»
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Προφίλ { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Αρχικό προφίλ
 edit-profile-page-title = Επεξεργασία προφίλ
 edit-profile-page-header = Επεξεργαστείτε το προφίλ σας
 edit-profile-page-profile-name-label = Όνομα προφίλ

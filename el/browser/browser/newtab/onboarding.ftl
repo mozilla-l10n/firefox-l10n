@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Όταν κάνετε
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Το { -brand-short-name } στο πλευρό σας
 onboarding-gratitude-security-and-privacy-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, που υποστηρίζεται από το Mozilla Foundation. Με την υποστήριξή σας, εργαζόμαστε για να κάνουμε το διαδίκτυο ασφαλέστερο και πιο προσβάσιμο για όλους.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Συγχρονισμός δεδομένων μεταξύ συσκευών
+onboarding-sign-up-description = Δημιουργήστε έναν λογαριασμό και όλες οι αποθηκευμένες πληροφορίες σας — κωδικοί πρόσβασης, σελιδοδείκτες και πολλά άλλα — θα αποθηκευτούν με ασφάλεια και θα είναι διαθέσιμες όταν κάνετε σύνδεση σε οποιαδήποτε συσκευή.
+onboarding-sign-up-button = Εγγραφή ή σύνδεση
+onboarding-sign-up-secondary-button = Έναρξη περιήγησης
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +420,13 @@ onboarding-genai-sidebar-title = Δοκιμάστε ένα AI chatbot στην �
 onboarding-genai-sidebar-subtitle = Συνοψίστε διαδικτυακό περιεχόμενο, βρείτε νέες ιδέες, δημιουργήστε προσχέδια μηνυμάτων — όλα αυτά κατά την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλούς παρόχους. Αλλάξτε την επιλογή σας ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 onboarding-genai-sidebar-primary-button = Επιλογή chatbot
 onboarding-genai-sidebar-secondary-button = Έναρξη περιήγησης
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Ολοκλήρωση ρύθμισης του { -brand-short-name }
+onboarding-checklist-subtitle = Ολοκληρώστε αυτά τα βήματα για να αξιοποιήσετε στο έπακρο την εμπειρία περιήγησής σας.
+onboarding-checklist-set-default = Ορισμός του { -brand-short-name } ως προεπιλογής
+onboarding-checklist-pin = Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
+onboarding-checklist-import = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
+onboarding-checklist-extension = Προσθήκη επέκτασης
+onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαριασμό
