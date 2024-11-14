@@ -298,6 +298,14 @@ find-more-themes = Nájdite ďalšie témy vzhľadu
 # used for screen readers.
 addon-options-button =
     .aria-label = Ďalšie možnosti
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Rozšírenia a témy vzhľadu vám umožňujú prispôsobiť { -brand-product-name }. Môžu zlepšiť súkromie,
+    zvýšiť produktivitu, vylepšiť médiá, zmeniť vzhľad { -brand-product-name(case: "gen") } a
+    mnoho ďalšieho. Tieto malé softvérové programy sú často vyvíjaje tretími stranami. Tu je
+    výber { -brand-product-name(case: "ins") } <a data-l10n-name="learn-more-trigger">odporúčaných</a> doplnkov
+    pre výnimočné zabezpečenie, výkon a funkčnosť.
 
 ## Add-on actions
 

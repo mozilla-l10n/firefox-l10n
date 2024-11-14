@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } nedokáže z nejakého dôvodu na
 neterror-load-error-try-again = Stránka môže byť dočasne nedostupná alebo zaneprázdnená. Svoj pokus opakujte neskôr.
 neterror-load-error-connection = Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.
 neterror-load-error-firewall = Ak sú počítač alebo sieť chránené firewallom alebo serverom proxy, uistite sa, či má { -brand-short-name } povolený prístup k webu.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ak sa pokúšate načítať stránku lokálnej siete, skontrolujte, či má { -brand-short-name } v nastaveniach ochrany súkromia a zabezpečenia systému macOS udelené povolenia pre lokálnu sieť.
 neterror-captive-portal = Pre prístup na internet sa musíte najprv prihlásiť k tejto sieti.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
