@@ -302,7 +302,7 @@ addon-options-button =
     .aria-label = Altre opzioni
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = Estensioni e temi ti consentono di personalizzare { -brand-product-name }. Possono aiutarti a potenziare la tua privacy, incrementare la produttività, migliorare l’esperienza con i contenuti multimediali, cambiare l’aspetto di { -brand-product-name } e molto altro ancora. Questi piccoli software sono spesso sviluppati da terze parti. Qui trovi una selezione di elementi <a data-l10n-name="learn-more-trigger">consigliati</a> da { -brand-product-name } per sicurezza, prestazioni e funzionalità eccezionali.
+discopane-intro2 = Estensioni e temi ti consentono di personalizzare { -brand-product-name }. Possono aiutarti a potenziare la tua privacy, incrementare la produttività, migliorare l’esperienza con i contenuti multimediali, cambiare l’aspetto di { -brand-product-name } e molto altro ancora. Queste piccole applicazioni software sono spesso sviluppate da terze parti. Qui trovi una selezione di elementi <a data-l10n-name="learn-more-trigger">consigliati</a> da { -brand-product-name } per sicurezza, prestazioni e funzionalità eccezionali.
 
 ## Add-on actions
 
