@@ -237,6 +237,8 @@ firefoxview-choose-browser-button = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ 
 firefoxview-dont-remember-history-empty-header = ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱫᱦᱚᱸ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ
 firefoxview-dont-remember-history-empty-description = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱢ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱡᱤᱜᱚᱨ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾ ᱚᱱᱟ ᱛᱮ { -brand-short-name } ᱩᱭᱦᱟᱹᱨᱮᱫ ᱡᱷᱚᱛᱚ ᱠᱟᱹᱢᱤᱠᱚᱨᱮ ᱟᱢᱟᱜ ᱠᱚᱵᱚᱡᱽ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾
 firefoxview-dont-remember-history-empty-description-two = ᱟᱢᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱥᱟᱡᱟᱣ ᱦᱤᱥᱟᱹᱵ ᱛᱮ, ᱟᱢ ᱯᱟᱱᱛᱮ ᱮᱫ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ { -brand-short-name } ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱮᱫᱟᱭ ᱾ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, <a data-l10n-name="history-settings-url-two">ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱩᱭᱦᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞᱢᱮ</a> ᱾
+firefoxview-dont-remember-history-empty-header-2 = ᱟᱢ ᱫᱚ ᱚᱱᱟ ᱠᱚᱵᱚᱡᱽ ᱨᱮ ᱢᱮᱱᱟᱢᱟ { -brand-short-name } ᱪᱮᱫ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟᱭ
+firefoxview-dont-remember-history-empty-description-one = ᱱᱤᱛᱚᱜ, { -brand-short-name } ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, <a data-l10n-name="history-settings-url-two">ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱮᱴᱤᱝ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ</a>᱾
 
 ##
 
@@ -259,13 +261,26 @@ firefoxview-recentlyclosed-empty-description-two = ᱡᱟᱦᱱᱟᱜ ᱢᱟᱨ�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱪᱮᱫ ᱴᱮᱵᱽ ᱵᱟᱭ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱᱟ
+firefoxview-syncedtabs-connect-another-device = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ
+firefoxview-pinned-tabs =
+    .title = ᱠᱟᱴᱷᱟ ᱠᱟᱱ ᱴᱮᱵᱽᱠᱚ
+firefoxview-tabs =
+    .title = ᱴᱮᱵᱽ ᱠᱚ
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } ᱛᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = ᱛᱮ ᱵᱚᱫᱚᱞᱚᱜ ᱢᱮ (ᱵᱩᱠᱢᱟᱨᱠ) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (ᱵᱩᱠᱢᱟᱨᱠ ᱠᱟᱱ) { $url }
