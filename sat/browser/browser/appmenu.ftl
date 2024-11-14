@@ -291,3 +291,5 @@ appmenu-manage-profiles =
     .label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 appmenu-create-profile =
     .label = ᱱᱟᱶᱟ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ
+appmenu-edit-profile =
+    .aria-label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
