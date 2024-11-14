@@ -358,6 +358,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu su
 onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus secur r plus accessibile pro totes.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Synchronisa tu datos inter apparatos
+onboarding-sign-up-description = Inscribe te a un conto e tote tu info importante, contrasignos, marcapaginas, e altero, sera con securitate immagazinate e disponibile quando tu accede a qualcunque apparato.
 onboarding-sign-up-button = Inscribe te o accede
 onboarding-sign-up-secondary-button = Comencia a navigar
 
@@ -423,6 +424,7 @@ onboarding-genai-sidebar-secondary-button = Comenciar a navigar
 ## New user onboarding checklist
 
 onboarding-checklist-title = Completar le configuration de { -brand-short-name }
+onboarding-checklist-subtitle = Completa iste passos pro obtener le maximo de tu experientia de navigation.
 onboarding-checklist-set-default = Face de { -brand-short-name } tu navigator predefinite
 onboarding-checklist-pin = Adde { -brand-short-name } al barra de apps
 onboarding-checklist-import = Importa ab le previe navigator
