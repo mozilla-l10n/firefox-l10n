@@ -29,5 +29,14 @@ default-browser-prompt-button-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = { -brand-short-name } ᱟᱢᱟᱜ ᱰᱤᱯᱷᱚᱞᱴ ᱵᱮᱱᱟᱣ ᱪᱟᱵᱟᱭ ᱢᱮ
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    ᱫᱷᱟᱯ ᱑: ᱥᱮᱴᱤᱝ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱢᱩᱞ ᱮᱯᱯ
+    ᱫᱷᱟᱯ ᱒: ᱞᱟᱛᱟᱨ “ᱣᱮᱵᱽ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ” ᱥᱮᱫ ᱥᱠᱨᱚᱞ ᱢᱮ
+    ᱫᱷᱟᱯ ᱓: { -brand-short-name } ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    ᱫᱷᱟᱯ ᱑: ᱥᱮᱴᱤᱝ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱰᱤᱯᱷᱚᱞᱴ ᱮᱯᱥ
+    ᱫᱷᱟᱯ ᱒: { -brand-short-name } ᱞᱟᱹᱜᱤᱫ "ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ" ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 default-browser-guidance-notification-info-page = ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 default-browser-guidance-notification-dismiss = ᱦᱩᱭᱮᱱᱟ
