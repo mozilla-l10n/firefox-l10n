@@ -58,6 +58,7 @@ firefoxview-syncedtabs-loading-header = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱪᱟᱹᱞ�
 firefoxview-syncedtabs-loading-description = ᱡᱚᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱯᱩᱨᱟᱹᱣ ᱞᱮᱱᱠᱷᱟᱱ, ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱡᱟᱦᱟᱱ ᱴᱮᱵᱽ ᱜᱮᱢ ᱧᱮᱞᱟ ᱾ ᱞᱚᱜᱚᱱ ᱫᱚᱦᱲᱟ ᱧᱮᱞ ᱢᱮ᱾
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢ ᱜᱟᱶᱛᱮ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
 firefoxview-tabpickup-network-offline-description = ᱡᱩᱫᱤ ᱟᱢ ᱯᱷᱟᱭᱟᱨᱣᱟᱞ ᱟᱨ ᱯᱨᱚᱠᱥᱤ ᱵᱮᱵᱷᱟᱨᱮᱫ ᱠᱷᱟᱱ, ᱧᱮᱞ ᱢᱮ ᱡᱮ { -brand-short-name } ᱴᱷᱮᱱ ᱣᱮᱵᱽ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱦᱢᱚᱛ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾
 firefoxview-tabpickup-network-offline-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
@@ -74,6 +75,7 @@ firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ 
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 firefoxview-tabpickup-signed-out-header = ᱫᱩᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 firefoxview-tabpickup-signed-out-description = ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
+firefoxview-tabpickup-signed-out-description2 = ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-signed-out-primarybutton = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 firefoxview-tabpickup-syncing = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱥᱤᱝᱠ ᱡᱷᱚᱜ ᱟᱨᱟᱢ ᱨᱮ ᱫᱩᱲᱩᱵ ᱠᱚᱜ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱞᱚᱜᱚᱱ ᱜᱮ ᱦᱩᱭ ᱜᱚᱫᱚᱜᱼᱟ ᱾
 firefoxview-mobile-promo-header = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱵᱟᱝᱠᱷᱟᱱ ᱴᱮᱵᱽᱞᱮᱴ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱦᱚᱛᱟᱣ ᱢᱮ
@@ -155,8 +157,47 @@ firefoxview-opentabs-focus-tab =
     .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 firefoxview-show-more = ᱵᱚᱲᱛᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-show-less = ᱠᱚᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+firefoxview-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+firefoxview-search-text-box-clear-button =
+    .title = ᱯᱷᱟᱨᱪᱟ
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ᱱᱟᱜᱟᱢ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ᱱᱮᱛᱟᱨ ᱜᱮ ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ᱥᱭᱝᱠ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }” ᱞᱟᱹᱜᱤᱫ ᱛᱮᱞᱟ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { NUMBER($count) ->
+        [one] { $count } ᱥᱟᱭᱤᱴ
+        [two] { $count } ᱥᱟᱭᱤᱴᱠᱤᱱ
+       *[other] { $count } ᱥᱟᱭᱤᱴᱠᱚ
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = “{ $query }” ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱛᱮᱞᱟ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ
 firefoxview-sort-history-by-date-label = ᱢᱟᱦᱟᱸ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
 firefoxview-sort-history-by-site-label = ᱥᱟᱭᱤᱴ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+firefoxview-sort-open-tabs-by-recency-label = ᱱᱮᱛᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+firefoxview-sort-open-tabs-by-order-label = ᱴᱮᱵᱽ ᱚᱨᱰᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
