@@ -104,6 +104,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = בודק הסקירות
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = פתיחת היסטוריה ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = סגירת היסטוריה ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = פתיחת סימניות ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = סגירת סימניות ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = פתיחת צ’אט בוט AI
+sidebar-menu-close-ai-chatbot-tooltip = סגירת צ’אט בוט AI
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =

@@ -41,6 +41,8 @@ neterror-generic-error = מסיבה בלתי ידועה, אין ל־{ -brand-sho
 neterror-load-error-try-again = האתר איננו זמין כרגע או שהוא עמוס מדי. נא לנסות שוב בעוד מספר רגעים.
 neterror-load-error-connection = אם אינך מצליח לטעון שום דף, מומלץ לבדוק את הקישוריות של המחשב שלך לרשת.
 neterror-load-error-firewall = אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, יש לוודא כי { -brand-short-name } מורשה לגישה לרשת.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = אם הינך מנסה לטעון דף אינטרנט מקומי, נא לבדוק של־{ -brand-short-name } הוענקה הרשאות לרשת המקומית בהגדרות הפרטיות והאבטחה של macOS.
 neterror-captive-portal = עליך להתחבר לרשת זו כדי לגלוש באינטרנט.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
