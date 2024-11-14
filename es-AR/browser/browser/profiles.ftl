@@ -9,9 +9,22 @@ profile-window-body = Mantenga su navegación personal y laboral, incluyendo cos
 profile-window-checkbox-label =
     .label = Mostrar esto cuando se abra { -brand-short-name }
 profile-window-create-profile = Crear un perfil
+profile-card-edit-button =
+    .title = Editar el perfil
+    .aria-label = Editar el perfil
+profile-card-delete-button =
+    .title = Borrar perfil
+    .aria-label = Borrar perfil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Abrir { $profileName }
+    .aria-label = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil{ $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Perfil original
 edit-profile-page-title = Editar el perfil
 edit-profile-page-header = Editar su perfil
 edit-profile-page-profile-name-label = Nombre del perfil
