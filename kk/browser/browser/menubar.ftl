@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Мобильді бетбелгілер
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Профильдер
+menu-profiles-manage-profiles =
+    .label = Профильдерді басқару
+menu-profiles-new-profile =
+    .label = Жаңа профиль
+
 ## Tools Menu
 
 menu-tools =

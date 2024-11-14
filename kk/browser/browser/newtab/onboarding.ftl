@@ -356,6 +356,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Синхрондал�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } сізді қолдайды
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Foundation ұсынған { -brand-short-name } қолданбасын пайдаланғаныңыз үшін рахмет. Сіздің қолдауыңызбен біз интернетті қауіпсіздеу және әркім үшін қолжетімді ету үшін жұмыс істеп жатырмыз.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Деректеріңізді құрылғылар арасында синхрондау
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +417,6 @@ onboarding-genai-sidebar-title = Бүйір панелінде ЖИ чат-бо�
 onboarding-genai-sidebar-subtitle = Веб-мазмұнды қорытындылау, идеяларды талқылау, хабарламаларды жобалау - барлығын шолу кезінде жасаңыз. Бірнеше провайдерлерден таңдаңыз. Кез келген уақытта ауысыңыз.<a data-l10n-name="learn-more">Көбірек білу</a>
 onboarding-genai-sidebar-primary-button = Чат-ботты таңдау
 onboarding-genai-sidebar-secondary-button = Шолуды бастау
+
+## New user onboarding checklist
+
