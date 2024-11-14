@@ -50,3 +50,6 @@ genai-onboarding-gemini-price = ᱯᱚᱞᱟ ᱟᱨ ᱠᱤᱨᱤᱧ ᱢᱚᱱᱮ
 genai-onboarding-huggingchat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
 genai-onboarding-huggingchat-switch = ᱠᱷᱩᱞᱟᱹ ᱢᱳᱰᱮᱞ ᱨᱮᱭᱟᱜ ᱵᱷᱮᱜᱟᱨ ᱥᱮᱴ ᱛᱟᱞᱟ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 genai-onboarding-huggingchat-price-2 = ᱯᱚᱞᱟ ᱛᱮ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱮᱦᱚᱨ ᱛᱟᱭᱚᱢ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
+genai-onboarding-huggingchat-price = ᱯᱚᱞᱟ ᱛᱮ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
+genai-onboarding-lechat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
+genai-onboarding-lechat-price = ᱯᱚᱞᱟ ᱛᱮ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ

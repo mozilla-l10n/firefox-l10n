@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -141,6 +147,8 @@ menu-view-history-button =
     .label = ᱱᱟᱜᱟᱢ
 menu-view-synced-tabs-sidebar =
     .label = ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵᱽ ᱠᱚ
+menu-view-megalist-sidebar =
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 menu-view-full-zoom =
     .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
     .accesskey = ᱦ
@@ -248,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
 
+## Profiles Menu
+
+menu-profiles =
+    .label = ᱢᱮᱫᱦᱟᱸᱠᱚ
+menu-profiles-manage-profiles =
+    .label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+menu-profiles-new-profile =
+    .label = ᱱᱟᱶᱟ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ
+
 ## Tools Menu
 
 menu-tools =
@@ -343,3 +360,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ᱱᱚᱶᱟ ᱫᱚ ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
     .accesskey = D
+menu-report-broken-site =
+    .label = ᱢᱤᱫᱴᱟᱝ ᱨᱟᱹᱯᱩᱫ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
