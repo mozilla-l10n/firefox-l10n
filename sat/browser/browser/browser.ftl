@@ -674,6 +674,26 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ᱞᱚᱜᱚᱱ ᱛᱮᱭᱟ ᱠᱚᱢᱤ
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine } ᱨᱮ ᱴᱨᱮᱱᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = ᱤᱧ ᱪᱮᱫᱟᱜ ᱱᱚᱣᱟᱧ ᱧᱮᱞᱮᱫᱼᱟ ?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱢ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾
 
 ## Reader View toolbar buttons
 
@@ -941,6 +961,7 @@ restore-session-startup-suggestion-button = ᱫᱚᱠᱷᱟᱣ ᱟᱹᱧ ᱢᱮ 
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱫᱚ ᱱᱚᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ ᱞᱚᱠᱟᱞ ᱨᱮᱫ ᱠᱚ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱵᱚᱱᱫᱚ ᱠᱮᱫᱟᱭ
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -950,6 +971,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 
 ## Unified extensions (toolbar) button
 
