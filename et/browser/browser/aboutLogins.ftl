@@ -125,6 +125,11 @@ login-item-edit-button = Muuda
 about-logins-login-item-remove-button = Eemalda
 login-item-origin-label = Saidi aadress
 login-item-tooltip-message = Veenduge, et see kattuks saidi täpse aadressiga, kuhu te sisse logite.
+about-logins-origin-tooltip2 = Sisesta täielik aadress ja veendu, et see vastaks täpselt sisselogimiskohale.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Veendu, et salvestad selle saidi praeguse parooli. Siin parooli muutmine ei muuda seda saidil { $webTitle }.
+about-logins-add-password-tooltip = Veendu, et salvestad selle saidi praeguse parooli.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kasutajanimi
@@ -135,9 +140,12 @@ login-item-copied-username-button-text = Kopeeritud!
 login-item-password-label = Parool
 login-item-password-reveal-checkbox =
     .aria-label = Kuva parooli
+login-item-password-conceal-checkbox =
+    .aria-label = Parool peidetakse
 login-item-copy-password-button-text = Kopeeri
 login-item-copied-password-button-text = Kopeeritud!
 login-item-save-changes-button = Salvesta muudatused
+about-logins-login-item-save-changes-button = Salvesta
 login-item-save-new-button = Salvesta
 login-item-cancel-button = Loobu
 
