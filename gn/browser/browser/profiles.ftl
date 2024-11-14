@@ -8,9 +8,22 @@ profile-window-heading = Eiporavo poruhára mba’ete { -brand-short-name }
 profile-window-checkbox-label =
     .label = Ehechauka kóva ijurujávo { -brand-short-name }
 profile-window-create-profile = Emoheñói mba’ete
+profile-card-edit-button =
+    .title = Embosako’i mba’ete
+    .aria-label = Embosako’i mba’ete
+profile-card-delete-button =
+    .title = Emboguete mba’ete
+    .aria-label = Emboguete mba’ete
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Embojuruja { $profileName }
+    .aria-label = Embojuruja { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Mba’ete { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Mba’ete ha’etéva
 edit-profile-page-title = Embosako’i mba’ete
 edit-profile-page-header = Embosako’i ne mba’ete
 edit-profile-page-profile-name-label = Mba’ete réra

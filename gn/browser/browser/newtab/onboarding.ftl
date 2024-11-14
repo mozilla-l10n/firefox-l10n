@@ -421,3 +421,8 @@ onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha
 ## New user onboarding checklist
 
 onboarding-checklist-title = Embohekopákatu { -brand-short-name }
+onboarding-checklist-set-default = Ajapo { -brand-short-name }-gui kundahára ypyguáva
+onboarding-checklist-pin = Emboja { -brand-short-name } tembiaporã rendápe
+onboarding-checklist-import = Emba’egueru kundahára itujavévagui
+onboarding-checklist-extension = Embojuaju jepysokue
+onboarding-checklist-sign-up = Eike térã eñemboheraguapy ne mba’etépe
