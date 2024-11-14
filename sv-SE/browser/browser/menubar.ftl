@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobila bokmärken
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profiler
+menu-profiles-manage-profiles =
+    .label = Hantera profiler
+menu-profiles-new-profile =
+    .label = Ny profil
+
 ## Tools Menu
 
 menu-tools =
