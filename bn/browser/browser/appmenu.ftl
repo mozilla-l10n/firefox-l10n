@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = চালু করুন
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 appmenuitem-fxa-sync-off-title = সিঙ্ক বন্ধ আছে
+appmenuitem-fxa-sync-off-description = আপনার বুকমার্ক, পাসওয়ার্ড এবং আরও অনেক কিছু যেকোন জায়গায় সুরক্ষিত করুন এবং ব্যবহার করুন৷
 
 ## What's New panel in App menu.
 
