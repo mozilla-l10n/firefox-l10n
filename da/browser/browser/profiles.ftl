@@ -38,3 +38,7 @@ profiles-magnolia-theme = Magnolia
 profiles-moss-theme = Mos
 # The default light theme
 profiles-light-theme = Lyst
+# The default dark theme
+profiles-dark-theme = Mørkt
+# The default system theme
+profiles-system-theme = System

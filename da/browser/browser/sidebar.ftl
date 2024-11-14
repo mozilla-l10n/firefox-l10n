@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-Chatbot
 menu-view-review-checker =
     .label = Verificering af anmeldelser
+sidebar-options-menu-button =
+    .title = Åbn menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Udvid og sammenfold sidepanelet
 sidebar-visibility-setting-hide-sidebar =
     .label = Vis og skjul sidepanelet
-sidebar-customize-settings-header =
-    .label = Indstillinger for sidepanel
-sidebar-visibility-always-show =
-    .label = Vis altid
-sidebar-visibility-hide-sidebar =
-    .label = Skjul sidepanel
 
 ## Labels for sidebar context menu items
 
@@ -107,6 +103,13 @@ sidebar-menu-customize-label =
     .label = Tilpas sidepanel
 sidebar-menu-review-checker-label =
     .label = Verificering af anmeldelser
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Åbn historik ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
