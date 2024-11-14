@@ -153,6 +153,12 @@ login-item-cancel-button = Loobu
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Loodud
+login-item-timeline-action-updated = Uuendatud
+login-item-timeline-action-used = Kasutatud
 
 ## OS Authentication dialog
 
@@ -167,6 +173,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Kasutajakonto muutmiseks si
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] change the settings for passwords
+       *[other] { -brand-short-name } üritab paroolide sätteid muuta. Selle võimaldamiseks kasuta oma seadme sisselogimise tunnuseid.
+    }
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parooli vaatamiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to reveal a password in about:logins
