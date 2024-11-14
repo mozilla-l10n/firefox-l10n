@@ -9,9 +9,22 @@ profile-window-body = Hold dit arbejde og dit privatliv helt adskilt på nettet 
 profile-window-checkbox-label =
     .label = Vis dette, når { -brand-short-name } startes
 profile-window-create-profile = Opret en profil
+profile-card-edit-button =
+    .title = Rediger profil
+    .aria-label = Rediger profil
+profile-card-delete-button =
+    .title = Slet profil
+    .aria-label = Slet profil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Åbn { $profileName }
+    .aria-label = Åbn { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Oprindelig profil
 edit-profile-page-title = Rediger profil
 edit-profile-page-header = Rediger din profil
 edit-profile-page-profile-name-label = Profilnavn
@@ -25,10 +38,25 @@ edit-profile-page-duplicate-name = Profilnavnet er allerede i brug. Prøv et nyt
 edit-profile-page-profile-saved = Gemt
 new-profile-page-title = Ny profil
 new-profile-page-header = Tilpas din nye profil
+new-profile-page-header-description = Hver profil har sin egen browserhistorik og sine egne indstillinger, som er adskilt fra dine andre profiler. Desuden er { -brand-short-name }' stærke beskyttelse af dit privatliv aktiveret som standard.
 new-profile-page-learn-more = Læs mere
+new-profile-page-done-button =
+    .label = Redigering fuldført
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Slet profilen { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Slet profilen { $profilename }?
+delete-profile-description = { -brand-short-name } vil permanent slette følgende data fra denne enhed:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Åbne vinduer
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Åbne faneblade
+delete-profile-bookmarks = Bogmærker
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
