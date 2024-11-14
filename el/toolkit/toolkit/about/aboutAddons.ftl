@@ -295,6 +295,14 @@ find-more-themes = Εύρεση περισσότερων θεμάτων
 # used for screen readers.
 addon-options-button =
     .aria-label = Περισσότερες επιλογές
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Οι επεκτάσεις και τα θέματα σάς επιτρέπουν να προσαρμόσετε το { -brand-product-name }. Μπορούν να
+    ενισχύσουν το απόρρητο και την παραγωγικότητα, να βελτιώσουν τα πολυμέσα, να αλλάξουν την εμφάνιση
+    του { -brand-product-name } και πολλά άλλα. Αυτά τα μικρά προγράμματα αναπτύσσονται συνήθως από
+    τρίτους δημιουργούς. Ακολουθεί μια συλλογή από <a data-l10n-name="learn-more-trigger">προτάσεις</a> του { -brand-product-name }
+    για μέγιστη ασφάλεια, παραγωγικότητα και λειτουργικότητα.
 
 ## Add-on actions
 
