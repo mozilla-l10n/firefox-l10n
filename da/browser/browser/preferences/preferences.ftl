@@ -839,13 +839,6 @@ sync-engine-settings =
     .label = Indstillinger
     .tooltiptext = Generelle indstillinger, samt indstillinger for privatliv og sikkerhed, som du har ændret
     .accesskey = I
-sync-choose-what-to-sync-dialog4 =
-    .title = Håndter, hvad som skal synkroniseres til dine tilknyttede enheder
-    .style = min-width: 36em;
-    .buttonlabelaccept = Gem
-    .buttonaccesskeyaccept = G
-    .buttonlabelextra2 = Afbryd forbindelse…
-    .buttonaccesskeyextra2 = A
 
 ## The device name controls.
 
