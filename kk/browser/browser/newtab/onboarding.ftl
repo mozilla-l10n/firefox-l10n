@@ -358,6 +358,8 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } сізд
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Foundation ұсынған { -brand-short-name } қолданбасын пайдаланғаныңыз үшін рахмет. Сіздің қолдауыңызбен біз интернетті қауіпсіздеу және әркім үшін қолжетімді ету үшін жұмыс істеп жатырмыз.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Деректеріңізді құрылғылар арасында синхрондау
+onboarding-sign-up-button = Тіркелгіні жасау немесе кіру
+onboarding-sign-up-secondary-button = Шолуды бастау
 
 ## New user time and familiarity survey strings
 

@@ -9,6 +9,9 @@ profile-window-body = Парольдер мен бетбелгілер сияқ�
 profile-window-checkbox-label =
     .label = { -brand-short-name } ашылған кезде мұны көрсету
 profile-window-create-profile = Профиль жасау
+profile-card-edit-button =
+    .title = Профильді түзету
+    .aria-label = Профильді түзету
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профиль { $number }
