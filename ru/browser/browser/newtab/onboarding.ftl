@@ -356,6 +356,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = При использ
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } прикрывает вашу спину
 onboarding-gratitude-security-and-privacy-subtitle = Благодарим вас за использование { -brand-short-name }, поддерживаемого Mozilla Foundation. При вашей поддержке мы работаем над тем, чтобы сделать Интернет безопаснее и доступнее для всех.
+onboarding-sign-up-button = Зарегистрироваться или войти
+onboarding-sign-up-secondary-button = Начать веб-сёрфинг
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +417,6 @@ onboarding-genai-sidebar-title = Попробуйте ИИ-чат-бот в бо
 onboarding-genai-sidebar-subtitle = Суммируйте веб-содержимое, используйте идеи, черновики сообщений — и всё это во время интернет-сёрфинга. Выбирайте из множества провайдеров. Переключайтесь в любое время. <a data-l10n-name="learn-more">Подробнее</a>
 onboarding-genai-sidebar-primary-button = Выберите чат-бот
 onboarding-genai-sidebar-secondary-button = Начать веб-сёрфинг
+
+## New user onboarding checklist
+

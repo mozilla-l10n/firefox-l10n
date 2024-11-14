@@ -262,6 +262,8 @@ menu-profiles =
     .label = Профили
 menu-profiles-manage-profiles =
     .label = Управление профилями
+menu-profiles-new-profile =
+    .label = Новый профиль
 
 ## Tools Menu
 
