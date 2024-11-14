@@ -41,6 +41,8 @@ neterror-generic-error = Το { -brand-short-name } δεν μπορεί να φ�
 neterror-load-error-try-again = Ο ιστότοπος ενδέχεται να είναι προσωρινά μη διαθέσιμος ή πολύ απασχολημένος. Δοκιμάστε ξανά σε λίγο.
 neterror-load-error-connection = Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τη σύνδεση δικτύου του υπολογιστή σας.
 neterror-load-error-firewall = Αν ο υπολογιστής ή το δίκτυό σας προστατεύονται από τείχος προστασίας ή διακομιστή μεσολάβησης, βεβαιωθείτε ότι επιτρέπεται στο { -brand-short-name } η πρόσβαση στο διαδίκτυο.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Εάν προσπαθείτε να φορτώσετε μια σελίδα τοπικού δικτύου, ελέγξτε αν έχουν χορηγηθεί στο { -brand-short-name } δικαιώματα τοπικού δικτύου από τις ρυθμίσεις απορρήτου και ασφάλειας του macOS.
 neterror-captive-portal = Πρέπει να συνδεθείτε σε αυτό το δίκτυο πριν μπορέσετε να αποκτήσετε πρόσβαση στο διαδίκτυο.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
