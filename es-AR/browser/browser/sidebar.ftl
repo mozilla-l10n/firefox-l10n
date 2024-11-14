@@ -114,6 +114,16 @@ sidebar-menu-open-history-tooltip = Abrir historial ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-history-tooltip = Cerrar historial ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Abrir marcadores ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Cerrar marcadores ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Abrir chatbot IA
+sidebar-menu-close-ai-chatbot-tooltip = Cerrar chatbot IA
 
 ## Headings for sidebar menu panels.
 
