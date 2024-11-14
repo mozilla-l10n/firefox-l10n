@@ -354,6 +354,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kur keni bërë njëk
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ju mbron krahët
 onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Njëkohësoni të dhënat tuaja mes pajisjesh
+onboarding-sign-up-description = Regjistrohuni për një llogari dhe krejt informacionet tuaja të rëndësishme — fjalëkalime, faqerojtës, etj — do të depozitohen në mënyrë të siguruar dhe do të jenë të përdorshëm, kur të bëni hyrjen në llogarinë te cilado.
+onboarding-sign-up-button = Hyni ose regjistrohuni
+onboarding-sign-up-secondary-button = Nisni shfletimin
 
 ## New user time and familiarity survey strings
 
@@ -413,3 +418,8 @@ onboarding-genai-sidebar-title = Provoni te anështylla një robot IA fjalosjesh
 onboarding-genai-sidebar-subtitle = Krijoni përmbledhje lënde web, përftoni ide të reja, hartoni mesazhe — krejt kjo teksa shfletoni. Zgjidhni prej shërbimesh të ndryshme. Ndërroni mënyrën kur të doni. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 onboarding-genai-sidebar-primary-button = Zgjidhni një robot fjalosjesh
 onboarding-genai-sidebar-secondary-button = Nisni shfletimin
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Përfundoni ujdisjen e { -brand-short-name }
+onboarding-checklist-subtitle = Përfundoni këta hapa që të përfitoni maksimumin nga puna juaj me shfletuesin.

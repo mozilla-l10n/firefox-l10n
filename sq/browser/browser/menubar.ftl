@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Faqerojtës Celulari
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profile
+menu-profiles-manage-profiles =
+    .label = Administroni profile
+menu-profiles-new-profile =
+    .label = Profil i ri
+
 ## Tools Menu
 
 menu-tools =
