@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobilos könyvjelzők
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profilok
+menu-profiles-manage-profiles =
+    .label = Profilok kezelése
+menu-profiles-new-profile =
+    .label = Új profil
+
 ## Tools Menu
 
 menu-tools =

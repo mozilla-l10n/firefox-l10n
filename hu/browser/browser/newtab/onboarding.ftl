@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Ha befejeződik a szi
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Számíthat a { -brand-short-name }ra
 onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Adatok szinkronizálása az eszközök közt
+onboarding-sign-up-description = Regisztráljon egy fiókot, és minden fontos információja – jelszavak, könyvjelzők és egyeket – biztonságosan lesz tárolva, és elérhető lesz, ha bejelentkezik bármely eszközön.
+onboarding-sign-up-button = Regisztráljon vagy jelentkezzen be
+onboarding-sign-up-secondary-button = Böngészés megkezdése
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +420,13 @@ onboarding-genai-sidebar-title = Próbáljon ki egy MI csevegőbotot az oldalsá
 onboarding-genai-sidebar-subtitle = Foglalja össze a webes tartalmakat, ötleteljen, írjon összes piszkozatokat – mindezt böngészés közben. Válasszon több szolgáltató közül. Váltson bármikor. <a data-l10n-name="learn-more">További információk</a>
 onboarding-genai-sidebar-primary-button = Válasszon csevegőbotot
 onboarding-genai-sidebar-secondary-button = Böngészés megkezdése
+
+## New user onboarding checklist
+
+onboarding-checklist-title = A { -brand-short-name } beállításának befejezése
+onboarding-checklist-subtitle = Végezze el ezeket a lépéseket, hogy a legtöbbet hozza ki a böngészési élményéből.
+onboarding-checklist-set-default = A { -brand-short-name } beállítása alapértelmezett böngészőként
+onboarding-checklist-pin = A { -brand-short-name } rögzítése a tálcára
+onboarding-checklist-import = Importálás az előző böngészőből
+onboarding-checklist-extension = Egy kiegészítő hozzáadása
+onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
