@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Σελιδοδείκτες κινητού
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Προφίλ
+menu-profiles-manage-profiles =
+    .label = Διαχείριση προφίλ
+menu-profiles-new-profile =
+    .label = Νέο προφίλ
+
 ## Tools Menu
 
 menu-tools =

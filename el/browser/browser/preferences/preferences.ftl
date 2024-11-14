@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Πιστωτικές κάρτες
 sync-currently-syncing-payment-methods = Μέθοδοι πληρωμής
 sync-currently-syncing-addons = Πρόσθετα
 sync-currently-syncing-settings = Ρυθμίσεις
+sync-manage-options =
+    .label = Διαχείριση συγχρονισμού…
+    .accesskey = Δ
 sync-change-options =
     .label = Αλλαγή…
     .accesskey = Α
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Ρυθμίσεις
     .tooltiptext = Ρυθμίσεις που έχετε αλλάξει στις ενότητες "Γενικά" και "Απόρρητο & ασφάλεια"
     .accesskey = θ
+sync-choose-what-to-sync-dialog4 =
+    .title = Διαχειριστείτε τι συγχρονίζεται σε όλες τις συνδεδεμένες συσκευές σας
+    .style = min-width: 36em;
+    .buttonlabelaccept = Αποθήκευση
+    .buttonaccesskeyaccept = Α
+    .buttonlabelextra2 = Αποσύνδεση…
+    .buttonaccesskeyextra2 = π
 
 ## The device name controls.
 
