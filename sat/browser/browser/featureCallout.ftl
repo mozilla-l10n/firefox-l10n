@@ -89,3 +89,8 @@ sidebar-callout-survey-keep-website-open = ᱢᱤᱫ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ
 sidebar-callout-survey-saved-websites = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱩᱥᱟᱹᱨᱟ ᱟᱫᱮᱨ ᱢᱮ
 sidebar-callout-survey-none-of-above = ᱪᱮᱛᱟᱱ ᱨᱮ ᱚᱠᱟ ᱦᱚᱸ ᱵᱟᱝ
 sidebar-callout-survey-submit = ᱡᱚᱢᱟᱭ ᱢᱮ
+sidebar-callout-survey-thank-you = ᱟᱢᱟᱜ ᱴᱤᱯᱚᱬᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ!
+sidebar-genai-survey-satisfaction-question = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ AI ᱪᱟᱴᱵᱚᱴ ᱟᱫᱮᱨ ᱧᱟᱢ ᱠᱟᱛᱮ ᱟᱢ ᱛᱤᱱᱟᱹᱜ ᱫᱷᱤᱨᱯᱩᱨ ᱢᱮᱱᱟᱜ ᱢᱮᱭᱟ ?
+sidebar-genai-survey-productive-question =
+    ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱛᱷᱟ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱦᱟᱵᱤᱡ ᱨᱮᱵᱮᱱ ᱥᱮ ᱵᱟᱝ ᱨᱮᱵᱮᱱ ᱢᱮᱱᱟᱢᱟ:<br/>
+    “AI ᱪᱟᱴᱵᱚᱴ ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱤᱧ ᱵᱟᱹᱲᱛᱤ ᱞᱟᱵᱷᱟᱱ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱟᱹᱧᱟᱭ” ?

@@ -12,11 +12,15 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+firefoxview-empty-state-icon =
+    .alt = ᱦᱮᱥᱤᱭᱟᱹᱨ :
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ᱱᱤᱛᱚᱜ ᱜᱮ
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -28,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ᱯᱩᱨᱟᱹᱣ ᱮ
 firefoxview-tabpickup-step-signin-header = ᱥᱟᱫᱷᱚᱱ ᱛᱟᱞᱟ ᱨᱮ ᱚᱫᱚᱞᱵᱚᱫᱚᱞᱚᱜ ᱢᱮ
 firefoxview-tabpickup-step-signin-description = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱱᱚᱰᱮ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱢᱟᱲᱟᱝ ᱫᱚ ᱟᱢ ᱥᱩᱦᱤ ᱮᱢ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱟᱨᱵᱟᱝ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
 firefoxview-tabpickup-step-signin-primarybutton = ᱞᱮᱛᱟᱲ
+firefoxview-syncedtabs-signin-header-2 = ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ { -brand-product-name }
+firefoxview-syncedtabs-signin-description-2 = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱨᱮ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ ᱢᱤᱫ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱜᱤᱫ ᱧᱩᱛᱩᱢ ᱮᱢᱚᱜ ᱢᱮ ᱾  ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱟᱣᱩᱱᱴ ᱥᱟᱶᱛᱮ, ᱟᱢ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥᱠᱚ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾
+firefoxview-syncedtabs-signin-primarybutton-2 = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 firefoxview-syncedtabs-signin-header = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
 firefoxview-syncedtabs-signin-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱹᱱᱩᱜ ᱠᱷᱟᱱ, ᱟᱢ ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱠᱚᱨᱮ ᱟᱢ ᱥᱟᱶ ᱞᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 firefoxview-syncedtabs-signin-primarybutton = ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱥᱮ ᱧᱩᱛᱩᱢ ᱚᱞ ᱦᱚᱪᱚᱭ ᱢᱮ
@@ -35,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } ᱫᱚ ᱟᱢ�
 firefoxview-tabpickup-adddevice-description = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ  { -brand-product-name } ᱰᱟᱣᱱᱞᱳᱰ ᱢᱮ ᱟᱨ ᱚᱱᱰᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-adddevice-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
+firefoxview-syncedtabs-adddevice-header-2 = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
+firefoxview-syncedtabs-adddevice-description-2 = ᱱᱚᱸᱰᱮ ᱴᱮᱵᱽ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱥᱮ ᱮᱴᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ { -brand-product-name } ᱨᱮ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟᱭ ᱢᱮ ᱾  ᱪᱮᱫ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱛᱮ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱡᱚᱯᱲᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ</a>᱾
 firefoxview-syncedtabs-adddevice-header = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 firefoxview-syncedtabs-adddevice-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱮᱫᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱚᱫᱷᱚᱱ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱᱠᱚ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ</a> ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
 firefoxview-syncedtabs-adddevice-primarybutton = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ { -brand-product-name } ᱪᱮᱥᱴᱟᱭ ᱢᱮ
@@ -46,6 +55,7 @@ firefoxview-syncedtabs-synctabs-header = ᱟᱢᱟᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ 
 firefoxview-syncedtabs-synctabs-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 firefoxview-syncedtabs-synctabs-checkbox = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱴᱮᱵᱽ ᱠᱚ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-syncedtabs-loading-header = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ
+firefoxview-syncedtabs-loading-description = ᱡᱚᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱯᱩᱨᱟᱹᱣ ᱞᱮᱱᱠᱷᱟᱱ, ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱡᱟᱦᱟᱱ ᱴᱮᱵᱽ ᱜᱮᱢ ᱧᱮᱞᱟ ᱾ ᱞᱚᱜᱚᱱ ᱫᱚᱦᱲᱟ ᱧᱮᱞ ᱢᱮ᱾
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
@@ -208,3 +218,13 @@ firefoxview-recentlyclosed-empty-description-two = ᱡᱟᱦᱱᱟᱜ ᱢᱟᱨ�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱪᱮᱫ ᱴᱮᱵᱽ ᱵᱟᱭ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱᱟ
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
