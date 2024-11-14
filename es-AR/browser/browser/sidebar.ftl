@@ -104,6 +104,17 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Verificador de revisiones
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Abrir historial ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Cerrar historial ({ $shortcut })
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
