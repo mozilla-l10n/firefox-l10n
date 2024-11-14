@@ -34,3 +34,7 @@ new-profile-page-learn-more = Læs mere
 
 # This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-magnolia-theme = Magnolia
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Mos
+# The default light theme
+profiles-light-theme = Lyst
