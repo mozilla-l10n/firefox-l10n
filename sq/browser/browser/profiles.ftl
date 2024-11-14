@@ -9,9 +9,22 @@ profile-window-body = Mbani punën tuaj dhe shfletimin personal, përfshi gjëra
 profile-window-checkbox-label =
     .label = Shfaqe këtë kur hapet { -brand-short-name }-i
 profile-window-create-profile = Krijoni profil
+profile-card-edit-button =
+    .title = Përpunoni profil
+    .aria-label = Përpunoni profil
+profile-card-delete-button =
+    .title = Fshini profil
+    .aria-label = Fshini profil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Hapni { $profileName }
+    .aria-label = Hapni { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profili { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Profili origjinal
 edit-profile-page-title = Përpunoni profil
 edit-profile-page-header = Përpunoni profilin tuaj
 edit-profile-page-profile-name-label = Emër profili

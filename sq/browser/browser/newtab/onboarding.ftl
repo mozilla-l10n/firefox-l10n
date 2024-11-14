@@ -423,3 +423,8 @@ onboarding-genai-sidebar-secondary-button = Nisni shfletimin
 
 onboarding-checklist-title = Përfundoni ujdisjen e { -brand-short-name }
 onboarding-checklist-subtitle = Përfundoni këta hapa që të përfitoni maksimumin nga puna juaj me shfletuesin.
+onboarding-checklist-set-default = Vëreni { -brand-short-name }-in si shfletuesin parazgjedhje
+onboarding-checklist-pin = Fiksoje { -brand-short-name }-in te paneli
+onboarding-checklist-import = Importo prej shfletuesi të mëparshëm
+onboarding-checklist-extension = Shtoni një zgjerim
+onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj

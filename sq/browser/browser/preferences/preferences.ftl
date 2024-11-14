@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Karta krediti
 sync-currently-syncing-payment-methods = Metoda pagesash
 sync-currently-syncing-addons = Shtesa
 sync-currently-syncing-settings = Rregullime
+sync-manage-options =
+    .label = Administroni njëkohësim…
+    .accesskey = A
 sync-change-options =
     .label = Ndryshojini…
     .accesskey = N
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Rregullime
     .tooltiptext = Rregullime të Përgjithshme, Privatësie dhe Sigurie që keni ndryshuar
     .accesskey = R
+sync-choose-what-to-sync-dialog4 =
+    .title = Administroni ç’njëkohësohet në krejt pajisjet tuaja të lidhura
+    .style = min-width: 36em;
+    .buttonlabelaccept = Ruaje
+    .buttonaccesskeyaccept = R
+    .buttonlabelextra2 = Shkëputeni……
+    .buttonaccesskeyextra2 = K
 
 ## The device name controls.
 
