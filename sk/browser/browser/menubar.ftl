@@ -256,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Záložky mobilného Firefoxu
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profily
+menu-profiles-manage-profiles =
+    .label = Spravovať profily
+menu-profiles-new-profile =
+    .label = Nový profil
+
 ## Tools Menu
 
 menu-tools =

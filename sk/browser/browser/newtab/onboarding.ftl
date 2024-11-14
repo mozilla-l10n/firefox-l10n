@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Počas synchronizáci
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje chrbát
 onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate { -brand-short-name } podporovaný Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a prístupnejší pre každého.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synchronizujte svoje údaje medzi zariadeniami
+onboarding-sign-up-description = Zaregistrujte si účet a všetky vaše dôležité informácie – heslá, záložky a ďalšie – budú bezpečne uložené a dostupné, keď sa prihlásite do akéhokoľvek zariadenia.
+onboarding-sign-up-button = Zaregistrujte sa alebo sa prihláste
+onboarding-sign-up-secondary-button = Začať prehliadať
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +420,13 @@ onboarding-genai-sidebar-title = Vyskúšajte chatbota AI na bočnom paneli
 onboarding-genai-sidebar-subtitle = Získajte súhrn obsahu na stránkach, poraďte sa ohľadom vašich nápadov či píšte správy – to všetko počas prehliadania. Vyberte si z viacerých poskytovateľov. Meniť ich môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 onboarding-genai-sidebar-primary-button = Vyberte si chatbota
 onboarding-genai-sidebar-secondary-button = Začať prehliadať
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Dokončite nastavenie { -brand-short-name(case: "gen") }
+onboarding-checklist-subtitle = Vykonajte tieto kroky, aby ste z prehliadania vyťažili maximum.
+onboarding-checklist-set-default = Nastaviť { -brand-short-name } ako predvolený prehliadač
+onboarding-checklist-pin = Pripnúť { -brand-short-name } na hlavný panel úloh
+onboarding-checklist-import = Importovať z predchádzajúceho prehliadača
+onboarding-checklist-extension = Pridať rozšírenie
+onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho účtu

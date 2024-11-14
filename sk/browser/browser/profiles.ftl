@@ -9,9 +9,22 @@ profile-window-body = Udržujte svoje pracovné a osobné prehliadanie, vrátane
 profile-window-checkbox-label =
     .label = Zobrazovať vždy pri spustení { -brand-short-name(case: "gen") }
 profile-window-create-profile = Vytvoriť profil
+profile-card-edit-button =
+    .title = Upraviť profil
+    .aria-label = Upraviť profil
+profile-card-delete-button =
+    .title = Odstrániť profil
+    .aria-label = Odstrániť profil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Otvoriť { $profileName }
+    .aria-label = Otvoriť { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Pôvodný profil
 edit-profile-page-title = Úprava profilu
 edit-profile-page-header = Upravte svoj profil
 edit-profile-page-profile-name-label = Názov profilu

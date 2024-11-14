@@ -792,6 +792,9 @@ sync-currently-syncing-creditcards = Platobné karty
 sync-currently-syncing-payment-methods = Spôsoby platby
 sync-currently-syncing-addons = Doplnky
 sync-currently-syncing-settings = Nastavenia
+sync-manage-options =
+    .label = Spravovať synchronizáciu…
+    .accesskey = S
 sync-change-options =
     .label = Zmeniť…
     .accesskey = Z
@@ -844,6 +847,13 @@ sync-engine-settings =
     .label = Nastavenia
     .tooltiptext = Zmenené nastavenia v sekciách Všeobecné, Súkromie a bezpečnosť
     .accesskey = a
+sync-choose-what-to-sync-dialog4 =
+    .title = Spravujte, čo sa synchronizuje na všetkých vašich pripojených zariadeniach
+    .style = min-width: 36em;
+    .buttonlabelaccept = Uložiť
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra2 = Odpojiť…
+    .buttonaccesskeyextra2 = O
 
 ## The device name controls.
 
