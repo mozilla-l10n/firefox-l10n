@@ -88,8 +88,13 @@ perftools-presets-graphics-label = Slike
 perftools-presets-graphics-description = Zadana postavka za istraživanje slikovnih grešaka u { -brand-shorter-name(case: "loc") }.
 perftools-presets-media-label = Mediji
 perftools-presets-media-description2 = Zadana postavka za istraživanje audio i video grešaka u { -brand-shorter-name(case: "loc") }.
+perftools-presets-networking-label = Mrežno povezivanje
 perftools-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Struja
 perftools-presets-power-description = Zadana postavka za istraživanje grešaka potrošnje energije u { -brand-shorter-name(case: "loc") }.
+perftools-presets-debug-label = Otklanjanje grešaka
+perftools-presets-custom-label = Prilagođeno
 
 ##
 
