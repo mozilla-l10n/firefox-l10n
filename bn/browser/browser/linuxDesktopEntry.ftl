@@ -11,7 +11,14 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = ওয়ার্ল্ড ওয়াইড ওয়েব ব্রাউজ করুন
 desktop-entry-generic-name = ওয়েব ব্রাউজার
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = ইন্টারনেট;WWW;ব্রাউজার;ওয়েব;এক্সপ্লোরার;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
+desktop-action-new-window-name = নতুন উইন্ডো
+desktop-action-new-private-window-name = নতুন ব্যক্তিগত উইন্ডো
