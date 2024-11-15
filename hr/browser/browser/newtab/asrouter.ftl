@@ -311,10 +311,14 @@ fxa-menu-message-backup-data-primary-text = Sigurnosno kopiraj podatke pregledni
 fxa-menu-message-backup-data-collapsed-text = Sigurnosno kopiraj podatke preglednika
 fxa-menu-message-backup-sync-primary-text = Čuvajte svoje podatke sigurno i sinkronizirano
 fxa-menu-message-backup-sync-secondary-text = Sinkronizacija sigurnosno kopira većinu tvojih podataka tako da im možeš pristupiti svugdje gdje koristiš { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sinkronizacija i sigurnosno kopiranje podataka
 fxa-menu-message-mobile-primary-text = Pošalji kartice na svoj telefon
 fxa-menu-message-mobile-collapsed-text = Sinkroniziraj sa svojim telefonom
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Dobro došli natrag
+multi-cta-fox-doodle-set-default-checkbox = Postavi { -brand-short-name } kao standardni preglednik
+multi-cta-fox-doodle-pin-startmenu-checkbox = Prikvači { -brand-short-name } na izbornik Start
 multi-cta-fox-doodle-start-browsing-primary-button-label = Počni pregledavati
 multi-cta-fox-doodle-main-browser-primary-button-label = Postavi { -brand-short-name } kao glavni preglednik
