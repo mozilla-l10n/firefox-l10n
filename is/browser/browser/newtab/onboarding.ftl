@@ -357,6 +357,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Þegar þú hefur sam
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } hefur stuðning af þér
 onboarding-gratitude-security-and-privacy-subtitle = Takk fyrir að nota { -brand-short-name }, sem stutt er af Mozilla stofnuninni. Með stuðningi þínum erum við að vinna að því að gera internetið öruggara, aðgengilegra og betra fyrir alla.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Samstilltu gögnin þín milli tækja
+onboarding-sign-up-button = Nýskráðu þig eða skráðu þig inn
+onboarding-sign-up-secondary-button = Fara að vafra
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +420,7 @@ onboarding-genai-sidebar-title = Prófaðu gervigreindar-spjallkerfi í hliðars
 onboarding-genai-sidebar-subtitle = Taktu saman yfirlit í efni á vefnum, fáðu hugmyndir, gerðu drög að skilaboðum - allt á meðan þú vafrar. Veldu úr mörgum þjónustuveitum. Skiptu um hvenær sem er. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 onboarding-genai-sidebar-primary-button = Veldu spjallkerfi
 onboarding-genai-sidebar-secondary-button = Fara að vafra
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Ljúka við að setja upp { -brand-short-name }?
