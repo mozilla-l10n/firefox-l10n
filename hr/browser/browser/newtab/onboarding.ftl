@@ -359,6 +359,9 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam čuv
 onboarding-gratitude-security-and-privacy-subtitle = Hvala što koristiš { -brand-short-name } kojeg podupire Mozilla zaklada. Uz tvoju podršku, radimo na tome da učinimo Internet sigurnijim i dostupnijim za sve.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinkroniziraj svoje podatke na svim uređajima
+onboarding-sign-up-description = Registriraj se i sve tvoji važni podaci – lozinke, oznake i više – će se sigurno spremiti i biti dostupni kada se prijaviš na bilo koji uređaj.
+onboarding-sign-up-button = Registriraj se ili se prijavi
+onboarding-sign-up-secondary-button = Počni pregledavati
 
 ## New user time and familiarity survey strings
 
@@ -381,14 +384,23 @@ onboarding-new-user-survey-familiarity-based-option-4 = Koristio/la sam ga u pro
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Reci nam gdje želiš prikazati kartice
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Promijeni položaj kad god želiš u postavkama bočne trake.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Kartice na strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Kartice gore
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Sada postoje okomito poredane kartice
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Prozor preglednika koji prikazuje kartice u gornjem rubu.
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Prozor preglednika koji prikazuje kartice u gornjem rubu.
+onboarding-genai-sidebar-secondary-button = Počni pregledavati
 
 ## New user onboarding checklist
 
