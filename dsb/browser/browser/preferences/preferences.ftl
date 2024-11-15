@@ -796,6 +796,9 @@ sync-currently-syncing-creditcards = Kreditowe kórty
 sync-currently-syncing-payment-methods = Płaśeńske metody
 sync-currently-syncing-addons = Dodanki
 sync-currently-syncing-settings = Nastajenja
+sync-manage-options =
+    .label = Synchronizaciju zastojaś…
+    .accesskey = S
 sync-change-options =
     .label = Změniś…
     .accesskey = Z
@@ -848,6 +851,13 @@ sync-engine-settings =
     .label = Nastajenja
     .tooltiptext = Powšykne nastajenja a nastajenja priwatnosći a wěstoty su se změnili
     .accesskey = N
+sync-choose-what-to-sync-dialog4 =
+    .title = Zastojśo daty synchronizacijow na wšych wašych zwězanych rědach
+    .style = min-width: 36em;
+    .buttonlabelaccept = Składowaś
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Zwisk źěliś…
+    .buttonaccesskeyextra2 = Z
 
 ## The device name controls.
 

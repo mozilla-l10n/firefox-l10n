@@ -9,9 +9,22 @@ profile-window-body = Źaržćo swójo źěło a wósobinske pśeglědowanje, mj
 profile-window-checkbox-label =
     .label = To pokazaś, gaž se { -brand-short-name } wócynja
 profile-window-create-profile = Profil załožyś
+profile-card-edit-button =
+    .title = Profil wobźěłaś
+    .aria-label = Profil wobźěłaś
+profile-card-delete-button =
+    .title = Profil wulašowaś
+    .aria-label = Profil wulašowaś
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } wócyniś
+    .aria-label = { $profileName } wócyniś
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Originalny profil
 edit-profile-page-title = Profil wobźěłaś
 edit-profile-page-header = Wobźěłajśo swój profil
 edit-profile-page-profile-name-label = Profilowe mě

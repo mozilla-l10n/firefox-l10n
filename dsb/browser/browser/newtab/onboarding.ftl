@@ -427,3 +427,5 @@ onboarding-checklist-title = Konfiguraciju { -brand-short-name } skóńcyś
 onboarding-checklist-set-default = Nastajśo { -brand-short-name } ako standardny wobglědowak
 onboarding-checklist-pin = Pśipějśo { -brand-short-name } k nadawkowej rědce
 onboarding-checklist-import = Z pjerwjejšnego wobglědowaka importěrowaś
+onboarding-checklist-extension = Rozšyrjenje pśidaś
+onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójogo konta
