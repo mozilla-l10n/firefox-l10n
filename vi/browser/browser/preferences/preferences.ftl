@@ -772,6 +772,9 @@ sync-currently-syncing-creditcards = Thẻ tín dụng
 sync-currently-syncing-payment-methods = Phương thức thanh toán
 sync-currently-syncing-addons = Tiện ích
 sync-currently-syncing-settings = Cài đặt
+sync-manage-options =
+    .label = Quản lý đồng bộ hoá…
+    .accesskey = M
 sync-change-options =
     .label = Thay đổi…
     .accesskey = C
@@ -824,6 +827,13 @@ sync-engine-settings =
     .label = Cài đặt
     .tooltiptext = Cài đặt tổng quát, riêng tư và bảo mật mà bạn đã thay đổi
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Quản lý những gì đồng bộ hóa trên tất cả các thiết bị được kết nối của bạn
+    .style = min-width: 36em;
+    .buttonlabelaccept = Lưu
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Ngắt kết nối…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

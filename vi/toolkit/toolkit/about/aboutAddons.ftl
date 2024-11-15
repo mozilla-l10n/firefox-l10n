@@ -297,6 +297,14 @@ find-more-themes = Tìm thêm chủ đề
 # used for screen readers.
 addon-options-button =
     .aria-label = Tùy chọn khác
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Tiện ích mở rộng và chủ đề cho phép bạn tùy chỉnh { -brand-product-name }. Nó có thể tăng cường
+    quyền riêng tư, nâng cao năng suất, cải thiện phương tiện, thay đổi giao diện { -brand-product-name }, và
+    hơn thế nữa. Những chương trình phần mềm nhỏ này thường được phát triển bởi bên thứ ba. Đây là
+    lựa chọn <a data-l10n-name="learn-more-trigger">được đề xuất</a> của { -brand-product-name }
+    để có được tính bảo mật, hiệu suất và chức năng đặc biệt.
 
 ## Add-on actions
 
