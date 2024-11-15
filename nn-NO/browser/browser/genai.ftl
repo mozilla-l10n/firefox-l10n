@@ -112,6 +112,7 @@ genai-onboarding-select-primary = Begynn å chatte
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Lag tekst og kode
+genai-onboarding-copilot-analyze = Analyser bilde
 genai-onboarding-huggingchat-generate = Lag tekst og kode
 genai-onboarding-lechat-generate = Lag tekst og kode
 genai-onboarding-lechat-price = Gratis; konto påkravd

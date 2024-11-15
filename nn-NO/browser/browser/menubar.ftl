@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobile bokmerke
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profilar
+menu-profiles-manage-profiles =
+    .label = Handsam profilar
+menu-profiles-new-profile =
+    .label = Ny profil
+
 ## Tools Menu
 
 menu-tools =
