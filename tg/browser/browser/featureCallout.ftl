@@ -59,3 +59,14 @@ split-dismiss-button-dont-show-option-label = Ин тавсия дигар ни�
 split-dismiss-button-show-fewer-option-label = Камтар нишон додани тавсияҳо
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Идоракунии танзимот
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-privacy-notice-link = Огоҳномаи махфият
+sidebar-callout-survey-very-satisfied = Хеле қаноатманд
+sidebar-callout-survey-satisfied = Қаноатманд
+sidebar-callout-survey-neutral = Бетараф
+sidebar-callout-survey-submit = Пешниҳод кардан

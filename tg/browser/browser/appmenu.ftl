@@ -285,5 +285,8 @@ appmenuitem-vpn-description = Фаъолияти худро дар Интерн�
 ## Profiles panel
 
 appmenu-profiles = Профилҳо
+appmenu-other-profiles = Профилҳои дигар
+appmenu-manage-profiles =
+    .label = Идоракунии профилҳо
 appmenu-create-profile =
     .label = Профили нав
