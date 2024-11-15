@@ -7,23 +7,18 @@
 
 autofill-manage-addresses-title = সংরক্ষিত ঠিকানা
 autofill-manage-addresses-list-header = ঠিকানা
-
 autofill-manage-credit-cards-title = সংরক্ষিত ক্রেডিট কার্ড
 autofill-manage-credit-cards-list-header = ক্রেডিট কার্ড
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = অপসারণ
 autofill-manage-add-button = যোগ…
 autofill-manage-edit-button = সম্পাদনা…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = নতুন ঠিকানা যোগ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ঠিকানা সম্পাদনা
-
 autofill-address-given-name = নামের প্রথমাংশ
 autofill-address-additional-name = নামের মধ্যাংশ
 autofill-address-family-name = নামের শেষাংশ
@@ -81,19 +76,26 @@ autofill-address-eircode = ইয়ারকোড
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = নতুন ঠিকানা যোগ
 autofill-address-country = রাষ্ট্র
 autofill-address-tel = ফোন
 autofill-address-email = ইমেইল
-
 autofill-cancel-button = বাতিল
 autofill-save-button = সংরক্ষণ
 autofill-country-warning-message = Form Autofill কেবলমাত্র নির্দিষ্ট দেশের জন্য উপলব্ধ।
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = নতুন ক্রেডিট কার্ড যোগ করুন
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ক্রেডিট কার্ড সম্পাদনা করুন
-
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] ক্রেডিট কার্ডের তথ্য দেখায়
+        [windows] { -brand-short-name } iক্রেডিট কার্ডের তথ্য দেখানোর চেষ্টা করছে। নীচে এই উইন্ডোজ অ্যাকাউন্টে অ্যাক্সেস নিশ্চিত করুন।
+       *[other] { -brand-short-name } ক্রেডিট কার্ডের তথ্য দেখানোর চেষ্টা করছে।
+    }
 autofill-card-number = কার্ড নম্বর
 autofill-card-invalid-number = অনুগ্রহ করে কার্যকর কার্ড নম্বর দিন
 autofill-card-name-on-card = কার্ডের উপর নাম
