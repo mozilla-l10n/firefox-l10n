@@ -12,9 +12,19 @@ profile-window-create-profile = Профиль жасау
 profile-card-edit-button =
     .title = Профильді түзету
     .aria-label = Профильді түзету
+profile-card-delete-button =
+    .title = Профильді өшіру
+    .aria-label = Профильді өшіру
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } ашу
+    .aria-label = { $profileName } ашу
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профиль { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Түпнұсқа профиль
 edit-profile-page-title = Профильді түзету
 edit-profile-page-header = Профиліңізді түзету
 edit-profile-page-profile-name-label = Профиль атауы

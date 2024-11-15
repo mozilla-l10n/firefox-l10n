@@ -843,6 +843,13 @@ sync-engine-settings =
     .label = Баптаулар
     .tooltiptext = Сіз өзгерткен Жалпы, Жекелік және Қауіпсіздік баптаулары
     .accesskey = п
+sync-choose-what-to-sync-dialog4 =
+    .title = Барлық қосылған құрылғыларда синхрондалатын деректерді басқарыңыз
+    .style = min-width: 36em;
+    .buttonlabelaccept = Сақтау
+    .buttonaccesskeyaccept = С
+    .buttonlabelextra2 = Байланысты үзу…
+    .buttonaccesskeyextra2 = з
 
 ## The device name controls.
 
