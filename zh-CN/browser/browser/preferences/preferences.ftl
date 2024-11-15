@@ -835,6 +835,13 @@ sync-engine-settings =
     .label = 设置
     .tooltiptext = 您更改过的常规、隐私与安全等设置
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = 管理需要同步到所有已连接设备上的项目
+    .style = min-width: 36em;
+    .buttonlabelaccept = 保存
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 断开连接…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

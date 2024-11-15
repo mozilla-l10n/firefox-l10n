@@ -9,9 +9,22 @@ profile-window-body = 全面分隔办公与私人浏览体验，包括密码和�
 profile-window-checkbox-label =
     .label = 打开 { -brand-short-name } 时显示此窗口
 profile-window-create-profile = 创建配置文件
+profile-card-edit-button =
+    .title = 编辑配置文件
+    .aria-label = 编辑配置文件
+profile-card-delete-button =
+    .title = 删除配置文件
+    .aria-label = 删除配置文件
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = 打开“{ $profileName }”
+    .aria-label = 打开“{ $profileName }”
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 配置文件 { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = 初始配置文件
 edit-profile-page-title = 编辑配置文件
 edit-profile-page-header = 编辑配置文件
 edit-profile-page-profile-name-label = 配置文件名称
