@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Favoritos do celular
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Perfis
+menu-profiles-manage-profiles =
+    .label = Gerenciar perfis
+menu-profiles-new-profile =
+    .label = Novo perfil
+
 ## Tools Menu
 
 menu-tools =

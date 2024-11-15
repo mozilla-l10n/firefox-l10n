@@ -356,6 +356,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Quando você usa a si
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protege você
 onboarding-gratitude-security-and-privacy-subtitle = Obrigado por usar o { -brand-short-name }, respaldado pela Fundação Mozilla. Com seu apoio, estamos trabalhando para tornar a internet mais segura e acessível a todos.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronize seus dados entre dispositivos
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +417,6 @@ onboarding-genai-sidebar-title = Experimente um chatbot de inteligência artific
 onboarding-genai-sidebar-subtitle = Resuma conteúdo, tenha ideias, rascunhe mensagens, tudo isso enquanto navega. Escolha entre vários provedores. Mude quando quiser. <a data-l10n-name="learn-more">Saiba mais</a>
 onboarding-genai-sidebar-primary-button = Escolha um chatbot
 onboarding-genai-sidebar-secondary-button = Iniciar navegação
+
+## New user onboarding checklist
+
