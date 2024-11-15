@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Der stoles ikke på certifikatet
 cert-error-trust-expired-issuer = Der stoles ikke på certifikatet, fordi udstederens certifikat er udløbet.
 cert-error-trust-self-signed = Der stoles ikke på certifikatet, da det er underskrevet af indehaveren selv.
 cert-error-trust-symantec = Sikkerhedscertifikater udstedt af GeoTrust, RapidSSL, Symantec, Thawte, og VeriSign bliver ikke længere opdattet som sikre, fordi disse certifikat-udstedere tidligere ikke har fulgt gængse sikkerheds-praksisser.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } stoler ikke på { $hostname }, fordi den ikke kan bevise at den overholder kravene til gennemsigtighed for offentlige certifikater.
 cert-error-untrusted-default = Certifikatet stammer ikke fra en kilde, der er tillid til.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
