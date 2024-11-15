@@ -66,13 +66,37 @@ perftools-thread-style-thread =
     .title = শৈলী গণনা একাধিক থ্রেডে বিভক্ত
 pref-thread-stream-trans =
     .title = নেটওয়ার্ক স্ট্রিম পরিবহন
+perftools-thread-socket-thread =
+    .title = থ্রেড যেখানে নেটওয়ার্কিং কোড যেকোন ব্লকিং সকেট কল চালায়
+perftools-thread-img-decoder =
+    .title = ছবি ডিকোডিং থ্রেড
+perftools-thread-dns-resolver =
+    .title = এই থ্রেডে DNS রেজোলিউশন ঘটে
+perftools-thread-task-controller =
+    .title = TaskController থ্রেড পুল থ্রেড
+perftools-thread-jvm-gecko =
+    .title = প্রধান Gecko JVM থ্রেড
+perftools-thread-jvm-nimbus =
+    .title = নিম্বাস এক্সপেরিমেন্ট SDK-এর জন্য প্রধান থ্রেড
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin coroutines লাইব্রেরির জন্য ডিফল্ট প্রেরণকারী
+perftools-thread-jvm-glean =
+    .title = Glean টেলিমেট্রি SDK-এর প্রধান থ্রেড
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin coroutines লাইব্রেরির জন্য IO প্রেরণকারী
+perftools-thread-jvm-pool =
+    .title = একটি নামহীন থ্রেড পুলে থ্রেড তৈরি করা হয়েছে৷
 
 ##
 
+perftools-record-all-registered-threads = উপরের নির্বাচনগুলিকে বাইপাস করুন এবং সমস্ত নিবন্ধিত থ্রেড রেকর্ড করুন৷
+perftools-tools-threads-input-label =
+    .title = এই থ্রেড নামগুলি একটি কমা দ্বারা পৃথক করা তালিকা যা প্রোফাইলারে থ্রেডগুলির প্রোফাইলিং সক্ষম করতে ব্যবহৃত হয়। নামটি অন্তর্ভুক্ত করার জন্য থ্রেড নামের সাথে শুধুমাত্র একটি আংশিক মিল হওয়া প্রয়োজন। এটি হোয়াইটস্পেস সংবেদনশীল।
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>নতুন</b>: { -profiler-brand-name } এখন ডেভেলপার টুলে একত্রিত হয়েছে৷ এই শক্তিশালী নতুন টুল সম্পর্কে <a>আরো জানুন</a>।
 
 ## Profiler presets
 
