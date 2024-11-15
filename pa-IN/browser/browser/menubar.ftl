@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ
 
+## Profiles Menu
+
+menu-profiles =
+    .label = ਪਰੋਫਾਈਲ
+menu-profiles-manage-profiles =
+    .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+menu-profiles-new-profile =
+    .label = ਨਵਾਂ ਪਰੋਫਾਈਲ
+
 ## Tools Menu
 
 menu-tools =

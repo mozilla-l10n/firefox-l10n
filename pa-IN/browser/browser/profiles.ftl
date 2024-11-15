@@ -9,9 +9,22 @@ profile-window-body = ਆਪਣੇ ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾ
 profile-window-checkbox-label =
     .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਾ ਹੋਵੇ ਤਾਂ ਇਹ ਵੇਖਾਓ
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
+profile-card-edit-button =
+    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
+    .aria-label = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
+profile-card-delete-button =
+    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
+    .aria-label = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } ਨੂੰ ਖੋਲ੍ਹੋ
+    .aria-label = { $profileName } ਨੂੰ ਖੋਲ੍ਹੋ
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = ਪਰੋਫਾਈਲ { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = ਅਸਲੀ ਪਰੋਫਾਈਲ
 edit-profile-page-title = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
 edit-profile-page-header = ਆਪਣੇ ਪਰੋਫਾਈਲ ਵਿੱਚ ਸੋਧ ਕਰੋ
 edit-profile-page-profile-name-label = ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ

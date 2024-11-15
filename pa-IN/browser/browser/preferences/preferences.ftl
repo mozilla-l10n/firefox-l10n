@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = ਕਰੈਡਿਟ ਕਾਰਡ
 sync-currently-syncing-payment-methods = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 sync-currently-syncing-addons = ਐਡ-ਆਨ
 sync-currently-syncing-settings = ਸੈਟਿੰਗਾਂ
+sync-manage-options =
+    .label = …ਸਿੰਕ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
 sync-change-options =
     .label = …ਬਦਲੋ
     .accesskey = C
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = ਸੈਟਿੰਗਾਂ
     .tooltiptext = ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ, ਜੋ ਤੁਸੀਂ ਬਦਲੀਆਂ ਹਨ
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਹੋਣ ਵਾਲੇ ਸਿੰਕ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .style = min-width: 36em;
+    .buttonlabelaccept = ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = …ਡਿਸ-ਕਨੈਕਟ ਕਰੋ
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

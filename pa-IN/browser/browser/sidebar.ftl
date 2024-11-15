@@ -104,6 +104,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = ਰੀਵਿਊ ਚੈਕਰ
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = ਅਤੀਤ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = ਅਤੀਤ ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ
+sidebar-menu-close-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਬੰਦ ਕਰੋ
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
