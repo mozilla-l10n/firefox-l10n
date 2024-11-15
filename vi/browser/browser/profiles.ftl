@@ -9,9 +9,22 @@ profile-window-body = Giữ công việc và duyệt web cá nhân của bạn, 
 profile-window-checkbox-label =
     .label = Hiển thị điều này khi { -brand-short-name } mở
 profile-window-create-profile = Tạo hồ sơ
+profile-card-edit-button =
+    .title = Chỉnh sửa hồ sơ
+    .aria-label = Chỉnh sửa hồ sơ
+profile-card-delete-button =
+    .title = Xoá hồ sơ
+    .aria-label = Xoá hồ sơ
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Mở { $profileName }
+    .aria-label = Mở { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Hồ sơ { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Hồ sơ gốc
 edit-profile-page-title = Sửa hồ sơ
 edit-profile-page-header = Chỉnh sửa hồ sơ của bạn
 edit-profile-page-profile-name-label = Tên hồ sơ

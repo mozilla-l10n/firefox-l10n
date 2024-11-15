@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Khi bạn đồng b�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } luôn ủng hộ bạn
 onboarding-gratitude-security-and-privacy-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, được hỗ trợ bởi Mozilla Foundation. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực làm cho Internet an toàn hơn và dễ truy cập hơn cho mọi người.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Đồng bộ hóa dữ liệu của bạn giữa các thiết bị
+onboarding-sign-up-description = Đăng ký tài khoản và tất cả thông tin quan trọng của bạn — mật khẩu, dấu trang, v.v. — sẽ được lưu trữ an toàn và khả dụng khi bạn đăng nhập vào bất kỳ thiết bị nào.
+onboarding-sign-up-button = Đăng ký hoặc đăng nhập
+onboarding-sign-up-secondary-button = Bắt đầu duyệt web
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +420,13 @@ onboarding-genai-sidebar-title = Hãy thử chatbot AI trong thanh lề
 onboarding-genai-sidebar-subtitle = Tổng hợp nội dung web, lên ý tưởng, soạn thảo tin nhắn — tất cả khi bạn duyệt. Chọn từ nhiều nhà cung cấp. Chuyển đổi bất kỳ lúc nào. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
 onboarding-genai-sidebar-primary-button = Chọn một chatbot
 onboarding-genai-sidebar-secondary-button = Bắt đầu duyệt web
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Hoàn tất thiết lập { -brand-short-name }
+onboarding-checklist-subtitle = Hãy hoàn thành các bước này để có trải nghiệm duyệt web tốt nhất cho bạn.
+onboarding-checklist-set-default = Đặt { -brand-short-name } làm trình duyệt mặc định
+onboarding-checklist-pin = Ghim { -brand-short-name } vào thanh tác vụ
+onboarding-checklist-import = Nhập từ trình duyệt trước
+onboarding-checklist-extension = Thêm tiện ích
+onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản của bạn

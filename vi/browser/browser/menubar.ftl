@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Dấu trang trên di động
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Hồ sơ
+menu-profiles-manage-profiles =
+    .label = Quản lý hồ sơ
+menu-profiles-new-profile =
+    .label = Hồ sơ mới
+
 ## Tools Menu
 
 menu-tools =
