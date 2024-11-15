@@ -15,6 +15,11 @@ genai-settings-chat-claude-links = Anthropic Claude ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛ
 genai-settings-chat-copilot-links = Copilot ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ <a data-l10n-name="link1">Copilot AI ᱟᱹᱱᱟᱹᱭᱠᱟᱹᱣ ᱥᱟᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">Microsoft  ᱯᱨᱟᱭᱣᱮᱥᱤ ᱵᱤᱵᱚᱨᱚᱱ</a> ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜ ᱠᱟᱱᱟ ᱾
 genai-settings-chat-gemini-links = Google Gemini ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ <a data-l10n-name="link1">Google ᱥᱮᱵᱟ ᱨᱮᱭᱟᱜ ᱥᱟᱨᱛ</a>, <a data-l10n-name="link2">Generative AI ᱵᱟᱨᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱯᱚᱞᱤᱥᱤ</a>, ᱟᱨ <a data-l10n-name="link3">Gemini ᱮᱯᱥ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱱᱚᱴᱤᱥ</a>᱾
 genai-settings-chat-huggingchat-links = HuggingChat ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ <a data-l10n-name="link1">HuggingChat ᱯᱨᱟᱭᱣᱮᱥᱤ ᱱᱚᱴᱤᱥ</a> ᱟᱨ <a data-l10n-name="link2">HuggingChat Face ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜ ᱠᱟᱱᱟ ᱾
+genai-settings-chat-lechat-links = Le Chat Mistral ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ ᱚᱯᱮᱱ ᱮᱭᱟᱭ <a data-l10n-name="link1">ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱥᱟᱶ ᱨᱮᱵᱮᱱᱟ ᱾
+genai-settings-chat-localhost-links = { -vendor-short-name } ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟᱛᱮᱫ ᱫᱚᱞ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱞᱚᱠᱟᱞ ᱪᱟᱴᱵᱚᱴ ᱟᱹᱜᱩᱭ ᱢᱮ ᱡᱮᱞᱠᱟ <a data-l10n-name="link1">llamafile</a> ᱠᱷᱚᱱ ᱾
+genai-settings-chat-shortcuts =
+    .description = ᱟᱢ ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱩᱫᱩᱜᱚᱜᱼᱟ ᱾ { -brand-short-name } ᱚᱞ, ᱥᱟᱦᱴᱟ ᱢᱩᱴᱷᱟᱹᱱ, ᱟᱨ ᱪᱟᱴᱵᱚᱴ ᱴᱷᱮᱱ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱵᱷᱮᱡᱟᱭᱟᱭ ᱾
+    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱨᱮ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱩᱫᱩᱜ ᱢᱮ
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -22,6 +27,10 @@ genai-settings-chat-huggingchat-links = HuggingChat ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛ
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+    .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱠᱷᱟᱴᱚᱧ ᱢᱮ ᱾ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱨᱮ ᱦᱮᱰᱚᱨ ᱟᱨ ᱵᱩᱞᱮᱴᱰ ᱥᱩᱪᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ, ᱱᱚᱣᱟ ᱵᱮᱥ ᱥᱚᱫᱚᱨ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱾ ᱢᱮᱱᱮᱛ ᱟᱨ ᱛᱟᱛᱷᱭᱚ ᱴᱷᱤᱠ ᱛᱟᱦᱮᱱ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾
 
 ## Chatbot menu shortcuts
 
