@@ -346,6 +346,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 是您�
 onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更安全、更可被所有人使用。
 # Sign up or Sign in screen
 onboarding-sign-up-title = 在不同裝置間同步資料
+onboarding-sign-up-description = 註冊一組帳號，即可將您的所有重要資訊（密碼、書籤等資訊）安全地儲存下來，並且在登入的裝置中同步使用。
 onboarding-sign-up-button = 註冊或登入
 onboarding-sign-up-secondary-button = 開始上網
 
