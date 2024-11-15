@@ -31,6 +31,10 @@ genai-settings-chat-shortcuts =
 genai-prompts-summarize =
     .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
     .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱠᱷᱟᱴᱚᱧ ᱢᱮ ᱾ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱨᱮ ᱦᱮᱰᱚᱨ ᱟᱨ ᱵᱩᱞᱮᱴᱰ ᱥᱩᱪᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ, ᱱᱚᱣᱟ ᱵᱮᱥ ᱥᱚᱫᱚᱨ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱾ ᱢᱮᱱᱮᱛ ᱟᱨ ᱛᱟᱛᱷᱭᱚ ᱴᱷᱤᱠ ᱛᱟᱦᱮᱱ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = ᱯᱟᱹᱨᱥᱤ ᱟᱞᱜᱟ ᱢᱮ
+    .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱠᱷᱟᱴᱚ ᱟᱹᱭᱟᱹᱛ ᱠᱚ ᱟᱨ ᱟᱞᱜᱟ ᱟᱹᱲᱟᱹ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱫᱚᱦᱲᱟ ᱚᱞ ᱢᱮ ᱾ ᱢᱮᱱᱮᱛ ᱟᱨ ᱛᱟᱛᱷᱚ ᱴᱷᱤᱠ ᱛᱟᱦᱮᱱ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾
 
 ## Chatbot menu shortcuts
 
