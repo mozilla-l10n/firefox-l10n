@@ -358,6 +358,9 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protege 
 onboarding-gratitude-security-and-privacy-subtitle = Obrigado por usar o { -brand-short-name }, respaldado pela Fundação Mozilla. Com seu apoio, estamos trabalhando para tornar a internet mais segura e acessível a todos.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronize seus dados entre dispositivos
+onboarding-sign-up-description = Crie uma conta e todas as suas informações importantes (senhas, favoritos e outros dados) são armazenadas com segurança e ficam disponíveis quando você entra na conta em qualquer dispositivo.
+onboarding-sign-up-button = Entrar na sua conta ou criar uma
+onboarding-sign-up-secondary-button = Iniciar navegação
 
 ## New user time and familiarity survey strings
 
@@ -420,3 +423,9 @@ onboarding-genai-sidebar-secondary-button = Iniciar navegação
 
 ## New user onboarding checklist
 
+onboarding-checklist-subtitle = Complete estas etapas para aproveitar ao máximo sua experiência de navegação.
+onboarding-checklist-set-default = Defina o { -brand-short-name } como navegador padrão
+onboarding-checklist-pin = Fixe o { -brand-short-name } na barra de tarefas
+onboarding-checklist-import = Importe do navegador anterior
+onboarding-checklist-extension = Adicione uma extensão
+onboarding-checklist-sign-up = Entre na sua conta ou crie uma

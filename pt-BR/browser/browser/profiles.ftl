@@ -9,6 +9,9 @@ profile-window-body = Mantenha sua navegação profissional e pessoal totalmente
 profile-window-checkbox-label =
     .label = Mostrar ao abrir o { -brand-short-name }
 profile-window-create-profile = Criar um perfil
+profile-card-edit-button =
+    .title = Editar perfil
+    .aria-label = Editar perfil
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
