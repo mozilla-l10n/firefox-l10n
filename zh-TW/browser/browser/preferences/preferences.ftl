@@ -831,6 +831,13 @@ sync-engine-settings =
     .label = 選項
     .tooltiptext = 您調整過的一般、隱私權與安全性選項
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = 管理要在您連結的裝置間同步那些資料
+    .style = min-width: 36em;
+    .buttonlabelaccept = 儲存
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 取消連線…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

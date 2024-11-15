@@ -411,6 +411,7 @@ onboarding-genai-sidebar-secondary-button = 開始上網
 ## New user onboarding checklist
 
 onboarding-checklist-title = 完成設定 { -brand-short-name }
+onboarding-checklist-subtitle = 完成下列步驟，讓您獲得最完整的的上網體驗。
 onboarding-checklist-set-default = 將 { -brand-short-name } 設為預設瀏覽器
 onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工具列
 onboarding-checklist-import = 從先前使用的瀏覽器匯入資料
