@@ -35,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = ᱯᱟᱹᱨᱥᱤ ᱟᱞᱜᱟ ᱢᱮ
     .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱠᱷᱟᱴᱚ ᱟᱹᱭᱟᱹᱛ ᱠᱚ ᱟᱨ ᱟᱞᱜᱟ ᱟᱹᱲᱟᱹ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱫᱚᱦᱲᱟ ᱚᱞ ᱢᱮ ᱾ ᱢᱮᱱᱮᱛ ᱟᱨ ᱛᱟᱛᱷᱚ ᱴᱷᱤᱠ ᱛᱟᱦᱮᱱ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = ᱠᱩᱠᱞᱤ ᱠᱷᱮᱞ
+    .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱵᱟᱪᱷᱟᱣ ᱪᱮᱛᱟᱱ ᱨᱮ ᱠᱩᱠᱞᱤ ᱤᱧ ᱢᱮ ᱾ ᱤᱧ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱩᱠᱞᱤ ᱠᱚ ᱠᱩᱞᱤᱭᱤᱧ ᱢᱮ, ᱫᱟᱹᱭᱠᱟᱹ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱪᱷᱟᱣ, ᱥᱟᱹᱨᱤ ᱥᱮ ᱵᱟᱹᱲᱤᱡ, ᱟᱨ ᱠᱷᱟᱴᱚ ᱛᱮᱞᱟ ᱾ ᱫᱚᱥᱟᱨ ᱠᱩᱠᱞᱤ ᱨᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱦᱟᱨᱮ ᱤᱧᱟᱜ ᱛᱮᱞᱟ ᱛᱟᱺᱜᱤ ᱢᱮ ᱾
 
 ## Chatbot menu shortcuts
 
