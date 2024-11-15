@@ -359,6 +359,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } hefur st
 onboarding-gratitude-security-and-privacy-subtitle = Takk fyrir að nota { -brand-short-name }, sem stutt er af Mozilla stofnuninni. Með stuðningi þínum erum við að vinna að því að gera internetið öruggara, aðgengilegra og betra fyrir alla.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Samstilltu gögnin þín milli tækja
+onboarding-sign-up-description = Skráðu þig fyrir reikningi og allar mikilvægar upplýsingar þínar - lykilorð, bókamerki og fleira - verða geymdar á öruggan hátt og verða aðgengilegar þegar þú skráir þig inn á hvaða tæki sem er.
 onboarding-sign-up-button = Nýskráðu þig eða skráðu þig inn
 onboarding-sign-up-secondary-button = Fara að vafra
 

@@ -843,6 +843,13 @@ sync-engine-settings =
     .label = Stillingar
     .tooltiptext = Almennar, Friðhelgi og Öryggisstillingar sem þú hefur breytt
     .accesskey = S
+sync-choose-what-to-sync-dialog4 =
+    .title = Stjórnaðu því sem samstillist á öllum tengdum tækjum þínum
+    .style = min-width: 36em;
+    .buttonlabelaccept = Vista
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Aftengja…
+    .buttonaccesskeyextra2 = g
 
 ## The device name controls.
 

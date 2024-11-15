@@ -9,9 +9,22 @@ profile-window-body = Haltu vinnu þinni og persónulegu vafri, þar á meðal a
 profile-window-checkbox-label =
     .label = Birta þetta þegar { -brand-short-name } opnast
 profile-window-create-profile = Búa til notkunarsnið
+profile-card-edit-button =
+    .title = Breyta notkunarsniði
+    .aria-label = Breyta notkunarsniði
+profile-card-delete-button =
+    .title = Eyða notkunarsniði
+    .aria-label = Eyða notkunarsniði
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Opna { $profileName }
+    .aria-label = Opna { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Notkunarsnið: { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Upprunalegt notkunarsnið
 edit-profile-page-title = Breyta notkunarsniði
 edit-profile-page-header = Breyttu notkunarsniðinu þínu
 edit-profile-page-profile-name-label = Heiti notkunarsniðs
