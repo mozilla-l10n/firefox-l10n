@@ -306,6 +306,7 @@ about-logins-confirm-export-dialog-title2 = Märkus paroolide eksportimise kohta
 about-logins-confirm-export-dialog-message2 =
     Eksportimisel salvestatakse sinu paroolid loetava tekstina faili.
     Faili kasutamise lõpetamisel soovitame selle kustutada, et teised selle seadme kasutajad ei näeks sinu paroole.
+about-logins-confirm-export-dialog-confirm-button2 = Jätka eksportimisega
 about-logins-alert-import-title = Importimine valmis
 about-logins-alert-import-message = Vaata impordiaruande üksikasju
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
@@ -347,6 +348,11 @@ about-logins-export-file-picker-title = Kasutajanimede ja paroolide faili ekspor
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = kasutajatunnused.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Paroolide eksportimine { -brand-short-name }ist
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = paroolid.csv
 about-logins-export-file-picker-export-button = Ekspordi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -360,6 +366,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Kasutajatunnuste failist importimine
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Paroolide importimine { -brand-short-name }i
 about-logins-import-file-picker-import-button = Impordi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -396,6 +404,18 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Leiti üks korduv kasutajatunnus<span data-l10n-name="meta">(ei imporditud)</span>
        *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ei imporditud)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+       *[other] <span>Uusi lisatud paroole:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+       *[other] <span>Olemasolevaid uuendatud kasutajatunnuseid:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+       *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei imporditud)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Üks viga</span> <span data-l10n-name="meta">(ei imporditud)</span>
@@ -414,9 +434,10 @@ about-logins-import-dialog-error-unable-to-read-description = Veendu, et valisid
 about-logins-import-dialog-error-no-logins-imported = Ühtegi kasutajatunnust ei imporditud
 about-logins-import-dialog-error-learn-more = Rohkem teavet
 about-logins-import-dialog-error-try-import-again = Proovi uuesti importida…
-about-logins-import-dialog-error-cancel = Tühista
+about-logins-import-dialog-error-cancel = Loobu
 about-logins-import-report-title = Importimise kokkuvõte
 about-logins-import-report-description = { -brand-short-name }i imporditud kasutajatunnused ja paroolid.
+about-logins-import-report-description2 = Paroolid imporditi { -brand-short-name }i.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -424,6 +445,9 @@ about-logins-import-report-row-index = Rida { $number }
 about-logins-import-report-row-description-no-change = Duplikaat: olemasoleva kasutajakonto täpne koopia
 about-logins-import-report-row-description-modified = Olemasolev kasutajatunnus uuendati
 about-logins-import-report-row-description-added = Lisati uus kasutajatunnus
+about-logins-import-report-row-description-no-change2 = Duplikaat: olemasoleva kasutajakonto täpne koopia
+about-logins-import-report-row-description-modified2 = Olemasolev kasutajatunnus uuendati
+about-logins-import-report-row-description-added2 = Lisati uus parool
 about-logins-import-report-row-description-error = Viga: väli puudub
 
 ##
@@ -451,6 +475,11 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaat</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus parool lisatud</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uut parooli lisatud</div>
     }
 about-logins-import-report-error =
     { $count ->
