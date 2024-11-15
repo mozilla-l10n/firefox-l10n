@@ -283,12 +283,29 @@ about-logins-confirm-remove-all-dialog-message2 =
         [one] See tegevus eemaldab { -brand-short-name }i salvestatud parooli ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab { -brand-short-name }i salvestatud paroolid ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Kas soovid eemaldada ühe parooli kõigist seadmetest?
+       *[other] Kas soovid eemaldada { $count } parooli kõigist seadmetest?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] See tegevus eemaldab { -brand-short-name }i salvestatud parooli kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
+        [one] See tegevus eemaldab { -brand-short-name }i salvestatud parooli kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
+       *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestatud paroolid kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
 about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
 about-logins-confirm-export-dialog-confirm-button = Ekspordi...
+about-logins-confirm-export-dialog-title2 = Märkus paroolide eksportimise kohta
+about-logins-confirm-export-dialog-message2 =
+    Eksportimisel salvestatakse sinu paroolid loetava tekstina faili.
+    Faili kasutamise lõpetamisel soovitame selle kustutada, et teised selle seadme kasutajad ei näeks sinu paroole.
 about-logins-alert-import-title = Importimine valmis
 about-logins-alert-import-message = Vaata impordiaruande üksikasju
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
