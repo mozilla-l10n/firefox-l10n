@@ -424,3 +424,9 @@ onboarding-genai-sidebar-secondary-button = Fara að vafra
 ## New user onboarding checklist
 
 onboarding-checklist-title = Ljúka við að setja upp { -brand-short-name }?
+onboarding-checklist-subtitle = Ljúktu þessum skrefum til að fá sem mest út úr vafrinu þínu.
+onboarding-checklist-set-default = Gerðu { -brand-short-name } að sjálfgefnum vafra
+onboarding-checklist-pin = Festu { -brand-short-name } á verkefnastikuna
+onboarding-checklist-import = Flytja inn úr fyrri vafra
+onboarding-checklist-extension = Bæta við forritsauka
+onboarding-checklist-sign-up = Nýskráðu þig eða skráðu þig inn á reikninginn þinn
