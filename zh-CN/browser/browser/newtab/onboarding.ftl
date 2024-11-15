@@ -343,6 +343,7 @@ onboarding-gratitude-security-and-privacy-subtitle = 感谢使用由 Mozilla 基
 # Sign up or Sign in screen
 onboarding-sign-up-title = 跨设备同步数据
 onboarding-sign-up-button = 注册或登录
+onboarding-sign-up-secondary-button = 开始浏览
 
 ## New user time and familiarity survey strings
 
@@ -405,3 +406,10 @@ onboarding-genai-sidebar-secondary-button = 开始上网冲浪
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = 完成 { -brand-short-name } 设置
+onboarding-checklist-subtitle = 完成以下步骤，解锁完整浏览体验。
+onboarding-checklist-set-default = 将 { -brand-short-name } 设为默认浏览器
+onboarding-checklist-pin = 将 { -brand-short-name } 固定到任务栏
+onboarding-checklist-import = 从先前所用浏览器导入
+onboarding-checklist-extension = 添加扩展
+onboarding-checklist-sign-up = 注册或登录账户
