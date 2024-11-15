@@ -148,3 +148,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Hvis du ikke kender<b>{ $mi
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> bruger en sikkerhedspolitik kaldet HTTP Strict Transport Security (HSTS), hvilket betyder at { -brand-short-name } kun kan oprette en sikker forbindelse til webstedet. Du kan ikke tilføje en undtagelse for at besøge webstedet.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Sandsynligvis ingenting, da der formentlig er et problem med selve webstedet.

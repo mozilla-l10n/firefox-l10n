@@ -68,6 +68,13 @@ open-in-new-window-for-csp-or-xfo-error = Åbn websted i et nyt vindue
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For at beskytte din sikkerhed vil { $hostname } ikke tillade, at { -brand-short-name } viser siden, hvis et andet websted har indlejret den. Du skal åbne siden i et nyt vindue for at se den.
+fp-certerror-view-certificate-link = Vis webstedets certifikat
+fp-certerror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Dette websted er konfigureret til udelukkende at tillade sikre forbindelser, men der er et problem med webstedets certifikat. En aktør med slette hensigter forsøger muligvis at udgive sig for at være webstedet. Websteder anvender certifikater udstedt af en certifikatautoritet til at bevise, at de virkeligt er hvem de udgiver sig for at være. { -brand-short-name } stoler ikke på dette websted, fordi certifikatet ikke er gyldigt for { $hostname }. Certifikatet er kun gyldigt for { $validHosts }.
 
 ## Messages used for certificate error titles
 
@@ -109,3 +116,10 @@ networkProtocolError-title = Fejl i netværksprotokol
 nssBadCert-title = Advarsel: Mulig sikkerhedsrisiko
 nssBadCert-sts-title = Oprettede ikke forbindelse: Muligt sikkerhedsproblem
 certerror-mitm-title = Et program forhindrer { -brand-short-name } i at oprette en sikker forbindelse til dette websted.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
