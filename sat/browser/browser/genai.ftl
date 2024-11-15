@@ -5,6 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = ᱵᱽᱨᱟᱣᱩᱡᱽ ᱥᱟᱶ ᱥᱟᱶᱛᱮ ᱩᱥᱟᱹᱨᱟ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱞᱮᱠᱟᱱ ᱪᱟᱴᱵᱚᱴ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾ <a data-l10n-name="connect">ᱢᱚᱱᱚᱛ ᱦᱟᱹᱴᱤᱧ ᱢᱮ</a>
+genai-settings-chat-choose = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+genai-settings-chat-choose-one-menuitem =
+    .label = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+genai-settings-chat-links = ᱛᱤᱱᱨᱮ ᱟᱢ ᱪᱟᱴᱵᱚᱴ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱟ, ᱟᱢ ᱫᱚ ᱮᱢᱚᱜᱤᱡ ᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱟᱨᱛ ᱟᱨ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜᱼᱟ ᱾
+genai-settings-chat-chatgpt-links = ChatGPT ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ ᱚᱯᱮᱱ ᱮᱭᱟᱭ <a data-l10n-name="link1">ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱥᱟᱶ ᱨᱮᱵᱮᱱ ᱢᱮᱱᱟᱢᱟ ᱾
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
