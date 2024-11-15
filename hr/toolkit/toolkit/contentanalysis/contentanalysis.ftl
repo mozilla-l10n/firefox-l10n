@@ -30,3 +30,16 @@ contentanalysis-warndialogtitle = Ovaj sadržaj možda nije siguran
 contentanalysis-warndialog-response-allow = Koristi sadržaj
 contentanalysis-warndialog-response-deny = Odustani
 contentanalysis-notification-title = Analiza sadržaja
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Prijenos datoteke „{ $filename }” zabranjen.
+contentanalysis-error-message-dropped-text = Povlačenje i ispuštanje zabranjeno.
+contentanalysis-error-message-clipboard = Umetanje zabranjeno.
+contentanalysis-error-message-print = Ispis zabranjen.
+contentanalysis-block-dialog-title-upload-file = Ne smiješ prenijeti ovu datoteku
+contentanalysis-block-dialog-title-clipboard = Ne smiješ umetnuti ovaj sadržaj
+contentanalysis-block-dialog-title-dropped-text = Ne smiješ ispustiti ovaj sadržaj
+contentanalysis-block-dialog-title-print = Ne smiješ ispisati ovaj dokument
+contentanalysis-inprogress-quit-title = Zatvoriti { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = U tijeku je nekoliko radnji. Ako zatvoriš { -brand-shorter-name } te se radnje neće dovršiti.
+contentanalysis-inprogress-quit-yesbutton = Da, zatvori
