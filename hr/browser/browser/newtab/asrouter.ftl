@@ -320,5 +320,10 @@ fxa-menu-message-mobile-collapsed-text = Sinkroniziraj sa svojim telefonom
 multi-cta-fox-doodle-title = Dobro došli natrag
 multi-cta-fox-doodle-set-default-checkbox = Postavi { -brand-short-name } kao standardni preglednik
 multi-cta-fox-doodle-pin-startmenu-checkbox = Prikvači { -brand-short-name } na izbornik Start
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Zadrži { -brand-short-name } u Docku
+       *[other] Prikvači { -brand-short-name } na programsku traku
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Počni pregledavati
 multi-cta-fox-doodle-main-browser-primary-button-label = Postavi { -brand-short-name } kao glavni preglednik

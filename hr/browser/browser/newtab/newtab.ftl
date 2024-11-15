@@ -8,11 +8,18 @@
 newtab-page-title = Nova kartica
 newtab-settings-button =
     .title = Prilagodi stranicu za nove kartice
+newtab-personalize-settings-icon-label =
+    .title = Personaliziraj novu karticu
+    .aria-label = Postavke
+newtab-settings-dialog-label =
+    .aria-label = Postavke
 newtab-personalize-icon-label =
     .title = Personaliziraj novu karticu
     .aria-label = Personaliziraj novu karticu
 newtab-personalize-dialog-label =
     .aria-label = Personaliziraj
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,7 @@ newtab-menu-save-to-pocket = Spremi u { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši sponzori i tvoja privatnost
+newtab-menu-about-fakespot = O proširenju { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -233,6 +241,8 @@ newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
 newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dio { -brand-product-name } obitelji
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Spremi
 newtab-pocket-saved = Spremljeno
 
@@ -310,6 +320,8 @@ newtab-wallpaper-dark-panda = Crvena panda skrivena u šumi
 newtab-wallpaper-dark-sky = Gradski pejzaž s noćnim nebom
 newtab-wallpaper-dark-mountain = Planinski krajolik
 newtab-wallpaper-dark-city = Ljubičasti gradski pejzaž
+newtab-wallpaper-dark-fox-anniversary = Lisica na kolniku u blizini šume
+newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju s maglovitim planinskim krajolikom
 
 ## Solid Colors
 

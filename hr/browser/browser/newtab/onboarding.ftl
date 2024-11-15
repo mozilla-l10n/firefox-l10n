@@ -357,6 +357,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kada ste sinkronizira
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam čuva leđa
 onboarding-gratitude-security-and-privacy-subtitle = Hvala što koristiš { -brand-short-name } kojeg podupire Mozilla zaklada. Uz tvoju podršku, radimo na tome da učinimo Internet sigurnijim i dostupnijim za sve.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sinkroniziraj svoje podatke na svim uređajima
 
 ## New user time and familiarity survey strings
 
@@ -387,3 +389,6 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Prozor preglednika koji prikazuje kartice u gornjem rubu.
+
+## New user onboarding checklist
+
