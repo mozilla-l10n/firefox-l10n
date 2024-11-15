@@ -404,3 +404,10 @@ onboarding-genai-sidebar-secondary-button = Počni pregledavati
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Dovršite postavljanje { -brand-short-name(case: "gen") }
+onboarding-checklist-subtitle = Dovrši ove korake za što bolje pregledavanje.
+onboarding-checklist-set-default = Postavi { -brand-short-name } kao standardni preglednik
+onboarding-checklist-pin = Prikvači { -brand-short-name } na programsku traku
+onboarding-checklist-import = Uvezi iz prethodnog preglednika
+onboarding-checklist-extension = Dodaj proširenje
+onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun

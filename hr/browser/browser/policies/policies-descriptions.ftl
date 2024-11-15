@@ -28,6 +28,7 @@ policy-Bookmarks = Stvori zabilješke u alatnoj traci zabilješki, u izborniku z
 policy-CaptivePortal = Aktiviraj ili deaktiviraj podršku za prilagođenu početnu stranicu na mreži (captive portal).
 policy-CertificatesDescription = Dodaj certifikate ili koristite ugrađene certifikate.
 policy-Cookies = Dozvoli ili zabrani internetskim stranicama postavljanje kolačića.
+policy-DisableAccounts = Deaktiviraj usluge za račune, uključujući sinkronizaciju.
 policy-DisabledCiphers = Deaktiviraj šifratore.
 policy-DefaultDownloadDirectory = Postavi standardnu mapu za preuzimanje.
 policy-DisableAppUpdate = Spriječi aktualiziranje preglednika.
@@ -37,7 +38,7 @@ policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
-policy-DisableFirefoxAccounts1 = Deaktiviraj usluge temeljene na računu, uključujući sinkronizaciju.
+policy-DisableFirefoxAccounts1 = Deaktiviraj usluge za račune, uključujući sinkronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogući funkciju Firefox Screenshots.
 policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
@@ -75,6 +76,8 @@ policy-Handlers = Postavi standardne rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
+policy-HttpAllowlist = Izvori koji se neće nadograditi na HTTPS.
+policy-HttpsOnlyMode = Dozvoli da se aktivira samo HTTPS način.
 policy-InstallAddonsPermission = Dozvoli određenim web stranicama instalirati dodatke.
 policy-LegacyProfiles = Deaktiviraj funkciju koja nameće zaseban profil za svaku instalaciju.
 
@@ -89,6 +92,7 @@ policy-LocalFileLinks = Dozvoli određenim web stranicama povezivanje na lokalne
 policy-ManagedBookmarks = Konfigurira popis zabilješki kojima upravlja administrator, a koje korisnik ne može mijenjati.
 policy-ManualAppUpdateOnly = Dopusti samo ručno aktualiziranje i ne obavještavaj korisnika o novim verzijama.
 policy-PrimaryPassword = Zahtijevaj ili spriječi upotrebu glavne lozinke.
+policy-PrintingEnabled = Omogući ili onemogući ispis.
 policy-NetworkPrediction = Aktiviraj ili deaktiviraj predviđanje mreže (DNS prefetching).
 policy-NewTabPage = Aktiviraj ili deaktiviraj stranicu Nova kartica.
 policy-NoDefaultBookmarks = Onemogući izradu standardnih zabilješki koje dolaze s { -brand-short-name }om i pametnih zabilješki (Najposjećenije, Nedavne oznake). Napomena: ovo pravilo djeluje samo, ako se koristi prije prvog pokretanja profila.
@@ -104,6 +108,7 @@ policy-Permissions2 = Podesi dozvole za kameru, mikrofon, mjesto, obavijesti i a
 policy-PictureInPicture = Aktiviraj ili deaktiviraj funkciju „Slika-u-slici”.
 policy-PopupBlocking = Dozvoli određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
+policy-PrivateBrowsingModeAvailability = Postavi dostupnost modusa privatnog pregledavanja.
 policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzimanja.
 policy-Proxy = Podesi proxy postavke.
 policy-RequestedLocales = Postavite popis traženih jezika za aplikaciju prema redosljedu preferencija.
@@ -123,3 +128,6 @@ policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 policy-UseSystemPrintDialog = Ispiši pomoću dijaloškog prozora sustava …
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokiraj posjećivanje web stranica. Prouči dokumentaciju za daljnje detalje o formatu.
+policy-Windows10SSO = Dozvoli jednokratnu prijavu na Windows za Microsoftove, poslovne i školske račune.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Dozvoli jednokratnu prijavu na Windows za Microsoft Entra račune.
