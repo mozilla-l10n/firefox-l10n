@@ -422,3 +422,10 @@ onboarding-genai-sidebar-secondary-button = Шолуды бастау
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = { -brand-short-name } баптауды аяқтау
+onboarding-checklist-subtitle = Шолу тәжірибесін барынша пайдалану үшін осы қадамдарды орындаңыз.
+onboarding-checklist-set-default = { -brand-short-name } өнімін негізгі браузер ету
+onboarding-checklist-pin = { -brand-short-name } өнімін тапсырмалар панеліне бекіту
+onboarding-checklist-import = Бұрынғы браузерден импорттау
+onboarding-checklist-extension = Кеңейтуді қосу
+onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелгіңізге кіріңіз
