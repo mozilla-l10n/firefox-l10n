@@ -357,6 +357,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Gaž sćo synchroniz�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami stoj
 onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót załožby Mozilla Foundation spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Daty pśez rědy synchronizěrowaś
+onboarding-sign-up-button = Registrěrowaś abo pśizjawiś
+onboarding-sign-up-secondary-button = Pśeglědowanje zachopiś
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +420,10 @@ onboarding-genai-sidebar-title = Wopytajśo chatowy bot KI w bocnicy.
 onboarding-genai-sidebar-subtitle = Zespominajśo webwopśimjeśe, ideje namakanja idejow, nacerjenja powěsćow – wšykno, gaž pśeglědujośo. Wubjeŕśo z někotarych póbitowarjow. Móžośo jogo kuždy raz změniś. <a data-l10n-name="learn-more">Dalšne informacije</a>
 onboarding-genai-sidebar-primary-button = Wubjeŕśo chatowy bot
 onboarding-genai-sidebar-secondary-button = Pśeglědowanje zachopiś
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Konfiguraciju { -brand-short-name } skóńcyś
+onboarding-checklist-set-default = Nastajśo { -brand-short-name } ako standardny wobglědowak
+onboarding-checklist-pin = Pśipějśo { -brand-short-name } k nadawkowej rědce
+onboarding-checklist-import = Z pjerwjejšnego wobglědowaka importěrowaś
