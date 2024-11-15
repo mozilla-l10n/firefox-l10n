@@ -340,6 +340,9 @@ onboarding-mobile-download-security-and-privacy-subtitle = { -brand-short-name }
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 为您护航
 onboarding-gratitude-security-and-privacy-subtitle = 感谢使用由 Mozilla 基金会支持的 { -brand-short-name }。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
+# Sign up or Sign in screen
+onboarding-sign-up-title = 跨设备同步数据
+onboarding-sign-up-button = 注册或登录
 
 ## New user time and familiarity survey strings
 
@@ -399,3 +402,6 @@ onboarding-genai-sidebar-title = 试试侧栏中的 AI 聊天机器人
 onboarding-genai-sidebar-subtitle = 摘要总结、集思广益、起草邮件，在浏览时顺手就能搞定。有多个提供方可供选择，以后也可随时切换。<a data-l10n-name="learn-more">详细了解</a>
 onboarding-genai-sidebar-primary-button = 选择聊天机器人
 onboarding-genai-sidebar-secondary-button = 开始上网冲浪
+
+## New user onboarding checklist
+

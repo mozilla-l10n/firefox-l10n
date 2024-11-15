@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = 移动设备上的书签
 
+## Profiles Menu
+
+menu-profiles =
+    .label = 配置文件
+menu-profiles-manage-profiles =
+    .label = 管理配置文件
+menu-profiles-new-profile =
+    .label = 新建配置文件
+
 ## Tools Menu
 
 menu-tools =
