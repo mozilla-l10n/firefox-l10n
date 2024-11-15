@@ -342,6 +342,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 为您�
 onboarding-gratitude-security-and-privacy-subtitle = 感谢使用由 Mozilla 基金会支持的 { -brand-short-name }。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
 # Sign up or Sign in screen
 onboarding-sign-up-title = 跨设备同步数据
+onboarding-sign-up-description = 注册账户，将您的密码、书签等所有重要信息安全存储，并可在登录账户后的各设备上随手取用。
 onboarding-sign-up-button = 注册或登录
 onboarding-sign-up-secondary-button = 开始浏览
 

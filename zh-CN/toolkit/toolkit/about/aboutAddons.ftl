@@ -284,6 +284,9 @@ find-more-themes = 寻找更多主题
 # used for screen readers.
 addon-options-button =
     .aria-label = 更多选项
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = 您可通过安装扩展和主题来定制 { -brand-product-name }，强化隐私保护、提升浏览效率、改进媒体体验、更改 { -brand-product-name } 外观，还有更多妙用。这些小型软件程序大多由第三方开发。以下是一些 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全、性能、功能等方面表现优秀。
 
 ## Add-on actions
 

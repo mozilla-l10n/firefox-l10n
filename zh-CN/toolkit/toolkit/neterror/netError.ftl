@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } 因某些不明原因无法加载
 neterror-load-error-try-again = 此站点暂时无法使用或者太过忙碌。请过几分钟后再试。
 neterror-load-error-connection = 如果您无法加载任何网页，请检查您计算机的网络连接状态。
 neterror-load-error-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = 若您正尝试加载本地网络页面，请在 macOS 的“隐私与安全性”设置中检查是否已允许 { -brand-short-name } 访问“本地网络”。
 neterror-captive-portal = 您必须先登录此网络才能访问互联网。
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
