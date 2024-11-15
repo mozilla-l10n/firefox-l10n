@@ -256,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobilne zabilješke
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profili
+menu-profiles-manage-profiles =
+    .label = Upravljaj profilima
+menu-profiles-new-profile =
+    .label = Novi profil
+
 ## Tools Menu
 
 menu-tools =
