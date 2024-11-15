@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Klask ivinelloù
-
 all-tabs-menu-new-user-context =
     .label = Ivinell endalc'her nevez
-
 all-tabs-menu-hidden-tabs =
     .label = Ivinell kuzh
-
 all-tabs-menu-manage-user-context =
     .label = Merañ an endalc'herioù
     .accesskey = e
+all-tabs-menu-synced-tabs =
+    .label = Ivinelloù an trevnadoù all
