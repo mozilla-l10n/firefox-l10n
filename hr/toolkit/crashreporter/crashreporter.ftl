@@ -29,3 +29,10 @@ crashreporter-crash-identifier = ID rušenja: { $id }
 
 # $path (String) - the file path
 crashreporter-error-opening-file = Neuspjelo otvaranje datoteke ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Neuspjelo učitavanje datoteke ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Neuspjelo stvaranje direktorija ({ $path })
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Neuspjelo premještanje { $from } u { $to }

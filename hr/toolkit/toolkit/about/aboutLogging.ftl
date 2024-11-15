@@ -14,6 +14,7 @@ about-logging-info = Informacije:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Mrežno povezivanje
 about-logging-preset-networking-cookie-label = Kolačići
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Reprodukcija medija

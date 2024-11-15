@@ -24,6 +24,7 @@ about-processes-column-cpu-total = CPU
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Dijeljeni web proces ({ $pid })
 about-processes-file-process = Datoteke ({ $pid })
 about-processes-extension-process = Proširenja ({ $pid })
 about-processes-privilegedabout-process = Informacije o stranicama ({ $pid })
@@ -33,6 +34,7 @@ about-processes-gmp-plugin-process = Gecko medijski dodaci ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Mreža ({ $pid })
+about-processes-utility-process = Uslužni program ({ $pid })
 
 ## Isolated process names
 ## Variables:

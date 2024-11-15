@@ -5,6 +5,8 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = O { -glean-brand-name }
 about-glean-header = O { -glean-brand-name }
@@ -28,5 +30,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = O testiranju
 about-glean-about-data-header = O podacima
 about-glean-about-data-explanation = Za pregledavanje popisa prikupljenih podataka, pogledaj<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Rječnik</a>.
