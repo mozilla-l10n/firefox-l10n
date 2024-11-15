@@ -55,9 +55,29 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } ᱠᱩᱞᱤ ᱮᱢ
+genai-input-ask-generic =
+    .placeholder = AI ᱪᱟᱴᱵᱚᱴ ᱠᱩᱞᱤ ᱮᱢ …
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } ᱠᱩᱞᱤ ᱮᱢ …
+genai-shortcuts-hide =
+    .label = ᱪᱟᱴᱵᱚᱴ ᱥᱚᱴᱠᱟᱴ ᱩᱠᱩᱭ ᱢᱮ
 
 ## Chatbot header
 
+genai-chatbot-title = AI ᱪᱟᱴᱵᱚᱴ
+genai-header-provider-menu =
+    .title = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+genai-header-options-button =
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+genai-header-close-button =
+    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+genai-provider-view-details =
+    .label = ᱪᱟᱴᱵᱚᱴ ᱵᱤᱵᱨᱚᱬ ᱧᱮᱞ ᱢᱮ
+genai-provider-about-chatbots =
+    .label = ᱱᱚᱶᱟ ᱠᱚ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱨᱮᱛᱮ
+genai-options-reload-generic =
+    .label = AI ᱪᱟᱴᱵᱚᱴ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
 
 ## Chatbot onboarding
 
