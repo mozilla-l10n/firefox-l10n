@@ -35,6 +35,12 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Mreža ({ $pid })
 about-processes-utility-process = Uslužni program ({ $pid })
+about-processes-inference-process = Zaključivanje ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Drugo: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -89,6 +95,8 @@ about-processes-cpu-almost-idle = < 0,1 %
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 

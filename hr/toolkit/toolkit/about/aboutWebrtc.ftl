@@ -101,6 +101,8 @@ about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Klikni za rasklapanje ovog odjeljka
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
     .title = Klikni za sklapanje ovog odjeljka
+about-webrtc-copy-report-button = Kopiraj izvještaj
+about-webrtc-copy-report-history-button = Kopiraj povijest izvještaja
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -116,6 +118,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Slanje / Primanje: { $codecs }
+about-webrtc-short-send-direction = Slanje: { $codecs }
+about-webrtc-short-receive-direction = Primanje: { $codecs }
 
 ##
 

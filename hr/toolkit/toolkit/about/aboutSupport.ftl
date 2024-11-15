@@ -168,6 +168,9 @@ media-capabilities-enumerate = Popis unosa baze podataka
 
 ## Codec support table
 
+media-codec-support-codec-name = Ime kodeka
+media-codec-support-supported = Podržano
+media-codec-support-unsupported = Nepodržano
 media-codec-support-lack-of-extension = Instaliraj proširenje
 
 ## Media Content Decryption Modules (CDM)
@@ -335,6 +338,10 @@ launcher-process-status-unknown = Nepoznato stanje
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Onemogućio eksperiment
 fission-status-experiment-treatment = Aktivirano od eksperimenta
 fission-status-disabled-by-e10s-env = Onemogućilo okruženje
@@ -400,6 +407,10 @@ pointing-device-touchscreen = Ekran na dodir
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analiza sadržaja (DLP)
 content-analysis-active = Aktivno
 content-analysis-connected-to-agent = Povezano s agentom
 content-analysis-agent-path = Putanja agenta

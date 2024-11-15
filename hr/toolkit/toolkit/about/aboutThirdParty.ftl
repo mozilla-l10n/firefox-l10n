@@ -49,3 +49,6 @@ third-party-button-collapse =
 third-party-should-restart-title = Ponovo pokreni { -brand-short-name }
 third-party-restart-now = Ponovno pokreni sada
 third-party-restart-later = Ponovo pokreni kasnije
+third-party-blocked-by-builtin =
+    .title = Blokirano od { -brand-short-name(case: "gen") }
+    .alt = Blokirano od { -brand-short-name(case: "gen") }
