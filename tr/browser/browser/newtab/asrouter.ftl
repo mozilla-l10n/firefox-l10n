@@ -329,7 +329,7 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Gezinmeye başla
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } tarayıcısını ana tarayıcım yap
-multi-cta-fox-doodle-quick-reminder-subtitle = Küçük bir hatırlatma: En sevdiğiniz tarayıcınızı bir tık kadar yakınınızda tutabilirsiniz.
+multi-cta-fox-doodle-quick-reminder-subtitle = Küçük bir hatırlatma: En sevdiğiniz gizlilik odaklı tarayıcınızı bir tık kadar yakınınızda tutabilirsiniz.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
         [macos] Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da Dock’a sabitleyin.
