@@ -12,9 +12,19 @@ profile-window-create-profile = Criar um perfil
 profile-card-edit-button =
     .title = Editar perfil
     .aria-label = Editar perfil
+profile-card-delete-button =
+    .title = Excluir perfil
+    .aria-label = Excluir perfil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Abrir { $profileName }
+    .aria-label = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Perfil original
 edit-profile-page-title = Editar perfil
 edit-profile-page-header = Editar seu perfil
 edit-profile-page-profile-name-label = Nome do perfil

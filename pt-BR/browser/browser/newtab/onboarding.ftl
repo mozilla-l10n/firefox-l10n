@@ -423,6 +423,7 @@ onboarding-genai-sidebar-secondary-button = Iniciar navegação
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Conclua a configuração do { -brand-short-name }
 onboarding-checklist-subtitle = Complete estas etapas para aproveitar ao máximo sua experiência de navegação.
 onboarding-checklist-set-default = Defina o { -brand-short-name } como navegador padrão
 onboarding-checklist-pin = Fixe o { -brand-short-name } na barra de tarefas
