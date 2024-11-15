@@ -268,11 +268,28 @@ appmenu-help-not-deceptive =
 appmenu-customizetoolbar =
     .label = কাস্টোমাইজ টুলবার…
 appmenu-developer-tools-subheader = ব্রাউজারের সরঞ্জাম
+appmenu-developer-tools-extensions =
+    .label = ডেভেলপারদের এক্সটেনশন
+appmenuitem-report-broken-site =
+    .label = ব্রোকেন সাইট রিপোর্ট
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = আপনার অ্যাকাউন্টে সাইন ইন করুন
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = ডেটা লঙ্ঘনের সতর্কতা পান
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = আপনার আসল ইমেল এবং ফোন মাস্ক করুন
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = আপনার অনলাইন কার্যকলাপ রক্ষা করুন
 
 ## Profiles panel
 
+appmenu-profiles = প্রোফাইল
+appmenu-other-profiles = অন্যান্য প্রোফাইল
+appmenu-manage-profiles =
+    .label = প্রোফাইল ব্যবস্থাপনা করুন
+appmenu-create-profile =
+    .label = নতুন প্রোফাইল
 appmenu-edit-profile =
     .aria-label = প্রোফাইল সম্পাদনা করুন
