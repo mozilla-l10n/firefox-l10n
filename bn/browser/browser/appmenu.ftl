@@ -136,8 +136,12 @@ profiler-popup-button-recording =
 profiler-popup-button-capturing =
     .label = প্রোফাইলার
     .tooltiptext = প্রোফাইলার একটি প্রোফাইল ক্যাপচার করছে
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = আরো তথ্য দেখুন
+profiler-popup-description-title =
+    .value = রেকর্ড, বিশ্লেষণ, শেয়ার
+profiler-popup-description = আপনার টিমের সাথে শেয়ার করার জন্য প্রোফাইল পাবলিশ করে পারফরম্যান্সের সমস্যায় সহযোগিতা করুন।
 profiler-popup-learn-more-button =
     .label = আরও জানুন
 profiler-popup-settings =
@@ -150,6 +154,8 @@ profiler-popup-start-recording-button =
     .label = রেকডিং শুরু করুন
 profiler-popup-discard-button =
     .label = বাতিল
+profiler-popup-capture-button =
+    .label = ক্যাপচার
 
 ## Profiler presets
 ## They are shown in the popup's select box.
