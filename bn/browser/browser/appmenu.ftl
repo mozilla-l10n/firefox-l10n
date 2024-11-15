@@ -156,6 +156,16 @@ profiler-popup-discard-button =
     .label = বাতিল
 profiler-popup-capture-button =
     .label = ক্যাপচার
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -170,6 +180,30 @@ profiler-popup-capture-button =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = কম ওভারহেড সহ বেশিরভাগ ওয়েব অ্যাপ ডিবাগিংয়ের জন্য প্রস্তাবিত প্রিসেট।
+profiler-popup-presets-web-developer-label =
+    .label = ওয়েব ডেভেলপার
+profiler-popup-presets-firefox-description = প্রোফাইলিংয়ের জন্য প্রস্তাবিত প্রিসেট { -brand-shorter-name }।
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = { -brand-shorter-name }-এ গ্রাফিক্স বাগ তদন্ত করার প্রিসেট৷
+profiler-popup-presets-graphics-label =
+    .label = গ্রাফিক্স
+profiler-popup-presets-media-description2 = { -brand-shorter-name }-এ অডিও এবং ভিডিও বাগ তদন্তের প্রিসেট৷
+profiler-popup-presets-media-label =
+    .label = মিডিয়া
+profiler-popup-presets-networking-description = { -brand-shorter-name }-এ নেটওয়ার্কিং বাগ তদন্তের প্রিসেট।
+profiler-popup-presets-networking-label =
+    .label = নেটওয়ার্কিং
+profiler-popup-presets-power-description = কম ওভারহেড সহ { -brand-shorter-name }-এ পাওয়ার ইউজ বাগ তদন্তের প্রিসেট।
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = পাওয়ার
+profiler-popup-presets-debug-description = { -brand-shorter-name }-এ ডিবাগিংয়ের প্রিসেট। উচ্চ ওভারহেড, কর্মক্ষম কাজের জন্য ব্যবহার করবেন না, শুধু ব্রাউজারের আচরণ বোঝার উপর ফোকাস করার জন্য ব্যবহার করুন।
+profiler-popup-presets-debug-label =
+    .label = ডিবাগ
+profiler-popup-presets-custom-label =
+    .label = কাস্টম
 
 ## History panel
 
@@ -184,6 +218,9 @@ appmenu-recently-closed-tabs =
     .label = সম্প্রতি বন্ধ করা ট্যাব
 appmenu-recently-closed-windows =
     .label = সম্প্রতি বন্ধ করা উইন্ডো
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = অনুসন্ধান ইতিহাস
 
 ## Help panel
 
@@ -203,6 +240,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = ধারনা ও প্রতিক্রিয়া শেয়ার করুন…
     .accesskey = S
+appmenu-help-switch-device =
+    .label = একটি নতুন ডিভাইসে স্যুইচ করা হচ্ছে
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -226,6 +265,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = কাস্টোমাইজ টুলবার…
 appmenu-developer-tools-subheader = ব্রাউজারের সরঞ্জাম
 
 ## Panel for privacy and security products
@@ -233,3 +274,5 @@ appmenu-developer-tools-subheader = ব্রাউজারের সরঞ্�
 
 ## Profiles panel
 
+appmenu-edit-profile =
+    .aria-label = প্রোফাইল সম্পাদনা করুন
