@@ -170,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Onlangs gesloten tabbladen doorzoeken
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Tabbladen doorzoeken
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Gesynchroniseerde tabbladen doorzoeken
 # Placeholder for the input field to search in open tabs ("search" is a verb).

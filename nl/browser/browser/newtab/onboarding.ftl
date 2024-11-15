@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Wanneer u bent gesync
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } is er voor u
 onboarding-gratitude-security-and-privacy-subtitle = Bedankt voor het gebruik van { -brand-short-name }, ondersteund door de Mozilla Foundation. Met uw steun werken we eraan om het internet voor iedereen veiliger en meer toegankelijk te maken.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Uw gegevens tussen apparaten synchroniseren
+onboarding-sign-up-description = Schrijf u in voor een account en al uw belangrijke gegevens – wachtwoorden, bladwijzers en meer – worden veilig opgeslagen en zijn beschikbaar wanneer u zich aanmeldt op een apparaat.
+onboarding-sign-up-button = Registreren of aanmelden
+onboarding-sign-up-secondary-button = Beginnen met browsen
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,13 @@ onboarding-genai-sidebar-title = Probeer een AI-chatbot in de zijbalk
 onboarding-genai-sidebar-subtitle = Vat webinhoud samen, brainstorm over ideeën, stel berichten op – allemaal terwijl u surft. Kies uit meerdere providers. Wissel op elk gewenst moment. <a data-l10n-name="learn-more">Meer info</a>
 onboarding-genai-sidebar-primary-button = Kies een chatbot
 onboarding-genai-sidebar-secondary-button = Beginnen met surfen
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Instellen van { -brand-short-name } voltooien
+onboarding-checklist-subtitle = Voltooi deze stappen om het meeste uit uw surfervaring te halen.
+onboarding-checklist-set-default = { -brand-short-name } instellen als standaardbrowser
+onboarding-checklist-pin = { -brand-short-name } aan de taakbalk vastmaken
+onboarding-checklist-import = Importeren uit vorige browser
+onboarding-checklist-extension = Een extensie toevoegen
+onboarding-checklist-sign-up = Registreren of aanmelden bij uw account

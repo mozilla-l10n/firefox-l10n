@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobiel-bladwijzers
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profielen
+menu-profiles-manage-profiles =
+    .label = Profielen beheren
+menu-profiles-new-profile =
+    .label = Nieuw profiel
+
 ## Tools Menu
 
 menu-tools =

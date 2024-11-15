@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Creditcards
 sync-currently-syncing-payment-methods = Betalingsmethoden
 sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Instellingen
+sync-manage-options =
+    .label = Synchronisatie beheren…
+    .accesskey = b
 sync-change-options =
     .label = Wijzigen…
     .accesskey = W
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Instellingen
     .tooltiptext = Door u gewijzigde algemene, privacy- en beveiligingsinstellingen
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Beheren wat wordt gesynchroniseerd op al uw verbonden apparaten
+    .style = min-width: 36em;
+    .buttonlabelaccept = Opslaan
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra2 = Verbinding verbreken…
+    .buttonaccesskeyextra2 = v
 
 ## The device name controls.
 

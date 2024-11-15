@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } kan deze pagina om de een of ande
 neterror-load-error-try-again = Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.
 neterror-load-error-connection = Als u geen enkele pagina kunt laden, controleer dan de netwerkverbinding van uw computer.
 neterror-load-error-firewall = Als uw computer of netwerk wordt beveiligd door een firewall of proxy, zorg er dan voor dat { -brand-short-name } toegang heeft tot het web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Als u een lokale netwerkpagina probeert te laden, controleer dan in de privacy- en beveiligingsinstellingen van macOS of { -brand-short-name } toestemming heeft voor een Lokaal netwerk.
 neterror-captive-portal = U moet zich aanmelden bij dit netwerk voordat u toegang hebt tot het internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
