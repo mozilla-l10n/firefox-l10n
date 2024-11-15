@@ -481,6 +481,16 @@ about-logins-import-report-added2 =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus parool lisatud</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uut parooli lisatud</div>
     }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolev kasutajatunnus uuendatud</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolevat kasutajatunnust uuendatud</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaat</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">viga</div> <div data-l10n-name="not-imported">(ei imporditud)</div>

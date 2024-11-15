@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = Leht eemaldati
 pocket-panel-saved-page-saved = { -pocket-brand-name }isse salvestatud
 pocket-panel-saved-page-saved-b = Salvesta { -pocket-brand-name }isse!
 pocket-panel-saved-processing-remove = Lehe eemaldamine…
+pocket-panel-saved-removed-updated = Leht eemaldati salvestatud lehtede seast
 pocket-panel-saved-processing-tags = Siltide lisamine…
 pocket-panel-saved-remove-page = Eemalda leht
 pocket-panel-saved-save-tags = Salvesta
@@ -42,7 +43,9 @@ pocket-panel-signup-tagline = Salvesta { -brand-product-name }ist artikleid ja v
 pocket-panel-signup-tagline-story-one = Artikli, video või lehe salvestamiseks { -brand-product-name }is klõpsa { -pocket-brand-name }i nupul.
 pocket-panel-signup-tagline-story-two = Vaata { -pocket-brand-name }ist kõigil seadmeil just siis, kui ise soovid.
 pocket-panel-signup-cta-a-fix = Sinu interneti salvestamise nupp
+pocket-panel-signup-cta-b-updated = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu. Vaata oma salvestatut mis tahes seadmes ja igal ajal.
 pocket-panel-signup-cta-b-short = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu.
+pocket-panel-signup-cta-c-updated = Vaata oma salvestatut mis tahes seadmes ja igal ajal.
 
 ## about:pocket-home panel
 
@@ -58,6 +61,7 @@ pocket-panel-home-new-user-message = Vaata oma viimati salvestatud linke siit.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Vaata minu salvestatut
 pocket-panel-header-sign-in = Logi sisse
 
 ## Pocket panel buttons
