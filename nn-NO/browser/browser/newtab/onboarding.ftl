@@ -356,6 +356,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Når du er synkronise
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passar på deg
 onboarding-gratitude-security-and-privacy-subtitle = Takk for at du brukar { -brand-short-name }, støtta av Mozilla Foundation. Med di støtte jobbar vi for å gjere internett tryggare og meir tilgjengelig for alle.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synkroniser data på tvers av einingar
+onboarding-sign-up-button = Registrer deg eller logg inn
+onboarding-sign-up-secondary-button = Begynn å surfe
 
 ## New user time and familiarity survey strings
 
@@ -397,3 +401,12 @@ onboarding-existing-horizontal-tabs-label = Behald horisontale faner
 onboarding-genai-sidebar-title = Prøv ein samtalerobot i sidefeltet
 onboarding-genai-sidebar-primary-button = Vel ein samtalerobot
 onboarding-genai-sidebar-secondary-button = Start nettlesinga
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Fullfør konfigureringa av { -brand-short-name }
+onboarding-checklist-set-default = Bruk { -brand-short-name } som standardnettlesar
+onboarding-checklist-pin = Fest { -brand-short-name } til oppgåvelinja
+onboarding-checklist-import = Importer frå tidlegare nettlesar
+onboarding-checklist-extension = Legg til ei utviding
+onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din

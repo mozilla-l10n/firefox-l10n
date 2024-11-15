@@ -177,8 +177,11 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Opprett fanegruppe
 tab-group-editor-title-edit = Handsam fanegruppe
 tab-group-editor-name-label = Namn
+tab-group-editor-name-field =
+    .placeholder = Døme: Shopping
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A

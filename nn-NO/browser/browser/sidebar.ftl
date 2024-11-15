@@ -58,6 +58,8 @@ sidebar-customize-button-header =
     .label = Sidestolpeknapp
 sidebar-customize-position-header =
     .label = Sidestolpe-plassering
+sidebar-visibility-setting-hide-sidebar =
+    .label = Vis og skjul sidestolpen
 
 ## Labels for sidebar context menu items
 
@@ -100,6 +102,27 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Vurderingskontrollør
 
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Opne historikk ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Lat att historikk ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Opne bokmerke ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Lat att bokmerke ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Opne AI chatbot
+sidebar-menu-close-ai-chatbot-tooltip = Lat att AI chatbot
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -128,6 +151,12 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Utvid sidestolpen
+    .label = Sidestolpar
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Skjul sidestolpen
+    .label = Sidestolpar
 sidebar-widget-show-sidebar =
     .tooltiptext = Vis sidestolpe
     .label = Sidestolpar

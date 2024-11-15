@@ -16,6 +16,7 @@ edit-profile-page-explore-themes = Utforsk fleire tema
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Slett
+edit-profile-page-duplicate-name = Profilnamnet er allereie i bruk.
 edit-profile-page-profile-saved = Lagra
 new-profile-page-title = Ny profil
 new-profile-page-header = Tilpass den nye profilen din

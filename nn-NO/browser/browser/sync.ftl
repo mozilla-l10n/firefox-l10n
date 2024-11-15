@@ -37,3 +37,4 @@ fxa-menu-sync-title = Synkroniser
 fxa-menu-sync-description = Få tilgang til nettet ditt kvar som helst
 sync-setup-verify-continue = Hald fram
 sync-setup-verify-title = Åtvaring om samanslåing av data
+sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkronisere?
