@@ -39,9 +39,22 @@ genai-prompts-simplify =
 genai-prompts-quiz =
     .label = ᱠᱩᱠᱞᱤ ᱠᱷᱮᱞ
     .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱵᱟᱪᱷᱟᱣ ᱪᱮᱛᱟᱱ ᱨᱮ ᱠᱩᱠᱞᱤ ᱤᱧ ᱢᱮ ᱾ ᱤᱧ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱩᱠᱞᱤ ᱠᱚ ᱠᱩᱞᱤᱭᱤᱧ ᱢᱮ, ᱫᱟᱹᱭᱠᱟᱹ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱪᱷᱟᱣ, ᱥᱟᱹᱨᱤ ᱥᱮ ᱵᱟᱹᱲᱤᱡ, ᱟᱨ ᱠᱷᱟᱴᱚ ᱛᱮᱞᱟ ᱾ ᱫᱚᱥᱟᱨ ᱠᱩᱠᱞᱤ ᱨᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱦᱟᱨᱮ ᱤᱧᱟᱜ ᱛᱮᱞᱟ ᱛᱟᱺᱜᱤ ᱢᱮ ᱾
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = ᱱᱚᱣᱟ ᱞᱟᱹᱭ ᱢᱮ
+    .value = ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱵᱟᱪᱷᱟᱣ ᱨᱮᱱᱟᱜ ᱢᱩᱲᱩᱫ ᱫᱷᱟᱨᱱᱟ ᱠᱚ ᱟᱞᱜᱟ ᱟᱹᱲᱟᱹ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱞᱟᱹᱭ ᱢᱮ ᱾  ᱟᱨᱦᱚᱸ, ᱫᱟᱹᱭᱠᱟᱹ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = ᱤᱧ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱱᱟᱹᱧᱟ “{ $tabTitle }” ᱥᱟᱶ “{ $selection }” ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ ᱾
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = AI ᱪᱟᱴᱵᱚᱴ ᱠᱩᱞᱤ ᱮᱢ
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } ᱠᱩᱞᱤ ᱮᱢ
 
 ## Chatbot header
 
