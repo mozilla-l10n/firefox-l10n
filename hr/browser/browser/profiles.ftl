@@ -2,6 +2,36 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } – Odaberi korisnički profil
+profile-window-heading = Odaberi { -brand-short-name } profil
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Prikaži ovo kada se otvori { -brand-short-name }
+profile-window-create-profile = Stvori profil
+profile-card-edit-button =
+    .title = Uredi profil
+    .aria-label = Uredi profil
+profile-card-delete-button =
+    .title = Izbriši profil
+    .aria-label = Izbriši profil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Otvori { $profileName }
+    .aria-label = Otvori { $profileName }
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Početni profil
+edit-profile-page-title = Uredi profil
+edit-profile-page-header = Uredi svoj profil
+edit-profile-page-profile-name-label = Ime profila
+edit-profile-page-theme-header = Tema
+edit-profile-page-explore-themes = Otkrij još tema
+edit-profile-page-avatar-header = Avatar
+edit-profile-page-delete-button =
+    .label = Izbriši
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 

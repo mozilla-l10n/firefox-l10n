@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Otvori { -brand-short-name } automatski nakon pokretanja računala
     .accesskey = O
 windows-launch-on-login-disabled = Ova je postavka deaktivirana Windows sustavu. Za mijenjanje postavke idi na <a data-l10n-name="startup-link">Aplikacije nakon pokretanja računala</a> u postavkama sustava.
+windows-launch-on-login-profile-disabled = Aktiviraj ovu postavku označavanjem polja „{ profile-manager-use-selected.label }” u prozoru „Odaberi korisnički profil”.
 startup-restore-warn-on-quit =
     .label = Upozorava te prilikom zatvaranja preglednika
 disable-extension =
@@ -645,6 +646,10 @@ search-show-suggestions-url-bar-option =
     .label = Prikaži prijedloge pretraživanja u rezultatima adresne trake
     .accesskey = l
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Prikaži pojmove pretraživanja u adresnoj traci na stranicama s rezultatima
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
@@ -787,6 +792,9 @@ sync-currently-syncing-creditcards = Kreditne kartice
 sync-currently-syncing-payment-methods = Načini plaćanja
 sync-currently-syncing-addons = Dodaci
 sync-currently-syncing-settings = Postavke
+sync-manage-options =
+    .label = Upravljaj sinkronizacijom …
+    .accesskey = U
 sync-change-options =
     .label = Promijeni …
     .accesskey = P
@@ -839,6 +847,13 @@ sync-engine-settings =
     .label = Postavke
     .tooltiptext = Općenite postavke i postavke privatnosti i sigurnosti koje ste promijenili
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Upravljaj svime što se sinkronizira na svim tvojim povezanim uređajima
+    .style = min-width: 36em;
+    .buttonlabelaccept = Spremi
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odspoji …
+    .buttonaccesskeyextra2 = O
 
 ## The device name controls.
 
