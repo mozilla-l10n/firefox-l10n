@@ -464,6 +464,9 @@ pdfjs-editor-new-alt-text-added-button-label = Alt-myndatexta bætt við
 pdfjs-editor-new-alt-text-missing-button =
     .aria-label = Vantar alt-myndatexta
 pdfjs-editor-new-alt-text-missing-button-label = Vantar alt-myndatexta
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Yfirfara alt-myndatexta
 pdfjs-editor-new-alt-text-to-review-button-label = Yfirfara myndatexta
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
