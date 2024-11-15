@@ -292,6 +292,13 @@ find-more-themes = Көбірек темаларды табу
 # used for screen readers.
 addon-options-button =
     .aria-label = Көбірек опциялар
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Кеңейтулер мен темалар сізге { -brand-product-name } баптауға мүмкіндік береді. Олар жекелікті мен өнімділікті арттыруға,
+    мультимедианы жақсартуға, { -brand-product-name } сыртқы түрін өзгертуге және т.б. мүмкіндік береді. Бұл шағын
+    бағдарламалық қамтаманы көбінесе үшінші тарап әзірлейді. Мұнда ерекше қауіпсіздік, өнімділік және функционалдылық үшін
+    { -brand-product-name } <a data-l10n-name="learn-more-trigger">ұсынатын таңдау</a> берілген.
 
 ## Add-on actions
 
