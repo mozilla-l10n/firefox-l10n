@@ -485,6 +485,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = Käyttääksesi F12-pikanäppäintä, avaa ensin DevTools selaimen työkaluvalikosta.
 
 ## URL Bar
 
@@ -631,6 +632,12 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, valitse hakukone
+    .tooltiptext = { $engine }, valitse hakukone
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

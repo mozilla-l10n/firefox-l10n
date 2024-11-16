@@ -37,3 +37,8 @@ fxa-menu-sync-description = Verkkosi missä tahansa
 sync-setup-verify-continue = Jatka
 sync-setup-verify-title = Varoitus tietojen yhdistämisestä
 sync-setup-verify-heading = Haluatko varmasti kirjautua sisään synkronointia varten?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Toinen käyttäjä oli aiemmin kirjautunut sisään synkronoidakseen tällä tietokoneella. Sisäänkirjautuminen yhdistää tämän selaimen kirjanmerkit, salasanat ja muut asetukset tiliin { $email }
