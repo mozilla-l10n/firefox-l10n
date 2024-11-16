@@ -156,6 +156,17 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = ইমেইল ঠিকানা অনুলিপি
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = ফোন নম্বর কপি করুন
+    .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = লিংক কপি করুন
+    .accesskey = L
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = সাইট ট্র্যাকিং ছাড়াই লিঙ্ক কপি করুন
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -178,6 +189,19 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = শব্দ চালু
     .accesskey = m
+main-context-menu-media-play-speed-2 =
+    .label = গতি
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = পুনরাবৃত্তি
     .accesskey = L
@@ -200,12 +224,32 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = পূর্ণ পর্দাজুড়ে প্রদর্শন মোড হতে প্রস্থান
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = পিকচার-ইন-পিকচারে দেখুন
+    .accesskey = u
 main-context-menu-image-reload =
     .label = ছবি আবার লোড করা হবে
     .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = নতুন ট্যাবে ছবি খুলুন
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = নতুন ট্যাবে ভিডিও খুলুন
+    .accesskey = i
 main-context-menu-image-copy =
     .label = ছবি অনুলিপি
     .accesskey = y
+main-context-menu-image-copy-link =
+    .label = ছবির লিঙ্ক কপি করুন
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = ভিডিও লিংক কপি করুন
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = অডিও লিঙ্ক কপি করুন
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = ছবি নতুনভাবে সংরক্ষণ…
     .accesskey = v
