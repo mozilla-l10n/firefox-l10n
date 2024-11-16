@@ -9,9 +9,22 @@ profile-window-body = Pidä työsi ja henkilökohtainen selaus, mukaan lukien sa
 profile-window-checkbox-label =
     .label = Näytä tämä, kun { -brand-short-name } avautuu
 profile-window-create-profile = Luo profiili
+profile-card-edit-button =
+    .title = Muokkaa profiilia
+    .aria-label = Muokkaa profiilia
+profile-card-delete-button =
+    .title = Poista profiili
+    .aria-label = Poista profiili
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Avaa { $profileName }
+    .aria-label = Avaa { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profiili { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Alkuperäinen profiili
 edit-profile-page-title = Muokkaa profiilia
 edit-profile-page-header = Muokkaa profiiliasi
 edit-profile-page-profile-name-label = Profiilin nimi

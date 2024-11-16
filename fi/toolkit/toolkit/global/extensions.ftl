@@ -69,6 +69,10 @@ webext-perms-host-description-too-many-sites =
         [one] Käytä dataasi { $domainCount } muulta sivustolta
        *[other] Käytä dataasi { $domainCount } muulta sivustolta
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Käytä dataasi sivustoissa, jotka ovat { $domain }-verkkotunnuksissa
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
