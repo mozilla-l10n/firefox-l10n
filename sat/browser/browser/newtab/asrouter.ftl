@@ -264,18 +264,36 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩ ᱡᱷᱚᱜ { -brand-short-name } ᱡᱷᱤᱡᱽ ᱟ ᱥᱮ?</strong> ᱱᱤᱛ ᱟᱢ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱪᱟᱹᱞᱩ ᱡᱷᱚᱜ ᱟᱡ ᱛᱮ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱥᱮᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+launch-on-login-learnmore = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+launch-on-login-infobar-confirm-button = ᱦᱟᱭ, { -brand-short-name } ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = Y
+launch-on-login-infobar-reject-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩ ᱠᱟᱛᱮ { -brand-short-name } ᱡᱷᱤᱡᱽ ᱢᱮ?</strong> ᱟᱢᱟᱜ ᱥᱴᱟᱨᱴᱟᱯ ᱠᱩᱥᱤ ᱠᱚ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱥᱮᱴᱤᱝ ᱨᱮ “ᱥᱴᱟᱨᱴᱟᱯ” ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ ᱾
 launch-on-login-infobar-final-reject-button = ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ
     .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = ᱵᱟᱹᱲᱤᱡ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱢ ᱯᱟᱧᱡᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱚᱢ
+tail-fox-spotlight-subtitle = ᱦᱟᱨᱠᱮᱛ ᱮᱰ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱵᱤᱫᱟᱹ ᱢᱮᱱ ᱢᱮ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱩᱥᱟᱹᱨᱟ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱟᱹᱱᱟᱹᱭᱠᱟᱹᱣ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ᱾
+tail-fox-spotlight-primary-button = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+tail-fox-spotlight-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } ᱨᱮᱭᱟᱜ ᱢᱟᱨᱮ ᱵᱷᱟᱨᱥᱚᱱ ᱨᱮ 14 ᱡᱟᱱᱩᱣᱟᱨᱤ, 2025 ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱮᱦᱚᱵ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾</strong>
+root-certificate-succession-infobar-march-message = 14 ᱢᱟᱨᱪ, 2025 ᱛᱟᱭᱚᱢ { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾</strong>
+root-certificate-succession-infobar-link = ᱤᱧ ᱪᱮᱫᱟᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ?
 
 ## FxA Menu Message variants
 
