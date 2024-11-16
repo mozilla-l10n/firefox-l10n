@@ -295,6 +295,14 @@ find-more-themes = Etsi lisää teemoja
 # used for screen readers.
 addon-options-button =
     .aria-label = Lisää valintoja
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Laajennusten ja teemojen avulla voit muokata { -brand-product-name }ia. Ne voivat lisätä yksityisyyttä,
+    tehostaa tuottavuutta, parantaa mediaa, muuttaa { -brand-product-name }in ulkoasua ja
+    niin paljon muuta. Nämä pienet ohjelmistot ovat usein kolmannen osapuolen kehittämiä. Tässä
+    valikoima { -brand-product-name }in <a data-l10n-name="learn-more-trigger">suosittelemia</a>
+    turvallisuuden, suorituskyvyn ja toiminnallisuuden takaamiseksi.
 
 ## Add-on actions
 

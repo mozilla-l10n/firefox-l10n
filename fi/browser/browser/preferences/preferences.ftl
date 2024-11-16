@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Luottokortit
 sync-currently-syncing-payment-methods = Maksutavat
 sync-currently-syncing-addons = Lisäosat
 sync-currently-syncing-settings = Asetukset
+sync-manage-options =
+    .label = Hallinnoi synkronointia…
+    .accesskey = s
 sync-change-options =
     .label = Muuta…
     .accesskey = M
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Asetukset
     .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
     .accesskey = A
+sync-choose-what-to-sync-dialog4 =
+    .title = Hallitse mitä kaikille yhdistetyille laitteillesi synkronoidaan
+    .style = min-width: 36em;
+    .buttonlabelaccept = Tallenna
+    .buttonaccesskeyaccept = T
+    .buttonlabelextra2 = Katkaise yhteys…
+    .buttonaccesskeyextra2 = K
 
 ## The device name controls.
 
