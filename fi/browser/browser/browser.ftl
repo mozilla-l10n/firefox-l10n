@@ -632,12 +632,16 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
+urlbar-searchmode-popup-search-settings = Hakuasetukset
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button2 =
     .label = { $engine }, valitse hakukone
     .tooltiptext = { $engine }, valitse hakukone
+urlbar-searchmode-button-no-engine =
+    .label = Oikotietä ei ole valittu, valitse oikotie
+    .tooltiptext = Oikotietä ei ole valittu, valitse oikotie
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -969,6 +973,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Tietojen menetyksen estäminen (DLP), tekijä { $agentName }. Napsauta saadaksesi lisätietoja.
 content-analysis-panel-title = Tietojen suojaus
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Organisaatiosi käyttää <b>{ $agentName }</b> tietojen menetyksen estämiseksi. <a data-l10n-name="info">Lisätietoja</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Organisaatiosi käyttää ohjelmistoa { $agentName } suojautuakseen tietojen menetykseltä. <a data-l10n-name="info">Lisätietoja</a>
