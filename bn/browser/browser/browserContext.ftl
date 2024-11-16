@@ -256,6 +256,12 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ছবি ইমেইল করুন... g
     .accesskey = g
+main-context-menu-image-set-image-as-background =
+    .label = ডেস্কটপ পটভূমি হিসাবে ছবি সেট করুন...
+    .accesskey = S
+main-context-menu-image-copy-text =
+    .label = ছবি থেকে টেক্সট কপি করুন
+    .accesskey = x
 main-context-menu-image-info =
     .label = ছবির তথ্য প্রদর্শন
     .accesskey = f
@@ -268,6 +274,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = অডিও নতুনভাবে সংরক্ষণ…
     .accesskey = v
+main-context-menu-video-take-snapshot =
+    .label = স্ন্যাপশট নিন...
+    .accesskey = S
 main-context-menu-video-email =
     .label = ভিডিও ইমেইল করুন... a
     .accesskey = a
@@ -285,9 +294,28 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = সংরক্ষিত লগইন ব্যবহার করুন
+    .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = সংরক্ষিত পাসওয়ার্ড ব্যবহার করুন
+    .accesskey = o
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } ইমেল মাস্ক ব্যবহার করুন
+    .accesskey = E
+main-context-menu-suggest-strong-password =
+    .label = শক্তিশালী পাসওয়ার্ড সাজেস্ট করুন...
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = লগইন ব্যবস্থাপনা করুন
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = পাসওয়ার্ড ব্যবস্থাপনা করুন
+    .accesskey = M
 main-context-menu-keyword =
     .label = অনুসন্ধানের জন্য কীওয়ার্ড যোগ করুন…
     .accesskey = K
@@ -309,6 +337,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ফ্রেম পুনরায় লোড করা হবে
     .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = বুকমার্ক ফ্রেম...
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = ফ্রেম নতুনভাবে সংরক্ষণ…
     .accesskey = F
@@ -321,9 +352,15 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ফ্রেম সংক্রান্ত তথ্য
     .accesskey = I
+main-context-menu-print-selection-2 =
+    .label = প্রিন্ট নির্বাচন…
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = নির্বাচিত অংশের উৎস দেখুন
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = স্ক্রিনশট নিন
+    .accesskey = T
 main-context-menu-take-frame-screenshot =
     .label = স্ক্রিনশট নিন
     .accesskey = o
@@ -336,8 +373,19 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = পাতার দিকবিন্যাস পরিবর্তন
     .accesskey = D
+main-context-menu-inspect =
+    .label = ইনস্পেক্ট
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = অভিগম্যতা বৈশিষ্ট্যগুলো পর্যবেক্ষণ করুন
 main-context-menu-eme-learn-more =
     .label = DRM সম্পর্কে আরও জানুন…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = নতুন { $containerName } ট্যাবে লিঙ্ক খুলুন
+    .accesskey = T
+main-context-menu-reveal-password =
+    .label = পাসওয়ার্ড প্রকাশ করুন
+    .accesskey = v
