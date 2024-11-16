@@ -334,7 +334,7 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Lisica na ekranu prijenosnog računala maše. Prijenosno računalo ima priključen miš.
 onboarding-device-migration-title = Dobro došli natrag!
-onboarding-device-migration-subtitle = Prijavite se u svoj { -fxaccount-brand-name(capitalization: "sentence") } kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
+onboarding-device-migration-subtitle = Prijavi se na tvoj { -fxaccount-brand-name(capitalization: "sentence") } za prijenos zabilješki, lozinki i povijesti na tvoj novi uređaj.
 onboarding-device-migration-subtitle2 = Prijavite se u svoj račun kako biste prenijeli zabilješke, lozinke i povijest na svoj novi uređaj.
 onboarding-device-migration-primary-button-label = Prijava
 

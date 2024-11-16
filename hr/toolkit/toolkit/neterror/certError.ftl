@@ -149,3 +149,4 @@ fp-certerror-hide-advanced-button = Sakrij napredno
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Nastavi na { $hostname } (riskantno)
