@@ -294,6 +294,14 @@ find-more-themes = Chattar ulteriurs designs
 # used for screen readers.
 addon-options-button =
     .aria-label = Ulteriuras opziuns
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Extensiuns e designs ta permettan da persunalisar { -brand-product-name }. Els pon augmentar la protecziun da datas,
+    meglierar la productivitad, optimar multimedia, midar l’apparientscha da { -brand-product-name } e
+    bler dapli. Quests pitschens programs vegnan savens sviluppads da terzas partidas. Qua
+    ina selecziun che { -brand-product-name }<a data-l10n-name="learn-more-trigger">recumonda</a>
+    per segirezza, prestaziun e funcziunalitad excepziunala.
 
 ## Add-on actions
 

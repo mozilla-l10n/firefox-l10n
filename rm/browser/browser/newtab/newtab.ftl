@@ -8,6 +8,11 @@
 newtab-page-title = Nov tab
 newtab-settings-button =
     .title = Persunalisar tia pagina per novs tabs
+newtab-personalize-settings-icon-label =
+    .title = Persunalisar novs tabs
+    .aria-label = Parameters
+newtab-settings-dialog-label =
+    .aria-label = Parameters
 newtab-personalize-icon-label =
     .title = Persunalisar novs tabs
     .aria-label = Persunalisar novs tabs
@@ -111,6 +116,7 @@ newtab-menu-save-to-pocket = Memorisar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Stizzar da { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
+newtab-menu-about-fakespot = Davart { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -313,6 +319,8 @@ newtab-wallpaper-dark-panda = Panda cotschen zuppà en il guaud
 newtab-wallpaper-dark-sky = Cuntrada da citad cun tschiel nocturn
 newtab-wallpaper-dark-mountain = Cuntrada da muntognas
 newtab-wallpaper-dark-city = Cuntrada da citad violetta
+newtab-wallpaper-dark-fox-anniversary = Ina vulp sin la sulada datiers dad in guaud
+newtab-wallpaper-light-fox-anniversary = Ina vulp sin in prà en ina cuntrada muntagnarda cun brentina
 
 ## Solid Colors
 

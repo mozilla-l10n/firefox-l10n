@@ -71,6 +71,45 @@ open-in-new-window-for-csp-or-xfo-error = Avrir la website en ina nova fanestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per proteger tia segirezza na permetta { $hostname } betg a { -brand-short-name } da visualisar la pagina sche in'autra website l'ha incorporada. Per vesair questa pagina la stos ti avrir en ina nova fanestra.
+fp-certerror-view-certificate-link = Mussar il certificat da la website
+fp-certerror-return-to-previous-page-recommended-button = Turnar (recumandà)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = La website è configurada uschia ch’ella permetta mo connexiuns segiradas, ma i dat in problem cun il certificat da la website. Igl è pussaivel ch’insatgi cun nauschas intenziuns emprova da sa dar per la website. Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai che ses certificat n’è betg valid per { $hostname }. Il certificat è mo valid per: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probablamain nagut cunquai ch’i sa tracta pli probabel dad in problem cun la website sezza. Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. Ma sche ti ta chattas en ina rait d’ina interpresa, ha il team da support magari ulteriuras infurmaziuns. Sche ti utiliseschas in program antivirus, emprova da tschertgar infurmaziuns davart conflicts potenzials u problems enconuschents.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = I dat in problem cun il certificat da la website. Igl è pussaivel ch’insatgi cun nauschas intenziuns emprova da sa dar per la website. Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’igl è nunpussaivel da dir tgi che ha emess il certificat, perquai ch’el è autosignà u perquai che la website na trametta nagins certificats intermediars fidabels.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probablamain nagut, cunquai ch’i sa tracta pli probabel dad in problem cun la website sezza. Ma sche ti ta chattas en ina rait d’ina interpresa, ha il team da support magari ulteriuras infurmaziuns. Sche ti utiliseschas in program antivirus, sto el eventualmain vegnir configurà per ch’el funcziunia cun { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Perquai ch’i dat in problem cun il certificat da la website. Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. Il certificat da questa website è autosignà. El n’è betg vegnì emess dad in’autoritad da certificaziun renconuschida – uschia ch’el na vala per predefiniziun betg sco certificat fidabel.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Betg bler. Probablamain sa tracti d’in problem cun la website sezza.
+fp-certerror-self-signed-important-note = REMARTGA IMPURTANTA: Sche ti emprovas da visitar questa website sin in intranet dad in‘interpresa, utiliseschan las persunas da la IT eventualmain certificats autosignads. Ellas pon ta gidar a verifitgar lur autenticitad.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat saja scrudà ils { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat na vegn betg ad esser valid enfin ils { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = L’ura da tes apparat mussa las { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Sche quai è correct, sa tracti probablamain dad in problem da segirezza da la website sezza. Sch’il temp n’è betg correct, pos ti drizzar l’ura en la configuraziun dal sistem.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Code d’errur: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Ve a savair dapli davart errurs en connex cun connexiuns segiradas
+fp-learn-more-about-cert-issues = Ve a savair dapli davart tals problems cun certificats
+fp-learn-more-about-time-related-errors = Ve a savair dapli davart la soluziun da problems en connex cun l’ura
 
 ## Messages used for certificate error titles
 
@@ -112,3 +151,20 @@ networkProtocolError-title = Errur dal protocol da rait
 nssBadCert-title = Attenziun: Eventual ristg per la segirezza en vista
 nssBadCert-sts-title = Bloccà la connexiun: Eventual problem da segirezza
 certerror-mitm-title = Software impedescha che { -brand-short-name } connecteschia a moda segira cun questa website
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Attenziun: ristg da segirezza
+fp-certerror-body-title = Sajas precaut. Insatge para dubius.
+fp-certerror-why-site-dangerous = Pertge para la website malsegira?
+fp-certerror-what-can-you-do = Tge pos ti far en vista al problem?
+fp-certerror-advanced-title = Avanzà
+fp-certerror-advanced-button = Avanzà
+fp-certerror-hide-advanced-button = Zuppentar avanzà
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Cuntinuar vers { $hostname } (ristgà)
+fp-certerror-intro = { -brand-short-name } ha chattà in problem da segirezza potenzialmain serius cun <strong>{ $hostname }</strong>. Insatgi che pretenda dad esser la website pudess empruvar dad engular infurmaziuns sco datas da cartas da credit, pleds-clav u e-mails.
+fp-certerror-expired-into = { -brand-short-name } ha chattà in problem da segirezza cun <strong>{ $hostname }</strong>. U che la website n’è betg configurada endretg u che l’ura da tes apparat mussa ina data / in temp sbaglià.

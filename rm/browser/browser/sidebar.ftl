@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verificaziun da recensiuns
+sidebar-options-menu-button =
+    .title = Avrir il menu
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Expander e reducir la trav laterala
 sidebar-visibility-setting-hide-sidebar =
     .label = Mussar e zuppentar la trav laterala
-sidebar-customize-settings-header =
-    .label = Parameters da la trav laterala
-sidebar-visibility-always-show =
-    .label = Adina mussar
-sidebar-visibility-hide-sidebar =
-    .label = Zuppentar la trav laterala
 
 ## Labels for sidebar context menu items
 
@@ -107,6 +103,27 @@ sidebar-menu-customize-label =
     .label = Persunalisar la trav laterala
 sidebar-menu-review-checker-label =
     .label = Verificaziun da recensiuns
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Avrir la cronologia ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Serrar la cronologia ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Avrir ils segnapaginas ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Serrar ils segnapaginas ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Avrir il chatbot IA
+sidebar-menu-close-ai-chatbot-tooltip = Serrar il chatbot IA
 
 ## Headings for sidebar menu panels.
 

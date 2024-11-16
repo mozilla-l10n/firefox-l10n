@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Cartas da credit
 sync-currently-syncing-payment-methods = Metodas da pajament
 sync-currently-syncing-addons = Supplements
 sync-currently-syncing-settings = Parameters
+sync-manage-options =
+    .label = Administrar la sincronisaziun…
+    .accesskey = m
 sync-change-options =
     .label = Modifitgar…
     .accesskey = M
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Parameters
     .tooltiptext = Parameters generals, da la protecziun da datas e da segirezza che ti has midà
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Tscherna ils elements per sincronisar sin tut tes apparats connectads
+    .style = min-width: 36em;
+    .buttonlabelaccept = Memorisar
+    .buttonaccesskeyaccept = M
+    .buttonlabelextra2 = Deconnectar…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Sche ti la sincronisa
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ta sustegna adina
 onboarding-gratitude-security-and-privacy-subtitle = Grazia per utilisar { -brand-short-name } da la Mozilla Foundation. Cun tes agid lavurain nus per crear in internet pli segir ed accessibel per ina e mintgin.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronisescha tias datas sin differents apparats
+onboarding-sign-up-description = Creescha in conto e tut tias infurmaziuns impurtantas – pleds-clav, segnapaginas e dapli – vegnan memorisadas a moda segira ed èn disponiblas cura che ti t’annunzias sin x in apparat.
+onboarding-sign-up-button = Crear in conto u s’annunziar
+onboarding-sign-up-secondary-button = Cumenzar a navigar
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,13 @@ onboarding-genai-sidebar-title = Emprova in chatbot IA en la trav laterala
 onboarding-genai-sidebar-subtitle = Lascha resumar cuntegn dal web, generar ideas, far sbozs da messadis – tut durant la navigaziun. Tscherna tranter differents purschiders ed als mida cura che ti vuls. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 onboarding-genai-sidebar-primary-button = Tscherna in chatbot
 onboarding-genai-sidebar-secondary-button = Cumenza a navigar
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Terminar la configuraziun da { -brand-short-name }
+onboarding-checklist-subtitle = Suonda questas instrucziuns per profitar dad ina experientscha da navigaziun optimala.
+onboarding-checklist-set-default = Definir { -brand-short-name } sco navigatur da standard
+onboarding-checklist-pin = Fixar { -brand-short-name } en la taskbar
+onboarding-checklist-import = Importar dad in navigatur precedent
+onboarding-checklist-extension = Agiuntar ina extensiun
+onboarding-checklist-sign-up = Crear in conto u s’annunziar en tes conto

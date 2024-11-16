@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Sortir…
 fxa-menu-sync-title = Sincronisaziun
 fxa-menu-sync-description = Acceda da dapertut a tes web
+sync-setup-verify-continue = Cuntinuar
+sync-setup-verify-title = Avertiment da fusiun
+sync-setup-verify-heading = Vuls ti propi t’annunziar per la sincronisaziun?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = In auter utilisader è pli baud s’annunzià per sincronisar quest computer. Sche ti t’annunzias, vegnan cumbinads ils segnapaginas, pleds-clav ed auters parameters cun quels da { $email }

@@ -303,3 +303,36 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Serrar
     .aria-label = Serrar
+fxa-menu-message-sign-up-button = Sa registrar
+fxa-menu-message-sync-devices-primary-text = Sincronisescha tut tes apparats
+fxa-menu-message-sync-devices-secondary-text = Acceda immediatamain a tias datas – sco segnapaginas e pleds-clav – dapertut là nua che ti utiliseschas { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sincronisescha tut tes apparats
+fxa-menu-message-backup-data-primary-text = Fa copias da segirezza da tias datas dal navigatur
+fxa-menu-message-backup-data-secondary-text = Protegia automaticamain segnapaginas, pleds-clav ed autras infurmaziuns sin tut tes apparats.
+fxa-menu-message-backup-data-collapsed-text = Far copias da segirezza da las datas dal navigatur
+fxa-menu-message-backup-sync-primary-text = Guarda che tias datas restian segiradas e sincronisadas
+fxa-menu-message-backup-sync-secondary-text = La sincronisaziun creescha copias da segirezza da la gronda part da tias datas, uschia che ti pos acceder ad ellas dapertut là nua che ti utiliseschas { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronisar ed arcunar las datas
+fxa-menu-message-mobile-primary-text = Trametta tabs a tes telefonin
+fxa-menu-message-mobile-secondary-text = Cuntinuescha directamain là nua che ti has chalà, grazia a la sincronisaziun da tes tabs cun in apparat mobil.
+fxa-menu-message-mobile-collapsed-text = Sincronisaziun cun tes telefonin
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Bel da ta vesair puspè!
+multi-cta-fox-doodle-set-default-checkbox = Definir { -brand-short-name } sco standard
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar { -brand-short-name } en il menu «Start»
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Fixar { -brand-short-name } en il dock
+       *[other] Fixar { -brand-short-name } en la taskbar
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Cumenzar a navigar
+multi-cta-fox-doodle-main-browser-primary-button-label = Definir { -brand-short-name } sco mes navigatur principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Nus vulain ta regurdar che ti pos endrizzar tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tes dock.
+       *[other] Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar ed en il menu «Start».

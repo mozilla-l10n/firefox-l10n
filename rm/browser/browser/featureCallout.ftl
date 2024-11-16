@@ -76,3 +76,21 @@ sidebar-callout-survey-neutral = Neutral
 sidebar-callout-survey-dissatisfied = Betg satisfatg
 sidebar-callout-survey-very-dissatisfied = N’insumma betg satisfatg
 sidebar-callout-survey-dont-use-it = Jau n’utilisesch betg questa funcziun
+sidebar-callout-survey-productive-question =
+    Quant enavant es ti d’accord u betg d’accord cun suandanta constataziun :<br/>
+    «La trav laterala da { -brand-short-name } ma gida dad esser pli productiv»?
+sidebar-callout-survey-strongly-agree = Dal tuttafatg d’accord
+sidebar-callout-survey-agree = D’accord
+sidebar-callout-survey-disagree = Betg d’accord
+sidebar-callout-survey-strongly-disagree = N’insumma betg d’accord
+sidebar-callout-survey-features-question = Qua suondan funcziuns potenzialas per la trav laterala. Tgenina augmentass il pli fitg tia productivitad en { -brand-short-name }?
+sidebar-callout-survey-split-view = Visualisar duas websites en ina giada, ina sper l’autra en ina vista dividida
+sidebar-callout-survey-keep-website-open = Laschar averta ina website – per exempel cun e-mail u chalender – en la trav laterala durant la navigaziun
+sidebar-callout-survey-saved-websites = Svelt access a tut tias websites memorisadas
+sidebar-callout-survey-none-of-above = Nagina da questas
+sidebar-callout-survey-submit = Trametter
+sidebar-callout-survey-thank-you = Grazia per tes resun!
+sidebar-genai-survey-satisfaction-question = Quant satisfatg es ti da l’access ad in chatbot IA en la trav laterala?
+sidebar-genai-survey-productive-question =
+    Quant enavant es ti d’accord u betg d’accord cun suandanta constataziun :<br/>
+    «Il chatbot IA en la trav laterala ma gida dad esser pli productiv»?

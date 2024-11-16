@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Segnapaginas mobils
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profils
+menu-profiles-manage-profiles =
+    .label = Administrar ils profils
+menu-profiles-new-profile =
+    .label = Nov profil
+
 ## Tools Menu
 
 menu-tools =

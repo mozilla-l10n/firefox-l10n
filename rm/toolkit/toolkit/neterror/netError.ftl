@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } na po betg chargiar questa pagina
 neterror-load-error-try-again = Eventualmain n'è la website temporarmain betg cuntanschibla. Emprova per plaschair pli tard anc ina giada.
 neterror-load-error-connection = Sche ti na pos era betg chargiar in'autra website, controllescha per plaschair la connexiun a l'internet / a la rait.
 neterror-load-error-firewall = Sche tes computer u tia rait èn protegids d'ina firewall u d'in proxy, controllescha per plaschair schebain { -brand-short-name } dastga acceder a l'internet.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Sche ti emprovas da chargiar ina pagina da la rait locala, controllescha per plaschair che { -brand-short-name } haja las permissiuns necessarias per la rait locala en ils parameters da protecziun da datas e da segirezza da macOS.
 neterror-captive-portal = Ti stos t'annunziar en questa rait avant che ti pos acceder a l'internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
