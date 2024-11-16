@@ -282,6 +282,9 @@ newtab-wallpaper-reset = ᱢᱩᱞ ᱞᱮᱠᱷᱟ ᱛᱮ ᱨᱤᱥᱮᱴ ᱢᱮ
 newtab-wallpaper-light-red-panda = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ
 newtab-wallpaper-light-mountain = ᱯᱟᱸᱰ ᱵᱩᱨᱩ
 newtab-wallpaper-light-sky = ᱵᱮᱝᱜᱟᱲ ᱟᱨ ᱜᱩᱞᱟᱯᱤ ᱨᱤᱢᱤᱞ ᱥᱟᱶ ᱥᱮᱨᱢᱟ
+newtab-wallpaper-light-color = ᱞᱤᱞ, ᱜᱩᱞᱟᱯᱤ ᱟᱨ ᱥᱟᱥᱟᱝ ᱜᱚᱲᱦᱚᱱ
+newtab-wallpaper-light-landscape = ᱞᱤᱞ ᱠᱩᱦᱲᱟ ᱵᱩᱨᱩ ᱞᱮᱱᱰᱥᱠᱮᱯ
+newtab-wallpaper-light-beach = ᱛᱟᱞᱮ ᱫᱟᱨᱮ ᱥᱟᱶ ᱵᱤᱪ
 
 ## Solid Colors
 
