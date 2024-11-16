@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Varmenteeseen ei luoteta, koska 
 cert-error-trust-expired-issuer = Varmenteeseen ei luoteta, koska sen myöntäjän varmenne on vanhentunut.
 cert-error-trust-self-signed = Varmenteeseen ei luoteta, koska se on allekirjoitettu itsellään.
 cert-error-trust-symantec = Varmenteisiin, joiden myöntäjänä on GeoTrust, RapidSSL, Symantec, Thawte tai VeriSign, ei enää luoteta, koska nämä varmenteiden myöntäjät eivät noudattaneet tietoturvakäytäntöjä.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ei luota sivustoon { $hostname }, koska se ei pystynyt todistamaan, että se täyttää julkisen varmenteen läpinäkyvyysvaatimukset.
 cert-error-untrusted-default = Varmenteen lähde ei ole luotettu.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -70,6 +73,7 @@ open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 fp-certerror-view-certificate-link = Näytä sivuston varmenne
 fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
+fp-certerror-self-signed-important-note = TÄRKEÄ HUOMAUTUS: Jos yrität vierailla tällä sivustolla yrityksen sisäisessä intranetissä, IT-henkilöstö voi käyttää itse allekirjoitettuja varmenteita. He voivat auttaa sinua tarkistamaan varmenteiden aitouden.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Virhekoodi: { $error }
