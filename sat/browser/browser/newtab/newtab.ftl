@@ -288,6 +288,7 @@ newtab-wallpaper-light-beach = ᱛᱟᱞᱮ ᱫᱟᱨᱮ ᱥᱟᱶ ᱵᱤᱪ
 newtab-wallpaper-dark-aurora = Aurora Borealis
 newtab-wallpaper-dark-color = ᱟᱨᱟᱜ ᱟᱨ ᱞᱤᱞ ᱜᱚᱲᱦᱚᱱ
 newtab-wallpaper-dark-panda = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ ᱵᱤᱨ ᱨᱮ ᱩᱠᱩ ᱟᱠᱟᱱᱟ
+newtab-wallpaper-dark-sky = ᱧᱤᱱᱫᱟᱹ ᱥᱮᱨᱢᱟ ᱥᱟᱶ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥᱠᱮᱯ
 
 ## Solid Colors
 
