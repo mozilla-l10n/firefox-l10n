@@ -65,6 +65,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱡᱦᱚᱛᱚ ᱥᱮᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 cfr-doorhanger-bookmark-fxa-body = ᱥᱟᱨᱦᱟᱣ ᱯᱟᱱᱛᱮ! ᱱᱤᱛᱟᱜ ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱟᱱ ᱛᱮ ᱵᱟᱝ ᱯᱚᱪᱚᱡᱚᱜᱼᱟᱢ ᱾ { -fxaccount-brand-name } ᱛᱮ ᱮᱛᱦᱟᱵ ᱢᱮ ᱾
+cfr-doorhanger-bookmark-fxa-body-2 = ᱥᱟᱨᱦᱟᱣ ᱯᱟᱱᱛᱮ! ᱱᱤᱛᱟᱜ ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱟᱱ ᱛᱮ ᱵᱟᱝ ᱯᱚᱪᱚᱡᱚᱜᱼᱟᱢ ᱾ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱮᱛᱦᱚᱵ ᱢᱮ ᱾
 cfr-doorhanger-bookmark-fxa-link-text = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ᱵᱚᱸᱫ ᱵᱩᱛᱟᱹᱢ
@@ -207,6 +208,9 @@ cfr-cbh-confirm-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱵᱟᱫ ᱜᱤᱰᱤ
     .accesskey = R
 cfr-cbh-dismiss-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱵᱮᱱᱟᱨ ᱵᱟᱭ ᱟᱝᱜᱚᱪ ᱞᱮᱫᱟ
+cookie-banner-blocker-onboarding-body = ᱱᱤᱭᱟᱹ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱢᱟᱜ ᱴᱨᱮᱠᱤᱝ ᱠᱚᱢ ᱜᱮ ᱦᱩᱭᱩᱜᱼᱟ, ᱠᱚᱢ ᱩᱞᱢᱟᱹᱞ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+cookie-banner-blocker-onboarding-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -236,11 +240,18 @@ fxa-sync-cfr-secondary = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = ᱢᱟᱨᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ?
-device-migration-fxa-spotlight-body = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱮᱠᱷᱟ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱟᱞᱚ ᱟᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ — ᱵᱤᱥᱮᱥ ᱛᱮ ᱚᱠᱚ ᱡᱷᱚᱜ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱡᱷᱚᱜ ᱾
-device-migration-fxa-spotlight-primary-button = ᱤᱧᱟᱜ ᱰᱟᱴᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱮᱠᱚᱯᱟᱹᱧ
-device-migration-fxa-spotlight-link = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
+device-migration-fxa-spotlight-heavy-user-header = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱠ ᱟᱯ ᱟᱞᱚᱢ ᱦᱤᱲᱤᱧᱟ
+device-migration-fxa-spotlight-heavy-user-body = ᱥᱟᱹᱨᱤ ᱠᱟᱛᱷᱟ ᱞᱟᱹᱭ ᱢᱮ ᱡᱮ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱵᱟᱯᱟᱰᱟᱭ — ᱡᱮᱞᱠᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ — ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+device-migration-fxa-spotlight-heavy-user-primary-button = ᱫᱮᱞᱟ ᱮᱛᱦᱚᱵ ᱞᱮᱜᱮ ᱵᱚᱱ
+device-migration-fxa-spotlight-older-device-header = ᱢᱚᱱᱮ ᱨᱮᱭᱟᱜ ᱱᱤᱨᱟᱹᱭ, { -brand-product-name } ᱠᱷᱚᱱ
+device-migration-fxa-spotlight-older-device-body = ᱢᱤᱫ ᱠᱷᱟᱛᱟ ᱟᱢᱟᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱵᱟᱯᱟᱰᱟᱭ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚᱦᱚᱭᱟ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱟᱢ ᱡᱚᱯᱲᱟᱣ ᱟ ᱾
+device-migration-fxa-spotlight-older-device-primary-button = ᱢᱤᱫᱴᱟᱝ ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 device-migration-fxa-spotlight-getting-new-device-header-2 = ᱟᱢᱟᱜ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ?
+device-migration-fxa-spotlight-getting-new-device-body-2 = ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱮᱛᱚᱦᱚᱵ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱢ ᱥᱟᱶ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱵᱟᱨ ᱥᱚᱨᱚᱥ ᱫᱷᱟᱯ ᱯᱟᱱᱛᱮ ᱢᱮ ᱾
+device-migration-fxa-spotlight-getting-new-device-primary-button = ᱤᱧᱟᱜ ᱰᱟᱴᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱮᱠᱚᱯᱟᱹᱧ
+device-migration-fxa-spotlight-sync-header = ᱢᱤᱫ ᱵᱤᱴ ᱦᱚᱸ ᱵᱤᱱ ᱦᱤᱲᱤᱡ ᱠᱟᱛᱮ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱢᱮ
+device-migration-fxa-spotlight-sync-body = ᱮᱱᱠᱨᱤᱯᱥᱚᱱ ᱥᱟᱶ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱵᱟᱯᱟᱰᱟᱭ ᱥᱤᱝᱠ ᱢᱮ — ᱡᱮᱞᱠᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱾ ᱟᱢ ᱡᱟᱦᱟᱸᱨᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ { -brand-product-name } ᱥᱟᱱᱟᱢᱟᱜ ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱚᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+device-migration-fxa-spotlight-sync-primary-button = ᱫᱮᱞᱟ ᱮᱛᱦᱚᱵ ᱞᱮᱜᱮ ᱵᱚᱱ
 
 ## Set as Default PDF Reader Infobar
 
@@ -253,3 +264,15 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = ᱟᱢᱟᱜ ᱵᱷ
 
 launch-on-login-infobar-final-reject-button = ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
