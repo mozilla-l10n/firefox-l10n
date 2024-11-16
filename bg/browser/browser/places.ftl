@@ -64,6 +64,9 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = Забравяне на страницата
     .accesskey = З
+places-forget-domain-data =
+    .label = Забравяне за този сайт…
+    .accesskey = З
 places-sortby-name =
     .label = Сортиране по име
     .accesskey = с
@@ -96,7 +99,7 @@ places-delete-page =
            *[other] Изтриване на страници
         }
     .accesskey = И
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Служебни отметки
 # This label is used when a managed bookmarks folder doesn't have a name.
@@ -118,6 +121,10 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У
+places-forget-about-this-site-confirmation-title = Забравяне за този сайт
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Това действие ще премахне данни, свързани с { $hostOrBaseDomain }, включително история, бисквитки, кеш и настройки за съдържание. Отметките и паролите към този сайт няма да бъдат премахнати. Сигурни ли сте, че искате да продължите?
 places-forget-about-this-site-forget = Забравяне
 places-library3 =
     .title = Библиотека
