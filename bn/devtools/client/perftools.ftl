@@ -7,15 +7,36 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = প্রোফাইলার সেটিংস
+perftools-intro-description =
+    রেকর্ডিং একটি নতুন ট্যাবে profiler.firefox.com চালু করে৷ সমস্ত তথ্য সংরক্ষণ করা হয়
+    স্থানীয়ভাবে, কিন্তু আপনি শেয়ার করার জন্য এটি আপলোড করতে পারেন।
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = সম্পূর্ণ সেটিংস
+perftools-heading-buffer = বাফার সেটিংস
+perftools-heading-features = বৈশিষ্ট্যাবলী
+perftools-heading-features-default = বৈশিষ্ট্য (ডিফল্টরূপে প্রস্তাবিত)
+perftools-heading-features-disabled = অক্ষম বৈশিষ্ট্য
+perftools-heading-features-experimental = পরীক্ষামূলক
+perftools-heading-threads = থ্রেড
+perftools-heading-threads-jvm = JVM থ্রেড
+perftools-heading-local-build = স্থানীয় নির্মাণ
 
 ##
 
+perftools-description-intro =
+    রেকর্ডিংগুলি একটি নতুন ট্যাবে <a>profiler.firefox.com</a> চালু করে৷ সমস্ত তথ্য সংরক্ষণ করা হয়
+    স্থানীয়ভাবে, কিন্তু আপনি শেয়ার করার জন্য এটি আপলোড করতে পারেন।
+perftools-description-local-build =
+    আপনি যদি এমন একটি বিল্ড প্রোফাইল করছেন যা আপনি নিজেই কম্পাইল করেছেন, এতে
+    মেশিন, দয়া করে নীচের তালিকায় আপনার বিল্ডের অবজেডির যোগ করুন যাতে
+    এটি প্রতীক তথ্য সন্ধান করতে ব্যবহার করা যেতে পারে।
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = নমুনা ব্যবধান:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
@@ -97,6 +118,8 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>নতুন</b>: { -profiler-brand-name } এখন ডেভেলপার টুলে একত্রিত হয়েছে৷ এই শক্তিশালী নতুন টুল সম্পর্কে <a>আরো জানুন</a>।
+perftools-onboarding-close-button =
+    .aria-label = অনবোর্ডিং বার্তাটি বন্ধ করুন
 
 ## Profiler presets
 
@@ -110,6 +133,20 @@ perftools-onboarding-message = <b>নতুন</b>: { -profiler-brand-name } এ
 # devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = ওয়েব ডেভেলপার
+perftools-presets-web-developer-description = কম ওভারহেড সহ বেশিরভাগ ওয়েব অ্যাপ ডিবাগিংয়ের জন্য প্রস্তাবিত প্রিসেট।
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = প্রোফাইলিংয়ের জন্য প্রস্তাবিত প্রিসেট { -brand-shorter-name }।
+perftools-presets-graphics-label = গ্রাফিক্স
+perftools-presets-graphics-description = { -brand-shorter-name }-এ গ্রাফিক্স বাগগুলি তদন্ত করার জন্য প্রিসেট৷
+perftools-presets-media-label = মিডিয়া
+perftools-presets-media-description2 = { -brand-shorter-name }-এ অডিও এবং ভিডিও বাগ তদন্তের জন্য প্রিসেট৷
+perftools-presets-networking-label = নেটওয়ার্কিং
+perftools-presets-networking-description = { -brand-shorter-name }-এ নেটওয়ার্কিং বাগ তদন্তের জন্য প্রিসেট।
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = ক্ষমতা
+perftools-presets-power-description = কম ওভারহেড সহ { -brand-shorter-name }-এ পাওয়ার ইউজ বাগ তদন্তের জন্য প্রিসেট।
+perftools-presets-custom-label = স্বনির্ধারিত
 
 ##
 
