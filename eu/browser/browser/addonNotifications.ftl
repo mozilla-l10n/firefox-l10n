@@ -57,6 +57,8 @@ addon-domain-blocked-by-policy = Zure sistemaren kudeatzaileak gune honi galaraz
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure erakundeak.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Zure erakundeak galarazi egin dio gune honi ordenagailuan softwarea instalatzeaz galdetzea.
 addon-install-full-screen-blocked = Gehigarrien instalazioa ez da baimentzen pantaila osoko moduan edo modu horretara sartu aurretik.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -64,6 +66,10 @@ webext-perms-sideload-menu-item = { $addonName } gehigarria { -brand-short-name 
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } hedapenak baimen berriak behar ditu
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Amaitu { -brand-short-name }(e)ra inportatutako hedapenak instalatzen.
 
 ## Add-on removal warning
 
@@ -125,4 +131,8 @@ addon-local-install-error-not-signed = Ezin izan da gehigarri hau instalatu egia
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ezin da { $addonName } instalatu ez delako { -brand-short-name } { $appVersion } bertsioarekin bateragarria.
+addon-install-error-hard-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
 addon-install-error-blocklisted = Ezin izan da { $addonName } instalatu egonkortasun- eta segurtasun-arazoak eragiteko arrisku handia daukalako.
+addon-install-error-soft-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Ezin duzu erabiltzaile gisa { $addonName } gehigarria instalatu, enpresa-politikak darabiltzan erakunde batek bakarrik instala dezake.

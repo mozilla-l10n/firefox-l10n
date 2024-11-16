@@ -64,3 +64,20 @@ split-dismiss-button-manage-settings-option-label = Kudeatu ezarpenak
 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
 sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Lagundu { -brand-short-name } hobetzen
+sidebar-callout-survey-privacy-notice-link = Pribatutasun-oharra
+sidebar-callout-survey-very-satisfied = Oso kontent
+sidebar-callout-survey-satisfied = Kontent
+sidebar-callout-survey-neutral = Neutrala
+sidebar-callout-survey-dissatisfied = Kontentagaitz
+sidebar-callout-survey-very-dissatisfied = Oso kontentagaitz
+sidebar-callout-survey-dont-use-it = Ez dut erabiltzen
+sidebar-callout-survey-strongly-agree = Erabat ados
+sidebar-callout-survey-agree = Ados
+sidebar-callout-survey-disagree = Desados
+sidebar-callout-survey-strongly-disagree = Erabat desados
+sidebar-callout-survey-submit = Bidali
+sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!

@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mugikorreko laster-markak
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profilak
+menu-profiles-manage-profiles =
+    .label = Kudeatu profilak
+menu-profiles-new-profile =
+    .label = Profil berria
+
 ## Tools Menu
 
 menu-tools =

@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = Aktibatu
 appmenuitem-save-page =
     .label = Gorde orria honela…
 appmenuitem-fxa-sync-off-title = Sinkronizazioa desaktibatuta dago
+appmenuitem-fxa-sync-off-description = Babestu eta izan eskura edonon zure laster-markak, pasahitzak eta gehiago.
 
 ## What's New panel in App menu.
 
@@ -275,6 +276,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Hasi saioa zure kontuan
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Eskuratu datu-urratzeei buruzko alertak
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
