@@ -66,13 +66,28 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = Certificate chain:
+cert-error-details-cert-chain-label = Varmenneketju:
 open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 fp-certerror-view-certificate-link = Näytä sivuston varmenne
 fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Sivusto on määritetty sallimaan vain suojatut yhteydet, mutta sivuston varmenteessa on ongelma. On mahdollista, että pahantahtoinen taho yrittää esiintyä sivustona. Sivustot käyttävät CA-varmentajien myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska sen varmenne ei ole kelvollinen verkkotunnukselle { $hostname }. Varmenne on kelvollinen vain seuraaville verkkotunnuksille: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Luultavasti et mitään, koska todennäköisesti ongelma on itse sivustossa. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. Jos olet yritysverkostossa, tukitiimilläsi voi olla lisätietoja. Jos käytät virustorjuntaohjelmistoa, yritä etsiä mahdollisia ristiriitoja tai tunnettuja ongelmia.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Sivuston varmenteessa on ongelma. On mahdollista, että pahantahtoinen taho yrittää esiintyä sivustona. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska emme voi tietää, kuka on myöntänyt varmenteen, varmenne on itse allekirjoitettu tai sivusto ei lähetä välivarmenteita, joihin luotamme.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Luultavasti et mitään, koska todennäköisesti ongelma on itse sivustossa. Jos olet yritysverkostossa, tukitiimilläsi voi olla lisätietoja. Jos käytät virustorjuntaohjelmistoa, se on ehkä määritettävä toimimaan { -brand-short-name }in kanssa.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Koska sivuston varmenteessa on ongelma. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. Tämän sivuston varmenne on itse allekirjoitettu. Sitä ei ole myöntänyt tunnustettu CA-varmentaja, joten emme luota siihen oletuksena.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Et paljoa. Ongelma on todennäköisesti itse sivustossa.
 fp-certerror-self-signed-important-note = TÄRKEÄ HUOMAUTUS: Jos yrität vierailla tällä sivustolla yrityksen sisäisessä intranetissä, IT-henkilöstö voi käyttää itse allekirjoitettuja varmenteita. He voivat auttaa sinua tarkistamaan varmenteiden aitouden.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
@@ -124,11 +139,17 @@ certerror-mitm-title = Ohjelmisto estää { -brand-short-name }ia yhdistämäst�
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Varoitus: Tietoturvariski
 fp-certerror-body-title = Ole varovainen. Jokin ei vaikuta olevan oikein.
 fp-certerror-why-site-dangerous = Mikä saa sivuston vaikuttamaan vaaralliselta?
-fp-certerror-what-can-you-do = Mitä voit tehdä asialle?
+fp-certerror-what-can-you-do = Mitä voin tehdä asialle?
+fp-certerror-advanced-title = Lisäasetukset
+fp-certerror-advanced-button = Lisäasetukset
+fp-certerror-hide-advanced-button = Piilota lisäasetukset
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Jatka sivustolle { $hostname } (riskialtista)
+fp-certerror-intro = { -brand-short-name } havaitsi mahdollisesti vakavan tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi luottokorttitietoja, salasanoja tai sähköposteja.
+fp-certerror-expired-into = { -brand-short-name } havaitsi tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Joko sivustoa ei ole määritetty oikein tai laitteesi kello on asetettu väärään päivämäärään/aikaan.
