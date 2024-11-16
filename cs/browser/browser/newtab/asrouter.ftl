@@ -429,4 +429,14 @@ multi-cta-fox-doodle-set-default-checkbox =
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí
        *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí
     }
+multi-cta-fox-doodle-pin-startmenu-checkbox =
+    { -brand-short-name.case-status ->
+        [with-cases] Připnout { -brand-short-name(case: "acc") } do nabídky Start
+       *[no-cases] Připnout aplikaci { -brand-short-name } do nabídky Start
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet
+multi-cta-fox-doodle-main-browser-primary-button-label =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako můj hlavní prohlížeč
+       *[no-cases] Nastavit aplikaci { -brand-short-name }  jako můj hlavní prohlížeč
+    }
