@@ -255,6 +255,12 @@ device-migration-fxa-spotlight-sync-primary-button = ᱫᱮᱞᱟ ᱮᱛᱦᱚ�
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ PDF  ᱯᱟᱲᱦᱟᱣᱤᱡ ᱵᱮᱱᱟᱣ ᱟᱭᱟ?</strong>ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ PDF ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱵᱮᱱᱟᱣ ᱢᱮ ᱾
+pdf-default-notification-set-default-button =
+    .label = ᱢᱩᱞ ᱞᱮᱠᱷᱟ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+pdf-default-notification-decline-button =
+    .label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Launch on login infobar notification
 
