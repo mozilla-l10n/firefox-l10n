@@ -508,6 +508,8 @@ onboarding-gratitude-security-and-privacy-subtitle =
         [with-cases] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
        *[no-cases] Děkujeme, že používáte aplikaci { -brand-short-name }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
     }
+onboarding-sign-up-button = Přihlásit nebo registrovat
+onboarding-sign-up-secondary-button = Začít pohlížet
 
 ## New user time and familiarity survey strings
 
@@ -587,3 +589,8 @@ onboarding-genai-sidebar-title = Vyzkoušejte AI chatbota v postranní liště
 onboarding-genai-sidebar-subtitle = Shrnujte webový obsah, využívejte nové nápady, koncepty zpráv – to vše během prohlížení. Vyberte si z více poskytovatelů. Přepnout můžete kdykoli. <a data-l10n-name="learn-more">Zjistit více</a>
 onboarding-genai-sidebar-primary-button = Vyberte si chatbota
 onboarding-genai-sidebar-secondary-button = Začít prohlížet
+
+## New user onboarding checklist
+
+onboarding-checklist-import = Importovat z dříve používaného prohlížeče
+onboarding-checklist-extension = Přidat rozšíření
