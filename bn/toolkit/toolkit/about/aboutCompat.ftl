@@ -5,6 +5,9 @@
 label-disable = নিষ্ক্রিয়
 label-enable = সক্রিয়
 label-interventions = হস্তক্ষেপ
+# Variables:
+#   $bug (string) - Bug number
+label-more-information = আরও তথ্য: বাগ { $bug }
 text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature

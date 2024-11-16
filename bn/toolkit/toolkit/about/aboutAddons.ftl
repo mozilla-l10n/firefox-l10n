@@ -218,6 +218,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } দ্বারা ইতিমধ্যে ব্যবহৃত
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] আরও { $numberToShow } দেখাও
@@ -275,6 +277,10 @@ remove-addon-button = অপসারণ
 remove-addon-disabled-button = সরানো যাবে না <a data-l10n-name="link">কেনো?</a>
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = সক্ষম করুন
 preferences-addon-button =
     { PLATFORM() ->
         [windows] বিকল্প
@@ -391,7 +397,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
 # Variables:
 #   $version (string) - Application version.
