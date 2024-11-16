@@ -20,9 +20,25 @@ compatibility-issue-deprecated-experimental-prefixneeded = (অপ্রচল�
 
 ## Messages used as labels and titles for buttons in the footer
 
+compatibility-settings-button-label = সেটিংস
+compatibility-settings-button-title =
+    .title = সেটিংস
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = সেটিংস
+compatibility-target-browsers-header = টার্গেট ব্রাউজার
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } ঘটনা
+       *[other] { $number } ঘটনাসমূহ
+    }
+compatibility-no-issues-found = কোন সামঞ্জস্য সমস্যা পাওয়া যায়নি.
+compatibility-close-settings-button =
+    .title = সেটিংস বন্ধ করুন
