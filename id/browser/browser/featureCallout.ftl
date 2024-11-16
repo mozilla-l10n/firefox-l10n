@@ -63,3 +63,8 @@ split-dismiss-button-manage-settings-option-label = Kelola pengaturan
 
 sidebar-button-callout-title = Tampilkan judul tab di bilah samping
 sidebar-button-callout-subtitle = Gunakan tombol bilah samping untuk memperluas bilah samping, sehingga Anda dapat melihat judul tab.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Bantu tingkatkan { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Seberapa puaskah Anda dengan pengalaman bilah samping di { -brand-short-name }?

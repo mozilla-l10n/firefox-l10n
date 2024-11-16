@@ -329,8 +329,20 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-title = Selamat datang kembali!
 onboarding-device-migration-primary-button-label = Masuk
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Kami senang menjaga Anda tetap aman
 
 ## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = Baru!
+
+## New user onboarding checklist
 
