@@ -220,7 +220,7 @@ july-jam-set-default-primary = Koristi { -brand-short-name } za otvaranje mojih 
 fox-doodle-pin-headline = Dobro došao, dobro došla natrag
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
-fox-doodle-pin-body = Ovo je kratki podsjetnik da svom omiljenom neovisnom pregledniku možeš pristupiti jednim klikom.
+fox-doodle-pin-body = Ovo je kratki podsjetnik da svom omiljenom pregledniku za privatno pregledavanje možeš pristupiti jednim klikom.
 fox-doodle-pin-primary = Koristi { -brand-short-name } za otvaranje mojih poveznica
 fox-doodle-pin-secondary = Ne sada
 
@@ -317,6 +317,7 @@ fxa-menu-message-backup-sync-primary-text = Čuvajte svoje podatke sigurno i sin
 fxa-menu-message-backup-sync-secondary-text = Sinkronizacija sigurnosno kopira većinu tvojih podataka tako da im možeš pristupiti svugdje gdje koristiš { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sinkronizacija i sigurnosno kopiranje podataka
 fxa-menu-message-mobile-primary-text = Pošalji kartice na svoj telefon
+fxa-menu-message-mobile-secondary-text = Nastavi na istom mjestu kada sinkroniziraš svoje kartice s mobilnim uređajem.
 fxa-menu-message-mobile-collapsed-text = Sinkroniziraj sa svojim telefonom
 
 ## Multi-CTA Fox Doodle Spotlight
@@ -331,3 +332,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Počni pregledavati
 multi-cta-fox-doodle-main-browser-primary-button-label = Postavi { -brand-short-name } kao glavni preglednik
+multi-cta-fox-doodle-quick-reminder-subtitle = Ovo je kratki podsjetnik da svom omiljenom pregledniku za privatno pregledavanje možeš pristupiti jednim klikom.
