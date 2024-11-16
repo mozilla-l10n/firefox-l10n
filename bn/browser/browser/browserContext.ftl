@@ -108,6 +108,22 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = বুকমার্ক সম্পাদনা করুন...
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = বুকমার্ক  পেজ...
+    .accesskey = m
+    .tooltiptext = বুকমার্ক পেজ ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = বুকমার্ক সম্পাদনা করুন...
+    .accesskey = m
+    .tooltiptext = বুকমার্ক সম্পাদনা করুন...
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = বুকমার্ক সম্পাদনা করুন...
+    .accesskey = m
+    .tooltiptext = বুকমার্ক সম্পাদনা করুন...
 main-context-menu-open-link =
     .label = লিঙ্ক খুলুন O
     .accesskey = O
@@ -123,6 +139,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = নতুন উইন্ডোতে লিঙ্ক খুলুন
     .accesskey = P
+main-context-menu-bookmark-link-2 =
+    .label = বুকমার্ক লিঙ্ক…
+    .accesskey = B
 main-context-menu-save-link =
     .label = লিঙ্কটি নতুনভাবে সংরক্ষণ…
     .accesskey = k
