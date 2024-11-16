@@ -78,9 +78,34 @@ genai-provider-about-chatbots =
     .label = ᱱᱚᱶᱟ ᱠᱚ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱨᱮᱛᱮ
 genai-options-reload-generic =
     .label = AI ᱪᱟᱴᱵᱚᱴ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } ᱫᱩᱦᱲᱟᱹ ᱞᱟᱫᱮ ᱯᱮ
+genai-options-show-shortcut =
+    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱚᱠᱛᱚ ᱥᱚᱴᱠᱟᱴ ᱩᱫᱩᱜ ᱢᱮ
+genai-options-hide-shortcut =
+    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱚᱠᱛᱚ ᱥᱚᱴᱠᱟᱴ ᱩᱠᱩᱭ ᱢᱮ
+genai-options-about-chatbot =
+    .label = { -brand-short-name } ᱨᱮ AI ᱪᱟᱴᱵᱚᱴ ᱵᱟᱨᱮᱛᱮ
 
 ## Chatbot onboarding
 
+genai-onboarding-header = ᱩᱥᱟᱹᱨᱟ ᱞᱟᱹᱭ ᱢᱮ, ᱦᱩᱫᱤᱥ ᱦᱚᱨᱟ ᱢᱮ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱮᱞᱠᱟ ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱮᱫᱟᱢ
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = { -brand-short-name } ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ AI ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾ ᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱵᱚᱛ ᱵᱤᱵᱨᱚᱬ ᱞᱮ ᱩᱫᱩᱜᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾<a data-l10n-name="learn-more">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
+genai-onboarding-primary = ᱞᱮᱛᱟᱲ
+genai-onboarding-secondary = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱰᱟᱭ ᱢᱮ
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Copilot ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱰᱟᱭ ᱢᱮ
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
 genai-onboarding-gemini-learn = Gemini ᱵᱟᱨᱮᱛᱮ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat

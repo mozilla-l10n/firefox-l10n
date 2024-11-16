@@ -55,6 +55,12 @@ migration-imported-edge-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Edge �
 migration-no-permissions-message = { -brand-short-name } ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱚᱦᱟᱞ ᱟᱠᱟᱱ ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱠᱚᱣᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱟᱫᱮᱨ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
 migration-no-permissions-instructions = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ, { -brand-short-name } ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱯᱷᱚᱞᱰᱟᱨ ᱨᱮ ᱟᱫᱮᱨ ᱮᱢᱚᱜ ᱢᱮ ᱾
 migration-no-permissions-instructions-step1 = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣᱤᱡ ᱨᱮ, <code>{ $permissionsPath }</code> ᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ ᱟᱨ “ᱵᱟᱪᱷᱟᱣ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -70,6 +76,7 @@ migration-bookmarks-option-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ᱠᱩᱥᱤ ᱠᱚ
 migration-logins-and-passwords-option-label = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ
+migration-passwords-option-label = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ
 migration-history-option-label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
 migration-extensions-option-label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 migration-form-autofill-option-label = ᱟᱡ ᱛᱮ ᱯᱟᱨᱮᱡ ᱯᱷᱚᱨᱢ
