@@ -42,7 +42,7 @@ policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
-policy-DisableFirefoxAccounts1 = Deaktiviraj usluge za račune, uključujući sinkronizaciju.
+policy-DisableFirefoxAccounts1 = Deaktiviraj usluge za koje su potrebni računi, uključujući sinkronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogući funkciju Firefox Screenshots.
 policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
@@ -68,6 +68,7 @@ policy-DownloadDirectory = Postavi i zaključaj direktorij za preuzimanje.
 policy-EnableTrackingProtection = Aktiviraj ili deaktiviraj blokiranje sadržaja i opcionalno ga zaključaj.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Aktiviraj ili deaktiviraj proširenja za šifrirane medije i opcionalno ih zaključaj.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Deaktiviraj upozorenja na temelju datotečnih sufiksa za određene vrste datoteka na domenama.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -76,6 +77,7 @@ policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska aktualiziranja dodataka.
 policy-FirefoxHome2 = Konfiguriraj „{ -firefox-home-brand-name }”.
 policy-FirefoxSuggest = Konfiguriraj „{ -firefox-suggest-brand-name }”.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Prisili izravnu navigaciju intranetom umjesto pretraživanja prilikom upisivanja pojedinačnih riječi u adresnu traku.
 policy-Handlers = Postavi standardne rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
