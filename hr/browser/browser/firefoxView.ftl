@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Prebaci se bez problema između uređ
 firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog mobitela ovdje, najprije se prijavi ili otvori račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nastavi
 firefoxview-syncedtabs-signin-header-2 = Tvoj { -brand-product-name } na svim tvojim uređajima
+firefoxview-syncedtabs-signin-description-2 = Za prikaz otvorenih kartica na tvom telefonu i drugim uređajima, prijavi se ili se registriraj. S računom također možeš sinkronizirati tvoje lozinke, povijest i još više.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijavi se
 firefoxview-syncedtabs-signin-header = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-signin-description = Za prikaz kartica s bilo kojeg uređaja na kojem koristiš { -brand-product-name } prijavi se na svoj račun. Ako nemaš račun, provest ćemo te kroz korake za registraciju.
