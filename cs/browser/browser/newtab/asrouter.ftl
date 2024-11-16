@@ -424,4 +424,9 @@ fxa-menu-message-mobile-collapsed-text = Synchronizujte s telefonem
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Vítejte zpět
+multi-cta-fox-doodle-set-default-checkbox =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet
