@@ -333,3 +333,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Počni pregledavati
 multi-cta-fox-doodle-main-browser-primary-button-label = Postavi { -brand-short-name } kao glavni preglednik
 multi-cta-fox-doodle-quick-reminder-subtitle = Ovo je kratki podsjetnik da svom omiljenom pregledniku za privatno pregledavanje možeš pristupiti jednim klikom.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i drži ga u Docku.
+       *[other] Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i prikvači ga u programsku traku.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i prikvači ga u izbornik Start.
