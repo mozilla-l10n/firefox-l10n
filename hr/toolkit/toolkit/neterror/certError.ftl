@@ -141,6 +141,10 @@ certerror-mitm-title = Program spriječava { -brand-short-name } da se sigurno p
 fp-certerror-page-title = Upozorenje: sigurnosni rizik
 fp-certerror-body-title = Oprez. Nešto nije u redu.
 fp-certerror-why-site-dangerous = Zašto web stranica izgleda opasno?
+fp-certerror-what-can-you-do = Što možeš učiniti po tom pitanju?
+fp-certerror-advanced-title = Napredno
+fp-certerror-advanced-button = Napredno
+fp-certerror-hide-advanced-button = Sakrij napredno
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
