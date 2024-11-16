@@ -981,6 +981,9 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Zaštita podataka
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tvoja organizacija koristi { $agentName } za zaštitu od gubljenja podataka. <a data-l10n-name="info">Saznaj više</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Tvoja organizacija koristi { $agentName } za zaštitu od gubitka podataka. <a data-l10n-name="info">Saznaj više</a>
 
 ## Unified extensions (toolbar) button

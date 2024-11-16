@@ -139,6 +139,8 @@ addon-local-install-error-not-signed = Ovaj dodatak nije moguće instalirati jer
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nije moguće instalirati jer nije kompatibilan s { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } krši Mozillina pravila i ne može se instalirati na { -brand-short-name(case: "loc") }.
 addon-install-error-blocklisted = { $addonName } nije moguće instalirati zbog prevelikog rizika nastanka mogućih problema sa sigurnošću i stabilnošću.
+addon-install-error-soft-blocked = { $addonName } krši Mozillina pravila i ne može se instalirati na { -brand-short-name(case: "loc") }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ne možete instalirati { $addonName } kao krajnji korisnik, može ga instalirati samo organizacija koristeći koristi pravila poduzeća.
