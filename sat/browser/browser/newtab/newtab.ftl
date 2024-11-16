@@ -269,11 +269,19 @@ newtab-custom-recent-subtitle = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟ�
 newtab-custom-recent-toggle =
     .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
     .description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
+newtab-custom-weather-toggle =
+    .label = ᱦᱚᱭ ᱦᱤᱥᱤᱫ
+    .description = ᱢᱤᱫ ᱧᱮᱞ ᱛᱮ ᱛᱮᱦᱮᱧᱟᱜ ᱯᱷᱚᱨᱠᱟᱥᱴ
 newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = ᱠᱟᱸᱛᱷᱪᱤᱛᱟᱹᱨ
+newtab-wallpaper-reset = ᱢᱩᱞ ᱞᱮᱠᱷᱟ ᱛᱮ ᱨᱤᱥᱮᱴ ᱢᱮ
+newtab-wallpaper-light-red-panda = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ
+newtab-wallpaper-light-mountain = ᱯᱟᱸᱰ ᱵᱩᱨᱩ
+newtab-wallpaper-light-sky = ᱵᱮᱝᱜᱟᱲ ᱟᱨ ᱜᱩᱞᱟᱯᱤ ᱨᱤᱢᱤᱞ ᱥᱟᱶ ᱥᱮᱨᱢᱟ
 
 ## Solid Colors
 
