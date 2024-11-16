@@ -77,6 +77,7 @@ genai-options-hide-shortcut =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Sažimaj, skupljaj ideje i još mnogo toga dok pregledavaš
 genai-onboarding-primary = Nastavi
 genai-onboarding-secondary = Zatvori
 genai-onboarding-claude-tooltip =
@@ -115,6 +116,7 @@ genai-onboarding-gemini-generate = Generiraj tekst, slike i kod
 genai-onboarding-gemini-analyze = Analiziraj slike (besplatno) i dokumente (plaća se)
 genai-onboarding-gemini-price = Besplatne i plaćene opcije; potreban je račun
 genai-onboarding-huggingchat-generate = Generiraj tekst i kod
+genai-onboarding-huggingchat-switch = Biraj između raznolikog skupa otvorenih modela
 genai-onboarding-huggingchat-price-2 = Besplatno; račun je potreban nakon određenog broja zahtjeva
 genai-onboarding-huggingchat-price = Besplatno; za neke zadatke je potreban račun
 genai-onboarding-lechat-generate = Generiraj tekst i kod
