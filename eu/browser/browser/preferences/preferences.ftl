@@ -774,6 +774,9 @@ sync-currently-syncing-creditcards = Kreditu-txartelak
 sync-currently-syncing-payment-methods = Ordainketa metodoak
 sync-currently-syncing-addons = Gehigarriak
 sync-currently-syncing-settings = Ezarpenak
+sync-manage-options =
+    .label = Kudeatu sinkronizazioa…
+    .accesskey = K
 sync-change-options =
     .label = Aldatu…
     .accesskey = A
@@ -1332,6 +1335,7 @@ preferences-doh-status-disabled = Desaktibatuta
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inaktibo ({ $reason })
 preferences-doh-group-message = Gaitu DNS segurua ondorengoa erabiliz:
+preferences-doh-group-message2 = Gaitu HTTPS gaineko DNSa ondorengoa erabiliz:
 preferences-doh-expand-section =
     .tooltiptext = Informazio gehiago
 preferences-doh-setting-default =
