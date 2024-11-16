@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Synkronoinnin myötä
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } huolehtii sinusta
 onboarding-gratitude-security-and-privacy-subtitle = Kiitos, että käytät Mozilla-säätiön tukemaa { -brand-short-name }ia. Tukesi avulla pyrimme tekemään Internetistä entistä turvallisemman ja helpommin saavutettavan kaikille.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synkronoi tietosi laitteiden välillä
+onboarding-sign-up-description = Luo tili ja kaikki tärkeät tietosi – salasanat, kirjanmerkit ja paljon muuta – tallennetaan turvallisesti ja ovat käytettävissä, kun kirjaudut sisään mille tahansa laitteelle.
+onboarding-sign-up-button = Rekisteröidy tai kirjaudu sisään
+onboarding-sign-up-secondary-button = Aloita selaaminen
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,13 @@ onboarding-genai-sidebar-title = Kokeile AI-chatbottia sivupalkissa
 onboarding-genai-sidebar-subtitle = Tee yhteenveto verkkosivun sisällöstä, pohdi ideoita ja luonnostele viestejä – kaikki selaamisen aikana. Valitse useista palveluntarjoajista. Vaihda milloin tahansa. <a data-l10n-name="learn-more">Lisätietoja</a>
 onboarding-genai-sidebar-primary-button = Valitse chatbotti
 onboarding-genai-sidebar-secondary-button = Aloita selaaminen
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Viimeistele { -brand-short-name }in määritys
+onboarding-checklist-subtitle = Suorita nämä vaiheet saadaksesi kaiken irti selauskokemuksestasi.
+onboarding-checklist-set-default = Aseta { -brand-short-name } oletusselaimeksi
+onboarding-checklist-pin = Kiinnitä { -brand-short-name } tehtäväpalkkiin
+onboarding-checklist-import = Tuo edellisestä selaimesta
+onboarding-checklist-extension = Lisää laajennus
+onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi

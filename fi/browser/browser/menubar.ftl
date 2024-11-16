@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Kannettavan laitteen kirjanmerkit
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profiilit
+menu-profiles-manage-profiles =
+    .label = Hallitse profiileja
+menu-profiles-new-profile =
+    .label = Uusi profiili
+
 ## Tools Menu
 
 menu-tools =
