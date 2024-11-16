@@ -59,3 +59,20 @@ split-dismiss-button-dont-show-option-label = Betg pli mussar questa recumandazi
 split-dismiss-button-show-fewer-option-label = Mussar pli paucas recumandaziuns
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Administrar ils parameters
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala
+sidebar-button-callout-subtitle = Utilisescha il buttun da la trav laterala per expander la trav laterala e vesair ils titels dals tabs.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Gida a meglierar { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Quant satisfatg es ti da l’experientscha cun la trav laterala en { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Infurmaziuns davart la protecziun da datas
+sidebar-callout-survey-very-satisfied = Fitg satisfatg
+sidebar-callout-survey-satisfied = Satisfatg
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied = Betg satisfatg
+sidebar-callout-survey-very-dissatisfied = N’insumma betg satisfatg
+sidebar-callout-survey-dont-use-it = Jau n’utilisesch betg questa funcziun

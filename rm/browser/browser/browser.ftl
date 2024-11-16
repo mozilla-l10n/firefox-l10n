@@ -549,8 +549,6 @@ urlbar-page-action-button =
     .tooltiptext = Acziuns da pagina
 urlbar-revert-button =
     .tooltiptext = Mussar l’adressa en la trav d’adressas
-urlbar-show-page-actions-button =
-    .tooltiptext = Mussar tut las acziuns per la pagina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -620,12 +618,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Tschertgar en { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Tschertgar cun { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, tscherner ina maschina da tschertgar
-    .tooltiptext = { $engine }, tscherner ina maschina da tschertgar
 urlbar-searchmode-dropmarker =
     .tooltiptext = Tscherner ina maschina da tschertgar
 urlbar-searchmode-bookmarks =
@@ -640,6 +632,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Serrar
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
 urlbar-searchmode-popup-search-settings = Parameters da tschertga
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, tscherner ina maschina da tschertgar
+    .tooltiptext = { $engine }, tscherner ina maschina da tschertgar
+urlbar-searchmode-button-no-engine =
+    .label = Na selecziunà nagina scursanida, tscherner ina scursanida
+    .tooltiptext = Na selecziunà nagina scursanida, tscherner ina scursanida
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -962,12 +963,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Modus privat
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Modus privat
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Protecziun cunter la perdita da datas (DLP) da { $agentName }. Cliccar per ulteriuras infurmaziuns.
 content-analysis-panel-title = Protecziun da datas
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tia organisaziun utilisescha <b>{ $agentName }</b> per sa proteger cunter la perdita da datas. <a data-l10n-name="info">Ulteriuras infurmaziuns</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Tia organisaziun utilisescha { $agentName } per sa proteger cunter la perdita da datas. <a data-l10n-name="info">Ulteriuras infurmaziuns</a>

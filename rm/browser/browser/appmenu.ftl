@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sincronisar e memorisar las datas
 appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronisaziun…
+appmenu-fxa-setup-sync-new = Activar
 appmenuitem-save-page =
     .label = Memorisar la pagina sut…
+appmenuitem-fxa-sync-off-title = La sincronisaziun è deactivada
+appmenuitem-fxa-sync-off-description = Protegia ed acceda a tes segnapaginas, pleds-clav e dapli da nua ch’i saja.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zuppenta tia adressa dad e-mail e tes numer da telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protegia tias activitads online
+
+## Profiles panel
+
+appmenu-profiles = Profils
+appmenu-other-profiles = Auters profils
+appmenu-manage-profiles =
+    .label = Administrar ils profils
+appmenu-create-profile =
+    .label = Nov profil
+appmenu-edit-profile =
+    .aria-label = Modifitgar il profil
