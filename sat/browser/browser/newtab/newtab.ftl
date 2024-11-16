@@ -224,9 +224,11 @@ newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
 newtab-pocket-cta-text = { -pocket-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ, ᱟᱨ ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱱ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -257,9 +259,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
 newtab-custom-pocket-subtitle = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
-    .description = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
+newtab-custom-stories-toggle =
+    .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
+    .description = { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱦᱚᱛᱮᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱟᱠᱟᱱ ᱥᱟᱨᱦᱟᱣᱮᱱ ᱡᱤᱱᱤᱥ
 newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-custom-pocket-show-recent-saves = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
@@ -269,3 +271,24 @@ newtab-custom-recent-toggle =
     .description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
 newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
