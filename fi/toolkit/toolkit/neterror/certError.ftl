@@ -89,6 +89,18 @@ fp-certerror-self-signed-why-dangerous-body = Koska sivuston varmenteessa on ong
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Et paljoa. Ongelma on todennäköisesti itse sivustossa.
 fp-certerror-self-signed-important-note = TÄRKEÄ HUOMAUTUS: Jos yrität vierailla tällä sivustolla yrityksen sisäisessä intranetissä, IT-henkilöstö voi käyttää itse allekirjoitettuja varmenteita. He voivat auttaa sinua tarkistamaan varmenteiden aitouden.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on vanhentunut { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on voimassa vasta { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Laitteesi kello on asetettu { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma johtuu todennäköisesti itse sivustosta. Jos kellonaika on väärin, voit muuttaa sitä laitteesi järjestelmäasetuksista.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Virhekoodi: { $error }
