@@ -250,6 +250,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u tvoj
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slijedi nekoliko jednostavnih koraka da poneseš svoje zabilješke, povijest i lozinke sa sobom kada počneš koristiti novi uređaj.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako spremiti sigurnosnu kopiju mojih podataka
 device-migration-fxa-spotlight-sync-header = Pregledavaj bez da išta propustiš
+device-migration-fxa-spotlight-sync-body = Sinkroniziraj sve važne podatke, kao što su oznake i lozinke, pomoću šifriranja. Sve takve podatke možeš doseći gdje god koristiš { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Započni
 
 ## Set as Default PDF Reader Infobar
@@ -307,8 +308,10 @@ fxa-menu-message-close-button =
     .aria-label = Zatvori
 fxa-menu-message-sign-up-button = Registriraj se
 fxa-menu-message-sync-devices-primary-text = Sinkroniziraj sve svoje uređaje
+fxa-menu-message-sync-devices-secondary-text = Dobij tvoje podatke, kao što su oznake i lozinke, odmah gdje god koristiš { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sinkroniziraj sve svoje uređaje
 fxa-menu-message-backup-data-primary-text = Sigurnosno kopiraj podatke preglednika
+fxa-menu-message-backup-data-secondary-text = Automatski zaštiti oznake, lozinke i druge podatke na svim tvojim uređajima.
 fxa-menu-message-backup-data-collapsed-text = Sigurnosno kopiraj podatke preglednika
 fxa-menu-message-backup-sync-primary-text = Čuvajte svoje podatke sigurno i sinkronizirano
 fxa-menu-message-backup-sync-secondary-text = Sinkronizacija sigurnosno kopira većinu tvojih podataka tako da im možeš pristupiti svugdje gdje koristiš { -brand-short-name }.
