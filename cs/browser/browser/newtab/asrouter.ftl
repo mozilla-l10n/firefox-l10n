@@ -419,6 +419,7 @@ fxa-menu-message-backup-data-collapsed-text = Zálohujte údaje prohlížeče
 fxa-menu-message-backup-sync-primary-text = Udržujte své údaje v bezpečí a synchronizované
 fxa-menu-message-backup-sync-collapsed-text = Synchronizujte a zálohujte data
 fxa-menu-message-mobile-primary-text = Odešlete panely do telefonu
+fxa-menu-message-mobile-secondary-text = Po synchronizaci panelů s mobilním zařízením můžete okamžitě pokračovat tam, kde jste skončili.
 fxa-menu-message-mobile-collapsed-text = Synchronizujte s telefonem
 
 ## Multi-CTA Fox Doodle Spotlight

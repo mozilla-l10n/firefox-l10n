@@ -963,6 +963,13 @@ sync-engine-settings =
     .label = Nastavení
     .tooltiptext = Nastavení v sekcích Obecné a Soukromí a zabezpečení
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Správa synchronizace všech připojených zařízení
+    .style = min-width: 36em;
+    .buttonlabelaccept = Uložit
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra2 = Odpojit…
+    .buttonaccesskeyextra2 = O
 
 ## The device name controls.
 

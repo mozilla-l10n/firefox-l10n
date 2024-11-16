@@ -508,6 +508,8 @@ onboarding-gratitude-security-and-privacy-subtitle =
         [with-cases] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
        *[no-cases] Děkujeme, že používáte aplikaci { -brand-short-name }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
     }
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synchronizujte svoje údaje mezi zařízeními
 onboarding-sign-up-button = Přihlásit nebo registrovat
 onboarding-sign-up-secondary-button = Začít pohlížet
 
@@ -592,5 +594,16 @@ onboarding-genai-sidebar-secondary-button = Začít prohlížet
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč
+    }
+onboarding-checklist-pin =
+    { -brand-short-name.case-status ->
+        [with-cases] Připnout { -brand-short-name(case: "acc") } na hlavní panel
+       *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel
+    }
 onboarding-checklist-import = Importovat z dříve používaného prohlížeče
 onboarding-checklist-extension = Přidat rozšíření
+onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému účtu

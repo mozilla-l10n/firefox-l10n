@@ -3,6 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } - Výběr profilu uživatele
+profile-window-heading =
+    { -brand-short-name.case-status ->
+        [with-cases] Vyberte profil { -brand-short-name(case: "gen") }
+       *[no-cases] Vyberte profil aplikace { -brand-short-name }
+    }
+profile-window-body = Pracovní a osobní prohlížení, včetně takových věcí, jako jsou hesla a záložky, mějte zcela oddělené. Nebo si vytvořte profily pro všechny, kteří toto zařízení používají.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Zobrazit vždy při spuštění { -brand-short-name(case: "gen") }
+           *[no-cases] Zobrazit vždy při spuštění aplikace { -brand-short-name }
+        }
 profile-window-create-profile = Vytvořit profil
 profile-card-edit-button =
     .title = Upravit profil
