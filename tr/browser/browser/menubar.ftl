@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobil yer imleri
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profiller
+menu-profiles-manage-profiles =
+    .label = Profilleri yönet
+menu-profiles-new-profile =
+    .label = Yeni profil
+
 ## Tools Menu
 
 menu-tools =

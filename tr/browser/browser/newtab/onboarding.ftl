@@ -357,6 +357,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Eşitleme yaptığın
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } sizi koruyor
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Vakfı tarafından geliştirilen { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir bir yere dönüştürüyoruz.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Verilerinizi cihazlarınız arasında eşitleyin
+onboarding-sign-up-button = Kaydol veya giriş yap
+onboarding-sign-up-secondary-button = Gezinmeye başla
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +420,13 @@ onboarding-genai-sidebar-title = Kenar çubuğunda yapay zekâ sohbet botların�
 onboarding-genai-sidebar-subtitle = İnternette gezinirken web içeriklerini özetleyin, yeni fikirler üretin, mesaj taslakları oluşturun. Farklı sağlayıcılar arasından seçim yapabilir, istediğiniz zaman başka bir sağlayıcıya geçebilirsiniz. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 onboarding-genai-sidebar-primary-button = Bir sohbet botu seçin
 onboarding-genai-sidebar-secondary-button = Gezinmeye başla
+
+## New user onboarding checklist
+
+onboarding-checklist-title = { -brand-short-name } kurulumunu tamamlayın
+onboarding-checklist-subtitle = Tarayıcınızdan en iyi şekilde yararlanmak için bu adımları tamamlayın.
+onboarding-checklist-set-default = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
+onboarding-checklist-pin = { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+onboarding-checklist-import = Önceki tarayıcımdan içe aktar
+onboarding-checklist-extension = Bir uzantı ekle
+onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
