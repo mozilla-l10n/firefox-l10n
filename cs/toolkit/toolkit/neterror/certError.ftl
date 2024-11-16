@@ -86,6 +86,9 @@ fp-certerror-self-signed-what-can-you-do-body = Nic moc. Je pravděpodobné, že
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kód chyby: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného připojení
 fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
 fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem

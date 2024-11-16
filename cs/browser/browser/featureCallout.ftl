@@ -108,6 +108,7 @@ sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
 sidebar-callout-survey-agree = Souhlasím
 sidebar-callout-survey-disagree = Nesouhlasím
 sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
+sidebar-callout-survey-split-view = Zobrazení libovolných dvou webových stránek najednou v rozděleném zobrazení vedle sebe
 sidebar-callout-survey-saved-websites = Rychlý přístup ke všem uloženým webovým stránkám
 sidebar-callout-survey-none-of-above = Nic z výše uvedeného
 sidebar-callout-survey-submit = Odeslat

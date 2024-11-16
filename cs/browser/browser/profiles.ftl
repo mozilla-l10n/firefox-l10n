@@ -18,6 +18,8 @@ profile-card =
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Výchozí profil
 edit-profile-page-title = Upravit profil
 edit-profile-page-header = Upravit profil
 edit-profile-page-profile-name-label = Název profilu
@@ -32,6 +34,8 @@ edit-profile-page-profile-saved = Uloženo
 new-profile-page-title = Nový profil
 new-profile-page-header = Přizpůsobte si svůj nový profil
 new-profile-page-learn-more = Zjistit více
+new-profile-page-input-placeholder =
+    .placeholder = Zvolte název jako “Práce” nebo “Osobní”
 new-profile-page-done-button =
     .label = Dokončit úpravy
 
@@ -49,6 +53,7 @@ delete-profile-windows = Otevřená okna
 delete-profile-tabs = Otevřené panely
 delete-profile-bookmarks = Záložky
 delete-profile-history = Historie (navštívené stránky, cookies, údaje stránek)
+delete-profile-autofill = Automaticky vyplněné údaje (adresy, platební metody)
 delete-profile-logins = Hesla
 # Button label
 delete-profile-cancel = Zrušit
@@ -57,6 +62,8 @@ delete-profile-confirm = Smazat
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Marigold
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lavender-theme = Levandule
 # This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
