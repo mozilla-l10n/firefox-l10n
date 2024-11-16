@@ -440,3 +440,4 @@ multi-cta-fox-doodle-main-browser-primary-button-label =
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako můj hlavní prohlížeč
        *[no-cases] Nastavit aplikaci { -brand-short-name }  jako můj hlavní prohlížeč
     }
+multi-cta-fox-doodle-quick-reminder-subtitle = Připomínáme vám, že svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít jen na jedno klepnutí.
