@@ -68,3 +68,28 @@ sidebar-button-callout-subtitle = Gunakan tombol bilah samping untuk memperluas 
 
 sidebar-callout-survey-title = Bantu tingkatkan { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Seberapa puaskah Anda dengan pengalaman bilah samping di { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Pemberitahuan Privasi
+sidebar-callout-survey-very-satisfied = Sangat puas
+sidebar-callout-survey-satisfied = Puas
+sidebar-callout-survey-neutral = Netral
+sidebar-callout-survey-dissatisfied = Tidak puas
+sidebar-callout-survey-very-dissatisfied = Sangat tidak puas
+sidebar-callout-survey-dont-use-it = Saya tidak menggunakannya
+sidebar-callout-survey-productive-question =
+    Sejauh mana Anda setuju atau tidak setuju dengan pernyataan ini:<br/>
+    “Bilah samping { -brand-short-name } membantu saya menjadi lebih produktif”?
+sidebar-callout-survey-strongly-agree = Sangat Setuju
+sidebar-callout-survey-agree = Setuju
+sidebar-callout-survey-disagree = Tidak Setuju
+sidebar-callout-survey-strongly-disagree = Sangat tidak setuju
+sidebar-callout-survey-features-question = Berikut ini adalah fitur bilah samping potensial. Mana yang paling meningkatkan produktivitas Anda di { -brand-short-name }?
+sidebar-callout-survey-split-view = Lihat dua situs web sekaligus, dalam tampilan terpisah secara berdampingan
+sidebar-callout-survey-keep-website-open = Jaga situs web, seperti surel atau kalender, terbuka di bilah samping saat Anda menjelajah
+sidebar-callout-survey-saved-websites = Akses cepat ke semua situs web Anda yang tersimpan
+sidebar-callout-survey-none-of-above = Tidak satu pun di atas
+sidebar-callout-survey-submit = Kirim
+sidebar-callout-survey-thank-you = Terima kasih atas tanggapan Anda!
+sidebar-genai-survey-satisfaction-question = Seberapa puaskah Anda dengan akses ke chatbot AI di bilah samping?
+sidebar-genai-survey-productive-question =
+    Sejauh mana Anda setuju atau tidak setuju dengan pernyataan ini:<br/>
+    “Bot obrolan AI di bilah samping membantu saya menjadi lebih produktif”?

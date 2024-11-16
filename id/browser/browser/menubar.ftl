@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Markah Seluler
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profil
+menu-profiles-manage-profiles =
+    .label = Kelola profil
+menu-profiles-new-profile =
+    .label = Profil baru
+
 ## Tools Menu
 
 menu-tools =
