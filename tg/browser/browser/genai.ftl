@@ -35,6 +35,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Сода кардани забон
     .value = Лутфан, интихобро ба воситаи ҷумлаҳои кутоҳ ва калимаҳои содаро аз нав нависед. Маъно ва тафсилоти саҳеҳро таъмин намоед.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Тавассути саволнома
+    .value = Дар асоси ин интихоб ба ман саволномаро пешниҳод намоед. Аз ман саволҳои гуногунро пурсед, масалан, якчанд интихоб, дуруст ё нодуруст ва ҷавоби кутоҳ. Пеш аз гузариш ба саволи дигар, ҷавоби маро интизор шавед.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
