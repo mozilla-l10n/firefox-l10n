@@ -356,9 +356,42 @@ newtab-wallpaper-category-title-photographs = ᱯᱷᱳᱴᱳᱜᱽᱨᱟᱯᱷ
 newtab-wallpaper-beach-at-sunrise = ᱥᱤᱛᱩᱝ ᱩᱰᱩᱝ ᱨᱮ ᱫᱚᱨᱭᱟ ᱟᱲᱮ
 newtab-wallpaper-beach-at-sunset = ᱵᱮᱲᱟ ᱦᱟᱹᱥᱩᱨ ᱨᱮ ᱫᱚᱨᱭᱟ ᱟᱲᱮ
 newtab-wallpaper-storm-sky = ᱦᱚᱭᱫᱟᱜ ᱥᱮᱨᱢᱟ
+newtab-wallpaper-sky-with-pink-clouds = ᱜᱩᱞᱟᱯᱤ ᱨᱤᱢᱤᱞ ᱥᱟᱶ ᱥᱮᱨᱢᱟ
+newtab-wallpaper-red-panda-yawns-in-a-tree = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ ᱫᱟᱨᱮ ᱨᱮ ᱡᱟᱢᱵᱮ ᱮᱫᱟᱭ
+newtab-wallpaper-white-mountains = ᱯᱟᱸᱰ ᱵᱩᱨᱩᱠᱚ
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = ᱪᱤᱛᱟᱹᱨᱤᱭᱟᱹ <a data-l10n-name="name-link">{ $author_string }</a> ᱨᱮ <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = ᱨᱚᱝ ᱨᱮᱭᱟᱜ ᱟᱨᱮᱡ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+newtab-wallpaper-feature-highlight-content = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱣᱟᱞᱯᱮᱯᱟᱨ ᱥᱟᱶ ᱢᱤᱫ ᱛᱟᱜᱽᱲᱟ ᱧᱮᱞ ᱮᱢᱚᱜ ᱢᱮ ᱾
+newtab-wallpaper-feature-highlight-button = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = ᱵᱚᱸᱫ
+    .aria-label = ᱴᱟᱴᱠᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = { $provider } ᱨᱮ ᱨᱮ ᱯᱷᱚᱨᱠᱟᱥᱴ ᱧᱮᱞ ᱢᱮ
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
+newtab-weather-menu-change-location = ᱡᱟᱭᱜᱟ ᱵᱚᱫᱚᱞ ᱢᱮ
+newtab-weather-change-location-search-input = ᱡᱟᱭᱜᱟ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+newtab-weather-menu-weather-display = ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱩᱫᱩᱜ
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = ᱟᱞᱜᱟ
+newtab-weather-menu-change-weather-display-simple = ᱟᱞᱜᱟ ᱧᱮᱞ ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+newtab-weather-menu-weather-display-option-detailed = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 newtab-weather-menu-change-weather-display-detailed = ᱯᱩᱥᱴᱟᱹᱣ ᱧᱮᱞ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 newtab-weather-menu-temperature-units = ᱞᱚᱞᱚᱢᱟᱯ ᱭᱩᱱᱤᱴ
 newtab-weather-menu-temperature-option-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱮᱭᱤᱴ
