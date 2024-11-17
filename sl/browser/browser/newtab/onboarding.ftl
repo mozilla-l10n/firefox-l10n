@@ -425,3 +425,4 @@ onboarding-checklist-set-default = Nastavi { -brand-short-name } kot privzeti br
 onboarding-checklist-pin = Pripni { -brand-short-name } v opravilno vrstico
 onboarding-checklist-import = Uvozi iz prejšnjega brskalnika
 onboarding-checklist-extension = Dodaj razširitev
+onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
