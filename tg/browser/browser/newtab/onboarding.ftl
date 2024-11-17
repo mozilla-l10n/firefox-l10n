@@ -356,6 +356,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Ҳангоми ҳам
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = «{ -brand-short-name }» шуморо пуштибонӣ мекунад
 onboarding-gratitude-security-and-privacy-subtitle = Баҳри истифодабарии «{ -brand-short-name }», ки аз ҷониби «Mozilla Foundation» дастгирӣ мегардад, ба шумо изҳори сипос менамоем. Бо дастгирии шумо кӯшиш ба харҷ медиҳем, то ин ки доираи истифодабарии Интернетро боз ҳам бахатартар ва ба ҳамагон боз ҳам дастрастар гардонем.
+onboarding-sign-up-button = Сабти ном кунед ё ворид шавед
+onboarding-sign-up-secondary-button = Оғоз кардани тамошо
 
 ## New user time and familiarity survey strings
 
@@ -397,3 +399,6 @@ onboarding-existing-horizontal-tabs-label = Варақаҳои уфуқиро н
 onboarding-genai-sidebar-title = Чат-боти «AI» зеҳни сунъиро дар навори ҷонибӣ кӯшиш кунед
 onboarding-genai-sidebar-primary-button = Чат-ботеро интихоб намоед
 onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо
+
+## New user onboarding checklist
+
