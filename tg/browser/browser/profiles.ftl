@@ -55,3 +55,11 @@ delete-profile-confirm = Нест кардан
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Уқёнус
+# The default light theme
+profiles-light-theme = Равшан
+# The default dark theme
+profiles-dark-theme = Торик
+# The default system theme
+profiles-system-theme = Низом

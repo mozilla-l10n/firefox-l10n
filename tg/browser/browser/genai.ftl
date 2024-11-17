@@ -39,6 +39,10 @@ genai-prompts-simplify =
 genai-prompts-quiz =
     .label = Тавассути саволнома
     .value = Дар асоси ин интихоб ба ман саволномаро пешниҳод намоед. Аз ман саволҳои гуногунро пурсед, масалан, якчанд интихоб, дуруст ё нодуруст ва ҷавоби кутоҳ. Пеш аз гузариш ба саволи дигар, ҷавоби маро интизор шавед.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Маънидод
+    .value = Лутфан, маънои ин интихобро ба воситаи калимаҳои осонфаҳм фаҳмонед. Инчунин, аз мисолҳо истифода баред.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
