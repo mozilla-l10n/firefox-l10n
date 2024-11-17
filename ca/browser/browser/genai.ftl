@@ -13,6 +13,8 @@ genai-settings-chat-links = En triar un chatbot, accepteu les condicions d'ús i
 genai-settings-chat-chatgpt-links = En triar ChatGPT, accepteu les <a data-l10n-name="link1">condicions d'ús</a> i la <a data-l10n-name="link2">política de privadesa</a> d'OpenAI.
 genai-settings-chat-claude-links = En triar Anthropic Claude, accepteu les <a data-l10n-name="link1">condicions del servei del consumidor</a>, la <a data-l10n-name="link2">política d'ús</a> i la <a data-l10n-name="link3">política de privadesa</a>.
 genai-settings-chat-copilot-links = En triar Copilot, accepteu les <a data-l10n-name="link1">condicions d'experiències de Copilot AI</a> i la <a data-l10n-name="link2">declaració de privadesa de Microsoft</a>.
+genai-settings-chat-gemini-links = En triar Google Gemini, accepteu les <a data-l10n-name="link1">condicions del servei de Google</a>, la <a data-l10n-name="link2">política d'ús prohibit d'IA generativa</a> i l'<a data-l10n-name="link3">avís de privadesa de Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = En triar HuggingChat, accepteu l'<a data-l10n-name="link1">avís de privadesa de HuggingChat</a> i la <a data-l10n-name="link2">política de privadesa de Hugging Face</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,12 +26,42 @@ genai-settings-chat-copilot-links = En triar Copilot, accepteu les <a data-l10n-
 genai-prompts-summarize =
     .label = Resumeix
     .value = Resumeix la selecció utilitzant un llenguatge precís i concís. Fes servir encapçalaments i llistes amb punts en el resum per a que sigui consultable fàcilment. Mantén el significat i l’exactitud dels fets.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplifica el llenguatge
+    .value = Reescriu la selecció amb frases curtes i paraules entenedores. Mantén el significat i l’exactitud dels fets.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explica-ho
+    .value = Explica els conceptes clau d'aquesta selecció amb paraules senzilles. Fes servir exemples.
 
 ## Chatbot menu shortcuts
 
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot d'IA
+genai-header-provider-menu =
+    .title = Trieu un chatbot
+genai-header-options-button =
+    .title = Obre el menú
+genai-header-close-button =
+    .title = Tanca
+genai-provider-view-details =
+    .label = Mostra els detalls del chatbot
+genai-provider-about-chatbots =
+    .label = Quant a aquests chatbots
+genai-options-reload-generic =
+    .label = Torna a carregar el chatbot d'IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Torna a carregar { $provider }
+genai-options-show-shortcut =
+    .label = Mostra la drecera en seleccionar text
+genai-options-hide-shortcut =
+    .label = Amaga la drecera en seleccionar text
+genai-options-about-chatbot =
+    .label = Quant als chatbots d'IA en el { -brand-short-name }
 
 ## Chatbot onboarding
 

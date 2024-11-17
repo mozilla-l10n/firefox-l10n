@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Adreces del mòbil
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Perfils
+menu-profiles-manage-profiles =
+    .label = Gestiona els perfils
+menu-profiles-new-profile =
+    .label = Perfil nou
+
 ## Tools Menu
 
 menu-tools =
