@@ -382,3 +382,10 @@ newtab-topic-label-home = ᱚᱲᱟᱜ ᱟᱨ ᱵᱟᱜᱟᱱ
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = ᱟᱢᱟᱜ ᱯᱷᱤᱰ ᱵᱮᱥ ᱴᱩᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱛᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = ᱵᱟᱨ ᱵᱟᱝᱠᱷᱟᱱ ᱵᱟᱹᱲᱛᱤ ᱥᱟᱛᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾ ᱟᱞᱮ ᱨᱮᱱ ᱜᱟᱹᱠᱷᱩᱲᱤᱭᱟᱹ ᱠᱩᱨᱮᱴᱚᱨ ᱠᱚ ᱟᱢᱟᱜ ᱨᱚᱜ ᱞᱮᱠᱟ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱯᱟᱹᱦᱤᱞᱟᱜ ᱠᱚ ᱮᱢᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱟᱯᱰᱮᱴ ᱢᱮ ᱾
+newtab-topic-selection-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+newtab-topic-selection-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+newtab-topic-selection-button-maybe-later = ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱛᱟᱭᱚᱢ ᱛᱮ
+newtab-topic-selection-privacy-link = ᱵᱟᱰᱟᱭ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱟᱞᱮ ᱰᱟᱴᱟ ᱵᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
