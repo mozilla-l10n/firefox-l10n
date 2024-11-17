@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } nie jest w stanie otworzyć tej 
 neterror-load-error-try-again = Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.
 neterror-load-error-connection = Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.
 neterror-load-error-firewall = Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy { -brand-short-name } jest uprawniony do łączenia się z Internetem.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Jeśli próbujesz wczytać stronę w sieci lokalnej, sprawdź, czy { -brand-short-name } ma uprawnienia „Sieć lokalna” w ustawieniach prywatności i bezpieczeństwa systemu macOS.
 neterror-captive-portal = Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

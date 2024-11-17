@@ -556,8 +556,6 @@ urlbar-page-action-button =
     .tooltiptext = Interakcje
 urlbar-revert-button =
     .tooltiptext = Pokaż adres na pasku
-urlbar-show-page-actions-button =
-    .tooltiptext = Pokaż wszystkie interakcje
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -627,12 +625,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – szukaj w: { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – szukaj w { $engine }
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button =
-    .label = { $engine }, wybierz wyszukiwarkę
-    .tooltiptext = { $engine }, wybierz wyszukiwarkę
 urlbar-searchmode-dropmarker =
     .tooltiptext = Wybierz wyszukiwarkę
 urlbar-searchmode-bookmarks =
@@ -647,6 +639,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Zamknij
 urlbar-searchmode-popup-description = Tym razem szukaj w:
 urlbar-searchmode-popup-search-settings = Ustawienia wyszukiwania
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, wybierz wyszukiwarkę
+    .tooltiptext = { $engine }, wybierz wyszukiwarkę
+urlbar-searchmode-button-no-engine =
+    .label = Nie wybrano skrótu, wybierz jakiś
+    .tooltiptext = Nie wybrano skrótu, wybierz jakiś
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -969,12 +970,18 @@ data-reporting-notification-button =
     .accesskey = W
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Tryb prywatny
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Tryb prywatny
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Zapobieganie utracie danych (DLP) przez oprogramowanie { $agentName }. Kliknij, aby dowiedzieć się więcej.
 content-analysis-panel-title = Ochrona danych
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Twoja organizacja korzysta z oprogramowania <b>{ $agentName }</b> do ochrony przed utratą danych. <a data-l10n-name="info">Więcej informacji</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Twoja organizacja korzysta z oprogramowania { $agentName } do ochrony przed utratą danych. <a data-l10n-name="info">Więcej informacji</a>
