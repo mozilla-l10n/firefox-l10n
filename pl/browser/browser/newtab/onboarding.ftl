@@ -417,3 +417,4 @@ onboarding-horizontal-tabs-description =
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Dokończ konfigurację { -brand-short-name(case: "gen") }
