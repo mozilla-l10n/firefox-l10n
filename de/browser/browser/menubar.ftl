@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobile Lesezeichen
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profile
+menu-profiles-manage-profiles =
+    .label = Profile verwalten
+menu-profiles-new-profile =
+    .label = Neues Profil
+
 ## Tools Menu
 
 menu-tools =
