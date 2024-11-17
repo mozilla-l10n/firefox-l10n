@@ -104,6 +104,11 @@ sidebar-callout-survey-neutral = Neutrální
 sidebar-callout-survey-dissatisfied = Nespokojený
 sidebar-callout-survey-very-dissatisfied = Velmi nespokojený
 sidebar-callout-survey-dont-use-it = Nepoužívám
+sidebar-callout-survey-productive-question =
+    { -brand-short-name.case-status ->
+        [with-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>"Postranní panel { -brand-short-name(case: "gen") } mi pomáhá být produktivnější"?
+       *[no-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>"Postranní panel aplikace { -brand-short-name } mi pomáhá být produktivnější"?
+    }
 sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
 sidebar-callout-survey-agree = Souhlasím
 sidebar-callout-survey-disagree = Nesouhlasím
