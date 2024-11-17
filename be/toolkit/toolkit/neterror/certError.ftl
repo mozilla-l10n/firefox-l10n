@@ -88,9 +88,28 @@ fp-certerror-unknown-issuer-what-can-you-do-body = Імаверна, нічог�
 fp-certerror-self-signed-why-dangerous-body = Таму што ёсць праблема з сертыфікатам сайта. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. Сертыфікат гэтага сайта самападпісаны. Ён не быў выдадзены прызнаным цэнтрам сертыфікацыі, таму мы прадвызначана не давяраем яму.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Няшмат. Цалкам верагодна, што праблема з самім сайтам.
+fp-certerror-self-signed-important-note = ВАЖНАЯ ЗАЎВАГА. Калі вы спрабуеце наведаць гэты сайт у карпаратыўным інтранэце, вашы ІТ-спецыялісты могуць выкарыстоўваць самападпісаныя сертыфікаты. Яны могуць дапамагчы вам праверыць іх сапраўднасць.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. { -brand-short-name } не давярае гэтаму сайту, таму што, здаецца, тэрмін дзеяння сертыфіката скончыўся { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. { -brand-short-name } не давярае гэтаму сайту, таму што, здаецца, сертыфікат не будзе сапраўдны да { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Гадзіннік вашай прылады ўстаноўлены на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Калі гэта правільна, праблема бяспекі, імаверна, у самім сайце. Калі гэта няправільна, вы можаце змяніць гэта ў сістэмных наладах вашай прылады.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код памылкі: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Падрабязней пра памылкі бяспечнага злучэння
+fp-learn-more-about-cert-issues = Падрабязней пра падобныя праблемы з сертыфікатамі
+fp-learn-more-about-time-related-errors = Падрабязней пра вырашэнне праблем, звязаных з часам
 
 ## Messages used for certificate error titles
 
@@ -136,10 +155,14 @@ certerror-mitm-title = Праграмнае забеспячэнне не даз
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = Папярэджанне: рызыка бяспекі
+fp-certerror-body-title = Будзьце асцярожныя. Нешта выглядае не так.
+fp-certerror-why-site-dangerous = Чаму сайт здаецца небяспечным?
 fp-certerror-what-can-you-do = Як вы можаце гэта паправіць?
 fp-certerror-advanced-title = Дадаткова
 fp-certerror-advanced-button = Дадаткова
+fp-certerror-hide-advanced-button = Схаваць падрабязнасці
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Перайсці на { $hostname } (рызыкоўна)
