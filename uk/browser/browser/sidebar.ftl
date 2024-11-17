@@ -122,6 +122,8 @@ sidebar-menu-open-bookmarks-tooltip = Відкрити закладки ({ $shor
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Закрити закладки ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Відкрити чат-бот з ШІ
+sidebar-menu-close-ai-chatbot-tooltip = Закрити чат-бот з ШІ
 
 ## Headings for sidebar menu panels.
 

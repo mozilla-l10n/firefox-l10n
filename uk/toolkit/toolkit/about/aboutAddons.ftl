@@ -294,6 +294,14 @@ find-more-themes = Знайти інші теми
 # used for screen readers.
 addon-options-button =
     .aria-label = Інші варіанти
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Розширення й теми дозволяють налаштувати { -brand-product-name }. Вони можуть покращити приватність,
+    підвищити продуктивність, вдосконалити медіа, змінити вигляд { -brand-product-name }, і
+    ще багато іншого. Ці невеликі програми часто розробляються третіми особами. Ось
+    перелік <a data-l10n-name="learn-more-trigger">рекомендованих розширень</a> { -brand-product-name }
+    для виняткової безпеки, продуктивності та функціональності.
 
 ## Add-on actions
 

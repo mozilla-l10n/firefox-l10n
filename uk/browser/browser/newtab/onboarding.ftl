@@ -357,6 +357,9 @@ onboarding-mobile-download-security-and-privacy-subtitle = Під час син�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } працює для вас
 onboarding-gratitude-security-and-privacy-subtitle = Дякуємо вам за користування { -brand-short-name } від Mozilla Foundation. Завдяки вашій підтримці ми докладаємо зусиль для розвитку безпечнішого інтернету, доступного для всіх.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Синхронізуйте дані між пристроями
+onboarding-sign-up-description = Зареєструйте обліковий запис, і вся ваша важлива інформація, як-от паролі, закладки та інші дані, буде надійно збережена й доступна після входу на будь-якому пристрої.
 onboarding-sign-up-button = Зареєструватися або увійти
 onboarding-sign-up-secondary-button = Почати перегляд
 
@@ -423,3 +426,8 @@ onboarding-genai-sidebar-secondary-button = Почати перегляд
 
 onboarding-checklist-title = Завершити налаштування { -brand-short-name }
 onboarding-checklist-subtitle = Виконайте ці кроки, щоб отримати максимальну віддачу від перегляду.
+onboarding-checklist-set-default = Зробіть { -brand-short-name } типовим браузером
+onboarding-checklist-pin = Закріпіть { -brand-short-name } на панелі завдань
+onboarding-checklist-import = Імпортуйте дані з іншого браузера
+onboarding-checklist-extension = Додайте розширення
+onboarding-checklist-sign-up = Зареєструйте обліковий запис або увійдіть в нього

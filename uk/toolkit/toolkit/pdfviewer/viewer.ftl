@@ -360,6 +360,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = Альтернативний текст
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Редагувати альтернативний текст
 pdfjs-editor-alt-text-edit-button-label = Змінити альтернативний текст
 pdfjs-editor-alt-text-dialog-label = Вибрати варіант
 pdfjs-editor-alt-text-dialog-description = Альтернативний текст допомагає, коли зображення не видно або коли воно не завантажується.
