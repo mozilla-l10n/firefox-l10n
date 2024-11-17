@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Obre { $targetURI } en una pestanya nova
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Tanca { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Tanca { $tabTitle }
@@ -51,6 +55,8 @@ fxviewtabrow-move-tab-window = Mou a una finestra nova
     .accesskey = n
 fxviewtabrow-send-tab = Envia la pestanya al dispositiu
     .accesskey = E
+fxviewtabrow-pin-tab = Fixa la pestanya
+    .accesskey = F
 fxviewtabrow-unpin-tab = No fixis la pestanya
     .accesskey = f
 fxviewtabrow-mute-tab = Silencia la pestanya

@@ -47,12 +47,39 @@ callout-pdfjs-draw-button = Entesos
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = No volíeu tancar aquella pestanya?
+fx-view-discoverability-subtitle = Aquí podeu trobar-la i tornar-la a obrir ràpidament. Conservem un historial de pestanyes tancades recentment.
+fx-view-discoverability-primary-button-label = Obre el { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Descarta
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = No tornis a mostrar aquesta recomanació
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Mostra menys recomanacions
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Gestiona els paràmetres
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
+sidebar-button-callout-subtitle = Utilitzeu el botó de la barra lateral per a ampliar la barra lateral i poder veure els títols de les pestanyes.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Ajudeu a millorar el { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Esteu satisfet/a amb l'experiència de la barra lateral en el { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Avís de privadesa
+sidebar-callout-survey-very-satisfied = Molt satisfet/a
+sidebar-callout-survey-satisfied = Satisfet/a
+sidebar-callout-survey-neutral = Neutre/a
+sidebar-callout-survey-dissatisfied = Insatisfet/a
+sidebar-callout-survey-very-dissatisfied = Molt insatisfet/a
+sidebar-callout-survey-dont-use-it = No l’utilitzo
+sidebar-callout-survey-productive-question =
+    Fins a quin punt esteu d'acord o en desacord amb aquesta afirmació:<br/>
+    «La barra lateral del { -brand-short-name } m’ajuda a ser més productiu»?
+sidebar-callout-survey-strongly-agree = Hi estic totalment d’acord
+sidebar-callout-survey-agree = Hi estic d’acord
+sidebar-callout-survey-disagree = Hi estic en desacord
+sidebar-callout-survey-strongly-disagree = Hi estic molt en desacord
