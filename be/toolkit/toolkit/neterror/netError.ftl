@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } не можа загрузіць 
 neterror-load-error-try-again = Магчыма, сайт часова недаступны ці перагружаны. Паспрабуйце зноў крыху пазней.
 neterror-load-error-connection = Калі ніводная старонка не адкрываецца, праверце злучэнне камп'ютара з сеткай.
 neterror-load-error-firewall = Калі ваш камп'ютар ці сетка ахоўваюцца фаерволам ці проксі, пераканайцеся, што { -brand-short-name } дазволена мець доступ да сеціва.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Калі вы спрабуеце загрузіць старонку з лакальнай сеткі, пераканайцеся, што { -brand-short-name } атрымаў дазволы на лакальную сетку ў наладах прыватнасці і бяспекі macOS.
 neterror-captive-portal = Вы павінны ўвайсці ў гэту сетку перад тым, як зможаце атрымаць доступ у Інтэрнэт.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
