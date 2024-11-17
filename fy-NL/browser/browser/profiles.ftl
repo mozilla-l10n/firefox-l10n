@@ -9,9 +9,22 @@ profile-window-body = Hâld jo wurk en persoanlike navigaasje, ynklusyf saken ly
 profile-window-checkbox-label =
     .label = Dit toane wannear’t { -brand-short-name } iepene wurdt
 profile-window-create-profile = In profyl oanmeitsje
+profile-card-edit-button =
+    .title = Profyl bewurkje
+    .aria-label = Profyl bewurkje
+profile-card-delete-button =
+    .title = Profyl fuortsmite
+    .aria-label = Profyl fuortsmite
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } iepenje
+    .aria-label = { $profileName } iepenje
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profyl { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Oarspronklik profyl
 edit-profile-page-title = Profyl bewurkje
 edit-profile-page-header = Jo profyl bewurkje
 edit-profile-page-profile-name-label = Profylnamme
