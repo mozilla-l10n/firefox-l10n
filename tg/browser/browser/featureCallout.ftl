@@ -87,4 +87,6 @@ sidebar-callout-survey-features-question = Дар зер хусусиятҳои 
 sidebar-callout-survey-split-view = Ду сомонаи дилхоҳро ба воситаи намуди ҷудои паҳлу ба паҳлу дар як вақт тамошо кунед
 sidebar-callout-survey-keep-website-open = Нигоҳ доштани сомона, монанди почтаи электронӣ ё тақвим, дар навори ҷонибӣ ҳангоми намоиши сомонаҳои дигар
 sidebar-callout-survey-saved-websites = Дастрасии зуд ба ҳамаи сомонаҳои нигоҳдоштаи худ
+sidebar-callout-survey-none-of-above = Ҳеҷ чиз аз зикршуда
 sidebar-callout-survey-submit = Пешниҳод кардан
+sidebar-callout-survey-thank-you = Ташаккур барои изҳори назари шумо!
