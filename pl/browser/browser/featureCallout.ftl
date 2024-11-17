@@ -59,3 +59,23 @@ split-dismiss-button-dont-show-option-label = Nie pokazuj więcej polecenia tej 
 split-dismiss-button-show-fewer-option-label = Pokazuj mniej poleceń
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Zarządzaj ustawieniami
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
+sidebar-button-callout-subtitle = Kliknij przycisk panelu bocznego, aby go rozszerzyć i widzieć tytuły kart.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Pomóż ulepszyć { -brand-short-name(case: "acc") }
+sidebar-callout-survey-satisfaction-question = Jak określisz swoje zadowolenie z panelu bocznego w { -brand-short-name(case: "loc") }?
+sidebar-callout-survey-privacy-notice-link = Zasady ochrony prywatności
+sidebar-callout-survey-very-satisfied = Bardzo zadowolony
+sidebar-callout-survey-satisfied = Zadowolony
+sidebar-callout-survey-neutral = Obojętny
+sidebar-callout-survey-dissatisfied = Niezadowolony
+sidebar-callout-survey-very-dissatisfied = Bardzo niezadowolony
+sidebar-callout-survey-dont-use-it = Nie używam go
+sidebar-callout-survey-productive-question =
+    W jakim stopniu zgadzasz się lub nie zgadzasz z tym stwierdzeniem:<br/>
+    „Panel boczny { -brand-short-name(case: "gen") } pomaga mi zwiększyć produktywność”?

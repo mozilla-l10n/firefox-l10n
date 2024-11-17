@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sidebar-options-menu-button =
+    .title = Otwórz menu
 
 ## Labels for sidebar history panel
 
@@ -56,12 +58,6 @@ sidebar-visibility-setting-always-show =
     .label = Rozwiń i zwiń panel boczny
 sidebar-visibility-setting-hide-sidebar =
     .label = Wyświetl i ukryj panel boczny
-sidebar-customize-settings-header =
-    .label = Ustawienia panelu bocznego
-sidebar-visibility-always-show =
-    .label = Zawsze wyświetlaj
-sidebar-visibility-hide-sidebar =
-    .label = Ukryj panel boczny
 
 ## Labels for sidebar context menu items
 
@@ -99,6 +95,25 @@ sidebar-menu-bookmarks-label =
     .label = Zakładki
 sidebar-menu-customize-label =
     .label = Dostosuj panel boczny
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Otwórz historię ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Zamknij historię ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Otwórz zakładki ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Zamknij zakładki ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

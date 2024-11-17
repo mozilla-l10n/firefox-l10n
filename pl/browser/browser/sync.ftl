@@ -37,3 +37,10 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Synchronizacja
 fxa-menu-sync-description = Korzystaj ze swojej sieci gdziekolwiek jesteś
 sync-setup-verify-continue = Kontynuuj
+sync-setup-verify-title = Ostrzeżenie o łączeniu
+sync-setup-verify-heading = Czy na pewno zalogować do synchronizacji?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Inny użytkownik był wcześniej zalogowany do synchronizacji na tym urządzeniu. Po zalogowaniu, zakładki, hasła i inne ustawienia tej przeglądarki zostaną połączone z danymi z konta { $email }.
