@@ -68,6 +68,12 @@ downloads-cmd-show-button-2 =
             [macos] ফাইন্ডারে দেখান
            *[other] ফোল্ডারে দেখান
         }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] ফাইন্ডারে দেখান
+           *[other] ফোল্ডারে দেখান
+        }
 downloads-cmd-show-downloads =
     .label = ডাউনলোড ফোল্ডার দেখাও
 downloads-cmd-retry =
