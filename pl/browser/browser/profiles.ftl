@@ -34,9 +34,58 @@ edit-profile-page-avatar-header = Awatar
 edit-profile-page-delete-button =
     .label = Usuń
 edit-profile-page-no-name = Nazwij ten profil, aby łatwiej go później znaleźć. Nazwę można zmienić w każdej chwili.
+edit-profile-page-duplicate-name = Nazwa profilu jest już używana. Spróbuj innej.
+edit-profile-page-profile-saved = Zachowano
+new-profile-page-title = Nowy profil
+new-profile-page-header = Dostosuj swój nowy profil
+new-profile-page-header-description = Każdy profil ma swoją indywidualną historię przeglądania i ustawienia oddzielnie od pozostałych profili. Do tego silna ochrona prywatności { -brand-short-name(case: "gen") } jest domyślnie włączona.
+new-profile-page-learn-more = Więcej informacji
+new-profile-page-input-placeholder =
+    .placeholder = Wybierz nazwę, np. „Praca” lub „Osobiste”
+new-profile-page-done-button =
+    .label = Gotowe
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Usuń profil „{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Czy usunąć profil „{ $profilename }”?
+delete-profile-description = { -brand-short-name } trwale usunie następujące dane z tego urządzenia:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Otwarte okna
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Otwarte karty
+delete-profile-bookmarks = Zakładki
+delete-profile-history = Historia (odwiedzone strony, ciasteczka, dane witryn)
+delete-profile-autofill = Automatycznie wypełniane dane (adresy, metody płatności)
+delete-profile-logins = Hasła
+# Button label
+delete-profile-cancel = Anuluj
+# Button label
+delete-profile-confirm = Usuń
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Nagietek
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Lawenda
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Porost
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Magnolia
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Ocean
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = Terakota
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Mech
+# The default light theme
+profiles-light-theme = Jasny
+# The default dark theme
+profiles-dark-theme = Ciemny
+# The default system theme
+profiles-system-theme = Motyw systemu
