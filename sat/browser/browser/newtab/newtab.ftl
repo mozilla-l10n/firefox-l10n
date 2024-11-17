@@ -8,11 +8,18 @@
 newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 newtab-settings-button =
     .title = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
+newtab-personalize-settings-icon-label =
+    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
+    .aria-label = ᱥᱟᱡᱟᱣᱠᱚ
+newtab-settings-dialog-label =
+    .aria-label = ᱥᱟᱡᱟᱣ ᱠᱚ
 newtab-personalize-icon-label =
     .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
     .aria-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
 newtab-personalize-dialog-label =
     .aria-label = ᱥᱟᱡᱟᱣ
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -45,6 +52,7 @@ newtab-topsites-add-search-engine-header = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ
 newtab-topsites-add-shortcut-header = ᱱᱟᱶᱟ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+newtab-topsites-add-shortcut-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
 newtab-topsites-title-input =
     .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
@@ -108,6 +116,7 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ �
 newtab-menu-delete-pocket = { -pocket-brand-name } ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 newtab-menu-archive-pocket = { -pocket-brand-name } ᱨᱮ ᱫᱚᱦᱚ ᱵᱟᱭ ᱠᱟᱜ ᱢᱮ
 newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱠᱚ
+newtab-menu-about-fakespot = { -fakespot-brand-name } ᱵᱚᱵᱚᱛ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -196,6 +205,9 @@ newtab-section-header-recent-activity = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
+newtab-section-header-stories = ᱢᱚᱱᱮᱼᱜᱷᱟᱱᱴᱟ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸᱧᱟᱜ ᱦᱟᱛᱟᱣ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -204,6 +216,8 @@ newtab-empty-section-highlights = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱮᱛᱚᱦᱚᱵ �
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = ᱡᱷᱚᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ ᱾ { $provider } ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ ᱵᱟᱝ ᱛᱟᱹᱝᱜᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱣᱮᱵᱽ ᱡᱟᱠᱟᱛ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱤᱱᱤ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = ᱡᱷᱚᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ ᱾ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ ᱵᱟᱝ ᱛᱟᱹᱝᱜᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱣᱮᱵᱽ ᱡᱟᱠᱟᱛ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱤᱱᱤ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -224,11 +238,24 @@ newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
 newtab-pocket-cta-text = { -pocket-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ, ᱟᱨ ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱱ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = ᱱᱚᱠᱟ ᱞᱮᱠᱷᱟ ᱟᱨᱦᱚᱸ
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = ᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱵᱟᱝᱟ
+newtab-toast-thumbs-up-or-down = ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱟᱞᱮ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢᱟᱭᱟ ᱾
+newtab-toast-dismiss-button =
+    .title = ᱵᱚᱸᱫ
+    .aria-label = ᱵᱚᱸᱫ
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -290,6 +317,7 @@ newtab-wallpaper-dark-color = ᱟᱨᱟᱜ ᱟᱨ ᱞᱤᱞ ᱜᱚᱲᱦᱚᱱ
 newtab-wallpaper-dark-panda = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ ᱵᱤᱨ ᱨᱮ ᱩᱠᱩ ᱟᱠᱟᱱᱟ
 newtab-wallpaper-dark-sky = ᱧᱤᱱᱫᱟᱹ ᱥᱮᱨᱢᱟ ᱥᱟᱶ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥᱠᱮᱯ
 newtab-wallpaper-dark-mountain = ᱞᱮᱱᱰᱥᱠᱮᱯ ᱵᱩᱨᱩ
+newtab-wallpaper-dark-city = ᱵᱮᱝᱜᱟᱲ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥᱠᱮᱯ
 
 ## Solid Colors
 

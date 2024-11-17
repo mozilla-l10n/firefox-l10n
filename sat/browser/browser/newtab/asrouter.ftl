@@ -332,3 +332,10 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱪᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
+multi-cta-fox-doodle-quick-reminder-subtitle = ᱱᱚᱸᱰᱮ ᱢᱤᱫᱴᱟᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱠᱟᱛᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱟᱢᱟᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱡᱟᱨ ᱢᱤᱫ ᱠᱞᱤᱠ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱫᱚ ᱢᱤᱫ ᱚᱛᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
+       *[other] ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱫᱚ ᱢᱤᱫ ᱚᱛᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱫᱚ ᱢᱤᱫ ᱚᱛᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱨ ᱟᱨ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
