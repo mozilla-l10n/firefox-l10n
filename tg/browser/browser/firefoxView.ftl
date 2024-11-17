@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-produc
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
 firefoxview-syncedtabs-adddevice-header-2 = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
+firefoxview-syncedtabs-adddevice-description-2 = Барои дидани варақаҳо дар ин ҷой, ба «{ -brand-product-name }» дар телефон ё компютери дигари худ ворид шавед. Маълумот гиред, ки чӣ тавр метавонед <a data-l10n-name="url">дастгоҳҳои иловагиро пайваст намоед</a>.
 firefoxview-syncedtabs-adddevice-header = Дар дастгоҳҳои дигари худ ба «{ -brand-product-name }» ворид шавед
 firefoxview-syncedtabs-adddevice-description = Барои дидани варақаҳои худ аз ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, дар ҳамаи дастгоҳҳои худ ворид шавед. Барои тарзи <a data-l10n-name="url">пайваст кардани дастгоҳҳои иловагӣ</a> маълумоти бештар гиред.
 firefoxview-syncedtabs-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро барои дастгоҳи мобилӣ кӯшиш кунед
@@ -168,6 +169,9 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Ҷустуҷӯи варақаҳои ба наздикӣ пӯшидашуда
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Ҷустуҷӯ дар варақаҳо
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Ҷустуҷӯ дар варақаҳои ҳамоҳангшуда
