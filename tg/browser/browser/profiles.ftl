@@ -28,6 +28,7 @@ edit-profile-page-title = Таҳрир кардани профил
 edit-profile-page-header = Таҳрир кардани профили худ
 edit-profile-page-profile-name-label = Номи профил
 edit-profile-page-theme-header = Мавзуъ
+edit-profile-page-explore-themes = Дидани мавзуъҳои бештар
 edit-profile-page-delete-button =
     .label = Нест кардан
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
