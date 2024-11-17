@@ -73,4 +73,13 @@ sidebar-callout-survey-privacy-notice-link = Огоҳномаи махфият
 sidebar-callout-survey-very-satisfied = Хеле қаноатманд
 sidebar-callout-survey-satisfied = Қаноатманд
 sidebar-callout-survey-neutral = Бетараф
+sidebar-callout-survey-dissatisfied = Қаноатманд нест
+sidebar-callout-survey-very-dissatisfied = Хеле қаноатманд нест
+sidebar-callout-survey-dont-use-it = Ман онро истифода намебарам
+sidebar-callout-survey-productive-question =
+    Шумо то чӣ андоза бо изҳори зерин розӣ ҳастед ё нестед:<br/>
+    «Навори ҷонибии браузери «{ -brand-short-name }» ба ман барои самараноктар будан кумак мерасонад»?
+sidebar-callout-survey-strongly-agree = Далерона розӣ ҳастам
+sidebar-callout-survey-agree = Розӣ ҳастам
+sidebar-callout-survey-disagree = Розӣ нестам
 sidebar-callout-survey-submit = Пешниҳод кардан
