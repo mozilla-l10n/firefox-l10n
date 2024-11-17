@@ -297,9 +297,38 @@ root-certificate-succession-infobar-link = ᱤᱧ ᱪᱮᱫᱟᱜ ᱦᱟᱹᱞ�
 root-certificate-succession-infobar-primary-button =
     .label = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
     .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = ᱛᱟᱭᱚᱢ ᱛᱮ
+    .accesskey = L
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+fxa-menu-message-sign-up-button = ᱥᱩᱦᱤ ᱮᱡ ᱦᱚᱪᱚ
+fxa-menu-message-sync-devices-primary-text = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱥᱤᱝᱠ ᱢᱮ
+fxa-menu-message-sync-devices-secondary-text = ᱨᱚᱠᱟ ᱜᱮ ᱟᱢᱟᱜ ᱵᱟᱯᱟᱰᱟᱭ ᱧᱟᱢ ᱢᱮ — ᱡᱮᱞᱠᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ — ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ { -brand-short-name } ᱮᱢ ᱵᱮᱵᱷᱟᱨᱟ ᱾
+fxa-menu-message-sync-devices-collapsed-text = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱥᱤᱝᱠ ᱢᱮ
+fxa-menu-message-backup-data-primary-text = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ
+fxa-menu-message-backup-data-secondary-text = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱡ ᱛᱮ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱨ ᱮᱴᱟᱜ ᱵᱟᱯᱟᱰᱟᱭ ᱠᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚᱦᱚᱭᱟ ᱾
+fxa-menu-message-backup-data-collapsed-text = ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ
+fxa-menu-message-backup-sync-primary-text = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱥᱤᱝᱠ ᱫᱚᱦᱚᱭ ᱢᱮ
+fxa-menu-message-backup-sync-secondary-text = ᱥᱤᱝᱠ ᱫᱚ ᱟᱢᱟᱜ ᱵᱟᱹᱲᱛᱤ ᱰᱟᱴᱟ ᱵᱮᱠ ᱟᱯ ᱮᱫᱟᱭ ᱡᱮᱢᱚᱱ ᱟᱢ ᱡᱟᱸᱦᱟ ᱨᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ { -brand-short-name } ᱚᱱᱟ ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+fxa-menu-message-backup-sync-collapsed-text = ᱥᱭᱝᱠ ᱟᱨ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯᱷ ᱢᱮ
+fxa-menu-message-mobile-primary-text = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+fxa-menu-message-mobile-secondary-text = ᱟᱢ ᱡᱟᱦᱟᱸ ᱨᱮᱢ ᱵᱟᱹᱜᱤ ᱞᱮᱫᱟ ᱚᱱᱰᱮ ᱜᱮ ᱦᱟᱛᱟᱣ ᱢᱮ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱥᱟᱶ ᱥᱤᱝᱠ ᱢᱮ ᱾
+fxa-menu-message-mobile-collapsed-text = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱥᱟᱶ ᱥᱤᱝᱠ ᱢᱮ
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } ᱰᱤᱯᱷᱚᱞᱴ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
+multi-cta-fox-doodle-pin-startmenu-checkbox = ᱮᱛᱦᱚᱵᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱪᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
