@@ -79,6 +79,9 @@ fp-cert-error-code = Kod błędu: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Więcej informacji o niepowodzeniach zabezpieczonego połączenia
+fp-learn-more-about-cert-issues = Więcej informacji o tego rodzaju problemach z certyfikatami
+fp-learn-more-about-time-related-errors = Więcej informacji o rozwiązywaniu błędów związanych z zegarem
 
 ## Messages used for certificate error titles
 
@@ -136,3 +139,4 @@ fp-certerror-hide-advanced-button = Ukryj zaawansowane
 
 fp-certerror-override-exception-button = Przejdź do witryny { $hostname } (ryzykowne)
 fp-certerror-intro = { -brand-short-name } wykrył potencjalnie poważny problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Ktoś podszywający się pod nią może próbować ukraść dane karty płatniczej, hasła, wiadomości e-mail lub coś innego.
+fp-certerror-expired-into = { -brand-short-name } wykrył problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Jest ona błędnie skonfigurowana albo zegar tego urządzenia jest ustawiony na błędną datę/godzinę.
