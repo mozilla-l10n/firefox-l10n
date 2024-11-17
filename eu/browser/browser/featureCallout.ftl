@@ -68,6 +68,7 @@ sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra za
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Lagundu { -brand-short-name } hobetzen
+sidebar-callout-survey-satisfaction-question = Zenbateraino zaude gustura alboko barraren esperientziarekin { -brand-short-name }(e)n?
 sidebar-callout-survey-privacy-notice-link = Pribatutasun-oharra
 sidebar-callout-survey-very-satisfied = Oso kontent
 sidebar-callout-survey-satisfied = Kontent
@@ -75,9 +76,17 @@ sidebar-callout-survey-neutral = Neutrala
 sidebar-callout-survey-dissatisfied = Kontentagaitz
 sidebar-callout-survey-very-dissatisfied = Oso kontentagaitz
 sidebar-callout-survey-dont-use-it = Ez dut erabiltzen
+sidebar-callout-survey-productive-question =
+    Zein neurriraino zaude ados edo desados ondorengo adierazpenarekin:<br/>
+    "{ -brand-short-name }(e)n alboko barrak emankorrago izaten laguntzen dit"?
 sidebar-callout-survey-strongly-agree = Erabat ados
 sidebar-callout-survey-agree = Ados
 sidebar-callout-survey-disagree = Desados
 sidebar-callout-survey-strongly-disagree = Erabat desados
+sidebar-callout-survey-features-question = Ondorengoak alboko barraren balizko eginbideak dira. Zeinek hobetuko luke gehien zure { -brand-short-name }(e)ko emankortasuna?
+sidebar-callout-survey-split-view = Edozein bi webgune batera ikustea, ondoz ondoko ikuspegi zatituan
+sidebar-callout-survey-keep-website-open = Nabigatu ahala webgune bat alboko barran zabalik mantentzea, adibidez posta elektronikoa edo egutegia
+sidebar-callout-survey-saved-websites = Gordetako zure webgune guztietarako sarbide azkarra
+sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!

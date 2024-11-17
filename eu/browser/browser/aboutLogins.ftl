@@ -301,6 +301,9 @@ about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitza
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
 about-logins-confirm-export-dialog-title2 = Pasahitzak esportatzeari buruzko oharra
+about-logins-confirm-export-dialog-message2 =
+    Esportatzean, zure pasahitzak irakur daitekeen testu-fitxategi batean gordetzen dira.
+    Fitxategia erabili ondoren berau ezabatzea gomendatzen dugu, gailu hau darabilen beste inork zure pasahitzak ikusi ez ahal izateko.
 about-logins-confirm-export-dialog-confirm-button2 = Jarraitu esportazioarekin
 about-logins-alert-import-title = Inportazioa burutu da
 about-logins-alert-import-message = Ikusi inportazioaren laburpen xehatua

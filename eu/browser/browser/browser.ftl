@@ -966,7 +966,18 @@ private-browsing-indicator-label = Nabigatze pribatua
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Nabigatze pribatua
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Datu-galeren eragozpena (DLP) { $agentName } bidez. Egin klik argibide gehiagorako.
 content-analysis-panel-title = Datuen babesa
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Zure erakundeak <b>{ $agentName }</b> darabil datu-galeren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Zure erakundeak { $agentName } darabil datu-galeren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
 
 ## Unified extensions (toolbar) button
 

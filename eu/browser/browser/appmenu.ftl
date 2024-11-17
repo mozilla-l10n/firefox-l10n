@@ -199,6 +199,7 @@ profiler-popup-presets-power-description = { -brand-shorter-name }(r)en energia-
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = { -brand-shorter-name }(r)en arazketarako aurrezarpena. Eragin negatibo handia du, ez erabili errendimenduarekin lotutako lanerako, bai ordea nabigatzailearen portaera ulertzeko.
 profiler-popup-presets-debug-label =
     .label = Araztu
 profiler-popup-presets-custom-label =
