@@ -73,6 +73,15 @@ open-in-new-window-for-csp-or-xfo-error = Seite in neuem Tab öffnen
 csp-xfo-blocked-long-desc = Zu Ihrem Schutz erlaubt { $hostname } es { -brand-short-name } nicht, diese Seite anzuzeigen, wenn sie in eine andere Seite eingebettet ist. Zur Anzeige der Seite muss diese in einem neuen Tab geöffnet werden.
 fp-certerror-view-certificate-link = Das Zertifikat der Website ansehen
 fp-certerror-return-to-previous-page-recommended-button = Zurück (empfohlen)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Fehlercode: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Weitere Informationen zu Fehlern bei sicheren Verbindungen
+fp-learn-more-about-cert-issues = Weitere Informationen über diese Art von Zertifikatsproblemen
+fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebung von zeitbezogenen Fehlern
 
 ## Messages used for certificate error titles
 
@@ -117,6 +126,10 @@ certerror-mitm-title = Software hindert { -brand-short-name } am Aufbauen einer 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Warnung: Sicherheitsrisiko
+fp-certerror-body-title = Seien Sie vorsichtig. Irgendetwas stimmt hier nicht.
+fp-certerror-why-site-dangerous = Warum sieht die Website gefährlich aus?
+fp-certerror-what-can-you-do = Was können Sie dagegen tun?
 fp-certerror-advanced-title = Erweitert
 fp-certerror-advanced-button = Erweitert
 fp-certerror-hide-advanced-button = Erweitert ausblenden
@@ -125,3 +138,5 @@ fp-certerror-hide-advanced-button = Erweitert ausblenden
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Weiter zu { $hostname } (riskant)
+fp-certerror-intro = { -brand-short-name } hat ein möglicherweise schwerwiegendes Sicherheitsproblem auf <strong>{ $hostname }</strong> entdeckt. Jemand, der sich als die Website ausgibt, könnte versuchen, Dinge wie Kreditkartendaten, Passwörter oder E-Mails zu stehlen.
+fp-certerror-expired-into = { -brand-short-name } hat ein Sicherheitsproblem auf <strong>{ $hostname }</strong> entdeckt. Entweder ist die Website nicht richtig eingerichtet oder die Uhr Ihres Geräts ist auf das falsche Datum/die falsche Uhrzeit eingestellt.

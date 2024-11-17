@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Der Server hat ein Zertifikat mit 
 mozilla-pkix-error-empty-issuer-name = Der Server hat ein Zertifikat vorgezeigt, dessen eindeutiger Ausstellername leer ist.
 mozilla-pkix-error-additional-policy-constraint-failed = Eine zusätzliche Regelbeschränkung ist beim Validieren dieses Zertifikats fehlgeschlagen.
 mozilla-pkix-error-self-signed-cert = Dem Zertifikat wird nicht vertraut, weil es vom Aussteller selbst signiert wurde.
+mozilla-pkix-error-issuer-no-longer-trusted = Der Zertifizierungsstelle, die das Zertifikat ausgestellt hat, wurde das Vertrauen entzogen, bevor das Zertifikat ausgestellt wurde.
 xp-java-remove-principal-error = Principal konnte nicht entfernt werden
 xp-java-delete-privilege-error = Privileg konnte nicht gelöscht werden
 xp-java-cert-not-exists-error = Dieser Principal hat kein Zertifikat

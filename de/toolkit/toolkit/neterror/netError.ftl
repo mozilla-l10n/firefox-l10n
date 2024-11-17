@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } konnte die Seite aus unbekanntem 
 neterror-load-error-try-again = Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte später nochmals.
 neterror-load-error-connection = Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Netzwerk-/Internetverbindung.
 neterror-load-error-firewall = Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher, dass { -brand-short-name } auf das Internet zugreifen darf.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Wenn Sie versuchen, einee Seite im lokalen Netzwerk zu laden, überprüfen Sie bitte, ob { -brand-short-name } in den macOS-Datenschutz- & -Sicherheitseinstellungen die Berechtigung "Lokales Netzwerk" erhalten hat.
 neterror-captive-portal = Sie müssen sich bei dem Netzwerk anmelden, um auf das Internet zugreifen zu können.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -148,3 +150,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Falls Sie mit <b>{ $mitm }<
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> verwendet eine Sicherheitstechnologie namens "HTTP Strict Transport Security (HSTS)", durch welche { -brand-short-name } nur über gesicherte Verbindungen mit der Website verbinden darf. Daher kann keine Ausnahme für die Website hinzugefügt werden.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Wahrscheinlich nichts, da es wahrscheinlich ein Problem mit der Website selbst gibt.
