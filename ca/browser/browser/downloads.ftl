@@ -31,8 +31,8 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
-            [macos] Mostra-ho en el Finder
-           *[other] Obre la carpeta on es troba
+            [macos] Mostra en el Finder
+           *[other] Mostra en la carpeta
         }
     .accesskey = M
 
@@ -70,20 +70,20 @@ downloads-cmd-always-open-similar-files =
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
-            [macos] Mostra-ho en el Finder
-           *[other] Obre la carpeta on es troba
+            [macos] Mostra en el Finder
+           *[other] Mostra en la carpeta
         }
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
-            [macos] Mostra-ho en el Finder
-           *[other] Obre la carpeta on es troba
+            [macos] Mostra en el Finder
+           *[other] Mostra en la carpeta
         }
 downloads-cmd-show-description-2 =
     .value =
         { PLATFORM() ->
-            [macos] Mostra-ho en el Finder
-           *[other] Obre la carpeta on es troba
+            [macos] Mostra en el Finder
+           *[other] Mostra en la carpeta
         }
 downloads-cmd-show-downloads =
     .label = Mostra la carpeta de baixades

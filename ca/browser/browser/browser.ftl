@@ -966,7 +966,18 @@ private-browsing-indicator-label = Navegació privada
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegació privada
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Prevenció de pèrdua de dades (DLP) de { $agentName }. Feu clic per a més informació.
 content-analysis-panel-title = Protecció de dades
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = La vostra organització utilitza <b>{ $agentName }</b> per a protegir-se contra la pèrdua de dades. <a data-l10n-name="info">Més informació</a>
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = La vostra organització utilitza { $agentName } per a protegir-se contra la pèrdua de dades. <a data-l10n-name="info">Més informació</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1031,6 +1042,11 @@ firefox-relay-offer-legal-notice = En fer clic a «Utilitza una màscara d'adre�
 popup-notification-addon-install-unsigned =
     .value = (No verificat)
 popup-notification-xpinstall-prompt-learn-more = Més informació sobre la instal·lació de complements de forma segura
+popup-notification-xpinstall-prompt-block-url = Mostra detalls
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Executa en finestres privades
+    .accesskey = p
 
 ## Pop-up warning
 
@@ -1063,6 +1079,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = No s'ha pogut obrir el diàleg de fitxers del Windows. No s'ha pogut seleccionar cap fitxer ni carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = No s'ha pogut obrir el diàleg de fitxers del Windows. El fitxer es desarà a { $path }.
+file-picker-failed-save-nowhere = No s'ha pogut obrir el diàleg de fitxers del Windows. No s'ha trobat cap carpeta per defecte; el fitxer no es desarà.
+file-picker-crashed-open = El diàleg de fitxers del Windows ha fallat. No s'ha pogut seleccionar cap fitxer ni carpeta.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = El diàleg de fitxers del Windows ha fallat. El fitxer es desarà a { $path }.
+file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. No s'ha trobat cap carpeta per defecte; el fitxer no es desarà.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
