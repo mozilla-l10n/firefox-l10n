@@ -293,8 +293,8 @@ tail-fox-spotlight-secondary-button = Nie teraz
 
 ## Root Certificate Succession Infobar
 
-root-certificate-succession-infobar-january-message = <strong>Starsze wersje { -brand-short-name(case: "gen") } mogą zacząć mieć problemy po 14 stycznia 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Zaktualizuj, aby móc nadal korzystać z { -brand-short-name(case: "gen") } po 14 marca 2025.</strong>
+root-certificate-succession-infobar-january-message = <strong>Starsze wersje { -brand-short-name(case: "gen") } mogą zacząć mieć problemy po 14 stycznia 2025 r.</strong>
+root-certificate-succession-infobar-march-message = <strong>Zaktualizuj, aby móc nadal korzystać z { -brand-short-name(case: "gen") } po 14 marca 2025 r.</strong>
 root-certificate-succession-infobar-link = Dlaczego muszę zaktualizować?
 root-certificate-succession-infobar-primary-button =
     .label = Zaktualizuj teraz
@@ -308,3 +308,6 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Zamknij
     .aria-label = Zamknij
+
+## Multi-CTA Fox Doodle Spotlight
+
