@@ -166,3 +166,5 @@ fp-certerror-hide-advanced-button = Схаваць падрабязнасці
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Перайсці на { $hostname } (рызыкоўна)
+fp-certerror-intro = { -brand-short-name } выявіў патэнцыйна сур'ёзную праблему з бяспекай <strong>{ $hostname }</strong>. Нехта, хто выдае сябе за гэты сайт, можа паспрабаваць скрасці такія рэчы, як дадзеныя крэдытнай карты, паролі або электронную пошту.
+fp-certerror-expired-into = { -brand-short-name } выявіў праблему бяспекі на <strong>{ $hostname }</strong>. Або сайт настроены няправільна, або на гадзінніку вашай прылады ўстаноўлена няправільна дата/час.

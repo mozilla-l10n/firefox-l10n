@@ -59,3 +59,20 @@ split-dismiss-button-dont-show-option-label = Больш не паказваць
 split-dismiss-button-show-fewer-option-label = Паказваць менш рэкамендацый
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Кіраваць наладамі
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Паказваць назвы картак у бакавой панэлі
+sidebar-button-callout-subtitle = Выкарыстоўвайце кнопку бакавой панэлі, каб разгарнуць бакавую панэль, каб вы маглі бачыць загалоўкі картак.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Дапамажыце ўдасканаліць { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Наколькі вы задаволены бакавой панэллю ў { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Паведамленне аб прыватнасці
+sidebar-callout-survey-very-satisfied = Вельмі задаволены
+sidebar-callout-survey-satisfied = Задаволены
+sidebar-callout-survey-neutral = Нейтральны
+sidebar-callout-survey-dissatisfied = Незадаволены
+sidebar-callout-survey-very-dissatisfied = Вельмі незадаволены
+sidebar-callout-survey-dont-use-it = Я ёй не карыстаюся
