@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Wenn du deine Daten s
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
 onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synchronisieren deine Daten zwischen mehreren Geräten
+onboarding-sign-up-description = Erstelle ein Konto und alle deine wichtigen Daten – Passwörter, Lesezeichen und mehr – werden sicher gespeichert und verfügbar, wenn du dich auf einem beliebigen Gerät anmeldest.
+onboarding-sign-up-button = Anmelden oder registrieren
+onboarding-sign-up-secondary-button = Lossurfen
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,13 @@ onboarding-genai-sidebar-title = Probiere einen KI-Chatbot in der Sidebar aus
 onboarding-genai-sidebar-subtitle = Fasse Web-Inhalte zusammen, sammle Brainstorming-Ideen oder entwirf Nachrichten – alles während des Surfens. Wähle aus mehreren Anbietern. Jederzeit wechseln. <a data-l10n-name="learn-more">Weitere Informationen</a>
 onboarding-genai-sidebar-primary-button = Wählen Sie einen Chatbot
 onboarding-genai-sidebar-secondary-button = Lossurfen
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Einrichtung von { -brand-short-name } abschließen
+onboarding-checklist-subtitle = Schließe diese Schritte ab, um das Beste aus deinem Surf-Erlebnis herauszuholen.
+onboarding-checklist-set-default = { -brand-short-name } als Standardbrowser festlegen
+onboarding-checklist-pin = { -brand-short-name } an Taskleiste anheften
+onboarding-checklist-import = Aus vorherigem Browser importieren
+onboarding-checklist-extension = Eine Erweiterung hinzufügen
+onboarding-checklist-sign-up = Registriere dich oder melde dich mit deinem Konto an
