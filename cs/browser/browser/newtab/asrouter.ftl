@@ -412,11 +412,21 @@ fxa-menu-message-close-button =
     .aria-label = Zavřít
 fxa-menu-message-sign-up-button = Přihlásit se
 fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
+fxa-menu-message-sync-devices-secondary-text =
+    { -brand-short-name.case-status ->
+        [with-cases] Okamžitě získáte své informace — například záložky a hesla — všude tam, kde použijete { -brand-short-name(case: "acc") }.
+       *[no-cases] Okamžitě získáte své informace — například záložky a hesla — všude tam, kde použijete aplikaci { -brand-short-name }.
+    }
 fxa-menu-message-sync-devices-collapsed-text = Synchronizace všech zařízení
 fxa-menu-message-backup-data-primary-text = Zálohujte si údaje prohlížeče
 fxa-menu-message-backup-data-secondary-text = Automaticky chraňte záložky, hesla a další informace na všech svých zařízeních.
 fxa-menu-message-backup-data-collapsed-text = Zálohujte údaje prohlížeče
 fxa-menu-message-backup-sync-primary-text = Udržujte své údaje v bezpečí a synchronizované
+fxa-menu-message-backup-sync-secondary-text =
+    { -brand-short-name.case-status ->
+        [with-cases] Synchronizace zálohuje většinu vašich dat, takže k nim máte přístup všude, kde používáte { -brand-short-name(case: "acc") }.
+       *[no-cases] Synchronizace zálohuje většinu vašich dat, takže k nim máte přístup všude, kde používáte aplikaci { -brand-short-name }.
+    }
 fxa-menu-message-backup-sync-collapsed-text = Synchronizujte a zálohujte data
 fxa-menu-message-mobile-primary-text = Odešlete panely do telefonu
 fxa-menu-message-mobile-secondary-text = Po synchronizaci panelů s mobilním zařízením můžete okamžitě pokračovat tam, kde jste skončili.
@@ -434,6 +444,11 @@ multi-cta-fox-doodle-pin-startmenu-checkbox =
     { -brand-short-name.case-status ->
         [with-cases] Připnout { -brand-short-name(case: "acc") } do nabídky Start
        *[no-cases] Připnout aplikaci { -brand-short-name } do nabídky Start
+    }
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Ponechat { -brand-short-name } v Docku
+       *[other] Připnout { -brand-short-name } na hlavní panel
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet
 multi-cta-fox-doodle-main-browser-primary-button-label =

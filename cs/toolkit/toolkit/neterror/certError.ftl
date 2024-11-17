@@ -183,3 +183,4 @@ fp-certerror-hide-advanced-button = Skrýt rozšířené
 
 fp-certerror-override-exception-button = Pokračovat na { $hostname } (riskantní)
 fp-certerror-intro = { -brand-short-name } zjistil potenciálně závažný bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Někdo, kdo se vydává za web, by se mohl pokusit ukrást například údaje o kreditní kartě, hesla nebo e-maily.
+fp-certerror-expired-into = { -brand-short-name } zjistil bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Buď není web správně nastaven, nebo jsou hodiny vašeho zařízení nastaveny na špatný datum/čas.
