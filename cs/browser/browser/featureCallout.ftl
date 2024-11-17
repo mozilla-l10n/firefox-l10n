@@ -113,9 +113,18 @@ sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
 sidebar-callout-survey-agree = Souhlasím
 sidebar-callout-survey-disagree = Nesouhlasím
 sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
+sidebar-callout-survey-features-question =
+    { -brand-short-name.case-status ->
+        [with-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu ve { -brand-short-name(case: "dat") }?
+       *[no-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu v aplikaci { -brand-short-name }?
+    }
 sidebar-callout-survey-split-view = Zobrazení libovolných dvou webových stránek najednou v rozděleném zobrazení vedle sebe
+sidebar-callout-survey-keep-website-open = Ponechat webovou stránku, například e-mail nebo kalendář, otevřený v postranním panelu po dobu prohlížení.
 sidebar-callout-survey-saved-websites = Rychlý přístup ke všem uloženým webovým stránkám
 sidebar-callout-survey-none-of-above = Nic z výše uvedeného
 sidebar-callout-survey-submit = Odeslat
 sidebar-callout-survey-thank-you = Děkujeme za zpětnou vazbu!
 sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k chatbotu s umělou inteligencí v postranním panelu?
+sidebar-genai-survey-productive-question =
+    Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>
+    "Chatbot s umělou inteligencí v postranním panelu mi pomáhá být produktivnější"?

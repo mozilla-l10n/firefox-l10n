@@ -81,8 +81,38 @@ csp-xfo-blocked-long-desc =
     }
 fp-certerror-view-certificate-link = Zobrazit certifikát serveru
 fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Web je nastaven tak, aby umožňoval pouze zabezpečená připojení, ale s certifikátem webu je problém. Je možné, že se za web pokouší vydávat někdo jiný. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože jeho certifikát není pro server { $hostname } platný. Certifikát je platný pouze pro: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je v samotném webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. Pokud jste ale ve firemní síti, může mít tým podpory více informací. Pokud používáte antivirový software, zkuste vyhledat možné konflikty nebo známé problémy.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Na webu je problém s certifikátem. Je možné, že se za web pokouší vydávat někdo jiný. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože nemůžeme určit, kdo certifikát vydal, je podepsán vlastní autoritou nebo web neposílá zprostředkující certifikáty, kterým důvěřujeme.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body =
+    { -brand-short-name.case-status ->
+        [with-cases] Pravděpodobně nic, protože je pravděpodobné, že problém je v samotném webu. Pokud jste ale v podnikové síti, může mít tým podpory více informací. Pokud používáte antivirový software, možná bude třeba jej nakonfigurovat tak, aby pracoval s { -brand-short-name(case: "ins") }.
+       *[no-cases] Pravděpodobně nic, protože je pravděpodobné, že problém je v samotném webu. Pokud jste ale v podnikové síti, může mít tým podpory více informací. Pokud používáte antivirový software, možná bude třeba jej nakonfigurovat tak, aby pracoval s aplikací { -brand-short-name }.
+    }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Protože je problém s certifikátem webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. Certifikát tohoto webu je podepsán vlastní autoritou. Nebyl vydán uznávanou certifikační autoritou – proto mu ve výchozím nastavení nedůvěřujeme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Nic moc. Je pravděpodobné, že problém je v samotném webu.
+fp-certerror-self-signed-important-note = DŮLEŽITÉ UPOZORNĚNÍ: Pokud se pokoušíte navštívit tento web v podnikovém intranetu, mohou pracovníci IT oddělení používat certifikáty s vlastním podpisem. Mohou vám pomoci zkontrolovat jejich pravost.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Stránky používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože to vypadá, že platnost certifikátu vypršela dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Stránky používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože to vypadá, že certifikát bude platný až po { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kód chyby: { $error }
@@ -152,3 +182,4 @@ fp-certerror-hide-advanced-button = Skrýt rozšířené
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Pokračovat na { $hostname } (riskantní)
+fp-certerror-intro = { -brand-short-name } zjistil potenciálně závažný bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Někdo, kdo se vydává za web, by se mohl pokusit ukrást například údaje o kreditní kartě, hesla nebo e-maily.
