@@ -35,10 +35,18 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Sinplifikatu hizkuntza
     .value = Berridatzi hautapena esaldi laburrak eta hitz sinpleak erabiliz. Mantendu esanahia eta egitateen zehaztasuna.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Egidazu galdeketa
+    .value = Egidazu hautapen honi buruzko galdeketa. Galde iezazkidazu hainbat galdera, adibidez aukera anitzeko ariketak, egia edo faltsua, eta erantzun laburra. Itxaron nire erantzunari ondorengo galderara joan aurretik.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Azaldu hau
     .value = Azaldu hautapenaren kontzeptu gakoak hitz sinpleak erabiliz. Erabili adibideak halaber.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = "{ $tabTitle }" orrian nago "{ $selection }" hautatuta.
 
 ## Chatbot menu shortcuts
 
@@ -82,6 +90,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Nabigatu ahala laburbildu, ideiak jaso eta gehiago
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota. Hautatzean, bot bakoitzari buruzko xehetasunak erakutsiko ditugu. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
 genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
 genai-onboarding-claude-tooltip =
@@ -103,6 +114,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat-i buruzko argibide gehiago
 genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
+genai-onboarding-select-description = Testua hautatzean, txaterako botari bidal diezazkiozun gonbitak gomendatuko dizkizugu. Zure gonbit propioak ere idatz ditzakezu.
 genai-onboarding-select-primary = Hasi txateatzen
 
 ## Chatbot onboarding choices
@@ -114,10 +126,15 @@ genai-onboarding-claude-price = Doako eta ordainpeko aukerak; kontua beharrezkoa
 genai-onboarding-chatgpt-generate = Sortu testua, irudiak eta kodea
 genai-onboarding-chatgpt-analyze = Analizatu dokumentuak eta irudiak
 genai-onboarding-chatgpt-price = Doako eta ordainpeko aukera; kontua beharrezkoa da zenbait herrialde eta atazentzat
+genai-onboarding-copilot-generate = Sortu testua, irudiak eta kodea
+genai-onboarding-copilot-analyze = Aztertu irudiak
+genai-onboarding-copilot-price = Doako eta ordainpeko aukerak; kontua behar da zenbait atazetarako
 genai-onboarding-gemini-generate = Sortu testua, irudiak eta kodea
 genai-onboarding-gemini-analyze = Analizatu irudiak (doakoa) eta dokumentuak (ordainpekoa)
 genai-onboarding-gemini-price = Doako eta ordainpeko aukerak; kontua beharrezkoa da
 genai-onboarding-huggingchat-generate = Sortu testua eta kodea
+genai-onboarding-huggingchat-switch = Aldatu modelo irekien sorta anitzen artean
+genai-onboarding-huggingchat-price-2 = Doakoa; kontua behar da eskaera kopuru jakin baten ondoren
 genai-onboarding-huggingchat-price = Doakoa; kontua beharrezkoa da zenbait atazentzat
 genai-onboarding-lechat-generate = Sortu testua eta kodea
 genai-onboarding-lechat-price = Doakoa; kontua beharrezkoa da
