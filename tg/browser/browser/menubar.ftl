@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Хатбаракҳои мобилӣ
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Профилҳо
+menu-profiles-manage-profiles =
+    .label = Идоракунии профилҳо
+menu-profiles-new-profile =
+    .label = Профили нав
+
 ## Tools Menu
 
 menu-tools =

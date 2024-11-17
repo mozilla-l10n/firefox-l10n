@@ -311,3 +311,7 @@ fxa-menu-message-mobile-collapsed-text = Бо телефони худ ҳамоҳ
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Бозгаштатон муборак
+multi-cta-fox-doodle-set-default-checkbox = Танзим кардани «{ -brand-short-name }» ба сурати пешфарз
+multi-cta-fox-doodle-pin-startmenu-checkbox = Васл кардани «{ -brand-short-name }» ба менюи «Оғоз»
+multi-cta-fox-doodle-start-browsing-primary-button-label = Оғоз кардани тамошо
