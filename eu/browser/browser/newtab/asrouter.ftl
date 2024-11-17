@@ -296,6 +296,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Itxi
     .aria-label = Itxi
+fxa-menu-message-sign-up-button = Eman izena
 fxa-menu-message-sync-devices-primary-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-sync-devices-collapsed-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-mobile-primary-text = Bidali fitxak zure telefonora
@@ -303,3 +304,20 @@ fxa-menu-message-mobile-collapsed-text = Sinkronizatu zure telefonoarekin
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Ongi etorri berriro
+multi-cta-fox-doodle-set-default-checkbox = Ezarri { -brand-short-name } lehenetsi gisa
+multi-cta-fox-doodle-pin-startmenu-checkbox = Ainguratu { -brand-short-name } Hasi menuan
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mantendu { -brand-short-name } Dock-ean
+       *[other] Ainguratu { -brand-short-name } ataza-barran
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Hasi nabigatzen
+multi-cta-fox-doodle-main-browser-primary-button-label = Egin { -brand-short-name } nire nabigatzaile nagusia
+multi-cta-fox-doodle-quick-reminder-subtitle = Hona hemen abisua gogorarazteko pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera manten dezakezula.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu Dock-ean.
+       *[other] Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran eta Hasi menuan.

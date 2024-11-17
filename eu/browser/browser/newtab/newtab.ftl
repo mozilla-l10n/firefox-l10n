@@ -8,6 +8,11 @@
 newtab-page-title = Fitxa berria
 newtab-settings-button =
     .title = Pertsonalizatu fitxa berriaren orria
+newtab-personalize-settings-icon-label =
+    .title = Pertsonalizatu fitxa berria
+    .aria-label = Ezarpenak
+newtab-settings-dialog-label =
+    .aria-label = Ezarpenak
 newtab-personalize-icon-label =
     .title = Pertsonalizatu fitxa berria
     .aria-label = Pertsonalizatu fitxa berria
@@ -111,6 +116,7 @@ newtab-menu-save-to-pocket = Gorde { -pocket-brand-name }-en
 newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
 newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
 newtab-menu-show-privacy-info = Gure babesleak eta zure pribatutasuna
+newtab-menu-about-fakespot = { -fakespot-brand-name }(r)i buruz
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

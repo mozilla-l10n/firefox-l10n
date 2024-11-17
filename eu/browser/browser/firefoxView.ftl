@@ -248,6 +248,7 @@ firefoxview-import-history-description = Egizu { -brand-short-name } zure nabiga
 
 firefoxview-recentlyclosed-empty-header = Azkarregi itxi duzu fitxa?
 firefoxview-recentlyclosed-empty-description = Itxitako azken fitxak hemen aurkituko dituzu eta hauek berriz irekitzeko aukera duzu.
+firefoxview-recentlyclosed-empty-description-two = Fitxa zaharragoak aurkitzeko, ikusi zure <a data-l10n-name="history-url">nabigatze-historia</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
