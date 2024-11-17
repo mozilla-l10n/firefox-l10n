@@ -418,3 +418,9 @@ onboarding-horizontal-tabs-description =
 ## New user onboarding checklist
 
 onboarding-checklist-title = Dokończ konfigurację { -brand-short-name(case: "gen") }
+onboarding-checklist-subtitle = Wykonaj poniższe czynności, aby przeglądać Internet na najwyższych obrotach.
+onboarding-checklist-set-default = Ustaw przeglądarkę { -brand-short-name } jako domyślną
+onboarding-checklist-pin = Przypnij { -brand-short-name(case: "acc") } do paska zadań
+onboarding-checklist-import = Importuj z poprzedniej przeglądarki
+onboarding-checklist-extension = Dodaj rozszerzenie
+onboarding-checklist-sign-up = Zaloguj się lub utwórz konto

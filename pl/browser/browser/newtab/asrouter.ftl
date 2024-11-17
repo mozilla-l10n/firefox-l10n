@@ -308,6 +308,14 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Zamknij
     .aria-label = Zamknij
+fxa-menu-message-sign-up-button = Utwórz konto
+fxa-menu-message-sync-devices-primary-text = Synchronizuj wszystkie swoje urządzenia
+fxa-menu-message-sync-devices-secondary-text = Miej błyskawiczny dostęp do swoich informacji — takich jak zakładki i hasła — wszędzie tam, gdzie używasz { -brand-short-name(case: "gen") }.
+fxa-menu-message-sync-devices-collapsed-text = Synchronizuj wszystkie swoje urządzenia
+fxa-menu-message-backup-data-primary-text = Utwórz kopię zapasową danych przeglądarki
+fxa-menu-message-backup-data-secondary-text = Automatycznie chroń zakładki, hasła i inne informacje na wszystkich urządzeniach.
+fxa-menu-message-backup-data-collapsed-text = Utwórz kopię zapasową danych przeglądarki
+fxa-menu-message-backup-sync-primary-text = Twoje dane będą bezpieczne i zsynchronizowane
 
 ## Multi-CTA Fox Doodle Spotlight
 
