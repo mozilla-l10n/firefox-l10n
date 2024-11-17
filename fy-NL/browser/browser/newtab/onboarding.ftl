@@ -357,6 +357,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Wannear’t jo syngro
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } is der foar jo
 onboarding-gratitude-security-and-privacy-subtitle = Tank foar it brûken fan { -brand-short-name }, stipe troch de Mozilla Foundation. Mei jo stipe wurkje wy om it ynternet  foar elkenien feiliger en mear tagonklik te meitsjen.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Jo gegevens tusken apparaten syngronisearje
+onboarding-sign-up-description = Skriuw jo yn foar in account en al jo wichtige gegevens – wachtwurden, blêdwizers en mear – wurde feilich bewarre en binne beskikber wannear’t jo jo oanmelde op in apparaat.
+onboarding-sign-up-button = Registrearje of meld jo oan
+onboarding-sign-up-secondary-button = Start mei browsen
 
 ## New user time and familiarity survey strings
 
@@ -416,3 +421,7 @@ onboarding-genai-sidebar-title = Probearje in AI-chatbot yn de sidebalke
 onboarding-genai-sidebar-subtitle = Gearfetsje webynhâld, brainstorm ideeën, konseptberjochten – alles as jo sneupe. Kies út meardere providers. Wikselje elk momint. <a data-l10n-name="learn-more">Mear ynfo</a>
 onboarding-genai-sidebar-primary-button = Kies in chatbot
 onboarding-genai-sidebar-secondary-button = Begjinne mei sneupen
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Ynstellen fan { -brand-short-name } foltôgje

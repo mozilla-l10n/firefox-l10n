@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobyl-blêdwizers
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profilen
+menu-profiles-manage-profiles =
+    .label = Profilen beheare
+menu-profiles-new-profile =
+    .label = Nij profyl
+
 ## Tools Menu
 
 menu-tools =
