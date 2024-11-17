@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Dem Zertifikat wird nicht vertra
 cert-error-trust-expired-issuer = Dem Zertifikat wird nicht vertraut, weil das Aussteller-Zertifikat abgelaufen ist.
 cert-error-trust-self-signed = Dem Zertifikat wird nicht vertraut, weil es vom Aussteller selbst signiert wurde.
 cert-error-trust-symantec = Von GeoTrust, RapidSSL, Symantec, Thawte oder VeriSign ausgestellte Zertifikate werden nicht mehr als vertrauenswürdig eingestuft, da sich die ausstellende Organisationen in der Vergangenheit nicht an Sicherheitsregeln gehalten haben.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } vertraut { $hostname } nicht, weil es nicht nachweisen konnte, dass es die Anforderungen an die Transparenz öffentlicher Zertifikate erfüllt.
 cert-error-untrusted-default = Das Zertifikat kommt nicht von einer vertrauenswürdigen Quelle.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -68,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = Seite in neuem Tab öffnen
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Zu Ihrem Schutz erlaubt { $hostname } es { -brand-short-name } nicht, diese Seite anzuzeigen, wenn sie in eine andere Seite eingebettet ist. Zur Anzeige der Seite muss diese in einem neuen Tab geöffnet werden.
+fp-certerror-view-certificate-link = Das Zertifikat der Website ansehen
+fp-certerror-return-to-previous-page-recommended-button = Zurück (empfohlen)
 
 ## Messages used for certificate error titles
 

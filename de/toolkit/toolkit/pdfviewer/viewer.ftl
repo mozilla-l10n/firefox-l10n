@@ -353,7 +353,6 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
-# Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = Alternativ-Text
 pdfjs-editor-alt-text-edit-button-label = Alternativ-Text bearbeiten
 pdfjs-editor-alt-text-dialog-label = Option wählen
@@ -448,11 +447,11 @@ pdfjs-editor-new-alt-text-error-close-button = Schließen
 #   $percent (Number) - the percentage of the downloaded size.
 pdfjs-editor-new-alt-text-ai-model-downloading-progress = Alternativ-Text-KI-Modell wird heruntergeladen ({ $downloadedSize } von { $totalSize } MB)
     .aria-valuetext = Alternativ-Text-KI-Modell wird heruntergeladen ({ $downloadedSize } von { $totalSize } MB)
-# This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button-label = Alternativ-Text hinzugefügt
-# This is a button that users can click to open the alt text editor and add alt text when it is not present.
 pdfjs-editor-new-alt-text-missing-button-label = Fehlender Alternativ-Text
 # This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Alternativ-Text überprüfen
 pdfjs-editor-new-alt-text-to-review-button-label = Alternativ-Text überprüfen
 # "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
 # Variables:
