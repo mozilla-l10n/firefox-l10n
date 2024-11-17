@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-боти зеҳни сунъӣ «AI»
 menu-view-review-checker =
     .label = Абзори тафтиши тақризҳо
+sidebar-options-menu-button =
+    .title = Кушодани меню
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Баркушодан ва пеҷондани навори ҷонибӣ
 sidebar-visibility-setting-hide-sidebar =
     .label = Намоиш ва пинҳон кардани навори ҷонибӣ
-sidebar-customize-settings-header =
-    .label = Танзимоти навори ҷонибӣ
-sidebar-visibility-always-show =
-    .label = Ҳамеша нигоҳ дошта шавад
-sidebar-visibility-hide-sidebar =
-    .label = Пинҳон кардани навори ҷонибӣ
 
 ## Labels for sidebar context menu items
 
@@ -107,6 +103,9 @@ sidebar-menu-customize-label =
     .label = Фармоишдиҳии навори ҷонибӣ
 sidebar-menu-review-checker-label =
     .label = Абзори тафтиши тақризҳо
+
+## Tooltips for sidebar menu items.
+
 
 ## Headings for sidebar menu panels.
 

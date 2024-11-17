@@ -236,6 +236,7 @@ firefoxview-choose-browser-button = Браузерро интихоб намое
 firefoxview-dont-remember-history-empty-header = Ягон маълумот нест
 firefoxview-dont-remember-history-empty-description = Муҳофизати махфияти шумо дар маркази диққати фаъолияти мо қарор дорад. Бинобар ин, шумо метавонед фаъолиятеро, ки «{ -brand-short-name }» дар хотир медорад, идора намоед.
 firefoxview-dont-remember-history-empty-description-two = Мувофиқи танзимоти ҷории шумо, вақте ки шумо дар Интернет кор мекунед, «{ -brand-short-name }» фаъолияти шуморо дар хотир намедорад. Барои иваз кардани ин танзим, <a data-l10n-name="history-settings-url-two">танзимоти таърихи худро иваз кунед, то таърихи шумо тавонад дар хотир нигоҳ дошта шавад</a>.
+firefoxview-dont-remember-history-empty-header-2 = Шумо идора мекунед, ки чӣ дар ҳофизаи «{ -brand-short-name }» нигоҳ дошта мешавад
 
 ##
 
