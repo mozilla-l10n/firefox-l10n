@@ -62,6 +62,8 @@ split-dismiss-button-manage-settings-option-label = จัดการการ�
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = แสดงชื่อแท็บในแถบข้าง
+sidebar-button-callout-subtitle = ใช้ปุ่มแถบข้างเพื่อขยายแถบข้างเพื่อให้คุณสามารถเห็นชื่อแท็บได้
 
 ## Sidebar Callout Survey Strings
 

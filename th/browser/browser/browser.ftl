@@ -626,7 +626,17 @@ urlbar-searchmode-actions =
     .label = การกระทำ
 urlbar-searchmode-exit-button =
     .tooltiptext = ปิด
+urlbar-searchmode-popup-description = ครั้งนี้ค้นหาด้วย:
 urlbar-searchmode-popup-search-settings = การตั้งค่าการค้นหา
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
+    .tooltiptext = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
+urlbar-searchmode-button-no-engine =
+    .label = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
+    .tooltiptext = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -949,12 +959,18 @@ data-reporting-notification-button =
     .accesskey = ล
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = การเรียกดูแบบส่วนตัว
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = การเรียกดูแบบส่วนตัว
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = ระบบป้องกันข้อมูลสูญหาย (DLP) โดย { $agentName } คลิกเพื่อดูข้อมูลเพิ่มเติม
 content-analysis-panel-title = การปกป้องข้อมูล
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = องค์กรของคุณใช้ <b>{ $agentName }</b> เพื่อป้องกันข้อมูลสูญหาย <a data-l10n-name="info">เรียนรู้เพิ่มเติม</a>
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = องค์กรของคุณใช้ { $agentName } เพื่อป้องกันข้อมูลสูญหาย <a data-l10n-name="info">เรียนรู้เพิ่มเติม</a>
