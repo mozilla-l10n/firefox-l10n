@@ -113,8 +113,8 @@ fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebu
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Fehler: Verbindung fehlgeschlagen
-deniedPortAccess-title = Fehler: Port aus Sicherheitsgründen blockiert
+connectionFailure-title = Verbindung fehlgeschlagen
+deniedPortAccess-title = Dieser Port ist aus Sicherheitsgründen blockiert
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Seite wurde nicht gefunden
