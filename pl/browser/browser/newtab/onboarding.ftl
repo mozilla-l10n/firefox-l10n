@@ -356,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Po synchronizacji { -
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jest po Twojej stronie
 onboarding-gratitude-security-and-privacy-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, wspieranego przez Mozilla Foundation. Z waszą pomocą pracujemy nad tym, aby Internet był bezpieczniejszy i bardziej dostępny dla wszystkich.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synchronizuj dane między urządzeniami
+onboarding-sign-up-description = Załóż konto, a wszystkie Twoje ważne informacje — hasła, zakładki i nie tylko — będą bezpiecznie przechowywane i dostępne po zalogowaniu na każdym urządzeniu.
+onboarding-sign-up-button = Zaloguj się lub utwórz konto
+onboarding-sign-up-secondary-button = Zacznij przeglądać Internet
 
 ## New user time and familiarity survey strings
 
@@ -409,3 +414,6 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Okno przeglądarki wyświetlające karty na górze.
+
+## New user onboarding checklist
+
