@@ -332,6 +332,17 @@ find-more-themes = Najít další vzhledy
 # used for screen readers.
 addon-options-button =
     .aria-label = Více možností
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Rozšíření a vzhledy vám umožní přizpůsobit si { -brand-product-name(case: "acc") }. Mohou zlepšit soukromí, zvýšit produktivitu, vylepšit multimédia, změnit vzhled { -brand-product-name(case: "gen") } a mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je výběr { -brand-product-name(case: "gen") } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
+       *[no-cases]
+            Rozšíření a vzhledy vám umožní přizpůsobit si aplikaci { -brand-product-name }. Mohou zlepšit soukromí,
+            zvýšit produktivitu, vylepšit multimédia, změnit vzhled aplikace { -brand-product-name } a
+            mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je
+            výběr aplikací { -brand-product-name } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
+    }
 
 ## Add-on actions
 

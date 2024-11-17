@@ -510,6 +510,7 @@ onboarding-gratitude-security-and-privacy-subtitle =
     }
 # Sign up or Sign in screen
 onboarding-sign-up-title = Synchronizujte svoje údaje mezi zařízeními
+onboarding-sign-up-description = Zaregistrujte si účet a všechny vaše důležité informace — hesla, záložky a další — budou bezpečně uloženy a dostupné při přihlášení na jakémkoli zařízení.
 onboarding-sign-up-button = Přihlásit nebo registrovat
 onboarding-sign-up-secondary-button = Začít pohlížet
 
@@ -594,6 +595,12 @@ onboarding-genai-sidebar-secondary-button = Začít prohlížet
 
 ## New user onboarding checklist
 
+onboarding-checklist-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Dokončení nastavení { -brand-short-name(case: "gen") }
+       *[no-cases] Dokončení nastavení aplikace { -brand-short-name }
+    }
+onboarding-checklist-subtitle = Dokončete tyto kroky a využijte tak své prohlížení na maximum.
 onboarding-checklist-set-default =
     { -brand-short-name.case-status ->
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
