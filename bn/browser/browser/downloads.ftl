@@ -74,6 +74,12 @@ downloads-cmd-show-panel-2 =
             [macos] ফাইন্ডারে দেখান
            *[other] ফোল্ডারে দেখান
         }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] ফাইন্ডারে দেখান
+           *[other] ফোল্ডারে দেখান
+        }
 downloads-cmd-show-downloads =
     .label = ডাউনলোড ফোল্ডার দেখাও
 downloads-cmd-retry =
@@ -94,6 +100,9 @@ downloads-cmd-clear-list =
     .accesskey = a
 downloads-cmd-clear-downloads =
     .label = ডাউনলোড অপসারণ
+    .accesskey = D
+downloads-cmd-delete-file =
+    .label = মুছে দিন
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
@@ -135,6 +144,16 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = { $hours }ঘণ্টা { $minutes }মি মধ্যে খোলা হচ্ছে...
+downloading-file-opens-in-minutes-2 =
+    .value = { $minutes } মিনিটের মধ্যে খুলছে...
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = { $minutes }m { $seconds }s মধ্যে খুলছে...
+downloading-file-opens-in-seconds-2 =
+    .value = { $seconds } সেকেন্ডে খুলছে...
+downloading-file-opens-in-some-time-2 =
+    .value = সম্পূর্ণ হলে খোলা হচ্ছে...
 
 ##
 
