@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = Google Gemini aukeratuta, <a data-l10n-name="
 genai-settings-chat-huggingchat-links = HuggingChat aukeratuta, <a data-l10n-name="link1">HuggingChat pribatutasun-oharra</a> eta <a data-l10n-name="link2">Hugging Face pribatutasun-politika</a> onartzen dituzu.
 genai-settings-chat-lechat-links = Le Chat Mistral aukeratuta, Mistral AI-ren <a data-l10n-name="link1">zerbitzu-baldintzak</a> eta <a data-l10n-name="link2">pribatutasun-politika</a> onartzen dituzu.
 genai-settings-chat-localhost-links = Ekarri zure txaterako bot pribatu lokala, adibidez { -vendor-short-name }ko berrikuntza taldeko <a data-l10n-name="link1">llamafile</a>.
+genai-settings-chat-shortcuts =
+    .description = Gonbitetarako lasterbidea bistaratzen du testua hautatzean. { -brand-short-name }(e)k testua, orriaren izenburua eta gonbita bidaltzen dizkio txaterako botari.
+    .label = Erakutsi gonbitak testua hautatzean
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -39,16 +42,43 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Galdetu AA txaterako botari
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Galdetu { $provider } hornitzaileari
+genai-input-ask-generic =
+    .placeholder = Galdetu AA txaterako botari…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Galdetu { $provider } hornitzaileari…
+genai-shortcuts-hide =
+    .label = Ezkutatu txaterako botaren lasterbidea
 
 ## Chatbot header
 
+genai-chatbot-title = AA txaterako bota
+genai-header-provider-menu =
+    .title = Aukeratu txaterako bota
 genai-header-options-button =
     .title = Ireki menua
 genai-header-close-button =
     .title = Itxi
+genai-provider-view-details =
+    .label = Ikusi txaterako botaren xehetasunak
+genai-provider-about-chatbots =
+    .label = Txaterako bot hauei buruz
+genai-options-reload-generic =
+    .label = Berritu AA txaterako bota
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Berritu { $provider }
+genai-options-show-shortcut =
+    .label = Erakutsi lasterbidea testua hautatzean
+genai-options-hide-shortcut =
+    .label = Ezkutatu lasterbidea testua hautatzean
+genai-options-about-chatbot =
+    .label = { -brand-short-name }(e)ko AA txaterako botei buruz
 
 ## Chatbot onboarding
 
