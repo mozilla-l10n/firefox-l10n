@@ -318,9 +318,20 @@ newtab-wallpaper-dark-panda = ᱟᱨᱟᱜ ᱯᱟᱱᱰᱟ ᱵᱤᱨ ᱨᱮ ᱩ�
 newtab-wallpaper-dark-sky = ᱧᱤᱱᱫᱟᱹ ᱥᱮᱨᱢᱟ ᱥᱟᱶ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥᱠᱮᱯ
 newtab-wallpaper-dark-mountain = ᱞᱮᱱᱰᱥᱠᱮᱯ ᱵᱩᱨᱩ
 newtab-wallpaper-dark-city = ᱵᱮᱝᱜᱟᱲ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥᱠᱮᱯ
+newtab-wallpaper-dark-fox-anniversary = ᱵᱤᱨ ᱥᱩᱨ ᱨᱮ ᱯᱷᱩᱴᱷᱯᱟᱛᱷ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱛᱩᱭᱩ
+newtab-wallpaper-light-fox-anniversary = ᱢᱤᱫ ᱛᱩᱭᱩ ᱢᱤᱫ ᱜᱷᱟᱸᱥ ᱯᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱠᱩᱦᱲᱟ ᱵᱩᱨᱩ ᱞᱮᱱᱰᱥᱠᱮᱯ ᱥᱟᱶ
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = ᱠᱮᱴᱮᱡ ᱨᱚᱝ
+newtab-wallpaper-blue = ᱞᱤᱞ
+newtab-wallpaper-light-blue = ᱦᱟᱞᱠᱟ ᱞᱤᱞ
+newtab-wallpaper-light-purple = ᱦᱟᱞᱠᱟ ᱵᱮᱝᱜᱟᱲ
+newtab-wallpaper-light-green = ᱦᱟᱞᱠᱟ ᱦᱟᱹᱨᱭᱟᱹᱲ
+newtab-wallpaper-green = ᱦᱟᱹᱨᱤᱭᱟᱹᱲ
+newtab-wallpaper-beige = ᱵᱮᱜᱤ
+newtab-wallpaper-yellow = ᱥᱟᱥᱟᱝ
+newtab-wallpaper-orange = ᱥᱟᱱᱛᱨᱟ
 
 ## Abstract
 
@@ -330,6 +341,12 @@ newtab-wallpaper-dark-city = ᱵᱮᱝᱜᱟᱲ ᱥᱚᱦᱚᱨ ᱞᱮᱱᱰᱥ�
 
 ## New Tab Weather
 
+newtab-weather-menu-change-weather-display-detailed = ᱯᱩᱥᱴᱟᱹᱣ ᱧᱮᱞ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+newtab-weather-menu-temperature-units = ᱞᱚᱞᱚᱢᱟᱯ ᱭᱩᱱᱤᱴ
+newtab-weather-menu-temperature-option-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱮᱭᱤᱴ
+newtab-weather-menu-temperature-option-celsius = ᱥᱮᱞᱥᱤᱭᱚᱥ
+newtab-weather-menu-change-temperature-units-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱟᱭᱤᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+newtab-weather-menu-change-temperature-units-celsius = ᱥᱮᱞᱥᱤᱭᱟᱥ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 
 ## Topic Labels
 
