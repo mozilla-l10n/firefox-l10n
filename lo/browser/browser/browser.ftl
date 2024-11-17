@@ -839,6 +839,7 @@ firefox-relay-offer-legal-notice = ໂດຍການຄລິກ “ໃຊ້�
 popup-notification-addon-install-unsigned =
     .value = (ບໍ່ໄດ້ຮັບການຢືນຢັນ)
 popup-notification-xpinstall-prompt-learn-more = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການຕິດຕັ້ງ add-ons ຢ່າງປອດໄພ
+popup-notification-xpinstall-prompt-block-url = ເບິ່ງລາຍລະອຽດ
 
 ## Pop-up warning
 
