@@ -792,6 +792,9 @@ sync-currently-syncing-creditcards = dane kart płatniczych
 sync-currently-syncing-payment-methods = metody płatności
 sync-currently-syncing-addons = dodatki
 sync-currently-syncing-settings = ustawienia
+sync-manage-options =
+    .label = Zarządzaj synchronizacją…
+    .accesskey = d
 sync-change-options =
     .label = Zmień…
     .accesskey = m
@@ -844,6 +847,13 @@ sync-engine-settings =
     .label = ustawienia
     .tooltiptext = Zmienione ustawienia ogólne, uruchamiania, wyszukiwania, prywatności i bezpieczeństwa
     .accesskey = u
+sync-choose-what-to-sync-dialog4 =
+    .title = Zarządzaj, co ma być synchronizowane na wszystkich połączonych urządzeniach
+    .style = min-width: 36em;
+    .buttonlabelaccept = Zachowaj
+    .buttonaccesskeyaccept = Z
+    .buttonlabelextra2 = Rozłącz…
+    .buttonaccesskeyextra2 = R
 
 ## The device name controls.
 

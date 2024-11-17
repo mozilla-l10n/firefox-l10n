@@ -295,6 +295,9 @@ find-more-themes = Znajdź więcej motywów
 # used for screen readers.
 addon-options-button =
     .aria-label = Więcej opcji
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = Rozszerzenia i motywy pozwalają dostosować { -brand-product-name(case: "acc") }. Mogą polepszać prywatność, zwiększać produktywność, ulepszać multimedia, zmieniać wygląd { -brand-product-name(case: "gen") } i wiele więcej. Te małe programy są często tworzone przez osoby trzecie. Poniżej znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez { -brand-product-name(case: "acc") }.
 
 ## Add-on actions
 
