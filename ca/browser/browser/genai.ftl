@@ -5,11 +5,11 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Afegeix el chatbot que trieu a la barra lateral, per accedir-hi ràpidament mentre navegueu. <a data-l10n-name="connect">Envieu comentaris</a>
-genai-settings-chat-choose = Trieu un chatbot
+genai-settings-chat-description = Afegeix el bot de conversa que trieu a la barra lateral, per accedir-hi ràpidament mentre navegueu. <a data-l10n-name="connect">Envieu comentaris</a>
+genai-settings-chat-choose = Trieu un bot de conversa
 genai-settings-chat-choose-one-menuitem =
     .label = Trieu-ne un
-genai-settings-chat-links = En triar un chatbot, accepteu les condicions d'ús i la política de privadesa del proveïdor.
+genai-settings-chat-links = En triar un bot de conversa, accepteu les condicions d'ús i la política de privadesa del proveïdor.
 genai-settings-chat-chatgpt-links = En triar ChatGPT, accepteu les <a data-l10n-name="link1">condicions d'ús</a> i la <a data-l10n-name="link2">política de privadesa</a> d'OpenAI.
 genai-settings-chat-claude-links = En triar Anthropic Claude, accepteu les <a data-l10n-name="link1">condicions del servei del consumidor</a>, la <a data-l10n-name="link2">política d'ús</a> i la <a data-l10n-name="link3">política de privadesa</a>.
 genai-settings-chat-copilot-links = En triar Copilot, accepteu les <a data-l10n-name="link1">condicions d'experiències de Copilot AI</a> i la <a data-l10n-name="link2">declaració de privadesa de Microsoft</a>.
@@ -43,33 +43,33 @@ genai-prompt-prefix-selection = Estic a la pàgina «{ $tabTitle }» i he selecc
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Fes una pregunta al chatbot d'IA
+    .label = Fes una pregunta al bot de conversa d'IA
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Fes una pregunta a { $provider }
 genai-input-ask-generic =
-    .placeholder = Fes una pregunta al chatbot d'IA…
+    .placeholder = Fes una pregunta al bot de conversa d'IA…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Fes una pregunta a { $provider }…
 genai-shortcuts-hide =
-    .label = Amaga la drecera del chatbot
+    .label = Amaga la drecera del bot de conversa
 
 ## Chatbot header
 
-genai-chatbot-title = Chatbot d'IA
+genai-chatbot-title = Bot de conversa d'IA
 genai-header-provider-menu =
-    .title = Trieu un chatbot
+    .title = Trieu un bot de conversa
 genai-header-options-button =
     .title = Obre el menú
 genai-header-close-button =
     .title = Tanca
 genai-provider-view-details =
-    .label = Mostra els detalls del chatbot
+    .label = Mostra els detalls del bot de conversa
 genai-provider-about-chatbots =
-    .label = Quant a aquests chatbots
+    .label = Quant a aquests bots de conversa
 genai-options-reload-generic =
-    .label = Torna a carregar el chatbot d'IA
+    .label = Torna a carregar el bot de conversa d'IA
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Torna a carregar { $provider }
@@ -78,11 +78,13 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Amaga la drecera en seleccionar text
 genai-options-about-chatbot =
-    .label = Quant als chatbots d'IA en el { -brand-short-name }
+    .label = Quant als bots de conversa d'IA en el { -brand-short-name }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Feu resums, pluges d'idees i molt més mentre navegueu
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Trieu el bot de conversa d'IA que voleu utilitzar a la barra lateral del { -brand-short-name }. Seleccioneu un bot de conversa per veure'n els detalls. Podeu canviar-los en qualsevol moment. <a data-l10n-name="learn-more">Més informació</a>
 genai-onboarding-primary = Continua
 genai-onboarding-secondary = Tanca
 genai-onboarding-claude-tooltip =
