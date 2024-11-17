@@ -63,6 +63,17 @@ about-private-browsing-pin-promo-title = Küpsiseid ega ajalugu ei salvestata, a
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Küsimused küpsiste kohta kadugu!
+about-private-browsing-cookie-banners-promo-button = Küpsiste kohta käivate küsimuste vähendamine
+about-private-browsing-cookie-banners-promo-message = Lase { -brand-short-name }il automaatselt vastata küpsiste hüpikakendele, et saaksid naasta häireteta veebilehitsemise juurde. { -brand-short-name } lükkab võimalusel kõik taotlused tagasi.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tegeleb küpsiste kohta käivate küsimustega sinu asemel
+about-private-browsing-cookie-banners-promo-body = Keeldume nüüd automaatselt paljudest küpsistest, et saaksid vähem jälitatud ja naasta häireteta veebilehitsemise juurde.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Ära jäta sellesse seadmesse jälgi
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } kustutab küpsised, ajaloo ja saidiandmed, kui sulged kõik privaatsed aknad.
