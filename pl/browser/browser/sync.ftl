@@ -36,3 +36,4 @@ fxa-menu-sign-out =
     .label = Wyloguj się…
 fxa-menu-sync-title = Synchronizacja
 fxa-menu-sync-description = Korzystaj ze swojej sieci gdziekolwiek jesteś
+sync-setup-verify-continue = Kontynuuj

@@ -316,6 +316,28 @@ fxa-menu-message-backup-data-primary-text = Utwórz kopię zapasową danych prze
 fxa-menu-message-backup-data-secondary-text = Automatycznie chroń zakładki, hasła i inne informacje na wszystkich urządzeniach.
 fxa-menu-message-backup-data-collapsed-text = Utwórz kopię zapasową danych przeglądarki
 fxa-menu-message-backup-sync-primary-text = Twoje dane będą bezpieczne i zsynchronizowane
+fxa-menu-message-backup-sync-secondary-text = Synchronizacja tworzy kopię zapasową większości Twoich danych, dzięki czemu możesz mieć do nich dostęp wszędzie tam, gdzie używasz { -brand-short-name(case: "gen") }.
+fxa-menu-message-backup-sync-collapsed-text = Synchronizuj i utwórz kopię zapasową danych
+fxa-menu-message-mobile-primary-text = Wysyłaj karty na swój telefon
+fxa-menu-message-mobile-secondary-text = Szybko kontynuuj od tego samego miejsca po synchronizacji kart z telefonem.
+fxa-menu-message-mobile-collapsed-text = Synchronizuj z telefonem
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Witamy z powrotem
+multi-cta-fox-doodle-set-default-checkbox = Ustaw przeglądarkę { -brand-short-name } jako domyślną
+multi-cta-fox-doodle-pin-startmenu-checkbox = Przypnij { -brand-short-name(case: "acc") } do menu Start
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Zatrzymaj { -brand-short-name(case: "acc") } w Docku
+       *[other] Przypnij { -brand-short-name(case: "acc") } do paska zadań
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Zacznij przeglądać Internet
+multi-cta-fox-doodle-main-browser-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako główną
+multi-cta-fox-doodle-quick-reminder-subtitle = To tylko krótkie przypomnienie, że możesz mieć swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Miej swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem. Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę do otwierania odnośników i zatrzymaj go w Docku.
+       *[other] Miej swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem. Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę do otwierania odnośników i przypnij go do paska zadań.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Miej swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem. Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę do otwierania odnośników oraz przypnij go do paska zadań i menu Start.
