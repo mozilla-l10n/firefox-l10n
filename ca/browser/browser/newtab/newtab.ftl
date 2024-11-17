@@ -404,3 +404,6 @@ newtab-topic-label-education-science = Ciència
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Desa
+newtab-topic-selection-cancel-button = Cancel·la
+newtab-topic-selection-button-maybe-later = Potser més tard

@@ -346,6 +346,8 @@ onboarding-easy-setup-security-and-privacy-subtitle = El nostre navegador sense 
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteniu-vos protegit amb el xifratge quan passeu d'un dispositiu a un altre
 onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més segura i accessible per a tothom.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronitzeu les vostres dades entre dispositius
 onboarding-sign-up-secondary-button = Comença a navegar
 
 ## New user time and familiarity survey strings
@@ -356,6 +358,18 @@ onboarding-new-user-survey-next-button-label = Següent
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Les pestanyes verticals ja són aquí
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Us presentem les pestanyes verticals
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Proveu les pestanyes verticals
+onboarding-flair-text = Novetat
+onboarding-genai-sidebar-secondary-button = Comença a navegar
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = Defineix el { -brand-short-name } com a navegador per defecte
+onboarding-checklist-pin = Fixa el { -brand-short-name } a la barra de tasques
+onboarding-checklist-import = Importa del navegador anterior
+onboarding-checklist-extension = Afegeix una extensió
