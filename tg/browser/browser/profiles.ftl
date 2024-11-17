@@ -4,6 +4,9 @@
 
 profile-window-title = «{ -brand-short-name }» - Интихоби профили корбар
 profile-window-heading = Интихоби профили «{ -brand-short-name }»
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Вақте ки «{ -brand-short-name }» кушода мешавад, инро нишон диҳед
 profile-window-create-profile = Эҷод кардани профил
 profile-card-edit-button =
     .title = Таҳрир кардани профил
