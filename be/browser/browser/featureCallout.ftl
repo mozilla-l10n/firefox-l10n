@@ -76,3 +76,21 @@ sidebar-callout-survey-neutral = Нейтральны
 sidebar-callout-survey-dissatisfied = Незадаволены
 sidebar-callout-survey-very-dissatisfied = Вельмі незадаволены
 sidebar-callout-survey-dont-use-it = Я ёй не карыстаюся
+sidebar-callout-survey-productive-question =
+    У якой ступені вы згодныя ці не згодныя з гэтым сцверджаннем:<br/>
+    “Бакавая панэль { -brand-short-name } дапамагае мне быць больш прадуктыўным”?
+sidebar-callout-survey-strongly-agree = Цалкам згодны
+sidebar-callout-survey-agree = Згодны
+sidebar-callout-survey-disagree = Не згодны
+sidebar-callout-survey-strongly-disagree = Катэгарычна не згодны
+sidebar-callout-survey-features-question = Ніжэй прыведзены магчымыя функцыі бакавой панэлі. Што б найбольш павысіла вашу прадукцыйнасць у { -brand-short-name }?
+sidebar-callout-survey-split-view = Прагляд двух любых сайтаў адначасова ў раздзеленым выкладзе бок аб бок
+sidebar-callout-survey-keep-website-open = Трымаць сайт, напрыклад электронную пошту ці каляндар, адкрытым на бакавой панэлі ў часе аглядання
+sidebar-callout-survey-saved-websites = Хуткі доступ да ўсіх вашых захаваных сайтаў
+sidebar-callout-survey-none-of-above = Нічога з пералічанага
+sidebar-callout-survey-submit = Даслаць
+sidebar-callout-survey-thank-you = Дзякуй за ваш водгук!
+sidebar-genai-survey-satisfaction-question = Наколькі вы задаволеныя тым, што маеце доступ да чат-бота ШІ на бакавой панэлі?
+sidebar-genai-survey-productive-question =
+    У якой ступені вы згодныя ці не згодныя з гэтым сцверджаннем:<br/>
+    “Чат-бот ШІ на бакавой панэлі дапамагае мне быць больш прадуктыўным”?
