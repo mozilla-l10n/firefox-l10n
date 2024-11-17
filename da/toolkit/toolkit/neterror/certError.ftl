@@ -86,6 +86,8 @@ fp-certerror-unknown-issuer-why-dangerous-body = Der er et problem med webstedet
 fp-certerror-unknown-issuer-what-can-you-do-body = Sandsynligvis ingenting, eftersom det tilsyneladende skyldes et problem med selve webstedet. Men hvis du befinder dig på et virksomheds-netværker kan det være, at jeres IT-afdeling har flere oplysninger. Hvis du anvender antivirus-software, skal det muligvis konfigureres til at fungere med { -brand-short-name }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Fordi der er et problem med webstedets certifikat. Websteder anvender certifikater udstedt af en certifikatautoritet til at bevise, at de virkeligt er hvem de udgiver sig for at være. Dette websteds certifikat er underskrevet af indehaveren selv. Det er ikke blevet udstedt af en kendt certifikatautoritet – så vi stoler ikke på det som standard.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ikke ret meget. Det ser ud til, at der er et problem med dette websted.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
@@ -94,12 +96,19 @@ fp-certerror-expired-why-dangerous-body = Websteder anvender certifikater udsted
 # Variables:
 #   $date (Date) - Certificate start date.
 fp-certerror-not-yet-valid-why-dangerous-body = Websteder anvender certifikater udstedt af en certifikatautoritet til at bevise, at de virkeligt er hvem de udgiver sig for at være. { -brand-short-name } stoler ikke på dette websted, fordi det ser ud til, at certifikatet ikke er gyldigt før { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Uret i din enhed er indstillet til { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Hvis dette er rigtigt, så skyldes sikkerhedsproblemet et problem på webstedet. Hvis tidspunktet ikke er rigtigt, kan du ændre det i systemindstillingerne på din enhed.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Fejlkode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Læs mere om fejl med at oprette en sikker forbindelse
+fp-learn-more-about-cert-issues = Læs mere om denne slags certifikat-problemer
+fp-learn-more-about-time-related-errors = Læs mere om at fejlsøge tids-relaterede problemer
 
 ## Messages used for certificate error titles
 
@@ -146,6 +155,8 @@ certerror-mitm-title = Et program forhindrer { -brand-short-name } i at oprette 
 
 fp-certerror-page-title = Advarsel: Sikkerhedsrisiko
 fp-certerror-body-title = Vær forsigtig. Noget ser ikke rigtigt ud.
+fp-certerror-why-site-dangerous = Hvad får webstedet til at fremstå som farligt?
+fp-certerror-what-can-you-do = Hvad kan du gøre?
 fp-certerror-advanced-title = Avanceret
 fp-certerror-advanced-button = Avanceret
 fp-certerror-hide-advanced-button = Skjul avanceret
@@ -154,3 +165,4 @@ fp-certerror-hide-advanced-button = Skjul avanceret
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Fortsæt til { $hostname } (Risikabelt)
+fp-certerror-expired-into = { -brand-short-name } opdagede et sikkerhedsproblem med <strong>{ $hostname }</strong>. Enten er webstedet opsat forkert eller også er din enheds ur indstillet til det forkert tidspunkt eller den forkert dato.

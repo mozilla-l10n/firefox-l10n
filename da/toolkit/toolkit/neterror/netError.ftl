@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } kan ikke indlæse denne side af e
 neterror-load-error-try-again = Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.
 neterror-load-error-connection = Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.
 neterror-load-error-firewall = Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at { -brand-short-name } har tilladelse til at tilgå nettet.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Hvis du forsøger at oprette forbindelse til en lokal netværks-side, så skal du kontrollere, at { -brand-short-name } er blevet givet tilladelser for lokalt netværk under indstillingerne for anonymitet og sikkerhed.
 neterror-captive-portal = Dette netværk kræver, at du skal logge ind for at bruge internettet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
