@@ -22,6 +22,14 @@ default-profile-name = Профили { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Профили аслӣ
 edit-profile-page-title = Таҳрир кардани профил
+edit-profile-page-header = Таҳрир кардани профили худ
+edit-profile-page-profile-name-label = Номи профил
+edit-profile-page-theme-header = Мавзуъ
+edit-profile-page-delete-button =
+    .label = Нест кардан
+edit-profile-page-profile-saved = Нигоҳ дошта шуд
+new-profile-page-title = Профили нав
+new-profile-page-header = Профили нави худро шахсӣ созед
 new-profile-page-learn-more = Маълумоти бештар
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
