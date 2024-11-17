@@ -332,12 +332,30 @@ newtab-wallpaper-green = ᱦᱟᱹᱨᱤᱭᱟᱹᱲ
 newtab-wallpaper-beige = ᱵᱮᱜᱤ
 newtab-wallpaper-yellow = ᱥᱟᱥᱟᱝ
 newtab-wallpaper-orange = ᱥᱟᱱᱛᱨᱟ
+newtab-wallpaper-pink = ᱜᱩᱞᱟᱹᱯ
+newtab-wallpaper-light-pink = ᱦᱟᱞᱠᱟ ᱜᱩᱞᱟᱯᱤ
+newtab-wallpaper-red = ᱟᱨᱟᱜ
+newtab-wallpaper-dark-blue = ᱦᱮᱱᱫᱮ ᱞᱤᱞ
+newtab-wallpaper-dark-purple = ᱧᱩᱛ ᱵᱮᱝᱜᱩᱱᱤ
+newtab-wallpaper-dark-green = ᱧᱩᱛ ᱦᱟᱹᱨᱤᱭᱟᱹᱲ
+newtab-wallpaper-brown = ᱢᱟᱹᱴᱤᱭᱟᱹᱲ
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = ᱮᱵᱽᱥᱴᱨᱟᱠᱴ
+newtab-wallpaper-abstract-green = ᱦᱟᱹᱨᱭᱟᱹᱲ ᱜᱚᱲᱦᱚᱱ
+newtab-wallpaper-abstract-blue = ᱞᱤᱞ ᱜᱚᱲᱦᱚᱱ
+newtab-wallpaper-abstract-purple = ᱵᱮᱝᱜᱟᱲ ᱜᱚᱲᱦᱚᱱ
+newtab-wallpaper-abstract-orange = ᱞᱮᱢᱵᱚ ᱜᱚᱲᱦᱚᱱ
+newtab-wallpaper-gradient-orange = ᱜᱽᱨᱮᱰᱤᱭᱮᱱᱴ ᱞᱮᱢᱵᱚ ᱟᱨ ᱜᱩᱞᱟᱯᱤ
+newtab-wallpaper-abstract-blue-purple = ᱞᱤᱞ ᱟᱨ ᱵᱮᱝᱜᱩᱱᱤ ᱜᱚᱲᱦᱚᱱ
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = ᱯᱷᱳᱴᱳᱜᱽᱨᱟᱯᱷ
+newtab-wallpaper-beach-at-sunrise = ᱥᱤᱛᱩᱝ ᱩᱰᱩᱝ ᱨᱮ ᱫᱚᱨᱭᱟ ᱟᱲᱮ
+newtab-wallpaper-beach-at-sunset = ᱵᱮᱲᱟ ᱦᱟᱹᱥᱩᱨ ᱨᱮ ᱫᱚᱨᱭᱟ ᱟᱲᱮ
+newtab-wallpaper-storm-sky = ᱦᱚᱭᱫᱟᱜ ᱥᱮᱨᱢᱟ
 
 ## New Tab Weather
 
