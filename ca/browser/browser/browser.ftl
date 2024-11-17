@@ -1094,3 +1094,6 @@ file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. 
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Mostra en la carpeta
+    .accessKey = M
