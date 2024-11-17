@@ -256,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Мобільні закладки
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Профілі
+menu-profiles-manage-profiles =
+    .label = Керувати профілями
+menu-profiles-new-profile =
+    .label = Новий профіль
+
 ## Tools Menu
 
 menu-tools =
