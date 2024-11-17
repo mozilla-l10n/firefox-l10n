@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } kin om ien oft oare reden dizze s
 neterror-load-error-try-again = Miskien is de website tydlik net beskikber. Probearje it letter nochris.
 neterror-load-error-connection = As jo gjin inkelde side lade kinne, kontrolearje dan de netwurkferbining fan jo kompjûter.
 neterror-load-error-firewall = As jo kompjûter of netwurk befeilige wurdt troch in firewall of proxy, soargje der dan foar dat { -brand-short-name } tagong hat ta it web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = As jo in lokale netwurkside probearje te laden, kontrolearje dan yn de privacy- en befeiligingsynstellingen fan macOS of { -brand-short-name } tastimming hat foar in Lokaal netwurk.
 neterror-captive-portal = Jo moatte jo oanmelde by dit netwurk eardat jo tagong krije ta it ynternet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
