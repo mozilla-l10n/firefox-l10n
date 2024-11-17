@@ -358,7 +358,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } прык
 onboarding-gratitude-security-and-privacy-subtitle = Дзякуй за выкарыстанне { -brand-short-name }, які падтрымліваецца Mozilla Foundation. З вашай падтрымкай мы працуем над тым, каб зрабіць Інтэрнэт больш бяспечным і даступным для кожнага.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Сінхранізуйце свае звесткі паміж прыладамі
-onboarding-sign-up-description = Зарэгіструйце ўліковы запіс, і ўся ваша важная інфармацыя — паролі, закладкі і многае іншае — будзе надзейна захавана і даступная пры ўваходзе на любую прыладу.
+onboarding-sign-up-description = Зарэгіструйце ўліковы запіс, і ўся ваша важная інфармацыя — паролі, закладкі і многае іншае — будзе надзейна захавана і даступная пры ўваходзе на любую прыладу.
 onboarding-sign-up-button = Зарэгістравацца або ўвайсці
 onboarding-sign-up-secondary-button = Пачаць агляданне
 
@@ -425,3 +425,8 @@ onboarding-genai-sidebar-secondary-button = Пачаць агляданне
 
 onboarding-checklist-title = Скончыць наладку { -brand-short-name }
 onboarding-checklist-subtitle = Выканайце гэтыя крокі, каб атрымаць максімальную аддачу ад вашага аглядання.
+onboarding-checklist-set-default = Усталюйце { -brand-short-name } як прадвызначаны браўзер
+onboarding-checklist-pin = Замацуйце { -brand-short-name } на панэлі заданняў
+onboarding-checklist-import = Імпартуйце з папярэдняга браўзера
+onboarding-checklist-extension = Дадайце пашырэнне
+onboarding-checklist-sign-up = Зарэгіструйцеся або ўвайдзіце ў свой уліковы запіс
