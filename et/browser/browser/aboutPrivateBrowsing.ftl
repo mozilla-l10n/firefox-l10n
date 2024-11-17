@@ -22,12 +22,10 @@ about-private-browsing-not-private = Sa pole praegu privaatses aknas.
 about-private-browsing-info-description-private-window = Privaatne aken: kõigi privaatsete akende sulgemisel kustutab { -brand-short-name } sinu otsingu ja lehitsemise ajaloo. See ei tee sind anonüümseks.
 about-private-browsing-info-description-simplified = Kõigi privaatsete akende sulgemisel kustutab { -brand-short-name } sinu otsingu ja lehitsemise ajaloo, aga see ei tee sind anonüümseks.
 about-private-browsing-learn-more-link = Rohkem teavet
-
 about-private-browsing-hide-activity = Peida oma tegevus ja asukoht kõikjal, kus veebi lehitsed
 about-private-browsing-get-privacy = Hangi privaatsuse kaitse kõikjale, kus lehitsed veebi
 about-private-browsing-hide-activity-1 = Peida lehitsemise tegevus ja asukoht { -mozilla-vpn-brand-name }iga. Üks klõps loob turvalise ühenduse isegi avalikus WiFis.
 about-private-browsing-prominent-cta = Jää privaatseks { -mozilla-vpn-brand-name }iga
-
 about-private-browsing-focus-promo-cta = Laadi alla { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privaatne veebilehtisemine liikvel olles
 about-private-browsing-focus-promo-text = Meie spetsiaalne privaatse veebilehitsemise mobiiliäpp kustutab ajaloo ja küpsised iga kord.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Kasuta privaatset veebilehitsemist
 about-private-browsing-focus-promo-text-b = Kasuta { -focus-brand-name }t nende otsingute jaoks, mida sa ei soovi, et sinu peamine mobiilne brauser näeks.
 about-private-browsing-focus-promo-header-c = Järgmise taseme privaatsus mobiilis
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } kustutab sinu ajaloo iga kord, blokkides samal ajal reklaame ja jälitajaid.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,11 +48,21 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Sulge
-
 about-private-browsing-promo-close-button =
     .title = Sulge
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Privaatse veebilehitsemise vabadus ühe klõpsuga
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Hoia Dockis
+       *[other] Kinnita tegumiribale
+    }
+about-private-browsing-pin-promo-title = Küpsiseid ega ajalugu ei salvestata, ava otse töölaualt. Lehitse veebi nii, nagu keegi ei vaataks.
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 
