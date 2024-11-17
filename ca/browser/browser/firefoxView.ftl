@@ -165,6 +165,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Cerca en les pestanyes tancades recentment
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Cerca en les pestanyes
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Cerca en les pestanyes sincronitzades
 # Placeholder for the input field to search in open tabs ("search" is a verb).
