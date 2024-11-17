@@ -8,6 +8,11 @@
 newtab-page-title = Nowa karta
 newtab-settings-button =
     .title = Dostosuj stronę nowej karty
+newtab-personalize-settings-icon-label =
+    .title = Personalizuj nową kartę
+    .aria-label = Ustawienia
+newtab-settings-dialog-label =
+    .aria-label = Ustawienia
 newtab-personalize-icon-label =
     .title = Personalizuj nową kartę
     .aria-label = Personalizuj nową kartę
@@ -111,6 +116,7 @@ newtab-menu-save-to-pocket = Wyślij do { -pocket-brand-name }
 newtab-menu-delete-pocket = Usuń z { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiwizuj w { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nasi sponsorzy i Twoja prywatność
+newtab-menu-about-fakespot = Informacje o { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -313,6 +319,8 @@ newtab-wallpaper-dark-panda = Pandka ruda schowana w lesie
 newtab-wallpaper-dark-sky = Miejski pejzaż z nocnym niebem
 newtab-wallpaper-dark-mountain = Górski pejzaż
 newtab-wallpaper-dark-city = Fioletowy miejski pejzaż
+newtab-wallpaper-dark-fox-anniversary = Lis na chodniku w pobliżu lasu
+newtab-wallpaper-light-fox-anniversary = Lis na łące na tle mglistych gór
 
 ## Solid Colors
 

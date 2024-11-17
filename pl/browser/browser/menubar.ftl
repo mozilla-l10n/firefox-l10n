@@ -256,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Zakładki z telefonu
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profile
+menu-profiles-manage-profiles =
+    .label = Zarządzaj profilami
+menu-profiles-new-profile =
+    .label = Nowy profil
+
 ## Tools Menu
 
 menu-tools =
