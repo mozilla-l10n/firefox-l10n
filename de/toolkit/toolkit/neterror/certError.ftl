@@ -73,6 +73,34 @@ open-in-new-window-for-csp-or-xfo-error = Seite in neuem Tab öffnen
 csp-xfo-blocked-long-desc = Zu Ihrem Schutz erlaubt { $hostname } es { -brand-short-name } nicht, diese Seite anzuzeigen, wenn sie in eine andere Seite eingebettet ist. Zur Anzeige der Seite muss diese in einem neuen Tab geöffnet werden.
 fp-certerror-view-certificate-link = Das Zertifikat der Website ansehen
 fp-certerror-return-to-previous-page-recommended-button = Zurück (empfohlen)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Die Website wurde so eingerichtet, dass sie nur sichere Verbindungen zulässt. Es gibt jedoch ein Problem mit dem Zertifikat der Website. Es ist möglich, dass jemand Böswilliges versucht, sich als die Website auszugeben. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. { -brand-short-name } vertraut dieser Website nicht, weil das Zertifikat nicht für { $hostname } gilt. Das Zertifikat ist nur gültig für: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Wahrscheinlich nichts, da es wahrscheinlich ein Problem mit der Website selbst gibt. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. Falls Sie sich in einem Firmennetzwerk befinden, hat Ihr Support-Team möglicherweise mehr Informationen. Wenn Sie Antivirus-Software verwenden, versuchen Sie, nach potenziellen Konflikten oder bekannten Problemen zu suchen.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Es gibt ein Problem mit dem Zertifikat der Website. Es ist möglich, dass jemand Böswilliges versucht, sich als die Website auszugeben. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. { -brand-short-name } traut dieser Website nicht, weil wir nicht sagen können, wer das Zertifikat ausgestellt hat, es selbst signiert ist oder die Website keine Zwischenzertifikate sendet, die für uns vertrauenswürdig sind.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Wahrscheinlich nichts, da es sich wahrscheinlich ein Problem mit der Website selbst handelt. Falls Sie sich in einem Firmennetzwerk befinden, hat Ihr Support-Team möglicherweise mehr Informationen. Wenn Sie Antivirus-Software verwenden, muss diese möglicherweise so konfiguriert werden, dass sie mit { -brand-short-name } funktioniert.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Weil es ein Problem mit dem Zertifikat der Website gibt. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. Das Zertifikat dieser Website ist selbstsigniert. Es wurde nicht von einer anerkannten Zertifizierungsstelle ausgestellt – daher vertrauen wir ihm nicht standardmäßig.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Nicht viel. Vermutlich gibt es ein Problem mit der Website selbst.
+fp-certerror-self-signed-important-note = WICHTIGER HINWEIS: Wenn Sie diese Website in einem Firmenintranet aufrufen, verwenden Ihre IT-Mitarbeitenden möglicherweise selbstsignierte Zertifikate. Sie können Ihnen bei der Überprüfung der Authentizität helfen.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. { -brand-short-name } vertraut dieser Website nicht, weil das Zertifikat anscheinend am { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } abgelaufen ist.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. { -brand-short-name } vertraut dieser Website nicht, weil das Zertifikat anscheinend nicht bis zum { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } gültig ist.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Die Uhr Ihres Geräts ist auf { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } gestellt. Wenn dies korrekt ist, liegt das Sicherheitsproblem wahrscheinlich bei der Website selbst. Wenn es falsch ist, können Sie dies in den Systemeinstellungen Ihres Geräts ändern.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Fehlercode: { $error }
