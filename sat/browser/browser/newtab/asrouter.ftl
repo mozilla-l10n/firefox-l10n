@@ -294,6 +294,9 @@ tail-fox-spotlight-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } ᱨᱮᱭᱟᱜ ᱢᱟᱨᱮ ᱵᱷᱟᱨᱥᱚᱱ ᱨᱮ 14 ᱡᱟᱱᱩᱣᱟᱨᱤ, 2025 ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱮᱦᱚᱵ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾</strong>
 root-certificate-succession-infobar-march-message = 14 ᱢᱟᱨᱪ, 2025 ᱛᱟᱭᱚᱢ { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾</strong>
 root-certificate-succession-infobar-link = ᱤᱧ ᱪᱮᱫᱟᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ?
+root-certificate-succession-infobar-primary-button =
+    .label = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+    .accesskey = U
 
 ## FxA Menu Message variants
 
