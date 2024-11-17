@@ -78,6 +78,8 @@ fp-certerror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Dette websted er konfigureret til udelukkende at tillade sikre forbindelser, men der er et problem med webstedets certifikat. En aktør med slette hensigter forsøger muligvis at udgive sig for at være webstedet. Websteder anvender certifikater udstedt af en certifikatautoritet til at bevise, at de virkeligt er hvem de udgiver sig for at være. { -brand-short-name } stoler ikke på dette websted, fordi certifikatet ikke er gyldigt for { $hostname }. Certifikatet er kun gyldigt for { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Sandsynligvis ingenting, eftersom det tilsyneladende skyldes et problem med selve webstedet. Websteder bruger certifikater udsted af en certifikatautoritet for at bevise, at de virkeligt er hvem de påstår at de er. Men hvis du befinder dig på et virksomheds-netværker kan det være, at jeres IT-afdeling har flere oplysninger. Hvis du anvender antivirus kan du prøve at søge efter mulige konflikter eller kendte problemer.
 
 ## Messages used for certificate error titles
 
