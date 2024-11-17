@@ -46,6 +46,11 @@ edit-profile-page-duplicate-name = Tento název profilu již existuje. Zvolte ji
 edit-profile-page-profile-saved = Uloženo
 new-profile-page-title = Nový profil
 new-profile-page-header = Přizpůsobte si svůj nový profil
+new-profile-page-header-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Každý profil uchovává svou jedinečnou historii procházení a nastavení odděleně od ostatních profilů. Navíc je ve výchozím nastavení zapnutá silná ochrana soukromí { -brand-short-name(case: "gen") }.
+       *[no-cases] Každý profil uchovává svou jedinečnou historii procházení a nastavení odděleně od ostatních profilů. Navíc je ve výchozím nastavení zapnutá silná ochrana soukromí aplikace { -brand-short-name }.
+    }
 new-profile-page-learn-more = Zjistit více
 new-profile-page-input-placeholder =
     .placeholder = Zvolte název jako “Práce” nebo “Osobní”
@@ -60,6 +65,7 @@ delete-profile-page-title = Smazat profil { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Smazat profil { $profilename }?
+delete-profile-description = { -brand-short-name } trvale odstraní následující data z tohoto zařízení:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Otevřená okna
 # Open is an adjective, as in "browser tabs currently open".
