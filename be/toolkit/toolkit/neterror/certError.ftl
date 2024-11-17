@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Адкрыць сайт у новым 
 csp-xfo-blocked-long-desc = Каб захаваць вашу бяспеку, { $hostname } не дазволіць { -brand-short-name } паказаць старонку, калі яна ўбудавана ў іншы сайт. Каб убачыць гэтую старонку, трэба адкрыць яе ў новым акне.
 fp-certerror-view-certificate-link = Паглядзець сертыфікат сайта
 fp-certerror-return-to-previous-page-recommended-button = Вярнуцца (рэкамендуецца)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Сайт настроены на дазвол толькі бяспечных злучэнняў, але ёсць праблема з сертыфікатам сайта. Цалкам магчыма, што зламыснік спрабуе выдаць сябе за гэты сайт. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. { -brand-short-name } не давярае гэтаму сайту, бо яго сертыфікат несапраўдны для { $hostname }. Сертыфікат сапраўдны толькі для: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Імаверна, нічога, таму што, хутчэй за ўсё, праблема з самім сайтам. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. Але калі вы карыстаецеся карпаратыўнай сеткай, ваша служба падтрымкі можа мець больш інфармацыі. Калі вы выкарыстоўваеце антывіруснае праграмнае забеспячэнне, паспрабуйце пашукаць магчымыя канфлікты або вядомыя праблемы.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код памылкі: { $error }
