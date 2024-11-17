@@ -44,9 +44,24 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = সিস্টেম ভিউয়ারে খুলুন
     .accesskey = I
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = { $handler } এ খুলুন
+    .accesskey = I
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = { $handler } এ খুলুন
+    .accesskey = W
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = সর্বদা অনুরূপ ফাইল খুলুন
+    .accesskey = w
 downloads-cmd-show-downloads =
     .label = ডাউনলোড ফোল্ডার দেখাও
 downloads-cmd-retry =
