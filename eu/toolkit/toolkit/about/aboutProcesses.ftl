@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Deskargatu fitxak eta hil prozesua
+    .title = Hustu fitxak eta hil prozesua
 about-processes-shutdown-tab =
     .title = Itxi fitxa
 # Profiler icons

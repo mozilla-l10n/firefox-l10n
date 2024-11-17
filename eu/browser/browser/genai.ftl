@@ -36,6 +36,9 @@ genai-header-options-button =
     .title = Ireki menua
 genai-header-close-button =
     .title = Itxi
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Berritu { $provider }
 
 ## Chatbot onboarding
 
