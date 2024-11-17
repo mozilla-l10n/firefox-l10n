@@ -71,6 +71,14 @@ open-in-new-window-for-csp-or-xfo-error = Otwórz witrynę w nowym oknie
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Aby chronić bezpieczeństwo użytkownika, { $hostname } nie pozwoli przeglądarce { -brand-short-name } wyświetlić strony, jeśli inna witryna ją osadziła. Aby ją zobaczyć, musisz otworzyć ją w nowym oknie.
+fp-certerror-view-certificate-link = Wyświetl certyfikat witryny
+fp-certerror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Kod błędu: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -112,3 +120,19 @@ networkProtocolError-title = Błąd protokołu sieciowego
 nssBadCert-title = Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa
 nssBadCert-sts-title = Nie połączono: potencjalne zagrożenie bezpieczeństwa
 certerror-mitm-title = Oprogramowanie uniemożliwia przeglądarce { -brand-short-name } bezpieczne połączenie ze stroną
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Ostrzeżenie: zagrożenie bezpieczeństwa
+fp-certerror-body-title = Zachowaj ostrożność. Coś tu nie gra.
+fp-certerror-why-site-dangerous = Dlaczego ta witryna wydaje się niebezpieczna?
+fp-certerror-what-can-you-do = Co zrobić w takim przypadku?
+fp-certerror-advanced-title = Zaawansowane
+fp-certerror-advanced-button = Zaawansowane
+fp-certerror-hide-advanced-button = Ukryj zaawansowane
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Przejdź do witryny { $hostname } (ryzykowne)
+fp-certerror-intro = { -brand-short-name } wykrył potencjalnie poważny problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Ktoś podszywający się pod nią może próbować ukraść dane karty płatniczej, hasła, wiadomości e-mail lub coś innego.
