@@ -172,7 +172,7 @@ migration-list-favorites-label = favoritter
 migration-list-password-label = adgangskoder
 migration-list-history-label = historik
 migration-list-extensions-label = udvidelser
-migration-list-autofill-label = autofyldnings-data
+migration-list-autofill-label = data til autofyldning
 migration-list-payment-methods-label = betalingsmetoder
 
 ##

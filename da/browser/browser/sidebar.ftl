@@ -110,6 +110,18 @@ sidebar-menu-review-checker-label =
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-open-history-tooltip = Åbn historik ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Luk historik ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Åbn bogmærker ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Luk bogmærker ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
