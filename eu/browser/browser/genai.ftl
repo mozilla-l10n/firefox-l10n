@@ -44,9 +44,15 @@ genai-options-reload-provider =
 
 genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude-ri buruzko argibide gehiago
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = ChatGPTri buruzko argibide gehiago
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Copilot-i buruzko argibide gehiago
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Geminiri buruzko argibide gehiago
