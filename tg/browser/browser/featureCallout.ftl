@@ -85,4 +85,6 @@ sidebar-callout-survey-disagree = Розӣ нестам
 sidebar-callout-survey-strongly-disagree = Далерона розӣ нестам
 sidebar-callout-survey-features-question = Дар зер хусусиятҳои навори ҷонибӣ имконпазир мебошанд. Кадоме аз онҳо самаранокии шуморо дар «{ -brand-short-name }» бештар баланд мебардорад?
 sidebar-callout-survey-split-view = Ду сомонаи дилхоҳро ба воситаи намуди ҷудои паҳлу ба паҳлу дар як вақт тамошо кунед
+sidebar-callout-survey-keep-website-open = Нигоҳ доштани сомона, монанди почтаи электронӣ ё тақвим, дар навори ҷонибӣ ҳангоми намоиши сомонаҳои дигар
+sidebar-callout-survey-saved-websites = Дастрасии зуд ба ҳамаи сомонаҳои нигоҳдоштаи худ
 sidebar-callout-survey-submit = Пешниҳод кардан
