@@ -74,6 +74,8 @@ fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тав
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Рамзи хато: { $error }
 fp-learn-more-about-secure-connection-failures = Маълумоти бештар дар бораи хатоҳои пайвасти бехатар
+fp-learn-more-about-cert-issues = Маълумоти бештар дар бораи ин намудҳои мушкилиҳои гувоҳинома
+fp-learn-more-about-time-related-errors = Маълумоти бештар дар бораи ислоҳ кардани хатоҳои марбут ба вақт
 
 ## Messages used for certificate error titles
 
@@ -98,6 +100,7 @@ contentEncodingError-title = Хатои рамзгузории муҳтаво
 unsafeContentType-title = Навъи файли беэътимод
 netReset-title = Пайвастшавӣ аз нав танзим карда шуд
 netTimeout-title = Вақти пайвастшавӣ ба анҷом расид
+serverError-title = Чунин ба назар мерасад, ки дар ин сомона мушкилӣ вуҷуд дорад
 unknownProtocolFound-title = Нишонӣ фаҳмида нашудааст
 proxyConnectFailure-title = Сервери прокси пайвастҳоро рад мекунад
 proxyResolveFailure-title = Сервери прокси ёфт нашуд
@@ -117,6 +120,9 @@ certerror-mitm-title = Нармафзор имкон намедиҳад, ки «
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Огоҳӣ: Хавфи амният
+fp-certerror-body-title = Эҳтиёт шавед. Чизе нодуруст ба назар мерасад.
+fp-certerror-why-site-dangerous = Чаро ин сомона ҳамчун хатарнок ҳисоб карда мешавад?
 fp-certerror-what-can-you-do = Шумо чӣ тавр метавонед онро ислоҳ кунед?
 fp-certerror-advanced-title = Иловагӣ
 fp-certerror-advanced-button = Иловагӣ
