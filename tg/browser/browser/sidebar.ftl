@@ -106,6 +106,24 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Кушодани таърих ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Пӯшидани таърих ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Кушодани хатбаракҳо ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Пӯшидани хатбаракҳо ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Кушодани чат-боти зеҳни сунъӣ «AI»
+sidebar-menu-close-ai-chatbot-tooltip = Пӯшидани чат-боти зеҳни сунъӣ «AI»
 
 ## Headings for sidebar menu panels.
 

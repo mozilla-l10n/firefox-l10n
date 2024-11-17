@@ -36,3 +36,5 @@ fxa-menu-sign-out =
 fxa-menu-sync-title = Ҳамоҳангсозӣ
 fxa-menu-sync-description = Дар ҳама ҷо ба сомонаҳои худ дастрасӣ пайдо намоед
 sync-setup-verify-continue = Давом додан
+sync-setup-verify-title = Огоҳӣ оид ба муттаҳидшавӣ
+sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехоҳед ба ҳисоби ҳамоҳангсозӣ ворид шавед?

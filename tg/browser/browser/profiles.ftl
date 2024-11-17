@@ -34,9 +34,19 @@ new-profile-page-learn-more = Маълумоти бештар
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Нест кардани профили «{ $profilename }»
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Профили «{ $profilename }»-ро нест мекунед?
+delete-profile-description = Браузери «{ -brand-short-name }» маълумоти зеринро аз ин дастгоҳ бебозгашт нест мекунад:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Равзанаҳои кушода
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Варақаҳои кушодашуда
 delete-profile-bookmarks = Хатбаракҳо
+delete-profile-history = Таърих (саҳифаҳои кушодашуда, кукиҳо, маълумоти сомона)
 delete-profile-logins = Ниҳонвожаҳо
 # Button label
 delete-profile-cancel = Бекор кардан
