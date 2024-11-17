@@ -618,6 +618,29 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Cerca { $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Cerca amb { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Trieu un motor de cerca
+urlbar-searchmode-bookmarks =
+    .label = Adreces d'interès
+urlbar-searchmode-tabs =
+    .label = Pestanyes
+urlbar-searchmode-history =
+    .label = Historial
+urlbar-searchmode-actions =
+    .label = Accions
+urlbar-searchmode-exit-button =
+    .tooltiptext = Tanca
+urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
+urlbar-searchmode-popup-search-settings = Paràmetres de cerca
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, trieu un motor de cerca
+    .tooltiptext = { $engine }, trieu un motor de cerca
+urlbar-searchmode-button-no-engine =
+    .label = No s'ha seleccionat cap drecera, trieu una drecera
+    .tooltiptext = No s'ha seleccionat cap drecera, trieu una drecera
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -648,6 +671,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Cerques recents
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = És tendència a { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = No mostris les cerques que són tendència
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Per què veig això?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Gràcies pels vostres comentaris. Ja no veureu les cerques que són tendència.
 
 ## Reader View toolbar buttons
 
@@ -925,6 +963,9 @@ data-reporting-notification-button =
     .accesskey = c
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegació privada
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navegació privada
 content-analysis-panel-title = Protecció de dades
 
 ## Unified extensions (toolbar) button
