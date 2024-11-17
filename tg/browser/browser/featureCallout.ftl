@@ -62,9 +62,13 @@ split-dismiss-button-manage-settings-option-label = Идоракунии тан�
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Нишон додани сарлавҳаҳои варақаҳо дар навори ҷонибӣ
+sidebar-button-callout-subtitle = Барои баркушодани навори ҷонибӣ ва дидани сарлавҳаҳои варақаҳо, лутфан, аз тугмаи навори ҷонибӣ истифода баред.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Барои такмил додани «{ -brand-short-name }» кумак расонед
+sidebar-callout-survey-satisfaction-question = Шумо аз таҷрибаи истифодаи навори ҷонибӣ дар «{ -brand-short-name }» то чӣ андоза қаноатмандед?
 sidebar-callout-survey-privacy-notice-link = Огоҳномаи махфият
 sidebar-callout-survey-very-satisfied = Хеле қаноатманд
 sidebar-callout-survey-satisfied = Қаноатманд

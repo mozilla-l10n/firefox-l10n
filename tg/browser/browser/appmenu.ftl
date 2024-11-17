@@ -112,6 +112,7 @@ appmenu-fxa-setup-sync-new = Фаъол кардан
 appmenuitem-save-page =
     .label = Нигоҳ доштани саҳифа ҳамчун…
 appmenuitem-fxa-sync-off-title = Ҳамоҳангсозӣ ғайрифаъол аст
+appmenuitem-fxa-sync-off-description = Ба хатбаракҳо, ниҳонвожаҳо ва чизҳои дигар аз ҷойҳои дилхоҳ дастрасӣ пайдо намоед ва онҳоро ҳифз намоед.
 
 ## What's New panel in App menu.
 
@@ -290,3 +291,5 @@ appmenu-manage-profiles =
     .label = Идоракунии профилҳо
 appmenu-create-profile =
     .label = Профили нав
+appmenu-edit-profile =
+    .aria-label = Таҳрир кардани профил
