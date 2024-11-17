@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе х
 firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
 firefoxview-syncedtabs-signin-header-2 = «{ -brand-product-name }»-и шумо дар ҳамаи дастгоҳҳои шумо
+firefoxview-syncedtabs-signin-description-2 = Барои дидани варақаҳое, ки шумо дар телефон ва дастгоҳҳои дигари худ кушодаед, ба ҳисоби худ ворид шавед ё ҳисоберо эҷод намоед. Ба воситаи ҳисоб шумо, инчунин, метавонед ниҳонвожаҳо, таърихи тамошо ва чизҳои дигарро ҳамоҳанг созед.
 firefoxview-syncedtabs-signin-primarybutton-2 = Ворид шудан
 firefoxview-syncedtabs-signin-header = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
 firefoxview-syncedtabs-signin-description = Барои дидани варақаҳои худ аз ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, ба ҳисоби худ ворид шавед. Агар шумо ҳисоб надошта бошед, мо ба шумо ҳангоми иҷрои қадамҳои сабти ном мусоидат менамоем.
