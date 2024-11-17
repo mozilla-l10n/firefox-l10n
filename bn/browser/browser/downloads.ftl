@@ -62,6 +62,12 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = সর্বদা অনুরূপ ফাইল খুলুন
     .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ফাইন্ডারে দেখান
+           *[other] ফোল্ডারে দেখান
+        }
 downloads-cmd-show-downloads =
     .label = ডাউনলোড ফোল্ডার দেখাও
 downloads-cmd-retry =
