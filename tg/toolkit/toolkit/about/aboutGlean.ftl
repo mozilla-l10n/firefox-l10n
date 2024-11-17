@@ -85,5 +85,7 @@ about-glean-adhoc-note =
 controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
 about-glean-feedback-settings-only =
     .message = Танзимот татбиқ карда шуд!
+about-glean-feedback-settings-and-ping =
+    .message = Танзимот татбиқ карда шуд ва дархост фиристода шуд!
 about-glean-about-data-header = Дар бораи «Маълумот»
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.

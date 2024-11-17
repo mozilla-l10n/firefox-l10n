@@ -68,10 +68,12 @@ open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар �
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Барои муҳофизат кардани амнияти шумо, { $hostname } ба «{ -brand-short-name }» барои намоиш додани саҳифа иҷозат намедиҳад, агар сомонаи дигар онро дарунсохт карда бошад. Барои дидани ин саҳифа шумо бояд онро дар равзанаи нав кушоед.
+fp-certerror-view-certificate-link = Дидани гувоҳиномаи сомона
 fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Рамзи хато: { $error }
+fp-learn-more-about-secure-connection-failures = Маълумоти бештар дар бораи хатоҳои пайвасти бехатар
 
 ## Messages used for certificate error titles
 
@@ -115,6 +117,7 @@ certerror-mitm-title = Нармафзор имкон намедиҳад, ки «
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-what-can-you-do = Шумо чӣ тавр метавонед онро ислоҳ кунед?
 fp-certerror-advanced-title = Иловагӣ
 fp-certerror-advanced-button = Иловагӣ
 fp-certerror-hide-advanced-button = Пинҳон кардани тафсилот
