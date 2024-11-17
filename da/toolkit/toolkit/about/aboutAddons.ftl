@@ -301,6 +301,14 @@ find-more-themes = Find flere temaer
 # used for screen readers.
 addon-options-button =
     .aria-label = Flere indstillinger
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Med udvidelser og temaer kan du tilpasse { -brand-product-name } for at beskytte dit privatliv bedre, 
+    få mere arbejde fra hånden, gøre det lettere at håndtere mediefiler, ændre hvordan 
+    { -brand-product-name } ser ud - og meget mere. Udvidelser er små software-programmer, som ofte 
+    er udviklet af tredjepart. Hér er et udvalg, som { -brand-product-name } <a data-l10n-name="learn-more-trigger">anbefaler</a> 
+    for at forbedre din sikkerhed, give dig bedre ydelse og flere nyttige funktioner.
 
 ## Add-on actions
 

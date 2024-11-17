@@ -122,6 +122,8 @@ sidebar-menu-open-bookmarks-tooltip = Åbn bogmærker ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Luk bogmærker ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Åbn AI-chatbot
+sidebar-menu-close-ai-chatbot-tooltip = Luk AI-chatbot
 
 ## Headings for sidebar menu panels.
 
