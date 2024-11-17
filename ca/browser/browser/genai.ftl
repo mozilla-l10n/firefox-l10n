@@ -5,6 +5,14 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Afegeix el chatbot que trieu a la barra lateral, per accedir-hi ràpidament mentre navegueu. <a data-l10n-name="connect">Envieu comentaris</a>
+genai-settings-chat-choose = Trieu un chatbot
+genai-settings-chat-choose-one-menuitem =
+    .label = Trieu-ne un
+genai-settings-chat-links = En triar un chatbot, accepteu les condicions d'ús i la política de privadesa del proveïdor.
+genai-settings-chat-chatgpt-links = En triar ChatGPT, accepteu les <a data-l10n-name="link1">condicions d'ús</a> i la <a data-l10n-name="link2">política de privadesa</a> d'OpenAI.
+genai-settings-chat-claude-links = En triar Anthropic Claude, accepteu les <a data-l10n-name="link1">condicions del servei del consumidor</a>, la <a data-l10n-name="link2">política d'ús</a> i la <a data-l10n-name="link3">política de privadesa</a>.
+genai-settings-chat-copilot-links = En triar Copilot, accepteu les <a data-l10n-name="link1">condicions d'experiències de Copilot AI</a> i la <a data-l10n-name="link2">declaració de privadesa de Microsoft</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
