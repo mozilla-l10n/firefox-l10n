@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>এই পৃষ্ঠার অংশ ক্র্যাশ হয়েছে৷</strong> এই সমস্যাটি সম্পর্কে { -brand-product-name } কে জানাতে এবং এটি দ্রুত সমাধান করতে, অনুগ্রহ করে একটি প্রতিবেদন জমা দিন৷
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = এই পৃষ্ঠার অংশ ক্র্যাশ হয়েছে. এই সমস্যাটি সম্পর্কে { -brand-product-name } কে জানাতে এবং এটি দ্রুত সমাধান করতে, অনুগ্রহ করে একটি প্রতিবেদন জমা দিন৷
+crashed-subframe-learnmore-link =
+    .value = আরও জানুন
+crashed-subframe-submit =
+    .label = রিপোর্ট জমা দিন
+    .accesskey = S
 
 ## Pending crash reports
 
