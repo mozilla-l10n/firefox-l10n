@@ -131,4 +131,8 @@ addon-local-install-error-not-signed = No es pot instal·lar aquest complement p
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = No s'ha pogut instal·lar el complement «{ $addonName }» perquè no és compatible amb el { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } infringeix les polítiques de Mozilla i no es pot instal·lar al { -brand-short-name }.
 addon-install-error-blocklisted = No s'ha pogut instal·lar el complement { $addonName } perquè té un risc elevat de provocar problemes d'estabilitat o de seguretat.
+addon-install-error-soft-blocked = { $addonName } infringeix les polítiques de Mozilla i no es pot instal·lar al { -brand-short-name }.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = No podeu instal·lar { $addonName } com a usuari final; només el pot instal·lar una organització mitjançant polítiques d'empresa.

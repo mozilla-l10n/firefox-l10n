@@ -14,3 +14,7 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-duplicate-tabs =
     .label = Tanca les pestanyes duplicades
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Tanca totes les pestanyes duplicades
+all-tabs-menu-synced-tabs =
+    .label = Pestanyes d'altres dispositius

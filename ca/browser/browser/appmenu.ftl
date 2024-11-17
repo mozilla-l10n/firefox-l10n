@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sincronitza i desa les dades
 appmenu-fxa-signed-in-label = Inicia la sessió
 appmenu-fxa-setup-sync =
     .label = Activa la sincronització…
+appmenu-fxa-setup-sync-new = Activa
 appmenuitem-save-page =
     .label = Anomena i desa la pàgina…
+appmenuitem-fxa-sync-off-title = La sincronització està desactivada
+appmenuitem-fxa-sync-off-description = Protegiu i accediu a les vostres adreces d'interès, contrasenyes i més des de qualsevol dispositiu.
 
 ## What's New panel in App menu.
 
@@ -276,3 +279,6 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protegiu la vostra activitat a la xarxa
+
+## Profiles panel
+

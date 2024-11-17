@@ -302,6 +302,9 @@ about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contr
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
 about-logins-confirm-export-dialog-title2 = Nota sobre l'exportació de contrasenyes
+about-logins-confirm-export-dialog-message2 =
+    En exportar, les contrasenyes es desen en un fitxer de text llegible.
+    Quan hàgiu acabat d'utilitzar el fitxer, us recomanem que el suprimiu perquè les altres persones que utilitzin aquest dispositiu no puguin veure les vostres contrasenyes.
 about-logins-confirm-export-dialog-confirm-button2 = Continua l'exportació
 about-logins-alert-import-title = Fi de la importació
 about-logins-alert-import-message = Mostra un resum detallat de la importació
