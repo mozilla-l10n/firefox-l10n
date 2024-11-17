@@ -305,6 +305,7 @@ fxa-menu-message-sync-devices-primary-text = Ҳамаи дастгоҳҳои х�
 fxa-menu-message-sync-devices-collapsed-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-backup-data-primary-text = Сохтани нусхаи эҳтиётии маълумоти браузери шумо
 fxa-menu-message-backup-data-collapsed-text = Сохтани нусхаи эҳтиётии маълумоти браузер
+fxa-menu-message-backup-sync-primary-text = Маълумоти худро ба таври бехатар нигоҳ доред ва ҳамоҳанг созед
 fxa-menu-message-backup-sync-collapsed-text = Ҳамоҳангсозӣ ва сохтани нусхаи эҳтиётии маълумот
 fxa-menu-message-mobile-primary-text = Варақаҳоро ба талефони худ фиристонед
 fxa-menu-message-mobile-collapsed-text = Бо телефони худ ҳамоҳанг созед
