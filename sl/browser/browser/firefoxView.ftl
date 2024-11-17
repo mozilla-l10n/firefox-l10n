@@ -170,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Iskanje po nedavno zaprtih zavihkih
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Išči po zavihkih
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Iskanje po sinhroniziranih zavihkih
 # Placeholder for the input field to search in open tabs ("search" is a verb).
