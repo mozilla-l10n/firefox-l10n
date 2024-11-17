@@ -79,3 +79,14 @@ sidebar-callout-survey-dont-use-it = Nie używam go
 sidebar-callout-survey-productive-question =
     W jakim stopniu zgadzasz się lub nie zgadzasz z tym stwierdzeniem:<br/>
     „Panel boczny { -brand-short-name(case: "gen") } pomaga mi zwiększyć produktywność”?
+sidebar-callout-survey-strongly-agree = Zdecydowanie się zgadzam
+sidebar-callout-survey-agree = Zgadzam się
+sidebar-callout-survey-disagree = Nie zgadzam się
+sidebar-callout-survey-strongly-disagree = Zdecydowanie się nie zgadzam
+sidebar-callout-survey-features-question = Poniżej przedstawiono potencjalne funkcje panelu bocznego. Które z nich najbardziej zwiększyłyby Twoją produktywność podczas korzystania z { -brand-short-name(case: "gen") }?
+sidebar-callout-survey-split-view = Przeglądanie dwóch dowolnych witryn jednocześnie w oknie podzielonym na pół
+sidebar-callout-survey-keep-website-open = Stale otwarta witryna w panelu bocznym, taka jak poczta lub kalendarz
+sidebar-callout-survey-saved-websites = Szybki dostęp do wszystkich zachowanych witryn
+sidebar-callout-survey-none-of-above = Żadna z powyższych
+sidebar-callout-survey-submit = Wyślij
+sidebar-callout-survey-thank-you = Dziękujemy za opinię!
