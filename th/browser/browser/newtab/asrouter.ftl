@@ -243,6 +243,9 @@ device-migration-fxa-spotlight-older-device-primary-button = สร้างบ�
 device-migration-fxa-spotlight-getting-new-device-header-2 = คิดจะมีอุปกรณ์ใหม่ในภายหลังใช่ไหม?
 device-migration-fxa-spotlight-getting-new-device-body-2 = ทำตามขั้นตอนง่ายๆ ไม่กี่ขั้นตอนเพื่อนำที่คั่นหน้า ประวัติ และรหัสผ่านติดตัวไปด้วยเมื่อคุณเริ่มใช้งานอุปกรณ์ใหม่
 device-migration-fxa-spotlight-getting-new-device-primary-button = วิธีสำรองข้อมูลของฉัน
+device-migration-fxa-spotlight-sync-header = เรียกดูได้อย่างไม่ต้องกังวลใจ
+device-migration-fxa-spotlight-sync-body = ซิงค์ข้อมูลสำคัญทั้งหมดของคุณอย่างเช่นที่คั่นหน้าและรหัสผ่านด้วยการเข้ารหัสลับ คุณสามารถนำทุกอย่างเข้ามาได้ไม่ว่าคุณจะใช้ { -brand-product-name } ที่ไหนก็ตาม
+device-migration-fxa-spotlight-sync-primary-button = เริ่มต้น
 
 ## Set as Default PDF Reader Infobar
 
@@ -294,6 +297,10 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = ปิด
+    .aria-label = ปิด
+fxa-menu-message-sign-up-button = ลงทะเบียน
 
 ## Multi-CTA Fox Doodle Spotlight
 
