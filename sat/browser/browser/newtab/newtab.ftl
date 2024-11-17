@@ -347,9 +347,38 @@ newtab-weather-menu-temperature-option-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱮᱭ�
 newtab-weather-menu-temperature-option-celsius = ᱥᱮᱞᱥᱤᱭᱚᱥ
 newtab-weather-menu-change-temperature-units-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱟᱭᱤᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 newtab-weather-menu-change-temperature-units-celsius = ᱥᱮᱞᱥᱤᱭᱟᱥ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+newtab-weather-menu-hide-weather = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱩᱠᱩᱭ ᱢᱮ
+newtab-weather-menu-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+# This message is shown if user is working offline
+newtab-weather-error-not-available = ᱱᱤᱛᱚᱜ ᱫᱚ ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ ᱾
 
 ## Topic Labels
 
+newtab-topic-label-business = ᱵᱮᱯᱟᱨ
+newtab-topic-label-career = ᱠᱮᱨᱤᱭᱚᱨ
+newtab-topic-label-education = ᱥᱮᱪᱮᱫ
+newtab-topic-label-arts = ᱨᱚᱢᱚᱡᱽ
+newtab-topic-label-food = ᱡᱚᱢᱟᱜ
+newtab-topic-label-health = ᱦᱚᱲᱢᱚ ᱥᱟᱶᱟᱨ
+newtab-topic-label-hobbies = ᱜᱮᱢᱤᱝ
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = ᱴᱟᱠᱟ
+newtab-topic-label-society-parenting = ᱟᱭᱳ-ᱵᱟᱵᱟ ᱵᱮᱵᱷᱟᱨ
+newtab-topic-label-government = ᱨᱟᱡᱽᱱᱤᱛᱤ
+newtab-topic-label-education-science = ᱥᱟᱬᱮᱥ
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = ᱡᱤᱭᱚᱱ ᱦᱮᱠᱥ
+newtab-topic-label-sports = ᱠᱷᱮᱞ
+newtab-topic-label-tech = ᱴᱮᱠ
+newtab-topic-label-travel = ᱫᱟᱬᱟᱱ
+newtab-topic-label-home = ᱚᱲᱟᱜ ᱟᱨ ᱵᱟᱜᱟᱱ
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = ᱟᱢᱟᱜ ᱯᱷᱤᱰ ᱵᱮᱥ ᱴᱩᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱛᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
