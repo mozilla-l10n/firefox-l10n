@@ -8,11 +8,18 @@
 newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
+newtab-personalize-settings-icon-label =
+    .title = Personalitza la pestanya nova
+    .aria-label = Paràmetres
+newtab-settings-dialog-label =
+    .aria-label = Paràmetres
 newtab-personalize-icon-label =
     .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
 newtab-personalize-dialog-label =
     .aria-label = Personalitza
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,7 @@ newtab-menu-save-to-pocket = Desa al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
 newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
+newtab-menu-about-fakespot = Quant a { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -231,8 +239,13 @@ newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Desa
 newtab-pocket-saved = S'ha desat
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -373,3 +386,21 @@ newtab-weather-menu-hide-weather = Amaga la informació meteorològica en les pe
 newtab-weather-menu-learn-more = Més informació
 # This message is shown if user is working offline
 newtab-weather-error-not-available = La informació meteorològica no està disponible ara mateix.
+
+## Topic Labels
+
+newtab-topic-label-business = Negocis
+newtab-topic-label-education = Educació
+newtab-topic-label-arts = Entreteniment
+newtab-topic-label-food = Menjar
+newtab-topic-label-health = { "" }
+newtab-topic-label-hobbies = Jocs
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Diners
+newtab-topic-label-government = Política
+newtab-topic-label-education-science = Ciència
+
+## Topic Selection Modal
+

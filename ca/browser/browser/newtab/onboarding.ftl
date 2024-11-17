@@ -335,6 +335,9 @@ onboarding-device-migration-subtitle = Inicieu la sessió al vostre { -fxaccount
 onboarding-device-migration-subtitle2 = Inicieu la sessió al vostre compte per accedir a les vostres adreces d'interès, les contrasenyes i l'historial en el dispositiu nou.
 onboarding-device-migration-primary-button-label = Inicia la sessió
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -343,9 +346,16 @@ onboarding-easy-setup-security-and-privacy-subtitle = El nostre navegador sense 
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteniu-vos protegit amb el xifratge quan passeu d'un dispositiu a un altre
 onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més segura i accessible per a tothom.
+onboarding-sign-up-secondary-button = Comença a navegar
 
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = Quant temps fa que feu servir el { -brand-short-name }?
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Següent
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+

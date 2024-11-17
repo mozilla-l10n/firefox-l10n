@@ -83,3 +83,4 @@ sidebar-callout-survey-strongly-agree = Hi estic totalment d’acord
 sidebar-callout-survey-agree = Hi estic d’acord
 sidebar-callout-survey-disagree = Hi estic en desacord
 sidebar-callout-survey-strongly-disagree = Hi estic molt en desacord
+sidebar-callout-survey-features-question = Les següents són funcions potencials de la barra lateral. Què milloraria més la vostra productivitat al { -brand-short-name }?

@@ -32,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completat
 firefoxview-tabpickup-step-signin-header = Canvieu d'un dispositiu a l'altre de forma transparent
 firefoxview-tabpickup-step-signin-description = Per poder recuperar les pestanyes del telèfon des d'aquí, primer inicieu la sessió o creeu un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Continua
+firefoxview-syncedtabs-signin-header-2 = El { -brand-product-name } a tots els vostres dispositius
+firefoxview-syncedtabs-signin-description-2 = Per veure les pestanyes que teniu obertes al telèfon i altres dispositius, inicieu la sessió o registreu-vos per obtenir un compte. Amb un compte, també es poden sincronitzar les contrasenyes, l'historial i molt més.
+firefoxview-syncedtabs-signin-primarybutton-2 = Inicia la sessió
 firefoxview-syncedtabs-signin-header = Recupereu les pestanyes de qualsevol dispositiu
 firefoxview-syncedtabs-signin-description = Per veure les vostres pestanyes de tots els dispositius on utilitzeu el { -brand-product-name }, inicieu la sessió al vostre compte. Si no teniu cap compte, us mostrarem els passos per registrar-vos.
 firefoxview-syncedtabs-signin-primarybutton = Inici de sessió o registre
@@ -39,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sincronitzeu el { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = Baixeu el { -brand-product-name } per al mòbil i inicieu-hi la sessió.
 firefoxview-tabpickup-adddevice-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-adddevice-primarybutton = Instal·la el { -brand-product-name } per al mòbil
+firefoxview-syncedtabs-adddevice-header-2 = Recupereu les pestanyes de qualsevol dispositiu
+firefoxview-syncedtabs-adddevice-description-2 = Inicieu la sessió al { -brand-product-name } des del telèfon o des d'un altre ordinador per veure'n les pestanyes aquí. Obteniu informació sobre com <a data-l10n-name="url">connectar dispositius addicionals</a>.
 firefoxview-syncedtabs-adddevice-header = Inicieu la sessió al { -brand-product-name } en els altres dispositius
 firefoxview-syncedtabs-adddevice-description = Per veure les vostres pestanyes de tots els dispositius on utilitzeu el { -brand-product-name }, inicieu la sessió en tots els dispositius. Vegeu també com <a data-l10n-name="url">connectar dispositius addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova el { -brand-product-name } per al mòbil
@@ -231,6 +236,8 @@ firefoxview-choose-browser-button = Trieu un navegador
 firefoxview-dont-remember-history-empty-header = Res a mostrar
 firefoxview-dont-remember-history-empty-description = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda.
 firefoxview-dont-remember-history-empty-description-two = Segons els vostres paràmetres actuals, el { -brand-short-name } no recorda la vostra activitat mentre navegueu. Per canviar-ho, <a data-l10n-name="history-settings-url-two">configureu el navegador perquè recordi l'historial</a>.
+firefoxview-dont-remember-history-empty-header-2 = Teniu el control del que el { -brand-short-name } recorda
+firefoxview-dont-remember-history-empty-description-one = Actualment el { -brand-short-name } no recorda l'historial de navegació. Per canviar-ho, <a data-l10n-name="history-settings-url-two">actualitzeu els paràmetres de l'historial</a>.
 
 ##
 
