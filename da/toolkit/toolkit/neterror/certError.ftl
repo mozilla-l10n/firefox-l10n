@@ -94,6 +94,12 @@ fp-certerror-expired-why-dangerous-body = Websteder anvender certifikater udsted
 # Variables:
 #   $date (Date) - Certificate start date.
 fp-certerror-not-yet-valid-why-dangerous-body = Websteder anvender certifikater udstedt af en certifikatautoritet til at bevise, at de virkeligt er hvem de udgiver sig for at være. { -brand-short-name } stoler ikke på dette websted, fordi det ser ud til, at certifikatet ikke er gyldigt før { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Fejlkode: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
@@ -138,7 +144,13 @@ certerror-mitm-title = Et program forhindrer { -brand-short-name } i at oprette 
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Advarsel: Sikkerhedsrisiko
+fp-certerror-body-title = Vær forsigtig. Noget ser ikke rigtigt ud.
+fp-certerror-advanced-title = Avanceret
+fp-certerror-advanced-button = Avanceret
+fp-certerror-hide-advanced-button = Skjul avanceret
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Fortsæt til { $hostname } (Risikabelt)

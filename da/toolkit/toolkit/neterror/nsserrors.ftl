@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Kan ikke oprette sikker forbindelse, da SSL-protokollen er slået fra.
 psmerr-ssl2-disabled = Kan ikke oprette sikker forbindelse, da siden anvender en ældre, usikker version af SSL-protokollen.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har modtaget et ugyldigt certifikat. Kontakt serveradministratoren eller en anden kontaktperson, og giv dem følgende information:
     
     Dit certifikat indeholder samme serienummer som et andet certifikat udstedt af den samme CA. Få et nyt certifikat med et unikt serienummer.
-
 ssl-error-export-only-server = Kunne ikke kommunikere sikkert. Modparten understøtter ikke højkvalitetskryptering.
 ssl-error-us-only-server = Kunne ikke kommunikere sikkert. Modparten kræver en højkvalitetskryptering, som ikke understøttes.
 ssl-error-no-cypher-overlap = Kunne ikke kommunikere sikkert med modparten: ingen fælles krypteringsalgoritmer.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Der er ikke konfigureret en underst
 ssl-error-unsupported-signature-algorithm = Modparten benyttede en kombination af signatur og hash-algoritme som ikke er understøttet.
 ssl-error-missing-extended-master-secret = Modparten prøvede at genoptage uden en korrekt extended_master_secret-udvidelse.
 ssl-error-unexpected-extended-master-secret = Modparten prøvede at genoptage med en uventet extended_master_secret-udvidelse.
-
 sec-error-io = Der opstod en I/O-fejl under sikkerhedsgodkendelsen.
 sec-error-library-failure = fejl i sikkerhedsbiblioteket.
 sec-error-bad-data = sikkerhedsbibliotek: modtog forkert data.
@@ -320,7 +317,6 @@ sec-error-locked-password = Adgangskoden er låst.
 sec-error-unknown-pkcs11-error = Ukendt PKCS #11-fejl.
 sec-error-bad-crl-dp-url = URL'en i distribution point-navn er ugyldig eller understøttes ikke.
 sec-error-cert-signature-algorithm-disabled = Certifikatet er signeret med en signatur-algoritme, der er slået fra, fordi den ikke er sikker.
-
 mozilla-pkix-error-key-pinning-failure = Serveren benytter key pinning (HPKP) men det var ikke muligt at oprette en certifikatkæde, der matcher pinsættet. Overtrædelse af key pinning kan ikke tilsidesættes.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveren benytter et certifikat med udvidelsen med grundlæggende begrænsninger til at identificere den som en certifikatautoritet. Dette bør ikke være tilfældet for et korrekt udstedt certifikat.
 mozilla-pkix-error-inadequate-key-size = Serveren benytter et certifikat med en nøglestørrelse, der er for lille til at oprette en sikker forbindelse.
@@ -335,11 +331,10 @@ mozilla-pkix-error-invalid-integer-encoding = Serveren præsenterede et certifik
 mozilla-pkix-error-empty-issuer-name = Serveren præsenterede et certifikat uden et entydigt navn (DN) på certifikatudsteder.
 mozilla-pkix-error-additional-policy-constraint-failed = En ekstra policy-begrænsning slog fejl under validering af dette certifikat.
 mozilla-pkix-error-self-signed-cert = Der stoles ikke på certifikatet, da det er underskrevet af indehaveren selv.
-
+mozilla-pkix-error-issuer-no-longer-trusted = Der var mistillid til certifikatautoriteten, der udstedte certifikatet, før certifikatet blev udstedt.
 xp-java-remove-principal-error = Kunne ikke fjerne principalen
 xp-java-delete-privilege-error = Kunne ikke fjerne privilegiet
 xp-java-cert-not-exists-error = Principalen har ikke et certifikat
-
 xp-sec-fortezza-bad-card = Fortezza-kortet er ikke initialiseret korrekt. Fjern det og returner det til udstederen.
 xp-sec-fortezza-no-card = Ingen Fortezza-kort blev fundet
 xp-sec-fortezza-none-selected = Intet Fortezza-kort valgt
