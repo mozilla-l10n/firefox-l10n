@@ -114,6 +114,15 @@ urlbar-result-menu-button =
     .title = মেনু খুলুন
 urlbar-result-menu-button-feedback = প্রতিক্রিয়া
     .title = মেনু খুলুন
+urlbar-result-menu-learn-more =
+    .label = আরও জানুন
+    .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = ইতিহাস থেকে মুছে ফেলুন
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = সাহায্য নিন
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -122,6 +131,11 @@ urlbar-result-menu-button-feedback = প্রতিক্রিয়া
 
 urlbar-search-tips-onboard = কম লিখে, বেশি ফলাফল পান: ঠিকানাদণ্ড থেকেই { $engineName }-এ খুঁজুন।
 urlbar-search-tips-redirect-2 = আপনার ব্রাউজিং ইতিহাস এবং { $engineName } থেকে পরামর্শ দেখতে ঠিকানাদণ্ডে আপনার অনুসন্ধান শুরু করুন।
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = অনুসন্ধান আরো সহজ হয়েছে. ঠিকানা বারে এখানে আপনার অনুসন্ধান আরও নির্দিষ্ট করার চেষ্টা করুন। পরিবর্তে URL দেখাতে, সেটিংসে অনুসন্ধানে যান।
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = আপনার যা প্রয়োজন তা দ্রুত খুঁজে পেতে এই শর্টকাটটি নির্বাচন করুন।
 
 ## Local search mode indicator labels in the urlbar
 
