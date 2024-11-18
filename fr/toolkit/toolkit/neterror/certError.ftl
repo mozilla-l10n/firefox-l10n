@@ -70,6 +70,12 @@ open-in-new-window-for-csp-or-xfo-error = Ouvrir le site dans une nouvelle fenê
 csp-xfo-blocked-long-desc = Pour protéger votre sécurité, { $hostname } ne permettra pas à { -brand-short-name } d’afficher la page si celle-ci est intégrée par un autre site. Pour voir cette page, vous devez l’ouvrir dans une nouvelle fenêtre.
 fp-certerror-view-certificate-link = Afficher le certificat du site
 fp-certerror-return-to-previous-page-recommended-button = Retour (recommandé)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Code d’erreur : { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 
 ## Messages used for certificate error titles
 
