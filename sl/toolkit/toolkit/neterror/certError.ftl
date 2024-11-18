@@ -77,7 +77,9 @@ fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporoč
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
-fp-certerror-bad-domain-why-dangerous-body = Stran je nastavljena tako, da dovoljuje samo varne povezave, vendar je prišlo do težave s potrdilom strani. Možno je, da to spletno mesto poskuša oponašati slab igralec. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker njegovo potrdilo ni veljavno za { $hostname }. Potrdilo je veljavno samo za: { $validHosts }.
+fp-certerror-bad-domain-why-dangerous-body = Stran je nastavljena tako, da dovoljuje samo varne povezave, vendar je prišlo do težave s potrdilom strani. Možno je, da to spletno mesto poskuša nekdo oponašati. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker njegovo potrdilo ni veljavno za { $hostname }. Potrdilo je veljavno samo za: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Verjetno nič, saj je lahko težava v samem spletnem mestu. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. Če uporabljate omrežje podjetja, ima morda ekipa za podporo več podatkov. Če uporabljate protivirusno programsko opremo, poskusite z iskanjem morebitnih neskladij ali znanih težav.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ne veliko. Najverjetneje je težava v samem spletnem mestu.
 fp-certerror-self-signed-important-note = POMEMBNO OBVESTILO: Če poskušate to stran obiskati na intranetu podjetja, lahko vaše osebje za IT uporabi samopodpisana potrdila. Pomagajo vam lahko preveriti njihovo pristnost.
