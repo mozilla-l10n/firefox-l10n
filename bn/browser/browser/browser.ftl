@@ -140,6 +140,9 @@ urlbar-tabtosearch-onboard = আপনার যা প্রয়োজন ত
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = বুকমার্ক
+urlbar-search-mode-tabs = ট্যাব
+urlbar-search-mode-history = ইতিহাস
+urlbar-search-mode-actions = অ্যাকশন
 
 ##
 
@@ -178,6 +181,12 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = এক্সটেনশন ব্যবস্থাপনা...
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = এক্সটেনশন অপসারণ করুন
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -204,6 +213,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ব্যক্তিগত উইন্ডোর জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }” যোগ করুন
+    .tooltiptext = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
+    .aria-label = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -268,6 +291,14 @@ identity-passive-loaded = এই পাতার অংশগুলো নির
 identity-active-loaded = আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন।
 identity-weak-encryption = এই পাতা দুর্বল এনক্রিপশন ব্যবহার করে।
 identity-insecure-login-forms = এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।
+identity-https-only-info-turn-on2 = এই সাইটের জন্য HTTPS-শুধু মোড চালু করুন যদি আপনি { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে চান।
+identity-https-only-info-turn-off2 = যদি পৃষ্ঠাটি ভাঙা বলে মনে হয়, তাহলে আপনি অনিরাপদ HTTP ব্যবহার করে পুনরায় লোড করার জন্য এই সাইটের জন্য HTTPS-শুধু মোড বন্ধ করতে চাইতে পারেন।
+identity-https-only-info-turn-on3 = এই সাইটের জন্য HTTPS আপগ্রেড চালু করুন যদি আপনি চান { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে।
+identity-https-only-info-turn-off3 = যদি পৃষ্ঠাটি ভাঙা বলে মনে হয়, তাহলে আপনি এই সাইটের জন্য HTTPS আপগ্রেডগুলিকে অনিরাপদ HTTP ব্যবহার করে পুনরায় লোড করার জন্য বন্ধ করতে চাইতে পারেন৷
+identity-https-only-info-no-upgrade = HTTP থেকে সংযোগ আপগ্রেড করতে অক্ষম৷
+identity-permissions-storage-access-header = ক্রস-সাইট কুকিজ
+identity-permissions-storage-access-hint = আপনি এই সাইটে থাকাকালীন এই দলগুলি ক্রস-সাইট কুকিজ এবং সাইট ডেটা ব্যবহার করতে পারে৷
+identity-permissions-storage-access-learn-more = আরও জানুন
 identity-permissions-reload-hint = পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।
 identity-clear-site-data =
     .label = কুকি এবং সাইট ডাটা পরিষ্কার করুন…
@@ -303,6 +334,8 @@ browser-window-minimize-button =
     .tooltiptext = ন্যূনতম বিস্তার
 browser-window-maximize-button =
     .tooltiptext = বড় করুন
+browser-window-restore-down-button =
+    .tooltiptext = পুনরুদ্ধার করুন
 browser-window-close-button =
     .tooltiptext = বন্ধ
 
