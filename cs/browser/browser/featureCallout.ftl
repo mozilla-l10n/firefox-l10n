@@ -101,8 +101,8 @@ sidebar-callout-survey-privacy-notice-link = Zásady ochrany osobních údajů
 sidebar-callout-survey-very-satisfied = Velmi spokojený
 sidebar-callout-survey-satisfied = Spokojený
 sidebar-callout-survey-neutral = Neutrální
-sidebar-callout-survey-dissatisfied = Nespokojený
-sidebar-callout-survey-very-dissatisfied = Velmi nespokojený
+sidebar-callout-survey-dissatisfied-2 = Nespokojený
+sidebar-callout-survey-very-dissatisfied-2 = Velmi nespokojený
 sidebar-callout-survey-dont-use-it = Nepoužívám
 sidebar-callout-survey-productive-question =
     { -brand-short-name.case-status ->
@@ -120,7 +120,7 @@ sidebar-callout-survey-features-question =
     }
 sidebar-callout-survey-split-view = Zobrazení libovolných dvou webových stránek najednou v rozděleném zobrazení vedle sebe
 sidebar-callout-survey-keep-website-open = Ponechat webovou stránku, například e-mail nebo kalendář, otevřený v postranním panelu po dobu prohlížení.
-sidebar-callout-survey-saved-websites = Rychlý přístup ke všem uloženým webovým stránkám
+sidebar-callout-survey-saved-websites-2 = Rychlý přístup k vašim záložkám
 sidebar-callout-survey-none-of-above = Nic z výše uvedeného
 sidebar-callout-survey-submit = Odeslat
 sidebar-callout-survey-thank-you = Děkujeme za zpětnou vazbu!
