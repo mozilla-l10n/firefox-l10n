@@ -258,6 +258,8 @@ quickactions-cmd-addons2 = অ্যাড-অন
 # Opens the bookmarks library window
 quickactions-bookmarks2 = বুকমার্ক পরিচালনা করুন
 quickactions-cmd-bookmarks = বুকমার্ক
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ইতিহাস সাফ করুন
 
 ## Bookmark Panel
 
