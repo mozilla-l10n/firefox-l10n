@@ -291,6 +291,9 @@ find-more-themes = ਹੋਰ ਥੀਮ ਲੱਭੋ
 # used for screen readers.
 addon-options-button =
     .aria-label = ਹੋਰ ਚੋਣਾਂ
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = ਇਕਸਟੈਨਸ਼ਨ ਅਤੇ ਥੀਮ ਤੁਹਾਨੂੰ { -brand-product-name } ਕਸਟਮਾਈਜ਼ ਕਰਨ ਦਿੰਦੇ ਹਨ। ਇਹ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਵਾਧਾ, ਮੀਡੀਏ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ, { -brand-product-name } ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣ, ਅਤੇ ਕੋਈ ਕੁਝ ਹੋਰ ਕਰਨ ਸਕਦੇ ਹਨ। ਇਹਨਾਂ ਛੋਟੇ ਸਾਫਟਵੇਅਰਾਂ ਨੂੰ ਅਕਸਰ ਸੁਤੰਤਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸ਼ਾਨਦਾਰ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਾਰਜ ਸਮਰੱਥਾ ਲਈ { -brand-product-name } <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼ਾਂ</a> ਇਹ ਹਨ।
 
 ## Add-on actions
 
