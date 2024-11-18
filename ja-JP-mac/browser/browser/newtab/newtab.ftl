@@ -8,6 +8,11 @@
 newtab-page-title = 新規タブ
 newtab-settings-button =
     .title = 新規タブページをカスタマイズ
+newtab-personalize-settings-icon-label =
+    .title = 新規タブをパーソナライズ
+    .aria-label = 設定
+newtab-settings-dialog-label =
+    .aria-label = 設定
 newtab-personalize-icon-label =
     .title = 新規タブをパーソナライズ
     .aria-label = 新規タブをパーソナライズ
