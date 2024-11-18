@@ -393,7 +393,6 @@ newtab-topic-label-business = Negocis
 newtab-topic-label-education = Educació
 newtab-topic-label-arts = Entreteniment
 newtab-topic-label-food = Menjar
-newtab-topic-label-health = { "" }
 newtab-topic-label-hobbies = Jocs
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
 # and understand their personal finances – from saving money to buying a home. See the
