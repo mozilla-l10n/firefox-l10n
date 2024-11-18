@@ -855,7 +855,7 @@ sync-choose-what-to-sync-dialog4 =
 
 sync-device-name-header = Nombre de dispositivo
 sync-device-name-change =
-    .label = Cambie el nombre del dispositivo …
+    .label = Cambiar el nombre del dispositivo…
     .accesskey = d
 sync-device-name-cancel =
     .label = Cancelar
