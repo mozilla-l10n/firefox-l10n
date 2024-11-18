@@ -90,7 +90,7 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Подводите итоги, проводите мозговые штурмы и многое другое во время веб-сёрфинга
+genai-onboarding-header = Резюмируйте, проводите мозговые штурмы и многое другое во время веб-сёрфинга
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Выберите ИИ-чат-бот для использования в боковой панели { -brand-short-name }. Мы покажем подробности о каждом чат-боте, когда вы его выберете. Переключайтесь в любое время. <a data-l10n-name="learn-more">Подробнее</a>
 genai-onboarding-primary = Продолжить
