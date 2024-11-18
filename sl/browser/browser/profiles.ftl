@@ -31,9 +31,43 @@ edit-profile-page-delete-button =
     .label = Izbriši
 edit-profile-page-profile-saved = Shranjeno
 new-profile-page-title = Nov profil
+new-profile-page-header = Prilagodite svoj novi profil
+new-profile-page-learn-more = Več o tem
+new-profile-page-done-button =
+    .label = Urejeno
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Odprti zavihki
+delete-profile-bookmarks = Zaznamki
+delete-profile-history = Zgodovina (obiskane strani, piškotki, podatki strani)
+delete-profile-autofill = Samodejno izpolnjevanje podatkov (naslovi, načini plačila)
+delete-profile-logins = Gesla
+# Button label
+delete-profile-cancel = Prekliči
+# Button label
+delete-profile-confirm = Izbriši
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Ognjič
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Sivka
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Lišaji
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Magnolija
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Ocean
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = Terakota
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Mah
+# The default light theme
+profiles-light-theme = Svetla
+# The default dark theme
+profiles-dark-theme = Temna
+# The default system theme
+profiles-system-theme = Sistemska
