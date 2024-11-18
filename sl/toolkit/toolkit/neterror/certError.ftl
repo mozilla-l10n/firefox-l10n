@@ -73,17 +73,22 @@ open-in-new-window-for-csp-or-xfo-error = Odpri stran v novem oknu
 csp-xfo-blocked-long-desc = Da bi zaščitil vašo varnost, { $hostname } { -brand-short-name(sklon: "dajalnik") } ne bo dovolil prikaza strani, ki je vdelana v drugo spletno mesto. Če si želite ogledati to stran, jo odprite v novem oknu.
 fp-certerror-view-certificate-link = Prikaži potrdilo spletnega mesta
 fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Stran je nastavljena tako, da dovoljuje samo varne povezave, vendar je prišlo do težave s potrdilom strani. Možno je, da to spletno mesto poskuša oponašati slab igralec. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker njegovo potrdilo ni veljavno za { $hostname }. Potrdilo je veljavno samo za: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ne veliko. Najverjetneje je težava v samem spletnem mestu.
 fp-certerror-self-signed-important-note = POMEMBNO OBVESTILO: Če poskušate to stran obiskati na intranetu podjetja, lahko vaše osebje za IT uporabi samopodpisana potrdila. Pomagajo vam lahko preveriti njihovo pristnost.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so res to tisto, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker je potrdilo poteklo dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker je potrdilo poteklo dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so res to tisto, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker potrdilo ne bo veljalo pred dnem { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker potrdilo ne bo veljalo pred dnem { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
