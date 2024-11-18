@@ -86,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = se sploh ne strinjam
 sidebar-callout-survey-features-question = V nadaljevanju so naštete možne nadgradnje stranske vrstice. Katera bi vam v { -brand-short-name(sklon: "mestnik") } najbolj koristila?
 sidebar-callout-survey-split-view = hkraten prikaz poljubnih dveh spletnih strani v razdeljenem pogledu
 sidebar-callout-survey-keep-website-open = možnost ves čas odprte spletne strani, na primer e-pošte ali koledarja, ob strani
+sidebar-callout-survey-saved-websites-2 = hiter dostop do zaznamkov
 sidebar-callout-survey-none-of-above = nič od naštetega
 sidebar-callout-survey-submit = Pošlji
 sidebar-callout-survey-thank-you = Hvala za vaše povratne informacije!
