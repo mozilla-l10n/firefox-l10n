@@ -365,6 +365,11 @@ onboarding-sign-up-secondary-button = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵ�
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = ᱟᱢ ᱛᱤᱱᱟᱹᱜ ᱜᱷᱟᱹᱲᱤᱡ ᱠᱷᱚᱱ { -brand-short-name } ᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ?
+onboarding-new-user-familiarity-based-survey-title = ᱟᱢ { -brand-short-name } ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱵᱟᱰᱟᱭ ᱮᱫᱟᱢ ?
+onboarding-new-user-survey-subtitle = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ { -brand-short-name } ᱟᱨᱦᱚᱸ ᱵᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱮᱢᱟᱭᱟ ᱾
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
 
 ## UI strings for the sidebar and vertical tabs
 
