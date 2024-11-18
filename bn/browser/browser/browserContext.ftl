@@ -75,8 +75,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
 
 ## Account toolbar Button
 
@@ -121,9 +121,9 @@ main-context-menu-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .aria-label = বুকমার্ক সম্পাদনা করুন...
+    .aria-label = বুকমার্ক সম্পাদনা করুন…
     .accesskey = m
-    .tooltiptext = বুকমার্ক সম্পাদনা করুন...
+    .tooltiptext = বুকমার্ক সম্পাদনা করুন ({ $shortcut })
 main-context-menu-open-link =
     .label = লিঙ্ক খুলুন O
     .accesskey = O
