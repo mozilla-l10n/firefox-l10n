@@ -335,3 +335,10 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Začni z brskanjem
 multi-cta-fox-doodle-main-browser-primary-button-label = Nastavi { -brand-short-name } kot glavni brskalnik
+multi-cta-fox-doodle-quick-reminder-subtitle = Kratek opomnik, da je lahko vaš najljubši brskalnik, osredotočen na zasebnost, le klik stran.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Naj bo vaš najljubši brskalnik, osredotočen na zasebnost, oddaljen le en klik. Nastavite { -brand-short-name } kot privzet brskalnik za odpiranje povezav ter ga zasidrajte v Dock.
+       *[other] Naj bo vaš najljubši brskalnik, osredotočen na zasebnost, oddaljen le en klik. Nastavite { -brand-short-name } kot privzet brskalnik za odpiranje povezav ter ga pripnite v opravilno vrstico.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Naj bo vaš najljubši brskalnik, osredotočen na zasebnost, oddaljen le en klik. Nastavite { -brand-short-name } kot privzet brskalnik za odpiranje povezav ter ga pripnite v opravilno vrstico in v meni Start.
