@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI klepetalnik
+    .label = UI-klepetalnik
 menu-view-review-checker =
     .label = Pregledovalnik mnenj
 sidebar-options-menu-button =
@@ -92,7 +92,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI klepetalnik
+    .label = UI-klepetalnik
 sidebar-menu-history-label =
     .label = Zgodovina
 sidebar-menu-synced-tabs-label =
@@ -122,6 +122,8 @@ sidebar-menu-open-bookmarks-tooltip = Odpri zaznamke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zapri zaznamke ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Odpri UI-klepetalnik
+sidebar-menu-close-ai-chatbot-tooltip = Zapri UI-klepetalnik
 
 ## Headings for sidebar menu panels.
 

@@ -356,6 +356,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = Pri sinhronizaciji { 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam krije hrbet
 onboarding-gratitude-security-and-privacy-subtitle = Hvala, ker uporabljate { -brand-short-name }, ki ga podpira Mozilla Foundation. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.
+onboarding-sign-up-description = Ustvarite si račun in vsi vaši pomembni podatki – gesla, zaznamki in drugi – bodo varno shranjeni in vam na voljo, ko se prijavite v katerokoli napravo.
 onboarding-sign-up-button = Registracija ali prijava
 onboarding-sign-up-secondary-button = Začnite z brskanjem
 
@@ -421,6 +422,7 @@ onboarding-genai-sidebar-secondary-button = Začni z brskanjem
 ## New user onboarding checklist
 
 onboarding-checklist-title = Dokončaj nastavitev { -brand-short-name(sklon: "rodilnik") }
+onboarding-checklist-subtitle = Izvedite naslednje korake in kar najbolje izkoristite brskalnik.
 onboarding-checklist-set-default = Nastavi { -brand-short-name } kot privzeti brskalnik
 onboarding-checklist-pin = Pripni { -brand-short-name } v opravilno vrstico
 onboarding-checklist-import = Uvozi iz prejšnjega brskalnika

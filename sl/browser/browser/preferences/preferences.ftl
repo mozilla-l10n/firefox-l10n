@@ -851,6 +851,13 @@ sync-engine-settings =
     .label = nastavitve
     .tooltiptext = Splošne nastavitve ter nastavitve zasebnosti in varnosti, ki ste jih spremenili
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Upravljajte, kaj se sinhronizira med povezanimi napravami
+    .style = min-width: 36em;
+    .buttonlabelaccept = Shrani
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odklopi …
+    .buttonaccesskeyextra2 = d
 
 ## The device name controls.
 

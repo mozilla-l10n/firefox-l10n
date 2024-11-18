@@ -29,15 +29,29 @@ edit-profile-page-explore-themes = Raziščite več tem
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Izbriši
+edit-profile-page-no-name = Nadenite profilu ime, s katerim ga boste lažje našli. Kadarkoli ga lahko preimenujete.
+edit-profile-page-duplicate-name = Ime profila se že uporablja. Poskusite z drugačnim imenom.
 edit-profile-page-profile-saved = Shranjeno
 new-profile-page-title = Nov profil
 new-profile-page-header = Prilagodite svoj novi profil
+new-profile-page-header-description = V vsakem profilu so nastavitve in podatki brskanja shranjeni ločeno od ostalih. Poleg tega so { -brand-short-name }ove zmogljive zaščite zasebnosti privzeto vključene.
 new-profile-page-learn-more = Več o tem
+new-profile-page-input-placeholder =
+    .placeholder = Izberite ime, na primer "Služba" ali "Osebno"
 new-profile-page-done-button =
     .label = Urejeno
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Izbriši profil { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Želite izbrisati profil { $profilename }?
+delete-profile-description = { -brand-short-name } bo z naprave trajno izbrisal naslednje podatke:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Odprta okna
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Odprti zavihki
 delete-profile-bookmarks = Zaznamki
