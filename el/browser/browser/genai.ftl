@@ -38,7 +38,7 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Ρώτησέ με
-    .value = Δημιουργία ερωτήσεων για αυτήν την επιλογή. Κάνε μου διάφορους τύπους ερωτήσεων, όπως πολλαπλών επιλογών, σωστού ή λάθους και σύντομων απαντήσεων. Περίμενε την απάντησή μου πριν προχωρήσεις στην επόμενη ερώτηση.
+    .value = Δημιούργησε ερωτήσεις για αυτήν την επιλογή. Κάνε μου διάφορους τύπους ερωτήσεων, όπως πολλαπλών επιλογών, σωστού ή λάθους και σύντομων απαντήσεων. Περίμενε την απάντησή μου πριν προχωρήσεις στην επόμενη ερώτηση.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Εξήγησε αυτό
@@ -135,6 +135,5 @@ genai-onboarding-gemini-price = Δωρεάν και επί πληρωμή επι
 genai-onboarding-huggingchat-generate = Δημιουργία κειμένου και κώδικα
 genai-onboarding-huggingchat-switch = Εναλλαγή ανάμεσα σε ένα ευρύ φάσμα ανοικτών μοντέλων
 genai-onboarding-huggingchat-price-2 = Δωρεάν· απαιτείται λογαριασμός μετά από έναν ορισμένο αριθμό αιτημάτων
-genai-onboarding-huggingchat-price = Δωρεάν· απαιτείται λογαριασμός για ορισμένες εργασίες
 genai-onboarding-lechat-generate = Δημιουργία κειμένου και κώδικα
 genai-onboarding-lechat-price = Δωρεάν· απαιτείται λογαριασμός
