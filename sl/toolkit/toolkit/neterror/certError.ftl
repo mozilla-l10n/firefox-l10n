@@ -75,6 +75,7 @@ fp-certerror-view-certificate-link = Prikaži potrdilo spletnega mesta
 fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ne veliko. Najverjetneje je težava v samem spletnem mestu.
+fp-certerror-self-signed-important-note = POMEMBNO OBVESTILO: Če poskušate to stran obiskati na intranetu podjetja, lahko vaše osebje za IT uporabi samopodpisana potrdila. Pomagajo vam lahko preveriti njihovo pristnost.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.

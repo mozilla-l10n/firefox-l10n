@@ -4,6 +4,10 @@
 
 profile-window-title = { -brand-short-name } – Izbira uporabniškega profila
 profile-window-heading = Izberite profil { -brand-short-name(sklon: "rodilnik") }
+profile-window-body = Ohranite službeno in zasebno brskanje, vključno z gesli in zaznamki, popolnoma ločeni. Ali pa ustvarite profile za vse, ki uporabljajo to napravo.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Prikaži, ko se odpre { -brand-short-name }
 profile-window-create-profile = Ustvari profil
 profile-card-edit-button =
     .title = Uredi profil
