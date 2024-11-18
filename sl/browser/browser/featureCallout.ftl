@@ -90,3 +90,7 @@ sidebar-callout-survey-saved-websites-2 = hiter dostop do zaznamkov
 sidebar-callout-survey-none-of-above = nič od naštetega
 sidebar-callout-survey-submit = Pošlji
 sidebar-callout-survey-thank-you = Hvala za vaše povratne informacije!
+sidebar-genai-survey-satisfaction-question = Kako ste zadovoljni z dostopom do UI-klepetalnika v stranski vrstici?
+sidebar-genai-survey-productive-question =
+    V kolikšni meri se strinjate oziroma ne strinjate s to izjavo:<br/>
+    “UI-klepetalnik veča mojo produktivnost”?
