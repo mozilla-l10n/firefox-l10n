@@ -359,6 +359,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami 
 onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót załožby Mozilla Foundation spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Daty pśez rědy synchronizěrowaś
+onboarding-sign-up-description = Registrěrujśo se za konto a wšykne waše wažne informacije – gronidła, cytańske znamjenja a wěcej – se wěsće składuju a su k dispoziciji, gaž se w někakem rěźe pśizjawjaśo.
 onboarding-sign-up-button = Registrěrowaś abo pśizjawiś
 onboarding-sign-up-secondary-button = Pśeglědowanje zachopiś
 
@@ -424,6 +425,7 @@ onboarding-genai-sidebar-secondary-button = Pśeglědowanje zachopiś
 ## New user onboarding checklist
 
 onboarding-checklist-title = Konfiguraciju { -brand-short-name } skóńcyś
+onboarding-checklist-subtitle = Dokóńcćo toś te kšace, aby nejwěcej ze swójogo dožywjenja pśeglědowanja wuwónoźeł.
 onboarding-checklist-set-default = Nastajśo { -brand-short-name } ako standardny wobglědowak
 onboarding-checklist-pin = Pśipějśo { -brand-short-name } k nadawkowej rědce
 onboarding-checklist-import = Z pjerwjejšnego wobglědowaka importěrowaś
