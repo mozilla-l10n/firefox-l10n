@@ -29,6 +29,8 @@ edit-profile-page-explore-themes = Raziščite več tem
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Izbriši
+edit-profile-page-profile-saved = Shranjeno
+new-profile-page-title = Nov profil
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
