@@ -239,11 +239,25 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = বুকমার্ক ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = ট্যাব ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ইতিহাস ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = কর্ম ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = অ্যাড-অন দেখুন
+quickactions-cmd-addons2 = অ্যাড-অন
+# Opens the bookmarks library window
+quickactions-bookmarks2 = বুকমার্ক পরিচালনা করুন
+quickactions-cmd-bookmarks = বুকমার্ক
 
 ## Bookmark Panel
 
@@ -341,11 +355,31 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = প্লেয়িং
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = নিঃশব্দ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = অটোপ্লে ব্লক করা হয়েছে
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = পিকচার-ইন-পিকচার
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { NUMBER($count) ->
+        [1] ট্যাব নিঃশব্দ করুন৷
+        [one] { $count } ট্যাব নিঃশব্দ করুন৷
+       *[other] { $count } ট্যাবগুলি নিঃশব্দ করুন৷
+    }
+browser-tab-unmute =
+    { NUMBER($count) ->
+        [1] ট্যাব আনমিউট করুন৷
+        [one] { $count } ট্যাব আনমিউট করুন৷
+       *[other] { $count } ট্যাবগুলি আনমিউট করুন৷
+    }
 
 ## Bookmarks toolbar items
 
