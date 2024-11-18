@@ -53,6 +53,9 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ᱠᱷᱚ
 mr1-onboarding-theme-header = ᱟᱢᱟᱜ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr1-onboarding-theme-subtitle = ᱢᱤᱫᱴᱟᱝ ᱛᱷᱤᱢ ᱥᱟᱞᱟᱜ ᱛᱮ { -brand-short-name } ᱥᱟᱡᱟᱣ ᱢᱮ ᱾
 mr1-onboarding-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+newtab-wallpaper-onboarding-title = ᱨᱚᱝ ᱨᱮᱭᱟᱜ ᱟᱨᱮᱡ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+newtab-wallpaper-onboarding-subtitle = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱢᱤᱫ ᱛᱟᱜᱽᱲᱟ ᱧᱮᱞ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱣᱟᱞᱯᱮᱯᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+newtab-wallpaper-onboarding-primary-button-label = ᱣᱟᱞᱯᱮᱯᱟᱨ ᱥᱮᱴ ᱢᱮ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
 mr1-onboarding-theme-label-light = ᱢᱟᱨᱥᱟᱞ
@@ -186,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
        *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = ᱴᱟᱥᱠᱵᱟᱨ ᱟᱨ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -330,4 +335,31 @@ onboarding-device-migration-image-alt =
     .aria-label = ᱢᱤᱫ ᱞᱮᱯᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱢᱤᱫ ᱯᱷᱚᱠᱥ ᱟᱸᱡᱚᱢᱟ ᱱᱚᱶᱟ ᱞᱚᱯᱴᱚᱯ ᱨᱮ ᱢᱤᱫ ᱢᱟᱣᱩᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 onboarding-device-migration-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
 onboarding-device-migration-subtitle = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚ ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱨ ᱱᱟᱜᱟᱢ ᱟᱹᱜᱩ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ  { -fxaccount-brand-name(capitalization: "sentence") } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱾
+onboarding-device-migration-subtitle2 = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ ᱟᱨ ᱱᱟᱜᱟᱢ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 onboarding-device-migration-primary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+
+## Add-ons Picker screen
+
+amo-picker-title = { -brand-short-name } ᱠᱩᱥᱤᱞᱮᱠᱷᱟ ᱵᱚᱫᱚᱞ ᱢᱮ
+amo-picker-subtitle = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱥ ᱞᱮᱠᱟ ᱜᱮᱭᱟ, ᱟᱨ ᱚᱱᱟ ᱫᱚ ᱟᱢ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱵᱷᱤᱰᱤᱭᱚ ᱰᱟᱩᱱᱞᱳᱰ, ᱰᱤᱞ ᱯᱟᱱᱛᱮ, ᱦᱟᱨᱠᱮᱛ ᱵᱤᱜᱽᱭᱟᱯ ᱵᱞᱚᱠ, ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱧᱮᱞᱚᱜ ᱵᱚᱫᱚᱞ ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱢᱟ ᱾
+amo-picker-install-button-label = { -brand-short-name } ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
+amo-picker-install-complete-label = ᱵᱚᱦᱟᱞᱮᱱᱟ
+amo-picker-collection-link = ᱟᱨᱦᱚᱸ ᱮᱰ-ᱚᱱ ᱯᱟᱱᱛᱮ ᱢᱮ
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = ᱟᱢ ᱴᱷᱤᱠ ᱨᱮ ᱫᱚᱦᱚᱢᱮᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ ᱞᱮ
+onboarding-easy-setup-security-and-privacy-subtitle = ᱟᱞᱮᱭᱟᱜ ᱵᱮᱼᱯᱷᱟᱭᱫᱟ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱵᱟᱦᱨᱮ ᱠᱚᱢᱯᱟᱱᱤ ᱠᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱢ ᱯᱟᱸᱡᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱜᱼᱟ ᱾
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱛᱮ ᱫᱚᱱ ᱡᱷᱚᱜ ᱫᱟᱱᱟᱝ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+onboarding-mobile-download-security-and-privacy-subtitle = ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱛᱟᱦᱮᱱᱟ, { -brand-short-name } ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ, ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱟᱭᱢᱟ ᱠᱚ ᱮᱱᱠᱨᱤᱯᱴ ᱮᱫᱟᱭ ᱾ ᱥᱟᱶᱛᱮ ᱟᱢ ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚᱢ ᱦᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+
+## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+

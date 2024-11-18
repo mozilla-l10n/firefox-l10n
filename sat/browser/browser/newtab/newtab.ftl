@@ -440,3 +440,5 @@ newtab-topic-selection-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 newtab-topic-selection-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 newtab-topic-selection-button-maybe-later = ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱛᱟᱭᱚᱢ ᱛᱮ
 newtab-topic-selection-privacy-link = ᱵᱟᱰᱟᱭ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱟᱞᱮ ᱰᱟᱴᱟ ᱵᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+newtab-topic-selection-button-update-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+newtab-topic-selection-button-pick-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
