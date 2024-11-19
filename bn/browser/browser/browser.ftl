@@ -743,6 +743,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = ব্যবহারকারীর নাম
 
 ##
 
