@@ -8,9 +8,22 @@ profile-window-heading = Bir { -brand-short-name } profili seçin
 profile-window-checkbox-label =
     .label = { -brand-short-name } açıldığında bu pencereyi göster
 profile-window-create-profile = Profil oluştur
+profile-card-edit-button =
+    .title = Profili düzenle
+    .aria-label = Profili düzenle
+profile-card-delete-button =
+    .title = Profili sil
+    .aria-label = Profili sil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = { $profileName } profilini aç
+    .aria-label = { $profileName } profilini aç
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Orijinal profil
 edit-profile-page-title = Profili düzenle
 edit-profile-page-header = Profilinizi düzenleyin
 edit-profile-page-profile-name-label = Profil adı

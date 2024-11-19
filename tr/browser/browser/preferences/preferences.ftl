@@ -788,6 +788,9 @@ sync-currently-syncing-creditcards = Kredi kartları
 sync-currently-syncing-payment-methods = Ödeme yöntemleri
 sync-currently-syncing-addons = Eklentiler
 sync-currently-syncing-settings = Ayarlar
+sync-manage-options =
+    .label = Eşitlemeyi yönet…
+    .accesskey = E
 sync-change-options =
     .label = Değiştir…
     .accesskey = D
@@ -840,6 +843,13 @@ sync-engine-settings =
     .label = Ayarlar
     .tooltiptext = Değiştirdiğiniz genel ayarlar, gizlilik ayarları ve güvenlik ayarları
     .accesskey = A
+sync-choose-what-to-sync-dialog4 =
+    .title = Bağlı tüm cihazlarınızda nelerin eşitleneceğini yönetin
+    .style = min-width: 36em;
+    .buttonlabelaccept = Kaydet
+    .buttonaccesskeyaccept = K
+    .buttonlabelextra2 = Bağlantıyı kes…
+    .buttonaccesskeyextra2 = B
 
 ## The device name controls.
 
