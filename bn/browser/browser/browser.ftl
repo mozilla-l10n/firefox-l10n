@@ -260,10 +260,60 @@ quickactions-bookmarks2 = বুকমার্ক পরিচালনা ক�
 quickactions-cmd-bookmarks = বুকমার্ক
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ইতিহাস সাফ করুন
+quickactions-cmd-clearhistory = ইতিহাস পরিষ্কার করুন
+# Opens about:downloads page
+quickactions-downloads2 = ডাউনলোড দেখুন
+quickactions-cmd-downloads = ডাউনলোড
+# Opens about:addons page in the extensions section
+quickactions-extensions = এক্সটেনশন পরিচালনা করুন
+quickactions-cmd-extensions = এক্সটেনশন
+# Opens the devtools web inspector
+quickactions-inspector2 = বিকাশকারী সরঞ্জাম খুলুন
+quickactions-cmd-inspector = পরিদর্শক, devtools
+# Opens about:logins
+quickactions-logins2 = পাসওয়ার্ড পরিচালনা করুন
+quickactions-cmd-logins = লগইন, পাসওয়ার্ড
+# Opens about:addons page in the plugins section
+quickactions-plugins = প্লাগইন পরিচালনা করুন
+quickactions-cmd-plugins = প্লাগইন
+# Opens the print dialog
+quickactions-print2 = প্রিন্ট পৃষ্ঠা
+quickactions-cmd-print = মুদ্রণ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = পৃষ্ঠা পিডিএফ হিসাবে সংরক্ষণ করুন
+quickactions-cmd-savepdf = পিডিএফ
+# Opens a new private browsing window
+quickactions-private2 = ব্যক্তিগত উইন্ডো খুলুন
+quickactions-cmd-private = ব্যক্তিগত ব্রাউজিং
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = রিফ্রেশ করুন { -brand-short-name }
+quickactions-cmd-refresh = রিফ্রেশ
+# Restarts the browser
+quickactions-restart = পুনরায় চালু করুন { -brand-short-name }
+quickactions-cmd-restart = রিস্টার্ট করুন
+# Opens the screenshot tool
+quickactions-screenshot3 = একটি স্ক্রিনশট নিন
+quickactions-cmd-screenshot = স্ক্রিনশট
+# Opens about:preferences
+quickactions-settings2 = সেটিংস পরিচালনা করুন
+quickactions-cmd-settings = সেটিংস, পছন্দ, বিকল্প
+# Opens about:addons page in the themes section
+quickactions-themes = থিম পরিচালনা করুন
+quickactions-cmd-themes = থিম
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = আপডেট করুন { -brand-short-name }
+quickactions-cmd-update = আপডেট
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = পৃষ্ঠার উৎস দেখুন
+quickactions-cmd-viewsource = উৎস দেখুন, উৎস
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = দ্রুত ক্রিয়া সম্পর্কে আরও জানুন
 
 ## Bookmark Panel
 
 bookmarks-add-bookmark = বুকমার্ক যোগ করুন
+bookmarks-edit-bookmark = বুকমার্ক এডিট করুন
 bookmark-panel-cancel =
     .label = বাতিল
     .accesskey = C
@@ -298,8 +348,10 @@ identity-header-security-with-host =
     .title = { $host } এর জন্য সংযোগ সুরক্ষা
 identity-connection-not-secure = সংযোগ নিরাপদ নয়
 identity-connection-secure = সংযোগ সুরক্ষিত
+identity-connection-failure = সংযোগ ব্যর্থতা
 identity-connection-internal = এটি একটি সুরক্ষিত { -brand-short-name } পাতা।
 identity-connection-file = এই পাতা আপনার কম্পিউটারে জমা হয়েছে।
+identity-connection-associated = এই পৃষ্ঠাটি অন্য পৃষ্ঠা থেকে লোড করা হয়েছে৷
 identity-extension-page = এই পাতাটি কোন এক্সটেনশন থেকে লোড হয়েছে।
 identity-active-blocked = { -brand-short-name } নিরাপদ নয় তাই এই পাতার অংশ ব্লক করা হয়েছে।
 identity-custom-root = Mozilla দ্বারা স্বীকৃত নয় এমন প্রশংসাপত্র জারিকারী দ্বারা সংযোগ যাচাই করা হয়েছে।
@@ -307,6 +359,9 @@ identity-passive-loaded = এই পাতার অংশগুলো নির
 identity-active-loaded = আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন।
 identity-weak-encryption = এই পাতা দুর্বল এনক্রিপশন ব্যবহার করে।
 identity-insecure-login-forms = এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।
+identity-https-only-connection-upgraded = (HTTPS এ আপগ্রেড করা হয়েছে)
+identity-https-only-label = HTTPS-শুধুমাত্র মোড
+identity-https-only-label2 = এই সাইটটিকে স্বয়ংক্রিয়ভাবে একটি সুরক্ষিত সংযোগে আপগ্রেড করুন৷
 identity-https-only-info-turn-on2 = এই সাইটের জন্য HTTPS-শুধু মোড চালু করুন যদি আপনি { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে চান।
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাটি ভাঙা বলে মনে হয়, তাহলে আপনি অনিরাপদ HTTP ব্যবহার করে পুনরায় লোড করার জন্য এই সাইটের জন্য HTTPS-শুধু মোড বন্ধ করতে চাইতে পারেন।
 identity-https-only-info-turn-on3 = এই সাইটের জন্য HTTPS আপগ্রেড চালু করুন যদি আপনি চান { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে।
