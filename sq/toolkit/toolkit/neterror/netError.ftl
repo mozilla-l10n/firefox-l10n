@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name }-i, për ndonjë arsye, nuk mund t
 neterror-load-error-try-again = Sajti mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.
 neterror-load-error-connection = Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.
 neterror-load-error-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga një “firewall”, ose ndërmjetës, sigurohuni që { -brand-short-name }-it i është lejuar hyrja në Web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Nëse po provoni të ngarkoni një faqe rrjeti vendor, ju lutemi, shihni nëse i janë akorduar{ -brand-short-name }-it leje mbi Rrjetin Vendor, te rregullimet për Privatësi & Siguri të macOS-it.
 neterror-captive-portal = Duhet të bëni hyrjen në këtë rrjet, përpara se të përdorni Internetin.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
