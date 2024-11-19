@@ -370,6 +370,11 @@ onboarding-new-user-familiarity-based-survey-title = ᱟᱢ { -brand-short-name 
 onboarding-new-user-survey-subtitle = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ { -brand-short-name } ᱟᱨᱦᱚᱸ ᱵᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱮᱢᱟᱭᱟ ᱾
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+onboarding-new-user-survey-legal-link-label = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ “{ onboarding-new-user-survey-next-button-label },” ᱟᱢ { -brand-product-name } ᱨᱮᱭᱟᱜ <a data-l10n-name="privacy_notice">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱱᱚᱴᱤᱥ</a> ᱥᱟᱞᱟᱜ ᱦᱮᱥᱤᱭᱟᱹᱨᱟᱹᱜ ᱟᱢ
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = ᱤᱧ ᱫᱚ ᱢᱤᱫ ᱵᱨᱟᱱᱰ ᱱᱟᱶᱟ ᱜᱮᱭᱟᱹᱧ
+onboarding-new-user-survey-time-based-option-2 = 1 ᱪᱟᱸᱫᱚ ᱠᱷᱚᱱ ᱠᱚᱢ
+onboarding-new-user-survey-time-based-option-3 = 1 ᱪᱟᱸᱫᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ, ᱞᱮᱛᱟᱲ ᱜᱮ
 
 ## UI strings for the sidebar and vertical tabs
 
