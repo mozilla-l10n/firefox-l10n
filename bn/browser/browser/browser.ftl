@@ -362,6 +362,12 @@ identity-insecure-login-forms = এই পাতায় লগইন করতে
 identity-https-only-connection-upgraded = (HTTPS এ আপগ্রেড করা হয়েছে)
 identity-https-only-label = HTTPS-শুধুমাত্র মোড
 identity-https-only-label2 = এই সাইটটিকে স্বয়ংক্রিয়ভাবে একটি সুরক্ষিত সংযোগে আপগ্রেড করুন৷
+identity-https-only-dropdown-on =
+    .label = চালু
+identity-https-only-dropdown-off =
+    .label = বন্ধ
+identity-https-only-dropdown-off-temporarily =
+    .label = সাময়িকভাবে বন্ধ
 identity-https-only-info-turn-on2 = এই সাইটের জন্য HTTPS-শুধু মোড চালু করুন যদি আপনি { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে চান।
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাটি ভাঙা বলে মনে হয়, তাহলে আপনি অনিরাপদ HTTP ব্যবহার করে পুনরায় লোড করার জন্য এই সাইটের জন্য HTTPS-শুধু মোড বন্ধ করতে চাইতে পারেন।
 identity-https-only-info-turn-on3 = এই সাইটের জন্য HTTPS আপগ্রেড চালু করুন যদি আপনি চান { -brand-short-name } যখন সম্ভব সংযোগ আপগ্রেড করতে।
@@ -437,19 +443,41 @@ browser-tab-unmute =
         [one] { $count } ট্যাব আনমিউট করুন৷
        *[other] { $count } ট্যাবগুলি আনমিউট করুন৷
     }
+browser-tab-unblock =
+    { NUMBER($count) ->
+        [1] ট্যাব প্লে করুন
+       *[other] PLAY { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
 browser-import-button2 =
     .label = বুকমার্ক আমদানি করুন…
     .tooltiptext = অন্য ব্রাউজার থেকে { -brand-short-name }-এ বুকমার্ক আমদানি করুন
+bookmarks-toolbar-empty-message = দ্রুত অ্যাক্সেসের জন্য, আপনার বুকমার্কগুলি এখানে বুকমার্ক টুলবারে রাখুন৷ <a data-l10n-name="manage-bookmarks">বুকমার্কগুলি পরিচালনা করুন...</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = ক্যামেরা:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = ক্যামেরা:
+popup-select-microphone-device =
+    .value = মাইক্রোফোন:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = মাইক্রোফোন
+popup-select-speaker-icon =
+    .tooltiptext = স্পীকার
+popup-select-window-or-screen =
+    .label = উইন্ডো বা পর্দা:
+    .accesskey = W
 popup-all-windows-shared = আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = আপনি ভাগ করছেন { -brand-short-name }। আপনি যখন একটি নতুন ট্যাবে স্যুইচ করবেন তখন অন্য লোকেরা দেখতে পাবে৷
 
 ## DevTools F12 popup
 
@@ -555,6 +583,11 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-panel-header = পিকচার-ইন-পিকচার
+picture-in-picture-panel-headline = এই ওয়েবসাইটটি পিকচার-ইন-পিকচার সুপারিশ করে না
+picture-in-picture-panel-body = পিকচার-ইন-পিকচার সক্ষম থাকা অবস্থায় ভিডিওগুলি বিকাশকারীর উদ্দেশ্য অনুসারে প্রদর্শিত নাও হতে পারে৷
+picture-in-picture-enable-toggle =
+    .label = যাইহোক সক্ষম করুন
 
 ## Full Screen and Pointer Lock UI
 
@@ -574,6 +607,9 @@ pointerlock-warning-no-domain = এই নথিতে পয়েন্টা�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = বুকমার্ক পরিচালনা করুন
+bookmarks-recent-bookmarks-panel-subheader = সাম্প্রতিক বুকমার্ক
 bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
@@ -601,6 +637,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] বুকমার্ক টুলবার লুকাও
            *[other] বুকমার্ক টুলবার প্রদর্শন
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকান
+           *[other] বুকামার্ক টুলবার দেখান
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -614,6 +656,8 @@ bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
 bookmarks-tools =
     .label = বুকমার্কের সরঞ্জাম
+bookmarks-subview-edit-bookmark =
+    .label = এই বুকমার্কটি সম্পাদনা করুন...
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
