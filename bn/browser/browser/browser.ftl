@@ -478,9 +478,15 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = আপনি ভাগ করছেন { -brand-short-name }। আপনি যখন একটি নতুন ট্যাবে স্যুইচ করবেন তখন অন্য লোকেরা দেখতে পাবে৷
+sharing-warning-screen = আপনি আপনার পুরো স্ক্রিন শেয়ার করছেন। আপনি যখন একটি নতুন ট্যাবে স্যুইচ করবেন তখন অন্য লোকেরা দেখতে পাবে৷
+sharing-warning-proceed-to-tab =
+    .label = ট্যাবে এগিয়ে যান
+sharing-warning-disable-for-session =
+    .label = এই সেশনের জন্য শেয়ারিং সুরক্ষা অক্ষম করুন৷
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = F12 শর্টকাট ব্যবহার করতে, প্রথমে ব্রাউজার টুলস মেনুর মাধ্যমে DevTools খুলুন।
 
 ## URL Bar
 
@@ -507,6 +513,10 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = অনুসন্ধানের পদ লিখুন
     .aria-label = { $name } অনুসন্ধান করুন
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = অনুসন্ধান পদ লিখুন
+    .aria-label = বুকমার্ক অনুসন্ধান করুন
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
