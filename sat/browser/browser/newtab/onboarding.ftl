@@ -375,9 +375,52 @@ onboarding-new-user-survey-legal-link-label = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ �
 onboarding-new-user-survey-time-based-option-1 = ᱤᱧ ᱫᱚ ᱢᱤᱫ ᱵᱨᱟᱱᱰ ᱱᱟᱶᱟ ᱜᱮᱭᱟᱹᱧ
 onboarding-new-user-survey-time-based-option-2 = 1 ᱪᱟᱸᱫᱚ ᱠᱷᱚᱱ ᱠᱚᱢ
 onboarding-new-user-survey-time-based-option-3 = 1 ᱪᱟᱸᱫᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ, ᱞᱮᱛᱟᱲ ᱜᱮ
+onboarding-new-user-survey-time-based-option-4 = 1 ᱪᱟᱸᱫᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ, ᱚᱝᱠᱟ ᱜᱮ
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = ᱤᱧ ᱫᱚ ᱢᱤᱫ ᱵᱨᱟᱱᱰ ᱱᱟᱶᱟ ᱜᱮᱭᱟᱹᱧ
+onboarding-new-user-survey-familiarity-based-option-2 = ᱤᱧ ᱱᱚᱣᱟ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱫᱟᱹᱧ
+onboarding-new-user-survey-familiarity-based-option-3 = ᱤᱧ ᱱᱚᱣᱟ ᱥᱟᱶ ᱟᱹᱰᱤ ᱵᱟᱥ ᱞᱮᱠᱷᱟ ᱵᱟᱰᱟᱭ ᱢᱮᱱᱟᱜᱼᱟ
+onboarding-new-user-survey-familiarity-based-option-4 = ᱤᱧ ᱱᱚᱣᱟ ᱞᱟᱦᱟ ᱨᱮᱧ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱣᱟ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱛᱚ ᱦᱩᱭ ᱮᱱᱟ
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = ᱟᱞᱮ ᱞᱟᱹᱭ ᱞᱮᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱚᱠᱟᱨᱮᱢ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱥᱮᱴᱤᱝ ᱨᱮ ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱱᱚᱣᱟ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = ᱥᱟᱢᱟᱝ ᱨᱮ ᱴᱮᱵᱽ
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = ᱪᱮᱛᱟᱱ ᱨᱮ ᱴᱮᱵᱽ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = ᱥᱤᱫᱷ ᱴᱮᱵᱽ ᱠᱚ ᱱᱚᱸᱰᱮ ᱢᱮᱱᱟᱜᱼᱟ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = ᱥᱤᱫᱷ ᱴᱮᱵᱽ ᱮᱦᱚᱵᱚᱜ ᱠᱟᱱᱟ
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱥᱟᱭᱤᱰ ᱨᱮ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾ ᱥᱟᱭᱤᱰᱵᱟᱨ ᱥᱮᱴᱤᱝ ᱨᱮ ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱱᱚᱣᱟ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = ᱥᱤᱫᱷ ᱴᱮᱵᱽ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ
+onboarding-flair-text = ᱱᱟᱶᱟ!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = ᱜᱤᱛᱤᱡ ᱴᱮᱵᱽ ᱫᱚᱦᱚᱭ ᱢᱮ
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = ᱢᱤᱫ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱣᱤᱱᱰᱚ ᱫᱚ { -brand-shorter-name } ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱟᱛᱮ ᱥᱠᱨᱤᱱ ᱥᱟᱢᱟᱝ ᱨᱮ ᱴᱮᱵᱽ ᱩᱫᱩᱜ ᱮᱫᱟᱭ ᱾
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = ᱢᱤᱫ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱣᱤᱱᱰᱚ ᱫᱚ { -brand-shorter-name } ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱟᱛᱮ ᱥᱠᱨᱤᱱ ᱥᱟᱢᱟᱝ ᱨᱮ ᱴᱮᱵᱽ ᱩᱫᱩᱜ ᱮᱫᱟᱭ ᱾
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = ᱢᱤᱫ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱣᱤᱱᱰᱚ ᱪᱮᱛᱟᱱ ᱥᱟᱶ ᱴᱮᱵᱽ ᱩᱫᱩᱜ ᱮᱫᱟᱭ ᱾
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = ᱢᱤᱫ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱣᱤᱱᱰᱚ ᱪᱮᱛᱟᱱ ᱥᱟᱶ ᱴᱮᱵᱽ ᱩᱫᱩᱜ ᱮᱫᱟᱭ ᱾
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱢᱤᱫ AI ᱪᱟᱴᱵᱚᱴ ᱪᱮᱥᱴᱟᱭ ᱢᱮ
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱠᱚ ᱩᱥᱟᱹᱨ ᱢᱮ, ᱵᱤᱪᱟᱹᱨ ᱦᱚᱨᱟ, ᱰᱨᱟᱯᱷᱴ ᱥᱟᱱᱫᱮᱥ ᱠᱚ — ᱡᱚᱛᱚ ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱞᱮᱠᱟ ᱜᱮ ᱾ ᱵᱟᱹᱲᱛᱤ ᱯᱨᱚᱣᱟᱭᱤᱰᱟᱨ ᱠᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾  ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ᱾  <a data-l10n-name="learn-more">ᱵᱟᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
+onboarding-genai-sidebar-primary-button = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+onboarding-genai-sidebar-secondary-button = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 
 ## New user onboarding checklist
 
