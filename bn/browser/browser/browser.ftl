@@ -737,6 +737,9 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
 eme-notifications-drm-content-playing-manage = সেটিংস পরিচালনা করুন
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = খারিজ
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
