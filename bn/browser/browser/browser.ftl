@@ -696,12 +696,24 @@ repair-text-encoding-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = সেটিংস
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] সেটিংস খুলুন ({ $shortcut })
+           *[other] সেটিংস খুলুন
+        }
 toolbar-overflow-customize-button =
     .label = কাস্টোমাইজ টুলবার…
     .accesskey = C
 toolbar-button-email-link =
     .label = ইমেইল লিঙ্ক
     .tooltiptext = এই পাতায় একটি লিঙ্ক ইমেল করুন
+toolbar-button-logins =
+    .label = পাসওয়ার্ড
+    .tooltiptext = পাসওয়ার্ড দেখুন ও পরিচালনা করুন
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -724,6 +736,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
+eme-notifications-drm-content-playing-manage = সেটিংস পরিচালনা করুন
 
 ## Password save/update panel
 
