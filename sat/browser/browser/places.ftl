@@ -64,6 +64,9 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
     .accesskey = F
+places-forget-domain-data =
+    .label = ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ…
+    .accesskey = F
 places-sortby-name =
     .label = ᱧᱩᱛᱩᱢ ᱫᱟᱨᱟᱭ ᱛᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = r
@@ -97,7 +100,7 @@ places-delete-page =
            *[other] ᱥᱟᱦᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
         }
     .accesskey = D
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱚᱢᱵᱷᱵᱲᱟᱣ ᱢᱮ
 # This label is used when a managed bookmarks folder doesn't have a name.

@@ -12,10 +12,13 @@
 
 policy-3rdparty = ᱱᱤᱛᱤ ᱠᱚ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ chrome.storage.managed ᱛᱮ WebExtensions ᱟᱫᱮᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 policy-AllowedDomainsForApps = Google ᱠᱟᱹᱢᱤ ᱴᱚᱴᱷᱟ ᱨᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱢᱮᱱᱟᱜ ᱰᱳᱢᱮᱱ ᱠᱚ ᱵᱟᱛᱟᱣ ᱢᱮ ᱾
+policy-AllowFileSelectionDialogs = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱰᱟᱭᱞᱚᱜᱽ ᱨᱮᱭᱟᱜ ᱪᱷᱟᱹᱲ ᱮᱢᱚᱜ ᱢᱮ ᱾
 policy-AppAutoUpdate = ᱟᱡᱛᱮ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱢ ᱟᱨᱵᱟᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-AppUpdatePin = { -brand-short-name } ᱵᱤᱥᱮᱥ ᱵᱷᱚᱨᱥᱚᱱ ᱠᱷᱚᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱷᱚᱱ ᱟᱠᱮᱴ ᱢᱮ ᱾
 policy-AppUpdateURL = ᱠᱚᱥᱴᱚᱢ ᱮᱯ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ URL ᱥᱮᱴ ᱢᱮ ᱾
 policy-Authentication = ᱱᱚᱶᱟ ᱥᱚᱦᱚᱫ ᱮᱢᱮᱫ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱤᱱᱴᱤᱜᱽᱨᱮᱴᱮᱰ ᱚᱛᱷᱮᱱᱴᱤᱠᱮᱥᱚᱱ ᱥᱮᱴ ᱢᱮ ᱾
+policy-AutofillAddressEnabled = ᱴᱷᱤᱠᱟᱹᱱᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱴᱚᱯᱷᱤᱞ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾
+policy-AutofillCreditCardEnabled = ᱯᱮᱢᱮᱱᱴ ᱦᱚᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱴᱚᱯᱷᱤᱞ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾
 policy-AutoLaunchProtocolsFromOrigins = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱵᱤᱱ ᱫᱮᱠᱷᱟᱣ ᱠᱟᱛᱮ ᱞᱤᱥᱴᱤ ᱟᱠᱟᱱ ᱢᱩᱞ ᱡᱟᱭᱜᱟ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱵᱟᱦᱨᱮ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱞᱤᱥᱴᱤ ᱵᱟᱛᱟᱣ ᱢᱮ ᱾
 policy-BackgroundAppUpdate2 = ᱵᱮᱠᱜᱽᱨᱟᱣᱱᱰ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱤᱭᱟᱹ ᱮᱢ ᱢᱮ ᱟᱨᱵᱟᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-BlockAboutAddons = ᱮᱰᱼᱚᱱᱥ ᱢᱚᱱᱮᱡᱟᱨ ᱛᱮ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱢᱮ (about:addons) ᱾
@@ -25,6 +28,7 @@ policy-BlockAboutSupport = about:support ᱥᱟᱦᱴᱟ ᱛᱮ ᱟᱫᱮᱨ ᱟ
 policy-Bookmarks = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ, ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱢᱮᱱᱩ ᱥᱮ ᱚᱱᱟ ᱢᱩᱫᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱯᱚᱴᱚᱢ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱵᱮᱱᱟᱣ ᱢᱮ ᱾
 policy-CaptivePortal = ᱠᱮᱯᱴᱤᱵᱷ ᱯᱚᱨᱴᱟᱞ ᱜᱚᱲᱚ ᱫᱚ ᱮᱢ ᱟᱨ ᱵᱟᱝ ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-CertificatesDescription = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱮᱞᱮᱫ ᱢᱮ ᱟᱨ ᱵᱟᱝ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+policy-ContentAnalysis = ᱰᱟᱴᱟ-ᱦᱟᱨᱟᱣ-ᱵᱟᱱᱪᱟᱣ ᱮᱡᱮᱱᱴ ᱥᱟᱶ ᱡᱚᱯᱲᱟᱣ ᱪᱟᱹᱞᱩ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-Cookies = ᱠᱩᱠᱤ ᱥᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱢᱟᱱᱟ ᱥᱮ ᱮᱢ ᱪᱷᱚᱭᱟ ᱾
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = ᱠᱚᱱᱴᱮᱱᱚᱨ ᱛᱮ ᱱᱤᱛᱤ ᱵᱟᱵᱚᱛ ᱡᱤᱱᱤᱥ ᱫᱚᱦᱚᱭᱟ ᱾
