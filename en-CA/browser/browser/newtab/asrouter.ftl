@@ -284,6 +284,7 @@ tail-fox-spotlight-secondary-button = Not now
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Older versions of { -brand-short-name } may start to have problems on January 14, 2025.</strong>
 root-certificate-succession-infobar-march-message = <strong>Update to keep using { -brand-short-name } after March 14, 2025.</strong>
 root-certificate-succession-infobar-link = Why do I need to update?
 root-certificate-succession-infobar-primary-button =
@@ -299,3 +300,6 @@ fxa-menu-message-close-button =
     .title = Close
     .aria-label = Close
 fxa-menu-message-mobile-collapsed-text = Sync with your phone
+
+## Multi-CTA Fox Doodle Spotlight
+
