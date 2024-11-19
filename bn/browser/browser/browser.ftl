@@ -744,9 +744,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Password save/update panel
 
 panel-save-update-username = ব্যবহারকারীর নাম
+panel-save-update-password = পাসওয়ার্ড
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = আরও…
 ui-tour-info-panel-close =
     .tooltiptext = বন্ধ
 
