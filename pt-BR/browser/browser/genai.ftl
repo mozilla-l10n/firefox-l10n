@@ -41,7 +41,7 @@ genai-prompts-quiz =
     .value = Pergunte-me sobre essa seleção. Formule vários tipos de perguntas, por exemplo, múltipla escolha, verdadeiro ou falso ou resposta curta. Espere minha resposta antes de passar para a próxima pergunta.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = Explicar isto
+    .label = Explicar
     .value = Explique os principais conceitos dessa seleção, usando palavras simples. Use exemplos também.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
