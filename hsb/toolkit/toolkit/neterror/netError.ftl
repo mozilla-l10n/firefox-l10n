@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } njemóže tutu stronu z někajkej
 neterror-load-error-try-again = Sydło móhło nachwilu k dispoziciji njestać abo přećežene być. Spytajcé za mało wokomikow hišće raz.
 neterror-load-error-connection = Jeli njemóžeće někotre strony začitać, přepruwujće zwisk wašeje ličakoweje syće.
 neterror-load-error-firewall = Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo { -brand-short-name } smě na Web přistup měć.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Jeli pospytujeće, stronu lokalneje syće začitać, přepruwujće prošu, hač je { -brand-short-name } prawa lokalneje syće w nastajenjach priwatnosće a wěstoty dóstał.
 neterror-captive-portal = Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup k internetej měć.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
