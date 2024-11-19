@@ -671,11 +671,16 @@ bookmarks-toolbar-placeholder =
     .title = বুকমার্ক টুলবারের আইটেম
 bookmarks-toolbar-placeholder-button =
     .label = বুকমার্ক টুলবারের আইটেম
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = বর্তমান ট্যাব বুকমার্ক করুন...
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = বুকমার্ক
+library-recent-activity-title =
+    .value = সাম্প্রতিক কার্যকলাপ
 
 ## Pocket toolbar button
 
@@ -685,6 +690,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = টেক্সট এনকোডিং মেরামত করুন
+    .tooltiptext = পেজের কনটেক্সট থেকে টেক্সটের সঠিক এনকোডিং অনুমান করুন
 
 ## Customize Toolbar Buttons
 
