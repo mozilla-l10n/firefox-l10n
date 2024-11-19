@@ -289,6 +289,14 @@ find-more-themes = Dalšne drastwy pytaś
 # used for screen readers.
 addon-options-button =
     .aria-label = Dalšne nastajenja
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Rozšyrjenja a drastwy wam zmóžnjaju, { -brand-product-name } pśiměriś. Mógu priwatnosć pówušyś,
+    produktiwitu pówušyś, medije pólěpšyś, naglěd { -brand-product-name } změniś a
+    wjele wěcej. Toś te małe programy se cesto wót tśeśich wuwijaju. How jo
+    wuběrk, kótaryž { -brand-product-name } <a data-l10n-name="learn-more-trigger">dopórucujo</a>
+    za wósebnjejšu wěstotu, wósebnjejše wugbaśe a wósebnjejšu funkcionalnosć.
 
 ## Add-on actions
 
