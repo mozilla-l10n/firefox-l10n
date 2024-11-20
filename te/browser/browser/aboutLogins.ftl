@@ -4,6 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ప్రవేశాలు & సంకేతపదాలు
+about-logins-login-filter =
+    .placeholder = ప్రవేశాలను వెతకండి
+    .key = F
 about-logins-page-title-name = సంకేతపదాలు
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-sync-button = Sync లోనికి ప్రవేశించండి
