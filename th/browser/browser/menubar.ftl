@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ที่คั่นหน้าในมือถือ
 
+## Profiles Menu
+
+menu-profiles =
+    .label = โปรไฟล์
+menu-profiles-manage-profiles =
+    .label = จัดการโปรไฟล์
+menu-profiles-new-profile =
+    .label = โปรไฟล์ใหม่
+
 ## Tools Menu
 
 menu-tools =

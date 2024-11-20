@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } ไม่สามารถโห
 neterror-load-error-try-again = ไซต์อาจไม่พร้อมใช้งานชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่
 neterror-load-error-connection = หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ
 neterror-load-error-firewall = หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า { -brand-short-name } ได้รับอนุญาตให้เข้าถึงเว็บ
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = ถ้าคุณกำลังพยายามโหลดหน้าเครือข่ายเฉพาะที่ โปรดตรวจสอบว่า { -brand-short-name } ได้รับสิทธิ์อนุญาตการเข้าถึงเครือข่ายในพื้นที่ในการตั้งค่า “ความเป็นส่วนตัวและความปลอดภัย” ใน macOS
 neterror-captive-portal = คุณต้องเข้าสู่ระบบเครือข่ายนี้ก่อนที่คุณจะสามารถเข้าถึงอินเทอร์เน็ต
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -148,3 +150,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = ถ้าคุณไม่
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> มีนโยบายการรักษาความปลอดภัยที่เรียกว่า HTTP Strict Transport Security (HSTS) ซึ่งหมายความว่า { -brand-short-name } สามารถทำการเชื่อมต่อได้อย่างปลอดภัยเท่านั้น คุณไม่สามารถเพิ่มข้อยกเว้นเพื่อเยี่ยมชมไซต์นี้ได้
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = น่าจะไม่ต้องทำอะไร เนื่องจากน่าจะเป็นเพราะมีปัญหากับตัวไซต์มากกว่า
