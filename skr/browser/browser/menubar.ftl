@@ -254,6 +254,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = موبائل بک مارک
 
+## Profiles Menu
+
+menu-profiles =
+    .label = پروفائلاں
+menu-profiles-manage-profiles =
+    .label = پروفائلاں منیج کرو
+menu-profiles-new-profile =
+    .label = نویں پروفائل
+
 ## Tools Menu
 
 menu-tools =

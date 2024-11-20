@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = اے آئی چیٹ بوٹ
 menu-view-review-checker =
     .label = نظرثانی پڑتالݨ آلا
+sidebar-options-menu-button =
+    .title = مینیو کھولو
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = سائیڈ بار کھنڈاؤ تے ولھیٹو
 sidebar-visibility-setting-hide-sidebar =
     .label = سائیڈ بار ݙکھاؤ تے لُکاؤ
-sidebar-customize-settings-header =
-    .label = سائیڈ بار ترتیباں
-sidebar-visibility-always-show =
-    .label = ہمیشاں ݙکھاؤ
-sidebar-visibility-hide-sidebar =
-    .label = سائیڈ بار لکاؤ
 
 ## Labels for sidebar context menu items
 
@@ -108,6 +104,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = نظرثانی پڑتالݨ آلا
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -134,16 +133,8 @@ sidebar-syncedtabs-title = ٻیاں ڈیوائساں کنوں ٹیباں
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } تے ٹیب بند کرو
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = سائیڈ بار کھنڈاؤ
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = سائیڈ بار ولھیٹو
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = سائیڈ بار ݙکھاؤ
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = سائیڈ بار لکاؤ
 sidebar-widget-expand-sidebar =
     .tooltiptext = سائیڈ بار کھنڈاؤ
     .label = بغلی بار

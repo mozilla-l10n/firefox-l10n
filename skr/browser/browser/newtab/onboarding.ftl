@@ -344,6 +344,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = جہڑیلے تُسا
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } تُہاݙی کن٘ڈ تے ہِے
 onboarding-gratitude-security-and-privacy-subtitle = موزیلا فاؤنڈیشن دے تعاون نال { -brand-short-name }ورتݨ کِیتے تھورا۔ تُہاݙے تعاون نال، اَساں انٹرنیٹ کوں ساریاں کِیتے محفوظ اَتے وَدھ قابلِ رسائی بݨاوݨ کِیتے کَݨ کرین٘دے پئے ہِسے۔
+onboarding-sign-up-secondary-button = براؤزنگ شروع کرو
 
 ## New user time and familiarity survey strings
 
@@ -383,3 +384,7 @@ onboarding-existing-horizontal-tabs-label = افقی ٹیباں رکھو
 onboarding-genai-sidebar-title = سائیڈ بار وچ اے آئی چیٹ بوٹ ازماؤ
 onboarding-genai-sidebar-primary-button = چیٹ بوٹ چݨو
 onboarding-genai-sidebar-secondary-button = براؤزنگ شروع کرو
+
+## New user onboarding checklist
+
+onboarding-checklist-extension = ایکسٹنشن شامل کرو
