@@ -56,7 +56,7 @@ policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής 
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh = Απενεργοποίηση του κουμπιού ανανέωσης { -brand-short-name } στη σελίδα about:support.
 policy-DisableSafeMode = Απενεργοποίηση της λειτουργίας για επανεκκίνηση στην Ασφαλή λειτουργία. Σημείωση: το πλήκτρο Shift για είσοδο στην Ασφαλή λειτουργία μπορεί να απενεργοποιηθεί μόνο στα Windows με την Πολιτική ομάδας.
-policy-DisableSecurityBypass = Αποτροπή παράκαμψης ορισμένων προειδοποιήσεων ασφαλείας από το χρήστη.
+policy-DisableSecurityBypass = Αποτροπή παράκαμψης ορισμένων προειδοποιήσεων ασφαλείας από τον χρήστη.
 policy-DisableSetAsDesktopBackground = Απενεργοποίηση της εντολής μενού «Ορισμός ως φόντο επιφάνειας εργασίας» για εικόνες.
 policy-DisableSystemAddonUpdate = Αποτροπή εγκατάστασης και ενημέρωσης προσθέτων συστήματος από το πρόγραμμα περιήγησης.
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
@@ -97,7 +97,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά σ�
 ##
 
 policy-LocalFileLinks = Να επιτρέπεται σε συγκεκριμένους ιστοτόπους η σύνδεση με τοπικά αρχεία.
-policy-ManagedBookmarks = Ρυθμίζει μια λίστα σελιδοδεικτών που διαχειρίζεται ένας διαχειριστής και δεν μπορεί να τροποποιηθεί από το χρήστη.
+policy-ManagedBookmarks = Ρυθμίζει μια λίστα σελιδοδεικτών που ορίζει ένας διαχειριστής και δεν είναι δυνατή η τροποποίησή της από τον χρήστη.
 policy-ManualAppUpdateOnly = Αποδοχή μόνο χειροκίνητων ενημερώσεων χωρίς ειδοποίηση των χρηστών σχετικά με τις ενημερώσεις.
 policy-PrimaryPassword = Απαίτηση ή αποτροπή χρήσης κύριου κωδικού πρόσβασης.
 policy-PrintingEnabled = Ενεργοποίηση ή απενεργοποίηση εκτύπωσης.
@@ -140,4 +140,5 @@ policy-UseSystemPrintDialog = Εκτύπωση μέσω του διαλόγου 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Φραγή ιστοτόπων προς επίσκεψη. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
 policy-Windows10SSO = Να επιτρέπεται η καθολική σύνδεση των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
+# Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Να επιτρέπεται η καθολική σύνδεση για λογαριασμούς Microsoft Entra.

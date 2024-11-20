@@ -57,7 +57,7 @@ neterror-dns-not-found-hint-firewall = Ελέγξετε εάν το { -brand-sho
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστότοπου μέσω του αξιόπιστου προγράμματος ανάλυσης DNS. Αυτό συμβαίνει επειδή:
+neterror-dns-not-found-trr-only-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω της έμπιστης υπηρεσίας ανάλυσης DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-trr-only-reason2 = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω του ασφαλούς παρόχου DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-trr-third-party-warning2 = Μπορείτε να συνεχίσετε με το προεπιλεγμένο σας πρόγραμμα ανάλυσης DNS. Ωστόσο, κάποιος τρίτος ενδέχεται να μπορεί να δει ποιους ιστοτόπους επισκέπτεστε.
 neterror-dns-not-found-trr-only-could-not-connect = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί στο { $trrDomain }.
@@ -73,7 +73,7 @@ neterror-dns-not-found-trr-unknown-problem = Απροσδόκητο πρόβλη
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-native-fallback-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστότοπου μέσω του αξιόπιστου προγράμματος ανάλυσης DNS. Αυτό συμβαίνει επειδή:
+neterror-dns-not-found-native-fallback-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω της έμπιστης υπηρεσίας ανάλυσης DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-native-fallback-reason2 = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω του ασφαλούς παρόχου DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-native-fallback-heuristic = Το DNS μέσω HTTPS έχει απενεργοποιηθεί στο δίκτυό σας.
 neterror-dns-not-found-native-fallback-not-confirmed2 = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί στο { $trrDomain }.
