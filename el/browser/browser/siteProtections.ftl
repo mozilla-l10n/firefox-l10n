@@ -28,7 +28,7 @@ tracking-protection-icon-active-container =
 tracking-protection-icon-disabled = Η ενισχυμένη προστασία από καταγραφή είναι ΑΝΕΝΕΡΓΗ για τον ιστότοπο.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
-tracking-protection-icon-no-trackers-detected = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } στη σελίδα.
+tracking-protection-icon-no-trackers-detected = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } σε αυτήν τη σελίδα.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 

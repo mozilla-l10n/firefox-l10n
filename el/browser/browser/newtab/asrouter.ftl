@@ -323,7 +323,7 @@ multi-cta-fox-doodle-set-default-checkbox = Ορισμός του { -brand-short
 multi-cta-fox-doodle-pin-startmenu-checkbox = Καρφίτσωμα του { -brand-short-name } στο μενού έναρξης
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
-        [macos] Διατήρηση { -brand-short-name } στο Dock
+        [macos] Διατήρηση του { -brand-short-name } στο Dock
        *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Έναρξη περιήγησης

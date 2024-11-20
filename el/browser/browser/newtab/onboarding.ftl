@@ -153,8 +153,8 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = Είναι η 100η μας έκδοση! Σας ευχαριστούμε για τη βοήθειά σας για ένα καλύτερο, υγιέστερο διαδίκτυο.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Καρφίτσωμα { -brand-short-name } στο Dock
-       *[other] Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών
+        [macos] Διατήρηση του { -brand-short-name } στο Dock
+       *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
 fx100-upgrade-thanks-header = 100 Ευχαριστώ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
@@ -189,7 +189,7 @@ mr2022-onboarding-pin-primary-button-label =
        *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
-mr2022-onboarding-pin-primary-button-label-msix = Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών και το μενού έναρξης
+mr2022-onboarding-pin-primary-button-label-msix = Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών και το μενού έναρξης
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
