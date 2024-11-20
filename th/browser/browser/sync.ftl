@@ -31,3 +31,11 @@ fxa-menu-sign-out =
     .label = ลงชื่อออก…
 fxa-menu-sync-title = Sync
 fxa-menu-sync-description = เข้าถึงเว็บของคุณได้ทุกที่
+sync-setup-verify-continue = ดำเนินการต่อ
+sync-setup-verify-title = คำเตือนการผสาน
+sync-setup-verify-heading = คุณแน่ใจหรือไม่ว่าต้องการลงชื่อเข้า Sync?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = ผู้ใช้ที่ต่างกันได้ลงชื่อเข้า Sync ก่อนหน้านี้บนคอมพิวเตอร์นี้ การลงชื่อเข้าจะผสานที่คั่นหน้า รหัสผ่าน และการตั้งค่าอื่น ๆ ของเบราว์เซอร์นี้กับ { $email }

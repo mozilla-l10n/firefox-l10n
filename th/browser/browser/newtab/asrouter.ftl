@@ -301,8 +301,35 @@ fxa-menu-message-close-button =
     .title = ปิด
     .aria-label = ปิด
 fxa-menu-message-sign-up-button = ลงทะเบียน
+fxa-menu-message-sync-devices-primary-text = ซิงค์อุปกรณ์ทั้งหมดของคุณ
+fxa-menu-message-sync-devices-secondary-text = ดึงข้อมูลต่างๆ เช่น ที่คั่นหน้า และรหัสผ่านของคุณมาได้ทุกที่ที่คุณใช้ { -brand-short-name }
+fxa-menu-message-sync-devices-collapsed-text = ซิงค์อุปกรณ์ทั้งหมดของคุณ
+fxa-menu-message-backup-data-primary-text = สำรองข้อมูลเบราว์เซอร์ของคุณ
+fxa-menu-message-backup-data-secondary-text = ปกป้องที่คั่นหน้า รหัสผ่าน และข้อมูลอื่นๆ โดยอัตโนมัติบนทุกอุปกรณ์ของคุณ
+fxa-menu-message-backup-data-collapsed-text = สำรองข้อมูลเบราว์เซอร์
+fxa-menu-message-backup-sync-primary-text = รักษาข้อมูลของคุณให้ปลอดภัยและซิงค์กันอยู่เสมอ
+fxa-menu-message-backup-sync-secondary-text = Sync จะสำรองข้อมูลส่วนใหญ่ของคุณ เพื่อให้คุณเข้าถึงได้ในทุกที่ที่คุณใช้ { -brand-short-name }
+fxa-menu-message-backup-sync-collapsed-text = ซิงค์และสำรองข้อมูล
+fxa-menu-message-mobile-primary-text = ส่งแท็บไปยังโทรศัพท์ของคุณ
+fxa-menu-message-mobile-secondary-text = กลับมาเรียกดูต่อจากจุดที่คุณค้างไว้ได้ทันทีเมื่อคุณซิงค์แท็บของคุณกับอุปกรณ์มือถือ
+fxa-menu-message-mobile-collapsed-text = ซิงค์กับโทรศัพท์ของคุณ
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = ยินดีต้อนรับกลับมา
+multi-cta-fox-doodle-set-default-checkbox = ตั้ง { -brand-short-name } เป็นค่าเริ่มต้น
+multi-cta-fox-doodle-pin-startmenu-checkbox = ปักหมุด { -brand-short-name } ที่เมนูเริ่ม
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] เก็บ { -brand-short-name } ใน Dock
+       *[other] ปักหมุด { -brand-short-name } ที่แถบงาน
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = เริ่มต้นการเรียกดู
 multi-cta-fox-doodle-main-browser-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
+multi-cta-fox-doodle-quick-reminder-subtitle = นี่เป็นการแจ้งเตือนสั้นๆ ว่าคุณสามารถนำเบราว์เซอร์โปรดของคุณซึ่งโฟกัสเรื่องความเป็นส่วนตัวมาไว้ใกล้ๆ ให้เข้าถึงได้ด้วยเพียงคลิกเดียว
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] นำเบราว์เซอร์โปรดของคุณซึ่งโฟกัสเรื่องความเป็นส่วนตัวมาไว้ใกล้ๆ ให้เข้าถึงได้ด้วยเพียงคลิกเดียว ตั้ง { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณสำหรับเปิดลิงก์และเก็บไว้ใน Dock ของคุณ
+       *[other] นำเบราว์เซอร์โปรดของคุณซึ่งโฟกัสเรื่องความเป็นส่วนตัวมาไว้ใกล้ๆ ให้เข้าถึงได้ด้วยเพียงคลิกเดียว ตั้ง { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณสำหรับเปิดลิงก์และปักหมุดไว้ที่แถบงานของคุณ
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = นำเบราว์เซอร์โปรดของคุณซึ่งโฟกัสเรื่องความเป็นส่วนตัวมาไว้ใกล้ๆ ให้เข้าถึงได้ด้วยเพียงคลิกเดียว ตั้ง { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณสำหรับเปิดลิงก์และปักหมุดไว้ที่แถบงานและเมนูเริ่มของคุณ

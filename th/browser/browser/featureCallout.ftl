@@ -85,6 +85,12 @@ sidebar-callout-survey-disagree = ไม่เห็นด้วย
 sidebar-callout-survey-strongly-disagree = ไม่เห็นด้วยอย่างยิ่ง
 sidebar-callout-survey-features-question = ต่อไปนี้คือคุณลักษณะสำหรับแถบข้างที่อาจจะมีในอนาคต อยากทราบว่าคุณลักษณะที่จะช่วยเพิ่มประสิทธิภาพการทำงานของคุณใน { -brand-short-name } ได้มากที่สุดคือคุณลักษณะใด?
 sidebar-callout-survey-split-view = ดูสองเว็บไซต์ได้พร้อมกันในครั้งเดียว ด้วยมุมมองแยกแบบเรียงข้างกัน
+sidebar-callout-survey-keep-website-open = เปิดเว็บไซต์ เช่น อีเมล หรือปฏิทิน ทิ้งไว้ในแถบข้างขณะที่คุณเรียกดู
+sidebar-callout-survey-saved-websites-2 = เข้าถึงที่คั่นหน้าของคุณได้อย่างรวดเร็ว
 sidebar-callout-survey-none-of-above = ไม่มีข้อใดข้างต้น
 sidebar-callout-survey-submit = ส่ง
 sidebar-callout-survey-thank-you = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
+sidebar-genai-survey-satisfaction-question = คุณพอใจกับการเข้าถึงบอตสนทนา AI ในแถบข้างมากแค่ไหน?
+sidebar-genai-survey-productive-question =
+    คุณเห็นด้วยหรือไม่เห็นด้วยกับคำกล่าวนี้มากแค่ไหน:<br/>
+    “บอตสนทนา AI ในแถบข้างช่วยให้ฉันทำงานได้คล่องตัวมากขึ้น”?

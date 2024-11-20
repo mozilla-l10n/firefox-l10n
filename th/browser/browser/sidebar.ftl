@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = บอตสนทนา AI
 menu-view-review-checker =
     .label = เครื่องมือตรวจสอบบทวิจารณ์
+sidebar-options-menu-button =
+    .title = เปิดเมนู
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = ขยายและยุบแถบข้าง
 sidebar-visibility-setting-hide-sidebar =
     .label = แสดงและซ่อนแถบข้าง
-sidebar-customize-settings-header =
-    .label = การตั้งค่าแถบข้าง
-sidebar-visibility-always-show =
-    .label = แสดงเสมอ
-sidebar-visibility-hide-sidebar =
-    .label = ซ่อนแถบข้าง
 
 ## Labels for sidebar context menu items
 
@@ -107,6 +103,27 @@ sidebar-menu-customize-label =
     .label = ปรับแต่งแถบข้าง
 sidebar-menu-review-checker-label =
     .label = เครื่องมือตรวจสอบบทวิจารณ์
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = เปิดประวัติ ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = ปิดประวัติ ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = เปิดที่คั่นหน้า ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = ปิดที่คั่นหน้า ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = เปิดบอตสนทนา AI
+sidebar-menu-close-ai-chatbot-tooltip = ปิดบอตสนทนา AI
 
 ## Headings for sidebar menu panels.
 
