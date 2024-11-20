@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Η Ανάλυση περιεχομέν
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Ο οργανισμός σας χρησιμοποιεί λογισμικό πρόληψης απώλειας δεδομένων που έχει αποκλείσει αυτό το περιεχόμενο: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το λογισμικό πρόληψης απώλειας δεδομένων. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Αδυναμία σύνδεσης στο { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Αποτυχία επαλήθευσης υπογραφής για το { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Προέκυψε σφάλμα κατά την επικοινωνία με το { $agent }. { $content }
@@ -83,6 +68,6 @@ contentanalysis-block-dialog-title-dropped-text = Δεν επιτρέπεται 
 contentanalysis-block-dialog-body-dropped-text = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να κάνετε μεταφορά και απόθεση αυτού του περιεχομένου. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-print = Δεν επιτρέπεται να εκτυπώσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-print = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να εκτυπώσετε αυτό το έγγραφο. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
-contentanalysis-inprogress-quit-title = Έξοδος από το { -brand-shorter-name };
-contentanalysis-inprogress-quit-message = Βρίσκονται σε εξέλιξη πολλές ενέργειες. Αν κλείσετε το { -brand-shorter-name }, αυτές οι ενέργειες δεν θα ολοκληρωθούν.
-contentanalysis-inprogress-quit-yesbutton = Ναι, έξοδος
+contentanalysis-inprogress-quit-title = Τερματισμός του { -brand-shorter-name };
+contentanalysis-inprogress-quit-message = Βρίσκονται σε εξέλιξη πολλές ενέργειες. Αν τερματίσετε το { -brand-shorter-name }, αυτές οι ενέργειες δεν θα ολοκληρωθούν.
+contentanalysis-inprogress-quit-yesbutton = Ναι, τερματισμός

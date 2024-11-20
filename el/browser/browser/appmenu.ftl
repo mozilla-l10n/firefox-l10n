@@ -44,7 +44,7 @@ appmenuitem-help =
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
-            [linux] Έξοδος
+            [linux] Τερματισμός
            *[other] Έξοδος
         }
 appmenu-menu-button-closed2 =

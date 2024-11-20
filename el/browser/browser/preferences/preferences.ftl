@@ -139,7 +139,7 @@ windows-launch-on-login =
 windows-launch-on-login-disabled = Αυτή η προτίμηση έχει απενεργοποιηθεί στα Windows. Για να την αλλάξετε, επισκεφτείτε τις <a data-l10n-name="startup-link">Εφαρμογές εκκίνησης</a> στις ρυθμίσεις συστήματος.
 windows-launch-on-login-profile-disabled = Ενεργοποιήστε αυτήν την προτίμηση επιλέγοντας «{ profile-manager-use-selected.label }» στο παράθυρο «Επιλογή προφίλ χρήστη».
 startup-restore-warn-on-quit =
-    .label = Προειδοποίηση κατά την έξοδο από το πρόγραμμα περιήγησης
+    .label = Προειδοποίηση κατά τον τερματισμό του προγράμματος περιήγησης
 disable-extension =
     .label = Απενεργοποίηση επέκτασης
 preferences-data-migration-header = Εισαγωγή δεδομένων προγράμματος περιήγησης
@@ -163,7 +163,7 @@ confirm-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
-    .label = Επιβεβαίωση πριν από την έξοδο με { $quitKey }
+    .label = Επιβεβαίωση πριν από τον τερματισμό με { $quitKey }
     .accesskey = ω
 warn-on-open-many-tabs =
     .label = Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει το { -brand-short-name }

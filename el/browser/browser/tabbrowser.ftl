@@ -92,17 +92,17 @@ tabbrowser-confirm-close-windows-title = Κλείσιμο { $windowCount } πα�
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Κλείσιμο και έξοδος
-       *[other] Κλείσιμο και έξοδος
+       *[other] Κλείσιμο και τερματισμός
     }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
-tabbrowser-confirm-close-tabs-with-key-title = Κλείσιμο παραθύρου και έξοδος από το { -brand-short-name };
-tabbrowser-confirm-close-tabs-with-key-button = Έξοδος από το { -brand-short-name }
+tabbrowser-confirm-close-tabs-with-key-title = Κλείσιμο παραθύρου και τερματισμός του { -brand-short-name };
+tabbrowser-confirm-close-tabs-with-key-button = Τερματισμός του { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Επιβεβαίωση πριν από την έξοδο με { $quitKey }
+tabbrowser-confirm-close-tabs-with-key-checkbox = Επιβεβαίωση πριν από τον τερματισμό με { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +185,3 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Ακύρωση
     .accesskey = Α
-tab-group-editor-create =
-    .label = Δημιουργία
-    .accesskey = ρ

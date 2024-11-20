@@ -14,5 +14,5 @@ profiledowngrade-quit =
     .label =
         { PLATFORM() ->
             [windows] Έξοδος
-           *[other] Έξοδος
+           *[other] Τερματισμός
         }
