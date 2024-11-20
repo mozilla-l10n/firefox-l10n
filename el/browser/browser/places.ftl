@@ -98,7 +98,7 @@ places-delete-page =
            *[other] Διαγραφή σελίδων
         }
     .accesskey = Δ
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Διαχειριζόμενοι σελιδοδείκτες
 # This label is used when a managed bookmarks folder doesn't have a name.
@@ -213,7 +213,7 @@ places-view-sort-col-visit-count =
 places-view-sort-col-date-added =
     .label = Προσθήκη
 places-view-sort-col-last-modified =
-    .label = Τελευταία τροποποίηση
+    .label = Τελευταία αλλαγή
 places-view-sortby-name =
     .label = Ταξινόμηση κατά όνομα
     .accesskey = ν

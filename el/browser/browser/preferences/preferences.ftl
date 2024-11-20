@@ -1452,5 +1452,5 @@ preferences-doh-manage-exceptions =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Επιφάνεια εργασίας
-downloads-folder-name = Στοιχεία λήψεων
+downloads-folder-name = Λήψεις
 choose-download-folder-title = Επιλογή φακέλου λήψεων:
