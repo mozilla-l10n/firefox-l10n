@@ -57,3 +57,5 @@ experimental-features-group-developer-tools =
     .label = Абзорҳои барномасозӣ
 experimental-features-group-webpage-display =
     .label = Намоиши саҳифаи сомона
+experimental-features-group-customize-browsing =
+    .label = Тарзи истифодаи браузери худро шахсӣ созед
