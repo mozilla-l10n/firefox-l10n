@@ -101,6 +101,10 @@ about-glean-adhoc-note =
     ซึ่งหมายความว่าหมวดหมู่เมตริกและชื่อเมตริกจะถูกจัดเป็นรูปแบบ
     <code>camelCase</code> ซึ่งต่างจากใน API สำหรับ Rust และ C++
 controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
+about-glean-feedback-settings-only =
+    .message = ตั้งค่าเรียบร้อยแล้ว!
+about-glean-feedback-settings-and-ping =
+    .message = ตั้งค่าและส่ง ping เรียบร้อยแล้ว!
 about-glean-about-data-header = เกี่ยวกับข้อมูล
 about-glean-about-data-explanation =
     หากต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
