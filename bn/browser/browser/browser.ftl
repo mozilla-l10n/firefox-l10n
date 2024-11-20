@@ -517,10 +517,27 @@ urlbar-placeholder-search-mode-other-engine =
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = অনুসন্ধান পদ লিখুন
     .aria-label = বুকমার্ক অনুসন্ধান করুন
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
+    .aria-label = ইতিহাস অনুসন্ধান করুন
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
+    .aria-label = ট্যাব অনুসন্ধান করুন
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
+    .aria-label = অ্যাকশন অনুসন্ধান করুন
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ব্রাউজার রিমোট কন্ট্রোলের অধীনে (কারণ: { $component })
 urlbar-permissions-granted =
     .tooltiptext = আপনি এই সাইটের জন্য বিশেষ অনুমতি দিয়েছেন।
 urlbar-switch-to-tab =
@@ -532,6 +549,8 @@ urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =
     .tooltiptext = পাতা পদক্ষেপ
+urlbar-revert-button =
+    .tooltiptext = অবস্থান বারে ঠিকানা দেখান
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -549,8 +568,16 @@ urlbar-result-action-search-in-private = ব্যক্তিগত উইন�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } দিয়ে অনুসন্ধান করা হবে
+urlbar-result-action-sponsored = স্পন্সর
 urlbar-result-action-switch-tab = ট্যাবে যান
 urlbar-result-action-visit = পরিদর্শন করুন
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = ট্যাবে স্যুইচ করুন · <span>{ $container }</span>৷
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = ক্লিপবোর্ড থেকে দেখুন
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
