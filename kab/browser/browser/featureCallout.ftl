@@ -58,3 +58,15 @@ split-dismiss-button-dont-show-option-label = Ur d-skanay ara awelleh-a tikkelt 
 split-dismiss-button-show-fewer-option-label = Sken cwiṭ n yiwellihen
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Sefrek iɣewwaren
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-very-satisfied = Yumer aṭas
+sidebar-callout-survey-satisfied = Y·Tumer
+sidebar-callout-survey-neutral = War tamawt
+sidebar-callout-survey-dissatisfied-2 = Ur yumir ara
+sidebar-callout-survey-very-dissatisfied-2 = Texseṛ-as akk nniya
+sidebar-callout-survey-dont-use-it = Ur t-sseqdaceɣ ara
