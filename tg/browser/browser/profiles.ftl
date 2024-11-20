@@ -29,8 +29,10 @@ edit-profile-page-header = Таҳрир кардани профили худ
 edit-profile-page-profile-name-label = Номи профил
 edit-profile-page-theme-header = Мавзуъ
 edit-profile-page-explore-themes = Дидани мавзуъҳои бештар
+edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Нест кардан
+edit-profile-page-duplicate-name = Номи профил аллакай истифода мешавад. Номи наверо кӯшиш кунед.
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
 new-profile-page-title = Профили нав
 new-profile-page-header = Профили нави худро шахсӣ созед
@@ -59,6 +61,14 @@ delete-profile-confirm = Нест кардан
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Календула
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = Лаванда
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Гулсанг
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Магнолия
 # Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-ocean-theme = Уқёнус
 # The default light theme

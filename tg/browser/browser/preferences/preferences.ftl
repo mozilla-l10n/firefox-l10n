@@ -836,6 +836,13 @@ sync-engine-settings =
     .label = Танзимот
     .tooltiptext = Танзимоти умумӣ, махфият ва амнияте, ки шумо иваз кардед
     .accesskey = Т
+sync-choose-what-to-sync-dialog4 =
+    .title = Он чизҳоеро, ки дар ҳамаи дастгоҳҳои пайвастшудаи шумо ҳамоҳанг мешаванд, идора намоед
+    .style = min-width: 36em;
+    .buttonlabelaccept = Нигоҳ доштан
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Қатъ кардани пайваст…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
