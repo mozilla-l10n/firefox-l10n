@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = أغلِق الألسنة المتكررة
 all-tabs-menu-close-all-duplicate-tabs =
     .label = أغلِق كل الألسنة المتكررة
+all-tabs-menu-synced-tabs =
+    .label = ألسنة من الأجهزة الأخرى

@@ -104,6 +104,7 @@ appmenu-fxa-sync-and-save-data2 = زامِن واحفظ البيانات
 appmenu-fxa-signed-in-label = لِج
 appmenu-fxa-setup-sync =
     .label = فعّل المزامنة…
+appmenu-fxa-setup-sync-new = فعّل
 appmenuitem-save-page =
     .label = احفظ الصفحة باسم…
 
@@ -269,3 +270,6 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-monitor-description = احصل على تنبيهات تسريب البيانات
+
+## Profiles panel
+

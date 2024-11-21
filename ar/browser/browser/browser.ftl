@@ -626,6 +626,16 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = ابحث مستخدمًا { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = اختر محرك بحث
+urlbar-searchmode-bookmarks =
+    .label = العلامات
+urlbar-searchmode-tabs =
+    .label = الألسنة
+urlbar-searchmode-history =
+    .label = التأريخ
+urlbar-searchmode-actions =
+    .label = الإجراءات
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
