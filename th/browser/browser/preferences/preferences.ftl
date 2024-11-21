@@ -772,6 +772,9 @@ sync-currently-syncing-creditcards = บัตรเครดิต
 sync-currently-syncing-payment-methods = วิธีการชำระเงิน
 sync-currently-syncing-addons = ส่วนเสริม
 sync-currently-syncing-settings = การตั้งค่า
+sync-manage-options =
+    .label = จัดการการซิงค์…
+    .accesskey = จ
 sync-change-options =
     .label = เปลี่ยน…
     .accesskey = ป
@@ -824,6 +827,13 @@ sync-engine-settings =
     .label = การตั้งค่า
     .tooltiptext = การตั้งค่าทั่วไป ความเป็นส่วนตัว และความปลอดภัยที่คุณเปลี่ยน
     .accesskey = ต
+sync-choose-what-to-sync-dialog4 =
+    .title = จัดการสิ่งที่จะซิงค์บนอุปกรณ์ที่เชื่อมต่อทั้งหมดของคุณ
+    .style = min-width: 36em;
+    .buttonlabelaccept = บันทึก
+    .buttonaccesskeyaccept = บ
+    .buttonlabelextra2 = ตัดการเชื่อมต่อ…
+    .buttonaccesskeyextra2 = ต
 
 ## The device name controls.
 
