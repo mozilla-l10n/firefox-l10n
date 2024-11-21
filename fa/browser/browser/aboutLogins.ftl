@@ -285,6 +285,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] آیا { $count } گذرواژه از تمام دستگاه‌ها حذف شود؟
        *[other] آیا همه { $count } گذرواژه از تمام دستگاه‌ها حذف شوند؟
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+        [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+       *[other] این عمل همه گذرواژه‌ها ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+    }
 
 ##
 
@@ -292,6 +299,10 @@ about-logins-confirm-export-dialog-title = برون‌ریزی ورودها و �
 about-logins-confirm-export-dialog-message = گذرواژه‌های شما به عنوان متن قابل خواندن ذخیره خواهد شد (مثلاً BadP@ssw0rd) بنابراین هر کسی که بتواند پرونده صادر شده را باز کند، می‌تواند آنها را ببیند.
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
 about-logins-confirm-export-dialog-title2 = نکته‌ای درباره دریافت گذرواژه‌ها
+about-logins-confirm-export-dialog-message2 =
+    وقتی برون‌ریزی می‌کنید، گذرواژه‌های شما به یک پرونده با متن قابل خواندن ذخیره می‌شود. 
+    وقتی استفاده از پرونده تمام شد، توصیه می‌کنیم آن را حذف کنید تا دیگرانی که از این دستگاه استفاده می‌کنند نتوانند گذرواژه‌های شما را ببینند.
+about-logins-confirm-export-dialog-confirm-button2 = ادامه با برون‌ریزی
 about-logins-alert-import-title = ورود اطلاعات کامل شد
 about-logins-alert-import-message = نمایش جزئیاتِ ورود اطلاعات
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
@@ -333,6 +344,11 @@ about-logins-export-file-picker-title = برون‌ریزی پروندهٔ ور�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = ورودها.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = برون‌ریزی گذرواژه‌ها از { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = گذرواژه-ها.csv
 about-logins-export-file-picker-export-button = برون‌ریزی
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -346,6 +362,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = وارد کردن پروندهٔ ورودها
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = درون‌ریزی گذرواژه‌ها به  { -brand-short-name }
 about-logins-import-file-picker-import-button = درون‌ریزی
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -381,6 +399,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
        *[other] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+       *[other] <span>گذرواژهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+       *[other] <span>ورودی‌های موجود به‌روزرسانی شد:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+       *[other] <span>ورودی‌های تکراری یافت شد:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(درون‌ریزی نشد)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
