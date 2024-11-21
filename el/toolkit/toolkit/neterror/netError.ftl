@@ -89,7 +89,7 @@ neterror-unknown-socket-type-psm-installed = Βεβαιωθείτε ότι το 
 neterror-unknown-socket-type-server-config = Αυτό μπορεί να οφείλεται σε κάποια μη τυπική ρύθμιση του διακομιστή.
 neterror-not-cached-intro = Το ζητούμενο έγγραφο δεν είναι διαθέσιμο στην κρυφή μνήμη του { -brand-short-name }.
 neterror-not-cached-sensitive = Ως μέτρο ασφαλείας, το { -brand-short-name } δεν ζητά εκ νέου τα ευαίσθητα έγγραφα.
-neterror-not-cached-try-again = Κάντε κλικ στο "Δοκιμή ξανά" για να εκ νέου αίτηση του εγγράφου από την ιστοσελίδα.
+neterror-not-cached-try-again = Κάντε κλικ στο «Δοκιμή ξανά» για να ζητήσετε εκ νέου το έγγραφο από τον ιστότοπο.
 neterror-net-offline = Κάντε κλικ στο «Δοκιμή ξανά» για να μεταβείτε σε λειτουργία εντός σύνδεσης και να επαναφορτώσετε τη σελίδα.
 neterror-proxy-resolve-failure-settings = Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι είναι σωστές.
 neterror-proxy-resolve-failure-connection = Ελέγξτε αν ο υπολογιστής σας διαθέτει λειτουργική σύνδεση δικτύου.
@@ -108,7 +108,7 @@ certerror-intro = Το { -brand-short-name } ανίχνευσε μια πιθα�
 certerror-sts-intro = Το { -brand-short-name } ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <b>{ $hostname }</b> επειδή αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = Το { -brand-short-name } ανίχνευσε ένα ζήτημα και δεν συνέχισε στο <b>{ $hostname }</b>. Είτε η ιστοσελίδα έχει ρυθμιστεί με λάθος τρόπο είτε το ρολόι του υπολογιστή σας έχει οριστεί σε λάθος ώρα.
+certerror-expired-cert-intro = Το { -brand-short-name } εντόπισε ένα ζήτημα και δεν συνέχισε στο <b>{ $hostname }</b>. Είτε ο ιστότοπος έχει ρυθμιστεί εσφαλμένα είτε το ρολόι του υπολογιστή σας δεν έχει οριστεί στη σωστή ώρα.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
@@ -131,13 +131,13 @@ neterror-network-protocol-error-contact-website = Παρακαλώ επικοι�
 certerror-expired-cert-second-para = Το πιστοποιητικό του ιστοτόπου έχει πιθανότατα λήξει, εμποδίζοντας την ασφαλή σύνδεση με το { -brand-short-name }. Αν επισκεφθείτε αυτόν τον ιστότοπο, οι εισβολείς ενδέχεται να αποπειραθούν να υποκλέψουν πληροφορίες, όπως τους κωδικούς πρόσβασης, τα email ή τα στοιχεία των πιστωτικών καρτών σας.
 certerror-expired-cert-sts-second-para = Το πιστοποιητικό του ιστοτόπου έχει πιθανότατα λήξει, εμποδίζοντας την ασφαλή σύνδεση με το { -brand-short-name }.
 certerror-what-can-you-do-about-it-title = Τι μπορείτε να κάνετε για αυτό;
-certerror-unknown-issuer-what-can-you-do-about-it-website = Το ζήτημα οφείλεται κατά πάσα πιθανότητα στην ιστοσελίδα και δεν μπορείτε να κάνετε τίποτα για να το διορθώσετε.
-certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Αν είστε σε εταιρικό δίκτυο ή χρησιμοποιείτε λογισμικό anti-virus, μπορείτε να απευθυνθείτε στις ομάδες υποστήριξης για βοήθεια. Μπορείτε επίσης να ειδοποιήσετε το διαχειριστή της ιστοσελίδας για το πρόβλημα.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Το ζήτημα οφείλεται κατά πάσα πιθανότητα στον ιστότοπο και δεν μπορείτε να κάνετε τίποτα για να το διορθώσετε.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Εάν βρίσκεστε σε εταιρικό δίκτυο ή χρησιμοποιείτε λογισμικό προστασίας από ιούς, μπορείτε να απευθυνθείτε στις ομάδες υποστήριξης για βοήθεια. Μπορείτε επίσης να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με το πρόβλημα.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Το ρολόι του υπολογιστή σας έχει οριστεί σε { DATETIME($now, dateStyle: "medium") }. Βεβαιωθείτε ότι ο υπολογιστής σας έχει ρυθμιστεί στη σωστή ώρα, ημερομηνία και ζώνη ώρας στις ρυθμίσεις συστήματος και, έπειτα, κάντε ανανέωση του <b>{ $hostname }</b>.
-certerror-expired-cert-what-can-you-do-about-it-contact-website = Αν το ρολόι έχει ήδη οριστεί στη σωστή ώρα, η ιστοσελίδα έχει πιθανότατα ρυθμιστεί εσφαλμένα και δεν μπορείτε να κάνετε τίποτα για να επιλύσετε το ζήτημα. Μπορείτε να ειδοποιήσετε το διαχειριστή της ιστοσελίδας σχετικά με το πρόβλημα.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Εάν το ρολόι σας έχει ήδη οριστεί στη σωστή ώρα, τότε ο ιστότοπος έχει πιθανότατα ρυθμιστεί εσφαλμένα και δεν μπορείτε να κάνετε τίποτα για να επιλύσετε το ζήτημα. Μπορείτε να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με το πρόβλημα.
 certerror-bad-cert-domain-what-can-you-do-about-it = Το ζήτημα οφείλεται κατά πάσα πιθανότητα στον ιστότοπο και δεν μπορείτε να κάνετε τίποτα για να το διορθώσετε. Μπορείτε να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με το πρόβλημα.
 certerror-mitm-what-can-you-do-about-it-antivirus = Αν το λογισμικό προστασίας σας από ιούς περιλαμβάνει κάποια λειτουργία σάρωσης κρυπτογραφημένων συνδέσεων (συχνά ονομάζεται «σάρωση web» ή «σάρωση https»), μπορείτε να την απενεργοποιήσετε. Αν δεν βοηθήσει αυτό, μπορείτε να καταργήσετε και να εγκαταστήσετε εκ νέου το λογισμικό προστασίας από ιούς.
 certerror-mitm-what-can-you-do-about-it-corporate = Αν είστε σε ένα εταιρικό δίκτυο, μπορείτε να επικοινωνήσετε με το τμήμα πληροφορικής σας.
