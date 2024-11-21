@@ -85,6 +85,7 @@ about-logins-login-list-alerts-option = التنبيهات
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
+login-list-intro-title2 = لم يتم حفظ كلمات مرور
 login-list-intro-description = متى ما حفظت كلمة سر في { -brand-product-name } ستظهر هنا.
 about-logins-login-list-empty-search-title = لا جلسات ولوج
 about-logins-login-list-empty-search-title2 = لم يُعثر على كلمات السر
