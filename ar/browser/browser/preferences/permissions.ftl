@@ -183,7 +183,7 @@ permissions-site-microphone-disable-desc = سيمنع هذا مواقع الوب
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = الإعدادات - تصاريح مكبر الصوت
+    .title = الإعدادات - تصاريح السماعة
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = طلبت المواقع الآتية إختيار جهاز خرج صوتي. يمكنك تحديد أي مواقع يسمح لها باختيار جهاز خرج صوت.
 permissions-exceptions-doh-window =

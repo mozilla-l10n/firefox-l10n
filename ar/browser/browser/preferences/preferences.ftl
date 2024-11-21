@@ -888,6 +888,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = جلسات الولوج المحفوظة…
     .accesskey = ح
+forms-saved-passwords =
+    .label = كلمات السر المحفوظة
+    .accesskey = ت
 forms-primary-pw-use =
     .label = استعمل كلمة سر رئيسيّة
     .accesskey = س
@@ -930,6 +933,8 @@ autofill-addresses-checkbox = حفظ وملء العناوين
     .accesskey = ع
 autofill-saved-addresses-button = العناوين المحفوظة
     .accesskey = ظ
+autofill-saved-payment-methods-button = طرق الدفع المحفوظة
+    .accesskey = ع
 
 ## Privacy Section - History
 
@@ -1167,6 +1172,8 @@ permissions-microphone = الميكروفون
 permissions-microphone-settings =
     .label = الإعدادات…
     .accesskey = ع
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = تحديد السماعة
 permissions-speaker-settings =
     .label = الإعدادات…
     .accesskey = د

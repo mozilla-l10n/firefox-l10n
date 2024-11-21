@@ -3,17 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - علامة المشاركة
 webrtc-indicator-window =
     .title = { -brand-short-name } - علامة المشاركة
@@ -32,7 +24,6 @@ webrtc-item-browser = ‏لسان
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = غير معروف المصدر
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -41,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = الألسنة التي تشارك أجهزة
     .accesskey = ه
-
 webrtc-sharing-window = تُشارك الآن نافذة تطبيق أخرى.
 webrtc-sharing-browser-window = تُشارك الآن { -brand-short-name }.
 webrtc-sharing-screen = تُشارك الآن شاشتك كاملةً.
@@ -61,9 +51,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = تشارك الكمرة. انقر للتحكم في المشاركة.
 webrtc-microphone-system-menu =
@@ -98,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = تحكم في المشاركة
 webrtc-indicator-menuitem-control-sharing-on =
     .label = تحكم في المشاركة على ”{ $streamTitle }“
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = تشارك الكمرة مع ”{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -111,7 +97,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [many] تشارك الكمرة مع { $tabCount } لسانًا
            *[other] تشارك الكمرة مع { $tabCount } لسان
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = تشارك الميكروفون مع ”{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -124,7 +109,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [many] تشارك الميكروفون مع { $tabCount } لسانًا
            *[other] تشارك الميكروفون مع { $tabCount } لسان
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = تشارك تطبيقًا مع ”{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -137,7 +121,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [many] تشارك تطبيقًا مع { $tabCount } لسانًا
            *[other] تشارك تطبيقًا مع { $tabCount } لسان
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = تشارك الشاشة مع ”{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -150,7 +133,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [many] تشارك الشاشة مع { $tabCount } لسانًا
            *[other] تشارك الشاشة مع { $tabCount } لسان
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = تشارك نافذة مع ”{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -163,7 +145,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [many] تشارك نافذة مع { $tabCount } لسانًا
            *[other] تشارك نافذة مع { $tabCount } لسان
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = تشارك لسانًا مع ”{ $streamTitle }“
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -194,6 +175,12 @@ webrtc-allow-share-camera-and-audio-capture = أتسمح بأن يستعمل { $
 webrtc-allow-share-screen-and-microphone = أتسمح بأن يستعمل { $origin } ميكروفونك و يرى شاشتك؟
 webrtc-allow-share-screen-and-audio-capture = أتسمح بأن يستمع { $origin } للصوت على هذا اللسان و يرى شاشتك؟
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = أتسمح لهذا الملف المحلي باستخدام سماعات أخرى؟
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -213,7 +200,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = أتسمح بأ�
 
 webrtc-share-screen-warning = لا تشارك الشاشة إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بياناتك الخاصة.
 webrtc-share-browser-warning = لا تشارك { -brand-short-name } إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بيانات الخاصة.
-
 webrtc-share-screen-learn-more = اطّلع على المزيد
 webrtc-pick-window-or-screen = اختر نافذة أو شاشة
 webrtc-share-entire-screen = كل الشاشة
@@ -250,7 +236,6 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = تذكّر هذا القرار
 webrtc-mute-notifications-checkbox = اكتم تنبيهات المواقع أثناء المشاركة
-
 webrtc-reason-for-no-permanent-allow-screen = لا يُمكن أن يسمح { -brand-short-name } بوصول دائم إلى شاشتك.
 webrtc-reason-for-no-permanent-allow-audio = لا يستطيع { -brand-short-name } أن يسمح بمشاركة دائمة للصوت على اللسان بدون السؤال عن أي لسان سيشارك.
 webrtc-reason-for-no-permanent-allow-insecure = الاتصال بهذا الموقع غير آمن. لحمايتك، لم يسمح { -brand-short-name } بالوصول إلا لهذه الجلسة.
