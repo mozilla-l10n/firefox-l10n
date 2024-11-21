@@ -14,13 +14,17 @@ xpinstall-prompt-message = Üritad paigaldada lisa saidilt { $host }. Enne jätk
 
 xpinstall-prompt-header-unknown = Kas lubada tundmatul saidil lisa paigaldamine?
 xpinstall-prompt-message-unknown = Üritad paigaldada lisa tundmatult saidilt. Enne jätkamist veendu, et usaldad seda saiti.
-
 xpinstall-prompt-dont-allow =
     .label = Ära luba
     .accesskey = r
 xpinstall-prompt-never-allow =
     .label = Ära luba mitte kunagi
     .accesskey = Ä
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Teavita kahtlasest saidist
+    .accesskey = T
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -30,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = See sait taotleb juurdepääsu sinu MIDI-seadmetele (Musical Instrument Digital Interface). Juurdepääsu seadmetele saab lubada lisa paigaldamise teel.
+site-permission-install-first-prompt-midi-message = Selle juurdepääsu ohutust ei garanteerita. Jätka ainult siis, kui usaldad seda saiti.
 
 ##
 
@@ -38,7 +44,6 @@ xpinstall-disabled = Tarkvara paigaldamine on praegu keelatud. Klõpsa Luba ja p
 xpinstall-disabled-button =
     .label = Luba
     .accesskey = b
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -47,7 +52,6 @@ addon-install-blocked-by-policy = Lisa { $addonName } ({ $addonId }) on süsteem
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Sinu süsteemiadministraator takistas sellel veebilehel sinult luba küsida tarkvara paigaldamiseks sinu arvutisse.
 addon-install-full-screen-blocked = Täisekraanirežiimis või sellesse sisenemisel pole lisade paigaldamine lubatud.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name }ile paigaldati lisa { $addonName }
@@ -65,7 +69,6 @@ addon-removal-title = Kas eemaldada lisa { $name }?
 addon-removal-message = Kas soovid laienduse { $name } { -brand-shorter-name }ist eemaldada?
 addon-removal-button = Eemalda
 addon-removal-abuse-report-checkbox = Teavita { -vendor-short-name }t sellest lisast
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -74,7 +77,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } lisa allalaadimine ja kontrollimine…
     }
 addon-download-verifying = Kontrollimine
-
 addon-install-cancel-button =
     .label = Loobu
     .accesskey = L
