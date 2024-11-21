@@ -636,6 +636,15 @@ urlbar-searchmode-history =
     .label = التأريخ
 urlbar-searchmode-actions =
     .label = الإجراءات
+urlbar-searchmode-exit-button =
+    .tooltiptext = أغلق
+urlbar-searchmode-popup-search-settings = إعدادات البحث
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }، اختر محرك بحث
+    .tooltiptext = { $engine }، اختر محرك بحث
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

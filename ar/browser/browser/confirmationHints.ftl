@@ -15,6 +15,7 @@ confirmation-hint-password-updated = تحدّثت كلمة السر
 confirmation-hint-address-created = حُفظ العنوان
 confirmation-hint-address-updated = حُدِّث العنوان
 confirmation-hint-credit-card-created = حُفظت البطاقة
+confirmation-hint-credit-card-updated = حُدِّثت البطاقة
 confirmation-hint-pin-tab = ثبّتناه!
 confirmation-hint-pin-tab-description = انقر باليمين على اللسان لإفلاته.
 confirmation-hint-send-to-device = نجح الإرسال.

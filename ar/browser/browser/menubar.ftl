@@ -259,6 +259,11 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = علامات المحمول
 
+## Profiles Menu
+
+menu-profiles =
+    .label = ملفات الإعدادات
+
 ## Tools Menu
 
 menu-tools =
