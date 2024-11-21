@@ -34,9 +34,38 @@ edit-profile-page-avatar-header = چهرک
 edit-profile-page-delete-button =
     .label = حذف
 edit-profile-page-no-name = این نمایه را نام‌گذاری کنید تا بعداً بتوانید آن را پیدا کنید. هر زمان که خواستید، می‌توانید این نام را تغییر دهید.
+edit-profile-page-duplicate-name = این نام نمایه از قبل استفاده شده است. از نام جدید دیگری امتحان کنید.
+edit-profile-page-profile-saved = ذخیره شد
+new-profile-page-title = نمایه جدید
+new-profile-page-header = نمایه جدید خود را شخصی‌سازی کنید
+new-profile-page-header-description = هر نمایه تاریخچه مرورگر و تنظیمات منحصر به فرد خود را جدا از نمایه‌های دیگر نگه می‌دارد. علاوه بر این، محافظت‌های حریم خصوصی قوی { -brand-short-name } به صورت پیش‌فرض فعال است.
+new-profile-page-learn-more = بیشتر بدانید
+new-profile-page-input-placeholder =
+    .placeholder = یک نام مانند «کار» یا «شخصی» انتخاب کنید
+new-profile-page-done-button =
+    .label = ویرایش‌ها انجام شد
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = حذف نمایه { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = آیا نمایه { $profilename } را حذف کنم؟
+delete-profile-description = { -brand-short-name } به طور دائمی داده‌های زیر را از این دستگاه حذف خواهد کرد:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = پنجره‌های باز
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = زبانه‌های باز
+delete-profile-bookmarks = نشانک‌ها
+delete-profile-history = تاریخچه (صفحات بازدید شده، کوکی‌ها، اطلاعات وبگاه)
+delete-profile-autofill = اطلاعات تکمیل خودکار (نشانی‌ها، روش‌های پرداخت)
+delete-profile-logins = گذرواژه‌ها
+# Button label
+delete-profile-cancel = انصراف
+# Button label
+delete-profile-confirm = حذف
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
