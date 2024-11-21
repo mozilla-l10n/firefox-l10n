@@ -9,6 +9,31 @@ profile-window-body = مرورگری‌های کاری و شخصی خود، شا
 profile-window-checkbox-label =
     .label = هنگامی که { -brand-short-name } باز می‌شود، این را باز کنید
 profile-window-create-profile = ایجاد نمایه
+profile-card-edit-button =
+    .title = ویرایش نمایه
+    .aria-label = ویرایش نمایه
+profile-card-delete-button =
+    .title = حذف نمایه
+    .aria-label = حذف نمایه
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = باز کردن { $profileName }
+    .aria-label = باز کردن { $profileName }
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = نمایه { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = نمایه اصلی
+edit-profile-page-title = ویرایش نمایه
+edit-profile-page-header = ویرایش نمایه خود
+edit-profile-page-profile-name-label = نام نمایه
+edit-profile-page-theme-header = پوسته
+edit-profile-page-explore-themes = جستجوی پوسته‌های بیشتر
+edit-profile-page-avatar-header = چهرک
+edit-profile-page-delete-button =
+    .label = حذف
+edit-profile-page-no-name = این نمایه را نام‌گذاری کنید تا بعداً بتوانید آن را پیدا کنید. هر زمان که خواستید، می‌توانید این نام را تغییر دهید.
 
 ## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
 
