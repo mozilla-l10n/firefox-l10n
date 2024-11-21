@@ -68,3 +68,13 @@ about-private-browsing-pin-promo-title = طوری در اینترنت گشت و 
 about-private-browsing-cookie-banners-promo-header = برنماهای کوکی گورشان را گم کرده‌اند!
 about-private-browsing-cookie-banners-promo-button = کاهش برنماهای کوکی
 about-private-browsing-cookie-banners-promo-message = اجازه دهید { -brand-short-name } به‌طور خودکار به پنجره‌های بازشو کوکی پاسخ دهد تا شما بتوانید با حواس جمع به مرور مطالب اینترنت بپردازید. { -brand-short-name } در صورت امکان همه درخواست‌ها را رد می‌کند.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } از برنمای کلوچک برای شما مراقبت می‌کند
+about-private-browsing-cookie-banners-promo-body = ما اکنون به‌صورت خودکار بسیاری از برنمای کلوچک را رد می‌کنیم تا شما کمتر ردیابی شوید و بتوانید بدون حواس‌پرتی به مرور وب بپردازید.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = هیچ ردپایی بر روی این دستگاه نگذار
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کوکی‌ها، تاریخچه و داده‌های وبگاه شما را زمانی که تمام پنجره‌های خصوصی را می‌بندید، حذف می‌کند.
+about-private-browsing-felt-privacy-v1-info-link = چه کسی ممکن است بتواند فعالیت‌های من را ببیند؟

@@ -102,3 +102,4 @@ account-multiple-tabs-arriving-from-unknown-device =
 ## Variables:
 ##   $closedCount (Number): the number of tabs closed
 
+account-view-recently-closed-tabs = نمایش زبانه‌های تازه بسته شده
