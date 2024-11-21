@@ -69,3 +69,5 @@ sidebar-callout-survey-strongly-agree = Потпуно се слажем
 sidebar-callout-survey-agree = Слажем се
 sidebar-callout-survey-disagree = Не слажем се
 sidebar-callout-survey-strongly-disagree = Потпуно се не слажем
+sidebar-callout-survey-features-question = Следе могуће функције бочне траке. Које би вам највише поспешиле продуктивност у { -brand-short-name }-у?
+sidebar-callout-survey-split-view = Истовремено гледајте два различита сајта један поред другог
