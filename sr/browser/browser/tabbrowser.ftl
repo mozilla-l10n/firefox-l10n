@@ -176,6 +176,7 @@ tabbrowser-tab-audio-playing-description = Репродукција звука
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
+            [one] Приажи { $tabCount } картицу
             [few] Прикажи све { $tabCount } картице
            *[other] Прикажи свих { $tabCount } картица
         }
