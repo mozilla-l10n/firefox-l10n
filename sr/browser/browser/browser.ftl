@@ -643,6 +643,17 @@ urlbar-searchmode-actions =
     .label = Радње
 urlbar-searchmode-exit-button =
     .tooltiptext = Затвори
+urlbar-searchmode-popup-description = Овај пут претражи користећи:
+urlbar-searchmode-popup-search-settings = Подешавање претраге
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, изабери претраживач
+    .tooltiptext = { $engine }, изабери претраживач
+urlbar-searchmode-button-no-engine =
+    .label = Није изабрана пречица, изабери пречицу
+    .tooltiptext = Није изабрана пречица, изабери пречицу
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -668,6 +679,26 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Брзе радње
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Недавне претраге
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = У { $engine } тренду
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Не приказуј претраге у тренду
+    .accesskey = Н
+urlbar-result-menu-trending-why =
+    .label = Зашто ми се ово приказује?
+    .accesskey = З
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Хвала на повратним информацијама. Више нећете видети претраге у тренду.
 
 ## Reader View toolbar buttons
 
@@ -935,6 +966,7 @@ restore-session-startup-suggestion-button = Покажи ми како
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Ваша организација је блокирала приступ локалним датотекама на овом рачунару
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -944,6 +976,13 @@ data-reporting-notification-button =
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватно прегледање
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Приватно прегледање
+content-analysis-panel-title = Заштита података
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ваша организација користи <b>{ $agentName }</b> за заштиту од губитка података. <a data-l10n-name="info">Сазнајте више</a>
 
 ## Unified extensions (toolbar) button
 
@@ -971,6 +1010,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Заврши приватну сесију
+    .tooltiptext = Заврши приватну сесију
+reset-pbm-panel-heading = Заврши приватну сесију?
+reset-pbm-panel-description = Затвори све приватне картице и обриши историју, колачиће и све остале податке.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Увек ме питај
+    .accesskey = У
+reset-pbm-panel-cancel-button =
+    .label = Откажи
+    .accesskey = О
+reset-pbm-panel-confirm-button =
+    .label = Обриши податке сесије
+    .accesskey = п
+reset-pbm-panel-complete = Подаци приватне сесије су обрисани
 
 ## Autorefresh blocker
 
@@ -993,6 +1047,7 @@ firefox-relay-offer-legal-notice = Кликом на „Користи маск�
 popup-notification-addon-install-unsigned =
     .value = (неверефиковано)
 popup-notification-xpinstall-prompt-learn-more = Сазнајте више о безбедном инсталирању додатака
+popup-notification-xpinstall-prompt-block-url = Прикажи детаље
 
 ## Pop-up warning
 
