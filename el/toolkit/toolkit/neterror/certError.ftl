@@ -100,7 +100,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Οι ιστότοποι χρησ
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Αν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στην ίδια την ιστοσελίδα. Αν είναι λάθος, μπορείτε να το διορθώσετε από τις ρυθμίσεις συστήματος της συσκευής σας.
+fp-certerror-expired-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Κωδικός σφάλματος: { $error }
