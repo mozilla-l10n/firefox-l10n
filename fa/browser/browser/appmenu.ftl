@@ -199,6 +199,7 @@ profiler-popup-presets-power-description = تنظیمات مربوط به برر
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = نیرو
+profiler-popup-presets-debug-description = پیش‌تنظیم برای اشکال‌زدایی در { -brand-shorter-name }. سربار بالا، برای کارهای عملکردی استفاده نشود بلکه برای تمرکز بر درک رفتار مرورگر استفاده شود.
 profiler-popup-presets-debug-label =
     .label = اشکال‌زدایی
 profiler-popup-presets-custom-label =
@@ -279,3 +280,8 @@ appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 
 ## Profiles panel
 
+appmenu-profiles = نمایه‌ها
+appmenu-create-profile =
+    .label = نمایه جدید
+appmenu-edit-profile =
+    .aria-label = ویرایش نمایه
