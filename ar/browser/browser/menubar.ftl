@@ -263,6 +263,10 @@ menu-bookmarks-mobile =
 
 menu-profiles =
     .label = ملفات الإعدادات
+menu-profiles-manage-profiles =
+    .label = أدِر ملفات الإعدادات
+menu-profiles-new-profile =
+    .label = ملف إعداد جديد
 
 ## Tools Menu
 

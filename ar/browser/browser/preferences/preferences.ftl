@@ -28,6 +28,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = ابحث في الإعدادات
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
+managed-notice-info-icon =
+    .alt = معلومة
 category-list =
     .aria-label = الفئات
 pane-general-title = عام
@@ -862,6 +864,10 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = كلمات السر
     .searchkeywords = س
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = اسأل لحفظ كلمات المرور
+    .accesskey = ت
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -979,6 +985,7 @@ sitedata-delete-on-close =
     .label = احذف الكعكات وبيانات المواقع عندما ينغلق { -brand-short-name }
     .accesskey = ذ
 sitedata-delete-on-close-private-browsing = في وضع التصفح الخاص الدائم، تُمسح الكعكات وبيانات المواقع متى ما أُغلق { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = استنادًا إلى إعدادات التأريخ لديك، يحذف { -brand-short-name } الكعكات وبيانات الموقع من جلستك عند إغلاق المتصفح.
 sitedata-allow-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع
     .accesskey = ق
