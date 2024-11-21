@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -36,7 +42,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,7 +51,6 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->
@@ -153,6 +157,8 @@ menu-view-history-button =
     .label = Историја
 menu-view-synced-tabs-sidebar =
     .label = Синхронизоване картице
+menu-view-megalist-sidebar =
+    .label = Лозинке
 menu-view-full-zoom =
     .label = Зумирање
     .accesskey = З
@@ -233,6 +239,9 @@ menu-history-undo-menu =
     .label = Недавно затворене картице
 menu-history-undo-window-menu =
     .label = Недавно затворени прозори
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Претражи историју
 
 ## Bookmarks Menu
 
@@ -245,6 +254,9 @@ menu-bookmark-tab =
     .label = Обележи тренутни језичак…
 menu-edit-bookmark =
     .label = Уреди овај обележивач…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Претражи обележиваче
 menu-bookmarks-all-tabs =
     .label = Обележи све картице…
 menu-bookmarks-toolbar =
@@ -253,6 +265,15 @@ menu-bookmarks-other =
     .label = Други обележивачи
 menu-bookmarks-mobile =
     .label = Мобилни обележивачи
+
+## Profiles Menu
+
+menu-profiles =
+    .label = Профили
+menu-profiles-manage-profiles =
+    .label = Управљај профилима
+menu-profiles-new-profile =
+    .label = Нови профил
 
 ## Tools Menu
 
@@ -351,3 +372,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ово није обмањујућ сајт…
     .accesskey = б
+menu-report-broken-site =
+    .label = Пријави неисправан сајт

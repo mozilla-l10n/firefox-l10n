@@ -4,25 +4,24 @@
 
 fxviewtabrow-open-menu-button =
     .title = Отвори мени
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Отворите { $targetURI } у новом језичку
-
+# Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Затвори { $tabTitle }
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Одбаци { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Управо сад
 
@@ -44,3 +43,14 @@ fxviewtabrow-save-to-pocket = Сачувај у { -pocket-brand-name }
     .accesskey = С
 fxviewtabrow-copy-link = Копирај везу
     .accesskey = в
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Опције за { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Утишај картицу
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Појачај картицу

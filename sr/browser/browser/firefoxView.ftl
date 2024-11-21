@@ -36,7 +36,7 @@ firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на с�
 firefoxview-syncedtabs-signin-description-2 = Да видите отворене картице на вашем телефону и другим уређајима, пријавите се или направите налог. Са налогом можете и да синхронизујете ваше лозинке, историју и остало.
 firefoxview-syncedtabs-signin-primarybutton-2 = Пријави се
 firefoxview-syncedtabs-signin-header = Зграбите картице са било ког места
-firefoxview-syncedtabs-signin-description = Да видите ваше картице кад год користите { -brand-product-name }, пријавите се у ваш налог. Ако немате налог, провешћемо вас кроз кораке за прављење.
+firefoxview-syncedtabs-signin-description = Да видите ваше картице кад год користите { -brand-product-name }, пријавите се у ваш налог. Ако немате налог, провешћемо вас кроз кораке за регистрацију.
 firefoxview-tabpickup-adddevice-header = Синхронизуј { -brand-product-name } на свом телефону или таблету
 firefoxview-tabpickup-adddevice-description = Преузмите { -brand-product-name } за телефон и пријавите се.
 firefoxview-tabpickup-adddevice-learn-how = Сазнајте како
@@ -170,13 +170,23 @@ firefoxview-syncedtabs-device-notabs = Нема отворених картиц�
 firefoxview-syncedtabs-connect-another-device = Повежи други уређај
 firefoxview-pinned-tabs =
     .title = Прикачене картице
+firefoxview-tabs =
+    .title = Картице
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Пребаци на { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Пребаци на (обележено) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (обележено) { $url }

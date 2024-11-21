@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = Аутор: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Препорука
     .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Препорука
     .tooltiptext = Препорука функције
     .a11y-announcement = Доступна је препорука функције
@@ -211,6 +213,7 @@ cfr-cbh-confirm-button = Одбаци банере колачића
     .accesskey = О
 cfr-cbh-dismiss-button = Не сада
     .accesskey = Н
+cookie-banner-blocker-onboarding-learn-more = Сазнајте више
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -240,10 +243,6 @@ fxa-sync-cfr-secondary = Подсети ме касније
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Користите старији уређај?
-device-migration-fxa-spotlight-body = Направите резервну копију података да не изгубите важне податке као што су обележивачи и лозинке — посебно када их преносите на нови уређај.
-device-migration-fxa-spotlight-primary-button = Како да направим резервну копију
-device-migration-fxa-spotlight-link = Подсети ме касније
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате да набавите нови уређај?
 
 ## Set as Default PDF Reader Infobar
@@ -251,7 +250,37 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате 
 
 ## Launch on login infobar notification
 
+launch-on-login-learnmore = Сазнајте више
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-link = Зашто морам да ажурирам?
+root-certificate-succession-infobar-primary-button =
+    .label = Aжурирај сада
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Касније
+    .accesskey = К
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Затвори
+    .aria-label = Затвори
+fxa-menu-message-sign-up-button = Регистрација
+fxa-menu-message-sync-devices-primary-text = Синхронизујте све ваше уређаје
+fxa-menu-message-sync-devices-secondary-text = Одмах добијте ваше податке — обележиваче и лозинке — свуда где користите { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Синхронизујте све ваше уређаје
+fxa-menu-message-backup-data-primary-text = Направите резервну копију података прегледача
+fxa-menu-message-backup-data-secondary-text = Аутоматски обезбедите обележиваче, лозинке и друге податке на свим вашим уређајима.
+fxa-menu-message-backup-data-collapsed-text = Направите резервну копију података
+
+## Multi-CTA Fox Doodle Spotlight
 
