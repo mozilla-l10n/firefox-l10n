@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Selle juurdepääsu ohutust 
 ##
 
 xpinstall-disabled-locked = Tarkvara paigaldamine on süsteemiadministraatori poolt keelatud.
+xpinstall-disabled-by-policy = Tarkvara paigaldamine on sinu organisatsiooni poolt keelatud.
 xpinstall-disabled = Tarkvara paigaldamine on praegu keelatud. Klõpsa Luba ja proovi uuesti.
 xpinstall-disabled-button =
     .label = Luba
