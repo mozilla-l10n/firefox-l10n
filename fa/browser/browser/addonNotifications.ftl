@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = تضمینی برای امن
 ##
 
 xpinstall-disabled-locked = مدیر سیستم شما نصب نرم‌افزار را غیرفعال کرده است.
+xpinstall-disabled-by-policy = نصب نرم‌افزار توسط سازمان شما غیرفعال شده است.
 xpinstall-disabled = نصب نرم‌افزار در حال حاضر غیرفعال است. روی «فعال‌سازی» کلیک کرده و دوباره سعی کنید.
 xpinstall-disabled-button =
     .label = فعال‌سازی
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) توسط مدیر سیستم شما مسدود شده است.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = مدیر سیستم شما از درخواست این سایت برای نصب نرم افزار روی کامپیوتر شما جلوگیری کرد.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) توسط سازمان شما مسدود شده است.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = سازمان شما از درخواست این وبگاه برای نصب نرم‌افزار روی رایانه شما جلوگیری کرده است.
 addon-install-full-screen-blocked = نصب افزونه در حین یا قبل از ورود به حالت تمام صفحه مجاز نیست.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -123,4 +131,8 @@ addon-local-install-error-not-signed = این افزودنی نمیتواند ن
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = افزودنی { $addonName } با نسخهٔ { $appVersion } از { -brand-short-name } سازگار نیست، و به همین دلیل امکان نصب آن وجود ندارد.
+addon-install-error-hard-blocked = { $addonName } قوانین Mozilla را نقض می‌کند و نمی‌تواند روی { -brand-short-name } نصب شود.
 addon-install-error-blocklisted = امکان نصب { $addonName } به دلیل ریسک بالای ایجاد مشکلات پایداری و امنیتی توسط آن وجود ندارد.
+addon-install-error-soft-blocked = { $addonName } قوانین Mozilla را نقض می‌کند و نمی‌تواند روی { -brand-short-name } نصب شود.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = شما نمی‌توانید { $addonName } را به عنوان یک کاربر نهایی نصب کنید، تنها می‌تواند توسط سازمانی با استفاده از سیاست‌های سازمانی نصب شود.

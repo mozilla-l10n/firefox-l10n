@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = نمایش زبانه‌های بیشتر
     .tooltiptext = نمایش زبانه‌های بیشتر از این دستگاه
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = زبانه‌های خاموش
+    .tooltiptext = زبانه‌های خاموش این دستگاه را ببینید
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بدون زبانهٔ باز
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -104,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = همگام‌سازی و ذخیرهٔ داده
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
+appmenu-fxa-setup-sync-new = روشن کردن
 appmenuitem-save-page =
     .label = ذخیرهٔ صفحه به عنوان…
+appmenuitem-fxa-sync-off-title = همگام‌سازی خاموش است
+appmenuitem-fxa-sync-off-description = محافظت و دسترسی به نشانک‌ها، گذرواژه‌ها و موارد دیگر در هر مکان
 
 ## What's New panel in App menu.
 
@@ -269,3 +276,6 @@ appmenuitem-sign-in-account = وارد حساب کاربری خود شوید
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+
+## Profiles panel
+

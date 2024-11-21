@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = نمایش زبانه‌های تازه بسته شده
+account-tabs-closed-remotely =
+    { NUMBER($closedCount) ->
+        [one] { $closedCount } { -brand-short-name } زبانه بسته شده است
+       *[other] { $closedCount } { -brand-short-name } زبانه بسته شده است
+    }
