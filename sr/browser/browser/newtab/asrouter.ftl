@@ -281,6 +281,12 @@ fxa-menu-message-sync-devices-collapsed-text = Синхронизујте све
 fxa-menu-message-backup-data-primary-text = Направите резервну копију података прегледача
 fxa-menu-message-backup-data-secondary-text = Аутоматски обезбедите обележиваче, лозинке и друге податке на свим вашим уређајима.
 fxa-menu-message-backup-data-collapsed-text = Направите резервну копију података
+fxa-menu-message-backup-sync-primary-text = Да ваши подаци буду безбедни и синхронизовани
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Добродошли назад
+multi-cta-fox-doodle-set-default-checkbox = Поставите { -brand-short-name } на подразумевано
+multi-cta-fox-doodle-pin-startmenu-checkbox = Прикачите { -brand-short-name } на почетни мени
+multi-cta-fox-doodle-start-browsing-primary-button-label = Започните прегледање
+multi-cta-fox-doodle-main-browser-primary-button-label = Постави { -brand-short-name } за мој главни прегледач
