@@ -52,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Lisa { $addonName } ({ $addonId }) on süsteemiadministraatori poolt blokitud.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Sinu süsteemiadministraator takistas sellel veebilehel sinult luba küsida tarkvara paigaldamiseks sinu arvutisse.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Lisa { $addonName } ({ $addonId }) on sinu organisatsiooni poolt blokitud.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Sinu organisatsioon takistas sellel veebilehel sinult luba küsida tarkvara paigaldamiseks sinu arvutisse.
 addon-install-full-screen-blocked = Täisekraanirežiimis või sellesse sisenemisel pole lisade paigaldamine lubatud.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -59,6 +66,10 @@ webext-perms-sideload-menu-item = { -brand-short-name }ile paigaldati lisa { $ad
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } nõuab uusi õigusi
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Lõpeta { -brand-short-name }i imporditud laienduste paigaldamine.
 
 ## Add-on removal warning
 
@@ -120,4 +131,8 @@ addon-local-install-error-not-signed = Seda lisa polnud võimalik paigaldada, ku
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Lisa { $addonName } polnud võimalik paigaldada, kuna see ei ühildu { -brand-short-name }i versiooniga { $appVersion }.
+addon-install-error-hard-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
 addon-install-error-blocklisted = Lisa { $addonName } polnud võimalik paigaldada, kuna see võib põhjustada tõsiseid stabiilsuse või turvalisuse probleeme.
+addon-install-error-soft-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Lisa { $addonName } paigaldamine lõppkasutajana pole võimalik, selle saab paigaldada ainult ettevõtte reegleid kasutav organisatsioon.
