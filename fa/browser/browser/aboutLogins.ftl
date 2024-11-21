@@ -433,6 +433,7 @@ about-logins-import-dialog-error-try-import-again = تلاش مجدد برای �
 about-logins-import-dialog-error-cancel = انصراف
 about-logins-import-report-title = خلاصهٔ ورود اطلاعات
 about-logins-import-report-description = ورودها و گذرواژه‌ها به { -brand-short-name } وارد شدند.
+about-logins-import-report-description2 = گذرواژه‌ها به { -brand-short-name } درون‌ریزی شدند.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -440,6 +441,9 @@ about-logins-import-report-row-index = ردیف { $number }
 about-logins-import-report-row-description-no-change = تکراری: مطابقت کامل به یک ورود دیگر
 about-logins-import-report-row-description-modified = ورود بروزرسانی شد
 about-logins-import-report-row-description-added = ورود جدید اضافه شد
+about-logins-import-report-row-description-no-change2 = تکراری: تطابق دقیق با ورودی موجود
+about-logins-import-report-row-description-modified2 = ورودی موجود به‌روزرسانی شد
+about-logins-import-report-row-description-added2 = گذرواژه جدید اضافه شد
 about-logins-import-report-row-description-error = خطا: فیلدِ ناموجود
 
 ##
@@ -467,6 +471,18 @@ about-logins-import-report-no-change =
     { $count ->
         [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود تکراری</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
        *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود تکراری</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">گذرواژه‌های جدید اضافه شدند</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورودی‌های موجود به‌روزرسانی شدند</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورودی‌های تکراری</div> <div data-l10n-name="not-imported">(درون‌ریزی نشد)</div>
     }
 about-logins-import-report-error =
     { $count ->
