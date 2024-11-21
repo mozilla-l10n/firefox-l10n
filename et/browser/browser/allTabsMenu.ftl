@@ -14,3 +14,7 @@ all-tabs-menu-manage-user-context =
     .accesskey = H
 all-tabs-menu-close-duplicate-tabs =
     .label = Sulge dubleerivad kaardid
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Sulge kõik dubleerivad kaardid
+all-tabs-menu-synced-tabs =
+    .label = Kaardid teistest seadmetest
