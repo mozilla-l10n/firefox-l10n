@@ -643,6 +643,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
 urlbar-searchmode-popup-search-settings = Roghainnean luirg
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, tagh einnsean-luirg
+    .tooltiptext = { $engine }, tagh einnsean-luirg
+urlbar-searchmode-button-no-engine =
+    .label = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
+    .tooltiptext = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -668,6 +677,23 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Grad-ghnìomhan
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Luirg o chionn goirid
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = A’ treandadh air { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Na seall luirg a tha a’ treandadh
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Carson a tha mi a’ faicinn seo?
+    .accesskey = C
 
 ## Reader View toolbar buttons
 
