@@ -77,18 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Seall barrachd tabaichean
     .tooltiptext = Seall barrachd thabaichean on uidheam seo
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Seall { $count } taba neo-ghnìomhach
-            [two] Seall { $count } thaba neo-ghnìomhach
-            [few] Seall { $count } tabaichean neo-ghnìomhach
-           *[other] Seall { $count } taba neo-ghnìomhach
-        }
-    .tooltiptext = Seall na tabaichean neo-ghnìomhach air an uidheam seo
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Tabaichean neo-ghnìomhach
+    .tooltiptext = Faic na tabaichean neo-ghnìomhach air an uidheam seo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Chan eil taba fosgailte
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -106,6 +98,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
 appmenuitem-fxa-sign-in = Clàraich a-steach gu { -brand-product-name }
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Cunntas
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -115,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sioncronaich is sàbhail an dàta
 appmenu-fxa-signed-in-label = Clàraich a-steach
 appmenu-fxa-setup-sync =
     .label = Cuir an sioncronachadh air…
+appmenu-fxa-setup-sync-new = Cuir air
 appmenuitem-save-page =
     .label = Sàbhail an duilleag mar…
+appmenuitem-fxa-sync-off-title = Tha an sioncronachadh dheth
+appmenuitem-fxa-sync-off-description = Dìon is faigh cothrom air na comharran-lìn, na faclan-faire agad is mòran a bharrachd àite sam bith.
 
 ## What's New panel in App menu.
 
@@ -203,6 +199,9 @@ profiler-popup-presets-power-description = Preset for investigating power use bu
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Cumhachd
+profiler-popup-presets-debug-description = Preset for debugging in { -brand-shorter-name }. High overhead, do not use for performance work but use for focusing on understanding browser behavior.
+profiler-popup-presets-debug-label =
+    .label = Debug
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -271,6 +270,26 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Innealan a’ bhrabhsair
 appmenu-developer-tools-extensions =
     .label = Leudachain do luchd-leasachaidh
+appmenuitem-report-broken-site =
+    .label = Dèan aithris air làrach bhriste
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Clàraich a-steach dhan chunntas agad
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Faigh caismeachdan mu dhàta air an deach briseadh a-steach
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Cùm am fìor-phost-d is am fìor-fhòn agad am falach
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Dìon do ghnìomhachd air loidhne
+
+## Profiles panel
+
+appmenu-profiles = Pròifilean
+appmenu-other-profiles = Pròifilean eile
+appmenu-manage-profiles =
+    .label = Stiùirich na pròifilean
+appmenu-create-profile =
+    .label = Pròifil ùr
+appmenu-edit-profile =
+    .aria-label = Deasaich a’ phròifil

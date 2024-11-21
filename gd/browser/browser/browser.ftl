@@ -279,6 +279,9 @@ quickactions-cmd-plugins = plugain
 # Opens the print dialog
 quickactions-print2 = Clò-bhuail an duilleag
 quickactions-cmd-print = clò-bhuail
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Sàbhail an duilleag mar PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Fosgail uinneag phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach
@@ -350,6 +353,7 @@ identity-connection-secure = Tha an ceangal tèarainte
 identity-connection-failure = Dh’fhàillig leis a’ cheangal
 identity-connection-internal = Seo duilleag { -brand-short-name } tèarainte.
 identity-connection-file = Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.
+identity-connection-associated = Chaidh an duilleag seo a luchdadh o dhuilleag eile.
 identity-extension-page = Chaidh an duilleag seo ’ga luchdadh o leudachan.
 identity-active-blocked = Bhac { -brand-short-name } na pìosan dhen duilleag seo nach eil tèarainte.
 identity-custom-root = Chaidh an ceangal a dhearbhadh le teisteanas nach aithnich Mozilla.
@@ -359,6 +363,7 @@ identity-weak-encryption = Tha an duilleag seo a’ cleachdadh crioptachadh lag.
 identity-insecure-login-forms = Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.
 identity-https-only-connection-upgraded = (chaidh àrdachadh gu HTTPS)
 identity-https-only-label = Modh HTTPS a-mhàin
+identity-https-only-label2 = Àrdaich an làrach seo gu ceangal tèarainte gu fèin-obrachail
 identity-https-only-dropdown-on =
     .label = Air
 identity-https-only-dropdown-off =
@@ -367,6 +372,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Dheth rè seal
 identity-https-only-info-turn-on2 = Cuir am modh HTTPS air dhan làrach seo ma thogras tu gun àrdaich { -brand-short-name } an ceangal nuair a ghabhas seo a dhèanamh.
 identity-https-only-info-turn-off2 = Ma tha coltas briste air an duilleag seo, dh’fhaoidte gu bheil thu airson am modh HTTPS a-mhàin a chur dheth dhan làrach seo agus a h-ath-luchdadh le HTTP neo-thèarainte.
+identity-https-only-info-turn-on3 = Cuir àrdachadh HTTPS an comas dhan làrach seo ma tha thu airson ’s gun àrdaich { -brand-short-name } an ceangal nuair a ghabhas seo a dhèanamh.
+identity-https-only-info-turn-off3 = Ma tha coltas briste air an duilleag seo, dh’fhaoidte gum b’ fheàirrde dhut àrdachadh HTTPS a chur dheth dhan làrach seo agus ath-luchdadh air HTTP neo-thèarainte.
 identity-https-only-info-no-upgrade = Cha b’ urrainn dhuinn an ceangal àrdachadh o HTTP.
 identity-permissions-storage-access-header = Briosgaidean thar làraichean
 identity-permissions-storage-access-hint = ’S urrainn dha na pàrtaidhean seo briosgaidean agus dàta thar làraichean a chleachdadh fhad ’s a bhios tu air an làrach seo.
@@ -551,6 +558,8 @@ urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
     .tooltiptext = Gnìomhan na duilleige
+urlbar-revert-button =
+    .tooltiptext = Seall an seòladh ann am bàr an t-seòlaidh
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -571,6 +580,13 @@ urlbar-result-action-search-w-engine = Lorg le { $engine }
 urlbar-result-action-sponsored = Sponsairichte
 urlbar-result-action-switch-tab = Gearr leum gun taba
 urlbar-result-action-visit = Tadhail air
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Leum gun taba · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Tadhail air on stòr-bhòrd
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -601,6 +617,32 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Lorg le { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } – Lorg an-seo: { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } – Lorg le: { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Tagh einnsean-luirg
+urlbar-searchmode-bookmarks =
+    .label = Comharran-lìn
+urlbar-searchmode-tabs =
+    .label = Tabaichean
+urlbar-searchmode-history =
+    .label = An eachdraidh
+urlbar-searchmode-actions =
+    .label = Gnìomhan
+urlbar-searchmode-exit-button =
+    .tooltiptext = Dùin
+urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
+urlbar-searchmode-popup-search-settings = Roghainnean luirg
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -985,3 +1027,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Seall “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

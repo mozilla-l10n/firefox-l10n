@@ -146,3 +146,5 @@ addon-install-error-incompatible = Cha b’ urrainn dhuinn { $addonName } a stà
 addon-install-error-hard-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
 addon-install-error-blocklisted = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s bheil cunnart mòr gun adhbharaich e duilgheadasan seasmhachd no tèarainteachd.
 addon-install-error-soft-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Chan urrainn dhut { $addonName } a stàladh mar chleachdaiche deireannach, feumaidh buidheann a stàladh le poileasaidhean enterprise.
