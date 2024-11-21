@@ -14,7 +14,7 @@ about-logins-login-filter2 =
     .placeholder = جستجوی گذرواژه‌ها
     .key = F
 create-login-button =
-    .title = اضافه کردن گذرواژه
+    .title = افزودن گذرواژه
 fxaccounts-sign-in-text = گذرواژه‌هایتان را در دستگاه‌های دیگر خود نیز داشته باشید
 fxaccounts-sign-in-sync-button = ورود برای همگام‌سازی
 fxaccounts-avatar-button =
@@ -271,6 +271,19 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] { $count } گذرواژه پاک شود؟
        *[other] همه { $count } گذرواژه پاک شوند؟
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+        [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+       *[other] این عمل گذرواژه‌های ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] آیا { $count } گذرواژه از تمام دستگاه‌ها حذف شود؟
+       *[other] آیا همه { $count } گذرواژه از تمام دستگاه‌ها حذف شوند؟
     }
 
 ##
