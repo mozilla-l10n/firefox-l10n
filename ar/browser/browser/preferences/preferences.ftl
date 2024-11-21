@@ -869,7 +869,7 @@ pane-privacy-passwords-header = كلمات السر
     .searchkeywords = س
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
-    .label = اسأل لحفظ كلمات المرور
+    .label = اسأل لحفظ كلمات السر
     .accesskey = ت
 forms-exceptions =
     .label = الاستثناءات…
