@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Si è verificato un errore durante l’invio della segnalazione. Riprova più tardi.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Problema risolto? Invia una segnalazione
 
 ## These strings are used to define the different levels of
@@ -22,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Ulteriori informazioni sulla protezione antitracciamento avanzata
 protections-panel-etp-on-header = La protezione antitracciamento avanzata è ATTIVA per questo sito.
 protections-panel-etp-off-header = La protezione antitracciamento avanzata è DISATTIVATA per questo sito
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Il sito non funziona?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Sito non funzionante
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -36,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Protezione antitracciamento avanzata
     .description = Disattivata per questo sito
     .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Il sito non funziona?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sito non funzionante
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -70,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinter
 protections-panel-blocking-label = Bloccati
 protections-panel-not-blocking-label = Consentiti
 protections-panel-not-found-label = Non rilevati
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blocca i contenuti traccianti mentre navighi su questo sito, a meno che tu non lo consenta.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Consenti { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Bloccati elementi traccianti e contenuti di { $trackername }
+smartblock-placeholder-desc = Le impostazioni di { -brand-short-name } hanno impedito a questi contenuti di tracciarti su tutti i siti o di essere utilizzati per scopi pubblicitari.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Consenti su { $websitehost }
 
 ##
 
@@ -133,6 +147,8 @@ protections-panel-cookie-banner-view-turn-off-for-site = Disattivare Riduzione b
 protections-panel-cookie-banner-view-turn-on-for-site = Attivare Riduzione banner per i cookie per questo sito?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blocco banner per i cookie
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disattivare Blocco banner per i cookie per { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Attivare Blocco banner per i cookie per questo sito?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminerà i cookie per questo sito e aggiornerà la pagina. L’eliminazione dei cookie potrebbe disconnetterti dal sito o svuotare eventuali carrelli in sospeso.

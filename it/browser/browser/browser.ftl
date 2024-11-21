@@ -548,7 +548,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Azioni per la pagina
 urlbar-revert-button =
-  .tooltiptext = Mostra l’indirizzo nella barra degli indirizzi
+    .tooltiptext = Mostra l’indirizzo nella barra degli indirizzi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -606,15 +606,18 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, scegli un motore di ricerca
-    .tooltiptext = { $engine }, scegli un motore di ricerca
-urlbar-searchmode-button-no-engine =
-    .label = Nessuna scorciatoia selezionata, scegline una
-    .tooltiptext = Nessuna scorciatoia selezionata, scegline una
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Cerca con { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Cerca { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Cerca con { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = Scegli un motore di ricerca
 urlbar-searchmode-bookmarks =
@@ -627,24 +630,17 @@ urlbar-searchmode-actions =
     .label = Azioni
 urlbar-searchmode-exit-button =
     .tooltiptext = Chiudi
-
 urlbar-searchmode-popup-description = Adesso cerca con:
 urlbar-searchmode-popup-search-settings = Impostazioni ricerca
-
-# Label prompting user to search with a particular search engine.
-#  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = Cerca con { $engine }
-
-# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
-#  $keywords (String): the restrict keyword to enter search mode.
-#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
-#  or actions) to search with.
-urlbar-result-search-with-local-search-mode = { $keywords } - Cerca { $localSearchMode }
-
-# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
-#  $keywords (String): the default keyword and user's set keyword if available
-#  $engine (String): the name of a search engine
-urlbar-result-search-with-engine-keywords = {$keywords} - Cerca con { $engine }
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, scegli un motore di ricerca
+    .tooltiptext = { $engine }, scegli un motore di ricerca
+urlbar-searchmode-button-no-engine =
+    .label = Nessuna scorciatoia selezionata, scegline una
+    .tooltiptext = Nessuna scorciatoia selezionata, scegline una
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -675,13 +671,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Ricerche recenti
-
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
-  .label = Di tendenza su { $engine }
-
+    .label = Di tendenza su { $engine }
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Non mostrare ricerche di tendenza
@@ -689,7 +683,6 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Perché viene visualizzato questo elemento?
     .accesskey = P
-
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Grazie per il tuo feedback. Le ricerche di tendenza non verranno più visualizzate.
@@ -970,11 +963,9 @@ data-reporting-notification-button =
     .accesskey = S
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigazione anonima
-
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navigazione anonima
-
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -983,7 +974,6 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Protezione dati
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = La tua organizzazione utilizza { $agentName } per proteggersi da eventuali perdite di dati. <a data-l10n-name="info">Ulteriori informazioni</a>
 content-analysis-panel-text-styled = La tua organizzazione utilizza <b>{ $agentName }</b> per proteggersi da eventuali perdite di dati. <a data-l10n-name="info">Ulteriori informazioni</a>
 
 ## Unified extensions (toolbar) button
@@ -1009,6 +999,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Estensioni
         Alcune estensioni non sono consentite
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Estensioni
+    .tooltiptext =
+        Estensioni
+        Alcune estensioni sono disattivate
 
 ## Private browsing reset button
 
@@ -1049,9 +1048,7 @@ firefox-relay-offer-legal-notice = Facendo clic su “Utilizza alias di posta el
 popup-notification-addon-install-unsigned =
     .value = (non verificato)
 popup-notification-xpinstall-prompt-learn-more = Scopri come installare componenti aggiuntivi in completa sicurezza
-
 popup-notification-xpinstall-prompt-block-url = Mostra dettagli
-
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Esegui in finestre anonime
@@ -1092,7 +1089,6 @@ file-picker-failed-open = Impossibile aprire la finestra di selezione file di Wi
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Impossibile aprire la finestra di selezione file di Windows. Il file verrà salvato come { $path }.
 file-picker-failed-save-nowhere = Impossibile aprire la finestra di selezione file di Windows. Non è stata trovata una cartella predefinita e il file non verrà salvato.
-
 file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stato selezionato alcun file o cartella.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
