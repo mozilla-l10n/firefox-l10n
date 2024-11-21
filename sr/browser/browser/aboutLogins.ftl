@@ -146,9 +146,12 @@ login-item-copied-username-button-text = Копирано!
 login-item-password-label = Лозинка
 login-item-password-reveal-checkbox =
     .aria-label = Прикажи лозинку
+login-item-password-conceal-checkbox =
+    .aria-label = Сакриј лозинку
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Копирано!
 login-item-save-changes-button = Сачувај
+about-logins-login-item-save-changes-button = Сачувај
 login-item-save-new-button = Сачувај
 login-item-cancel-button = Откажи
 

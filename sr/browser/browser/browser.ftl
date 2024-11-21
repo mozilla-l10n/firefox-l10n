@@ -279,6 +279,9 @@ quickactions-cmd-plugins = прикључци
 # Opens the print dialog
 quickactions-print2 = Штампај страницу
 quickactions-cmd-print = штампај
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Сачувај страницу као PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Отвори приватни прозор
 quickactions-cmd-private = приватно прегледање
@@ -355,6 +358,7 @@ identity-connection-internal =
        *[other] програма { -brand-short-name }
     }.
 identity-connection-file = Ова страница је сачувана на рачунару.
+identity-connection-associated = Ова страница је учитана из друге странице.
 identity-extension-page = Ову страницу је отворио додатак.
 identity-active-blocked =
     { -brand-short-name.gender ->
@@ -370,6 +374,7 @@ identity-weak-encryption = Ова страница користи слабо ш�
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
 identity-https-only-connection-upgraded = (надограђено на HTTPS)
 identity-https-only-label = Режим „Само HTTPS”
+identity-https-only-label2 = Аутоматски надоградите ову страницу на безбедну везу
 identity-https-only-dropdown-on =
     .label = Укључено
 identity-https-only-dropdown-off =
@@ -579,6 +584,11 @@ urlbar-result-action-search-w-engine = Претражи у претражива�
 urlbar-result-action-sponsored = Спонзорисано
 urlbar-result-action-switch-tab = Пређи на картицу
 urlbar-result-action-visit = Посети
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Пребаци на картицу · <span>{ $container }</span>
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -606,6 +616,33 @@ urlbar-result-action-copy-to-clipboard = Копирај
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Претражи у { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - претражи { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - претражи у { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Изаберите претраживач
+urlbar-searchmode-bookmarks =
+    .label = Обележивачи
+urlbar-searchmode-tabs =
+    .label = Картице
+urlbar-searchmode-history =
+    .label = Историја
+urlbar-searchmode-actions =
+    .label = Радње
+urlbar-searchmode-exit-button =
+    .tooltiptext = Затвори
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -896,6 +933,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Отворити претходне картице?</strong> Можете повратити претходну сесију из менија програма { -brand-short-name } <img data-l10n-name="icon"/>, у одељку Историја.
 restore-session-startup-suggestion-button = Покажи ми како
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } аутоматски шаље податке { -vendor-short-name } да бисмо побољшали корисничко искуство.
@@ -988,3 +1028,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Прикажи „{ $popupURI }‟
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

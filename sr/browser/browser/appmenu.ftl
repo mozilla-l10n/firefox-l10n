@@ -13,19 +13,14 @@ appmenuitem-banner-update-downloading =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 appmenuitem-banner-update-available =
     .label = Доступно је ажурирање – преузмите га
-
 appmenuitem-banner-update-manual =
     .label = Доступно је ажурирање – преузмите га
-
 appmenuitem-banner-update-unsupported =
     .label = Ажурирање није могуће – некомпатибилан систем
-
 appmenuitem-banner-update-restart =
     .label = Доступно је ажурирање – поново покрените прегледач
-
 appmenuitem-new-tab =
     .label = Нова картица
 appmenuitem-new-window =
@@ -60,7 +55,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Затвори мени програма
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -81,30 +75,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Пријавите се ради синхронизације…
 appmenu-remote-tabs-turn-on-sync =
     .label = Укључи синхронизацију
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Прикажи још картица
     .tooltiptext = Прикажи више картица са овог уређаја
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нема отворених картица
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Укључите синхронизацију да бисте видели листу картица са других уређаја.
-
 appmenu-remote-tabs-opensettings =
     .label = Подешавања
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Желите ли да овде видите картице са других уређаја?
-
 appmenu-remote-tabs-connectdevice =
     .label = Повежи други уређај
 appmenu-remote-tabs-welcome = Погледајте листу картица са других уређаја.
 appmenu-remote-tabs-unverified = Потребно је да потврдите налог.
-
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
 appmenuitem-fxa-sign-in = Пријавите се у { -brand-product-name }
 appmenuitem-fxa-manage-account = Управљај налогом
@@ -118,14 +105,12 @@ appmenu-fxa-sync-and-save-data2 = Синхронизуј и сачувај по�
 appmenu-fxa-signed-in-label = Пријава
 appmenu-fxa-setup-sync =
     .label = Укључи синхронизацију
-
 appmenuitem-save-page =
     .label = Сачувај страницу као…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Шта је ново
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -139,52 +124,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Профајлер
     .tooltiptext = Сними профил учинка
-
 profiler-popup-button-recording =
     .label = Профајлер
     .tooltiptext = Профајлер снима профил
-
 profiler-popup-button-capturing =
     .label = Профајлер
     .tooltiptext = Профајлер снима профил
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Откриј више информација
-
 profiler-popup-description-title =
     .value = Снимите, анализирајте и делите
-
 profiler-popup-description = Сарађујте на решавању проблема са перформансама дељењем профила са својим тимом.
-
 profiler-popup-learn-more-button =
     .label = Сазнајте више
-
 profiler-popup-settings =
     .value = Подешавања
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Уреди подешавања…
-
 profiler-popup-recording-screen = Снимање…
-
 profiler-popup-start-recording-button =
     .label = Почни снимање
-
 profiler-popup-discard-button =
     .label = Одбаци
-
 profiler-popup-capture-button =
     .label = Capture
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -196,39 +166,33 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Препоручена опција за отклањање грешака у већини веб апликација, са малим оптерећењем.
 profiler-popup-presets-web-developer-label =
     .label = Програмер
-
 profiler-popup-presets-firefox-description = Препоручена опција за { -brand-shorter-name } профилисање.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Препоручена подешавања за решавање { -brand-shorter-name } графичких грешака.
 profiler-popup-presets-graphics-label =
     .label = Графика
-
 profiler-popup-presets-media-description2 = Препоручена подешавања за решавање { -brand-shorter-name } аудио и видео грешака.
 profiler-popup-presets-media-label =
     .label = Медији
-
 profiler-popup-presets-networking-description = Препоручена подешавања за решавање { -brand-shorter-name } мрежних грешака.
 profiler-popup-presets-networking-label =
     .label = Мрежа
-
 profiler-popup-presets-power-description = Препоручена подешавања за решавање { -brand-shorter-name } грешака са напајањем, са малим трошковима.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Напајање
-
 profiler-popup-presets-custom-label =
     .label = Прилагођено
 
@@ -306,7 +270,26 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Прилагоди траку са алаткама…
-
 appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
+
+## Panel for privacy and security products
+
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Добијајте упозорења о цурењу података
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Заштитите ваше радње на мрежи
+
+## Profiles panel
+
+appmenu-profiles = Профили
+appmenu-other-profiles = Други профили
+appmenu-manage-profiles =
+    .label = Управљај профилима
+appmenu-create-profile =
+    .label = Нови профил
+appmenu-edit-profile =
+    .aria-label = Измени профил
