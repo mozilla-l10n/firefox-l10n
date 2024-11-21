@@ -70,8 +70,5 @@ unified-extensions-mb-blocklist-warning-multiple =
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
-    .heading =
-        { NUMBER($extensionsCount) ->
-           *[other] { $extensionsCount } extensions disabled
-        }
-    .message = { $extensionsCount } estensioni disattivate
+    .heading = { $extensionsCount } estensioni disattivate
+    .message = Alcune estensioni violano i criteri di Mozilla e sono state disattivate.
