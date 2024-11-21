@@ -13,6 +13,11 @@ desktop-entry-comment = Истражите интернет
 desktop-entry-generic-name = Веб прегледач
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = { -brand-shortcut-name } веб прегледач
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;интернет;прегледач;веб;мрежа;прегледач;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.

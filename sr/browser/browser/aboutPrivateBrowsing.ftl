@@ -67,6 +67,10 @@ about-private-browsing-cookie-banners-promo-message = Дозволите да { 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ће се побринути за банере колачића
+about-private-browsing-cookie-banners-promo-body = Сада аутоматски одбијамо многе банере колачића што смањује праћење ваших радњи на мрежи и омогућује прегледање без ометања.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Не остављајте трагове на овом уређају
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } брише ваше колачиће, историју и податке са сајтова када затворите све приватне прозоре.
+about-private-browsing-felt-privacy-v1-info-link = Ко може да види моју активност?

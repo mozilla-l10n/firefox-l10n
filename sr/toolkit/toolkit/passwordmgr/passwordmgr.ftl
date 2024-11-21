@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Сачувати лозинку за { $host }?
+password-manager-save-password-button-deny =
+    .label = Не сада
+    .accesskey = Н
 password-manager-save-password-button-allow =
     .label = Сачувај
     .accesskey = С
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Ажурирати лозинку за { $host }?
+password-manager-update-password-button-delete =
+    .label = Уклони сачуване лозинке
+    .accesskey = У
 password-manager-update-login-add-username = Додати корисничко име сачуваној лозинци?
 password-manager-password-password-button-allow =
     .label = Ажурирај
