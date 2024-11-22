@@ -313,6 +313,21 @@ about-logins-confirm-remove-all-sync-dialog-message =
                *[other] програму { -brand-short-name }
             } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { NUMBER($count) ->
+        [1] Да, уклони лозинку
+        [one] Да, уклони лозинку
+        [few] Да, уклони лозинке
+       *[other] Да, уклони лозинки
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Уклони { $count } лозинку?
+        [few] Уклони { $count } лозинке?
+       *[other] Уклони { $count } лозинки?
+    }
 
 ##
 
