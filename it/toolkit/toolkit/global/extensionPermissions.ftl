@@ -30,4 +30,5 @@ webext-perms-description-sessions = Accedere alle schede chiuse di recente
 webext-perms-description-tabs = Accedere alle schede del browser
 webext-perms-description-tabHide = Nascondere e mostrare schede
 webext-perms-description-topSites = Accedere alla cronologia di navigazione
+webext-perms-description-trialML = Scaricare ed eseguire modelli di intelligenza artificiale sul dispositivo
 webext-perms-description-webNavigation = Accedere all’attività del browser durante la navigazione
