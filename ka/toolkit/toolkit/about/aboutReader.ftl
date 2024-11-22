@@ -54,20 +54,45 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = ნაჭდევებით
 about-reader-font-type-sans-serif = უნაჭდევო
+about-reader-font-type-monospace = თანაბარსიგანიანი
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = კითხვის რეჟიმის დახურვა
-about-reader-toolbar-type-controls = იერსახის პარამეტრები
-about-reader-toolbar-savetopocket = შენახვა { -pocket-brand-name }-ში
+about-reader-toolbar-type-controls = შრიფტის მახასიათებლები
+about-reader-toolbar-text-layout-controls = ნაწერი და განლაგება
+about-reader-toolbar-theme-controls = იერსახე
+about-reader-toolbar-savetopocket = შეინახავს { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = იერსახე
+about-reader-fxtheme-tab = ნაგულისხმევი
+about-reader-customtheme-tab = მორგებული
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = ნაწერი
+    .title = ფერის შეცვლა
+about-reader-custom-colors-background = ფონი
+    .title = ფერის შეცვლა
+about-reader-custom-colors-unvisited-links = მოუნახულებელი ბმულები
+    .title = ფერის შეცვლა
+about-reader-custom-colors-visited-links = მონახულებული ბმულები
+    .title = ფერის შეცვლა
+about-reader-custom-colors-selection-highlight = გამორჩევა ხმოვანი კითხვისას
+    .title = ფერის შეცვლა
+about-reader-reset-button = ნაგულისხმევზე დაბრუნება
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = ნაწერი
+about-reader-text-size-label = ნაწერის ზომა
+about-reader-font-type-selector-label = შრიფტი
+about-reader-font-weight-selector-label = შრიფტის სისქე
+about-reader-font-weight-light = თხელი
+about-reader-font-weight-regular = საშუალო
+about-reader-font-weight-bold = მსხვილი
+about-reader-layout-header = განლაგება
