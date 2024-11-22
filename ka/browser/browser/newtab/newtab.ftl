@@ -312,15 +312,85 @@ newtab-wallpaper-brown = ყავისფერი
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = წარმოსახვითი
+newtab-wallpaper-abstract-green = მწვანე ფორმები
+newtab-wallpaper-abstract-blue = ლურჯი ფორმები
+newtab-wallpaper-abstract-purple = იისფერი ფორმები
+newtab-wallpaper-abstract-orange = ნარინჯისფერი ფორმები
 
 ## Photographs
 
+newtab-wallpaper-feature-highlight-button = გასაგებია
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = აცილება
+    .aria-label = ამომხტომის დახურვა
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = ამინდს გთავაზობთ { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ დაფინანსებული
+newtab-weather-menu-change-location = მდებარეობის შეცვლა
+newtab-weather-change-location-search-input = მდებარეობის მოძიება
+newtab-weather-menu-weather-display = ამინდის ჩვენება
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = მარტივი
+newtab-weather-menu-change-weather-display-simple = მარტივ ხედზე გადართვა
+newtab-weather-menu-weather-display-option-detailed = ვრცელი
+newtab-weather-menu-change-weather-display-detailed = ვრცელ ხედზე გადართვა
+newtab-weather-menu-temperature-units = ტემპერატურის ერთეულები
+newtab-weather-menu-temperature-option-fahrenheit = ფარენჰაიტი
+newtab-weather-menu-temperature-option-celsius = ცელსიუსი
+newtab-weather-menu-change-temperature-units-fahrenheit = ფარენჰაიტზე გადართვა
+newtab-weather-menu-change-temperature-units-celsius = ცელსიუსზე გადართვა
+newtab-weather-menu-hide-weather = ამინდის დამალვა ახალ ჩანართში
+newtab-weather-menu-learn-more = ვრცლად
+# This message is shown if user is working offline
+newtab-weather-error-not-available = ამინდის მონაცემები მიუწვდომელია ახლა.
 
 ## Topic Labels
 
+newtab-topic-label-business = საქმიანობა
+newtab-topic-label-career = წინსვლა საქმეში
+newtab-topic-label-education = განათლება
+newtab-topic-label-arts = გართობა
+newtab-topic-label-food = საკვები
+newtab-topic-label-health = ჯანმრთელობა
+newtab-topic-label-hobbies = თამაშები
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = ფული
+newtab-topic-label-society-parenting = აღზრდა
+newtab-topic-label-government = პოლიტიკა
+newtab-topic-label-education-science = მეცნიერება
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = ცხოვრებისეული ხრიკები
+newtab-topic-label-sports = სპორტი
+newtab-topic-label-tech = ტექნოლოგია
+newtab-topic-label-travel = მოგზაურობა
+newtab-topic-label-home = სახლი და მებაღეობა
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = აირჩიეთ დარგი სიახლეების არხის მოსარგებად
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = აირჩიეთ ორი ან მეტი საკითხი. ჩვენი გამოცდილი ზედამხედველები შეარჩევენ თქვენზე მორგებულ მასალებს. შეგიძლიათ ნებისმიერ დროს შეცვალოთ.
+newtab-topic-selection-save-button = შენახვა
+newtab-topic-selection-cancel-button = გაუქმება
+newtab-topic-selection-button-maybe-later = მოგვიანებით გადავწყვეტ
+newtab-topic-selection-privacy-link = იხილეთ როგორ დაიცვათ და მართოთ მონაცემები
