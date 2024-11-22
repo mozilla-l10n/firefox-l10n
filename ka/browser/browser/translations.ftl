@@ -174,12 +174,57 @@ translations-settings-close-dialog =
 main-context-menu-translate-selection =
     .label = მონიშნულის თარგმნა…
     .accesskey = ნ
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = მონიშნულის { $language } თარგმანი
+    .accesskey = ნ
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = ბმულის ტექსტის თარგმნა…
+    .accesskey = ნ
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = ბმულის ტექსტის { $language } თარგმანი
+    .accesskey = ნ
+# Text displayed in the select translations panel header.
+select-translations-panel-header = თარგმნა
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = სათარგმნი
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = ნათარგმნი
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = საწყისი ენის შეცვლა
 select-translations-panel-cancel-button =
     .label = გაუქმება
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = ასლი
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = აღებულია
+select-translations-panel-done-button =
+    .label = მზადაა
+select-translations-panel-translate-full-page-button =
+    .label = მთლიანი გვერდის თარგმნა
 select-translations-panel-translate-button =
     .label = გადათარგმნა
 select-translations-panel-try-again-button =
     .label = ხელახლა ცდა
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = ნათარგმნი აქ გამოჩნდება.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = ითარგმნება…
+select-translations-panel-init-failure-message =
+    .message = ვერ ჩაიტვირთა ენები. შეამოწმეთ ქსელთან წვდომა და კვლავ სცადეთ.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = ხარვეზი წარმოიშვა თარგმნისას. გთხოვთ სცადოთ მოგვიანებით.
@@ -193,3 +238,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = თარგმნის პარამეტრები
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = თარგმნა დასრულდა
