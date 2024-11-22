@@ -54,7 +54,7 @@ deniedPortAccess-title = මෙම ලිපිනය සීමා කර ඇත
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = හ්ම්. අපට එම අඩවිය සොයා ගැනීමේ ගැටලුවක් තිබේ.
-fileNotFound-title = ගොනුව හමු නොවිණි
+fileNotFound-title = ගොනුව හමු නොවුණි
 fileAccessDenied-title = ගොනුවට ප්‍රවේශය ප්‍රතික්‍ෂේප විය
 generic-title = අපොයි!
 captivePortal-title = ජාලයට පිවිසෙන්න
