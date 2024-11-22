@@ -22,7 +22,7 @@ about-telemetry-simple-measurements-section = සරල මිනුම්
 about-telemetry-addon-details-section = එක්කහුවේ විස්තර
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] නිකුතු දත්ත
@@ -30,7 +30,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] සබලයි
@@ -39,19 +39,19 @@ about-telemetry-upload-type =
 about-telemetry-filter-all-placeholder =
     .placeholder = සියළු කොටස්වල සොයන්න
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” සඳහා ප්‍රතිඵල
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = “{ $currentSearchText }” සඳහා { $sectionName } හි ප්‍රතිඵල නැත
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = “{ $searchTerms }” සඳහා කිසිදු කොටසක ප්‍රතිඵල නැත
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = කණගාටුයි! “{ $sectionName }” හි දැනට දත්ත නැත
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = වත්මන් දත්ත
@@ -65,12 +65,12 @@ about-telemetry-slow-sql-statement = ප්‍රකාශය
 about-telemetry-addon-table-id = එක්කහු හැඳු.
 about-telemetry-addon-table-details = විස්තර
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } සැපයුම්කරු
 about-telemetry-names-header = නම
 about-telemetry-values-header = අගය
 about-telemetry-memory-map-title = මතක සිතියම:
-about-telemetry-error-fetching-symbols = සංකේත ගැනීමේදී දෝෂයක් ඇති විය. ඔබ අන්තර්ජාලයට සම්බන්ධිත දැයි පරීක්‍ෂා කර නැවත උත්සාහ කරන්න.
+about-telemetry-error-fetching-symbols = සංකේත ගැනීමේදී දෝෂයක් ඇති විය. ඔබ අන්තර්ජාලයට සම්බන්ධ දැයි පරීක්‍ෂා කර නැවත උත්සාහ කරන්න.
 about-telemetry-time-stamp-header = කාල මුද්‍රාව
 about-telemetry-category-header = ප්‍රවර්ගය
 about-telemetry-method-header = ක්‍රමය

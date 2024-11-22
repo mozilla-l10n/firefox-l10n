@@ -37,7 +37,7 @@ cert-error-code-prefix-link = දෝෂයේ කේතය: <a data-l10n-name="e
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
-cert-error-ssl-connection-error = { $hostname } වෙත සම්බන්ධතාවයක් අතරතුර දෝෂයක් සිදු විය. { $errorMessage }
+cert-error-ssl-connection-error = { $hostname } වෙත සම්බන්ධතාවක් අතරතුර දෝෂයක් සිදු විය. { $errorMessage }
 cert-error-symantec-distrust-admin = මෙම ගැටලුව පිළිබඳව අඩවියේ පරිපාලක වෙත දැනුම් දීමට හැකිය
 cert-error-old-tls-version = මෙම වියමන අඩවිය { -brand-short-name } මගින් සහය දක්වන අවම අනුවාදය වන TLS 1.2 කෙටුම්පත සඳහා සහාය නොදක්වයි.
 # Variables:
@@ -61,13 +61,13 @@ captivePortal-title = ජාලයට පිවිසෙන්න
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = හ්ම්. එම ලිපිනය නිවැරදි බව පෙනෙන්නේ නැත.
-netInterrupt-title = සම්බන්ධතාවයට බාධා විය
+netInterrupt-title = සම්බන්ධතාවට බාධා විය
 notCached-title = ලේඛනය කල් ඉකුත්වී ඇත
 netOffline-title = මාර්ගඅපගත ප්‍රකාරය
 contentEncodingError-title = අන්තර්ගත සංකේතන දෝෂයකි
 unsafeContentType-title = අනාරක්‍ෂිත ගොනු වර්ගයකි
-netReset-title = සම්බන්ධතාවය යළි සැකසිණි
-netTimeout-title = සම්බන්ධතාවය ඉකුත් වී ඇත
+netReset-title = සම්බන්ධතාව යළි සැකසිණි
+netTimeout-title = සම්බන්ධතාව ඉකුත් වී ඇත
 unknownProtocolFound-title = ලිපිනය වටහා ගෙන නැත
 proxyConnectFailure-title = ප්‍රතියුක්ත සේවාදායකය සම්බන්ධතා ඉවත දමයි
 proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදායකය සොයා ගැනීමට නොහැකිය
