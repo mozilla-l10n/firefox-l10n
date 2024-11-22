@@ -92,14 +92,14 @@ neterror-nss-failure-contact-website = දේශීය සේවාවක් න
 certerror-intro = { -brand-short-name } ආරක්‍ෂණ තර්ජනයක් හඳුනාගත් බැවින් <b>{ $hostname }</b> වෙත නොයන ලදි. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-sts-intro = { -brand-short-name } ආරක්‍ෂණ තර්ජනයක් හඳුනාගෙන ඇත. මෙම අඩවියට ආරක්‍ෂිත සම්බන්ධතාවයක් අවශ්‍ය නිසා <b>{ $hostname }</b> වෙත ගියේ නැත.
+certerror-sts-intro = { -brand-short-name } ආරක්‍ෂණ තර්ජනයක් හඳුනාගෙන ඇත. මෙම අඩවියට ආරක්‍ෂිත සම්බන්‍ධතාවක් වුවමනා නිසා <b>{ $hostname }</b> වෙත ගියේ නැත.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } සඳහා ගැටලුවක් අනාවරණය වූ නිසා <b>{ $hostname }</b> වෙත නොයන ලදි. වියමන අඩවිය වැරදි ලෙස වින්‍යාස කර තිබේ හෝ ඔබගේ පරිගණකයෙහි ඔරලෝසුව වැරදි වේලාවකට සකසා ඇත.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = <b>{ $hostname }</b> බොහෝ දුරට ආරක්‍ෂිත අඩවියකි, නමුත් ආරක්‍ෂිත සම්බන්ධතාවයක් පිහිටුවීමට නොහැකිය. මෙම ගැටලුව <b>{ $mitm }</b> නිසා මතු වේ, එය ඔබගේ පරිගණකයේ හෝ ඔබගේ ජාලයේ තිබෙන මෘදුකාංගයකි.
+certerror-mitm = <b>{ $hostname }</b> බොහෝ දුරට ආරක්‍ෂිත අඩවියකි, නමුත් ආරක්‍ෂිත සම්බන්‍ධතාවක් පිහිටුවීමට නොහැකිය. මෙම ගැටලුව <b>{ $mitm }</b> නිසා මතු වේ, එය ඔබගේ පරිගණකයේ හෝ ඔබගේ ජාලයේ තිබෙන මෘදුකාංගයකි.
 neterror-corrupted-content-intro = දත්ත සම්ප්‍රේෂණ දෝෂයක් අනාවරණය වූ නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.
 neterror-corrupted-content-contact-website = දේශීය සේවාවක් නම් මෙම ගැටලුව පිළිබඳව අඩවියෙහි හිමිකරුවන්ට දන්වන්න.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".

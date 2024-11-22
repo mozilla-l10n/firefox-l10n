@@ -45,7 +45,7 @@ cert-error-old-tls-version = මෙම වියමන අඩවිය { -brand-
 cert-error-details-hsts-label = HTTP දැඩි පරිවහන ආරක්‍ෂාව: { $hasHSTS }
 cert-error-details-cert-chain-label = සහතික දාමය:
 open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
-fp-learn-more-about-secure-connection-failures = ආරක්‍ෂිත සම්බන්‍ධතා අසාර්ථක වීම් ගැන තව දැනගන්න
+fp-learn-more-about-secure-connection-failures = අසාර්ථක ආරක්‍ෂිත සම්බන්‍ධතා ගැන තව දැනගන්න
 
 ## Messages used for certificate error titles
 
@@ -73,11 +73,11 @@ proxyConnectFailure-title = ප්‍රතියුක්ත සේවාදා
 proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදායකය සොයා ගැනීමට නොහැකිය
 redirectLoop-title = පිටුව නිසි අයුරින් හරවා යවන්නේ නැත
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
-nssFailure2-title = ආරක්‍ෂිත සම්බන්‍ධතාවය බිඳ වැටුණි
+nssFailure2-title = ආරක්‍ෂිත සම්බන්‍ධතාව බිඳ වැටුණි
 csp-xfo-error-title = { -brand-short-name } සඳහා පිටුව විවෘත කළ නොහැකිය
 corruptedContentError-title = හානි වූ අන්තර්ගත දෝෂයකි
 sslv3Used-title = ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය
-inadequateSecurityError-title = ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි
+inadequateSecurityError-title = ඔබගේ සම්බන්‍ධතාව අනාරක්‍ෂිතයි
 blockedByPolicy-title = අවහිර කළ පිටුවකි
 clockSkewError-title = පරිගණකයේ ඔරලෝසුව වැරදිය
 networkProtocolError-title = ජාල කෙටුම්පතෙහි දෝෂයකි
