@@ -225,9 +225,11 @@ newtab-pocket-learn-more = იხილეთ ვრცლად
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ეკუთვნის { -brand-product-name }-ოჯახს
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = შენახვა
 newtab-pocket-saved = შენახულია
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -257,9 +259,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = დაფინანსებული მალსახმობები
 newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
-newtab-custom-pocket-toggle =
-    .label = გთავაზობთ { -pocket-brand-name }
-    .description = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 newtab-custom-pocket-sponsored = დაფინანსებული ამბები
 newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
 newtab-custom-recent-title = ბოლო მოქმედებები
@@ -267,5 +266,61 @@ newtab-custom-recent-subtitle = ბოლოს ნანახი საიტ�
 newtab-custom-recent-toggle =
     .label = ბოლო მოქმედებები
     .description = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
+newtab-custom-weather-toggle =
+    .label = ამინდი
+    .description = დღევანდელი ამინდისთვის თვალის შევლება
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = ფონები
+newtab-wallpaper-reset = ნაგულისხმევზე ჩამოყრა
+newtab-wallpaper-light-red-panda = წითელი პანდა
+newtab-wallpaper-light-mountain = თეთრი მთა
+newtab-wallpaper-light-sky = ცა მოიისფრო და მოვარდისფრო ღრუბლებით
+newtab-wallpaper-light-color = ლურჯი, ვარდისფერი და ყვითელი ფორმები
+newtab-wallpaper-light-landscape = ცისფერი ნისლი მთის ხედით
+newtab-wallpaper-light-beach = სანაპირო პალმის ხით
+newtab-wallpaper-dark-color = წითელი და ლურჯი ფორმები
+newtab-wallpaper-dark-panda = წითელი პანდა იმალება ტყეში
+newtab-wallpaper-dark-sky = ქალაქის ხედი ღამის ცით
+newtab-wallpaper-dark-mountain = მთის ხედი
+newtab-wallpaper-dark-city = ქალაქის მოიისფრო ხედი
+newtab-wallpaper-dark-fox-anniversary = მელა ქვაფენილზე ტყის მახლობლად
+newtab-wallpaper-light-fox-anniversary = მელა მდელოზე დაბურული მთის ხედით
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = ერთგვაროვანი ფერები
+newtab-wallpaper-blue = ლურჯი
+newtab-wallpaper-light-blue = ცისფერი
+newtab-wallpaper-light-purple = ღია იისფერი
+newtab-wallpaper-light-green = ღია მწვანე
+newtab-wallpaper-green = მწვანე
+newtab-wallpaper-beige = ჩალისფერი
+newtab-wallpaper-yellow = ყვითელი
+newtab-wallpaper-orange = ნარინჯისფერი
+newtab-wallpaper-pink = ვარდისფერი
+newtab-wallpaper-light-pink = ღია ვარდისფერი
+newtab-wallpaper-red = წითელი
+newtab-wallpaper-dark-blue = მუქი ლურჯი
+newtab-wallpaper-dark-purple = მუქი იისფერი
+newtab-wallpaper-dark-green = მუქი მწვანე
+newtab-wallpaper-brown = ყავისფერი
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = წარმოსახვითი
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
