@@ -36,7 +36,7 @@ appmenuitem-passwords =
 appmenuitem-addons-and-themes =
     .label = Додаци и теме
 appmenuitem-print =
-    .label = Одштампај…
+    .label = Штампај…
 appmenuitem-find-in-page =
     .label = Пронађи на страници…
 appmenuitem-translate =
@@ -79,6 +79,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Прикажи још картица
     .tooltiptext = Прикажи више картица са овог уређаја
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Неактивне картице
+    .tooltiptext = Погледај неактивне картице на овом уређају
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нема отворених картица
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -96,6 +100,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
 appmenuitem-fxa-sign-in = Пријавите се у { -brand-product-name }
 appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Налог
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -105,8 +110,11 @@ appmenu-fxa-sync-and-save-data2 = Синхронизуј и сачувај по�
 appmenu-fxa-signed-in-label = Пријава
 appmenu-fxa-setup-sync =
     .label = Укључи синхронизацију
+appmenu-fxa-setup-sync-new = Укључи
 appmenuitem-save-page =
     .label = Сачувај страницу као…
+appmenuitem-fxa-sync-off-title = Синхронизација је искључена
+appmenuitem-fxa-sync-off-description = Заштитите и приступите вашим обележивачима, лозинкама и другим подацима било где.
 
 ## What's New panel in App menu.
 
@@ -273,9 +281,12 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
+appmenuitem-report-broken-site =
+    .label = Пријавите неисправан сајт
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Пријавите се у ваш налог
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Добијајте упозорења о цурењу података
 appmenuitem-relay-title = { -relay-brand-short-name }

@@ -97,6 +97,8 @@ firefoxview-collapse-button-hide =
     .title = Сакриј листу
 firefoxview-overview-nav = Недавно прегледање
     .title = Недавно прегледање
+firefoxview-overview-header = Недавно прегледање
+    .title = Недавно прегледање
 
 ## History in this context refers to browser history
 
@@ -138,13 +140,67 @@ firefoxview-opentabs-focus-tab =
     .title = Пређи на ову картицу
 firefoxview-show-more = Прикажи више
 firefoxview-show-less = Прикажи мање
+firefoxview-show-all = Прикажи све
+firefoxview-search-text-box-clear-button =
+    .title = Очисти
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Претражи
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Претражи историју
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Претражи недавно затворене картице
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Претражи картице
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Претражи синхронизоване картице
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Претражи отворене картице
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Резултати претраге за „{ $query }“
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { NUMBER($count) ->
+        [one] { $count } страница
+        [few] { $count } странице
+       *[other] { $count } страница
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Нема резултата за „{ $query }“
+firefoxview-sort-history-by-date-label = Поредај по датуму
+firefoxview-sort-history-by-site-label = Поредај према страници
+firefoxview-sort-open-tabs-by-recency-label = Поредај према недавној активности
+firefoxview-sort-open-tabs-by-order-label = Поредај према редоследу картица
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Пребаци на { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Данас - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Јуче - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (локалне датотеке)
 
 ##
 
+firefoxview-show-all-history = Прикажи целу историју
 
 ## Message displayed in Firefox View when the user has no history data
 
