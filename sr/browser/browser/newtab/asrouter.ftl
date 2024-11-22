@@ -246,6 +246,11 @@ fxa-sync-cfr-secondary = Подсети ме касније
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Не заборавите да направите резервну копију
+device-migration-fxa-spotlight-heavy-user-body = Уверите се да су важни подаци — обележивачи и лозинке — ажурирани и обезбеђени на свим вашим уређајима.
+device-migration-fxa-spotlight-heavy-user-primary-button = Започните
+device-migration-fxa-spotlight-older-device-header = Опуштено уз { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Налог вам омогућава да ажурирате и заштитите важне податке на било ком повезаном уређају.
+device-migration-fxa-spotlight-older-device-primary-button = Направи налог
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате да набавите нови уређај?
 
 ## Set as Default PDF Reader Infobar
