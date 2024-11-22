@@ -48,8 +48,14 @@ genai-prompts-explain =
 
 genai-menu-ask-generic =
     .label = AI කතා ක්‍රමලේඛයෙන් අහන්න
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider } වෙතින් අසන්න
 genai-input-ask-generic =
     .placeholder = AI කතා ක්‍රමලේඛයෙන් අහන්න…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = { $provider } වෙතින් අසන්න…
 genai-shortcuts-hide =
     .label = කතා ක්‍රමලේඛයේ කෙටිමඟ සඟවන්න
 
@@ -80,6 +86,8 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = { -brand-short-name } පැති තීරුවේ භාවිතයට කෘතිම බුද්ධි කතා ක්‍රමලේඛයක් තෝරන්න. ඔබ එය තේරූ විට අපි එක් එක් කතා ක්‍රමලේඛය ගැන විස්තර පෙන්වන්නෙමු. ඕනෑම වේලාවක මාරු කරන්න. <a data-l10n-name="learn-more">තව දැනගන්න</a>
 genai-onboarding-primary = ඉදිරියට
 genai-onboarding-secondary = වසන්න
 genai-onboarding-claude-tooltip =
@@ -101,6 +109,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat ගැන තව දැනගන්න
 genai-onboarding-select-header = යෝජනා බැලීමට පෙළ තෝරන්න
+genai-onboarding-select-description = ඔබ පෙළ තෝරන විට, අපි කතා ක්‍රමලේඛයට යැවීමට හැකි උත්පතන යෝජනා කරන්නෙමු. ඔබගේම උත්පතන වල ද ඔබට ලිවීමට හැකිය.
 genai-onboarding-select-primary = කතාබහ අරඹන්න
 
 ## Chatbot onboarding choices
