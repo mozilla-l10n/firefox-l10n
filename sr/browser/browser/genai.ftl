@@ -11,6 +11,10 @@ genai-settings-chat-choose-one-menuitem =
     .label = Изабери једног
 genai-settings-chat-links = Када одаберете чет-бота, прихватате услове коришћења и политику приватности достављача услуге.
 genai-settings-chat-chatgpt-links = Одабиром ChatGPT-a, слажете се са <a data-l10n-name="link1">OpenAI правилима коришћења</a> и <a data-l10n-name="link2">политиком приватности</a>.
+genai-settings-chat-claude-links = Ако изаберете Anthropic Claude, пристајете на Anthropic <a data-l10n-name="link1">услове коришћења за потрошаче</a>, <a data-l10n-name="link2">услове коришћења</a> и <a data-l10n-name="link3">политику приватности</a>.
+genai-settings-chat-copilot-links = Ако изаберете Copilot, пристајете на <a data-l10n-name="link1">услове Copilot AI искуства</a> и <a data-l10n-name="link2">Microsoft обавештење о приватности</a>.
+genai-settings-chat-gemini-links = Ако изаберете Google Gemini, пристајете на <a data-l10n-name="link1">Google услове коришћења</a>, <a data-l10n-name="link2">смернице о забрањеној употреби генеративне вештачке интелигенције</a> и <a data-l10n-name="link3">обавештење о приватности за Gemini апликације</a>.
+genai-settings-chat-huggingchat-links = Ако изаберете HuggingChat, пристајете на <a data-l10n-name="link1">HuggingChat обавештење о приватности</a> и <a data-l10n-name="link2">HuggingChat политику приватности</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
