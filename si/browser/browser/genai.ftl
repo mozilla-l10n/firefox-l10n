@@ -11,7 +11,7 @@ genai-settings-chat-choose-one-menuitem =
     .label = එකක් තෝරන්න
 genai-settings-chat-links = ඔබ කතා ක්‍රමලේඛයක් තෝරන විට, ඔබ ප්‍රතිපාදකයාගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ.
 genai-settings-chat-chatgpt-links = ChatGPT තේරීමෙන් ඔබ OpenAI <a data-l10n-name="link1">භාවිත නියම</a> සහ <a data-l10n-name="link2">රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
-genai-settings-chat-gemini-links = ගූගල් ජෙමිනි තේරීමෙන් ඔබ <a data-l10n-name="link1">ගූගල් සේවා නියම</a>, <a data-l10n-name="link2">තහනම් AI උත්පාදක භාවිත ප්‍රතිපත්තියට</a> සහ <a data-l10n-name="link3">ජෙමිනි යෙදුම් පෞද්ගලිකත්‍ව දැන්වීමට</a> එකඟ වේ.
+genai-settings-chat-gemini-links = ගූගල් ජෙමිනි තේරීමෙන් ඔබ <a data-l10n-name="link1">ගූගල් සේවා නියම</a>, <a data-l10n-name="link2">තහනම් AI උත්පාදක භාවිත ප්‍රතිපත්තියට</a> සහ <a data-l10n-name="link3">ජෙමිනි යෙදුම් රහස්‍යතා දැන්වීමට</a> එකඟ වේ.
 genai-settings-chat-huggingchat-links = HuggingChat තේරීමෙන් ඔබ <a data-l10n-name="link1">HuggingChat රහස්‍යතා දැන්වීමට</a> සහ <a data-l10n-name="link2">Hugging Face රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
 genai-settings-chat-shortcuts =
     .description = ඔබ පෙළක් තේරූ විට උත්පතනයට කෙටිමඟක් පෙන්වයි. { -brand-short-name } හරහා කතා ක්‍රමලේඛය වෙත පෙළ, පිටුවේ සිරැසිය සහ උත්පතනය යවයි.

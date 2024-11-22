@@ -929,7 +929,7 @@ firefox-relay-offer-why-to-use-relay = අපගේ ආරක්‍ෂිත ස
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = ඔබගේ  වි-තැපැල් වැස්ම වෙත එවන සියලුම වි-තැපැල් <strong>{ $useremail }</strong> වෙත යොමු කෙරේ (ඔබ ඒවා අවහිර කිරීමට තීරණය නොකරනවා නම් මිස).
-firefox-relay-offer-legal-notice = “වි-තැපැල් වැස්ම භාවිතා කරන්න” එබීමෙන් ඔබ <label data-l10n-name="tos-url">සේවා නියම</label> සහ <label data-l10n-name="privacy-url">පෞද්ගලිකත්‍ව දැන්වීමට</label> එකඟ වේ.
+firefox-relay-offer-legal-notice = “වි-තැපැල් වැස්ම භාවිතා කරන්න” එබීමෙන් ඔබ <label data-l10n-name="tos-url">සේවා නියම</label> සහ <label data-l10n-name="privacy-url">රහස්‍යතා දැන්වීම</label> එකඟ වේ.
 
 ## Add-on Pop-up Notifications
 

@@ -56,4 +56,4 @@ split-dismiss-button-manage-settings-option-label = සැකසුම් කළ
 
 ## Sidebar Callout Survey Strings
 
-sidebar-callout-survey-privacy-notice-link = පෞද්ගලිකත්‍ව දැන්වීම
+sidebar-callout-survey-privacy-notice-link = රහස්‍යතා දැන්වීම

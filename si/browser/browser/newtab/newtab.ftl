@@ -173,7 +173,7 @@ newtab-section-menu-manage-webext = දිගුව කළමනාකරණය
 newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් යොදන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
 newtab-section-menu-move-down = පහළට ගෙනයන්න
-newtab-section-menu-privacy-notice = පෞද්ගලිකත්‍ව දැන්වීම
+newtab-section-menu-privacy-notice = රහස්‍යතා දැන්වීම
 
 ## Section aria-labels
 
