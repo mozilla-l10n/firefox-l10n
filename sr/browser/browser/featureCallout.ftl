@@ -46,12 +46,24 @@ callout-pdfjs-draw-button = Разумем!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Нисте хтели да затворите ту картицу?
+fx-view-discoverability-subtitle = Овде је брзо нађите и поново отворите. Чувамо историју ваших недавно затворених картица.
+fx-view-discoverability-primary-button-label = Отвори { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Одбаци
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Не приказуј више ову препоруку
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Приказуј мање препорука
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Управљај подешавањима
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Прикажи наслове картица у бочној траци
+sidebar-button-callout-subtitle = Користите тастер за бочну траку да проширите исту и видите наслове картица.
 
 ## Sidebar Callout Survey Strings
 
