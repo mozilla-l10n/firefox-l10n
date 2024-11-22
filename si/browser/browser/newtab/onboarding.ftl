@@ -316,6 +316,7 @@ onboarding-gratitude-security-and-privacy-subtitle = මොසිල්ලා �
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = ඊළඟ
+onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }” තේරීමෙන් ඔබ { -brand-product-name } <a data-l10n-name="privacy_notice">පෞද්ගලිකත්‍ව දැන්වීමට</a> එකඟ වේ.
 
 ## UI strings for the sidebar and vertical tabs
 

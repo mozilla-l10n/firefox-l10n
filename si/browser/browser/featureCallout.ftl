@@ -50,3 +50,10 @@ split-dismiss-button-dont-show-option-label = මෙම නිර්දේශය
 split-dismiss-button-show-fewer-option-label = නිර්දේශ අඩුවෙන් පෙන්වන්න
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = සැකසුම් කළමනාකරණය
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-privacy-notice-link = පෞද්ගලිකත්‍ව දැන්වීම
