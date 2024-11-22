@@ -5,13 +5,16 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ჩანართების ძიება
-
 all-tabs-menu-new-user-context =
     .label = ახალი სათავსი ჩანართი
-
 all-tabs-menu-hidden-tabs =
     .label = დამალული ჩანართები
-
 all-tabs-menu-manage-user-context =
     .label = სათავსების მართვა
     .accesskey = თ
+all-tabs-menu-close-duplicate-tabs =
+    .label = გამეორებული ჩანართების დახურვა
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = ყველა გამეორებული ჩანართის დახურვა
+all-tabs-menu-synced-tabs =
+    .label = ჩანართები სხვა მოწყობილობებიდან

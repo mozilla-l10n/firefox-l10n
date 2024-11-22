@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = უეცარი გათიშვების მომხსენებელი
-crashreporter-crash-message = { -brand-short-name } გაუმართაობის გამო დაიხურა.
+crashreporter-branded-title = { -brand-short-name } უეცარი გათიშვის მომხსენებელი
 crashreporter-plea = ხარვეზის დადგენასა და მის გამოსწორებაში დასახმარებლად, შეგიძლიათ უეცარი გათიშვის შესახებ მოხსენების გამოგზავნა.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = ვრცლად იხილეთ: { $details }
