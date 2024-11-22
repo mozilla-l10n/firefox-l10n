@@ -73,8 +73,7 @@ sidebar-callout-survey-privacy-notice-link = Tietosuojakäytäntö
 sidebar-callout-survey-very-satisfied = Hyvin tyytyväinen
 sidebar-callout-survey-satisfied = Tyytyväinen
 sidebar-callout-survey-neutral = Neutraali
-sidebar-callout-survey-dissatisfied = Tyytymätön
-sidebar-callout-survey-very-dissatisfied = Hyvin tyytymätön
+sidebar-callout-survey-dissatisfied-2 = Tyytymätön
 sidebar-callout-survey-dont-use-it = En käytä sitä
 sidebar-callout-survey-productive-question =
     Missä määrin olet samaa tai eri mieltä tämän väitteen kanssa:<br/>
