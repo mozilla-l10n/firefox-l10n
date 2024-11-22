@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -23,7 +29,6 @@ menu-application-hide-other =
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Nesci di { -brand-shorter-name }
-
 menu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
@@ -196,6 +201,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Nzingalibbri dû cillulari
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =
@@ -214,7 +222,7 @@ menu-tools-page-source =
     .label = Còdici dâ pàggina
     .accesskey = d
 menu-tools-page-info =
-    .label = Nfurmazziuna dâ pàggina
+    .label = Nfurmazzioni dâ pàggina
     .accesskey = N
 
 ## Window Menu

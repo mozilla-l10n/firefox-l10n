@@ -11,11 +11,13 @@
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-learn-more = Cchiù nfurmazziuna
+pocket-panel-signup-learn-more = Cchiù nfurmazzioni
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

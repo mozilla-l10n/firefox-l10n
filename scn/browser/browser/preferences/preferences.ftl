@@ -2,13 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Manna ê siti web na signalazziuni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
-do-not-track-learn-more = Cchiù nfurmazziuna
+do-not-track-description = Manna ê siti web na signalazzioni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
+do-not-track-description2 =
+    .label = Manna ê siti web na signalazzioni "Nun trazzari"
+    .accesskey = M
+do-not-track-learn-more = Cchiù nfurmazzioni
 do-not-track-option-default-content-blocking-known =
     .label = Sulu quannu { -brand-short-name } è mpustatu pi bluccari i trazzatura canusciuti
 do-not-track-option-always =
     .label = Sempri
-managed-notice = U to navigaturi è gistutu dâ to urganizzazziuni.
+global-privacy-control-description =
+    .label = Dicci ê siti web di nun vìnniri o spàrtiri i me dati
+    .accesskey = d
+non-technical-privacy-header = Prifirenzi di privatizza dî siti web
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Cuntrollu Glubbali dâ Privatizza (GPC)
+settings-page-title = Paràmitri
+managed-notice = U to navigaturi è manijatu dâ to urganizzazzioni.
+managed-notice-info-icon =
+    .alt = Nfurmazzioni
+category-list =
+    .aria-label = Catigurìi
 pane-general-title = Ginirali
 category-general =
     .tooltiptext = { pane-general-title }
@@ -93,7 +109,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Abbìlita schedi cuntinituri
     .accesskey = n
-browser-containers-learn-more = Cchiù nfurmazziuna
+browser-containers-learn-more = Cchiù nfurmazzioni
 browser-containers-settings =
     .label = Mpustazziuna…
     .accesskey = i
@@ -118,7 +134,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Teni abbilitatu
 containers-remove-alert-title = Livari stu cuntinituri?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusa. Sì sicuru ca vo' livari stu cuntinituri?
@@ -141,6 +157,8 @@ advanced-fonts =
 preferences-zoom-header = Grannizza
 preferences-default-zoom = Grannizza pridifinuta
     .accesskey = f
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -221,15 +239,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Addumanna sempri
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usa { $plugin-name } (nne { -brand-short-name })
 
@@ -256,9 +274,11 @@ drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
     .accesskey = P
-play-drm-content-learn-more = Cchiù nfurmazziuna
+play-drm-content-learn-more = Cchiù nfurmazzioni
 update-application-title = Attualizzazziuna di { -brand-short-name }
 update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
     .label = Mustra cronuluggìa attualizzazziuna…
@@ -291,7 +311,7 @@ performance-use-recommended-settings-checkbox =
     .label = Usa i mpustazziuna raccumannati
     .accesskey = U
 performance-use-recommended-settings-desc = Sti mpustazziuna su' fatti apposta pi l'hardware e u sistema upirativu dû to computer.
-performance-settings-learn-more = Cchiù nfurmazziuna
+performance-settings-learn-more = Cchiù nfurmazzioni
 performance-allow-hw-accel =
     .label = Usa l'accillirazziuni hardware quannu dispunìbbili
     .accesskey = r
@@ -300,7 +320,7 @@ performance-limit-content-process-option = Lìmiti di prucessi pû cuntinutu
 performance-limit-content-process-enabled-desc = Un nùmmaru cchiù autu di prucessi pû cuntinutu po migghiurari i pristazziuna quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
 performance-limit-content-process-blocked-desc = Canciari u nùmmaru di prucessi pû cuntinutu è pussìbbili sulu câ mudalità murtiprucessu di { -brand-short-name }. <a data-l10n-name="learn-more">Nzìgnati comu cuntrullari si a mudalità murtiprucessu è abbilitata</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (pridifinutu)
 
@@ -325,20 +345,20 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Attiva cuntrolli mmàggini-nnâ-mmàggini
     .accesskey = A
-browsing-picture-in-picture-learn-more = Cchiù nfurmazziuna
+browsing-picture-in-picture-learn-more = Cchiù nfurmazzioni
 browsing-cfr-recommendations =
     .label = Raccumanna stinziuna mentri nàvighi
     .accesskey = R
 browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Cchiù nfurmazziuna
+browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 
 ## General Section - Proxy
 
 network-settings-title = Mpustazziuna riti
 network-proxy-connection-description = Cunfijura comu { -brand-short-name } si cunnetti a internet.
-network-proxy-connection-learn-more = Cchiù nfurmazziuna
+network-proxy-connection-learn-more = Cchiù nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazziuna…
     .accesskey = M
@@ -385,8 +405,6 @@ home-prefs-search-header =
 ## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
 
@@ -409,6 +427,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Pizzini
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -463,7 +483,7 @@ search-find-more-link = Trova autri mutura di ricerca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dùplica palora-chiavi
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Scigghisti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scìgghinni n'autra.
 search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scìgghinni n'autra.
 
@@ -633,7 +653,7 @@ forms-generate-passwords =
 forms-breach-alerts =
     .label = Mustra abbisi supra ê chiavi dî siti viulati
     .accesskey = b
-forms-breach-alerts-learn-more-link = Cchiù nfurmazziuna
+forms-breach-alerts-learn-more-link = Cchiù nfurmazzioni
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Metti autumaticamenti accessi e chiavi
@@ -641,6 +661,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Cridinziali sarbati…
     .accesskey = C
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
@@ -698,10 +721,10 @@ history-clear-button =
 sitedata-header = Cookie e dati dî siti
 sitedata-total-size-calculating = Staju carculannu i diminziuna dî dati dî siti e dâ cache…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, i dati dî siti, e u dipòsitu sarbati a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
-sitedata-learn-more = Cchiù nfurmazziuna
+sitedata-learn-more = Cchiù nfurmazzioni
 sitedata-delete-on-close =
     .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
     .accesskey = k
@@ -753,8 +776,8 @@ addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Prutizziuni avanzata dû trazzamentu
-content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
-content-blocking-learn-more = Cchiù nfurmazziuna
+content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazzioni supra ê to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
+content-blocking-learn-more = Cchiù nfurmazzioni
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -805,7 +828,7 @@ content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
 content-blocking-expand-section =
-    .tooltiptext = Cchiù nfurmazziuna
+    .tooltiptext = Cchiù nfurmazzioni
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Minatura di crittumunita
@@ -845,7 +868,7 @@ permissions-notification = Nutìfichi
 permissions-notification-settings =
     .label = Mpustazziuna…
     .accesskey = M
-permissions-notification-link = Cchiù nfurmazziuna
+permissions-notification-link = Cchiù nfurmazzioni
 permissions-notification-pause =
     .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
@@ -866,20 +889,20 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
-collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazziuna pirsunali.
+collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e ammigghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazzioni pirsunali.
 collection-privacy-notice = Abbisu di privatizza
 collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazziuna. Tutti i dati vecchi sarannu cancillati nna 30 jorna.
-collection-health-report-telemetry-disabled-link = Cchiù nfurmazziuna
+collection-health-report-telemetry-disabled-link = Cchiù nfurmazzioni
 collection-health-report =
     .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Cchiù nfurmazziuna
+collection-health-report-link = Cchiù nfurmazzioni
 collection-studies =
     .label = Pirmetti a { -brand-short-name } di nstallari e cunnùciri studi
 collection-studies-link = Talìa studi di { -brand-short-name }
 addon-recommendations =
     .label = Pirmetti a { -brand-short-name } di dari cunzigghi ncapu a stinziuna pirsunalizzati
-addon-recommendations-link = Cchiù nfurmazziuna
+addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta virsiuni
@@ -897,7 +920,7 @@ security-browsing-protection = Prutizziuni dî cuntinuti fallaci e prugrammi pir
 security-enable-safe-browsing =
     .label = Blocca cuntinuti fallaci e piriculusi
     .accesskey = B
-security-enable-safe-browsing-link = Cchiù nfurmazziuna
+security-enable-safe-browsing-link = Cchiù nfurmazzioni
 security-block-downloads =
     .label = Blocca i scarricamenti piriculusi
     .accesskey = p

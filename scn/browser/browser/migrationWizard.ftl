@@ -27,6 +27,9 @@ migration-imported-safari-reading-list = Lista di littura (di Safari)
 
 ##
 
+migration-bookmarks-from-file-picker-title = Mporta pricu dî nzingalibbri
+migration-bookmarks-from-file-progress-header = Staju mpurtannu i nzingalibbri
+migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -45,3 +48,4 @@ migration-imported-safari-reading-list = Lista di littura (di Safari)
 
 ##
 
+migration-wizard-safari-permissions-sub-header = Pi mpurtari i nzingalibbri e a crunuluggìa di Safari:

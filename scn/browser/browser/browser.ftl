@@ -14,7 +14,7 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Talìa nfurmazziuna dû situ
+    .aria-label = Talìa nfurmazzioni dû situ
 
 ## Tooltips for images appearing in the address bar
 
@@ -70,7 +70,7 @@ urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchi+ assai: cerca cu { 
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Bluccasti i nfurmazziuna supra a to pusizziuni pi stu situ.
+    .tooltiptext = Bluccasti i nfurmazzioni supra â to pusizzioni pi stu situ.
 urlbar-xr-blocked =
     .tooltiptext = Bluccasti l'accessu ê dispusitivi pâ rialtà virtuali pi stu situ.
 urlbar-web-notifications-blocked =
@@ -112,7 +112,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
 search-one-offs-change-settings-compact-button =
@@ -162,18 +162,18 @@ identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggi
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
 identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
-identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
-identity-description-insecure-login-forms = I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
+identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazzioni chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
+identity-description-insecure-login-forms = I nfurmazzioni d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
 identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
-identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.
+identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazzioni o canciari u cumpurtamentu dû situ web.
 identity-description-active-blocked2 = { -brand-short-name } bluccò parti di sta pàggina ca nun èranu sicuri.
-identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.
+identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri.
 identity-description-passive-loaded-insecure2 = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).
 identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
 identity-description-active-loaded = Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.
-identity-description-active-loaded-insecure = I nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
+identity-description-active-loaded-insecure = I nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-more-info-link-text =
-    .label = Cchiù nfurmazziuna
+    .label = Cchiù nfurmazzioni
 
 ## Window controls
 
@@ -192,6 +192,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Mporta nzingalibbri…
+    .tooltiptext = Mporta nzingalibbri di n'autru navigaturi nne { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -208,6 +211,8 @@ popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
 urlbar-search-mode-indicator-close =
     .aria-label = Chiuji
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Cerca o metti nu nnirizzu
 # Variables
@@ -230,6 +235,9 @@ urlbar-page-action-button =
 ## string or the url, like "result value - action text".
 
 urlbar-result-action-visit = Vìsita
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -419,6 +427,9 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -450,7 +461,7 @@ refresh-blocked-allow =
 
 popup-notification-addon-install-unsigned =
     .value = (nun virificata)
-popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazziuna supra u nzitamentu sicuru di l'agghiuncitini
+popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazzioni supra ô nzitamentu sicuru di l'agghiuncitini
 
 ## Pop-up warning
 
@@ -469,3 +480,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mustra “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

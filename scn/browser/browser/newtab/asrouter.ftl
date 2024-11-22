@@ -20,7 +20,7 @@ cfr-doorhanger-extension-manage-settings-button = Gistisci mpustazziuna dî sugg
     .accesskey = G
 cfr-doorhanger-extension-never-show-recommendation = Nun mi mustrari stu suggirimentu
     .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Cchiù nfurmazziuna
+cfr-doorhanger-extension-learn-more-link = Cchiù nfurmazzioni
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -72,7 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 cfr-protections-panel-header = Nàviga senza èssiri sicutatu
 cfr-protections-panel-body = Pruteggi i to dati. { -brand-short-name } ti pruteggi d'assai dî trazzatura cchiù cumuni chi ti sicùtanu quannu nàvighi.
-cfr-protections-panel-link-text = Cchiù nfurmazziuna
+cfr-protections-panel-link-text = Cchiù nfurmazzioni
 
 ## What's New toolbar button and panel
 

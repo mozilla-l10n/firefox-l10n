@@ -41,6 +41,7 @@ firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nun
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-description = Fai di { -brand-short-name } u to navigaturi di rifirimentu. Mporta a crunuluggìa, i nzingalibbri e autru.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
