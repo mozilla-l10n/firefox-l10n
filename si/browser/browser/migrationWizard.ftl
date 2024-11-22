@@ -45,8 +45,8 @@ migration-wizard-migrator-display-name-vivaldi = විවාල්ඩි
 migration-source-name-ie = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
 migration-source-name-edge = මයික්‍රොසොෆ්ට් එඩ්ගේ
 migration-source-name-chrome = ගූගල් ක්‍රෝම්
-migration-imported-safari-reading-list = කියවීමේ ලේඛනය (සෆාරි වෙතින්)
-migration-imported-edge-reading-list = කියවීමේ ලේඛනය (එඩ්ගේ වෙතින්)
+migration-imported-safari-reading-list = කියවීමේ ලැයිස්තුව (සෆාරි වෙතින්)
+migration-imported-edge-reading-list = කියවීමේ ලැයිස්තුව (එඩ්ගේ වෙතින්)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
