@@ -6,7 +6,7 @@ restore-page-tab-title = Ricùpira a sissiuni
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Scusa. Stamu avennu prubblemi pi ripigghiari i to pàggini.
-restore-page-problem-desc = Stamu avennu prubblemi pi ricupirari a to ùrtima sissiuni di navigazziuni. Scegghi Ricùpira sissiuni pi ripruvari.
+restore-page-problem-desc = Stamu avennu prubblemi pi ricupirari a to ùrtima sissiuni di navigazzioni. Scegghi Ricùpira sissiuni pi ripruvari.
 restore-page-try-this = Ancora nun arrinesci a ricupirari a to sissiuni? Certi voti è na scheda ca causa stu prubblema. Talìa i schedi pricidenti, leva a spunta dî schedi ca nun ti sèrbinu ricupirati, e pròvacci arrè.
 restore-page-hide-tabs = Ammuccia i schedi pricidenti
 restore-page-show-tabs = Vidi i schedi pricidenti

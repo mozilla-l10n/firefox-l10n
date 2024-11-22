@@ -37,7 +37,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Rapi quatru dî pirmisi pâ rialtà virtuali
 urlbar-storage-access-anchor =
-    .tooltiptext = Rapi quatru dî pirmisi pâ navigazziuni
+    .tooltiptext = Rapi quatru dî pirmisi pâ navigazzioni
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Gistisci a spartuta dî finestri o dû schirmu cu stu situ
 urlbar-indexed-db-notification-anchor =
@@ -166,10 +166,10 @@ identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurm
 identity-description-insecure-login-forms = I nfurmazzioni d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
 identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
 identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazzioni o canciari u cumpurtamentu dû situ web.
-identity-description-active-blocked2 = { -brand-short-name } bluccò parti di sta pàggina ca nun èranu sicuri.
+identity-description-active-blocked2 = { -brand-short-name } bluccau parti di sta pàggina ca nun èranu sicuri.
 identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri.
 identity-description-passive-loaded-insecure2 = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).
-identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
+identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccau parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
 identity-description-active-loaded = Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.
 identity-description-active-loaded-insecure = I nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-more-info-link-text =
@@ -395,7 +395,7 @@ picture-in-picture-hide-toggle =
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
-    .aria-label = Navigazziuni
+    .aria-label = Navigazzioni
 navbar-downloads =
     .label = Scarricamenti
 navbar-overflow =
@@ -417,7 +417,7 @@ navbar-search =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = Schedi di navigazziuni
+    .aria-label = Schedi di navigazzioni
 tabs-toolbar-new-tab =
     .label = Nova scheda
 tabs-toolbar-list-all-tabs =

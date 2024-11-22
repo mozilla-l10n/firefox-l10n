@@ -6,8 +6,8 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] { -brand-short-name } bluccò { $count } trazzaturi nnâ simana passata
-       *[other] { -brand-short-name } bluccò { $count } trazzatura nnâ simana passata
+        [one] { -brand-short-name } bluccau { $count } trazzaturi nnâ simana passata
+       *[other] { -brand-short-name } bluccau { $count } trazzatura nnâ simana passata
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -34,7 +34,7 @@ tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri 
 fingerprinter-tab-title = Giniratura d'urmi diggitali
 fingerprinter-tab-content = I giniratura d'urmi diggitali cògghinu mpustazzioni dû to navigaturi o computer pi criari un prufilu di tia. Usannu st'urma diggitali, ti ponnu assicutari supra a siti diversi. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 cryptominer-tab-title = Minatura di crittumunita
-cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
+cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
 monitor-title = Stai accura ê viulazziuna dî dati
@@ -55,8 +55,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Viulazziuni di dati canusciuta chi avìa nfurmazziuna supra di tia
-       *[other] Viulazziuna di dati canusciuti chi avìanu nfurmazziuna supra di tia
+        [one] Viulazzioni di dati canusciuta chi avìa nfurmazzioni supra di tia
+       *[other] Viulazzioni di dati canusciuti chi avìanu nfurmazzionia supra di tia
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to

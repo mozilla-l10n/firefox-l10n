@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Accura! Situ fallaci
 safeb-blocked-malware-page-title = Visitari stu situ putissi criari dannu ô to computer
 safeb-blocked-unwanted-page-title = Stu situ putissi cuntèniri prugrammi dannusi
 safeb-blocked-harmful-page-title = Stu situ putissi cuntènir prugrammi malèvuli
-safeb-blocked-phishing-page-short-desc = { -brand-short-name } bluccò sta pàggina picchì putissi circari di fàriti fari quarchi cosa di piriculusu, a tipu nzitari prugrammi o rivilari nfurmazziuna pirsunali comu chiavi o carti di crèditu.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } bluccò stu situ picchì putissi pruvari a nzitàriti prugrammi malèvuli chi putìssiru arrubbari o cancillari nfurmazziuna pirsunali dû to computer.
-safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bluccò sta pòggina picchì ti putissi fari nzitari prugrammi chi ponnu canciari a to spirienza di navigazziuni (p'asempiu, canciannu a to pàggina mastra o mustrànnuti pubblicità nnê siti chi vìsiti).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } bluccò sta pàggina picchì putissi pruvari a nzitàriti app dannusi chi arrùbbanu o cancèllanu i to nfurmazziuna (p'asempiu fotu, chiavi, missaggi e carti di crèditu).
+safeb-blocked-phishing-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì putissi circari di fàriti fari quarchi cosa di piriculusu, a tipu nzitari prugrammi o rivilari nfurmazzioni pirsunali comu chiavi o carti di crèditu.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } bluccau stu situ picchì putissi pruvari a nzitàriti prugrammi malèvuli chi putìssiru arrubbari o cancillari nfurmazzioni pirsunali dû to computer.
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì ti putissi fari nzitari prugrammi chi ponnu canciari a to spirienza di navigazzioni (pi scempru, canciannu a to pàggina mastra o mustrànnuti pubblicità nnê siti chi vìsiti).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì putissi pruvari a nzitàriti app dannusi chi arrùbbanu o cancèllanu i to nfurmazzioni (pi scempru fotu, chiavi, missaggi e carti di crèditu).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Abbisu furnutu di <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vai nn'arrè
 safeb-palm-see-details-label = Vidi minutagghi
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Vidi <a data-l10n-name='learn_more_link
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

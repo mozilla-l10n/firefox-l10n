@@ -45,7 +45,7 @@ protections-panel-blocking-label = Bluccatu
 
 ##
 
-protections-panel-social-media-trackers = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili.
+protections-panel-social-media-trackers = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazzioni supra di tia sparti di chiḍḍu chi sparti nnê to prufili.
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Sfai
 
@@ -56,4 +56,4 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 
 cfr-protections-panel-header = Nàviga senza èssiri sicutatu
 cfr-protections-panel-body = Pruteggi i to dati. { -brand-short-name } ti pruteggi d'assai dî trazzatura cchiù cumuni chi ti sicùtanu quannu nàvighi.
-cfr-protections-panel-link-text = Cchiù nfurmazziuna
+cfr-protections-panel-link-text = Cchiù nfurmazzioni
