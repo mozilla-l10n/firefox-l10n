@@ -1084,7 +1084,7 @@ popup-warning-button =
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
-    .label = Прикажи „{ $popupURI }‟
+    .label = Прикажи „{ $popupURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
