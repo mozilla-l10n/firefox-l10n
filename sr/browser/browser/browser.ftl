@@ -1088,9 +1088,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-file-picker-failed-open = Није могуће отворити Windows дијалошки оквир за избор датотеке. Није могуће изабрати ниједну датотеку или фасциклу.
+file-picker-failed-open = Није могуће отворити Windows дијалошки оквир за избор датотеке. Није могуће изабрати ни датотеку ни фасциклу.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Није могуће отворити Windows дијалошки оквир за избор датотеке. Датотека ће бити сачувана у { $path }.
+file-picker-failed-save-nowhere = Није могуће отворити Windows дијалошки оквир за избор датотеке. Подразумевана фасцикла за чување није пронађена, те датотека неће бити сачувана.
+file-picker-crashed-open = Windows дијалошки оквир за избор датотеке је пао. Није могуће изабрати датотеку ни фасциклу.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows дијалошки оквир за избор датотеке је пао. Датотека ће бити сачувана у { $path }.
+file-picker-crashed-save-nowhere = Windows дијалошки оквир за избор датотеке је пао. Подразумевана фасцикла за чување није пронађена, те датотека неће бити сачувана.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
