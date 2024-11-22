@@ -35,6 +35,14 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = සරල භාෂාවෙන්
     .value = කරුණාකර කෙටි වාක්‍ය සහ සරල වචන භාවිතයෙන් තේරීම නැවත ලියන්න. අර්ථය සහ සත්‍ය නිරවද්‍යතාවය පවත්වා ගන්න.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = ප්‍රශ්න කරන්න
+    .value = කරුණාකර මෙම තේරීම ගැන මාගෙන් ප්‍රශ්න කරන්න. විවිධ ආකාරයේ ප්‍රශ්න අසන්න; උදාහරණයක් ලෙස බහුවරණ, සත්‍ය හෝ අසත්‍ය සහ කෙටි උත්තර. ඊළඟ ප්‍රශ්නයට යාමට පෙර මාගේ ප්‍රතිචාරය බලාපොරොත්තු වන්න.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = මෙය පැහැදිලි කරන්න
+    .value = කරුණාකර සරල වචන භාවිතයෙන් මෙම තේරීමේ ප්‍රධාන සංකල්ප පැහැදිලි කරන්න. එසේම, උදාහරණ භාවිතා කරන්න.
 
 ## Chatbot menu shortcuts
 
@@ -54,6 +62,21 @@ genai-header-options-button =
     .title = වට්ටෝරුව අරින්න
 genai-header-close-button =
     .title = වසන්න
+genai-provider-view-details =
+    .label = කතා ක්‍රමලේඛයේ විස්තර බලන්න
+genai-provider-about-chatbots =
+    .label = මෙම කතා ක්‍රමලේඛ ගැන
+genai-options-reload-generic =
+    .label = AI කතා ක්‍රමලේඛය යළි පූරණය කරන්න
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } යළි පූරණය කරන්න
+genai-options-show-shortcut =
+    .label = පෙළ තෝරන විට කෙටිමඟ පෙන්වන්න
+genai-options-hide-shortcut =
+    .label = පෙළ තෝරන විට කෙටිමඟ සඟවන්න
+genai-options-about-chatbot =
+    .label = { -brand-short-name } හි AI කතා ක්‍රමලේඛ ගැන
 
 ## Chatbot onboarding
 
@@ -84,6 +107,7 @@ genai-onboarding-select-primary = කතාබහ අරඹන්න
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = පෙළ හා කේත උත්පාදනය
+genai-onboarding-claude-analyze = ලේඛන හා රූප විශ්ලේෂණය
 genai-onboarding-claude-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
 genai-onboarding-chatgpt-generate = පෙළ, රූප හා කේත උත්පාදනය
 genai-onboarding-chatgpt-analyze = ලේඛන හා රූප විශ්ලේෂණය
@@ -92,6 +116,7 @@ genai-onboarding-copilot-generate = පෙළ, රූප හා කේත උත
 genai-onboarding-copilot-analyze = රූප විශ්ලේෂණය
 genai-onboarding-copilot-price = නොමිලේ හා ගෙවන විකල්ප; සමහර කාර්යන් සඳහා ගිණුමක් වුවමනාය
 genai-onboarding-gemini-generate = පෙළ, රූප හා කේත උත්පාදනය
+genai-onboarding-gemini-analyze = රූප (නොමිලේ) හා ලේඛන (ගෙවන) විශ්ලේෂණය
 genai-onboarding-gemini-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
 genai-onboarding-huggingchat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-generate = පෙළ හා කේත උත්පාදනය

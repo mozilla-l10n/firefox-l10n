@@ -15,6 +15,10 @@ global-privacy-control-description =
     .label = මාගේ දත්ත විකිණීමෙන් හෝ බෙදා ගැනීමෙන් වළකින ලෙස අඩවි වලට පවසන්න
     .accesskey = s
 non-technical-privacy-header = අඩවි‌ සඳහා පෞද්ගලිකත්ව අභිප්‍රේත
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = ගෝලීය රහස්‍යතා පාලනය (GPC)
 settings-page-title = සැකසුම්
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -132,6 +136,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = ඔබගේ පරිගණකය ඇරඹෙන විට ස්වයංක්‍රීයව { -brand-short-name } අරින්න
     .accesskey = O
+windows-launch-on-login-disabled = මෙම අභිප්‍රේතය වින්ඩෝස් හි අබල කර ඇත. සංශෝධනය සඳහා පද්ධති සැකසුම් තුළ <a data-l10n-name="startup-link">ආරම්භක යෙදුම්</a> වෙත යන්න.
 startup-restore-warn-on-quit =
     .label = අතිරික්සුවෙන් ඉවත් වන විට දන්වන්න
 disable-extension =
@@ -773,6 +778,9 @@ sync-currently-syncing-creditcards = ණය පත්
 sync-currently-syncing-payment-methods = ගෙවීම් ක්‍රම
 sync-currently-syncing-addons = එක්කහු
 sync-currently-syncing-settings = සැකසුම්
+sync-manage-options =
+    .label = සමමුහූර්තය කළමනාකරණය…
+    .accesskey = M
 sync-change-options =
     .label = සංශෝධනය…
     .accesskey = C
