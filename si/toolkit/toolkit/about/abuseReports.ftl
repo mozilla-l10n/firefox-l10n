@@ -51,4 +51,7 @@ abuse-report-damage-reason-v2 = එය මාගේ පරිගණකයට හ
 abuse-report-settings-reason-v2 = එය මට දැනුම් දීමකින් හෝ විමසීමකින් තොරව මාගේ සෙවුම් යන්ත්‍රය, මුල් පිටුව හෝ නව පටිත්ත වෙනස් කෙරිණි
 abuse-report-settings-suggestions-search = ඔබගේ පෙරනිමි සෙවුම් සැකසුම් සංශෝධනය
 abuse-report-settings-suggestions-homepage = ඔබගේ මුල් පිටුව හා නව පටිත්ත සංශෝධනය
+abuse-report-broken-reason-extension-v2 = එය වැඩ නොකරයි, අඩවි කැඩී යයි හෝ { -brand-product-name } මන්දගාමී කරයි
+abuse-report-broken-reason-sitepermission-v2 = එය වැඩ නොකරයි, අඩවි කැඩී යයි හෝ { -brand-product-name } මන්දගාමී කරයි
+abuse-report-broken-example = උදාහරණ: විශේෂාංග මන්දගාමී, භාවිතයට අපහසුයි හෝ වැඩ නොකරයි; අඩවි වල කොටස් පූරණය නොවේ හෝ අසාමාන්‍ය ලෙස පෙනෙයි
 abuse-report-other-reason = වෙනත් යමක්
