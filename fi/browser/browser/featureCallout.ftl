@@ -83,5 +83,6 @@ sidebar-callout-survey-strongly-agree = Vahvasti samaa mieltä
 sidebar-callout-survey-agree = Samaa mieltä
 sidebar-callout-survey-disagree = Eri mieltä
 sidebar-callout-survey-strongly-disagree = Vahvasti eri mieltä
+sidebar-callout-survey-features-question = Seuraavat ovat mahdollisia sivupalkin ominaisuuksia. Mikä parantaisi tuottavuuttasi { -brand-short-name }issa eniten?
 sidebar-callout-survey-submit = Lähetä
 sidebar-callout-survey-thank-you = Kiitos palautteesta!
