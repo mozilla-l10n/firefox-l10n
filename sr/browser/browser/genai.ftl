@@ -15,6 +15,7 @@ genai-settings-chat-claude-links = Ако изаберете Anthropic Claude, �
 genai-settings-chat-copilot-links = Ако изаберете Copilot, пристајете на <a data-l10n-name="link1">услове Copilot AI искуства</a> и <a data-l10n-name="link2">Microsoft обавештење о приватности</a>.
 genai-settings-chat-gemini-links = Ако изаберете Google Gemini, пристајете на <a data-l10n-name="link1">Google услове коришћења</a>, <a data-l10n-name="link2">смернице о забрањеној употреби генеративне вештачке интелигенције</a> и <a data-l10n-name="link3">обавештење о приватности за Gemini апликације</a>.
 genai-settings-chat-huggingchat-links = Ако изаберете HuggingChat, пристајете на <a data-l10n-name="link1">HuggingChat обавештење о приватности</a> и <a data-l10n-name="link2">HuggingChat политику приватности</a>.
+genai-settings-chat-lechat-links = Ако изаберете Le Chat Mistral, пристајете на Mistral AI <a data-l10n-name="link1">услове коришћења</a> и <a data-l10n-name="link2">политику приватности</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -25,12 +26,45 @@ genai-settings-chat-huggingchat-links = Ако изаберете HuggingChat, �
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Питај AI чет-бота
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Питај { $provider }
+genai-input-ask-generic =
+    .placeholder = Питај AI чет-бота…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Питај { $provider }…
+genai-shortcuts-hide =
+    .label = Сакриј пречице за чет-бота
 
 ## Chatbot header
 
+genai-chatbot-title = AI чет-бот
+genai-header-provider-menu =
+    .title = Изабери чет-бота
+genai-header-options-button =
+    .title = Отвори мени
+genai-header-close-button =
+    .title = Затвори
+genai-provider-view-details =
+    .label = Погледај детаље чет-бота
+genai-provider-about-chatbots =
+    .label = О овим чет-ботовима
+genai-options-reload-generic =
+    .label = Поново учитај AI чет-бота
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Поново учитај { $provider }
+genai-options-about-chatbot =
+    .label = О AI чет-ботовима у { -brand-short-name }-у
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Сажимајте, разрађујте идеје и још много тога док прегледате
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Изаберите AI чет-бота за коришћење у { -brand-short-name } бочној траци. Показаћемо вам детаље о сваком од њих када их изаберете. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
 genai-onboarding-primary = Настави
 genai-onboarding-secondary = Затвори
 genai-onboarding-claude-tooltip =
@@ -52,7 +86,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Сазнајте више о Le Chat-у
 genai-onboarding-select-header = Одабери текст за приказ предлога
-genai-onboarding-select-description = Када одаберете текст, направићемо предлоге које можете послати у помоћнику. Такође, можете написати сопствени упит.
+genai-onboarding-select-description = Када одаберете текст, направићемо предлоге које можете послати чет-боту. Такође, можете написати сопствени упит.
 genai-onboarding-select-primary = Започни ћаскање
 
 ## Chatbot onboarding choices

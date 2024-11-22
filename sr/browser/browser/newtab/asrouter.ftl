@@ -245,6 +245,7 @@ fxa-sync-cfr-secondary = Подсети ме касније
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = Не заборавите да направите резервну копију
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате да набавите нови уређај?
 
 ## Set as Default PDF Reader Infobar
