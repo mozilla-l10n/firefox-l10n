@@ -204,9 +204,14 @@ firefoxview-show-all-history = Прикажи целу историју
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Вратите се тамо где сте били
+firefoxview-history-empty-description = Док прегледате, странице које посећујете биће овде поредане.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Изабери прегледач
+    .title = Изабери прегледач
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
@@ -219,6 +224,7 @@ firefoxview-show-all-history = Прикажи целу историју
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-description-two = Да пронађете старије картице, погледајте вашу <a data-l10n-name="history-url">историју прегледања</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

@@ -27,7 +27,43 @@ genai-settings-chat-chatgpt-links = Одабиром ChatGPT-a, слажете �
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Настави
+genai-onboarding-secondary = Затвори
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Сазнајте више о Claude-у
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Сазнајте више о ChatGPT-у
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Сазнајте више о Copilot-у
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Сазнајте више о Gemini-ју
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Сазнајте више о HuggingChat-у
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Сазнајте више о Le Chat-у
+genai-onboarding-select-header = Одабери текст за приказ предлога
+genai-onboarding-select-description = Када одаберете текст, направићемо предлоге које можете послати у помоћнику. Такође, можете написати сопствени упит.
+genai-onboarding-select-primary = Започни ћаскање
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Направи текст и кȏд
+genai-onboarding-claude-analyze = Анализирај документе и слике
+genai-onboarding-claude-price = Бесплатне и плаћене опције; потребан је налог
+genai-onboarding-chatgpt-generate = Направи текст, слике и кȏд
+genai-onboarding-chatgpt-analyze = Анализирај документе и слике
+genai-onboarding-chatgpt-price = Бесплатне и плаћене опције; налог је потребан за неке земље и задатке
+genai-onboarding-copilot-generate = Направи текст, слике и кȏд
+genai-onboarding-copilot-analyze = Анализирај слике
+genai-onboarding-copilot-price = Бесплатне и плаћене опције; налог је потребан за неке задатке
+genai-onboarding-gemini-generate = Направи текст, слике и кȏд
+genai-onboarding-gemini-analyze = Анализирај слике (бесплатно) и документе (плаћено)
+genai-onboarding-gemini-price = Бесплатне и плаћене опције; потребан је налог
+genai-onboarding-huggingchat-generate = Направи текст и кȏд
