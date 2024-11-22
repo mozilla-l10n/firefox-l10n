@@ -16,6 +16,7 @@ genai-settings-chat-copilot-links = Copilot තේරීමෙන් ඔබ <a d
 genai-settings-chat-gemini-links = ගූගල් ජෙමිනි තේරීමෙන් ඔබ <a data-l10n-name="link1">ගූගල් සේවා නියම</a>, <a data-l10n-name="link2">තහනම් AI උත්පාදක භාවිත ප්‍රතිපත්තියට</a> සහ <a data-l10n-name="link3">ජෙමිනි යෙදුම් රහස්‍යතා දැන්වීමට</a> එකඟ වේ.
 genai-settings-chat-huggingchat-links = HuggingChat තේරීමෙන් ඔබ <a data-l10n-name="link1">HuggingChat රහස්‍යතා දැන්වීමට</a> සහ <a data-l10n-name="link2">Hugging Face රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
 genai-settings-chat-lechat-links = Le Chat Mistral තේරීමෙන් ඔබ Mistral කෘතිම බුද්ධි<a data-l10n-name="link1">සේවා නියම</a> සහ <a data-l10n-name="link2">රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
+genai-settings-chat-localhost-links = { -vendor-short-name } නවෝත්පාදන සමූහයෙන් <a data-l10n-name="link1">llamafile</a> වැනි ඔබගේම පුද්ගලික ස්ථානීය කතා ක්‍රමලේඛ රැගෙන එන්න.
 genai-settings-chat-shortcuts =
     .description = ඔබ පෙළක් තේරූ විට උත්පතනයට කෙටිමඟක් පෙන්වයි. { -brand-short-name } හරහා කතා ක්‍රමලේඛය වෙත පෙළ, පිටුවේ සිරැසිය සහ උත්පතනය යවයි.
     .label = පෙළ තෝරන විට උත්පතන පෙන්වන්න
@@ -26,6 +27,14 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = සාරාංශයක්
+    .value = කරුණාකර නිවැරදි සහ සංක්‍ෂිප්ත භාෂාව භාවිතයෙන් තේරීම සාරාංශ කරන්න. එය සුපිරික්සීමට හැකි වන පරිදි සාරාංශයට ශ්‍රීර්ෂක සහ ගුලි ලැයිස්තු භාවිතා කරන්න. අර්ථය සහ සත්‍ය නිරවද්‍යතාවය පවත්වා ගන්න.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = සරල භාෂාවෙන්
+    .value = කරුණාකර කෙටි වාක්‍ය සහ සරල වචන භාවිතයෙන් තේරීම නැවත ලියන්න. අර්ථය සහ සත්‍ය නිරවද්‍යතාවය පවත්වා ගන්න.
 
 ## Chatbot menu shortcuts
 
