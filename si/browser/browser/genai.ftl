@@ -53,11 +53,22 @@ genai-onboarding-gemini-learn = ජෙමිනි ගැන තව දැනග
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-huggingchat-learn = HuggingChat ගැන තව දැනගන්න
+genai-onboarding-select-header = යෝජනා බැලීමට පෙළ තෝරන්න
+genai-onboarding-select-primary = කතාබහ අරඹන්න
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = පෙළ හා කේත උත්පාදනය
+genai-onboarding-claude-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
+genai-onboarding-chatgpt-generate = පෙළ, රූප හා කේත උත්පාදනය
+genai-onboarding-chatgpt-analyze = ලේඛන හා රූප විශ්ලේෂණය
+genai-onboarding-chatgpt-price = නොමිලේ හා ගෙවන විකල්ප; සමහර රටවල් සහ කාර්යන් සඳහා ගිණුමක් වුවමනාය
+genai-onboarding-copilot-generate = පෙළ, රූප හා කේත උත්පාදනය
 genai-onboarding-copilot-analyze = රූප විශ්ලේෂණය
+genai-onboarding-copilot-price = නොමිලේ හා ගෙවන විකල්ප; සමහර කාර්යන් සඳහා ගිණුමක් වුවමනාය
+genai-onboarding-gemini-generate = පෙළ, රූප හා කේත උත්පාදනය
+genai-onboarding-gemini-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
 genai-onboarding-huggingchat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-price = නොමිලේ; ගිණුමක් වුවමනාය
