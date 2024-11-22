@@ -8,6 +8,9 @@
 genai-settings-chat-choose-one-menuitem =
     .label = එකක් තෝරන්න
 genai-settings-chat-links = ඔබ කතා ක්‍රමලේඛයක් තෝරන විට, ඔබ ප්‍රතිපාදකයාගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ.
+genai-settings-chat-shortcuts =
+    .description = ඔබ පෙළ තෝරන විට උත්පතන සඳහා කෙටිමඟක් පෙන්වයි. { -brand-short-name } හරහා කතා ක්‍රමලේඛය වෙත පෙළ, පිටුවේ සිරැසිය සහ උත්පතනය යවයි.
+    .label = පෙළ තෝරන විට උත්පතන පෙන්වන්න
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
