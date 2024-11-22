@@ -47,15 +47,24 @@ genai-header-close-button =
 
 genai-onboarding-primary = ඉදිරියට
 genai-onboarding-secondary = වසන්න
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Claude ගැන තව දැනගන්න
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = ChatGPT ගැන තව දැනගන්න
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Copilot ගැන තව දැනගන්න
 genai-onboarding-gemini-tooltip =
     .title = ගූගල් ජෙමිනි
 genai-onboarding-gemini-learn = ජෙමිනි ගැන තව දැනගන්න
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-huggingchat-learn = HuggingChat ගැන තව දැනගන්න
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Le Chat ගැන තව දැනගන්න
 genai-onboarding-select-header = යෝජනා බැලීමට පෙළ තෝරන්න
 genai-onboarding-select-primary = කතාබහ අරඹන්න
 

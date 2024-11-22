@@ -52,7 +52,7 @@ community-2 = <label data-l10n-name="community-mozillaLink">{ -vendor-short-name
 helpus = උදව් කිරීමට වුවමනාද? <label data-l10n-name="helpus-donateLink">පරිත්‍යාගයක් කරන්න</label> හෝ <label data-l10n-name="helpus-getInvolvedLink">සම්බන්ධ වන්න!</label>
 bottomLinks-license = බලපත්‍ර තොරතුරු
 bottomLinks-rights = පරිශ්‍රීලක අයිතීන්
-bottomLinks-privacy = පෞද්ගලිකත්‍ව ප්‍රතිපත්තිය
+bottomLinks-privacy = රහස්‍යතා ප්‍රතිපත්තිය
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
