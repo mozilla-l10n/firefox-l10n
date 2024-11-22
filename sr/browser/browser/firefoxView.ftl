@@ -43,6 +43,9 @@ firefoxview-tabpickup-adddevice-description = Преузмите { -brand-produc
 firefoxview-tabpickup-adddevice-learn-how = Сазнајте како
 firefoxview-tabpickup-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
 firefoxview-syncedtabs-adddevice-header-2 = Зграбите картице са било ког места
+firefoxview-syncedtabs-adddevice-description-2 = Пријавите се у { -brand-product-name } на вашем телефону или другом рачунару да би се приказале картице овде. Сазнајте како <a data-l10n-name="url">повезати додатне уређаје</a>.
+firefoxview-syncedtabs-adddevice-header = Пријавите се у { -brand-product-name } на вашим другим уређајима
+firefoxview-syncedtabs-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
 firefoxview-tabpickup-synctabs-header = Укључите синхронизацију језичака
 firefoxview-tabpickup-synctabs-description = Дозволите { -brand-short-name }-у да дели језичке између уређаја.
 firefoxview-tabpickup-synctabs-learn-how = Сазнајте како
