@@ -126,6 +126,7 @@ login-intro-instructions-fxa-settings = Идите у Подешавања → �
 login-intro-instructions-fxa-passwords-help = Посетите <a data-l10n-name="passwords-help-link">подршку за лозинке</a> за додатну помоћ.
 about-logins-intro-browser-only-import = Ако су ваше пријаве сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -brand-product-name }</a>
 about-logins-intro-import2 = Ако се ваше лозинке налазе ван { -brand-product-name(case: "gen") }, можете да их <a data-l10n-name="import-browser-link">увезете из другог прегледача</a> или <a data-l10n-name="import-file-link">из датотеке</a>
+about-logins-intro-import3 = Одаберите тастер са ознаком плус изнад да додате лозинку. Такође, можете <a data-l10n-name="import-browser-link">увести лозинке из другог прегледача</a> или <a data-l10n-name="import-file-link">из датотеке</a>.
 
 ## Login
 
@@ -137,6 +138,10 @@ about-logins-login-item-remove-button = Уклони
 login-item-origin-label = Адреса веб-сајта
 login-item-tooltip-message = Проверите да ли сте тачно унели адресу веб-сајта на који се пријављујете.
 about-logins-origin-tooltip2 = Унесите целу адресу и уверите се да се тачно подудара са оном са којом се пријављујете.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Проверите јесте ли сачували вашу тренутну лозинку за овај сајт. Мењање лозинке овде не мења је на { $webTitle }.
+about-logins-add-password-tooltip = Проверите јесте ли сачували вашу тренутну лозинку са овај сајт.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Корисничко име
@@ -180,6 +185,18 @@ about-logins-edit-login-os-auth-dialog-message-win = Из безбедносни
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану пријаву
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] измени подешавања за лозинке
+       *[other] { -brand-short-name } покушава да промени подешавања за лозинке. Употребите пријаву на вашем уређају да то дозволите.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Унесите податке за пријаву на Windows да бисте уредили вашу лозинку. Ово помаже у заштити ваших налога.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = уреди сачувану лозинку
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте видели лозинку.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -195,6 +212,11 @@ about-logins-export-password-os-auth-dialog-message-win = Из безбедно�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = извези сачуване податке за пријаву
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Унесите податке за пријаву на Windows да бисте извезли ваше лозинке. Ово помаже у заштити ваших налога.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = извези сачуване лозинке
 
 ## Primary Password notification
 
@@ -210,6 +232,10 @@ confirmation-dialog-dismiss-button =
     .title = Откажи
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Уклони лозинку?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Не можете поништити ову радњу.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
 
 ## Variables
