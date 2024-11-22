@@ -108,6 +108,7 @@ newtab-menu-save-to-pocket = Сачувај у { -pocket-brand-name(case: "loc")
 newtab-menu-delete-pocket = Избриши из { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Наши спонзори и ваша приватност
+newtab-menu-about-fakespot = О { -fakespot-brand-name }-у
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -223,8 +224,23 @@ newtab-pocket-cta-button = Преузми { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Сачувајте приче које вам се свиђају у { -pocket-brand-name(case: "loc") } и уживајте у врхунском штиву.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } је члан { -brand-product-name } породице
 # A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Сачувај
 newtab-pocket-saved = Сачувано
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Више овога
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Није за мене
+newtab-toast-thumbs-up-or-down = Хвала. Ваше повратне информације помоћи ће нам да побољшамо предлоге.
+newtab-toast-dismiss-button =
+    .title = Одбаци
+    .aria-label = Одбаци
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -255,9 +271,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонзорисане пречице
 newtab-custom-pocket-title = Препоруке из { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Препоруке из { -pocket-brand-name(case: "gen") }
-    .description = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-pocket-show-recent-saves = Прикажи недавно сачувано
 newtab-custom-recent-title = Недавна активност
@@ -267,3 +280,24 @@ newtab-custom-recent-toggle =
     .description = Избор недавних сајтова и садржаја
 newtab-custom-close-button = Затвори
 newtab-custom-settings = Додатна подешавања
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

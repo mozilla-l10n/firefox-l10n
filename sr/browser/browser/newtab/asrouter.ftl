@@ -213,6 +213,8 @@ cfr-cbh-confirm-button = Одбаци банере колачића
     .accesskey = О
 cfr-cbh-dismiss-button = Не сада
     .accesskey = Н
+cookie-banner-blocker-onboarding-header = { -brand-short-name } је управо одбио банер колачића за вас
+cookie-banner-blocker-onboarding-body = Мање ометања, мање колачића који вас прате на овом сајту.
 cookie-banner-blocker-onboarding-learn-more = Сазнајте више
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

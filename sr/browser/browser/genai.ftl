@@ -67,3 +67,7 @@ genai-onboarding-gemini-generate = Направи текст, слике и кȏ
 genai-onboarding-gemini-analyze = Анализирај слике (бесплатно) и документе (плаћено)
 genai-onboarding-gemini-price = Бесплатне и плаћене опције; потребан је налог
 genai-onboarding-huggingchat-generate = Направи текст и кȏд
+genai-onboarding-huggingchat-switch = Бирајте између разноврсног избора отворених модела
+genai-onboarding-huggingchat-price-2 = Бесплатно; налог је потребан након одређеног броја захтева
+genai-onboarding-lechat-generate = Направи текст и кȏд
+genai-onboarding-lechat-price = Бесплатно; потребан је налог
