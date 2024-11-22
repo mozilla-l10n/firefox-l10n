@@ -444,6 +444,24 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Пронађено дупликата:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { NUMBER($count) ->
+        [one] <span>Додана нова лозинка:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Додане нове лознке:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Додано нових лозинки:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { NUMBER($count) ->
+        [one] <span>Ажуриран постојећи унос:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ажурирана постојећа уноса:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ажурирано постојећих уноса:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { NUMBER($count) ->
+        [one] <span>Пронађен дупли унос: </span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезен)</span>
+        [few] <span>Пронађена дупла уноса:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(нису увезени)</span>
+       *[other] <span>Пронађено дуплих уноса:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(нису увезени)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
@@ -472,6 +490,7 @@ about-logins-import-report-description =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     }.
+about-logins-import-report-description2 = Лозинке су увезене у { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -479,6 +498,9 @@ about-logins-import-report-row-index = { $number }. ред
 about-logins-import-report-row-description-no-change = Дупликат: таква пријава већ постоји
 about-logins-import-report-row-description-modified = Ажурирана је постојећа пријава
 about-logins-import-report-row-description-added = Додата је нова пријава
+about-logins-import-report-row-description-no-change2 = Дупликати: тачно подударање постојећег уноса
+about-logins-import-report-row-description-modified2 = Постојећи унос је ажуриран
+about-logins-import-report-row-description-added2 = Нова лозинка је додана
 about-logins-import-report-row-description-error = Грешка: недостаје поље
 
 ##
@@ -509,6 +531,24 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликат пријаве</div> <div data-l10n-name="not-imported">(није увезено)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликата пријава</div> <div data-l10n-name="not-imported">(није увезено)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликата пријава</div> <div data-l10n-name="not-imported">(није увезено)</div>
+    }
+about-logins-import-report-added2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нова лозинка је додана</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нове лозинке су додане</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових лозинки је додано</div>
+    }
+about-logins-import-report-modified2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећи унос је ажуриран</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећа уноса су ажурирана</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећих уноса је ажурирано</div>
+    }
+about-logins-import-report-no-change2 =
+    { NUMBER($count) ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупли унос</div> <div data-l10n-name="not-imported">(није увезен)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупла уноса</div> <div data-l10n-name="not-imported">(нису увезени)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дуплих уноса</div> <div data-l10n-name="not-imported">(нису увезени)</div>
     }
 about-logins-import-report-error =
     { $count ->
