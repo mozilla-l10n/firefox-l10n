@@ -11,8 +11,11 @@ genai-settings-chat-choose-one-menuitem =
     .label = එකක් තෝරන්න
 genai-settings-chat-links = ඔබ කතා ක්‍රමලේඛයක් තෝරන විට, ඔබ ප්‍රතිපාදකයාගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ.
 genai-settings-chat-chatgpt-links = ChatGPT තේරීමෙන් ඔබ OpenAI <a data-l10n-name="link1">භාවිත නියම</a> සහ <a data-l10n-name="link2">රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
+genai-settings-chat-claude-links = Anthropic Claude තේරීමෙන් ඔබ Anthropic <a data-l10n-name="link1">පරිභෝජක සේවා නියම</a>, <a data-l10n-name="link2">භාවිත ප්‍රතිපත්තියට</a> සහ <a data-l10n-name="link3">රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
+genai-settings-chat-copilot-links = Copilot තේරීමෙන් ඔබ <a data-l10n-name="link1">Copilot කෘතිම බුද්ධි අත්දැකීම් නියම</a> සහ <a data-l10n-name="link2">මයික්‍රොසොෆ්ට් රහස්‍යතා ප්‍රකාශයට</a> එකඟ වේ.
 genai-settings-chat-gemini-links = ගූගල් ජෙමිනි තේරීමෙන් ඔබ <a data-l10n-name="link1">ගූගල් සේවා නියම</a>, <a data-l10n-name="link2">තහනම් AI උත්පාදක භාවිත ප්‍රතිපත්තියට</a> සහ <a data-l10n-name="link3">ජෙමිනි යෙදුම් රහස්‍යතා දැන්වීමට</a> එකඟ වේ.
 genai-settings-chat-huggingchat-links = HuggingChat තේරීමෙන් ඔබ <a data-l10n-name="link1">HuggingChat රහස්‍යතා දැන්වීමට</a> සහ <a data-l10n-name="link2">Hugging Face රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
+genai-settings-chat-lechat-links = Le Chat Mistral තේරීමෙන් ඔබ Mistral කෘතිම බුද්ධි<a data-l10n-name="link1">සේවා නියම</a> සහ <a data-l10n-name="link2">රහස්‍යතා ප්‍රතිපත්තියට</a> එකඟ වේ.
 genai-settings-chat-shortcuts =
     .description = ඔබ පෙළක් තේරූ විට උත්පතනයට කෙටිමඟක් පෙන්වයි. { -brand-short-name } හරහා කතා ක්‍රමලේඛය වෙත පෙළ, පිටුවේ සිරැසිය සහ උත්පතනය යවයි.
     .label = පෙළ තෝරන විට උත්පතන පෙන්වන්න
