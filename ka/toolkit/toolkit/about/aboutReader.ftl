@@ -4,7 +4,6 @@
 
 about-reader-loading = იტვირთება…
 about-reader-load-error = გვერდიდან სტატიის ჩატვირთვა ვერ მოხერხდა
-
 about-reader-color-scheme-light = ნათელი
     .title = ნათელი ფერები
 about-reader-color-scheme-dark = მუქი
@@ -13,7 +12,18 @@ about-reader-color-scheme-sepia = სეპია
     .title = მოყავისფრო ფერები
 about-reader-color-scheme-auto = ავტომატური
     .title = ფერთა თვითშერჩევა
-
+about-reader-color-light-theme = ნათელი
+    .title = ნათელი იერსახე
+about-reader-color-dark-theme = მუქი
+    .title = მუქი იერსახე
+about-reader-color-sepia-theme = სეპია
+    .title = მოყავისფრო იერსახე
+about-reader-color-auto-theme = თვითშერჩევა
+    .title = თვითშერჩეული იერსახე
+about-reader-color-gray-theme = რუხი
+    .title = მონაცრისფრო იერსახე
+about-reader-color-contrast-theme = მკვეთრი
+    .title = იერსახე მკვეთრი ფერებით
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +60,14 @@ about-reader-font-type-sans-serif = უნაჭდევო
 about-reader-toolbar-close = კითხვის რეჟიმის დახურვა
 about-reader-toolbar-type-controls = იერსახის პარამეტრები
 about-reader-toolbar-savetopocket = შენახვა { -pocket-brand-name }-ში
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+
