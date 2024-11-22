@@ -47,9 +47,9 @@ account-send-tab-to-device-verify = ගිණුම සත්‍යාපනය 
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
-account-connection-connected-with = මෙම පරිගණකය දැන් { $deviceName } සමඟ සම්බන්ධිතයි.
+account-connection-connected-with = මෙම පරිගණකය දැන් { $deviceName } සමඟ සම්බන්ධයි.
 # Used when the name of the new device is not known.
-account-connection-connected-with-noname = මෙම පරිගණකය දැන් නව උපාංගයක් සමඟ සම්බන්ධිතයි.
+account-connection-connected-with-noname = මෙම පරිගණකය දැන් නව උපාංගයක් සමඟ සම්බන්ධයි.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = ඔබ සාර්ථකව පිවිසුණි
 # Used in a notification shown after the Firefox account was disconnected remotely.
