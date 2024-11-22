@@ -111,9 +111,10 @@ about-logins-login-intro-heading-message = Sarba i to chiavi nnôn locu sicuru
 login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t'abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
 login-intro-instructions-fxa2 = Crea o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
 login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
-login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> pi aviri ajutu.
+login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p'aviri ajutu.
 about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
 about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navigaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
+about-logins-intro-import3 = Ammacca u sìmmulu cchiù p'agghiùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navigaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
 
 ## Login
 
