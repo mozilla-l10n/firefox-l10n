@@ -84,6 +84,8 @@ policy-Handlers = ᱢᱩᱞ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱮᱱᱰᱞᱚᱨᱥ
 policy-HardwareAcceleration = ᱡᱩᱫᱤ ᱠᱷᱟᱹᱞᱤ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱦᱟᱰᱣᱮᱨ ᱮᱠᱥᱮᱞᱮᱨᱮᱥᱚᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱢᱚᱱᱮ ᱛᱮ ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱠᱩᱞᱩᱯ ᱢᱮ ᱾
+policy-HttpAllowlist = ᱢᱩᱲᱩᱫ ᱡᱟᱦᱟᱸ ᱫᱚ HTTPS ᱨᱮ ᱵᱟᱝ ᱟᱯᱜᱽᱨᱮᱰ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+policy-HttpsOnlyMode = HTTPS- ᱥᱩᱢᱩᱝ ᱢᱳᱰ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-InstallAddonsPermission = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱮᱰ-ᱚᱱᱠᱚ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱣᱟ ᱠᱚᱢ ᱾
 policy-LegacyProfiles = ᱢᱤᱫᱴᱟᱝ ᱯᱷᱤᱪᱚᱨ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱢᱚᱦᱚᱨ ᱡᱷᱚᱛᱚ ᱵᱚᱦᱟᱞ ᱡᱷᱚᱜ ᱡᱩᱨᱛᱮᱭᱟᱨᱟᱭ ᱵᱚᱸᱫ ᱠᱟᱜ ᱢᱮ ᱾
 
@@ -98,6 +100,7 @@ policy-LocalFileLinks = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱤᱨᱫᱷᱟᱨᱤᱛ
 policy-ManagedBookmarks = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱢᱮᱱᱮᱡᱽ ᱠᱟᱫ ᱵᱩᱠᱢᱟᱨᱠ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱥᱮᱴ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱵᱟᱭ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 policy-ManualAppUpdateOnly = ᱠᱷᱟᱹᱞᱤ ᱛᱤᱛᱮᱭᱟᱜ ᱞᱮᱠᱷᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ ᱟᱞᱚᱢ ᱤᱛᱞᱟᱹ ᱟᱭᱟ ᱾
 policy-PrimaryPassword = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ ᱫᱚᱨᱠᱟᱨ ᱥᱮ ᱢᱟᱱᱟ ᱾
+policy-PrintingEnabled = ᱪᱷᱟᱯᱟ ᱪᱟᱹᱞᱩ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-NetworkPrediction = ᱱᱮᱴᱣᱟᱨᱠ ᱵᱷᱚᱵᱤᱥᱭᱚᱣᱟᱬᱤ ᱮᱢ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱢᱮ (DNS ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ) ᱾
 policy-NewTabPage = ᱱᱟᱣᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱮᱢ ᱢᱮ ᱟᱨᱵᱟᱝ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 policy-NoDefaultBookmarks = ᱢᱩᱞ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱵᱚᱱᱰᱚᱞ ᱛᱮᱭᱟᱨ { -brand-short-name } ᱥᱟᱞᱟᱜ ᱵᱚᱸᱫᱚᱭ ᱢᱮ, ᱟᱨ ᱥᱢᱟᱨᱴ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ (ᱡᱟᱹᱥᱛᱤ ᱪᱟᱞᱟᱣ ᱠᱟᱱ, ᱱᱮᱛᱟᱨᱟᱜ ᱴᱮᱜᱽᱠᱚ) ᱾ ᱠᱷᱟᱴᱚ ᱚᱞ : ᱱᱚᱶᱟ ᱱᱤᱛᱤ ᱫᱚ ᱩᱱ ᱡᱷᱚᱜ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱛᱤᱧ ᱡᱷᱚᱜ ᱢᱚᱦᱚᱨ ᱨᱮᱭᱟᱜ ᱯᱩᱭᱞᱩ ᱫᱷᱟᱣ ᱪᱟᱹᱞᱩ ᱠᱚᱜᱼᱟ ᱾
