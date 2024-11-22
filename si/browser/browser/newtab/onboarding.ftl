@@ -321,6 +321,8 @@ onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-ne
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = නව!
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = පැති තීරුවේ AI කතා ක්‍රමලේඛයක් තබා බලන්න
 onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛයක් තෝරන්න
 
 ## New user onboarding checklist
