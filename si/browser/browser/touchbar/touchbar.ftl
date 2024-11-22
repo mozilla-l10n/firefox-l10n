@@ -12,7 +12,7 @@ fullscreen = පූර්ණ තිරය
 touchbar-fullscreen-exit = පූර්ණ තිරයෙන් පිටවන්න
 find = සොයන්න
 new-tab = නව පටිත්ත
-add-bookmark = පොත්යොමුවක් යොදන්න
+add-bookmark = පොත්යොමුවක් තබන්න
 reader-view = කියවීමේ දැක්ම
 # Meant to match the string displayed in an empty URL bar.
 open-location = සොයන්න හෝ ලිපිනය ලියන්න

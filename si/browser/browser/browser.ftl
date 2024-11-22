@@ -306,7 +306,7 @@ quickactions-learn-more =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = පොත්යොමුව එක් කරන්න
+bookmarks-add-bookmark = පොත්යොමුවක් තබන්න
 bookmarks-edit-bookmark = පොත්යොමුව සංස්කරණය
 bookmark-panel-cancel =
     .label = අවලංගු කරන්න
