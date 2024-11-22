@@ -5,6 +5,8 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = ඔබ පිරික්සන විට ඉක්මනින් ප්‍රවේශයට කැමති කතා ක්‍රමලේඛයක් පැති තීරුවට එක් කරයි. <a data-l10n-name="connect">ප්‍රතිපෝෂණ බෙදාගන්න</a>
+genai-settings-chat-choose = කතා ක්‍රමලේඛයක් තෝරන්න
 genai-settings-chat-choose-one-menuitem =
     .label = එකක් තෝරන්න
 genai-settings-chat-links = ඔබ කතා ක්‍රමලේඛයක් තෝරන විට, ඔබ ප්‍රතිපාදකයාගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ.
@@ -24,6 +26,9 @@ genai-settings-chat-shortcuts =
 
 ## Chatbot header
 
+genai-chatbot-title = AI කතා ක්‍රමලේඛය
+genai-header-provider-menu =
+    .title = කතා ක්‍රමලේඛයක් තෝරන්න
 genai-header-close-button =
     .title = වසන්න
 

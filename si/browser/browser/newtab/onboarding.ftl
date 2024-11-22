@@ -320,3 +320,7 @@ onboarding-new-user-survey-next-button-label = ඊළඟ
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = නව!
+onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛයක් තෝරන්න
+
+## New user onboarding checklist
+
