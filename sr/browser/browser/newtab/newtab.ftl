@@ -283,21 +283,85 @@ newtab-custom-settings = Додатна подешавања
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Позадине
+newtab-wallpaper-light-red-panda = Црвена панда
+newtab-wallpaper-light-mountain = Бела гора
+newtab-wallpaper-light-sky = Небо са љубичастим и розим облацима
+newtab-wallpaper-light-color = Плави, рози и жути облици
+newtab-wallpaper-light-landscape = Планински пејзаж у плавој измаглици
+newtab-wallpaper-light-beach = Плажа са палмом
+newtab-wallpaper-dark-aurora = Поларна светлост
+newtab-wallpaper-dark-color = Црвени и плави облици
+newtab-wallpaper-dark-panda = Црвена панда сакривена у шуми
+newtab-wallpaper-dark-sky = Градски призор са ноћним небом
+newtab-wallpaper-dark-mountain = Планински пејзаж
+newtab-wallpaper-dark-city = Љубичасти градски призор
+newtab-wallpaper-dark-fox-anniversary = Лисица на тротоару покрај шуме
+newtab-wallpaper-light-fox-anniversary = Лисица на ливади са планинским пејзажом у измаглици
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Једнобојне
+newtab-wallpaper-blue = Плава
+newtab-wallpaper-light-blue = Светло плава
+newtab-wallpaper-light-purple = Светло љубичаста
+newtab-wallpaper-light-green = Светло зелена
+newtab-wallpaper-green = Зелена
+newtab-wallpaper-beige = Беж
+newtab-wallpaper-yellow = Жута
+newtab-wallpaper-orange = Наранџаста
+newtab-wallpaper-pink = Розе
+newtab-wallpaper-light-pink = Светло розе
+newtab-wallpaper-red = Црвена
+newtab-wallpaper-dark-blue = Тамно плава
+newtab-wallpaper-dark-purple = Тамно љубичаста
+newtab-wallpaper-dark-green = Тамно зелена
+newtab-wallpaper-brown = Смеђа
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Абстрактне
+newtab-wallpaper-abstract-green = Зелени облици
+newtab-wallpaper-abstract-blue = Плави облици
+newtab-wallpaper-abstract-purple = Љубичасти облици
+newtab-wallpaper-abstract-orange = Наранџасти облици
+newtab-wallpaper-gradient-orange = Градијент наранџасте и розе
+newtab-wallpaper-abstract-blue-purple = Плави и љубичасти облици
 
 ## Photographs
 
 
 ## New Tab Weather
 
+newtab-weather-menu-hide-weather = Сакриј временску прогнозу на новој картици
+newtab-weather-menu-learn-more = Сазнајте више
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Временска прогноза тренутно није доступна.
 
 ## Topic Labels
 
+newtab-topic-label-business = Посао
+newtab-topic-label-career = Каријера
+newtab-topic-label-education = Образовање
+newtab-topic-label-arts = Забава
+newtab-topic-label-food = Храна
+newtab-topic-label-health = Здравље
+newtab-topic-label-hobbies = Игре
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Новац
+newtab-topic-label-society-parenting = Родитељство
+newtab-topic-label-government = Политика
+newtab-topic-label-education-science = Наука
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Животни савети
+newtab-topic-label-sports = Спорт
+newtab-topic-label-tech = Технологија
+newtab-topic-label-travel = Путовањa
+newtab-topic-label-home = Кућа и башта
 
 ## Topic Selection Modal
 
