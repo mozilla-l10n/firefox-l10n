@@ -328,12 +328,40 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] Уклони { $count } лозинке?
        *[other] Уклони { $count } лозинки?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
+        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
+        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
+       *[other] Ово ће уклонити све лозинке сачуване у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Уклони { $count } лозинку са свих уређаја?
+        [few] Уклони { $count } лозинке са свих уређаја?
+       *[other] Уклони свих { $count } лозинки са свих уређаја?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+       *[other] Ово ће уклонити све лозинке сачуване у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Извезите податке за пријаву
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
+about-logins-confirm-export-dialog-title2 = Напомена о извозу лозинки
+about-logins-confirm-export-dialog-message2 =
+    Када извозите, ваше лозинке ће бити сачуване у датотеку са читљивим текстом.
+    Када завршите са коришћењем датотеке, препоручујемо да је обришете тако да други који користе овај уређај не би могли видети ваше лозинке.
+about-logins-confirm-export-dialog-confirm-button2 = Настави са извозом
 about-logins-alert-import-title = Увоз је завршен
 about-logins-alert-import-message = Погледајте детаљан резиме увоза
 confirm-discard-changes-dialog-title = Одбацити несачуване промене?
@@ -375,6 +403,11 @@ about-logins-export-file-picker-title = Извоз датотеке са при�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Извези лозинке из { -brand-short-name }-а
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = лозинке.csv
 about-logins-export-file-picker-export-button = Извези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -384,6 +417,8 @@ about-logins-export-file-picker-csv-filter-title = CSV датотека
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Увоз датотеке са пријавама
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Увези лозинке у { -brand-short-name }
 about-logins-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
