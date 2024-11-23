@@ -67,6 +67,13 @@ about-private-browsing-pin-promo-title = Nuḍḍu cookie, nuḍḍa crunuluggì
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Accabbaru l'abbisi pî cookie!
 about-private-browsing-cookie-banners-promo-button = Cchiù picca abbisi pî cookie
+about-private-browsing-cookie-banners-promo-message = Pirmetti a { -brand-short-name } d'arrispùnniri 'n autumàticu a l'abbisi pî cookie, accussì poi turnari lestu a navigari senza distrazzioni. Si pussìbbili, { -brand-short-name } rifiuta tutti i pirmisi.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } penza a l'abbisi pî cookie pi tia
+about-private-browsing-cookie-banners-promo-body = Ora 'n autumàticu rifiutamu assai abbisi pî cookie, accussì veni trazzatu cchiù picca e poi turnari a navigari senza distrazzioni.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Nun lassari trazzi nta stu dispusitivu
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cancella i to cookie, a crunuluggìa e i dati dî siti quannu chiuji tutti i finestri privati.
