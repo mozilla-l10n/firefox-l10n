@@ -8,11 +8,18 @@
 newtab-page-title = Нова картица
 newtab-settings-button =
     .title = Прилагодите страницу нове картице
+newtab-personalize-settings-icon-label =
+    .title = Промените изглед нове картице
+    .aria-label = Подешавања
+newtab-settings-dialog-label =
+    .aria-label = Подешавања
 newtab-personalize-icon-label =
     .title = Промените изглед нове картице
     .aria-label = Промените изглед нове картице
 newtab-personalize-dialog-label =
     .aria-label = Персонализација
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -45,6 +52,7 @@ newtab-topsites-add-search-engine-header = Додај претраживач
 newtab-topsites-add-shortcut-header = Нова пречица
 newtab-topsites-edit-topsites-header = Уреди популарне сајтове
 newtab-topsites-edit-shortcut-header = Измени пречицу
+newtab-topsites-add-shortcut-label = Додај пречицу
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов

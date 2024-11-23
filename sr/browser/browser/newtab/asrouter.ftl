@@ -147,7 +147,7 @@ spotlight-peace-mind-body = Сваког месеца, { -brand-short-name } б�
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Остави у доку
-       *[other] Закачи на траку
+       *[other] Закачи на траку задатака
     }
 spotlight-pin-secondary-button = Не сада
 
@@ -283,9 +283,19 @@ launch-on-login-infobar-final-reject-button = Не, хвала
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Ослободите се елемената за праћење
+tail-fox-spotlight-subtitle = Реците збогом досадним елементима за праћење и уживајте у бржем и безбеднијем искуством на мрежи.
+tail-fox-spotlight-primary-button = Отвори моје везе са { -brand-short-name }-ом
+tail-fox-spotlight-secondary-button = Не сада
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Старије { -brand-short-name } верзије би од 14. јануара 2025. могле да имају проблеме.</strong>
+root-certificate-succession-infobar-march-message = <strong>Ажурирајте да би могли користити { -brand-short-name } после 14. марта 2025.</strong>
 root-certificate-succession-infobar-link = Зашто морам да ажурирам?
 root-certificate-succession-infobar-primary-button =
     .label = Aжурирај сада
@@ -307,11 +317,19 @@ fxa-menu-message-backup-data-primary-text = Направите резервну 
 fxa-menu-message-backup-data-secondary-text = Аутоматски обезбедите обележиваче, лозинке и друге податке на свим вашим уређајима.
 fxa-menu-message-backup-data-collapsed-text = Направите резервну копију података
 fxa-menu-message-backup-sync-primary-text = Да ваши подаци буду безбедни и синхронизовани
+fxa-menu-message-mobile-primary-text = Пошаљите картице на ваш телефон
+fxa-menu-message-mobile-secondary-text = Наставите тамо где сте стали када синхронизујете ваше картице са мобилним уређајем.
+fxa-menu-message-mobile-collapsed-text = Синхронизујте са вашим телефоном
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Добродошли назад
 multi-cta-fox-doodle-set-default-checkbox = Поставите { -brand-short-name } на подразумевано
 multi-cta-fox-doodle-pin-startmenu-checkbox = Прикачите { -brand-short-name } на почетни мени
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Остави { -brand-short-name } у доку
+       *[other] Закачи { -brand-short-name } на траку задатака
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Започните прегледање
 multi-cta-fox-doodle-main-browser-primary-button-label = Постави { -brand-short-name } за мој главни прегледач
