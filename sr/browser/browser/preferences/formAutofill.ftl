@@ -23,11 +23,22 @@ address-capture-save-doorhanger-header = Сачувај адресу?
 address-capture-save-doorhanger-description = Сачувај податак у { -brand-short-name } за брзо попуњавање образаца.
 address-capture-update-doorhanger-header = Ажурирај адресу?
 address-capture-edit-doorhanger-header = Измени адресу
+address-capture-manage-address-button =
+    .label = Подешавања адресе
+address-capture-learn-more-button =
+    .label = Сазнајте више
+address-capture-open-menu-button =
+    .aria-label = Отвори мени
+address-capture-edit-address-button =
+    .aria-label = Измени адресу
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Додај адресу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Измени адресу
 autofill-address-given-name = Име
 autofill-address-additional-name = Средње име
 autofill-address-family-name = Презиме
+autofill-address-name = Име
 autofill-address-organization = Организација
 autofill-address-street = Адреса
 
@@ -85,8 +96,9 @@ autofill-address-eircode = Eircode
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Додај нову адресу
 autofill-address-country = Држава или покрајна
+autofill-address-country-only = Држава
 autofill-address-tel = Телефон
-autofill-address-email = Имејл-адреса
+autofill-address-email = Е-пошта
 autofill-cancel-button = Откажи
 autofill-save-button = Сачувај
 autofill-country-warning-message = Аутоматско попуњавање форми тренутно није доступно само у одређеним државама.
@@ -102,6 +114,9 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } покушава да прикаже податке о кредитној картици. Потврдите приступ овом Windows налогу испод.
        *[other] { -brand-short-name } покушава да прикаже податке о кредитној картици.
     }
+autofill-message-tooltip = Погледајте поруку о аутоматском попуњавању
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Додај картицу
 autofill-card-number = Број картице
 autofill-card-invalid-number = Унесите исправан број картице
 autofill-card-name-on-card = Име на картици
