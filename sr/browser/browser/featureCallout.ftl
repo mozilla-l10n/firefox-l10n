@@ -62,13 +62,13 @@ split-dismiss-button-manage-settings-option-label = Управљај подеш�
 
 ## Sidebar Strings
 
-sidebar-button-callout-title = Прикажи наслове картица у бочној траци
-sidebar-button-callout-subtitle = Користите тастер за бочну траку да проширите исту и видите наслове картица.
+sidebar-button-callout-title = Прикажи наслове картица у бочном панелу
+sidebar-button-callout-subtitle = Користите тастер за бочни панел да проширите исти и видите наслове картица.
 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Помозите да побољшамо { -brand-short-name }
-sidebar-callout-survey-satisfaction-question = Колико сте задовољни са { -brand-short-name } бочном траком?
+sidebar-callout-survey-satisfaction-question = Колико сте задовољни са { -brand-short-name } бочним панелом?
 sidebar-callout-survey-privacy-notice-link = Обавештење о приватности
 sidebar-callout-survey-very-satisfied = Веома задовољан/а
 sidebar-callout-survey-satisfied = Задовољан/а
@@ -76,7 +76,7 @@ sidebar-callout-survey-neutral = Неутралан/а
 sidebar-callout-survey-dissatisfied-2 = Незадовољан/а
 sidebar-callout-survey-very-dissatisfied-2 = Веома незадовољан/а
 sidebar-callout-survey-dont-use-it = Не користим је
-sidebar-callout-survey-productive-question = До које мере се слажете или неслажете са овом изјавом:<br/>“{ -brand-short-name } бочна трака ми помаже да будем продуктивнији/а”?
+sidebar-callout-survey-productive-question = До које мере се слажете или неслажете са овом изјавом:<br/>“{ -brand-short-name } бочни панел ми помаже да будем продуктивнији/а”?
 sidebar-callout-survey-strongly-agree = Потпуно се слажем
 sidebar-callout-survey-agree = Слажем се
 sidebar-callout-survey-disagree = Не слажем се

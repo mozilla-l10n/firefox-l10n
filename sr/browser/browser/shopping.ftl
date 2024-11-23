@@ -75,9 +75,16 @@ shopping-analysis-explainer-learn-more2 = Сазнајте више о томе 
 shopping-analysis-explainer-highlights-description = <strong>Истакнуто</strong> је из { $retailer } рецензија у последњих 80 дана за које верујемо да су поуздане.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
 shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Истакнуто</strong> је из рецензија у последњих 80 дана за које верујемо да су поуздане.
+shopping-analysis-explainer-review-grading-scale-reliable = Поуздане рецензије. Верујемо да су рецензије вероватно оставили стварни купци који су искрени и непристрасни.
+shopping-analysis-explainer-review-grading-scale-mixed = Верујемо да постоји мешавина поузданих и непоузданих рецензија.
+shopping-analysis-explainer-review-grading-scale-unreliable = Непоуздане рецензије. Верујемо да су рецензије вероватно лажне или од пристрасних рецензената.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Отвори прегледач рецензија
+shopping-sidebar-close-button2 =
+    .tooltiptext = Затвори прегледач рецензија
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -86,12 +93,33 @@ shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>И
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Још увек нема информација о овим рецензијама
+shopping-unanalyzed-product-message-2 = Да сазнате јесу ли рецензије овог производа поуздане, проверите квалитет рецензија. Потребно је само око 60 секунди.
+shopping-unanalyzed-product-analyze-button = Проверите квалитет рецензија
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Више за разматрање
+shopping-sponsored-label = Спонзорисано
+ad-by-fakespot = { -fakespot-brand-name } оглас
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Помозите да побољшамо { -brand-product-name }
+shopping-survey-question-one = Колико сте задовољни досадашњим искуством прегледача рецензија за { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Веома задовољан/а
+shopping-survey-q1-radio-2-label = Задовољан/а
+shopping-survey-q1-radio-3-label = Неутралан/а
+shopping-survey-q1-radio-4-label = Незадовољан/а
+shopping-survey-q1-radio-5-label = Веома незадовољан/а
+shopping-survey-question-two = Да ли вам прегледач рецензија олакшава у одлучивању при куповини?
+shopping-survey-q2-radio-1-label = Да
+shopping-survey-q2-radio-2-label = Не
+shopping-survey-q2-radio-3-label = Не знам
+shopping-survey-next-button-label = Следеће
+shopping-survey-submit-button-label = Пошаљи
+shopping-survey-terms-link = Услови коришћења
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
