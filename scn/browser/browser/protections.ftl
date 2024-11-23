@@ -18,8 +18,8 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> trazzaturi bluccatu dû { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> trazzatura bluccati dû { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-protection-report-etp-card-content-custom-not-blocking = Tutti i prutizziuna sunnu sdisarmati accamora. Scegghi quali trazzatura bluccari nnê mpustazziuna di prutizziuni di { -brand-short-name }.
-protection-report-manage-protections = Gistisci mpustazziuna
+protection-report-etp-card-content-custom-not-blocking = Tutti i prutizzioni sunnu sdisarmati accamora. Scarta quali trazzatura bluccari nnê mpustazzioni di prutizzioni di { -brand-short-name }.
+protection-report-manage-protections = Manija mpustazzioni
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Oji

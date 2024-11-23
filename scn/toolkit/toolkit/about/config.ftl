@@ -2,26 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Stai accura
-about-config-intro-warning-text = Canciari sti mpustazziuna avanzati po cumprumèttiri i pristazziuna e a sicurizza di { -brand-short-name }.
+about-config-intro-warning-text = Canciari sti mpustazzioni avanzati po cumprumèttiri i pristazzioni e a sicurizza di { -brand-short-name }.
 about-config-intro-warning-checkbox = Abbìsami quannu provu a canciari sti prifirenzi.
 about-config-intro-warning-button = Accetta u rìsicu e cuntinua
-
-
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Canciari sti prifirenzi po cumprumèttiri i pristazziuna e a sicurizza di { -brand-short-name }.
-
 about-config-page-title = Prifirenzi avanzati
-
 about-config-search-input1 =
     .placeholder = Cerca u nomu dâ prifirenza
 about-config-show-all = Mustra tuttu
-
 about-config-pref-add-button =
     .title = Agghiunci
 about-config-pref-toggle-button =

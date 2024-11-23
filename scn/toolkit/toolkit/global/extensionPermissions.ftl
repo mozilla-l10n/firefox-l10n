@@ -8,7 +8,7 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-bookmarks = Lèggiri e canciari i nzingalibbri
-webext-perms-description-browserSettings = Lèggiri e canciari i mpustazziuna dû navigaturi
+webext-perms-description-browserSettings = Lèggiri e canciari i mpustazzioni dû navigaturi
 webext-perms-description-browsingData = Cancillari a crunuluggìa di navigazzioni ricenti, i cookie e i nfurmazzioni rilativi
 webext-perms-description-clipboardRead = Pigghiari dati dû pitazzu
 webext-perms-description-clipboardWrite = Mèttiri dati nnô pitazzu
@@ -22,8 +22,8 @@ webext-perms-description-management = Cuntrullari l'usu dî stinziuna e gistiri 
 webext-perms-description-nativeMessaging = Scanciari missaggi cu prugrammi sparti di { -brand-short-name }
 webext-perms-description-notifications = Mustràriti abbisi
 webext-perms-description-pkcs11 = Furniri sirbizza d'autinticazziuni crittugràfica
-webext-perms-description-privacy = Lèggiri e canciari i mpustazziuna di privatizza
-webext-perms-description-proxy = Cuntrullari i mpustazziuna dû proxy
+webext-perms-description-privacy = Lèggiri e canciari i mpustazzioni di privatizza
+webext-perms-description-proxy = Cuntrullari i mpustazzioni dû proxy
 webext-perms-description-sessions = Accèdiri ê schedi chiujuti di picca
 webext-perms-description-tabs = Accèdiri ê schedi dû navigaturi
 webext-perms-description-tabHide = Ammucciari e mustrari schedi

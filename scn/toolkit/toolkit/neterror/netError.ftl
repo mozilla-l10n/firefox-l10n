@@ -10,7 +10,7 @@
 
 neterror-copy-to-clipboard-button = Copia u testu nnô pitazzu
 neterror-learn-more-link = Cchiù nfurmazziuna…
-neterror-pref-reset-button = Ricùpira i mpustazziuna pridifinuti
+neterror-pref-reset-button = Ricùpira i mpustazzioni pridifinuti
 neterror-return-to-previous-page-button = Vai nn'arrè
 neterror-try-again-button = Riprova
 
@@ -19,14 +19,17 @@ neterror-try-again-button = Riprova
 
 ## Specific error messages
 
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
