@@ -168,6 +168,8 @@ webrtc-allow-share-screen-with-file = Дозволити овој локално
 webrtc-allow-share-speaker-with-file = Дозволити овој локалној датотеци да користи ваше звучнике?
 webrtc-allow-share-camera-and-microphone-with-file = Дозволити овој локалној датотеци да користи вашу камеру и микрофон?
 webrtc-allow-share-camera-and-audio-capture-with-file = Дозволити овој локалној датотеци да користи вашу камеру и слуша звук са ове картице?
+webrtc-allow-share-screen-and-microphone-with-file = Дозволити овој локалној датотеци да користи микрофон и види ваш екран?
+webrtc-allow-share-screen-and-audio-capture-with-file = Дозволити овој локалној датотеци да слуша звук са ове картице и види ваш екран?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -224,6 +226,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Запамти ову одлуку
+webrtc-remember-allow-checkbox-camera = Запамтити за све камере
+webrtc-remember-allow-checkbox-microphone = Запамтити за све микрофоне
+webrtc-remember-allow-checkbox-camera-and-microphone = Запамтити за све камере и микрофоне
 webrtc-mute-notifications-checkbox = Током дељења искључи обавештења веб-сајтова
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може трајно да приступи вашем екрану.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } мора да зна којој картици желите да дозволите трајни приступ звуку картице.
