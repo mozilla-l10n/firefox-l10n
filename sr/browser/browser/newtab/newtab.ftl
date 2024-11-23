@@ -279,6 +279,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонзорисане пречице
 newtab-custom-pocket-title = Препоруке из { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Препоручене приче
+    .description = Изузетан садржај који је бирала { -brand-product-name } породица
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-pocket-show-recent-saves = Прикажи недавно сачувано
 newtab-custom-recent-title = Недавна активност
@@ -286,12 +289,16 @@ newtab-custom-recent-subtitle = Избор недавних сајтова и с
 newtab-custom-recent-toggle =
     .label = Недавна активност
     .description = Избор недавних сајтова и садржаја
+newtab-custom-weather-toggle =
+    .label = Време
+    .description = Временска прогноза за данас
 newtab-custom-close-button = Затвори
 newtab-custom-settings = Додатна подешавања
 
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Позадине
+newtab-wallpaper-reset = Врати на подразумевано
 newtab-wallpaper-light-red-panda = Црвена панда
 newtab-wallpaper-light-mountain = Бела гора
 newtab-wallpaper-light-sky = Небо са љубичастим и розим облацима
@@ -338,6 +345,9 @@ newtab-wallpaper-abstract-blue-purple = Плави и љубичасти обл�
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Фотографије
+newtab-wallpaper-beach-at-sunrise = Плажа у изласку сунца
+newtab-wallpaper-beach-at-sunset = Плажа у заласку сунца
 
 ## New Tab Weather
 

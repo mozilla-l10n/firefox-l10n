@@ -45,11 +45,15 @@ firefoxview-tabpickup-adddevice-primarybutton = Преузмите { -brand-prod
 firefoxview-syncedtabs-adddevice-header-2 = Зграбите картице са било ког места
 firefoxview-syncedtabs-adddevice-description-2 = Пријавите се у { -brand-product-name } на вашем телефону или другом рачунару да би се приказале картице овде. Сазнајте како <a data-l10n-name="url">повезати додатне уређаје</a>.
 firefoxview-syncedtabs-adddevice-header = Пријавите се у { -brand-product-name } на вашим другим уређајима
+firefoxview-syncedtabs-adddevice-description = Да видите ваше картице где год користите { -brand-product-name }, пријавите се на свим вашим уређајима. Сазнајте како да <a data-l10n-name="url">повежете додатне уређаје</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
 firefoxview-tabpickup-synctabs-header = Укључите синхронизацију језичака
 firefoxview-tabpickup-synctabs-description = Дозволите { -brand-short-name }-у да дели језичке између уређаја.
 firefoxview-tabpickup-synctabs-learn-how = Сазнајте како
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизујте отворене језичке
+firefoxview-syncedtabs-synctabs-header = Ажурирајте подешавања синхронизације
+firefoxview-syncedtabs-synctabs-description = Да видите картице са других уређаја, ажурирајте ваше отворене картице.
+firefoxview-syncedtabs-synctabs-checkbox = Дозволи синхронизацију отворених картица
 firefoxview-syncedtabs-loading-header = Синхронизација је у току
 firefoxview-syncedtabs-loading-description = Када заврши, видећете све картице које су отворене на другим уређајима. Проверите опет ускоро.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша организација је онемогућила синхронизацију
@@ -232,6 +236,9 @@ firefoxview-choose-browser-button = Изабери прегледач
 
 firefoxview-dont-remember-history-empty-header = Ништа за показати
 firefoxview-dont-remember-history-empty-description = Срж нашег посла је заштита ваше приватности. Због тога можете да контролишете које радње ће { -brand-short-name } да памти.
+firefoxview-dont-remember-history-empty-description-two = На основу ваших тренутних подешавања, { -brand-short-name } не памти ваше радње док прегледате. Да промените то, <a data-l10n-name="history-settings-url-two">промените ваша подешавања историје тако да памте историју</a>.
+firefoxview-dont-remember-history-empty-header-2 = Ви контролишете шта ће { -brand-short-name } да памти
+firefoxview-dont-remember-history-empty-description-one = Тренутно, { -brand-short-name } не памти ваше радње прегледања. Да промените то, <a data-l10n-name="history-settings-url-two">ажурирајте подешавања историје</a>.
 
 ##
 
@@ -243,6 +250,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Увези историју из другог прегледача
+firefoxview-import-history-description = Нека { -brand-short-name } буде ваш главни прегледач. Увезите историју прегледања, обележиваче и још много тога.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
