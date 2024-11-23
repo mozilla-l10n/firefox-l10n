@@ -259,7 +259,7 @@ device-migration-fxa-spotlight-sync-primary-button = Започните
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Поставити { -brand-short-name } за подразумевани PDF читач</strong> Користите { -brand-short-name } за читање и уређивање PDF датотека.
+pdf-default-notification-message = <strong>Поставити { -brand-short-name } за подразумевани PDF читач?</strong> Користите { -brand-short-name } за читање и уређивање PDF датотека.
 pdf-default-notification-set-default-button =
     .label = Постави као подразумевано
 pdf-default-notification-decline-button =
@@ -269,10 +269,17 @@ pdf-default-notification-decline-button =
 
 launch-on-login-infobar-message = <strong>Отворити { -brand-short-name } сваки пут када поново покренете ваш рачунар?</strong> Сада можете подесити { -brand-short-name } да се аутоматски отвара када поново покрећете ваш рачунар.
 launch-on-login-learnmore = Сазнајте више
+launch-on-login-infobar-confirm-button = Да, отвори { -brand-short-name }
+    .accesskey = Д
+launch-on-login-infobar-reject-button = Не сада
+    .accesskey = Н
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Отворити { -brand-short-name } сваки пут када поново покренете ваш рачунар?</strong> Да управљате подешавањима покретања, потражите „покретање“ у подешавањима.
+launch-on-login-infobar-final-reject-button = Не, хвала
+    .accesskey = Н
 
 ## Tail Fox Set Default Spotlight
 
