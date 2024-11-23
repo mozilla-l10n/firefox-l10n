@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Изузеци
     .style = min-width: 46em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса веб-сајта:
     .accesskey = А
-
 permissions-block =
     .label = Блокирај
     .accesskey = Б
-
 permissions-disable-etp =
     .label = Додај изузетак
     .accesskey = и
-
 permissions-session =
     .label = Дозволи док траје сесија
     .accesskey = о
-
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
-
 permissions-button-off =
     .label = Искључи
     .accesskey = И
-
 permissions-button-off-temporarily =
     .label = Привремено искључи
     .accesskey = П
-
 permissions-site-name =
     .label = Веб-сајт
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Уклони
     .accesskey = У
-
 permissions-remove-all =
     .label = Уклони све
     .accesskey = с
-
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С
-
 permissions-autoplay-menu = Подразумевано за све веб-сајтове:
-
 permissions-searchbox =
     .placeholder = Претражите
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
 permissions-capabilities-autoplay-block =
     .label = Блокирај звук
 permissions-capabilities-autoplay-blockall =
     .label = Блокирај звук и видео
-
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Увек питај
-
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи док траје сесија
-
 permissions-capabilities-listitem-off =
     .value = Искључено
 permissions-capabilities-listitem-off-temporarily =
@@ -109,7 +90,8 @@ permissions-exceptions-cookie-desc = Овде можете да наведете
 permissions-exceptions-https-only-window2 =
     .title = Изузеци – режим „Само HTTPS”
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Можете искључити само HTTPS мод за одређене сајтове. { -brand-short-name } неће покушавати да пребаци на безбедну HTTPS везу за ове сајтове. Ово правило се не примењује на приватне прозоре.
+permissions-exceptions-https-only-desc = Можете искључити „Само HTTPS” режим за одређене сајтове. { -brand-short-name } неће покушавати да пребаци на безбедну HTTPS везу за ове сајтове. Ово правило се не примењује на приватне прозоре.
+permissions-exceptions-https-only-desc2 = Можете искључити „Само HTTPS” режим за одређене сајтове. { -brand-short-name } неће покушавати да пребаци на безбедну HTTPS везу за ове сајтове.
 
 ## Exceptions - Pop-ups
 
@@ -124,6 +106,13 @@ permissions-exceptions-saved-logins-window2 =
     .title = Сачуване лозинке – изузеци
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Пријаве за следеће сајтове неће бити сачуване
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Изузеци - Сачуване лозинке
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } неће сачувати лозинке за сајтове наведене овде.
 
 ## Exceptions - Add-ons
 
@@ -197,26 +186,20 @@ permissions-site-speaker-window =
     .title = Подешавања - дозволе за звучнике
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Следећи веб-сајтови су затражили дозволу да изаберу аудио излазни уређај. Можете да подесите којим веб-сајтовима је дозвољено да бирају уређај за аудио излаз.
-
 permissions-exceptions-doh-window =
     .title = Изузеци веб-сајтова за DNS преко HTTPS-а
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } неће користити безбедни DNS на овим веб-сајтовима и њиховим поддоменима.
-
 permissions-doh-entry-field = Унеси доменско име веб-сајта
     .accesskey = д
-
 permissions-doh-add-exception =
     .label = Додај
     .accesskey = Д
-
 permissions-doh-col =
     .label = Домен
-
 permissions-doh-remove =
     .label = Уклони
     .accesskey = У
-
 permissions-doh-remove-all =
     .label = Уклони све
     .accesskey = с

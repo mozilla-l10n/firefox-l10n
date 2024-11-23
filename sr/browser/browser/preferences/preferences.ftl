@@ -8,6 +8,10 @@ do-not-track-option-default-content-blocking-known =
     .label = Само када је { -brand-short-name } подешен да блокира познате елементе за праћење
 do-not-track-option-always =
     .label = Увек
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Подешавања
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -21,6 +25,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Претражите подешавања
 managed-notice = Вашим прегледачем управља ваша организација.
+managed-notice-info-icon =
+    .alt = Информације
 category-list =
     .aria-label = Категорије
 pane-general-title = Опште
@@ -53,6 +59,7 @@ pane-experimental-description2 =
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Испробајте наше експерименталне функције! Још увек су у развоју и могу утицати на то како { -brand-short-name } ради.
 pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
@@ -143,6 +150,7 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Врати претходне прозоре и картице
     .accesskey = т
+windows-launch-on-login-disabled = Ово подешавање је онемогућено у Windows-у. Да промените, посетите <a data-l10n-name="startup-link">апликације при покретању</a> у подешавањима система.
 startup-restore-warn-on-quit =
     .label = Упозори ме при изласку из прегледача
 disable-extension =
