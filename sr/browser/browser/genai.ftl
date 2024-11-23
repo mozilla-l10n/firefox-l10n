@@ -23,6 +23,10 @@ genai-settings-chat-lechat-links = Ако изаберете Le Chat Mistral, п
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Налазим се на страници „{ $tabTitle }” са изабраним „{ $selection }”.
 
 ## Chatbot menu shortcuts
 
@@ -57,6 +61,10 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Поново учитај { $provider }
+genai-options-show-shortcut =
+    .label = Прикажи пречицу кад означиш текст
+genai-options-hide-shortcut =
+    .label = Сакриј пречицу кад означиш текст
 genai-options-about-chatbot =
     .label = О AI чет-ботовима у { -brand-short-name }-у
 

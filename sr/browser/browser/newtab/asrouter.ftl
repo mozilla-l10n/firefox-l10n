@@ -252,6 +252,7 @@ device-migration-fxa-spotlight-older-device-header = Опуштено уз { -br
 device-migration-fxa-spotlight-older-device-body = Налог вам омогућава да ажурирате и заштитите важне податке на било ком повезаном уређају.
 device-migration-fxa-spotlight-older-device-primary-button = Направи налог
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате да набавите нови уређај?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Пратите неколико једноставних корака да пренесете обележиваче, историју и лозинке са собом када пређете на нови уређај.
 
 ## Set as Default PDF Reader Infobar
 
