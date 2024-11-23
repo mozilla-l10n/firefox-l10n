@@ -347,6 +347,7 @@ onboarding-device-migration-primary-button-label = Пријави се
 ## Add-ons Picker screen
 
 amo-picker-title = Прилагоди { -brand-short-name }
+amo-picker-subtitle = Додаци су као апликације за ваш прегледач и омогућавају заштиту лозинки, преузимање видеа, тражење понуда, блокирање досадних огласа, промену изгледа прегледача и још много тога.
 amo-picker-install-button-label = Додај у { -brand-short-name }
 amo-picker-install-complete-label = Инсталирано
 amo-picker-collection-link = Истражи више додатака
@@ -358,6 +359,15 @@ onboarding-easy-setup-security-and-privacy-title = Бринемо о вашој 
 onboarding-easy-setup-security-and-privacy-subtitle = Наш непрофитни прегледач помаже у спречавању компанија да вас тајно прате на мрежи.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Останите заштићени шифровањем када мењате уређаје
+onboarding-mobile-download-security-and-privacy-subtitle = Када сте синхронизовани, { -brand-short-name } шифрује ваше лозинке, обележиваче и остало. Уз то, можете зграбити картице са других уређаја.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = Можете рачунати на { -brand-short-name }
+onboarding-gratitude-security-and-privacy-subtitle = Хвала што користите { -brand-short-name }, којег подржава Mozilla фондација. Уз вашу подршку, радимо на томе да интернет буде безбеднији и приступачнији за све.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Синхронизујте податке између уређаја
+onboarding-sign-up-description = Региструјте се и сви ваши важни подаци — лозинке, обележивачи и остало — биће безбедно ускладиштени и доступни када се пријавите на било ком уређају.
+onboarding-sign-up-button = Региструјте се или се пријавите
+onboarding-sign-up-secondary-button = Започните прегледање
 
 ## New user time and familiarity survey strings
 
