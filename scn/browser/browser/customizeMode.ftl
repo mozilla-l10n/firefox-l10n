@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Riprìstina i mpustazziuna pridifinuti
+    .label = Riprìstina i mpustazzioni pridifinuti
 customize-mode-menu-and-toolbars-header = Trascina i to cosi favuriti dintra â barra dî strumenti o dintra ô minù a tinnuzza.
 customize-mode-overflow-list-title = Minù a tinnuzza
 customize-mode-uidensity =

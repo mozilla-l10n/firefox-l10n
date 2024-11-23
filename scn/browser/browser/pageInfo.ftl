@@ -146,7 +146,7 @@ media-select-folder = Scegghi na carpetta unni sarbari i mmàggini
 media-unknown-not-cached =
     .value = Scanusciutu (nun dipusitatu)
 permissions-use-default =
-    .label = Usa mpustazziuna pridifinuti
+    .label = Usa mpustazzioni pridifinuti
 security-no-visits = No
 # This string is used to display the number of meta tags
 # in the General Tab

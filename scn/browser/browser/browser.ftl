@@ -116,7 +116,7 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Cancia i mpustazziuna di ricerca
+    .tooltiptext = Cancia i mpustazzioni di ricerca
 search-one-offs-context-open-new-tab =
     .label = Cerca nta na scheda nova
     .accesskey = n
