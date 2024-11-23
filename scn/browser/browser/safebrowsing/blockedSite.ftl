@@ -24,7 +24,7 @@ safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='siten
 
 ##
 
-safeb-blocked-phishing-page-learn-more = Vidi <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> p'aviri chiù nfurmazziuna supra i siti fallaci e i truffi 'n riti. Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazziuna supra i prutizziuna di { -brand-short-name }.
+safeb-blocked-phishing-page-learn-more = Vidi <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> p'aviri chiù nfurmazzioni supra i siti fallaci e i truffi 'n riti. Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazzioni supra i prutizzioni di { -brand-short-name }.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -41,7 +41,7 @@ safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='siten
 
 ##
 
-safeb-blocked-unwanted-page-learn-more = Leggi cchiù nfurmazziuna supra i prugrammi nun vuluti e piriculusi nnâ <a data-l10n-name='learn_more_link'>nfurmativa supra i prugrammi nun vuluti</a>. Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazziuna supra i prutizziuna di { -brand-short-name }.
+safeb-blocked-unwanted-page-learn-more = Leggi cchiù nfurmazzioni supra i prugrammi nun vuluti e piriculusi nnâ <a data-l10n-name='learn_more_link'>nfurmativa supra i prugrammi nun vuluti</a>. Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazzioni supra i prutizzioni di { -brand-short-name }.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -51,7 +51,7 @@ safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitena
 
 ##
 
-safeb-blocked-harmful-page-learn-more = Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazziuna supra i prutizziuna di { -brand-short-name }.
+safeb-blocked-harmful-page-learn-more = Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazzioni supra i prutizzioni di { -brand-short-name }.
 safeb-palm-notdeceptive =
     .label = Chistu nun è un situ fallaci…
     .accesskey = n

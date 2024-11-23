@@ -5,18 +5,15 @@
 app-manager-window2 =
     .title = Dittagghi appricazziuni
     .style = min-width: 30em; min-height: 20em;
-
 app-manager-remove =
     .label = Leva
     .accesskey = L
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = L'appricazziuna appressu si ponnu usari pi manijari lijami { $type }.
-
+app-manager-handle-protocol = L'applicazzioni appressu si ponnu usari pi manijari lijami { $type }.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = L'appricazziuna appressu si ponnu usari pi manijari cuntinuti di tipu { $type }.
+app-manager-handle-file = L'applicazzioni appressu si ponnu usari pi manijari cuntinuti di tipu { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.

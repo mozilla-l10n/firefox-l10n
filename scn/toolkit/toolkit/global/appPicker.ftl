@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-picker-no-app-found =
-    .value = Nun foru attruvati appricazziuna pi stu tipu di pricu.
+    .value = Nun foru attruvati applicazzioni pi stu tipu di pricu.

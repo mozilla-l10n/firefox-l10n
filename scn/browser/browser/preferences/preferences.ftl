@@ -104,7 +104,7 @@ warn-on-open-many-tabs =
     .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
 show-tabs-in-taskbar =
-    .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna di Windows
+    .label = Mustra antiprima dâ scheda nnâ barra di l'applicazzioni di Windows
     .accesskey = W
 browser-containers-enabled =
     .label = Abbìlita schedi cuntinituri
@@ -180,7 +180,7 @@ translate-web-pages =
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = Traduzziuna di <img data-l10n-name="logo"/>
+translate-attribution = Traduzzioni di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eccizziuna…
     .accesskey = z
@@ -190,7 +190,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Prichi e appricazziuna
+files-and-applications-title = Prichi e applicazzioni
 download-header = Scarricamenti
 download-save-where = Sarba prichi nne
     .accesskey = b
@@ -208,10 +208,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Addumanna sempri unni sarbari i prichi
     .accesskey = A
-applications-header = Appricazziuna
-applications-description = Scegghi comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'appricazziuna ca usi mentri nàvighi.
+applications-header = Applicazzioni
+applications-description = Scarta comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'applicazzioni ca usi mentri nàvighi.
 applications-filter =
-    .placeholder = Cerca tipi di prichi o appricazziuna
+    .placeholder = Cerca tipi di prichi o applicazzioni
 applications-type-column =
     .label = Tipu di cuntinutu
     .accesskey = T
@@ -275,8 +275,8 @@ play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazzioni
-update-application-title = Attualizzazziuna di { -brand-short-name }
-update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
+update-application-title = Attualizzazzioni di { -brand-short-name }
+update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazzioni, stabbilità e sicurizza.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
@@ -285,17 +285,17 @@ update-history =
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
-    .label = Nzitari autumaticamenti l'attualizzazziuna (cunzigghiatu)
+    .label = Nzitari 'n autumàticu l'attualizzazzioni (cunzigghiatu)
     .accesskey = N
 update-application-check-choose =
-    .label = Cuntrullari si cci su' attualizzazziuna (ma addumànnami si nzitalli)
+    .label = Cuntrullari si cci su' attualizzazzioni (ma addumànnami si i vogghiu nzitari)
     .accesskey = C
 update-application-manual =
-    .label = Nun cuntrullari mai si cci su' attualizzazziuna (nun cunzigghiatu)
+    .label = Nun cuntrullari mai si cci su' attualizzazzioni (nun cunzigghiatu)
     .accesskey = N
 update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
 update-application-use-service =
-    .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazziuna
+    .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazzioni
     .accesskey = b
 update-in-progress-title = Staju attualizzannu
 update-in-progress-message = Vo' chi { -brand-short-name } cuntinuassi cu l'attualizzazziuni?
@@ -317,7 +317,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Lìmiti di prucessi pû cuntinutu
     .accesskey = l
-performance-limit-content-process-enabled-desc = Un nùmmaru cchiù autu di prucessi pû cuntinutu po migghiurari i pristazziuna quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
+performance-limit-content-process-enabled-desc = Un nùmmaru cchiù autu di prucessi pû cuntinutu po migghiurari i pristazzioni quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
 performance-limit-content-process-blocked-desc = Canciari u nùmmaru di prucessi pû cuntinutu è pussìbbili sulu câ mudalità murtiprucessu di { -brand-short-name }. <a data-l10n-name="learn-more">Nzìgnati comu cuntrullari si a mudalità murtiprucessu è abbilitata</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
@@ -645,7 +645,7 @@ forms-ask-to-save-logins =
 ## Privacy Section - Passwords
 
 forms-exceptions =
-    .label = Eccizziuna…
+    .label = Eccizzioni…
     .accesskey = z
 forms-generate-passwords =
     .label = Suggirisci e gènira chiavi forti
@@ -842,7 +842,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Gistisci eccizziuna…
+    .label = Manija eccizzioni…
     .accesskey = z
 
 ## Privacy Section - Permissions
@@ -883,7 +883,7 @@ permissions-addon-install-warning =
     .label = Abbisa quannu un situ cerca di nzitari n'agghiuncitina
     .accesskey = A
 permissions-addon-exceptions =
-    .label = Eccizziuna…
+    .label = Eccizzioni…
     .accesskey = E
 
 ## Privacy Section - Data Collection
@@ -891,7 +891,7 @@ permissions-addon-exceptions =
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
 collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e ammigghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazzioni pirsunali.
 collection-privacy-notice = Abbisu di privatizza
-collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazziuna. Tutti i dati vecchi sarannu cancillati nna 30 jorna.
+collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu cancillati nna 30 jorna.
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazzioni
 collection-health-report =
     .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }

@@ -37,9 +37,9 @@ cryptominer-tab-title = Minatura di crittumunita
 cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
-monitor-title = Stai accura ê viulazziuna dî dati
+monitor-title = Stai accura ê viulazzioni dî dati
 monitor-link = Comu funziona
-monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazziuni dî dati, e nfòrmati supra ê novi viulazziuna.
+monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazzioni dî dati, e nfòrmati supra ê novi viulazzioni.
 monitor-header-content-signed-in = { -monitor-brand-name } t'abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
 auto-scan = Cuntrullatu autumaticamenti oji
 # This string is displayed after a large numeral that indicates the total number
@@ -63,8 +63,8 @@ info-known-breaches-found =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] Chiavi cumprumisa di tutti i viulazziuna
-       *[other] Chiavi cumprumisi di tutti i viulazziuna
+        [one] Chiavi cumprumisa ntra tutti i viulazzioni
+       *[other] Chiavi cumprumisi ntra tutti i viulazzioni
     }
 
 ## The title attribute is used to display the type of protection.

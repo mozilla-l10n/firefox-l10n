@@ -3,38 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Ricàrrica scheda silizziunata
+    .label = Ricàrrica scheda scartata
     .accesskey = R
 toolbar-context-menu-reload-selected-tabs =
-    .label = Ricàrrica schedi silizziunati
+    .label = Ricàrrica schedi scartati
     .accesskey = R
 toolbar-context-menu-bookmark-selected-tab =
-    .label = Agghiunci scheda silizziunata ê nzingalibbri…
+    .label = Agghiunci scheda scartata ê nzingalibbri…
     .accesskey = n
 toolbar-context-menu-bookmark-selected-tabs =
-    .label = Agghiunci schedi silizziunati ê nzingalibbri…
+    .label = Agghiunci schedi scartati ê nzingalibbri…
     .accesskey = n
 toolbar-context-menu-select-all-tabs =
     .label = Scegghi tutti i schedi
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Gistisci stinziuni
     .accesskey = s
 toolbar-context-menu-remove-extension =
     .label = Leva stinziuni
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Signala stinziuni
     .accesskey = S
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Appuntiḍḍa nnô minù a tinnuzza
     .accesskey = A
@@ -44,7 +41,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Pirsunalizza…
     .accesskey = P
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Sbarra dî minù
     .accesskey = m

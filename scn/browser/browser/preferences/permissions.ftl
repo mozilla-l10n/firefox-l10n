@@ -58,13 +58,13 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
+    .title = Eccizzioni pâ prutizzioni avanzata dû trazzamentu
     .style = { permissions-window2.style }
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Ccizziuna - Cookie e dati dû situ
+    .title = Eccizzioni - Cookie e dati dû situ
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari cookie e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca, Pirmetti sissiuni o Pirmetti.
 
@@ -81,7 +81,7 @@ permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri fin
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Ccizziuna - Accessi sarbati
+    .title = Eccizzioni - Accessi sarbati
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun vennu sarbati
 

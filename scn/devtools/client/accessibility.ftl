@@ -5,14 +5,13 @@
 
 ### These strings are used inside the Accessibility panel.
 
-accessibility-learn-more = Cchiù nfurmazziuna
-
-## Text entries that are used as text alternative for icons that depict accessibility isses.
-
+accessibility-learn-more = Cchiù nfurmazzioni
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
+
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue

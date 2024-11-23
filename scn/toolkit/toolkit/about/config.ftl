@@ -13,7 +13,7 @@ about-config-intro-warning-button = Accetta u rìsicu e cuntinua
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Canciari sti prifirenzi po cumprumèttiri i pristazziuna e a sicurizza di { -brand-short-name }.
+about-config-caution-text = Canciari sti prifirenzi po cumprumèttiri i pristazzioni e a sicurizza di { -brand-short-name }.
 about-config-page-title = Prifirenzi avanzati
 about-config-search-input1 =
     .placeholder = Cerca u nomu dâ prifirenza
