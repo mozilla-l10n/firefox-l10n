@@ -137,6 +137,7 @@ windows-launch-on-login =
     .label = Opne { -brand-short-name } automatisk når datamaskina di startar opp
     .accesskey = O
 windows-launch-on-login-disabled = Denne innstillinga er deaktivert i Windows. For å endre, gå til <a data-l10n-name="startup-link">Oppstartsapper</a> i Systeminnstillingar.
+windows-launch-on-login-profile-disabled = Aktiver denne innstillinga ved å merke av for «{ profile-manager-use-selected.label }» i «Vel brukarprofil»-vindauget.
 startup-restore-warn-on-quit =
     .label = Åtvar meg når eg avsluttar nettlesaren
 disable-extension =
@@ -641,6 +642,10 @@ search-show-suggestions-url-bar-option =
     .label = Vis søkjeforslag i adresselinja
     .accesskey = l
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Vis søkjeord i adressefeltet på resultatsidene
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
@@ -838,6 +843,13 @@ sync-engine-settings =
     .label = Innstillingar
     .tooltiptext = Generelle, personvern- og sikkerheitsinnstillingar du har endra
     .accesskey = n
+sync-choose-what-to-sync-dialog4 =
+    .title = Handsam kva som skal synkroniserast på dei tilkopla einingane dine
+    .style = min-width: 36em;
+    .buttonlabelaccept = Lagre
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra2 = Kople frå…
+    .buttonaccesskeyextra2 = f
 
 ## The device name controls.
 
