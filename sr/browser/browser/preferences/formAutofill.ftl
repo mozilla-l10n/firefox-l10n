@@ -40,6 +40,7 @@ autofill-address-additional-name = Средње име
 autofill-address-family-name = Презиме
 autofill-address-name = Име
 autofill-address-organization = Организација
+autofill-address-street-address = Адреса
 autofill-address-street = Адреса
 
 ## address-level-3 (Sublocality) names
@@ -117,6 +118,8 @@ autofill-edit-card-password-prompt =
 autofill-message-tooltip = Погледајте поруку о аутоматском попуњавању
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Додај картицу
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Уреди картицу
 autofill-card-number = Број картице
 autofill-card-invalid-number = Унесите исправан број картице
 autofill-card-name-on-card = Име на картици
