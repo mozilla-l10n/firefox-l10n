@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Додаје чет-бота по вашем избору на бочну траку за брзи приступ док прегледате. <a data-l10n-name="connect">Пошаљи повратне податке</a>
+genai-settings-chat-description = Додаје чет-бота по вашем избору у бочни панел за брзи приступ док прегледате. <a data-l10n-name="connect">Пошаљи повратне податке</a>
 genai-settings-chat-choose = Изабери чет-бота
 genai-settings-chat-choose-one-menuitem =
     .label = Изабери једног
@@ -72,7 +72,7 @@ genai-options-about-chatbot =
 
 genai-onboarding-header = Сажимајте, разрађујте идеје и још много тога док прегледате
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Изаберите AI чет-бота за коришћење у { -brand-short-name } бочној траци. Показаћемо вам детаље о сваком од њих када их изаберете. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
+genai-onboarding-description = Изаберите AI чет-бота за коришћење у { -brand-short-name } бочном панелу. Показаћемо вам детаље о сваком од њих када их изаберете. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
 genai-onboarding-primary = Настави
 genai-onboarding-secondary = Затвори
 genai-onboarding-claude-tooltip =

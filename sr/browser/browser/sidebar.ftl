@@ -22,13 +22,13 @@ sidebar-horizontal-tabs =
 sidebar-customize-tabs-header =
     .label = Подешавања картица
 sidebar-customize-button-header =
-    .label = Тастер за бочну траку
+    .label = Тастер за бочни панел
 sidebar-customize-position-header =
-    .label = Положај бочне траке
+    .label = Положај бочног панела
 sidebar-visibility-setting-always-show =
-    .label = Рашири и скупи бочну траку
+    .label = Рашири и скупи бочни панел
 sidebar-visibility-setting-hide-sidebar =
-    .label = Прикажи и сакриј бочну траку
+    .label = Прикажи и сакриј бочни панел
 
 ## Labels for sidebar context menu items
 
@@ -67,16 +67,47 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Обележивачи
 sidebar-menu-customize-label =
-    .label = Прилагоди бочну траку
+    .label = Прилагоди бочни панел
+sidebar-menu-review-checker-label =
+    .label = Прегледач рецензија
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Отвори историју ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Затвори историју ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Отвори обележиваче ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Затвори облеживаче ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Отвори AI чет-бот
+sidebar-menu-close-ai-chatbot-tooltip = Затвори AI чет-бот
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Прилагоди бочни панел
+sidebar-menu-history-header =
+    .heading = Историја
+sidebar-menu-syncedtabs-header =
+    .heading = Картице са других уређаја
+sidebar-panel-header-close-button =
+    .tooltiptext = Затвори
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Прилагоди бочни панел
+sidebar-history-title = Историја
+sidebar-syncedtabs-title = Картице са других уређаја
 
 ## Context for closing synced tabs when hovering over the items
 
