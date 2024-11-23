@@ -111,6 +111,24 @@ sidebar-syncedtabs-title = Картице са других уређаја
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Затвори картицу на { $deviceName }
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Прошири бочни панел
+    .label = Бочни панели
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Скупи бочни панел
+    .label = Бочни панели
+sidebar-widget-show-sidebar =
+    .tooltiptext = Прикажи бочни панел
+    .label = Бочни панели
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Сакриј бочни панел
+    .label = Бочни панели
