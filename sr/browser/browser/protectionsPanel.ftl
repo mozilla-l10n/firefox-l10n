@@ -23,17 +23,25 @@ protections-panel-etp-more-info =
     .aria-label = Више података о побољшаној заштити од праћења
 protections-panel-etp-on-header = Побољшана заштита од праћења на овом сајту је укључена
 protections-panel-etp-off-header = Побољшана заштита од праћења је ИСКЉУЧЕНА на овој страници
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Страница не ради?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Страница не ради?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Страница не ради?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Страница не ради?
+protections-panel-etp-toggle-on =
+    .label = Побољшана заштита од праћења
+    .description = Укључена за овај сајт
+    .aria-label = Побољшана заштита од праћења: укључена за { $host }
+protections-panel-etp-toggle-off =
+    .label = Побољшана заштита од праћења
+    .description = Искључена за овај сајт
+    .aria-label = Побољшана заштита од праћења: искључена за { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -106,7 +114,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Пријавите неисправан сајт
 protections-panel-content-blocking-breakage-report-view-description = Блокирање неких елемената за праћење може проузроковати проблеме са појединим веб-сајтовима. Пријавите овакве проблеме како бисте побољшали { -brand-short-name } (организацији Mozilla ће се послати URL сајта и подаци о подешавањима прегледача). <label data-l10n-name="learn-more">Сазнајте више</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Блокирање неких елемената за праћење може проузроковати проблеме са појединим веб-сајтовима. Пријавите овакве проблеме како бисте побољшали { -brand-short-name } (организацији { -vendor-short-name } ће се послати URL сајта и подаци о подешавањима прегледача).
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -121,6 +128,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Смањење банера колачића
+protections-panel-cookie-banner-blocker-header = Блокатор банера колачића
 protections-panel-cookie-banner-handling-enabled = Укључено за овај сајт
 protections-panel-cookie-banner-handling-disabled = Искључено за овај сајт
 protections-panel-cookie-banner-handling-undetected = Сајт тренутно није подржан
@@ -130,17 +138,27 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Искључити смањење банера колачића за { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Укључити смањење банера колачића за овај сајт?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Блокатор банера колачића
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Искључити блокатор банера колачића за { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Укључити блокатор банера колачића за овај сајт?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ће обрисати колачиће и освежити страницу. Брисање колачића може да вас одјави са сајта или да испразни вашу корпу за куповину.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } покушава аутоматски да одбије све захтеве за колачиће на подржаним сајтовима.
 protections-panel-cookie-banner-view-cancel = Откажи
 protections-panel-cookie-banner-view-turn-off = Искључи
 protections-panel-cookie-banner-view-turn-on = Укључи
+protections-panel-cookie-banner-blocker-view-turn-on-description = Укључите и { -brand-short-name } ће аутоматски одбијати банере колачића за овај сајт.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Откажи
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Искључи
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Укључи
+protections-panel-report-broken-site =
+    .label = Пријавите неисправан сајт
+    .title = Пријавите неисправан сајт
 
 ## Protections panel info message
 
