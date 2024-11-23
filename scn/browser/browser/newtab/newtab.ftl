@@ -164,7 +164,7 @@ newtab-empty-section-highlights = Accumincia a navigari, e cca ti mustraremu l'a
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Nun cci sunnu autri cosi. Torna cchiù tardu p'aviri autri nutizzi di { $provider }. Nun po' aspittari? Scegghi n'argumentu pupulari p'attruvari autri nutizzi ntirissanti dâ riti.
+newtab-empty-section-topstories = Nun cci sunnu autri cosi. Torna cchiù tardu p'aviri autri nutizzi di { $provider }. Nun po' aspittari? Scarta n'argumentu pupulari p'attruvari autri nutizzi ntirissanti dâ riti.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

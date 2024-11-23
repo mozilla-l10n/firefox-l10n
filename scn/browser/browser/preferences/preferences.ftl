@@ -165,11 +165,11 @@ preferences-zoom-text-only =
     .label = Sulu u testu cchiù granni
     .accesskey = t
 language-header = Lingua
-choose-language-description = Scegghi a to lingua prifiruta pi mustrari pàggini
+choose-language-description = Scarta a to lingua prifiruta pi mustrari i pàggini
 choose-button =
-    .label = Scegghi…
+    .label = Scarta…
     .accesskey = S
-choose-browser-language-description = Scegghi i lingui di usari pi mustrari minù, missaggi e nutìfichi di { -brand-short-name }.
+choose-browser-language-description = Scarta i lingui di usari pi mustrari i minù, i missaggi e i nutìfichi di { -brand-short-name }.
 manage-browser-languages-button =
     .label = Mposta artirnativi…
     .accesskey = a
@@ -197,7 +197,7 @@ download-save-where = Sarba prichi nne
 download-choose-folder =
     .label =
         { PLATFORM() ->
-            [macos] Scegghi…
+            [macos] Scarta…
            *[other] Nàviga…
         }
     .accesskey =
@@ -233,7 +233,7 @@ applications-use-app-default =
     .label = Usa { $app-name } (pridifinutu)
 applications-use-other =
     .label = Usa n'autra app…
-applications-select-helper = Scegghi appricazziuni sterna
+applications-select-helper = Scarta n'applicazzioni d'assistenza
 applications-manage-app =
     .label = Minutagghi appricazziuni…
 applications-always-ask =
@@ -366,7 +366,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi finestri e schedi
-home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu rapi a pàggina mastra, novi finestri o novi schedi.
+home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu rapi a pàggina mastra, novi finestri o novi schedi.
 
 ## Home Section - Home Page Customization
 
@@ -445,7 +445,7 @@ search-bar-shown =
     .label = Agghiunci sbarra di ricerca nnâ sbarra dî strumenti
 search-engine-default-header = Muturi di ricerca pridifinutu
 search-engine-default-desc-2 = Chistu è u to muturi di ricerca pridifinutu pâ barra dû nnirizzu e chiḍḍa di ricerca. Po' canciallu quannu voi.
-search-engine-default-private-desc-2 = Scegghi n'autru muturi di ricerca sulu pî finestri privati.
+search-engine-default-private-desc-2 = Scarta n'autru muturi di ricerca sulu pî finestri privati.
 search-separate-default-engine =
     .label = Usa stu muturi di ricerca nnê finestri privati
     .accesskey = U
@@ -467,7 +467,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mustra suggirimenti di ricerca nnê finestri privati
 search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
-search-one-click-desc = Scegghi i mutura di ricerca artirnativi ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
+search-one-click-desc = Scarta l'autri mutura di ricerca ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
     .label = Muturi di ricerca
 search-choose-keyword-column =

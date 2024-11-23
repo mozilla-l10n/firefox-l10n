@@ -46,8 +46,8 @@ safeb-blocked-unwanted-page-learn-more = Leggi cchiù nfurmazzioni supra i prugr
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'appricazziuni putinziarmenti piriculusa</a>. Po' <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
-safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'appricazziuni putinziarmenti piriculusa</a>.
+safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>. Poi scartari di <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari u stissu stu situ nun sicuru.
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>.
 
 ##
 
