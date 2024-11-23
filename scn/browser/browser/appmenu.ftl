@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Trasi pi sincrunizzari…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -43,6 +45,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi toi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
 appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }
+appmenu-fxa-signed-in-label = Trasi
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -97,6 +100,7 @@ appmenu-help-not-deceptive =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Trasi nnô to cuntu
 
 ## Profiles panel
 

@@ -18,6 +18,7 @@ pocket-panel-signup-learn-more = Cchiù nfurmazzioni
 
 ## Pocket panel header component
 
+pocket-panel-header-sign-in = Trasi
 
 ## Pocket panel buttons
 

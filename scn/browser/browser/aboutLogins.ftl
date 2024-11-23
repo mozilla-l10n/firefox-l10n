@@ -8,7 +8,7 @@ about-logins-login-filter =
     .placeholder = Cerca nnê cridinziali
     .key = F
 create-new-login-button =
-    .title = Crea novi cridinziali
+    .title = Cria novi cridinziali
 about-logins-page-title-name = Chiavi
 about-logins-login-filter2 =
     .placeholder = Cerca nnê Chiavi
@@ -106,10 +106,10 @@ about-logins-list-section-week = Ùrtimi 7 jorna
 about-logins-login-intro-heading-logged-out2 = Stai circannu i to cridinziali sarbati? Abbìa a sincrunizzazzioni o mpòrtali.
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
-login-intro-instructions-fxa = Crea o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sarbasti i cridinziali.
+login-intro-instructions-fxa = Cria o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sarbasti i cridinziali.
 about-logins-login-intro-heading-message = Sarba i to chiavi nnôn locu sicuru
 login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t'abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
-login-intro-instructions-fxa2 = Crea o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
+login-intro-instructions-fxa2 = Cria o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
 login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
 login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p'aviri ajutu.
 about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
@@ -118,7 +118,7 @@ about-logins-intro-import3 = Ammacca u sìmmulu cchiù p'agghiùnciri na chiavi.
 
 ## Login
 
-login-item-new-login-title = Crea nova cridinziali
+login-item-new-login-title = Cria nova cridinziali
 # Header for adding a password
 about-logins-login-item-new-login-title = Agghiunci chiavi
 login-item-edit-button = Cancia
