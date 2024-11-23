@@ -52,8 +52,8 @@ permissions-capabilities-listitem-allow-session =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Nomu òspiti nun vàlidu
-permissions-invalid-uri-label = Metti nomu òspiti vàlidu
+permissions-invalid-uri-title = Nomu dû sirburi nun vàlitu
+permissions-invalid-uri-label = Metti un nomu vàlitu pû sirburi
 
 ## Exceptions - Tracking Protection
 

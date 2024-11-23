@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = A
 welcome-back-restore-all-label = Ricùpira tutti i finestri e i schedi
 welcome-back-restore-some-label = Ricùpira sulu chiḍḍi ca vo' tu
-welcome-back-page-info-link = I to agghiuncitini e pirsunalizzazzioni foru livati e i to prifirenzi foru misi pi comu èranu l'urigginali. Si macari chistu nun cci abbastò p'arrisòrbiri u to prubblema, <a data-l10n-name="link-more">po' lèggiri cchiù assai supra a chiḍḍu ca po' fari.</a>
+welcome-back-page-info-link = I to agghiuncitini e pirsunalizzazzioni foru livati e i to prifirenzi foru misi pi comu èranu l'urigginali. Si macari chistu nun cci abbastau p'arrisòrbiri u to prubblema, <a data-l10n-name="link-more">po' lèggiri cchiù assai supra a chiḍḍu ca po' fari.</a>

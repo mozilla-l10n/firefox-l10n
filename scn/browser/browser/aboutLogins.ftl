@@ -72,7 +72,7 @@ login-list-filtered-count2 =
         [one] { $count } di { $total } chiavi
        *[other] { $count } di { $total } chiavi
     }
-login-list-sort-label-text = Òrdina pi:
+login-list-sort-label-text = Ùrdina pi:
 login-list-name-option = Nomu (A-Z)
 login-list-name-reverse-option = Nomu (Z-A)
 login-list-username-option = Nomu utenti (A-Z)
@@ -245,6 +245,56 @@ about-logins-confirm-remove-all-dialog-title =
     { NUMBER($count) ->
         [one] Livari { $count } cridinziali?
        *[other] Livari { $count } cridinziali?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { NUMBER($count) ->
+        [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu cancella i cridinziali sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { NUMBER($count) ->
+        [one] Voi cancillari { $count } cridinziali di tutti i dispusitivi?
+       *[other] Voi cancillari tutti i { $count } cridinziali di tutti i dispusitivi?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { NUMBER($count) ->
+        [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu cancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { NUMBER($count) ->
+        [1] Se, cancella a chiavi
+        [one] Se, cancella a chiavi
+       *[other] Se, cancella i chiavi
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Voi cancillari { $count } chiavi?
+       *[other] Voi cancillari tutti i { $count } chiavi?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { NUMBER($count) ->
+        [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+        [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+       *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { NUMBER($count) ->
+        [one] Voi cancillari { $count } chiavi di tutti i dispusitivi?
+       *[other] Voi cancillari tutti i { $count } chiavi di tutti i dispusitivi?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { NUMBER($count) ->
+        [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 
 ##
