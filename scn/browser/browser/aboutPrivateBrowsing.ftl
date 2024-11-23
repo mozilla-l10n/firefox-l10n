@@ -6,17 +6,36 @@ privatebrowsingpage-open-private-window-label = Rapi na finestra privata
     .accesskey = p
 about-private-browsing-search-placeholder = Cerca nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata
+about-private-browsing-search-btn =
+    .title = Cerca nnâ riti
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
     .title = Cerca cu { $engine } o metti nu nnirizzu
+about-private-browsing-handoff-no-engine =
+    .title = Cerca o metti nu nnirizzu
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = Cerca cu { $engine } o metti nu nnirizzu
+about-private-browsing-handoff-text-no-engine = Cerca o metti nu nnirizzu
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
+about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di ricerca e di navigazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
+about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di ricerca e di navigazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
+about-private-browsing-learn-more-link = Cchiù nfurmazzioni
+about-private-browsing-hide-activity = Ammuccia a to attività e unni ti trovi, unni vai-vai.
+about-private-browsing-get-privacy = Pigghia prutizzioni di sicurizza unni vai-vai
+about-private-browsing-hide-activity-1 = Ammuccia a to attività e unni ti trovi cu { -mozilla-vpn-brand-name }. Cria fàcili na cunnissioni sicura, macari nta na riti Wi-Fi pùbblica.
+about-private-browsing-prominent-cta = Arresta ô sicuru cu { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Scàrrica { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazzioni privata unni sì-sì
+about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navigazzioni mòbbili pulizzìa a to crunuluggìa e i to cookie ogni vota chi l'usi.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Usa a navigazzioni privata macari nnô tilèfunu
+about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pi ḍḍi ricerchi privati senza chi affàccianu nnô to navigaturi principali.
+about-private-browsing-focus-promo-header-c = Privatizza supiriuri nnô tilèfunu
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } pulizzìa a to crunuluggìa ogni vota chi l'usi e blocca i pubblicità e i trazzatura.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -24,17 +43,30 @@ about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
 about-private-browsing-search-banner-title = { $engineName } è u to muturi di ricerca pridifinutu nnê finestri privati
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Pi scègghiri n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Scigghiuti</a>
-       *[other] Pi scègghiri n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
+        [windows] Pi scartari n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
+       *[other] Pi scartari n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Chiuji
+about-private-browsing-promo-close-button =
+    .title = Chiuji
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = A libbirtà dâ navigazzioni privata, 'n manera lesta
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Teni nnâ barra
+       *[other] Teni nnâ barra
+    }
+about-private-browsing-pin-promo-title = Nuḍḍu cookie, nuḍḍa crunuluggìa, direttu dû to computer. Nàviga comu si nuḍḍu ti taliassi.
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Accabbaru l'abbisi pî cookie!
+about-private-browsing-cookie-banners-promo-button = Cchiù picca abbisi pî cookie
 
 ## Strings for Felt Privacy v1 experiments in 119
 
