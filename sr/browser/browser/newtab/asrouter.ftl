@@ -254,12 +254,20 @@ device-migration-fxa-spotlight-older-device-primary-button = Направи на
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате да набавите нови уређај?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Пратите неколико једноставних корака да пренесете обележиваче, историју и лозинке са собом када пређете на нови уређај.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Како да направим резервну копију
+device-migration-fxa-spotlight-sync-primary-button = Започните
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Поставити { -brand-short-name } за подразумевани PDF читач</strong> Користите { -brand-short-name } за читање и уређивање PDF датотека.
+pdf-default-notification-set-default-button =
+    .label = Постави као подразумевано
+pdf-default-notification-decline-button =
+    .label = Не сада
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Отворити { -brand-short-name } сваки пут када поново покренете ваш рачунар?</strong> Сада можете подесити { -brand-short-name } да се аутоматски отвара када поново покрећете ваш рачунар.
 launch-on-login-learnmore = Сазнајте више
 
 ## These string variants are used when the “launch on login” infobar
