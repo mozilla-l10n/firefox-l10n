@@ -59,6 +59,9 @@ mr1-onboarding-theme-subtitle =
        *[other] програм { -brand-short-name }
     } помоћу теме.
 mr1-onboarding-theme-secondary-button-label = Не сада
+newtab-wallpaper-onboarding-title = Пробајте нове боје
+newtab-wallpaper-onboarding-subtitle = Одаберите позадину за свеж изглед ваше нове картице.
+newtab-wallpaper-onboarding-primary-button-label = Постави позадину
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системска тема
 mr1-onboarding-theme-label-light = Светла
@@ -192,6 +195,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Остави { -brand-short-name } у доку
        *[other] Закачи { -brand-short-name } на траку задатака
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Закачи { -brand-short-name } на траку задатака и почетни мени
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -336,13 +341,23 @@ onboarding-device-migration-image-alt =
     .aria-label = Лисица маше на екрану лаптопа. Миш је повезан са лаптопом.
 onboarding-device-migration-title = Добродошли назад!
 onboarding-device-migration-subtitle = Пријавите се у ваш { -fxaccount-brand-name(capitalization: "sentence") } да бисте пренели ваше обележиваче, лозинке и историју на нови уређај.
+onboarding-device-migration-subtitle2 = Пријавите се у ваш налог да са собом понесете обележиваче, лозинке и историју на ваш нови уређај.
 onboarding-device-migration-primary-button-label = Пријави се
 
 ## Add-ons Picker screen
 
+amo-picker-title = Прилагоди { -brand-short-name }
+amo-picker-install-button-label = Додај у { -brand-short-name }
+amo-picker-install-complete-label = Инсталирано
+amo-picker-collection-link = Истражи више додатака
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Бринемо о вашој безбедности
+onboarding-easy-setup-security-and-privacy-subtitle = Наш непрофитни прегледач помаже у спречавању компанија да вас тајно прате на мрежи.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Останите заштићени шифровањем када мењате уређаје
 
 ## New user time and familiarity survey strings
 

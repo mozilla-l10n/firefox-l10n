@@ -423,3 +423,15 @@ newtab-topic-label-home = Кућа и башта
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Одабери теме за боље предлоге
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Одаберите две или више тема. Наши стручни сарадници дају првенство причама које су по вашем укусу. Ажурирајте било када.
+newtab-topic-selection-save-button = Сачувај
+newtab-topic-selection-cancel-button = Откажи
+newtab-topic-selection-button-maybe-later = Можда касније
+newtab-topic-selection-privacy-link = Сазнајте како штитимо и управљамо подацима
+newtab-topic-selection-button-update-interests = Ажурирајте ваша интересовања
+newtab-topic-selection-button-pick-interests = Одаберите ваша интересовања

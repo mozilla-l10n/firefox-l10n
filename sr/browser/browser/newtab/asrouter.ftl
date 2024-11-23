@@ -325,7 +325,7 @@ fxa-menu-message-mobile-collapsed-text = Синхронизујте са ваш�
 
 multi-cta-fox-doodle-title = Добродошли назад
 multi-cta-fox-doodle-set-default-checkbox = Поставите { -brand-short-name } на подразумевано
-multi-cta-fox-doodle-pin-startmenu-checkbox = Прикачите { -brand-short-name } на почетни мени
+multi-cta-fox-doodle-pin-startmenu-checkbox = Закачите { -brand-short-name } на почетни мени
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] Остави { -brand-short-name } у доку
