@@ -313,6 +313,7 @@ fxa-menu-message-backup-sync-primary-text = Hald dataa dine trygge og synkronise
 fxa-menu-message-backup-sync-secondary-text = Synkronisering sikkerhetskopierer dei fleste dataa dine slik at du kan få tilgang til dei overalt der du brukar { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Synkroniser og sikkerheitskopier data
 fxa-menu-message-mobile-primary-text = Send faner til telefonen din
+fxa-menu-message-mobile-secondary-text = Hald fram der du sleppte omgåande når du synkroniserer fanene dine med ei mobileining.
 fxa-menu-message-mobile-collapsed-text = Synkroniser med telefonen din
 
 ## Multi-CTA Fox Doodle Spotlight
@@ -328,3 +329,4 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Begynn å surfe
 multi-cta-fox-doodle-main-browser-primary-button-label = Gjer { -brand-short-name } til hovudnettlesaren min
 multi-cta-fox-doodle-quick-reminder-subtitle = Her er ei rask påminning om at du kan ha favorittnettlesaren din med fokus på personvern berre eitt klikk unna.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hald favorittnettlesaren din med fokus på personvern berre eitt klikk unna. Still inn { -brand-short-name } som standard nettlesar for å opne lenker og fest han til oppgåvelinja og Start-menyen.
