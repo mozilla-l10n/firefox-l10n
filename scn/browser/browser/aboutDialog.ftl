@@ -6,12 +6,12 @@ aboutDialog-title =
     .title = A prupòsitu di { -brand-full-name }
 releaseNotes-link = Nuvità
 update-checkForUpdatesButton =
-    .label = Talìa si cci sunnu attualizzazziuni
+    .label = Talìa si cci sunnu attualizzi
     .accesskey = T
 update-updateButton =
     .label = Riabbìa p'attualizzari { -brand-shorter-name }
     .accesskey = A
-update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazzioni…
+update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzi…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.

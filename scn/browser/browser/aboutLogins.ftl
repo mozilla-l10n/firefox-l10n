@@ -259,8 +259,8 @@ about-logins-confirm-export-dialog-message2 =
 about-logins-confirm-export-dialog-confirm-button2 = Cuntinua cu l'espurtazzioni
 about-logins-alert-import-title = Mpurtazzioni finuta
 about-logins-alert-import-message = Vidi un riportu chî minutagghi dâ mpurtazzioni
-confirm-discard-changes-dialog-title = Scartari i canciamenti nun sarbati?
-confirm-discard-changes-dialog-message = Pirdirai tutti i canciamenti nun sarbati.
+confirm-discard-changes-dialog-title = Voi sfari i canciamenti nun sarbati?
+confirm-discard-changes-dialog-message = Accussì perdi tutti i canciamenti nun sarbati.
 confirm-discard-changes-dialog-confirm-button = Scarta
 
 ## Breach Alert notification

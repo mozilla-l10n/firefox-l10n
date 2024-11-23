@@ -62,7 +62,7 @@ urlbar-tip-help-icon =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchi+ assai: cerca cu { $engineName } direttamenti dâ to barra dû nnirizzu.
+urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchiù assai: cerca cu { $engineName } direttu dâ to barra dû nnirizzu.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -486,7 +486,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Autorefresh blocker
 
-refresh-blocked-redirect-label = { -brand-short-name } mpidì a sta pàggina di purtàriti autumaticamenti a n'autra pàggina.
+refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti 'n autumàticu a n'autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P

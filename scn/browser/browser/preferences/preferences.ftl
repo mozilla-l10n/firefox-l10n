@@ -173,7 +173,7 @@ choose-browser-language-description = Scegghi i lingui di usari pi mustrari min�
 manage-browser-languages-button =
     .label = Mposta artirnativi…
     .accesskey = a
-confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'appricari sti canciamenti
+confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'applicari sti canciamenti
 confirm-browser-language-change-button = Sarba e riabbìa
 translate-web-pages =
     .label = Traduci cuntinutu 'n riti
@@ -275,30 +275,30 @@ play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazzioni
-update-application-title = Attualizzazzioni di { -brand-short-name }
+update-application-title = Attualizzi di { -brand-short-name }
 update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazzioni, stabbilità e sicurizza.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
-    .label = Mustra crunuluggìa di l'attualizzazzioni…
+    .label = Mustra crunuluggìa di l'attualizzi…
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
-    .label = Nzitari 'n autumàticu l'attualizzazzioni (cunzigghiatu)
+    .label = Nzita 'n autumàticu l'attualizzi (cunzigghiatu)
     .accesskey = N
 update-application-check-choose =
-    .label = Cuntrullari si cci su' attualizzazzioni (ma addumànnami si i vogghiu nzitari)
+    .label = Cuntrolla si cci su' attualizzi (ma addumànnami si i vogghiu nzitari)
     .accesskey = C
 update-application-manual =
-    .label = Nun cuntrullari mai si cci su' attualizzazzioni (nun cunzigghiatu)
+    .label = Nun cuntrullari mai si cci su' attualizzi (nun cunzigghiatu)
     .accesskey = N
 update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
 update-application-use-service =
-    .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazzioni
+    .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzi
     .accesskey = b
 update-in-progress-title = Staju attualizzannu
-update-in-progress-message = Vo' chi { -brand-short-name } cuntinuassi cu l'attualizzazziuni?
+update-in-progress-message = Vo' chi { -brand-short-name } cuntinuassi cu l'attualizzu?
 update-in-progress-ok-button = &Stagghia
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -450,7 +450,7 @@ search-separate-default-engine =
     .label = Usa stu muturi di ricerca nnê finestri privati
     .accesskey = U
 search-suggestions-header = Suggirimenti di ricerca
-search-suggestions-desc = Scegghi comu vennu mustrati i suggirimenti dî muturi di ricerca.
+search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî muturi di ricerca.
 search-suggestions-option =
     .label = Dùnami suggirimenti di ricerca
     .accesskey = D
@@ -571,7 +571,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Scegghi soccu sincrunizzari
+    .title = Scarta soccu sincrunizzari
     .style = min-width: 36em;
     .buttonlabelaccept = Sarba canciamenti
     .buttonaccesskeyaccept = S
@@ -656,7 +656,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Cchiù nfurmazzioni
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Metti autumaticamenti accessi e chiavi
+    .label = Metti 'n autumàticu cunti e chiavi
     .accesskey = M
 forms-saved-logins =
     .label = Cridinziali sarbati…
@@ -695,13 +695,13 @@ history-remember-option-never =
     .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
-history-remember-description = { -brand-short-name } ricurdarà a to navigazzioni, i scarricamenti, i mòduli e a crunuluggìa di ricerca.
+history-remember-description = { -brand-short-name } s'arricorda dâ to navigazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di ricerca.
 history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navigazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
     .label = Usa sempri a mudalità di navigazzioni privata
     .accesskey = p
 history-remember-browser-option =
-    .label = Ricorda a crunuluggìa di navigazzioni e scarricamenti
+    .label = Ricorda a crunuluggìa di navigazzioni e dî scarricamenti
     .accesskey = c
 history-remember-search-option =
     .label = Ricorda a crunuluggìa di ricerca e dî mòduli
@@ -951,4 +951,4 @@ certs-devices =
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
-choose-download-folder-title = Scegghi carpetta pî scarricamenti:
+choose-download-folder-title = Scarta a carpetta pî scarricamenti:

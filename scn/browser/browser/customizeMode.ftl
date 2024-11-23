@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Riprìstina i mpustazzioni pridifinuti
-customize-mode-menu-and-toolbars-header = Trascina i to cosi favuriti dintra â barra dî strumenti o dintra ô minù a tinnuzza.
+customize-mode-menu-and-toolbars-header = Strascina i to cosi prifiruti dintra â barra dî strumenti o dintra ô minù a tinnuzza.
 customize-mode-overflow-list-title = Minù a tinnuzza
 customize-mode-uidensity =
     .label = Dinsità

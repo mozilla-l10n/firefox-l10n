@@ -41,7 +41,7 @@ monitor-title = Stai accura ê viulazzioni dî dati
 monitor-link = Comu funziona
 monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazzioni dî dati, e nfòrmati supra ê novi viulazzioni.
 monitor-header-content-signed-in = { -monitor-brand-name } t'abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
-auto-scan = Cuntrullatu autumaticamenti oji
+auto-scan = Cuntrullatu 'n autumàticu oji
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
