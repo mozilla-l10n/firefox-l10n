@@ -34,3 +34,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Одмах пошаљите картицу на било који уређај на ком сте пријављени.
 fxa-menu-sign-out =
     .label = Одјави ме…
+fxa-menu-sync-description = Приступите интернету било где
+sync-setup-verify-continue = Настави

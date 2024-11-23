@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = картица
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Непознат извор
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Уређаји са приступом картицама
     .accesskey = Ј
-
 webrtc-sharing-window = Делите прозор другог програма.
 webrtc-sharing-browser-window = Делите { -brand-short-name(case: "acc") }.
 webrtc-sharing-screen = Делите цео екран.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Контрола дељења
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Контролиши дељење на "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Камера се дели са „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -103,7 +94,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] { $tabCount } картице имају приступ камери
            *[other] { $tabCount } картица има приступ камери
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Микрофон се дели са „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -113,7 +103,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] { $tabCount } картице имају приступ микрофону
            *[other] { $tabCount } картица има приступ микрофону
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Апликација се дели са „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -123,7 +112,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] { $tabCount } картице имају приступ апликацијама
            *[other] { $tabCount } картица има приступ апликацијама
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Екран се дели са „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -133,7 +121,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] { $tabCount } картице имају приступ садржају екрана
            *[other] { $tabCount } картица има приступ садржају екрана
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Делим прозор са "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -143,7 +130,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] { $tabCount } картице имају приступ прозору
            *[other] { $tabCount } картица има приступ прозору
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = „{ $streamTitle }” има приступ картици
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -171,6 +157,18 @@ webrtc-allow-share-camera-and-audio-capture = Дозволити { $origin } д�
 webrtc-allow-share-screen-and-microphone = Дозволити да { $origin } приступа микрофону и садржају екрана?
 webrtc-allow-share-screen-and-audio-capture = Дозволити да { $origin } приступа звуку ове картице и садржају екрана?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Дозволити овој локалној датотеци да слуша звук са ове картице?
+webrtc-allow-share-camera-with-file = Дозволити овој локалној датотеци да користи вашу камеру?
+webrtc-allow-share-microphone-with-file = Дозволити овој локалној датотеци да користи ваш микрофон?
+webrtc-allow-share-screen-with-file = Дозволити овој локалној датотеци да види ваш екран?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Дозволити овој локалној датотеци да користи ваше звучнике?
+webrtc-allow-share-camera-and-microphone-with-file = Дозволити овој локалној датотеци да користи вашу камеру и микрофон?
+webrtc-allow-share-camera-and-audio-capture-with-file = Дозволити овој локалној датотеци да користи вашу камеру и слуша звук са ове картице?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -191,7 +189,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволит
 
 webrtc-share-screen-warning = Делите екране само са сајтовима којима верујете. Дељење омогућава обмањујућим сајтовима да претражују интернет у ваше име и украду ваше личне податке.
 webrtc-share-browser-warning = Делите { -brand-short-name } само са сајтовима којима верујете. Дељење омогућава обмањујућим сајтовима да претражују интернет у ваше име и укради ваше личне податке.
-
 webrtc-share-screen-learn-more = Сазнајте више
 webrtc-pick-window-or-screen = Изаберите прозор или екран
 webrtc-share-entire-screen = Цео екран
@@ -228,7 +225,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Запамти ову одлуку
 webrtc-mute-notifications-checkbox = Током дељења искључи обавештења веб-сајтова
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може трајно да приступи вашем екрану.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } мора да зна којој картици желите да дозволите трајни приступ звуку картице.
 webrtc-reason-for-no-permanent-allow-insecure = Веза са овим сајтом није безбедна. Из безбедносних разлога { -brand-short-name } ће дозволити приступ само током ове сесије.
