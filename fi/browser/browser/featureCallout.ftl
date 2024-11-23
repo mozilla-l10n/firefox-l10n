@@ -90,3 +90,7 @@ sidebar-callout-survey-saved-websites-2 = Nopea pääsy kirjanmerkkeihin
 sidebar-callout-survey-none-of-above = Ei mikään yllä olevista
 sidebar-callout-survey-submit = Lähetä
 sidebar-callout-survey-thank-you = Kiitos palautteesta!
+sidebar-genai-survey-satisfaction-question = Kuinka tyytyväinen olet AI-chatbotin käyttöön sivupalkissa?
+sidebar-genai-survey-productive-question =
+    Missä määrin olet samaa tai eri mieltä tämän väitteen kanssa:<br/>
+    "Sivupalkin AI-chatbotti auttaa minua olemaan tuottavampi"?
