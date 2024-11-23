@@ -8,16 +8,15 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
+opensearch-error-duplicate-desc = { -brand-short-name } nun potti nzitari l'agghiuncitina di ricerca di “{ $location-url }” picchì già cc'è un muturi di ricerca cû stissu nomu.
 
 ##
 
 searchbar-submit =
     .tooltiptext = Avanza a ricerca
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Cerca
-
 searchbar-icon =
     .tooltiptext = Cerca
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Crunuluggìa di l'attualizzazzioni
-history-intro = Foru nzitati st'attualizzazziuna
+history-intro = Foru nzitati st'attualizzazzioni
 close-button-label =
     .buttonlabelcancel = Chiuji
     .title = Crunuluggìa di l'attualizzazzioni

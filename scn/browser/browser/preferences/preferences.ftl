@@ -41,7 +41,7 @@ settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Supportu di { -brand-short-name }
-addons-button-label = Stinziuna e temi
+addons-button-label = Stinzioni e temi
 focus-search =
     .key = f
 close-button =
@@ -347,7 +347,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = A
 browsing-picture-in-picture-learn-more = Cchiù nfurmazzioni
 browsing-cfr-recommendations =
-    .label = Raccumanna stinziuna mentri nàvighi
+    .label = Raccumanna stinzioni mentri chi nàvighi
     .accesskey = R
 browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
@@ -719,7 +719,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie e dati dî siti
-sitedata-total-size-calculating = Staju carculannu i diminziuna dî dati dî siti e dâ cache…
+sitedata-total-size-calculating = Staju carculannu a grannizza dî dati dî siti e dâ cache…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -901,7 +901,7 @@ collection-studies =
     .label = Pirmetti a { -brand-short-name } di nstallari e cunnùciri studi
 collection-studies-link = Talìa studi di { -brand-short-name }
 addon-recommendations =
-    .label = Pirmetti a { -brand-short-name } di dari cunzigghi ncapu a stinziuna pirsunalizzati
+    .label = Pirmetti a { -brand-short-name } di dari cunzigghi ncapu ê stinzioni pirsunalizzati
 addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

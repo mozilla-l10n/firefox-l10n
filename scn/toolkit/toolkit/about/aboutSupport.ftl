@@ -38,7 +38,7 @@ app-basics-update-dir =
        *[other] Carpetta attualizzazziuni
     }
 app-basics-update-history = Crunuluggìa di l'attualizzazzioni
-library-version-title = Virsiuna libbrirìi
+library-version-title = Virsioni libbrarìi
 
 ## Media titles
 

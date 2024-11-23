@@ -6,6 +6,13 @@ privatebrowsingpage-open-private-window-label = Rapi na finestra privata
     .accesskey = p
 about-private-browsing-search-placeholder = Cerca nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Cerca cu { $engine } o metti nu nnirizzu
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Cerca cu { $engine } o metti nu nnirizzu
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -25,5 +32,9 @@ about-private-browsing-search-banner-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

@@ -84,7 +84,7 @@ policy-SanitizeOnShutdown2 = Cancella i dati di navigazzioni chiujennu.
 policy-SearchBar = Mposta a pusizziuni pridifinuta dâ barra di ricerca. L'utenti a po ancora pirsunalizzari.
 policy-SearchEngines = Cunfijura mpustazzioni dû muturi di ricerca. Stu pulìtica è dispunìbbili sulu nnâ virsiuni Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Abbìlita o disabbìlita suggirimenti di ricerca.
-policy-SSLVersionMax = Mposta a virsiuna màssima di SSL.
+policy-SSLVersionMax = Mposta a virsiuni màssima di SSL.
 policy-SSLVersionMin = Mposta a virsiuni mìnima di SSL.
 policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzatu o minù d'ajutu.
 # “format” refers to the format used for the value of this policy.
