@@ -348,9 +348,49 @@ newtab-wallpaper-abstract-blue-purple = Плави и љубичасти обл�
 newtab-wallpaper-category-title-photographs = Фотографије
 newtab-wallpaper-beach-at-sunrise = Плажа у изласку сунца
 newtab-wallpaper-beach-at-sunset = Плажа у заласку сунца
+newtab-wallpaper-storm-sky = Олујно небо
+newtab-wallpaper-sky-with-pink-clouds = Небо са розе облацима
+newtab-wallpaper-red-panda-yawns-in-a-tree = Црвена панда зева на дрвету
+newtab-wallpaper-white-mountains = Беле планине
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Аутор фотографије <a data-l10n-name="name-link">{ $author_string }</a> на <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Пробајте нове боје
+newtab-wallpaper-feature-highlight-content = Дајте вашој новој картици свеж изглед помоћу позадина.
+newtab-wallpaper-feature-highlight-button = Важи
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Одбаци
+    .aria-label = Затвори искачући прозор
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Погледајте прогнозу у { $provider }-у
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } - Спонзорисано
+newtab-weather-menu-change-location = Промени место
+newtab-weather-change-location-search-input = Потражи место
+newtab-weather-menu-weather-display = Приказ времена
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Једноставно
+newtab-weather-menu-change-weather-display-simple = Пређи на једноставни приказ
+newtab-weather-menu-weather-display-option-detailed = Детаљно
+newtab-weather-menu-change-weather-display-detailed = Пређи на детаљан приказ
+newtab-weather-menu-temperature-units = Јединице за температуру
+newtab-weather-menu-temperature-option-fahrenheit = Фаренхајт
+newtab-weather-menu-temperature-option-celsius = Целзијус
+newtab-weather-menu-change-temperature-units-fahrenheit = Пребаци на Фаренхајт
+newtab-weather-menu-change-temperature-units-celsius = Пребаци на Целзијус
 newtab-weather-menu-hide-weather = Сакриј временску прогнозу на новој картици
 newtab-weather-menu-learn-more = Сазнајте више
 # This message is shown if user is working offline
