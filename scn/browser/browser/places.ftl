@@ -5,25 +5,19 @@
 places-open =
     .label = Rapi
     .accesskey = R
-
 places-history =
-    .aria-label = Cronuluggìa
+    .aria-label = Crunuluggìa
 places-bookmarks-search =
     .placeholder = Cerca nnê nzingalibbri
-
 places-delete-domain-data =
     .label = Scòrdati stu situ
     .accesskey = S
-
 places-cmd-close =
     .key = w
-
 places-view-sort-col-url =
     .label = Pusizziuni
-
 places-view-sort-col-date-added =
     .label = Agghiunciutu
-
 places-cmd-find-key =
     .key = f
 
@@ -33,8 +27,8 @@ places-cmd-find-key =
 places-search-bookmarks =
     .placeholder = Cerca nnê nzingalibbri
 places-search-history =
-    .placeholder = Cerca nnâ cronuluggìa
+    .placeholder = Cerca nnâ crunuluggìa
 
 ##
 
-places-locked-prompt = U sistema dî nzingalibbri e dâ cronuluggìa nun funziona picchì unu dî prichi di { -brand-short-name } veni usatu di n'autra appricazziuni. Certi prugrammi di sicurizza ponnu causari stu prubblema.
+places-locked-prompt = U sistema dî nzingalibbri e dâ crunuluggìa nun funziona picchì unu dî prichi di { -brand-short-name } veni usatu di n'autra applicazzioni. Certi prugrammi di sicurizza ponnu causari stu prubblema.

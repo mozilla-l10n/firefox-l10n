@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = Nn'arrè
 forward = Avanti
@@ -18,7 +18,6 @@ open-location = Cerca o metti nu nnirizzu
 share = Sparti
 close-window = Chiuji finestra
 open-sidebar = Sbarri di ciancu
-
 # This string describes shortcuts for search.
 search-popover = Accurzi di ricerca
 # Describes searches limited to a specific scope
@@ -28,11 +27,10 @@ search-search-in = Cerca nne:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = Nzingalibbri
-search-history = Cronuluggìa
+search-history = Crunuluggìa
 search-opentabs = Schedi raputi
 search-tags = Etichetti:
 search-titles = Tìtuli
 
-
-
 ##
+

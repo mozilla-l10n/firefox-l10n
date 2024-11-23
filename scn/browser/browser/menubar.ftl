@@ -106,7 +106,7 @@ menu-view-sidebar =
 menu-view-bookmarks =
     .label = Nzingalibbri
 menu-view-history-button =
-    .label = Cronuluggìa
+    .label = Crunuluggìa
 menu-view-synced-tabs-sidebar =
     .label = Schedi sincrunizzati
 menu-view-full-zoom =
@@ -170,12 +170,12 @@ menu-view-bidi-switch-page-direction =
 ## History Menu
 
 menu-history =
-    .label = Cronuluggìa
+    .label = Crunuluggìa
     .accesskey = C
 menu-history-show-all-history =
-    .label = Mustra tutta a cronuluggìa
+    .label = Mustra tutta a crunuluggìa
 menu-history-clear-recent-history =
-    .label = Cancella cronuluggìa ricenti…
+    .label = Cancella crunuluggìa ricenti…
 menu-history-synced-tabs =
     .label = Schedi sincrunizzati
 menu-history-restore-last-session =

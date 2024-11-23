@@ -4,7 +4,6 @@
 
 page-title = Nfurmazziuna p'arrisòrbiri prubblemi
 page-subtitle = Sta pàggina cunteni nfurmazziuna tècnichi ca ti ponnu èssiri utili quannu stai pruvannu ad arrisòrbiri quarchi prubblema. Si stai circannu i risposti ê dumanni cchiù friquenti supra a { -brand-short-name }, cuntrolla u nostru <a data-l10n-name="support-link">situ dû supportu</a>.
-
 crashes-title = Signalazziuna di blocchi
 crashes-id = ID signalazziuni
 crashes-send-date = Mannata
@@ -38,14 +37,19 @@ app-basics-update-dir =
         [linux] Carpetta attualizzazziuni
        *[other] Carpetta attualizzazziuni
     }
-app-basics-update-history = Cronuluggìa attualizzazziuna
-
+app-basics-update-history = Crunuluggìa di l'attualizzazzioni
 library-version-title = Virsiuna libbrirìi
 
 ## Media titles
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -79,7 +83,18 @@ async-pan-zoom = Spustamentu/Grannizza asìncruni
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

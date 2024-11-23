@@ -281,7 +281,7 @@ update-application-description = Teni { -brand-short-name } attualizzatu p'aviri
 # $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
-    .label = Mustra cronuluggìa attualizzazziuna…
+    .label = Mustra crunuluggìa di l'attualizzazzioni…
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
@@ -326,7 +326,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Navigazziuni
+browsing-title = Navigazzioni
 browsing-use-autoscroll =
     .label = Usa u scurrimentu autumàticu
     .accesskey = a
@@ -440,7 +440,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Barra di ricerca
 search-bar-hidden =
-    .label = Usa a barra dû nnirizzu pi ricerca e navigazziuni
+    .label = Usa a barra dû nnirizzu pi ricerca e navigazzioni
 search-bar-shown =
     .label = Agghiunci sbarra di ricerca nnâ sbarra dî strumenti
 search-engine-default-header = Muturi di ricerca pridifinutu
@@ -463,10 +463,10 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mustra suggirimenti di ricerca prima dâ cronuluggìa nnê risurtati dâ barra dû nnirizzu
+    .label = Mustra suggirimenti di ricerca prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
 search-show-suggestions-private-windows =
     .label = Mustra suggirimenti di ricerca nnê finestri privati
-search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a cronuluggìa.
+search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
 search-one-click-desc = Scegghi i mutura di ricerca artirnativi ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
     .label = Muturi di ricerca
@@ -558,7 +558,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Nzingalibbri
-sync-currently-syncing-history = Cronuluggìa
+sync-currently-syncing-history = Crunuluggìa
 sync-currently-syncing-tabs = Schedi raputi
 sync-currently-syncing-logins-passwords = Accessi e chiavi
 sync-currently-syncing-addresses = Nnirizzi
@@ -581,7 +581,7 @@ sync-engine-bookmarks =
     .label = Nzingalibbri
     .accesskey = z
 sync-engine-history =
-    .label = Cronuluggìa
+    .label = Crunuluggìa
     .accesskey = r
 sync-engine-tabs =
     .label = Schedi raputi
@@ -677,7 +677,7 @@ forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## Privacy Section - History
 
-history-header = Cronuluggìa
+history-header = Crunuluggìa
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -690,30 +690,30 @@ history-header = Cronuluggìa
 history-remember-label = { -brand-short-name } po
     .accesskey = p
 history-remember-option-all =
-    .label = Ricorda a cronuluggìa
+    .label = Ricorda a crunuluggìa
 history-remember-option-never =
-    .label = Nun ricurdari mai a cronuluggìa
+    .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
-    .label = Usa mpustazziuna pirsunalizzati pâ cronuluggìa
-history-remember-description = { -brand-short-name } ricurdarà a to navigazziuni, i scarricamenti, i mòduli e a cronuluggìa di ricerca.
-history-dontremember-description = { -brand-short-name } usarà i stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa cronuluggìa mentri nàvighi nnâ Riti.
+    .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
+history-remember-description = { -brand-short-name } ricurdarà a to navigazzioni, i scarricamenti, i mòduli e a crunuluggìa di ricerca.
+history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navigazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
-    .label = Usa sempri a mudalità di navigazziuni privata
+    .label = Usa sempri a mudalità di navigazzioni privata
     .accesskey = p
 history-remember-browser-option =
-    .label = Ricorda a cronuluggìa di navigazziuni e scarricamenti
+    .label = Ricorda a crunuluggìa di navigazzioni e scarricamenti
     .accesskey = c
 history-remember-search-option =
-    .label = Ricorda a cronuluggìa di ricerca e dî mòduli
+    .label = Ricorda a crunuluggìa di ricerca e dî mòduli
     .accesskey = R
 history-clear-on-close-option =
-    .label = Cancella a cronuluggìa quannu { -brand-short-name } si chiuji
+    .label = Cancella a crunuluggìa quannu { -brand-short-name } si chiuji
     .accesskey = r
 history-clear-on-close-settings =
     .label = Mpustazziuna…
     .accesskey = t
 history-clear-button =
-    .label = Cancella a cronuluggìa…
+    .label = Cancella a crunuluggìa…
     .accesskey = C
 
 ## Privacy Section - Site Data
@@ -728,7 +728,7 @@ sitedata-learn-more = Cchiù nfurmazzioni
 sitedata-delete-on-close =
     .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
     .accesskey = k
-sitedata-delete-on-close-private-browsing = Câ navigazziuni privata pirmanenti, i cookie e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
+sitedata-delete-on-close-private-browsing = Câ navigazzioni privata pirmanenti, i cookie e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
 sitedata-allow-cookies-option =
     .label = Accetta i cookie e i dati dî siti
     .accesskey = A
@@ -763,7 +763,7 @@ sitedata-settings =
 addressbar-header = Barra dû nnirizzu
 addressbar-suggest = Quannu si usa a barra dû nnirizzu, duna suggirimenti
 addressbar-locbar-history-option =
-    .label = Cronuluggìa di navigazziuni
+    .label = Crunuluggìa di navigazzioni
     .accesskey = C
 addressbar-locbar-bookmarks-option =
     .label = Nzingalibbri

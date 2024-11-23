@@ -10,7 +10,7 @@ appmenuitem-new-window =
 appmenuitem-new-private-window =
     .label = Nova finestra privata
 appmenuitem-history =
-    .label = Cronuluggìa
+    .label = Crunuluggìa
 appmenuitem-downloads =
     .label = Scarricamenti
 appmenuitem-print =
@@ -33,21 +33,16 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazziuni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Cunnetti n'autru dispusitivu
 appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi toi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
-
 appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }
-
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -63,13 +58,16 @@ whatsnew-panel-header = Nuvità
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
@@ -95,4 +93,10 @@ appmenu-help-not-deceptive =
     .accesskey = n
 
 ## More Tools
+
+
+## Panel for privacy and security products
+
+
+## Profiles panel
 

@@ -410,7 +410,7 @@ navbar-home =
     .tooltiptext = Pàggina mastra di { -brand-short-name }
 navbar-library =
     .label = Libbrarìa
-    .tooltiptext = Vidi cronuluggìa, nzingalibbri sarbati e autru
+    .tooltiptext = Vidi crunuluggìa, nzingalibbri sarbati e autru
 navbar-search =
     .title = Cerca
 # Name for the tabs toolbar as spoken by screen readers. The word

@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Mpurtazziuni cunnuciuta
-
 import-from =
     { PLATFORM() ->
-        [windows] Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:
-       *[other] Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:
+        [windows] Mporta i prifirenzi, i nzingalibbri, a crunuluggìa, i chiavi e l'autri dati di:
+       *[other] Mporta i prifirenzi, i nzingalibbri, a crunuluggìa, i chiavi e l'autri dati di:
     }
-
 import-from-bookmarks = Mporta i nzingalibbri di:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -36,40 +34,17 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
-no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbri, cronuluggìa o chiavi.
-
+no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbri, crunuluggìa o chiavi.
 import-source-page-title = Pigghia mpustazziuna e dati
 import-items-page-title = Cosi di pigghiari
-
 import-items-description = Scegghi quali cosi pigghiari:
-
 import-migrating-page-title = Staju mpurtannu…
-
 import-migrating-description = Staju mpurtannu sti cosi…
-
 import-select-profile-page-title = Scegghi u profilu
-
 import-select-profile-description = Chisti sunu i profila ca poi scègghiri:
-
 import-done-description = Chisti sunnu i cosi ca potti pigghiari:
-
 import-close-source-browser = Pi favuri vidi si u navigaturi ca scigghisti fu chiusu prima di cuntinuari.
-
 imported-safari-reading-list = Lista di littura (di Safari)
-
-## Browser data types
-## All of these strings get a $browser variable passed in.
-## You can use the browser variable to differentiate the name of items,
-## which may have different labels in different browsers.
-## The supported values for the $browser variable are:
-## 360se
-## chrome
-## edge
-## firefox
-## safari
-## The various beta and development versions of edge and chrome all get
-## normalized to just "edge" and "chrome" for these strings.
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -89,4 +64,3 @@ browser-data-session-checkbox =
     .label = Finestri e schedi
 browser-data-session-label =
     .value = Finestri e schedi
-

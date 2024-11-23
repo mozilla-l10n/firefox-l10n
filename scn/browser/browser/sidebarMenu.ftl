@@ -4,12 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Nzingalibbri
-
 sidebar-menu-history =
-    .label = Cronuluggìa
-
+    .label = Crunuluggìa
 sidebar-menu-close =
     .label = Chiuji a sbarra di ciancu
-
 sidebar-close-button =
     .tooltiptext = Chiuji a sbarra di ciancu
