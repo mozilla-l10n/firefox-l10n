@@ -84,6 +84,7 @@ perftools-thread-compositor =
 
 perftools-presets-web-developer-label = Web programer
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name(case: "gen") }.
 perftools-presets-graphics-label = Slike
 perftools-presets-graphics-description = Zadana postavka za istraživanje slikovnih grešaka u { -brand-shorter-name(case: "loc") }.
 perftools-presets-media-label = Mediji
@@ -94,6 +95,7 @@ perftools-presets-networking-description = Zadana postavka za istraživanje gre�
 perftools-presets-power-label = Struja
 perftools-presets-power-description = Zadana postavka za istraživanje grešaka potrošnje energije u { -brand-shorter-name(case: "loc") }.
 perftools-presets-debug-label = Otklanjanje grešaka
+perftools-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
 perftools-presets-custom-label = Prilagođeno
 
 ##

@@ -198,7 +198,7 @@ about-debugging-browser-version-too-old-fennec = Ova verzija Firefoxa ne može u
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Povezani preglednik je noviji { $runtimeVersion }, ID gradnje { $runtimeID } od tvog { -brand-shorter-name } ({ $localVersion }, ID gradnje { $localID }). Ovo je nepodržana postava i programerski alati možda neće raditi. Aktualiziraj Firefox. <a>Ispravljanje grešaka</a>
+about-debugging-browser-version-too-recent = Povezani preglednik je noviji { $runtimeVersion }, ID gradnje { $runtimeID } od tvog { -brand-shorter-name(case: "gen") } ({ $localVersion }, ID gradnje { $localID }). Ovo je nepodržana postava i programerski alati možda neće raditi. Aktualiziraj Firefox. <a>Ispravljanje grešaka</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
