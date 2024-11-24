@@ -51,7 +51,7 @@ mr1-onboarding-sign-in-button-label = Prijavi se
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Uvezi iz { $previous }
 mr1-onboarding-theme-header = Učini ga svojim
-mr1-onboarding-theme-subtitle = Personaliziraj { -brand-short-name } temom.
+mr1-onboarding-theme-subtitle = Prilagodi { -brand-short-name } s temom.
 mr1-onboarding-theme-secondary-button-label = Ne sada
 newtab-wallpaper-onboarding-title = Dodaj nešto boje
 newtab-wallpaper-onboarding-subtitle = Odaberi sliku pozadinu kako bi tvoja nova kartica dobila svjež izgled.
@@ -229,7 +229,7 @@ mr2022-onboarding-get-started-primary-button-label = Postavi u tren oka
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Super brzo postavljanje
-mr2022-onboarding-import-subtitle = Postavi { -brand-short-name } kako te se sviđa. Dodaj oznake, lozinke i još mnogo toga iz svog starog preglednika.
+mr2022-onboarding-import-subtitle = Postavi { -brand-short-name } kako ti se sviđa. Dodaj zabilješke, lozinke i još mnogo toga iz svog starog preglednika.
 mr2022-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog preglednika
 
 ## If your language uses grammatical genders, in the description for the

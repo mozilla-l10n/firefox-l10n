@@ -66,10 +66,10 @@ firefoxview-tabpickup-sync-error-header = Imamo problema sa sinkronizacijom
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } trenutačno ne može pristupiti usluzi sinkronizacije. Pokušaj ponovo za par trenutaka.
 firefoxview-tabpickup-sync-error-primarybutton = Pokušaj ponovo
 firefoxview-tabpickup-sync-disconnected-header = Za nastavljanje uključi sinkronizaciju
-firefoxview-tabpickup-sync-disconnected-description = Za preuzimanje tvojih kartica, morat ćeš dozvoliti sinkronizaciju u pregledniku { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-description = Za preuzimanje tvojih kartica morat ćeš dozvoliti sinkronizaciju u { -brand-short-name(case: "loc") }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Uključi sinkronizaciju u postavkama
 firefoxview-tabpickup-password-locked-header = Upiši svoju primarnu lozinku za prikaz kartica
-firefoxview-tabpickup-password-locked-description = Za preuzimanje tvojih kartica, morat ćeš upisati primarnu lozinku za { -brand-short-name }.
+firefoxview-tabpickup-password-locked-description = Za preuzimanje tvojih kartica morat ćeš upisati primarnu lozinku za { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Saznaj više
 firefoxview-tabpickup-password-locked-primarybutton = Upiši primarnu lozinku
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saznaj više</a>

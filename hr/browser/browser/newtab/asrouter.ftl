@@ -74,7 +74,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Pregledaj web bez da te se prati
-cfr-protections-panel-body = Zadrži svoje podatke privatnima. { -brand-short-name } štiti od mnogih uobičajenih programa za praćenje, koji prate tvoje radnje na mreži.
+cfr-protections-panel-body = Zadrži svoje podatke privatnima. { -brand-short-name } te štiti od mnogih uobičajenih programa za praćenje, koji prate tvoje radnje na internetu.
 cfr-protections-panel-link-text = Saznaj više
 
 ## What's New toolbar button and panel

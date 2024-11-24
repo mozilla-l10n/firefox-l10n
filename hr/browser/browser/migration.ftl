@@ -65,7 +65,7 @@ no-migration-sources = Niti jedan program koji sadrži zabilješke, povijest pre
 import-source-page-title = Uvezi postavke i podatke
 import-items-page-title = Stavke za uvoz
 import-items-description = Odaberi stavke za uvoz:
-import-permissions-page-title = Odobri { -brand-short-name }u dozvole
+import-permissions-page-title = Odobri { -brand-short-name(case: "dat") } dozvole
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS zahtijeva da izričito dopustiš da { -brand-short-name } pristupi podacima Safarija. Pritisni „Nastavi”, odaberi mapu „Safari” u dijaloškom okviru Findera koji se pojavi i zatim pritisni „Otvori”.
 import-migrating-page-title = Uvozi se …
