@@ -199,7 +199,7 @@ profiler-popup-presets-power-description = Zadana postavka za istraživanje gre�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Struja
-profiler-popup-presets-debug-description = Preporučene postavke za otklanjanje pogrešaka u { -brand-shorter-name }. Visoko opterećenje, nemojte koristiti za rad koji zahtjeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
+profiler-popup-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
 profiler-popup-presets-debug-label =
     .label = Otklanjanje grešaka
 profiler-popup-presets-custom-label =
@@ -227,7 +227,7 @@ appmenu-search-history =
 appmenu-help-header =
     .title = Pomoć za { -brand-shorter-name }
 appmenu-about =
-    .label = O { -brand-shorter-name }u
+    .label = O { -brand-shorter-name(case: "loc") }
     .accesskey = O
 appmenu-get-help =
     .label = Dobij pomoć
