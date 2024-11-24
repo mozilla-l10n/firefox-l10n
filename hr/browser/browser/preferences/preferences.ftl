@@ -640,10 +640,10 @@ search-suggestions-option =
     .label = Prikaži prijedloge za pretraživanje
     .accesskey = P
 search-show-suggestions-option =
-    .label = Prikaži prijedloge pretraživanja
+    .label = Prikaži prijedloge za pretraživanje
     .accesskey = P
 search-show-suggestions-url-bar-option =
-    .label = Prikaži prijedloge pretraživanja u rezultatima adresne trake
+    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
     .accesskey = l
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar.
@@ -660,11 +660,11 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Prikaži prijedloge pretraživanja u rezultatima adresne trake prije povijesti pregledavanja
+    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake prije povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
 suggestions-addressbar-settings-generic2 = Promijeni postavke za ostale prijedloge adresne trake
-search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
+search-suggestions-cant-show = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 search-one-click-header2 = Prečaci za pretraživanje
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
 search-choose-engine-column =
@@ -1135,7 +1135,7 @@ addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavne pretrage
     .accesskey = r
 addressbar-locbar-showtrendingsuggestions-option =
-    .label = Prikaži prijedloge pretraživanja u trendu
+    .label = Prikaži popularne prijedloge za pretraživanje
     .accesskey = t
 addressbar-quickactions-learn-more = Saznaj više
 
