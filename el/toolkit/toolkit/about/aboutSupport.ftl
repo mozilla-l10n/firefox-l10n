@@ -88,7 +88,7 @@ app-basics-pointing-devices = Συσκευές κατάδειξης
 app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
-        [macos] Προβολή στο Finder
+        [macos] Εμφάνιση στο Finder
         [windows] Άνοιγμα φακέλου
        *[other] Άνοιγμα καταλόγου
     }
