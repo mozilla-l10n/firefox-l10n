@@ -430,3 +430,4 @@ onboarding-checklist-set-default = Faire de { -brand-short-name } mon navigateur
 onboarding-checklist-pin = Épingler { -brand-short-name } à la barre des tâches
 onboarding-checklist-import = Importer depuis un ancien navigateur
 onboarding-checklist-extension = Installer une extension
+onboarding-checklist-sign-up = Créer un compte ou vous connecter
