@@ -77,3 +77,4 @@ about-private-browsing-cookie-banners-promo-body = Ora 'n autumàticu rifiutamu 
 
 about-private-browsing-felt-privacy-v1-info-header = Nun lassari trazzi nta stu dispusitivu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cancella i to cookie, a crunuluggìa e i dati dî siti quannu chiuji tutti i finestri privati.
+about-private-browsing-felt-privacy-v1-info-link = Cu' putissi vìdiri a me attività?
