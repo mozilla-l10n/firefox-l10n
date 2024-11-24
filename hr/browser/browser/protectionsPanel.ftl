@@ -56,7 +56,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 ##
 
-protections-panel-no-trackers-found = Programi za praćenje koji su poznati { -brand-short-name }u nisu otkriveni na ovoj stranici.
+protections-panel-no-trackers-found = Programi za praćenje koje { -brand-short-name } pozna nisu otkriveni na ovoj stranici.
 protections-panel-content-blocking-tracking-protection = Praćenje sadržaja
 protections-panel-content-blocking-socialblock = Programi za praćenje s društvenih mreža
 protections-panel-content-blocking-cryptominers-label = Kripto-rudari

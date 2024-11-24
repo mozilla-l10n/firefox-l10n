@@ -1312,14 +1312,14 @@ collection-studies =
     .label = Dozvoli { -brand-short-name(case: "dat") } da instalira i pokreće istraživanja
 collection-studies-link = Pregledaj { -brand-short-name } istraživanja
 addon-recommendations =
-    .label = Dozvoli { -brand-short-name }u da radi personalizirane preporuke dodataka
+    .label = Dozvoli { -brand-short-name(case: "dat") } izraditi personalizirane preporuke dodataka
 addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
-collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name }u slanje zaostalih zapisa o rušenju u vaše ime <a data-l10n-name="crash-reports-link">Saznajte više</a>
+collection-backlogged-crash-reports-with-link = Dozvoli { -brand-short-name(case: "dat") } slanje zaostalih zapisa o rušenju u tvoje ime <a data-l10n-name="crash-reports-link">Saznaj više</a>
     .accesskey = D
-collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje zaostale zapise o rušenju u tvoje ime
+collection-backlogged-crash-reports = Dozvoli { -brand-short-name(case: "dat") } da šalje zaostale zapise o rušenju u tvoje ime
     .accesskey = D
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
 privacy-segmentation-section-description = Kada nudimo funkcije koje koriste tvoje podatke za pružanje osobnijeg iskustva:
@@ -1367,19 +1367,19 @@ certs-devices =
     .label = Sigurnosni uređaji …
     .accesskey = S
 certs-thirdparty-toggle =
-    .label = Dozvoli { -brand-short-name }u da automatski vjeruje korijenskim certifikatima treće strane koje si instaliraš
+    .label = Dozvoli { -brand-short-name(case: "dat") } da automatski vjeruje korijenskim certifikatima treće strane koje instaliraš
     .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Otvori postavke
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name }u ponestaje diskovnog prostora.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možete obrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci web stranice.
-space-alert-under-5gb-message2 = <strong>{ -brand-short-name }u ponestaje diskovnog prostora.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Posjetite „Saznaj više” za optimiziranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možeš izbrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci web stranice.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Posjeti „Saznaj više” za optimiziranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
-httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između preglednika { -brand-short-name } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran "Samo HTTPS" modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
-httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećujete. { -brand-short-name } će vas upozoriti ukoliko veza nije sigurna kada je uključen Samo HTTPS.
+httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećuješ. { -brand-short-name } će te upozoriti ukoliko veza nije sigurna kada je uključena opcija „Samo HTTPS”.
 httpsonly-learn-more = Saznaj više
 httpsonly-radio-enabled =
     .label = Aktiviraj „Samo HTTPS” modus u svim prozorima
@@ -1426,7 +1426,7 @@ preferences-doh-default-detailed-desc-1 = Koristi sigurni DNS u regijama gdje je
 preferences-doh-default-detailed-desc-2 = Koristi standarni DNS server ako postoji problem sa sigurnim pružateljem DNS-a
 preferences-doh-default-detailed-desc-3 = Koristi lokalnog pružatelja usluga, ukoliko je moguće
 preferences-doh-default-detailed-desc-4 = Isključi kada su VPN, roditeljska kontrola ili pravila poduzeća aktivna
-preferences-doh-default-detailed-desc-5 = Isključi kada mreža kaže { -brand-short-name }u da ne bi trebao koristiti sigurni DNS
+preferences-doh-default-detailed-desc-5 = Isključi kada mreža kaže { -brand-short-name(case: "dat") } da ne bi trebao koristiti sigurni DNS
 preferences-doh-setting-enabled =
     .label = Povećana zaštita
     .accesskey = i
