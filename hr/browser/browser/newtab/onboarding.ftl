@@ -355,7 +355,7 @@ onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni preglednik
 onboarding-mobile-download-security-and-privacy-title = Ostanite zaštićeni kada prenosite podatke između uređaja
 onboarding-mobile-download-security-and-privacy-subtitle = Kada ste sinkronizirani, { -brand-short-name } šifrira vaše lozinke, zabilješke i još mnogo toga. Osim toga, možete preuzeti kartice sa svojih drugih uređaja.
 # Gratitude screen
-onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam čuva leđa
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te štiti
 onboarding-gratitude-security-and-privacy-subtitle = Hvala što koristiš { -brand-short-name } kojeg podupire Mozilla zaklada. Uz tvoju podršku, radimo na tome da učinimo Internet sigurnijim i dostupnijim za sve.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinkroniziraj svoje podatke na svim uređajima
@@ -365,9 +365,9 @@ onboarding-sign-up-secondary-button = Počni pregledavati
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = Koliko dugo koristite { -brand-short-name }?
-onboarding-new-user-familiarity-based-survey-title = Koliko ste upoznati s { -brand-short-name }?
-onboarding-new-user-survey-subtitle = Vaše povratne informacije pomažu nam da { -brand-short-name } postane još bolji.
+onboarding-new-user-time-based-survey-title = Kako dugo koristiš { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Kako dobro poznaš { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tvoje povratne informacije pomažu poboljšati { -brand-short-name }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Dalje
 onboarding-new-user-survey-legal-link-label = Odabirom „{ onboarding-new-user-survey-next-button-label }” prihvaćaš { -brand-product-name }<a data-l10n-name="privacy_notice">napomene o privatnosti</a>
@@ -410,7 +410,7 @@ onboarding-genai-sidebar-secondary-button = Počni pregledavati
 
 ## New user onboarding checklist
 
-onboarding-checklist-title = Dovršite postavljanje { -brand-short-name(case: "gen") }
+onboarding-checklist-title = Završi postavljanje { -brand-short-name(case: "gen") }
 onboarding-checklist-subtitle = Dovrši ove korake za što bolje pregledavanje.
 onboarding-checklist-set-default = Postavi { -brand-short-name } kao standardni preglednik
 onboarding-checklist-pin = Prikvači { -brand-short-name } na programsku traku
