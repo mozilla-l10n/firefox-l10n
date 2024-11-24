@@ -13,7 +13,7 @@ urlbar-translations-button2 =
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-    .tooltiptext = Isprobaj privatne prijevode u pregledniku { -brand-shorter-name } - beta
+    .tooltiptext = Isprobaj privatne prijevode u { -brand-shorter-name(case: "loc") } – beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -37,9 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Upravljaj jezicima
-translations-panel-settings-about = O prijevodima u { -brand-shorter-name }u
+translations-panel-settings-about = O prijevodima u { -brand-shorter-name(case: "loc") }
 translations-panel-settings-about2 =
-    .label = O prijevodima u { -brand-shorter-name }u
+    .label = O prijevodima u { -brand-shorter-name(case: "loc") }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -71,7 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Odustani
 translations-panel-learn-more-link = Saznaj više
-translations-panel-intro-header = Isprobaj privatne prijevode u pregledniku { -brand-shorter-name }
+translations-panel-intro-header = Isprobaj privatne prijevode u { -brand-shorter-name(case: "loc") }
 translations-panel-intro-description = Radi tvoje privatnosti, prijevodi nikada ne napuštaju tvoj uređaj. Novi jezici i poboljšanja stižu uskoro!
 translations-panel-error-translating = Došlo je do problema pri prevođenju. Pokušaj ponovo.
 translations-panel-error-load-languages = Nije bilo moguće učitati jezike

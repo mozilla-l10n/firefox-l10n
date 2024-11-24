@@ -394,6 +394,12 @@ onboarding-new-vertical-tabs-label = Kartice na strani
 onboarding-new-horizontal-tabs-label = Kartice gore
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Sada postoje okomito poredane kartice
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Prozor preglednika koji prikazuje kartice uzduž ruba ekrana kao dio bočne trake { -brand-shorter-name(case: "gen") }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Prozor preglednika koji prikazuje kartice uzduž ruba ekrana kao dio bočne trake { -brand-shorter-name(case: "gen") }.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Prozor preglednika koji prikazuje kartice u gornjem rubu.

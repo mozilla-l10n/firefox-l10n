@@ -48,7 +48,7 @@ menu-quit =
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
 menu-about =
-    .label = O { -brand-shorter-name }u
+    .label = O { -brand-shorter-name(case: "loc") }
     .accesskey = O
 
 ## File Menu
