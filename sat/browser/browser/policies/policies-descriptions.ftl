@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = ᱥᱤᱥᱴᱚᱢ ᱪᱷᱟᱯᱟ ᱰᱷᱟᱶᱨ
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ᱪᱟᱞᱟᱣ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱨᱮᱭᱟᱜ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱠᱚᱴ ᱪᱷᱚᱭ ᱢᱮ ᱾ ᱯᱷᱚᱨᱢᱟᱴ ᱨᱮ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱞᱤᱞᱤᱭᱟᱹ ᱧᱮᱞ ᱢᱮ ᱾
 policy-Windows10SSO = Microsoft, ᱠᱟᱹᱢᱤ ᱟᱨ ᱟᱥᱲᱟ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱜᱤᱫ Windows ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱥᱩᱦᱤ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ ᱾
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Microsoft Entra ᱠᱷᱟᱛᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱥᱟᱭᱤᱱ ᱚᱱ ᱨᱮᱭᱟᱜ ᱪᱷᱟᱹᱲ ᱮᱢᱚᱜ ᱢᱮ ᱾
