@@ -255,10 +255,10 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
-        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
-        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
-       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -268,10 +268,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
-        [one] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
-        [few] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
-       *[other] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+        [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene prijave na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
+       *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene prijave na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -306,10 +306,10 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { NUMBER($count) ->
-        [1] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
-        [one] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
-        [few] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
-       *[other] Ovo će ukloniti lozinke spremljene u { -brand-short-name } na svim vašim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o kršenju koja se ovdje pojavljuju. Ne možete poništiti ovu radnju.
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
+        [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
+       *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
     }
 
 ##
