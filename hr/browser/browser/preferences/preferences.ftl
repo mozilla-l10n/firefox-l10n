@@ -282,7 +282,7 @@ choose-browser-language-description = Odaberi jezik koji će se koristiti za pri
 manage-browser-languages-button =
     .label = Postavi alternative …
     .accesskey = l
-confirm-browser-language-change-description = Ponovo pokreni { -brand-short-name } za spremanje ove promjene
+confirm-browser-language-change-description = Za primjenjivanje ovih promjena ponovo pokreni { -brand-short-name }
 confirm-browser-language-change-button = Primijeni i ponovo pokreni
 translate-web-pages =
     .label = Prevedi web sadržaj
@@ -370,9 +370,9 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Koristi { $plugin-name } (u { -brand-short-name })
+    .label = Koristi { $plugin-name } (u { -brand-short-name(case: "loc") })
 applications-open-inapp =
-    .label = Otvori u { -brand-short-name }u
+    .label = Otvori u { -brand-short-name(case: "loc") }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -409,7 +409,7 @@ play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
     .accesskey = p
 play-drm-content-learn-more = Saznaj više
-update-application-title = { -brand-short-name } ažuriranja
+update-application-title = { -brand-short-name } aktualiziranja
 update-application-description = Aktualiziraj { -brand-short-name } za najbolju performancu, stabilnost i sigurnost.
 # Variables:
 # $version (string) - Firefox version
@@ -417,7 +417,7 @@ update-application-version = Verzija { $version } <a data-l10n-name="learn-more"
 update-history =
     .label = Prikaži povijest nadogradnji …
     .accesskey = P
-update-application-allow-description = Dozvoli { -brand-short-name }u da
+update-application-allow-description = Dozvoli { -brand-short-name(case: "dat") } da
 update-application-auto =
     .label = Automatski instaliraj nove verzije (preporučeno)
     .accesskey = A
@@ -428,8 +428,8 @@ update-application-manual =
     .label = Nikada ne traži nove verzije (ne preporučuje se)
     .accesskey = N
 update-application-background-enabled =
-    .label = Kada { -brand-short-name } nije pokrenut (w)
-    .accesskey = w
+    .label = Kada { -brand-short-name } nije pokrenut
+    .accesskey = K
 update-application-warning-cross-user-setting = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
 update-application-use-service =
     .label = Koristi pozadinsku uslugu za instaliranje novih verzija
@@ -1144,7 +1144,7 @@ addressbar-quickactions-learn-more = Saznaj više
 content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
 content-blocking-learn-more = Saznaj više
-content-blocking-fpi-incompatibility-warning = Koristiš funkciju First Party Isolation (FPI), koja nadjačava neke postavke kolačića u { -brand-short-name }u.
+content-blocking-fpi-incompatibility-warning = Koristiš funkciju First Party Isolation (FPI), koja nadjačava neke postavke kolačića { -brand-short-name(case: "gen") }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
@@ -1305,12 +1305,12 @@ collection-privacy-notice = Napomena o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznaj više
 collection-health-report =
-    .label = Dozvoli { -brand-short-name }u da šalje tehničke podatke i podatke o interakcijama { -vendor-short-name }
+    .label = Dozvoli { -brand-short-name(case: "dat") } da šalje tehničke podatke i podatke o interakcijama organizaciji { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saznaj više
 collection-studies =
-    .label = Dozvoli { -brand-short-name }u instalirati i pokrenuti studije
-collection-studies-link = Pregledaj { -brand-short-name } studije
+    .label = Dozvoli { -brand-short-name(case: "dat") } da instalira i pokreće istraživanja
+collection-studies-link = Pregledaj { -brand-short-name } istraživanja
 addon-recommendations =
     .label = Dozvoli { -brand-short-name }u da radi personalizirane preporuke dodataka
 addon-recommendations-link = Saznaj više
