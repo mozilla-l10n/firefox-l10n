@@ -59,7 +59,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Ενεργά αρθρώματα
 app-basics-build-config = Ρύθμιση δομής
-app-basics-user-agent = Παράγοντας χρήστη
+app-basics-user-agent = Πράκτορας χρήστη
 app-basics-os = ΛΣ
 app-basics-os-theme = Θέμα ΛΣ
 # Rosetta is Apple's translation process to run apps containing x86_64

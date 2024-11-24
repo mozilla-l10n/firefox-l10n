@@ -5,8 +5,10 @@
 label-disable = Απενεργοποίηση
 label-enable = Ενεργοποίηση
 label-interventions = Παρεμβάσεις
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Περισσότερες πληροφορίες: Σφάλμα { $bug }
-label-overrides = Αντικαταστάσεις παράγοντα χρήστη
+label-overrides = Αντικαταστάσεις πράκτορα χρήστη
 text-disabled-in-about-config = Αυτή η λειτουργία έχει απενεργοποιηθεί στο about:config
 text-no-interventions = Δεν χρησιμοποιούνται παρεμβάσεις
 text-no-overrides = Δεν χρησιμοποιούνται αντικαταστάσεις ΛΧ
