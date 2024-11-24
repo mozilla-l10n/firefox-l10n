@@ -56,11 +56,11 @@ category-experimental =
     .tooltiptext = { -brand-short-name } eksperimenti
 pane-experimental-subtitle = Nastavi s oprezom
 pane-experimental-search-results-header = { -brand-short-name } eksperimenti: Nastavi s oprezom
-pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki može utjecati na performancu i sigurnost programa { -brand-short-name }.
+pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki može utjecati na performancu i sigurnost { -brand-short-name(case: "gen") }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description3 = Isprobaj naše eksperimentalne funkcije! Nalaze se u fazi razvoja i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name }.
+pane-experimental-description3 = Isprobaj naše eksperimentalne funkcije! Nalaze se u fazi razvoja i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name(case: "gen") }.
 pane-experimental-reset =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -73,8 +73,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti, kako bi se aktivirala ova funkcija.
-feature-disable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se onemogućila ova funkcija.
+feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se ova funkcija aktivirala.
+feature-disable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se ova funkcija deaktivirala.
 should-restart-title = Ponovo pokreni { -brand-short-name }
 should-restart-ok = Ponovo pokreni { -brand-short-name } sada
 cancel-no-restart-button = Odustani
@@ -117,7 +117,7 @@ extension-controlled-enable = Za aktiviranje dodatak idi na <img data-l10n-name=
 search-results-header = Rezultati pretraživanja
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Oprosti! Među postavkama nema rezultata za “<span data-l10n-name="query"></span>”.
-search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -brand-short-name } podršku</a>
+search-results-help-link = Trebaš pomoć? Posjeti <a data-l10n-name="url">{ -brand-short-name } podršku</a>
 
 ## General Section
 
@@ -278,7 +278,7 @@ choose-language-description = Odaberi jezik za prikazivanje stranica
 choose-button =
     .label = Odaberi …
     .accesskey = d
-choose-browser-language-description = Odaberi jezik koji će se koristiti za prikaz izbornika, poruka i obavijesti od { -brand-short-name }-a.
+choose-browser-language-description = Odaberi jezik koji će se koristiti za prikaz izbornika, poruka i obavijesti od { -brand-short-name(case: "gen") }.
 manage-browser-languages-button =
     .label = Postavi alternative …
     .accesskey = l
