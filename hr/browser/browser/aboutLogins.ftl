@@ -181,8 +181,8 @@ about-logins-edit-login-os-auth-dialog-message-macosx = uredi spremljenu prijavu
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
     { PLATFORM() ->
-        [macos] promijeni postavke za lozinke
-       *[other] { -brand-short-name } pokušava promijeniti postavke za lozinke. Za dozvoljavanje mijenjanja postavki koristi svoj uređaj za prijavu.
+        [macos] promijeniti postavke za lozinke
+       *[other] { -brand-short-name } pokušava promijeniti postavke za lozinke. Za dozvoljavanje mijenjanja postavki koristi prijavu tvog uređaja.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Za uređivanje tvoje lozinke, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
@@ -255,10 +255,10 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Ovo će ukloniti prijavu koja je spremljena u { -brand-short-name(case: "loc") } i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
-        [one] Ovo će ukloniti prijavu koja je spremljena u { -brand-short-name(case: "loc") } i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
-        [few] Ovo će ukloniti prijave koje su spremljene u { -brand-short-name(case: "loc") } i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
-       *[other] Ovo će ukloniti prijave koje su spremljene u { -brand-short-name(case: "loc") } i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
+        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
+       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koje se pojavljuje ovdje. Ovu radnju nećeš moći poništiti.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -268,10 +268,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
-        [one] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
-        [few] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
-       *[other] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+        [1] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
+        [one] Ovo će ukloniti prijavu spremljenu u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
+        [few] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
+       *[other] Ovo će ukloniti prijave spremljene u { -brand-short-name(case: "loc") } na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju ne možeš poništiti.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -291,10 +291,10 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { NUMBER($count) ->
-        [1] Ovo će ukloniti lozinku spremljenu u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
-        [one] Ovo će ukloniti lozinku spremljenu u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
-        [few] Ovo će ukloniti lozinke spremljene u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
-       *[other] Ovo će ukloniti lozinke spremljene u { -brand-short-name } i sva upozorenja o kršenju. Ne možete poništiti ovu radnju.
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene lozinke i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene lozinke i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
