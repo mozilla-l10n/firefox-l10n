@@ -62,7 +62,7 @@ addon-install-domain-blocked-by-policy = Tvoja je organizacija spriječila ovu s
 addon-install-full-screen-blocked = Instaliranje dodatka nije dopušteno za vrijeme ili prije ulaska u cjeloekranski prikaz.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = Dodatak je { $addonName } dodan u { -brand-short-name }
+webext-perms-sideload-menu-item = Dodatak { $addonName } je dodan u { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } zahtijeva nove dozvole

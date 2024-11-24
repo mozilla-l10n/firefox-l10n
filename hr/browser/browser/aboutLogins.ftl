@@ -364,7 +364,7 @@ about-logins-export-file-picker-title = Izvezi datoteku prijava
 # This must end in .csv
 about-logins-export-file-picker-default-filename = prijave.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = Izvezi lozinke iz { -brand-short-name }
+about-logins-export-file-picker-title2 = Izvezi lozinke iz { -brand-short-name(case: "gen") }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = lozinke.csv
