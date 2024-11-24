@@ -19,7 +19,7 @@ sanitize-dialog-title-everything =
     .title = Izbriši svu povijest
     .style = min-width: 34em
 clear-data-settings-label = Kad se zatvori, { -brand-short-name } bi automatski trebao sve izbrisati
-sanitize-on-shutdown-description = Automatski obriši sve označene stavke kada se { -brand-short-name } zatvori.
+sanitize-on-shutdown-description = Automatski izbriši sve označene stavke kada se { -brand-short-name } zatvori.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } je blokirao ovu s
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati zlonamjeran softver koji bi mogao ukrasti ili izbrisati osobne podatke na tvom računalu.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti na instaliranje programa koji štete tvom načinu surfanja (npr. mijenja početnu stranicu ili da ti prikazuje oglase na stranicama koje posjećuješ).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je blokirao ovu stranicu iz razloga što možda pokušava instalirati zlonamjerne aplikacije koje kradu ili brišu tvoje podatke (npr. slike, lozinke, poruke i kreditne kartice).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Savjetovanje pruža <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Idi natrag
 safeb-palm-see-details-label = Pogledaj detalje
@@ -32,7 +34,7 @@ safeb-blocked-malware-page-error-desc-no-override-sumo = Stranica <span data-l10
 
 ##
 
-safeb-blocked-malware-page-learn-more-sumo = Saznaj više o { -brand-short-name }ovoj zaštiti od phishinga i zlonamjernog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-malware-page-learn-more-sumo = Saznaj više o zaštiti { -brand-short-name(case: "gen") } od phishinga i zlonamjernog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -42,7 +44,7 @@ safeb-blocked-unwanted-page-error-desc-no-override = Stranica <span data-l10n-na
 
 ##
 
-safeb-blocked-unwanted-page-learn-more = Saznaj više o štetnom i neželjenom softveru na stranici <a data-l10n-name='learn_more_link'>politike o neželjenom softveru</a>. Saznaj više o { -brand-short-name } zaštiti od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-unwanted-page-learn-more = Saznaj više o štetnom i neželjenom softveru na stranici <a data-l10n-name='learn_more_link'>politike o neželjenom softveru</a>. Saznaj više o zaštiti { -brand-short-name(case: "gen") } od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
