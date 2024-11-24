@@ -41,6 +41,8 @@ neterror-generic-error = Pour une raison inconnue, { -brand-short-name } ne peut
 neterror-load-error-try-again = Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus tard ;
 neterror-load-error-connection = Si vous n’arrivez à naviguer sur aucun site, vérifiez la connexion au réseau de votre ordinateur ;
 neterror-load-error-firewall = Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que { -brand-short-name } est autorisé à accéder au Web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Si vous essayez de charger une page sur le réseau local, veuillez vérifier que { -brand-short-name } dispose des autorisations sur le réseau local dans les paramètres Confidentialité et sécurité de macOS.
 neterror-captive-portal = Ce réseau nécessite que vous vous connectiez à un compte pour utiliser Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

@@ -76,6 +76,8 @@ fp-cert-error-code = Code d’erreur : { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = En savoir plus sur les échecs de connexion sécurisée
+fp-learn-more-about-cert-issues = En savoir plus sur ces types de problèmes de certificat
 
 ## Messages used for certificate error titles
 
@@ -125,6 +127,8 @@ fp-certerror-body-title = Faites preuve de prudence, il semble y avoir un probl�
 fp-certerror-why-site-dangerous = Pourquoi ce site semble-t-il dangereux ?
 fp-certerror-what-can-you-do = Que pouvez-vous faire ?
 fp-certerror-advanced-title = Avancé
+fp-certerror-advanced-button = Avancé
+fp-certerror-hide-advanced-button = Masquer
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
