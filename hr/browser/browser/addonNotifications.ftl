@@ -78,7 +78,7 @@ webext-imported-addons = Završi instaliranje proširenja uvezenih u { -brand-sh
 addon-removal-title = Ukloniti { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Ukloni { $name } iz { -brand-shorter-name }?
+addon-removal-message = Ukloniti { $name } iz { -brand-shorter-name(case: "gen") }?
 addon-removal-button = Ukloni
 addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
 # Variables:
