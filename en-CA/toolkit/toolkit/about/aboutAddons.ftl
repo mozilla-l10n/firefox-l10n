@@ -297,6 +297,14 @@ find-more-themes = Find more themes
 # used for screen readers.
 addon-options-button =
     .aria-label = More Options
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
+    enhance productivity, improve media, change the way { -brand-product-name } looks, and
+    so much more. These small software programs are often developed by a third party. Here’s
+    a selection { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommends</a>
+    for exceptional security, performance, and functionality.
 
 ## Add-on actions
 
@@ -429,6 +437,7 @@ available-updates-heading = Available Updates
 recent-updates-heading = Recent Updates
 release-notes-loading = Loading…
 release-notes-error = Sorry, but there was an error loading the release notes.
+addon-permissions-empty2 = This extension doesn’t require any permissions.
 addon-permissions-empty = This extension doesn’t require any permissions
 addon-permissions-required = Required permissions for core functionality:
 addon-permissions-optional = Optional permissions for added functionality:
@@ -478,10 +487,24 @@ details-notification-unsigned-and-disabled-link = More Information
 details-notification-unsigned = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
 details-notification-unsigned2 =
     .message = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
+details-notification-hard-blocked-extension =
+    .message = This extension is blocked for violating Mozilla’s policies and has been disabled.
+details-notification-hard-blocked-other =
+    .message = This add-on is blocked for violating Mozilla’s policies and has been disabled.
 details-notification-unsigned-link = More Information
 details-notification-blocked = { $name } has been disabled due to security or stability issues.
 details-notification-blocked2 =
     .message = { $name } has been disabled due to security or stability issues.
+details-notification-blocked-link2 = See Details
+details-notification-soft-blocked-extension-disabled =
+    .message = This extension is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-extension-enabled =
+    .message = This extension violates Mozilla’s policies. Using it may be risky.
+details-notification-soft-blocked-other-disabled =
+    .message = This add-on is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-other-enabled =
+    .message = This add-on violates Mozilla’s policies. Using it may be risky.
+details-notification-softblocked-link2 = See Details
 details-notification-blocked-link = More Information
 details-notification-softblocked = { $name } is known to cause security or stability issues.
 details-notification-softblocked2 =
