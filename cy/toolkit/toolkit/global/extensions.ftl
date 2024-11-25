@@ -88,7 +88,7 @@ webext-perms-host-description-one-domain = Cael mynediad at eich data ym mhob gw
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [zero] Cael at eich data ar gyfer gwefannau mewn { $domainCount } parthau
         [one] Cael at eich data ar gyfer gwefannau mewn { $domainCount } parth
         [two] Cael at eich data ar gyfer gwefannau mewn { $domainCount } parth

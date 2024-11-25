@@ -195,7 +195,7 @@ about-webrtc-save-page-complete-msg = Stranica spremljena u: { $path }
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
 about-webrtc-channels =
-    { NUMBER($channels) ->
+    { $channels ->
         [one] { $channels } kanal
         [few] { $channels } kanala
        *[other] { $channels } kanala
@@ -204,7 +204,7 @@ about-webrtc-channels =
 # Variables:
 #  $packets (Number) - The number of packets received.
 about-webrtc-received-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Primljen je { $packets } paket
         [few] Primljena su { $packets } paketa
        *[other] Primljeno je { $packets } paketa
@@ -213,7 +213,7 @@ about-webrtc-received-label =
 # Variables:
 #  $packets (Number) - The number of packets lost.
 about-webrtc-lost-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Izgubljen je { $packets } paket
         [few] Izgubljena su { $packets } paketa
        *[other] Izgubljeno je { $packets } paketa
@@ -222,7 +222,7 @@ about-webrtc-lost-label =
 # Variables:
 #  $packets (Number) - The number of packets sent.
 about-webrtc-sent-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Poslan je { $packets } paket
         [few] Poslana su { $packets } paketa
        *[other] Poslano je { $packets } paketa

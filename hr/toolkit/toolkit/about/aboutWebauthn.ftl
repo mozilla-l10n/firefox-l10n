@@ -98,7 +98,7 @@ about-webauthn-auth-info-null = Nije podržano
 # Variables:
 #  $repeatCount (Number): number of tries left
 about-webauthn-samples-still-needed =
-    { NUMBER($repeatCount) ->
+    { $repeatCount ->
         [one] Potreban je još { $repeatCount } uzorak.
         [few] Potrebna su još { $repeatCount } uzorka.
        *[other] Potrebno je još { $repeatCount } uzoraka.

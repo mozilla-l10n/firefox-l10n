@@ -110,7 +110,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Seall tabaichean a dhùin thu o chionn goirid
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] Chaidh { $closedCount } taba { -brand-short-name } a dhùnadh
         [two] Chaidh { $closedCount } thaba { -brand-short-name } a dhùnadh
         [few] Chaidh { $closedCount } tabaichean { -brand-short-name } a dhùnadh

@@ -107,7 +107,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount }{ -brand-short-name } ᱴᱮᱵᱽ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
         [two] { $closedCount }{ -brand-short-name } ᱴᱮᱵᱽᱠᱤᱱ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
        *[other] { $closedCount }{ -brand-short-name } ᱴᱮᱵᱽᱠᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ

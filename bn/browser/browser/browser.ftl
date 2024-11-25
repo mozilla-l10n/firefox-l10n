@@ -432,19 +432,19 @@ browser-tab-audio-pip = পিকচার-ইন-পিকচার
 ##  $count (number): number of affected tabs
 
 browser-tab-mute =
-    { NUMBER($count) ->
+    { $count ->
         [1] ট্যাব নিঃশব্দ করুন৷
         [one] { $count } ট্যাব নিঃশব্দ করুন৷
        *[other] { $count } ট্যাবগুলি নিঃশব্দ করুন৷
     }
 browser-tab-unmute =
-    { NUMBER($count) ->
+    { $count ->
         [1] ট্যাব আনমিউট করুন৷
         [one] { $count } ট্যাব আনমিউট করুন৷
        *[other] { $count } ট্যাবগুলি আনমিউট করুন৷
     }
 browser-tab-unblock =
-    { NUMBER($count) ->
+    { $count ->
         [1] ট্যাব প্লে করুন
        *[other] PLAY { $count } TABS
     }

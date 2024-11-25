@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Дидани варақаҳои ба наздикӣ пӯшидашуда
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } варақаи «{ -brand-short-name }» пӯшида мебошад
        *[other] { $closedCount } варақаи «{ -brand-short-name }» пӯшида мебошанд
     }

@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Skoða gögnin þín fyrir vefsvæði
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Skoða gögnin þín fyrir vefsvæði á { $domainCount } léni
        *[other] Skoða gögnin þín fyrir vefsvæði á { $domainCount } lénum
     }

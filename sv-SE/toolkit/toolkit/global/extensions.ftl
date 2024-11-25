@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Åtkomst till data för webbplatser i
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
        *[other] Åtkomst till din data för webbplatser i { $domainCount } domäner
     }
 

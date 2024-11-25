@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Veire los onglets tampats recentament
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } onglet { -brand-short-name } tampat
        *[other] { $closedCount } onglets { -brand-short-name } tampats
     }

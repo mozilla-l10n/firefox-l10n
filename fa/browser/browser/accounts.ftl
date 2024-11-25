@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = نمایش زبانه‌های تازه بسته شده
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } { -brand-short-name } زبانه بسته شده است
        *[other] { $closedCount } { -brand-short-name } زبانه بسته شده است
     }

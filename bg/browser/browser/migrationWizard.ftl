@@ -103,7 +103,7 @@ migration-passwords-from-file-tsv-filter-title =
 # Variables:
 #  $newEntries (Number): the number of new successfully imported passwords
 migration-wizard-progress-success-new-passwords =
-    { NUMBER($newEntries) ->
+    { $newEntries ->
         [one] { $newEntries } добавена
        *[other] { $newEntries } добавени
     }
@@ -168,7 +168,7 @@ migration-safari-password-import-select-button = Изберете Файл
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-bookmarks =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } отметка
        *[other] { $quantity } отметки
     }
@@ -180,7 +180,7 @@ migration-wizard-progress-success-bookmarks =
 # Variables:
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-favorites =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } любим
        *[other] { $quantity } любими
     }
@@ -195,7 +195,7 @@ migration-wizard-progress-success-favorites =
 # Variables:
 #   $quantity (Number): the number of successfully imported extensions
 migration-wizard-progress-success-extensions =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } разширениe
        *[other] { $quantity } разширения
     }
@@ -215,7 +215,7 @@ migration-wizard-progress-partial-success-extensions = { $matched } от { $quan
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } парола
        *[other] { $quantity } пароли
     }
@@ -225,7 +225,7 @@ migration-wizard-progress-success-passwords =
 # Variables:
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } начин за плащане
        *[other] { $quantity } начина за плащане
     }

@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Acedi ai tiei dâts par sît tai domi
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Acedi ai tiei dâts par sîts in { $domainCount } domini
        *[other] Acedi ai tiei dâts par sîts in { $domainCount } dominis
     }

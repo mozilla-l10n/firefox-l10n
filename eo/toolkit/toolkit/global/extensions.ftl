@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Aliri viajn datumojn por retejoj en l
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Aliri viajn datumojn por retejoj en { $domainCount } nomregno
        *[other] Aliri viajn datumojn por retejoj en { $domainCount } nomregnoj
     }

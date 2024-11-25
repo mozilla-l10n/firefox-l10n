@@ -534,21 +534,21 @@ about-logins-import-report-no-change =
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">fhacal-faire ùr a chur ris</div>
         [two] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">fhacal-faire ùr a chur ris</div>
         [few] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">faclan-faire ùra a chur ris</div>
        *[other] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">facal-faire ùr a chur ris</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">innteart làithreach ùrachadh</div>
         [two] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">innteart làithreach ùrachadh</div>
         [few] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">innteartan làithreach ùrachadh</div>
        *[other] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">innteart làithreach ùrachadh</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">Bha { $count }</div> <div data-l10n-name="details">innteart dùblaichte ann</div> <div data-l10n-name="not-imported">(cha deach ion-phortadh)</div>
         [two] <div data-l10n-name="count">Bha { $count }</div> <div data-l10n-name="details">innteart dùblaichte ann</div> <div data-l10n-name="not-imported">(cha deach ion-phortadh)</div>
         [few] <div data-l10n-name="count">Bha { $count }</div> <div data-l10n-name="details">innteartan dùblaichte ann</div> <div data-l10n-name="not-imported">(cha deach ion-phortadh)</div>

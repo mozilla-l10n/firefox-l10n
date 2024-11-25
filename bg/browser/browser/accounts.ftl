@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Вижте наскоро затворените раздели
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } раздел на { -brand-short-name } е затворен
        *[other] { $closedCount } раздела на { -brand-short-name } са затворени
     }

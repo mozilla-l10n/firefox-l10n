@@ -48,7 +48,6 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = { $handler } で開く
     .accesskey = I
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -190,7 +189,7 @@ downloads-details =
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
 downloads-files-not-downloaded =
-    { NUMBER($num) ->
+    { $num ->
         [one] ファイルのダウンロードを中止しました。
        *[other] { $num } 個のファイルのダウンロードを中止しました。
     }

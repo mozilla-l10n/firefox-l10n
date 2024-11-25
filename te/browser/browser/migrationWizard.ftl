@@ -91,7 +91,7 @@ migration-safari-password-import-skip-button = దాటవేయి
 # Variables:
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords =
-    { NUMBER($quantity) ->
+    { $quantity ->
         [one] { $quantity } సంకేతపదం
        *[other] { $quantity } సంకేతపదాలు
     }

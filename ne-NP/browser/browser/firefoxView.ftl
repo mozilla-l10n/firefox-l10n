@@ -142,7 +142,7 @@ firefoxview-search-results-header = “{ $query }” को लागि खो�
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
-    { NUMBER($count) ->
+    { $count ->
         [one] { $count } साइट
        *[other] { $count } साइटहरू
     }
@@ -191,9 +191,6 @@ firefoxview-choose-browser-button = ब्राउजर छान्नुह�
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = देखाउन को लागी केहि छैन
-
-##
-
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

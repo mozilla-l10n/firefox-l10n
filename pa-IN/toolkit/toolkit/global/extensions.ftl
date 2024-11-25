@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = { $domain } ਡੋਮੇਨ ਵਿੱ
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
        *[other] { $domainCount } ਡੋਮੇਨਾਂ ਵਿੱਚ ਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
     }
 

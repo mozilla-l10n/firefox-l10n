@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Aceder aos seus dados para sites em d
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
        *[other] Aceder aos seus dados para sites em { $domainCount } domínios
     }
 

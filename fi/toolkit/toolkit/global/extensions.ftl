@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Käytä dataasi sivustoissa, jotka ov
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Käytä dataasi { $domainCount } verkkotunnuksen sivustoissa
        *[other] Käytä dataasi { $domainCount } verkkotunnuksen sivustoissa
     }
