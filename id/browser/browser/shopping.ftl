@@ -110,7 +110,7 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Kami menggunakan teknologi kecerdasan buatan dari { -fakespot-brand-full-name } untuk memeriksa keandalan ulasan produk. Hal ini hanya akan membantu Anda menilai kualitas ulasan, bukan kualitas produk.
 shopping-analysis-explainer-grades-intro = Kami menetapkan <strong>nilai huruf</strong> untuk setiap ulasan produk dari A hingga F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Peringkat yang disesuaikan</strong> hanya didasarkan pada ulasan yang kami yakini dapat diandalkan.
-shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-l10n-name="review-quality-url">bagaimana { -fakespot-brand-name } menentukan kualitas ulasan</a>.
+shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-l10n-name="review-quality-url">cara { -fakespot-brand-name } menentukan kualitas ulasan</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -186,7 +186,7 @@ shopping-onboarding-dynamic-subtitle-1 = Lihat seberapa andal ulasan produk di <
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Lihat seberapa andal ulasan produk di <b>{ $currentSite }</b> sebelum Anda membeli. Review Checker, fitur eksperimental dari { -brand-product-name }, dibangun langsung ke dalam peramban.
 shopping-onboarding-body = Menggunakan kekuatan { -fakespot-brand-full-name }, kami membantu Anda menghindari ulasan yang bias dan tidak otentik. Model AI kami selalu berkembang untuk melindungi Anda saat berbelanja. <a data-l10n-name="learn_more">Pelajari Lebih Lanjut</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Dengan memilih “{ shopping-onboarding-opt-in-button }“ Anda menyetujui { -brand-product-name }’s <a data-l10n-name="privacy_policy">kebijakan privasi</a> dan { -fakespot-brand-name }’s <a data-l10n-name="terms_of_use">ketentuan penggunaan.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Dengan memilih “{ shopping-onboarding-opt-in-button }“ Anda menyetujui <a data-l10n-name="privacy_policy">kebijakan privasi</a> { -brand-product-name } dan <a data-l10n-name="terms_of_use">ketentuan penggunaan</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Ya, coba!
 shopping-onboarding-not-now-button = Jangan sekarang
 shopping-onboarding-dialog-close-button =

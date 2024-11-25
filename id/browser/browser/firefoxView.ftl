@@ -234,7 +234,7 @@ firefoxview-choose-browser-button = Pilih peramban
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Tidak ada yang ditampilkan
-firefoxview-dont-remember-history-empty-description = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengendalikan aktivitas yang diingat { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengontrol aktivitas yang diingat { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Berdasarkan pengaturan Anda saat ini, { -brand-short-name } tidak mengingat aktivitas Anda saat menjelajah. Untuk mengubahnya, <a data-l10n-name="history-settings-url-two">ubah pengaturan riwayat untuk mengingat riwayat Anda</a>.
 firefoxview-dont-remember-history-empty-header-2 = Anda mengendalikan apa yang diingat { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Saat ini, { -brand-short-name } tidak mengingat aktivitas penjelajahan Anda. Untuk mengubahnya, <a data-l10n-name="history-settings-url-two">perbarui pengaturan riwayat Anda</a>.
