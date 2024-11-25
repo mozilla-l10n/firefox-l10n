@@ -86,7 +86,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
-    { NUMBER($tabCount) ->
+    { $tabCount ->
         [one] Zatvori { $tabCount } karticu?
         [few] Zatvori { $tabCount } kartice?
        *[other] Zatvori { $tabCount } kartica?
@@ -101,7 +101,7 @@ tabbrowser-confirm-close-tabs-checkbox = Potvrdi prije zatvaranja više kartica
 # Variables:
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
-    { NUMBER($windowCount) ->
+    { $windowCount ->
         [one] Zatvoriti { $windowCount } prozor?
         [few] Zatvoriti { $windowCount } prozora?
        *[other] Zatvoriti { $windowCount } prozora?

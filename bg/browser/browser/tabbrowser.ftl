@@ -79,7 +79,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
-    { NUMBER($tabCount) ->
+    { $tabCount ->
         [one] Да се затвори ли { $tabCount } раздел?
        *[other] Да се затворят ли { $tabCount } раздела?
     }

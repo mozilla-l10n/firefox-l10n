@@ -5,7 +5,7 @@
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
-    { NUMBER($retriesLeft) ->
+    { $retriesLeft ->
         [one] Netočan PIN. Imate još { $retriesLeft } pokušaj prije nego što trajno izgubite pristup vjerodajnicama na ovom uređaju.
         [few] Netočan PIN. Imate još { $retriesLeft } pokušaja prije nego što trajno izgubite pristup vjerodajnicama na ovom uređaju.
        *[other] Netočan PIN. Imate još { $retriesLeft } pokušaja prije nego što trajno izgubite pristup vjerodajnicama na ovom uređaju.
@@ -21,7 +21,7 @@ webauthn-specific-passkey-label = Lozinka za { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
-    { NUMBER($retriesLeft) ->
+    { $retriesLeft ->
         [one] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaj. Pokušajte ponovno.
         [few] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaja. Pokušajte ponovno.
        *[other] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaja. Pokušajte ponovno.

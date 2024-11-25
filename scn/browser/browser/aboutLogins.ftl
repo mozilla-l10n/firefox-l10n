@@ -53,14 +53,14 @@ login-list-count =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count =
-    { NUMBER($total) ->
+    { $total ->
         [one] { $count } di { $total } cridinziali
        *[other] { $count } di { $total } cridinziali
     }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] { $count } chiavi
        *[other] { $count } chiavi
     }
@@ -68,7 +68,7 @@ login-list-count2 =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
-    { NUMBER($total) ->
+    { $total ->
         [one] { $count } di { $total } chiavi
        *[other] { $count } di { $total } chiavi
     }
@@ -230,68 +230,68 @@ about-logins-confirm-remove-dialog-confirm-button = Leva
 ##   $count (number) - Number of items
 
 about-logins-confirm-remove-all-dialog-confirm-button-label =
-    { NUMBER($count) ->
+    { $count ->
         [1] Leva
         [one] Leva
        *[other] Leva tuttu
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
-    { NUMBER($count) ->
+    { $count ->
         [1] Se, leva sta cridinziali
         [one] Se, leva sta cridinziali
        *[other] Se, leva sti cridinziali
     }
 about-logins-confirm-remove-all-dialog-title =
-    { NUMBER($count) ->
+    { $count ->
         [one] Livari { $count } cridinziali?
        *[other] Livari { $count } cridinziali?
     }
 about-logins-confirm-remove-all-dialog-message =
-    { NUMBER($count) ->
+    { $count ->
         [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
         [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
        *[other] Chistu cancella i cridinziali sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
-    { NUMBER($count) ->
+    { $count ->
         [one] Voi cancillari { $count } cridinziali di tutti i dispusitivi?
        *[other] Voi cancillari tutti i { $count } cridinziali di tutti i dispusitivi?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
-    { NUMBER($count) ->
+    { $count ->
         [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
         [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
        *[other] Chistu cancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Se, cancella a chiavi
         [one] Se, cancella a chiavi
        *[other] Se, cancella i chiavi
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Voi cancillari { $count } chiavi?
        *[other] Voi cancillari tutti i { $count } chiavi?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
         [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
        *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Voi cancillari { $count } chiavi di tutti i dispusitivi?
        *[other] Voi cancillari tutti i { $count } chiavi di tutti i dispusitivi?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
         [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
        *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
@@ -390,33 +390,33 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-title = Mpurtazzioni finuta
 about-logins-import-dialog-items-added =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>Novi cridinziali:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Novi cridinziali:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>Cridinziali esistenti attualizzati:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Cridinziali esistenti attualizzati:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Cridinziali duppi truvati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Novi chiavi:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Elimenti esistenti attualizzati:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Elimenti duppi truvati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
     }
 about-logins-import-dialog-items-error =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Erruri:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun foru mpurtati)</span>
     }
 about-logins-import-dialog-done = Fattu
@@ -460,31 +460,31 @@ about-logins-import-report-row-description-error-missing-field = Erruri: manca {
 ##  $count (number) - The number of affected elements
 
 about-logins-import-report-added =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi cridinziali agghiunciuti</div>
     }
 about-logins-import-report-modified =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">cridinziali esistenti attualizzati</div>
     }
 about-logins-import-report-no-change =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">cridinziali duppi</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi chiavi agghiunciuti</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elimenti esisetnti attualizzati</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elimenti duppi</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
     }
 about-logins-import-report-error =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erruri</div> <div data-l10n-name="not-imported">(nun foru mpurtati)</div>
     }
 

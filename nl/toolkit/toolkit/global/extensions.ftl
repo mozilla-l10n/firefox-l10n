@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Uw gegevens voor websites in { $domai
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Uw gegevens voor websites in { $domainCount } domein benaderen
        *[other] Uw gegevens voor websites in { $domainCount } domeinen benaderen
     }

@@ -185,7 +185,7 @@ firefoxview-search-results-header = Резултати претраге за „
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
-    { NUMBER($count) ->
+    { $count ->
         [one] { $count } страница
         [few] { $count } странице
        *[other] { $count } страница

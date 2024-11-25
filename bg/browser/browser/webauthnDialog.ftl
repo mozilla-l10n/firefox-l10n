@@ -5,7 +5,7 @@
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
-    { NUMBER($retriesLeft) ->
+    { $retriesLeft ->
         [one] Неправилен PIN. Остава ви само { $retriesLeft } опит преди да загубите достъпа до идентификационните данни на това устройство.
        *[other] Неправилен PIN. Остават ви { $retriesLeft } опита преди да загубите достъпа до идентификационните данни на това устройство.
     }
@@ -20,7 +20,7 @@ webauthn-specific-passkey-label = Ключ-парола за { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
-    { NUMBER($retriesLeft) ->
+    { $retriesLeft ->
         [one] Проверката на потребител е неуспешна. Остава само { $retriesLeft } опит. Опитайте отново.
        *[other] Проверката на потребител е неуспешна. Остават { $retriesLeft } опита. Опитайте отново.
     }

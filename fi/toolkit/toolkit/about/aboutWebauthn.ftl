@@ -126,7 +126,7 @@ about-webauthn-auth-info-null = Ei tuettu
 # Variables:
 #  $repeatCount (Number): number of tries left
 about-webauthn-samples-still-needed =
-    { NUMBER($repeatCount) ->
+    { $repeatCount ->
         [one] { $repeatCount } näyte tarvitaan vielä.
        *[other] { $repeatCount } näytettä tarvitaan vielä.
     }

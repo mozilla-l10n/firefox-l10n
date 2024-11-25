@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Vaata hiljuti suletud kaarte
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } { -brand-short-name }i kaart suleti
        *[other] { $closedCount } { -brand-short-name }i kaarti suleti
     }

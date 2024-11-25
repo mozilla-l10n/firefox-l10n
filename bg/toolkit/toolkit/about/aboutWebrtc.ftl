@@ -151,14 +151,8 @@ about-webrtc-remote-send-ssrc = Отдалечено изпращане на SSR
 ## PeerConnection configuration disclosure
 
 
-##
-
-
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
-
-
-##
 
 
 ## These are paths used for saving the about:webrtc page or log files so
@@ -179,7 +173,7 @@ about-webrtc-save-page-complete-msg = Страницата е запазена �
 # Variables:
 #  $packets (Number) - The number of packets received.
 about-webrtc-received-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Получен { $packets } пакет
        *[other] Получени { $packets } пакета
     }
@@ -187,7 +181,7 @@ about-webrtc-received-label =
 # Variables:
 #  $packets (Number) - The number of packets lost.
 about-webrtc-lost-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Загубен { $packets } пакет
        *[other] Загубени { $packets } пакета
     }
@@ -195,7 +189,7 @@ about-webrtc-lost-label =
 # Variables:
 #  $packets (Number) - The number of packets sent.
 about-webrtc-sent-label =
-    { NUMBER($packets) ->
+    { $packets ->
         [one] Изпратен { $packets } пакет
        *[other] Изпратени { $packets } пакета
     }

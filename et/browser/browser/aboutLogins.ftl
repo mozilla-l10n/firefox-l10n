@@ -265,33 +265,33 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Jah, eemalda parool
         [one] Jah, eemalda parool
        *[other] Jah, eemalda paroolid
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Kas eemaldada parool?
        *[other] Kas eemaldada { $count } parooli?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] See tegevus eemaldab { -brand-short-name }i salvestatud parooli ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
         [one] See tegevus eemaldab { -brand-short-name }i salvestatud parooli ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab { -brand-short-name }i salvestatud paroolid ja lekkimise teavitused. Seda pole võimalik tagasi võtta.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Kas soovid eemaldada ühe parooli kõigist seadmetest?
        *[other] Kas soovid eemaldada { $count } parooli kõigist seadmetest?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] See tegevus eemaldab { -brand-short-name }i salvestatud parooli kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
         [one] See tegevus eemaldab { -brand-short-name }i salvestatud parooli kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestatud paroolid kõigist sünkroniseeritud seadmetest. Lisaks eemaldatakse kõik siia kuvatavad lekkimise teavitused. Seda toimingut pole võimalik tagasi võtta.
@@ -405,15 +405,15 @@ about-logins-import-dialog-items-no-change =
        *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ei imporditud)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Uusi lisatud paroole:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Olemasolevaid uuendatud kasutajatunnuseid:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei imporditud)</span>
     }
 about-logins-import-dialog-items-error =
@@ -477,17 +477,17 @@ about-logins-import-report-no-change =
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus parool lisatud</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uut parooli lisatud</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolev kasutajatunnus uuendatud</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolevat kasutajatunnust uuendatud</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaat</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
     }

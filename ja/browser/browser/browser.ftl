@@ -321,7 +321,7 @@ bookmark-panel-cancel =
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
     .label =
-        { NUMBER($count) ->
+        { $count ->
             [1] ブックマークを削除
            *[other] { $count } 個のブックマークを削除
         }
@@ -432,17 +432,17 @@ browser-tab-audio-pip = ピクチャーインピクチャー
 ##  $count (number): number of affected tabs
 
 browser-tab-mute =
-    { NUMBER($count) ->
+    { $count ->
         [1] タブをミュート
        *[other] { $count } 個のタブをミュート
     }
 browser-tab-unmute =
-    { NUMBER($count) ->
+    { $count ->
         [1] タブのミュートを解除
        *[other] { $count } 個のタブのミュートを解除
     }
 browser-tab-unblock =
-    { NUMBER($count) ->
+    { $count ->
         [1] タブのメディアを再生
        *[other] { $count } 個のタブのメディアを再生
     }
@@ -675,7 +675,7 @@ urlbar-group-recent-searches =
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
-  .label = { $engine } の検索トレンド
+    .label = { $engine } の検索トレンド
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = 検索トレンドを表示しない
@@ -1053,15 +1053,15 @@ popup-notification-addon-privatebrowsing-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
-    { NUMBER($popupCount) ->
+    { $popupCount ->
         [1] { -brand-short-name } がこのサイトでポップアップウィンドウをブロックしました。
        *[other] { -brand-short-name } がこのサイトで { $popupCount } 個のポップアップウィンドウをブロックしました。
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = 
-    { NUMBER($popupCount) ->
+popup-warning-exceeded-message =
+    { $popupCount ->
        *[other] { -brand-short-name } がこのサイトで { $popupCount } 個以上のポップアップウィンドウをブロックしました。
     }
 popup-warning-button =

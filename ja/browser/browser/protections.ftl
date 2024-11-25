@@ -112,7 +112,7 @@ monitor-breaches-resolved-description = あなたのメールアドレスを新�
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
-    { NUMBER($numBreaches) ->
+    { $numBreaches ->
        *[other] { $numBreaches } 件中 { $numBreachesResolved } 件の漏洩データを解決済みとしてマークしました。
     }
 # Variables:
@@ -124,12 +124,14 @@ monitor-partial-breaches-motivation-title-end = ほぼ完了しました。も�
 monitor-partial-breaches-motivation-description = { -monitor-brand-short-name } で残りの漏洩データを解決しましょう。
 monitor-resolve-breaches-link = 漏洩データを解決
     .title = { -monitor-brand-short-name } で漏洩データを解決
+
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
 ##
 ## Variables:
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
+
 bar-tooltip-social =
     .title = ソーシャルメディアトラッカー
     .aria-label = { $count } 個のソーシャルメディアトラッカー ({ $percentage }%)

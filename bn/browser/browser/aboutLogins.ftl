@@ -265,33 +265,33 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] হ্যাঁ, পাসওয়ার্ড মুছে ফেলুন
         [one] হ্যাঁ, পাসওয়ার্ডটি মুছে ফেলুন
        *[other] হ্যাঁ, পাসওয়ার্ডসমূহ মুছে ফেলুন
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] { $count } টি পাসওয়ার্ড মুছে ফেলবেন?
        *[other] { $count } গুলো পাসওয়ার্ড মুছে ফেলবেন?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ড মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
         [one] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডটি মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
        *[other] এটি { -brand-short-name }-এ সংরক্ষিত পাসওয়ার্ডসমূহ মুছে ফেলবে এবং যে কোনও লঙ্ঘনের সতর্কতা ব্যবস্থা বন্ধ করে দেবে৷ আপনি এটি আনডু (ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] সমস্ত ডিভাইস থেকে { $count } টি পাসওয়ার্ড মুছে ফেলবেন?
        *[other] সমস্ত ডিভাইস থেকে { $count } গুলো পাসওয়ার্ড মুছে ফেলবেন?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
         [one] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
        *[other] এটি আপনার সমস্ত সিঙ্ক করা ডিভাইসে { -brand-short-name } এর সংরক্ষিত সমস্ত পাসওয়ার্ড মুছে ফেলবে৷ এটি এখানে উপস্থিত যেকোনও লঙ্ঘনের সতর্কতা বার্তাও সরিয়ে দেবে৷ আপনি আনডু (এই ক্রিয়াটিকে পূর্বাবস্থায় ফেরাতে) করতে পারবেন না৷
@@ -405,17 +405,17 @@ about-logins-import-dialog-items-no-change =
        *[other] <span>ডুপ্লিকেট লগইন পাওয়া গেছেঃ</span><span data-l10n-name="count">{ $count }-টি</span><span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
        *[other] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>বিদ্যমান এনট্রি আপডেট করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>বিদ্যমান এনট্রিসমূহ আপডেট করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>ডুপ্লিকেট এনট্রি পাওয়া গেছে:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span> >
        *[other] <span>ডুপ্লিকেট এনট্রিসমূহ পাওয়া গেছে:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span> >
     }
@@ -480,17 +480,17 @@ about-logins-import-report-no-change =
        *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">নতুন পাসওয়ার্ড যোগ করা হয়েছে</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">নতুন পাসওয়ার্ড সমূহ যোগ করা হয়েছে</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">বিদ্যমান এনট্রি আপডেট করা হয়েছে</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">বিদ্যমান এনট্রিসমূহ আপডেট করা হয়েছে</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রি</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ডুপ্লিকেট এনট্রিসমূহ</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
     }

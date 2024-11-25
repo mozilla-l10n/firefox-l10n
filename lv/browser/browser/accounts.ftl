@@ -107,7 +107,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Skatīt nesen aizvērtās cilnes
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [zero] { $closedCount } { -brand-short-name } cilne ir aizvērta
         [one] { $closedCount } { -brand-short-name } cilnes ir aizvērtas
        *[other] { $closedCount } { -brand-short-name } cilnes ir aizvērtas

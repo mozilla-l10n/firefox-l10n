@@ -18,7 +18,7 @@ confirmation-hint-screenshot-copied = Снимак екрана је копир�
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
-    { NUMBER($tabCount) ->
+    { $tabCount ->
         [one] Затворена { $tabCount } картица
         [few] Затворене { $tabCount } картице
        *[other] Затворено { $tabCount } картица

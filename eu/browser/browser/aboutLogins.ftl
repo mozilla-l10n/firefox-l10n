@@ -259,7 +259,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
-       *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name(kasua: "0") } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
+       *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name(kasua: 0) } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -276,20 +276,20 @@ about-logins-confirm-remove-all-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
         [one] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
        *[other] Honek { -brand-short-name }(e)n gordetako pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Kendu pasahitza gailu guztietatik?
        *[other] Kendu { $count } pasahitz gailu guztietatik?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Honek { -brand-short-name }(e)n gordetako pasahitza sinkronizatutako zure gailu guztietatik ezabatuko du. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.
         [one] Honek { -brand-short-name }(e)n gordetako pasahitza sinkronizatutako zure gailu guztietatik ezabatuko du. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.
        *[other] Honek { -brand-short-name }(e)n gordetako pasahitzak sinkronizatutako zure gailu guztietatik ezabatuko ditu. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.

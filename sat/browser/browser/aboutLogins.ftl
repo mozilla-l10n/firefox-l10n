@@ -290,7 +290,7 @@ about-logins-confirm-remove-all-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
         [one] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
         [two] ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱚᱪᱚᱜᱼᱟᱭ ᱾  ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
@@ -298,14 +298,14 @@ about-logins-confirm-remove-all-dialog-message2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
         [two] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
        *[other] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
         [one] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
         [two] ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱥᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-short-name } ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ ᱚᱪᱚᱜᱼᱟᱭ ᱾ ᱱᱚᱣᱟ ᱦᱚᱸ ᱚᱪᱚᱜᱼᱟ ᱡᱟᱦᱟᱱ ᱵᱨᱤᱪ ᱮᱞᱟᱨᱴ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱸᱰᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱢ ᱩᱞᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
@@ -423,19 +423,19 @@ about-logins-import-dialog-items-no-change =
        *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
         [two] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
         [two] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱤᱱ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span> ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞᱠᱚ ᱱᱟᱶᱟ ᱟᱠᱟᱱᱟ:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
         [two] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
        *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱞᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
@@ -505,19 +505,19 @@ about-logins-import-report-no-change =
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ ᱠᱚ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱤᱱ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱤᱱ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱮᱞᱠᱚ ᱛᱟᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤᱠᱤᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱮᱱᱴᱨᱤ ᱠᱚ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ)</div>

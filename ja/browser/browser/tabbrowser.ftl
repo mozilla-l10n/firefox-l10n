@@ -20,7 +20,7 @@ tabbrowser-container-tab-title = { $title } — { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブを閉じます
            *[other] { $tabCount } 個のタブを閉じます
         }
@@ -28,7 +28,7 @@ tabbrowser-close-tabs-button =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブを閉じます
            *[other] { $tabCount } 個のタブを閉じます
         }
@@ -41,7 +41,7 @@ tabbrowser-close-tabs-tooltip =
 #   $shortcut (String): The keyboard shortcut for "Mute tab".
 tabbrowser-mute-tab-audio-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブをミュートします ({ $shortcut })
            *[other] { $tabCount } 個のタブをミュートします ({ $shortcut })
         }
@@ -49,25 +49,25 @@ tabbrowser-mute-tab-audio-tooltip =
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブのミュートを解除します ({ $shortcut })
            *[other] { $tabCount } 個のタブのミュートを解除します ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブをミュートします
            *[other] { $tabCount } 個のタブをミュートします
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブのミュートを解除します
            *[other] { $tabCount } 個のタブのミュートを解除します
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
-        { NUMBER($tabCount) ->
+        { $tabCount ->
             [one] タブの音声を再生します
            *[other] { $tabCount } 個のタブの音声を再生します
         }

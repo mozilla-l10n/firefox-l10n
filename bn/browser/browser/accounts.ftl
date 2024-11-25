@@ -104,7 +104,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = সম্প্রতি বন্ধ হওয়া ট্যাবগুলি দেখুন৷
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } { -brand-short-name } ট্যাবটি বন্ধ
        *[other] { $closedCount } { -brand-short-name } ট্যাবসমূহ বন্ধ
     }

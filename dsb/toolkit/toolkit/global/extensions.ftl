@@ -84,7 +84,7 @@ webext-perms-host-description-one-domain = Mějśo pśistup k swójim datam za s
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Mějśo pśistup k swójim datam za sedła w { $domainCount } domenje
         [two] Mějśo pśistup k swójim datam za sedła w { $domainCount } domenoma
         [few] Mějśo pśistup k swójim datam za sedła w { $domainCount } domenach

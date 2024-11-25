@@ -83,12 +83,12 @@ login-list-last-used-option = последњем коришћењу
 login-list-intro-title = Нема пронађених пријава
 login-list-intro-title2 = Нема сачуваних лозинки
 login-list-intro-description =
-    Овде ће се појавити лозинке које сачувате у { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "loc") }
-        [feminine] { -brand-product-name(case: "loc") }
-        [neuter] { -brand-product-name(case: "loc") }
-       *[other] програму { -brand-product-name }
-    }.
+    { -brand-product-name.gender ->
+        [masculine] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
+        [feminine] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
+        [neuter] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
+       *[other] Овде ће се појавити лозинке које сачувате у програму { -brand-product-name }.
+    }
 about-logins-login-list-empty-search-title = Пријаве нису пронађене
 about-logins-login-list-empty-search-title2 = Нема пронађених лозинки
 about-logins-login-list-empty-search-description = Нема резултата који одговарају критеријумима претраге.
@@ -112,12 +112,12 @@ about-logins-list-section-week = Последњих 7 дана
 about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
-    Ако сте сачували лозинке у { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "loc") }
-        [feminine] { -brand-product-name(case: "loc") }
-        [neuter] { -brand-product-name(case: "loc") }
-       *[other] програму { -brand-product-name }
-    } на другом уређају, ево како их можете преузети:
+    { -brand-product-name.gender ->
+        [masculine] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
+        [feminine] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
+        [neuter] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
+       *[other] Ако сте сачували лозинке у програму { -brand-product-name } на другом уређају, ево како их можете преузети:
+    }
 login-intro-instructions-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке.
 about-logins-login-intro-heading-message = Сачувај своје лозинке на безбедном месту
 login-intro-description2 = Све лозинке које сачуваш у { -brand-product-name } су шифроване. Ми пратимо цурења података и обавестићемо вас ако сте у њима. <a data-l10n-name="breach-alert-link">Сазнај више</a>
@@ -262,20 +262,20 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
         [1]
-            Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити лозинку коју сте сачували у програму { -brand-short-name }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
             }
        *[other]
-            Овим ћете уклонити лозинке коју сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити лозинке коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити лозинке коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити лозинке коју сте сачували у { -brand-short-name(case: "loc") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити лозинке коју сте сачували у програму { -brand-short-name }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
             }
-    }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Уклонити { $count } пријаву са свих уређаја?
@@ -285,37 +285,37 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1]
-            Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
-            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити лозинку коју сте сачували у програму { -brand-short-name } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            }
         [one]
-            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
-            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити све лозинке које сте сачували у програму { -brand-short-name } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            }
         [few]
-            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
-            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити све лозинке које сте сачували у програму { -brand-short-name } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            }
        *[other]
-            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
-                [masculine] { -brand-short-name(case: "loc") }
-                [feminine] { -brand-short-name(case: "loc") }
-                [neuter] { -brand-short-name(case: "loc") }
-               *[other] програму { -brand-short-name }
-            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            { -brand-short-name.gender ->
+                [masculine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [feminine] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [neuter] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[other] Овим ћете уклонити све лозинке које сте сачували у програму { -brand-short-name } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+            }
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Да, уклони лозинку
         [one] Да, уклони лозинку
         [few] Да, уклони лозинке
@@ -323,14 +323,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Уклони { $count } лозинку?
         [few] Уклони { $count } лозинке?
        *[other] Уклони { $count } лозинки?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
         [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
         [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } и сва упозорења о цурењу. Не можете поништити ову радњу.
@@ -338,14 +338,14 @@ about-logins-confirm-remove-all-dialog-message2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] Уклони { $count } лозинку са свих уређаја?
         [few] Уклони { $count } лозинке са свих уређаја?
        *[other] Уклони свих { $count } лозинки са свих уређаја?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
         [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
         [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
@@ -445,19 +445,19 @@ about-logins-import-dialog-items-no-change =
        *[other] <span>Пронађено дупликата:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>Додана нова лозинка:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Додане нове лознке:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Додано нових лозинки:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>Ажуриран постојећи унос:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Ажурирана постојећа уноса:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ажурирано постојећих уноса:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <span>Пронађен дупли унос: </span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезен)</span>
         [few] <span>Пронађена дупла уноса:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(нису увезени)</span>
        *[other] <span>Пронађено дуплих уноса:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(нису увезени)</span>
@@ -484,12 +484,12 @@ about-logins-import-dialog-error-try-import-again = Покушај увоз по
 about-logins-import-dialog-error-cancel = Откажи
 about-logins-import-report-title = Сажетак увоза
 about-logins-import-report-description =
-    Подаци за пријаву су увезени у { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Подаци за пријаву су увезени у { -brand-short-name(case: "acc") }.
+        [feminine] Подаци за пријаву су увезени у { -brand-short-name(case: "acc") }.
+        [neuter] Подаци за пријаву су увезени у { -brand-short-name(case: "acc") }.
+       *[other] Подаци за пријаву су увезени у програм { -brand-short-name }.
+    }
 about-logins-import-report-description2 = Лозинке су увезене у { -brand-short-name }.
 #
 # Variables:
@@ -533,19 +533,19 @@ about-logins-import-report-no-change =
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликата пријава</div> <div data-l10n-name="not-imported">(није увезено)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нова лозинка је додана</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нове лозинке су додане</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових лозинки је додано</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећи унос је ажуриран</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећа уноса су ажурирана</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">постојећих уноса је ажурирано</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупли унос</div> <div data-l10n-name="not-imported">(није увезен)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупла уноса</div> <div data-l10n-name="not-imported">(нису увезени)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дуплих уноса</div> <div data-l10n-name="not-imported">(нису увезени)</div>

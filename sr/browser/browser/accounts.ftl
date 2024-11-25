@@ -107,7 +107,7 @@ account-multiple-tabs-arriving-from-unknown-device =
 
 account-view-recently-closed-tabs = Прегледај недавно затворене картице
 account-tabs-closed-remotely =
-    { NUMBER($closedCount) ->
+    { $closedCount ->
         [one] { $closedCount } зетворена { -brand-short-name } картица
         [few] { $closedCount } зетворене { -brand-short-name } картице
        *[other] { $closedCount } затворених { -brand-short-name } картица

@@ -262,7 +262,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] بله، گذرواژه را حذف کنید
        *[other] بله، گذرواژه‌ها را حذف کنید
     }
@@ -274,7 +274,7 @@ about-logins-confirm-remove-all-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { NUMBER($count) ->
+    { $count ->
         [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
         [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
        *[other] این عمل گذرواژه‌های ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
@@ -287,7 +287,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { NUMBER($count) ->
+    { $count ->
         [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
         [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
        *[other] این عمل همه گذرواژه‌ها ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
@@ -401,15 +401,15 @@ about-logins-import-dialog-items-no-change =
        *[other] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
     }
 about-logins-import-dialog-items-added2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>گذرواژهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>ورودی‌های موجود به‌روزرسانی شد:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <span>ورودی‌های تکراری یافت شد:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(درون‌ریزی نشد)</span>
     }
 about-logins-import-dialog-items-error =
@@ -473,15 +473,15 @@ about-logins-import-report-no-change =
        *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود تکراری</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
     }
 about-logins-import-report-added2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">گذرواژه‌های جدید اضافه شدند</div>
     }
 about-logins-import-report-modified2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورودی‌های موجود به‌روزرسانی شدند</div>
     }
 about-logins-import-report-no-change2 =
-    { NUMBER($count) ->
+    { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورودی‌های تکراری</div> <div data-l10n-name="not-imported">(درون‌ریزی نشد)</div>
     }
 about-logins-import-report-error =
