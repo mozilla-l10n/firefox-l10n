@@ -49,6 +49,7 @@ callout-pdfjs-draw-button = Paham!
 fx-view-discoverability-title = Tidak bermaksud menutup tab tersebut?
 fx-view-discoverability-subtitle = Temukan dan buka kembali dengan cepat di sini. Kami menyimpan riwayat tab yang baru saja ditutup untuk Anda.
 fx-view-discoverability-primary-button-label = Buka { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Tutup
 
 ## Split Dismiss Button Labels
 
@@ -72,8 +73,8 @@ sidebar-callout-survey-privacy-notice-link = Pemberitahuan Privasi
 sidebar-callout-survey-very-satisfied = Sangat puas
 sidebar-callout-survey-satisfied = Puas
 sidebar-callout-survey-neutral = Netral
-sidebar-callout-survey-dissatisfied = Tidak puas
-sidebar-callout-survey-very-dissatisfied = Sangat tidak puas
+sidebar-callout-survey-dissatisfied-2 = Tidak puas
+sidebar-callout-survey-very-dissatisfied-2 = Sangat tidak puas
 sidebar-callout-survey-dont-use-it = Saya tidak menggunakannya
 sidebar-callout-survey-productive-question =
     Sejauh mana Anda setuju atau tidak setuju dengan pernyataan ini:<br/>
@@ -85,7 +86,7 @@ sidebar-callout-survey-strongly-disagree = Sangat tidak setuju
 sidebar-callout-survey-features-question = Berikut ini adalah fitur bilah samping potensial. Mana yang paling meningkatkan produktivitas Anda di { -brand-short-name }?
 sidebar-callout-survey-split-view = Lihat dua situs web sekaligus, dalam tampilan terpisah secara berdampingan
 sidebar-callout-survey-keep-website-open = Jaga situs web, seperti surel atau kalender, terbuka di bilah samping saat Anda menjelajah
-sidebar-callout-survey-saved-websites = Akses cepat ke semua situs web Anda yang tersimpan
+sidebar-callout-survey-saved-websites-2 = Akses cepat ke markah Anda
 sidebar-callout-survey-none-of-above = Tidak satu pun di atas
 sidebar-callout-survey-submit = Kirim
 sidebar-callout-survey-thank-you = Terima kasih atas tanggapan Anda!
