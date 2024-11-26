@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Chiudere { $tabCount } schede?
 tabbrowser-confirm-close-tabs-button = Chiudi schede
+tabbrowser-ask-close-tabs-checkbox = Chiedi prima di chiudere più schede
 tabbrowser-confirm-close-tabs-checkbox = Avvisa quando si tenta di chiudere più schede
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Chiudere la finestra e uscire da 
 tabbrowser-confirm-close-tabs-with-key-button = Chiudi { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Chiedi prima di uscire con { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Chiedi conferma prima di uscire con { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Uscire da { -brand-short-name } o chiudere la scheda corrente?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Esci da { -brand-short-name }
+       *[other] Chiudi { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Chiudi la scheda corrente
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento
+do-not-track-removal = Il segnale “Do Not Track” non è più supportato
 do-not-track-description2 =
     .label = Invia ai siti web una richiesta “Do Not Track”
     .accesskey = b
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Apri link in schede invece di nuove finestre
     .accesskey = A
+ask-on-close-multiple-tabs =
+    .label = Chiedi prima di chiudere più schede
+    .accesskey = d
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Chiedi prima di uscire con { $quitKey }
+    .accesskey = u
 confirm-on-close-multiple-tabs =
     .label = Chiedi conferma quando si chiudono più schede
     .accesskey = d
