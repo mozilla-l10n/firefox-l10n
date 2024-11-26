@@ -549,6 +549,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description-new = Konten luar biasa yang dikelola oleh { $provider }, bagian dari keluarga { -brand-product-name }
+home-prefs-recommended-by-description-generic = Konten luar biasa yang dikurasi oleh keluarga { -brand-product-name }
 
 ##
 
@@ -608,6 +609,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Tampilkan saran pencarian di hasil bilah alamat
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Tampilkan istilah pencarian di bilah alamat pada laman hasil
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -751,6 +756,9 @@ sync-currently-syncing-creditcards = Kartu kredit
 sync-currently-syncing-payment-methods = Metode pembayaran
 sync-currently-syncing-addons = Pengaya
 sync-currently-syncing-settings = Pengaturan
+sync-manage-options =
+    .label = Kelola sinkronisasi…
+    .accesskey = K
 sync-change-options =
     .label = Ubah
     .accesskey = U
@@ -764,6 +772,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Putuskan…
     .buttonaccesskeyextra2 = P
+sync-choose-dialog-subtitle = Perubahan pada daftar item yang akan disinkronkan akan tercermin di semua perangkat Anda yang terhubung.
 sync-engine-bookmarks =
     .label = Markah
     .accesskey = M
@@ -778,6 +787,10 @@ sync-engine-logins-passwords =
     .label = Info masuk dan sandi
     .tooltiptext = Nama pengguna dan sandi yang Anda simpan
     .accesskey = I
+sync-engine-passwords =
+    .label = Sandi
+    .tooltiptext = Sandi yang disimpan
+    .accesskey = S
 sync-engine-addresses =
     .label = Alamat
     .tooltiptext = Alamat surat yang Anda simpan (hanya desktop)
@@ -786,6 +799,10 @@ sync-engine-creditcards =
     .label = Kartu kredit
     .tooltiptext = Nama, nomor, dan tanggal kedaluwarsa (hanya desktop)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Metode pembayaran
+    .tooltiptext = Nama, nomor kartu, tanggal kedaluwarsa
+    .accesskey = b
 sync-engine-addons =
     .label = Pengaya
     .tooltiptext = Ekstensi dan tema untuk Firefox desktop
@@ -794,6 +811,13 @@ sync-engine-settings =
     .label = Pengaturan
     .tooltiptext = Pengaturan Umum, Privasi, dan Keamanan yang Anda ubah
     .accesskey = P
+sync-choose-what-to-sync-dialog4 =
+    .title = Kelola apa yang disinkronkan di semua perangkat Anda yang terhubung
+    .style = min-width: 36em;
+    .buttonlabelaccept = Simpan
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Putuskan…
+    .buttonaccesskeyextra2 = P
 
 ## The device name controls.
 
@@ -835,16 +859,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Sandi
+    .searchkeywords = login
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Minta untuk menyimpan sandi
+    .accesskey = s
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
 forms-generate-passwords =
     .label = Sarankan dan hasilkan kata sandi yang kuat
     .accesskey = u
+forms-suggest-passwords =
+    .label = Sarankan sandi yang kuat
+    .accesskey = k
 forms-breach-alerts =
     .label = Tampilkan peringatan tentang kata sandi untuk situs web yang diretas
     .accesskey = w
 forms-breach-alerts-learn-more-link = Pelajari lebih lanjut
+preferences-relay-integration-checkbox =
+    .label = Sarankan topeng surel { -relay-brand-name } untuk melindungi alamat surel Anda
+preferences-relay-integration-checkbox2 =
+    .label = Sarankan topeng surel { -relay-brand-name } untuk melindungi alamat surel Anda
+    .accesskey = t
 relay-integration-learn-more-link = Pelajari lebih lanjut
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -853,9 +893,19 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Info Masuk Tersimpan…
     .accesskey = I
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Isi nama pengguna dan kata sandi secara otomatis
+    .accesskey = i
+forms-saved-passwords =
+    .label = Sandi tersimpan
+    .accesskey = S
 forms-primary-pw-use =
     .label = Gunakan Sandi Utama
     .accesskey = S
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Wajibkan info masuk perangkat untuk mengisi dan mengelola sandi
 forms-primary-pw-learn-more-link = Pelajari lebih lanjut
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -876,6 +926,7 @@ forms-windows-sso =
     .label = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah
 forms-windows-sso-learn-more-link = Pelajari lebih lanjut
 forms-windows-sso-desc = Kelola akun di pengaturan perangkat Anda
+windows-passkey-settings-label = Kelola kunci sandi di pengaturan sistem
 
 ## OS Authentication dialog
 
@@ -887,9 +938,30 @@ primary-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukka
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = membuat Sandi Utama
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] mengubah setelan metode pembayaran.
+       *[other] { -brand-short-name } mencoba mengubah setelan metode pembayaran. Gunakan info masuk perangkat untuk mengizinkan ini.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Isi Otomatis
+autofill-addresses-checkbox = Simpan dan isi alamat
+    .accesskey = a
+autofill-saved-addresses-button = Alamat tersimpan
+    .accesskey = t
+autofill-payment-methods-checkbox-message = Simpan dan isi metode pembayaran
+    .accesskey = p
+autofill-payment-methods-checkbox-submessage = Termasuk kartu kredit dan debit
+    .accesskey = d
+autofill-saved-payment-methods-button = Metode pembayaran tersimpan
+    .accesskey = i
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Wajibkan info masuk perangkat untuk mengisi dan mengelola metode pembayaran
+    .accesskey = W
 
 ## Privacy Section - History
 
@@ -945,6 +1017,7 @@ sitedata-delete-on-close =
     .label = Hapus kuki dan data situs ketika { -brand-short-name } ditutup
     .accesskey = H
 sitedata-delete-on-close-private-browsing = Pada mode penjelajahan pribadi yang permanen, kuki dan data situs akan selalu dibersihkan saat { -brand-short-name } ditutup.
+sitedata-delete-on-close-private-browsing2 = Berdasarkan pengaturan riwayat Anda, { -brand-short-name } menghapus kuki dan data situs dari sesi Anda saat menutup peramban.
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data situs
     .accesskey = T
@@ -985,6 +1058,8 @@ cookie-banner-handling-description = { -brand-short-name } mencoba menolak permi
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Pemblokir Spanduk Kuki
+cookie-banner-blocker-description = Ketika situs bertanya apakah mereka dapat menggunakan kuki dalam mode penjelajahan pribadi, { -brand-short-name } secara otomatis menolaknya untuk Anda. Ini hanya diperuntukkan di situs yang didukung.
+cookie-banner-learn-more = Pelajari lebih lanjut
 forms-handle-cookie-banners =
     .label = Kurangi Spanduk Kuki
 cookie-banner-blocker-checkbox-label =
@@ -1000,6 +1075,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Markah
     .accesskey = M
+addressbar-locbar-clipboard-option =
+    .label = Papan Klip
+    .accesskey = P
 addressbar-locbar-openpage-option =
     .label = Tab terbuka
     .accesskey = T
@@ -1017,6 +1095,12 @@ addressbar-locbar-quickactions-option =
     .label = Tindakan cepat
     .accesskey = T
 addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
+addressbar-locbar-showrecentsearches-option =
+    .label = Tampilkan pencarian terbaru
+    .accesskey = u
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Tampilkan saran pencarian yang sedang tren
+    .accesskey = a
 addressbar-quickactions-learn-more = Pelajari lebih lanjut
 
 ## Privacy Section - Content Blocking
