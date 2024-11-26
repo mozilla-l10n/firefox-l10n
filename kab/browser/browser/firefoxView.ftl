@@ -40,6 +40,7 @@ firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tili
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
 firefoxview-tabpickup-adddevice-learn-how = Issin amek
 firefoxview-tabpickup-adddevice-primarybutton = Awi { -brand-product-name } i uziraz
+firefoxview-syncedtabs-adddevice-header-2 = Err-d accaren-ik·im seg yal adeg
 firefoxview-syncedtabs-adddevice-header = Qqen ɣer { -brand-product-name } ɣef yibenkan-ik·im niḍen
 firefoxview-syncedtabs-adddevice-primarybutton = Ɛreḍ { -brand-product-name } i uziraz
 firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
@@ -163,6 +164,9 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Nadi accaren yettwamedlen melmi kan
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Nadi deg waccaren
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Nadi accaren yemtawan

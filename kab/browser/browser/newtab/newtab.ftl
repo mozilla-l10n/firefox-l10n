@@ -8,6 +8,8 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
+newtab-settings-dialog-label =
+    .aria-label = Iɣewwaṛen
 newtab-personalize-icon-label =
     .title = Sagen iccer amaynut
     .aria-label = Sagen iccer amaynut

@@ -35,3 +35,5 @@ fxa-menu-sign-out =
     .label = Ffeɣ…
 fxa-menu-sync-title = Mtawi
 fxa-menu-sync-description = Kcem ɣer web anda ma telliḍ
+sync-setup-verify-continue = Kemmel
+sync-setup-verify-title = Alɣu n usmezdi

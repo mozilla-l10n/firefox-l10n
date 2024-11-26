@@ -1010,6 +1010,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (Ur ittusenqed ara)
 popup-notification-xpinstall-prompt-learn-more = Issin ugar ɣef usbeddi n yizegrar s tɣellist
+popup-notification-xpinstall-prompt-block-url = Wali talqayt
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Sker deg usfaylu uslig

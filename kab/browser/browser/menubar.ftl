@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Ticraḍ n yisebtar n uziraz
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Imeɣna
+menu-profiles-manage-profiles =
+    .label = Sefrek imaɣunen
+menu-profiles-new-profile =
+    .label = Amaɣnu amaynut
+
 ## Tools Menu
 
 menu-tools =

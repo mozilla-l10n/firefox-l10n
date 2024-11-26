@@ -64,9 +64,16 @@ split-dismiss-button-manage-settings-option-label = Sefrek iɣewwaren
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-privacy-notice-link = Tasertit n tbaḍnit
 sidebar-callout-survey-very-satisfied = Yumer aṭas
 sidebar-callout-survey-satisfied = Y·Tumer
 sidebar-callout-survey-neutral = War tamawt
 sidebar-callout-survey-dissatisfied-2 = Ur yumir ara
 sidebar-callout-survey-very-dissatisfied-2 = Texseṛ-as akk nniya
 sidebar-callout-survey-dont-use-it = Ur t-sseqdaceɣ ara
+sidebar-callout-survey-strongly-agree = Qebleɣ aṭas
+sidebar-callout-survey-agree = Qebleɣ
+sidebar-callout-survey-disagree = Ur qbileɣ ara
+sidebar-callout-survey-strongly-disagree = Ur qbileɣ ara aṭas
+sidebar-callout-survey-submit = Azen
+sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!

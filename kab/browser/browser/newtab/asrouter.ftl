@@ -302,3 +302,11 @@ fxa-menu-message-backup-sync-primary-text = Eǧǧ isfka-k d iɣellsanen, mtawan
 fxa-menu-message-backup-sync-collapsed-text = Mtawi, tḥerzeḍ isefka
 fxa-menu-message-mobile-primary-text = Azen accaren ɣer tiliɣti-k
 fxa-menu-message-mobile-collapsed-text = Mtawi akked tiliɣri-k
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Ansuf tikkelt niḍen
+multi-cta-fox-doodle-set-default-checkbox = Sbadu { -brand-short-name } ɣer umezwer
+multi-cta-fox-doodle-pin-startmenu-checkbox = Senteḍ { -brand-short-name } ɣer wumuɣ n usenker
+multi-cta-fox-doodle-start-browsing-primary-button-label = Bdu tunigin
+multi-cta-fox-doodle-main-browser-primary-button-label = Err { -brand-short-name } d iminig-iw agejdan

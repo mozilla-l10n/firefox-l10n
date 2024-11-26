@@ -58,12 +58,6 @@ sidebar-customize-position-header =
     .label = Adig n ufeggag adisan
 sidebar-visibility-setting-hide-sidebar =
     .label = Sken syen ffer afeggag adisan
-sidebar-customize-settings-header =
-    .label = Iɣewwaren n ufeggag adisan
-sidebar-visibility-always-show =
-    .label = Sken yal tikelt
-sidebar-visibility-hide-sidebar =
-    .label = Ffer afeggag adisan
 
 ## Labels for sidebar context menu items
 
@@ -106,6 +100,10 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Amsenqad n tamawt
 
+## Tooltips for sidebar menu items.
+
+sidebar-menu-close-ai-chatbot-tooltip = Mdel AI chatbot
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -132,14 +130,8 @@ sidebar-syncedtabs-title = Iccaren seg ibenkan niḍen
 synced-tabs-context-close-tab-title =
     .title = Mdel iccer ɣef { $deviceName }
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = Fneẓ afeggag adisan
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = Sken afeggag adisan
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = Ffer afeggag adisan
 sidebar-widget-collapse-sidebar =
     .tooltiptext = Fneẓ afeggag adisan
     .label = Igalisen idisanen

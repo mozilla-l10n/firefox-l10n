@@ -173,6 +173,7 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Rnu agraw n waccaren
 tab-group-editor-title-edit = Sefrek agraw n waccaren
 tab-group-editor-name-label = Isem
 tab-group-editor-cancel =
