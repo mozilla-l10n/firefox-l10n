@@ -167,6 +167,7 @@ extensions-warning-update-security2 =
     .message = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security-button = Aktifkan
     .title = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
+extensions-warning-imported-addons-button = Pasang Ekstensi
 
 ## Strings connected to add-on updates
 

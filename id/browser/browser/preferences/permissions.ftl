@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Pengecualian - Mode HTTPS-Only
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Anda dapat mematikan Mode HTTPS-Saja untuk situs web tertentu. { -brand-short-name } tidak akan mencoba meningkatkan sambungan ke HTTPS aman untuk situs-situs tersebut. Pengecualian tidak berlaku untuk jendela-jendela pribadi.
+permissions-exceptions-https-only-desc2 = Anda dapat mematikan Mode HTTPS-Saja untuk situs web tertentu. { -brand-short-name } tidak akan mencoba meningkatkan sambungan ke HTTPS aman untuk situs-situs tersebut.
 
 ## Exceptions - Pop-ups
 
@@ -108,6 +109,10 @@ permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini ti
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = Pengecualian - Sandi Tersimpan
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } tidak akan menyimpan sandi untuk situs yang terdaftar di sini.
 
 ## Exceptions - Add-ons
 
@@ -177,6 +182,21 @@ permissions-site-microphone-disable-desc = Ini akan mencegah situs web apa pun y
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Setelan - Izin Speaker
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Situs web berikut meminta untuk memilih perangkat output audio. Anda dapat menentukan situs web mana saja yang diizinkan untuk memilih perangkat output audio.
+permissions-exceptions-doh-window =
+    .title = Pengecualian Situs Web untuk DNS melalui HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } tidak akan menggunakan DNS aman untuk situs berikut beserta subdomainnya.
+permissions-doh-entry-field = Masukkan nama domain situs web
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = Tambahkan
+    .accesskey = a
+permissions-doh-col =
+    .label = Domain
 permissions-doh-remove =
     .label = Hapus
     .accesskey = H

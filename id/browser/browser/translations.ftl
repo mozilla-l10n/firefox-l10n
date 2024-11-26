@@ -126,26 +126,27 @@ translations-manage-description = Unduh bahasa untuk terjemahan luring.
 translations-manage-all-language = Semua bahasa
 translations-manage-download-button = Unduh
 translations-manage-delete-button = Hapus
+translations-manage-intro-2 = Pilih preferensi terjemahan bahasa dan situs lalu kelola bahasa yang diunduh untuk terjemahan luring.
+translations-manage-download-description = Unduh bahasa untuk terjemahan luring.
+translations-manage-language-download-button =
+    .label = Unduh
+translations-manage-language-download-all-button =
+    .label = Unduh semua
+    .accesskey = s
 translations-manage-language-remove-button =
     .label = Hapus
 translations-manage-language-remove-all-button =
     .label = Hapus semua
     .accesskey = e
-translations-manage-error-install = Terjadi masalah saat memasang data bahasa. Silakan coba lagi.
 translations-manage-error-download = Terjadi masalah saat mengunduh data bahasa. Silakan coba lagi.
 translations-manage-error-delete = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
-translations-manage-intro = Atur bahasa dan preferensi terjemahan situs Anda dan kelola bahasa yang terpasang untuk terjemahan luring.
-translations-manage-install-description = Pasang bahasa untuk terjemahan luring
-translations-manage-language-install-button =
-    .label = Pasang
-translations-manage-language-install-all-button =
-    .label = Pasang semua
-    .accesskey = P
 translations-manage-error-remove = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
 translations-manage-error-list = Gagal mendapatkan daftar bahasa yang tersedia untuk diterjemahkan. Segarkan laman untuk mencoba lagi.
 translations-settings-title =
     .title = Pengaturan Terjemahan
     .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-always-translate-langs-description = Penerjemahan akan dilakukan secara otomatis untuk bahasa berikut
 translations-settings-never-translate-langs-description = Terjemahan tidak akan ditawarkan untuk bahasa berikut ini
 translations-settings-never-translate-sites-description = Terjemahan tidak akan ditawarkan untuk situs berikut ini
@@ -168,12 +169,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = T
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Terjemahkan Pilihan…
+    .accesskey = P
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Terjemahkan Pilihan ke { $language }
+    .accesskey = i
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Terjemahkan Teks Tautan…
+    .accesskey = t
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Terjemahkan Teks Tautan ke { $language }
+    .accesskey = u
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Terjemahan
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Dari
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Ke
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Coba bahasa sumber lainnya
 select-translations-panel-cancel-button =
     .label = Batalkan
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Salin
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Disalin
+select-translations-panel-done-button =
+    .label = Selesai
+select-translations-panel-translate-full-page-button =
+    .label = Terjemahkan semua isi laman
 select-translations-panel-translate-button =
     .label = Terjemahkan
 select-translations-panel-try-again-button =
     .label = Coba lagi
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Teks yang diterjemahkan akan muncul di sini.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Menerjemahkan…
+select-translations-panel-init-failure-message =
+    .message = Tidak dapat memuat bahasa. Periksa sambungan internet lalu coba lagi.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Terjadi masalah saat menerjemahkan. Silakan coba lagi.
@@ -187,3 +238,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Maaf, kami belum mendukung { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Maaf, kami belum mendukung bahasa ini.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Pengaturan Terjemahan
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Terjemahan selesai

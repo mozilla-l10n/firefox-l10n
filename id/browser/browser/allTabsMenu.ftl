@@ -15,6 +15,6 @@ all-tabs-menu-manage-user-context =
 all-tabs-menu-close-duplicate-tabs =
     .label = Tutup tab berganda
 all-tabs-menu-close-all-duplicate-tabs =
-    .label = Tutup semua tab duplikat
+    .label = Tutup semua tab berganda
 all-tabs-menu-synced-tabs =
     .label = Tab dari perangkat lain
