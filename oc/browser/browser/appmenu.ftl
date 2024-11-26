@@ -108,8 +108,10 @@ appmenu-fxa-sync-and-save-data2 = Sincronizar e enregistrar las donadas
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
     .label = Activar la sincronizacion…
+appmenu-fxa-setup-sync-new = Activar
 appmenuitem-save-page =
     .label = Enregistrar jos…
+appmenuitem-fxa-sync-off-title = La sincronizacion es desactivada
 
 ## What's New panel in App menu.
 
@@ -276,3 +278,14 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recebètz d’alèrtas de divulgacions de donadas
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+
+## Profiles panel
+
+appmenu-profiles = Perfils
+appmenu-other-profiles = Autres perfils
+appmenu-manage-profiles =
+    .label = Gestion dels perfils
+appmenu-create-profile =
+    .label = Perfil nòu
+appmenu-edit-profile =
+    .aria-label = Modificar lo perfil
