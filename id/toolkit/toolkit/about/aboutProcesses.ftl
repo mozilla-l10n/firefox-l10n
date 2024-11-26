@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Batal memuat tab dan hentikan proses
+about-processes-kill-process =
+    .title = Matikan proses
 about-processes-shutdown-tab =
     .title = Tutup tab
 # Profiler icons
@@ -50,6 +52,7 @@ about-processes-remote-sandbox-broker-process = Broker Kotak Pasir Daring ({ $pi
 about-processes-fork-server-process = Server Fork ({ $pid })
 about-processes-preallocated-process = Praalokasi ({ $pid })
 about-processes-utility-process = Utilitas ({ $pid })
+about-processes-inference-process = Inferensi ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -123,6 +126,8 @@ about-processes-utility-actor-audio-decoder-wmf = Dekoder Audio Windows Media Fr
 about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle JavaScript
+about-processes-utility-actor-windows-utils = Utilitas Windows
+about-processes-utility-actor-windows-file-dialog = Dialog Berkas Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:

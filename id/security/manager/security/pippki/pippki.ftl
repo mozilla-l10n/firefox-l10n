@@ -57,6 +57,11 @@ client-auth-window =
     .title = Permintaan Identifikasi Pengguna
 client-auth-site-description = Situs telah meminta identifikasi Anda dengan sertifikat:
 client-auth-choose-cert = Pilih sertifikat untuk mewakili proses identifikasi:
+client-auth-send-no-certificate =
+    .label = Jangan kirim sertifikat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” telah meminta Anda untuk mengidentifikasi diri Anda dengan menggunakan sebuah sertifikat:
 client-auth-cert-details = Detail sertifikat yang dipilih:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

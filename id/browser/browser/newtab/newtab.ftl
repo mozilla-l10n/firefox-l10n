@@ -215,7 +215,7 @@ newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan be
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
-newtab-empty-section-topstories-generic = Anda telah mengejar ketinggalan. Periksa kembali nanti untuk cerita lainnya. Tidak sabar? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
+newtab-empty-section-topstories-generic = Semuanya sudah dibuka. Silakan kembali nanti untuk cerita lainnya. Tidak sabar? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -315,7 +315,7 @@ newtab-wallpaper-dark-sky = Lanskap kota dengan langit malam
 newtab-wallpaper-dark-mountain = Lanskap pegunungan
 newtab-wallpaper-dark-city = Lanskap kota ungu
 newtab-wallpaper-dark-fox-anniversary = Seekor rubah di trotoar dekat hutan
-newtab-wallpaper-light-fox-anniversary = Seekor rubah di padang berrumput dengan lanskap pegunungan yang berkabut
+newtab-wallpaper-light-fox-anniversary = Seekor rubah di padang berumput dengan lanskap pegunungan yang berkabut
 
 ## Solid Colors
 

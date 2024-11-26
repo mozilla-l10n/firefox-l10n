@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Pilih Profil Pengguna
 profile-window-heading = Pilih profil { -brand-short-name }
-profile-window-body = Jaga pekerjaan dan penjelajahan pribadi Anda, termasuk hal-hal seperti kata sandi dan markah, benar-benar terpisah. Atau buat profil untuk semua orang yang menggunakan perangkat ini.
+profile-window-body = Jaga pekerjaan dan penjelajahan pribadi Anda, termasuk hal-hal seperti kata sandi dan markah, agar benar-benar terpisah. Atau buat profil untuk semua orang yang menggunakan perangkat ini.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Tampilkan ini saat { -brand-short-name } dibuka
@@ -32,7 +32,7 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Selesai menyunting
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -49,6 +49,9 @@ delete-profile-bookmarks = Markah
 delete-profile-history = Riwayat (laman yang dikunjungi, kuki, data situs)
 delete-profile-autofill = Isi otomatis data (alamat, metode pembayaran)
 delete-profile-logins = Sandi
+
+##
+
 # Button label
 delete-profile-cancel = Batal
 # Button label

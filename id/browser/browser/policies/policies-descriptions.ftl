@@ -141,4 +141,4 @@ policy-UseSystemPrintDialog = Cetak menggunakan dialog sistem.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
 policy-Windows10SSO = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah.
 # Entra is the name of a Microsoft product.
-policy-MicrosoftEntraSSO = Izinkan single sign-on untuk akun Microsoft Entra.
+policy-MicrosoftEntraSSO = Izinkan sistem masuk tunggal untuk akun Microsoft Entra.

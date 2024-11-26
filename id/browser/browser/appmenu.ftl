@@ -112,7 +112,7 @@ appmenu-fxa-setup-sync-new = Nyalakan
 appmenuitem-save-page =
     .label = Simpan Laman dengan Nama…
 appmenuitem-fxa-sync-off-title = Sinkronisasi nonaktif
-appmenuitem-fxa-sync-off-description = Lindungi dan akses markah, sandi, dan milikmu yang lain di mana saja.
+appmenuitem-fxa-sync-off-description = Lindungi dan akses markah, sandi, dan berbagai hal lainnya milik Anda di mana saja.
 
 ## What's New panel in App menu.
 

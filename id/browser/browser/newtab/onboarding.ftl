@@ -54,6 +54,8 @@ mr1-onboarding-theme-header = Jadikan milik Anda
 mr1-onboarding-theme-subtitle = Personalisasikan { -brand-short-name } dengan tema.
 mr1-onboarding-theme-secondary-button-label = Jangan sekarang
 newtab-wallpaper-onboarding-title = Coba berbagai ragam warna
+newtab-wallpaper-onboarding-subtitle = Pilih gambar latar untuk memberikan tampilan baru pada Tab Baru Anda.
+newtab-wallpaper-onboarding-primary-button-label = Tetapkan gambar latar
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistem
 mr1-onboarding-theme-label-light = Terang
@@ -327,10 +329,13 @@ mr2022-onboarding-colorways-image-alt =
 ## Device migration onboarding
 
 onboarding-device-migration-title = Selamat datang kembali!
+onboarding-device-migration-subtitle = Masuk ke { -fxaccount-brand-name(capitalization: "sentence") } Anda untuk membawa markah, kata sandi, dan riwayat Anda ke perangkat baru.
+onboarding-device-migration-subtitle2 = Masuk ke akun Anda untuk membawa markah, kata sandi, dan riwayat Anda di perangkat baru.
 onboarding-device-migration-primary-button-label = Masuk
 
 ## Add-ons Picker screen
 
+amo-picker-collection-link = Jelajahi lebih banyak pengaya
 
 ## The following screens have been updated to use security and privacy focused strings:
 

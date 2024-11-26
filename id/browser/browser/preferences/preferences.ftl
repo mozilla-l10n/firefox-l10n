@@ -60,6 +60,7 @@ pane-experimental-description2 = Mengubah pengaturan konfigurasi tingkat lanjut 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Cobalah fitur eksperimental kami! Berbagai fitur tersebut sedang dalam proses pengembangan dan terus berubah, yang dapat memengaruhi cara kerja { -brand-short-name }.
 pane-experimental-reset =
     .label = Pulihkan Bawaan
     .accesskey = B
@@ -191,6 +192,9 @@ containers-remove-alert-title = Hapus Kontainer Ini?
 containers-remove-alert-msg = Jika Anda menghapus Kontainer ini sekarang, { $count } tab kontainer akan ditutup. Yakin ingin menghapus Kontainer ini?
 containers-remove-ok-button = Hapus Kontainer ini
 containers-remove-cancel-button = Jangan hapus Kontainer ini
+settings-tabs-show-image-in-preview =
+    .label = Tampilkan pratinjau gambar saat mengarahkan kursor pada tab
+    .accessKey = p
 
 ## General Section - Language & Appearance
 
@@ -736,10 +740,12 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Anda sedang menyinkronkan semua item ini di semua perangkat yang terhubung:
 sync-currently-syncing-bookmarks = Markah
 sync-currently-syncing-history = Riwayat
 sync-currently-syncing-tabs = Tab terbuka
 sync-currently-syncing-logins-passwords = Info masuk dan sandi
+sync-currently-syncing-passwords = Sandi
 sync-currently-syncing-addresses = Alamat
 sync-currently-syncing-creditcards = Kartu kredit
 sync-currently-syncing-payment-methods = Metode pembayaran
@@ -973,9 +979,16 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Pengurangan Spanduk Kuki
+cookie-banner-handling-description = { -brand-short-name } mencoba menolak permintaan kuki pada spanduk kuki di situs yang didukung secara otomatis.
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Pemblokir Spanduk Kuki
+forms-handle-cookie-banners =
+    .label = Kurangi Spanduk Kuki
+cookie-banner-blocker-checkbox-label =
+    .label = Otomatis menolak spanduk kuki
 
 ## Privacy Section - Address Bar
 

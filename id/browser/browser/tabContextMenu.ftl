@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tutup Banyak Tab
     .accesskey = T
+tab-context-close-duplicate-tabs =
+    .label = Tutup Tab Berganda
+    .accesskey = g
 tab-context-share-url =
     .label = Bagikan
     .accesskey = B
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
-
 tab-context-send-tabs-to-device =
     .label = Kirim Tab ke { $tabCount } Peranti
     .accesskey = k

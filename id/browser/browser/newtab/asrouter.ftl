@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
 cfr-doorhanger-bookmark-fxa-body = Penemuan yang mantap! Sekarang jangan pergi tanpa markah ini di perangkat seluler Anda. Mulai dengan { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-body-2 = Temuan yang bagus! Sekarang jangan biarkan tanpa markah ini di perangkat seluler Anda. Mulai dengan suatu akun.
+cfr-doorhanger-bookmark-fxa-body-2 = Temuan yang bagus! Gunakan markah ini kapan saja - juga di perangkat seluler Anda. Mulai dengan membuat akun.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
@@ -196,13 +196,13 @@ colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Izinkan { -brand-short-name } untuk menolak banner kuki?
-cfr-cbh-body = { -brand-short-name } dapat menolak permintaan banyak banner kuki secara otomatis.
+cfr-cbh-header = Izinkan { -brand-short-name } untuk menolak spanduk kuki?
+cfr-cbh-body = { -brand-short-name } dapat menolak permintaan berbagai spanduk secara otomatis.
 cfr-cbh-confirm-button = Tolak spanduk kuki
     .accesskey = T
 cfr-cbh-dismiss-button = Jangan sekarang
     .accesskey = J
-cookie-banner-blocker-onboarding-header = { -brand-short-name } baru saja menolak banner kuki untuk Anda
+cookie-banner-blocker-onboarding-header = { -brand-short-name } baru saja menolak spanduk kuki untuk Anda
 cookie-banner-blocker-onboarding-body = Lebih sedikit gangguan, lebih sedikit kuki yang melacak Anda di situs ini.
 cookie-banner-blocker-onboarding-learn-more = Pelajari lebih lanjut
 
@@ -238,13 +238,13 @@ device-migration-fxa-spotlight-heavy-user-header = Jangan lupa mencadangkan data
 device-migration-fxa-spotlight-heavy-user-body = Pastikan info penting — seperti markah dan kata sandi — diperbarui dan dilindungi di semua perangkat Anda.
 device-migration-fxa-spotlight-heavy-user-primary-button = Memulai
 device-migration-fxa-spotlight-older-device-header = Ketenangan batin, dari { -brand-product-name }
-device-migration-fxa-spotlight-older-device-body = Akun membuat info penting Anda diperbarui dan dilindungi di perangkat apa pun yang Anda sambungkan.
+device-migration-fxa-spotlight-older-device-body = Akun akan membuat info penting Anda diperbarui dan dilindungi di perangkat apa pun yang Anda sambungkan.
 device-migration-fxa-spotlight-older-device-primary-button = Buat akun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Perangkat baru nanti?
-device-migration-fxa-spotlight-getting-new-device-body-2 = Ikuti beberapa langkah sederhana untuk membawa markah, riwayat, dan kata sandi Anda saat Anda mulai menggunakan perangkat baru.
-device-migration-fxa-spotlight-getting-new-device-primary-button = Bagaimana cara mencadangkan data saya
-device-migration-fxa-spotlight-sync-header = Meramban tanpa terhambat
-device-migration-fxa-spotlight-sync-body = Sinkronkan semua info penting Anda dengan enkripsi — seperti markah dan sandi. Anda dapat menarik semuanya di mana saja Anda menggunakan { -brand-product-name }.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Ikuti beberapa langkah sederhana untuk membawa markah, riwayat, dan kata sandi saat Anda mulai menggunakan perangkat baru.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Cara mencadangkan data saya
+device-migration-fxa-spotlight-sync-header = Meramban tanpa hambatan
+device-migration-fxa-spotlight-sync-body = Sinkronkan semua info penting Anda dengan enkripsi — seperti markah dan sandi. Semuanya dapat diambil di mana saja Anda menggunakan { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Memulai
 
 ## Set as Default PDF Reader Infobar
@@ -258,7 +258,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Buka { -brand-short-name } setiap kali Anda memulai ulang komputer Anda?</strong> Sekarang Anda dapat mengatur { -brand-short-name } untuk terbuka secara otomatis saat Anda memulai ulang perangkat Anda.
+launch-on-login-infobar-message = <strong>Buka { -brand-short-name } setiap kali memulai ulang komputer?</strong> Sekarang Anda dapat mengatur { -brand-short-name } untuk terbuka secara otomatis saat memulai ulang perangkat.
 launch-on-login-learnmore = Pelajari lebih lanjut
 launch-on-login-infobar-confirm-button = Ya, buka { -brand-short-name }
     .accesskey = Y
@@ -286,7 +286,7 @@ tail-fox-spotlight-secondary-button = Jangan sekarang
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versi lama { -brand-short-name } mungkin mulai bermasalah pada 14 Januari 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Perbarui untuk tetap menggunakan { -brand-short-name } setelah 14 Maret 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Perbarui untuk terus menggunakan { -brand-short-name } setelah 14 Maret 2025.</strong>
 root-certificate-succession-infobar-link = Mengapa saya perlu memperbarui?
 root-certificate-succession-infobar-primary-button =
     .label = Perbarui sekarang
@@ -308,10 +308,10 @@ fxa-menu-message-backup-data-primary-text = Cadangkan data peramban Anda
 fxa-menu-message-backup-data-secondary-text = Secara otomatis melindungi markah, sandi, dan info lainnya di semua perangkat Anda.
 fxa-menu-message-backup-data-collapsed-text = Cadangkan data peramban Anda
 fxa-menu-message-backup-sync-primary-text = Jaga data Anda tetap aman dan tersinkronisasi
-fxa-menu-message-backup-sync-secondary-text = Penyelarasan mencadangkan sebagian besar data Anda sehingga Anda dapat mengaksesnya di mana pun Anda menggunakan { -brand-short-name }.
+fxa-menu-message-backup-sync-secondary-text = Sinkronisasi akan mencadangkan sebagian besar data Anda sehingga dapat diakses di mana saja Anda menggunakan { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sinkronkan dan cadangkan data
 fxa-menu-message-mobile-primary-text = Kirim tab ke ponsel Anda
-fxa-menu-message-mobile-secondary-text = Lanjutkan di mana Anda terakhir berada secara instan saat Anda menyinkronkan tab Anda dengan perangkat seluler.
+fxa-menu-message-mobile-secondary-text = Lanjutkan dari tempat terakhir Anda berada secara instan ketika menyinkronkan tab dengan perangkat seluler.
 fxa-menu-message-mobile-collapsed-text = Sinkronkan dengan ponsel Anda
 
 ## Multi-CTA Fox Doodle Spotlight
@@ -321,15 +321,15 @@ multi-cta-fox-doodle-set-default-checkbox = Jadikan { -brand-short-name } baku
 multi-cta-fox-doodle-pin-startmenu-checkbox = Sematkan { -brand-short-name } ke menu Mulai
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
-        [macos] Simpan { -brand-short-name } di Dok
-       *[other] Sematkan { -brand-short-name } ke bilah tugas
+        [macos] Simpan { -brand-short-name } di Dock
+       *[other] Sematkan { -brand-short-name } ke taskbar
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Mulai menjelajah
 multi-cta-fox-doodle-main-browser-primary-button-label = Jadikan { -brand-short-name } peramban utama saya
 multi-cta-fox-doodle-quick-reminder-subtitle = Ini adalah pengingat singkat bahwa Anda dapat menyimpan peramban favorit yang berfokus pada privasi hanya dengan sekali klik.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke Dok Anda.
+        [macos] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke Dock Anda.
        *[other] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas Anda.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas dan menu Mulai Anda.

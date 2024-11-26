@@ -97,6 +97,10 @@ tabbrowser-confirm-caretbrowsing-checkbox = Jangan tampilkan kotak dialog ini la
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Perhatian
+tabbrowser-confirm-close-duplicate-tabs-text = Tab terakhir akan tetap terbuka.
+tabbrowser-confirm-close-all-duplicate-tabs-title = Tutup tab berganda?
+tabbrowser-confirm-close-all-duplicate-tabs-text = Kami akan menutup tab berganda di jendela ini. Tab terakhir akan tetap terbuka.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Tutup Tab
 
 ##
 
@@ -140,3 +144,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Bunyikan tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Tutup tab
+
+## Tab Groups
+
+tab-group-editor-title-create = Buat grup tab
+tab-group-editor-title-edit = Kelola grup tab
+tab-group-editor-name-label = Nama
+tab-group-editor-name-field =
+    .placeholder = Misalnya: Belanja-Belanji
+tab-group-editor-cancel =
+    .label = Batal
+    .accesskey = B

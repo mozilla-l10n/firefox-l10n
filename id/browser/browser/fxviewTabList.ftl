@@ -37,8 +37,8 @@ fxviewtabrow-open-in-window = Buka di Jendela Baru
 fxviewtabrow-open-in-private-window = Buka di Jendela Pribadi Baru
     .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
-fxviewtabrow-add-bookmark = Tandai…
-    .accesskey = B
+fxviewtabrow-add-bookmark = Markahi…
+    .accesskey = M
 fxviewtabrow-save-to-pocket = Simpan ke { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Salin Tautan
