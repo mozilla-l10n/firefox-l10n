@@ -41,7 +41,7 @@ about-logins-menu-menuitem-help = Bantuan
 ## Login List
 
 login-list =
-    .aria-label = Info masuk yang cocok dengan permintaan pencarian
+    .aria-label = Info masuk yang cocok dengan kueri pencarian
 # Variables
 #   $count (number) - Number of logins
 login-list-count =

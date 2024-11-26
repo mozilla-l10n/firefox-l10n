@@ -192,7 +192,7 @@ firefoxview-search-results-count =
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
-firefoxview-search-results-empty = Tak ada hasil untuk “{ $query }”
+firefoxview-search-results-empty = Tidak ada hasil untuk “{ $query }”
 firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 firefoxview-sort-history-by-site-label = Urut berdasarkan situs
 firefoxview-sort-open-tabs-by-recency-label = Sortir berdasarkan aktivitas terbaru
@@ -221,7 +221,7 @@ firefoxview-view-more-browsing-history = Tampilkan lebih banyak riwayat penelusu
 
 ## Message displayed in Firefox View when the user has no history data
 
-firefoxview-history-empty-header = Kembali ke tempat Anda sebelumnya
+firefoxview-history-empty-header = Kembali ke lokasi Anda sebelumnya
 firefoxview-history-empty-description = Saat Anda menjelajah, laman yang Anda kunjungi akan terdaftar di sini.
 firefoxview-history-empty-description-two = Melindungi privasi Anda adalah inti dari apa yang kami lakukan. Itu sebabnya Anda dapat mengontrol aktivitas yang diingat { -brand-short-name }, di <a data-l10n-name="history-settings-url">setelan riwayat</a> Anda.
 
@@ -274,7 +274,7 @@ firefoxview-opentabs-pinned-tab =
     .title = Beralih ke { $tabTitle }
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
-    .title = Beralih ke (Ditandai) { $tabTitle }
+    .title = Beralih ke (Dimarkahi) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

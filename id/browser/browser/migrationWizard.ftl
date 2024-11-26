@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Impor Data Peramban
-migration-wizard-selection-list = Pilih data yang ingin Anda impor.
+migration-wizard-selection-list = Pilih data yang ingin diimpor.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -143,7 +143,7 @@ migration-wizard-progress-success-new-bookmarks =
        *[other] { $newEntries } markah
     }
 migration-import-button-label = Impor
-migration-choose-to-import-from-file-button-label = Diimpor Dari Berkas
+migration-choose-to-import-from-file-button-label = Diimpor dari Berkas
 migration-import-from-file-button-label = Pilih Berkas
 migration-cancel-button-label = Batalkan
 migration-done-button-label = Selesai

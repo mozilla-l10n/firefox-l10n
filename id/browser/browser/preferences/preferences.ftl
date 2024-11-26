@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak
+do-not-track-description2 =
+    .label = Kirim sinyal “Jangan Lacak” ke situs web
+    .accesskey = K
 do-not-track-learn-more = Pelajari lebih lanjut
 do-not-track-option-default-content-blocking-known =
     .label = Hanya ketika { -brand-short-name } diatur untuk memblokir pelacak yang diketahui
