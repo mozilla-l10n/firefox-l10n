@@ -91,8 +91,8 @@ policy-LegacyProfiles = 禁用要求每个安装实例有不同用户配置文�
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = 启用默认旧有 SameSite cookie 行为设置。
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢复旧有 SameSite cookie 行为。
+policy-LegacySameSiteCookieBehaviorEnabled = 启用默认旧有 SameSite Cookie 行为设置。
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢复旧有 SameSite Cookie 行为。
 
 ##
 
@@ -140,4 +140,5 @@ policy-UseSystemPrintDialog = 使用系统打印对话框打印。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。
 policy-Windows10SSO = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录。
+# Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = 允许面向 Microsoft Entra 账户的单点登录。
