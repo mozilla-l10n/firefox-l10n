@@ -419,3 +419,8 @@ onboarding-genai-sidebar-secondary-button = Mulai menjelajah
 
 onboarding-checklist-title = Selesaikan penyiapan { -brand-short-name }
 onboarding-checklist-subtitle = Selesaikan langkah berikut untuk mendapatkan hasil maksimal dari pengalaman menjelajah Anda.
+onboarding-checklist-set-default = Atur { -brand-short-name } sebagai peramban baku
+onboarding-checklist-pin = Sematkan { -brand-short-name } di taskbar
+onboarding-checklist-import = Impor dari peramban sebelumnya
+onboarding-checklist-extension = Tambahkan ekstensi
+onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda

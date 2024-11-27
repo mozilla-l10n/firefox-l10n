@@ -9,9 +9,22 @@ profile-window-body = Jaga pekerjaan dan penjelajahan pribadi Anda, termasuk hal
 profile-window-checkbox-label =
     .label = Tampilkan ini saat { -brand-short-name } dibuka
 profile-window-create-profile = Buat profil
+profile-card-edit-button =
+    .title = Edit Profil
+    .aria-label = Edit Profil
+profile-card-delete-button =
+    .title = Hapus profil
+    .aria-label = Hapus profil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Buka { $profileName }
+    .aria-label = Buka { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Profil asli
 edit-profile-page-title = Edit profil
 edit-profile-page-header = Edit profil Anda
 edit-profile-page-profile-name-label = Nama profil

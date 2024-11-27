@@ -32,6 +32,8 @@ unified-extensions-context-menu-remove-extension =
     .label = Hapus Ekstensi
 unified-extensions-context-menu-report-extension =
     .label = Laporkan Ekstensi
+unified-extensions-context-menu-move-widget-up =
+    .label = Geser Atas
 
 ## Notifications
 

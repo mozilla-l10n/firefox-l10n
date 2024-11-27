@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Pelapor Kerusakan
-crashreporter-crash-message = { -brand-short-name } mengalami kerusakan dan mati tanpa sengaja.
+crashreporter-branded-title = Pelapor Kerusakan { -brand-short-name }
+crashreporter-apology = Kami Mohon Maaf
+crashreporter-crashed-and-restore = { -brand-short-name } mengalami masalah dan mogok. Kami akan mencoba memulihkan tab dan jendela Anda saat dimulai ulang.
 crashreporter-plea = Untuk membantu kami mendiagnosa dan memperbaiki masalah ini, Anda dapat mengirimkan laporan kerusakan.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detail: { $details }

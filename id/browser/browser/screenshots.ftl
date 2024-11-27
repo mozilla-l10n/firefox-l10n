@@ -49,12 +49,37 @@ screenshots-too-large-error-details = Coba pilih bidang yang lebih kecil dari 32
 screenshots-component-retry-button =
     .title = Coba tangkap layar lagi
     .aria-label = Coba tangkap layar lagi
-screenshots-component-copy-button-label = Salin
-screenshots-component-download-button-label = Unduh
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Batal (Esc)
+           *[other] Batal (Esc)
+        }
+    .aria-label = Batal
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Salin
+    .title = Salin ({ $shortcut })
+    .aria-label = Salin
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Unduh
+    .title = Unduh ({ $shortcut })
+    .aria-label = Unduh
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Pilih wilayah ini

@@ -7,27 +7,52 @@
 
 autofill-manage-addresses-title = Alamat Tersimpan
 autofill-manage-addresses-list-header = Alamat
-
 autofill-manage-credit-cards-title = Kartu Kredit Tersimpan
 autofill-manage-credit-cards-list-header = Kartu Kredit
-
+autofill-manage-payment-methods-title = Metode pembayaran tersimpan
+autofill-manage-cards-list-header = Kartu
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Hapus
 autofill-manage-add-button = Tambah…
 autofill-manage-edit-button = Edit…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Simpan alamat?
+address-capture-save-doorhanger-description = Simpan info ke { -brand-short-name } agar Anda dapat mengisi formulir dengan cepat.
+address-capture-update-doorhanger-header = Perbarui alamat?
+address-capture-edit-doorhanger-header = Edit alamat
+address-capture-save-button =
+    .label = Simpan
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Jangan sekarang
+    .accessKey = J
+address-capture-cancel-button =
+    .label = Batal
+    .accessKey = B
+address-capture-update-button =
+    .label = Perbarui
+    .accessKey = P
+address-capture-manage-address-button =
+    .label = Pengaturan alamat
+address-capture-learn-more-button =
+    .label = Pelajari lebih lanjut
+address-capture-open-menu-button =
+    .aria-label = Buka menu
+address-capture-edit-address-button =
+    .aria-label = Edit alamat
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tambahkan Alamat Baru
+autofill-add-address-title = Tambahkan alamat
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Alamat
-
 autofill-address-given-name = Nama Depan
 autofill-address-additional-name = Nama Tengah
 autofill-address-family-name = Nama Belakang
+autofill-address-name = Nama
 autofill-address-organization = Organisasi
+autofill-address-street-address = Jalan
 autofill-address-street = Jalan
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +106,19 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Tambahkan Alamat Baru
 autofill-address-country = Negara atau Wilayah
+autofill-address-country-only = Negara
 autofill-address-tel = Telepon
 autofill-address-email = Email
-
 autofill-cancel-button = Batalkan
 autofill-save-button = Simpan
 autofill-country-warning-message = Saat ini fitur IsiOtomatis Formulir hanya tersedia untuk negara tertentu.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tambahkan Kartu Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Kartu Kredit
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } berusaha menampilkan informasi kartu kredit. Konfirmasikan akses ke akun Windows di bawah ini.
        *[other] { -brand-short-name } berusaha menampilkan informasi kartu kredit.
     }
-
+autofill-message-tooltip = Lihat pesan tentang isi otomatis
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Tambah kartu
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Edit kartu
 autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
 autofill-card-name-on-card = Nama pada Kartu

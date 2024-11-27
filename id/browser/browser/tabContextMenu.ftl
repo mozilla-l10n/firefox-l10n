@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Tutup Tab yang Ada di Kiri Tab Ini
     .accesskey = i
+close-tabs-to-the-start-vertical =
+    .label = Tutup Tab di Atas
+    .accesskey = A
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tutup Tab yang Ada di Kanan Tab Ini
     .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Tutup Tab di Bawah
+    .accesskey = B
 close-other-tabs =
     .label = Tutup Tab Lainnya
     .accesskey = L
@@ -77,6 +83,16 @@ tab-context-close-duplicate-tabs =
     .accesskey = g
 tab-context-share-url =
     .label = Bagikan
+    .accesskey = B
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Tab Baru ke Kanan
+    .accesskey = a
+tab-context-new-tab-open-vertical =
+    .label = Tab Baru di Bawah
+    .accesskey = B
+tab-context-new-group =
+    .label = Grup Baru
     .accesskey = B
 
 ## Variables:

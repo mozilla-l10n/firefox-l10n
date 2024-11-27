@@ -7,3 +7,6 @@
 ### localized (https://freebsoft.org/speechd).
 
 speech-dispatcher-open-fail = Anda tidak dapat menggunakan sintesis wicara karena Switch Dispatcher tidak akan terbuka.
+speech-dispatcher-dismiss-button =
+    .label = Jangan tampilkan lagi
+    .accesskey = J
