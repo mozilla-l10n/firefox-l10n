@@ -198,3 +198,47 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulla
     .accesskey = A
+tab-context-unnamed-group =
+    .label = Gruppo senza nome
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Aggiungi scheda a un nuovo gruppo
+           *[other] Aggiungi schede a un nuovo gruppo
+        }
+    .accesskey = n
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Aggiungi scheda a un gruppo
+           *[other] Aggiungi schede a un gruppo
+        }
+    .accesskey = u
+tab-group-editor-action-new-tab =
+    .label = Nuova scheda nel gruppo
+tab-group-editor-action-new-window =
+    .label = Sposta gruppo in una nuova finestra
+tab-group-editor-action-save =
+    .label = Salva e chiudi gruppo
+tab-group-editor-action-ungroup =
+    .label = Separa schede
+tab-group-editor-action-delete =
+    .label = Elimina gruppo
+tab-group-editor-done =
+    .label = Fatto
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Riapri gruppo di schede
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Rimuovi dal gruppo
+           *[other] Rimuovi dai gruppi
+        }
+    .accesskey = R

@@ -34,3 +34,10 @@ removed-search-engine-message = <strong>Il motore di ricerca predefinito è stat
 removed-search-engine-message2 = <strong>Il motore di ricerca predefinito è stato cambiato.</strong> { $oldEngine } non è più disponibile tra i motori di ricerca predefiniti di { -brand-short-name } e { $newEngine } è ora impostato come motore di ricerca predefinito. È possibile modificare il motore di ricerca predefinito nelle impostazioni.
 remove-search-engine-button = OK
 
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Aggiungere { $engineName } come motore di ricerca?
+install-search-engine-add = Aggiungi
+install-search-engine-no = No
