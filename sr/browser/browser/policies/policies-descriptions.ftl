@@ -12,10 +12,13 @@
 
 policy-3rdparty = Поставите правила којим WebExtensions може приступити преко chrome.storage.managed.
 policy-AllowedDomainsForApps = Дефинише домене који могу да приступе Google Workspace-у.
+policy-AllowFileSelectionDialogs = Дозволи дијалошке оквире за бирање датотеке.
 policy-AppAutoUpdate = Омогућава или онемогућава аутоматско ажурирање програма.
 policy-AppUpdatePin = Спречите да се { -brand-short-name } ажурира даље од наведене верзије.
 policy-AppUpdateURL = Подеси прилагођену адресу за ажурирање програма.
 policy-Authentication = Подесите уграђену идентификацију за сајтове који то подржавају.
+policy-AutofillAddressEnabled = Омогући аутоматско попуњавање адреса.
+policy-AutofillCreditCardEnabled = Омогући аутоматско попуњавање начина плаћања.
 policy-AutoLaunchProtocolsFromOrigins = Дефинишите листу спољних протокола који се могу користити из наведених извора без питања корисника.
 policy-BackgroundAppUpdate2 = Омогућава или онемогућава ажурирање у позадини.
 policy-BlockAboutAddons = Блокира приступ менаџеру додатака (about:addons).
@@ -25,17 +28,22 @@ policy-BlockAboutSupport = Блокирај приступ страници abou
 policy-Bookmarks = Правите обележиваче у траци са обележивачима, менију са обележивачима или у наведеној фасцикли унутар.
 policy-CaptivePortal = Омогући или онемогући подршку за каптивне портале.
 policy-CertificatesDescription = Додај сертификате или користи уграђене сертификате.
+policy-ContentAnalysis = Омогући или онемогући везу са агентом за спречавање губљења података.
 policy-Cookies = Дозволи или забрани сајтовима да остављају колачиће.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Подесите правила у вези са контејнерима.
+policy-DisableAccounts = Онемогући услуге преко налога, укључујући синхронизацију.
 policy-DisabledCiphers = Онемогућите алгоритам шифровања.
 policy-DefaultDownloadDirectory = Поставите подразумевану фасциклу за преузимања.
 policy-DisableAppUpdate = Спречи ажурирање прегледача.
 policy-DisableBuiltinPDFViewer = Онемогући PDF.js, уграђеног прегледача PDF-ова у програму { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Спречава подразумеваног агента прегледача да извршава било какве радње. Доступно само на Windows-у; друге платформе немају агент.
 policy-DisableDeveloperTools = Блокирај приступ програмерским алаткама.
+policy-DisableEncryptedClientHello = Онемогући употребу TLS функције Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Онемогући наредбе за слање повратних информација из менија „Помоћ“ (опције „Пошаљи повратне информације“ и „Пријави обманљив сајт“).
 policy-DisableFirefoxAccounts = Онемогући { -fxaccount-brand-name } услуге, укључујући Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Онемогући услуге преко налога, укључујући синхронизацију.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Онемогућава функцију Firefox Screenshots.
 policy-DisableFirefoxStudies = Спречи извођење { -brand-short-name } студија.
@@ -70,6 +78,7 @@ policy-Extensions = Инсталира, деинсталира или закљу
 policy-ExtensionSettings = Управља свим аспектима инсталације додатка.
 policy-ExtensionUpdate = Омогућава или онемогућава аутоматско ажурирање додатака.
 policy-FirefoxHome2 = Подесите { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Подеси { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Присилите директну интранет навигацију уместо да претражујете када унесете један термин у траку за адресу.
 policy-Handlers = Подесите подразумеване менаџере апликација.
 policy-HardwareAcceleration = Ако је нетачно, искључи хардверско убрзавање.

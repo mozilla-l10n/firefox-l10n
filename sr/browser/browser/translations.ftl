@@ -59,6 +59,7 @@ translations-panel-translate-button-loading =
     .label = Сачекајте…
 translations-panel-translate-cancel =
     .label = Откажи
+translations-panel-learn-more-link = Сазнајте више
 translations-panel-error-translating = Дошло је до проблема при превођењу. Покушајте поново касније.
 translations-panel-error-load-languages = Није могуће учитати језике
 translations-panel-error-load-languages-hint = Проверите интернет везу и покушајте поново.

@@ -2,15 +2,44 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sidebar-options-menu-button =
+    .title = Отвори мени
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Данас - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Јуче - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Обриши из историје
+sidebar-history-sort-by-date =
+    .label = Поредај по датуму
+sidebar-history-sort-by-site =
+    .label = Поредај према страници
+sidebar-history-clear =
+    .label = Обриши историју
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Резултати претраге за „{ $query }“
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Додаци бочног панела
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } алатке
+sidebar-customize-firefox-settings = Управља { -brand-short-name } подешавањима
 sidebar-position-left =
     .label = Прикажи налево
 sidebar-position-right =

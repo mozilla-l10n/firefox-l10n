@@ -201,6 +201,9 @@ profiler-popup-presets-power-description = Препоручена подешав
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Напајање
+profiler-popup-presets-debug-description = Препоручене поставке за отклањање грешака у { -brand-shorter-name }-у. Високо оптерећење, за задатке високих перформанси, већ да за фокусирање на разумевање понашања прегледача.
+profiler-popup-presets-debug-label =
+    .label = Отклањање грешака
 profiler-popup-presets-custom-label =
     .label = Прилагођено
 

@@ -59,6 +59,10 @@ history-section-label = Историја
 item-history-and-downloads =
     .label = Историја прегледања и преузимања
     .accesskey = И
+item-history-form-data-downloads =
+    .label = Историја
+    .accesskey = И
+item-history-form-data-downloads-description = Брише историју сајтова и преузимања, сачуваних података и претрага
 item-cookies =
     .label = Колачићи
     .accesskey = К
@@ -83,6 +87,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Обриши
+sanitize-button-ok2 =
+    .label = Очисти
+sanitize-button-ok-on-shutdown =
+    .label = Сачувај измене
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

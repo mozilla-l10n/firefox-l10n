@@ -371,9 +371,69 @@ onboarding-sign-up-secondary-button = Започните прегледање
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Колико дуго користите { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Колико сте упознати са { -brand-short-name }-ом?
+onboarding-new-user-survey-subtitle = Ваше повратне информације служе да { -brand-short-name } буде још бољи.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Следеће
+onboarding-new-user-survey-legal-link-label = Одабиром „{ onboarding-new-user-survey-next-button-label }”, прихватате { -brand-product-name } <a data-l10n-name="privacy_notice">обавештење о приватности</a>
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Потпуно сам нов/а
+onboarding-new-user-survey-time-based-option-2 = Краће од 1 месеца
+onboarding-new-user-survey-time-based-option-3 = Дуже од 1 месеца, редовно
+onboarding-new-user-survey-time-based-option-4 = Дуже од 1 месеца, повремено
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Потпуно сам нов/а
+onboarding-new-user-survey-familiarity-based-option-2 = Користио/ла сам пар пута
+onboarding-new-user-survey-familiarity-based-option-3 = Познат ми је врло добро
+onboarding-new-user-survey-familiarity-based-option-4 = Користио/ла сам пре, али је прошло одређено време
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Реците нам где желите ваше картице
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Промените кад год желите у подешавањима бочног панела.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Картице у страну
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Картице у врху
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Стигле су усправне картице
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Представљамо усправне картице
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Пробајте картице у страну. Промените кад код желите у подешавањима бочног панела.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Пробај усправне картице
+onboarding-flair-text = Ново!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Задржи водоравне картице
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Прозор прегледача који приказује картице уздуж ивице екрана као део { -brand-shorter-name } бочне траке.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Прозор прегледача који приказује картице уздуж ивице екрана као део { -brand-shorter-name } бочне траке.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Прозор прегледача који приказује картице у врху.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Прозор прегледача који приказује картице у врху.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Пробајте AI чет-бот у бочном панелу
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Сажимајте садржај, разрађујте идеје, састављајте е-поруке — све док прегледате. Бирајте између неколико пружалаца услуге. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
+onboarding-genai-sidebar-primary-button = Изабери чет-бота
+onboarding-genai-sidebar-secondary-button = Започни прегледање
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Доврши постављање { -brand-short-name }-а
+onboarding-checklist-subtitle = Довршите ове кораке за што боље прегледање.
+onboarding-checklist-set-default = Постави { -brand-short-name } подразумеваним прегледачем
+onboarding-checklist-pin = Закачи { -brand-short-name } на траку задатака
+onboarding-checklist-import = Увези из претходног прегледача
+onboarding-checklist-extension = Додај додатак
+onboarding-checklist-sign-up = Региструј се или се пријави у налог

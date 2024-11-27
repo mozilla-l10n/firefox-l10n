@@ -16,6 +16,10 @@ genai-settings-chat-copilot-links = Ако изаберете Copilot, прис�
 genai-settings-chat-gemini-links = Ако изаберете Google Gemini, пристајете на <a data-l10n-name="link1">Google услове коришћења</a>, <a data-l10n-name="link2">смернице о забрањеној употреби генеративне вештачке интелигенције</a> и <a data-l10n-name="link3">обавештење о приватности за Gemini апликације</a>.
 genai-settings-chat-huggingchat-links = Ако изаберете HuggingChat, пристајете на <a data-l10n-name="link1">HuggingChat обавештење о приватности</a> и <a data-l10n-name="link2">HuggingChat политику приватности</a>.
 genai-settings-chat-lechat-links = Ако изаберете Le Chat Mistral, пристајете на Mistral AI <a data-l10n-name="link1">услове коришћења</a> и <a data-l10n-name="link2">политику приватности</a>.
+genai-settings-chat-localhost-links = Донесите ваш приватни локални чет-бот као што је <a data-l10n-name="link1">llamafile</a> од групе за иновације { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = Приказује пречицу до упита када означите текст. { -brand-short-name } шаље текст, назив странице и упит чет-боту.
+    .label = Прикажи упит на одабир текста
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -23,6 +27,22 @@ genai-settings-chat-lechat-links = Ако изаберете Le Chat Mistral, п
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Сажми
+    .value = Сажми одабрани део служећи се прецизним и сажетим језиком. Користи узглавља и спискове у сажетку ради прегледности. Задржи значење и чињенице.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Поједностави језик
+    .value = Поново напиши одабрани део служећи се кратким реченицама и једноставним речима. Задржи значење и чињенице.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Испитај ме
+    .value = Испитај ме о овом одабиру. Питај ме различита питања, као што су питања са вишеструким одговорима, тачно/нетачно и питања са кратким одговорима. Сачекај мој одговор пре него што пређеш на идуће питање.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Објасни ово
+    .value = Објасни кључне идеје у одабраном делу служећи се једноставним речима. Такође, користи примере.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

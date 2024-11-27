@@ -603,6 +603,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description-new = Изузетан садржај који је уредио { $provider }, део { -brand-product-name } породице
+home-prefs-recommended-by-header-generic =
+    .label = Препоручене приче
 
 ##
 
@@ -635,6 +637,10 @@ home-prefs-snippets-description-new =
         [neuter] { -brand-product-name(case: "acc") }
        *[other] програм { -brand-product-name }
     } и организацију { -vendor-short-name }
+home-prefs-weather-header =
+    .label = Време
+home-prefs-weather-description = Временска прогноза за данас
+home-prefs-weather-learn-more-link = Сазнајте више
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -747,6 +753,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Промени профилну слику
     .alt = Промени профилну слику
+sync-profile-picture-account-problem =
+    .alt = Профилна слика налога
+fxa-login-rejected-warning =
+    .alt = Упозорење
 sync-sign-out =
     .label = Одјави ме…
     .accesskey = О
@@ -796,8 +806,10 @@ sync-currently-syncing-bookmarks = Обележивачи
 sync-currently-syncing-history = Историја
 sync-currently-syncing-tabs = Отворене картице
 sync-currently-syncing-logins-passwords = Подаци за пријаву
+sync-currently-syncing-passwords = Лозинке
 sync-currently-syncing-addresses = Адресе
 sync-currently-syncing-creditcards = Кредитне картице
+sync-currently-syncing-payment-methods = Начини плаћања
 sync-currently-syncing-addons = Додаци
 sync-currently-syncing-settings = Подешавања
 sync-change-options =
@@ -939,9 +951,11 @@ primary-password-os-auth-dialog-message-win = Из безбедносних ра
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = направите главну лозинку
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Аутоматско попуњавање
 
 ## Privacy Section - History
 
@@ -1054,9 +1068,12 @@ cookie-banner-handling-description = { -brand-short-name } покушава ау
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Блокатор банера колачића
 cookie-banner-learn-more = Сазнајте више
 forms-handle-cookie-banners =
     .label = Смањи банере колачића
+cookie-banner-blocker-checkbox-label =
+    .label = Аутоматски одбијте банере колачића
 
 ## Privacy Section - Address Bar
 

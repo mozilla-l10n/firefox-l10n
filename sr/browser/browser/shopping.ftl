@@ -2,18 +2,53 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name } куповина
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Прегледач рецензија
+shopping-close-button =
+    .title = Затвори
+# This string is for notifying screen reader users that the
+# sidebar is still loading data.
+shopping-a11y-loading =
+    .aria-label = Учитавање…
 
 ## Strings for the letter grade component.
 ## For now, we only support letter grades A, B, C, D and F.
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Поуздане рецензије
+shopping-letter-grade-description-c = Комбинација поузданих и непоузданих рецензија
+shopping-letter-grade-description-df = Непоуздане рецензије
+# This string is displayed in a tooltip that appears when the user hovers
+# over the letter grade component without a visible description.
+# It is also used for screen readers.
+#  $letter (String) - The letter grade as A, B, C, D or F (hardcoded).
+#  $description (String) - The localized letter grade description. See shopping-letter-grade-description-* strings above.
+shopping-letter-grade-tooltip =
+    .title = { $letter } - { $description }
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Нови подаци за проверу
+shopping-message-bar-warning-stale-analysis-button = Проверите сада
+shopping-message-bar-warning-product-not-available-button2 = Пријавите да је производ на залихама
+shopping-message-bar-analysis-in-progress-title2 = Провера квалитета рецензија
+shopping-message-bar-analysis-in-progress-message2 = Ово може да потраје око 60 секунди.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Проверавање квалитета рецензија ({ $percentage }%)
+shopping-message-bar-keep-closed-dismiss-button = Не, хвала
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Најважније из недавних рецензија
+shopping-highlight-price = Цена
+shopping-highlight-quality = Квалитет
+shopping-highlight-shipping = Испорука
+shopping-highlight-competitiveness = Конкурентност
 shopping-highlight-packaging = Паковање
 
 ## Strings for show more card
@@ -120,11 +155,15 @@ shopping-survey-q2-radio-3-label = Не знам
 shopping-survey-next-button-label = Следеће
 shopping-survey-submit-button-label = Пошаљи
 shopping-survey-terms-link = Услови коришћења
+shopping-survey-thanks =
+    .heading = Хвала на повратним информацијама!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-close-button = Одбаци
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Не приказуј поново
 
 ## Onboarding message strings.
 
