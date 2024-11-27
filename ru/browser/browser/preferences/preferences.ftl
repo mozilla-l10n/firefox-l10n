@@ -134,7 +134,7 @@ startup-restore-windows-and-tabs =
     .label = Открыть предыдущие окна и вкладки
     .accesskey = п
 windows-launch-on-login =
-    .label = Открывать { -brand-short-name } автоматически при загрузке компьютера.
+    .label = Открывать { -brand-short-name } автоматически при загрузке компьютера
     .accesskey = м
 windows-launch-on-login-disabled = Эта настройка отключена в Windows. Чтобы изменить это, откройте <a data-l10n-name="startup-link">Автозагрузка приложений</a> в настройках системы.
 windows-launch-on-login-profile-disabled = Включите эту настройку, установив флажок «{ profile-manager-use-selected.label }» в окне «Выбор профиля пользователя».
