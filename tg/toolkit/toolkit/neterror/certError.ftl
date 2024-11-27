@@ -134,3 +134,4 @@ fp-certerror-hide-advanced-button = Пинҳон кардани тафсилот
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Гузариш ба сомонаи { $hostname } (Хатарнок)

@@ -412,7 +412,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Ҳадди аксар сохтан
 browser-window-restore-down-button =
-    .tooltiptext = Бозгашт ба равзана
+    .tooltiptext = Барқарор кардани равзана
 browser-window-close-button =
     .tooltiptext = Пӯшидан
 
@@ -975,9 +975,6 @@ content-analysis-panel-title = Муҳофизати маълумот
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Ташкилоти шумо барои муҳофизат аз гумшавии маълумот аз <b>«{ $agentName }»</b> истифода мебарад. <a data-l10n-name="info">Маълумоти муфассал</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Ташкилоти шумо барои муҳофизат аз гумшавии маълумот аз «{ $agentName }» истифода мебарад. <a data-l10n-name="info">Маълумоти муфассал</a>
 
 ## Unified extensions (toolbar) button
 
