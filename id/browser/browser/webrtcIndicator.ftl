@@ -129,6 +129,16 @@ webrtc-allow-share-screen-and-audio-capture = Izinkan { $origin } untuk mendenga
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = Izinkan berkas lokal ini untuk mendengarkan audio tab ini?
+webrtc-allow-share-camera-with-file = Izinkan berkas lokal ini untuk menggunakan kamera Anda?
+webrtc-allow-share-microphone-with-file = Izinkan berkas lokal ini untuk menggunakan mikrofon Anda?
+webrtc-allow-share-screen-with-file = Izinkan berkas lokal ini untuk melihat layar Anda?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Izinkan berkas lokal ini untuk menggunakan speaker lainnya?
+webrtc-allow-share-camera-and-microphone-with-file = Izinkan berkas lokal ini untuk menggunakan mikrofon dan kamera Anda?
+webrtc-allow-share-camera-and-audio-capture-with-file = Izinkan berkas lokal ini untuk menggunakan kamera dan mendengarkan audio tab ini?
+webrtc-allow-share-screen-and-microphone-with-file = Izinkan berkas lokal ini untuk menggunakan mikrofon dan melihat layar Anda?
 webrtc-allow-share-screen-and-audio-capture-with-file = Izinkan berkas lokal ini untuk mendengarkan audio tab ini dan melihat layar Anda?
 
 ## Variables:

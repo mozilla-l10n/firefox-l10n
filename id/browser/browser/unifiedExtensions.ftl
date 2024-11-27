@@ -34,10 +34,16 @@ unified-extensions-context-menu-report-extension =
     .label = Laporkan Ekstensi
 unified-extensions-context-menu-move-widget-up =
     .label = Geser Atas
+unified-extensions-context-menu-move-widget-down =
+    .label = Geser Bawah
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Beberapa ekstensi tidak diizinkan
+unified-extensions-mb-quarantined-domain-message = Hanya beberapa ekstensi yang dipantau oleh { -vendor-short-name } yang diizinkan di situs ini untuk melindungi data Anda.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Beberapa ekstensi mungkin tidak akan diizinkan
     .message = Untuk melindungi data Anda, beberapa ekstensi tidak dapat membaca atau mengubah data pada situs ini. Gunakan pengaturan ekstensi untuk mengizinkan situs yang dibatasi oleh { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Pelajari lebih lanjut
+    .aria-label = Pelajari lebih lanjut: Beberapa ekstensi tidak diizinkan
