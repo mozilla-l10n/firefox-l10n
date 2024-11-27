@@ -15,7 +15,10 @@ support-addons-type = Tipe
 support-addons-enabled = Diaktifkan
 support-addons-version = Versi
 support-addons-id = ID
+legacy-user-stylesheets-title = Stylesheet Pengguna Lawas
 legacy-user-stylesheets-enabled = Aktif
+legacy-user-stylesheets-stylesheet-types = Stylesheet
+legacy-user-stylesheets-no-stylesheets-found = Tidak ada stylesheet ditemukan
 security-software-title = Perangkat Lunak Keamanan
 security-software-type = Jenis
 security-software-name = Nama
@@ -75,6 +78,7 @@ app-basics-key-mozilla = Kunci Layanan Lokasi Mozilla
 app-basics-safe-mode = Mode Aman
 app-basics-memory-size = Ukuran Memori (RAM)
 app-basics-disk-available = Kapasitas Disk Tersedia
+app-basics-pointing-devices = Perangkat Penunjuk
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -175,9 +179,26 @@ media-capabilities-enumerate = Daftar basis data
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Dekode Perangkat Lunak
 media-codec-support-hw-decoding = Dekode Perangkat Keras
+media-codec-support-codec-name = Nama Codec
 media-codec-support-supported = Didukung
 media-codec-support-unsupported = Tidak didukung
+media-codec-support-error = Informasi dukungan codec tidak tersedia. Coba lagi setelah memutar berkas media.
+media-codec-support-lack-of-extension = Pasang ekstensi
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informasi Modul Dekripsi Konten
+media-key-system-name = Nama Sistem Kunci
+media-video-robustness = Kekokohan Video
+media-audio-robustness = Kekokohan Audio
+media-cdm-capabilities = Kemampuan
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Kompatibel dengan HDCP 2.2
 
 ##
 
@@ -237,6 +258,7 @@ try-newer-driver = Diblokir untuk versi penggerak grafik Anda. Coba perbarui pen
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameter ClearType
 compositing = Compositing
+support-font-determination = Info Debug Visibilitas Font
 hardware-h264 = Dekode H264 Perangkat Keras
 main-thread-no-omtc = thread utama, tanpa OMTC
 yes = Ya
@@ -364,6 +386,19 @@ support-printing-modified-settings = Pengaturan cetak yang diubah
 support-printing-prefs-name = Nama
 support-printing-prefs-value = Nilai
 
+## Remote Settings sections
+
+support-remote-settings-status = Status
+support-remote-settings-status-ok = Oke
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Tidak berfungsi
+support-remote-settings-last-check = Pemeriksaan terakhir
+support-remote-settings-local-timestamp = Stempel waktu lokal
+support-remote-settings-sync-history = Riwayat
+support-remote-settings-sync-history-status = Status
+support-remote-settings-sync-history-datetime = Tanggal
+support-remote-settings-sync-history-infos = Info
+
 ## Normandy sections
 
 support-remote-experiments-title = Eksperimen Jarak Jauh
@@ -373,3 +408,22 @@ support-remote-experiments-see-about-studies = Lihat <a data-l10n-name="support-
 support-remote-features-title = Fitur Jarak Jauh
 support-remote-features-name = Nama
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Layar Sentuh
+pointing-device-pen-digitizer = Digitizer Pen
+pointing-device-none = Tidak ada alat penunjuk
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analisis Konten (DLP)
+content-analysis-active = Aktif
+content-analysis-connected-to-agent = Tersambung dengan Agen
+content-analysis-agent-path = Jalur Agen
+content-analysis-agent-failed-signature-verification = Verifikasi Tanda Tangan Agen Gagal
+content-analysis-request-count = Jumlah Permintaan

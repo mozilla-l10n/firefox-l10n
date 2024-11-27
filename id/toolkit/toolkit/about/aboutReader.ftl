@@ -4,7 +4,6 @@
 
 about-reader-loading = Memuat…
 about-reader-load-error = Gagal memuat artikel dari laman
-
 about-reader-color-scheme-light = Terang
     .title = Skema Warna Terang
 about-reader-color-scheme-dark = Gelap
@@ -13,7 +12,18 @@ about-reader-color-scheme-sepia = Sepia
     .title = Skema Warna Sepia
 about-reader-color-scheme-auto = Otomatis
     .title = Skema Warna Otomatis
-
+about-reader-color-light-theme = Terang
+    .title = Tema terang
+about-reader-color-dark-theme = Gelap
+    .title = Tema gelap
+about-reader-color-sepia-theme = Sepia
+    .title = Tema sepia
+about-reader-color-auto-theme = Otomatis
+    .title = Tema otomatis
+about-reader-color-gray-theme = Abu-abu
+    .title = Tema abu-abu
+about-reader-color-contrast-theme = Kontras
+    .title = Tema kontras
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -40,9 +50,63 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Tanpa-serif
+about-reader-font-type-monospace = Spasi tetap
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Tutup Tampilan Pembaca
 about-reader-toolbar-type-controls = Kontrol Jenis
+about-reader-toolbar-text-layout-controls = Teks dan tata letak
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Simpan ke { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Baku
+about-reader-customtheme-tab = Khusus
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Teks
+    .title = Edit warna
+about-reader-custom-colors-background = Latar Belakang:
+    .title = Edit warna
+about-reader-custom-colors-unvisited-links = Tautan yang belum dikunjungi
+    .title = Edit warna
+about-reader-custom-colors-visited-links = Tautan yang dikunjungi
+    .title = Edit warna
+about-reader-custom-colors-selection-highlight = Penyorot untuk dibacakan
+    .title = Edit warna
+about-reader-reset-button = Pulihkan bawaan
+
+## Reader View improved text and layout menu
+
+about-reader-text-header = Teks
+about-reader-text-size-label = Ukuran teks
+about-reader-font-type-selector-label = Font
+about-reader-font-weight-selector-label = Berat font
+about-reader-font-weight-light = Tipis
+about-reader-font-weight-regular = Reguler
+about-reader-font-weight-bold = Tebal
+about-reader-layout-header = Tata Letak
+about-reader-slider-label-spacing-standard = Standar
+about-reader-slider-label-spacing-wide = Lebar
+about-reader-content-width-label =
+    .label = Lebar konten
+about-reader-line-spacing-label =
+    .label = Spasi baris
+about-reader-advanced-layout-header = Tingkat lanjut
+about-reader-character-spacing-label =
+    .label = Spasi karakter
+about-reader-word-spacing-label =
+    .label = Spasi kata
+about-reader-text-alignment-label = Perataan teks
+about-reader-text-alignment-left =
+    .title = Ratakan teks ke kiri
+about-reader-text-alignment-center =
+    .title = Ratakan teks di tengah
+about-reader-text-alignment-right =
+    .title = Ratakan teks ke kanan

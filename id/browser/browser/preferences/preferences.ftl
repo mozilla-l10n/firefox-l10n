@@ -1125,6 +1125,10 @@ content-blocking-enhanced-tracking-protection = Perlindungan Pelacakan yang Diti
 content-blocking-section-top-level-description = Pelacak mengikuti Anda berkeliling daring untuk mengumpulkan informasi tentang kebiasaan dan minat penelusuran Anda. { -brand-short-name } memblokir banyak pelacak dan skrip jahat lainnya.
 content-blocking-learn-more = Pelajari Lebih Lanjut
 content-blocking-fpi-incompatibility-warning = Anda menggunakan First Party Isolation (FPI), yang menimpa beberapa pengaturan kuki { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Anda menggunakan Resist Fingerprinting (RFP), yang menggantikan beberapa pengaturan perlindungan sidik jari { -brand-short-name }. Ini mungkin menyebabkan beberapa situs rusak.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1274,6 +1278,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
+collection-header2 = Pengumpulan dan Penggunaan Data { -brand-short-name }
+    .searchkeywords = telemetri
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
@@ -1304,6 +1310,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Preferensi Iklan Situs Web
+website-advertising-private-attribution =
+    .label = Izinkan situs web untuk melakukan pengukuran iklan dengan menjaga privasi
+    .accesskey = I
+website-advertising-private-attribution-description = Ini membantu situs memahami bagaimana kinerja iklan mereka tanpa mengumpulkan data tentang Anda.
 
 ## Privacy Section - Security
 ##
@@ -1335,6 +1346,9 @@ certs-view =
 certs-devices =
     .label = Peranti Keamanan…
     .accesskey = P
+certs-thirdparty-toggle =
+    .label = Izinkan { -brand-short-name } untuk secara otomatis mempercayai sertifikat akar pihak ketiga yang Anda pasang
+    .accesskey = s
 space-alert-over-5gb-settings-button =
     .label = Buka Pengaturan
     .accesskey = B
@@ -1345,6 +1359,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kehabisan ruang d
 
 httpsonly-header = Mode Hanya HTTPS
 httpsonly-description = HTTPS menyediakan koneksi yang aman, terenkripsi antara { -brand-short-name } dan situs web yang Anda kunjungi. Kebanyakan situs web mendukung HTTPS, dan jika Mode Hanya HTTPS diaktifkan, maka { -brand-short-name } akan meningkatkan semua koneksi ke HTTPS.
+httpsonly-description2 = { -brand-short-name } membuat koneksi yang aman dan terenkripsi ke situs yang Anda kunjungi. { -brand-short-name } akan memperingatkan jika sambungan ternyata tidak aman saat HTTPS-Only aktif.
 httpsonly-learn-more = Pelajari lebih lanjut
 httpsonly-radio-enabled =
     .label = Aktifkan Mode Hanya HTTPS di semua jendela
@@ -1352,11 +1367,71 @@ httpsonly-radio-enabled2 =
     .label = Hanya gunakan HTTPS di semua jendela
 httpsonly-radio-enabled-pbm =
     .label = Aktifkan Mode Hanya HTTPS di jendela pribadi saja
+httpsonly-radio-enabled-pbm2 =
+    .label = Hanya gunakan HTTPS di jendela pribadi
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
+httpsonly-radio-disabled2 =
+    .label = Coba HTTPS terlebih dahulu, tetapi izinkan sambungan yang tidak aman
 
 ## DoH Section
 
+preferences-doh-header = DNS melalui HTTPS
+preferences-doh-description = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menciptakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
+preferences-doh-description2 = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menyediakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Penyedia: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL tidak valid
+preferences-doh-steering-status = Menggunakan penyedia lokal
+preferences-doh-status-active = Aktif
+preferences-doh-status-disabled = Mati
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Tidak aktif ({ $reason })
+preferences-doh-group-message = Aktifkan DNS aman menggunakan:
+preferences-doh-group-message2 = Aktifkan DNS melalui HTTPS menggunakan:
+preferences-doh-expand-section =
+    .tooltiptext = Informasi lebih lanjut
+preferences-doh-setting-default =
+    .label = Perlindungan Baku
+    .accesskey = B
+preferences-doh-default-desc = { -brand-short-name } memutuskan kapan menggunakan DNS aman untuk melindungi privasi Anda.
+preferences-doh-default-detailed-desc-1 = Gunakan DNS aman di wilayah yang tersedia
+preferences-doh-default-detailed-desc-2 = Gunakan resolver DNS bawaan Anda jika ada masalah dengan penyedia DNS aman
+preferences-doh-default-detailed-desc-3 = Gunakan penyedia lokal, jika memungkinkan
+preferences-doh-default-detailed-desc-4 = Matikan jika VPN, kontrol orang tua, atau kebijakan perusahaan sedang diaktifkan
+preferences-doh-default-detailed-desc-5 = Matikan jika jaringan memberi tahu { -brand-short-name } agar tidak menggunakan DNS aman
+preferences-doh-setting-enabled =
+    .label = Peningkatan Perlindungan
+    .accesskey = k
+preferences-doh-enabled-desc = Anda mengontrol kapan harus menggunakan DNS aman dan memilih penyedia Anda.
+preferences-doh-enabled-detailed-desc-1 = Gunakan penyedia yang Anda pilih
+preferences-doh-enabled-detailed-desc-2 = Hanya gunakan resolver DNS bawaan Anda jika ada masalah dengan DNS aman
+preferences-doh-setting-strict =
+    .label = Perlindungan Maksimal
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } akan selalu menggunakan DNS aman. Anda akan mendapatkan peringatan risiko keamanan sebelum kami menggunakan DNS sistem Anda.
+preferences-doh-strict-detailed-desc-1 = Hanya gunakan penyedia yang Anda pilih
+preferences-doh-strict-detailed-desc-2 = Selalu peringatkan jika DNS aman tidak tersedia
+preferences-doh-strict-detailed-desc-3 = Jika DNS aman tidak tersedia, situs tidak akan dimuat atau berfungsi dengan baik
+preferences-doh-setting-off =
+    .label = Nonaktif
+    .accesskey = N
+preferences-doh-off-desc = Gunakan resolver DNS bawaan Anda
+preferences-doh-checkbox-warn =
+    .label = Peringatkan jika pihak ketiga secara aktif mencegah DNS aman
+    .accesskey = P
+preferences-doh-select-resolver = Pilih penyedia:
+preferences-doh-exceptions-description = { -brand-short-name } tidak akan menggunakan DNS aman di situs ini
+preferences-doh-manage-exceptions =
+    .label = Kelola Pengecualian…
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 

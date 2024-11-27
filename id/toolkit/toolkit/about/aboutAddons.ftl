@@ -167,6 +167,8 @@ extensions-warning-update-security2 =
     .message = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security-button = Aktifkan
     .title = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
+extensions-warning-imported-addons2 =
+    .message = Selesaikan pemasangan ekstensi yang diimpor ke { -brand-short-name }
 extensions-warning-imported-addons-button = Pasang Ekstensi
 
 ## Strings connected to add-on updates
@@ -218,6 +220,9 @@ shortcuts-no-addons = Anda tidak memiliki ekstensi yang aktif.
 shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
 shortcuts-input =
     .placeholder = Ketikkan pintasan
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Hapus Pintasan
 shortcuts-browserAction2 = Aktifkan tombol bilah alat
 shortcuts-pageAction = Aktifkan tindakan laman
 shortcuts-sidebarAction = Aktifkan/Nonaktifkan bilah samping
@@ -288,6 +293,14 @@ find-more-themes = Temukan lebih banyak tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Opsi Lainnya
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Ekstensi dan tema memungkinkan Anda menyesuaikan { -brand-product-name }. Keduanya dapat meningkatkan privasi,
+    meningkatkan produktivitas, meningkatkan media, mengubah tampilan { -brand-product-name }, dan
+    lebih banyak lagi. Program perangkat lunak kecil ini sering dikembangkan oleh pihak ketiga. 
+    Berikut adalah <a data-l10n-name="learn-more-trigger">rekomendasi</a> pilihan { -brand-product-name }
+    untuk keamanan, kinerja, dan fungsionalitas yang luar biasa.
 
 ## Add-on actions
 
@@ -367,6 +380,10 @@ addon-detail-updates-radio-on = Aktif
 addon-detail-updates-radio-off = Nonaktif
 addon-detail-update-check-label = Periksa Versi Baru
 install-update-button = Perbarui
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -375,12 +392,21 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 addon-detail-private-browsing-allow = Izinkan
 addon-detail-private-browsing-disallow = Jangan Izinkan
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Jalankan pada situs yang dibatasi
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Jika diizinkan, ekstensi akan memiliki akses ke situs yang dibatasi oleh { -vendor-short-name }. Izinkan hanya jika Anda memercayai ekstensi ini.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Izinkan
+addon-detail-quarantined-domains-disallow = Jangan Izinkan
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
@@ -406,6 +432,7 @@ available-updates-heading = Versi Baru yang Tersedia
 recent-updates-heading = Versi Terkini
 release-notes-loading = Memuat…
 release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
+addon-permissions-empty2 = Ekstensi ini tidak memerlukan izin apa pun.
 addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
 addon-permissions-required = Izin yang diperlukan untuk fungsi inti:
 addon-permissions-optional = Izin opsional untuk fungsi tambahan:
@@ -455,10 +482,24 @@ details-notification-unsigned-and-disabled-link = Informasi Lebih Lanjut
 details-notification-unsigned = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name }. Lanjutkan dengan hati-hati.
 details-notification-unsigned2 =
     .message = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name }. Lanjutkan dengan hati-hati.
+details-notification-hard-blocked-extension =
+    .message = Ekstensi ini diblokir karena melanggar kebijakan Mozilla dan telah dinonaktifkan.
+details-notification-hard-blocked-other =
+    .message = Pengaya ini diblokir karena melanggar kebijakan Mozilla dan telah dinonaktifkan.
 details-notification-unsigned-link = Informasi Lebih Lanjut
 details-notification-blocked = { $name } telah dimatikan karena masalah keamanan atau kestabilan.
 details-notification-blocked2 =
     .message = { $name } telah dimatikan karena masalah keamanan atau kestabilan.
+details-notification-blocked-link2 = Lihat Detail
+details-notification-soft-blocked-extension-disabled =
+    .message = Ekstensi ini dibatasi karena melanggar kebijakan Mozilla dan telah dinonaktifkan. Anda dapat mengaktifkannya, tetapi ini mungkin berisiko.
+details-notification-soft-blocked-extension-enabled =
+    .message = Ekstensi ini melanggar kebijakan Mozilla. Menggunakannya mungkin berisiko.
+details-notification-soft-blocked-other-disabled =
+    .message = Pengaya ini dibatasi karena melanggar kebijakan Mozilla dan telah dinonaktifkan. Anda dapat mengaktifkannya, tetapi ini mungkin berisiko.
+details-notification-soft-blocked-other-enabled =
+    .message = Pengaya ini melanggar kebijakan Mozilla. Menggunakannya mungkin berisiko.
+details-notification-softblocked-link2 = Lihat Detail
 details-notification-blocked-link = Informasi Lebih Lanjut
 details-notification-softblocked = { $name } telah dikenali mengakibatkan masalah keamanan atau kestabilan.
 details-notification-softblocked2 =
