@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Ďalšie informácie o Rozšírenej ochrane pred sledovaním
 protections-panel-etp-on-header = Rozšírená ochrana pred sledovaním je na tejto stránke ZAPNUTÁ
 protections-panel-etp-off-header = Rozšírená ochrana pred sledovaním je na tejto stránke VYPNUTÁ
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Stránka nefunguje?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Stránka nefunguje?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Rozšírená ochrana pred sledovaním
     .description = Vypnutá pre túto stránku
     .aria-label = Rozšírená ochrana pred sledovaním: vypnutá na stránke { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Stránka nefunguje?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Stránka nefunguje?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,14 @@ protections-panel-content-blocking-fingerprinters-label = Snímanie digitálneho
 protections-panel-blocking-label = Zablokované
 protections-panel-not-blocking-label = Povolené
 protections-panel-not-found-label = Nenájdené
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } na tejto stránke blokuje sledovanie obsahu, pokiaľ to nepovolíte.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Povoliť { $trackername }
 
 ##
 
@@ -108,7 +116,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Nahlásiť nefunkčnú stránku
 protections-panel-content-blocking-breakage-report-view-description = Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii { -brand-short-name } sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu. <label data-l10n-name="learn-more">Ďalšie informácie</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokovanie určitých sledovacích prvkov môže spôsobiť problémy s niektorými webovými stránkami. Nahlásením týchto problémov pomôžete vylepšiť { -brand-short-name } pre každého. Odoslaním tohto prehľadu sa odošle adresa URL a informácie o nastaveniach vášho prehliadača spoločnosti { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adresa URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adresa URL

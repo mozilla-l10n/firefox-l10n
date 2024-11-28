@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Požiadať webové stránky pomocou príznaku “Do Not Track”, aby vás nesledovali
+do-not-track-removal = Príznak “Nesledovať” (Do Not Track) už nie je podporovaný
 do-not-track-description2 =
     .label = Odosielať webovým stránkam požiadavku “Nesledovať” (Do Not Track).
     .accesskey = w
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Otvárať odkazy v kartách namiesto okien
     .accesskey = r
+ask-on-close-multiple-tabs =
+    .label = Opýtať sa pred zatvorením viacerých kariet naraz
+    .accesskey = v
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Opýtať sa pred ukončením pomocou skratky { $quitKey }
+    .accesskey = u
 confirm-on-close-multiple-tabs =
     .label = Vyžadovať potvrdenie pred zatvorením viacerých kariet naraz
     .accesskey = V
@@ -572,8 +584,7 @@ home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštív
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované skratky
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
