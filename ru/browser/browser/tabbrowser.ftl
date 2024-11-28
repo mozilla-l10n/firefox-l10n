@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[many] Закрыть { $tabCount } вкладок?
     }
 tabbrowser-confirm-close-tabs-button = Закрыть вкладки
+tabbrowser-ask-close-tabs-checkbox = Спрашивать перед закрытием нескольких вкладок
 tabbrowser-confirm-close-tabs-checkbox = Подтверждать закрытие нескольких вкладок
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Закрыть окно и вый
 tabbrowser-confirm-close-tabs-with-key-button = Выйти из { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Спрашивать перед выходом с помощью { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Подтверждать выход с помощью { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Выйти из { -brand-short-name } или закрыть текущую вкладку?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Выйти из { -brand-short-name }
+       *[other] Выйти из { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Закрыть текущую вкладку
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,6 +222,53 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Отмена
     .accesskey = С
-tab-group-editor-create =
-    .label = Создать
+tab-context-unnamed-group =
+    .label = Безымянная группа
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Добавить вкладку в новую группу
+            [one] Добавить вкладку в новую группу
+            [few] Добавить вкладки в новую группу
+           *[many] Добавить вкладки в новую группу
+        }
+    .accesskey = п
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Добавить вкладку в группу
+            [one] Добавить вкладку в группу
+            [few] Добавить вкладки в группу
+           *[many] Добавить вкладки в группу
+        }
+    .accesskey = п
+tab-group-editor-action-new-tab =
+    .label = Новая вкладка в группе
+tab-group-editor-action-new-window =
+    .label = Переместить группу в новое окно
+tab-group-editor-action-save =
+    .label = Сохранить и закрыть группу
+tab-group-editor-action-ungroup =
+    .label = Разгруппировать вкладки
+tab-group-editor-action-delete =
+    .label = Удалить группу
+tab-group-editor-done =
+    .label = Готово
+    .accessKey = в
+tab-context-reopen-tab-group =
+    .label = Восстановить группу вкладок
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Удалить из группы
+            [one] Удалить из группы
+            [few] Удалить из групп
+           *[many] Удалить из групп
+        }
     .accesskey = к

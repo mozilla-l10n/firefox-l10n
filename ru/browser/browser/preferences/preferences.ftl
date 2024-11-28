@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Отправлять сайтам сигнал «Не отслеживать», означающий, что вы не хотите, чтобы вас отслеживали
+do-not-track-removal = Мы больше не поддерживаем сигнал «Не отслеживать»
 do-not-track-description2 =
     .label = Отправлять веб-сайтам запрос «Не отслеживать»
     .accesskey = в
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Открывать ссылки во вкладках вместо новых окон
     .accesskey = ы
+ask-on-close-multiple-tabs =
+    .label = Спрашивать перед закрытием нескольких вкладок
+    .accesskey = ь
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Спрашивать перед выходом с помощью { $quitKey }
+    .accesskey = и
 confirm-on-close-multiple-tabs =
     .label = Подтвердить перед закрытием нескольких вкладок
     .accesskey = е
@@ -572,8 +584,7 @@ home-prefs-shortcuts-description = Сохранённые или посещае�
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсируемые ярлыки
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
