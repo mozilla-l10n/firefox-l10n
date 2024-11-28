@@ -41,10 +41,42 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Некоторые расширения запрещены
 unified-extensions-mb-quarantined-domain-message = Только некоторые расширения, отслеживаемые { -vendor-short-name }, разрешены на этом сайте для защиты ваших данных.
-unified-extensions-mb-quarantined-domain-message-2 = Чтобы защитить ваши данные, некоторые расширения ограничены в чтении или изменении данных на этом сайте. Используйте настройки расширения, чтобы разрешить доступ к сайтам, ограниченным { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Некоторые расширения запрещены
     .message = Чтобы защитить ваши данные, некоторые расширения ограничены в чтении или изменении данных на этом сайте. Используйте настройки расширения, чтобы разрешить доступ к сайтам, ограниченным { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Узнать больше
     .aria-label = Узнать больше: некоторые расширения не разрешены
+unified-extensions-mb-about-addons-link = Перейти в настройки расширения
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } отключено
+    .message =
+        Это расширение нарушает политику Mozilla и было отключено.
+        Вы можете включить его в настройках, но это может быть рискованно.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } отключено
+    .message = Это расширение нарушает политику Mozilla и было отключено.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } расширение отключено
+            [few] { $extensionsCount } расширения отключено
+           *[many] { $extensionsCount } расширений отключено
+        }
+    .message = Вы можете включить их в настройках, но это может быть рискованно.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } расширение отключено
+            [few] { $extensionsCount } расширения отключено
+           *[many] { $extensionsCount } расширений отключено
+        }
+    .message = Некоторые из ваших расширений были отключены из-за нарушения политик Mozilla.
