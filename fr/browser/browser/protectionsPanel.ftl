@@ -72,6 +72,19 @@ protections-panel-blocking-label = Bloqués
 protections-panel-not-blocking-label = Autorisés
 protections-panel-not-found-label = Aucun détecté
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } bloque le contenu utilisé pour le pistage lorsque vous êtes sur ce site, sauf si vous l’autorisez.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Autoriser { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Traqueurs et contenus bloqués pour { $trackername }
+smartblock-placeholder-desc = Vos paramètres { -brand-short-name } ont empêché ce contenu de vous pister sur des sites ou d’être utilisé pour des publicités.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Autoriser sur { $websitehost }
+
 ##
 
 protections-panel-settings-label = Paramètres de protection

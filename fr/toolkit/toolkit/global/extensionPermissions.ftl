@@ -30,4 +30,6 @@ webext-perms-description-sessions = Accéder aux onglets récemment fermés
 webext-perms-description-tabs = Accéder aux onglets du navigateur
 webext-perms-description-tabHide = Afficher ou masquer les onglets du navigateur
 webext-perms-description-topSites = Accéder à l’historique de navigation
+webext-perms-description-trialML = Télécharger et exécuter des modèles d’IA sur votre appareil
+webext-perms-description-userScripts = Autoriser les scripts tiers non vérifiés à accéder à vos données
 webext-perms-description-webNavigation = Accéder à l’activité du navigateur pendant la navigation
