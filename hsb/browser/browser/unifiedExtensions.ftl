@@ -41,10 +41,10 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Někotre rozšěrjenja dowolene njejsu
 unified-extensions-mb-quarantined-domain-message = Jenož někotre rozšěrjenja, kotrež so wot { -vendor-short-name } dohladuja, su na tutym sydle dowolene, zo bychu waše daty škitali.
-unified-extensions-mb-quarantined-domain-message-2 = Zo byšće swoje daty škitał, njemóža někotre rozšěrjenja daty na tutym sydle ani čitać ani změnić. Wužiwajće nastajenja rozšěrjenja, zo byšće přistup k sydłam dowolił, kotrež su wot { -vendor-short-name } wobmjezowane.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Někotre rozšěrjenja dowolene njejsu
     .message = Zo byšće swoje daty škitał, njemóža někotre rozšěrjenja daty na tutym sydle ani čitać ani změnić. Wužiwajće nastajenja rozšěrjenja, zo byšće přistup k sydłam dowolił, kotrež su wot { -vendor-short-name } wobmjezowane.
 unified-extensions-mb-quarantined-domain-learn-more = Dalše informacije
     .aria-label = Dalše informacije: Někotre rozšěrjenja dowolene njejsu
+unified-extensions-mb-about-addons-link = K nastajenjam rozšěrjenjow

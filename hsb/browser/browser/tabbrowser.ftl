@@ -238,3 +238,50 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Nowej skupinje { $tabCount } rajtark přidać
+            [one] Nowej skupinje { $tabCount } rajtark přidać
+            [two] Nowej skupinje { $tabCount } rajtarkaj přidać
+            [few] Nowej skupinje { $tabCount } rajtarki přidać
+           *[other] Nowej skupinje { $tabCount } rajtarkow přidać
+        }
+    .accesskey = N
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Skupinje { $tabCount } rajtark přidać
+            [one] Skupinje { $tabCount } rajtark přidać
+            [two] Skupinje { $tabCount } rajtarkaj přidać
+            [few] Skupinje { $tabCount } rajtarki přidać
+           *[other] Skupinje { $tabCount } rajtarkow přidać
+        }
+    .accesskey = S
+tab-group-editor-action-new-tab =
+    .label = Nowy rajtark w skupinje
+tab-group-editor-action-new-window =
+    .label = Skupinu do noweho wokna přesunyć
+tab-group-editor-action-save =
+    .label = Skupinu składować a začinić
+tab-group-editor-action-ungroup =
+    .label = Skupinu rajtarkow zběhnyć
+tab-group-editor-action-delete =
+    .label = Skupinu zhašeć
+tab-group-editor-done =
+    .label = Dokónčeny
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = Skupinu rajtarkow zaso wočinić
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Z { $groupCount } skupiny wotstronić
+            [one] Z { $groupCount } skupiny wotstronić
+            [two] Z { $groupCount } skupinow wotstronić
+            [few] Z { $groupCount } skupinow wotstronić
+           *[other] Z { $groupCount } skupinow wotstronić
+        }
+    .accesskey = t
