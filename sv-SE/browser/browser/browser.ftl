@@ -411,8 +411,6 @@ browser-window-minimize-button =
     .tooltiptext = Minimera
 browser-window-maximize-button =
     .tooltiptext = Maximera
-browser-window-restore-down-button =
-    .tooltiptext = Återställ nedåt
 browser-window-close-button =
     .tooltiptext = Stäng
 
@@ -975,9 +973,6 @@ content-analysis-panel-title = Dataskydd
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Din organisation använder <b>{ $agentName }</b> för att skydda mot dataförlust. <a data-l10n-name="info">Läs mer</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Din organisation använder { $agentName } för att skydda mot dataförlust. <a data-l10n-name="info">Läs mer</a>
 
 ## Unified extensions (toolbar) button
 
