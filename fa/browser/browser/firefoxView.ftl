@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = ‏{ $percentValue }٪ انجام شده
 firefoxview-tabpickup-step-signin-header = بی‌وقفه بین دستگاه‌ها جابه‌جا شوید
 firefoxview-tabpickup-step-signin-description = برای دریافت زبانه‌های تلفن همراه خود در این‌جا، ابتدا وارد شوید یا یک حساب ایجاد کنید.
 firefoxview-tabpickup-step-signin-primarybutton = ادامه
+firefoxview-syncedtabs-signin-primarybutton-2 = ورود
 firefoxview-syncedtabs-signin-primarybutton = وارد شوید یا نام‌نویسی کنید
 firefoxview-tabpickup-adddevice-header = ‏{ -brand-product-name } را در تلفن همراه یا تبلت خود همگام‌سازی کنید
 firefoxview-tabpickup-adddevice-description = ‏{ -brand-product-name } را برای تلفن همراه بارگیری کنید و در آن‌جا وارد شوید.
@@ -75,9 +76,17 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = تاریخچه
+    .title = تاریخچه
+firefoxview-history-header = تاریخچه
+firefoxview-history-context-delete = حذف از تاریخچه
+    .accesskey = ح
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = گشودن زبانه‌ها
+    .title = گشودن زبانه‌ها
+firefoxview-opentabs-header = گشودن زبانه‌ها
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
@@ -87,6 +96,12 @@ firefoxview-collapse-button-hide =
 
 ##
 
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = جستجو
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = تاریخچه جستجو
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -106,6 +121,10 @@ firefoxview-collapse-button-hide =
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = بستن
+    .title = بستن‌
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
@@ -115,6 +134,8 @@ firefoxview-collapse-button-hide =
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-tabs =
+    .title = زبانه‌ها
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:

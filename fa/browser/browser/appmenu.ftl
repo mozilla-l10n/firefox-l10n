@@ -281,6 +281,7 @@ appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 ## Profiles panel
 
 appmenu-profiles = نمایه‌ها
+appmenu-other-profiles = نمایه‌های دیگر
 appmenu-manage-profiles =
     .label = مدیریت نمایه‌ها
 appmenu-create-profile =

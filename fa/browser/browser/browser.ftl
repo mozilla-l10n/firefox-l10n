@@ -279,6 +279,8 @@ quickactions-cmd-plugins = افزایه‌ها
 # Opens the print dialog
 quickactions-print2 = چاپ صفحه
 quickactions-cmd-print = چاپ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = ذخیره صفحه به صورت PDF
 # Opens a new private browsing window
 quickactions-private2 = گشایش پنجره ناشناس
 quickactions-cmd-private = مرور ناشناس
@@ -598,6 +600,7 @@ urlbar-searchmode-history =
     .label = تاریخچه
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+urlbar-searchmode-popup-search-settings = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -891,6 +894,9 @@ data-reporting-notification-button =
     .accesskey = ا
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = مرور ناشناس
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = مرور ناشناس
 
 ## Unified extensions (toolbar) button
 
@@ -916,8 +922,21 @@ unified-extensions-button-quarantined =
         افزونه‌ها
         بعضی افزونه‌ها مجاز نیستند
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = افزونه‌ها
+    .tooltiptext =
+        افزونه‌ها
+        برخی از افزونه‌ها غیرفعال هستند
+
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = پایان نشست خصوصی
+    .tooltiptext = پایان نشست خصوصی
+reset-pbm-panel-heading = آیا می‌خواهید نشست خصوصی خود را خاتمه دهید؟
 
 ## Autorefresh blocker
 
