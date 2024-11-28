@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Din standard-søgetjeneste er blevet ændret.</strong> { -brand-short-name } understøtter ikke længere { $oldEngine }. { $newEngine } er nu din standard-søgetjeneste. Gå til Indstillinger for at skifte til en anden standard-søgetjeneste. <label data-l10n-name="remove-search-engine-article">Læs mere</label>
 removed-search-engine-message2 = <strong>Din standard-søgetjeneste er blevet ændret.</strong> { -brand-short-name } understøtter ikke længere { $oldEngine }. { $newEngine } er nu din standard-søgetjeneste. Gå til Indstillinger for at skifte til en anden standard-søgetjeneste.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Tilføj { $engineName } som søgetjeneste?
+install-search-engine-add = Tilføj
+install-search-engine-no = Nej
