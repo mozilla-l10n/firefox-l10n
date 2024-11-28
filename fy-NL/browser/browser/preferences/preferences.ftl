@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle
+do-not-track-removal = Wy stypje it ‘Net folgje’-sinjaal net mear
 do-not-track-description2 =
     .label = Stjoer websites in ‘Net-folgje’-fersyk.
     .accesskey = f
@@ -153,6 +154,17 @@ ctrl-tab-recently-used-order =
     .accesskey = T
 open-new-link-as-tabs =
     .label = Keppelingen iepenje yn ljepblêden yn stee fan nije finsters
+    .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Freegje foar it sluten fan meardere ljepblêden
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Freegje foar ôfsluten mei { $quitKey }
     .accesskey = f
 confirm-on-close-multiple-tabs =
     .label = Warskôgje by it sluten fan meardere ljepblêden
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Bewarre of besochte websites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsore fluchkeppelingen
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Oanrekommandearre troch { $provider }

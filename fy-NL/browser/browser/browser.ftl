@@ -978,9 +978,6 @@ content-analysis-panel-title = Gegevensbeskerming
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Jo organisaasje brûkt <b>{ $agentName }</b> om jo te beskermjen tsjin gegevensferlies. <a data-l10n-name="info">Mear ynfo</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Jo organisaasje brûkt { $agentName } om jo te beskermjen tsjin gegevensferlies. <a data-l10n-name="info">Mear ynfo</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1005,6 +1002,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Utwreidingen
         Guon útwreidingen binne net tastien
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Extensies
+    .tooltiptext =
+        Utwreidingen
+        Guon útwreidingen binne útskeakele
 
 ## Private browsing reset button
 

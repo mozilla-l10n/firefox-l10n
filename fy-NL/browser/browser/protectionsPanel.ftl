@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Mear ynformaasje oer Ferbettere beskerming tsjin folgjen
 protections-panel-etp-on-header = Ferbettere beskerming tsjin folgjen is OAN foar dizze website
 protections-panel-etp-off-header = Ferbettere beskerming tsjin folgjen is ÚT foar dizze website
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Wurket de website net?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Wurket de website net?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Ferbettere beskerming tsjin folgjen
     .description = Ut foar dizze website
     .aria-label = Ferbettere beskerming tsjin folgjen: út foar { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Wurket de website net?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Wurket de website net?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,16 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Blokkearre
 protections-panel-not-blocking-label = Tastien
 protections-panel-not-found-label = Gjin detektearre
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokkearret folchynhâld wylst jo besite oan dizze website, útsein jo dizze tastean.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } tastean
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername }-trackers en -ynhâld blokkearre
 
 ##
 
@@ -108,7 +118,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Net-wurkjende website melde
 protections-panel-content-blocking-breakage-report-view-description = It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo { -brand-short-name } foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd. <label data-l10n-name="learn-more">Mear ynfo</label>
-protections-panel-content-blocking-breakage-report-view-description2 = It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo { -brand-short-name } foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei { -vendor-short-name } ferstjoerd.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
