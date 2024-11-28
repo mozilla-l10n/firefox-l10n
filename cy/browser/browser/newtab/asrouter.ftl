@@ -310,6 +310,12 @@ root-certificate-succession-infobar-secondary-button =
     .label = Yn hwyrach
     .accesskey = Y
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Rydych wedi methu diweddariad { -brand-short-name } pwysig
+root-certificate-windows-background-notification-subtitle = Bydd rhannau o'r porwr yn peidio â gweithio cyn hir os fyddwch chi ddim yn diweddaru. Mae nawr yn amser gwych i gael ein hamddiffyniadau a'n nodweddion diweddaraf.
+root-certificate-windows-background-notification-learn-more-button = Darllen rhagor
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

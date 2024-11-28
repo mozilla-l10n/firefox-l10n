@@ -994,9 +994,6 @@ content-analysis-panel-title = Diogelu data
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Mae eich sefydliad yn defnyddio <b>{ $agentName }</b> i ddiogelu rhag colli data. <a data-l10n-name="info">Dysgu rhagor</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Mae eich sefydliad yn defnyddio { $agentName } i ddiogelu rhag colli data. <a data-l10n-name="info">Dysgu rhagor</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1021,6 +1018,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Estyniadau
         Nid oes caniatâd i rai estyniadau
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Estyniadau
+    .tooltiptext =
+        Estyniadau
+        Mae rhai estyniadau wedi'u hanalluogi
 
 ## Private browsing reset button
 
