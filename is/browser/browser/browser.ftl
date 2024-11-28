@@ -978,9 +978,6 @@ content-analysis-panel-title = Gagnavarnir
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Stofnunin þín notar <b>{ $agentName }</b> til að verjast gagnatapi. <a data-l10n-name="info">Frekari upplýsingar</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Stofnunin þín notar { $agentName } til að verjast gagnatapi. <a data-l10n-name="info">Frekari upplýsingar</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1005,6 +1002,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Forritsaukar
         Sumir forritsaukar eru ekki leyfðir
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Forritsaukar
+    .tooltiptext =
+        Forritsaukar
+        Sumir forritsaukar eru óvirkir
 
 ## Private browsing reset button
 

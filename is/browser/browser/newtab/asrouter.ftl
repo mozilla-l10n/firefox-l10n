@@ -298,6 +298,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Síðar
     .accesskey = r
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Þú misstir af mikilvægri uppfærslu á { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Hlutar vafrans hætta fljótlega að virka ef þú uppfærir ekki. Núna er réttur tími til að fá bestu varnirnar okkar og nýjustu eiginleikana.
+root-certificate-windows-background-notification-learn-more-button = Fræðast meira
+root-certificate-windows-background-notification-update-button = Uppfæra { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

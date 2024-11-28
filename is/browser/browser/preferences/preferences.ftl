@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér
+do-not-track-removal = Við styðjum ekki lengur „Ekki rekja“ merkinguna
 do-not-track-description2 =
     .label = Senda vefsvæðum „Ekki rekja“ beiðni
     .accesskey = d
@@ -154,6 +155,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Opna tengla sem flipa í staðinn fyrir nýja glugga
     .accesskey = g
+ask-on-close-multiple-tabs =
+    .label = Staðfesta áður en mörgum flipum er lokað
+    .accesskey = m
 confirm-on-close-multiple-tabs =
     .label = Staðfesta áður en mörgum flipum er lokað
     .accesskey = m
@@ -569,8 +573,7 @@ home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
 home-prefs-shortcuts-by-option-sponsored =
     .label = Kostaðar flýtileiðir
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
