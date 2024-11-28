@@ -224,3 +224,24 @@ tab-context-move-tab-to-group =
     .accesskey = g
 tab-group-editor-action-new-tab =
     .label = Nyt faneblad i gruppe
+tab-group-editor-action-new-window =
+    .label = Flyt gruppe til et nyt vindue
+tab-group-editor-action-save =
+    .label = Gem og luk gruppen
+tab-group-editor-action-delete =
+    .label = Slet gruppe
+tab-group-editor-done =
+    .label = Færdig
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Åbn fanebladsgruppe igen
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Fjern fra gruppe
+            [one] Fjern fra gruppe
+           *[other] Fjern fra grupper
+        }
+    .accesskey = F
