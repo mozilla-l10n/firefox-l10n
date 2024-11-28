@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Clauder { $tabCount } schedas?
 tabbrowser-confirm-close-tabs-button = Clauder le schedas
+tabbrowser-ask-close-tabs-checkbox = Demandar ante clauder plure schedas
 tabbrowser-confirm-close-tabs-checkbox = Confirmar ante clauder plure schedas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -103,6 +104,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Quitar { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar ante quitar con { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,6 +188,31 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancellar
     .accesskey = C
-tab-group-editor-create =
-    .label = Crear
-    .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Adder scheda al nove gruppo
+           *[other] Adder schedas al nove gruppo
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adder scheda gruppo
+           *[other] Adder schedas gruppo
+        }
+    .accesskey = g
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Remover del gruppo
+            [one] Remover del gruppo
+           *[other] Remover del gruppos
+        }
+    .accesskey = R
