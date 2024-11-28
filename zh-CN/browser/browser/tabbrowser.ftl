@@ -76,6 +76,10 @@ tabbrowser-confirm-close-tabs-with-key-button = 退出 { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = 按 { $quitKey } 退出时向您确认
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = 确认打开
@@ -147,14 +151,15 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
-tab-group-editor-title-create = 创建标签页组
-tab-group-editor-title-edit = 管理标签页组
+tab-group-editor-title-create = 创建标签页群组
+tab-group-editor-title-edit = 管理标签页群组
 tab-group-editor-name-label = 名称
 tab-group-editor-name-field =
     .placeholder = 例如：购物
 tab-group-editor-cancel =
     .label = 取消
     .accesskey = C
-tab-group-editor-create =
-    .label = 创建
-    .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
