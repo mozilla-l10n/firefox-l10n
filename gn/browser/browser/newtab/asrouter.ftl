@@ -297,6 +297,10 @@ root-certificate-succession-infobar-secondary-button =
     .label = Upéi
     .accesskey = L
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Eikuaave
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

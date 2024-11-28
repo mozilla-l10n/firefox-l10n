@@ -978,9 +978,6 @@ content-analysis-panel-title = Mba’ekuaarã ñemo’ã
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Nde atyguasu oiporu <b>{ $agentName }</b> oñemo’ã hag̃ua mba’ekuaarã ñehundígui. <a data-l10n-name="info">Eikuaave</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Nde atyguasu oiporu { $agentName } oñemo’ã hag̃ua mba’ekuaarã ñehundígui. <a data-l10n-name="info">Eikuaave</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1003,6 +1000,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Jepysokue
         Oĩ Jepysokue oñemoneĩ’ỹva
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Jepysokue
+    .tooltiptext =
+        Jepysokue
+        Heta jepysokue oñemboty
 
 ## Private browsing reset button
 
