@@ -206,3 +206,24 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Embojuapy tendayke aty pyahúpe
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Embojuapy tendayke atýpe
+            [one] Embojuapy tendaykekuéra atýpe
+           *[other] Embojuapy tendaykekuéra atýpe
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Tendayke pyahu atýpe
+tab-group-editor-action-new-window =
+    .label = Eguerova aty ovetã pyahúpe
+tab-group-editor-action-save =
+    .label = Eñongatu ha emboty aty
