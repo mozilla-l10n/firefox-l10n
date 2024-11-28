@@ -52,6 +52,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Tutup { $tabCount } tab?
 tabbrowser-confirm-close-tabs-button = Tutup Tab
+tabbrowser-ask-close-tabs-checkbox = Tanyakan sebelum menutup banyak tab
 tabbrowser-confirm-close-tabs-checkbox = Konfirmasi sebelum menutup banyak tab
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -74,7 +75,14 @@ tabbrowser-confirm-close-tabs-with-key-title = Tutup jendela dan keluar dari { -
 tabbrowser-confirm-close-tabs-with-key-button = Keluar dari { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Tanyakan sebelum keluar dengan { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Konfirmasi sebelum keluar dari { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -155,3 +163,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Batal
     .accesskey = B
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

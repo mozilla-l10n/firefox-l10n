@@ -295,6 +295,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Nanti
     .accesskey = N
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Anda melewatkan pembaruan penting { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Beberapa bagian peramban akan segera berhenti bekerja jika Anda tidak memperbarui. Sekarang adalah waktu yang tepat untuk mendapatkan perlindungan dan fitur terbaru kami.
+root-certificate-windows-background-notification-learn-more-button = Pelajari lebih lanjut
+root-certificate-windows-background-notification-update-button = Perbarui { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

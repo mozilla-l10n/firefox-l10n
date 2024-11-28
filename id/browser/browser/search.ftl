@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan. <label data-l10n-name="remove-search-engine-article">Pelajari lebih lanjut</label>
 removed-search-engine-message2 = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan.
 remove-search-engine-button = Oke
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Tambahkan { $engineName } sebagai mesin pencari?
+install-search-engine-add = Tambahkan
+install-search-engine-no = Tidak

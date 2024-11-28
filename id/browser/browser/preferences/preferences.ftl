@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak
+do-not-track-removal = Kami tidak lagi mendukung sinyal "Jangan Lacak"
 do-not-track-description2 =
     .label = Kirim sinyal “Jangan Lacak” ke situs web
     .accesskey = K
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Buka tautan di tab, bukan di jendela baru
     .accesskey = t
+ask-on-close-multiple-tabs =
+    .label = Tanyakan sebelum menutup banyak tab
+    .accesskey = s
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Tanyakan sebelum keluar dengan { $quitKey }
+    .accesskey = k
 confirm-on-close-multiple-tabs =
     .label = Konfirmasi sebelum menutup banyak tab
     .accesskey = K
@@ -557,8 +569,7 @@ home-prefs-shortcuts-description = Situs yang Anda simpan atau kunjungi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Pintasan bersponsor
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }

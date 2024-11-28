@@ -72,6 +72,18 @@ protections-panel-blocking-label = Diblokir
 protections-panel-not-blocking-label = Diizinkan
 protections-panel-not-found-label = Tidak Terdeteksi
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Izinkan { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Pelacak dan konten { $trackername } diblokir
+smartblock-placeholder-desc = Setelan { -brand-short-name } Anda memblokir konten ini agar tidak melacak Anda di seluruh situs atau digunakan untuk iklan.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Izinkan di { $websitehost }
+
 ##
 
 protections-panel-settings-label = Setelan Perlindungan
