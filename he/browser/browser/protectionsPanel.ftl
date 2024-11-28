@@ -72,6 +72,17 @@ protections-panel-blocking-label = חסומים
 protections-panel-not-blocking-label = מורשים
 protections-panel-not-found-label = לא אותרו
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = לאפשר את { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = רכיבי מעקב ותוכן של { $trackername } חסומים
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = לאפשר ב־{ $websitehost }
+
 ##
 
 protections-panel-settings-label = הגדרות הגנה

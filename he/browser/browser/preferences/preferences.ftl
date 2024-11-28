@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך
+do-not-track-removal = איננו תומכים עוד בחיווי ”נא לא לעקוב”
 do-not-track-description2 =
     .label = שליחת בקשה של ״נא לא לעקוב״ לאתרים
     .accesskey = נ
@@ -569,8 +570,7 @@ home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
 home-prefs-shortcuts-by-option-sponsored =
     .label = קיצורי דרך ממומנים
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }

@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = לסגור { $tabCount } לשוניות?
 tabbrowser-confirm-close-tabs-button = סגירת לשוניות
+tabbrowser-ask-close-tabs-checkbox = לשאול לפני סגירת מספר לשוניות
 tabbrowser-confirm-close-tabs-checkbox = הצגת אזהרה בעת סגירת מספר לשוניות
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = לסגור את החלון ולצ
 tabbrowser-confirm-close-tabs-with-key-button = יציאה מ־{ -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = לשאול לפני יציאה באמצעות { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = הצגת אזהרה בעת יציאה באמצעות { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = לצאת מ־{ -brand-short-name } או לסגור את הלשונית הנוכחית?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] יציאה מ־{ -brand-short-name }
+       *[other] יציאה מ־{ -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = סגירת הלשונית הנוכחית
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,6 +198,36 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ביטול
     .accesskey = ב
-tab-group-editor-create =
-    .label = יצירה
-    .accesskey = צ
+tab-context-unnamed-group =
+    .label = קבוצה ללא שם
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] הוספת לשונית לקבוצה חדשה
+           *[other] הוספת לשוניות לקבוצה חדשה
+        }
+    .accesskey = ק
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] הוספת לשונית לקבוצה
+           *[other] הוספת לשוניות לקבוצה
+        }
+    .accesskey = ק
+tab-group-editor-action-new-tab =
+    .label = לשונית חדשה בקבוצה
+tab-group-editor-action-new-window =
+    .label = העברת הקבוצה לחלון חדש
+tab-group-editor-action-save =
+    .label = שמירה וסגירת הקבוצה
+tab-group-editor-action-ungroup =
+    .label = ביטול קיבוץ הלשוניות
+tab-group-editor-action-delete =
+    .label = מחיקת הקבוצה
+tab-group-editor-done =
+    .label = סיום
+    .accessKey = ס
