@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Zavrieť { $tabCount } kariet?
     }
 tabbrowser-confirm-close-tabs-button = Zavrieť karty
+tabbrowser-ask-close-tabs-checkbox = Opýtať sa pred zatvorením viacerých kariet naraz
 tabbrowser-confirm-close-tabs-checkbox = Vyžadovať potvrdenie pred zatvorením viacerých kariet naraz
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Zavrieť okno a ukončiť { -bran
 tabbrowser-confirm-close-tabs-with-key-button = Ukončiť { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Opýtať sa pred ukončením pomocou skratky { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred ukončením pomocou { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Ukončiť { -brand-short-name } alebo zatvoriť aktuálnu kartu?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Ukončiť { -brand-short-name }
+       *[other] Ukončiť { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Zavrieť aktuálnu kartu
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,6 +222,56 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušiť
     .accesskey = Z
-tab-group-editor-create =
-    .label = Vytvoriť
-    .accesskey = V
+tab-context-unnamed-group =
+    .label = Nepomenovaná skupina
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Pridať kartu do novej skupiny
+            [one] Pridať kartu do novej skupiny
+            [few] Pridať karty do novej skupiny
+            [many] Pridať karty do novej skupiny
+           *[other] Pridať karty do novej skupiny
+        }
+    .accesskey = r
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Pridať kartu do skupiny
+            [one] Pridať kartu do skupiny
+            [few] Pridať karty do skupiny
+            [many] Pridať karty do skupiny
+           *[other] Pridať karty do skupiny
+        }
+    .accesskey = r
+tab-group-editor-action-new-tab =
+    .label = Nová karta v skupine
+tab-group-editor-action-new-window =
+    .label = Presunúť skupinu do nového okna
+tab-group-editor-action-save =
+    .label = Uložiť a zatvoriť skupinu
+tab-group-editor-action-ungroup =
+    .label = Zrušiť zoskupenie kariet
+tab-group-editor-action-delete =
+    .label = Odstrániť skupinu
+tab-group-editor-done =
+    .label = Hotovo
+    .accessKey = H
+tab-context-reopen-tab-group =
+    .label = Znova otvoriť skupinu kariet
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Odstrániť zo skupiny
+            [one] Odstrániť zo skupiny
+            [few] Odstrániť zo skupín
+            [many] Odstrániť zo skupín
+           *[other] Odstrániť zo skupín
+        }
+    .accesskey = d

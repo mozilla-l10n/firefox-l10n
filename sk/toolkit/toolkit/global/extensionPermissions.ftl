@@ -30,4 +30,6 @@ webext-perms-description-sessions = Pristupovať k nedávno zavretým kartám
 webext-perms-description-tabs = Pristupovať ku kartám prehliadača
 webext-perms-description-tabHide = Skrývať a zobrazovať karty prehliadača
 webext-perms-description-topSites = Pristupovať k histórii prehliadania
+webext-perms-description-trialML = Sťahovať a spúšťať modely AI na zariadení
+webext-perms-description-userScripts = Povoliť neovereným skriptom tretích strán prístup k vašim údajom
 webext-perms-description-webNavigation = Pristupovať k aktivitám prehliadača v priebehu prehliadania

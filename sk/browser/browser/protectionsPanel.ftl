@@ -79,6 +79,11 @@ protections-panel-smartblock-desc-label = { -brand-short-name } na tejto stránk
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Povoliť { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Sledovače a obsah { $trackername } sú zablokované
+smartblock-placeholder-desc = { -brand-short-name } na základe vašich nastavení zabránil, aby vás tento obsah mohol sledovať na stránkach alebo ho používať na reklamy.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Povoliť na { $websitehost }
 
 ##
 

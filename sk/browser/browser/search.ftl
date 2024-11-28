@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Váš predvolený vyhľadávací modul bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávací modul prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávacím modulom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávací modul, prejdite do nastavení. <label data-l10n-name="remove-search-engine-article">Ďalšie informácie</label>
 removed-search-engine-message2 = <strong>Váš predvolený vyhľadávací modul bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávací modul prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávacím modulom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávací modul, prejdite do nastavení.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Pridať { $engineName } ako vyhľadávací modul?
+install-search-engine-add = Pridať
+install-search-engine-no = Nie
