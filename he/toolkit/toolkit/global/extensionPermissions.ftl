@@ -30,4 +30,6 @@ webext-perms-description-sessions = גישה ללשוניות שנסגרו לא�
 webext-perms-description-tabs = גישה ללשוניות
 webext-perms-description-tabHide = הסתרה והצגת לשוניות הדפדפן
 webext-perms-description-topSites = גישה להיסטוריית הגלישה
+webext-perms-description-trialML = הורדה והרצת מודולי AI במכשיר שלך
+webext-perms-description-userScripts = לאפשר לתסריטי צד שלישי לא מאומתים לגשת לנתונים שלך
 webext-perms-description-webNavigation = גישה לפעילות הדפדפן במהלך הניווט
