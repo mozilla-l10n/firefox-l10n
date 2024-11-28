@@ -68,19 +68,19 @@ unified-extensions-mb-blocklist-warning-multiple =
             [zero]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglus.
+                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
             [one]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae un o'ch estyniadau wedi'i analluogi am dorri polisïau Mozilla
-                Gallwch ei alluogi yn y gosodiadau ond gall hynny fod yn beryglus.
+                Gallwch ei alluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
             [two]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglusf
+                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglusf
             [few]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglus.
+                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
             [many]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
@@ -88,12 +88,12 @@ unified-extensions-mb-blocklist-warning-multiple =
            *[other]
                 Analluogwyd estyniad { $extensionsCount } 
                 Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglus.
+                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
         }
     .message =
         Analluogwyd estyniad { $extensionsCount } 
         Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-        Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglus.
+        Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
