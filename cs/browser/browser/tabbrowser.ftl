@@ -129,6 +129,11 @@ tabbrowser-confirm-close-tabs-with-key-button =
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončování aplikace zkratkou { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Zavřít aktuální panel
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Potvrdit otevření
@@ -222,3 +227,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušit
     .accesskey = Z
+tab-context-unnamed-group =
+    .label = Nepojmenovaná skupina
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-save =
+    .label = Uložit a zavřít skupinu
+tab-group-editor-action-delete =
+    .label = Smazat skupinu
+tab-group-editor-done =
+    .label = Hotovo
+    .accessKey = H

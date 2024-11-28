@@ -1052,9 +1052,6 @@ content-analysis-panel-title = Ochrana údajů
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Vaše organizace používá k ochraně před ztrátou dat agenta <b>{ $agentName }</b>. <a data-l10n-name="info">Zjistit více</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Vaše organizace používá k ochraně před ztrátou dat agenta { $agentName }. <a data-l10n-name="info">Zjistit více</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1079,6 +1076,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Rozšíření
         Některá rozšíření nejsou povolena.
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Rozšíření
+    .tooltiptext =
+        Rozšíření
+        Některá rozšíření jsou zakázána
 
 ## Private browsing reset button
 

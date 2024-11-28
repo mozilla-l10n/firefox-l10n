@@ -405,6 +405,10 @@ root-certificate-succession-infobar-secondary-button =
     .label = Později
     .accesskey = P
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Zjistit více
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
