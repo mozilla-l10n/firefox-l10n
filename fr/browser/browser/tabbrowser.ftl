@@ -104,6 +104,13 @@ tabbrowser-confirm-close-tabs-with-key-button = Quitter { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmer avant de quitter avec { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Quitter { -brand-short-name } ou fermer l’onglet actuel ?
+tabbrowser-confirm-close-windows-warn-shortcut-button = Quitter { -brand-short-name }
+tabbrowser-confirm-close-tab-only-button = Fermer l’onglet courant
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmation de l’ouverture
@@ -183,6 +190,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuler
     .accesskey = A
-tab-group-editor-create =
-    .label = Créer
-    .accesskey = C
+tab-context-unnamed-group =
+    .label = Groupe sans nom
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Ajouter l’onglet à un nouveau groupe
+            [one] Ajouter l’onglet à un nouveau groupe
+           *[other] Ajouter les onglets à un nouveau groupe
+        }
+    .accesskey = A
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Ajouter l’onglet au groupe
+            [one] Ajouter l’onglet au groupe
+           *[other] Ajouter les onglets au groupe
+        }
+    .accesskey = A
+tab-group-editor-action-new-tab =
+    .label = Nouvel onglet dans le groupe
+tab-group-editor-action-new-window =
+    .label = Déplacer le groupe vers une nouvelle fenêtre
+tab-group-editor-action-save =
+    .label = Enregistrer et fermer le groupe
+tab-group-editor-action-ungroup =
+    .label = Dissocier les onglets
+tab-group-editor-action-delete =
+    .label = Supprimer le groupe
+tab-group-editor-done =
+    .label = Terminer
+    .accessKey = T
+tab-context-reopen-tab-group =
+    .label = Rouvrir le groupe d’onglets
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Retirer du groupe
+            [one] Retirer du groupe
+           *[other] Retirer des groupes
+        }
+    .accesskey = R

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Envoyer aux sites web un signal « Ne pas me pister » indiquant que vous ne souhaitez pas être pisté·e
+do-not-track-removal = Le signal « Ne pas me pister » n’est plus pris en charge
 do-not-track-description2 =
     .label = Demander aux sites web de « Ne pas me pister »
     .accesskey = e
@@ -569,8 +570,7 @@ home-prefs-shortcuts-description = Sites que vous enregistrez ou visitez
 home-prefs-shortcuts-by-option-sponsored =
     .label = Raccourcis sponsorisés
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recommandations par { $provider }
