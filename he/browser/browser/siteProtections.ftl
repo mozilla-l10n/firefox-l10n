@@ -4,12 +4,12 @@
 
 content-blocking-trackers-view-empty = לא זוהו באתר זה
 content-blocking-cookies-blocking-trackers-label = עוגיות מעקב חוצות אתרים
-content-blocking-cookies-blocking-third-party-label = עוגיות צד־שלישי
+content-blocking-cookies-blocking-third-party-label = עוגיות צד שלישי
 content-blocking-cookies-blocking-unvisited-label = עוגיות מאתרים שלא ביקרתי בהם
 content-blocking-cookies-blocking-all-label = כל העוגיות
 content-blocking-cookies-view-first-party-label = מאתר זה
 content-blocking-cookies-view-trackers-label = עוגיות מעקב חוצות אתרים
-content-blocking-cookies-view-third-party-label = עוגיות צד־שלישי
+content-blocking-cookies-view-third-party-label = עוגיות צד שלישי
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -46,7 +46,7 @@ protections-blocking-cryptominers =
 protections-blocking-cookies-trackers =
     .title = עוגיות מעקב חוצות אתרים חסומות
 protections-blocking-cookies-third-party =
-    .title = עוגיות צד־שלישי חסומות
+    .title = עוגיות צד שלישי חסומות
 protections-blocking-cookies-all =
     .title = כל העוגיות חסומות
 protections-blocking-cookies-unvisited =

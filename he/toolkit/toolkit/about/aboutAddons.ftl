@@ -258,7 +258,7 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד. היישומים הקטנים האלו לרוב מפותחים על־ידי גורמי צד־שלישי. להלן מבחר הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליצה</a> עליהן בגלל האבטחה, הביצועים והפונקציונליות יוצאת הדופן שלהן.
+discopane-intro = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד. היישומים הקטנים האלו לרוב מפותחים על־ידי גורמי צד שלישי. להלן מבחר הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליצה</a> עליהן בגלל האבטחה, הביצועים והפונקציונליות יוצאת הדופן שלהן.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
 # Notice to make user aware that the recommendations are personalized.
@@ -285,6 +285,9 @@ find-more-themes = חיפוש ערכות נושא נוספות
 # used for screen readers.
 addon-options-button =
     .aria-label = אפשרויות נוספות
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = הרחבות וערכות נושא מאפשרות לך להתאים אישית את { -brand-product-name }. הן יכולות להגביר את הפרטיות, לשפר את הפרודוקטיביות, לשפר את המדיה, לשנות את האופן שבו { -brand-product-name } נראה, ועוד כל כך הרבה. תוכנות קטנות אלו מפותחות לרוב על־ידי גורם צד שלישי. הנה מבחר של הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליץ</a> עליהם לאבטחה, ביצועים ופונקציונליות יוצאי דופן.
 
 ## Add-on actions
 
