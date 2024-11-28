@@ -283,18 +283,42 @@ newtab-wallpaper-light-color = اشکال آبی، صورتی و زرد
 
 ## Solid Colors
 
+newtab-wallpaper-blue = آبی
+newtab-wallpaper-light-blue = آبی روشن
+newtab-wallpaper-light-purple = بنفش روشن
+newtab-wallpaper-light-green = سبز روشن
+newtab-wallpaper-green = سبز
+newtab-wallpaper-beige = بژ
+newtab-wallpaper-yellow = زرد
+newtab-wallpaper-orange = نارنجی
+newtab-wallpaper-pink = صورتی
+newtab-wallpaper-light-pink = صورتی روشن
+newtab-wallpaper-red = قرمز
+newtab-wallpaper-dark-blue = آبی تیره
+newtab-wallpaper-dark-purple = بنفش تیره
+newtab-wallpaper-dark-green = سبز تیره
+newtab-wallpaper-brown = قهوه‌ای
 
 ## Abstract
 
 
 ## Photographs
 
+newtab-wallpaper-white-mountains = کوه‌های سفید
 
 ## New Tab Weather
 
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = ساده
+newtab-weather-menu-learn-more = بیشتر بدانید
 
 ## Topic Labels
 
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = ذخیره
+newtab-topic-selection-cancel-button = انصراف
+newtab-topic-selection-button-maybe-later = شاید بعداً
