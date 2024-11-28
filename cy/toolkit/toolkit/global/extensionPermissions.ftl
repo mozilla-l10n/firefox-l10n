@@ -30,4 +30,6 @@ webext-perms-description-sessions = Mynediad at y tabiau caewyd yn ddiweddar
 webext-perms-description-tabs = Mynediad at dabiau'r porwyr
 webext-perms-description-tabHide = Cuddio a dangos tabiau'r porwr
 webext-perms-description-topSites = Mynediad at eich hanes pori
+webext-perms-description-trialML = Llwythwch i lawr a rhedeg modelau AI ar eich dyfais
+webext-perms-description-userScripts = Caniatáu i sgriptiau trydydd parti heb eu gwirio gael mynediad i'ch data
 webext-perms-description-webNavigation = Cael mynediad at weithgaredd wrth lywio
