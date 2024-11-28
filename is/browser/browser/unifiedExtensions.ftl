@@ -41,10 +41,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Sumir forritsaukar eru ekki leyfðir
 unified-extensions-mb-quarantined-domain-message = Aðeins sumir forritsaukar sem { -vendor-short-name } hefur eftirlit með eru leyfðar á þessu vefsvæði, til að vernda gögnin þín.
-unified-extensions-mb-quarantined-domain-message-2 = Til að vernda gögnin þín mega sumar viðbætur ekki lesið eða breytt gögnum á þessari síðu. Notaðu stillingar viðbótarinnar til að leyfa það á vefsvæðum sem takmarkast af { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Sumir forritsaukar eru ekki leyfðir
     .message = Til að vernda gögnin þín mega sumar viðbætur ekki lesið eða breytt gögnum á þessari síðu. Notaðu stillingar viðbótarinnar til að leyfa það á vefsvæðum sem takmarkast af { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Frekari upplýsingar
     .aria-label = Frekari upplýsingar: Sumir viðaukar eru ekki leyfðir
+unified-extensions-mb-about-addons-link = Fara í stillingar forritsauka
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } óvirkt
+    .message =
+        Þessi forritsauki brýtur gegn reglum Mozilla.
+        Þú getur virkjað hann í stillingunum, en slíkt getur verið verið áhættusamt.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } óvirkt
+    .message = Þessi forritsauki brýtur gegn reglum Mozilla og hefur verið gerður óvirkur.

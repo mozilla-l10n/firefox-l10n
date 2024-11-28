@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Nánari upplýsingar um aukna rakningarvörn
 protections-panel-etp-on-header = Kveikt er á aukinni rakningarvörn fyrir þetta vefsvæði
 protections-panel-etp-off-header = Slökkt er á aukinni rakningarvörn fyrir þetta vefsvæði
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Vefsvæði virkar ekki?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Vefsvæði virkar ekki?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Aukin rakningarvörn
     .description = Óvirk fyrir þetta vefsvæði
     .aria-label = Aukin rakningarvörn: Óvirk fyrir { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Vefsvæði virkar ekki?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Vefsvæði virkar ekki?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Fingrafarasöfnun
 protections-panel-blocking-label = Lokað á
 protections-panel-not-blocking-label = Leyft
 protections-panel-not-found-label = Ekkert fannst
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } lokar á rakningu efnis á meðan þú ert á þessu vefsvæði nema þú leyfir það sérstaklega.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Leyfa { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } rekjarar og efni útilokað
+smartblock-placeholder-desc = { -brand-short-name } stillingarnar þínar komu í veg fyrir að þetta efni gæti fylgst með þér á milli vefsvæða eða verið notað fyrir auglýsingar.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Leyfa á { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Tilkynna bilað vefsvæði
 protections-panel-content-blocking-breakage-report-view-description = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til Mozilla. <label data-l10n-name="learn-more">Frekari upplýsingar</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = Vefslóð
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Vefslóð

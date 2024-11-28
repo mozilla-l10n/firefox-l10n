@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Loka { $tabCount } flipum?
 tabbrowser-confirm-close-tabs-button = Loka flipum
+tabbrowser-ask-close-tabs-checkbox = Staðfesta áður en mörgum flipum er lokað
 tabbrowser-confirm-close-tabs-checkbox = Staðfesta áður en mörgum flipum er lokað
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Loka glugga og hætta í { -brand
 tabbrowser-confirm-close-tabs-with-key-button = Hætta í { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Staðfesta áður en þú hættir með { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Staðfesta áður en þú hættir með { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Hætta í { -brand-short-name } eða loka núverandi flipa?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Hætta í { -brand-short-name }
+       *[other] Hætta í { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Loka fyrirliggjandi flipa
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -189,3 +204,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Hætta við
     .accesskey = H
+tab-context-unnamed-group =
+    .label = Ónefndur hópur
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Bæta flipa við nýjan hóp
+            [one] Bæta flipa við nýjan hóp
+           *[other] Bæta flipum við nýjan hóp
+        }
+    .accesskey = h
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Bæta flipa við hóp
+            [one] Bæta flipa við hóp
+           *[other] Bæta flipum við hóp
+        }
+    .accesskey = h
+tab-group-editor-action-new-tab =
+    .label = Nýr flipi í hópnum
+tab-group-editor-action-new-window =
+    .label = Færa hóp yfir í nýjan glugga
+tab-group-editor-action-save =
+    .label = Vista og loka hópnum
+tab-group-editor-action-ungroup =
+    .label = Taka flipa úr hópi
+tab-group-editor-action-delete =
+    .label = Eyða hópi
+tab-group-editor-done =
+    .label = Lokið
+    .accessKey = L
+tab-context-reopen-tab-group =
+    .label = Opna flipahóp aftur
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Fjarlægja úr hópi
+            [one] Fjarlægja úr hópi
+           *[other] Fjarlægja úr hópum
+        }
+    .accesskey = r
