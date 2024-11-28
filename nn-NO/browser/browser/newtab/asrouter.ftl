@@ -297,6 +297,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Seinare
     .accesskey = S
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Les meir
+root-certificate-windows-background-notification-update-button = Oppdater { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
