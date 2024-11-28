@@ -214,3 +214,13 @@ tab-context-move-tab-to-new-group =
            *[other] Føj faneblade til en ny gruppe
         }
     .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Føj faneblad til gruppe
+            [one] Føj faneblad til gruppe
+           *[other] Føj faneblade til gruppe
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nyt faneblad i gruppe
