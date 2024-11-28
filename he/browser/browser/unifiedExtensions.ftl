@@ -41,10 +41,32 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = חלק מההרחבות אינן מורשות לשימוש
 unified-extensions-mb-quarantined-domain-message = רק חלק מההרחבות המנוטרות על־ידי { -vendor-short-name } מותרות לשימוש באתר זה כדי להגן על הנתונים שלך.
-unified-extensions-mb-quarantined-domain-message-2 = כדי להגן על הנתונים שלך, הרחבות מסויימות אינן יכולות לקרוא או לשנות נתונים באתר זה. יש להשתמש בהגדרות של ההרחבה כדי לאפשר אותה באתרים המוגבלים על־ידי { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = חלק מההרחבות אינן מורשות לשימוש
     .message = כדי להגן על הנתונים שלך, הרחבות מסויימות אינן יכולות לקרוא או לשנות נתונים באתר זה. יש להשתמש בהגדרות של ההרחבה כדי לאפשר אותה באתרים המוגבלים על־ידי { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = מידע נוסף
     .aria-label = מידע נוסף: חלק מההרחבות אינן מותרות לשימוש
+unified-extensions-mb-about-addons-link = מעבר להגדרות ההרחבות
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = ההרחבה { $extensionName } מושבתת
+    .message =
+        הרחבה זו מפרה את המדיניות של Mozilla ולכן הושבתה.
+        באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = ההרחבה { $extensionName } מושבתת
+    .message = הרחבה זו מפרה את המדיניות של Mozilla ולכן הושבתה.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } הרחבות מושבתות
+        }
+    .message =
+        חלק מההרחבות שלך הושבתו עקב הפרת המדיניות של Mozilla.
+        באפשרותך להפעיל אותן בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
