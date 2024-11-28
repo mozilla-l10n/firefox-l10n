@@ -30,4 +30,6 @@ webext-perms-description-sessions = Acceder al schedas claudite recentemente
 webext-perms-description-tabs = Acceder al schedas del navigator
 webext-perms-description-tabHide = Celar e monstrar le schedas del navigator
 webext-perms-description-topSites = Acceder al chronologia de navigation
+webext-perms-description-trialML = Discargar e exequer modellos de IA sur tu apparato
+webext-perms-description-userScripts = Permitter a scripts de tertie-parte non verificate de acceder a tu datos
 webext-perms-description-webNavigation = Acceder al activitate del navigator durante le navigation

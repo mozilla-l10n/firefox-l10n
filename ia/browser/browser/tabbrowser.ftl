@@ -103,11 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Clauder le fenestra e quitar { -b
 tabbrowser-confirm-close-tabs-with-key-button = Quitar { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Demandar ante quitar con { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar ante quitar con { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Quitar { -brand-short-name } o clauder le scheda actual?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Exir de { -brand-short-name }
+       *[other] Quitar { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Clauder le scheda actual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -188,6 +198,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancellar
     .accesskey = C
+tab-context-unnamed-group =
+    .label = Gruppo sin nomine
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -206,6 +218,21 @@ tab-context-move-tab-to-group =
            *[other] Adder schedas gruppo
         }
     .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nove scheda in gruppo
+tab-group-editor-action-new-window =
+    .label = Mover gruppo a nove fenestra
+tab-group-editor-action-save =
+    .label = Salvar e clauder gruppo
+tab-group-editor-action-ungroup =
+    .label = Separar schedas
+tab-group-editor-action-delete =
+    .label = Deler gruppo
+tab-group-editor-done =
+    .label = Facite
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Reaperir le gruppo de schedas
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
