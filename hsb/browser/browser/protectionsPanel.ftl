@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Dalše informacije wo polěpšenym slědowanskim škiće
 protections-panel-etp-on-header = Polěpšeny slědowanski škit je zmóžnjeny za tute sydło
 protections-panel-etp-off-header = Polěpšeny slědowanski škit je znjemóžnjeny za tute sydło
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Sydło njefunguje?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Sydło njefunguje?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Polěpšeny slědowanski škit
     .description = Za tute sydło znjemóžnjeny
     .aria-label = Polěpšeny slědowanski škit: za { $host } znjemóžnjeny
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Sydło njefunguje?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sydło njefunguje?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,15 @@ protections-panel-content-blocking-fingerprinters-label = Porstowe wotćišće
 protections-panel-blocking-label = Zablokowany
 protections-panel-not-blocking-label = Dowoleny
 protections-panel-not-found-label = Njenamakany
+
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } dowolić
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = { $websitehost } dowolić
 
 ##
 
@@ -108,7 +117,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Wobškodźene sydło zdźělić
 protections-panel-content-blocking-breakage-report-view-description = Blokowanje wěstych přesćěhowakow móže problemy z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće { -brand-short-name } za kóždeho polěpšić. Pósćele so Mozilla URL a informacije wo wašich nastajenjach wobhladowaka. <label data-l10n-name="learn-more">Dalše informacije</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokowanje wěstych přesćěhowakow móže problemy z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće { -brand-short-name } za kóždeho polěpšić. Pósćele so { -vendor-short-name } URL a informacije wo wašich nastajenjach wobhladowaka.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

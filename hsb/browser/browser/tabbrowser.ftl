@@ -100,6 +100,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] { $tabCount } rajtarkow začinić?
     }
 tabbrowser-confirm-close-tabs-button = Rajtarki začinić
+tabbrowser-ask-close-tabs-checkbox = Prašeć so, prjedy hač so wjacore rajtarki začinjeja
 tabbrowser-confirm-close-tabs-checkbox = Wobkrućić, prjedy hač so wjacore rajtarki začinjeja
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -128,7 +129,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Wokno začinić a { -brand-short-
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } skónčić
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Prašeć so, prjedy hač so z { $quitKey } skónči
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Wobkrućić, prjedy hač so z { $quitKey } skónči
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } skónčić abo aktualny rajtark začinić?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } skónčić
+       *[other] { -brand-short-name } skónčić
+    }
+tabbrowser-confirm-close-tab-only-button = Aktualny rajtark začinić
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -217,6 +232,9 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Přetorhnyć
     .accesskey = P
-tab-group-editor-create =
-    .label = Wutworić
-    .accesskey = u
+tab-context-unnamed-group =
+    .label = Skupina bjez mjena
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

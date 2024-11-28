@@ -154,6 +154,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Wotkazy w rajtarkach město nowych woknow wočinić
     .accesskey = r
+ask-on-close-multiple-tabs =
+    .label = Prašeć so, prjedy hač so wjacore rajtarki začinjeja
+    .accesskey = P
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Prašeć so, prjedy hač so z { $quitKey } skónči
+    .accesskey = s
 confirm-on-close-multiple-tabs =
     .label = Wobkrućić, prjedy hač so wjacore rajtarki začinjeja
     .accesskey = W
@@ -575,8 +586,7 @@ home-prefs-shortcuts-description = Sydła, kotrež składujeće abo wopytujeće
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwjazanja
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
