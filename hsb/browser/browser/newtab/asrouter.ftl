@@ -307,6 +307,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Sće wažnu aktualizaciju { -brand-short-name } zapasł
+root-certificate-windows-background-notification-subtitle = Dźěle wobhladowaka bórze hižo njefunguja, jeli njeaktualizujeće. Nětko je dobry čas, zo byšće naše najnowše a funkcije dóstał.
 root-certificate-windows-background-notification-learn-more-button = Dalše informacije
 root-certificate-windows-background-notification-update-button = { -brand-short-name } aktualizować
 

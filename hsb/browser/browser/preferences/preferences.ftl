@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja
+do-not-track-removal = Hižo njepodpěrujemy signal „Njeslědować“
 do-not-track-description2 =
     .label = Websydłam naprašowanje „Njeslědować“ pósłać
     .accesskey = s

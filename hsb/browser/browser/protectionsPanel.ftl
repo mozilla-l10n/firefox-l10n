@@ -74,6 +74,7 @@ protections-panel-not-found-label = Njenamakany
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } wobsah přesćěhowanja blokuje, mjeztym zo sće na tutym sydle, chibazo jón dowoleće.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
