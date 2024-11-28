@@ -78,6 +78,10 @@ protections-panel-not-found-label = Ndaipóri juhupyre
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Emoneĩ { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Tapykuehoha ha tetepy { $trackername } ombotypyre
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Emoneĩ { $websitehost }-pe
 
 ##
 

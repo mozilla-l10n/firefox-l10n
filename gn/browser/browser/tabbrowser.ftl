@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = ¿Emboty { $tabCount } tendayke?
 tabbrowser-confirm-close-tabs-button = Tendayke mboty
+tabbrowser-ask-close-tabs-checkbox = Eporandu emboty mboyve heta tendayke
 tabbrowser-confirm-close-tabs-checkbox = Emoneĩ emboty mboyve heta tendayke
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = ¿Emboty ovetã ha esẽ { -brand
 tabbrowser-confirm-close-tabs-with-key-button = Mboty { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Eporandu esẽ mboyve { $quitKey } ndive
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Emoneĩ esẽ mboyve { $quitKey } ndive
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = ¿Esẽ { -brand-short-name }-gui térã emboty tendayke ag̃agua?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Emboty { -brand-short-name }
+       *[other] Esẽ { -brand-short-name }-gui
+    }
+tabbrowser-confirm-close-tab-only-button = Emboty tendayke ag̃agua
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +200,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Heja
     .accesskey = C
-tab-group-editor-create =
-    .label = Moheñói
-    .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
