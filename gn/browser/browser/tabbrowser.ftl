@@ -200,6 +200,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Heja
     .accesskey = C
+tab-context-unnamed-group =
+    .label = Aty hera’ỹva
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
