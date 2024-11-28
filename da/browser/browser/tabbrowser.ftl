@@ -112,6 +112,12 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Bekræft, inden jeg afslutter 
 ## and browser.warnOnQuitShortcut is true.
 
 tabbrowser-confirm-close-warn-shortcut-title = Afslut { -brand-short-name } eller luk det aktuelle faneblad?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Afslut { -brand-short-name }
+       *[other] Afslut { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Luk det aktuelle faneblad
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -194,7 +200,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuller
     .accesskey = A
+tab-context-unnamed-group =
+    .label = Unavngiven gruppe
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Føj faneblad til en ny gruppe
+            [one] Føj faneblad til en ny gruppe
+           *[other] Føj faneblade til en ny gruppe
+        }
+    .accesskey = g
