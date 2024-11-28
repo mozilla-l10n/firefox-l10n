@@ -300,6 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Vous avez manqué une mise à jour importante de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Si vous n’effectuez pas la mise à jour, certaines fonctionnalités du navigateur cesseront bientôt de fonctionner. C’est le moment idéal pour bénéficier de nos protections et fonctionnalités les plus récentes.
 root-certificate-windows-background-notification-learn-more-button = En savoir plus
 root-certificate-windows-background-notification-update-button = Mettre à jour { -brand-short-name }
 
