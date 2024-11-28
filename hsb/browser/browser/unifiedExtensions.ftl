@@ -60,3 +60,27 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } znjemóžnjeny
     .message = Tute rozšěrjenje so přećiwo prawidłam Mozilla přeńdźe a je so znjemóžniło.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšěrjenje znjemóžnjene
+            [two] { $extensionsCount } rozšěrjeni znjemóžnjenej
+            [few] { $extensionsCount } rozšěrjenja znjemóžnjene
+           *[other] { $extensionsCount } rozšěrjenjow znjemóžnjene
+        }
+    .message =
+        Někotre z wašich rozšěrjenjow su so znjemóžnili, dokelž su so přećiwo prawidłam Mozilla přešli.
+        Móžeće je w nastajenjach zmóžnić, ale to móže riskantne być.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšěrjenje znjemóžnjene
+            [two] { $extensionsCount } rozšěrjeni znjemóžnjenej
+            [few] { $extensionsCount } rozšěrjenja znjemóžnjene
+           *[other] { $extensionsCount } rozšěrjenjow znjemóžnjene
+        }
+    .message = Někotre z wašich nastajenjow su so znjemóžnili, dokelž su so přećiwo prawidłam Mozilla přešli.
