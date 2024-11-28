@@ -48,3 +48,35 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Mear ynfo
     .aria-label = Mear ynfo: guon útwreidingen binne net tastien
 unified-extensions-mb-about-addons-link = Nei útwreiding-ynstellingen
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } útskeakele
+    .message =
+        Dizze útwreiding skeint Mozilla-belied en is utskeakele.
+        Jo kinne it yn jo ynstellingen wer ynskeakelje, mar dit kin risikofol wêze.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } útskeakele
+    .message = Dizze útwreiding skeint Mozilla-belied en is útskeakele.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } útwreiding útskeakele
+           *[other] { $extensionsCount } útwreidingen útskeakele
+        }
+    .message =
+        Guon fan jo útwreidingen binne útskeakele fanwegen skeining fan Mozilla-belied.
+        Jo kinne se yn jo ynstellingen wer ynskeakelje, mar dit kin risikofol wêze.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } útwreiding útskeakele
+           *[other] { $extensionsCount } útwreiding útskeakele
+        }
+    .message = Guon fan jo útwreidingen binne útskeakele fanwegen skeining fan Mozilla-belied.

@@ -30,4 +30,6 @@ webext-perms-description-sessions = Koartlyn sluten ljepblêden benaderje
 webext-perms-description-tabs = Browserljepblêden benaderje
 webext-perms-description-tabHide = Browserljepblêden ferstopje en toane
 webext-perms-description-topSites = Browserskiednis benaderje
+webext-perms-description-trialML = AI-modellen downloade en op jo apparaat útfiere
+webext-perms-description-userScripts = Net-ferifiearre scripts fan tredden tagong ta jo gegevens jaan
 webext-perms-description-webNavigation = Browseraktiviteit wylst navigearjen benaderje
