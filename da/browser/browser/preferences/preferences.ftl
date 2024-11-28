@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
+do-not-track-removal = Vi understøtter ikke længere "Spor mig ikke"-signalet
 do-not-track-description2 =
     .label = Send websteder en "Spor mig ikke"-forespørgsel
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Åbn links i faneblade fremfor i nye vinduer
     .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Spørg, når jeg lukker flere faneblade
+    .accesskey = f
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Spørg, inden jeg afslutter med { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Bekræft, når jeg lukker flere faneblade
     .accesskey = B
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Gemte eller besøgte websteder
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorerede genveje
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Anbefalet af { $provider }
