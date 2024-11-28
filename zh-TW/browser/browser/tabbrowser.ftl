@@ -203,3 +203,14 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = 完成
     .accessKey = D
+tab-context-reopen-tab-group =
+    .label = 重新開啟分頁群組
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] 從群組移除
+           *[other] 從群組移除
+        }
+    .accesskey = R

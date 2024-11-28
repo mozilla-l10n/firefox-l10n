@@ -297,6 +297,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = 您還沒有安裝 { -brand-short-name } 的重大更新
+root-certificate-windows-background-notification-subtitle = 若不更新的話，瀏覽器有部分功能將無法繼續使用。是時候更新，取得最新保護與功能了！
 root-certificate-windows-background-notification-learn-more-button = 更多資訊
 root-certificate-windows-background-notification-update-button = 更新 { -brand-short-name }
 

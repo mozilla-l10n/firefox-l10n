@@ -30,4 +30,6 @@ webext-perms-description-sessions = 取得最近關閉的分頁
 webext-perms-description-tabs = 存取瀏覽器分頁
 webext-perms-description-tabHide = 隱藏或顯示瀏覽器分頁
 webext-perms-description-topSites = 取得瀏覽紀錄
+webext-perms-description-trialML = 下載 AI 模型，並在您的裝置上執行
+webext-perms-description-userScripts = 允許未驗證的第三方指令碼存取您的資料
 webext-perms-description-webNavigation = 在上網時了解瀏覽器行為狀態

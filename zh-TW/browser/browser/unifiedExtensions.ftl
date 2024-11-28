@@ -47,3 +47,23 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = 為了保護您的資料，某些擴充套件無法讀取或更改此網站的資料。您可以到套件設定頁面中允許存取受 { -vendor-short-name } 限制的網站。
 unified-extensions-mb-quarantined-domain-learn-more = 更多資訊
     .aria-label = 更多資訊：不允許使用某些擴充套件
+unified-extensions-mb-about-addons-link = 前往擴充套件設定
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = 已停用 { $extensionName }
+    .message =
+        此擴充套件違反了 Mozilla 的政策，已被停用。
+        您還是可以到設定畫面中開啟，但可能會有風險。
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = 已停用 { $extensionName }
+    .message = 此擴充套件違反了 Mozilla 的政策，已被停用。
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading = 已停用 { $extensionsCount } 組擴充套件
+    .message =
+        您有一些擴充套件違反了 Mozilla 的政策，已被停用。
+        您還是可以到設定畫面中開啟，但可能會有風險。

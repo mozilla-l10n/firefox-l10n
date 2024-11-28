@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = 傳送「Do Not Track」訊號，告訴網站您不想被追蹤
+do-not-track-removal = 我們不再支援「Do Not Track」訊號
 do-not-track-description2 =
     .label = 告訴網站「不要追蹤我」
     .accesskey = d
