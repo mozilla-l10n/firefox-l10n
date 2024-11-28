@@ -30,4 +30,6 @@ webext-perms-description-sessions = Skoða nýjustu flipa sem var lokað
 webext-perms-description-tabs = Skoða vafraflipa
 webext-perms-description-tabHide = Fela og sýna flipa
 webext-perms-description-topSites = Fá aðgang að vafraferli
+webext-perms-description-trialML = Sæktu og keyrðu gervigreindarlíkön á tækinu þínu
+webext-perms-description-userScripts = Leyfa óstaðfestum skriftum frá utanaðkomandi aðilum að fá aðgang að gögnunum þínum
 webext-perms-description-webNavigation = Skoða vafranotkun við að fara um
