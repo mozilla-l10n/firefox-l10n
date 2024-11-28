@@ -72,6 +72,13 @@ protections-panel-blocking-label = Jokopyre
 protections-panel-not-blocking-label = Moneĩmbyre
 protections-panel-not-found-label = Ndaipóri juhupyre
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Emoneĩ { $trackername }
+
 ##
 
 protections-panel-settings-label = Ñemo’ã ñemboheko

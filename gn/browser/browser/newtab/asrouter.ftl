@@ -300,6 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Eikuaave
+root-certificate-windows-background-notification-update-button = Embohekopyahu { -brand-short-name }
 
 ## FxA Menu Message variants
 

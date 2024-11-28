@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Emondo ñanduti rendápe kuaaharã “Jehapykueho’ỹ” ipota’ỹva ojehapykueho
+do-not-track-removal = Nañamoneĩvéima pe kuaaukaha “Ani ehapykueho”
 do-not-track-description2 =
     .label = Emondo ñanduti rendápe mba’ejeure “Jehapykueho’ỹ”
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Eike tendayke joajuhápe ovetã pyahu rendaguépe
     .accesskey = E
+ask-on-close-multiple-tabs =
+    .label = Eporandu emboty mboyve heta tendayke
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Eporandu esẽ mboyve { $quitKey } ndive
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Emoneĩ emboty mboyve heta tendayke
     .accesskey = m
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
 home-prefs-shortcuts-by-option-sponsored =
     .label = Jeike pya’eha jehepyme’ẽpyre
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } he’i ndéve reike hag̃ua
