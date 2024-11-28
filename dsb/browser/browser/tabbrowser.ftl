@@ -262,3 +262,26 @@ tab-group-editor-action-new-tab =
     .label = Nowy rejtarik w kupce
 tab-group-editor-action-new-window =
     .label = Kupku do nowego wokna pśesunuś
+tab-group-editor-action-save =
+    .label = Kupku składowaś a zacyniś
+tab-group-editor-action-ungroup =
+    .label = Kupku rejtarikow wótpóraś
+tab-group-editor-action-delete =
+    .label = Kupku lašowaś
+tab-group-editor-done =
+    .label = Dokóńcony
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = Rejtarikowu kupku zasej wócyniś
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Z { $groupCount } kupki wótwónoźeś
+            [one] Z { $groupCount } kupki wótwónoźeś
+            [two] Z { $groupCount } kupkowu wótwónoźeś
+            [few] Z { $groupCount } kupkow wótwónoźeś
+           *[other] Z { $groupCount } kupkow wótwónoźeś
+        }
+    .accesskey = Z

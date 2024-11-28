@@ -41,10 +41,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Někotare rozšyrjenja njejsu dowólone
 unified-extensions-mb-quarantined-domain-message = Jano někotare rozšyrjenja, kótarež se wót { -vendor-short-name } doglěduju, su na toś tom sedle dowólone, aby waše daty šćitali.
-unified-extensions-mb-quarantined-domain-message-2 = Aby swóje daty šćitał, njamógu někotare rozšyrjenja daty na toś tom sedle daniž cytaś daniž změniś. Wužywajśo nastajenja rozšyrjenja, aby pśistup k sedłam dowólił, kótarež su wót { -vendor-short-name } wobgranicowane.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Někotare rozšyrjenja njejsu dowólone
     .message = Aby swóje daty šćitał, njamógu někotare rozšyrjenja daty na toś tom sedle daniž cytaś daniž změniś. Wužywajśo nastajenja rozšyrjenja, aby pśistup k sedłam dowólił, kótarež su wót { -vendor-short-name } wobgranicowane.
 unified-extensions-mb-quarantined-domain-learn-more = Dalšne informacije
     .aria-label = Dalšne informacije: Někotare rozšyrjenja njejsu dowólone
+unified-extensions-mb-about-addons-link = K nastajenjam rozšyrjenjow
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } znjemóžnjony
+    .message =
+        Toś to rozšyrjenje se pśeśiwo pšawidła, Mozilla pśejźo a jo se znjemóžniło.
+        Móžośo jo w nastajenjam zmóžniś, ale to móžo riskantne byś.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } znjemóžnjony
+    .message = Toś to rozšyrjenje se pśeśiwo pšawidłam Mozilla pśejźo a jo se znjemóžniło.
