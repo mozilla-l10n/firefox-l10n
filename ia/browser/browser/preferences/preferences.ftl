@@ -154,6 +154,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Aperir ligamines in schedas in vice de nove fenestras
     .accesskey = s
+ask-on-close-multiple-tabs =
+    .label = Demandar ante clauder plure schedas
+    .accesskey = p
 confirm-on-close-multiple-tabs =
     .label = Confirmar ante clauder plure schedas
     .accesskey = m
@@ -569,8 +572,7 @@ home-prefs-shortcuts-description = Sitos que tu salva o visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Accessos directe sponsorisate
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }

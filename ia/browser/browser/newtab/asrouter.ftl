@@ -298,6 +298,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Plus tarde
     .accesskey = t
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Pro saper plus
+root-certificate-windows-background-notification-update-button = Actualisar { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
