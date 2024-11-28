@@ -79,6 +79,9 @@ protections-panel-smartblock-desc-label = { -brand-short-name } wobsah přesćě
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = { $trackername } dowolić
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Přesćěhowaki { $trackername } a wobsah zablokowane
+smartblock-placeholder-desc = Waš nastajenja { -brand-short-name } su tutomu wobsahej zadźěwali,  wam přez sydła slědować abo za wabjenje wužiwać.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = { $websitehost } dowolić
 
