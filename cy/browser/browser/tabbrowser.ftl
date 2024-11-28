@@ -116,6 +116,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Cau { $tabCount } tab?
     }
 tabbrowser-confirm-close-tabs-button = Cau tabiau
+tabbrowser-ask-close-tabs-checkbox = Gofyn cyn cau tabiau niferus
 tabbrowser-confirm-close-tabs-checkbox = Cadarnhau cyn cau tabiau lluosog
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -146,7 +147,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Cau ffenestr a gadael { -brand-sh
 tabbrowser-confirm-close-tabs-with-key-button = Gadael { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Gofyn cyn gadael gyda { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Cadarnhau cyn gadael gyda { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Gadael { -brand-short-name } neu gau'r tab cyfredol?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Gadael { -brand-short-name }
+       *[other] Gadael { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Cau'r tab cyfredol
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -237,6 +252,62 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Diddymu
     .accesskey = D
-tab-group-editor-create =
-    .label = Creu
-    .accesskey = C
+tab-context-unnamed-group =
+    .label = Grŵp heb ei enwi
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Ychwanegu Tabiau i Grŵp Newydd
+            [zero] Ychwanegu Tabiau i Grŵp Newydd
+            [one] Ychwanegu Tab i Grŵp Newydd
+            [two] Ychwanegu Tabiau i Grŵp Newydd
+            [few] Ychwanegu Tabiau i Grŵp Newydd
+            [many] Ychwanegu Tabiau i Grŵp Newydd
+           *[other] Ychwanegu Tabiau i Grŵp Newydd
+        }
+    .accesskey = T
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Ychwanegu Tabiau i Grŵp
+            [zero] Ychwanegu Tabiau i Grŵp
+            [one] Ychwanegu Tab i Grŵp
+            [two] Ychwanegu Tabiau i Grŵp
+            [few] Ychwanegu Tabiau i Grŵp
+            [many] Ychwanegu Tabiau i Grŵp
+           *[other] Ychwanegu Tabiau i Grŵp
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Tab newydd yn y grŵp
+tab-group-editor-action-new-window =
+    .label = Symud grŵp i ffenestr newydd
+tab-group-editor-action-save =
+    .label = Cadw a chau'r grŵp
+tab-group-editor-action-ungroup =
+    .label = Dadgrwpio tabiau
+tab-group-editor-action-delete =
+    .label = Dileu grŵp
+tab-group-editor-done =
+    .label = Gorffen
+    .accessKey = G
+tab-context-reopen-tab-group =
+    .label = Ailagor grŵp tabiau
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Tynnu o'r Grwpiau
+            [zero] Tynnu o'r Grwpiau
+            [one] Tynnu o'r Grŵp
+            [two] Tynnu o'r Grwpiau
+            [few] Tynnu o'r Grwpiau
+            [many] Tynnu o'r Grwpiau
+           *[other] Tynnu o'r Grwpiau
+        }
+    .accesskey = T

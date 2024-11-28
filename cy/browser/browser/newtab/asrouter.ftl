@@ -315,6 +315,7 @@ root-certificate-succession-infobar-secondary-button =
 root-certificate-windows-background-notification-title = Rydych wedi methu diweddariad { -brand-short-name } pwysig
 root-certificate-windows-background-notification-subtitle = Bydd rhannau o'r porwr yn peidio â gweithio cyn hir os fyddwch chi ddim yn diweddaru. Mae nawr yn amser gwych i gael ein hamddiffyniadau a'n nodweddion diweddaraf.
 root-certificate-windows-background-notification-learn-more-button = Darllen rhagor
+root-certificate-windows-background-notification-update-button = Diweddaru { -brand-short-name }
 
 ## FxA Menu Message variants
 

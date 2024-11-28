@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau. <label data-l10n-name="remove-search-engine-article">Darllen rhagor</label>
 removed-search-engine-message2 = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau.
 remove-search-engine-button = Iawn
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Ychwanegu { $engineName } fel peiriant chwilio?
+install-search-engine-add = Ychwanegu
+install-search-engine-no = Na

@@ -154,6 +154,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Agor dolenni mewn tabiau ac nid mewn ffenestri newydd
     .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Gofyn cyn cau tabiau niferus
+    .accesskey = G
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Gofyn cyn gadael gyda { $quitKey }
+    .accesskey = n
 confirm-on-close-multiple-tabs =
     .label = Cadarnhau cyn cau tabiau lluosog
     .accesskey = l
@@ -581,8 +592,7 @@ home-prefs-shortcuts-description = Gwefannau rydych yn eu cadw neu'n ymweld â n
 home-prefs-shortcuts-by-option-sponsored =
     .label = Llwybrau byr wedi'u noddi
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }

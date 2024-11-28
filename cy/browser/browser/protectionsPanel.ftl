@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Rhagor o wybodaeth am Ddiogelwch Rhag Tracio Uwch
 protections-panel-etp-on-header = Mae Diogelwch Uwch Rhag Tracio YMLAEN ar y wefan hon
 protections-panel-etp-off-header = Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y wefan hon
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Gwefan ddim yn gweithio?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Gwefan Ddim yn Gweithio?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Diogelwch Uwch Rhag Tracio
     .description = Diffodd ar gyfer y wefan hon
     .aria-label = Diogelwch Uwch Rhag Tracio:  Diffodd ar gyfer { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Gwefan ddim yn gweithio?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Gwefan Ddim yn Gweithio?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Bysbrintwyr
 protections-panel-blocking-label = Rhwystrwyd
 protections-panel-not-blocking-label = Caniatawyd
 protections-panel-not-found-label = Heb Ganfod Dim
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = Mae { -brand-short-name } yn rhwystro tracio cynnwys tra byddwch ar y wefan hon oni bai eich bod yn caniatáu hynny.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Caniatáu { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Mae tracwyr { $trackername } a'i gynnwys wedi'u rhwystro
+smartblock-placeholder-desc = Mae eich gosodiadau { -brand-short-name } wedi rhwystro'r cynnwys hwn rhag eich tracio ar draws gwefannau neu rhag cael ei ddefnyddio ar gyfer hysbysebion.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Caniatáu ar { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Adrodd ar Wefan wedi Torri
 protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Darllen rhagor</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
