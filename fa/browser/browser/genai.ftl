@@ -24,6 +24,19 @@
 genai-onboarding-secondary = بستن
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = درباره ChatGPT بیشتر بدانید
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = درباره Copilot بیشتر بدانید
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = درباره Gemini بیشتر بدانید
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = درباره HuggingChat بیشتر بدانید
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = درباره Le Chat بیشتر بدانید
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

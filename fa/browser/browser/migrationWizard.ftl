@@ -36,6 +36,7 @@ migration-imported-edge-reading-list = لیست مطالعه (از Edge)
 
 ##
 
+migration-bookmarks-option-label = نشانک‌ها
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -50,6 +51,26 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] نوشتار TSV
        *[other] پروندهٔ TSV
     }
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] سند ‎HTML
+       *[other] پرونده‌ ‎HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = پرونده JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } نشانک
+       *[other] { $newEntries } نشانک
+    }
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -60,11 +81,31 @@ migration-passwords-from-file-tsv-filter-title =
 
 ##
 
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } نشانک
+       *[other] { $quantity } نشانک
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } افزونه
+       *[other] { $quantity } افزونه
+    }
 
 ##
 

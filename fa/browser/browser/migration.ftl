@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = راهنمای گام‌به‌گام وارد کردن اطلاعات
-
 import-from =
     { PLATFORM() ->
         [windows] وارد کردن گزینه‌ها، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:
        *[other] وارد کردن ترجیحات، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:
     }
-
 import-from-bookmarks = وارد کردن نشانک‌ها از:
 import-from-ie =
     .label = اینترنت اکسپلورر مایکروسافت
@@ -30,6 +28,12 @@ import-from-nothing =
 import-from-safari =
     .label = سافاری
     .accesskey = س
+import-from-opera =
+    .label = اپرا
+    .accesskey = ا
+import-from-vivaldi =
+    .label = ویوالدی
+    .accesskey = و
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,34 +58,24 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
+import-from-opera-gx =
+    .label = اپرا GX
+    .accesskey = پ
 no-migration-sources = برنامه‌ای که شامل اطلاعات نشانک‌ها، تاریخچه یا گذرواژه‌ها باشد یافت نشد.
-
 import-source-page-title = وارد کردن تنظیمات و داده‌ها
 import-items-page-title = مواردی که وارد شوند
-
 import-items-description = مواردی را که می‌خواهید وارد شوند انتخاب کنید:
-
 import-permissions-page-title = لطفاً مجوزهای لازم را به { -brand-short-name } بدهید
-
 import-migrating-page-title = در حال وارد کردن…
-
 import-migrating-description = موارد زیر در حال وارد شدن هستند…
-
 import-select-profile-page-title = انتخاب مجموعهٔ تنظیمات
-
 import-select-profile-description = مجموعه تنظیمات زیر برای وارد کردن موجودند:
-
 import-done-page-title = اطلاعات وارد شد
-
 import-done-description = موارد زیر با موفقیت وارد شدند:
-
 import-close-source-browser = لطفا قبل از ادامه دادن مطمئن شوید که مرورگر انتخاب شده بسته باشد.
-
 source-name-ie = اینترنت اکسپلورر
 source-name-edge = مایکروسافت Edge
 source-name-chrome = گوگل کروم
-
 imported-safari-reading-list = لیست خواندن (از اپل سفری)
 imported-edge-reading-list = لیست مطالعه (از Edge)
 
@@ -103,7 +97,6 @@ browser-data-cookies-checkbox =
     .label = کلوچک‌ها
 browser-data-cookies-label =
     .value = کلوچک‌ها
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -116,12 +109,10 @@ browser-data-history-label =
             [firefox] تاریخچهٔ مرور و نشانک‌ها
            *[other] تاریخچهٔ مرور
         }
-
 browser-data-formdata-checkbox =
     .label = ذخیره‌شده از تاریخچه
 browser-data-formdata-label =
     .value = ذخیره‌شده از تاریخچه
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -130,7 +121,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ورودها و گذرواژه‌های ذخیره‌شده
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -145,14 +135,11 @@ browser-data-bookmarks-label =
             [edge] محبوب‌ها
            *[other] نشانک‌ها
         }
-
 browser-data-otherdata-checkbox =
     .label = دیگر داده‌ها
 browser-data-otherdata-label =
     .label = دیگر داده‌ها
-
 browser-data-session-checkbox =
     .label = پنجره‌ها و سربرگ ها
 browser-data-session-label =
     .value = پنجره‌ها و سربرگ ها
-

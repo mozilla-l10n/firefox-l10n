@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] خ
            *[other] ت
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ترک { -brand-shorter-name }
-
 menu-about =
     .label = دربارهٔ { -brand-shorter-name }
     .accesskey = د
@@ -233,6 +237,9 @@ menu-bookmark-tab =
     .label = نشانک‌گذاری زبانهٔ کنونی…
 menu-edit-bookmark =
     .label = ویرایش این نشانک…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = جست‌وجوی نشانک‌ها
 menu-bookmarks-all-tabs =
     .label = نشانک‌گذاری تمامی زبانه‌ها…
 menu-bookmarks-toolbar =
@@ -241,6 +248,15 @@ menu-bookmarks-other =
     .label = نشانک‌‌های دیگر
 menu-bookmarks-mobile =
     .label = نشانک‌های همراه
+
+## Profiles Menu
+
+menu-profiles =
+    .label = نمایه‌ها
+menu-profiles-manage-profiles =
+    .label = مدیریت نمایه‌ها
+menu-profiles-new-profile =
+    .label = نمایه جدید
 
 ## Tools Menu
 

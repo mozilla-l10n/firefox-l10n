@@ -226,9 +226,11 @@ newtab-pocket-learn-more = اطلاعات بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بخشی از خانوادهٔ { -brand-product-name } است
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ذخیره
 newtab-pocket-saved = ذخیره شد
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -257,9 +259,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = میانبرهای حمایت شده
 newtab-custom-pocket-title = توصیه‌های { -pocket-brand-name }
 newtab-custom-pocket-subtitle = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
-newtab-custom-pocket-toggle =
-    .label = توصیه‌های { -pocket-brand-name }
-    .description = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
 newtab-custom-pocket-sponsored = محتواهایی از حامیان مالی
 newtab-custom-pocket-show-recent-saves = نمایش ذخیره‌های اخیر
 newtab-custom-recent-title = فعالیت‌های اخیر
@@ -267,5 +266,35 @@ newtab-custom-recent-subtitle = منتخبی از سایت‌ها و مطالب 
 newtab-custom-recent-toggle =
     .label = فعالیت‌های اخیر
     .description = منتخبی از سایت‌ها و مطالب اخیر
+newtab-custom-weather-toggle =
+    .label = آب و هوا
+    .description = پیش‌بینی آب و هوای امروز به طور خلاصه
 newtab-custom-close-button = بستن
 newtab-custom-settings = مدیریت تنظیمات بیشتر
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = کاغذدیواری‌ها
+newtab-wallpaper-reset = بازگرداندن به تنظیمات اولیه
+newtab-wallpaper-light-red-panda = پاندای قرمز
+newtab-wallpaper-light-mountain = کوه سفید
+newtab-wallpaper-light-sky = آسمانی با ابرهای بنفش و صورتی
+newtab-wallpaper-light-color = اشکال آبی، صورتی و زرد
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
