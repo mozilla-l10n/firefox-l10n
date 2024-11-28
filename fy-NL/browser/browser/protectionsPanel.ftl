@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = { $trackername } tastean
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername }-trackers en -ynhâld blokkearre
+smartblock-placeholder-desc = Jo { -brand-short-name }-ynstellingen hawwe opkeard dat dizze ynhâld jo op websites folget of foar advertinsjes brûkt wurdt.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Tastean op { $websitehost }
 
 ##
 

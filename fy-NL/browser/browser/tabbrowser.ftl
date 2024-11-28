@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = { $tabCount } ljepblêden slute?
 tabbrowser-confirm-close-tabs-button = Ljepblêden slute
+tabbrowser-ask-close-tabs-checkbox = Freegje foar it sluten fan meardere ljepblêden
 tabbrowser-confirm-close-tabs-checkbox = Warskôgje by it sluten fan meardere ljepblêden
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Finster slute en { -brand-short-n
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ôfslute
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Freegje foar ôfsluten mei { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Befêstigje foardat jo stopje mei { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } ôfslute of aktuele ljepblêd slute?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ôfslute
+       *[other] { -brand-short-name } ôfslute
+    }
+tabbrowser-confirm-close-tab-only-button = Aktuele ljepblêd slute
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +200,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulearje
     .accesskey = A
-tab-group-editor-create =
-    .label = Oanmeitsje
-    .accesskey = m
+tab-context-unnamed-group =
+    .label = Nammeleaze groep
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Ljepblêd oan nije groep tafoegje
+            [one] Ljepblêd oan nije groep tafoegje
+           *[other] Ljepblêden oan nije groep tafoegje
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Ljepblêd oan groep tafoegje
+            [one] Ljepblêd oan groep tafoegje
+           *[other] Ljepblêden oan groep tafoegje
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nij ljepblêd yn groep
+tab-group-editor-action-new-window =
+    .label = Groep nei nij finster ferpleatse
+tab-group-editor-action-save =
+    .label = Groep bewarje en slute
+tab-group-editor-action-ungroup =
+    .label = Ljepblêdgroepearring opheffe
+tab-group-editor-action-delete =
+    .label = Groep fuortsmite
+tab-group-editor-done =
+    .label = Dien
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = Ljepblêdgroep opnij iepenje
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Fuortsmite út groep
+            [one] Fuortsmite út groep
+           *[other] Fuortsmite út groepen
+        }
+    .accesskey = F
