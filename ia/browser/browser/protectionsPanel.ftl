@@ -72,6 +72,16 @@ protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permittite
 protections-panel-not-found-label = Necun detegite
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } bloca contento traciante dum tu es sur iste sito sin que tu lo permitte.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permitter { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Traciatores e contento blocate pro { $trackername }
+
 ##
 
 protections-panel-settings-label = Parametros de protection

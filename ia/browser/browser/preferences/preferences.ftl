@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Inviar al sitos web un signal “Non traciar” indicante que tu non vole esser traciate
+do-not-track-removal = Le signal “Non me traciar” non es plus supportate
 do-not-track-description2 =
     .label = Inviar requesta de “Non tracia" a sitos web
     .accesskey = N
@@ -157,6 +158,14 @@ open-new-link-as-tabs =
 ask-on-close-multiple-tabs =
     .label = Demandar ante clauder plure schedas
     .accesskey = p
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Demandar ante quitar con { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Confirmar ante clauder plure schedas
     .accesskey = m
