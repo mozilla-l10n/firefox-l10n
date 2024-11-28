@@ -294,6 +294,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Più tardi
     .accesskey = P
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Ti sei perso un importante aggiornamento di { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Se non aggiorni, alcune parti del browser smetteranno di funzionare a breve. Adesso è il momento giusto per ottenere le nostre più recenti protezioni e funzionalità.
+root-certificate-windows-background-notification-learn-more-button = Ulteriori informazioni
+root-certificate-windows-background-notification-update-button = Aggiorna { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
