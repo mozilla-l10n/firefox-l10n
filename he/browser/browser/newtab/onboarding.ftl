@@ -210,7 +210,9 @@ mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-n
 
 mr2022-onboarding-get-started-primary-button-label = התקנה תוך שניות
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = התקנה במהירות הבזק
 mr2022-onboarding-import-subtitle = ניתן להגדיר את { -brand-short-name } איך שמתחשק לך. אפשר להוסיף את הסימניות, הססמאות ועוד מהדפדפן הישן שלך.ת
@@ -382,3 +384,7 @@ onboarding-genai-sidebar-secondary-button = התחלת גלישה
 onboarding-checklist-title = סיום הגדרת { -brand-short-name }
 onboarding-checklist-subtitle = כדאי להשלים את השלבים האלה כדי להפיק את המרב מחווית הגלישה שלך.
 onboarding-checklist-set-default = הגדרת { -brand-short-name } כדפדפן ברירת המחדל
+onboarding-checklist-pin = הצמדת { -brand-short-name } לשורת המשימות
+onboarding-checklist-import = ייבוא מהדפדפן הקודם
+onboarding-checklist-extension = הוספת הרחבה
+onboarding-checklist-sign-up = הרשמה או התחברות לחשבון שלך
