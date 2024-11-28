@@ -29,5 +29,6 @@ more-from-moz-firefox-relay-button = Dapatkan { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Ketahui info pribadi Anda yang telah dibobol
 more-from-moz-mozilla-monitor-global-description = Dapatkan peringatan ketika data Anda telah dibobol.
 more-from-moz-mozilla-monitor-button = Dapatkan { -monitor-brand-short-name }
