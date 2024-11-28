@@ -154,6 +154,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 以分頁開啟鏈結，而不使用新視窗
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = 關閉多個分頁前先問我
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = 按 { $quitKey } 離開之前先問我
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = 關閉多個分頁前跟我確認
     .accesskey = m
@@ -557,8 +568,7 @@ home-prefs-shortcuts-description = 您儲存或造訪過的網站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 贊助捷徑
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦

@@ -998,6 +998,15 @@ unified-extensions-button-quarantined =
         擴充套件
         不允許某些擴充套件
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = 擴充套件
+    .tooltiptext =
+        擴充套件
+        某些擴充套件已停用
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =

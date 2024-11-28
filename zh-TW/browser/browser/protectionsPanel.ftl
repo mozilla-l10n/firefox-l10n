@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = 關於加強型追蹤保護功能的更多資訊
 protections-panel-etp-on-header = 已開啟針對此網站的追蹤保護功能。
 protections-panel-etp-off-header = 已關閉針對此網站的加強型追蹤保護功能
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = 網站無法正常運作嗎？
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = 網站無法正常運作嗎？
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = 加強型追蹤保護
     .description = 對此網站關閉
     .aria-label = 加強型追蹤保護：對 { $host } 關閉
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = 網站無法正常運作嗎？
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = 網站無法正常運作嗎？
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,17 @@ protections-panel-content-blocking-fingerprinters-label = 數位指紋追蹤程�
 protections-panel-blocking-label = 封鎖
 protections-panel-not-blocking-label = 允許
 protections-panel-not-found-label = 未偵測到
+
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = 允許 { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = 已封鎖 { $trackername } 組追蹤器與內容
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = 對 { $websitehost } 允許
 
 ##
 
@@ -108,7 +119,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = 回報網站問題
 protections-panel-content-blocking-breakage-report-view-description = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。<label data-l10n-name="learn-more">了解更多</label>
-protections-panel-content-blocking-breakage-report-view-description2 = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 { -vendor-short-name }。
 protections-panel-content-blocking-breakage-report-view-collection-url = 網址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 網址
