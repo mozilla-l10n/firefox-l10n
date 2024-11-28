@@ -48,3 +48,15 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Dalše informacije
     .aria-label = Dalše informacije: Někotre rozšěrjenja dowolene njejsu
 unified-extensions-mb-about-addons-link = K nastajenjam rozšěrjenjow
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } znjemóžnjeny
+    .message =
+        Tute rozšěrjenje so přećiwo prawidłam Mozilla přeńdźe a je so znjemóžniło.
+        Móžeće jo w nastajenjach zmóžnić, ale to móže riskantne być.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } znjemóžnjeny
+    .message = Tute rozšěrjenje so přećiwo prawidłam Mozilla přeńdźe a je so znjemóžniło.
