@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Dalšne informacije wó pólěpšonem slědowańskem šćiśe
 protections-panel-etp-on-header = Pólěpšony slědowański šćit jo zmóžnjony za toś to sedło
 protections-panel-etp-off-header = Polěpšony slědowański šćit jo znjemóžnjony za toś to sedło
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Sedło njefunkcioněrujo?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Sedło njefunkcioněrujo?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Pólěpšony slědowański šćit
     .description = Za toś to sedło znjemóžnjony
     .aria-label = Pólěpšony slědowański šćit: za { $host } znjemóžnjony
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Sedło njefunkcioněrujo?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sedło njefunkcioněrujo?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Palcowe wótśišće
 protections-panel-blocking-label = Blokěrowany
 protections-panel-not-blocking-label = Dowólony
 protections-panel-not-found-label = Njenamakany
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } wopśimjeśe pśeslědowanja blokěrujo, mjaztym až sćo na toś tom sedle, snaźkuli jo dowólujośo.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } dowóliś
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Pśeslědowaki { $trackername } a wopśimjeśe blokěrowane
+smartblock-placeholder-desc = Waše nastajenja { -brand-short-name } su toś tomu wopśimjeśeju zawoborali,  wam pśez sedła slědowaś abo za wabjenje wužywaś.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = { $websitehost } dowóliś
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Wobškóźone sedło k wěsći daś
 protections-panel-content-blocking-breakage-report-view-description = Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo { -brand-short-name } za kuždego pólěpšyś. Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka. <label data-l10n-name="learn-more">Dalšne informacije</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo { -brand-short-name } za kuždego pólěpšyś. Pósćelo se { -vendor-short-name } URL a informacije wó wašych nastajenjach wobglědowaka.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

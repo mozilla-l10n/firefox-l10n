@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Waša standardna pytnica jo se změniła.</strong> { $oldEngine } njejo wěcej ako standardna pytnica w { -brand-short-name } k dispoziciji. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalšne informacije</label>
 removed-search-engine-message2 = <strong>Waša standardna pytnica jo se změniła.</strong> { $oldEngine } njejo wěcej ako standardna pytnica w { -brand-short-name } k dispoziciji. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow.
 remove-search-engine-button = W pórěźe
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = { $engineName } ako pytnicu pśidaś?
+install-search-engine-add = Pśidaś
+install-search-engine-no = Ně

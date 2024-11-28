@@ -100,6 +100,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] { $tabCount } rejtarikow zacyniś?
     }
 tabbrowser-confirm-close-tabs-button = Rejtariki zacyniś
+tabbrowser-ask-close-tabs-checkbox = Pšašaś se, nježli až se někotare rejtariki zacynjaju
 tabbrowser-confirm-close-tabs-checkbox = Wobkšuśiś, nježli až se někotare rejtariki zacynjaju
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -128,7 +129,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Wokno zacyniś a { -brand-short-n
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } skóńcyś
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pšašaś se, nježli až se z { $quitKey } skóńcyjo
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Wobkšuśiś, nježli až se z { $quitKey } skóńcyjo
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } skóńcyś abo aktualny rejtarik zacyniś?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } skóńcyś
+       *[other] { -brand-short-name } skóńcyś
+    }
+tabbrowser-confirm-close-tab-only-button = Aktualny rejtarik zacyniś
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -217,6 +232,33 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Pśetergnuś
     .accesskey = P
-tab-group-editor-create =
-    .label = Napóraś
+tab-context-unnamed-group =
+    .label = Kupka bźez mjenja
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Nowej kupce { $tabCount } rejtarik pśidaś
+            [one] Nowej kupce { $tabCount } rejtarik pśidaś
+            [two] Nowej kupce { $tabCount } rejtarika pśidaś
+            [few] Nowej kupce { $tabCount } rejtariki pśidaś
+           *[other] Nowej kupce { $tabCount } rejtarikow pśidaś
+        }
     .accesskey = N
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Kupce { $tabCount } rejtarik pśidaś
+            [one] Kupce { $tabCount } rejtarik pśidaś
+            [two] Kupce { $tabCount } rejtarika pśidaś
+            [few] Kupce { $tabCount } rejtariki pśidaś
+           *[other] Kupce { $tabCount } rejtarikow pśidaś
+        }
+    .accesskey = K
+tab-group-editor-action-new-tab =
+    .label = Nowy rejtarik w kupce
+tab-group-editor-action-new-window =
+    .label = Kupku do nowego wokna pśesunuś
