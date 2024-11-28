@@ -30,4 +30,6 @@ webext-perms-description-sessions = Mějśo pśistup k njedawno zacynjonyn rejta
 webext-perms-description-tabs = Mějśo pśistup k rejtarikam wobglědowaka
 webext-perms-description-tabHide = Rejtariki wobglědowaka schowaś a pokazaś
 webext-perms-description-topSites = Mějśo pśistup k pśeglědowańskej historiji
+webext-perms-description-trialML = Ześěgniśo a wuwjeźćo Modele KI na swójom rěźe
+webext-perms-description-userScripts = Njepśeglědanym skriptam tśeśich póbitowarjow pśistup k wašym datam dowóliś
 webext-perms-description-webNavigation = Mějśo pśistup k aktiwiśe wobglědowaka za nawigaciju
