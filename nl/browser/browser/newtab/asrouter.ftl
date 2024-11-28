@@ -298,6 +298,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Later
     .accesskey = L
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = U hebt een belangrijke update van { -brand-short-name } gemist
+root-certificate-windows-background-notification-subtitle = Delen van de browser werken binnenkort niet meer als u niet bijwerkt. Nu is een goed moment om onze nieuwste beschermingen en functies te ontvangen.
+root-certificate-windows-background-notification-learn-more-button = Meer info
+root-certificate-windows-background-notification-update-button = { -brand-short-name } bijwerken
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

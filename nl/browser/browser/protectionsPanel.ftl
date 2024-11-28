@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Meer informatie over Verbeterde bescherming tegen volgen
 protections-panel-etp-on-header = Verbeterde bescherming tegen volgen is AAN voor deze website
 protections-panel-etp-off-header = Verbeterde bescherming tegen volgen is UIT voor deze website
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Werkt de website niet?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Werkt de website niet?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Verbeterde bescherming tegen volgen
     .description = Uit voor deze website
     .aria-label = Verbeterde bescherming tegen volgen: uit voor { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Werkt de website niet?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Werkt de website niet?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Geblokkeerd
 protections-panel-not-blocking-label = Toegestaan
 protections-panel-not-found-label = Geen gedetecteerd
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokkeert volginhoud tijdens uw bezoek aan deze website, tenzij u deze toestaat.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } toestaan
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername }-trackers en -inhoud geblokkeerd
+smartblock-placeholder-desc = Uw { -brand-short-name }-instellingen hebben voorkomen dat deze inhoud u op websites volgt of voor advertenties wordt gebruikt.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Toestaan op { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Niet-werkende website melden
 protections-panel-content-blocking-breakage-report-view-description = Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u { -brand-short-name } voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden. <label data-l10n-name="learn-more">Meer info</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u { -brand-short-name } voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar { -vendor-short-name } verzonden.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

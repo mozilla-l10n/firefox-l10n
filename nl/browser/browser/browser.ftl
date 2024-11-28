@@ -1003,6 +1003,15 @@ unified-extensions-button-quarantined =
         Extensies
         Sommige extensies zijn niet toegestaan
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Extensies
+    .tooltiptext =
+        Extensies
+        Sommige extensies zijn uitgeschakeld
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =

@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = { $tabCount } tabbladen sluiten?
 tabbrowser-confirm-close-tabs-button = Tabbladen sluiten
+tabbrowser-ask-close-tabs-checkbox = Vragen voor het sluiten van meerdere tabbladen
 tabbrowser-confirm-close-tabs-checkbox = Bevestigen voor het sluiten van meerdere tabbladen
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Venster sluiten en { -brand-short
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } afsluiten
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Vragen voor afsluiten met { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Bevestigen voor afsluiten met { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } afsluiten of huidige tabblad sluiten?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } afsluiten
+       *[other] { -brand-short-name } afsluiten
+    }
+tabbrowser-confirm-close-tab-only-button = Huidige tabblad sluiten
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +200,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuleren
     .accesskey = A
-tab-group-editor-create =
-    .label = Aanmaken
-    .accesskey = m
+tab-context-unnamed-group =
+    .label = Naamloze groep
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Tabblad aan nieuwe groep toevoegen
+            [one] Tabblad aan nieuwe groep toevoegen
+           *[other] Tabbladen aan nieuwe groep toevoegen
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Tabblad aan groep toevoegen
+            [one] Tabblad aan groep toevoegen
+           *[other] Tabbladen aan groep toevoegen
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nieuw tabblad in groep
+tab-group-editor-action-new-window =
+    .label = Groep naar nieuw venster verplaatsen
+tab-group-editor-action-save =
+    .label = Groep opslaan en sluiten
+tab-group-editor-action-ungroup =
+    .label = Tabbladgroepering opheffen
+tab-group-editor-action-delete =
+    .label = Groep verwijderen
+tab-group-editor-done =
+    .label = Gereed
+    .accessKey = G
+tab-context-reopen-tab-group =
+    .label = Tabbladgroep opnieuw openen
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Verwijderen uit groep
+            [one] Verwijderen uit groep
+           *[other] Verwijderen uit groepen
+        }
+    .accesskey = V

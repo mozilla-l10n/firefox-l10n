@@ -30,4 +30,6 @@ webext-perms-description-sessions = Onlangs gesloten tabbladen benaderen
 webext-perms-description-tabs = Browsertabbladen benaderen
 webext-perms-description-tabHide = Browsertabbladen verbergen en tonen
 webext-perms-description-topSites = Browsergeschiedenis benaderen
+webext-perms-description-trialML = AI-modellen downloaden en op uw apparaat uitvoeren
+webext-perms-description-userScripts = Niet-geverifieerde scripts van derden toegang tot uw gegevens geven
 webext-perms-description-webNavigation = Browseractiviteit tijdens navigeren benaderen
