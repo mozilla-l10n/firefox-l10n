@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Websedłam signal “Njeslědowaś” pósłaś, až njocośo, až wóne was slěduju
+do-not-track-removal = Njepódpěramy wěcej signal „Njeslědowaś“
 do-not-track-description2 =
     .label = Websedłam napšašowanje „Njeslědowaś“ pósłaś
     .accesskey = s
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Wótkaze w rejtarikach město nowych woknow wócyniś
     .accesskey = r
+ask-on-close-multiple-tabs =
+    .label = Pšašaś se, nježli až se někotare rejtariki zacynjaju
+    .accesskey = P
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pšašaś se, nježli až se z { $quitKey } skóńcyjo
+    .accesskey = s
 confirm-on-close-multiple-tabs =
     .label = Wobkšuśiś, nježli až se něktare rejtariki zacynjaju
     .accesskey = W
@@ -575,8 +587,7 @@ home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótary
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwězanja
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Wót { $provider } dopórucony
