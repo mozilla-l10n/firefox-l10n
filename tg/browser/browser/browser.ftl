@@ -1000,6 +1000,15 @@ unified-extensions-button-quarantined =
         Васеъшавиҳо
         Баъзе васеъшавиҳо иҷозат дода намешаванд
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Васеъшавиҳо
+    .tooltiptext =
+        Васеъшавиҳо
+        Баъзе васеъшавиҳо ғайрифаъол мебошанд
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =

@@ -33,3 +33,10 @@ searchbar-icon =
 removed-search-engine-message = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред. <label data-l10n-name="remove-search-engine-article">Маълумоти бештар</label>
 removed-search-engine-message2 = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред.
 remove-search-engine-button = ХУБ
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-add = Илова кардан
+install-search-engine-no = Не

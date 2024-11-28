@@ -295,6 +295,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Дертар
     .accesskey = Д
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Маълумоти бештар
+root-certificate-windows-background-notification-update-button = Навсозӣ кардани «{ -brand-short-name }»
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

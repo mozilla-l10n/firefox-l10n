@@ -104,6 +104,11 @@ tabbrowser-confirm-close-tabs-with-key-button = Аз { -brand-short-name } ба�
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Пеш аз баромад ба воситаи { $quitKey } тасдиқ карда шавад
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Пӯшидани варақаи ҷорӣ
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Кушоишро тасдиқ намоед
@@ -182,6 +187,11 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бекор кардан
     .accesskey = Б
-tab-group-editor-create =
-    .label = Эҷод кардан
-    .accesskey = Э
+tab-context-unnamed-group =
+    .label = Гурӯҳи беном
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-delete =
+    .label = Нест кардани гурӯҳ
