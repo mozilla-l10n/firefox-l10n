@@ -60,3 +60,23 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } desactivada
     .message = Esta extensión viola las políticas de Mozilla y ha sido desactivada.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensión desactivada
+           *[other] { $extensionsCount } extensiones desactivadas
+        }
+    .message =
+        Algunas de tus extensiones han sido desactivadas por violar las políticas de Mozilla.
+        Puedes activarlas en ajustes, pero podría ser riesgoso.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensión desactivada
+           *[other] { $extensionsCount } extensiones desactivadas
+        }
+    .message = Algunas de tus extensiones han sido desactivadas por violar las políticas de Mozilla.
