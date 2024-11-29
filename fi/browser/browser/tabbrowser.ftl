@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Suljetaanko { $tabCount } välilehteä?
 tabbrowser-confirm-close-tabs-button = Sulje välilehdet
+tabbrowser-ask-close-tabs-checkbox = Kysy ennen useiden välilehtien sulkemista
 tabbrowser-confirm-close-tabs-checkbox = Vahvista ennen kuin useat välilehdet suljetaan
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -103,6 +104,11 @@ tabbrowser-confirm-close-tabs-with-key-button = Lopeta { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vahvista ennen pikanäppäimellä { $quitKey } lopettamista
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Sulje avoin välilehti
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +191,13 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Peruuta
     .accesskey = P
-tab-group-editor-create =
-    .label = Luo
-    .accesskey = L
+tab-context-unnamed-group =
+    .label = Nimetön ryhmä
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-delete =
+    .label = Poista ryhmä
+tab-context-reopen-tab-group =
+    .label = Avaa välilehtiryhmä uudelleen

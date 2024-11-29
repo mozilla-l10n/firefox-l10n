@@ -976,9 +976,6 @@ content-analysis-panel-title = Tietojen suojaus
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Organisaatiosi käyttää <b>{ $agentName }</b> tietojen menetyksen estämiseksi. <a data-l10n-name="info">Lisätietoja</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Organisaatiosi käyttää ohjelmistoa { $agentName } suojautuakseen tietojen menetykseltä. <a data-l10n-name="info">Lisätietoja</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1003,6 +1000,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Laajennukset
         Joitain laajennuksia ei sallita
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Laajennukset
+    .tooltiptext =
+        Laajennukset
+        Jotkin laajennukset on poistettu käytöstä
 
 ## Private browsing reset button
 
