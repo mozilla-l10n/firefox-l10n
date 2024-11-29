@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Více informací o rozšířené ochraně proti sledování
 protections-panel-etp-on-header = Rozšířená ochrana proti sledování je zapnuta
 protections-panel-etp-off-header = Rozšířená ochrana proti sledování je vypnuta
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Stránka nefunguje?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Stránka nefunguje?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Rozšířená ochrana proti sledování
     .description = Vypnutá pro tuto stránku
     .aria-label = Rozšířená ochrana proti sledování: vypnutá na stránce { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Stránka nefunguje?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Stránka nefunguje?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -77,6 +77,18 @@ protections-panel-content-blocking-fingerprinters-label = Otisk prohlížeče
 protections-panel-blocking-label = Zablokováno
 protections-panel-not-blocking-label = Povoleno
 protections-panel-not-found-label = Nenalezeno
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokuje sledování obsahu, když jste na tomto webu, pokud to nepovolíte.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Povolit { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Sledovací prvky a obsah { $trackername } jsou zablokované
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Povolit na { $websitehost }
 
 ##
 
@@ -117,19 +129,6 @@ protections-panel-content-blocking-breakage-report-view-description =
     { -brand-short-name.case-status ->
         [with-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete { -brand-short-name(case: "acc") } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu. <label data-l10n-name="learn-more">Zjistit více</label>
        *[no-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci { -brand-short-name } dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu. <label data-l10n-name="learn-more">Zjistit více</label>
-    }
-protections-panel-content-blocking-breakage-report-view-description2 =
-    { -brand-short-name.case-status ->
-        [with-cases]
-            { -vendor-short-name.case-status ->
-                [with-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete { -brand-short-name(case: "acc") } dále vylepšovat. S vaším hlášením se { -vendor-short-name(case: "dat") } odešle URL stránky a informace o vašem nastavení blokování obsahu.
-               *[no-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete { -brand-short-name(case: "acc") } dále vylepšovat. S vaším hlášením se organizaci { -vendor-short-name } odešle URL stránky a informace o vašem nastavení blokování obsahu.
-            }
-       *[no-cases]
-            { -vendor-short-name.case-status ->
-                [with-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci { -brand-short-name } dále vylepšovat. S vaším hlášením se { -vendor-short-name(case: "dat") } odešle URL stránky a informace o vašem nastavení blokování obsahu.
-               *[no-cases] Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci { -brand-short-name } dále vylepšovat. S vaším hlášením se organizaci { -vendor-short-name } odešle URL stránky a informace o vašem nastavení blokování obsahu.
-            }
     }
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
