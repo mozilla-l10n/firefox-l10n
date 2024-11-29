@@ -37,8 +37,12 @@ edit-profile-page-profile-saved = Нигоҳ дошта шуд
 new-profile-page-title = Профили нав
 new-profile-page-header = Профили нави худро шахсӣ созед
 new-profile-page-learn-more = Маълумоти бештар
+new-profile-page-input-placeholder =
+    .placeholder = Номеро, барои мисол «Корӣ» ё «Шахсӣ», интихоб намоед
+new-profile-page-done-button =
+    .label = Ба анҷом расонидани таҳрир
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -53,7 +57,11 @@ delete-profile-windows = Равзанаҳои кушода
 delete-profile-tabs = Варақаҳои кушодашуда
 delete-profile-bookmarks = Хатбаракҳо
 delete-profile-history = Таърих (саҳифаҳои кушодашуда, кукиҳо, маълумоти сомона)
+delete-profile-autofill = Маълумоте, ки ба таври худкор пур карда мешавад (нишониҳо, тарзҳои пардохт)
 delete-profile-logins = Ниҳонвожаҳо
+
+##
+
 # Button label
 delete-profile-cancel = Бекор кардан
 # Button label

@@ -152,6 +152,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Кушодани пайвандҳо дар варақаҳо ба ивази равзанаҳои нав
     .accesskey = К
+ask-on-close-multiple-tabs =
+    .label = Пурсидан пеш аз пӯшидани якчанд варақа
+    .accesskey = П
 confirm-on-close-multiple-tabs =
     .label = Тасдиқ кардан пеш аз пӯшидани якчанд варақа
     .accesskey = Т
@@ -566,8 +569,7 @@ home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ 
 home-prefs-shortcuts-by-option-sponsored =
     .label = Миёнбурҳои сарпарастӣ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Аз тарафи { $provider } тавсия дода мешавад

@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Аз браузере истифода 
 mr2022-onboarding-get-started-primary-subtitle = Версияи охирини мо барои ниёзҳои шумо сохта шуда, сайру гашти шуморо дар Интернет осотан мекунад. Ин версия хусусиятҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
 mr2022-onboarding-get-started-primary-button-label = Дар як лаҳза танзим кунед
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Танзими барқрафтор
 mr2022-onboarding-import-subtitle = Браузери «{ -brand-short-name }»-ро ба таври дилхоҳ танзим кунед. Хатбаракҳо, ниҳонвожаҳо ва чизҳои дигари худро аз браузери куҳна илова намоед.
@@ -404,6 +406,7 @@ onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Ба анҷом расонидани танзими «{ -brand-short-name }»
 onboarding-checklist-set-default = Танзим кардани «{ -brand-short-name }» ҳамчун браузери пешфарз
 onboarding-checklist-pin = Васл кардани «{ -brand-short-name }» ба навори вазифа
 onboarding-checklist-import = Ворид кардан аз браузери қаблӣ
