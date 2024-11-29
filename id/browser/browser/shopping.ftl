@@ -64,6 +64,10 @@ shopping-message-bar-analysis-in-progress-with-amount = Memeriksa kualitas ulasa
 shopping-message-bar-page-not-supported =
     .heading = Kami tidak dapat memeriksa ulasan ini
     .message = Sayangnya, kami tidak dapat memeriksa kualitas ulasan untuk beberapa tipe produk. Misalnya, kartu hadiah, penyiaran video, musik, dan gim.
+shopping-message-bar-keep-closed-header =
+    .heading = Tetap tutup?
+    .message = Anda dapat memperbarui pengaturan untuk selalu menutup Review Checker. Saat ini Review Checker dibuka secara otomatis.
+shopping-message-bar-keep-closed-dismiss-button = Tidak, terima kasih
 
 ## Strings for the product review snippets card
 
