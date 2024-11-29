@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Web stranicama šalji “Ne prati” signal da ne želite biti praćeni
+do-not-track-removal = Više ne podržavamo signal “Ne prati”.
 do-not-track-description2 =
     .label = Pošaljite web lokacijama zahtjev “Ne prati”.
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Otvori linkove u tabovima umjesto u novim prozorima
     .accesskey = p
+ask-on-close-multiple-tabs =
+    .label = Pitaj prije zatvaranja više tabova
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pitaj prije odustajanja sa { $quitKey }
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Zatraži potvrdu pri zatvaranju više tabova
     .accesskey = d
@@ -572,8 +584,7 @@ home-prefs-shortcuts-description = Web stranice koje sačuvate ili posjetite
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorisane prečice
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
@@ -792,6 +803,9 @@ sync-currently-syncing-creditcards = Kreditne kartice
 sync-currently-syncing-payment-methods = Načini plaćanja
 sync-currently-syncing-addons = Dodaci
 sync-currently-syncing-settings = Postavke
+sync-manage-options =
+    .label = Upravljaj sinhronizacijom…
+    .accesskey = M
 sync-change-options =
     .label = Promijeni…
     .accesskey = C
@@ -1083,6 +1097,13 @@ cookie-banner-handling-description = { -brand-short-name } automatski pokušava 
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Blokiranje pojavljivanja dijaloga kolačića
+cookie-banner-blocker-description = Kada web lokacija pita da li može koristiti kolačiće u načinu privatnog pretraživanja, { -brand-short-name } automatski odbija umjesto vas. Samo na podržanim stranicama.
+cookie-banner-learn-more = Saznajte više
+forms-handle-cookie-banners =
+    .label = Smanji pojavljivanje dijaloga kolačića
+cookie-banner-blocker-checkbox-label =
+    .label = Automatski odbijte kolačiće natpisa
 
 ## Privacy Section - Address Bar
 
@@ -1094,10 +1115,29 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Zabilješke
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Privremena memorija
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = Otvori tabove
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Prečice
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = Najpopularnije stranice
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Pretraživači
+    .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Brze akcije
+    .accesskey = Q
 addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
+addressbar-locbar-showrecentsearches-option =
+    .label = Prikaži nedavna pretraživanja
+    .accesskey = r
 
 ## Privacy Section - Content Blocking
 
