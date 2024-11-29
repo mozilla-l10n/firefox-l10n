@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Prikaži više tabova
     .tooltiptext = Prikaži više tabova s ovog uređaja
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Neaktivni tabovi
+    .tooltiptext = Pogledajte neaktivne tabove na ovom uređaju
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih tabova
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -104,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sinhroniziraj i sačuvaj podatke
 appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
     .label = Uključi sinhronizaciju…
+appmenu-fxa-setup-sync-new = Uključi
 appmenuitem-save-page =
     .label = Spasi stranicu kao…
+appmenuitem-fxa-sync-off-title = Sinhronizacija je isključena
+appmenuitem-fxa-sync-off-description = Zaštitite i pristupite svojim oznakama, lozinkama i još mnogo toga bilo gdje.
 
 ## What's New panel in App menu.
 
@@ -257,3 +264,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskirajte svoj pravi e-mail i telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
+
+## Profiles panel
+
