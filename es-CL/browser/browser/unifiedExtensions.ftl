@@ -41,10 +41,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Algunas extensiones no están permitidas
 unified-extensions-mb-quarantined-domain-message = Solo algunas extensiones supervisadas por { -vendor-short-name } están permitidas en este sitio para proteger tus datos.
-unified-extensions-mb-quarantined-domain-message-2 = Para proteger tus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Usa la configuración de la extensión para permitir sitios restringidos por { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algunas extensiones no están permitidas
     .message = Para proteger tus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Usa la configuración de la extensión para permitir sitios restringidos por { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Aprender más
     .aria-label = Aprender más: Algunas extensiones no están permitidas
+unified-extensions-mb-about-addons-link = Ir a los ajustes de la extensión
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } desactivada
+    .message =
+        Esta extensión viola las políticas de Mozilla y ha sido desactivada.
+        Puedes activarla en ajustes, pero podría ser riesgoso.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } desactivada
+    .message = Esta extensión viola las políticas de Mozilla y ha sido desactivada.
