@@ -858,6 +858,13 @@ sync-engine-settings =
     .label = Postavke
     .tooltiptext = Opće postavke, postavke privatnosti i sigurnosti koje ste promijenili
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Upravljajte onim što se sinhronizira na svim vašim povezanim uređajima
+    .style = min-width: 36em;
+    .buttonlabelaccept = Sačuvaj
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -1138,19 +1145,65 @@ addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna pretraživanja
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Prikaži prijedloge za pretraživanje u trendu
+    .accesskey = t
+addressbar-quickactions-learn-more = Saznajte više
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Napredna zaštita od praćenja
+content-blocking-section-top-level-description = Trakeri vas prate na mreži kako bi prikupili informacije o vašim navikama i interesovanjima pretraživanja. { -brand-short-name } blokira mnoge od ovih tragača i drugih zlonamjernih skripti.
+content-blocking-learn-more = Saznajte više
+content-blocking-fpi-incompatibility-warning = Koristite izolaciju prve strane (FPI), koja poništava neke od postavki kolačića { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Koristite otpor otiska prsta (RFP), koji zamjenjuje neke od postavki zaštite otiska prsta { -brand-short-name }. To može uzrokovati kvar nekih web stranica.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standardno
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Striktno
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Prilagođeno
+    .accesskey = C
 
 ##
 
+content-blocking-etp-standard-desc = Izbalansiran za zaštitu i performanse. Stranice će se normalno učitavati.
+content-blocking-etp-strict-desc = Jača zaštita, ali može uzrokovati kvar nekih web stranica ili sadržaja.
+content-blocking-etp-custom-desc = Odaberite koje tragače i skripte želite blokirati.
+content-blocking-etp-blocking-desc = { -brand-short-name } blokira sljedeće:
+content-blocking-private-windows = Praćenje sadržaja u privatnom prozoru
+content-blocking-cross-site-cookies-in-all-windows2 = Međustranični kolačići u svim prozorima
+content-blocking-cross-site-tracking-cookies = Međustranični kolačići za praćenje
+content-blocking-all-cross-site-cookies-private-windows = Međustranični kolačići u privatnim prozorima
+content-blocking-cross-site-tracking-cookies-plus-isolate = Međustranični kolačići za praćenje i izolacija preostalih kolačića
+content-blocking-social-media-trackers = Programi za praćenje na društvenim mrežama
+content-blocking-all-cookies = Svi kolačići
+content-blocking-unvisited-cookies = Kolačići s neposjećenih stranica
+content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
+content-blocking-all-cross-site-cookies = Svi međustranični kolačići
+content-blocking-cryptominers = Kriptorudari
+content-blocking-fingerprinters = Sakupljači digitalnih otisaka
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi sakupljači digitalnih otisaka
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Totalna zaštita kolačića sadrži kolačiće za web stranicu na kojoj se nalazite, tako da ih programi za praćenje ne mogu koristiti da vas prate između web stranica.
+content-blocking-etp-standard-tcp-rollout-learn-more = Saznajte više
+content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu od kolačića, našu najmoćniju funkciju privatnosti ikada
 content-blocking-warning-title = Oprez!
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se čini da je web stranica pokvarena, možda ćete htjeti da isključite zaštitu od praćenja za tu web stranicu da učita sav sadržaj.
 content-blocking-warning-learn-how = Saznajte kako
@@ -1349,9 +1402,38 @@ httpsonly-radio-enabled-pbm2 =
     .label = Koristite samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
+httpsonly-radio-disabled2 =
+    .label = Prvo isprobajte HTTPS, ali dozvolite veze koje nisu sigurne
 
 ## DoH Section
 
+preferences-doh-header = DNS preko HTTPS-a
+preferences-doh-description = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, stvarajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
+preferences-doh-description2 = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, pružajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Status: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Pružaoc usluge: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Neispravan URL
+preferences-doh-steering-status = Korištenje lokalnog pružaoca usluga
+preferences-doh-status-active = Aktivno
+preferences-doh-status-disabled = Isključeno
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Nije aktivno ({ $reason })
+preferences-doh-group-message = Omogućite siguran DNS koristeći:
+preferences-doh-group-message2 = Omogućite DNS preko HTTPS-a koristeći:
+preferences-doh-expand-section =
+    .tooltiptext = Više informacija
+preferences-doh-setting-default =
+    .label = Zadana zaštita
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } odlučuje kada će koristiti siguran DNS za zaštitu vaše privatnosti.
+preferences-doh-default-detailed-desc-1 = Koristite siguran DNS u regijama u kojima je dostupan
 
 ## The following strings are used in the Download section of settings
 
