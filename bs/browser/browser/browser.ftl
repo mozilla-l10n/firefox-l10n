@@ -560,9 +560,54 @@ urlbar-result-action-visit = Posjeti
 urlbar-result-action-switch-tab-with-container = Prebaci na tab · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Posjetite iz međuspremnika
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pritisnite tab za pretraživanje sa { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pritisnite Tab za pretraživanje { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Pretražujte sa { $engine } direktno iz adresne trake
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Pretražujte { $engine } direktno iz adresne trake
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiraj
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Traži pomoću { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Traži { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Traži sa { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Odaberite pretraživač
+urlbar-searchmode-bookmarks =
+    .label = Oznake
+urlbar-searchmode-tabs =
+    .label = Tabovi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -668,6 +713,9 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Popravite kodiranje teksta
+    .tooltiptext = Pogodite ispravno kodiranje teksta iz sadržaja stranice
 
 ## Customize Toolbar Buttons
 
@@ -686,6 +734,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Pošalji link emailom
     .tooltiptext = Pošalji link na ovu stranicu putem emaila
+toolbar-button-logins =
+    .label = Lozinke
+    .tooltiptext = Pregledajte i upravljajte vašim sačuvanim lozinkama
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -708,12 +759,21 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj stranici koriste DRM softver, što može ograničiti šta { -brand-short-name } može uraditi s njima.
+eme-notifications-drm-content-playing-manage = Upravljaj postavkama
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Odbaci
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Korisničko ime
+panel-save-update-password = Lozinka
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Više...
 ui-tour-info-panel-close =
     .tooltiptext = Zatvori
 
@@ -732,6 +792,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kada su pop-upi blokirani
     .accesskey = D
+edit-popup-settings =
+    .label = Upravljajte postavkama iskačućih prozora…
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Sakrij preklop sa slike u sliku
     .accesskey = H
@@ -739,6 +802,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Premjestite preklopnik Slika-u-slici na desnu stranu
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = Premjestite preklopnik Slika-u-slici na lijevu stranu
+    .accesskey = L
 
 ##
 
@@ -759,6 +828,9 @@ navbar-overflow =
 navbar-print =
     .label = Štampaj
     .tooltiptext = Printaj ovu stranicu… ({ $shortcut })
+navbar-home =
+    .label = Početna
+    .tooltiptext = { -brand-short-name } početna stranica
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Prikaži historiju, spašene zabilješke, i više
@@ -777,9 +849,13 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Otvoriti prethodne tabove?</strong> Možete vratiti svoju prethodnu sesiju iz menija aplikacije { -brand-short-name } <img data-l10n-name="icon"/>, pod Historija.
+restore-session-startup-suggestion-button = Pokaži mi kako
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Vaša organizacija je blokirala pristup lokalnim datotekama na ovom računaru
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -787,6 +863,20 @@ data-reporting-notification-message = { -brand-short-name } automatski šalje ne
 data-reporting-notification-button =
     .label = Izbor šta dijelim
     .accesskey = I
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privatno pretraživanje
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privatno pretraživanje
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Sprječavanje gubitka podataka (DLP) od strane { $agentName }. Kliknite za više informacija.
+content-analysis-panel-title = Zaštita podataka
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Vaša organizacija koristi <b>{ $agentName }</b> za zaštitu od gubitka podataka. <a data-l10n-name="info">Saznajte više</a>
 
 ## Unified extensions (toolbar) button
 
