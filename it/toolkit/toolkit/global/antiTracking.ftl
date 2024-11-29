@@ -9,5 +9,5 @@
 #   $gracePeriodSeconds (number): Grace period window in seconds until the site purged (clearing cookies, storages and caches).
 btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
-        *[other] “{ $siteHost }” è stato classificato come “bounce tracker”. Se l’utente non interagirà in modo attivo entro i prossimi { $gracePeriodSeconds } secondi i dati dal sito verranno rimossi.
+       *[other] “{ $siteHost }” è stato classificato come “bounce tracker”. Se l’utente non interagirà in modo attivo entro i prossimi { $gracePeriodSeconds } secondi i dati dal sito verranno rimossi.
     }

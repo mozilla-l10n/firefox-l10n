@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title.
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Segnalazione per { $addon-name }
 abuse-report-title-extension = Segnala questa estensione a { -vendor-short-name }
 abuse-report-title-sitepermission = Segnala questo componente aggiuntivo per permessi siti a { -vendor-short-name }
@@ -88,4 +93,3 @@ abuse-report-policy-suggestions =
 abuse-report-unwanted-reason-v2 = Non ho mai chiesto di installare questa estensione e non riesco a rimuoverla
 abuse-report-unwanted-example = Esempio: un’applicazione installata senza consenso
 abuse-report-other-reason = Altro
-

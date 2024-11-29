@@ -178,7 +178,13 @@ migration-list-payment-methods-label = metodi di pagamento
 ##
 
 migration-wizard-progress-header = Importazione dati
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Importazione dei dati completata correttamente
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
 migration-wizard-progress-done-with-warnings-header = Importazione dei dati completata
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importazione in corso…
@@ -274,5 +280,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = Per importare i segnalibri di Safari e la cronologia di navigazione:
 migration-wizard-safari-instructions-continue = Seleziona “Continua”
 migration-wizard-safari-instructions-folder = Seleziona la cartella Safari nell’elenco e fai clic su “Apri”
-
-

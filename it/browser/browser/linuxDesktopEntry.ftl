@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # These messages are used by the Firefox ".desktop" file on Linux.
 # https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
@@ -10,6 +11,7 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Naviga sul Web
 desktop-entry-generic-name = Browser web
+# Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = Browser web { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
@@ -23,4 +25,3 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;Navigatore;
 desktop-action-new-window-name = Nuova finestra
 desktop-action-new-private-window-name = Nuova finestra anonima
 desktop-action-open-profile-manager = Apri gestore profili
-

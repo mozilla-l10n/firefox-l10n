@@ -30,7 +30,6 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Chiudi
     .secondarybuttonaccesskey = C
 appmenu-update-restart-message2 = Scarica la versione più recente di { -brand-shorter-name }. Le schede e le finestre aperte verranno ripristinate.
-
 appmenu-update-other-instance =
     .label = Impossibile aggiornare automaticamente { -brand-shorter-name } all’ultima versione.
     .buttonlabel = Aggiorna comunque { -brand-shorter-name }
@@ -38,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Non adesso
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = È disponibile una nuova versione di { -brand-shorter-name } ma non può essere installata in quanto è presente un’altra copia di { -brand-shorter-name } attualmente in esecuzione. Chiuderla per procedere con l’aggiornamento, oppure scegliere di aggiornare comunque (l’altra copia potrebbe non funzionare correttamente fino al riavvio).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -46,7 +44,6 @@ appmenu-addon-post-install-message3 = Gestisci estensioni e temi nel menu applic
 appmenu-addon-post-install-incognito-checkbox =
     .label = Consenti il funzionamento di questa estensione in finestre anonime
     .accesskey = C
-    
 appmenu-new-tab-controlled-changes =
     .label = La pagina Nuova scheda è cambiata
     .buttonlabel = Mantieni modifiche
@@ -65,4 +62,3 @@ appmenu-tab-hide-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Disattiva estensione
     .secondarybuttonaccesskey = D
-

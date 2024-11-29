@@ -25,8 +25,7 @@ confirmation-hint-screenshot-copied = Schermata copiata.
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
-  { $tabCount ->
-      [one] Chiusa { $tabCount } scheda
-     *[other] Chiuse { $tabCount } schede
-  }
-
+    { $tabCount ->
+        [one] Chiusa { $tabCount } scheda
+       *[other] Chiuse { $tabCount } schede
+    }

@@ -55,11 +55,13 @@ download-cert-view-text = Esamina certificato CA
 
 client-auth-window =
     .title = Richiesta identificazione utente
-client-auth-send-no-certificate =
-  .label = Non inviare un certificato
 client-auth-site-description = Questo sito richiede di identificarti tramite un certificato:
-client-auth-site-identification = “{ $hostname }” richiede di identificarti tramite un certificato:
 client-auth-choose-cert = Scegliere un certificato da presentare come identificativo:
+client-auth-send-no-certificate =
+    .label = Non inviare un certificato
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” richiede di identificarti tramite un certificato:
 client-auth-cert-details = Dettagli del certificato selezionato:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -102,4 +104,3 @@ set-password-reminder = Importante: se si dovesse scordare la password della cop
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
 protected-auth-alert = Effettuare l’autenticazione utilizzando il token “{ $tokenName }”. La modalità precisa dipende dal token, ad esempio potrebbe essere necessario utilizzare un lettore di impronte digitali o inserire un codice con un tastierino numerico.
-

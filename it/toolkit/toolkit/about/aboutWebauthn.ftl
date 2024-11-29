@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Localization for about:webauthn, a security token management page
 
 # Page title
@@ -17,6 +18,7 @@ about-webauthn-pin-section-title = Gestione PIN
 about-webauthn-credential-management-section-title = Gestione credenziali
 about-webauthn-pin-required-section-title = PIN obbligatorio
 about-webauthn-confirm-deletion-section-title = Conferma eliminazione
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Registrazioni biometriche
 
 ## Info field texts
@@ -151,7 +153,6 @@ about-webauthn-samples-still-needed =
         [one] È richiesto ancora { $repeatCount } campione.
        *[other] Sono richiesti ancora { $repeatCount } campioni.
     }
-
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Il campione è valido.
 
@@ -177,4 +178,3 @@ about-webauthn-ctap2-enroll-feedback-exists = Il campione è già presente.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Nessuna attività utente.
 about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utente non ha completato il campionamento come previsto.
 about-webauthn-ctap2-enroll-feedback-other = Errore nel campione.
-

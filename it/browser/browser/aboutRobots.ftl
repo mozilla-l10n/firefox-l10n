@@ -25,5 +25,6 @@ error-long-desc4 = I robot hanno scintillanti fondoschiena metallici che non dov
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E hanno un piano.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Riprova
     .label2 = Non premere nuovamente questo pulsante

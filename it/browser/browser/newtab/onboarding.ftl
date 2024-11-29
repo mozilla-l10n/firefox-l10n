@@ -228,7 +228,9 @@ mr2022-onboarding-set-default-subtitle = Utilizza un browser realizzato da un’
 mr2022-onboarding-get-started-primary-subtitle = La nostra ultima versione è realizzata su misura per te, rendendo la navigazione su Internet ancora più facile. Include moltissime funzioni che adorerai.
 mr2022-onboarding-get-started-primary-button-label = Configura in pochi secondi
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configurazione ultra rapida
 mr2022-onboarding-import-subtitle = Imposta { -brand-short-name } come piace a te. Aggiungi segnalibri, password e altro ancora dal tuo vecchio browser.

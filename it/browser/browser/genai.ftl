@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Generative AI (GenAI) Settings section
 
 genai-settings-chat-description = Aggiunge il tuo chatbot preferito alla barra laterale per un rapido accesso mentre navighi. <a data-l10n-name="connect">Condividi il tuo feedback</a>
@@ -26,11 +27,6 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
-# This prompt is added to the beginning of selection prompts sent to a chatbot.
-# $tabTitle (string) - title of the webpage
-# $selection (string) - selected text
-genai-prompt-prefix-selection = Sono nella pagina “{ $tabTitle }” con il seguente testo selezionato: “{ $selection }”.
-
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Riassumi
@@ -47,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Spiega
     .value = Spiega i concetti chiave di questa selezione, usando parole semplici. Utilizza anche degli esempi.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Sono nella pagina “{ $tabTitle }” con il seguente testo selezionato: “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
@@ -55,13 +55,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Chiedi a { $provider }
-
 genai-input-ask-generic =
     .placeholder = Chiedi al chatbot IA…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Chiedi a { $provider }…
-
 genai-shortcuts-hide =
     .label = Nascondi scorciatoia per i chatbot
 
@@ -74,7 +72,6 @@ genai-header-options-button =
     .title = Apri menu
 genai-header-close-button =
     .title = Chiudi
-
 genai-provider-view-details =
     .label = Mostra dettagli chatbot
 genai-provider-about-chatbots =
@@ -116,7 +113,6 @@ genai-onboarding-huggingchat-learn = Ulteriori informazioni su HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Ulteriori informazioni su Le Chat
-
 genai-onboarding-select-header = Seleziona del testo per visualizzare i suggerimenti
 genai-onboarding-select-description = Quando selezioni del testo ti suggeriremo delle richieste (“prompt”) che puoi inviare al chatbot. Puoi anche scrivere una tua versione delle richieste.
 genai-onboarding-select-primary = Avvia la chat
@@ -138,7 +134,6 @@ genai-onboarding-gemini-analyze = Analisi di immagini (gratuita) e documenti (a 
 genai-onboarding-gemini-price = Opzioni gratuite e a pagamento, account obbligatorio
 genai-onboarding-huggingchat-generate = Generazione di testo e codice
 genai-onboarding-huggingchat-switch = Scegli tra un’ampia gamma di modelli aperti
-genai-onboarding-huggingchat-price = Gratuito, account obbligatorio per alcune attività
 genai-onboarding-huggingchat-price-2 = Gratuito, account obbligatorio dopo un certo numero di richieste
 genai-onboarding-lechat-generate = Generazione di testo e codice
 genai-onboarding-lechat-price = Gratuito, account obbligatorio

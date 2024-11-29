@@ -4,4 +4,3 @@
 
 # Spoof Accept-Language prompt
 privacy-spoof-english = Impostare l’inglese nelle opzioni relative alla lingua potrebbe ridurre le possibilità di essere identificato online e aumentare la privacy. Richiedere la versione in inglese delle pagine web?
-

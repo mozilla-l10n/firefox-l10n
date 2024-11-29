@@ -5,22 +5,16 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cerca scheda
-
 all-tabs-menu-new-user-context =
     .label = Nuova scheda contenitore
-
 all-tabs-menu-hidden-tabs =
     .label = Schede nascoste
-
 all-tabs-menu-manage-user-context =
     .label = Gestisci contenitori
     .accesskey = G
-
 all-tabs-menu-close-duplicate-tabs =
-  .label = Chiudi schede duplicate
-
+    .label = Chiudi schede duplicate
 all-tabs-menu-close-all-duplicate-tabs =
-  .label = Chiudi tutte le schede duplicate
-
+    .label = Chiudi tutte le schede duplicate
 all-tabs-menu-synced-tabs =
-  .label = Schede da altri dispositivi
+    .label = Schede da altri dispositivi

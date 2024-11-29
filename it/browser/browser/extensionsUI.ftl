@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = Ulteriori informazioni
-
 # Variables:
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
@@ -15,7 +14,6 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = No
     .accesskey = N
-
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } è stato installato.
@@ -24,20 +22,14 @@ addon-post-install-message = { $addonName } è stato installato.
 
 # Variables:
 #   $addonName (String): localized name of the extension.
-webext-quarantine-confirmation-title =
-    Eseguire { $addonName } in siti con restrizioni?
-
-webext-quarantine-confirmation-line-1 =
-    Per proteggere i tuoi dati, il funzionamento di questa estensione non è consentito in questo sito.
+webext-quarantine-confirmation-title = Eseguire { $addonName } in siti con restrizioni?
+webext-quarantine-confirmation-line-1 = Per proteggere i tuoi dati, il funzionamento di questa estensione non è consentito in questo sito.
 webext-quarantine-confirmation-line-2 =
     Consentire il funzionamento di questa estensione se si ritiene affidabile che possa leggere e
     modificare dati in siti con restrizioni identificati da { -vendor-short-name }.
-
 webext-quarantine-confirmation-allow =
     .label = Consenti
     .accesskey = C
-
 webext-quarantine-confirmation-deny =
     .label = Non consentire
     .accesskey = N
-

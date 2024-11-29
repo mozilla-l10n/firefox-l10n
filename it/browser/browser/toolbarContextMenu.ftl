@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleziona tutte le schede
     .accesskey = u
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -27,24 +29,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Riapri schede chiuse
         }
     .accesskey = a
-
 toolbar-context-menu-manage-extension =
     .label = Gestisci estensione
     .accesskey = G
 toolbar-context-menu-remove-extension =
     .label = Rimuovi estensione
     .accesskey = R
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Segnala estensione
     .accesskey = n
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Aggiungi al menu extra
     .accesskey = x
@@ -63,13 +62,11 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Personalizza barra degli strumenti…
     .accesskey = P
-
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
     .label = Aggiungi alla barra degli strumenti
     .accesskey = A
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostra sempre
     .accesskey = s
@@ -79,11 +76,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Mostra solo in Nuova scheda
     .accesskey = o
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostra Altri segnalibri
     .accesskey = A
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra dei menu
     .accesskey = m

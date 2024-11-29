@@ -28,9 +28,8 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importa da un altro browser…
 about-logins-menu-menuitem-import-from-a-file = Importa da file…
 about-logins-menu-menuitem-export-logins = Esporta credenziali…
-about-logins-menu-menuitem-export-logins2 = Esporta password…
 about-logins-menu-menuitem-remove-all-logins = Rimuovi tutte le credenziali…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Esporta password…
 about-logins-menu-menuitem-remove-all-logins2 = Elimina tutte le password…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -91,11 +90,9 @@ about-logins-list-section-week = Ultimi 7 giorni
 about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
-
+login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
 about-logins-login-intro-heading-message = Salva le tue password in un posto sicuro
 login-intro-description2 = Tutte le password che salvi in { -brand-product-name } sono crittate. In più, teniamo d’occhio le violazioni di dati e ti avvisiamo se sei stato coinvolto. <a data-l10n-name="breach-alert-link">Scopri di più</a>
-
-login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa2 = Accedi al tuo account o creane uno nuovo sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
 login-intro-instructions-fxa-passwords-help = Visita la pagina di <a data-l10n-name="passwords-help-link">supporto per le password</a> per ottenere aiuto.
@@ -128,7 +125,7 @@ login-item-password-label = Password
 login-item-password-reveal-checkbox =
     .aria-label = Mostra password
 login-item-password-conceal-checkbox =
-  .aria-label = Nascondi password
+    .aria-label = Nascondi password
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Copiata.
 login-item-save-changes-button = Salva modifiche
@@ -151,14 +148,6 @@ login-item-timeline-action-used = Utilizzo
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
 
-# The macOS strings are preceded by the operating system with "Firefox is trying to ".
-# This message can be seen when attempting to disable osauth in about:preferences.
-about-logins-os-auth-dialog-message=
-    { PLATFORM() ->
-        [macos] modificare le impostazioni relative alle password
-       *[other] { -brand-short-name } sta cercando di modificare le impostazioni relative alle password. Confermare l’accesso al dispositivo per consentire l’operazione.
-    }
-
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
@@ -168,6 +157,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modificare queste crede
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificare le credenziali salvate
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] modificare le impostazioni relative alle password
+       *[other] { -brand-short-name } sta cercando di modificare le impostazioni relative alle password. Confermare l’accesso al dispositivo per consentire l’operazione.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Per modificare la password, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen when attempting to edit a login in about:logins
@@ -271,13 +267,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Esportazione credenziali e password
 about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
 about-logins-confirm-export-dialog-confirm-button = Esporta…
-
 about-logins-confirm-export-dialog-title2 = Avviso relativo all’esportazione di password
 about-logins-confirm-export-dialog-message2 =
     Il processo di esportazione salva le password in un file con testo leggibile.
     Ti consigliamo di eliminare il file dopo averlo utilizzato, così da impedire ad altri utenti che utilizzano questo dispositivo di vedere le tue password.
 about-logins-confirm-export-dialog-confirm-button2 = Prosegui l’esportazione
-
 about-logins-alert-import-title = Importazione completata
 about-logins-alert-import-message = Visualizza riepilogo dettagliato dell’importazione
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
@@ -316,10 +310,13 @@ about-logins-error-message-default = Si è verificato un errore durante il salva
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Esportazione credenziali
-about-logins-export-file-picker-title2 = Esporta password da { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credenziali.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Esporta password da { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
 about-logins-export-file-picker-default-filename2 = password.csv
 about-logins-export-file-picker-export-button = Esporta
 # A description for the .csv file format that may be shown as the file type
@@ -439,4 +436,3 @@ about-logins-import-report-error =
 ## Logins import report page
 
 about-logins-import-report-page-title = Riepilogo importazione
-

@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Copia
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = Seleziona tutto
     .accesskey = t
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Generale
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Nome
 general-meta-content =
     .label = Valore
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Salva con nome…
     .accesskey = e
-
 perm-tab =
     .label = Permessi
     .accesskey = P
 permissions-for =
     .value = Permessi per:
-
 security-tab =
     .label = Sicurezza
     .accesskey = S
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Scade il:
 security-view-privacy =
     .value = Privacy e cronologia
-
 security-view-privacy-history-value = Questo sito è già stato visitato prima di oggi?
 security-view-privacy-sitedata-value = Questo sito web sta memorizzando informazioni sul computer?
-
 security-view-privacy-clearsitedata =
     .label = Elimina cookie e dati dei siti web
     .accesskey = E
-
 security-view-privacy-passwords-value = Esistono password memorizzate per questo sito web?
-
 security-view-privacy-viewpasswords =
     .label = Mostra password
     .accesskey = w
 security-view-technical =
     .value = Dettagli tecnici
-
 help-button =
     .label = Guida
 
@@ -128,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Sì, cookie e { $value } { $unit } di dati
 security-site-data-only = Sì, { $value } { $unit } di dati
-
 security-site-data-cookies-only = Sì, cookie
 security-site-data-no = No
 
@@ -152,7 +139,6 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Sì
 saved-passwords-no = No
-
 no-page-title =
     .value = Pagina senza nome:
 general-quirks-mode =
@@ -167,14 +153,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Utilizza predefiniti
 security-no-visits = No
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
 #   $tags (number) - The number of meta tags
 general-meta-tags =
     .value = Meta ({ $tags } tag)
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -185,14 +169,12 @@ security-visits-number =
         [one] Sì, 1 volta
        *[other] Sì, { $visits } volte
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
 #   $bytes (number) - The size of an image in Bytes
 properties-general-size =
     .value = { $kb } kB ({ $bytes } byte)
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -200,14 +182,12 @@ properties-general-size =
 #   $frames (number) - The number of frames in an animated image
 media-animated-image-type =
     .value = { $type } Immagine (animata, { $frames } frame)
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Immagine { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -217,14 +197,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (ridimensionata a { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -236,16 +214,11 @@ media-file-size = { $size } kB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Blocca immagini da { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Informazioni pagina – { $website }
 page-info-frame =

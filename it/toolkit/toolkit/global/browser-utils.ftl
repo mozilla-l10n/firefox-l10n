@@ -4,9 +4,7 @@
 
 # Used for data: URLs where we don't have any useful origin information
 browser-utils-url-data = (dati)
-
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
 browser-utils-url-extension = Estensione ({ $extension })
-

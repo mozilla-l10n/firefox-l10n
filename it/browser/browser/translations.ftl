@@ -169,13 +169,11 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Chiudi
     .buttonaccesskeyaccept = C
-
 # Text displayed in the right-click context menu for translating
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
     .label = Traduci selezione…
     .accesskey = z
-
 # Text displayed in the right-click context menu for translating
 # selected text to a target language.
 #
@@ -184,13 +182,11 @@ main-context-menu-translate-selection =
 main-context-menu-translate-selection-to-language =
     .label = Traduci selezione in { $language }
     .accesskey = z
-
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = Traduci testo del link…
     .accesskey = k
-
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a target language.
 #
@@ -199,48 +195,36 @@ main-context-menu-translate-link-text =
 main-context-menu-translate-link-text-to-language =
     .label = Traduci testo del link in { $language }
     .accesskey = k
-
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Traduzione
-
 # Text displayed above the from-language dropdown menu.
 select-translations-panel-from-label = Da
-
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = A
-
 # Text displayed above the try-another-source-language dropdown menu.
 select-translations-panel-try-another-language-label = Prova un’altra lingua sorgente
-
+select-translations-panel-cancel-button =
+    .label = Annulla
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = Copia
-
 # Text displayed on the copy button after it is clicked.
 select-translations-panel-copy-button-copied =
     .label = Copiato
-
 select-translations-panel-done-button =
     .label = Fatto
-
 select-translations-panel-translate-full-page-button =
     .label = Traduci pagina completa
-
-# Text displayed as a placeholder when the panel is idle.
-select-translations-panel-idle-placeholder-text = Il testo tradotto verrà visualizzato qui.
-
-# Text displayed as a placeholder when the panel is actively translating.
-select-translations-panel-translating-placeholder-text = Traduzione in corso…
-
-select-translations-panel-init-failure-message =
-    .message = Impossibile caricare le lingue. Verifica la tua connessione a internet e riprova.
-
-select-translations-panel-cancel-button =
-    .label = Annulla
 select-translations-panel-translate-button =
     .label = Traduci
 select-translations-panel-try-again-button =
     .label = Riprova
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Il testo tradotto verrà visualizzato qui.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traduzione in corso…
+select-translations-panel-init-failure-message =
+    .message = Impossibile caricare le lingue. Verifica la tua connessione a internet e riprova.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Si è verificato un problema durante la traduzione. Riprova.
@@ -257,7 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Impostazioni traduzione
-
 # An announcement made to assistive technology when the translation is complete
 select-translations-panel-translation-complete-announcement = Traduzione completata
-

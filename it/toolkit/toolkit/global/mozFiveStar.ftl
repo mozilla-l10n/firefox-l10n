@@ -7,4 +7,3 @@
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 moz-five-star-rating =
     .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
-

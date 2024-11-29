@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annulla
     .accesskey = A
-
 webext-perms-sideload-text = Un altro programma ha installato un componente aggiuntivo che potrebbe influenzare il funzionamento del browser. Verificare i permessi richiesti da questo componente aggiuntivo e scegliere Attiva o Annulla (per mantenerlo disattivato).
 webext-perms-sideload-text-no-perms = Un altro programma ha installato un componente aggiuntivo che potrebbe influenzare il funzionamento del browser. Scegliere Attiva o Annulla (per mantenerlo disattivato).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annulla
     .accesskey = n
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } è stata aggiornata. È necessario accettare i nuovi permessi prima di installare la nuova versione. Selezionare “Annulla” per mantenere la versione in uso dell’estensione. Questa estensione avrà il permesso di:
 webext-perms-update-accept =
     .label = Aggiorna
     .accesskey = A
-
 webext-perms-optional-perms-list-intro = Permessi richiesti:
 webext-perms-optional-perms-allow =
     .label = Consenti
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Nega
     .accesskey = N
-
 webext-perms-host-description-all-urls = Accedere ai dati dei siti web
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accedere ai dati dei siti web per il dominio { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accedere ai dati per { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -76,12 +69,10 @@ webext-perms-host-description-too-many-sites =
         [one] Accedere ai dati per un altro sito
        *[other] Accedere ai dati per { $domainCount } altri siti
     }
-
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
 webext-perms-host-description-one-domain = Accedere ai dati per siti nei domini { $domain }
-
 # Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
 # be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
 # used instead).
@@ -107,7 +98,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Questo componente aggiunt
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
     Si tratta tipicamente di dispositivi esterni come un sintonizzatore audio, ma potrebbe anche trattarsi di dispositivi integrati nel computer.
-
+    
     Normalmente i siti web non hanno accesso ai dispositivi MIDI. Un utilizzo improprio potrebbe danneggiare il dispositivo o compromettere la sicurezza.
 
 ## Headers used in the webextension permissions dialog.

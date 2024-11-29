@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Aggiungi etichette
-
 pocket-panel-saved-error-generic = Si è verificato un errore durante il salvataggio in { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = La lunghezza massima per le etichette è di 25 caratteri
 pocket-panel-saved-error-only-links = È possibile salvare solo link
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Salva
 pocket-panel-saved-saving-tags = Salvataggio…
 pocket-panel-saved-suggested-tags = Etichette suggerite
 pocket-panel-saved-tags-saved = Aggiunte etichette
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Aggiungi etichette:
 
@@ -44,11 +42,9 @@ pocket-panel-signup-signup-firefox = Registrati con { -brand-product-name }
 pocket-panel-signup-tagline = Salva articoli e video da { -brand-product-name } per visualizzarli in { -pocket-brand-name } da qualunque dispositivo e in qualunque momento.
 pocket-panel-signup-tagline-story-one = Fai clic sul pulsante { -pocket-brand-name } per salvare qualunque articolo, video o pagina da { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Visualizza in { -pocket-brand-name } da qualunque dispositivo e in qualunque momento.
-
 pocket-panel-signup-cta-a-fix = Il tuo pulsante “salva” per Internet
 pocket-panel-signup-cta-b-updated = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 pocket-panel-signup-cta-b-short = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.
-
 pocket-panel-signup-cta-c-updated = Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 
 ## about:pocket-home panel
@@ -58,7 +54,6 @@ pocket-panel-home-paragraph = Puoi utilizzare { -pocket-brand-name } per scoprir
 pocket-panel-home-explore-popular-topics = Esplora argomenti più popolari
 pocket-panel-home-discover-more = Scopri altro
 pocket-panel-home-explore-more = Esplora
-
 pocket-panel-home-most-recent-saves = Ecco gli elementi salvati di recente:
 pocket-panel-home-most-recent-saves-loading = Caricamento elementi salvati di recente…
 pocket-panel-home-new-user-cta = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.

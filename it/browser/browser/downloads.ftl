@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
-
 downloads-cmd-pause =
     .label = Pausa
     .accesskey = P
@@ -29,7 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Annulla
 downloads-cmd-cancel-panel =
     .aria-label = Annulla
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -46,13 +44,18 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Apri nel visualizzatore del sistema
     .accesskey = n
+# This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-use-system-default-named =
     .label = Apri in { $handler }
     .accesskey = n
-
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Apri sempre nel visualizzatore del sistema
     .accesskey = m
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-always-use-system-default-named =
     .label = Apri sempre in { $handler }
     .accesskey = m
@@ -64,14 +67,12 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Apri sempre file simili a questo
     .accesskey = m
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Mostra nel Finder
            *[other] Mostra nella cartella
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -84,7 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Mostra nel Finder
            *[other] Mostra nella cartella
         }
-
 downloads-cmd-show-downloads =
     .label = Visualizza cartella di download
 downloads-cmd-retry =
@@ -109,42 +109,33 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Elimina
     .accesskey = E
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Consenti download
     .accesskey = s
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Elimina file
-
 downloads-cmd-remove-file-panel =
     .aria-label = Elimina file
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Elimina file o consenti download
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Elimina file o consenti download
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Apri o elimina file
-
 downloads-cmd-choose-open-panel =
     .aria-label = Apri o elimina file
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Visualizza ulteriori informazioni
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -177,20 +168,17 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Riprova download
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Annulla download
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Visualizza tutti i download
     .accesskey = V
-
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Dettagli download
@@ -213,16 +201,13 @@ downloads-blocked-download-detailed-info = { $url } ha cercato di scaricare auto
 downloads-clear-downloads-button =
     .label = Cancella elenco download
     .tooltiptext = Rimuovi dall’elenco i download completati, annullati o non riusciti
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Non sono presenti download.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nessun download per questa sessione.
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

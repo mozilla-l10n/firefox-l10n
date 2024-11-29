@@ -6,20 +6,16 @@ common-dialog-title-null = La pagina riporta
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Sconosciuto
-
 # An indicator showing that Firefox is waiting for an operation to finish
 common-dialog-spinner =
-  .alt = Occupato
-
+    .alt = Occupato
 common-dialog-username =
     .value = Nome utente
 common-dialog-password =
     .value = Password
-
 common-dialog-copy-cmd =
     .label = Copia
     .accesskey = C
 common-dialog-select-all-cmd =
     .label = Seleziona tutto
     .accesskey = S
-

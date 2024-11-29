@@ -89,13 +89,12 @@ shopping-show-less-button = Nascondi dettagli
 
 shopping-settings-label =
     .label = Impostazioni
+shopping-settings-recommendations-toggle2 =
+    .label = Mostra consigli e contenuti sponsorizzati
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } non condivide i tuoi dati personali, per cui questi consigli non ti seguiranno su Internet. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
 shopping-settings-recommendations-toggle =
     .label = Mostra annunci in Verifica recensioni
 shopping-settings-recommendations-learn-more2 = Promuoviamo solo prodotti con recensioni affidabili. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
-shopping-settings-recommendations-toggle2 =
-  .label = Mostra consigli e contenuti sponsorizzati
-shopping-settings-recommendations-learn-more3 =
-  { -brand-product-name } non condivide i tuoi dati personali, per cui questi consigli non ti seguiranno su Internet. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
 shopping-settings-opt-out-button = Disattiva Verifica recensioni
 powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
@@ -166,8 +165,8 @@ shopping-unanalyzed-product-analyze-button = Verifica qualità recensioni
 
 more-to-consider-ad-label =
     .label = Altri prodotti da valutare
-ad-by-fakespot = Annuncio di { -fakespot-brand-name }
 shopping-sponsored-label = Sponsorizzato
+ad-by-fakespot = Annuncio di { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
