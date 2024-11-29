@@ -399,7 +399,7 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = REPRODUKCIJA
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = UTIŠANO
+browser-tab-audio-muted2 = ZVUK ISKLJUČEN
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = AUTOMATSKA REPRODUKCIJA BLOKIRANA
 # This label should be written in all capital letters if your locale supports them.
@@ -411,24 +411,64 @@ browser-tab-audio-pip = SLIKA-U-SLICI
 
 browser-tab-mute =
     { $count ->
-        [1] UTIŠAJ TAB
-        [one] UTIŠAJ TAB
-        [few] UTIŠAJ TABA
-       *[other] UTIŠAJ { $count } TABOVA
+        [1] ISKLJUČI ZVUK TABA
+        [one] ISKLJUČI ZVUK TABA
+        [few] ISKLJUČI ZVUK TABA
+       *[other] ISKLJUČI ZVUK { $count } TABOVA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] UKLJUČI ZVUK TABA
+        [one] UKLJUČI ZVUK TABA
+        [few] UKLJUČI ZVUK TABA
+       *[other] UKLJUČI ZVUK { $count } TABOVA
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIRAJ TAB
+        [one] REPRODUCIRAJ TAB
+        [few] REPRODUCIRAJ TABA
+       *[other] REPRODUCIRAJ { $count } TABOVA
     }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Uvezi oznake…
+    .tooltiptext = Uvezi oznake iz drugog pretraživača u { -brand-short-name }.
+bookmarks-toolbar-empty-message = Za brzi pristup, postavite svoje oznake ovdje na traku s alatima za oznake. <a data-l10n-name="manage-bookmarks">Upravljaj oznakama…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Zvučnici
+popup-select-window-or-screen =
+    .label = Prozor ili ekran:
+    .accesskey = W
 popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podijeljeni.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Dijelite { -brand-short-name }. Drugi ljudi mogu vidjeti kada se prebacite na novi tab.
+sharing-warning-screen = Dijelite cijeli ekran. Drugi ljudi mogu vidjeti kada se prebacite na novi tab.
+sharing-warning-proceed-to-tab =
+    .label = Nastavite na tab
+sharing-warning-disable-for-session =
+    .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = Da biste koristili prečicu F12, prvo otvorite Alate za programere preko menija Alati pretraživača.
 
 ## URL Bar
 
@@ -439,6 +479,47 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Pretraži web
+    .aria-label = Traži s { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Unesi pojmove za pretragu
+    .aria-label = Traži { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Unesi pojmove za pretragu
+    .aria-label = Traži oznake
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Unesi pojmove za pretragu
+    .aria-label = Traži historiju
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Unesi pojmove za pretragu
+    .aria-label = Traži tabove
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Unesi pojmove za pretragu
+    .aria-label = Traži radnje
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Pretražite sa { $name } ili unesite adresu
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Pretraživač je pod daljinskom kontrolom (razlog: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
@@ -450,17 +531,35 @@ urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =
     .tooltiptext = Akcije stranice
+urlbar-revert-button =
+    .tooltiptext = Prikaži adresu u traci lokacije
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Pretražujte sa { $engine } u privatnom prozoru
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Traži u privatnom prozoru
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Traži pomoću { $engine }
+urlbar-result-action-sponsored = Sponzorisano
 urlbar-result-action-switch-tab = Prebaci se na tab
 urlbar-result-action-visit = Posjeti
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Prebaci na tab · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Posjetite iz međuspremnika
 
 ## Strings used for buttons in the urlbar
 
