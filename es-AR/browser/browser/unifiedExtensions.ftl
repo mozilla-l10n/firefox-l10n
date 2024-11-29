@@ -41,10 +41,10 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Algunas extensiones no están permitidas
 unified-extensions-mb-quarantined-domain-message = Solo algunas extensiones supervisadas por { -vendor-short-name } están permitidas en este sitio para proteger sus datos.
-unified-extensions-mb-quarantined-domain-message-2 = Para proteger sus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Use la configuración de la extensión para permitir en sitios restringidos por { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algunas extensiones no están permitidas
     .message = Para proteger sus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Use la configuración de la extensión para permitir en sitios restringidos por { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Conocer más
     .aria-label = Conocer más: Algunas extensiones no están permitidas
+unified-extensions-mb-about-addons-link = Ir a configuración de extensiones

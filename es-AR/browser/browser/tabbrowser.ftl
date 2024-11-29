@@ -111,6 +111,13 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de salir con {
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = ¿Salir de { -brand-short-name } o cerrar la pestaña actual?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Salir de { -brand-short-name }
+       *[other] Salir de { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Cerrar la pestaña actual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -191,7 +198,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-context-unnamed-group =
+    .label = Grupo sin nombre
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Agregar pestaña al nuevo grupo
+            [one] Agregar pestaña al nuevo grupo
+           *[other] Agregar pestañas al nuevo grupo
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Agregar pestaña a un grupo
+            [one] Agregar pestaña a un grupo
+           *[other] Agregar pestañas a ungrupo
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nueva pestaña en el grupo
+tab-group-editor-action-new-window =
+    .label = Mover grupo a nueva ventana
+tab-group-editor-action-save =
+    .label = Guardar y cerrar grupo
+tab-group-editor-action-ungroup =
+    .label = Desagrupar pestañas
+tab-group-editor-action-delete =
+    .label = Borrar grupo
+tab-group-editor-done =
+    .label = Listo
+    .accessKey = L
+tab-context-reopen-tab-group =
+    .label = Reabrir grupo de pestañas
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Eliminar del grupo
+            [one] Eliminar del grupo
+           *[other] Eliminar de grupos
+        }
+    .accesskey = r
