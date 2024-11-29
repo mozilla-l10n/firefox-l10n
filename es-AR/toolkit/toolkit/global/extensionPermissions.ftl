@@ -30,4 +30,6 @@ webext-perms-description-sessions = Acceder a pestañas recientemente cerradas
 webext-perms-description-tabs = Acceder a pestañas del navegador
 webext-perms-description-tabHide = Ocultar y mostrar las pestañas del navegador
 webext-perms-description-topSites = Acceder al historial de navegación
+webext-perms-description-trialML = Descargar y ejecutar modelos de IA en tu dispositivo
+webext-perms-description-userScripts = Permitir que scripts de terceros no verificados accedan a los datos
 webext-perms-description-webNavigation = Acceder a actividad del navegador durante la navegación
