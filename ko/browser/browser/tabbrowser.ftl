@@ -192,3 +192,27 @@ tab-context-move-tab-to-group =
            *[other] 그룹에 탭 추가
         }
     .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = 그룹에 새 탭
+tab-group-editor-action-new-window =
+    .label = 그룹을 새 창으로 이동
+tab-group-editor-action-save =
+    .label = 그룹 저장 후 닫기
+tab-group-editor-action-ungroup =
+    .label = 탭 그룹 해제
+tab-group-editor-action-delete =
+    .label = 그룹 삭제
+tab-group-editor-done =
+    .label = 완료
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = 탭 그룹 다시 열기
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] 그룹에서 삭제
+           *[other] 그룹에서 삭제
+        }
+    .accesskey = R

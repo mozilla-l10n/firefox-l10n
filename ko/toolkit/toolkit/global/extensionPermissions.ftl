@@ -30,4 +30,6 @@ webext-perms-description-sessions = 최근에 닫힌 탭에 접근
 webext-perms-description-tabs = 브라우저 탭에 접근
 webext-perms-description-tabHide = 브라우저 탭 숨기기 및 표시
 webext-perms-description-topSites = 방문 기록에 접근
+webext-perms-description-trialML = 기기에 AI 모델을 다운로드 및 실행
+webext-perms-description-userScripts = 검증되지 않은 제3자 스크립트가 데이터에 접근하도록 허용
 webext-perms-description-webNavigation = 탐색 중 브라우저 활동에 접근
