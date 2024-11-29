@@ -72,6 +72,19 @@ protections-panel-blocking-label = 已拦截
 protections-panel-not-blocking-label = 已允许
 protections-panel-not-found-label = 未检测到
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } 将在您浏览此网站时拦截跟踪性内容，除非您要求不拦截。
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = 允许 { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = 已拦截 { $trackername } 跟踪器和内容
+smartblock-placeholder-desc = 您的 { -brand-short-name } 设置已阻止此内容跨网站跟踪您，或是用于投放广告。
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = 在 { $websitehost } 上允许
+
 ##
 
 protections-panel-settings-label = 保护设置

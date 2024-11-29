@@ -30,4 +30,6 @@ webext-perms-description-sessions = 访问最近关闭的标签页
 webext-perms-description-tabs = 访问浏览器标签页
 webext-perms-description-tabHide = 隐藏和显示浏览器标签页
 webext-perms-description-topSites = 访问浏览历史
+webext-perms-description-trialML = 下载 AI 模型到您的设备并运行
+webext-perms-description-userScripts = 允许未经验证的第三方脚本获取您的数据
 webext-perms-description-webNavigation = 在您上网时了解浏览器的行为状态

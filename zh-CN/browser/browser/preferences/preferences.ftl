@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = 向网站发出“请勿跟踪”信号，示明您不想被跟踪
+do-not-track-removal = 我们已停止支持“请勿跟踪”信号
 do-not-track-description2 =
     .label = 向网站发出“请勿跟踪”请求
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 在标签页中打开链接而非新窗口
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = 关闭多个标签页前先询问
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = 按 { $quitKey } 退出前先询问
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = 关闭多个标签页时向您确认
     .accesskey = m
@@ -565,8 +577,7 @@ home-prefs-shortcuts-description = 您保存或访问过的网站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 赞助商网站
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐

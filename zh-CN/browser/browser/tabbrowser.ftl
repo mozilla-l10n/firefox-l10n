@@ -52,6 +52,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = 要关闭 { $tabCount } 个标签页吗？
 tabbrowser-confirm-close-tabs-button = 关闭标签页
+tabbrowser-ask-close-tabs-checkbox = 关闭多个标签页前先询问
 tabbrowser-confirm-close-tabs-checkbox = 关闭多个标签页时向您确认
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -74,11 +75,21 @@ tabbrowser-confirm-close-tabs-with-key-title = 要关闭窗口并退出 { -brand
 tabbrowser-confirm-close-tabs-with-key-button = 退出 { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = 按 { $quitKey } 退出前先询问
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = 按 { $quitKey } 退出时向您确认
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = 要退出 { -brand-short-name } 还是关闭当前标签页？
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] 退出 { -brand-short-name }
+       *[other] 退出 { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = 关闭当前标签页
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -159,7 +170,47 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 取消
     .accesskey = C
+tab-context-unnamed-group =
+    .label = 未命名群组
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] 将标签页添加到新群组
+           *[other] 将标签页添加到新群组
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] 将标签页添加到群组
+           *[other] 将标签页添加到群组
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = 在群组中新建标签页
+tab-group-editor-action-new-window =
+    .label = 移动群组到新窗口
+tab-group-editor-action-save =
+    .label = 保存群组并关闭
+tab-group-editor-action-ungroup =
+    .label = 取消分组
+tab-group-editor-action-delete =
+    .label = 删除群组
+tab-group-editor-done =
+    .label = 完成
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = 重新打开标签页群组
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] 从群组移除
+           *[other] 从群组移除
+        }
+    .accesskey = R
