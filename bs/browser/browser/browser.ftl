@@ -880,21 +880,54 @@ content-analysis-panel-text-styled = Vaša organizacija koristi <b>{ $agentName 
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Ekstenzije
+    .tooltiptext = Ekstenzije
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Ekstenzije
+    .tooltiptext =
+        Ekstenzije
+        Potrebne su dozvole
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Ekstenzije
+    .tooltiptext =
+        Ekstenzije
+        Neke ekstenzije nisu dozvoljene
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Ekstenzije
+    .tooltiptext =
+        Ekstenzije
+        Neke ekstenzije su onemogućene
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Završi privatnu sesiju
+    .tooltiptext = Završi privatnu sesiju
+reset-pbm-panel-heading = Završiti privatnu sesiju?
+reset-pbm-panel-description = Zatvorite sve privatne tabove i izbrišite historiju, kolačiće i sve ostale podatke web stranice.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Uvijek pitaj
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Otkaži
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Izbriši podatke o sesiji
+    .accesskey = D
+reset-pbm-panel-complete = Podaci privatne sesije su izbrisani
 
 ## Autorefresh blocker
 
@@ -906,6 +939,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Naše sigurne maske koje se lahko koriste štite vaš identitet i sprječavaju neželjenu poštu skrivanjem vaše email adrese.
 
 ## Add-on Pop-up Notifications
 
