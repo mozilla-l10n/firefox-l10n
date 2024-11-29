@@ -52,6 +52,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = 탭 { $tabCount }개를 닫으시겠습니까?
 tabbrowser-confirm-close-tabs-button = 탭 닫기
+tabbrowser-ask-close-tabs-checkbox = 여러 탭을 닫기 전에 묻기
 tabbrowser-confirm-close-tabs-checkbox = 여러 탭을 닫기 전에 확인
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -74,7 +75,21 @@ tabbrowser-confirm-close-tabs-with-key-title = 창을 닫고 { -brand-short-name
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } 종료
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } 단축키로 종료하기 전에 묻기
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } 단축키로 종료하기 전에 확인
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name }를 종료하거나 현재 탭을 닫으시겠습니까?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 종료
+       *[other] { -brand-short-name } 종료
+    }
+tabbrowser-confirm-close-tab-only-button = 현재 탭 닫기
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -157,6 +172,23 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 취소
     .accesskey = C
-tab-group-editor-create =
-    .label = 만들기
-    .accesskey = r
+tab-context-unnamed-group =
+    .label = 익명 그룹
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] 새 그룹에 탭 추가
+           *[other] 새 그룹에 탭 추가
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] 그룹에 탭 추가
+           *[other] 그룹에 탭 추가
+        }
+    .accesskey = G

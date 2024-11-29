@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = { $trackername } 허용
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } 추적기 및 콘텐츠 차단됨
+smartblock-placeholder-desc = { -brand-short-name } 설정으로 인해 이 콘텐츠가 여러 사이트에서 사용자를 추적하거나 광고에 사용되는 것을 차단했습니다.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = { $websitehost }에서 허용
 
 ##
 
