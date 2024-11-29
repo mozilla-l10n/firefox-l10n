@@ -1434,6 +1434,35 @@ preferences-doh-setting-default =
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name } odlučuje kada će koristiti siguran DNS za zaštitu vaše privatnosti.
 preferences-doh-default-detailed-desc-1 = Koristite siguran DNS u regijama u kojima je dostupan
+preferences-doh-default-detailed-desc-2 = Koristi standarni DNS server ako postoji problem sa sigurnim pružaocem DNS-a
+preferences-doh-default-detailed-desc-3 = Koristite lokalnog pružaoca usluge, ako je moguće
+preferences-doh-default-detailed-desc-4 = Isključite kada su aktivni VPN, roditeljska kontrola ili pravila preduzeća
+preferences-doh-default-detailed-desc-5 = Isključite kada mreža kaže { -brand-short-name } da ne bi trebala koristiti siguran DNS
+preferences-doh-setting-enabled =
+    .label = Povećana zaštita
+    .accesskey = I
+preferences-doh-enabled-desc = Vi kontrolišete kada ćete koristiti sigurni DNS i birate svog pružaoca usluge.
+preferences-doh-enabled-detailed-desc-1 = Koristite pružaoca usluge kojeg odaberete
+preferences-doh-enabled-detailed-desc-2 = Koristi samo standarni DNS server ako postoji problem sa sigurnim DNS-om
+preferences-doh-setting-strict =
+    .label = Maksimalna zaštita
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } će uvijek koristiti siguran DNS. Vidjet ćete upozorenje o sigurnosnim rizicima prije nego što koristimo vaš sistemski DNS.
+preferences-doh-strict-detailed-desc-1 = Koristite samo pružaoca usluge kojeg odaberete
+preferences-doh-strict-detailed-desc-2 = Uvijek upozori ako sigurni DNS nije dostupan
+preferences-doh-strict-detailed-desc-3 = Ako sigurni DNS nije dostupan, web stranice se neće učitavati niti pravilno funkcionirati
+preferences-doh-setting-off =
+    .label = Isključeno
+    .accesskey = O
+preferences-doh-off-desc = Koristite svoj standarni DNS server
+preferences-doh-checkbox-warn =
+    .label = Upozori ukoliko treća strana aktivno sprječava sigurni DNS
+    .accesskey = W
+preferences-doh-select-resolver = Odaberi pružaoca usluge:
+preferences-doh-exceptions-description = { -brand-short-name } neće koristiti siguran DNS na ovim stranicama
+preferences-doh-manage-exceptions =
+    .label = Upravljaj izuzecima…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
