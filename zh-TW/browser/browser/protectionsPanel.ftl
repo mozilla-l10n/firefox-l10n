@@ -80,7 +80,7 @@ protections-panel-smartblock-desc-label = 除非您允許，{ -brand-short-name 
 protections-panel-smartblock-blocking-toggle =
     .label = 允許 { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
-smartblock-placeholder-title = 已封鎖 { $trackername } 組追蹤器與內容
+smartblock-placeholder-title = 已封鎖 { $trackername } 的追蹤器與內容
 smartblock-placeholder-desc = 您的 { -brand-short-name } 設定封鎖此內容，不讓其在網站間追蹤您，或用來對您投放廣告。
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = 對 { $websitehost } 允許

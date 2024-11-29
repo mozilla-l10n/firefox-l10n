@@ -191,9 +191,9 @@ tab-context-move-tab-to-group =
         }
     .accesskey = G
 tab-group-editor-action-new-tab =
-    .label = 群組中的新分頁
+    .label = 在群組中開啟新分頁
 tab-group-editor-action-new-window =
-    .label = 姜群組移動至新視窗
+    .label = 將群組移動至新視窗
 tab-group-editor-action-save =
     .label = 儲存並關閉群組
 tab-group-editor-action-ungroup =
