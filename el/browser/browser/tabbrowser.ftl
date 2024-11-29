@@ -206,11 +206,35 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Προσθήκη καρτέλας σε νέα ομάδα
+           *[other] Προσθήκη καρτελών σε νέα ομάδα
+        }
+    .accesskey = ο
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Προσθήκη καρτέλας σε ομάδα
+           *[other] Προσθήκη καρτελών σε ομάδα
+        }
+    .accesskey = ο
+tab-group-editor-action-new-tab =
+    .label = Νέα καρτέλα στην ομάδα
+tab-group-editor-action-new-window =
+    .label = Μετακίνηση ομάδας σε νέο παράθυρο
+tab-group-editor-action-save =
+    .label = Αποθήκευση και κλείσιμο ομάδας
+tab-group-editor-action-ungroup =
+    .label = Κατάργηση ομάδας καρτελών
 tab-group-editor-action-delete =
     .label = Διαγραφή ομάδας
 tab-group-editor-done =
     .label = Τέλος
     .accessKey = Τ
+tab-context-reopen-tab-group =
+    .label = Επαναφορά ομάδας καρτελών
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
