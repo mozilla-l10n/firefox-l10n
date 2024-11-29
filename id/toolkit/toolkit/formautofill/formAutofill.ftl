@@ -11,6 +11,7 @@ autofill-options-link-osx = Preferensi IsiOtomatis Formulir
 
 ## The credit card capture doorhanger
 
+credit-card-save-doorhanger-description = { -brand-short-name } mengenkripsi nomor kartu Anda. Kode keamanan Anda tidak akan disimpan.
 
 # Used on the doorhanger when an credit card change is detected.
 

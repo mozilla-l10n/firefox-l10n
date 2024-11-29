@@ -22,6 +22,7 @@ set-password-reenter-password = Konfirmasi sandi baru:
 set-password-meter = Ukuran kualitas sandi
 set-password-meter-loading = Memuat
 primary-password-admin = Administrator Anda mengharuskan Anda memiliki Sandi Utama untuk menyimpan info masuk dan kata sandi.
+primary-password-required-by-policy = Organisasi Anda mengharuskan Anda memiliki Kata Sandi Utama yang ditetapkan untuk menyimpan info masuk dan kata sandi.
 primary-password-description = Sandi Utama digunakan untuk melindungi informasi sensitif seperti sandi untuk masuk situs. Jika Anda membuat Sandi Utama, Anda akan diminta untuk memasukkannya satu kali per sesi ketika { -brand-short-name } mengambil informasi tersimpan yang dilindungi oleh sandi tersebut.
 primary-password-warning = Pastikan Anda mengingat Sandi Utama yang telah ditentukan. Apabila Anda lupa Sandi Utama Anda, Anda tidak akan bisa mengakses semua informasi yang dilindungi dengannya pada perangkat ini.
 remove-primary-password =

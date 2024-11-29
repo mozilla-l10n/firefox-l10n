@@ -74,6 +74,7 @@ protections-panel-not-found-label = Tidak Terdeteksi
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } memblokir konten pelacakan saat Anda berada di situs ini kecuali Anda mengizinkannya.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =

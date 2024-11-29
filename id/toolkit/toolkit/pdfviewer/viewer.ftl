@@ -99,6 +99,14 @@ pdfjs-document-properties-button-label = Properti Dokumen…
 pdfjs-document-properties-file-name = Nama berkas:
 pdfjs-document-properties-file-size = Ukuran berkas:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } byte)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } byte)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } byte)
@@ -271,6 +279,12 @@ pdfjs-editor-free-text-button-label = Teks
 pdfjs-editor-ink-button =
     .title = Gambar
 pdfjs-editor-ink-button-label = Gambar
+
+## Remove button for the various kind of editor.
+
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Warna
 pdfjs-editor-free-text-size-input = Ukuran
@@ -290,4 +304,18 @@ pdfjs-ink-canvas =
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
 

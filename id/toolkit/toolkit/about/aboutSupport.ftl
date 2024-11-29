@@ -196,6 +196,10 @@ media-key-system-name = Nama Sistem Kunci
 media-video-robustness = Kekokohan Video
 media-audio-robustness = Kekokohan Audio
 media-cdm-capabilities = Kemampuan
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Clear Lead
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = Kompatibel dengan HDCP 2.2
@@ -294,6 +298,8 @@ webgl2-renderer = Perender WebGL2
 webgl2-version = Versi Penggerak WebGL 2
 webgl2-driver-extensions = Ekstensi Penggerak WebGL 2
 webgl2-extensions = Ekstensi WebGL 2
+webgpu-default-adapter = Adaptor Baku WebGPU
+webgpu-fallback-adapter = Adaptor Pengganti WebGPU
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Dicekal karena masalah yang diketahui: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
@@ -318,6 +324,9 @@ has-seccomp-bpf = Seccomp-BPF (Pemfilteran Pemanggilan Sistem - System Call Filt
 has-seccomp-tsync = Sinkronisasi Utas Seccomp
 has-user-namespaces = Ruang Nama Pengguna
 has-privileged-user-namespaces = Ruang Nama Pengguna untuk proses istimewa
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Fitur ini tidak diizinkan oleh sistem Anda. Hal ini dapat membatasi fungsi fitur keamanan { -brand-short-name }.
 can-sandbox-content = Sandbox Proses Konten
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Tingkat Proses Konten Sandbox
@@ -388,6 +397,7 @@ support-printing-prefs-value = Nilai
 
 ## Remote Settings sections
 
+support-remote-settings-title = Pengaturan Jarak Jauh
 support-remote-settings-status = Status
 support-remote-settings-status-ok = Oke
 # Status when synchronization is not working.
