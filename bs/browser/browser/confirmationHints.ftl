@@ -22,3 +22,11 @@ confirmation-hint-send-to-device = Poslano!
 confirmation-hint-firefox-relay-mask-created = Nova maska je kreirana!
 confirmation-hint-firefox-relay-mask-reused = Postojeća maska je ponovo korištena!
 confirmation-hint-screenshot-copied = Snimak ekrana je kopiran!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Zatvoren { $tabCount } tab
+        [few] Zatvoreno { $tabCount } taba
+       *[other] Zatvoreno { $tabCount } tabova
+    }

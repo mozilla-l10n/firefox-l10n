@@ -362,7 +362,27 @@ identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
 identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
 identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
+identity-https-only-label = Način rada samo za HTTPS
+identity-https-only-label2 = Automatski nadogradite ovu stranicu na sigurnu vezu
+identity-https-only-dropdown-on =
+    .label = Uključeno
+identity-https-only-dropdown-off =
+    .label = Isključeno
+identity-https-only-dropdown-off-temporarily =
+    .label = Privremeno isključeno
+identity-https-only-info-turn-on2 = Uključite način rada samo za HTTPS za ovu stranicu ako želite da { -brand-short-name } nadogradi vezu kada je to moguće.
+identity-https-only-info-turn-off2 = Ako se čini da stranica ne radi, možda ćete htjeti isključiti način rada samo za HTTPS da bi se ova stranica ponovo učitala koristeći nesiguran HTTP.
+identity-https-only-info-turn-on3 = Uključite HTTPS nadogradnje za ovu stranicu ako želite da { -brand-short-name } nadogradi vezu kada je to moguće.
+identity-https-only-info-turn-off3 = Ako se čini da stranica ne radi, možda ćete htjeti da isključite nadogradnje HTTPS-a da bi se ova stranica ponovo učitala koristeći nesiguran HTTP.
+identity-https-only-info-no-upgrade = Nije moguće nadograditi vezu sa HTTP-a.
+identity-permissions-storage-access-header = Međustranični kolačići
+identity-permissions-storage-access-hint = Ove strane mogu koristiti međustranične kolačiće i podatke o stranicama dok ste na ovoj stranici.
+identity-permissions-storage-access-learn-more = Saznajte više
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
+identity-clear-site-data =
+    .label = Izbrišite kolačiće i podatke o web stranici…
+identity-connection-not-secure-security-view = Niste sigurno povezani na ovu stranicu.
+identity-connection-verified = Sigurno ste povezani na ovu stranicu.
 identity-ev-owner-label = Certifikat izdat za:
 identity-description-custom-root2 = Mozilla ne prepoznaje ovog izdavaoca certifikata. Možda je dodat iz vašeg operativnog sistema ili od strane administratora.
 identity-remove-cert-exception =
@@ -612,14 +632,68 @@ urlbar-searchmode-bookmarks =
     .label = Oznake
 urlbar-searchmode-tabs =
     .label = Tabovi
+urlbar-searchmode-history =
+    .label = Historija
+urlbar-searchmode-actions =
+    .label = Radnje
+urlbar-searchmode-exit-button =
+    .tooltiptext = Zatvori
+urlbar-searchmode-popup-description = Ovaj put traži sa:
+urlbar-searchmode-popup-search-settings = Postavke pretraživanja
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, odaberi pretraživač
+    .tooltiptext = { $engine }, odaberi pretraživač
+urlbar-searchmode-button-no-engine =
+    .label = Nije odabrana prečica, odaberi prečicu
+    .tooltiptext = Nije odabrana prečica, odaberi prečicu
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Pretraži oznake
+urlbar-result-action-search-history = Pretraži historiju
+urlbar-result-action-search-tabs = Pretraži tabove
+urlbar-result-action-search-actions = Pretraži radnje
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } prijedlozi
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Brze radnje
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Nedavna pretraživanja
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = U trendu na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ne prikazuj popularna pretraživanja
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = Zašto mi se ovo prikazuje?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Hvala na povratnim informacijama. Više nećete vidjeti popularna pretraživanja.
 
 ## Reader View toolbar buttons
 
@@ -634,6 +708,15 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Otvori Slika-u-slici ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Zatvori Slika-u-slici ({ $shortcut })
+picture-in-picture-panel-header = Slika-u-slici
+picture-in-picture-panel-headline = Ova web stranica ne preporučuje sliku-u-slici
+picture-in-picture-panel-body = Videozapisi se možda neće prikazati kako je programer zamislio dok je slika-u-slici omogućena.
+picture-in-picture-enable-toggle =
+    .label = Omogući svejedno
 
 ## Full Screen and Pointer Lock UI
 
@@ -653,6 +736,9 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom.
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Upravljaj oznakama
+bookmarks-recent-bookmarks-panel-subheader = Nedavne oznake
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
@@ -680,6 +766,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Sakrij traku sa zabilješkama
            *[other] Prikaži traku sa zabilješkama
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Sakrij traku sa oznakama
+           *[other] Prikaži traku sa oznakama
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -693,6 +785,8 @@ bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
     .label = Alati za zabilježavanje
+bookmarks-subview-edit-bookmark =
+    .label = Uredi ovu oznaku…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -706,14 +800,22 @@ bookmarks-toolbar-placeholder =
     .title = Stavke trake sa zabilješkama
 bookmarks-toolbar-placeholder-button =
     .label = Stavke trake sa zabilješkama
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Označi trenutni tab…
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Zabilješke
+library-recent-activity-title =
+    .value = Nedavna aktivnost
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Sačuvaj na { -pocket-brand-name }
+    .tooltiptext = Sačuvaj na { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
