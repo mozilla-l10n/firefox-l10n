@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Thông tin thêm về trình chống theo dõi nâng cao
 protections-panel-etp-on-header = Trình chống theo dõi nâng cao đã được BẬT cho trang này
 protections-panel-etp-off-header = Trình chống theo dõi nâng cao đã bị TẮT cho trang này
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Trang web không hoạt động?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Trang web không hoạt động?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Trình chống theo dõi nâng cao
     .description = Đã tắt trên trang này
     .aria-label = Trình chống theo dõi nâng cao: Đã tắt cho { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Trang web không hoạt động?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Trang web không hoạt động?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Dấu vết
 protections-panel-blocking-label = Đã chặn
 protections-panel-not-blocking-label = Đã cho phép
 protections-panel-not-found-label = Không phát hiện
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } chặn nội dung theo dõi khi bạn đang ở trên trang này trừ khi bạn cho phép điều đó.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Cho phép { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Trình theo dõi và nội dung của { $trackername } đã bị chặn
+smartblock-placeholder-desc = Cài đặt { -brand-short-name } của bạn đã chặn nội dung này từ việc theo dõi bạn trên các trang web hoặc bị sử dụng cho quảng cáo.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Cho phép trên { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Báo cáo một trang web bị hỏng
 protections-panel-content-blocking-breakage-report-view-description = Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo { -brand-short-name } tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến Mozilla. <label data-l10n-name="learn-more">Tìm hiểu thêm</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo { -brand-short-name } tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

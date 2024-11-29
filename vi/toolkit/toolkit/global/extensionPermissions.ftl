@@ -30,4 +30,6 @@ webext-perms-description-sessions = Truy cập các thẻ đã đóng gần đâ
 webext-perms-description-tabs = Truy cập các thẻ trên trình duyệt
 webext-perms-description-tabHide = Ẩn và hiển thỉ các thẻ trình duyệt
 webext-perms-description-topSites = Truy cập lịch sử duyệt web
+webext-perms-description-trialML = Tải xuống và chạy các mô hình AI trên thiết bị của bạn
+webext-perms-description-userScripts = Cho phép các tập lệnh của bên thứ ba chưa được xác minh truy cập vào dữ liệu của bạn
 webext-perms-description-webNavigation = Truy cập hoạt động của trình duyệt trong khi điều hướng
