@@ -30,4 +30,6 @@ webext-perms-description-sessions = Πρόσβαση στις πρόσφατα �
 webext-perms-description-tabs = Πρόσβαση στις καρτέλες του φυλλομετρητή
 webext-perms-description-tabHide = Απόκρυψη και εμφάνιση καρτελών του φυλλομετρητή
 webext-perms-description-topSites = Πρόσβαση στο ιστορικό περιήγησης
+webext-perms-description-trialML = Λήψη και εκτέλεση μοντέλων AI στη συσκευή
+webext-perms-description-userScripts = Να επιτρέπεται σε μη επαληθευμένα σενάρια τρίτων η πρόσβαση στα δεδομένα σας
 webext-perms-description-webNavigation = Πρόσβαση στη δραστηριότητα του φυλλομετρητή κατά την πλοήγηση
