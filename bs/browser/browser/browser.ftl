@@ -350,14 +350,18 @@ identity-header-security-with-host =
     .title = Sigurnost veze za { $host }
 identity-connection-not-secure = Veza nije sigurna
 identity-connection-secure = Sigurna veza
+identity-connection-failure = Greška veze
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
 identity-connection-file = Ova stranica je pohranjena na vaš računar.
+identity-connection-associated = Ova stranica se učitava s druge stranice.
 identity-extension-page = Ova stranica je učitana iz ekstenzije.
 identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
+identity-custom-root = Veza je verifikovana od strane izdavača certifikata kojeg Mozilla ne prepoznaje.
 identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
 identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
+identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
 identity-ev-owner-label = Certifikat izdat za:
 identity-description-custom-root2 = Mozilla ne prepoznaje ovog izdavaoca certifikata. Možda je dodat iz vašeg operativnog sistema ili od strane administratora.
@@ -940,12 +944,21 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = Naše sigurne maske koje se lahko koriste štite vaš identitet i sprječavaju neželjenu poštu skrivanjem vaše email adrese.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Svi emailovi poslani na vaše email maske bit će proslijeđene na <strong>{ $useremail }</strong> (osim ako ih ne odlučite blokirati).
+firefox-relay-offer-legal-notice = Klikom na "Koristi email masku", prihvatate <label data-l10n-name="tos-url">Uslove korištenja</label> i <label data-l10n-name="privacy-url">Obavijest o privatnosti </label>.
 
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
     .value = (Neprovjeren)
 popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
+popup-notification-xpinstall-prompt-block-url = Pokaži detalje
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Pokreni u privatnim prozorima
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -956,6 +969,15 @@ popup-warning-message =
         [one] { -brand-short-name } je spriječio ovu stranicu da otvori pop-up prozor.
         [few] { -brand-short-name } je spriječio ovu stranicu da otvori { $popupCount } pop-up prozora.
        *[other] { -brand-short-name } je spriječio ovu stranicu da otvori { $popupCount } pop-up prozora.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } iskačućeg prozora.
+        [few] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } iskačuća prozora.
+       *[other] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } iskačućih prozora.
     }
 popup-warning-button =
     .label =
@@ -975,6 +997,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Nije moguće otvoriti Windows dijalog za fajlove. Nije moguće odabrati nijedan fajl ili folder.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Nije moguće otvoriti Windows dijalog za datoteke. Fajl će biti sačuvan na { $path }.
+file-picker-failed-save-nowhere = Nije moguće otvoriti Windows dijalog za fajlove. Nije moguće pronaći zadani folder; fajl neće biti sačuvan.
+file-picker-crashed-open = Srušio se Windows dijalog za fajlove. Nije moguće odabrati nijedan fajl ili folder.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Srušio se Windows dijalog za fajlove. Fajl će biti sačuvan na { $path }.
+file-picker-crashed-save-nowhere = Srušio se Windows dijalog za fajlove. Nije moguće pronaći zadani folder; fajl neće biti sačuvan.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -982,3 +1012,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Prikaži u folderu
+    .accessKey = F
