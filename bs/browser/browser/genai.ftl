@@ -27,16 +27,98 @@ genai-settings-chat-shortcuts =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Sažmi
+    .value = Molimo sažmite izbor koristeći precizan i koncizan jezik. Koristite zaglavlja i liste sa nabrajanjem u sažetku kako biste ga mogli skenirati. Održavajte značenje i činjeničnu tačnost.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Pojednostavi jezik
+    .value = Molimo prepišite izbor koristeći kratke rečenice i jednostavne riječi. Održavajte značenje i činjeničnu tačnost.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Testiraj me
+    .value = Pitajte me o ovom izboru. Postavljajte mi različite vrste pitanja, na primjer višestruki izbor, istinito ili netačno i kratak odgovor. Sačekajte moj odgovor prije nego što pređete na sljedeće pitanje.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Objasni ovo
+    .value = Molimo objasnite ključne koncepte u ovom izboru, koristeći jednostavne riječi. Također, koristite primjere.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Nalazim se na stranici "{ $tabTitle }" sa odabranim "{ $selection }".
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Pitajte AI chatbot
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Pitaj { $provider }
+genai-input-ask-generic =
+    .placeholder = Pitajte AI chatbot…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Pitajte { $provider }…
+genai-shortcuts-hide =
+    .label = Sakrij prečicu za chatbot
 
 ## Chatbot header
 
+genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = Odaberite chatbot
+genai-header-options-button =
+    .title = Otvori meni
+genai-header-close-button =
+    .title = Zatvori
+genai-provider-view-details =
+    .label = Pogledajte detalje o chatbotu
+genai-provider-about-chatbots =
+    .label = O ovim chatbotovima
+genai-options-reload-generic =
+    .label = Ponovo učitaj AI chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Ponovo učitaj { $provider }
+genai-options-show-shortcut =
+    .label = Prikaži prečicu prilikom odabira teksta
+genai-options-hide-shortcut =
+    .label = Sakrijte prečicu prilikom odabira teksta
+genai-options-about-chatbot =
+    .label = O AI chatbotovima u { -brand-short-name }u
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Sažmite, razmišljajte i još mnogo toga dok pretražujete
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Odaberite AI chatbot za korištenje na bočnoj traci { -brand-short-name }. Prikazat ćemo detalje o svakom chatbotu kada ga odaberete. Prebacite bilo kada. <a data-l10n-name="learn-more">Saznajte više</a>
+genai-onboarding-primary = Nastavi
+genai-onboarding-secondary = Zatvori
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Saznajte više o Claudeu
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Saznajte više o ChatGPT-u
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Saznajte više o Copilotu
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Saznajte više o Geminiju
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Saznajte više o HuggingChat-u
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Saznajte više o Le Chatu
+genai-onboarding-select-header = Odaberite tekst da vidite prijedloge
+genai-onboarding-select-description = Kada odaberete tekst, predložit ćemo upite koje možete poslati chatbotu. Također možete pisati u vlastitim upitima.
+genai-onboarding-select-primary = Počni ćaskati
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generirajte tekst i kod
+genai-onboarding-claude-analyze = Analiziraj dokumente i slike
