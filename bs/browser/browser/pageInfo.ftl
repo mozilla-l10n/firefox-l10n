@@ -160,9 +160,9 @@ security-no-visits = Ne
 general-meta-tags =
     .value =
         { $tags ->
-            [one] Meta (1 tag)
-            [few] Meta ({ $tags } taga)
-           *[many] Meta ({ $tags } tagova)
+            [one] Meta (1 oznaka)
+            [few] Meta ({ $tags } oznake)
+           *[other] Meta ({ $tags } oznaka)
         }
 # This string is used to display the number of times
 # the user has visited the website prior
@@ -172,8 +172,8 @@ security-visits-number =
     { $visits ->
         [0] Ne
         [one] Da, jednom
-        [few] Da, dvaput
-       *[many] Da, { $visits } puta
+        [few] Da, { $visits } puta
+       *[other] Da, { $visits } puta
     }
 # This string is used to display the size of a media file
 # Variables:
@@ -184,7 +184,7 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } KB ({ $bytes } bajt)
             [few] { $kb } KB ({ $bytes } bajta)
-           *[many] { $kb } KB ({ $bytes } bajta)
+           *[other] { $kb } KB ({ $bytes } bajtova)
         }
 # This string is used to display the type and number
 # of frames of a animated image
@@ -194,9 +194,9 @@ properties-general-size =
 media-animated-image-type =
     .value =
         { $frames ->
-            [one] { $type } Slika (animirana, { $frames } frejm)
-            [few] { $type } Slika (animirana, { $frames } frejma)
-           *[many] { $type } Slika (animirana, { $frames } frejmova)
+            [one] { $type } slika (animirano, { $frames } sličica)
+            [few] { $type } slika (animirano, { $frames } sličice)
+           *[other] { $type } slika (animirano, { $frames } sličica)
         }
 # This string is used to display the type of
 # an image
