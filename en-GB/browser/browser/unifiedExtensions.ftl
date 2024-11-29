@@ -41,10 +41,38 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Some extensions are not allowed
 unified-extensions-mb-quarantined-domain-message = Only some extensions monitored by { -vendor-short-name } are allowed on this site to protect your data.
-unified-extensions-mb-quarantined-domain-message-2 = To protect your data, some extensions can’t read or change data on this site. Use the extension’s settings to allow on sites restricted by { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Some extensions are not allowed
     .message = To protect your data, some extensions can’t read or change data on this site. Use the extension’s settings to allow on sites restricted by { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Learn more
     .aria-label = Learn more: Some extensions are not allowed
+unified-extensions-mb-about-addons-link = Go to extension settings
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } disabled
+    .message =
+        This extension violates Mozilla’s policies and has been disabled.
+        You can enable it in settings, but this may be risky.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } disabled
+    .message = This extension violates Mozilla’s policies and has been disabled.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } extensions disabled
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } extensions disabled

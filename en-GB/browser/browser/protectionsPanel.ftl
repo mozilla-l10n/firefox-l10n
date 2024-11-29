@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = More information about Enhanced Tracking Protection
 protections-panel-etp-on-header = Enhanced Tracking Protection is ON for this site
 protections-panel-etp-off-header = Enhanced Tracking Protection is OFF for this site
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Site not working?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Site Not Working?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Enhanced Tracking Protection
     .description = Off for this site
     .aria-label = Enhanced Tracking Protection: Off for { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Site not working?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Site Not Working?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Blocked
 protections-panel-not-blocking-label = Allowed
 protections-panel-not-found-label = None Detected
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blocks tracking content while you’re on this site unless you allow it.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Allow { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } trackers and content blocked
+smartblock-placeholder-desc = Your { -brand-short-name } settings blocked this content from tracking you across sites or being used for ads.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Allow on { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Report a Broken Site
 protections-panel-content-blocking-breakage-report-view-description = Blocking certain trackers can cause problems with some web sites. Reporting these problems helps make { -brand-short-name } better for everyone. Sending this report will send a URL and information about your browser settings to Mozilla. <label data-l10n-name="learn-more">Learn more</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blocking certain trackers can cause problems with some web sites. Reporting these problems helps make { -brand-short-name } better for everyone. Sending this report will send a URL and information about your browser settings to { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
