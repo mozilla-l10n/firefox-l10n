@@ -28,8 +28,49 @@ fxviewtabrow-just-now-timestamp = Upravo sada
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-delete = Izbriši
+    .accesskey = D
+fxviewtabrow-forget-about-this-site = Zaboravi na ovu stranicu…
+    .accesskey = F
+fxviewtabrow-open-in-window = Otvori u novom prozoru
+    .accesskey = N
+fxviewtabrow-open-in-private-window = Otvori u novom privatnom prozoru
+    .accesskey = P
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = Oznaka…
+    .accesskey = B
+fxviewtabrow-save-to-pocket = Sačuvaj na { -pocket-brand-name }
+    .accesskey = o
+fxviewtabrow-copy-link = Kopiraj link
+    .accesskey = L
 fxviewtabrow-close-tab = Zatvori tab
     .accesskey = Z
+fxviewtabrow-move-tab = Premjesti tab
+    .accesskey = v
+fxviewtabrow-move-tab-start = Premjesti na početak
+    .accesskey = S
+fxviewtabrow-move-tab-end = Premjesti na kraj
+    .accesskey = E
+fxviewtabrow-move-tab-window = Premjesti u novi prozor
+    .accesskey = W
+fxviewtabrow-send-tab = Pošalji tab na uređaj
+    .accesskey = n
+fxviewtabrow-pin-tab = Zakači tab
+    .accesskey = P
+fxviewtabrow-unpin-tab = Otkači tab
+    .accesskey = p
+fxviewtabrow-mute-tab = Ugasi zvuk taba
+    .accesskey = M
+fxviewtabrow-unmute-tab = Uključi zvuk taba
+    .accesskey = m
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opcije za { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Ugasi zvuk taba
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Uključi zvuk taba

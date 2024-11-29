@@ -15,9 +15,21 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nije mogao prona
 
 firefox-relay-must-login-to-fxa = Morate se prijaviti na { -fxaccount-brand-name } da biste koristili { -relay-brand-name }.
 firefox-relay-must-login-to-account = Prijavite se na svoj račun da koristite svoje { -relay-brand-name } e-mail maske.
+firefox-relay-get-unlimited-masks =
+    .label = Upravljaj maskama
+    .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaštitite svoju email adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Koristite { -relay-brand-name } email masku
 firefox-relay-use-mask-title = Koristite { -relay-brand-name } email masku
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Koristi email masku
+    .accesskey = U
+firefox-relay-opt-in-confirmation-disable =
+    .label = Ne pokazuj mi ovo ponovo
+    .accesskey = D
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Ne sada
+    .accesskey = N

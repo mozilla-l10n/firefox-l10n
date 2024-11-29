@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Otkaži
 downloads-cmd-cancel-panel =
     .aria-label = Otkaži
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Prikaži u folderu
+           *[other] Prikaži u folderu
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -37,14 +44,47 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Otvori u sistemskom pregledniku
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Otvori u { $handler }
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Uvijek otvaraj u sistemskom pregledniku
     .accesskey = w
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Uvijek otvori u { $handler }
+    .accesskey = w
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Uvijek otvaraj slične fajlove
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Prikaži u folderu
+           *[other] Prikaži u folderu
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Prikaži u folderu
+           *[other] Prikaži u folderu
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Prikaži u folderu
+           *[other] Prikaži u folderu
+        }
 downloads-cmd-show-downloads =
     .label = Prikaži direktorij s preuzimanjima
 downloads-cmd-retry =
@@ -66,6 +106,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Obriši preuzimanja
     .accesskey = p
+downloads-cmd-delete-file =
+    .label = Izbriši
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Dozvoli preuzimanje
@@ -145,6 +188,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Fajl nije preuzet
+        [few] { $num } fajla nisu preuzeta.
+       *[other] { $num } fajlova nije preuzeto.
+    }
 downloads-blocked-from-url = Preuzimanja blokirana sa { $url }.
 downloads-blocked-download-detailed-info = { $url } je pokušao automatski preuzeti više datoteka. Stranica je možda pokvarena ili pokušava pohraniti spam datoteke na vaš uređaj.
 
@@ -160,6 +209,16 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nema preuzimanja u ovoj sesiji.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Još { $count } fajl se preuzima
+        [few] Još { $count } fajla se preuzima
+       *[other] Još { $count } fajlova se preuzima
+    }
 
 ## Download errors
 

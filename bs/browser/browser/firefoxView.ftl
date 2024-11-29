@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-button-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Pregledaj nedavno pretraživanje na različitim prozorima i uređajima
+menu-tools-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .accesskey = F
+firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
+firefoxview-close-button =
+    .title = Zatvori
+    .aria-label = Zatvori
 firefoxview-empty-state-icon =
     .alt = Pažnja:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
@@ -15,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% završeno
 firefoxview-tabpickup-step-signin-header = Neometano prebacivanje između uređaja
 firefoxview-tabpickup-step-signin-description = Da biste ovdje preuzeli tabove svog telefona, prvo se prijavite ili kreirajte račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nastavi
+firefoxview-syncedtabs-signin-header-2 = Vaš { -brand-product-name } na svim vašim uređajima
+firefoxview-syncedtabs-signin-description-2 = Da vidite otvorene tabove na telefonu i drugim uređajima, prijavite se ili se prijavite za račun. Pomoću računa takođe možete sinhronizovati svoje lozinke, historiju i još mnogo toga.
+firefoxview-syncedtabs-signin-primarybutton-2 = Prijava
 firefoxview-syncedtabs-signin-header = Uzmite tabove s bilo kojeg mjesta
 firefoxview-syncedtabs-signin-description = Da vidite svoje tabove gdje god da koristite { -brand-product-name }, prijavite se na svoj račun. Ako nemate račun, mi ćemo vas provesti kroz korake za registraciju.
 firefoxview-syncedtabs-signin-primarybutton = Prijavi se ili registruj se
@@ -22,6 +42,8 @@ firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = Preuzmite { -brand-product-name } za mobilni i tamo se prijavite.
 firefoxview-tabpickup-adddevice-learn-how = Saznajte kako
 firefoxview-tabpickup-adddevice-primarybutton = Preuzmite { -brand-product-name } za mobitel
+firefoxview-syncedtabs-adddevice-header-2 = Uzmite tabove s bilo kojeg mjesta
+firefoxview-syncedtabs-adddevice-description-2 = Prijavite se na { -brand-product-name } na svom telefonu ili drugom računaru da vidite tabove ovdje. Saznajte kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-header = Prijavite se na { -brand-product-name } na svojim drugim uređajima
 firefoxview-syncedtabs-adddevice-description = Da vidite svoje tabove gdje god da koristite { -brand-product-name }, prijavite se na svim svojim uređajima. Saznajte kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobajte { -brand-product-name } za mobilni uređaj
@@ -88,21 +110,35 @@ firefoxview-collapse-button-show =
     .title = Prikaži listu
 firefoxview-collapse-button-hide =
     .title = Sakrij listu
+firefoxview-overview-nav = Nedavno pretraživanje
+    .title = Nedavno pretraživanje
+firefoxview-overview-header = Nedavno pretraživanje
+    .title = Nedavno pretraživanje
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Historija
+    .title = Historija
 firefoxview-history-header = Historija
+firefoxview-history-context-delete = Izbriši iz historije
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Otvori tabove
+    .title = Otvori tabove
 firefoxview-opentabs-header = Otvoreni tabovi
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nedavno zatvoreni tabovi
+    .title = Nedavno zatvoreni tabovi
 firefoxview-recently-closed-header = Nedavno zatvoreni tabovi
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tabovi sa drugih uređaja
+    .title = Tabovi sa drugih uređaja
 firefoxview-synced-tabs-header = Tabovi sa drugih uređaja
 
 ##
@@ -134,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Pretražite nedavno zatvorene tabove
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Pretraži tabove
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Pretraži sinhronizovane tabove
 # Placeholder for the input field to search in open tabs ("search" is a verb).
@@ -143,6 +182,14 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = Rezultati pretraživanja za “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } stranica
+        [few] { $count } stranice
+       *[other] { $count } stranica
+    }
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
@@ -181,15 +228,24 @@ firefoxview-history-empty-description-two = Zaštita vaše privatnosti je srž o
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Odaberite pretraživač
+    .title = Odaberite pretraživač
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ništa za pokazati
 firefoxview-dont-remember-history-empty-description = Zaštita vaše privatnosti je srž onoga što radimo. Zbog toga možete kontrolisati aktivnost koju { -brand-short-name } pamti.
 firefoxview-dont-remember-history-empty-description-two = Na osnovu vaših trenutnih postavki, { -brand-short-name } ne pamti vašu aktivnost dok pretražujete. Da biste to promijenili, <a data-l10n-name="history-settings-url-two">promijenite postavke historije da zapamtite historiju</a>.
+firefoxview-dont-remember-history-empty-header-2 = Vi kontrolišete šta { -brand-short-name } pamti
+firefoxview-dont-remember-history-empty-description-one = Trenutno, { -brand-short-name } ne pamti vašu aktivnost pretraživanja. Da biste to promijenili, <a data-l10n-name="history-settings-url-two">ažurirajte postavke historije</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zatvori
+    .title = Zatvori
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

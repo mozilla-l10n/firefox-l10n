@@ -43,3 +43,54 @@ callout-pdfjs-draw-body-a = Označite PDF-ove, a zatim sačuvajte promjene.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Nema više štampanja i skeniranja. Označite PDF-ove, a zatim sačuvajte promjene.
 callout-pdfjs-draw-button = Razumijem!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-title = Niste namjeravali zatvoriti taj tab?
+fx-view-discoverability-subtitle = Ovdje ga brzo pronađite i ponovo otvorite. Čuvamo historiju vaših nedavno zatvorenih tabova za vas.
+fx-view-discoverability-primary-button-label = Otvori { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Odbaci
+
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Nemoj više prikazivati ovu preporuku
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Prikaži manje preporuka
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Upravljaj postavkama
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Prikaži naslove tabove na bočnoj traci
+sidebar-button-callout-subtitle = Koristite dugme bočne trake da proširite bočnu traku, tako da možete videti naslove tabova.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Pomozite poboljšati { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Koliko ste zadovoljni iskustvom bočne trake u { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Polica privatnosti
+sidebar-callout-survey-very-satisfied = Vrlo zadovoljan
+sidebar-callout-survey-satisfied = Zadovoljan
+sidebar-callout-survey-neutral = Neutralno
+sidebar-callout-survey-dissatisfied-2 = Nezadovoljan
+sidebar-callout-survey-very-dissatisfied-2 = Vrlo nezadovoljan
+sidebar-callout-survey-dont-use-it = Ne koristim ga
+sidebar-callout-survey-productive-question =
+    U kojoj mjeri se slažete ili ne slažete sa ovom izjavom:<br/>
+    “Bočna traka { -brand-short-name }a mi pomaže da budem produktivniji”?
+sidebar-callout-survey-strongly-agree = Potpuno se slažem
+sidebar-callout-survey-agree = Slažem se
+sidebar-callout-survey-disagree = Ne slažem se
+sidebar-callout-survey-strongly-disagree = Uopšte se ne slažem
+sidebar-callout-survey-features-question = Sljedeće su potencijalne karakteristike bočne trake. Što bi najviše poboljšalo vašu produktivnost u { -brand-short-name }u?
+sidebar-callout-survey-split-view = Pregledajte bilo koje dvije web stranice odjednom, u jednostranom podijeljenom prikazu
+sidebar-callout-survey-keep-website-open = Neka web stranica, poput emaila ili kalendara, bude otvorena na bočnoj traci dok pretražujete
+sidebar-callout-survey-saved-websites-2 = Brzi pristup vašim oznakama
+sidebar-callout-survey-none-of-above = Ništa od navedenog
+sidebar-callout-survey-submit = Pošalji
+sidebar-callout-survey-thank-you = Hvala vam na povratnim informacijama!
+sidebar-genai-survey-satisfaction-question = Koliko ste zadovoljni sa pristupom AI chatbotu na bočnoj traci?
+sidebar-genai-survey-productive-question =
+    U kojoj mjeri se slažete ili ne slažete sa ovom izjavom:<br/>
+    “AI chatbot na bočnoj traci mi pomaže da budem produktivniji”?
