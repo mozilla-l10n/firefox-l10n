@@ -154,6 +154,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Άνοιγμα συνδέσμων σε καρτέλες αντί για νέα παράθυρα
     .accesskey = π
+ask-on-close-multiple-tabs =
+    .label = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών
+    .accesskey = π
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Ερώτηση πριν από τον τερματισμό με { $quitKey }
+    .accesskey = τ
 confirm-on-close-multiple-tabs =
     .label = Επιβεβαίωση πριν από το κλείσιμο πολλαπλών καρτελών
     .accesskey = β
@@ -569,8 +580,7 @@ home-prefs-shortcuts-description = Ιστότοποι από σελιδοδεί�
 home-prefs-shortcuts-by-option-sponsored =
     .label = Χορηγούμενες συντομεύσεις
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }

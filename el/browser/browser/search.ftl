@@ -33,3 +33,10 @@ searchbar-icon =
 removed-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
 removed-search-engine-message2 = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-add = Προσθήκη
+install-search-engine-no = Όχι

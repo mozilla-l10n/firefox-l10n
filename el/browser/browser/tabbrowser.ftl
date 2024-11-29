@@ -104,6 +104,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Τερματισμός του { 
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Επιβεβαίωση πριν από τον τερματισμό με { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Επιβεβαίωση ανοίγματος
@@ -184,4 +188,22 @@ tab-group-editor-name-field =
     .placeholder = Παράδειγμα: Αγορές
 tab-group-editor-cancel =
     .label = Ακύρωση
+    .accesskey = Α
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-delete =
+    .label = Διαγραφή ομάδας
+tab-group-editor-done =
+    .label = Τέλος
+    .accessKey = Τ
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Αφαίρεση από ομάδα
+           *[other] Remove from Groups
+        }
     .accesskey = Α

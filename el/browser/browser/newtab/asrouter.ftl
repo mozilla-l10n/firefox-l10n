@@ -297,6 +297,12 @@ root-certificate-succession-infobar-secondary-button =
     .label = Αργότερα
     .accesskey = Α
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Χάσατε μια σημαντική ενημέρωση του { -brand-short-name }
+root-certificate-windows-background-notification-learn-more-button = Μάθετε περισσότερα
+root-certificate-windows-background-notification-update-button = Ενημέρωση του { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
