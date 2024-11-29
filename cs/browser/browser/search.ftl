@@ -64,5 +64,6 @@ remove-search-engine-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Přidat { $engineName } jako vyhledávač?
 install-search-engine-add = Přidat
 install-search-engine-no = Ne

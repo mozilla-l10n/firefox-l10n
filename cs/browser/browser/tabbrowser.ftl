@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Zavřít { $tabCount } panelů?
     }
 tabbrowser-confirm-close-tabs-button = Zavřít panely
+tabbrowser-ask-close-tabs-checkbox = Zeptat se před zavřením více panelů
 tabbrowser-confirm-close-tabs-checkbox = Vždy se zeptat při zavírání více panelů
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -125,6 +126,9 @@ tabbrowser-confirm-close-tabs-with-key-button =
         [with-cases] Ukončit { -brand-short-name(case: "acc") }
        *[no-cases] Ukončit aplikaci { -brand-short-name }
     }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Zeptat se před ukončením zkratkou { $quitKey }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončování aplikace zkratkou { $quitKey }
