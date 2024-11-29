@@ -38,5 +38,6 @@ remove-search-engine-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Προσθήκη του { $engineName } ως μηχανής αναζήτησης;
 install-search-engine-add = Προσθήκη
 install-search-engine-no = Όχι

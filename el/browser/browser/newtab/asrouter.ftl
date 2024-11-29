@@ -300,6 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Χάσατε μια σημαντική ενημέρωση του { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Ορισμένα τμήματα του προγράμματος περιήγησης θα σταματήσουν να λειτουργούν σύντομα αν δεν κάνετε ενημέρωση. Τώρα είναι η κατάλληλη στιγμή να λάβετε τις πιο πρόσφατες λύσεις προστασίας και λειτουργίες μας.
 root-certificate-windows-background-notification-learn-more-button = Μάθετε περισσότερα
 root-certificate-windows-background-notification-update-button = Ενημέρωση του { -brand-short-name }
 

@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Κλείσιμο { $tabCount } καρτελών;
 tabbrowser-confirm-close-tabs-button = Κλείσιμο καρτελών
+tabbrowser-ask-close-tabs-checkbox = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών
 tabbrowser-confirm-close-tabs-checkbox = Επιβεβαίωση πριν από το κλείσιμο πολλαπλών καρτελών
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,11 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Κλείσιμο παραθύρο
 tabbrowser-confirm-close-tabs-with-key-button = Τερματισμός του { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Ερώτηση πριν από τον τερματισμό με { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Επιβεβαίωση πριν από τον τερματισμό με { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Τερματισμός του { -brand-short-name } ή κλείσιμο τρέχουσας καρτέλας;
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Έξοδος από το { -brand-short-name }
+       *[other] Τερματισμός του { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Κλείσιμο τρέχουσας καρτέλας
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -189,6 +200,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Ακύρωση
     .accesskey = Α
+tab-context-unnamed-group =
+    .label = Ανώνυμη ομάδα
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

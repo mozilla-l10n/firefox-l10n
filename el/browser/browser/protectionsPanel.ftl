@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Περισσότερες πληροφορίες σχετικά με την Ενισχυμένη προστασία από καταγραφή
 protections-panel-etp-on-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΕΝΕΡΓΗ σε αυτόν τον ιστότοπο
 protections-panel-etp-off-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΑΝΕΝΕΡΓΗ σε αυτόν τον ιστότοπο
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Δεν λειτουργεί ο ιστότοπος;
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Δεν λειτουργεί ο ιστότοπος;
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Ενισχυμένη προστασία από καταγραφή
     .description = Ανενεργή για αυτόν τον ιστότοπο
     .aria-label = Ενισχυμένη προστασία από καταγραφή: Ανενεργή για το { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Δεν λειτουργεί ο ιστότοπος;
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Δεν λειτουργεί ο ιστότοπος;
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,21 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinter
 protections-panel-blocking-label = Αποκλείονται
 protections-panel-not-blocking-label = Επιτρέπονται
 protections-panel-not-found-label = Δεν εντοπίστηκαν
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label =
+    Το { -brand-short-name } αποκλείει το περιεχόμενο καταγραφής όσο βρίσκεστε σε αυτόν τον ιστότοπο, εκτός κι 
+     αν το επιτρέψετε.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Να επιτρέπεται το { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Αποκλείστηκαν ιχνηλάτες { $trackername } και περιεχόμενο
+smartblock-placeholder-desc = Οι ρυθμίσεις του { -brand-short-name } απέτρεψαν την καταγραφή σας από αυτό το περιεχόμενο στους ιστοτόπους ή τη χρήση του για διαφημίσεις.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Να επιτρέπεται στο { $websitehost }
 
 ##
 
@@ -108,7 +123,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Αναφορά προβληματικού ιστοτόπου
 protections-panel-content-blocking-breakage-report-view-description = Ο αποκλεισμός ορισμένων ιχνηλατών μπορεί να προκαλέσει προβλήματα σε κάποιους ιστοτόπους. Όταν αναφέρετε τέτοια προβλήματα, συμβάλλετε στη βελτίωση του { -brand-short-name } για όλους. Με την αποστολή της αναφοράς, θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη Mozilla. <label data-l10n-name="learn-more">Μάθετε περισσότερα</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Ο αποκλεισμός ορισμένων ιχνηλατών μπορεί να προκαλέσει προβλήματα σε κάποιους ιστοτόπους. Όταν αναφέρετε τέτοια προβλήματα, συμβάλλετε στη βελτίωση του { -brand-short-name } για όλους. Με την αποστολή της αναφοράς, θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
