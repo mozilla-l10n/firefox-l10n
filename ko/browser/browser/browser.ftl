@@ -971,9 +971,6 @@ content-analysis-panel-title = 데이터 보호
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = 사용자의 조직은 데이터 손실을 막기 위해 <b>{ $agentName }</b> 에이전트를 사용합니다. <a data-l10n-name="info">더 알아보기</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = 사용자의 조직은 { $agentName } 에이전트를 사용하여 데이터 손실을 방지합니다. <a data-l10n-name="info">더 알아보기</a>
 
 ## Unified extensions (toolbar) button
 
@@ -998,6 +995,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         확장 기능
         일부 확장 기능은 허용되지 않음
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = 확장 기능
+    .tooltiptext =
+        확장 기능
+        일부 확장 기능이 비활성화됨
 
 ## Private browsing reset button
 
