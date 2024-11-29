@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Mais informações sobre a proteção aprimorada contra rastreamento
 protections-panel-etp-on-header = A proteção aprimorada contra rastreamento está ATIVADA neste site
 protections-panel-etp-off-header = A proteção aprimorada contra rastreamento está DESATIVADA neste site
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = O site não está funcionando?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = O site não está funcionando?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Proteção aprimorada contra rastreamento
     .description = Desativada neste site
     .aria-label = Proteção aprimorada contra rastreamento: Desativada em { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = O site não está funcionando?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = O site não está funcionando?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,14 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters (rastre
 protections-panel-blocking-label = Bloqueado:
 protections-panel-not-blocking-label = Permitido:
 protections-panel-not-found-label = Nenhum detectado:
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = O { -brand-short-name } bloqueia conteúdo com rastreamento enquanto você estiver neste site, a menos que você dê permissão.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permitir { $trackername }
 
 ##
 
@@ -108,7 +116,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Relatar um site com problemas
 protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas em alguns sites. Relatar esses problemas ajuda a melhorar o { -brand-short-name } para todos. Ao enviar este relato, a Mozilla recebe o endereço da página e informações sobre configurações do seu navegador. <label data-l10n-name="learn-more">Saiba mais</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Bloquear certos rastreadores pode causar problemas em alguns sites. Relatar esses problemas ajuda a melhorar o { -brand-short-name } para todos. Ao enviar este relato, a { -vendor-short-name } recebe o endereço da página e informações sobre configurações do seu navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

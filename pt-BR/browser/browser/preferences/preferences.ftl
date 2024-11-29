@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar aos sites um sinal de “Não rastrear” informando que você não quer ser rastreado
+do-not-track-removal = Não oferecemos mais suporte ao sinal “Não rastrear”
 do-not-track-description2 =
     .label = Enviar aos sites uma solicitação de “Não rastrear”
     .accesskey = N
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir links em abas em vez de novas janelas
     .accesskey = j
+ask-on-close-multiple-tabs =
+    .label = Perguntar antes de fechar várias abas
+    .accesskey = v
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Perguntar antes de sair com { $quitKey }
+    .accesskey = n
 confirm-on-close-multiple-tabs =
     .label = Confirmar antes de fechar várias abas
     .accesskey = m
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Sites que você salva ou visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atalhos patrocinados
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomendado pelo { $provider }
