@@ -170,7 +170,47 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Batal
     .accesskey = B
+tab-context-unnamed-group =
+    .label = Grup tanpa nama
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Tambahkan Tab ke Grup Baru
+           *[other] Tambahkan Tab ke Grup Baru
+        }
+    .accesskey = T
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Tambahkan Tab ke Grup
+           *[other] Tambahkan Tab ke Grup
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Tab baru di grup
+tab-group-editor-action-new-window =
+    .label = Pindahkan grup ke jendela baru
+tab-group-editor-action-save =
+    .label = Simpan dan tutup grup
+tab-group-editor-action-ungroup =
+    .label = Pisahkan tab grup
+tab-group-editor-action-delete =
+    .label = Hapus grup
+tab-group-editor-done =
+    .label = Selesai
+    .accessKey = S
+tab-context-reopen-tab-group =
+    .label = Buka kembali grup tab
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Hapus dari Grup
+           *[other] Hapus dari Grup
+        }
+    .accesskey = H
