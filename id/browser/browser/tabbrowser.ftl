@@ -83,6 +83,13 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Konfirmasi sebelum keluar dari
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Keluar dari { -brand-short-name } atau tutup tab saat ini?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Keluar dari { -brand-short-name }
+       *[other] Keluar dari { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Tutup tab saat ini
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

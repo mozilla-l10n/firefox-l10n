@@ -6,12 +6,13 @@ common-dialog-title-null = Halaman ini mengatakan
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Tidak Diketahui
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Sibuk
 common-dialog-username =
     .value = Nama Pengguna
 common-dialog-password =
     .value = Kata sandi
-
 common-dialog-copy-cmd =
     .label = Salin
     .accesskey = S

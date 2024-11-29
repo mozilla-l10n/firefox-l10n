@@ -89,11 +89,26 @@ shopping-show-less-button = Lebih sedikit
 
 shopping-settings-label =
     .label = Pengaturan
+shopping-settings-recommendations-toggle2 =
+    .label = Tampilkan rekomendasi dan konten bersponsor
 shopping-settings-recommendations-toggle =
     .label = Tampilkan iklan di Pemeriksa Ulasan
 shopping-settings-recommendations-learn-more2 = Kadang Anda akan melihat iklan untuk produk yang relevan. Kami hanya mengiklankan produk dengan ulasan yang dapat diandalkan. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
 shopping-settings-opt-out-button = Matikan Pemeriksa Ulasan
 powered-by-fakespot = Review Checker didukung oleh <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Buka Review Checker secara otomatis
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Saat Anda melihat produk di { $firstSite }, { $secondSite }, dan { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Saat Anda melihat produk di { $currentSite }
+shopping-settings-sidebar-enabled-state = Review Checker sedang <strong>Aktif</strong>
 
 ## Strings for the adjusted rating component
 
@@ -102,6 +117,7 @@ powered-by-fakespot = Review Checker didukung oleh <a data-l10n-name="fakespot-l
 shopping-adjusted-rating-label =
     .label = Peringkat yang disesuaikan
 shopping-adjusted-rating-unreliable-reviews = Ulasan yang tidak dapat diandalkan dihapus
+shopping-adjusted-rating-based-reliable-reviews = Berdasarkan ulasan yang andal
 
 ## Strings for the review reliability component
 
@@ -120,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-reliable = Ulasan terpercaya. Kami yakin ulasan tersebut boleh jadi berasal dari pelanggan tulen yang meninggalkan ulasan yang jujur dan tidak bias.
 shopping-analysis-explainer-review-grading-scale-mixed = Kami percaya ada percampuran ulasan yang terpercaya dan yang tidak dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-unreliable = Ulasan yang tidak dapat diandalkan. Kami yakin ulasan tersebut kemungkinan palsu atau dari pengulas yang bias.
@@ -146,6 +164,7 @@ shopping-unanalyzed-product-analyze-button = Periksa kualitas ulasan
 
 more-to-consider-ad-label =
     .label = Lebih banyak untuk dipertimbangkan
+shopping-sponsored-label = Bersponsor
 ad-by-fakespot = Iklan oleh { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -176,6 +195,22 @@ shopping-callout-pdp-opted-in-title = Apakah ulasan ini dapat diandalkan? Temuka
 shopping-callout-pdp-opted-in-subtitle = Buka Review Checker untuk melihat peringkat yang disesuaikan dengan ulasan yang tidak dapat diandalkan dihapus. Juga, lihat sorotan dari ulasan otentik terbaru.
 shopping-callout-closed-not-opted-in-title = Satu klik untuk ulasan yang andal
 shopping-callout-closed-not-opted-in-subtitle = Cobalah Review Checker setiap kali Anda melihat label harga. Dapatkan masukan dari pembeli nyata dengan cepat — sebelum Anda membeli.
+shopping-callout-closed-not-opted-in-revised-title = Sekali klik untuk ulasan tepercaya
+shopping-callout-closed-not-opted-in-revised-subtitle = Cukup klik ikon label harga di bilah alamat untuk kembali ke Review Checker.
+shopping-callout-closed-not-opted-in-revised-button = Paham
+shopping-callout-not-opted-in-reminder-title = Belanja dengan percaya diri
+shopping-callout-not-opted-in-reminder-subtitle = Tidak yakin apakah ulasan produk itu asli atau palsu? Review Checker dari { -brand-product-name } dapat membantu.
+shopping-callout-not-opted-in-reminder-open-button = Buka Review Checker
+shopping-callout-not-opted-in-reminder-close-button = Tutup
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Jangan tampilkan lagi
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustrasi abstrak dari tiga ulasan produk. Salah satunya memiliki simbol peringatan yang menunjukkan bahwa itu mungkin tidak dapat dipercaya.
+shopping-callout-disabled-auto-open-title = Review Checker sekarang ditutup secara baku
+shopping-callout-disabled-auto-open-subtitle = Klik ikon label harga di bilah alamat setiap kali ingin melihat apakah Anda dapat mempercayai ulasan produk.
+shopping-callout-disabled-auto-open-button = Paham
+shopping-callout-opted-out-title = Review Checker nonaktif
+shopping-callout-opted-out-subtitle = Untuk mengaktifkannya kembali, klik ikon label harga di bilah alamat dan ikuti petunjuknya.
+shopping-callout-opted-out-button = Paham
 
 ## Onboarding message strings.
 

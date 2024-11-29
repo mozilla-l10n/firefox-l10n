@@ -85,6 +85,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Pengaya ini memberikan ak
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Ini biasanya berupa perangkat plug-in seperti audio synthesizer, tetapi mungkin juga berupa perangkat yang ada di dalam komputer Anda.
+    
+    Situs web biasanya tidak diizinkan untuk mengakses perangkat MIDI. Penggunaan yang tidak tepat dapat menyebabkan kerusakan atau membahayakan keamanan.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
