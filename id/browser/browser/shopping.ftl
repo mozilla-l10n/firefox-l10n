@@ -68,6 +68,7 @@ shopping-message-bar-keep-closed-header =
     .heading = Tetap tutup?
     .message = Anda dapat memperbarui pengaturan untuk selalu menutup Review Checker. Saat ini Review Checker dibuka secara otomatis.
 shopping-message-bar-keep-closed-dismiss-button = Tidak, terima kasih
+shopping-message-bar-keep-closed-accept-button = Ya, tetap tutup
 
 ## Strings for the product review snippets card
 
