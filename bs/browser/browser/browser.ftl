@@ -184,6 +184,9 @@ urlbar-star-add-bookmark =
 page-action-manage-extension2 =
     .label = Upravljaj ekstenzijom…
     .accesskey = E
+page-action-remove-extension2 =
+    .label = Ukloni ekstenciju
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -207,6 +210,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
+search-one-offs-context-set-as-default-private =
+    .label = Postavi kao zadani pretraživač za privatne prozore
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
