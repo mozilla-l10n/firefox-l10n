@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Fechar { $tabCount } abas?
 tabbrowser-confirm-close-tabs-button = Fechar abas
+tabbrowser-ask-close-tabs-checkbox = Perguntar antes de fechar várias abas
 tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de fechar várias abas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -106,6 +107,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Sair do { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -188,6 +193,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
-tab-group-editor-create =
-    .label = Criar
-    .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

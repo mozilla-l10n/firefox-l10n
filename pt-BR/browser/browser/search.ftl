@@ -33,3 +33,10 @@ searchbar-icon =
 removed-search-engine-message = <strong>Seu mecanismo de pesquisa padrão foi alterado.</strong> { $oldEngine } não está mais disponível como mecanismo de pesquisa padrão no { -brand-short-name }. { $newEngine } é agora seu mecanismo de pesquisa padrão. Para mudar para outro mecanismo de pesquisa padrão, vá em configurações. <label data-l10n-name="remove-search-engine-article">Saiba mais</label>
 removed-search-engine-message2 = <strong>Seu mecanismo de pesquisa padrão foi alterado.</strong> { $oldEngine } não está mais disponível como mecanismo de pesquisa padrão no { -brand-short-name }. { $newEngine } é agora seu mecanismo de pesquisa padrão. Para mudar para outro mecanismo de pesquisa padrão, vá em configurações.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-add = Adicionar
+install-search-engine-no = Não
