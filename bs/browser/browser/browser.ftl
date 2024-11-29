@@ -409,6 +409,13 @@ browser-tab-audio-pip = SLIKA-U-SLICI
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] UTIŠAJ TAB
+        [one] UTIŠAJ TAB
+        [few] UTIŠAJ TABA
+       *[other] UTIŠAJ { $count } TABOVA
+    }
 
 ## Bookmarks toolbar items
 
