@@ -12,6 +12,8 @@ cfr-doorhanger-feature-heading = Preporučena funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto mi se ovo prikazuje
+cfr-doorhanger-extension-cancel-button = Ne sada
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Saznajte više
 # This string is used on a new line below the add-on name
 # Variables:
@@ -176,3 +178,15 @@ tail-fox-spotlight-title = Držite dosadne tragače dalje od sebe
 tail-fox-spotlight-subtitle = Recite zbogom dosadnim alatima za praćenje oglasa i smjestite se u sigurnije, brže internet iskustvo.
 tail-fox-spotlight-primary-button = Otvori moje linkove sa { -brand-short-name }om
 tail-fox-spotlight-secondary-button = Ne sada
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
