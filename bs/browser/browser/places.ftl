@@ -86,6 +86,23 @@ managed-bookmarks =
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podfolder
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Druge oznake
+places-show-in-folder =
+    .label = Prikaži u folderu
+    .accesskey = F
+places-untag-bookmark =
+    .label = Ukloni oznaku
+    .accesskey = R
+places-manage-bookmarks =
+    .label = Upravljaj oznakama
+    .accesskey = M
+places-forget-about-this-site-confirmation-title = Zaboravljam na ovu stranicu
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ova radnja će ukloniti podatke koji se odnose na { $hostOrBaseDomain } uključujući historiju, kolačiće, keš memoriju i postavke sadržaja. Povezane oznake i lozinke neće biti uklonjene. Jeste li sigurni da želite nastaviti?
+places-forget-about-this-site-forget = Zaboravi
 places-library3 =
     .title = Biblioteka
 places-organize-button =

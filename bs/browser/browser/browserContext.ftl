@@ -80,6 +80,9 @@ toolbar-button-fxaccount =
 
 ## Account toolbar Button
 
+toolbar-button-account =
+    .label = Račun
+    .tooltiptext = Račun
 
 ## Save Page
 
@@ -89,6 +92,38 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Označi stranicu…
+    .accesskey = m
+    .tooltiptext = Označi stranicu…
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Označi stranicu…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Uredi oznaku…
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Označi stranicu…
+    .accesskey = m
+    .tooltiptext = Označi stranicu ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Uredi oznaku…
+    .accesskey = m
+    .tooltiptext = Uredi oznaku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Uredi oznaku…
+    .accesskey = m
+    .tooltiptext = Uredi oznaku ({ $shortcut })
 main-context-menu-open-link =
     .label = Otvori link
     .accesskey = O
@@ -209,9 +244,7 @@ main-context-menu-send-to-device =
     .label = Pošalji stranicu na uređaj
     .accesskey = u
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ##
