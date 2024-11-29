@@ -21,12 +21,38 @@ autofill-options-link-osx = Preferensi IsiOtomatis Formulir
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sinkronkan semua kartu tersimpan di perangkat saya
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Simpan kartu ini dengan aman?
 credit-card-save-doorhanger-description = { -brand-short-name } mengenkripsi nomor kartu Anda. Kode keamanan Anda tidak akan disimpan.
+credit-card-capture-save-button =
+    .label = Simpan
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Jangan sekarang
+    .accessKey = J
+credit-card-capture-never-save-button =
+    .label = Jangan pernah menyimpan kartu
+    .accessKey = p
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Perbarui kartu?
+credit-card-update-doorhanger-description = Kartu yang diperbarui:
+credit-card-capture-save-new-button =
+    .label = Simpan sebagai kartu baru
+    .accessKey = b
+credit-card-capture-update-button =
+    .label = Perbarui kartu yang ada
+    .accessKey = a
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Bersihkan Formulir IsiOtomatis
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Kelola alamat
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Kelola metode pembayaran
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
