@@ -219,6 +219,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Dodaj “{ $engineName }”
+    .tooltiptext = Dodaj pretraživač “{ $engineName }”
+    .aria-label = Dodaj pretraživač “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -247,12 +255,84 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Prikaži dodatke
 quickactions-cmd-addons2 = dodaci
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Upravljaj oznakama
+quickactions-cmd-bookmarks = oznake
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Očisti historiju
+quickactions-cmd-clearhistory = očisti historiju
+# Opens about:downloads page
+quickactions-downloads2 = Prikaži preuzimanja
+quickactions-cmd-downloads = preuzimanja
+# Opens about:addons page in the extensions section
+quickactions-extensions = Upravljaj ekstenzijama
+quickactions-cmd-extensions = ekstenzije
+# Opens the devtools web inspector
+quickactions-inspector2 = Otvori alate za programere
+quickactions-cmd-inspector = inspektor, programerski alati
+# Opens about:logins
+quickactions-logins2 = Upravljaj lozinkama
+quickactions-cmd-logins = prijave, lozinke
+# Opens about:addons page in the plugins section
+quickactions-plugins = Upravljaj priključcima
+quickactions-cmd-plugins = priključci
+# Opens the print dialog
+quickactions-print2 = Štampaj stranicu
+quickactions-cmd-print = štampaj
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Sačuvaj stranicu kao PDF
+quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = Otvori privatni prozor
+quickactions-cmd-private = privatno pretraživanje
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Osvježi { -brand-short-name }
+quickactions-cmd-refresh = osvježi
+# Restarts the browser
+quickactions-restart = Restartuj { -brand-short-name }
+quickactions-cmd-restart = restart
+# Opens the screenshot tool
+quickactions-screenshot3 = Napravi snimak ekrana
+quickactions-cmd-screenshot = snimak ekrana
+# Opens about:preferences
+quickactions-settings2 = Upravljaj postavkama
+quickactions-cmd-settings = postavke, lične postavke, mogućnosti
+# Opens about:addons page in the themes section
+quickactions-themes = Upravljaj temama
+quickactions-cmd-themes = teme
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Ažuriraj { -brand-short-name }
+quickactions-cmd-update = ažuriraj
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Pregled izvornog koda stranice
+quickactions-cmd-viewsource = pogledaj izvor, izvor
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saznajte više o Brzim radnjama
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Dodaj oznaku
+bookmarks-edit-bookmark = Uredi oznaku
+bookmark-panel-cancel =
+    .label = Otkaži
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Ukloni oznaku
+            [one] Ukloni oznaku
+            [few] Ukloni oznake
+           *[other] Ukloni { $count } oznaka
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži editor prilikom spašavanja
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Sačuvaj
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +359,8 @@ identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
 identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
+identity-ev-owner-label = Certifikat izdat za:
+identity-description-custom-root2 = Mozilla ne prepoznaje ovog izdavaoca certifikata. Možda je dodat iz vašeg operativnog sistema ili od strane administratora.
 identity-remove-cert-exception =
     .label = Ukloni izuzetak
     .accesskey = U
@@ -305,11 +387,23 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimiziraj
+browser-window-maximize-button =
+    .tooltiptext = Maksimiziraj
+browser-window-restore-down-button =
+    .tooltiptext = Obnovi dolje
 browser-window-close-button =
     .tooltiptext = Zatvori
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = REPRODUKCIJA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = UTIŠANO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATSKA REPRODUKCIJA BLOKIRANA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = SLIKA-U-SLICI
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
