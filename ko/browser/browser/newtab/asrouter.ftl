@@ -298,6 +298,9 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = 중요한 { -brand-short-name } 업데이트를 놓치셨습니다
+root-certificate-windows-background-notification-subtitle = 업데이트를 하지 않으면 브라우저의 일부가 작동을 멈춥니다. 지금이 최신 보호 기능과 기능을 사용하기에 좋은 때입니다.
+root-certificate-windows-background-notification-learn-more-button = 더 알아보기
+root-certificate-windows-background-notification-update-button = { -brand-short-name } 업데이트
 
 ## FxA Menu Message variants
 

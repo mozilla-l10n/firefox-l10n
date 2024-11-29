@@ -72,6 +72,16 @@ protections-panel-blocking-label = 차단됨
 protections-panel-not-blocking-label = 허용됨
 protections-panel-not-found-label = 감지되지 않음
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name }는 사용자가 이 사이트에 있는 동안 사용자가 허용하지 않는 한 추적 콘텐츠를 차단합니다.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } 허용
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } 추적기 및 콘텐츠 차단됨
+
 ##
 
 protections-panel-settings-label = 보호 설정

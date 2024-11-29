@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = 웹 사이트에 “추적 안 함” 신호를 보내서 추적을 원하지 않는다고 알림
+do-not-track-removal = "추적 안 함" 신호를 더 이상 지원하지 않음
 do-not-track-description2 =
     .label = 웹 사이트에 “추적 안 함” 요청 보내기
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 링크를 새 창 대신 새 탭에서 열기
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = 여러 탭을 닫기 전에 묻기
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } 단축키로 종료하기 전에 묻기
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = 여러 탭을 닫기 전에 확인
     .accesskey = m
@@ -557,8 +569,7 @@ home-prefs-shortcuts-description = 저장하거나 방문한 사이트
 home-prefs-shortcuts-by-option-sponsored =
     .label = 스폰서 바로 가기
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
