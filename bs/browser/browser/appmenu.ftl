@@ -133,6 +133,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = Profiler snima profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler snima profil
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Prikaži više informacija
@@ -196,6 +199,9 @@ profiler-popup-presets-power-description = Unaprijed postavljen za istraživanje
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Struja
+profiler-popup-presets-debug-description = Unaprijed postavljeno za otklanjanje grešaka u { -brand-shorter-name }. Visoki troškovi, ne koristite za rad na performansama, već za fokusiranje na razumijevanje ponašanja pretraživača.
+profiler-popup-presets-debug-label =
+    .label = Otklanjanje grešaka
 profiler-popup-presets-custom-label =
     .label = Prilagođeno
 
@@ -226,14 +232,26 @@ appmenu-about =
 appmenu-get-help =
     .label = Pomoć
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = Više informacija o rješavanju problema
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = Prijavite problem sa stranicom…
+appmenu-help-share-ideas =
+    .label = Podijelite ideje i povratne informacije…
+    .accesskey = S
 appmenu-help-switch-device =
     .label = Prelazak na novi uređaj
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Način rješavanja problema…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Isključi način rješavanja problema
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -267,3 +285,11 @@ appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
 
 ## Profiles panel
 
+appmenu-profiles = Profili
+appmenu-other-profiles = Ostali profili
+appmenu-manage-profiles =
+    .label = Upravljaj profilima
+appmenu-create-profile =
+    .label = Novi profil
+appmenu-edit-profile =
+    .aria-label = Uredi profil
