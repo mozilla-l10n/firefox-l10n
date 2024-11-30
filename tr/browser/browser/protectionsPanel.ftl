@@ -75,6 +75,10 @@ protections-panel-not-found-label = Bulunmadı
 ## Smartblock strings
 
 protections-panel-smartblock-desc-label = { -brand-short-name }, siz izin vermediğiniz sürece bu sitedeki takip amaçlı içerikleri engeller.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } takip koduna izin ver
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } takip kodu ve içeriği engellendi
 #  $websitehost (String): host of website with blocked content.
