@@ -39,7 +39,15 @@ pdfjs-open-file-button-label = باز کردن
 pdfjs-print-button =
     .title = چاپ
 pdfjs-print-button-label = چاپ
+pdfjs-save-button =
+    .title = ذخیره
 pdfjs-save-button-label = ذخیره
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = دریافت
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = دریافت
 
 ##  Secondary toolbar and context menu
 
@@ -76,7 +84,7 @@ pdfjs-scroll-horizontal-button-label = پیمایش افقی
 pdfjs-document-properties-button =
     .title = خصوصیات سند...
 pdfjs-document-properties-button-label = خصوصیات سند...
-pdfjs-document-properties-file-name = نام فایل:
+pdfjs-document-properties-file-name = نام پرونده:
 pdfjs-document-properties-file-size = حجم پرونده:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
@@ -92,6 +100,9 @@ pdfjs-document-properties-subject = موضوع:
 pdfjs-document-properties-keywords = کلیدواژه‌ها:
 pdfjs-document-properties-creation-date = تاریخ ایجاد:
 pdfjs-document-properties-modification-date = تاریخ ویرایش:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -233,6 +244,12 @@ pdfjs-editor-free-text-button-label = متن
 pdfjs-editor-ink-button =
     .title = کشیدن
 pdfjs-editor-ink-button-label = کشیدن
+
+## Remove button for the various kind of editor.
+
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = رنگ
 pdfjs-editor-free-text-size-input = اندازه
@@ -243,4 +260,18 @@ pdfjs-editor-ink-color-input = رنگ
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
 
