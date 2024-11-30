@@ -155,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Bağlantıları yeni pencere yerine yeni sekmede aç
     .accesskey = B
+ask-on-close-multiple-tabs =
+    .label = Birden fazla sekmeyi kapatırken bana sor
+    .accesskey = i
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } ile çıkış yaparken bana sor
+    .accesskey = ı
 confirm-on-close-multiple-tabs =
     .label = Birden fazla sekmeyi kapatırken onay iste
     .accesskey = o

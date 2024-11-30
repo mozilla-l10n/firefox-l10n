@@ -301,6 +301,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Önemli bir { -brand-short-name } güncellemesini kaçırdınız
+root-certificate-windows-background-notification-subtitle = Güncelleme yapmazsanız tarayıcınızın bazı kısımları yakında çalışmayacak. En yeni korumalarımızı ve özelliklerimizi edinmenin şimdi tam zamanı.
 root-certificate-windows-background-notification-learn-more-button = Daha fazla bilgi alın
 root-certificate-windows-background-notification-update-button = { -brand-short-name } tarayıcısını güncelle
 

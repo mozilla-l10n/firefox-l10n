@@ -84,6 +84,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] { $tabCount } sekme kapatılsın mı?
     }
 tabbrowser-confirm-close-tabs-button = Sekmeleri kapat
+tabbrowser-ask-close-tabs-checkbox = Birden fazla sekmeyi kapatırken bana sor
 tabbrowser-confirm-close-tabs-checkbox = Birden fazla sekmeyi kapatırken onay iste
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -110,11 +111,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Pencere kapatılıp { -brand-shor
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } uygulamasından çık
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } ile çıkış yaparken bana sor
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ile çıkış yaparken onay iste
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } uygulamasından çıkılsın mı yoksa sekme mi kapatılsın?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } uygulamasından çık
+       *[other] { -brand-short-name } uygulamasından çık
+    }
+tabbrowser-confirm-close-tab-only-button = Geçerli sekmeyi kapat
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
