@@ -214,10 +214,20 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi yeni gruba ekle
+            [one] Sekmeyi yeni gruba ekle
+           *[other] Sekmeleri yeni gruba ekle
+        }
+    .accesskey = u
 tab-group-editor-action-new-window =
     .label = Grubu yeni pencereye taşı
 tab-group-editor-action-save =
     .label = Grubu kaydet ve kapat
+tab-group-editor-action-ungroup =
+    .label = Sekmeleri gruptan çıkar
 tab-group-editor-action-delete =
     .label = Grubu sil
 tab-group-editor-done =
@@ -225,3 +235,13 @@ tab-group-editor-done =
     .accessKey = T
 tab-context-reopen-tab-group =
     .label = Sekme grubunu yeniden aç
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Gruptan kaldır
+            [one] Gruptan kaldır
+           *[other] Gruplardan kaldır
+        }
+    .accesskey = G
