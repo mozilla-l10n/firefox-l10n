@@ -58,3 +58,28 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Zjistit více
     .aria-label = Zjistit více: Některá rozšíření nejsou povolena
 unified-extensions-mb-about-addons-link = Přejít do nastavení rozšíření
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } je zakázané
+    .message =
+        Toto rozšíření porušuje zásady společnosti Mozilla a bylo zakázáno.
+        Můžete jej povolit v nastavení, ale může to být riskantní.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } je zakázané
+    .message = Toto rozšíření porušuje zásady společnosti Mozilla a bylo zakázáno.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšíření je zakázáno
+            [few] { $extensionsCount } rozšíření jsou zakázané
+            [many] { $extensionsCount } rozšíření je zakázaných
+           *[other] { $extensionsCount } rozšíření je zakázaných
+        }
+    .message =
+        Některá vaše rozšíření byla zakázána kvůli porušení zásad společnosti Mozilla.
+        Můžete je povolit v nastavení, ale může to být riskantní.

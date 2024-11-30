@@ -242,6 +242,26 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Přidat panel do nové skupiny
+            [one] Přidat panel do nové skupiny
+            [few] Přidat panely do nové skupiny
+            [many] Přidat panely do nové skupiny
+           *[other] Přidat panely do nové skupiny
+        }
+    .accesskey = d
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Přidat panel do skupiny
+            [one] Přidat panel do skupiny
+            [few] Přidat panely do skupiny
+            [many] Přidat panely do skupiny
+           *[other] Přidat panely do skupiny
+        }
+    .accesskey = d
 tab-group-editor-action-new-tab =
     .label = Nový panel ve skupině
 tab-group-editor-action-new-window =
@@ -257,3 +277,15 @@ tab-group-editor-done =
     .accessKey = H
 tab-context-reopen-tab-group =
     .label = Znovu otevřít skupinu panelů
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Odebrat ze skupiny
+            [one] Odebrat ze skupiny
+            [few] Odebrat ze skupin
+            [many] Odebrat ze skupin
+           *[other] Odebrat ze skupin
+        }
+    .accesskey = d
