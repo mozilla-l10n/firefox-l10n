@@ -83,3 +83,14 @@ unified-extensions-mb-blocklist-warning-multiple =
     .message =
         Některá vaše rozšíření byla zakázána kvůli porušení zásad společnosti Mozilla.
         Můžete je povolit v nastavení, ale může to být riskantní.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšíření zakázáno
+            [few] { $extensionsCount } rozšíření zakázány
+            [many] { $extensionsCount } rozšíření zakázáno
+           *[other] { $extensionsCount } rozšíření zakázáno
+        }
+    .message = Některá vaše rozšíření byla zakázána kvůli porušení zásad společnosti Mozilla.
