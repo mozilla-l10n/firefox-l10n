@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = { $tabCount } бетті жабу керек пе?
 tabbrowser-confirm-close-tabs-button = Беттерді жабу
+tabbrowser-ask-close-tabs-checkbox = Бірнеше бетті жаппас бұрын сұрау
 tabbrowser-confirm-close-tabs-checkbox = Бірнеше бетті жаппас бұрын растау
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,15 @@ tabbrowser-confirm-close-tabs-with-key-title = Терезені жауып, { -b
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } жұмысын аяқтау
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } көмегімен шығу алдында сұрау
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } көмегімен жұмысты аяқтау алдында растау
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Ағымдағы бетті жабу
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +194,9 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бас тарту
     .accesskey = с
-tab-group-editor-create =
-    .label = Жасау
-    .accesskey = Ж
+tab-context-unnamed-group =
+    .label = Атаусыз топ
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
