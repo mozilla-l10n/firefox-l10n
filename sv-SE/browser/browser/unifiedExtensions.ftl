@@ -62,16 +62,16 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
-            [one] { $extensionsCount } tillägg inaktiverade
            *[other] { $extensionsCount } tillägg inaktiverade
         }
-    .message = Vissa av dina tillägg har inaktiverats för brott mot Mozillas policyer. Du kan aktivera dem i inställningarna, men det kan vara riskabelt.
+    .message =
+        Vissa av dina tillägg har inaktiverats på grund av att de bryter mot Mozillas policyer.
+        Du kan aktivera dem i inställningarna, men det kan vara riskabelt.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
     .heading =
         { $extensionsCount ->
-            [one] { $extensionsCount } tillägg inaktiverade
            *[other] { $extensionsCount } tillägg inaktiverade
         }
-    .message = Vissa av dina tillägg har inaktiverats för brott mot Mozillas policyer.
+    .message = Vissa av dina tillägg har inaktiverats på grund av att de bryter mot Mozillas policyer.

@@ -191,5 +191,12 @@ tab-group-editor-cancel =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Lägg till flik i en ny grupp
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = g
 tab-group-editor-action-ungroup =
     .label = Dela upp flikar
