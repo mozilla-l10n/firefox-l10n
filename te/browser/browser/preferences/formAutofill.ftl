@@ -21,12 +21,20 @@ address-capture-save-doorhanger-header = చిరునామా భద్ర�
 address-capture-save-button =
     .label = భద్రపరుచు
     .accessKey = S
+address-capture-not-now-button =
+    .label = ఇప్పుడు కాదు
+    .accessKey = N
+address-capture-cancel-button =
+    .label = రద్దుచేయి
+    .accessKey = C
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = చిరునామాను సవరించండి
 autofill-address-given-name = మొదటి పేరు
 autofill-address-additional-name = మధ్య పేరు
 autofill-address-family-name = చివరి పేరు
+autofill-address-name = పేరు
 autofill-address-organization = సంస్థ
+autofill-address-street-address = వీధి చిరునామా
 autofill-address-street = వీధి చిరునామా
 
 ## address-level-3 (Sublocality) names
@@ -62,6 +70,7 @@ autofill-address-zip = జిప్ కోడు
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = కొత్త చిరునామా చేర్చండి
 autofill-address-country = దేశం లేదా ప్రాంతం
+autofill-address-country-only = దేశం
 autofill-address-tel = ఫోను
 autofill-address-email = ఇమెయిల్
 autofill-cancel-button = రద్దుచేయి

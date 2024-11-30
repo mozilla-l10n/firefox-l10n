@@ -21,17 +21,17 @@ protections-panel-etp-more-info =
     .aria-label = మెరుగైన ట్రాకింగ్ సంరక్షణ గురించి మరింత సమాచారం
 protections-panel-etp-on-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా ఉంది
 protections-panel-etp-off-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా లేదు
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = సైటు పనిచేయట్లేదా?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = సైటు పనిచేయట్లేదా?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -55,6 +55,9 @@ protections-panel-content-blocking-fingerprinters-label = ఫింగర్‌�
 protections-panel-blocking-label = నిరోధించబడినవి
 protections-panel-not-blocking-label = అనుమతించబడినవి
 protections-panel-not-found-label = ఇవేమీ కనబడలేదు
+
+## Smartblock strings
+
 
 ##
 
@@ -89,6 +92,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-view-cancel-label =
+    .label = రద్దుచేయి
 
 ## Protections panel info message
 
