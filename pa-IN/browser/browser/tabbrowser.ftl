@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = { $tabCount } ਟੈਬਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹਨ?
 tabbrowser-confirm-close-tabs-button = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+tabbrowser-ask-close-tabs-checkbox = ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
 tabbrowser-confirm-close-tabs-checkbox = ਕਈ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = ਵਿੰਡੋ ਬੰਦ ਕਰ�
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ਵਿੱਚੋਂ ਬਾਹਰ ਜਾਓ
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬਾਹਰ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ ਜਾਂ ਸਿਰਫ਼ ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
+       *[other] { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
+    }
+tabbrowser-confirm-close-tab-only-button = ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,6 +198,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
-tab-group-editor-create =
-    .label = ਬਣਾਓ
-    .accesskey = r
+tab-context-unnamed-group =
+    .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਨੂੰ ਨਵੇਂ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+            [one] ਟੈਬ ਨੂੰ ਨਵੇਂ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+           *[other] ਟੈਬਾਂ ਨੂੰ ਨਵੇਂ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+        }
+    .accesskey = ਟ
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+            [one] ਟੈਬ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+           *[other] ਟੈਬਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = ਗਰੁੱਪ ਵਿੱਚ ਨਵੀਂ ਟੈਬ
+tab-group-editor-action-new-window =
+    .label = ਗਰੁੱਪ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
+tab-group-editor-action-save =
+    .label = ਗਰੁੱਪ ਨੂੰ ਸੰਭਾਲ ਕੇ ਬੰਦ ਕਰੋ
+tab-group-editor-action-ungroup =
+    .label = ਟੈਬਾਂ ਦੇ ਗਰੁੱਪ ਨੂੰ ਖ਼ਤਮ ਕਰੋ
+tab-group-editor-action-delete =
+    .label = ਗਰੁੱਪ ਨੂੰ ਹਟਾਓ
+tab-group-editor-done =
+    .label = ਮੁਕੰਮਲ
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] ਗਰੁੱਪ ਵਿੱਚੋਂ ਹਟਾਓ
+            [one] ਗਰੁੱਪ ਵਿੱਚੋਂ ਹਟਾਓ
+           *[other] ਗਰੁੱਪਾਂ ਵਿੱਚ ਹਟਾਓ
+        }
+    .accesskey = R

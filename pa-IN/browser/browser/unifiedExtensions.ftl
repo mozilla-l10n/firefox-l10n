@@ -47,3 +47,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਡਾਟਾ ਪੜ੍ਹ ਜਾਂ ਬਦਲ ਨਹੀਂ ਸਕਦੀਆਂ ਹਨ। ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਸੈਟਿੰਗਾਂ ਨੂੰ { -vendor-short-name } ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਮਨਜ਼ੂਰੀ ਦੇਣ ਲਈ ਵਰਤੋਂ।
 unified-extensions-mb-quarantined-domain-learn-more = ਹੋਰ ਜਾਣੋ
     .aria-label = ਹੋਰ ਜਾਣੋ: ਕੁਝ ਇਕਸਟੈਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+unified-extensions-mb-about-addons-link = ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ
