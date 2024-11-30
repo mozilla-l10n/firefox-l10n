@@ -103,11 +103,20 @@ tabbrowser-confirm-close-tabs-with-key-title = Suljetaanko ikkuna ja lopetetaank
 tabbrowser-confirm-close-tabs-with-key-button = Lopeta { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Kysy ennen pikanäppäimellä { $quitKey } lopettamista
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vahvista ennen pikanäppäimellä { $quitKey } lopettamista
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Lopetetaanko { -brand-short-name } vai suljetaanko nykyinen välilehti?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Lopeta { -brand-short-name }
+       *[other] Lopeta { -brand-short-name }
+    }
 tabbrowser-confirm-close-tab-only-button = Sulje avoin välilehti
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -197,7 +206,14 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-window =
+    .label = Siirrä ryhmä uuteen ikkunaan
+tab-group-editor-action-save =
+    .label = Tallenna ja sulje ryhmä
 tab-group-editor-action-delete =
     .label = Poista ryhmä
+tab-group-editor-done =
+    .label = Valmis
+    .accessKey = V
 tab-context-reopen-tab-group =
     .label = Avaa välilehtiryhmä uudelleen

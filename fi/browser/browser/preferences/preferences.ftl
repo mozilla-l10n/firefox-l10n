@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan
+do-not-track-removal = "Älä seuraa"-signaali ei ole enää tuettu
 do-not-track-description2 =
     .label = Lähetä verkkosivustoille "Älä seuraa"-pyyntö
     .accesskey = ä
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Avaa linkit välilehtiin uusien ikkunoiden sijasta
     .accesskey = A
+ask-on-close-multiple-tabs =
+    .label = Kysy ennen useiden välilehtien sulkemista
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Kysy ennen pikanäppäimellä { $quitKey } lopettamista
+    .accesskey = ä
 confirm-on-close-multiple-tabs =
     .label = Vahvista ennen kuin useat välilehdet suljetaan
     .accesskey = s
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsoroidut oikotiet
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
