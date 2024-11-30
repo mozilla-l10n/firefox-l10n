@@ -47,6 +47,7 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = För att skydda din data kan vissa tillägg inte läsa eller ändra data på den här webbplatsen. Använd tilläggets inställningar för att tillåta på webbplatser som begränsas av { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Läs mer
     .aria-label = Läs mer: Vissa tillägg är inte tillåtna
+unified-extensions-mb-about-addons-link = Gå till tilläggsinställningar
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =

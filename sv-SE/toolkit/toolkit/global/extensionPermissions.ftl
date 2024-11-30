@@ -30,4 +30,6 @@ webext-perms-description-sessions = Åtkomst till webbläsarens nyligen stängda
 webext-perms-description-tabs = Åtkomst till webbläsarens flikar
 webext-perms-description-tabHide = Dölj och visa webbläsarens flikar
 webext-perms-description-topSites = Åtkomst till webbhistoriken
+webext-perms-description-trialML = Ladda ner och kör AI-modeller på din enhet
+webext-perms-description-userScripts = Tillåt overifierade skript från tredje part att komma åt dina uppgifter
 webext-perms-description-webNavigation = Åtkomst till webbläsarens aktivitet under navigering

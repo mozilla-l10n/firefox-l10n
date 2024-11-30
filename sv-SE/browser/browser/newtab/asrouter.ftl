@@ -298,6 +298,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Senare
     .accesskey = S
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Du missade en viktig uppdatering av { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Delar av webbläsaren slutar snart fungera om du inte uppdaterar. Nu är det ett bra tillfälle att få våra senaste skydd och funktioner.
+root-certificate-windows-background-notification-learn-more-button = Läs mer
+root-certificate-windows-background-notification-update-button = Uppdatera { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

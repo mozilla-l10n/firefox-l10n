@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Skicka webbplatser en “Spåra inte”-signal att du inte vill bli spårad
+do-not-track-removal = Vi stöder inte längre signalen "Spåra inte".
 do-not-track-description2 =
     .label = Skicka en "Spåra inte"-begäran till webbplatser
     .accesskey = S
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Öppna länkar i flikar istället för nya fönster
     .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Fråga innan du stänger flera flikar
+    .accesskey = F
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Fråga innan du avslutar med { $quitKey }
+    .accesskey = r
 confirm-on-close-multiple-tabs =
     .label = Bekräfta innan du stänger flera flikar
     .accesskey = k
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Webbplatser du sparar eller besöker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsrade genvägar
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
