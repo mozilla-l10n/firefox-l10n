@@ -16,12 +16,21 @@ pictureinpicture-player-title = تصویر در تصویر
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-btn =
+    .aria-label = مکث
+    .tooltip = مکث (کلید فاصله)
+pictureinpicture-play-btn =
+    .aria-label = پخش
+    .tooltip = پخش (کلید فاصله)
 pictureinpicture-mute-btn =
     .aria-label = بی‌صدا
     .tooltip = بی‌صدا ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = باصدا
     .tooltip = باصدا ({ $shortcut })
+pictureinpicture-unpip-btn =
+    .aria-label = پس‌فرستادن به زبانه
+    .tooltip = بازگشت به زبانه
 pictureinpicture-close-btn =
     .aria-label = بستن
     .tooltip = بستن ({ $shortcut })
