@@ -253,7 +253,7 @@ firefoxview-import-history-description = Gjer { -brand-short-name } til din nett
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
-firefoxview-recentlyclosed-empty-header = Lèt att fane for tidleg?
+firefoxview-recentlyclosed-empty-header = Lèt du att ei fane for tidleg?
 firefoxview-recentlyclosed-empty-description = Her finn du fanene du nyleg lèt att, slik at du raskt kan opne nokre av dei igjen.
 firefoxview-recentlyclosed-empty-description-two = Sjå <a data-l10n-name="history-url">nettlesarhistorikken</a> for å finne tidlegare faner.
 
