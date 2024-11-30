@@ -411,6 +411,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimera
 browser-window-maximize-button =
     .tooltiptext = Maximera
+browser-window-restore-down-button =
+    .tooltiptext = Återställ Ner
 browser-window-close-button =
     .tooltiptext = Stäng
 
@@ -997,6 +999,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Tillägg
         Vissa tillägg är inte tillåtna
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
