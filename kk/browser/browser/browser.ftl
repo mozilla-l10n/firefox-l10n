@@ -975,9 +975,6 @@ content-analysis-panel-title = Деректерді қорғау
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Ұйымыңыз деректер жоғалуын қорғау үшін <b>{ $agentName }</b> пайдаланады. <a data-l10n-name="info">Көбірек білу</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Ұйымыңыз деректер жоғалуын қорғау үшін { $agentName } пайдаланады. <a data-l10n-name="info">Көбірек білу</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1002,6 +999,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Кеңейтулер
         Кейбір кеңейтулер рұқсат етілмеген
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Кеңейтулер
+    .tooltiptext =
+        Кеңейтулер
+        Кейбір кеңейтулер сөндірілген
 
 ## Private browsing reset button
 

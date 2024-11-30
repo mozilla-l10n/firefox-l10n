@@ -154,6 +154,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Сілтемелерді жаңа терезелер орнына жаңа беттерде ашу
     .accesskey = р
+ask-on-close-multiple-tabs =
+    .label = Бірнеше бетті жабу бұрын сұрау
+    .accesskey = ш
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } көмегімен шығу алдында сұрау
+    .accesskey = л
 confirm-on-close-multiple-tabs =
     .label = Бірнеше бетті жаппас бұрын растау
     .accesskey = с
@@ -569,8 +580,7 @@ home-prefs-shortcuts-description = Сіз сақтайтын немесе шол
 home-prefs-shortcuts-by-option-sponsored =
     .label = Демеушілік жарлықтары
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
