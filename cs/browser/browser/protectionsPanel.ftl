@@ -87,6 +87,11 @@ protections-panel-smartblock-blocking-toggle =
     .label = Povolit { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Sledovací prvky a obsah { $trackername } jsou zablokované
+smartblock-placeholder-desc =
+    { -brand-full-name.case-status ->
+        [with-cases] Nastavení { -brand-short-name(case: "gen") } zablokovalo sledování tohoto obsahu na různých webech nebo jeho použití pro reklamy.
+       *[no-cases] Nastavení aplikace { -brand-short-name } zablokovalo sledování tohoto obsahu na různých webech nebo jeho použití pro reklamy.
+    }
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Povolit na { $websitehost }
 
