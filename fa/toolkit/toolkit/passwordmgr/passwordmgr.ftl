@@ -16,21 +16,24 @@ password-manager-save-password-button-allow =
     .accesskey = ذ
 password-manager-save-password-button-never =
     .label = هرگز ذخیره نکن
-    .accesskey = e
+    .accesskey = ن
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
-password-manager-update-password-message = بروزرسانی ورود برای { $host }؟
+password-manager-update-password-message = آیا گذرواژه برای { $host } را به‌روز رسانی می‌کنید؟
+password-manager-update-password-button-delete =
+    .label = حذف گذرواژه ذخیره‌شده
+    .accesskey = ح
 password-manager-update-login-add-username = اضافه کردن نام‌کاربری به گذرواژه‌ٔ ذخیره شده؟
 password-manager-password-password-button-allow =
-    .label = بروزرسانی:
-    .accesskey = U
+    .label = به‌روزرسانی:
+    .accesskey = ب
 password-manager-update-password-button-deny =
-    .label = بروزرسانی نشود
+    .label = به‌روزرسانی نشود
     .accesskey = ب
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = نام کاربری
 password-manager-toggle-password =
     .label = نمایش گذرواژه
-    .accesskey = h
+    .accesskey = ن
 password-manager-confirm-password-change = تصدیق تغییر گذرواژه
-password-manager-select-username = انتخاب کنید کدام ورود بروزرسانی شود:
+password-manager-select-username = انتخاب کنید کدام ورود به‌روزرسانی شود:
