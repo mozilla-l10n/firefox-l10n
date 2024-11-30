@@ -45,13 +45,6 @@ unified-extensions-mb-quarantined-domain-message =
         [with-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná { -vendor-short-name(case: "ins") }.
        *[no-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná organizací { -vendor-short-name }.
     }
-unified-extensions-mb-quarantined-domain-message-2 =
-    { -vendor-short-name.gender ->
-        [masculine] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedl omezení.
-        [feminine] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedla omezení.
-        [neuter] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedlo omezení.
-       *[no-cases] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých organizace { -vendor-short-name } zavedla omezení.
-    }
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Některá rozšíření nejsou povolena
@@ -64,3 +57,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
         }
 unified-extensions-mb-quarantined-domain-learn-more = Zjistit více
     .aria-label = Zjistit více: Některá rozšíření nejsou povolena
+unified-extensions-mb-about-addons-link = Přejít do nastavení rozšíření

@@ -136,6 +136,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončov�
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Ukončit { -brand-short-name }
+       *[other] Ukončit { -brand-short-name }
+    }
 tabbrowser-confirm-close-tab-only-button = Zavřít aktuální panel
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -237,10 +242,18 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-tab =
+    .label = Nový panel ve skupině
+tab-group-editor-action-new-window =
+    .label = Přesunout skupinu do nového okna
 tab-group-editor-action-save =
     .label = Uložit a zavřít skupinu
+tab-group-editor-action-ungroup =
+    .label = Zrušit seskupení panelů
 tab-group-editor-action-delete =
     .label = Smazat skupinu
 tab-group-editor-done =
     .label = Hotovo
     .accessKey = H
+tab-context-reopen-tab-group =
+    .label = Znovu otevřít skupinu panelů
