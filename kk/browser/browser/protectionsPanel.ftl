@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Бақылаудан кеңейтілген қорғаныс туралы көбірек ақпарат
 protections-panel-etp-on-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылған
 protections-panel-etp-off-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылмаған
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Сайт жұмыс істемей тұр ма?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Сайт жұмыс істемей тұр ма?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Бақылаудан кеңейтілген қорғаныс
     .description = Бұл сайт үшін сөндірілген
     .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін сөндірілген
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Сайт жұмыс істемей тұр ма?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Сайт жұмыс істемей тұр ма?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,13 @@ protections-panel-content-blocking-fingerprinters-label = Баспаны жин�
 protections-panel-blocking-label = Блокталған
 protections-panel-not-blocking-label = Рұқсат етілген
 protections-panel-not-found-label = Ешнәрсе табылмады
+
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } рұқсат ету
 
 ##
 
@@ -108,7 +115,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Сынған сайт туралы хабарлау
 protections-panel-content-blocking-breakage-report-view-description = Кейбір трекерлерді бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Осындай мәселелерді хабарлау арқылы { -brand-short-name } өнімін әркім үшін жақсырақ қылуға көмектеседі. Бұл есепті жіберу URL және браузеріңіз ақпаратын Mozilla-ға жібереді. <label data-l10n-name="learn-more">Көбірек білу</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Кейбір трекерлерді бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Осындай мәселелерді хабарлау арқылы { -brand-short-name } өнімін әркім үшін жақсырақ қылуға көмектеседі. Бұл есепті жіберу URL және браузеріңіз ақпаратын { -vendor-short-name }-ға жібереді.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
