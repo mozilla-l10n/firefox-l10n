@@ -301,6 +301,8 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Önemli bir { -brand-short-name } güncellemesini kaçırdınız
+root-certificate-windows-background-notification-learn-more-button = Daha fazla bilgi alın
+root-certificate-windows-background-notification-update-button = { -brand-short-name } tarayıcısını güncelle
 
 ## FxA Menu Message variants
 

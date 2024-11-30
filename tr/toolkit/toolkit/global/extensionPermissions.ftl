@@ -30,4 +30,6 @@ webext-perms-description-sessions = Son kapatılan sekmelere erişme
 webext-perms-description-tabs = Tarayıcı sekmelerine erişme
 webext-perms-description-tabHide = Tarayıcı sekmelerini gizleme ve gösterme
 webext-perms-description-topSites = Gezinti geçmişine erişme
+webext-perms-description-trialML = Yapay zekâ modellerini indirip cihazınızda çalıştırma
+webext-perms-description-userScripts = Doğrulanmamış üçüncü taraf betiklerin verilerinize erişmesine izin verme
 webext-perms-description-webNavigation = Gezinti sırasında tarayıcı etkinliğine erişme

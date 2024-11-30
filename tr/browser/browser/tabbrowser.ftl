@@ -112,6 +112,10 @@ tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } uygulamas�
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ile çıkış yaparken onay iste
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Açış onayı
@@ -193,6 +197,20 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Vazgeç
     .accesskey = V
-tab-group-editor-create =
-    .label = Oluştur
-    .accesskey = O
+tab-context-unnamed-group =
+    .label = Adsız grup
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-new-window =
+    .label = Grubu yeni pencereye taşı
+tab-group-editor-action-save =
+    .label = Grubu kaydet ve kapat
+tab-group-editor-action-delete =
+    .label = Grubu sil
+tab-group-editor-done =
+    .label = Tamam
+    .accessKey = T
+tab-context-reopen-tab-group =
+    .label = Sekme grubunu yeniden aç

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder
+do-not-track-removal = Artık “Do Not Track” sinyalini desteklemiyoruz
 do-not-track-description2 =
     .label = Web sitelerine “Do Not Track” isteği gönder
     .accesskey = d
@@ -569,8 +570,7 @@ home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz sitele
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorlu kısayollar
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
