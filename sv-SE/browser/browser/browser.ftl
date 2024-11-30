@@ -411,6 +411,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimera
 browser-window-maximize-button =
     .tooltiptext = Maximera
+browser-window-restore-down-button =
+    .tooltiptext = Återställ nedåt
 browser-window-close-button =
     .tooltiptext = Stäng
 
