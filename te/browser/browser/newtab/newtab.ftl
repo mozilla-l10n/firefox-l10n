@@ -8,11 +8,15 @@
 newtab-page-title = కొత్త ట్యాబు
 newtab-settings-button =
     .title = మీ కొత్త ట్యాబు పేజీని మలచుకోండి
+newtab-settings-dialog-label =
+    .aria-label = అమరికలు
 newtab-personalize-icon-label =
     .title = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
     .aria-label = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
 newtab-personalize-dialog-label =
     .aria-label = వ్యక్తిగతీకరించు
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -217,11 +221,13 @@ newtab-pocket-read-more = ప్రముఖ అంశాలు:
 newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
 newtab-pocket-learn-more = ఇంకా తెలుసుకోండి
 newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = భద్రపరుచు
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = ఇలాంటివి మరిన్ని
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -257,6 +263,11 @@ newtab-custom-close-button = మూసివేయి
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = నిండు రంగులు
+newtab-wallpaper-blue = నీలం
+newtab-wallpaper-light-blue = లేత నీలం
+newtab-wallpaper-light-green = లేత ఆకుపచ్చ
+newtab-wallpaper-green = పచ్చ
 
 ## Abstract
 
@@ -268,6 +279,8 @@ newtab-wallpaper-feature-highlight-button = అర్థమైంది
 
 ## New Tab Weather
 
+newtab-weather-menu-temperature-units = ఉష్ణోగ్రత యూనిట్లు
+newtab-weather-menu-temperature-option-celsius = సెల్సియస్
 newtab-weather-menu-learn-more = ఇంకా తెలుసుకోండి
 
 ## Topic Labels

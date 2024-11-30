@@ -515,6 +515,9 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = ఇటీవలి వెతుకులాటలు
+urlbar-result-menu-trending-why =
+    .label = ఇది నాకు ఎందుకు కనిపిస్తుంది?
+    .accesskey = W
 
 ## Reader View toolbar buttons
 
@@ -761,6 +764,10 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 

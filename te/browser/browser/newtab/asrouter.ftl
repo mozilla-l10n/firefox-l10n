@@ -176,6 +176,7 @@ fxa-sync-cfr-secondary = నాకు తర్వాత గుర్తుచ�
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-primary-button = మొదలుపెట్టండి
+device-migration-fxa-spotlight-sync-primary-button = మొదలుపెట్టండి
 
 ## Set as Default PDF Reader Infobar
 
@@ -187,6 +188,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = ఇంకా తెలుసుకోండి
+launch-on-login-infobar-reject-button = ఇప్పుడు కాదు
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
@@ -205,3 +208,16 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = తర్వాత
     .accesskey = L
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = మూసివేయి
+    .aria-label = మూసివేయి
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = పునఃస్వాగతం
