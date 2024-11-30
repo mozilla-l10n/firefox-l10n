@@ -44,5 +44,7 @@ date-spinner-month-previous =
     .aria-label = కిందటి నెల
 date-spinner-month-next =
     .aria-label = వచ్చే నెల
+date-spinner-year-previous =
+    .aria-label = గత సంవత్సరం
 date-spinner-year-next =
     .aria-label = వచ్చే సంవత్సరం
