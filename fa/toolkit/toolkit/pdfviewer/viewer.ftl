@@ -257,6 +257,8 @@ pdfjs-editor-ink-color-input = رنگ
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-cancel-button = انصراف
+pdfjs-editor-alt-text-save-button = ذخیره
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -264,14 +266,38 @@ pdfjs-editor-ink-color-input = رنگ
 
 ## Color picker
 
+pdfjs-editor-colorpicker-button =
+    .title = تغییر رنگ
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = انتخاب رنگ
+pdfjs-editor-colorpicker-yellow =
+    .title = زرد
+pdfjs-editor-colorpicker-green =
+    .title = سبز
+pdfjs-editor-colorpicker-blue =
+    .title = آبی
+pdfjs-editor-colorpicker-pink =
+    .title = صورتی
+pdfjs-editor-colorpicker-red =
+    .title = قرمز
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = نمایش همه
+pdfjs-editor-highlight-show-all-button =
+    .title = نمایش همه
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = بیشتر بدانید
+pdfjs-editor-new-alt-text-not-now-button = اکنون نه
+pdfjs-editor-new-alt-text-error-close-button = بستن
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-delete-model-button = حذف
+pdfjs-editor-alt-text-settings-download-model-button = دریافت
+pdfjs-editor-alt-text-settings-downloading-model-button = در حال دریافت…
+pdfjs-editor-alt-text-settings-close-button = بستن
