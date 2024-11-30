@@ -407,8 +407,18 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title =
+    { -brand-full-name.case-status ->
+        [with-cases] Zmeškali jste důležitou aktualizaci { -brand-short-name(case: "gen") }
+       *[no-cases] Zmeškali jste důležitou aktualizaci aplikace { -brand-short-name }
+    }
 root-certificate-windows-background-notification-subtitle = Pokud prohlížeč neaktualizujete, přestanou jeho části brzy fungovat. Nyní je vhodná doba pro získání našich nejnovějších ochran a funkcí.
 root-certificate-windows-background-notification-learn-more-button = Zjistit více
+root-certificate-windows-background-notification-update-button =
+    { -brand-full-name.case-status ->
+        [with-cases] Aktualizovat { -brand-short-name(case: "acc") }
+       *[no-cases] Aktualizovat aplikaci { -brand-short-name }
+    }
 
 ## FxA Menu Message variants
 
