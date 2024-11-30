@@ -31,4 +31,5 @@ webext-perms-description-tabs = Přistupovat k panelům prohlížeče
 webext-perms-description-tabHide = Skrývat a zobrazovat panely prohlížeče
 webext-perms-description-topSites = Přistupovat k historii prohlížení
 webext-perms-description-trialML = Stahovat a spouštět modely AI na zařízení
+webext-perms-description-userScripts = Povolit neověřeným skriptům třetích stran přístup k vašim údajům
 webext-perms-description-webNavigation = Přistupovat k aktivitám prohlížeče během prohlížení
