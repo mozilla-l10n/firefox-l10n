@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = ਟੈਬਾਂ ਨੂੰ ਅਣ-ਲੋਡ ਕਰੋ ਤੇ ਪਰੋਸੈਸ ਨੂੰ ਖਤਮ ਕਰੋ
+about-processes-kill-process =
+    .title = ਪਰੋਸੈਸ ਨੂੰ ਖ਼ਤਮ ਕਰੋ
 about-processes-shutdown-tab =
     .title = ਟੈਬ ਬੰਦ ਕਰੋ
 # Profiler icons
