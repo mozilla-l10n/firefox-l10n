@@ -33,6 +33,7 @@ neterror-disable-native-feedback-warning = همیشه ادامه دهید
 ##
 
 neterror-pref-reset = به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟
+neterror-error-reporting-automatic = خطاهایی مانند این را گزارش کنید تا به { -vendor-short-name } برای شناسایی و مسدود کردن وبگاه‌های مخرب کمک کنید.
 
 ## Specific error messages
 
@@ -40,8 +41,16 @@ neterror-generic-error = { -brand-short-name } به دلایلی نمی‌توا
 neterror-load-error-try-again = ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره تلاش کنید.
 neterror-load-error-connection = اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.
 neterror-load-error-firewall = اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که { -brand-short-name } اجازه دسترسی به وب را دارد.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = اگر در تلاش برای بارگذاری صفحه شبکه محلی هستید، لطفا بررسی کنید که { -brand-short-name } در تنظیمات حریم خصوصی و امنیت macOS مجوزهای شبکه محلی را دریافت کرده باشد.
 neterror-captive-portal = شما باستی در ابتدا وارد این شبکه شوید تا بتوانید به اینترنت دسترسی داشته باشید.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = آیا منظور شما رفتن به <a data-l10n-name="website">{ $hostAndPath }</a> است؟
+neterror-dns-not-found-hint-header = <strong>اگر نشانی صحیح را وارد کرده‌اید، می‌توانید:</strong>
+neterror-dns-not-found-hint-try-again = بعداً دوباره تلاش کنید
 neterror-dns-not-found-hint-check-network = اتصال خود به شبکه را بررسی کنید
+neterror-dns-not-found-hint-firewall = بررسی کنید که { -brand-short-name } اجازه دسترسی به اینترنت را دارد (ممکن است متصل باشید اما پشت یک دیوار آتش قرار گرفته باشید).
 
 ## TRR-only specific messages
 ## Variables:
@@ -49,12 +58,15 @@ neterror-dns-not-found-hint-check-network = اتصال خود به شبکه را
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } نمی‌تواند درخواست شما برای نشانی این وبگاه را از طریق ارائه‌دهنده DNS ایمن ما محافظت کند. دلایلش اینجا است:
 neterror-dns-not-found-trr-third-party-warning2 = می‌توانید با حل‌کنندهٔ ساناد پیش‌فرض‌تان ادامه دهید. با این حال، ممکن است یک سوم‌شخص قادر به مشاهدهٔ وبگاهی که بازدید می‌کنید باشد.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
 neterror-dns-not-found-trr-only-timeout = اتصال به { $trrDomain } بیش‌تر از آن‌چه انتظار می‌رفت، طول کشید.
 neterror-dns-not-found-trr-offline = به اینترنت متصل نیستید.
 neterror-dns-not-found-trr-unknown-host2 = این وبگاه توسط { $trrDomain } پیدا نشد.
 neterror-dns-not-found-trr-server-problem = مشکلی با { $trrDomain } است.
+neterror-dns-not-found-bad-trr-url = نشانی اینترنتی نامعتبر است.
+neterror-dns-not-found-system-sleep = سیستم در حالت خواب است.
 neterror-dns-not-found-trr-unknown-problem = مشکل ناگهانی.
 
 ## Native fallback specific messages
@@ -62,6 +74,7 @@ neterror-dns-not-found-trr-unknown-problem = مشکل ناگهانی.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } نمی‌تواند درخواست شما برای نشانی این وبگاه را از طریق ارائه‌دهنده DNS ایمن ما محافظت کند. دلایلش اینجا است:
 neterror-dns-not-found-native-fallback-heuristic = ساناد روی HTTPS روی شبکه‌تان از کار افتاده است.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
 
@@ -137,3 +150,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = اگر با <b>{ $mitm }</b
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> یک خط‌مشی امنیتی به نام HTTP Strict Transport Security (HSTS) دارد، به این معنی که { -brand-short-name } فقط می‌تواند به طور ایمن به آن متصل شود. شما نمی توانید استثنایی برای بازدید از این سایت اضافه کنید.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = احتمالا هیچ چیزی نیست، زیرا احتمال دارد که مشکل از خود وبگاه باشد.
