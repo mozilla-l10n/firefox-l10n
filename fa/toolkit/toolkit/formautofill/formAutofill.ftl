@@ -8,17 +8,22 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = استفاده از اطلاعات روش پرداخت ذخیره‌شده
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای استفاده از اطلاعات روش پرداخت ذخیره‌شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای استفاده از اطلاعات روش پرداخت ذخیره‌ شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
 autofill-use-payment-method-os-prompt-other = { -brand-short-name } در حال تلاش برای استفاده از اطلاعات روش پرداخت ذخیره‌ شده است.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = نمایش اطلاعات روش پرداخت ذخیره‌ شده
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = گزینه‌های پرکردن خودکار فرم
 autofill-options-link-osx = ترجیحات پرکردن خودکار فرم
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = همگام‌سازی تمام کارت‌های ذخیره‌ شده در دستگاه‌های من
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = این کارت به صورت ایمن ذخیره شود؟
 credit-card-save-doorhanger-description = { -brand-short-name } شماره کارت شما را رمزگذاری می‌کند. کد امنیتی شما ذخیره نخواهد شد
