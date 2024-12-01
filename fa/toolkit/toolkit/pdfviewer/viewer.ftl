@@ -84,6 +84,9 @@ pdfjs-scroll-vertical-button-label = پیمایش عمودی
 pdfjs-scroll-horizontal-button =
     .title = استفاده از پیمایش افقی
 pdfjs-scroll-horizontal-button-label = پیمایش افقی
+pdfjs-spread-none-button =
+    .title = صفحات پیوسته را یکی نکنید
+pdfjs-spread-none-button-label = بدون صفحات پیوسته
 
 ## Document properties dialog
 
