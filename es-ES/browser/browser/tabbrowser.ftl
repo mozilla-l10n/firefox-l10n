@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = ¿Cerrar { $tabCount } pestañas?
 tabbrowser-confirm-close-tabs-button = Cerrar pestañas
+tabbrowser-ask-close-tabs-checkbox = Preguntar antes de cerrar múltiples pestañas
 tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de cerrar múltiples pestañas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = ¿Cerrar la ventana y salir de { 
 tabbrowser-confirm-close-tabs-with-key-button = Salir de { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Preguntar antes de salir con { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de salir con { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = ¿Salir de { -brand-short-name } o cerrar la pestaña actual?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Salir de { -brand-short-name }
+       *[other] Salir de { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Cerrar pestaña actual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,6 +198,50 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
-tab-group-editor-create =
-    .label = Crear
+tab-context-unnamed-group =
+    .label = Grupo sin nombre
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Añadir pestaña a un nuevo grupo
+            [one] Añadir pestaña a un nuevo grupo
+           *[other] Añadir pestañas a un nuevo grupo
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Añadir pestaña a un grupo
+            [one] Añadir pestaña a un grupo
+           *[other] Añadir pestañas a un grupo
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nueva pestaña en el grupo
+tab-group-editor-action-new-window =
+    .label = Mover grupo a una nueva ventana
+tab-group-editor-action-save =
+    .label = Guardar y cerrar grupo
+tab-group-editor-action-ungroup =
+    .label = Desagrupar pestañas
+tab-group-editor-action-delete =
+    .label = Eliminar grupo
+tab-group-editor-done =
+    .label = Hecho
+    .accessKey = H
+tab-context-reopen-tab-group =
+    .label = Reabrir grupo de pestañas
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Eliminar de grupo
+            [one] Eliminar de grupo
+           *[other] Eliminar de grupos
+        }
     .accesskey = r
