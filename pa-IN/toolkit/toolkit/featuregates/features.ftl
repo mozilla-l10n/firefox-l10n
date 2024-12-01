@@ -16,6 +16,13 @@ experimental-features-devtools-compatibility-panel =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
+# Search during IME
+experimental-features-ime-search =
+    .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ: IME ਬਣਾਉਣ ਦੌਰਾਨ ਨਤੀਜੇ ਵੇਖਾਓ
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ: ਟੈਬ ਬਦਲਣ ਉੱਤੇ ਆਪੇ ਖੋਲ੍ਹੋ
+experimental-features-auto-pip-description = ਜਦੋਂ ਟੈਬਾਂ ਵਿਚਾਲੇ ਤਬਾਦਲਾ ਹੋਵੇ ਤਾਂ ਸਰਗਰਮ ਵੀਡੀਓ ਉੱਤੇ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਸਮਰੱਥ ਕਰੋ।
 genai-settings-chat-title =
     .label = AI ਚੈਟਬੋਟ
 # Updated sidebar settings
