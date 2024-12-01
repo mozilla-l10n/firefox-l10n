@@ -96,6 +96,14 @@ pdfjs-document-properties-button-label = خصوصیات سند...
 pdfjs-document-properties-file-name = نام پرونده:
 pdfjs-document-properties-file-size = حجم پرونده:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } کیلوبایت ({ $b } بایت)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } مگابایت ({ $b } بایت)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } کیلوبایت ({ $size_b } بایت)
@@ -229,6 +237,10 @@ pdfjs-rendering-error = هنگام بارگیری صفحه خطایی رخ دا�
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }، { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -236,6 +248,9 @@ pdfjs-rendering-error = هنگام بارگیری صفحه خطایی رخ دا�
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } Annotation]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -253,6 +268,16 @@ pdfjs-editor-free-text-button-label = متن
 pdfjs-editor-ink-button =
     .title = کشیدن
 pdfjs-editor-ink-button-label = کشیدن
+pdfjs-editor-stamp-button =
+    .title = افزودن یا ویرایش تصاویر
+pdfjs-editor-stamp-button-label = افزودن یا ویرایش تصاویر
+pdfjs-editor-highlight-button =
+    .title = برجسته کردن
+pdfjs-editor-highlight-button-label = برجسته کردن
+pdfjs-highlight-floating-button1 =
+    .title = برجسته کردن
+    .aria-label = برجسته کردن
+pdfjs-highlight-floating-button-label = برجسته کردن
 
 ## Remove button for the various kind of editor.
 
@@ -263,9 +288,20 @@ pdfjs-editor-ink-button-label = کشیدن
 pdfjs-editor-free-text-color-input = رنگ
 pdfjs-editor-free-text-size-input = اندازه
 pdfjs-editor-ink-color-input = رنگ
+pdfjs-editor-stamp-add-image-button =
+    .title = افزودن تصویر
+pdfjs-editor-stamp-add-image-button-label = افزودن تصویر
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = ویرایشگر متن
+    .default-content = شروع به نوشتن کنید…
+pdfjs-free-text =
+    .aria-label = ویرایشگر متن
+pdfjs-free-text-default-content = شروع به نوشتن کنید…
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-add-description-label = افزودن توضیحات
 pdfjs-editor-alt-text-cancel-button = انصراف
 pdfjs-editor-alt-text-save-button = ذخیره
 
