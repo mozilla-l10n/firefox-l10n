@@ -5,17 +5,49 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = استفاده از اطلاعات روش پرداخت ذخیره‌شده
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای استفاده از اطلاعات روش پرداخت ذخیره‌شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } در حال تلاش برای استفاده از اطلاعات روش پرداخت ذخیره‌ شده است.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = نمایش اطلاعات روش پرداخت ذخیره‌ شده
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = گزینه‌های پرکردن خودکار فرم
 autofill-options-link-osx = ترجیحات پرکردن خودکار فرم
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = این کارت به صورت ایمن ذخیره شود؟
+credit-card-save-doorhanger-description = { -brand-short-name } شماره کارت شما را رمزگذاری می‌کند. کد امنیتی شما ذخیره نخواهد شد
+credit-card-capture-save-button =
+    .label = ذخیره
+    .accessKey = ذ
+credit-card-capture-cancel-button =
+    .label = اکنون نه
+    .accessKey = ن
+credit-card-capture-never-save-button =
+    .label = هرگز کارت‌ها را ذخیره نکنید
+    .accessKey = ن
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = به‌روزرسانی کارت؟
+credit-card-update-doorhanger-description = کارتی که باید به‌روزرسانی شود:
+credit-card-capture-save-new-button =
+    .label = به عنوان کارت جدید ذخیره کنید
+    .accessKey = ک
+credit-card-capture-update-button =
+    .label = کارت موجود را به‌روزرسانی کنید
+    .accessKey = ب
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = پاک سازی پرکردن خودکار فرم
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = مدیریت نشانی‌ها
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = مدیریت روش‌های پرداخت
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

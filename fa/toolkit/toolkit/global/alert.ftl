@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = بستن این هشدار
 alert-settings-title =
     .tooltiptext = تنظیمات
+
+## Reminder Notifications
+
+notification-default-dismiss = رد کردن
