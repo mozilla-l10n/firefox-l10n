@@ -28,6 +28,7 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = ਸਾਈਡਬਾਰ
+sidebar-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੇ ਅਤੀਤ, ਟੈਬਾਂ, ਬਾਹੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਹੱਥ ਹੇਠ ਰੱਖੋ। <a data-l10n-name="connect">ਸੁਝਾਅ ਦਿਓ</a>
 vertical-tabs-title =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
 experimental-features-group-developer-tools =
