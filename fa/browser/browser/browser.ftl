@@ -281,6 +281,7 @@ quickactions-print2 = چاپ صفحه
 quickactions-cmd-print = چاپ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ذخیره صفحه به صورت PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = گشایش پنجره ناشناس
 quickactions-cmd-private = مرور ناشناس
@@ -350,6 +351,7 @@ identity-connection-secure = اتصال امن است
 identity-connection-failure = شکست در برقراری ارتباط
 identity-connection-internal = این یک صفحهٔ امن { -brand-short-name } است.
 identity-connection-file = این صفحه بر روی رایانه شما ذخیره شده است.
+identity-connection-associated = این برگه از برگه دیگری بارگیری می‌شود.
 identity-extension-page = این صفحه توسط یک افزونه بارگیری شده است.
 identity-active-blocked = { -brand-short-name } قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.
 identity-custom-root = گواهیِ این اتصال، توسط صادرکننده‌ای ایجاد شده است که برای موزیلا قابل شناسایی نیست.
