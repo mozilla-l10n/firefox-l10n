@@ -81,8 +81,8 @@ webext-perms-host-description-one-domain = دسترسی به داده‌های �
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { $domainCount ->
-        [one] دسترسی به داده‌های شما برای وبگاه موجود در { $domainCount }
-       *[other] دسترسی به داده‌های شما برای وبگاه‌های موجود در { $domainCount }
+        [one] دسترسی به داده‌های شما برای وبگاه موجود در { $domainCount } دامنه
+       *[other] دسترسی به داده‌های شما برای وبگاه‌های موجود در { $domainCount } دامنه
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
@@ -92,9 +92,18 @@ webext-perms-host-description-multiple-domains =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = این برافزا به { $hostname } دسترسی به دستگاه‌های MIDI شما می‌دهد.
+webext-site-perms-header-with-gated-perms-midi-sysex = این برافزا به { $hostname } دسترسی به دستگاه‌های MIDI شما (با پشتیبانی از SysEx) را می‌دهد.
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    این‌ها معمولا دستگاه‌های متصل‌شونده مانند سینث‌سایزرهای صوتی هستند، اما ممکن است در رایانه شما نیز تعبیه شده باشند.
+    
+    وبگاه‌ها معمولا اجازه دسترسی به دستگاه‌های MIDI را ندارند. استفاده نادرست می‌تواند باعث خرابی یا کاهش امنیت شود.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -102,6 +111,10 @@ webext-perms-host-description-multiple-domains =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = آیا { $extension } را اضافه کنید؟ این افزونه قابلیت‌های زیر را به { $hostname } اعطا می‌کند:
+webext-site-perms-header-unsigned-with-perms = آیا { $extension } را اضافه کنید؟ این افزونه تایید نشده است. افزونه‌های مخرب می‌توانند اطلاعات خصوصی شما را سرقت کنند یا رایانه شما را به خطر بیندازند. فقط در صورتی که به منبع اعتماد دارید آن را اضافه کنید. این افزونه قابلیت‌های زیر را به { $hostname } اعطا می‌کند:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = دسترسی به دستگاه‌های MIDI
+webext-site-perms-midi-sysex = دسترسی به دستگاه‌های MIDI با پشتیبانی از SysEx
