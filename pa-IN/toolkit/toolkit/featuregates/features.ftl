@@ -31,6 +31,7 @@ sidebar-title =
 sidebar-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੇ ਅਤੀਤ, ਟੈਬਾਂ, ਬਾਹੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਹੱਥ ਹੇਠ ਰੱਖੋ। <a data-l10n-name="connect">ਸੁਝਾਅ ਦਿਓ</a>
 vertical-tabs-title =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+vertical-tabs-description = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬਰਾਊਜ਼ਰ ਦੇ ਸਿਖਰ ਤੋਂ ਪਾਸੇ ਲਿਆਓ। ਤੁਹਾਨੂੰ ਬਾਹੀ ਨੂੰ ਵੀ ਵਰਤਣਾ ਪਵੇਗਾ। <a data-l10n-name="connect">ਸੁਝਾਅ ਦਿਓ</a>
 experimental-features-group-developer-tools =
     .label = ਡਿਵੈਲਪਰ ਟੂਲ
 experimental-features-group-webpage-display =
