@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Mposta i pulìtichi ê quali WebExtensions po accèdiri attraversu chrome.storage.managed.
+policy-3rdparty = Mposta i pulìtichi chi WebExtensions po manijari cu chrome.storage.managed.
 policy-AppUpdateURL = Mposta nu nnirizzu pirsunalizzatu pi l'attualizzazziuni di l'app.
 policy-Authentication = Cunfijura l'autenticazziuni ntrigrata pî siti ca a suppòrtanu.
 policy-BlockAboutAddons = Blocca l'accessu ô Gisturi di agghiuncitini (about:addons).
@@ -52,9 +52,9 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita u Bloccu dî cuntinut
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Nzita, leva o blocca i stinziuna. Nzita pigghia nnirizzi o i pircursi comu paràmitri. Leva o Blocca pìgghianu l'ID dî stinziuna.
+policy-Extensions = Nzita, leva o blocca stinneri. L'upzioni Nzita pigghia nnirizzi o pircursi comu paràmitri. Leva o Blocca pìgghianu l'ID dî stinneri.
 policy-ExtensionSettings = Manija tutti l'aspetti dû nzitamentu dî stinneri.
-policy-ExtensionUpdate = Abbìlita o disabbìlita l'attualizzazziuni autumàtica dî stinziuna.
+policy-ExtensionUpdate = Abbìlita o sdisabbìlita l'attualizzu autumàticu dî stinneri.
 policy-HardwareAcceleration = Si è fausu, astuta accillirazziuni hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Mposta e si voi blocca a pàggina mastra.

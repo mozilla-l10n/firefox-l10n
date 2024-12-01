@@ -97,6 +97,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-developer-tools-extensions =
+    .label = Stinneri pî sbiluppatura
 
 ## Panel for privacy and security products
 

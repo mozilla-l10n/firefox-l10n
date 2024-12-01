@@ -3,6 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Pirmetti a sta stinziuni di travagghiari ntê Finestri privati
+    .label = Pirmetti a stu stinneriu di travagghiari ntê Finestri privati
     .accesskey = P
-    

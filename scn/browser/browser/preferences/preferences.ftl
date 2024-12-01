@@ -41,7 +41,7 @@ settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label = Supportu di { -brand-short-name }
-addons-button-label = Stinzioni e temi
+addons-button-label = Stinneri e temi
 focus-search =
     .key = f
 close-button =
@@ -71,7 +71,7 @@ restart-later = Riabbìa doppu
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = P'abbilitari a stinziuni vai nne <img data-l10n-name="addons-icon"/> Agghiuncitini nnô minù <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = P'abbilitari u stinneriu vai nnî <img data-l10n-name="addons-icon"/> Agghiuncitini nnô minù <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -92,7 +92,7 @@ set-as-my-default-browser =
 startup-restore-warn-on-quit =
     .label = Abbìsami niscennu dû navigaturi
 disable-extension =
-    .label = Disabbìlita stinziuni
+    .label = Sdisabbìlita stinneriu
 tabs-group-header = Schedi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab scurri i schedi nna l'ùrdini d'usu ricenti
@@ -347,7 +347,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = A
 browsing-picture-in-picture-learn-more = Cchiù nfurmazzioni
 browsing-cfr-recommendations =
-    .label = Raccumanna stinzioni mentri chi nàvighi
+    .label = Raccumanna stinneri mentri chi nàvighi
     .accesskey = R
 browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
@@ -600,7 +600,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = Agghiuncitini
-    .tooltiptext = Stinziuna e temi pi Firefox nnâ virsiuni scrivanìa
+    .tooltiptext = Stinneri e temi pi Firefox nnâ virsiuni scagnu
     .accesskey = A
 
 ## The device name controls.

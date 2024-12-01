@@ -102,6 +102,12 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = Manija stinneriu…
+    .accesskey = s
+page-action-remove-extension2 =
+    .label = Leva stinneriu
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -141,6 +147,9 @@ search-one-offs-context-set-as-default-private =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens about:addons page in the extensions section
+quickactions-extensions = Manija stinneri
+quickactions-cmd-extensions = stinneri
 
 ## Bookmark Panel
 
@@ -160,6 +169,7 @@ bookmark-panel =
 
 identity-connection-internal = Chista è na pàggina sicura di { -brand-short-name }.
 identity-connection-file = Sta pàggina è sarbata nnô to computer.
+identity-extension-page = Sta pàggina veni carricata di nu stinneriu.
 identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
@@ -235,7 +245,7 @@ urlbar-switch-to-tab =
     .value = Passa â scheda:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Stinziuni:
+    .value = Stinneriu:
 urlbar-go-button =
     .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
@@ -474,18 +484,36 @@ tabs-toolbar-list-all-tabs =
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Stinneri
+    .tooltiptext = Stinneri
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Stinneri
+    .tooltiptext =
+        Stinneri
+        Pirmisi nicissari
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Stinneri
+    .tooltiptext =
+        Stinneri
+        Certi stinneri nun sunnu pirmisi
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Stinneri
+    .tooltiptext =
+        Stinneri
+        Certi stinneri sunnu sdisabbilitati
 
 ## Private browsing reset button
 

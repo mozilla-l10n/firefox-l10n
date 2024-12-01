@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Stinziuni suggiruta
+cfr-doorhanger-extension-heading = Stinneriu suggirutu
 cfr-doorhanger-feature-heading = Funziunalità suggiruta
 
 ##
@@ -30,8 +30,8 @@ cfr-doorhanger-extension-author = di { $name }
 cfr-doorhanger-extension-notification = Suggirimentu
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggirimentu
-    .tooltiptext = Suggirimentu di stinziuni
-    .a11y-announcement = È dispunìbbili un suggirimentu pi na stinziuni
+    .tooltiptext = Suggirimentu di stinneriu
+    .a11y-announcement = È dispunìbbili un suggirimentu pi nu stinneriu
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
@@ -160,6 +160,9 @@ device-migration-fxa-spotlight-sync-primary-button = Accumincia
 
 
 ## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
 
 
 ## FxA Menu Message variants

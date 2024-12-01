@@ -50,6 +50,10 @@ webext-perms-sideload-menu-item = { $addonName } fu agghiunciutu a { -brand-shor
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } addumanna novi pirmisi
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Cumpleta u nzitamentu dî stinneri mpurtati nne { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -57,6 +61,7 @@ webext-perms-update-menu-item = { $addonName } addumanna novi pirmisi
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Livari { $name } di { -brand-shorter-name }?
 addon-removal-button = Leva
+addon-removal-abuse-report-checkbox = Riporta stu stinneriu a { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

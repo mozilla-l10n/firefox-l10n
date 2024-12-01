@@ -14,3 +14,7 @@ webext-default-search-no =
     .label = No
     .accesskey = N
 
+## A modal confirmation dialog to allow an extension on quarantined domains.
+
+webext-quarantine-confirmation-line-1 = Pi prutèggiri i to dati, stu stinneriu nun è pirmisu nna stu situ.
+webext-quarantine-confirmation-line-2 = Abbìlita stu stinneriu si ci duni fiducia a lèggiri e canciari i to dati nnî siti limitati di { -vendor-short-name }.

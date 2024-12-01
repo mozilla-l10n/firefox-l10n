@@ -13,47 +13,40 @@ downloads-cmd-cancel =
     .tooltiptext = Sfai
 downloads-cmd-cancel-panel =
     .aria-label = Sfai
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
+
 ##
 
 downloads-cmd-show-downloads =
     .label = Mustra a carpetta di scarricamenti
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Cancella pricu
-
 downloads-cmd-remove-file-panel =
     .aria-label = Cancella pricu
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Cancella pricu o pirmetti scarricamentu
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Cancella pricu o pirmetti scarricamentu
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Rapi o cancella pricu
-
 downloads-cmd-choose-open-panel =
     .aria-label = Rapi o cancella pricu
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Mustra chiossai nfurmazziuni
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -67,6 +60,7 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # Displayed when hovering a download which is able to be cancelled by users,
@@ -79,6 +73,7 @@ downloads-cancel-download =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
 
 downloads-clear-downloads-button =
@@ -87,3 +82,8 @@ downloads-clear-downloads-button =
 
 ## Download errors
 
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Stu scarricamentu nun po èssiri sarbatu picchì è bluccatu di { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Stu scarricamentu nun po èssiri sarbatu picchì è bluccatu di nu stinneriu.

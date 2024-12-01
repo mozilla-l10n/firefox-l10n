@@ -27,6 +27,7 @@ migration-imported-safari-reading-list = Lista di littura (di Safari)
 
 ##
 
+migration-extensions-option-label = Stinneri
 migration-bookmarks-from-file-picker-title = Mporta pricu dî nzingalibbri
 migration-bookmarks-from-file-progress-header = Staju mpurtannu i nzingalibbri
 migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
@@ -37,6 +38,7 @@ migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-extensions-label = stinneri
 
 ##
 
@@ -45,6 +47,28 @@ migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } stinneriu
+       *[other] { $quantity } stinneri
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } di { $quantity } stinneri
+migration-wizard-progress-extensions-support-link = Nzìgnati comu { -brand-product-name } fa appattari i stinneri
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nuḍḍu stinneriu chi appatta
+migration-wizard-progress-extensions-addons-link = Talìa stinneri pi { -brand-short-name }
 
 ##
 
