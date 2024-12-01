@@ -155,9 +155,16 @@ certerror-mitm-title = نرم‌افزار نمی‌گذارد { -brand-short-na
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = هشدار: خطر امنیتی
+fp-certerror-body-title = مراقب باشید. چیزی درست به نظر نمی‌رسد.
+fp-certerror-why-site-dangerous = چه چیزی باعث می‌شود وبگاه خطرناک به نظر برسد؟
+fp-certerror-what-can-you-do = چه کاری می‌توانید در مورد آن انجام دهید؟
 fp-certerror-advanced-title = پیشرفته
 fp-certerror-advanced-button = پیشرفته
+fp-certerror-hide-advanced-button = پنهان کردن پیشرفته
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = ادامه به { $hostname } (خطرناک)
+fp-certerror-intro = { -brand-short-name } یک مشکل امنیتی بالقوه جدی با <strong>{ $hostname }</strong> مشاهده کرده است. کسی که وانمود می‌کند وبگاه است ممکن است تلاش کند اطلاعاتی مانند اطلاعات کارت اعتباری، گذرواژه‌ها، یا رایانامه‌ها را سرقت کند.
+fp-certerror-expired-into = { -brand-short-name } یک مشکل امنیتی با <strong>{ $hostname }</strong> مشاهده کرده است. یا وبگاه به درستی تنظیم نشده است یا ساعت دستگاه شما به تاریخ/ساعت اشتباه تنظیم شده است.
