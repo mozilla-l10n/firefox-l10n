@@ -44,7 +44,15 @@ process-type-inference = استنباط
 # process used to run some IPC actor in their own sandbox
 process-type-utility = بازیگر IPC ایمن شده در محیط محدود
 process-type-utility-actor-audio-decoder-generic = ابزار عمومی رمزگشای صوتی
+process-type-utility-actor-audio-decoder-applemedia = ابزار رسانه‌ای اپل
+process-type-utility-actor-audio-decoder-wmf = ابزار بنیاد رسانه‌ای ویندوز
+process-type-utility-actor-mf-media-engine = ابزار موتور بنیاد رسانه‌ای
+process-type-utility-actor-js-oracle = ابزار اوراکل جاوااسکریپت
+process-type-utility-actor-windows-utils = ابزارهای ویندوز
+process-type-utility-actor-windows-file-dialog = ابزارهای گفت‌وگوی پرونده ویندوز
 
 ##
 ## Other
 
+# fallback
+process-type-unknown = ناشناخته
