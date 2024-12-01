@@ -10,3 +10,5 @@ experimental-features-web-gpu2 =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
+experimental-features-group-developer-tools =
+    .label = ਡਿਵੈਲਪਰ ਟੂਲ
