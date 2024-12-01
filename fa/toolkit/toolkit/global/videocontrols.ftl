@@ -34,6 +34,10 @@ videocontrols-picture-in-picture-label = تصویر-در-تصویر
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = این ویدیو را جدا کنید
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = صفحه نمایش‌های بیشتر سرگرم کننده‌تر هستند. این ویدیو را هنگام انجام کارهای دیگر پخش کنید.
 videocontrols-error-aborted = بارگیری فیلم متوقف شد.
 videocontrols-error-network = پخش ویدئو به دلیل خطای شبکه متوقف گردید.
 videocontrols-error-decode = به دلیل خراب بودن فایل، این ویدئو قابل پخش نیست.
