@@ -93,6 +93,8 @@ about-debugging-setup-this-firefox2 = <a>{ about-debugging-this-firefox-runtime-
 about-debugging-setup-connect-heading = ਡਿਵਾਈਸ ਕਨੈਕਟ ਕਰੋ
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਨਾਲ ਲੋੜੀਂਦੇ Android USB ਡੀਬੱਗਿੰਗ ਭਾਗਾਂ ਨੂੰ { -brand-shorter-name } ਵਿੱਚ ਜੋੜਿਆ ਜਾਵੇਗਾ।
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB ਡਿਵਾਈਸ ਸਮਰੱਥ ਕਰੋ
@@ -109,6 +111,8 @@ about-debugging-setup-usb-status-updating = …ਅੱਪਡੇਟ ਕੀਤਾ �
 about-debugging-setup-usb-step-enable-dev-menu2 = ਆਪਣੇ ਐਂਡਰਾਇਡ ਡਿਵਾਈਸ ਤੇ ਡਿਵੈਲਪਰ ਮੀਨੂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = ਐਂਡਰਾਇਡ ਡਿਵੈਲਪਰ ਮੀਨੂ ਵਿੱਚ USB ਡੀਬਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = ਫਾਇਲ ਟਰਾਂਸਫਰ ਨੂੰ ਸਮਰੱਥ ਕਰੋ ਅਤੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਸਿਰਫ਼ ਚਾਰਜ ਹੋਣ ਵਾਲੇ ਮੋਡ ਵਿੱਚ ਨਹੀਂ ਹੈ।
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Android ਡਿਵਾਈਸ ਉੱਤੇ Firefox ਵਿੱਚ USB ਡੀਬੱਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
 # USB section step by step guide
