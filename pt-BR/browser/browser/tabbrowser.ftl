@@ -214,6 +214,12 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nova aba no grupo
+tab-group-editor-action-new-window =
+    .label = Mover grupo para nova janela
+tab-group-editor-action-save =
+    .label = Salvar e fechar grupo
 tab-group-editor-action-ungroup =
     .label = Desagrupar abas
 tab-group-editor-action-delete =
