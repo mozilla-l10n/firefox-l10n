@@ -301,6 +301,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Tu perdeva un importante actualisation de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Partes del browser cessara tosto de functionar si tu non lo actualisa. Ora es un bon tempore pro obtener nostre ultime protectiones e functiones.
 root-certificate-windows-background-notification-learn-more-button = Pro saper plus
 root-certificate-windows-background-notification-update-button = Actualisar { -brand-short-name }
 
