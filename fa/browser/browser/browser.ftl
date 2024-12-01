@@ -361,6 +361,7 @@ identity-weak-encryption = این صفحه از کدگذاری ضعیفی است
 identity-insecure-login-forms = اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.
 identity-https-only-connection-upgraded = (ارتقا یافته به HTTPS)
 identity-https-only-label = حالت فقط HTTPS
+identity-https-only-label2 = به‌طور خودکار این وبگاه را به یک اتصال امن ارتقاء دهید.
 identity-https-only-dropdown-on =
     .label = روشن
 identity-https-only-dropdown-off =
@@ -594,6 +595,15 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - جستجو { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - جستجو با { $engine }
 urlbar-searchmode-bookmarks =
     .label = نشانک‌ها
 urlbar-searchmode-tabs =
@@ -939,6 +949,9 @@ reset-pbm-toolbar-button =
     .label = پایان نشست خصوصی
     .tooltiptext = پایان نشست خصوصی
 reset-pbm-panel-heading = آیا می‌خواهید نشست خصوصی خود را خاتمه دهید؟
+reset-pbm-panel-cancel-button =
+    .label = انصراف
+    .accesskey = ا
 
 ## Autorefresh blocker
 
@@ -956,6 +969,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (تایید نشده)
 popup-notification-xpinstall-prompt-learn-more = در مورد نصبِ امنِ افزونه‌ها اطلاعات بیشتر بیاموزید
+popup-notification-xpinstall-prompt-block-url = مشاهده جزئیات
 
 ## Pop-up warning
 
