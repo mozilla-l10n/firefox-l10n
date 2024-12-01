@@ -222,6 +222,16 @@ tab-context-move-tab-to-new-group =
            *[other] Sekmeleri yeni gruba ekle
         }
     .accesskey = u
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi gruba ekle
+            [one] Sekmeyi gruba ekle
+           *[other] Sekmeleri gruba ekle
+        }
+    .accesskey = S
+tab-group-editor-action-new-tab =
+    .label = Grupta yeni sekme
 tab-group-editor-action-new-window =
     .label = Grubu yeni pencereye taşı
 tab-group-editor-action-save =

@@ -81,6 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = { $trackername } takip koduna izin ver
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } takip kodu ve içeriği engellendi
+smartblock-placeholder-desc = { -brand-short-name } ayarlarınız, bu içeriğin sizi siteler arasında izlemesini veya reklam amacıyla kullanılmasını engelledi.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = { $websitehost } sitesinde izin ver
 

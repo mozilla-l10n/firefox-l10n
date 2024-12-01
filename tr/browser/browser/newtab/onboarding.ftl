@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Kâr amacı gütmeyen bir tarayıcıyla
 mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
 mr2022-onboarding-get-started-primary-button-label = Ayarlamaya başla
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Işık hızında kurulum
 mr2022-onboarding-import-subtitle = { -brand-short-name } tarayıcınızı istediğiniz gibi ayarlayın. İsterseniz eski tarayıcınızdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi alabiliriz.
@@ -359,6 +361,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } sizi kor
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Vakfı tarafından geliştirilen { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir bir yere dönüştürüyoruz.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Verilerinizi cihazlarınız arasında eşitleyin
+onboarding-sign-up-description = Hesap açarsanız parolalarınız, yer imleriniz gibi tüm önemli bilgileriniz güvenli bir şekilde saklanır ve başka bir cihazdan giriş yaptığınızda bilgilerinizi kullanabilirsiniz.
 onboarding-sign-up-button = Kaydol veya giriş yap
 onboarding-sign-up-secondary-button = Gezinmeye başla
 
