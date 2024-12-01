@@ -21,13 +21,13 @@ toolbar-context-menu-manage-extension =
     .label = Manija stinneri
     .accesskey = s
 toolbar-context-menu-remove-extension =
-    .label = Leva stinziuni
+    .label = Leva stinneriu
     .accesskey = v
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
-    .label = Signala stinziuni
+    .label = Signalija stinneriu
     .accesskey = S
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should

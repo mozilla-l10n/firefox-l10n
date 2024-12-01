@@ -900,7 +900,7 @@ collection-studies =
     .label = Pirmetti a { -brand-short-name } di nstallari e cunnùciri studi
 collection-studies-link = Talìa studi di { -brand-short-name }
 addon-recommendations =
-    .label = Pirmetti a { -brand-short-name } di dari cunzigghi ncapu ê stinzioni pirsunalizzati
+    .label = Pirmetti a { -brand-short-name } di dari cunzigghi pirsunalizzati ncapu ê stinneri
 addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
