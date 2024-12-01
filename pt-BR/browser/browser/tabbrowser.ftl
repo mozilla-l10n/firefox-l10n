@@ -111,6 +111,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-tab-only-button = Fechar aba atual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -193,7 +194,29 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-context-unnamed-group =
+    .label = Grupo sem nome
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Adicionar aba a um novo grupo
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adicionar aba a um grupo
+           *[other] Add Tabs to Group
+        }
+    .accesskey = g
+tab-group-editor-action-ungroup =
+    .label = Desagrupar abas
+tab-group-editor-action-delete =
+    .label = Excluir grupo
+tab-context-reopen-tab-group =
+    .label = Reabrir grupo de abas
