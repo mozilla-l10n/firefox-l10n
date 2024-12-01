@@ -12,3 +12,7 @@ experimental-features-abouthome-startup-cache =
     .label = about:home ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
 experimental-features-group-developer-tools =
     .label = ਡਿਵੈਲਪਰ ਟੂਲ
+experimental-features-group-webpage-display =
+    .label = ਵੈੱਬਪੇਜ ਡਿਸਪਲੇਅ
+experimental-features-group-customize-browsing =
+    .label = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
