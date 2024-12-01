@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 common-dialog-title-system = { -brand-short-name }
+common-dialog-password =
+    .value = Парола
 common-dialog-copy-cmd =
     .label = Копиране
     .accesskey = К

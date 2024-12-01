@@ -57,6 +57,8 @@ mobile-app-card-content = Използвайте мобилния четец с 
 mobile-app-links = { -brand-product-name } четец за <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никога не забравяйте парола отново
 lockwise-header-content-logged-in = Сигурно съхранявайте и синхронизирайте паролите си между всичките си устройства.
+protection-report-passwords-save-passwords-button = Запазване на пароли
+    .title = Запазване на пароли
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =

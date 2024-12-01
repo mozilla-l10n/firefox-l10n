@@ -6,6 +6,8 @@ password-quality-meter = Качество на паролата
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = Промяна на паролата
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство по безопасността: { $tokenName }
