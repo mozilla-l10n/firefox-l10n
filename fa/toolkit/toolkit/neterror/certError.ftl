@@ -88,6 +88,28 @@ fp-certerror-unknown-issuer-what-can-you-do-body = احتمالاً هیچ چی�
 fp-certerror-self-signed-why-dangerous-body = به دلیل وجود مشکلی در گواهینامه وبگاه. وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. گواهینامه این وبگاه خود-امضا شده است. توسط یک مرجع صدور گواهینامه شناخته شده صادر نشده است - بنابراین به طور پیش‌فرض به آن اعتماد نداریم.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = زیاد نیست. احتمال دارد که مشکل از خود وبگاه باشد.
+fp-certerror-self-signed-important-note = نکته مهم: اگر در تلاش برای بازدید از این وبگاه در یک اینترانت شرکتی هستید، کارکنان فناوری اطلاعات شما ممکن است از گواهینامه‌های خود-امضا استفاده کنند. آنها می‌توانند به شما کمک کنند تا اصالت آنها را بررسی کنید.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه در تاریخ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } منقضی شده است.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه تا تاریخ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } معتبر نخواهد بود.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = ساعت دستگاه شما بر روی { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } تنظیم شده است. اگر این صحیح است، احتمالاً مشکل امنیتی از خود وبگاه است. اگر اشتباه است، می‌توانید آن را در تنظیمات سیستم، دستگاه خود تغییر دهید.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = کد خطا: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = درباره خرابی اتصال ایمن بیشتر بدانید
+fp-learn-more-about-cert-issues = در مورد این نوع مشکلات گواهینامه بیشتر بدانید
+fp-learn-more-about-time-related-errors = در مورد رفع اشکال خطاهای مرتبط با زمان بیشتر بدانید
 
 ## Messages used for certificate error titles
 
@@ -96,6 +118,8 @@ deniedPortAccess-title = این نشانی ممنوع است
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = آممم. ما کمی مشکل در پیدا کردن این پایگاه اینترنتی داریم.
+dns-not-found-trr-only-title2 = خطر امنیتی احتمالی در جستجوی این دامنه
+dns-not-found-native-fallback-title2 = خطر امنیتی احتمالی در جستجوی این دامنه
 fileNotFound-title = پرونده پیدا نشد
 fileAccessDenied-title = دسترسی به پرونده رد شد
 generic-title = متأسفیم.
@@ -110,6 +134,7 @@ contentEncodingError-title = خطای کدگذاری محتوا
 unsafeContentType-title = نوع پروندهٔ ناامن
 netReset-title = اتصال قطع شد
 netTimeout-title = مهلت اتصال تمام شد
+serverError-title = به نظر می‌رسد مشکلی در این وبگاه وجود دارد
 unknownProtocolFound-title = نشانی قابل فهم نبود
 proxyConnectFailure-title = کارگزار پیشکار از برقراری اتصال خودداری می‌کند.
 proxyResolveFailure-title = کارگزار پیشکار پیدا نشد
@@ -129,6 +154,7 @@ certerror-mitm-title = نرم‌افزار نمی‌گذارد { -brand-short-na
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = هشدار: خطر امنیتی
 fp-certerror-advanced-title = پیشرفته
 fp-certerror-advanced-button = پیشرفته
 
