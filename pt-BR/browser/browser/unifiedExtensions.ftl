@@ -49,7 +49,30 @@ unified-extensions-mb-quarantined-domain-learn-more = Saiba mais
     .aria-label = Saiba mais: Algumas extensões não são permitidas
 unified-extensions-mb-about-addons-link = Ir para configurações de extensões
 # Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } desativado
+    .message =
+        Esta extensão viola diretrizes da Mozilla e foi desativada.
+        Você tem opção de ativar nas configurações, mas pode ser arriscado.
+# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } desativado
     .message = Esta extensão viola diretrizes da Mozilla e foi desativada.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } extensões desativadas
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } extensões desativadas
