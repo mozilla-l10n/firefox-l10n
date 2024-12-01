@@ -5,40 +5,46 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = محتوای وب
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = دربارهٔ ممتاز
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = محتوای اختصاصی Mozilla
-
 process-type-extension = افزونه‌
-
 # process used to open file:// URLs
 process-type-file = پروندهٔ محلی
-
+# process used to instantiate new child processes
+process-type-forkserver = سرور انشعاب
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = محتوای وب منزوی شده
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = کارگر خدمت منزوی شده
+# process preallocated; may change to other types
+process-type-prealloc = از پیش تخصیص داده شده
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
+process-type-default = اصلی
+process-type-tab = زبانه
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = سوکت
+# process used to decode media
+process-type-rdd = RDD
+# process used to run inference
+process-type-inference = استنباط
+# process used to run some IPC actor in their own sandbox
+process-type-utility = بازیگر IPC ایمن شده در محیط محدود
+process-type-utility-actor-audio-decoder-generic = ابزار عمومی رمزگشای صوتی
 
 ##
 ## Other
-##
 
