@@ -53,7 +53,7 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita u Bloccu dî cuntinut
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Nzita, leva o blocca i stinziuna. Nzita pigghia nnirizzi o i pircursi comu paràmitri. Leva o Blocca pìgghianu l'ID dî stinziuna.
-policy-ExtensionSettings = Gistisci tutti l'aspetti dû nzitamentu dî stinziuna.
+policy-ExtensionSettings = Manija tutti l'aspetti dû nzitamentu dî stinneri.
 policy-ExtensionUpdate = Abbìlita o disabbìlita l'attualizzazziuni autumàtica dî stinziuna.
 policy-HardwareAcceleration = Si è fausu, astuta accillirazziuni hardware.
 # “lock” means that the user won’t be able to change this setting

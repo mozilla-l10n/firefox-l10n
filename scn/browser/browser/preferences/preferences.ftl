@@ -402,8 +402,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Ricerca nnâ riti
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
@@ -520,8 +519,8 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Nesci…
     .accesskey = N
-sync-manage-account = Gistisci cuntu
-    .accesskey = G
+sync-manage-account = Manija cuntu
+    .accesskey = M
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -749,8 +748,8 @@ sitedata-clear =
     .label = Cancella dati…
     .accesskey = l
 sitedata-settings =
-    .label = Gistisci dati…
-    .accesskey = G
+    .label = Manija dati…
+    .accesskey = d
 
 ## Privacy Section - Cookie Banner Handling
 

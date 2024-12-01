@@ -25,11 +25,13 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Rapi quatru MIDI
 urlbar-eme-notification-anchor =
-    .tooltiptext = Gistisci l'usu dî prugrammi DRM
+    .tooltiptext = Manija l'usu dî prugrammi DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Rapi quatru d'autinticazziuni pî riti
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Manija pirmisi d'estrazziuni dâ tila
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Gistisci a spartuta dû micròfunu cu stu situ
+    .tooltiptext = Manija a spartuta dû micròfunu cu stu situ
 urlbar-default-notification-anchor =
     .tooltiptext = Rapi quatru dî missaggi
 urlbar-geolocation-notification-anchor =
@@ -39,15 +41,15 @@ urlbar-xr-notification-anchor =
 urlbar-storage-access-anchor =
     .tooltiptext = Rapi quatru dî pirmisi pâ navigazzioni
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Gistisci a spartuta dî finestri o dû schirmu cu stu situ
+    .tooltiptext = Manija a spartuta dî finestri o dû schirmu cu stu situ
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Rapi quatru di l'archiviu fora linia
 urlbar-password-notification-anchor =
     .tooltiptext = Rapi u quatru dî missaggi di sarbataggiu dî chiavi
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Gistisci l'usu di l'agghiuncitini
+    .tooltiptext = Manija l'usu di l'agghiuncitini
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Gistisci a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
+    .tooltiptext = Manija a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Rapi quatru dâ ripruduzziuni autumàtica
 urlbar-persistent-storage-notification-anchor =
@@ -478,6 +480,10 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
