@@ -8,7 +8,7 @@
 more-from-moz-title = Mais da { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mais da { -vendor-short-name }
-more-from-moz-subtitle = Confira outros produtos { -vendor-short-name } que funcionam para oferecer suporte a uma internet saudável.
+more-from-moz-subtitle = Confira outros produtos { -vendor-short-name } que atuam em prol de uma internet saudável.
 more-from-moz-firefox-mobile-title = { -brand-product-name } para dispositivos móveis
 more-from-moz-firefox-mobile-description = O navegador para dispositivos móveis que coloca sua privacidade em primeiro lugar.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
