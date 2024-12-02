@@ -106,6 +106,9 @@ tabbrowser-confirm-close-tabs-with-key-title = Fechar a janela e sair do { -bran
 tabbrowser-confirm-close-tabs-with-key-button = Sair do { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Perguntar antes de sair com { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
@@ -229,3 +232,12 @@ tab-group-editor-done =
     .accessKey = P
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de abas
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Remover do grupo
+           *[other] Remove from Groups
+        }
+    .accesskey = R

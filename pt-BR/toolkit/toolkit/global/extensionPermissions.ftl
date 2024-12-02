@@ -30,4 +30,6 @@ webext-perms-description-sessions = Acessar abas fechadas recentemente
 webext-perms-description-tabs = Acessar as abas do navegador
 webext-perms-description-tabHide = Ocultar e mostrar abas do navegador
 webext-perms-description-topSites = Acessar o histórico de navegação
+webext-perms-description-trialML = Baixar e executar modelos de inteligência artificial em seu dispositivo
+webext-perms-description-userScripts = Permitir que scripts não verificados de terceiros acessem seus dados
 webext-perms-description-webNavigation = Acessar as atividades do navegador durante a navegação
