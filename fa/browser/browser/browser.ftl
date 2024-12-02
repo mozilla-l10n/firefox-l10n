@@ -370,6 +370,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = خاموش موقت
 identity-https-only-info-turn-on2 = اگر می‌خواهید در صورت امکان { -brand-short-name } اتصال را ارتقا دهد، حالت فقط HTTPS را برای این سایت روشن کنید.
 identity-https-only-info-turn-off2 = اگر صفحه خراب به نظر می‌رسد، ممکن است بخواهید حالت فقط HTTPS را برای این سایت خاموش کنید تا سایت در حال غیر امن HTTP بارگیری شود.
+identity-https-only-info-turn-on3 = اگر می‌خواهید { -brand-short-name } در صورت امکان اتصال را ارتقا دهد، ارتقاهای HTTPS را برای این وبگاه فعال کنید.
+identity-https-only-info-turn-off3 = اگر صفحه خراب به نظر می‌رسد، ممکن است بخواهید ارتقاء HTTPS را برای این وبگاه غیرفعال کنید تا با استفاده از HTTP ناامن دوباره بارگذاری شود.
 identity-https-only-info-no-upgrade = ارتقا اتصال از HTTP امکان‌پذیر نبود.
 identity-permissions-storage-access-header = کلوچک‌های میان‌پایگاهی
 identity-permissions-storage-access-hint = این سازمان‌ها می‌توانند از کلوچک‌های میان‌پایگاهی و داده‌های پایگاه‌ها در حالی که شما در این پایگاه هستید استفاده کنند.
@@ -545,6 +547,8 @@ urlbar-go-button =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
 urlbar-page-action-button =
     .tooltiptext = کنش‌های صفحه
+urlbar-revert-button =
+    .tooltiptext = نمایش نشانی در نوار مکان
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -565,6 +569,13 @@ urlbar-result-action-search-w-engine = جست‌وجو از طریق { $engine }
 urlbar-result-action-sponsored = حمایت شده
 urlbar-result-action-switch-tab = پرش به زبانه
 urlbar-result-action-visit = بازدید
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = تعویض به زبانه · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = بازدید از تخته‌گیره
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -595,6 +606,9 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = جست‌وجو با { $engine }
 # Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
 #  $keywords (String): the restrict keyword to enter search mode.
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
@@ -604,6 +618,8 @@ urlbar-result-search-with-local-search-mode = { $keywords } - جستجو { $loca
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - جستجو با { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = انتخاب یک موتور جستجو
 urlbar-searchmode-bookmarks =
     .label = نشانک‌ها
 urlbar-searchmode-tabs =
@@ -612,6 +628,7 @@ urlbar-searchmode-history =
     .label = تاریخچه
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+urlbar-searchmode-popup-description = این بار جستجو با:
 urlbar-searchmode-popup-search-settings = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search
