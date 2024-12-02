@@ -270,6 +270,8 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ابزارهای مرورگر
 appmenu-developer-tools-extensions =
     .label = افزونه‌ها برای توسعه‌دهندگان
+appmenuitem-report-broken-site =
+    .label = گزارش وبگاه خراب
 
 ## Panel for privacy and security products
 

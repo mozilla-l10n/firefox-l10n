@@ -274,7 +274,7 @@ about-logins-confirm-remove-all-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { $count ->
+    { NUMBER($count) ->
         [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
         [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
        *[other] این عمل گذرواژه‌های ذخیره شده در { -brand-short-name } و هرگونه هشدار رخنه را حذف خواهد کرد. این عمل قابل بازگشت نیست.
@@ -287,7 +287,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { $count ->
+    { NUMBER($count) ->
         [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
         [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
        *[other] این عمل همه گذرواژه‌ها ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار رخنه که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
