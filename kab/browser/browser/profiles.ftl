@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } -Fren amaɣnu n useqdac
+profile-window-heading = Fren amaɣnu { -brand-short-name }
+profile-window-create-profile = Rnu amaɣnu
 profile-card-edit-button =
     .title = Ẓreg amaɣnu
     .aria-label = Ẓreg amaɣnu
@@ -46,9 +49,20 @@ delete-profile-windows = Ldi isfuyla
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Iccaren yeldin
 delete-profile-bookmarks = Ticraḍ n yisebtar
+delete-profile-logins = Awalen uffiren
 
 ##
 
+# Button label
+delete-profile-cancel = Sefsex
+# Button label
+delete-profile-confirm = Kkes
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# The default light theme
+profiles-light-theme = Aceɛlal
+# The default dark theme
+profiles-dark-theme = Aberkan
+# The default system theme
+profiles-system-theme = Anagraw
