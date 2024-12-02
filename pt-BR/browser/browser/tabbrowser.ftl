@@ -114,6 +114,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Encerrar o { -brand-short-name } ou fechar a aba atual?
 tabbrowser-confirm-close-tab-only-button = Fechar aba atual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
