@@ -154,6 +154,14 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Odpiraj povezave v zavihkih namesto v novih oknih
     .accesskey = d
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Vprašaj pred zapiranjem s { $quitKey }
+    .accesskey = z
 confirm-on-close-multiple-tabs =
     .label = Vprašaj za potrditev pred zapiranjem več zavihkov hkrati
     .accesskey = t
@@ -575,8 +583,7 @@ home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
 home-prefs-shortcuts-by-option-sponsored =
     .label = Bližnjice oglaševalcev
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
