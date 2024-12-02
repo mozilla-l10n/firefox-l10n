@@ -277,8 +277,11 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = وارد حساب کاربری خود شوید
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = دریافت هشدارهای نشت اطلاعاتی
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = پنهان کردن رایانامه و شماره تلفن واقعی شما
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = حفاظت از فعالیت آنلاین شما
 
 ## Profiles panel
 
