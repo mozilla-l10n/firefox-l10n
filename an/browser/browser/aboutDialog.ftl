@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = Arredol de { -brand-full-name }
-releaseNotes-link = Novedatz
+releaseNotes-link = Novedaz
 update-checkForUpdatesButton =
     .label = Mirar actualizacions
     .accesskey = M
@@ -47,7 +47,7 @@ aboutdialog-channel-description = Ye fendo servir a canal <label data-l10n-name=
 warningDesc-version = { -brand-short-name } ye experimental y puede estar inestable.
 aboutdialog-help-user = Aduya de { -brand-product-name }
 aboutdialog-submit-feedback = Ninviar comentarios
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ye una <label data-l10n-name="community-exp-creditsLink">comunidat global</label> que treballa a ixena ta preservar o ret ubierto, publico y accesible ta totz.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ye una <label data-l10n-name="community-exp-creditsLink">comunidat global</label> que treballa a ixena ta preservar o ret ubierto, publico y accesible ta toz.
 community-2 = { -brand-short-name } ye disenyau por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidat global</label> que treballa a zofra ta preservar o ret ubierto, publico y accesible ta totz.
 helpus = Quiere aduyar? <label data-l10n-name="helpus-donateLink">Faiga una donación</label> u <label data-l10n-name="helpus-getInvolvedLink">embreque-se-ie!</label>
 bottomLinks-license = Información d'a licencia
