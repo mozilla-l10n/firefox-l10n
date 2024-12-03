@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà
+do-not-track-removal = Nus na sustegnain betg pli il signal «Betg ma fastizar»
 do-not-track-description2 =
     .label = Trametter a websites la dumonda da «Betg ma fastizar»
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Avrir colliaziuns en tabs e betg en novas fanestras
     .accesskey = v
+ask-on-close-multiple-tabs =
+    .label = Dumandar avant che serrar plirs tabs
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Dumandar avant che terminar cun { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Confermar sch'ina fanestra cun plirs tabs vegn serrada
     .accesskey = m
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Websites che ti memoriseschas u visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scursanidas sponsuradas
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }

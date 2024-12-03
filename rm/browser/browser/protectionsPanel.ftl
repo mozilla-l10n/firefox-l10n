@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Ulteriuras infurmaziuns davart la protecziun avanzada cunter il fastizar
 protections-panel-etp-on-header = La protecziun avanzada cunter il fastizar è ACTIVADA per questa website
 protections-panel-etp-off-header = La protecziun avanzada cunter il fastizar è DEACTIVADA per questa website
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Na funcziunescha la site betg?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Na funcziunescha la site betg?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Protecziun avanzada cunter il fastizar
     .description = Deactivà per questa website
     .aria-label = Protecziun avanzada cunter il fastizar: Deactivà per { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Na funcziunescha la site betg?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Na funcziunescha la site betg?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Bloccads
 protections-panel-not-blocking-label = Permess
 protections-panel-not-found-label = Chattà nagin
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blochescha cuntegn che fastizescha durant che ti visitas questa website, nun che ti l’autoriseschas.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Autorisar { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Bloccà fastizaders e cuntegn da { $trackername }
+smartblock-placeholder-desc = Tes parameters da { -brand-short-name } han impedì che quest cuntegn ta fastizeschia via pliras websites u ch’el vegnia duvrà per reclama.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Permetter sin { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Annunziar problems cun questa site
 protections-panel-content-blocking-breakage-report-view-description = La bloccada da cuntegn po chaschunar problems cun tschertas websites. L'annunzia da problems gida a meglierar { -brand-short-name } per tuts. Quest rapport vegn tramess a Mozilla ed includa in URL, sco era infurmaziuns davart la configuraziun da tes navigatur. <label data-l10n-name="learn-more">Ulteriuras infurmaziuns</label>
-protections-panel-content-blocking-breakage-report-view-description2 = La bloccada da cuntegn po chaschunar problems cun tschertas websites. L'annunzia da problems gida a meglierar { -brand-short-name } per tuts. Quest rapport vegn tramess a { -vendor-short-name } ed includa in URL, sco era infurmaziuns davart la configuraziun da tes navigatur.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

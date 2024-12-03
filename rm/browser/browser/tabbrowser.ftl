@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Serrar { $tabCount } tabs?
 tabbrowser-confirm-close-tabs-button = Serrar ils tabs
+tabbrowser-ask-close-tabs-checkbox = Dumandar avant che serrar plirs tabs
 tabbrowser-confirm-close-tabs-checkbox = Confermar avant che serrar plirs tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Serrar la fanestra e terminar { -
 tabbrowser-confirm-close-tabs-with-key-button = Terminar { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Dumandar avant che terminar cun { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confermar cun { $quitKey } avant che terminar
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Terminar { -brand-short-name } u serrar il tab actual?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Terminar { -brand-short-name }
+       *[other] Terminar { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Serrar il tab actual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,3 +200,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Interrumper
     .accesskey = I
+tab-context-unnamed-group =
+    .label = Gruppa senza num
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Agiuntar il tab ad ina nova gruppa
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = g

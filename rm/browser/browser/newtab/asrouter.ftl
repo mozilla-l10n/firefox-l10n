@@ -298,6 +298,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Pli tard
     .accesskey = l
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Ti has manchentà in’actualisaziun impurtanta da { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Tschertas parts dal navigatur na vegnan prest betg pli a funcziunar sche ti n’actualiseschas betg. Ussa è in bun mument per ir per nossas protecziuns e funcziuns las pli novas.
+root-certificate-windows-background-notification-learn-more-button = Ulteriuras infurmaziuns
+root-certificate-windows-background-notification-update-button = Actualisar { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

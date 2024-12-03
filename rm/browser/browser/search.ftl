@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard. <label data-l10n-name="remove-search-engine-article">Ulteriuras infurmaziuns</label>
 removed-search-engine-message2 = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Agiuntar { $engineName } sco maschina da tschertgar?
+install-search-engine-add = Agiuntar
+install-search-engine-no = Na
