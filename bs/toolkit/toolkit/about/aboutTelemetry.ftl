@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] omogućeno
        *[disabled] onemogućeno
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } uzorak, prosjek = { $prettyAverage }, suma = { $sum }
+        [few] { $sampleCount } uzorka, prosjek = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } uzoraka, prosjek = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o performansama, hardveru, upotrebi i prilagođavanjima koje je prikupio Telemetrija. Ove informacije su poslate { $telemetryServerOwner }-i kako bi unaprijedila { -brand-full-name }.
