@@ -78,6 +78,8 @@ protections-panel-not-found-label = Ingen oppdaga
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Tillat { $trackername }
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Tillat på { $websitehost }
 
 ##
 
