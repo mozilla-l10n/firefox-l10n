@@ -92,7 +92,7 @@ tab-context-new-tab-open-vertical =
     .label = 在下方新建标签页
     .accesskey = w
 tab-context-new-group =
-    .label = 新建标签页组
+    .label = 新建标签页群组
     .accesskey = G
 
 ## Variables:
