@@ -210,6 +210,37 @@ tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
             [1] Agiuntar il tab ad ina nova gruppa
-           *[other] Add Tabs to New Group
+           *[other] Agiuntar ils tabs ad ina nova gruppa
         }
     .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Agiuntar il tab a la gruppa
+           *[other] Agiuntar ils tabs a la gruppa
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nov tab en la gruppa
+tab-group-editor-action-new-window =
+    .label = Spustar la gruppa en ina nova fanestra
+tab-group-editor-action-save =
+    .label = Memorisar e serrar la gruppa
+tab-group-editor-action-ungroup =
+    .label = Degruppar ils tabs
+tab-group-editor-action-delete =
+    .label = Stizzar la gruppa
+tab-group-editor-done =
+    .label = Finì
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Reavrir la gruppa da tabs
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Allontanar da la gruppa
+           *[other] Allontanar da las gruppas
+        }
+    .accesskey = A

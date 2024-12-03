@@ -30,4 +30,6 @@ webext-perms-description-sessions = Acceder als tabs serrads dacurt
 webext-perms-description-tabs = Acceder als tabs dal navigatur
 webext-perms-description-tabHide = Zuppentar u mussar ils tabs dal navigatur
 webext-perms-description-topSites = Acceder a la cronologia da navigaziun
+webext-perms-description-trialML = Telechargiar ed exequir models IA sin tes apparat
+webext-perms-description-userScripts = Permetter a scripts betg verifitgads da terzas partidas dad acceder a tias datas
 webext-perms-description-webNavigation = Acceder a l'activitad dal navigatur durant la navigaziun
