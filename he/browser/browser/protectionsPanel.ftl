@@ -80,6 +80,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = לאפשר את { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = רכיבי מעקב ותוכן של { $trackername } חסומים
+smartblock-placeholder-desc = הגדרות ה־{ -brand-short-name } שלך מונעות מתוכן זה לעקוב אחריך באתרים או לשמש עבור פרסומות.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = לאפשר ב־{ $websitehost }
 
