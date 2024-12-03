@@ -199,7 +199,7 @@ tab-group-editor-action-new-window =
 tab-group-editor-action-save =
     .label = 그룹 저장 후 닫기
 tab-group-editor-action-ungroup =
-    .label = 탭 그룹 해제
+    .label = 그룹 해제
 tab-group-editor-action-delete =
     .label = 그룹 삭제
 tab-group-editor-done =
@@ -212,7 +212,7 @@ tab-context-reopen-tab-group =
 tab-context-ungroup-tab =
     .label =
         { $groupCount ->
-            [1] 그룹에서 삭제
-           *[other] 그룹에서 삭제
+            [1] 그룹에서 제거
+           *[other] 그룹에서 제거
         }
     .accesskey = R
