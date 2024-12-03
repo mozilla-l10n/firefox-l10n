@@ -5,6 +5,12 @@
 profile-window-title = { -brand-short-name } - Vel brukarprofil
 profile-window-heading = Vel ein { -brand-short-name }-profil
 profile-window-create-profile = Opprett ein profil
+profile-card-edit-button =
+    .title = Rediger profil
+    .aria-label = Rediger profil
+profile-card-delete-button =
+    .title = Slett profil
+    .aria-label = Slett profil
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -24,7 +30,7 @@ new-profile-page-learn-more = Les meir
 new-profile-page-done-button =
     .label = Ferdig med redigering
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -38,6 +44,9 @@ delete-profile-windows = Opne vindauge
 delete-profile-tabs = Opne faner
 delete-profile-bookmarks = Bokmerke
 delete-profile-logins = Passord
+
+##
+
 # Button label
 delete-profile-cancel = Avbryt
 # Button label

@@ -72,6 +72,13 @@ protections-panel-blocking-label = Blokkert
 protections-panel-not-blocking-label = Tillate
 protections-panel-not-found-label = Ingen oppdaga
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Tillat { $trackername }
+
 ##
 
 protections-panel-settings-label = Innstillingar for vern
