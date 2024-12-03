@@ -619,6 +619,8 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Nadi { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Nadi s { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Fren amsedday n unadi
 urlbar-searchmode-bookmarks =
     .label = Ticraḍ n isebtar
 urlbar-searchmode-tabs =
@@ -975,6 +977,10 @@ unified-extensions-button-permissions-needed =
 unified-extensions-button-quarantined =
     .label = Isiɣzaf
     .tooltiptext = Asiɣzef
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
