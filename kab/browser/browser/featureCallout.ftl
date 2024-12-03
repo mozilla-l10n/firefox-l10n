@@ -75,5 +75,6 @@ sidebar-callout-survey-strongly-agree = Qebleɣ aṭas
 sidebar-callout-survey-agree = Qebleɣ
 sidebar-callout-survey-disagree = Ur qbileɣ ara
 sidebar-callout-survey-strongly-disagree = Ur qbileɣ ara aṭas
+sidebar-callout-survey-none-of-above = Ula d yiwen seg yisumar-a
 sidebar-callout-survey-submit = Azen
 sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!
