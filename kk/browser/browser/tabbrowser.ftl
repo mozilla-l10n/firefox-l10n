@@ -200,3 +200,10 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-window =
+    .label = Топты жаңа терезеге жылжыту
+tab-group-editor-action-save =
+    .label = Сақтау және топты жабу
+tab-group-editor-done =
+    .label = Дайын
+    .accessKey = Д
