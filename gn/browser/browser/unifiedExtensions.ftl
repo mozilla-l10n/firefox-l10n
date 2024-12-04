@@ -48,3 +48,24 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Eikuaave
     .aria-label = Eikuaave: Oĩ jepysokue ojepurukuaa’ỹva
 unified-extensions-mb-about-addons-link = Eho jepysokue myatyrõhápe
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } mboguepyre
+    .message =
+        Ko jepysokue omomarã Mozilla porureko ha oñembotýma.
+        Embojurujakuaa ñembohekopyahuhápe, hákatu ikatu oñembyai.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } mboguepyre
+    .message = Ko jepysokue omomarã Mozilla porureko ha oñembotýma.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } jepysokue mboguepyre
+           *[other] Oĩ jepysokue oñemboguepyre omomarã rupi Mozilla porureko.
+        }
+    .message = Ko jepysokue omomarã Mozilla porureko ha oñembotýma.
