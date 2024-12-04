@@ -217,7 +217,7 @@ intl-locales-supported = 应用程序语言环境
 intl-locales-default = 默认语言环境
 intl-os-title = 操作系统
 intl-os-prefs-system-locales = 系统语言环境
-intl-regional-prefs = 地区偏好
+intl-regional-prefs = 区域偏好
 
 ## Remote Debugging
 ##
