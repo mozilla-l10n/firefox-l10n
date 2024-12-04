@@ -61,6 +61,7 @@ about-webauthn-auth-option-false = Aruzɣin
 
 about-webauthn-auth-info-certifications = Isleknen
 about-webauthn-auth-info-algorithms = Ilguritmen
+about-webauthn-auth-info-transports = Ttawilat n usiweḍ
 about-webauthn-auth-info-pin-protocols = Ineggafen n tengalt PIN
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
@@ -70,6 +71,7 @@ about-webauthn-auth-info-versions = Ileqman
 about-webauthn-auth-info-true = Uzɣrin
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Aruzɣin
+about-webauthn-auth-info-null = Ur yettwasefrak ara
 
 ## Bio enrollment sample feedbacks
 
@@ -79,3 +81,4 @@ about-webauthn-auth-info-false = Aruzɣin
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-other = Tuccḍa tafessast.
