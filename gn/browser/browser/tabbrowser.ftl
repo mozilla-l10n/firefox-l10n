@@ -242,7 +242,7 @@ tab-context-ungroup-tab =
     .label =
         { $groupCount ->
             [1] Emboguete atýgui
-            [one] Emboguete atykuéragui
-           *[other] R
+            [one] Emboguete atýgui
+           *[other] Emboguete atykuéragui
         }
-    .accesskey = { "" }
+    .accesskey = R
