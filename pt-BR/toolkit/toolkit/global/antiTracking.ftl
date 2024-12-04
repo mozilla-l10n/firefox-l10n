@@ -11,3 +11,9 @@ btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
        *[other] “{ $siteHost }” foi classificado como rastreador de rejeição (bounce tracker). Se não houver interação do usuário nos próximos { $gracePeriodSeconds } segundos, os dados do site serão excluídos.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = O estado de “{ $siteHost }” foi limpo recentemente porque foi detectado como sendo um rastreador de rejeição (bounce tracker).
