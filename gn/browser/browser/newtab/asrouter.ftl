@@ -299,6 +299,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Noĩri gueteri { -brand-short-name } ñembohekopyahu
+root-certificate-windows-background-notification-subtitle = Kundahára vore ndoikoporãmo’ãi ag̃aite noñembohekopyahúirõ. Ko’ág̃a iporã eguereko rome’ẽva ñemo’ã ha tembiapoite ipyahuvéva.
 root-certificate-windows-background-notification-learn-more-button = Eikuaave
 root-certificate-windows-background-notification-update-button = Embohekopyahu { -brand-short-name }
 
@@ -309,6 +311,7 @@ fxa-menu-message-close-button =
     .aria-label = Mboty
 fxa-menu-message-sign-up-button = Eñemboheraguapy
 fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
+fxa-menu-message-sync-devices-secondary-text = Eñemomarandu pya’e — ikatúva techaukaha ha ñe’ẽñemi — tenda eiporuhápe { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-backup-data-primary-text = Eykeko kundahára mba’ekuaarã
 fxa-menu-message-backup-data-secondary-text = Ñemo’ã ijeheguíva techaukaha, ñe’ẽñemi ha ambue marandu opaite ne mba’e’okápe.
