@@ -30,4 +30,6 @@ webext-perms-description-sessions = Eike tendayke oñemboty ramovévape
 webext-perms-description-tabs = Eike kundahára rendayképe
 webext-perms-description-tabHide = Mokañy ha rehechauka tendayke kundaha
 webext-perms-description-topSites = Kundaha rembiasakuépe jeike
+webext-perms-description-trialML = Emboguejy ha emongu’e IA rehegua ne mba’e’okápe
+webext-perms-description-userScripts = Emoneĩ scripts mbohapyháva ani hag̃ua oike ne mba’ekuaarãme
 webext-perms-description-webNavigation = Eike kundahára rembiapópe eikundaha aja
