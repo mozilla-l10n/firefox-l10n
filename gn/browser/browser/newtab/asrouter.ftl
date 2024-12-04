@@ -216,7 +216,7 @@ july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-headline = Eg̃uahẽporãjey
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
-fox-doodle-pin-body = Peteĩ ñemomandu’a ikautha eguereko ne kundahára ijeheguíva namombyryiete ndehegui.
+fox-doodle-pin-body = Peteĩ ñemomandu’a ikatuha eguereko ne kundahára ijeheguíva namombyryiete ndehegui.
 fox-doodle-pin-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-secondary = Ani ko’ág̃a
 
@@ -335,3 +335,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Eñepyrũ eikundaha
 multi-cta-fox-doodle-main-browser-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvéva
+multi-cta-fox-doodle-quick-reminder-subtitle = Peteĩ ñemomandu’a ikatuha ereko ne kundahára, oma’ẽva tekoñemi, erohoryvéva namombyryiete ndehegui.
