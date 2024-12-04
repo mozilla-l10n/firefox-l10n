@@ -45,7 +45,7 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = סיום עריכה
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +62,9 @@ delete-profile-bookmarks = סימניות
 delete-profile-history = היסטוריה (דפים שביקרת בהם, עוגיות, נתוני אתרים)
 delete-profile-autofill = נתוני מילוי אוטומטי (כתובות, אמצעי תשלום)
 delete-profile-logins = ססמאות
+
+##
+
 # Button label
 delete-profile-cancel = ביטול
 # Button label
@@ -69,6 +72,8 @@ delete-profile-confirm = מחיקה
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = מריגולד
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lavender-theme = לוונדר
 # This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.

@@ -155,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = פתיחת קישורים בלשוניות במקום בחלונות חדשים
     .accesskey = ח
+ask-on-close-multiple-tabs =
+    .label = לשאול לפני סגירת מספר לשוניות
+    .accesskey = ל
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = לשאול לפני יציאה באמצעות { $quitKey }
+    .accesskey = ל
 confirm-on-close-multiple-tabs =
     .label = הצגת אזהרה בעת סגירת מספר לשוניות
     .accesskey = א
