@@ -8,3 +8,9 @@
 #   $siteHost (string): The host portion of the site which has been classified as a tracker.
 #   $gracePeriodSeconds (number): Grace period window in seconds until the site purged (clearing cookies, storages and caches).
 btp-warning-tracker-classified = “{ $siteHost }”已被分类为 bounce tracker。若在接下来的 { $gracePeriodSeconds } 秒内未被用户激活，其状态将被清除。
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = “{ $siteHost }”被检测为跳转式跟踪器，因此已于近期清除其状态。
