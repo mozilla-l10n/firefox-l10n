@@ -14,3 +14,9 @@ btp-warning-tracker-classified =
         [few] “{ $siteHost }” jo se klasificěrował ako „bounce tracker“. Jolic w běgu pśiducych { $gracePeriodSeconds } sekundow wužywaŕske aktiwěrowanje njedostanjo, se jogo staw wulašujo.
        *[other] “{ $siteHost }” jo se klasificěrował ako „bounce tracker“. Jolic w běgu pśiducych { $gracePeriodSeconds } sekundow wužywaŕske aktiwěrowanje njedostanjo, se jogo staw wulašujo.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = Status „{ $siteHost }“ jo se njedawno wulašował, dokulaž jo se wukopało, až jo bounce tracker.
