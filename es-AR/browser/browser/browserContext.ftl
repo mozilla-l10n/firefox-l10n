@@ -155,13 +155,19 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Copiar dirección de correo electrónico
-    .accesskey = e
+    .accesskey = l
 main-context-menu-copy-phone =
     .label = Copiar número de teléfono
     .accesskey = o
 main-context-menu-copy-link-simple =
     .label = Copiar enlace
     .accesskey = L
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Copiar enlace limpio
+    .accesskey = i
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
@@ -290,9 +296,7 @@ main-context-menu-send-to-device =
     .label = Enviar página a dispositivo
     .accesskey = d
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Usar inicio de sesión guardado
