@@ -88,6 +88,10 @@ fp-certerror-expired-why-dangerous-body = Siteler gerçekten girmek istediğiniz
 # Variables:
 #   $date (Date) - Certificate start date.
 fp-certerror-not-yet-valid-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifika { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihine kadar geçerli olmayacak.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Cihazınızın saati { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Hata kodu: { $error }
