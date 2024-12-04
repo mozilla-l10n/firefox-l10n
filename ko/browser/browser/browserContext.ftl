@@ -162,11 +162,17 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = 링크 복사
     .accesskey = L
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = 깨끗한 링크 복사
+    .accesskey = u
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = 사이트 추적 없이 링크 복사
-    .accesskey = y
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -290,9 +296,7 @@ main-context-menu-send-to-device =
     .label = 페이지를 기기로 보내기
     .accesskey = D
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = 저장된 로그인 사용
