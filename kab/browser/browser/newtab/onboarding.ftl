@@ -366,8 +366,23 @@ onboarding-existing-vertical-tabs-label = Ԑreḍ accaren d ubdiden
 onboarding-flair-text = Amaynut!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Eǧǧ accaren d iglawanen
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Asfaylu n yiminig i d-yeskanen accaren nnig ugdil.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Asfaylu n yiminig i d-yeskanen accaren nnig ugdil.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Sekyed chatbot IA deg ugalis adisan
 onboarding-genai-sidebar-primary-button = Fren chatbot
 onboarding-genai-sidebar-secondary-button = Bdu tunigin
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Fakk asesteb n { -brand-short-name }
+onboarding-checklist-subtitle = Smed takkayin akken ad tfarseḍ ugar deg yiminig.
+onboarding-checklist-set-default = Sbadu { -brand-short-name } d iminig amezwer
+onboarding-checklist-pin = Senteḍ { -brand-short-name } deg ufeggag n tiwuriwin
+onboarding-checklist-import = Kter seg yiminig yezrin
+onboarding-checklist-extension = Rnu asiɣzef
+onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
