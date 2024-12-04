@@ -74,6 +74,7 @@ protections-panel-not-found-label = Ndaipóri juhupyre
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } ojoko tetepy tapykuehoha rehegua eime aja ko tendápe, neremoneĩriramo.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =

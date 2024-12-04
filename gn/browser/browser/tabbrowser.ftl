@@ -227,3 +227,7 @@ tab-group-editor-action-new-window =
     .label = Eguerova aty ovetã pyahúpe
 tab-group-editor-action-save =
     .label = Eñongatu ha emboty aty
+tab-group-editor-action-ungroup =
+    .label = Eipe’a atýgui tendayke
+tab-group-editor-action-delete =
+    .label = Emboguete aty

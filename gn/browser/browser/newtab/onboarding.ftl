@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Eiporu peteĩ kundahára atyguasu viru�
 mr2022-onboarding-get-started-primary-subtitle = Ore rembiapo ipyahuvéva rojapo ndéve g̃uarã, eikundaha hag̃ua apañuai’ỹre. Oreko heta tembiapoite ro’éva ehayhutaha.
 mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Emboheko pya’eterei
 mr2022-onboarding-import-subtitle = Emboheko { -brand-short-name } eipotaháicha. Embojuaju techaukaha, ñe’ẽñemi ha hetave ne kundahára itujavéva guive.
@@ -421,6 +423,7 @@ onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha
 ## New user onboarding checklist
 
 onboarding-checklist-title = Embohekopákatu { -brand-short-name }
+onboarding-checklist-subtitle = Emoĩmba ko’ã mba’e eiporu porãve hag̃ua kundahára.
 onboarding-checklist-set-default = Ajapo { -brand-short-name }-gui kundahára ypyguáva
 onboarding-checklist-pin = Emboja { -brand-short-name } tembiaporã rendápe
 onboarding-checklist-import = Emba’egueru kundahára itujavévagui
