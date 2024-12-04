@@ -236,3 +236,13 @@ tab-group-editor-done =
     .accessKey = D
 tab-context-reopen-tab-group =
     .label = Embojurujajey tendayke aty
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Emboguete atýgui
+            [one] Emboguete atykuéragui
+           *[other] R
+        }
+    .accesskey = { "" }

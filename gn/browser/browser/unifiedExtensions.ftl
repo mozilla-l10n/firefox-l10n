@@ -41,10 +41,10 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Oĩ jepysokue ñoñemoneĩriva
 unified-extensions-mb-quarantined-domain-message = Oĩ ndahetái jepysokue oñangarekóva { -vendor-short-name } oñemoneĩ ko tendápe omo’ã hag̃ua ne mba’ekuaarã.
-unified-extensions-mb-quarantined-domain-message-2 = Emo’ã hag̃ua mba’ekuaarã, ndahetái jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã ko tendápe. Eiporu jepysokue ñemboheko emoneĩ hag̃ua tenda omochi’ĩva { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Oĩ jepysokue ñoñemoneĩriva
     .message = Emo’ã hag̃ua mba’ekuaarã, ndahetái jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã ko tendápe. Eiporu jepysokue ñemboheko emoneĩ hag̃ua tenda omochi’ĩva { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Eikuaave
     .aria-label = Eikuaave: Oĩ jepysokue ojepurukuaa’ỹva
+unified-extensions-mb-about-addons-link = Eho jepysokue myatyrõhápe
