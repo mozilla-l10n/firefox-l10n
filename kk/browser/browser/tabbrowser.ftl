@@ -204,6 +204,20 @@ tab-group-editor-action-new-window =
     .label = Топты жаңа терезеге жылжыту
 tab-group-editor-action-save =
     .label = Сақтау және топты жабу
+tab-group-editor-action-delete =
+    .label = Топты өшіру
 tab-group-editor-done =
     .label = Дайын
     .accessKey = Д
+tab-context-reopen-tab-group =
+    .label = Беттер тобын қайтадан ашу
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Топтан өшіру
+            [one] Топтан өшіру
+           *[other] Топтардан өшіру
+        }
+    .accesskey = р
