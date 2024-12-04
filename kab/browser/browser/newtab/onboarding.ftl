@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Seqdec iminig ur nettnadi ara ɣef tedr
 mr2022-onboarding-get-started-primary-subtitle = Lqem-nneɣ aneggaru yettwafeṣṣel almend n wakken i tḥemmleḍ, err-it fessus ugarqef wayen iɛeddan mi ara tettinigeḍ deg web. Yeččur d timahilin i neẓra ad awint leɛqel-ik·im.
 mr2022-onboarding-get-started-primary-button-label = Asesteb deg kra n tesdatin
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Asesteb s zzerb ugar
 mr2022-onboarding-import-subtitle = Sesteb { -brand-short-name } akken i t-tebɣiḍ. Rnu ticraḍ-ik·im n yisebtar, awalen uffiren d wayen-nniḍen seg yiminig-ik·im aqbur.
@@ -321,8 +323,10 @@ onboarding-device-migration-primary-button-label = Kcem
 
 ## Add-ons Picker screen
 
+amo-picker-title = Sagen { -brand-short-name }
 amo-picker-install-button-label = Rnu ɣer { -brand-short-name }
 amo-picker-install-complete-label = ibded
+amo-picker-collection-link = Snirem akk izegrar
 
 ## The following screens have been updated to use security and privacy focused strings:
 
@@ -333,6 +337,8 @@ onboarding-easy-setup-security-and-privacy-subtitle = Iminig-nneɣ tettallit yiw
 onboarding-mobile-download-security-and-privacy-title = Mmesten iman-ik s ttawil n uwgelhen mi ara tɛeddiḍ seg yibenk ɣer wayeḍ
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } mazal-it ɣer tama-k
+# Sign up or Sign in screen
+onboarding-sign-up-title = Mtawi isefka-k gar yibenkan
 
 ## New user time and familiarity survey strings
 
@@ -355,6 +361,13 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca d
 onboarding-new-vertical-tabs-label = Accaren ɣef yidis
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Accaren ufella
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Ԑreḍ accaren d ubdiden
 onboarding-flair-text = Amaynut!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Eǧǧ accaren d iglawanen
 onboarding-genai-sidebar-primary-button = Fren chatbot
 onboarding-genai-sidebar-secondary-button = Bdu tunigin
+
+## New user onboarding checklist
+
