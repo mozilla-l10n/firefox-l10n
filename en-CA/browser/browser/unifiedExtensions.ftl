@@ -67,7 +67,9 @@ unified-extensions-mb-blocklist-warning-multiple =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled
         }
-    .message = { $extensionsCount } extensions disabled
+    .message =
+        Some of your extensions have been disabled for violating Mozilla’s policies.
+        You can enable them in settings, but this may be risky.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
@@ -75,4 +77,4 @@ unified-extensions-mb-blocklist-error-multiple =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled
         }
-    .message = { $extensionsCount } extensions disabled
+    .message = Some of your extensions have been disabled for violating Mozilla’s policies.
