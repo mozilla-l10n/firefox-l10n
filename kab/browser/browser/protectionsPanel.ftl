@@ -72,6 +72,13 @@ protections-panel-blocking-label = Iwḥel
 protections-panel-not-blocking-label = Ittusireg
 protections-panel-not-found-label = Ur ittwaf ara
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Sireg { $trackername }
+
 ##
 
 protections-panel-settings-label = Iɣewwaṛen n tɣellist

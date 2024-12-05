@@ -339,6 +339,8 @@ onboarding-mobile-download-security-and-privacy-title = Mmesten iman-ik s ttawil
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } mazal-it ɣer tama-k
 # Sign up or Sign in screen
 onboarding-sign-up-title = Mtawi isefka-k gar yibenkan
+onboarding-sign-up-button = Kcem neɣ qqen
+onboarding-sign-up-secondary-button = Bdu tunigin
 
 ## New user time and familiarity survey strings
 

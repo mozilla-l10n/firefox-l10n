@@ -288,6 +288,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Ticki
     .accesskey = T
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Issin ugar
+root-certificate-windows-background-notification-update-button = Leqqem { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

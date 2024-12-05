@@ -33,3 +33,9 @@ searchbar-icon =
 removed-search-engine-message = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren. <label data-l10n-name="remove-search-engine-article">Issin ugar</label>
 removed-search-engine-message2 = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren.
 remove-search-engine-button = IH
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-no = Ala
