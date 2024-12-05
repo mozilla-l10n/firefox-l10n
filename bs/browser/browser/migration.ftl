@@ -28,6 +28,15 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
+import-from-vivaldi =
+    .label = Vivaldi
+    .accesskey = V
+import-from-brave =
+    .label = Brave
+    .accesskey = r
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -49,6 +58,9 @@ import-from-firefox =
 import-from-360se =
     .label = 360 sigurni browser
     .accesskey = 3
+import-from-opera-gx =
+    .label = Opera GX
+    .accesskey = G
 no-migration-sources = Nije pronađen program koji sadrži zabilješke, historiju ili lozinke.
 import-source-page-title = Uvezi postavke i podatke
 import-items-page-title = Stavke za uvoz
@@ -87,6 +99,18 @@ browser-data-cookies-checkbox =
     .label = Kolačići
 browser-data-cookies-label =
     .value = Kolačići
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historija pregledavanja i zabilješke
+           *[other] Historija pregledavanja
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historija pregledavanja i zabilješke
+           *[other] Historija pregledavanja
+        }
 browser-data-formdata-checkbox =
     .label = Historija spašenih obrazaca
 browser-data-formdata-label =
@@ -99,6 +123,20 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Spašene prijave i lozinke
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Omiljeni
+            [edge] Omiljeni
+           *[other] Zabilješke
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Omiljeni
+            [edge] Omiljeni
+           *[other] Zabilješke
+        }
 browser-data-otherdata-checkbox =
     .label = Ostali podaci
 browser-data-otherdata-label =

@@ -96,6 +96,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Pošalji link emailom…
     .accesskey = e
+menu-file-share-url =
+    .label = Podijeli
+    .accesskey = h
 menu-file-print-setup =
     .label = Podešavanje strane…
     .accesskey = P
@@ -170,6 +173,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Osnovni stil stranice
     .accesskey = O
+menu-view-repair-text-encoding =
+    .label = Popravite kodiranje teksta
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -250,6 +256,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobilne zabilješke
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profili
+menu-profiles-manage-profiles =
+    .label = Upravljaj profilima
+menu-profiles-new-profile =
+    .label = Novi profil
+
 ## Tools Menu
 
 menu-tools =
@@ -258,18 +273,40 @@ menu-tools =
 menu-tools-downloads =
     .label = Preuzimanja
     .accesskey = P
+menu-tools-addons-and-themes =
+    .label = Add-oni i teme
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = Prijava
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = Uključi sinhronizaciju…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sinhronizuj sada
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Ponovo se poveži na { -brand-product-name }…
     .accesskey = R
+menu-tools-browser-tools =
+    .label = Alati preglednika
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Menadžer zadataka
+    .accesskey = M
 menu-tools-page-source =
     .label = Izvorni kod stranice
     .accesskey = o
 menu-tools-page-info =
     .label = Podaci o strani
     .accesskey = i
+menu-settings =
+    .label = Postavke
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Debager layouta
     .accesskey = L
@@ -298,8 +335,23 @@ menu-help =
 menu-get-help =
     .label = Pomoć
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = Više informacija o rješavanju problema
+    .accesskey = T
 menu-help-report-site-issue =
     .label = Prijavite problem sa stranicom…
+menu-help-share-ideas =
+    .label = Podijelite ideje i povratne informacije…
+    .accesskey = S
+menu-help-enter-troubleshoot-mode2 =
+    .label = Način rješavanja problema…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Isključi način rješavanja problema
+    .accesskey = M
+menu-help-switch-device =
+    .label = Prelazak na novi uređaj
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

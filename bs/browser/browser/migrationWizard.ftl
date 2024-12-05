@@ -98,6 +98,13 @@ migration-passwords-from-file-csv-filter-title =
         [macos] CSV dokument
        *[other] CSV fajl
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokument
+       *[other] TSV fajl
+    }
 migration-bookmarks-from-file-picker-title = Uvoz fajla sa oznakama
 migration-bookmarks-from-file-progress-header = Uvoz oznaka
 migration-bookmarks-from-file = Oznake
