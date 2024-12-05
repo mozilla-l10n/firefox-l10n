@@ -496,3 +496,20 @@ pdfjs-editor-alt-text-settings-close-button = Chiudi
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Evidenziazione rimossa
+pdfjs-editor-undo-bar-message-freetext = Testo rimosso
+pdfjs-editor-undo-bar-message-ink = Disegno rimosso
+pdfjs-editor-undo-bar-message-stamp = Immagine rimossa
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } annotazione rimossa
+       *[other] { $count } annotazioni rimosse
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Annulla
+pdfjs-editor-undo-bar-undo-button-label = Annulla
+pdfjs-editor-undo-bar-close-button =
+    .title = Chiudi
+pdfjs-editor-undo-bar-close-button-label = Chiudi
