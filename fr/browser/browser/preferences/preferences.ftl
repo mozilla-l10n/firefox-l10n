@@ -854,6 +854,13 @@ sync-engine-settings =
     .label = Paramètres
     .tooltiptext = Les paramètres que vous avez modifiés dans les sections Général, Vie privée et Sécurité
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Gérer les données à synchroniser sur tous vos appareils connectés
+    .style = min-width: 38em;
+    .buttonlabelaccept = Enregistrer
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra2 = Se déconnecter…
+    .buttonaccesskeyextra2 = S
 
 ## The device name controls.
 
