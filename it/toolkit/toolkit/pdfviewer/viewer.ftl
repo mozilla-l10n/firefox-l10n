@@ -493,3 +493,6 @@ pdfjs-editor-alt-text-settings-editor-title = Modifica testo alternativo
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostra l’editor del testo alternativo non appena si aggiunge un’immagine
 pdfjs-editor-alt-text-settings-show-dialog-description = Ti aiuta ad assicurarti che tutte le tue immagini abbiano il testo alternativo.
 pdfjs-editor-alt-text-settings-close-button = Chiudi
+
+## "Annotations removed" bar
+
