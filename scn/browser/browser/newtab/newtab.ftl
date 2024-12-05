@@ -170,7 +170,7 @@ newtab-empty-section-topstories = Nun cci sunnu autri cosi. Torna cchiù tardu p
 
 newtab-discovery-empty-section-topstories-header = Nun cci sunnu autri cosi!
 newtab-discovery-empty-section-topstories-content = Torna cchiù tardu pi autri nutizzi.
-newtab-discovery-empty-section-topstories-try-again-button = Riprova
+newtab-discovery-empty-section-topstories-try-again-button = Torna a prova
 newtab-discovery-empty-section-topstories-loading = Staju carricannu…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ops! Parissi chi sta sizziuni nun si carricò tutta.

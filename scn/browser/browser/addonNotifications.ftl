@@ -34,7 +34,7 @@ xpinstall-prompt-install =
 
 xpinstall-disabled-locked = U nzitamentu dî prugrammi fu disabbilitatu di l'amministraturi dû sistema.
 xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu disabbilitatu dâ to urganizzazzioni.
-xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è disabbilitatu. Ammacca «Abbìlita» e riprova.
+xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
 xpinstall-disabled-button =
     .label = Abbìlita
     .accesskey = A

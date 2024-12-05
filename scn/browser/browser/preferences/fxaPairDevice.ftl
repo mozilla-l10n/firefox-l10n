@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = L'accucchiamentu nun àppi successu.
-
-fxa-qrcode-error-body = Riprova.
+fxa-qrcode-error-body = Torna a prova.

@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Scarta na lingua d'agghiùnciri…
 browser-languages-installed-label = Lingui nstallati
 browser-languages-available-label = Lingui dispunìbbili
-browser-languages-error = { -brand-short-name } a stu mumentu nun po attualizzari i to lingui. Cuntrolla si sì cunnessu â riti o riprova.
+browser-languages-error = { -brand-short-name } a stu mumentu nun po attualizzari i to lingui. Cuntrolla si sì cunnessu â riti o torna a prova.
