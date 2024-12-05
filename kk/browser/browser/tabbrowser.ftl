@@ -111,6 +111,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } көмегіме�
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } жұмысын аяқтау
+       *[other] { -brand-short-name } жұмысын аяқтау
+    }
 tabbrowser-confirm-close-tab-only-button = Ағымдағы бетті жабу
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -200,10 +205,30 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Бетті жаңа топқа қосу
+            [one] Бетті жаңа топқа қосу
+           *[other] Беттерді жаңа топқа қосу
+        }
+    .accesskey = Б
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Бетті топқа қосу
+            [one] Бетті топқа қосу
+           *[other] Беттерді топқа қосу
+        }
+    .accesskey = б
+tab-group-editor-action-new-tab =
+    .label = Топтағы жаңа бет
 tab-group-editor-action-new-window =
     .label = Топты жаңа терезеге жылжыту
 tab-group-editor-action-save =
     .label = Сақтау және топты жабу
+tab-group-editor-action-ungroup =
+    .label = Беттерді топтан шығару
 tab-group-editor-action-delete =
     .label = Топты өшіру
 tab-group-editor-done =
