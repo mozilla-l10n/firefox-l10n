@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Fermer { $tabCount } onglets ?
 tabbrowser-confirm-close-tabs-button = Fermer les onglets
+tabbrowser-ask-close-tabs-checkbox = Me demander avant de fermer plusieurs onglets
 tabbrowser-confirm-close-tabs-checkbox = Confirmer avant la fermeture de plusieurs onglets
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -100,6 +101,9 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Fermer la fenêtre et quitter { -brand-short-name } ?
 tabbrowser-confirm-close-tabs-with-key-button = Quitter { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Me demander avant de quitter avec { $quitKey }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmer avant de quitter avec { $quitKey }

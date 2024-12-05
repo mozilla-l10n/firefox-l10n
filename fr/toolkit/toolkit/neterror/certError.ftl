@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Le certificat n’est pas sûr c
 cert-error-trust-expired-issuer = Le certificat n’est pas sûr car le certificat de l’autorité l’ayant délivré a expiré.
 cert-error-trust-self-signed = Le certificat n’est pas sûr car il est auto-signé.
 cert-error-trust-symantec = Les certificats émis par GeoTrust, RapidSSL, Symantec, Thawte et VeriSign ne sont plus considérés comme sécurisés car ces autorités de certification ont, dans le passé, omis de respecter des pratiques de sécurité.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ne fait pas confiance à { $hostname }, car il n’a pas pu prouver qu’il répond aux exigences de transparence des certificats publics.
 cert-error-untrusted-default = Le certificat ne provient pas d’une source sûre.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

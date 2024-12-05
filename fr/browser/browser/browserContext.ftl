@@ -162,6 +162,12 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Copier le lien
     .accesskey = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Copier le lien nettoyé
+    .accesskey = C
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
@@ -290,9 +296,7 @@ main-context-menu-send-to-device =
     .label = Envoyer la page à un appareil
     .accesskey = v
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Utiliser l’identifiant enregistré
