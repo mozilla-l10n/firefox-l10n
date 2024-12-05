@@ -61,14 +61,14 @@ newtab-confirm-delete-history-p2 = St'azziuni nun si po sfari.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Rapi u minù
-    .aria-label = Rapi u minù
+    .title = Grapi u minù
+    .aria-label = Grapi u minù
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Rapi u minù
-    .aria-label = Rapi u minù cuntistuali pi { $title }
+    .title = Grapi u minù
+    .aria-label = Grapi u minù cuntistuali pi { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Cancia stu situ
@@ -77,8 +77,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Cancia
-newtab-menu-open-new-window = Rapi nta na finestra nova
-newtab-menu-open-new-private-window = Rapi nta na finestra privata nova
+newtab-menu-open-new-window = Grapi nta na finestra nova
+newtab-menu-open-new-private-window = Grapi nta na finestra privata nova
 newtab-menu-dismiss = Leva
 newtab-menu-pin = Appuntiḍḍa
 newtab-menu-unpin = Spuntiḍḍa
@@ -115,9 +115,9 @@ newtab-menu-remove-download = Cancella dâ crunuluggìa
 newtab-menu-show-file =
     { PLATFORM() ->
         [macos] Mustra nne Finder
-       *[other] Rapi a carpetta unni s'attrova
+       *[other] Grapi a carpetta unni s'attrova
     }
-newtab-menu-open-file = Rapi pricu
+newtab-menu-open-file = Grapi pricu
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that

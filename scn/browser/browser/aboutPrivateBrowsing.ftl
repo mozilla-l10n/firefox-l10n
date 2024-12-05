@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = Rapi na finestra privata
+privatebrowsingpage-open-private-window-label = Grapi na finestra privata
     .accesskey = p
 about-private-browsing-search-placeholder = Cerca nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata

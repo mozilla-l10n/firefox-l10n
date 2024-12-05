@@ -19,7 +19,7 @@ unified-extensions-manage-extensions =
 # Variables:
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
-    .aria-label = Rapi minù pi { $extensionName }
+    .aria-label = Grapi minù pi { $extensionName }
 unified-extensions-item-message-manage = Manija stinneriu
 
 ## Extension's context menu

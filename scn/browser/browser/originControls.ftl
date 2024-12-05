@@ -12,7 +12,7 @@
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
-origin-controls-state-runnable-hover-open = Rapi stinneriu
+origin-controls-state-runnable-hover-open = Grapi stinneriu
 origin-controls-state-runnable-hover-run = Abbìa stinneriu
 
 ## Extension's toolbar button.

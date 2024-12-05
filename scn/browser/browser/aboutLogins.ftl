@@ -23,7 +23,7 @@ fxaccounts-avatar-button =
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = Rapi u minù
+    .title = Grapi u minù
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Mporta di n'autru navigaturi…
 about-logins-menu-menuitem-import-from-a-file = Mporta d'un pricu…

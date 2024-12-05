@@ -98,8 +98,8 @@ ctrl-tab-recently-used-order =
     .label = Ctrl+Tab scurri i schedi nna l'ùrdini d'usu ricenti
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Rapi i lijami nnê schedi mmeci ca nna finestri novi
-    .accesskey = R
+    .label = Grapi i lijami nnê schedi mmeci ca nna finestri novi
+    .accesskey = G
 warn-on-open-many-tabs =
     .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
@@ -366,7 +366,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi finestri e schedi
-home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu rapi a pàggina mastra, novi finestri o novi schedi.
+home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu grapi a pàggina mastra, novi finestri o novi schedi.
 
 ## Home Section - Home Page Customization
 

@@ -19,43 +19,43 @@ urlbar-identity-button =
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = Rapi quatru cû missaggiu di nzitamentu
+    .tooltiptext = Grapi quatru cû missaggiu di nzitamentu
 urlbar-web-notification-anchor =
     .tooltiptext = Dicidi si ricìviri nutìfichi di stu situ
 urlbar-midi-notification-anchor =
-    .tooltiptext = Rapi quatru MIDI
+    .tooltiptext = Grapi quatru MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = Manija l'usu dî prugrammi DRM
 urlbar-web-authn-anchor =
-    .tooltiptext = Rapi quatru d'autinticazziuni pî riti
+    .tooltiptext = Grapi quatru d'autinticazziuni pî riti
 urlbar-canvas-notification-anchor =
     .tooltiptext = Manija pirmisi d'estrazziuni dâ tila
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Manija a spartuta dû micròfunu cu stu situ
 urlbar-default-notification-anchor =
-    .tooltiptext = Rapi quatru dî missaggi
+    .tooltiptext = Grapi quatru dî missaggi
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Rapi quatru dâ richiesta dâ pusizziuni
+    .tooltiptext = Grapi quatru dâ richiesta dâ pusizziuni
 urlbar-xr-notification-anchor =
-    .tooltiptext = Rapi quatru dî pirmisi pâ rialtà virtuali
+    .tooltiptext = Grapi quatru dî pirmisi pâ rialtà virtuali
 urlbar-storage-access-anchor =
-    .tooltiptext = Rapi quatru dî pirmisi pâ navigazzioni
+    .tooltiptext = Grapi quatru dî pirmisi pâ navigazzioni
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Manija a spartuta dî finestri o dû schirmu cu stu situ
 urlbar-indexed-db-notification-anchor =
-    .tooltiptext = Rapi quatru di l'archiviu fora linia
+    .tooltiptext = Grapi quatru di l'archiviu fora linia
 urlbar-password-notification-anchor =
-    .tooltiptext = Rapi u quatru dî missaggi di sarbataggiu dî chiavi
+    .tooltiptext = Grapi u quatru dî missaggi di sarbataggiu dî chiavi
 urlbar-plugins-notification-anchor =
     .tooltiptext = Manija l'usu di l'agghiuncitini
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manija a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
 urlbar-autoplay-notification-anchor =
-    .tooltiptext = Rapi quatru dâ ripruduzziuni autumàtica
+    .tooltiptext = Grapi quatru dâ ripruduzziuni autumàtica
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarba dati nni l'archiviu pirmanenti
 urlbar-addons-notification-anchor =
-    .tooltiptext = Rapi u quatru dî missaggi di nzitamentu di l'agghiuncitini
+    .tooltiptext = Grapi u quatru dî missaggi di nzitamentu di l'agghiuncitini
 urlbar-tip-help-icon =
     .title = Fatti ajutari
 
@@ -407,8 +407,8 @@ toolbar-button-email-link =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = Rapi pricu
-    .tooltiptext = Rapi un pricu ({ $shortcut })
+    .label = Grapi pricu
+    .tooltiptext = Grapi un pricu ({ $shortcut })
 
 ## EME notification panel
 

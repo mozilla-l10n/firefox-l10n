@@ -3,8 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-open-link-new-tab =
-    .label = Rapi a lijami nta na scheda nova
+    .label = Grapi a lijami nta na scheda nova
 styleeditor-find =
     .label = Trova
     .accesskey = v
-

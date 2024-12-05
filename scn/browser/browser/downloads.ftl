@@ -40,9 +40,9 @@ downloads-cmd-choose-unblock-panel =
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Rapi o cancella pricu
+    .tooltiptext = Grapi o cancella pricu
 downloads-cmd-choose-open-panel =
-    .aria-label = Rapi o cancella pricu
+    .aria-label = Grapi o cancella pricu
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
@@ -50,7 +50,7 @@ downloads-show-more-information =
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
-    .value = Rapi pricu
+    .value = Grapi pricu
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app

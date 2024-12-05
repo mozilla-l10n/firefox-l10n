@@ -81,19 +81,19 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-open-link =
-    .label = Rapi a lijami
+    .label = Grapi a lijami
     .accesskey = l
 main-context-menu-open-link-new-tab =
-    .label = Rapi a lijami nta na scheda nova
+    .label = Grapi a lijami nta na scheda nova
     .accesskey = s
 main-context-menu-open-link-container-tab =
-    .label = Rapi a lijami nta na scheda di cuntinituri nova
+    .label = Grapi a lijami nta na scheda di cuntinituri nova
     .accesskey = c
 main-context-menu-open-link-new-window =
-    .label = Rapi a lijami nta na finestra nova
+    .label = Grapi a lijami nta na finestra nova
     .accesskey = f
 main-context-menu-open-link-new-private-window =
-    .label = Rapi a lijami nta na finestra privata nova
+    .label = Grapi a lijami nta na finestra privata nova
     .accesskey = a
 main-context-menu-save-link =
     .label = Sarba a lijami comu…
@@ -176,9 +176,7 @@ main-context-menu-audio-email =
     .label = Manna u sonu…
     .accesskey = a
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ##
@@ -190,10 +188,10 @@ main-context-menu-frame-show-this =
     .label = Mustra sulu stu quatru
     .accesskey = M
 main-context-menu-frame-open-tab =
-    .label = Rapi u quatru nta na scheda nova
+    .label = Grapi u quatru nta na scheda nova
     .accesskey = s
 main-context-menu-frame-open-window =
-    .label = Rapi u quatru nta na finestra nova
+    .label = Grapi u quatru nta na finestra nova
     .accesskey = f
 main-context-menu-frame-reload =
     .label = Càrrica arrè u quatru

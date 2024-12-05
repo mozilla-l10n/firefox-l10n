@@ -19,8 +19,8 @@ synced-tabs-sidebar-search =
 ## window. The bookmarks manager context's strings are located in places.ftl.
 
 synced-tabs-context-open =
-    .label = Rapi
-    .accesskey = R
+    .label = Grapi
+    .accesskey = G
 
 ##
 
@@ -28,7 +28,7 @@ synced-tabs-context-copy =
     .label = Copia
     .accesskey = C
 synced-tabs-context-open-all-in-tabs =
-    .label = Rapi tutti nnê schedi
+    .label = Grapi tutti nnê schedi
     .accesskey = t
 synced-tabs-context-manage-devices =
     .label = Manija dispusitivi…

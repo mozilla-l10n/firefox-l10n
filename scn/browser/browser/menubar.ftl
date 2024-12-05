@@ -54,10 +54,10 @@ menu-file-new-private-window =
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
-    .label = Rapi nnirizzu…
+    .label = Grapi nnirizzu…
 menu-file-open-file =
-    .label = Rapi pricu…
-    .accesskey = R
+    .label = Grapi pricu…
+    .accesskey = G
 menu-file-close-window =
     .label = Chiuji finestra
     .accesskey = f

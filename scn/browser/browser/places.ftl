@@ -3,8 +3,8 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 places-open =
-    .label = Rapi
-    .accesskey = R
+    .label = Grapi
+    .accesskey = G
 places-history =
     .aria-label = Crunuluggìa
 places-bookmarks-search =
