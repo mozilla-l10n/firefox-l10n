@@ -2,13 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Amassaɣay n uɣelluy
-crashreporter-crash-message = { -brand-short-name } yufa-d ugur arussin u yeɣli.
 crashreporter-plea = Iwakken ad ɣ-d-tefkeḍ tallalt i tifin akked useɣti n wugur-agi, tzemreḍ ad ɣ-d-tazeneḍ assaɣ n uɣelluy.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Ttfaṣil: { $details }
 crashreporter-no-run-message = Asnas-agi ittuselkem deffir n uɣelluy iwakken ad yazen ugur yeḍṛan i umaẓrag n usnas. Ur issefk ara ad ittusenker s srid.
 crashreporter-button-details = Aglam leqqayen…
+crashreporter-loading-details = Asali…
 crashreporter-view-report-title = Agbur n ussaɣ
 crashreporter-comment-prompt = Rnu awennit (Iwenniten ad ten-walin akk yemdanen)
 crashreporter-report-info = Assaɣ-agi yegber diɣen talɣut tatiknikant ɣef waddad n usnas m'akken yeɣli.

@@ -32,6 +32,10 @@ about-logging-preset-networking-websocket-label = Igrudam n tuqqna
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Taɣuri n wallalen n teywalt
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-gfx-label = Udlifen
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Udmawan
 # Error handling
 about-logging-error = Tuccḍa:

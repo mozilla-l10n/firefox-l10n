@@ -4,6 +4,7 @@
 
 about-networking-title = Talɣut ɣef uẓeṭṭa
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Sfeḍ tuffirt HTTP
 about-networking-sockets = Igrudmawen
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Sfeḍ tuffirt DNS
