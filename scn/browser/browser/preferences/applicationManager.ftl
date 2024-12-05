@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window2 =
-    .title = Dittagghi appricazziuni
+    .title = Minutagghi applicazzioni
     .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Leva
@@ -18,5 +18,5 @@ app-manager-handle-file = L'applicazzioni appressu si ponnu usari pi manijari cu
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = St'appricazziuni di riti è uspitata nne:
-app-manager-local-app-info = St'appricazziuni s'attrova nne:
+app-manager-web-app-info = St'applicazzioni di riti è uspitata nne:
+app-manager-local-app-info = St'applicazzioni s'attrova nne:

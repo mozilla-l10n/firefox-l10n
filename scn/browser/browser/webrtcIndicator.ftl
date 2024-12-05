@@ -9,7 +9,7 @@
 
 ## Used as list items in sharing menu
 
-webrtc-item-application = appricazziuni
+webrtc-item-application = applicazzioni
 
 ##
 
