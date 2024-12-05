@@ -635,6 +635,15 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Cerrar
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings = Configuración de Búsqueda
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, elegir un buscador
+    .tooltiptext = { $engine }, elegir un buscador
+urlbar-searchmode-button-no-engine =
+    .label = No hay acceso directo seleccionado, elige uno.
+    .tooltiptext = No hay acceso directo seleccionado, elige uno.
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -957,6 +966,9 @@ data-reporting-notification-button =
     .accesskey = c
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navegación privada
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -965,7 +977,7 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Protección de datos
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Su organización utiliza { $agentName } para protegerse contra la pérdida de datos. <a data-l10n-name="info">Más información</a>
+content-analysis-panel-text-styled = Tu organización utiliza <b>{ $agentName }</b> para protegerse contra la pérdida de datos. <a data-l10n-name="info">Aprender más</a>
 
 ## Unified extensions (toolbar) button
 
@@ -990,6 +1002,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Extensiones
         Algunas extensiones no están permitidas
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
