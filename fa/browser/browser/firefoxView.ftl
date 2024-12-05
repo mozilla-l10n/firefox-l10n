@@ -5,10 +5,17 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = مرورهای اخیر را در پنجره‌ها و دستگاه‌ها مشاهده کنید
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = ب
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = بستن
     .aria-label = بستن
