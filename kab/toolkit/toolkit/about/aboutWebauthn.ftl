@@ -21,11 +21,13 @@ about-webauthn-confirm-deletion-section-title = Sentem tukksa
 
 ## Info field texts
 
+about-webauthn-text-not-available = Ulac ɣef tɣerɣert-a.
 
 ## Results label
 
 about-webauthn-results-success = Ifuk!
 about-webauthn-results-general-error = Tuccḍa!
+about-webauthn-results-pin-too-long-error = Tuccḍa: Tangalt-a PIN ɣezzifet aṭas.
 
 ## Labels
 
@@ -40,6 +42,8 @@ about-webauthn-confirm-deletion-label = Aqla-k ad tekkseḍ:
 
 about-webauthn-current-set-pin-button = Sesteb tangalt PIN
 about-webauthn-current-change-pin-button = Senfel tangalt PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Inekcam n tebdart
 about-webauthn-cancel-button = Sefsex
 about-webauthn-send-pin-button = IH
 about-webauthn-delete-button = Kkes

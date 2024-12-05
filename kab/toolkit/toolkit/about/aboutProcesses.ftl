@@ -127,6 +127,7 @@ about-processes-utility-actor-mf-media-engine = CDM n umsedday n unadi n umidyat
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle JavaScript
 about-processes-utility-actor-windows-utils = Ihallen n tanfa n Windows
+about-processes-utility-actor-windows-file-dialog = Adiwenni n ufaylu Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:

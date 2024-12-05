@@ -57,6 +57,11 @@ client-auth-window =
     .title = Asuter n usulu n useqdac
 client-auth-site-description = Asmel-agi ad yessutur asulu s uselkin n tɣellist:
 client-auth-choose-cert = Fren aselkin i usulay
+client-auth-send-no-certificate =
+    .label = Ur ttazen ara aselkin
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” ad yessutur asulu s uselkin n tɣellist:
 client-auth-cert-details = Talqayt n uselkin yettwafernen:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
