@@ -380,6 +380,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙سپانسر تھیا
 newtab-weather-menu-change-location = مقام وٹاؤ
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = مقام ڳولو
+    .aria-label = مقام ڳولو
 newtab-weather-change-location-search-input = مقام ڳولو
 newtab-weather-menu-weather-display = موسم دا ڈسپلے
 # Display options are:
