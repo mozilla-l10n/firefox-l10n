@@ -384,6 +384,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Oykekóva
 newtab-weather-menu-change-location = Emoambue tendatee
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Eheka tendatee
+    .aria-label = Eheka tendatee
 newtab-weather-change-location-search-input = Eheka tendatee
 newtab-weather-menu-weather-display = Ára jehechaha
 # Display options are:
