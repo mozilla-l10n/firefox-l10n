@@ -41,7 +41,7 @@ about-logins-menu-menuitem-help = Ajutu
 ## Login List
 
 login-list =
-    .aria-label = Cridinziali currispunnenti â ricerca
+    .aria-label = Cridinziali currispunnenti â risciduta
 # Variables
 #   $count (number) - Number of logins
 login-list-count =
@@ -85,7 +85,7 @@ login-list-intro-title2 = Nuḍḍa chiavi sarbata
 login-list-intro-description = Quannu sarbi na chiavi nne { -brand-product-name }, veni mustrata cca.
 about-logins-login-list-empty-search-title = Nuḍḍa cridinziali truvata
 about-logins-login-list-empty-search-title2 = Nuḍḍa chiavi truvata
-about-logins-login-list-empty-search-description = Nun cci sunnu risurtati pâ to ricerca.
+about-logins-login-list-empty-search-description = Nun cci sunnu risurtati pâ to risciduta.
 login-list-item-title-new-login = Nova cridinziali
 login-list-item-subtitle-new-login = Metti i cridinziali d'accessu
 login-list-item-title-new-login2 = Agghiunci chiavi
