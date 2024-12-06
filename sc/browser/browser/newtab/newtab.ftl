@@ -376,6 +376,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Isponsorizadu
 newtab-weather-menu-change-location = Càmbia positzione
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Chirca positzione
+    .aria-label = Chirca positzione
 newtab-weather-change-location-search-input = Chirca positzione
 newtab-weather-menu-weather-display = Vista de su tempus
 # Display options are:
