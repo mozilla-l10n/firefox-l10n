@@ -106,12 +106,35 @@ about-glean-adhoc-note =
     Xin lưu ý rằng bạn đang sử dụng API Glean JS bằng cách sử dụng bảng điều khiển devtools.
     Điều này có nghĩa là danh mục chỉ số và tên chỉ số được định dạng trong
     <code>camelCase</code> sẽ không giống như ở Rust và C++ API.
+about-glean-profiler-explanation-profiler =
+    Trong hồ sơ hiệu suất, bạn có thể xem tất cả số liệu được thu thập, thời điểm chúng được
+    thu thập và chính xác những giá trị nào được thu thập. Bằng cách di chuột vào các điểm đánh dấu riêng lẻ,
+    bạn có thể xác nhận rằng giá trị chính xác đã được thu thập và việc thu thập đó diễn ra vào đúng thời điểm.
 controls-button-label-verbose = Áp dụng cài đặt và gửi ping
 about-glean-feedback-settings-only =
     .message = Đã áp dụng cài đặt!
 about-glean-feedback-settings-and-ping =
     .message = Đã áp dụng cài đặt và đã gửi ping!
 about-glean-about-data-header = Về dữ liệu
+about-glean-about-data-description =
+    Có một số công cụ khác nhau mà bạn có thể sử dụng để xem dữ liệu của mình, tùy thuộc vào
+    những gì bạn đang tìm kiếm.
+about-glean-about-data-description-list-intro =
+    Hãy tham khảo danh sách dưới đây để biết các trường hợp
+    sử dụng cụ thể cho từng công cụ:
+about-glean-about-data-list-item-dictionary =
+    Để duyệt danh sách dữ liệu được thu thập bởi { -glean-brand-name } cho mỗi ứng dụng, vui lòng tham khảo
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Để duyệt dữ liệu được thu thập bằng phương pháp đo từ xa cũ, vui lòng tham khảo
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Để duyệt qua tag gỡ lỗi, xem ping đầy đủ, xem live event stream hoặc xem hình ảnh trực quan
+    về số liệu, vui lòng tham khảo
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Để ghi lại hồ sơ hiệu suất và xem tất cả số liệu được ghi lại, vui lòng sử dụng
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.
