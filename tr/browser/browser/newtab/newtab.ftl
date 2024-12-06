@@ -381,6 +381,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorlu
 newtab-weather-menu-change-location = Konumu değiştir
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Konum ara
+    .aria-label = Konum ara
 newtab-weather-change-location-search-input = Konum ara
 newtab-weather-menu-weather-display = Hava durumu göstergesi
 # Display options are:
