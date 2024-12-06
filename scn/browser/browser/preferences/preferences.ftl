@@ -449,7 +449,7 @@ search-separate-default-engine =
     .label = Usa stu muturi di risciduta nnê finestri privati
     .accesskey = U
 search-suggestions-header = Suggirimenti di risciduta
-search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî muturi di risciduta.
+search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî mutura di risciduta.
 search-suggestions-option =
     .label = Dùnami suggirimenti di risciduta
     .accesskey = D
@@ -770,6 +770,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
     .accesskey = S
+addressbar-locbar-engines-option =
+    .label = Mutura di risciduta
+    .accesskey = M
 addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi di risciduta
 
 ## Privacy Section - Content Blocking
