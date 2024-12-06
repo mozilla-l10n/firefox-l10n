@@ -19,6 +19,8 @@ neterror-try-again-button = Torna a prova
 
 ## Specific error messages
 
+neterror-load-error-firewall = Si u to computer o a riti è prutetta d'un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmisu d'accèdiri â riti.
+neterror-dns-not-found-hint-firewall = Cuntrolla chi { -brand-short-name } àvi u pirmisu d'accèdiri â riti (putissi èssiri cullijatu ma prutettu d'un tagghiafocu)
 
 ## TRR-only specific messages
 ## Variables:
@@ -33,3 +35,4 @@ neterror-try-again-button = Torna a prova
 
 ##
 
+neterror-proxy-resolve-failure-firewall = Si u to computer o a riti è prutetta d'un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmisu d'accèdiri â riti.
