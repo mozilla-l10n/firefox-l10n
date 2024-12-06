@@ -390,6 +390,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Wedi'i noddi
 newtab-weather-menu-change-location = Newid lleoliad
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Chwilio am leoliad
+    .aria-label = Chwilio am leoliad
 newtab-weather-change-location-search-input = Chwilio am leoliad
 newtab-weather-menu-weather-display = Dangos y tywydd
 # Display options are:
