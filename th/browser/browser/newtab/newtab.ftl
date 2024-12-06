@@ -384,6 +384,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = สนับสนุนโดย { $provider }
 newtab-weather-menu-change-location = เปลี่ยนตำแหน่งที่ตั้ง
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = ค้นหาตำแหน่งที่ตั้ง
+    .aria-label = ค้นหาตำแหน่งที่ตั้ง
 newtab-weather-change-location-search-input = ค้นหาตำแหน่งที่ตั้ง
 newtab-weather-menu-weather-display = การแสดงผลพยากรณ์อากาศ
 # Display options are:
