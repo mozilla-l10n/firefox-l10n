@@ -227,6 +227,9 @@ newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -brand-product-name }“ šeimos dalis
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -252,9 +255,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Rėmėjų leistukai
 newtab-custom-pocket-title = Rekomenduoja „{ -pocket-brand-name }“
 newtab-custom-pocket-subtitle = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
-newtab-custom-pocket-toggle =
-    .label = Rekomenduoja „{ -pocket-brand-name }“
-    .description = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
 newtab-custom-pocket-sponsored = Rėmėjų straipsniai
 newtab-custom-recent-title = Paskiausia veikla
 newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
@@ -263,3 +263,24 @@ newtab-custom-recent-toggle =
     .description = Paskiausiai lankytos svetainės ir žiūrėtas turinys
 newtab-custom-close-button = Užverti
 newtab-custom-settings = Keisti daugiau nuostatų
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
