@@ -374,6 +374,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponsorēts
 newtab-weather-menu-change-location = Mainīt atrašanās vietu
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Meklēt atrašanās vietu
+    .aria-label = Meklēt atrašanās vietu
 newtab-weather-change-location-search-input = Meklēt atrašanās vietu
 newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
 # Display options are:
