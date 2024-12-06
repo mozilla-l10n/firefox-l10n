@@ -28,7 +28,7 @@ account-manage-devices-titlecase = Manija dispusitivi…
 ## and the account has only 1 device connected.
 
 # Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Nuḍḍu dispusitivu cunnessu
+account-send-tab-to-device-singledevice-status = Nuḍḍu dispusitivu cullijatu
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Cchiù nfurmazzioni supra a comu mannari schedi…
 # Redirects to an FxAccounts page that tells to you to connect another device.
@@ -87,8 +87,8 @@ account-multiple-tabs-arriving-from-single-device =
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
-        [one] Arrivò { $tabCount } scheda dî to dispusitivi cunnessi
-       *[other] Arrivaru { $tabCount } schedi dî to dispusitivi cunnessi
+        [one] Agghicau { $tabCount } scheda dî to dispusitivi cullijati
+       *[other] Agghicaru { $tabCount } schedi dî to dispusitivi cullijati
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
