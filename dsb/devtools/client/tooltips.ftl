@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Wobgranicowanja <st
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo pozicioněrowany element.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> na toś ten element wustatkowanje njama, dokulaž dajo se jano na wuměnjone elementy nałožyś.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž gódnota <strong>overflow:hidden</strong> njejo nastajona.
+inactive-css-no-size-containment = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž wobgranicowanje wjelikosći njama.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> njama žeden efekt na interne tabelowe elementy.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> njama žeden efekt na interne tabelowe elementy mimo tabelowych celow.
 inactive-css-not-table = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo tabela.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> na toś ten element wustatk
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
