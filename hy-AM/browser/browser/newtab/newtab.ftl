@@ -281,6 +281,9 @@ newtab-wallpaper-reset = Վերակայել սկզբնադիրը
 ## New Tab Weather
 
 newtab-weather-menu-change-location = Փոխել գտնվելու վայրը
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Որոնել գտնվելու վայրը
+    .aria-label = Որոնել գտնվելու վայրը
 newtab-weather-change-location-search-input = Որոնել գտնվելու վայրը
 newtab-weather-menu-weather-display = Եղանակի ցուցադրում
 # Display options are:
