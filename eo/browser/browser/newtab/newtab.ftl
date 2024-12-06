@@ -373,6 +373,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Patronita
 newtab-weather-menu-change-location = Ŝanĝi lokon
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Serĉi lokon
+    .aria-label = Serĉi lokon
 newtab-weather-change-location-search-input = Serĉi lokon
 newtab-weather-menu-weather-display = Montro de vetero
 # Display options are:
