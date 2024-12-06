@@ -392,6 +392,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙Sponzorované
 newtab-weather-menu-change-location = Změnit místo
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Hledat umístění
+    .aria-label = Hledat umístění
 newtab-weather-change-location-search-input = Hledat umístění
 newtab-weather-menu-weather-display = Zobrazení počasí
 # Display options are:
