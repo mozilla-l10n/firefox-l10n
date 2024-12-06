@@ -111,6 +111,9 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Nastajenja su se nałožyli a ping jo se pósłał!
 about-glean-about-data-header = Wó datach
+about-glean-about-data-description =
+    Dajo někotare rozdźělne rědy, kótarež móžośo wužywaś, aby se swóje daty woglědał, wótwisujucy wót togo,
+    což pytaśo.
 about-glean-about-data-explanation =
     Aby lisćinu zgromaźonych datow pśepytował, konsultěrujśo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
