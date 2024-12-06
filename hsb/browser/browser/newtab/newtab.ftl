@@ -387,6 +387,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponsorowany
 newtab-weather-menu-change-location = Městno změnić
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Městno pytać
+    .aria-label = Městno pytać
 newtab-weather-change-location-search-input = Městno pytać
 newtab-weather-menu-weather-display = Wjedrowe pokazanje
 # Display options are:
