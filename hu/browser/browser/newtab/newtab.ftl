@@ -385,6 +385,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Szponzorálva
 newtab-weather-menu-change-location = Hely módosítása
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Keresési hely
+    .aria-label = Keresési hely
 newtab-weather-change-location-search-input = Keresési hely
 newtab-weather-menu-weather-display = Időjárás-kijelző
 # Display options are:

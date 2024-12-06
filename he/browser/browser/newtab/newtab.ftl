@@ -379,6 +379,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = ‏{ $provider } ∙ ממומן
 newtab-weather-menu-change-location = שינוי מקום
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = חיפוש מקום
+    .aria-label = חיפוש מקום
 newtab-weather-change-location-search-input = חיפוש מקום
 newtab-weather-menu-weather-display = תצוגת מזג אוויר
 # Display options are:

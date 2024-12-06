@@ -224,6 +224,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ແມ່ນສ່�
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = ຄົ້ນພົບສິ່ງທີ່ດີທີ່ສຸດຂອງເວັບ
@@ -248,9 +251,6 @@ newtab-custom-row-selector = { $num } ແຖວ
 newtab-custom-sponsored-sites = ທາງລັດສະປອນເຊີ
 newtab-custom-pocket-title = ແນະນຳໂດຍ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = ແນະນຳໂດຍ { -pocket-brand-name }
-    .description = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ
 newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
@@ -260,3 +260,24 @@ newtab-custom-recent-toggle =
     .description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
 newtab-custom-close-button = ປິດ
 newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພີ່ມເຕີມ
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

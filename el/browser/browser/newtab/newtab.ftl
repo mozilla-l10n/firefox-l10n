@@ -385,6 +385,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Χορηγία
 newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Αναζήτηση τοποθεσίας
+    .aria-label = Αναζήτηση τοποθεσίας
 newtab-weather-change-location-search-input = Αναζήτηση τοποθεσίας
 newtab-weather-menu-weather-display = Προβολή καιρού
 # Display options are:

@@ -337,6 +337,9 @@ feature-highlight-dismiss-button =
 ## New Tab Weather
 
 newtab-weather-menu-change-location = Aldatu kokapena
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Bilatu kokapena
+    .aria-label = Bilatu kokapena
 newtab-weather-change-location-search-input = Bilatu kokapena
 newtab-weather-menu-weather-display = Eguraldia bistaratzea
 # Display options are:

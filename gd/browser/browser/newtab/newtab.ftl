@@ -230,6 +230,9 @@ newtab-pocket-pocket-firefox-family = Tha { -pocket-brand-name } ’na phàirt d
 newtab-pocket-save = Sàbhail
 newtab-pocket-saved = Air a shàbhaladh
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Faigh lorg air brod an lìn
@@ -260,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Ath-ghoiridean sponsairichte
 newtab-custom-pocket-title = ’Ga mholadh le { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Sàr-shusbaint ’ga thasgadh le { -pocket-brand-name } mar phàirt de theaghlach { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = ’Ga mholadh le { -pocket-brand-name }
-    .description = Sàr-shusbaint ’ga thasgadh le { -pocket-brand-name } mar phàirt de theaghlach { -brand-product-name }
 newtab-custom-pocket-sponsored = Sgeulachdan sponsairichte
 newtab-custom-pocket-show-recent-saves = Seall na chaidh a shàbhaladh o chionn goird
 newtab-custom-recent-title = Gnìomhachd o chionn goirid
@@ -272,3 +272,24 @@ newtab-custom-recent-toggle =
     .description = Roghainn de làraichean is susbaint faisg ort
 newtab-custom-close-button = Dùin
 newtab-custom-settings = Stiùirich barrachd roghainnean
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

@@ -385,6 +385,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Gesponsord
 newtab-weather-menu-change-location = Locatie wijzigen
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Locatie zoeken
+    .aria-label = Locatie zoeken
 newtab-weather-change-location-search-input = Locatie zoeken
 newtab-weather-menu-weather-display = Weerweergave
 # Display options are:

@@ -227,6 +227,9 @@ newtab-pocket-cta-button = Hangi { -pocket-brand-name }
 newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name } perekonnast
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -251,9 +254,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsitud otseteed
 newtab-custom-pocket-title = { -pocket-brand-name }i poolt soovitatud
 newtab-custom-pocket-subtitle = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { -pocket-brand-name }
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name }i poolt soovitatud
-    .description = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { -pocket-brand-name }
 newtab-custom-pocket-sponsored = Sponsitud lood
 newtab-custom-pocket-show-recent-saves = Kuvatakse hiljutisi salvestamisi
 newtab-custom-recent-title = Hiljutine tegevus
@@ -263,3 +263,24 @@ newtab-custom-recent-toggle =
     .description = Valik hiljutisi saite ja sisu
 newtab-custom-close-button = Sulge
 newtab-custom-settings = Halda rohkem sätteid
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

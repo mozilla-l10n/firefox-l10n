@@ -385,6 +385,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Kostað
 newtab-weather-menu-change-location = Breyta staðsetningu
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Leita að staðsetningu
+    .aria-label = Leita að staðsetningu
 newtab-weather-change-location-search-input = Leita að staðsetningu
 newtab-weather-menu-weather-display = Birting veðurs
 # Display options are:

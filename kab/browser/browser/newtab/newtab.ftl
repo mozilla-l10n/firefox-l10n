@@ -335,6 +335,9 @@ feature-highlight-wallpaper =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ S lmendad
 newtab-weather-menu-change-location = Ẓreg adig
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Adig n unadi
+    .aria-label = Adig n unadi
 newtab-weather-change-location-search-input = Adig n unadi
 newtab-weather-menu-weather-display = Askan n tegnawt
 # Display options are:

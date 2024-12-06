@@ -229,6 +229,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-produc
 newtab-pocket-save = Tiyak
 newtab-pocket-saved = Xyak
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Tawila' ri rutzil ajk'amaya'l
@@ -256,9 +259,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Xto' chojmin okem
 newtab-custom-pocket-title = Chilab'en ruma { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cha'on rupam cha'on ruma { -pocket-brand-name }, rach'ala'ïl { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Chilab'en ruma { -pocket-brand-name }
-    .description = Cha'on rupam cha'on ruma { -pocket-brand-name }, rach'ala'ïl { -brand-product-name }
 newtab-custom-pocket-sponsored = To'on taq b'anob'äl
 newtab-custom-pocket-show-recent-saves = Kek'ut k'ab'a' eyakon
 newtab-custom-recent-title = K'ak'a' samaj
@@ -268,3 +268,24 @@ newtab-custom-recent-toggle =
     .description = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
 newtab-custom-close-button = Titz'apïx
 newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

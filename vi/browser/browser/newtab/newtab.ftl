@@ -384,6 +384,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Được tài trợ
 newtab-weather-menu-change-location = Thay đổi khu vực
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Tìm kiếm khu vực
+    .aria-label = Tìm kiếm khu vực
 newtab-weather-change-location-search-input = Tìm kiếm khu vực
 newtab-weather-menu-weather-display = Cách hiển thị thời tiết
 # Display options are:

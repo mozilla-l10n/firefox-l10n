@@ -294,6 +294,9 @@ feature-highlight-wallpaper =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ අනුග්‍රහය
 newtab-weather-menu-change-location = ස්ථානය වෙනස් කරන්න
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = ස්ථානයක් සොයන්න
+    .aria-label = ස්ථානයක් සොයන්න
 newtab-weather-change-location-search-input = ස්ථානයක් සොයන්න
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

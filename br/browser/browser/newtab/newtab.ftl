@@ -347,6 +347,9 @@ feature-highlight-wallpaper =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Paeroniet
 newtab-weather-menu-change-location = Cheñch al lec’hiadur
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Klask ul lec’h
+    .aria-label = Klask ul lec’h
 newtab-weather-change-location-search-input = Klask ul lec’h
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

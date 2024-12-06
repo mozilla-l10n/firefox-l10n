@@ -227,6 +227,9 @@ newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Guardeu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -251,9 +254,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Dreceres patrocinades
 newtab-custom-pocket-title = Recomanat per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomanat per { -pocket-brand-name }
-    .description = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
 newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
@@ -262,3 +262,24 @@ newtab-custom-recent-toggle =
     .description = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+

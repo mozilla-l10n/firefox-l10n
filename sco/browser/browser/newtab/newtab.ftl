@@ -226,6 +226,9 @@ newtab-pocket-cta-button = Get { -pocket-brand-name }
 newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name }, and nourish yer mind wi some wunnerfu reads.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is pairt o the { -brand-product-name } faimily
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -250,9 +253,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsored shortcuts
 newtab-custom-pocket-title = Recommendit by { -pocket-brand-name }
 newtab-custom-pocket-subtitle = By-ordinar content pit thegither by { -pocket-brand-name }, pairt o the { -brand-product-name } faimily.
-newtab-custom-pocket-toggle =
-    .label = Recommendit by { -pocket-brand-name }
-    .description = By-ordinar content pit thegither by { -pocket-brand-name }, pairt o the { -brand-product-name } faimily.
 newtab-custom-pocket-sponsored = Sponsored stories
 newtab-custom-recent-title = Recent activity
 newtab-custom-recent-subtitle = A walin o recent sites and content
@@ -261,3 +261,24 @@ newtab-custom-recent-toggle =
     .description = A walin o recent sites and content
 newtab-custom-close-button = Sneck
 newtab-custom-settings = Manage mair settins
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
