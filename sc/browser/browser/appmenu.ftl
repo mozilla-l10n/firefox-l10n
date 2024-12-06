@@ -199,6 +199,7 @@ profiler-popup-presets-power-description = Profilu pro compidare faddinas de imp
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = Precunfiguratzione pro currègere faddinas in { -brand-shorter-name }. Est subracarrigadu meda, no dd’imprees pro atividades chi rechedant unu rendimentu artu, ma pro cumprèndere su cumportamentu de su navigadore.
 profiler-popup-presets-debug-label =
     .label = Curregi faddinas
 profiler-popup-presets-custom-label =

@@ -64,3 +64,32 @@ split-dismiss-button-manage-settings-option-label = Gesti sa cunfiguratzione
 
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
 sidebar-button-callout-subtitle = Imprea su butone pro ismanniare sa barra laterale, in manera chi potzas bìdere is tìtulos de is ischedas.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Agiuda a megiorare { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Cale est su livellu de satisfatzione tuo de s’esperièntzia cun sa barra laterale de { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Avisu de riservadesa
+sidebar-callout-survey-very-satisfied = Satisfatzione arta
+sidebar-callout-survey-satisfied = Satisfatzione mèdia
+sidebar-callout-survey-neutral = Indiferente
+sidebar-callout-survey-dissatisfied-2 = Nissuna satisfatzione
+sidebar-callout-survey-very-dissatisfied-2 = Discuntentesa arta
+sidebar-callout-survey-productive-question =
+    Cantu ses de acordu cun s’afirmatzione:<br/>
+    “Sa barra laterale de { -brand-short-name } m’agiudat cun sa produtividade”?
+sidebar-callout-survey-strongly-agree = De acordu meda
+sidebar-callout-survey-agree = De acordu
+sidebar-callout-survey-disagree = Non so de acordu
+sidebar-callout-survey-strongly-disagree = Pro nudda de acordu
+sidebar-callout-survey-features-question = Cussas in fatu sunt funtziones potentziales de sa barra laterale. Cales diant megiorare de prus sa produtividade in { -brand-short-name }?
+sidebar-callout-survey-split-view = Visualiza duos sitos impare, acostados in una visualizatzione partzida
+sidebar-callout-survey-keep-website-open = Mantene unu situ, comente posta eletrònica o calendàriu, abertu in sa barra laterale mentras ses navighende
+sidebar-callout-survey-saved-websites-2 = Atzessu lestru a is sinnalibros
+sidebar-callout-survey-none-of-above = Nissunu de custos
+sidebar-callout-survey-submit = Imbia
+sidebar-callout-survey-thank-you = Gràtzias de s’opinione tua!
+sidebar-genai-survey-satisfaction-question = Cale est su livellu de satisfatzione tuo cun s’atzessu a unu chatbot IA in sa barra laterale?
+sidebar-genai-survey-productive-question =
+    Cantu ses de acordu cun custa afirmatzione:<br/>
+    “Su chatbot IA in sa barra laterale m’agiudadu cun sa produtividade”?
