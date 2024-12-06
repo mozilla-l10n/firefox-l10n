@@ -384,6 +384,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ დაფინანსებული
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = მდებარეობის მოძიება
+    .aria-label = მდებარეობის მოძიება
 newtab-weather-change-location-search-input = მდებარეობის მოძიება
 newtab-weather-menu-weather-display = ამინდის ჩვენება
 # Display options are:
