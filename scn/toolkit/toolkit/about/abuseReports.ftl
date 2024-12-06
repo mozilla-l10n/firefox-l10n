@@ -20,4 +20,4 @@ abuse-report-messagebar-action-remove-theme = Se, cancèllalu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-settings-reason-v2 = Canciau u me muturi di ricerca, a me pàggina mastra o a me pàggina nova senza nfurmàrimi o addumannàrimi
+abuse-report-settings-reason-v2 = Canciau u me muturi di risciduta, a me pàggina mastra o a me pàggina nova senza nfurmàrimi o addumannàrimi

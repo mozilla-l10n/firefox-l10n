@@ -19,8 +19,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Cerca cu { $engine } o metti nu nnirizzu
 about-private-browsing-handoff-text-no-engine = Cerca o metti nu nnirizzu
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
-about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di ricerca e di navigazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
-about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di ricerca e di navigazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
+about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
+about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
 about-private-browsing-learn-more-link = Cchiù nfurmazzioni
 about-private-browsing-hide-activity = Ammuccia a to attività e unni ti trovi, unni vai-vai.
 about-private-browsing-get-privacy = Pigghia prutizzioni di sicurizza unni vai-vai
@@ -40,11 +40,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } pulizzìa a to
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } è u to muturi di ricerca pridifinutu nnê finestri privati
+about-private-browsing-search-banner-title = { $engineName } è u to muturi di risciduta pridifinutu nnê finestri privati
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Pi scartari n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
-       *[other] Pi scartari n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
+        [windows] Pi scartari n'autru muturi di risciduta, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
+       *[other] Pi scartari n'autru muturi di risciduta, vai nnî <a data-l10n-name="link-options">Prifirenzi</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Chiuji

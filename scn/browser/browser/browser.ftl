@@ -124,15 +124,15 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Cancia i mpustazzioni di ricerca
+    .tooltiptext = Cancia i mpustazzioni di risciduta
 search-one-offs-context-open-new-tab =
     .label = Cerca nta na scheda nova
     .accesskey = n
 search-one-offs-context-set-as-default =
-    .label = Metti comu muturi di ricerca pridifinutu
+    .label = Metti comu muturi di risciduta pridifinutu
     .accesskey = f
 search-one-offs-context-set-as-default-private =
-    .label = Metti comu muturi di ricerca pridifinutu pî finestri privati
+    .label = Metti comu muturi di risciduta pridifinutu pî finestri privati
     .accesskey = v
 
 ## Local search mode one-off buttons

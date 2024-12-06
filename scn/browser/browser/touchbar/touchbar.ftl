@@ -19,7 +19,7 @@ share = Sparti
 close-window = Chiuji finestra
 open-sidebar = Sbarri di ciancu
 # This string describes shortcuts for search.
-search-popover = Accurzi di ricerca
+search-popover = Accurzi di risciduta
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Cerca nne:

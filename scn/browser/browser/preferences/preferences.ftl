@@ -31,7 +31,7 @@ category-general =
 pane-home-title = Pàggina mastra
 category-home =
     .tooltiptext = { pane-home-title }
-pane-search-title = Ricerca
+pane-search-title = Riscedi
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Privatizza e sicurizza
@@ -75,7 +75,7 @@ extension-controlled-enable = P'abbilitari u stinneriu vai nnî <img data-l10n-n
 
 ## Preferences UI Search Results
 
-search-results-header = Risurtati dâ ricerca
+search-results-header = Risurtati dâ risciduta
 search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name="url">supportu di { -brand-short-name }</a>
 
 ## General Section
@@ -400,7 +400,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
-    .label = Ricerca nnâ riti
+    .label = Riscedi nnâ riti
 
 ## Home Section - Firefox Home Content Customization
 
@@ -437,24 +437,24 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Barra di ricerca
+search-bar-header = Barra di risciduta
 search-bar-hidden =
-    .label = Usa a barra dû nnirizzu pi ricerca e navigazzioni
+    .label = Usa a barra dû nnirizzu pi risciduti e navigazzioni
 search-bar-shown =
-    .label = Agghiunci sbarra di ricerca nnâ sbarra dî strumenti
-search-engine-default-header = Muturi di ricerca pridifinutu
-search-engine-default-desc-2 = Chistu è u to muturi di ricerca pridifinutu pâ barra dû nnirizzu e chiḍḍa di ricerca. Po' canciallu quannu voi.
-search-engine-default-private-desc-2 = Scarta n'autru muturi di ricerca sulu pî finestri privati.
+    .label = Agghiunci sbarra di risciduta nnâ sbarra dî strumenti
+search-engine-default-header = Muturi di risciduta pridifinutu
+search-engine-default-desc-2 = Chistu è u to muturi di risciduta pridifinutu pâ barra dû nnirizzu e chiḍḍa di risciduta. Po' canciallu quannu voi.
+search-engine-default-private-desc-2 = Scarta n'autru muturi di risciduta sulu pî finestri privati.
 search-separate-default-engine =
-    .label = Usa stu muturi di ricerca nnê finestri privati
+    .label = Usa stu muturi di risciduta nnê finestri privati
     .accesskey = U
-search-suggestions-header = Suggirimenti di ricerca
-search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî muturi di ricerca.
+search-suggestions-header = Suggirimenti di risciduta
+search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî muturi di risciduta.
 search-suggestions-option =
-    .label = Dùnami suggirimenti di ricerca
+    .label = Dùnami suggirimenti di risciduta
     .accesskey = D
 search-show-suggestions-url-bar-option =
-    .label = Mustra suggirimenti di ricerca nnê risurtati dâ sbarra dû nnirizzu
+    .label = Mustra suggirimenti di risciduta nnê risurtati dâ sbarra dû nnirizzu
     .accesskey = M
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -462,22 +462,22 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mustra suggirimenti di ricerca prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
+    .label = Mustra suggirimenti di risciduta prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
 search-show-suggestions-private-windows =
-    .label = Mustra suggirimenti di ricerca nnê finestri privati
-search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
-search-one-click-desc = Scarta l'autri mutura di ricerca ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
+    .label = Mustra suggirimenti di risciduta nnê finestri privati
+search-suggestions-cant-show = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
+search-one-click-desc = Scarta l'autri mutura di risciduta ca cumparìscinu sutta â barra dû nnirizzu e â barra di risciduta quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
-    .label = Muturi di ricerca
+    .label = Muturi di risciduta
 search-choose-keyword-column =
     .label = Palora-chiavi
 search-restore-default =
-    .label = Riprìstina i mutura di ricerca pridifinuti
+    .label = Riprìstina i mutura di risciduta pridifinuti
     .accesskey = D
 search-remove-engine =
     .label = Leva
     .accesskey = L
-search-find-more-link = Trova autri mutura di ricerca
+search-find-more-link = Trova autri mutura di risciduta
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dùplica palora-chiavi
@@ -694,7 +694,7 @@ history-remember-option-never =
     .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
-history-remember-description = { -brand-short-name } s'arricorda dâ to navigazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di ricerca.
+history-remember-description = { -brand-short-name } s'arricorda dâ to navigazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
 history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navigazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
     .label = Usa sempri a mudalità di navigazzioni privata
@@ -703,7 +703,7 @@ history-remember-browser-option =
     .label = Ricorda a crunuluggìa di navigazzioni e dî scarricamenti
     .accesskey = c
 history-remember-search-option =
-    .label = Ricorda a crunuluggìa di ricerca e dî mòduli
+    .label = Ricorda a crunuluggìa di risciduta e dî mòduli
     .accesskey = R
 history-clear-on-close-option =
     .label = Cancella a crunuluggìa quannu { -brand-short-name } si chiuji
@@ -770,7 +770,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
     .accesskey = S
-addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi di ricerca
+addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi di risciduta
 
 ## Privacy Section - Content Blocking
 

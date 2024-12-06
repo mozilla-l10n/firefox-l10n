@@ -27,7 +27,7 @@ newtab-search-box-handoff-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = Agghiunci muturi di ricerca
+newtab-topsites-add-search-engine-header = Agghiunci muturi di risciduta
 newtab-topsites-edit-topsites-header = Cancia situ principali
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
@@ -139,7 +139,7 @@ newtab-section-menu-expand-section = Spanni sizziuni
 newtab-section-menu-manage-section = Manija sizzioni
 newtab-section-menu-manage-webext = Manija stinneriu
 newtab-section-menu-add-topsite = Agghiunci situ principali
-newtab-section-menu-add-search-engine = Agghiunci muturi di ricerca
+newtab-section-menu-add-search-engine = Agghiunci muturi di risciduta
 newtab-section-menu-move-up = Movi supra
 newtab-section-menu-move-down = Movi jusu
 newtab-section-menu-privacy-notice = Abbisu di privatizza

@@ -8,12 +8,12 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-desc = { -brand-short-name } nun potti nzitari l'agghiuncitina di ricerca di “{ $location-url }” picchì già cc'è un muturi di ricerca cû stissu nomu.
+opensearch-error-duplicate-desc = { -brand-short-name } nun potti nzitari l'agghiuncitina di risciduta di “{ $location-url }” picchì già cc'è un muturi di risciduta cû stissu nomu.
 
 ##
 
 searchbar-submit =
-    .tooltiptext = Avanza a ricerca
+    .tooltiptext = Abbìa a risciduta
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Cerca
@@ -24,4 +24,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 
