@@ -227,6 +227,9 @@ newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } պատկանում է { -brand-product-name } ընտանիքին
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -251,9 +254,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Հովանաւորուած դիւրանցումներ
 newtab-custom-pocket-title = Առաջարկուում է { -pocket-brand-name } -ի կողմից
 newtab-custom-pocket-subtitle = Բացառիկ բովանդակութիւն, որը համադրել է { -brand-product-name }-ի ընտանիքի մաս կազմող { -pocket-brand-name }-ը
-newtab-custom-pocket-toggle =
-    .label = Առաջարկուում է { -pocket-brand-name } -ի կողմից
-    .description = Բացառիկ բովանդակութիւն, որը համադրել է { -brand-product-name }-ի ընտանիքի մաս կազմող { -pocket-brand-name }-ը
 newtab-custom-pocket-sponsored = Հովանաւորուած պատմութիւններ
 newtab-custom-recent-title = Վերջին գործողութիւնը
 newtab-custom-recent-subtitle = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
@@ -262,3 +262,24 @@ newtab-custom-recent-toggle =
     .description = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորումներ
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
