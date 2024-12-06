@@ -384,6 +384,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ ਸਪਾਂਸਰ
 newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
+    .aria-label = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
 newtab-weather-change-location-search-input = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
 newtab-weather-menu-weather-display = ਮੌਸਮ ਦੀ ਝਲਕ
 # Display options are:
