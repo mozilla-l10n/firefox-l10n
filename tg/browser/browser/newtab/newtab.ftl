@@ -381,6 +381,9 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Реклама
 newtab-weather-menu-change-location = Иваз кардани макон
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Ҷустуҷӯи макон
+    .aria-label = Ҷустуҷӯи макон
 newtab-weather-change-location-search-input = Ҷустуҷӯи макон
 newtab-weather-menu-weather-display = Намоиши обу ҳаво
 # Display options are:
