@@ -16,6 +16,11 @@ about-glean-interface-description =
     je zběrka datow, kotraž so w projektach { -vendor-short-name } wužiwa.
     Tutón powjerch je so wuwił, zo by so wot wuwiwarjow a testowarjow wužiwał, zo bychu manuelnje
     <a data-l10n-name="fog-link">instrumentaciju testowali</a>.
+about-glean-category-about-glean = Wo { -glean-brand-name }
+about-glean-category-manual-testing = Manuelne testowanje
+about-glean-category-adhoc-testing = Testowanje ad hoc
+about-glean-category-profiler = Wukonowu analyzu wužiwać
+about-glean-category-about-data = Wo datach
 about-glean-upload-enabled = Nahraće datow je zmóžnjene.
 about-glean-upload-disabled = Nahraće datow je znjemóžnjene.
 about-glean-upload-enabled-local = Nahraće datow je jenož za słanje na lokalny serwer zmóžnjene.

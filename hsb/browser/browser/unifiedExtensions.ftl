@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Meni za { $extensionName } wočinić
 unified-extensions-item-message-manage = Rozšěrjenje rjadować
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } so přećiwo prawidłam Mozilla přeńdźe. Je riskantne jo wužiwać.
 
 ## Extension's context menu
 
