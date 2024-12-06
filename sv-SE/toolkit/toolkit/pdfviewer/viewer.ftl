@@ -504,8 +504,8 @@ pdfjs-editor-undo-bar-message-stamp = Bild borttagen
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
     { $count ->
-        [one] { $count } anteckning borttagen
-       *[other] { $count } kommentarer har tagits bort
+        [one] { $count } anteckning har tagits bort
+       *[other] { $count } anteckningar har tagits bort
     }
 pdfjs-editor-undo-bar-undo-button =
     .title = Ångra

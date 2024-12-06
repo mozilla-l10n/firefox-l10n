@@ -18,7 +18,7 @@ about-glean-interface-description =
     <a data-l10n-name="fog-link">testa instrumentering</a>.
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuell testning
-about-glean-category-adhoc-testing = Ad hoc-tester
+about-glean-category-adhoc-testing = Ad hoc-testning
 about-glean-category-profiler = Använda profileraren
 about-glean-category-about-data = Om data
 about-glean-upload-enabled = Dataöverföring är aktiverad.
@@ -106,7 +106,7 @@ about-glean-adhoc-note =
     Observera att du använder Glean JS API genom att använda devtools-konsolen.
     Detta innebär att måttenhetskategorin och måttenhetsnamnet är formaterade i
     <code>camelCase</code> till skillnad från Rust och C++ API:erna.
-about-glean-profiler-explanation = För att se en fullständig vy över all inspelad statistik kan du använda { -profiler-brand-name }. Först måste du <a data-l10n-name="firefox-profiler-link">fånga in en prestandaprofil</a>. När du har tagit profilen väljer du <q>Markörsdiagram</q> och tittar på markörerna under <q>Telemetri</q>.
+about-glean-profiler-explanation = För att se en fullständig vy över all inspelad statistik kan du använda { -profiler-brand-name }. Först måste du <a data-l10n-name="firefox-profiler-link">fånga in en prestandaprofil</a>. När du har fångat in profilen väljer du <q>Markörsdiagram</q> och tittar på markörerna under <q>Telemetri</q>.
 about-glean-profiler-explanation-profiler = I prestandaprofilen kan du se alla insamlade mätvärden, när de samlades in och exakt vilka värden som samlades in. Genom att sväva över enskilda markörer kan du verifiera att rätt värde samlades in och att insamlingen skedde vid rätt tidpunkt.
 controls-button-label-verbose = Tillämpa inställningar och skicka ping
 about-glean-feedback-settings-only =
@@ -118,7 +118,7 @@ about-glean-about-data-description = Det finns några olika verktyg du kan anvä
 about-glean-about-data-description-list-intro = Se listan nedan för specifika användningsfall för varje verktyg:
 about-glean-about-data-list-item-dictionary = Om du vill bläddra i listan över data som samlats in av { -glean-brand-name } per applikation, vänligen konsultera <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } ordbok</a >.
 about-glean-about-data-list-item-about-telemetry = För att bläddra bland data som samlas in av äldre telemetri, kontakta <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
-about-glean-about-data-list-item-debug-ping-viewer = För att bläddra i felsökningstaggar, se fullständig pingar, se en livestream av händelser eller se statistikvisualiseringar, se <a data-l10n-name="glean-debug-ping-viewer"> { glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-debug-ping-viewer = För att bläddra i felsökningstaggar, se fullständiga pingar, se en livestream av händelser eller se statistikvisualiseringar, se <a data-l10n-name="glean-debug-ping-viewer"> { glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = För att spela in en prestandaprofil och se all inspelad statistik, använd <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     För att bläddra i listan över insamlade data, vänligen konsultera
