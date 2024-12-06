@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</s
 inactive-css-position-property-on-unpositioned-box = 위치가 지정된 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong>는 교체된 요소에만 적용할 수 있으므로 이 요소에는 영향을 주지 않습니다.
 inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong>이 설정되어 있지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-no-size-containment = 크기 제한이 없으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 속성이 내부 테이블 요소에 영향을 미치지 않습니다.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 속성이 테이블 셀을 제외하고 내부 테이블 요소에 영향을 미치지 않습니다.
 inactive-css-not-table = 테이블이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong>는 표시 이외의 오버�
 inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이므로 이 요소에 영향을 미치지 않습니다. 크기는 윗주 텍스트의 글꼴 크기에 따라 결정됩니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong>는 하이라이트 가상 요소에서 지원되지 않습니다.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::cue 가상 요소에서 지원되지 않습니다.
@@ -94,6 +100,7 @@ inactive-css-not-floated-fix = <strong>none</strong> 이외의 값으로 <strong
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> 속성을 <strong>static</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-only-replaced-elements-fix = 대체된 요소에 속성을 추가하고 있는지 확인하세요. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong>을 추가해보세요. { learn-more }
+inactive-css-no-size-containment-fix = <strong>display</strong> 속성을 <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, 또는 <strong>inline-table </strong> 이외의 것으로 설정해 보시고, 테이블이나 루비 세그먼트 내에 있지 않은지 확인하세요. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> 속성을 <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> 속성을 <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> 또는 <strong>display:inline-table</strong>을 추가해보세요. { learn-more }

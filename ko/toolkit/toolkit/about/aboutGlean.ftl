@@ -15,6 +15,11 @@ about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>는 
     { -vendor-short-name } 프로젝트에서 사용되는 데이터 수집 라이브러리입니다. 
     이 인터페이스는 개발자와 테스터가 <a data-l10n-name="fog-link">테스트 계측</a>을 수동으로 사용하도록 설계되었습니다.
+about-glean-category-about-glean = { -glean-brand-name } 정보
+about-glean-category-manual-testing = 수동 테스트
+about-glean-category-adhoc-testing = Ad Hoc 테스트
+about-glean-category-profiler = 프로파일러 사용
+about-glean-category-about-data = 데이터 정보
 about-glean-upload-enabled = 데이터 업로드가 활성화되었습니다.
 about-glean-upload-disabled = 데이터 업로드가 비활성화되었습니다.
 about-glean-upload-enabled-local = 데이터 업로드는 로컬 서버로 전송하는 경우에만 활성화됩니다.

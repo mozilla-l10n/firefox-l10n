@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } 메뉴 열기
 unified-extensions-item-message-manage = 확장 기능 관리
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } 확장 기능은 Mozilla 정책을 위반합니다. 위험 할 수 있습니다.
 
 ## Extension's context menu
 
