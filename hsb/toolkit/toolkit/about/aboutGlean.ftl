@@ -108,6 +108,10 @@ about-glean-adhoc-note =
     Prošu dźiwajće na to, zo API Glean JS z pomocu konsole wuwiwarskich nastrojow wužiwać.
     To rěka, zo so metriska kategorija a metriske mjeno w
     <code>camelCase</code> formatěrujetej, na rozdźěl wot API Rust a C++.
+about-glean-profiler-explanation =
+    Zo byšće dospołny napohlad wšěch natočenych metrikow widźał, móžeće { -profiler-brand-name } wužiwać.
+    Dyrbiće najprjedy <a data-l10n-name="firefox-profiler-link">wukonowy profil registrować</a>.
+    Hdyž profil registrujeće, wubjerće <q>markowy diagram</q> a hladajće na marki pod <q>Telemetrija</q>.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-feedback-settings-only =
     .message = Nastajenja nałožene!
