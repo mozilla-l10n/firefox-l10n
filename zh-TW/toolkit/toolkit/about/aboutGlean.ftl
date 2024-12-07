@@ -68,10 +68,15 @@ about-glean-adhoc-explanation2 = 若需進行 <i>ad hoc 臨時測試</i>，也�
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = 註：您正透過開發者工具主控台使用 Glean JS API。這代表指標的分類與名稱會使用 <code>camelCase</code> 格式顯示，而與 Rust 及 C++ API 格式不同。
 about-glean-profiler-explanation = 您可以使用 { -profiler-brand-name } 來檢視所有紀錄指標。首先您必須<a data-l10n-name="firefox-profiler-link">捕捉效能紀錄檔</a>，捕捉完成後即可選擇<q>標記表</q>，檢視 <q>Telemetry</q> 下方的標記。
+about-glean-profiler-explanation-profiler = 您可以在效能紀錄檔中看到所有收集到的指標、收集時間，以及收集下來的資料值。將游標停留在各個標記上，即可確認收集到的值、收集時間是否正確。
 controls-button-label-verbose = 套用設定並送出 ping
 about-glean-feedback-settings-only =
     .message = 設定已套用！
 about-glean-feedback-settings-and-ping =
     .message = 設定已套用，並已送出 ping！
 about-glean-about-data-header = 關於資料
+about-glean-about-data-description = 視您想要了解的資料，可以使用不同工具來檢視。
+about-glean-about-data-description-list-intro = 可參考下列各工具的不同用途：
+about-glean-about-data-list-item-dictionary = 要瀏覽 { -glean-brand-name } 在每套應用程式收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
+about-glean-about-data-list-item-about-telemetry = 要瀏覽傳統 Telemetry 功能收集的資料，請參考 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
