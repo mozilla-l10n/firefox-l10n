@@ -119,6 +119,19 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     각 도구의 구체적인 사용 사례는 
     아래 목록을 참조하세요:
+about-glean-about-data-list-item-dictionary =
+    응용 프로그램별로 { -glean-brand-name }이 수집하는 데이터 목록을 찾아보려면
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
+about-glean-about-data-list-item-about-telemetry =
+    레거시 원격 분석에 의해 수집 중인 데이터를 찾으려면
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>를 참조하세요.
+about-glean-about-data-list-item-debug-ping-viewer =
+    디버그 태그를 찾아보거나, 전체 핑을 보거나, 실시간 이벤트 스트림을 보거나, 
+    메트릭 시각화를 보려면,
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>를 참조하세요.
+about-glean-about-data-list-item-firefox-profiler =
+    성능 프로필을 기록하고 기록된 모든 메트릭을 보려면,
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>를 사용하세요.
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
