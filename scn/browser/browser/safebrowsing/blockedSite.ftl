@@ -19,8 +19,8 @@ safeb-palm-see-details-label = Vidi minutagghi
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ fallaci</a>. Po' <a data-l10n-name='report_detection'>signalari un prubblema di rilevamentu</a>, o <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
-safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ fallaci</a>. Po' <a data-l10n-name='report_detection'>signalari un prubblema di rilevamentu</a>.
+safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ fallaci</a>. Po' <a data-l10n-name='report_detection'>signalijari un prubblema di rilevamentu</a>, o <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
+safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ fallaci</a>. Po' <a data-l10n-name='report_detection'>signalijari un prubblema di rilevamentu</a>.
 
 ##
 
@@ -36,8 +36,8 @@ safeb-blocked-phishing-page-learn-more = Vidi <a data-l10n-name='learn_more_link
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu prugrammi nun sicuri</a>. Po' <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
-safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu prugrammi nun sicuri</a>.
+safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu prugrammi nun sicuri</a>. Po' <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
+safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu prugrammi nun sicuri</a>.
 
 ##
 
@@ -46,8 +46,8 @@ safeb-blocked-unwanted-page-learn-more = Leggi cchiù nfurmazzioni supra i prugr
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>. Poi scartari di <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari u stissu stu situ nun sicuru.
-safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>.
+safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>. Poi scartari di <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari u stissu stu situ nun sicuru.
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu n'applicazzioni chi po' èssiri piriculusa</a>.
 
 ##
 

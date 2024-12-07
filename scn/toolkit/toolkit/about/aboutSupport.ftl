@@ -4,11 +4,11 @@
 
 page-title = Nfurmazzioni p'arrisòrbiri i prubblemi
 page-subtitle = Sta pàggina cunteni nfurmazzioni tècnichi ca ti ponnu èssiri utili quannu stai pruvannu ad arrisòrbiri quarchi prubblema. Si stai circannu i risposti ê dumanni cchiù friquenti supra a { -brand-short-name }, cuntrolla u nostru <a data-l10n-name="support-link">situ dû supportu</a>.
-crashes-title = Signalazzioni dî blocchi
-crashes-id = ID signalazziuni
+crashes-title = Signalijazzioni dî blocchi
+crashes-id = ID signalijazzioni
 crashes-send-date = Mannata
-crashes-all-reports = Tutti i signalazzioni dî blocchi
-crashes-no-config = St'applicazzioni nun fu cunfijurata pi mustrari i signalazzioni di bloccu anòmalu.
+crashes-all-reports = Tutti i signalijazzioni dî blocchi
+crashes-no-config = St'applicazzioni nun fu cunfijurata pi mustrari i signalijazzioni di bloccu anòmalu.
 support-addons-name = Nomu
 support-addons-version = Virsiuni
 support-addons-id = ID

@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Manna ê siti web na signalazzioni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
+do-not-track-description = Manna ê siti web na signalijazzioni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
 do-not-track-description2 =
-    .label = Manna ê siti web na signalazzioni "Nun trazzari"
+    .label = Manna ê siti web na signalijazzioni "Nun trazzari"
     .accesskey = M
 do-not-track-learn-more = Cchiù nfurmazzioni
 do-not-track-option-default-content-blocking-known =
@@ -909,7 +909,7 @@ addon-recommendations =
 addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta virsiuni
+collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
 ## Privacy Section - Website Advertising Preferences
 
