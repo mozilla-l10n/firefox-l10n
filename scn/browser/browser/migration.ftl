@@ -79,6 +79,13 @@ browser-data-bookmarks-checkbox =
             [edge] Prifiruti
            *[other] Nzingalibbra
         }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Prifiruti
+            [edge] Prifiruti
+           *[other] Nzingalibbra
+        }
 browser-data-session-checkbox =
     .label = Finestri e schedi
 browser-data-session-label =

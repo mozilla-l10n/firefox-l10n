@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sidebar-menu-bookmarks =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
 sidebar-menu-history =
     .label = Crunuluggìa
 sidebar-menu-close =

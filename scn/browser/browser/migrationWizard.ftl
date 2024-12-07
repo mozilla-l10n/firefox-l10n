@@ -13,6 +13,7 @@ migration-wizard-migrator-display-name-chromium = Chromium
 migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-bookmarks = Nzingalibbra d'un pricu HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
 migration-imported-safari-reading-list = Lista di littura (di Safari)
@@ -27,10 +28,22 @@ migration-imported-safari-reading-list = Lista di littura (di Safari)
 
 ##
 
+migration-bookmarks-option-label = Nzingalibbra
 migration-extensions-option-label = Stinneri
-migration-bookmarks-from-file-picker-title = Mporta pricu dî nzingalibbri
-migration-bookmarks-from-file-progress-header = Staju mpurtannu i nzingalibbri
-migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
+migration-bookmarks-from-file-picker-title = Mporta pricu dî nzingalibbra
+migration-bookmarks-from-file-progress-header = Staju mpurtannu i nzingalibbra
+migration-bookmarks-from-file = Nzingalibbra
+migration-bookmarks-from-file-success-header = Nzingalibbra mpurtati giusti
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } nzingalibbru
+       *[other] { $newEntries } nzingalibbra
+    }
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -38,10 +51,21 @@ migration-bookmarks-from-file-success-header = Nzingalibbri mpurtati giusti
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = nzingalibbra
 migration-list-extensions-label = stinneri
 
 ##
 
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } nzingalibbru
+       *[other] { $quantity } nzingalibbra
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
@@ -72,4 +96,4 @@ migration-wizard-progress-extensions-addons-link = Talìa stinneri pi { -brand-s
 
 ##
 
-migration-wizard-safari-permissions-sub-header = Pi mpurtari i nzingalibbri e a crunuluggìa di Safari:
+migration-wizard-safari-permissions-sub-header = Pi mpurtari i nzingalibbra e a crunuluggìa di Safari:

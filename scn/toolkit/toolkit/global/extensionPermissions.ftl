@@ -7,7 +7,7 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
-webext-perms-description-bookmarks = Lèggiri e canciari i nzingalibbri
+webext-perms-description-bookmarks = Lèggiri e canciari i nzingalibbra
 webext-perms-description-browserSettings = Lèggiri e canciari i mpustazzioni dû navigaturi
 webext-perms-description-browsingData = Cancillari a crunuluggìa di navigazzioni ricenti, i cookie e i nfurmazzioni rilativi
 webext-perms-description-clipboardRead = Pigghiari dati dû pitazzu

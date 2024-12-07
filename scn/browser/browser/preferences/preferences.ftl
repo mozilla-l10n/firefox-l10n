@@ -415,7 +415,7 @@ home-prefs-recommended-by-option-sponsored-stories =
 home-prefs-highlights-option-visited-pages =
     .label = Pàggini visitati
 home-prefs-highlights-options-bookmarks =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
 home-prefs-highlights-option-most-recent-download =
     .label = Scarricamenti cchiù ricenti
 home-prefs-highlights-option-saved-to-pocket =
@@ -556,7 +556,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
-sync-currently-syncing-bookmarks = Nzingalibbri
+sync-currently-syncing-bookmarks = Nzingalibbra
 sync-currently-syncing-history = Crunuluggìa
 sync-currently-syncing-tabs = Schedi raputi
 sync-currently-syncing-logins-passwords = Accessi e chiavi
@@ -577,7 +577,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonlabelextra2 = Discunnetti…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
     .accesskey = z
 sync-engine-history =
     .label = Crunuluggìa
@@ -765,7 +765,7 @@ addressbar-locbar-history-option =
     .label = Crunuluggìa di navigazzioni
     .accesskey = C
 addressbar-locbar-bookmarks-option =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
     .accesskey = z
 addressbar-locbar-openpage-option =
     .label = Schedi raputi

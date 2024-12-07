@@ -61,9 +61,9 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincrunizza i to nzingalibbri unn'è-è
+cfr-doorhanger-bookmark-fxa-header = Sincrunizza i to nzingalibbra unn'è-è
 cfr-doorhanger-bookmark-fxa-body = Ranni scuperta! Ora nun arristari senza stu nzingalibbru nnû to cillulari. Parti cu un { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Sincrunizza i nzingalibbri ora…
+cfr-doorhanger-bookmark-fxa-link-text = Sincrunizza i nzingalibbra ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttuni pi chiùjiri
     .title = Chiuji
@@ -143,7 +143,7 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-sync-header = Nàviga senza chi ti perdi nenti
-device-migration-fxa-spotlight-sync-body = Sincrunizza 'n manera cifrata tutti i to nfurmazzioni mpurtanti — a tipu i nzingalibbri e i chiavi. Doppu i poi pigghiari unn'è-è ca usi { -brand-product-name }.
+device-migration-fxa-spotlight-sync-body = Sincrunizza 'n manera cifrata tutti i to nfurmazzioni mpurtanti — a tipu i nzingalibbra e i chiavi. Doppu i poi pigghiari unn'è-è ca usi { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Accumincia
 
 ## Set as Default PDF Reader Infobar

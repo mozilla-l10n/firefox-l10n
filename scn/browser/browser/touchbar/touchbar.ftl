@@ -26,7 +26,7 @@ search-search-in = Cerca nne:
 
 ## Various categories of shortcuts for search.
 
-search-bookmarks = Nzingalibbri
+search-bookmarks = Nzingalibbra
 search-history = Crunuluggìa
 search-opentabs = Schedi raputi
 search-tags = Etichetti:
