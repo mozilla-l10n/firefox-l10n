@@ -41,7 +41,7 @@ appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi v�
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
 appmenu-remote-tabs-connectdevice =
-    .label = Cunnetti n'autru dispusitivu
+    .label = Culleja n'autru dispusitivu
 appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
 appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }

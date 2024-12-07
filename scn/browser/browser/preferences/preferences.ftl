@@ -357,7 +357,7 @@ browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 ## General Section - Proxy
 
 network-settings-title = Mpustazzioni riti
-network-proxy-connection-description = Cunfijura comu { -brand-short-name } si cunnetti a internet.
+network-proxy-connection-description = Cunfijura comu { -brand-short-name } si culleja â riti.
 network-proxy-connection-learn-more = Cchiù nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
@@ -574,8 +574,8 @@ sync-choose-what-to-sync-dialog3 =
     .style = min-width: 36em;
     .buttonlabelaccept = Sarba canciamenti
     .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Discunnetti…
-    .buttonaccesskeyextra2 = D
+    .buttonlabelextra2 = Scullèjati…
+    .buttonaccesskeyextra2 = c
 sync-engine-bookmarks =
     .label = Nzingalibbra
     .accesskey = z
@@ -615,7 +615,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sarba
     .accesskey = b
-sync-connect-another-device = Cunnetti n'autru dispusitivu
+sync-connect-another-device = Culleja n'autru dispusitivu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

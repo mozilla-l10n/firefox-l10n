@@ -4,9 +4,9 @@
 
 fxa-toolbar-sync-syncing2 = Staju sincrunizzannu…
 sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizzarà cchiù u to cuntu, ma nun cancillarà nuḍḍu dî to dati di navigazzioni nna stu dispusitivu.
-sync-disconnect-dialog-button = Discunnetti
+sync-disconnect-dialog-button = Scullèjati
 fxa-menu-connect-another-device =
-    .label = Cunnetti n'autru dispusitivu…
+    .label = Culleja n'autru dispusitivu…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
