@@ -77,6 +77,8 @@ about-glean-feedback-settings-and-ping =
 about-glean-about-data-header = 關於資料
 about-glean-about-data-description = 視您想要了解的資料，可以使用不同工具來檢視。
 about-glean-about-data-description-list-intro = 可參考下列各工具的不同用途：
-about-glean-about-data-list-item-dictionary = 要瀏覽 { -glean-brand-name } 在每套應用程式收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
-about-glean-about-data-list-item-about-telemetry = 要瀏覽傳統 Telemetry 功能收集的資料，請參考 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
+about-glean-about-data-list-item-dictionary = 可參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>瀏覽 { -glean-brand-name } 在每套應用程式收集的資料清單。
+about-glean-about-data-list-item-about-telemetry = 可透過 <a data-l10n-name="about-telemetry-link">about:telemetry</a> 瀏覽傳統 Telemetry 功能收集的資料。
+about-glean-about-data-list-item-debug-ping-viewer = 可使用 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> 瀏覽除錯標籤、檢視完整的 Ping、檢視即時事件串流，或以視覺化方式檢視指標。
+about-glean-about-data-list-item-firefox-profiler = 可使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> 捕捉效能紀錄檔，並檢視所有記錄下來的指標。
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
