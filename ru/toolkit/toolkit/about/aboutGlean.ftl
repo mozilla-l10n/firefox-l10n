@@ -15,6 +15,11 @@ about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     — это библиотека для сбора данных, используемая в проектах { -vendor-short-name }.
     Этот интерфейс предназначен для использования разработчиками и тестировщиками, чтобы вручную <a data-l10n-name="fog-link">тестировать инструментарий</a>.
+about-glean-category-about-glean = О { -glean-brand-name }
+about-glean-category-manual-testing = Ручное тестирование
+about-glean-category-adhoc-testing = Специальное тестирование
+about-glean-category-profiler = Использование профайлера
+about-glean-category-about-data = О данных
 about-glean-upload-enabled = Выгрузка данных включена.
 about-glean-upload-disabled = Выгрузка данных отключена.
 about-glean-upload-enabled-local = Выгрузка данных включена только для отправки на локальный сервер.
@@ -42,6 +47,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Для получения описания различных способов записи и поиска данных, пожалуйста, обратитесь к
+    вкладке <strong>О данных</strong>.
 about-glean-about-testing-header = О тестировании
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -98,12 +106,39 @@ about-glean-adhoc-note =
     Обратите внимание, что вы используете Glean JS API с помощью консоли devtools.
     Это означает, что категория метрики и имя метрики отформатированы в
     <code>camelCase</code>, а не в API Rust и C++.
+about-glean-profiler-explanation =
+    Чтобы просмотреть все записанные метрики, вы можете использовать файл { -profiler-brand-name }.
+    Сначала вы должны <a data-l10n-name="firefox-profiler-link">захватить профиль производительности</a>.
+    Записав профиль, выберите <q>Диаграмма маркеров</q> и посмотрите на маркеры в разделе <q>Телеметрия</q>.
+about-glean-profiler-explanation-profiler =
+    В профиле производительности вы можете увидеть все собранные метрики, когда они были
+    собраны, и какие именно значения были собраны. При наведении на отдельные маркеры,
+    вы можете убедиться, что было собрано корректное значение и что сбор произошёл в нужное время.
 controls-button-label-verbose = Применить настройки и отправить пинг
 about-glean-feedback-settings-only =
     .message = Настройки применены!
 about-glean-feedback-settings-and-ping =
     .message = Настройки применены и пинг отправлен!
 about-glean-about-data-header = О данных
+about-glean-about-data-description =
+    Есть несколько различных инструментов, которые вы можете использовать для просмотра своих данных, в зависимости от
+    того, что вы ищете.
+about-glean-about-data-description-list-intro =
+    Пожалуйста, обратитесь к приведенному ниже списку для конкретных сценариев
+    использования для каждого инструмента:
+about-glean-about-data-list-item-dictionary =
+    Чтобы просмотреть список данных, собираемых { -glean-brand-name } для каждого приложения, обратитесь к
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Для просмотра данных, собираемых устаревшей телеметрией, обратитесь к
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Чтобы просматривать теги отладки, просматривать полные пинги, просматривать ленту событий или просматривать метрики
+    визуализаций, пожалуйста, обратитесь к
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Чтобы записать профиль производительности и просмотреть все записанные метрики, используйте
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Чтобы просмотреть список собранных данных, обратитесь к
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Словарю</a>.
