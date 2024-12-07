@@ -99,7 +99,7 @@ newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nov
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cancella nzingalibbru
 # Bookmark is a verb here.
-newtab-menu-bookmark = Agghiunci ê nzingalibbri
+newtab-menu-bookmark = Agghiunci ê nzingalibbra
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -124,7 +124,7 @@ newtab-menu-open-file = Grapi pricu
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Visitatu
-newtab-label-bookmarked = Nnê nzingalibbri
+newtab-label-bookmarked = Nnê nzingalibbra
 newtab-label-removed-bookmark = Nzingalibbru cancillatu
 newtab-label-recommended = Di tinnenza
 newtab-label-saved = Sarbatu nne { -pocket-brand-name }

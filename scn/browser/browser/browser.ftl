@@ -99,7 +99,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Agghiunci sta pàggina ê nzingalibbri ({ $shortcut })
+    .tooltiptext = Agghiunci sta pàggina ê nzingalibbra ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -400,7 +400,7 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = Riscedi nnê nzingalibbra
 bookmarks-tools =
-    .label = Strumenti pî nzingalibbri
+    .label = Stigghi pî nzingalibbra
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.

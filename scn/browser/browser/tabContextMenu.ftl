@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Dùpprica schedi
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Chiuji schedi a dritta
     .accesskey = d
@@ -36,7 +38,7 @@ unpin-selected-tabs =
     .label = Spuntiḍḍa schedi
     .accesskey = S
 bookmark-selected-tabs =
-    .label = Agghiunci schedi ê nzingalibbri…
+    .label = Agghiunci schedi ê nzingalibbra…
     .accesskey = n
 move-to-end =
     .label = Movi â fini
