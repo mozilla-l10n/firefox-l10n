@@ -106,6 +106,7 @@ inactive-css-not-floated-fix = Wopytajśo kakosć <strong>float</strong> z druge
 inactive-css-position-property-on-unpositioned-box-fix = Wopytajśo jogo kakosć <strong>position</strong> na něco druge ako <strong>static</strong> nastajiś. { learn-more }
 inactive-css-only-replaced-elements-fix = Zawěsććo, až kakosć wuměnjonemu elementoju pśidawaśo { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Wopytajśo <strong>overflow:hidden</strong> pśidaś. { learn-more }
+inactive-css-no-size-containment-fix = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> abo <strong>inline-table</strong> stajiś a zawěsććo, až njejo w tabeli abo segmenśe ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajiś. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajiś. { learn-more }
 inactive-css-not-table-fix = Wopytajśo <strong>display:table</strong> abo <strong>display:inline-table</strong> pśidaś. { learn-more }
