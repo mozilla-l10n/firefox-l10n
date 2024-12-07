@@ -83,6 +83,13 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = ยืนยันก่อน
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = ต้องการออกจาก { -brand-short-name } หรือปิดแท็บปัจจุบัน?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] ออกจาก { -brand-short-name }
+       *[other] ออกจาก { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = ปิดแท็บปัจจุบัน
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -165,7 +172,47 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ยกเลิก
     .accesskey = ย
+tab-context-unnamed-group =
+    .label = กลุ่มที่ไม่มีชื่อ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] เพิ่มแท็บไปยังกลุ่มใหม่
+           *[other] เพิ่มแท็บไปยังกลุ่มใหม่
+        }
+    .accesskey = ก
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] เพิ่มแท็บไปยังกลุ่ม
+           *[other] เพิ่มแท็บไปยังกลุ่ม
+        }
+    .accesskey = ก
+tab-group-editor-action-new-tab =
+    .label = แท็บใหม่ในกลุ่ม
+tab-group-editor-action-new-window =
+    .label = ย้ายกลุ่มไปยังหน้าต่างใหม่
+tab-group-editor-action-save =
+    .label = บันทึกและปิดกลุ่ม
+tab-group-editor-action-ungroup =
+    .label = เลิกจัดกลุ่มแท็บ
+tab-group-editor-action-delete =
+    .label = ลบกลุ่ม
+tab-group-editor-done =
+    .label = เสร็จสิ้น
+    .accessKey = ส
+tab-context-reopen-tab-group =
+    .label = เปิดกลุ่มแท็บอีกครั้ง
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] เอาออกจากกลุ่ม
+           *[other] เอาออกจากกลุ่ม
+        }
+    .accesskey = อ
