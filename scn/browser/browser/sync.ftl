@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Staju sincrunizzannu…
-sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizza cchiù u to cuntu, ma nun cancella nuḍḍu dî to dati di navigazzioni nna stu dispusitivu.
+sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizza cchiù cû to cuntu, ma nun cancella nuḍḍu dî to dati di navigazzioni nna stu dispusitivu.
 sync-disconnect-dialog-button = Scullèjati
 fxa-menu-connect-another-device =
     .label = Culleja n'autru dispusitivu…
