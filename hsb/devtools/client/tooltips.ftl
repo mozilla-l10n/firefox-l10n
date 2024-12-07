@@ -106,6 +106,7 @@ inactive-css-not-floated-fix = Spytajće kajkosć <strong>float</strong> z druhe
 inactive-css-position-property-on-unpositioned-box-fix = Spytajće jeho kajkosć <strong>position</strong> na něšto druhe hač <strong>static</strong> nastajić. { learn-more }
 inactive-css-only-replaced-elements-fix = Zawěsćće, zo kajkosć wuměnjenemu elementej přidawaće. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Spytajće <strong>overflow:hidden</strong> přidać. { learn-more }
+inactive-css-no-size-containment-fix = Spytajće kajkosć <strong>display</strong> na něšto druhe hač <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> abo <strong>inline-table</strong> stajić a zawěsćće, zo w tabeli abo segmenće ruby njeje. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić. { learn-more }
 inactive-css-not-table-fix = Spytajće <strong>display:table</strong> abo <strong>display:inline-tabel</strong> přidać. { learn-more }
