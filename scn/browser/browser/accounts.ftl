@@ -50,13 +50,13 @@ account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 account-connection-title-2 = Cuntu
 # Variables:
 #   $deviceName (String): the name of the new device
-account-connection-connected-with = Stu computer è culligatu cu { $deviceName }.
+account-connection-connected-with = Stu computer è cullijatu cu { $deviceName }.
 # Used when the name of the new device is not known.
-account-connection-connected-with-noname = Stu computer ora è culligatu c'un dispusitivu novu.
+account-connection-connected-with-noname = Stu computer ora è cullijatu c'un dispusitivu novu.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Sissiuni raputa
 # Used in a notification shown after the Firefox account was disconnected remotely.
-account-connection-disconnected = Stu computer fu sculligatu.
+account-connection-disconnected = Stu computer fu scullijatu.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

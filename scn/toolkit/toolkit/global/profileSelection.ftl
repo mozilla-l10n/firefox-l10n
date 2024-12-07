@@ -22,7 +22,7 @@ profile-selection-delete-button =
 
 profile-manager-description = { -brand-short-name } sarba nfurmazzioni supra ê to mpustazzioni, i to prifirenzi e autri cosi nnô to prufilu utenti.
 profile-manager-work-offline =
-    .label = Travagghia sculligatu
+    .label = Travagghia scullijatu
     .accesskey = T
 profile-manager-use-selected =
     .label = Usa u prufilu scartatu senza addumannàrimi all'abbìu

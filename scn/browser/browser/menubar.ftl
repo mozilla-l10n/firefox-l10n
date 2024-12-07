@@ -77,7 +77,7 @@ menu-file-import-from-another-browser =
     .label = Mporta di n'autru navigaturi…
     .accesskey = g
 menu-file-go-offline =
-    .label = Travagghia sculligatu
+    .label = Travagghia scullijatu
     .accesskey = s
 
 ## Edit Menu

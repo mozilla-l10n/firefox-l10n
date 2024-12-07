@@ -4,10 +4,10 @@
 
 synced-tabs-sidebar-title = Schedi sincrunizzati
 synced-tabs-sidebar-noclients-subtitle = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
-synced-tabs-sidebar-intro = Vidi na lista dî schedi di l'autri dispusitivi toi.
+synced-tabs-sidebar-intro = Vidi na lista dî schedi di l'autri dispusitivi.
 synced-tabs-sidebar-unverified = U to cuntu àvi a èssiri virificatu.
 synced-tabs-sidebar-notabs = Nuḍḍa scheda raputa
-synced-tabs-sidebar-tabsnotsyncing = Attiva a sincrunizzazziuni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.
+synced-tabs-sidebar-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi.
 synced-tabs-sidebar-connect-another-device = Cunnetti n'autru dispusitivu
 synced-tabs-sidebar-search =
     .placeholder = Cerca nnî schedi sincrunizzati
