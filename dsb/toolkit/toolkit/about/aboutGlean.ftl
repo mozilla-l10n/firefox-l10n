@@ -120,6 +120,15 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Póśěgujśo se pšosym na slědujucu lisćinu za wěste
     nałožowańske pady za kuždy rěd:
+about-glean-about-data-list-item-dictionary =
+    Aby lisćinu datow pśepytał, kótarež jo { -glean-brand-name } za kužde nałoženje zgromaźił, konsultěrujśo
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Aby daty pśepytał, kótarež su se zgromaźili pśez staršu telemetriju, konsultěrujśo pšosym
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Aby wugbaśowy profil registrěrował a wšykne nagrate metriki wiźeł, wužywajśo pšosym
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Aby lisćinu zgromaźonych datow pśepytował, konsultěrujśo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
