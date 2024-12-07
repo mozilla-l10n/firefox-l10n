@@ -5,4 +5,5 @@
 
 ## Confirmation hints
 
+confirmation-hint-page-bookmarked = Sarbai nnê nzingalibbra
 confirmation-hint-pin-tab = Appizzata!

@@ -68,6 +68,7 @@ urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchiù assai: cerca cu {
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Nzingalibbra
 
 ##
 
@@ -142,11 +143,16 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Nzingalibbra ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Manija i nzingalibbra
+quickactions-cmd-bookmarks = nzingalibbra
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manija stinneri
 quickactions-cmd-extensions = stinneri
@@ -156,6 +162,16 @@ quickactions-cmd-extensions = stinneri
 bookmark-panel-cancel =
     .label = Sfai
     .accesskey = S
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Cancella nzingalibbru
+            [one] Cancella nzingalibbru
+           *[other] Cancella { $count } nzingalibbra
+        }
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = Mustra l'edituri quannu sarbi
     .accesskey = s
@@ -205,8 +221,8 @@ browser-window-close-button =
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = Mporta nzingalibbri…
-    .tooltiptext = Mporta nzingalibbri di n'autru navigaturi nne { -brand-short-name }.
+    .label = Mporta nzingalibbra…
+    .tooltiptext = Mporta nzingalibbra di n'autru navigaturi nne { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -235,6 +251,10 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cerca nnâ riti
     .aria-label = Cerca cu { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Scrivi i tèrmini dâ risciduta
+    .aria-label = Riscedi nnê nzingalibbra
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -286,12 +306,15 @@ urlbar-result-search-with = Cerca cu { $engine }
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Cerca cu { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Nzingalibbra
 urlbar-searchmode-popup-description = Sta vota cerca cu:
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Riscedi nnê nzingalibbra
 
 ## Labels shown above groups of urlbar results
 
@@ -328,16 +351,19 @@ pointerlock-warning-no-domain = Sta pàggini teni cuntrollu dâ to freccia. Munc
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Manija i nzingalibbra
+bookmarks-recent-bookmarks-panel-subheader = Nzingalibbra fatti di picca
 bookmarks-toolbar-chevron =
-    .tooltiptext = Mustra cchiù nzingalibbri
+    .tooltiptext = Mustra cchiù nzingalibbra
 bookmarks-sidebar-content =
-    .aria-label = Nzingalibbri
+    .aria-label = Nzingalibbra
 bookmarks-menu-button =
-    .label = Minù nzingalibbri
+    .label = Minù dî nzingalibbra
 bookmarks-other-bookmarks-menu =
-    .label = Autri nzingalibbri
+    .label = Autri nzingalibbra
 bookmarks-mobile-bookmarks-menu =
-    .label = Nzingalibbri dû cillulari
+    .label = Nzingalibbra mòbbili
 
 ## Variables:
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
@@ -346,46 +372,52 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Ammuccia a sbarra di ciancu dî nzingalibbri
-           *[other] Talìa a sbarra di ciancu dî nzingalibbri
+            [true] Ammuccia a sbarra di ciancu dî nzingalibbra
+           *[other] Mustra a sbarra di ciancu dî nzingalibbra
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Ammuccia a sbarra dî nzingalibbri
-           *[other] Talìa sbarra dî nzingalibbri
+            [true] Ammuccia a sbarra dî nzingalibbra
+           *[other] Mustra a sbarra dî nzingalibbra
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ammuccia a sbarra dî nzingalibbra
+           *[other] Mustra a sbarra dî nzingalibbra
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Leva u minù dî nzingalibbri dâ sbarra dî strumenti
-           *[other] Agghiunci u minù dî nzingalibbri â sbarra dî strumenti
+            [true] Leva u minù dî nzingalibbra dâ sbarra dî stigghi
+           *[other] Agghiunci u minù dî nzingalibbra â sbarra dî stigghi
         }
 
 ##
 
 bookmarks-search =
-    .label = Cerca nnê nzingalibbri
+    .label = Riscedi nnê nzingalibbra
 bookmarks-tools =
     .label = Strumenti pî nzingalibbri
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Sbarra dî nzingalibbri
+    .toolbarname = Sbarra dî nzingalibbra
     .accesskey = n
-    .aria-label = Nzingalibbri
+    .aria-label = Nzingalibbra
 bookmarks-toolbar-menu =
-    .label = Sbarra dî nzingalibbri
+    .label = Sbarra dî nzingalibbra
 bookmarks-toolbar-placeholder =
-    .title = Strumenti dî nzingalibbri
+    .title = Stigghi dî nzingalibbra
 bookmarks-toolbar-placeholder-button =
-    .label = Strumenti dî nzingalibbri
+    .label = Stigghi dî nzingalibbra
 
 ## Library Panel items
 
 library-bookmarks-menu =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
 
 ## Pocket toolbar button
 
@@ -459,7 +491,7 @@ navbar-home =
     .tooltiptext = Pàggina mastra di { -brand-short-name }
 navbar-library =
     .label = Libbrarìa
-    .tooltiptext = Vidi crunuluggìa, nzingalibbri sarbati e autru
+    .tooltiptext = Vidi crunuluggìa, nzingalibbra sarbati e autru
 navbar-search =
     .title = Cerca
 # Name for the tabs toolbar as spoken by screen readers. The word
