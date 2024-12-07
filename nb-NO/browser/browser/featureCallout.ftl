@@ -86,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = Helt uenig
 sidebar-callout-survey-features-question = Følgende er potensielle sidestolpefunksjoner. Hva vil forbedre produktiviteten din i { -brand-short-name } mest?
 sidebar-callout-survey-split-view = Se to nettsteder samtidig, i en delt visning side ved side
 sidebar-callout-survey-keep-website-open = Ha et nettsted, som e-post eller kalender, åpent i sidestolpen mens du surfer
+sidebar-callout-survey-saved-websites-2 = Rask tilgang til bokmerkene dine
 sidebar-callout-survey-none-of-above = Ingen av de ovennevnte
 sidebar-callout-survey-submit = Send
 sidebar-callout-survey-thank-you = Takk for tilbakemeldingen!

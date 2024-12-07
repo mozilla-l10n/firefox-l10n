@@ -54,8 +54,14 @@ genai-input-ask-provider =
 
 ## Chatbot header
 
+genai-header-options-button =
+    .title = Åpne meny
 genai-header-close-button =
     .title = Lukk
+genai-provider-view-details =
+    .label = Vis samtalerobot-detaljer
+genai-provider-about-chatbots =
+    .label = Om disse samtalerobotene
 
 ## Chatbot onboarding
 
