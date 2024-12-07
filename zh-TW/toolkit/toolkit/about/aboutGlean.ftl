@@ -67,6 +67,7 @@ about-glean-adhoc-explanation = 若需進行 <i>ad hoc 臨時測試</i>，也可
 about-glean-adhoc-explanation2 = 若需進行 <i>ad hoc 臨時測試</i>，也可以在 <code>about:glean</code> 本頁面開啟開發者主控台，使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 來取得 <code>metric.category.metric_name</code> 儀器中的資訊，決定測試儀器中的特定值。
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = 註：您正透過開發者工具主控台使用 Glean JS API。這代表指標的分類與名稱會使用 <code>camelCase</code> 格式顯示，而與 Rust 及 C++ API 格式不同。
+about-glean-profiler-explanation = 您可以使用 { -profiler-brand-name } 來檢視所有紀錄指標。首先您必須<a data-l10n-name="firefox-profiler-link">捕捉效能紀錄檔</a>，捕捉完成後即可選擇<q>標記表</q>，檢視 <q>Telemetry</q> 下方的標記。
 controls-button-label-verbose = 套用設定並送出 ping
 about-glean-feedback-settings-only =
     .message = 設定已套用！
