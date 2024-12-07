@@ -304,6 +304,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Вы прапусцілі важнае абнаўленне { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Часткі браўзера хутка перастануць працаваць, калі вы не абновіце яго. Зараз выдатны час атрымаць нашы найноўшыя функцыі і сродкі абароны.
 root-certificate-windows-background-notification-learn-more-button = Падрабязней
 root-certificate-windows-background-notification-update-button = Абнавіць { -brand-short-name }
 

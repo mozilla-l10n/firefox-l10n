@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Больш падрабязна пра ўзмоцненую ахову ад сачэння
 protections-panel-etp-on-header = Узмоцненая ахова ад сачэння ўключана на гэтым сайце
 protections-panel-etp-off-header = Узмоцненая ахова ад сачэння выключана на гэтым сайце
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Сайт не працуе?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Сайт не працуе?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Узмоцненая ахова ад сачэння
     .description = Адключана на гэтым сайце
     .aria-label = Узмоцненая ахова ад сачэння: адключана на { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Сайт не працуе?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Сайт не працуе?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,13 @@ protections-panel-content-blocking-fingerprinters-label = Збіральнікі
 protections-panel-blocking-label = Заблакаваны
 protections-panel-not-blocking-label = Дазволены
 protections-panel-not-found-label = Не выяўлены
+
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Дазволіць { $trackername }
 
 ##
 
@@ -108,7 +115,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Паведаміць пра пашкоджаны сайт
 protections-panel-content-blocking-breakage-report-view-description = Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць { -brand-short-name } лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla. <label data-l10n-name="learn-more">Даведацца больш</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць { -brand-short-name } лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
