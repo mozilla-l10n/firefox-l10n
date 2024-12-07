@@ -140,6 +140,8 @@ login-item-copied-username-button-text = ასლი აღებულია!
 login-item-password-label = პაროლი
 login-item-password-reveal-checkbox =
     .aria-label = პაროლის ჩვენება
+login-item-password-conceal-checkbox =
+    .aria-label = პაროლის დამალვა
 login-item-copy-password-button-text = ასლი
 login-item-copied-password-button-text = ასლი აღებულია!
 login-item-save-changes-button = ცვლილებების შენახვა
@@ -171,6 +173,13 @@ about-logins-edit-login-os-auth-dialog-message-win = მონაცემებ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = შენახული მონაცემის ჩასწორებას
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] პაროლის პარამეტრების შეცვლა
+       *[other] { -brand-short-name } ცდილობს პაროლების პარამეტრების შეცვლას. ნების დასართავად დაადასტურეთ მოწყობილობის მეშვეობით.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = პაროლის ჩასასწორებლად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
 # This message can be seen when attempting to edit a login in about:logins
@@ -252,11 +261,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] შედეგად წაიშლება ანგარიშის მონაცემები, რომელსაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
         [one] შედეგად წაიშლება ანგარიშის მონაცემები, რომელსაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
        *[other] შედეგად წაიშლება ანგარიშების მონაცემები, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] შედეგად წაიშლება შესვლის მონაცემები, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე თქვენი ანგარიშით. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
-       *[other] შედეგად წაიშლება შესვლის ყველა მონაცემი, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე თქვენი ანგარიშით. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

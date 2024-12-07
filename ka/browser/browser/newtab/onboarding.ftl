@@ -221,7 +221,9 @@ mr2022-onboarding-set-default-subtitle = შეუდექით ბრაუ�
 mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, არნახულად გაგიადვილებთ ვებსივრცეში მოგზაურობას. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
 mr2022-onboarding-get-started-primary-button-label = დაყენება წამებში
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = ელვისებური გამართვა
 mr2022-onboarding-import-subtitle = მოაწყვეთ { -brand-short-name } სურვილისამებრ. გადმოიტანეთ თქვენი ძველი ბრაუზერიდან კუთვნილი სანიშნები, პაროლები და სხვ.
@@ -332,3 +334,28 @@ onboarding-device-migration-title = კეთილი იყოს თქვე
 onboarding-device-migration-subtitle = შედით თქვენს  { -fxaccount-brand-name(case: "ins") }, რომ მუდამ თან იქონიოთ თქვენი სანიშნები, პაროლები და ისტორია ახალ მოწყობილობაზე.
 onboarding-device-migration-subtitle2 = შედით ანგარიშზე, რომ თან წაიყოლოთ თქვენი სანიშნები, პაროლები და ისტორია ახალ მოწყობილობაზე.
 onboarding-device-migration-primary-button-label = შესვლა
+
+## Add-ons Picker screen
+
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = ჩვენ ვზრუნავთ თქვენს უსაფრთხოებაზე
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = დაშიფრეთ ყველაფერი მოწყობილობებს შორის გადართვისას
+onboarding-mobile-download-security-and-privacy-subtitle = დასინქრონებისას { -brand-short-name } შიფრავს თქვენს პაროლებს, სანიშნებს და ა. შ. ამასთანავე, ჩანართების წამოღებაც შეგიძლიათ სხვა მოწყობილობებიდან.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } თქვენით სულდგმულობს
+onboarding-gratitude-security-and-privacy-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name } არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
+# Sign up or Sign in screen
+onboarding-sign-up-title = დაასინქრონეთ მონაცემები მოწყობილობს შორის
+
+## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
