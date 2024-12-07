@@ -25,6 +25,7 @@ update-applying = განახლების ამოქმედება�
 update-failed = განახლება ვერ მოხერხდა. <label data-l10n-name="failed-link">უახლესი ვერსიის ჩამოტვირთვა</label>
 update-failed-main = განახლება ვერ მოხერხდა. <a data-l10n-name="failed-link-main">უახლესი ვერსიის ჩამოტვირთვა</a>
 update-adminDisabled = განახლებები აკრძალულია თქვენი სისტემის ზედამხედველის მიერ
+update-policy-disabled = განახლებებს ზღუდავს თქვენი დაწესებულება
 update-noUpdatesFound = { -brand-short-name } განახლებულია
 aboutdialog-update-checking-failed = განახლებების შემოწმება ვერ მოხერხდა.
 update-otherInstanceHandlingUpdates = { -brand-short-name } უკვე ახლდება სხვა ცალკე გაშვებულიდან
@@ -63,3 +64,14 @@ aboutDialog-version = { $version } ({ $bits }-ბიტიანი)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-ბიტიანი)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })

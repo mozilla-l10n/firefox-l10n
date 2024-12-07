@@ -298,6 +298,10 @@ pdfjs-editor-stamp-button-label = სურათების დართვა
 pdfjs-editor-highlight-button =
     .title = მონიშვნა
 pdfjs-editor-highlight-button-label = მონიშვნა
+pdfjs-highlight-floating-button1 =
+    .title = მონიშვნა
+    .aria-label = მონიშვნა
+pdfjs-highlight-floating-button-label = მონიშვნა
 
 ## Remove button for the various kind of editor.
 
@@ -321,6 +325,8 @@ pdfjs-editor-ink-opacity-input = გაუმჭვირვალობა
 pdfjs-editor-stamp-add-image-button =
     .title = სურათის დამატება
 pdfjs-editor-stamp-add-image-button-label = სურათის დამატება
+pdfjs-editor-free-highlight-thickness-title =
+    .title = სისქის შეცვლა წარწერის გარდა სხვა ნაწილების მონიშვნისას
 pdfjs-free-text =
     .aria-label = ნაწერის ჩასწორება
 pdfjs-free-text-default-content = აკრიფეთ…
@@ -331,7 +337,6 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
-# Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = თანდართული წარწერა
 pdfjs-editor-alt-text-edit-button-label = თანდართული წარწერის ჩასწორება
 pdfjs-editor-alt-text-dialog-label = არჩევა
@@ -404,3 +409,7 @@ pdfjs-editor-colorpicker-red =
 
 ## Image alt-text settings
 
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-highlight = მონიშვნა მოცილებულია
