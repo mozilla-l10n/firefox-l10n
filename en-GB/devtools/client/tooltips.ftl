@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = It’s impossible t
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> has no effect on this element since it’s not a positioned element.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> has no effect on this element since it can only be applied to replaced elements.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> has no effect on this element since <strong>overflow:hidden</strong> is not set.
+inactive-css-no-size-containment = <strong>{ $property }</strong> has no effect on this element since it has no size containment.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> has no effect on internal table elements.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> has no effect on internal table elements except table cells.
 inactive-css-not-table = <strong>{ $property }</strong> has no effect on this element since it’s not a table.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> has no effect on this eleme
 inactive-css-ruby-element = <strong>{ $property }</strong> has no effect on this element since it is a ruby element. Its size is determined by the font size of the ruby text.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> is not supported on highlight pseudo-elements.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> is not supported on ::cue pseudo-elements.
@@ -98,6 +104,7 @@ inactive-css-not-floated-fix = Try adding the <strong>float</strong> property wi
 inactive-css-position-property-on-unpositioned-box-fix = Try setting its <strong>position</strong> property to something else than <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Ensure you are adding the property to a replaced element. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Try adding <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Try setting its <strong>display</strong> property to something else than <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, or <strong>inline-table</strong> and make sure it’s not within a table or ruby segment. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Try setting its <strong>display</strong> property to something else than <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Try setting its <strong>display</strong> property to something else than <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Try adding <strong>display:table</strong> or <strong>display:inline-table</strong>. { learn-more }
