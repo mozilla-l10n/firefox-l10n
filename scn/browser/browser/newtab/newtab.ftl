@@ -86,7 +86,7 @@ newtab-menu-delete-history = Cancella dâ crunuluggìa
 newtab-menu-save-to-pocket = Sarba nne { -pocket-brand-name }
 newtab-menu-delete-pocket = Cancella di { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivia nne { -pocket-brand-name }
-newtab-menu-show-privacy-info = I nostri spunzura e a to privatizza
+newtab-menu-show-privacy-info = I nostri patrucinatura e a to privatizza
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
