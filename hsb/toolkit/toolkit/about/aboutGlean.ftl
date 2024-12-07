@@ -48,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Za wujasnjenje rozdźělnych móžnosćow daty natočić a namakać, hlejće
+    rajtark <strong>Wo datach</strong>.
 about-glean-about-testing-header = Wo testowanju
 # This message is followed by a numbered list.
 about-glean-manual-testing =
