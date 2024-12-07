@@ -81,9 +81,9 @@ permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri fin
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Eccizzioni - Accessi sarbati
+    .title = Eccizzioni - Cridinziali sarbati
     .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun vennu sarbati
+permissions-exceptions-saved-logins-desc = I cridinziali pî siti appressu nun vennu sarbati
 
 ## Exceptions - Saved Passwords
 

@@ -559,7 +559,7 @@ prefs-syncing-button =
 sync-currently-syncing-bookmarks = Nzingalibbra
 sync-currently-syncing-history = Crunuluggìa
 sync-currently-syncing-tabs = Schedi raputi
-sync-currently-syncing-logins-passwords = Accessi e chiavi
+sync-currently-syncing-logins-passwords = Cridinziali e chiavi
 sync-currently-syncing-addresses = Nnirizzi
 sync-currently-syncing-creditcards = Carti di crèditu
 sync-currently-syncing-addons = Agghiuncitini
@@ -587,9 +587,9 @@ sync-engine-tabs =
     .tooltiptext = Na lista di soccu cc'è raputu nna tutti i to dispusitivi sincrunizzati
     .accesskey = t
 sync-engine-logins-passwords =
-    .label = Accessi e chiavi
+    .label = Cridinziali e chiavi
     .tooltiptext = Nomi utenti e chiavi chi sarbasti
-    .accesskey = A
+    .accesskey = C
 sync-engine-addresses =
     .label = Nnirizzi
     .tooltiptext = Nnirizzi pustali ca sarbasti (sulu virsiuni scrivanìa)
@@ -634,11 +634,11 @@ privacy-header = Privatizza navigaturi
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Accessi e chiavi
+pane-privacy-logins-and-passwords-header = Cridinziali e chiavi
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Spija di sarbari l'accessi e i chiavi pî siti
+    .label = Spìa di sarbari i cridinziali e i chiavi pî siti
     .accesskey = r
 
 ## Privacy Section - Passwords
