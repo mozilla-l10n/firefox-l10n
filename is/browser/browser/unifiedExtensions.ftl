@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Opna valmynd fyrir { $extensionName }
 unified-extensions-item-message-manage = Sýsla með forritsauka
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } brýtur gegn reglum Mozilla. Það getur verið áhættusamt að nota hann.
 
 ## Extension's context menu
 
