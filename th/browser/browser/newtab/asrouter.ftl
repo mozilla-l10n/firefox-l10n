@@ -295,6 +295,10 @@ root-certificate-succession-infobar-secondary-button =
     .label = ภายหลัง
     .accesskey = L
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = คุณพลาดการอัปเดต { -brand-short-name } ที่สำคัญไป
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

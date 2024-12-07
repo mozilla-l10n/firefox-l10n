@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = รายละเอียดเพิ่มเติมเกี่ยวกับการป้องกันการติดตามแบบพิเศษ
 protections-panel-etp-on-header = การป้องกันการติดตามแบบพิเศษเปิดอยู่สำหรับไซต์นี้
 protections-panel-etp-off-header = การป้องกันการติดตามแบบพิเศษปิดอยู่สำหรับไซต์นี้
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ไซต์ไม่ทำงาน?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ไซต์ไม่ทำงาน?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = การป้องกันการติดตามแบบพิเศษ
     .description = ปิดสำหรับไซต์นี้
     .aria-label = การป้องกันการติดตามแบบพิเศษ: ปิดสำหรับ { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ไซต์ไม่ทำงาน?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ไซต์ไม่ทำงาน?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = ลายนิ้ว�
 protections-panel-blocking-label = ปิดกั้นแล้ว
 protections-panel-not-blocking-label = อนุญาตแล้ว
 protections-panel-not-found-label = ตรวจไม่พบ
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } จะปิดกั้นเนื้อหาติดตามขณะที่คุณอยู่ที่ไซต์นี้นอกจากว่าคุณจะอนุญาต
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = อนุญาต { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = ตัวติดตามและเนื้อหารวมทั้งสิ้น { $trackername } รายการถูกปิดกั้น
+smartblock-placeholder-desc = การตั้งค่า { -brand-short-name } ของคุณปิดกั้นเนื้อหานี้ไม่ให้ติดตามคุณในไซต์ต่างๆ หรือนำไปใช้สำหรับโฆษณา
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = อนุญาตบน { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = รายงานไซต์ที่ใช้งานไม่ได้
 protections-panel-content-blocking-breakage-report-view-description = การปิดกั้นตัวติดตามบางตัวอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ การรายงานปัญหา ก็เท่ากับคุณช่วยทำให้ { -brand-short-name } ดีขึ้นสำหรับทุก ๆ คน การรายงานนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla <label data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</label>
-protections-panel-content-blocking-breakage-report-view-description2 = การปิดกั้นตัวติดตามบางตัวอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ การรายงานปัญหา ก็เท่ากับคุณช่วยทำให้ { -brand-short-name } ดีขึ้นสำหรับทุก ๆ คน การรายงานนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ { -vendor-short-name }
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
