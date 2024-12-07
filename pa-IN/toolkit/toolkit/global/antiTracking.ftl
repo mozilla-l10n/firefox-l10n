@@ -11,3 +11,9 @@ btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
        *[other] “{ $siteHost }” ਨੂੰ ਬਾਊਂਸ ਟੋਹੀ ਵਜੋਂ ਮੰਨਿਆ ਗਿਆ ਹੈ। ਜੇ ਇਸ ਨੇ ਅਗਲੇ { $gracePeriodSeconds } ਸਕਿੰਟਾਂ ਵਿੱਚ ਕੋਈ ਵੀ ਵਰਤੋਂਕਾਰ ਸਰਗਰਮੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਤਾਂ ਇਸ ਦੀ ਸਥਿਤੀ ਨਿਕਾਰ ਦਿੱਤੀ ਜਾਵੇਗੀ।
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = “{ $siteHost }” ਦੀ ਹਾਲਤ ਨੂੰ ਹੁਣੇ ਹੀ ਮਿਟਾਇਆ ਗਿਆ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਨੂੰ ਬਾਊਂਸ ਟਰੈਕਰ ਵਜੋਂ ਖੋਜਿਆ ਗਿਆ ਸੀ।
