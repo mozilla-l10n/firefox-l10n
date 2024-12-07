@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = פתיחת תפריט עבור { $extensionName }
 unified-extensions-item-message-manage = ניהול הרחבה
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = ההרחבה { $extensionName } מפרה את המדיניות של Mozilla. השימוש בה עשוי להיות כרוך בסיכון.
 
 ## Extension's context menu
 
