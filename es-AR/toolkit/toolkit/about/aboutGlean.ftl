@@ -119,6 +119,12 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Consulte la lista siguiente para conocer los casos de uso
     específicos para cada herramienta:
+about-glean-about-data-list-item-dictionary =
+    Para revisar la lista de datos recolectados por { -glean-brand-name } detallados por aplicación, consulte el
+    <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Para registrar un perfil de rendimiento y ver todas las métricas guardadas, use el
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Para revisar la lista de datos recolectados, consulte el
     <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
