@@ -298,6 +298,9 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = คุณพลาดการอัปเดต { -brand-short-name } ที่สำคัญไป
+root-certificate-windows-background-notification-subtitle = ส่วนต่างๆ ของเบราว์เซอร์จะหยุดทำงานในอีกไม่นานถ้าคุณไม่อัปเดต ตอนนี้เป็นโอกาสดีที่จะได้รับการปกป้องและคุณลักษณะล่าสุดจากเรา
+root-certificate-windows-background-notification-learn-more-button = เรียนรู้เพิ่มเติม
+root-certificate-windows-background-notification-update-button = อัปเดต { -brand-short-name }
 
 ## FxA Menu Message variants
 

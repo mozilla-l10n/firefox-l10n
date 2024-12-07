@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ส่งสัญญาณ “Do Not Track” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม
+do-not-track-removal = เราไม่รองรับสัญญาณ “Do Not Track” อีกต่อไป
 do-not-track-description2 =
     .label = ส่งคำขอ “Do Not Track” ให้กับเว็บไซต์
     .accesskey = ม
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = เปิดลิงก์ในแท็บแทนที่จะเป็นหน้าต่างใหม่
     .accesskey = ป
+ask-on-close-multiple-tabs =
+    .label = ถามก่อนที่จะปิดหลายแท็บ
+    .accesskey = ห
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = ถามก่อนที่จะออกด้วย { $quitKey }
+    .accesskey = ก
 confirm-on-close-multiple-tabs =
     .label = ยืนยันก่อนปิดหลายแท็บ
     .accesskey = ย
@@ -557,8 +569,7 @@ home-prefs-shortcuts-description = ไซต์ที่คุณบันทึ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ทางลัดที่ได้รับการสนับสนุน
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
