@@ -47,6 +47,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    데이터를 기록하고 찾는 다양한 방법에 대한 설명은,
+    <strong>데이터 정보</strong> 탭을 참조하세요.
 about-glean-about-testing-header = 테스트 정보
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -104,9 +107,13 @@ about-glean-adhoc-note =
     이는 메트릭 카테고리와 메트릭 이름이 Rust 및 C++ API와 달리 
     <code>camelCase</code> 형식으로 지정됨을 의미합니다.
 about-glean-profiler-explanation =
-    { -profiler-brand-name }을 사용하면 기록된 모든 통계를 볼 수 있습니다.
+    { -profiler-brand-name }을 사용하면 기록된 모든 메트릭을 볼 수 있습니다.
     먼저 <a data-l10n-name="firefox-profiler-link">성능 프로필을 캡처</a>해야 합니다.
     프로필을 캡처했다면 <q>마커 차트</q>를 선택하고 <q>원격 분석</q> 아래의 마커를 살펴보세요.
+about-glean-profiler-explanation-profiler =
+    성능 프로필에서는 수집된 모든 메트릭, 수집 시기, 정확히 어떤 값이 수집되었는지 
+    확인할 수 있습니다. 개별 마커 위에 마우스를 올리면 올바른 값이 수집되었는지, 
+    수집이 적시에 이루어졌는지 확인할 수 있습니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
 about-glean-feedback-settings-only =
     .message = 설정 적용됨!
