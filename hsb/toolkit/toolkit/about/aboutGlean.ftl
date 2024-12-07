@@ -127,7 +127,7 @@ about-glean-about-data-list-item-about-telemetry =
     Zo byšće daty přepytał, kotrež su so přez staršu telemetriju zhromadźili, skonsultujće prošu
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-firefox-profiler =
-    Zo byšće wukonowy profil natočił a wšě natočene metriki widźał, wužiwajće prošu
+    Zo byšće wukonowy profil registrował a wšě natočene metriki widźał, wužiwajće prošu
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
