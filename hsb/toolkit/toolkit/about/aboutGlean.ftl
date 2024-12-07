@@ -114,9 +114,18 @@ about-glean-about-data-header = Wo datach
 about-glean-about-data-description =
     Su někotre rozdźělne nastroje, kotrež móžeće wužiwać, zo byšće sej swoje daty wobhladał, wotwisujo wot toho,
     štož pytaće.
+about-glean-about-data-description-list-intro =
+    Poćahujće so prošu na slědowacu lisćinu za wěste
+    nałožowanske pady za kóždy nastroj:
 about-glean-about-data-list-item-dictionary =
     Zo byšće lisćinu datow přepytał, kotrež je { -glean-brand-name } za kóžde nałoženje zhromadźił, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Zo byšće daty přepytał, kotrež su so přez staršu telemetriju zhromadźili, skonsultujće prošu
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Zo byšće wukonowy profil natočił a wšě natočene metriki widźał, wužiwajće prošu
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
