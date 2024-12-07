@@ -182,7 +182,7 @@ translate-web-pages =
 # used to provide machine translations for web pages.
 translate-attribution = Traduzzioni di <img data-l10n-name="logo"/>
 translate-exceptions =
-    .label = Eccizziuna…
+    .label = Eccizzioni…
     .accesskey = z
 check-user-spelling =
     .label = Cuntrolla l'ortugrafìa mentri dìggiti
@@ -850,7 +850,7 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Pirmisi
-permissions-location = Pusizziuni
+permissions-location = Pusizzioni
 permissions-location-settings =
     .label = Mpustazzioni…
     .accesskey = M
@@ -858,7 +858,7 @@ permissions-xr = Rialtà virtuali
 permissions-xr-settings =
     .label = Mpustazzioni…
     .accesskey = M
-permissions-camera = Càmira
+permissions-camera = Fotucàmmira
 permissions-camera-settings =
     .label = Mpustazzioni…
     .accesskey = M
@@ -874,7 +874,7 @@ permissions-notification-link = Cchiù nfurmazzioni
 permissions-notification-pause =
     .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
-permissions-autoplay = Ripruduzziuni autumàtica
+permissions-autoplay = Ripruduzzioni autumàtica
 permissions-autoplay-settings =
     .label = Mpustazzioni…
     .accesskey = M

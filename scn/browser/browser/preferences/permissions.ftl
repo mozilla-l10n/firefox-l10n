@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Ccizziuna
+    .title = Eccizzioni
     .style = min-width: 45em
 permissions-close-key =
     .key = w
@@ -117,10 +117,10 @@ permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cump
 permissions-site-location-window2 =
     .title = Mpustazzioni- Pirmisi di lucalizzazzioni
     .style = { permissions-window2.style }
-permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizziuni. Po' spicificari quali siti ponnu accèdiri â to pusizziuni. Po' puru bloccari i novi dumanni d'accessu â to pusizziuni.
+permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizzioni. Po' spicificari quali siti ponnu accèdiri â to pusizzioni. Po' puru bluccari i novi dumanni d'accessu â to pusizzioni.
 permissions-site-location-disable-label =
-    .label = Blocca i novi dumanni d'accessu â to pusizziuni
-permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â to pusizziuni. Bluccari l'accessu â to pusizziuni putissi fari sfarsijari certi carattirìstichi dû situ.
+    .label = Blocca i novi dumanni d'accessu â to pusizzioni
+permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â to pusizzioni. Bluccari l'accessu â to pusizzioni putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Virtual Reality
 
@@ -135,12 +135,12 @@ permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu el
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Mpustazzioni - Pirmisi fotucàmira
+    .title = Mpustazzioni - Pirmisi fotucàmmira
     .style = { permissions-window2.style }
-permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmira. Po' spicificari quali siti ponnu accèdiri â fotucàmira. Po' puru bluccari i novi dumanni d'accessu â fotucàmira.
+permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmmira. Po' spicificari quali siti ponnu accèdiri â fotucàmmira. Po' puru bluccari i novi dumanni d'accessu â fotucàmmira.
 permissions-site-camera-disable-label =
-    .label = Blocca i novi dumanni d'accessu â fotucàmira
-permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu d'accèdiri â fotucàmira. Bluccari l'accessu â fotucàmira putissi ncippari certi carattirìstichi dû situ.
+    .label = Blocca i novi dumanni d'accessu â fotucàmmira
+permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu d'accèdiri â fotucàmmira. Bluccari l'accessu â fotucàmmira putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Microphone
 

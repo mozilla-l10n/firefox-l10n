@@ -8,4 +8,4 @@ set-desktop-background-accept =
     .label = Spicìfica comu u funnu dû suprascagnu
 open-desktop-prefs =
     .label = Grapi i prifirenzi dû scagnu
-set-background-position = Pusizziuni:
+set-background-position = Pusizzioni:
