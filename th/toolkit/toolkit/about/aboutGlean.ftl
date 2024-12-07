@@ -16,6 +16,11 @@ about-glean-interface-description =
     เป็นไลบรารีรวบรวมข้อมูลที่ใช้ในโครงการต่างๆ ของ { -vendor-short-name }
     อินเทอร์เฟซนี้ถูกออกแบบมาเพื่อให้นักพัฒนาและนักทดสอบใช้ในการ
     <a data-l10n-name="fog-link">กำหนดเครื่องมือที่จะใช้ในการทดสอบ</a>ด้วยตนเอง
+about-glean-category-about-glean = เกี่ยวกับ { -glean-brand-name }
+about-glean-category-manual-testing = การทดสอบด้วยตนเอง
+about-glean-category-adhoc-testing = การทดสอบแอดฮ็อก
+about-glean-category-profiler = การใช้ตัวสร้างโปรไฟล์
+about-glean-category-about-data = เกี่ยวกับข้อมูล
 about-glean-upload-enabled = เปิดใช้งานการอัปโหลดข้อมูลแล้ว
 about-glean-upload-disabled = ปิดใช้งานการอัปโหลดข้อมูลแล้ว
 about-glean-upload-enabled-local = เปิดใช้งานการอัปโหลดข้อมูลสำหรับส่งไปยังเซิร์ฟเวอร์เฉพาะที่เท่านั้น
@@ -43,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = สำหรับคำอธิบายเกี่ยวกับวิธีต่างๆ ในการบันทึกและค้นหาข้อมูล กรุณาดูที่แท็บ <strong>เกี่ยวกับข้อมูล</strong>
 about-glean-about-testing-header = เกี่ยวกับการทดสอบ
 # This message is followed by a numbered list.
 about-glean-manual-testing =
