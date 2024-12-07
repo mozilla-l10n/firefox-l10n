@@ -103,12 +103,22 @@ about-glean-adhoc-note =
     devtools 콘솔을 사용하여 Glean JS API를 사용하고 있습니다.
     이는 메트릭 카테고리와 메트릭 이름이 Rust 및 C++ API와 달리 
     <code>camelCase</code> 형식으로 지정됨을 의미합니다.
+about-glean-profiler-explanation =
+    { -profiler-brand-name }을 사용하면 기록된 모든 통계를 볼 수 있습니다.
+    먼저 <a data-l10n-name="firefox-profiler-link">성능 프로필을 캡처</a>해야 합니다.
+    프로필을 캡처했다면 <q>마커 차트</q>를 선택하고 <q>원격 분석</q> 아래의 마커를 살펴보세요.
 controls-button-label-verbose = 설정 적용 및 핑 제출
 about-glean-feedback-settings-only =
     .message = 설정 적용됨!
 about-glean-feedback-settings-and-ping =
     .message = 설정이 적용되고 핑 전송됨!
 about-glean-about-data-header = 데이터 정보
+about-glean-about-data-description =
+    찾고 있는 항목에 따라 데이터를 보는 데 
+    사용할 수 있는 몇 가지 도구가 있습니다.
+about-glean-about-data-description-list-intro =
+    각 도구의 구체적인 사용 사례는 
+    아래 목록을 참조하세요:
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
