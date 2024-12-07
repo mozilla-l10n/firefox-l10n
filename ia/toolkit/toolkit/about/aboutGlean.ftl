@@ -15,6 +15,10 @@ about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     es un bibliotheca pro collection de datos usate in projectos { -vendor-short-name }.
     Iste interfacie es designate pro esser usate per disveloppatores e probatores pro <a data-l10n-name="fog-link">testar instrumentation</a> manualmente.
+about-glean-category-about-glean = Re { -glean-brand-name }
+about-glean-category-manual-testing = Test manual
+about-glean-category-adhoc-testing = Test ad hoc
+about-glean-category-about-data = Re datos
 about-glean-upload-enabled = Le cargamento datos es activate.
 about-glean-upload-disabled = Le cargamento datos es disactivate.
 about-glean-upload-enabled-local = Datos carga es activate solo pro invio a un servitor local.
