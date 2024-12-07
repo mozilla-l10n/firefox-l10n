@@ -64,9 +64,9 @@ permissions-exceptions-etp-window2 =
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Eccizzioni - Cookie e dati dû situ
+    .title = Eccizzioni - Viscotta e dati dû situ
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari cookie e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca, Pirmetti sissiuni o Pirmetti.
+permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari viscotta e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' manijari e poi ammacca Blocca, Pirmetti pi sta sissiuni o Pirmetti.
 
 ## Exceptions - HTTPS-Only Mode
 

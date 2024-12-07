@@ -27,8 +27,8 @@ graph-today = Oji
 graph-legend-description = Gràficu cû nùmmaru tutali di trazzatura bluccati sta simana, spartuti pi tipu.
 social-tab-title = Trazzatura dî riti suciali
 social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazzioni supra di tia sparti di chiḍḍu chi sparti nnê to prufili. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
-cookie-tab-title = Cookie trazzanti ntirsitu
-cookie-tab-content = Sti cookie t'assicùtanu d'un situ a n'autru pi cògghiri dati supra a soccu fai 'n linia. Vennu misi di parti terzi, pi scempru agginzìi pubblicitari o cumpagnìi d'anàlisi dî dati. Bluccari sti cookie veni a diri arridùciri u nùmmaru di pubblicità ca t'assicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+cookie-tab-title = Viscotta di trazzatura ntirsitu
+cookie-tab-content = Sti viscotta ti sicùtanu d'un situ a n'autru pi cògghiri dati supra a soccu fai 'n linia. Vennu misi di parti terzi, pi scempru agginzìi pubblicitari o cumpagnìi d'anàlisi dî dati. Bluccari sti viscotta veni a diri arridùciri u nùmmaru di pubblicità ca ti sicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 tracker-tab-title = Cuntinutu trazzanti
 tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri cuntinuti cu còdici trazzanti. Bluccari sti cuntinuti po fari carricari sti siti cchiù lesti, ma certi buttuna, mòduli e panneḍḍi d'accessu putìssiru nun funziunari cchiù. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 fingerprinter-tab-title = Giniratura d'urmi diggitali
@@ -82,11 +82,11 @@ bar-tooltip-social =
            *[other] { $count } trazzatura dî riti suciali ({ $percentage }%)
         }
 bar-tooltip-cookie =
-    .title = Cookie trazzanti ntirsitu
+    .title = Viscotta di trazzatura ntirsitu
     .aria-label =
         { $count ->
-            [one] { $count } cookie trazzanti ntirsitu ({ $percentage }%)
-           *[other] { $count } cookie trazzanti ntirsitu ({ $percentage }%)
+            [one] { $count } viscottu di trazzatura ntirsitu ({ $percentage }%)
+           *[other] { $count } viscotta di trazzatura ntirsitu ({ $percentage }%)
         }
 bar-tooltip-tracker =
     .title = Cuntinutu trazzanti

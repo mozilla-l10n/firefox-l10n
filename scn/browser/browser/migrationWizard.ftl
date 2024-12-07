@@ -30,6 +30,7 @@ migration-imported-safari-reading-list = Lista di littura (di Safari)
 
 migration-bookmarks-option-label = Nzingalibbra
 migration-extensions-option-label = Stinneri
+migration-cookies-option-label = Viscotta
 migration-bookmarks-from-file-picker-title = Mporta pricu dî nzingalibbra
 migration-bookmarks-from-file-progress-header = Staju mpurtannu i nzingalibbra
 migration-bookmarks-from-file = Nzingalibbra

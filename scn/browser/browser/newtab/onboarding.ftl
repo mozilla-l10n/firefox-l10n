@@ -85,6 +85,7 @@ return-to-amo-add-extension-label = Agghiunci u stinneriu
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Nuḍḍu viscottu, nuḍḍa crunuluggìa, direttu dû to scagnu. Nàviga comu si nuḍḍu ti taliassi.
 
 ## MR2022 Privacy Segmentation screen strings
 

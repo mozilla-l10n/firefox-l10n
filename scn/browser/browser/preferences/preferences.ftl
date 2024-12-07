@@ -717,22 +717,22 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookie e dati dî siti
+sitedata-header = Viscotta e dati dî siti
 sitedata-total-size-calculating = Staju carculannu a grannizza dî dati dî siti e dâ cache…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = I cookie, i dati dî siti, e u dipòsitu sarbati a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
+sitedata-total-size = I viscotta sarbati, i dati dî siti e a mimoria cauda a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
 sitedata-learn-more = Cchiù nfurmazzioni
 sitedata-delete-on-close =
-    .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
+    .label = Cancella viscotta e dati dî siti quannu { -brand-short-name } veni chiujutu
     .accesskey = k
-sitedata-delete-on-close-private-browsing = Câ navigazzioni privata pirmanenti, i cookie e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
+sitedata-delete-on-close-private-browsing = Câ navigazzioni privata pirmanenti, i viscotta e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiujutu.
 sitedata-allow-cookies-option =
-    .label = Accetta i cookie e i dati dî siti
+    .label = Accetta viscotta e dati dî siti
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = Blocca i cookie e i dati dî siti
+    .label = Blocca viscotta e dati dî siti
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -740,10 +740,12 @@ sitedata-block-desc = Tipu bluccatu
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Trazzatura ntirsitu
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Viscotta di trazzatura ntirsitu
 sitedata-option-block-unvisited =
-    .label = Cookie di siti nun visitati
+    .label = Viscotta di siti nun visitati
 sitedata-option-block-all =
-    .label = Tutti i cookie (farà ncippari i siti)
+    .label = Tutti i viscotta (rumpi i siti)
 sitedata-clear =
     .label = Cancella dati…
     .accesskey = l
@@ -800,10 +802,10 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-strict-desc = Prutizziuni cchiù auta, ma certi siti o cuntinuti putìssiru farsijari.
 content-blocking-etp-custom-desc = Scegghi quali trazzatura e prugrammi bluccari.
 content-blocking-private-windows = Cuntinuti trazzanti nnê finestri anònimi
-content-blocking-cross-site-tracking-cookies = Cookie trazzanti ntirsitu
+content-blocking-cross-site-tracking-cookies = Viscotta di trazzatura ntirsitu
 content-blocking-social-media-trackers = Trazzatura dî riti suciali
-content-blocking-all-cookies = Tutti i cookie
-content-blocking-unvisited-cookies = Cookie di siti nun visitati
+content-blocking-all-cookies = Tutti i viscotta
+content-blocking-unvisited-cookies = Viscotta di siti nun visitati
 content-blocking-all-windows-tracking-content = Cuntinuti trazzanti 'n tutti i finestri
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d'urmi diggitali
@@ -827,8 +829,8 @@ content-blocking-option-private =
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cancia a lista dî blocchi
 content-blocking-cookies-label =
-    .label = Cookie
-    .accesskey = C
+    .label = Viscotta
+    .accesskey = V
 content-blocking-expand-section =
     .tooltiptext = Cchiù nfurmazzioni
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.

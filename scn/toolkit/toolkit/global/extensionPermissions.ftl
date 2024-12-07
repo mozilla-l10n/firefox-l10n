@@ -9,7 +9,7 @@
 
 webext-perms-description-bookmarks = Lèggiri e canciari i nzingalibbra
 webext-perms-description-browserSettings = Lèggiri e canciari i mpustazzioni dû navigaturi
-webext-perms-description-browsingData = Cancillari a crunuluggìa di navigazzioni ricenti, i cookie e i nfurmazzioni rilativi
+webext-perms-description-browsingData = Cancillari a crunuluggìa di navigazzioni ricenti, i viscotta e i nfurmazzioni rilativi
 webext-perms-description-clipboardRead = Pigghiari dati dû pitazzu
 webext-perms-description-clipboardWrite = Mèttiri dati nnô pitazzu
 webext-perms-description-devtools = Pirmèttiri l'accessu ê dati dî schedi raputi ê strumenti di diviluppu

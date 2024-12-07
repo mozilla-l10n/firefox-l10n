@@ -28,7 +28,7 @@ about-private-browsing-hide-activity-1 = Ammuccia a to attività e unni ti trovi
 about-private-browsing-prominent-cta = Arresta ô sicuru cu { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Scàrrica { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazzioni privata unni sì-sì
-about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navigazzioni mòbbili pulizzìa a to crunuluggìa e i to cookie ogni vota chi l'usi.
+about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navigazzioni mòbbili pulizzìa a to crunuluggìa e i to viscotta ogni vota chi l'usi.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Teni nnâ barra
        *[other] Teni nnâ barra
     }
-about-private-browsing-pin-promo-title = Nuḍḍu cookie, nuḍḍa crunuluggìa, direttu dû to computer. Nàviga comu si nuḍḍu ti taliassi.
+about-private-browsing-pin-promo-title = Nuḍḍu viscottu, nuḍḍa crunuluggìa, direttu dû to scagnu. Nàviga comu si nuḍḍu ti taliassi.
 
 ## Strings used in a promotion message for cookie banner reduction
 
@@ -76,5 +76,5 @@ about-private-browsing-cookie-banners-promo-body = Ora 'n autumàticu rifiutamu 
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Nun lassari trazzi nta stu dispusitivu
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cancella i to cookie, a crunuluggìa e i dati dî siti quannu chiuji tutti i finestri privati.
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cancella i to viscotta, a crunuluggìa e i dati dî siti quannu chiuji tutti i finestri privati.
 about-private-browsing-felt-privacy-v1-info-link = Cu' putissi vìdiri a me attività?

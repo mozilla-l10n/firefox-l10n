@@ -60,6 +60,10 @@ imported-safari-reading-list = Lista di littura (di Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Viscotta
+browser-data-cookies-label =
+    .value = Viscotta
 browser-data-history-checkbox =
     .label =
         { $browser ->

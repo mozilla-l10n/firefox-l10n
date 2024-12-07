@@ -189,6 +189,7 @@ identity-extension-page = Sta pàggina veni carricata di nu stinneriu.
 identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
+identity-permissions-storage-access-header = Viscotta ntirsitu
 identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
 identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazzioni chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-description-insecure-login-forms = I nfurmazzioni d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.

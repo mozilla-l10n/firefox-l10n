@@ -130,6 +130,7 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 
 ## Cookie Banner Handling CFR
 
+cookie-banner-blocker-onboarding-body = Cchiù picca distrazzioni, cchiù picca viscotta chi ti tràzzanu nta stu situ.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
