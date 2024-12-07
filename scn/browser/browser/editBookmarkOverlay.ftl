@@ -5,11 +5,11 @@
 bookmark-overlay-choose =
     .label = Scarta…
 bookmark-overlay-folders-expander =
-    .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbri
+    .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbra
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Ammuccia
 bookmark-overlay-folders-expander2 =
-    .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbri
+    .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbra
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = Ammuccia
 bookmark-overlay-new-folder-button =

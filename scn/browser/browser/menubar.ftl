@@ -104,7 +104,7 @@ menu-view-sidebar =
     .label = Sbarra di ciancu
     .accesskey = c
 menu-view-bookmarks =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
 menu-view-history-button =
     .label = Crunuluggìa
 menu-view-synced-tabs-sidebar =
@@ -190,16 +190,21 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Nzingalibbri
+    .label = Nzingalibbra
     .accesskey = N
+menu-bookmarks-manage =
+    .label = Manija i nzingalibbra
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Riscedi nnê nzingalibbra
 menu-bookmarks-all-tabs =
     .label = Agghiunci tutti i schedi ê nzingalibbri…
 menu-bookmarks-toolbar =
-    .label = Sbarra dî nzingalibbri
+    .label = Sbarra dî nzingalibbra
 menu-bookmarks-other =
-    .label = Autri nzingalibbri
+    .label = Autri nzingalibbra
 menu-bookmarks-mobile =
-    .label = Nzingalibbri dû cillulari
+    .label = Nzingalibbra mòbbili
 
 ## Profiles Menu
 

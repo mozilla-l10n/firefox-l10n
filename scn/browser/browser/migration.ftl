@@ -6,10 +6,10 @@ migration-wizard =
     .title = Mpurtazziuni cunnuciuta
 import-from =
     { PLATFORM() ->
-        [windows] Mporta i prifirenzi, i nzingalibbri, a crunuluggìa, i chiavi e l'autri dati di:
-       *[other] Mporta i prifirenzi, i nzingalibbri, a crunuluggìa, i chiavi e l'autri dati di:
+        [windows] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l'autri dati di:
+       *[other] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l'autri dati di:
     }
-import-from-bookmarks = Mporta i nzingalibbri di:
+import-from-bookmarks = Mporta i nzingalibbra di:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -34,7 +34,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbri, crunuluggìa o chiavi.
+no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbra, crunuluggìa o chiavi.
 import-source-page-title = Mporta mpustazzioni e dati
 import-items-page-title = Cosi di pigghiari
 import-items-description = Scarta quali cosi mpurtari:
@@ -60,6 +60,25 @@ imported-safari-reading-list = Lista di littura (di Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Crunuluggìa di navigazzioni e nzingalibbra
+           *[other] Crunuluggìa di navigazzioni
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Crunuluggìa di navigazzioni e nzingalibbra
+           *[other] Crunuluggìa di navigazzioni
+        }
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Prifiruti
+            [edge] Prifiruti
+           *[other] Nzingalibbra
+        }
 browser-data-session-checkbox =
     .label = Finestri e schedi
 browser-data-session-label =
