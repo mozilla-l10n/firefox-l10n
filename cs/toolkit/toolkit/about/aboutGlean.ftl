@@ -27,6 +27,8 @@ about-glean-interface-description =
 about-glean-category-about-glean = Co je { -glean-brand-name }
 about-glean-category-manual-testing = Ruční testování
 about-glean-category-adhoc-testing = Ad hoc testování
+about-glean-category-profiler = Používání Profileru
+about-glean-category-about-data = O datech
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.
@@ -54,6 +56,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Pro vysvětlení různých způsobů záznamu a vyhledávání dat prosím použijte
+    panel <strong>O datech</strong>.
 about-glean-about-testing-header = O testování
 # This message is followed by a numbered list.
 about-glean-manual-testing =

@@ -500,6 +500,8 @@ pdfjs-editor-alt-text-settings-close-button = Zavřít
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-freetext = Text odstraněn
+pdfjs-editor-undo-bar-message-ink = Kresba odstraněna
 pdfjs-editor-undo-bar-undo-button =
     .title = Zpět
 pdfjs-editor-undo-bar-undo-button-label = Zpět
