@@ -812,7 +812,7 @@ content-blocking-fingerprinters = Giniratura d'urmi diggitali
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
-content-blocking-warning-title = Cumanna!
+content-blocking-warning-title = Accura!
 content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.
 content-blocking-reload-tabs-button =
