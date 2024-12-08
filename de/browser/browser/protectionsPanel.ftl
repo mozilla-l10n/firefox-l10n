@@ -72,6 +72,15 @@ protections-panel-blocking-label = Blockiert
 protections-panel-not-blocking-label = Erlaubt
 protections-panel-not-found-label = Nicht erkannt
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } erlauben
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Auf { $websitehost } erlauben
+
 ##
 
 protections-panel-settings-label = Schutzmaßnahmen-Einstellungen

@@ -493,3 +493,12 @@ pdfjs-editor-alt-text-settings-editor-title = Alternativ-Texteditor
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Alternativ-Texteditor beim Hinzufügen einer Grafik anzeigen
 pdfjs-editor-alt-text-settings-show-dialog-description = Hilft Ihnen, sicherzustellen, dass alle Ihre Grafiken Alternativ-Text haben.
 pdfjs-editor-alt-text-settings-close-button = Schließen
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-undo-button =
+    .title = Rückgängig
+pdfjs-editor-undo-bar-undo-button-label = Rückgängig
+pdfjs-editor-undo-bar-close-button =
+    .title = Schließen
+pdfjs-editor-undo-bar-close-button-label = Schließen

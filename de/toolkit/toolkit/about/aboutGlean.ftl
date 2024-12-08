@@ -16,6 +16,8 @@ about-glean-interface-description =
     ist eine Datensammlungsbibliothek, die in { -vendor-short-name }-Projekten verwendet wird.
     Diese Schnittstelle wurde entwickelt, um von Entwicklern und Testern zum
     händischen <a data-l10n-name="fog-link">Testen von Instrumentierung</a> genutzt zu werden.
+about-glean-category-about-glean = Über { -glean-brand-name }
+about-glean-category-manual-testing = Manuelles Testen
 about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
 about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
 about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.

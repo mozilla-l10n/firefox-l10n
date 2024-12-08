@@ -298,6 +298,12 @@ root-certificate-succession-infobar-secondary-button =
     .label = Später
     .accesskey = S
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Sie haben ein wichtiges { -brand-short-name }-Update verpasst
+root-certificate-windows-background-notification-learn-more-button = Weitere Informationen
+root-certificate-windows-background-notification-update-button = { -brand-short-name } aktualisieren
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

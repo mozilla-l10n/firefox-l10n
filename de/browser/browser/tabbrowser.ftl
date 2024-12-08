@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = { $tabCount } Tabs schließen?
 tabbrowser-confirm-close-tabs-button = Tabs schließen
+tabbrowser-ask-close-tabs-checkbox = Fragen, bevor mehrere Tabs geschlossen werden
 tabbrowser-confirm-close-tabs-checkbox = Bestätigen, bevor mehrere Tabs geschlossen werden
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Fenster schließen und { -brand-s
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } beenden
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Fragen, bevor mit { $quitKey } beendet wird
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Bestätigen, bevor mit { $quitKey } beendet wird
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } beenden oder aktuellen Tab schließen?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } beenden
+       *[other] { -brand-short-name } beenden
+    }
+tabbrowser-confirm-close-tab-only-button = Aktuellen Tab schließen
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +200,9 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Abbrechen
     .accesskey = A
-tab-group-editor-create =
-    .label = Erstellen
-    .accesskey = E
+tab-context-unnamed-group =
+    .label = Unbenannte Gruppe
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
