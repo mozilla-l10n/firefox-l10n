@@ -379,9 +379,30 @@ onboarding-new-user-survey-time-based-option-4 = 1 თვეზე მეტი�
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = ახალბედა ვარ
 onboarding-new-user-survey-familiarity-based-option-2 = ზოგჯერ ვიყენებდი
+onboarding-new-user-survey-familiarity-based-option-3 = კარგადაა ნაცნობი
+onboarding-new-user-survey-familiarity-based-option-4 = ვიყენებდი ადრე, მაგრამ დიდი ხნის წინ
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = გვაცნობეთ, სად გირჩევნიათ ჩანართები განთავსდეს
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = შეცვალეთ, როცა მოგესურვებათ გვერდითი ზოლის პარამეტრებიდან
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = ჩანართები გვერდით
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = ჩანართები ზემოთ
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = შვეული ჩანართები უკვე ხელმისაწვდომია
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = გაეცანით შვეულ ჩანართებს
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = გამოცადეთ ჩანართები გვერდით ზოლზე. შეცვალეთ, როცა მოგესურვებათ გვერდითი ზოლის პარამეტრებიდან.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = მოსინჯეთ შვეული ჩანართები
+onboarding-flair-text = სიახლე!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = დარჩეს ჩანართები თარაზულად
 
 ## New user onboarding checklist
 
