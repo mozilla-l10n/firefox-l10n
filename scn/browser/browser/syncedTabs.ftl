@@ -10,7 +10,7 @@ synced-tabs-sidebar-notabs = Nuḍḍa scheda raputa
 synced-tabs-sidebar-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi.
 synced-tabs-sidebar-connect-another-device = Culleja n'autru dispusitivu
 synced-tabs-sidebar-search =
-    .placeholder = Cerca nnî schedi sincrunizzati
+    .placeholder = Riscedi nnê schedi sincrunizzati
 
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated

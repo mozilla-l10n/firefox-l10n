@@ -16,9 +16,9 @@ searchbar-submit =
     .tooltiptext = Abbìa a risciduta
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
-    .placeholder = Cerca
+    .placeholder = Riscedi
 searchbar-icon =
-    .tooltiptext = Cerca
+    .tooltiptext = Riscedi
 
 ## Infobar shown when search engine is removed and replaced.
 ## Variables

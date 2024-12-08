@@ -5,13 +5,13 @@
 
 about-logins-page-title = Cridinziali e chiavi
 about-logins-login-filter =
-    .placeholder = Cerca nnê cridinziali
+    .placeholder = Riscedi nnê cridinziali
     .key = F
 create-new-login-button =
     .title = Cria novi cridinziali
 about-logins-page-title-name = Chiavi
 about-logins-login-filter2 =
-    .placeholder = Cerca nnê Chiavi
+    .placeholder = Riscedi nnê Chiavi
     .key = F
 create-login-button =
     .title = Agghiunci chiavi

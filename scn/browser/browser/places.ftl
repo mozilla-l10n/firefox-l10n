@@ -69,7 +69,7 @@ places-cmd-find-key =
 places-search-bookmarks =
     .placeholder = Riscedi nnê nzingalibbra
 places-search-history =
-    .placeholder = Cerca nnâ crunuluggìa
+    .placeholder = Riscedi nnâ crunuluggìa
 
 ##
 

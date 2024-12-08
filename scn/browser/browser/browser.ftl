@@ -64,7 +64,7 @@ urlbar-tip-help-icon =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchiù assai: cerca cu { $engineName } direttu dâ to barra dû nnirizzu.
+urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchiù assai: riscedi cu { $engineName } direttu dâ to barra dû nnirizzu.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -123,11 +123,11 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Sta vota, cerca cu:
+search-one-offs-with-title = Sta vota, riscedi cu:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia i mpustazzioni di risciduta
 search-one-offs-context-open-new-tab =
-    .label = Cerca nta na scheda nova
+    .label = Riscedi nta na scheda nova
     .accesskey = n
 search-one-offs-context-set-as-default =
     .label = Metti comu muturi di risciduta pridifinutu
@@ -243,15 +243,15 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Cerca o metti nu nnirizzu
+    .placeholder = Riscedi o metti nu nnirizzu
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Cerca nnâ riti
-    .aria-label = Cerca cu { $name }
+    .placeholder = Riscedi nnâ riti
+    .aria-label = Riscedi cu { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Scrivi i tèrmini dâ risciduta
@@ -259,7 +259,7 @@ urlbar-placeholder-search-mode-other-bookmarks =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Cerca cu { $name } o metti nu nnirizzu
+    .placeholder = Riscedi cu { $name } o metti nu nnirizzu
 urlbar-permissions-granted =
     .tooltiptext = Ci dasti pirmisi addizziunali a stu situ.
 urlbar-switch-to-tab =
@@ -280,36 +280,36 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Cerca cu { $engine } nta na finestra privata
+urlbar-result-action-search-in-private-w-engine = Riscedi cu { $engine } nta na finestra privata
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Cerca cu { $engine }
+urlbar-result-action-search-w-engine = Riscedi cu { $engine }
 urlbar-result-action-visit = Vìsita
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = Ammacca Tab pi circari cu { $engine }
+urlbar-result-action-before-tabtosearch-web = Ammacca Tab pi riscèdiri cu { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Cerca cu { $engine } direttu dâ barra dû nnirizzu
+urlbar-result-action-tabtosearch-web = Riscedi cu { $engine } direttu dâ barra dû nnirizzu
 
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = Cerca cu { $engine }
+urlbar-result-search-with = Riscedi cu { $engine }
 # Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
-urlbar-result-search-with-engine-keywords = { $keywords } - Cerca cu { $engine }
+urlbar-result-search-with-engine-keywords = { $keywords } - Riscedi cu { $engine }
 urlbar-searchmode-bookmarks =
     .label = Nzingalibbra
-urlbar-searchmode-popup-description = Sta vota cerca cu:
+urlbar-searchmode-popup-description = Sta vota riscedi cu:
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -494,7 +494,7 @@ navbar-library =
     .label = Libbrarìa
     .tooltiptext = Vidi crunuluggìa, nzingalibbra sarbati e autru
 navbar-search =
-    .title = Cerca
+    .title = Riscedi
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string

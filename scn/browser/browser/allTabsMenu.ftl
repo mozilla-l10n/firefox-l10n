@@ -4,11 +4,8 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Cerca nnê schedi
-
+    .label = Riscedi nnê schedi
 all-tabs-menu-new-user-context =
     .label = Nova scheda cuntinituri
-
 all-tabs-menu-hidden-tabs =
     .label = Schedi ammucciati
-

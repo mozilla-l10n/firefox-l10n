@@ -14,7 +14,7 @@ new-tab = Nova scheda
 add-bookmark = Agghiunci nzingalibbru
 reader-view = Vista litturi
 # Meant to match the string displayed in an empty URL bar.
-open-location = Cerca o metti nu nnirizzu
+open-location = Riscedi o metti nu nnirizzu
 share = Sparti
 close-window = Chiuji finestra
 open-sidebar = Sbarri di ciancu
@@ -22,7 +22,7 @@ open-sidebar = Sbarri di ciancu
 search-popover = Accurzi di risciduta
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
-search-search-in = Cerca nne:
+search-search-in = Riscedi nne:
 
 ## Various categories of shortcuts for search.
 

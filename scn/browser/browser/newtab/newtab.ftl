@@ -13,17 +13,17 @@ newtab-settings-button =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cerca
-    .aria-label = Cerca
+    .title = Riscedi
+    .aria-label = Riscedi
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = Cerca cu { $engine } o metti nu nnirizzu
+newtab-search-box-handoff-text = Riscedi cu { $engine } o metti nu nnirizzu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = Cerca cu { $engine } o metti nu nnirizzu
-    .title = Cerca cu { $engine } o metti nu nnirizzu
-    .aria-label = Cerca cu { $engine } o metti nu nnirizzu
+    .placeholder = Riscedi cu { $engine } o metti nu nnirizzu
+    .title = Riscedi cu { $engine } o metti nu nnirizzu
+    .aria-label = Riscedi cu { $engine } o metti nu nnirizzu
 
 ## Top Sites - General form dialog.
 

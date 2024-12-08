@@ -8,4 +8,4 @@
 findbar-case-sensitive =
     .label = Rispetta majùsculu e minùsculu
     .accesskey = R
-    .tooltiptext = Cerca rispittannu majùsculu e minùsculu
+    .tooltiptext = Riscedi rispittannu majùsculu e minùsculu

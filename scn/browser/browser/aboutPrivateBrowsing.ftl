@@ -4,20 +4,20 @@
 
 privatebrowsingpage-open-private-window-label = Grapi na finestra privata
     .accesskey = p
-about-private-browsing-search-placeholder = Cerca nnâ riti
+about-private-browsing-search-placeholder = Riscedi nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata
 about-private-browsing-search-btn =
-    .title = Cerca nnâ riti
+    .title = Riscedi nnâ riti
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Cerca cu { $engine } o metti nu nnirizzu
+    .title = Riscedi cu { $engine } o metti nu nnirizzu
 about-private-browsing-handoff-no-engine =
-    .title = Cerca o metti nu nnirizzu
+    .title = Riscedi o metti nu nnirizzu
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = Cerca cu { $engine } o metti nu nnirizzu
-about-private-browsing-handoff-text-no-engine = Cerca o metti nu nnirizzu
+about-private-browsing-handoff-text = Riscedi cu { $engine } o metti nu nnirizzu
+about-private-browsing-handoff-text-no-engine = Riscedi o metti nu nnirizzu
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
 about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
 about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
