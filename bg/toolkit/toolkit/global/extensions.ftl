@@ -11,8 +11,8 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Добавяне на „{ $extension }“?
-webext-perms-header-with-perms = Да се добави ли { $extension }? Това разширение има следните разрешения:
-webext-perms-header-unsigned = Да се добави ли { $extension }? Това разширение е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете го, само ако имате доверие на източника.
+webext-perms-header-with-perms = Да бъде ли добавено разширението { $extension }? То ще има следните права:
+webext-perms-header-unsigned = Да бъде ли добавено разширението { $extension }? То е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете разширението, само ако имате доверие на източника.
 webext-perms-sideload-header = Добавката „{ $extension }“ е добавена
 webext-perms-optional-perms-header = Добавката „{ $extension }“ иска допълнителни права.
 
@@ -84,7 +84,7 @@ webext-perms-host-description-too-many-sites =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Добавяне на { $extension }? Разширението предоставя следните възможности на { $hostname }:
-webext-site-perms-header-unsigned-with-perms = Добавяне на { $extension }? Разширение не е проверено. Злонамерени разширения могат да откраднат лична информация или да компрометират устройството. Добавяйте само ако имате доверие на източника. Това разширение предоставя следните възможности на { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Да бъде ли добавено разширението { $extension }? То е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете разширението, само ако имате доверие на източника. Това разширение предоставя следните възможности на { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
