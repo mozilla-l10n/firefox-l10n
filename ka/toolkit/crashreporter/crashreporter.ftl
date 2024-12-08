@@ -16,6 +16,7 @@ crashreporter-view-report-title = მოხსენების შიგთა
 crashreporter-comment-prompt = დაურთეთ შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)
 crashreporter-report-info = ეს მოხსენება აგრეთვე შეიცავს პროგრამის მდგომარეობის შესახებ ტექნიკურ მონაცემებს მუშაობის შეწყვეტისას.
 crashreporter-send-report = მოახსენეთ გათიშვის შესახებ და { -vendor-short-name } ეცდება, მოაგვაროს ხარვეზი.
+crashreporter-include-url = გვერდის მისამართის დართვა, რომელზეც ვიმყოფებოდი.
 crashreporter-submit-status = მოხსენება უეცარი გათიშვის შესახებ, პროგრამის დახურვამდე ან ხელახლა ჩართვისას გაიგზავნება.
 crashreporter-submit-in-progress = თქვენი მოხსენება იგზავნება…
 crashreporter-submit-success = მოხსენება წარმატებით გაიგზავნა!
@@ -27,6 +28,20 @@ crashreporter-button-ok = კარგი
 crashreporter-button-close = დახურვა
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = უეცარი გათიშვის ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = ამ უეცარი გათიშვის შესახებ ვრცლად იხილავთ ბმულზე { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = ვერ გაეშვა Minidump-Analyzer
+# $path (String) - the file path
+crashreporter-error-opening-file = ვერ გაიხსნა ფაილი ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = ვერ ჩაიტვირთა ფაილი ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = ვერ შეიქმნა საქაღალდე ({ $path })
+crashreporter-error-no-home-dir = აკლია მთავარი საქაღალდე
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = ვერ გადაიტანა საქაღალდეებს შორის: { $from } და { $to }
+crashreporter-error-version-eol = ვადაგასულია: გათიშვის მოხსენებები აღარ მიიღება.
