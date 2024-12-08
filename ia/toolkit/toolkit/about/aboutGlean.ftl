@@ -18,6 +18,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Re { -glean-brand-name }
 about-glean-category-manual-testing = Test manual
 about-glean-category-adhoc-testing = Test ad hoc
+about-glean-category-profiler = Usar le Profilator
 about-glean-category-about-data = Re datos
 about-glean-upload-enabled = Le cargamento datos es activate.
 about-glean-upload-disabled = Le cargamento datos es disactivate.
@@ -46,6 +47,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = Pro un explication de altere manieras pro registrar e trovar datos, per favor refere te al scheda <strong>Re datos</strong>.
 about-glean-about-testing-header = Re testes
 # This message is followed by a numbered list.
 about-glean-manual-testing =
