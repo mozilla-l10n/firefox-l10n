@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Není možné přep
 inactive-css-position-property-on-unpositioned-box = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože nejde o prvek s definovanou pozicí.
 inactive-css-only-replaced-elements = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože ho lze použít pouze na nahrazené prvky.
 inactive-text-overflow-when-no-overflow = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože není nastavené <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože neobsahuje omezení velikosti.
 inactive-css-not-for-internal-table-elements = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na interní prvky tabulky.
 inactive-css-not-for-internal-table-elements-except-table-cells = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na interní prvky tabulky kromě jejích buněk.
 inactive-css-not-table = Vlatnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože se nejedná o tabulku.
@@ -58,8 +59,13 @@ inactive-css-resize = Vlastnost <strong>{ $property }</strong> nemá žádný vl
 inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se jedná o prvek ruby. Jeho velikost je určena velikostí písma textu ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na zvýrazněných pseudoprvcích.
 inactive-css-cue-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::cue.
@@ -100,6 +106,7 @@ inactive-css-not-floated-fix = Zkuste přidat vlastnost <strong>float</strong> s
 inactive-css-position-property-on-unpositioned-box-fix = Zkuste nastavit vlastnost <strong>position</strong> na jinou hodnotu než <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Ujistěte se, že vlastnost přidáváte k nahrazovanému prvku. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Zkuste přidat <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> nebo <strong>inline-table </strong> a ujistěte se, že není v rámci tabulky nebo ruby segmentu. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Zkuste přidat <strong>display:table</strong> nebo <strong>display:inline-table</strong>. { learn-more }

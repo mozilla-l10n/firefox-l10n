@@ -24,6 +24,9 @@ about-glean-interface-description =
             Toto rozhraní je navržené tak, aby ho vývojáři a testeři mohli používat na ruční
             <a data-l10n-name="fog-link">instrumentační testování</a>.
     }
+about-glean-category-about-glean = Co je { -glean-brand-name }
+about-glean-category-manual-testing = Ruční testování
+about-glean-category-adhoc-testing = Ad hoc testování
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.

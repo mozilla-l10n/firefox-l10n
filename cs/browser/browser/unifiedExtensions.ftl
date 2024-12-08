@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Otevřít nabídku pro { $extensionName }
 unified-extensions-item-message-manage = Nastavení tohoto rozšíření
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = Rozšíření { $extensionName } porušuje zásady Mozilly. Jeho používání může být riskantní.
 
 ## Extension's context menu
 
