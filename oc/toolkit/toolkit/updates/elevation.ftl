@@ -16,3 +16,7 @@ elevation-more-elevated =
     serà installada a l'aviada venenta de { -brand-short-name }.
     Podètz tornar aviar { -brand-short-name } ara o contunhar vòstre trabalh e
     tornar aviar mai tard o regetar aquesta mesa a jorn.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Mostrar pas mai
+    .accesskey = M
+sandbox-unprivileged-namespaces-howtofix = Cossí reglar aquesta anomalia
