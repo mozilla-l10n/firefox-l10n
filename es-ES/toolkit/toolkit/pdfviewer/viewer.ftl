@@ -500,3 +500,16 @@ pdfjs-editor-undo-bar-message-highlight = Resaltado eliminado
 pdfjs-editor-undo-bar-message-freetext = Texto eliminado
 pdfjs-editor-undo-bar-message-ink = Dibujo eliminado
 pdfjs-editor-undo-bar-message-stamp = Imagen eliminada
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } anotación eliminada
+       *[other] { $count } anotaciones eliminadas
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Deshacer
+pdfjs-editor-undo-bar-undo-button-label = Deshacer
+pdfjs-editor-undo-bar-close-button =
+    .title = Cerrar
+pdfjs-editor-undo-bar-close-button-label = Cerrar
