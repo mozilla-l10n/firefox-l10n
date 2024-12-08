@@ -110,15 +110,58 @@ sidebar-menu-review-checker-label =
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-open-history-tooltip = ისტორიის გახსნა ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = ისტორიის დახურვა ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = სანიშნების გახსნა ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = სანიშნების დახურვა ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = AI-თანამოსაუბრის გახსნა
+sidebar-menu-close-ai-chatbot-tooltip = AI-თანამოსაუბრის დახურვა
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = გვერდითი ზოლის მორგება
+sidebar-menu-history-header =
+    .heading = ისტორია
+sidebar-menu-syncedtabs-header =
+    .heading = ჩანართები სხვა მოწყობილობებიდან
+sidebar-panel-header-close-button =
+    .tooltiptext = დახურვა
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = გვერდითი ზოლის მორგება
+sidebar-history-title = ისტორია
+sidebar-syncedtabs-title = ჩანართები სხვა მოწყობილობებიდან
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = ჩანართის დახურვა – { $deviceName }
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = გვერდითი ზოლის გაშლა
+    .label = გვერდითი ზოლები
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = გვერდითი ზოლის ჩაკეცვა
+    .label = გვერდითი ზოლები
+sidebar-widget-show-sidebar =
+    .tooltiptext = გვერდითი ზოლის ჩვენება
+    .label = გვერდითი ზოლები
+sidebar-widget-hide-sidebar =
+    .tooltiptext = გვერდითი ზოლის დამალვა
+    .label = გვერდითი ზოლები
