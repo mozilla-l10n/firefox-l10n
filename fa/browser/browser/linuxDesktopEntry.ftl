@@ -12,3 +12,5 @@ desktop-entry-name = { -brand-shortcut-name }
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
+desktop-action-new-window-name = پنجره جدید‌
+desktop-action-new-private-window-name = پنجره ناشناس جدید
