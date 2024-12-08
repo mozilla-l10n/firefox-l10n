@@ -266,4 +266,17 @@ launch-on-login-infobar-final-reject-button = Non, mercé
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = Dobrir mos ligams amb { -brand-short-name }
 tail-fox-spotlight-secondary-button = Pas ara
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+

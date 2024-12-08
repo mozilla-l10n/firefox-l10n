@@ -550,6 +550,8 @@ urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =
     .tooltiptext = Accions de la pagina
+urlbar-revert-button =
+    .tooltiptext = Mostrar l’adreça a la barra d’adreça
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -570,6 +572,11 @@ urlbar-result-action-search-w-engine = Recercar amb { $engine }
 urlbar-result-action-sponsored = Esponsorizat
 urlbar-result-action-switch-tab = Anar a l'onglet
 urlbar-result-action-visit = Visitar
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Anar a l’onglet · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Dobrir l’adreça del quichapapièrs
 # Directs a user to press the Tab key to perform a search with the specified
@@ -605,6 +612,19 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Recercar amb { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Recercar dins { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Recercar amb { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Causir un motor de recèrca
+urlbar-searchmode-bookmarks =
+    .label = Marcapaginas
 urlbar-searchmode-tabs =
     .label = Onglets
 urlbar-searchmode-history =
@@ -660,6 +680,9 @@ urlbar-group-trending =
 urlbar-result-menu-trending-dont-show =
     .label = Mostrar pas las recèrcas popularas
     .accesskey = M
+urlbar-result-menu-trending-why =
+    .label = Perqué vesi aquò ?
+    .accesskey = P
 
 ## Reader View toolbar buttons
 
@@ -964,6 +987,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Extensions
         D’unas son pas premesas
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Extensions
+    .tooltiptext =
+        Extensions,
+        d’unas extensions son desactivadas
 
 ## Private browsing reset button
 
