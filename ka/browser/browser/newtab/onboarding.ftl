@@ -53,6 +53,9 @@ mr1-onboarding-import-primary-button-label-attribution = გადმოტა�
 mr1-onboarding-theme-header = გახადეთ თქვენებური
 mr1-onboarding-theme-subtitle = მოირგეთ { -brand-short-name } გაფორმებით.
 mr1-onboarding-theme-secondary-button-label = ახლა არა
+newtab-wallpaper-onboarding-title = შეაფერადეთ
+newtab-wallpaper-onboarding-subtitle = აირჩიეთ ფონი ახალი ჩანართისვის ახლებური იერსახის მისანიჭებლად.
+newtab-wallpaper-onboarding-primary-button-label = ფონის დაყენება
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = სისტემური გაფორმება
 mr1-onboarding-theme-label-light = ნათელი
@@ -186,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] განათავსეთ { -brand-short-name } Dock-ზე
        *[other] მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = მიამაგრეთ { -brand-short-name } ამოცანათა ზოლსა და დაწყების მენიუში
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -337,6 +342,8 @@ onboarding-device-migration-primary-button-label = შესვლა
 
 ## Add-ons Picker screen
 
+amo-picker-title = მოირგეთ თქვენი { -brand-short-name }
+amo-picker-subtitle = გაფართოებები ერთგვარი პროგრამებია ბრაუზერისთვის, მათი მეშვეობით შესაძლებელია პაროლების დაცვა, ვიდეოების ჩამოტვირთვა, საყიდლების მოძიება, მომაბეზრებელი რეკლამების შეზღუდვა, იერსახის შეცვლა და კიდევ უამრავი რამ.
 
 ## The following screens have been updated to use security and privacy focused strings:
 

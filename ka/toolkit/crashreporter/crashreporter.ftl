@@ -6,6 +6,7 @@ crashreporter-branded-title = { -brand-short-name } უეცარი გათ
 crashreporter-apology = ვწუხვართ
 crashreporter-crashed-and-restore = { -brand-short-name } გაუმართაობის გამო გაითიშა. ვეცდებით თქვენი ჩანართებისა და სარკმლების აღდგენას ხელახლა ჩართვისას.
 crashreporter-plea = ხარვეზის დადგენასა და მის გამოსწორებაში დასახმარებლად, შეგიძლიათ უეცარი გათიშვის შესახებ მოხსენების გამოგზავნა.
+crashreporter-information = პროგრამა ეშვება უეცარი დახურვის შემდეგ, რომ გაგზავნოს მოხსენება, რომელსაც გაეცნობა { -vendor-short-name }. პირდაპირ გაშვება არ ესაჭიროება.
 crashreporter-error = { -brand-short-name } გაუმართაობის გამო გაითიშა.\n\nსამწუხაროდ, უეცარი გათიშვების მომხსენებელი ვერ ახერხებს მოხსენების გადაგზავნას.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = ვრცლად იხილეთ: { $details }
