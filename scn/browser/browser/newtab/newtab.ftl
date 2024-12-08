@@ -160,7 +160,7 @@ newtab-section-header-pocket = Cunzigghiati di { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Accumincia a navigari, e cca ti mustraremu l'artìculi, i vidiu e autri pàggini chi visitasti di ricenti.
+newtab-empty-section-highlights = Accumincia a navigari, e cca ti mustraremu l'artìculi, i vidiu e autri pàggini chi visitasti di picca o chi mittisti nnê nzingalibbra.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
