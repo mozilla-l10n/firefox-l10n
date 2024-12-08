@@ -67,15 +67,45 @@ sidebar-context-menu-bookmark-tab =
     .label = Apondre als marcapaginas…
 sidebar-context-menu-copy-link =
     .label = Copiar lo ligam
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Tampar l’onglet sus { $deviceName }
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Suprimir de l’istoric
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-synced-tabs-label =
+    .label = Onglets d’autres periferics
+sidebar-menu-bookmarks-label =
+    .label = Marcapaginas
+sidebar-menu-customize-label =
+    .label = Personalizar la barra laterala
+sidebar-menu-review-checker-label =
+    .label = Verificador d’avises
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Dobrir l’istoric ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Tampar l’istoric ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Dobrir los marcapaginas ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Tampar los marcapaginas ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

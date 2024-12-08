@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Tampar los onglets situats a esquèrra
     .accesskey = e
+close-tabs-to-the-start-vertical =
+    .label = Tampar los onglets al dessús
+    .accesskey = T
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tampar los onglets situats a drecha
     .accesskey = d
+close-tabs-to-the-end-vertical =
+    .label = Tampar los onglets en dessús
+    .accesskey = a
 close-other-tabs =
     .label = Tampar los autres onglets
     .accesskey = T

@@ -104,6 +104,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Quitar { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar abans de quitar amb { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmacion de dobertura
@@ -169,3 +173,60 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Restablir lo son de l’onglets
 tabbrowser-manager-close-tab =
     .tooltiptext = Tampar l’onglet
+
+## Tab Groups
+
+tab-group-editor-title-edit = Gerir lo grop d’onglets
+tab-group-editor-name-label = Nom
+tab-group-editor-name-field =
+    .placeholder = Exemple : crompas
+tab-group-editor-cancel =
+    .label = Anullar
+    .accesskey = A
+tab-context-unnamed-group =
+    .label = Grop sens nom
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Apondre l’onglet a un grop novèl
+            [one] Apondre l’onglet a un grop novèl
+           *[other] Apondre los onglets a un grop novèl
+        }
+    .accesskey = A
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Apondre l’onglet a un grop
+            [one] Apondre l’onglet a un grop
+           *[other] Apondre los onglets a un grop
+        }
+    .accesskey = A
+tab-group-editor-action-new-tab =
+    .label = Onglet novèl dins lo grop
+tab-group-editor-action-new-window =
+    .label = Desplaçar lo grop cap a una fenèstra novèla
+tab-group-editor-action-save =
+    .label = Enregistrar e tampar lo grop
+tab-group-editor-action-ungroup =
+    .label = Dissociar los onglets
+tab-group-editor-action-delete =
+    .label = Suprimir lo grop
+tab-group-editor-done =
+    .label = Acabat
+    .accessKey = A
+tab-context-reopen-tab-group =
+    .label = Tornar dobrir lo grop d’onglets
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Tirar del grop
+            [one] Tirar del grop
+           *[other] Tirar del grop
+        }
+    .accesskey = T
