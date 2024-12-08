@@ -12,6 +12,11 @@ glean-debug-ping-viewer-brand-name = Zobrazovač pingu ladenia v nástroji { -gl
 about-glean-page-title2 = Čo je { -glean-brand-name }
 about-glean-header = Čo je { -glean-brand-name }
 about-glean-interface-description = <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> je knižnica na zber údajov používaná v projektoch { -vendor-short-name(case: "gen") }. Toto rozhranie je navrhnuté tak, aby ho vývojári a testeri mohli používať na manuálne <a data-l10n-name="fog-link">inštrumentačné testovanie</a>.
+about-glean-category-about-glean = Čo je { -glean-brand-name }
+about-glean-category-manual-testing = Manuálne testovanie
+about-glean-category-adhoc-testing = Ad hoc testovanie
+about-glean-category-profiler = Používanie nástroja na profilovanie
+about-glean-category-about-data = O údajoch
 about-glean-upload-enabled = Nahrávanie údajov je povolené.
 about-glean-upload-disabled = Nahrávanie údajov je zakázané.
 about-glean-upload-enabled-local = Nahrávanie údajov je povolené len pre odosielanie na lokálny server.
