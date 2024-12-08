@@ -344,11 +344,14 @@ onboarding-device-migration-primary-button-label = შესვლა
 
 amo-picker-title = მოირგეთ თქვენი { -brand-short-name }
 amo-picker-subtitle = გაფართოებები ერთგვარი პროგრამებია ბრაუზერისთვის, მათი მეშვეობით შესაძლებელია პაროლების დაცვა, ვიდეოების ჩამოტვირთვა, საყიდლების მოძიება, მომაბეზრებელი რეკლამების შეზღუდვა, იერსახის შეცვლა და კიდევ უამრავი რამ.
+amo-picker-install-complete-label = ჩადგმულია
+amo-picker-collection-link = მოიძიეთ სხვა დამატებები
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = ჩვენ ვზრუნავთ თქვენს უსაფრთხოებაზე
+onboarding-easy-setup-security-and-privacy-subtitle = ჩვენი ბრაუზერი არამომგებიანი დაწესებულებისგანაა და გეხმარებათ აირიდოთ კომპანიებისგან ფარული თვალთვალი ვებსივრცით სარგებლობისას.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = დაშიფრეთ ყველაფერი მოწყობილობებს შორის გადართვისას
 onboarding-mobile-download-security-and-privacy-subtitle = დასინქრონებისას { -brand-short-name } შიფრავს თქვენს პაროლებს, სანიშნებს და ა. შ. ამასთანავე, ჩანართების წამოღებაც შეგიძლიათ სხვა მოწყობილობებიდან.
@@ -357,9 +360,25 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } თქ�
 onboarding-gratitude-security-and-privacy-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name } არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
 # Sign up or Sign in screen
 onboarding-sign-up-title = დაასინქრონეთ მონაცემები მოწყობილობს შორის
+onboarding-sign-up-description = შექმენით ანგარიში და ყველა თქვენი მნიშვნელოვანი მონაცემი – პაროლები, სანიშნები და ა. შ. — დაცული და ხელმისაწვდომი იქნება ნებისმიერი მოწყობილობიდან შესვლისას.
+onboarding-sign-up-button = შედით ან შექმენით ანგარიში
+onboarding-sign-up-secondary-button = დაიწყეთ მოგზაურობა ინტერნეტში
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = დიდი ხანია გაქვთ { -brand-short-name } და ხშირად იყენებთ?
+onboarding-new-user-familiarity-based-survey-title = თქვენთვის კარგად ნაცნობია { -brand-short-name }?
+onboarding-new-user-survey-subtitle = თქვენი გამოხმაურება დაგვეხმარება, რომ { -brand-short-name } კიდევ უფრო უკეთესი გავხადოთ.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = შემდეგი
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = ახალბედა ვარ
+onboarding-new-user-survey-time-based-option-2 = 1 თვეზე ნაკლებია
+onboarding-new-user-survey-time-based-option-3 = 1 თვეზე მეტია, მუდმივად
+onboarding-new-user-survey-time-based-option-4 = 1 თვეზე მეტია, დროდადრო
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = ახალბედა ვარ
+onboarding-new-user-survey-familiarity-based-option-2 = ზოგჯერ ვიყენებდი
 
 ## UI strings for the sidebar and vertical tabs
 
