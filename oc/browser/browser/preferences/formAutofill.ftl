@@ -20,6 +20,7 @@ autofill-manage-edit-button = Modificar…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Enregistrar l’adreça ?
+address-capture-save-doorhanger-description = Salvar aquestas informacions dins { -brand-short-name } per poder emplenar los formularis rapidament.
 address-capture-update-doorhanger-header = Actualizar l’adreça ?
 address-capture-edit-doorhanger-header = Modificar l’adreça
 address-capture-save-button =
@@ -46,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Apondre una adreça
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar l'adreça
-autofill-address-name = Nom
 autofill-address-given-name = Pichon nom
 autofill-address-additional-name = Segond pichon nom
 autofill-address-family-name = Nom
+autofill-address-name = Nom
 autofill-address-organization = Societat
 autofill-address-street-address = Adreça postala
 autofill-address-street = Adreça postala
@@ -102,9 +103,6 @@ autofill-address-postal-code = Còdi postal
 autofill-address-zip = Còdi postal (Estats Units)
 # Used in IE
 autofill-address-eircode = Còdi postal (Eircode)
-
-##
-
 
 ##
 
