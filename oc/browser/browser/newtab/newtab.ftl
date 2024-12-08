@@ -8,11 +8,18 @@
 newtab-page-title = Onglet novèl
 newtab-settings-button =
     .title = Personalizar la pagina Onglet novèl
+newtab-personalize-settings-icon-label =
+    .title = Personalizar la pagina onglet novèl
+    .aria-label = Paramètres
+newtab-settings-dialog-label =
+    .aria-label = Paramètres
 newtab-personalize-icon-label =
     .title = Personalizacion de la pagina onglet novèl
     .aria-label = Personalizacion de la pagina onglet novèl
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,7 @@ newtab-menu-save-to-pocket = Enregistrar dins { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimir de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
+newtab-menu-about-fakespot = A prepaus de { -fakespot-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -195,6 +203,7 @@ newtab-section-header-recent-activity = Activitat recenta
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomandat per { $provider }
+newtab-section-header-stories = Articles suggerits
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -322,6 +331,10 @@ newtab-wallpaper-white-mountains = Montanhas blancas
 newtab-weather-see-forecast =
     .title = Mostrar la prevision metèo de { $provider }
 newtab-weather-menu-change-location = Modificar lo luòc
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Cercar un luòc
+    .aria-label = Cercar un luòc
+newtab-weather-change-location-search-input = Cercar un luòc
 newtab-weather-menu-weather-display = Afichatge metèo
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

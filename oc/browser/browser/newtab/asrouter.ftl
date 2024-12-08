@@ -271,12 +271,22 @@ tail-fox-spotlight-secondary-button = Pas ara
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-primary-button =
+    .label = Metre a jorn ara
+    .accesskey = M
+root-certificate-succession-infobar-secondary-button =
+    .label = Mai tard
+    .accesskey = a
 
 ## Root Certificate Succession Windows Background Notification
 
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Tampar
+    .aria-label = Tampar
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-start-browsing-primary-button-label = Començar de navegar

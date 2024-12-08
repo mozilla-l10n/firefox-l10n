@@ -1,3 +1,90 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+sidebar-options-menu-button =
+    .title = Dobrir lo menú
+
+## Labels for sidebar history panel
+
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Uèi – { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Ièr – { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+sidebar-history-delete =
+    .title = Suprimir de l’istoric
+sidebar-history-sort-by-date =
+    .label = Triar per data
+sidebar-history-sort-by-site =
+    .label = Triar per site
+sidebar-history-clear =
+    .label = Escafar l'istoric
+
+## Labels for sidebar search
+
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Resultats de la recèrca per « { $query } »
+
+## Labels for sidebar customize panel
+
+sidebar-customize-extensions-header = Extensions de la barra laterala
+sidebar-customize-firefox-tools-header =
+    .label = Aisinas de { -brand-product-name }
+sidebar-customize-firefox-settings = Gerir los paramètres de { -brand-short-name }
+sidebar-position-left =
+    .label = Mostrar a man esquèrra
+sidebar-position-right =
+    .label = Mostrar a man drecha
+sidebar-vertical-tabs =
+    .label = Onglets verticals
+sidebar-horizontal-tabs =
+    .label = Onglets orizontals
+sidebar-customize-tabs-header =
+    .label = Paramètres dels onglets
+
+## Labels for sidebar context menu items
+
+sidebar-context-menu-manage-extension =
+    .label = Gerir l’extension
+sidebar-context-menu-remove-extension =
+    .label = Suprimir l’extension
+sidebar-context-menu-report-extension =
+    .label = Senhalar l’extension
+sidebar-context-menu-open-in-window =
+    .label = Dobrir dins una fenèstra novèla
+sidebar-context-menu-open-in-private-window =
+    .label = Dobrir dins una fenèstra privada novèla
+sidebar-context-menu-bookmark-tab =
+    .label = Apondre als marcapaginas…
+sidebar-context-menu-copy-link =
+    .label = Copiar lo ligam
+
+## Labels for sidebar history context menu items
+
+
+## Labels for sidebar menu items.
+
+
+## Tooltips for sidebar menu items.
+
+
+## Headings for sidebar menu panels.
+
+
+## Titles for sidebar menu panels.
+
+
+## Context for closing synced tabs when hovering over the items
+
+
+## Tooltips for the sidebar toolbar widget.
+

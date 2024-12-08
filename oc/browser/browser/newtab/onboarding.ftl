@@ -222,7 +222,9 @@ mr2022-onboarding-set-default-subtitle = Utilizatz un navegador sostengut per un
 mr2022-onboarding-get-started-primary-subtitle = Nòstra darrièra version es concebuda per vos, per far venir mai simpla la navegacion pel Web. Aquesta darrièra version es fargada de foncionalitats que vos agradarà.
 mr2022-onboarding-get-started-primary-button-label = Configuracion dins un ai
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuracion dins un ai
 mr2022-onboarding-import-subtitle = Configuratz { -brand-short-name } coma volètz. Ajustatz vòstres marcapaginas, senhals e encara mai a partir de vòstre ancian navegador.
@@ -333,6 +335,12 @@ onboarding-device-migration-title = Urós de vos tornar veire !
 onboarding-device-migration-subtitle = Connectatz-vos a vòstre { -fxaccount-brand-name(capitalization: "sentence") } per emportar vòstres marcapaginas, senhals e istorics amb vos sus vòstre aparelh novèl.
 onboarding-device-migration-primary-button-label = Se connectar
 
+## Add-ons Picker screen
+
+amo-picker-install-button-label = Apondre a { -brand-short-name }
+amo-picker-install-complete-label = Installat
+amo-picker-collection-link = Percórrer mai de moduls
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -342,8 +350,15 @@ onboarding-mobile-download-security-and-privacy-title = Demoratz en lòc segur a
 onboarding-mobile-download-security-and-privacy-subtitle = Quand la sincronizacion es activada, { -brand-short-name } chifra vòstres senhals, vòstres marcapaginas e encara mai. Amai podètz recuperar vòstres onglets de vòstres autres aparelhs.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es totjorn aquí per vos
+onboarding-sign-up-secondary-button = Començar de navegar
 
 ## New user time and familiarity survey strings
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Seguent
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+

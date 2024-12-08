@@ -3,9 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-create-profile = Crear un perfil
+profile-card-edit-button =
+    .title = Modificar lo perfil
+    .aria-label = Modificar lo perfil
+profile-card-delete-button =
+    .title = Suprimir lo perfil
+    .aria-label = Suprimir lo perfil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Dobrir { $profileName }
+    .aria-label = Dobrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Perfil d’origina
 edit-profile-page-title = Modificar lo perfil
 edit-profile-page-header = Modificar vòstre perfil
 edit-profile-page-profile-name-label = Nom del perfil
@@ -14,8 +27,9 @@ edit-profile-page-explore-themes = Descobrir mai de tèmas
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Suprimir
+new-profile-page-learn-more = Ne saber mai
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Fenèstras dobèrtas
@@ -23,6 +37,9 @@ delete-profile-windows = Fenèstras dobèrtas
 delete-profile-tabs = Onglets dobèrts
 delete-profile-bookmarks = Marcapaginas
 delete-profile-logins = Senhals
+
+##
+
 # Button label
 delete-profile-cancel = Anullar
 # Button label

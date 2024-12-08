@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 19em
     .placeholder = Cercar pels paramètres
 managed-notice = Vòstra organizacion gerís vòstre navegador.
+managed-notice-info-icon =
+    .alt = Informacions
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -559,8 +561,7 @@ home-prefs-shortcuts-description = Los sites qu’enregistratz o consultatz
 home-prefs-shortcuts-by-option-sponsored =
     .label = Acorchis pairinejats
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
@@ -707,6 +708,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
     .alt = Cambiar la fòto de perfil de l'utilizaire
+fxa-login-rejected-warning =
+    .alt = Avertiment
 sync-sign-out =
     .label = Se desconnectar
     .accesskey = d
@@ -765,6 +768,9 @@ sync-currently-syncing-creditcards = Cartas de crèdit
 sync-currently-syncing-payment-methods = Metòdes de pagament
 sync-currently-syncing-addons = Moduls complementaris
 sync-currently-syncing-settings = Paramètres
+sync-manage-options =
+    .label = Gerir la sincronizacion…
+    .accesskey = G
 sync-change-options =
     .label = Modificar…
     .accesskey = M

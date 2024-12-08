@@ -49,8 +49,6 @@ screenshots-too-large-error-details = Ensajatz de seleccionar una zòna que lo c
 screenshots-component-retry-button =
     .title = Tornar ensajar de capturar
     .aria-label = Tornar ensajar de capturar
-screenshots-component-copy-button-label = Copiar
-screenshots-component-download-button-label = Telecargar
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
@@ -58,9 +56,5 @@ screenshots-component-download-button-label = Telecargar
 
 ##
 
-# This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Seleccionar aquesta zòna
