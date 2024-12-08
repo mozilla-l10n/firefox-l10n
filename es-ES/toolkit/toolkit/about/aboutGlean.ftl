@@ -16,6 +16,9 @@ about-glean-interface-description =
     es una biblioteca de recopilación de datos utilizada en proyectos de { -vendor-short-name }.
     Esta interfaz está diseñada para que los desarrolladores y probadores
     <a data-l10n-name="fog-link">prueben manualmente la instrumentación</a>.
+about-glean-category-about-glean = Acerca de { -glean-brand-name }
+about-glean-category-manual-testing = Prueba manual
+about-glean-category-adhoc-testing = Prueba ad hoc
 about-glean-upload-enabled = La carga de datos está activada.
 about-glean-upload-disabled = La carga de datos está desactivada.
 about-glean-upload-enabled-local = La carga de datos está activada solo para enviar a un servidor local.
