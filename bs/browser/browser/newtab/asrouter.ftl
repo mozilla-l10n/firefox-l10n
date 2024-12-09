@@ -14,6 +14,12 @@ cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto mi se ovo prikazuje
 cfr-doorhanger-extension-cancel-button = Ne sada
     .accesskey = N
+cfr-doorhanger-extension-ok-button = Dodaj sada
+    .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Upravljajte postavkama preporuka
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Nemojte mi pokazivati ovu preporuku
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Saznajte više
 # This string is used on a new line below the add-on name
 # Variables:
@@ -22,11 +28,30 @@ cfr-doorhanger-extension-author = od { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Preporuka
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-extension-notification2 = Preporuka
+    .tooltiptext = Preporuka za ekstenziju
+    .a11y-announcement = Dostupna preporuka za ekstenziju
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-feature-notification = Preporuka
+    .tooltiptext = Preporuka za funkciju
+    .a11y-announcement = Dostupna preporuka za funkciju
 
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } zvijezda
+            [few] { $total } zvijezde
+           *[other] { $total } zvijezda
+        }
 
 ## Firefox Accounts Message
 
