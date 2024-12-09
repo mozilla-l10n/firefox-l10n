@@ -344,6 +344,7 @@ onboarding-device-migration-primary-button-label = შესვლა
 
 amo-picker-title = მოირგეთ თქვენი { -brand-short-name }
 amo-picker-subtitle = გაფართოებები ერთგვარი პროგრამებია ბრაუზერისთვის, მათი მეშვეობით შესაძლებელია პაროლების დაცვა, ვიდეოების ჩამოტვირთვა, საყიდლების მოძიება, მომაბეზრებელი რეკლამების შეზღუდვა, იერსახის შეცვლა და კიდევ უამრავი რამ.
+amo-picker-install-button-label = დაიმატებს { -brand-short-name }
 amo-picker-install-complete-label = ჩადგმულია
 amo-picker-collection-link = მოიძიეთ სხვა დამატებები
 
@@ -371,6 +372,7 @@ onboarding-new-user-familiarity-based-survey-title = თქვენთვის
 onboarding-new-user-survey-subtitle = თქვენი გამოხმაურება დაგვეხმარება, რომ { -brand-short-name } კიდევ უფრო უკეთესი გავხადოთ.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = შემდეგი
+onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }” ღილაკზე დაჭერით ეთანხმებით { -brand-product-name }-ის <a data-l10n-name="privacy_notice">პირადულობის დებულებას</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = ახალბედა ვარ
 onboarding-new-user-survey-time-based-option-2 = 1 თვეზე ნაკლებია
@@ -406,3 +408,4 @@ onboarding-existing-horizontal-tabs-label = დარჩეს ჩანარ�
 
 ## New user onboarding checklist
 
+onboarding-checklist-extension = გაფართოების დამატება
