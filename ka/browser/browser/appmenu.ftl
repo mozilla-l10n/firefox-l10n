@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = მეტი ჩანართის ჩვენება
     .tooltiptext = სხვა ჩანართების ჩვენებაც, ამ მოწყობილობიდან
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = უქმი ჩანართები
+    .tooltiptext = იხილეთ უქმი ჩანართები ამ მოწყობილობაზე
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = გახსნილი ჩანართები არაა
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -195,6 +199,9 @@ profiler-popup-presets-power-description = მზა პარამეტრე
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = კვება
+profiler-popup-presets-debug-description = მზა პარამეტრები, რომ გაიმართოს { -brand-shorter-name }. მეტად დამტვირთავია, არ გამოიყენოთ მძიმე სამუშაოების დროს, გამოსადეგია ბრაუზერის ქცევაზე დასაკვირვებლად.
+profiler-popup-presets-debug-label =
+    .label = გამართვა
 profiler-popup-presets-custom-label =
     .label = მორგებული
 
@@ -268,7 +275,21 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
-appmenuitem-relay-description = შენიღბეთ თქვენი ნამდვილი ელფოსტა და ნომერი
+appmenuitem-sign-in-account = ანგარიშზე შესვლა
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = ცნობები მონაცემთა მიტაცებისას
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = დაიცავით პირადულობა ინტერნეტში
 
 ## Profiles panel
 
+appmenu-profiles = პროფილები
+appmenu-other-profiles = სხვა პროფილები
+appmenu-manage-profiles =
+    .label = პროფილების მართვა
+appmenu-create-profile =
+    .label = ახალი პროფილი
+appmenu-edit-profile =
+    .aria-label = პროფილის ჩასწორება
