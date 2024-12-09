@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = რისი ბრალია?
 about-httpsonly-explanation-nosupport = სავარაუდოდ, საიტზე არაა მხარდაჭერილი HTTPS.
 about-httpsonly-explanation-risk = არც ისაა გამორიცხული, შემტევის ხელიც ერიოს. თუ მაინც გადაწყვეტთ ეწვიოთ ამ საიტს, ნუ შეიყვანთ მის ველებში საფრთხილო მონაცემებს, პაროლებს, ელფოსტას ან საკრედიტო ბარათის ნომრებს.
 about-httpsonly-explanation-continue = თუ განაგრძობთ, ამ საიტისთვის დროებით გამოირთვება მხოლოდ-HTTPS-რეჟიმი.
+about-httpsonly-explanation-iframe = შერეული შიგთავსის შეზღუდვის გამო შეუძლებელია ამ ჩარჩოს ჩატვირთვისთვის ხელოვნურად ნების დართვა.
 about-httpsonly-button-continue-to-site = გადასვლა HTTP-საიტზე
 about-httpsonly-button-go-back = უკან დაბრუნება
 about-httpsonly-link-learn-more = ვრცლად…
