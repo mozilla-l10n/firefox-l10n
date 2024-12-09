@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = Cerca nei segnalibri
 urlbar-result-action-search-history = Cerca nella cronologia
 urlbar-result-action-search-tabs = Cerca nelle schede
 urlbar-result-action-search-actions = Cerca nelle azioni
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Apri { $group }
 
 ## Labels shown above groups of urlbar results
 
