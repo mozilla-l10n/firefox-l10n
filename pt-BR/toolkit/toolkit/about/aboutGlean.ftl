@@ -12,6 +12,11 @@ glean-debug-ping-viewer-brand-name = Visor de ping de debugo do { -glean-brand-n
 about-glean-page-title2 = Sobre o { -glean-brand-name }
 about-glean-header = Sobre o { -glean-brand-name }
 about-glean-interface-description = O <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> é uma biblioteca de coleta de dados usada em projetos da { -vendor-short-name }. Esta interface foi projetada para ser usada por desenvolvedores e testadores para <a data-l10n-name="fog-link">testar instrumentação</a> manualmente.
+about-glean-category-about-glean = Informações sobre o { -glean-brand-name }
+about-glean-category-manual-testing = Testes manuais
+about-glean-category-adhoc-testing = Testes direcionados
+about-glean-category-profiler = Como usar o Profiler
+about-glean-category-about-data = Informações sobre dados
 about-glean-upload-enabled = O envio de dados está ativado.
 about-glean-upload-disabled = O envio de dados está desativado.
 about-glean-upload-enabled-local = O envio de dados está ativado apenas para enviar a um servidor local.
@@ -36,6 +41,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Para uma explicação das diferentes formas de gravar e encontrar dados, consulte a aba
+    <strong>Informações sobre dados</strong>.
 about-glean-about-testing-header = Informações sobre testes
 # This message is followed by a numbered list.
 about-glean-manual-testing = Instruções completas estão documentadas na <a data-l10n-name="fog-instrumentation-test-doc-link">documentação de testes de instrumentação do { -fog-brand-name }</a> e na <a data-l10n-name="glean-sdk-doc-link">documentação do { glean-sdk-brand-name }</a>, mas, resumindo, para testar manualmente se sua instrumentação funciona, você deve:
