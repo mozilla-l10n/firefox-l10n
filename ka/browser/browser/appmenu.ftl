@@ -104,8 +104,11 @@ appmenu-fxa-sync-and-save-data2 = დასინქრონება და �
 appmenu-fxa-signed-in-label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
+appmenu-fxa-setup-sync-new = ჩართვა
 appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
+appmenuitem-fxa-sync-off-title = დასინქ. გამორთულია
+appmenuitem-fxa-sync-off-description = დაცვა და წვდომა თქვენს სანიშნებთან, პაროლებთან და ყველაფერთან ნებისმიერი ადგილიდან.
 
 ## What's New panel in App menu.
 
@@ -166,6 +169,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = მზა პარამეტრები, პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
@@ -257,3 +265,10 @@ appmenu-developer-tools-extensions =
     .label = გაფართოებები შემმუშავებელთათვის
 appmenuitem-report-broken-site =
     .label = მოხსენება დაზიანებული საიტის შესახებ
+
+## Panel for privacy and security products
+
+appmenuitem-relay-description = შენიღბეთ თქვენი ნამდვილი ელფოსტა და ნომერი
+
+## Profiles panel
+
