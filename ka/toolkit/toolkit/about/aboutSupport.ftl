@@ -214,7 +214,7 @@ intl-locales-supported = პროგრამის ენები
 intl-locales-default = ნაგულისხმევი ენა
 intl-os-title = საოპერაციო სისტემა
 intl-os-prefs-system-locales = სისტემის ენები
-intl-regional-prefs = რეგიონული პარამეტრები
+intl-regional-prefs = სამხარეო პარამეტრები
 
 ## Remote Debugging
 ##
@@ -453,3 +453,7 @@ pointing-device-none = მიმთითებელი მოწყობი�
 # to external websites.
 content-analysis-title = შიგთავსის გარჩევა (DLP)
 content-analysis-active = მოქმედი
+content-analysis-connected-to-agent = მიერთებულია სამეთვალყურეო
+content-analysis-agent-path = სამეთვალყურეოს მდებარეობა
+content-analysis-agent-failed-signature-verification = სამეთვალყურეოს უშედეგო დამოწმება
+content-analysis-request-count = მოთხოვნის რაოდენობა
