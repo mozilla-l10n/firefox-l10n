@@ -43,15 +43,71 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = ამიხსენი
     .value = გთხოვ გადმომცე მონიშნულის ძირითადი აზრი ადვილად გასაგები სიტყვებით. ამასთანავე მაგალითების მოყვანით.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = ვიმყოფები გვერდზე სათაურით „{ $tabTitle }“ და მონიშნულია „{ $selection }“.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = ჰკითხეთ AI-თანამოსაუბრეს
+genai-input-ask-generic =
+    .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
+genai-shortcuts-hide =
+    .label = თანამოსაუბრის მალსახმობის დამალვა
 
 ## Chatbot header
 
+genai-chatbot-title = AI-თანამოსაუბრე
+genai-header-provider-menu =
+    .title = აირჩიეთ თანამოსაუბრე
+genai-header-options-button =
+    .title = მენიუს გახსნა
+genai-header-close-button =
+    .title = დახურვა
+genai-provider-view-details =
+    .label = იხილეთ თანამოსაუბრის მონაცემები
+genai-provider-about-chatbots =
+    .label = ამ თანამოსაუბრეების შესახებ
+genai-options-reload-generic =
+    .label = ახლიდან ჩაიტვირთოს თანამოსაუბრე
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = ახლიდან ჩაიტვირთოს { $provider }
+genai-options-show-shortcut =
+    .label = მალსახმობის ჩვენება ტექსტის მონიშვნისას
+genai-options-hide-shortcut =
+    .label = მალსახმობის დამალვა ტექსტის მონიშვნისას
+genai-options-about-chatbot =
+    .label = AI-თანამოსაუბრეების შესახებ, რომელსაც გთავაზობთ { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = იხილეთ დასკვნები, ახალი მოსაზრებები და ა. შ. გვერდების მონახულებისას
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = აირჩიეთ AI-თანამოსაუბრე, რომელსაც გაგიხსნით { -brand-short-name } გვერდით ზოლზე გამოსაყენებლად. დაწვრილებით იხილავთ თითოეული თანამოსაუბრის შესახებ მათი შერჩევისას. ნებისმიერ დროს შეგეძლებათ შეცვლას. <a data-l10n-name="learn-more">ვრცლად</a>
+genai-onboarding-primary = განაგრძეთ
+genai-onboarding-secondary = დახურვა
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = უკეთ გაიცანით Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = უკეთ გაიცანით ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = უკეთ გაიცანით Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = უკეთ გაიცანით Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = უკეთ გაიცანით HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = უკეთ გაიცანით Le Chat
+genai-onboarding-select-header = მონიშნეთ ტექსტი შემოთავაზებებისთვის
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
