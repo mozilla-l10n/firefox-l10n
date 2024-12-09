@@ -136,6 +136,7 @@ windows-launch-on-login =
     .label = გაეშვას { -brand-short-name } თავისით კომპიუტერის ჩართვისთანავე
     .accesskey = ე
 windows-launch-on-login-disabled = ეს შესაძლებლობა გათიშულია Windows-ში. შესაცვლელად იხილეთ <a data-l10n-name="startup-link">Startup Apps</a> სისტემის პარამეტრებში.
+windows-launch-on-login-profile-disabled = ამ პარამეტრის ჩასართავად „{ profile-manager-use-selected.label }“ მონიშნეთ „მოხმარებლის პროფილის არჩევის“ ფანჯარაში.
 startup-restore-warn-on-quit =
     .label = გაფრთხილება ბრაუზერის დახურვისას
 disable-extension =
@@ -152,6 +153,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა
     .accesskey = ჯ
+ask-on-close-multiple-tabs =
+    .label = შეკითხვა რამდენიმე ჩანართის დახურვისას
+    .accesskey = რ
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = შეკითხვა დახურვისას ღილაკებით { $quitKey }
+    .accesskey = უ
 confirm-on-close-multiple-tabs =
     .label = გაფრთხილება რამდენიმე ჩანართის დახურვისას
     .accesskey = ფ
@@ -208,6 +220,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = სათავსის წაშლა
 containers-remove-cancel-button = სათავსის დატოვება
+settings-tabs-show-image-in-preview =
+    .label = შეთვალიერების ჩვენება ჩანართზე მაჩვენებლის გადატარებისას
+    .accessKey = ტ
 
 ## General Section - Language & Appearance
 
@@ -261,8 +276,10 @@ preferences-default-zoom = ნაგულისხმევი ზომა
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = მხოლოდ ტექსტის ზომა
-    .accesskey = ტ
+    .label = მხოლოდ ნაწერის ზომა
+    .accesskey = ზ
+preferences-text-zoom-override-warning =
+    .message = გაფრთხილება: როცა მონიშნულია „მხოლოდ ნაწერის ზომა“ და მოახლოება ნაგულისხმევად არაა 100%, შეიძლება ზოგიერთ საიტზე დაირღვეს შიგთავსის განლაგება.
 language-header = ენა
 choose-language-description = მიუთითეთ სასურველი ენა გვერდების საჩვენებლად
 choose-button =
@@ -289,7 +306,7 @@ translate-exceptions =
 use-system-locale =
     .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის გამოიყენოს საოპერაციო სისტემის პარამეტრები ენისთვის „{ $localeName }“.
 check-user-spelling =
-    .label = მართლწერის შემოწმება ტექსტის აკრეფისას
+    .label = მართლწერის შემოწმება აკრეფისთანავე
     .accesskey = მ
 
 ## General Section - Files and Applications

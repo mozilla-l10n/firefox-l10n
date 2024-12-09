@@ -122,8 +122,8 @@ menu-edit-find-again =
     .label = კვლავძიება
     .accesskey = კ
 menu-edit-bidi-switch-text-direction =
-    .label = ტექსტის მიმართულების შეცვლა
-    .accesskey = ტ
+    .label = ნაწერის მიმართულების შეცვლა
+    .accesskey = წ
 
 ## View Menu
 
@@ -158,7 +158,7 @@ menu-view-full-zoom-actual-size =
     .label = არსებული ზომა
     .accesskey = ა
 menu-view-full-zoom-toggle =
-    .label = მხოლოდ ტექსტის ზომის შეცვლა
+    .label = მხოლოდ ნაწერის ზომის შეცვლა
     .accesskey = ტ
 menu-view-page-style-menu =
     .label = გვერდის სტილი
@@ -251,6 +251,9 @@ menu-bookmarks-other =
     .label = სხვა სანიშნები
 menu-bookmarks-mobile =
     .label = მობილურის სანიშნები
+
+## Profiles Menu
+
 
 ## Tools Menu
 
