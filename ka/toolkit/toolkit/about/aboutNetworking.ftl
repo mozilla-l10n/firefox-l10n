@@ -4,6 +4,7 @@
 
 about-networking-title = ქსელის შესახებ
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP-მარაგის გასუფთავება
 about-networking-sockets = სოკეტები:
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-მარაგის გასუფთავება
