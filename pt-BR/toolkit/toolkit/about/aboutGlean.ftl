@@ -85,6 +85,10 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Configurações aplicadas e ping enviado!
 about-glean-about-data-header = Informações sobre dados
+about-glean-about-data-description = Existem algumas ferramentas diferentes que você pode usar para ver seus dados, dependendo do que está procurando.
+about-glean-about-data-description-list-intro = Consulte na lista abaixo casos de uso específicos de cada ferramenta:
+about-glean-about-data-list-item-dictionary = Para consultar a lista de dados coletados pelo { -glean-brand-name } por aplicativo, consulte o <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Dicionário</a>.
+about-glean-about-data-list-item-about-telemetry = Para consultar dados coletados pela telemetria legada, use <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation =
     Para ver a lista de dados coletados, consulte o
     <a data-l10n-name="glean-dictionary-link">dicionário do { -glean-brand-name }</a>.
