@@ -55,3 +55,7 @@ callout-pdfjs-draw-button = გასაგებია!
 
 ## Sidebar Callout Survey Strings
 
+sidebar-genai-survey-satisfaction-question = რამდენად კმაყოფილი ხართ AI-თანამოსაუბრესთან წვდომით გვერდითი ზოლიდან?
+sidebar-genai-survey-productive-question =
+    რამდენად ეთანხმებით ან არ ეთანხმებით დებულებას:<br/>
+    „ხელოვნური ინტელექტის თანამოსაუბრე გვერდით ზოლზე მეხმარება შედეგიანობის გაზრდაში“?
