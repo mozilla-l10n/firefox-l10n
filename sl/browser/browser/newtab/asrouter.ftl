@@ -304,6 +304,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Pozneje
     .accesskey = n
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Zamudili ste pomembno posodobitev za { -brand-short-name(sklon: "tozilnik") }
+root-certificate-windows-background-notification-subtitle = Deli brskalnika bodo kmalu nehali delovati, če ga ne boste posodobili. Zdaj je pravšnji čas, da prejmete najnovejše zaščite in zmožnosti.
+root-certificate-windows-background-notification-learn-more-button = Več o tem
+root-certificate-windows-background-notification-update-button = Posodobi { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

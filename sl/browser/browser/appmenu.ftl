@@ -241,7 +241,7 @@ appmenu-help-share-ideas =
     .label = Sporoči ideje in povratne informacije …
     .accesskey = D
 appmenu-help-switch-device =
-    .label = Preklapljanje na novo napravo
+    .label = Prehod na novo napravo
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

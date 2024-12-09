@@ -41,10 +41,44 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Nekatere razširitve niso dovoljene
 unified-extensions-mb-quarantined-domain-message = Zaradi zaščite vaših podatkov so na tem spletnem mestu dovoljene samo nekatere razširitve, ki jih { -vendor-short-name } nadzoruje.
-unified-extensions-mb-quarantined-domain-message-2 = Za zaščito vaših podatkov nekatere razširitve ne morejo brati ali spreminjati podatkov na tem spletnem mestu. Delovanje razširitve na spletnih straneh, kjer jo omejuje { -vendor-short-name }, lahko omogočite v njenih nastavitvah.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nekatere razširitve niso dovoljene
     .message = Za zaščito vaših podatkov nekatere razširitve ne morejo brati ali spreminjati podatkov na tem spletnem mestu. Delovanje razširitve na spletnih straneh, kjer jo omejuje { -vendor-short-name }, lahko omogočite v njenih nastavitvah.
 unified-extensions-mb-quarantined-domain-learn-more = Več o tem
     .aria-label = Preberite več: Nekatere razširitve niso dovoljene
+unified-extensions-mb-about-addons-link = Pojdi na nastavitve razširitev
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } je onemogočen
+    .message = Ta razširitev krši Mozilline pravilnike, zato je bila onemogočena. V nastavitvah jo lahko omogočite, vendar je to morda nevarno
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } je onemogočen
+    .message = Ta razširitev krši Mozilline pravilnike, zato je bila onemogočena.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } onemogočena razširitev
+            [two] { $extensionsCount } onemogočeni razširitvi
+            [few] { $extensionsCount } onemogočene razširitve
+           *[other] { $extensionsCount } onemogočenih razširitev
+        }
+    .message =
+        Nekatere izmed vaših razširitev so bile onemogočene zaradi kršenja Mozillinih pravilnikov.
+        V nastavitvah jih lahko omogočite, vendar je to morda nevarno.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } onemogočena razširitev
+            [two] { $extensionsCount } onemogočeni razširitvi
+            [few] { $extensionsCount } onemogočene razširitve
+           *[other] { $extensionsCount } onemogočenih razširitev
+        }
+    .message = Nekatere izmed vaših razširitev so bile onemogočene zaradi kršenja Mozillinih pravilnikov.

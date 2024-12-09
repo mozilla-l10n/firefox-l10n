@@ -30,4 +30,5 @@ webext-perms-description-sessions = dostop do nedavno zaprtih zavihkov
 webext-perms-description-tabs = dostop do zavihkov brskalnika
 webext-perms-description-tabHide = Skrij in prikaži zavihke brskalnika
 webext-perms-description-topSites = dostop do zgodovine brskanja
+webext-perms-description-userScripts = dovoljevanje dostopa do vaših podatkov nepotrjenim skriptom tretjih strani
 webext-perms-description-webNavigation = dostop do dejavnosti brskalnika

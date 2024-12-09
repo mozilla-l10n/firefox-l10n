@@ -350,7 +350,7 @@ menu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = I
 menu-help-switch-device =
-    .label = Preklapljanje na novo napravo
+    .label = Prehod na novo napravo
     .accesskey = n
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

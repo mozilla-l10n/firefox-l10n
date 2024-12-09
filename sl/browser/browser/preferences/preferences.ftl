@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Spletnim stranem pošiljajte signal “Brez sledenja”, torej da vam naj ne sledijo
+do-not-track-removal = Signala "Brez sledenja" ne podpiramo več
 do-not-track-description2 =
     .label = Spletnim mestom pošiljaj zahtevo "brez sledenja"
     .accesskey = d
@@ -154,6 +155,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Odpiraj povezave v zavihkih namesto v novih oknih
     .accesskey = d
+ask-on-close-multiple-tabs =
+    .label = Vprašaj pred zapiranjem več zavihkov hkrati
+    .accesskey = t
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

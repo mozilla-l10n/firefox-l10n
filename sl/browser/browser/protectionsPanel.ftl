@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Več o izboljšani zaščiti pred sledenjem
 protections-panel-etp-on-header = Izboljšana zaščita pred sledenjem je VKLJUČENA za to stran
 protections-panel-etp-off-header = Izboljšana zaščita pred sledenjem je IZKLJUČENA za to stran
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Stran ne deluje?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Stran ne deluje?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Izboljšana zaščita pred sledenjem
     .description = Izključena na tem spletnem mestu
     .aria-label = Izboljšana zaščita pred sledenjem: izključena na { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Stran ne deluje?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Stran ne deluje?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,16 @@ protections-panel-content-blocking-fingerprinters-label = Sledilci prstnih odtis
 protections-panel-blocking-label = Zavrnjeno
 protections-panel-not-blocking-label = Dovoljeno
 protections-panel-not-found-label = Ni zaznanih
+
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Dovoli { $trackername }
+smartblock-placeholder-desc = Nastavitve { -brand-short-name(sklon: "rodilnik") } so preprečile tej vsebini, da bi vam sledila med spletnimi mesti ali se uporabljala za oglase.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Dovoli na { $websitehost }
 
 ##
 
@@ -108,7 +118,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi nedelujočo stran
 protections-panel-content-blocking-breakage-report-view-description = Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati { -brand-short-name } za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika. <label data-l10n-name="learn-more">Več o tem</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati { -brand-short-name } za vse uporabnike. { -vendor-short-name(sklon: "dajalnik") } bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

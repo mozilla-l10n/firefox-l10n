@@ -99,6 +99,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Zapri { $tabCount } zavihkov?
     }
 tabbrowser-confirm-close-tabs-button = Zapri zavihke
+tabbrowser-ask-close-tabs-checkbox = Vprašaj pred zapiranjem več zavihkov hkrati
 tabbrowser-confirm-close-tabs-checkbox = Vprašaj za potrditev pred zapiranjem več zavihkov hkrati
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -126,7 +127,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Zapri okno in zapusti { -brand-sh
 tabbrowser-confirm-close-tabs-with-key-button = Izhod iz { -brand-short-name }a
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Vprašaj pred zapiranjem s { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vprašaj za potrditev pred zapiranjem z { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Želite zapreti { -brand-short-name(sklon: "tozilnik") } ali trenutni zavihek?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Izhod iz { -brand-short-name(sklon: "rodilnik") }
+       *[other] Izhod iz { -brand-short-name(sklon: "rodilnik") }
+    }
+tabbrowser-confirm-close-tab-only-button = Zapri trenutni zavihek
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -214,6 +229,53 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Prekliči
     .accesskey = P
-tab-group-editor-create =
-    .label = Ustvari
-    .accesskey = U
+tab-context-unnamed-group =
+    .label = Neimenovana skupina
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [one] Dodaj zavihek k novi skupini
+            [two] Dodaj zavihka k novi skupini
+            [few] Dodaj zavihke k novi skupini
+           *[other] Dodaj zavihke k novi skupini
+        }
+    .accesskey = s
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [one] Dodaj zavihek k skupini
+            [two] Dodaj zavihka k skupini
+            [few] Dodaj zavihke k skupini
+           *[other] Dodaj zavihke k skupini
+        }
+    .accesskey = s
+tab-group-editor-action-new-tab =
+    .label = Nov zavihek v skupini
+tab-group-editor-action-new-window =
+    .label = Premakni skupino v novo okno
+tab-group-editor-action-save =
+    .label = Shrani in zapri skupino
+tab-group-editor-action-ungroup =
+    .label = Razdruži zavihke
+tab-group-editor-action-delete =
+    .label = Izbriši skupino
+tab-group-editor-done =
+    .label = Končano
+    .accessKey = K
+tab-context-reopen-tab-group =
+    .label = Znova odpri skupino zavihkov
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [one] Odstrani iz skupin
+            [two] Odstrani iz skupin
+            [few] Odstrani iz skupin
+           *[other] Odstrani iz skupin
+        }
+    .accesskey = O
