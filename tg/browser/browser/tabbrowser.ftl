@@ -193,5 +193,41 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Илова кардани варақа ба гурӯҳи нав
+           *[other] Илова кардани варақаҳо ба гурӯҳи нав
+        }
+    .accesskey = Г
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Илова кардани варақа ба гурӯҳ
+           *[other] Илова кардани варақаҳо ба гурӯҳ
+        }
+    .accesskey = Г
+tab-group-editor-action-new-tab =
+    .label = Варақаи нав дар гурӯҳ
+tab-group-editor-action-new-window =
+    .label = Гузаронидани гурӯҳ ба равзанаи нав
+tab-group-editor-action-save =
+    .label = Нигоҳ доштан ва пӯшидани гурӯҳ
+tab-group-editor-action-ungroup =
+    .label = Ҷудо кардани варақаҳо аз гурӯҳ
 tab-group-editor-action-delete =
     .label = Нест кардани гурӯҳ
+tab-group-editor-done =
+    .label = Тайёр
+    .accessKey = Т
+tab-context-reopen-tab-group =
+    .label = Барқарор кардани гурӯҳи варақаҳо
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Тоза кардан аз гурӯҳ
+           *[other] Тоза кардан аз гурӯҳ
+        }
+    .accesskey = Т

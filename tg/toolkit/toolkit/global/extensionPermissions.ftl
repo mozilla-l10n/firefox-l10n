@@ -30,4 +30,6 @@ webext-perms-description-sessions = Дастрас кардани варақаҳ
 webext-perms-description-tabs = Дастрас кардани варақаҳои браузер
 webext-perms-description-tabHide = Намоиш ва пинҳон кардани варақаҳои браузер
 webext-perms-description-topSites = Дастрас кардани таърихи тамошо
+webext-perms-description-trialML = Моделҳои зеҳни сунъӣ «AI»-ро боргирӣ кунед ва дар дастгоҳи худ иҷро намоед
+webext-perms-description-userScripts = Ба скриптҳои тасдиқнашудаи тарафи сеюм иҷозат диҳед, ки ба маълумоти шумо дастрасӣ пайдо намоянд
 webext-perms-description-webNavigation = Дастрас кардани фаъолияти браузер ҳангоми паймоиш

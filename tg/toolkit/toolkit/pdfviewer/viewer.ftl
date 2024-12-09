@@ -476,3 +476,7 @@ pdfjs-editor-alt-text-settings-download-model-button = Боргирӣ карда
 pdfjs-editor-alt-text-settings-downloading-model-button = Дар ҳоли боргирӣ…
 pdfjs-editor-alt-text-settings-editor-title = Муҳаррири матни иловагӣ
 pdfjs-editor-alt-text-settings-close-button = Пӯшидан
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-freetext = Матн тоза карда шуд
