@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = დოკუმენტის შე�
 pdfjs-document-properties-file-name = ფაილის სახელი:
 pdfjs-document-properties-file-size = ფაილის მოცულობა:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } კბაიტი ({ $b } ბაიტი)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } მბაიტი ({ $b } ბაიტი)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } კბ ({ $size_b } ბაიტი)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = თემა:
 pdfjs-document-properties-keywords = საკვანძო სიტყვები:
 pdfjs-document-properties-creation-date = შექმნის დრო:
 pdfjs-document-properties-modification-date = ჩასწორების დრო:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -275,6 +286,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } შენიშვნა]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -325,8 +339,14 @@ pdfjs-editor-ink-opacity-input = გაუმჭვირვალობა
 pdfjs-editor-stamp-add-image-button =
     .title = სურათის დამატება
 pdfjs-editor-stamp-add-image-button-label = სურათის დამატება
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = სისქე
 pdfjs-editor-free-highlight-thickness-title =
     .title = სისქის შეცვლა წარწერის გარდა სხვა ნაწილების მონიშვნისას
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = ნაწერის ჩასწორება
+    .default-content = დაიწყეთ აკრეფა…
 pdfjs-free-text =
     .aria-label = ნაწერის ჩასწორება
 pdfjs-free-text-default-content = აკრიფეთ…
@@ -338,6 +358,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = თანდართული წარწერა
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = დართული წარწერის ჩასწორება
 pdfjs-editor-alt-text-edit-button-label = თანდართული წარწერის ჩასწორება
 pdfjs-editor-alt-text-dialog-label = არჩევა
 pdfjs-editor-alt-text-dialog-description = თანდართული (შემნაცვლებელი) წარწერა გამოსადეგია მათთვის, ვინც ვერ ხედავს სურათებს ან გამოისახება მაშინ, როცა სურათი ვერ ჩაიტვირთება.
@@ -351,6 +373,9 @@ pdfjs-editor-alt-text-decorative-tooltip = მოინიშნოს მორ
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = მაგალითად, „ახალგაზრდა მამაკაცი მაგიდასთან ზის და სადილობს“
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = დართული წარწერა
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -402,14 +427,62 @@ pdfjs-editor-colorpicker-red =
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = ყველას ჩვენება
+pdfjs-editor-highlight-show-all-button =
+    .title = ყველას ჩვენება
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = დართული წარწერის ჩასწორება (სურათის აღწერის)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = დართული წარწერის დამატება (სურათის აღწერის)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = დაწერეთ თქვენი აღწერა აქ…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = მოკლე აღწერა მათთვის, ვინც ვერ ხედავს სურათს ან ვისთანაც ვერ ჩაიტვირთება სურათი.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = ეს დართული წარწერა ავტომატურადაა შედგენილი და შესაძლოა, უმართებულო იყოს.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = ვრცლად
+pdfjs-editor-new-alt-text-create-automatically-button-label = დართული წარწერის ავტომატური შედგენა
+pdfjs-editor-new-alt-text-not-now-button = ახლა არა
+pdfjs-editor-new-alt-text-error-title = დართული წარწერის შედგენა ვერ მოხერხდა
+pdfjs-editor-new-alt-text-error-description = გთხოვთ დაწეროთ საკუთარი დანართი და კვლავ სცადოთ მოგვიანებით.
+pdfjs-editor-new-alt-text-error-close-button = დახურვა
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = ჩამოიტვირთება დართული წარწერის შესადეგი AI-მოდელი ({ $downloadedSize } ზომით { $totalSize } მბაიტი)
+    .aria-valuetext = ჩამოიტვირთება დართული წარწერის შესადეგი AI-მოდელი ({ $downloadedSize } ზომით { $totalSize } მბაიტი)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = დართული წარწერა დამატებულია
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-delete-model-button = წაშლა
+pdfjs-editor-alt-text-settings-download-model-button = ჩამოტვირთვა
+pdfjs-editor-alt-text-settings-downloading-model-button = ჩამოიტვრითება...
+pdfjs-editor-alt-text-settings-editor-title = დართული ტექსტის ჩამსწორებელი
+pdfjs-editor-alt-text-settings-show-dialog-button-label = გამოჩნდეს დართული ტექსტის ჩამსწორებელი სურათის დამატებისთანავე
+pdfjs-editor-alt-text-settings-show-dialog-description = უზრუნველყოფს, რომ თქვენს ყველა სურათს გააჩნდეს დართული ტექსტი.
+pdfjs-editor-alt-text-settings-close-button = დახურვა
 
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = მონიშვნა მოცილებულია
+pdfjs-editor-undo-bar-message-freetext = ტექსტი მოცილებულია
+pdfjs-editor-undo-bar-message-ink = ნახატი მოცილებულია
+pdfjs-editor-undo-bar-message-stamp = სურათი მოცილებულია
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } შენიშვნა მოცილებულია
+       *[other] { $count } შენიშვნა მოცილებულია
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = დაბრუნება
+pdfjs-editor-undo-bar-undo-button-label = დაბრუნება
