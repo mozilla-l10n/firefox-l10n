@@ -28,7 +28,7 @@ protection-report-page-content-title = დაცვის მაჩვენე�
 protection-report-page-summary = { -brand-short-name } იცავს თქვენს უსაფრთხოებას შეუმჩნევლად, გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } იცავს თქვენს უსაფრთხოებას შეუმჩნევლად, გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
-protection-report-settings-link = პირადულობისა და უსართხოების პარამეტრები
+protection-report-settings-link = პირადულობისა და უსაფრთხოების პარამეტრები
 etp-card-title-always = თვალთვალისგან გაძლიერებული დაცვა: მუდმივად ჩართულია
 etp-card-title-custom-not-blocking = თვალთვალისგან გაძლიერებული დაცვა: გამორთულია
 etp-card-content-description = { -brand-short-name } ავტომატურად უზღუდავს კომპანიებს, თქვენს მოქმედებებზე ფარულად თვალის მიდევნების საშუალებას ვებსივრცეში.
