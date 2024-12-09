@@ -107,6 +107,10 @@ about-glean-adhoc-note =
     Tenga en cuenta que está utilizando la API Glean JS mediante la consola devtools.
     Esto significa que la categoría de métrica y el nombre de la métrica tienen el formato
     <code>camelCase</code> a diferencia de las APIs de Rust y C++.
+about-glean-profiler-explanation-profiler =
+    En el perfil de rendimiento se pueden ver todas las métricas recopiladas, cuándo fueron
+    recolectados y qué valores se recolectaron exactamente. Al pasar el cursor sobre marcadores individuales,
+    se puede verificar si se recopiló el valor correcto y que la recopilación se realizó en el momento correcto.
 controls-button-label-verbose = Aplicar configuración y enviar ping
 about-glean-feedback-settings-only =
     .message = ¡Configuración aplicada!
@@ -122,6 +126,13 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     Para revisar la lista de datos recolectados por { -glean-brand-name } detallados por aplicación, consulte el
     <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Para explorar los datos recopilados por la telemetría antigua, consulte
+    <a data-l10n-name="about-telemetry-link">about: telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Para explorar etiquetas de depuración, ver pings completos, ver una transmisión de eventos en vivo o ver la métrica
+    de visualizaciones, consulte el
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Para registrar un perfil de rendimiento y ver todas las métricas guardadas, use el
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
