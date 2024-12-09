@@ -15,6 +15,11 @@ about-glean-interface-description =
     { -vendor-short-name } 项目使用 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> 收集数据。
     此接口面向开发者和测试人员提供，
     用于手动<a data-l10n-name="fog-link">测试检测</a>。
+about-glean-category-about-glean = 关于 { -glean-brand-name }
+about-glean-category-manual-testing = 手动测试
+about-glean-category-adhoc-testing = 临时测试
+about-glean-category-profiler = 使用分析器
+about-glean-category-about-data = 关于数据
 about-glean-upload-enabled = 已启用数据上传。
 about-glean-upload-disabled = 已禁用数据上传。
 about-glean-upload-enabled-local = 数据上传仅在发送到本地服务器时启用。
@@ -37,6 +42,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>：{ $glean-android-de
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>：{ $moz-official-define-value }
+about-glean-additional-links = 有关记录和查找数据的各种方式，请参见<strong>关于数据</strong>标签页。
 about-glean-about-testing-header = 关于测试
 # This message is followed by a numbered list.
 about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 检测测试文档</a>和 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文档</a>。不过简而言之，如需手动测试检测是否有效，您需要：
@@ -65,10 +71,15 @@ about-glean-adhoc-note =
     请注意您正在通过开发工具控制台使用 Glean JS API。
     这意味着指标类别和指标名称的格式为
     <code>camelCase</code>，这与 Rust 和 C++ API 不同。
+about-glean-profiler-explanation = 若要查看已记录的所有指标，可使用 { -profiler-brand-name }。首先需要<a data-l10n-name="firefox-profiler-link">捕获性能分析记录</a>，之后就可以选择<q>标记图表</q>，在<q>遥测</q>部分中查看标记。
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-feedback-settings-only =
     .message = 设置已应用！
 about-glean-feedback-settings-and-ping =
     .message = 设置已应用，并已发送 ping！
 about-glean-about-data-header = 关于数据
+about-glean-about-data-description = 根据需要查看的数据类型，可通过不同工具进行查看。
+about-glean-about-data-description-list-intro = 请参考下方列表，了解各工具的具体用例：
+about-glean-about-data-list-item-dictionary = 若要浏览 { -glean-brand-name } 对各应用程序收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
+about-glean-about-data-list-item-about-telemetry = 若要浏览旧版遥测正在收集的数据，请查阅 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。

@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:vis
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> 对此元素无效，因为其只能对可替换元素应用。
 inactive-text-overflow-when-no-overflow = 由于未设置 <strong>overflow:hidden</strong>，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-no-size-containment = 由于没有尺寸局限，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 对内部表格元素无影响。
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 对内部表格元素（表格单元格除外）无影响。
 inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</strong> 对此元素无效。
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> 对此元素无效，因为
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目的的伪元素上不支持 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong>{ $property }</strong>。
@@ -94,6 +100,7 @@ inactive-css-not-floated-fix = 请尝试添加 <strong>float</strong> 属性，�
 inactive-css-position-property-on-unpositioned-box-fix = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong> 的值。{ learn-more }
 inactive-css-only-replaced-elements-fix = 请确保您在对可替换元素添加此属性。{ learn-more }
 inactive-text-overflow-when-no-overflow-fix = 请尝试添加 <strong>overflow:hidden</strong>。{ learn-more }
+inactive-css-no-size-containment-fix = 请尝试将其 <strong>display</strong> 属性设为 <strong>none</strong>、<strong>contents</strong>、<strong>table</strong> 和 <strong>inline-table</strong> 以外的值，并确认其不在表格和 ruby 段落中。{ learn-more }
 inactive-css-not-for-internal-table-elements-fix = 请尝试将其 <strong>display</strong> 设为 <strong>table-cell</strong>、<strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。{ learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = 请尝试将其 <strong>display</strong> 设为 <strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。{ learn-more }
 inactive-css-not-table-fix = 请尝试添加 <strong>display:table</strong> 或 <strong>display:inline-table</strong>。{ learn-more }
