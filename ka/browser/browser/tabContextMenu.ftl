@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = მარცხენა ჩანართების დახურვა
     .accesskey = ც
+close-tabs-to-the-start-vertical =
+    .label = ჩანართების დახურვა ზემოთ
+    .accesskey = ზ
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = მარჯვენა ჩანართების დახურვა
     .accesskey = ჯ
+close-tabs-to-the-end-vertical =
+    .label = ჩანართების დახურვა ქვემოთ
+    .accesskey = ქ
 close-other-tabs =
     .label = დანარჩენი ჩანართების დახურვა
     .accesskey = ა
@@ -72,9 +78,22 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = რამდენიმე ჩანართის დახურვა
     .accesskey = რ
+tab-context-close-duplicate-tabs =
+    .label = გამეორებული ჩანართების დახურვა
+    .accesskey = ო
 tab-context-share-url =
     .label = გაზიარება
     .accesskey = ზ
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = ჩანართების ახალი ჯგუფი მარჯვნივ
+    .accesskey = ჯ
+tab-context-new-tab-open-vertical =
+    .label = ჩანართების ახალი ჯგუფი მარცხნივ
+    .accesskey = ც
+tab-context-new-group =
+    .label = ახალი ჯგუფი
+    .accesskey = ჯ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -100,7 +119,6 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
