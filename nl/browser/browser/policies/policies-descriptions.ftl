@@ -41,7 +41,7 @@ policy-DisableDefaultBrowserAgent = Voorkomen dat de standaard browseragent enig
 policy-DisableDeveloperTools = Toegang tot de ontwikkelaarshulpmiddelen blokkeren.
 policy-DisableEncryptedClientHello = Gebruik van de TLS-functie Encrypted Client Hello (ECH) uitschakelen.
 policy-DisableFeedbackCommands = Opdrachten voor het verzenden van feedback vanuit het menu Help uitschakelen (Feedback verzenden en Misleidende website rapporteren).
-policy-DisableFirefoxAccounts = Op { -fxaccount-brand-name } gebaseerde services uitschakelen, waaronder Sync.
+policy-DisableFirefoxAccounts = Op { -fxaccount-brand-name } gebaseerde services uitschakelen, waaronder Synchronisatie.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Accountgebaseerde services uitschakelen, waaronder synchronisatie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
