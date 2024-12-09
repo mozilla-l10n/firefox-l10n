@@ -52,8 +52,14 @@ genai-prompt-prefix-selection = ვიმყოფები გვერდზ�
 
 genai-menu-ask-generic =
     .label = ჰკითხეთ AI-თანამოსაუბრეს
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = გიპასუხებთ { $provider }
 genai-input-ask-generic =
     .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = გიპასუხებთ { $provider }…
 genai-shortcuts-hide =
     .label = თანამოსაუბრის მალსახმობის დამალვა
 

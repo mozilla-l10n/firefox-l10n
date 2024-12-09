@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = მოწმდება
 shopping-message-bar-page-not-supported =
     .heading = ვერ მოწმდება ეს მიმოხილვები
     .message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
+shopping-message-bar-keep-closed-header =
+    .heading = დარჩეს დახურული?
+    .message = შეგიძლიათ პარამეტრებიდან მიუთითოთ, რომ მიმოხილვების შემმოწმებელი დახურული იყოს ნაგულისხმევად. ამჟამად თავისით იხსნება.
+shopping-message-bar-keep-closed-dismiss-button = არა, გმადლობთ
+shopping-message-bar-keep-closed-accept-button = დიახ, დარჩეს დახურული
 
 ## Strings for the product review snippets card
 
@@ -84,6 +89,8 @@ shopping-show-less-button = მოკლედ
 
 shopping-settings-label =
     .label = პარამეტრები
+shopping-settings-recommendations-toggle2 =
+    .label = შემოთავაზებებისა და დაფინანსებული შიგთავსის ჩვენება
 shopping-settings-recommendations-toggle =
     .label = რეკლამების ჩვენება მიმოხილვის შემმოწმებელში
 shopping-settings-recommendations-learn-more2 = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. მხოლოდ საიმედო მიმოხილვების მქონეს შემოგთავაზებთ. <a data-l10n-name="review-quality-url">ვრცლად</a>
@@ -186,7 +193,6 @@ shopping-onboarding-dynamic-subtitle-1 = გადაამოწმეთ შ�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდო მიმოხილვებს გიჩვენებთ გასაყიდი ნაწარმის შესახებ <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა, რომელსაც გთავაზობთ { -brand-product-name }, პირდაპირ ბრაუზერშივეა ჩაშენებული.
 shopping-onboarding-body = ყოველისშემძლე { -fakespot-brand-full-name } დაგეხმარებათ აირიდოთ მიკერძოებული და ყალბი მიმოხილვები. ჩვენი AI-მოდელი მუდმივად თქვენს დასაცავად საყიდლების შეძენისას. <a data-l10n-name="learn_more">ვრცლად</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -brand-product-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და { -fakespot-brand-name }-ის <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-button = დიახ, მოისინჯოს
 shopping-onboarding-not-now-button = ახლა არა

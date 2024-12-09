@@ -64,6 +64,9 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = საიტის დავიწყება
     .accesskey = დ
+places-forget-domain-data =
+    .label = ამ საიტის დავიწყება…
+    .accesskey = წ
 places-sortby-name =
     .label = სახელით დალაგება
     .accesskey = ხ
@@ -95,7 +98,7 @@ places-delete-page =
            *[other] გვერდების წაშლა
         }
     .accesskey = წ
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = გამართული სანიშნები
 # This label is used when a managed bookmarks folder doesn't have a name.
