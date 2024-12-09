@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Agor dewislen ar gyfer { $extensionName }
 unified-extensions-item-message-manage = Rheoli estyniadau
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = Mae { $extensionName } yn groes i bolisïau Mozilla. Gall fod yn beryglus ei ddefnyddio.
 
 ## Extension's context menu
 
