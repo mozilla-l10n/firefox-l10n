@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = დაიხუროს { $tabCount } ჩანართი?
 tabbrowser-confirm-close-tabs-button = ჩანართების დახურვა
+tabbrowser-ask-close-tabs-checkbox = შეკითხვა რამდენიმე ჩანართის დახურვისას
 tabbrowser-confirm-close-tabs-checkbox = გაფრთხილება რამდენიმე ჩანართის დახურვისას
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = დაიხუროს ფა�
 tabbrowser-confirm-close-tabs-with-key-button = გამოირთოს { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = შეკითხვა დახურვისას ღილაკებით { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = გაფრთხილება, სანამ დაიხურება { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = დაიხუროს { -brand-short-name }, თუ ეს ჩანართი დაიხუროს?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] დაიხუროს { -brand-short-name }
+       *[other] დაიხუროს { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = მიმდინარე ჩანართის დახურვა
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -124,6 +139,13 @@ tabbrowser-confirm-caretbrowsing-checkbox = აღარ გამოჩნდ�
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = ყურადღება!
+tabbrowser-confirm-close-duplicate-tabs-text = გახსნილი დარჩება ბოლოს მოქმედი ჩანართი
+tabbrowser-confirm-close-all-duplicate-tabs-title = დაიხუროს გამეორებული ჩანართები?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    ამ ფანჯარაში დაიხურება გაორებული ჩანართები. ბოლო მოქმედი
+    ჩანართი დარჩება გახსნილი.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ჩანართების დახურვა
 
 ##
 
@@ -167,3 +189,27 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ჩანართის ახმოვანება
 tabbrowser-manager-close-tab =
     .tooltiptext = ჩანართის დახურვა
+
+## Tab Groups
+
+tab-group-editor-title-create = ჩანართების ჯგუფის შექმნა
+tab-group-editor-title-edit = ჩანართების ჯგუფის მართვა
+tab-group-editor-name-label = სახელი
+tab-group-editor-name-field =
+    .placeholder = მაგალითი: საყიდლები
+tab-group-editor-cancel =
+    .label = გაუქმება
+    .accesskey = ქ
+tab-context-unnamed-group =
+    .label = უსახელო ჯგუფი
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] ჩანართების დამატება ახალ ჯგუფში
+           *[other] ჩანართების დამატება ახალ ჯგუფში
+        }
+    .accesskey = ჯ
