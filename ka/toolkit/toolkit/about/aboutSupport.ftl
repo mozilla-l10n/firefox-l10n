@@ -64,7 +64,7 @@ app-basics-os-theme = სისტემის იერსახე
 app-basics-rosetta = Rosetta-ს თარგმნილი
 app-basics-memory-use = გამოყენებული მეხსიერება
 app-basics-performance = წარმადობა
-app-basics-service-workers = დარეგისტრებული Service Worker-ები
+app-basics-service-workers = დარეგისტრებული Service Worker
 app-basics-third-party = გარეშე მოდულები
 app-basics-profiles = პროფილები
 app-basics-launcher-process-status = გამშვები პროცესი
@@ -408,6 +408,9 @@ support-printing-modified-settings = ამობეჭდვის შეცვ
 support-printing-prefs-name = სახელი
 support-printing-prefs-value = მნიშვნელობა
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 support-remote-experiments-title = დაშორებული კვლევები
@@ -424,3 +427,6 @@ pointing-device-mouse = თაგვი
 pointing-device-touchscreen = ხელშესახები ეკრანი
 pointing-device-pen-digitizer = კალმიანი პლანშეტი
 pointing-device-none = მიმთითებელი მოწყობილობა არა
+
+## Content Analysis (DLP)
+
