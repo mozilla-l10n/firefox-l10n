@@ -15,6 +15,11 @@ about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     { -vendor-short-name } projelerinde kullanılan bir veri toplama kitaplığıdır.
     Bu arayüz, geliştiriciler ve testçiler tarafından <a data-l10n-name="fog-link"> enstrümantasyonu manuel olarak test etmek</a> amacıyla tasarlanmıştır.
+about-glean-category-about-glean = { -glean-brand-name } hakkında
+about-glean-category-manual-testing = Manuel test
+about-glean-category-adhoc-testing = Ad hoc test
+about-glean-category-profiler = Profilleyiciyi kullanma
+about-glean-category-about-data = Veriler hakkında
 about-glean-upload-enabled = Veri yükleme etkin.
 about-glean-upload-disabled = Veri yükleme devre dışı.
 about-glean-upload-enabled-local = Veri yükleme yalnızca yerel bir sunucuya göndermek üzere etkin.
@@ -76,4 +81,13 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Ayarlar uygulandı ve ping gönderildi!
 about-glean-about-data-header = Veriler Hakkında
+about-glean-about-data-description =
+    Ne aradığınıza bağlı olarak verilerinizi görmek için kullanabileceğiniz
+    birkaç farklı araç var.
+about-glean-about-data-description-list-intro =
+    Lütfen her araca özel kullanım durumları için
+    aşağıdaki listeye bakın:
+about-glean-about-data-list-item-dictionary =
+    Her uygulama için { -glean-brand-name } tarafından toplanan verilerin listesine göz atmak için lütfen
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
