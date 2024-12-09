@@ -86,6 +86,10 @@ about-glean-feedback-settings-and-ping =
 about-glean-about-data-header = O údajoch
 about-glean-about-data-description = Existuje niekoľko rôznych nástrojov, ktoré môžete použiť na zobrazenie údajov v závislosti od toho, čo hľadáte.
 about-glean-about-data-description-list-intro = Konkrétne prípady použitia pre každý nástroj nájdete v zozname nižšie:
+about-glean-about-data-list-item-dictionary = Ak chcete prechádzať zoznam údajov zhromaždených nástrojom { -glean-brand-name } podľa aplikácie, pozrite si <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry = Ak chcete prehliadať údaje zhromažďované staršou telemetriou, pozrite si stránku <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer = Ak chcete prehliadať značky ladenia, zobraziť úplné pingy, priamy prenos udalosti alebo zobraziť vizualizácie metrík, pozrite si <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler = Ak chcete zaznamenať profil výkonnosti a zobraziť všetky zaznamenané metriky, použite <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
     <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.
