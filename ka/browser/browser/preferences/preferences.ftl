@@ -1111,7 +1111,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = მისამართების ველი
-addressbar-suggest = შემოთავაზებები, მისამართების ველით სარგებლობისას
+addressbar-suggest = შემოთავაზებები მისამართების ველით სარგებლობისას
 addressbar-locbar-history-option =
     .label = დათვალიერების ისტორია
     .accesskey = ი

@@ -547,6 +547,8 @@ urlbar-go-button =
     .tooltiptext = მისამართზე გადასვლა
 urlbar-page-action-button =
     .tooltiptext = ვებგვერდზე მოქმედებები
+urlbar-revert-button =
+    .tooltiptext = მისამართის ჩვენება მდებარეობის ზოლში
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -567,6 +569,11 @@ urlbar-result-action-search-w-engine = { $engine } ძიება
 urlbar-result-action-sponsored = დაფინანსებული
 urlbar-result-action-switch-tab = ჩანართზე გადასვლა
 urlbar-result-action-visit = მონახულება
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = ჩანართზე გადასვლა · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = აღებულ ბმულზე გადასვლა
 # Directs a user to press the Tab key to perform a search with the specified
@@ -596,6 +603,44 @@ urlbar-result-action-copy-to-clipboard = ასლი
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = { $engine } ძიება
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - ძიება { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ძიება
+urlbar-searchmode-dropmarker =
+    .tooltiptext = საძიებოს არჩევა
+urlbar-searchmode-bookmarks =
+    .label = სანიშნები
+urlbar-searchmode-tabs =
+    .label = ჩანართები
+urlbar-searchmode-history =
+    .label = ისტორია
+urlbar-searchmode-actions =
+    .label = მოქმედებები
+urlbar-searchmode-exit-button =
+    .tooltiptext = დახურვა
+urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
+urlbar-searchmode-popup-search-settings = ძიების პარამეტრები
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, საძიებოს არჩევა
+    .tooltiptext = { $engine }, საძიებოს არჩევა
+urlbar-searchmode-button-no-engine =
+    .label = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
+    .tooltiptext = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -891,6 +936,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>გაიხსნას წინა ჩანართები?</strong> თუ გსურთ, { -brand-short-name } აღდგეს წინა მდგომარეობით, გახსენით მენიუ <img data-l10n-name="icon"/> და მონახეთ ისტორია.
 restore-session-startup-suggestion-button = მაჩვენეთ, როგორ
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ავტომატურად აგზავნის გარკვეულ მონაცემებს { -vendor-short-name }-ში, პროდუქტის გასაუმჯობესებლად.
@@ -923,6 +971,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         გაფართოებები
         ზოგი გაფართოება არაა ნებადართული
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -992,3 +1044,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = გაიხსნას „{ $popupURI }“
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
