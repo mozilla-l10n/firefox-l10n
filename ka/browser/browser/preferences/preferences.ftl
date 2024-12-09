@@ -655,12 +655,12 @@ search-show-suggestions-url-bar-option =
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar.
 search-show-search-term-option-2 =
-    .label = საძიებო სიტყვების ჩვენება შედეგების გვერდზე მისამართების ველში
+    .label = საძიებო სიტყვების ჩვენება მისამართების ველში შედეგების გვერდზე
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = ბმულები ჩანაცვლდეს მოსაძიებელი ფრაზებით ნაგულისხმევი საძიებოს შედეგებში
+    .label = ბმულების ნაცვლად მოსაძიებელი ფრაზები გამოჩნდეს ნაგულისხმევი საძიებოს შედეგებში
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
