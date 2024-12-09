@@ -13,7 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = გაფართოების ამორთვა
-connection-proxy-configure = პროქსის გამართვა ინტერნეტთან წვდომისათვის
+connection-proxy-configure = შუამავლის გამართვა ინტერნეტთან წვდომისათვის
 connection-proxy-option-no =
     .label = პროქსის გარეშე
     .accesskey = გ
@@ -66,9 +66,12 @@ connection-proxy-autologin-checkbox =
     .label = შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია
     .accesskey = თ
     .tooltiptext = ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები შენახული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.
+connection-proxy-socks4-remote-dns =
+    .label = პროქსის DNS, როცა გამოიყენება SOCKS v4
+    .accesskey = 4
 connection-proxy-socks-remote-dns =
-    .label = პროქსის DNS SOCKS v5-ის გამოყენებისას
-    .accesskey = d
+    .label = პროქსის DNS, როცა გამოიყენება SOCKS v5
+    .accesskey = D
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =

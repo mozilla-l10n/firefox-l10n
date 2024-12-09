@@ -33,6 +33,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = პარამეტრებში ძიება
 managed-notice = თქვენი ბრაუზერი იმართება დაწესებულების მიერ.
+managed-notice-info-icon =
+    .alt = ცნობა
 category-list =
     .aria-label = კატეგორიები
 pane-general-title = მთავარი
@@ -306,7 +308,7 @@ translate-exceptions =
 use-system-locale =
     .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის გამოიყენოს საოპერაციო სისტემის პარამეტრები ენისთვის „{ $localeName }“.
 check-user-spelling =
-    .label = მართლწერის შემოწმება აკრეფისთანავე
+    .label = მართლწერის შემოწმება აკრეფისას
     .accesskey = მ
 
 ## General Section - Files and Applications
@@ -584,6 +586,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } გირჩევთ
 home-prefs-recommended-by-description-new = გამორჩეული მასალები, რომელსაც { $provider } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
+home-prefs-recommended-by-header-generic =
+    .label = შემოთავაზებული ამბები
+home-prefs-recommended-by-description-generic = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
 
 ##
 
@@ -610,6 +615,8 @@ home-prefs-recent-activity-description = ბოლოს ნანახი ს�
 home-prefs-snippets-header =
     .label = ცნობები
 home-prefs-snippets-description-new = რჩევები და სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
+home-prefs-weather-header =
+    .label = ამინდი
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
