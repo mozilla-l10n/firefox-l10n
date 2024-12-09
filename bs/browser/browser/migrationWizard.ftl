@@ -105,6 +105,28 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV dokument
        *[other] TSV fajl
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] Dodana { $newEntries }
+        [few] Dodane { $newEntries }
+       *[other] Dodano { $newEntries }
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] Ažurirana { $updatedEntries }
+        [few] Ažurirane { $updatedEntries }
+       *[other] Ažurirano { $updatedEntries }
+    }
 migration-bookmarks-from-file-picker-title = Uvoz fajla sa oznakama
 migration-bookmarks-from-file-progress-header = Uvoz oznaka
 migration-bookmarks-from-file = Oznake
@@ -120,6 +142,17 @@ migration-bookmarks-from-file-html-filter-title =
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON datoteka
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } zabilješka
+        [few] { $newEntries } zabilješke
+       *[other] { $newEntries } zabilješki
+    }
 migration-import-button-label = Uvoz
 migration-choose-to-import-from-file-button-label = Uvezi iz datoteke
 migration-import-from-file-button-label = Odaberite datoteku
@@ -233,6 +266,29 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } lozinka
         [few] { $quantity } lozinke
        *[other] { $quantity } lozinki
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Od zadnjeg dana
+        [few] Od zadnja { $maxAgeInDays } dana
+       *[other] Od zadnjih { $maxAgeInDays } dana
+    }
+migration-wizard-progress-success-formdata = Historija obrazaca
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } način plaćanja
+        [few] { $quantity } načina plaćanja
+       *[other] { $quantity } načina plaćanja
     }
 migration-wizard-safari-permissions-sub-header = Da uvezete Safari oznake i historiju pretraživanja:
 migration-wizard-safari-instructions-continue = Odaberite “Nastavi”
