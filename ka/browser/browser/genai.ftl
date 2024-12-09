@@ -17,6 +17,9 @@ genai-settings-chat-gemini-links = ვინაიდან აირჩიე�
 genai-settings-chat-huggingchat-links = ვინაიდან აირჩიეთ HuggingChat, ეთანხმებით <a data-l10n-name="link1">HuggingChat-ის პირადულობის განაცხადსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას, რომელსაც ადგენს Hugging Face</a>.
 genai-settings-chat-lechat-links = ვინაიდან აირჩიეთ Le Chat Mistral, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას</a>, რომელსაც ადგენს Mistral AI.
 genai-settings-chat-localhost-links = დაამატეთ თქვენი საკუთარი ადგილობრივი თანამოსაუბრე, როგორიცაა <a data-l10n-name="link1">llamafile</a>, რომელსაც გთავაზობთ სიახლეების დამნერგავი საზოგადოება { -vendor-short-name }.
+genai-settings-chat-shortcuts =
+    .description = მოთხოვნის მალსახმობის გამოჩენა ტექსტის მონიშვნისას. { -brand-short-name } გადაუგზავნის ტექსტს, გვერდის სათაურსა და მოთხოვნას თანამოსაუბრეს.
+    .label = მოთხოვნების ჩვენება ტექსტის მონიშვნისას
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
