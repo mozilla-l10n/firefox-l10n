@@ -110,6 +110,13 @@ migration-bookmarks-from-file-progress-header = Uvoz oznaka
 migration-bookmarks-from-file = Oznake
 migration-bookmarks-from-file-success-header = Oznake su uspješno uvezene
 migration-bookmarks-from-file-no-valid-data = Datoteka ne uključuje podatke o oznakama. Izaberite drugu datoteku.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML dokument
+       *[other] HTML fajl
+    }
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON datoteka
@@ -119,6 +126,8 @@ migration-import-from-file-button-label = Odaberite datoteku
 migration-cancel-button-label = Otkaži
 migration-done-button-label = Gotovo
 migration-continue-button-label = Nastavi
+migration-wizard-import-browser-no-browsers = { -brand-short-name } nije mogao pronaći nijedan program koji sadrži podatke o zabilješkama, historiji ili lozinkama.
+migration-wizard-import-browser-no-resources = Došlo je do greške. { -brand-short-name } ne može pronaći podatke za uvoz iz tog profila preglednika.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -126,17 +135,105 @@ migration-continue-button-label = Nastavi
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = zabilješke
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = omiljene
+migration-list-password-label = lozinke
+migration-list-history-label = historija
+migration-list-extensions-label = ekstenzije
+migration-list-autofill-label = automatsko popunjavanje podataka
+migration-list-payment-methods-label = načini plaćanja
 
 ##
 
+migration-wizard-progress-header = Uvoz podataka
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Podaci su uspješno uvezeni
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Uvoz podataka je završen
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Uvoz…
+migration-wizard-progress-icon-completed =
+    .aria-label = Završeno
+migration-safari-password-import-header = Uvezite lozinke iz Safarija
+migration-safari-password-import-steps-header = Za uvoz Safari lozinki:
+migration-safari-password-import-step1 = U Safariju otvorite "Safari" meni i idite na Postavke > Lozinke
+migration-safari-password-import-step2 = Odaberite dugme <img data-l10n-name="safari-icon-3dots"/> i odaberite "Izvezi sve lozinke"
+migration-safari-password-import-step3 = Sačuvajte datoteku lozinki
+migration-safari-password-import-step4 = Koristite “Odaberi datoteku” ispod da odaberete datoteku lozinki koju ste sačuvali
+migration-safari-password-import-skip-button = Preskoči
+migration-safari-password-import-select-button = Odaberite datoteku
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } zabilješka
+        [few] { $quantity } zabilješke
+       *[other] { $quantity } zabilješki
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } omiljena
+        [few] { $quantity } omiljene
+       *[other] { $quantity } omiljenih
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } ekstenzija
+        [few] { $quantity } ekstenzije
+       *[other] { $quantity } ekstenzija
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } od { $quantity } ekstenzija
+migration-wizard-progress-extensions-support-link = Saznajte kako { -brand-product-name } odgovara ekstenzijama
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nema odgovarajućih ekstenzija
+migration-wizard-progress-extensions-addons-link = Pregledajte ekstenzije za { -brand-short-name }
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } lozinka
+        [few] { $quantity } lozinke
+       *[other] { $quantity } lozinki
+    }
 migration-wizard-safari-permissions-sub-header = Da uvezete Safari oznake i historiju pretraživanja:
 migration-wizard-safari-instructions-continue = Odaberite “Nastavi”
 migration-wizard-safari-instructions-folder = Odaberite Safari folder na listi i odaberite “Otvori”
