@@ -46,6 +46,7 @@ callout-pdfjs-draw-button = გასაგებია!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = არ აპირებდით ამ ჩანართის დახურვას?
 
 ## Split Dismiss Button Labels
 

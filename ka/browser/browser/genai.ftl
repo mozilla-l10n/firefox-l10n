@@ -108,7 +108,26 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = უკეთ გაიცანით Le Chat
 genai-onboarding-select-header = მონიშნეთ ტექსტი შემოთავაზებებისთვის
+genai-onboarding-select-description = ტექსტის მონიშვნისას შემოგთავაზებთ მოთხოვნებს, რომელთა გაგზავნაც შეგეძლებათ თანამოსაუბრისთვის. აგრეთვე შეგეძლებათ თავად მიუწეროთ თქვენი მოთხოვნები.
+genai-onboarding-select-primary = მიმოწერის დაწყება
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = ტექსტისა და კოდის შედგენა
+genai-onboarding-claude-analyze = დოკუმენტებისა და სურათების გარჩევა
+genai-onboarding-claude-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს
+genai-onboarding-chatgpt-generate = ტექსტის, სურათებისა და კოდის შედგენა
+genai-onboarding-chatgpt-analyze = დოკუმენტებისა და სურათების გარჩევა
+genai-onboarding-chatgpt-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს ზოგიერთი ქვეყნისა და დავალებისთვის
+genai-onboarding-copilot-generate = ტექსტის, სურათებისა და კოდის შედგენა
+genai-onboarding-copilot-analyze = სურათების გარჩევა
+genai-onboarding-copilot-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს ზოგიერთი დავალებისთვის
+genai-onboarding-gemini-generate = ტექსტის, სურათებისა და კოდის შედგენა
+genai-onboarding-gemini-analyze = სურათებისა (უფასო) და დოკუმენტების გარჩევა (ფასიანი)
+genai-onboarding-gemini-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს
+genai-onboarding-huggingchat-generate = ტექსტისა და კოდის შედგენა
+genai-onboarding-huggingchat-switch = სხვადასხვა ღია მოდელებზე გადართვა
+genai-onboarding-huggingchat-price-2 = უფასო; საჭიროებს ანგარიშს გარკვეული ოდენობის მოთხოვნების შემდეგ
+genai-onboarding-lechat-generate = ტექსტისა და კოდის შედგენა
+genai-onboarding-lechat-price = უფასო; საჭიროებს ანგარიშს
