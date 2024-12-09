@@ -5,7 +5,8 @@
 contentanalysis-alert-title = შიგთავსის გარჩევა
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-notification = შიგთავსის გასარჩევმა ხელსაწყოს დიდი დრო დასჭირდა გამოხმაურებისთვის მასალაზე „{ $content }“
+contentanalysis-slow-agent-notification = შიგთავსის გასარჩევმ ხელსაწყოს დიდი დრო დასჭირდა გამოხმაურებისთვის მასალაზე „{ $content }“
+contentanalysis-slow-agent-dialog-header = მოწმდება
 contentanalysis-notification-title = შიგთავსის გარჩევა
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

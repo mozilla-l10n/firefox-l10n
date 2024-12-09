@@ -166,6 +166,7 @@ language-name-se = ჩრდილო სამი
 language-name-sg = სანგო
 language-name-si = სინგალეზე
 language-name-sk = სლოვაკური
+language-name-skr = სარაიკი
 language-name-sl = სლოვენური
 language-name-sm = სამოა
 language-name-sn = შონა

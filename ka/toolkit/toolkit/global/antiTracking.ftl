@@ -12,3 +12,9 @@ btp-warning-tracker-classified =
         [one] „{ $siteHost }“ მიჩნეულია, რომ არის Bounce Tracker. თუ მომდევნო { $gracePeriodSeconds } წამში არ აღიქვამს მომხმარებლის მხრიდან მოქმედებას, თავის მონაცემებს გაისუფთავებს.
        *[other] „{ $siteHost }“ მიჩნეულია, რომ არის Bounce Tracker. თუ მომდევნო { $gracePeriodSeconds } წამში არ აღიქვამს მომხმარებლის მხრიდან მოქმედებას, თავის მონაცემებს გაისუფთავებს.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = „{ $siteHost }“ გასუფთავებულია მდგომარეობის მონაცემებისგან, ვინაიდან მიჩნეულია, რომ არის Bounce Tracker.
