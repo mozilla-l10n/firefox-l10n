@@ -88,7 +88,7 @@ fp-certerror-unknown-issuer-what-can-you-do-body = Provavelmente nada, pois é p
 fp-certerror-self-signed-why-dangerous-body = Porque há um problema com o certificado do site. Sites usam certificados emitidos por uma autoridade certificadora para comprovar que realmente são quem afirmam ser. O certificado deste site é autoassinado. Não foi emitido por uma autoridade certificadora reconhecida, por isso, por padrão, não confiamos nele.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Não muito. Provavelmente há um problema no próprio site.
-fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se você estiver tentando visitar este site em uma intranet corporativa, sua equipe de TI pode ter usado certificados auto-assinados. Eles podem ajudar a verificar a autenticidade.
+fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se você estiver tentando visitar este site em uma intranet corporativa, sua equipe de TI pode ter usado certificados autoassinados. Eles podem ajudar a verificar a autenticidade.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
