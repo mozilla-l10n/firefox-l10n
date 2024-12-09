@@ -799,6 +799,9 @@ sync-currently-syncing-creditcards = საკრედიტო ბარათ
 sync-currently-syncing-payment-methods = გადახდის საშუალებები
 sync-currently-syncing-addons = დამატებები
 sync-currently-syncing-settings = პარამეტრები
+sync-manage-options =
+    .label = სინქრონიზაციის მართვა…
+    .accesskey = მ
 sync-change-options =
     .label = შეცვლა…
     .accesskey = შ
@@ -851,6 +854,13 @@ sync-engine-settings =
     .label = პარამეტრები
     .tooltiptext = შეცვლილი მთავარი, პირადულობისა და უსაფრთხოების პარამეტრები
     .accesskey = პ
+sync-choose-what-to-sync-dialog4 =
+    .title = მართეთ, რა დასინქრონირდეს ყველა თქვენს მოწყობილობაზე
+    .style = min-width: 36em;
+    .buttonlabelaccept = შენახვა
+    .buttonaccesskeyaccept = ხ
+    .buttonlabelextra2 = გამოთიშვა…
+    .buttonaccesskeyextra2 = გ
 
 ## The device name controls.
 
@@ -936,6 +946,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = მთავარი პაროლის გამოყენება
     .accesskey = გ
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = საჭიროა მოწყობილობით დამოწმება პაროლების შესავსებად და სამართავად
 forms-primary-pw-learn-more-link = ვრცლად
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -968,6 +981,13 @@ primary-password-os-auth-dialog-message-win = მთავარი პარო
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = მთავარი პაროლის დაყენებას
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] პარამეტრების შეცვლას გადახდის საშუალებებისთვის
+       *[other] { -brand-short-name } ცდილობს შეცვალოს გადახდის საშუალებების პარამეტრები. გამოიყენეთ მოწყობილობით შესვლის დამოწმება ნების მისაცემად.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
