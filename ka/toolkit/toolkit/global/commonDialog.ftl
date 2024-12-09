@@ -6,12 +6,13 @@ common-dialog-title-null = გვერდი გამცნობთ
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = უცნობი
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = დაკავებული
 common-dialog-username =
     .value = მომხმარებელი
 common-dialog-password =
     .value = პაროლი
-
 common-dialog-copy-cmd =
     .label = ასლი
     .accesskey = ლ
