@@ -46,7 +46,7 @@ genai-prompts-explain =
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
-genai-prompt-prefix-selection = ვიმყოფები გვერდზე სათაურით „{ $tabTitle }“ და მონიშნულია „{ $selection }“.
+genai-prompt-prefix-selection = ვიმყოფები გვერდზე „{ $tabTitle }“, მონიშნულია „{ $selection }“.
 
 ## Chatbot menu shortcuts
 
