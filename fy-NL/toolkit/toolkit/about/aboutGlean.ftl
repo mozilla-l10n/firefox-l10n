@@ -138,6 +138,9 @@ about-glean-about-data-list-item-debug-ping-viewer =
     Besjoch om troch debuglabels te blêdzjen, folsleine pings te besjen, in live-barresstream te besjen of statistyk-
     fisualisaasjes te besjen de
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Brûk foar it opnimmen fan in prestaasjeprofyl en it besjen fan alle opnommen statistiken de
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Besjoch, om troch de list mei sammele gegevens te blêdzjen, de
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.
