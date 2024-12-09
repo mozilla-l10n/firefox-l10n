@@ -206,7 +206,7 @@ media-hdcp-22-compatible = HDCP 2.2 თავსებადობა
 
 ##
 
-intl-title = საერთაშორისობა და ენებზე მორგება
+intl-title = საერთაშორისობა და ენებისთვის მორგება
 intl-app-title = პროგრამის პარამეტრები
 intl-locales-requested = მოთხოვნილი ენები
 intl-locales-available = ხელმისაწვდომი ენები

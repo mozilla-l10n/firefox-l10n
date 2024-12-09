@@ -33,3 +33,13 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = გაგზავნეთ ჩანართი მყისიერად ნებისმიერ მოწყობილობაზე, რომელზეც შესული ხართ.
 fxa-menu-sign-out =
     .label = გამოსვლა…
+fxa-menu-sync-title = დასინქ.
+fxa-menu-sync-description = თქვენი ვებსივრცე ყველგან
+sync-setup-verify-continue = განაგრძეთ
+sync-setup-verify-title = გაერთიანების გაფრთხილება
+sync-setup-verify-heading = ნამდვილად გსურთ სინქრონიზაციაში შესვლა?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = სხვა მომხმარებელი უკვე შევიდა ამ კომპიუტერიდან თავის სინქრონიზაციის ანგარიშზე. შესვლის შედეგად ამ ბრაუზერის სანიშნები, პაროლები და სხვა პარამეტრები გაერთიანდება მონაცემებთან, რომელთაც შეიცავდა { $email }
