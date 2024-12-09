@@ -617,6 +617,8 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = რჩევები და სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
 home-prefs-weather-header =
     .label = ამინდი
+home-prefs-weather-description = მოსალოდნელი ამინდისთვის თვალის შევლება
+home-prefs-weather-learn-more-link = ვრცლად
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -650,6 +652,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
     .accesskey = ძ
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = საძიებო სიტყვების ჩვენება შედეგების გვერდზე მისამართების ველში
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -731,6 +737,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = პროფილის სურათის შეცვლა
     .alt = პროფილის სურათის შეცვლა
+sync-profile-picture-account-problem =
+    .alt = ანგარიშის ახალი სურათი
+fxa-login-rejected-warning =
+    .alt = გაფრთხილება
 sync-sign-out =
     .label = გამოსვლა...
     .accesskey = გ
