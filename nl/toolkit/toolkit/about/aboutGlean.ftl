@@ -16,6 +16,11 @@ about-glean-interface-description =
     is gegevensverzamelingsbibliotheek die wordt gebruikt in { -vendor-short-name }-projecten.
     Deze interface is ontworpen voor gebruik door ontwikkelaars en testers om handmatig
     <a data-l10n-name="fog-link">instrumentatie te testen</a>.
+about-glean-category-about-glean = Over { -glean-brand-name }
+about-glean-category-manual-testing = Handmatig testen
+about-glean-category-adhoc-testing = Ad-hoctesten
+about-glean-category-profiler = De Profiler gebruiken
+about-glean-category-about-data = Over gegevens
 about-glean-upload-enabled = Gegevensupload is ingeschakeld.
 about-glean-upload-disabled = Gegevensupload is uitgeschakeld.
 about-glean-upload-enabled-local = Gegevensupload is alleen ingeschakeld voor verzenden naar een lokale server.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Raadpleeg voor een uitleg van de verschillende manieren om gegevens vast te leggen en te vinden het
+    tabblad <strong>Over gegevens</strong>.
 about-glean-about-testing-header = Over testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -100,12 +108,39 @@ about-glean-adhoc-note =
     Houd er rekening mee dat u de Glean JS-API gebruikt in de devtools-console.
     Dit betekent dat de metrische categorie en de metrische naam zijn opgemaakt in
     <code>camelCase</code>, in tegenstelling tot de Rust- en C++-API’s.
+about-glean-profiler-explanation =
+    Om een volledig overzicht van alle geregistreerde statistieken te zien, kunt u de { -profiler-brand-name } gebruiken.
+    Eerst moet u <a data-l10n-name="firefox-profiler-link">een prestatieprofiel vastleggen</a>.
+    Nadat u het profiel hebt vastgelegd, selecteert u <q>Marker Chart</q> en bekijkt u de markeringen onder <q>Telemetrie</q>.
+about-glean-profiler-explanation-profiler =
+    In het prestatieprofiel kunt u alle verzamelde statistieken bekijken, wanneer ze zijn
+    verzameld, en welke waarden precies zijn verzameld. Door afzonderlijke markeringen aan te wijzen,
+    kunt u controleren of de juiste waarde is verzameld en of de verzameling op het juiste moment heeft plaatsgevonden.
 controls-button-label-verbose = Instellingen toepassen en ping verzenden
 about-glean-feedback-settings-only =
     .message = Instellingen toegepast!
 about-glean-feedback-settings-and-ping =
     .message = Instellingen toegepast en ping verzonden!
 about-glean-about-data-header = Over gegevens
+about-glean-about-data-description =
+    Er zijn een paar verschillende hulpmiddelen die u kunt gebruiken om uw gegevens te bekijken, afhankelijk van
+    waarnaar u op zoek bent.
+about-glean-about-data-description-list-intro =
+    Raadpleeg de onderstaande lijst voor specifieke gebruiksvoorbeelden
+    voor elk hulpmiddel:
+about-glean-about-data-list-item-dictionary =
+    Raadpleeg, om door de lijst met door { -glean-brand-name } verzamelde gegevens per toepassing te bladeren, de
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-bibliotheek</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Raadpleeg om door de via legacy-telemetrie verzamelde gegevens te bladeren
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Raadpleeg om door debuglabels te bladeren, volledige pings te bekijken, een live-gebeurtenisstream te bekijken of statistiek-
+    visualisaties te bekijken de
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Gebruik voor het opnemen van een prestatieprofiel en het bekijken van alle opgenomen statistieken de
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Raadpleeg, om door de lijst met verzamelde gegevens te bladeren, de
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-bibliotheek</a>.
