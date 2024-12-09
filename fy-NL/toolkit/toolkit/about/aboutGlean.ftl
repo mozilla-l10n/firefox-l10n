@@ -112,12 +112,32 @@ about-glean-profiler-explanation =
     Om in folslein oersjoch fan alle opnommen statistiken te sjen, kinne jo de { -profiler-brand-name } brûke.
     Earst moatte jo <a data-l10n-name="firefox-profiler-link">in prestaasjesprofyl fêstlizze</a>.
     Sadree’t jo it profyl fêstlein hawwe, selektearje <q>Marker Chart</q> en sjoch nei de markearringen ûnder <q>Telemetry</q>.
+about-glean-profiler-explanation-profiler =
+    Yn it prestaasjesprofyl kinne jo alle sammele statistiken besjen, wannear’t sammele
+    binne, en krekt hokker wearden sammele binne. Troch yndividuele markearringen oan te wizen,
+    kinne jo ferifiearje dat de krekte wearde sammele is en oft de kolleksje barde op it krekte momint.
 controls-button-label-verbose = Ynstellingen tapasse en ping ferstjoere
 about-glean-feedback-settings-only =
     .message = Ynstellingen tapast!
 about-glean-feedback-settings-and-ping =
     .message = Ynstellingen tapast en ping ferstjoerd!
 about-glean-about-data-header = Oer gegevens
+about-glean-about-data-description =
+    Der is ferskillend ark dy’t jo brûke kinne om jo gegevens te besjen, ôfhinklik fan
+    wêr’t jo nei sykje.
+about-glean-about-data-description-list-intro =
+    Besjoch de ûndersteande list foar spesifike gebrûksfoarbylden
+    foar elk helpmiddel:
+about-glean-about-data-list-item-dictionary =
+    Besjoch, om troch de list mei troch { -glean-brand-name } sammele gegevens per tapassing te blêdzjen, de
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Besjoch om troch de fia legacy-telemetry sammele gegevens te blêdzjen
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Besjoch om troch debuglabels te blêdzjen, folsleine pings te besjen, in live-barresstream te besjen of statistyk-
+    fisualisaasjes te besjen de
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-explanation =
     Besjoch, om troch de list mei sammele gegevens te blêdzjen, de
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.
