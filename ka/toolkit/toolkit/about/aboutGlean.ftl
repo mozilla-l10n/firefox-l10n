@@ -48,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    მონაცემების ჩაწერისა და მოძიების სხვადასხვა გზების ასახსნელად გთხოვთ იხილოთ
+    <strong>მონაცემთა შესახებ</strong> ჩანართი.
 about-glean-about-testing-header = შემოწმების შესახებ
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -59,6 +62,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (არ გაიგზავნოს არცერთი კრებული)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = წინამდებარე ველში მიუთითეთ გამართვის ადვილად დასახსომი ჭდე, მოგვიანებით რომ შეძლოთ თქვენი კრებულების ამოცნობა.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = მიუთითეთ დასამახსოვრებელი ჭდე გამართვისთვის <span>(არაუმეტეს 20 სიმბოლო, ასოციფრული და - მხოლოდ),</span> რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -90,6 +95,14 @@ about-glean-adhoc-explanation =
     შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
     გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    დამატებითი <i>საგანგებო</i> შემოწმებისთვის
+    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
+    შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
+    გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    გაზომვის დასახელებისთვის <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     გაითვალისწინეთ, რომ Glean JS API გამოყენება devtools-ის ბრძანებებისას.
