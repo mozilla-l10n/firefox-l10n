@@ -120,4 +120,7 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Pro navigar per le lista de datos colligite per telemetria de legato, consulta
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Pro registrar un profilo de prestationes e vider tote le metricas registrate, usa
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.

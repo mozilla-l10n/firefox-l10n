@@ -496,7 +496,17 @@ pdfjs-editor-alt-text-settings-close-button = Clauder
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Evidentiation removite
 pdfjs-editor-undo-bar-message-freetext = Texto removite
+pdfjs-editor-undo-bar-message-ink = Designo removite
+pdfjs-editor-undo-bar-message-stamp = Imagine removite
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } annotation removite
+       *[other] { $count } annotationes removite
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = Disfacer
 pdfjs-editor-undo-bar-undo-button-label = Disfacer
