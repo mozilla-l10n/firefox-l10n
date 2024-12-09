@@ -108,4 +108,16 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Parametros applicate e ping inviate!
 about-glean-about-data-header = Re datos
+about-glean-about-data-description =
+    Il ha poc differente utensiles que tu pote usar pro vider tu datos, secundo
+    lo que tu cerca.
+about-glean-about-data-description-list-intro =
+    Refere te al lista infra pro casos de uso
+    specific pro cata utensile:
+about-glean-about-data-list-item-dictionary =
+    Pro navigar per le lista de datos colligite per { -glean-brand-name } per application, consulta le
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Pro navigar per le lista de datos colligite per telemetria de legato, consulta
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
