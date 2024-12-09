@@ -74,6 +74,11 @@ about-glean-adhoc-note =
     Observe que você está usando a API Glean JS usando o console do devtools.
     Significa que a categoria e o nome da métrica são formatados em
     <code>camelCase</code>, diferente das APIs de Rust e C++.
+about-glean-profiler-explanation =
+    Para ter uma visão completa de todas as métricas gravadas, você pode usar o { -profiler-brand-name }.
+    Primeiro você deve <a data-l10n-name="firefox-profiler-link">capturar um profile de desempenho</a>.
+    Após capturar o profile, selecione <q>Gráfico de marcadores</q> e olhe para os marcadores em <q>Telemetry</q>.
+about-glean-profiler-explanation-profiler = No profile de desempenho, você pode ver todas as métricas coletadas, quando foram coletadas e exatamente quais valores foram coletados. Ao passar o mouse sobre marcadores individuais, pode-se verificar se o valor correto foi coletado e se a coleta aconteceu na hora certa.
 controls-button-label-verbose = Aplicar configurações e enviar ping
 about-glean-feedback-settings-only =
     .message = Configurações aplicadas!
