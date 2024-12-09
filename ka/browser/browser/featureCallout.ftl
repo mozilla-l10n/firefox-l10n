@@ -86,6 +86,10 @@ sidebar-callout-survey-strongly-disagree = სავსებით არ ვ�
 sidebar-callout-survey-features-question = ქვემოთ მოცემულია გვერდით ზოლზე გამოსაყენებელი შესაძლებლობები. რომელი მათგანით გეხმარებათ { -brand-short-name } შედეგიანობის გაუმჯობესებაში?
 sidebar-callout-survey-split-view = იხილეთ ნებისმიერი ორი საიტი ერთდროულად გაყოფილი ხედით.
 sidebar-callout-survey-keep-website-open = დატოვეთ გახსნილი საიტი, მაგალითად ელფოსტისთვის ან კალენდრისთვის, გვერდით ზოლზე და განაგრძეთ სხვა საიტების მონახულება.
+sidebar-callout-survey-saved-websites-2 = სწრაფი წვდომა თქვენს სანიშნებთან
+sidebar-callout-survey-none-of-above = არცერთი ზემოთ ჩამოთვლილიდან
+sidebar-callout-survey-submit = გაგზავნა
+sidebar-callout-survey-thank-you = გმადლობთ გამოხმაურებისთვის!
 sidebar-genai-survey-satisfaction-question = რამდენად კმაყოფილი ხართ AI-თანამოსაუბრესთან წვდომით გვერდითი ზოლიდან?
 sidebar-genai-survey-productive-question =
     რამდენად ეთანხმებით ან არ ეთანხმებით დებულებას:<br/>
