@@ -16,6 +16,11 @@ about-glean-interface-description =
     is gegevenssamlingsbiblioteek dy’t brûkt wurdt yn { -vendor-short-name }-projekten.
     Dizze interface is ûntwurpen foar gebrûk troch ûntwikkelers en testers om hânmjittich
     <a data-l10n-name="fog-link">ynstrumintaasje te testen</a>.
+about-glean-category-about-glean = Oer { -glean-brand-name }
+about-glean-category-manual-testing = Hânmjittich teste
+about-glean-category-adhoc-testing = Ad-hocteste
+about-glean-category-profiler = De Profiler brûke
+about-glean-category-about-data = Oer gegevens
 about-glean-upload-enabled = Gegevensoplaad is ynskeakele.
 about-glean-upload-disabled = Gegevensoplaad is útskeakele.
 about-glean-upload-enabled-local = Gegevensoplaad is allinnich ynskeakele foar ferstjoeren nei in lokale server.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Foar in útlis oer ferskate manieren om gegevens fêst te lizzen en te finen it
+    ljepblêd <strong>Oer gegevens</strong>.
 about-glean-about-testing-header = Oer testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -100,6 +108,10 @@ about-glean-adhoc-note =
     Hâld der rekkening mei dat jo de Glean JS-API brûke yn de devtools-console.
     Dit betsjut dat de metryske kategory en de metryske namme opmakke binne yn
     <code>camelCase</code>, yn tsjinstelling ta de Rust- en C++-API’s.
+about-glean-profiler-explanation =
+    Om in folslein oersjoch fan alle opnommen statistiken te sjen, kinne jo de { -profiler-brand-name } brûke.
+    Earst moatte jo <a data-l10n-name="firefox-profiler-link">in prestaasjesprofyl fêstlizze</a>.
+    Sadree’t jo it profyl fêstlein hawwe, selektearje <q>Marker Chart</q> en sjoch nei de markearringen ûnder <q>Telemetry</q>.
 controls-button-label-verbose = Ynstellingen tapasse en ping ferstjoere
 about-glean-feedback-settings-only =
     .message = Ynstellingen tapast!
