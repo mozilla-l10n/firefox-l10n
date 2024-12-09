@@ -671,6 +671,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = ბოლოს მოძიებული
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = ხშირად ნანახი – { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ხშირად მოძიებულის ჩვენების გარეშე
+    .accesskey = გ
+urlbar-result-menu-trending-why =
+    .label = რატომ ვხედავ ამას?
+    .accesskey = რ
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = გმადლობთ გამოხმაურებისთვის. ხშირად მოძიებულს აღარ იხილავთ მომავალში.
 
 ## Reader View toolbar buttons
 
@@ -938,6 +953,7 @@ restore-session-startup-suggestion-button = მაჩვენეთ, როგ�
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = დაწესებულების დებულებით შეზღუდულია ადგილობრივ ფაილებთან წვდომა ამ კომპიუტერზე.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -947,6 +963,18 @@ data-reporting-notification-button =
     .accesskey = ზ
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = პირადი ფანჯარა
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = პირადი თვალიერება
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = მონაცემთა დაკარგვის არიდებას (DLP) უზრუნველყოფს { $agentName }. დაწკაპეთ ვრცლად სანახავად.
+content-analysis-panel-title = მონაცემთა დაცვა
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = თქვენს დაწესებულებაში გამოიყენება <b>{ $agentName }</b> მონაცემთა დაკარგვის ასარიდებლად. <a data-l10n-name="info">ვრცლად</a>
 
 ## Unified extensions (toolbar) button
 
@@ -975,6 +1003,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = გაფართოებები
+    .tooltiptext =
+        გაფართოებები
+        ზოგიერთი გაფართოება ამორთულია
 
 ## Private browsing reset button
 
@@ -1015,6 +1048,11 @@ firefox-relay-offer-legal-notice = „ელფოსტის ნიღბი�
 popup-notification-addon-install-unsigned =
     .value = (შეუმოწმებელი)
 popup-notification-xpinstall-prompt-learn-more = იხილეთ ვრცლად დამატებების უსაფრთხოდ ჩადგმის შესახებ
+popup-notification-xpinstall-prompt-block-url = ვრცლად
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = პირად ფანჯრებში გაშვება
+    .accesskey = პ
 
 ## Pop-up warning
 
@@ -1047,6 +1085,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Windows-ის ფაილების მმართველი ვერ გაიხსნა. ფაილის ან საქაღალდის შერჩევა ვერ მოხერხდა.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows-ის ფაილების მმართველი ვერ გაიხსნა. ფაილის შენახვის ადგილი იქნება { $path }.
+file-picker-failed-save-nowhere = Windows-ის ფაილების მმართველი ვერ გაიხსნა. ნაგულისხმევი საქაღალდე ვერ მოინახა; ფაილის შენახვა ვერ მოხერხდა.
+file-picker-crashed-open = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ფაილის ან საქაღალდის შერჩევა ვერ მოხერხდა.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ფაილის შენახვის ადგილი იქნება { $path }.
+file-picker-crashed-save-nowhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ნაგულისხმევი საქაღალდე ვერ მოინახა; ფაილის შენახვა ვერ მოხერხდა.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1054,3 +1100,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = ჩვენება საქაღალდეში
+    .accessKey = ქ
