@@ -21,3 +21,7 @@ elevation-more-elevated =
     ხელახლა გაუშვათ { -brand-short-name } ახლავე ან განაგრძოთ მუშაობა და მოგვიანებით გაუშვათ, ან კიდევ უარი თქვათ
     განახლებაზე.
 sandbox-missing-unprivileged-namespaces = { -brand-short-name } უსაფრთხოების ზოგიერთი შესაძლებლობით შეიძლება ნაკლებ დაცვას უზრუნველყოფდეს თქვენს ამჟამინდელ საოპერაციო სისტემაზე.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = მომავალში ჩვენების გარეშე
+    .accesskey = გ
+sandbox-unprivileged-namespaces-howtofix = როგორ შეიძლება ამის მოგვარება

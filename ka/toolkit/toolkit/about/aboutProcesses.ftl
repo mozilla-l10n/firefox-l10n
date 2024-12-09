@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = ჩანართების გაუქმება და პროცესის გათიშვა
+about-processes-kill-process =
+    .title = პროცესის გათიშვა
 about-processes-shutdown-tab =
     .title = ჩანართის დახურვა
 # Profiler icons
@@ -51,6 +53,7 @@ about-processes-remote-sandbox-broker-process = გარე Sandbox-Broker ({ $
 about-processes-fork-server-process = Fork-სერვერი ({ $pid })
 about-processes-preallocated-process = წინასწარ გამოყოფილი ({ $pid })
 about-processes-utility-process = დამხმარე პროგრამა ({ $pid })
+about-processes-inference-process = გამოტანილი ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
