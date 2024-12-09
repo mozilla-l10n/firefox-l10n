@@ -16,6 +16,11 @@ about-glean-interface-description =
     მონაცემთა აღმრიცხველი ბიბლიოთეკაა { -vendor-short-name }-პროექტებში.
     ეს გვერდი შემმუშავებლებისა და შემმოწმებლებისთვისაა სხვადასხვა
     <a data-l10n-name="fog-link">ხელსაწყოს ხელით გამოსაცდელად</a>.
+about-glean-category-about-glean = { -glean-brand-name } – შესახებ
+about-glean-category-manual-testing = ხელით შემოწმება
+about-glean-category-adhoc-testing = საგანგებო შემოწმება
+about-glean-category-profiler = დაიხმარეთ Profilier
+about-glean-category-about-data = მონაცემთა შესახებ
 about-glean-upload-enabled = მონაცემთა ატვირთვა ჩართულია.
 about-glean-upload-disabled = მონაცემთა ატვირთვა გამორთულია.
 about-glean-upload-enabled-local = მონაცემთა ატვირთვა ჩართულია მხოლოდ ადგილობრივ სერვერზე გასაგზავნად.
