@@ -209,7 +209,38 @@ tab-context-unnamed-group =
 tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
-            [1] ჩანართების დამატება ახალ ჯგუფში
+            [one] ჩანართის დამატება ახალ ჯგუფში
            *[other] ჩანართების დამატება ახალ ჯგუფში
         }
     .accesskey = ჯ
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის დამატება ჯგუფში
+           *[other] ჩანართების დამატება ჯგუფში
+        }
+    .accesskey = ჯ
+tab-group-editor-action-new-tab =
+    .label = ახალი ჩანართი ჯგუფში
+tab-group-editor-action-new-window =
+    .label = ჯგუფის ახალ ფანჯარაში გადატანა
+tab-group-editor-action-save =
+    .label = შენახვა და ჯგუფის დახურვა
+tab-group-editor-action-ungroup =
+    .label = ჩანართების განჯგუფება
+tab-group-editor-action-delete =
+    .label = ჯგუფის წაშლა
+tab-group-editor-done =
+    .label = მზადაა
+    .accessKey = ზ
+tab-context-reopen-tab-group =
+    .label = ჩანართების ჯგუფის კვლავ გახსნა
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [one] ჯგუფიდან მოცილება
+           *[other] ჯგუფებიდან მოცილება
+        }
+    .accesskey = ც
