@@ -72,6 +72,7 @@ about-glean-adhoc-note =
     这意味着指标类别和指标名称的格式为
     <code>camelCase</code>，这与 Rust 和 C++ API 不同。
 about-glean-profiler-explanation = 若要查看已记录的所有指标，可使用 { -profiler-brand-name }。首先需要<a data-l10n-name="firefox-profiler-link">捕获性能分析记录</a>，之后就可以选择<q>标记图表</q>，在<q>遥测</q>部分中查看标记。
+about-glean-profiler-explanation-profiler = 性能分析记录中显示了所有已收集的指标、收集时间，以及收集到的值。可通过将指针悬停在标记上方，确认是否在正确的时间收集到正确的值。
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-feedback-settings-only =
     .message = 设置已应用！
@@ -82,4 +83,6 @@ about-glean-about-data-description = 根据需要查看的数据类型，可通�
 about-glean-about-data-description-list-intro = 请参考下方列表，了解各工具的具体用例：
 about-glean-about-data-list-item-dictionary = 若要浏览 { -glean-brand-name } 对各应用程序收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
 about-glean-about-data-list-item-about-telemetry = 若要浏览旧版遥测正在收集的数据，请查阅 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
+about-glean-about-data-list-item-debug-ping-viewer = 若要浏览调试标签、查看所有 ping、查看实时事件流、查看可视化指标，请查阅 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
+about-glean-about-data-list-item-firefox-profiler = 若要记录性能分析、查看已记录的所有指标，请使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>。
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
