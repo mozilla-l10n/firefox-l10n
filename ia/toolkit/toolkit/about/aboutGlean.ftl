@@ -105,7 +105,11 @@ about-glean-adhoc-note = Nota que que on usa le API de Glean JS per le consola d
 about-glean-profiler-explanation =
     Pro haber un vision plen de tote le indicatores registrate, tu pote usar le { -profiler-brand-name }.
     Primo tu debe <a data-l10n-name="firefox-profiler-link">capturar un profilo de prestation</a>.
-    Un vice tu captura le profilo, selige <q>Diagramma a marcator</q> e reguarda le marcatores sub <q>Telemetria</q>.
+    Un vice que tu captura le profilo, selige <q>Diagramma a marcator</q> e reguarda le marcatores sub <q>Telemetria</q>.
+about-glean-profiler-explanation-profiler =
+    In le profilo de prestation tu pote vider tote le indicatores colligite, quando illos era
+    colligite, e exactemente que valores era colligite. Per passage sur cata marcatores,
+    tu pote verificar que valor correcte era colligite e que collection eveniva al momento juste.
 controls-button-label-verbose = Applicar parametros e inviar ping
 about-glean-feedback-settings-only =
     .message = Parametros applicate!
@@ -124,6 +128,9 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Pro navigar per le lista de datos colligite per telemetria de legato, consulta
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Pro navigar per le lista del datos colligite per { -glean-brand-name } per application, per favor consulta
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>
 about-glean-about-data-list-item-firefox-profiler =
     Pro registrar un profilo de prestationes e vider tote le metricas registrate, usa
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
