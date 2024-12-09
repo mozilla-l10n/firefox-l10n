@@ -344,7 +344,7 @@ onboarding-device-migration-primary-button-label = შესვლა
 
 amo-picker-title = მოირგეთ თქვენი { -brand-short-name }
 amo-picker-subtitle = გაფართოებები ერთგვარი პროგრამებია ბრაუზერისთვის, მათი მეშვეობით შესაძლებელია პაროლების დაცვა, ვიდეოების ჩამოტვირთვა, საყიდლების მოძიება, მომაბეზრებელი რეკლამების შეზღუდვა, იერსახის შეცვლა და კიდევ უამრავი რამ.
-amo-picker-install-button-label = დაიმატებს { -brand-short-name }
+amo-picker-install-button-label = დაემატოს { -brand-short-name }
 amo-picker-install-complete-label = ჩადგმულია
 amo-picker-collection-link = მოიძიეთ სხვა დამატებები
 

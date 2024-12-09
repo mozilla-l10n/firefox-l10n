@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა
+do-not-track-removal = აღარაა მხარდაჭერილი მოთხოვნა „არ მითვალთვალო“
 do-not-track-description2 =
     .label = გაეგზავნოს ვებსაიტებს მოთხოვნად „არ მითვალთვალო“
     .accesskey = ზ
@@ -560,8 +561,7 @@ home-prefs-shortcuts-description = საიტები, რომლებს�
 home-prefs-shortcuts-by-option-sponsored =
     .label = დაფინანსებული მალსახმობები
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } გირჩევთ
