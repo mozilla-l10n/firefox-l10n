@@ -170,7 +170,7 @@ pdfjs-printing-not-ready = გაფრთხილება: PDF სრულ�
 pdfjs-toggle-sidebar-button =
     .title = გვერდითა ზოლის გამოჩენა/დამალვა
 pdfjs-toggle-sidebar-notification-button =
-    .title = გვერდითი ზოლის გამოჩენა (შეიცავს სარჩევს/დანართს/ფენებს)
+    .title = გვერდითი ზოლის გამოჩენა (შეიცავს სარჩევს/დანართს/შრეებს)
 pdfjs-toggle-sidebar-button-label = გვერდითა ზოლის გამოჩენა/დამალვა
 pdfjs-document-outline-button =
     .title = დოკუმენტის სარჩევის ჩვენება (ორმაგი წკაპით თითოეულის ჩამოშლა/აკეცვა)
@@ -179,8 +179,8 @@ pdfjs-attachments-button =
     .title = დანართების ჩვენება
 pdfjs-attachments-button-label = დანართები
 pdfjs-layers-button =
-    .title = ფენების გამოჩენა (ორმაგი წკაპით ყველა ფენის ნაგულისხმევზე დაბრუნება)
-pdfjs-layers-button-label = ფენები
+    .title = შრეების გამოჩენა (ორმაგი წკაპით ყველა შრის ნაგულისხმევზე დაბრუნება)
+pdfjs-layers-button-label = შრეები
 pdfjs-thumbs-button =
     .title = შეთვალიერება
 pdfjs-thumbs-button-label = ესკიზები
@@ -190,7 +190,7 @@ pdfjs-current-outline-item-button-label = მიმდინარე გვე�
 pdfjs-findbar-button =
     .title = პოვნა დოკუმენტში
 pdfjs-findbar-button-label = ძიება
-pdfjs-additional-layers = დამატებითი ფენები
+pdfjs-additional-layers = დამატებითი შრეები
 
 ## Thumbnails panel item (tooltip and alt text for images)
 

@@ -43,6 +43,7 @@ firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ 
 firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
 firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
 firefoxview-syncedtabs-adddevice-header-2 = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
+firefoxview-syncedtabs-adddevice-description-2 = შედით ანგარიშით ტელეფონზე ან სხვა კომპიუტერზე, სადაც გიყენიათ { -brand-product-name }, რომ იხილოთ ჩანართები აქ. ვრცლად, თუ როგორ უნდა <a data-l10n-name="url">დააკავშიროთ დამატებითი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-header = ანგარიშზე შესვლით გამოიყენეთ { -brand-product-name } თქვენს სხვა მოწყობილობებზე
 firefoxview-syncedtabs-adddevice-description = თქვენს ჩანართებთან ნებისმიერი ადგილიდან წვდომისთვის გამოიყენეთ { -brand-product-name } ანგარიშით ყველა მოწყობილობაზე. იხილეთ, როგორ <a data-l10n-name="url">დააკავშიროთ დანარჩენი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = მოსინჯეთ{ -brand-product-name } მობილურზე
@@ -235,6 +236,8 @@ firefoxview-choose-browser-button = ბრაუზერის არჩევ�
 firefoxview-dont-remember-history-empty-header = არაფერია საჩვენებელი
 firefoxview-dont-remember-history-empty-description = თქვენს პირადულობაზე ზრუნვა ჩვენი საქმიანობის მთავარი შემადგენელია. სწორედ ამიტომ თავად შეგიძლიათ განსაზღვროთ, რას დაიმახსოვრებს { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = თქვენი ამჟამინდელი პარამეტრებით, { -brand-short-name } არ დაიხსომებს თქვენს მოქმედებებს გვერდების მონახულებისას. ცვლილებისთვის <a data-l10n-name="history-settings-url-two">მიუთითეთ ისტორიის პარამეტრებში მონახულებული გვერდების დამახსოვრება</a>.
+firefoxview-dont-remember-history-empty-header-2 = თავად განსაზღვრავთ, რას დაიმახსოვრებს { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = ამჟამად { -brand-short-name } არ იმახსოვრებს თქვენ მიერ მონახულებულ გვერდებს. შესაცვლელად <a data-l10n-name="history-settings-url-two">განაახლეთ თქვენი ისტორიის პარამეტრები</a>.
 
 ##
 
@@ -258,13 +261,25 @@ firefoxview-recentlyclosed-empty-description-two = უფრო ადრინ�
 
 firefoxview-syncedtabs-device-notabs = ამ მოწყობილობაზე გახსნილი ჩანართები არაა
 firefoxview-syncedtabs-connect-another-device = სხვა მოწყობილობის დაკავშირება
+firefoxview-pinned-tabs =
+    .title = მიმაგრებული ჩანართები
+firefoxview-tabs =
+    .title = ჩანართები
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = გადასვლა – { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = გადასვლა (ჩანიშნული) – { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (ჩანიშნული) { $url }
