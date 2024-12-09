@@ -39,6 +39,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = Vysvetlenie rôznych spôsobov zaznamenávania a vyhľadávania údajov nájdete na karte <strong>O údajoch</strong>.
 about-glean-about-testing-header = O testovaní
 # This message is followed by a numbered list.
 about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, vykonajte nasledovné:
@@ -75,12 +76,16 @@ about-glean-adhoc-note =
     Upozorňujeme, že Glean JS API používate pomocou konzoly devtools.
     To znamená, že kategória a názov metriky sú naformátované ako 
     <code>camelCase</code> na rozdiel od rozhraní API Rust a C++.
+about-glean-profiler-explanation = Ak chcete zobraziť úplné zobrazenie všetkých zaznamenaných metrík, môžete použiť { -profiler-brand-name }. Najprv musíte <a data-l10n-name="firefox-profiler-link">zaznamenať profil výkonnosti</a>. Po zachytení profilu vyberte <q>Graf značiek</q> a pozrite sa na značky v časti <q>Telemetria</q>.
+about-glean-profiler-explanation-profiler = V profile výkonnosti môžete vidieť všetky zhromaždené metriky, kedy boli zhromaždené a aké hodnoty presne boli zhromaždené. Umiestnením kurzora myši na jednotlivé značky si môžete overiť, či bola nazbieraná správna hodnota a či prebehlo v správnom čase.
 controls-button-label-verbose = Použiť nastavenia a odoslať ping
 about-glean-feedback-settings-only =
     .message = Nastavenia boli použité!
 about-glean-feedback-settings-and-ping =
     .message = Nastavenia boli použité a ping bol odoslaný!
 about-glean-about-data-header = O údajoch
+about-glean-about-data-description = Existuje niekoľko rôznych nástrojov, ktoré môžete použiť na zobrazenie údajov v závislosti od toho, čo hľadáte.
+about-glean-about-data-description-list-intro = Konkrétne prípady použitia pre každý nástroj nájdete v zozname nižšie:
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
     <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.
