@@ -108,7 +108,15 @@ about-glean-adhoc-note =
     გაითვალისწინეთ, რომ Glean JS API გამოყენება devtools-ის ბრძანებებისას.
     ეს ნიშნავს, რომ აზომვების ჯგუფისა და აზომვების დასახელების გაფორმებაა
     <code>camelCase</code> განსხვავებით Rust და C++ API-ებისგან.
+about-glean-profiler-explanation =
+    ყველა ჩაწერილი მაჩვენებლის სრულად სანახავად შეგიძლიათ გამოიყენოთ { -profiler-brand-name }.
+    ჯერ უნდა <a data-l10n-name="firefox-profiler-link">ჩაიწეროთ წარმადობის პროფილი</a>.
+    პროფილის ჩაწერის შემდეგ კი აირჩიოთ <q>სქემა მონიშნებით</q> და გადახედოთ მონიშვნებს <q>აზომვების</q> ქვეშ.
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
+about-glean-feedback-settings-only =
+    .message = პარამეტრები მიღებულია!
+about-glean-feedback-settings-and-ping =
+    .message = პარამეტრები მიღებულია და კრებული გაგზავნილია!
 about-glean-about-data-header = მონაცემთა შესახებ
 about-glean-about-data-explanation =
     შეგროვებულ მონაცემთა ჩამონათვალის სანახავად დაიხმარეთ

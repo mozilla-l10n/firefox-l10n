@@ -19,6 +19,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = დახურვა
     .aria-label = დახურვა
+firefoxview-empty-state-icon =
+    .alt = ყურადღება:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ახლახან
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -30,6 +32,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% შესრულე�
 firefoxview-tabpickup-step-signin-header = მოქნილად გადაერთეთ მოწყობილობებს შორის
 firefoxview-tabpickup-step-signin-description = თქვენი ტელეფონიდან ჩანართების გადმოსატანად ჯერ შექმენით ან შედით ანგარიშზე.
 firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
+firefoxview-syncedtabs-signin-header-2 = თქვენი { -brand-product-name } ყველა თქვენს მოწყობილობაზე
+firefoxview-syncedtabs-signin-description-2 = ტელეფონსა და სხვა მოწყობილობებზე გახსნილი ჩანართების სანახავად შედით ან შექმენით ანგარიში. ანგარიშით ასევე შეგიძლიათ დაასინქრონოთ თქვენი პაროლები, ისტორია და სხვ.
+firefoxview-syncedtabs-signin-primarybutton-2 = შესვლა
 firefoxview-syncedtabs-signin-header = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
 firefoxview-syncedtabs-signin-description = თქვენი ჩანართების სანახავად, სადაც არ უნდა გამოიყენოთ { -brand-product-name }, შედით ანგარიშში. თუ არ გაქვთ ანგარიში, მის შესაქმნელად ნაბიჯ-ნაბიჯ გაგიძღვებით.
 firefoxview-syncedtabs-signin-primarybutton = შედით ან შექმენით ანგარიში
@@ -37,6 +42,7 @@ firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { 
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
 firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
 firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
+firefoxview-syncedtabs-adddevice-header-2 = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
 firefoxview-syncedtabs-adddevice-header = ანგარიშზე შესვლით გამოიყენეთ { -brand-product-name } თქვენს სხვა მოწყობილობებზე
 firefoxview-syncedtabs-adddevice-description = თქვენს ჩანართებთან ნებისმიერი ადგილიდან წვდომისთვის გამოიყენეთ { -brand-product-name } ანგარიშით ყველა მოწყობილობაზე. იხილეთ, როგორ <a data-l10n-name="url">დააკავშიროთ დანარჩენი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = მოსინჯეთ{ -brand-product-name } მობილურზე
@@ -51,6 +57,7 @@ firefoxview-syncedtabs-loading-header = სინქრონიზდება
 firefoxview-syncedtabs-loading-description = როგორც კი დასრულდება, იხილავთ გახსნილ ჩანართებს სხვა მოწყობილობებიდან. შეამოწმეთ ცოტა ხანში.
 firefoxview-tabpickup-fxa-admin-disabled-header = თქვენი დაწესებულების დებულებებით გათიშულია დასინქრონება
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დაწესებულების დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
 firefoxview-tabpickup-network-offline-header = შეამოწმეთ ქსელთან კავშირი
 firefoxview-tabpickup-network-offline-description = თუ გიყენიათ ქსელის ფარი ან პროქსი, უნდა გადაამოწმოთ, რომ { -brand-short-name } ინტერნეტთან წვდომის ნებართვის მქონეა.
 firefoxview-tabpickup-network-offline-primarybutton = ხელახლა ცდა
@@ -149,14 +156,27 @@ firefoxview-opentabs-focus-tab =
     .title = ამ ჩანართზე გადართვა
 firefoxview-show-more = ვრცლად
 firefoxview-show-less = მოკლედ
+firefoxview-show-all = ყველას ჩვენება
 firefoxview-search-text-box-clear-button =
     .title = გასუფთავება
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = ძიება
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = ძიება მონახულებულ გვერდებში
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = ძიება ბოლოს დახურული ჩანართებში
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ჩანართების ძიება
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = დასინქრონებულ ჩანართებში ძიება
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = გახსნილ ჩანართებში არაა
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -174,6 +194,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = ვერ მოიძებნა შედეგები ფრაზისთვის „{ $query }“
 firefoxview-sort-history-by-date-label = თარიღის მიხედვით
 firefoxview-sort-history-by-site-label = საიტის მიხედვით
+firefoxview-sort-open-tabs-by-recency-label = ბოლო მოქმედებებით
+firefoxview-sort-open-tabs-by-order-label = ჩანართების მიმდევრობით
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
