@@ -51,6 +51,8 @@ credit-card-capture-update-button =
 autofill-clear-form-label = შევსებული ველების გასუფთავება
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = მისამართების მართვა
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = გადახდის საშუალებების მართვა
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
