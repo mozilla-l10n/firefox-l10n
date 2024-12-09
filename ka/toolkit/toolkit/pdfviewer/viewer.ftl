@@ -220,10 +220,10 @@ pdfjs-find-input =
     .title = ძიება
     .placeholder = პოვნა დოკუმენტში…
 pdfjs-find-previous-button =
-    .title = ფრაზის წინა კონტექსტის პოვნა
+    .title = წინა დამთხვევის პოვნა
 pdfjs-find-previous-button-label = წინა
 pdfjs-find-next-button =
-    .title = ფრაზის შემდეგი კონტექსტის პოვნა
+    .title = მომდევნო დამთხვევის პოვნა
 pdfjs-find-next-button-label = შემდეგი
 pdfjs-find-highlight-checkbox = ყველაფრის მონიშვნა
 pdfjs-find-match-case-checkbox-label = მთავრულით
@@ -302,7 +302,7 @@ pdfjs-web-fonts-disabled = ვებშრიფტები გამორთ�
 
 pdfjs-editor-free-text-button =
     .title = წარწერა
-pdfjs-editor-free-text-button-label = ტექსტი
+pdfjs-editor-free-text-button-label = წარწერა
 pdfjs-editor-ink-button =
     .title = ხაზვა
 pdfjs-editor-ink-button-label = ხაზვა
@@ -459,21 +459,45 @@ pdfjs-editor-new-alt-text-ai-model-downloading-progress = ჩამოიტვ�
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button =
     .aria-label = დართული წარწერა დამატებულია
+pdfjs-editor-new-alt-text-added-button-label = დართული წარწერა დამატებულია
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = აკლია დართული წარწერა
+pdfjs-editor-new-alt-text-missing-button-label = აკლია დართული წარწერა
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = დართული წარწერის გადახედვა
+pdfjs-editor-new-alt-text-to-review-button-label = დართული წარწერის გადახედვა
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = შედგენილია ავტომატურად: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = სურათის დართული წარწერის პარამეტრები
+pdfjs-image-alt-text-settings-button-label = სურათის დართული წარწერის პარამეტრები
+pdfjs-editor-alt-text-settings-dialog-label = სურათის დართული წარწერის პარამეტრები
+pdfjs-editor-alt-text-settings-automatic-title = ავტომატურად დართული წარწერა
+pdfjs-editor-alt-text-settings-create-model-button-label = დართული წარწერის ავტომატური შედგენა
+pdfjs-editor-alt-text-settings-create-model-description = აღწერს სურათს მათთვის, ვინც ვერ ხედავს ან ვისთანაც ვერ ჩაიტვირთება.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = დართული წარწერის შესადგენი AI-მოდელი ({ $totalSize } მბაიტი)
+pdfjs-editor-alt-text-settings-ai-model-description = ეშვება ადგილობრივად თქვენს მოწყობილობასა, ასე რომ მონაცემები დარჩება პირადი. საჭიროა წარწერის ავტომატურად დართვისთვის.
 pdfjs-editor-alt-text-settings-delete-model-button = წაშლა
 pdfjs-editor-alt-text-settings-download-model-button = ჩამოტვირთვა
 pdfjs-editor-alt-text-settings-downloading-model-button = ჩამოიტვრითება...
-pdfjs-editor-alt-text-settings-editor-title = დართული ტექსტის ჩამსწორებელი
-pdfjs-editor-alt-text-settings-show-dialog-button-label = გამოჩნდეს დართული ტექსტის ჩამსწორებელი სურათის დამატებისთანავე
-pdfjs-editor-alt-text-settings-show-dialog-description = უზრუნველყოფს, რომ თქვენს ყველა სურათს გააჩნდეს დართული ტექსტი.
+pdfjs-editor-alt-text-settings-editor-title = დართული წარწერის ჩამსწორებელი
+pdfjs-editor-alt-text-settings-show-dialog-button-label = გამოჩნდეს დართული წარწერის ჩამსწორებელი სურათის დამატებისთანავე
+pdfjs-editor-alt-text-settings-show-dialog-description = უზრუნველყოფს, რომ თქვენს ყველა სურათს ახლდეს დართული წარწერა.
 pdfjs-editor-alt-text-settings-close-button = დახურვა
 
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = მონიშვნა მოცილებულია
-pdfjs-editor-undo-bar-message-freetext = ტექსტი მოცილებულია
+pdfjs-editor-undo-bar-message-freetext = წარწერა მოცილებულია
 pdfjs-editor-undo-bar-message-ink = ნახატი მოცილებულია
 pdfjs-editor-undo-bar-message-stamp = სურათი მოცილებულია
 # Variables:
@@ -486,3 +510,6 @@ pdfjs-editor-undo-bar-message-multiple =
 pdfjs-editor-undo-bar-undo-button =
     .title = დაბრუნება
 pdfjs-editor-undo-bar-undo-button-label = დაბრუნება
+pdfjs-editor-undo-bar-close-button =
+    .title = დახურვა
+pdfjs-editor-undo-bar-close-button-label = დახურვა
