@@ -200,6 +200,9 @@ media-cdm-capabilities = შესაძლებლობები
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = დაუშიფრავად დაწყება
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 თავსებადობა
 
 ##
 
@@ -279,6 +282,7 @@ try-newer-driver = შეზღუდულია თქვენი გრა�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType პარამეტრები
 compositing = გამოსახულების დამუშავება
+support-font-determination = შრიფტის ჩვენების გასამართი მონაცემები
 hardware-h264 = აპარატურული H264 გაშიფვრა
 main-thread-no-omtc = მთავარი ნაკადი, OMTC-ს გარეშე
 yes = დიახ
@@ -340,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (სისტემური გამოძახ
 has-seccomp-tsync = Seccomp ნაკადის სინქრონიზაცია
 has-user-namespaces = მომხმარებლის სახელის სივრცეები
 has-privileged-user-namespaces = მომხმარებლის სახელთა სივრცეები უპირატესობის მქონე პროცესებისთვის
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — ეს შესაძლებლობა არაა ნებადართული თქვენს სისტემაში. შეიძლება ზღუდავდეს უსაფრთხოების საშუალებებს, რომელთაც იყენებს { -brand-short-name }.
 can-sandbox-content = შიგთავსის პროცესის გამიჯვნა
 can-sandbox-media = მედიამოდულის გამიჯვნა
 content-sandbox-level = შიგთავსის პროცესის გამიჯვნის დონე
@@ -378,7 +385,7 @@ fission-status-enabled-by-user-pref = ჩართული მომხმა�
 fission-status-disabled-by-user-pref = გამორთული მომხმარებლის მიერ
 fission-status-disabled-by-e10s-other = E10s გამორთული
 fission-status-enabled-by-rollout = ჩართულია თანდათანობითი დანერგვით
-async-pan-zoom = ასინქრონული პანორამირება/ზომის ცვლილება
+async-pan-zoom = ასინქრონული გაშლა/ზომის ცვლა
 apz-none = არაა
 wheel-enabled = რგოლით შეყვანა ჩართულია
 touch-enabled = შეხებით შეტანა ჩართულია
@@ -410,6 +417,17 @@ support-printing-prefs-value = მნიშვნელობა
 
 ## Remote Settings sections
 
+support-remote-settings-title = დაშორებული პარამეტრები
+support-remote-settings-status = მდგომარეობა
+support-remote-settings-status-ok = გამართული
+# Status when synchronization is not working.
+support-remote-settings-status-broken = გაუმართავი
+support-remote-settings-last-check = ბოლო შემოწმება
+support-remote-settings-local-timestamp = ადგილობრივი დროის ნიშნული
+support-remote-settings-sync-history = ისტორია
+support-remote-settings-sync-history-status = მდგომარეობა
+support-remote-settings-sync-history-datetime = თარიღი
+support-remote-settings-sync-history-infos = ცნობები
 
 ## Normandy sections
 
@@ -430,3 +448,8 @@ pointing-device-none = მიმთითებელი მოწყობი�
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = შიგთავსის გარჩევა (DLP)
+content-analysis-active = მოქმედი
