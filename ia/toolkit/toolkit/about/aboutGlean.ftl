@@ -102,6 +102,10 @@ about-glean-adhoc-explanation2 =
     pro un metrica denominate <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Nota que que on usa le API de Glean JS per le consola del utensiles de disveloppamento. Isto significa que le categoria e le nomine metric es formattate in <code>camelCase</code> diversemente del APIs in le Rust e C++.
+about-glean-profiler-explanation =
+    Pro haber un vision plen de tote le indicatores registrate, tu pote usar le { -profiler-brand-name }.
+    Primo tu debe <a data-l10n-name="firefox-profiler-link">capturar un profilo de prestation</a>.
+    Un vice tu captura le profilo, selige <q>Diagramma a marcator</q> e reguarda le marcatores sub <q>Telemetria</q>.
 controls-button-label-verbose = Applicar parametros e inviar ping
 about-glean-feedback-settings-only =
     .message = Parametros applicate!
