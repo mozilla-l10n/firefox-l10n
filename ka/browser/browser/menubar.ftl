@@ -145,6 +145,8 @@ menu-view-history-button =
     .label = ისტორია
 menu-view-synced-tabs-sidebar =
     .label = დასინქრონებული ჩანართები
+menu-view-megalist-sidebar =
+    .label = პაროლები
 menu-view-full-zoom =
     .label = ზომის ცვლილება
     .accesskey = მ
@@ -254,6 +256,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = პროფილები
+menu-profiles-manage-profiles =
+    .label = პროფილების მართვა
+menu-profiles-new-profile =
+    .label = ახალი პროფილი
 
 ## Tools Menu
 
