@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Mais informação sobre a Proteção melhorada contra a monitorização
 protections-panel-etp-on-header = A proteção melhorada contra a monitorização está ATIVADA para este site
 protections-panel-etp-off-header = A proteção melhorada contra a monitorização está DESATIVADA para este site
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = O site não está a funcionar?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = O site não está a funcionar?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Proteção melhorada contra a monitorização
     .description = Desativada para este site
     .aria-label = Proteção melhorada contra a monitorização: desativada para { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = O site não está a funcionar?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = O site não está a funcionar?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,19 @@ protections-panel-content-blocking-fingerprinters-label = Identificadores
 protections-panel-blocking-label = Bloqueado
 protections-panel-not-blocking-label = Permitido
 protections-panel-not-found-label = Nenhuma detetada
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } bloqueia o rastreio de conteúdos enquanto está neste site, a menos que o permita.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permitir { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Conteúdo e rastreadores de { $trackername } bloqueados
+smartblock-placeholder-desc = As suas definições do { -brand-short-name } impediram este conteúdo de o monitorizar através de sites ou de ser utilizado para anúncios.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Permitir em { $websitehost }
 
 ##
 
@@ -108,7 +121,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Reportar um site quebrado
 protections-panel-content-blocking-breakage-report-view-description = O bloqueio de determinados rastreadores pode causar problemas com alguns sites. Reportar estes problemas ajuda o { -brand-short-name } a ficar melhorar para todos. O envio deste relatório irá enviar um endereço e informação sobre as suas definições do navegador à Mozilla. <label data-l10n-name="learn-more">Saber mais</label>
-protections-panel-content-blocking-breakage-report-view-description2 = O bloqueio de determinados rastreadores pode causar problemas com alguns sites. Reportar estes problemas ajuda o { -brand-short-name } a ficar melhorar para todos. O envio deste relatório irá enviar um endereço e informação sobre as suas definições do navegador à { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
