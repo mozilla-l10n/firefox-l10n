@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = ჩაწერის აღრ
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = თვითგანახლება
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = თვითგაახლება ნაგულისხმევად
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = გაახლება
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,11 @@ about-webrtc-save-page-label = გვერდის შენახვა
 about-webrtc-debug-mode-msg-label = გამართვის რეჟიმი
 about-webrtc-debug-mode-off-state-label = გამართვის რეჟიმის დაწყება
 about-webrtc-debug-mode-on-state-label = გამართვის რეჟიმის შეჩერება
-about-webrtc-enable-logging-label = WebRTC-აღრიცხვის მზა პარამეტრების ჩართვა
 about-webrtc-stats-heading = სეანსის სტატისტიკა
+about-webrtc-enable-logging-label = WebRTC-აღრიცხვის მზა პარამეტრების ჩართვა
+about-webrtc-peerconnections-section-heading = RTCPeerConnection-აღრიცხვები
+about-webrtc-peerconnections-section-show-msg = გამოჩნდეს RTCPeerConnection-აღრიცხვები
+about-webrtc-peerconnections-section-hide-msg = დაიმალოს RTCPeerConnection-აღრიცხვები
 about-webrtc-stats-clear = ისტორიის გასუფთავება
 about-webrtc-log-heading = კავშირის ჩანაწერები
 about-webrtc-log-clear = აღრიცხული ჩანაწერების გასუფთავება
@@ -194,6 +195,17 @@ about-webrtc-configuration-element-provided = მოწოდებული
 about-webrtc-configuration-element-not-provided = არაა მოწოდებული
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = მომხმარებლის მითითებული WebRTC-პარამეტრები
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = მომხმარებლის მიერ შეცვლილი WebRTC-გამართვა
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = გამოჩნდეს მომხმარებლის მიერ შეცვლილი
+about-webrtc-user-modified-configuration-hide-msg = დაიმალოს მომხმარებლის მიერ შეცვლილი
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = სავარაუდო გამტარობა
 # The ID of the MediaStreamTrack
@@ -215,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT, მწმ
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = ვიდეოკადრების სტატისტიკა - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = გვერდი შეინახა აქ: { $path }
 about-webrtc-debug-mode-off-state-msg = კვალის აღრიცხვის ნახვა შეგიძლიათ აქ: { $path }
@@ -229,8 +238,6 @@ about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიც�
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = გვერდი შეინახა აქ: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = კვალის აღრიცხვის ნახვა შეგიძლიათ აქ: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = გამართვის რეჟიმი ამოქმედებულია, აღრიცხვის მდებარეობა: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +317,6 @@ about-webrtc-hide-msg-sdp = დაიმალოს SDP
 about-webrtc-media-context-show-msg = მულტიმედიური გარემოს ჩვენება
 about-webrtc-media-context-hide-msg = მულტიმედიური გარემოს დამალვა
 about-webrtc-media-context-heading = მულტიმედიური გარემო
-
-##
-
 
 ##
 
