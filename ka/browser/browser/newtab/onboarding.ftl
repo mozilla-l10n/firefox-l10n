@@ -405,10 +405,31 @@ onboarding-existing-vertical-tabs-label = მოსინჯეთ შვეუ�
 onboarding-flair-text = სიახლე!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = დარჩეს ჩანართები თარაზულად
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = ბრაუზერის ფანჯარა ჩანართებს ეკრანის გვერდით არეში მოქცევით, რომელსაც { -brand-shorter-name } წარმოადგენს გვერდით ზოლად.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = ბრაუზერის ფანჯარა ჩანართებს ეკრანის გვერდით არეში მოქცევით, რომელსაც { -brand-shorter-name } წარმოადგენს გვერდით ზოლად.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = ბრაუზერის ფანჯარა ჩანართების ზედა ნაწილში გამოჩენით.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = ბრაუზერის ფანჯარა ჩანართების ზედა ნაწილში გამოჩენით.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = გამოცადეთ AI-თანამოსაუბრე გვერდით ზოლზე
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = შეაჯამეთ ვებგვერდზე მოცემული მასალა, გაეცანით განსხვავებულ მოსაზრებებს, შეადგინეთ მიმოწერები — გვერდების თვალიერების შეწყვეტის გარეშე. აირჩიეთ რამდენიმე მომწოდებლისგან. შეცვალეთ ნებისმიერ დროს. <a data-l10n-name="learn-more">დაწვრილებით</a>
 onboarding-genai-sidebar-primary-button = აირჩიეთ თანამოსაუბრე
 onboarding-genai-sidebar-secondary-button = დაიწყეთ გვერდების მონახულება
 
 ## New user onboarding checklist
 
 onboarding-checklist-title = დაასრულეთ გამართვა და გამოიყენეთ { -brand-short-name }
+onboarding-checklist-subtitle = შეასრულეთ მოცემული ნაბიჯები, რომ სრულყოფილად იმოგზაუროთ ვებსივრცეში.
+onboarding-checklist-set-default = გახდეს { -brand-short-name } ნაგულისხმევი ბრაუზერი
+onboarding-checklist-pin = მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
+onboarding-checklist-import = გადმოტანა წინა ბრაუზერიდან
 onboarding-checklist-extension = გაფართოების დამატება
+onboarding-checklist-sign-up = შექმენით ან შედით ანგარიშზე
