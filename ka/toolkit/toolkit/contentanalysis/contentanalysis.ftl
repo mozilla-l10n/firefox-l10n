@@ -55,3 +55,19 @@ contentanalysis-invalid-agent-signature-message-content = ვერ დამო
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = „{ $filename }“ ვერ აიტვირთა, რადგან უარყოფილია.
+contentanalysis-error-message-dropped-text = ჩავლებით გადმოტანა უარყოფილია.
+contentanalysis-error-message-clipboard = ჩასმა უარყოფილია.
+contentanalysis-error-message-print = ბეჭდვა უარყოფილია.
+contentanalysis-block-dialog-title-upload-file = არ გაქვთ ამ ფაილის ატვირთვის ნებართვა.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ატვირთოთ „{ $filename }“. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-title-clipboard = არ გაქვთ ამ მასალის შიგთავსის ჩასმის ნებართვა.
+contentanalysis-block-dialog-body-clipboard = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩასვათ ამ მასალის შიგთავსი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-title-dropped-text = არ გაქვთ ამ მასალის ჩავლებით განთავსების ნებართვა.
+contentanalysis-block-dialog-body-dropped-text = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩავლებით განათავსოთ ამ მასალის შიგთავსი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-title-print = არ გაქვთ ამ დოკუმენტის ბეჭდვის ნებართვა.
+contentanalysis-block-dialog-body-print = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ამობეჭდოთ ეს დოკუმენტი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-inprogress-quit-title = დაიხუროს { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = გარკვეული მოქმედებები ჯერ კიდევ მიმდინარეობს. თუ დაიხურება { -brand-shorter-name }, მათი დასრულება ვერ მოხერხდება.
+contentanalysis-inprogress-quit-yesbutton = დიახ, დაიხუროს
