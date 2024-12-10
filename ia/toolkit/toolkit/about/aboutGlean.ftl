@@ -128,9 +128,7 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Pro navigar per le lista de datos colligite per telemetria de legato, consulta
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
-about-glean-about-data-list-item-debug-ping-viewer =
-    Pro navigar per le lista del datos colligite per { -glean-brand-name } per application, per favor consulta
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>
+about-glean-about-data-list-item-debug-ping-viewer = Pro navigar per le placas de depuration, vide le pings de diffusion directe del evento, o vide le visualisationes de indicator, consulta le <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Pro registrar un profilo de prestationes e vider tote le metricas registrate, usa
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
