@@ -50,6 +50,11 @@ downloads-cmd-use-system-default-named =
     .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = সিস্টেম ভিউয়ারে সর্বদা খুলুন
+    .accesskey = w
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-always-use-system-default-named =
     .label = { $handler } এ খুলুন
@@ -154,6 +159,8 @@ downloading-file-opens-in-seconds-2 =
     .value = { $seconds } সেকেন্ডে খুলছে...
 downloading-file-opens-in-some-time-2 =
     .value = সম্পূর্ণ হলে খোলা হচ্ছে...
+downloading-file-click-to-open =
+    .value = সম্পূর্ণ হলে খুলুন
 
 ##
 
@@ -181,6 +188,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ফাইল ডাউনলোড করা হয়নি৷
+       *[other] { $num } ফাইল ডাউনলোড করা হয়নি৷
+    }
+downloads-blocked-from-url = ডাউনলোডগুলি { $url } থেকে ব্লক করা হয়েছে৷
+downloads-blocked-download-detailed-info = { $url } একাধিক ফাইল স্বয়ংক্রিয়ভাবে ডাউনলোড করার চেষ্টা করেছে৷ সাইটটি ব্রোকেন হতে পারে বা আপনার ডিভাইসে স্প্যাম ফাইল সংরক্ষণ করার চেষ্টা করতে পারে।
 
 ##
 
