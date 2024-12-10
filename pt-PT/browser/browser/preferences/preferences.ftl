@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar um sinal de “Não Monitorizar” para os sites da Internet com a indicação que não deseja ser monitorizado
+do-not-track-removal = Nós já não suportamos o sinal “Do Not Track”
 do-not-track-description2 =
     .label = Enviar aos sites um pedido de “Não monitorizar”
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir ligações em novos separadores em vez de novas janelas
     .accesskey = j
+ask-on-close-multiple-tabs =
+    .label = Questionar antes de fechar múltiplos separadores
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Questionar antes de sair com { $quitKey }
+    .accesskey = Q
 confirm-on-close-multiple-tabs =
     .label = Confirmar antes de fechar múltiplos separadores
     .accesskey = m
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Sites que guarda ou visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atalhos patrocinados
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
@@ -788,6 +799,9 @@ sync-currently-syncing-creditcards = Cartões de crédito
 sync-currently-syncing-payment-methods = Métodos de pagamento
 sync-currently-syncing-addons = Extras
 sync-currently-syncing-settings = Definições
+sync-manage-options =
+    .label = Gerir a sincronização…
+    .accesskey = G
 sync-change-options =
     .label = Alterar...
     .accesskey = A
@@ -840,6 +854,13 @@ sync-engine-settings =
     .label = Definições
     .tooltiptext = Definições gerais, de privacidade e de segurança que alterou
     .accesskey = D
+sync-choose-what-to-sync-dialog4 =
+    .title = Faça a gestão do que é sincronizado em todos os seus dispositivos associados
+    .style = min-width: 59em;
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Desligar…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

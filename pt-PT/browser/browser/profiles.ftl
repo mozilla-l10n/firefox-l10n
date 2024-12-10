@@ -9,9 +9,22 @@ profile-window-body = Mantenha o seu trabalho e navegação pessoal, incluindo c
 profile-window-checkbox-label =
     .label = Mostrar isto quando o { -brand-short-name } for iniciado
 profile-window-create-profile = Criar um perfil
+profile-card-edit-button =
+    .title = Editar perfil
+    .aria-label = Editar perfil
+profile-card-delete-button =
+    .title = Eliminar perfil
+    .aria-label = Eliminar perfil
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Abrir { $profileName }
+    .aria-label = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Perfil original
 edit-profile-page-title = Editar perfil
 edit-profile-page-header = Editar o seu perfil
 edit-profile-page-profile-name-label = Nome do perfil
@@ -32,7 +45,7 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Edição terminada
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -49,6 +62,9 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Histórico (páginas visitadas, cookies, dados de sites)
 delete-profile-autofill = Dados de preenchimento automático (endereços, métodos de pagamento)
 delete-profile-logins = Palavras-passe
+
+##
+
 # Button label
 delete-profile-cancel = Cancelar
 # Button label
