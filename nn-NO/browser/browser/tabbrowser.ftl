@@ -104,6 +104,11 @@ tabbrowser-confirm-close-tabs-with-key-button = Avslutt { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Stadfest før du avsluttar med { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Lat att denne fana
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Stadfest opning
@@ -185,3 +190,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
