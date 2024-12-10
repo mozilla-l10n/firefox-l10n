@@ -128,6 +128,19 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     გთხოვთ გაითვალისწინოთ ქვემოთ სია, რომელი ცალკეული
     შემთხვევისთვისაა შესაბამისი ხელსაწყო:
+about-glean-about-data-list-item-dictionary =
+    სიის სანახავად მონაცემებისა, რომელთაც { -glean-brand-name } აგროვებს ცალკეული პროგრამაში, დაიხმარეთ
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
+about-glean-about-data-list-item-about-telemetry =
+    მოძველებული აზომვების შედეგად აღრიცხული მონაცემებისთვის, გთხოვთ იხილოთ
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    გამართვის ჭდეების, სრული კრებულის, პირდაპირი ღონისძიებების ნაკადის ან აზომვების გამოსახულების
+    სანახავად გამოგადგებათ
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    წარმადობის პროფილის ჩასაწერად და ყველა ჩაწერილი ანაზომის სანახავად, გთხოვთ გამოიყენოთ
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     შეგროვებულ მონაცემთა ჩამონათვალის სანახავად დაიხმარეთ
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
