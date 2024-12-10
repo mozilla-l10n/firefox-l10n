@@ -297,6 +297,14 @@ find-more-themes = Encontrar mais temas
 # used for screen readers.
 addon-options-button =
     .aria-label = Mais opções
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    As extensões e temas permitem-lhe personalizar o { -brand-product-name }. Podem aumentar a privacidade,
+    aumentar a produtividade, melhorar a multimédia, alterar o aspeto do { -brand-product-name } e
+    muito mais. Estes pequenos programas de software são geralmente desenvolvidos por terceiros. Eis
+    uma seleção que o { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomenda</a>
+    para uma segurança, desempenho e funcionalidade excecionais.
 
 ## Add-on actions
 
