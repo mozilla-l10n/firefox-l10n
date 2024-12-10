@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ウェブサイトに “Do Not Track” 信号を送り、追跡されたくないことを知らせます。
+do-not-track-removal = “Do Not Track” 信号のサポートを終了します
 do-not-track-description2 =
     .label = ウェブサイトに “Do Not Track” 要求を送る
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 新規ウインドウではなく新規タブに開く
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = 同時に複数のタブを閉じる前に確認する
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } キーで終了する前に確認する
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = 同時に複数のタブを閉じる前に確認する
     .accesskey = m
@@ -557,8 +569,7 @@ home-prefs-shortcuts-description = 保存または訪問したサイト
 home-prefs-shortcuts-by-option-sponsored =
     .label = 広告ショートカット
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } のおすすめ
@@ -870,7 +881,7 @@ pane-privacy-logins-and-passwords-header = ログインとパスワード
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = ウェブサイトのログイン情報とパスワードを保存する
+    .label = ウェブサイトのログイン情報とパスワードを保存するか確認する
     .accesskey = r
 
 ## Privacy Section - Passwords
@@ -881,7 +892,7 @@ pane-privacy-passwords-header = パスワード
     .searchkeywords = ログイン情報
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
-    .label = パスワードの保存を尋ねる
+    .label = パスワードを保存するか確認する
     .accesskey = A
 forms-exceptions =
     .label = 例外サイト...
