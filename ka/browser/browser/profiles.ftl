@@ -36,6 +36,8 @@ edit-profile-page-delete-button =
 edit-profile-page-no-name = დაარქვით რამე, მომავალში ადვილად რომ იპოვოთ. გადარქმევა ნებისმიერ დროს შეიძლება.
 edit-profile-page-duplicate-name = პროფილის სახელი უკვე გამოიყენება. სცადეთ ახალი სახელი.
 edit-profile-page-profile-saved = შენახულია
+new-profile-page-title = ახალი პროფილი
+new-profile-page-header = მოირგეთ თქვენი ახალი პროფილი
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
