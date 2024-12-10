@@ -79,11 +79,11 @@ fp-certerror-return-to-previous-page-recommended-button = უკან დაბ
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = საიტი მომართულია მხოლოდ დაცული კავშირების დასამყარებლად, მაგრამ ხარვეზი აქვს სერტიფიკატს. არაა გამორიცხული, ვინმე ბოროტმოქმედი ცდილობდეს ამ საიტის სხვა საიტად გასაღებას. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. { -brand-short-name } არ ენდობა ამ საიტს, რადგან მისი სერტიფიკატი უქმია მისამართისთვის { $hostname }. სერტიფიკატი მოქმედია მისამართებისთვის: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს ჰქონდეს ხარვეზი. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. თუ დაწესებულების ქსელში იმყოფებით, ქსელის ზედამხედველ გუნდს ექნება მეტი ინფორმაცია. თუ გიყენიათ ანტივირუსი, ეცადეთ მოიძიოთ თავსებადობის ან სხვა ცნობილი ხარვეზები.
+fp-certerror-bad-domain-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს მხრიდან იყოს ხარვეზი. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. თუ დაწესებულების ქსელში იმყოფებით, ქსელის ზედამხედველ გუნდს ექნება მეტი ინფორმაცია. თუ გიყენიათ ანტივირუსი, ეცადეთ მოიძიოთ თავსებადობის ან სხვა ცნობილი ხარვეზები.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = ხარვეზი აქვს საიტის სერტიფიკატს. არაა გამორიცხული, ვინმე ბოროტმოქმედი ცდილობდეს ამ საიტის სხვა საიტად გასაღებას. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. { -brand-short-name } არ ენდობა ამ საიტს, რადგან უცნობია მისი გამომცემელი, შეიძლება თვითდამოწმებულია ან საიტი არ აგზავნის სანდო შუალედურ სერტიფიკატს.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-unknown-issuer-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს ჰქონდეს ხარვეზი. თუ დაწესებულების ქსელში იმყოფებით, ქსელის მხარდაჭერის გუნდს ეცოდინება უკეთ. თუ იყენებთ ანტივირუსს, შეიძლება საჭირო იყოს ისე გამართვა, რომ { -brand-short-name } შეუთავსებლად არ მუშაობდეს.
+fp-certerror-unknown-issuer-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს მხრიდან იყოს ხარვეზი. თუ დაწესებულების ქსელში იმყოფებით, ქსელის მხარდაჭერის გუნდს ეცოდინება უკეთ. თუ იყენებთ ანტივირუსს, შეიძლება საჭირო იყოს ისე გამართვა, რომ { -brand-short-name } შეუთავსებლად არ მუშაობდეს.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = იმის, რომ ხარვეზითაა საიტის სერტიფიკატი. საიტები იყენებს უფლებამოსილი მხარის გამოცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. ამ საიტის სერტიფიკატი კი თვითდამოწმებულია. არაა აღიარებული მხარის მიერ გამოცემული — ასე რომ თავისთავად სანდო ვერ იქნება.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -167,3 +167,4 @@ fp-certerror-hide-advanced-button = შემოკლებულად
 
 fp-certerror-override-exception-button = მაინც გაიხსნას { $hostname } (სახიფათოა)
 fp-certerror-intro = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. სხვა საიტად გასაღების დროს შეიძლება მოიპარონ საკრედიტო ბარათის მონაცემები, პაროლები ან ელფოსტა.
+fp-certerror-expired-into = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. ან საიტია გაუმართავი, ან თქვენი საათია არეული.
