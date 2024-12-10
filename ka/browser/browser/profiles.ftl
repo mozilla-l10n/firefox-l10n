@@ -38,12 +38,41 @@ edit-profile-page-duplicate-name = პროფილის სახელი �
 edit-profile-page-profile-saved = შენახულია
 new-profile-page-title = ახალი პროფილი
 new-profile-page-header = მოირგეთ თქვენი ახალი პროფილი
+new-profile-page-header-description = თითოეული პროფილი გვერდების ისტორიასა და პარამეტრებს სხვა პროფილებისგან განცალკევებით ინახავს. ამასთანავე, { -brand-short-name } ნაგულისხმევად იყენებს პირადულობის მძლავრ დაცვას.
+new-profile-page-learn-more = ვრცლად
+new-profile-page-input-placeholder =
+    .placeholder = აირჩიეთ სახელი, როგორიცაა „სამუშაო“ ან „პირადი“
+new-profile-page-done-button =
+    .label = ჩასწორება დასრულებულია
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = წაიშალოს { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = წაიშალოს { $profilename } პროფილი?
+delete-profile-description = { -brand-short-name } სამუდამოდ წაშლის მოწყობილობიდან მონაცემებს, როგორიცაა:
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = გახსნილი ფანჯრები
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = გახსნილი ჩანართები
+delete-profile-bookmarks = სანიშნები
+delete-profile-history = ისტორია (მონახულებული გვერდები, ფუნთუშები, საიტის მონაცემები)
+delete-profile-autofill = თვითშევსების მონაცემები (მისამართები, გადახდის საშუალებები)
+delete-profile-logins = პაროლები
 
 ##
 
+# Button label
+delete-profile-cancel = გაუქმება
+# Button label
+delete-profile-confirm = წაშლა
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = გულყვითელა
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme = მოიისფრო
