@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = ვებშიგთავსი
 # process used to run privileged about pages,
@@ -17,18 +16,19 @@ process-type-privilegedmozilla = უპირატესი Mozilla-შიგ�
 process-type-extension = გაფართოება
 # process used to open file:// URLs
 process-type-file = ადგილობრივი ფაილი
+# process used to instantiate new child processes
+process-type-forkserver = განშტოება-სერვერი
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = განცალკევებული ვებშიგთავსი
 # process used to isolate a ServiceWorker to improve
 # performance
-process-type-webserviceworker = გამიჯნული Service Worker
+process-type-webserviceworker = განცალკევებული Service Worker
 # process preallocated; may change to other types
 process-type-prealloc = წინასწარ განაწილებული
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = მთავარი
 process-type-tab = ჩანართი
@@ -39,12 +39,14 @@ process-type-gpu = GPU
 process-type-socket = სოკეტი
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = გამოტანა
 # process used to run some IPC actor in their own sandbox
 process-type-utility = გამიჯნული IPC Actor
+process-type-utility-actor-audio-decoder-generic = ზოგადი გამოყენების ხმოვანი გამშიფრავი
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = დაუდგენელი

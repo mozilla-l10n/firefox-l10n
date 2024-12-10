@@ -337,3 +337,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
 multi-cta-fox-doodle-main-browser-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
 multi-cta-fox-doodle-quick-reminder-subtitle = აქვე შეხსენება, რომ თქვენი საყვარელი პირადულობის უზრუნველმყოფი ბრაუზერი შეგიძლიათ იქონიოთ თითის ერთ გაწვდენაზე.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] გქონდეთ პირადულობის უზრუნველყოფის ბრაუზერი თითის ერთ გაწვდენაზე. მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად ბმულების გახსნისთვის და მიამაგრეთ ამოცანათა Dock-ზოლზე.
+       *[other] გქონდეთ პირადულობის უზრუნველყოფის ბრაუზერი თითის ერთ გაწვდენაზე. მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად ბმულების გახსნისთვის და მიამაგრეთ ამოცანათა ზოლზე.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = გქონდეთ პირადულობის უზრუნველყოფის ბრაუზერი თითის ერთ გაწვდენაზე. მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად ბმულების გახსნისთვის და მიამაგრეთ ამოცანათა ზოლსა თუ საწყის მენიუში.
