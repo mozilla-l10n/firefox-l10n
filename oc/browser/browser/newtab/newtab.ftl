@@ -323,6 +323,16 @@ newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Plaja a l’alba
 newtab-wallpaper-storm-sky = Cèl auratjós
 newtab-wallpaper-white-mountains = Montanhas blancas
+newtab-wallpaper-feature-highlight-header = Ensajatz de colors novèlas
+newtab-wallpaper-feature-highlight-content = Donatz una aparéncia mai fresca a la pagina Onglets novèls amb un fons d’ecran.
+newtab-wallpaper-feature-highlight-button = Comprés
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Ignorar
+    .aria-label = Tampar la fenèstra
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
@@ -330,6 +340,9 @@ newtab-wallpaper-white-mountains = Montanhas blancas
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
     .title = Mostrar la prevision metèo de { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Esponsorizat
 newtab-weather-menu-change-location = Modificar lo luòc
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cercar un luòc
@@ -340,10 +353,13 @@ newtab-weather-menu-weather-display = Afichatge metèo
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-change-weather-display-simple = Bascular a la vista simplificada
 newtab-weather-menu-weather-display-option-detailed = Detalhat
+newtab-weather-menu-change-weather-display-detailed = Bascular a la vista detalhada
 newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Passar en Fahrenheit
 newtab-weather-menu-learn-more = Ne saber mai
 
 ## Topic Labels
