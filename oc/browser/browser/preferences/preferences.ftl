@@ -151,6 +151,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Dobrir los ligams dins d’onglets allòc de fenèstras
     .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Demandar abans de tampar mantun onglet
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Demandar abans de quitar { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Confirmar abans la tampadura de mantun onglet
     .accesskey = a
@@ -594,6 +605,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
 home-prefs-weather-header =
     .label = Metèo
+home-prefs-weather-learn-more-link = Ne saber mai
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -708,6 +720,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
     .alt = Cambiar la fòto de perfil de l'utilizaire
+sync-profile-picture-account-problem =
+    .alt = Imatge de perfil del compte
 fxa-login-rejected-warning =
     .alt = Avertiment
 sync-sign-out =

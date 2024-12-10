@@ -12,10 +12,13 @@
 
 policy-3rdparty = Permetre de definir las estrategias que WebExtensions pòdon accedir via chrome.storage.managed.
 policy-AllowedDomainsForApps = Definir los domenis autorizats a accedir a Google Workspace.
+policy-AllowFileSelectionDialogs = Autorizar las fenèstras de seleccion de fichièrs.
 policy-AppAutoUpdate = Activar o desactivar la mesa a jorn automatica de las aplicacions.
 policy-AppUpdatePin = Empachar la mesa a jorn de { -brand-short-name } al delà de la version especificada.
 policy-AppUpdateURL = Definir una URL de mesa a jorn personalizada per l’aplicacion.
 policy-Authentication = Configurar l’autentificacion integrada pels sites web que la prepausan.
+policy-AutofillAddressEnabled = Activar l’emplenatge automatic de las adreças.
+policy-AutofillCreditCardEnabled = Activar l’emplenatge automatic pels metòdes de pagament.
 policy-AutoLaunchProtocolsFromOrigins = Definir una lista de protocòls extèrns que son autorizats a partir d’orginas inventoriadas sens demandar a l’utilizaire.
 policy-BackgroundAppUpdate2 = Activar o desactivar la mesa a jorn en rèireplan.
 policy-BlockAboutAddons = Blocar l’accès al gestionari de moduls (about:addons).

@@ -360,6 +360,7 @@ newtab-weather-menu-temperature-units = Unitats de temperatura
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Passar en Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Passar en Celsius
 newtab-weather-menu-learn-more = Ne saber mai
 
 ## Topic Labels
@@ -391,3 +392,7 @@ newtab-topic-label-home = Ostal e òrt
 
 newtab-topic-selection-save-button = Enregistrar
 newtab-topic-selection-cancel-button = Anullar
+newtab-topic-selection-button-maybe-later = Benlèu mai tard
+newtab-topic-selection-privacy-link = Descobrissètz cossí protegissèm e gerissèm vòstras donadas
+newtab-topic-selection-button-update-interests = Metre a jorn vòstres interèsses
+newtab-topic-selection-button-pick-interests = Causir vòstres interèsses

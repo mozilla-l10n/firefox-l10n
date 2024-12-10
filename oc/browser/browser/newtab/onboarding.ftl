@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 mr1-onboarding-theme-header = Adaptatz-lo a vòstre estil
 mr1-onboarding-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
 mr1-onboarding-theme-secondary-button-label = Pas ara
+newtab-wallpaper-onboarding-title = Ensajatz de colors novèlas
+newtab-wallpaper-onboarding-subtitle = Causir una fons d’ecran per donar una aparéncia mai fresca a la pagina Onglets.
 newtab-wallpaper-onboarding-primary-button-label = Definir rèireplan
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tèma sistèma
@@ -187,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Gardar { -brand-short-name } al Dock
        *[other] Penjar { -brand-short-name } a la barra de prètzfaches
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Penjar { -brand-short-name } a la barra de prètzfaches e al menú Aviar
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -337,6 +341,7 @@ onboarding-device-migration-primary-button-label = Se connectar
 
 ## Add-ons Picker screen
 
+amo-picker-title = Personalizatz { -brand-short-name }
 amo-picker-install-button-label = Apondre a { -brand-short-name }
 amo-picker-install-complete-label = Installat
 amo-picker-collection-link = Percórrer mai de moduls
@@ -350,6 +355,7 @@ onboarding-mobile-download-security-and-privacy-title = Demoratz en lòc segur a
 onboarding-mobile-download-security-and-privacy-subtitle = Quand la sincronizacion es activada, { -brand-short-name } chifra vòstres senhals, vòstres marcapaginas e encara mai. Amai podètz recuperar vòstres onglets de vòstres autres aparelhs.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es totjorn aquí per vos
+onboarding-sign-up-button = Crear un compte o se connectar
 onboarding-sign-up-secondary-button = Començar de navegar
 
 ## New user time and familiarity survey strings
@@ -359,6 +365,12 @@ onboarding-new-user-survey-next-button-label = Seguent
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Onglets sul costat
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Onglets ennaut
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Los onglets verticals son ja aquí
 
 ## New user onboarding checklist
 
