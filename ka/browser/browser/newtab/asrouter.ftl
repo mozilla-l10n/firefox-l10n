@@ -335,3 +335,5 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
+multi-cta-fox-doodle-main-browser-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
+multi-cta-fox-doodle-quick-reminder-subtitle = აქვე შეხსენება, რომ თქვენი საყვარელი პირადულობის უზრუნველმყოფი ბრაუზერი შეგიძლიათ იქონიოთ თითის ერთ გაწვდენაზე.
