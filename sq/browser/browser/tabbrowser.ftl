@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Të mbyllen { $tabCount } skeda?
 tabbrowser-confirm-close-tabs-button = Mbylli skedat
+tabbrowser-ask-close-tabs-checkbox = Pyet, para se të mbyllen disa skeda njëherësh
 tabbrowser-confirm-close-tabs-checkbox = Ripohojeni, përpara se të mbyllen disa skeda njëherësh
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -103,6 +104,11 @@ tabbrowser-confirm-close-tabs-with-key-button = Dil nga { -brand-short-name }-i
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Ripohojeni, para se dilet me { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-tab-only-button = Mbylle skedën e tanishme
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,3 +189,31 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anuloje
     .accesskey = A
+tab-context-unnamed-group =
+    .label = Grup i paemër
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-new-tab =
+    .label = Skedë e re në grup
+tab-group-editor-action-save =
+    .label = Ruaje dhe mbylle grupin
+tab-group-editor-action-ungroup =
+    .label = Hiqua grupimin skedave
+tab-group-editor-action-delete =
+    .label = Fshije grupin
+tab-group-editor-done =
+    .label = U bë
+    .accessKey = b
+tab-context-reopen-tab-group =
+    .label = Rihape grupin e skedave
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Hiqe prej Grupi
+           *[other] Remove from Groups
+        }
+    .accesskey = H

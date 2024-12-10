@@ -41,10 +41,10 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Disa zgjerime nuk lejohen
 unified-extensions-mb-quarantined-domain-message = Për të mbrojtur të dhënat tuaja, në këtë sajt lejohen vetëm disa zgjerime nën mbikëqyrjen e { -vendor-short-name }.
-unified-extensions-mb-quarantined-domain-message-2 = Që të mbrohen të dhënat tuaja, disa zgjerime s’mund të lexojnë, apo ndryshojnë të dhëna në këtë sajt. Për ta lejuar në sajte me kufizime nga { -vendor-short-name }, përdorni rregullimet e zgjerimit.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Disa zgjerime nuk lejohen
     .message = Që të mbrohen të dhënat tuaja, disa zgjerime s’mund të lexojnë, apo ndryshojnë të dhëna në këtë sajt. Për ta lejuar në sajte me kufizime nga { -vendor-short-name }, përdorni rregullimet e zgjerimit.
 unified-extensions-mb-quarantined-domain-learn-more = Mësoni më tepër
     .aria-label = Mësoni më tepër: Disa zgjerime nuk lejohen
+unified-extensions-mb-about-addons-link = Kalo te rregullime zgjerimi

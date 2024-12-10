@@ -975,9 +975,6 @@ content-analysis-panel-title = Mbrojtje të dhënash
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Enti juaj përdor <b>{ $agentName }</b> për mbrojtje kundër humbjesh të dhënash. <a data-l10n-name="info">Mësoni më tepër</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Enti juaj përdor { $agentName } për mbrojtje kundër humbjesh të dhënash. <a data-l10n-name="info">Mësoni më tepër</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1000,6 +997,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Zgjerime
         Disa zgjerime nuk lejohen
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Zgjerime
+    .tooltiptext =
+        Zgjerime
+        Disa zgjerime janë aktivizuar
 
 ## Private browsing reset button
 

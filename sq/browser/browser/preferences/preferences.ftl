@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni
+do-not-track-removal = S’e mbulojmë më sinjalin “Mos Më Gjurmoni”
 do-not-track-description2 =
     .label = Dërgoju sajteve një kërkesë “Mos Më Gjurmoni”
     .accesskey = D
@@ -569,8 +570,7 @@ home-prefs-shortcuts-description = Sajte që ruani ose vizitoni
 home-prefs-shortcuts-by-option-sponsored =
     .label = Shkurtore të sponsorizuara
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
