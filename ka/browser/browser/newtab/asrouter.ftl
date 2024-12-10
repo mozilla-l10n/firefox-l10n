@@ -311,6 +311,27 @@ fxa-menu-message-close-button =
     .title = დახურვა
     .aria-label = დახურვა
 fxa-menu-message-sign-up-button = ანგარიშის შექმნა
+fxa-menu-message-sync-devices-primary-text = დასინქრონება ყველა მოწყობილობაზე
+fxa-menu-message-sync-devices-secondary-text = დაუყოვნებლივ მიიღეთ თქვენს მონაცემებთან წვდომა – მათ შორის სანიშნებსა და პაროლებთან ყველგან, სადაც გიყენიათ { -brand-short-name }
+fxa-menu-message-sync-devices-collapsed-text = დასინქრონება ყველა მოწყობილობაზე
+fxa-menu-message-backup-data-primary-text = ბრაუზერის მონაცემების დამარქაფება
+fxa-menu-message-backup-data-secondary-text = სანიშნების, პაროლებისა და სხვა მონაცემების თავისთავადი დაცვა ყველა თქვენს მოწყობილობაზე.
+fxa-menu-message-backup-data-collapsed-text = მონაცემების დასინქრონება
+fxa-menu-message-backup-sync-primary-text = გქონდეთ მონაცემები დაცული და დასინქრონებული
+fxa-menu-message-backup-sync-secondary-text = სინქრონიზაცია თქვენი მონაცემების უმეტესობას ამარქაფებს, ასე რომ შეგიძლიათ მათთან წვდომა ყველგან, სადაც { -brand-short-name } გიყენიათ.
+fxa-menu-message-backup-sync-collapsed-text = დასინქრონება და დამარქაფება
+fxa-menu-message-mobile-primary-text = გაგზავნეთ ჩანართები თქვენს ტელეფონზე
+fxa-menu-message-mobile-secondary-text = განაგრძეთ იქიდან, სადაც გაჩერდით, ჩანართების მობილურ მოწყობილობასთან სინქრონიზაციით.
+fxa-menu-message-mobile-collapsed-text = დაასინქრონეთ ტელეფონთან
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = კეთილი იყოს თქვენი დაბრუნება
+multi-cta-fox-doodle-set-default-checkbox = აქციეთ { -brand-short-name } ნაგულისხმევად
+multi-cta-fox-doodle-pin-startmenu-checkbox = მიამაგრეთ { -brand-short-name } საწყის მენიუში
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] დარჩეს { -brand-short-name } Dock-ზოლზე
+       *[other] მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
