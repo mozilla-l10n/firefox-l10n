@@ -214,7 +214,9 @@ mr2022-onboarding-set-default-subtitle = ہک غیر منافع بخش دا حم
 mr2022-onboarding-get-started-primary-subtitle = اساݙا نواں نکور ورژن تہاݙے چودھار بݨایا ڳیا ہے، جیندے نال ویب تے زپ کرݨ پہلے کنوں کتھائیں زیادہ آسان ہے۔ ایہ انہاں خصوصییتاں نال بھری ہوئی ہے جیڑھیاں اساکوں لڳدے جو تساں پسند کریسو۔
 mr2022-onboarding-get-started-primary-button-label = سیکنڈاں  وِچ سیٹ اپ کرو
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = بجلی وانگوں تکھا سیٹ اپ
 mr2022-onboarding-import-subtitle = ترتیب ݙیو { -brand-short-name } جیویں تساں اینکوں پسند کریندے او۔ اپݨے پراݨے براؤزر کنوں اپݨیاں نشانیاں، پاس ورڈ تے ودھیک شامل کرو۔
@@ -344,6 +346,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = جہڑیلے تُسا
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } تُہاݙی کن٘ڈ تے ہِے
 onboarding-gratitude-security-and-privacy-subtitle = موزیلا فاؤنڈیشن دے تعاون نال { -brand-short-name }ورتݨ کِیتے تھورا۔ تُہاݙے تعاون نال، اَساں انٹرنیٹ کوں ساریاں کِیتے محفوظ اَتے وَدھ قابلِ رسائی بݨاوݨ کِیتے کَݨ کرین٘دے پئے ہِسے۔
+onboarding-sign-up-button = سائن اپ یا سائن ان
 onboarding-sign-up-secondary-button = براؤزنگ شروع کرو
 
 ## New user time and familiarity survey strings

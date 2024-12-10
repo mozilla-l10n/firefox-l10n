@@ -109,3 +109,12 @@ networkProtocolError-title = نیٹ ورک پروٹوکول غلطی
 nssBadCert-title = چتاوݨی: اڳوں ممکنہ سیکیورٹی دا بھئو تھی سڳدا ہے۔
 nssBadCert-sts-title = رابطہ قائم نئیں تھیا: امکانی حفاظتی مسئلہ
 certerror-mitm-title = سافٹ ویئر { -brand-short-name } کوں سائٹ  نال ڳنْڈھیجݨ کنوں محفوظ طریقے نال روکیندا پیا ہے
+
+## Felt Privacy V1 Strings
+
+fp-certerror-advanced-title = ودھایا
+fp-certerror-advanced-button = ودھایا
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

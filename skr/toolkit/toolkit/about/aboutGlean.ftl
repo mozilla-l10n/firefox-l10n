@@ -16,6 +16,7 @@ about-glean-interface-description =
     ہک ڈیٹا مجموعہ لائبریری ہے جہڑی { -vendor-short-name } منصوبیاں وچ ورتیندی ہے۔
     ایہ انٹرفیس ڈیوپلپراں تے ٹیسٹراں کیتے دستی
     <a data-l10n-name="fog-link"> ٹیسٹ دے آلاتی عمل</a> کیتے ڈیزائن کیتا ڳئے۔
+about-glean-category-about-data = ڈیٹا بارے
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
