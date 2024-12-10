@@ -153,6 +153,17 @@ webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ { 
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = ნებას რთავთ ადგილობრივ ფაილს, მოუსმინოს ჩანართს?
+webrtc-allow-share-camera-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს კამერა?
+webrtc-allow-share-microphone-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს მიკროფონი?
+webrtc-allow-share-screen-with-file = ნებას რთავთ ადგილობრივ ფაილს, იხილოს თქვენი ეკრანი?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს ხმამაღალმოლაპარაკე?
+webrtc-allow-share-camera-and-microphone-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს კამერა და მიკროფონი?
+webrtc-allow-share-camera-and-audio-capture-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს კამერა და მოუსმინოს ამ ჩანართს?
+webrtc-allow-share-screen-and-microphone-with-file = ნებას რთავთ ადგილობრივ ფაილს, გამოიყენოს მიკროფონი და იხილოს თქვენი ეკრანი?
+webrtc-allow-share-screen-and-audio-capture-with-file = ნებას რთავთ ადგილობრივ ფაილს, მოუსმინოს ამ ჩანართს და იხილოს თქვენი ეკრანი?
 
 ## Variables:
 ##   $origin (String): the first party origin.
