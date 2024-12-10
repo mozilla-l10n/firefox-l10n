@@ -223,7 +223,9 @@ mr2022-onboarding-set-default-subtitle = Utilize um navegador apoiado por uma or
 mr2022-onboarding-get-started-primary-subtitle = A nossa versão mais recente foi desenvolvida para si, tornando mais fácil do que nunca a navegação na Web. Ela está repleta de funcionalidades que achamos que vai adorar.
 mr2022-onboarding-get-started-primary-button-label = Configurar em segundos
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuração ultra-rápida
 mr2022-onboarding-import-subtitle = Configure o { -brand-short-name } como preferir. Adicione os seus marcadores, palavras-passe e muito mais, do seu navegador antigo.
@@ -354,6 +356,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Quando está sincroni
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protege-o
 onboarding-gratitude-security-and-privacy-subtitle = Obrigado por utilizar o { -brand-short-name }, apoiado pela Mozilla Foundation. Com o seu apoio, nós estamos a trabalhar para tornar a Internet segura e mais acessível para todos.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronize os seus dados entre dispositivos
+onboarding-sign-up-description = Registe uma conta e todas as suas informações importantes (palavras-passe, marcadores e muito mais) serão armazenadas em segurança e disponíveis quando iniciar sessão em qualquer dispositivo.
+onboarding-sign-up-button = Criar conta ou iniciar sessão
+onboarding-sign-up-secondary-button = Começar a navegar
 
 ## New user time and familiarity survey strings
 
@@ -413,3 +420,7 @@ onboarding-genai-sidebar-title = Experimente um chatbot de IA na barra lateral
 onboarding-genai-sidebar-subtitle = Resuma conteúdos na Internet, prototipe ideias, faça rascunhos de mensagens — tudo enquanto navega. Escolha a partir de múltiplos fornecedores. Mude a qualquer altura. <a data-l10n-name="learn-more">Saber mais</a>
 onboarding-genai-sidebar-primary-button = Escolha um chatbot
 onboarding-genai-sidebar-secondary-button = Começar a navegar
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Concluir a configuração do { -brand-short-name }

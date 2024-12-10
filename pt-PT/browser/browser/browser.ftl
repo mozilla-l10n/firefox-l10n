@@ -978,9 +978,6 @@ content-analysis-panel-title = Proteção de dados
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = A sua organização utiliza <b>{ $agentName }</b> para se proteger contra a perda de dados. <a data-l10n-name="info">Saber mais</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = A sua organização utiliza { $agentName } para se proteger contra a perda de dados. <a data-l10n-name="info">Saber mais</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1005,6 +1002,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Extensões
         Algumas extensões não são permitidas
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Extensões
+    .tooltiptext =
+        Extensões
+        Algumas extensões estão desativadas
 
 ## Private browsing reset button
 

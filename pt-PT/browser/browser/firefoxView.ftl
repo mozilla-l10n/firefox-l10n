@@ -170,6 +170,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Pesquisar separadores fechados recentemente
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Pesquisar separadores
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Pesquisar nos separadores sincronizados
 # Placeholder for the input field to search in open tabs ("search" is a verb).
