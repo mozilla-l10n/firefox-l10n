@@ -209,6 +209,8 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = გადაწყვეტილების დამახსოვრება
 webrtc-remember-allow-checkbox-camera = დამახსოვრება ყველა კამერისთვის
+webrtc-remember-allow-checkbox-microphone = დამახსოვრება ყველა მიკროფონისთვის
+webrtc-remember-allow-checkbox-camera-and-microphone = დამახსოვრება ყველა კამერისა და მიკროფონისთვის
 webrtc-mute-notifications-checkbox = საიტის შეტყობინებების დადუმება გაზიარებისას
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას, თქვენს ეკრანთან.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას თქვენი ჩანართის ხმასთან, იმის უკითხავად, თუ რომელ ჩანართს აზიარებთ.
