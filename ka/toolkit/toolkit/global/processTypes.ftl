@@ -43,7 +43,13 @@ process-type-rdd = RDD
 process-type-inference = გამოტანა
 # process used to run some IPC actor in their own sandbox
 process-type-utility = გამიჯნული IPC Actor
-process-type-utility-actor-audio-decoder-generic = ზოგადი გამოყენების ხმოვანი გამშიფრავი
+process-type-utility-actor-audio-decoder-generic = საერთო გამოყენების ხმოვანი გამშიფრავი
+process-type-utility-actor-audio-decoder-applemedia = დამხმარე AppleMedia
+process-type-utility-actor-audio-decoder-wmf = დამხმარე Windows Media Foundation
+process-type-utility-actor-mf-media-engine = დამხმარე Media Foundation Engine
+process-type-utility-actor-js-oracle = დამხმარე JavaScript Oracle
+process-type-utility-actor-windows-utils = დამხმარე Windows-საშუალებები
+process-type-utility-actor-windows-file-dialog = დამხმარე Windows-ის ფაილთა მმართველი
 
 ##
 ## Other
