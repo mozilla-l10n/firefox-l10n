@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Abrir o menu para { $extensionName }
 unified-extensions-item-message-manage = Gerir extensão
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } viola as políticas da Mozilla. A sua utilização pode ser arriscada.
 
 ## Extension's context menu
 
@@ -41,10 +44,42 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Algumas extensões não são permitidas
 unified-extensions-mb-quarantined-domain-message = Apenas são permitidas algumas extensões neste site, monitorizadas por { -vendor-short-name } para proteger os seus dados.
-unified-extensions-mb-quarantined-domain-message-2 = Para proteger os seus dados, algumas extensões não podem ler ou alterar os dados neste site. Utilize as definições da extensão para a permitir nos sites restritos por { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algumas extensões não são permitidas
     .message = Para proteger os seus dados, algumas extensões não podem ler ou alterar os dados neste site. Utilize as definições da extensão para a permitir nos sites restritos por { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Saber mais
     .aria-label = Saber mais: algumas extensões não são permitidas
+unified-extensions-mb-about-addons-link = Ir para as definições da extensão
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = Extensão { $extensionName } desativada
+    .message =
+        Esta extensão viola as políticas da Mozilla e foi desativada.
+        Pode ativar a mesma nas definições, mas pode ser arriscado.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = Extensão { $extensionName } desativada
+    .message = Esta extensão viola as políticas da Mozilla e foi desativada.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensão desativada
+           *[other] { $extensionsCount } extensões desativadas
+        }
+    .message =
+        Algumas das suas extensões foram desativadas por violarem as políticas da Mozilla.
+        Pode ativar as mesmas nas definições mas isto pode ser arriscado.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensão desativada
+           *[other] { $extensionsCount } extensões desativadas
+        }
+    .message = Algumas das suas extensões foram desativadas por violarem as políticas da Mozilla.

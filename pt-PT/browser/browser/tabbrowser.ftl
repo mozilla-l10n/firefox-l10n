@@ -235,3 +235,12 @@ tab-group-editor-done =
     .accessKey = d
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de separadores
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Remover do grupo
+           *[other] Remove from Groups
+        }
+    .accesskey = R
