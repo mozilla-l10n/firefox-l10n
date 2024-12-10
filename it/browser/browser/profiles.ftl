@@ -44,6 +44,7 @@ new-profile-page-input-placeholder =
     .placeholder = Scegli un nome come “Lavoro” o “Personale”
 new-profile-page-done-button =
     .label = Modifica completata
+profile-window-title-2 = { -brand-short-name } - Scelta del profilo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
