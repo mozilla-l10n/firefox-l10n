@@ -218,7 +218,7 @@ about-debugging-tmp-extension-terminate-bgscript-button = Прекратяван
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Изберете файл manifest.json или архив на .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = Това WebExtension има временен идентификатор. <a>Научете повече</a>
+about-debugging-tmp-extension-temporary-id = Това разширение има временен идентификатор. <a>Научете повече</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
