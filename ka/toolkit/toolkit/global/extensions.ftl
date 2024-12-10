@@ -81,7 +81,7 @@ webext-perms-host-description-one-domain = თქვენს მონაცე
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { $domainCount ->
-       *[other] თქვენს მონაცემებთან წვდომა საიტებზე დაბოლოებით { $domain }
+       *[other] თქვენს მონაცემებთან წვდომა საიტებზე დაბოლოებით { $domainCount }
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
