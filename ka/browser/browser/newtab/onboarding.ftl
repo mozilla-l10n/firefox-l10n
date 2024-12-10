@@ -405,7 +405,10 @@ onboarding-existing-vertical-tabs-label = მოსინჯეთ შვეუ�
 onboarding-flair-text = სიახლე!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = დარჩეს ჩანართები თარაზულად
+onboarding-genai-sidebar-primary-button = აირჩიეთ თანამოსაუბრე
+onboarding-genai-sidebar-secondary-button = დაიწყეთ გვერდების მონახულება
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = დაასრულეთ გამართვა და გამოიყენეთ { -brand-short-name }
 onboarding-checklist-extension = გაფართოების დამატება
