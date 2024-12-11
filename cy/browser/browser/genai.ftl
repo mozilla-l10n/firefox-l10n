@@ -119,15 +119,15 @@ genai-options-about-chatbot =
 
 genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Rhagor</a>
 genai-onboarding-primary = Parhau
 genai-onboarding-secondary = Cau
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Dysgu rhagor am Claude
+genai-onboarding-claude-learn = Rhagor am Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Dysgu rhagor am ChatGPT
+genai-onboarding-chatgpt-learn = Rhagor am ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
 genai-onboarding-copilot-learn = Dysgu rhagor am Copilot

@@ -996,7 +996,7 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Diogelu data
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text-styled = Mae eich sefydliad yn defnyddio <b>{ $agentName }</b> i ddiogelu rhag colli data. <a data-l10n-name="info">Dysgu rhagor</a>
+content-analysis-panel-text-styled = Mae eich sefydliad yn defnyddio <b>{ $agentName }</b> i ddiogelu rhag colli data. <a data-l10n-name="info">Rhagor</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1069,7 +1069,7 @@ firefox-relay-offer-legal-notice = Drwy glicio “Defnyddio arallenw e-bost”, 
 
 popup-notification-addon-install-unsigned =
     .value = (Heb eu gwirio)
-popup-notification-xpinstall-prompt-learn-more = Dysgwch ragor am osod ategion yn ddiogel
+popup-notification-xpinstall-prompt-learn-more = Rhagor am osod ategion yn ddiogel
 popup-notification-xpinstall-prompt-block-url = Gweld manylion
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
