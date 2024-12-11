@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Protege tu adresse email:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usa le masca email de { -relay-brand-name }
 firefox-relay-use-mask-title = Usa le masca email de { -relay-brand-name }
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Cela tu ver adresse email
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Usa masca email
     .accesskey = U
@@ -33,3 +35,18 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Non ora
     .accesskey = n
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Inscriber se
+    .accesskey = I
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Inscriber se
+    .accesskey = I
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
