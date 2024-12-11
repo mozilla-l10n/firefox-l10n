@@ -60,6 +60,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Prašejće so { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = KI chatbot waš dospołny wuběr njedóstanje
+    .message =
+        { $selectionLength ->
+            [one] Sće na { $selectionLength } znamješko wubrał. Ličba znamješkow, kotrež móžemy KI chatbot słać, je wokoło { $maxLength }.
+            [two] Sće na { $selectionLength } znamješce wubrał. Ličba znamješkow, kotrež móžemy KI chatbot słać, je wokoło { $maxLength }.
+            [few] Sće na { $selectionLength } znamješka wubrał. Ličba znamješkow, kotrež móžemy KI chatbot słać, je wokoło { $maxLength }.
+           *[other] Sće na { $selectionLength } znamješkow wubrał. Ličba znamješkow, kotrež móžemy KI chatbot słać, je wokoło { $maxLength }.
+        }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected

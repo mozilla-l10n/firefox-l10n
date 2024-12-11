@@ -41,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nic nětko
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Pola { -brand-product-name } přizjewić a masku wužiwać
+    .accesskey = P
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Hižo so njepokazać
     .accesskey = H
@@ -51,6 +54,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Spamej z darmotnej e-mejlowej masku zadźěwać
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Registrujće so najprjedy abo přizjewće so pola swojeho konta, zo byšće e-mejlowu masku wužiwał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrować
     .accesskey = R
@@ -58,6 +62,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Wobstarajće sej darmotnu e-mejlowu masku
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrujće so najprjedy abo přizjewće so pola swojeho konta, zo byšće e-mejlowu masku wužiwał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrować
     .accesskey = R
@@ -65,6 +70,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Škitajće so z e-mejlowej masku před spamom
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrujće so najprjedy abo přizjewće so pola swojeho konta, zo byšće e-mejlowu masku wužiwał
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Hdyž na e-mejlowu masku wutworjeće, zwoliće do <label data-l10n-name="tos-url">>wužiwanskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">zdźělenki priwatnosće</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dale
