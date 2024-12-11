@@ -28,6 +28,10 @@ firefox-relay-use-mask-title = שימוש במסיכת דוא״ל של { -relay-
 firefox-relay-opt-in-title-a = למנוע דואר זבל בעזרת מסיכת דוא״ל חינמית
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = הסתרת כתובת הדוא״ל האמיתית שלך
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = קבלת מסיכת דוא״ל חינמית
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = הגנה על תיבת הדואר שלך מפני דואר זבל
 firefox-relay-opt-in-confirmation-enable-button =
     .label = שימוש במסיכת דוא״ל
     .accesskey = ש
@@ -37,12 +41,29 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = לא כעת
     .accesskey = כ
+firefox-relay-offer-what-fxa-and-relay-provides = החשבון מעניק לך גישה לעוד מוצרים המגנים על הפרטיות. כל הודעות הדוא״ל הנשלחות למסיכות הדוא״ל שלך יועברו לכתובת הדוא״ל האמיתית שלך (אלא אם תבחר לחסום אותם).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = כניסה אל { -brand-product-name } ושימוש במסיכה
+    .accesskey = כ
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = לא להציג הודעה זו שוב
+    .accesskey = ל
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = לא כעת
+    .accesskey = א
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = למנוע דואר זבל בעזרת מסיכת דוא״ל חינמית
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = ניתן למנוע קבלת דואר זבל על־ידי הסתרת כתובת הדוא״ל האמיתית שלך בעזרת <label data-l10n-name="firefox-relay-learn-more-url">מסיכת דוא״ל</label> חינמית. הודעות דוא״ל שיתקבלו <label data-l10n-name="firefox-fxa-and-relay-offer-domain">מאתר זה</label> עדיין יגיעו לדואר הנכנס שלך, אך כתובת הדוא״ל שלך תהיה מוסתרת.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = תחילה, יש להירשם או להתחבר לחשבון שלך כדי להשתמש במסיכת דוא״ל
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = הרשמה
+    .accesskey = ה
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = קבלת מסיכת דוא״ל חינמית
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
