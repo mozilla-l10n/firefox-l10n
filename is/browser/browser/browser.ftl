@@ -653,6 +653,9 @@ urlbar-result-action-search-bookmarks = Leita í bókamerkjum
 urlbar-result-action-search-history = Leita í vafurferli
 urlbar-result-action-search-tabs = Leita í flipum
 urlbar-result-action-search-actions = Leitaraðgerðir
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Opna { $group }
 
 ## Labels shown above groups of urlbar results
 
