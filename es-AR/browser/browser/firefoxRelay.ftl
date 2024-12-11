@@ -66,6 +66,16 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Consiga una máscara de correo electrónico gratuita
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Proteja su bandeja de entrada del spam usando una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuita para ocultar su dirección real. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> llegarán a su bandeja de entrada, pero con la dirección de correo oculta.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primero, regístrese o inicie sesión en su cuenta para usar una máscara de correo electrónico
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrarse
+    .accesskey = s
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protéjase del spam con una máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protéjase del spam ocultando su dirección de correo electrónico real con una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label>. Seguirá recibiendo los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> en su bandeja de entrada normal, pero con la dirección enmascarada.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primero, regístrese o inicie sesión en su cuenta para usar una máscara de correo electrónico
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Al crear una máscara de corre”, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y la <label data-l10n-name="privacy-url">Nota de privacidad</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Siguiente
+    .accesskey = n
