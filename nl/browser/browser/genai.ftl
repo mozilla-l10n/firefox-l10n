@@ -60,6 +60,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } vragen…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatbot krijgt niet uw volledige selectie
+    .message =
+        { $selectionLength ->
+           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd.. Het aantal tekens dat we naar de AI chatbot kunnen sturen is ongeveer { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ontvangt niet uw volledige selectie
+    .message =
+        { $selectionLength ->
+           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd. Het aantal tekens dat we naar { $provider } kunnen sturen is ongeveer { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Chatbot-snelkoppeling verbergen
 
@@ -135,6 +152,5 @@ genai-onboarding-gemini-price = Gratis en betaalde opties; account vereist
 genai-onboarding-huggingchat-generate = Tekst en code genereren
 genai-onboarding-huggingchat-switch = Schakelen tussen een diverse set open modellen
 genai-onboarding-huggingchat-price-2 = Gratis; account vereist na een bepaald aantal aanvragen
-genai-onboarding-huggingchat-price = Gratis; account vereist voor sommige taken
 genai-onboarding-lechat-generate = Tekst en code genereren
 genai-onboarding-lechat-price = Gratis; account vereist
