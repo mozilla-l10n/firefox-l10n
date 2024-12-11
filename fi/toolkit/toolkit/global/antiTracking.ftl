@@ -12,3 +12,9 @@ btp-warning-tracker-classified =
         [one] "{ $siteHost }" on luokiteltu hyppyseuraimeksi. Jos se ei vastaanota käyttäjän aktivointia seuraavan { $gracePeriodSeconds } sekunnin kuluessa, sen tila tyhjennetään.
        *[other] "{ $siteHost }" on luokiteltu hyppyseuraimeksi. Jos se ei vastaanota käyttäjän aktivointia seuraavan { $gracePeriodSeconds } sekunnin kuluessa, sen tila tyhjennetään.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = Sivuston "{ $siteHost }" tila tyhjennettiin äskettäin, koska sen havaittiin olevan hyppyseurain.

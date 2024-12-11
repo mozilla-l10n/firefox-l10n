@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Käytä { -relay-brand-name } -sähköpostimaskia
 firefox-relay-use-mask-title = Käytä { -relay-brand-name } -sähköpostimaskia
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Estä roskaposti ilmaisella sähköpostimaskilla
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Piilota todellinen sähköpostiosoitteesi
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Hanki ilmainen sähköpostimaski
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Suojaa postilaatikkosi roskapostilta
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Käytä sähköpostimaskia
     .accesskey = U
@@ -33,3 +41,28 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ei nyt
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Älä näytä uudestaan
+    .accesskey = d
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ei nyt
+    .accesskey = n
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Rekisteröidy
+    .accesskey = s
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Hanki ilmainen sähköpostimaski
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Rekisteröidy
+    .accesskey = s
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Seuraava
+    .accesskey = e
