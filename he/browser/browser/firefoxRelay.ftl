@@ -24,6 +24,10 @@ firefox-relay-opt-in-title-1 = הגנה על כתובת הדוא״ל שלך:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = שימוש במסיכת דוא״ל של { -relay-brand-name }
 firefox-relay-use-mask-title = שימוש במסיכת דוא״ל של { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = למנוע דואר זבל בעזרת מסיכת דוא״ל חינמית
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = הסתרת כתובת הדוא״ל האמיתית שלך
 firefox-relay-opt-in-confirmation-enable-button =
     .label = שימוש במסיכת דוא״ל
     .accesskey = ש
@@ -33,3 +37,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = לא כעת
     .accesskey = כ
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
