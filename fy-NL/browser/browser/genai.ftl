@@ -60,6 +60,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } freegje…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatbot krijt net jo folsleine seleksje
+    .message =
+        { $selectionLength ->
+           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd.. Het aantal tekens dat we naar de AI chatbot kunnen sturen is ongeveer { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ûntfangt net jo folsleine seleksje
+    .message =
+        { $selectionLength ->
+           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd. Het aantal tekens dat we naar { $provider } kunnen sturen is ongeveer { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Chatbot-fluchkeppeling ferstopje
 
@@ -135,6 +152,5 @@ genai-onboarding-gemini-price = Fergeze en betelle opsjes; account nedich
 genai-onboarding-huggingchat-generate = Tekst en koade generearje
 genai-onboarding-huggingchat-switch = Skeakelje tusken in ferskaat oan iepen modellen
 genai-onboarding-huggingchat-price-2 = Fergees; account nedich nei in bepaald oantal oanfragen
-genai-onboarding-huggingchat-price = Fergees; account nedich foar guon taken
 genai-onboarding-lechat-generate = Tekst en koade generearje
 genai-onboarding-lechat-price = Fergees; account nedich
