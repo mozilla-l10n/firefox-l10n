@@ -30,4 +30,6 @@ webext-perms-description-sessions = Të hyjë te skeda të mbyllura së fundi
 webext-perms-description-tabs = Të hyjë në skeda shfletuesi
 webext-perms-description-tabHide = Fshihni dhe shfaqni skeda shfletuesi
 webext-perms-description-topSites = Të hyjë në historik shfletimesh
+webext-perms-description-trialML = Shkarkoni dhe xhironi modele IA në pajisjen tuaj
+webext-perms-description-userScripts = Lejo programthe të paverifikuar palësh të treta të hyjnë në të dhënat tuaja
 webext-perms-description-webNavigation = Të hyjë në veprimtarinë e shfletuesit gjatë lëvizjeve

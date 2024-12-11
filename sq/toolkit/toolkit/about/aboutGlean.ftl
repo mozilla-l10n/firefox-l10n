@@ -120,6 +120,9 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     Që të shfletoni listën e të dhënave të grumbulluara nga { -glean-brand-name } për aplikacion, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Që të shfletoni të dhënat që po grumbullohen nga telemetria e dikurshme, ju lutemi, shihni
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
