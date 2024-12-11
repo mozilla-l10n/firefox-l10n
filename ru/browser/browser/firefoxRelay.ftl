@@ -75,7 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Избавьтесь от спама с помощью псевдонима электронной почты
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Избавьтесь от спама, скрыв свой настоящий адрес за <label data-l10n-name="firefox-relay-learn-more-url">псевдонимом электронной почты</label>. Вы по-прежнему будете получать письма с <label data-l10n-name="firefox-fxa-and-relay-offer-domain">этого сайта</label> в ваш обычный почтовый ящик, с замаскированным вашим адресом.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Сначала зарегистрируйтесь или войдите в свой аккаунт, чтобы использовать псевдоним электронной почты
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Создавая псевдоним электронной почты, вы соглашаетесь с <label data-l10n-name="tos-url">Условиями использования</label> и <label data-l10n-name="privacy-url">Уведомлением о конфиденциальности</ метка>.
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Создавая псевдоним электронной почты, вы соглашаетесь с <label data-l10n-name="tos-url">Условиями использования</label> и <label data-l10n-name="privacy-url">Уведомлением о конфиденциальности</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Далее
     .accesskey = Т
