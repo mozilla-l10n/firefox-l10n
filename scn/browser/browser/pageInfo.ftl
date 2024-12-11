@@ -99,7 +99,7 @@ security-view-privacy-viewpasswords =
     .label = Talìa chiavi sarbati
     .accesskey = h
 security-view-technical =
-    .value = Dittagghi tècnici
+    .value = Minutagghi tècnici
 help-button =
     .label = Ajutu
 

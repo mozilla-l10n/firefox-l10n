@@ -27,7 +27,7 @@ newtab-search-box-handoff-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = Agghiunci muturi di risciduta
+newtab-topsites-add-search-engine-header = Junci muturi di risciduta
 newtab-topsites-edit-topsites-header = Cancia situ principali
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
@@ -46,7 +46,7 @@ newtab-topsites-cancel-button = Sfai
 newtab-topsites-delete-history-button = Cancella dâ crunuluggìa
 newtab-topsites-save-button = Sarba
 newtab-topsites-preview-button = Antiprima
-newtab-topsites-add-button = Agghiunci
+newtab-topsites-add-button = Junci
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -99,7 +99,7 @@ newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nov
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cancella nzingalibbru
 # Bookmark is a verb here.
-newtab-menu-bookmark = Agghiunci ê nzingalibbra
+newtab-menu-bookmark = Junci ê nzingalibbra
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -138,8 +138,8 @@ newtab-section-menu-collapse-section = Riduci sizziuni
 newtab-section-menu-expand-section = Spanni sizziuni
 newtab-section-menu-manage-section = Manija sizzioni
 newtab-section-menu-manage-webext = Manija stinneriu
-newtab-section-menu-add-topsite = Agghiunci situ principali
-newtab-section-menu-add-search-engine = Agghiunci muturi di risciduta
+newtab-section-menu-add-topsite = Junci situ principali
+newtab-section-menu-add-search-engine = Junci muturi di risciduta
 newtab-section-menu-move-up = Movi supra
 newtab-section-menu-move-down = Movi jusu
 newtab-section-menu-privacy-notice = Abbisu di privatizza

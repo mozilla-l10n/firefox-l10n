@@ -10,7 +10,7 @@ customize-menu-unpin-from-overflowmenu =
     .label = Spuntiḍḍa dû minù a tinnuzza
     .accesskey = S
 customize-menu-add-to-overflowmenu =
-    .label = Agghiunci ô minù a tinnuzza
+    .label = Junci ô minù a tinnuzza
     .accesskey = m
 
 ## Forget Button

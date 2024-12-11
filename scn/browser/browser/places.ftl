@@ -59,7 +59,7 @@ places-export-bookmarks-to-html =
 places-view-sort-col-url =
     .label = Pusizzioni
 places-view-sort-col-date-added =
-    .label = Agghiunciutu
+    .label = Junciutu
 places-cmd-find-key =
     .key = f
 

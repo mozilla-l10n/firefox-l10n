@@ -10,14 +10,14 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Agghiùnciri { $extension }?
-webext-perms-sideload-header = { $extension } agghiunciutu
+webext-perms-header = Jùnciri { $extension }?
+webext-perms-sideload-header = { $extension } junciutu
 webext-perms-optional-perms-header = { $extension } addumanna pirmisi addizziunali.
 
 ##
 
 webext-perms-add =
-    .label = Agghiunci
+    .label = Junci
     .accesskey = A
 webext-perms-cancel =
     .label = Sfai

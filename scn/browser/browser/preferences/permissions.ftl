@@ -91,9 +91,9 @@ permissions-exceptions-saved-logins-desc = I cridinziali pî siti appressu nun v
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
+    .title = Siti pirmisi - Nzitamentu dî juncitini
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari agghiuncitini. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
+permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nzitari i juncitini. Scrivi u nnirizzu pricisu dû situ chi vo' abbilitari e doppu ammacca Pirmetti.
 
 ## Site Permissions - Autoplay
 

@@ -10,7 +10,7 @@
 ##
 
 list-empty-button =
-    .label = Cchiù nfurmazzioni supra a l'agghiuncitini
+    .label = Cchiù nfurmazzioni supra ê juncitini
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =

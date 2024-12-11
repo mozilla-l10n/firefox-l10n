@@ -11,7 +11,7 @@ home = Pàggina mastra
 fullscreen = Tuttu schirmu
 find = Trova
 new-tab = Nova scheda
-add-bookmark = Agghiunci nzingalibbru
+add-bookmark = Junci nzingalibbru
 reader-view = Vista litturi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Riscedi o metti nu nnirizzu

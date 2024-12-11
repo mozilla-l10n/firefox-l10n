@@ -15,7 +15,7 @@ onboarding-start-browsing-button-label = Accumincia a navigari
 
 ## Custom Return To AMO onboarding strings
 
-return-to-amo-add-extension-label = Agghiunci u stinneriu
+return-to-amo-add-extension-label = Junci u stinneriu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -117,4 +117,4 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Nuḍḍu viscottu, nu�
 
 ## New user onboarding checklist
 
-onboarding-checklist-extension = Agghiunci nu stinneriu
+onboarding-checklist-extension = Junci nu stinneriu

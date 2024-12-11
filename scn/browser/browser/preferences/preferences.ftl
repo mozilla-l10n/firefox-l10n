@@ -71,7 +71,7 @@ restart-later = Riabbìa doppu
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = P'abbilitari u stinneriu vai nnî <img data-l10n-name="addons-icon"/> Agghiuncitini nnô minù <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = P'abbilitari u stinneriu vai nnî <img data-l10n-name="addons-icon"/> Juncitini nnô minù <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -441,7 +441,7 @@ search-bar-header = Barra di risciduta
 search-bar-hidden =
     .label = Usa a barra dû nnirizzu pi risciduti e navigazzioni
 search-bar-shown =
-    .label = Agghiunci sbarra di risciduta nnâ sbarra dî strumenti
+    .label = Junci sbarra di risciduta nnâ sbarra dî strumenti
 search-engine-default-header = Muturi di risciduta pridifinutu
 search-engine-default-desc-2 = Chistu è u to muturi di risciduta pridifinutu pâ barra dû nnirizzu e chiḍḍa di risciduta. Po' canciallu quannu voi.
 search-engine-default-private-desc-2 = Scarta n'autru muturi di risciduta sulu pî finestri privati.
@@ -490,7 +490,7 @@ search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu v
 
 containers-header = Schedi cuntinituri
 containers-add-button =
-    .label = Agghiunci un cuntinituri novu
+    .label = Junci un cuntinituri novu
     .accesskey = A
 containers-remove-button =
     .label = Leva
@@ -562,7 +562,7 @@ sync-currently-syncing-tabs = Schedi raputi
 sync-currently-syncing-logins-passwords = Cridinziali e chiavi
 sync-currently-syncing-addresses = Nnirizzi
 sync-currently-syncing-creditcards = Carti di crèditu
-sync-currently-syncing-addons = Agghiuncitini
+sync-currently-syncing-addons = Juncitini
 sync-change-options =
     .label = Cancia…
     .accesskey = C
@@ -599,9 +599,9 @@ sync-engine-creditcards =
     .tooltiptext = Nomu, nùmmari e dati di scadenza (sulu virsiuni scrivanìa)
     .accesskey = C
 sync-engine-addons =
-    .label = Agghiuncitini
+    .label = Juncitini
     .tooltiptext = Stinneri e temi pi Firefox nnâ virsiuni scagnu
-    .accesskey = A
+    .accesskey = J
 
 ## The device name controls.
 
@@ -902,7 +902,7 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Cchiù nfurmazzioni
 collection-studies =
-    .label = Pirmetti a { -brand-short-name } di nstallari e cunnùciri studi
+    .label = Pirmetti a { -brand-short-name } di nzitari e cunnùciri studi
 collection-studies-link = Talìa studi di { -brand-short-name }
 addon-recommendations =
     .label = Pirmetti a { -brand-short-name } di dari cunzigghi pirsunalizzati ncapu ê stinneri

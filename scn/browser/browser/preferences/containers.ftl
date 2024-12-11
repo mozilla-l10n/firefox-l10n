@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Agghiunci un cuntinituri novu
+    .title = Junci un cuntinituri novu
     .style = min-width: 45em
 containers-window-close =
     .key = w
@@ -21,7 +21,7 @@ containers-name-label = Nomu
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Agghiunci nomu pû cuntinituri
+    .placeholder = Junci nomu pû cuntinituri
 containers-icon-label = Cona
     .accesskey = C
     .style = { -containers-labels-style }

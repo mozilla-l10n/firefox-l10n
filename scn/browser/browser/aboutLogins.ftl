@@ -114,7 +114,7 @@ login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni
 login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p'aviri ajutu.
 about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
 about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navigaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
-about-logins-intro-import3 = Ammacca u sìmmulu cchiù p'agghiùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navigaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
+about-logins-intro-import3 = Ammacca u sìmmulu cchiù pi jùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navigaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
 
 ## Login
 

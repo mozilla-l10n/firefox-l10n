@@ -13,13 +13,13 @@
 policy-3rdparty = Mposta i pulìtichi chi WebExtensions po manijari cu chrome.storage.managed.
 policy-AppUpdateURL = Mposta nu nnirizzu pirsunalizzatu pi l'attualizzazziuni di l'app.
 policy-Authentication = Cunfijura l'autenticazziuni ntrigrata pî siti ca a suppòrtanu.
-policy-BlockAboutAddons = Blocca l'accessu ô Gisturi di agghiuncitini (about:addons).
+policy-BlockAboutAddons = Blocca l'accessu ô Manijaturi dî juncitini (about:addons).
 policy-BlockAboutConfig = Blocca l'accessu â pàggina about:config.
 policy-BlockAboutProfiles = Blocca l'accessu â pàggina about:propricus.
 policy-BlockAboutSupport = Blocca l'accessu â pàggina about:support.
 policy-Bookmarks = Cria nzingalibbra nnâ sbarra dî nzingalibbra, nnô minù dî nzingalibbra o nna na carpetta spicìfica dintra a chisti.
 policy-CaptivePortal = Abbìlita o disabbìlita u supportu pû purtali cuntrullatu.
-policy-CertificatesDescription = Agghiunci cirtificati o usa cirtificati ntigrati.
+policy-CertificatesDescription = Junci cirtificati o usa cirtificati ntigrati.
 policy-Cookies = Cunzenti o nija ê siti di mpustari viscotta.
 policy-DefaultDownloadDirectory = Mposta a carpetta di scarricamentu pridifinuta.
 policy-DisableAppUpdate = Mpidisci ô navigaturi di attualizzàrisi.
@@ -40,7 +40,7 @@ policy-DisableProfileRefresh = Disabbìlita u buttuni “Ricàrrica { -brand-sho
 policy-DisableSafeMode = Disabbìlita a pussibbilità di riabbiari 'n Mudalità Sicura. Nota: u tastu Shift pi tràsiri nnâ Mudalità Sicura si po disabbilitari nne Windows sulu usannu i Pulìtichi di gruppu.
 policy-DisableSecurityBypass = Mpidisci all'utenti di trapassari certi abbisi di sicurizza.
 policy-DisableSetAsDesktopBackground = Disabbìlita u cumannu di minù Mposta comu sfunnu dâ Scrivanìa pî mmàggini.
-policy-DisableSystemAddonUpdate = Mpidisci ô navigaturi di nzitari o attualizzari agghiuncitini di sistema.
+policy-DisableSystemAddonUpdate = Ferma ô navigaturi di nzitari o attualizzari juncitini di sistema.
 policy-DisableTelemetry = Astuta a Telimitrìa.
 policy-DisplayBookmarksToolbar = Mustra a sbarra dî nzingalibbra comu mpustazziuni pridifinuta.
 policy-DisplayMenuBar = Mustra a Barra dû minù comu mpustazziuni pridifinuta.
@@ -58,7 +58,7 @@ policy-ExtensionUpdate = Abbìlita o sdisabbìlita l'attualizzu autumàticu dî 
 policy-HardwareAcceleration = Si è fausu, astuta accillirazziuni hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Mposta e si voi blocca a pàggina mastra.
-policy-InstallAddonsPermission = Cunzenti a certi siti di nstallari agghiuncitini.
+policy-InstallAddonsPermission = Pirmetti a certi siti di nzitari juncitini.
 policy-LegacyProfiles = Disabbìlita a funziuni chi forza un prufilu spartutu p'ogni nzitamentu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -86,6 +86,6 @@ policy-SearchEngines = Cunfijura mpustazzioni dû muturi di risciduta. Stu pulì
 policy-SearchSuggestEnabled = Abbìlita o disabbìlita suggirimenti di risciduta.
 policy-SSLVersionMax = Mposta a virsiuni màssima di SSL.
 policy-SSLVersionMin = Mposta a virsiuni mìnima di SSL.
-policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzatu o minù d'ajutu.
+policy-SupportMenu = Jùncici n'uggettu dû minù di supportu pirsunalizzatu ô minù d'ajutu.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Blocca a pussibbilità di visitari siti. Talìa a ducumentazziuni pi sapiri cchiù dittagghi ncapu u furmatu.
+policy-WebsiteFilter = Blocca a pussibbilità di visitari siti. Talìa a ducumintazzioni pi aviri cchiù assai minutagghi ncapu ô furmatu.

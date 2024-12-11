@@ -99,7 +99,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Agghiunci sta pàggina ê nzingalibbra ({ $shortcut })
+    .tooltiptext = Junci sta pàggina ê nzingalibbra ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -393,7 +393,7 @@ bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
             [true] Leva u minù dî nzingalibbra dâ sbarra dî stigghi
-           *[other] Agghiunci u minù dî nzingalibbra â sbarra dî stigghi
+           *[other] Junci u minù dî nzingalibbra â sbarra dî stigghi
         }
 
 ##
