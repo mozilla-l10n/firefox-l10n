@@ -60,6 +60,15 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Demandar a  { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Le robot confabulator IA non obtenera tu plen selection
+    .message =
+        { $selectionLength ->
+            [one] Tu ha seligite re { $selectionLength } characteres.
+           *[other] Le numero de characteres que nos pote inviar al robot confabulator IA es circa { $maxLength }
+        }
 genai-shortcuts-hide =
     .label = Celar via breve pro chatbot
 
@@ -135,6 +144,5 @@ genai-onboarding-gemini-price = Optiones gratuite e pagate; conto obligatori
 genai-onboarding-huggingchat-generate = Generar texto e codice
 genai-onboarding-huggingchat-switch = Passar a un diverse insimul de modellos aperte
 genai-onboarding-huggingchat-price-2 = Gratuite; conto obligatori post un certe numero de requestas
-genai-onboarding-huggingchat-price = Gratuite; conto necessari pro alcun activitates
 genai-onboarding-lechat-generate = Generar texto e codice
 genai-onboarding-lechat-price = Gratuite; conto obligatori
