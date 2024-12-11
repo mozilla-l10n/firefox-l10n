@@ -60,6 +60,29 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pšašajśo se { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = KI chatbot waš dopołny wuběrk njedostanjo
+    .message =
+        { $selectionLength ->
+            [one] Sćo wubrał něźi { $selectionLength } znamuško. Licba znamuškow, kótarež móžomy KI chatbot słaś, jo něźi { $maxLength }.
+            [two] Sćo wubrał něźi { $selectionLength } znamušce. Licba znamuškow, kótarež móžomy KI chatbot słaś, jo něźi { $maxLength }.
+            [few] Sćo wubrał něźi { $selectionLength } znamuška. Licba znamuškow, kótarež móžomy KI chatbot słaś, jo něźi { $maxLength }.
+           *[other] Sćo wubrał něźi { $selectionLength } znamuškow. Licba znamuškow, kótarež móžomy KI chatbot słaś, jo něźi { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } waš dopołny wuběrk njedostanjo
+    .message =
+        { $selectionLength ->
+            [one] Sćo wubrał něźi { $selectionLength } znamuško. Licba znamuškow, kótarež móžomy { $provider } słaś, jo něźi { $maxLength }.
+            [two] Sćo wubrał něźi { $selectionLength } znamušce. Licba znamuškow, kótarež móžomy { $provider } słaś, jo něźi { $maxLength }.
+            [few] Sćo wubrał něźi { $selectionLength } znamuška. Licba znamuškow, kótarež móžomy { $provider } słaś, jo něźi { $maxLength }.
+           *[other] Sćo wubrał něźi { $selectionLength } znamuškow. Licba znamuškow, kótarež móžomy { $provider } słaś, jo něźi { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Tastowu skrotconku chatowego bota schowaś
 
@@ -135,6 +158,5 @@ genai-onboarding-gemini-price = Dermotne a płaśobne móžnosći; konto jo trje
 genai-onboarding-huggingchat-generate = Tekst a kod generěrowaś
 genai-onboarding-huggingchat-switch = Pśešaltujśo mjazy rozdźělneju sajźbu wótwórjonych modelow
 genai-onboarding-huggingchat-price-2 = Dermotny; konto trjebne pó wěstej licbje napšašowanjow
-genai-onboarding-huggingchat-price = Dermotny; konto jo trjebne za někotare nadawki
 genai-onboarding-lechat-generate = Tekst a kod generěrowaś
 genai-onboarding-lechat-price = Dermotny; konto jo trjebne
