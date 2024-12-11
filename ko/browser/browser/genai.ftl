@@ -65,6 +65,12 @@ genai-input-ask-provider =
 genai-shortcuts-selected-warning-generic =
     .heading = AI 챗봇이 사용자가 선택한 항목 전체를 받지는 않음
     .message = 약 { $selectionLength }자를 선택하셨습니다. AI 챗봇에 보낼 수 있는 문자 수는 약 { $maxLength }자입니다.
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } 챗봇은 사용자가 선택한 항목 전체를 받지는 않음
+    .message = 약 { $selectionLength }자를 선택하셨습니다. { $provider } 챗봇에 보낼 수 있는 문자 수는 약 { $maxLength }자입니다.
 genai-shortcuts-hide =
     .label = 챗봇 바로 가기 숨기기
 
