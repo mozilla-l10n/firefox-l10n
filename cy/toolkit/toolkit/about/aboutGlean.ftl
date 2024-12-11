@@ -111,12 +111,25 @@ about-glean-profiler-explanation =
     I weld golwg lawn o'r holl fetrigau a recordiwyd, gallwch ddefnyddio'r { -profiler-brand-name }.
     Yn gyntaf rhaid i chi <a data-l10n-name="firefox-profiler-link">gipio proffil perfformiad</a>.
     Unwaith y byddwch yn dal y proffil, dewiswch <q>Siart Marciwr</q> ac edrychwch ar y marcwyr o dan <q>Telemetreg</q>.
+about-glean-profiler-explanation-profiler =
+    Yn y proffil perfformiad gallwch weld yr holl fetrigau a gasglwyd, pan gawson nhw
+    eu casglu, a pha werthoedd yn union a gasglwyd. Trwy hofran ar farcwyr unigol,
+    gallwch wirio bod y gwerth cywir wedi'i gasglu a bod y casgliad hwnnw wedi digwydd ar yr amser cywir.
 controls-button-label-verbose = Gosod y gosodiadau ac anfon ping
 about-glean-feedback-settings-only =
     .message = Gosodiadau wedi'u gosod!
 about-glean-feedback-settings-and-ping =
     .message = Gosodiadau wedi'u gosod a ping wedi'i anfon!
 about-glean-about-data-header = Ynghylch Data
+about-glean-about-data-description =
+    Mae yna ychydig o offer gwahanol y gallwch eu defnyddio i weld eich data, yn dibynnu ar
+    yr hyn rydych yn chwilio amdano.
+about-glean-about-data-description-list-intro =
+    Cyfeiriwch at y restr isod am ddefnydd penodol
+    ar gyfer yr offer unigol:
+about-glean-about-data-list-item-dictionary =
+    I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
+    <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Dictionary</a>.
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.
