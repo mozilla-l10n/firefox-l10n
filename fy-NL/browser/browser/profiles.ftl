@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Kies in namme lykas ‘Wurk’ of ‘Persoanlik’
 new-profile-page-done-button =
     .label = Bewurkjen foltôge
+profile-window-title-2 = { -brand-short-name } – Profyl kieze
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Blêdwizers
 delete-profile-history = Skiednis (besochte siden, cookies, websitegegevens)
 delete-profile-autofill = Gegevens automatysk ynfolje (adressen, betelmetoaden)
 delete-profile-logins = Wachtwurden
+
+##
+
 # Button label
 delete-profile-cancel = Annulearje
 # Button label

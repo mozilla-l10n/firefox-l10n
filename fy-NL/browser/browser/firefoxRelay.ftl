@@ -30,6 +30,8 @@ firefox-relay-opt-in-title-a = Foarkom spam mei in fergees e-mailmasker
 firefox-relay-opt-in-subtitle-a = Ferbergje jo echte e-mailadres
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Untfang in fergees e-mailmasker
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Beskermje jo Postfek YN tsjin spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = E-mailmasker brûke
     .accesskey = b
@@ -39,12 +41,41 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = No net
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = In account ûntskoattelet tagong ta mear produkten dy’t privacy beskermje. Alle e-mailberjochten dy’t nei jo e-mailmaskers ferstjoerd wurde, wurde trochstjoerd nei jo echte e-mailadres (útsein as jo beslute om se te blokkearjen).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Oanmelde by { -brand-product-name } en masker brûke
+    .accesskey = m
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Dit net mear toane
+    .accesskey = D
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = No net
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Foarkom spam mei in fergees e-mailmasker
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Foarkom spam troch jo echte e-mailadres te ferbergjen mei in fergees <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label>. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registrearje
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Untfang in fergees e-mailmasker
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrearje
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Beskermje tsjin spam mei in e-mailmasker
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Beskermje tsjin spam troch jo echte adres te ferbergjen mei in <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label>. Jo krije noch e-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> yn jo normale Postfek YN, mei jo adres maskearre.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Troch in e-mailmasker oan te meitsjen, geane jo akkoard mei de <label data-l10n-name="tos-url">Tsjinstbetingsten</label> en <label data-l10n-name="privacy-url">Privacyferklearring</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Folgjende
+    .accesskey = F
