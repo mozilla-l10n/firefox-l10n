@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular
 inactive-css-position-property-on-unpositioned-box = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> no tiene efecto en este elemento ya que sólo puede aplicarse a elementos reemplazados.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> no tiene efecto en este elemento porque <strong>overflow:hidden</strong> no está establecido.
+inactive-css-no-size-containment = <strong>{ $property }</strong> no tiene efecto en este elemento porque no tiene límite de tamaño.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla excepto en celdas de la tabla.
 inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es una tabla.
