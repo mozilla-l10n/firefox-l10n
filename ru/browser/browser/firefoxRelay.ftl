@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Защитите свой адрес электр
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Используйте псевдонимы эл. почты { -relay-brand-name }
 firefox-relay-use-mask-title = Используйте псевдонимы эл. почты { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Избавьтесь от спама с помощью бесплатного псевдонима электронной почты
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Скройте свой настоящий адрес электронной почты
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Получите бесплатный псевдоним электронной почты
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Защитите свой почтовый ящик от спама
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Используйте псевдонимы электронной почты
     .accesskey = в
@@ -33,3 +41,35 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Не сейчас
     .accesskey = й
+firefox-relay-offer-what-fxa-and-relay-provides = Аккаунт открывает доступ к большему количеству продуктов для защиты приватности. Все электронные письма, отправленные на ваши псевдонимы электронной почты, будут перенаправлены на ваш реальный адрес электронной почты (если вы не решите их заблокировать).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Войти в { -brand-product-name } и использовать псевдоним
+    .accesskey = Ы
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Не показывать в следующий раз
+    .accesskey = В
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Не сейчас
+    .accesskey = Т
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = Избавьтесь от спама с помощью бесплатного псевдонима электронной почты
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Избавьтесь от спама, скрыв свой настоящий адрес электронной почты с помощью бесплатного <label data-l10n-name="firefox-relay-learn-more-url">псевдонима электронной почты</label>. Письма с <label data-l10n-name="firefox-fxa-and-relay-offer-domain">этого сайта</label> по-прежнему будут приходить на ваш почтовый ящик, но ваш адрес электронной почты будет скрыт.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Сначала зарегистрируйтесь или войдите в свой аккаунт, чтобы использовать псевдоним электронной почты
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Регистрация
+    .accesskey = Ы
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Получите бесплатный псевдоним электронной почты
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Защитите свой почтовый ящик от спама, используя бесплатный <label data-l10n-name="firefox-relay-learn-more-url">псевдоним электронной почты</label>, чтобы скрыть свой настоящий адрес. Письма с <label data-l10n-name="firefox-fxa-and-relay-offer-domain">этого сайта</label> по-прежнему будут приходить в ваш почтовый ящик, но ваш адрес электронной почты будет скрыт.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Сначала зарегистрируйтесь или войдите в свой аккаунт, чтобы использовать псевдоним электронной почты
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Регистрация
+    .accesskey = Ы
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Избавьтесь от спама с помощью псевдонима электронной почты
