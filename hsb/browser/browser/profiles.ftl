@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Wubjerće mjeno kaž „Dźěło“ abo „Wosobinske“
 new-profile-page-done-button =
     .label = Wobdźěłanje dokónčene
+profile-window-title-2 = { -brand-short-name } – Profil wubrać
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Zapołožki
 delete-profile-history = Historija (wopytane strony, placki, sydłowe daty)
 delete-profile-autofill = Daty za awtomatiske wupjelnjenje (adresy, płaćenske metody)
 delete-profile-logins = Hesła
+
+##
+
 # Button label
 delete-profile-cancel = Přetorhnyć
 # Button label
