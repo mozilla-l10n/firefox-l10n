@@ -299,6 +299,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Humbët një përditësim të rëndësishëm për { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Pjesë të shfletuesit do të reshtin së funksionuari së shpejti, nëse s’e përditësoni. Tani është kohë e përshtatshme të merrni mbrojtjet dhe veçoritë tona më të reja.
 root-certificate-windows-background-notification-learn-more-button = Mësoni më tepër
 root-certificate-windows-background-notification-update-button = Përditësoni { -brand-short-name }
 

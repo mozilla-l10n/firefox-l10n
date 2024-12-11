@@ -74,10 +74,14 @@ protections-panel-not-found-label = S'u Pikas Ndonjë
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name }-i bllokon lëndë ndjekjeje, teksa gjendeni në këtë sajt, veç në e lejofshi ju.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Lejoje { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = U bllokuan gjurmues dhe lëndë { $trackername }
+smartblock-placeholder-desc = Rregullimet tuaja për { -brand-short-name } e bllokuan këtë lëndë t’ju ndjekë nëpër sajte, apo që të përdoret për rekklama.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Lejoje në { $websitehost }
 

@@ -103,11 +103,20 @@ tabbrowser-confirm-close-tabs-with-key-title = Të mbyllet dritarja dhe të dile
 tabbrowser-confirm-close-tabs-with-key-button = Dil nga { -brand-short-name }-i
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pyet, para se të dilet me { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Ripohojeni, para se dilet me { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Të mbyllet { -brand-short-name }-i, apo të mbyllet skeda e tanishme?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Dil nga { -brand-short-name }-i
+       *[other] Mbylle { -brand-short-name }-in
+    }
 tabbrowser-confirm-close-tab-only-button = Mbylle skedën e tanishme
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -195,8 +204,24 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Shtoje Skedën te Grup i Ri
+           *[other] Shtoji Skedat te Grup i Ri
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Shtoje Skedën te Grup
+           *[other] Add Tabs to Group
+        }
+    .accesskey = Shtoji Skedat te Grup
 tab-group-editor-action-new-tab =
     .label = Skedë e re në grup
+tab-group-editor-action-new-window =
+    .label = Kaloje grupin në dritare të re
 tab-group-editor-action-save =
     .label = Ruaje dhe mbylle grupin
 tab-group-editor-action-ungroup =

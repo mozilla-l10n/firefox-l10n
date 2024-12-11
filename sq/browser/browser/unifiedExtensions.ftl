@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Hap menunë për { $extensionName }
 unified-extensions-item-message-manage = Administroni zgjerim
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } cenon rregullat e Mozilla-s. Përdorimi i saj mund të jetë me rrezik.
 
 ## Extension's context menu
 
@@ -48,3 +51,15 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Mësoni më tepër
     .aria-label = Mësoni më tepër: Disa zgjerime nuk lejohen
 unified-extensions-mb-about-addons-link = Kalo te rregullime zgjerimi
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } u çaktivizua
+    .message =
+        Ky zgjerim cenon rregulla të Mozilla-s dhe është çaktivizuar.
+        Mund ta aktivizoni te rregullimet, por kjo mund të jetë me rrezik.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } u çaktivizua
+    .message = Ky zgjerim cenon rregulla të Mozilla-s dhe është çaktivizuar.

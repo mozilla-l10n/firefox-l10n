@@ -38,5 +38,6 @@ remove-search-engine-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Të shtohet { $engineName } si një motor kërkimesh?
 install-search-engine-add = Shtoje
 install-search-engine-no = Jo
