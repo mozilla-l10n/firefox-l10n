@@ -24,6 +24,12 @@ firefox-relay-opt-in-title-1 = Beskermje jo e-mailadres:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }-e-mailmasker brûke
 firefox-relay-use-mask-title = { -relay-brand-name }-e-mailmasker brûke
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Foarkom spam mei in fergees e-mailmasker
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Ferbergje jo echte e-mailadres
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Untfang in fergees e-mailmasker
 firefox-relay-opt-in-confirmation-enable-button =
     .label = E-mailmasker brûke
     .accesskey = b
@@ -33,3 +39,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = No net
     .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
