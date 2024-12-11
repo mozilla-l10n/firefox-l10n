@@ -41,12 +41,34 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nicht jetzt
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Nicht mehr anzeigen
+    .accesskey = m
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Nicht jetzt
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Verhindern Sie Spam mit einer kostenlosen E-Mail-Maske
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Verhindern Sie Spam, indem Sie Ihre echte E-Mail-Adresse mit einer kostenlosen <label data-l10n-name="firefox-relay-learn-more-url">E-Mail-Maske</label> verstecken. E-Mails von <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dieser Website</label> kommen weiterhin in Ihren Posteingang, aber mit versteckter E-Mail-Adresse.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Registrieren Sie sich oder melden Sie sich mit Ihrem Konto an, um eine E-Mail-Maske zu verwenden
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registrieren
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Holen Sie sich eine kostenlose E-Mail-Maske
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Schützen Sie Ihren Posteingang vor Spam, indem Sie eine kostenlose <label data-l10n-name="firefox-relay-learn-more-url">E-Mail-Maske</label> verwenden, die Ihre echte Adresse verbirgt. E-Mails von <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dieser Website</label> kommen weiterhin in Ihren Posteingang, aber mit versteckter E-Mail-Adresse.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrieren Sie sich oder melden Sie sich mit Ihrem Konto an, um eine E-Mail-Maske zu verwenden
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrieren
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Schützen Sie sich mit einer E-Mail-Maske vor Spam
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Weiter
+    .accesskey = W
