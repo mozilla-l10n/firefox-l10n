@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Menü für { $extensionName } öffnen
 unified-extensions-item-message-manage = Erweiterung verwalten
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } verstößt gegen die Richtlinien von Mozilla. Die Nutzung kann riskant sein.
 
 ## Extension's context menu
 
@@ -41,10 +44,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Einige Erweiterungen sind nicht erlaubt
 unified-extensions-mb-quarantined-domain-message = Nur einige von { -vendor-short-name } überwachte Erweiterungen sind auf dieser Website erlaubt, um Ihre Daten zu schützen.
-unified-extensions-mb-quarantined-domain-message-2 = Um Ihre Daten zu schützen, können einige Erweiterungen keine Daten auf dieser Website lesen oder ändern. Verwenden Sie die Einstellungen der Erweiterung, um dies auf Websites zuzulassen, die von { -vendor-short-name } eingeschränkt werden.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Einige Erweiterungen sind nicht erlaubt
     .message = Um Ihre Daten zu schützen, können einige Erweiterungen keine Daten auf dieser Website lesen oder ändern. Verwenden Sie die Einstellungen der Erweiterung, um dies auf Websites zuzulassen, die von { -vendor-short-name } eingeschränkt werden.
 unified-extensions-mb-quarantined-domain-learn-more = Weitere Informationen
     .aria-label = Weitere Informationen: Manche Erweiterungen sind nicht erlaubt
+unified-extensions-mb-about-addons-link = Erweiterungs-Einstellungen ansehen
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } deaktiviert
+    .message =
+        Diese Erweiterung verstößt gegen Mozillas Richtlinien und wurde deaktiviert.
+        Sie kann in den Einstellungen aktiviert werden, aber das kann riskant sein.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } deaktiviert
+    .message = Diese Erweiterung verstößt gegen Mozillas Richtlinien und wurde deaktiviert.

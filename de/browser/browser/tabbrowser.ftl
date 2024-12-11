@@ -206,3 +206,41 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [one] Tab zu neuer Gruppe hinzufügen
+           *[other] Tabs zu neuer Gruppe hinzufügen
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [one] Tab zu Gruppe hinzufügen
+           *[other] Tabs zu Gruppe hinzufügen
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Neuer Tab in Gruppe
+tab-group-editor-action-new-window =
+    .label = Gruppe in neues Fenster verschieben
+tab-group-editor-action-save =
+    .label = Gruppe speichern und schließen
+tab-group-editor-action-ungroup =
+    .label = Gruppierung der Tabs aufheben
+tab-group-editor-action-delete =
+    .label = Gruppe löschen
+tab-group-editor-done =
+    .label = Fertig
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Tab-Gruppe wieder öffnen
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [one] Aus Gruppe entfernen
+           *[other] Aus Gruppen entfernen
+        }
+    .accesskey = e
