@@ -55,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = 使用免費轉寄信箱，防止垃圾信
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = 使用免費的<label data-l10n-name="firefox-relay-learn-more-url">轉寄信箱</label>隱藏您的實際收件信箱，防止收到垃圾信。來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，仍將寄到您的信件匣，但無法得知您的實際信箱。
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = 首先註冊或登入帳號，即可使用轉寄信箱
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = 註冊
@@ -63,6 +64,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = 取得免費轉寄信箱
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = 使用免費的<label data-l10n-name="firefox-relay-learn-more-url">轉寄信箱</label>隱藏您的實際收件信箱，防止收到垃圾信。來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，仍將寄到您的信件匣，但無法得知您的實際信箱。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = 首先註冊或登入帳號，即可使用轉寄信箱
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = 註冊
@@ -71,6 +73,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 使用轉寄信箱，防止垃圾信
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = 使用<label data-l10n-name="firefox-relay-learn-more-url">轉寄信箱</label>保護您的實際信箱，防止收到垃圾信。您還是可收到來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，但會隱藏您的實際信箱。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 首先註冊或登入帳號，即可使用轉寄信箱
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = 若建立轉寄信箱，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
