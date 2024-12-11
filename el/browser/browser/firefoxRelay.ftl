@@ -33,3 +33,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Όχι τώρα
     .accesskey = χ
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Όχι τώρα
+    .accesskey = χ
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Εγγραφή
+    .accesskey = Ε
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Εγγραφή
+    .accesskey = Ε
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

@@ -493,3 +493,12 @@ pdfjs-editor-alt-text-settings-editor-title = Επεξεργασία εναλλ�
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Άμεση εμφάνιση της επεξεργασίας εναλλακτικού κειμένου κατά την προσθήκη εικόνας
 pdfjs-editor-alt-text-settings-show-dialog-description = Σας βοηθά να βεβαιωθείτε ότι όλες οι εικόνες σας έχουν εναλλακτικό κείμενο.
 pdfjs-editor-alt-text-settings-close-button = Κλείσιμο
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-undo-button =
+    .title = Αναίρεση
+pdfjs-editor-undo-bar-undo-button-label = Αναίρεση
+pdfjs-editor-undo-bar-close-button =
+    .title = Κλείσιμο
+pdfjs-editor-undo-bar-close-button-label = Κλείσιμο
