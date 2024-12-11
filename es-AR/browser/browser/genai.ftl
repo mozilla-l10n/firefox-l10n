@@ -60,6 +60,15 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = El chatbot de IA no recibirá la selección completa
+    .message =
+        { $selectionLength ->
+            [one] Se seleccionó cerca de { $selectionLength } caracter. El número de caracteres que se pueden enviar al chatbot de IA es de { $maxLength }.
+           *[other] Se seleccionaron cerca de { $selectionLength } caracteres. El número de caracteres que se pueden enviar al chatbot de IA es de { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ocultar acceso directo del chatbot
 
@@ -135,6 +144,5 @@ genai-onboarding-gemini-price = Opciones gratuitas y pagas; se requiere una cuen
 genai-onboarding-huggingchat-generate = Generar texto y código
 genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de modelos abiertos
 genai-onboarding-huggingchat-price-2 = Gratis; se requiere una cuenta después de un cierto número de solicitudes
-genai-onboarding-huggingchat-price = Gratis; se requiere una cuenta para algunas tareas
 genai-onboarding-lechat-generate = Generar texto y código
 genai-onboarding-lechat-price = Gratis; se requiere una cuenta
