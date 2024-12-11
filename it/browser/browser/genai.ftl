@@ -60,6 +60,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Chiedi a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Il chatbot IA non riceverà la selezione completa
+    .message = Hai selezionato circa { $selectionLength } caratteri. Il numero di caratteri che possiamo inviare al chatbot è di circa { $maxLength }.
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } non riceverà la selezione completa
+    .message = Hai selezionato circa { $selectionLength } caratteri. Il numero di caratteri che possiamo inviare a { $provider } è di circa { $maxLength }.
 genai-shortcuts-hide =
     .label = Nascondi scorciatoia per i chatbot
 
