@@ -41,6 +41,10 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nic něnto
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Konto pśistup k dalšnym priwatnosć šćitajucym produktam pśizwólujo. Wšykne mejlki, kótarež se na wašu e-mailowu masku sćelu, se na wašu napšawdnu e-mailowu adresu dalej pósrědnjaju (snaźkuli rozsuźujośo se je blokěrowaś).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Pla { -brand-product-name } pśizjawiś a masku wužywaś
+    .accesskey = P
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Wěcej njepokazaś
     .accesskey = W
@@ -51,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Spamoju z dermotnej e-mailoweju masku zajźowaś
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrěrowaś
     .accesskey = R
@@ -58,6 +63,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Wobstarajśo se dermotnu e-mailowu masku
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrěrowaś
     .accesskey = R
@@ -65,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Šćitajśo pśed spamom z e-mailoweju masku
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Gaž e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dalej
