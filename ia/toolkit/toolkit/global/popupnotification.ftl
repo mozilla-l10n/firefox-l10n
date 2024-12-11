@@ -5,6 +5,9 @@
 popup-notification-learn-more = Saper plus
 popup-notification-more-actions-button =
     .aria-label = Altere actiones
+popup-notification-default-button2 =
+    .label = OK
+    .accesskey = O
 popup-notification-default-button =
     .label = OK!
     .accesskey = O
