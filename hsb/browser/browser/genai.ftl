@@ -60,6 +60,18 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Prašejće so { $provider }…
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } waš dospołny wuběr njedóstanje
+    .message =
+        { $selectionLength ->
+            [one] Sće na { $selectionLength } znamješko wubrał. Ličba znamješkow, kotrež móžemy { $provider } słać je wokoło { $maxLength }.
+            [two] Sće na { $selectionLength } znamješce wubrał. Ličba znamješkow, kotrež móžemy { $provider } słać je wokoło { $maxLength }.
+            [few] Sće na { $selectionLength } znamješka wubrał. Ličba znamješkow, kotrež móžemy { $provider } słać je wokoło { $maxLength }.
+           *[other] Sće na { $selectionLength } znamješkow wubrał. Ličba znamješkow, kotrež móžemy { $provider } słać je wokoło { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Tastowu skrótšenku chatoweho bota schować
 
@@ -135,6 +147,5 @@ genai-onboarding-gemini-price = Darmotne a płaćomne móžnosće; konto je trě
 genai-onboarding-huggingchat-generate = Tekst a kod generować
 genai-onboarding-huggingchat-switch = Přepinajće mjez rozdźělnej sadźbu wotewrjenych modelow
 genai-onboarding-huggingchat-price-2 = Darmotny; konto trěbne po wěstej ličbje naprašowanjow
-genai-onboarding-huggingchat-price = Darmotny; konto je trěbne za někotre nadawki
 genai-onboarding-lechat-generate = Tekst a kod generować
 genai-onboarding-lechat-price = Darmotny; konto je trěbne
