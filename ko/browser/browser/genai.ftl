@@ -60,6 +60,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider }에게 물어보기...
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI 챗봇이 사용자가 선택한 항목 전체를 받지는 않음
+    .message = 약 { $selectionLength }자를 선택하셨습니다. AI 챗봇에 보낼 수 있는 문자 수는 약 { $maxLength }자입니다.
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } 챗봇은 사용자가 선택한 항목 전체를 받지는 않음
+    .message = 약 { $selectionLength }자를 선택하셨습니다. AI 챗봇에 보낼 수 있는 문자 수는 약 { $maxLength }자입니다.
 genai-shortcuts-hide =
     .label = 챗봇 바로 가기 숨기기
 
@@ -135,6 +146,5 @@ genai-onboarding-gemini-price = 무료 및 유료 옵션; 계정 필요
 genai-onboarding-huggingchat-generate = 텍스트와 코드 생성
 genai-onboarding-huggingchat-switch = 다양한 개방형 모델 간 전환
 genai-onboarding-huggingchat-price-2 = 무료; 특정 횟수의 요청 후 계정 필요
-genai-onboarding-huggingchat-price = 무료; 일부 작업에는 계정 필요
 genai-onboarding-lechat-generate = 텍스트와 코드 생성
 genai-onboarding-lechat-price = 무료; 계정 필요

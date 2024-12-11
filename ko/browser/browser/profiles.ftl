@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = “업무” 또는 “개인”과 같은 이름을 사용하세요
 new-profile-page-done-button =
     .label = 편집 완료
+profile-window-title-2 = { -brand-short-name } - 프로필 선택
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = 북마크
 delete-profile-history = 기록 (방문한 페이지, 쿠키, 사이트 데이터)
 delete-profile-autofill = 데이터 자동 채우기 (주소, 결제 방법)
 delete-profile-logins = 비밀번호
+
+##
+
 # Button label
 delete-profile-cancel = 취소
 # Button label
