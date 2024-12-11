@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Lisätietoja tehostetusta seurannan suojauksesta
 protections-panel-etp-on-header = Tehostettu seurannan suojaus on PÄÄLLÄ tällä sivustolla
 protections-panel-etp-off-header = Tehostettu seurannan suojaus on POIS PÄÄLTÄ tällä sivustolla
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Eikö sivusto toimi?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Eikö sivusto toimi?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Tehostettu seurannan suojaus
     .description = Ei käytössä tällä sivustolla
     .aria-label = Tehostettu seurannan suojaus: Ei käytössä sivustolla { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Eikö sivusto toimi?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Eikö sivusto toimi?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,16 @@ protections-panel-content-blocking-fingerprinters-label = Yksilöijät
 protections-panel-blocking-label = Estetty
 protections-panel-not-blocking-label = Sallittu
 protections-panel-not-found-label = Ei havaittu
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } estää seurantaan tarkoitetun sisällön, kun olet tällä sivustolla, ellet salli sitä.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Salli { $trackername }
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Salli sivustossa { $websitehost }
 
 ##
 
@@ -108,7 +118,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Ilmoita rikkinäisestä sivustosta
 protections-panel-content-blocking-breakage-report-view-description = Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan { -brand-short-name }-selainta. Tämän raportin lähettäminen lähettää Mozillalle sivun osoitteen ja tietoja selaimesi asetuksista. <label data-l10n-name="learn-more">Lue lisää</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan { -brand-short-name }-selainta. Tämän raportin lähettäminen lähettää { -vendor-short-name }lle sivun osoitteen ja tietoja selaimesi asetuksista.
 protections-panel-content-blocking-breakage-report-view-collection-url = Osoite
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Osoite
