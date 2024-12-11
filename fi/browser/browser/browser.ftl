@@ -651,6 +651,9 @@ urlbar-result-action-search-bookmarks = Etsi kirjanmerkeistä
 urlbar-result-action-search-history = Etsi historiasta
 urlbar-result-action-search-tabs = Etsi välilehdistä
 urlbar-result-action-search-actions = Etsi toimintoja
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Avaa { $group }
 
 ## Labels shown above groups of urlbar results
 
