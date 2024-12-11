@@ -66,7 +66,7 @@ genai-shortcuts-selected-warning-generic =
     .heading = AI-chatbot krijgt niet uw volledige selectie
     .message =
         { $selectionLength ->
-           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd.. Het aantal tekens dat we naar de AI chatbot kunnen sturen is ongeveer { $maxLength }.
+           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd. Het aantal tekens dat we naar de AI chatbot kunnen sturen is ongeveer { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
