@@ -16,6 +16,11 @@ about-glean-interface-description =
     është një bibliotekë grumbullimi të dhënash e përdorur në projekte { -vendor-short-name }.
     Kjo ndërfaqe është hartuar për t’u përdorur nga zhvillues dhe testues për
     <a data-l10n-name="fog-link">të testuar dorazi  instrumentim</a>.
+about-glean-category-about-glean = Mbi { -glean-brand-name }-in
+about-glean-category-manual-testing = Testim Dorazi
+about-glean-category-adhoc-testing = Testim “Ad Hoc”
+about-glean-category-profiler = Përdorim Profilizuesi
+about-glean-category-about-data = Mbi të Dhënat
 about-glean-upload-enabled = Ngarkimi i të dhënave është aktivizuar.
 about-glean-upload-disabled = Ngarkimi i të dhënave është çaktivizuar.
 about-glean-upload-enabled-local = Ngarkimi i të dhënave është aktivizuar vetëm për dërgim te një shërbyes vendor.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Për një shpjegim të rrugëve të ndryshme për të regjistruar dhe gjetur të dhëna, ju lutemi, shihni te
+    skeda <strong>Mbi të Dhënat</strong>.
 about-glean-about-testing-header = Mbi Testimin
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -103,6 +111,15 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Rregullimet u zbatuan dhe pingu u dërgua!
 about-glean-about-data-header = Mbi të Dhënat
+about-glean-about-data-description =
+    Ka ndoca mjete të ndryshme që mund të përdorni për të parë të dhënat tuaja, në varësi se
+    për çfarë po kërkoni.
+about-glean-about-data-description-list-intro =
+    Ju lutemi, për raste përdorimi specifike për çdo
+    mjet shihni listën më poshtë:
+about-glean-about-data-list-item-dictionary =
+    Që të shfletoni listën e të dhënave të grumbulluara nga { -glean-brand-name } për aplikacion, ju lutemi, shihni
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
