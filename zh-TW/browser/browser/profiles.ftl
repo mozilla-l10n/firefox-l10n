@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = 使用諸如「工作」或「個人」這樣的名稱
 new-profile-page-done-button =
     .label = 編輯完成
+profile-window-title-2 = { -brand-short-name } - 選擇設定檔
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = 書籤
 delete-profile-history = 瀏覽紀錄（造訪過的網頁、Cookie、網站資料等）
 delete-profile-autofill = 表單自動填寫資料（地址、付款方式等）
 delete-profile-logins = 密碼
+
+##
+
 # Button label
 delete-profile-cancel = 取消
 # Button label

@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = 搜尋書籤
 urlbar-result-action-search-history = 搜尋瀏覽記錄
 urlbar-result-action-search-tabs = 搜尋分頁
 urlbar-result-action-search-actions = 搜尋動作
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = 開啟 { $group }
 
 ## Labels shown above groups of urlbar results
 
