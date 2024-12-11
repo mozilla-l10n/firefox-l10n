@@ -50,6 +50,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Estä roskaposti ilmaisella sähköpostimaskilla
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Rekisteröidy
     .accesskey = s
@@ -57,12 +59,15 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Hanki ilmainen sähköpostimaski
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Rekisteröidy
     .accesskey = s
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Suojaudu roskapostilta sähköpostimaskilla
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Seuraava
     .accesskey = e
