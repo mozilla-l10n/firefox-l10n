@@ -7,13 +7,13 @@ xpinstall-prompt = { -brand-short-name } mpidì a stu situ di dumannàriti di nz
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = Pirmèttiri a { $host } di nzitari n'agghiuncitina?
-xpinstall-prompt-message = Stai pruvannu a nzitari n'agghiuncitina di { $host }. Prima di cuntinuari, assicùrati chi è un situ fidatu.
+xpinstall-prompt-header = Pirmèttiri a { $host } di nzitari na juncitina?
+xpinstall-prompt-message = Stai pruvannu a nzitari na juncitina di { $host }. Prima di cuntinuari, assicùrati chi è un situ fidatu.
 
 ##
 
-xpinstall-prompt-header-unknown = Pirmèttiri a stu situ scanusciutu di nzitari n'agghiuncitina?
-xpinstall-prompt-message-unknown = Sta' pruvannu a nzitari n'agghiuncitina d'un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
+xpinstall-prompt-header-unknown = Pirmèttiri a stu situ scanusciutu di nzitari na juncitina?
+xpinstall-prompt-message-unknown = Sta' pruvannu a nzitari na juncitina d'un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
 xpinstall-prompt-dont-allow =
     .label = Nun u pirmèttiri
     .accesskey = N
@@ -43,10 +43,10 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l'amministraturi dû to sistema.
-addon-install-full-screen-blocked = Nun è pussìbbili nzitari n'agghiuncitina quannu sì, o prima di tràsiri, 'n mudalità a tuttu schirmu.
+addon-install-full-screen-blocked = Nun è pussìbbili nzitari na juncitina quannu sì, o prima di tràsiri, 'n mudalità a tuttu schirmu.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = { $addonName } fu agghiunciutu a { -brand-short-name }
+webext-perms-sideload-menu-item = { $addonName } fu junciutu a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } addumanna novi pirmisi
@@ -66,48 +66,48 @@ addon-removal-abuse-report-checkbox = Riporta stu stinneriu a { -vendor-short-na
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
-        [one] Staju scarricannu e virificannu l'agghiuncitina…
-       *[other] Staju scarricannu e virificannu { $addonCount } agghiuncitini…
+        [one] Staju scarricannu e virificannu a juncitina…
+       *[other] Staju scarricannu e virificannu { $addonCount } juncitini…
     }
 addon-download-verifying = Staju virificannu
 addon-install-cancel-button =
     .label = Sfai
     .accesskey = S
 addon-install-accept-button =
-    .label = Agghiunci
-    .accesskey = A
+    .label = Junci
+    .accesskey = J
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] Stu situ vulissi nzitari n'agghiuncitina nne { -brand-short-name }:
-       *[other] Stu situ vulissi nzitari { $addonCount } agghiuncitini nne { -brand-short-name }:
+        [one] Stu situ vulissi nzitari na juncitina nne { -brand-short-name }:
+       *[other] Stu situ vulissi nzitari { $addonCount } juncitini nne { -brand-short-name }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [one] Accura: stu situ vulissi nzitari n'agghiuncitina nun virificata nne { -brand-short-name }. Cuntinua a to rìsicu e pirìculu.
-       *[other] Accura: stu situ vulissi nzitari { $addonCount } agghiuncitini nun virificati nne { -brand-short-name }. Cuntinua a to rìsicu e pirìculu.
+        [one] Accura: stu situ vulissi nzitari na juncitina nun virificata nne { -brand-short-name }. Cuntinua a to rìsicu e pirìculu.
+       *[other] Accura: stu situ vulissi nzitari { $addonCount } juncitini nun virificati nne { -brand-short-name }. Cuntinua a to rìsicu e pirìculu.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
-addon-confirm-install-some-unsigned-message = Accura: stu situ vulissi nzitari { $addonCount } agghiuncitini ntô { -brand-short-name }, i qualii arcuni nun sunnu virificati. Cuntìnua a to rischiu e pirìculu.
+addon-confirm-install-some-unsigned-message = Accura: stu situ vulissi nzitari { $addonCount } juncitini ntô { -brand-short-name }, arcuni nun sunnu virificati. Cuntìnua a to rìsicu e pirìculu.
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Mpussìbbili scarricari l'agghiuncitina pi n'erruri di cunnissiuni.
-addon-install-error-incorrect-hash = Mpussìbbili nzitari l'agghiuncitina picchì nun currispunni a soccu s'aspittava { -brand-short-name }.
-addon-install-error-corrupt-file = Mpussìbbili nzitari l'agghiuncitina scarricata di stu situ picchì u pricu parissi difittusu.
+addon-install-error-network-failure = Mpussìbbili scarricari a juncitina pi n'erruri di cunnissiuni.
+addon-install-error-incorrect-hash = Mpussìbbili nzitari a juncitina picchì nun appatta cu soccu s'aspittava { -brand-short-name }.
+addon-install-error-corrupt-file = Mpussìbbili nzitari a juncitina scarricata di stu situ picchì u pricu parissi difittusu.
 addon-install-error-file-access = Mpussìbbili nzitari «{ $addonName }» picchì { -brand-short-name } nun potti canciari i prichi nicissari.
-addon-install-error-not-signed = { -brand-short-name } mpidì a stu situ di nzitari n'agghiuncitina nun virificata.
-addon-local-install-error-network-failure = Mpussìbbili nzitari l'agghiuncitina pi n'erruri dû sistema.
-addon-local-install-error-incorrect-hash = Mpussìbbili nzitari st'agghiuncitina picchì nun currispunni a soccu s'aspittava { -brand-short-name }.
-addon-local-install-error-corrupt-file = Mpussìbbili nzitari st'agghiuncitina picchì parissi difittusa.
+addon-install-error-not-signed = { -brand-short-name } firmau stu situ di nzitari na juncitina nun virificata.
+addon-local-install-error-network-failure = Mpussìbbili nzitari a juncitina pi n'erruri dû sistema.
+addon-local-install-error-incorrect-hash = Mpussìbbili nzitari sta juncitina picchì nun appatta cu soccu s'aspittava { -brand-short-name }.
+addon-local-install-error-corrupt-file = Mpussìbbili nzitari sta juncitina picchì parissi difittusa.
 addon-local-install-error-file-access = Mpussìbbili nzitari «{ $addonName }» picchì { -brand-short-name } nun potti canciari i prichi nicissari.
-addon-local-install-error-not-signed = Mpussìbbili nzitari st'agghiuncitina picchì nun fu virificata.
+addon-local-install-error-not-signed = Mpussìbbili nzitari sta juncitina picchì nun fu virificata.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Mpussìbbili nzitari «{ $addonName }» picchì nun è cumpatìbbili cu { -brand-short-name } { $appVersion }.

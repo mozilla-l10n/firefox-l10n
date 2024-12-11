@@ -47,7 +47,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = Grapi u quatru dî missaggi di sarbataggiu dî chiavi
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Manija l'usu di l'agghiuncitini
+    .tooltiptext = Manija l'usu dî juncitini
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manija a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
 urlbar-autoplay-notification-anchor =
@@ -55,7 +55,7 @@ urlbar-autoplay-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarba dati nni l'archiviu pirmanenti
 urlbar-addons-notification-anchor =
-    .tooltiptext = Grapi u quatru dî missaggi di nzitamentu di l'agghiuncitini
+    .tooltiptext = Grapi u quatru dî missaggi di nzitamentu dî juncitini
 urlbar-tip-help-icon =
     .title = Fatti ajutari
 
@@ -91,7 +91,7 @@ urlbar-autoplay-media-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
 urlbar-install-blocked =
-    .tooltiptext = Bluccasti u nzitamentu d'agghiuncitini pi stu situ.
+    .tooltiptext = Bluccasti u nzitamentu dî juncitini pi stu situ.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -566,7 +566,7 @@ refresh-blocked-allow =
 
 popup-notification-addon-install-unsigned =
     .value = (nun virificata)
-popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazzioni supra ô nzitamentu sicuru di l'agghiuncitini
+popup-notification-xpinstall-prompt-learn-more = Cchiù nfurmazzioni supra ô nzitamentu sicuru dî juncitini
 
 ## Pop-up warning
 

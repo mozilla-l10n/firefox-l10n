@@ -10,7 +10,7 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = Agghiunci Tichetti
+    .placeholder = Junci Tichetti
 pocket-panel-saved-error-generic = Cci fu n'erruri pruvannu a sarbari nne { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = I tichetti sunnu limitati a 25 caràttiri
 pocket-panel-saved-error-only-links = Poi sarbari sulu i lijami
@@ -22,14 +22,14 @@ pocket-panel-saved-page-saved = Sarbatu nne { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Sarbatu nne { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Staju livannu a pàggina…
 pocket-panel-saved-removed-updated = Pàggina livata dî cosi sarbati
-pocket-panel-saved-processing-tags = Staju agghiuncennu i tichetti…
+pocket-panel-saved-processing-tags = Staju juncennu i tichetti…
 pocket-panel-saved-remove-page = Leva a pàggina
 pocket-panel-saved-save-tags = Sarba
 pocket-panel-saved-saving-tags = Staju sarbannu…
 pocket-panel-saved-suggested-tags = Tichetti suggiruti
-pocket-panel-saved-tags-saved = Tichetti agghiunciuti
+pocket-panel-saved-tags-saved = Tichetti junciuti
 # This is displayed above a field where the user can add tags
-pocket-panel-signup-add-tags = Agghiunci Tichetti:
+pocket-panel-signup-add-tags = Junci Tichetti:
 
 ## about:pocket-signup panel
 

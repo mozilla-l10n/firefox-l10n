@@ -445,7 +445,7 @@ about-logins-import-report-row-description-modified = Cridinziali esistenti attu
 about-logins-import-report-row-description-added = Nova cridinziali junciuta
 about-logins-import-report-row-description-no-change2 = Duppiu: currispunnenza pricisa di n'elimentu già esistenti
 about-logins-import-report-row-description-modified2 = Elimentu esistenti attualizzatu
-about-logins-import-report-row-description-added2 = Nova chiavi agghiunciuta
+about-logins-import-report-row-description-added2 = Nova chiavi junciuta
 about-logins-import-report-row-description-error = Erruri: campu mancanti
 
 ##
@@ -461,7 +461,7 @@ about-logins-import-report-row-description-error-missing-field = Erruri: manca {
 
 about-logins-import-report-added =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi cridinziali agghiunciuti</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi cridinziali junciuti</div>
     }
 about-logins-import-report-modified =
     { $count ->
@@ -473,7 +473,7 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-added2 =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi chiavi agghiunciuti</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi chiavi junciuti</div>
     }
 about-logins-import-report-modified2 =
     { $count ->
