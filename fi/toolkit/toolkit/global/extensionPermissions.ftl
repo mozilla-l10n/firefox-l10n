@@ -30,4 +30,6 @@ webext-perms-description-sessions = Käytä viimeksi suljettuja välilehtiä
 webext-perms-description-tabs = Käytä selaimen välilehtiä
 webext-perms-description-tabHide = Piilota ja näytä selaimen välilehtiä
 webext-perms-description-topSites = Käytä selaushistoriaa
+webext-perms-description-trialML = Lataa ja suorita tekoälymalleja laitteellasi
+webext-perms-description-userScripts = Salli vahvistamattomien kolmannen osapuolen komentosarjojen pääsy tietoihisi
 webext-perms-description-webNavigation = Tarkkaile selaimen toimintaa siirryttäessä sivulta toiselle

@@ -79,6 +79,7 @@ protections-panel-smartblock-desc-label = { -brand-short-name } estää seuranta
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Salli { $trackername }
+smartblock-placeholder-desc = Käyttämäsi { -brand-short-name }-asetukset estivät tätä sisältöä seuraamasta sinua eri sivustoilla tai käyttämästä mainoksia.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Salli sivustossa { $websitehost }
 
