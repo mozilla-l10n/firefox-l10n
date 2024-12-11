@@ -42,12 +42,28 @@ firefox-relay-opt-in-confirmation-postpone =
     .label = 나중에
     .accesskey = N
 firefox-relay-offer-what-fxa-and-relay-provides = 계정은 더 많은 개인 정보 보호 제품에 대한 접근을 잠금 해제합니다. 이메일 가리기로 전송된 모든 이메일은 차단하지 않는 한 실제 이메일 주소로 전달됩니다.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = { -brand-product-name }에 로그인하고 가리기 사용
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = 다시 표시 안 함
+    .accesskey = D
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = 나중에
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = 무료 이메일 가리기로 스팸 방지
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = 무료 <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 이메일 주소를 숨겨 스팸을 방지하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 오지만 숨겨집니다.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = 가입
+    .accesskey = S
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = 무료 이메일 가리기 받기
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
