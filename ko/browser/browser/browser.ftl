@@ -646,6 +646,9 @@ urlbar-result-action-search-bookmarks = 북마크 검색
 urlbar-result-action-search-history = 기록 검색
 urlbar-result-action-search-tabs = 탭 검색
 urlbar-result-action-search-actions = 작업 검색
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = { $group } 열기
 
 ## Labels shown above groups of urlbar results
 

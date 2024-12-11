@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = 이메일 주소 보호:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } 이메일 가리기 사용
 firefox-relay-use-mask-title = { -relay-brand-name } 이메일 가리기 사용
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = 무료 이메일 가리기로 스팸 방지
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = 실제 이메일 주소 숨기기
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = 무료 이메일 가리기 받기
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = 스팸으로부터 받은 편지함 보호
 firefox-relay-opt-in-confirmation-enable-button =
     .label = 이메일 가리기 사용
     .accesskey = U
@@ -33,3 +41,13 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 나중에
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = 계정은 더 많은 개인 정보 보호 제품에 대한 접근을 잠금 해제합니다. 이메일 가리기로 전송된 모든 이메일은 차단하지 않는 한 실제 이메일 주소로 전달됩니다.
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
