@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Šćitajśo swóju e-mailowu adresu:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = E-mailowu masku { -relay-brand-name } wužywaś
 firefox-relay-use-mask-title = E-mailowu masku { -relay-brand-name } wužywaś
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Spamoju z dermotnej e-mailoweju masku zajźowaś
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Schowajśo swóju napšawdnu e-mailowu adresu
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Wobstarajśo se dermotnu e-mailowu masku
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Šćitajśo swój dochad posta pśed spamom
 firefox-relay-opt-in-confirmation-enable-button =
     .label = E-mailowu masku wužywaś
     .accesskey = m
@@ -33,3 +41,31 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nic něnto
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Wěcej njepokazaś
+    .accesskey = W
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Nic něnto
+    .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = Spamoju z dermotnej e-mailoweju masku zajźowaś
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registrěrowaś
+    .accesskey = R
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Wobstarajśo se dermotnu e-mailowu masku
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrěrowaś
+    .accesskey = R
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Šćitajśo pśed spamom z e-mailoweju masku
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Gaž e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Dalej
+    .accesskey = D
