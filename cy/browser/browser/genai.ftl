@@ -60,6 +60,33 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Gofyn i { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Fydd y sgwrsfot AI ddim yn cael eich dewis llawn
+    .message =
+        { $selectionLength ->
+            [zero] Rydych wedi dewis tua { $selectionLength } nodau. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+            [one] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+            [two] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+            [few] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+            [many] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+           *[other] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at y sgwrsfot AI.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = Fydd { $provider } ddim yn cael eich dewis llawn
+    .message =
+        { $selectionLength ->
+            [zero] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+            [one] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+            [two] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+            [few] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+            [many] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+           *[other] Rydych wedi dewis tua { $selectionLength } nod. Fedrwn anfon tua { $maxLength }  at { $provider }.
+        }
 genai-shortcuts-hide =
     .label = Cuddio llwybr byr sgwrsfot
 
@@ -135,6 +162,5 @@ genai-onboarding-gemini-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif
 genai-onboarding-huggingchat-generate = Cynhyrchu testun a chod
 genai-onboarding-huggingchat-switch = Newid rhwng set amrywiol o fodelau agored
 genai-onboarding-huggingchat-price-2 = Am ddim; mae angen cyfrif ar ôl nifer penodol o geisiadau
-genai-onboarding-huggingchat-price = Rhad ac am ddim; bydd angen cyfrif ar gyfer rhai tasgau
 genai-onboarding-lechat-generate = Cynhyrchu testun a chod
 genai-onboarding-lechat-price = Rhad ac am ddim; bydd angen cyfrif

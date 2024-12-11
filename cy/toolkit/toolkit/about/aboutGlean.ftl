@@ -15,6 +15,11 @@ about-glean-interface-description =
     Mae <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     yn lyfrgell casglu data sy'n cael ei ddefnyddio mewn projectau { -vendor-short-name }.
     Mae'r rhyngwyneb hwn wedi'i gynllunio i'w ddefnyddio gan ddatblygwyr a phrofwyr <a data-l10n-name="fog-link">i brofi'r offeryniaeth</a> â llaw.
+about-glean-category-about-glean = Ynghylch { -glean-brand-name }
+about-glean-category-manual-testing = Profi â Llaw
+about-glean-category-adhoc-testing = Profion Ad Hoc
+about-glean-category-profiler = Defnyddio'r Proffiliwr
+about-glean-category-about-data = Ynghylch Data
 about-glean-upload-enabled = Mae llwytho data i fyny wedi'i alluogi.
 about-glean-upload-disabled = Mae llwytho data i fyny wedi'i analluogi.
 about-glean-upload-enabled-local = Dim ond ar gyfer anfon i weinydd lleol y mae llwytho data i fyny wedi'i alluogi.
@@ -42,6 +47,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    I gael esboniad o wahanol ffyrdd o gofnodi a dod o hyd i ddata, cyfeiriwch at y
+    tab <strong>Ynghylch Data</strong>.
 about-glean-about-testing-header = Ynghylch Profi
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -99,6 +107,10 @@ about-glean-adhoc-note =
     Sylwch eich bod yn defnyddio'r API Glean JS trwy ddefnyddio'r consol devtools.
     Mae hyn yn golygu bod y categori metrig a'r enw metrig wedi'u fformatio
     <code>camelCase</code> yn wahanol i'r APIs Rust a C++.
+about-glean-profiler-explanation =
+    I weld golwg lawn o'r holl fetrigau a recordiwyd, gallwch ddefnyddio'r { -profiler-brand-name }.
+    Yn gyntaf rhaid i chi <a data-l10n-name="firefox-profiler-link">gipio proffil perfformiad</a>.
+    Unwaith y byddwch yn dal y proffil, dewiswch <q>Siart Marciwr</q> ac edrychwch ar y marcwyr o dan <q>Telemetreg</q>.
 controls-button-label-verbose = Gosod y gosodiadau ac anfon ping
 about-glean-feedback-settings-only =
     .message = Gosodiadau wedi'u gosod!

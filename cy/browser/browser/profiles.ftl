@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Dewiswch enw fel “Gwaith” neu “Personol”
 new-profile-page-done-button =
     .label = Wedi gorffen golygu
+profile-window-title-2 = { -brand-short-name } - Dewiswch broffil
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Nodau Tudalen
 delete-profile-history = Hanes (tudalennau yr ymwelwyd â hwy, cwcis, data gwefan)
 delete-profile-autofill = Awtolenwi data (cyfeiriadau, dulliau talu)
 delete-profile-logins = Cyfrineiriau
+
+##
+
 # Button label
 delete-profile-cancel = Diddymu
 # Button label

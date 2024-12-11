@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Mae'n amhosib diyst
 inactive-css-position-property-on-unpositioned-box = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem wedi'i lleoli.
 inactive-css-only-replaced-elements = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan mai dim ond i elfennau sydd wedi'u disodli y mae modd ei chymhwyso.
 inactive-text-overflow-when-no-overflow = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw <strong>overflow:hidden</strong> wedi'i osod.
+inactive-css-no-size-containment = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad oes ganddi gyfyngiad maint.
 inactive-css-not-for-internal-table-elements = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau tablau mewnol.
 inactive-css-not-for-internal-table-elements-except-table-cells = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau bwrdd mewnol ac eithrio celloedd bwrdd.
 inactive-css-not-table = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n dabl.
@@ -58,8 +59,13 @@ inactive-css-resize = Nid yw <strong>{ $property }</strong> yn cael unrhyw effai
 inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan ei bod yn elfen ruby. Mae ei faint yn cael ei bennu gan faint ffont y testun ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
 inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
@@ -102,6 +108,7 @@ inactive-css-not-floated-fix = Ceisiwch ychwanegu'r priodwedd <strong>float</str
 inactive-css-position-property-on-unpositioned-box-fix = Ceisiwch osod priodwedd ei <strong>leoliad</strong> i rywbeth arall heblaw <strong>statig</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Gwnewch yn siŵr eich bod yn ychwanegu'r briodwedd at elfen newydd. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Ceisiwch ychwanegu <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Ceisiwch osod ei briodwedd <strong>dangos</strong> i rywbeth heblaw <strong>dim</strong>, <strong>cynnwys</strong>, <strong>tabl</strong>, neu <strong>tabl mewn-lein </strong>a gwnewch yn siŵr nad yw o fewn tabl neu segment ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-css-not-table-fix = Ceisiwch ychwanegu <strong>display:table</strong> neu <strong>display:inline-table</strong>. { learn-more }
