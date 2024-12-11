@@ -41,6 +41,7 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nic nětko
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Konto přistup k dalšim priwatnosć škitacym produktam dopušća. Wšě e-mejle, kotrež so na waše e-mejlow maski sćelu, so na wašu woprawdźitu e-mejlowu adresu dale sposrědkuja (chibazo rozsudźeće so je blokować).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Pola { -brand-product-name } přizjewić a masku wužiwać
     .accesskey = P
