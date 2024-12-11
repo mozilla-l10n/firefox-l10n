@@ -73,6 +73,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Suojaudu roskapostilta sähköpostimaskilla
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Suojaudu roskapostilta piilottamalla todellinen osoitteesi <label data-l10n-name="firefox-relay-learn-more-url">sähköpostimaskilla</label>. Saat edelleen sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> postilaatikkoosi siten, että osoitteesi on piilotettu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Luomalla sähköpostimaskin hyväksyt <label data-l10n-name="tos-url">käyttöehdot</label> ja <label data-l10n-name="privacy-url">tietosuojakäytännön</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
