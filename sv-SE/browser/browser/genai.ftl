@@ -60,6 +60,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Fråga { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI chatbot kommer inte att få ditt fullständiga val
+    .message =
+        { $selectionLength ->
+            [one] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till AI-chatboten handlar om { $maxLength }.
+           *[other] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till AI-chatboten handlar om { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } kommer inte att få hela ditt val
+    .message =
+        { $selectionLength ->
+            [one] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till { $provider } är ungefär { $maxLength }.
+           *[other] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till { $provider } är ungefär { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Dölj chatbot-genväg
 
@@ -135,6 +154,5 @@ genai-onboarding-gemini-price = Gratis och betalda alternativ; konto krävs
 genai-onboarding-huggingchat-generate = Skapa text och kod
 genai-onboarding-huggingchat-switch = Växla mellan en mångsidig uppsättning öppna modeller
 genai-onboarding-huggingchat-price-2 = Gratis; konto krävs efter ett visst antal förfrågningar
-genai-onboarding-huggingchat-price = Gratis; konto krävs för vissa uppgifter
 genai-onboarding-lechat-generate = Skapa text och kod
 genai-onboarding-lechat-price = Gratis; konto krävs

@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Välj ett namn som "Arbete" eller "Personligt"
 new-profile-page-done-button =
     .label = Klar med redigering
+profile-window-title-2 = { -brand-short-name } - Välj en profil
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Bokmärken
 delete-profile-history = Historik (besökta sidor, kakor, webbplatsdata)
 delete-profile-autofill = Autofylldata (adresser, betalningsmetoder)
 delete-profile-logins = Lösenord
+
+##
+
 # Button label
 delete-profile-cancel = Avbryt
 # Button label
