@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
 urlbar-result-action-search-history = Kërkoni Në Historik
 urlbar-result-action-search-tabs = Kërkoni Në Skeda
 urlbar-result-action-search-actions = Veprime Kërkimi
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Hap { $group }
 
 ## Labels shown above groups of urlbar results
 

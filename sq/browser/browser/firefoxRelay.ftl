@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Mbroni adresën tuaj email:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Përdor maskë { -relay-brand-name } email-i
 firefox-relay-use-mask-title = Përdor maskë { -relay-brand-name } email-i
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Parandaloni mesazhe të padëshiruar, me maskë falas email-i
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Fshihni adresën tuaj të njëmendtë email
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Merrni një maskë falas email-i
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Mbroni kutinë tuaj postare nga të padëshiruar
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Përdor maskë email-i
     .accesskey = P
@@ -33,3 +41,29 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Jo tani
     .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Mos ma shfaq më këtë
+    .accesskey = M
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Jo tani
+    .accesskey = J
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = Parandaloni mesazhe të padëshiruar, me maskë falas email-i
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Regjistrohuni
+    .accesskey = R
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Merrni një maskë falas email-i
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Regjistrohuni
+    .accesskey = R
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Pasuesi
+    .accesskey = P

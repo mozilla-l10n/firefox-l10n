@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Zgjidhni një emër, fjala vjen, “Pune”, ose “Personal”
 new-profile-page-done-button =
     .label = Mbaroi përpunimi
+profile-window-title-2 = { -brand-short-name } - Zgjidhni një profil
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Faqerojtës
 delete-profile-history = Historik (faqe të vizituara, “cookies”, të dhëna sajtesh)
 delete-profile-autofill = Të dhëna vetëplotësimesh (adresa, metoda pagesash)
 delete-profile-logins = Fjalëkalime
+
+##
+
 # Button label
 delete-profile-cancel = Anuloje
 # Button label
