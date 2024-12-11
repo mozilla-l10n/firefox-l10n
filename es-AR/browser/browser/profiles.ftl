@@ -44,8 +44,9 @@ new-profile-page-input-placeholder =
     .placeholder = Seleccione un nombre como “Trabajo” o “Personal”
 new-profile-page-done-button =
     .label = Finalizar edición
+profile-window-title-2 = { -brand-short-name } - Seleccione un perfil
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +63,9 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Historial (páginas visitadas, cookies, datos del sitio)
 delete-profile-autofill = Datos de auto completado (direcciones, métodos de pago)
 delete-profile-logins = Contraseñas
+
+##
+
 # Button label
 delete-profile-cancel = Cancelar
 # Button label
