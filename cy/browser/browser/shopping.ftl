@@ -91,7 +91,7 @@ shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle2 =
     .label = Dangos argymhellion a chynnwys noddedig
-shopping-settings-recommendations-learn-more3 = Nid yw { -brand-product-name } yn rhannu eich data personol, felly ni fydd yr argymhellion hyn yn eich dilyn o gwmpas y rhyngrwyd. <a data-l10n-name="review-quality-url">Dysgu rhagor</a>
+shopping-settings-recommendations-learn-more3 = Nid yw { -brand-product-name } yn rhannu eich data personol, felly ni fydd yr argymhellion hyn yn eich dilyn o gwmpas y rhyngrwyd. <a data-l10n-name="review-quality-url">Rhagor</a>
 shopping-settings-recommendations-toggle =
     .label = Dangos hysbysebion yn y Gwirydd Adolygiadau
 shopping-settings-recommendations-learn-more2 = Byddwch yn gweld hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>

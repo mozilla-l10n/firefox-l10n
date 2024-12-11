@@ -630,7 +630,7 @@ home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-shor
 home-prefs-weather-header =
     .label = Y Tywydd
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
-home-prefs-weather-learn-more-link = Dysgu rhagor
+home-prefs-weather-learn-more-link = Rhagor
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

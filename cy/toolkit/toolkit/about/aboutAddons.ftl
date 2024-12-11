@@ -65,7 +65,7 @@ detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
 detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Darllen rhagor</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Angen Mynediad at Ffenestri Preifat
-detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Dysgu mwy</a>
+detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Rhagor</a>
 detail-private-browsing-on =
     .label = Caniatáu
     .tooltiptext = Caniatáu wrth Bori Preifat
