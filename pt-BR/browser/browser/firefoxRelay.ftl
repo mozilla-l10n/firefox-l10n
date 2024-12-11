@@ -51,9 +51,25 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Evite spam com uma máscara de email gratuita
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Evite spam, ocultando seu endereço de email real com uma <label data-l10n-name="firefox-relay-learn-more-url">máscara de email</label> gratuita. Emails <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste site</label> continuarão sendo enviados para sua caixa de entrada, mas mantendo seu endereço de email oculto.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primeiro, entre na sua conta, ou crie uma, para usar uma máscara de email
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Criar uma conta
+    .accesskey = C
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Obtenha uma máscara de email gratuita
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Proteja sua caixa de entrada de spam, usando uma <label data-l10n-name="firefox-relay-learn-more-url">máscara de email</label> gratuita para ocultar seu endereço de email real. Emails <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste site</label> continuarão sendo enviados para sua caixa de entrada, mas mantendo seu endereço de email oculto.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primeiro, entre na sua conta, ou crie uma, para usar uma máscara de email
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Criar uma conta
+    .accesskey = C
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primeiro, entre na sua conta, ou crie uma, para usar uma máscara de email
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Ao criar uma máscara de email, você declara que concorda com os <label data-l10n-name="tos-url">Termos do serviço</label> e o <label data-l10n-name="privacy-url">Aviso de privacidade</label label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Avançar
+    .accesskey = A
