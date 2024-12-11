@@ -669,6 +669,9 @@ urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
 urlbar-result-action-search-history = Chwilio'ch Hanes
 urlbar-result-action-search-tabs = Chwilio'r Tabiau
 urlbar-result-action-search-actions = Gweithredoedd Chwilio
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Agor { $group }
 
 ## Labels shown above groups of urlbar results
 
