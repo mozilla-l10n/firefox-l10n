@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Protege tu adresse email:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usa le masca email de { -relay-brand-name }
 firefox-relay-use-mask-title = Usa le masca email de { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Impedi le spam con un alias email gratuite
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Cela tu ver adresse email
 firefox-relay-opt-in-confirmation-enable-button =
