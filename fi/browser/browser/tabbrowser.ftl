@@ -206,10 +206,30 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Lisää välilehti uuteen ryhmään
+            [one] Lisää välilehti uuteen ryhmään
+           *[other] Lisää välilehdet uuteen ryhmään
+        }
+    .accesskey = u
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Lisää välilehti ryhmään
+            [one] Lisää välilehti ryhmään
+           *[other] Lisää välilehdet ryhmään
+        }
+    .accesskey = ä
+tab-group-editor-action-new-tab =
+    .label = Uusi välilehti ryhmässä
 tab-group-editor-action-new-window =
     .label = Siirrä ryhmä uuteen ikkunaan
 tab-group-editor-action-save =
     .label = Tallenna ja sulje ryhmä
+tab-group-editor-action-ungroup =
+    .label = Pura välilehtien ryhmittely
 tab-group-editor-action-delete =
     .label = Poista ryhmä
 tab-group-editor-done =
@@ -217,3 +237,13 @@ tab-group-editor-done =
     .accessKey = V
 tab-context-reopen-tab-group =
     .label = Avaa välilehtiryhmä uudelleen
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Poista ryhmästä
+            [one] Poista ryhmästä
+           *[other] Poista ryhmistä
+        }
+    .accesskey = r
