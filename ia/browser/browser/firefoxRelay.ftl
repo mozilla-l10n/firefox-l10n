@@ -28,6 +28,10 @@ firefox-relay-use-mask-title = Usa le masca email de { -relay-brand-name }
 firefox-relay-opt-in-title-a = Impedi le spam con un alias email gratuite
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Cela tu ver adresse email
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Obtene un alias email gratuite
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Protege tu cassa de ingresso de spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Usa masca email
     .accesskey = U
@@ -37,9 +41,17 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Non ora
     .accesskey = n
+firefox-relay-offer-what-fxa-and-relay-provides = Un conto disbloca le accesso a altere productos de protection del confidentialitate. Tote emails inviate a tu aliases email sera inultrate a tu real adresse email (si tu non decide blocar los).
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Non monstrar me isto de novo
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Non ora
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Impedi le spam con un alias email gratuite
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Inscriber se
     .accesskey = I
@@ -52,3 +64,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Sequente
+    .accesskey = S
