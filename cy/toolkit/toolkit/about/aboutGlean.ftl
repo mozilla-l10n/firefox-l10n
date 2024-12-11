@@ -130,6 +130,16 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Dictionary</a>.
+about-glean-about-data-list-item-about-telemetry =
+    I bori'r data sy'n cael ei gasglu gan yr hen delemetreg, ewch i
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    I bori tagiau dadfygio, edrychwch ar y  pingiau llawn, edrych ar ffrwd digwyddiad byw, neu weld metrig
+    delweddu, ymgynghorwch â'r
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    I gofnodi proffil perfformiad a gweld yr holl fetrigau a gofnodwyd, defnyddiwch
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.
