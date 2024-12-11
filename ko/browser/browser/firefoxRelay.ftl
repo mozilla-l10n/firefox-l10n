@@ -55,7 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = 무료 이메일 가리기로 스팸 방지
-firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = 무료 <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 이메일 주소를 숨겨 스팸을 방지하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 오지만 숨겨집니다.
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = 무료 <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 이메일 주소를 숨겨 스팸을 방지하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 받지만 숨겨집니다.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = 가입
@@ -64,6 +64,13 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = 무료 이메일 가리기 받기
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = 무료 <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 주소를 숨겨서 스팸으로부터 받은 편지함을 보호하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 받지만 숨겨집니다.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = 가입
+    .accesskey = S
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 이메일 가리기로 스팸으로부터 보호
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 주소를 숨겨 스팸으로부터 보호하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보내는 메일은 계속 일반 받은 편지함으로 받으며, 주소는 가려집니다.
