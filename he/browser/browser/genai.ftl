@@ -35,6 +35,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = לשאול את { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = צ’אטבוט AI לא יקבל את הבחירה המלאה שלך
+    .message =
+        { $selectionLength ->
+           *[other] בחרת בכ־{ $selectionLength } תווים. מספר התווים שניתן לשלוח לצ’אט בוט AI הוא כ־{ $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = ‏{ $provider } לא יקבל את הבחירה המלאה שלך
+    .message =
+        { $selectionLength ->
+           *[other] בחרת בכ־{ $selectionLength } תווים. מספר התווים שניתן לשלוח אל { $provider } הוא כ־{ $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = הסתרת קיצור דרך לצ’אט בוט
 
@@ -109,6 +126,5 @@ genai-onboarding-gemini-price = אפשרויות בחינם ובתשלום; נד
 genai-onboarding-huggingchat-generate = יצירת טקסט וקוד
 genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דגמים פתוחים
 genai-onboarding-huggingchat-price-2 = בחינם; נדרש חשבון לאחר מספר מסויים של בקשות
-genai-onboarding-huggingchat-price = בחינם; נדרש חשבון עבור משימות מסויימות
 genai-onboarding-lechat-generate = יצירת טקסט וקוד
 genai-onboarding-lechat-price = בחינם, נדרש חשבון
