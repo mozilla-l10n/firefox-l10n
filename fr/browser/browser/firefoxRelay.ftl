@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Protégez votre adresse e-mail :
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = utilisez les alias de messagerie de { -relay-brand-name }
 firefox-relay-use-mask-title = Utilisez les alias de messagerie de { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Évitez les e-mails indésirables grâce à un alias de messagerie gratuit
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utiliser les alias de messagerie
     .accesskey = U
@@ -33,3 +35,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Plus tard
     .accesskey = P
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
