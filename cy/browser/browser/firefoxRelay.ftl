@@ -76,3 +76,6 @@ firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Dio
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Diogelu rhag sbam trwy guddio'ch cyfeiriad e-bost go iawn gyda <label data-l10n-name="firefox-relay-learn-more-url">e-bost enwarall</label> am ddim. Bydd e-byst o <label data-l10n-name="firefox-fxa-and-relay-offer-domain">y wefan hon</label> yn dal i ddod i'ch blwch derbyn, ond gyda'ch e-bost wedi'i guddio.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Yn gyntaf, cofrestrwch neu mewngofnodwch i'ch cyfrif i ddefnyddio e-bost enwarall
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Drwy glicio “Defnyddio e-bost arallenw”, rydych yn cytuno i'r <label data-l10n-name="tos-url">Amodau Gwasanaeth</label> a'r <label data-l10n-name="privacy-url">Hysbysiad Preifatrwydd </label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Nesaf
+    .accesskey = N
