@@ -135,7 +135,7 @@ urlbar-search-tips-redirect-2 = アドレスバーで検索を始めると、{ $
 urlbar-search-tips-persist = 検索がシンプルになりました。アドレスバーで具体的な語句を用いて検索してみてください。代わりに URL を表示するには、設定の検索パネルを開いてください。
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = このショートカットを選択すると、より素早く検索できます。
+urlbar-tabtosearch-onboard = このショートカットを選択すると、必要なものを早く見つけられます。
 
 ## Local search mode indicator labels in the urlbar
 
@@ -452,7 +452,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = ブックマークをインポートする...
     .tooltiptext = ブックマークを他のブラウザーから { -brand-short-name } にインポートします。
-bookmarks-toolbar-empty-message = ブックマークをこのブックマークツールバーに配置すると、素早くアクセスできます。<a data-l10n-name="manage-bookmarks">ブックマークを管理...</a>
+bookmarks-toolbar-empty-message = ブックマークをこのブックマークツールバーに配置すると、すばやくアクセスできます。<a data-l10n-name="manage-bookmarks">ブックマークを管理...</a>
 
 ## WebRTC Pop-up notifications
 
@@ -975,9 +975,6 @@ content-analysis-panel-title = データ保護
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = データ損失から保護するため所属組織が <b>{ $agentName }</b> を利用しています。<a data-l10n-name="info">詳細情報</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = データ損失から保護するため所属組織が { $agentName } を利用しています。<a data-l10n-name="info">詳細情報</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1002,6 +999,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         拡張機能
         一部の拡張機能は許可されていません
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = 拡張機能
+    .tooltiptext =
+        拡張機能
+        一部の拡張機能が無効になっています
 
 ## Private browsing reset button
 
@@ -1060,7 +1066,7 @@ popup-warning-message =
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message =
+popup-warning-exceeded-message = 
     { $popupCount ->
        *[other] { -brand-short-name } がこのサイトで { $popupCount } 個以上のポップアップウィンドウをブロックしました。
     }
