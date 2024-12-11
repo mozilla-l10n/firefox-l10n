@@ -18,6 +18,8 @@
 
 ## Chatbot header
 
+genai-header-options-button =
+    .title = Dobrir lo menú
 genai-header-close-button =
     .title = Tampar
 
