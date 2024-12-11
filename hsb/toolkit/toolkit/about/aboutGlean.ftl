@@ -112,6 +112,9 @@ about-glean-profiler-explanation =
     Zo byšće dospołny napohlad wšěch natočenych metrikow widźał, móžeće { -profiler-brand-name } wužiwać.
     Dyrbiće najprjedy <a data-l10n-name="firefox-profiler-link">wukonowy profil registrować</a>.
     Hdyž profil registrujeće, wubjerće <q>markowy diagram</q> a hladajće na marki pod <q>Telemetrija</q>.
+about-glean-profiler-explanation-profiler =
+    We wukonowym profilu móžeće wšě zhromadźene metriki widźeć, hdy su so
+    zhromadźili a eksaktnje, kotre hódnoty su so zhromadźili. Hdyž z kursorom myški nad jednotliwymi markami wostawaće, móžeće přepruwować, hač korektna hódnota je so zhromadźiła a hač je so wuběr w prawym času stał.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-feedback-settings-only =
     .message = Nastajenja nałožene!
