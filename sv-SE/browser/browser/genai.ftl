@@ -63,11 +63,10 @@ genai-input-ask-provider =
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = AI chatbot kommer inte att få ditt fullständiga val
+    .heading = AI chatbot kommer inte att få ditt fullständiga urval
     .message =
         { $selectionLength ->
-            [one] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till AI-chatboten handlar om { $maxLength }.
-           *[other] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till AI-chatboten handlar om { $maxLength }.
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
