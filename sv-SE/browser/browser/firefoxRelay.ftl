@@ -29,7 +29,7 @@ firefox-relay-opt-in-title-a = Förhindra skräppost med ett gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Dölj din riktiga e-postadress
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
-firefox-relay-opt-in-title-b = Få en gratis e-postalias
+firefox-relay-opt-in-title-b = Få ett gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = Skydda din inkorg från skräppost
 firefox-relay-opt-in-confirmation-enable-button =
@@ -50,7 +50,7 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
     .accesskey = V
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Inte nu
-    .accesskey = I
+    .accesskey = n
 
 ## The "basic-info" variation of the Relay offer popup
 
