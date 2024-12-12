@@ -42,9 +42,16 @@ firefox-relay-opt-in-confirmation-postpone =
     .label = Şimdi değil
     .accesskey = m
 firefox-relay-offer-what-fxa-and-relay-provides = Hesap açarak, gizliliğinizi koruyan daha fazla ürüne erişebilirsiniz. E-posta maskelerinize gönderilen tüm e-postalar (istediğiniz zaman engelleyebileceğiniz şekilde) gerçek e-posta adresinize yönlendirilir.
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Bunu bir daha gösterme
+    .accesskey = B
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Şimdi değil
+    .accesskey = m
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Ücretsiz e-posta maskesiyle spam’i önleyin
 
 ## The "with-domain" variation of the Relay offer popup
 
