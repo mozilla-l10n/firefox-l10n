@@ -33,3 +33,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ہݨ نئیں
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = ہݨ کائناں
+    .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = سائن اپ
+    .accesskey = S
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = اڳلا
+    .accesskey = N

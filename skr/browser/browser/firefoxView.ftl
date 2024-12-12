@@ -167,6 +167,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = حالیہ بند تھئے ٹیباں وچ ڳولو
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ٹیب ڳولو
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = ہم وقت تھیاں ٹیباں ڳولو
 # Placeholder for the input field to search in open tabs ("search" is a verb).
