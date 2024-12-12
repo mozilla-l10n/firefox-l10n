@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = 保护您的邮箱地址：
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = 使用 { -relay-brand-name } 马甲邮箱
 firefox-relay-use-mask-title = 使用 { -relay-brand-name } 马甲邮箱
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = 使用免费马甲邮箱，免受垃圾邮件侵扰
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = 隐藏真实邮箱地址
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = 免费获取马甲邮箱
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = 保护收件箱免受垃圾邮件侵扰
 firefox-relay-opt-in-confirmation-enable-button =
     .label = 使用马甲邮箱
     .accesskey = U
@@ -33,3 +41,37 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 暂时不要
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = 登录 { -brand-product-name } 并使用马甲邮箱
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = 不再显示
+    .accesskey = D
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = 暂时不要
+    .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = 使用免费马甲邮箱，免受垃圾邮件侵扰
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = 使用免费<label data-l10n-name="firefox-relay-learn-more-url">马甲邮箱</label>，隐藏真实邮箱地址，免受垃圾邮件侵扰。<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此网站</label>无法得知您的真实邮箱地址，而您仍能收到其发来的邮件。
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = 请先注册或登录账户，以使用马甲邮箱
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = 注册
+    .accesskey = S
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = 获取免费马甲邮箱
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = 使用免费<label data-l10n-name="firefox-relay-learn-more-url">马甲邮箱</label>，隐藏真实邮箱地址，保护收件箱免受垃圾邮件侵扰。<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此网站</label>无法得知您的真实邮箱地址，而您仍能收到其发来的邮件。
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = 请先注册或登录账户，以使用马甲邮箱
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = 注册
+    .accesskey = S
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 使用马甲邮箱，免受垃圾邮件侵扰
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = 使用<label data-l10n-name="firefox-relay-learn-more-url">马甲邮箱</label>，隐藏真实邮箱地址，免受垃圾邮件侵扰。您可在掩藏真实邮箱地址的情况下，正常接收<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此网站</label>发来的邮件。
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 请先注册或登录账户，以使用马甲邮箱
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = 创建马甲邮箱即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
