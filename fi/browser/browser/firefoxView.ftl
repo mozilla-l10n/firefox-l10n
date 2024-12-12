@@ -165,19 +165,19 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = Hae
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = Etsi historiasta
+    .placeholder = Hae historiasta
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Hae äskettäin suljetuista välilehdistä
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
-    .placeholder = Etsi välilehtiä
+    .placeholder = Hae välilehtiä
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
-    .placeholder = Etsi synkronoiduista välilehdistä
+    .placeholder = Hae synkronoiduista välilehdistä
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
-    .placeholder = Etsi avoimista välilehdistä
+    .placeholder = Hae avoimista välilehdistä
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
