@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = Бетбелгілерден іздеу
 urlbar-result-action-search-history = Тарихтан іздеу
 urlbar-result-action-search-tabs = Беттерден іздеу
 urlbar-result-action-search-actions = Әрекеттерден іздеу
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = { $group } ашу
 
 ## Labels shown above groups of urlbar results
 

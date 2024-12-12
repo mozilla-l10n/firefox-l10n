@@ -24,6 +24,10 @@ firefox-relay-opt-in-title-1 = Электрондық пошта адресің�
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } эл. пошта маскасын қолдану
 firefox-relay-use-mask-title = { -relay-brand-name } эл. пошта маскасын қолдану
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Тегін эл. пошта маскасы арқылы спамның алдын алыңыз
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Нақты эл. пошта адресіңізді жасырыңыз
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Эл. пошта маскасын қолдану
     .accesskey = у
@@ -33,3 +37,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Қазір емес
     .accesskey = м
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
