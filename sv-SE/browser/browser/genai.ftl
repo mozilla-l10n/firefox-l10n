@@ -72,11 +72,10 @@ genai-shortcuts-selected-warning-generic =
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning =
-    .heading = { $provider } kommer inte att få hela ditt val
+    .heading = { $provider } får inte ditt fullständiga urval
     .message =
         { $selectionLength ->
-            [one] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till { $provider } är ungefär { $maxLength }.
-           *[other] Du har valt cirka { $selectionLength } tecken. Antalet tecken vi kan skicka till { $provider } är ungefär { $maxLength }.
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to { $provider } is about { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Dölj chatbot-genväg
