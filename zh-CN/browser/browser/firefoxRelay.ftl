@@ -75,3 +75,6 @@ firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 使
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = 使用<label data-l10n-name="firefox-relay-learn-more-url">马甲邮箱</label>，隐藏真实邮箱地址，免受垃圾邮件侵扰。您可在掩藏真实邮箱地址的情况下，正常接收<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此网站</label>发来的邮件。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 请先注册或登录账户，以使用马甲邮箱
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = 创建马甲邮箱即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = 下一步
+    .accesskey = N

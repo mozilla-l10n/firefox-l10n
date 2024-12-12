@@ -60,6 +60,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = 询问 { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI 聊天机器人无法完整获取所选内容
+    .message = 您选中了约 { $selectionLength } 个字符，我们最多可向 AI 聊天机器人发送约 { $maxLength } 个字符。
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } 无法完整获取所选内容
+    .message = 您选中了约 { $selectionLength } 个字符，我们最多可向 { $provider } 发送约 { $maxLength } 个字符。
 genai-shortcuts-hide =
     .label = 隐藏聊天机器人快捷方式
 
@@ -135,6 +146,5 @@ genai-onboarding-gemini-price = 提供免费和付费选项；需要登录账户
 genai-onboarding-huggingchat-generate = 生成文本和代码
 genai-onboarding-huggingchat-switch = 可在多个开源模型间切换
 genai-onboarding-huggingchat-price-2 = 免费；请求超过一定次数后需要登录账户
-genai-onboarding-huggingchat-price = 免费；处理部分任务需登录账户
 genai-onboarding-lechat-generate = 生成文本和代码
 genai-onboarding-lechat-price = 免费；需要登录账户
