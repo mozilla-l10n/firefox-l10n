@@ -55,7 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Impedi le spam con un alias email gratuite
-firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Impedi spam celante tu ver adresse email con un gratuite <label data-l10n-name="firefox-relay-learn-more-url">alias email</label>. Emails from <label data-l10n-name="firefox-fxa-and-relay-offer-domain">this site</label> will still come to your inbox, but with your email hidden. Emails de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> ancora arrivara a tu cassa de ingresso, ma con tu email celate.
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Impedi spam celante tu ver adresse email con un gratuite <label data-l10n-name="firefox-relay-learn-more-url">alias email</label>. Emails de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> ancora arrivara a tu cassa de ingresso, ma con tu email celate.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primo, inscribe te o accede a tu conto a usa un alias email
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Inscriber se
