@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = E-posta adresinizi koruyun:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } e-posta maskesi kullanın
 firefox-relay-use-mask-title = { -relay-brand-name } e-posta maskesi kullanın
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Ücretsiz e-posta maskesiyle spam’i önleyin
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Gerçek e-posta adresinizi gizleyin
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Ücretsiz e-posta maskenizi oluşturun
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Gelen kutunuzu spam’den koruyun
 firefox-relay-opt-in-confirmation-enable-button =
     .label = E-posta maskesi kullan
     .accesskey = k
@@ -33,3 +41,13 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Şimdi değil
     .accesskey = m
+firefox-relay-offer-what-fxa-and-relay-provides = Hesap açarak, gizliliğinizi koruyan daha fazla ürüne erişebilirsiniz. E-posta maskelerinize gönderilen tüm e-postalar (istediğiniz zaman engelleyebileceğiniz şekilde) gerçek e-posta adresinize yönlendirilir.
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
