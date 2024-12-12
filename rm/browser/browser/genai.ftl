@@ -60,6 +60,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Dumandar { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Il chatbot IA na vegn betg a retschaiver tia selecziun cumpletta
+    .message =
+        { $selectionLength ->
+           *[other] Ti has tschernì var { $selectionLength } caracters. Il dumber da caracters che nus pudain trametter al chatbot IA è radund { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } na vegn betg a retschaiver tia selecziun cumpletta
+    .message =
+        { $selectionLength ->
+           *[other] Ti has tschernì var { $selectionLength } caracters. Il dumber da caracters che nus pudain trametter a { $provider } è radund { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Zuppentar las scursanidas a chatbots
 
@@ -135,6 +152,5 @@ genai-onboarding-gemini-price = Opziuns gratuitas e cunter pajament; conto oblig
 genai-onboarding-huggingchat-generate = Generar text e code
 genai-onboarding-huggingchat-switch = Tscherner in model avert ord ina gronda schelta
 genai-onboarding-huggingchat-price-2 = Gratuit; conto obligatoric suenter in tschert dumber da dumondas
-genai-onboarding-huggingchat-price = Gratuit; conto necessari per tschertas incumbensas
 genai-onboarding-lechat-generate = Generar text e code
 genai-onboarding-lechat-price = Gratuit; conto obligatoric

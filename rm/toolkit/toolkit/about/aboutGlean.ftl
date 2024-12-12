@@ -16,6 +16,11 @@ about-glean-interface-description =
     è ina biblioteca per rimnar datas che vegn utilisada en projects da { -vendor-short-name }.
     Questa interfatscha è concepida per servir a sviluppaders e testaders che
     <a data-l10n-name="fog-link">testeschan manualmain l'instrumentaziun</a>.
+about-glean-category-about-glean = Davart { -glean-brand-name }
+about-glean-category-manual-testing = Testar manualmain
+about-glean-category-adhoc-testing = Testar ad hoc
+about-glean-category-profiler = Utilisar il profiler
+about-glean-category-about-data = Davart las datas
 about-glean-upload-enabled = Il transferiment da datas è activà.
 about-glean-upload-disabled = Il transferiment da datas è deactivà.
 about-glean-upload-enabled-local = Il transferiment da datas è activà mo per trametter datas ad in server local.
@@ -43,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = Ina explicaziun da las differentas modas da registrar e chattar datas sa chatta en il tab <strong>About Data</strong>.
 about-glean-about-testing-header = Davart ils tests
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -101,12 +107,39 @@ about-glean-adhoc-note =
     Fa stim che ti utiliseschas l'API Glean JS cun utilisar la consola dals utensils per sviluppaders.
     Quai vul dir che la categoria metrica ed il num metric èn formatads en
     <code>camelCase</code> cuntrari a las APIs da Rust e C++.
+about-glean-profiler-explanation =
+    Per visualisar tut las metricas registradas, pos ti utilisar il { -profiler-brand-name }.
+    L’emprim stos ti <a data-l10n-name="firefox-profiler-link">registrar in profil da la prestaziun</a>.
+    Uschespert che ti registreschas il profil, tscherna <q>Diagram markers</q> ed observa ils indicaturs sut <q>Telemetria</q>.
+about-glean-profiler-explanation-profiler =
+    En il profil da la prestaziun vesas ti tut las metricas rimnadas, la data da
+    registraziun e las valurs exactas rimnadas. Cun passar cun la mieur sur ils singuls
+    indicaturs, pos ti verifitgar che la valur correcta è vegnida rimnada e che
+    la rimnada è succedida il dretg mument.
 controls-button-label-verbose = Applitgar ils parameters e trametter in ping
 about-glean-feedback-settings-only =
     .message = Applitgà ils parameters!
 about-glean-feedback-settings-and-ping =
     .message = Applitgà ils parameters e tramess il ping!
 about-glean-about-data-header = Davart las datas
+about-glean-about-data-description =
+    I dat in pèr utensils che ti pos utilisar per visualisar tias datas, tut tenor
+    tge che ti tschertas.
+about-glean-about-data-description-list-intro =
+    Consultescha la glista sutvart per cas d’utilisaziun
+    specifics per mintga utensil:
+about-glean-about-data-list-item-dictionary =
+    Per navigar en la glista da las datas rimnadas da { -glean-brand-name } tenor applicaziun, per plaschair consultar il 
+    <a data-l10n-name="glean-dictionary-link">dicziunari da { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Per navigar en las datas rimnadas dal sistem vegl da telemetria, per plaschair
+    consultar <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Per navigar en ils tags da debugadi, vesair pings cumplets, suandar live il stream dad in eveniment u examinar las visualisaziuns da las metricas, per plaschair consultar il
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Per registrar in profil da la prestaziun e vesair tut las metricas registradas, per plaschair utilisar il
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Per sfegliar en la glista da las datas rimnadas, per plaschair consultar il 
     <a data-l10n-name="glean-dictionary-link">dicziunari da { -glean-brand-name }</a>.

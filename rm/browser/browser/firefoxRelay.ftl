@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Protegia tia adressa dad e-mail:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilisescha in alias dad e-mail da { -relay-brand-name }
 firefox-relay-use-mask-title = Utilisescha in alias dad e-mail da { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Evitescha messadis nungiavischads cun agid d’in alias dad e-mail gratuit
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Zuppenta ti’adressa dad e-mail reala
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Va per in alias dad e-mail gratuit
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Protegia tia chascha da posta entrada da messadis nungiavischads
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utilisar alias dad e-mail
     .accesskey = U
@@ -33,3 +41,41 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Betg ussa
     .accesskey = g
+firefox-relay-offer-what-fxa-and-relay-provides = In conto porscha access ad ulteriurs products che rinforzan la protecziun da datas. Tut ils e-mails tramess a tes alias dad e-mail vegnan renviads a tia adressa dad e-mail reala (nun che ti decidias d’als bloccar).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = S’annunziar tar { -brand-product-name } ed utilisar in alias
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Betg pli ma mussar quest messadi
+    .accesskey = d
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Betg ussa
+    .accesskey = B
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = Evitescha messadis nungiavischads cun agid d’in alias dad e-mail gratuit
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Evitescha messadis nungiavischads cun zuppentar ti’adressa dad e-mail reala cun agid dad in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail</label> gratuit. E-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> vegnan anc adina ad arrivar en tia posta entrada, ma ti’adressa dad e-mail resta zuppentada.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = L’emprim pass: ta registrescha u acceda a tes conto per utilisar in alias dad e-mail
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Sa registrar
+    .accesskey = S
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Va per in alias dad e-mail gratuit
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protegia tia posta entrada da messadis nungiavischads cun utilisar in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail</label> gratuit per zuppentar ti’adressa dad e-mail reala. E-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> vegnan anc adina ad arrivar en tia posta entrada, ma ti’adressa dad e-mail resta zuppentada.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = L’emprim pass: ta registrescha u acceda a tes conto per utilisar in alias dad e-mail
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Sa registrar
+    .accesskey = S
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Ta protegia da messadis nungiavischads cun agid d’in alias dad e-mail
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Ta protegia da messadis nungiavischads cun zuppentar ti’adressa dad e-mail reala cun agid dad in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail</label>. Ti vegns anc adina a retschaiver e-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> en tia posta entrada regulara, ma ti’adressa dad e-mail è zuppentada.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = L’emprim pass: ta registrescha u acceda a tes conto per utilisar in alias dad e-mail
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Cun crear in alias dad e-mail, acceptas ti las <label data-l10n-name="tos-url">cundiziuns d’utilisaziun</label> e las <label data-l10n-name="privacy-url">infurmaziuns davart la protecziun da datas</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Enavant
+    .accesskey = n

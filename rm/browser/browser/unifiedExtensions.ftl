@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Avrir il menu per { $extensionName }
 unified-extensions-item-message-manage = Administrar l'extensiun
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } violescha las directivas da Mozilla. L’utilisaziun po esser ristgusa.
 
 ## Extension's context menu
 

@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = Tschertgar en ils segnapaginas
 urlbar-result-action-search-history = Tschertgar en la cronologia
 urlbar-result-action-search-tabs = Tschertgar en ils tabs
 urlbar-result-action-search-actions = Tschertgar en las acziuns
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Avrir { $group }
 
 ## Labels shown above groups of urlbar results
 
