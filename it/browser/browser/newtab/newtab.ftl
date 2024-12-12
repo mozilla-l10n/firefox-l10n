@@ -456,3 +456,6 @@ newtab-topic-selection-button-pick-interests = Scegli i tuoi interessi
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Segui
+newtab-section-following-button = Stai seguendo
+newtab-section-unfollow-button = Smetti di seguire
