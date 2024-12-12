@@ -552,8 +552,6 @@ urlbar-page-action-button =
     .tooltiptext = Accións da páxina
 urlbar-revert-button =
     .tooltiptext = Mostrar o enderezo da barra de localización
-urlbar-show-page-actions-button =
-    .tooltiptext = Mostrar todas as accións da páxina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -609,6 +607,18 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Buscar con { $engine }
+urlbar-searchmode-bookmarks =
+    .label = Marcadores
+urlbar-searchmode-tabs =
+    .label = Lapelas
+urlbar-searchmode-history =
+    .label = Historial
+urlbar-searchmode-actions =
+    .label = Accións
+urlbar-searchmode-exit-button =
+    .tooltiptext = Pechar
+urlbar-searchmode-popup-description = Esta vez busca con:
+urlbar-searchmode-popup-search-settings = Axustes da busca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -618,6 +628,9 @@ urlbar-result-action-search-bookmarks = Buscar nos marcadores
 urlbar-result-action-search-history = Buscar no historial
 urlbar-result-action-search-tabs = Buscar nas lapelas
 urlbar-result-action-search-actions = Accións de busca
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Abrir { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -946,6 +959,10 @@ unified-extensions-button-quarantined =
         Extensións
         Non se permiten algunhas extensións
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1017,6 +1034,7 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Non se puido abrir o diálogo de ficheiros de Windows. Non se puido seleccionar ningún ficheiro nin cartafol.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

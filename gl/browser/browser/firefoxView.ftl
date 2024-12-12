@@ -173,6 +173,7 @@ firefoxview-search-results-empty = Non hai resultados para «{ $query }»
 firefoxview-sort-history-by-date-label = Ordenar pola data
 firefoxview-sort-history-by-site-label = Ordenar polo sitio
 firefoxview-sort-open-tabs-by-recency-label = Ordenar por actividade recente
+firefoxview-sort-open-tabs-by-order-label = Ordenar por orde das tabulacións
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -198,6 +199,7 @@ firefoxview-view-more-browsing-history = Ver máis historial de navegación
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Volva a onde estivo
+firefoxview-history-empty-description = A medida que navegues, as páxinas que visites listaranse aquí.
 
 ##
 

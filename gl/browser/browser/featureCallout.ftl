@@ -47,6 +47,37 @@ callout-pdfjs-draw-button = Entendido!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Non quería pechar esa lapela?
+fx-view-discoverability-primary-button-label = Abrir { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Rexeitar
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Non volver mostrar esta recomendación
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Mostra menos recomendacións
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Xestionar a configuración
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Mostra os títulos das lapelas na barra lateral
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Axuda a mellorar { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Como estás de satisfeito coa experiencia da barra lateral en { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Política de privacidade
+sidebar-callout-survey-very-satisfied = Moi satisfeito
+sidebar-callout-survey-satisfied = Satisfeito
+sidebar-callout-survey-neutral = Neutral
+sidebar-callout-survey-dissatisfied-2 = Insatisfeito
+sidebar-callout-survey-very-dissatisfied-2 = Moi insatisfeito
+sidebar-callout-survey-dont-use-it = Non o uso
+sidebar-callout-survey-strongly-agree = Totalmente de acordo
+sidebar-callout-survey-agree = De acordo
+sidebar-callout-survey-disagree = En desacordo
+sidebar-callout-survey-strongly-disagree = Moi en desacordo
+sidebar-callout-survey-none-of-above = Ningunha das anteriores
+sidebar-callout-survey-submit = Enviar
+sidebar-callout-survey-thank-you = Grazas polos teus comentarios!
