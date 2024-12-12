@@ -5,6 +5,9 @@
 popup-notification-learn-more = ٻیا سِکھو
 popup-notification-more-actions-button =
     .aria-label = ودھیک عمل
+popup-notification-default-button2 =
+    .label = ٹھیک ہے
+    .accesskey = O
 popup-notification-default-button =
     .label = ٹھیک ہے!
     .accesskey = O

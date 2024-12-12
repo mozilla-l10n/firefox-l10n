@@ -110,6 +110,10 @@ tabbrowser-confirm-close-tabs-with-key-button = چھوڑ ݙیو { -brand-short-n
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = چھوڑݨ کنوں پہلے { $quitKey } دے نال تصدیق کرو
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = کھولݨ دی تصدیق کرو
@@ -191,6 +195,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = منسوخ
     .accesskey = C
-tab-group-editor-create =
-    .label = بݨاؤ
-    .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-done =
+    .label = تھی ڳیا
+    .accessKey = D
