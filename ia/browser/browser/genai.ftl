@@ -69,6 +69,16 @@ genai-shortcuts-selected-warning-generic =
             [one] Tu ha seligite re { $selectionLength } characteres.
            *[other] Le numero de characteres que nos pote inviar al robot confabulator IA es circa { $maxLength }
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } non recipera tu selection complete
+    .message =
+        { $selectionLength ->
+            [one] Tu ha seligite circa { $selectionLength } character. Le numero de characteres que nos pote inviar a { $provider } es circa { $maxLength }.
+           *[other] Tu ha seligite circa { $selectionLength } characteres. Le numero de characteres que nos pote inviar a { $provider } es circa { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Celar via breve pro chatbot
 
