@@ -73,6 +73,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Šćitajśo pśed spamom z e-mailoweju masku
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Schowajśo swóju napšawdnu adresu z <label data-l10n-name="firefox-relay-learn-more-url">e-mailoweju masku</label>, aby spamoju zajźował. Dostanjośo hyšći mejlki z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tutoho sydła</label> w swójom normalnem dochaźe posta, z wašeju maskěrowaneju adresu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Gaž e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =

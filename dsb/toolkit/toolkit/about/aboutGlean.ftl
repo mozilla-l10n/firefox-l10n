@@ -112,6 +112,9 @@ about-glean-profiler-explanation =
     Aby dopołny naglěd wšych nagratych metrikow wiźeł, móžośo { -profiler-brand-name } wužywaś.
     Musyśo nejpjerwjej <a data-l10n-name="firefox-profiler-link">wugbaśowy profil registrěrowaś</a>.
     Gaž profil registrěrujośo, wubjeŕśo <q>markowy diagram</q> a glědajśo na marki pód <q>Telemetrija</q>.
+about-glean-profiler-explanation-profiler =
+    We wugbaśowem profilu móžośo wšykne zgromaźone metriki wiźeś, gdy su se
+    zgromaźili a eksaktnje, kótare gódnoty su se zgromaźili. Gaž z kursorom myški nad jadnotliwymi markami wóstawaśo, móžośo pśeglědowaś, lěc korektna gódnota jo se zgromaźiła a lěc jo se wuběrk w pšawem casu stał.
 controls-button-label-verbose = Nastajenja nałožyś a ping wótpósłaś
 about-glean-feedback-settings-only =
     .message = Nastajenja nałožone!
