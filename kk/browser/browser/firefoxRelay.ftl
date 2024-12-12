@@ -28,6 +28,10 @@ firefox-relay-use-mask-title = { -relay-brand-name } эл. пошта маска
 firefox-relay-opt-in-title-a = Тегін эл. пошта маскасы арқылы спамның алдын алыңыз
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Нақты эл. пошта адресіңізді жасырыңыз
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Тегін эл. пошта маскасын алыңыз
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Кіріс бумаңызды спамнан қорғаңыз
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Эл. пошта маскасын қолдану
     .accesskey = у
@@ -37,12 +41,29 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Қазір емес
     .accesskey = м
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Бұны маған қайта көрсетпеу
+    .accesskey = п
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Қазір емес
+    .accesskey = м
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Тегін эл. пошта маскасы арқылы спамның алдын алыңыз
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Тіркелгіні жасау
+    .accesskey = Т
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Тегін эл. пошта маскасын алыңыз
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Тіркелгіні жасау
+    .accesskey = Т
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Келесі
+    .accesskey = К

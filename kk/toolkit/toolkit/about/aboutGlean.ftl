@@ -16,6 +16,10 @@ about-glean-interface-description =
      — бұл { -vendor-short-name } жобаларында пайдаланылатын деректер жинау кітапханасы.
     Бұл интерфейс әзірлеушілер мен сынақшылар қолмен
     <a data-l10n-name="fog-link">құралдарды сынау</a> үшін пайдалануға арналған.
+about-glean-category-manual-testing = Қолмен тестілеу
+about-glean-category-adhoc-testing = Арнайы тестілеу
+about-glean-category-profiler = Профильдеушіні пайдалану
+about-glean-category-about-data = Деректер туралы
 about-glean-upload-enabled = Деректерді жүктеп салу іске қосулы.
 about-glean-upload-disabled = Деректерді жүктеп салу сөндірулі.
 about-glean-upload-enabled-local = Деректерді жүктеп салу тек жергілікті серверге жіберу үшін іске қосулы.
