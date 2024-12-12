@@ -357,7 +357,7 @@ onboarding-easy-setup-security-and-privacy-subtitle = ჩვენი ბრა�
 onboarding-mobile-download-security-and-privacy-title = დაშიფრეთ ყველაფერი მოწყობილობებს შორის გადართვისას
 onboarding-mobile-download-security-and-privacy-subtitle = დასინქრონებისას { -brand-short-name } შიფრავს თქვენს პაროლებს, სანიშნებს და ა. შ. ამასთანავე, ჩანართების წამოღებაც შეგიძლიათ სხვა მოწყობილობებიდან.
 # Gratitude screen
-onboarding-gratitude-security-and-privacy-title = { -brand-short-name } თქვენით სულდგმულობს
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } თქვენს გვერდშია
 onboarding-gratitude-security-and-privacy-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name } არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
 # Sign up or Sign in screen
 onboarding-sign-up-title = დაასინქრონეთ მონაცემები მოწყობილობს შორის
