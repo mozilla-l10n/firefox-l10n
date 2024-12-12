@@ -25,7 +25,7 @@ firefox-relay-opt-in-title-1 = Chráňte svoju e‑mailovú adresu:
 firefox-relay-opt-in-subtitle-1 = použite e‑mailovú masku služby { -relay-brand-name }
 firefox-relay-use-mask-title = Použite e‑mailovú masku služby { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
-firefox-relay-opt-in-title-a = Zabráňte spamu pomocou bezplatnej e‑mailovej masky
+firefox-relay-opt-in-title-a = Zabráňte nevyžiadanej pošte pomocou bezplatnej e‑mailovej masky
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Skryte svoju skutočnú e‑mailovú adresu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
@@ -42,13 +42,16 @@ firefox-relay-opt-in-confirmation-postpone =
     .label = Teraz nie
     .accesskey = T
 firefox-relay-offer-what-fxa-and-relay-provides = Účet odomkne prístup k ďalším produktom na ochranu súkromia. Všetky e‑maily odoslané na vaše e‑mailové masky budú preposlané na vašu skutočnú e‑mailovú adresu (pokiaľ sa ich nerozhodnete zablokovať).
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Nabudúce nezobrazovať
+    .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Teraz nie
     .accesskey = T
 
 ## The "basic-info" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-basic-info = Zabráňte spamu pomocou bezplatnej e‑mailovej masky
+firefox-relay-and-fxa-popup-notification-header-basic-info = Zabráňte nevyžiadanej pošte pomocou bezplatnej e‑mailovej masky
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Zaregistrovať sa
@@ -57,6 +60,12 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Získajte bezplatnú e‑mailovú masku
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Chráňte svoju doručenú poštu pred nevyžiadanou poštou pomocou bezplatnej <label data-l10n-name="firefox-relay-learn-more-url">e‑mailovej masky</label> na skrytie svojej skutočnej adresy. E‑maily z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tejto lokality</label> budú stále prichádzať do vašej doručenej pošty, ale bez odhalenia vašej skutočnej adresy.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Zaregistrovať sa
+    .accesskey = Z
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Chráňte sa pred nevyžiadanou poštou pomocou e‑mailovej masky
