@@ -653,6 +653,9 @@ urlbar-result-action-search-bookmarks = Buscar marcadores
 urlbar-result-action-search-history = Buscar Historial
 urlbar-result-action-search-tabs = Buscar pestañas
 urlbar-result-action-search-actions = Buscar acciones
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Abrir { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -1006,6 +1009,9 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Extensiones
+    .tooltiptext = Extensiones Algunas extensiones están deshabilitadas
 
 ## Private browsing reset button
 
