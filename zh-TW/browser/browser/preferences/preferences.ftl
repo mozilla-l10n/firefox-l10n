@@ -99,7 +99,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> 此設定�
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{ $name }</strong> 必須開啟容器分頁功能。
+extension-controlling-privacy-containers = 必須開啟容器分頁功能才能使用 <img data-l10n-name="icon"/> <strong>{ $name }</strong>。
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
@@ -410,11 +410,11 @@ update-application-title = { -brand-short-name } 更新
 update-application-description = 保持更新 { -brand-short-name }，獲得最佳效能、穩定度以及安全性。
 # Variables:
 # $version (string) - Firefox version
-update-application-version = { $version } 版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
+update-application-version = { $version } 版<a data-l10n-name="learn-more">有什麼新鮮事</a>
 update-history =
     .label = 顯示更新紀錄…
     .accesskey = p
-update-application-allow-description = 讓 { -brand-short-name }:
+update-application-allow-description = 讓 { -brand-short-name }：
 update-application-auto =
     .label = 自動安裝更新（推薦）
     .accesskey = A
