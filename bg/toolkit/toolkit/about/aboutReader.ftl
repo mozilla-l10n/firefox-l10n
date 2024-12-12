@@ -4,14 +4,12 @@
 
 about-reader-loading = Зареждане…
 about-reader-load-error = Отварянето на статията е неуспешно
-
 about-reader-color-scheme-light = Светла
     .title = Светла тема
 about-reader-color-scheme-dark = Тъмна
     .title = Тъмна тема
 about-reader-color-scheme-sepia = Сепия
     .title = Тема сепия
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -41,10 +39,21 @@ about-reader-toolbar-lineheightplus =
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Серифен
-about-reader-font-type-sans-serif = Несерифен
+about-reader-font-type-sans-serif = Безсерифен
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Затваря изгледа за четене
 about-reader-toolbar-type-controls = Управление на шрифта
 about-reader-toolbar-savetopocket = Запазване в { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+

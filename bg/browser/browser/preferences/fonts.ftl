@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Шрифтове
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрифтове за
     .accesskey = з
-
 fonts-langgroup-arabic =
     .label = Арабски
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Пропорционален
     .accesskey = р
-
 fonts-default-serif =
     .label = Серифен
 fonts-default-sans-serif =
     .label = Безсерифен
-
 fonts-proportional-size = Големина
     .accesskey = Г
-
 fonts-serif = Серифен
     .accesskey = ф
-
-fonts-sans-serif = Несерифен
+fonts-sans-serif = Безсерифен
     .accesskey = е
-
 fonts-monospace = Равноширок
     .accesskey = ш
-
 fonts-monospace-size = Големина
     .accesskey = а
-
 fonts-minsize = Минимална големина
     .accesskey = л
-
 fonts-minsize-none =
     .label = Няма
-
 fonts-allow-own =
     .label = Страниците могат да избират собствен шрифт вместо избраните по-горе
     .accesskey = м
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
