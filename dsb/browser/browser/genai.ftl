@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Wujasniśo to
     .value = Pšosym wujasniśo głowne koncepty w toś tom wuběrku z jadnorymi słowami. Wužywajśo teke pśikłady.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Korigěrowaś
+    .value = Pšosym pśepytajśo wuběrk za pšawopisnymi a gramatiskimi zmólkami. Identificěrujśo zmólki a stajśo skorigěrowanu wersiju teksta k dispoziciji. Wobchowajśo wóznam a faktowu dokradnosć a wudajśo nejpjerwjej lisćinu narazonych korekturow, slědowanu pśez kóńcnu, skorigěrowanu wersiju teksta.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
