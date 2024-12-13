@@ -46,12 +46,28 @@ callout-pdfjs-draw-button = گرفتم!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = آیا به طور تصادفی زبانه را بسته‌اید؟
+fx-view-discoverability-subtitle = آن را به سرعت می‌توانید اینجا پیدا کرده و باز کنید. ما سابقه زبانه‌های بسته شده شما را نگه می‌داریم.
+fx-view-discoverability-primary-button-label = باز کردن { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = رد کردن
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = این توصیه را دیگر نشان نده
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = توصیه‌های کمتری نشان بده
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = مدیریت تنظیمات
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = عنوان زبانه‌ها را در نوار کناری نشان بده
+sidebar-button-callout-subtitle = از دکمه نوار کناری برای گسترش نوار کناری استفاده کنید تا عنوان زبانه‌ها را ببینید.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = به بهبود { -brand-short-name } کمک کنید
+sidebar-callout-survey-satisfaction-question = چقدر از تجربه نوار کناری در { -brand-short-name } راضی هستید؟
+sidebar-callout-survey-privacy-notice-link = نکات حفظ محرمانگی
+sidebar-callout-survey-very-satisfied = بسیار راضی
