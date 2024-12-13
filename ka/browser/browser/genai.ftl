@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = ამიხსენი
     .value = გთხოვ გადმომცე მონიშნულის ძირითადი აზრი ადვილად გასაგები სიტყვებით. ამასთანავე მაგალითების მოყვანით.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = გასწორება
+    .value = გაასწორე მონიშნულ ნაწერში გრამატიკული და მართლწერის უზუსტობები. იპოვე შეცდომები და წარმოადგინე გამართული ტექსტი. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა, იქვე გამოიტანე ჯერ შემოთავაზებული შესწორებების ჩამონათვალი და შემდეგ საბოლოო, გამართული სახით.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,15 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = გიპასუხებთ { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-თანამოსაუბრე სრულად ვერ გაეცნობა მონიშნულს.
+    .message =
+        { $selectionLength ->
+            [one] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. AI-თანამოსაუბრეს კი შეიძლება გაეგზავნოს მხოლოდ { $maxLength }.
+           *[other] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. AI-თანამოსაუბრეს კი შეიძლება გაეგზავნოს მხოლოდ { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = თანამოსაუბრის მალსახმობის დამალვა
 
