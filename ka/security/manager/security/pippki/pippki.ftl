@@ -103,4 +103,4 @@ set-password-reminder = მნიშვნელოვანია: თუ ს�
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = გთხოვთ, დაადასტუროთ საცნობი „{ $tokenName }“. თუ როგორ, ეს დამოკიდებულია თავად საცნობზე (მაგალითად, თითის ანაბეჭდის წამკითხველის ან კოდის შემტანი კლავიატურის მეშვეობით).
+protected-auth-alert = გთხოვთ, დაადასტუროთ საშვი „{ $tokenName }“. თუ როგორ, ეს დამოკიდებულია თავად საშვზე (მაგალითად, თითის ანაბეჭდის წამკითხველით ან კოდის ამკრეფით).
