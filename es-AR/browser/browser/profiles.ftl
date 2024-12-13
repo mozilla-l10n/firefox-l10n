@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Seleccione el perfil de usuario
 profile-window-heading = Elija un perfil de { -brand-short-name }
 profile-window-body = Mantenga su navegación personal y laboral, incluyendo cosas como contraseñas y marcadores, totalmente separados. O cree perfiles para todos los usuarios de este dispositivo.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Seleccionar un perfil al abrir { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Mostrar esto cuando se abra { -brand-short-name }
 profile-window-create-profile = Crear un perfil
