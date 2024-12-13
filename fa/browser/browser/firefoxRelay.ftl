@@ -18,12 +18,24 @@ firefox-relay-opt-in-title-1 = محافظت از نشانی رایانامه ش�
 firefox-relay-opt-in-subtitle-a = پنهان کردن نشانی رایانامه واقعی شما
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = از صندوق ورودی خود در برابر هرزنامه محافظت کنید
+firefox-relay-opt-in-confirmation-disable =
+    .label = دیگر نمایش داده نشود
+    .accesskey = ن
+firefox-relay-opt-in-confirmation-postpone =
+    .label = اکنون نه
+    .accesskey = ا
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = نام‌نویسی
+    .accesskey = ن
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = نام‌نویسی
+    .accesskey = ن
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
