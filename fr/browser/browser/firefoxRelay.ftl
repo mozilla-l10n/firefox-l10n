@@ -26,6 +26,10 @@ firefox-relay-opt-in-subtitle-1 = utilisez les alias de messagerie de { -relay-b
 firefox-relay-use-mask-title = Utilisez les alias de messagerie de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Évitez les e-mails indésirables grâce à un alias de messagerie gratuit
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Masquez votre véritable adresse e-mail
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Obtenez un alias de messagerie gratuit
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utiliser les alias de messagerie
     .accesskey = U
@@ -35,12 +39,29 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Plus tard
     .accesskey = P
+firefox-relay-offer-what-fxa-and-relay-provides = Un compte vous donne accès à des produits qui protègent davantage votre vie privée. Tous les e-mails envoyés à vos alias de messagerie sont transférés vers votre véritable adresse e-mail (sauf si vous décidez de les bloquer).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Souscrire à { -brand-product-name } et utiliser un alias de messagerie
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ne plus afficher ce message
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Plus tard
+    .accesskey = P
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Évitez les e-mails indésirables avec un alias de messagerie gratuit
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Évitez les e-mails indésirables en masquant votre véritable adresse e-mail avec un <label data-l10n-name="firefox-relay-learn-more-url">alias de messagerie</label> gratuit. Les e-mails provenant de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ce site</label> arriveront toujours dans votre boîte de réception, mais en masquant votre adresse e-mail.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Commencez par créer votre compte ou vous y connecter pour utiliser un alias de messagerie
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Créer un compte
+    .accesskey = C
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Obtenez un alias de messagerie gratuit
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
