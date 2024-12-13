@@ -18,6 +18,9 @@ about-glean-interface-description =
     händischen <a data-l10n-name="fog-link">Testen von Instrumentierung</a> genutzt zu werden.
 about-glean-category-about-glean = Über { -glean-brand-name }
 about-glean-category-manual-testing = Manuelles Testen
+about-glean-category-adhoc-testing = Ad-hoc-Testen
+about-glean-category-profiler = Verwenden des Profilers
+about-glean-category-about-data = Über Daten
 about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
 about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
 about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.
@@ -45,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Eine Erklärung der verschiedenen Möglichkeiten zum Aufzeichnen und Finden von Daten finden Sie im
+    Tab <strong>Über Daten</strong>.
 about-glean-about-testing-header = Über Testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =

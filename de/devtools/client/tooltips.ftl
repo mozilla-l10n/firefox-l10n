@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein positioniertes Element ist.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es nur auf ersetzte Elemente angewendet werden kann.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil <strong>overflow:hidden</strong> nicht gesetzt ist.
+inactive-css-no-size-containment = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Größen-Containment hat.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> hat keine Wirkung auf interne Tabellenelemente.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> hat keine Wirkung auf interne Tabellenelemente außer Tabellenzellen.
 inactive-css-not-table = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es keine Tabelle ist.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> hat bei diesem Element kein
 inactive-css-ruby-element = <strong>{ $property }</strong> hat keine Auswirkung auf dieses Element, da es sich um ein Ruby-Element handelt. Seine Größe wird durch die Schriftgröße des Ruby-Textes bestimmt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wird bei Highlight-Pseudo-Elementen nicht unterstützt.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wird bei ::cue-Pseudo-Elementen nicht unterstützt.
@@ -98,6 +104,7 @@ inactive-css-not-floated-fix = Versuchen Sie, die Eigenschaft <strong>float</str
 inactive-css-position-property-on-unpositioned-box-fix = Versuchen Sie, die <strong>position</strong>-Eigenschaft auf etwas anderes als <strong>static</strong> zu setzen. { learn-more }
 inactive-css-only-replaced-elements-fix = Stellen Sie sicher, dass Sie die Eigenschaft zu einem ersetzten Element hinzufügen. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Versuchen Sie, <strong>overflow:hidden</strong> hinzuzufügen. { learn-more }
+inactive-css-no-size-containment-fix = Versuchen Sie, die <strong>display</strong>-Eigenschaft auf etwas anderes als <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> oder <strong>inline-table</strong> zu setzen und stellen Sie sicher, dass es nicht innerhalb einer Tabelle oder eines Ruby-Segments ist. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Versuchen Sie, die <strong>display</strong>-Eigenschaft auf etwas anderes als <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> oder <strong>table-footer-group</strong> zu setzen. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Versuchen Sie, die <strong>display</strong>-Eigenschaft auf etwas anderes als <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> oder <strong>table-footer-group</strong> zu setzen. { learn-more }
 inactive-css-not-table-fix = Versuchen Sie, <strong>display:table</strong> oder <strong>display:inline-table</strong> hinzuzufügen. { learn-more }
