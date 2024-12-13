@@ -109,8 +109,8 @@ about-glean-adhoc-note =
     <code>camelCase</code> a diferencia de las APIs de Rust y C++.
 about-glean-profiler-explanation =
     Para ver una vista completa de todas las métricas registradas, se puede usar el { -profiler-brand-name }.
-    Primero se debe <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendimiento </a>.
-    Una vez que captures el perfil, selecciona <q> Gráfico de marcadores </q> y observa los marcadores debajo de <q> Telemetría </q>.
+    Primero se debe <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendimiento</a>.
+    Una vez capturado el perfil, hay que seleccionar <q>Gráfico de marcas</q> y observar las marcas bajo <q>Telemetría</q>.
 about-glean-profiler-explanation-profiler =
     En el perfil de rendimiento se pueden ver todas las métricas recopiladas, cuándo fueron
     recolectados y qué valores se recolectaron exactamente. Al pasar el cursor sobre marcadores individuales,
