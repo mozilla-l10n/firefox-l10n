@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Explica esto
     .value = Por favor, explica los conceptos clave de esta selección, usando palabras simples. También usa ejemplos.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Corregir
+    .value = Revisa la selección para detectar errores ortográficos y gramaticales. Identifica los errores y proporciona una versión corregida del texto. Mantiene el significado y la precisión fáctica y presenta primero la lista de correcciones propuestas, seguida de la versión final corregida del texto.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,15 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = El chatbot de IA no obtendrá su selección completa
+    .message =
+        { $selectionLength ->
+            [one] Has seleccionado aproximadamente { $selectionLength } caracteres. La cantidad de caracteres que podemos enviar al chatbot de IA es de aproximadamente { $maxLength }.
+           *[other] Has seleccionado aproximadamente { $selectionLength } caracteres. La cantidad de caracteres que podemos enviar al chatbot de IA es de aproximadamente { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ocultar el atajo del chatbot
 
@@ -128,6 +141,5 @@ genai-onboarding-gemini-analyze = Analizar imágenes (gratis) y documentos (pago
 genai-onboarding-gemini-price = Opciones gratuitas y de pago; se requiere cuenta
 genai-onboarding-huggingchat-generate = Generar texto y código
 genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de modelos abiertos
-genai-onboarding-huggingchat-price = Gratuito; se requiere una cuenta para algunas tareas
 genai-onboarding-lechat-generate = Generar texto y código
 genai-onboarding-lechat-price = Gratis; se requiere cuenta
