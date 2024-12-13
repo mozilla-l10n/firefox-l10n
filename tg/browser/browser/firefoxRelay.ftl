@@ -73,6 +73,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Ба воситаи ниқоби почтаи электронӣ худро аз мактубҳои номатлуб ҳифз намоед
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Тавассути пинҳон кардани нишонии почтаи электронии ҳақиқии худ ба воситаи <label data-l10n-name="firefox-relay-learn-more-url">ниқоби почтаи электронӣ</label>, худро аз мактубҳои номатлуб ҳифз намоед. Шумо то ҳол паёмҳои электрониро аз <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ин сомона</label> ба паёмдони ҷории худ қабул мекунед, аммо нишонии почтаи электронии шумо бо ниқоб пинҳон карда мешавад.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Барои истифода кардани ниқоби почтаи электронӣ, пеш аз ҳама, сабти ном кунед ё ба ҳисоби худ ворид шавед
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Вақте ки шумо ниқоби почтаи электрониро эҷод мекунед, шумо ҳамзамон бо <label data-l10n-name="tos-url">Шартҳои хизматрасонӣ</label> ва <label data-l10n-name="privacy-url">Огоҳномаи махфият</label> розӣ мешавед.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =

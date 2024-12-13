@@ -297,6 +297,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Шумо як навсозии муҳимро барои «{ -brand-short-name }» аз даст додед
 root-certificate-windows-background-notification-learn-more-button = Маълумоти бештар
 root-certificate-windows-background-notification-update-button = Навсозӣ кардани «{ -brand-short-name }»
 
@@ -309,6 +310,7 @@ fxa-menu-message-sign-up-button = Бақайдгирӣ
 fxa-menu-message-sync-devices-primary-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-sync-devices-collapsed-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-backup-data-primary-text = Сохтани нусхаи эҳтиётии маълумоти браузери шумо
+fxa-menu-message-backup-data-secondary-text = Хатбаракҳо, ниҳонвожаҳо ва маълумоти дигарро дар ҳамаи дастгоҳҳои худ ба таври худкор муҳофизат намоед.
 fxa-menu-message-backup-data-collapsed-text = Сохтани нусхаи эҳтиётии маълумоти браузер
 fxa-menu-message-backup-sync-primary-text = Маълумоти худро ба таври бехатар нигоҳ доред ва ҳамоҳанг созед
 fxa-menu-message-backup-sync-collapsed-text = Ҳамоҳангсозӣ ва сохтани нусхаи эҳтиётии маълумот
