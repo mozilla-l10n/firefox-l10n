@@ -63,7 +63,7 @@ autofill-address-neighborhood = სამეზობლო
 autofill-address-village-township = სოფელი ან დაბა
 autofill-address-island = კუნძული
 # Used in IE
-autofill-address-townland = დასახლებული პუნქტი
+autofill-address-townland = დასახლება
 
 ## address-level-2 names
 
