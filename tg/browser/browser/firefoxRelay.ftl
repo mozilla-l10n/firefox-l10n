@@ -41,9 +41,20 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ҳоло не
     .accesskey = Ҳ
+firefox-relay-offer-what-fxa-and-relay-provides = Шумо ба воситаи ҳисоб ба маҳсулоте, ки махфияти шуморо муҳофизат мекунанд, дастрасӣ пайдо мекунед. Ҳамаи паёмҳои электроние, ки ба ниқобҳои почтаи электронии шумо фиристода мешаванд, ба нишонии почтаи электронии ҳақиқии шумо интиқол дода мешаванд (агар шумо қарор надиҳед, ки онҳоро маҳкам кунед).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Ба «{ -brand-product-name }» ворид шавед ва аз ниқоб истифода баред
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Дигар нишон дода нашавад
+    .accesskey = Д
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ҳоло не
+    .accesskey = Ҳ
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Ба воситаи ниқоби почтаи электронии ройгон худро аз мактубҳои номатлуб ҳифз намоед
 
 ## The "with-domain" variation of the Relay offer popup
 
