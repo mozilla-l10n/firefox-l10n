@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } — выбор профиля по�
 profile-window-heading = Выберите профиль { -brand-short-name }
 profile-window-body = Полностью разделите работу и личный просмотр, включая пароли и закладки. Или создайте профили для всех, кто использует это устройство.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Выбрать профиль при открытии { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Показывать это при открытии { -brand-short-name }
 profile-window-create-profile = Создать профиль
