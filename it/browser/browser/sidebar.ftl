@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Nascondi la barra laterale
     .label = Barre laterali
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Espandi la barra laterale ({ $shortcut })
+    .label = Barre laterali
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Comprimi la barra laterale ({ $shortcut })
+    .label = Barre laterali
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Mostra la barra laterale ({ $shortcut })
+    .label = Barre laterali
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Nascondi la barra laterale ({ $shortcut })
+    .label = Barre laterali
