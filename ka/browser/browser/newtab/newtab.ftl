@@ -453,5 +453,6 @@ newtab-topic-selection-button-pick-interests = აირციეთ მის�
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
-newtab-section-follow-button = მიდევნება
+newtab-section-follow-button = თვალის მიდევნება
 newtab-section-following-button = გამოწერილი
+newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა

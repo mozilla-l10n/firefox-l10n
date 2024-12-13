@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = სანიშნების ძიე
 urlbar-result-action-search-history = ისტორიის ძიება
 urlbar-result-action-search-tabs = ჩანართების ძიება
 urlbar-result-action-search-actions = ძიების მოქმედებები
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = გაიხსნას { $group }
 
 ## Labels shown above groups of urlbar results
 

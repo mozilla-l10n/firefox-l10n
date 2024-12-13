@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } – პროფილის არ
 profile-window-heading = აირჩიეთ პროფილი – { -brand-short-name }
 profile-window-body = გამიჯნეთ საქმიანობა და პირადი მოხმარება საჭირო მონაცემების განცალკევებით, მათ შორის პაროლებისა და სანიშნების. ან შექმენით პროფილები თითოეული მომხმარებლისთვის, ვინც თქვენი მოწყობილობით სარგებლობს.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = პროფილის არჩევა, როცა { -brand-short-name } გაეშვება
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = გამოჩნდეს, როცა { -brand-short-name } გაეშვება
 profile-window-create-profile = პროფილის შექმნა
@@ -44,6 +47,7 @@ new-profile-page-input-placeholder =
     .placeholder = აირჩიეთ სახელი, როგორიცაა „სამუშაო“ ან „პირადი“
 new-profile-page-done-button =
     .label = ჩასწორება დასრულებულია
+profile-window-title-2 = { -brand-short-name } – პროფილის არჩევა
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

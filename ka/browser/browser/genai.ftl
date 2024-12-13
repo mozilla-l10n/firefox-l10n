@@ -30,7 +30,7 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = შეჯამება
-    .value = გთხოვ შეაჯამო მონიშნული ნათლად და გასაგები ენით. გამოიყენე სათაურები და ბურთლიანი სიები დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შინაარსისა და სინამდვილესთან თანხვედრის შენარჩუნებით.
+    .value = გთხოვ შეაჯამო მონიშნული ნათლად და გასაგები ენით. გამოიყენე სათაურები და ბურთლიანი სიები დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = გასაგები ენით
