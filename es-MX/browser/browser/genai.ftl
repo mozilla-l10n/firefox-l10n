@@ -73,6 +73,16 @@ genai-shortcuts-selected-warning-generic =
             [one] Has seleccionado aproximadamente { $selectionLength } caracteres. La cantidad de caracteres que podemos enviar al chatbot de IA es de aproximadamente { $maxLength }.
            *[other] Has seleccionado aproximadamente { $selectionLength } caracteres. La cantidad de caracteres que podemos enviar al chatbot de IA es de aproximadamente { $maxLength }.
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } no tendrá tu selección completa
+    .message =
+        { $selectionLength ->
+            [one] Has seleccionado { $selectionLength } caracteres. El número de caracteres que podemos enviar a { $provider } es { $maxLength }.
+           *[other] Has seleccionado { $selectionLength } caracteres. El número de caracteres que podemos enviar a { $provider } es { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ocultar el atajo del chatbot
 
@@ -114,6 +124,9 @@ genai-onboarding-claude-learn = Conoce más sobre Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Obtén más información sobre ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Saber más sobre Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Géminis
 genai-onboarding-gemini-learn = Conoce más sobre Gemini
@@ -136,10 +149,14 @@ genai-onboarding-claude-price = Opciones gratuitas y de pago; se requiere cuenta
 genai-onboarding-chatgpt-generate = Generar texto, imágenes y código
 genai-onboarding-chatgpt-analyze = Analizar documentos e imágenes
 genai-onboarding-chatgpt-price = Opciones gratuitas y de pago; se requiere una cuenta para algunos países y tareas
+genai-onboarding-copilot-generate = Generar texto, imágenes y código
+genai-onboarding-copilot-analyze = Analizar imágenes
+genai-onboarding-copilot-price = Opciones gratuitas y de pago; se requiere una cuenta para algunas tareas
 genai-onboarding-gemini-generate = Generar texto, imágenes y código
 genai-onboarding-gemini-analyze = Analizar imágenes (gratis) y documentos (pago)
 genai-onboarding-gemini-price = Opciones gratuitas y de pago; se requiere cuenta
 genai-onboarding-huggingchat-generate = Generar texto y código
 genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de modelos abiertos
+genai-onboarding-huggingchat-price-2 = Gratuito; se requiere una cuenta después de una cierta cantidad de solicitudes
 genai-onboarding-lechat-generate = Generar texto y código
 genai-onboarding-lechat-price = Gratis; se requiere cuenta

@@ -8,6 +8,11 @@
 newtab-page-title = Nueva pestaña
 newtab-settings-button =
     .title = Personaliza tu página de nueva pestaña
+newtab-personalize-settings-icon-label =
+    .title = Personalizar nueva pestaña
+    .aria-label = Ajustes
+newtab-settings-dialog-label =
+    .aria-label = Ajustes
 newtab-personalize-icon-label =
     .title = Personalizar la nueva pestaña
     .aria-label = Personalizar la nueva pestaña
@@ -111,6 +116,10 @@ newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Eliminar de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nuestros patrocinadores y tu privacidad
+newtab-menu-about-fakespot = Acerca de { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloquear
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -309,6 +318,8 @@ newtab-wallpaper-dark-panda = Panda rojo escondido en el bosque
 newtab-wallpaper-dark-sky = Paisaje citadino con un cielo nocturno
 newtab-wallpaper-dark-mountain = Paisaje montañoso
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque
+newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de hierba con un paisaje montañoso brumoso
 
 ## Solid Colors
 
@@ -434,3 +445,11 @@ newtab-topic-selection-button-maybe-later = Quizá más tarde
 newtab-topic-selection-privacy-link = Conoce cómo protegemos y administramos los datos
 newtab-topic-selection-button-update-interests = Actualiza tus intereses
 newtab-topic-selection-button-pick-interests = Elige tus intereses
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Seguir
+newtab-section-following-button = Siguiendo
+newtab-section-unfollow-button = Dejar de seguir

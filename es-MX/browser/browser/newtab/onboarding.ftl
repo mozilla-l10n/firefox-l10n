@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Usa un navegador respaldado por una org
 mr2022-onboarding-get-started-primary-subtitle = Nuestra última versión está diseñada pensando en ti, lo que hace que navegar por la web sea más fácil que nunca. Está repleto de funciones que creemos que te encantarán.
 mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuración ultrarrápida
 mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como quieras. Agrega tus marcadores, contraseñas y más desde tu antiguo navegador.
@@ -356,6 +358,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Cuando tengas todo si
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te respalda
 onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con tu apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronizar tus datos entre dispositivos
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +419,6 @@ onboarding-genai-sidebar-title = Prueba un chatbot de IA en la barra lateral
 onboarding-genai-sidebar-subtitle = Resume contenido web, genera ideas, redacta mensajes, todo mientras navegas. Elige entre varios proveedores y cámbialos en cualquier momento. <a data-l10n-name="learn-more">Saber más</a>.—
 onboarding-genai-sidebar-primary-button = Elige un chatbot
 onboarding-genai-sidebar-secondary-button = Empieza a navegar
+
+## New user onboarding checklist
+

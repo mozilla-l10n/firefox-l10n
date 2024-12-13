@@ -298,8 +298,48 @@ root-certificate-succession-infobar-secondary-button =
     .label = Después
     .accesskey = L
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Te perdiste una actualización importante de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Algunas partes del navegador dejarán de funcionar pronto si no lo actualizas. Ahora es un buen momento para obtener nuestras últimas protecciones y funciones.
+root-certificate-windows-background-notification-learn-more-button = Saber más
+root-certificate-windows-background-notification-update-button = Actualizar { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
     .title = Cerrar
     .aria-label = Cerrar
+fxa-menu-message-sign-up-button = Registrarse
+fxa-menu-message-sync-devices-primary-text = Sincronizar todos tus dispositivos
+fxa-menu-message-sync-devices-secondary-text = Obtén tu información al instante — como marcadores y contraseñas — en cualquier lugar en que uses { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sincronizar todos tus dispositivos
+fxa-menu-message-backup-data-primary-text = Respaldar los datos del navegador
+fxa-menu-message-backup-data-secondary-text = Protege automáticamente marcadores, contraseñas y otra información en todos tus dispositivos.
+fxa-menu-message-backup-data-collapsed-text = Realiza una copia de seguridad de los datos del navegador
+fxa-menu-message-backup-sync-primary-text = Mantén tus datos seguros y sincronizados
+fxa-menu-message-backup-sync-secondary-text = La sincronización hace una copia de seguridad de la mayoría de los datos para que se pueda acceder a ellos desde cualquier lugar donde se use { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronizar y respaldar datos
+fxa-menu-message-mobile-primary-text = Enviar pestañas a tu teléfono
+fxa-menu-message-mobile-secondary-text = Continúa tu trabajo instantáneamente donde lo dejaste cuando sincronizas tus pestañas con un dispositivo móvil.
+fxa-menu-message-mobile-collapsed-text = Sincronizar con tu teléfono
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Te damos la bienvenida de nuevo
+multi-cta-fox-doodle-set-default-checkbox = Establecer { -brand-short-name } como predeterminado
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fijar { -brand-short-name } al menú Inicio
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } en el Dock
+       *[other] Fijar { -brand-short-name } en la barra de tareas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Empezar a navegar
+multi-cta-fox-doodle-main-browser-primary-button-label = Hacer de { -brand-short-name } mi navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Un recordatorio rápido de que puedes mantener tu navegador, enfocado en la privacidad, favorito a un solo clic de distancia.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Mantén tu navegador favorito centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y manténlo en tu Dock.
+       *[other] Mantén tu navegador favorito centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu barra de tareas.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu menú inicio.
