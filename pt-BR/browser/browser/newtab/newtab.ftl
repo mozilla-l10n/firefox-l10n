@@ -452,3 +452,4 @@ newtab-topic-selection-button-pick-interests = Escolha seus interesses
 
 newtab-section-follow-button = Seguir
 newtab-section-following-button = Seguindo
+newtab-section-unfollow-button = Parar de seguir
