@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Brûkersprofyl kieze
 profile-window-heading = Kies in { -brand-short-name }-profyl
 profile-window-body = Hâld jo wurk en persoanlike navigaasje, ynklusyf saken lykas wachtwurden en blêdwizers, folslein skieden. Of meitsje profilen foar elkenien dy’t dit apparaat brûkt.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Kies in profyl wannear { -brand-short-name } iepene wurdt
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Dit toane wannear’t { -brand-short-name } iepene wurdt
 profile-window-create-profile = In profyl oanmeitsje
