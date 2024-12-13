@@ -26,6 +26,6 @@ confirmation-hint-screenshot-copied = Екранната снимка е коп�
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
     { $tabCount ->
-        [one] Затворен { $tabCount } раздел
-       *[other] Затворени { $tabCount } раздела
+        [one] Затворен е { $tabCount } раздел
+       *[other] Затворени са { $tabCount } раздела
     }

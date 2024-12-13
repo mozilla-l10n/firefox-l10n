@@ -5,6 +5,8 @@
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Освобождаване на памет и прекъсване на процеси
 about-processes-shutdown-tab =
     .title = Затваряне на раздела
 
