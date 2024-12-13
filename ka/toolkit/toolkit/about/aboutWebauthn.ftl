@@ -82,8 +82,15 @@ about-webauthn-update-button = განახლება
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = მომხმარებლის დადასტურება
+about-webauthn-auth-option-up = მომხმარებლის წვდომა
+about-webauthn-auth-option-clientpin = კლიენტის PIN-კოდი
+about-webauthn-auth-option-rk = მუდმივი გასაღები
+about-webauthn-auth-option-plat = სისტემური მოწყობილობა
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = ბრძანების ნებართვები (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = არაა MakeCredential/GetAssertion ნებართვების მქონე კლიენტი PIN-კოდით
+about-webauthn-auth-option-largeblobs = დიდი Blobs
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
