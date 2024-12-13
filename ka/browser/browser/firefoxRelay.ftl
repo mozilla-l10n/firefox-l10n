@@ -8,7 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name } ვერ ახერხებს ახალი ნიღბის დამზადებას. HTTP-შეცდომის კოდი: { $status }.
+firefox-relay-mask-generation-failed = { -relay-brand-name } ვერ ახერხებს ახალი ნიღბის შედგენას. HTTP-შეცდომის კოდი: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ვერ ახერხებს განმეორებით გამოყენებადი ნიღბის პოვნას. HTTP-შეცდომის კოდი: { $status }.
 
 ##
@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = დაიცავით საკუთარი
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
 firefox-relay-use-mask-title = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = აირიდეთ ჯართი ელფოსტის უფასო შენიღბვით.
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = დაფარეთ თქვენი ნამდვილი ელფოსტა
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = მიიღეთ უფასო ნიღაბი
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = დაიცავით საფოსტო ყუთი ჯართისგან
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ელფოსტის ნიღბის გამოყენება
     .accesskey = ფ
@@ -33,3 +41,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ახლა არა
     .accesskey = ა
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

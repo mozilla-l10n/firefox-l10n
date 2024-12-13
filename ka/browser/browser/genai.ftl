@@ -34,7 +34,7 @@ genai-prompts-summarize =
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = გასაგები ენით
-    .value = გთხოვ გადმოსცე მონიშნული მოკლე წინადადებებითა და ადვილი სიტყვებით. შინაარსისა და სინამდვილესთან თანხვედრის შენარჩუნებით.
+    .value = გთხოვ გადმოსცე მონიშნული მოკლე წინადადებებითა და ადვილი სიტყვებით. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = გამომკითხე
@@ -72,6 +72,16 @@ genai-shortcuts-selected-warning-generic =
         { $selectionLength ->
             [one] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. AI-თანამოსაუბრეს კი შეიძლება გაეგზავნოს მხოლოდ { $maxLength }.
            *[other] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. AI-თანამოსაუბრეს კი შეიძლება გაეგზავნოს მხოლოდ { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } სრულად ვერ გაეცნობა მონიშნულს.
+    .message =
+        { $selectionLength ->
+            [one] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. { $provider } კი მიიღებს მხოლოდ { $maxLength }-ს.
+           *[other] თქვენ მიერ მონიშნული შედგება { $selectionLength } ასონიშნისგან. { $provider } კი მიიღებს მხოლოდ { $maxLength }-ს.
         }
 genai-shortcuts-hide =
     .label = თანამოსაუბრის მალსახმობის დამალვა
