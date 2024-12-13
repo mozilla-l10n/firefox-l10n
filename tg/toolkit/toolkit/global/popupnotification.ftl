@@ -5,6 +5,9 @@
 popup-notification-learn-more = Маълумоти бештар
 popup-notification-more-actions-button =
     .aria-label = Амалҳои бештар
+popup-notification-default-button2 =
+    .label = ХУБ
+    .accesskey = Х
 popup-notification-default-button =
     .label = ХУБ!
     .accesskey = O

@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Нест кардан аз { -pocket-brand-name }
 newtab-menu-archive-pocket = Бойгонӣ кардан ба { -pocket-brand-name }
 newtab-menu-show-privacy-info = Сарпарастони мо ва махфияти шумо
 newtab-menu-about-fakespot = Дар бораи «{ -fakespot-brand-name }»
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Манъ кардан
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -436,3 +439,8 @@ newtab-topic-selection-button-maybe-later = Шояд дертар
 newtab-topic-selection-privacy-link = Бифаҳмед, ки чӣ тавр мо маълумотро ҳифз ва идора мекунем
 newtab-topic-selection-button-update-interests = Манфиатҳои худро навсозӣ кунед
 newtab-topic-selection-button-pick-interests = Манфиатҳои худро интихоб кунед
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+

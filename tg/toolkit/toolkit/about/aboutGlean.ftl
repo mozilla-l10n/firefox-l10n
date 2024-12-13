@@ -15,6 +15,10 @@ about-glean-interface-description =
     «<a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>»
     китобхонаи ҷамъоварии маълумотест, ки дар лоиҳаҳои «{ -vendor-short-name }» истифода мешавад.
     Интерфейси мазкур барои таҳиягарон ва озмоишгарон барномарезӣ шудааст, то ки онҳо барои ба таври дастӣ <a data-l10n-name="fog-link">санҷидани абзорҳо</a> аз он истифода баранд.
+about-glean-category-about-glean = Дар бораи «{ -glean-brand-name }»
+about-glean-category-manual-testing = Санҷиши дастӣ
+about-glean-category-adhoc-testing = Санҷиши махсус
+about-glean-category-about-data = Дар бораи «Маълумот»
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
 about-glean-upload-disabled = Боркунии маълумот ғайрифаъол аст.
 about-glean-upload-enabled-local = Боркунии маълумот танҳо барои интиқол ба сервери маҳаллӣ фаъол аст.

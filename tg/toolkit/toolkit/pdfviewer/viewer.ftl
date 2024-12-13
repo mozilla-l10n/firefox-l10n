@@ -480,3 +480,9 @@ pdfjs-editor-alt-text-settings-close-button = Пӯшидан
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-freetext = Матн тоза карда шуд
+pdfjs-editor-undo-bar-undo-button =
+    .title = Бекор кардан
+pdfjs-editor-undo-bar-undo-button-label = Бекор кардан
+pdfjs-editor-undo-bar-close-button =
+    .title = Пӯшидан
+pdfjs-editor-undo-bar-close-button-label = Пӯшидан
