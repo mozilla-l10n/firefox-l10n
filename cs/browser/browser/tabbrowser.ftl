@@ -136,11 +136,23 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončov�
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
-tabbrowser-confirm-close-warn-shortcut-title = Ukončit { -brand-short-name } nebo zavřít aktuální panel?
+tabbrowser-confirm-close-warn-shortcut-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Ukončit { -brand-short-name(case: "acc") } nebo zavřít aktuální panel?
+       *[no-cases] Ukončit aplikaci { -brand-short-name } nebo zavřít aktuální panel?
+    }
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
-        [windows] Ukončit { -brand-short-name }
-       *[other] Ukončit { -brand-short-name }
+        [macos]
+            { -brand-short-name.case-status ->
+                [with-cases] Ukončit { -brand-short-name(case: "acc") }
+               *[no-cases] Ukončit aplikaci { -brand-short-name }
+            }
+       *[other]
+            { -brand-short-name.case-status ->
+                [with-cases] Ukončit { -brand-short-name(case: "acc") }
+               *[no-cases] Ukončit aplikaci { -brand-short-name }
+            }
     }
 tabbrowser-confirm-close-tab-only-button = Zavřít aktuální panel
 
