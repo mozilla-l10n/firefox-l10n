@@ -5,6 +5,9 @@
 profile-window-title = «{ -brand-short-name }» - Интихоби профили корбар
 profile-window-heading = Интихоби профили «{ -brand-short-name }»
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Интихоб кардани профил ҳангоми кушодани «{ -brand-short-name }»
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Вақте ки «{ -brand-short-name }» кушода мешавад, инро нишон диҳед
 profile-window-create-profile = Эҷод кардани профил
@@ -41,6 +44,7 @@ new-profile-page-input-placeholder =
     .placeholder = Номеро, барои мисол «Корӣ» ё «Шахсӣ», интихоб намоед
 new-profile-page-done-button =
     .label = Ба анҷом расонидани таҳрир
+profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

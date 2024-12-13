@@ -399,6 +399,12 @@ onboarding-existing-vertical-tabs-label = Варақаҳои амудиро кӯ
 onboarding-flair-text = Нав!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Варақаҳои уфуқиро нигоҳ доред
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Равзанаи браузер варақаҳоро дар қисми боло нишон медиҳад.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Равзанаи браузер варақаҳоро дар қисми боло нишон медиҳад.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Чат-боти «AI» зеҳни сунъиро дар навори ҷонибӣ кӯшиш кунед
 onboarding-genai-sidebar-primary-button = Чат-ботеро интихоб намоед

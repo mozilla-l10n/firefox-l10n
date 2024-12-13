@@ -66,6 +66,14 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
-           *[other] { $extensionsCount } extensions disabled
+           *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
         }
-    .message = { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
+    .message = Баъзе аз васеъшавиҳои шумо сиёсати «Mozilla»-ро вайрон мекунанд ва ғайрифаъол карда шудаанд. Шумо метавонед онҳоро дар танзимот фаъол созед, аммо ин метавонад хатарнок бошад.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
+        }
+    .message = Баъзе аз васеъшавиҳои шумо сиёсати «Mozilla»-ро вайрон мекунанд ва ғайрифаъол карда шудаанд.
