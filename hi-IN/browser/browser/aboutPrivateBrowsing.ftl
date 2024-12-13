@@ -25,6 +25,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } डाउनल�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = अपने फ़ोन में प्राइवेट ब्राउज़िंग करें
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,4 +45,7 @@ about-private-browsing-promo-close-button =
 
 
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 
