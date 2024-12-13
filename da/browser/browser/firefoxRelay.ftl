@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Brug { -relay-brand-name }-mail-maske
 firefox-relay-use-mask-title = Brug { -relay-brand-name }-mail-maske
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Slip for spam med en gratis mail-maske
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Skjul din rigtige mailadresse
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Få en gratis mail-maske
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Beskyt din indbakke mod spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Brug mail-maske
     .accesskey = B
@@ -33,6 +41,10 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikke nu
     .accesskey = n
+firefox-relay-offer-what-fxa-and-relay-provides = Ved at oprette en konto får du adgang til flere produkter, der beskytter dit privatliv. Alle mails sendt til din mail-maske bliver sendt videre til din rigtige mailadresse (medmindre du vælger at blokere dem).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Log in på { -brand-product-name } og brug maske
+    .accesskey = L
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Vis mig ikke dette igen
     .accesskey = V
@@ -42,9 +54,25 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Slip for spam med en gratis mail-maske
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Start med at oprette en konto eller logge ind for at bruge en mail-maske
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Opret en konto
+    .accesskey = O
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Få en gratis mail-maske
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Start med at oprette en konto eller logge ind for at bruge en mail-maske
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Opret en konto
+    .accesskey = O
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Beskyt dig mod spam med en mail-maske
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Beskyt dig mod spam ved at skjule din rigtige mailadresse med en <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label>. Du modtager stadig mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> i din indbakke, men din rigtige mailadresse er skjult.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Start med at oprette en konto eller logge ind for at bruge en mail-maske
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Næste
+    .accesskey = N

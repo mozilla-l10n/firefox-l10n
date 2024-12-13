@@ -19,6 +19,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuel test
 about-glean-category-adhoc-testing = Ad hoc-test
+about-glean-category-about-data = Om data
 about-glean-upload-enabled = Upload af data er aktiveret.
 about-glean-upload-disabled = Upload af data er deaktiveret.
 about-glean-upload-enabled-local = Upload af data er kun aktiveret for at sende til en lokal server.
