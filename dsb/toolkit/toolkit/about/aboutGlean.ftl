@@ -133,6 +133,10 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Aby daty pśepytał, kótarež su se zgromaźili pśez staršu telemetriju, konsultěrujśo pšosym
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Aby wobznamjenja pytanja zmólkow pśepytał, tšojeńsku tšugu live wiźeś abo se metriske
+    wizualizacije woglědaś, konsultěrujśo
+    <a data-l10n-name="glean-debug-ping-viewer"> { glean-debug-ping-viewer-brand-name }</a>
 about-glean-about-data-list-item-firefox-profiler =
     Aby wugbaśowy profil registrěrował a wšykne nagrate metriki wiźeł, wužywajśo pšosym
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
