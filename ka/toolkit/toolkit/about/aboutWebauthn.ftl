@@ -114,6 +114,17 @@ about-webauthn-auth-option-null = შეუსაბამოა
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = მომწოდებლის პირველსახის გამართვის ბრძანებები
+about-webauthn-auth-info-remaining-discoverable-credentials = დარჩენილი დასადგენი მოწმობები
+about-webauthn-auth-info-certifications = სერტიფიკატები
+about-webauthn-auth-info-uv-modality = მომხმარებლის დამოწმების საშუალება
+about-webauthn-auth-info-preferred-platform-uv-attempts = სასურველი სისტემის მომხმარებლის დამოწმების მცდელობები
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = სანდო მხარის უდიდესი ID უმცირესი PIN-კოდის სიგრძის დასაყენებლად
+about-webauthn-auth-info-max-cred-blob-length = Blob-მოწმობის უდიდესი სირგძე
+about-webauthn-auth-info-firmware-version = თანმხლები პროგრამის ვერსია
+about-webauthn-auth-info-min-pin-length = PIN-კოდის უმცირესი სიგრძე
+about-webauthn-auth-info-force-pin-change = PIN-კოდის იძულებით შეცვლა
+about-webauthn-auth-info-max-ser-large-blob-array = დიდი Blobs-მასივის უდიდესი ზომა
 
 ## Bio enrollment sample feedbacks
 
