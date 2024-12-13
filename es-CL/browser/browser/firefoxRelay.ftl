@@ -55,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Evita el spam con una máscara de correo electrónico gratuita
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Evita el correo no deseado ocultando tu dirección de correo electrónico real con una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuita. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> seguirán llegando a tu bandeja de entrada, pero con tu dirección de correo electrónico oculta.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primero, regístrate o conéctate a tu cuenta para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrarse
