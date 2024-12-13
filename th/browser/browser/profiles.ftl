@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - เลือกโปรไฟล
 profile-window-heading = เลือกโปรไฟล์ { -brand-short-name }
 profile-window-body = เก็บงานและข้อมูลการเรียกดูส่วนตัวของคุณ รวมถึงสิ่งต่างๆ เช่น รหัสผ่าน และที่คั่นหน้าของคุณไว้โดยแยกจากกันทั้งหมด หรือสร้างโปรไฟล์ให้กับทุกคนที่ใช้อุปกรณ์นี้
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = เลือกโปรไฟล์เมื่อ { -brand-short-name } เปิด
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = แสดงหน้าต่างนี้เมื่อเปิด { -brand-short-name }
 profile-window-create-profile = สร้างโปรไฟล์
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = เลือกชื่อ เช่น “งาน” หรือ “ส่วนตัว”
 new-profile-page-done-button =
     .label = เสร็จสิ้นการแก้ไข
+profile-window-title-2 = { -brand-short-name } - เลือกโปรไฟล์
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = ที่คั่นหน้า
 delete-profile-history = ประวัติ (หน้าที่เยี่ยมชม คุกกี้ ข้อมูลไซต์)
 delete-profile-autofill = ข้อมูลเติมอัตโนมัติ (ที่อยู่ วิธีการชำระเงิน)
 delete-profile-logins = รหัสผ่าน
+
+##
+
 # Button label
 delete-profile-cancel = ยกเลิก
 # Button label

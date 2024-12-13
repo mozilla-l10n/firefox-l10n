@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = อธิบายสิ่งนี้
     .value = โปรดอธิบายแนวคิดหลักจากข้อความที่เลือกนี้โดยใช้คำที่ง่าย พร้อมยกตัวอย่างมาด้วย
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = พิสูจน์อักษร
+    .value = โปรดพิสูจน์อักษรข้อความที่เลือกเพื่อตรวจการสะกดและข้อผิดพลาดไวยากรณ์ ระบุจุดผิดต่างๆ แล้วแทนที่ข้อความด้วยฉบับที่แก้ไขแล้ว รักษาความหมายดั้งเดิมและความแม่นยำตามจริงแล้วแสดงรายชื่อการแก้ไขที่เสนอแนะก่อน ตามด้วยข้อความสุดท้ายซึ่งเป็นฉบับที่แก้ไขแล้ว
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = ถาม { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = บอตสนทนา AI จะได้รับข้อความที่คุณเลือกไว้ไม่หมด
+    .message = คุณเลือกข้อความไว้ { $selectionLength } อักขระ แต่จำนวนอักขระที่เราสามารถส่งไปยังบอตสนทนา AI ได้นั้นอยู่ที่ { $maxLength } อักขระ
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } จะได้รับข้อความที่คุณเลือกไว้ไม่หมด
+    .message = คุณเลือกข้อความไว้ { $selectionLength } อักขระ แต่จำนวนอักขระที่เราสามารถส่งไปยัง{ $provider } ได้นั้นอยู่ที่ { $maxLength } อักขระ
 genai-shortcuts-hide =
     .label = ซ่อนทางลัดบอตสนทนา
 
@@ -135,6 +150,5 @@ genai-onboarding-gemini-price = มีตัวเลือกทั้งแบ
 genai-onboarding-huggingchat-generate = สร้างข้อความและโค้ด
 genai-onboarding-huggingchat-switch = เปลี่ยนไปใช้โมเดลแบบเปิดต่างๆ ซึ่งมีให้เลือกหลากหลาย
 genai-onboarding-huggingchat-price-2 = สามารถใช้ได้ฟรี แต่ต้องมีบัญชีหลังจากใช้ไปแล้วจำนวนหนึ่ง
-genai-onboarding-huggingchat-price = ฟรี แต่ต้องมีบัญชีสำหรับงานบางอย่าง
 genai-onboarding-lechat-generate = สร้างข้อความและโค้ด
 genai-onboarding-lechat-price = ฟรี แต่ต้องมีบัญชีเพื่อใช้งาน

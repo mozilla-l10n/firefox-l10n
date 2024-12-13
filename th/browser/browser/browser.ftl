@@ -646,6 +646,9 @@ urlbar-result-action-search-bookmarks = ค้นหาที่คั่นห�
 urlbar-result-action-search-history = ค้นหาประวัติ
 urlbar-result-action-search-tabs = ค้นหาแท็บ
 urlbar-result-action-search-actions = คำสั่งการค้นหา
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = เปิด { $group }
 
 ## Labels shown above groups of urlbar results
 
