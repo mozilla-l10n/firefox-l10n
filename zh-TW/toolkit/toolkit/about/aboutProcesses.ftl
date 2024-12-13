@@ -110,12 +110,12 @@ about-processes-preloaded-tab = 預先載入的新分頁
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
-about-processes-frame-name-one = 子畫框: { $url }
+about-processes-frame-name-one = 子畫框：{ $url }
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
-about-processes-frame-name-many = 子畫框（{ $number }）: { $shortUrl }
+about-processes-frame-name-many = 子畫框（{ $number }）：{ $shortUrl }
 
 ## Utility process actor names
 
