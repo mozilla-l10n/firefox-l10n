@@ -19,6 +19,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuel test
 about-glean-category-adhoc-testing = Ad hoc-test
+about-glean-category-profiler = Brug af profilerings-værktøjet
 about-glean-category-about-data = Om data
 about-glean-upload-enabled = Upload af data er aktiveret.
 about-glean-upload-disabled = Upload af data er deaktiveret.
@@ -47,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = For at få en forklaring på de forskellige måder at optage og finde data, kan du klikke på <strong>Om data</strong>.
 about-glean-about-testing-header = Om testning
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -104,6 +106,15 @@ about-glean-adhoc-note =
     Bemærk, at når du bruger konsollen i udviklerværktøj, bruger du Glean JS-API'et.
     Det betyder, at analyse-resultaters kategorier og navne er formateret 
     med <code>camelCase</code> i modsætning til i Rust- og i C++-API'erne.
+about-glean-profiler-explanation =
+    For at se en komplet oversigt over optagede målinger, kan du bruge { -profiler-brand-name }.
+    Du skal først <a data-l10n-name="firefox-profiler-link">indfange en ydelsesprofil</a>.
+    Når profilen er indfanget, skal du vælge <q>Marker Chart</q> og kigge på markørerne under <q>Telemetry</q>.
+about-glean-profiler-explanation-profiler =
+    I ydelsesprofilen kan du se alle indsamlede målinger, hvornår de blev indsamlet og hvilke
+    værdier, som blev indsamlet. Ved at holde musemarkøren over de enkelte markører kan du 
+    afgøre om den korrekte værdi blev indsamlet og om indsamlingen fandt sted på det 
+    rette tidspunkt.
 controls-button-label-verbose = Anvend indstillinger og send ping
 about-glean-feedback-settings-only =
     .message = Indstillinger anvendt!
@@ -116,6 +127,19 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Se listen nedenfor for at se sammenhænge, hvor de 
     forskellige værktøjer kan bruges:
+about-glean-about-data-list-item-dictionary =
+    For at gennemse listen med data indsamlet af { -glean-brand-name } for hvert program, skal du
+    kigge på <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a>.
+about-glean-about-data-list-item-about-telemetry =
+    For at gennemse data indsamlet af ældre telemetri, skal du kigge på
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    For at gennemse debug-tags, se fulde pings, se en live event-stream eller se 
+    visualiseringer af målinger, skal du anvende
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    For at optage en ydelsesprofil og se alle optagede målinger, skal du bruge 
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
