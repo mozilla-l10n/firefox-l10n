@@ -153,6 +153,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Отваряне на препратките в раздели вместо в нови прозорци
     .accesskey = р
+ask-on-close-multiple-tabs =
+    .label = Потвърждаване при затваряне на няколко раздела
+    .accesskey = з
 confirm-on-close-multiple-tabs =
     .label = Потвърждаване при затваряне на няколко раздела
     .accesskey = д
@@ -568,8 +571,7 @@ home-prefs-shortcuts-description = Страници за преглед по-к�
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсорирани препратки
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }

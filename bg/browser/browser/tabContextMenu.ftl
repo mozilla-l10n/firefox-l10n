@@ -75,6 +75,10 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Споделяне
     .accesskey = С
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Нов раздел вдясно
+    .accesskey = н
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -100,7 +104,6 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

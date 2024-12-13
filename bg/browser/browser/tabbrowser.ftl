@@ -84,6 +84,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Да се затворят ли { $tabCount } раздела?
     }
 tabbrowser-confirm-close-tabs-button = Затваряне на разделите
+tabbrowser-ask-close-tabs-checkbox = Потвърждаване при затваряне на няколко раздела
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -97,6 +98,10 @@ tabbrowser-confirm-close-windows-button =
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 tabbrowser-confirm-close-tabs-with-key-button = Изход от { -brand-short-name }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -152,4 +157,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Показване на всички { $tabCount } раздела
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 
