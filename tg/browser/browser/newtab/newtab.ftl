@@ -444,3 +444,6 @@ newtab-topic-selection-button-pick-interests = Манфиатҳои худро �
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Обуна шавед
+newtab-section-following-button = Обуна шуд
+newtab-section-unfollow-button = Бекор кардани обуна
