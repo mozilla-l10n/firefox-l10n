@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเ�
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
 firefox-relay-use-mask-title = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = ป้องกันสแปมด้วยตัวปกปิดอีเมลฟรี
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = ซ่อนที่อยู่อีเมลจริงของคุณ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = รับตัวปกปิดอีเมลฟรี
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = ป้องกันกล่องจดหมายของคุณจากสแปม
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ใช้ตัวปกปิดอีเมล
     .accesskey = ช
@@ -33,3 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ไม่ใช่ตอนนี้
     .accesskey = ไ
+firefox-relay-offer-what-fxa-and-relay-provides = บัญชีจะปลดล็อกการเข้าถึงผลิตภัณฑ์ที่ปกป้องความเป็นส่วนตัวเพิ่มเติม อีเมลทั้งหมดที่ส่งไปยังตัวปกปิดอีเมลของคุณจะถูกส่งต่อไปยังที่อยู่อีเมลจริงของคุณ (นอกจากคุณเลือกที่จะปิดกั้นอีเมลเหล่านั้น)
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = ลงชื่อเข้าใช้ { -brand-product-name } และใช้ตัวปกปิด
+    .accesskey = ล
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = ไม่ต้องแสดงข้อความนี้อีก
+    .accesskey = ม
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = ยังไม่ทำตอนนี้
+    .accesskey = ย
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-basic-info = ป้องกันสแปมด้วยตัวปกปิดอีเมลฟรี
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
