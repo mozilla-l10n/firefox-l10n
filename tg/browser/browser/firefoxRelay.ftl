@@ -26,6 +26,12 @@ firefox-relay-opt-in-subtitle-1 = Истифодаи ниқоби муҳофиз
 firefox-relay-use-mask-title = Истифодаи ниқоби муҳофизатии почтаи эл. «{ -relay-brand-name }»
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Ба воситаи ниқоби почтаи электронии ройгон худро аз мактубҳои номатлуб ҳифз намоед
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Нишонии почтаи электронии ҳақиқии худро пинҳон намоед
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Ниқоби почтаи электронии ройгонро ба даст оред
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Паёмдони худро аз мактубҳои номатлуб ҳифз намоед
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Истифодаи ниқоби муҳофизатии почтаи электронӣ
     .accesskey = И
