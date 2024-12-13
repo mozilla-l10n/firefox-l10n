@@ -55,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Slip for spam med en gratis mail-maske
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Slip for spam ved at skjule din rigtige mailadresse med en gratis <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label>. Mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> bliver stadig leveret til din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Start med at oprette en konto eller logge ind for at bruge en mail-maske
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Opret en konto
@@ -63,6 +64,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Få en gratis mail-maske
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskyt din indbakke mod spam ved at bruge en gratis <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label> til at skjule din rigtige mailadresse. Mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> bliver stadig leveret til din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Start med at oprette en konto eller logge ind for at bruge en mail-maske
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Opret en konto
@@ -73,6 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Beskyt dig mod spam med en mail-maske
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Beskyt dig mod spam ved at skjule din rigtige mailadresse med en <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label>. Du modtager stadig mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> i din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Start med at oprette en konto eller logge ind for at bruge en mail-maske
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Ved at oprette en mail-maske accepterer du <label data-l10n-name="tos-url">tjenestevilkårene</label> og <label data-l10n-name="privacy-url">privatlivserklæringen</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Næste
     .accesskey = N
