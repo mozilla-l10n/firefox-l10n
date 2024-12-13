@@ -57,13 +57,31 @@ about-webauthn-new-pin-label = ახალი PIN:
 about-webauthn-repeat-pin-label = გაიმეორეთ ახალი PIN:
 about-webauthn-current-pin-label = მიმდინარე PIN:
 about-webauthn-pin-required-label = გთხოვთ მიუთითოთ თქვენი PIN:
+about-webauthn-credential-list-subsection-title = მოწმობები:
+about-webauthn-enrollment-name-label = დამოწმების დასახელება (არასავალდებულო):
+about-webauthn-enrollment-list-empty = მოწყობილობაზე დამოწმების ჩანაწერები არაა.
+about-webauthn-credential-list-empty = მოწყობილობაზე მოწმობები არაა.
+about-webauthn-confirm-deletion-label = თქვენ აპირებთ წაშალოთ:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = PIN-კოდის დაყენება
+about-webauthn-current-change-pin-button = PIN-კოდის შეცვლა
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = მოწმობების სია
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = დამოწმებების სია
+about-webauthn-add-bio-enrollment-button = დამოწმების ჩანაწერის დამატება
+about-webauthn-cancel-button = გაუქმება
+about-webauthn-send-pin-button = კარგი
+about-webauthn-delete-button = წაშლა
+about-webauthn-start-enrollment-button = დამოწმების დაწყება
+about-webauthn-update-button = განახლება
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = მომხმარებლის დადასტურება
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = ბრძანების ნებართვები (pinUvAuthToken)
 
