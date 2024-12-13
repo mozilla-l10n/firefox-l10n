@@ -646,6 +646,9 @@ urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
 urlbar-result-action-search-history = Tìm kiếm lịch sử
 urlbar-result-action-search-tabs = Tìm kiếm thẻ
 urlbar-result-action-search-actions = Tìm kiếm hành động
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Mở { $group }
 
 ## Labels shown above groups of urlbar results
 

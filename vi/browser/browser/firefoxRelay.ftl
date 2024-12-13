@@ -24,6 +24,10 @@ firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Sử dụng email ẩn danh { -relay-brand-name }
 firefox-relay-use-mask-title = Sử dụng email ẩn danh { -relay-brand-name }
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Ẩn địa chỉ email thật của bạn
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Bảo vệ hộp thư đến của bạn khỏi thư rác
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Sử dụng email ẩn danh
     .accesskey = U
@@ -33,3 +37,18 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Không phải bây giờ
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Đừng hiển thị thông báo này nữa
+    .accesskey = D
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Để sau
+    .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
