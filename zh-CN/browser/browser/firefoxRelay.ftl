@@ -41,6 +41,7 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 暂时不要
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = 登录账户，解锁更多保护隐私的产品。发送到马甲邮箱的所有邮件都会转发到您的真实邮箱地址（除非您选择拦截）。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = 登录 { -brand-product-name } 并使用马甲邮箱
     .accesskey = S
