@@ -58,9 +58,11 @@ sidebar-title =
 sidebar-description = Ҳангоми тамошо кардани сомонаҳо ба таърих, варақаҳо аз дастгоҳҳои дигар, васеъшавиҳои навори ҷонибӣ ва чизҳои дигар ба осонӣ дастрасӣ пайдо намоед. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
 vertical-tabs-title =
     .label = Варақаҳои амудӣ
+vertical-tabs-description = Варақаҳоро аз қисми болои браузер ба қисми ҷонибии он ҷойгир намоед. Лозим аст, ки шумо, инчунин, кӯшиш карда, аз навори ҷонибӣ истифода баред. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
 experimental-features-group-developer-tools =
     .label = Абзорҳои барномасозӣ
 experimental-features-group-webpage-display =
     .label = Намоиши саҳифаи сомона
 experimental-features-group-customize-browsing =
     .label = Тарзи истифодаи браузери худро шахсӣ созед
+experimental-features-group-customize-browsing-description = Агар шумо аз ин хусусиятҳо кӯшиш карда, истифода баред, <a data-l10n-name="connect">назари худро дар «Connect» изҳор намоед</a>

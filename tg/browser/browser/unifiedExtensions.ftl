@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Кушодани меню барои { $extensionName }
 unified-extensions-item-message-manage = Идоракунии васеъшавӣ
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = Ин «{ $extensionName }» сиёсати «Mozilla»-ро вайрон мекунад. Истифодаи он метавонад хатарнок бошад.
 
 ## Extension's context menu
 
@@ -48,3 +51,21 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Маълумоти бештар
     .aria-label = Маълумоти бештар: Баъзе васеъшавиҳо иҷозат дода намешаванд
 unified-extensions-mb-about-addons-link = Гузариш ба танзимоти васеъшавӣ
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = «{ $extensionName }» ғайрифаъол шуд
+    .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад ва ғайрифаъол шудааст. Шумо метавонед онро дар танзимот фаъол созед, аммо ин метавонад хатарнок бошад.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = «{ $extensionName }» ғайрифаъол шуд
+    .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад ва ғайрифаъол шудааст.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
