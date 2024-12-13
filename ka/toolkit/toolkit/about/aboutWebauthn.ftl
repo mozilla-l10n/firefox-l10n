@@ -28,12 +28,35 @@ about-webauthn-text-connect-device = გთხოვთ დააკავში
 about-webauthn-text-select-device = გთხოვთ აირჩიოთ სასურველი უსაფრთხოების საშვი მოწყობილობაზე შეხებით.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = პარამეტრების გამართვა ვერ ხერხდება, რადგან თქვენი უსაფრთხოების საშვით არაა მხარდაჭერილი CTAP2.
+about-webauthn-text-not-available = არაა ხელმისაწვდომი ამ სისტემაზე.
+about-webauthn-bio-enrollment-list-subsection-title = დამოწმებები:
+about-webauthn-add-bio-enrollment-section-title = დამოწმების ახალი ჩანაწერი
 
 ## Results label
 
+about-webauthn-results-success = მზადაა!
+about-webauthn-results-general-error = შეცდომა!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] შეცდომა: უმართებულო PIN. კვლავ სცადეთ.
+        [one] შეცდომა: უმართებულო PIN. კვლავ სცადეთ. დარჩენილია ერთი მცდელობა.
+       *[other] შეცდომა: უმართებულო PIN. კვლავ სცადეთ. დარჩენილია { $retriesLeft } მცდელობა.
+    }
+about-webauthn-results-pin-blocked-error = შეცდომა: მცდელობები აღარაა დარჩენილი და თქვენი მოწყობილობა ჩაიკეტა PIN-კოდის მრავალჯერ არასწორად შეყვანის გამო. მოწყობილობა ხელახლა უნდა ჩაირთოს.
+about-webauthn-results-pin-not-set-error = შეცდომა: PIN-კოდი მითითებული არაა. ეს მოქმედება PIN-კოდს უნდა იყოს დაცული.
+about-webauthn-results-pin-too-short-error = შეცდომა: მოცემული PIN-კოდი ზედმეტად მოკლეა.
+about-webauthn-results-pin-too-long-error = შეცდომა: მოცემული PIN-კოდი ზედმეტად გრძელია.
+about-webauthn-results-pin-auth-blocked-error = შეცდომა: ზედიზედ მრავალჯერ არასწორად შეყვანის გამო PIN-კოდით შესვლა დროებით შეიზღუდა. თქვენი მოწყობილობა საჭიროებს კვების გათიშვას (გამოერთებასა და ხელახლა ჩასმას).
+about-webauthn-results-cancelled-by-user-error = შეცდომა: მოქმედება გაუქმებულია მომხმარებლის მიერ.
 
 ## Labels
 
+about-webauthn-new-pin-label = ახალი PIN:
+about-webauthn-repeat-pin-label = გაიმეორეთ ახალი PIN:
+about-webauthn-current-pin-label = მიმდინარე PIN:
+about-webauthn-pin-required-label = გთხოვთ მიუთითოთ თქვენი PIN:
 
 ## Buttons
 
