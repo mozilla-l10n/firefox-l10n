@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ба сомонаҳо сигнали «Пайгирӣ карда нашавад»-ро фиристонед, то ки шуморо пайгирӣ накунанд
+do-not-track-removal = Мо дигар сигнали «Пайгирӣ карда нашавад»-ро дастгирӣ намекунем
 do-not-track-description2 =
     .label = Фиристодани ба сомонаҳо дархости «Пайгирӣ карда нашавад»
     .accesskey = Ф
@@ -154,6 +155,14 @@ open-new-link-as-tabs =
     .accesskey = К
 ask-on-close-multiple-tabs =
     .label = Пурсидан пеш аз пӯшидани якчанд варақа
+    .accesskey = П
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Пеш аз баромад ба воситаи { $quitKey } тасдиқ карда шавад
     .accesskey = П
 confirm-on-close-multiple-tabs =
     .label = Тасдиқ кардан пеш аз пӯшидани якчанд варақа
