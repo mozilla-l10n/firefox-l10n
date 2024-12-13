@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Forklar dette
     .value = Forklar de vigtigste begreber i det markerede med enkle ord. Brug også eksempler.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Korrekturlæs
+    .value = Korrekturlæs det markerede for stavefejl og grammatikfejl. Identificer alle fejl og kom med en rettet version af teksten. Oprethold tekstens betydning og faktuelle nøjagtighed. Vis først en liste med forslag til rettelser, derefter den endelige og rettede version af teksten.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spørg { $provider }...
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatbotten kan ikke behandle hele din markering
+    .message =
+        { $selectionLength ->
+            [one] Du har markeret omkring { $selectionLength } tegn. Vi kan kun sende omkring { $maxLength } tegn til AI-chatbotten.
+           *[other] Du har markeret omkring { $selectionLength } tegn. Vi kan kun sende omkring { $maxLength } tegn til AI-chatbotten.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } kan ikke behandle hele din markering
+    .message =
+        { $selectionLength ->
+            [one] Du har markeret omkring { $selectionLength } tegn. Vi kan kun sende omkring { $maxLength } tegn til { $provider }.
+           *[other] Du har markeret omkring { $selectionLength } tegn. Vi kan kun sende omkring { $maxLength } tegn til { $provider }.
+        }
 genai-shortcuts-hide =
     .label = Skjul genvej til chatbot
 

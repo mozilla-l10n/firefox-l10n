@@ -16,6 +16,9 @@ about-glean-interface-description =
     er et bibliotek, der anvendes til at indsamle data i { -vendor-short-name }.
     Denne brugerflade er lavet til at udviklere og testere manuelt kan
     <a data-l10n-name="fog-link">teste instrumentering</a>.
+about-glean-category-about-glean = Om { -glean-brand-name }
+about-glean-category-manual-testing = Manuel test
+about-glean-category-adhoc-testing = Ad hoc-test
 about-glean-upload-enabled = Upload af data er aktiveret.
 about-glean-upload-disabled = Upload af data er deaktiveret.
 about-glean-upload-enabled-local = Upload af data er kun aktiveret for at sende til en lokal server.
