@@ -4,12 +4,14 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = بعدی
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = گرفتم!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = پرش میان دستگاه‌ها با برگزیدن زبانه
 callout-firefox-view-colorways-title = یک رنگ پاشیده شده را اضافه کنید
 
 ## Continuous Onboarding - Firefox View: Tab pick up
@@ -18,5 +20,16 @@ callout-firefox-view-colorways-title = یک رنگ پاشیده شده را اض
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = بعدی
-
 callout-pdfjs-draw-button = گرفتم!
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
