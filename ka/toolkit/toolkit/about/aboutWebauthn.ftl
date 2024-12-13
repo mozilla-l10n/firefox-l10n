@@ -125,12 +125,56 @@ about-webauthn-auth-info-firmware-version = თანმხლები პრ�
 about-webauthn-auth-info-min-pin-length = PIN-კოდის უმცირესი სიგრძე
 about-webauthn-auth-info-force-pin-change = PIN-კოდის იძულებით შეცვლა
 about-webauthn-auth-info-max-ser-large-blob-array = დიდი Blobs-მასივის უდიდესი ზომა
+about-webauthn-auth-info-algorithms = ალგორითმები
+about-webauthn-auth-info-transports = გადამტანები
+about-webauthn-auth-info-max-credential-id-length = მოწმობის ID-საცნობის უდიდესი სირგძე
+about-webauthn-auth-info-max-credential-count-in-list = მოწმობის უდიდესი რიცხვი სიაში
+about-webauthn-auth-info-pin-protocols = PIN-ოქმები
+about-webauthn-auth-info-max-msg-size = შეტყობინების უდიდესი სიგრძე
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = გაფართოებები
+about-webauthn-auth-info-versions = ვერსიები
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = შეუსაბამოა
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } ნიმუში ჯერ კიდევ საჭიროა.
+       *[other] { $repeatCount } ნიმუში ჯერ კიდევ საჭიროა.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = ნიმუში საკმარისად კარგია.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = ნიმუში ზედმეტად მაღლაა.
+about-webauthn-ctap2-enroll-feedback-too-low = ნიმუში ზედმეტად დაბლაა.
+about-webauthn-ctap2-enroll-feedback-too-left = ნიმუში ზედმეტად მარცხნივაა.
+about-webauthn-ctap2-enroll-feedback-too-right = ნიმუში ზედმეტად მარჯვნივაა.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = ნიმუში ზედმეტად სწრაფი იყო.
+about-webauthn-ctap2-enroll-feedback-too-slow = ნიმუში ზედმეტად ნელი იყო.
+about-webauthn-ctap2-enroll-feedback-poor-quality = ნიმუში უხარისხო იყო.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = ნიმუში ზედმეტად მრუდე იყო.
+about-webauthn-ctap2-enroll-feedback-too-short = ნიმუში ზედმეტად მოკლე იყო.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = ნიმუშის გაერთიანება მოხერხდა.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = ნიმუში უკვე არსებობს.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = მომხმარებლისგან მოქმედება არაა.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = მომხმარებელმა არ დაასრულა ნიმუშის სათანადოდ მოწოდება.
+about-webauthn-ctap2-enroll-feedback-other = ნიმუშის შეცდომა.
