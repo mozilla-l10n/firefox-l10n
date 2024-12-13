@@ -110,6 +110,12 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Indstillinger anvendt og ping sendt!
 about-glean-about-data-header = Om data
+about-glean-about-data-description =
+    Der findes nogle forskellige værktøjer, som du kan bruge til at se dine data
+    afhængigt af, hvad du leder efter.
+about-glean-about-data-description-list-intro =
+    Se listen nedenfor for at se sammenhænge, hvor de 
+    forskellige værktøjer kan bruges:
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
