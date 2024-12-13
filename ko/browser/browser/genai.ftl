@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = 설명
     .value = 간단한 단어를 사용하여 이 선택 항목의 주요 개념을 설명하세요. 또한 예제를 사용하세요.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = 교정
+    .value = 맞춤법 및 문법 오류가 있는지 선택 내용을 교정해 주세요. 실수를 확인하고 수정된 버전의 텍스트를 제공하세요. 의미와 사실의 정확성을 유지하면서 수정 제안 목록을 먼저 출력한 다음, 최종적으로 수정된 버전의 텍스트를 출력하세요.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - 사용자 프로필 선택
 profile-window-heading = { -brand-short-name } 프로필 선택
 profile-window-body = 비밀번호와 북마크를 포함한 개인 탐색과 업무를 완전히 분리하세요. 또는 이 기기를 사용하는 모든 사람들의 프로필을 만들 수 있습니다.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = { -brand-short-name }가 열릴 때 프로필 선택
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name }가 열릴 때 표시
 profile-window-create-profile = 프로필 만들기
