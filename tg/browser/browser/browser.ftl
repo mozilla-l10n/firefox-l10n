@@ -650,6 +650,9 @@ urlbar-result-action-search-bookmarks = Ҷустуҷӯ дар хатбаракҳ
 urlbar-result-action-search-history = Ҷустуҷӯ дар таърих
 urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
 urlbar-result-action-search-actions = Ҷустуҷӯи амалҳо
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Кушодани «{ $group }»
 
 ## Labels shown above groups of urlbar results
 

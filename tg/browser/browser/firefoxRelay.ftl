@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Нишонии почтаи электронии 
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Истифодаи ниқоби муҳофизатии почтаи эл. «{ -relay-brand-name }»
 firefox-relay-use-mask-title = Истифодаи ниқоби муҳофизатии почтаи эл. «{ -relay-brand-name }»
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Ба воситаи ниқоби почтаи электронии ройгон худро аз мактубҳои номатлуб ҳифз намоед
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Истифодаи ниқоби муҳофизатии почтаи электронӣ
     .accesskey = И
@@ -33,3 +35,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ҳоло не
     .accesskey = Ҳ
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
