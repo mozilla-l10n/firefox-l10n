@@ -38,12 +38,6 @@ sidebar-horizontal-tabs =
     .label = Хоризонтални раздели
 sidebar-customize-tabs-header =
     .label = Настройки на разделите
-sidebar-customize-settings-header =
-    .label = Настройки на страничната лента
-sidebar-visibility-always-show =
-    .label = Да се показва винаги
-sidebar-visibility-hide-sidebar =
-    .label = Скриване на страничната лента
 
 ## Labels for sidebar context menu items
 
@@ -53,6 +47,9 @@ sidebar-context-menu-remove-extension =
     .label = Премахване на разширението
 sidebar-context-menu-report-extension =
     .label = Докладване на разширението
+
+## Labels for sidebar history context menu items
+
 
 ## Labels for sidebar menu items.
 
@@ -65,13 +62,25 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Отметки
 sidebar-menu-customize-label =
-    .label = Персонализиране на страничната лента
+    .label = Приспособяване на страничната лента
+
+## Tooltips for sidebar menu items.
+
 
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Персонализиране на страничната лента
+    .heading = Приспособяване на страничната лента
 sidebar-menu-history-header =
     .heading = История
 sidebar-menu-syncedtabs-header =
     .heading = Раздели от други устройства
+
+## Titles for sidebar menu panels.
+
+
+## Context for closing synced tabs when hovering over the items
+
+
+## Tooltips for the sidebar toolbar widget.
+

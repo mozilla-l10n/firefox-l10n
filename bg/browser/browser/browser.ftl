@@ -827,7 +827,7 @@ toolbar-settings-button =
            *[other] Отваряне на настройките
         }
 toolbar-overflow-customize-button =
-    .label = Персонализиране на лентата…
+    .label = Приспособяване на лентата…
     .accesskey = П
 toolbar-button-email-link =
     .label = Препратка по имейл
@@ -975,9 +975,6 @@ content-analysis-panel-title = Защита на данните
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Вашата организация използва <b>{ $agentName }</b> за защита срещу загуба на данни. <a data-l10n-name="info">Научете повече</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Вашата организация използва { $agentName } за защита срещу загубата на данни. <a data-l10n-name="info">Научете повече</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1002,6 +999,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Разширения
         Някои разширения не са позволени
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 

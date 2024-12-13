@@ -134,7 +134,7 @@ menu-view-toolbars-menu =
     .label = Ленти с инструменти
     .accesskey = и
 menu-view-customize-toolbar2 =
-    .label = Персонализиране на лентата…
+    .label = Приспособяване на лентата…
     .accesskey = П
 menu-view-sidebar =
     .label = Странична лента
@@ -253,6 +253,9 @@ menu-bookmarks-other =
     .label = Други отметки
 menu-bookmarks-mobile =
     .label = Мобилни отметки
+
+## Profiles Menu
+
 
 ## Tools Menu
 
