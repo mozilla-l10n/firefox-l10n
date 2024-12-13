@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Slet fra { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Vores sponsorer og dit privatliv
 newtab-menu-about-fakespot = Om { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloker
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -447,3 +450,10 @@ newtab-topic-selection-button-maybe-later = Måske senere
 newtab-topic-selection-privacy-link = Lær, hvordan vi beskytter og håndterer data
 newtab-topic-selection-button-update-interests = Opdater dine interesser
 newtab-topic-selection-button-pick-interests = Vælg dine interesser
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Følg
+newtab-section-following-button = Følger

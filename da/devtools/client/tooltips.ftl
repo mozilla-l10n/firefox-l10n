@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Det er umuligt at t
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et placeret element.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> har ingen effekt på dette element, da egenskaben kun kan anvendes på erstattede elementer.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ingen effekt på dette element, fordi <strong>overflow:hidden</strong> ikke er sat.
+inactive-css-no-size-containment = <strong>{ $property }</strong> har ingen effekt på dette element, eftersom det ikke har nogen begrænsninger ift. størrelse.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>  har ingen effekt på interne tabel-elementer.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> har ingen effekt på interne tabel-elementer, bortset fra tabel-celler.
 inactive-css-not-table = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en tabel.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> har ingen effekt på elemen
 inactive-css-ruby-element = <strong>{ $property }</strong> har ingen effekt på dette element, da det er et ruby-element. Dets størrelse er afgjort af ruby-elementets skriftstørrelse.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> er ikke understøttet på pseudo-elementer brugt til fremhævning (fx ::selection).
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> er ikke understøttet på pseudo-elementer af typen ::cue.
