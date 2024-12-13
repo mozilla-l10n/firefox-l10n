@@ -496,6 +496,10 @@ pdfjs-editor-alt-text-settings-close-button = Κλείσιμο
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Η επισήμανση αφαιρέθηκε
+pdfjs-editor-undo-bar-message-freetext = Το κείμενο αφαιρέθηκε
+pdfjs-editor-undo-bar-message-ink = Το σχέδιο αφαιρέθηκε
+pdfjs-editor-undo-bar-message-stamp = Η εικόνα αφαιρέθηκε
 pdfjs-editor-undo-bar-undo-button =
     .title = Αναίρεση
 pdfjs-editor-undo-bar-undo-button-label = Αναίρεση
