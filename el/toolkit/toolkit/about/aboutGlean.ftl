@@ -17,6 +17,9 @@ about-glean-interface-description =
     Αυτό το περιβάλλον χρήστη έχει σχεδιαστεί για τη χειροκίνητη <a data-l10n-name="fog-link">δοκιμή της ενοργάνισης</a>
     από προγραμματιστές και δοκιμαστές.
 about-glean-category-about-glean = Σχετικά με το { -glean-brand-name }
+about-glean-category-manual-testing = Χειροκίνητη δοκιμή
+about-glean-category-profiler = Χρήση του εργαλείου προφίλ
+about-glean-category-about-data = Σχετικά με τα δεδομένα
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
 about-glean-upload-disabled = Η μεταφόρτωση δεδομένων είναι απενεργοποιημένη.
 about-glean-upload-enabled-local = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη μόνο για αποστολή σε τοπικό διακομιστή.
