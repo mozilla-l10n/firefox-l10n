@@ -87,3 +87,10 @@ sidebar-callout-survey-features-question = موارد زیر ویژگی‌های
 sidebar-callout-survey-split-view = مشاهده هر دو وبگاه به طور همزمان، در نمای تقسیم شده در کنار هم
 sidebar-callout-survey-keep-website-open = هنگام مرور وبگاه‌ی مانند رایانامه یا تقویم را در نوار کناری باز نگه دارید
 sidebar-callout-survey-saved-websites-2 = دسترسی سریع به نشانک‌های شما
+sidebar-callout-survey-none-of-above = هیچ‌کدام از موارد بالا
+sidebar-callout-survey-submit = ارسال
+sidebar-callout-survey-thank-you = ممنون از بازخورد شما!
+sidebar-genai-survey-satisfaction-question = چقدر از دسترسی به چت‌بات هوش مصنوعی در نوار کناری راضی هستید؟
+sidebar-genai-survey-productive-question =
+    تا چه حد با این بیان موافق یا مخالف هستید:
+    «چت‌بات هوش مصنوعی در نوار کناری به من کمک می‌کند تا بهره‌وری بیشتری داشته باشم.»
