@@ -23,7 +23,7 @@ more-from-moz-learn-more-link = Tìm hiểu thêm
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Bảo vệ hộp thư đến và danh tính của bạn bằng mặt nạ email miễn phí.
+more-from-moz-firefox-relay-description = Bảo vệ hộp thư đến và danh tính của bạn bằng email ẩn danh miễn phí.
 more-from-moz-firefox-relay-button = Sử dụng { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page

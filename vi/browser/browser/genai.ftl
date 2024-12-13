@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Giải thích điều này
     .value = Vui lòng giải thích các khái niệm chính trong lựa chọn này bằng cách sử dụng các từ đơn giản. Ngoài ra, hãy sử dụng các ví dụ.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Đọc rà soát
+    .value = Vui lòng đọc lại phần đã chọn để tìm lỗi chính tả và ngữ pháp. Xác định bất kỳ sai sót nào và cung cấp một phiên bản sửa chữa của văn bản. Duy trì ý nghĩa và độ chính xác thực tế và đưa ra danh sách các chỉnh sửa được đề xuất trước, sau đó là phiên bản sửa chữa cuối cùng của văn bản.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Hỏi { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Chatbot AI sẽ không nhận được lựa chọn đầy đủ của bạn
+    .message =
+        { $selectionLength ->
+           *[other] Bạn đã chọn một đoạn gồm { $selectionLength } ký tự. Số lượng ký tự chúng tôi có thể gửi tới chatbot AI là khoảng { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } sẽ không nhận được lựa chọn đầy đủ của bạn
+    .message =
+        { $selectionLength ->
+           *[other] Bạn đã chọn một đoạn gồm { $selectionLength } ký tự. Số lượng ký tự chúng tôi có thể gửi tới { $provider } là khoảng { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ẩn lối tắt chatbot
 
@@ -135,6 +156,5 @@ genai-onboarding-gemini-price = Tùy chọn miễn phí và trả phí; yêu c�
 genai-onboarding-huggingchat-generate = Tạo văn bản và mã
 genai-onboarding-huggingchat-switch = Chuyển đổi giữa tập hợp các mô hình mở đa dạng
 genai-onboarding-huggingchat-price-2 = Miễn phí; yêu cầu tài khoản cho một số lượng yêu cầu nhất định
-genai-onboarding-huggingchat-price = Miễn phí; yêu cầu tài khoản cho một số tác vụ
 genai-onboarding-lechat-generate = Tạo văn bản và mã
 genai-onboarding-lechat-price = Miễn phí; yêu cầu tài khoản

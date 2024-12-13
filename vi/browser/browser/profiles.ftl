@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Chọn hồ sơ người dùng
 profile-window-heading = Chọn một hồ sơ { -brand-short-name }
 profile-window-body = Giữ công việc và duyệt web cá nhân của bạn, bao gồm những thứ như mật khẩu và dấu trang, hoàn toàn tách biệt. Hoặc tạo hồ sơ cho tất cả những người sử dụng thiết bị này.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Chọn một hồ sơ khi { -brand-short-name } khởi động
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Hiển thị điều này khi { -brand-short-name } mở
 profile-window-create-profile = Tạo hồ sơ
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Chọn một tên như “Công việc” hoặc “Cá nhân”
 new-profile-page-done-button =
     .label = Hoàn tất sửa
+profile-window-title-2 = { -brand-short-name } - Chọn một hồ sơ
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Dấu trang
 delete-profile-history = Lịch sử (các trang đã truy cập, cookie, dữ liệu trang web)
 delete-profile-autofill = Tự động điền dữ liệu (địa chỉ, phương thức thanh toán)
 delete-profile-logins = Mật khẩu
+
+##
+
 # Button label
 delete-profile-cancel = Hủy bỏ
 # Button label
