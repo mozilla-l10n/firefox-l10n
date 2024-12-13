@@ -69,7 +69,7 @@ autofill-address-townland = დასახლებული პუნქტი
 
 autofill-address-city = ქალაქი
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
-autofill-address-district = რაიონი
+autofill-address-district = უბანი
 # Used in GB, NO, SE
 autofill-address-post-town = საფოსტო ქალაქი
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
