@@ -116,6 +116,9 @@ newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
 newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
 newtab-menu-about-fakespot = על אודות { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = חסימה
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -440,3 +443,11 @@ newtab-topic-selection-button-maybe-later = אולי אחר כך
 newtab-topic-selection-privacy-link = כיצד אנו מגנים על נתונים ומנהלים אותם
 newtab-topic-selection-button-update-interests = עדכון תחומי העניין שלך
 newtab-topic-selection-button-pick-interests = בחירת תחומי העניין שלך
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = לעקוב
+newtab-section-following-button = במעקב
+newtab-section-unfollow-button = ביטול המעקב
