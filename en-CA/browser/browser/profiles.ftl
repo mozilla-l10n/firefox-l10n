@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Choose User Profile
 profile-window-heading = Choose a { -brand-short-name } profile
 profile-window-body = Keep your work and personal browsing, including things like passwords and bookmarks, totally separate. Or create profiles for everyone who uses this device.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Choose a profile when { -brand-short-name } opens
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Show this when { -brand-short-name } opens
 profile-window-create-profile = Create a profile
@@ -44,6 +47,7 @@ new-profile-page-input-placeholder =
     .placeholder = Pick a name like “Work” or “Personal”
 new-profile-page-done-button =
     .label = Done editing
+profile-window-title-2 = { -brand-short-name } - Choose a profile
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
