@@ -17,7 +17,7 @@ user-context-banking =
     .accesskey = Б
 user-context-shopping =
     .label = Пазаруване
-    .accesskey = П
+    .accesskey = п
 
 ##
 
