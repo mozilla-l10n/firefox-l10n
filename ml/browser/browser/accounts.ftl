@@ -5,6 +5,9 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = അക്കൗണ്ട് സജ്ജീകരണം പൂർത്തിയാക്കുക
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = അക്കൗണ്ട് വിച്ഛേദിച്ചു
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = എല്ലാ ഉപകരണങ്ങളിലും അയയ്ക്കുക
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -41,9 +44,17 @@ account-send-tab-to-device-verify = നിങ്ങളുടെ അക്കൌ�
 
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "തലകെട്ടു്") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = അക്കൗണ്ടു്
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ഈ ഗണനി ഇപ്പോൾ { $deviceName } എന്നതുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു.
 # Used when the name of the new device is not known.
-account-connection-connected-with-noname = ഈ കമ്പ്യൂട്ടർ ഇപ്പോൾ ഒരു പുതിയ ഉപകരണവുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു.
+account-connection-connected-with-noname = ഈ ഗണനി ഇപ്പോൾ ഒരു പുതിയ ഉപകരണവുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = നിങ്ങൾ വിജയകരമായി പ്രനേശിക്കുക
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = ഈ കമ്പ്യൂട്ടർ വിച്ഛേദിക്കപ്പെട്ടു.
 
@@ -92,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = അടുത്തിടെ അടച്ച ടാബുകള്‍ കാണുക
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount }{ -brand-short-name } ടാബു് അടച്ചു
+       *[other] { $closedCount }{ -brand-short-name } ടാബുകൾ അടച്ചു
+    }
