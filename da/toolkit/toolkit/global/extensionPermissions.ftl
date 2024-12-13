@@ -30,4 +30,6 @@ webext-perms-description-sessions = Tilgå nyligt lukkede faneblade
 webext-perms-description-tabs = Tilgå faneblade
 webext-perms-description-tabHide = Skjule og vise faneblade
 webext-perms-description-topSites = Tilgå browserhistorik
+webext-perms-description-trialML = Hente og køre AI-modeller på din enhed
+webext-perms-description-userScripts = Tillade ubekræftede tredjeparts-scripts at få adgang til dine data
 webext-perms-description-webNavigation = Tilgå browser-aktivitet under navigation

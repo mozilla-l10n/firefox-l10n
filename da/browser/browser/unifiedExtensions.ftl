@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Åbn menuen for { $extensionName }
 unified-extensions-item-message-manage = Håndter udvidelse
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } overtræder Mozillas politikker. Det kan være risikabelt at bruge den.
 
 ## Extension's context menu
 
@@ -71,3 +74,12 @@ unified-extensions-mb-blocklist-warning-multiple =
     .message =
         Nogen af dine udvidelser er blevet deaktiveret, fordi de overtræder Mozillas politikker.
         Du kan aktivere dem i indstillingerne, men det kan være risikabelt.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } udvidelse deaktiveret
+           *[other] { $extensionsCount } udvidelser deaktiveret
+        }
+    .message = Nogen af dine udvidelser er blevet deaktiveret, fordi de overtræder Mozillas politikker.

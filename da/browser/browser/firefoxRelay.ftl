@@ -33,3 +33,18 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikke nu
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Vis mig ikke dette igen
+    .accesskey = V
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ikke nu
+    .accesskey = n
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
