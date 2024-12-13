@@ -91,6 +91,25 @@ about-webauthn-auth-option-pinuvauthtoken = ბრძანების ნე�
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = არაა MakeCredential/GetAssertion ნებართვების მქონე კლიენტი PIN-კოდით
 about-webauthn-auth-option-largeblobs = დიდი Blobs
+about-webauthn-auth-option-ep = დაწესებულების საბუთი
+about-webauthn-auth-option-bioenroll = ბიომეტრიული დამოწმება
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = ბიომეტრიული დამოწმების პირველსახე (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = ბიომეტრიული დამოწმების ნებართვა
+about-webauthn-auth-option-authnrcfg = დამმოწმებლის გამართვა
+about-webauthn-auth-option-uvacfg = დამმოწმებლის გამართვის ნებართვა
+about-webauthn-auth-option-credmgmt = მოწმობების მართვა
+about-webauthn-auth-option-credentialmgmtpreview = მოწმობების პირველსახის მართვა
+about-webauthn-auth-option-setminpinlength = PIN-კოდის უმცირესი სიგრძის დაყენება
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential მომხმარებლის დამოწმების გარეშე
+about-webauthn-auth-option-alwaysuv = ყოველთვის მოითხოვებოდეს მომხმარებლის დამოწმება
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = შეუსაბამოა
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
