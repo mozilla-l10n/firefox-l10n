@@ -360,6 +360,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te respa
 onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con tu apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronizar tus datos entre dispositivos
+onboarding-sign-up-description = Regístrate para tener una cuenta y toda tu información importante — contraseñas, marcadores y más — se guardarán de forma segura y estarán disponibles al iniciar sesión en cualquier dispositivo.
 
 ## New user time and familiarity survey strings
 

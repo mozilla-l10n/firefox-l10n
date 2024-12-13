@@ -72,6 +72,14 @@ protections-panel-blocking-label = Bloqueado
 protections-panel-not-blocking-label = Permitido
 protections-panel-not-found-label = No detectado
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } bloquea el contenido de seguimiento mientras estás en este sitio a menos que lo permitas.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permitir { $trackername }
+
 ##
 
 protections-panel-settings-label = Configuración de protección
