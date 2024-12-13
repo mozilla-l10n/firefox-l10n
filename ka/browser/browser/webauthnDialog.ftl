@@ -12,11 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = არასწორი PIN. სცადეთ ხელახლა.
 webauthn-pin-required-prompt = შეიყვანეთ PIN თქვენი მოწყობილობისთვის.
 webauthn-select-sign-result-unknown-account = უცნობი ანგარიში
-webauthn-a-passkey-label = გამოიყენეთ გასაღები
-webauthn-another-passkey-label = გამოიყენეთ სხვა გასაღები
+webauthn-a-passkey-label = შესვლის გასაღების გამოყენება
+webauthn-another-passkey-label = გამოიყენეთ შესვლის სხვა გასაღები
 # Variables:
 #   $domain (String): the domain of the site.
-webauthn-specific-passkey-label = გასაღები მისამართისთვის { $domain }
+webauthn-specific-passkey-label = შესვლის გასაღები მისამართისთვის { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
