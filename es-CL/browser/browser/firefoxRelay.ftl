@@ -64,6 +64,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtener una máscara de correo electrónico gratuita
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primero, regístrate o conéctate a tu cuenta para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrarse
     .accesskey = S
@@ -71,6 +72,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protégete del spam con una máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primero, regístrate o conéctate a tu cuenta para usar una máscara de correo electrónico
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Al crear una máscara de correo, aceptas los <label data-l10n-name="tos-url">Términos de servicio</label> y el <label data-l10n-name="privacy-url">aviso de privacidad</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Siguiente
     .accesskey = N
