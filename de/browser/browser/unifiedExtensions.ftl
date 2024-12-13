@@ -63,3 +63,21 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deaktiviert
     .message = Diese Erweiterung verstößt gegen Mozillas Richtlinien und wurde deaktiviert.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] Eine Erweiterung wurde deaktiviert
+           *[other] { $extensionsCount } Erweiterungen wurden deaktiviert
+        }
+    .message = Einige Ihrer Erweiterungen wurden aufgrund von Verstößen gegen Mozillas Richtlinien deaktiviert. Sie können sie aktivieren, aber das kann riskant sein.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] Eine Erweiterung wurde deaktiviert
+           *[other] { $extensionsCount } Erweiterungen wurden deaktiviert
+        }
+    .message = Einige Ihrer Erweiterungen wurden aufgrund von Verstößen gegen Mozillas Richtlinien deaktiviert.

@@ -64,6 +64,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } fragen…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = KI-Chatbot erhält nicht Ihre vollständige Auswahl
+    .message =
+        { $selectionLength ->
+            [one] Sie haben ein Zeichen gewählt. Die Anzahl an Zeichen, die wir an den KI-Chatbot senden können, ist etwa { $maxLength }.
+           *[other] Sie haben { $selectionLength } Zeichen gewählt. Die Anzahl an Zeichen, die wir an den KI-Chatbot senden können, ist etwa { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } erhält nicht Ihre vollständige Auswahl
+    .message =
+        { $selectionLength ->
+            [one] Sie haben ein Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist ewa { $maxLength }.
+           *[other] Sie haben { $selectionLength } Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist ewa { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Chatbot-Verknüpfung ausblenden
 
