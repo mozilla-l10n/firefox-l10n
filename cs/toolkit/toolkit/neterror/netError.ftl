@@ -48,7 +48,7 @@ neterror-load-error-firewall = Pokud je váš počítač chráněn firewallem ne
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission =
     { -brand-short-name.case-status ->
-        [with-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění { -brand-short-name(case: "gen") } pro místní síť.
+        [with-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění { -brand-short-name(case: "dat") } pro místní síť.
        *[no-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění aplikace { -brand-short-name } pro místní síť.
     }
 neterror-captive-portal = Pro přístup k internetu se musíte nejdříve přihlásit k této síti.

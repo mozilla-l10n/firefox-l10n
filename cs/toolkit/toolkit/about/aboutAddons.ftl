@@ -335,7 +335,7 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 =
-    { -brand-short-name.case-status ->
+    { -brand-product-name.case-status ->
         [with-cases] Rozšíření a vzhledy vám umožní přizpůsobit si { -brand-product-name(case: "acc") }. Mohou zlepšit soukromí, zvýšit produktivitu, vylepšit multimédia, změnit vzhled { -brand-product-name(case: "gen") } a mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je výběr { -brand-product-name(case: "gen") } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
        *[no-cases]
             Rozšíření a vzhledy vám umožní přizpůsobit si aplikaci { -brand-product-name }. Mohou zlepšit soukromí,

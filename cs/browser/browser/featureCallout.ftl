@@ -115,7 +115,7 @@ sidebar-callout-survey-disagree = Nesouhlasím
 sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
 sidebar-callout-survey-features-question =
     { -brand-short-name.case-status ->
-        [with-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu ve { -brand-short-name(case: "dat") }?
+        [with-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu ve { -brand-short-name(case: "loc") }?
        *[no-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu v aplikaci { -brand-short-name }?
     }
 sidebar-callout-survey-split-view = Zobrazení libovolných dvou webových stránek najednou v rozděleném zobrazení vedle sebe
