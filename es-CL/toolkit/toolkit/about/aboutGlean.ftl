@@ -16,6 +16,11 @@ about-glean-interface-description =
     es una biblioteca de recopilación de datos utilizada en proyectos de { -vendor-short-name }.
     Esta interfaz está diseñada para que los desarrolladores y testers
     <a data-l10n-name="fog-link">prueben manualmente la instrumentación</a>.
+about-glean-category-about-glean = Acerca de { -glean-brand-name }
+about-glean-category-manual-testing = Pruebas manuales
+about-glean-category-adhoc-testing = Pruebas Ad Hoc
+about-glean-category-profiler = Usando el perfilador
+about-glean-category-about-data = Acerca de los datos
 about-glean-upload-enabled = La carga de datos está habilitada.
 about-glean-upload-disabled = La carga de datos está deshabilitada.
 about-glean-upload-enabled-local = La carga de datos está habilitada solo para enviar a un servidor local.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Para una explicación de las diferentes formas de registrar y encontrar datos, consulta la
+    pestaña <strong>Acerca de los datos</strong>.
 about-glean-about-testing-header = Acerca de las pruebas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -99,6 +107,10 @@ about-glean-adhoc-note =
     Ten en cuenta que estás utilizando la API Glean JS mediante la consola de herramientas de desarrollador.
     Esto significa que la categoría de métrica y el nombre de la métrica tienen el formato
     <code>camelCase</code> a diferencia de las APIs de Rust y C++.
+about-glean-profiler-explanation =
+    Para ver una vista completa de todas las métricas registradas, se puede usar el { -profiler-brand-name }.
+    Primero debes <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendimiento</a>.
+    Una vez capturado el perfil, selecciona <q>Gráfico de marcas</q> y observa las marcas bajo <q>Telemetría</q>.
 controls-button-label-verbose = Aplicar ajustes y enviar ping
 about-glean-feedback-settings-only =
     .message = ¡Ajustes aplicados!
