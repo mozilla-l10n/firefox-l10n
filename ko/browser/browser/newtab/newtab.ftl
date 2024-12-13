@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
 newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
 newtab-menu-show-privacy-info = 우리의 스폰서와 개인 정보 보호
 newtab-menu-about-fakespot = { -fakespot-brand-name } 정보
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = 차단
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -445,3 +448,11 @@ newtab-topic-selection-button-maybe-later = 나중에요
 newtab-topic-selection-privacy-link = 데이터를 보호하고 관리하는 방법 알아보기
 newtab-topic-selection-button-update-interests = 관심 분야 업데이트
 newtab-topic-selection-button-pick-interests = 관심 분야를 선택하세요
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = 팔로우
+newtab-section-following-button = 팔로잉
+newtab-section-unfollow-button = 팔로우 취소
