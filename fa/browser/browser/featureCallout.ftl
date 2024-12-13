@@ -71,3 +71,19 @@ sidebar-callout-survey-title = به بهبود { -brand-short-name } کمک کن
 sidebar-callout-survey-satisfaction-question = چقدر از تجربه نوار کناری در { -brand-short-name } راضی هستید؟
 sidebar-callout-survey-privacy-notice-link = نکات حفظ محرمانگی
 sidebar-callout-survey-very-satisfied = بسیار راضی
+sidebar-callout-survey-satisfied = راضی
+sidebar-callout-survey-neutral = بی‌طرف
+sidebar-callout-survey-dissatisfied-2 = ناراضی
+sidebar-callout-survey-very-dissatisfied-2 = بسیار ناراضی
+sidebar-callout-survey-dont-use-it = از آن استفاده نمی‌کنم
+sidebar-callout-survey-productive-question =
+    تا چه حد با این بیان موافق یا مخالف هستید:
+    «نوار کناری { -brand-short-name } به من کمک می‌کند تا بهره‌وری بیشتری داشته باشم.»؟
+sidebar-callout-survey-strongly-agree = کاملا موافق
+sidebar-callout-survey-agree = موافق
+sidebar-callout-survey-disagree = مخالف
+sidebar-callout-survey-strongly-disagree = کاملا مخالف
+sidebar-callout-survey-features-question = موارد زیر ویژگی‌های بالقوه نوار کناری هستند. کدامیک بهره‌وری شما در { -brand-short-name } را بیشتر می‌کند؟
+sidebar-callout-survey-split-view = مشاهده هر دو وبگاه به طور همزمان، در نمای تقسیم شده در کنار هم
+sidebar-callout-survey-keep-website-open = هنگام مرور وبگاه‌ی مانند رایانامه یا تقویم را در نوار کناری باز نگه دارید
+sidebar-callout-survey-saved-websites-2 = دسترسی سریع به نشانک‌های شما
