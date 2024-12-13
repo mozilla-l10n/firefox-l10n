@@ -11,8 +11,15 @@ about-webauthn-page-title = იხილეთ WebAuthn
 
 ## Section titles
 
-about-webauthn-info-section-title = მოწყობილობის შესახებ
-about-webauthn-info-subsection-title = დამმოწმებლის შესახებ
+about-webauthn-info-section-title = მოწყობილობის მონაცემები
+about-webauthn-info-subsection-title = დამმოწმებლის მონაცემები
+about-webauthn-options-subsection-title = დამმოწმებლის პარამეტრები
+about-webauthn-pin-section-title = PIN-კოდის მართვა
+about-webauthn-credential-management-section-title = მოწმობების მართვა
+about-webauthn-pin-required-section-title = PIN-კოდი აუცილებელია
+about-webauthn-confirm-deletion-section-title = წაშლის დასტური
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = ბიომეტრიული დამოწმებები
 
 ## Info field texts
 
