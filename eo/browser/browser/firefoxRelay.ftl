@@ -45,12 +45,33 @@ firefox-relay-offer-what-fxa-and-relay-provides = Kreo de konto donos al vi alir
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Komenci seancon en { -brand-product-name } kaj uzi repoŝtan maskon
     .accesskey = K
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ne montri tion ĉi al mi denove
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ne nun
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Evitu trudmesaĝojn per senpaga retpoŝta masko
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Evitu trudmesaĝojn kaŝante vian realan retpoŝtan adreson per senpaga <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko</label>. Retpoŝtaj mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> plu alvenos al via enirkesto, sed via retpoŝta adreso estos kaŝita.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Krei konton
+    .accesskey = k
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Ricevu senpagan retpoŝtan maskon
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protektu vian enirkeston kontraŭ trudmesaĝoj per senpaga <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko</label>, kiu kaŝas vian realan retpoŝtan adreson. Retpoŝtaj mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> plu alvenos al via enirkesto, sed via retpoŝta adreso estos kaŝita.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Krei konton
+    .accesskey = K
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protektu vin kontraŭ trudmesaĝoj per retpoŝta masko
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protektu vin kontraŭ trudmesaĝoj per <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko</label>. Vi plu ricevos retpoŝtajn mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> en via normala enirkesto, sed kun via adreso maskita.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
