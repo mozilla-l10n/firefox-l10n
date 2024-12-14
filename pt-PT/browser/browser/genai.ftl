@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Explicar isto
     .value = Explica os conceitos-chave desta seleção, utilizando palavras simples. Utiliza também exemplos.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Leitura de revisão
+    .value = Revê a seleção relativamente a erros ortográficos e gramaticais. Identifica eventuais erros e fornece uma versão corrigida do texto. Mantém o sentido e a exatidão factual e começa por apresentar primeiro a lista de correções propostas, seguida da versão final do texto corrigido.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pedir ao { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = O chatbot de IA não irá obter a sua seleção completa
+    .message =
+        { $selectionLength ->
+            [one] Selecionou cerca de { $selectionLength } caractere. O número de caracteres que podemos enviar para o chatbot AI é cerca de { $maxLength }.
+           *[other] Selecionou cerca de { $selectionLength } caracteres. O número de caracteres que podemos enviar para o chatbot AI é cerca de { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } não irá obter a sua seleção completa
+    .message =
+        { $selectionLength ->
+            [one] Selecionou cerca de { $selectionLength } caractere. O número de caracteres que podemos enviar para { $provider } é cerca de { $maxLength }.
+           *[other] Selecionou cerca de { $selectionLength } caracteres. O número de caracteres que podemos enviar para { $provider } é cerca de { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ocultar atalho do chatbot
 
@@ -135,6 +158,5 @@ genai-onboarding-gemini-price = Opções gratuitas e pagas; é necessária uma c
 genai-onboarding-huggingchat-generate = Gerar texto e código
 genai-onboarding-huggingchat-switch = Alternar entre um conjunto diverso de modelos abertos
 genai-onboarding-huggingchat-price-2 = Gratuito; é necessária uma conta após um determinado número de pedidos
-genai-onboarding-huggingchat-price = Gratuito; é necessária uma conta para algumas tarefas
 genai-onboarding-lechat-generate = Gerar texto e código
 genai-onboarding-lechat-price = Gratuito; é necessária uma conta

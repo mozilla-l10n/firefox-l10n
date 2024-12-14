@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Selecionar perfil de utilizador
 profile-window-heading = Escolha um perfil do { -brand-short-name }
 profile-window-body = Mantenha o seu trabalho e navegação pessoal, incluindo coisas como palavras-passe e marcadores, totalmente separados. Ou crie perfis para todas as pessoas que utilizam este dispositivo.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Escolher um perfil ao abrir o { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Mostrar isto quando o { -brand-short-name } for iniciado
 profile-window-create-profile = Criar um perfil
@@ -44,6 +47,7 @@ new-profile-page-input-placeholder =
     .placeholder = Escolha um nome como “Trabalho“ ou “Pessoal“
 new-profile-page-done-button =
     .label = Edição terminada
+profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

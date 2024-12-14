@@ -48,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Para uma explicação das diferentes formas de gravar e localizar dados, consulte o
+    Separador <strong>Sobre os dados</strong>.
 about-glean-about-testing-header = Sobre os testes
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -105,12 +108,26 @@ about-glean-adhoc-note =
     Por favor, note que está a utilizar a API Glean JS através da consola de ferramentas de desenvolvimento.
     Isto significa que a categoria da métrica e o nome da métrica estão formatados em
     <code>camelCase</code> ao contrário das API Rust e C++.
+about-glean-profiler-explanation =
+    Para ter uma visão completa de todas as métricas registadas, pode utilizar o { -profiler-brand-name }.
+    Primeiro deve <a data-l10n-name="firefox-profiler-link">capturar um perfil de desempenho</a>.
+    Assim que capturar o perfil, selecione <q>Gráfico de marcadores</q> e olhe para os marcadores sob <q>Telemetria</q>.
+about-glean-profiler-explanation-profiler =
+    No perfil de desempenho pode ver todas as métricas recolhidas, quando estas foram
+    recolhidas e, exatamente que valores foram recolhidos. Ao pairar sobre marcadores individuais,
+    pode confirmar que foi recolhido o valor correto e que a recolha ocorreu no momento adequado.
 controls-button-label-verbose = Aplicar configurações e enviar ping
 about-glean-feedback-settings-only =
     .message = Definições aplicadas!
 about-glean-feedback-settings-and-ping =
     .message = Definições aplicadas e ping enviado!
 about-glean-about-data-header = Sobre os dados
+about-glean-about-data-description =
+    Existem algumas ferramentas diferentes que pode utilizar para ver os seus dados, dependendo
+    o que está à procura.
+about-glean-about-data-description-list-intro =
+    Consulte a lista abaixo para casos de uso 
+    específicos para cada ferramenta:
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
     <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.
