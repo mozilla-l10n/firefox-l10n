@@ -8,6 +8,11 @@
 newtab-page-title = Nova langeto
 newtab-settings-button =
     .title = Personecigi la paĝon por novaj langetoj
+newtab-personalize-settings-icon-label =
+    .title = Personecigi la paĝon por novaj langetoj
+    .aria-label = Agordoj
+newtab-settings-dialog-label =
+    .aria-label = Agordoj
 newtab-personalize-icon-label =
     .title = Personecigi novan langeton
     .aria-label = Personecigi novan langeton
@@ -111,6 +116,10 @@ newtab-menu-save-to-pocket = Konservi en { -pocket-brand-name }
 newtab-menu-delete-pocket = Forigi el { -pocket-brand-name }
 newtab-menu-archive-pocket = Arĥivi en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
+newtab-menu-about-fakespot = Pri { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloki
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -309,6 +318,8 @@ newtab-wallpaper-dark-panda = Ruĝa pando kaŝita en arbaro
 newtab-wallpaper-dark-sky = Pejzaĝo urba kun nokta ĉielo
 newtab-wallpaper-dark-mountain = Pejzaĝo monta
 newtab-wallpaper-dark-city = Purpura pejzaĝo urba
+newtab-wallpaper-dark-fox-anniversary = Vulpo sur pavimo proksime de arbaro
+newtab-wallpaper-light-fox-anniversary = Vulpo sur herbejo kun nebula pejzaĝo monta
 
 ## Solid Colors
 
@@ -434,3 +445,11 @@ newtab-topic-selection-button-maybe-later = Eble poste
 newtab-topic-selection-privacy-link = Pli da informo pri kiel ni protektas kaj administras datumojn
 newtab-topic-selection-button-update-interests = Ĝisdatigi viajn interesojn
 newtab-topic-selection-button-pick-interests = Elekti viajn interesojn
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Sekvi
+newtab-section-following-button = Sekvata
+newtab-section-unfollow-button = Ne plu sekvi
