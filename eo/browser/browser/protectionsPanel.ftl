@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = Permesi { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Spuriloj kaj enhavo de { $trackername } estas blokitaj
+smartblock-placeholder-desc = Viaj agordoj de { -brand-short-name } blokas tiun ĉi enhavon tiel ke ĝi ne povas spuri vin tras retejoj nek esti uzita por reklamoj.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Permesi en { $websitehost }
 
 ##
 
