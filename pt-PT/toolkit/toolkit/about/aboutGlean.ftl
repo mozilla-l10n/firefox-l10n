@@ -128,6 +128,19 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Consulte a lista abaixo para casos de uso 
     específicos para cada ferramenta:
+about-glean-about-data-list-item-dictionary =
+    Para explorar a lista de dados recolhidos por aplicação pelo { -glean-brand-name }, consulte o
+    <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Para explorar os dados que estão a ser recolhidos pela telemetria legada, consulte
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Para explorar etiquetas de depuração, ver pings completos, ver um fluxo de eventos em tempo real ou ver métrica
+    de visualizações, consulte 
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Para gravar um perfil de desempenho e ver todas as métricas registadas, utilize o
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
     <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.
