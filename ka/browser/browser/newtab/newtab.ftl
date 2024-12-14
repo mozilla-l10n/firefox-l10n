@@ -286,13 +286,13 @@ newtab-custom-row-selector =
         [one] { $num } რიგი
        *[other] { $num } რიგი
     }
-newtab-custom-sponsored-sites = დამკვეთების მალსახმობები
+newtab-custom-sponsored-sites = დამკვეთის მალსახმობები
 newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 newtab-custom-stories-toggle =
     .label = შემოთავაზებული ამბები
     .description = გამორჩეული მასალები, რომელთაც შეგირჩევთ { -brand-product-name }
-newtab-custom-pocket-sponsored = ამბები დამკვეთებისგან
+newtab-custom-pocket-sponsored = ამბები დამკვეთისგან
 newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
@@ -385,7 +385,7 @@ newtab-weather-see-forecast =
     .title = ამინდს გთავაზობთ { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ დამკვეთისგან
+newtab-weather-sponsored = { $provider } ∙ დაკვეთილი
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება

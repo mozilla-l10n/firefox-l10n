@@ -579,7 +579,7 @@ home-prefs-shortcuts-header =
     .label = მალსახმობები
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 home-prefs-shortcuts-by-option-sponsored =
-    .label = დამკვეთების მალსახმობები
+    .label = დამკვეთის მალსახმობები
 
 ## Home Section - Firefox Home Content Customization
 
@@ -594,7 +594,7 @@ home-prefs-recommended-by-description-generic = გამორჩეული �
 
 home-prefs-recommended-by-learn-more = როგორ მუშაობს
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = დამკვეთებისგან ამბები
+    .label = ამბები დამკვეთისგან
 home-prefs-recommended-by-option-recent-saves =
     .label = ბოლოს შენახულის ჩვენება
 home-prefs-highlights-option-visited-pages =
