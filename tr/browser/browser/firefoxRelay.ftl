@@ -52,9 +52,19 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Ücretsiz e-posta maskesiyle spam’i önleyin
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Kaydol
+    .accesskey = K
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Ücretsiz e-posta maskenizi oluşturun
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Kaydol
+    .accesskey = K
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = İleri
+    .accesskey = İ

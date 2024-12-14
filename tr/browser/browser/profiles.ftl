@@ -5,6 +5,9 @@
 profile-window-title = { -brand-short-name } - Kullanıcı profilini seçin
 profile-window-heading = Bir { -brand-short-name } profili seçin
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = { -brand-short-name } açıldığında bir profil seç
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name } açıldığında bu pencereyi göster
 profile-window-create-profile = Profil oluştur
@@ -42,8 +45,9 @@ new-profile-page-input-placeholder =
     .placeholder = “İş” veya “Kişisel” gibi bir ad seçin
 new-profile-page-done-button =
     .label = Düzenlemeyi bitir
+profile-window-title-2 = { -brand-short-name } - Profilinizi seçin
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -60,6 +64,9 @@ delete-profile-bookmarks = Yer imleri
 delete-profile-history = Geçmiş (ziyaret edilen sayfalar, çerezler, site verileri)
 delete-profile-autofill = Otomatik doldurma verileri (adresler, ödeme yöntemleri)
 delete-profile-logins = Parolalar
+
+##
+
 # Button label
 delete-profile-cancel = Vazgeç
 # Button label
