@@ -38,5 +38,6 @@ remove-search-engine-button = ХУБ
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = «{ $engineName }»-ро ҳамчун низоми ҷустуҷӯӣ илова мекунед?
 install-search-engine-add = Илова кардан
 install-search-engine-no = Не
