@@ -78,6 +78,8 @@ protections-panel-not-found-label = Ҳеҷ чиз муайян карда наш
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Иҷозат додани «{ $trackername }»
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Васоити пайгирӣ ва муҳтавои «{ $trackername }» манъ карда шудаанд
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Иҷозат додан дар { $websitehost }
 
