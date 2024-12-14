@@ -55,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Zabráňte nevyžiadanej pošte pomocou bezplatnej e‑mailovej masky
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Zabráňte nevyžiadanej pošte skrytím svojej skutočnej e‑mailovej adresy pomocou bezplatnej <label data-l10n-name="firefox-relay-learn-more-url">e‑mailovej masky</label>. E‑maily z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tejto lokality</label> budú stále prichádzať do vašej doručenej pošty, ale bez odhalenia vašej skutočnej e‑mailej adresy.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Zaregistrovať sa
@@ -72,3 +73,9 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Chráňte sa pred nevyžiadanou poštou pomocou e‑mailovej masky
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Chráňte sa pred nevyžiadanou poštou skrytím svojej skutočnej adresy pomocou <label data-l10n-name="firefox-relay-learn-more-url">e‑mailovej masky</label>. E‑maily z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tejto lokality</label> budete stále dostávať do svojej bežnej doručenej pošty so zamaskovanou adresou.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Vytvorením e‑mailovej masky vyjadrujete súhlas s <label data-l10n-name="tos-url">Zmluvnými podmienkami</label> a <label data-l10n-name="privacy-url">Oznámením o ochrane osobných údajov</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Ďalej
+    .accesskey = a

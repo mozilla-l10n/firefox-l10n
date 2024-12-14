@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } – Výber používateľského prof
 profile-window-heading = Vyberte profil { -brand-short-name(case: "gen") }
 profile-window-body = Udržujte svoje pracovné a osobné prehliadanie, vrátane vecí, ako sú heslá a záložky, úplne oddelené. Alebo vytvorte profily pre každého, kto používa toto zariadenie.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Zvoliť profil pri spustení { -brand-short-name(case: "gen") }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Zobrazovať vždy pri spustení { -brand-short-name(case: "gen") }
 profile-window-create-profile = Vytvoriť profil
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Zvoľte názov ako “Práca” alebo “Osobný”
 new-profile-page-done-button =
     .label = Dokončiť úpravy
+profile-window-title-2 = { -brand-short-name } – Výber profilu
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Záložky
 delete-profile-history = História (navštívené stránky, súbory cookie, údaje stránok)
 delete-profile-autofill = Automaticky vypĺňané údaje (adresy, spôsoby platby)
 delete-profile-logins = Heslá
+
+##
+
 # Button label
 delete-profile-cancel = Zrušiť
 # Button label
