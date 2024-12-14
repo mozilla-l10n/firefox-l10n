@@ -16,6 +16,7 @@ about-glean-interface-description =
      — бұл { -vendor-short-name } жобаларында пайдаланылатын деректер жинау кітапханасы.
     Бұл интерфейс әзірлеушілер мен сынақшылар қолмен
     <a data-l10n-name="fog-link">құралдарды сынау</a> үшін пайдалануға арналған.
+about-glean-category-about-glean = { -glean-brand-name } туралы
 about-glean-category-manual-testing = Қолмен тестілеу
 about-glean-category-adhoc-testing = Арнайы тестілеу
 about-glean-category-profiler = Профильдеушіні пайдалану
