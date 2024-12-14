@@ -72,3 +72,10 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Proteja-se contra o spam com uma máscara de e-mail
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Proteja-se contra o spam, ocultando o seu endereço real com uma <label data-l10n-name="firefox-relay-learn-more-url">máscara de e-mail</label>. Irá continuar a receber mensagens <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste site</label> na sua caixa de entrada normal, com o seu endereço mascarado.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primeiro, registe-se ou inicie sessão na sua conta para utilizar uma máscara de e-mail
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Ao criar uma máscara de e-mail, concorda com os <label data-l10n-name="tos-url">Termos do Serviço</label> e <label data-l10n-name="privacy-url">Informações de Privacidade</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Seguinte
+    .accesskey = S
