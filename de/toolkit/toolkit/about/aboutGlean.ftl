@@ -107,12 +107,39 @@ about-glean-adhoc-note =
     Bitte beachten Sie, dass Sie die Glean JS API über die devtools-Konsole verwenden.
     Das bedeutet, dass die metrische Kategorie und der metrische Name in
     <code>CamelCase</code> formatiert sind, anders als in den Rust und C++ APIs.
+about-glean-profiler-explanation =
+    Um eine vollständige Ansicht aller aufgezeichneten Metriken zu sehen, können Sie den { -profiler-brand-name } verwenden.
+    Zuerst müssen Sie <a data-l10n-name="firefox-profiler-link">ein Leistungsprofil erstellen</a>.
+    Sobald Sie das Profil aufgenommen haben, wählen Sie <q>Markierungsdiagramm</q> und sehen Sie sich die Markierungen unter <q>Telemetry</q> an
+about-glean-profiler-explanation-profiler =
+    Im Leistungsprofil können Sie alle gesammelten Messwerte sehen, wann sie
+    gesammelt wurden, und welche Werte genau gesammelt wurden. Wenn Sie mit der Maus über einzelne Markierungen fahren,
+    können Sie überprüfen, ob der richtige Wert gesammelt wurde und dass die Sammlung zur richtigen Zeit stattfand.
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
 about-glean-feedback-settings-only =
     .message = Einstellungen angewendet!
 about-glean-feedback-settings-and-ping =
     .message = Einstellungen angewendet und Ping gesendet!
 about-glean-about-data-header = Über Daten
+about-glean-about-data-description =
+    Es gibt unterschiedliche Werkzeuge, mit denen Sie Ihre Daten anzeigen können, je nachdem
+    wonach Sie suchen.
+about-glean-about-data-description-list-intro =
+    Bitte verwenden Sie die folgende Liste für spezifische
+    Anwendungsfälle für jedes Werkzeug:
+about-glean-about-data-list-item-dictionary =
+    Um die Liste der von { -glean-brand-name } pro Anwendung gesammelten Daten zu durchsuchen, können Sie das
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-Wörterbuch</a> lesen.
+about-glean-about-data-list-item-about-telemetry =
+    Um die Daten zu durchsuchen, die mittels Legacy-Telemetrie gesammelt werden, schauen Sie bitte unter
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a> nach.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Um Debug-Tags, vollständige Pings, einen Live-Event-Stream oder
+    Metrik-Visualisierungen zu sehen, schauen Sie bitte im
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> nach.
+about-glean-about-data-list-item-firefox-profiler =
+    Um ein Leistungsprofil aufzuzeichnen und alle aufgezeichneten Messwerte anzusehen, verwenden Sie bitte den
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Um die Liste der gesammelten Daten zu durchsuchen, können Sie das
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-Wörterbuch</a> lesen.
