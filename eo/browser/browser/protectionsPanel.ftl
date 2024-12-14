@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Pli da informo pri la plibonigita protekto kontraŭ spurado
 protections-panel-etp-on-header = La plibonigita protekto kontraŭ spurado estas AKTIVA por tiu ĉi retejo
 protections-panel-etp-off-header = La plibonigita protekto kontraŭ spurado estas MALAKTIVA por tiu ĉi retejo
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Ĉu la retejo ne funkcias?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Ĉu la retejo ne funkcias?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Plibonigita protekto kontraŭ spurado
     .description = Malŝaltita por tiu ĉi retejo
     .aria-label = Plibonigita protekto kontraŭ spurado: malŝaltita por { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Ĉu la retejo ne funkcias?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Ĉu la retejo ne funkcias?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,16 @@ protections-panel-content-blocking-fingerprinters-label = Identigiloj de ciferec
 protections-panel-blocking-label = Blokita
 protections-panel-not-blocking-label = Permesata
 protections-panel-not-found-label = Neniu eltrovita
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokas spurilan enhavon en tiu ĉi retejo, krom se vi ĝin permesas.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permesi { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Spuriloj kaj enhavo de { $trackername } estas blokitaj
 
 ##
 
@@ -108,7 +118,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Raporti ne bone funkciantan retejon
 protections-panel-content-blocking-breakage-report-view-description = Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi { -brand-short-name } por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj. <label data-l10n-name="learn-more">Pli da informo</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi { -brand-short-name } por ĉiuj. Sendo de tiu ĉi raporto al { -vendor-short-name } estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj.
 protections-panel-content-blocking-breakage-report-view-collection-url = Retadreso
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Retadreso
