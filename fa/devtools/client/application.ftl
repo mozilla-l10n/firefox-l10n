@@ -5,8 +5,7 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
@@ -14,6 +13,14 @@
 
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = حذف ثبت نام
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = آغاز
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
+serviceworker-worker-updated = به‌روز شد <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
