@@ -320,6 +320,8 @@ newtab-wallpaper-dark-panda = Пандаи сурх дар ҷангал пинҳ
 newtab-wallpaper-dark-sky = Манзараи шаҳр бо осмони шабона
 newtab-wallpaper-dark-mountain = Манзараи кӯҳӣ
 newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
+newtab-wallpaper-dark-fox-anniversary = Рӯбоҳи ҷилодор дар роҳи сангфарш дар назди ҷангал
+newtab-wallpaper-light-fox-anniversary = Рӯбоҳи ҷилодор дар саҳрои сералаф бо манзараи тумани кӯҳӣ
 
 ## Solid Colors
 
@@ -433,6 +435,9 @@ newtab-topic-label-home = Хона ва боғ
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Барои танзими дақиқи навори хабарҳои худ, мавзуъҳоеро интихоб намоед
 newtab-topic-selection-save-button = Нигоҳ доштан
 newtab-topic-selection-cancel-button = Бекор кардан
 newtab-topic-selection-button-maybe-later = Шояд дертар
