@@ -30,4 +30,6 @@ webext-perms-description-sessions = Auf kürzlich geschlossene Tabs zugreifen
 webext-perms-description-tabs = Auf Browsertabs zugreifen
 webext-perms-description-tabHide = Browsertabs ausblenden und anzeigen
 webext-perms-description-topSites = Auf Chronik zugreifen
+webext-perms-description-trialML = KI-Modelle herunterladen und auf Ihrem Gerät ausführen
+webext-perms-description-userScripts = Nicht verifizierten Skripten von Drittanbietern den Zugriff auf Ihre Daten erlauben
 webext-perms-description-webNavigation = Auf Browseraktivität während Seitenwechsel zugreifen
