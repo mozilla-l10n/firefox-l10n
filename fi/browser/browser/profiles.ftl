@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Valitse käyttäjäprofiili
 profile-window-heading = Valitse { -brand-short-name }-profiili
 profile-window-body = Pidä työsi ja henkilökohtainen selaus, mukaan lukien salasanat ja kirjanmerkit, täysin erillään. Tai luo profiileja kaikille tämän laitteen käyttäjille.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Valitse profiili, kun { -brand-short-name } avautuu
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Näytä tämä, kun { -brand-short-name } avautuu
 profile-window-create-profile = Luo profiili

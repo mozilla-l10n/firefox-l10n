@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Selitä tämä
     .value = Selitä tämän valinnan keskeisimmät käsitteet käyttäen yksinkertaisia sanoja. Käytä myös esimerkkejä.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Oikolue
+    .value = Oikolue valittu teksti kirjoitus- ja kielioppivirheiden varalta. Tunnista kaikki mahdolliset virheet ja tarjoa korjattu versio tekstistä. Säilytä tarkoitus ja faktuaalinen tarkkuus, ja tulosta ensin lista ehdotetuista korjauksista, jonka jälkeen tulosta viimeistelty, korjattu versio tekstistä.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Kysy { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatbotti ei saa koko valintaasi
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ei saa koko valintaasi
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to { $provider } is about { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Piilota chatbotin oikotie
 
@@ -135,6 +156,5 @@ genai-onboarding-gemini-price = Ilmainen ja maksullinen vaihtoehto; tili vaadita
 genai-onboarding-huggingchat-generate = Luo tekstiä ja koodia
 genai-onboarding-huggingchat-switch = Vaihda useiden avointen mallien välillä
 genai-onboarding-huggingchat-price-2 = Ilmainen; tili vaaditaan tietyn pyyntömäärän jälkeen
-genai-onboarding-huggingchat-price = Ilmainen; joihinkin tehtäviin tarvitaan tili
 genai-onboarding-lechat-generate = Luo tekstiä ja koodia
 genai-onboarding-lechat-price = Ilmainen; tili vaaditaan
