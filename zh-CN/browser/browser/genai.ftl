@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = 解释说明
     .value = 请解释所选内容中的关键概念。使用简单词语，并适当举例说明。
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = 校对
+    .value = 请校对所选内容，检查其中是否有错别字、拼写和语法错误。找出所有错误并提供更正后的文本。据实校对，不要脱离原意。先列出需要更改的点，再给出完成更正后的文本。
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
