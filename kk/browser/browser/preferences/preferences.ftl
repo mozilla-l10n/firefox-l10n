@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау
+do-not-track-removal = Біз енді «Мені бақыламау» сигналын қолдамаймыз
 do-not-track-description2 =
     .label = Веб-сайттарға "Мені бақыламау" сұранымын жіберу
     .accesskey = л
