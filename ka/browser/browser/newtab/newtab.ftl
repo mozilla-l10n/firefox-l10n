@@ -80,7 +80,7 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = შეკვეთილი
+newtab-topsite-sponsored = დამკვეთისგან
 
 ## Context Menu - Action Tooltips.
 
@@ -128,8 +128,8 @@ newtab-privacy-modal-button-manage = შეკვეთილი მასალ
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
 newtab-privacy-modal-paragraph-2 =
     გარდა საინტერესო ამბებისა, ასევე მოგაწვდით მნიშვნელოვან, ღირებულ
-    მასალას, შერჩეული მხარდამჭერებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, <strong>ინახავს, მხოლოდ თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ ვნახავთ და ვერც
-    ჩვენი დამკვეთები ვერაფერს.
+    მასალას შერჩეული დამკვეთებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, <strong>მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც ჩვენი
+    დამკვეთები ვერაფერს იხილავენ.
 newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
 ##
@@ -286,13 +286,13 @@ newtab-custom-row-selector =
         [one] { $num } რიგი
        *[other] { $num } რიგი
     }
-newtab-custom-sponsored-sites = დაფინანსებული მალსახმობები
+newtab-custom-sponsored-sites = დამკვეთების მალსახმობები
 newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 newtab-custom-stories-toggle =
     .label = შემოთავაზებული ამბები
     .description = გამორჩეული მასალები, რომელთაც შეგირჩევთ { -brand-product-name }
-newtab-custom-pocket-sponsored = დაფინანსებული ამბები
+newtab-custom-pocket-sponsored = ამბები დამკვეთებისგან
 newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
@@ -385,7 +385,7 @@ newtab-weather-see-forecast =
     .title = ამინდს გთავაზობთ { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ დაფინანსებული
+newtab-weather-sponsored = { $provider } ∙ დამკვეთისგან
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება

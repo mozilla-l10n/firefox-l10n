@@ -90,7 +90,7 @@ shopping-show-less-button = მოკლედ
 shopping-settings-label =
     .label = პარამეტრები
 shopping-settings-recommendations-toggle2 =
-    .label = შემოთავაზებებისა და დაფინანსებული შიგთავსის ჩვენება
+    .label = დამკვეთების შეთავაზებებისა და მასალის ჩვენება
 shopping-settings-recommendations-learn-more3 = { -brand-product-name } არ აზიარებს თქვენს პირად მონაცემებს, ასე რომ ეს შემოთავაზებები არ გამოგყვებათ სხვა გვერდებზეც. <a data-l10n-name="review-quality-url">ვრცლად</a>
 shopping-settings-recommendations-toggle =
     .label = რეკლამების ჩვენება მიმოხილვის შემმოწმებელში
@@ -165,7 +165,7 @@ shopping-unanalyzed-product-analyze-button = მიმოხილვის ხ�
 
 more-to-consider-ad-label =
     .label = სხვა მსგავსი
-shopping-sponsored-label = დაფინანსებული
+shopping-sponsored-label = დამკვეთისგან
 ad-by-fakespot = რეკლამა – { -fakespot-brand-name }
 
 ## Shopping survey strings.

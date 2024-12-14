@@ -566,7 +566,7 @@ urlbar-result-action-search-in-private = ძიება პირად ფა�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ძიება
-urlbar-result-action-sponsored = შეკვეთილი
+urlbar-result-action-sponsored = დამკვეთისგან
 urlbar-result-action-switch-tab = ჩანართზე გადასვლა
 urlbar-result-action-visit = მონახულება
 # "Switch to tab with container" is used when the target tab is located in a
