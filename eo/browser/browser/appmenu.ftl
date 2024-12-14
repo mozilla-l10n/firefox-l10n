@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
+appmenu-fxa-setup-sync-new = Ŝalti
 appmenuitem-save-page =
     .label = Konservi paĝon kiel…
+appmenuitem-fxa-sync-off-title = Spegulado estas malŝaltita
+appmenuitem-fxa-sync-off-description = Protektu kaj aliru el ie ajn viajn legosignojn, pasvortojn kaj pli.
 
 ## What's New panel in App menu.
 
@@ -279,3 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protektu vian retumon
+
+## Profiles panel
+
+appmenu-profiles = Profiloj

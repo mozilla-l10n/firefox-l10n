@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Uzu retumilon apogatan de neprofitcela 
 mr2022-onboarding-get-started-primary-subtitle = Nia lasta versio estis fasonita por vi, kio faciligas retumon pli ol iam ajn antaŭe. Ĝi pakas amason da trajtoj, kaj ni pensas ke vi ilin ŝategos.
 mr2022-onboarding-get-started-primary-button-label = Agordi en sekundoj
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Fulmrapida agordo
 mr2022-onboarding-import-subtitle = Agordu { -brand-short-name } kiel vi ĝin ŝatas. Aldonu viajn legosignojn, pasvortojn kaj pli el via antaŭa retumilo.
@@ -356,6 +358,11 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kiam vi spegulas, { -
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protektas vin
 onboarding-gratitude-security-and-privacy-subtitle = Dankon pro via elekto de { -brand-short-name }, apogata de Mozilla Foundation. Kun via subteno ni laboras por interreto pli sekura kaj pli alirebla por ĉiuj.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Spegulu viajn datumojn al aliaj aparatoj
+onboarding-sign-up-description = Kreu konton kaj ĉiuj viaj gravaj informoj — pasvortoj, legosignoj, kaj pli — estos sekure konservitaj kaj disponeblaj kiam vi komencas seancon en iu ajn aparato.
+onboarding-sign-up-button = Komenci seancon aŭ registriĝi
+onboarding-sign-up-secondary-button = Komenci retumi
 
 ## New user time and familiarity survey strings
 
@@ -415,3 +422,13 @@ onboarding-genai-sidebar-title = Provu dialoganton de A.I. en la flanka strio
 onboarding-genai-sidebar-subtitle = Resumu retan enhavon, trovu ideojn, kreu malnetojn de mesaĝoj dum vi retumas. Elektu inter pluraj provizantoj. Ŝanĝu iam ajn. <a data-l10n-name="learn-more">Pli da informo</a>
 onboarding-genai-sidebar-primary-button = Elekti dialoganton
 onboarding-genai-sidebar-secondary-button = Komenci retumi
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Fini la agordadon de { -brand-short-name }
+onboarding-checklist-subtitle = Seku la jenajn paŝojn por eltiri la maksimumon el via retuma sperto.
+onboarding-checklist-set-default = Igu { -brand-short-name } via norma retumilo
+onboarding-checklist-pin = Alpingli { -brand-short-name } al via Dock
+onboarding-checklist-import = Enporti el antaŭa retumilo
+onboarding-checklist-extension = Aldoni etendaĵon
+onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
