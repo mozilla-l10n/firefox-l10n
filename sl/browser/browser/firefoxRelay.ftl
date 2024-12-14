@@ -24,6 +24,12 @@ firefox-relay-opt-in-title-1 = Zaščitite svoj e-poštni naslov:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = uporabite e-poštno masko { -relay-brand-name }
 firefox-relay-use-mask-title = Uporabi e-poštno masko { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Zaščitite se pred neželeno pošto z brezplačno e-poštno masko
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Prikrijte svoj pravi e-poštni naslov
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Pridobite brezplačno e-poštno masko
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Uporabi e-poštno masko
     .accesskey = U
@@ -33,3 +39,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne zdaj
     .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

@@ -661,6 +661,9 @@ urlbar-result-action-search-bookmarks = Iskanje po zaznamkih
 urlbar-result-action-search-history = Iskanje po zgodovini
 urlbar-result-action-search-tabs = Išči zavihke
 urlbar-result-action-search-actions = Dejanja iskanja
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Odpri { $group }
 
 ## Labels shown above groups of urlbar results
 
