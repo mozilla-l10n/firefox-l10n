@@ -103,11 +103,20 @@ tabbrowser-confirm-close-tabs-with-key-title = Равзанаро мепӯшед
 tabbrowser-confirm-close-tabs-with-key-button = Аз { -brand-short-name } баромадан
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Пеш аз баромад ба воситаи { $quitKey } тасдиқ карда шавад
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Пеш аз баромад ба воситаи { $quitKey } тасдиқ карда шавад
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = «{ -brand-short-name }»-ро хомӯш мекунед ё ин ки варақаи ҷориро мепӯшед?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Аз «{ -brand-short-name }» баромадан
+       *[other] Хомӯш кардани «{ -brand-short-name }»
+    }
 tabbrowser-confirm-close-tab-only-button = Пӯшидани варақаи ҷорӣ
 
 ## Confirmation dialog when opening multiple tabs simultaneously
