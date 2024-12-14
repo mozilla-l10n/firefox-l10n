@@ -636,8 +636,11 @@ urlbar-searchmode-popup-search-settings = Agordoj de serĉo
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button2 =
-    .label = { $engine }, elekti serĉilon
-    .tooltiptext = { $engine }, elekti serĉilon
+    .label = { $engine }, elektu serĉilon
+    .tooltiptext = { $engine }, elektu serĉilon
+urlbar-searchmode-button-no-engine =
+    .label = Neniu ŝparvojo elektita, elektu ŝparvojon
+    .tooltiptext = Neniu ŝparvojo elektita, elektu ŝparvojon
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -647,6 +650,9 @@ urlbar-result-action-search-bookmarks = Serĉi en legosignoj
 urlbar-result-action-search-history = Serĉi en historio
 urlbar-result-action-search-tabs = Serĉi en la langetoj
 urlbar-result-action-search-actions = Serĉaj agoj
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Malfermi { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -960,12 +966,18 @@ data-reporting-notification-button =
     .accesskey = E
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privata retumo
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privata retumo
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Protekto kontraŭ perdo de datumoj (DLP) de { $agentName }. Alklaku por havi pli da informo.
 content-analysis-panel-title = Protekto de datumoj
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Via organizo uzas <b>{ $agentName }</b> por protekti sin kontraŭ perdo de datumoj. <a data-l10n-name="info">Pli da informo</a>
 
 ## Unified extensions (toolbar) button
 
@@ -994,6 +1006,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Etendaĵoj
+    .tooltiptext =
+        Etendaĵoj
+        Kelkaj etendaĵoj estas malaktivaj
 
 ## Private browsing reset button
 

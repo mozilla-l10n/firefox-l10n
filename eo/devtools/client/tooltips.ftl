@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Ne eblas superregi 
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas lokita elemento.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi povas esti aplikita nur al anstataŭitaj elementoj.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar <strong>overflow:hidden</strong> ne havas valoron.
+inactive-css-no-size-containment = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne havas limon de grandeco.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne efikas sur internaj elementoj de tabelo.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne efikas sur internaj elementoj de tabelo, krom se ili estas ĉeloj.
 inactive-css-not-table = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas tablo.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> ne efikas sur tiu ĉi eleme
 inactive-css-ruby-element = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas elemento 'ruby'. Ĝia grando estas difinita de la tipara grando de la teksto 'ruby'.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ne estas subtenata en elstarigitaj kvazaŭelementoj.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::cue.
@@ -98,6 +104,7 @@ inactive-css-not-floated-fix = Provu aldoni atributon <strong>float</strong> kun
 inactive-css-position-property-on-unpositioned-box-fix = Klopodu difini ĝian atributon <strong>position</strong> per valoro diferenca de <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Certu aldoni la atributon al anstataŭita elemento. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Provu aldoni <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Provu difini la atributon <strong>display</strong> per valoro malsama ol <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, aŭ <strong>inline-table</strong> kaj certiĝu ke ĝi ne estas ene de tablo aŭ segmento ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Provu aldoni <strong>display:table</strong> aŭ <strong>display:inline-table</strong>. { learn-more }

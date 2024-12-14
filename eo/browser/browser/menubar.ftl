@@ -255,6 +255,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Poŝaparataj legosignoj
 
+## Profiles Menu
+
+menu-profiles =
+    .label = Profiloj
+menu-profiles-manage-profiles =
+    .label = Administri profilojn
+menu-profiles-new-profile =
+    .label = Nova profilo
+
 ## Tools Menu
 
 menu-tools =
