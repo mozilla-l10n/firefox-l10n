@@ -479,12 +479,17 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = ఇష్టాంశాలు
+urlbar-searchmode-tabs =
+    .label = ట్యాబులు
 urlbar-searchmode-history =
     .label = చరిత్ర
 urlbar-searchmode-actions =
     .label = చర్యలు
 urlbar-searchmode-exit-button =
     .tooltiptext = మూసివేయి
+urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
 urlbar-searchmode-popup-search-settings = వెతుకుడు అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
@@ -755,6 +760,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = అంతరంగిక విహారణ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = అంతరంగిక విహరణ
 
 ## Unified extensions (toolbar) button
 
@@ -836,3 +844,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = సంచయంలో చూపించు
+    .accessKey = F

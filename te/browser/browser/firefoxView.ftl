@@ -5,10 +5,17 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = వివిధ కిటికీలలో, పరికలాలలో మీ ఇటీవలి విహరణను చూడండి
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = మూసివేయి
     .aria-label = మూసివేయి
@@ -30,6 +37,11 @@ firefoxview-closed-tabs-description2 = ఈ కిటికీలో మూసి
 firefoxview-closed-tabs-placeholder-header = ఇటీవల మూసిన ట్యాబులేమీ లేవు
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = చివరిగా చూసింది
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = చూడడానికి ఇంకా ఏమీలేదు
 firefoxview-collapse-button-show =
     .title = జాబితా చూపించు
 firefoxview-collapse-button-hide =
@@ -83,6 +95,13 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = ఇటీవల మూసిన ట్యాబులలో వెతకండి
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } సైటు
+       *[other] { $count } సైట్లు
+    }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

@@ -21,6 +21,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = మొద�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-button = తరువాత
 callout-pdfjs-draw-button = అర్థమైంది!
 
 ## Firefox View Discoverability Strings
