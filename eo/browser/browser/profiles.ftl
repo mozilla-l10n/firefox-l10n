@@ -4,6 +4,13 @@
 
 profile-window-title = { -brand-short-name } - Elekti profilon de uzanto
 profile-window-heading = Elektu profilon de { -brand-short-name }
+profile-window-body = Tute apartigu vian personan kaj laborejan retumon, eĉ pasvortojn kaj legosignojn. Aŭ kreu profilojn por ĉiu uzanto de tiu ĉi aparato.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Elekti profilon kiam { -brand-short-name } malfermiĝas
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label =
+    .label = Montri tion ĉi kiam { -brand-short-name } malfermiĝas
 profile-window-create-profile = Krei profilon
 profile-card-edit-button =
     .title = Modifi profilon
@@ -34,10 +41,23 @@ edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu al
 edit-profile-page-profile-saved = Konservita
 new-profile-page-title = Nova profilo
 new-profile-page-header = Personecigi vian novan profilon
+new-profile-page-header-description = Ĉiu profilo konservas sian propran retuman historion kaj agordojn apartigitaj de la aliaj profiloj. Cetere, la fortaj protektoj pri privateco de { -brand-short-name } estas norme ŝaltitaj.
 new-profile-page-learn-more = Pli da informo
+new-profile-page-input-placeholder =
+    .placeholder = Elektu nomon, ekzemple “Labora” aŭ “Persona”
+new-profile-page-done-button =
+    .label = Modifo finita
+profile-window-title-2 = { -brand-short-name } - Elekti profilon
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Forigi profilon { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Ĉu forigi profilon { $profilename }?
+delete-profile-description = { -brand-short-name } definitive forigos la jenajn datumojn en tiu ĉi aparato:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Malfermitaj fenestroj
 # Open is an adjective, as in "browser tabs currently open".

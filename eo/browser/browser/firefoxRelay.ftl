@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Protektu vian retpoŝtan adreson:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Uzi retpoŝtan maskon de { -relay-brand-name }
 firefox-relay-use-mask-title = Uzi retpoŝtan maskon de { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Evitu trudmesaĝojn per senpaga retpoŝta masko
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Kaŝu vian realan retpoŝtan adreson
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Ricevu senpagan retpoŝtan maskon
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Protektu vian retpoŝtan enirkeston kontraŭ trudmesaĝoj
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Uzi retpoŝtan maskon
     .accesskey = r
@@ -33,3 +41,16 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne nun
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Kreo de konto donos al vi aliron al pli da produktoj por protekti privatecon. Ĉiuj retpoŝtaj mesaĝoj sendintaj al via retpoŝta masko estos plusenditaj al via reala retpoŝta adreso (krom se vi decidas bloki ilin).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Komenci seancon en { -brand-product-name } kaj uzi repoŝtan maskon
+    .accesskey = K
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
