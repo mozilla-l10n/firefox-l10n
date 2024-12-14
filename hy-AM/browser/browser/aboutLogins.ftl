@@ -109,6 +109,7 @@ login-intro-description = Եթե պահպանել եք ձեր մուտքագրո
 login-intro-instructions-fxa = Գրանցվեք կամ մուտք գործեք Ձեր { -fxaccount-brand-name } հաշիվ այն սարքով, որով պահվել են Ձեր մուտքերը:
 about-logins-login-intro-heading-message = Պահպանեք Ձեր գաղտնաբառերը ապահով տեղում
 login-intro-description2 = { -brand-product-name }-ում Ձեր պահած գաղտնաբառերը գաղտնագրված են:  Բացի այդ մենք հսկում ենք արտահոսքերը և կզգուշացնենեք՝ եթե այն վերաբերվի Ձեզ: <a data-l10n-name="breach-alert-link">Իմանալ ավելին</a>
+login-intro-instructions-fxa2 = Ստեղծեք կամ մուտք գործեք ձեր հաշիվ այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են:
 login-intro-instructions-fxa-settings = Գնացեք Կարգավորումներ > Համաժամացում > Միացնել համաժամացումը…: Ընտրեք «Մուտքանուններ և գաղտնաբառեր» վանդակը:
 login-intro-instructions-fxa-passwords-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="passwords-help-link">գաղտնաբառերի աջակցություն</a>:
 
@@ -132,6 +133,8 @@ login-item-copied-username-button-text = Պատճենվե՛ց
 login-item-password-label = Գաղտնաբառ
 login-item-password-reveal-checkbox =
     .aria-label = Ցուցադրել գաղտնաբառը
+login-item-password-conceal-checkbox =
+    .aria-label = Թաքցնել գաղտնաբառը
 login-item-copy-password-button-text = Պատճենել
 login-item-copied-password-button-text = Պատճենված
 login-item-save-changes-button = Պահպանել փոփոխությունները
@@ -429,6 +432,10 @@ about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Կրկնօրինակել գրառումները</div> <div data-l10n-name="not-imported">(ներմուծված չէ)</div>
     }
 about-logins-import-report-error =
     { $count ->

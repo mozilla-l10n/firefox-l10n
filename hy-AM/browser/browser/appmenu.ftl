@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյ�
 appmenu-fxa-signed-in-label = Մուտք գործել
 appmenu-fxa-setup-sync =
     .label = Միացնել համաժամացումը…
+appmenu-fxa-setup-sync-new = Միացնել
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
+appmenuitem-fxa-sync-off-title = Համաժամեցումն անջատված է
+appmenuitem-fxa-sync-off-description = Պաշտպանեք և մատչեք ձեր էջանիշները, գաղտնաբառերը և ավելին ամենուր:
 
 ## What's New panel in App menu.
 
@@ -130,6 +133,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = Հատկագրիչ
     .tooltiptext = Հատկագրիչը գրանցում է պրոֆիլը
+profiler-popup-button-capturing =
+    .label = Հատկագրիչ
+    .tooltiptext = Հատկագրիչը լրացնում է հատկագիրը
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Ցուցադրել առավել շատ տեղեկություն
@@ -186,6 +192,8 @@ profiler-popup-presets-networking-label =
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Հոսանք
+profiler-popup-presets-debug-label =
+    .label = Վրիպազերծել
 profiler-popup-presets-custom-label =
     .label = Հարմարեցված
 
@@ -266,3 +274,14 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
+
+## Profiles panel
+
+appmenu-profiles = Հատկագրեր
+appmenu-other-profiles = Այլ հատկագրեր
+appmenu-manage-profiles =
+    .label = Կառավարել հատկագրերը
+appmenu-create-profile =
+    .label = Նոր հատկագիր
+appmenu-edit-profile =
+    .aria-label = Խմբագրել հատկագիրը

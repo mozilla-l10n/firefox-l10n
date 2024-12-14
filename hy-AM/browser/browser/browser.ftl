@@ -133,6 +133,9 @@ urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որ�
 urlbar-search-tips-redirect-2 = Սկսեք Ձեր որոնումը հասցեագոտում՝ տեսնելու համար { $engineName }-ի առաջարկները և Ձեր դիտարկումների պատմությունը:
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Որոնումը ավելի պարզ է դարձել: Փորձեք ավելի հստակեցնել Ձեր որոնումն այստեղ՝ հասցեագոտում: Փոխարենը հասցեն ցուցադրելու համար այցելեք «Որոնում»՝ կարգավորումներում:
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Ընտրեք այս դյուրանցումը, որպեսզի ավելի արագ գտնեք այն, ինչ ձեզ հարկավոր է:
 
 ## Local search mode indicator labels in the urlbar
 
@@ -366,6 +369,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
 identity-https-only-info-turn-on2 = Միացրեք Միայն HTTPS կերպը այս կայքի համար, եթե ցանկանում եք, որ { -brand-short-name }-ը արդիացնի կապակցումը, երբ հնարավոր է:
+identity-https-only-info-turn-off2 = Եթե էջը կարծես խախտված է, կարող եք անջատել միայն HTTPS-ի ռեժիմը, որպեսզի այս կայքը կրկին բեռնվի՝ օգտագործելով անապահով HTTP:
 identity-https-only-info-no-upgrade = Հնարավոր չէ HTTP-ից թարմացնել կապը:
 identity-permissions-storage-access-header = Միջկայքային թխուկներ
 identity-permissions-storage-access-hint = Այս կողմերը կարող են օգտագործել միջկայքաին թխուկներ և կայքի տվյալներ, երբ դուք գտնվում եք այս կայքում:
@@ -602,6 +606,38 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Որոնել { $engine }-ով
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Որոնում { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Որոնել { $engine }-ով
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Ավելացնել որոնիչ
+urlbar-searchmode-bookmarks =
+    .label = Էջանիշեր
+urlbar-searchmode-tabs =
+    .label = Ներդիրներ
+urlbar-searchmode-history =
+    .label = Պատմություն
+urlbar-searchmode-actions =
+    .label = Գործողություններ
+urlbar-searchmode-exit-button =
+    .tooltiptext = Փակել
+urlbar-searchmode-popup-description = Այս անգամ որոնել հետևյալով՝
+urlbar-searchmode-popup-search-settings = Որոնման կարգավորումներ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, ընտրեք որոնիչ
+    .tooltiptext = { $engine }, ընտրեք որոնիչ
+urlbar-searchmode-button-no-engine =
+    .label = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
+    .tooltiptext = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -632,6 +668,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Վերջին որոնումները
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Թրենդային { $engine }-ում
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Մի ցուցադրեք թրենդային որոնումները
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = Ինչո՞ւ եմ ես սա տեսնում:
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Շնորհակալություն արձագանքի համար: Դուք այլևս չեք տեսնի թրենդային որոնումներ:
 
 ## Reader View toolbar buttons
 
@@ -648,7 +699,10 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Բացեք նկարը նկարում ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Փակել նկարը նկարում ({ $shortcut })
 picture-in-picture-panel-header = Նկար-նկարում
+picture-in-picture-panel-headline = Այս կայքը խորհուրդ չի տալիս «Նկարը նկարում»:
 picture-in-picture-enable-toggle =
     .label = Միացնել ամեն դեպքում
 
@@ -904,6 +958,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Գաղտնի դիտարկում
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Գաղտնի դիտարկում
 content-analysis-panel-title = Տվյալների պաշտպանություն
 
 ## Unified extensions (toolbar) button
@@ -927,6 +984,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Ընդլայնումներ
         Որոշ Ընդլայնումներ թույլատրված չեն
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Ընդլայնումներ
+    .tooltiptext =
+        Ընդլայնումներ
+        Որոշ ընդլայնումներ անջատված են
 
 ## Private browsing reset button
 
@@ -962,6 +1028,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (Չստուգված)
 popup-notification-xpinstall-prompt-learn-more = Իմացեք ավելին հավելումների ապահով տեղակայման մասին
+popup-notification-xpinstall-prompt-block-url = Դիտել մանրամասները
 
 ## Pop-up warning
 

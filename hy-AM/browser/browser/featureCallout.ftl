@@ -41,3 +41,25 @@ callout-pdfjs-draw-body-a = Նշեք PDF ֆայլերում, այնուհետև 
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Այլևս ոչ մի տպագրություն և սկանավորում: Նշեք PDF ֆայլերում, այնուհետև պահպանեք Ձեր փոփոխությունները:
 callout-pdfjs-draw-button = Հասկացա
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-strongly-agree = Լիովին համաձայն եմ
+sidebar-callout-survey-agree = Համաձայն եմ
+sidebar-callout-survey-disagree = Համաձայն չեմ
+sidebar-callout-survey-strongly-disagree = Կտրականապես համաձայն չեմ
+sidebar-callout-survey-features-question = Ստորև բերված են կողագոտու հնարավոր հատկությունները: Ո՞րն ամենաշատը կբարելավի ձեր արդյունավետությունը { -brand-short-name }-ում:
+sidebar-callout-survey-saved-websites-2 = Արագ մուտք  ձեր էջանիշներին
+sidebar-callout-survey-none-of-above = Վերը նշվածներից ոչ մեկը
+sidebar-callout-survey-submit = Ուղարկել
+sidebar-callout-survey-thank-you = Շնորհակալությո՜ւն Ձեր արձագանքի համար:
+sidebar-genai-survey-satisfaction-question = Որքա՞ն գոհ եք կողային տողում AI chatbot-ի հասանելիությունից:

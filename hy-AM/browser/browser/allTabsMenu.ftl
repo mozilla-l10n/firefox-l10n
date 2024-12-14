@@ -14,3 +14,7 @@ all-tabs-menu-manage-user-context =
     .accesskey = O
 all-tabs-menu-close-duplicate-tabs =
     .label = Փակել կրկնօրինակված ներդիրները
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Փակել բոլոր կրկնօրինակված ներդիրները
+all-tabs-menu-synced-tabs =
+    .label = Ներդիրներ այլ սարքերից

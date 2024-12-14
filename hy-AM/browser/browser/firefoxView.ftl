@@ -31,11 +31,13 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
 firefoxview-tabpickup-step-signin-header = Անխափան փոխարկեք սարքերի միջև
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
+firefoxview-syncedtabs-signin-primarybutton-2 = Մուտք գործել
 firefoxview-syncedtabs-signin-header = Վերցրեք ներդիրները ցանկացած վայրից
 firefoxview-syncedtabs-signin-primarybutton = Մուտք գործեք կամ գրանցվեք
 firefoxview-tabpickup-adddevice-description = Ներբեռնեք { -brand-product-name } բջջային հեռախոսի համար և մուտք գործեք այնտեղ:
 firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-name } բջջայինի համար
+firefoxview-syncedtabs-adddevice-header-2 = Վերցրեք ներդիրները ցանկացած վայրից
 firefoxview-syncedtabs-adddevice-header = Մուտք գործեք { -brand-product-name } ձեր մյուս սարքերում
 firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
@@ -150,6 +152,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Որոնել վերջերս փակված ներդիրները
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Որոնել ներդիրներ
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Որոնել համաժամեցված ներդիրներ
 # Placeholder for the input field to search in open tabs ("search" is a verb).
@@ -199,6 +204,7 @@ firefoxview-view-more-browsing-history = Դիտեք զննարկման ավել�
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Վերադարձեք այնտեղ, որտեղ եղել եք
+firefoxview-history-empty-description = Ինչպես որ դիտարկում եք, ձեր այցելած էջերը կցուցադրվեն այստեղ:
 
 ##
 
