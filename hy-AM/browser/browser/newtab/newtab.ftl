@@ -223,11 +223,24 @@ newtab-pocket-more-recommendations = Լրացուցիչ առաջարկությո
 newtab-pocket-learn-more = Իմանալ ավելին
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք ձեր սիրած պատմությունները { -pocket-brand-name }, և ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանությամբ:
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Պահել
 newtab-pocket-saved = Պահված է
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Ավելի շատ նման
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Ինձ համար չէ
+newtab-toast-thumbs-up-or-down = Շնորհակալություն։ Ձեր կարծիքը կօգնի մեզ բարելավել ձեր հոսքը:
+newtab-toast-dismiss-button =
+    .title = Բաց թողնել
+    .aria-label = Բաց թողնել
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -255,12 +268,16 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Հովանավորված դյուրանցումներ
 newtab-custom-pocket-title = Խորհուրդ է տրվում { -pocket-brand-name }-ի կողմից
+newtab-custom-pocket-sponsored = Հովանավորված պատմություններ
 newtab-custom-pocket-show-recent-saves = Ցուցադրել վերջին պահումները
 newtab-custom-recent-title = Վերջին ակտիվություն
 newtab-custom-recent-subtitle = Վերջին կայքերի և բովանդակության ընտրում
 newtab-custom-recent-toggle =
     .label = Վերջին ակտիվություն
     .description = Վերջին կայքերի և բովանդակության ընտրում
+newtab-custom-weather-toggle =
+    .label = Եղանակ
+    .description = Այսօրվա կանխատեսումը մի հայացքով
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
 
@@ -268,15 +285,58 @@ newtab-custom-settings = Կառավարել լրացուցիչ կարգավոր�
 
 newtab-wallpaper-title = Պաստառներ
 newtab-wallpaper-reset = Վերակայել սկզբնադիրը
+newtab-wallpaper-light-red-panda = Կարմիր պանդա
+newtab-wallpaper-light-mountain = Սպիտակ լեռ
+newtab-wallpaper-light-sky = Երկինք մանուշակագույն և վարդագույն ամպերով
+newtab-wallpaper-light-color = Կապույտ, վարդագույն և դեղին ձևեր
+newtab-wallpaper-light-landscape = Կապույտ մառախուղ լեռնային լանդշաֆտ
+newtab-wallpaper-light-beach = Լողափ արմավենու ծառով
+newtab-wallpaper-dark-aurora = Ավրորա Բորեալիս
+newtab-wallpaper-dark-color = Կարմիր և կապույտ ձևեր
+newtab-wallpaper-dark-panda = Կարմիր պանդան թաքնված է անտառում
+newtab-wallpaper-dark-sky = Քաղաքի լանդշաֆտ գիշերային երկնքով
+newtab-wallpaper-dark-mountain = Լանդշաֆտային լեռ
+newtab-wallpaper-dark-city = Մանուշակագույն քաղաքի լանդշաֆտ
+newtab-wallpaper-dark-fox-anniversary = Աղվեսը մայթին անտառի մոտ
+newtab-wallpaper-light-fox-anniversary = Աղվեսը խոտածածկ դաշտում՝ մառախլապատ լեռնային լանդշաֆտով
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Կոշտ գույներ
+newtab-wallpaper-blue = Կապույտ
+newtab-wallpaper-light-blue = Բաց կապույտ
+newtab-wallpaper-light-purple = Բաց մանուշակագույն
+newtab-wallpaper-light-green = Բաց կանաչ
+newtab-wallpaper-green = Կանաչ
+newtab-wallpaper-beige = Բեժ
+newtab-wallpaper-yellow = Դեղին
+newtab-wallpaper-orange = Նարնջագույն
+newtab-wallpaper-pink = Վարդագույն
+newtab-wallpaper-light-pink = Բաց վարդագույն
+newtab-wallpaper-red = Կարմիր
+newtab-wallpaper-dark-blue = Մուգ կապույտ
+newtab-wallpaper-dark-purple = Մուգ մանուշակագույն
+newtab-wallpaper-dark-green = Մուգ կանաչ
+newtab-wallpaper-brown = Շագանակագույն
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Վերացական
+newtab-wallpaper-abstract-green = Կանաչ ձևեր
+newtab-wallpaper-abstract-blue = Կապույտ ձևեր
+newtab-wallpaper-abstract-purple = Մանուշակագույն ձևեր
+newtab-wallpaper-abstract-orange = Նարնջագույն ձևեր
+newtab-wallpaper-gradient-orange = Գրադիենտ նարնջագույն և վարդագույն
+newtab-wallpaper-abstract-blue-purple = Կապույտ և մանուշակագույն ձևեր
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Լուսանկարներ
+newtab-wallpaper-beach-at-sunrise = Լողափ արևածագին
+newtab-wallpaper-beach-at-sunset = Լողափ մայրամուտին
+newtab-wallpaper-storm-sky = Փոթորիկ երկինք
+newtab-wallpaper-sky-with-pink-clouds = Երկինք վարդագույն ամպերով
+newtab-wallpaper-red-panda-yawns-in-a-tree = Կարմիր պանդան հորանջում է ծառի վրա
 
 ## New Tab Weather
 
@@ -297,4 +357,9 @@ newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելս
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
 

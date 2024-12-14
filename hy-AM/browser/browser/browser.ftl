@@ -1029,6 +1029,10 @@ popup-notification-addon-install-unsigned =
     .value = (Չստուգված)
 popup-notification-xpinstall-prompt-learn-more = Իմացեք ավելին հավելումների ապահով տեղակայման մասին
 popup-notification-xpinstall-prompt-block-url = Դիտել մանրամասները
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Աշխատեցնել գաղտնի պատուհաններում
+    .accesskey = P
 
 ## Pop-up warning
 
@@ -1068,3 +1072,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Ցուցադրել պանակում
+    .accessKey = F

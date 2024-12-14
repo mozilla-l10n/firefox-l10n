@@ -71,7 +71,17 @@ genai-onboarding-chatgpt-learn = Իմացեք ավելին ChatGPT-ի մասին
 genai-onboarding-copilot-tooltip =
     .title = Copilot
 genai-onboarding-copilot-learn = Իմանալ ավելին Copilot-ի մասին:
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Իմանալ ավելին Gemini-ի մասին
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Իմացեք ավելին Le Chat-ի մասին
+genai-onboarding-select-primary = Սկսել զրուցել
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Ստեղծեք գրվածք և կոդ

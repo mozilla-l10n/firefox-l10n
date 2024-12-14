@@ -44,15 +44,34 @@ callout-pdfjs-draw-button = Հասկացա
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-primary-button-label = Բացել { -firefoxview-brand-name }-ը
+fx-view-discoverability-secondary-button-label = Բաց թողնել
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Այլևս չցուցադրել այս երաշխավորությունը
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Ցուցադրել ավելի քիչ երաշխավորություններ
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Կառավարել կարգավորումները
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողային գոտում
+sidebar-button-callout-subtitle = Օգտագործեք կողագոտի կոճակը՝ կողագոտին ընդլայնելու համար, որպեսզի կարողանաք տեսնել ներդիրների վերնագրերը:
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Օգնեք բարելավել { -brand-short-name }-ը
+sidebar-callout-survey-satisfaction-question = Որքանո՞վ եք գոհ { -brand-short-name }-ում կողային գոտու փորձառությունից:
+sidebar-callout-survey-privacy-notice-link = Գաղտնիության դրույթներ
+sidebar-callout-survey-very-satisfied = Շատ գոհ
+sidebar-callout-survey-satisfied = Գոհ
+sidebar-callout-survey-neutral = Չեզոք
+sidebar-callout-survey-dissatisfied-2 = Դժգոհ
+sidebar-callout-survey-very-dissatisfied-2 = Շատ դժգոհ
+sidebar-callout-survey-dont-use-it = Ես այն չեմ օգտագործում
 sidebar-callout-survey-strongly-agree = Լիովին համաձայն եմ
 sidebar-callout-survey-agree = Համաձայն եմ
 sidebar-callout-survey-disagree = Համաձայն չեմ
