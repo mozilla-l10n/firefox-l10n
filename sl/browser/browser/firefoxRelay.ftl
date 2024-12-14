@@ -30,6 +30,8 @@ firefox-relay-opt-in-title-a = Zaščitite se pred neželeno pošto z brezplačn
 firefox-relay-opt-in-subtitle-a = Prikrijte svoj pravi e-poštni naslov
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Pridobite brezplačno e-poštno masko
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Zaščitite svoj nabiralnik pred neželeno pošto
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Uporabi e-poštno masko
     .accesskey = U
@@ -39,12 +41,33 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne zdaj
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Prijavi se v { -brand-product-name } in uporabi masko
+    .accesskey = j
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ne prikazuj več
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ne zdaj
+    .accesskey = z
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Zaščitite se pred neželeno pošto z brezplačno e-poštno masko
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registracija
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Pridobite brezplačno e-poštno masko
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registracija
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Z ustvaritvijo e-poštne maske se strinjate s <label data-l10n-name="tos-url">pogoji uporabe</label> in z <label data-l10n-name="privacy-url">obvestilom o zasebnosti</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Naprej
+    .accesskey = N

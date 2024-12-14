@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } – Izbira uporabniškega profila
 profile-window-heading = Izberite profil { -brand-short-name(sklon: "rodilnik") }
 profile-window-body = Ohranite službeno in zasebno brskanje, vključno z gesli in zaznamki, popolnoma ločeni. Ali pa ustvarite profile za vse, ki uporabljajo to napravo.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Ko se { -brand-short-name } odpre, izberi profil
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Prikaži, ko se odpre { -brand-short-name }
 profile-window-create-profile = Ustvari profil
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Izberite ime, na primer "Služba" ali "Osebno"
 new-profile-page-done-button =
     .label = Urejeno
+profile-window-title-2 = { -brand-short-name } – Izbira profila
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Zaznamki
 delete-profile-history = Zgodovina (obiskane strani, piškotki, podatki strani)
 delete-profile-autofill = Samodejno izpolnjevanje podatkov (naslovi, načini plačila)
 delete-profile-logins = Gesla
+
+##
+
 # Button label
 delete-profile-cancel = Prekliči
 # Button label
