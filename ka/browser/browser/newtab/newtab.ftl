@@ -80,7 +80,7 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = დაფინანსებული
+newtab-topsite-sponsored = შეკვეთილი
 
 ## Context Menu - Action Tooltips.
 
@@ -115,7 +115,7 @@ newtab-menu-delete-history = ისტორიიდან ამოშლა
 newtab-menu-save-to-pocket = { -pocket-brand-name }-ში შენახვა
 newtab-menu-delete-pocket = წაშლა { -pocket-brand-name }-იდან
 newtab-menu-archive-pocket = დაარქივება { -pocket-brand-name }-ში
-newtab-menu-show-privacy-info = ჩვენი დამფინანსებლები და თქვენი პირადულობა
+newtab-menu-show-privacy-info = ჩვენი დამკვეთები და თქვენი პირადულობა
 newtab-menu-about-fakespot = გაიცანით { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
@@ -128,8 +128,8 @@ newtab-privacy-modal-button-manage = შეკვეთილი მასალ
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
 newtab-privacy-modal-paragraph-2 =
     გარდა საინტერესო ამბებისა, ასევე მოგაწვდით მნიშვნელოვან, ღირებულ
-    მასალას, შერჩეული მხარდამჭერებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, <strong>ინახავს, მხოლოდ თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც
-    ჩვენი მხარდამჭერი კომპანიები ვერაფერს იხილავს.
+    მასალას, შერჩეული მხარდამჭერებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, <strong>ინახავს, მხოლოდ თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ ვნახავთ და ვერც
+    ჩვენი დამკვეთები ვერაფერს.
 newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
 ##
