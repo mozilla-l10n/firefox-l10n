@@ -158,6 +158,14 @@ open-new-link-as-tabs =
 ask-on-close-multiple-tabs =
     .label = Demandi antaŭ ol fermi plurajn langetojn
     .accesskey = D
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Demandi antaŭ ol fini per { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Konfirmi antaŭ fermi plurajn langetojn
     .accesskey = p
