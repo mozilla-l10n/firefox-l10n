@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - пайдаланушы профи
 profile-window-heading = { -brand-short-name } профилін таңдау
 profile-window-body = Парольдер мен бетбелгілер сияқты нәрселерді қоса алғанда, жұмыс пен жеке шолуды бөлек ұстаңыз. Немесе осы құрылғыны пайдаланатын барлық адамдар үшін профильдер жасаңыз.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = { -brand-short-name } ашылған кезде профиль таңдау
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name } ашылған кезде мұны көрсету
 profile-window-create-profile = Профиль жасау
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = «Жұмыс» немесе «Жеке» сияқты атауды таңдаңыз.
 new-profile-page-done-button =
     .label = Түзету аяқталды
+profile-window-title-2 = { -brand-short-name } - Профильді таңдау
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Бетбелгілер
 delete-profile-history = Тарих (ашылған беттер, cookie файлдары, сайт деректері)
 delete-profile-autofill = Автотолтыру деректері (адрестер, төлем әдістері)
 delete-profile-logins = Парольдер
+
+##
+
 # Button label
 delete-profile-cancel = Бас тарту
 # Button label

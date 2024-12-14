@@ -74,10 +74,13 @@ protections-panel-not-found-label = Ешнәрсе табылмады
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } сіз осы сайтта болған кезде рұқсат етпесеңіз, сізді бақылайтын мазмұнды блоктайды.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = { $trackername } рұқсат ету
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } трекер мен мазмұн блокталды
 
 ##
 
