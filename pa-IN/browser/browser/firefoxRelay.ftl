@@ -64,6 +64,18 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਲਵੋ
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ<label data-l10n-name="firefox-fxa-and-relay-offer-domain"> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = ਸਾਈਨ ਅੱਪ ਕਰੋ
+    .accesskey = S
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਤੋਂ ਬਚੋ
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਐਡਰੈਸ ਨੂੰ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨਾਲ ਓਹਲੇ ਰੱਖ ਕੇ ਸਮੈਪ ਤੋਂ ਬਚੋ।<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਹਾਲੇ ਵੀ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਿਰਨਾਵੇਂ ਨੂੰ ਮਾਸਕ ਰੱਖ ਕੇ ਤੁਹਾਡੇ ਨਿਯਮਤ ਇਨਬਾਕਸ ਵਿੱਚ ਆਉਣਗੀਆਂ।
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = ਈਮੇਲ ਮਾਸਕ ਬਣਾ ਕੇ ਤੁਸੀਂ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਅਤੇ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</label> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = ਅੱਗੇ
+    .accesskey = N
