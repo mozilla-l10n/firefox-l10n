@@ -650,6 +650,10 @@ search-show-suggestions-url-bar-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
     .accesskey = Н
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Намоиш додани дархостҳои ҷустуҷӯӣ тавассути навори нишонӣ дар саҳифаҳо бо натиҷаҳои ҷустуҷӯ
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =

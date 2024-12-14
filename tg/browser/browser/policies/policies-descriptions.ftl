@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Барои чоп аз равзанаи гуфту
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Сомонаҳоро аз имкони тамошо манъ мекунад. Барои маълумоти муфассал оид ба формат ба ҳуҷҷатҳо нигаред.
 policy-Windows10SSO = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Иҷозат додани воридшавии ягона ба ҳисобҳои «Microsoft Entra».
