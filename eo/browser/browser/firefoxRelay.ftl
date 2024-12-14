@@ -75,3 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protektu vin kontraŭ trudmesaĝoj per retpoŝta masko
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protektu vin kontraŭ trudmesaĝoj per <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko</label>. Vi plu ricevos retpoŝtajn mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> en via normala enirkesto, sed kun via adreso maskita.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Se vi kreas retpoŝtan maskon vi akceptas la <label data-l10n-name="tos-url">kondiĉojn de uzo</label> kaj <label data-l10n-name="privacy-url">rimarkon pri privateco</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Antaŭen
+    .accesskey = A

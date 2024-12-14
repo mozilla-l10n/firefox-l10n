@@ -59,3 +59,26 @@ split-dismiss-button-dont-show-option-label = Ne plu montri tiun ĉi rekomendon
 split-dismiss-button-show-fewer-option-label = Montri malpli da rekomendoj
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Administri agordojn
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Montri titolojn de langetoj en la flanka strio
+sidebar-button-callout-subtitle = Uzu la butonon de la flanka strio por malfaldi ĝin, tiel ke vi povos vidi titolojn de langetoj.
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Helpu plibonigi { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Kiel kontentiga estis via sperto kun la flanka strio de { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Rimarko pri privateco
+sidebar-callout-survey-very-satisfied = Tre kontentiga
+sidebar-callout-survey-satisfied = Kontentiga
+sidebar-callout-survey-neutral = Neŭtra
+sidebar-callout-survey-dissatisfied-2 = Nekontentiga
+sidebar-callout-survey-very-dissatisfied-2 = Tute nekontentiga
+sidebar-callout-survey-dont-use-it = Mi ne uzas ĝin
+sidebar-callout-survey-productive-question = Kiel multe vi samopinias kun la jena frazo:<br/>“La flanka strio de { -brand-short-name } helpas min esti pli produktema”?
+sidebar-callout-survey-strongly-agree = Mi tute konsentas
+sidebar-callout-survey-agree = Mi konsentas
+sidebar-callout-survey-disagree = Mi ne konsentas
+sidebar-callout-survey-strongly-disagree = Mi tute ne konsentas
+sidebar-callout-survey-features-question = Jen kelkaj eblaj estontaj trajtoj de la flanka strio. Kiu povus plej multe helpi vin esti pli produktema en { -brand-short-name }?
