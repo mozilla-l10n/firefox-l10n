@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - ਵਰਤੋਂਕਾਰ ਪਰ�
 profile-window-heading = { -brand-short-name } ਪਰੋਫਾਈਲ ਚੁਣੋ
 profile-window-body = ਆਪਣੇ ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਬਿਲਕੁਲ ਵੱਖੋ-ਵੱਖਰਾ ਰੱਖੋ, ਜਿਸ ਵਿੱਚ ਪਾਸਵਰਡ ਅਤੇ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ ਹਨ। ਜਾਂ ਇਸ ਡਿਵਾਈਸ ਵਰਤਣ ਵਾਲੇ ਹਰੇਕ ਵਾਪਸੇ ਵੱਖਰਾ ਪਰੋਫਾਈਲ ਬਣਾਓ।
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਦਾ ਹੈ ਤਾਂ ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਾ ਹੋਵੇ ਤਾਂ ਇਹ ਵੇਖਾਓ
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = “ਕੰਮ” ਜਾਂ “ਨਿੱਜੀ” ਵਰਗਾ ਨਾਂ ਚੁਣੋ
 new-profile-page-done-button =
     .label = ਸੋਧ ਕਰਨੀ ਪੂਰੀ ਹੋਈ
+profile-window-title-2 = { -brand-short-name } - ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = ਬੁੱਕਮਾਰਕ
 delete-profile-history = ਅਤੀਤ (ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ, ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ)
 delete-profile-autofill = ਆਪਣੇ ਭਰਨ ਵਾਲਾ ਡਾਟਾ (ਸਿਰਨਾਵੇਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ)
 delete-profile-logins = ਪਾਸਵਰਡ
+
+##
+
 # Button label
 delete-profile-cancel = ਰੱਦ ਕਰੋ
 # Button label

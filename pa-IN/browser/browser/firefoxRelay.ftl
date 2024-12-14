@@ -54,8 +54,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-basic-info = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਨੂੰ ਰੋਕੋ
-firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਐਡਰੈਸ ਨੂੰ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨਾਲ ਓਹਲੇ ਰੱਖ ਕੇ ਸਮੈਪ ਨੂੰ ਰੋਕੋ ।<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਆਉਣਗੀਆਂ, ਪਰ ਤੁਹਾਡਾ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
+firefox-relay-and-fxa-popup-notification-header-basic-info = ਇੱਕ ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਤੋਂ ਬਚੋ
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਐਡਰੈਸ ਨੂੰ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨਾਲ ਓਹਲੇ ਰੱਖ ਕੇ ਸਮੈਪ ਤੋਂ ਬਚੋ ।<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਆਉਣਗੀਆਂ, ਪਰ ਤੁਹਾਡਾ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = ਸਾਈਨ ਅੱਪ

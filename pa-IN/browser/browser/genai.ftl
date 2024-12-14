@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = ਇਸ ਬਾਰੇ ਸਮਝਾਓ
     .value = ਇਸ ਚੋਣ ਵਿੱਚ ਮੁੱਖ ਵਿਚਾਰਾਂ ਨੂੰ ਸੌਖੇ ਸ਼ਬਦਾਂ ਵਿੱਚ ਸਮਝਾਓ। ਉਦਾਹਰਨਾਂ ਵੀ ਦਿਓ।
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = ਪਰੂਫ਼-ਰੀਡ
+    .value = ਸ਼ਬਦ-ਜੋੜ ਅਤੇ ਵਿਆਕਰਣ ਗਲਤੀਆਂ ਲਈ ਚੋਣ ਲਈ ਪਰੂਫ਼-ਰੀਡ ਕਰੋ। ਕਿਸੇ ਵੀ ਗਲਤੀ ਦੀ ਪਛਾਣ ਕਰਕੇ ਲਿਖਤ ਦੇ ਸੋਧਿਆ ਹੋਇਆ ਵਰਜ਼ਨ ਦਿੰਦਾ ਹੈ। ਅਰਥ ਅਤੇ ਤੱਥਾਂ ਨੂੰ ਦਰੁਸਤ ਕਰਕੇ ਅਤੇ ਸੁਝਾਅ ਦਿੱਤੀਆਂ ਸੋਧਾਂ ਦੀ ਸੂਚੀ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਦੇ ਬਾਅਦ ਲਿਖਤ ਦਾ ਮੁਕੰਮਲ, ਸੋਧ ਕੀਤਾ ਵਰਜ਼ਨ ਤਿਆਰ ਦਿੰਦਾ ਹੈ।
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -135,6 +139,5 @@ genai-onboarding-gemini-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀ
 genai-onboarding-huggingchat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
 genai-onboarding-huggingchat-switch = ਵੱਖ-ਵੱਖ ਮਾਡਲਾਂ ਦੇ ਵਿਲੱਖਣ ਸੈਟ ਵਿੱਚ ਬਦਲੋ
 genai-onboarding-huggingchat-price-2 = ਮੁਫ਼ਤ; ਕੁਝ ਬੇਨਤੀਆਂ ਦੇ ਬਾਅਦ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-huggingchat-price = ਮੁਫ਼ਤ; ਕੁਝ ਕੰਮਾਂ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
 genai-onboarding-lechat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
 genai-onboarding-lechat-price = ਮੁਫ਼ਤ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
