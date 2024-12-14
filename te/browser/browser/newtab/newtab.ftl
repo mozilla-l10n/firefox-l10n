@@ -268,6 +268,9 @@ newtab-wallpaper-blue = నీలం
 newtab-wallpaper-light-blue = లేత నీలం
 newtab-wallpaper-light-green = లేత ఆకుపచ్చ
 newtab-wallpaper-green = పచ్చ
+newtab-wallpaper-red = ఎరుపు
+newtab-wallpaper-dark-blue = ముదురు నీలం
+newtab-wallpaper-dark-green = ముదురాకుపచ్చ
 
 ## Abstract
 
@@ -275,6 +278,8 @@ newtab-wallpaper-green = పచ్చ
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = ఛాయాచిత్రాలు
+newtab-wallpaper-beach-at-sunrise = ఉషాతీరం
+newtab-wallpaper-beach-at-sunset = సంధ్యాతీరం
 newtab-wallpaper-feature-highlight-button = అర్థమైంది
 
 ## New Tab Weather
@@ -286,11 +291,13 @@ newtab-weather-menu-learn-more = ఇంకా తెలుసుకోండి
 ## Topic Labels
 
 newtab-topic-label-business = వ్యాపారం
+newtab-topic-label-career = వృత్తి
 newtab-topic-label-education = విద్య
 newtab-topic-label-arts = వినోదం
 newtab-topic-label-food = ఆహారం
 newtab-topic-label-health = ఆరోగ్యం
 newtab-topic-label-hobbies = ఆటలు
+newtab-topic-label-government = రాజకీయాలు
 newtab-topic-label-education-science = విజ్ఞానం
 newtab-topic-label-sports = క్రీడలు
 newtab-topic-label-tech = సాంకేతికం
@@ -304,3 +311,8 @@ newtab-topic-selection-cancel-button = రద్దుచేయి
 newtab-topic-selection-button-maybe-later = బహుశా తర్వాత
 newtab-topic-selection-button-update-interests = మీ ఆసక్తులను తాజాకరించండి
 newtab-topic-selection-button-pick-interests = మీ ఆసక్తులను ఎంచుకోండి
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+

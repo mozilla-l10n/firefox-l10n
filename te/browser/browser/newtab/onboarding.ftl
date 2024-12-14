@@ -89,7 +89,9 @@ mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాట
 ## when Firefox is already set to default and pinned.
 
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 
 ## If your language uses grammatical genders, in the description for the
@@ -109,9 +111,11 @@ mr2022-onboarding-colorway-description-default = <b>నా ప్రస్తు
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = మీ అంతరంగికతను మేము ఎల్లప్పుడూ గౌరవిస్తాము
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = మెరుగైన జాలాన్ని నిర్మించడంలో మీరు తోడ్పడుతున్నారు
 mr2022-onboarding-gratitude-primary-button-label = కొత్తవేమిటో చూడండి
 mr2022-onboarding-gratitude-secondary-button-label = విహరించడం మొదలుపెట్టండి
 
@@ -124,15 +128,23 @@ mr2022-onboarding-gratitude-secondary-button-label = విహరించడం
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = పునఃస్వాగతం!
 
 ## Add-ons Picker screen
 
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } మీకు వెన్నుదన్ను
 
 ## New user time and familiarity survey strings
 
 
 ## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = కొత్తది!
+onboarding-genai-sidebar-secondary-button = విహరించడం మొదలుపెట్టండి
+
+## New user onboarding checklist
 

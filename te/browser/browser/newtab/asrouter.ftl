@@ -115,6 +115,7 @@ spotlight-public-wifi-vpn-link = ఇప్పుడు కాదు
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = మెరుగైన అంతర్జాలం మీతో మొదలవుతుంది
 spotlight-pin-secondary-button = ఇప్పుడు కాదు
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -211,6 +212,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-learn-more-button = ఇంకా తెలుసుకోండి
 
 ## FxA Menu Message variants
 
