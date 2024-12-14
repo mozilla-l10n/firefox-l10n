@@ -9,6 +9,11 @@
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-translate-cancel =
+    .label = రద్దుచేయి
+translations-panel-learn-more-link = ఇంకా తెలుసుకోండి
+translations-panel-error-load-languages-hint-button =
+    .label = మళ్ళీ ప్రయత్నించు
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to

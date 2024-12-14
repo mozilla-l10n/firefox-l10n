@@ -92,6 +92,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-view-cancel = రద్దుచేయి
 protections-panel-cookie-banner-view-cancel-label =
     .label = రద్దుచేయి
 

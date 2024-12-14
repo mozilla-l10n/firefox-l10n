@@ -27,6 +27,10 @@ address-capture-not-now-button =
 address-capture-cancel-button =
     .label = రద్దుచేయి
     .accessKey = C
+address-capture-manage-address-button =
+    .label = చిరునామా అమరికలు
+address-capture-learn-more-button =
+    .label = ఇంకా తెలుసుకోండి
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = చిరునామాను సవరించండి
 autofill-address-given-name = మొదటి పేరు
