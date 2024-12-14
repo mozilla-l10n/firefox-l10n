@@ -41,6 +41,8 @@ neterror-generic-error = Pro iu kialo { -brand-short-name } ne povas ŝargi tiun
 neterror-load-error-try-again = La retejo povas esti tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.
 neterror-load-error-connection = Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.
 neterror-load-error-firewall = Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke { -brand-short-name } rajtas aliri la TTT-n.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Se vi klopodas ŝargi paĝon el la loka reto, bonvolu kontroli ĉu { -brand-short-name } ricevis la permesojn por la loka reto en la agordoj de privateco kaj sekureco de de macOS.
 neterror-captive-portal = Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri la Interreton.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

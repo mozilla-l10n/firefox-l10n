@@ -799,6 +799,9 @@ sync-currently-syncing-creditcards = kreditkartojn
 sync-currently-syncing-payment-methods = Pagmetodoj
 sync-currently-syncing-addons = aldonaĵojn
 sync-currently-syncing-settings = Agordoj
+sync-manage-options =
+    .label = Administri speguladon…
+    .accesskey = A
 sync-change-options =
     .label = Ŝanĝi…
     .accesskey = a
@@ -851,6 +854,13 @@ sync-engine-settings =
     .label = Agordoj
     .tooltiptext = Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi
     .accesskey = v
+sync-choose-what-to-sync-dialog4 =
+    .title = Administri kio estos spegulita en ĉiuj viaj konektitaj aparatoj
+    .style = min-width: 36em;
+    .buttonlabelaccept = Konservi
+    .buttonaccesskeyaccept = K
+    .buttonlabelextra2 = Malkonekti…
+    .buttonaccesskeyextra2 = M
 
 ## The device name controls.
 
