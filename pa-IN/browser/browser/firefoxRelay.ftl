@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵੇ�
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
 firefox-relay-use-mask-title = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਨੂੰ ਰੋਕੋ
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਓ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਲਵੋ
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸਮੈਪ ਤੋਂ ਬਚਾਓ
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
     .accesskey = U
@@ -33,3 +41,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
