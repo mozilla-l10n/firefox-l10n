@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = A.I. dialoganto
 menu-view-review-checker =
     .label = Kontrolilo de recenzoj
+sidebar-options-menu-button =
+    .title = Malfermi menuon
 
 ## Labels for sidebar history panel
 
@@ -60,12 +62,6 @@ sidebar-visibility-setting-always-show =
     .label = Faldi kaj malfaldi flankan strion
 sidebar-visibility-setting-hide-sidebar =
     .label = Montri kaj kaŝi flankan strion
-sidebar-customize-settings-header =
-    .label = Agordoj de la flanka strio
-sidebar-visibility-always-show =
-    .label = Ĉiam montri
-sidebar-visibility-hide-sidebar =
-    .label = Kaŝi flankan strion
 
 ## Labels for sidebar context menu items
 
@@ -107,6 +103,27 @@ sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
 sidebar-menu-review-checker-label =
     .label = Kontrolilo de recenzoj
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Malfermi historion ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Fermi historion ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Malfermi legosignojn ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Fermi legosignojn ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Malfermi dialoganton A.I.
+sidebar-menu-close-ai-chatbot-tooltip = Fermi dialoganton A.I.
 
 ## Headings for sidebar menu panels.
 

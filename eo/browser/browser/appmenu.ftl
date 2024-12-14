@@ -286,3 +286,10 @@ appmenuitem-vpn-description = Protektu vian retumon
 ## Profiles panel
 
 appmenu-profiles = Profiloj
+appmenu-other-profiles = Aliaj profiloj
+appmenu-manage-profiles =
+    .label = Administri profilojn
+appmenu-create-profile =
+    .label = Nova profilo
+appmenu-edit-profile =
+    .aria-label = Modifi profilon

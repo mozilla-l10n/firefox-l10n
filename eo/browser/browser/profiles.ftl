@@ -1,3 +1,60 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+profile-window-title = { -brand-short-name } - Elekti profilon de uzanto
+profile-window-heading = Elektu profilon de { -brand-short-name }
+profile-window-create-profile = Krei profilon
+profile-card-edit-button =
+    .title = Modifi profilon
+    .aria-label = Modifi profilon
+profile-card-delete-button =
+    .title = Forigi profilon
+    .aria-label = Forigi profilon
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Malfermi { $profileName }
+    .aria-label = Malfermi { $profileName }
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Profilo { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Originala profilo
+edit-profile-page-title = Modifi profilon
+edit-profile-page-header = Modifi vian profilon
+edit-profile-page-profile-name-label = Nomo de profilo
+edit-profile-page-theme-header = Etoso
+edit-profile-page-explore-themes = Malkovri aliajn etosojn
+edit-profile-page-avatar-header = Avataro
+edit-profile-page-delete-button =
+    .label = Forigi
+edit-profile-page-no-name = Nomu tiun ĉi profilon por pli facile trovi ĝin poste. Vi povas renomi ĝin iam ajn.
+edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu alian nomon.
+edit-profile-page-profile-saved = Konservita
+new-profile-page-title = Nova profilo
+new-profile-page-header = Personecigi vian novan profilon
+new-profile-page-learn-more = Pli da informo
+
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
+
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = Malfermitaj fenestroj
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = Malfermitaj langetoj
+delete-profile-bookmarks = Legosignoj
+delete-profile-history = Historio (vizititaj paĝoj, kuketoj, retejaj datumoj)
+delete-profile-autofill = Aŭtomata plenigo de datumoj (adresoj, pagmetodoj)
+delete-profile-logins = Pasvortoj
+
+##
+
+# Button label
+delete-profile-cancel = Nuligi
+# Button label
+delete-profile-confirm = Forigi
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Kalendula

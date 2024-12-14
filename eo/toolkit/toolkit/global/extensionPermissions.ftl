@@ -30,4 +30,6 @@ webext-perms-description-sessions = Aliri ĵuse fermitajn langetojn
 webext-perms-description-tabs = Aliri retumilajn langetojn
 webext-perms-description-tabHide = Kaŝi kaj montri langetojn de retumilo
 webext-perms-description-topSites = Aliri la retuman historion
+webext-perms-description-trialML = Elŝuti kaj ruli modelon de AI en via aparato
+webext-perms-description-userScripts = Permesi al nekontrolitaj skriptoj de aliaj la aliron al viaj datumoj
 webext-perms-description-webNavigation = Aliri la agojn de la retumilo dum retumo
