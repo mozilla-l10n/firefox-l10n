@@ -5,6 +5,10 @@
 fxviewtabrow-open-menu-button =
     .title = మెనూని తెరువు
 # Variables:
+#   $targetURI (string) - URL of tab that will be opened in the new tab
+fxviewtabrow-tabs-list-tab =
+    .title = { $targetURI }ని కొత్త ట్యాబులో తెరువు
+# Variables:
 #   $tabTitle (string) - Title of tab being closed
 fxviewtabrow-close-tab-button =
     .title = { $tabTitle }ను మూసివేయి
