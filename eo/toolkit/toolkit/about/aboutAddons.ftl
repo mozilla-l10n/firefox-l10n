@@ -283,6 +283,9 @@ find-more-themes = Serĉi pli da etosoj
 # used for screen readers.
 addon-options-button =
     .aria-label = Pli da ebloj
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = Etendaĵoj kaj etosoj permesas al vi personcecigi { -brand-product-name }. Ili povas pliigi privatecon, plialtigi produktadon, plibonigi aŭvidaĵojn, ŝanĝi la aspekton de { -brand-product-name }, kaj multe, multe pli. Tiuj etaj programoj estas ofte disvolvitaj de aliaj. Jen kelkaj <a data-l10n-name="learn-more-trigger">rekomendoj</a> de { -brand-product-name } por havi eksterordinaran sekurecon, efikecon kaj aldonajn funkciojn.
 
 ## Add-on actions
 

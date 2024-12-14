@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Sendi al retejoj sciigon, ke vi ne volas esti spurata
+do-not-track-removal = Ni ne plu subtenas la signalon “Do Not Track”
 do-not-track-description2 =
     .label = Sendi “Ne spuru min” petojn al retejoj
     .accesskey = S
@@ -154,6 +155,9 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Malfermi ligilojn en langetoj anstataŭ ol en nova fenestroj
     .accesskey = l
+ask-on-close-multiple-tabs =
+    .label = Demandi antaŭ ol fermi plurajn langetojn
+    .accesskey = D
 confirm-on-close-multiple-tabs =
     .label = Konfirmi antaŭ fermi plurajn langetojn
     .accesskey = p
@@ -569,8 +573,7 @@ home-prefs-shortcuts-description = Retejoj konservitaj aŭ vizititaj de vi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Patronitaj ŝparvojoj
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
