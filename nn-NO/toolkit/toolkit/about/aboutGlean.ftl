@@ -16,6 +16,8 @@ about-glean-interface-description =
     er eit datainnsamlingsbibliotek som vert brukt i { -vendor-short-name }-prosjekt.
     Dette grensesnittet er designa for å brukast av utviklarar og testarar for å manuelt
     <a data-l10n-name="fog-link">teste instrumentering</a>.
+about-glean-category-about-glean = Om { -glean-brand-name }
+about-glean-category-manual-testing = Manuell testing
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er berre aktivert for sending til ein lokal server.

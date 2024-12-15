@@ -33,3 +33,27 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikkje no
     .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ikkje vis meg dette meir
+    .accesskey = m
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ikkje no
+    .accesskey = n
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registrer deg
+    .accesskey = R
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrer deg
+    .accesskey = R
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Neste
+    .accesskey = N

@@ -190,7 +190,14 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-context-unnamed-group =
+    .label = Namnlaus gruppe
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-delete =
+    .label = Slett gruppe
+tab-group-editor-done =
+    .label = Ferdig
+    .accessKey = F

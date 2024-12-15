@@ -12,8 +12,15 @@ profile-card-delete-button =
     .title = Slett profil
     .aria-label = Slett profil
 # Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Opne { $profileName }
+    .aria-label = Opne { $profileName }
+# Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = original profil
 edit-profile-page-title = Rediger profil
 edit-profile-page-header = Rediger profilen din
 edit-profile-page-profile-name-label = Profilnamn
