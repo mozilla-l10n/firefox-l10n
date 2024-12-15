@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Адкрыць меню для { $extensionName }
 unified-extensions-item-message-manage = Кіраваць пашырэннем
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } парушае палітыку Mozilla. Яго выкарыстанне можа быць рызыкоўным.
 
 ## Extension's context menu
 
@@ -41,10 +44,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Некаторыя пашырэнні не дазволены
 unified-extensions-mb-quarantined-domain-message = Для аховы вашых звестак на гэтым сайце дазволены толькі некаторыя пашырэнні, якія кантралююцца { -vendor-short-name }.
-unified-extensions-mb-quarantined-domain-message-2 = Каб абараніць вашы звесткі, некаторыя пашырэнні не могуць чытаць або змяняць дадзеныя на гэтым сайце. Выкарыстайце налады пашырэння, каб дазволіць яго на сайтах, абмежаваных { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Некаторыя пашырэнні не дазволены
     .message = Каб абараніць вашы звесткі, некаторыя пашырэнні не могуць чытаць або змяняць дадзеныя на гэтым сайце. Выкарыстайце налады пашырэння, каб дазволіць яго на сайтах, абмежаваных { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Даведацца больш
     .aria-label = Даведацца больш: некаторыя пашырэнні не дазволены
+unified-extensions-mb-about-addons-link = Перайсці ў налады пашырэння
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } адключана
+    .message =
+        Гэта пашырэнне парушае палітыку Mozilla і было адключана.
+        Вы можаце ўключыць яго ў наладах, але гэта можа быць рызыкоўным.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } адключана
+    .message = Гэта пашырэнне парушае палітыку Mozilla і было адключана.

@@ -222,7 +222,53 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Скасаваць
     .accesskey = С
+tab-context-unnamed-group =
+    .label = Група без назвы
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Дадаць картку ў новую групу
+            [one] Дадаць картку ў новую групу
+            [few] Дадаць карткі ў новую групу
+           *[many] Дадаць карткі ў новую групу
+        }
+    .accesskey = п
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Дадаць картку ў групу
+            [one] Дадаць картку ў групу
+            [few] Дадаць карткі ў групу
+           *[many] Дадаць карткі ў групу
+        }
+    .accesskey = п
+tab-group-editor-action-new-tab =
+    .label = Новая картка ў групе
+tab-group-editor-action-new-window =
+    .label = Перанесці групу ў новае акно
+tab-group-editor-action-save =
+    .label = Захаваць і закрыць групу
+tab-group-editor-action-ungroup =
+    .label = Разгрупаваць карткі
+tab-group-editor-action-delete =
+    .label = Выдаліць групу
+tab-group-editor-done =
+    .label = Гатова
+    .accessKey = в
+tab-context-reopen-tab-group =
+    .label = Пераадкрыць групу картак
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Выдаліць з групы
+            [one] Выдаліць з групы
+            [few] Выдаліць з груп
+           *[many] Выдаліць з груп
+        }
+    .accesskey = В
