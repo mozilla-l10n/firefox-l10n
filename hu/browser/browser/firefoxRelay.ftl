@@ -42,9 +42,23 @@ firefox-relay-opt-in-confirmation-postpone =
     .label = Most nem
     .accesskey = n
 firefox-relay-offer-what-fxa-and-relay-provides = Egy fiók további adatvédelmi termékekhez biztosít hozzáférést. Az e-mail-maszkokra küldött levelek a valódi e-mail-címére lesznek továbbítva (hacsak dönt nem úgy, hogy letiltja őket).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Bejelentkezés a { -brand-product-name }-be és egy maszk használata
+    .accesskey = B
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ne jelenítse meg ezt újra
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Most nem
+    .accesskey = M
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Akadályozza meg a kéretlen leveleket egy ingyenes e-mail-maszkkal
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Akadályozza meg a kéretlen leveleket azáltal, hogy elrejti a valódi e-mail-címét egy ingyenes <label data-l10n-name="firefox-relay-learn-more-url">e-mail-maszkkal</label>. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de az e-mail-címe rejtve marad.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Regisztráció
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
