@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[many] Закрити { $tabCount } вкладок?
     }
 tabbrowser-confirm-close-tabs-button = Закрити вкладки
+tabbrowser-ask-close-tabs-checkbox = Запитувати перед закриттям кількох вкладок
 tabbrowser-confirm-close-tabs-checkbox = Підтверджувати перед закриттям кількох вкладок
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Закрити вікно та в
 tabbrowser-confirm-close-tabs-with-key-button = Закрити { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Запитувати перед виходом за допомогою { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Підтверджувати перед виходом за допомогою { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Вийти з { -brand-short-name } чи закрити поточну вкладку?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Закрити { -brand-short-name }
+       *[other] Закрити { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Закрити поточну вкладку
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,6 +222,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Скасувати
     .accesskey = С
-tab-group-editor-create =
-    .label = Створити
-    .accesskey = т
+tab-context-unnamed-group =
+    .label = Група без назви
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-group-editor-action-new-tab =
+    .label = Нова вкладка в групі
+tab-group-editor-action-new-window =
+    .label = Перемістити групу в нове вікно
+tab-group-editor-action-ungroup =
+    .label = Розгрупувати вкладки
+tab-group-editor-action-delete =
+    .label = Видалити групу
