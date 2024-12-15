@@ -40,12 +40,14 @@ detail-version =
     .label = نسخه
 detail-last-updated =
     .label = آخرین بروزرسانی
+addon-detail-description-expand = نمایش بیشتر
+addon-detail-description-collapse = نمایش کمتر
 detail-contributions-description = توسعه‌دهندهٔ این افزودنی از شما برای توسعهٔ متداوم این افزودنی کمک مالی کوچکی درخواست کرده است.
 detail-contributions-button = مشارکت
     .title = مشارکت در توسعه این افزونه
     .accesskey = c
 detail-update-type =
-    .value = بروزرسانی‌های خودکار
+    .value = به‌روزرسانی‌های خودکار
 detail-update-default =
     .label = پیش‌فرض
     .tooltiptext = تنها در صورت اینکه گزینه نصب خودکار بروزرسانی‌ها گزینه پیش‌فرض باشد این اتفاق بیافتد
@@ -130,12 +132,19 @@ addon-category-dictionary-title =
 addon-category-locale = زبان‌ها
 addon-category-locale-title =
     .title = زبان‌ها
-addon-category-available-updates = بروزرسانی‌های موجود
+addon-category-available-updates = به‌روزرسانی‌های موجود
 addon-category-available-updates-title =
-    .title = بروزرسانی‌های موجود
-addon-category-recent-updates = بروزرسانی‌های اخیر
+    .title = به‌روزرسانی‌های موجود
+addon-category-recent-updates = به‌روزرسانی‌های اخیر
 addon-category-recent-updates-title =
-    .title = بروزرسانی‌های اخیر
+    .title = به‌روزرسانی‌های اخیر
+addon-category-sitepermission = اجازه‌های وبگاه
+addon-category-sitepermission-title =
+    .title = اجازه‌های وبگاه
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = اجازه‌های وبگاه برای { $host }
 
 ## These are global warnings
 
@@ -343,6 +352,10 @@ addon-detail-updates-radio-on = روشن
 addon-detail-updates-radio-off = خاموش
 addon-detail-update-check-label = بررسی برای بروزرسانی‌ها
 install-update-button = بروزرسانی
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -351,6 +364,10 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = در صورت اجازه، این افزونه هنگام مرور ناشناس به فعالیت‌های برخط شما دسترسی خواهد داشت. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
 addon-detail-private-browsing-allow = اجازه دادن
 addon-detail-private-browsing-disallow = اجازه نده
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
