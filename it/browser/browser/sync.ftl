@@ -46,3 +46,37 @@ sync-setup-verify-description = Un altro utente ha effettuato l’accesso in pre
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = È stato raggiunto il limite di account per questo profilo
+sync-profile-different-account-header = Questo profilo è stato precedentemente sincronizzato con un altro account
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Per mantenere i tuoi dati organizzati e al sicuro, ogni profilo di { -brand-product-name } può essere sincronizzato con un solo account. Per accedere utilizzando { $acctEmail }, crea un nuovo profilo.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profilo sincronizzato con un altro account
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Per mantenere i tuoi dati organizzati e al sicuro, ti consigliamo di creare un nuovo profilo per accedere utilizzando { $acctEmail }. Se scegli di continuare la sincronizzazione in questo profilo, i dati di entrambi gli account verranno uniti in modo permanente in “{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Account già in uso
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } è già utilizzato nel profilo “{ $otherProfile }”.
+sync-account-in-use-description = È possibile associare questo account a un solo profilo su questo computer.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Questo account è utilizzato in un altro profilo. Sincronizzare entrambi i profili?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } è utilizzato nel profilo “{ $otherProfile }” su questo computer. Sincronizzando il profilo “{ $currentProfile }” verranno combinati in modo permanente i dati di entrambi i profili, come password e segnalibri.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Passa a “{ $profileName }”
+sync-button-create-profile = Crea un nuovo profilo
+sync-button-sync-and-merge = Sincronizza e unisci i dati
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronizza “{ $profileName }”

@@ -44,6 +44,9 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Accedi a { -brand-product-name } e utilizza un alias
     .accesskey = c
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registrati
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Non mostrare di nuovo
     .accesskey = N
@@ -53,6 +56,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Per prima cosa registrati o accedi al tuo account per utilizzare un alias di posta elettronica
+firefox-relay-offer-legal-notice-control = Registrandoti e creando un alias di posta elettronica accetti le <label data-l10n-name="tos-url">condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">informativa sulla privacy</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
