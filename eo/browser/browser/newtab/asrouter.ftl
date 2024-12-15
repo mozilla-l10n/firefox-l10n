@@ -297,8 +297,28 @@ root-certificate-succession-infobar-secondary-button =
     .label = Poste
     .accesskey = P
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Vi maltrafis gravan ĝisdatigon de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Kelkaj partoj de la retumilo baldaŭ ĉesos funkcii se vi ne ĝisdatigas. Nun estas bonega momento ricevi niajn lastajn protektojn kaj trajtojn.
+root-certificate-windows-background-notification-learn-more-button = Pli da informo
+root-certificate-windows-background-notification-update-button = Ĝisdatigi { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
     .title = Fermi
     .aria-label = Fermi
+fxa-menu-message-sign-up-button = Krei konton
+fxa-menu-message-sync-devices-primary-text = Speguli ĉiujn viajn aparatojn
+fxa-menu-message-sync-devices-secondary-text = Tuj ricevi viajn informojn — kiel legosignojn kaj pasvortojn — ie ajn, kie vi uzas { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Speguli ĉiujn viajn aparatojn
+fxa-menu-message-backup-data-primary-text = Faru sekurkopion de viaj retumilaj datumoj
+fxa-menu-message-backup-data-secondary-text = Aŭtomate protekti legosignojn, pasvortojn kaj aliajn informojn en ĉiuj viaj aparatoj.
+fxa-menu-message-backup-data-collapsed-text = Fari sekurkopion de la retumilaj datumoj
+fxa-menu-message-backup-sync-primary-text = Tenu viajn datumojn sekuraj kaj spegulitaj
+fxa-menu-message-backup-sync-secondary-text = Speguli faras sekurkopion de la plimulto de viaj datumoj, tiel ke vi povas aliri ilin el ie ajn, kie vi uzas { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Speguli kaj fari sekurkopion de datumoj
+
+## Multi-CTA Fox Doodle Spotlight
+

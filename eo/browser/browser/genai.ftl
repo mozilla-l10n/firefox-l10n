@@ -155,5 +155,6 @@ genai-onboarding-gemini-analyze = Analizi bildojn (senpage) kaj dokumentojn (pag
 genai-onboarding-gemini-price = Senpagaj kaj pagendaj ebloj; konto postulata
 genai-onboarding-huggingchat-generate = Krei tekston kaj kodon
 genai-onboarding-huggingchat-switch = Iri de unu modelo al alia inter diversa aro de malfermitaj modeloj
+genai-onboarding-huggingchat-price-2 = Senpaga; konto postulata post iu nombro de petoj
 genai-onboarding-lechat-generate = Krei tekston kaj kodon
 genai-onboarding-lechat-price = Senpage; konto postulata

@@ -361,7 +361,7 @@ onboarding-gratitude-security-and-privacy-subtitle = Dankon pro via elekto de { 
 # Sign up or Sign in screen
 onboarding-sign-up-title = Spegulu viajn datumojn al aliaj aparatoj
 onboarding-sign-up-description = Kreu konton kaj ĉiuj viaj gravaj informoj — pasvortoj, legosignoj, kaj pli — estos sekure konservitaj kaj disponeblaj kiam vi komencas seancon en iu ajn aparato.
-onboarding-sign-up-button = Komenci seancon aŭ registriĝi
+onboarding-sign-up-button = Komenci seancon aŭ krei konton
 onboarding-sign-up-secondary-button = Komenci retumi
 
 ## New user time and familiarity survey strings

@@ -35,3 +35,11 @@ fxa-menu-sign-out =
     .label = Fini seancon…
 fxa-menu-sync-title = Spegulado
 fxa-menu-sync-description = Aliri viajn retejojn el ie ajn
+sync-setup-verify-continue = Daŭrigi
+sync-setup-verify-title = Averto pri kunigo
+sync-setup-verify-heading = Ĉu vi certe volas komenci seancon por speguli?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Alia uzanto antaŭe komencis seancon por speguli en tiu ĉi komputilo. Komenci seancon faros ke la legosignoj, pasvortoj kaj aliaj agordoj en tiu ĉi retumilo estu kunigitaj kun { $email }
