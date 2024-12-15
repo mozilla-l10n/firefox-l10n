@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Διαγραφή από το { -pocket-brand-name }
 newtab-menu-archive-pocket = Αρχειοθέτηση στο { -pocket-brand-name }
 newtab-menu-show-privacy-info = Οι χορηγοί μας και το απόρρητό σας
 newtab-menu-about-fakespot = Σχετικά με το { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Φραγή
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -446,3 +449,10 @@ newtab-topic-selection-button-maybe-later = Ίσως αργότερα
 newtab-topic-selection-privacy-link = Μάθετε πώς προστατεύουμε και διαχειριζόμαστε τα δεδομένα
 newtab-topic-selection-button-update-interests = Ενημερώστε τα ενδιαφέροντά σας
 newtab-topic-selection-button-pick-interests = Επιλέξτε τα ενδιαφέροντά σας
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Ακολουθήστε
+newtab-section-following-button = Ακολουθείται

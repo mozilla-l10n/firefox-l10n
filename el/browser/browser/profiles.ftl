@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Επιλογή προφίλ χρ�
 profile-window-heading = Επιλέξτε ένα προφίλ του { -brand-short-name }
 profile-window-body = Διαχωρίστε την επαγγελματική από την προσωπική περιήγηση, συμπεριλαμβανομένων των κωδικών πρόσβασης και των σελιδοδεικτών. Ή δημιουργήστε προφίλ για όλους τους χρήστες αυτής της συσκευής.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Επιλέξτε ένα προφίλ κατά το άνοιγμα του { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Εμφάνιση κατά το άνοιγμα του { -brand-short-name }
 profile-window-create-profile = Δημιουργία προφίλ
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Επιλέξτε ένα όνομα, όπως «Εργασία» ή «Προσωπικό»
 new-profile-page-done-button =
     .label = Τέλος επεξεργασίας
+profile-window-title-2 = { -brand-short-name } - Επιλογή προφίλ
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Σελιδοδείκτες
 delete-profile-history = Ιστορικό (σελίδες που έχετε επισκεφτεί, cookie, δεδομένα ιστοτόπων)
 delete-profile-autofill = Δεδομένα αυτόματης συμπλήρωσης (διευθύνσεις, μέθοδοι πληρωμής)
 delete-profile-logins = Κωδικοί πρόσβασης
+
+##
+
 # Button label
 delete-profile-cancel = Ακύρωση
 # Button label

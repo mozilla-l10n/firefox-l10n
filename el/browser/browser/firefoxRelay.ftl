@@ -42,12 +42,16 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Αποτρέψτε ανεπιθύμητα μηνύματα κρύβοντας την πραγματική διεύθυνση email σας με μια δωρεάν <label data-l10n-name="firefox-relay-learn-more-url">μάσκα email</label>. Τα email από <label data-l10n-name="firefox-fxa-and-relay-offer-domain">αυτόν τον ιστότοπο</label> θα εξακολουθούν να έρχονται στα εισερχόμενά σας, αλλά αποκρύπτοντας το πραγματικό email σας.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Εγγραφή
     .accesskey = Ε
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Αποκτήστε μια δωρεάν μάσκα email
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα με μια δωρεάν <label data-l10n-name="firefox-relay-learn-more-url">μάσκα email</label> για να αποκρύψετε την πραγματική σας διεύθυνση. Τα email από <label data-l10n-name="firefox-fxa-and-relay-offer-domain">αυτόν τον ιστότοπο</label> θα εξακολουθούν να έρχονται στα εισερχόμενά σας, αποκρύπτοντας το πραγματικό email σας.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Εγγραφή
     .accesskey = Ε
