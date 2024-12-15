@@ -119,7 +119,7 @@ protections-panel-content-blocking-manage-settings =
     .label = დაცვის პარამეტრების მართვა
     .accesskey = მ
 protections-panel-content-blocking-breakage-report-view =
-    .title = მოხსენება დაზიანებულ საიტზე
+    .title = საიტზე გაუმართაობის მოხსენება
 protections-panel-content-blocking-breakage-report-view-description = შიგთავსის შეზღუდვის შედეგად შესაძლოა, საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ { -brand-short-name } გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები. <label data-l10n-name="learn-more">ვრცლად</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = მისამართი
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
@@ -164,8 +164,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ჩართვა
 protections-panel-report-broken-site =
-    .label = მოხსენება დაზიანებული საიტის შესახებ
-    .title = მოხსენება დაზიანებული საიტის შესახებ
+    .label = საიტზე გაუმართაობის მოხსენება
+    .title = საიტზე გაუმართაობის მოხსენება
 
 ## Protections panel info message
 

@@ -678,7 +678,7 @@ urlbar-group-recent-searches =
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
-    .label = ხშირად ნანახი – { $engine }
+    .label = { $engine } გთავაზობთ ხშირად მოძიებულს
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ხშირად მოძიებულის ჩვენების გარეშე

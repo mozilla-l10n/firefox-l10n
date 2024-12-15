@@ -359,4 +359,4 @@ menu-help-not-deceptive =
     .label = ეს თაღლითური საიტი არაა…
     .accesskey = ე
 menu-report-broken-site =
-    .label = მოხსენება დაზიანებული საიტის შესახებ
+    .label = საიტზე გაუმართაობის მოხსენება
