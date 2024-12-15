@@ -75,6 +75,18 @@ genai-shortcuts-selected-warning-generic =
             [many] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
            *[other] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } nedostane celý označený text
+    .message =
+        { $selectionLength ->
+            [one] Označili ste približne { $selectionLength } znak. Počet znakov, ktoré môžeme poslať službe { $provider }, je približne { $maxLength }.
+            [few] Označili ste približne { $selectionLength } znaky. Počet znakov, ktoré môžeme poslať službe { $provider }, je približne { $maxLength }.
+            [many] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať službe { $provider }, je približne { $maxLength }.
+           *[other] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať službe { $provider }, je približne { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
 
@@ -101,13 +113,13 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skryť skratku pri výbere textu
 genai-options-about-chatbot =
-    .label = O chatbotoch AI vo { -brand-short-name(case: "gen") }
+    .label = O AI chatbotoch vo { -brand-short-name(case: "gen") }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Sumarizujte, vymýšľajte a ešte oveľa viac
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } vyberte chatbota AI, ktorého chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
+genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } zvoľte AI chatbota, ktorého chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 genai-onboarding-primary = Pokračovať
 genai-onboarding-secondary = Zavrieť
 genai-onboarding-claude-tooltip =

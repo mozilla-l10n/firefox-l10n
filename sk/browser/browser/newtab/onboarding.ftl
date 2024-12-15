@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný nezis
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitá funkciami, o ktorých si myslíme, že si ich zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavte si ju za pár sekúnd
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Bleskové nastavenie
 mr2022-onboarding-import-subtitle = Nastavte si { -brand-short-name } podľa seba. Pridajte si záložky, heslá a ďalšie položky zo starého prehliadača.
@@ -415,7 +417,7 @@ onboarding-horizontal-tabs-tooltip =
 onboarding-horizontal-tabs-description =
     .aria-description = Okno prehliadača s kartami v hornej časti.
 # Additional setup card for setting up aichatbot in the sidebar
-onboarding-genai-sidebar-title = Vyskúšajte chatbota AI na bočnom paneli
+onboarding-genai-sidebar-title = Vyskúšajte AI chatbota na bočnom paneli
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Získajte súhrn obsahu na stránkach, poraďte sa ohľadom vašich nápadov či píšte správy – to všetko počas prehliadania. Vyberte si z viacerých poskytovateľov. Meniť ich môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 onboarding-genai-sidebar-primary-button = Vyberte si chatbota
