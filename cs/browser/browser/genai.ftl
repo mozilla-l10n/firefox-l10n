@@ -47,6 +47,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Vysvětlit
     .value = Vysvětli jednoduchými slovy klíčové pojmy tohoto vybraného textu. Použij také příklady.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Zkontrolovat text
+    .value = Zkontroluj prosím označený text na pravopisné a gramatické chyby. Uveď případné chyby a poskytni opravenou verzi textu. Zachovej významovou a věcnou správnost a nejprve poskytni seznam navrhovaných oprav a poté konečnou, opravenou verzi textu.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -64,6 +68,29 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Zeptat se { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI chatbot nedostane celý označený text
+    .message =
+        { $selectionLength ->
+            [one] Vybrali jste asi { $selectionLength } znak. Počet znaků, které můžeme chatbotu s umělou inteligencí poslat, je přibližně { $maxLength }.
+            [few] Vybrali jste asi { $selectionLength } znaky. Počet znaků, které můžeme chatbotu s umělou inteligencí poslat, je přibližně { $maxLength }.
+            [many] Vybrali jste asi { $selectionLength } znaků. Počet znaků, které můžeme chatbotu s umělou inteligencí poslat, je přibližně { $maxLength }.
+           *[other] Vybrali jste asi { $selectionLength } znaků. Počet znaků, které můžeme chatbotu s umělou inteligencí poslat, je přibližně { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } neobdrží váš celý výběr
+    .message =
+        { $selectionLength ->
+            [one] Vybrali jste asi { $selectionLength } znak. Počet znaků, které můžeme poslat službě { $provider }, je asi { $maxLength }.
+            [few] Vybrali jste asi { $selectionLength } znaky. Počet znaků, které můžeme poslat službě { $provider }, je asi { $maxLength }.
+            [many] Vybrali jste asi { $selectionLength } znaků. Počet znaků, které můžeme poslat službě { $provider }, je asi { $maxLength }.
+           *[other] Vybrali jste asi { $selectionLength } znaků. Počet znaků, které můžeme poslat službě { $provider }, je asi { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skrýt zkratku chatbota
 
@@ -147,6 +174,5 @@ genai-onboarding-gemini-price = Bezplatné a placené možnosti; je vyžadován 
 genai-onboarding-huggingchat-generate = Generování textu a kódu
 genai-onboarding-huggingchat-switch = Přepínejte mezi rozmanitou sadou otevřených modelů
 genai-onboarding-huggingchat-price-2 = Zdarma; po určitém počtu požadavků je vyžadován účet
-genai-onboarding-huggingchat-price = Zdarma; pro některé úkoly je vyžadován účet
 genai-onboarding-lechat-generate = Generování textu a kódu
 genai-onboarding-lechat-price = Zdarma; je vyžadován účet
