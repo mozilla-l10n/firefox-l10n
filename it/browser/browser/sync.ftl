@@ -43,3 +43,6 @@ sync-setup-verify-heading = Procedere con l’accesso per la sincronizzazione?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un altro utente ha effettuato l’accesso in precedenza per eseguire la sincronizzazione su questo computer. Effettuando l’accesso verranno uniti i segnalibri, le password e altre impostazioni di questo browser con { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
