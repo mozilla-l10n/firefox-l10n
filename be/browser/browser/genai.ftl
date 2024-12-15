@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Патлумачыць гэта
     .value = Калі ласка, растлумачце ключавыя паняцці ў гэтым вылучэнні простымі словамі. Таксама выкарыстоўвайце прыклады.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Карэктура
+    .value = Калі ласка, вычытайце вылучэнне на прадмет арфаграфічных і граматычных памылак. Вызначце памылкі і дайце выпраўлены варыянт тэксту. Захоўвайце сэнс і фактычную дакладнасць і выведзіце спачатку пералік прапанаваных выпраўленняў, а затым канчатковы, выпраўлены варыянт тэксту.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -135,6 +139,5 @@ genai-onboarding-gemini-price = Бясплатныя і платныя вары
 genai-onboarding-huggingchat-generate = Стварэнне тэксту і коду
 genai-onboarding-huggingchat-switch = Пераключайцеся паміж разнастайным наборам адкрытых мадэляў
 genai-onboarding-huggingchat-price-2 = Бясплатна; уліковы запіс патрэбен пасля пэўнай колькасці запытаў
-genai-onboarding-huggingchat-price = Бясплатна; уліковы запіс патрэбен для некаторых задач
 genai-onboarding-lechat-generate = Стварэнне тэксту і коду
 genai-onboarding-lechat-price = Бясплатна; патрэбен уліковы запіс

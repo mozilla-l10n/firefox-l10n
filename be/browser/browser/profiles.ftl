@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - выбар профілю кар�
 profile-window-heading = Выберыце профіль { -brand-short-name }
 profile-window-body = Трымайце працоўнае і асабістае агляданне, у тым ліку такія рэчы, як паролі і закладкі, цалкам асобнымі. Або стварыце профілі для ўсіх, хто выкарыстоўвае гэтую прыладу.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Выбіраць профіль пры адкрыцці { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Паказваць гэта пры адкрыцці { -brand-short-name }
 profile-window-create-profile = Стварыць профіль
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Выберыце назву, напрыклад, «Праца» або «Асабісты»
 new-profile-page-done-button =
     .label = Скончыць рэдагаванне
+profile-window-title-2 = { -brand-short-name } - Выбар профілю
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Закладкі
 delete-profile-history = Гісторыю (наведаныя старонкі, кукі, звесткі сайтаў)
 delete-profile-autofill = Звесткі аўтазапаўнення (адрасы, спосабы аплаты)
 delete-profile-logins = Паролі
+
+##
+
 # Button label
 delete-profile-cancel = Скасаваць
 # Button label
