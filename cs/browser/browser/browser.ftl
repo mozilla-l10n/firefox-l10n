@@ -711,6 +711,9 @@ urlbar-result-action-search-bookmarks = Hledat v záložkách
 urlbar-result-action-search-history = Hledat v historii
 urlbar-result-action-search-tabs = Najít panel
 urlbar-result-action-search-actions = Akce vyhledávání
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = Otevřít { $group }
 
 ## Labels shown above groups of urlbar results
 
