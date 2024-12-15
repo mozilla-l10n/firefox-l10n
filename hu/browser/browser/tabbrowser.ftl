@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Bezár { $tabCount } lapot?
 tabbrowser-confirm-close-tabs-button = Lapok bezárása
+tabbrowser-ask-close-tabs-checkbox = Rákérdezés több lap bezárása előtt
 tabbrowser-confirm-close-tabs-checkbox = Megerősítés több lap bezárása előtt
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Bezárja az ablakot és kilép a 
 tabbrowser-confirm-close-tabs-with-key-button = Kilépés a { -brand-short-name }ból
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Rákérdezés a { $quitKey } billentyűvel történő kilépés előtt
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Megerősítés a { $quitKey }ból történő kilépés előtt
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Kilép a { -brand-short-name(case: "elative") } vagy bezárja a jelenlegi lapot?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Kilépés a { -brand-short-name(case: "elative") }
+       *[other] Kilépés a { -brand-short-name(case: "elative") }
+    }
+tabbrowser-confirm-close-tab-only-button = Jelenlegi lap bezárása
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +200,9 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Mégse
     .accesskey = M
-tab-group-editor-create =
-    .label = Létrehozás
-    .accesskey = L
+tab-context-unnamed-group =
+    .label = Névtelen csoport
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

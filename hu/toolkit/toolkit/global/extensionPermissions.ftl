@@ -30,4 +30,6 @@ webext-perms-description-sessions = Nemrég bezárt lapok elérése
 webext-perms-description-tabs = Böngészőlapok elérése
 webext-perms-description-tabHide = Böngészőlapok elrejtése és megjelenítése
 webext-perms-description-topSites = Böngészés előzményeinek elérése
+webext-perms-description-trialML = MI modellek letöltése és futtatása az eszközön
+webext-perms-description-userScripts = Engedélyezés, hogy nem ellenőrzött harmadik féltől származó parancsfájlok hozzáférjenek az adataihoz
 webext-perms-description-webNavigation = Böngészőtevékenység elérése navigáláskor

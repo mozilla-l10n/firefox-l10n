@@ -106,6 +106,9 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Beállítások alkalmazva, és a ping elküldve.
 about-glean-about-data-header = Információk az adatokról
+about-glean-about-data-list-item-firefox-profiler =
+    Teljesítményprofil rögzítéséhez és az összes rögzített metrika megtekintéséhez használja a
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }t</a>.
 about-glean-about-data-explanation =
     Az összegyűjtött adatok tallózásához tekintse meg a
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Szótárat</a>.
