@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj. <label data-l10n-name="remove-search-engine-article">Pli da informo</label>
 removed-search-engine-message2 = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj.
 remove-search-engine-button = Akcepti
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Ĉu aldoni { $engineName } kiel serĉilon?
+install-search-engine-add = Aldoni
+install-search-engine-no = Ne

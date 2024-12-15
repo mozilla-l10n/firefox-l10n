@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Ĉu fermi { $tabCount } langetojn?
 tabbrowser-confirm-close-tabs-button = Fermi langetojn
+tabbrowser-ask-close-tabs-checkbox = Demandi antaŭ ol fermi plurajn langetojn
 tabbrowser-confirm-close-tabs-checkbox = Konfirmi antaŭ fermi plurajn langetojn
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Ĉu fermi fenestron kaj fini { -b
 tabbrowser-confirm-close-tabs-with-key-button = Fini { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Demandi antaŭ ol fini per { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Konfirmi antaŭ ol fini per { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Ĉu fini { -brand-short-name } aŭ ĉu fermi la nunan langeton?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Fini { -brand-short-name }
+       *[other] Fini { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Fermi nunan langeton
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -183,3 +198,47 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Nuligi
     .accesskey = N
+tab-context-unnamed-group =
+    .label = Grupo sen nomo
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Aldoni langeton al nova grupo
+           *[other] Aldoni langetojn al nova grupo
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Aldoni langeton al grupo
+           *[other] Aldoni langetojn al grupo
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Nova langeto en grupo
+tab-group-editor-action-new-window =
+    .label = Movi grupon al nova fenestro
+tab-group-editor-action-save =
+    .label = Konservi kaj fermi grupon
+tab-group-editor-action-ungroup =
+    .label = Malgrupigi langetojn
+tab-group-editor-action-delete =
+    .label = Forigi grupon
+tab-group-editor-done =
+    .label = Farita
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Denove malfermi grupon de langetoj
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Forigi el grupo
+           *[other] Forigi el grupoj
+        }
+    .accesskey = F
