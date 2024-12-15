@@ -129,6 +129,20 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Калі ласка, звярніцеся да спісу ніжэй для канкрэтнага
     выкарыстання для кожнага інструмента:
+about-glean-about-data-list-item-dictionary =
+    Каб паглядзець спіс звестак, сабраных { -glean-brand-name } для кожнай праграмы,
+    звярніцеся да <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Каб праглядаць дадзеныя, якія збіраюцца састарэлай тэлеметрыяй, пракансультуйцеся
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Каб паглядзець тэгі адладкі, убачыць поўныя пінгі, пабачыць
+    жывы струмень падзей або ўбачыць
+    візуалізацыі метрык, пракансультуйцеся
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Каб запісаць профіль прадукцыйнасці і ўбачыць усе запісаныя паказчыкі, выкарыстоўвайце
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Каб прагледзець спіс сабраных звестак, звярніцеся да
     <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
