@@ -498,7 +498,10 @@ pdfjs-editor-alt-text-settings-close-button = Закрыць
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Падсвятленне выдалена
 pdfjs-editor-undo-bar-message-freetext = Тэкст выдалены
+pdfjs-editor-undo-bar-message-ink = Малюнак выдалены
+pdfjs-editor-undo-bar-message-stamp = Відарыс выдалены
 pdfjs-editor-undo-bar-close-button =
     .title = Закрыць
 pdfjs-editor-undo-bar-close-button-label = Закрыць
