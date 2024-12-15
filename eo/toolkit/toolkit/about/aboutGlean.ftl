@@ -92,4 +92,8 @@ about-glean-feedback-settings-and-ping =
 about-glean-about-data-header = Pri datumoj
 about-glean-about-data-description = Ekzistas kelkaj malsamaj ilojn, kiujn vi povas uzi por vidi viajn datumojn, depende de la rezulto serĉata.
 about-glean-about-data-description-list-intro = Bonvolu kontroli la liston malsupre por vidi specifajn uzojn por ĉiu ilo:
+about-glean-about-data-list-item-dictionary = Por esplori la liston de datumoj kolektitaj de { -glean-brand-name } en ĉiu programo, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry = Por esplori la datumojn kolektitaj de antaŭaj telemezuroj, bonvolu konsulti <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer = Por esplori senerarigajn etikedojn, vidi tutajn "pings", vidi elsendfluojn de nunaj eventoj aŭ vidi mezurojn, bonvolu konsulti <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler = Por registri efikecan profilon kaj vidi ĉiujn registritajn mezurojn, bonvolu uzi <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.

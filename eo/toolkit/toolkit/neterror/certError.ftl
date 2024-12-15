@@ -71,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = Malfermi retejon en nova fenestro
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Por protekti vian sekurecon, { $hostname } ne permesas al { -brand-short-name } montri la paĝon se ĝi estis enmetita en alian retejon. Por vidi tiun ĉi paĝon, vi devas malfermi ĝin en nova fenestro.
+fp-certerror-view-certificate-link = Montri la atestilon de la retejo
+fp-certerror-return-to-previous-page-recommended-button = Reen (rekomendita)
 
 ## Messages used for certificate error titles
 
@@ -112,3 +114,10 @@ networkProtocolError-title = Eraro en reta protokolo
 nssBadCert-title = Averto: Ebla sekureca risko antaŭ vi
 nssBadCert-sts-title = Malsukcesa konekto: ebla sekureca problemo
 certerror-mitm-title = Programaro malpermesas al { -brand-short-name } sekure konekti tiun ĉi retejon
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
