@@ -78,6 +78,8 @@ protections-panel-not-found-label = Nincs észlelve
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = A(z) { $trackername } engedélyezése
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = A(z) { $trackername } követői és tartalmai blokkolva
 
 ##
 
