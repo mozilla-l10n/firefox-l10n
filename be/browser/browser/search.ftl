@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Ваша прадвызначаная пошукавая сістэма была змененая.</strong> { $oldEngine } болей недасяжна як прадвызначаная пошукавая сістэма ў { -brand-short-name }. Цяпер ваш прадвызначаны пашукавік — { $newEngine }. Каб змяніць яго на іншую тыповую пошукавую сістэму, перайдзіце ў налады. <label data-l10n-name="remove-search-engine-article">Падрабязней</label>
 removed-search-engine-message2 = <strong>Ваша прадвызначаная пошукавая сістэма была змененая.</strong> { $oldEngine } болей недасяжна як прадвызначаная пошукавая сістэма ў { -brand-short-name }. Цяпер ваш прадвызначаны пашукавік — { $newEngine }. Каб змяніць яго на іншую тыповую пошукавую сістэму, перайдзіце ў налады.
 remove-search-engine-button = Добра
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Дадаць { $engineName } як пошукавую сістэму?
+install-search-engine-add = Дадаць
+install-search-engine-no = Не

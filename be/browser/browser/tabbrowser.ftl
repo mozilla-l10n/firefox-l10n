@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[many] Закрыць { $tabCount } картак?
     }
 tabbrowser-confirm-close-tabs-button = Закрыць карткі
+tabbrowser-ask-close-tabs-checkbox = Пытаць перад закрыццём некалькіх картак
 tabbrowser-confirm-close-tabs-checkbox = Пытаць пацвярджэнне пры закрыцці некалькіх картак
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Закрыць акно і вый
 tabbrowser-confirm-close-tabs-with-key-button = Выйсці з { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Пытаць пацвярджэнне пры выхадзе з дапамогай { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Пытаць пацвярджэнне пры выхадзе з дапамогай { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Выйсці з { -brand-short-name } ці закрыць актыўную картку?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Выйсці з { -brand-short-name }
+       *[other] Выйсці з { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Закрыць актыўную картку
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,3 +222,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Скасаваць
     .accesskey = С
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

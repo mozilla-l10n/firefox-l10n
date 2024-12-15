@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = Дазволіць { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Трэкеры і змесціва { $trackername } заблакаваны
+smartblock-placeholder-desc = Вашы налады { -brand-short-name } забаранілі гэтаму змесціву асочваць вас на сайтах або выкарыстоўваць яго для рэкламы.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Дазволіць на { $websitehost }
 
 ##
 
