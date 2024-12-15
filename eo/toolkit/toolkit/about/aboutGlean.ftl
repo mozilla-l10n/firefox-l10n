@@ -16,6 +16,11 @@ about-glean-interface-description =
     estas datumkolekta biblioteko uzata en projektoj de { -vendor-short-name }.
     La fasadon oni fasonis por ke programistoj kaj testistoj povu permane
     <a data-l10n-name="fog-link">testi instrumentadon</a>.
+about-glean-category-about-glean = Pri { -glean-brand-name }
+about-glean-category-manual-testing = Neaŭtomataj testoj
+about-glean-category-adhoc-testing = Specifaj "ad hoc" testoj
+about-glean-category-profiler = Kiel uzi la rulanalizilon
+about-glean-category-about-data = Pri datumoj
 about-glean-upload-enabled = Alŝuto de datumoj aktiva.
 about-glean-upload-disabled = Alŝuto de datumoj malaktiva.
 about-glean-upload-enabled-local = Alŝuto de datumoj aktiva, nur por lokaj serviloj.
@@ -40,6 +45,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links = Oni trovas klarigon pri la malsamaj manieron registri kaj trovi datumojn en la langeto <strong>Pri datumoj</strong>.
 about-glean-about-testing-header = Pri testoj
 # This message is followed by a numbered list.
 about-glean-manual-testing =

@@ -51,3 +51,31 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Pli da informo
     .aria-label = Pli da informo: kelkaj etendaĵoj ne estas permesitaj
 unified-extensions-mb-about-addons-link = Malfermi la agordojn de etendaĵoj
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } malaktivigita
+    .message = Tiu ĉi etendaĵo malobservas politikojn de Mozilla kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin en la agordoj, sed tio povus esti riske.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } malaktivigita
+    .message = Tiu ĉi etendaĵo malobservas politikojn de Mozilla kaj ĝi estis do malaktivigita.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] Etendaĵo malaktivigita
+           *[other] { $extensionsCount } etendaĵoj malaktivigitaj
+        }
+    .message = Kelkaj el viaj etendaĵoj malobservas politikojn de Mozilla kaj ili estis do malaktivigitaj. Vi povas reaktivigi ilin en la agordoj, sed tio povus esti riske.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] Etendaĵo malaktivigita
+           *[other] { $extensionsCount } etendaĵoj malaktivigitaj
+        }
+    .message = Kelkaj el viaj etendaĵoj malobservas politikojn de Mozilla kaj ili estis do malaktivigitaj.
