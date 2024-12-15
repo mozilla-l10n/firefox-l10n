@@ -304,6 +304,8 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Ви пропустили важливе оновлення { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Якщо ви не оновите, деякі функції браузера незабаром припинять роботу. Саме час отримати наші найновіші функції та захист.
+root-certificate-windows-background-notification-learn-more-button = Докладніше
 root-certificate-windows-background-notification-update-button = Оновити { -brand-short-name }
 
 ## FxA Menu Message variants

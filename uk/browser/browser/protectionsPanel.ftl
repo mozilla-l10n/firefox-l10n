@@ -74,10 +74,14 @@ protections-panel-not-found-label = Не виявлено
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } блокує вміст стеження на цьому сайті, якщо ви це не дозволите.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Дозволити { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Стеження і вміст { $trackername } заблоковано
+smartblock-placeholder-desc = Ваші налаштування { -brand-short-name } заборонили цьому вмісту відстежувати вас на сайтах або використовуватися для реклами.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Дозволити на { $websitehost }
 

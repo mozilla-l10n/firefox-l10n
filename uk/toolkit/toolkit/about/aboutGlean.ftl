@@ -16,6 +16,11 @@ about-glean-interface-description =
     – це бібліотека збору даних, що використовується в проєктах { -vendor-short-name }.
     Цей інтерфейс розроблений для ручного <a data-l10n-name="fog-link">тестування інструментарію</a>
     розробниками й тестувальниками.
+about-glean-category-about-glean = Про { -glean-brand-name }
+about-glean-category-manual-testing = Ручне тестування
+about-glean-category-adhoc-testing = Спеціальне тестування
+about-glean-category-profiler = Використання профайлера
+about-glean-category-about-data = Про дані
 about-glean-upload-enabled = Вивантаження даних увімкнено.
 about-glean-upload-disabled = Вивантаження даних вимкнено.
 about-glean-upload-enabled-local = Вивантаження даних увімкнено лише для надсилання на локальний сервер.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Щоб отримати пояснення щодо різних способів запису та пошуку даних, перегляньте
+    вкладку <strong>Про дані</strong>.
 about-glean-about-testing-header = Про тестування
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -100,12 +108,39 @@ about-glean-adhoc-note =
     Зауважте, що ви використовуєте Glean JS API в консолі devtools.
     Це означає, що категорія та назва метрики має формат
     <code>camelCase</code>, на відміну від Rust і C++ API.
+about-glean-profiler-explanation =
+    Щоб переглянути усі записані показники, ви можете скористатися { -profiler-brand-name }.
+    Спочатку ви повинні <a data-l10n-name="firefox-profiler-link">записати профіль продуктивності</a>.
+    Після створення профілю виберіть <q>Маркерна діаграма</q> та подивіться на маркери в розділі <q>Телеметрія</q>.
+about-glean-profiler-explanation-profiler =
+    У профілі продуктивності можна побачити всі зібрані показники, час отримання
+    та їхні значення. Навівши курсор на окремі маркери, ви можете переконатися,
+    що було отримано правильне значення і в потрібний час.
 controls-button-label-verbose = Застосувати налаштування та відправити ping
 about-glean-feedback-settings-only =
     .message = Налаштування застосовано!
 about-glean-feedback-settings-and-ping =
     .message = Налаштування застосовано та сигнал відправлено!
 about-glean-about-data-header = Про дані
+about-glean-about-data-description =
+    Є декілька різних інструментів, які можна використовувати для перегляду даних
+    залежно від того, що ви шукаєте.
+about-glean-about-data-description-list-intro =
+    Скористайтеся наведеним нижче списком, щоб дізнатися
+    про окремі сценарії використання для кожного інструмента:
+about-glean-about-data-list-item-dictionary =
+    Щоб переглянути список даних, зібраних { -glean-brand-name } для кожної програми,
+    скористайтеся <a data-l10n-name="glean-dictionary-link">Словником { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Щоб переглянути дані, які збираються застарілою телеметрією,
+    скористайтеся <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Щоб переглянути мітки налагодження, повні запити ping, пряму трансляцію подій
+    або візуалізацію показників, скористайтеся
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Щоб записати профіль продуктивності та переглянути всі записані показники, скористайтеся
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Щоб переглянути список зібраних даних, зверніться до
     <a data-l10n-name="glean-dictionary-link">Словника { -glean-brand-name }</a>.

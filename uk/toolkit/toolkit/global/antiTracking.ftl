@@ -13,3 +13,9 @@ btp-warning-tracker-classified =
         [few] “{ $siteHost }” було класифіковано як "bounce tracker". Якщо він не отримає активацію користувача протягом { $gracePeriodSeconds } секунд, його стан буде очищено.
        *[many] “{ $siteHost }” було класифіковано як "bounce tracker". Якщо він не отримає активацію користувача протягом { $gracePeriodSeconds } секунд, його стан буде очищено.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = Стан “{ $siteHost }” нещодавно було очищено, тому що його виявлено як елемент стеження відмов.

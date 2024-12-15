@@ -228,11 +228,41 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Додати вкладку до нової групи
+           *[other] Додати вкладки до нової групи
+        }
+    .accesskey = о
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Додати вкладку до групи
+           *[other] Додати вкладки до групи
+        }
+    .accesskey = т
 tab-group-editor-action-new-tab =
     .label = Нова вкладка в групі
 tab-group-editor-action-new-window =
     .label = Перемістити групу в нове вікно
+tab-group-editor-action-save =
+    .label = Зберегти й закрити групу
 tab-group-editor-action-ungroup =
     .label = Розгрупувати вкладки
 tab-group-editor-action-delete =
     .label = Видалити групу
+tab-group-editor-done =
+    .label = Виконано
+    .accessKey = и
+tab-context-reopen-tab-group =
+    .label = Відновити групу вкладок
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Вилучити з групи
+           *[other] Вилучити з груп
+        }
+    .accesskey = л

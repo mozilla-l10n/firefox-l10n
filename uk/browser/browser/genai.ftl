@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Пояснити
     .value = Пояснити ключові поняття вибраного простими словами. Також із прикладами.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Вичитування
+    .value = Перевірте розділ на наявність орфографічних і граматичних помилок. Визначте будь-які помилки й надайте виправлену версію тексту. Беручи до уваги зміст і передачу фактичної інформації, спершу наведіть список пропонованих виправлень, після цього надавши остаточну, виправлену версію тексту.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Запитати в { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Чат-бот з ШІ не отримає все вибране
+    .message =
+        { $selectionLength ->
+           *[other] Ви вибрали приблизно { $selectionLength } символів. Максимальна кількість символів, яку ми можемо надіслати чат-боту з ШІ – { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } не отримає все вибране
+    .message =
+        { $selectionLength ->
+           *[other] Ви вибрали приблизно { $selectionLength } символів. Максимальна кількість символів, яку ми можемо надіслати { $provider } – { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Приховати ярлик чат-бота
 
@@ -135,6 +156,5 @@ genai-onboarding-gemini-price = Безплатні та платні можли�
 genai-onboarding-huggingchat-generate = Генерування тексту і коду
 genai-onboarding-huggingchat-switch = Перемикайтеся між різними наборами відкритих моделей
 genai-onboarding-huggingchat-price-2 = Безплатно; обліковий запис потрібен після певної кількості запитів
-genai-onboarding-huggingchat-price = Безплатно (для деяких завдань потрібен обліковий запис)
 genai-onboarding-lechat-generate = Генерування тексту і коду
 genai-onboarding-lechat-price = Безплатно (потрібен обліковий запис)

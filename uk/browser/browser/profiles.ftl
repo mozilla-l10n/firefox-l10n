@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } – вибір профілю ко�
 profile-window-heading = Виберіть профіль { -brand-short-name }
 profile-window-body = Відокремте робочий та особистий простір, зокрема паролі й закладки. Або створіть профілі для всіх, хто використовує цей пристрій.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Вибирати профіль під час відкриття { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Показувати це вікно під час відкриття { -brand-short-name }
 profile-window-create-profile = Створити профіль
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Виберіть назву, наприклад, “Робота” або “Особистий”
 new-profile-page-done-button =
     .label = Редагування виконано
+profile-window-title-2 = { -brand-short-name } – вибір профілю
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Закладки
 delete-profile-history = Історія (відвідані сторінки, файли cookie, дані сайтів)
 delete-profile-autofill = Дані автозаповнення (адреси, способи оплати)
 delete-profile-logins = Паролі
+
+##
+
 # Button label
 delete-profile-cancel = Скасувати
 # Button label
