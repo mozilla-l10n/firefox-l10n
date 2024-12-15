@@ -64,6 +64,18 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Атрымайце бясплатную маску электроннай пошты
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Абараніце сваю паштовую скрыню ад спаму, выкарыстоўваючы бясплатную <label data-l10n-name="firefox-relay-learn-more-url">маску электроннай пошты</label>, каб схаваць свой сапраўдны адрас. Электронныя лісты з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">гэтага сайта</label> па-ранейшаму будуць прыходзіць у вашу паштовую скрыню, але ваша электронная пошта будзе схаванай.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Спачатку зарэгіструйцеся або ўвайдзіце ў свой уліковы запіс, каб выкарыстоўваць маску электроннай пошты
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Зарэгістравацца
+    .accesskey = З
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Абараніцеся ад спаму з дапамогай маскі электроннай пошты
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Абараніцеся ад спаму, схаваўшы свой сапраўдны адрас з дапамогай <label data-l10n-name="firefox-relay-learn-more-url">маскі электроннай пошты</label>. Вы па-ранейшаму будзеце атрымліваць лісты з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">гэтага сайта</label> у сваю звычайную паштовую скрыню, з замаскіраваным вашым адрасам.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Спачатку зарэгіструйцеся або ўвайдзіце ў свой уліковы запіс, каб выкарыстоўваць маску электроннай пошты
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Ствараючы маску электроннай пошты, вы згаджаецеся з <label data-l10n-name="tos-url">Умовамі абслугоўвання</label> і <label data-l10n-name="privacy-url">Паведамленнем аб прыватнасці</label>.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Далей
+    .accesskey = Д
