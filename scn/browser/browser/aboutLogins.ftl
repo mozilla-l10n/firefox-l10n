@@ -211,7 +211,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = esporta chiavi sar
 about-logins-primary-password-notification-message = Pi favuri metti a to Chiavi Mastra pi vìdiri i cridinziali e i chiavi sarbati
 master-password-reload-button =
     .label = Trasi
-    .accesskey = T
+    .accesskey = L
 
 ## Dialogs
 

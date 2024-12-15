@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 privatebrowsingpage-open-private-window-label = Grapi na finestra privata
-    .accesskey = p
+    .accesskey = P
 about-private-browsing-search-placeholder = Riscedi nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata
 about-private-browsing-search-btn =

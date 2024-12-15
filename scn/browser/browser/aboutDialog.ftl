@@ -7,10 +7,10 @@ aboutDialog-title =
 releaseNotes-link = Nuvità
 update-checkForUpdatesButton =
     .label = Talìa si cci sunnu attualizzi
-    .accesskey = T
+    .accesskey = C
 update-updateButton =
     .label = Riabbìa p'attualizzari { -brand-shorter-name }
-    .accesskey = A
+    .accesskey = R
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzi…
 
 ## Variables:
