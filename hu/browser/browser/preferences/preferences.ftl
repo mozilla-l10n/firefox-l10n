@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = „Ne kövessenek” jelzés küldése a webhelyeknek, jelezve, hogy nem szeretné, hogy kövessék
+do-not-track-removal = Már nem támogatjuk a „Do Not Track” jelzést
 do-not-track-description2 =
     .label = „Ne kövessenek” kérés küldése a webhelyeknek
     .accesskey = N
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Hivatkozások megnyitása új lapon, az új ablak helyett
     .accesskey = l
+ask-on-close-multiple-tabs =
+    .label = Rákérdezés több lap bezárása előtt
+    .accesskey = t
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Rákérdezés a { $quitKey } billentyűvel történő kilépés előtt
+    .accesskey = e
 confirm-on-close-multiple-tabs =
     .label = Megerősítés több lap bezárása előtt
     .accesskey = M
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
 home-prefs-shortcuts-by-option-sponsored =
     .label = Szponzorált gyorskeresők
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = A(z) { $provider } ajánlásával

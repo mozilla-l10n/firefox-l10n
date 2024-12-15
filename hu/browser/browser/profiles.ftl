@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } – Felhasználói profil kiválasz
 profile-window-heading = Válasszon egy { -brand-short-name }-profilt
 profile-window-body = Tartsa teljesen külön a munkahelyi és a személyes böngészését, beleértve a jelszavait és a könyvjelzőit. Vagy hozzon létre profilt mindenki számára, aki ezt az eszközt használja.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Profil kiválasztása a { -brand-short-name } megnyitásakor
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Megjelenítés a { -brand-short-name } megnyitásakor
 profile-window-create-profile = Profil létrehozása
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Válasszon egy nevet, például „Munkahelyi” vagy „Személyes”
 new-profile-page-done-button =
     .label = Szerkesztés kész
+profile-window-title-2 = { -brand-short-name } – Profil kiválasztása
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Könyvjelzők
 delete-profile-history = Előzmények (felkeresett oldalak, sütik, oldaladatok)
 delete-profile-autofill = Automatikus kitöltési adatok (címek, fizetési módok)
 delete-profile-logins = Jelszavak
+
+##
+
 # Button label
 delete-profile-cancel = Mégse
 # Button label

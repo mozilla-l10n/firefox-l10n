@@ -298,6 +298,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Később
     .accesskey = K
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Lemaradt egy fontos { -brand-short-name } frissítésről
+root-certificate-windows-background-notification-subtitle = A böngésző egyes részei hamarosan nem fognak működni, ha nem frissít. Itt az alkalom, hogy megszerezze a legújabb védelmeket és funkciókat.
+root-certificate-windows-background-notification-learn-more-button = További tudnivalók
+root-certificate-windows-background-notification-update-button = A { -brand-short-name } frissítése
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

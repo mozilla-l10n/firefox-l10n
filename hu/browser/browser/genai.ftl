@@ -60,6 +60,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = A(z) { $provider } megkérdezése…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Az MI csevegőbot nem fogja megkapni a teljes kijelölést
+    .message =
+        { $selectionLength ->
+            [one] Körülbelül { $selectionLength } karaktert választott ki. Az MI csevegőbotnak küldhető karakterek száma körülbelül { $maxLength }.
+           *[other] Körülbelül { $selectionLength } karaktert választott ki. Az MI csevegőbotnak küldhető karakterek száma körülbelül { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = A(z) { $provider } nem fogja megkapni a teljes kijelölést
+    .message =
+        { $selectionLength ->
+            [one] Körülbelül { $selectionLength } karaktert választott ki. A(z) { $provider } számára küldhető karakterek száma körülbelül { $maxLength }.
+           *[other] Körülbelül { $selectionLength } karaktert választott ki. A(z) { $provider } számára küldhető karakterek száma körülbelül { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Csevegőbot indítójának elrejtése
 
@@ -135,6 +154,5 @@ genai-onboarding-gemini-price = Ingyenes és fizetős lehetőségek; fiók szük
 genai-onboarding-huggingchat-generate = Szöveg és kód előállítása
 genai-onboarding-huggingchat-switch = Váltás a különböző nyílt modellek között
 genai-onboarding-huggingchat-price-2 = Ingyenes; bizonyos számú kérés után fiók szükséges
-genai-onboarding-huggingchat-price = Ingyenes; egyes feladatok esetén fiók szükséges
 genai-onboarding-lechat-generate = Szöveg és kód előállítása
 genai-onboarding-lechat-price = Ingyenes; fiók szükséges
