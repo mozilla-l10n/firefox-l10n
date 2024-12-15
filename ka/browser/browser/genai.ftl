@@ -109,7 +109,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = მალსახმობის დამალვა ტექსტის მონიშვნისას
 genai-options-about-chatbot =
-    .label = AI-თანამოსაუბრეების შესახებ, რომელსაც გთავაზობთ { -brand-short-name }
+    .label = გაეცნით, რომელ AI-თანამოსაბრეს გთავაზობთ { -brand-short-name }
 
 ## Chatbot onboarding
 
