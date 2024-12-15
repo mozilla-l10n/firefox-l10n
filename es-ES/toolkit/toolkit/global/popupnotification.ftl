@@ -5,6 +5,9 @@
 popup-notification-learn-more = Saber más
 popup-notification-more-actions-button =
     .aria-label = Más acciones
+popup-notification-default-button2 =
+    .label = Aceptar
+    .accesskey = A
 popup-notification-default-button =
     .label = ¡De acuerdo!
     .accesskey = D
