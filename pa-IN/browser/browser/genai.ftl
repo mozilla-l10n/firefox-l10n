@@ -64,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = …{ $provider } ਨੂੰ ਪੁੱਛੋ
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI ਚੈਟ-ਬੋਟ ਪੂਰੀ ਚੋਣ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੇਗਾ
+    .message =
+        { $selectionLength ->
+           *[other] ਤੁਸੀਂ { $selectionLength } ਅੱਖਰ ਚੁਣੇ ਹਨ। ਅਸੀਂ AI ਚੈੱਟ-ਬੋਟ ਨੂੰ ਲਗਭਗ { $maxLength } ਹੀ ਅੱਖਰ ਭੇਜ ਸਕਦੇ ਹਾਂ।
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ਤੁਹਾਡੀ ਪੂਰੀ ਚੋਣ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੇਗਾ।
+    .message =
+        { $selectionLength ->
+           *[other] ਤੁਸੀਂ { $selectionLength } ਅੱਖਰ ਚੁਣੇ ਹਨ। ਅਸੀਂ { $provider } ਨੂੰ ਲਗਭਗ { $maxLength } ਹੀ ਅੱਖਰ ਭੇਜ ਸਕਦੇ ਹਾਂ।
+        }
 genai-shortcuts-hide =
     .label = ਚੈਟਬੋਟ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਓਹਲੇ ਕਰੋ
 
