@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Немагчыма 
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не пазіцыянаваны элемент.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі яго можна прымяніць толькі да замененых элементаў.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі <strong>overflow:hidden</strong> не ўсталяваны.
+inactive-css-no-size-containment = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не мае абмежавання ў памеры.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> не ўплывае на ўнутраныя элементы табліцы.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> не ўплывае на ўнутраныя элементы табліцы, акрамя ячэек табліцы.
 inactive-css-not-table = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не з’яўляецца таблiцай.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> не ўплывае на г
 inactive-css-ruby-element = <strong>{ $property }</strong> не ўплывае на гэты элемент, таму што гэта элемент ruby. Яго памер вызначаны памерам шрыфту тэксту ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах вылучэння.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах ::cue.
@@ -99,6 +105,7 @@ inactive-css-not-floated-fix = Паспрабуйце дадаць уласці�
 inactive-css-position-property-on-unpositioned-box-fix = Паспрабуйце ўсталяваць яго ўласцівасць <strong>position</strong> на што-небудзь іншае, ніж <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Пераканайцеся, што дадаяце ўласцівасць да замененага элемента. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Паспрабуйце дадаць <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Паспрабуйце ўсталяваць для ўласцівасці <strong>display</strong> нешта іншае, чым <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> або <strong>inline-table</strong> і пераканайцеся, што яна не ў табліцы або сегменце ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-cell </strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Паспрабуйце дадаць <strong>display:table</strong> альбо <strong>display:inline-table</strong>. { learn-more }
