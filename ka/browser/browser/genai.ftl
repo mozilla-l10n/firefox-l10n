@@ -37,16 +37,16 @@ genai-prompts-simplify =
     .value = გთხოვ გადმოსცე მონიშნული მოკლე წინადადებებითა და ადვილი სიტყვებით. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
-    .label = გამომკითხე
+    .label = გამოკითხვა
     .value = გთხოვ გამომცადე მონიშნულის მიხედვით. დამისვი სხვადასხვა სახის შეკითხვა, თუნდაც რამდენიმე ასარჩევი პასუხით, ჭეშმარიტის ან მცდარის გამოცნობით ან მოკლე პასუხებით. დაელოდე ჩემს პასუხს მომდევნო კითხვაზე გადასვლამდე.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = ამიხსენი
+    .label = ახსნა
     .value = გთხოვ გადმომცე მონიშნულის ძირითადი აზრი ადვილად გასაგები სიტყვებით. ამასთანავე, მაგალითების მოხმობით.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = გასწორება
-    .value = გაასწორე მონიშნულ ნაწერში გრამატიკული და მართლწერის უზუსტობები. იპოვე შეცდომები და წარმოადგინე გამართული ტექსტი. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა, იქვე გამოიტანე ჯერ შემოთავაზებული შესწორებების ჩამონათვალი და შემდეგ საბოლოო, გამართული სახით.
+    .value = გაასწორე მონიშნულ ნაწერში გრამატიკული და მართლწერის უზუსტობები. იპოვე შეცდომები და გამართულად გადმოიტანე ტექსტი. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა, ჯერ გამოიტანე შემოთავაზებული შესწორებების ჩამონათვალი და შემდეგ დაურთე საბოლოო, გამართული ტექსტი.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
