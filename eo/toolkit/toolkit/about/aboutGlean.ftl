@@ -82,10 +82,14 @@ about-glean-adhoc-explanation = Por pli specifaj testoj, vi ankaŭ povas determi
 about-glean-adhoc-explanation2 = Por pli specifaj testoj, vi ankaŭ povas determini la nunan valoron de iu instrumento per malfermo de konzolo de programistoj ĉi tie en <code>about:glean</code> kaj uzo de la API <code>testGetValue()</code>, ekzemple <code>Glean.metricCategory.metricName.testGetValue()</code> por mezuro nomita <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Bonvolu rimarki ke kiam vi uzas la konzolon de la iloj por programistoj, vi uzas Glean JS API. Tio signifas ke la nomon kaj kategorion de la metrikoj estas aranĝitaj laŭ <code>camelCase</code> malkiel en la Rust kaj C++ API-oj.
+about-glean-profiler-explanation = Por plene kaj detale vidi ĉiujn registritajn mezurojn vi povas uzi la { -profiler-brand-name }. Unue vi devas <a data-l10n-name="firefox-profiler-link">kapti efikecan profilon</a>. Post tio, elektu <q>Grafikaĵo de markiloj</q> kaj rigardu la markilojn sub <q>Telemezuro</q>.
+about-glean-profiler-explanation-profiler = En la efikeca profilo vi povas vidi ĉiujn kolektitajn mezuron, kiam oni ilin kolektis kaj ekzakte kiujn valoroj estis kolektitaj. Se vi movas la muson super individuaj markiloj vi povos kontroli ĉu la ĝusta valoro estis kolektita kaj ĉu tio okazis en la ĝusta momento.
 controls-button-label-verbose = Apliki agordojn kaj sendi 'ping'
 about-glean-feedback-settings-only =
     .message = Agordoj aplikitaj!
 about-glean-feedback-settings-and-ping =
     .message = Agordoj aplikitaj kaj ping sendita!
 about-glean-about-data-header = Pri datumoj
+about-glean-about-data-description = Ekzistas kelkaj malsamaj ilojn, kiujn vi povas uzi por vidi viajn datumojn, depende de la rezulto serĉata.
+about-glean-about-data-description-list-intro = Bonvolu kontroli la liston malsupre por vidi specifajn uzojn por ĉiu ilo:
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.
