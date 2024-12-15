@@ -80,6 +80,8 @@ protections-panel-smartblock-blocking-toggle =
     .label = A(z) { $trackername } engedélyezése
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = A(z) { $trackername } követői és tartalmai blokkolva
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Engedélyezés itt: { $websitehost }
 
 ##
 

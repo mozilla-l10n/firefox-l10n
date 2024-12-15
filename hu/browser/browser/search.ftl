@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A(z) { $oldEngine } már nem érhető el alapértelmezett keresőszolgáltatásként a { -brand-short-name }ban. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz. <label data-l10n-name="remove-search-engine-article">További tudnivalók</label>
 removed-search-engine-message2 = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A(z) { $oldEngine } már nem érhető el alapértelmezett keresőszolgáltatásként a { -brand-short-name }ban. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Hozzáadja keresőszolgáltatásként ezt: { $engineName }?
+install-search-engine-add = Hozzáadás
+install-search-engine-no = Nem
