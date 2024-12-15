@@ -89,6 +89,27 @@ fp-certerror-self-signed-why-dangerous-body = Ĉar estas problemo kun la atestil
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ne multe. Verŝajne estas problemo en la retejo mem.
 fp-certerror-self-signed-important-note = GRAVA NOTO: se vi klopodas viziti tiun ĉi retejon en entreprena intrareto, la laboristoj de IT eble uzas memsubskribitajn atestilojn. Ili povas helpi vin kontroli la aŭtentikecon.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo senvalidiĝis je { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo ne estos valida antaŭ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Erarkodo: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Pli da informo pri malsukceso de sekuraj konektoj
+fp-learn-more-about-cert-issues = Pli da informo pri ĉi tiaj atestilaj problemoj
+fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj rilatitaj kun la dato kaj horo
 
 ## Messages used for certificate error titles
 
@@ -133,7 +154,17 @@ certerror-mitm-title = Programaro malpermesas al { -brand-short-name } sekure ko
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Averto: sekureca risko
+fp-certerror-body-title = Estu singarda. Io ne ĝustas.
+fp-certerror-why-site-dangerous = Kio igas tiun ĉi retejon aspekti danĝere?
+fp-certerror-what-can-you-do = Kion vi povas fari pri tio?
+fp-certerror-advanced-title = Spertula
+fp-certerror-advanced-button = Spertula
+fp-certerror-hide-advanced-button = Kaŝi spertulajn elementojn
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Daŭrigi al { $hostname } (riska)
+fp-certerror-intro = { -brand-short-name } eltrovis eble gravan sekurecan problemon kun <strong>{ $hostname }</strong>. Iu kiu ŝajnigas esti tiu retejo povus ŝteli aferojn, ekzemple kreditkartajn informojn, pasvortojn aŭ retpoŝtajn mesaĝojn.
+fp-certerror-expired-into = { -brand-short-name } eltrovis sekurecan problemon kun <strong>{ $hostname }</strong>. Ĉu la retejo ne estas bone agordita ĉu la horloĝo en via aparato ne havas la ĝustan daton/horon.

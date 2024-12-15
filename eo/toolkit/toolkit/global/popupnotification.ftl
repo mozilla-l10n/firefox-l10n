@@ -5,6 +5,9 @@
 popup-notification-learn-more = Pli da informo
 popup-notification-more-actions-button =
     .aria-label = Aliaj agoj
+popup-notification-default-button2 =
+    .label = Akcepti
+    .accesskey = A
 popup-notification-default-button =
     .label = En ordo!
     .accesskey = A
