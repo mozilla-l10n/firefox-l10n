@@ -82,6 +82,13 @@ fp-certerror-bad-domain-why-dangerous-body = Tiu ĉi retejo nur akceptas sekuraj
 fp-certerror-bad-domain-what-can-you-do-body = Probable temas pri nenio grava, ĉar verŝajne estas problemo en la retejo mem. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. Sed se vi estas en entreprena reto, via helpa teamo povus havi pli da informoj. Se vi uzas kontraŭvirusan programon, provu serĉi ĉu estas eblaj konfliktoj aŭ konataj problemoj.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Estas problemo kun la atestilo de la retejo. Povus okazi ke iu trompe klopodu ŝajnigi esti tiu retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ni ne povas determini kiu eldonis la atestilon, la atestilo estas memsubskribita aŭ la retejo ne sendas interajn atestilojn, kiujn ni fidas.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probable temas pri nenio grava, ĉar verŝajne estas problemo en la retejo mem. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. Sed se vi estas en entreprena reto, via helpa teamo povus havi pli da informoj. Se vi uzas kontraŭvirusan programon, ĝi povus bezoni agordadon por funkcii kun { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Ĉar estas problemo kun la atestilo de la retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. La atestilo de tiu ĉi retejo estas memsubskribita. Ĝi ne estis eldonita de rekonita atestila aŭtoritato – do ni norme ne fidas ĝin.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ne multe. Verŝajne estas problemo en la retejo mem.
+fp-certerror-self-signed-important-note = GRAVA NOTO: se vi klopodas viziti tiun ĉi retejon en entreprena intrareto, la laboristoj de IT eble uzas memsubskribitajn atestilojn. Ili povas helpi vin kontroli la aŭtentikecon.
 
 ## Messages used for certificate error titles
 
