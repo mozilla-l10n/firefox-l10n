@@ -56,12 +56,20 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Akadályozza meg a kéretlen leveleket egy ingyenes e-mail-maszkkal
 firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Akadályozza meg a kéretlen leveleket azáltal, hogy elrejti a valódi e-mail-címét egy ingyenes <label data-l10n-name="firefox-relay-learn-more-url">e-mail-maszkkal</label>. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de az e-mail-címe rejtve marad.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Először regisztráljon vagy jelentkezzen be a fiókjába, hogy e-mail-maszkot használjon
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Regisztráció
     .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Szerezzen egy ingyenes e-mail-maszkot
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Védje meg a postaládáját a levélszeméttől egy ingyenes <label data-l10n-name="firefox-relay-learn-more-url">e-mail-maszk</label> használatával, amellyel elrejti a valódi címét. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de az e-mail-címe rejtve marad.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Először regisztráljon vagy jelentkezzen be a fiókjába, hogy e-mail-maszkot használjon
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Regisztráció
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Védekezzen a levélszemét ellen egy e-mail-maszkkal
