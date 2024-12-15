@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Vysvetli to
     .value = Vysvetli kľúčové pojmy v tomto výbere pomocou jednoduchých slov. Použi aj príklady.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Skontroluj text
+    .value = Skontroluj označený text na pravopisné a gramatické chyby. Identifikuj prípadné chyby a poskytni opravenú verziu textu. Zachovaj význam a vecnú správnosť a najskôr vypíš zoznam navrhovaných opráv, po ktorom nasleduje konečná, opravená verzia textu.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,17 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Opýtajte sa { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI chatbot nedostane celý označený text
+    .message =
+        { $selectionLength ->
+            [one] Označili ste približne { $selectionLength } znak. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
+            [few] Označili ste približne { $selectionLength } znaky. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
+            [many] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
+           *[other] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
 
@@ -135,6 +150,5 @@ genai-onboarding-gemini-price = Bezplatné a platené možnosti; je potrebný ú
 genai-onboarding-huggingchat-generate = Generovanie textu a kódu
 genai-onboarding-huggingchat-switch = Prepínanie medzi rozmanitou sadou otvorených modelov
 genai-onboarding-huggingchat-price-2 = Zadarmo; po určitom počte požiadaviek je potrebný účet
-genai-onboarding-huggingchat-price = Zadarmo; účet potrebný pre niektoré úlohy
 genai-onboarding-lechat-generate = Generovanie textu a kódu
 genai-onboarding-lechat-price = Zadarmo; je potrebný účet
