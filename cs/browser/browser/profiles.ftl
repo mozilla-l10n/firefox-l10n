@@ -10,6 +10,9 @@ profile-window-heading =
     }
 profile-window-body = Pracovní a osobní prohlížení, včetně takových věcí, jako jsou hesla a záložky, mějte zcela oddělené. Nebo si vytvořte profily pro všechny, kteří toto zařízení používají.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Zvolit profil při spuštění { -brand-short-name(case: "gen") }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label =
         { -brand-short-name.case-status ->
@@ -56,8 +59,9 @@ new-profile-page-input-placeholder =
     .placeholder = Zvolte název jako “Práce” nebo “Osobní”
 new-profile-page-done-button =
     .label = Dokončit úpravy
+profile-window-title-2 = { -brand-short-name } - Výběr profilu
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -74,6 +78,9 @@ delete-profile-bookmarks = Záložky
 delete-profile-history = Historie (navštívené stránky, cookies, údaje stránek)
 delete-profile-autofill = Automaticky vyplněné údaje (adresy, platební metody)
 delete-profile-logins = Hesla
+
+##
+
 # Button label
 delete-profile-cancel = Zrušit
 # Button label
