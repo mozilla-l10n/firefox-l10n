@@ -5,6 +5,9 @@
 popup-notification-learn-more = اطلاعات بیشتر
 popup-notification-more-actions-button =
     .aria-label = اقدامات بیشتر
+popup-notification-default-button2 =
+    .label = باشه
+    .accesskey = ب
 popup-notification-default-button =
     .label = باشه!
     .accesskey = ب
