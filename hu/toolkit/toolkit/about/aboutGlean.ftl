@@ -16,6 +16,11 @@ about-glean-interface-description =
     egy a { -vendor-short-name } projekjeiben használt adatgyűjtő programkönyvtár.
     Ez a felület arra lett tervezve, hogy a fejlesztők és tesztelők kézileg
     <a data-l10n-name="fog-link">teszteljék a mérőeszközöket</a>.
+about-glean-category-about-glean = A { -glean-brand-name } névjegye
+about-glean-category-manual-testing = Kézi tesztelés
+about-glean-category-adhoc-testing = Ad hoc tesztelés
+about-glean-category-profiler = A Profilozó használata
+about-glean-category-about-data = Információk az adatokról
 about-glean-upload-enabled = Az adatfeltöltés engedélyezett.
 about-glean-upload-disabled = Az adatfeltöltés le van tiltva.
 about-glean-upload-enabled-local = Az adatfeltöltés csak helyi kiszolgálóra történő küldés esetén engedélyezett.

@@ -206,3 +206,44 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Lap hozzáadása új csoporthoz
+            [one] Lapok hozzáadása új csoporthoz
+           *[other] Lapok hozzáadása új csoporthoz
+        }
+    .accesskey = c
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Lap hozzáadása csoporthoz
+            [one] Lapok hozzáadása csoporthoz
+           *[other] Lapok hozzáadása csoporthoz
+        }
+    .accesskey = c
+tab-group-editor-action-new-tab =
+    .label = Új lap a csoportban
+tab-group-editor-action-new-window =
+    .label = Csoport áthelyezése új ablakba
+tab-group-editor-action-save =
+    .label = Mentés és csoport bezárása
+tab-group-editor-action-ungroup =
+    .label = Lapok csoportosításának megszüntetése
+tab-group-editor-action-delete =
+    .label = Csoport törlése
+tab-group-editor-done =
+    .label = Kész
+    .accessKey = K
+tab-context-reopen-tab-group =
+    .label = Lapcsoport újranyitása
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Eltávolítás a csoportból
+            [one] Eltávolítás a csoportokból
+           *[other] Eltávolítás a csoportokból
+        }
+    .accesskey = E
