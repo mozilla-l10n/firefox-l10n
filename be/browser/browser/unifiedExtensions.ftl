@@ -63,3 +63,25 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } адключана
     .message = Гэта пашырэнне парушае палітыку Mozilla і было адключана.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } пашырэнне адключаны
+            [few] { $extensionsCount } пашырэнні адключаны
+           *[many] { $extensionsCount } пашырэнняў адключана
+        }
+    .message =
+        Некаторыя з вашых пашырэнняў былі адключаны за парушэнне палітык Mozilla.
+        Вы можаце ўключыць іх у наладах, але гэта можа быць рызыкоўным.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } пашырэнне адключана
+            [few] { $extensionsCount } пашырэнні адключаны
+           *[many] { $extensionsCount } пашырэнняў адключана
+        }
+    .message = Некаторыя з вашых пашырэнняў былі адключаны за парушэнне палітык Mozilla.
