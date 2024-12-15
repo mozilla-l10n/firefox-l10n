@@ -28,7 +28,7 @@ update-adminDisabled = Обновления отключены вашим сис
 update-policy-disabled = Обновления отключены вашей организацией
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }
 aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
-update-otherInstanceHandlingUpdates = Обновление производится другим процессом { -brand-short-name }
+update-otherInstanceHandlingUpdates = { -brand-short-name } обновляется другим процессом
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
