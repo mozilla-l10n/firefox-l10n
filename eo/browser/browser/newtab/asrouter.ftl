@@ -319,6 +319,26 @@ fxa-menu-message-backup-data-collapsed-text = Fari sekurkopion de la retumilaj d
 fxa-menu-message-backup-sync-primary-text = Tenu viajn datumojn sekuraj kaj spegulitaj
 fxa-menu-message-backup-sync-secondary-text = Speguli faras sekurkopion de la plimulto de viaj datumoj, tiel ke vi povas aliri ilin el ie ajn, kie vi uzas { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Speguli kaj fari sekurkopion de datumoj
+fxa-menu-message-mobile-primary-text = Sendi langetojn al via telefono
+fxa-menu-message-mobile-secondary-text = Tuj daŭrigi el tie, kie vi haltis, per spegulado de viaj langetoj al portebla aparato.
+fxa-menu-message-mobile-collapsed-text = Speguli kun via telefono
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Bonvenon denove
+multi-cta-fox-doodle-set-default-checkbox = Igi { -brand-short-name } la norma retumilo
+multi-cta-fox-doodle-pin-startmenu-checkbox = Alpingli { -brand-short-name } al la komenca menuo
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Alpingli { -brand-short-name } al via Dock
+       *[other] Alpingli { -brand-short-name } al la taska ilaro
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Komenci retumi
+multi-cta-fox-doodle-main-browser-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
+multi-cta-fox-doodle-quick-reminder-subtitle = Jen rapida memorigo, pri tio ke vi povas havi vian preferatan privatecozorgan retumilon atingebla je unu alklako.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Havu vian preferatan privatecozorgan retumilon atingebla je unu alklako. Igi { -brand-short-name } via norma retumilo por malfermo de ligiloj kaj alpinglu ĝin al via Dock.
+       *[other] Havu vian preferatan privatecozorgan retumilon atingebla je unu alklako. Igi { -brand-short-name } via norma retumilo por malfermo de ligiloj kaj alpinglu ĝin al via taska ilaro.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Havu vian preferatan privatecozorgan retumilon atingebla je unu alklako. Igi { -brand-short-name } via norma retumilo por malfermo de ligiloj kaj alpinglu ĝin al la komenca menuo.
