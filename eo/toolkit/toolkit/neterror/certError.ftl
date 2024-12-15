@@ -73,6 +73,15 @@ open-in-new-window-for-csp-or-xfo-error = Malfermi retejon en nova fenestro
 csp-xfo-blocked-long-desc = Por protekti vian sekurecon, { $hostname } ne permesas al { -brand-short-name } montri la paĝon se ĝi estis enmetita en alian retejon. Por vidi tiun ĉi paĝon, vi devas malfermi ĝin en nova fenestro.
 fp-certerror-view-certificate-link = Montri la atestilon de la retejo
 fp-certerror-return-to-previous-page-recommended-button = Reen (rekomendita)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Tiu ĉi retejo nur akceptas sekurajn konektojn, sed estas problemo kun la atestilo de la retejo. Povus okazi ke iu trompe klopodu ŝajnigi esti tiu retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝia atestilo ne estas valida por { $hostname }. La atestilo nur validas por: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probable temas pri nenio grava, ĉar verŝajne estas problemo en la retejo mem. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. Sed se vi estas en entreprena reto, via helpa teamo povus havi pli da informoj. Se vi uzas kontraŭvirusan programon, provu serĉi ĉu estas eblaj konfliktoj aŭ konataj problemoj.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Estas problemo kun la atestilo de la retejo. Povus okazi ke iu trompe klopodu ŝajnigi esti tiu retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ni ne povas determini kiu eldonis la atestilon, la atestilo estas memsubskribita aŭ la retejo ne sendas interajn atestilojn, kiujn ni fidas.
 
 ## Messages used for certificate error titles
 
