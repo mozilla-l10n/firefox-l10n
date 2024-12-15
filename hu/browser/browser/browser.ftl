@@ -653,6 +653,9 @@ urlbar-result-action-search-bookmarks = Könyvjelzők keresése
 urlbar-result-action-search-history = Előzmények keresése
 urlbar-result-action-search-tabs = Lapok keresése
 urlbar-result-action-search-actions = Keresési műveletek
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = { $group } megnyitása
 
 ## Labels shown above groups of urlbar results
 
@@ -978,9 +981,6 @@ content-analysis-panel-title = Adatbiztonság
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = A szervezete a(z) <b>{ $agentName }</b> eszközt használja az adatvesztés elleni védelemhez. <a data-l10n-name="info">További tudnivalók</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = A szervezete a(z) { $agentName } eszközt használja az adatvesztés elleni védelemhez. <a data-l10n-name="info">További tudnivalók</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1005,6 +1005,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Kiegészítők
         Egyes kiegészítők nem engedélyezettek
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Kiegészítők
+    .tooltiptext =
+        Kiegészítők
+        Egyes kiegészítők le vannak tiltva
 
 ## Private browsing reset button
 

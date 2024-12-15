@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Védje meg az e-mail-címét:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Használjon { -relay-brand-name } e-mail-maszkot
 firefox-relay-use-mask-title = Használjon { -relay-brand-name } e-mail-maszkot
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Akadályozza meg a kéretlen leveleket egy ingyenes e-mail-maszkkal
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Rejtse el a valódi e-mail-címét
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Szerezzen egy ingyenes e-mail-maszkot
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Védje meg postafiókját a levélszeméttől
 firefox-relay-opt-in-confirmation-enable-button =
     .label = E-mail-maszk használata
     .accesskey = h
@@ -33,3 +41,13 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Most nem
     .accesskey = n
+firefox-relay-offer-what-fxa-and-relay-provides = Egy fiók további adatvédelmi termékekhez biztosít hozzáférést. Az e-mail-maszkokra küldött levelek a valódi e-mail-címére lesznek továbbítva (hacsak dönt nem úgy, hogy letiltja őket).
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
