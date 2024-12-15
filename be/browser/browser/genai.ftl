@@ -64,6 +64,27 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Спытаць { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Чат-бот ШІ не атрымае поўнага вылучэння
+    .message =
+        { $selectionLength ->
+            [one] Вы выбралі каля { $selectionLength } знака. Колькасць знакаў, якія мы можам адправіць чат-боту ШІ, складае каля { $maxLength }.
+            [few] Вы выбралі каля { $selectionLength } знакаў. Колькасць знакаў, якія мы можам адправіць чат-боту ШІ, складае каля { $maxLength }.
+           *[many] Вы выбралі каля { $selectionLength } знакаў. Колькасць знакаў, якія мы можам адправіць чат-боту ШІ, складае каля { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } не атрымае поўнага вылучэння
+    .message =
+        { $selectionLength ->
+            [one] Вы выбралі каля { $selectionLength } знакаў. Колькасць знакаў, якія мы можам адправіць { $provider }, складае каля { $maxLength }.
+            [few] Вы выбралі каля { $selectionLength } знакаў. Колькасць знакаў, якія мы можам адправіць { $provider }, складае каля { $maxLength }.
+           *[many] Вы выбралі каля { $selectionLength } знакаў. Колькасць знакаў, якія мы можам адправіць { $provider }, складае каля { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Схаваць ярлык чат-бота
 

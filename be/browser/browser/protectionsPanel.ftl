@@ -74,10 +74,13 @@ protections-panel-not-found-label = Не выяўлены
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } блакуе змест з элементамі сачэння, пакуль вы знаходзіцеся на гэтым сайце, калі вы не дазволіце яго.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Дазволіць { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Трэкеры і змесціва { $trackername } заблакаваны
 
 ##
 
