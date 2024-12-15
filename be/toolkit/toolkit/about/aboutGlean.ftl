@@ -16,6 +16,11 @@ about-glean-interface-description =
     гэта бібліятэка для збору звестак, ужываная ў праектах { -vendor-short-name }.
     Гэты інтэрфейс прызначаны для ручнога <a data-l10n-name="fog-link">тэставання інструментарыю</a>
     распрацоўшчыкамі і тэсціроўшчыкамі.
+about-glean-category-about-glean = Пра { -glean-brand-name }
+about-glean-category-manual-testing = Ручное тэставанне
+about-glean-category-adhoc-testing = Спецыяльнае тэставанне
+about-glean-category-profiler = Выкарыстанне прафайлера
+about-glean-category-about-data = Пра звесткі
 about-glean-upload-enabled = Зацягванне звестак уключана.
 about-glean-upload-disabled = Зацягванне звестак выключана.
 about-glean-upload-enabled-local = Зацягванне звестак уключана толькі для адпраўкі на лакальны сервер.
@@ -43,6 +48,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Для тлумачэння розных спосабаў запісу і пошуку
+    дадзеных, калі ласка, звярніцеся да
+    карткі <strong>Пра звесткі</strong>.
 about-glean-about-testing-header = Пра тэставанне
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -100,12 +109,26 @@ about-glean-adhoc-note =
     Звярніце ўвагу, што вы выкарыстоўваеце Glean JS API з дапамогай кансолі devtools.
     Гэта азначае, што катэгорыя метрыкі і назва метрыкі адфарматаваны ў
     <code>camelCase</code> у адрозненне ад API Rust і C++.
+about-glean-profiler-explanation =
+    Каб убачыць поўны агляд усіх запісаных паказчыкаў, вы можаце выкарыстоўваць { -profiler-brand-name }.
+    Спачатку вы павінны <a data-l10n-name="firefox-profiler-link">захапіць профіль прадукцыйнасці<</a>.
+    Пасля таго, як вы захопіце профіль, выберыце <q>Маркерную табліцу</q> і паглядзіце на маркеры ў раздзеле <q>Тэлеметрыя</q>.
+about-glean-profiler-explanation-profiler =
+    У профілі прадукцыйнасці вы можаце ўбачыць усе сабраныя паказчыкі, калі яны былі
+    сабраны, і якія іменна значэнні былі сабраныя. Наводзячы курсор на асобныя маркеры,
+    вы можаце пераканацца, што было сабрана правільнае значэнне і што збор адбыўся ў патрэбны час.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
 about-glean-feedback-settings-only =
     .message = Налады прыменены!
 about-glean-feedback-settings-and-ping =
     .message = Налады прыменены і пінг адпраўлены!
 about-glean-about-data-header = Пра звесткі
+about-glean-about-data-description =
+    Ёсць некалькі розных прылад, якія можна выкарыстоўваць для прагляду
+    вашых дадзеных, у залежнасці ад таго, што вы шукаеце.
+about-glean-about-data-description-list-intro =
+    Калі ласка, звярніцеся да спісу ніжэй для канкрэтнага
+    выкарыстання для кожнага інструмента:
 about-glean-about-data-explanation =
     Каб прагледзець спіс сабраных звестак, звярніцеся да
     <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
