@@ -30,7 +30,7 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = შეჯამება
-    .value = გთხოვ შეაჯამო მონიშნული ნათლად და გასაგები ენით. გამოიყენე სათაურები და ბურთლიანი სიები დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
+    .value = გთხოვ შეაჯამო მონიშნული ნათლად და გასაგები ენით. გამოიყენე სათაურები და გამოყოფილი სია დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = გასაგები ენით
@@ -42,7 +42,7 @@ genai-prompts-quiz =
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = ამიხსენი
-    .value = გთხოვ გადმომცე მონიშნულის ძირითადი აზრი ადვილად გასაგები სიტყვებით. ამასთანავე მაგალითების მოყვანით.
+    .value = გთხოვ გადმომცე მონიშნულის ძირითადი აზრი ადვილად გასაგები სიტყვებით. ამასთანავე, მაგალითების მოხმობით.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = გასწორება
