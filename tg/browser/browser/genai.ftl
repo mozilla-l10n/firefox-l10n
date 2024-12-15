@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Маънидод
     .value = Лутфан, маънои ин интихобро ба воситаи калимаҳои осонфаҳм фаҳмонед. Инчунин, аз мисолҳо истифода баред.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Мутолиа
+    .value = Лутфан, матни интихобшударо барои ислоҳ кардани хатоҳои имлоӣ ва дурустнависӣ мутолиа намоед. Ҳар гуна хатоҳоро муайян кунед ва тарзи навишти матни дурустро пешниҳод намоед. Матни мафҳум ва дақиқии воқеиро нигоҳ доред ва пеш аз ҳама рӯйхати пешниҳодҳои матни ислоҳшуда ва пас аз матни ислоҳшудаи ниҳоиро чоп намоед.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
