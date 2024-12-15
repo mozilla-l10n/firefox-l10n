@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Klarigi tion ĉi
     .value = Bonvolu klarigi la ĉefajn nociojn en la elektitaĵo, pero simplaj vortoj. Kaj uzu ekzemplojn.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Korekti
+    .value = Bonvolu korekti la elektaĵon por kontroli ĉu estas literumaj aŭ gramatikaj eraroj. Identigu ilin kaj provizi korektitan version de la teksto. Gardu la signifon kaj faktan akuratecon kaj listigu unue la liston de proponitaj korektoj kaj poste la korektitan finan version de la teksto.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Demandi al { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = La dialoganto A.I. ne povos pritrakti la tutan elektaĵon
+    .message =
+        { $selectionLength ->
+           *[other] Vi elektis ĉirkaŭ { $selectionLength } signojn. La nombro de signoj kiun ni povas sendi al la dialoganto A.I. estas plimapli { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ne povos pritrakti la tutan elektaĵon
+    .message =
+        { $selectionLength ->
+           *[other] Vi elektis ĉirkaŭ { $selectionLength } signojn. La nombro de signoj kiun ni povas sendi al la { $provider } estas plimapli { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Kaŝi ŝparvojon al dialoganto
 
@@ -101,6 +122,9 @@ genai-onboarding-claude-learn = Pli da informo pri Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Pli da informo pri ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Pli da informo pri Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Pli da informo pri Gemini
@@ -123,11 +147,13 @@ genai-onboarding-claude-price = Senpagaj kaj pagendaj ebloj; konto postulata
 genai-onboarding-chatgpt-generate = Krei tekston, bildojn kaj kodon
 genai-onboarding-chatgpt-analyze = Analizi dokumentojn kaj bildojn
 genai-onboarding-chatgpt-price = Senpagaj kaj pagendaj ebloj; konto postulata por kelkaj landoj kaj taskoj
+genai-onboarding-copilot-generate = Krei tekston, bildojn kaj kodon
+genai-onboarding-copilot-analyze = Analizi bildojn
+genai-onboarding-copilot-price = Senpagaj kaj pagendaj ebloj; konto postulata por kelkaj taskoj
 genai-onboarding-gemini-generate = Krei tekston, bildojn kaj kodon
 genai-onboarding-gemini-analyze = Analizi bildojn (senpage) kaj dokumentojn (pagende)
 genai-onboarding-gemini-price = Senpagaj kaj pagendaj ebloj; konto postulata
 genai-onboarding-huggingchat-generate = Krei tekston kaj kodon
 genai-onboarding-huggingchat-switch = Iri de unu modelo al alia inter diversa aro de malfermitaj modeloj
-genai-onboarding-huggingchat-price = Senpage; konto postulata por kelkaj taskoj
 genai-onboarding-lechat-generate = Krei tekston kaj kodon
 genai-onboarding-lechat-price = Senpage; konto postulata
