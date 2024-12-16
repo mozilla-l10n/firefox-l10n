@@ -194,6 +194,11 @@ appmenu-help-not-deceptive =
 appmenu-customizetoolbar =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
 appmenu-developer-tools-subheader = విహారిణి పనిముట్లు
+appmenuitem-report-broken-site =
+    .label = పనిచేయని సైటును నివేదించండి
 
 ## Panel for privacy and security products
+
+
+## Profiles panel
 

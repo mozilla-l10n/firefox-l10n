@@ -235,6 +235,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = మొబైలు ఇష్టాంశాలు
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =
@@ -306,3 +309,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
     .accesskey = d
+menu-report-broken-site =
+    .label = పనిచేయని సైటును నివేదించండి

@@ -79,6 +79,8 @@ protections-panel-description-shim-allowed-learn-more = ఇంకా తెల�
 protections-panel-content-blocking-manage-settings =
     .label = సంరక్షణ అమరికలను నిర్వహించుకోండి
     .accesskey = M
+protections-panel-content-blocking-breakage-report-view =
+    .title = పనిచేయని సైటు నివేదన
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -95,6 +97,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 protections-panel-cookie-banner-view-cancel = రద్దుచేయి
 protections-panel-cookie-banner-view-cancel-label =
     .label = రద్దుచేయి
+protections-panel-report-broken-site =
+    .label = పనిచేయని సైటును నివేదించండి
+    .title = పనిచేయని సైటును నివేదించండి
 
 ## Protections panel info message
 
