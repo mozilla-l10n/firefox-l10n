@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Chroń swój adres e-mail:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Użyj maski { -relay-brand-name } dla adresu e-mail
 firefox-relay-use-mask-title = Użyj maski { -relay-brand-name } dla adresu e-mail
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Unikaj spamu dzięki bezpłatnej masce dla adresu e-mail
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Ukryj swój prawdziwy adres e-mail
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Otrzymaj bezpłatną maskę dla adresu e-mail
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Chroń swoją pocztę przed spamem
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Użyj maski dla adresu e-mail
     .accesskey = U
@@ -33,3 +41,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nie teraz
     .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
