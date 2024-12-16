@@ -41,6 +41,7 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne zdaj
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Račun odklene dostop do več izdelkov, ki ščitijo zasebnost. Vsa sporočila, poslana na vaše e-poštne maske, bodo posredovana na vaš pravi e-poštni naslov (razen če se jih odločite blokirati).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Prijavi se v { -brand-product-name } in uporabi masko
     .accesskey = j
@@ -54,6 +55,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Zaščitite se pred neželeno pošto z brezplačno e-poštno masko
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Izognite se neželeni pošti tako, da skrijete svoj pravi naslov z brezplačno <label data-l10n-name="firefox-relay-learn-more-url">e-poštno masko</label>. Sporočila<label data-l10n-name="firefox-fxa-and-relay-offer-domain">tega spletnega mesta</label> bodo še vedno prihajala v vaš nabiralnik, vendar bo vaš naslov spletnemu mestu ostal neznan.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Najprej se registrirajte ali prijavite v svoj račun za uporabo maske e-pošte
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registracija
     .accesskey = R

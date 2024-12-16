@@ -53,11 +53,17 @@ inactive-css-collapsed-table-borders = Lastnost <strong>{ $property }</strong> n
 inactive-css-not-table-cell = Lastnost <strong>{ $property }</strong> ne vpliva na ta element, ker ni celica tabele.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ne drsi.
 inactive-css-border-image = <strong>{ $property }</strong> nima vpliva na ta element, ker te lastnosti ni mogoče uporabiti za notranje elemente tabele, kjer je v elementu starševske tabele <strong>border-collapse</strong> nastavljen na <strong>collapse</strong>.
+inactive-css-resize = <strong>{ $property }</strong> nima vpliva na ta element, ker jo je mogoče uveljaviti samo na elementih z vrednostjo prekoračitve, ki ni "visible", in na nekaterih zamenjanih elementih, kot so "textarea".
 inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta element, ker je to element ruby. Njegovo velikost določa velikost pisave besedila ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih highlight.
 inactive-css-cue-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::cue.
@@ -98,6 +104,7 @@ inactive-css-not-floated-fix = Poskusite dodati lastnost <strong>float</strong> 
 inactive-css-position-property-on-unpositioned-box-fix = Poskusite nastaviti lastnost <strong>position</strong> na kaj drugega kot <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Prepričajte se, da lastnost dodajate zamenjanemu elementu. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Poskusite dodati <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Poskusite nastaviti njegovo lastnost <strong>display</strong> na nekaj drugega kot <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ali <strong>inline-table</strong> ter se prepričajte, da ni umeščen znotraj tabele ali segmenta ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Poskusite dodati <strong>display:table</strong> ali <strong>display:inline-table</strong>. { learn-more }
