@@ -234,4 +234,35 @@ tab-context-move-tab-to-new-group =
             [1] Dodaj kartę do nowej grupy
            *[other] Dodaj karty do nowej grupy
         }
-    .accesskey = n
+    .accesskey = D
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj kartę do grupy
+           *[other] Dodaj karty do grupy
+        }
+    .accesskey = D
+tab-group-editor-action-new-tab =
+    .label = Nowa karta w grupie
+tab-group-editor-action-new-window =
+    .label = Przenieś grupę do nowego okna
+tab-group-editor-action-save =
+    .label = Zachowaj i zamknij grupę
+tab-group-editor-action-ungroup =
+    .label = Rozgrupuj karty
+tab-group-editor-action-delete =
+    .label = Usuń grupę
+tab-group-editor-done =
+    .label = Gotowe
+    .accessKey = G
+tab-context-reopen-tab-group =
+    .label = Przywróć grupę kart
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Usuń z grupy
+           *[other] Usuń z grup
+        }
+    .accesskey = U

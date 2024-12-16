@@ -15,6 +15,11 @@ about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> to biblioteka do zbierania danych używana w projektach { -vendor-short-name(case: "gen") }.
     Ten interfejs jest przeznaczony do ręcznego <a data-l10n-name="fog-link">testowania instrumentacji</a>
     przez programistów i testerów.
+about-glean-category-about-glean = Informacje o { -glean-brand-name }
+about-glean-category-manual-testing = Testowanie ręczne
+about-glean-category-adhoc-testing = Testowanie ad hoc
+about-glean-category-profiler = Używanie profilera
+about-glean-category-about-data = Informacje o danych
 about-glean-upload-enabled = Przesyłanie danych jest włączone.
 about-glean-upload-disabled = Przesyłanie danych jest wyłączone.
 about-glean-upload-enabled-local = Przesyłanie danych jest włączone tylko do wysyłania do lokalnego serwera.
