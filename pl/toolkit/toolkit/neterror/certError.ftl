@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Otwórz witrynę w nowym oknie
 csp-xfo-blocked-long-desc = Aby chronić bezpieczeństwo użytkownika, { $hostname } nie pozwoli przeglądarce { -brand-short-name } wyświetlić strony, jeśli inna witryna ją osadziła. Aby ją zobaczyć, musisz otworzyć ją w nowym oknie.
 fp-certerror-view-certificate-link = Wyświetl certyfikat witryny
 fp-certerror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Ta witryna jest skonfigurowana tak, aby zezwalać wyłącznie na zabezpieczone połączenia, ale wystąpił problem z jej certyfikatem. Możliwe, że atakujący próbuje się pod nią podszyć. Witryny używają certyfikatów wystawionych przez ośrodek certyfikacji do udowodnienia, że są naprawdę tymi, za które się podają. { -brand-short-name } nie ufa tej witrynie, ponieważ jej certyfikat nie jest ważny dla adresu { $hostname }. Certyfikat jest ważny wyłącznie dla: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Prawdopodobnie nic, ponieważ to najpewniej problem z samą witryną. Witryny używają certyfikatów wystawionych przez ośrodek certyfikacji do udowodnienia, że są naprawdę tymi, za które się podają. Ale jeśli korzystasz z sieci firmowej, Twój zespół wsparcia może mieć więcej informacji. Jeśli używasz oprogramowania antywirusowego, spróbuj poszukać informacji o potencjalnych konfliktach lub znanych problemach.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kod błędu: { $error }
@@ -129,7 +136,7 @@ certerror-mitm-title = Oprogramowanie uniemożliwia przeglądarce { -brand-short
 fp-certerror-page-title = Ostrzeżenie: zagrożenie bezpieczeństwa
 fp-certerror-body-title = Zachowaj ostrożność. Coś tu nie gra.
 fp-certerror-why-site-dangerous = Dlaczego ta witryna wydaje się niebezpieczna?
-fp-certerror-what-can-you-do = Co zrobić w takim przypadku?
+fp-certerror-what-can-you-do = Co można zrobić w takim przypadku?
 fp-certerror-advanced-title = Zaawansowane
 fp-certerror-advanced-button = Zaawansowane
 fp-certerror-hide-advanced-button = Ukryj zaawansowane
