@@ -13,11 +13,35 @@ printui-page-range-custom = ഇഷ്ടാനുസൃതം
 printui-page-range-label = താളുകള്‍
 # Section title for the number of copies to print
 printui-copies-label = പകര്‍പ്പുകള്‍
+# Section title for the printer or destination device to target
+printui-destination-label = ലക്ഷ്യസ്ഥാനം
+printui-destination-pdf-label = പീ.ഡീ.എഫ ആയി കരുതിവയ്ക്കുക
+printui-more-settings = കൂടുതൽ ക്രമീകരണങ്ങൾ
+printui-paper-size-label = കടലാസു് വലിപ്പം
+# Section title (noun) for the print scaling options
+printui-scale = അളവു്
+printui-two-sided-printing-off = അണച്ചതു്
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = നീളമുള്ള അരികിൽ തിരിക്കുക
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = നീളം കുറഞ്ഞ അരികിൽ തിരിക്കുക
+# Section title for miscellaneous print options
+printui-options = ഐച്ഛികങ്ങള്‍
+printui-headers-footers-checkbox = തലക്കെട്ടുകളും അടിക്കുറിപ്പുകളും അച്ചടിക്കുക
+printui-backgrounds-checkbox = പശ്ചാത്തലങ്ങള്‍ അച്ചടിക്കുക
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = ശൈലി:
+# Option for printing the original page.
+printui-source-radio = മൂലരൂപം
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = തെരഞ്ഞെടുക്കല്‍
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = എളുപ്പമാക്കിയതു്
 
 ##
 
