@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar a los sitios web una señal de “No rastrear”, significa que no quieres ser rastreado
+do-not-track-removal = Ya no admitimos la señal “No rastrear”
 do-not-track-description2 =
     .label = Enviar a los sitios web una solicitud de “No rastrear”
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir enlaces en pestañas en lugar de nuevas ventanas
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = Pregúntame antes de cerrar varias pestañas
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pregúntame antes de salir con { $quitKey }
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Confirmar antes de cerrar múltiples pestañas
     .accesskey = m
@@ -569,8 +581,7 @@ home-prefs-shortcuts-description = Sitios que guardas o visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atajos patrocinados
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
@@ -788,6 +799,9 @@ sync-currently-syncing-creditcards = Tarjetas de crédito
 sync-currently-syncing-payment-methods = Métodos de pago
 sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Configuración
+sync-manage-options =
+    .label = Administrar sincronización…
+    .accesskey = M
 sync-change-options =
     .label = Cambiar
     .accesskey = C
@@ -840,6 +854,13 @@ sync-engine-settings =
     .label = Configuración
     .tooltiptext = Ajustes generales, de privacidad y de seguridad que haz modificado
     .accesskey = C
+sync-choose-what-to-sync-dialog4 =
+    .title = Administrar que se sincroniza en todos tus dispositivos conectados
+    .style = min-width: 36em;
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Desconectar…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

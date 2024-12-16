@@ -361,6 +361,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-s
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronizar tus datos entre dispositivos
 onboarding-sign-up-description = Regístrate para tener una cuenta y toda tu información importante — contraseñas, marcadores y más — se guardarán de forma segura y estarán disponibles al iniciar sesión en cualquier dispositivo.
+onboarding-sign-up-button = Regístrate o inicia sesión
+onboarding-sign-up-secondary-button = Empieza a navegar
 
 ## New user time and familiarity survey strings
 
@@ -423,3 +425,10 @@ onboarding-genai-sidebar-secondary-button = Empieza a navegar
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Terminar de configurar { -brand-short-name }
+onboarding-checklist-subtitle = Completa estos pasos para aprovechar al máximo la experiencia de navegación.
+onboarding-checklist-set-default = Establece { -brand-short-name } como tu navegador predeterminado
+onboarding-checklist-pin = Fijar { -brand-short-name } en la barra de tareas
+onboarding-checklist-import = Importar desde el navegador anterior
+onboarding-checklist-extension = Agregar una extensión
+onboarding-checklist-sign-up = Regístrate o inicia sesión en tu cuenta
