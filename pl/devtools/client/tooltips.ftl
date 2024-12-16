@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Zastąpienie <stron
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie jest on elementem pozycjonowanym.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ może być stosowane tylko do zastąpionych elementów.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ <strong>overflow:hidden</strong> nie jest ustawione.
+inactive-css-no-size-containment = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie ma on ograniczenia rozmiaru.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nie ma wpływu na wewnętrzne elementy tabeli.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> nie ma wpływu na wewnętrzne elementy tabeli, z wyjątkiem komórek tabeli.
 inactive-css-not-table = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie jest on tabelą.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> nie ma wpływu na ten eleme
 inactive-css-ruby-element = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest to element rubi. Jego rozmiar zależy od rozmiaru czcionki tekstu rubi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach wyróżniania.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::cue.
