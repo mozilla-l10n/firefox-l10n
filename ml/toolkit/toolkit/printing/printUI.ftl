@@ -45,7 +45,11 @@ printui-simplify-page-radio = എളുപ്പമാക്കിയതു്
 
 ##
 
+printui-color-mode-label = നിറം രീതി
 printui-color-mode-color = നിറം
+printui-color-mode-bw = കറുപ്പിലും വെളുപ്പിലും
+printui-margins = അരികൾ
+printui-margins-default = സ്ഥിരസ്ഥിതി
 printui-primary-button = അച്ചടിയ്ക്കുക
 printui-primary-button-save = കരുതിവയ്ക്കുക
 printui-cancel-button = റദ്ദാക്കുക
@@ -54,7 +58,8 @@ printui-loading = മുൻകാഴ്ച തയാറാക്കുകയാ�
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
-    .aria-label = അച്ചടിക്കുന്നതിനു് മുമ്പു് കാണുക
+    .aria-label = അച്ചടിപ്പു് മുൻകാഴ്ച
+printui-pages-per-sheet = ഓരോ കടലാസിൽ താളുകൾ
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = അച്ചടിക്കുന്നു. . .
@@ -62,6 +67,14 @@ printui-print-progress-indicator-saving = കരുതിവയ്ക്കു�
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = ആ 5
+printui-paper-a4 = ആ 4
+printui-paper-a3 = ആ 3
+printui-paper-a2 = ആ 2
+printui-paper-a1 = ആ 1
+printui-paper-a0 = ആ 0
+printui-paper-b5 = ബ 5
+printui-paper-b4 = ബ 4
 
 ## Error messages shown when a user has an invalid input
 
