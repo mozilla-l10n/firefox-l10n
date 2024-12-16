@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[many] Zamknąć { $tabCount } kart?
     }
 tabbrowser-confirm-close-tabs-button = Zamknij karty
+tabbrowser-ask-close-tabs-checkbox = Pytaj o potwierdzenie przed zamknięciem wielu kart
 tabbrowser-confirm-close-tabs-checkbox = Pytaj o potwierdzenie przed zamknięciem wielu kart
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Zamknąć okno i zakończyć { -
 tabbrowser-confirm-close-tabs-with-key-button = Zakończ { -brand-short-name(case: "acc") }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pytaj o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Pytaj o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Zakończyć { -brand-short-name(case: "acc") } lub zamknąć bieżącą kartę?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Zakończ { -brand-short-name(case: "acc") }
+       *[other] Zakończ { -brand-short-name(case: "acc") }
+    }
+tabbrowser-confirm-close-tab-only-button = Zamknij bieżącą kartę
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,3 +222,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anuluj
     .accesskey = A
+tab-context-unnamed-group =
+    .label = Grupa bez nazwy
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj kartę do nowej grupy
+           *[other] Dodaj karty do nowej grupy
+        }
+    .accesskey = n

@@ -33,3 +33,11 @@ searchbar-icon =
 removed-search-engine-message = <strong>Domyślna wyszukiwarka została zmieniona.</strong> Wyszukiwarka { $oldEngine } nie jest już dostępna jako domyślna wyszukiwarka w przeglądarce { -brand-short-name }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną. <label data-l10n-name="remove-search-engine-article">Więcej informacji</label>
 removed-search-engine-message2 = <strong>Domyślna wyszukiwarka została zmieniona.</strong> Wyszukiwarka { $oldEngine } nie jest już dostępna jako domyślna wyszukiwarka w przeglądarce { -brand-short-name }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną.
 remove-search-engine-button = OK
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Czy dodać { $engineName } jako wyszukiwarkę?
+install-search-engine-add = Dodaj
+install-search-engine-no = Nie

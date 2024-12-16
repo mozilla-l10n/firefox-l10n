@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = Zezwól na „{ $trackername }”
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Zablokowano treści z elementami śledzącymi „{ $trackername }”
+smartblock-placeholder-desc = Twoje ustawienia { -brand-short-name(case: "gen") } zablokowały tym treściom możliwość śledzenia Cię między witrynami i wykorzystywania ich do wyświetlania reklam.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Zezwól na witrynie { $websitehost }
 
 ##
 
