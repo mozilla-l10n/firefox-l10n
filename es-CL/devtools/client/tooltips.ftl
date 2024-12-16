@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> no tiene efecto en este elemento ya que solo puede ser aplicado a elementos reemplazados.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> no tiene efecto en este elemento ya que <strong>overflow:hidden</strong> no está establecido.
+inactive-css-no-size-containment = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no tiene contención de tamaño.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efectos en elementos internos de una tabla.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efectos en elementos internos de una tabla excepto celdas de una tabla.
 inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es una tabla.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> no tiene efecto sobre este 
 inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en este elemento ya que es un elemento ruby. Su tamaño está determinado por el tamaño de fuente del texto ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> no es compatible con pseudoelementos resaltados.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> no es compatible con pseudoelementos ::cue.
@@ -98,6 +104,7 @@ inactive-css-not-floated-fix = Prueba a añadir la propiedad <strong>float</stro
 inactive-css-position-property-on-unpositioned-box-fix = Intenta establecer la propiedad <strong>position</strong> a algo diferente a <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Asegúrate de añadir la propiedad a un elemento reemplazado. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Prueba a añadir <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Intenta ajustar su propiedad <strong>display</strong> a algo distinto de <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> o <strong>inline-table</strong> y asegúrate de que no esté dentro de una tabla o segmento de Ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Prueba ajustar su propiedad <strong>display</strong> a algo diferente a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prueba ajustar su propiedad <strong>display</strong> a algo diferente a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Prueba a añadir <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }

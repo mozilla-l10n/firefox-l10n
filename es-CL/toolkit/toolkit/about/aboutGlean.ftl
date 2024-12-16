@@ -111,12 +111,20 @@ about-glean-profiler-explanation =
     Para ver una vista completa de todas las métricas registradas, se puede usar el { -profiler-brand-name }.
     Primero debes <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendimiento</a>.
     Una vez capturado el perfil, selecciona <q>Gráfico de marcas</q> y observa las marcas bajo <q>Telemetría</q>.
+about-glean-profiler-explanation-profiler =
+    En el perfil de rendimiento, puedes ver todas las métricas recopiladas, cuándo se recopilaron y exactamente qué valores se recopilaron. Al pasar el cursor sobre los marcadores individuales,
+    puedes verificar que se haya recopilado el valor correcto y que la recopilación se realizó en el momento correcto.
 controls-button-label-verbose = Aplicar ajustes y enviar ping
 about-glean-feedback-settings-only =
     .message = ¡Ajustes aplicados!
 about-glean-feedback-settings-and-ping =
     .message = ¡Ajustes aplicados y ping enviado!
 about-glean-about-data-header = Acerca de los datos
+about-glean-about-data-description =
+    Hay algunas herramientas diferentes que puedes usar para ver tus datos, dependiendo de
+    lo que estés buscando.
+about-glean-about-data-description-list-intro = Por favor, consulta la lista a continuación para conocer los casos de uso específicos de cada herramienta:
+about-glean-about-data-list-item-dictionary = Para explorar la lista de datos recopilados por { -glean-brand-name } por aplicación, consulta el <a data-l10n-name="glean-dictionary-link">Diccionario { -glean-brand-name }</a>.
 about-glean-about-data-list-item-about-telemetry =
     Para explorar los datos que recopila la telemetría heredada, consulta
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
