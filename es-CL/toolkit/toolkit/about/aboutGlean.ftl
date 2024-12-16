@@ -117,6 +117,15 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = ¡Ajustes aplicados y ping enviado!
 about-glean-about-data-header = Acerca de los datos
+about-glean-about-data-list-item-about-telemetry =
+    Para explorar los datos que recopila la telemetría heredada, consulta
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Para explorar etiquetas de depuración, ver pings completos, ver una transmisión de eventos en vivo o ver visualizaciones de métricas, consulta
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Para registrar un perfil de rendimiento y ver todas las métricas registradas, utiliza
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Para revisar la lista de datos recolectados, consulta el
     <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
