@@ -103,6 +103,10 @@ about-glean-adhoc-explanation2 =
 about-glean-adhoc-note =
     Proszę pamiętać, że za pomocą konsoli programistycznej używane jest API Glean języka JavaScript.
     Oznacza to, że kategoria i nazwa statystyki jest sformatowana w konwencji <code>camelCase</code>, inaczej niż w API języków Rust i C++.
+about-glean-profiler-explanation =
+    Można użyć narzędzia { -profiler-brand-name }, aby wyświetlić pełny widok wszystkich zarejestrowanych statystyk.
+    Najpierw należy <a data-l10n-name="firefox-profiler-link">przechwycić profil wydajności</a>.
+    Następnie wybierz <q>Marker Chart</q> i spójrz na znaczniki pod <q>Telemetria</q>.
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
 about-glean-feedback-settings-only =
     .message = Zastosowano ustawienia
