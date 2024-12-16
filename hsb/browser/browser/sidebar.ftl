@@ -59,7 +59,7 @@ sidebar-customize-button-header =
 sidebar-customize-position-header =
     .label = Pozicija bóčnicy
 sidebar-visibility-setting-always-show =
-    .label = Bóčnicu pokazać a schować
+    .label = Bóčnicu wočinić a złožić
 sidebar-visibility-setting-hide-sidebar =
     .label = Bóčnicu pokazać a schować
 
