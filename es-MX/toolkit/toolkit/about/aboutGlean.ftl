@@ -16,6 +16,11 @@ about-glean-interface-description =
     es una biblioteca de recopilación de datos usado en proyectos de { -vendor-short-name }.
     Esta interfaz está diseñada para que los desarrolladores y testers
     <a data-l10n-name="fog-link">prueben manualmente la instrumentación</a>.
+about-glean-category-about-glean = Acerca de { -glean-brand-name }
+about-glean-category-manual-testing = Prueba manual
+about-glean-category-adhoc-testing = Prueba ad hoc
+about-glean-category-profiler = Usando el perfilador
+about-glean-category-about-data = Acerca de los datos
 about-glean-upload-enabled = La carga de datos está habilitada.
 about-glean-upload-disabled = La carga de datos está deshabilitada.
 about-glean-upload-enabled-local = La carga de datos está habilitada solo para enviar a un servidor local.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Para una explicación de las diferentes formas de registrar y encontrar datos, consulta la
+    pestaña <strong>Acerca de datos</strong>.
 about-glean-about-testing-header = Acerca de las pruebas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -88,12 +96,48 @@ about-glean-adhoc-explanation =
     y usando la API <code>testGetValue()</code> como
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Para más pruebas <i>ad hoc</i>,
+    también puedes determinar el valor actual de una pieza particular de instrumentación
+    abriendo una consola de herramientas de desarrollo aquí en <code>about:glean</code>
+    y usando la API <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    para una métrica llamada <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Tenga en cuenta que está utilizando la API Glean JS mediante la consola devtools.
     Esto significa que la categoría de métrica y el nombre de la métrica tienen el formato
     <code>camelCase</code> a diferencia de las API de Rust y C++.
+about-glean-profiler-explanation =
+    Para ver una vista completa de todas las métricas registradas, puede utilizar { -profiler-brand-name }.
+    Primero debes <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendimiento</a>.
+    Una vez que captures el perfil, selecciona <q>Gráfico de marcadores</q> y observa los marcadores en <q>Telemetría</q>.
+about-glean-profiler-explanation-profiler =
+    En el perfil de rendimiento, puede ver todas las métricas recopiladas, cuándo se
+    recopilaron y exactamente qué valores se recopilaron. Al pasar el cursor sobre los marcadores individuales,
+    puedes verificar que se haya recopilado el valor correcto y que la recopilación se realizó en el momento correcto.
 controls-button-label-verbose = Aplicar configuración y enviar ping
+about-glean-feedback-settings-only =
+    .message = ¡Ajustes aplicados!
+about-glean-feedback-settings-and-ping =
+    .message = ¡Ajustes aplicados y ping enviado!
 about-glean-about-data-header = Acerca de los datos
+about-glean-about-data-description = Existen diversas herramientas que puedes utilizar para visualizar tus datos, dependiendo de lo que estés buscando.
+about-glean-about-data-description-list-intro =
+    Por favor, consulta la lista a continuación para conocer los casos de uso
+    específicos de cada herramienta:
+about-glean-about-data-list-item-dictionary =
+    Para explicar la lista de datos recopilados por { -glean-brand-name } detallados por aplicación, consulta el
+    <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Para explorar los datos que recopila la telemetría heredada, consulta
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Para explorar etiquetas de depuración, ver pings completos, ver una transmisión de eventos en vivo o ver visualizaciones de métricas, consulta
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Para registrar un perfil de rendimiento y ver todas las métricas registradas, utiliza
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.

@@ -294,6 +294,14 @@ find-more-themes = Encontrar más temas
 # used for screen readers.
 addon-options-button =
     .aria-label = Más opciones
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Las extensiones y los temas te permiten personalizar { -brand-product-name }. Pueden mejorar la privacidad,
+    aumentar la productividad, mejorar contenido multimedia, cambiar la apariencia de { -brand-product-name } y
+    mucho más. Estos pequeños programas de software a menudo son desarrollados por terceros. Aquí tienes
+    una selección que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomienda</a>
+    para una seguridad, rendimiento y funcionalidad excepcionales.
 
 ## Add-on actions
 
@@ -426,6 +434,7 @@ available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
 release-notes-error = Lo sentimos, pero ha sucedido un error al cargar las notas de versión.
+addon-permissions-empty2 = Esta extensión no requiere ningún permiso.
 addon-permissions-empty = Esta extensión no requiere ningún permiso
 addon-permissions-required = Permisos necesarios para la funcionalidad principal:
 addon-permissions-optional = Permisos opcionales para funciones adicionales:
@@ -475,10 +484,24 @@ details-notification-unsigned-and-disabled-link = Más información
 details-notification-unsigned = { $name } no se ha podido verificar para su uso en { -brand-short-name }. Procede con precaución.
 details-notification-unsigned2 =
     .message = { $name } no se ha podido verificar para su uso en { -brand-short-name }. Procede con precaución.
+details-notification-hard-blocked-extension =
+    .message = Esta extensión está bloqueada por infringir las políticas de Mozilla y ha sido deshabilitada.
+details-notification-hard-blocked-other =
+    .message = Este complemento está bloqueado por infringir las políticas de Mozilla y ha sido deshabilitado.
 details-notification-unsigned-link = Más información
 details-notification-blocked = { $name } ha sido deshabilitado debido a problemas de seguridad o estabilidad.
 details-notification-blocked2 =
     .message = { $name } ha sido deshabilitado debido a problemas de seguridad o estabilidad.
+details-notification-blocked-link2 = Ver Detalles
+details-notification-soft-blocked-extension-disabled =
+    .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
+details-notification-soft-blocked-extension-enabled =
+    .message = Esta extensión viola las políticas de Mozilla. Usarla podría ser arriesgado.
+details-notification-soft-blocked-other-disabled =
+    .message = Este complemento está restringido por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
+details-notification-soft-blocked-other-enabled =
+    .message = Este complemento viola las políticas de Mozilla. Usarlo podría ser arriesgado.
+details-notification-softblocked-link2 = Ver Detalles
 details-notification-blocked-link = Más información
 details-notification-softblocked = { $name } se sabe que causa problemas de seguridad o estabilidad.
 details-notification-softblocked2 =
