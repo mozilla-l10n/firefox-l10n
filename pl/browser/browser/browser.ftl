@@ -657,6 +657,9 @@ urlbar-result-action-search-bookmarks = szukaj w zakładkach
 urlbar-result-action-search-history = szukaj w historii
 urlbar-result-action-search-tabs = szukaj w kartach
 urlbar-result-action-search-actions = szukaj w działaniach
+# Label for a quickaction result used to open a tab group.
+#  $group (String): the name of the tab group to open
+urlbar-result-action-search-tabgroups = otwórz grupę „{ $group }”
 
 ## Labels shown above groups of urlbar results
 
@@ -982,9 +985,6 @@ content-analysis-panel-title = Ochrona danych
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Twoja organizacja korzysta z oprogramowania <b>{ $agentName }</b> do ochrony przed utratą danych. <a data-l10n-name="info">Więcej informacji</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Twoja organizacja korzysta z oprogramowania { $agentName } do ochrony przed utratą danych. <a data-l10n-name="info">Więcej informacji</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1009,6 +1009,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Rozszerzenia
         Część rozszerzeń jest niedozwolona
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
