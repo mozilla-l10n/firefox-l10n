@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-review-checker =
     .label = Verificador de Reseñas
+sidebar-options-menu-button =
+    .title = Abrir menú
 
 ## Labels for sidebar history panel
 
@@ -101,6 +103,13 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-review-checker-label =
     .label = Verificador de Reseñas
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Abrir historial ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
