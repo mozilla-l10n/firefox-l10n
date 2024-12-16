@@ -59,7 +59,7 @@ sidebar-customize-button-header =
 sidebar-customize-position-header =
     .label = Pozicija bocnice
 sidebar-visibility-setting-always-show =
-    .label = Bocnicu pokazaś a schowaś
+    .label = Bocnicu wócyniś a złožyś
 sidebar-visibility-setting-hide-sidebar =
     .label = Bocnicu pokazaś a schowaś
 
