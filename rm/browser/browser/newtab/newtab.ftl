@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Stizzar da { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
 newtab-menu-about-fakespot = Davart { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloccar
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -446,3 +449,11 @@ newtab-topic-selection-button-maybe-later = Forsa pli tard
 newtab-topic-selection-privacy-link = Ve a savair co nus protegin e gestin las datas
 newtab-topic-selection-button-update-interests = Actualisescha tes interess
 newtab-topic-selection-button-pick-interests = Tscherna tes interess
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Suandar
+newtab-section-following-button = Ti suondas
+newtab-section-unfollow-button = Chalar da suandar
