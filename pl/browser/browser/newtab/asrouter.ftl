@@ -303,6 +303,13 @@ root-certificate-succession-infobar-secondary-button =
     .label = Później
     .accesskey = P
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Przegapiono ważną aktualizację { -brand-short-name(case: "gen") }
+root-certificate-windows-background-notification-subtitle = Części przeglądarki wkrótce przestaną działać, jeśli jej nie zaktualizujesz. To świetny moment, aby uzyskać nasze najnowsze zabezpieczenia i funkcje.
+root-certificate-windows-background-notification-learn-more-button = Więcej informacji
+root-certificate-windows-background-notification-update-button = Zaktualizuj { -brand-short-name(case: "acc") }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
