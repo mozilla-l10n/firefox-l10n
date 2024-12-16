@@ -74,12 +74,14 @@ protections-panel-not-found-label = Nincs észlelve
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = A { -brand-short-name } blokkolja a nyomkövető tartalmakat, amíg ezen az oldalon van, hacsak nem engedélyezi.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = A(z) { $trackername } engedélyezése
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = A(z) { $trackername } követői és tartalmai blokkolva
+smartblock-placeholder-desc = A { -brand-short-name } beállításai nem engedték, hogy ez a tartalom nyomon kövesse a webhelyek közt, vagy hirdetésekhez legyen használva.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Engedélyezés itt: { $websitehost }
 
