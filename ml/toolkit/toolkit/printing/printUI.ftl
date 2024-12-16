@@ -50,6 +50,11 @@ printui-primary-button = അച്ചടിയ്ക്കുക
 printui-primary-button-save = കരുതിവയ്ക്കുക
 printui-cancel-button = റദ്ദാക്കുക
 printui-close-button = അടയ്ക്കുക
+printui-loading = മുൻകാഴ്ച തയാറാക്കുകയാണു്
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = അച്ചടിക്കുന്നതിനു് മുമ്പു് കാണുക
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = അച്ചടിക്കുന്നു. . .
