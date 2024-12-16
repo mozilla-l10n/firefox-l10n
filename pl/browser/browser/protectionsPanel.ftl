@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Więcej informacji o wzmocnionej ochronie przed śledzeniem
 protections-panel-etp-on-header = Wzmocniona ochrona przed śledzeniem jest włączona na tej witrynie
 protections-panel-etp-off-header = Wzmocniona ochrona przed śledzeniem jest wyłączona na tej witrynie
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Strona nie działa?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Strona nie działa?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Wzmocniona ochrona przed śledzeniem
     .description = Wyłączona na tej witrynie
     .aria-label = Wzmocniona ochrona przed śledzeniem: wyłączona na witrynie { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Strona nie działa?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Strona nie działa?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,16 @@ protections-panel-content-blocking-fingerprinters-label = Elementy śledzące pr
 protections-panel-blocking-label = Zablokowane
 protections-panel-not-blocking-label = Dopuszczone
 protections-panel-not-found-label = Niewykryte
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokuje treści z elementami śledzącymi podczas odwiedzania tej witryny, chyba że na nie zezwolisz.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Zezwól na „{ $trackername }”
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Zablokowano treści z elementami śledzącymi „{ $trackername }”
 
 ##
 
@@ -108,7 +118,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Zgłoś niepoprawnie działającą stronę
 protections-panel-content-blocking-breakage-report-view-description = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać { -brand-short-name(case: "acc") } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli). <label data-l10n-name="learn-more">Więcej informacji</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać { -brand-short-name(case: "acc") } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do { -vendor-short-name(case: "gen") }).
 protections-panel-content-blocking-breakage-report-view-collection-url = Adres URL problematycznej strony
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adres URL problematycznej strony

@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } — wybierz profil użytkownika
 profile-window-heading = Wybierz profil { -brand-short-name(case: "gen") }
 profile-window-body = Całkowicie oddziel przeglądanie służbowe od prywatnego, łącznie z hasłami i zakładkami. Możesz też utworzyć profile dla wszystkich osób korzystających z tego urządzenia.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Wybieraj profil po włączeniu { -brand-short-name(case: "gen") }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Pokazuj po włączeniu { -brand-short-name(case: "gen") }
 profile-window-create-profile = Utwórz profil
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Wybierz nazwę, np. „Praca” lub „Osobiste”
 new-profile-page-done-button =
     .label = Gotowe
+profile-window-title-2 = { -brand-short-name } — wybierz profil
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Zakładki
 delete-profile-history = Historia (odwiedzone strony, ciasteczka, dane witryn)
 delete-profile-autofill = Automatycznie wypełniane dane (adresy, metody płatności)
 delete-profile-logins = Hasła
+
+##
+
 # Button label
 delete-profile-cancel = Anuluj
 # Button label
