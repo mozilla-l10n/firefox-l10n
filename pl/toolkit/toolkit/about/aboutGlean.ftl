@@ -121,6 +121,12 @@ about-glean-about-data-description =
     Istnieje kilka różnych narzędzi, których można używać do wyświetlania danych,
     w zależności od tego, czego szukasz.
 about-glean-about-data-description-list-intro = Konkretne zastosowania każdego narzędzia:
+about-glean-about-data-list-item-dictionary =
+    <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
+    umożliwia przeglądanie listy danych zebranych przez { -glean-brand-name } dla każdej aplikacji.
+about-glean-about-data-list-item-about-telemetry = <a data-l10n-name="about-telemetry-link">about:telemetry</a> umożliwia przeglądanie danych zbieranych przez starszą telemetrię.
+about-glean-about-data-list-item-debug-ping-viewer = <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> umożliwia przeglądanie znaczników debugowania, wyświetlanie pełnych pingów, strumienia wydarzeń na żywo i wizualizacji statystyk.
+about-glean-about-data-list-item-firefox-profiler = <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> umożliwia zarejestrowanie profilu wydajności i wyświetlenie wszystkich zarejestrowanych statystyk.
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
     umożliwia przeglądanie listy zebranych danych.
