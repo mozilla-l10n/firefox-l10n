@@ -18,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que usted envió según las políticas de datos de su organización. Esto puede tardar un momento.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que has imprimido según las políticas de datos de tu organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto colocado
+contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = cargar “{ $filename }”
 contentanalysis-warndialogtitle = Este contenido puede no ser seguro

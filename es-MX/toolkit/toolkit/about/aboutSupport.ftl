@@ -414,6 +414,11 @@ support-printing-prefs-value = Valor
 
 ## Remote Settings sections
 
+support-remote-settings-local-timestamp = Horario local
+support-remote-settings-sync-history = Historial
+support-remote-settings-sync-history-status = Estado
+support-remote-settings-sync-history-datetime = Fecha
+support-remote-settings-sync-history-infos = Información
 
 ## Normandy sections
 
