@@ -41,6 +41,7 @@ tabbrowser-close-tabs-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = ట్యాబులను మూసివేయి
+tabbrowser-ask-close-tabs-checkbox = పలు ట్యాబులను ఒకేసారి మూసివేస్తున్నప్పుడు అడుగు
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
