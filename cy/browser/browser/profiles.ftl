@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Dewiswch Broffil Defnyddiwr
 profile-window-heading = Dewiswch broffil { -brand-short-name }
 profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fel cyfrineiriau a nodau tudalen, yn hollol ar wahân. Neu crëwch broffiliau ar gyfer pawb sy'n defnyddio'r ddyfais hon.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Dewiswch broffil pan fydd { -brand-short-name } yn agor
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Dangoswch hwn pan fydd { -brand-short-name } yn agor
 profile-window-create-profile = Crëwch broffil
