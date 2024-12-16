@@ -88,6 +88,19 @@ fp-certerror-unknown-issuer-what-can-you-do-body = Prawdopodobnie nic, ponieważ
 fp-certerror-self-signed-why-dangerous-body = Ponieważ wystąpił problem z jej certyfikatem. Witryny używają certyfikatów wystawionych przez ośrodek certyfikacji do udowodnienia, że są naprawdę tymi, za które się podają. Certyfikat tej witryny jest samopodpisany. Nie został wystawiony przez znany ośrodek certyfikacji, więc domyślnie mu nie ufamy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Niewiele. Najpewniej to problem z samą witryną.
+fp-certerror-self-signed-important-note = WAŻNA UWAGA: jeśli próbujesz otworzyć tę witrynę w firmowym intranecie, Twój zespół IT może używać samopodpisanych certyfikatów. Może on pomóc Ci sprawdzić ich autentyczność.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Witryny używają certyfikatów wystawionych przez ośrodek certyfikacji do udowodnienia, że są naprawdę tymi, za które się podają. { -brand-short-name } nie ufa tej witrynie, ponieważ wygląda na to, że jej certyfikat wygasł { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Witryny używają certyfikatów wystawionych przez ośrodek certyfikacji do udowodnienia, że są naprawdę tymi, za które się podają. { -brand-short-name } nie ufa tej witrynie, ponieważ wygląda na to, że jej certyfikat nie będzie ważny przed { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Data na tym urządzeniu jest ustawiona na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Jeśli jest ona poprawna, to problem bezpieczeństwa najpewniej leży po stronie witryny. Jeśli jest błędna, to można ją zmienić w ustawieniach systemowych urządzenia.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kod błędu: { $error }
