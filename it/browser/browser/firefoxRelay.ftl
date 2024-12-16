@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Non è stato possibile generare un nuovo alias { -relay-brand-name }. Codice di errore HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } non ha trovato alias riutilizzabili. Codice di errore HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = È necessario accedere all’{ -fxaccount-brand-name } per utilizzare { -relay-brand-name }.
 firefox-relay-must-login-to-account = È necessario accedere al tuo account per utilizzare gli alias email di { -relay-brand-name }.
@@ -41,23 +41,16 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Non adesso
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Un account sblocca l’accesso ad altri prodotti per la protezione della privacy. Tutte le email inviate ai tuoi alias verranno inoltrate al tuo indirizzo email reale (a meno che tu non decida di bloccarle).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Accedi a { -brand-product-name } e utilizza un alias
     .accesskey = c
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = Registrati
-    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Non mostrare di nuovo
     .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Non adesso
     .accesskey = a
-
-## The "control" variation of the Relay offer popup
-
-firefox-relay-and-fxa-popup-notification-second-sentence-control = Per prima cosa registrati o accedi al tuo account per utilizzare un alias di posta elettronica
-firefox-relay-offer-legal-notice-control = Registrandoti e creando un alias di posta elettronica accetti le <label data-l10n-name="tos-url">condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">informativa sulla privacy</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -82,6 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Proteggiti dallo spam con un alias di posta elettronica
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Proteggiti dallo spam nascondendo il tuo indirizzo reale con un <label data-l10n-name="firefox-relay-learn-more-url">alias di posta elettronica</label>. Continuerai a ricevere le email da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questo sito</label> nella tua normale casella di posta, ma il tuo indirizzo email rimarrà al sicuro.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Per prima cosa registrati o accedi al tuo account per utilizzare un alias di posta elettronica
+firefox-relay-offer-legal-notice-with-domain-and-value-prop = Creando un alias di posta elettronica accetti le <label data-l10n-name="tos-url">condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">informativa sulla privacy</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Successivo
     .accesskey = S
