@@ -107,12 +107,20 @@ about-glean-profiler-explanation =
     Można użyć narzędzia { -profiler-brand-name }, aby wyświetlić pełny widok wszystkich zarejestrowanych statystyk.
     Najpierw należy <a data-l10n-name="firefox-profiler-link">przechwycić profil wydajności</a>.
     Następnie wybierz <q>Marker Chart</q> i spójrz na znaczniki pod <q>Telemetria</q>.
+about-glean-profiler-explanation-profiler =
+    W profilu wydajności można zobaczyć wszystkie zebrane statystyki, kiedy zostały zebrane
+    oraz jakie dokładnie wartości zostały zebrane. Najeżdżając kursorem na poszczególne znaczniki
+    można zweryfikować, czy zebrano właściwe wartości i czy zebranie nastąpiło w odpowiednim czasie.
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
 about-glean-feedback-settings-only =
     .message = Zastosowano ustawienia
 about-glean-feedback-settings-and-ping =
     .message = Zastosowano ustawienia i wysłano ping
 about-glean-about-data-header = Informacje o danych
+about-glean-about-data-description =
+    Istnieje kilka różnych narzędzi, których można używać do wyświetlania danych,
+    w zależności od tego, czego szukasz.
+about-glean-about-data-description-list-intro = Konkretne zastosowania każdego narzędzia:
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
     umożliwia przeglądanie listy zebranych danych.
