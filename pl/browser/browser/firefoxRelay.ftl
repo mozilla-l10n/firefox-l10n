@@ -41,9 +41,20 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nie teraz
     .accesskey = N
+firefox-relay-offer-what-fxa-and-relay-provides = Konto odblokowuje dostęp do innych produktów chroniących prywatność. Wszystkie wiadomości wysyłane na Twoje maski dla adresu e-mail będą przekazywane na Twój prawdziwy adres (chyba że zdecydujesz się je zablokować).
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Zaloguj się w { -brand-product-name(case: "loc") } i użyj maski
+    .accesskey = Z
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Nie pokazuj ponownie
+    .accesskey = o
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Nie teraz
+    .accesskey = N
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Unikaj spamu dzięki bezpłatnej masce dla adresu e-mail
 
 ## The "with-domain" variation of the Relay offer popup
 
