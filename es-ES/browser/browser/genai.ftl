@@ -77,11 +77,11 @@ genai-shortcuts-selected-warning-generic =
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning =
-    .heading = El chatbot de IA no recibirá la selección completa
+    .heading = { $provider } no recibirá la selección completa
     .message =
         { $selectionLength ->
-            [one] Se seleccionó cerca de { $selectionLength } caracter. El número de caracteres que se pueden enviar al chatbot de IA es de { $maxLength }.
-           *[other] Se seleccionaron cerca de { $selectionLength } caracteres. El número de caracteres que se pueden enviar al chatbot de IA es de { $maxLength }.
+            [one] Se seleccionó cerca de { $selectionLength } caracter. El número de caracteres que se pueden enviar a { $provider } es de { $maxLength }.
+           *[other] Se seleccionaron cerca de { $selectionLength } caracteres. El número de caracteres que se pueden enviar a { $provider } es de { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Ocultar el acceso directo del chatbot
