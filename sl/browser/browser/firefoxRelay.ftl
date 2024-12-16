@@ -64,12 +64,16 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Pridobite brezplačno e-poštno masko
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaščitite svoj nabiralnik pred neželeno pošto z brezplačno <label data-l10n-name="firefox-relay-learn-more-url">masko e-pošte</label>, ki skrije vaš pravi naslov. E-poštna sporočila s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tega spletnega mesta</label> bodo še vedno prihajala v vaš nabiralnik, vendar bo vaš e-poštni naslov skrit.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Najprej se registrirajte ali prijavite v svoj račun za uporabo maske e-pošte
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registracija
     .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaščitite se pred neželeno pošto z masko e-pošte
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Najprej se registrirajte ali prijavite v svoj račun za uporabo maske e-pošte
 firefox-relay-offer-legal-notice-with-domain-and-value-prop = Z ustvaritvijo e-poštne maske se strinjate s <label data-l10n-name="tos-url">pogoji uporabe</label> in z <label data-l10n-name="privacy-url">obvestilom o zasebnosti</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Naprej

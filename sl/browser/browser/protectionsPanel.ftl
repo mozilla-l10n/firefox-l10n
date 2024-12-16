@@ -79,6 +79,8 @@ protections-panel-smartblock-desc-label = { -brand-short-name } na tem spletnem 
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Dovoli { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Zavrnjeni sledilci in vsebina { $trackername }
 smartblock-placeholder-desc = Nastavitve { -brand-short-name(sklon: "rodilnik") } so preprečile tej vsebini, da bi vam sledila med spletnimi mesti ali se uporabljala za oglase.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Dovoli na { $websitehost }
