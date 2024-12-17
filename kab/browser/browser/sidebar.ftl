@@ -144,3 +144,18 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ffer afeggag adisan
     .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Fneẓ afeggag adisan ({ $shortcut })
+    .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Sken afeggag adisan ({ $shortcut })
+    .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ffer afeggag adisan ({ $shortcut })
+    .label = Igalisen idisanen
