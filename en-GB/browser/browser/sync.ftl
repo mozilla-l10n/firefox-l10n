@@ -77,3 +77,6 @@ sync-account-in-use-description-merge = { $acctEmail } is signed in to the “{ 
 sync-button-switch-profile = Switch to “{ $profileName }”
 sync-button-create-profile = Create a new profile
 sync-button-sync-and-merge = Synchronise and merge data
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synchronise “{ $profileName }”
