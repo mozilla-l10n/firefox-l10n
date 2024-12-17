@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = サイドバーを隠します
     .label = サイドバー
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = サイドバーを展開します ({ $shortcut })
+    .label = サイドバー
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = サイドバーを折りたたみます ({ $shortcut })
+    .label = サイドバー
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = サイドバーを表示します ({ $shortcut })
+    .label = サイドバー
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = サイドバーを隠します ({ $shortcut })
+    .label = サイドバー
