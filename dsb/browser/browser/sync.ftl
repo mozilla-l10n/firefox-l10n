@@ -60,3 +60,18 @@ sync-account-in-use-header = Konto se južo wužywa
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } jo južo pla profila “{ $otherProfile }” pśizjawjona
 sync-account-in-use-description = Na toś tom licadle móžośo toś to konto z jano jadnym profilom zwězaś.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Toś to konto jo južo pśi drugim profilu pśizjawjone. Wobej profila synchronizěrowaś?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } jo na toś tom licadle pla profila “{ $otherProfile }” pśizjawjona. Gaž profil “{ $currentProfile }” synchronizěrujośo, se stawnje daty z wobeju profilowu kombiněruju, na pśikład gronidła a cytańske znamjenja.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = K “{ $profileName }” pśejś
+sync-button-create-profile = Nowy profil załožyś
+sync-button-sync-and-merge = Synchronizěrowaś a daty zjadnośiś
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = “{ $profileName }” synchronizěrowaś
