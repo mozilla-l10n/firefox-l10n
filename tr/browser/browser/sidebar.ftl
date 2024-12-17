@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kenar çubuğunu gizle
     .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Kenar çubuğunu genişlet ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Kenar çubuğunu daralt ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Kenar çubuğunu göster ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kenar çubuğunu gizle ({ $shortcut })
+    .label = Kenar çubukları
