@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Piilota sivupalkki
     .label = Sivupaneelit
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Laajenna sivupalkki ({ $shortcut })
+    .label = Sivupaneelit
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Supista sivupalkki ({ $shortcut })
+    .label = Sivupaneelit
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Näytä sivupalkki ({ $shortcut })
+    .label = Sivupaneelit
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Piilota sivupalkki ({ $shortcut })
+    .label = Sivupaneelit
