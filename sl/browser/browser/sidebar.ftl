@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skrij stransko vrstico
     .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Razširi stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Skrči stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Prikaži stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skrij stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
