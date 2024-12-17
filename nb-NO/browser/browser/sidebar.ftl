@@ -104,6 +104,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Vurderingskontrollør
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -129,6 +132,9 @@ sidebar-syncedtabs-title = Faner fra andre enheter
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lukk fanen på { $deviceName }
+show-sidebars =
+    .tooltiptext = Vis sidestolper
+    .label = Sidestolper
 
 ## Tooltips for the sidebar toolbar widget.
 
