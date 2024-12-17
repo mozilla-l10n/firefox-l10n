@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Раздели от други устройства
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Затваряне на раздела на { $deviceName }
+show-sidebars =
+    .tooltiptext = Показване на странични ленти
+    .label = Странични ленти
 
 ## Tooltips for the sidebar toolbar widget.
 
