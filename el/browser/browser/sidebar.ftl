@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Κλείσιμο καρτέλας στο «{ $deviceName }»
+show-sidebars =
+    .tooltiptext = Εμφάνιση πλαϊνών γραμμών
+    .label = Πλαϊνές γραμμές
 
 ## Tooltips for the sidebar toolbar widget.
 
