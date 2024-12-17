@@ -3,6 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-title = { -brand-short-name } – Избор на потребителски профил
+profile-window-heading = Изберете профил на { -brand-short-name }
+profile-window-create-profile = Създаване на профил
+profile-card-edit-button =
+    .title = Промяна на профила
+    .aria-label = Променяне на профила
+profile-card-delete-button =
+    .title = Премахване на профила
+    .aria-label = Премахване на профила
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Отваряне на { $profileName }
+    .aria-label = Отваряне на { $profileName }
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = Профил { $number }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
