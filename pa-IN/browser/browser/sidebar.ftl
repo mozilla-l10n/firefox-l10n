@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
     .label = ਬਾਹੀਆਂ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ({ $shortcut })
+    .label = ਬਾਹੀ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਸਮੇਟੋ ({ $shortcut })
+    .label = ਬਾਹੀ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ({ $shortcut })
+    .label = ਬਾਹੀ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ ({ $shortcut })
+    .label = ਬਾਹੀ
