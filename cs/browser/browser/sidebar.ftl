@@ -176,3 +176,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skrýt postranní lištu
     .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rozbalit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sbalit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Zobrazit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skrýt postranní lištu ({ $shortcut })
+    .label = Postranní lišty
