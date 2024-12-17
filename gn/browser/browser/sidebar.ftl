@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tendaykekuéra ambue mba’e’okaygua
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Emboty tendayke { $deviceName }-pe
+show-sidebars =
+    .tooltiptext = Tenda yke jehechauka
+    .label = Tenda yke
 
 ## Tooltips for the sidebar toolbar widget.
 
