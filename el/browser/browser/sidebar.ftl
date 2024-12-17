@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Απόκρυψη πλαϊνής γραμμής
     .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Εμφάνιση πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Απόκρυψη πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
