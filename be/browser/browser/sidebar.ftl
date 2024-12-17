@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Схаваць бакавую панэль
     .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Разгарнуць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Згарнуць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Паказаць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Схаваць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
