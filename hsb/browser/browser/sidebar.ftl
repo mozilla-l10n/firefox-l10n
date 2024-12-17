@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Rajtarki z druhich gratow
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Rajtark na { $deviceName } začinić
+show-sidebars =
+    .tooltiptext = Bóčnicy pokazać
+    .label = Bóčnicy
 
 ## Tooltips for the sidebar toolbar widget.
 
