@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = 來自其他裝置的分頁
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = 關閉 { $deviceName } 上的分頁
+show-sidebars =
+    .tooltiptext = 顯示側邊欄
+    .label = 側邊欄
 
 ## Tooltips for the sidebar toolbar widget.
 
