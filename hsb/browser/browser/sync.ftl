@@ -45,3 +45,27 @@ sync-setup-verify-heading = Chceće so woprawdźe w sync registrować?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Druhi wužiwar je so do toho na tutym ličaku w sync zregistrował. Registrowanje budźe zapołožki, hesła a druhe nastajenja wobhladowaka z { $email } zjednoćeć
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Kontowy limit je so za tutón profil docpěł
+sync-profile-different-account-header = Tutón profil je so do toho z druhim kontom synchronizował
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil je so do druheho konta synchronizował
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Konto so hižo wužiwa
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } je hižo pola profila “{ $otherProfile }” přizjewjena
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Tute konto je hižo při druhim profilu přizjewjene. Wobaj profilej synchronizować?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = K “{ $profileName }” přeńć
+sync-button-create-profile = Nowy profil załožić
+sync-button-sync-and-merge = Synchronizować a daty zjednoćić
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = “{ $profileName }” synchronizować
