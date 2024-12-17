@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kaŝi flankan strion
     .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Malfaldi flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Faldi flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Montri flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kaŝi flankan strion ({ $shortcut })
+    .label = Flankaj strioj
