@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Välilehdet muista laitteista
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Sulje välilehti laitteella { $deviceName }
+show-sidebars =
+    .tooltiptext = Näytä sivupaneelit
+    .label = Sivupaneelit
 
 ## Tooltips for the sidebar toolbar widget.
 
