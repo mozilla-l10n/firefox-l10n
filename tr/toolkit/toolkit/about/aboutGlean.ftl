@@ -90,4 +90,7 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     Her uygulama için { -glean-brand-name } tarafından toplanan verilerin listesine göz atmak için lütfen
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Performans profili kaydetmek ve kaydedilen tüm ölçümleri görmek için lütfen
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> kullanın.
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
