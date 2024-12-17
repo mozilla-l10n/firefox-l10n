@@ -8,15 +8,15 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = ‏{ -relay-brand-name } לא הצליח לייצר מסיכה חדשה. קוד שגיאה HTTP: ‏{ $status }.
-firefox-relay-get-reusable-masks-failed = ‏{ -relay-brand-name } לא הצליח למצוא מסיכות הניתנות לשימוש חוזר. קוד שגיאה HTTP: ‏{ $status }.
+firefox-relay-mask-generation-failed = ‏{ -relay-brand-name } לא הצליח לייצר מסכה חדשה. קוד שגיאה HTTP: ‏{ $status }.
+firefox-relay-get-reusable-masks-failed = ‏{ -relay-brand-name } לא הצליח למצוא מסכות הניתנות לשימוש חוזר. קוד שגיאה HTTP: ‏{ $status }.
 
 ##
 
 firefox-relay-must-login-to-fxa = עליך להתחבר אל { -fxaccount-brand-name } כדי להשתמש ב־{ -relay-brand-name }.
-firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כדי להשתמש במסיכות הדוא״ל שלך ב־{ -relay-brand-name }.
+firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כדי להשתמש במסכות הדוא״ל שלך ב־{ -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
-    .label = ניהול מסיכות
+    .label = ניהול מסכות
     .accesskey = מ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = הגנה על כתובת הדוא״ל שלך:
@@ -41,9 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = לא כעת
     .accesskey = כ
-firefox-relay-offer-what-fxa-and-relay-provides = החשבון מעניק לך גישה לעוד מוצרים המגנים על הפרטיות. כל הודעות הדוא״ל הנשלחות למסיכות הדוא״ל שלך יועברו לכתובת הדוא״ל האמיתית שלך (אלא אם תבחר לחסום אותם).
+firefox-relay-offer-what-fxa-and-relay-provides = החשבון מעניק לך גישה לעוד מוצרים המגנים על הפרטיות. כל הודעות הדוא״ל הנשלחות למסכות הדוא״ל שלך יועברו לכתובת הדוא״ל האמיתית שלך (אלא אם תבחר לחסום אותם).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
-    .label = כניסה אל { -brand-product-name } ושימוש במסיכה
+    .label = כניסה אל { -brand-product-name } ושימוש במסכה
     .accesskey = כ
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = לא להציג הודעה זו שוב

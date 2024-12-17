@@ -924,9 +924,9 @@ forms-breach-alerts =
     .accesskey = ס
 forms-breach-alerts-learn-more-link = מידע נוסף
 preferences-relay-integration-checkbox =
-    .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
+    .label = הצעת מסכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
 preferences-relay-integration-checkbox2 =
-    .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
+    .label = הצעת מסכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
     .accesskey = ת
 relay-integration-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.

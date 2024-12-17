@@ -19,8 +19,8 @@ confirmation-hint-credit-card-updated = הכרטיס עודכן
 confirmation-hint-pin-tab = נעוץ!
 confirmation-hint-pin-tab-description = יש ללחוץ על הלשונית עם הכפתור הימני כדי לשחרר את הנעיצה.
 confirmation-hint-send-to-device = נשלח!
-confirmation-hint-firefox-relay-mask-created = נוצרה מסיכה חדשה!
-confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסיכה קיימת!
+confirmation-hint-firefox-relay-mask-created = נוצרה מסכה חדשה!
+confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסכה קיימת!
 confirmation-hint-screenshot-copied = צילום המסך הועתק!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
