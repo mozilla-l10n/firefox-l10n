@@ -5,6 +5,9 @@
 popup-notification-learn-more = Kuaave
 popup-notification-more-actions-button =
     .aria-label = Jeku’eve
+popup-notification-default-button2 =
+    .label = Moneĩ
+    .accesskey = O
 popup-notification-default-button =
     .label = OK!
     .accesskey = O

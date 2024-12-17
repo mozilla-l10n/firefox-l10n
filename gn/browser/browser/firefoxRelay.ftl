@@ -33,3 +33,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ani ko’ág̃a
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ani ko’ág̃a
+    .accesskey = N
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Eñemboheraguapy
+    .accesskey = S
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Upeigua
+    .accesskey = N

@@ -493,3 +493,12 @@ pdfjs-editor-alt-text-settings-editor-title = Moñe’ẽrã mokõiha mbosako’
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Ehechauka moñe’ẽrã mokõiha mbosako’iha embojuajúvo ta’ãnga
 pdfjs-editor-alt-text-settings-show-dialog-description = Nepytyvõta ta’ãngakuéra orekotaha moñe’ẽrã mokõiha.
 pdfjs-editor-alt-text-settings-close-button = Mboty
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-undo-button =
+    .title = Mboguevi
+pdfjs-editor-undo-bar-undo-button-label = Mboguevi
+pdfjs-editor-undo-bar-close-button =
+    .title = Mboty
+pdfjs-editor-undo-bar-close-button-label = Mboty
