@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = 사이드바 숨기기
     .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = 사이드바 펼치기 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = 사이드바 접기 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = 사이드바 표시 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = 사이드바 숨기기 ({ $shortcut })
+    .label = 사이드바
