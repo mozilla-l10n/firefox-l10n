@@ -58,3 +58,4 @@ synced-tabs-context-sync-now =
     .label = Синхронизиране
     .accesskey = С
 synced-tabs-fxa-sign-in = Впишете се и синхронизирайте
+synced-tabs-turn-on-sync = Включване синхронизиране

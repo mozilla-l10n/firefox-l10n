@@ -108,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Синхронизиране и запазва
 appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
+appmenu-fxa-setup-sync-new = Включване
 appmenuitem-save-page =
     .label = Запазване като…
+appmenuitem-fxa-sync-off-title = Синхронизирането е изключено
+appmenuitem-fxa-sync-off-description = Защитете и имайте достъп до отметки, пароли и други навсякъде.
 
 ## What's New panel in App menu.
 
@@ -282,3 +285,11 @@ appmenuitem-vpn-description = Защита на действията ви онл
 
 ## Profiles panel
 
+appmenu-profiles = Профили
+appmenu-other-profiles = Други профили
+appmenu-manage-profiles =
+    .label = Управление на профили
+appmenu-create-profile =
+    .label = Нов профил
+appmenu-edit-profile =
+    .aria-label = Промяна на профила

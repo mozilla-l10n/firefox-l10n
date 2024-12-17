@@ -26,7 +26,7 @@ text-action-copy-shortcut =
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
 text-action-copy-clean-link =
-    .label = Копиране на връзка без проследяване
+    .label = Копиране на препратка без проследяване
     .accesskey = п
 text-action-paste =
     .label = Поставяне

@@ -55,6 +55,9 @@ protections-panel-blocking-label = Спрени
 protections-panel-not-blocking-label = Разрешени
 protections-panel-not-found-label = Липсващи
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Настройки на защитите
@@ -107,7 +110,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Изключване на намаляването на банерите за бисквитки за { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Включване на намаляването на банерите за бисквитки за страницата?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Включване на скриването на банери за бисквитки за страницата?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ще изчисти бисквитките на този сайт и ще опресни страницата. Изчистването на всички бисквитки може да доведе до излизането ви от профила или да изпразни пазарските колички, ако имате такива на отворени страници.
+protections-panel-cookie-banner-view-turn-on = Включване
+protections-panel-cookie-banner-blocker-view-turn-on-description = Включете и { -brand-short-name } ще опита автоматично да откаже банерите за бисквитки на този сайт.
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Включване
 
 ## Protections panel info message
 
