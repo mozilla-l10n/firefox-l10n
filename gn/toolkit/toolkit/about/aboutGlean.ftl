@@ -16,6 +16,7 @@ about-glean-interface-description =
     ha’e mba’ekuaarã ñembyatyha arandukarenda ojeporúva { -vendor-short-name } apopyrépe.
     Ko jehechaha ojejapo mboguatahára ha ta’ãhára
     <a data-l10n-name="fog-link">oha’ã hag̃ua ipoite rupi jeporupyrã</a>.
+about-glean-category-about-data = Mba’ekuaarã rehegua
 about-glean-upload-enabled = Mba’ekuaarã ñemyanyhẽ hendýma.
 about-glean-upload-disabled = Mba’ekuaarã ñemyanyhẽ oguéma.
 about-glean-upload-enabled-local = Mba’ekuaarã myanyhẽ hendýta emondo hag̃ua mohendahavusu ag̃uiguápe.

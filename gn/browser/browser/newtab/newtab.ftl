@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
 newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 newtab-menu-about-fakespot = { -fakespot-brand-name } rehegua
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Joko
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -442,3 +445,11 @@ newtab-topic-selection-button-maybe-later = Ikatu ag̃amieve
 newtab-topic-selection-privacy-link = Ehecha mba’éichapa romo’ã ha romboguata ne mba’ekuaarã
 newtab-topic-selection-button-update-interests = Embohekopyahu eipotáva
 newtab-topic-selection-button-pick-interests = Eiporavo eipotáva
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Tapykueho
+newtab-section-following-button = Ahapykueho
+newtab-section-unfollow-button = Ndahapykuehovéima
