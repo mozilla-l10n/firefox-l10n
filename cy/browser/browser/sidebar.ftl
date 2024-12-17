@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tabiau o ddyfeisiau eraill
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Cau tab ar { $deviceName }
+show-sidebars =
+    .tooltiptext = Dangos barau ochr
+    .label = Barrau Ochr
 
 ## Tooltips for the sidebar toolbar widget.
 
