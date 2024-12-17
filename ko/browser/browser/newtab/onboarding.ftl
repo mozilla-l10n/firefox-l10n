@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = 비영리 단체가 지원하는 브라
 mr2022-onboarding-get-started-primary-subtitle = 최신 버전이 사용자 중심으로 구축되어, 그 어느 때보다 쉽게 웹을 둘러볼 수 있습니다. 여러분이 좋아할 만한 기능으로 가득 차 있습니다.
 mr2022-onboarding-get-started-primary-button-label = 빠른 설정
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = 매우 빠른 설정
 mr2022-onboarding-import-subtitle = { -brand-short-name }를 원하는 대로 설정하세요. 기존 브라우저의 북마크, 비밀번호 등을 추가하세요.
@@ -430,3 +432,8 @@ onboarding-checklist-pin = { -brand-short-name }를 작업 표시줄에 고정
 onboarding-checklist-import = 이전 브라우저에서 가져오기
 onboarding-checklist-extension = 확장 기능 추가
 onboarding-checklist-sign-up = 계정 가입 또는 로그인
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = 덜 복잡하고 더 집중할 수 있도록 탭 그룹을 사용해 보세요
+tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위에 드래그하여 첫 번째 그룹을 만들어 정리하세요.
