@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Separadores de outros dispositivos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fechar separador em { $deviceName }
+show-sidebars =
+    .tooltiptext = Mostrar barras laterais
+    .label = Barras laterais
 
 ## Tooltips for the sidebar toolbar widget.
 
