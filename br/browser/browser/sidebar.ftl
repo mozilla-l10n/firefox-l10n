@@ -119,3 +119,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kuzhat ar varrenn gostez
     .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Dispakañ ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Serriñ ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Diskouez ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kuzhat ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
