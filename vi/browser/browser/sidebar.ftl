@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Thẻ từ thiết bị khác
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Đóng thẻ trên { $deviceName }
+show-sidebars =
+    .tooltiptext = Hiển thị thanh lề
+    .label = Thanh lề
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Thanh lề
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ẩn thanh lề
+    .label = Thanh lề
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Mở rộng thanh lề ({ $shortcut })
+    .label = Thanh lề
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Thu gọn thanh lề ({ $shortcut })
+    .label = Thanh lề
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Hiện thanh lề ({ $shortcut })
+    .label = Thanh lề
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ẩn thanh lề ({ $shortcut })
     .label = Thanh lề
