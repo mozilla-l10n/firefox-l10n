@@ -80,4 +80,6 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Paramètres appliqués et ping envoyé !
 about-glean-about-data-header = À propos des données
+about-glean-about-data-list-item-dictionary = Pour visualiser la liste des données collectées par { -glean-brand-name } par application, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>
+about-glean-about-data-list-item-about-telemetry = Pour visualiser les données collectées par l’ancienne télémétrie, veuillez consulter <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation = Pour visualiser la liste des données collectées, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>
