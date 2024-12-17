@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Lapok más eszközökről
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lap bezárása itt: { $deviceName }
+show-sidebars =
+    .tooltiptext = Oldalsávok megjelenítése
+    .label = Oldalsávok
 
 ## Tooltips for the sidebar toolbar widget.
 
