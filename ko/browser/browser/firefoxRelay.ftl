@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
+firefox-relay-offer-legal-notice-control = 가입하고 이메일 가리기를 생성하면, <label data-l10n-name="tos-url">이용 약관</label>및 <label data-l10n-name="privacy-url">개인정보처리방침</label>에 동의하는 것입니다.
 
 ## The "basic-info" variation of the Relay offer popup
 
