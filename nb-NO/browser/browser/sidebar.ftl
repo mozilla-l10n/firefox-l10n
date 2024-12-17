@@ -150,3 +150,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skjul sidestolpe
     .label = Sidestolper
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Utvid sidestolpen ({ $shortcut })
+    .label = Sidestolper
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Skjul sidestolpen ({ $shortcut })
+    .label = Sidestolper
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Vis sidestolpe ({ $shortcut })
+    .label = Sidestolper
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skjul sidestolpe ({ $shortcut })
+    .label = Sidestolper
