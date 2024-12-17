@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Rejtariki z drugich rědow
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Rejtarik na { $deviceName } zacyniś
+show-sidebars =
+    .tooltiptext = Bócnice pokazaś
+    .label = Bócnice
 
 ## Tooltips for the sidebar toolbar widget.
 
