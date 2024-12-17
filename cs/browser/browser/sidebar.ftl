@@ -158,6 +158,9 @@ sidebar-syncedtabs-title = Panely z jiných zařízení
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zavřít panel v { $deviceName }
+show-sidebars =
+    .tooltiptext = Zobrazí postranní lišty
+    .label = Postranní lišty
 
 ## Tooltips for the sidebar toolbar widget.
 
