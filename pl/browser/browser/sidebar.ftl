@@ -140,6 +140,9 @@ sidebar-syncedtabs-title = Karty z innych urządzeń
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zamknij kartę na „{ $deviceName }”
+show-sidebars =
+    .tooltiptext = Wyświetl panele boczne
+    .label = Panele boczne
 
 ## Tooltips for the sidebar toolbar widget.
 
