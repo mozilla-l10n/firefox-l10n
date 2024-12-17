@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = ซ่อนแถบข้าง
     .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = ขยายแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = ยุบแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = แสดงแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = ซ่อนแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
