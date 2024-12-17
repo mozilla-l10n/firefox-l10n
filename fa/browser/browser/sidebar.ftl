@@ -55,6 +55,9 @@ sidebar-customize-extensions-header = افزونه‌های نوار کناری
 
 ## Context for closing synced tabs when hovering over the items
 
+show-sidebars =
+    .tooltiptext = نمایش نوار‌کناری
+    .label = نوارهای کناری
 
 ## Tooltips for the sidebar toolbar widget.
 
