@@ -89,6 +89,15 @@ tabbrowser-confirm-close-tabs-checkbox = Потвърждаване при за�
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [one] Затваряне на { $windowCount } прозорец?
+       *[other] Затваряне на { $windowCount } прозореца?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Затваряне и излизане
@@ -98,11 +107,25 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Затваряне на прозореца и изход от { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = Изход от { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Потвърждаване при изход с { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Потвърждаване при изход с { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Изход от { -brand-short-name } или затваряне на текущия раздел?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Изход от { -brand-short-name }
+       *[other] Изход от { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Затваряне на раздела
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -132,6 +155,10 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Затварян�
 
 ##
 
+# Variables:
+#   $domain (String): URL of the page that is trying to steal focus.
+tabbrowser-allow-dialogs-to-get-focus =
+    .label = Позволяване на известия като това от { $domain } да отваря техния раздел
 tabbrowser-customizemode-tab-title = Приспособяване на { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -150,6 +177,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Включване на звука на разделите
     .accesskey = в
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Възпроизвеждане на аудио
 
 ## Ctrl-Tab dialog
 
@@ -160,9 +189,25 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Заглушаване на раздела
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Включване на звука на раздела
+tabbrowser-manager-close-tab =
+    .tooltiptext = Затваряне на раздела
 
 ## Tab Groups
 
+tab-group-editor-title-create = Създаване на група от раздели
+tab-group-editor-title-edit = Управление на група от раздели
+tab-group-editor-name-label = Име
+tab-group-editor-name-field =
+    .placeholder = Пример: Благотворителност
+tab-group-editor-cancel =
+    .label = Отказ
+    .accesskey = о
+tab-context-unnamed-group =
+    .label = Неименувана група
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
