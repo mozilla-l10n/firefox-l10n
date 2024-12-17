@@ -144,3 +144,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = إخفاء الشريط الجانبي
     .label = الأشرطة الجانبية
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = توسيع الشريط الجانبي ({ $shortcut })
+    .label = الأشرطة الجانبية
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = تقليص الشريط الجانبي ({ $shortcut })
+    .label = الأشرطة الجانبية
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = إظهار الشريط الجانبي ({ $shortcut })
+    .label = الأشرطة الجانبية
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = إخفاء الشريط الجانبي ({ $shortcut })
+    .label = الأشرطة الجانبية
