@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Zuppentar la trav laterala
     .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expander la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Reducir la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Mussar la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Zuppentar la trav laterala ({ $shortcut })
+    .label = Travs lateralas
