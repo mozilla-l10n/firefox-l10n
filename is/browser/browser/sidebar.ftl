@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Flipar frá öðrum tækjum
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Loka flipa á { $deviceName }
+show-sidebars =
+    .tooltiptext = Sýna hliðarslár
+    .label = Hliðarslá
 
 ## Tooltips for the sidebar toolbar widget.
 
