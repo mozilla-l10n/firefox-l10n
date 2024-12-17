@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } n’a pas pu générer un nouvel alias. Code d’erreur HTTP : { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n’a pas pu trouver d’alias réutilisables. Code d’erreur HTTP : { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Vous devez vous connecter à votre { -fxaccount-brand-name } afin d’utiliser { -relay-brand-name }.
 firefox-relay-must-login-to-account = Connectez-vous à votre compte pour utiliser vos alias de messagerie { -relay-brand-name }.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Plus tard
     .accesskey = P
-firefox-relay-offer-what-fxa-and-relay-provides = Un compte vous donne accès à des produits qui protègent davantage votre vie privée. Tous les e-mails envoyés à vos alias de messagerie sont transférés vers votre véritable adresse e-mail (sauf si vous décidez de les bloquer).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Souscrire à { -brand-product-name } et utiliser un alias de messagerie
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Créer un compte
+    .accesskey = C
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne plus afficher ce message
     .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Plus tard
     .accesskey = P
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Commencez par créer votre compte ou vous y connecter pour utiliser un alias de messagerie
+firefox-relay-offer-legal-notice-control = En créant un compte et un alias de messagerie, vous acceptez les <label data-l10n-name="tos-url">Conditions d’utilisation</label> et la <label data-l10n-name="privacy-url">Politique de confidentialité</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Évitez les e-mails indésirables grâce à un alias de messagerie
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Évitez les e-mails indésirables en masquant votre véritable adresse e-mail avec un <label data-l10n-name="firefox-relay-learn-more-url">alias de messagerie</label>. Les e-mails provenant de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ce site</label> arriveront toujours dans votre boîte de réception, mais en masquant votre adresse e-mail.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Commencez par créer votre compte ou vous y connecter pour utiliser un alias de messagerie
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = En créant un alias de messagerie, vous acceptez les <label data-l10n-name="tos-url">Conditions d’utilisation</label> et la <label data-l10n-name="privacy-url">Politique de confidentialité</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Suivant
     .accesskey = S
