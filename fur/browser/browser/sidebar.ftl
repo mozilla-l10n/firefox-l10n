@@ -104,6 +104,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Verifiche recensions
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -129,6 +132,9 @@ sidebar-syncedtabs-title = Schedis di altris dispositîfs
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Siere schede su { $deviceName }
+show-sidebars =
+    .tooltiptext = Mostre i panei laterai
+    .label = Panei laterai
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -144,3 +150,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Plate la sbare laterâl
     .label = Sbaris laterâls
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Slargje la sbare laterâl ({ $shortcut })
+    .label = Panei laterai
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Strenç la sbare laterâl ({ $shortcut })
+    .label = Panei laterai
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Mostre la sbare laterâl ({ $shortcut })
+    .label = Panei laterai
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Plate la sbare laterâl ({ $shortcut })
+    .label = Panei laterai
