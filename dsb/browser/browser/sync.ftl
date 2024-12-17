@@ -45,3 +45,18 @@ sync-setup-verify-heading = Cośo se napšawdu w sync registrěrowaś?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Drugi wužywaŕ jo se do togo na toś tom licadle w sync zregistrěrował. Registrěrowanje buźo cytańske znamjenja, gronidła a druge nastajenja wobglědowaka z { $email } zjadnośowaś
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Kontowy limit jo se dostał za toś ten profil
+sync-profile-different-account-header = Toś ten profil jo se do togo synchronizěrował z drugim kontom
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil jo se synchronizěrował do drugego konta
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Konto se južo wužywa
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } jo južo pla profila “{ $otherProfile }” pśizjawjona
+sync-account-in-use-description = Na toś tom licadle móžośo toś to konto z jano jadnym profilom zwězaś.

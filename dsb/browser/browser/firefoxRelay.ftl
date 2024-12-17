@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } njejo mógł nowu masku generěrowaś. Zmólkowy kod HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } njejo mógł zasejwužywajobne maski namakaś. Zmólkowy kod: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Musyśo se pla { -fxaccount-brand-name } pśizjawiś, aby { -relay-brand-name } wužywał.
 firefox-relay-must-login-to-account = Pśizjawśo se pla swójogo konta, aby swóje e-mailowe maski { -relay-brand-name } wužywał.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nic něnto
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = Konto pśistup k dalšnym priwatnosć šćitajucym produktam pśizwólujo. Wšykne mejlki, kótarež se na wašu e-mailowu masku sćelu, se na wašu napšawdnu e-mailowu adresu dalej pósrědnjaju (snaźkuli rozsuźujośo se je blokěrowaś).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Pla { -brand-product-name } pśizjawiś a masku wužywaś
     .accesskey = P
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registrěrowaś
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Wěcej njepokazaś
     .accesskey = W
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Nic něnto
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
+firefox-relay-offer-legal-notice-control = Gaž se registrěrujośo a e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Šćitajśo pśed spamom z e-mailoweju masku
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Schowajśo swóju napšawdnu adresu z <label data-l10n-name="firefox-relay-learn-more-url">e-mailoweju masku</label>, aby spamoju zajźował. Dostanjośo hyšći mejlki z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tutoho sydła</label> w swójom normalnem dochaźe posta, z wašeju maskěrowaneju adresu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Gaž e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dalej
     .accesskey = D

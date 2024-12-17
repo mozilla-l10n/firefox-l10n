@@ -661,9 +661,9 @@ urlbar-result-action-search-bookmarks = Cytańske znamjenja pśepytaś
 urlbar-result-action-search-history = Historiju pśepytaś
 urlbar-result-action-search-tabs = Rejtariki pśepytaś
 urlbar-result-action-search-actions = W akcijach pytaś
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = { $group } wócyniś
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = K { $group } pśejś
 
 ## Labels shown above groups of urlbar results
 
