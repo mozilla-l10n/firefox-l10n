@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sembunyikan bilah samping
     .label = Bilah samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Bentangkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Ciutkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Tampilkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sembunyikan bilah samping ({ $shortcut })
+    .label = Bilah Samping
