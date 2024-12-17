@@ -58,12 +58,6 @@ sidebar-visibility-setting-always-show =
     .label = توسيع وتقليص الشريط الجانبي
 sidebar-visibility-setting-hide-sidebar =
     .label = إظهار وإخفاء الشريط الجانبي
-sidebar-customize-settings-header =
-    .label = إعدادات الشريط الجانبي
-sidebar-visibility-always-show =
-    .label = أظهِر دائما
-sidebar-visibility-hide-sidebar =
-    .label = إخفاء الشريط الجانبي
 
 ## Labels for sidebar context menu items
 
@@ -104,6 +98,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = مدقق المراجعة
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -129,17 +126,12 @@ sidebar-syncedtabs-title = علامات التبويب من أجهزة أخرى
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = أغلق علامة التبويب على { $deviceName }
+show-sidebars =
+    .tooltiptext = أظهر الأشرطة الجانبية
+    .label = الأشرطة الجانبية
 
-## Tooltips for the sidebar toolbar button.
+## Tooltips for the sidebar toolbar widget.
 
-sidebar-toolbar-expand-sidebar =
-    .tooltiptext = توسيع الشريط الجانبي
-sidebar-toolbar-collapse-sidebar =
-    .tooltiptext = تقليص الشريط الجانبي
-sidebar-toolbar-show-sidebar =
-    .tooltiptext = إظهار الشريط الجانبي
-sidebar-toolbar-hide-sidebar =
-    .tooltiptext = إخفاء الشريط الجانبي
 sidebar-widget-expand-sidebar =
     .tooltiptext = توسيع الشريط الجانبي
     .label = الأشرطة الجانبية
