@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Изпраща на сайтовете сигнал "Не проследявай" - указание, че не желаете да бъдете проследявани.
+do-not-track-removal = Вече не поддържаме сигнала „Без проследяване“.
 do-not-track-description2 =
     .label = Изпращане на сайтовете заявка „Без проследяване“.
     .accesskey = д
@@ -156,6 +157,14 @@ open-new-link-as-tabs =
 ask-on-close-multiple-tabs =
     .label = Потвърждаване при затваряне на няколко раздела
     .accesskey = з
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Потвърждаване при изход с { $quitKey }
+    .accesskey = и
 confirm-on-close-multiple-tabs =
     .label = Потвърждаване при затваряне на няколко раздела
     .accesskey = д
@@ -785,6 +794,9 @@ sync-currently-syncing-creditcards = Банкови карти
 sync-currently-syncing-payment-methods = Начини на плащане
 sync-currently-syncing-addons = Добавки
 sync-currently-syncing-settings = Настройки
+sync-manage-options =
+    .label = Управление на синхронизиране…
+    .accesskey = с
 sync-change-options =
     .label = Променяне…
     .accesskey = П
