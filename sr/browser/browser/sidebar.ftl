@@ -164,3 +164,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Сакриј бочни панел
     .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Прошири бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Скупи бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Прикажи бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Сакриј бочни панел ({ $shortcut })
+    .label = Бочни панели
