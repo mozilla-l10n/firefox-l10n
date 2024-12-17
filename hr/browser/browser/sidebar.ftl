@@ -150,3 +150,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sakrij bočnu traku
     .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rasklopi bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sklopi bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sakrij bočnu traku ({ $shortcut })
+    .label = Bočne trake
