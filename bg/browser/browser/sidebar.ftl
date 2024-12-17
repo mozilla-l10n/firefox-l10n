@@ -79,6 +79,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Отмятане на раздела…
 sidebar-context-menu-copy-link =
     .label = Копиране на препратката
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Затваряне на раздела на { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -97,9 +101,27 @@ sidebar-menu-bookmarks-label =
     .label = Отметки
 sidebar-menu-customize-label =
     .label = Приспособяване на страничната лента
+sidebar-menu-review-checker-label =
+    .label = Проверка на отзиви
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Отваряне на историята ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Затваряне на историята ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Отваряне на отметките ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Затваряне на отметките ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -109,13 +131,23 @@ sidebar-menu-history-header =
     .heading = История
 sidebar-menu-syncedtabs-header =
     .heading = Раздели от други устройства
+sidebar-panel-header-close-button =
+    .tooltiptext = Затваряне
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Приспособяване на страничната лента
 sidebar-history-title = История
+sidebar-syncedtabs-title = Раздели от други устройства
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Затваряне на раздела на { $deviceName }
 
 ## Tooltips for the sidebar toolbar widget.
 
