@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tabs dad auters apparats
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Serrar il tab sin { $deviceName }
+show-sidebars =
+    .tooltiptext = Mussar ina trav laterala
+    .label = Travs lateralas
 
 ## Tooltips for the sidebar toolbar widget.
 
