@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Razloži
     .value = Prosim, s preprostimi besedami pojasni ključne koncepte te izbire. Uporabljaj tudi primere.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Lektoriraj
+    .value = Prosim, preveri črkovne in slovnične napak v izbranem besedilu. Navedi morebitne napake in napiši popravljeno različico besedila. Ohrani pomen in pravilnost dejstev ter najprej izpiši seznam predlaganih popravkov, nato pa končno, popravljeno različico besedila.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,29 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Vprašaj { $provider } …
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = UI-klepetalnik ne bo uporabil celotnega izbora
+    .message =
+        { $selectionLength ->
+            [one] Izbrali ste { $selectionLength } znak. Število znakov, ki jih lahko pošljemo UI-klepetalniku, je največ { $maxLength }.
+            [two] Izbrali ste { $selectionLength } znaka. Število znakov, ki jih lahko pošljemo UI-klepetalniku, je največ { $maxLength }.
+            [few] Izbrali ste { $selectionLength } znake. Število znakov, ki jih lahko pošljemo UI-klepetalniku, je največ { $maxLength }.
+           *[other] Izbrali ste { $selectionLength } znakov. Število znakov, ki jih lahko pošljemo UI-klepetalniku, je največ { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ne bo uporabil celotnega izbora
+    .message =
+        { $selectionLength ->
+            [one] Izbrali ste { $selectionLength } znak. Število znakov, ki jih lahko pošljemo { $provider }, je največ { $maxLength }.
+            [two] Izbrali ste { $selectionLength } znaka. Število znakov, ki jih lahko pošljemo { $provider }, je največ { $maxLength }.
+            [few] Izbrali ste { $selectionLength } znake. Število znakov, ki jih lahko pošljemo { $provider }, je največ { $maxLength }.
+           *[other] Izbrali ste { $selectionLength } znakov. Število znakov, ki jih lahko pošljemo { $provider }, je največ { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skrij bližnjico klepetalnika
 
@@ -135,6 +162,5 @@ genai-onboarding-gemini-price = Brezplačne in plačljive možnosti; zahtevan ra
 genai-onboarding-huggingchat-generate = Ustvarite besedilo in kodo
 genai-onboarding-huggingchat-switch = Izbirajte med raznolikim naborom odprtih modelov
 genai-onboarding-huggingchat-price-2 = Brezplačno; Račun je zahtevan po določenem številu zahtev
-genai-onboarding-huggingchat-price = Brezplačno; za nekatera opravila je zahtevan račun
 genai-onboarding-lechat-generate = Ustvarite besedilo in kodo
 genai-onboarding-lechat-price = Brezplačno; zahtevan račun
