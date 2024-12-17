@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = გვერდითი ზოლის დამალვა
     .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის გაშლა ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის ჩაკეცვა ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის ჩვენება ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის დამალვა ({ $shortcut })
+    .label = გვერდითი ზოლები
