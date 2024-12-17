@@ -85,6 +85,7 @@ tabbrowser-confirm-close-tabs-title =
     }
 tabbrowser-confirm-close-tabs-button = Затваряне на разделите
 tabbrowser-ask-close-tabs-checkbox = Потвърждаване при затваряне на няколко раздела
+tabbrowser-confirm-close-tabs-checkbox = Потвърждаване при затваряне на няколко раздела
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
