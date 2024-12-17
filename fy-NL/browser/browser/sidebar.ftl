@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Ljepblêd op { $deviceName } slute
+show-sidebars =
+    .tooltiptext = Sidebalken toane
+    .label = Sidebalken
 
 ## Tooltips for the sidebar toolbar widget.
 
