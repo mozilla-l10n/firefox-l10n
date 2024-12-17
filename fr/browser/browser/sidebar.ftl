@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Onglets d’autres appareils
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermer l’onglet sur { $deviceName }
+show-sidebars =
+    .tooltiptext = Afficher les panneaux latéraux
+    .label = Panneau latéral
 
 ## Tooltips for the sidebar toolbar widget.
 
