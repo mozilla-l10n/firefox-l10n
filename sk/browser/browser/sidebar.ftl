@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skryť bočný panel
     .label = Bočné panely
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rozbaliť bočný panel ({ $shortcut })
+    .label = Bočné panely
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Zbaliť bočný panel ({ $shortcut })
+    .label = Bočné panely
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Zobraziť bočný panel ({ $shortcut })
+    .label = Bočné panely
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skryť bočný panel ({ $shortcut })
+    .label = Bočné panely
