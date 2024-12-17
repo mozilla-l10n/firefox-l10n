@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = 다른 기기의 탭
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }의 탭 닫기
+show-sidebars =
+    .tooltiptext = 사이드바 표시
+    .label = 사이드바
 
 ## Tooltips for the sidebar toolbar widget.
 
