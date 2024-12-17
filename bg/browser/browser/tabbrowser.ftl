@@ -212,3 +212,30 @@ tab-context-unnamed-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [one] Добавяне на раздели към нова група
+           *[other] Добавяне на раздели към нова група
+        }
+    .accesskey = г
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [one] Добавяне на раздели към група
+           *[other] Добавяне на раздели към група
+        }
+    .accesskey = г
+tab-group-editor-action-new-tab =
+    .label = Нов раздел в групата
+tab-group-editor-action-new-window =
+    .label = Преместване в нов прозорец
+tab-group-editor-action-save =
+    .label = Запазване и затваряне на групата
+tab-group-editor-action-ungroup =
+    .label = Изваждане на разделите от групата
+tab-group-editor-action-delete =
+    .label = Премахване на групата
+tab-group-editor-done =
+    .label = Готово
+    .accessKey = о
