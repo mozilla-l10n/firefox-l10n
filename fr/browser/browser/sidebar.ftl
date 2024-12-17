@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Onglets d’autres appareils
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermer l’onglet sur { $deviceName }
+show-sidebars =
+    .tooltiptext = Afficher les panneaux latéraux
+    .label = Panneau latéral
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Panneau latéral
 sidebar-widget-hide-sidebar =
     .tooltiptext = Masquer le panneau latéral
+    .label = Panneau latéral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Développer le panneau latéral ({ $shortcut })
+    .label = Panneau latéral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Réduire le panneau latéral ({ $shortcut })
+    .label = Panneau latéral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Afficher le panneau latéral ({ $shortcut })
+    .label = Panneau latéral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Masquer le panneau latéral ({ $shortcut })
     .label = Panneau latéral

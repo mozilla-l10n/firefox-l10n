@@ -56,6 +56,9 @@ sidebar-panel-header-close-button =
 
 ## Context for closing synced tabs when hovering over the items
 
+show-sidebars =
+    .tooltiptext = పక్కపట్టీలు చూపించు
+    .label = పక్కపట్టీలు
 
 ## Tooltips for the sidebar toolbar widget.
 

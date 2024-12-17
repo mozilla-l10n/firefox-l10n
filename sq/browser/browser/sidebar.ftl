@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Skeda prej pajisjesh të tjera
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Mbylle skedën te { $deviceName }
+show-sidebars =
+    .tooltiptext = Shfaqni anështylla
+    .label = Anështylla
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Anështylla
 sidebar-widget-hide-sidebar =
     .tooltiptext = Fshihe anështyllën
+    .label = Anështylla
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Zgjeroje anështyllën ({ $shortcut })
+    .label = Anështylla
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Tkurre anështyllën ({ $shortcut })
+    .label = Anështylla
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Shfaqe anështyllën ({ $shortcut })
+    .label = Anështylla
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Fshihe anështyllën ({ $shortcut })
     .label = Anështylla

@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Langetoj el aliaj aparatoj
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermi langeton en { $deviceName }
+show-sidebars =
+    .tooltiptext = Montri flankajn striojn
+    .label = Flankaj strioj
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Flankaj strioj
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kaŝi flankan strion
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Malfaldi flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Faldi flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Montri flankan strion ({ $shortcut })
+    .label = Flankaj strioj
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kaŝi flankan strion ({ $shortcut })
     .label = Flankaj strioj

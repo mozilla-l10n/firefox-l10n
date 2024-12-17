@@ -104,6 +104,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Provjera recenzija
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -129,6 +132,9 @@ sidebar-syncedtabs-title = Kartice s drugih uređaja
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zatvori karticu na { $deviceName }
+show-sidebars =
+    .tooltiptext = Prikaži bočne trake
+    .label = Bočne trake
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -143,4 +149,24 @@ sidebar-widget-show-sidebar =
     .label = Bočne trake
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sakrij bočnu traku
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rasklopi bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sklopi bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
+    .label = Bočne trake
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sakrij bočnu traku ({ $shortcut })
     .label = Bočne trake

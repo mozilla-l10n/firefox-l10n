@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Flipar frá öðrum tækjum
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Loka flipa á { $deviceName }
+show-sidebars =
+    .tooltiptext = Sýna hliðarslár
+    .label = Hliðarslá
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -165,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Fela hliðarstiku
     .label = Hliðarstikur
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Fella út hliðarstikuna ({ $shortcut })
+    .label = Hliðarslá
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Fella saman hliðarstikuna ({ $shortcut })
+    .label = Hliðarslá
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Sýna hliðarstiku ({ $shortcut })
+    .label = Hliðarslá
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Fela hliðarstiku ({ $shortcut })
+    .label = Hliðarslá

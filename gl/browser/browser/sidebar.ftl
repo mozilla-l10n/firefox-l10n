@@ -44,12 +44,6 @@ sidebar-horizontal-tabs =
     .label = Lapelas horizontais
 sidebar-customize-tabs-header =
     .label = Configuración das lapelas
-sidebar-customize-settings-header =
-    .label = Configuración da barra lateral
-sidebar-visibility-always-show =
-    .label = Mostrar sempre
-sidebar-visibility-hide-sidebar =
-    .label = Ocultar a barra lateral
 
 ## Labels for sidebar context menu items
 
@@ -62,5 +56,20 @@ sidebar-context-menu-manage-extension =
 ## Labels for sidebar menu items.
 
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
+
+
+## Titles for sidebar menu panels.
+
+
+## Context for closing synced tabs when hovering over the items
+
+show-sidebars =
+    .tooltiptext = Amosar as barras laterais
+    .label = Barras laterais
+
+## Tooltips for the sidebar toolbar widget.
 

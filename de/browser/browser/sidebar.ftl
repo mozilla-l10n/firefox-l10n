@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tabs von anderen Geräten
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tab auf { $deviceName } schließen
+show-sidebars =
+    .tooltiptext = Sidebars anzeigen
+    .label = Sidebars
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Sidebars
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sidebar ausblenden
+    .label = Sidebars
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Sidebar ausklappen ({ $shortcut })
+    .label = Sidebars
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sidebar einklappen ({ $shortcut })
+    .label = Sidebars
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Sidebar anzeigen ({ $shortcut })
+    .label = Sidebars
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sidebar ausblenden ({ $shortcut })
     .label = Sidebars

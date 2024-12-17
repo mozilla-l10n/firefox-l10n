@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tabs dad auters apparats
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Serrar il tab sin { $deviceName }
+show-sidebars =
+    .tooltiptext = Mussar ina trav laterala
+    .label = Travs lateralas
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Travs lateralas
 sidebar-widget-hide-sidebar =
     .tooltiptext = Zuppentar la trav laterala
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expander la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Reducir la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Mussar la trav laterala ({ $shortcut })
+    .label = Travs lateralas
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Zuppentar la trav laterala ({ $shortcut })
     .label = Travs lateralas

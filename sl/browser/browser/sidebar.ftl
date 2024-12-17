@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Zavihki z drugih naprav
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zapri zavihek na napravi { $deviceName }
+show-sidebars =
+    .tooltiptext = Prikaži stranske vrstice
+    .label = Stranske vrstice
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Stranske vrstice
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skrij stransko vrstico
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Razširi stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Skrči stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Prikaži stransko vrstico ({ $shortcut })
+    .label = Stranske vrstice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skrij stransko vrstico ({ $shortcut })
     .label = Stranske vrstice

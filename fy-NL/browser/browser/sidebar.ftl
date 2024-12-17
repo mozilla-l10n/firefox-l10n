@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Ljepblêd op { $deviceName } slute
+show-sidebars =
+    .tooltiptext = Sidebalken toane
+    .label = Sidebalken
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Sidebalken
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sidebalke ferstopje
+    .label = Sidebalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Sidebalke útklappe ({ $shortcut })
+    .label = Sidebalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sidebalke ynklappe ({ $shortcut })
+    .label = Sidebalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Sidebalke toane ({ $shortcut })
+    .label = Sidebalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sidebalke ferstopje ({ $shortcut })
     .label = Sidebalken

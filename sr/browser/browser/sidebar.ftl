@@ -146,6 +146,9 @@ sidebar-syncedtabs-title = Картице са других уређаја
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Затвори картицу на { $deviceName }
+show-sidebars =
+    .tooltiptext = Прикажи бочне панеле
+    .label = Бочни панели
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -160,4 +163,24 @@ sidebar-widget-show-sidebar =
     .label = Бочни панели
 sidebar-widget-hide-sidebar =
     .tooltiptext = Сакриј бочни панел
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Прошири бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Скупи бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Прикажи бочни панел ({ $shortcut })
+    .label = Бочни панели
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Сакриј бочни панел ({ $shortcut })
     .label = Бочни панели

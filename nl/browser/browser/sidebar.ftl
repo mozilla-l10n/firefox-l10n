@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tabbladen van andere apparaten
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tabblad op { $deviceName } sluiten
+show-sidebars =
+    .tooltiptext = Zijbalken tonen
+    .label = Zijbalken
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Zijbalken
 sidebar-widget-hide-sidebar =
     .tooltiptext = Zijbalk verbergen
+    .label = Zijbalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Zijbalk uitvouwen ({ $shortcut })
+    .label = Zijbalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Zijbalk samenvouwen ({ $shortcut })
+    .label = Zijbalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Zijbalk tonen ({ $shortcut })
+    .label = Zijbalken
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Zijbalk verbergen ({ $shortcut })
     .label = Zijbalken

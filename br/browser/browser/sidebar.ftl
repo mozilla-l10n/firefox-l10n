@@ -33,12 +33,6 @@ sidebar-customize-tabs-header =
     .label = Arventennoù an ivinelloù
 sidebar-customize-position-header =
     .label = Lec’hiadur ar varrenn gostez
-sidebar-customize-settings-header =
-    .label = Arventennoù ar varrenn gostez
-sidebar-visibility-always-show =
-    .label = Diskouez atav
-sidebar-visibility-hide-sidebar =
-    .label = Kuzhat ar varrenn gostez
 
 ## Labels for sidebar context menu items
 
@@ -79,6 +73,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Gwirier alioù
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -104,6 +101,9 @@ sidebar-syncedtabs-title = Ivinelloù an trevnadoù all
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Serriñ an ivinell war { $deviceName }
+show-sidebars =
+    .tooltiptext = Diskouez ar barrennoù kostez
+    .label = Barrennoù kostez
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -118,4 +118,24 @@ sidebar-widget-show-sidebar =
     .label = Barrennoù kostez
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kuzhat ar varrenn gostez
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Dispakañ ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Serriñ ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Diskouez ar varrenn gostez ({ $shortcut })
+    .label = Barrennoù kostez
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kuzhat ar varrenn gostez ({ $shortcut })
     .label = Barrennoù kostez

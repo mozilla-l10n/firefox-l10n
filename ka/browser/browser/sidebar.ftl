@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = ჩანართები სხვა მოწყ
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = ჩანართის დახურვა – { $deviceName }
+show-sidebars =
+    .tooltiptext = გვერდითი ზოლების ჩვენება
+    .label = გვერდითი ზოლები
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = გვერდითი ზოლები
 sidebar-widget-hide-sidebar =
     .tooltiptext = გვერდითი ზოლის დამალვა
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის გაშლა ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის ჩაკეცვა ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის ჩვენება ({ $shortcut })
+    .label = გვერდითი ზოლები
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = გვერდითი ზოლის დამალვა ({ $shortcut })
     .label = გვერდითი ზოლები

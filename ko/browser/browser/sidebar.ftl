@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = 다른 기기의 탭
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }의 탭 닫기
+show-sidebars =
+    .tooltiptext = 사이드바 표시
+    .label = 사이드바
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = 사이드바
 sidebar-widget-hide-sidebar =
     .tooltiptext = 사이드바 숨기기
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = 사이드바 펼치기 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = 사이드바 접기 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = 사이드바 표시 ({ $shortcut })
+    .label = 사이드바
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = 사이드바 숨기기 ({ $shortcut })
     .label = 사이드바

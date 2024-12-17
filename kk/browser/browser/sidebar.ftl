@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Басқа құрылғылардан беттер
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } құрылғыдағы бетті жабу
+show-sidebars =
+    .tooltiptext = Бүйір панельдерін көрсету
+    .label = Бүйір панельдер
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Бүйір панельдер
 sidebar-widget-hide-sidebar =
     .tooltiptext = Бүйір панелін жасыру
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Бүйір панелін жазық қылу ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Бүйір панелін бүктеу ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Бүйір панелін көрсету ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Бүйір панелін жасыру ({ $shortcut })
     .label = Бүйір панельдер

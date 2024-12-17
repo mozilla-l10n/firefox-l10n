@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tendaykekuéra ambue mba’e’okaygua
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Emboty tendayke { $deviceName }-pe
+show-sidebars =
+    .tooltiptext = Tenda yke jehechauka
+    .label = Tenda yke
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Tenda yke
 sidebar-widget-hide-sidebar =
     .tooltiptext = Eñomi tenda yke
+    .label = Tenda yke
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Emyasãi tenda yke ({ $shortcut })
+    .label = Tenda yke
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Ta’ãngarupa yke momichĩ ({ $shortcut })
+    .label = Tenda yke
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Ehechauka tenda yke ({ $shortcut })
+    .label = Tenda yke
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Eñomi tenda yke ({ $shortcut })
     .label = Tenda yke

@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Rejtariki z drugich rědow
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Rejtarik na { $deviceName } zacyniś
+show-sidebars =
+    .tooltiptext = Bócnice pokazaś
+    .label = Bócnice
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Bócnice
 sidebar-widget-hide-sidebar =
     .tooltiptext = Bocnicu schowaś
+    .label = Bócnice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Bocnicu pokazaś ({ $shortcut })
+    .label = Bócnice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Bocnicu schowaś ({ $shortcut })
+    .label = Bócnice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Bocnicu pokazaś ({ $shortcut })
+    .label = Bócnice
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Bocnicu schowaś ({ $shortcut })
     .label = Bócnice

@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = แท็บจากอุปกรณ์อื่�
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = ปิดแท็บบน { $deviceName }
+show-sidebars =
+    .tooltiptext = แสดงแถบข้าง
+    .label = แถบข้าง
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = แถบข้าง
 sidebar-widget-hide-sidebar =
     .tooltiptext = ซ่อนแถบข้าง
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = ขยายแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = ยุบแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = แสดงแถบข้าง ({ $shortcut })
+    .label = แถบข้าง
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = ซ่อนแถบข้าง ({ $shortcut })
     .label = แถบข้าง

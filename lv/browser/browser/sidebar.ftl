@@ -44,12 +44,6 @@ sidebar-horizontal-tabs =
     .label = Horizontālas cilnes
 sidebar-customize-tabs-header =
     .label = Ciļņu iestatījumi
-sidebar-customize-settings-header =
-    .label = Sānjoslas iestatījumi
-sidebar-visibility-always-show =
-    .label = Vienmēr rādīt
-sidebar-visibility-hide-sidebar =
-    .label = Slēpt sānjoslu
 
 ## Labels for sidebar context menu items
 
@@ -59,6 +53,9 @@ sidebar-context-menu-remove-extension =
     .label = Izņemt paplašinājumu
 sidebar-context-menu-report-extension =
     .label = Ziņot par paplašinājumu
+
+## Labels for sidebar history context menu items
+
 
 ## Labels for sidebar menu items.
 
@@ -73,6 +70,9 @@ sidebar-menu-bookmarks-label =
 sidebar-menu-customize-label =
     .label = Pielāgot sānjoslu
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -81,3 +81,15 @@ sidebar-menu-history-header =
     .heading = Vēsture
 sidebar-menu-syncedtabs-header =
     .heading = Cilnes no citām ierīcēm
+
+## Titles for sidebar menu panels.
+
+
+## Context for closing synced tabs when hovering over the items
+
+show-sidebars =
+    .tooltiptext = Rādīt sānu joslas
+    .label = Sānu joslas
+
+## Tooltips for the sidebar toolbar widget.
+

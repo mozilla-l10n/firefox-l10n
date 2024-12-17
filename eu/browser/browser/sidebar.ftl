@@ -100,6 +100,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Balorazioen egiaztatzailea
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -125,6 +128,9 @@ sidebar-syncedtabs-title = Beste gailuetako fitxak
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Itxi { $deviceName } gailuko fitxa
+show-sidebars =
+    .tooltiptext = Erakutsi alboko barrak
+    .label = Alboko barrak
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -139,4 +145,24 @@ sidebar-widget-show-sidebar =
     .label = Alboko barrak
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ezkutatu alboko barra
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Zabaldu alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Tolestu alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Erakutsi alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ezkutatu alboko barra ({ $shortcut })
     .label = Alboko barrak

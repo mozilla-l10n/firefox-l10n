@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = 來自其他裝置的分頁
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = 關閉 { $deviceName } 上的分頁
+show-sidebars =
+    .tooltiptext = 顯示側邊欄
+    .label = 側邊欄
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = 側邊欄
 sidebar-widget-hide-sidebar =
     .tooltiptext = 隱藏側邊欄
+    .label = 側邊欄
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = 展開側邊欄 ({ $shortcut })
+    .label = 側邊欄
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = 摺疊側邊欄 ({ $shortcut })
+    .label = 側邊欄
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = 顯示側邊欄 ({ $shortcut })
+    .label = 側邊欄
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = 隱藏側邊欄 ({ $shortcut })
     .label = 側邊欄

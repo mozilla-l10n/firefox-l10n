@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Вкладки з інших пристроїв
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрити вкладку на { $deviceName }
+show-sidebars =
+    .tooltiptext = Показати бічні панелі
+    .label = Бічні панелі
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Бічні панелі
 sidebar-widget-hide-sidebar =
     .tooltiptext = Сховати бічну панель
+    .label = Бічні панелі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Розгорнути бічну панель ({ $shortcut })
+    .label = Бічні панелі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Згорнути бічну панель ({ $shortcut })
+    .label = Бічні панелі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Показати бічну панель ({ $shortcut })
+    .label = Бічні панелі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Сховати бічну панель ({ $shortcut })
     .label = Бічні панелі

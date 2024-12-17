@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Карткі з іншых прылад
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрыць картку на { $deviceName }
+show-sidebars =
+    .tooltiptext = Паказаць бакавыя панэлі
+    .label = Бакавыя панэлі
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Бакавыя панэлі
 sidebar-widget-hide-sidebar =
     .tooltiptext = Схаваць бакавую панэль
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Разгарнуць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Згарнуць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Паказаць бакавую панэль ({ $shortcut })
+    .label = Бакавыя панэлі
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Схаваць бакавую панэль ({ $shortcut })
     .label = Бакавыя панэлі

@@ -158,6 +158,9 @@ sidebar-syncedtabs-title = Panely z jiných zařízení
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zavřít panel v { $deviceName }
+show-sidebars =
+    .tooltiptext = Zobrazí postranní lišty
+    .label = Postranní lišty
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -172,4 +175,24 @@ sidebar-widget-show-sidebar =
     .label = Postranní lišty
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skrýt postranní lištu
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rozbalit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sbalit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Zobrazit postranní lištu ({ $shortcut })
+    .label = Postranní lišty
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skrýt postranní lištu ({ $shortcut })
     .label = Postranní lišty

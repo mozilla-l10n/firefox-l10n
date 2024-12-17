@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Flikar från andra enheter
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Stäng fliken på { $deviceName }
+show-sidebars =
+    .tooltiptext = Visa sidopanel
+    .label = Sidofält
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Sidofält
 sidebar-widget-hide-sidebar =
     .tooltiptext = Dölj sidofält
+    .label = Sidofält
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expandera sidofältet ({ $shortcut })
+    .label = Sidofält
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Komprimera sidofältet ({ $shortcut })
+    .label = Sidofält
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Visa sidofält ({ $shortcut })
+    .label = Sidofält
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Dölj sidofält ({ $shortcut })
     .label = Sidofält

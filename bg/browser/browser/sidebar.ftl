@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Раздели от други устройства
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Затваряне на раздела на { $deviceName }
+show-sidebars =
+    .tooltiptext = Показване на странични ленти
+    .label = Странични ленти
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Странични ленти
 sidebar-widget-hide-sidebar =
     .tooltiptext = Скриване на страничната лента
+    .label = Странични ленти
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Разгъване на страничната лента ({ $shortcut })
+    .label = Странични ленти
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Свиване на страничната лента ({ $shortcut })
+    .label = Странични ленти
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Показване на страничната лента ({ $shortcut })
+    .label = Странични ленти
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Скриване на страничната лента ({ $shortcut })
     .label = Странични ленти

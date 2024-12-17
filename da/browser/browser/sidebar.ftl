@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Faneblade fra andre enheder
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Luk fanebladet på { $deviceName }
+show-sidebars =
+    .tooltiptext = Vis sidepaneler
+    .label = Sidepaneler
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Sidepaneler
 sidebar-widget-hide-sidebar =
     .tooltiptext = Skjul sidepanel
+    .label = Sidepaneler
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Udvid sidepanel ({ $shortcut })
+    .label = Sidepaneler
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Sammenfold sidepanel ({ $shortcut })
+    .label = Sidepaneler
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Vis sidepanel ({ $shortcut })
+    .label = Sidepaneler
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Skjul sidepanel ({ $shortcut })
     .label = Sidepaneler

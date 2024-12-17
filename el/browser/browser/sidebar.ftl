@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Κλείσιμο καρτέλας στο «{ $deviceName }»
+show-sidebars =
+    .tooltiptext = Εμφάνιση πλαϊνών γραμμών
+    .label = Πλαϊνές γραμμές
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Πλαϊνές γραμμές
 sidebar-widget-hide-sidebar =
     .tooltiptext = Απόκρυψη πλαϊνής γραμμής
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Εμφάνιση πλαϊνής γραμμής ({ $shortcut })
+    .label = Πλαϊνές γραμμές
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Απόκρυψη πλαϊνής γραμμής ({ $shortcut })
     .label = Πλαϊνές γραμμές

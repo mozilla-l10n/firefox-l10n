@@ -104,6 +104,9 @@ sidebar-menu-customize-label =
 sidebar-menu-review-checker-label =
     .label = Verificadore de retzensiones
 
+## Tooltips for sidebar menu items.
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -129,6 +132,9 @@ sidebar-syncedtabs-title = Ischedas dae àteros dispositivos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Serra s’ischeda in { $deviceName }
+show-sidebars =
+    .tooltiptext = Ammustra is barras laterales
+    .label = Barras laterales
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -143,4 +149,24 @@ sidebar-widget-show-sidebar =
     .label = Barras laterales
 sidebar-widget-hide-sidebar =
     .tooltiptext = Cua sa barra laterale
+    .label = Barras laterales
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Ismànnia sa barra laterale ({ $shortcut })
+    .label = Barras laterales
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Mìnima sa barra laterale ({ $shortcut })
+    .label = Barras laterales
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Ammustra sa barra laterale ({ $shortcut })
+    .label = Barras laterales
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Cua sa barra laterale ({ $shortcut })
     .label = Barras laterales

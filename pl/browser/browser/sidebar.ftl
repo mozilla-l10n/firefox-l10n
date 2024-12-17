@@ -140,6 +140,9 @@ sidebar-syncedtabs-title = Karty z innych urządzeń
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zamknij kartę na „{ $deviceName }”
+show-sidebars =
+    .tooltiptext = Wyświetl panele boczne
+    .label = Panele boczne
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -154,4 +157,24 @@ sidebar-widget-show-sidebar =
     .label = Panele boczne
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ukryj panel boczny
+    .label = Panele boczne
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Rozwiń panel boczny ({ $shortcut })
+    .label = Panele boczne
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Zwiń panel boczny ({ $shortcut })
+    .label = Panele boczne
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Wyświetl panel boczny ({ $shortcut })
+    .label = Panele boczne
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ukryj panel boczny ({ $shortcut })
     .label = Panele boczne

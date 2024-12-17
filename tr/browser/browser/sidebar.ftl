@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Diğer cihazlardaki sekmeler
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } cihazındaki sekmeyi kapat
+show-sidebars =
+    .tooltiptext = Kenar çubuklarını göster
+    .label = Kenar çubukları
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Kenar çubukları
 sidebar-widget-hide-sidebar =
     .tooltiptext = Kenar çubuğunu gizle
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Kenar çubuğunu genişlet ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Kenar çubuğunu daralt ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Kenar çubuğunu göster ({ $shortcut })
+    .label = Kenar çubukları
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Kenar çubuğunu gizle ({ $shortcut })
     .label = Kenar çubukları

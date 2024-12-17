@@ -33,8 +33,8 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = साइडबारहरू देखाउनुहोस्
-    .label = साइडबारहरू
+    .tooltiptext = Bontsha Dibarathoko
+    .label = Dibarathoko
 
 ## Tooltips for the sidebar toolbar widget.
 

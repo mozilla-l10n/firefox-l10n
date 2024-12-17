@@ -129,6 +129,9 @@ sidebar-syncedtabs-title = Iccaren seg ibenkan niḍen
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Mdel iccer ɣef { $deviceName }
+show-sidebars =
+    .tooltiptext = Sken igalisen idisanen
+    .label = Igalisen idisanen
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -140,4 +143,19 @@ sidebar-widget-show-sidebar =
     .label = Igalisen idisanen
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ffer afeggag adisan
+    .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Fneẓ afeggag adisan ({ $shortcut })
+    .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Sken afeggag adisan ({ $shortcut })
+    .label = Igalisen idisanen
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ffer afeggag adisan ({ $shortcut })
     .label = Igalisen idisanen

@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Abas de outros dispositivos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fechar aba em { $deviceName }
+show-sidebars =
+    .tooltiptext = Mostrar painel lateral
+    .label = Painel lateral
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Painel lateral
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ocular painel lateral
+    .label = Painel lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expandir painel lateral ({ $shortcut })
+    .label = Painel lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Recolher painel lateral ({ $shortcut })
+    .label = Painel lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Exibir painel lateral ({ $shortcut })
+    .label = Painel lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ocular painel lateral ({ $shortcut })
     .label = Painel lateral

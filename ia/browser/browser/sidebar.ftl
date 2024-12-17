@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Schedas de altere apparatos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Clauder schedas in { $deviceName }
+show-sidebars =
+    .tooltiptext = Monstrar le barras lateral
+    .label = Barras lateral
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -164,4 +167,24 @@ sidebar-widget-show-sidebar =
     .label = Barras lateral
 sidebar-widget-hide-sidebar =
     .tooltiptext = Celar barra lateral
+    .label = Barras lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expander barra lateral ({ $shortcut })
+    .label = Barras lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Collaber barra lateral ({ $shortcut })
+    .label = Barras lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Monstrar barra lateral ({ $shortcut })
+    .label = Barras lateral
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Celar barra lateral ({ $shortcut })
     .label = Barras lateral

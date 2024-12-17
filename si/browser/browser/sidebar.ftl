@@ -42,6 +42,9 @@ sidebar-menu-close-ai-chatbot-tooltip = AI කතා ක්‍රමලේඛය
 
 ## Context for closing synced tabs when hovering over the items
 
+show-sidebars =
+    .tooltiptext = පැතිතීරු පෙන්වන්න
+    .label = පැති තීරු
 
 ## Tooltips for the sidebar toolbar widget.
 

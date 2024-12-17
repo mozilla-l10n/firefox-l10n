@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tab dari perangkat lain
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tutup tab di { $deviceName }
+show-sidebars =
+    .tooltiptext = Tampilkan bilah samping
+    .label = Bilah Samping
 
 ## Tooltips for the sidebar toolbar widget.
 
@@ -165,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Sembunyikan bilah samping
     .label = Bilah samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Bentangkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Ciutkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Tampilkan bilah sisi ({ $shortcut })
+    .label = Bilah Samping
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Sembunyikan bilah samping ({ $shortcut })
+    .label = Bilah Samping
