@@ -39,3 +39,9 @@ sync-setup-verify-heading = Sync에 가입하시겠습니까?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 다른 사용자가 이전에 이 컴퓨터에서 Sync에 로그인한 적이 있습니다. 로그인하면 이 브라우저의 북마크, 비밀번호 및 기타 설정이 { $email } 사용자와 병합됩니다.
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = 이 프로필이 계정 한도에 도달함
+sync-profile-different-account-header = 이 프로필은 이전에 다른 계정에 동기화됨

@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name }가 새 가리기를 생성할 수 없습니다. HTTP 오류 코드: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name }가 재사용 가능한 가리기를 찾을 수 없습니다. HTTP 오류 코드: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name }를 사용하려면 { -fxaccount-brand-name }에 로그인해야 합니다.
 firefox-relay-must-login-to-account = { -relay-brand-name } 이메일 가리기를 사용하려면 계정에 로그인하세요.
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 나중에
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = 계정은 더 많은 개인 정보 보호 제품에 대한 접근을 잠금 해제합니다. 이메일 가리기로 전송된 모든 이메일은 차단하지 않는 한 실제 이메일 주소로 전달됩니다.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = { -brand-product-name }에 로그인하고 가리기 사용
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = 가입
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = 다시 표시 안 함
@@ -51,6 +53,10 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = 나중에
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +81,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 이메일 가리기로 스팸으로부터 보호
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 주소를 숨겨 스팸으로부터 보호하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보내는 메일은 계속 일반 받은 편지함으로 받으며, 실제 주소는 가려집니다.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = 이메일 가리기를 생성하면, <label data-l10n-name="tos-url">이용 약관</label>및 <label data-l10n-name="privacy-url">개인정보처리방침</label>에 동의하는 것입니다.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = 다음
     .accesskey = N
