@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Flikar från andra enheter
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Stäng fliken på { $deviceName }
+show-sidebars =
+    .tooltiptext = Visa sidopanel
+    .label = Sidofält
 
 ## Tooltips for the sidebar toolbar widget.
 
