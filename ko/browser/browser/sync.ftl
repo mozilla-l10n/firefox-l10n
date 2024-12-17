@@ -45,3 +45,14 @@ sync-setup-verify-description = 다른 사용자가 이전에 이 컴퓨터에�
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = 이 프로필이 계정 한도에 도달함
 sync-profile-different-account-header = 이 프로필은 이전에 다른 계정에 동기화됨
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = 데이터를 체계적이고 안전하게 유지하기 위해, 각 { -brand-product-name } 프로필은 하나의 계정에서만 동기화할 수 있습니다. { $acctEmail } 이메일을 사용하여 로그인하려면, 새 프로필을 만드세요.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = 프로필이 다른 계정으로 동기화됨
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = 데이터를 체계적이고 안전하게 유지하려면, { $acctEmail } 이메일을 사용하여 로그인할 새 프로필을 만드는 것이 좋습니다. 이 프로필에서 계속 동기화를 선택하면 두 계정의 데이터가 “{ $profileName }” 프로필에서 영구적으로 병합됩니다.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = 이미 사용 중인 계정
