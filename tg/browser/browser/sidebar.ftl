@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Варақаҳо аз дастгоҳҳои дигар
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Пӯшидани варақа дар «{ $deviceName }»
+show-sidebars =
+    .tooltiptext = Намоиш додани наворҳои ҷонибӣ
+    .label = Наворҳои ҷонибӣ
 
 ## Tooltips for the sidebar toolbar widget.
 
