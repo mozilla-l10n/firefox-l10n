@@ -650,9 +650,9 @@ urlbar-result-action-search-bookmarks = Sök i bokmärken
 urlbar-result-action-search-history = Sök i historik
 urlbar-result-action-search-tabs = Sök i flikar
 urlbar-result-action-search-actions = Sökåtgärder
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = Öppna { $group }
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Byt till { $group }
 
 ## Labels shown above groups of urlbar results
 

@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Använd en webbläsare som stöds av en
 mr2022-onboarding-get-started-primary-subtitle = Vår senaste version är byggd runt dig, vilket gör det enklare än någonsin att surfa runt på webben. Den är fullproppad med funktioner som vi tror att du kommer att älska.
 mr2022-onboarding-get-started-primary-button-label = Konfigurera på några sekunder
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Blixtsnabb konfiguration
 mr2022-onboarding-import-subtitle = Ställ in { -brand-short-name } som du vill. Lägg till dina bokmärken, lösenord och mer från din gamla webbläsare.
@@ -430,3 +432,8 @@ onboarding-checklist-pin = Fäst { -brand-short-name } i aktivitetsfältet
 onboarding-checklist-import = Importera från tidigare webbläsare
 onboarding-checklist-extension = Lägg till ett tillägg
 onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röran, mer fokus
+tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.
