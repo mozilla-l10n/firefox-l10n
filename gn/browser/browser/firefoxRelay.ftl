@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Emo’ã ñanduti veve kundaharape:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
 firefox-relay-use-mask-title = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Emboyke spam ñanduti veve rovamo’ãha reigua ndive
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Eñomi ñanduti veve kundaharape ha’etéva
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Ereko ñanduti veve rovamo’ãha reigua
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Emo’ã ñanduti veve g̃uahẽha spam-gui
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Eiporu ñanduti veve rovamo’ãha
     .accesskey = U
