@@ -148,6 +148,9 @@ sidebar-syncedtabs-title = Faner frå andre einingar
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Lat att fana på { $deviceName }
+show-sidebars =
+    .tooltiptext = Vis sidestolpar
+    .label = Sidestolpar
 
 ## Tooltips for the sidebar toolbar widget.
 
