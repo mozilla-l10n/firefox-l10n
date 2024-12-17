@@ -122,6 +122,8 @@ sidebar-menu-open-bookmarks-tooltip = Отваряне на отметките (
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Затваряне на отметките ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Отваряне на AI чатбот
+sidebar-menu-close-ai-chatbot-tooltip = Затваряне на AI чатбот
 
 ## Headings for sidebar menu panels.
 
@@ -151,3 +153,15 @@ synced-tabs-context-close-tab-title =
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = Разгъване на страничната лента
+    .label = Странични ленти
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = Свиване на страничната лента
+    .label = Странични ленти
+sidebar-widget-show-sidebar =
+    .tooltiptext = Показване на страничната лента
+    .label = Странични ленти
+sidebar-widget-hide-sidebar =
+    .tooltiptext = Скриване на страничната лента
+    .label = Странични ленти
