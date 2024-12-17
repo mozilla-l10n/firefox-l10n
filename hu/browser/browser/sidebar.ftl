@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Oldalsáv elrejtése
     .label = Oldalsávok
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Oldalsáv kibontása ({ $shortcut })
+    .label = Oldalsávok
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Oldalsáv összecsukása ({ $shortcut })
+    .label = Oldalsávok
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Oldalsáv megjelenítése ({ $shortcut })
+    .label = Oldalsávok
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Oldalsáv elrejtése ({ $shortcut })
+    .label = Oldalsávok
