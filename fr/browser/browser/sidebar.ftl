@@ -182,9 +182,9 @@ sidebar-widget-collapse-sidebar2 =
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
     .tooltiptext = Afficher le panneau latéral ({ $shortcut })
-    .label = Panneau latéral
+    .label = Panneaux latéraux
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Masquer le panneau latéral ({ $shortcut })
-    .label = Panneau latéral
+    .label = Panneaux latéraux
