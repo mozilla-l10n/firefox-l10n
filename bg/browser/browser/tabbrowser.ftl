@@ -239,3 +239,14 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Готово
     .accessKey = о
+tab-context-reopen-tab-group =
+    .label = Възстановяване на група от раздели
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [one] Премахване от група
+           *[other] Премахване от групи
+        }
+    .accesskey = г
