@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Басқа құрылғылардан беттер
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } құрылғыдағы бетті жабу
+show-sidebars =
+    .tooltiptext = Бүйір панельдерін көрсету
+    .label = Бүйір панельдер
 
 ## Tooltips for the sidebar toolbar widget.
 
