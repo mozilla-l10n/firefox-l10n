@@ -59,7 +59,7 @@ sync-account-in-use-header = Konto so hižo wužiwa
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } je hižo pola profila “{ $otherProfile }” přizjewjena
-sync-account-in-use-description = Na tutym ličaku móžeće tute konto z jenož jednym profil zwjazać.
+sync-account-in-use-description = Na tutym ličaku móžeće tute konto z jenož jednym profilom zwjazać.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Tute konto je hižo při druhim profilu přizjewjene. Wobaj profilej synchronizować?
 # Variables:

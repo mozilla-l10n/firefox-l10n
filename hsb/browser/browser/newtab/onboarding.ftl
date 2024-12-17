@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Wužiwajće wobhladowak, kotryž so wot
 mr2022-onboarding-get-started-primary-subtitle = Naša najnowša wersija je wokoło was natwarjena, kotraž wam lóšo hdy do toho čini, web přehladować. Je połny funkcijow, wo kotrychž sej myslimy, zo so wam spodobaja.
 mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Błyskospěšna instalacija
 mr2022-onboarding-import-subtitle = Zarjadujće { -brand-short-name }, kak so wam spodoba. Přidajće swoje zapołožki, hesła a wjace ze swojeho stareho wobhladowaka.
@@ -431,3 +433,7 @@ onboarding-checklist-pin = Připniće { -brand-short-name } k nadawkowej lajsće
 onboarding-checklist-import = Z předchadneho wobhladowaka importować
 onboarding-checklist-extension = Rozšěrjenje přidać
 onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho konta
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Wupruwujće skupiny rajtarkow za mjenje njeporjada a wjace fokusa
