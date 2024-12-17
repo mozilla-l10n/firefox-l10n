@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = ‏{ -relay-brand-name } לא הצליח לייצר מסכה חדשה. קוד שגיאה HTTP: ‏{ $status }.
 firefox-relay-get-reusable-masks-failed = ‏{ -relay-brand-name } לא הצליח למצוא מסכות הניתנות לשימוש חוזר. קוד שגיאה HTTP: ‏{ $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = עליך להתחבר אל { -fxaccount-brand-name } כדי להשתמש ב־{ -relay-brand-name }.
 firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כדי להשתמש במסכות הדוא״ל שלך ב־{ -relay-brand-name }.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = לא כעת
     .accesskey = כ
-firefox-relay-offer-what-fxa-and-relay-provides = החשבון מעניק לך גישה לעוד מוצרים המגנים על הפרטיות. כל הודעות הדוא״ל הנשלחות למסכות הדוא״ל שלך יועברו לכתובת הדוא״ל האמיתית שלך (אלא אם תבחר לחסום אותם).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = כניסה אל { -brand-product-name } ושימוש במסכה
     .accesskey = כ
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = הרשמה
+    .accesskey = ה
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = לא להציג הודעה זו שוב
     .accesskey = ל
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = לא כעת
     .accesskey = א
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = תחילה, יש להירשם או להתחבר לחשבון שלך כדי להשתמש במסכת דוא״ל
+firefox-relay-offer-legal-notice-control = ההרשמה ויצירת מסכת דוא״ל מהוות הסכמה ל<label data-l10n-name="tos-url">תנאי השירות</label> <label data-l10n-name="privacy-url">ולהצהרת הפרטיות</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = הגנה מפני דואר זבל בעזרת מסיכת דוא״ל
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = ניתן להגן מפני דואר זבל על־ידי הסתרת כתובת הדוא״ל האמיתית שלך בעזרת <label data-l10n-name="firefox-relay-learn-more-url">מסיכת דוא״ל</label>. עדיין יתקבלו הודעות דוא״ל <label data-l10n-name="firefox-fxa-and-relay-offer-domain">מאתר זה</label> בדואר הנכנס הרגיל שלך, כשהכתובת שלך ממוסכת.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = תחילה, יש להירשם או להתחבר לחשבון שלך כדי להשתמש במסיכת דוא״ל
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = יצירת מסיכת דוא״ל מהווה הסכמה ל<label data-l10n-name="tos-url">תנאי השירות</label> ול<label data-l10n-name="privacy-url">הצהרת הפרטיות</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = הבא
     .accesskey = ה

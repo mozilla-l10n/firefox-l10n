@@ -388,3 +388,8 @@ onboarding-checklist-pin = הצמדת { -brand-short-name } לשורת המשי�
 onboarding-checklist-import = ייבוא מהדפדפן הקודם
 onboarding-checklist-extension = הוספת הרחבה
 onboarding-checklist-sign-up = הרשמה או התחברות לחשבון שלך
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = ניתן לנסות קבוצות לשוניות עבור עומס מופחת וקבלת מיקוד טוב יותר
+tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בבלאגן על־ידי גרירת לשונית אחת על גבי לשונית אחרת כדי ליצור את הקבוצה הראשונה שלך.
