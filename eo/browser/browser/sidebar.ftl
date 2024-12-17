@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Langetoj el aliaj aparatoj
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Fermi langeton en { $deviceName }
+show-sidebars =
+    .tooltiptext = Montri flankajn striojn
+    .label = Flankaj strioj
 
 ## Tooltips for the sidebar toolbar widget.
 
