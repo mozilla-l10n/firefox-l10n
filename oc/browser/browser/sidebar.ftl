@@ -115,6 +115,9 @@ sidebar-menu-close-bookmarks-tooltip = Tampar los marcapaginas ({ $shortcut })
 
 ## Context for closing synced tabs when hovering over the items
 
+show-sidebars =
+    .tooltiptext = Afichar los panèls laterals
+    .label = Panèl lateral
 
 ## Tooltips for the sidebar toolbar widget.
 
