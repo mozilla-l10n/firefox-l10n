@@ -45,7 +45,7 @@ genai-prompts-explain =
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = Коректура
-    .value = { "" }
+    .value = Провери избрания текст за правописни и граматически грешки. Посочи всички грешки и предостави текста с нанесените поправки. Запази смисъла и фактическата точност като изведеш първо списъка с предложените поправки, последван от окончателната, коригирана версия на текста.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -54,7 +54,7 @@ genai-prompt-prefix-selection = Аз съм на страница „{ $tabTitle
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Попитайте AI chatbot
+    .label = Попитайте AI чатбота
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Попитайте { $provider }
