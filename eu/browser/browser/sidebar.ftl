@@ -146,3 +146,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Ezkutatu alboko barra
     .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Zabaldu alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Tolestu alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Erakutsi alboko barra ({ $shortcut })
+    .label = Alboko barrak
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ezkutatu alboko barra ({ $shortcut })
+    .label = Alboko barrak
