@@ -168,3 +168,23 @@ sidebar-widget-show-sidebar =
 sidebar-widget-hide-sidebar =
     .tooltiptext = Бүйір панелін жасыру
     .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Бүйір панелін жазық қылу ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Бүйір панелін бүктеу ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Бүйір панелін көрсету ({ $shortcut })
+    .label = Бүйір панельдер
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Бүйір панелін жасыру ({ $shortcut })
+    .label = Бүйір панельдер
