@@ -19,6 +19,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Изтриване от историята
+sidebar-history-sort-by-date =
+    .label = Сортиране по дата
+sidebar-history-sort-by-site =
+    .label = Сортиране по страница
+sidebar-history-clear =
+    .label = Изчистване на историята
 
 ## Labels for sidebar search
 
@@ -50,6 +56,8 @@ sidebar-context-menu-report-extension =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = Изтриване от историята
 
 ## Labels for sidebar menu items.
 
@@ -78,6 +86,7 @@ sidebar-menu-syncedtabs-header =
 
 ## Titles for sidebar menu panels.
 
+sidebar-history-title = История
 
 ## Context for closing synced tabs when hovering over the items
 
