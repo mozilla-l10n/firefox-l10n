@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Karty z ďalších zariadení
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zavrieť kartu v zariadení { $deviceName }
+show-sidebars =
+    .tooltiptext = Zobrazí bočne panely
+    .label = Bočné panely
 
 ## Tooltips for the sidebar toolbar widget.
 
