@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Schedas de altere apparatos
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Clauder schedas in { $deviceName }
+show-sidebars =
+    .tooltiptext = Monstrar le barras lateral
+    .label = Barras lateral
 
 ## Tooltips for the sidebar toolbar widget.
 
