@@ -20,11 +20,17 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Отваряне на меню за { $extensionName }
+unified-extensions-item-message-manage = Управление на разширението
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = Разширението { $extensionName } нарушава правилата на Mozilla. Използването му може да бъде рисковано.
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Закачане на лентата
+unified-extensions-context-menu-manage-extension =
+    .label = Управление на разширението
 unified-extensions-context-menu-remove-extension =
     .label = Премахване на разширението
 unified-extensions-context-menu-report-extension =
@@ -36,6 +42,8 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Някои разширения не са позволени
+unified-extensions-mb-quarantined-domain-message = С цел защита на данните на страницата са позволени само някои наблюдавани от { -vendor-short-name } разширения.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Някои разширения не са позволени

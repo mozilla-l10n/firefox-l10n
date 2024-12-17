@@ -1003,6 +1003,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Разширения
+    .tooltiptext =
+        Разширения
+        Някои разширения са изключени
 
 ## Private browsing reset button
 
