@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Zavihki z drugih naprav
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Zapri zavihek na napravi { $deviceName }
+show-sidebars =
+    .tooltiptext = Prikaži stranske vrstice
+    .label = Stranske vrstice
 
 ## Tooltips for the sidebar toolbar widget.
 
