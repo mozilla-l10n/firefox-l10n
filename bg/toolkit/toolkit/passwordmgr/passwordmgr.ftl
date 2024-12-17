@@ -5,12 +5,25 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Запазване на паролата за { $host }?
 password-manager-save-password-button-deny =
     .label = Не сега
     .accesskey = Н
 password-manager-save-password-button-allow =
     .label = Запазване
     .accesskey = а
+password-manager-save-password-button-never =
+    .label = Никога
+    .accesskey = и
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Обновяване на паролата за { $host }?
+password-manager-update-password-button-delete =
+    .label = Премахване на запазената парола
+    .accesskey = П
+password-manager-update-login-add-username = Добавяне на потребител към запазена парола?
 password-manager-password-password-button-allow =
     .label = Обновяване
     .accesskey = О
