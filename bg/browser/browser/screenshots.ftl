@@ -5,6 +5,8 @@
 screenshot-toolbarbutton =
     .label = Екранна снимка
     .tooltiptext = Направете снимка на екрана
+screenshot-shortcut =
+    .key = s
 screenshots-instructions = За да изберете участък влачете или щракнете с мишката в страницата. Натиснете ESC за отказ.
 screenshots-cancel-button = Отказ
 screenshots-save-visible-button = Запазване на видимата област

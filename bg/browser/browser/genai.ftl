@@ -28,11 +28,11 @@ genai-settings-chat-shortcuts =
 
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
-    .label = Обобщи това
+    .label = Обобщение
     .value = Моля, обобщи избора, като ползваш точни и кратки изрази. Използвай заглавки и неномерирани списъци за по-лесно възприемане. Придържай се към смисъла и фактическата точност.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
-    .label = Опрости езика
+    .label = Опростяване на изразите
     .value = Моля, перифразирай избора използвайки кратки изречения и прости думи. Придържай се към смисъла и фактическата точност.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
@@ -40,8 +40,12 @@ genai-prompts-quiz =
     .value = Мола, изпитайте ме на този избор. Попитайте ме различни въпроси - с няколко отговора, истина или лъжа или нещо просто. Изчакайте моя отговор, преди да преминете на следващия въпрос.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = Обясни това
+    .label = Обяснение
     .value = Моля, обясни ми основните положения в избрания текст използвайки прости думи и изрази. Добави и примери.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Коректура
+    .value = { "" }
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -89,7 +93,7 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
-genai-onboarding-primary = Продължи
+genai-onboarding-primary = Напред
 genai-onboarding-secondary = Затваряне
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
@@ -97,6 +101,9 @@ genai-onboarding-claude-learn = Научете повече за Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Научете повече за ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Научете повече за Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Научете повече за Gemini
@@ -122,6 +129,5 @@ genai-onboarding-gemini-generate = Генериране на текст, изо�
 genai-onboarding-gemini-analyze = Анализиране на изображения (безплатно) и документи (платено)
 genai-onboarding-gemini-price = Безплатни и платени опции; изисква се профил
 genai-onboarding-huggingchat-generate = Генериране на текст и код
-genai-onboarding-huggingchat-price = Безплатно; необходим е профил за някои задачи
 genai-onboarding-lechat-generate = Генериране на текст и код
 genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил
