@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Вкладки з інших пристроїв
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Закрити вкладку на { $deviceName }
+show-sidebars =
+    .tooltiptext = Показати бічні панелі
+    .label = Бічні панелі
 
 ## Tooltips for the sidebar toolbar widget.
 
