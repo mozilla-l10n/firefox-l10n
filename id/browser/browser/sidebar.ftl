@@ -150,6 +150,9 @@ sidebar-syncedtabs-title = Tab dari perangkat lain
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = Tutup tab di { $deviceName }
+show-sidebars =
+    .tooltiptext = Tampilkan bilah samping
+    .label = Bilah Samping
 
 ## Tooltips for the sidebar toolbar widget.
 
