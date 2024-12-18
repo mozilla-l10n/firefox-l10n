@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } 無法產生新的轉寄信箱。HTTP 錯誤代碼：{ $status }。
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } 無法找到可重複使用的轉寄信箱。HTTP 錯誤代碼：{ $status }。
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = 必須登入 { -fxaccount-brand-name } 才可以使用 { -relay-brand-name }。
 firefox-relay-must-login-to-account = 登入帳號即可使用您的 { -relay-brand-name } 轉寄信箱。
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 現在不要
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = 註冊帳號後，可解鎖更多保護隱私的產品。可將所有寄送到您轉寄信箱的郵件，轉寄到您的實際信箱（不想再收到的時候即可封鎖）。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = 登入 { -brand-product-name } 並使用轉寄信箱
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = 註冊
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = 不要再顯示此訊息
@@ -51,6 +53,10 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = 現在不要
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = 首先註冊或登入帳號，即可使用轉寄信箱
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +81,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 使用轉寄信箱，防止垃圾信
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = 使用<label data-l10n-name="firefox-relay-learn-more-url">轉寄信箱</label>保護您的實際信箱，防止收到垃圾信。您還是可收到來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，但會隱藏您的實際信箱。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 首先註冊或登入帳號，即可使用轉寄信箱
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = 若建立轉寄信箱，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = 下一步
     .accesskey = N
