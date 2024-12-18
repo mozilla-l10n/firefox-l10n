@@ -38,3 +38,13 @@ fxa-menu-sync-description = Eike ne ñandutiroguépe oimehágui
 sync-setup-verify-continue = Ku’ejey
 sync-setup-verify-title = Kyhyjerã jehe’agua
 sync-setup-verify-heading = Remoñepyrũsépa tembiapo embojuehe hag̃ua
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Ehupytýma hu’ã ko mba’etépe g̃uarã
+sync-profile-different-account-header = Ko mba’ete oñembojuehe ñepyrũrã mba’ete ambuéva ndive
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Mba’ete oñembojuehe ñepyrũrã mba’ete ambuéva ndive
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Mba’ete ojeporúmava

@@ -5,6 +5,9 @@
 profile-window-title = { -brand-short-name } - Eiporavo poruhára mba’ete
 profile-window-heading = Eiporavo poruhára mba’ete { -brand-short-name }
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Eiporavo mba’ete ijurujávo { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Ehechauka kóva ijurujávo { -brand-short-name }
 profile-window-create-profile = Emoheñói mba’ete
@@ -42,8 +45,9 @@ new-profile-page-input-placeholder =
     .placeholder = Eiporavo téra “Mba’apo” térã “Tapichaite”
 new-profile-page-done-button =
     .label = Emohu’ã mbasako’i
+profile-window-title-2 = { -brand-short-name } - Eiporavo mba’ete
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -60,6 +64,9 @@ delete-profile-bookmarks = Techaukahakuéra
 delete-profile-history = Tembiasakue (kuatiarogue eikehague, kookie, tenda mba’ekuaarã)
 delete-profile-autofill = Mba’ekuaarã myanyhẽrã (kundaharape, ñehepyme’ẽrã)
 delete-profile-logins = Ñe’ẽñemikuéra
+
+##
+
 # Button label
 delete-profile-cancel = Heja
 # Button label
