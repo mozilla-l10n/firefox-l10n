@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-pro
 mr2022-onboarding-get-started-primary-subtitle = Us lêste ferzje is om jo hinne boud, wêrtroch it makliker is dan ea om op it web te sneupen. It is fol mei funksjes wêrfan wy tinke dat jo se wurdearje sille.
 mr2022-onboarding-get-started-primary-button-label = Ynstelle yn in pear tellen
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Bliksemfluch ynstelle
 mr2022-onboarding-import-subtitle = Stel { -brand-short-name } yn sa as jo dat graach wolle. Foegje jo blêdwizers, wachtwurden en mear ta fan jo âlde browser.
@@ -431,3 +433,8 @@ onboarding-checklist-pin = { -brand-short-name } oan de taakbalke fêstmeitsje
 onboarding-checklist-import = Ymportearje út foarige browser
 onboarding-checklist-extension = In útwreiding tafoegje
 onboarding-checklist-sign-up = Registrearje of oanmelde by jo account
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar minder rommel, mear fokus
+tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.

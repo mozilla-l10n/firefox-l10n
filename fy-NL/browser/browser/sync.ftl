@@ -43,3 +43,14 @@ sync-setup-verify-heading = Binne jo wis dat jo jo oanmelde wolle om te syngroni
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = In oare brûker wie earder op dizze kompjûter oanmeld om te syngronisearjen. Oanmelde sil de blêdwizers, wachtwurden en oare ynstellingen fan dizze browser byinoar foegje mei dy fan { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Accountlimyt berikt foar dit profyl
+sync-profile-different-account-header = Dit profyl is earder mei in oar account syngronisearre
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Om jo gegevens organisearre en feilich te hâlden, kin elk { -brand-product-name }-profyl mar mei ien account syngronisearre wurde. Meitsje in nij profyl oan om oan te melden mei { $acctEmail }.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profyl mei oare account syngronisearre
