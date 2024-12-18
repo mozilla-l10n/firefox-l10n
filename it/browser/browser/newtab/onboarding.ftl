@@ -440,3 +440,12 @@ onboarding-checklist-sign-up = Registrati o accedi al tuo account
 
 tab-groups-onboarding-feature-callout-title = Prova i gruppi di schede per ridurre il disordine e aumentare la concentrazione.
 tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra un'altra per creare il tuo primo gruppo.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Dai il benvenuto ai profili di { -brand-product-name }
+multi-profile-spotlight-body = Passa facilmente dalla navigazione per lavoro a quella di tutti i giorni. I profili mantengono le tue informazioni relative alla navigazione, incluse la cronologia delle ricerche e le password, completamente separate, aiutandoti a mantenere organizzata la tua vita online.
+multi-profile-spotlight-cta = Crea un profilo
+multi-profile-callout-title = Crea profili diversi per lavoro e divertimento
+multi-profile-callout-subtitle = I profili ti consentono di mantenere le informazioni relative alla navigazione, come la cronologia delle ricerche e le password, completamente separate.
+multi-profile-callout-cta = Crea un profilo
