@@ -46,8 +46,12 @@ sync-setup-verify-description = Κάποιος άλλος χρήστης έχε�
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Έχετε φτάσει το όριο λογαριασμών για αυτό το προφίλ
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ο λογαριασμός χρησιμοποιείται ήδη
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Αυτός ο λογαριασμός έχει συνδεθεί σε άλλο προφίλ. Συγχρονισμός και των δύο προφίλ;
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Εναλλαγή σε «{ $profileName }»
