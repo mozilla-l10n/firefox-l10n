@@ -500,6 +500,13 @@ pdfjs-editor-undo-bar-message-highlight = Η επισήμανση αφαιρέθ
 pdfjs-editor-undo-bar-message-freetext = Το κείμενο αφαιρέθηκε
 pdfjs-editor-undo-bar-message-ink = Το σχέδιο αφαιρέθηκε
 pdfjs-editor-undo-bar-message-stamp = Η εικόνα αφαιρέθηκε
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] Αφαιρέθηκε { $count } σχολιασμός
+       *[other] Αφαιρέθηκαν { $count } σχολιασμοί
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = Αναίρεση
 pdfjs-editor-undo-bar-undo-button-label = Αναίρεση

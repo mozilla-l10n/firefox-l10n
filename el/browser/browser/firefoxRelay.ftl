@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Το { -relay-brand-name } δεν μπόρεσε να δημιουργήσει νέα μάσκα. Κωδικός σφάλματος HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = Το { -relay-brand-name } δεν μπόρεσε να βρει επαναχρησιμοποιήσιμες μάσκες. Κωδικός σφάλματος HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Πρέπει να συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας για να χρησιμοποιήσετε το { -relay-brand-name }.
 firefox-relay-must-login-to-account = Συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε τις μάσκες email του { -relay-brand-name }.
@@ -33,12 +33,19 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Όχι τώρα
     .accesskey = χ
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Εγγραφή
+    .accesskey = Ε
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Να μην εμφανιστεί ξανά
     .accesskey = Ν
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Όχι τώρα
     .accesskey = χ
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
 
 ## The "basic-info" variation of the Relay offer popup
 

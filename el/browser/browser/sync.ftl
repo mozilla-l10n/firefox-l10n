@@ -43,3 +43,16 @@ sync-setup-verify-heading = Θέλετε σίγουρα να κάνετε σύν
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Κάποιος άλλος χρήστης έχει ήδη κάνει σύνδεση για συγχρονισμό σε αυτόν τον υπολογιστή. Αν πραγματοποιήσετε σύνδεση, θα συγχωνευθούν οι σελιδοδείκτες, οι κωδικοί πρόσβασης και οι υπόλοιπες ρυθμίσεις του προγράμματος περιήγησης με το { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Ο λογαριασμός χρησιμοποιείται ήδη
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Εναλλαγή σε «{ $profileName }»
+sync-button-create-profile = Δημιουργία νέου προφίλ
+sync-button-sync-and-merge = Συγχρονισμός και συγχώνευση δεδομένων
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Συγχρονισμός του «{ $profileName }»

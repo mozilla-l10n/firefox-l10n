@@ -18,6 +18,7 @@ about-glean-interface-description =
     από προγραμματιστές και δοκιμαστές.
 about-glean-category-about-glean = Σχετικά με το { -glean-brand-name }
 about-glean-category-manual-testing = Χειροκίνητη δοκιμή
+about-glean-category-adhoc-testing = Δοκιμή Ad Hoc
 about-glean-category-profiler = Χρήση του εργαλείου προφίλ
 about-glean-category-about-data = Σχετικά με τα δεδομένα
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
