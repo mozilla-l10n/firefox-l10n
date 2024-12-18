@@ -213,7 +213,9 @@ mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發
 mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = 設定光速快
 mr2022-onboarding-import-subtitle = 根據您的喜好來設定 { -brand-short-name }。可從您的舊瀏覽器匯入書籤、密碼與更多資料。
@@ -418,3 +420,8 @@ onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工具列
 onboarding-checklist-import = 從先前使用的瀏覽器匯入資料
 onboarding-checklist-extension = 新增擴充套件
 onboarding-checklist-sign-up = 註冊或登入帳號
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂、更能專注
+tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。

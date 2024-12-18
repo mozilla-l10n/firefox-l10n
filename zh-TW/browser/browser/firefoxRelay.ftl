@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = 首先註冊或登入帳號，即可使用轉寄信箱
+firefox-relay-offer-legal-notice-control = 若註冊並建立轉寄信箱，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
 
 ## The "basic-info" variation of the Relay offer popup
 
