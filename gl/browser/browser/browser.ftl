@@ -572,6 +572,11 @@ urlbar-result-action-search-w-engine = Buscar con { $engine }
 urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Cambiar á lapela
 urlbar-result-action-visit = Visitar
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Cambiar á lapela · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar desde o portapapeis
 # Directs a user to press the Tab key to perform a search with the specified
@@ -607,6 +612,17 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Buscar con { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Buscar { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Buscar con { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Escolle un buscador
 urlbar-searchmode-bookmarks =
     .label = Marcadores
 urlbar-searchmode-tabs =
@@ -619,6 +635,9 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Pechar
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings = Axustes da busca
+urlbar-searchmode-button-no-engine =
+    .label = Non seleccionaches ningún atallo, escolle un atallo
+    .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -628,9 +647,9 @@ urlbar-result-action-search-bookmarks = Buscar nos marcadores
 urlbar-result-action-search-history = Buscar no historial
 urlbar-result-action-search-tabs = Buscar nas lapelas
 urlbar-result-action-search-actions = Accións de busca
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = Abrir { $group }
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -657,6 +676,10 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendencia en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Non mostrar tendencias de busca
+    .accesskey = N
 
 ## Reader View toolbar buttons
 
@@ -962,6 +985,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Extensións
+    .tooltiptext =
+        Extensións
+        Algunhas extensións están deshabilitadas
 
 ## Private browsing reset button
 
@@ -1002,6 +1030,7 @@ firefox-relay-offer-legal-notice = Ao premer en “Usar máscara de correo”, v
 popup-notification-addon-install-unsigned =
     .value = (Sen comprobar)
 popup-notification-xpinstall-prompt-learn-more = Aprenda máis sobre a instalación de complementos de forma segura
+popup-notification-xpinstall-prompt-block-url = Ver detalles
 
 ## Pop-up warning
 

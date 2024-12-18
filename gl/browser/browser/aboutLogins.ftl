@@ -276,6 +276,19 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Retirar { $count } contrasinal?
        *[other] Retirar { $count } contrasinais?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Isto eliminará o contrasinal gardado en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
+        [one] Isto eliminará o contrasinal gardado en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
+       *[other] Isto eliminará os contrasinais gardados en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Retirar { $count } contrasinal de todos os dispositivos?
+       *[other] Retirar { $count } contrasinais de todos os dispositivos?
+    }
 
 ##
 

@@ -16,3 +16,5 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Pecha as lapelas duplicadas
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Pecha todas as lapelas duplicadas
+all-tabs-menu-synced-tabs =
+    .label = As lapelas doutros dispositivos
