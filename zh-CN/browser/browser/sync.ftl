@@ -39,3 +39,9 @@ sync-setup-verify-heading = 您确定要登录同步服务吗？
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 先前有另外的用户在此计算机上登录过同步服务。若继续同步，将与 { $email } 合并此浏览器的书签、密码等设置
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = 已达到此配置文件的账户数量限制
+sync-profile-different-account-header = 此配置文件先前已同步到另一个账户

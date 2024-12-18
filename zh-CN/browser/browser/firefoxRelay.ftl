@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } 无法生成新马甲。 HTTP 错误代码：{ $status }。
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } 无法找到可重复使用的马甲。HTTP 错误代码：{ $status }。
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = 您须登录 { -fxaccount-brand-name }才能使用 { -relay-brand-name }。
 firefox-relay-must-login-to-account = 登录账户以使用您的 { -relay-brand-name } 马甲邮箱。
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = 暂时不要
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = 登录账户，解锁更多保护隐私的产品。发送到马甲邮箱的所有邮件都会转发到您的真实邮箱地址（除非您选择拦截）。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = 登录 { -brand-product-name } 并使用马甲邮箱
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = 注册
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = 不再显示
@@ -51,6 +53,11 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = 暂时不要
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = 请先注册或登录账户，以使用马甲邮箱
+firefox-relay-offer-legal-notice-control = 注册和创建马甲邮箱，即表示您同意我们的<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = 使用马甲邮箱，免受垃圾邮件侵扰
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = 使用<label data-l10n-name="firefox-relay-learn-more-url">马甲邮箱</label>，隐藏真实邮箱地址，免受垃圾邮件侵扰。您可在掩藏真实邮箱地址的情况下，正常接收<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此网站</label>发来的邮件。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = 请先注册或登录账户，以使用马甲邮箱
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = 创建马甲邮箱即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = 下一步
     .accesskey = N
