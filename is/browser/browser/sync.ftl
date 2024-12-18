@@ -43,3 +43,13 @@ sync-setup-verify-heading = Ertu viss um að þú viljir skrá þig inn í Sync?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Annar notandi á þessari tölvu var áður skráður inn. Ef þú skráir þig inn verða bókamerki, lykilorð og aðrar stillingar sameinaðar við { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Reikningur er þegar í notkun
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Skipta yfir í „{ $profileName }“
+sync-button-create-profile = Búa til nýtt notkunarsnið
+sync-button-sync-and-merge = Samstilla og sameina gögn

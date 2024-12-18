@@ -117,6 +117,12 @@ newtab-menu-delete-pocket = Eyða úr { -pocket-brand-name }
 newtab-menu-archive-pocket = Safna í { -pocket-brand-name }
 newtab-menu-show-privacy-info = Styrktaraðilar okkar og friðhelgi þín
 newtab-menu-about-fakespot = Um { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Loka á
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Hætta að fylgjast með viðfangsefni
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -446,3 +452,8 @@ newtab-topic-selection-button-maybe-later = Kannski seinna
 newtab-topic-selection-privacy-link = Sjáðu hvernig við verndum og stjórnum gögnum
 newtab-topic-selection-button-update-interests = Uppfærðu áhugamálin þín
 newtab-topic-selection-button-pick-interests = Veldu áhugamálin þín
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
