@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ndojejapói tovamo’ãha pyahu. HTTP ayvu jejavy: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ndojuhúi tovamo’ãha pyahu. HTTP ayvu jejavy: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Emoñepyrũ tembiapo { -fxaccount-brand-name }-pe eiporu hag̃ua { -relay-brand-name }.
 firefox-relay-must-login-to-account = Eñepyrũ tembiapo mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha { -relay-brand-name }.
@@ -44,6 +44,9 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Eñepyrũ tembiapo { -brand-product-name }-pe eiporu tovamo’ãha
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Eñemboheraguapy
+    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Anive ehechauka
     .accesskey = D
@@ -51,9 +54,15 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ani ko’ág̃a
     .accesskey = N
 
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
+firefox-relay-offer-legal-notice-control = Eikévo térã emoheñóivo ñanduti veve rovamo’ãha”, emoneĩ ko’ã <label data-l10n-name="tos-url">Mba’epytyvõrã ñemboguata</label> ha <label data-l10n-name="privacy-url">Ñemigua marandu’i</label>.
+
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Emboyke spam ñanduti veve rovamo’ãha reigua ndive
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Eñemboheraguapy
     .accesskey = S
@@ -61,6 +70,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ereko ñanduti veve rovamo’ãha reigua
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eñemboheraguapy
     .accesskey = S
@@ -68,6 +78,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Emo’ã spam ñanduti veve rovamo’ãha reigua ndive
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Upeigua
     .accesskey = N

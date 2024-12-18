@@ -653,9 +653,9 @@ urlbar-result-action-search-bookmarks = Eheka techaukahápe
 urlbar-result-action-search-history = Eheka tembiasakuépe
 urlbar-result-action-search-tabs = Eheka tendayke
 urlbar-result-action-search-actions = Eheka tembiaporã
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = Embojuruja { $group }
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Emoambue { $group }-pe
 
 ## Labels shown above groups of urlbar results
 
