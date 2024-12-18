@@ -71,3 +71,5 @@ text-action-spell-dictionaries =
     .accesskey = Е
 text-action-search-text-box-clear =
     .title = Изчистване
+text-action-highlight-selection =
+    .label = Открояване на избраното
