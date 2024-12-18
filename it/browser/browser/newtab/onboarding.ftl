@@ -439,7 +439,7 @@ onboarding-checklist-sign-up = Registrati o accedi al tuo account
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Prova i gruppi di schede per ridurre il disordine e aumentare la concentrazione.
-tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra un'altra per creare il tuo primo gruppo.
+tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra un’altra per creare il tuo primo gruppo.
 
 ## Multi Profiles feature onboarding messages
 
