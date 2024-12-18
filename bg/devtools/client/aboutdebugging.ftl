@@ -256,7 +256,7 @@ about-debugging-worker-scope =
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
-    .label = Услуга на Push
+    .label = Услугата Push
 # Displayed for service workers in runtime pages, to label the origin of a worker.
 about-debugging-worker-origin =
     .label = Произход
