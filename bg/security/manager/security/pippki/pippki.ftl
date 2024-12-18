@@ -20,7 +20,7 @@ pippki-pw-change-ok = Паролата е успешно сменена.
 pippki-pw-empty-warning = Запазените пароли и частните ключове няма да бъдат защитени.
 pippki-pw-erased-ok = Изтрихте паролата си. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Внимание! Решихте да не използвате парола. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = В момента работи режим FIPS. Той изисква непразна парола.
+pippki-pw-change2empty-in-fips-mode = В момента сте в режим на FIPS. FIPS изисква непразна парола.
 
 ## Reset Primary Password dialog
 

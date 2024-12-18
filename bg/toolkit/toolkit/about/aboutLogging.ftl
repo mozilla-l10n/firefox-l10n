@@ -2,8 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logging-current-log-file = Текущ журнал:
-about-logging-log-tutorial = Вижте <a data-l10n-name="logging">Журнали на HTTP</a> за инструкции как да използвате този инструмент.
+# This is the title of the page
+about-logging-title = Относно дневника
+about-logging-page-title = Управление на дневници
+about-logging-current-log-file = Текущ дневник:
+about-logging-new-log-file = Нов файл за дневник:
+about-logging-currently-enabled-log-modules = Включени модули на дневника:
+about-logging-log-tutorial = Вижте <a data-l10n-name="logging">Дневник на HTTP</a> за инструкции как да използвате този инструмент.
 about-logging-set-log-file = Задаване на файлове за журнала
 about-logging-set-log-modules = Задаване на модули за журнала
 about-logging-start-logging = Започване

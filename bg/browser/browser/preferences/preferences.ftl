@@ -963,7 +963,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = { "" }
-forms-primary-pw-fips-title = В момента сте в режим на FIPS. FIPS изисква главна парола.
+forms-primary-pw-fips-title = В момента сте в режим на FIPS. FIPS изисква непразна главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
 forms-windows-sso =
     .label = Позволява еднократно вписване от Windows за профили в Microsoft, за работа и за училище
