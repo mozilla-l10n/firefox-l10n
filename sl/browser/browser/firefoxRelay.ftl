@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ni mogel ustvariti nove maske. Koda napake HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ni mogel najti mask za večkratno uporabo. Koda napake HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Za uporabo { -relay-brand-name(sklon: "rodilnik") } se morate prijaviti v { -fxaccount-brand-name(sklon: "tozilnik") }.
 firefox-relay-must-login-to-account = Za uporabo e-poštnih mask { -relay-brand-name } se prijavite v račun.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne zdaj
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = Račun odklene dostop do več izdelkov, ki ščitijo zasebnost. Vsa sporočila, poslana na vaše e-poštne maske, bodo posredovana na vaš pravi e-poštni naslov (razen če se jih odločite blokirati).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Prijavi se v { -brand-product-name } in uporabi masko
     .accesskey = j
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registracija
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne prikazuj več
     .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ne zdaj
     .accesskey = z
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Najprej se registrirajte ali prijavite v svoj račun za uporabo e-poštne maske
+firefox-relay-offer-legal-notice-control = Z registracijo in ustvaritvijo e-poštne maske se strinjate s <label data-l10n-name="tos-url">pogoji uporabe</label> in z <label data-l10n-name="privacy-url">obvestilom o zasebnosti</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaščitite se pred neželeno pošto z masko e-pošte
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaščitite se pred neželeno pošto, tako da skrijete svoj pravi naslov z <label data-l10n-name="firefox-relay-learn-more-url">masko e-pošte</label>. Sporočila s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tega spletnega mesta</label> boste še vedno prejemali v običajni nabiralnik, le da bo vaš naslov zamaskiran.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Najprej se registrirajte ali prijavite v svoj račun za uporabo maske e-pošte
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Z ustvaritvijo e-poštne maske se strinjate s <label data-l10n-name="tos-url">pogoji uporabe</label> in z <label data-l10n-name="privacy-url">obvestilom o zasebnosti</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Naprej
     .accesskey = N
