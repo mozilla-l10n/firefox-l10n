@@ -653,6 +653,9 @@ urlbar-result-action-search-actions = Cerca nelle azioni
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = Passa a { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Apri { $group }
 
 ## Labels shown above groups of urlbar results
 
