@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Primero, regístrese o inicie sesión en su cuenta para usar una máscara de correo electrónico
+firefox-relay-offer-legal-notice-control = Al iniciar sesión y crear  una máscara de correo electrónico, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y la <label data-l10n-name="privacy-url">Nota de privacidad</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

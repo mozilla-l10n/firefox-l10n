@@ -43,3 +43,14 @@ sync-setup-verify-heading = ¿Está seguro de querer iniciar sesión para sincro
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un usuario diferente ya ingresó previamente para sincronizar en esta computadora. Iniciar sesión mezclará los marcadores, contraseñas y otra configuración de este navegador con { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Límite de cuenta alcanzado para este perfil
+sync-profile-different-account-header = Este perfil se sincronizó previamente con una cuenta diferente
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Para mantener los datos organizados y seguros, cada perfil de { -brand-product-name } solo se puede sincronizar con una cuenta. Para iniciar sesión usando { $acctEmail }, se debe crear un nuevo perfil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Perfil sincronizado con una cuenta diferente
