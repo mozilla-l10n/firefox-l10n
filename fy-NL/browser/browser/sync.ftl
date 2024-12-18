@@ -54,3 +54,29 @@ sync-profile-different-account-header = Dit profyl is earder mei in oar account 
 sync-profile-different-account-description = Om jo gegevens organisearre en feilich te hâlden, kin elk { -brand-product-name }-profyl mar mei ien account syngronisearre wurde. Meitsje in nij profyl oan om oan te melden mei { $acctEmail }.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profyl mei oare account syngronisearre
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Om jo gegevens organisearre en feilich te hâlden, riede wy oan in nij profyl oan te meitsjen om jo oan te melden mei { $acctEmail }. As jo kieze om troch te gean mei syngronisearjen op dit profyl, wurde gegevens fan beide accounts permanint gearfoege op ‘{ $profileName }’.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Account al yn gebrûk
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } is al oanmeld by it profyl ‘{ $otherProfile }’
+sync-account-in-use-description = Jo kinne dizze account mar oan ien profyl op dizze kompjûter keppelje.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Dizze account is oanmeld by in oar profyl. Beide profilen syngronisearje?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } is oanmeld by it profyl ‘{ $otherProfile }’ op dizze kompjûter. Syngronisearjen fan it profyl ‘{ $currentProfile }’ sil gegevens fan beide profilen, lykas wachtwurden en blêdwizers permanint kombinearje.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Wikselje nei ‘{ $profileName }’
+sync-button-create-profile = In nij profyl oanmeitsje
+sync-button-sync-and-merge = Gegevens syngronisearje en gearfoegje
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = ‘{ $profileName }’ syngronisearje
