@@ -47,3 +47,10 @@ sync-profile-different-account-title = 已达到此配置文件的账户数量�
 sync-profile-different-account-header = 此配置文件先前已同步到另一个账户
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = 配置文件已同步至其他账户
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = 切换到“{ $profileName }”
+sync-button-create-profile = 创建新配置文件
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = 同步“{ $profileName }”
