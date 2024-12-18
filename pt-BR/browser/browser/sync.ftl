@@ -43,3 +43,24 @@ sync-setup-verify-heading = Tem certeza que quer entrar na conta para sincroniza
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Outro usuário entrou na conta para sincronizar neste computador. Se você entrar na sua conta, irá misturar favoritos, senhas e outras configurações deste navegador com { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-profile-different-account-header = Este perfil foi sincronizado anteriormente com outra conta
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Conta já está em uso
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } já está conectado no perfil “{ $otherProfile }”
+sync-account-in-use-description = Você só pode associar esta conta a um perfil neste computador.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Esta conta está conectada a outro perfil. Sincronizar ambos os perfis?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Mudar para “{ $profileName }”
+sync-button-create-profile = Criar novo perfil
+sync-button-sync-and-merge = Sincronizar e mesclar dados
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronizar “{ $profileName }”
