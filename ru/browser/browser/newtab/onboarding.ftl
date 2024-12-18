@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Используйте браузер, 
 mr2022-onboarding-get-started-primary-subtitle = Наша последняя версия создана специально для вас, что делает путешествия по Интернету проще, чем когда-либо. Она наполнена функциями, которые, как мы думаем, вам понравятся.
 mr2022-onboarding-get-started-primary-button-label = Настроить за считанные секунды
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Молниеносная настройка
 mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } так, как вам нравится. Добавьте свои закладки, пароли и многое другое из старого браузера.
@@ -430,3 +432,7 @@ onboarding-checklist-pin = Закрепите { -brand-short-name } на пан�
 onboarding-checklist-import = Импорт из предыдущего браузера
 onboarding-checklist-extension = Добавить расширение
 onboarding-checklist-sign-up = Зарегистрируйтесь или войдите в свой аккаунт
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Попробуйте группы вкладок — меньше беспорядка, больше внимания
