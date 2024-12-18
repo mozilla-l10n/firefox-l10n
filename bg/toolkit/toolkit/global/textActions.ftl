@@ -21,7 +21,7 @@ text-action-copy =
     .label = Копиране
     .accesskey = К
 text-action-copy-shortcut =
-    .key = п
+    .key = C
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
