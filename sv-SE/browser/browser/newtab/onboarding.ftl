@@ -435,5 +435,5 @@ onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röran, mer fokus
+tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röra, mer fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.

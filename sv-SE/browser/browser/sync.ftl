@@ -47,7 +47,7 @@ sync-setup-verify-description = En annan användare var tidigare inloggad för a
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge
-sync-profile-different-account-title = Antalet antal konton har nåtts för denna profil
+sync-profile-different-account-title = Kontogränsen har nåtts för den här profilen
 sync-profile-different-account-header = Den här profilen har tidigare synkroniserats till ett annat konto
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
