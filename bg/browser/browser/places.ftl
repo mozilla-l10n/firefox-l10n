@@ -121,6 +121,18 @@ places-delete-bookmark =
            *[other] Изтриване на отметки
         }
     .accesskey = И
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [one] Отмятане на страница…
+           *[other] Отмятане на страници…
+        }
+    .accesskey = м
+places-untag-bookmark =
+    .label = Премахване на етикета
+    .accesskey = е
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У

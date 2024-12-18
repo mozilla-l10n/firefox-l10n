@@ -74,6 +74,7 @@ protections-panel-site-not-working-view-issue-list-forms = Формуляри
 protections-panel-site-not-working-view-issue-list-payments = Плащания
 protections-panel-site-not-working-view-issue-list-comments = Коментари
 protections-panel-site-not-working-view-issue-list-videos = Видео
+protections-panel-site-not-working-view-issue-list-fonts = Шрифтове
 protections-panel-site-not-working-view-send-report = Докладване
 
 ##
@@ -112,10 +113,20 @@ protections-panel-cookie-banner-view-turn-off-for-site = Изключване н
 protections-panel-cookie-banner-view-turn-on-for-site = Включване на намаляването на банерите за бисквитки за страницата?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Включване на скриването на банери за бисквитки за страницата?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ще изчисти бисквитките на този сайт и ще опресни страницата. Изчистването на всички бисквитки може да доведе до излизането ви от профила или да изпразни пазарските колички, ако имате такива на отворени страници.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } се опитва автоматично да отхвърли всички заявки за бисквитки на поддържаните сайтове.
+protections-panel-cookie-banner-view-cancel = Отказ
+protections-panel-cookie-banner-view-turn-off = Изключване
 protections-panel-cookie-banner-view-turn-on = Включване
 protections-panel-cookie-banner-blocker-view-turn-on-description = Включете и { -brand-short-name } ще опита автоматично да откаже банерите за бисквитки на този сайт.
+protections-panel-cookie-banner-view-cancel-label =
+    .label = Отказ
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Изключване
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Включване
+protections-panel-report-broken-site =
+    .label = Съобщаване за неработеща страница
+    .title = Съобщаване за неработеща страница
 
 ## Protections panel info message
 

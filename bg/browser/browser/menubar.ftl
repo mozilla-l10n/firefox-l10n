@@ -256,6 +256,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Профили
+menu-profiles-manage-profiles =
+    .label = Управление на профили
+menu-profiles-new-profile =
+    .label = Нов профил
 
 ## Tools Menu
 
