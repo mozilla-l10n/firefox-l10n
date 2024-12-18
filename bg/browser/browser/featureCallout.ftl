@@ -46,8 +46,23 @@ callout-pdfjs-draw-button = Разбрах!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Затворихте раздела без да искате?
+fx-view-discoverability-subtitle = Намерете и го отворете бързо тук. Пазим история на скоро затворените раздели.
+fx-view-discoverability-primary-button-label = Отваряне на { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Прекратяване
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Без повторно показване на препоръката
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = По-малко препоръки
 # Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Управление на настройките
+split-dismiss-button-manage-settings-option-label = Настройки
+
+## Sidebar Strings
+
+sidebar-button-callout-title = Заглавия на разделите в страничната лента
+
+## Sidebar Callout Survey Strings
+
