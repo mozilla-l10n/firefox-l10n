@@ -41,10 +41,26 @@ about-logging-preset-networking-http3-description = Модули за диагн
 about-logging-preset-networking-http3-upload-speed-label = скорост на изпращане по HTTP/3
 about-logging-preset-networking-http3-upload-speed-description = Модули за диагностика на проблеми със скоростта на изпращане по HTTP/3
 about-logging-preset-media-playback-label = Възпроизвеждане на медия
+about-logging-preset-media-playback-description = Модули за диагностика на проблеми с възпроизвеждането на медия (не проблеми с видеоконферентната връзка)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Модули за диагностика на проблеми с обажданията по WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули за диагностика на проблеми с WebGPU
+about-logging-preset-gfx-label = Графика
+about-logging-preset-gfx-description = Модули за диагностика на проблеми с графиката
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Модули за диагностика на проблеми, специфични за Microsoft Windows
+about-logging-preset-custom-label = По избор
+about-logging-preset-custom-description = Ръчно избрани модули
+# Error handling
+about-logging-error = Грешка:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Неприемлива стойност „{ $v }“ за ключа „{ $k }“
+about-logging-configuration-url-ignored = Адресът с настройки е пренебрегнат
+about-logging-file-and-profiler-override = Не може принудително да бъде изведен дневника във файл и едновременно с това да бъдат налагани нови настройки на профилатора
+about-logging-configured-via-url = Настройката е зададена чрез адрес
