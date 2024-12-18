@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Страницата е попра
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Строга
+    .label = Строга
+protections-popup-footer-protection-label-custom = По избор
+    .label = По избор
+protections-popup-footer-protection-label-standard = Стандартно
+    .label = Стандартно
 
 ##
 
@@ -28,14 +34,25 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Подобрена защита от проследяване
+    .description = Включено за страницата
+    .aria-label = Разширена защита от проследяване: включена за { $host }
+protections-panel-etp-toggle-off =
+    .label = Подобрена защита от проследяване
+    .description = Изключено за страницата
+    .aria-label = Разширена защита от проследяване: изключена за { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Защо?
 protections-panel-not-blocking-why-etp-on-tooltip = Ограничаването им може да наруши елементи на някои страници. Без проследяване някои бутони, формуляри и полета за вход може да не работят.
+protections-panel-not-blocking-why-etp-off-tooltip = Всички проследяващи елементи на страницата са заредени, защото защитата е изключена.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Ограничаването им може да наруши елементи на някои страници. Без проследяване някои бутони, формуляри и полета за вход може да не работят.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Всички проследяващи елементи на страницата са заредени, защото защитата е изключена.
 
 ##
 
@@ -57,6 +74,7 @@ protections-panel-not-found-label = Липсващи
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } спира проследяващо съдържание, докато сте в страницата, освен ако не го разрешите.
 
 ##
 
@@ -85,6 +103,8 @@ protections-panel-fingerprinters = Компаниите, които снемат
 protections-panel-tracking-content = Страниците могат да зареждат външни реклами, видеоклипове и друго съдържание с проследяващ код. Ограничаването на проследяващо съдържание може да помогне на сайтовете да се зареждат по-бързо, но някои бутони, формуляри и полета за вход може да не работят.
 protections-panel-social-media-trackers = Социалните мрежи поставят проследяващи елементи на други страници, за да следят какво правите, виждате и гледате онлайн. Това позволява на компаниите за социални медии да научат повече за вас отвъд това, което споделяте във вашите профили.
 protections-panel-description-shim-allowed-learn-more = Научете повече
+protections-panel-shim-allowed-indicator =
+    .tooltiptext = Проследяването е частично разрешено
 protections-panel-content-blocking-manage-settings =
     .label = Настройки на защитите
     .accesskey = н
@@ -105,12 +125,21 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Намаляване на банерите за бисквитки
+protections-panel-cookie-banner-blocker-header = Блокиране на банери за бисквитки
+protections-panel-cookie-banner-handling-enabled = Включено за страницата
+protections-panel-cookie-banner-handling-disabled = Изключено за страницата
+protections-panel-cookie-banner-handling-undetected = Страницата не се поддържа
 protections-panel-cookie-banner-view-title =
     .title = Намаляване на банерите за бисквитки
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Изключване на намаляването на банерите за бисквитки за { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Включване на намаляването на банерите за бисквитки за страницата?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Блокиране на банери за бисквитки
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Изключване на скриването на банери за бисквитки за { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Включване на скриването на банери за бисквитки за страницата?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ще изчисти бисквитките на този сайт и ще опресни страницата. Изчистването на всички бисквитки може да доведе до излизането ви от профила или да изпразни пазарските колички, ако имате такива на отворени страници.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } се опитва автоматично да отхвърли всички заявки за бисквитки на поддържаните сайтове.
