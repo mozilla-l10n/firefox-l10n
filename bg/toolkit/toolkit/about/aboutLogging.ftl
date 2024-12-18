@@ -61,6 +61,9 @@ about-logging-error = Грешка:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Неприемлива стойност „{ $v }“ за ключа „{ $k }“
+about-logging-unknown-logging-preset = Неизвестна настройка на дневника „{ $v }“
+about-logging-unknown-profiler-preset = Неизвестна настройка на профилатора „{ $v }“
+about-logging-unknown-option = Неизвестна настройка на about:logging „{ $v }“
 about-logging-configuration-url-ignored = Адресът с настройки е пренебрегнат
 about-logging-file-and-profiler-override = Не може принудително да бъде изведен дневника във файл и едновременно с това да бъдат налагани нови настройки на профилатора
 about-logging-configured-via-url = Настройката е зададена чрез адрес
