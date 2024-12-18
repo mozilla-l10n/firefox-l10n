@@ -127,6 +127,7 @@ delete-user-cert-impact = Ако изтриете някой от вашите �
 delete-ssl-override-title =
     .title = Изтриване на изключение за сертификат на сървър
 delete-ssl-override-confirm = Желаете ли изключението за сървър да бъде изтрито?
+delete-ssl-override-impact = Ако изключението за сървър бъде премахнато, възстановявате проверките по безопасността за сървъра и изискването за действителен сертификат.
 delete-ca-cert-title =
     .title = Изтриване или премахване на доверие от сертификати на CA
 delete-ca-cert-confirm = Поискахте да изтриете тези сертификати на CA. При вградените сертификати цялото доверие ще бъде премахнато, което има същият ефект. Сигурни ли сте, че искате да изтриете или премахнете доверието?
@@ -141,8 +142,12 @@ delete-email-cert-impact = Ако изтриете сертификат на е-
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Сертификат със сериен номер: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Не е изпратен клиентски сертификат
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Несъхраняван)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Недостъпно)
 
 ## Used to show whether an override is temporary or permanent
 
