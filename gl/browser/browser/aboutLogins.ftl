@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Vaia a Configuración > Sincronizar > Ac
 login-intro-instructions-fxa-passwords-help = Visite a <a data-l10n-name="passwords-help-link">asistencia sobre contrasinais</a> para máis axuda.
 about-logins-intro-browser-only-import = Se as súas credenciais están gardadas noutro navegador, pode <a data-l10n-name="import-link">importalas en { -brand-product-name }</a>
 about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link">importalos desde outro navegador</a> ou <a data-l10n-name="import-file-link">dun ficheiro</a>
+about-logins-intro-import3 = Selecciona o botón do signo máis que está arriba para engadir un contrasinal agora. Tamén podes <a data-l10n-name="import-browser-link">importar contrasinais doutro navegador</a> ou <a data-l10n-name="import-file-link">desde un ficheiro</a> a>.
 
 ## Login
 
@@ -125,6 +126,10 @@ about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Enderezo do sitio web
 login-item-tooltip-message = Asegúrese de que isto coincide co enderezo exacto do sitio web onde iniciou a sesión.
 about-logins-origin-tooltip2 = Introduza o enderezo completo e asegúrese de que coincide exactamente coa que usa para inicia sesión.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Asegúrate de gardar o teu contrasinal actual para este sitio. Cambiar o contrasinal aquí non o cambia en { $webTitle }.
+about-logins-add-password-tooltip = Asegúrate de gardar o teu contrasinal actual para este sitio.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de usuario
@@ -168,6 +173,15 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar o seu inicio de
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar o inicio de sesión gardado
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiar a configuración para os contrasinais
+       *[other] { -brand-short-name } está tentando cambiar a configuración dos contrasinais. Usa o teu dispositivo para iniciar sesión para permitir isto.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Para editar o teu contrasinal, introduce as túas credenciais de inicio de sesión de Windows. Isto axuda a protexer a seguridade das túas contas.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editar o contrasinal gardado
@@ -186,6 +200,8 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportar os seus 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar sesións e contrasinais gardados
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Para exportar os teus contrasinais, introduce as túas credenciais de inicio de sesión de Windows. Isto axuda a protexer a seguridade das túas contas.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportar contrasinais gardados
@@ -246,6 +262,19 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Isto elimina o inicio de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
         [one] Isto elimina todos os inicios  de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
        *[other] Isto elimina todos os inicios de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Si, elimina o contrasinal
+        [one] Si, elimina o contrasinal
+       *[other] Si, elimina os contrasinais
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Retirar { $count } contrasinal?
+       *[other] Retirar { $count } contrasinais?
     }
 
 ##
