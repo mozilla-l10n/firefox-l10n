@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } klarte ikkje å generere ei ny maske. HTTP-feilkode: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } klarte ikkje å finne masker som kan brukast på nytt. HTTP-feilkode: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for å bruke { -relay-brand-name }.
 firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -relay-brand-name } e-postmaskene dine.
@@ -33,12 +33,18 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikkje no
     .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registrer deg
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ikkje vis meg dette meir
     .accesskey = m
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ikkje no
     .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
 
 ## The "basic-info" variation of the Relay offer popup
 
