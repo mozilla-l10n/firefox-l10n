@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’ai
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> ndorekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’eporúpe <strong>overflow:hidden</strong> ndahekói rupi.
+inactive-css-no-size-containment = <strong>{ $property }</strong> ndoguerekói mba’evete ko mba’eporúpe imbyatyha henyhẽ’ỹva.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ndojapói mba’eve mba’eporu tabla ryepyguáre.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’eporu tabla ryepyguáre oiko’ỹva tabla kora’ípe.
 inactive-css-not-table = <strong>{ $property }</strong> ndojapói mba’eve ko mba’eporúpe ndaha’éire tabla.
@@ -58,8 +59,13 @@ inactive-css-resize = <strong>{ $property }</strong> ndoguerekói mba’evéicha
 inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’eporúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ojokupyty mba’eporugua’u ndive ::cue.
