@@ -45,3 +45,8 @@ sync-setup-verify-heading = Ali ste prepričani, da se želite prijaviti v sinhr
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računalniku prijavljen drug uporabnik. Ob prijavi se bodo zaznamki, gesla in druge nastavitve na tem brskalniku dodale k računu { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Račun je že v uporabi
