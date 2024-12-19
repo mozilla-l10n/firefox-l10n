@@ -122,16 +122,22 @@ login-item-copied-username-button-text = പകർത്തി!
 login-item-password-label = രഹസ്യവാക്ക്
 login-item-password-reveal-checkbox =
     .aria-label = രഹസ്യവാക്ക് കാണിയ്ക്കുക
+login-item-password-conceal-checkbox =
+    .aria-label = രഹസ്യവാക്ക് ഒളിപ്പിക്കുക
 login-item-copy-password-button-text = പകര്‍ത്തുക
 login-item-copied-password-button-text = പകർത്തി!
 login-item-save-changes-button = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
-login-item-save-new-button = സൂക്ഷിക്കുക
+about-logins-login-item-save-changes-button = കരുതിവയ്ക്കുക
+login-item-save-new-button = കരുതിവയ്ക്കുക
 login-item-cancel-button = റദ്ദാക്കുക
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = ഉണ്ടാക്കിയതു്
+login-item-timeline-action-updated = പുതുച്ചതു്
+login-item-timeline-action-used = ഉപയോഗിച്ചതു്
 
 ## OS Authentication dialog
 
@@ -140,6 +146,18 @@ login-item-cancel-button = റദ്ദാക്കുക
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = കരുതിവച്ച പ്രവേശിക്കൽ തിരുത്തുക
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = കരുതിവച്ച രഹസ്യവാക്കു് തിരുത്തുക
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = കരുതിവച്ച രഹസ്യവാക്കു് കാണിക്കുക
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = കരുതിവച്ച രഹസ്യവാക്കു് പകർത്തുക
 
 ## Primary Password notification
 
@@ -154,6 +172,10 @@ confirmation-dialog-dismiss-button =
     .title = റദ്ദാക്കുക
 about-logins-confirm-remove-dialog-title = ഈ പ്രവേശനം നീക്കം ചെയ്യണോ?
 confirm-delete-dialog-message = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = രഹസ്യവാക്കു് മായ്ക്കുക?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = താങ്ങൾക്കു് ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ്യുക
 
 ## Variables
@@ -175,6 +197,7 @@ confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്ക�
 
 about-logins-breach-alert-title = വെബുസ്ഥാന ലംഘനം
 breach-alert-text = നിങ്ങളുടെ ലോഗിൻ വിശദാംശങ്ങൾ‌ അവസാനമായി അപ്‌ഡേറ്റുചെയ്‌തതുമുതൽ‌ ഈ വെബ്‌സൈറ്റിൽ‌ നിന്നും പാസ്‌വേഡുകൾ‌ ചോർത്തപ്പെടുകയോ മോഷ്‌ടിക്കപ്പെടുകയോ ചെയ്‌തു. നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിക്കുന്നതിന് പാസ്‌വേഡ് മാറ്റുക.
+about-logins-breach-alert-date = ഈ ലംഘനം സംഭവിച്ച സമയം { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } എന്നതിലേക്ക് പോവുക
@@ -242,6 +265,9 @@ about-logins-import-dialog-done = ചെയ്തു
 about-logins-import-dialog-error-title = ഇറക്കുമതി പിശക്
 about-logins-import-dialog-error-file-format-title = ഫയൽ ഘടനപ്രശ്നം
 about-logins-import-dialog-error-file-permission-title = ഫയൽ വായിക്കാൻ കഴിയുന്നില്ല
+about-logins-import-dialog-error-learn-more = കൂടുതല്‍ അറിയുക
+about-logins-import-dialog-error-try-import-again = വീണ്ടും ഇറക്കുമതി  ചെയ്യാൻ ശ്രമിക്കുക...
+about-logins-import-dialog-error-cancel = റദ്ദാക്കുക
 
 ##
 ## Variables:
