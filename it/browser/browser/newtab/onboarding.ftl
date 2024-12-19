@@ -392,6 +392,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = L’ho utilizzato in pas
 onboarding-new-tabs-title = Scegli dove preferisci tenere le tue schede
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Puoi cambiare idea in qualsiasi momento nelle impostazioni della barra laterale.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Le tue schede, a modo tuo
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Tieni sempre aperte molte schede? Prova a spostarle a lato per una visualizzazione più snella. Oppure mantieni la versione classica con le schede in alto. Puoi cambiare idea in qualsiasi momento.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Scegli la disposizione delle schede
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Per una visualizzazione più snella che può aiutarti a rimanere concentrato, prova a spostare le schede a lato. Oppure mantieni la versione classica con le schede in alto. Puoi cambiare idea in qualsiasi momento.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Schede a lato
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
