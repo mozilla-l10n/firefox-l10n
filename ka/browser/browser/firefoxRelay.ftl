@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ვერ ახერხებს ახალი ნიღბის შედგენას. HTTP-შეცდომის კოდი: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ვერ ახერხებს განმეორებით გამოყენებადი ნიღბის პოვნას. HTTP-შეცდომის კოდი: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = უნდა შეხვიდეთ { -fxaccount-brand-name(case: "ins") }, რომ გამოიყენოთ { -relay-brand-name }.
 firefox-relay-must-login-to-account = შედით ანგარიშზე, რომ გამოიყენოთ { -relay-brand-name } თქვენი ელფოსტის შესანიღბად.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ახლა არა
     .accesskey = ა
-firefox-relay-offer-what-fxa-and-relay-provides = ანგარიში გზას გაგიხსნით პირადულობის უზურნველმყოფ მეტ საშუალებამდე. ელფოსტის ნიღბით მიღებული ყველა წერილი გადამისამართდება თქვენს ნამდვილ ელფოსტაზე (თუ თავად არ შეზღუდავთ).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = შედით და გამოიყენეთ ნიღაბი, რომელსაც გთავაზობთ { -brand-product-name }
     .accesskey = ე
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = ანგარიშის შექმნა
+    .accesskey = ქ
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = მომავალში ჩვენების გარეშე
     .accesskey = მ
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ახლა არა
     .accesskey = ა
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = ჯერ შექმენით ანგარიში ან შედით, რომ გამოიყენოთ ელფოსტის ნიღაბი
+firefox-relay-offer-legal-notice-control = ანგარიშისა და ელფოსტის ნიღბის შექმნით ეთანხმებით <label data-l10n-name="tos-url">მომსახურების პირობებსა</label> და <label data-l10n-name="privacy-url">პირადულობის განაცხადს</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = აირიდეთ ჯართი ელფოსტის უფასო ნიღბით.
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = აირიდეთ ჯართი ნამდვილი მისამართის დაფარვით, გამოიყენეთ <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღაბი</label>.  წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ იმავე საფოსტო ყუთში, მაგრამ თქვენი მისამართი შეინიღბება.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = ჯერ შექმენით ანგარიში ან შედით, რომ გამოიყენოთ ელფოსტის ნიღაბი
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = ელფოსტის ნიღბის შექმნით ეთანხმებით <label data-l10n-name="tos-url">მომსახურების პირობებსა</label> და <label data-l10n-name="privacy-url">პირადულობის განაცხადს</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = შემდეგ
     .accesskey = ე

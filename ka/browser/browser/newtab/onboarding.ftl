@@ -433,3 +433,8 @@ onboarding-checklist-pin = მიამაგრეთ { -brand-short-name } ა
 onboarding-checklist-import = გადმოტანა წინა ბრაუზერიდან
 onboarding-checklist-extension = გაფართოების დამატება
 onboarding-checklist-sign-up = შექმენით ან შედით ანგარიშზე
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
+tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
