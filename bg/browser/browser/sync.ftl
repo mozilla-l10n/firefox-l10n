@@ -35,3 +35,7 @@ sync-setup-verify-continue = Продължаване
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = За да запазите данните си организирани и защитени, препоръчваме да създадете нов потребителски профил, в който да влизате чрез { $actEmail }. Ако изберете да продължите синхронизирането в този потребителски профил, данните и от двата профила ще бъдат завинаги обединени в „{ $profileName }“.

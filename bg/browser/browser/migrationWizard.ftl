@@ -55,6 +55,12 @@ migration-imported-edge-reading-list = Списък за четене (от Edge
 migration-no-permissions-message = { -brand-short-name } няма достъп до профилите на другите браузъри, инсталирани на това устройство.
 migration-no-permissions-instructions = За да продължите да внасяте данни от друг мрежов четец, разрешете на { -brand-short-name } достъп до папката на потребителския му профил.
 migration-no-permissions-instructions-step1 = Изберете „Продължаване“
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = В инструмента за избор на файлове отворете <code>{ $permissionsPath }</code> и изберете „Избиране“.
 
 ## These strings will be displayed based on how many resources are selected to import
 
