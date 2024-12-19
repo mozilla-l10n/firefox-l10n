@@ -53,3 +53,13 @@ sync-account-in-use-header = Mba’ete ojeporúmava
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } oñepyrũma tembiapo “{ $otherProfile }” mba’etépe
 sync-account-in-use-description = Ko mba’ete ojuajukuaa pe mba’etee ndive ko mohendahápe añónte.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Ko mba’ete oñepyrũ tembiapo ambue mba’eteépe. ¿Embojuehe mokõivéva mba’etee?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Emombue “{ $profileName }”-pe
+sync-button-create-profile = Emoheñói mba’etee pyahu
+sync-button-sync-and-merge = Embojuehe ha embojuaju mba’ekuaarã
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Embojuehe “{ $profileName }”
