@@ -81,6 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = Emoneĩ { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Tapykuehoha ha tetepy { $trackername } ombotypyre
+smartblock-placeholder-desc = Ne ñemoĩporã { -brand-short-name } rehegua omboyke ko tetepy nde rapykuehóvo heta tendápe térã ojeporúvo mba’eñemurã.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Emoneĩ { $websitehost }-pe
 
