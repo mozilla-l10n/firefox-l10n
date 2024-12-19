@@ -287,6 +287,7 @@ tail-fox-spotlight-secondary-button = Ҳоло не
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Аз санаи 14 январи соли 2025 сар карда, версияҳои куҳнаи браузери «{ -brand-short-name }» метавонанд бо мушкилиҳо кор кунанд.</strong>
 root-certificate-succession-infobar-link = Чаро ба ман навсозӣ лозим аст?
 root-certificate-succession-infobar-primary-button =
     .label = Ҳозир навсозӣ кунед
