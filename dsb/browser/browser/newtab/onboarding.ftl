@@ -437,3 +437,4 @@ onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójog
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mjenjej njepórěda a wěcej fokusa
+tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.

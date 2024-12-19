@@ -51,6 +51,9 @@ sync-setup-verify-description = Drugi wužywaŕ jo se do togo na toś tom licadl
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Kontowy limit jo se dostał za toś ten profil
 sync-profile-different-account-header = Toś ten profil jo se do togo synchronizěrował z drugim kontom
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Organizěrujśo swóje daty wěsće, kuždy profil { -brand-product-name } móžo se jano z jadnym kontom synchronizěrowaś. Aby se z pomocu { $acctEmail } pśizjawił, napórajśo nowy profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil jo se synchronizěrował do drugego konta
 # Dialog 2 - account signed in on another profile without option to merge
