@@ -107,6 +107,8 @@ login-intro-description = നിങ്ങളുടെ ലോഗിനുകൾ �
 ## Login
 
 login-item-new-login-title = പുതിയ ലോഗിൻ സൃഷ്ടിക്കുക
+# Header for adding a password
+about-logins-login-item-new-login-title = രഹസ്യവാക്കു് ചേർക്കുക
 login-item-edit-button = തിരുത്തുക
 about-logins-login-item-remove-button = നീക്കുക
 login-item-origin-label = വെബ്സൈറ്റ് വിലാസം
@@ -160,16 +162,30 @@ about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ
 
 ##
 
+about-logins-confirm-export-dialog-title = പ്രവേശിക്കലുകളും രഹസ്യവാക്കുകളും കയറ്റുമതിക്കുക.
+about-logins-confirm-export-dialog-confirm-button = കയറ്റുമതി ചെയ്യുക…
+about-logins-confirm-export-dialog-title2 = രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുന്നതിനെക്കുറിച്ചു് ഒരു കുറിപ്പ്
+about-logins-alert-import-title = ഇറക്കുമതി കഴിഞ്ഞു
+about-logins-alert-import-message = വിശദമായ ഇറക്കുമതി ചുരുക്കം കാണുക
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.
 confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്കുക
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = വെബുസ്ഥാന ലംഘനം
 breach-alert-text = നിങ്ങളുടെ ലോഗിൻ വിശദാംശങ്ങൾ‌ അവസാനമായി അപ്‌ഡേറ്റുചെയ്‌തതുമുതൽ‌ ഈ വെബ്‌സൈറ്റിൽ‌ നിന്നും പാസ്‌വേഡുകൾ‌ ചോർത്തപ്പെടുകയോ മോഷ്‌ടിക്കപ്പെടുകയോ ചെയ്‌തു. നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിക്കുന്നതിന് പാസ്‌വേഡ് മാറ്റുക.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } എന്നതിലേക്ക് പോവുക
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ദുർബലമായ രഹസ്യവാക്കു്
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }ലേക്ക് പോവുക
+about-logins-vulnerable-alert-learn-more-link = കൂടുതൽ അറിയുക
 
 ## Error Messages
 
@@ -183,19 +199,56 @@ about-logins-error-message-default = ഈ പാസ്‌വേഡ് സംര�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = പ്രവേശിക്കൽ ഫയൽ കയറ്റുമതിക്കുക
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = കയറ്റുമതി
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV രേഖ
+       *[other] CSV ഫയൽ
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = പ്രവേശിക്കൽ ഫയൽ ഇറക്കുമതിക്കുക
+about-logins-import-file-picker-import-button = ഇറക്കുമതി
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV രേഖ
+       *[other] CSV ഫയൽ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV പ്രമാണം
+       *[other] TSV ഫയൽ
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = ഇറക്കുമതി പൂർത്തിയായി
+about-logins-import-dialog-done = ചെയ്തു
+about-logins-import-dialog-error-title = ഇറക്കുമതി പിശക്
+about-logins-import-dialog-error-file-format-title = ഫയൽ ഘടനപ്രശ്നം
+about-logins-import-dialog-error-file-permission-title = ഫയൽ വായിക്കാൻ കഴിയുന്നില്ല
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = പിശക്:{ $field } എന്നതിനായുള്ള ഒന്നിലധികം മൂല്യങ്ങൾ
+about-logins-import-report-row-description-error-missing-field = പിശക്: { $field } കാണുന്നില്ല
 
 ##
 ## Variables:
