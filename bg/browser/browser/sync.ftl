@@ -31,3 +31,7 @@ fxa-menu-sign-out =
     .label = Излизане…
 fxa-menu-sync-title = Синхронизиране
 fxa-menu-sync-description = Вашият интернет е навсякъде с вас.
+sync-setup-verify-continue = Продължаване
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
