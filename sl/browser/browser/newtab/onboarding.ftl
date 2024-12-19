@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Uporabite brskalnik, ki ga podpira nepr
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovejša različica je zgrajena okoli vas, kar naredi brskanje po spletu lažje kot kdaj koli prej. Polna je novosti, ki jih boste oboževali.
 mr2022-onboarding-get-started-primary-button-label = Nastavite v nekaj sekundah
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Bliskovito hitra nastavitev
 mr2022-onboarding-import-subtitle = Nastavite { -brand-short-name } po svoji meri. Dodajte svoje zaznamke, gesla in druge podatke iz starega brskalnika.
@@ -430,3 +432,8 @@ onboarding-checklist-pin = Pripni { -brand-short-name } v opravilno vrstico
 onboarding-checklist-import = Uvozi iz prejšnjega brskalnika
 onboarding-checklist-extension = Dodaj razširitev
 onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Preizkusite skupine zavihkov za manj nereda in več osredotočenosti
+tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en zavihek na drugega in ustvarite svojo prvo skupino.

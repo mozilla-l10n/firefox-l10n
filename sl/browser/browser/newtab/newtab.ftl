@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = O { -fakespot-brand-name(sklon: "mestnik") }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Prepovej
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Nehaj slediti temi
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
