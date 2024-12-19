@@ -17,6 +17,7 @@ elevation-more-elevated =
     oñemohendáta { -brand-short-name } ikatu vove. Ikatu oñepyrũjey
     { -brand-short-name } ko’ág̃a, emba’apo ha emoñepyrũjey ag̃ave térã emboyke ko
     mbohekopyahu.
+sandbox-missing-unprivileged-namespaces = Heta tembiapoite { -brand-short-name } rekorosãrã nome’ẽmo’ãi ñemo’ã nde apopyvusu oku’éva ag̃aguápe.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Anive ehechauka
     .accesskey = D
