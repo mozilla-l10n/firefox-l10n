@@ -313,6 +313,18 @@ fxa-menu-message-sign-up-button = Регистриране
 fxa-menu-message-sync-devices-primary-text = Синхронизирайте устройствата си
 fxa-menu-message-sync-devices-secondary-text = Незабавно получавайте информацията си – като отметки и пароли – навсякъде, където използвате { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Синхронизирайте устройствата си
+fxa-menu-message-backup-data-primary-text = Резервно копие на данните от четеца
+fxa-menu-message-backup-data-secondary-text = Автоматична защита за отметки, пароли и друга информация на всички ваши устройства.
+fxa-menu-message-backup-data-collapsed-text = Резервно копие на данните от четеца
+fxa-menu-message-backup-sync-primary-text = Пазете данните си защитени и синхронизирани
+fxa-menu-message-backup-sync-secondary-text = Sync създава резервни копия на голяма част от вашите данни, така че да имате достъп до тях навсякъде, където използвате { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Синхронизиране и резервно копие
+fxa-menu-message-mobile-primary-text = Изпращане на раздели до телефона
+fxa-menu-message-mobile-secondary-text = Продължете незабавно, откъдето сте спрели, като синхронизирате разделите с мобилното си устройство.
+fxa-menu-message-mobile-collapsed-text = Синхронизиране с телефона
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Добре дошли отново
+multi-cta-fox-doodle-set-default-checkbox = Задаване на { -brand-short-name } по подразбиране
+multi-cta-fox-doodle-pin-startmenu-checkbox = Закачане на { -brand-short-name } към менюто Start
