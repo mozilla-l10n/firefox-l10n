@@ -91,6 +91,8 @@ about-debugging-setup-intro = Задайте начина на свързван�
 about-debugging-setup-connect-heading = Свържете устройство
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Когато го включите ще бъдат изтеглени и добавени към { -brand-shorter-name } необходимите компоненти за отстраняване на дефекти от Андроид под USB.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Разрешаване на устройства по USB
@@ -103,6 +105,12 @@ about-debugging-setup-usb-updating-button = Обновяване...
 about-debugging-setup-usb-status-enabled = Разрешено
 about-debugging-setup-usb-status-disabled = Забранено
 about-debugging-setup-usb-status-updating = Обновяване...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Включете менюто за разработчици на устройството с Андроид.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Включете отстраняването на дефекти по USB в менюто за разработчици на Андроид.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Включете пренасянето на файлове и се уверете, че устройството не е в режим само на зареждане.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Свържете устройството с Android към компютъра.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
