@@ -652,7 +652,7 @@ urlbar-result-action-search-tabs = Søk i faner
 urlbar-result-action-search-actions = Søkjehandlingar
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
-urlbar-result-action-switch-to-tabgroup = Byt til { $url }
+urlbar-result-action-switch-to-tabgroup = Byt til { $group }
 
 ## Labels shown above groups of urlbar results
 
