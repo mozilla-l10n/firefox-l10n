@@ -56,6 +56,10 @@ sync-profile-different-account-header = Toś ten profil jo se do togo synchroniz
 sync-profile-different-account-description = Organizěrujśo swóje daty wěsće, kuždy profil { -brand-product-name } móžo se jano z jadnym kontom synchronizěrowaś. Aby se z pomocu { $acctEmail } pśizjawił, napórajśo nowy profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil jo se synchronizěrował do drugego konta
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Organizěrujśo swóje daty wěsće, pórucamy, nowy profil napóraś, aby se z pomocu { $acctEmail } pśizjawił. Jolic se rozsuźujośo, ze synchronizaciju toś togo profila pókšacowaś, se daty wobeju kontowu stawnje na “{ $profileName }” zjadnośiju.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Konto se južo wužywa
 # Variables:
