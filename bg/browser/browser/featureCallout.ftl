@@ -20,7 +20,7 @@ callout-firefox-view-colorways-title = Добавете пръска цвят
 callout-firefox-view-colorways-subtitle = Изберете цветовете, които обичате. Само в { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Разгледайте най-новите цветове
 # “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Оцветете браузъра си с тези емблематични нюанси, вдъхновени от независими гласове. Само в { -brand-product-name }.
+callout-firefox-view-colorways-reminder-subtitle = Оцветете мрежовия четец с тези емблематични нюанси, вдъхновени от независими гласове. Само в { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
@@ -89,3 +89,8 @@ sidebar-callout-survey-keep-website-open = В страничната лента 
 sidebar-callout-survey-saved-websites-2 = Бърз достъп до отметките
 sidebar-callout-survey-none-of-above = Нито едно от изброените
 sidebar-callout-survey-submit = Изпращане
+sidebar-callout-survey-thank-you = Благодарим ви за обратната връзка!
+sidebar-genai-survey-satisfaction-question = Доколко сте доволни от това, че имате достъп до чатбот с AI в страничната лента?
+sidebar-genai-survey-productive-question =
+    До каква степен сте съгласни или не с твърдението:<br/>
+    „Чатбота с AI в страничната лента ме прави по-продуктивен/а“?
