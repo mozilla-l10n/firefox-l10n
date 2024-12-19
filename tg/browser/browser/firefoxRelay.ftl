@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = «{ -relay-brand-name }» ниқоби наверо эҷод карда натавонист. Рамзи хатои HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = «{ -relay-brand-name }» ниқобҳои қобили истифодаи муҷаддадро наёфт. Рамзи хатои HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Барои истифода бурдани «{ -relay-brand-name }» шумо бояд ба «{ -fxaccount-brand-name }» ворид шавед.
 firefox-relay-must-login-to-account = Барои истифода кардани ниқобҳои почтаи электронии «{ -relay-brand-name }» ба ҳисоби худ ворид шавед.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ҳоло не
     .accesskey = Ҳ
-firefox-relay-offer-what-fxa-and-relay-provides = Шумо ба воситаи ҳисоб ба маҳсулоте, ки махфияти шуморо муҳофизат мекунанд, дастрасӣ пайдо мекунед. Ҳамаи паёмҳои электроние, ки ба ниқобҳои почтаи электронии шумо фиристода мешаванд, ба нишонии почтаи электронии ҳақиқии шумо интиқол дода мешаванд (агар шумо қарор надиҳед, ки онҳоро маҳкам кунед).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Ба «{ -brand-product-name }» ворид шавед ва аз ниқоб истифода баред
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Бақайдгирӣ
+    .accesskey = Б
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Дигар нишон дода нашавад
     .accesskey = Д
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ҳоло не
     .accesskey = Ҳ
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Барои истифода кардани ниқоби почтаи электронӣ, пеш аз ҳама, сабти ном кунед ё ба ҳисоби худ ворид шавед
+firefox-relay-offer-legal-notice-control = Вақте ки шумо сабти ном карда, ниқоби почтаи электрониро эҷод мекунед, шумо ҳамзамон бо <label data-l10n-name="tos-url">Шартҳои хизматрасонӣ</label> ва <label data-l10n-name="privacy-url">Огоҳномаи махфият</label> розӣ мешавед.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Ба воситаи ниқоби почтаи электронӣ худро аз мактубҳои номатлуб ҳифз намоед
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Тавассути пинҳон кардани нишонии почтаи электронии ҳақиқии худ ба воситаи <label data-l10n-name="firefox-relay-learn-more-url">ниқоби почтаи электронӣ</label>, худро аз мактубҳои номатлуб ҳифз намоед. Шумо то ҳол паёмҳои электрониро аз <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ин сомона</label> ба паёмдони ҷории худ қабул мекунед, аммо нишонии почтаи электронии шумо бо ниқоб пинҳон карда мешавад.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Барои истифода кардани ниқоби почтаи электронӣ, пеш аз ҳама, сабти ном кунед ё ба ҳисоби худ ворид шавед
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Вақте ки шумо ниқоби почтаи электрониро эҷод мекунед, шумо ҳамзамон бо <label data-l10n-name="tos-url">Шартҳои хизматрасонӣ</label> ва <label data-l10n-name="privacy-url">Огоҳномаи махфият</label> розӣ мешавед.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Навбатӣ
     .accesskey = Н
