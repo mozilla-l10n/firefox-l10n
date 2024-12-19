@@ -41,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = Синхронизирайте { -brand
 firefoxview-tabpickup-adddevice-description = Изтеглете { -brand-product-name } за мобилно устройство и влезте там.
 firefoxview-tabpickup-adddevice-learn-how = Научете как
 firefoxview-tabpickup-adddevice-primarybutton = Изтеглете { -brand-product-name } за телефон
+firefoxview-syncedtabs-adddevice-header-2 = Вземете раздели отвсякъде
 firefoxview-syncedtabs-adddevice-header = Влезте в/ъв { -brand-product-name } на другите си устройства
 firefoxview-syncedtabs-adddevice-description = За да видите разделите от другите места, на които използвате { -brand-product-name } влезте във всичките си устройства. Научете как <a data-l10n-name="url">да свържете допълнителни устройства</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Опитайте { -brand-product-name } за телефон
@@ -157,6 +158,9 @@ firefoxview-search-text-box-history =
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Търсене на наскоро затворени раздели
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Търсене в разделите
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = Търсене в синхронизираните раздели
 # Placeholder for the input field to search in open tabs ("search" is a verb).
@@ -217,6 +221,7 @@ firefoxview-choose-browser-button = Изберете мрежов четец
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Няма нищо за показване
+firefoxview-dont-remember-history-empty-description-two = Заради настройките, { -brand-short-name } не помни действията ви при разглеждане. За да промените това, <a data-l10n-name="history-settings-url-two">променете настройките на историята да бъде запазвана</a>.
 firefoxview-dont-remember-history-empty-description-one = В момента { -brand-short-name } не помни активността ви при сърфиране. За да промените това, <a data-l10n-name="history-settings-url-two">обновете вашите настройки относно историята</a>.
 
 ##
@@ -232,7 +237,8 @@ firefoxview-import-history-header = Внасяне на история от др
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
-firefoxview-recentlyclosed-empty-header = Рано затворихте раздела?
+firefoxview-recentlyclosed-empty-header = Затворихте раздел твърде рано?
+firefoxview-recentlyclosed-empty-description = Тук ще намерите скоро затворените раздели, за да можете бързо да отворите всеки от тях.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
@@ -257,3 +263,6 @@ firefoxview-opentabs-bookmarked-pinned-tab =
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Отметнато) { $url }

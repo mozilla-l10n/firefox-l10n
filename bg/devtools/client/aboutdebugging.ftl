@@ -316,9 +316,18 @@ about-debugging-worker-push-service =
 # Displayed for service workers in runtime pages, to label the origin of a worker.
 about-debugging-worker-origin =
     .label = Произход
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Испектиране на обслужващи нишки е изключено за многопроцесния { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Разделът не е напълно зареден и не може да бъде проверен
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-name = Многопроцесни инструменти
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-description = Основния процес и процесът за съдържание на целевия мрежов четец
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Затваряне на съобщението
