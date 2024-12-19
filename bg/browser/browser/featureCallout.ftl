@@ -63,6 +63,29 @@ split-dismiss-button-manage-settings-option-label = Настройки
 ## Sidebar Strings
 
 sidebar-button-callout-title = Заглавия на разделите в страничната лента
+sidebar-button-callout-subtitle = Използвайте бутона на страничната лента, за да я разширите и да виждате заглавията на разделите.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Помогнете ни да подобрим { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Доколко сте доволни от работата на страничната лента в { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Политика на поверителност
+sidebar-callout-survey-very-satisfied = Много доволни
+sidebar-callout-survey-satisfied = Доволни
+sidebar-callout-survey-neutral = Неутрално
+sidebar-callout-survey-dissatisfied-2 = Недоволни
+sidebar-callout-survey-very-dissatisfied-2 = Много недоволни
+sidebar-callout-survey-dont-use-it = Не я използвам
+sidebar-callout-survey-productive-question =
+    До каква степен сте съгласни или не с твърдението:<br/>
+    „Страничната лента на { -brand-short-name } ме прави по-продуктивен/а“?
+sidebar-callout-survey-strongly-agree = Напълно съгласни
+sidebar-callout-survey-agree = Съгласни
+sidebar-callout-survey-disagree = Несъгласни
+sidebar-callout-survey-strongly-disagree = Напълно несъгласни
+sidebar-callout-survey-features-question = По-долу са изброени евентуални възможности на страничната лента. Кое от тях най-много би подобрило продуктивността ви във { -brand-short-name }
+sidebar-callout-survey-split-view = Преглед на две страници една до друга едновременно
+sidebar-callout-survey-keep-website-open = В страничната лента да стои отворена страница като поща или календар докато разглеждам
+sidebar-callout-survey-saved-websites-2 = Бърз достъп до отметките
+sidebar-callout-survey-none-of-above = Нито едно от изброените
+sidebar-callout-survey-submit = Изпращане
