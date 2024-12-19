@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Embojuruja poravorã { $extensionName } peg̃uarã
 unified-extensions-item-message-manage = Eñangareko jepysokuére
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } omomarã Mozilla porureko. Eiporúramo ikatu noĩporãi.
 
 ## Extension's context menu
 

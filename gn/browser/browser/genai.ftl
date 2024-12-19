@@ -39,6 +39,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Emyesakã kóva
     .value = Emyesakã ko’ã poravopyre he’iséva eikumby hag̃uáicha. Eiporu avei techapyrã.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Emoĩporã
+    .value = Ehecha jeporavo oĩpa jejavy jehai ha ñe’ẽtekuaápe. Ehechakuaa umi jejavy ha embojevy moñe’ẽrã emoĩporãmava. Aníke emoambue he’iséva ha ehechauka ñepyrũrã pe tysỹi moĩporãmbyre rehegua, uperire embohasa moñe’ẽrã moĩporãmbyre.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -129,6 +133,5 @@ genai-onboarding-gemini-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
 genai-onboarding-huggingchat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-huggingchat-switch = Emombue peteĩ ijurujáva aty apytépe
 genai-onboarding-huggingchat-price-2 = Reigua; eikotevẽ peteĩ mba’ete oĩ rire heta mba’ejerure
-genai-onboarding-huggingchat-price = Reigua; eikotevẽ mba’ete heta tembiaporãme
 genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
