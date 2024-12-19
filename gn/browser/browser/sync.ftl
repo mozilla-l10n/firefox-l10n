@@ -52,3 +52,4 @@ sync-account-in-use-header = Mba’ete ojeporúmava
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } oñepyrũma tembiapo “{ $otherProfile }” mba’etépe
+sync-account-in-use-description = Ko mba’ete ojuajukuaa pe mba’etee ndive ko mohendahápe añónte.
