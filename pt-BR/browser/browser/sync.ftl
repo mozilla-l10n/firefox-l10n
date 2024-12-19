@@ -46,7 +46,14 @@ sync-setup-verify-description = Outro usuário entrou na conta para sincronizar 
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Limite de contas atingido neste perfil
 sync-profile-different-account-header = Este perfil foi sincronizado anteriormente com outra conta
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Para manter seus dados organizados e seguros, cada perfil do { -brand-product-name } só pode ser sincronizado com uma conta. Para entrar usando { $acctEmail }, crie outro perfil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Perfil sincronizado com outra conta
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Conta já está em uso
 # Variables:
