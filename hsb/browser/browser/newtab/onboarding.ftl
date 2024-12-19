@@ -437,3 +437,4 @@ onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho k
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Wupruwujće skupiny rajtarkow za mjenje njeporjada a wjace fokusa
+tab-groups-onboarding-feature-callout-subtitle = Organizujće so, ćehńće jedyn rajtark horjeka na druhi, zo byšće wašu prěnju skupinu wutworił.
