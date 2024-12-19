@@ -11,14 +11,15 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ടാഗുകള്‍ ചേര്‍ക്കുക
-
 pocket-panel-saved-error-generic = 'പോക്കറ്റ്' ലേക്ക് സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
 pocket-panel-saved-error-tag-length = ടാഗുകള്‍ 25 അക്ഷരങ്ങളിലേക്ക് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു
 pocket-panel-saved-error-only-links = കണ്ണികള്‍ മാത്രമേ സൂക്ഷിക്കാന്‍ പറ്റു
 pocket-panel-saved-error-not-saved = പേജ് സംരക്ഷിച്ചില്ല
 pocket-panel-saved-page-removed = താള്‍ നീക്കം ചെയ്തു
-pocket-panel-saved-page-saved = പോക്കറ്റിലേക്ക് സംരക്ഷിച്ചു
+pocket-panel-saved-page-saved = { -pocket-brand-name }ലേക്കു് കരുതിവച്ചു
+pocket-panel-saved-page-saved-b = { -pocket-brand-name }ലേക്കു് കരുതിവച്ചു
 pocket-panel-saved-processing-remove = താള്‍ കളയുന്നു…
+pocket-panel-saved-removed-updated = കരുതിവയ്ക്കലുകൾ നിന്നു് താൾ മാറ്റി
 pocket-panel-saved-processing-tags = ടാഗ് ചേര്‍ക്കുന്നു…
 pocket-panel-saved-remove-page = താള്‍ നീക്കം ചെയ്യുക
 pocket-panel-saved-save-tags = സംരക്ഷിക്കുക
@@ -40,7 +41,16 @@ pocket-panel-signup-tagline-story-two = പോക്കറ്റിൽ ഏത
 
 ## about:pocket-home panel
 
+pocket-panel-home-explore-more = ആരായുക
+pocket-panel-home-most-recent-saves = താങ്ങളുടെ ഏറ്റവും അടുത്തിടെ കരുതിവച്ച സാധനങ്ങൾ
+pocket-panel-home-most-recent-saves-loading = സമീപകാല കരുതിവയ്ക്കലുകൾ ലഭ്യമാക്കുന്നു...
+pocket-panel-home-new-user-message = അടുത്തിടെ കരുതിവച്ച സാധനങ്ങൾ ഇവിടെ കാണുക
+
 ## Pocket panel header component
+
+pocket-panel-header-sign-in = പ്രവേശിക്കുക
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = എല്ലാം കാണിക്കുക
+pocket-panel-button-remove = മാറ്റുക

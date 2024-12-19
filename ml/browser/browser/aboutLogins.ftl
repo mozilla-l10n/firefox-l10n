@@ -268,6 +268,13 @@ about-logins-import-dialog-error-file-permission-title = ഫയൽ വായി�
 about-logins-import-dialog-error-learn-more = കൂടുതല്‍ അറിയുക
 about-logins-import-dialog-error-try-import-again = വീണ്ടും ഇറക്കുമതി  ചെയ്യാൻ ശ്രമിക്കുക...
 about-logins-import-dialog-error-cancel = റദ്ദാക്കുക
+about-logins-import-report-title = ഇറക്കുമതി ചുരുക്കം
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = വരി { $number }
+about-logins-import-report-row-description-added = പുതിയ പ്രവേശിക്കൽ ചേർത്തു
+about-logins-import-report-row-description-error = പിശക്: തലം വിട്ടുപോയിരിക്കുന്നു
 
 ##
 ## Variables:
