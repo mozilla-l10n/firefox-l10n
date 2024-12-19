@@ -133,7 +133,7 @@ spotlight-public-wifi-vpn-link = Не сега
 
 spotlight-better-internet-header = По-добрият интернет започва с вас
 spotlight-better-internet-body = Когато използвате { -brand-short-name }, гласувате за отворен и достъпен интернет, който е по-добър за всички.
-spotlight-peace-mind-header = Ние сме ви защитили
+spotlight-peace-mind-header = Ние ви защитаваме
 spotlight-peace-mind-body = Всеки месец { -brand-short-name } спира средно над 3000 проследявания на потребител. Защото нищо, особено тези, които нарушават поверителността като проследяващите организации, не трябва да застават между вас и добрия интернет.
 spotlight-pin-primary-button =
     { PLATFORM() ->
@@ -199,22 +199,36 @@ colorways-cfr-header-today = Цветовите комбинации на Indepe
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Разрешаване на { -brand-short-name } да отхвърля банери за бисквитки?
+cfr-cbh-body = { -brand-short-name } може автоматично да отхвърли много заявки за банери за бисквитки.
+cfr-cbh-confirm-button = Отхвърляне на банери за бисквитки
+    .accesskey = О
 cfr-cbh-dismiss-button = Не сега
     .accesskey = Н
+cookie-banner-blocker-onboarding-header = { -brand-short-name } току-що отхвърли банер за бисквитка
+cookie-banner-blocker-onboarding-body = По-малко разсейване, по-малко проследяващи бисквитки на тази страница.
 cookie-banner-blocker-onboarding-learn-more = Научете повече
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ние ви защитаваме
+july-jam-body = Всеки месец { -brand-short-name } спира средно над 3000 проследявания на потребител, давайки сигурен и бърз достъп до добрия интернет.
+july-jam-set-default-primary = Отваряне на препратки с { -brand-short-name }
 fox-doodle-pin-headline = Добре дошли отново
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Напомняме ви, че можете да държите любимия си независим мрежов четец само на щракване разстояние.
+fox-doodle-pin-primary = Отваряне на препратки с { -brand-short-name }
 fox-doodle-pin-secondary = Не сега
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>PDF файловете вече се отварят с { -brand-short-name }.</strong> Променяйте или подписвайте формуляри директно в четеца. За промяна потърсете „PDF“ в настройките.
 set-default-pdf-handler-primary = Разбрах
 
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Планирате ли ново устройство в бъдеще?
+fxa-sync-cfr-body = Уверете се, че последните отметки, пароли и раздели са с вас всеки път, когато отворите { -brand-product-name }.
 fxa-sync-cfr-primary = Научете повече
     .accesskey = п
 fxa-sync-cfr-secondary = Напомни ми по-късно
@@ -223,8 +237,12 @@ fxa-sync-cfr-secondary = Напомни ми по-късно
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Не забравяйте да архивирате данните си
+device-migration-fxa-spotlight-heavy-user-body = Уверете се, че важната информация, като отметки и пароли, се обновява и защитава на всички ваши устройства.
 device-migration-fxa-spotlight-heavy-user-primary-button = Първи стъпки
+device-migration-fxa-spotlight-older-device-header = Душевно спокойствие от { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Профилът държи важната информация обновена и защитена на всяко устройство, което свържете.
 device-migration-fxa-spotlight-older-device-primary-button = Създаване на профил
+device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате ли ново устройство в бъдеще?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как да архивирам данните си
 device-migration-fxa-spotlight-sync-header = Разглеждайте без да пропускате нищо
 device-migration-fxa-spotlight-sync-body = Синхронизирайте цялата си важна информация (като отметки и пароли) с шифроване. Впоследствие можете да изтеглите всичко и навсякъде където ползвате { -brand-product-name }.
