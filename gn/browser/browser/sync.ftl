@@ -48,3 +48,7 @@ sync-profile-different-account-header = Ko mba’ete oñembojuehe ñepyrũrã mb
 sync-profile-different-account-title-merge = Mba’ete oñembojuehe ñepyrũrã mba’ete ambuéva ndive
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Mba’ete ojeporúmava
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } oñepyrũma tembiapo “{ $otherProfile }” mba’etépe
