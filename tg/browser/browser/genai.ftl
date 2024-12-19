@@ -64,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Аз «{ $provider }» пурсед…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Чат-боти зеҳни сунъӣ «AI» интихоби пурраи шуморо қабул намекунад
+    .message =
+        { $selectionLength ->
+           *[other] Шумо тахминан { $selectionLength } аломатро интихоб кардед. Шумораи аломатҳоеро, ки шумо метавонед ба чат-боти зеҳни сунъӣ «AI» ирсол кунед, тахминан аз { $maxLength } иборат аст.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = «{ $provider }» интихоби пурраи шуморо қабул намекунад
+    .message =
+        { $selectionLength ->
+           *[other] Шумо тахминан { $selectionLength } аломатро интихоб кардед. Шумораи аломатҳоеро, ки шумо метавонед ба «{ $provider }» ирсол кунед, тахминан аз { $maxLength } иборат аст.
+        }
 genai-shortcuts-hide =
     .label = Пинҳон кардани миёнбури чат-бот
 
