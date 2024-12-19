@@ -29,10 +29,10 @@ about-debugging-sidebar-this-firefox =
 about-debugging-sidebar-setup =
     .name = Настройки
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
-about-debugging-sidebar-usb-enabled = USB е активирано
+about-debugging-sidebar-usb-enabled = USB включено
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB е забранено
+about-debugging-sidebar-usb-disabled = USB изключено
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Свързано
 # Connection status (disconnected) for runtime items in the sidebar
@@ -87,6 +87,8 @@ about-debugging-refresh-usb-devices-button = Презареждане на сп�
 about-debugging-setup-title = Настройки
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Задайте начина на свързване, с който искате да извършите дистанционно отстраняване на грешки в устройството.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Използвайте <a>{ about-debugging-this-firefox-runtime-name }</a>, за да отстранявате дефекти от разширения и обслужващи процеси на това издание на { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Свържете устройство
 # USB section of the Setup page
@@ -112,6 +114,8 @@ about-debugging-setup-usb-step-enable-debug2 = Включете отстраня
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-file-transfer = Включете пренасянето на файлове и се уверете, че устройството не е в режим само на зареждане.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Включете отдалеченото отстраняване на дефекти през USB във Firefox на устройството с Андроид.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Свържете устройството с Android към компютъра.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
@@ -134,6 +138,10 @@ about-debugging-network-locations-host-input-label = Хост
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Премахване
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Недействително име на хост „{ $host-value }“. Очакваният формат е „име:порт“
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -171,15 +179,21 @@ about-debugging-runtime-other-workers =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-processes =
     .name = Процеси
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Профилиране на производителността
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
-about-debugging-runtime-service-workers-not-compatible = Настройките на вашия браузър са несъвместими със сервизните обслужващи процеси. <a>Научете повече</a>
+about-debugging-runtime-service-workers-not-compatible = Настройките на четеца са несъвместими със сервизните обслужващи процеси. <a>Научете повече</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Свързаният браузър е стара версия ({ $runtimeVersion }). Минимално поддържаната версия е ({ $minVersion }). Настройките по-долу не се поддържат и могат да доведат до неуспех на DevTools. Моля, актуализирайте свързания браузър. <a>Отстраняване</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Това издание на Firefox не може да отстранява дефекти от Firefox за Android (68). Препоръчваме ви за проба да инсталирате Firefox за Android Nightly на устройството. <a>Подробности</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -194,6 +208,18 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Прекъсване на връзката
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Включване на запитването за свързване
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Изключване на запитването за свързване
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Профилиране
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Свиване / разгъване
 
 # Debug Targets strings
 
@@ -247,10 +273,32 @@ about-debugging-extension-id =
 # extension background script.
 about-debugging-extension-backgroundscript =
     .label = Фонов скрипт
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = Работещ
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = Спрян
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+# .disabledTitle is processed by the fluent-react / ActionButton code.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Отдалеченото подаване (push) на обслужващия процес е изключен в многопроцесния { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Старт
     .disabledTitle = Стартирането на service workers временно е забранено за мултипроцеси { -brand-shorter-name }
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Отмяна на регистрацията
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Слушане за събития на Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Без слушане за събития на Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Работещ
