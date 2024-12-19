@@ -33,6 +33,8 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a promotion message for cookie banner reduction
 
+about-private-browsing-cookie-banners-promo-button = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = ഈ ഉപകരണത്തിൽ ലക്ഷണമെങ്കിലും വിടരുതു്
