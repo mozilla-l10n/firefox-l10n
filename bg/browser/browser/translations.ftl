@@ -58,7 +58,7 @@ translations-panel-settings-never-translate-unknown-language =
     .label = Никога да не се превежда от този език
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Никога да не се превежда този сайт
+    .label = Без превод на този сайт
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
