@@ -55,6 +55,10 @@ fxviewtabrow-move-tab-window = Mover a unha nova xanela
     .accesskey = x
 fxviewtabrow-send-tab = Enviar a lapela ao dispositivo
     .accesskey = l
+fxviewtabrow-pin-tab = Fixar lapela
+    .accesskey = F
+fxviewtabrow-unpin-tab = Eliminar lapela fixa
+    .accesskey = f
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
