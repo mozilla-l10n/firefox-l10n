@@ -21,6 +21,16 @@ appmenuitem-zoom =
     .value = വലിപ്പം മാറ്റുക
 appmenuitem-help =
     .label = സഹായം
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] പുറത്തു കടകക്കുക
+           *[other] പുറത്തു്
+        }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ക്രമീകരങ്ങൾ
 
 ## Zoom and Fullscreen Controls
 
@@ -33,20 +43,22 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = സമന്വയിപ്പിക്കാനായി പ്രവേശിക്കുക…
+appmenu-remote-tabs-turn-on-sync =
+    .label = സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ
-
+appmenu-remote-tabs-opensettings =
+    .label = ക്രമീകരണങ്ങള്‍
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?
-
 appmenu-remote-tabs-connectdevice =
     .label = മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക
 appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ്ട് സ്ഥിരീകരിക്കേണ്ടതുണ്ട്.
-
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 
@@ -58,17 +70,28 @@ whatsnew-panel-header = പുതിയതെന്താണ്
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-discard-button =
+    .label = കളയുക
+profiler-popup-capture-button =
+    .label = പിടിക്കുക
 
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-web-developer-label =
+    .label = വെബ് വികസിതാവ്
+profiler-popup-presets-media-label =
+    .label = മാദ്ധ്യമങ്ങൾ
 
 ## History panel
 
@@ -87,6 +110,9 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
+appmenu-get-help =
+    .label = സഹായം തേടുക
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 
@@ -106,3 +132,11 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+
+## Panel for privacy and security products
+
+
+## Profiles panel
+
+appmenu-profiles = രൂപരേഖകൾ
+appmenu-other-profiles = മറ്റു് രൂപരേഖകൾ
