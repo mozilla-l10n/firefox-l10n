@@ -300,6 +300,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Шумо як навсозии муҳимро барои «{ -brand-short-name }» аз даст додед
+root-certificate-windows-background-notification-subtitle = Агар шумо навсозӣ накунед, баъзе қисмҳои браузер ба наздикӣ кор намекунанд. Ҳоли ҳозир барои гирифтани муҳофизат ва хусусиятҳои охирини мо вақти мувофиқ омад.
 root-certificate-windows-background-notification-learn-more-button = Маълумоти бештар
 root-certificate-windows-background-notification-update-button = Навсозӣ кардани «{ -brand-short-name }»
 
