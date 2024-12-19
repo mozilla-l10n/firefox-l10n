@@ -243,6 +243,7 @@ device-migration-fxa-spotlight-older-device-header = Душевно спокой
 device-migration-fxa-spotlight-older-device-body = Профилът държи важната информация обновена и защитена на всяко устройство, което свържете.
 device-migration-fxa-spotlight-older-device-primary-button = Създаване на профил
 device-migration-fxa-spotlight-getting-new-device-header-2 = Планирате ли ново устройство в бъдеще?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Следвайте няколко лесни стъпки, за да получите своите отметки, история и пароли, когато настройвате ново устройство.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как да архивирам данните си
 device-migration-fxa-spotlight-sync-header = Разглеждайте без да пропускате нищо
 device-migration-fxa-spotlight-sync-body = Синхронизирайте цялата си важна информация (като отметки и пароли) с шифроване. Впоследствие можете да изтеглите всичко и навсякъде където ползвате { -brand-product-name }.
@@ -250,6 +251,8 @@ device-migration-fxa-spotlight-sync-primary-button = Започнете
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Да изберете ли { -brand-short-name } като четец на PDF файлове по подразбиране?</strong> Използвайте { -brand-short-name }, за да четете и променяте PDF файлове, запазени на компютъра.
 pdf-default-notification-set-default-button =
     .label = Задаване по подразбиране
 pdf-default-notification-decline-button =
@@ -273,22 +276,43 @@ launch-on-login-infobar-final-reject-button = Не, благодаря
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Дръжте досадното проследяване далече от вас
+tail-fox-spotlight-subtitle = Кажете сбогом на проследяването от реклами и се наслаждавайте на по-сигурен и бърз интернет.
+tail-fox-spotlight-primary-button = Отваряне на препратки с { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не сега
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>По-ранните издания на { -brand-short-name } може да имат проблеми на 14 януари 2025 г.</strong>
+root-certificate-succession-infobar-march-message = <strong>Обновете, за да продължите да използвате { -brand-short-name } след 14 март 2025 г.</strong>
+root-certificate-succession-infobar-link = Защо имам нужда от обновяване?
 root-certificate-succession-infobar-primary-button =
-    .label = Актуализирайте сега
-    .accesskey = с
+    .label = Обновяване
+    .accesskey = о
 root-certificate-succession-infobar-secondary-button =
     .label = По-късно
     .accesskey = к
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Пропуснахте важно обновяване на { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Части от четеца скоро ще спрат да работят, ако не го обновите. Сега е прекрасен момент да получите най-новите защити и възможности.
+root-certificate-windows-background-notification-learn-more-button = Научете повече
+root-certificate-windows-background-notification-update-button = Обновяване на { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Затваряне
+    .aria-label = Затваряне
+fxa-menu-message-sign-up-button = Регистриране
+fxa-menu-message-sync-devices-primary-text = Синхронизирайте устройствата си
+fxa-menu-message-sync-devices-secondary-text = Незабавно получавайте информацията си – като отметки и пароли – навсякъде, където използвате { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Синхронизирайте устройствата си
 
 ## Multi-CTA Fox Doodle Spotlight
 
