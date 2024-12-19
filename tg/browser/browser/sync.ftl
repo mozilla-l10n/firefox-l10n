@@ -38,3 +38,16 @@ fxa-menu-sync-description = Дар ҳама ҷо ба сомонаҳои худ 
 sync-setup-verify-continue = Давом додан
 sync-setup-verify-title = Огоҳӣ оид ба муттаҳидшавӣ
 sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехоҳед ба ҳисоби ҳамоҳангсозӣ ворид шавед?
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Ҳисоб аллакай истифода мешавад
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Гузариш ба «{ $profileName }»
+sync-button-create-profile = Эҷод кардани профили нав
+sync-button-sync-and-merge = Ҳамоҳангсозӣ ва муттаҳидсозии маълумот
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Ҳамоҳангсозии «{ $profileName }»
