@@ -109,6 +109,7 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = ¡Ñemboheko jejapopyre ha ping mondopyre!
 about-glean-about-data-header = Mba’ekuaarã rehegua
+about-glean-about-data-description = Oĩ heta tembiporu eiporukuaáva ehecha hag̃ua ne mba’ekuaarãnguéra, eikuaa rire mba’etépa pe rehekáva.
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
