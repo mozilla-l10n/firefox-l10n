@@ -164,8 +164,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Включване
 protections-panel-report-broken-site =
-    .label = Съобщаване за неработеща страница
-    .title = Съобщаване за неработеща страница
+    .label = Доклад за повредена страница
+    .title = Доклад за повредена страница
 
 ## Protections panel info message
 

@@ -271,7 +271,7 @@ appmenu-developer-tools-subheader = Инструменти за четеца
 appmenu-developer-tools-extensions =
     .label = Разширения за разработчици
 appmenuitem-report-broken-site =
-    .label = Съобщаване за неработеща страница
+    .label = Доклад за повредена страница
 
 ## Panel for privacy and security products
 

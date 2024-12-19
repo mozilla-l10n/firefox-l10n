@@ -38,12 +38,10 @@ genai-settings-chat-title =
 # Updated sidebar settings
 sidebar-title =
     .label = Странична лента
-sidebar-description = Имайте лесен достъп до вашата история, разделите от други устройства, разширенията на страничната лента и много други неща докато сърфирате. <a data-l10n-name="connect">Споделяне на отзиви</a>
+sidebar-description = Имайте лесен достъп до историята, разделите от други устройства, разширенията за странична лента и много други неща докато разглеждате. <a data-l10n-name="connect">Обратна вързка</a>
 vertical-tabs-title =
     .label = Вертикални раздели
 vertical-tabs-description = Преместете разделите от горната част на браузъра встрани. Изисква да включите и страничната лента. <a data-l10n-name="connect">Споделяне на отзиви</a>
-experimental-features-group-browsing =
-    .label = Разглеждане
 experimental-features-group-developer-tools =
     .label = Развойни инструменти
 experimental-features-group-webpage-display =

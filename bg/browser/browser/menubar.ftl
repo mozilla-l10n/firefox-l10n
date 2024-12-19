@@ -359,4 +359,4 @@ menu-help-not-deceptive =
     .label = Това не е измамническа страница…
     .accesskey = н
 menu-report-broken-site =
-    .label = Съобщаване за неработеща страница
+    .label = Доклад за повредена страница

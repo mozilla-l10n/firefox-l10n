@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-report-broken-site-mainview-title = Докладване за повреден сайт
+report-broken-site-mainview-title = Доклад за повредена страница
 report-broken-site-panel-header =
-    .label = Докладване за повреден сайт
-    .title = Докладване за повреден сайт
+    .label = Доклад за повредена страница
+    .title = Доклад за повредена страница
 report-broken-site-panel-intro = Помогнете да направим { -brand-product-name } по-добър за всички. { -vendor-short-name } използва информацията, която изпращате, за да отстранява проблеми в сайтовете.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Какво е повредено?
