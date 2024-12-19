@@ -45,12 +45,34 @@ sync-setup-verify-description = 先前有另外的用户在此计算机上登录
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = 已达到此配置文件的账户数量限制
 sync-profile-different-account-header = 此配置文件先前已同步到另一个账户
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = 为确保您的数据安全有序，每份 { -brand-product-name } 配置文件仅能同步到一个账户。若要使用 { $acctEmail } 登录，请创建新的配置文件。
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = 配置文件已同步至其他账户
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = 为确保您的数据安全有序，建议您创建新的配置文件以使用 { $acctEmail } 登录。若您选择继续对此配置文件进行同步，那么来自这两个账户的数据将永久合并到“{ $profileName }”。
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = 账户已在使用
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } 已在“{ $otherProfile }”配置文件中登录
+sync-account-in-use-description = 在这台计算机上，您只能将此账户与 1 份配置文件关联。
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = 此账户已在另一份配置文件中登录。要同步两份配置文件吗？
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } 已在此计算机上的“{ $otherProfile }”配置文件中登录。同步“{ $currentProfile }”配置文件将永久合并来自两份配置文件的数据，例如密码和书签。
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = 切换到“{ $profileName }”
 sync-button-create-profile = 创建新配置文件
+sync-button-sync-and-merge = 同步并合并数据
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-sync-profile = 同步“{ $profileName }”
