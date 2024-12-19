@@ -223,6 +223,7 @@ firefoxview-view-more-browsing-history = Вижте още история на �
 
 firefoxview-history-empty-header = Върнете се там, където сте били
 firefoxview-history-empty-description = Докато сърфирате, страниците, които посещавате ще бъдат показвани тук.
+firefoxview-history-empty-description-two = Защитата на поверителността е в основата на това, което правим. Ето защо можете да управлявате действията, които { -brand-short-name } помни в <a data-l10n-name="history-settings-url">настройките на историята</a>.
 
 ##
 
@@ -254,6 +255,7 @@ firefoxview-import-history-description = Направете { -brand-short-name 
 
 firefoxview-recentlyclosed-empty-header = Затворихте раздел твърде рано?
 firefoxview-recentlyclosed-empty-description = Тук ще намерите скоро затворените раздели, за да можете бързо да отворите всеки от тях.
+firefoxview-recentlyclosed-empty-description-two = За да намерите раздели от преди повече време, вижте <a data-l10n-name="history-url">историята на разглеждане</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

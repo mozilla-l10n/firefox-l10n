@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирайте отметките си навсякъде.
 cfr-doorhanger-bookmark-fxa-body = Чудесно откритие! Сега не оставайте без тази отметка на мобилните си устройства. Започнете с { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Чудесно откритие! Сега не оставайте без тази отметка на мобилните си устройства. Започнете с профил.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизиране на отметките сега…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Бутон за затваряне
@@ -100,6 +101,7 @@ cfr-doorhanger-milestone-close-button = Затваряне
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Поверителността е от значение. { -brand-short-name } вече сигурно насочва заявките за DNS, когато е възможно, към партньорска услуга, за да ви защитава, докато разглеждате.
 cfr-doorhanger-doh-header = По-сигурни, криптирани заявки към DNS
 cfr-doorhanger-doh-primary-button-2 = Добре
     .accesskey = о
@@ -108,6 +110,7 @@ cfr-doorhanger-doh-secondary-button = Изключване
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Видеоклиповете на тази страница може да не се възпроизвеждат правилно от това издание на { -brand-short-name }. За пълна поддръжка на видео, обновете { -brand-short-name } сега.
 cfr-doorhanger-video-support-header = Обновете { -brand-short-name } за възпроизвеждане на видео
 cfr-doorhanger-video-support-primary-button = Обновяване
     .accesskey = б
@@ -120,6 +123,7 @@ cfr-doorhanger-video-support-primary-button = Обновяване
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Изглежда, че използвате обществена безжична мрежа
+spotlight-public-wifi-vpn-body = За да скриете местоположението и действията си при разглеждане, помислете за виртуална частна мрежа. Това ще ви помогне да бъдете защитени, когато разглеждате от обществени места като летища и кафенета.
 spotlight-public-wifi-vpn-primary-button = Запазете поверителността си с { -mozilla-vpn-brand-name }
     .accesskey = З
 spotlight-public-wifi-vpn-link = Не сега
@@ -128,7 +132,9 @@ spotlight-public-wifi-vpn-link = Не сега
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = По-добрият интернет започва с вас
+spotlight-better-internet-body = Когато използвате { -brand-short-name }, гласувате за отворен и достъпен интернет, който е по-добър за всички.
 spotlight-peace-mind-header = Ние сме ви защитили
+spotlight-peace-mind-body = Всеки месец { -brand-short-name } спира средно над 3000 проследявания на потребител. Защото нищо, особено тези, които нарушават поверителността като проследяващите организации, не трябва да застават между вас и добрия интернет.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Запази в Dock
@@ -150,6 +156,7 @@ spotlight-pin-secondary-button = Не сега
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Новият { -brand-short-name }. Персонален. Без проследяване. Без компромиси.
+mr2022-background-update-toast-text = Опитайте най-новия { -brand-short-name } сега, надграден с най-мощната ни защита против проследяване.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -167,10 +174,14 @@ firefoxview-cfr-primarybutton = Опитайте
     .accesskey = й
 firefoxview-cfr-secondarybutton = Не сега
     .accesskey = Н
+firefoxview-cfr-header-v2 = Продължете бързо, откъдето сте спрели
+firefoxview-cfr-body-v2 = Получете обратно скоро затворените раздели плюс безпроблемно прескачане между устройства с { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Кажете здравей на { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Искате ли онзи отворен раздел от телефона си? Вземете го. Имате ли нужда от страницата, която току-що посетихте? Пуф, завръща се с { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Вижте как работи
 firefoxview-spotlight-promo-secondarybutton = Пропускане
 
@@ -178,9 +189,16 @@ firefoxview-spotlight-promo-secondarybutton = Пропускане
 
 colorways-cfr-primarybutton = Изберете цветова комбинация
     .accesskey = ц
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Оцветете четеца с изключителни нюанси на { -brand-short-name }, вдъхновени от гласове, променили културата.
+colorways-cfr-header-28days = Цветовите комбинации на Independent Voices изтичат на 16 януари
+colorways-cfr-header-14days = Цветовите комбинации на Independent Voices изтичат след две седмици
+colorways-cfr-header-7days = Цветовите комбинации на Independent Voices изтичат тази седмица
+colorways-cfr-header-today = Цветовите комбинации на Independent Voices изтичат днес
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Разрешаване на { -brand-short-name } да отхвърля банери за бисквитки?
 cfr-cbh-dismiss-button = Не сега
     .accesskey = Н
 cookie-banner-blocker-onboarding-learn-more = Научете повече
@@ -247,6 +265,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = По-късно
     .accesskey = к
+
+## Root Certificate Succession Windows Background Notification
+
 
 ## FxA Menu Message variants
 
