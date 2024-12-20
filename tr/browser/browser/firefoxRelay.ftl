@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } yeni maske oluşturamadı. HTTP hata kodu: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } yeniden kullanılabilir maske bulamadı. HTTP hata kodu: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name }’i kullanak için { -fxaccount-brand-name }nıza giriş yapmalısınız.
 firefox-relay-must-login-to-account = { -relay-brand-name } e-posta maskelerinizi kullanmak için hesabınıza giriş yapın.
@@ -41,13 +41,19 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Şimdi değil
     .accesskey = m
-firefox-relay-offer-what-fxa-and-relay-provides = Hesap açarak, gizliliğinizi koruyan daha fazla ürüne erişebilirsiniz. E-posta maskelerinize gönderilen tüm e-postalar (istediğiniz zaman engelleyebileceğiniz şekilde) gerçek e-posta adresinize yönlendirilir.
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Kaydol
+    .accesskey = K
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Bunu bir daha gösterme
     .accesskey = B
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Şimdi değil
     .accesskey = m
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = E-posta maskelerini kullanmak için kaydolun veya hesabınıza giriş yapın
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -60,6 +66,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ücretsiz e-posta maskenizi oluşturun
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = E-posta maskelerini kullanmak için kaydolun veya hesabınıza giriş yapın
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Kaydol
     .accesskey = K
@@ -67,6 +74,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = E-posta maskeleriyle spam’den korunun
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = E-posta maskelerini kullanmak için kaydolun veya hesabınıza giriş yapın
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = İleri
     .accesskey = İ

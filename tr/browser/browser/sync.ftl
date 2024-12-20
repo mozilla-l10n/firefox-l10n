@@ -43,3 +43,19 @@ sync-setup-verify-heading = Eşitleme için giriş yapmak istediğinizden emin m
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Bu bilgisayarda farklı bir kullanıcı daha önce giriş yaparak eşitleme yaptı. Giriş yaparsanız bu tarayıcının yer imleri, parolaları ve diğer ayarları { $email } hesabıyla birleştirilecektir
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Bu profil için hesap sınırına ulaşıldı
+sync-profile-different-account-header = Bu profil daha önce farklı bir hesapla eşitlenmiş
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Hesap zaten kullanımda
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = “{ $profileName }” profiline geç
+sync-button-create-profile = Yeni profil oluştur
+sync-button-sync-and-merge = Verileri eşitle ve birleştir
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = “{ $profileName }” profilini eşitle
