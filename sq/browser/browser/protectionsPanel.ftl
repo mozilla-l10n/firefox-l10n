@@ -20,7 +20,7 @@ protections-popup-footer-protection-label-standard = Standarde
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Më tepër të dhëna rreth Mbrojtjes së Thelluar Nga Gjurmimet
+    .aria-label = Më tepër hollësi rreth Mbrojtjes së Thelluar Nga Gjurmimet
 protections-panel-etp-on-header = Mbrojtja e Thelluar Nga Gjurmimet është ON për këtë sajt
 protections-panel-etp-off-header = Mbrojtja e Thelluar Nga Gjurmimet është OFF për këtë sajt
 # The link to be clicked to open the sub-panel view

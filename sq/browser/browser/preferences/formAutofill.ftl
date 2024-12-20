@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Rregullime adrese
 address-capture-learn-more-button =
     .label = Mësoni më tepër
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Shtoni Adresë të Re
 address-capture-open-menu-button =
     .aria-label = Hape menunë
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Shtoni adresë
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Përpunoni Adresë
-autofill-address-name = Emër
 autofill-address-given-name = Emër
 autofill-address-additional-name = Emër i Mesit
 autofill-address-family-name = Mbiemër
+autofill-address-name = Emër
 autofill-address-organization = Ent
 autofill-address-street-address = Rrugë
 autofill-address-street = Rrugë
@@ -104,9 +102,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Shtoni Adresë të Re
 autofill-address-country = Vend ose Rajon
 autofill-address-country-only = Vend
 autofill-address-tel = Telefon
@@ -118,19 +115,19 @@ autofill-country-warning-message = Vetëplotësimi i Formularëve hëpërhë ës
 autofill-add-new-card-title = Shtoni Kartë të Re Krediti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Përpunoni Kartë Krediti
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] shfaq hollësi karte krediti
+        [windows] { -brand-short-name }-i po provon të shfaqë hollësi karte krediti. Ripohoni më poshtë hyrjen te kjo llogari Windows.
+       *[other] { -brand-short-name }-i po provon të shfaqë hollësi karte krediti.
+    }
 autofill-message-tooltip = Shihni mesazh rreth vetëplotësimit
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Shtoni kartë
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Përpunoni kartën
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] shfaq të dhëna karte krediti
-        [windows] { -brand-short-name }-i po provon të shfaqë të dhëna karte krediti. Ripohoni më poshtë hyrjen te kjo llogari Windows.
-       *[other] { -brand-short-name }-i po provon të shfaqë të dhëna karte krediti.
-    }
 autofill-card-number = Numër Karte
 autofill-card-invalid-number = Ju lutemi, jepni një numër të vlefshëm karte
 autofill-card-name-on-card = Emër në Kartë
