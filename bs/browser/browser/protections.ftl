@@ -16,9 +16,9 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> tragač blokiran od { DATETIME($earliestDate, dan: "numeric", mjesec: "long", year: "numeric") }
-        [few] <b>{ $count }</b> tragača blokirana od { DATETIME($earliestDate, dan: "numeric", mjesec: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> tragača blokiranih od { DATETIME($earliestDate, dan: "numeric", mjesec: "long", year: "numeric") }
+        [one] <b>{ $count }</b> tragač blokiran od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> tragača blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> tragača blokiranih od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } nastavlja da blokira tragače u privatnom prozoru, ali ne vodi evidenciju o tome šta je blokirano.
@@ -56,7 +56,7 @@ protections-close-button2 =
     .title = Zatvori
 mobile-app-title = Blokirajte alate za praćenje oglasa na više uređaja
 mobile-app-card-content = Koristite mobilni pretraživač sa ugrađenom zaštitom od praćenja oglasa.
-mobile-app-links = { -brand-product-name } Preglednik za <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link ">iOS</a>
+mobile-app-links = { -brand-product-name } Preglednik za <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nikada više ne zaboravite lozinku
 passwords-title-logged-in = Upravljajte svojim lozinkama
 passwords-header-content = { -brand-product-name } sigurno pohranjuje vaše lozinke u vašem pretraživaču.
