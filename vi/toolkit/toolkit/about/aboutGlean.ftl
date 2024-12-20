@@ -17,6 +17,8 @@ about-glean-interface-description =
     Giao diện này được thiết kế để các nhà phát triển và người thử nghiệm sử dụng
     <a data-l10n-name="fog-link">thiết bị đo đạc kiểm tra</a> theo cách thủ công.
 about-glean-category-about-glean = Về { -glean-brand-name }
+about-glean-category-manual-testing = Kiểm thử thủ công
+about-glean-category-adhoc-testing = Kiểm thử Ad Hoc
 about-glean-category-profiler = Sử dụng Profiler
 about-glean-category-about-data = Về dữ liệu
 about-glean-upload-enabled = Tải lên dữ liệu được bật.
