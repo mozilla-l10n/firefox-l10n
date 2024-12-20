@@ -80,6 +80,7 @@ sidebar-callout-survey-strongly-agree = Amoneĩmbaite
 sidebar-callout-survey-agree = Amoneĩ
 sidebar-callout-survey-disagree = Namoneĩri
 sidebar-callout-survey-strongly-disagree = Namoneĩriete
+sidebar-callout-survey-features-question = Ko’ãva ha’e tuicha mba’evéva tenda yképe g̃uarã. ¿Mba’e pe omoporãvétava ne rembiapo { -brand-short-name }-pe?
 sidebar-callout-survey-split-view = Ahecha mokõi tenda peteĩcha, jehechaha mboja’opy ojoykére rupive
 sidebar-callout-survey-keep-website-open = Ereko ñanduti renda, taha’e ñanduti veve térã arapapaha, tenda yképe jurujápe eikundaha aja
 sidebar-callout-survey-saved-websites-2 = Jeike pya’erã techaukahápe
