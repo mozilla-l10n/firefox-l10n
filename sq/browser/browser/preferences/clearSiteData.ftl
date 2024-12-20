@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Lëndë Web Në Fshehtinë
+    .label = Lëndë Web e Ruajtur Në Fshehtinë
     .accesskey = L
 clear-site-data-cache-info = Do të kërkojë që sajtet të ringarkojnë figura dhe të dhëna
 clear-site-data-dialog =
