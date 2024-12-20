@@ -969,7 +969,7 @@ forms-windows-sso =
     .label = Windows-ით ერთიანად შესვლის დაშვება, Microsoft-ის, სამუშაოს ან სკოლის ანგარიშებზე
 forms-windows-sso-learn-more-link = ვრცლად
 forms-windows-sso-desc = ანგარიშების მართვა, მოწყობილობის პარამეტრებიდან
-windows-passkey-settings-label = შესვლის გასაღებების მართვა სისტემის პარამეტრებში
+windows-passkey-settings-label = საშვების მართვა სისტემის პარამეტრებში
 
 ## OS Authentication dialog
 
