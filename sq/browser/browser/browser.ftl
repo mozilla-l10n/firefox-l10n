@@ -55,7 +55,7 @@ private-browsing-shortcut-text-2 = Shfletim Privat { -brand-shortcut-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Shihni të dhëna sajti
+    .aria-label = Shihni hollësi sajti
 
 ## Tooltips for images appearing in the address bar
 
@@ -341,7 +341,7 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-identity-site-information = Të dhëna Sajti për { $host }
+identity-site-information = Hollësi sajti për { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
@@ -387,7 +387,7 @@ identity-remove-cert-exception =
     .label = Hiqeni Përjashtimin
     .accesskey = H
 identity-description-insecure = Lidhja juaj te ky sajt, s'është private. Të dhënat që parashtroni mund të shihen nga të tjerë (fjalëkalime, mesazhe, karta krediti, etj.).
-identity-description-insecure-login-forms = Të dhënat e hyrjes që dhatë në këtë faqe s'janë të sigurta dhe mund të komprometohen.
+identity-description-insecure-login-forms = Hollësitë për hyrje që dhatë në këtë faqe s'janë të siguruara dhe mund të komprometohen.
 identity-description-weak-cipher-intro = Lidhja juaj te ky sajt përdor fshehtëzim të dobët dhe s'është private.
 identity-description-weak-cipher-risk = Të tjerët mund të shohin të dhënat tuaja ose të ndryshojnë sjelljen e sajtit.
 identity-description-active-blocked2 = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta.
@@ -650,9 +650,6 @@ urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
 urlbar-result-action-search-history = Kërkoni Në Historik
 urlbar-result-action-search-tabs = Kërkoni Në Skeda
 urlbar-result-action-search-actions = Veprime Kërkimi
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = Hap { $group }
 
 ## Labels shown above groups of urlbar results
 

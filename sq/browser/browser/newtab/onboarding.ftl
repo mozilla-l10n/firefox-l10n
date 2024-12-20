@@ -194,7 +194,7 @@ mr2022-onboarding-pin-primary-button-label-msix = Fiksoje { -brand-short-name }-
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Fillojani me një shfletues që ka nga pas një ent jofitimprurësS. Mbrojmë privatësinë tuaj, teksa ju bridhni nëpër web.
+mr2022-onboarding-set-default-only-subtitle = Fillojani me një shfletues që ka pas një ent jofitimprurës. Mbrojmë privatësinë tuaj, teksa ju baritni nëpër web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -214,7 +214,7 @@ mr2022-onboarding-set-default-title = Bëjeni { -brand-short-name }-in shfletues
 mr2022-onboarding-set-default-primary-button-label = Vëreni { -brand-short-name }-in si shfletuesin parazgjedhje
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Përdorni një shfletues që ka nga pas një ent jofitimprurësS. Mbrojmë privatësinë tuaj, teksa ju bridhni nëpër web.
+mr2022-onboarding-set-default-subtitle = Përdorni një shfletues që ka pas një ent jofitimprurës. Mbrojmë privatësinë tuaj, teksa ju baritni nëpër web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -273,7 +273,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Jeni një Novator.</b> Shi
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Kërceni nga portativi te telefoni, ose anasjelltas
+mr2022-onboarding-mobile-download-title = Kaloni nga portativi te telefoni, ose anasjelltas
 mr2022-onboarding-mobile-download-subtitle = Merrni skedat nga një pajisje dhe rifilloni atje ku e latë, në një tjetër. Plus, njëkohësoni faqerojtësit dhe fjalëkalimet tuaja kudo ku përdorni { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular, ose <a data-l10n-name="download-label">dërgojini vetes një lidhje shkarkimi.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular.
@@ -300,7 +300,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Shfaq të dhëna
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Po na ndihmoni të ndërtojmë një internet më të mirë
-mr2022-onboarding-gratitude-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur, të përdorshëm dhe më të mirë për këdo.
+mr2022-onboarding-gratitude-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur, të përdorshëm dhe më të mirë për këdo.
 mr2022-onboarding-gratitude-primary-button-label = Shihni ç’ka të re
 mr2022-onboarding-gratitude-secondary-button-label = Nisni shfletimin
 
@@ -355,7 +355,7 @@ onboarding-mobile-download-security-and-privacy-title = Jini i fshehtëzuar, kur
 onboarding-mobile-download-security-and-privacy-subtitle = Kur keni bërë njëkohësimin, { -brand-short-name }-i fshehtëzon fjalëkalimet tuaja, faqerojtësit, etj. Veç kësaj, mund të merrni skeda që nga pajisjet tuaja të tjera.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ju mbron krahët
-onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
+onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Njëkohësoni të dhënat tuaja mes pajisjesh
 onboarding-sign-up-description = Regjistrohuni për një llogari dhe krejt informacionet tuaja të rëndësishme — fjalëkalime, faqerojtës, etj — do të depozitohen në mënyrë të siguruar dhe do të jenë të përdorshëm, kur të bëni hyrjen në llogarinë te cilado.
