@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Përdorni një shfletues që ka nga pas
 mr2022-onboarding-get-started-primary-subtitle = Versioni ynë më i ri është ndërtuar me ju në mendje, duke e bërë më të lehtë se kurrë të bridhni nëpër web. Është plot me veçori që mendojmë se do t’i adhuroni.
 mr2022-onboarding-get-started-primary-button-label = Ujdiseni brenda pak sekondash
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Ujdisje e shpejtë si rrufe
 mr2022-onboarding-import-subtitle = Ujdiseni { -brand-short-name }-in si e doni. Shtoni faqerojtësit tuaj, fjalëkalimet, etj prej shfletuesit tuaj të mëparshëm.
@@ -272,7 +274,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Jeni një Novator.</b> Shi
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Kërceni nga portativi te telefoni, ose anasjelltas
-mr2022-onboarding-mobile-download-subtitle = Merrni skedat nga një pajisje dhe rifilloni atje ku e latë, në një tjetër. Plus njëkohësoni faqerojtësit dhe fjalëkalimet tuaja kudo ku përdorni { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Merrni skedat nga një pajisje dhe rifilloni atje ku e latë, në një tjetër. Plus, njëkohësoni faqerojtësit dhe fjalëkalimet tuaja kudo ku përdorni { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular, ose <a data-l10n-name="download-label">dërgojini vetes një lidhje shkarkimi.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular.
 
@@ -428,3 +430,6 @@ onboarding-checklist-pin = Fiksoje { -brand-short-name }-in te paneli
 onboarding-checklist-import = Importo prej shfletuesi të mëparshëm
 onboarding-checklist-extension = Shtoni një zgjerim
 onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
+
+## Tab Groups feature onboarding strings
+

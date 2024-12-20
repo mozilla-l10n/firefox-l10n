@@ -298,7 +298,7 @@ addon-options-button =
 discopane-intro2 =
     Zgjerimet dhe temat ju lejojnë të përshtatni { -brand-product-name }-in. Ato mund
     të përforcojnë privatësinë, të zgjerojnë prodhimtarinë, të përmirësojnë media,
-    të ndryshojnë pamjen e { -brand-product-name }-it, dhe shumë të tjera. Këto programe
+    të ndryshojnë pamjen e { -brand-product-name }-it dhe shumë të tjera. Këto programe
     të veckël software-i shpesh zhvillohen nga një palë e tretë. Ja një përzgjedhje që
     { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekomandon</a> për siguri,
     funksionim dhe funksione jashtë të zakonshmes.

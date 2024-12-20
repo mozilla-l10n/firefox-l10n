@@ -112,7 +112,7 @@ appmenu-fxa-setup-sync-new = Aktivizoje
 appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 appmenuitem-fxa-sync-off-title = Njëkohësimi është i çaktivizuar
-appmenuitem-fxa-sync-off-description = Mbroni dhe përdorni faqerojtësit, fjalëkalimet tuaja, dhe të tjera gjëra, prej ngado.
+appmenuitem-fxa-sync-off-description = Mbroni dhe përdorni faqerojtësit, fjalëkalimet tuaja dhe të tjera gjëra, prej ngado.
 
 ## What's New panel in App menu.
 
