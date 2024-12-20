@@ -320,6 +320,29 @@ fxa-menu-message-sync-devices-collapsed-text = Sinhronizirajte sve svoje uređaj
 fxa-menu-message-backup-data-primary-text = Napravite rezervnu kopiju podataka vašeg pretraživača
 fxa-menu-message-backup-data-secondary-text = Automatski zaštiti zabilješki, lozinke i druge informacije na svim svojim uređajima.
 fxa-menu-message-backup-data-collapsed-text = Napravite rezervnu kopiju podataka pretraživača
+fxa-menu-message-backup-sync-primary-text = Čuvajte svoje podatke sigurnim i sinhroniziranim
+fxa-menu-message-backup-sync-secondary-text = Sinhronizacija pravi rezervnu kopiju većine vaših podataka tako da im možete pristupiti svuda gdje koristite { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sinhronizirajte i napravite sigurnosnu kopiju podataka
+fxa-menu-message-mobile-primary-text = Pošaljite tabove na svoj telefon
+fxa-menu-message-mobile-secondary-text = Odmah nastavite gdje ste stali kada sinhronizirate svoje tabove s mobilnim uređajem.
+fxa-menu-message-mobile-collapsed-text = Sinhronizirajte sa svojim telefonom
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Dobrodošli nazad
+multi-cta-fox-doodle-set-default-checkbox = Postavite { -brand-short-name } na zadano
+multi-cta-fox-doodle-pin-startmenu-checkbox = Zakačite { -brand-short-name } na Start meni
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Zakačite { -brand-short-name } na traku zadataka
+       *[other] Zakačite { -brand-short-name } na traku zadataka
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Započnite pretraživanje
+multi-cta-fox-doodle-main-browser-primary-button-label = Neka { -brand-short-name } bude moj glavni pretraživač
+multi-cta-fox-doodle-quick-reminder-subtitle = Evo kratkog podsjetnika da svoj omiljeni preglednik fokusiran na privatnost možete zadržati samo jednim klikom.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Držite svoj omiljeni pretraživač fokusiran na privatnost samo jednim klikom. Postavite { -brand-short-name } kao glavni pretraživač za otvaranje linkova i zakačite ga na traku zadataka.
+       *[other] Držite svoj omiljeni pretraživač fokusiran na privatnost samo jednim klikom. Postavite { -brand-short-name } kao glavni pretraživač za otvaranje linkova i zakačite ga na traku zadataka.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Držite svoj omiljeni pretraživač fokusiran na privatnost samo jednim klikom. Postavite { -brand-short-name } kao glavni pretraživač za otvaranje linkova i zakačite ga na traku zadataka i meni Start.
