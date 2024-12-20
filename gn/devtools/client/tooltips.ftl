@@ -110,6 +110,7 @@ inactive-css-collapsed-table-borders-fix = Eñeha’ã embojuaju <strong>border-
 inactive-css-not-table-cell-fix = Eñeha’ã embojuaju <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Eñeha’ã emboheko <strong>overflow</strong> iñambuévagui <strong>ojehecháva</strong> térã ema’ẽ peteĩ mba’eporu moambuepyre omoneĩva. { learn-more }
 inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Eñeha’ã emomichĩ tairenda jeporu. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Aníke emboja’o mba’eporu retepy, techapyrã: emboguévo umi yta térã eiporúvo <strong>page-break-inside:avoid</strong>. { learn-more }
