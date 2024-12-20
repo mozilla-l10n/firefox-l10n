@@ -60,3 +60,8 @@ sync-account-already-signed-in-header = S tem računom ste prijavljeni v drug pr
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Preklopi na profil "{ $profileName }"
+sync-button-create-profile = Ustvari nov profil
+sync-button-sync-and-merge = Sinhroniziraj in združi podatke
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sinhroniziraj "{ $profileName }"
