@@ -361,6 +361,7 @@ onboarding-gratitude-security-and-privacy-title = «{ -brand-short-name }» шу
 onboarding-gratitude-security-and-privacy-subtitle = Баҳри истифодабарии «{ -brand-short-name }», ки аз ҷониби «Mozilla Foundation» дастгирӣ мегардад, ба шумо изҳори сипос менамоем. Бо дастгирии шумо кӯшиш ба харҷ медиҳем, то ин ки доираи истифодабарии Интернетро боз ҳам бахатартар ва ба ҳамагон боз ҳам дастрастар гардонем.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Ҳамоҳанг кардани маълумоти худ байни дастгоҳҳо
+onboarding-sign-up-description = Барои ба даст овардани ҳисоб сабти ном кунед ва тамоми маълумоти шахсии шумо — ниҳонвожаҳо, хатбаракҳо ва чизҳои дигар — ба таври бехатар нигоҳ дошта мешавад ва вақте ки шумо ба ягон дастгоҳи дигар ворид мешавед метавонед ба он дастрасӣ пайдо намоед.
 onboarding-sign-up-button = Сабти ном кунед ё ворид шавед
 onboarding-sign-up-secondary-button = Оғоз кардани тамошо
 
@@ -397,6 +398,8 @@ onboarding-new-horizontal-tabs-label = Варақаҳо дар боло
 onboarding-existing-tabs-title = Варақаҳои амудӣ аллакай дар ин ҷой
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Муаррифии варақаҳои амудӣ
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Варақаҳоро аз паҳлуи браузер кӯшиш кунед. Шумо метавнед оҳоро дар вақти дилхоҳ тавассути танзимоти навори ҷонибӣ фаъол созед.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Варақаҳои амудиро кӯшиш кунед
 onboarding-flair-text = Нав!
