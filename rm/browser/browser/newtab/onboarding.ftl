@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Utilisescha in navigatur dad ina organi
 mr2022-onboarding-get-started-primary-subtitle = Nossa actualisaziun la pli nova è adattada a tes basegns e renda pli simpel che mai da navigar en il web. Ella porta numerusas funcziuns che ti vegns ad adurar.
 mr2022-onboarding-get-started-primary-button-label = Configurà en in pèr secundas
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuraziun sveltischma
 mr2022-onboarding-import-subtitle = Configurescha { -brand-short-name } tenor tes basegns. Agiuntescha segnapaginas, pleds-clav e dapli da tes navigatur vegl.
@@ -431,3 +433,8 @@ onboarding-checklist-pin = Fixar { -brand-short-name } en la taskbar
 onboarding-checklist-import = Importar dad in navigatur precedent
 onboarding-checklist-extension = Agiuntar ina extensiun
 onboarding-checklist-sign-up = Crear in conto u s’annunziar en tes conto
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Emprova las gruppas da tabs per dapli urden e concentraziun
+tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun trair in tab sin in auter per crear tia emprima gruppa.
