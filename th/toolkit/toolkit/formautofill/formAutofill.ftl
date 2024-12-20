@@ -17,7 +17,7 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } กำล
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } กำลังพยายามจะแสดงข้อมูลวิธีการชำระเงินที่เก็บไว้
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = ตัวเลือกการกรอกแบบฟอร์มอัตโนมัติ
-autofill-options-link-osx = การกำหนดลักษณะการกรอกแบบฟอร์มอัตโนมัติ
+autofill-options-link-osx = ค่าปรับแต่งการกรอกแบบฟอร์มอัตโนมัติ
 
 ## The credit card capture doorhanger
 

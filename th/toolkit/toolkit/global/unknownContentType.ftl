@@ -9,7 +9,7 @@ unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] การตั้งค่าสามารถเปลี่ยนได้ในตัวเลือกของ { -brand-short-name }
-           *[other] การตั้งค่าสามารถเปลี่ยนได้ในการกำหนดลักษณะของ { -brand-short-name }
+           *[other] การตั้งค่าสามารถเปลี่ยนได้ในค่าปรับแต่งของ { -brand-short-name }
         }
 unknowncontenttype-intro = คุณได้เลือกที่จะเปิด:
 unknowncontenttype-which-is = ซึ่งเป็น:

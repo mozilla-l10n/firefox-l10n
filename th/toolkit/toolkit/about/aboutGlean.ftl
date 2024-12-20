@@ -31,7 +31,7 @@ about-glean-upload-fake-enabled =
     หมายเหตุ: หากคุณกำหนดแท็กการดีบั๊ก Ping ต่างๆ จะถูกอัปโหลดไปยัง
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> โดยไม่คำนึงถึงการตั้งค่าใดๆ
 # This message is followed by a bulleted list.
-about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">การกำหนดลักษณะและค่ากำหนด</a>ที่เกี่ยวข้องประกอบด้วย:
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">ค่าปรับแต่งและค่ากำหนด</a>ที่เกี่ยวข้องประกอบด้วย:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.

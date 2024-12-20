@@ -6,17 +6,17 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ดำเนินการต่อด้วยความระมัดระวัง
-about-config-intro-warning-text = การเปลี่ยนแปลงการกำหนดลักษณะขั้นสูงอาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
-about-config-intro-warning-checkbox = เตือนเมื่อฉันพยายามเข้าถึงการตั้งค่าเหล่านี้
+about-config-intro-warning-text = การเปลี่ยนแปลงค่าปรับแต่งขั้นสูงอาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
+about-config-intro-warning-checkbox = เตือนเมื่อฉันพยายามเข้าถึงค่าปรับแต่งเหล่านี้
 about-config-intro-warning-button = ยอมรับความเสี่ยงและดำเนินการต่อ
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = การเปลี่ยนแปลงการกำหนดลักษณะเหล่านี้อาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
-about-config-page-title = การกำหนดลักษณะขั้นสูง
+about-config-caution-text = การเปลี่ยนแปลงค่าปรับแต่งเหล่านี้อาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
+about-config-page-title = ค่าปรับแต่งขั้นสูง
 about-config-search-input1 =
-    .placeholder = ค้นหาชื่อการกำหนดลักษณะ
+    .placeholder = ค้นหาชื่อค่าปรับแต่ง
 about-config-show-all = แสดงทั้งหมด
 about-config-show-only-modified = แสดงเฉพาะค่าปรับแต่งที่ถูกปรับเปลี่ยน
 about-config-pref-add-button =

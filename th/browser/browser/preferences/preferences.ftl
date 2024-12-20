@@ -15,7 +15,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = บอกเว็บไซต์ไม่ให้ขายหรือแบ่งปันข้อมูลของฉัน
     .accesskey = บ
-non-technical-privacy-header = การกำหนดลักษณะความเป็นส่วนตัวของเว็บ
+non-technical-privacy-header = ค่าปรับแต่งความเป็นส่วนตัวของเว็บ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -137,8 +137,8 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = เปิด { -brand-short-name } โดยอัตโนมัติตอนเปิดเครื่องคอมพิวเตอร์
     .accesskey = ป
-windows-launch-on-login-disabled = การกำหนดลักษณะนี้ถูกปิดใช้งานใน Windows เมื่อต้องการเปลี่ยน ให้ไปที่ <a data-l10n-name="startup-link">แอปเริ่มต้น</a> ในการตั้งค่าระบบ
-windows-launch-on-login-profile-disabled = เปิดใช้งานการกำหนดลักษณะนี้โดยทำเครื่องหมายที่ “{ profile-manager-use-selected.label }” ในหน้าต่าง “เลือกโปรไฟล์ผู้ใช้”
+windows-launch-on-login-disabled = ค่าปรับแต่งนี้ถูกปิดใช้งานใน Windows เมื่อต้องการเปลี่ยน ให้ไปที่ <a data-l10n-name="startup-link">แอปเริ่มต้น</a> ในการตั้งค่าระบบ
+windows-launch-on-login-profile-disabled = เปิดใช้งานค่าปรับแต่งนี้โดยทำเครื่องหมายที่ “{ profile-manager-use-selected.label }” ในหน้าต่าง “เลือกโปรไฟล์ผู้ใช้”
 startup-restore-warn-on-quit =
     .label = เตือนคุณเมื่อออกจากเบราว์เซอร์
 disable-extension =
@@ -218,7 +218,7 @@ settings-tabs-show-image-in-preview =
 
 language-and-appearance-header = ภาษาและรูปลักษณ์
 preferences-web-appearance-header = รูปลักษณ์ของเว็บไซต์
-preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามการกำหนดลักษณะของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
+preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามค่าปรับแต่งของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
 preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
@@ -1121,7 +1121,7 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = คำสั่งด่วน
     .accesskey = ด
-addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
+addressbar-suggestions-settings = เปลี่ยนค่าปรับแต่งสำหรับข้อเสนอแนะของเครื่องมือค้นหา
 addressbar-locbar-showrecentsearches-option =
     .label = แสดงการค้นหาล่าสุด
     .accesskey = ล
@@ -1321,7 +1321,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
-website-advertising-header = การกำหนดลักษณะการโฆษณาในเว็บไซต์
+website-advertising-header = ค่าปรับแต่งการโฆษณาในเว็บไซต์
 website-advertising-private-attribution =
     .label = เปิดให้เว็บไซต์ทำการวัดผลโฆษณาได้โดยปกป้องความเป็นส่วนตัว
     .accesskey = ป

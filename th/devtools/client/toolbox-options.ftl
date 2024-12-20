@@ -93,7 +93,7 @@ options-screenshot-audio-tooltip =
 ## Editor section
 
 # The heading
-options-sourceeditor-label = การกำหนดลักษณะตัวแก้ไข
+options-sourceeditor-label = ค่าปรับแต่งตัวแก้ไข
 options-sourceeditor-detectindentation-tooltip =
     .title = กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ
 options-sourceeditor-detectindentation-label = ตรวจสอบการเยื้อง
