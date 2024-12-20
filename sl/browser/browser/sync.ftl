@@ -50,3 +50,13 @@ sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računal
 
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun je že v uporabi
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } je že prijavljen v profil "{ $otherProfile }"
+sync-account-in-use-description = Ta račun lahko povežete samo z enim profilom v tem računalniku.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = S tem računom ste prijavljeni v drug profil. Želite sinhronizirati oba profila?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Preklopi na profil "{ $profileName }"
