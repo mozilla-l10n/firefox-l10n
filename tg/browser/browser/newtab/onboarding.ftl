@@ -391,7 +391,7 @@ onboarding-new-tabs-title = Ба мо бигӯед, ки шумо дар куҷ�
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Онро дар вақти дилхоҳ дар танзимоти навори ҷонибӣ фаъол ё хомӯш созед.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлу
+onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлӯ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Варақаҳо дар боло
 # Setup screen for vertical tabs for existing users
@@ -399,12 +399,18 @@ onboarding-existing-tabs-title = Варақаҳои амудӣ аллакай д
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Муаррифии варақаҳои амудӣ
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-existing-tabs-subtitle = Варақаҳоро аз паҳлуи браузер кӯшиш кунед. Шумо метавнед оҳоро дар вақти дилхоҳ тавассути танзимоти навори ҷонибӣ фаъол созед.
+onboarding-existing-tabs-subtitle = Варақаҳоро аз паҳлӯи браузер кӯшиш кунед. Шумо метавнед оҳоро дар вақти дилхоҳ тавассути танзимоти навори ҷонибӣ фаъол созед.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Варақаҳои амудиро кӯшиш кунед
 onboarding-flair-text = Нав!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Варақаҳои уфуқиро нигоҳ доред
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Равзанаи браузер варақаҳоро дар паҳлӯи экран ҳамчун як қисми навори ҷонибии «{ -brand-shorter-name }» нишон медиҳад.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Равзанаи браузер варақаҳоро дар паҳлӯи экран ҳамчун як қисми навори ҷонибии «{ -brand-shorter-name }» нишон медиҳад.
 # Tooltip displayed on hover for horizontal tabs image
 onboarding-horizontal-tabs-tooltip =
     .title = Равзанаи браузер варақаҳоро дар қисми боло нишон медиҳад.
