@@ -58,3 +58,25 @@ sync-profile-different-account-title-merge = Profil sincronisà cun in auter con
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
 sync-profile-different-account-description-merge = Per che tias datas restian organisadas e segiradas, recumandain nus da crear in nov profil per s’annunziar cun { $acctEmail }. Sche ti tschernas da vinavant sincronisar cun quest profil, vegnan las datas dad omadus contos unids permanentamain en «{ $profileName }».
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Quest conto vegn gia utilisà
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = L’adressa { $acctEmail } vegn gia utilisada en il profil «{ $otherProfile }»
+sync-account-in-use-description = Ti pos associar quest conto cun in sulet profil sin quest computer.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Quest conto vegn gia utilisà en in auter profil. Sincronisar omadus profils?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = L’adressa { $acctEmail } vegn utilisada en il profil «{ $otherProfile }» sin quest computer. Cun sincronisar il profil «{ $currentProfile }» vegnan cumbinadas definitivamain las datas dad omadus profils, sco pleds-clav e segnapaginas.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Midar a «{ $profileName }»
+sync-button-create-profile = Crear in nov profil
+sync-button-sync-and-merge = Sincronisar e fusiunar las datas
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronisar «{ $profileName }»
