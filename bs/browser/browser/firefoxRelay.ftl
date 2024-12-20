@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nije mogao generisati novu masku. HTTP kod greške: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nije mogao pronaći maske za višekratnu upotrebu. HTTP kod greške: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Morate se prijaviti na { -fxaccount-brand-name } da biste koristili { -relay-brand-name }.
 firefox-relay-must-login-to-account = Prijavite se na svoj račun da koristite svoje { -relay-brand-name } e-mail maske.
@@ -41,16 +41,22 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = Račun otključava pristup više proizvoda koji štite privatnost. Sve emailove poslane na vaše email maske bit će proslijeđene na vašu stvarnu email adresu (osim ako ih ne odlučite blokirati).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Prijavite se na { -brand-product-name } i koristite masku
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registruj se
+    .accesskey = { "" }
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne pokazuj mi ovo ponovo
     .accesskey = D
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Prvo se prijavite ili prijavite na svoj račun da koristite email masku
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +81,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaštitite se od neželjene pošte pomoću e-mail maske
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaštitite se od neželjene pošte sakrivanjem svoje prave adrese <label data-l10n-name="firefox-relay-learn-more-url">maskom e-pošte</label>. I dalje ćete primati emailove sa <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web lokacije</label> u svom uobičajenom sandučetu, sa maskiranom adresom.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Prvo se prijavite ili prijavite na svoj račun da koristite email masku
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Kreiranjem email maske prihvatate <label data-l10n-name="tos-url">Uslove korištenja</label> i <label data-l10n-name="privacy-url">Obavijest o privatnost</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Sljedeće
     .accesskey = N
