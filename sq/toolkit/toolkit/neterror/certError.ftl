@@ -6,18 +6,18 @@
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } përdor një dëshmi sigurie të pavlefshme.
 cert-error-mitm-intro = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish.
-cert-error-mitm-mozilla = { -brand-short-name } ka nga pas entin jofitimprurës Mozilla, i cili administron një shitore tërësisht të hapur autoriteti dëshmish (AD). Shitorja AD ndihmon të garantohet se autoritetet e dëshmive ndjekin praktikat më të mirë mbi sigurinë e përdoruesve.
-cert-error-mitm-connection = { -brand-short-name } përdor shitoren AD të Mozilla-s për të verifikuar se një lidhje është e sigurt, në vend se dëshmi të furnizuara nga sistemi operativ i përdoruesit. Kështu, nëse një program antivirus apo një rrjet përgjon një lidhje me një dëshmi sigurie të lëshuar nga një Autoritet Dëshmish që s’gjendet te shitorja AD Mozilla, lidhja konsiderohet jo e parrezik.
+cert-error-mitm-mozilla = { -brand-short-name } ka nga pas entin jofitimprurës Mozilla, i cili administron një arkiv tërësisht të hapur autoriteti dëshmish (AD). Arkivi AD ndihmon të garantohet se autoritetet e dëshmive ndjekin praktikat më të mirë mbi sigurinë e përdoruesve.
+cert-error-mitm-connection = { -brand-short-name }-i përdor arkivin AD të Mozilla-s për të verifikuar se një lidhje është e siguruar, në vend se dëshmi të furnizuara nga sistemi operativ i përdoruesit. Kështu, nëse një program antivirus apo një rrjet përgjon një lidhje me një dëshmi sigurie të lëshuar nga një Autoritet Dëshmish që s’gjendet te arkivi AD Mozilla, lidhja konsiderohet jo e parrezik.
 cert-error-trust-unknown-issuer-intro = Dikush mund të jetë duke u rrekur të hiqet si sajti dhe s’duhet të vazhdoni.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish. { -brand-short-name } s’i zë besë { $hostname } ngaqë lëshuesi i dëshmisë është i panjohur, dëshmia është e vetë-nënshkruar, ose shërbyesi nuk po dërgon dëshmitë e sakta ndërmjetëse.
 cert-error-trust-cert-invalid = Dëshmia nuk është besuar, sepse qe lëshuar nga një autoritet i pavlefshëm dëshmish.
 cert-error-trust-untrusted-issuer = Dëshmia nuk është besuar, sepse lëshuesi i dëshmisë nuk është besuar.
-cert-error-trust-signature-algorithm-disabled = Dëshmia nuk është e besueshme, ngaqë është nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi nuk është i sigurt.
+cert-error-trust-signature-algorithm-disabled = Dëshmia s’është e besueshme, ngaqë është nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi s’është i siguruar.
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
-cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tej të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
+cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tej të siguruara, ngaqë këto autoritete dëshmish s’kanë ndjekur praktika sigurie në të kaluarën.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } s’i zë besë { $hostname }, ngaqë s’provoi dot se plotëson domosdoshmëri transparence dëshmish.
@@ -140,17 +140,17 @@ proxyConnectFailure-title = Shërbyesi ndërmjetës po hedh poshtë lidhjet
 proxyResolveFailure-title = S'arrihet të gjendet shërbyesi ndërmjetës
 redirectLoop-title = Faqja nuk është ridrejtuar si duhet
 unknownSocketType-title = Përgjigje e papritur prej shërbyesit
-nssFailure2-title = Dështoi Lidhja e Sigurt
+nssFailure2-title = Dështoi Lidhja e Siguruar
 csp-xfo-error-title = { -brand-short-name }-i S’mund Ta Hapë Këtë Faqe
 corruptedContentError-title = Gabim nga Lëndë e Dëmtuar
-sslv3Used-title = S’arrihet të Lidhet Në Mënyrë të Sigurt
-inadequateSecurityError-title = Lidhja juaj s’është e sigurt
+sslv3Used-title = S’arrihet të Lidhet Në Mënyrë të Siguruar
+inadequateSecurityError-title = Lidhja juaj s’është e siguruar
 blockedByPolicy-title = Faqe e Bllokuar
 clockSkewError-title = Sahati i Kompjuterit tuaj është Gabim
 networkProtocolError-title = Gabim Protokolli Rrjeti
 nssBadCert-title = Kujdes: Rrezik Potencial Sigurie Përpara
 nssBadCert-sts-title = Nuk U Lidh: Çështje Potenciale Sigurie
-certerror-mitm-title = Një program po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Sigurt te Ky Sajt
+certerror-mitm-title = Një program po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Siguruar te Ky Sajt
 
 ## Felt Privacy V1 Strings
 

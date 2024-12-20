@@ -22,8 +22,8 @@ experimental-features-devtools-compatibility-panel =
 experimental-features-devtools-compatibility-panel-description = Një panel anësor për Inspektorin e Faqes, që ju shfaq hollësi rreth gjendjes së përputhjes së aplikacionit tuaj nëpër shfletues. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Cookies: SameSite=None nuk kërkon medoemos atributin i sigurt
-experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e sigurt. Kjo veçori lyp “Cookies: SameSite=Lax by default”.
+    .label = Cookies: SameSite=None s’kërkon doemos atributin e siguruar
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e siguruar. Kjo veçori lyp “Cookies: SameSite=Lax by default”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -56,8 +56,6 @@ sidebar-description = Shihni kollaj historikun tuaj, skeda prej pajisjesh të tj
 vertical-tabs-title =
     .label = Skeda vertikale
 vertical-tabs-description = Kalojini skedat tuaja nga kreu i shfletuesit në anë të tij. Kjo lyp që të provoni edhe anështyllën. <a data-l10n-name="connect">Jepni përshtypje</a>
-experimental-features-group-browsing =
-    .label = Shfletim
 experimental-features-group-developer-tools =
     .label = Mjete Zhvilluesish
 experimental-features-group-webpage-display =

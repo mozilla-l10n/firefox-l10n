@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Sinjalizim Mënyre Vetëm-HTTPS
-about-httpsonly-title-site-not-available = S’ka Sajt të Sigurt
+about-httpsonly-title-site-not-available = S’ka Sajt të Siguruar
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Keni aktivizuar Mënyrën Vetëm-HTTPS, për siguri të thelluar dhe s’ka version HTTPS për <em>{ $websiteUrl }</em>.
@@ -21,5 +21,5 @@ about-httpsonly-link-learn-more = Mësoni Më Tepër…
 ##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Alternativë e Mundshme
-about-httpsonly-suggestion-box-www-text = Ka një version të sigurt të <em>www.{ $websiteUrl }</em>. Mund të vizitoni këtë faqe, në vend të <em>{ $websiteUrl }</em>.
+about-httpsonly-suggestion-box-www-text = Ka një version të siguruar të <em>www.{ $websiteUrl }</em>. Mund të vizitoni këtë faqe, në vend të <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Kalo te www.{ $websiteUrl }

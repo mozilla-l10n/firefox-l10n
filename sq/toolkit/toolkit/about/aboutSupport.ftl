@@ -78,7 +78,7 @@ app-basics-enterprise-policies = Rregulla Në Nivel Ndërmarrjeje
 app-basics-location-service-key-google = Kyç Shërbimi Vendndodhjesh Google
 app-basics-safebrowsing-key-google = Kyç Google Safebrowsing
 app-basics-key-mozilla = Kyç Mozilla Location Service
-app-basics-safe-mode = Mënyrë e Sigurt
+app-basics-safe-mode = Mënyrë e Siguruar
 app-basics-memory-size = Madhësi Kujtese (RAM)
 app-basics-disk-available = Hapësirë Disku e Lirë
 # Variables:

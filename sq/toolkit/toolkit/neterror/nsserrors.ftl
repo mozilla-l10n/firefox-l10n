@@ -8,8 +8,8 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = S’lidhet dot në mënyrë të sigurt, sepse protokolli SSL është çaktivizuar.
-psmerr-ssl2-disabled = S’lidhet dot në mënyrë të sigurt, sepse sajti përdor një version të vjetër, të pasigurt të protokollit SSL.
+psmerr-ssl-disabled = S’lidhet dot në mënyrë të siguruar, sepse protokolli SSL është çaktivizuar.
+psmerr-ssl2-disabled = S’lidhet dot në mënyrë të siguruar, sepse sajti përdor një version të vjetër, të pasiguruar të protokollit SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
@@ -19,13 +19,13 @@ ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të sigu
 ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili nuk mbulohet.
 ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
 ssl-error-no-certificate = S’arrihet të gjendet dëshmi ose kyç i nevojshëm për mirëfilltësimin.
-ssl-error-bad-certificate = S’arrihet të komunikohet në mënyrë të sigurt me anën tjetër: dëshmia e anës tjetër u hodh tej.
+ssl-error-bad-certificate = S’arrihet të komunikohet në mënyrë të siguruar me anën tjetër: dëshmia e anës tjetër u hodh tej.
 ssl-error-bad-client = Shërbyesi hasi të dhëna klienti të dëmtuara.
 ssl-error-bad-server = Klienti hasi të dhëna shërbyesi të dëmtuara.
 ssl-error-unsupported-certificate-type = Lloj i pambuluar dëshmie.
 ssl-error-unsupported-version = Ana tjetër po përdor version të pambuluar protokoll sigurie.
 ssl-error-wrong-certificate = Mirëfilltësimi i klientit dështoi: kyçi privat në bazën e të dhënave për kyçet s’përputhet me kyçin publik te baza e të dhënave për dëshmitë.
-ssl-error-bad-cert-domain = S’arrihet të komunikohet në mënyrë të sigurt me anën tjetër: emri i strehës së kërkuar s’përputhet me dëshminë e shërbyesit.
+ssl-error-bad-cert-domain = S’arrihet të komunikohet në mënyrë të siguruar me anën tjetër: emri i strehës së kërkuar s’përputhet me dëshminë e shërbyesit.
 ssl-error-post-warning = Kod gabimi të panjohur SSL.
 ssl-error-ssl2-disabled = Ana tjetër mbulon vetëm versionin 2 për SSL-në, çka është lokalisht e çaktivizuar.
 ssl-error-bad-mac-read = SSL-ja mori regjistrim me një Kod të pasaktë Mirëfilltësimi Mesazhi.
@@ -316,10 +316,10 @@ sec-error-expired-password = Fjalëkalimi ka skaduar.
 sec-error-locked-password = Fjalëkalimi është bllokuar.
 sec-error-unknown-pkcs11-error = Gabim i panjohur PKCS #11.
 sec-error-bad-crl-dp-url = URL e pavlefshme ose e pambuluar te emër pike shpërndarjesh CRL.
-sec-error-cert-signature-algorithm-disabled = Dëshmia është nënshkruar duke përdorur një algoritëm nënshkrimi që është i çaktivizuar, sepse s’është i sigurt.
+sec-error-cert-signature-algorithm-disabled = Dëshmia është nënshkruar duke përdorur një algoritëm nënshkrimi që është i çaktivizuar, sepse s’është i siguruar.
 mozilla-pkix-error-key-pinning-failure = Shërbyesi përdor “key pinning” (HPKP), por s’u krijua dot zinxhir dëshmish të besuara dhe që i korrespondojnë pinset-it. Shkeljet e “key pinning”-ut s’mund të anashkalohen.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Shërbyesi përdor një dëshmi me një zgjerim të thjeshtë kufizimesh që e identifikon atë si autoritet dëshmish. S’do të duhej të ishte kështu, për një dëshmi të lëshuar siç duhet.
-mozilla-pkix-error-inadequate-key-size = Shërbyesi paraqiti një dëshmi me madhësi kyçi që është shumë e vogël për të vendosur një lidhje të sigurt.
+mozilla-pkix-error-inadequate-key-size = Shërbyesi paraqiti një dëshmi me madhësi kyçi që është shumë e vogël për të vendosur një lidhje të siguruar.
 mozilla-pkix-error-v1-cert-used-as-ca = Për emetimin e dëshmisë së shërbyesit u përdor një dëshmi X.509 version 1, e cila s’është spirancë besimi. Shkësillohen dëshmitë X.509 version 1 dhe s’duhet të përdoren për të nënshkruar dëshmi të tjera.
 mozilla-pkix-error-not-yet-valid-certificate = Shërbyesi paraqiti një dëshmi që s’është ende e vlefshme.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Për emetimin e dëshmisës së shërbyesit është përdorur një dëshmi që s’është ende e vlefshme.
