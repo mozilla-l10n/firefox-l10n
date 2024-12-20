@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 shopping-page-title = { -brand-product-name } Пазаруване
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Проверка на отзиви
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Проверка на отзиви – бета
 
 ## Strings for the letter grade component.
 ## For now, we only support letter grades A, B, C, D and F.
@@ -28,6 +37,13 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the settings card
 
+shopping-settings-recommendations-toggle =
+    .label = Показване на реклами при проверка на отзиви
+shopping-settings-opt-out-button = Изключване на проверката на отзиви
+powered-by-fakespot = Проверка на отзиви се осигурява от <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
+shopping-settings-auto-open-toggle =
+    .label = Автоматично отваряне на Проверка на отзиви
+shopping-settings-sidebar-enabled-state = Проверка на отзивите е <strong>включена</strong>
 
 ## Strings for the adjusted rating component
 
@@ -49,7 +65,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Ненадеждн
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Проверка на отзивите
+    .tooltiptext = Проверка на отзиви
+shopping-sidebar-close-button2 =
+    .tooltiptext = Затваряне на Проверка на отзиви
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
