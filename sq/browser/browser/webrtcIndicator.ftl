@@ -225,4 +225,4 @@ webrtc-remember-allow-checkbox-camera-and-microphone = Mbaje mend për krejt kam
 webrtc-mute-notifications-checkbox = Mos shfaq njoftime sajti, kur ndahen gjëra me të tjerë
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } s’mund të lejojë hyrje të përhershme në ekranin tuaj.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } s’mund të lejojë hyrje të përhershme te audio e skedës tuaj pa pyetur se për cilën skedë.
-webrtc-reason-for-no-permanent-allow-insecure = Lidhja juaj te ky sajt s’është e sigurt. Që të mbroheni, { -brand-short-name } do të lejojë hyrje vetëm për këtë sesion.
+webrtc-reason-for-no-permanent-allow-insecure = Lidhja juaj te ky sajt s’është e siguruar. Që të mbroheni, { -brand-short-name }-i do të lejojë hyrje vetëm për këtë sesion.

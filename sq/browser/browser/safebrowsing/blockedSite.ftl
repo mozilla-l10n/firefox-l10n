@@ -29,7 +29,7 @@ safeb-blocked-phishing-page-learn-more = Mësoni më tepër rreth sajtesh të rr
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasigurt.
+safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasiguruar.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software dashakeq</a>.
 
 ##
@@ -39,7 +39,7 @@ safeb-blocked-malware-page-learn-more-sumo = Mësoni më tepër rreth Mbrojtjes 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software të dëmshëm</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasigurt.
+safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software të dëmshëm</a>. Mund <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasiguruar.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar se përmban software të dëmshëm</a>.
 
 ##
