@@ -460,3 +460,10 @@ newtab-topic-selection-button-pick-interests = Välj dina intressen
 newtab-section-follow-button = Följ
 newtab-section-following-button = Följer
 newtab-section-unfollow-button = Sluta följa
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Är du säker på att du vill blockera det här avsnittet?
+newtab-section-confirm-block-section-p2 = Blockerat avsnitt kommer inte längre att visas i ditt flöde.
+newtab-section-block-section-button = Blockera detta avsnitt
+newtab-section-cancel-button = Inte nu

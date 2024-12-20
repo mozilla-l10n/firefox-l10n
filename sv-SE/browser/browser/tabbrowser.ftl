@@ -198,8 +198,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-group-menu-header = Flikgrupper
 tab-context-unnamed-group =
     .label = Namnlös grupp
+tab-group-name-default = Namnlös grupp
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

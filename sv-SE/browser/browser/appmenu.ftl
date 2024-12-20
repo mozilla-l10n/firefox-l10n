@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varningar om dataintrång
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Dölj din riktiga e-postadress och telefonnummer
+appmenuitem-services-relay-description = Starta översikten för e-postalias
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Skydda din onlineaktivitet
+appmenu-services-header = Mina tjänster
+appmenu-other-protection-header = Testa andra skyddsverktyg från { -vendor-short-name }:
 
 ## Profiles panel
 

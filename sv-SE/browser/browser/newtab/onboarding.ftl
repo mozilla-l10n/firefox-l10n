@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jag använde det tidigar
 onboarding-new-tabs-title = Berätta var du vill ha dina flikar
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Växla när du vill i sidofältsinställningarna.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Dina flikar, på ditt sätt
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Hålla många flikar öppna? Prova dina flikar på sidan för en mer enhetlig vy. Eller håll den klassiskt med flikar på toppen. Byt när som helst.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Välj din fliklayout
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = För en strömlinjeformad vy som kan hjälpa dig att hålla fokus, prova dina flikar på sidan. Eller håll den klassiskt med flikar på toppen. Byt när som helst.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Flikar på sidan
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,12 @@ onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
 
 tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röra, mer fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Säg hej till { -brand-product-name } profiler
+multi-profile-spotlight-body = Byt enkelt mellan att surfa i arbete och surfa. Profiler håller din webbinformation, inklusive sökhistorik och lösenord, helt åtskild så att du kan hålla ordning.
+multi-profile-spotlight-cta = Skapa en profil
+multi-profile-callout-title = Skapa olika profiler för arbete och underhållning
+multi-profile-callout-subtitle = Profiler låter dig hålla din webbinformation, som sökhistorik och lösenord, helt åtskild.
+multi-profile-callout-cta = Skapa en profil
