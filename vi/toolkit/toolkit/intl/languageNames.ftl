@@ -212,5 +212,5 @@ language-name-yi = Tiếng Yiddish
 language-name-yo = Tiếng Yoruba
 language-name-za = Tiếng Tráng
 language-name-zam = Tiếng Zapotec Miahuatlán
-language-name-zh = Tiếng Trung giản thể
+language-name-zh = Tiếng Trung
 language-name-zu = Tiếng Zulu
