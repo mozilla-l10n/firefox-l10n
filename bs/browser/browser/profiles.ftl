@@ -43,9 +43,21 @@ new-profile-page-title = Novi profil
 new-profile-page-header = Prilagodite svoj novi profil
 new-profile-page-header-description = Svaki profil čuva svoju jedinstvenu historiju pretraživanja i postavke odvojeno od vaših ostalih profila. Osim toga, jaka zaštita privatnosti { -brand-short-name } je uključena prema zadanim postavkama.
 new-profile-page-learn-more = Saznajte više
+new-profile-page-input-placeholder =
+    .placeholder = Odaberite ime kao što je “Posao” ili “Lično”
+new-profile-page-done-button =
+    .label = Uređivanje je završeno
+profile-window-title-2 = { -brand-short-name } - Odaberite profil
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Izbriši { $profilename } profil
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Izbrisati { $profilename } profil?
+delete-profile-description = { -brand-short-name } će trajno izbrisati sljedeće podatke sa ovog uređaja:
 
 ##
 
