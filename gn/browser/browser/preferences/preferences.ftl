@@ -854,6 +854,13 @@ sync-engine-settings =
     .label = Ñemboheko
     .tooltiptext = Ñembokeo tuichaháicha, ñemigua ha tekorosã emoambuéva
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Eñengareko embojuehéva ne mba’e’oka pa’ũmere
+    .style = min-width: 36em;
+    .buttonlabelaccept = Ñongatu
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Embogue…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

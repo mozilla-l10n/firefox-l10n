@@ -442,6 +442,9 @@ newtab-topic-label-home = Óga ha yvotyty
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Eiporavo téma emoporãve hag̃ua ne canal
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Eiporavo mokõi térã hetave téma. Ore irũ katupyry omotenonde tembiasakue ojokupytyýva eipotavéva rehe. Embohekopyahu ejapose vove.
 newtab-topic-selection-save-button = Ñongatu
 newtab-topic-selection-cancel-button = Heja
 newtab-topic-selection-button-maybe-later = Ikatu ag̃amieve

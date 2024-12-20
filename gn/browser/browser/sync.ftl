@@ -38,6 +38,11 @@ fxa-menu-sync-description = Eike ne ñandutiroguépe oimehágui
 sync-setup-verify-continue = Ku’ejey
 sync-setup-verify-title = Kyhyjerã jehe’agua
 sync-setup-verify-heading = Remoñepyrũsépa tembiapo embojuehe hag̃ua
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Ambue poruhára omoñepyrũmara’e ombojuehe ko mohendahápe. Oñembojuajúvo ojehe’áta techaukaha, ñe’ẽñemi ha ambue mba’epytyvõrã { $email } ndive
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
