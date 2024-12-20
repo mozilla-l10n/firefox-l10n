@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = С регистрирането и с
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Предотвратете нежеланата поща с безплатна маска за пощата
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Предотвратете нежеланата поща, като скриете истинския си електронен адрес с <label data-l10n-name="firefox-relay-learn-more-url">маска за поща</label>. Писмата от <label data-l10n-name="firefox-fxa-and-relay-offer-domain">този сайт</label> пак ще стигат до вас, но без бъде видим вашия адрес на електронна поща.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Регистрирайте или влезте в профила си, за да използвате маска
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Регистриране
@@ -70,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Вземете безплатна маска за пощата
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Защитете входящата си поща, като използвате безплатна <label data-l10n-name="firefox-relay-learn-more-url">маска за поща</label>, за да скриете истинския си адрес. Писмата от <label data-l10n-name="firefox-fxa-and-relay-offer-domain">този сайт</label> пак ще стигат до вас, но без да бъде видим вашия адрес на електронна поща.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Регистрирайте или влезте в профила си, за да използвате маска
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Регистриране
@@ -78,6 +80,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Защитете се от нежелана поща с маска за пощата
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Защитете се от нежелана поща, като скриете истинския си електронен адрес с <label data-l10n-name="firefox-relay-learn-more-url">маска за поща</label>. Писмата от <label data-l10n-name="firefox-fxa-and-relay-offer-domain">този сайт</label> пак ще стигат до вас, но вашия адрес на електронна поща ще бъде маскиран.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Регистрирайте или влезте в профила си, за да използвате маска
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Напред
