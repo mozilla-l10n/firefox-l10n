@@ -34,7 +34,7 @@ about-logins-menu-menuitem-remove-all-logins2 = ลบรหัสผ่าน�
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก
-       *[other] การกำหนดลักษณะ
+       *[other] ค่าปรับแต่ง
     }
 about-logins-menu-menuitem-help = ช่วยเหลือ
 
