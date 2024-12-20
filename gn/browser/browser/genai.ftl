@@ -69,6 +69,16 @@ genai-shortcuts-selected-warning-generic =
             [one] Eiporavo haimete { $selectionLength } tai.
            *[other] Tai hetakue romondokuaáva chatbot IA reheguávape ohupytykuaa { $maxLength }.
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } ndorekomo’ãi poravopy tuichavéva
+    .message =
+        { $selectionLength ->
+            [one] Eiporavo haimete { $selectionLength } tai.
+           *[other] Tai hetakue romondokuaáva chatbot IA reheguávape ohupytykuaa { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Eñomi jeike pya’eha chatbot-pe
 
