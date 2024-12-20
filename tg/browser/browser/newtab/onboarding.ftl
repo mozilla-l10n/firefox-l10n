@@ -419,6 +419,8 @@ onboarding-horizontal-tabs-description =
     .aria-description = Равзанаи браузер варақаҳоро дар қисми боло нишон медиҳад.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Чат-боти «AI» зеҳни сунъиро дар навори ҷонибӣ кӯшиш кунед
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Дар бораи муҳтаво аз Интернет хулоса бароред, барои ҳал кардани масъалаҳои гуногун маслиҳат гиред, барои паёмҳои худ сиёҳнависҳо нависед — тамоми кор ҳангоми тамошобинӣ. Имкониятҳоро аз якчанд таъминкунанда интихоб кунед. Дар вақти дилхоҳ онҳоро иваз кунед. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 onboarding-genai-sidebar-primary-button = Чат-ботеро интихоб намоед
 onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо
 
