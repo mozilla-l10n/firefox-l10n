@@ -8,7 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name } не можа да генерира нова маска. Код на грешка в HTTP: { $status }.
+firefox-relay-mask-generation-failed = { -relay-brand-name } не може да създаде нова маска. Код на грешка в HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } не можа да намери маски за многократна употреба. Код на грешка в HTTP: { $status }.
 
 ## The "control" variation of the Relay offer popup
@@ -33,7 +33,7 @@ firefox-relay-opt-in-title-b = Вземете безплатна маска за
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = Защитете пощенската си кутия от нежелана поща
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Използвайте маска за пощата
+    .label = Използване на маска за пощата
     .accesskey = м
 firefox-relay-opt-in-confirmation-disable =
     .label = Спиране на този въпрос
@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Регистрирайте или влезте в профила си, за да използвате маска
+firefox-relay-offer-legal-notice-control = С регистрирането и създаването на маска се съгласявате с <label data-l10n-name="tos-url">Условията на услугата</label> и <label data-l10n-name="privacy-url">Политиката за лични данни</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

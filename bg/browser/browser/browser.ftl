@@ -1044,7 +1044,7 @@ firefox-relay-offer-why-to-use-relay = Нашите сигурни и лесни
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Всички имейли, изпратени до вашите имейл маски, ще бъдат препращани към <strong>{ $useremail }</strong> (освен ако не решите да ги блокирате).
-firefox-relay-offer-legal-notice = С натискането на „Използване на имейл маска“ вие се съгласявате с <label data-l10n-name="tos-url">Условията на услугата</label> и <label data-l10n-name="privacy-url">Политиката за лични данни </label>.
+firefox-relay-offer-legal-notice = С натискането на „Използване на маска за пощата“ вие се съгласявате с <label data-l10n-name="tos-url">Условията на услугата</label> и <label data-l10n-name="privacy-url">Политиката за лични данни</label>.
 
 ## Add-on Pop-up Notifications
 
