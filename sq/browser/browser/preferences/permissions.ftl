@@ -90,7 +90,7 @@ permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet p�
 permissions-exceptions-https-only-window2 =
     .title = Përjashtime - Mënyra Vetëm-HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të sigurt. Përjashtimet nuk vlejnë për dritare private.
+permissions-exceptions-https-only-desc = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të siguruar. Përjashtimet nuk vlejnë për dritare private.
 permissions-exceptions-https-only-desc2 = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të siguruar.
 
 ## Exceptions - Pop-ups

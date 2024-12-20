@@ -115,7 +115,7 @@ mr2-onboarding-default-theme-label = Eksploroni tema parazgjedhje.
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Faleminderit që na zgjidhni ne
-mr2-onboarding-thank-you-text = { -brand-short-name }-i është një shfletues i pavarur, me në ent jofitimprurës nga pas. Tok, po e bëmë web-in më të sigurt, më të shëndetshëm dhe më privat.
+mr2-onboarding-thank-you-text = { -brand-short-name }-i është një shfletues i pavarur, me në ent jofitimprurës nga pas. Tok, po e bëmë web-in më të siguruar, më të shëndetshëm dhe më privat.
 mr2-onboarding-start-browsing-button-label = Nisni shfletimin
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)

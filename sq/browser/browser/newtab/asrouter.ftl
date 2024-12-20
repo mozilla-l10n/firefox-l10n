@@ -102,7 +102,7 @@ cfr-doorhanger-milestone-close-button = Mbylle
 ## DOH Message
 
 cfr-doorhanger-doh-body = Privatësia juaj ka rëndësi. { -brand-short-name }-i tani e tutje ia kalon në mënyrë të siguruar kërkesat tuaja DNS, kurdo që është e mundur, një shërbimi partner, për t’ju mbrojtur teksa shfletoni.
-cfr-doorhanger-doh-header = Kërkesa DNS të fshehtëzuara, më të sigurta
+cfr-doorhanger-doh-header = Kërkesa DNS të fshehtëzuara, më të siguruara
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Çaktivizoje
