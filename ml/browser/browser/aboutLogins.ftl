@@ -101,8 +101,10 @@ about-logins-list-section-week = കഴിഞ്ഞ 7 ദിവസങ്ങൾ
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = താങ്ങളുടെ കരുതിവച്ച പ്രവേശിക്കലുകൾക്കായി തേടുകയാണോ? സമന്വയം തുടങ്ങി വയ്ക്കുക അല്ലെങ്കിൽ അവരെ ഇറക്കുമതിക്കുക.
 about-logins-login-intro-heading-logged-in = സമന്വയിപ്പിച്ച ലോഗിനുകളൊന്നും കണ്ടെത്തിയില്ല.
 login-intro-description = നിങ്ങളുടെ ലോഗിനുകൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
+about-logins-login-intro-heading-message = താങ്ങളുടെ രഹസ്യവാക്കുകളെ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
 
 ## Login
 
@@ -158,6 +160,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = കരുതിവ�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = കരുതിവച്ച രഹസ്യവാക്കു് പകർത്തുക
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = കരുതിവച്ച രഹസ്യവാക്കുകൾ കയറ്റുമതിക്കുക
 
 ## Primary Password notification
 
@@ -181,12 +186,30 @@ about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] 1
+        [one] മാറ്റുക
+       *[other] എല്ലാം മാറ്റുക
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] 1
+        [one] അതെ, ഈ പ്രവേശനം മാറ്റുക
+       *[other] അതെ, ഈ പ്രവേശനങ്ങൾ മാറ്റുക
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
+       *[other] എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = പ്രവേശിക്കലുകളും രഹസ്യവാക്കുകളും കയറ്റുമതിക്കുക.
 about-logins-confirm-export-dialog-confirm-button = കയറ്റുമതി ചെയ്യുക…
 about-logins-confirm-export-dialog-title2 = രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുന്നതിനെക്കുറിച്ചു് ഒരു കുറിപ്പ്
+about-logins-confirm-export-dialog-confirm-button2 = കയറ്റുമതി തുടരുക
 about-logins-alert-import-title = ഇറക്കുമതി കഴിഞ്ഞു
 about-logins-alert-import-message = വിശദമായ ഇറക്കുമതി ചുരുക്കം കാണുക
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
@@ -227,6 +250,9 @@ about-logins-export-file-picker-title = പ്രവേശിക്കൽ ഫയ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = രഹസ്യവാക്കുകൾ.csv
 about-logins-export-file-picker-export-button = കയറ്റുമതി
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -265,6 +291,7 @@ about-logins-import-dialog-done = ചെയ്തു
 about-logins-import-dialog-error-title = ഇറക്കുമതി പിശക്
 about-logins-import-dialog-error-file-format-title = ഫയൽ ഘടനപ്രശ്നം
 about-logins-import-dialog-error-file-permission-title = ഫയൽ വായിക്കാൻ കഴിയുന്നില്ല
+about-logins-import-dialog-error-no-logins-imported = പ്രവേശിക്കലുകളൊന്നു ഇറക്കുമതിച്ചിട്ടില്ല
 about-logins-import-dialog-error-learn-more = കൂടുതല്‍ അറിയുക
 about-logins-import-dialog-error-try-import-again = വീണ്ടും ഇറക്കുമതി  ചെയ്യാൻ ശ്രമിക്കുക...
 about-logins-import-dialog-error-cancel = റദ്ദാക്കുക
@@ -273,7 +300,9 @@ about-logins-import-report-title = ഇറക്കുമതി ചുരുക�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = വരി { $number }
+about-logins-import-report-row-description-modified = നിലവിലുള്ള പ്രവേശിക്കൽ പുതുച്ചു
 about-logins-import-report-row-description-added = പുതിയ പ്രവേശിക്കൽ ചേർത്തു
+about-logins-import-report-row-description-added2 = പുതിയ രഹസ്യവാക്കു് ചേർത്തു
 about-logins-import-report-row-description-error = പിശക്: തലം വിട്ടുപോയിരിക്കുന്നു
 
 ##
@@ -290,3 +319,4 @@ about-logins-import-report-row-description-error-missing-field = പിശക്
 
 ## Logins import report page
 
+about-logins-import-report-page-title = സംഗ്രഹ റിപ്പോർട്ട്  ഇറക്കുമതിക്കുക
