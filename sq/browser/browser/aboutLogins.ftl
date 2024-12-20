@@ -107,7 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Po kërkoni për kredencialet tua
 about-logins-login-intro-heading-logged-in = S’u gjetën kredenciale të njëkohësuar hyrjesh.
 login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-product-name } në një pajisje tjetër, ja se si t’i merrni këtu:
 login-intro-instructions-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } juaja te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
-about-logins-login-intro-heading-message = Ruajini fjalëkalimet tuaja në një vend të sigurt
+about-logins-login-intro-heading-message = Ruajini fjalëkalimet tuaja në një vend të siguruar
 login-intro-description2 = Krejt fjalëkalimet që ruani te { -brand-product-name } janë të fshehtëzuar. Plus, vëzhgojmë për cenime dhe ju njoftojmë, nëse jeni prekur. <a data-l10n-name="breach-alert-link">Mësoni më tepër</a>
 login-intro-instructions-fxa2 = Krijoni ose hyni te  llogaria juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instructions-fxa-settings = Kaloni te Rregullime > Njëkohësim > Aktivizoni njëkohësim… Përzgjidhni kutizën Kredenciale Hyrjesh dhe fjalëkalime.
