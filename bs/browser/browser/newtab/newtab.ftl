@@ -351,12 +351,49 @@ newtab-weather-menu-temperature-option-fahrenheit = Farenhajt
 newtab-weather-menu-temperature-option-celsius = Celzijus
 newtab-weather-menu-change-temperature-units-fahrenheit = Prebacite na Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Prebacite na Celzijus
+newtab-weather-menu-hide-weather = Sakrij vrijeme na novom tabu
+newtab-weather-menu-learn-more = Saznajte više
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Vremenski podaci trenutno nisu dostupni.
 
 ## Topic Labels
 
+newtab-topic-label-business = Posao
+newtab-topic-label-career = Karijera
+newtab-topic-label-education = Obrazovanje
+newtab-topic-label-arts = Zabava
+newtab-topic-label-food = Hrana
+newtab-topic-label-health = Zdravlje
+newtab-topic-label-hobbies = Igre
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Novac
+newtab-topic-label-society-parenting = Roditeljstvo
+newtab-topic-label-government = Politika
+newtab-topic-label-education-science = Nauka
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Životni savjeti
+newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Tehnologija
+newtab-topic-label-travel = Putovanja
+newtab-topic-label-home = Kuća i bašta
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Odaberite teme za fino podešavanje vašeg feeda
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Odaberite dvije ili više tema. Naši stručni kustosi daju prioritet pričama prilagođenim vašim interesovanjima. Ažurirajte bilo kada.
+newtab-topic-selection-save-button = Sačuvaj
+newtab-topic-selection-cancel-button = Otkaži
+newtab-topic-selection-button-maybe-later = Možda kasnije
+newtab-topic-selection-privacy-link = Saznajte kako štitimo i upravljamo podacima
+newtab-topic-selection-button-update-interests = Ažurirajte svoja interesovanja
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
