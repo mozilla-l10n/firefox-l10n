@@ -28,6 +28,9 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-keep-closed-header =
+    .heading = Да остане ли затворено?
+    .message = Можете да промените настройките, за да оставите Проверка на отзиви затворено по подразбиране. В момента се отваря автоматично.
 
 ## Strings for the product review snippets card
 
@@ -84,6 +87,7 @@ ad-by-fakespot = Реклама от { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Помогнете ни да подобрим { -brand-product-name }
+shopping-survey-question-one = Доколко сте доволни от работата на Проверката на отзиви в { -brand-product-name }?
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
