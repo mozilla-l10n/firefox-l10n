@@ -46,7 +46,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Registruj se
-    .accesskey = { "" }
+    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne pokazuj mi ovo ponovo
     .accesskey = D
@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Prvo se prijavite ili prijavite na svoj račun da koristite email masku
+firefox-relay-offer-legal-notice-control = Registracijom i kreiranjem email maske prihvatate <label data-l10n-name="tos-url">Uslove korištenja</label> i <label data-l10n-name="privacy-url">Obavijest o privatnosti</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

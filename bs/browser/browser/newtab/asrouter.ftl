@@ -191,12 +191,30 @@ firefoxview-spotlight-promo-secondarybutton = Preskoči
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Odaberi kolorit
+    .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Obojite svoj pretraživač sa { -brand-short-name } ekskluzivnim nijansama inspirisanim glasovima koji su promijenili kulturu.
+colorways-cfr-header-28days = Koloriti Nezavisni glasovi ističu 16. januara
+colorways-cfr-header-14days = Koloriti Nezavisni glasovi ističu za dvije sedmice
+colorways-cfr-header-7days = Koloriti Nezavisni glasovi ističu ove sedmice
+colorways-cfr-header-today = Koloriti Nezavisni glasovi ističu danas
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Dozvoliti { -brand-short-name } da odbije natpise kolačića?
+cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge zahtjeve za kolačiće natpisa.
+cfr-cbh-confirm-button = Odbij kolačiće natpisa
+    .accesskey = R
+cfr-cbh-dismiss-button = Ne sada
+    .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } je upravo odbio kolačić natpisa za vas
+cookie-banner-blocker-onboarding-body = Manje ometanja, manje kolačića koji vas prate na ovoj stranici.
+cookie-banner-blocker-onboarding-learn-more = Saznajte više
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Tu smo za vas
 july-jam-body = Svakog mjeseca, { -brand-short-name } blokira u prosjeku 3.000+ tragača po korisniku, dajući vam siguran i brz pristup dobrom internetu.
 july-jam-set-default-primary = Otvori moje linkove sa { -brand-short-name }om
 fox-doodle-pin-headline = Dobrodošli nazad
@@ -215,6 +233,10 @@ set-default-pdf-handler-primary = Razumijem
 
 fxa-sync-cfr-header = Novi uređaj u vašoj budućnosti?
 fxa-sync-cfr-body = Pobrinite se da vaše najnovije oznake, lozinke i tabovi dolaze sa vama svaki put kada otvorite novi { -brand-product-name } pretraživač.
+fxa-sync-cfr-primary = Saznajte više
+    .accesskey = L
+fxa-sync-cfr-secondary = Podsjeti me kasnije
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 
@@ -227,6 +249,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Kreirajte račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novi uređaj u vašoj budućnosti?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slijedite nekoliko jednostavnih koraka da ponesete svoje oznake, historiju i lozinke sa sobom kada počnete koristiti novi uređaj.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
+device-migration-fxa-spotlight-sync-header = Pretražujte bez propuštanja
+device-migration-fxa-spotlight-sync-body = Sinhronizirajte sve vaše važne informacije šifriranjem — poput zabilješki i lozinki. Sve možete povući bilo gdje gdje koristite { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Započnite
 
 ## Set as Default PDF Reader Infobar
 
@@ -241,11 +266,17 @@ pdf-default-notification-decline-button =
 
 launch-on-login-infobar-message = <strong>Otvarati { -brand-short-name } svaki put kada ponovo pokrenete računar?</strong> Sada možete postaviti { -brand-short-name } da se automatski otvara kada ponovo pokrenete svoj uređaj.
 launch-on-login-learnmore = Saznajte više
+launch-on-login-infobar-confirm-button = Da, otvori { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Ne sada
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
 launch-on-login-infobar-final-message = <strong>Otvorite { -brand-short-name } svaki put kada ponovo pokrenete računar?</strong> Za upravljanje postavkama za pokretanje, pretražite “startup” u postavkama.
+launch-on-login-infobar-final-reject-button = Ne, hvala
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
@@ -260,12 +291,35 @@ tail-fox-spotlight-secondary-button = Ne sada
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Starije verzije { -brand-short-name }a mogu početi imati problema 14. januara 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Ažurirajte da nastavite koristiti { -brand-short-name } nakon 14. marta 2025.</strong>
+root-certificate-succession-infobar-link = Zašto trebam ažurirati?
+root-certificate-succession-infobar-primary-button =
+    .label = Ažuriraj sada
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = Kasnije
+    .accesskey = L
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Propustili ste važno ažuriranje { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Dijelovi pretraživača će uskoro prestati raditi ako ne ažurirate. Sada je sjajno vrijeme da dobijete naše najnovije zaštite i funkcije.
+root-certificate-windows-background-notification-learn-more-button = Saznajte više
+root-certificate-windows-background-notification-update-button = Ažuriraj { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Zatvori
+    .aria-label = Zatvori
+fxa-menu-message-sign-up-button = Registruj se
+fxa-menu-message-sync-devices-primary-text = Sinhronizirajte sve svoje uređaje
+fxa-menu-message-sync-devices-secondary-text = Odmah pribavite svoje informacije — poput zabilješki i lozinki — svuda gdje koristite { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Sinhronizirajte sve svoje uređaje
+fxa-menu-message-backup-data-primary-text = Napravite rezervnu kopiju podataka vašeg pretraživača
+fxa-menu-message-backup-data-secondary-text = Automatski zaštiti zabilješki, lozinke i druge informacije na svim svojim uređajima.
+fxa-menu-message-backup-data-collapsed-text = Napravite rezervnu kopiju podataka pretraživača
 
 ## Multi-CTA Fox Doodle Spotlight
 

@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Objasni ovo
     .value = Molimo objasnite ključne koncepte u ovom izboru, koristeći jednostavne riječi. Također, koristite primjere.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Lektura
+    .value = Molimo provjerite izbor za pravopisne i gramatičke greške. Identifikujte sve greške i dajte ispravljenu verziju teksta. Održavajte značenje i činjeničnu tačnost i prvo ispišite listu predloženih ispravki, a zatim konačnu, ispravljenu verziju teksta.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,27 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitajte { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI chatbot neće dobiti vaš puni izbor
+    .message =
+        { $selectionLength ->
+            [one] Odabrali ste oko { $selectionLength } znak. Broj znakova koje možemo poslati AI chatbotu je oko { $maxLength }.
+            [few] Odabrali ste oko { $selectionLength } znaka. Broj znakova koje možemo poslati AI chatbotu je oko { $maxLength }.
+           *[other] Odabrali ste oko { $selectionLength } znakova. Broj znakova koje možemo poslati AI chatbotu je oko { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } neće dobiti vaš puni odabir
+    .message =
+        { $selectionLength ->
+            [one] Odabrali ste oko { $selectionLength } znak. Broj znakova koje možemo poslati na { $provider } je oko { $maxLength }.
+            [few] Odabrali ste oko { $selectionLength } znaka. Broj znakova koje možemo poslati na { $provider } je oko { $maxLength }.
+           *[other] Odabrali ste oko { $selectionLength } znakova. Broj znakova koje možemo poslati na { $provider } je oko { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Sakrij prečicu za chatbot
 
