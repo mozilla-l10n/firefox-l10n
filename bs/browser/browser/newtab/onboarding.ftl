@@ -362,6 +362,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Hvala vam što koristite { 
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinhronizirajte svoje podatke na svim uređajima
 onboarding-sign-up-description = Prijavite se za račun i sve vaše važne informacije — lozinke, zabilješke i još mnogo toga — bit će sigurno pohranjene i dostupne kada se prijavite na bilo koji uređaj.
+onboarding-sign-up-button = Registruj se ili prijavi se
+onboarding-sign-up-secondary-button = Započnite pretraživanje
 
 ## New user time and familiarity survey strings
 
@@ -370,12 +372,69 @@ onboarding-new-user-familiarity-based-survey-title = Koliko ste upoznati sa { -b
 onboarding-new-user-survey-subtitle = Vaše povratne informacije pomažu da { -brand-short-name } bude još bolji.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Sljedeće
+onboarding-new-user-survey-legal-link-label = Odabirom "{ onboarding-new-user-survey-next-button-label }", pristajete na <a data-l10n-name="privacy_notice">Obavijest o privatnosti</a od { -brand-product-name } >
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Ja sam potpuno nov
+onboarding-new-user-survey-time-based-option-2 = Manje od 1 mjeseca
+onboarding-new-user-survey-time-based-option-3 = Više od 1 mjeseca, redovno
+onboarding-new-user-survey-time-based-option-4 = Više od 1 mjeseca, povremeno
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Ja sam potpuno nov
+onboarding-new-user-survey-familiarity-based-option-2 = Koristio sam ga
+onboarding-new-user-survey-familiarity-based-option-3 = Veoma sam upoznat sa tim
+onboarding-new-user-survey-familiarity-based-option-4 = Koristio sam ga u prošlosti, ali prošlo je dosta vremena
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Recite nam gdje želite svoje tabove
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Uključite ga kad god želite u postavkama bočne trake.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Tabovi sa strane
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Tabovi na vrhu
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Vertikalni tabovi su ovdje
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Predstavljamo vertikalne tabove
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Probajte svoje tabove sa strane. Uključite ga kad god želite u postavkama bočne trake.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Pokušajte s vertikalnim tabovima
+onboarding-flair-text = Novo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Držite horizontalne tabove
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Prozor pretraživača koji prikazuje tabove duž bočne strane ekrana kao dio bočne trake { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Prozor pretraživača koji prikazuje tabove duž bočne strane ekrana kao dio bočne trake { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Prozor pretraživača koji prikazuje tabove na vrhu.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Prozor pretraživača koji prikazuje tabove na vrhu.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Isprobajte AI chatbot na bočnoj traci
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Sažmite web sadržaj, zamislite ideje, nacrte poruka — sve dok pretražujete. Birajte između više provajdera. Prebacite bilo kada. <a data-l10n-name="learn-more">Saznajte više</a>
+onboarding-genai-sidebar-primary-button = Odaberite chatbot
+onboarding-genai-sidebar-secondary-button = Započnite pretraživanje
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Završite postavljanje { -brand-short-name }
+onboarding-checklist-subtitle = Dovršite ove korake kako biste maksimalno iskoristili svoje iskustvo pretraživanja.
+onboarding-checklist-set-default = Postavite { -brand-short-name } kao zadani pretraživač
+onboarding-checklist-pin = Zakačite { -brand-short-name } na traku zadataka
+onboarding-checklist-import = Uvezi iz prethodnog pretraživača
+onboarding-checklist-extension = Dodaj ekstenziju
+onboarding-checklist-sign-up = Registruj se ili se prijavite na svoj račun
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Isprobajte grupe tabova za manje nereda, više fokusa
+tab-groups-onboarding-feature-callout-subtitle = Organizirajte se prevlačenjem jednog taba na drugi da kreirate svoju prvu grupu.

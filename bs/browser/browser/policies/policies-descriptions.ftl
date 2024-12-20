@@ -140,3 +140,5 @@ policy-UseSystemPrintDialog = Štampajte pomoću sistemskog dijaloga za štampan
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokirajte posjećivanje web stranica. Pogledajte dokumentaciju za više detalja o formatu.
 policy-Windows10SSO = Dozvolite Windows jednokratnu prijavu za Microsoft, poslovne i školske račune.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Dozvolite jedinstvenu prijavu za Microsoft Entra račune.

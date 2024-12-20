@@ -80,6 +80,28 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Uredi folder…
     .accesskey = E
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Izbriši folder
+            [one] Izbriši folder
+            [few] Izbriši foldera
+           *[other] Izbriši foldera
+        }
+    .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] Izbriši stranicu
+            [one] Izbriši stranicu
+            [few] Izbriši stranice
+           *[other] Izbriši stranica
+        }
+    .accesskey = D
 # Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane oznake
@@ -92,6 +114,28 @@ other-bookmarks-folder =
 places-show-in-folder =
     .label = Prikaži u folderu
     .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Izbriši zabilješku
+            [one] Izbriši zabilješku
+            [few] Izbriši zabilješke
+           *[other] Izbriši zabilješki
+        }
+    .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Zabilježi stranicu…
+            [one] Zabilježi stranicu…
+            [few] Zabilježi stranice…
+           *[other] Zabilježi stranica…
+        }
+    .accesskey = B
 places-untag-bookmark =
     .label = Ukloni oznaku
     .accesskey = R
