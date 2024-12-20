@@ -334,9 +334,28 @@ newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju sa maglovitim 
 newtab-wallpaper-category-title-colors = Čvrste boje
 newtab-wallpaper-blue = Plava
 newtab-wallpaper-light-blue = Svijetlo plava
+newtab-wallpaper-light-purple = Svijetlo ljubičasta
+newtab-wallpaper-light-green = Svijetlo zelena
+newtab-wallpaper-green = Zelena
+newtab-wallpaper-beige = Bež
+newtab-wallpaper-yellow = Žuta
+newtab-wallpaper-orange = Narandžasta
+newtab-wallpaper-pink = Roza
+newtab-wallpaper-light-pink = Svijetlo roza
+newtab-wallpaper-red = Crvena
+newtab-wallpaper-dark-blue = Tamno plava
+newtab-wallpaper-dark-purple = Tamna ljubičasta
+newtab-wallpaper-dark-green = Tamno zelena
+newtab-wallpaper-brown = Smeđa
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Apstraktno
+newtab-wallpaper-abstract-green = Zeleni oblici
+newtab-wallpaper-abstract-blue = Plavi oblici
+newtab-wallpaper-abstract-purple = Ljubičasti oblici
+newtab-wallpaper-abstract-orange = Narandžasti oblici
+newtab-wallpaper-gradient-orange = Gradijent narandžaste i roze
 
 ## Photographs
 
@@ -400,3 +419,6 @@ newtab-topic-selection-button-pick-interests = Odaberite svoja interesovanja
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Prati
+newtab-section-following-button = Pratite
+newtab-section-unfollow-button = Prestani pratiti
