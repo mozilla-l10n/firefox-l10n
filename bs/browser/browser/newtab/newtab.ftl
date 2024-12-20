@@ -356,12 +356,51 @@ newtab-wallpaper-abstract-blue = Plavi oblici
 newtab-wallpaper-abstract-purple = Ljubičasti oblici
 newtab-wallpaper-abstract-orange = Narandžasti oblici
 newtab-wallpaper-gradient-orange = Gradijent narandžaste i roze
+newtab-wallpaper-abstract-blue-purple = Plavi i ljubičasti oblici
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografije
+newtab-wallpaper-beach-at-sunrise = Plaža u izlasku sunca
+newtab-wallpaper-beach-at-sunset = Plaža na zalasku sunca
+newtab-wallpaper-storm-sky = Olujno nebo
+newtab-wallpaper-sky-with-pink-clouds = Nebo sa ružičastim oblacima
+newtab-wallpaper-red-panda-yawns-in-a-tree = Crvena panda zijeva na drvetu
+newtab-wallpaper-white-mountains = Bijele planine
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografija od <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Probajte nove boje
+newtab-wallpaper-feature-highlight-content = Dajte svojom novom tabu svjež izgled pomoću pozadina.
+newtab-wallpaper-feature-highlight-button = Razumijem
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Odbaci
+    .aria-label = Zatvori iskočni prozor
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Pogledajte prognozu na { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponzorisano
+newtab-weather-menu-change-location = Promijeni lokaciju
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Traži lokaciju
+    .aria-label = Traži lokaciju
+newtab-weather-change-location-search-input = Traži lokaciju
+newtab-weather-menu-weather-display = Prikaz vremena
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Jednostavno
 newtab-weather-menu-change-weather-display-simple = Prebacite se na jednostavan prikaz
 newtab-weather-menu-weather-display-option-detailed = Detaljno
 newtab-weather-menu-change-weather-display-detailed = Prebacite se na detaljan prikaz

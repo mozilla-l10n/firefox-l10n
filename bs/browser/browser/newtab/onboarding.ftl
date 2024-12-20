@@ -152,32 +152,114 @@ fx100-thank-you-hero-text =
     Hvala
     <span data-l10n-name="zap">Vam</span>
 fx100-thank-you-subtitle = Ovo je naše 100. izdanje! Hvala što ste nam pomogli da izgradimo bolji, zdraviji internet.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Zakačite { -brand-short-name } na traku zadataka
+       *[other] Zakačite { -brand-short-name } na traku zadataka
+    }
+fx100-upgrade-thanks-header = 100 puta hvala
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Ovo je naše 100. izdanje { -brand-short-name }. Hvala <em>vam</em> što ste nam pomogli da izgradimo bolji, zdraviji internet.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Ovo je naše 100. izdanje! Hvala što ste dio naše zajednice. Držite { -brand-short-name } jedan klik dalje za sljedećih 100.
+mr2022-onboarding-secondary-skip-button-label = Preskočite ovaj korak
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Sačuvaj i nastavi
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Postavite { -brand-short-name } kao zadani pretraživač
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Uvezi iz prethodnog pretraživača
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Otvorite nevjerovatan internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Pokrenite { -brand-short-name } s bilo kojeg mjesta jednim klikom. Svaki put kada to učinite, birate otvoreniji i nezavisniji web.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Zakačite { -brand-short-name } na traku zadataka
+       *[other] Zakačite { -brand-short-name } na traku zadataka
+    }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Zakačite { -brand-short-name } na traku zadataka i start meni
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Počnite sa pretraživačem koji podržava neprofitna organizacija. Mi branimo vašu privatnost dok se krećete po webu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Hvala vam što volite { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Pokrenite zdraviji internet s bilo kojeg mjesta jednim klikom. Naše najnovije ažuriranje je prepuno novih stvari za koje mislimo da ćete obožavati.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Koristite pretraživač koji štiti vašu privatnost dok se krećete po webu. Naše najnovije ažuriranje je prepuno stvari koje obožavate.
+mr2022-onboarding-existing-pin-checkbox-label = Također dodajte { -brand-short-name } privatno pregledanje
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Neka { -brand-short-name } bude vaš pretraživač
+mr2022-onboarding-set-default-primary-button-label = Postavite { -brand-short-name } kao zadani pretraživač
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Koristite pretraživač koji podržava neprofitna organizacija. Mi branimo vašu privatnost dok se krećete po webu.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovija verzija napravljena je oko vas, što olakšava kretanje po webu nego ikad. Prepuna je funkcija za koje mislimo da ćete obožavati.
+mr2022-onboarding-get-started-primary-button-label = Postavite za nekoliko sekundi
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-import-header = Munjevito podešavanje
+mr2022-onboarding-import-subtitle = Postavite { -brand-short-name } kako želite. Dodajte svoje zabilješke, lozinke i još mnogo toga iz svog starog pretraživača.
+mr2022-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog pretraživača
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Odaberite boju koja vas inspiriše
+mr2022-onboarding-colorway-subtitle = Nezavisni glasovi mogu promijeniti kulturu.
+mr2022-onboarding-colorway-primary-button-label-continue = Postavite i nastavite
+mr2022-onboarding-existing-colorway-checkbox-label = Neka { -firefox-home-brand-name } bude vaša šarena početna stranica
+mr2022-onboarding-colorway-label-default = Izvorno
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Trenutne boje { -brand-short-name }a
+mr2022-onboarding-colorway-description-default = <b>Koristite moje trenutne boje { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Playmaker (crveno)
+mr2022-onboarding-colorway-description-playmaker = <b>Vi ste Playmaker.</b> Vi stvarate prilike za pobjedu i pomažete svima oko vas da podignu svoju igru.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Ekspresionista (žuta)
+mr2022-onboarding-colorway-description-expressionist = <b>Vi ste ekspresionista.</b> Vi vidite svijet drugačije i vaše kreacije izazivaju emocije drugih.
+mr2022-onboarding-colorway-label-visionary = Vizionar
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Vizionar (zeleno)
+mr2022-onboarding-colorway-description-visionary = <b>Vi ste vizionar.</b> Dovodite u pitanje status quo i pokrećete druge da zamisle bolju budućnost.
+mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (plavo)
 mr2022-onboarding-colorway-description-activist = <b>Vi ste aktivista.</b> Ostavljate svijet boljim mjestom nego što ste ga našli i navodite druge da vjeruju.
@@ -202,6 +284,11 @@ mr2022-onboarding-no-mobile-download-cta-text = Skenirajte QR kod da dobijete { 
 
 mr2022-upgrade-onboarding-pin-private-window-header = Dobijte slobodu privatnog pretraživanja jednim klikom
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nema sačuvanih kolačića ili historije, direktno sa vašeg desktopa. Pretražujte kao da niko ne gleda.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Zakačite { -brand-short-name } privatno pregledanje na traku zadataka
+       *[other] Zakačite { -brand-short-name } privatno pregledanje na traku zadataka
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
@@ -253,6 +340,14 @@ onboarding-device-migration-subtitle = Prijavite se na svoj { -fxaccount-brand-n
 onboarding-device-migration-subtitle2 = Prijavite se na svoj račun da ponesete svoje oznake, lozinke i historiju sa sobom na svom novom uređaju.
 onboarding-device-migration-primary-button-label = Prijava
 
+## Add-ons Picker screen
+
+amo-picker-title = Prilagodite svoj { -brand-short-name }
+amo-picker-subtitle = Ekstenzije su poput aplikacija za vaš pretraživač i omogućavaju vam da zaštitite lozinke, preuzmete video zapise, pronađete ponude, blokirate dosadne oglase, promijenite izgled vašeg preglednika i još mnogo toga.
+amo-picker-install-button-label = Dodaj u { -brand-short-name }
+amo-picker-install-complete-label = Instalirano
+amo-picker-collection-link = Istražite više dodataka
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -264,6 +359,9 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kada ste sinhronizova
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti čuva leđa
 onboarding-gratitude-security-and-privacy-subtitle = Hvala vam što koristite { -brand-short-name }, uz podršku Mozilla fondacije. Uz vašu podršku, radimo na tome da internet učinimo sigurnijim i dostupnijim za sve.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sinhronizirajte svoje podatke na svim uređajima
+onboarding-sign-up-description = Prijavite se za račun i sve vaše važne informacije — lozinke, zabilješke i još mnogo toga — bit će sigurno pohranjene i dostupne kada se prijavite na bilo koji uređaj.
 
 ## New user time and familiarity survey strings
 
@@ -272,3 +370,12 @@ onboarding-new-user-familiarity-based-survey-title = Koliko ste upoznati sa { -b
 onboarding-new-user-survey-subtitle = Vaše povratne informacije pomažu da { -brand-short-name } bude još bolji.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Sljedeće
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+

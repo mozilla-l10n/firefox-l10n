@@ -45,3 +45,20 @@ origin-controls-state-temporary-access = Može čitati i mijenjati podatke za ov
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Potrebna dozvola
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Nije dozvoljeno od strane { -vendor-short-name } za ovu stranicu

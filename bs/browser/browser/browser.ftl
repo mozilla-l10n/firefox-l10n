@@ -658,6 +658,9 @@ urlbar-result-action-search-bookmarks = Pretraži oznake
 urlbar-result-action-search-history = Pretraži historiju
 urlbar-result-action-search-tabs = Pretraži tabove
 urlbar-result-action-search-actions = Pretraži radnje
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
 
 ## Labels shown above groups of urlbar results
 
