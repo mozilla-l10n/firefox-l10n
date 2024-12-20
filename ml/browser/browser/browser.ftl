@@ -46,12 +46,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ഡാറ്റ പെർസിസ്റ്റന്റ് സംഭരണത്തിൽ സംഭരിക്കുക
 urlbar-addons-notification-anchor =
     .tooltiptext = ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക
+urlbar-tip-help-icon =
+    .title = സഹായം തേടുക
 urlbar-search-tips-confirm = ശരി, മനസ്സിലായി
+urlbar-search-tips-confirm-short = മനസ്സിലായി
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ടിപ്സ്:
+urlbar-result-menu-button =
+    .title = കുറിപ്പടികട്ട തുറക്കുക
+urlbar-result-menu-learn-more =
+    .label = കൂടുതൽ അറിയുക
+    .accesskey = ക
+urlbar-result-menu-remove-from-history =
+    .label = നാൾവഴി നിന്നു മാറ്റുക
+    .accesskey = മ
+urlbar-result-menu-tip-get-help =
+    .label = സഹായം തേടുക
+    .accesskey = സ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -61,6 +75,9 @@ urlbar-tip-icon-description =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = അടയാളക്കുറിപ്പുകള്‍
+urlbar-search-mode-tabs = ടാബുകള്‍
+urlbar-search-mode-history = നാള്‍വഴി
 
 ##
 
@@ -101,7 +118,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ഈ സമയം, ഇതുപയോഗിച്ച് തിരയുക:
 search-one-offs-change-settings-compact-button =
@@ -129,9 +146,12 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-themes = അലങ്കാരങ്ങൾ
 
 ## Bookmark Panel
 
+bookmark-panel-save-button =
+    .label = കരുതിവയ്ക്കുക
 
 ## Identity Panel
 
@@ -199,6 +219,8 @@ popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമ�
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
 urlbar-search-mode-indicator-close =
     .aria-label = അടയ്ക്കുക
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക
 urlbar-switch-to-tab =
@@ -221,6 +243,19 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച് തെരയുക
 urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
+
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks =
+    .label = അടയാളക്കുറിപ്പുകള്‍
+urlbar-searchmode-tabs =
+    .label = ടാബുകള്‍
+urlbar-searchmode-history =
+    .label = നാള്‍വഴി
+urlbar-searchmode-actions =
+    .label = പ്രവര്‍ത്തികൾ
+urlbar-searchmode-exit-button =
+    .tooltiptext = അടയ്ക്കുക
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -393,6 +428,9 @@ navbar-overflow =
 navbar-print =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
+navbar-home =
+    .label = ആമുഖം
+    .tooltiptext = { -brand-short-name } ആമുഖതാൾ
 navbar-library =
     .label = സംഭരണി
     .tooltiptext = ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക
@@ -411,6 +449,10 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -427,6 +469,10 @@ data-reporting-notification-button =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -448,6 +494,7 @@ refresh-blocked-allow =
 
 popup-notification-addon-install-unsigned =
     .value = (പരിശോധിച്ചിട്ടില്ലാത്തതു്)
+popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങൾ കാണുക
 
 ## Pop-up warning
 
@@ -473,3 +520,16 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' കാണിക്കുക
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = അറയിൽ കാണിക്കുക
+    .accessKey = ക
