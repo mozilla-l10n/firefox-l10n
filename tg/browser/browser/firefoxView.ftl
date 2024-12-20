@@ -110,10 +110,10 @@ firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =
     .title = Пинҳон кардани рӯйхат
-firefoxview-overview-nav = Тамошокунии охирин
-    .title = Тамошокунии охирин
-firefoxview-overview-header = Тамошокунии охирин
-    .title = Тамошокунии охирин
+firefoxview-overview-nav = Тамошобинии охирин
+    .title = Тамошобинии охирин
+firefoxview-overview-header = Тамошобинии охирин
+    .title = Тамошобинии охирин
 
 ## History in this context refers to browser history
 
@@ -217,12 +217,12 @@ firefoxview-history-site-localhost = (файлҳои маҳаллӣ)
 ##
 
 firefoxview-show-all-history = Намоиш додани таърихи пурра
-firefoxview-view-more-browsing-history = Таърихи тамошокунии худро бештар аз назар гузаронед
+firefoxview-view-more-browsing-history = Таърихи тамошобинии худро бештар аз назар гузаронед
 
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Ба он ҷое, ки шумо будед, баргардед
-firefoxview-history-empty-description = Бо гузашти вақти тамошокунӣ, саҳифаҳое, ки шумо боздид мекунед, дар ин рӯйхат намоиш дода мешаванд.
+firefoxview-history-empty-description = Бо гузашти вақти тамошобинӣ, саҳифаҳое, ки шумо боздид мекунед, дар ин рӯйхат намоиш дода мешаванд.
 firefoxview-history-empty-description-two = Муҳофизати махфияти шумо дар маркази диққати фаъолияти мо қарор дорад. Бинобар ин, шумо метавонед фаъолиятеро, ки «{ -brand-short-name }» дар хотир медорад, тавассути <a data-l10n-name="history-settings-url">танзимоти таърихи</a> худ идора намоед.
 
 ##
@@ -249,13 +249,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Ворид кардани таърих аз браузери дигар
-firefoxview-import-history-description = Браузери «{ -brand-short-name }»-ро ҳамчун браузери дӯстдоштаи худ истифода баред. Таърихи тамошокунӣ, хатбаракҳо ва бисёр чизҳои дигарро ворид намоед.
+firefoxview-import-history-description = Браузери «{ -brand-short-name }»-ро ҳамчун браузери дӯстдоштаи худ истифода баред. Таърихи тамошобинӣ, хатбаракҳо ва бисёр чизҳои дигарро ворид намоед.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Варақаеро хеле зуд пӯшидед?
 firefoxview-recentlyclosed-empty-description = Дар ин ҷо шумо варақаҳоеро, ки ба наздикӣ пӯшидаед, пайдо мекунед, то шумо тавонед яке аз онҳоро зуд аз нав кушоед.
-firefoxview-recentlyclosed-empty-description-two = Барои дидани варақаҳо қаблӣ, ба <a data-l10n-name="history-url">таърихи тамошокунӣ</a> нигаред.
+firefoxview-recentlyclosed-empty-description-two = Барои дидани варақаҳо қаблӣ, ба <a data-l10n-name="history-url">таърихи тамошобинӣ</a> нигаред.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

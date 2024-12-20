@@ -281,6 +281,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } тарзи пардохт
        *[other] { $quantity } тарзи пардохт
     }
-migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошокунии «Safari»:
+migration-wizard-safari-permissions-sub-header = Барои ворид кардани хатбаракҳо ва таърихи тамошобинии «Safari»:
 migration-wizard-safari-instructions-continue = «Идома додан»-ро интихоб намоед
 migration-wizard-safari-instructions-folder = Ҷузвдони «Safari»-ро аз рӯйхат интихоб карда, имкони «Кушодан»-ро интихоб намоед

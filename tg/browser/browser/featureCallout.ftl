@@ -27,7 +27,7 @@ callout-firefox-view-colorways-reminder-subtitle = Браузери худро �
 # “Boost your browsing” refers to the added benefit the user receives from having
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
-continuous-onboarding-firefox-view-tab-pickup-title = Тамошокунии худро бо интихоби варақаҳо ба мартабаи баланд бардоред
+continuous-onboarding-firefox-view-tab-pickup-title = Тамошобинии худро бо интихоби варақаҳо ба мартабаи баланд бардоред
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Ба варақаҳои кушодаи худ аз дастгоҳи дилхоҳ дастрасӣ пайдо кунед. Илова бар ин, хатбаракҳо, ниҳонвожаҳо ва чизҳои дигари худро ҳамоҳанг кунед.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Оғози кор
 

@@ -18,9 +18,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = Тамошокунии хусусии { -brand-full-name }
+    .data-title-private = Тамошобинии хусусии { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = Тамошокунии хусусии { $content-title } — { -brand-full-name }
+    .data-content-title-private = Тамошобинии хусусии { $content-title } — { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -40,9 +40,9 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Тамошокунии хусусӣ
+    .data-title-private = { -brand-full-name } — Тамошобинии хусусӣ
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Тамошокунии хусусӣ
+    .data-content-title-private = { $content-title } — Тамошобинии хусусӣ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -50,7 +50,7 @@ browser-main-window-mac-window-titles =
 browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
-private-browsing-shortcut-text-2 = Тамошокунии хусусӣ бо «{ -brand-shortcut-name }»
+private-browsing-shortcut-text-2 = Тамошобинии хусусӣ бо «{ -brand-shortcut-name }»
 
 ##
 
@@ -80,7 +80,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Кушодани лавҳаи иҷозатҳои ҳақиқати виртуалӣ
 urlbar-storage-access-anchor =
-    .tooltiptext = Кушодани лавҳаи иҷозатҳо ҳангоми фаъолияти тамошокунӣ
+    .tooltiptext = Кушодани лавҳаи иҷозатҳо ҳангоми фаъолияти тамошобинӣ
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Идора кардани иҷозати дастрасӣ ба равзанаҳо ё экрани шумо дар сомона
 urlbar-indexed-db-notification-anchor =
@@ -130,7 +130,7 @@ urlbar-result-menu-tip-get-help =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
-urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошокунӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
+urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошобинӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Ҷустуҷӯ осон шуд. Кӯшиш кунед, ки ҷустуҷӯи худро дар ин ҷо тавассути навори нишонӣ ба таври мушаххас иҷро кунед. Барои ба ивазаш намоиш додани нишонии URL, ба Ҷустуҷӯ дар танзимот гузаред.
 # Prompts users to use the Urlbar when they are typing in the domain of a
@@ -284,7 +284,7 @@ quickactions-savepdf = Нигоҳ доштани саҳифа ҳамчун PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Кушодани равзанаи хусусӣ
-quickactions-cmd-private = тамошокунии хусусӣ
+quickactions-cmd-private = тамошобинии хусусӣ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Аз нав сохтани «{ -brand-short-name }»
 quickactions-cmd-refresh = нав кардан
@@ -374,7 +374,7 @@ identity-https-only-info-turn-on3 = Агар шумо хоҳед, ки «{ -bran
 identity-https-only-info-turn-off3 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи «HTTP»-и беэътимод такмилҳои «HTTPS»-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
-identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошокунии сомонаи ҷорӣ истифода баранд.
+identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошобинии сомонаи ҷорӣ истифода баранд.
 identity-permissions-storage-access-learn-more = Маълумоти бештар
 identity-permissions-reload-hint = Барои татбиқ кардани тағйирот шумо бояд саҳифаро аз нав бор кунед.
 identity-clear-site-data =
@@ -855,7 +855,7 @@ toolbar-button-synced-tabs =
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Равзанаи хусусии нав
-    .tooltiptext = Кушодани равзанаи тамошокунии хусусии нав ({ $shortcut })
+    .tooltiptext = Кушодани равзанаи тамошобинии хусусии нав ({ $shortcut })
 
 ## EME notification panel
 
@@ -965,10 +965,10 @@ data-reporting-notification-button =
     .label = Интихоб кунед, ки чӣ дастрас мешавад
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
-private-browsing-indicator-label = Тамошокунии махфӣ
+private-browsing-indicator-label = Тамошобинии махфӣ
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
-    .tooltiptext = Тамошокунии хусусӣ
+    .tooltiptext = Тамошобинии хусусӣ
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

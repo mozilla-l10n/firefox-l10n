@@ -9,11 +9,11 @@
 
 webext-perms-description-bookmarks = Хондан ва тағйир додани хатбаракҳо
 webext-perms-description-browserSettings = Хондан ва тағйир додани танзимоти браузер
-webext-perms-description-browsingData = Пок кардани таърихи тамошокунии охирин, кукиҳо ва маълумоти марбут
+webext-perms-description-browsingData = Пок кардани таърихи тамошобинии охирин, кукиҳо ва маълумоти марбут
 webext-perms-description-clipboardRead = Гирифтани маълумот аз ҳофизаи муваққатӣ
 webext-perms-description-clipboardWrite = Гузоштани маълумот ба ҳофизаи муваққатӣ
 webext-perms-description-declarativeNetRequest = Муҳтаво дар ҳамаи саҳифаҳо манъ карда мешавад
-webext-perms-description-declarativeNetRequestFeedback = Таърихи тамошокунии худро аз назар гузаронед
+webext-perms-description-declarativeNetRequestFeedback = Таърихи тамошобинии худро аз назар гузаронед
 webext-perms-description-devtools = Васеъкунии абзорҳои барномасозӣ барои дастрас кардани маълумоти шумо дар варақаҳои кушодашуда
 webext-perms-description-downloads = Боргирӣ кардани файлҳо, хондан ва тағйир додани таърихи боргириҳои браузер
 webext-perms-description-downloads-open = Кушодани файлҳое, ки ба компютери шумо боргирӣ карда шудаанд

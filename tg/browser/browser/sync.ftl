@@ -4,7 +4,7 @@
 
 fxa-toolbar-sync-syncing2 = Ҳамоҳангсозӣ…
 sync-disconnect-dialog-title2 = Пайвастро қатъ мекунед?
-sync-disconnect-dialog-body = { -brand-product-name } ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошокунии шуморо дар ин дастгоҳ нест намекунад.
+sync-disconnect-dialog-body = { -brand-product-name } ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошобинии шуморо дар ин дастгоҳ нест намекунад.
 sync-disconnect-dialog-button = Қатъ кардани пайваст
 fxa-signout-dialog2-title = Аз { -fxaccount-brand-name } мебароед?
 fxa-signout-dialog-title2 = Аз ҳисоби худ мебароед?

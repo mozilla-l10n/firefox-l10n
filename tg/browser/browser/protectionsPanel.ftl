@@ -167,6 +167,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
-cfr-protections-panel-header = Тамошокунӣ бе пайгирӣ
+cfr-protections-panel-header = Тамошобинӣ бе пайгирӣ
 cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. «{ -brand-short-name }» шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
 cfr-protections-panel-link-text = Маълумоти бештар
