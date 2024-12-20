@@ -15,9 +15,9 @@ psmerr-hostreusedissuerandserial =
     Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
     
     Dëshmia juaj përmban të njëjtin numër serial me një tjetër dëshmi të lëshuar nga autoriteti i dëshmive. Ju lutemi, merrni një dëshmi të re që të përmbajë një numër serial unik.
-ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
-ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili nuk mbulohet.
-ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
+ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të siguruar. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
+ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të siguruar. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili s’mbulohet.
+ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të siguruar me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
 ssl-error-no-certificate = S’arrihet të gjendet dëshmi ose kyç i nevojshëm për mirëfilltësimin.
 ssl-error-bad-certificate = S’arrihet të komunikohet në mënyrë të siguruar me anën tjetër: dëshmia e anës tjetër u hodh tej.
 ssl-error-bad-client = Shërbyesi hasi të dhëna klienti të dëmtuara.
@@ -98,7 +98,7 @@ ssl-error-session-key-gen-failure = Klienti s’arriti të prodhonte kyçe sesio
 ssl-error-no-server-key-for-alg = Shërbyesi s’ka kyç për algoritmin e provuar për shkëmbim kyçesh.
 ssl-error-token-insertion-removal = Tokeni PKCS#11 u fut ose u nxor ndërkohë që veprimi qe në rrugë e sipër.
 ssl-error-token-slot-not-found = S’u gjet dot token PKCS#11 për të bërë një veprim të nevojshëm.
-ssl-error-no-compression-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: pa algoritëm(e) të përbashkët për ngjeshjen.
+ssl-error-no-compression-overlap = S’komunikohet dot në mënyrë të siguruar me anën tjetër: pa algoritëm(e) të përbashkët për ngjeshjen.
 ssl-error-handshake-not-completed = S’fillohet dot një tjetër duarshtrëngim SSL përpara se të plotësohet duarshtrëngimi i tanishëm.
 ssl-error-bad-handshake-hash-value = Prej anës tjetër u morën vlera hash të pasakta për duarshtrëngimin.
 ssl-error-cert-kea-mismatch = Dëshmia e furnizuar s’mund të përdoret me algoritmin e përzgjedhur për shkëmbim kyçesh.
@@ -112,7 +112,7 @@ ssl-error-decode-error-alert = Ana tjetër s’shkodon dot mesazh duarshtrëngim
 ssl-error-decrypt-error-alert = Ana tjetër njofton dështim vërtetimi nënshkrimi ose shkëmbimi kyçesh.
 ssl-error-export-restriction-alert = Ana tjetër njofton negociatë jo në përputhje me rregullat e eksportit.
 ssl-error-protocol-version-alert = Ana tjetër njofton version të papërputhshëm ose të pambuluar për protokollin.
-ssl-error-insufficient-security-alert = Shërbyesi lyp shifrime më të sigurta se sa ato që mbulon klienti.
+ssl-error-insufficient-security-alert = Shërbyesi lyp shifrime më të siguruara se sa ato që mbulon klienti.
 ssl-error-internal-error-alert = Ana tjetër njofton se pati një gabim të brendshëm.
 ssl-error-user-canceled-alert = Përdoruesi i anës tjetër anuloi duarshtrëngimin.
 ssl-error-no-renegotiation-alert = Ana tjetër s’lejon rindërmjetësim të parametrave SSL të sigurisë.
