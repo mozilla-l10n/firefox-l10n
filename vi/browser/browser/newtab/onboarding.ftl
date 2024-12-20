@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Sử dụng trình duyệt được h�
 mr2022-onboarding-get-started-primary-subtitle = Phiên bản mới nhất của chúng tôi được xây dựng xung quanh bạn, giúp bạn truy cập trên web dễ dàng hơn bao giờ hết. Nó được đóng gói với các tính năng mà chúng tôi nghĩ rằng bạn sẽ yêu thích.
 mr2022-onboarding-get-started-primary-button-label = Thiết lập trong vài giây
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Thiết lập nhanh như chớp
 mr2022-onboarding-import-subtitle = Thiết lập { -brand-short-name } theo cách bạn thích. Thêm dấu trang, mật khẩu và hơn thế nữa từ trình duyệt cũ của bạn.
@@ -430,3 +432,8 @@ onboarding-checklist-pin = Ghim { -brand-short-name } vào thanh tác vụ
 onboarding-checklist-import = Nhập từ trình duyệt trước
 onboarding-checklist-extension = Thêm tiện ích
 onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản của bạn
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
+tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
