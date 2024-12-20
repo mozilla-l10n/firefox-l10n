@@ -13,6 +13,9 @@ xpinstall-prompt = തങ്കളുടെ കമ്പ്യൂട്ടറി
 xpinstall-prompt-dont-allow =
     .label = അനുവദിക്കരുത്
     .accesskey = D
+xpinstall-prompt-never-allow =
+    .label = ഒരിക്കലും അനുവദിക്കരുതു്
+    .accesskey = ഒ
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
@@ -24,7 +27,6 @@ xpinstall-disabled = സോഫ്റ്റ്‌വെയര്‍ ഇന്‍�
 xpinstall-disabled-button =
     .label = സജ്ജമാക്കുക
     .accesskey = n
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ലേക്ക് ചേര്‍ത്തിരിക്കുന്നു
@@ -34,6 +36,7 @@ webext-perms-update-menu-item = { $addonName } ന് പുതിയ അനു�
 
 ## Add-on removal warning
 
+addon-removal-button = മാറ്റുക
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -42,7 +45,6 @@ addon-downloading-and-verifying =
        *[other] ആഡോണുകളില്‍ { $addonCount } ഡൗണ്‍ലോഡ് ചെയ്യുകയും പരിശോധിക്കുകയും ചെയ്യുന്നു…
     }
 addon-download-verifying = ഉറപ്പാക്കുന്നു
-
 addon-install-cancel-button =
     .label = റദ്ദാക്കുക
     .accesskey = C

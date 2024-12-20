@@ -41,6 +41,7 @@ pocket-panel-signup-tagline-story-two = പോക്കറ്റിൽ ഏത
 
 ## about:pocket-home panel
 
+pocket-panel-home-discover-more = കൂടുതൽ കണ്ടെത്തുക
 pocket-panel-home-explore-more = ആരായുക
 pocket-panel-home-most-recent-saves = താങ്ങളുടെ ഏറ്റവും അടുത്തിടെ കരുതിവച്ച സാധനങ്ങൾ
 pocket-panel-home-most-recent-saves-loading = സമീപകാല കരുതിവയ്ക്കലുകൾ ലഭ്യമാക്കുന്നു...
@@ -48,6 +49,7 @@ pocket-panel-home-new-user-message = അടുത്തിടെ കരുതി
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = എന്റെ കരുതിവച്ച സാധനങ്ങൾ കാണുക
 pocket-panel-header-sign-in = പ്രവേശിക്കുക
 
 ## Pocket panel buttons

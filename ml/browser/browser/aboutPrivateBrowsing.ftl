@@ -23,6 +23,7 @@ about-private-browsing-learn-more-link = കൂടുതൽ അറിയുക
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-c = മൊബൈലിൽ അടിപ്പൊളി സ്വകാര്യത
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
 about-private-browsing-promo-close-button =
