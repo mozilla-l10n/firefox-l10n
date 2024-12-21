@@ -393,7 +393,11 @@ onboarding-new-tabs-subtitle = შეცვალეთ, როცა მოგ�
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = გამოყენება ჩანართები თქვენებურად
 # Setup screen for vertical tabs - subtitle for too many tabs variation
-onboarding-many-tabs-subtitle = ბევრი ჩანართის გახსნილად დატოვება გიყვართ? მოსინჯეთ მათი გვერდით გადმოტანა მეტად შეუფერხებლად მონახულებისთვის, ანდაც დატოვეთ ძველებურად. გადართვა ნებისმიერ დროს შეგეძლებათ.
+onboarding-many-tabs-subtitle = ბევრი ჩანართის გახსნილად დატოვება გიყვართ? მოსინჯეთ მათი გვერდით გადმოტანა მეტად შეუფერხებლად მონახულებისთვის. ანდაც დატოვეთ ძველებურად. გადართვა ნებისმიერ დროს შეგეძლებათ.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = აირჩიეთ ჩანართის განლაგება
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = მეტად მოსახერხებელი ხედვისთვის, რაც ხელს შეგიწყობთ ყურადღების მოკრებაში, მოსინჯეთ გვერდით გადმოტანილი ჩანართები. ანდაც დატოვეთ ძველებურად ზემოთ. გადართვა ნებისმიერ დროს შეგეძლებათ.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = ჩანართები გვერდით
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -445,3 +449,9 @@ tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩა
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = უკეთ გაიცანით პროფილები, რომელთაც იყენებს { -brand-product-name }
+multi-profile-spotlight-body = ადვილად გადაერთეთ სამისთვის საჭირო გვერდებიდან და თავშესაქცევ გვერდებზე. პროფილები სრულად განცალკევებულად ინახავს თქვენს მონაცემებს, მათ შორის ძიების ისტორიასა და პაროლებს, არეულობის ასარიდებლად.
+multi-profile-spotlight-cta = პროფილის შექმნა
+multi-profile-callout-title = შექმენით განსხვავებული პროფილები საქმისთვის და გასართობად
+multi-profile-callout-subtitle = პროფილები საშუალებას გაძლევთ, განაცალკევოთ თქვენი მონაცემები, მათ შორის ძიების ისტორია და პაროლები.
+multi-profile-callout-cta = პროფილის შექმნა

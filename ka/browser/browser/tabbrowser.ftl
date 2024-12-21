@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = გაუქმება
     .accesskey = ქ
+tab-group-menu-header = ჩანართის ჯგუფები
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი
+tab-group-name-default = უსახელო ჯგუფი
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

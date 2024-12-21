@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ცნობები მონაცემთა მიტაცებისას
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
+appmenuitem-services-relay-description = შენიღბვის მაჩვენებლების გვერდის გაშვება
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = დაიცავით პირადულობა ინტერნეტში
+appmenu-services-header = ჩემი მომსახურებები
+appmenu-other-protection-header = მოსინჯეთ დაცვის სხვა ხელსაწყოები, რომელთაც გთავაზობთ { -vendor-short-name }:
 
 ## Profiles panel
 
