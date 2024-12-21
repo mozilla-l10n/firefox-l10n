@@ -28,7 +28,7 @@ about-webauthn-text-connect-device = Ju lutemi, lidhni një token sigurie
 about-webauthn-text-select-device = Ju lutemi, përzgjidhni token-in tuaj të dëshiruar të sigurisë duke prekur pajisjen.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = S’arrihet të administrohen mundësi, ngaqë token-i juaj i sigurisë nuk mbulon CTAP2.
-about-webauthn-text-not-available = Jo i passhëm në këtë platformë.
+about-webauthn-text-not-available = S’mund të kihet në këtë platformë.
 about-webauthn-bio-enrollment-list-subsection-title = Dhënie elementësh:
 about-webauthn-add-bio-enrollment-section-title = Shtoni dhënie të re elementësh
 
