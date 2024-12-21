@@ -249,8 +249,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušit
     .accesskey = Z
+tab-group-menu-header = Skupiny panelů
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina
+tab-group-name-default = Nepojmenovaná skupina
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

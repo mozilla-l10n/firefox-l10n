@@ -299,7 +299,9 @@ mr2022-onboarding-set-default-subtitle = Používejte prohlížeč podporovaný 
 mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoli předtím. Je nabitá funkcemi, které si podle nás zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Bleskové nastaveni
 mr2022-onboarding-import-subtitle =
@@ -614,3 +616,10 @@ onboarding-checklist-pin =
 onboarding-checklist-import = Importovat z dříve používaného prohlížeče
 onboarding-checklist-extension = Přidat rozšíření
 onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému účtu
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = Vytvořit profil

@@ -44,3 +44,8 @@ sync-setup-verify-heading = Opravdu se chcete přihlásit k synchronizaci?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = K synchronizaci v tomto počítači byl dříve přihlášen jiný uživatel. Po přihlášení se záložky, hesla a další nastavení tohoto prohlížeče sloučí s účtem { $email }.
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Účet je již používán

@@ -11,7 +11,11 @@ profile-window-heading =
 profile-window-body = Pracovní a osobní prohlížení, včetně takových věcí, jako jsou hesla a záložky, mějte zcela oddělené. Nebo si vytvořte profily pro všechny, kteří toto zařízení používají.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = Zvolit profil při spuštění { -brand-short-name(case: "gen") }
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Zvolit profil při spuštění { -brand-short-name(case: "gen") }
+           *[no-cases] Zvolit profil při spuštění aplikace { -brand-short-name }
+        }
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label =

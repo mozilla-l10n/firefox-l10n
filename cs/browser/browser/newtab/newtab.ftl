@@ -464,3 +464,7 @@ newtab-topic-selection-button-pick-interests = Vyberte, co vás zajímá
 newtab-section-follow-button = Sledovat
 newtab-section-following-button = Sledované
 newtab-section-unfollow-button = Přestat sledovat
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Teď ne

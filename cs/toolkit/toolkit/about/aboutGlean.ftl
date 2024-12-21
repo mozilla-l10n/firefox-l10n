@@ -117,7 +117,7 @@ about-glean-adhoc-note =
     To znamená, že kategorie metriky a název metriky jsou formátovány ve formátu
     <code>camelCase</code> na rozdíl od rozhraní API Rustu a C++.
 about-glean-profiler-explanation =
-    Chcete-li zobrazit úplné zobrazení všech zaznamenaných metrik, můžete použít { -profiler-brand-name }.
+    Chcete-li zobrazit úplné zobrazení všech zaznamenaných metrik, můžete použít { -profiler-brand-name(case: "acc") }.
     Nejprve musíte <a data-l10n-name="firefox-profiler-link">zachytit profil výkonu</a>.
     Jakmile profil zachytíte, vyberte možnost <q>Graf značek</q> a podívejte se na značky v části <q>Telemetrie</q>.
 about-glean-profiler-explanation-profiler =
@@ -147,7 +147,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
     vizualizací, nahlédněte do <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Pro nahrání profilu výkonu a zobrazení všech zaznamenaných metrik prosím použijte 
-    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name(case: "acc") }</a>.
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
     <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.
