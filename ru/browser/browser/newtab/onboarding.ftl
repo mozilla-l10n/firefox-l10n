@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Я пользовалс�
 onboarding-new-tabs-title = Расскажите нам, где вы хотите видеть свои вкладки
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Включите это, когда захотите, в настройках боковой панели.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Ваши вкладки, ваш путь
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Держите много вкладок открытыми? Попробуйте разместить вкладки сбоку для более удобного просмотра. Или используйте классический вид с вкладками вверху. Переключайтесь в любое время.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Выберите отображение вкладок
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Для удобного просмотра, который поможет вам сосредоточиться, попробуйте вкладки сбоку. Или используйте классический вид с вкладками наверху. Переключайтесь в любое время.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Вкладки сбоку
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,12 @@ onboarding-checklist-sign-up = Зарегистрируйтесь или вой�
 
 tab-groups-onboarding-feature-callout-title = Попробуйте группы вкладок — меньше беспорядка, больше внимания
 tab-groups-onboarding-feature-callout-subtitle = Наведите порядок, перетащив одну вкладку на другую, чтобы создать свою первую группу.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Познакомьтесь с профилями { -brand-product-name }
+multi-profile-spotlight-body = Легко переключайтесь между веб-сёрфингом для работы и развлечений. Профили хранят вашу информацию в Интернете, включая историю поиска и пароли, полностью раздельно, что позволяет вам сохранять организованность
+multi-profile-spotlight-cta = Создать профиль
+multi-profile-callout-title = Создавайте разные профили для работы и развлечений
+multi-profile-callout-subtitle = Профили позволяют вам хранить информацию о вашем веб-сёрфинге, такую как история поиска и пароли, полностью раздельно.
+multi-profile-callout-cta = Создать профиль

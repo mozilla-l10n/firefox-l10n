@@ -461,3 +461,10 @@ newtab-topic-selection-button-pick-interests = Выберите ваши инт�
 newtab-section-follow-button = Подписаться
 newtab-section-following-button = Подписан
 newtab-section-unfollow-button = Отписаться
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Вы уверены, что хотите заблокировать этот раздел?
+newtab-section-confirm-block-section-p2 = Заблокированный раздел больше не будет отображаться в вашей ленте.
+newtab-section-block-section-button = Заблокировать этот раздел
+newtab-section-cancel-button = Не сейчас

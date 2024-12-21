@@ -222,8 +222,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Отмена
     .accesskey = С
+tab-group-menu-header = Группы вкладок
 tab-context-unnamed-group =
     .label = Безымянная группа
+tab-group-name-default = Безымянная группа
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
