@@ -392,6 +392,12 @@ onboarding-new-tabs-title = Dajśo nam k wěsći, źož cośo swóje rejtariki m
 onboarding-new-tabs-subtitle = Pśešaltujśo  w nastajenjach bocnicy, gažkuli cośo.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Waše rejtariki, waša móžnosć
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Maśo wjele rejtarikow wócynjone? Rědujśo swóje rejtariki na boku za racionelnjejšy naglěd. Abo wužywajśo klasiski naglěd z rejtarikami górjejce. Pśeměńśo kuždy cas.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Wubjeŕśo swójo wugótowanje rejtarikow
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Za racionelny naglěd, kótaryž móžo wam pomagaś koncentrěrowany wóstaś, wopytajśo swóje rejtariki na boku. Abo wužywajśo klasiski naglěd z rejtarikami górjejce. Pśeměńśo kuždy cas.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Rejtariki na boku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -443,3 +449,9 @@ tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo 
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Witajśo profile { -brand-product-name }
+multi-profile-spotlight-body = Pśeměńśo lažko mjazy pśeglědowanim za źěło a wjasele. Profile waše pśeglědowańske informacije, mjazy nimi pytańsku historiju a gronidła, dopołnje separatne wobchowaju, aby organizěrowany wóstał.
+multi-profile-spotlight-cta = Profil załožyś
+multi-profile-callout-title = Załožćo rozdźělne profile za źěło a wjasele
+multi-profile-callout-subtitle = Profile wam zmóžnjaju, waše pśeglědowańske informacije ako pytańsku historiju a gronidła dopołnje separatnje wobchowaś.
+multi-profile-callout-cta = Profil załožyś

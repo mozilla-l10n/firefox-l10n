@@ -232,8 +232,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Pśetergnuś
     .accesskey = P
+tab-group-menu-header = Kupki rejtarikow
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja
+tab-group-name-default = Kupka bźez mjenja
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
