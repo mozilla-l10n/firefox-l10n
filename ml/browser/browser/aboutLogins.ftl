@@ -23,7 +23,7 @@ fxaccounts-avatar-button =
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = മെനു തുറക്കുക
+    .title = കുറിപ്പടികട്ട തുറക്കുക
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്ന് ഇറക്കുമതിക്കുക.
 about-logins-menu-menuitem-import-from-a-file = ഒരു ഫയലിൽ നിന്ന്  ഇറക്കുമതി ചെയ്യുക...
