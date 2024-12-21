@@ -456,3 +456,8 @@ newtab-topic-selection-button-pick-interests = Қызығушылықтарың�
 newtab-section-follow-button = Жазылу
 newtab-section-following-button = Жазылғандар
 newtab-section-unfollow-button = Жазылудан бас тарту
+
+## Confirmation modal for blocking a section
+
+newtab-section-block-section-button = Бұл бөлімді блоктау
+newtab-section-cancel-button = Қазір емес

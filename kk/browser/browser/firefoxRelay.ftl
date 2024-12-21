@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } жаңа маска жасай алмады. HTTP қате коды: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } қайта пайдалануға болатын маскаларды таба алмады. HTTP қате коды: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } пайдалану үшін сізге { -fxaccount-brand-name } жүйесіне кіру керек.
 firefox-relay-must-login-to-account = { -relay-brand-name } электрондық пошта маскаларын пайдалану үшін тіркелгіңізге кіріңіз.
@@ -41,16 +41,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Қазір емес
     .accesskey = м
-firefox-relay-offer-what-fxa-and-relay-provides = Тіркелгі жекелікті қорғайтын көбірек өнімдерге қол жеткізуге мүмкіндік береді. Эл. пошта маскаларына жіберілген барлық хаттар нақты эл. пошта адресіңізге жіберіледі (егер сіз оларды блоктауды шешпесеңіз).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = { -brand-product-name } ішіне кіру және масканы қолдану
     .accesskey = к
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Тіркелу
+    .accesskey = р
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Бұны маған қайта көрсетпеу
     .accesskey = п
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Қазір емес
     .accesskey = м
+
+## The "control" variation of the Relay offer popup
+
 
 ## The "basic-info" variation of the Relay offer popup
 

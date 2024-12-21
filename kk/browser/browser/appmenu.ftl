@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Деректерді бұзу туралы ескертулерді алу
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
+appmenuitem-services-relay-description = Эл. пошта маскаларын бақылау тақтасын іске қосу
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
+appmenu-services-header = Менің қызметтерім
+appmenu-other-protection-header = { -vendor-short-name } ұсынған басқа қорғау құралдарын қолданып көріңіз:
 
 ## Profiles panel
 
