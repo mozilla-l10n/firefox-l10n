@@ -394,7 +394,7 @@ onboarding-many-tabs-title = Dina flikar, på ditt sätt
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Välj din fliklayout
 # Setup screen for vertical tabs - subtitle for focused variation
-onboarding-focused-tabs-subtitle = För en strömlinjeformad vy som kan hjälpa dig att hålla fokus, prova dina flikar på sidan. Eller håll den klassiskt med flikar på toppen. Byt när som helst.
+onboarding-focused-tabs-subtitle = För en strömlinjeformad vy som kan hjälpa dig att hålla fokus, prova flikarna på sidan. Eller behåll det klassiska med flikar på toppen. Byt när som helst.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Flikar på sidan
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -447,7 +447,7 @@ tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra e
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Säg hej till { -brand-product-name } profiler
-multi-profile-spotlight-body = Byt enkelt mellan att surfa i arbete och surfa. Profiler håller din webbinformation, inklusive sökhistorik och lösenord, helt åtskild så att du kan hålla ordning.
+multi-profile-spotlight-body = Växla enkelt mellan att surfa för arbete och nöje. Profiler håller din webbinformation, inklusive sökhistorik och lösenord, helt åtskilda så att du kan hålla ordning.
 multi-profile-spotlight-cta = Skapa en profil
 multi-profile-callout-title = Skapa olika profiler för arbete och underhållning
 multi-profile-callout-subtitle = Profiler låter dig hålla din webbinformation, som sökhistorik och lösenord, helt åtskilda.

@@ -463,7 +463,7 @@ newtab-section-unfollow-button = Sluta följa
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Är du säker på att du vill blockera det här avsnittet?
-newtab-section-confirm-block-section-p2 = Blockerat avsnitt kommer inte längre att visas i ditt flöde.
-newtab-section-block-section-button = Blockera detta avsnitt
+newtab-section-confirm-block-section-p1 = Är du säker på att du vill blockera denna sektion?
+newtab-section-confirm-block-section-p2 = Blockerad sektion kommer inte längre att visas i ditt flöde.
+newtab-section-block-section-button = Blockera denna sektion
 newtab-section-cancel-button = Inte nu
