@@ -460,5 +460,6 @@ newtab-section-unfollow-button = 取消追蹤
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = 您確定要封鎖這個段落嗎？
+newtab-section-confirm-block-section-p2 = 將從資訊來源隱藏封鎖的段落。
 newtab-section-block-section-button = 封鎖此段落
 newtab-section-cancel-button = 現在不要
