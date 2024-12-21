@@ -166,9 +166,9 @@ add-exception-unverified-or-bad-signature-short = Identitet i Panjohur
 add-exception-unverified-or-bad-signature-long = Dëshmia s’besohet, ngaqë s’është vërtetuar si e lëshuar nga një autoritet i besuar që përdor nënshkrim të siguruar.
 add-exception-valid-short = Dëshmi e Vlefshme
 add-exception-valid-long = Ky sajt furnizon identifikim të vlefshëm, të vërtetuar. Nuk ka nevojë të shtohet përjashtim.
-add-exception-checking-short = Po Kontrollohen Të dhënat
+add-exception-checking-short = Po Kontrollohen të Dhënat
 add-exception-checking-long = Përpjekje për identifikimin e këtij sajti…
-add-exception-no-cert-short = Pa të Dhëna të Passhme
+add-exception-no-cert-short = S’ka të Dhëna
 add-exception-no-cert-long = S’arrihet të merret gjendje identifikimi për këtë sajt.
 
 ## Certificate export "Save as" and error dialogs

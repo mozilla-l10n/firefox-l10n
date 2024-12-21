@@ -89,7 +89,7 @@ perftools-thread-jvm-glean =
 
 perftools-record-all-registered-threads = Anashkalo përzgjedhjet më sipër dhe regjistro krejt rrjedha e regjistruara
 perftools-tools-threads-input-label =
-    .title = Këto emra rrjedhash janë një listë e ndarë me presje, që përdoret për të aktivizuar profilizim rrjedhash te profilizuesi. Emri lypset të jetë vetëm një përputhje e pjesshme e emrit të rrjedhës që duhet përfshirë. Është i ndjeshëm ndaj hapësirave të zbrazëta.
+    .title = Këto emra rrjedhash janë një listë e ndarë me presje, që përdoret për të aktivizuar profilizim rrjedhash te profilizuesi. Emri lypset të jetë vetëm një përputhje e pjesshme e emrit të rrjedhës që duhet përfshirë. Hapësira të zbrazëta merren në konsideratë.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
