@@ -158,7 +158,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = ამ მიმოხილვების შესახებ მონაცემები ჯერ არაა
-shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, შეამოწმეთ მიმოხილვის ხარისხი. მიახლოებით 60 წამს გასტანს მხოლოდ.
+shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, გაუშვით ხარისხის შემოწმება. მიახლოებით 60 წამს შეიძლება გასტანოს მხოლოდ.
 shopping-unanalyzed-product-analyze-button = მიმოხილვის ხარისხის შემოწმება
 
 ## Strings for the advertisement

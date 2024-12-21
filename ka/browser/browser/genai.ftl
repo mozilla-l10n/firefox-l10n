@@ -50,7 +50,7 @@ genai-prompts-proofread =
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
-genai-prompt-prefix-selection = ვიმყოფები გვერდზე „{ $tabTitle }“, მონიშნულია „{ $selection }“.
+genai-prompt-prefix-selection = ვიმყოფები გვერდზე “{ $tabTitle }”, მონიშნულია “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
