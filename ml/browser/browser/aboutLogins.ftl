@@ -77,6 +77,7 @@ login-list-name-option = പേര് (A-Z)
 login-list-name-reverse-option = പേര് (Z-A)
 login-list-username-option = ഉപയോക്തൃപ്പേരു് (A-Z)
 login-list-username-reverse-option = ഉപയോക്തൃപ്പേരു് (Z-A)
+about-logins-login-list-alerts-option = മുന്നറിയിപ്പുകൾ
 login-list-last-changed-option = ഏറ്റവും ഒടുവില്‍ മാറ്റം വരുത്തിയതു്
 login-list-last-used-option = അവസാനം ഉപയോഗിച്ചത്
 login-list-intro-title = പ്രവേശനങ്ങള്‍ ഒന്നും കണ്ടില്ല
@@ -95,6 +96,7 @@ about-logins-list-item-vulnerable-password-icon =
     .title = ദുർബലമായ രഹസ്യവാക്കു്
 about-logins-list-section-breach = ലംഘിച്ച വെബ്‌സ്ഥാനങ്ങൾ
 about-logins-list-section-vulnerable = ഭേദനീയമായ രഹസ്യവാക്കുകൾ
+about-logins-list-section-nothing = മുന്നറിയിപ്പു് ഇല്ല
 about-logins-list-section-today = ഇന്ന്
 about-logins-list-section-yesterday = ഇന്നലെ
 about-logins-list-section-week = കഴിഞ്ഞ 7 ദിവസങ്ങൾ
@@ -103,7 +105,8 @@ about-logins-list-section-week = കഴിഞ്ഞ 7 ദിവസങ്ങൾ
 
 about-logins-login-intro-heading-logged-out2 = താങ്ങളുടെ കരുതിവച്ച പ്രവേശിക്കലുകൾക്കായി തേടുകയാണോ? സമന്വയം തുടങ്ങി വയ്ക്കുക അല്ലെങ്കിൽ അവരെ ഇറക്കുമതിക്കുക.
 about-logins-login-intro-heading-logged-in = സമന്വയിപ്പിച്ച ലോഗിനുകളൊന്നും കണ്ടെത്തിയില്ല.
-login-intro-description = നിങ്ങളുടെ ലോഗിനുകൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
+login-intro-description = നിങ്ങളുടെ പ്രവേശണങ്ങൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
+login-intro-instructions-fxa = താങ്ങളുടെ പ്രവേശണം കരുതിവച്ചിരിക്കുന്ന ഉപകരണത്തിൽ താങ്ങളുടെ { -fxaccount-brand-name(capitalization: "sentence") } സൃഷ്ടിക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കൽ ചെയ്യുക.
 about-logins-login-intro-heading-message = താങ്ങളുടെ രഹസ്യവാക്കുകളെ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
 
 ## Login
@@ -203,6 +206,19 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
        *[other] എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] ൧
+        [one] അതെ, രഹസ്യവാക്കു് മാറ്റുക
+       *[other] അതെ, രഹസ്യവാക്കുകൾ മാറ്റുക
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } രഹസ്യാവാക്കു് മാറ്റണോ?
+       *[other] എല്ലാ { $count } രഹസ്യാവാക്കുകൾ മാറ്റണോ?
+    }
 
 ##
 
@@ -291,6 +307,8 @@ about-logins-import-dialog-done = ചെയ്തു
 about-logins-import-dialog-error-title = ഇറക്കുമതി പിശക്
 about-logins-import-dialog-error-file-format-title = ഫയൽ ഘടനപ്രശ്നം
 about-logins-import-dialog-error-file-permission-title = ഫയൽ വായിക്കാൻ കഴിയുന്നില്ല
+about-logins-import-dialog-error-unable-to-read-title = ഫയൽ വ്യാകരിക്കാൻ ആയില്ല
+about-logins-import-dialog-error-unable-to-read-description = താങ്ങൾ ഒരു CSV അല്ലെങ്കിൽ TSV ഫയൽ തിരഞ്ഞെടുത്തുവെന്ന് ഉറപ്പിക്കുക.
 about-logins-import-dialog-error-no-logins-imported = പ്രവേശിക്കലുകളൊന്നു ഇറക്കുമതിച്ചിട്ടില്ല
 about-logins-import-dialog-error-learn-more = കൂടുതല്‍ അറിയുക
 about-logins-import-dialog-error-try-import-again = വീണ്ടും ഇറക്കുമതി  ചെയ്യാൻ ശ്രമിക്കുക...
@@ -316,6 +334,11 @@ about-logins-import-report-row-description-error-missing-field = പിശക്
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-error =
+    { $count ->
+        [one] പിശകുകൾ
+       *[other] (ഇറക്കുമതി ചെയ്തിട്ടില്ല)
+    }
 
 ## Logins import report page
 
