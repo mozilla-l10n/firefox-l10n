@@ -93,9 +93,21 @@ shopping-survey-question-one = Доколко сте доволни от раб�
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-open-button = Отваряне на Проверка на отзиви
+shopping-callout-opted-out-title = Проверката на отзиви е изключена
 
 ## Onboarding message strings.
 
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Вижте колко надеждни са отзивите за продукта в <b>{ $currentSite }</b>, преди да купите. Проверка на отзиви, експериментално от { -brand-product-name }, е възможност вградена директно в четеца. Освен това работи на <b>{ $secondSite }</b>, а също и на <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Вижте колко надеждни са отзивите за продукта в <b>{ $currentSite }</b>, преди да купите. Проверка на отзиви, експериментално от { -brand-product-name }, е възможност вградена директно в четеца.
 shopping-onboarding-not-now-button = Не сега
 # Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
 # Variables:
