@@ -454,3 +454,10 @@ newtab-topic-selection-button-pick-interests = בחירת תחומי העניי�
 newtab-section-follow-button = לעקוב
 newtab-section-following-button = במעקב
 newtab-section-unfollow-button = ביטול המעקב
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = האם ברצונך לחסום מקטע זה?
+newtab-section-confirm-block-section-p2 = המקטע החסום לא יופיע יותר בפיד שלך.
+newtab-section-block-section-button = חסימת מקטע זה
+newtab-section-cancel-button = לא כעת

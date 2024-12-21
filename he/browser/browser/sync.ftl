@@ -46,6 +46,9 @@ sync-setup-verify-description = משתמש אחר כבר התחבר כדי לס�
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = הגעת למגבלת החשבון עבור פרופיל זה
+sync-profile-different-account-header = פרופיל זה סונכרן בעבר עם חשבון אחר
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile

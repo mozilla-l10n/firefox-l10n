@@ -282,6 +282,7 @@ appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפו�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
 appmenu-services-header = השירותים שלי
+appmenu-other-protection-header = נסו כלי הגנה אחרים מ־{ -vendor-short-name }:
 
 ## Profiles panel
 
