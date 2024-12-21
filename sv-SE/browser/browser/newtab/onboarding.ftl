@@ -391,6 +391,8 @@ onboarding-new-tabs-title = Berätta var du vill ha dina flikar
 onboarding-new-tabs-subtitle = Växla när du vill i sidofältsinställningarna.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Dina flikar, på ditt sätt
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Vill du ha många flikar öppna? Prova dina flikar på sidan för en mer strömlinjeformad vy. Eller behåll det klassiska med flikar på toppen. Byt när som helst.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Välj din fliklayout
 # Setup screen for vertical tabs - subtitle for focused variation
