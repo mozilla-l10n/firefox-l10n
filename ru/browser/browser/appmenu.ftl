@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Получайте уведомления об утечках данных
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Скройте свои настоящие электронную почту и телефон
+appmenuitem-services-relay-description = Запустить панель псевдонимов электронной почты
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Защитите свою активность в Интернете
+appmenu-services-header = Мои сервисы
+appmenu-other-protection-header = Попробуйте другие инструменты защиты от { -vendor-short-name }:
 
 ## Profiles panel
 
