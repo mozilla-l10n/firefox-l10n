@@ -98,7 +98,7 @@ about-telemetry-no-search-results-all = Na ndjeni! S’ka përfundime në ndonj�
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
-about-telemetry-no-data-to-display = Na ndjeni! S’ka të dhëna të passhme në “{ $sectionName }”
+about-telemetry-no-data-to-display = Na ndjeni! S’ka të dhëna te “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = të dhëna të tanishme
 # used in the “Ping Type” select
