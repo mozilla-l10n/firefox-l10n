@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = 예전에 사용했지�
 onboarding-new-tabs-title = 탭의 위치를 알려주세요
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 사이드바 설정에서 원할 때마다 기능을 전환할 수 있습니다.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = 탭을 내 방식대로
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = 탭을 많이 열어 놓으시겠습니까? 더 간소화된 보기를 위해 탭을 세로로 사용해 보세요. 또는 클래식하게 상단의 탭을 유지하세요. 언제든지 전환할 수 있습니다.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = 탭 레이아웃 선택
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = 집중에 도움이 되는 간소화된 보기를 위해 탭을 세로로 사용해 보세요. 또는 클래식하게 상단의 탭을 유지하세요. 언제든지 전환할 수 있습니다.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = 측면에 있는 탭
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,6 @@ onboarding-checklist-sign-up = 계정 가입 또는 로그인
 
 tab-groups-onboarding-feature-callout-title = 덜 복잡하고 더 집중할 수 있도록 탭 그룹을 사용해 보세요
 tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위에 드래그하여 첫 번째 그룹을 만들어 정리하세요.
+
+## Multi Profiles feature onboarding messages
+
