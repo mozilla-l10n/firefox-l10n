@@ -459,3 +459,10 @@ newtab-topic-selection-button-pick-interests = Elegí tus intereses
 newtab-section-follow-button = Seguir
 newtab-section-following-button = Siguiendo
 newtab-section-unfollow-button = Dejar de seguir
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = ¿Está seguro de querer bloquear esta sección?
+newtab-section-confirm-block-section-p2 = La sección bloqueada ya no aparecerá en los canales.
+newtab-section-block-section-button = Bloquear esta sección
+newtab-section-cancel-button = No ahora
