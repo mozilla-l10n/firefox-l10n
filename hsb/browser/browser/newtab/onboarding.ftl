@@ -396,6 +396,8 @@ onboarding-many-tabs-title = Waše rajtarki, waša móžnosć
 onboarding-many-tabs-subtitle = Maće wjele rajtarkow wočinjene? Rjadujće swoje rajtarki na boku za racionelniši napohlad. Abo wužiwajće klasiski napohlad z rajtarkami horjeka. Přeměńće kóždy čas.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Wubjerće swoje wuhotowanje rajtarkow
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Za racionelny napohlad, kotryž móže wam pomhać, koncentrowany wostać, wupruwujće swoje rajtarki na boku. Abo wužiwajće klasiski napohlad z rajtarkami horjeka. Přeměńće kóždy čas.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Rajtarki naboku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -448,6 +450,7 @@ tab-groups-onboarding-feature-callout-subtitle = Organizujće so, ćehńće jedy
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Witajće profile { -brand-product-name }
+multi-profile-spotlight-body = Přeměńće lochko mjez přehladowanjom za dźěło a zabawu. Profile waše přehladowanske informacije, mjez nimi pytansku historiju a hesła, dospołnje separatne wobchowuja, zo byšće organizowany wostał.
 multi-profile-spotlight-cta = Profil załožić
 multi-profile-callout-title = Załožće rozdźělne profile za dźěło a zabawu
 multi-profile-callout-subtitle = Profile wam zmóžnjeja, waše přehladowanske informacije kaž pytansku historiju a hesła dospołnje separatnje wobchować.
