@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado en el pasado
 onboarding-new-tabs-title = Dinos dónde quieres tus pestañas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Cámbialo cuando quieras en los ajustes de la barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tus pestañas, a tu manera
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ¿Mantienes muchas pestañas abiertas? Prueba a colocarlas en el lateral para una vista más simplificada. O mantén el estilo clásico con pestañas en la parte superior. Cambia cuando quieras.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Elige la disposición de tus pestañas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para una vista optimizada que te ayude a mantener la concentración, prueba las pestañas en el lateral. U opta por el estilo clásico con pestañas en la parte superior. Cambia cuando quieras.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestañas en la parte lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,7 @@ onboarding-checklist-sign-up = Registrarse o conectarse a tu cuenta
 
 tab-groups-onboarding-feature-callout-title = Prueba los grupos de pestañas para lograr menos desorden y más concentración
 tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pestaña sobre otra para crear tu primer grupo.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Dí hola a los perfiles en { -brand-product-name }
