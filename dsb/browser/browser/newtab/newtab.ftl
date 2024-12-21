@@ -462,3 +462,10 @@ newtab-topic-selection-button-pick-interests = Wubjeŕśo swóje zajmy
 newtab-section-follow-button = Slědowaś
 newtab-section-following-button = Slědujucy
 newtab-section-unfollow-button = Wěcej njeslědowaś
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Cośo napšawdu toś ten wótrězk blokěrowaś?
+newtab-section-confirm-block-section-p2 = Blokěrowany wótrězk se wěcej we wašom kanalu njezjawijo.
+newtab-section-block-section-button = Toś ten wótrězk blokěrowaś
+newtab-section-cancel-button = Nic něnto

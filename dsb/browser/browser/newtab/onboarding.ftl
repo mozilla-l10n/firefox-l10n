@@ -390,6 +390,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Som jen wužywał w zaj�
 onboarding-new-tabs-title = Dajśo nam k wěsći, źož cośo swóje rejtariki měś
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Pśešaltujśo  w nastajenjach bocnicy, gažkuli cośo.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Waše rejtariki, waša móžnosć
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Rejtariki na boku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,3 +440,6 @@ onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójog
 
 tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mjenjej njepórěda a wěcej fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.
+
+## Multi Profiles feature onboarding messages
+
