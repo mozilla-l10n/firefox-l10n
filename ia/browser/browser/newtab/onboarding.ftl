@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Usa un navigator sustenite per un organ
 mr2022-onboarding-get-started-primary-subtitle = Nostre ultime version es construite circa te, rendente le navigation del web plus facile que jammais. Es replete de functiones que nos crede que tu va adorar.
 mr2022-onboarding-get-started-primary-button-label = Configura lo in secundas
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Installation fulminee
 mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como te place. Adde le marcapaginas, contrasignos e multo plus de tu navigator ancian.
@@ -387,6 +389,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma des
 onboarding-new-tabs-title = Dice nos ubi tu amarea tener tu schedas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Muta lo quandocunque tu vole in le parametro del barra lateral.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Selige le disposition de tu schedas
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Schedas sur le latere
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +434,12 @@ onboarding-checklist-pin = Adde { -brand-short-name } al barra de apps
 onboarding-checklist-import = Importa ab le previe navigator
 onboarding-checklist-extension = Adde un extension
 onboarding-checklist-sign-up = Registrate o accede a tu conto
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = Crear un profilo
+multi-profile-callout-title = Crear profilos differente pro labor e amusamento
+multi-profile-callout-cta = Crear un profilo

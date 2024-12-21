@@ -43,3 +43,16 @@ sync-setup-verify-heading = Desira tu vermente connecter te pro synchronisar?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un altere usator esseva previemente connectite pro synchronisar sur iste computator. Aperir session fusionara le marcapaginas, contrasignos e altere parametros de iste navigator con { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Conto jam in uso
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Passar a “{ $profileName }”
+sync-button-create-profile = Crear un nove profilo
+sync-button-sync-and-merge = Synchronisar e miscer datos
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synchronisar “{ $profileName }”

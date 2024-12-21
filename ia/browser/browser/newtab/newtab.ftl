@@ -460,3 +460,5 @@ newtab-section-unfollow-button = Non plus sequer
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Desira tu vermente blocar iste section?
+newtab-section-block-section-button = Blocar iste section
+newtab-section-cancel-button = Non ora

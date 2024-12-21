@@ -200,6 +200,7 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-context-unnamed-group =
     .label = Gruppo sin nomine
+tab-group-name-default = Gruppo sin nomine
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
