@@ -6,7 +6,7 @@ crashreporter-branded-title = Njoftues Vithisjesh { -brand-short-name }-i
 crashreporter-apology = Na Ndjeni
 crashreporter-crashed-and-restore = { -brand-short-name } hasi një problem dhe u vithis. Kur riniset, do të provojmë të rikthejmë skedat he dritaret tuaja.
 crashreporter-plea = Për të na ndihmuar në diagnostikimin dhe ndreqjen e problemit, mund të na dërgoni një njoftim vithisjeje.
-crashreporter-information = Ky aplikacion po xhirohet pas një vithisje, për të njoftuar problem-in te { -vendor-short-name }. S’duhet xhiruar drejtpërdrejt.
+crashreporter-information = Ky aplikacion po xhirohet pas një vithisje, për të njoftuar problemin te { -vendor-short-name }. S’duhet xhiruar drejtpërdrejt.
 crashreporter-error = { -brand-short-name } hasi një problem dhe u vithis. Mjerisht, njoftuesi i vithisjeve s’është në gjendje të parashtrojë një njoftim për këtë vithisje.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Hollësi: { $details }
@@ -15,7 +15,7 @@ crashreporter-button-details = Hollësi…
 crashreporter-loading-details = Po ngarkohet…
 crashreporter-view-report-title = Lëndë Njoftimi
 crashreporter-comment-prompt = Shtoni një koment (komentet janë të dukshëm botërisht)
-crashreporter-report-info = Ky njoftim përmban gjithashtu të dhëna rreth gjendjes së aplikacionit kur u vithis.
+crashreporter-report-info = Ky njoftim përmban gjithashtu hollësi teknike rreth gjendjes së aplikacionit kur u vithis.
 crashreporter-send-report = Tregojini { -vendor-short-name }-s për këtë vithisje, që kështu të mund ta ndreqin
 crashreporter-include-url = Përfshi adresën e faqes ku gjendesha.
 crashreporter-submit-status = Njoftimi për vithisjen tuaj do të parashtrohet para se të dilet apo të bëni rinisjen.

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = nga <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     S’jeni i sigurt ç’problem të zgjidhni?
     <a data-l10n-name="learnmore-link">Mësoni më tepër rreth raportimi zgjerimesh dhe temash</a>
-abuse-report-learnmore-intro = S’jeni i sigurt ç’problem të zgjidhni?
-abuse-report-learnmore-link = Mësoni më tepër rreth raportimi zgjerimesh dhe temash
 abuse-report-submit-description = Përshkruani problemin (në daçi)
 abuse-report-textarea =
     .placeholder = Për ne është më e lehtë të merremi me një problem, nëse kemi hollësi. Ju lutemi, përshkruani ç’po ju ndodh. Faleminderit që na ndihmoni ta mbajmë internetin të shëndetshëm.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Faleminderit për parashtrimin 
 abuse-report-messagebar-removed-theme = Faleminderit për parashtrimin e një raporti. E hoqët temën <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Pati një gabim me dërgimin e raportit për <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Raporti për <span data-l10n-name="addon-name">{ $addon-name }</span> s’u dërgua, ngaqë tani afër qe parashtruar një tjetër raport.
-abuse-report-messagebar-aborted2 =
-    .message = Raportimi për { $addon-name } u anulua.
-abuse-report-messagebar-submitting2 =
-    .message = Po dërgohet raportim për { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Faleminderit për parashtrimin e një raportimi. Doni të hiqet { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Faleminderit për parashtrimin e një raporti.
-abuse-report-messagebar-removed-extension2 =
-    .message = Faleminderit për parashtrimin e një raporti. E hoqët zgjerimin { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Faleminderit për parashtrimin e një raporti. E hoqët “Leje Sajtesh” { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Faleminderit për parashtrimin e një raporti. E hoqët temën { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Pati një gabim me dërgimin e raportit për { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Raporti për { $addon-name } s’u dërgua, ngaqë tani afër qe parashtruar një tjetër raport.
 
 ## Message bars actions.
 
@@ -95,14 +75,14 @@ abuse-report-broken-reason-sitepermission-v2 = S’funksionon, dëmton shfaqjen 
 abuse-report-broken-reason-theme-v2 = S’funksionon ose dëmton shfaqjen e shfletuesit
 abuse-report-broken-example = Shembull: Veçoritë janë të ngadalta, të zorshme për t’u përdorur, ose s’funksionojnë fare; pjesë sajtesh nuk ngarkohen ose duken çuditshëm
 abuse-report-broken-suggestions-extension =
-    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një raporti këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e zgjerimit.
-    Që të merrni të dhëna rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e zgjerimit</a>.
+    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një njoftimi këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e zgjerimit.
+    Që të merrni hollësi rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e zgjerimit</a>.
 abuse-report-broken-suggestions-sitepermission =
-    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një raporti këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e sajtit.
+    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një njoftimi këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e sajtit.
     Që të merrni hollësi nga zhvilluesi, <a data-l10n-name="support-link">vizitoni sajtin</a>.
 abuse-report-broken-suggestions-theme =
-    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një raporti këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e temës.
-    Që të merrni të dhëna rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e temës</a>.
+    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një njoftimi këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e temës.
+    Që të merrni hollësi rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e temës</a>.
 abuse-report-policy-reason-v2 = Përmban lëndë që nxit urrejtje, të dhunshme ose të paligjshme
 abuse-report-policy-suggestions =
     Shënim: Çështje të drejtash kopjimi dhe shenjash tregtare duhet të raportohen në një proces më vete.

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Të dhëna Diagnostikimi
+page-title = Hollësi Diagnostikimi
 page-subtitle =
     Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme, kur përpiqeni
     të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
@@ -423,7 +423,7 @@ support-remote-settings-sync-history-infos = Hollësi
 support-remote-experiments-title = Eksperimente Së Largëti
 support-remote-experiments-name = Emër
 support-remote-experiments-branch = Degë Eksperimenti
-support-remote-experiments-see-about-studies = Për më tepër të dhëna, shihni <a data-l10n-name="support-about-studies-link">about:studies</a>, përfshi si të çaktivizohen eksperimente individuale ose të çaktivizohet xhirimi nga { -brand-short-name }-i në të ardhmen i këtij lloji eksperimentesh.
+support-remote-experiments-see-about-studies = Për më tepër hollësi, shihni <a data-l10n-name="support-about-studies-link">about:studies</a>, përfshi si të çaktivizohen eksperimente individuale, ose të çaktivizohet xhirimi nga { -brand-short-name }-i në të ardhmen i këtij lloji eksperimentesh.
 support-remote-features-title = Veçori Së Largëti
 support-remote-features-name = Emër
 support-remote-features-status = Gjendje

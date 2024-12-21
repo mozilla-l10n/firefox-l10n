@@ -12,7 +12,7 @@ psmerr-ssl-disabled = S’lidhet dot në mënyrë të siguruar, sepse protokolli
 psmerr-ssl2-disabled = S’lidhet dot në mënyrë të siguruar, sepse sajti përdor një version të vjetër, të pasiguruar të protokollit SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
+    Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre hollësitë vijuese:
     
     Dëshmia juaj përmban të njëjtin numër serial me një tjetër dëshmi të lëshuar nga autoriteti i dëshmive. Ju lutemi, merrni një dëshmi të re që të përmbajë një numër serial unik.
 ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të siguruar. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
@@ -340,6 +340,6 @@ xp-sec-fortezza-no-card = S’u Gjetën karta Fortezza
 xp-sec-fortezza-none-selected = S’ka përzgjedhje karte Fortezza
 xp-sec-fortezza-more-info = Ju lutemi, përzgjidhni një personalitet mbi të cilin të kihen më tepër të dhëna
 xp-sec-fortezza-person-not-found = S’u gjet personalitet
-xp-sec-fortezza-no-more-info = S’ka më tepër të dhëna mbi atë Personalitet
+xp-sec-fortezza-no-more-info = S’ka tjetër informacion mbi atë Personalitet
 xp-sec-fortezza-bad-pin = Pin i Pavlefshëm
 xp-sec-fortezza-person-error = S’gatit dot personalitete Fortezza.
