@@ -51,6 +51,11 @@ sync-profile-different-account-title = הגעת למגבלת החשבון עבו
 sync-profile-different-account-header = פרופיל זה סונכרן בעבר עם חשבון אחר
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = כדי לוודא שהנתונים שלך יישארו מאורגנים ומאובטחים, ניתן לסנכרן כל פרופיל { -brand-product-name } עם חשבון אחד בלבד. כדי להיכנס באמצעות { $acctEmail }, יש ליצור פרופיל חדש.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = הפרופיל מסונכרן לחשבון אחר
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
 sync-profile-different-account-description-merge = כדי לוודא שהנתונים שלך יישארו מאורגנים ומאובטחים, אנו ממליצים ליצור פרופיל חדש כדי להיכנס באמצעות { $acctEmail }. אם בחירתך תהיה להמשיך לסנכרן בפרופיל זה, הנתונים משני החשבונות ימוזגו לצמיתות בפרופיל ״{ $profileName }״.
 # Dialog 2 - account signed in on another profile without option to merge

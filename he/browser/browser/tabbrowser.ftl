@@ -198,8 +198,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ביטול
     .accesskey = ב
+tab-group-menu-header = קבוצות לשוניות
 tab-context-unnamed-group =
     .label = קבוצה ללא שם
+tab-group-name-default = קבוצה ללא שם
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
