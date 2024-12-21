@@ -558,14 +558,14 @@ urlbar-revert-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Търсене с { $engine } в поверителен прозорец
+urlbar-result-action-search-in-private-w-engine = Търсене чрез { $engine } в поверителен прозорец
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = Търсене в поверителен прозорец
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Търсене с { $engine }
+urlbar-result-action-search-w-engine = Търсене чрез { $engine }
 urlbar-result-action-sponsored = Спонсорирано
 urlbar-result-action-switch-tab = Превключване към раздел
 urlbar-result-action-visit = Посещаване
@@ -608,7 +608,7 @@ urlbar-result-action-calculator-result = = { $result }
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = Търсене с { $engine }
+urlbar-result-search-with = Търсене чрез { $engine }
 # Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
 #  $keywords (String): the restrict keyword to enter search mode.
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
@@ -617,7 +617,7 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Търсене в 
 # Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
-urlbar-result-search-with-engine-keywords = { $keywords } - Търсене с { $engine }
+urlbar-result-search-with-engine-keywords = { $keywords } – Търсене чрез { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = Изберете търсеща машина
 urlbar-searchmode-bookmarks =

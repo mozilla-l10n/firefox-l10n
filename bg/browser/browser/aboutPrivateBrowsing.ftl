@@ -11,7 +11,7 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Търсене с { $engine } или въвеждане на адрес
+    .title = Търсене чрез { $engine } или въвеждане на адрес
 about-private-browsing-handoff-no-engine =
     .title = Търсете или въведете адрес
 # Variables

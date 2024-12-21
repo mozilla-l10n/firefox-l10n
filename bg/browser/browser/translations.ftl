@@ -193,8 +193,8 @@ main-context-menu-translate-link-text =
 # Variables:
 #   $language (string) - The localized display name of the target language
 main-context-menu-translate-link-text-to-language =
-    .label = Превеждане текста на връзката на { $language }
-    .accesskey = ж
+    .label = Превод на текста на препратката на { $language }
+    .accesskey = д
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Превеждане
 # Text displayed above the from-language dropdown menu.
