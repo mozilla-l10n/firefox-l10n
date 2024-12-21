@@ -459,3 +459,10 @@ newtab-topic-selection-button-pick-interests = 관심 분야를 선택하세요
 newtab-section-follow-button = 팔로우
 newtab-section-following-button = 팔로잉
 newtab-section-unfollow-button = 팔로우 취소
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = 정말로 이 섹션을 차단하시겠습니까?
+newtab-section-confirm-block-section-p2 = 차단된 섹션은 더 이상 피드에 나타나지 않습니다.
+newtab-section-block-section-button = 이 섹션 차단
+newtab-section-cancel-button = 나중에

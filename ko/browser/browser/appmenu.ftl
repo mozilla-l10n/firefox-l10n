@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 데이터 유출 알림 받기
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
+appmenuitem-services-relay-description = 이메일 가리기 대시보드 실행
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = 온라인 활동을 보호하세요
+appmenu-services-header = 내 서비스
+appmenu-other-protection-header = { -vendor-short-name }의 다른 보호 도구를 사용해 보세요:
 
 ## Profiles panel
 

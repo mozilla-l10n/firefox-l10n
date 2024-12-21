@@ -172,8 +172,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 취소
     .accesskey = C
+tab-group-menu-header = 탭 그룹
 tab-context-unnamed-group =
     .label = 익명 그룹
+tab-group-name-default = 익명 그룹
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
