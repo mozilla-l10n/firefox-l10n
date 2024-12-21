@@ -379,8 +379,12 @@ onboarding-new-tabs-title = 告訴我們您想將分頁列放在哪裡
 onboarding-new-tabs-subtitle = 可以到側邊欄設定中隨時切換。
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = 用您的方式管理分頁
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = 開啟很多分頁嗎？可以將分頁放到畫面側邊，讓畫面更流暢；也可以繼續放在畫面頂部，或隨時切換。
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = 選擇您的分頁版面
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = 若想讓畫面更流暢，可以將分頁放到畫面側邊；也可以繼續放在畫面頂部，或隨時切換。
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = 放在側邊
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -433,6 +437,7 @@ tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一�
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = 跟 { -brand-product-name } 設定檔切換功能說聲嗨！
+multi-profile-spotlight-body = 設定檔中包含您的搜尋紀錄、密碼等上網資訊，不同設定檔間彼此完全隔離，您可輕鬆切換、更能管理工作與私人上網情境。
 multi-profile-spotlight-cta = 建立設定檔
 multi-profile-callout-title = 為工作與私人上網情境，建立不同設定檔
 multi-profile-callout-subtitle = 您可以透過不同設定檔完全隔離搜尋紀錄、網站密碼等上網資訊。
