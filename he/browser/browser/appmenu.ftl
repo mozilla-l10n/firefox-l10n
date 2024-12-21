@@ -281,6 +281,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
+appmenu-services-header = השירותים שלי
 
 ## Profiles panel
 
