@@ -283,6 +283,7 @@ appmenuitem-relay-description = Masca tu email e numero de telephono real
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protege tu activitate online
 appmenu-services-header = Mi servicios
+appmenu-other-protection-header = Tentar altere utensiles de protection de { -vendor-short-name }
 
 ## Profiles panel
 

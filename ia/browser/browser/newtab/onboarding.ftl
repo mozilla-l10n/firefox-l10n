@@ -389,8 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma des
 onboarding-new-tabs-title = Dice nos ubi tu amarea tener tu schedas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Muta lo quandocunque tu vole in le parametro del barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tu schedas, a tu maniera
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Tene tu multe schedas aperte? Prova tu schedas al latere pro un vision plus simplificate. O mantene lo classic con schedas sur le summitate.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Selige le disposition de tu schedas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Pro un vision simplificate que pote adjutar te a star concentrate, prova tu schedas al latere. O mantene lo classic con schedas sur le summitate.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Schedas sur le latere
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,9 +443,12 @@ onboarding-checklist-sign-up = Registrate o accede a tu conto
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro minus disordine, plus concentration
+tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Saluta le profilos de { -brand-product-name }
 multi-profile-spotlight-cta = Crear un profilo
 multi-profile-callout-title = Crear profilos differente pro labor e amusamento
 multi-profile-callout-cta = Crear un profilo
