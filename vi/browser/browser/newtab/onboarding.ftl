@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Tôi có dùng nó trư�
 onboarding-new-tabs-title = Hãy cho chúng tôi biết bạn muốn đặt thẻ ở đâu
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Chuyển sang thẻ ở trên cùng bất cứ khi nào bạn muốn trong cài đặt thanh lề.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Thẻ của bạn, theo cách của bạn
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Giữ nhiều thẻ đang mở? Hãy thử chế độ thẻ dọc để có chế độ xem hợp lý hơn. Hoặc giữ mặc định với thẻ ở trên cùng. Có thể chuyển bất cứ lúc nào.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Chọn bố cục thẻ của bạn
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Để có chế độ xem hợp lý có thể giúp bạn tập trung, hãy thử chế độ thẻ dọc. Hoặc giữ mặc định với thẻ ở trên cùng. Có thể chuyển bất cứ lúc nào.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Thẻ ở bên cạnh
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,12 @@ onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản
 
 tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Hãy thử chế độ hồ sơ của { -brand-product-name }
+multi-profile-spotlight-body = Dễ dàng chuyển đổi giữa duyệt web để làm việc và giải trí. Hồ sơ giữ thông tin duyệt web của bạn, bao gồm cả lịch sử tìm kiếm và mật khẩu, hoàn toàn riêng biệt giúp bạn có thể sắp xếp hợp lý.
+multi-profile-spotlight-cta = Tạo hồ sơ
+multi-profile-callout-title = Tạo các hồ sơ khác nhau cho công việc và giải trí
+multi-profile-callout-subtitle = Hồ sơ cho phép bạn giữ thông tin duyệt web của mình, như lịch sử tìm kiếm và mật khẩu, hoàn toàn riêng biệt.
+multi-profile-callout-cta = Tạo hồ sơ
