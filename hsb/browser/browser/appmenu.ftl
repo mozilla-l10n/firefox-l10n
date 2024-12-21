@@ -280,9 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskěrujće swoju woprawdźitu e-mejlowu adresu a swój telefon
+appmenuitem-services-relay-description = Startujće desku e-mejlowych maskow
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Škitajće swoju aktiwitu online
 appmenu-services-header = Moje słužby
+appmenu-other-protection-header = Testujće druhe škitanske nastroje wot { -vendor-short-name }:
 
 ## Profiles panel
 

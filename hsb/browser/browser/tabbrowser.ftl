@@ -232,8 +232,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Přetorhnyć
     .accesskey = P
+tab-group-menu-header = Skupiny rajtarkow
 tab-context-unnamed-group =
     .label = Skupina bjez mjena
+tab-group-name-default = Skupina bjez mjena
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -390,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sym jón w zańdźenosć
 onboarding-new-tabs-title = Zdźělće nam, hdźež chceće swoje rajtarki měć
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Přepinajće w nastajenjach bóčnicy, hdyžkuli chceće.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Waše rajtarki, waša móžnosć
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Wubjerće swoje wuhotowanje rajtarkow
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Rajtarki naboku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,3 +442,10 @@ onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho k
 
 tab-groups-onboarding-feature-callout-title = Wupruwujće skupiny rajtarkow za mjenje njeporjada a wjace fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizujće so, ćehńće jedyn rajtark horjeka na druhi, zo byšće wašu prěnju skupinu wutworił.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Witajće profile { -brand-product-name }
+multi-profile-spotlight-cta = Profil załožić
+multi-profile-callout-title = Załožće rozdźělne profile za dźěło a zabawu
+multi-profile-callout-cta = Profil załožić
