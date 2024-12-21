@@ -390,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = ვიყენებდ
 onboarding-new-tabs-title = გვაცნობეთ, სად გირჩევნიათ ჩანართები განთავსდეს
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = შეცვალეთ, როცა მოგესურვებათ გვერდითი ზოლის პარამეტრებიდან
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = გამოყენება ჩანართები თქვენებურად
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ბევრი ჩანართის გახსნილად დატოვება გიყვართ? მოსინჯეთ მათი გვერდით გადმოტანა მეტად შეუფერხებლად მონახულებისთვის, ანდაც დატოვეთ ძველებურად. გადართვა ნებისმიერ დროს შეგეძლებათ.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = ჩანართები გვერდით
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,3 +442,6 @@ onboarding-checklist-sign-up = შექმენით ან შედით �
 
 tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
+
+## Multi Profiles feature onboarding messages
+
