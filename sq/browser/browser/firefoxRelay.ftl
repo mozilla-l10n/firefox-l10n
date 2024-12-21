@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } s’prodhoi dot një maskë të re. Kod gabimi HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } s’gjeti dot maska të ripërdorshme. Kod gabimi HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Që të mund të përdorni { -relay-brand-name }, duhet të bëni hyrjen në { -fxaccount-brand-name }.
 firefox-relay-must-login-to-account = Që të përdorni maska tuajat email-i { -relay-brand-name }, bëni hyrjen në llogarinë tuaj.
@@ -41,12 +41,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Jo tani
     .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Bëni hyrjen te llogari { -brand-product-name } dhe përdorni maskë
+    .accesskey = B
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Regjistrohuni
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Mos ma shfaq më këtë
     .accesskey = M
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Jo tani
     .accesskey = J
+
+## The "control" variation of the Relay offer popup
+
 
 ## The "basic-info" variation of the Relay offer popup
 

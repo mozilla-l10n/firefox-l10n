@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Merrni sinjalizime cenimesh të dhënash
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskoni email-in dhe telefonin tuaj të njëmendtë
+appmenuitem-services-relay-description = Hap pultin e maskave të email-eve
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Mbroni veprimtari tuaj internetore
+appmenu-services-header = Shërbimet e mia
+appmenu-other-protection-header = Provoni mjete të tjera mbrojtjeje nga { -vendor-short-name }:
 
 ## Profiles panel
 
