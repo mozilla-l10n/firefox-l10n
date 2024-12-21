@@ -198,6 +198,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancellar
     .accesskey = C
+tab-group-menu-header = Gruppos de scheda
 tab-context-unnamed-group =
     .label = Gruppo sin nomine
 tab-group-name-default = Gruppo sin nomine
