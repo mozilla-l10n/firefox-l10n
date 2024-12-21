@@ -208,6 +208,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Vazgeç
     .accesskey = V
+tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup
 
