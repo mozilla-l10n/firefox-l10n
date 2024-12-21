@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Veri ihlali uyarıları alın
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
+appmenuitem-services-relay-description = E-posta maskeleri panosunu aç
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Çevrimiçi etkinliklerinizi koruyun
+appmenu-services-header = Servislerim
+appmenu-other-protection-header = Diğer { -vendor-short-name } koruma araçlarını deneyin:
 
 ## Profiles panel
 

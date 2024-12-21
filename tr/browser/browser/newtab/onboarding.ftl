@@ -390,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama e
 onboarding-new-tabs-title = Sekmelerinizi nerede görmek istersiniz?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Senin sekmelerin, senin kararın
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Sekme düzeninizi seçin
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Kenarda
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -433,3 +437,10 @@ onboarding-checklist-pin = { -brand-short-name } tarayıcısını görev çubuğ
 onboarding-checklist-import = Önceki tarayıcımdan içe aktar
 onboarding-checklist-extension = Bir uzantı ekle
 onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = { -brand-product-name } profilleriyle tanışın

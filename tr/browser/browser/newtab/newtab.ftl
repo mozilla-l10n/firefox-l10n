@@ -456,3 +456,10 @@ newtab-topic-selection-button-pick-interests = İlgi alanlarınızı seçin
 newtab-section-follow-button = Takip et
 newtab-section-following-button = Takip ediliyor
 newtab-section-unfollow-button = Takibi bırak
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Bu bölümü engellemek istediğinizden emin misiniz?
+newtab-section-confirm-block-section-p2 = Engellediğin bölüm artık akışında görünmeyecektir.
+newtab-section-block-section-button = Bu bölümü engelle
+newtab-section-cancel-button = Şimdi değil
