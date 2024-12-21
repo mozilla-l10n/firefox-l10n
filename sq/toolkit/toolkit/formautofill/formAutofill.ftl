@@ -8,12 +8,12 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = përdor hollësi metode të ruajtur pagesash
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name }-i po përpiqet të përdorë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name }-i po provon të përdorë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
 autofill-use-payment-method-os-prompt-other = { -brand-short-name }-i po provon të përdorë hollësi metode të ruajtur pagesash.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = shfaq hollësi metode të ruajtur pagesash
-autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-i po përpiqet të shfaqë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Mundësi Vetëplotësimi Formularësh
