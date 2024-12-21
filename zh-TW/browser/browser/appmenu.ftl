@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 獲得資料外洩警報
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = 隱藏您的實際信箱與電話號碼
+appmenuitem-services-relay-description = 啟動轉寄信箱儀錶板
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = 保護您的線上行為隱私
+appmenu-services-header = 我的服務
+appmenu-other-protection-header = 試用來自 { -vendor-short-name } 的其他保護工具：
 
 ## Profiles panel
 

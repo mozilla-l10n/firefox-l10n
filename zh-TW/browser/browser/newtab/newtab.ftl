@@ -456,3 +456,9 @@ newtab-topic-selection-button-pick-interests = 挑選您有興趣的項目
 newtab-section-follow-button = 追蹤
 newtab-section-following-button = 追蹤中
 newtab-section-unfollow-button = 取消追蹤
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = 您確定要封鎖這個段落嗎？
+newtab-section-block-section-button = 封鎖此段落
+newtab-section-cancel-button = 現在不要

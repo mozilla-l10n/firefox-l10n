@@ -377,6 +377,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = 我曾經用過，但已
 onboarding-new-tabs-title = 告訴我們您想將分頁列放在哪裡
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 可以到側邊欄設定中隨時切換。
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = 用您的方式管理分頁
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = 選擇您的分頁版面
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = 放在側邊
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -425,3 +429,11 @@ onboarding-checklist-sign-up = 註冊或登入帳號
 
 tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂、更能專注
 tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = 跟 { -brand-product-name } 設定檔切換功能說聲嗨！
+multi-profile-spotlight-cta = 建立設定檔
+multi-profile-callout-title = 為工作與私人上網情境，建立不同設定檔
+multi-profile-callout-subtitle = 您可以透過不同設定檔完全隔離搜尋紀錄、網站密碼等上網資訊。
+multi-profile-callout-cta = 建立設定檔
