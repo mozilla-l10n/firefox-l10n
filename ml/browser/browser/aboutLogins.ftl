@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = ലോഗിനുകളും പാസ്‌വേഡുകളും
+about-logins-page-title = പ്രവേശണങ്ങളും രഹസ്യവാക്കുകളും
 about-logins-login-filter =
     .placeholder = പ്രവേശണങ്ങൾ തിരയുക
     .key = ത
