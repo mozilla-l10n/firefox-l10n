@@ -43,3 +43,8 @@ sync-setup-verify-heading = Синхрондау ішіне кіруді қал�
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Бұл компьютерде басқа пайдаланушы Sync ішіне кірген. Оның ішіне кіру нәтижесінде бұл браузердің бетбелгілер, парольдер және басқа да баптаулары { $email } нұсқасымен біріктіріледі
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Тіркелгі қолдануда болып тұр

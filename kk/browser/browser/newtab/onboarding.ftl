@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Коммерциялық емес ұй�
 mr2022-onboarding-get-started-primary-subtitle = Біздің соңғы нұсқамыз сіз үшін жасалған, бұл интернетті шолуды бұрынғыдан да жеңілдетеді. Ол жаңа мүмкіндіктерге толы, олар сізге ұнайды деп ойлаймыз.
 mr2022-onboarding-get-started-primary-button-label = Бірнеше секундта баптау
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Найзағайдай жылдам баптау
 mr2022-onboarding-import-subtitle = { -brand-short-name } өнімін өзіңізге ұнайтындай етіп баптаңыз . Ескі браузерден бетбелгілер, парольдер және т.б. қосыңыз.
@@ -387,6 +389,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Мен оны бұрын
 onboarding-new-tabs-title = Беттер қай жерде көргіңіз келетініңізді айтыңыз
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Бүйір панелінің параметрлерінде оны кез келген уақытта ауыстырыңыз.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Сіздің беттеріңіз, сіздің жолыңызбен
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Беттер бүйір жақта
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +434,12 @@ onboarding-checklist-pin = { -brand-short-name } өнімін тапсырмал
 onboarding-checklist-import = Бұрынғы браузерден импорттау
 onboarding-checklist-extension = Кеңейтуді қосу
 onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелгіңізге кіріңіз
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = Профиль жасау
+multi-profile-callout-title = Жұмыс және көңіл көтеру үшін әртүрлі профильдер жасау
+multi-profile-callout-cta = Профиль жасау
