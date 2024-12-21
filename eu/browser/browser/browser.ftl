@@ -412,7 +412,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Maximizatu
 browser-window-restore-down-button =
-    .tooltiptext = Leheneratu txikira
+    .tooltiptext = Leheneratu tamaina
 browser-window-close-button =
     .tooltiptext = Itxi
 
@@ -975,9 +975,6 @@ content-analysis-panel-title = Datuen babesa
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = Zure erakundeak <b>{ $agentName }</b> darabil datu-galeren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Zure erakundeak { $agentName } darabil datu-galeren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1002,6 +999,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Hedapenak
         Zenbait hedapen ez dira onartzen
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
