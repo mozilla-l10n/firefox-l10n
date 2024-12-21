@@ -459,3 +459,10 @@ newtab-topic-selection-button-pick-interests = Chọn sở thích của bạn
 newtab-section-follow-button = Theo dõi
 newtab-section-following-button = Đang theo dõi
 newtab-section-unfollow-button = Huỷ theo dõi
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Bạn có chắc chắn muốn chặn phần này không?
+newtab-section-confirm-block-section-p2 = Phần bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn nữa.
+newtab-section-block-section-button = Chặn phần này
+newtab-section-cancel-button = Không phải bây giờ

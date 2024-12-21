@@ -172,8 +172,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Huỷ bỏ
     .accesskey = C
+tab-group-menu-header = Nhóm thẻ
 tab-context-unnamed-group =
     .label = Nhóm không tên
+tab-group-name-default = Nhóm chưa có tên
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

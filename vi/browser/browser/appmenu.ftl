@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Nhận cảnh báo rò rỉ dữ liệu
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
+appmenuitem-services-relay-description = Khởi chạy bảng điều khiển email ẩn danh
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
+appmenu-services-header = Dịch vụ của tôi
+appmenu-other-protection-header = Hãy thử các công cụ bảo vệ khác từ { -vendor-short-name }:
 
 ## Profiles panel
 
