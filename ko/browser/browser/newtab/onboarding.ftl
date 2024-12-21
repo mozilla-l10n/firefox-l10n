@@ -448,3 +448,7 @@ tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = { -brand-product-name } 프로필 소개
+multi-profile-spotlight-body = 업무용과 여가용 탐색을 간편하게 전환하세요. 프로필은 검색 기록과 비밀번호를 포함한 탐색 정보를 완전히 분리하여 별도로 관리할 수 있도록 해줍니다.
+multi-profile-spotlight-cta = 프로필 만들기
+multi-profile-callout-title = 업무와 재미를 위한 다양한 프로필 만들기
