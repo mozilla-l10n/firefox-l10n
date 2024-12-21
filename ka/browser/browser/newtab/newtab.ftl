@@ -459,3 +459,10 @@ newtab-topic-selection-button-pick-interests = აირციეთ მის�
 newtab-section-follow-button = თვალის მიდევნება
 newtab-section-following-button = გამოწერილი
 newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = გსურთ ამ ნაწილის შეზღუდვა?
+newtab-section-confirm-block-section-p2 = შეზღუდული ნაწილები აღარ გამოჩნდება თქვენს არხში.
+newtab-section-block-section-button = ამ ნაწილის შეზღუდვა
+newtab-section-cancel-button = ახლა არა

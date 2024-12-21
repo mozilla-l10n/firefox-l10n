@@ -335,7 +335,7 @@ gpu-device-reset = მოწყობილობის ხელახალი
 gpu-device-reset-button = მოწყობილობაზე პარამეტრების ჩამოყრის ამოქმედება
 uses-tiling = მოზაიკურად
 content-uses-tiling = მოზაიკურად (შიგთავსი)
-off-main-thread-paint-enabled = გენერირება ძირითადი ნაკადის მიღმა, ჩართულია
+off-main-thread-paint-enabled = გამოსახვა ძირითადი ნაკადის მიღმა მოქმედია
 off-main-thread-paint-worker-count = ძირითადი ნაკადის მიღმა გენერირების ათვლა
 target-frame-rate = კადრის სასურველი სიხშირე
 min-lib-versions = მოსალოდნელი მინიმალური ვერსია
@@ -387,12 +387,12 @@ fission-status-disabled-by-e10s-other = E10s გამორთული
 fission-status-enabled-by-rollout = ჩართულია თანდათანობითი დანერგვით
 async-pan-zoom = ასინქრონული გაშლა/ზომის ცვლა
 apz-none = არაა
-wheel-enabled = რგოლით შეყვანა ჩართულია
-touch-enabled = შეხებით შეტანა ჩართულია
+wheel-enabled = რგოლით შეყვანა მოქმედია
+touch-enabled = შეხებით შეტანა მოქმედია
 drag-enabled = გადაადგილების ზოლის გადატანა შესაძლებელია
-keyboard-enabled = კლავიატურა ჩართულია
-autoscroll-enabled = თვითგადაადგილება ჩართულია
-zooming-enabled = ორი თითით გლუვი მოახლოება და დაშორება ჩართულია
+keyboard-enabled = კლავიატურა მოქმედია
+autoscroll-enabled = თვითგადაადგილება მოქმედია
+zooming-enabled = ორი თითით გლუვი მოახლოება მოქმედია
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
