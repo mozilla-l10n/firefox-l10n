@@ -387,6 +387,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = E kam përdorur në të 
 onboarding-new-tabs-title = Tregonani se ku do t’i donit skedat tuaja
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Ndërrojeni kurdo që doni, që nga rregullimet e anështyllës.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Zgjidhni skemën tuaj për skedat
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Skedat anash
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -432,4 +434,7 @@ onboarding-checklist-extension = Shtoni një zgjerim
 onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
 
 ## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

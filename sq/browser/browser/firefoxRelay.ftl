@@ -56,10 +56,13 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
+firefox-relay-offer-legal-notice-control = Duke u regjistruar dhe duke krijuar një maskë email-i”, pajtoheni me <label data-l10n-name="tos-url">Kushte Shërbimi</label> dhe <label data-l10n-name="privacy-url">Shënim Privatësie</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Parandaloni mesazhe të padëshiruar, me maskë falas email-i
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Regjistrohuni
     .accesskey = R
@@ -67,6 +70,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Merrni një maskë falas email-i
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regjistrohuni
     .accesskey = R
