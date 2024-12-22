@@ -387,6 +387,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = E kam përdorur në të 
 onboarding-new-tabs-title = Tregonani se ku do t’i donit skedat tuaja
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Ndërrojeni kurdo që doni, që nga rregullimet e anështyllës.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Skedat tuaja, me mënyrën tuaj
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Mbani hapur shumë skeda? Provoni t’i mbani skedat tuaja anash, për një pamje më të hajthme. Ose mbajini në mënyrën klasike, me skedat sipër. Kaloni nga njëra mënyrë te tjetra kurdo.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Zgjidhni skemën tuaj për skedat
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
