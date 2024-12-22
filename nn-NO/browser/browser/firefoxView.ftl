@@ -72,7 +72,7 @@ firefoxview-tabpickup-password-locked-header = Skriv inn hovudpassordet ditt for
 firefoxview-tabpickup-password-locked-description = For å få tilgang til fanene dine må du skrive inn hovudpassordet for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovudpassord
-firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les meire</a>
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les meir</a>
 firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
 firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få tak i fanene dine, logg in på { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å kople til på nytt og få tak i fanene dine, logg in på kontoen din.
