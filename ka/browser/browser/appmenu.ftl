@@ -8,13 +8,13 @@
 appmenuitem-banner-update-downloading =
     .label = ჩამოიტვირთება ახალი { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
+    .label = გასაახლებელია — ჩამოტვირთვა
 appmenuitem-banner-update-manual =
-    .label = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
+    .label = გასაახლებელია — ჩამოტვირთვა
 appmenuitem-banner-update-unsupported =
     .label = ვერ განახლდება — შეუთავსებელია
 appmenuitem-banner-update-restart =
-    .label = განახლება ხელმისაწვდომია — გადატვირთვა ახლავე
+    .label = გასაახლებელია — გადატვირთვა
 appmenuitem-new-tab =
     .label = ახალი ჩანართი
 appmenuitem-new-window =
