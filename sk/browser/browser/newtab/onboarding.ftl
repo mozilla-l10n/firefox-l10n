@@ -450,5 +450,7 @@ tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím 
 
 multi-profile-spotlight-title = Pozdravte profily { -brand-product-name(case: "gen") }
 multi-profile-spotlight-body = Jednoducho prepínajte medzi pracovným a zábavným prehliadaním. Profily uchovávajú vaše informácie o prehliadaní vrátane histórie vyhľadávania a hesiel úplne oddelené, aby ste mali prehľad.
+multi-profile-spotlight-cta = Vytvoriť profil
+multi-profile-callout-title = Vytvorte si rôzne profily pre prácu a zábavu
 multi-profile-callout-subtitle = Profily vám umožňujú uchovávať informácie o prehliadaní, ako je história vyhľadávania a heslá, úplne oddelené.
 multi-profile-callout-cta = Vytvoriť profil
