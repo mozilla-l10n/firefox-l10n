@@ -70,11 +70,11 @@ connection-proxy-autologin-checkbox =
     .accesskey = i
     .tooltiptext = Iste option te authentica silentiosemente al proxies quando tu ha salvate lor credentiales. Tu essera demandate si le authentication falle.
 connection-proxy-socks4-remote-dns =
-    .label = Proxy DNS quando in SOCKS v4
+    .label = DNS per proxy quando se usa SOCKS v4
     .accesskey = 4
 connection-proxy-socks-remote-dns =
-    .label = Proxy DNS quando in SOCKS v5
-    .accesskey = d
+    .label = DNS per proxy quando se usa SOCKS v5
+    .accesskey = 5
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
