@@ -46,6 +46,8 @@ sync-setup-verify-description = Un altere usator esseva previemente connectite p
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Limite de numero de contos attingite pro iste profilo
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Conto jam in uso
 # Variables:

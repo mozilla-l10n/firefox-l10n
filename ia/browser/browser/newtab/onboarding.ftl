@@ -449,6 +449,8 @@ tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Saluta le profilos de { -brand-product-name }
+multi-profile-spotlight-body = Facilemente passa inter le navigation pro labor e illo pro amusamento. Le profilos mantene tu informationes de navigation, includite chronologia de recerca e contrasignos, totalmente separate de maniera que tu pote restar organisate.
 multi-profile-spotlight-cta = Crear un profilo
 multi-profile-callout-title = Crear profilos differente pro labor e amusamento
+multi-profile-callout-subtitle = Le profilos te permitte mantener tu informationes de navigation, como le chronologia de recerca e le contrasignos, totalmente separate.
 multi-profile-callout-cta = Crear un profilo
