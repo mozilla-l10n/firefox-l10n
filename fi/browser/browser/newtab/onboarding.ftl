@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Käytä voittoa tavoittelemattoman sä�
 mr2022-onboarding-get-started-primary-subtitle = Uusin versiomme on rakennettu ympärillesi; verkossa liikkuminen on helpompaa kuin koskaan. Se on täynnä ominaisuuksia, joihin uskomme sinun ihastuvan.
 mr2022-onboarding-get-started-primary-button-label = Määritä sekunneissa
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Salamannopea määritys
 mr2022-onboarding-import-subtitle = Määritä { -brand-short-name } haluamallasi tavalla. Lisää kirjanmerkkisi, salasanasi ja paljon muuta aiemmin käyttämästäsi selaimesta.
@@ -388,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Olen käyttänyt sitä a
 onboarding-new-tabs-title = Missä haluat välilehtien sijaitsevan?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Voit vaihtaa tätä asetusta milloin vain sivupalkin asetuksista.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Välilehdet haluamallasi tavalla
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Valitse välilehtien asettelu
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Välilehdet reunassa
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +437,14 @@ onboarding-checklist-pin = Kiinnitä { -brand-short-name } tehtäväpalkkiin
 onboarding-checklist-import = Tuo edellisestä selaimesta
 onboarding-checklist-extension = Lisää laajennus
 onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Tervehdi { -brand-product-name }-profiileja
+multi-profile-spotlight-cta = Luo profiili
+multi-profile-callout-title = Luo eri profiilit työtä ja vapaa-aikaa varten
+multi-profile-callout-subtitle = Profiilien avulla voit pitää selaustietosi, kuten hakuhistorian ja salasanat, täysin erillään.
+multi-profile-callout-cta = Luo profiili

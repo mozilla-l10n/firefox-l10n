@@ -282,6 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa
+appmenu-services-header = Omat palvelut
 
 ## Profiles panel
 

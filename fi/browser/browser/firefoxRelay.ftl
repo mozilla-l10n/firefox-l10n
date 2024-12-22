@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ei voinut luoda uutta maskia. HTTP-virhekoodi: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ei löytänyt uudelleenkäytettäviä maskeja. HTTP-virhekoodi: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Sinun on kirjauduttava sisään { -fxaccount-brand-name }llesi, jotta voit käyttää { -relay-brand-name }-palvelua.
 firefox-relay-must-login-to-account = Kirjaudu sisään tiliisi käyttääksesi { -relay-brand-name } -sähköpostimaskeja.
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ei nyt
     .accesskey = n
-firefox-relay-offer-what-fxa-and-relay-provides = Tili avaa pääsyn useisiin yksityisyyttä suojaaviin tuotteisiin. Kaikki sähköpostimaskeihisi lähetetyt sähköpostit välitetään oikeaan sähköpostiosoitteeseesi (ellet päätä estää niitä).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Kirjaudu { -brand-product-name }iin ja käytä maskia
+    .accesskey = s
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Rekisteröidy
     .accesskey = s
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Älä näytä uudestaan
@@ -51,6 +53,10 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ei nyt
     .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +81,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Suojaudu roskapostilta sähköpostimaskilla
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Suojaudu roskapostilta piilottamalla todellinen osoitteesi <label data-l10n-name="firefox-relay-learn-more-url">sähköpostimaskilla</label>. Saat edelleen sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> postilaatikkoosi siten, että osoitteesi on piilotettu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Luomalla sähköpostimaskin hyväksyt <label data-l10n-name="tos-url">käyttöehdot</label> ja <label data-l10n-name="privacy-url">tietosuojakäytännön</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Seuraava
     .accesskey = e
