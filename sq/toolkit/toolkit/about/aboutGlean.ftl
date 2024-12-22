@@ -105,6 +105,14 @@ about-glean-adhoc-note =
     Ju lutemi, kini parasysh se po përdorni API JS Glean duke përdorur konsolën e mjeteve të zhvilluesit.
     Kjo do të thotë se kategoria metrike dhe emri metrik formatohen në
     <code>camelCase</code>, ndryshe nga ç’ndodh në API Rust dhe C++.
+about-glean-profiler-explanation =
+    Që të shihni një pamje të plotë të matjeve të regjistruara, mund të përdorni { -profiler-brand-name }.
+    Së pari duhet të <a data-l10n-name="firefox-profiler-link">prodhoni një profil funksionimi</a>.
+    Pasi ta keni prodhuar profilin, përzgjidhni <q>Grafik Piketash</q> dhe shihni te piketat nën <q>Telemetri</q>.
+about-glean-profiler-explanation-profiler =
+    Te profili i funksionimit mund të shihni krejt matjet e grumbulluara, kur qenë
+    grumbulluar dhe se ç’vlera janë grumbulluar saktësisht. Duke kaluar kursorin sipër piketash,
+    mund të verifikoni se qe grumbulluar vlera e saktë dhe se grumbullimi ndodhi në kohën e duhur.
 controls-button-label-verbose = Apliko rregullimet dhe parashtro një ping
 about-glean-feedback-settings-only =
     .message = Rregullimet u aplikuan!
@@ -123,6 +131,10 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Që të shfletoni të dhënat që po grumbullohen nga telemetria e dikurshme, ju lutemi, shihni
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Që të shfletoni etiketa diagnostikimi, të shihni pingje të plotë, të shihni 
+    një akt drejtpërsëdrejti, ose të shihni vizualizime matjesh, ju lutemi,
+    shihni <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.

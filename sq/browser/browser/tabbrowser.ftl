@@ -198,8 +198,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anuloje
     .accesskey = A
+tab-group-menu-header = Grupe skedash
 tab-context-unnamed-group =
     .label = Grup i paemër
+tab-group-name-default = Grup i Paemër
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
