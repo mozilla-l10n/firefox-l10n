@@ -393,6 +393,8 @@ onboarding-many-tabs-title = Skedat tuaja, me mënyrën tuaj
 onboarding-many-tabs-subtitle = Mbani hapur shumë skeda? Provoni t’i mbani skedat tuaja anash, për një pamje më të hajthme. Ose mbajini në mënyrën klasike, me skedat sipër. Kaloni nga njëra mënyrë te tjetra kurdo.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Zgjidhni skemën tuaj për skedat
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Për një pamje të hajthme, që mund t’ju ndihmojë të ruani përqendrimin, provoni t’i mbani skedat tuaja anash. Ose mbani mënyrën klasike, me skedat sipër. Kaloni nga një mënyrë te tjetra kurdo.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Skedat anash
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -439,6 +441,14 @@ onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak rrëmujë, më tepër përqendrim
+tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Përshëndetni profilet { -brand-product-name }
+multi-profile-spotlight-body = Kaloni kollaj nga shfletimi për punë në atë për qejf dhe anasjelltas. Profilet e mbajnë informacionin e shfletimit tuaj, përfshi historik kërkimesh dhe fjalëkalime, tërësisht veçmas, që të mund të jini të sistemuar.
+multi-profile-spotlight-cta = Krijoni profil
+multi-profile-callout-title = Krijoni profile ndaras për punë dhe zbavitje
+multi-profile-callout-subtitle = Profilet ju lejojnë të mbani tërësisht ndaras informacione të shfletimit tuaj, bie fjala, historik kërkimesh dhe fjalëkalime.
+multi-profile-callout-cta = Krijoni profil

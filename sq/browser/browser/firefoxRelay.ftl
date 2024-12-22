@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = Duke u regjistruar dhe duke krijuar n
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Parandaloni mesazhe të padëshiruar, me maskë falas email-i
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Pengoni mesazhe të padëshiruar, duke fshehur adresën tuaj të njëmendtë email me një <label data-l10n-name="firefox-relay-learn-more-url">maskë email-i</label> falas. Email-et prej <label data-l10n-name="firefox-fxa-and-relay-offer-domain">këtij sajti</label> do të mbërrijnë prapë në mesazhet tuaj, por me email-in tuaj fshehur.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Regjistrohuni
@@ -70,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Merrni një maskë falas email-i
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Mbroni mesazhet tuaj nga mesazhe të padëshiruar, duke përdorur një <label data-l10n-name="firefox-relay-learn-more-url">maskë email-i</label> falas, që të fshihni adresën tuaj të njëmendtë email. Email-et prej <label data-l10n-name="firefox-fxa-and-relay-offer-domain">këtij sajti</label> prapë do të mbërrijnë te mesazhet tuaj, por me email-in tuaj fshehur.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regjistrohuni
@@ -77,6 +79,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Mbrohuni nga mesazhe të padëshiruar me një maskë falas email-i
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Pasuesi
     .accesskey = P
