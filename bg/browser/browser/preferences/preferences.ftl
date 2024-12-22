@@ -32,7 +32,7 @@ settings-page-title = Настройки
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Търсене в настройките
-managed-notice = Мрежовият четец се управлява от вашата организация.
+managed-notice = Вашият браузър се управлява от вашата организация.
 managed-notice-info-icon =
     .alt = Информация
 category-list =
@@ -124,8 +124,8 @@ search-results-help-link = Имате нужда от помощ? Посетет
 
 startup-header = Стартиране
 always-check-default =
-    .label = Проверяване дали { -brand-short-name } е стандартният четец
-    .accesskey = ч
+    .label = Винаги да се проверява дали { -brand-short-name } е браузър по подразбиране
+    .accesskey = В
 is-default = { -brand-short-name } е стандартния за системата четец
 is-not-default = { -brand-short-name } не е стандартния за системата четец
 set-as-my-default-browser =
@@ -143,7 +143,7 @@ startup-restore-warn-on-quit =
     .label = Предупреждаване при затваряне на четеца
 disable-extension =
     .label = Изключване на разширението
-preferences-data-migration-header = Внасяне на данни от друг четец
+preferences-data-migration-header = Внасяне на данни от браузър
 preferences-data-migration-description = Внасяне на отметки, пароли, история и данни за автоматично попълване във { -brand-short-name }.
 preferences-data-migration-button =
     .label = Внасяне на данни
@@ -321,12 +321,12 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Избиране…
-           *[other] Разглеждане…
+           *[other] Промяна…
         }
     .accesskey =
         { PLATFORM() ->
             [macos] И
-           *[other] Р
+           *[other] П
         }
 download-always-ask-where =
     .label = Винаги да се пита къде да бъдат запазвани файловете
@@ -888,7 +888,7 @@ sync-verification-not-sent-body = Потвърждаващото съобщен�
 
 ## Privacy Section
 
-privacy-header = Поверителност на четеца
+privacy-header = Поверителност на браузъра
 
 ## Privacy Section - Logins and Passwords
 
