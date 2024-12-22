@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Use un navegador respaldado por una org
 mr2022-onboarding-get-started-primary-subtitle = Nuestra última versión está diseñada pensando en usted, haciendo que navegar por la web sea más fácil que nunca. Está repleto de funciones que creemos que le encantarán.
 mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuración ultrarrápida
 mr2022-onboarding-import-subtitle = Configure { -brand-short-name } como más le guste. Añada sus marcadores, contraseñas y más desde su antiguo navegador.
@@ -387,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado en el pasado
 onboarding-new-tabs-title = Díganos dónde quiere las pestañas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Cámbielo cuando quiera en los ajustes de barra lateral .
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Sus pestañas, a su manera
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ¿Mantiene muchas pestañas abiertas? Pruebe a colocarlas en el lateral para obtener una vista más simplificada. O mantenga el estilo clásico con las pestañas en la parte superior. Cambie cuando lo desee.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Elija el diseño de sus pestañas.
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para una vista optimizada que le ayude a mantenerse concentrado, pruebe las pestañas en el lateral. O bien, opte por el estilo clásico con pestañas en la parte superior. Cambie cuando lo desee.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestañas en la parte lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +440,10 @@ onboarding-checklist-pin = Fijar { -brand-short-name } a la barra de tareas
 onboarding-checklist-import = Importar desde el navegador anterior
 onboarding-checklist-extension = Añadir una extensión
 onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y mayor concentración
+
+## Multi Profiles feature onboarding messages
+
