@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nedokázal vygenerovať novú masku. Kód chyby HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nenašiel opakovane použiteľné masky. Kód chyby HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Ak chcete používať { -relay-brand-name }, musíte sa prihlásiť do { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 firefox-relay-must-login-to-account = Ak chcete používať svoje e‑mailové masky služby { -relay-brand-name }, prihláste sa do svojho účtu.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Teraz nie
     .accesskey = T
-firefox-relay-offer-what-fxa-and-relay-provides = Účet odomkne prístup k ďalším produktom na ochranu súkromia. Všetky e‑maily odoslané na vaše e‑mailové masky budú preposlané na vašu skutočnú e‑mailovú adresu (pokiaľ sa ich nerozhodnete zablokovať).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Prihlásiť sa do { -brand-product-name(case: "gen") } a použiť masku
     .accesskey = m
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Zaregistrovať sa
+    .accesskey = Z
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Nabudúce nezobrazovať
     .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Teraz nie
     .accesskey = T
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
+firefox-relay-offer-legal-notice-control = Zaregistrovaním sa a vytvorením e‑mailovej masky vyjadrujete súhlas s <label data-l10n-name="tos-url">Zmluvnými podmienkami</label> a <label data-l10n-name="privacy-url">Oznámením o ochrane osobných údajov</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Chráňte sa pred nevyžiadanou poštou pomocou e‑mailovej masky
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Chráňte sa pred nevyžiadanou poštou skrytím svojej skutočnej adresy pomocou <label data-l10n-name="firefox-relay-learn-more-url">e‑mailovej masky</label>. E‑maily z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tejto lokality</label> budete stále dostávať do svojej bežnej doručenej pošty so zamaskovanou adresou.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Najprv sa zaregistrujte alebo prihláste do svojho účtu, aby ste mohli používať e‑mailovú masku
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Vytvorením e‑mailovej masky vyjadrujete súhlas s <label data-l10n-name="tos-url">Zmluvnými podmienkami</label> a <label data-l10n-name="privacy-url">Oznámením o ochrane osobných údajov</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Ďalej
     .accesskey = a

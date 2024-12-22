@@ -222,8 +222,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušiť
     .accesskey = Z
+tab-group-menu-header = Skupiny kariet
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
+tab-group-name-default = Nepomenovaná skupina
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

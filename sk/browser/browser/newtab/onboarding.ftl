@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Používal som ho v minu
 onboarding-new-tabs-title = Povedzte nám, kde by ste chceli mať svoje karty
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = V nastaveniach bočného panela voľbu kedykoľvek zmeníte.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Vaše karty, vaša cesta
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Nechať otvorených veľa kariet? Vyskúšajte svoje karty na bočnej strane, aby ste získali efektívnejšie zobrazenie. Alebo to ponechajte klasické so záložkami navrchu. Prepnúť môžete kedykoľvek.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Vyberte rozloženie kariet
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Ak chcete získať efektívnejší pohľad, ktorý vám pomôže sústrediť sa, vyskúšajte karty na boku. Alebo to ponechajte klasické so záložkami navrchu. Prepnúť to môžete kedykoľvek.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Karty na bočnej strane
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -432,3 +440,13 @@ onboarding-checklist-pin = Pripnúť { -brand-short-name } na hlavný panel úlo
 onboarding-checklist-import = Importovať z predchádzajúceho prehliadača
 onboarding-checklist-extension = Pridať rozšírenie
 onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho účtu
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet pre menej neporiadku a viac pozornosti
+tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Pozdravte profily { -brand-product-name(case: "gen") }
+multi-profile-spotlight-body = Jednoducho prepínajte medzi pracovným a zábavným prehliadaním. Profily uchovávajú vaše informácie o prehliadaní vrátane histórie vyhľadávania a hesiel úplne oddelené, aby ste mali prehľad.
