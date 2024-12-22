@@ -44,3 +44,29 @@ sync-setup-verify-heading = Naozaj sa chcete prihlásiť na synchronizáciu?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Predtým bol na tomto počítači prihlásený na synchronizáciu iný používateľ. Prihlásením sa dôjde k spojeniu záložiek, hesiel a ďalších nastavení prehliadača s používateľom { $email }.
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Pre tento profil bol dosiahnutý limit účtu
+sync-profile-different-account-header = Tento profil bol predtým synchronizovaný s iným účtom
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Aby boli vaše údaje usporiadané a zabezpečené, každý profil { -brand-product-name(case: "gen") } možno synchronizovať iba s jedným účtom. Ak sa chcete prihlásiť pomocou e‑mailu { $acctEmail }, vytvorte si nový profil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil bol synchronizovaný s iným účtom
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Ak chcete, aby boli vaše údaje usporiadané a zabezpečené, odporúčame vám vytvoriť si nový profil na prihlásenie pomocou e‑mailu { $acctEmail }. Ak sa rozhodnete pokračovať v synchronizácii tohto profilu, údaje z oboch účtov sa natrvalo zlúčia do profilu “{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Účet sa už používa
+sync-account-in-use-description = Tento účet môžete priradiť iba k jednému profilu na tomto počítači.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Tento účet je prihlásený do iného profilu. Chcete synchronizovať oba profily?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Prepnúť na profil “{ $profileName }”
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synchronizovať “{ $profileName }”
