@@ -37,9 +37,9 @@ show-unsigned-extensions-button =
 show-all-extensions-button =
     .label = نمایش تمام توسعه‌ها
 detail-version =
-    .label = نسخه
+    .label = نگارش
 detail-last-updated =
-    .label = آخرین بروزرسانی
+    .label = آخرین به‌روزرسانی
 addon-detail-description-expand = نمایش بیشتر
 addon-detail-description-collapse = نمایش کمتر
 detail-contributions-description = توسعه‌دهندهٔ این افزودنی از شما برای توسعهٔ متداوم این افزودنی کمک مالی کوچکی درخواست کرده است.
@@ -372,6 +372,12 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = اجازه دادن
+addon-detail-quarantined-domains-disallow = اجازه ندادن
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -421,6 +427,7 @@ details-notification-incompatible = { $name } با نسخهٔ { $version } از 
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
+details-notification-incompatible-link = اطلاعات بیشتر
 details-notification-unsigned-and-disabled = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
