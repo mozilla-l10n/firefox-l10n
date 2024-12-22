@@ -135,6 +135,9 @@ about-glean-about-data-list-item-debug-ping-viewer =
     Që të shfletoni etiketa diagnostikimi, të shihni pingje të plotë, të shihni 
     një akt drejtpërsëdrejti, ose të shihni vizualizime matjesh, ju lutemi,
     shihni <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Që të regjistroni një profil funksionimi dhe të shihni krejt matjet e
+    regjistruara, ju lutemi, përdorni <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
