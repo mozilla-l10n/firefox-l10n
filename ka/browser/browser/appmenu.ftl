@@ -277,7 +277,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = ანგარიშზე შესვლა
 appmenuitem-monitor-title = { -monitor-brand-short-name }
-appmenuitem-monitor-description = ცნობები მონაცემთა მიტაცებისას
+appmenuitem-monitor-description = მიიღეთ ცნობები მონაცემთა მიტაცებისას
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
 appmenuitem-services-relay-description = შენიღბვის მაჩვენებლების გვერდის გაშვება
