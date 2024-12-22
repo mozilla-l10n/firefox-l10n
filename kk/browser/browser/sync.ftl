@@ -52,6 +52,12 @@ sync-profile-different-account-header = Бұл профиль бұрын бас�
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Деректеріңізді реттелген және қауіпсіз түрде сақтау үшін әрбір { -brand-product-name } профилін тек бір тіркелгімен синхрондауға болады. { $acctEmail } арқылы кіру үшін жаңа профиль жасаңыз.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Профиль басқа тіркегімен синхрондалған
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Деректеріңізді реттелген және қауіпсіз түрде сақтау үшін { $acctEmail } арқылы кіру үшін жаңа профиль жасауды ұсынамыз. Осы профильде синхрондауды жалғастыруды таңдасаңыз, екі тіркелгі деректері "{ $profileName }" ішінде біржола біріктіріледі.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Тіркелгі қолдануда болып тұр
 sync-button-create-profile = Жаңа профильді жасау
