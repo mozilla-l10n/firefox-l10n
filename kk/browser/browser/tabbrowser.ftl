@@ -111,6 +111,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } көмегіме�
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } ішінен шығу керек пе немесе ағымдағы бетті жабу керек пе?
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } жұмысын аяқтау
@@ -199,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бас тарту
     .accesskey = с
+tab-group-menu-header = Беттер топтары
 tab-context-unnamed-group =
     .label = Атаусыз топ
+tab-group-name-default = Атаусыз топ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

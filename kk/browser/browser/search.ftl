@@ -38,5 +38,6 @@ remove-search-engine-button = ОК
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = { $engineName } іздеу жүйесі ретінде қосу керек пе?
 install-search-engine-add = Қосу
 install-search-engine-no = Жоқ
