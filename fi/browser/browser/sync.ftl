@@ -42,3 +42,28 @@ sync-setup-verify-heading = Haluatko varmasti kirjautua sisään synkronointia v
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Toinen käyttäjä oli aiemmin kirjautunut sisään synkronoidakseen tällä tietokoneella. Sisäänkirjautuminen yhdistää tämän selaimen kirjanmerkit, salasanat ja muut asetukset tiliin { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Tämän profiilin tiliraja tuli vastaan
+sync-profile-different-account-header = Tämä profiili synkronoitiin aiemmin toiseen tiliin
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profiili synkronoitu eri tilille
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Tili on jo käytössä
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } on jo kirjautunut sisään profiiliin "{ $otherProfile }"
+sync-account-in-use-description = Voit liittää tämän tilin vain yhteen profiiliin tässä tietokoneessa.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Tämä tili on kirjautunut toiseen profiiliin. Synkronoidaanko molemmat profiilit?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Vaihda profiiliin "{ $profileName }"
+sync-button-create-profile = Luo uusi profiili
+sync-button-sync-and-merge = Synkronoi ja yhdistä tiedot
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synkronoi "{ $profileName }"
