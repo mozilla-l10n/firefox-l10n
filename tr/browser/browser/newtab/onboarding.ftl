@@ -440,7 +440,11 @@ onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = { -brand-product-name } profilleriyle tanışın
+multi-profile-spotlight-cta = Profil oluşturun
+multi-profile-callout-title = İş ve eğlence için farklı profiller oluşturun
+multi-profile-callout-subtitle = Profiller, arama geçmişi ve parolalar gibi gezinti bilgilerinizi tamamen ayrı tutmanızı sağlar.

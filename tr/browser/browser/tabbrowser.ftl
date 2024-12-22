@@ -211,6 +211,7 @@ tab-group-editor-cancel =
 tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup
+tab-group-name-default = Adsız Grup
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
