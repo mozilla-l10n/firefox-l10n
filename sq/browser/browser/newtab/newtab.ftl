@@ -459,4 +459,6 @@ newtab-section-unfollow-button = Hiqi Ndjekjen
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Jeni i sigurt se doni të bllokohet kjo ndarje?
+newtab-section-confirm-block-section-p2 = Pjesa e bllokuar s’do të shfaqet më në prurjen tuaj.
+newtab-section-block-section-button = Bllokoje këtë pjesë
 newtab-section-cancel-button = Jo tani
