@@ -23,6 +23,7 @@ about-private-browsing-learn-more-link = കൂടുതൽ അറിയുക
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = സ്വകാര്യ തിരച്ചിൽ താങ്ങളുടെ ഫോണിലേക്കു് എടുത്തുകൊണ്ടുപോവുക
 about-private-browsing-focus-promo-header-c = മൊബൈലിൽ അടിപ്പൊളി സ്വകാര്യത
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
@@ -31,6 +32,12 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = ഒറ്റ അമർത്തുത്തിൽ സ്വകാര്യ തിരച്ചിലിന്റെ സ്വാതന്ത്ര്യം
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+       *[other] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+    }
 
 ## Strings used in a promotion message for cookie banner reduction
 
@@ -39,3 +46,4 @@ about-private-browsing-cookie-banners-promo-button = കുക്കി പൊ�
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = ഈ ഉപകരണത്തിൽ ലക്ഷണമെങ്കിലും വിടരുതു്
+about-private-browsing-felt-privacy-v1-info-link = ആൎക്കൊക്കെ എന്റെ പ്രവർത്തനം കാണാൻ കഴിഞ്ഞേക്കും?
