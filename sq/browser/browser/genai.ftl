@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Shpjegojeni këtë
     .value = Ju lutemi, shpjegoni konceptet kyçe në këtë përzgjedhje, duke përdorur fjalë të thjeshta, Përdorni gjithashtu shembuj.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Ndreqe
+    .value = Të lutem, ndreq përzgjedhjen për gabime shkrimi dhe gramatikore. Identifiko çfarëdo gabimesh dhe jep një version të ndrequr të tekstit. Ruaj kuptimin dhe përpikërinë faktike dhe, së pari, prodho një listë ndreqjesh të propozuara, ndjekur nga versioni përfundimtar, i ndrequr i tekstit.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pyetni { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Roboti IA i fjalosjes s’do të marrë përzgjedhjen tuaj të plotë
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } s’do të marrë krejt përzgjedhjen tuaj
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to { $provider } is about { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Fshihe shkurtoren e robotit të fjalosjeve
 
@@ -133,6 +154,5 @@ genai-onboarding-gemini-price = Mundësi falas dhe me pagesë; lypset llogari
 genai-onboarding-huggingchat-generate = Prodho tekst dhe kod
 genai-onboarding-huggingchat-switch = Kaloni nga një grup modelesh të hapta në një tjetër
 genai-onboarding-huggingchat-price-2 = Falas, pas një numri kërkesash lypset llogari
-genai-onboarding-huggingchat-price = Falas, për disa gjëra lypset llogari
 genai-onboarding-lechat-generate = Prodho tekst dhe kod
 genai-onboarding-lechat-price = Falas; lypset llogari

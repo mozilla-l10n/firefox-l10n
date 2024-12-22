@@ -117,6 +117,12 @@ newtab-menu-delete-pocket = Fshije nga { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkivoje në { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorët tanë & privatësia jonë
 newtab-menu-about-fakespot = Mvi { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bllokoje
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Hiqe Ndjekjen e Subjektit
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -446,6 +452,9 @@ newtab-topic-selection-button-pick-interests = Zgjidhni interesat tuaja
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Ndiqe
+newtab-section-following-button = Po e Ndiqni
+newtab-section-unfollow-button = Hiqi Ndjekjen
 
 ## Confirmation modal for blocking a section
 
