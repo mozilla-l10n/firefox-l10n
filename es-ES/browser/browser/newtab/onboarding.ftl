@@ -444,6 +444,13 @@ onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y mayor concentración
+tab-groups-onboarding-feature-callout-subtitle = Organícese arrastrando una pestaña encima de otra para crear su primer grupo.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Dígale hola a los perfiles de { -brand-product-name }
+multi-profile-spotlight-body = Cambie fácilmente entre navegación por trabajo y diversión. Los perfiles mantienen la información de navegación, incluido el historial de búsqueda y las contraseñas, totalmente separada para que pueda mantenerse organizado.
+multi-profile-spotlight-cta = Crear un perfil
+multi-profile-callout-title = Crear diferentes perfiles para trabajo y diversión
+multi-profile-callout-subtitle = Los perfiles permiten mantener la información de navegación, como el historial de búsqueda y las contraseñas, totalmente separadas.
+multi-profile-callout-cta = Crear un perfil
