@@ -33,3 +33,7 @@ webext-perms-description-topSites = Accedere alla cronologia di navigazione
 webext-perms-description-trialML = Scaricare ed eseguire modelli di intelligenza artificiale sul dispositivo
 webext-perms-description-userScripts = Consentire a script di terze parti non verificati di accedere ai tuoi dati
 webext-perms-description-webNavigation = Accedere all’attività del browser durante la navigazione
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
