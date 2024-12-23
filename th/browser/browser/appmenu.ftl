@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = รับการแจ้งเตือนเมื่อเกิดการรั่วไหลของข้อมูล
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ปิดบังอีเมลและหมายเลขโทรศัพท์จริงของคุณ
+appmenuitem-services-relay-description = เปิดแดชบอร์ดตัวปกปิดอีเมล
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ปกป้องกิจกรรมออนไลน์ของคุณ
+appmenu-services-header = บริการของฉัน
+appmenu-other-protection-header = ลองใช้เครื่องมือป้องกันตัวอื่นๆ จาก { -vendor-short-name }:
 
 ## Profiles panel
 
