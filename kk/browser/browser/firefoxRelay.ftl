@@ -61,6 +61,7 @@ firefox-relay-and-fxa-popup-notification-second-sentence-control = Эл. пош�
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Тегін эл. пошта маскасы арқылы спамның алдын алыңыз
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Тіркелгіні жасау
     .accesskey = Т

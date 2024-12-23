@@ -391,6 +391,10 @@ onboarding-new-tabs-title = Беттер қай жерде көргіңіз ке
 onboarding-new-tabs-subtitle = Бүйір панелінің параметрлерінде оны кез келген уақытта ауыстырыңыз.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Сіздің беттеріңіз, сіздің жолыңызбен
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Көптеген беттерді ашық ұстап отырсыз ба? Оңтайлы көрініс үшін бүйір панелі беттерін қолданып көріңіз. Немесе оны жоғарғы жағындағы беттермен классикалық күйде сақтаңыз. Кез келген уақытта ауысыңыз.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Беттер жаймасын таңдаңыз
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Беттер бүйір жақта
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -440,6 +444,7 @@ onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелг�
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = { -brand-product-name } профильдеріне сәлем айтыңыз
 multi-profile-spotlight-cta = Профиль жасау
 multi-profile-callout-title = Жұмыс және көңіл көтеру үшін әртүрлі профильдер жасау
 multi-profile-callout-cta = Профиль жасау
