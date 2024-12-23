@@ -39,3 +39,40 @@ sync-setup-verify-heading = คุณแน่ใจหรือไม่ว่�
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = ผู้ใช้ที่ต่างกันได้ลงชื่อเข้า Sync ก่อนหน้านี้บนคอมพิวเตอร์นี้ การลงชื่อเข้าจะผสานที่คั่นหน้า รหัสผ่าน และการตั้งค่าอื่น ๆ ของเบราว์เซอร์นี้กับ { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = ถึงขีดจำกัดบัญชีสำหรับโปรไฟล์นี้แล้ว
+sync-profile-different-account-header = โปรไฟล์นี้ถูกซิงค์กับบัญชีอื่นก่อนหน้านี้
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = เพื่อให้ข้อมูลของคุณเป็นระเบียบและปลอดภัย โปรไฟล์ { -brand-product-name } แต่ละโปรไฟล์สามารถซิงค์กับบัญชีได้เพียงบัญชีเดียวเท่านั้น ถ้าต้องการลงชื่อเข้าโดยใช้ { $acctEmail } ให้สร้างโปรไฟล์ใหม่
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = โปรไฟล์ถูกซิงค์กับบัญชีอื่น
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = เพื่อให้ข้อมูลของคุณเป็นระเบียบและปลอดภัย เราขอแนะนำให้สร้างโปรไฟล์ใหม่เพื่อลงชื่อเข้าโดยใช้ { $acctEmail } ถ้าคุณเลือกที่จะซิงค์ข้อมูลในโปรไฟล์นี้ต่อไป ข้อมูลจากทั้งสองบัญชีจะถูกผสานรวมเข้ากับ “{ $profileName }” อย่างถาวร
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = บัญชีถูกใช้ไปแล้ว
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } ได้ลงชื่อเข้าโปรไฟล์ “{ $otherProfile }” ไปแล้ว
+sync-account-in-use-description = คุณสามารถเชื่อมโยงบัญชีนี้กับโปรไฟล์ได้เพียงโปรไฟล์เดียวเท่านั้นบนคอมพิวเตอร์เครื่องนี้
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = บัญชีนี้ลงชื่อเข้าในโปรไฟล์อื่นแล้ว ต้องการซิงค์ทั้งสองโปรไฟล์หรือไม่?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ได้ลงชื่อเข้าโปรไฟล์ “{ $otherProfile }” บนคอมพิวเตอร์เครื่องนี้ การซิงค์โปรไฟล์ “{ $currentProfile }” จะรวมข้อมูลจากทั้งสองโปรไฟล์อย่างถาวร เช่น รหัสผ่านและที่คั่นหน้า
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = สลับไปยัง “{ $profileName }”
+sync-button-create-profile = สร้างโปรไฟล์ใหม่
+sync-button-sync-and-merge = ซิงค์และผสานข้อมูล
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = ซิงค์ “{ $profileName }”
