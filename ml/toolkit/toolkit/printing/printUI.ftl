@@ -18,13 +18,22 @@ printui-page-custom-range-input =
     .placeholder = ഉദ: 2-6, 9,12-16
 # Section title for the number of copies to print
 printui-copies-label = പകര്‍പ്പുകള്‍
+printui-orientation = ക്രമീകരണം
+printui-landscape = ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
+printui-portrait = ഛായപടം രീതിയില്‍
 # Section title for the printer or destination device to target
 printui-destination-label = ലക്ഷ്യസ്ഥാനം
 printui-destination-pdf-label = പീ.ഡീ.എഫ ആയി കരുതിവയ്ക്കുക
 printui-more-settings = കൂടുതൽ ക്രമീകരണങ്ങൾ
+printui-less-settings = കുറഞ്ഞു് ക്രമീകരണങ്ങൾ
 printui-paper-size-label = കടലാസു് വലിപ്പം
 # Section title (noun) for the print scaling options
 printui-scale = അളവു്
+printui-scale-fit-to-page-width = താൾ വീതിക്കു് അനുയോജ്യം
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = അളവു്
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = ഇരട്ടവശ അച്ചടിപ്പു്
 printui-two-sided-printing-off = അണച്ചതു്
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = നീളമുള്ള അരികിൽ തിരിക്കുക
@@ -55,6 +64,22 @@ printui-color-mode-color = നിറം
 printui-color-mode-bw = കറുപ്പിലും വെളുപ്പിലും
 printui-margins = അരികൾ
 printui-margins-default = സ്ഥിരസ്ഥിതി
+printui-margins-min = ഏറ്റവും കുറഞ്ഞതു്
+printui-margins-none = ഒന്നുമില്ല
+printui-margins-custom-inches = ഇഷ്ടാനുസൃതം (ഇഞ്ച്)
+printui-margins-custom-mm = ഇഷ്ടാനുസൃതം (മില്ലീമീറ്റർ)
+printui-margins-custom-top = മേൽഭാഗം
+printui-margins-custom-top-inches = മേൽഭാഗത്തിൽ (ഇഞ്ചുകൾ)
+printui-margins-custom-top-mm = മേൽഭാഗത്തിൽ (മില്ലീമീറ്റർ)
+printui-margins-custom-bottom = കീഴ്ഭാഗം
+printui-margins-custom-bottom-inches = കീഴ്ഭാഗത്തിൽ (ഇഞ്ചുകൾ)
+printui-margins-custom-bottom-mm = കീഴ്ഭാഗത്തിൽ (മില്ലീമീറ്റർ)
+printui-margins-custom-left = ഇടതു്
+printui-margins-custom-left-inches = ഇടതുഭാഗത്തിൽ (ഇഞ്ചുകൾ)
+printui-margins-custom-left-mm = ഇടതുഭാഗത്തിൽ (മില്ലീമീറ്റർ)
+printui-margins-custom-right = വലതു്
+printui-margins-custom-right-inches = വലതുഭാഗത്തിൽ (ഇഞ്ചുകൾ)
+printui-margins-custom-right-mm = വലതുഭാഗത്തിൽ (മില്ലീമീറ്റർ)
 printui-primary-button = അച്ചടിയ്ക്കുക
 printui-primary-button-save = കരുതിവയ്ക്കുക
 printui-cancel-button = റദ്ദാക്കുക
