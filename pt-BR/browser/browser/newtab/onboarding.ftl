@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Já usei, mas faz um tem
 onboarding-new-tabs-title = Diga onde você prefere ter suas abas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Mude quando quiser nas configurações do painel lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Suas abas, do seu jeito
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Mantém muitas abas abertas? Experimente colocar as abas na lateral para ter uma visão mais simplificada. Ou mantenha o clássico com abas na parte superior. Mude quando quiser.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Escolha uma disposição de abas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para uma visão simplificada que pode ajudar você a manter o foco, experimente suas abas na lateral. Ou mantenha o clássico com abas na parte superior. Mude quando quiser.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Abas na lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +445,7 @@ onboarding-checklist-sign-up = Entre na sua conta ou crie uma
 
 tab-groups-onboarding-feature-callout-title = Experimente grupos de abas para reduzir a desordem e aumentar a concentração.
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando uma aba sobre outra para criar seu primeiro grupo.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Apresentamos perfis do { -brand-product-name }
