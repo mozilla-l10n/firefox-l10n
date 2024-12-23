@@ -80,6 +80,7 @@ printui-margins-custom-left-mm = ഇടതുഭാഗത്തിൽ (മില
 printui-margins-custom-right = വലതു്
 printui-margins-custom-right-inches = വലതുഭാഗത്തിൽ (ഇഞ്ചുകൾ)
 printui-margins-custom-right-mm = വലതുഭാഗത്തിൽ (മില്ലീമീറ്റർ)
+printui-system-dialog-link = വ്യവസ്ഥാപ്പെട്ടിയൊപ്പം അച്ചടിക്കുക…
 printui-primary-button = അച്ചടിയ്ക്കുക
 printui-primary-button-save = കരുതിവയ്ക്കുക
 printui-cancel-button = റദ്ദാക്കുക
@@ -108,3 +109,8 @@ printui-paper-b4 = ബ 4
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = അളവു് 10 നും 200 നും ഇടയിലുള്ള ഒരു സംഖ്യയായിരിക്കണം.
+printui-error-invalid-copies = പകർപ്പുകൾ 1 നും 10000 നും ഇടയിലുള്ള സംഖ്യയായിരിക്കണം.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = രംഗം 1-നും { $numPages }-നും ഇടയിലുള്ള ഒരു സംഖ്യയായിരിക്കണം.
