@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Receba alertas de vazamentos de dados
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Oculte seu email e celular verdadeiros
+appmenuitem-services-relay-description = Abrir painel de máscaras de email
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Proteja sua atividade online
+appmenu-services-header = Meus serviços
+appmenu-other-protection-header = Experimente outras ferramentas de proteção da { -vendor-short-name }:
 
 ## Profiles panel
 
