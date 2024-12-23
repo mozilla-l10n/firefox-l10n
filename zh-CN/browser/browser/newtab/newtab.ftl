@@ -455,3 +455,10 @@ newtab-topic-selection-button-pick-interests = 选择您感兴趣的主题
 newtab-section-follow-button = 关注
 newtab-section-following-button = 正在关注
 newtab-section-unfollow-button = 取消关注
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = 确定要屏蔽此部分吗？
+newtab-section-confirm-block-section-p2 = 将不再向您推送被屏蔽的部分。
+newtab-section-block-section-button = 屏蔽此部分
+newtab-section-cancel-button = 暂时不要

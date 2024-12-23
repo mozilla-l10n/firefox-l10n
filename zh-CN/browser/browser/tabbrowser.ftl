@@ -170,8 +170,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 取消
     .accesskey = C
+tab-group-menu-header = 标签页群组
 tab-context-unnamed-group =
     .label = 未命名群组
+tab-group-name-default = 未命名群组
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -373,6 +373,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没
 onboarding-new-tabs-title = 您希望将标签页放在哪里
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 可随时在侧栏设置中切换。
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = 标签页开得多？试试置于侧边，更加明晰直观。也可保持置于顶部，之后随时可以切换。
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = 选择标签页布局
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = 将标签页置于侧边，更加明晰直观，助您保持专注。也可保持置于顶部，之后随时可以切换。
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = 侧边
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -421,3 +427,12 @@ onboarding-checklist-sign-up = 注册或登录账户
 
 tab-groups-onboarding-feature-callout-title = 标签页群组助您摆脱繁乱，专注浏览
 tab-groups-onboarding-feature-callout-subtitle = 将标签页拖放到另一个标签页之上，即可创建首个群组，让标签页井井有条。
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = 欢迎使用 { -brand-product-name } 配置文件
+multi-profile-spotlight-body = 在工作和娱乐间切换自如。配置文件可全面分隔浏览信息（包括搜索记录和密码），让浏览体验井然有序。
+multi-profile-spotlight-cta = 创建配置文件
+multi-profile-callout-title = 为工作和娱乐各自创建配置文件
+multi-profile-callout-subtitle = 配置文件可全面分隔浏览信息，例如搜索记录和密码。
+multi-profile-callout-cta = 创建配置文件
