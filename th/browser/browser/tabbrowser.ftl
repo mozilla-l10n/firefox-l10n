@@ -172,8 +172,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ยกเลิก
     .accesskey = ย
+tab-group-menu-header = กลุ่มแท็บ
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ
+tab-group-name-default = กลุ่มที่ไม่มีชื่อ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

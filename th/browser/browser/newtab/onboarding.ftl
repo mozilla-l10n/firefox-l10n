@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = ใช้เบราว์เซอร
 mr2022-onboarding-get-started-primary-subtitle = รุ่นล่าสุดของเราถูกสร้างขึ้นจากสิ่งต่าง ๆ รอบตัวคุณ ซึ่งจะทำให้คุณท่องเว็บได้ง่ายกว่าเดิม รุ่นล่าสุดนี้มาพร้อมกับคุณลักษณะต่าง ๆ ที่เราคิดว่าคุณจะต้องชอบแน่
 mr2022-onboarding-get-started-primary-button-label = ตั้งค่าในไม่กี่วินาที
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = ตั้งค่าต่าง ๆ ได้อย่างรวดเร็วทันใจ
 mr2022-onboarding-import-subtitle = ตั้งค่า { -brand-short-name } ในแบบที่คุณต้องการ เพิ่มที่คั่นหน้า รหัสผ่าน และอื่น ๆ จากเบราว์เซอร์ตัวเดิมของคุณ
@@ -388,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = ฉันเคยใช
 onboarding-new-tabs-title = บอกเราว่าคุณต้องการให้แท็บของคุณอยู่ด้านไหน
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = คุณสามารถเปลี่ยนได้เมื่อคุณต้องการในการตั้งค่าแถบข้าง
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = จัดระเบียบแท็บในแบบของคุณ
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = เปิดแท็บไว้หลายแท็บใช่หรือไม่? ลองเปิดแท็บไว้ด้านข้างเพื่อให้ดูคล่องตัวขึ้น หรือจะเลือกให้แท็บอยู่ด้านบนก็ได้ คุณสามารถเปลี่ยนได้ตลอดเวลา
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = เลือกเค้าโครงแท็บของคุณ
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = หากต้องการมุมมองที่คล่องตัวและช่วยให้คุณจดจ่อกับเนื้อหาได้ ให้ลองใช้แท็บที่ด้านข้าง หรือจะเลือกแท็บแบบคลาสสิกที่ด้านบนก็ได้ คุณสามารถเปลี่ยนได้ตลอดเวลา
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = อยู่ด้านข้าง
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +441,9 @@ onboarding-checklist-pin = ปักหมุด { -brand-short-name } ที่
 onboarding-checklist-import = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 onboarding-checklist-extension = เพิ่มส่วนขยาย
 onboarding-checklist-sign-up = ลงทะเบียนหรือลงชื่อเข้าสู่บัญชีของคุณ
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

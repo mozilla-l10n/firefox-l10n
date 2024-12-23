@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ไม่สามารถสร้างตัวปกปิดใหม่ได้ รหัสข้อผิดพลาด HTTP: { $status }
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ไม่พบตัวปกปิดที่สามารถใช้ซ้ำได้ รหัสข้อผิดพลาด HTTP: { $status }
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = คุณต้องเข้าสู่ระบบ{ -fxaccount-brand-name } จึงจะสามารถใช้ { -relay-brand-name } ได้
 firefox-relay-must-login-to-account = ลงชื่อเข้าบัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล { -relay-brand-name } ของคุณ
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ไม่ใช่ตอนนี้
     .accesskey = ไ
-firefox-relay-offer-what-fxa-and-relay-provides = บัญชีจะปลดล็อกการเข้าถึงผลิตภัณฑ์ที่ปกป้องความเป็นส่วนตัวเพิ่มเติม อีเมลทั้งหมดที่ส่งไปยังตัวปกปิดอีเมลของคุณจะถูกส่งต่อไปยังที่อยู่อีเมลจริงของคุณ (นอกจากคุณเลือกที่จะปิดกั้นอีเมลเหล่านั้น)
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = ลงชื่อเข้าใช้ { -brand-product-name } และใช้ตัวปกปิด
+    .accesskey = ล
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = ลงทะเบียน
     .accesskey = ล
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = ไม่ต้องแสดงข้อความนี้อีก
@@ -51,6 +53,11 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ยังไม่ทำตอนนี้
     .accesskey = ย
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = ขั้นตอนแรก ให้ลงทะเบียนหรือลงชื่อเข้าใช้บัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล
+firefox-relay-offer-legal-notice-control = เมื่อลงทะเบียนและสร้างตัวปกปิดอีเมล แสดงว่าคุณยอมรับ<label data-l10n-name="tos-url">เงื่อนไขการให้บริการ</label>และ<label data-l10n-name="privacy-url">ประกาศความเป็นส่วนตัว</label>
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = ป้องกันสแปมด้วยตัวปกปิดอีเมล
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = ป้องกันสแปมโดยซ่อนที่อยู่จริงของคุณด้วย<label data-l10n-name="firefox-relay-learn-more-url">ตัวปกปิดอีเมล</label> คุณจะยังคงได้รับอีเมลจาก<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ไซต์นี้</label>ในกล่องจดหมายปกติของคุณ โดยที่อยู่ของคุณจะถูกปกปิดไว้
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = ขั้นตอนแรก ให้ลงทะเบียนหรือลงชื่อเข้าใช้บัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = เมื่อสร้างตัวปกปิดอีเมล แสดงว่าคุณยอมรับ<label data-l10n-name="tos-url">เงื่อนไขการให้บริการ</label>และ<label data-l10n-name="privacy-url">ประกาศความเป็นส่วนตัว</label>
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = ถัดไป
     .accesskey = ถ
