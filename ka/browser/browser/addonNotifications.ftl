@@ -80,7 +80,7 @@ addon-removal-title = მოცილდეს { $name }?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { $name } გაფართოებას ამოშლის { -brand-shorter-name }, გნებავთ?
 addon-removal-button = ამოშლა
-addon-removal-abuse-report-checkbox = გაფართოებაზე საჩივარი { -vendor-short-name }-სთვის
+addon-removal-abuse-report-checkbox = გაფართოების შესახებ საჩივარი { -vendor-short-name }-ს
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

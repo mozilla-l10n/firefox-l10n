@@ -86,7 +86,7 @@ webrtc-indicator-menuitem-control-sharing =
 webrtc-indicator-menuitem-control-sharing-on =
     .label = გაზიარების გამართვა „{ $streamTitle }“-ზე
 webrtc-indicator-menuitem-sharing-camera-with =
-    .label = კამერის გაზიარება „{ $streamTitle }“-სთვის
+    .label = კამერას იზიარებს „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
