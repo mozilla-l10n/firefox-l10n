@@ -449,3 +449,8 @@ tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pes
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Dí hola a los perfiles en { -brand-product-name }
+multi-profile-spotlight-body = Cambia fácilmente entre la navegación por trabajo y por diversión. Los perfiles mantienen tu información de navegación, incluido el historial de búsqueda y las contraseñas, totalmente separada para que puedas mantenerte organizado.
+multi-profile-spotlight-cta = Crear un perfil
+multi-profile-callout-title = Crea diferentes perfiles para el trabajo y la diversión
+multi-profile-callout-subtitle = Los perfiles te permiten mantener tu información de navegación, como el historial de búsqueda y las contraseñas, totalmente separada.
+multi-profile-callout-cta = Crear un perfil
