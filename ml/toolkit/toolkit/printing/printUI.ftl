@@ -11,6 +11,11 @@ printui-page-range-odd = ഒറ്റ
 printui-page-range-even = ഇരട്ട
 printui-page-range-custom = ഇഷ്ടാനുസൃതം
 printui-page-range-label = താളുകള്‍
+printui-page-range-picker =
+    .aria-label = താൾ രംഗം തിരഞ്ഞെടുക്കുക
+printui-page-custom-range-input =
+    .aria-label = ഇഷ്ടാനുസൃത താൾരംഗം നൽകുക
+    .placeholder = ഉദ: 2-6, 9,12-16
 # Section title for the number of copies to print
 printui-copies-label = പകര്‍പ്പുകള്‍
 # Section title for the printer or destination device to target
