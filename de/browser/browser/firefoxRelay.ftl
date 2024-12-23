@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } konnte keine neue Maske generieren. HTTP-Fehlercode: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } konnte keine wiederverwendbaren Masken finden. HTTP-Fehlercode: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Sie müssen sich bei { -fxaccount-brand-name } anmelden, um { -relay-brand-name } verwenden zu können.
 firefox-relay-must-login-to-account = Melden Sie sich bei Ihrem Konto an, um Ihre { -relay-brand-name }-E-Mail-Masken zu verwenden.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nicht jetzt
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = Ein Konto schaltet den Zugriff auf mehr Datenschutzprodukte frei. Alle E-Mails, die an Ihre E-Mail-Masken gesendet werden, werden an Ihre echte E-Mail-Adresse weitergeleitet (außer Sie entscheiden sich, sie zu blockieren).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Bei { -brand-product-name } anmelden und Maske verwenden
     .accesskey = a
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registrieren
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Nicht mehr anzeigen
     .accesskey = m
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Nicht jetzt
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Registrieren Sie sich oder melden Sie sich mit Ihrem Konto an, um eine E-Mail-Maske zu verwenden
+firefox-relay-offer-legal-notice-control = Indem Sie sich anmelden und eine E-Mail-Maske erstellen, stimmen Sie den <label data-l10n-name="tos-url">Nutzungsbedingungen</label> und dem <label data-l10n-name="privacy-url">Datenschutzhinweis</label> zu.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Schützen Sie sich mit einer E-Mail-Maske vor Spam
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Schützen Sie sich vor Spam, indem Sie Ihre echte Adresse mit einer <label data-l10n-name="firefox-relay-learn-more-url">E-Mail-Maske</label> verstecken. Sie erhalten weiterhin E-Mails von <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dieser Website</label> in Ihrem normalen Postfach, aber mit Ihrer Adresse maskiert.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrieren Sie sich oder melden Sie sich mit Ihrem Konto an, um eine E-Mail-Maske zu verwenden
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Indem Sie eine E-Mail-Maske erstellen, stimmen Sie den <label data-l10n-name="tos-url">Nutzungsbedingungen</label> und dem <label data-l10n-name="privacy-url">Datenschutzhinweis</label> zu.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Weiter
     .accesskey = W

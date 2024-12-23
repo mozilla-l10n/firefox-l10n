@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Verwende einen Browser, der von einer g
 mr2022-onboarding-get-started-primary-subtitle = Unsere neueste Version ist um dich herum aufgebaut und macht es einfacher als je zuvor, im Internet zu surfen. Es ist vollgepackt mit Funktionen, von denen wir glauben, dass du sie lieben wirst.
 mr2022-onboarding-get-started-primary-button-label = In Sekunden eingerichtet
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Blitzschnelle Einrichtung
 mr2022-onboarding-import-subtitle = Richte { -brand-short-name } nach deinen Wünschen ein. Füge deine Lesezeichen, Passwörter und mehr aus deinem alten Browser hinzu.
@@ -388,6 +390,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ich habe ihn in der Verg
 onboarding-new-tabs-title = Sag uns, wo du deine Tabs haben willst
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Wechsle in den Sidebar-Einstellungen, wann immer du möchtest.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Deine Tabs, wie du möchtest
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Viele Tabs offen lassen? Probiere die Tabs an der Seite für eine einfachere Ansicht aus. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Probieren deine Tabs an der Seite aus, um eine optimierte Ansicht zu erhalten, die dir hilft, dich zu konzentrieren. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabs seitlich
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +439,9 @@ onboarding-checklist-pin = { -brand-short-name } an Taskleiste anheften
 onboarding-checklist-import = Aus vorherigem Browser importieren
 onboarding-checklist-extension = Eine Erweiterung hinzufügen
 onboarding-checklist-sign-up = Registriere dich oder melde dich mit deinem Konto an
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = Über { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blockieren
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Thema nicht mehr folgen
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -457,3 +460,10 @@ newtab-topic-selection-button-pick-interests = Wählen Sie Ihre Interessen aus
 newtab-section-follow-button = Folgen
 newtab-section-following-button = Folgen
 newtab-section-unfollow-button = Nicht mehr folgen
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Soll dieser Abschnitt wirklich blockiert werden?
+newtab-section-confirm-block-section-p2 = Ein blockierter Abschnitt erscheint nicht mehr in Ihrem Feed.
+newtab-section-block-section-button = Diesen Abschnitt blockieren
+newtab-section-cancel-button = Nicht jetzt
