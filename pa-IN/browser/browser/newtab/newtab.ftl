@@ -456,3 +456,7 @@ newtab-topic-selection-button-pick-interests = ਆਪਣੀਆਂ ਦਿਲਚ�
 newtab-section-follow-button = ਫ਼ਾਲੋ ਕਰੋ
 newtab-section-following-button = ਫ਼ਾਲੋ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 newtab-section-unfollow-button = ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ

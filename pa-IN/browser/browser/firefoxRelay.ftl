@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ਨਵਾਂ ਮਾਸਕ ਨਹੀਂ ਬਣਾ ਸਕਿਆ। HTTP ਗਲਤੀ ਕੋਡ: { $status }।
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ਨੂੰ ਮੁੜ-ਵਰਤਣਯੋਗ ਮਾਸਕ ਨਹੀਂ ਲੱਭਿਆ। HTTP ਗਲਤੀ ਕੋਡ: { $status }।
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ਵਰਤਣ ਲਈ ਤੁਹਾਨੂੰ { -fxaccount-brand-name } ਵਿੱਚ ਲਾਗਇਨ ਕਰਨਾ ਪਵੇਗਾ।
 firefox-relay-must-login-to-account = ਆਪਣੇ { -relay-brand-name } ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
@@ -41,9 +41,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
-firefox-relay-offer-what-fxa-and-relay-provides = ਖਾਤਾ ਵੱਧ ਪਰਦੇਦਾਰੀ-ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਲੇ ਉਤਪਾਦਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਰਾਹ ਖੋਲ੍ਹਦਾ ਹੈ। ਸਾਰੀਆਂ ਈਮੇਲਾਂ ਨੂੰ ਤੁਹਾਡੇ ਈਮੇਲ ਮਾਸਕ ਉੱਤੇ ਭੇਜੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸਾਰੀਆਂ ਈਮੇਲਾਂ ਨੂੰ ਅੱਗੇ (ਫਾਰਵਰਡ) ਤੁਹਾਡੇ ਅਸਲ ਈਮੇਲ ਉੱਤੇ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ (ਜਦ ਤੱਕ ਕਿ ਤੁਸੀਂ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ (ਬਲੌਕ)  ਨਾ ਲਾਉਣ ਦਾ ਫ਼ੈਸਲਾ ਨਾ ਕੀਤਾ ਹੋਵੇ)।
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਮਾਸਕ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = ਸਾਈਨ ਅੱਪ ਕਰੋ
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = ਮੈਨੂੰ ਇਹ ਮੁੜ ਨਾ ਵੇਖਾਓ
@@ -51,6 +53,11 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
+firefox-relay-offer-legal-notice-control = ਸਾਈਨ ਅੱਪ ਕਰਕੇ ਅਤੇ ਈਮੇਲ ਮਾਸਕ ਬਣਾ ਕੇ ਤੁਸੀਂ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਅਤੇ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</label> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਤੋਂ ਬਚੋ
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਐਡਰੈਸ ਨੂੰ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨਾਲ ਓਹਲੇ ਰੱਖ ਕੇ ਸਮੈਪ ਤੋਂ ਬਚੋ।<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਹਾਲੇ ਵੀ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਿਰਨਾਵੇਂ ਨੂੰ ਮਾਸਕ ਰੱਖ ਕੇ ਤੁਹਾਡੇ ਨਿਯਮਤ ਇਨਬਾਕਸ ਵਿੱਚ ਆਉਣਗੀਆਂ।
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = ਈਮੇਲ ਮਾਸਕ ਬਣਾ ਕੇ ਤੁਸੀਂ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਅਤੇ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</label> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = ਅੱਗੇ
     .accesskey = N
