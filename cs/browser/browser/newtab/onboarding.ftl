@@ -553,6 +553,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = V minulosti jsem jej pou
 onboarding-new-tabs-title = Sdělte nám, kde chcete mít své panely
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Přepněte si ho kdykoliv chcete v nastavení postranní lišty.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Vaše panely, vaše volba
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Panely na straně
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

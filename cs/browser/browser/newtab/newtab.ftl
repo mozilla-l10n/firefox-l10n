@@ -471,4 +471,6 @@ newtab-section-unfollow-button = Přestat sledovat
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Jste si jisti, že chcete tuto sekci zablokovat?
+newtab-section-confirm-block-section-p2 = Blokovaná sekce se již nebude zobrazovat ve vašem kanálu.
+newtab-section-block-section-button = Blokovat tuto sekci
 newtab-section-cancel-button = Teď ne
