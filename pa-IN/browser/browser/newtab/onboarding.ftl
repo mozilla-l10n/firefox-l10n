@@ -390,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = ਮੈ ਪਹਿਲਾ�
 onboarding-new-tabs-title = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਚਾਹੁੰਦੇ ਹੋ
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚਾਹੋ, ਬਾਹੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਤੁਹਾਡੇ ਮੁਤਾਬਕ
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ਕੀ ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੁੱਲ੍ਹੀਆਂ ਰੱਖਦੇ ਹੋ? ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੱਧ ਸੁਚੱਜੇ ਢੰਗ ਲਈ ਬਾਹੀ ਵਿੱਚ ਸਜਾਓ। ਜਾਂ ਆਮ ਦੀ ਤਰ੍ਹਾਂ ਟੈਬਾਂ ਨੂੰ ਸਿਖਰ ਉੱਤੇ ਰੱਖੋ। ਜਦ ਵੀ ਚਾਹੋ ਬਦਲ ਲਵੋ।
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = ਆਪਣੇ ਟੈਬ ਖਾਕੇ ਨੂੰ ਚੁਣੋ
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = ਸੁਚੱਜੀ ਝਲਕ, ਜੋ ਤੁਹਾਨੂੰ ਫੋਕਸ ਰਹਿਣ ਲਈ ਮਦਦ ਕਰ ਸਕਦੀ ਹੈ, ਲਈ ਬਾਹੀ ਵਿੱਚ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਜਾ ਕੇ ਵੇਖੋ। ਜਾਂ ਆਮ ਦੀ ਤਰ੍ਹਾਂ ਟੈਬਾਂ ਨੂੰ ਸਿਖਰ ਉੱਤੇ ਰੱਖੋ। ਜਦ ਵੀ ਚਾਹੋ ਬਦਲ ਲਵੋ।
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = ਬਾਹੀ ਉੱਤੇ ਟੈਬ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -436,8 +444,11 @@ onboarding-checklist-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪ
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = ਘੱਟ ਗਾਹ ਅਤੇ ਵੱਧ ਫੋਕਸ ਵਾਸਤੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ
+tab-groups-onboarding-feature-callout-subtitle = ਸੁਚੱਜੇ ਢੰਗ ਨਾਲ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਇੱਕ ਟੈਬ ਨੂੰ ਦੂਜੀ ਟੈਬ ਉੱਤੇ ਰੱਖ ਕੇ ਆਪਣਾ ਪਹਿਲਾਂ ਗਰੁੱਪ ਬਣਾਓ।
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = { -brand-product-name } ਪਰੋਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਲੋ
 multi-profile-spotlight-cta = ਪਰੋਫਾਈਲ ਬਣਾਓ
 multi-profile-callout-cta = ਪਰੋਫਾਈਲ ਬਣਾਓ

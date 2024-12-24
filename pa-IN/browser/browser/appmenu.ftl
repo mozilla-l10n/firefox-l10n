@@ -284,6 +284,7 @@ appmenuitem-services-relay-description = ਈਮੇਲ ਮਾਸਕ ਡੈਸ਼�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
 appmenu-services-header = ਮੇਰੀਆਂ ਸੇਵਾਵਾਂ
+appmenu-other-protection-header = { -vendor-short-name } ਵਲੋਂ ਹੋਰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਲੇ ਟੂਲਾਂ ਨੂੰ ਅਜ਼ਮਾਓ:
 
 ## Profiles panel
 
