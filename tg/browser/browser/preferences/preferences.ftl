@@ -61,6 +61,7 @@ pane-experimental-description2 = Тағйир додани хусусиятҳо 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Хусусиятҳои таҷрибавии моро санҷед! Онҳо дар ҳоли рушд ва таҳаввул ҳастанд, ки метавонад ба тарзи кори «{ -brand-short-name }» таъсир расонад.
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
@@ -137,6 +138,7 @@ windows-launch-on-login =
     .label = Ҳангоми оғоз кардани компютери шумо «{ -brand-short-name }»-ро ба таври худкор кушоед
     .accesskey = Ҳ
 windows-launch-on-login-disabled = Ин хусусият дар низоми амалкунандаи Windows ғайрифаъол шудааст. Барои ворид кардани тағйирот, дар Танзимоти низом ба <a data-l10n-name="startup-link">Барномаҳои оғози кор</a> гузаред.
+windows-launch-on-login-profile-disabled = Ин хусусиятро тавассути интихоб кардани «{ profile-manager-use-selected.label }» дар равзанаи «Интихоби профили корбар» фаъол созед.
 startup-restore-warn-on-quit =
     .label = Ҳангоми баромадан аз браузер низом шуморо огоҳ мекунад
 disable-extension =

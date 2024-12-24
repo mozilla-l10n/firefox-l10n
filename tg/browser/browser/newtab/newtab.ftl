@@ -458,3 +458,7 @@ newtab-topic-selection-button-pick-interests = Манфиатҳои худро �
 newtab-section-follow-button = Обуна шавед
 newtab-section-following-button = Обуна шуд
 newtab-section-unfollow-button = Бекор кардани обуна
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Ҳоло не

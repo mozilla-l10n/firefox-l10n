@@ -390,6 +390,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ман онро пеш �
 onboarding-new-tabs-title = Ба мо бигӯед, ки шумо дар куҷо мехоҳед варақаҳои худро ҷойгир намоед
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Онро дар вақти дилхоҳ дар танзимоти навори ҷонибӣ фаъол ё хомӯш созед.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Варақаҳои шумо, роҳи шумо
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлӯ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -434,4 +436,7 @@ onboarding-checklist-extension = Илова кардани васеъшавӣ
 onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё сабти ном кунед
 
 ## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 
