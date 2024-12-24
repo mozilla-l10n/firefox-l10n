@@ -373,6 +373,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没
 onboarding-new-tabs-title = 您希望将标签页放在哪里
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = 可随时在侧栏设置中切换。
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = 你的标签，由你而定
 # Setup screen for vertical tabs - subtitle for too many tabs variation
 onboarding-many-tabs-subtitle = 标签页开得多？试试置于侧边，更加明晰直观。也可保持置于顶部，之后随时可以切换。
 # Setup screen for vertical tabs - focused variation
