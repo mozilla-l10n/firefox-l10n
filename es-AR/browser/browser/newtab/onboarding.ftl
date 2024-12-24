@@ -392,6 +392,10 @@ onboarding-new-tabs-title = Díganos dónde quiere las pestañas
 onboarding-new-tabs-subtitle = Cambie cuando quiera en la configuración de barra lateral .
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Sus pestañas, su manera
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Seleccionar disposición de las pestañas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para una vista simplificada que pueda ayudar a mantenerse enfocado, pruebe las pestañas laterales. O manténgase clásico con pestañas en la parte superior. Se puede cambiar en cualquier momento.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestañas en el costado
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
