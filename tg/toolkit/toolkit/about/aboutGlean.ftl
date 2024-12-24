@@ -18,6 +18,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Дар бораи «{ -glean-brand-name }»
 about-glean-category-manual-testing = Санҷиши дастӣ
 about-glean-category-adhoc-testing = Санҷиши махсус
+about-glean-category-profiler = Истифодаи профилсоз
 about-glean-category-about-data = Дар бораи «Маълумот»
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
 about-glean-upload-disabled = Боркунии маълумот ғайрифаъол аст.

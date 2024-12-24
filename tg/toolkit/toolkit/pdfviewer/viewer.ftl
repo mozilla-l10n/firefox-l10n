@@ -471,6 +471,9 @@ pdfjs-image-alt-text-settings-button-label = Танзимоти матни ил�
 pdfjs-editor-alt-text-settings-dialog-label = Танзимоти матни иловагии тасвир
 pdfjs-editor-alt-text-settings-automatic-title = Матни иловагии худкор
 pdfjs-editor-alt-text-settings-create-model-button-label = Ба таври худкор эҷод кардани матни иловагӣ
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Модели зеҳни сунъӣ «AI» барои матни ивазкунанда ({ $totalSize } МБ)
 pdfjs-editor-alt-text-settings-delete-model-button = Нест кардан
 pdfjs-editor-alt-text-settings-download-model-button = Боргирӣ кардан
 pdfjs-editor-alt-text-settings-downloading-model-button = Дар ҳоли боргирӣ…

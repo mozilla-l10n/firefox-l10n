@@ -199,6 +199,7 @@ tab-group-editor-cancel =
     .accesskey = Б
 tab-context-unnamed-group =
     .label = Гурӯҳи беном
+tab-group-name-default = Гурӯҳи беном
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

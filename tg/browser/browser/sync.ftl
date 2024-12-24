@@ -44,6 +44,10 @@ sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехо�
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ҳисоб аллакай истифода мешавад
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } аллакай ба профили «{ $otherProfile }» ворид шудааст
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Гузариш ба «{ $profileName }»
 sync-button-create-profile = Эҷод кардани профили нав
