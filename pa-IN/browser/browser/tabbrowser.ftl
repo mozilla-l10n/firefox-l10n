@@ -198,6 +198,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+tab-group-menu-header = ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
 

@@ -43,3 +43,7 @@ sync-setup-verify-heading = ਕੀ ਤੁਸੀਂ ਸਿੰਕ ਲਈ ਸਾਈ
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਵੱਖਰੇ ਵਰਤੋਂਕਾਰ ਨੇ ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕੀਤਾ ਸੀ। ਸਾਈਨ ਇਨ ਕਰਨ ਨਾਲ ਇਸ ਬਰਾਊਜ਼ਰ ਦੇ ਬੁੱਕਮਾਰਕ ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ { $email } ਨਾਲ ਮਿਲਾਇਆ ਜਾਵੇਗਾ।
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-button-create-profile = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
