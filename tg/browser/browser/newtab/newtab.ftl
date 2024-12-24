@@ -461,4 +461,7 @@ newtab-section-unfollow-button = Бекор кардани обуна
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Шумо мутмаин ҳастед, ки мехоҳед ин қисматро манъ кунед?
+newtab-section-confirm-block-section-p2 = Қисмати манъшуда дигар дар навори хабарҳои шумо пайдо намешавад.
+newtab-section-block-section-button = Манъ кардани ин қисмат
 newtab-section-cancel-button = Ҳоло не

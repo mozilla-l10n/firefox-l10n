@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Гирифтани огоҳӣ дар бораи дӯздӣ кардани маълумот
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
+appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
+appmenu-services-header = Хизматҳои ман
+appmenu-other-protection-header = Абзорҳои муҳофизати дигарро аз ҷониби «{ -vendor-short-name }» кӯшиш намоед:
 
 ## Profiles panel
 

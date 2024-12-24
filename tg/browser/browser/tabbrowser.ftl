@@ -197,6 +197,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бекор кардан
     .accesskey = Б
+tab-group-menu-header = Гурӯҳҳои варақаҳо
 tab-context-unnamed-group =
     .label = Гурӯҳи беном
 tab-group-name-default = Гурӯҳи беном
