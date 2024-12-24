@@ -71,3 +71,5 @@ text-action-spell-dictionaries =
     .accesskey = ഭ
 text-action-search-text-box-clear =
     .title = നീക്കം ചെയ്യുക
+text-action-highlight-selection =
+    .label = തിരഞ്ഞെടുത്തതിനെ അടയാളപ്പെടുത്തുക

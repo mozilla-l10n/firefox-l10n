@@ -4,19 +4,23 @@
 
 password-not-set =
     .value = ( സജ്ജമല്ല)
-
-pw-change-success-title = പാസ്‌വേര്‍ഡ് മാറ്റം വിജയിച്ചിരിക്കുന്നു
-pw-change-failed-title = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
+failed-pp-change = പ്രധാന രഹസ്യവാക്കു് മാറ്റാൻ പറ്റിയില്ല
+incorrect-pp = താങ്കള്‍ ഇപ്പോഴത്തെ ശരിയായ പ്രധാന രഹസ്യവാക്കു് നല്‍കിയില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+pp-change-ok = പ്രധാന രഹസ്യവാക്കു് വിജയകരമായി മാറ്റിയിരിക്കുന്നു
+pw-change-success-title = രഹസ്യവാക്കു് മാറ്റം വിജയിച്ചിരിക്കുന്നു
+pw-change-failed-title = രഹസ്യവാക്കു് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
 pw-remove-button =
     .label = നീക്കം ചെയ്യുക
-
-set-password-old-password = ഇപ്പോഴത്തെ പാസ്‌വേറ്‍ഡ് :
-set-password-new-password = പുതിയ പാസ്‌വേറ്‍ഡ് എന്റര്‍ ചെയ്യുക
-set-password-reenter-password = പാസ്‌വേറ്‍ഡ് വീണ്ടും നല്‍കുക:
-set-password-meter = പാസ്‌വേഡിന്റെ നിലവാരം കാണിക്കുന്ന മീറ്റര്‍
+primary-password-dialog =
+    .title = പ്രധാനരഹസ്യവാക്കു്
+set-password-old-password = ഇപ്പോഴത്തെ രഹസ്യവാക്കു് :
+set-password-new-password = പുതിയ രഹസ്യവാക്കു് ഇടുക
+set-password-reenter-password = രഹസ്യവാക്കു് വീണ്ടും നല്‍കുക:
+set-password-meter = രഹസ്യവാക്കു് നിലവാരം കാണിക്കുന്ന മീറ്റര്‍
 set-password-meter-loading = ലഭ്യമാക്കുന്നു
-
+remove-primary-password =
+    .title = പ്രധാനരഹസ്യവാക്കു് മാറ്റുക
 remove-info =
-    .value = തുടരുന്നതിനായി നിങ്ങളുടെ ഇപ്പോഴത്തെ പാസ്‌വേഡ്‌ എന്റര്‍ ചെയ്യേണം:
+    .value = തുടരുന്നതിനായി നിങ്ങളുടെ ഇപ്പോഴത്തെ രഹസ്യവാക്കു് ഇടണ്ടിവരും:
 remove-password-old-password =
     .value = ഇപ്പോഴത്തെ പാസ്‌വേഡ്‌ :
