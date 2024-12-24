@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Pro použití e-mailové masky se nejprve zaregistrujte nebo přihlaste ke svému účtu
 
 ## The "basic-info" variation of the Relay offer popup
 
