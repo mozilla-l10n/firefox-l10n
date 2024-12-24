@@ -37,8 +37,20 @@ pdfjs-open-file-button =
     .title = ഫയല്‍ തുറക്കുക
 pdfjs-open-file-button-label = തുറക്കുക
 pdfjs-print-button =
-    .title = പ്രിന്റ് ചെയ്യുക
-pdfjs-print-button-label = പ്രിന്റ് ചെയ്യുക
+    .title = അച്ചടിക്കുക
+pdfjs-print-button-label = അച്ചടിക്കുക
+pdfjs-save-button =
+    .title = കരുതിവയ്ക്കുക
+pdfjs-save-button-label = കരുതിവയ്ക്കുക
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = ഇറക്കിവയ്ക്കുക
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = ഇറക്കിവയ്ക്കുക
+pdfjs-bookmark-button =
+    .title = നിലവിലെ താൾ (നിലവിലെ താളിൽ നിന്നു് യൂ.ആർ.എൽ കാണുക)
+pdfjs-bookmark-button-label = നിലവിലുള്ള താൾ
 
 ##  Secondary toolbar and context menu
 
@@ -174,6 +186,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = താള്‍ { $page }
 
 ## Loading indicator messages
 
@@ -185,6 +201,10 @@ pdfjs-rendering-error = താള്‍ റെണ്ടര്‍ ചെയ്യ
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -203,10 +223,57 @@ pdfjs-web-fonts-disabled = വെബിനുള്ള അക്ഷരസഞ്�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = പാഠം
+pdfjs-editor-free-text-button-label = പാഠം
+pdfjs-editor-ink-button =
+    .title = വരയ്ക്കുക
+pdfjs-editor-ink-button-label = വരയ്ക്കുക
+pdfjs-editor-stamp-button =
+    .title = ചിത്രങ്ങളെ ചേർക്കുക അല്ലെങ്കിൽ തിരുത്തുക
+pdfjs-editor-stamp-button-label = ചിത്രങ്ങളെ ചേർക്കുക അല്ലെങ്കിൽ തിരുത്തുക
+pdfjs-editor-highlight-button =
+    .title = അടയാളപ്പെടുക
+pdfjs-editor-highlight-button-label = അടയാളപ്പെടുക
+pdfjs-highlight-floating-button1 =
+    .title = അടയാളപ്പെടുക
+    .aria-label = അടയാളപ്പെടുക
+pdfjs-highlight-floating-button-label = അടയാളപ്പെടുക
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = ആലേഖ്യം മാറ്റുക
+pdfjs-editor-remove-freetext-button =
+    .title = പാഠം മാറ്റുക
+pdfjs-editor-remove-stamp-button =
+    .title = ചിത്രം മാറ്റുക
+pdfjs-editor-remove-highlight-button =
+    .title = അടയാളപ്പെട്ടുതു് മാറ്റുക
+
+##
+
 
 ## Alt-text dialog
 
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+
+## Image alt-text settings
+
+
+## "Annotations removed" bar
 

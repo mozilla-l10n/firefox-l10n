@@ -16,6 +16,18 @@ pictureinpicture-player-title = ചിത്രത്തിൽ ചിത്ര�
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-btn =
+    .aria-label = തല്ക്കാലികനിറുത്തു്
+    .tooltip = തല്ക്കാലികനിറുത്തു് (ഇടയകലപ്പട്ട)
+pictureinpicture-play-btn =
+    .aria-label = പ്ലേ
+    .tooltip = പ്ലേ (ഇടയകലപ്പട്ട)
+pictureinpicture-mute-btn =
+    .aria-label = മൂകമാക്കുക
+    .tooltip = മൂകമാക്കുക ({ $shortcut })
+pictureinpicture-unmute-btn =
+    .aria-label = മൂകത്തം മാറ്റുക
+    .tooltip = മൂകത്തം മാറ്റുക ({ $shortcut })
 pictureinpicture-unpip-btn =
     .aria-label = ടാബിലേക്ക് തിരികെ അയയ്ക്കുക
     .tooltip = ടാബിലേക്കു് തിരിച്ചു്
