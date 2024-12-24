@@ -71,10 +71,10 @@ pdfjs-page-rotate-ccw-button =
 pdfjs-page-rotate-ccw-button-label = ഘടികാര ദിശയ്ക്കു് വിപരീതമായി കറക്കുക
 pdfjs-cursor-text-select-tool-button =
     .title = ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ ടൂള്‍ പ്രാപ്തമാക്കുക
-pdfjs-cursor-text-select-tool-button-label = ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ ടൂള്‍
+pdfjs-cursor-text-select-tool-button-label = പാഠ തിരഞ്ഞെടുക്കൽ കരു
 pdfjs-cursor-hand-tool-button =
-    .title = ഹാന്റ് ടൂള്‍ പ്രാപ്തമാക്കുക
-pdfjs-cursor-hand-tool-button-label = ഹാന്റ് ടൂള്‍
+    .title = കൈക്കരു പ്രാപ്തമാക്കുക
+pdfjs-cursor-hand-tool-button-label = കൈക്കരു
 
 ## Document properties dialog
 
@@ -94,7 +94,7 @@ pdfjs-document-properties-mb = { $size_mb } എംബി ({ $size_b } ബൈറ�
 pdfjs-document-properties-title = തലക്കെട്ട്‌
 pdfjs-document-properties-author = രചയിതാവ്:
 pdfjs-document-properties-subject = വിഷയം:
-pdfjs-document-properties-keywords = കീവേര്‍ഡുകള്‍:
+pdfjs-document-properties-keywords = മുഖ്യപദങ്ങൾ
 pdfjs-document-properties-creation-date = പൂര്‍ത്തിയാകുന്ന തീയതി:
 pdfjs-document-properties-modification-date = മാറ്റം വരുത്തിയ തീയതി:
 # Variables:
@@ -105,6 +105,15 @@ pdfjs-document-properties-creator = സൃഷ്ടികര്‍ത്താ�
 pdfjs-document-properties-producer = പിഡിഎഫ് പ്രൊഡ്യൂസര്‍:
 pdfjs-document-properties-version = പിഡിഎഫ് പതിപ്പ്:
 pdfjs-document-properties-page-count = താളിന്റെ എണ്ണം:
+pdfjs-document-properties-page-size = താൾ വലുപ്പം
+pdfjs-document-properties-page-size-unit-inches = ഇഞ്ചു്
+pdfjs-document-properties-page-size-unit-millimeters = മില്ലീമീറ്റർ
+pdfjs-document-properties-page-size-orientation-portrait = ഛായപടം രീതിയില്‍
+pdfjs-document-properties-page-size-orientation-landscape = ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
+pdfjs-document-properties-page-size-name-a-three = ആ 3
+pdfjs-document-properties-page-size-name-a-four = ആ 4
+pdfjs-document-properties-page-size-name-letter = കത്തു്
+pdfjs-document-properties-page-size-name-legal = നിയമപരം
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -116,6 +125,8 @@ pdfjs-document-properties-page-count = താളിന്റെ എണ്ണം:
 
 ##
 
+pdfjs-document-properties-linearized-yes = അതെ
+pdfjs-document-properties-linearized-no = ഇല്ല
 pdfjs-document-properties-close-button = അടയ്ക്കുക
 
 ## Print
