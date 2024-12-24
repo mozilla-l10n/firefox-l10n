@@ -453,4 +453,5 @@ multi-profile-spotlight-title = Hertlik wolkom by { -brand-product-name }-profil
 multi-profile-spotlight-body = Skeakelje maklik tusken sneupen foar wurk en wille. Profilen hâlde jo sneupynformaasje, ynklusyf sykskiednis en wachtwurden, folslein apart, sadat jo organisearre bliuwe kinne.
 multi-profile-spotlight-cta = In profyl oanmeitsje
 multi-profile-callout-title = Meitsje ferskate profilen foar wurk en wille
+multi-profile-callout-subtitle = Profilen litte jo jo sneupynformaasje, lykas sykskiednis en wachtwurden, folslein apart te hâlden.
 multi-profile-callout-cta = In profyl oanmeitsje
