@@ -253,9 +253,34 @@ pdfjs-editor-remove-highlight-button =
 
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = നിറം
+pdfjs-editor-free-text-size-input = വലുപ്പം
+pdfjs-editor-ink-color-input = നിറം
+pdfjs-editor-ink-thickness-input = കനം
+pdfjs-editor-ink-opacity-input = അതാര്യത
+pdfjs-editor-stamp-add-image-button =
+    .title = ചിത്രം ചേർക്കുക
+pdfjs-editor-stamp-add-image-button-label = ചിത്രം ചേർക്കുക
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = കനം
+pdfjs-free-text-default-content = എഴുതാൻ തുടങ്ങുക…
+pdfjs-ink-canvas =
+    .aria-label = ഉപയോക്താവ് ഉണ്ടാക്കിയ ചിത്രം
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-button-label = മറുപ്പാഠം
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = മറുപ്പാഠം തിരുത്തുക
+pdfjs-editor-alt-text-edit-button-label = മറുപ്പാഠം തിരുത്തുക
+pdfjs-editor-alt-text-dialog-label = സാധ്യത തിരഞ്ഞെടുക്കൂ
+pdfjs-editor-alt-text-add-description-label = ഒരു വിവരണം ചേർക്കുക
+pdfjs-editor-alt-text-cancel-button = റദ്ദാക്കുക
+pdfjs-editor-alt-text-save-button = കരുതിവയ്ക്കുക
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = മറുപ്പാഠം
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -263,17 +288,52 @@ pdfjs-editor-remove-highlight-button =
 
 ## Color picker
 
+pdfjs-editor-colorpicker-button =
+    .title = നിറം മാറ്റുക
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = നിറസാധ്യതകൾ
+pdfjs-editor-colorpicker-yellow =
+    .title = മഞ്ഞ
+pdfjs-editor-colorpicker-green =
+    .title = പച്ച
+pdfjs-editor-colorpicker-blue =
+    .title = നീല
+pdfjs-editor-colorpicker-pink =
+    .title = പാടലവർണ്ണം
+pdfjs-editor-colorpicker-red =
+    .title = ചുമന്ന
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = എല്ലാം കാണിക്കുക
+pdfjs-editor-highlight-show-all-button =
+    .title = എല്ലാം കാണിക്കുക
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = കൂടുതല്‍ അറിയുക
+pdfjs-editor-new-alt-text-create-automatically-button-label = തന്നെതാനെ മറുപ്പാഠം ഉണ്ടാക്കുക
+pdfjs-editor-new-alt-text-not-now-button = ഇപ്പോഴല്ല
+pdfjs-editor-new-alt-text-error-title = തന്നെതാനെ മറുപ്പാഠം ഉണ്ടാക്കാൻ പറ്റിയില്ല
+pdfjs-editor-new-alt-text-error-close-button = അടയ്ക്കുക
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-delete-model-button = മായ്ക്കുക
+pdfjs-editor-alt-text-settings-download-model-button = ഇറക്കിവയ്ക്കുക
+pdfjs-editor-alt-text-settings-downloading-model-button = ഇറക്കിവയ്ക്കുന്നു
+pdfjs-editor-alt-text-settings-close-button = അടയ്ക്കുക
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-freetext = പാഠം മാറ്റി
+pdfjs-editor-undo-bar-message-ink = ആലേഖ്യം മാറ്റി
+pdfjs-editor-undo-bar-message-stamp = ചിത്രം മാറ്റി
+pdfjs-editor-undo-bar-undo-button =
+    .title = പഴയപോലെയാക്കുക
+pdfjs-editor-undo-bar-undo-button-label = പഴയപോലെയാക്കുക
+pdfjs-editor-undo-bar-close-button =
+    .title = അടയ്ക്കുക
+pdfjs-editor-undo-bar-close-button-label = അടയ്ക്കുക
