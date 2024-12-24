@@ -440,5 +440,7 @@ onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Ба профилҳои «{ -brand-product-name }» салом гӯед
 multi-profile-spotlight-cta = Эҷод кардани профил
+multi-profile-callout-title = Профилҳои гуногунро барои кор ва дилхушӣ эҷод намоед
 multi-profile-callout-cta = Эҷод кардани профил
