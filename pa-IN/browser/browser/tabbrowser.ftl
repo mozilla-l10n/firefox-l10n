@@ -201,6 +201,7 @@ tab-group-editor-cancel =
 tab-group-menu-header = ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
+tab-group-name-default = ਬੇਨਾਮਾ ਗਰੁੱਪ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

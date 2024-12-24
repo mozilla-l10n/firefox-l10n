@@ -67,6 +67,14 @@ sync-account-in-use-header-merge = { $acctEmail } ਪਹਿਲਾਂ ਹੀ “{
 sync-account-in-use-description = ਤੁਸੀਂ ਇਸ ਖਾਤੇ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਨਾਲ ਹੀ ਜੋੜ ਸਕਦੇ ਹੋ।
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = ਇਹ ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਹੋਰ ਪਰੋਫ਼ਾਈਲ ਨਾਲ ਸਾਈਨ ਇਨ ਕੀਤਾ ਹੈ। ਦੋਵੇਂ ਪਰੋਫ਼ਾਈਲਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਹੈ?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ “{ $otherProfile }” ਪਰੋਫ਼ਾਈਲ ਵਿੱਚ ਸਾਈਨ ਇਨ ਹੈ। “{ $currentProfile }” ਪਰੋਫ਼ਾਈਲ ਨਾਲ ਸਿੰਕ ਕਰਨ ਨਾਲ ਦੋਵੇਂ ਪਰੋਫ਼ਾਈਲਾਂ ਦੇ ਡਾਟੇ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਮਿਲਾ ਦਿੱਤਾ ਜਾਵੇਾਗ, ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ ਅਤੇ ਬੁੱਕਮਾਰਕ।
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = “{ $profileName }” ਲਈ ਬਦਲੋ
 sync-button-create-profile = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
 sync-button-sync-and-merge = ਡਾਟੇ ਨੂੰ ਸਿੰਕ ਅਤੇ ਉਸ ਦਾ ਮਿਲਾਨ ਕਰੋ
 # Variables:
