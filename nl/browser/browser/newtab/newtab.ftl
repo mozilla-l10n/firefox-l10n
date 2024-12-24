@@ -460,3 +460,7 @@ newtab-topic-selection-button-pick-interests = Kies uw interesses
 newtab-section-follow-button = Volgen
 newtab-section-following-button = Volgend
 newtab-section-unfollow-button = Ontvolgen
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Niet nu

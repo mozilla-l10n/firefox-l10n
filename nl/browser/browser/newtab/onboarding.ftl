@@ -390,6 +390,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ik heb het in het verled
 onboarding-new-tabs-title = Vertel ons waar u uw tabbladen wilt hebben
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Wijzig het wanneer u maar wilt in de zijbalkinstellingen.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Uw tabbladen, op uw manier
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabbladen aan de zijkant
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,3 +440,9 @@ onboarding-checklist-sign-up = Registreren of aanmelden bij uw account
 
 tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder rommel, meer focus
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Hartelijk welkom bij { -brand-product-name }-profielen
+multi-profile-spotlight-cta = Een profiel aanmaken
+multi-profile-callout-cta = Een profiel aanmaken
