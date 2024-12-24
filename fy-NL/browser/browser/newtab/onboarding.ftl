@@ -390,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ik haw it yn it ferline 
 onboarding-new-tabs-title = Fertel ús wêr’t jo jo ljepblêden hawwe wolle
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Wizigje it wannear’t jo mar wolle yn de sybalkeynstellingen.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Jo ljepblêden, op jo manier
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = In protte ljepblêden iepen? Probearje jo ljepblêden oan de sydkant foar in streamline werjefte. Of hâld it klassyk mei ljepblêden oan de boppekant. Skeakelje op elk momint.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Kies jo ljepblêdyndieling
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Probearje jo ljepblêden oan de sydkant foar in streamline werjefte dy’t jo helpe kin fokus te hâlden. Of hâld it klassyk mei ljepblêden oan de boppekant. Skeakelje op elk momint.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ljepblêden oan de sydkant
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,3 +446,11 @@ onboarding-checklist-sign-up = Registrearje of oanmelde by jo account
 
 tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar minder rommel, mear fokus
 tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Hertlik wolkom by { -brand-product-name }-profilen
+multi-profile-spotlight-body = Skeakelje maklik tusken sneupen foar wurk en wille. Profilen hâlde jo sneupynformaasje, ynklusyf sykskiednis en wachtwurden, folslein apart, sadat jo organisearre bliuwe kinne.
+multi-profile-spotlight-cta = In profyl oanmeitsje
+multi-profile-callout-title = Meitsje ferskate profilen foar wurk en wille
+multi-profile-callout-cta = In profyl oanmeitsje

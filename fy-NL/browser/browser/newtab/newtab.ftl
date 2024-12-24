@@ -460,3 +460,10 @@ newtab-topic-selection-button-pick-interests = Kies jo ynteressen
 newtab-section-follow-button = Folgje
 newtab-section-following-button = Folgjend
 newtab-section-unfollow-button = Untfolgje
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Binne jo wis dat jo dizze seksje blokkearje wolle?
+newtab-section-confirm-block-section-p2 = Blokkearre seksje sil net mear yn jo feed. ferskine
+newtab-section-block-section-button = Dizze seksje blokkearje
+newtab-section-cancel-button = No net

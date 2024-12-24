@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulearje
     .accesskey = A
+tab-group-menu-header = Ljepblêdgroepen
 tab-context-unnamed-group =
     .label = Nammeleaze groep
+tab-group-name-default = Nammeleaze groep
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
