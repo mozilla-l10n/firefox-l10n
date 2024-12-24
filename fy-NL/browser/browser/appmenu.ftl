@@ -282,6 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskearje jo wiere e-mailadres en telefoannûmer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskermje jo online aktiviteit
+appmenu-services-header = Myn tsjinsten
 
 ## Profiles panel
 
