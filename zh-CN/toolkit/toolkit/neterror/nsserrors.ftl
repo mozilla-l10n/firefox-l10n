@@ -14,7 +14,7 @@ psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议
 psmerr-hostreusedissuerandserial =
     您收到了一个无效的证书。请与服务器管理员或者邮件联系人联系，并提供以下信息：
     
-    您的证书具有与证书颁发机构签发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
+    您的证书具有与证书颁发机构颁发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
 ssl-error-us-only-server = 无法安全通信。不支持对等端要求的高等级加密。
 ssl-error-no-cypher-overlap = 无法安全地与对等端通信：没有双方共用的加密算法。
@@ -181,8 +181,8 @@ sec-error-no-key = 此证书的私钥无法在密钥数据库中找到
 sec-error-cert-valid = 此证书有效。
 sec-error-cert-not-valid = 此证书无效。
 sec-error-cert-no-response = 证书程序库：无响应
-sec-error-expired-issuer-certificate = 证书签发者的证书已过期。请检查您的系统日期和时间。
-sec-error-crl-expired = 证书签发者的证书吊销列表（CRL）已过期。请更新吊销列表，或者检查您的系统日期和时间。
+sec-error-expired-issuer-certificate = 证书颁发者的证书已过期。请检查您的系统日期和时间。
+sec-error-crl-expired = 证书颁发者的证书吊销列表（CRL）已过期。请更新吊销列表，或者检查您的系统日期和时间。
 sec-error-crl-bad-signature = 证书颁发者的证书吊销列表含有的签名无效。
 sec-error-crl-invalid = 新的 CRL 格式无效。
 sec-error-extension-value-invalid = 证书扩展值无效。
@@ -320,9 +320,9 @@ sec-error-cert-signature-algorithm-disabled = 该证书使用的签名算法已�
 mozilla-pkix-error-key-pinning-failure = 此服务器使用了公钥固定（HPKP）机制，但无法构成与其固定的证书集合（pinset）匹配的可信任证书链。无法忽视对密钥固定的违反。
 mozilla-pkix-error-ca-cert-used-as-end-entity = 该服务器使用了一个使用“基本约束扩展”标识它为一个证书颁发机构的证书。对于一个正常颁发的证书，不应该是这样。
 mozilla-pkix-error-inadequate-key-size = 该服务器提供的证书密钥位数太小，不足以建立安全连接。
-mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已弃用，不应再用来签发其他证书。
+mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任锚（Trust Anchor）的 X.509 版本 1 证书颁发。X.509 版本 1 证书已弃用，不应再用来为其他证书签名。
 mozilla-pkix-error-not-yet-valid-certificate = 服务器出示的证书尚未生效。
-mozilla-pkix-error-not-yet-valid-issuer-certificate = 用来签发此服务器证书的一个证书尚未生效。
+mozilla-pkix-error-not-yet-valid-issuer-certificate = 用来颁发此服务器证书的一个证书尚未生效。
 mozilla-pkix-error-signature-algorithm-mismatch = 该证书在签名字段中的签名算法与其在 signatureAlgorithm 字段的算法不匹配。
 mozilla-pkix-error-ocsp-response-for-cert-missing = 该 OCSP 响应不包括该证书被验证的状态。
 mozilla-pkix-error-validity-too-long = 服务器出示的证书有效期太长。
