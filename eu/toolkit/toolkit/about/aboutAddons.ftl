@@ -283,6 +283,14 @@ find-more-themes = Aurkitu itxura gehiago
 # used for screen readers.
 addon-options-button =
     .aria-label = Aukera gehiago
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Hedapen eta itxurekin { -brand-product-name } pertsonaliza dezakezu. Pribatutasunari bultzada eman,
+    produktibitatea areagotu, multimedia hobetu, { -brand-product-name }(r)en itxura aldatu eta
+    gehiago egin dezakete. Software programa txiki hauek hirugarren batzuek eginak dira askotan.
+    Hona hemen { -brand-product-name }(e)k <a data-l10n-name="learn-more-trigger">gomendatzen</a>
+    dituen hautapen bat, aparteko segurtasun, errendimendu eta funtzionaltasunerako.
 
 ## Add-on actions
 
