@@ -44,3 +44,40 @@ sync-setup-verify-heading = Ви дійсно хочете ввійти в си�
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Інший користувач вже входив у синхронізацію на цьому комп'ютері. Вхід об'єднає закладки, паролі та інші налаштування цього браузера з даними { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Для цього профілю досягнуто ліміту облікових записів
+sync-profile-different-account-header = Цей профіль раніше був синхронізований з іншим обліковим записом
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Щоб зберегти й захистити ваші дані, кожен профіль { -brand-product-name } можна синхронізувати лише з одним обліковим записом. Щоб увійти за допомогою { $acctEmail }, створіть новий профіль.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Профіль синхронізовано з іншим обліковим записом
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Щоб зберегти й захистити ваші дані, рекомендуємо створити новий профіль для входу за допомогою { $acctEmail }. Якщо ви вирішите продовжити синхронізацію в цьому профілі, дані з обох облікових записів буде остаточно об'єднано в “{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Обліковий запис уже використовується
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = Вже виконано вхід у профіль “{ $otherProfile }” з використанням { $acctEmail }.
+sync-account-in-use-description = Можна пов'язати цей обліковий запис лише з одним профілем на цьому комп'ютері.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = З використанням цього облікового запису вже виконано вхід в інший профіль. Синхронізувати обидва профілі?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Вже виконано вхід у профіль “{ $otherProfile }” з використанням { $acctEmail } на цьому комп'ютері. Синхронізація профілю “{ $currentProfile }” остаточно об'єднає дані, як-от паролі та закладки, з обох профілів.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Перемкнутися на “{ $profileName }”
+sync-button-create-profile = Створити новий профіль
+sync-button-sync-and-merge = Синхронізувати й об'єднати дані
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Синхронізувати “{ $profileName }”

@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } не вдалося згенерувати нову маску. Код помилки HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } не вдалося знайти багаторазові маски. Код помилки HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Ви повинні увійти в { -fxaccount-brand-name }, щоб використовувати { -relay-brand-name }.
 firefox-relay-must-login-to-account = Увійдіть в обліковий запис, щоб використовувати маски електронної пошти { -relay-brand-name }.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Не зараз
     .accesskey = е
-firefox-relay-offer-what-fxa-and-relay-provides = Обліковий запис відкриває доступ до інших продуктів, які захищають приватність. Усі електронні листи, надіслані на ваші маски е-пошти будуть пересилатися на вашу справжню адресу (доки ви не заблокуєте їх).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Увійти в { -brand-product-name } і використати маску
     .accesskey = й
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Зареєструватись
+    .accesskey = є
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Не показувати це знову
     .accesskey = Н
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Не зараз
     .accesskey = е
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Щоб скористатися маскою е-пошти, спершу зареєструйтеся або ввійдіть у свій обліковий запис
+firefox-relay-offer-legal-notice-control = Реєструючись і створюючи маску електронної пошти, ви погоджуєтеся з <label data-l10n-name="tos-url">Умовами надання послуг</label> і <label data-l10n-name="privacy-url">Положенням про приватність</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Позбудьтеся спаму за допомогою маски е-пошти
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Захистіться від спаму, приховавши свою справжню адресу за допомогою <label data-l10n-name="firefox-relay-learn-more-url">маски електронної пошти</label>. Ви й надалі отримуватимете листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> у свою звичайну поштову скриньку, а ваша справжня адреса буде замаскованою.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Щоб скористатися маскою е-пошти, спершу зареєструйтеся або ввійдіть у свій обліковий запис
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Створюючи маску електронної пошти, ви погоджуєтеся з <label data-l10n-name="tos-url">Умовами надання послуг</label> і <label data-l10n-name="privacy-url">Положенням про приватність</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Далі
     .accesskey = а

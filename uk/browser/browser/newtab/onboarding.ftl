@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Користуйтеся некомер
 mr2022-onboarding-get-started-primary-subtitle = Наша найновіша версія створена для вас, пропонуючи ще простіше користування інтернетом та функції, які вам сподобаються.
 mr2022-onboarding-get-started-primary-button-label = Налаштуйте за лічені секунди
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Блискавично швидке налаштування
 mr2022-onboarding-import-subtitle = Налаштуйте { -brand-short-name } на свій смак. Додайте закладки, паролі та інші дані зі свого іншого браузера.
@@ -388,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Користувався
 onboarding-new-tabs-title = Скажіть нам, де ви хочете розмістити вкладки
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Перемикайте за потреби в налаштуваннях бічної панелі.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Усі ваші вкладки поруч
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Маєте багато відкритих вкладок? Спробуйте розмістити їх збоку для ефективнішого перегляду. Або ж залиште класичне подання вгорі. Перемикайте будь-коли.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Оберіть подання вкладок
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Для ефективнішого перегляду й зосередження спробуйте розмістити свої вкладки збоку. Або ж залиште класичне подання вгорі. Перемикайте будь-коли.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Вкладки збоку
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +441,17 @@ onboarding-checklist-pin = Закріпіть { -brand-short-name } на пан�
 onboarding-checklist-import = Імпортуйте дані з іншого браузера
 onboarding-checklist-extension = Додайте розширення
 onboarding-checklist-sign-up = Зареєструйте обліковий запис або увійдіть в нього
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Спробуйте групи вкладок – менше безладу й більше уваги
+tab-groups-onboarding-feature-callout-subtitle = Впорядкуйте свою роботу, перетягнувши одну вкладку на іншу, щоб створити групу.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Зустрічайте профілі { -brand-product-name }
+multi-profile-spotlight-body = Легко розділяйте роботу й розваги. У профілях зберігається інформація вашого перегляду, як-от історія та паролі, цілком окремо.
+multi-profile-spotlight-cta = Створити профіль
+multi-profile-callout-title = Створюйте різні профілі для роботи й розваг
+multi-profile-callout-subtitle = У профілях зберігається інформація вашого перегляду, як-от історія та паролі, цілком окремо.
+multi-profile-callout-cta = Створити профіль
