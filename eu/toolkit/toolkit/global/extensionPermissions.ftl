@@ -30,4 +30,6 @@ webext-perms-description-sessions = Itxitako azken fitxak atzitzea
 webext-perms-description-tabs = Nabigatzailearen fitxak atzitzea
 webext-perms-description-tabHide = Nabigatzaileko fitxak ezkutatu eta erakustea
 webext-perms-description-topSites = Nabigatze-historia atzitzea
+webext-perms-description-trialML = Deskargatu eta exekutatu AA modeloak zure gailuan
+webext-perms-description-userScripts = Baimendu egiaztatu gabeko hirugarrenen scriptei zure datuetarako sarbidea
 webext-perms-description-webNavigation = Nabigatu ahala nabigazio-jarduera atzitzea

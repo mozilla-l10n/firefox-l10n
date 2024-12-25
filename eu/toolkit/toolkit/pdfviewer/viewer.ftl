@@ -498,3 +498,18 @@ pdfjs-editor-alt-text-settings-close-button = Itxi
 
 pdfjs-editor-undo-bar-message-highlight = Nabarmentzea kenduta
 pdfjs-editor-undo-bar-message-freetext = Testua kenduta
+pdfjs-editor-undo-bar-message-ink = Marrazkia kenduta
+pdfjs-editor-undo-bar-message-stamp = Irudia kenduta
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] Esku-ohar bat kenduta
+       *[other] { $count } esku-ohar kenduta
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Desegin
+pdfjs-editor-undo-bar-undo-button-label = Desegin
+pdfjs-editor-undo-bar-close-button =
+    .title = Itxi
+pdfjs-editor-undo-bar-close-button-label = Itxi
