@@ -19,6 +19,10 @@ appmenuitem-zoom =
     .value = Grannizza
 appmenuitem-help =
     .label = Ajutu
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Mpustazzioni
 
 ## Zoom and Fullscreen Controls
 
@@ -37,6 +41,8 @@ appmenu-remote-tabs-sign-into-sync =
 appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi.
+appmenu-remote-tabs-opensettings =
+    .label = Mpustazzioni
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
@@ -44,8 +50,13 @@ appmenu-remote-tabs-connectdevice =
     .label = Culleja n'autru dispusitivu
 appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
+appmenuitem-fxa-toolbar-sync-now2 = Sincrunizza ora
 appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }
+appmenuitem-fxa-manage-account = Manija cuntu
+appmenu-account-header = Cuntu
+appmenu-fxa-sync-and-save-data2 = Sincrunizza e sarba i dati
 appmenu-fxa-signed-in-label = Trasi
+appmenu-fxa-setup-sync-new = Attiva
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -57,6 +68,28 @@ whatsnew-panel-header = Nuvità
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Mustra cchiù assai nfurmazzioni
+profiler-popup-learn-more-button =
+    .label = Cchiù nfurmazzioni
+profiler-popup-settings =
+    .value = Mpustazzioni
+profiler-popup-recording-screen = Staju riggistrannu…
+profiler-popup-start-recording-button =
+    .label = Accumincia a riggistrari
+profiler-popup-discard-button =
+    .label = Jetta
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -71,12 +104,21 @@ whatsnew-panel-header = Nuvità
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 
 ## History panel
 
+appmenu-recent-history-subheader = Crounuluggìa ricenti
+appmenu-recently-closed-tabs =
+    .label = Schedi chiujuti di picca
+appmenu-recently-closed-windows =
+    .label = Finestri chiujuti di picca
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ajutu di { -brand-shorter-name }
 appmenu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
@@ -103,6 +145,16 @@ appmenu-developer-tools-extensions =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Trasi nnô to cuntu
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
 
 ## Profiles panel
 
+appmenu-profiles = Prufili
+appmenu-other-profiles = Autri prufili
+appmenu-manage-profiles =
+    .label = Manijari i prufili
+appmenu-create-profile =
+    .label = Novu prufilu
+appmenu-edit-profile =
+    .aria-label = Cancia u prufilu
