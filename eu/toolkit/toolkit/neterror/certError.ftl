@@ -166,3 +166,5 @@ fp-certerror-hide-advanced-button = Ezkutatu aurreratua
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Jarraitu { $hostname } gunera (arriskutsua)
+fp-certerror-intro = { -brand-short-name }(e)k benetakoa izateko itxura duen segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunearen itxurak egiten dituen norbait saia liteke lapurtzen kreditu-txartelen informazioa, pasahitzak edo posta elektronikoko mezuak.
+fp-certerror-expired-into = { -brand-short-name }(e)k segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunea ez dago ondo konfiguratuta edo zure gailuaren erlojua data eta ordu okerrean dago ezarrita.
