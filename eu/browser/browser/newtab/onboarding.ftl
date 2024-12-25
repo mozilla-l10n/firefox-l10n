@@ -386,14 +386,21 @@ onboarding-existing-vertical-tabs-label = Probatu fitxa bertikalak
 onboarding-flair-text = Berria!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mantendu fitxa horizontalak
+onboarding-genai-sidebar-primary-button = Aukeratu txaterako bota
 onboarding-genai-sidebar-secondary-button = Hasi nabigatzen
 
 ## New user onboarding checklist
 
 onboarding-checklist-title = Amaitu { -brand-short-name } konfiguratzen
+onboarding-checklist-set-default = Ezarri { -brand-short-name } nabigatzaile lehenetsi gisa
+onboarding-checklist-pin = Ainguratu { -brand-short-name } ataza-barran
+onboarding-checklist-import = Inportatu aurreko nabigatzailetik
+onboarding-checklist-extension = Gehitu hedapen bat
 
 ## Tab Groups feature onboarding strings
 
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Sortu profil bat
+multi-profile-callout-cta = Sortu profil bat

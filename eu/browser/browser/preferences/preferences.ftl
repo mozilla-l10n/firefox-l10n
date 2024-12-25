@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Bidali webguneei "Do Not Track" seinalea zure jarraipena ez egitea adierazteko
+do-not-track-removal = Jada ez dugu onartzen "Do Not Track" seinalea
 do-not-track-description2 =
     .label = Bidali webguneei "Do Not Track" eskaera
     .accesskey = D
@@ -565,8 +566,7 @@ home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
 home-prefs-shortcuts-by-option-sponsored =
     .label = Babesleen lasterbideak
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta

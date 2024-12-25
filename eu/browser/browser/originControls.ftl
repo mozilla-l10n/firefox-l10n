@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = Hedapenak ezin ditu datuak irakurri eta aldatu
+origin-controls-quarantined =
+    .label = Hedapenak ez du baimenik datuak irakurri eta aldatzeko
 origin-controls-quarantined-status =
     .label = Hedapena ez da onartzen mugatutako guneetan
 origin-controls-quarantined-allow =

@@ -317,6 +317,7 @@ newtab-wallpaper-dark-sky = Gaueko zerudun hiriko paisaia
 newtab-wallpaper-dark-mountain = Paisaia mendia
 newtab-wallpaper-dark-city = Hiriko paisaia morea
 newtab-wallpaper-dark-fox-anniversary = Azeria espaloian baso batetik gertu
+newtab-wallpaper-light-fox-anniversary = Azeria belardi batean mendiko paisaia lanbrotsuarekin
 
 ## Solid Colors
 
@@ -326,6 +327,7 @@ newtab-wallpaper-light-blue = Urdin argia
 newtab-wallpaper-light-purple = More argia
 newtab-wallpaper-light-green = Berde argia
 newtab-wallpaper-green = Berdea
+newtab-wallpaper-beige = Beixa
 newtab-wallpaper-yellow = Horia
 newtab-wallpaper-orange = Laranja
 newtab-wallpaper-pink = Arrosa
@@ -339,16 +341,36 @@ newtab-wallpaper-brown = Marroia
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstraktua
+newtab-wallpaper-abstract-green = Forma berdeak
+newtab-wallpaper-abstract-blue = Forma urdinak
+newtab-wallpaper-abstract-purple = Forma moreak
+newtab-wallpaper-abstract-orange = Forma laranjak
+newtab-wallpaper-gradient-orange = Gradiente laranja eta arrosa
+newtab-wallpaper-abstract-blue-purple = Forma urdin eta moreak
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Argazkiak
+newtab-wallpaper-beach-at-sunrise = Hondartza egunsentian
+newtab-wallpaper-beach-at-sunset = Hondartza ilunabarrean
+newtab-wallpaper-storm-sky = Ekaitz zerua
+newtab-wallpaper-sky-with-pink-clouds = Hodei arrosadun zerua
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda gorria zuhaitzean aharrausika
+newtab-wallpaper-white-mountains = Mendi zuriak
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Argazkiaren egilea: <a data-l10n-name="name-link">{ $author_string }</a>, <a data-l10n-name="webpage-link">{ $webpage_string }</a> webgunean
 newtab-wallpaper-feature-highlight-header = Probatu kolore ukitu bat
+newtab-wallpaper-feature-highlight-content = Emaiozu itxura berria zure fitxa berriari horma-paperekin.
 newtab-wallpaper-feature-highlight-button = Ulertuta
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
     .title = Utzi
     .aria-label = Itxi laster-lehioa
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
