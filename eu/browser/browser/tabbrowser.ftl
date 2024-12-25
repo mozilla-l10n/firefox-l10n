@@ -80,6 +80,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Itxi { $tabCount } fitxa?
 tabbrowser-confirm-close-tabs-button = Itxi fitxak
+tabbrowser-ask-close-tabs-checkbox = Galdetu hainbat fitxa itxi aurretik
 tabbrowser-confirm-close-tabs-checkbox = Berretsi hainbat fitxa itxi aurretik
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +103,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Itxi leihoa eta { -brand-short-na
 tabbrowser-confirm-close-tabs-with-key-button = Irten { -brand-short-name }(e)tik
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Galdetu { $quitKey } lasterbidearekin irten aurretik
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Berretsi irten aurretik { $quitKey } erabiltzean
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Irten { -brand-short-name }(e)tik edo itxi uneko fitxa?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Irten { -brand-short-name }(e)tik
+       *[other] Irten { -brand-short-name }(e)tik
+    }
+tabbrowser-confirm-close-tab-only-button = Itxi uneko fitxa
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,3 +200,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Utzi
     .accesskey = z
+tab-group-menu-header = Fitxa multzoak
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
