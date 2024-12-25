@@ -201,7 +201,36 @@ tab-group-editor-cancel =
     .label = Utzi
     .accesskey = z
 tab-group-menu-header = Fitxa multzoak
+tab-context-unnamed-group =
+    .label = Multzo izengabea
+tab-group-name-default = Multzo izengabea
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Gehitu fitxa multzo berrira
+            [one] Gehitu fitxa multzo berrira
+           *[other] Gehitu fitxak multzo berrira
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Gehitu fitxa multzora
+            [one] Gehitu fitxa multzora
+           *[other] Gehitu fitxak multzora
+        }
+    .accesskey = G
+tab-group-editor-action-new-tab =
+    .label = Fitxa berria multzoan
+tab-group-editor-action-new-window =
+    .label = Eraman multzoa leiho berrira
+tab-group-editor-action-save =
+    .label = Gorde eta itxi multzoa
+tab-group-editor-action-ungroup =
+    .label = Atera multzotik fitxak
+tab-group-editor-action-delete =
+    .label = Ezabatu multzoa
