@@ -79,12 +79,28 @@ fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Gunea soilik konexio seguruak onartzeko dago konfiguratuta baina arazo bat dago gunearen ziurtagiriarekin. Baliteke asmo txarreko aktore bat gunearen nortasuna bere egiten saiatzen aritzea. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat bere ziurtagiria ez delako baliozkoa { $hostname } ostalarirako. Ziurtagiria soilik ondorengo ostalarientzat da baliozkoa: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat izatea. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. Enpresako sarean bazaude, baliteke laguntza-taldeak informazio gehiago izatea. Antibirus-softwarea badarabilzu, saiatu balizko gatazka edo arazo jakinak bilatzen.
+fp-certerror-bad-domain-what-can-you-do-body = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat izatea. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. Baina enpresako sarean bazaude, baliteke laguntza-taldeak informazio gehiago izatea. Antibirus-softwarea badarabilzu, saiatu balizko gatazka edo arazo jakinak bilatzen.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Arazo bat dago gunearen ziurtagiriarekin. Baliteke asmo txarreko aktore bat gunearen nortasuna bere egiten saiatzen aritzea. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat ezin duelako jakin nork jaulki zuen ziurtagiria, bere buruak sinatua delako, edo gunea ez delako ari fidagarriak diren tarteko ziurtagiririk bidaltzen.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat izatea. Baina enpresako sarean bazaude, baliteke laguntza-taldeak informazio gehiago izatea. Antibirus-softwarea badarabilzu, beharbada { -brand-short-name }(r)ekin lan egiteko konfiguratu behar da.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Gunearen ziurtagiriarekin arazo bat dagoelako. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. Gune honen ziurtagiria bere buruak sinatua da. Ez du ziurtagiri-autoritate batek jaulki, beraz ez dugu lehenespenez fidagarritzat jotzen.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Askorik ez. Litekeena da arazoa guneak berak izatea.
 fp-certerror-self-signed-important-note = OHAR GARRANTZITSUA: gune hau enpresako intranetean bisitatzen saiatzen ari bazara, bere buruek sinatutako ziurtagiriak egon litezke, enpresako informatikariek hala jarrita. Hauen egiazkotasuna egiaztatzen lagun zaitzakete informatikariek.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo datan iraungi zela: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo data arte ez dela baliozkoa izango: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Zure gailuaren erlojua ondorengora dago ezarrita: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Zuzena bada, segurtasun-arazoa gunearekin berarekin dago ziurrenik. Okerra bada, zure gailuaren sistema-ezarpenetan alda dezakezu.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Errore-kodea: { $error }
