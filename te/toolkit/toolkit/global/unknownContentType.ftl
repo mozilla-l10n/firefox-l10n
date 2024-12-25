@@ -8,7 +8,6 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } యొక్క ఎంపికలలో అమర్పులను మార్చగలము.
            *[other] { -brand-short-name } యొక్క అభీష్టాలలో అమర్పులను మార్చగలము.
         }
-
 unknowncontenttype-intro = మీరు తెరవాలనుకుంటున్నది:
 unknowncontenttype-which-is = రకం:
 unknowncontenttype-from = మూలం:
@@ -22,8 +21,8 @@ unknowncontenttype-other =
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
-            [macos] ఎంచుకో...
-           *[other] అన్వేషించు...
+            [macos] ఎంచుకో…
+           *[other] విహరించు…
         }
     .accesskey =
         { PLATFORM() ->

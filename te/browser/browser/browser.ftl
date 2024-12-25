@@ -465,7 +465,7 @@ urlbar-result-action-search-in-private = అంతరంగిక కిటి�
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = { $engine } తో అన్వేషించు
+urlbar-result-action-search-w-engine = { $engine }‌తో వెతకండి
 urlbar-result-action-sponsored = ప్రాయోజితం
 urlbar-result-action-switch-tab = ట్యాబుకు మారండి
 urlbar-result-action-visit = చూడండి

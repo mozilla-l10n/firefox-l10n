@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-picker-browse-button =
-    .buttonlabelextra2 = అన్వేషించు…
+    .buttonlabelextra2 = వెతుకు…
 app-picker-send-msg =
     .value = ఈఅంశమును ఇక్కడకు పంపు:
 app-picker-no-app-found =
