@@ -223,7 +223,9 @@ mr2022-onboarding-set-default-subtitle = Erabili irabazi-asmorik gabeko batek ba
 mr2022-onboarding-get-started-primary-subtitle = Gure azken bertsioa zure inguruan dago eraikia, inoiz baino errazagoa eginez weba arakatzea. Gure ustez oso gustuko izango dituzun hainbat eginbide ditu.
 mr2022-onboarding-get-started-primary-button-label = Konfiguratu segundotan
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Konfigurazio azkarra
 mr2022-onboarding-import-subtitle = Konfiguratu { -brand-short-name } zure gustura. Gehitu zure laster-markak, pasahitzak eta gehiago zure nabigatzaile zaharretik.
@@ -343,13 +345,23 @@ onboarding-easy-setup-security-and-privacy-title = Zu seguru mantentzea dugu xed
 onboarding-easy-setup-security-and-privacy-subtitle = Irabazi asmorik gabeko erakundeak babestutako gure nabigatzaileak laguntzen du eragozten enpresek zure webeko jarraipena sekretupean egin dezaten.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Mantendu zifratzea gailuen artean salto egitean
+onboarding-sign-up-button = Eman izena edo hasi saioa
+onboarding-sign-up-secondary-button = Hasi nabigatzen
 
 ## New user time and familiarity survey strings
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Hurrengoa
 # When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Berria naiz
+onboarding-new-user-survey-time-based-option-2 = Hilabete baino gutxiago
+onboarding-new-user-survey-time-based-option-3 = Hilabete baino gutxiago, sarritan
+onboarding-new-user-survey-time-based-option-4 = Hilabete baino gutxiago, batzutan
+# When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Berria naiz
+onboarding-new-user-survey-familiarity-based-option-2 = Batzuk erabili ditut
+onboarding-new-user-survey-familiarity-based-option-3 = Oso ondo ezagutzen dut
+onboarding-new-user-survey-familiarity-based-option-4 = Iraganean erabili izan dut, baina duela asko
 
 ## UI strings for the sidebar and vertical tabs
 
@@ -357,6 +369,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = Berria naiz
 onboarding-new-tabs-title = Esaiguzu non nahiago dituzun fitxak
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Alda ezazu nahi duzunean alboko barrako ezarpenetan.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Fitxak, zure erara
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Fitxak alboan
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -372,3 +386,14 @@ onboarding-existing-vertical-tabs-label = Probatu fitxa bertikalak
 onboarding-flair-text = Berria!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mantendu fitxa horizontalak
+onboarding-genai-sidebar-secondary-button = Hasi nabigatzen
+
+## New user onboarding checklist
+
+onboarding-checklist-title = Amaitu { -brand-short-name } konfiguratzen
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

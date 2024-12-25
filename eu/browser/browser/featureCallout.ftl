@@ -86,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = Erabat desados
 sidebar-callout-survey-features-question = Ondorengoak alboko barraren balizko eginbideak dira. Zeinek hobetuko luke gehien zure { -brand-short-name }(e)ko emankortasuna?
 sidebar-callout-survey-split-view = Edozein bi webgune batera ikustea, ondoz ondoko ikuspegi zatituan
 sidebar-callout-survey-keep-website-open = Nabigatu ahala webgune bat alboko barran zabalik mantentzea, adibidez posta elektronikoa edo egutegia
+sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkorra
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!

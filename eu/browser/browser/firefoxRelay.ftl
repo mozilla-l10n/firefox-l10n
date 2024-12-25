@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name }(e)k ezin du maskara berria sortu. HTTP errore-kodea: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name }(e)k ezin du maskara berrerabilgarririk aurkitu. HTTP errore-kodea: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } erabili ahal izateko, saioa hasi behar duzu { -fxaccount-brand-name }(e)n.
 firefox-relay-get-unlimited-masks =
@@ -32,3 +32,33 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Une honetan ez
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Eman izena
+    .accesskey = z
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ez erakutsi hau berriro
+    .accesskey = z
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Une honetan ez
+    .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Eman izena
+    .accesskey = z
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Eman izena
+    .accesskey = z
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Hurrengoa
+    .accesskey = H

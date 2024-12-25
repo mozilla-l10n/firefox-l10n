@@ -385,3 +385,12 @@ newtab-topic-selection-cancel-button = Utzi
 newtab-topic-selection-button-maybe-later = Geroago agian
 newtab-topic-selection-button-update-interests = Eguneratu zure interesak
 newtab-topic-selection-button-pick-interests = Hautatu zure interesak
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Une honetan ez
