@@ -392,6 +392,8 @@ onboarding-new-tabs-title = Ба мо бигӯед, ки шумо дар куҷ�
 onboarding-new-tabs-subtitle = Онро дар вақти дилхоҳ дар танзимоти навори ҷонибӣ фаъол ё хомӯш созед.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Варақаҳои шумо, роҳи шумо
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Тарҳбандии варақаҳои худро интихоб кунед
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлӯ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
