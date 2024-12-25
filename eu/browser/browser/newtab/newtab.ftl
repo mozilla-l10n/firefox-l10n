@@ -117,6 +117,12 @@ newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
 newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
 newtab-menu-show-privacy-info = Gure babesleak eta zure pribatutasuna
 newtab-menu-about-fakespot = { -fakespot-brand-name }(r)i buruz
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Blokeatu
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Ez jarraitu gaia
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -300,7 +306,17 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-light-mountain = Mendi zuria
+newtab-wallpaper-light-sky = Hodei more eta arrosadun zerua
+newtab-wallpaper-light-color = Forma urdin, arrosa eta horiak
+newtab-wallpaper-light-landscape = Lanbro urdindun mendiko paisaia
+newtab-wallpaper-light-beach = Palmondoa duen hondartza
 newtab-wallpaper-dark-aurora = Aurora boreala
+newtab-wallpaper-dark-color = Forma gorri eta urdinak
+newtab-wallpaper-dark-panda = Basoan ezkutatutako panda gorria
+newtab-wallpaper-dark-sky = Gaueko zerudun hiriko paisaia
+newtab-wallpaper-dark-mountain = Paisaia mendia
+newtab-wallpaper-dark-city = Hiriko paisaia morea
+newtab-wallpaper-dark-fox-anniversary = Azeria espaloian baso batetik gertu
 
 ## Solid Colors
 
