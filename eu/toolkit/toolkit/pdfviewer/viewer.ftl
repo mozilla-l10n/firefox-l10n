@@ -493,3 +493,8 @@ pdfjs-editor-alt-text-settings-editor-title = Testu alternatiboaren editorea
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Erakutsi testu alternatiboa irudi bat gehitzean berehala
 pdfjs-editor-alt-text-settings-show-dialog-description = Zure irudiek testu alternatiboa duela ziurtatzen laguntzen dizu.
 pdfjs-editor-alt-text-settings-close-button = Itxi
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-highlight = Nabarmentzea kenduta
+pdfjs-editor-undo-bar-message-freetext = Testua kenduta
