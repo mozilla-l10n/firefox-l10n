@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = Propiedades del documento…
 pdfjs-document-properties-file-name = Nombre del archivo:
 pdfjs-document-properties-file-size = Tamaño del archivo:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } bytes)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } bytes)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = Asunto:
 pdfjs-document-properties-keywords = Palabras claves:
 pdfjs-document-properties-creation-date = Fecha de creación:
 pdfjs-document-properties-modification-date = Fecha de modificación:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -275,6 +286,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } anotación]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -329,6 +343,10 @@ pdfjs-editor-stamp-add-image-button-label = Agregar imagen
 pdfjs-editor-free-highlight-thickness-input = Espesor
 pdfjs-editor-free-highlight-thickness-title =
     .title = Cambiar el grosor al resaltar elementos que no sean texto
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Editor de texto
+    .default-content = Comenzar a escribir…
 pdfjs-free-text =
     .aria-label = Editor de texto
 pdfjs-free-text-default-content = Empieza a escribir…
@@ -340,6 +358,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = Texto alternativo
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Editar texto alternativo
 pdfjs-editor-alt-text-edit-button-label = Editar texto alternativo
 pdfjs-editor-alt-text-dialog-label = Elige una opción
 pdfjs-editor-alt-text-dialog-description = El texto alternativo (texto alternativo) ayuda cuando las personas no pueden ver la imagen o cuando no se carga.
@@ -457,6 +477,7 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Creado automátic
 
 pdfjs-image-alt-text-settings-button =
     .title = Ajustes del texto alternativo de la imagen
+pdfjs-image-alt-text-settings-button-label = Ajustes del texto alternativo de la imagen
 pdfjs-editor-alt-text-settings-dialog-label = Ajustes del texto alternativo de la imagen
 pdfjs-editor-alt-text-settings-automatic-title = Texto alternativo automático
 pdfjs-editor-alt-text-settings-create-model-button-label = Crear texto alternativo automáticamente
@@ -464,6 +485,31 @@ pdfjs-editor-alt-text-settings-create-model-description = Sugiere descripciones 
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Modelo de IA de texto alternativo ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Se ejecuta localmente en el dispositivo para que los datos se mantengan privados. Requerido para texto alternativo automático.
+pdfjs-editor-alt-text-settings-delete-model-button = Eliminar
+pdfjs-editor-alt-text-settings-download-model-button = Descargar
+pdfjs-editor-alt-text-settings-downloading-model-button = Descargando…
+pdfjs-editor-alt-text-settings-editor-title = Editor de texto alternativo
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostrar el editor de texto alternativo inmediatamente al añadir una imagen
+pdfjs-editor-alt-text-settings-show-dialog-description = Te ayuda a asegurarte de que todas tus imágenes tengan texto alternativo.
+pdfjs-editor-alt-text-settings-close-button = Cerrar
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Resaltado eliminado
+pdfjs-editor-undo-bar-message-freetext = Texto eliminado
+pdfjs-editor-undo-bar-message-ink = Dibujo eliminado
+pdfjs-editor-undo-bar-message-stamp = Imagen eliminada
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } anotación eliminada
+       *[other] { $count } anotaciones eliminadas
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Deshacer
+pdfjs-editor-undo-bar-undo-button-label = Deshacer
+pdfjs-editor-undo-bar-close-button =
+    .title = Cerrar
+pdfjs-editor-undo-bar-close-button-label = Cerrar
