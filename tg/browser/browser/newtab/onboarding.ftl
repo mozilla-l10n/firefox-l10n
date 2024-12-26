@@ -396,6 +396,8 @@ onboarding-many-tabs-title = Варақаҳои шумо, роҳи шумо
 onboarding-many-tabs-subtitle = Бисёр варақаҳоро кушода нигоҳ медоред? Варақаҳои худро аз паҳлӯи браузер барои намоиши нағз баpoҳмoндашyда кӯшиш кунед. Ё онҳоро ба таври классикӣ дар қисми болои браузер нигоҳ доред. Дар вақти дилхоҳ танзимотро иваз кунед.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Тарҳбандии варақаҳои худро интихоб кунед
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Барои намоиши нағз баpoҳмoндашyдае, ки метавонад диққати шуморо ба чизҳои муҳим равона кунад, варақаҳои худро аз паҳлӯи браузер кӯшиш кунед. Ё онҳоро ба таври классикӣ дар қисми болои браузер нигоҳ доред. Дар вақти дилхоҳ танзимотро иваз кунед.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Варақаҳо аз паҳлӯ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
