@@ -366,6 +366,7 @@ browser-tab-mute =
 browser-import-button2 =
     .label = ఇష్టాంశాలను దిగుమతిచేయి…
     .tooltiptext = మరొక విహారిణి నుండి { -brand-short-name } లోనికి ఇష్టాంశాలను దిగుమతి చేసుకోండి.
+bookmarks-toolbar-empty-message = త్వరగా చేరుకోడానికి, మీ ఇష్టాంశాలను ఇక్కడ ఇష్టాంశాల పట్టీ మీద పెట్టుకోండి. <a data-l10n-name="manage-bookmarks">ఇష్టాంశాల నిర్వహణ…</a>
 
 ## WebRTC Pop-up notifications
 
