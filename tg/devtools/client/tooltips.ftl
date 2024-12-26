@@ -49,6 +49,7 @@ inactive-css-no-size-containment = Хусусияти <strong>{ $property }</str
 inactive-css-not-for-internal-table-elements = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал таъсир намерасонад.
 inactive-css-not-for-internal-table-elements-except-table-cells = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал, ба ғайр катакҳои ҷадвал, таъсир намерасонад.
 inactive-css-not-table = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
+inactive-css-collapsed-table-borders = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҷадвал бо марзҳои печондашуда мебошад.
 inactive-css-not-table-cell = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он катаки ҷадвал намебошад.
 inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҳаракат карда намешавад.
 inactive-css-border-image = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ба унсурҳои дохили ҷадвале, ки дар он хусусияти <strong>border-collapse</strong> ба <strong>collapse</strong> дар унсури ҷадвали аслӣ танзим шудааст, татбиқ карда намешавад.
@@ -73,6 +74,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он зиёда аз { $lineCount } сатр дар бар мегирад.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ба қисмҳо тақсим шудааст, яъне муҳтавои он ба сутунҳо ё саҳифаҳои сершумор тақсим шудааст.
+inactive-css-no-width-height = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки дар он қиматҳои «width» ва «height» танзим карда намешаванд.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
