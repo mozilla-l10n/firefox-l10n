@@ -49,3 +49,12 @@ sync-setup-verify-description = Egy másik felhasználó korábban bejelentkezet
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Elérte a fiókkorlátot ehhez a profilhoz
 sync-profile-different-account-header = Ez a profil korábban egy másik fiókkal volt szinkronizálva
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Az adatai rendszerezése és a biztonsága érdekében minden { -brand-product-name }-profil csak egy fiókkal szinkronizálható. A(z) { $acctEmail } használatával történő bejelentkezéshez hozzon létre egy új profilt.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = A profil másik fiókkal van szinkronizálva
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Az adatai rendszerezése és a biztonsága érdekében azt javasoljuk, hogy hozzon létre egy új profilt, és a következővel jelentkezzen be: { $acctEmail }. Ha úgy dönt, hogy továbbra is szinkronizál ezzel a profillal, akkor a két fiók adatai véglegesen egyesülnek ebben: „{ $profileName }”.
