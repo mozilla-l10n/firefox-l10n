@@ -457,6 +457,13 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Creado automátic
 
 pdfjs-image-alt-text-settings-button =
     .title = Ajustes del texto alternativo de la imagen
+pdfjs-editor-alt-text-settings-dialog-label = Ajustes del texto alternativo de la imagen
+pdfjs-editor-alt-text-settings-automatic-title = Texto alternativo automático
+pdfjs-editor-alt-text-settings-create-model-button-label = Crear texto alternativo automáticamente
+pdfjs-editor-alt-text-settings-create-model-description = Sugiere descripciones para ayudar a las personas que no pueden ver la imagen o cuando la imagen no se carga.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Modelo de IA de texto alternativo ({ $totalSize } MB)
 
 ## "Annotations removed" bar
 
