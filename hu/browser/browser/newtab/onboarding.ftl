@@ -391,6 +391,10 @@ onboarding-new-tabs-title = Mondja el, hová szeretné tenni a lapjait
 onboarding-new-tabs-subtitle = Állítsa be bármikor az oldalsáv beállításaiban.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Az Ön lapjai, az Ön útja
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Sok lapot tart nyitva? Próbálja ki az oldalra helyezett lapokat a letisztultabb nézet érdekében. Vagy tartsa meg a klasszikust, a fent lévő lapokkal. Váltson bármikor.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Válassza ki a lapelrendezést
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Lapok oldalt
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
