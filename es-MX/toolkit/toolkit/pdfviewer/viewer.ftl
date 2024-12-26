@@ -339,7 +339,6 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
-# Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = Texto alternativo
 pdfjs-editor-alt-text-edit-button-label = Editar texto alternativo
 pdfjs-editor-alt-text-dialog-label = Elige una opción
@@ -354,6 +353,9 @@ pdfjs-editor-alt-text-decorative-tooltip = Marcado como decorativo
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = Por ejemplo: “Un joven se sienta a la mesa a comer”
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Texto alternativo
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -366,6 +368,22 @@ pdfjs-editor-resizer-label-bottom-right = Esquina inferior derecha: cambiar el t
 pdfjs-editor-resizer-label-bottom-middle = Abajo en el medio: cambiar el tamaño
 pdfjs-editor-resizer-label-bottom-left = Esquina inferior izquierda: cambiar el tamaño
 pdfjs-editor-resizer-label-middle-left = Centro izquierda: cambiar el tamaño
+pdfjs-editor-resizer-top-left =
+    .aria-label = Esquina superior izquierda — redimensionar
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Borde superior en el medio — redimensionar
+pdfjs-editor-resizer-top-right =
+    .aria-label = Esquina superior derecha — redimensionar
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Borde derecho en el medio — redimensionar
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Esquina inferior derecha — redimensionar
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Borde inferior en el medio — redimensionar
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Esquina inferior izquierda — redimensionar
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Borde izquierdo en el medio — redimensionar
 
 ## Color picker
 
@@ -396,6 +414,49 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Editar texto alternativo (descripción de la imagen)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Agregar texto alternativo (descripción de la imagen)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Escribe tu descripción aquí…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Breve descripción para las personas que no pueden ver la imagen o cuando la imagen no se carga.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Este texto alternativo fue creado automáticamente y puede ser inexacto.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saber más
+pdfjs-editor-new-alt-text-create-automatically-button-label = Crear texto alternativo automáticamente
+pdfjs-editor-new-alt-text-not-now-button = Ahora no
+pdfjs-editor-new-alt-text-error-title = No se pudo crear el texto alternativo automáticamente
+pdfjs-editor-new-alt-text-error-description = Escribe tu propio texto alternativo o inténtalo de nuevo más tarde.
+pdfjs-editor-new-alt-text-error-close-button = Cerrar
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Descargando el modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Descargando el modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Se agregó el texto alternativo
+pdfjs-editor-new-alt-text-added-button-label = Se agregó el texto alternativo
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Falta el texto alternativo
+pdfjs-editor-new-alt-text-missing-button-label = Falta texto alternativo
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Revisar el texto alternativo
+pdfjs-editor-new-alt-text-to-review-button-label = Revisar el texto alternativo
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Creado automáticamente: { $generatedAltText }
 
 ## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Ajustes del texto alternativo de la imagen
+
+## "Annotations removed" bar
 

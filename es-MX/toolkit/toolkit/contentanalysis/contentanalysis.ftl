@@ -40,6 +40,29 @@ contentanalysis-genericresponse-message = Análisis de contenido respondió con 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Su organización utiliza software de prevención de pérdida de datos que ha bloqueado este contenido: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Se ha producido un error al establecer comunicación con { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = No se puede conectar con { $agent }.{ $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Verificación de firma fallida para { $agent }.{ $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Carga de “{ $filename }” denegada.
+contentanalysis-error-message-dropped-text = Arrastrar y soltar denegado.
+contentanalysis-error-message-clipboard = Pegar denegado.
+contentanalysis-error-message-print = Impresión denegada.
+contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir este archivo.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de tu organización, no se te permite cargar el archivo “{ $filename }”. Contacta con tu administrador para obtener más información.
+contentanalysis-block-dialog-title-clipboard = No tienes permiso para pegar este contenido
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Varias acciones están en marcha. Si sale de { -brand-shorter-name }, estas acciones no se completarán.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir

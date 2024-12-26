@@ -344,6 +344,9 @@ has-seccomp-bpf = Seccomp-BPF (sistema de filtro de llamadas)
 has-seccomp-tsync = Sincronización de hilos Seccomp
 has-user-namespaces = Espacios de nombres de usuario
 has-privileged-user-namespaces = Espacios de nombres de usuarios para procesos privilegiados
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Esta funcionalidad no está permitida por tu sistema. Esto puede restringir las funcionalidades de seguridad de { -brand-short-name }.
 can-sandbox-content = Entorno de prueba para procesar contenidos
 can-sandbox-media = Entorno de pruebas para extensiones de multimedia
 content-sandbox-level = Entorno de prueba para procesar contenidos
@@ -414,6 +417,12 @@ support-printing-prefs-value = Valor
 
 ## Remote Settings sections
 
+support-remote-settings-title = Ajustes remotos
+support-remote-settings-status = Estado
+support-remote-settings-status-ok = Aceptar
+# Status when synchronization is not working.
+support-remote-settings-status-broken = No funciona
+support-remote-settings-last-check = Última revisión
 support-remote-settings-local-timestamp = Horario local
 support-remote-settings-sync-history = Historial
 support-remote-settings-sync-history-status = Estado
