@@ -35,3 +35,16 @@ fxa-menu-sign-out =
     .label = Cerrar sesión…
 fxa-menu-sync-title = Sincronizar
 fxa-menu-sync-description = Accede a tu web desde cualquier lugar
+sync-setup-verify-continue = Continuar
+sync-setup-verify-title = Advertencia de fusión
+sync-setup-verify-heading = ¿Realmente deseas iniciar sesión para sincronizar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un usuario diferente se conectó anteriormente para sincronizar en esta computadora. Al conectarse se fusionarán los marcadores, contraseñas y otros ajustes con { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Se ha alcanzado el límite de cuentas para este perfil

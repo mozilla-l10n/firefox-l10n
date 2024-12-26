@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado antes pero y
 onboarding-new-tabs-title = Dinos dónde te gustaría que estuvieran tus pestañas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Cámbialo cuando quieras en la configuración de la barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tus pestañas, a tu manera
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ¿Dejas muchas pestañas abiertas? Prueba a colocarlas a un costado para una vista más simplificada. O mantén el estilo clásico con pestañas en la parte superior. Cambia cuando quieras.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Selecciona el diseño de tus pestañas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para una vista optimizada que te ayude a mantener la concentración, prueba las pestañas en el lateral. O también opta por el estilo clásico con pestañas en la parte superior. Cambia cuando quieras.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestañas en el lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -432,3 +440,17 @@ onboarding-checklist-pin = Fijar { -brand-short-name } en la barra de tareas
 onboarding-checklist-import = Importar desde el navegador anterior
 onboarding-checklist-extension = Agregar una extensión
 onboarding-checklist-sign-up = Regístrate o inicia sesión en tu cuenta
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Prueba los grupos de pestañas para lograr menos desorden y más concentración
+tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pestaña encima de otra para crear tu primer grupo.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Saluda a los perfiles en { -brand-product-name }
+multi-profile-spotlight-body = Cambia fácilmente entre la navegación por trabajo y por diversión. Los perfiles mantienen tu información de navegación, incluido el historial de búsqueda y las contraseñas, totalmente separada para que puedas mantenerte organizado.
+multi-profile-spotlight-cta = Crear un perfil
+multi-profile-callout-title = Crea diferentes perfiles para trabajo y diversión
+multi-profile-callout-subtitle = Los perfiles permiten mantener la información de navegación, como el historial de búsqueda y las contraseñas, totalmente separadas.
+multi-profile-callout-cta = Crear un perfil
