@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Mégse
     .accesskey = M
+tab-group-menu-header = Lapcsoportok
 tab-context-unnamed-group =
     .label = Névtelen csoport
+tab-group-name-default = Névtelen csoport
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

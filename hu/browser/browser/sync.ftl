@@ -58,3 +58,25 @@ sync-profile-different-account-title-merge = A profil másik fiókkal van szinkr
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
 sync-profile-different-account-description-merge = Az adatai rendszerezése és a biztonsága érdekében azt javasoljuk, hogy hozzon létre egy új profilt, és a következővel jelentkezzen be: { $acctEmail }. Ha úgy dönt, hogy továbbra is szinkronizál ezzel a profillal, akkor a két fiók adatai véglegesen egyesülnek ebben: „{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = A fiók már használatban van
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = A(z) { $acctEmail } már be van jelentkezve a(z) „{ $otherProfile }” profilba
+sync-account-in-use-description = Ezt a fiókot csak egy profilhoz társíthatja ezen a számítógépen.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Ez a fiók egy másik profilba van bejelentkezve. Szinkronizálja mindkét profilt?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = A(z) { $acctEmail } a(z) „{ $otherProfile }” profilba van bejelentkezve ezen a számítógépen. A(z) „{ $currentProfile }” profil szinkronizálása véglegesen egyesíti a profiladatokat, például a jelszavakat és a könyvjelzőket.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Váltás erre: „{ $profileName }”
+sync-button-create-profile = Új profil létrehozása
+sync-button-sync-and-merge = Adatok szinkronizálása és egyesítése
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = A(z) „{ $profileName }” szinkronizálása
