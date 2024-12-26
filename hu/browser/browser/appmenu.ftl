@@ -280,8 +280,10 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Kapjon figyelmeztetést az adatvédelmi incidensekről
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
+appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának elindítása
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Védje meg az online tevékenységét
+appmenu-services-header = Saját szolgáltatások
 
 ## Profiles panel
 
