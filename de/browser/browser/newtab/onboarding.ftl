@@ -394,6 +394,8 @@ onboarding-new-tabs-subtitle = Wechsle in den Sidebar-Einstellungen, wann immer 
 onboarding-many-tabs-title = Deine Tabs, wie du möchtest
 # Setup screen for vertical tabs - subtitle for too many tabs variation
 onboarding-many-tabs-subtitle = Viele Tabs offen lassen? Probiere die Tabs an der Seite für eine einfachere Ansicht aus. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Wähle dein Tab-Layout
 # Setup screen for vertical tabs - subtitle for focused variation
 onboarding-focused-tabs-subtitle = Probieren deine Tabs an der Seite aus, um eine optimierte Ansicht zu erhalten, die dir hilft, dich zu konzentrieren. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -442,6 +444,14 @@ onboarding-checklist-sign-up = Registriere dich oder melde dich mit deinem Konto
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Probiere Tab-Gruppen für weniger Unordnung und mehr Fokus
+tab-groups-onboarding-feature-callout-subtitle = Schaffe Ordnung, indem du einen Tab über den anderen ziehst, um deine erste Gruppe zu erstellen.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Sag Hallo zu { -brand-product-name }-Profilen
+multi-profile-spotlight-body = Wechsle einfach zwischen dem Surfen zur Arbeit oder in der Freizeit. Profile halten deine Surf-Daten, einschließlich Suchchronik und Passwörtern, vollständig getrennt, damit du organisiert bleiben kannst.
+multi-profile-spotlight-cta = Ein Profil erstellen
+multi-profile-callout-title = Erstelle unterschiedliche Profile für Arbeit und Freizeit
+multi-profile-callout-subtitle = Mit Profilen kannst du deine Surf-Daten, wie Suchchronik und Passwörter, komplett trennen.
+multi-profile-callout-cta = Ein Profil erstellen

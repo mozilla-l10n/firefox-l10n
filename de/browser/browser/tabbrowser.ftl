@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Abbrechen
     .accesskey = A
+tab-group-menu-header = Tab-Gruppen
 tab-context-unnamed-group =
     .label = Unbenannte Gruppe
+tab-group-name-default = Unbenannte Gruppe
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
