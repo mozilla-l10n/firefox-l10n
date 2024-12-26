@@ -48,6 +48,10 @@ sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računal
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Za ta profil je dosežena omejitev računov
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil se sinhronizira z drugim računom
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun je že v uporabi
 # Variables:

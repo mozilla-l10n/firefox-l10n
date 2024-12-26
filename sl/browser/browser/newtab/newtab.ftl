@@ -461,3 +461,8 @@ newtab-topic-selection-button-pick-interests = Izberite svoja zanimanja
 newtab-section-follow-button = Sledi
 newtab-section-following-button = Sledite
 newtab-section-unfollow-button = Nehaj slediti
+
+## Confirmation modal for blocking a section
+
+newtab-section-block-section-button = Blokiraj ta razdelek
+newtab-section-cancel-button = Ne zdaj

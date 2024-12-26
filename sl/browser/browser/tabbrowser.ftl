@@ -229,8 +229,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Prekliči
     .accesskey = P
+tab-group-menu-header = Skupine zavihkov
 tab-context-unnamed-group =
     .label = Neimenovana skupina
+tab-group-name-default = Neimenovana skupina
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

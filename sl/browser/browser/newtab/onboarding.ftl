@@ -389,6 +389,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = uporabljal/a sem ga v pr
 onboarding-new-tabs-title = Kje želite imeti zavihke?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = V nastavitvah stranske vrstice lahko to spremenite, kadarkoli želite.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Vaši zavihki, po vaše
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Imate odprtih veliko zavihkov? Preizkusite preglednejši seznam zavihkov ob strani. Ali pa obdržite klasiko z zavihki na vrhu. Kadarkoli si lahko premislite.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Izberite postavitev zavihkov
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ob strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,3 +443,8 @@ onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
 
 tab-groups-onboarding-feature-callout-title = Preizkusite skupine zavihkov za manj nereda in več osredotočenosti
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en zavihek na drugega in ustvarite svojo prvo skupino.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Spoznajte { -brand-product-name }ove profile
+multi-profile-spotlight-cta = Ustvari profil
