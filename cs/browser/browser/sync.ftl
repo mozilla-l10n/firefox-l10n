@@ -65,3 +65,23 @@ sync-profile-different-account-title-merge = Profil byl synchronizován s jiným
 sync-profile-different-account-description-merge = Abyste měli ve svých datech pořádek a bezpečí, doporučujeme vytvořit nový profil a přihlašovat se pomocí účtu { $acctEmail }. Pokud se rozhodnete pokračovat v synchronizaci s tímto profilem, data z obou účtů budou natrvalo sloučena do profilu “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Účet je již používán
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = Účet { $acctEmail } je už k profilu “{ $otherProfile }” přihlášen
+sync-account-in-use-description = Tento účet můžete na tomto počítači přiřadit pouze k jednomu profilu.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Tento účet je přihlášen k jinému profilu. Synchronizovat oba profily?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Účet { $acctEmail } je přihlášen k profilu “{ $otherProfile }” na tomto počítači. Synchronizací profilu ”{ $currentProfile }” budou trvale spojena data z obou profilů, jako jsou hesla nebo záložky.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Přepnout na profil “{ $profileName }“
+sync-button-create-profile = Vytvořit nový profil
+sync-button-sync-and-merge = Synchronizovat a sloučit údaje
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synchronizovat “{ $profileName }”
