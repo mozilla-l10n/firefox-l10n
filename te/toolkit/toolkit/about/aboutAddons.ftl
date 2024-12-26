@@ -117,6 +117,10 @@ addon-category-available-updates-title =
 addon-category-recent-updates = ఇటీవలి నవీకరణలు
 addon-category-recent-updates-title =
     .title = ఇటీవలి నవీకరణలు
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = { $host }కి సైటు అనుమతులు
 
 ## These are global warnings
 
@@ -278,7 +282,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
 # Variables:
 #   $version (string) - Application version.
