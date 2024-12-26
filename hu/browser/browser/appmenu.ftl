@@ -284,6 +284,7 @@ appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának el
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Védje meg az online tevékenységét
 appmenu-services-header = Saját szolgáltatások
+appmenu-other-protection-header = Próbálja ki a { -vendor-short-name } egyéb védelmi eszközeit:
 
 ## Profiles panel
 

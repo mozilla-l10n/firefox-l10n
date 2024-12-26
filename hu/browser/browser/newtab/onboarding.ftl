@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet ál
 mr2022-onboarding-get-started-primary-subtitle = A legfrissebb verziónk Ön köré épül fel, így minden eddiginél egyszerűbb a világhálón szörfölés. Tele van olyan funkciókkal, amelyekről úgy gondoljuk, hogy imádni fog.
 mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek alatt
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Villámgyors beállítás
 mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name(case: "accusative") }, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
@@ -387,6 +389,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Régebben használtam, d
 onboarding-new-tabs-title = Mondja el, hová szeretné tenni a lapjait
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Állítsa be bármikor az oldalsáv beállításaiban.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Az Ön lapjai, az Ön útja
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Lapok oldalt
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +434,9 @@ onboarding-checklist-pin = A { -brand-short-name } rögzítése a tálcára
 onboarding-checklist-import = Importálás az előző böngészőből
 onboarding-checklist-extension = Egy kiegészítő hozzáadása
 onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

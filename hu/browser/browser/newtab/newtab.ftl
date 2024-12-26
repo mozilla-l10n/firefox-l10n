@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = A { -fakespot-brand-name } névjegye
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Tiltás
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Téma követésének megszüntetése
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -457,3 +460,10 @@ newtab-topic-selection-button-pick-interests = Válassza ki az érdeklődési k�
 newtab-section-follow-button = Követés
 newtab-section-following-button = Követés
 newtab-section-unfollow-button = Követés megszüntetése
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Biztos, hogy blokkolja ezt a szakaszt?
+newtab-section-confirm-block-section-p2 = A blokkolt szakasz nem fog megjelenni a hírfolyamában.
+newtab-section-block-section-button = Szakasz blokkolása
+newtab-section-cancel-button = Most nem

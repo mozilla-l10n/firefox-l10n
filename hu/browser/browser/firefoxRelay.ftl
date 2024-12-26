@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = A { -relay-brand-name } nem tudott új maszkot létrehozni. HTTP hibakód: { $status }.
 firefox-relay-get-reusable-masks-failed = A { -relay-brand-name } nem talált újrafelhasználható maszkokat. HTTP hibakód: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = A { -relay-brand-name } használatához be kell jelentkeznie a { -fxaccount-brand-name }ba.
 firefox-relay-must-login-to-account = Jelentkezzen be a fiókjába a { -relay-brand-name } e-mail-maszkok használatához.
@@ -41,16 +41,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Most nem
     .accesskey = n
-firefox-relay-offer-what-fxa-and-relay-provides = Egy fiók további adatvédelmi termékekhez biztosít hozzáférést. Az e-mail-maszkokra küldött levelek a valódi e-mail-címére lesznek továbbítva (hacsak dönt nem úgy, hogy letiltja őket).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Bejelentkezés a { -brand-product-name }-be és egy maszk használata
     .accesskey = B
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Regisztráció
+    .accesskey = R
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne jelenítse meg ezt újra
     .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Most nem
     .accesskey = M
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Először regisztráljon vagy jelentkezzen be a fiókjába, hogy e-mail-maszkot használjon
+firefox-relay-offer-legal-notice-control = A regisztrációval és az e-mail-maszk létrehozásával elfogadja a <label data-l10n-name="tos-url">Szolgáltatási feltételeket</label> és az <label data-l10n-name="privacy-url">Adatvédelmi nyilatkozatot</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +82,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Védekezzen a levélszemét ellen egy e-mail-maszkkal
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Védekezzen a levélszemét ellen a valódi címének elrejtésével, egy <label data-l10n-name="firefox-relay-learn-more-url">e-mail-maszk</label> segítségével. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de a címe rejtve marad.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Először regisztráljon vagy jelentkezzen be a fiókjába, hogy e-mail-maszkot használjon
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Az e-mail-maszk létrehozásával elfogadja a <label data-l10n-name="tos-url">Szolgáltatási feltételeket</label> és az <label data-l10n-name="privacy-url">Adatvédelmi nyilatkozatot</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Tovább
     .accesskey = T
