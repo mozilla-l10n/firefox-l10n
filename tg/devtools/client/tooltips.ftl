@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Маълумоти бештар</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир ё турин намебошад.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир, дарбаргирандаи турин ё дарбаргирандаи серсутун намебошад.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи бо якчанд сутун намебошад.
@@ -28,9 +38,14 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::placeholder» дастгирӣ карда намешавад.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дорои намоиши <strong>{ $display }</strong> мебошад.
 inactive-css-not-display-block-on-floated = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>block</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он наметавонад дар унсурҳои «grid» ё «flex» истифода карда шавад.
+inactive-css-not-block = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои дар сатҳи блок татбиқ карда шавад.
+inactive-css-not-floated = Хусусияти <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он метавонад танҳо ба унсурҳои шинокунанда татбиқ карда шавад.
 inactive-css-property-is-impossible-to-override-in-visited = Хусусияти <strong>{ $property }</strong> ба сабаби маҳдудияти <strong>:visited</strong> иваз карда намешавад.
 inactive-css-position-property-on-unpositioned-box = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури ҷойгиршавӣ мебошад.
+inactive-css-only-replaced-elements = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои ивазкунанда татбиқ карда шавад.
 inactive-text-overflow-when-no-overflow = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки <strong>overflow:hidden</strong> танзим нашудааст.
+inactive-css-no-size-containment = Хусусияти <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он барои андоза ягон маҳдудият надорад.
 inactive-css-not-for-internal-table-elements = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал таъсир намерасонад.
 inactive-css-not-for-internal-table-elements-except-table-cells = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал, ба ғайр катакҳои ҷадвал, таъсир намерасонад.
 inactive-css-not-table = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
@@ -40,8 +55,13 @@ inactive-css-border-image = <strong>{ $property }</strong> нисбат ба и�
 inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> барои ҷудокунии фарзунсурҳо дастгирӣ карда намешавад.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::cue» дастгирӣ карда намешавад.
