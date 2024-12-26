@@ -395,6 +395,8 @@ onboarding-many-tabs-title = Az Ön lapjai, az Ön útja
 onboarding-many-tabs-subtitle = Sok lapot tart nyitva? Próbálja ki az oldalra helyezett lapokat a letisztultabb nézet érdekében. Vagy tartsa meg a klasszikust, a fent lévő lapokkal. Váltson bármikor.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Válassza ki a lapelrendezést
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = A letisztultabb nézetért, amely segít koncentrálni, próbálja ki az oldalra helyezett lapokat. Vagy tartsa meg a klasszikust, a fent lévő lapokkal. Váltson bármikor.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Lapok oldalt
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -441,6 +443,7 @@ onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Próbálja ki a lapcsoportokat a kisebb zsúfoltság és a nagyobb fókusz érdekében
 
 ## Multi Profiles feature onboarding messages
 
