@@ -444,6 +444,11 @@ onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Próbálja ki a lapcsoportokat a kisebb zsúfoltság és a nagyobb fókusz érdekében
+tab-groups-onboarding-feature-callout-subtitle = Rendszerezzen a lapok egymásra húzásával, hozzon létre így csoportokat.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Köszöntse a { -brand-product-name }-profilokat
+multi-profile-spotlight-body = Váltson könnyen a munka és a szórakozás között. A profilok teljesen elkülönítik a böngészési információit, beleértve a keresési előzményeket és a jelszavakat, így rendszerezett lehet.
+multi-profile-spotlight-cta = Profil létrehozása
+multi-profile-callout-title = Hozzon létre különböző profilokat a munkához és a szórakozáshoz
