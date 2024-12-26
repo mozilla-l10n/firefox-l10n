@@ -11,6 +11,15 @@ about-logging-stop-logging = توقف ثبت وقایع
 
 ## Logging presets
 
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = ویندوز
+about-logging-preset-custom-label = سفارشی
+# Error handling
+about-logging-error = خطا:
+
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
