@@ -21,9 +21,9 @@ videocontrols-unmute-button =
 videocontrols-enterfullscreen-button =
     .aria-label = സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍
 videocontrols-exitfullscreen-button =
-    .aria-label = സ്ക്രീന്‍ പൂര്‍വ്വഃവസ്ഥയിലാക്കുക
+    .aria-label = മുഴുവലുപ്പ പ്രതലം നിന്ന് പുറത്തുകടക്കുക
 videocontrols-casting-button-label =
-    .aria-label = സ്ക്രീനിലേക്കു് കാസ്റ്റ് ചെയ്യൂ
+    .aria-label = പ്രതലത്തിലേക്കു് പ്രക്ഷേപിക്കുക
 # .offlabel is processed by the video control custom element to be used
 # as a text-track label
 videocontrols-closed-caption-off =
@@ -31,12 +31,15 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ചിത്രത്തിൽ ചിത്രം
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = ഈ ദൃശ്യത്തെ പൊന്തിവയ്ക്കുക
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = കൂടുതൽ മറകൾക്കാണു് കൂടുതൽ രസം. മറ്റു് കാര്യങ്ങൾ ചെയ്യുമ്പോൾ ഈ ദൃശ്യത്തെ പ്ലേ ചെയ്യുക.
-videocontrols-error-aborted = വീഡിയോ ലഭ്യമാക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
-videocontrols-error-network = നെറ്റ്‌വര്‍ക്ക് പിശക് കാരണം വീഡിയോ വീണ്ടും പ്രവര്‍ത്തിയ്ക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
+videocontrols-error-aborted = ദൃശ്യം ലഭ്യമാക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
+videocontrols-error-network = സമ്പർക്ക പിശക് കാരണം ദൃശ്യം വീണ്ടും പ്രവര്‍ത്തിയ്ക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
 videocontrols-error-decode = ഫയലില്‍ തകരാറുള്ളതിനാല്‍ വീഡിയോ പ്രവര്‍ത്തിയ്ക്കുവാന്‍ സാധ്യമല്ല.
 videocontrols-error-src-not-supported = വീഡിയോ ശൈലി അല്ലെങ്കില്‍ MIMe തരം പിന്തുണയ്ക്കുന്നില്ല.
 videocontrols-error-no-source = പിന്തുണയ്ക്കുന്ന ശൈലിയിലും MIMe തരത്തിലുമുള്ള വീഡിയോ പിന്തുണയ്ക്കുന്നില്ല.
