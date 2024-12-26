@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Abrir menú para { $extensionName }
 unified-extensions-item-message-manage = Gestionar extensión
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } viola las políticas de Mozilla. Usarla podría ser arriesgado.
 
 ## Extension's context menu
 
@@ -47,3 +50,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Para proteger tus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Utiliza la configuración de la extensión para permitir sitios restringidos por { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Saber más
     .aria-label = Saber más: Algunas extensiones no están permitidas
+unified-extensions-mb-about-addons-link = Ir a los ajustes de extensiones
