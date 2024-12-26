@@ -452,3 +452,5 @@ multi-profile-spotlight-title = Köszöntse a { -brand-product-name }-profilokat
 multi-profile-spotlight-body = Váltson könnyen a munka és a szórakozás között. A profilok teljesen elkülönítik a böngészési információit, beleértve a keresési előzményeket és a jelszavakat, így rendszerezett lehet.
 multi-profile-spotlight-cta = Profil létrehozása
 multi-profile-callout-title = Hozzon létre különböző profilokat a munkához és a szórakozáshoz
+multi-profile-callout-subtitle = A profilok segítségével teljesen külön tárolhatja a böngészési adatait, mint a keresési előzményeket és a jelszavakat.
+multi-profile-callout-cta = Profil létrehozása

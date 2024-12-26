@@ -43,3 +43,9 @@ sync-setup-verify-heading = Biztos, hogy bejelentkezik a szinkronizálásba?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Egy másik felhasználó korábban bejelentkezett a szinkronizálásba ezen a számítógépen. A bejelentkezés egyesíti ezen böngésző könyvjelzőit, jelszavait és más beállításait ezzel: { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Elérte a fiókkorlátot ehhez a profilhoz
+sync-profile-different-account-header = Ez a profil korábban egy másik fiókkal volt szinkronizálva
