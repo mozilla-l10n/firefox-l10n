@@ -60,15 +60,45 @@ about-reader-font-type-monospace = Monoespaciado
 
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de letra
+about-reader-toolbar-text-layout-controls = Texto y diseño
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Predeterminado
+about-reader-customtheme-tab = Personalizado
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Texto
+    .title = Editar color
+about-reader-custom-colors-background = Fondo
+    .title = Editar color
+about-reader-custom-colors-unvisited-links = Enlaces no visitados
+    .title = Editar color
+about-reader-custom-colors-visited-links = Enlaces visitados
+    .title = Editar color
+about-reader-custom-colors-selection-highlight = Resaltador para lectura en voz alta
+    .title = Editar color
+about-reader-reset-button = Restablecer predeterminados
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Texto
+about-reader-text-size-label = Tamaño del texto
+about-reader-font-type-selector-label = Fuente
+about-reader-font-weight-selector-label = Peso de la fuente
+about-reader-font-weight-light = Claro
+about-reader-font-weight-regular = Regular
+about-reader-font-weight-bold = Negrita
+about-reader-layout-header = Diseño
+about-reader-slider-label-spacing-standard = Estándar
+about-reader-slider-label-spacing-wide = Ancho
+about-reader-content-width-label =
+    .label = Ancho del contenido
+about-reader-line-spacing-label =
+    .label = Espaciado entre líneas
