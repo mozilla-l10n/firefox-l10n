@@ -559,6 +559,8 @@ onboarding-many-tabs-title = Vaše panely, vaše volba
 onboarding-many-tabs-subtitle = Máte otevřeno mnoho panelů? Vyzkoušejte panely na boční straně a získejte tak přehlednější zobrazení. Nebo si zachovejte klasický vzhled s panely nahoře. Přepnout můžete kdykoliv.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Vyberte si rozložení panelů
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Chcete-li mít přehlednější zobrazení, které vám pomůže udržet pozornost, zkuste vertikální panely. Nebo si zachovejte klasický vzhled s panely nahoře. Přepnout můžete kdykoliv.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Panely na straně
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -625,7 +627,18 @@ onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému ú�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny karet, abyste měli méně nepořádku a více se soustředili.
+tab-groups-onboarding-feature-callout-subtitle = Vytvořte si pořádek přesunutím jednoho panelu na druhý, čímž vytvoříte svoji první skupinu.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title =
+    { -brand-full-name.case-status ->
+        [with-cases] Pozdravte profily { -brand-product-name(case: "gen") }
+       *[no-cases] Pozdravte profily aplikace { -brand-product-name }
+    }
+multi-profile-spotlight-body = Snadno přepínejte mezi prohlížením pro práci a zábavu. Profily uchovávají informace o procházení, včetně historie vyhledávání a hesel, zcela odděleně, takže si můžete udržet pořádek.
 multi-profile-spotlight-cta = Vytvořit profil
+multi-profile-callout-title = Vytvořte si různé profily pro práci a zábavu
+multi-profile-callout-subtitle = Profily umožňují uchovávat informace o procházení, jako je historie vyhledávání a hesla, zcela odděleně.
+multi-profile-callout-cta = Vytvořit profil

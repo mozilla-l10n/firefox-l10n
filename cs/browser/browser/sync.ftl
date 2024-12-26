@@ -47,5 +47,21 @@ sync-setup-verify-description = K synchronizaci v tomto počítači byl dříve 
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = V tomto profilu byl dosažen limit účtů
+sync-profile-different-account-header = Tento profil byl dříve synchronizován s jiným účtem
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Abychom udrželi vaše data uspořádaná a v bezpečí, každý profil { -brand-product-name(case: "gen") } může být synchronizován pouze s jedním účtem. Pro přihlášení pomocí účtu { $acctEmail } si vytvořte nový profil.
+       *[no-cases] Abychom udrželi vaše data uspořádaná a v bezpečí, každý profil aplikace { -brand-product-name } může být synchronizován pouze s jedním účtem. Pro přihlášení pomocí účtu { $acctEmail } si vytvořte nový profil.
+    }
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil byl synchronizován s jiným účtem
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Abyste měli ve svých datech pořádek a bezpečí, doporučujeme vytvořit nový profil a přihlašovat se pomocí účtu { $acctEmail }. Pokud se rozhodnete pokračovat v synchronizaci s tímto profilem, data z obou účtů budou natrvalo sloučena do profilu “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Účet je již používán
