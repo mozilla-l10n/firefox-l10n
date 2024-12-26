@@ -81,8 +81,8 @@ webext-perms-host-description-one-domain = Acceder a tus datos para sitios en do
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { NUMBER($domainCount) ->
-        [one] Acceder a tus datos para los sitios en dominios { $domain }
-       *[other] Acceder a tus datos para los sitios en dominios { $domain }
+        [one] Acceder a tus datos para los sitios en { $domainCount } dominio
+       *[other] Acceder a tus datos para los sitios en { $domainCount } dominios
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
