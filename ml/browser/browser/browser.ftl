@@ -187,6 +187,7 @@ urlbar-result-menu-tip-get-help =
 urlbar-search-mode-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 urlbar-search-mode-tabs = ടാബുകള്‍
 urlbar-search-mode-history = നാള്‍വഴി
+urlbar-search-mode-actions = പ്രവര്‍ത്തികൾ
 
 ##
 
@@ -215,12 +216,18 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = വിപുലീകരണം നിയന്ത്രിക്കുക……
+    .accesskey = വ
+page-action-remove-extension2 =
+    .label = വിപുലീകരണം മാറ്റുക
+    .accesskey = മ
 
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = ടൂള്‍ബാറുകള്‍ അദൃശ്യമാക്കുക
-    .accesskey = H
+    .label = കരുപ്പട്ടകൾ മറയ്ക്കുക
+    .accesskey = മ
 full-screen-exit =
     .label = പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും പുറത്തു് കടക്കുക
     .accesskey = F
@@ -231,7 +238,7 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = ഈ സമയം, ഇതുപയോഗിച്ച് തിരയുക:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
+    .tooltiptext = തിരച്ചിൽ ക്രമീകരണങ്ങൾ ‌മാറ്റുക
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
@@ -241,7 +248,7 @@ search-one-offs-context-set-as-default =
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
-    .label = തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക
+    .label = തിരയൽയന്ത്രം ചേർക്കുക
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -250,11 +257,31 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = അടയാളക്കുറിപ്പുകൾ ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = ടാബുകൾ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = നാൾവഴി ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = പ്രവർത്തനങ്ങൾ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the bookmarks library window
+quickactions-bookmarks2 = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
+quickactions-cmd-bookmarks = അടയാളക്കുറിപ്പുകള്‍
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = നാള്‍വഴി മായ്ക്കൂ
+quickactions-cmd-clearhistory = നാള്‍വഴി മായ്ക്കൂ
+# Opens about:downloads page
+quickactions-downloads2 = ഇറക്കിവയ്ക്കലുകൾ കാണുക
+quickactions-cmd-downloads = ഇറക്കിവയ്ക്കലുകൾ
+# Opens about:addons page in the extensions section
+quickactions-extensions = വിപുലീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
+quickactions-cmd-extensions = വിപുലീകരണങ്ങൾ
 quickactions-cmd-themes = അലങ്കാരങ്ങൾ
 
 ## Bookmark Panel
