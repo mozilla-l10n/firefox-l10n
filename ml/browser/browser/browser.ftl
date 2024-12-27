@@ -328,11 +328,26 @@ quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവി�
 
 bookmarks-add-bookmark = അടയാളക്കുറിപ്പു് ചേര്‍ക്കുക
 bookmarks-edit-bookmark = അടയാളക്കുറിപ്പു് തിരുത്തുക
+bookmark-panel-cancel =
+    .label = റദ്ദാക്കുക
+    .accesskey = റ
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] അടയാളക്കുറിപ്പു നീക്കം ചെയ്യുക
+            [one] ഒരടയാളക്കുറിപ്പു നീക്കം ചെയ്യുക
+           *[other] { $count } അടയാളക്കുറിപ്പുകൾ നീക്കം ചെയ്യുക
+        }
+    .accesskey = R
 bookmark-panel-save-button =
     .label = കരുതിവയ്ക്കുക
 
 ## Identity Panel
 
+identity-connection-not-secure = സമ്പർക്കം സുരക്ഷിതമല്ല
+identity-connection-secure = സമ്പമർക്കം സുരക്ഷിതമാണു്
 identity-connection-internal = ഇതു് സുരക്ഷിതമായൊരു { -brand-short-name } താള്‍ ആകുന്നു.
 identity-connection-file = ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.
 identity-extension-page = ഒരു എക്സ്റ്റന്‍ഷനില്‍നിന്നാണ് ഈ പേജ് ലോഡ് ചെയ്തിരിക്കുന്നത്.
@@ -341,7 +356,14 @@ identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്
 identity-active-loaded = താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.
 identity-weak-encryption = ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.
 identity-insecure-login-forms = ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.
+identity-https-only-dropdown-on =
+    .label = തുടങ്ങിയതു്
+identity-https-only-dropdown-off =
+    .label = അണച്ചതു്
+identity-permissions-storage-access-learn-more = കൂടുതല്‍ അറിയുക
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
+identity-clear-site-data =
+    .label = കുക്കികളും വെബ്ത്ഥാന ദത്തയും മായ്ക്കുക…
 identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
     .accesskey = R
@@ -368,11 +390,15 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ചെറുതാക്കുക
+browser-window-maximize-button =
+    .tooltiptext = വലുതാക്കുക
 browser-window-close-button =
     .tooltiptext = അടയ്ക്കുക
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ചിത്രത്തിൽ ചിത്രം
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -381,13 +407,33 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = അടയാളക്കുറിപ്പുകൾ ഇറക്കുമതിക്കുക...
+    .tooltiptext = മറ്റു് അന്വേഷിയന്ത്രം നിന്നു { -brand-short-name }ലേക്കു് അടയാളക്കുറിപ്പുകൾ ഇറക്കുമതിക്കുക...
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = ക്യാമറ:
+    .accesskey = ക
+popup-select-camera-icon =
+    .tooltiptext = ക്യാമറ
+popup-select-microphone-device =
+    .value = മൈക്രോഫോണ്‍
+    .accesskey = മ
+popup-select-microphone-icon =
+    .tooltiptext = മൈക്രോഫോണ്‍
+popup-select-speaker-icon =
+    .tooltiptext = ഉച്ചഭാഷിണി
+popup-select-window-or-screen =
+    .label = ജാലകം അല്ലെങ്കിൽ പ്രതലം
+    .accesskey = ജ
 popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = ടാബിലേക്ക് ചെല്ലുക
 
 ## DevTools F12 popup
 
@@ -421,6 +467,8 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച് തെരയുക
 urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
 
 ## Strings used for buttons in the urlbar
 
@@ -563,12 +611,20 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള ചില ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ ഡിആര്‍എം സോഫ്റ്റ്‌വെയര്‍ ഉപയോഗിയ്ക്കുന്നു. ഇതു് { -brand-short-name } ചെയ്യുന്നതിനു് പരിധി കല്‍പിയ്ക്കുന്നു.
+eme-notifications-drm-content-playing-manage-accesskey = മ
+eme-notifications-drm-content-playing-dismiss = കളയുക
+eme-notifications-drm-content-playing-dismiss-accesskey = ക
 
 ## Password save/update panel
 
+panel-save-update-username = ഉപയോക്തൃപ്പേരു്
+panel-save-update-password = രഹസ്യവാക്കു്
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = കൂടുതൽ…
 ui-tour-info-panel-close =
     .tooltiptext = അടയ്ക്കുക
 
@@ -585,7 +641,7 @@ popups-infobar-block =
 ##
 
 popups-infobar-dont-show-message =
-    .label = പോപ്പപ്പുകള്‍ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
+    .label = പൊന്തുവരികൾ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
     .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
