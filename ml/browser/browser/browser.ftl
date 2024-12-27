@@ -245,6 +245,14 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക
     .accesskey = D
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }” ചേർക്കുക
+    .tooltiptext = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
+    .aria-label = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -282,10 +290,44 @@ quickactions-cmd-downloads = ഇറക്കിവയ്ക്കലുകൾ
 # Opens about:addons page in the extensions section
 quickactions-extensions = വിപുലീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-extensions = വിപുലീകരണങ്ങൾ
+# Opens about:logins
+quickactions-logins2 = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+quickactions-cmd-logins = രഹസ്യവാക്കുകളും പ്രവേശനങ്ങളും
+# Opens the print dialog
+quickactions-print2 = അച്ചടിപ്പു് താളു്
+quickactions-cmd-print = അച്ചടിപ്പിക്കുക
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = പീഡീഎഫ ആയി കരുതിവയ്ക്കുക
+quickactions-cmd-savepdf = പീഡീഎഫ
+# Opens a new private browsing window
+quickactions-private2 = സ്വകാര്യ ജാലകം തുറക്കുക
+quickactions-cmd-private = സ്വകാര്യ തിരച്ചിൽ
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name } വീണ്ടും സജ്ജമാക്കുക
+quickactions-cmd-refresh = പുതുക്കുക
+# Restarts the browser
+quickactions-restart = { -brand-short-name } വീണ്ടും തുടങ്ങുക
+quickactions-cmd-restart = പുനരാരംഭിക്കുക
+# Opens the screenshot tool
+quickactions-screenshot3 = പ്രതലപ്പിളർപ്പു് എടുക്കുക
+quickactions-cmd-screenshot = പ്രതലപ്പിളർപ്പു്
+# Opens about:preferences
+quickactions-settings2 = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
+quickactions-cmd-settings = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും
+# Opens about:addons page in the themes section
+quickactions-themes = അലങ്കാരങ്ങളെ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-themes = അലങ്കാരങ്ങൾ
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } പുതുക്കുക
+quickactions-cmd-update = പുതുക്കുക
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = താളിന്റെ ഉറവിടം കാണുക
+quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവിടം
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = അടയാളക്കുറിപ്പു് ചേര്‍ക്കുക
+bookmarks-edit-bookmark = അടയാളക്കുറിപ്പു് തിരുത്തുക
 bookmark-panel-save-button =
     .label = കരുതിവയ്ക്കുക
 
