@@ -7,7 +7,14 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 about-logins-login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
     .key = F
+create-new-login-button =
+    .title = కొత్త ప్రవేశాన్ని సృష్టించు
 about-logins-page-title-name = సంకేతపదాలు
+about-logins-login-filter2 =
+    .placeholder = సంకేతపదాలను వెతుకు
+    .key = F
+create-login-button =
+    .title = సంకేతపదం జోడించు
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-sync-button = Sync లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
@@ -22,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = మరో విహా�
 about-logins-menu-menuitem-import-from-a-file = ఒక దస్త్రం నుండి దిగుమతించు…
 about-logins-menu-menuitem-export-logins = ప్రవేశాలను ఎగుమతించు…
 about-logins-menu-menuitem-remove-all-logins = ప్రవేశాలన్నిటినీ తొలగించు…
+about-logins-menu-menuitem-export-logins2 = సంకేతపదాలను ఎగుమతి చేయండి…
+about-logins-menu-menuitem-remove-all-logins2 = సంకేతపదాలన్నిటినీ తొలగించు…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ఎంపికలు
@@ -40,6 +49,13 @@ login-list-count =
         [one] { $count } ప్రవేశం
        *[other] { $count } ప్రవేశాలు
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } సంకేతపదం
+       *[other] { $count } సంకేతపదాలు
+    }
 login-list-sort-label-text = క్రమం:
 login-list-name-option = పేరు (A-Z)
 login-list-name-reverse-option = పేరు (Z-A)
@@ -49,8 +65,10 @@ about-logins-login-list-alerts-option = హెచ్చరికలు
 login-list-last-changed-option = చివరి మార్పు
 login-list-last-used-option = చివరగా వాడినది
 login-list-intro-title = ప్రవేశాలేమీ కనబడలేదు
+login-list-intro-title2 = సంకేతపదాలు ఏవీ భద్రపరచలేదు
 login-list-intro-description = మీరు { -brand-product-name }‌లో సంకేతపదాలను భద్రపరచినపుడు, అవి ఇక్కడ కనిపిస్తాయి.
 about-logins-login-list-empty-search-title = ప్రవేశాలేమీ కనబడలేదు
+about-logins-login-list-empty-search-title2 = సంకేతపదాలేమీ కనబడలేదు
 about-logins-login-list-empty-search-description = మీ వెతుకుడుకు సరిపోయే ఫలితాలు లేవు.
 login-list-item-title-new-login = కొత్త ప్రవేశం
 login-list-item-subtitle-new-login = మీ ప్రవేశ వివరాలు ఇవ్వండి
