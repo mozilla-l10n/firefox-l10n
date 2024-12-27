@@ -448,3 +448,4 @@ multi-profile-spotlight-title = { -brand-product-name } profilleriyle tanışın
 multi-profile-spotlight-cta = Profil oluşturun
 multi-profile-callout-title = İş ve eğlence için farklı profiller oluşturun
 multi-profile-callout-subtitle = Profiller, arama geçmişi ve parolalar gibi gezinti bilgilerinizi tamamen ayrı tutmanızı sağlar.
+multi-profile-callout-cta = Profil oluşturun
