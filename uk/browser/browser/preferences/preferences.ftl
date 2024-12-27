@@ -13,8 +13,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Завжди
 global-privacy-control-description =
-    .label = Вказувати вебсайтам не продавати та не ділитися моїми даними
-    .accesskey = п
+    .label = Вказувати вебсайтам не продавати мої дані та не ділитися ними
+    .accesskey = к
 non-technical-privacy-header = Налаштування приватності вебсайту
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
