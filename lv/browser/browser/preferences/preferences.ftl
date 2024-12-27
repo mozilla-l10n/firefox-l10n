@@ -153,7 +153,7 @@ open-new-link-as-tabs =
     .label = Vērt saites cilnēs nevis jaunos logos
     .accesskey = v
 confirm-on-close-multiple-tabs =
-    .label = Apstipriniet, pirms aizvērt vairākas cilnes
+    .label = Apstiprināt, pirms aizvērt vairākas cilnes
     .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
@@ -295,7 +295,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Izmantojiet operētājsistēmas “{ $localeName }” iestatījumus, lai formatētu datumus, laikus, skaitļus un mērus.
+    .label = Izmantot operētājsistēmas “{ $localeName }” iestatījumus, lai formatētu datumus, laiku, skaitļus un mērus.
 check-user-spelling =
     .label = Rakstot pārbaudīt pareizrakstību
     .accesskey = t
@@ -570,8 +570,7 @@ home-prefs-shortcuts-description = Vietnes, kuras saglabājat vai apmeklējat
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorētās saīsnes
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
