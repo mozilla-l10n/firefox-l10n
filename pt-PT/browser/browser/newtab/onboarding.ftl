@@ -387,6 +387,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eu já o utilizei, mas f
 onboarding-new-tabs-title = Diga-nos onde gostaria de ter os seus separadores
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Pode alterar quando quiser, nas definições da barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Os seus separadores, à sua maneira
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Tem muitos separadores abertos? Experimente colocar os seus separadores na lateral para uma vista mais simplificada. Ou mantenha o clássico com os separadores no topo. Pode mudar em qualquer altura.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Escolha a disposição dos seus separadores
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Separadores na lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +436,9 @@ onboarding-checklist-pin = Fixar o { -brand-short-name } na barra de tarefas
 onboarding-checklist-import = Importar do navegador anterior
 onboarding-checklist-extension = Adicionar uma extensão
 onboarding-checklist-sign-up = Registar ou iniciar sessão na sua conta
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
