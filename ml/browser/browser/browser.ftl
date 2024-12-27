@@ -150,9 +150,9 @@ urlbar-plugins-notification-anchor =
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = ഡാറ്റ പെർസിസ്റ്റന്റ് സംഭരണത്തിൽ സംഭരിക്കുക
+    .tooltiptext = ദത്ത ഉറച്ചനില സംഭരണത്തിൽ സംഭരിക്കുക
 urlbar-addons-notification-anchor =
-    .tooltiptext = ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക
+    .tooltiptext = ആഡ് ഓൺ സ്ഥാപിക്കൽ ഫലകം തുറക്കുക
 urlbar-tip-help-icon =
     .title = സഹായം തേടുക
 urlbar-search-tips-confirm = ശരി, മനസ്സിലായി
@@ -161,9 +161,11 @@ urlbar-search-tips-confirm-short = മനസ്സിലായി
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
-    .alt = ടിപ്സ്:
+    .alt = നുറുങ്ങ്:
 urlbar-result-menu-button =
     .title = കുറിപ്പടികട്ട തുറക്കുക
+urlbar-result-menu-button-feedback = പ്രതികരണം
+    .title = കുറിപ്പടിക്കട്ട തുറക്കുക
 urlbar-result-menu-learn-more =
     .label = കൂടുതൽ അറിയുക
     .accesskey = ക
