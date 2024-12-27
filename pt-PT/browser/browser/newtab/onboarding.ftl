@@ -390,9 +390,11 @@ onboarding-new-tabs-subtitle = Pode alterar quando quiser, nas definições da b
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Os seus separadores, à sua maneira
 # Setup screen for vertical tabs - subtitle for too many tabs variation
-onboarding-many-tabs-subtitle = Tem muitos separadores abertos? Experimente colocar os seus separadores na lateral para uma vista mais simplificada. Ou mantenha o clássico com os separadores no topo. Pode mudar em qualquer altura.
+onboarding-many-tabs-subtitle = Tem muitos separadores abertos? Experimente colocar os seus separadores na lateral para uma vista mais simplificada. Ou mantenha o clássico com os separadores no topo. Pode mudar a qualquer momento.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Escolha a disposição dos seus separadores
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para uma vista simplificada que pode ajudar a manter a sua concentração, experimente colocar os seus separadores na lateral. Ou mantenha-se com o clássico com os separadores no topo. Pode mudar a qualquer momento.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Separadores na lateral
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -439,6 +441,8 @@ onboarding-checklist-sign-up = Registar ou iniciar sessão na sua conta
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Grupos de separadores: menos confusão, mais concentração
+tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separador sobre o outro para criar o seu primeiro grupo.
 
 ## Multi Profiles feature onboarding messages
 
