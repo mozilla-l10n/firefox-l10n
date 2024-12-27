@@ -50,6 +50,14 @@ login-list-count =
        *[other] { $count } ప్రవేశాలు
     }
 # Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } ప్రవేశంలో { $count }
+       *[other] { $total } ప్రవేశాలలో { $count }
+    }
+# Variables
 #   $count (number) - Number of logins
 login-list-count2 =
     { $count ->
@@ -72,6 +80,7 @@ about-logins-login-list-empty-search-title2 = సంకేతపదాలేమ�
 about-logins-login-list-empty-search-description = మీ వెతుకుడుకు సరిపోయే ఫలితాలు లేవు.
 login-list-item-title-new-login = కొత్త ప్రవేశం
 login-list-item-subtitle-new-login = మీ ప్రవేశ వివరాలు ఇవ్వండి
+login-list-item-title-new-login2 = సంకేతపదం జోడించండి
 login-list-item-subtitle-missing-username = (వాడుకరి పేరు లేదు)
 about-logins-list-item-breach-icon =
     .title = ఉల్లంఘిత వెబ్‌సైటు
@@ -89,6 +98,7 @@ about-logins-list-section-week = గత 7 రోజులు
 about-logins-login-intro-heading-logged-out2 = మీరు భద్రపరచుకున్న ప్రవేశాల కోసం చూస్తున్నారా? వాటిని దిగుమతి చేసుకోండి లేదా సింక్‌ను చేతనం చేసుకోండి.
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
+about-logins-login-intro-heading-message = మీ సంకేతపదాలను ఒక సురక్షిత ప్రదేశంలో భద్రపరచండి
 login-intro-instructions-fxa-passwords-help = మరింత సహాయం కోసం <a data-l10n-name="passwords-help-link">సంకేతపదాల తోడ్పాటు</a>ను చూడండి.
 
 ## Login
