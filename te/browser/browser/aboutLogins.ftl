@@ -54,8 +54,8 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $total } ప్రవేశంలో { $count }
-       *[other] { $total } ప్రవేశాలలో { $count }
+        [one] మొత్తం { $total }లో { $count } ప్రవేశం
+       *[other] మొత్తం { $total }లో { $count } ప్రవేశాలు
     }
 # Variables
 #   $count (number) - Number of logins
@@ -63,6 +63,14 @@ login-list-count2 =
     { $count ->
         [one] { $count } సంకేతపదం
        *[other] { $count } సంకేతపదాలు
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] మొత్తం { $total }లో { $count } సంకేతపదం
+       *[other] మొత్తం { $total }లో { $count } సంకేతపదాలు
     }
 login-list-sort-label-text = క్రమం:
 login-list-name-option = పేరు (A-Z)
@@ -118,6 +126,8 @@ login-item-copied-username-button-text = కాపీ అయ్యింది!
 login-item-password-label = సంకేతపదం
 login-item-password-reveal-checkbox =
     .aria-label = సంకేతపదాన్ని చూపించు
+login-item-password-conceal-checkbox =
+    .aria-label = సంకేతపదాన్ని దాచు
 login-item-copy-password-button-text = కాపీచేయి
 login-item-copied-password-button-text = కాపీ అయ్యింది!
 login-item-save-changes-button = మార్పులను భద్రపరుచు
@@ -262,6 +272,9 @@ about-logins-export-file-picker-title = ప్రవేశాల ఎగుమత
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = ఎగుమతించు
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -275,6 +288,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ప్రవేశాల దిగుమతి దస్త్రం
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = సంకేతపదాలను { -brand-short-name }కి దిగుమతి చేయండి
 about-logins-import-file-picker-import-button = దిగుమతించు
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
