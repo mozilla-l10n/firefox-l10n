@@ -446,3 +446,4 @@ tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separ
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Diga olá aos perfis do { -brand-product-name }
