@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obter alertas de violações de dados
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mascare o seu e-mail e telefone reais
+appmenuitem-services-relay-description = Iniciar o painel de máscaras de e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Proteja a sua privacidade na Internet
+appmenu-services-header = Os meus serviços
+appmenu-other-protection-header = Experimente outras ferramentas de proteção da { -vendor-short-name }:
 
 ## Profiles panel
 
