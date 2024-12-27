@@ -51,6 +51,30 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } نجی براؤزنگ
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .*-with-profile are for use when there a SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } نجی براؤزنگ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } نجی براؤزنگ
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } نجی براؤزنگ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } نجی براؤزنگ
 
 ##
 
@@ -964,9 +988,6 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = ڈیٹا ضایا تِھیوݨ کنوں بچاء (ڈی ایل پی) بذریعہ { $agentName }۔ ودھیک معلومات کِیتے دباؤ۔
 content-analysis-panel-title = ڈیٹا حفاظت
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = تُہاݙی تنظیم ڈیٹا دے ضایا تِھیوݨ کنوں بچاوݨ کِیتے { $agentName } دا استعمال کرین٘دی ہِے۔ <a data-l10n-name="info"> ودھیک ڄاݨو</a>
 
 ## Unified extensions (toolbar) button
 
@@ -991,6 +1012,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
