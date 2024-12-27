@@ -48,7 +48,7 @@ warningDesc-version = { -brand-short-name } ir izstrādē un var būt nestabils.
 aboutdialog-help-user = { -brand-product-name } palīdzība
 aboutdialog-submit-feedback = Iesniegt atsauksmi
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ir <label data-l10n-name="community-exp-creditsLink">globāla kopiena</label> , kas strādā, lai tīmeklis būtu atvērts, publisks un pieejams visiem.
-community-2 = { -brand-short-name } veido <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">globāla kopiena</label>, kas strādā, lai tīmeklis būtu atvērts, publisks un visiem pieejams.
+community-2 = { -brand-short-name } veido <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">globāla kopiena</label>, kas strādā, lai tīmeklis būtu atvērts, publisks un visiem pieejams.
 helpus = Vai vēlaties palīdzēt? <label data-l10n-name="helpus-donateLink">Ziedojiet</label> vai <label data-l10n-name="helpus-getInvolvedLink">iesaistieties!</label>
 bottomLinks-license = Licencēšanas informācija
 bottomLinks-rights = Galalietotāja tiesības
