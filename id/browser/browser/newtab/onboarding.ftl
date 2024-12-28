@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Gunakan peramban yang didukung oleh org
 mr2022-onboarding-get-started-primary-subtitle = Versi terbaru kami dibangun untuk Anda, membuatnya lebih mudah dari sebelumnya untuk menjelajah web. Penuh dengan fitur yang kami rasa akan Anda sukai.
 mr2022-onboarding-get-started-primary-button-label = Siapkan dalam hitungan detik
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Pengaturan secepat kilat
 mr2022-onboarding-import-subtitle = Siapkan { -brand-short-name } sesuai keinginan Anda. Tambahkan markah, sandi, dan lainnya dari peramban lama Anda.
@@ -424,3 +426,13 @@ onboarding-checklist-pin = Sematkan { -brand-short-name } di taskbar
 onboarding-checklist-import = Impor dari peramban sebelumnya
 onboarding-checklist-extension = Tambahkan ekstensi
 onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = Buat profil
+multi-profile-callout-title = Buat profil berbeda untuk bekerja dan bersenang-senang
+multi-profile-callout-subtitle = Profil memungkinkan Anda menyimpan info penjelajahan Anda, seperti riwayat pencarian dan kata sandi, benar-benar terpisah.
+multi-profile-callout-cta = Buat profil
