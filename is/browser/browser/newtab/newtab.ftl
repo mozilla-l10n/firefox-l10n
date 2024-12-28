@@ -464,5 +464,6 @@ newtab-section-unfollow-button = Hætta að fylgjast með
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Ertu viss um að þú viljir loka á þennan hluta?
+newtab-section-confirm-block-section-p2 = Hluti sem lokað er á mun ekki lengur birtast í streyminu þínu.
 newtab-section-block-section-button = Loka á þennan hluta
 newtab-section-cancel-button = Ekki núna
