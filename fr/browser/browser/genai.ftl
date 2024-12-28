@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Explique ceci
     .value = Explique les concepts clés du texte sélectionné, en utilisant des mots simples. Utilise également des exemples.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Relis
+    .value = Relis la sélection et détecte les fautes d’orthographe et de grammaire. Identifie les erreurs et fournis une version corrigée du texte. Préserve le sens et l’exactitude des faits et fournis d’abord la liste des corrections proposées, suivie de la version finale et corrigée du texte.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -135,6 +139,5 @@ genai-onboarding-gemini-price = Options gratuites et payantes ; compte nécessa
 genai-onboarding-huggingchat-generate = Générer du texte et du code
 genai-onboarding-huggingchat-switch = Passer d’un modèle à un autre parmi un éventail de modèles ouverts
 genai-onboarding-huggingchat-price-2 = Gratuit ; compte nécessaire après un certain nombre de requêtes
-genai-onboarding-huggingchat-price = Gratuit ; compte nécessaire pour certaines tâches
 genai-onboarding-lechat-generate = Générer du texte et du code
 genai-onboarding-lechat-price = Gratuit ; compte nécessaire

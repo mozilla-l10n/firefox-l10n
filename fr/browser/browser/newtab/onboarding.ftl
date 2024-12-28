@@ -394,6 +394,8 @@ onboarding-new-tabs-subtitle = Changez de mode à tout moment depuis les paramè
 onboarding-many-tabs-title = Vos onglets, à votre manière
 # Setup screen for vertical tabs - subtitle for too many tabs variation
 onboarding-many-tabs-subtitle = Vous gardez toujours un grand nombre d’onglets ouverts ? Essayez de placer vos onglets sur le côté pour une vue plus épurée. Ou optez pour le style classique avec les onglets en haut. Changez de disposition à tout moment.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Choisissez la disposition de vos onglets
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Onglets sur le côté
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -443,3 +445,6 @@ onboarding-checklist-sign-up = Créer un compte ou vous connecter
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Créer un profil
+multi-profile-callout-subtitle = Les profils vous permettent de séparer totalement vos informations de navigation, comme votre historique de recherche et vos mots de passe.
+multi-profile-callout-cta = Créer un profil
