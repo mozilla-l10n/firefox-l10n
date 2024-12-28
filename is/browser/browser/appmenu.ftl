@@ -280,9 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Fáðu tilkynningar um gagnarán
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
+appmenuitem-services-relay-description = Ræsa stjórnborðið fyrir tölvupósthulur
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Verndaðu friðhelgi þína á netinu
 appmenu-services-header = Þjónusturnar mínar
+appmenu-other-protection-header = Prófa önnur verndunarverkfæri frá { -vendor-short-name }:
 
 ## Profiles panel
 
