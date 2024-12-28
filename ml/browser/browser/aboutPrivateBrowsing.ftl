@@ -34,6 +34,16 @@ about-private-browsing-focus-promo-header-b = സ്വകാര്യ തിര
 about-private-browsing-focus-promo-text-b = ആ സ്വകാര്യ തിരച്ചിലുകൾ താങ്ങളുടെ പ്രധാന മൊബൈൽ അന്വേഷിയന്ത്രം കാണാതിരിക്കാനായി { -focus-brand-name } ഉപയോഗിക്കുക
 about-private-browsing-focus-promo-header-c = മൊബൈലിൽ അടിപ്പൊളി സ്വകാര്യത
 about-private-browsing-focus-promo-text-c = പരസ്യങ്ങളുടെ പിന്തുടർച്ചയന്ത്രങ്ങളും തടയുമ്പോഴു് { -focus-brand-name } താങ്ങളുടെ നാൾവഴി ഓരോ വട്ടം മായ്ക്കാരുണ്ടു്.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } സ്വകാര്യ ജാലകങ്ങളിൽ താങ്ങളുടെ തന്നുതായ തിരയൽയന്ത്രമാണു്.
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] വേറെയൊരു തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കാൻ <a data-l10n-name="link-options">സാധ്യതകളിലേക്കു്</a> ചെല്ലുക
+       *[other] വേറെയൊരു തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കാൻ <a data-l10n-name="link-options">മുൻഗണനകളിലേക്കു്</a> ചെല്ലുക
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
 about-private-browsing-promo-close-button =
@@ -47,12 +57,17 @@ about-private-browsing-pin-promo-link-text =
         [macos] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
        *[other] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
     }
+about-private-browsing-pin-promo-title = താങ്ങളുടെ ഉപരിഫലകം നിന്ന് തന്നെ, കുക്കികളും നാൾവഴിയും കരുതിവയ്ക്കാതെ. ആരും കാണാത്ത പോലെ പരതുക.
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = കുക്കിപൊന്തുവരലുകൾ അകലെ പോവുക!
 about-private-browsing-cookie-banners-promo-button = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
 
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = ഈ ഉപകരണത്തിൽ ലക്ഷണമെങ്കിലും വിടരുതു്
+about-private-browsing-felt-privacy-v1-info-body = താങ്ങളുടെ എല്ലാ സ്വകാര്യ ജാലകങ്ങളും അടയ്ക്കുമ്പോഴു് { -brand-short-name } താങ്ങളുടെ കുക്കികളും നാൾവഴിയും സൈറ്റ് ദത്തയും എന്നിവ മായ്ക്കന്നു.
 about-private-browsing-felt-privacy-v1-info-link = ആൎക്കൊക്കെ എന്റെ പ്രവർത്തനം കാണാൻ കഴിഞ്ഞേക്കും?
