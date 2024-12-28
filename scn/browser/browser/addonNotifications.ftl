@@ -16,10 +16,15 @@ xpinstall-prompt-header-unknown = Pirmèttiri a stu situ scanusciutu di nzitari 
 xpinstall-prompt-message-unknown = Sta' pruvannu a nzitari na juncitina d'un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
 xpinstall-prompt-dont-allow =
     .label = Nun u pirmèttiri
-    .accesskey = N
+    .accesskey = D
 xpinstall-prompt-never-allow =
     .label = Nun pirmèttiri mai
-    .accesskey = m
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Signalija situ suspettu
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -37,7 +42,7 @@ xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu disabbilitatu dâ t
 xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
 xpinstall-disabled-button =
     .label = Abbìlita
-    .accesskey = A
+    .accesskey = n
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -72,10 +77,10 @@ addon-downloading-and-verifying =
 addon-download-verifying = Staju virificannu
 addon-install-cancel-button =
     .label = Sfai
-    .accesskey = S
+    .accesskey = C
 addon-install-accept-button =
     .label = Junci
-    .accesskey = J
+    .accesskey = A
 
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
