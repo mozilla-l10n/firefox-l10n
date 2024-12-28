@@ -204,8 +204,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Hætta við
     .accesskey = H
+tab-group-menu-header = Flipahópar
 tab-context-unnamed-group =
     .label = Ónefndur hópur
+tab-group-name-default = Ónefndur hópur
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

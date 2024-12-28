@@ -53,3 +53,6 @@ sync-account-in-use-header = Reikningur er þegar í notkun
 sync-button-switch-profile = Skipta yfir í „{ $profileName }“
 sync-button-create-profile = Búa til nýtt notkunarsnið
 sync-button-sync-and-merge = Samstilla og sameina gögn
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Samstilla „{ $profileName }“

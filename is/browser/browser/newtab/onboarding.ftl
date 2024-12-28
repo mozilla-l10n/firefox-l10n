@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Notaðu vafra sem studdur er af sjálfs
 mr2022-onboarding-get-started-primary-subtitle = Nýjasta útgáfan okkar er byggð með þarfir þínar í huga, sem gerir það auðveldara en nokkru sinni fyrr að skjótast um vefinn. Þarna er fullt af eiginleikum sem við höldum að þú munir kunna að meta.
 mr2022-onboarding-get-started-primary-button-label = Settu upp á nokkrum sekúndum
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Uppsetning í einum grænum
 mr2022-onboarding-import-subtitle = Settu upp { -brand-short-name } eins og þér hentar. Bættu við bókamerkjunum þínum, lykilorðum og fleiru úr gamla vafranum þínum.
@@ -388,6 +390,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ég hef notaði það á
 onboarding-new-tabs-title = Segðu okkur hvar þú vilt hafa flipana þína
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Skiptu um þetta hvenær sem er í stillingum hliðarstikunnar.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Þínir flipar, á þinn hátt
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Flipar til hliðar
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +435,9 @@ onboarding-checklist-pin = Festu { -brand-short-name } á verkefnastikuna
 onboarding-checklist-import = Flytja inn úr fyrri vafra
 onboarding-checklist-extension = Bæta við forritsauka
 onboarding-checklist-sign-up = Nýskráðu þig eða skráðu þig inn á reikninginn þinn
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

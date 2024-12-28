@@ -457,3 +457,8 @@ newtab-topic-selection-button-pick-interests = Veldu áhugamálin þín
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+
+## Confirmation modal for blocking a section
+
+newtab-section-block-section-button = Loka á þennan hluta
+newtab-section-cancel-button = Ekki núna

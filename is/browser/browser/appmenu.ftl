@@ -282,6 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Verndaðu friðhelgi þína á netinu
+appmenu-services-header = Þjónusturnar mínar
 
 ## Profiles panel
 
