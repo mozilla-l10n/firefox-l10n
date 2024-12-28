@@ -491,9 +491,9 @@ details-notification-softblocked = { $name } 已知会导致安全性或稳定�
 details-notification-softblocked2 =
     .message = { $name } 已知会导致安全性或稳定性问题。
 details-notification-softblocked-link = 了解详情
-details-notification-gmp-pending = { $name } 即将安装。
+details-notification-gmp-pending = “{ $name }”即将安装。
 details-notification-gmp-pending2 =
-    .message = { $name } 即将安装。
+    .message = “{ $name }”即将安装。
 
 ## Gecko Media Plugins (GMPs)
 
