@@ -444,6 +444,7 @@ onboarding-checklist-sign-up = Créer un compte ou vous connecter
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
 
 ## Multi Profiles feature onboarding messages
 
