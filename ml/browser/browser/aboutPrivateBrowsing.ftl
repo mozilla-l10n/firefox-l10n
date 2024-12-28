@@ -22,11 +22,18 @@ about-private-browsing-not-private = നിങ്ങള്‍ നിലവില
 about-private-browsing-learn-more-link = കൂടുതൽ അറിയുക
 about-private-browsing-hide-activity = താങ്ങൾ തിരയുന്ന എല്ലായിടത്തും താങ്ങളുടെ പ്രവർത്തനവും സ്ഥാനവും മറയ്ക്കുക
 about-private-browsing-get-privacy = താങ്ങൾ പരതുന്ന എല്ലായിടത്തും സ്വകാര്യത പരിരക്ഷണം നേടുക
+about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ഉപയോഗിച്ച് തിരച്ചിൽ പ്രവർത്തനവും സ്ഥാനവും മറയ്ക്കുക. പൊതു വൈഫൈയിൽ പോലും ഒരു അമർത്തലൂടെ ഒരു സുരക്ഷിത സമ്പർക്കം സൃഷ്ടിക്കുന്നു.
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ഉപയോഗിച്ചു് സ്വകാര്യമായി തുടരുക
+about-private-browsing-focus-promo-cta = { -focus-brand-name } ഇറക്കിവയ്ക്കുക
+about-private-browsing-focus-promo-header = { -focus-brand-name }: എവിടെയായിരുന്നാലും സ്വകാര്യ തിരച്ചിൽ
+about-private-browsing-focus-promo-text = ഞങ്ങളുടെ സമർപ്പിത സ്വകാര്യ തിരച്ചിൽ മൊബൈൽ പ്രയോഗം ഓരോ തവണയും താങ്ങളുടെ നാൾവഴിയും കുക്കികളും മായ്ക്കുന്നു.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = സ്വകാര്യ തിരച്ചിൽ താങ്ങളുടെ ഫോണിലേക്കു് എടുത്തുകൊണ്ടുപോവുക
+about-private-browsing-focus-promo-text-b = ആ സ്വകാര്യ തിരച്ചിലുകൾ താങ്ങളുടെ പ്രധാന മൊബൈൽ അന്വേഷിയന്ത്രം കാണാതിരിക്കാനായി { -focus-brand-name } ഉപയോഗിക്കുക
 about-private-browsing-focus-promo-header-c = മൊബൈലിൽ അടിപ്പൊളി സ്വകാര്യത
+about-private-browsing-focus-promo-text-c = പരസ്യങ്ങളുടെ പിന്തുടർച്ചയന്ത്രങ്ങളും തടയുമ്പോഴു് { -focus-brand-name } താങ്ങളുടെ നാൾവഴി ഓരോ വട്ടം മായ്ക്കാരുണ്ടു്.
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
 about-private-browsing-promo-close-button =
