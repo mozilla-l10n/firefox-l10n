@@ -63,6 +63,11 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nuvità
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Abbìsami dî funzioni novi
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -120,22 +125,37 @@ appmenu-recently-closed-windows =
 appmenu-help-header =
     .title = Ajutu di { -brand-shorter-name }
 appmenu-about =
-    .label = Supra { -brand-shorter-name }
+    .label = Nfurmazzioni supra a { -brand-shorter-name }
+    .accesskey = A
+appmenu-get-help =
+    .label = Addumanna ajutu
+    .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = Autri nfurmazzioni p'arrisòrbiri prubblemi
+    .accesskey = t
+appmenu-help-share-ideas =
+    .label = Sparti pinzeri e cummenti…
     .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Mudalità abbirsamentu prubblemi…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Sdisattiva a mudalità abbirsamentu
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
     .label = Signalija situ fallaci…
-    .accesskey = S
+    .accesskey = d
 appmenu-help-not-deceptive =
     .label = Chistu nun è un situ fallaci…
-    .accesskey = n
+    .accesskey = d
 
 ## More Tools
 
