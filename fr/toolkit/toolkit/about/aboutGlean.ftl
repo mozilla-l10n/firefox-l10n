@@ -41,6 +41,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-d
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
+about-glean-additional-links = Pour une explication sur les différentes façons d’enregistrer et de rechercher des données, veuillez consulter l’onglet <strong>À propos des données</strong>.
 about-glean-about-testing-header = À propos des tests
 # This message is followed by a numbered list.
 about-glean-manual-testing = Les instructions complètes sont détaillées dans la <a data-l10n-name="fog-instrumentation-test-doc-link">documentation des tests d’instrumentation de { -fog-brand-name }</a> et dans la <a data-l10n-name="glean-sdk-doc-link">documentation de { glean-sdk-brand-name }</a> mais, en résumé, pour tester manuellement que votre instrumentation fonctionne, voici ce que vous devriez faire :
@@ -78,12 +79,21 @@ about-glean-adhoc-note =
     Veuillez noter que vous utilisez l’API Glean JS en utilisant la console des outils de développement.
     Cela implique que la catégorie et le nom des métriques sont au format
     <code>camelCase</code> contrairement à l’usage des API Rust et C++.
+about-glean-profiler-explanation =
+    Pour avoir une vue complète de toutes les métriques enregistrées, vous pouvez utiliser le { -profiler-brand-name }.
+    Vous devez d’abord <a data-l10n-name="firefox-profiler-link">capturer un profil de performances</a>.
+    Une fois le profil capturé, sélectionnez <q>Graphique des marqueurs</q> et observez les marqueurs sous <q>Télémétrie</q>.
+about-glean-profiler-explanation-profiler = Dans le profil de performances, vous pouvez voir toutes les métriques collectées, quand elles ont été collectées, et quelles valeurs exactement ont été collectées. En survolant individuellement les marqueurs, vous pouvez vérifier que la bonne valeur a été collectée et que la collecte a eu lieu au bon moment.
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
 about-glean-feedback-settings-only =
     .message = Paramètres appliqués !
 about-glean-feedback-settings-and-ping =
     .message = Paramètres appliqués et ping envoyé !
 about-glean-about-data-header = À propos des données
+about-glean-about-data-description = Vous pouvez utiliser différents outils pour consulter vos données, selon ce que vous recherchez.
+about-glean-about-data-description-list-intro = Veuillez vous référer à la liste ci-dessous pour les cas d’utilisation spécifiques à chaque outil :
 about-glean-about-data-list-item-dictionary = Pour visualiser la liste des données collectées par { -glean-brand-name } par application, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>
 about-glean-about-data-list-item-about-telemetry = Pour visualiser les données collectées par l’ancienne télémétrie, veuillez consulter <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer = Pour parcourir les balises de débogage, obtenir des pings complets, voir un évènement en direct ou consulter une visualisation des métriques, veuillez consulter la <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler = Pour enregistrer un profil de performances et voir toutes les métriques enregistrées, veuillez utiliser le <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation = Pour visualiser la liste des données collectées, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>

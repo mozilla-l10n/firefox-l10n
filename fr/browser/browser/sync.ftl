@@ -64,6 +64,11 @@ sync-account-in-use-description = Vous ne pouvez associer ce compte qu’à un s
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Ce compte est connecté à un autre profil. Synchroniser les deux profils ?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = L’adresse { $acctEmail } est connectée au profil « { $otherProfile } » sur cet ordinateur. La synchronisation du profil « { $currentProfile } » combinera de façon permanente les données des deux profils, telles que les mots de passe et les marque-pages.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Passer à « { $profileName } »
 sync-button-create-profile = Créer un nouveau profil
