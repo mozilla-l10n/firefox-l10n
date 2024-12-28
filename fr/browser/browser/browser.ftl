@@ -711,6 +711,9 @@ urlbar-result-action-search-bookmarks = Rechercher dans les marque-pages
 urlbar-result-action-search-history = Rechercher dans l’historique
 urlbar-result-action-search-tabs = Rechercher dans les onglets
 urlbar-result-action-search-actions = Actions de recherche
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Passer à { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ouvrir { $group }

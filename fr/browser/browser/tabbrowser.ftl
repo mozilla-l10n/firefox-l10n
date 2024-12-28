@@ -194,8 +194,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuler
     .accesskey = A
+tab-group-menu-header = Groupes d’onglets
 tab-context-unnamed-group =
     .label = Groupe sans nom
+tab-group-name-default = Groupe sans nom
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

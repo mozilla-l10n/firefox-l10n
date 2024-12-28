@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Utilisez un navigateur soutenu par une 
 mr2022-onboarding-get-started-primary-subtitle = Notre dernière version est conçue sur mesure pour vous, ce qui facilite plus que jamais la navigation sur le Web. Cette dernière version regorge de fonctionnalités que vous allez adorer.
 mr2022-onboarding-get-started-primary-button-label = Configurer en quelques secondes
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuration ultra-rapide
 mr2022-onboarding-import-subtitle = Configurez { -brand-short-name } à votre guise. Ajoutez vos marque-pages, mots de passe et plus encore depuis votre ancien navigateur.
@@ -388,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Je l’ai utilisé autre
 onboarding-new-tabs-title = Dites-nous où vous souhaitez placer vos onglets
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Changez de mode à tout moment depuis les paramètres du panneau latéral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Vos onglets, à votre manière
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Vous gardez toujours un grand nombre d’onglets ouverts ? Essayez de placer vos onglets sur le côté pour une vue plus épurée. Ou optez pour le style classique avec les onglets en haut. Changez de disposition à tout moment.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Onglets sur le côté
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +437,9 @@ onboarding-checklist-pin = Épingler { -brand-short-name } à la barre des tâch
 onboarding-checklist-import = Importer depuis un ancien navigateur
 onboarding-checklist-extension = Installer une extension
 onboarding-checklist-sign-up = Créer un compte ou vous connecter
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
