@@ -20,6 +20,8 @@ about-private-browsing-handoff-text = { $engine } ഉപയോഗിച്ച്
 about-private-browsing-handoff-text-no-engine = തിരയുക അല്ലെങ്കിൽ വിലാസം നൽകുക
 about-private-browsing-not-private = നിങ്ങള്‍ നിലവില്‍ ഒരു സ്വകാര്യ ജാലകത്തിലല്ല.
 about-private-browsing-learn-more-link = കൂടുതൽ അറിയുക
+about-private-browsing-hide-activity = താങ്ങൾ തിരയുന്ന എല്ലായിടത്തും താങ്ങളുടെ പ്രവർത്തനവും സ്ഥാനവും മറയ്ക്കുക
+about-private-browsing-get-privacy = താങ്ങൾ പരതുന്ന എല്ലായിടത്തും സ്വകാര്യത പരിരക്ഷണം നേടുക
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
