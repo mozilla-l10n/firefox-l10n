@@ -393,9 +393,11 @@ onboarding-new-tabs-subtitle = Changez de mode à tout moment depuis les paramè
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Vos onglets, à votre manière
 # Setup screen for vertical tabs - subtitle for too many tabs variation
-onboarding-many-tabs-subtitle = Vous gardez toujours un grand nombre d’onglets ouverts ? Essayez de placer vos onglets sur le côté pour une vue plus épurée. Ou optez pour le style classique avec les onglets en haut. Changez de disposition à tout moment.
+onboarding-many-tabs-subtitle = Vous gardez toujours un grand nombre d’onglets ouverts ? Essayez de placer vos onglets sur le côté pour une vue plus épurée. Ou optez pour le style classique avec les onglets en haut. Changez de mode à tout moment.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Choisissez la disposition de vos onglets
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Pour une vue épurée qui vous aide à garder votre concentration, essayez de placer vos onglets sur le côté. Ou conservez le style classique avec les onglets en haut. Changez de mode à tout moment.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Onglets sur le côté
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
