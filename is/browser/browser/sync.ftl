@@ -49,10 +49,24 @@ sync-setup-verify-description = Annar notandi á þessari tölvu var áður skr�
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Hámarki reikninga náð fyrir þetta notkunarsnið
 sync-profile-different-account-header = Þetta notkunarsnið var áður samstillt við annan reikning
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Til að halda gögnunum þínum skipulögðum og öruggum er aðeins hægt að samstilla hvert { -brand-product-name } notkunarsnið við einn reikning. Til að skrá þig inn með { $acctEmail } skaltu búa til nýtt notkunarsnið.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Notkunarsnið samstillt við annan reikning
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Til að halda gögnunum þínum skipulögðum og öruggum mælum við með að búa til nýtt notkunarsnið til að skrá þig inn með { $acctEmail }. Ef þú velur að halda áfram að samstilla á þessu notkunarsniði, verða gögn frá báðum reikningum varanlega sameinuð á „{ $profileName }“.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Reikningur er þegar í notkun
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } er þegar skráð inn á „{ $otherProfile }“ notkunarsniðið
+sync-account-in-use-description = Þú getur aðeins tengt þennan reikning við eitt notkunarsnið á þessari tölvu.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Þessi reikningur er skráður inn á annað notkunarsnið. Samstilla bæði notkunarsniðin?
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Skipta yfir í „{ $profileName }“
