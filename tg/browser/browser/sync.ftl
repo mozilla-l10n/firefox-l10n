@@ -41,7 +41,12 @@ sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехо�
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Ин профил то ҳадди аксари ҳисобҳо расид
 sync-profile-different-account-header = Ин профил қаблан бо ҳисоби дигар ҳамоҳанг карда шуд
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Барои ба таври муташаккил ва бехатар нигоҳ доштани маълумоти худ, ҳар як профили «{ -brand-product-name }» метавонад танҳо бо як ҳисоб ҳамоҳанг карда шавад. Барои ворид шудан ба воситаи { $acctEmail }, профили наверо эҷод намоед.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Профил бо ҳисоби дигар ҳамоҳанг карда шудааст
 # Dialog 2 - account signed in on another profile without option to merge
