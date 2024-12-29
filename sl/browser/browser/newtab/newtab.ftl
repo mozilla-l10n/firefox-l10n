@@ -464,5 +464,7 @@ newtab-section-unfollow-button = Nehaj slediti
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Ali ste prepričani, da želite blokirati ta razdelek?
+newtab-section-confirm-block-section-p2 = Blokirani razdelek se ne bo več prikazoval v vašem viru.
 newtab-section-block-section-button = Blokiraj ta razdelek
 newtab-section-cancel-button = Ne zdaj

@@ -448,3 +448,4 @@ tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en 
 
 multi-profile-spotlight-title = Spoznajte { -brand-product-name }ove profile
 multi-profile-spotlight-cta = Ustvari profil
+multi-profile-callout-cta = Ustvari profil

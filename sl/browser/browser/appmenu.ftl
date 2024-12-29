@@ -280,9 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Prejemajte opozorila o krajah podatkov
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zakrijte svoj pravi e-poštni naslov in telefonsko številko
+appmenuitem-services-relay-description = Odpri pregledno ploščo e-poštnih mask
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaščitite svojo spletno dejavnost
 appmenu-services-header = Moje storitve
+appmenu-other-protection-header = Preskusite druga orodja { -vendor-short-name(sklon: "rodilnik") } za zaščito:
 
 ## Profiles panel
 

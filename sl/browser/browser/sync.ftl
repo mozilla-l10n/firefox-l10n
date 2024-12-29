@@ -50,6 +50,7 @@ sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računal
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Za ta profil je dosežena omejitev računov
+sync-profile-different-account-header = Ta profil se je prej sinhroniziral z drugim računom
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil se sinhronizira z drugim računom
 # Dialog 2 - account signed in on another profile without option to merge
