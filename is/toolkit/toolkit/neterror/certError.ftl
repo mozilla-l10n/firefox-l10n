@@ -73,6 +73,11 @@ open-in-new-window-for-csp-or-xfo-error = Opna vefsvæði í nýjum glugga
 csp-xfo-blocked-long-desc = Til að tryggja öryggi þitt mun { $hostname } ekki leyfa { -brand-short-name } að birta síðuna ef annað vefsvæði hefur fellt hana inn í sínar síður. Til að skoða þessa síðu þarftu að opna hana í nýjum glugga.
 fp-certerror-view-certificate-link = Skoða skilríki vefsvæðis
 fp-certerror-return-to-previous-page-recommended-button = Fara til baka (ráðlagt)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Vefsvæðið er sett upp til að leyfa aðeins öruggar tengingar, en hins vegar er vandamál með skilríki vefsins. Hugsanlega er óprúttinn aðili að reyna að líkja eftir vefsvæðinu. Vefsvæði nota skilríki gefin út af vottunarstöðvum til að sanna að þau séu í raun og veru það sem þau segjast vera. { -brand-short-name } treystir ekki þessu vefsvæði vegna þess að skilríki þess er ekki gilt fyrir { $hostname }. Skilríkið gildir aðeins fyrir: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ekki margt. Það virðist vera vandamál með þetta vefsvæði.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

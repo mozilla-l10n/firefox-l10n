@@ -298,6 +298,14 @@ find-more-themes = Finna fleiri þemu
 # used for screen readers.
 addon-options-button =
     .aria-label = Fleiri valkostir
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Forritsaukar og þemu gera þér kleift að sérsníða { -brand-product-name }. Þeir geta aukið friðhelgi einkalífsins,
+    aukið afköst, bætt margmiðlun, breyta því hvernig { -brand-product-name } lítur út og
+    margt fleira. Þessi litlu hugbúnaðarforrit eru oft þróuð af utanaðkomandi aðilum. Hér má sjá
+    úrval slíks sem{ -brand-product-name } <a data-l10n-name="learn-more-trigger">mælir með</a>
+    til að tryggja einstakt öryggi, afköst og aukna virkni.
 
 ## Add-on actions
 
