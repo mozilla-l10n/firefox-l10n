@@ -435,6 +435,7 @@ onboarding-genai-sidebar-secondary-button = Оғоз кардани тамошо
 ## New user onboarding checklist
 
 onboarding-checklist-title = Ба анҷом расонидани танзими «{ -brand-short-name }»
+onboarding-checklist-subtitle = Барои ба даст овардани таҷрибаи тамошобинии беҳтарин, лутфан, қадамҳои зеринро иҷро намоед.
 onboarding-checklist-set-default = Танзим кардани «{ -brand-short-name }» ҳамчун браузери пешфарз
 onboarding-checklist-pin = Васл кардани «{ -brand-short-name }» ба навори вазифа
 onboarding-checklist-import = Ворид кардан аз браузери қаблӣ
