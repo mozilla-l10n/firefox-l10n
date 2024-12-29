@@ -85,6 +85,13 @@ about-webauthn-auth-option-authnrcfg = ਪਰਮਾਣਿਕਰਤਾ ਸੰਰ�
 about-webauthn-auth-option-uvacfg = ਪਰਮਾਣੀਕਰਨ ਸੰਰਚਨਾ ਇਜਾਜ਼ਤ
 about-webauthn-auth-option-credmgmt = ਸਨਦ ਇੰਤਜ਼ਾਮ
 about-webauthn-auth-option-setminpinlength = ਘੱਟੋ-ਘੱਟ ਪਿੰਨ ਲੰਬਾਈ ਸੈੱਟ ਕਰੋ
+about-webauthn-auth-option-alwaysuv = ਹਮੇਸ਼ਾਂ ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਲੋੜੀਂਦੀ ਹੈ
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = ਸੱਚ
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = ਗਲਤ
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
@@ -92,8 +99,11 @@ about-webauthn-auth-option-setminpinlength = ਘੱਟੋ-ਘੱਟ ਪਿੰਨ
 about-webauthn-auth-info-certifications = ਸਰਟੀਫਿਕੇਟ
 about-webauthn-auth-info-firmware-version = ਫਿਰਮਵੇਅਰ ਵਰਜ਼ਨ
 about-webauthn-auth-info-min-pin-length = ਘੱਟੋ-ਘੱਟ ਪਿੰਨ ਲੰਬਾਈ
+about-webauthn-auth-info-force-pin-change = ਪਿੰਨ ਬਦਲਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ
 about-webauthn-auth-info-algorithms = ਐਲਗੋਰਿਥਮ
 about-webauthn-auth-info-transports = ਟਰਾਂਸਪੋਰਟ
+about-webauthn-auth-info-pin-protocols = ਪਿੰਨ ਪਰੋਟੋਕਾਲ
+about-webauthn-auth-info-max-msg-size = ਵੱਧ ਤੋਂ ਵੱਧ ਸੁਨੇਹਾ ਆਕਾਰ
 about-webauthn-auth-info-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ
 about-webauthn-auth-info-versions = ਵਰਜ਼ਨ
 # Shows when boolean value for an info field is True. True should not be translated.
@@ -110,3 +120,4 @@ about-webauthn-auth-info-null = ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-no-user-activity = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਕੋਈ ਸਰਗਰਮੀ ਨਹੀਂ ਹੈ।
