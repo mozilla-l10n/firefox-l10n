@@ -348,6 +348,9 @@ has-seccomp-bpf = Seccomp-BPF (Полоиши дархостҳои низом)
 has-seccomp-tsync = Ҳамоҳангсозии ҷараёни «Seccomp»
 has-user-namespaces = Фазоҳои номҳои корбарӣ
 has-privileged-user-namespaces = Фазоҳои номҳои корбарӣ барои равандҳои имтиёзнок
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Ин хусусият аз ҷониби низоми шумо иҷозат дода намешавад. Ин хусусият метавонад хусусиятҳои амниятии «{ -brand-short-name }»-ро маҳдуд кунад.
 can-sandbox-content = Минтақаи санҷишӣ барои раванди муҳтаво
 can-sandbox-media = Минтақаи санҷишӣ барои плагини расона
 content-sandbox-level = Дараҷаи минтақаи санҷишӣ барои раванди муҳтаво
