@@ -41,6 +41,7 @@ sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехо�
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+sync-profile-different-account-header = Ин профил қаблан бо ҳисоби дигар ҳамоҳанг карда шуд
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Профил бо ҳисоби дигар ҳамоҳанг карда шудааст
 # Dialog 2 - account signed in on another profile without option to merge
