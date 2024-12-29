@@ -395,6 +395,8 @@ onboarding-many-tabs-title = Vaši zavihki, po vaše
 onboarding-many-tabs-subtitle = Imate odprtih veliko zavihkov? Preizkusite preglednejši seznam zavihkov ob strani. Ali pa obdržite klasiko z zavihki na vrhu. Kadarkoli si lahko premislite.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Izberite postavitev zavihkov
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Za poenostavljen pogled, ki vam pomaga ostati osredotočen, preskusite zavihke ob strani. Ali pa naj bo klasika z zavihki na vrhu. Preklopite lahko kadarkoli.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ob strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -447,5 +449,8 @@ tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Spoznajte { -brand-product-name }ove profile
+multi-profile-spotlight-body = Preklapljajte med brskanjem za delo in zabavo. Profili ohranjajo vaše podatke o brskanju, vključno z zgodovino iskanja in gesli, popolnoma ločene, tako da lahko ostanete organizirani.
 multi-profile-spotlight-cta = Ustvari profil
+multi-profile-callout-title = Ustvarite ločena profila za delo in zabavo
+multi-profile-callout-subtitle = Profili vam omogočajo, da ločite podatke o brskanju, kot so zgodovina iskanja in gesla.
 multi-profile-callout-cta = Ustvari profil
