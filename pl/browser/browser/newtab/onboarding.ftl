@@ -438,6 +438,13 @@ onboarding-checklist-sign-up = Zaloguj się lub utwórz konto
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Wypróbuj grupy kart, aby zmniejszyć bałagan i zwiększyć koncentrację
+tab-groups-onboarding-feature-callout-subtitle = Wprowadź porządek, przeciągając jedną kartę na drugą, aby utworzyć pierwszą grupę.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Poznaj profile { -brand-product-name(case: "gen") }
+multi-profile-spotlight-body = Łatwo przełączaj się między przeglądarką do pracy i do zabawy. Profile przechowują Twoje dane przeglądania, w tym historię wyszukiwań i hasła, całkowicie oddzielnie, dzięki czemu możesz zachować porządek.
+multi-profile-spotlight-cta = Utwórz profil
+multi-profile-callout-title = Utwórz różne profile do pracy i do zabawy
+multi-profile-callout-subtitle = Profile umożliwiają całkowite oddzielenie danych przeglądania, takich jak historia wyszukiwania i hasła.
+multi-profile-callout-cta = Utwórz profil

@@ -44,3 +44,14 @@ sync-setup-verify-heading = Czy na pewno zalogować do synchronizacji?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Inny użytkownik był wcześniej zalogowany do synchronizacji na tym urządzeniu. Po zalogowaniu, zakładki, hasła i inne ustawienia tej przeglądarki zostaną połączone z danymi z konta { $email }.
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Osiągnięto ograniczenie kont dla tego profilu
+sync-profile-different-account-header = Ten profil był wcześniej synchronizowany z innym kontem
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Aby zachować porządek i bezpieczeństwo Twoich danych, każdy profil { -brand-product-name(case: "gen") } może być synchronizowany wyłącznie z jednym kontem. Aby zalogować się na konto { $acctEmail }, utwórz nowy profil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil synchronizowany z innym kontem
