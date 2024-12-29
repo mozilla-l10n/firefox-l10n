@@ -39,3 +39,8 @@ sync-setup-verify-heading = Yakin ingin masuk untuk menyinkronkan?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Ada pengguna lain yang telah masuk untuk menyinkronkan pada perangkat ini. Jika Anda masuk, maka markah, sandi, dan setelan lainnya untuk peramban akan digabungkan dengan { $email }.
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-button-create-profile = Buat profil baru
+sync-button-sync-and-merge = Sinkronkan dan gabungkan data

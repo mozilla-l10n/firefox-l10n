@@ -24,6 +24,10 @@ firefox-relay-opt-in-title-1 = Lindungi alamat email Anda:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Gunakan topeng surel { -relay-brand-name }
 firefox-relay-use-mask-title = Gunakan topeng surel { -relay-brand-name }
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Sembunyikan alamat surel asli Anda
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Lindungi kotak masuk Anda dari spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Gunakan topeng surel
     .accesskey = t
@@ -33,6 +37,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Jangan sekarang
     .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Jangan tampilkan ini lagi
+    .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Jangan sekarang
+    .accesskey = n
 
 ## The "control" variation of the Relay offer popup
 
