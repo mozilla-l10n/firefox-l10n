@@ -57,10 +57,12 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Fyrst skaltu nýskrá þig eða skrá þig inn á reikninginn þinn til að nota tölvupósthulu
+firefox-relay-offer-legal-notice-control = Með því að skrá þig og búa til tölvupósthulu samþykkir þú <label data-l10n-name="tos-url">þjónustuskilmála</label> og <label data-l10n-name="privacy-url">persónuverndarstefnu</label> okkar.
 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Komdu í veg fyrir ruslpóst með ókeypis tölvupósthulu
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Komdu í veg fyrir ruslpóst með því að fela raunverulegt póstfang þitt með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">tölvupósthulu</label>. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í pósthólfið þitt, en með tölvupóstfangið þitt falið.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Fyrst skaltu nýskrá þig eða skrá þig inn á reikninginn þinn til að nota tölvupósthulu
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Nýskrá
@@ -69,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Fáðu ókeypis tölvupósthulu
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Verndaðu pósthólfið þitt fyrir ruslpósti með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">tölvupósthulu</label> sem felur raunverulegt tölvupóstfang þitt. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í pósthólfið þitt, en með tölvupóstfangið þitt falið.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Fyrst skaltu nýskrá þig eða skrá þig inn á reikninginn þinn til að nota tölvupósthulu
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Nýskrá
@@ -77,6 +80,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Komdu í veg fyrir ruslpóst með tölvupósthulu
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Komdu í veg fyrir ruslpóst með því að fela raunverulegt póstfang þitt með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">tölvupósthulu</label>. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í venjulega pósthólfið þitt, en með tölvupóstfangið þitt falið.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Fyrst skaltu nýskrá þig eða skrá þig inn á reikninginn þinn til að nota tölvupósthulu
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Næsta

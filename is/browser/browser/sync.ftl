@@ -68,6 +68,11 @@ sync-account-in-use-description = Þú getur aðeins tengt þennan reikning við
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Þessi reikningur er skráður inn á annað notkunarsnið. Samstilla bæði notkunarsniðin?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } er skráð inn á „{ $otherProfile }“ notkunarsniðið á þessari tölvu. Samstilling á „{ $currentProfile }“ notkunarsniðinu mun sameina gögn varanlega frá báðum notkunarsniðunum, svo sem lykilorð og bókamerki.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Skipta yfir í „{ $profileName }“
 sync-button-create-profile = Búa til nýtt notkunarsnið
