@@ -139,17 +139,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
-webrtc-allow-share-audio-capture = ნებას რთავთ { $origin }-ს მოუსმინოს ამ ჩანართს?
-webrtc-allow-share-camera = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა?
-webrtc-allow-share-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს მიკროფონი?
-webrtc-allow-share-screen = ნებას რთავთ { $origin }-ს იხილოს თქვენი ეკრანი?
+webrtc-allow-share-audio-capture = ნებას რთავთ, რომ { $origin } შეძლებს მოუსმინოს ამ ჩანართს?
+webrtc-allow-share-camera = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს კამერა?
+webrtc-allow-share-microphone = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს მიკროფონი?
+webrtc-allow-share-screen = ნებას რთავთ, რომ { $origin } იხილავს თქვენს ეკრანს?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = ნებას რთავთ { $origin }-ს გამოიყენოს სხვა დინამიკები?
-webrtc-allow-share-camera-and-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა და მიკროფონი?
-webrtc-allow-share-camera-and-audio-capture = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა და მოუსმინოს ამ ჩანართს?
-webrtc-allow-share-screen-and-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს მიკროფონი და იხილოს თქვენი ეკრანი?
-webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ { $origin }-ს მოუსმინოს ამ ჩანართს და იხილოს თქვენი ეკრანი?
+webrtc-allow-share-speaker = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს დინამიკები?
+webrtc-allow-share-camera-and-microphone = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს კამერა და მიკროფონი?
+webrtc-allow-share-camera-and-audio-capture = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს კამერა და მოუსმინოს ამ ჩანართს?
+webrtc-allow-share-screen-and-microphone = ნებას რთავთ, რომ { $origin } შეძლებს გამოიყენოს მიკროფონი და იხილოს თქვენი ეკრანი?
+webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ, რომ { $origin } შეძლებს მოუსმინოს ამ ჩანართს და იხილოს თქვენი ეკრანი?
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
@@ -169,17 +169,17 @@ webrtc-allow-share-screen-and-audio-capture-with-file = ნებას რთ�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
-webrtc-allow-share-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ჩანართის ხმასთან?
-webrtc-allow-share-camera-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასთან?
-webrtc-allow-share-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
-webrtc-allow-share-screen-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ეკრანის გამოსახულებასთან?
+webrtc-allow-share-audio-capture-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენი ჩანართის ხმასთან?
+webrtc-allow-share-camera-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენს კამერასთან?
+webrtc-allow-share-microphone-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
+webrtc-allow-share-screen-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენი ეკრანის გამოსახულებასთან?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } სხვა დინამიკებთან?
-webrtc-allow-share-camera-and-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასა და მიკროფონთან?
-webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასა და ამ ჩანართის ხმასთან?
-webrtc-allow-share-screen-and-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონსა და ეკრანთან?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } ამ ჩანართის ხმასა და თქვენი ეკრანის გამოსახულებასთან?
+webrtc-allow-share-speaker-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } სხვა დინამიკებთან?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენს კამერასა და მიკროფონთან?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენს კამერასა და ამ ჩანართის ხმასთან?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } თქვენს მიკროფონსა და ეკრანთან?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ნებას რთავთ, რომ { $origin } შეძლებს დაუშვას { $thirdParty } ამ ჩანართის ხმასა და თქვენი ეკრანის გამოსახულებასთან?
 
 ##
 
