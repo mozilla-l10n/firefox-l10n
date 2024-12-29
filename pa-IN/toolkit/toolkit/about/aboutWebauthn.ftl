@@ -81,8 +81,10 @@ about-webauthn-auth-option-up = ਵਰਤੋਂਕਾਰ ਦੀ ਮੌਜੂਦ�
 about-webauthn-auth-option-clientpin = ਕਲਾਈਂਟ ਪਿੰਨ
 about-webauthn-auth-option-plat = ਪਲੇਟਫਾਰਮ ਡਿਵਾਈਸ
 about-webauthn-auth-option-bioenroll = ਬਾਇਓਮੈਟਰਿਕ ਦਾਖਲਾ
+about-webauthn-auth-option-authnrcfg = ਪਰਮਾਣਿਕਰਤਾ ਸੰਰਚਨਾ
 about-webauthn-auth-option-uvacfg = ਪਰਮਾਣੀਕਰਨ ਸੰਰਚਨਾ ਇਜਾਜ਼ਤ
 about-webauthn-auth-option-credmgmt = ਸਨਦ ਇੰਤਜ਼ਾਮ
+about-webauthn-auth-option-setminpinlength = ਘੱਟੋ-ਘੱਟ ਪਿੰਨ ਲੰਬਾਈ ਸੈੱਟ ਕਰੋ
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
