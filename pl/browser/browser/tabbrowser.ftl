@@ -222,8 +222,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anuluj
     .accesskey = A
+tab-group-menu-header = Grupy kart
 tab-context-unnamed-group =
     .label = Grupa bez nazwy
+tab-group-name-default = Grupa bez nazwy
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

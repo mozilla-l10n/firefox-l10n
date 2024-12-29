@@ -463,3 +463,7 @@ newtab-section-unfollow-button = Przestań obserwować
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Czy na pewno zablokować tę sekcję?
+newtab-section-confirm-block-section-p2 = Zablokowana sekcja nie będzie już wyświetlana.
+newtab-section-block-section-button = Zablokuj tę sekcję
+newtab-section-cancel-button = Nie teraz
