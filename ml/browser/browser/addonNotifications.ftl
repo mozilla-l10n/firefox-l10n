@@ -7,8 +7,8 @@ xpinstall-prompt = തങ്കളുടെ ഗണനികയിൽ യന്�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = { $host }-നു് ഒരു പുതിയ ആഢ്-ഓൺ സ്ഥാപിക്കാൻ അനുവതിക്കട്ടെ?
-xpinstall-prompt-message = { $host }-നിന്നു് താങ്ങൾ ഒരു ആഡ്-ഓൺ സ്ഥാപിക്കാൻ ശ്രമിക്കുന്നു. തുടരുന്നതിനു് മുൻപു് താങ്ങൾ ഈ സൈറ്റിനെ വിശ്വസിക്കുന്നുവെന്നു് ഉറപ്പാക്കുക.
+xpinstall-prompt-header = { $host }-നു് ഒരു പുതിയ ആഢ് ഓൺ സ്ഥാപിക്കാൻ അനുവതിക്കട്ടെ?
+xpinstall-prompt-message = { $host }-നിന്നു് താങ്ങൾ ഒരു ആഡ് ഓൺ സ്ഥാപിക്കാൻ ശ്രമിക്കുന്നു. തുടരുന്നതിനു് മുൻപു് താങ്ങൾ ഈ സൈറ്റിനെ വിശ്വസിക്കുന്നുവെന്നു് ഉറപ്പാക്കുക.
 
 ##
 
@@ -19,6 +19,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = ഒരിക്കലും അനുവദിക്കരുതു്
     .accesskey = ഒ
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = ശംശയകരമായ സൈറ്റിന്റെ വിവരം അറയിക്കുക
+    .accesskey = ശ
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -31,11 +36,22 @@ xpinstall-prompt-install =
 
 ##
 
-xpinstall-disabled-locked = സോഫ്റ്റ്‌വെയര്‍ ഇന്‍സ്റ്റലേഷന്‍ നിങ്ങളുടെ അഡ്മിനിസ്റ്റ്രേട്ടര്‍ നിര്‍വീര്യമാക്കിയിരിക്കുന്നു
-xpinstall-disabled = സോഫ്റ്റ്‌വെയര്‍ ഇന്‍സ്റ്റലേഷന്‍ ഇപ്പോള്‍ നിര്‍ജ്ജീവമാണ്‌. 'സജ്ജീവമാക്കുക' ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്ത ശേഷം വീണ്ടും ശ്രമിക്കുക
+xpinstall-disabled-locked = യന്ത്രാംശ സ്ഥാപിക്കൽ താങ്ങളുടെ വ്യവസ്ഥ ഭരണാധികാരി തടഞ്ഞിരിക്കുന്നു.
+xpinstall-disabled-by-policy = യന്ത്രാംശ സ്ഥാപിക്കൽ താങ്ങളുടെ സ്ഥാപനം തടഞ്ഞിരിക്കുന്നു.
+xpinstall-disabled = യന്ത്രാംശ സ്ഥാപിക്കൽ തല്ക്കാലം നിര്‍ജ്ജീവമാണ്‌. 'സജ്ജീവമാക്കുക' ബട്ടണ്‍ അമർത്തിയിട്ടു് ശേഷം വീണ്ടും ശ്രമിക്കുക
 xpinstall-disabled-button =
     .label = സജ്ജമാക്കുക
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId })-നെ താങ്ങളുടെ വ്യവസ്ഥഭരണാധികാരി തടഞ്ഞിരിക്കുന്നു.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId })-നെ താങ്ങളുടെ സ്ഥാപനം തടഞ്ഞിരിക്കുന്നു.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ലേക്ക് ചേര്‍ത്തിരിക്കുന്നു
@@ -45,6 +61,12 @@ webext-perms-update-menu-item = { $addonName } ന് പുതിയ അനു�
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = { $name } മാറ്റട്ടെ?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name } നിന്നു { $name } മാറ്റുണോ?
 addon-removal-button = മാറ്റുക
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -53,7 +75,7 @@ addon-downloading-and-verifying =
         [one] ആഡോണ്‍ ഡൗണ്‍ലോഡ് ചെയ്യുകയും പരിശോധിക്കുകയും ചെയ്യുന്നു…
        *[other] ആഡോണുകളില്‍ { $addonCount } ഡൗണ്‍ലോഡ് ചെയ്യുകയും പരിശോധിക്കുകയും ചെയ്യുന്നു…
     }
-addon-download-verifying = ഉറപ്പാക്കുന്നു
+addon-download-verifying = ഉറപ്പിക്കുന്നു
 addon-install-cancel-button =
     .label = റദ്ദാക്കുക
     .accesskey = C
