@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Używaj przeglądarki wspieranej przez 
 mr2022-onboarding-get-started-primary-subtitle = Nasza najnowsza wersja jest tworzona z myślą o Tobie, dzięki czemu śmiganie po sieci jest łatwiejsze niż kiedykolwiek. Jest wypełniona funkcjami, które naszym zdaniem pokochasz.
 mr2022-onboarding-get-started-primary-button-label = Skonfiguruj w kilka sekund
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Błyskawiczna konfiguracja
 mr2022-onboarding-import-subtitle = Skonfiguruj { -brand-short-name(case: "acc") } tak, jak lubisz. Dodaj zakładki, hasła i nie tylko ze starej przeglądarki.
@@ -387,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Znam go z przeszłości
 onboarding-new-tabs-title = Powiedz nam, gdzie chcesz mieć swoje karty
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Możesz to zmienić w dowolnej chwili w ustawieniach panelu bocznego.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Używaj kart po swojemu
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Masz dużo otwartych kart? Wypróbuj karty z boku, aby wprowadzić więcej porządku. Albo trzymaj się klasyki z kartami na górze. Przełączaj, kiedy chcesz.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Wybierz układ kart
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Aby wprowadzić więcej porządku, wypróbuj karty z boku. Albo trzymaj się klasyki z kartami na górze. Przełączaj, kiedy chcesz.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Karty z boku
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -424,3 +434,10 @@ onboarding-checklist-pin = Przypnij { -brand-short-name(case: "acc") } do paska 
 onboarding-checklist-import = Importuj z poprzedniej przeglądarki
 onboarding-checklist-extension = Dodaj rozszerzenie
 onboarding-checklist-sign-up = Zaloguj się lub utwórz konto
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Wypróbuj grupy kart, aby zmniejszyć bałagan i zwiększyć koncentrację
+
+## Multi Profiles feature onboarding messages
+
