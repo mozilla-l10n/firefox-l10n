@@ -447,6 +447,7 @@ tab-groups-onboarding-feature-callout-subtitle = Skipulegðu þig með því að
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Heilsaðu upp á notkunarsnið í { -brand-product-name }
 multi-profile-spotlight-cta = Búðu til notkunarsnið
 multi-profile-callout-title = Búðu til mismunandi snið fyrir vinnu og skemmtun
 multi-profile-callout-subtitle = Notkunarsnið gera þér kleift að halda vafurupplýsingunum þínum, eins og leitarferli og lykilorðum, algjörlega aðskildum.
