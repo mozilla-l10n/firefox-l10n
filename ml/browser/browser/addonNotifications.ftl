@@ -109,12 +109,14 @@ addon-install-error-incorrect-hash = { -brand-short-name } ആഡ്ഓണുമ
 addon-install-error-corrupt-file = സെറ്റില്‍ നിന്നും ഡൌണ്‍ലോഡ് ചെയ്ത ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുാന്‍ പറ്റില്ല.
 addon-install-error-file-access = ആവശ്യമായ ഫയലില്‍ { -brand-short-name }-ന് മാറ്റം വരുത്തുവാന്‍ പറ്റാത്തത് കൊണ്ട്, { $addonName } ഇന്‍സ്റ്റാള്‍ ചെയ്യാന്‍ സാധ്യമായില്ല.
 addon-install-error-not-signed = { -brand-short-name } പരിശോധിക്കപ്പെട്ടിട്ടില്ലാത്ത ഒരു് ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതില്‍ നിന്നും ഈ സൈറ്റിനെ തടഞ്ഞിരിക്കുന്നു.
-addon-local-install-error-network-failure = ഒരു ഫയല്‍സിസ്റ്റം പിശക് കാരണം ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
-addon-local-install-error-incorrect-hash = { -brand-short-name } ആഡ്-ഓണുമായി പൊരുത്തപ്പെടാഞ്ഞതിനാല്‍, ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
-addon-local-install-error-corrupt-file = ഈ ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
+addon-local-install-error-network-failure = ഒരു ഫയല്വവസ്ഥ പിശക് കാരണം ഈ ആഡ് സ്ഥാപിക്കാൻ പറ്റത്തില്ല.
+addon-local-install-error-incorrect-hash = { -brand-short-name } ആഡ്-ഓണുമായി പൊരുത്തപ്പെടാഞ്ഞതിനാല്‍, ഈ ആഡ്-ഓണ്‍ സ്ഥാപിക്കാൻ സാധ്യമായില്ല.
+addon-local-install-error-corrupt-file = ഈ ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് സ്ഥാപിക്കാൻ പറ്റിയില്ല.
 addon-local-install-error-file-access = ആവശ്യമായ ഫയലില്‍ { -brand-short-name } -നു് മാറ്റം വരുത്തുവാന്‍ സാധ്യമാത്തതിനാല്‍, { $addonName } ഇന്‍സ്റ്റാള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
 addon-local-install-error-not-signed = ഈ ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion }-മായി പൊരുത്തപ്പെടാത്തതിനാല്‍, { $addonName } ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
+addon-install-error-hard-blocked = { $addonName } മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ { -brand-short-name }-ൽ സ്ഥാപിക്കാൻ കഴിയില്ല.
 addon-install-error-blocklisted = സുരക്ഷാ, സ്ഥിരതാ പ്രശ്നങ്ങള്‍ക്കു് കാരണമാകാന്‍ സാധ്യതയുള്ളതിനാല്‍, { $addonName } ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
+addon-install-error-soft-blocked = { $addonName } മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ { -brand-short-name }-ൽ സ്ഥാപിക്കാൻ കഴിയില്ല.
