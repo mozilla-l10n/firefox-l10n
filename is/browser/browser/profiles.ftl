@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - Veldu notandasnið
 profile-window-heading = Veldu { -brand-short-name } notkunarsnið
 profile-window-body = Haltu vinnu þinni og persónulegu vafri, þar á meðal atriðum eins og lykilorðum og bókamerkjum, algjörlega aðskildum. Eða búðu til notkunarsnið fyrir alla sem nota þetta tæki.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Velja notkunarsnið þegar { -brand-short-name } opnast
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Birta þetta þegar { -brand-short-name } opnast
 profile-window-create-profile = Búa til notkunarsnið
@@ -44,8 +47,9 @@ new-profile-page-input-placeholder =
     .placeholder = Veldu heiti á borð við „Vinna“ eða „Persónulegt“
 new-profile-page-done-button =
     .label = Búið að breyta
+profile-window-title-2 = { -brand-short-name } - Veldu notkunarsnið
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +66,9 @@ delete-profile-bookmarks = Bókamerki
 delete-profile-history = Ferill (heimsóttar síður, vafurkökur, síðugögn)
 delete-profile-autofill = Sjálfvirk innfyllingargögn (heimilisföng, greiðslumátar)
 delete-profile-logins = Lykilorð
+
+##
+
 # Button label
 delete-profile-cancel = Hætta við
 # Button label

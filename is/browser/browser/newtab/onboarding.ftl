@@ -392,6 +392,10 @@ onboarding-new-tabs-title = Segðu okkur hvar þú vilt hafa flipana þína
 onboarding-new-tabs-subtitle = Skiptu um þetta hvenær sem er í stillingum hliðarstikunnar.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Þínir flipar, á þinn hátt
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Ertu með marga flipa opna? Prófaðu að hafa flipana þína á hliðinni til að straumlínulaga umhverfið. Eða hafðu það klassískt með flipana efst. Skiptu á milli hvenær sem er.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Veldu framsetningu flipa
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Flipar til hliðar
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,6 +442,12 @@ onboarding-checklist-sign-up = Nýskráðu þig eða skráðu þig inn á reikni
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prófaðu flipahópa fyrir minni þrengsli og meiri einbeitingu
+tab-groups-onboarding-feature-callout-subtitle = Skipulegðu þig með því að draga einn flipa ofan á annan til að búa til fyrsta hópinn þinn.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Búðu til notkunarsnið
+multi-profile-callout-title = Búðu til mismunandi snið fyrir vinnu og skemmtun
+multi-profile-callout-subtitle = Notkunarsnið gera þér kleift að halda vafurupplýsingunum þínum, eins og leitarferli og lykilorðum, algjörlega aðskildum.
+multi-profile-callout-cta = Búðu til notkunarsnið

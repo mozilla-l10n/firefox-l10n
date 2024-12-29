@@ -46,6 +46,9 @@ sync-setup-verify-description = Annar notandi á þessari tölvu var áður skr�
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Hámarki reikninga náð fyrir þetta notkunarsnið
+sync-profile-different-account-header = Þetta notkunarsnið var áður samstillt við annan reikning
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Reikningur er þegar í notkun
 # Variables:
