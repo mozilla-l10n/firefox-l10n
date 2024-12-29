@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = ట్యాబ్ అన్‌లోడింగ్
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = ఈ సదుపాయం గురించి, ఈ పేజీ గురించి మరింత తెలుసుకోడానికి <a data-l10n-name="doc-link">టాబ్ ఆన్లోడింగ్</a>ని  చూడండి.

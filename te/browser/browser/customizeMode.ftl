@@ -27,5 +27,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = సాధారణం
 customize-mode-undo-cmd =
     .label = చర్యరద్దు
+customize-mode-lwthemes-link = అలంకారాల నిర్వహణ
 customize-mode-touchbar-cmd =
     .label = టచ్ బార్‌ను అభిమతీకరించు…

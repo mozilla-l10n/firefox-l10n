@@ -9,3 +9,4 @@ confirmation-hint-breakage-report-sent = నివేదిక పంపబడ�
 confirmation-hint-login-removed = ప్రవేశం తొలగించబడింది!
 confirmation-hint-password-saved = సంకేతపదం భద్రమయ్యింది!
 confirmation-hint-send-to-device = పంపబడింది!
+confirmation-hint-screenshot-copied = తెరపట్టు కాపీ అయ్యింది!
