@@ -41,6 +41,8 @@ neterror-generic-error = Af einhverri ástæðu getur { -brand-short-name } ekki
 neterror-load-error-try-again = Vefsvæðið er kannski ekki aðgengilegt eins og stendur eða er upptekið. Reyndu aftur seinna.
 neterror-load-error-connection = Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu tölvunnar.
 neterror-load-error-firewall = Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort { -brand-short-name } hafi aðgang til þess að fara á netið.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ef þú ert að reyna að hlaða inn vefsíðu af staðarneti, skaltu athuga hvort { -brand-short-name } hafi fengið heimildir fyrir staðarnet í persónuverndar- og öryggisstillingum macOS.
 neterror-captive-portal = Þú verður að skrá þig inn á þetta netkerfi áður en þú færð aðgang að Internetinu.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

@@ -80,6 +80,15 @@ fp-certerror-return-to-previous-page-recommended-button = Fara til baka (ráðla
 fp-certerror-bad-domain-why-dangerous-body = Vefsvæðið er sett upp til að leyfa aðeins öruggar tengingar, en hins vegar er vandamál með skilríki vefsins. Hugsanlega er óprúttinn aðili að reyna að líkja eftir vefsvæðinu. Vefsvæði nota skilríki gefin út af vottunarstöðvum til að sanna að þau séu í raun og veru það sem þau segjast vera. { -brand-short-name } treystir ekki þessu vefsvæði vegna þess að skilríki þess er ekki gilt fyrir { $hostname }. Skilríkið gildir aðeins fyrir: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ekki margt. Það virðist vera vandamál með þetta vefsvæði.
+fp-certerror-self-signed-important-note = MIKILVÆG ATHUGASEMD: Ef þú ert að reyna að heimsækja þetta vefsvæði á innraneti fyrirtækis, gæti upplýsingatæknifólkið þitt verið að nota sjálfundirrituð skilríki. Þau geta hjálpað þér að athuga áreiðanleika slíkra skilríkja.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Vefsvæði nota skilríki gefin út af vottunarstöð skilríkja til að sanna að þau séu í raun og veru það sem þau segjast vera. { -brand-short-name } treystir ekki þessu vefsvæði vegna þess að það lítur út fyrir að skilríkið hafi runnið út { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Vefsvæði nota skilríki gefin út af vottunarstöð skilríkja til að sanna að þau séu í raun og veru það sem þau segjast vera. { -brand-short-name } treystir ekki þessu vefsvæði vegna þess að það lítur út fyrir að skilríkið muni ekki verða gilt fyrr en { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
