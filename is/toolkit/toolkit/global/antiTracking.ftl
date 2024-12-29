@@ -12,3 +12,9 @@ btp-warning-tracker-classified =
         [one] „{ $siteHost }“ hefur verið flokkað sem hopprekjari (bounce tracker). Ef það fær ekki viðbrögð frá notanda innan næstu { $gracePeriodSeconds } sekúndna mun staða þess vera hreinsuð.
        *[other] „{ $siteHost }“ hafa verið flokkaðar sem hopprekjarar (bounce trackers). Ef þær fá ekki viðbrögð frá notanda innan næstu { $gracePeriodSeconds } sekúndna mun staða þeirra vera hreinsuð.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = Staða „{ $siteHost }“ var nýlega hreinsuð vegna þess að það greindist sem hopprekjari (bounce tracker).

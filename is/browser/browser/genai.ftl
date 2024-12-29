@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Útskýra þetta
     .value = Útskýra aðalatriðin í valda textanum, með einföldum orðum. Einnig má nota dæmi.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Prófarkalestur
+    .value = Yfirfarðu valið og skoðaðu hvort þar séu villur í stafsetningu eða málfræði. Leiðréttu villur og lagaðu endanlega útgáfu textans. Haltu þig við rétta meiningu og staðreyndir og gefðu fyrst upp lista með leiðréttingum og hafðu svo endanlega, leiðrétta útgáfu textans.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spyrja { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Gervigreindar-spjallkerfið mun ekki fá allt sem þú valdir
+    .message =
+        { $selectionLength ->
+            [one] Þú valdir um það bil { $selectionLength } staf. Fjöldi stafa sem hægt er að senda á gervigreindarkerfið er { $maxLength }.
+           *[other] Þú valdir um það bil { $selectionLength } stafi. Fjöldi stafa sem hægt er að senda á gervigreindarkerfið er { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } mun ekki fá allt sem þú valdir
+    .message =
+        { $selectionLength ->
+            [one] Þú valdir { $selectionLength } staf. Fjöldi stafa sem hægt er að senda á { $provider } er { $maxLength }.
+           *[other] Þú valdir um það bil { $selectionLength } stafi. Fjöldi stafa sem hægt er að senda á { $provider } er { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Fela flýtileið spjallkerfis
 
@@ -135,6 +158,5 @@ genai-onboarding-gemini-price = Ókeypis og greiddir valkostir; reiknings er kra
 genai-onboarding-huggingchat-generate = Framleiddu texta og kóða
 genai-onboarding-huggingchat-switch = Skiptu á milli fjölbreyttra opinna líkana
 genai-onboarding-huggingchat-price-2 = Ókeypis; reiknings er krafist eftir ákveðinn fjölda beiðna
-genai-onboarding-huggingchat-price = Ókeypis; reiknings er krafist fyrir sumar gerðir verka
 genai-onboarding-lechat-generate = Framleiddu texta og kóða
 genai-onboarding-lechat-price = Ókeypis; reiknings krafist
