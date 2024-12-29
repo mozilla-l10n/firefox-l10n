@@ -55,3 +55,29 @@ sync-profile-different-account-header = Ten profil był wcześniej synchronizowa
 sync-profile-different-account-description = Aby zachować porządek i bezpieczeństwo Twoich danych, każdy profil { -brand-product-name(case: "gen") } może być synchronizowany wyłącznie z jednym kontem. Aby zalogować się na konto { $acctEmail }, utwórz nowy profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil synchronizowany z innym kontem
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Aby zachować porządek i bezpieczeństwo Twoich danych, zalecamy utworzenie nowego profilu w celu zalogowania się na konto { $acctEmail }. Jeśli zdecydujesz się kontynuować synchronizację na tym profilu, dane z obu kont zostaną trwale połączone na profilu „{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Konto jest już używane
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = Konto { $acctEmail } jest już zalogowane na profilu „{ $otherProfile }”
+sync-account-in-use-description = To konto można powiązać wyłącznie z jednym profilem na tym komputerze.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = To konto jest zalogowane na innym profilu. Czy synchronizować oba profile?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Konto { $acctEmail } jest zalogowane na profilu „{ $otherProfile }” na tym komputerze. Synchronizacja profilu „{ $currentProfile }” spowoduje trwałe połączenie danych z obu profili, takich jak hasła i zakładki.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Przełącz na profil „{ $profileName }”
+sync-button-create-profile = Utwórz nowy profil
+sync-button-sync-and-merge = Synchronizuj i połącz dane
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synchronizuj profil „{ $profileName }”
