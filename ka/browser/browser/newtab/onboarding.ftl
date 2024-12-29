@@ -369,7 +369,7 @@ onboarding-sign-up-secondary-button = დაიწყეთ მოგზაუ�
 
 onboarding-new-user-time-based-survey-title = დიდი ხანია გაქვთ { -brand-short-name } და ხშირად იყენებთ?
 onboarding-new-user-familiarity-based-survey-title = თქვენთვის კარგად ნაცნობია { -brand-short-name }?
-onboarding-new-user-survey-subtitle = თქვენი გამოხმაურება დაგვეხმარება, რომ { -brand-short-name } კიდევ უფრო უკეთესი გავხადოთ.
+onboarding-new-user-survey-subtitle = თქვენი გამოხმაურება დაგვეხმარება, რომ { -brand-short-name } მეტად გავაუმჯობესოთ.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = შემდეგი
 onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }” ღილაკზე დაჭერით ეთანხმებით { -brand-product-name }-ის <a data-l10n-name="privacy_notice">პირადულობის დებულებას</a>
