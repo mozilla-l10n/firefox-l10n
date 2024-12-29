@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = തങ്കളുടെ കമ്പ്യൂട്ടറില്‍ സോഫ്റ്റ്‌വെയര്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യണമോ എന്നു് ചോദിക്കുന്നതില്‍ നിന്നും ഈ സൈറ്റിനെ { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
+xpinstall-prompt = തങ്കളുടെ ഗണനികയിൽ യന്ത്രാംശം സ്ഥാപിക്കാണോ എന്നു് ചോദിക്കുന്നതില്‍ നിന്നും ഈ സൈറ്റിനെ { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = { $host }-നു് ഒരു പുതിയ ആഢ്-ഓൺ സ്ഥാപിക്കാൻ അനുവതിക്കട്ടെ?
+xpinstall-prompt-message = { $host }-നിന്നു് താങ്ങൾ ഒരു ആഡ്-ഓൺ സ്ഥാപിക്കാൻ ശ്രമിക്കുന്നു. തുടരുന്നതിനു് മുൻപു് താങ്ങൾ ഈ സൈറ്റിനെ വിശ്വസിക്കുന്നുവെന്നു് ഉറപ്പാക്കുക.
 
 ##
 
+xpinstall-prompt-header-unknown = ഒരു അറിയപ്പെടാത്ത സൈറ്റിനു് ഒരു ആഡ് ഓൺ സ്ഥാപിക്കാൻ അനുവദിക്കട്ടെ
 xpinstall-prompt-dont-allow =
     .label = അനുവദിക്കരുത്
     .accesskey = D
 xpinstall-prompt-never-allow =
     .label = ഒരിക്കലും അനുവദിക്കരുതു്
     .accesskey = ഒ
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = സ്ഥാപിക്കലിലേക്കു് തുടരുക
+    .accesskey = ത
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
