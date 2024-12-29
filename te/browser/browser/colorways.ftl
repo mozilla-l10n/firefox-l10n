@@ -7,3 +7,4 @@
 
 visionary-colorway-name = దార్శనికుడు
 dreamer-colorway-name = స్వాప్నికుడు
+innovator-colorway-name = ఆవిష్కర్త
