@@ -483,10 +483,13 @@ pdfjs-editor-alt-text-settings-create-model-description = Ин имкон бар
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 pdfjs-editor-alt-text-settings-download-model-label = Модели зеҳни сунъӣ «AI» барои матни ивазкунанда ({ $totalSize } МБ)
+pdfjs-editor-alt-text-settings-ai-model-description = Дар дастгоҳи шумо ба таври маҳаллӣ кор мекунад, бинобар ин махфияти маълумоти шахсии шумо нигоҳ дошта мешавад. Барои матни ивазкунандаи худкор лозим аст.
 pdfjs-editor-alt-text-settings-delete-model-button = Нест кардан
 pdfjs-editor-alt-text-settings-download-model-button = Боргирӣ кардан
 pdfjs-editor-alt-text-settings-downloading-model-button = Дар ҳоли боргирӣ…
 pdfjs-editor-alt-text-settings-editor-title = Муҳаррири матни иловагӣ
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Дарҳол нишон додани муҳаррири матни ивазкунанда ҳангоми иловакунии тасвир
+pdfjs-editor-alt-text-settings-show-dialog-description = Ба шумо кумак мекунад, ки боварӣ ҳосил кунед, ки ҳамаи тасвирҳои шумо дорои матни ивазкунанда мебошанд.
 pdfjs-editor-alt-text-settings-close-button = Пӯшидан
 
 ## "Annotations removed" bar
