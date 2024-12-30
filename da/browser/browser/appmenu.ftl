@@ -284,6 +284,7 @@ appmenuitem-services-relay-description = Vis oversigt over mail-masker
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskyt din aktivitet på nettet
 appmenu-services-header = Mine tjenester
+appmenu-other-protection-header = Prøv andre beskyttelses-værktøjer fra { -vendor-short-name }:
 
 ## Profiles panel
 
