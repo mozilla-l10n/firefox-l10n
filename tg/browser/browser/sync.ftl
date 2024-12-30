@@ -38,6 +38,11 @@ fxa-menu-sync-description = Дар ҳама ҷо ба сомонаҳои худ 
 sync-setup-verify-continue = Давом додан
 sync-setup-verify-title = Огоҳӣ оид ба муттаҳидшавӣ
 sync-setup-verify-heading = Шумо мутмаин ҳастед, ки мехоҳед ба ҳисоби ҳамоҳангсозӣ ворид шавед?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Қаблан корбари дигар барои иҷро кардани ҳамоҳангсозӣ дар ин компютер ворид шуда буд. Амали воридшавӣ ҳамаи хатбаракҳо, ниҳонвожаҳо ва танзимоти дигари ин браузерро бо { $email } муттаҳид мекунад
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
