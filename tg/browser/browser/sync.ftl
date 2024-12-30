@@ -54,12 +54,19 @@ sync-profile-different-account-header = Ин профил қаблан бо ҳи
 sync-profile-different-account-description = Барои ба таври муташаккил ва бехатар нигоҳ доштани маълумоти худ, ҳар як профили «{ -brand-product-name }» метавонад танҳо бо як ҳисоб ҳамоҳанг карда шавад. Барои ворид шудан ба воситаи { $acctEmail }, профили наверо эҷод намоед.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Профил бо ҳисоби дигар ҳамоҳанг карда шудааст
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Барои ба тартиб даровардан ва ба таври бехатар нигоҳ доштани маълумоти шумо, мо тавсия медиҳем, ки шумо профили наверо эҷод кунед ва ба воситаи { $acctEmail } ба он ворид шавед. Агар шумо дар ин профил амали ҳамоҳангсозиро интихоб карда, идома диҳед, маълумот аз ҳар ду ҳисоб дар «{ $profileName }» бебозгашт муттаҳид карда мешавад.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ҳисоб аллакай истифода мешавад
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } аллакай ба профили «{ $otherProfile }» ворид шудааст
+sync-account-in-use-description = Шумо метавонед ин ҳисобро танҳо бо як профил дар ин компютер пайваст кунед.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Ин ҳисоб ба профили дигар ворид шудааст. Ҳар ду профилро ҳамоҳанг месозед?
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Гузариш ба «{ $profileName }»
