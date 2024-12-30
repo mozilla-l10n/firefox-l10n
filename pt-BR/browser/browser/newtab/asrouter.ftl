@@ -253,7 +253,7 @@ device-migration-fxa-spotlight-sync-primary-button = Começar
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Tornar o { -brand-short-name } seu leitor padrão de PDF?</strong> Use o { -brand-short-name } para ler e editar arquivos PDF salvos em seu computador.
+pdf-default-notification-message = <strong>Tornar o { -brand-short-name } seu leitor padrão de PDF?</strong> Use o { -brand-short-name } para ler e editar arquivos PDF salvos neste computador.
 pdf-default-notification-set-default-button =
     .label = Definir como padrão
 pdf-default-notification-decline-button =

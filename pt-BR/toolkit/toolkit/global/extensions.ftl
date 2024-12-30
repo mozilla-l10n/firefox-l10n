@@ -12,8 +12,8 @@
 
 webext-perms-header = Adicionar { $extension }?
 webext-perms-header-with-perms = Adicionar { $extension }? Esta extensão terá permissão para:
-webext-perms-header-unsigned = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer seu computador. Só instale se confiar na origem.
-webext-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer seu computador. Só instale se confiar na origem. Esta extensão terá permissão para:
+webext-perms-header-unsigned = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer este computador. Só instale se confiar na origem.
+webext-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer este computador. Só instale se confiar na origem. Esta extensão terá permissão para:
 webext-perms-sideload-header = { $extension } adicionado
 webext-perms-optional-perms-header = { $extension } requer permissões adicionais.
 
@@ -101,7 +101,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Esta extensão concede a 
 # Note, the empty line is used to create a line break between the two sections.
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
-    Geralmente são dispositivos conectados, como sintetizadores de áudio, mas também podem estar integrados ao seu computador.
+    Geralmente são dispositivos conectados, como sintetizadores de áudio, mas também podem estar integrados neste computador.
     
     Os sites normalmente não têm permissão para acessar dispositivos MIDI. O uso inadequado pode causar danos ou comprometer a segurança.
 
@@ -112,7 +112,7 @@ webext-site-perms-description-gated-perms-midi =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Adicionar { $extension }? Esta extensão concede as seguintes capacidades a { $hostname }:
-webext-site-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer seu computador. Só instale se confiar na origem. Esta extensão concede as seguintes capacidades a { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer este computador. Só instale se confiar na origem. Esta extensão concede as seguintes capacidades a { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
