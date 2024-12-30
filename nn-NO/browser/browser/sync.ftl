@@ -47,3 +47,4 @@ sync-profile-different-account-title-merge = Profil synkronisert til ein annan k
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Byt til "{ $profileName }"
 sync-button-create-profile = Opprett ein ny profil
+sync-button-sync-and-merge = Synkroniser og slå saman data
