@@ -450,6 +450,8 @@ tab-groups-onboarding-feature-callout-subtitle = Барои ба тартиб д
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Ба профилҳои «{ -brand-product-name }» салом гӯед
+multi-profile-spotlight-body = Реҷаи тамошобинии худро барои кор ё дилхушӣ ҷудо карда, ба осонӣ иваз намоед. Профилҳо маълумоти тамошобинии шуморо, аз он ҷумла таърих ва ниҳонвожаҳо, комилан ҷудо нигоҳ медоранд, то шумо тавонед фаъолияти худро ба тартиб дароред.
 multi-profile-spotlight-cta = Эҷод кардани профил
 multi-profile-callout-title = Профилҳои гуногунро барои кор ва дилхушӣ эҷод намоед
+multi-profile-callout-subtitle = Профилҳо ба шумо имкон медиҳанд, то ки тавонед маълумоти тамошобинии худро, ба монанди таърих ва ниҳонвожаҳо, комилан ҷудо нигоҳ доред.
 multi-profile-callout-cta = Эҷод кардани профил
