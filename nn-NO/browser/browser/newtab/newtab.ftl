@@ -450,3 +450,7 @@ newtab-topic-selection-button-pick-interests = Vel interessene dine
 
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følgjer
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Ikkje no

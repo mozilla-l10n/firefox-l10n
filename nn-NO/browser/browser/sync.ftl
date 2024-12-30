@@ -38,3 +38,12 @@ fxa-menu-sync-description = Få tilgang til nettet ditt kvar som helst
 sync-setup-verify-continue = Hald fram
 sync-setup-verify-title = Åtvaring om samanslåing av data
 sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkronisere?
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil synkronisert til ein annan konto
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Byt til "{ $profileName }"
+sync-button-create-profile = Opprett ein ny profil
