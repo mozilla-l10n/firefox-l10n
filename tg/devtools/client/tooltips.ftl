@@ -87,6 +87,7 @@ inactive-css-not-grid-or-flex-container-fix = Кӯшиш кунед, ки <stron
 inactive-css-not-grid-or-flex-or-block-container-fix = Кӯшиш кунед, ки <strong>display:grid</strong>, <strong>display:flex</strong> ё <strong>display:block</strong>-ро илова намоед. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Кӯшиш кунед, ки <strong>display:grid</strong>, <strong>display:flex</strong> ё <strong>columns:2</strong>-ро илова намоед. { learn-more }
 inactive-css-not-multicol-container-fix = Кӯшиш кунед, ки «<strong>column-count</strong>» ё «<strong>column-width</strong>»-ро илова намоед. { learn-more }
+inactive-css-column-span-fix = Кӯшиш кунед, ки «<strong>column-count</strong>» ё «<strong>column-width</strong>»-ро ба яке аз унсурҳои сарнасли он илова намоед. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Кӯшиш кунед, ки <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ё <strong>display:inline-flex</strong>-ро ба асли унсур илова намоед. { learn-more }
 inactive-css-not-grid-item-fix-2 = Кӯшиш кунед, ки <strong>display:grid</strong> ё <strong>display:inline-grid</strong>-ро ба асли унсур илова намоед. { learn-more }
 inactive-css-not-grid-container-fix = Кӯшиш кунед, ки <strong>display:grid</strong> ё <strong>display:inline-grid</strong>-ро илова намоед. { learn-more }
