@@ -1337,6 +1337,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Хусусиятҳои рекламавӣ барои сомонаҳо
+website-advertising-private-attribution =
+    .label = Ба сомонаҳо иҷозат диҳед, ки ченкунии нишондиҳандаҳои рекламаи онҳо бо дарназардошти талаботи махфият гузаронида шавад
+    .accesskey = Б
+website-advertising-private-attribution-description = Ин хусусият ба сомонаҳо ёрӣ медиҳад, то тавонанд бе ниёзи ҷамъоварии маълумоти шахсии шумо фаҳманд, ки чӣ тавр рекламаи онҳо кор мекунад.
 
 ## Privacy Section - Security
 ##
@@ -1381,6 +1385,7 @@ space-alert-under-5gb-message2 = <strong>Фазои диски «{ -brand-short-
 
 httpsonly-header = Реҷаи «Танҳо HTTPS»
 httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо «HTTPS»-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба «HTTPS» такмил медиҳад.
+httpsonly-description2 = «{ -brand-short-name }» ба сомонаҳое, ки шумо ташриф меоред, пайвастҳои бехатар ва рамзгузоришударо эҷод мекунад. «{ -brand-short-name }» шуморо огоҳ мекунад, агар пайвастшавӣ ҳатто ҳангоми фаъол будани реҷаи «Танҳо HTTPS» бехатар набошад.
 httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
