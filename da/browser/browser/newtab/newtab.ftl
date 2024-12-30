@@ -458,3 +458,7 @@ newtab-topic-selection-button-pick-interests = Vælg dine interesser
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Ikke nu
