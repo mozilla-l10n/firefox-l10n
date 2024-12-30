@@ -53,13 +53,13 @@ sync-profile-different-account-title = Za ta profil je dosežena omejitev račun
 sync-profile-different-account-header = Ta profil se je prej sinhroniziral z drugim računom
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
-sync-profile-different-account-description = Za ohranitev organiziranosti in varnosti vaših podatkov se lahko vsak profil { -brand-product-name(sklon: "rodilnik") } sinhronizira samo z enim računom. Za prijavo z naslovom { $actEmail } ustvarite nov profil.
+sync-profile-different-account-description = Za ohranitev organiziranosti in varnosti vaših podatkov se lahko vsak profil { -brand-product-name(sklon: "rodilnik") } sinhronizira samo z enim računom. Za prijavo z naslovom { $acctEmail } ustvarite nov profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil se sinhronizira z drugim računom
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
-sync-profile-different-account-description-merge = Za ohranitev organiziranosti in varnosti vaših podatkov vam priporočamo, da ustvarite nov profil za prijavo z naslovom { $actEmail }. Če izberete nadaljevanje sinhronizacije s tem profilom, bodo podatki iz obeh računov trajno združeni v profil “{ $profileName }”.
+sync-profile-different-account-description-merge = Za ohranitev organiziranosti in varnosti vaših podatkov vam priporočamo, da ustvarite nov profil za prijavo z naslovom { $acctEmail }. Če izberete nadaljevanje sinhronizacije s tem profilom, bodo podatki iz obeh računov trajno združeni v profil “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun je že v uporabi
 # Variables:
