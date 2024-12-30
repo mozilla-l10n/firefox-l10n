@@ -68,6 +68,11 @@ sync-account-in-use-description = Шумо метавонед ин ҳисобр�
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Ин ҳисоб ба профили дигар ворид шудааст. Ҳар ду профилро ҳамоҳанг месозед?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ба профили «{ $otherProfile }» дар ин компютер ворид шудааст. Амали ҳамоҳангсозии профили «{ $currentProfile }» маълумотро ба монанди ниҳонвожаҳо ва хатбаракҳо аз ҳар ду профил бебозгашт муттаҳид мекунад.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Гузариш ба «{ $profileName }»
 sync-button-create-profile = Эҷод кардани профили нав
