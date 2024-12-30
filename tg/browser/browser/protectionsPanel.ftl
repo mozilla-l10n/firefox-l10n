@@ -81,6 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = Иҷозат додани «{ $trackername }»
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Васоити пайгирӣ ва муҳтавои «{ $trackername }» манъ карда шудаанд
+smartblock-placeholder-desc = Танзимоти «{ -brand-short-name }»-и шумо ин муҳтаворо аз пайгирии шумо байни сомонаҳо ё аз истифодаи пайгирии шумо тавассути реклама манъ кард.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Иҷозат додан дар { $websitehost }
 
