@@ -41,6 +41,7 @@ edit-profile-page-duplicate-name = Номи профил аллакай исти
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
 new-profile-page-title = Профили нав
 new-profile-page-header = Профили нави худро шахсӣ созед
+new-profile-page-header-description = Ҳар як профил таърих ва танзимоти беназири худро аз профилҳои дигари шумо алоҳида ва ҷудо нигоҳ медорад. Илова бар ин, муҳофизати қавии махфияти «{ -brand-short-name }» ба таври пешфарз фаъол аст.
 new-profile-page-learn-more = Маълумоти бештар
 new-profile-page-input-placeholder =
     .placeholder = Номеро, барои мисол «Корӣ» ё «Шахсӣ», интихоб намоед
