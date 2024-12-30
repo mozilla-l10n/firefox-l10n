@@ -3,13 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Site enganoso à frente
-safeb-blocked-malware-page-title = Visitar este site pode danificar seu computador
+safeb-blocked-malware-page-title = Visitar este site pode danificar este computador
 safeb-blocked-unwanted-page-title = O site adiante pode conter programas nocivos
 safeb-blocked-harmful-page-title = O site adiante pode conter malware (código malicioso)
 safeb-blocked-phishing-page-short-desc = O { -brand-short-name } bloqueou esta página porque ela pode te enganar, induzindo a fazer algo perigoso como instalar software ou revelar informações pessoais como senhas ou números de cartões de crédito.
 safeb-blocked-malware-page-short-desc = O { -brand-short-name } bloqueou esta página porque ela pode tentar instalar programas maliciosos que podem roubar ou apagar informações pessoais deste computador.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloqueou esta página porque ela pode tentar te convencer a instalar programas que prejudiquem sua experiência de navegação (por exemplo, alterando sua página inicial ou exibindo mais anúncios nos sites que você visita).
 safeb-blocked-harmful-page-short-desc = O { -brand-short-name } bloqueou esta página porque ela pode tentar instalar aplicativos perigosos que roubam ou apagam suas informações (por exemplo, fotos, senhas, mensagens e cartões de crédito).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Assessoria fornecida por <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Voltar
 safeb-palm-see-details-label = Ver detalhes
