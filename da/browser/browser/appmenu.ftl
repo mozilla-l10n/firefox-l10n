@@ -280,8 +280,10 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få advarsler om datalæk
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Skjul din rigtige mailadresse og dit telefonnummer
+appmenuitem-services-relay-description = Vis oversigt over mail-masker
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskyt din aktivitet på nettet
+appmenu-services-header = Mine tjenester
 
 ## Profiles panel
 
