@@ -142,6 +142,9 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ин равзанаи гуфтугӯ
 tabbrowser-confirm-close-duplicate-tabs-title = Диққат
 tabbrowser-confirm-close-duplicate-tabs-text = Мо варақаи фаъоли охиринро кушода нигоҳ медорем
 tabbrowser-confirm-close-all-duplicate-tabs-title = Варақаҳои такрориро мепӯшед?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Мо дар ин равзана варақаҳои такрориро мепӯшем.
+    Варақаи фаъоли охирин кушода меистад.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Пӯшидани варақаҳо
 
 ##
