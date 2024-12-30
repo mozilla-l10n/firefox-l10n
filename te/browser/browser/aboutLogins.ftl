@@ -106,7 +106,7 @@ about-logins-list-section-week = గత 7 రోజులు
 about-logins-login-intro-heading-logged-out2 = మీరు భద్రపరచుకున్న ప్రవేశాల కోసం చూస్తున్నారా? వాటిని దిగుమతి చేసుకోండి లేదా సింక్‌ను చేతనం చేసుకోండి.
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
-login-intro-instructions-fxa = మీ ప్రవేశాలు ఉన్న పరికరంలో { -fxaccount-brand-name(capitalization: "sentence") } సృష్టించుకోండి లేదా మీ ఖాతా లోనికి ప్రవేశించండి.
+login-intro-instructions-fxa = మీ ప్రవేశాలు ఉన్న పరికరంలో { -fxaccount-brand-name } సృష్టించుకోండి లేదా మీ ఖాతా లోనికి ప్రవేశించండి.
 about-logins-login-intro-heading-message = మీ సంకేతపదాలను ఒక సురక్షిత ప్రదేశంలో భద్రపరచండి
 login-intro-instructions-fxa-passwords-help = మరింత సహాయం కోసం <a data-l10n-name="passwords-help-link">సంకేతపదాల తోడ్పాటు</a>ను చూడండి.
 
