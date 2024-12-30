@@ -9,6 +9,8 @@ accessibility-learn-more = Cchiù nfurmazzioni
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+accessibility-progress-finishing = Staju cumplitannu…
+    .aria-valuetext = Staju cumplitannu…
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 

@@ -117,4 +117,11 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Nuḍḍu viscottu, nu�
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Cumpleta a cunfijurazzioni di { -brand-short-name }
 onboarding-checklist-extension = Junci nu stinneriu
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
