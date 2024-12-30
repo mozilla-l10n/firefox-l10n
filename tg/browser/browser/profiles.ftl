@@ -36,6 +36,7 @@ edit-profile-page-explore-themes = Дидани мавзуъҳои бештар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Нест кардан
+edit-profile-page-no-name = Ин профилро номгузорӣ кунед, то тавонед онро дертар ба осонӣ пайдо кунед. Шумо метавонед номро дар вақти дилхоҳ иваз намоед.
 edit-profile-page-duplicate-name = Номи профил аллакай истифода мешавад. Номи наверо кӯшиш кунед.
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
 new-profile-page-title = Профили нав
