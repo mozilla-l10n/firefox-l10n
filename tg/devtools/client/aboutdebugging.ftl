@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Менюи барномасо�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Реҷаи ислоҳкунии хатоҳои USB-ро дар менюи барномасози Android фаъол намоед.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Интиқоли файлро фаъол созед ва боварӣ ҳосил кунед, ки дастгоҳи шумо дар реҷаи «Танҳо барқгирӣ» намебошад.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Реҷаи ислоҳкунии хатоҳои USB-ро ба воситаи Firefox дар дастгоҳи Android фаъол намоед.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Дастгоҳи Android-ро ба компютери худ пайваст намоед.
