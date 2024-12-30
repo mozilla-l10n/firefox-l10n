@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } kunne ikke oprette en ny maske. HTTP-fejlkode: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } kunne ikke finde genbrugelige masker. HTTP-fejlkode: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Du skal logge ind på { -fxaccount-brand-name } for at kunne bruge { -relay-brand-name }.
 firefox-relay-must-login-to-account = Log ind på din konto for at bruge dine { -relay-brand-name }-mail-masker.
@@ -41,7 +41,6 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikke nu
     .accesskey = n
-firefox-relay-offer-what-fxa-and-relay-provides = Ved at oprette en konto får du adgang til flere produkter, der beskytter dit privatliv. Alle mails sendt til din mail-maske bliver sendt videre til din rigtige mailadresse (medmindre du vælger at blokere dem).
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Log in på { -brand-product-name } og brug maske
     .accesskey = L
@@ -51,6 +50,10 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ikke nu
     .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Start med at oprette en konto eller logge ind for at bruge en mail-maske
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -75,7 +78,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Beskyt dig mod spam med en mail-maske
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Beskyt dig mod spam ved at skjule din rigtige mailadresse med en <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label>. Du modtager stadig mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> i din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Start med at oprette en konto eller logge ind for at bruge en mail-maske
-firefox-relay-offer-legal-notice-with-domain-and-value-prop = Ved at oprette en mail-maske accepterer du <label data-l10n-name="tos-url">tjenestevilkårene</label> og <label data-l10n-name="privacy-url">privatlivserklæringen</label>.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Næste
     .accesskey = N
