@@ -291,6 +291,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Geroago
     .accesskey = g
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Argibide gehiago
+root-certificate-windows-background-notification-update-button = Eguneratu { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
