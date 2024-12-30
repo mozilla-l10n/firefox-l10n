@@ -109,6 +109,7 @@ inactive-css-collapsed-table-borders-fix = Кӯшиш кунед, ки <strong>b
 inactive-css-not-table-cell-fix = Кӯшиш кунед, ки «<strong>display:table-cell</strong>»-ро илова намоед. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Кӯшиш кунед, ки <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ё <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
 inactive-css-border-image-fix = Дар унсури ҷадвали аслӣ, хусусиятро тоза кунед ё қимати <strong>border-collapse</strong>-ро ба қимате иваз кунед, ки аз <strong>collapse</strong> фарқ мекунад. { learn-more }
+inactive-css-resize-fix = Кӯшиш кунед, ки <strong>overflow</strong>-ро ба қимати ғайр аз <strong>visible</strong> таъин кунед ё унсури ивазшудаеро, ки онро дастгирӣ мекунад, равона кунед. { learn-more }
 inactive-css-ruby-element-fix = Кӯшиш кунед, ки <strong>font-size</strong>-ро дар матни «ruby» иваз намоед. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Кӯшиш кунед, ки шумораи сатрҳоро кам кунед. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Аз тақсимшавии муҳтавои унсур худдорӣ намоед, масалан, бо нест кардани сутунҳо ё бо истифода аз қимати <strong>page-break-inside:avoid</strong>. { learn-more }
