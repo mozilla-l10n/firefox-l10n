@@ -440,6 +440,8 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Таҳрир кардани мат
 pdfjs-editor-new-alt-text-dialog-add-label = Илова кардани матни иловагӣ (тафсири тасвир)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Тафсири худро дар ин ҷо нависед…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Тавсифи мухтасар барои одамоне, ки аксҳоро дида наметавонанд ё вақте ки аксҳо кушода намешаванд.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Ин матни ивазкунанда ба таври худкор сохта шудааст ва шояд нодуруст бошад.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Маълумоти бештар
