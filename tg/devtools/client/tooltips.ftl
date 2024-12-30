@@ -27,6 +27,7 @@ learn-more = <span data-l10n-name="link">Маълумоти бештар</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир ё турин намебошад.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир, дарбаргирандаи турин ё дарбаргирандаи серсутун намебошад.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи бо якчанд сутун намебошад.
+inactive-css-column-span = <strong>{ $property }</strong> ба ин унсур таъсири фосилагузориро намерасонад, зеро ки он дар дохили дарбаргирандаи бо якчанд сутун намебошад.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин ё чандир намебошад.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин намебошад.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи турин намебошад.
@@ -38,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::placeholder» дастгирӣ карда намешавад.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дорои намоиши <strong>{ $display }</strong> мебошад.
 inactive-css-not-display-block-on-floated = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>block</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
+inactive-css-not-display-block-on-floated-2 = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>{ $display }</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он наметавонад дар унсурҳои «grid» ё «flex» истифода карда шавад.
 inactive-css-not-block = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои дар сатҳи блок татбиқ карда шавад.
 inactive-css-not-floated = Хусусияти <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он метавонад танҳо ба унсурҳои шинокунанда татбиқ карда шавад.
