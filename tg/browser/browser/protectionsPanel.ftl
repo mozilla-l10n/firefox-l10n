@@ -74,6 +74,7 @@ protections-panel-not-found-label = Ҳеҷ чиз муайян карда наш
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = Вақте ки шумо дар ин сомона қарор доред ва агар иҷозат надиҳед, «{ -brand-short-name }» муҳтавои пайгирикунандаро манъ мекунад.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
