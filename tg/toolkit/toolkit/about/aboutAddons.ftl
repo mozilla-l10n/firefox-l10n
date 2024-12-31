@@ -295,6 +295,12 @@ find-more-themes = Гирифтани мавзуъҳои бештар
 # used for screen readers.
 addon-options-button =
     .aria-label = Имконоти бештар
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Васеъшавиҳо ва мавзуъҳо ба шумо барои татбиқи танзимоти шахсӣ дар «{ -brand-product-name }» имкон медиҳанд.
+    Онҳо метавонанд махфияти шуморо афзоиш диҳанд, расонаҳоро беҳтар кунанд, намуди зоҳирии «{ -brand-product-name }» иваз кунанд
+    ва имкониятҳои дигар пешниҳод намоянд. Ин барномаҳои нармафзории хурд  аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Дар ин маҷмуъ аз ҷониби «{ -brand-product-name }» чизҳои беҳтарин барои амнияти махсус, самаранокӣ ва қобилиятнокӣ <a data-l10n-name="learn-more-trigger">тавсия дода мешаванд</a>.
 
 ## Add-on actions
 
