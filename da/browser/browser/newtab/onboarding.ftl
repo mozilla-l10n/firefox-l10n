@@ -390,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jeg har brugt den før, 
 onboarding-new-tabs-title = Fortæl os, hvor du vil have dine faneblade
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Du kan altid ændre det i indstillingerne for sidepanel.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Faneblade på dine præmisser
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Har du mange åbne faneblade? Prøv at have faneblade i siden af browseren for at få et bedre overblik. Eller hav dem i toppen som sædvanligt. Skift når som helst.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Vælg layout for faneblade
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Prøv at have faneblade i siden af browseren for at få et bedre overblik, der kan hjælpe dig med at fokusere. Eller hav faneblade i toppen som sædvanligt. Skift når som helst.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Faneblade til siden
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -436,6 +444,7 @@ onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prøv fanebladsgrupper for at skabe mere orden og fokus
 
 ## Multi Profiles feature onboarding messages
 
