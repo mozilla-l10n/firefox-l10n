@@ -113,5 +113,9 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Барои дидани маълумоти ҷамъшуда аз тарафи телеметрияи соқит, лутфан, ба
     <a data-l10n-name="about-telemetry-link">about:telemetry</a> муроҷиат кунед.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Барои дидани барчаспҳои ислоҳи хатоҳо, дидани пингҳои пурра, дидани ҷараёнҳои рӯйдодҳои 
+    зинда ё дидани нишондиҳандаҳои намоишӣ, лутфан, ба 
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> муроҷиат кунед.
 about-glean-about-data-list-item-firefox-profiler = Барои сабт кардани профили самаранокӣ ва дидани ҳамаи нишондиҳандаҳои сабтшуда, лутфан, аз <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> истифода баред.
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
