@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Brug en browser, der er støttet af en 
 mr2022-onboarding-get-started-primary-subtitle = Vores seneste version er bygget for at opfylde dine behov og gøre det nemmere at bevæge dig rundt på nettet. Den er fyldt med funktioner, vi tror du kommer til at elske.
 mr2022-onboarding-get-started-primary-button-label = Hurtig opsætning
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Lynhurtig opsætning
 mr2022-onboarding-import-subtitle = Opsæt { -brand-short-name } som du vil. Tilføj dine bogmærker, adgangskoder og mere fra din gamle browser.
@@ -431,3 +433,11 @@ onboarding-checklist-pin = Fastgør { -brand-short-name } til proceslinjen
 onboarding-checklist-import = Importer fra tidligere browser
 onboarding-checklist-extension = Tilføj en udvidelse
 onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = Opret en profil
+multi-profile-callout-cta = Opret en profil
