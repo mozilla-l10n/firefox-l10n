@@ -129,7 +129,7 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-button-idle =
     .label = Профилсоз
-    .tooltiptext = Профили самаранокро сабт кунед
+    .tooltiptext = Профили самаранокиро сабт кунед
 profiler-popup-button-recording =
     .label = Профилсоз
     .tooltiptext = Профилсоз профилеро сабт карда истодааст
