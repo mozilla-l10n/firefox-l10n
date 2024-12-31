@@ -391,8 +391,12 @@ onboarding-new-tabs-title = Скажыце нам, дзе вы хочаце ра
 onboarding-new-tabs-subtitle = Пераключайце гэта, калі захочаце, у наладах бакавой панэлі.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Вашы карткі, ваш шлях
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Трымаеце шмат картак адкрытымі? Паспрабуйце карткі збоку для больш аптымізаванага прагляду. Або трымайцеся класікі з выступамі ўверсе. Пераключайцеся ў любы час.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Выберыце выклад картак
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Каб атрымаць рацыянальны выгляд, які дапаможа вам заставацца засяроджаным, паспрабуйце карткі збоку. Або трымайцеся класікі з выступамі ўверсе. Пераключайцеся ў любы час.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Карткі збоку
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -439,6 +443,11 @@ onboarding-checklist-sign-up = Зарэгіструйцеся або ўвайд�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Паспрабуйце групы картак — менш мітусні, больш увагі
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Павітайцеся з профілямі { -brand-product-name }
+multi-profile-spotlight-cta = Стварыць профіль
+multi-profile-callout-title = Стварыце розныя профілі для працы і забавы
+multi-profile-callout-cta = Стварыць профіль
