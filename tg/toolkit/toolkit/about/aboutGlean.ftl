@@ -103,6 +103,10 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Танзимот татбиқ карда шуд ва дархост фиристода шуд!
 about-glean-about-data-header = Дар бораи «Маълумот»
+about-glean-about-data-description = Якчанд абзори гуногун мавҷуданд, ки шумо метавонед барои дидани маълумоти шахсии худ, вобаста аз он, ки шумо чиро ҷустуҷӯ мекунед, истифода баред.
+about-glean-about-data-description-list-intro =
+    Лутфан, барои истифода кардан аз ҳар як абзори мушаххас
+    ба рӯйхати дар поён овардашуда муроҷиат кунед:
 about-glean-about-data-list-item-dictionary =
     Барои дидани маълумоти ҷамъшуда аз ҷониби «{ -glean-brand-name }» дар ҳар як барнома, лутфан, ба
     <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
