@@ -44,3 +44,14 @@ sync-setup-verify-heading = Вы сапраўды хочаце ўвайсці ў
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Іншы карыстальнік увайшоў у сінхранізацыю на гэтым камп'ютары. Уваход зліе закладкі, паролі і іншыя налады гэтага браўзера з { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Для гэтага профілю дасягнуты ліміт уліковых запісаў
+sync-profile-different-account-header = Гэты профіль раней быў сінхранізаваны з іншым уліковым запісам
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Уліковы запіс ужо выкарыстоўваецца
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Пераключыцца на «{ $profileName }»
