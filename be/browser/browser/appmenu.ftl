@@ -283,6 +283,8 @@ appmenuitem-relay-description = Маскіруйце сваю сапраўдну
 appmenuitem-services-relay-description = Запусціць панэль масак электроннай пошты
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Абараніце сваю актыўнасць у інтэрнэце
+appmenu-services-header = Мае сэрвісы
+appmenu-other-protection-header = Паспрабуйце іншыя ахоўныя сродкі ад { -vendor-short-name }:
 
 ## Profiles panel
 
