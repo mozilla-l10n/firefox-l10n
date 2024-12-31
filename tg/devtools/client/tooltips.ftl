@@ -55,6 +55,7 @@ inactive-css-collapsed-table-borders = Хусусияти <strong>{ $property }<
 inactive-css-not-table-cell = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он катаки ҷадвал намебошад.
 inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҳаракат карда намешавад.
 inactive-css-border-image = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ба унсурҳои дохили ҷадвале, ки дар он хусусияти <strong>border-collapse</strong> ба <strong>collapse</strong> дар унсури ҷадвали аслӣ танзим шудааст, татбиқ карда намешавад.
+inactive-css-resize = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳо бо қимати саршорие татбиқ карда шавад, ки аз унсури намоён фарқ мекунад ва ба баъзе унсурҳои ивазшавандае, ки ба «textareas» монанд мебошанд.
 inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
