@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-title = { -brand-short-name } - صارف پروفائل چݨو
 profile-window-create-profile = پروفائل بݨاؤ
 profile-card-edit-button =
     .title = پروفائل وچ تبدیلی کرو

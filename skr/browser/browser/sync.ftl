@@ -39,3 +39,7 @@ sync-setup-verify-heading = کیا تساں واقعی مطابقت پذیری �
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = ایں کمپیوٹر تے مطابقت پذیری کیتے پہلے ہک مختلف صارف تے دستخط کیتے ڳئے ہن۔ سائن ان کرݨ نال ایں براؤزر دے نشانیاں، پاس ورڈز تے ٻیاں ترتیباں کوں { $email } دے نال مل ویسے
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-button-create-profile = نویں پروفائل بݨاؤ

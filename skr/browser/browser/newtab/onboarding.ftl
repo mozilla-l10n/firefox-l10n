@@ -390,4 +390,13 @@ onboarding-genai-sidebar-secondary-button = براؤزنگ شروع کرو
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = { -brand-short-name } کوں ڈیفالٹ براؤزر بݨاؤ
+onboarding-checklist-pin = { -brand-short-name } ٹاسک بار تے پن کرو
+onboarding-checklist-import = پچھلے براؤزر کنوں درآمد کرو
 onboarding-checklist-extension = ایکسٹنشن شامل کرو
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
