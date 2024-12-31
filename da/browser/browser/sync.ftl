@@ -43,3 +43,7 @@ sync-setup-verify-heading = Er du sikker på, at du vil logge ind for at synkron
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = En anden bruger var tidligere logget ind for at synkronisere på denne computer. Ved at logge ind vil denne browsers bogmærker, adgangskoder og andre indstillinger blive sammenflettet med { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-button-create-profile = Opret en ny profil
