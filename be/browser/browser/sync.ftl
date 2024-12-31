@@ -66,6 +66,18 @@ sync-account-in-use-header = Уліковы запіс ужо выкарысто
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } ужо ўвайшоў у профіль «{ $otherProfile }».
 sync-account-in-use-description = Вы можаце звязаць гэты ўліковы запіс толькі з адным профілем на гэтым камп'ютары.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Гэты ўліковы запіс увайшоў у іншы профіль. Сінхранізаваць абодва профілі?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } увайшоў у профіль «{ $otherProfile }» на гэтым камп'ютары. Сінхранізацыя профілю “{ $currentProfile }” трывала аб'яднае дадзеныя з абодвух профіляў, такія як паролі і закладкі.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Пераключыцца на «{ $profileName }»
+sync-button-create-profile = Стварыць новы профіль
+sync-button-sync-and-merge = Сінхранізаваць і аб'яднаць дадзеныя
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Сінхранізаваць «{ $profileName }»
