@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Bruk en nettleser støttet av en ideell
 mr2022-onboarding-get-started-primary-subtitle = Vår nyeste versjon er laget for å møte dine behov og gjøre det enklere å navigere på nettet. Den er fullpakket med funksjoner vi tror du vil elske.
 mr2022-onboarding-get-started-primary-button-label = Hurtig konfigurering
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Lynrask konfigurering
 mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du liker det. Legg til bokmerker, passord og mer fra den gamle nettleseren din.
@@ -356,6 +358,10 @@ onboarding-mobile-download-security-and-privacy-subtitle = Når du er synkronise
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passer på deg
 onboarding-gratitude-security-and-privacy-subtitle = Takk for at du bruker { -brand-short-name }, støttet av Mozilla Foundation. Med din støtte jobber vi for å gjøre internett tryggere og mer tilgjengelig for alle.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Synkroniser dine data på tvers av enheter
+onboarding-sign-up-button = Registrer deg eller logg inn
+onboarding-sign-up-secondary-button = Begynn å surfe
 
 ## New user time and familiarity survey strings
 
@@ -382,6 +388,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jeg brukte den tidligere
 onboarding-new-tabs-title = Fortell oss hvor du vil ha fanene dine
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Slå den opp når du vil i sidestolpeinnstillingene.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Dine faner, på din måte
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Velg faneoppsett
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Faner på siden
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -397,3 +407,12 @@ onboarding-flair-text = Nyhet!
 onboarding-existing-horizontal-tabs-label = Behold horisontale faner
 onboarding-genai-sidebar-primary-button = Velg en samtalerobot
 onboarding-genai-sidebar-secondary-button = Begynn å surfe
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

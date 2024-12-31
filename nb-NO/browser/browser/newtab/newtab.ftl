@@ -461,3 +461,5 @@ newtab-section-unfollow-button = Slutt å følge
 
 newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere denne delen?
 newtab-section-confirm-block-section-p2 = Blokkert del vil ikke lenger vises i kilden din.
+newtab-section-block-section-button = Blokker denne delen
+newtab-section-cancel-button = Ikke nå
