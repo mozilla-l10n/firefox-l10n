@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuller
     .accesskey = A
+tab-group-menu-header = Fanebladsgrupper
 tab-context-unnamed-group =
     .label = Unavngiven gruppe
+tab-group-name-default = Gruppe uden navn
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

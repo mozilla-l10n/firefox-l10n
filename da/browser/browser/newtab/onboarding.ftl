@@ -445,8 +445,13 @@ onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Prøv fanebladsgrupper for at skabe mere orden og fokus
+tab-groups-onboarding-feature-callout-subtitle = Organiser dine faneblade ved at trække et faneblad hen oven på et andet for at skabe din første gruppe.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Sig hej til { -brand-product-name }-profiler
+multi-profile-spotlight-body = Skift nemt mellem at bruge browseren til dit arbejde og i din fritid. Profiler holder dine browsingdata som søgehistorik og adgangskoder helt adskilte, så du nemmere kan have være organiseret.
 multi-profile-spotlight-cta = Opret en profil
+multi-profile-callout-title = Opret forskellige profiler til arbejde og fritid
+multi-profile-callout-subtitle = Profiler holder dine browsingdata som søgehistorik og adgangskoder helt adskilte.
 multi-profile-callout-cta = Opret en profil
