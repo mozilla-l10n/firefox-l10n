@@ -75,6 +75,10 @@ fp-certerror-view-certificate-link = Дидани гувоҳиномаи сом�
 fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = На он қадар зиёд. Чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Рамзи хато: { $error }
