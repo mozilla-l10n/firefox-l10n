@@ -98,6 +98,7 @@ inactive-css-not-inline-or-tablecell-fix = Кӯшиш кунед, ки <strong>d
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong> ё <strong>display:block</strong>-ро илова намоед. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong>-ро илова намоед. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Кӯшиш кунед, ки <strong>float</strong>-ро тоза кунед ё <strong>display:block</strong>-ро илова намоед. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Кӯшиш кунед, ки қимати <strong>display</strong>-ро барои дарбаргирандаи унсур ба ягон қимати дигар, ба ғайр аз <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ё <strong>inline-grid</strong> иваз намоед ё <strong>float</strong>-ро тоза намоед. { learn-more }
 inactive-css-not-block-fix = Кӯшиш кунед, ки <strong>display:block</strong> ё <strong>float:left</strong>-ро илова намоед. { learn-more }
 inactive-css-not-floated-fix = Кӯшиш кунед, ки хусусияти <strong>float</strong>-ро бо қимати ғайр аз <strong>none</strong> илова намоед. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Кӯшиш кунед, ки хусусияти <strong>position</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>static</strong> фарқ мекунад. { learn-more }
