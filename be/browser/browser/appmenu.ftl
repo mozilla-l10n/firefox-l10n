@@ -280,6 +280,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Атрымлівайце абвесткі аб уцечках дадзеных
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Маскіруйце сваю сапраўдную электронную пошту і тэлефон
+appmenuitem-services-relay-description = Запусціць панэль масак электроннай пошты
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Абараніце сваю актыўнасць у інтэрнэце
 
