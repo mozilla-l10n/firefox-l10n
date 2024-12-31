@@ -444,10 +444,14 @@ onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpiau tabiau am lai o flerwch, mwy o drefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Dywedwch helo wrth broffiliau { -brand-product-name }
 multi-profile-spotlight-body = Newid yn hawdd rhwng pori am waith a hwyl. Mae proffiliau'n cadw'ch manylion pori, gan gynnwys hanes chwilio a chyfrineiriau, yn hollol ar wahân fel y gallwch gadw'n drefnus.
-multi-profile-spotlight-cta = Creu proffil
+multi-profile-spotlight-cta = Crëwch broffil
+multi-profile-callout-title = Creu gwahanol broffiliau ar gyfer gwaith a hwyl
+multi-profile-callout-subtitle = Mae proffiliau'n gadael i chi gadw'ch manylion pori, fel hanes chwilio a chyfrineiriau, yn hollol ar wahân.
+multi-profile-callout-cta = Crëwch broffil

@@ -47,3 +47,40 @@ sync-setup-verify-heading = Ydych chi'n siŵr eich bod am fewngofnodi i gydweddu
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Roedd defnyddiwr gwahanol wedi'i fewngofnodi o'r blaen i gydweddu ar y cyfrifiadur hwn. Bydd mewngofnodi yn cyfuno nodau tudalen, cyfrineiriau a gosodiadau eraill y porwr hwn â { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Wedi cyrraedd terfyn cyfrif ar gyfer y proffil hwn
+sync-profile-different-account-header = Cafodd y proffil hwn ei gydweddu i gyfrif gwahanol yn y gorffennol
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Er mwyn cadw'ch data'n drefnus a diogel, dim ond i un cyfrif y mae modd ei gydweddu pob proffil { -brand-product-name }. I fewngofnodi gan ddefnyddio { $acctEmail }, crëwch broffil newydd.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Proffil wedi'i gydweddu i gyfrif gwahanol
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Er mwyn cadw'ch data yn drefnus a diogel, rydym yn argymell creu proffil newydd i fewngofnodi gan ddefnyddio { $acctEmail }. Os dewiswch barhau i gydweddu ar y proffil hwn, bydd data o'r ddau gyfrif yn cael eu cyfuno'n barhaol ar " { $profileName } ".
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Cyfrif eisoes yn cael ei ddefnyddio
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = Mae { $acctEmail } eisoes wedi mewngofnodi i'r proffil “ { $otherProfile }”.
+sync-account-in-use-description = Dim ond gydag un proffil y mae modd i chi gysylltu'r cyfrif hwn ar y cyfrifiadur hwn.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Mae'r cyfrif hwn wedi'i fewngofnodi i broffil arall. Cydweddu'r ddau broffil?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Mae { $acctEmail } wedi mewngofnodi i'r proffil " { $otherProfile } " ar y cyfrifiadur hwn. Bydd cydweddu'r proffil “{ $currentProfile }” yn cyfuno data o'r ddau broffil yn barhaol, megis cyfrineiriau a nodau tudalen.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Newid i " { $profileName } "
+sync-button-create-profile = Crëwch broffil newydd
+sync-button-sync-and-merge = Cydweddu a chadw data
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Cydweddu “{ $profileName }”

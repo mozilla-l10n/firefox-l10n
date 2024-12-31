@@ -56,7 +56,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-second-sentence-control = Yn gyntaf, cofrestrwch neu mewngofnodwch i'ch cyfrif i ddefnyddio e-bost enwarall
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Yn gyntaf, cofrestrwch neu fewngofnodwch i'ch cyfrif i ddefnyddio e-bost enwarall
 firefox-relay-offer-legal-notice-control = Drwy gofrestru a chreu e-bost enwarall, rydych yn cytuno i'r <label data-l10n-name="tos-url">Amodau Gwasanaeth</label> a'r <label data-l10n-name="privacy-url">Hysbysiad Preifatrwydd</label>.
 
 ## The "basic-info" variation of the Relay offer popup

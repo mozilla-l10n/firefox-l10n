@@ -252,8 +252,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Diddymu
     .accesskey = D
+tab-group-menu-header = Grwpiau tabiau
 tab-context-unnamed-group =
     .label = Grŵp heb ei enwi
+tab-group-name-default = Grŵp dienw
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
