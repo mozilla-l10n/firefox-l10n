@@ -73,6 +73,8 @@ open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар �
 csp-xfo-blocked-long-desc = Барои муҳофизат кардани амнияти шумо, { $hostname } ба «{ -brand-short-name }» барои намоиш додани саҳифа иҷозат намедиҳад, агар сомонаи дигар онро дарунсохт карда бошад. Барои дидани ин саҳифа шумо бояд онро дар равзанаи нав кушоед.
 fp-certerror-view-certificate-link = Дидани гувоҳиномаи сомона
 fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = На он қадар зиёд. Чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Рамзи хато: { $error }
