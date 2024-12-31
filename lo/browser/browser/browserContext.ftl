@@ -265,9 +265,7 @@ main-context-menu-send-to-device =
     .label = ສົ່ງຫນ້າໄປຫາອຸປະກອນ
     .accesskey = D​
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = ໃຊ້ການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
@@ -287,6 +285,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = ການຈັດການການເຂົ້າສູ່ລະບົບ
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = ຈັດການລະຫັດຜ່ານ
     .accesskey = M
 main-context-menu-keyword =
     .label = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...
