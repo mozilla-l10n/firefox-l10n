@@ -50,8 +50,22 @@ sync-setup-verify-description = Іншы карыстальнік увайшоў
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Для гэтага профілю дасягнуты ліміт уліковых запісаў
 sync-profile-different-account-header = Гэты профіль раней быў сінхранізаваны з іншым уліковым запісам
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Каб захоўваць вашы звесткі ў парадку і ў бяспецы, кожны профіль { -brand-product-name } можна сінхранізаваць толькі з адным уліковым запісам. Каб увайсці з дапамогай { $acctEmail }, стварыце новы профіль.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Профіль сінхранізаваны з іншым уліковым запісам
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Каб захаваць вашы звесткі ў парадку і ў бяспецы, мы рэкамендуем стварыць новы профіль для ўваходу з дапамогай { $acctEmail }. Калі вы вырашыце працягнуць сінхранізацыю ў гэтым профілі, звесткі з абодвух уліковых запісаў будуць назаўсёды аб'яднаны ў «{ $profileName }».
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Уліковы запіс ужо выкарыстоўваецца
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } ужо ўвайшоў у профіль «{ $otherProfile }».
+sync-account-in-use-description = Вы можаце звязаць гэты ўліковы запіс толькі з адным профілем на гэтым камп'ютары.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Пераключыцца на «{ $profileName }»
