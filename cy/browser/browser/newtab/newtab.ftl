@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = Ynghylch { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Rhwystro
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Dad-ddilyn Pwnc
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -462,3 +465,10 @@ newtab-topic-selection-button-pick-interests = Dewiswch eich diddordebau
 newtab-section-follow-button = Dilyn
 newtab-section-following-button = Yn dilyn
 newtab-section-unfollow-button = Dad-ddilyn
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-section-p1 = Ydych chi'n siŵr eich bod am rwystro'r adran hon?
+newtab-section-confirm-block-section-p2 = Ni fydd adran sydd wedi'i rwystro'n ymddangos yn eich llif bellach.
+newtab-section-block-section-button = Rhwystro'r adran hon
+newtab-section-cancel-button = Nid nawr

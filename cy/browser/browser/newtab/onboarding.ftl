@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Defnyddiwch borwr sy'n cael ei gefnogi 
 mr2022-onboarding-get-started-primary-subtitle = Mae ein fersiwn diweddaraf wedi'i adeiladu o'ch cwmpas chi, gan ei gwneud hi'n haws nag erioed i deithio o amgylch y we. Mae'n llawn o nodweddion rydyn ni'n meddwl y byddwch chi'n eu caru.
 mr2022-onboarding-get-started-primary-button-label = Ei osod mewn eiliadau
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Gosodiad chwim
 mr2022-onboarding-import-subtitle = Gosodwch { -brand-short-name } fel rydych chi'n ei hoffi. Ychwanegwch eich nodau tudalen, cyfrineiriau, a mwy o'ch hen borwr.
@@ -388,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Rwy wedi ei ddefnyddio y
 onboarding-new-tabs-title = Dywedwch lle hoffech chi gael eich tabiau
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Gallwch ei symud pryd bynnag fyddwch eisiau yng ngosodiadau'r bar ochr.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Eich tabiau, eich ffordd
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Yn cadw llawer o dabiau ar agor? Rhowch gynnig ar roi eich tabiau ar yr ochr i gael golwg symlach. Neu eu cadw'n glasurol gyda thabiau ar y brig. Gallwch eu newid unrhyw bryd.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Dewiswch gynllun eich tab
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = I gael golwg symlach i gadw ffocws, rhowch gynnig ar roi eich tabiau ar yr ochr. Neu cadw nhw'n glasurol gyda thabiau ar y brig. Gallwch eu newid unrhyw bryd.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabiau ar yr ochr
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -431,3 +441,13 @@ onboarding-checklist-pin = Pinio { -brand-short-name } i'r bar tasgau
 onboarding-checklist-import = Mewnforiwch o'r porwr blaenorol
 onboarding-checklist-extension = Ychwanegu estyniad
 onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Dywedwch helo wrth broffiliau { -brand-product-name }
+multi-profile-spotlight-body = Newid yn hawdd rhwng pori am waith a hwyl. Mae proffiliau'n cadw'ch manylion pori, gan gynnwys hanes chwilio a chyfrineiriau, yn hollol ar wahân fel y gallwch gadw'n drefnus.
+multi-profile-spotlight-cta = Creu proffil
