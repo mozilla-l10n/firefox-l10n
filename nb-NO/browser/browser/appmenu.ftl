@@ -282,6 +282,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Skjul din ekte e-postadresse og ditt telefonnummer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskytt din nettaktivitet
+appmenu-services-header = Mine tjenester
+appmenu-other-protection-header = Prøv andre beskyttelsesverktøy fra { -vendor-short-name }:
 
 ## Profiles panel
 

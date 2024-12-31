@@ -62,6 +62,10 @@ genai-provider-view-details =
     .label = Vis samtalerobot-detaljer
 genai-provider-about-chatbots =
     .label = Om disse samtalerobotene
+genai-options-show-shortcut =
+    .label = Vis snarvei når du velger tekst
+genai-options-hide-shortcut =
+    .label = Skjul snarvei når du velger tekst
 
 ## Chatbot onboarding
 
@@ -76,3 +80,10 @@ genai-onboarding-gemini-tooltip =
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-analyze = Analyser dokumenter og bilder
+genai-onboarding-copilot-analyze = Analyser bilder
+genai-onboarding-copilot-price = Gratis og betalte alternativer; konto kreves for enkelte oppgaver
+genai-onboarding-gemini-generate = Generer tekst, bilder og kode
+genai-onboarding-huggingchat-generate = Generer tekst og kode
+genai-onboarding-lechat-generate = Generer tekst og kode
+genai-onboarding-lechat-price = Gratis; konto kreves

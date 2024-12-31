@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } kunne ikke generere en ny maske. HTTP-feilkode: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } kunne ikke finne gjenbrukbare masker. HTTP-feilkode: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for å bruke { -relay-brand-name }.
 firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -relay-brand-name }-e-postmaskene dine.
@@ -33,3 +33,33 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikke nå
     .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registrer deg
+    .accesskey = R
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ikke vis meg dette igjen
+    .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ikke nå
+    .accesskey = e
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registrer deg
+    .accesskey = R
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registrer deg
+    .accesskey = R
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Neste
+    .accesskey = N
