@@ -515,8 +515,7 @@ home-prefs-shortcuts-description = Ձեր պահպանած կամ այցելած
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանավորված դյուրանցումներ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
@@ -709,6 +708,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Դուք համաժամեցնում եք այս միույթները կապակցված ձեր բոլոր սարքերի միջև.
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
