@@ -48,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Az adatok rögzítésének és keresésének különböző módjainak magyarázatához tekintse meg az
+    <strong>Információk az adatokról</strong> lapot.
 about-glean-about-testing-header = Tudnivalók a tesztelésről
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -111,6 +114,9 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Beállítások alkalmazva, és a ping elküldve.
 about-glean-about-data-header = Információk az adatokról
+about-glean-about-data-list-item-about-telemetry =
+    A hagyományos telemetria által gyűjtött adatok közti tallózáshoz forduljon a következőhöz:
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Teljesítményprofil rögzítéséhez és az összes rögzített metrika megtekintéséhez használja a
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }t</a>.
