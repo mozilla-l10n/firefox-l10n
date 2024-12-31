@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Выкарыстоўвайце браў
 mr2022-onboarding-get-started-primary-subtitle = Наша апошняя версія створана для вас, што дазваляе прасцей, чым калі-небудзь, перамяшчацца па сетцы. Яна багатая функцыямі, якія, як мы думаем, вам спадабаюцца.
 mr2022-onboarding-get-started-primary-button-label = Наладзіць за лічаныя секунды
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Вокамгненная налада
 mr2022-onboarding-import-subtitle = Наладзьце { -brand-short-name } як вам падабаецца. Дадайце свае закладкі, паролі і іншае са свайго старога браўзера.
@@ -387,6 +389,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Я выкарыстаў 
 onboarding-new-tabs-title = Скажыце нам, дзе вы хочаце размясціць свае карткі
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Пераключайце гэта, калі захочаце, у наладах бакавой панэлі.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Вашы карткі, ваш шлях
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Выберыце выклад картак
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Карткі збоку
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -430,3 +436,9 @@ onboarding-checklist-pin = Замацуйце { -brand-short-name } на пан�
 onboarding-checklist-import = Імпартуйце з папярэдняга браўзера
 onboarding-checklist-extension = Дадайце пашырэнне
 onboarding-checklist-sign-up = Зарэгіструйцеся або ўвайдзіце ў свой уліковы запіс
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
