@@ -43,3 +43,31 @@ sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkroni
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = En annen bruker var tidligere innlogget inn for å synkronisere på denne datamaskinen. Hvis du logger inn, vil denne nettleserens bokmerker, passord og andre innstillinger slås sammen med { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Kontogrensen er nådd for denne profilen
+sync-profile-different-account-header = Denne profilen ble tidligere synkronisert til en annen konto
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = For å holde dataene dine organisert og sikker, kan hver { -brand-product-name }-profil bare synkroniseres til én konto. For å logge på med { $acctEmail }, opprett en ny profil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil synkronisert til annen konto
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Kontoen er allerede i bruk
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } er allerede logget på «{ $otherProfile }»-profilen
+sync-account-in-use-description = Du kan kun knytte denne kontoen til én profil på denne datamaskinen.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Denne kontoen er logget på en annen profil. Vil du synkronisere begge profilene?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Bytt til «{ $profileName }»
+sync-button-create-profile = Opprett en ny profil
+sync-button-sync-and-merge = Synkroniser og slå sammen data
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synkroniser «{ $profileName }»

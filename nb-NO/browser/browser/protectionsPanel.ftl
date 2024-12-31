@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Mer informasjon om utvidet sporingsbeskyttelse
 protections-panel-etp-on-header = Utvidet sporingsbeskyttelse er slått PÅ for dette nettstedet
 protections-panel-etp-off-header = Utvidet sporingsbeskyttelse er slått AV for dette nettstedet
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Fungerer ikke nettstedet?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Fungerer ikke nettstedet?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Utvidet sporingsbeskyttelse
     .description = Av for dette nettstedet
     .aria-label = Utvidet sporingsbeskyttelse: Av for { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Fungerer ikke nettstedet?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Fungerer ikke nettstedet?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,18 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Blokkert
 protections-panel-not-blocking-label = Tillatt
 protections-panel-not-found-label = Ingen oppdaget
+
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blokkerer sporings-innhold mens du er på dette nettstedet med mindre du tillater det.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Tillat { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } sporere og innhold blokkert
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Tillat på { $websitehost }
 
 ##
 
@@ -108,7 +120,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapporter problem med et nettsted
 protections-panel-content-blocking-breakage-report-view-description = Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre { -brand-short-name } bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til Mozilla. <label data-l10n-name="learn-more">Les mer</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre { -brand-short-name } bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL-adresse
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL-adresse
