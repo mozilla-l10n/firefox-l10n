@@ -36,6 +36,9 @@ protections-panel-content-blocking-fingerprinters-label = Giniratura d'urmi digg
 
 protections-panel-blocking-label = Bluccatu
 
+## Smartblock strings
+
+
 ##
 
 
@@ -54,6 +57,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 
 ## Protections panel info message
 
-cfr-protections-panel-header = Nàviga senza èssiri sicutatu
+cfr-protections-panel-header = Nàvica senza èssiri sicutatu
 cfr-protections-panel-body = Pruteggi i to dati. { -brand-short-name } ti pruteggi d'assai dî trazzatura cchiù cumuni chi ti sicùtanu quannu nàvighi.
 cfr-protections-panel-link-text = Cchiù nfurmazzioni

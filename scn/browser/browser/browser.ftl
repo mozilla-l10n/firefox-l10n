@@ -39,7 +39,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Grapi quatru dî pirmisi pâ rialtà virtuali
 urlbar-storage-access-anchor =
-    .tooltiptext = Grapi quatru dî pirmisi pâ navigazzioni
+    .tooltiptext = Grapi quatru dî pirmisi pâ navicazzioni
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Manija a spartuta dî finestri o dû schirmu cu stu situ
 urlbar-indexed-db-notification-anchor =
@@ -227,7 +227,7 @@ browser-window-close-button =
 
 browser-import-button2 =
     .label = Mporta nzingalibbra…
-    .tooltiptext = Mporta nzingalibbra di n'autru navigaturi nne { -brand-short-name }.
+    .tooltiptext = Mporta nzingalibbra di n'autru navicaturi nne { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -482,7 +482,7 @@ picture-in-picture-hide-toggle =
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
-    .aria-label = Navigazzioni
+    .aria-label = Navicazzioni
 navbar-downloads =
     .label = Scarricamenti
 navbar-overflow =
@@ -504,7 +504,7 @@ navbar-search =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = Schedi di navigazzioni
+    .aria-label = Schedi di navicazzioni
 tabs-toolbar-new-tab =
     .label = Nova scheda
 tabs-toolbar-list-all-tabs =

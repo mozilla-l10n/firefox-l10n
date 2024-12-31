@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Crunuluggìa
 item-history-and-downloads =
-    .label = Crunuluggìa navigazzioni e scarricamenti
+    .label = Crunuluggìa navicazzioni e scarricamenti
     .accesskey = C
 item-cookies =
     .label = Viscotta

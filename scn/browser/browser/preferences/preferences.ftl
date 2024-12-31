@@ -20,7 +20,7 @@ non-technical-privacy-header = Prifirenzi di privatizza dî siti web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Cuntrollu Glubbali dâ Privatizza (GPC)
 settings-page-title = Paràmitri
-managed-notice = U to navigaturi è manijatu dâ to urganizzazzioni.
+managed-notice = U to navicaturi è manijatu dâ to urganizzazzioni.
 managed-notice-info-icon =
     .alt = Nfurmazzioni
 category-list =
@@ -82,15 +82,15 @@ search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name=
 
 startup-header = Abbìu
 always-check-default =
-    .label = Cuntrolla sempri si { -brand-short-name } è u to navigaturi pridifinutu
+    .label = Cuntrolla sempri si { -brand-short-name } è u to navicaturi pridifinutu
     .accesskey = s
-is-default = { -brand-short-name } piccamora è u to navigaturi pridifinutu
-is-not-default = { -brand-short-name } nun è u to navigaturi pridifinutu
+is-default = { -brand-short-name } piccamora è u to navicaturi pridifinutu
+is-not-default = { -brand-short-name } nun è u to navicaturi pridifinutu
 set-as-my-default-browser =
     .label = Fai addivintari pridifinutu…
     .accesskey = d
 startup-restore-warn-on-quit =
-    .label = Abbìsami niscennu dû navigaturi
+    .label = Abbìsami niscennu dû navicaturi
 disable-extension =
     .label = Sdisabbìlita stinneriu
 tabs-group-header = Schedi
@@ -198,7 +198,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Scarta…
-           *[other] Nàviga…
+           *[other] Nàvica…
         }
     .accesskey =
         { PLATFORM() ->
@@ -326,7 +326,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Navigazzioni
+browsing-title = Navicazzioni
 browsing-use-autoscroll =
     .label = Usa u scurrimentu autumàticu
     .accesskey = a
@@ -439,7 +439,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Barra di risciduta
 search-bar-hidden =
-    .label = Usa a barra dû nnirizzu pi risciduti e navigazzioni
+    .label = Usa a barra dû nnirizzu pi risciduti e navicazzioni
 search-bar-shown =
     .label = Junci sbarra di risciduta nnâ sbarra dî strumenti
 search-engine-default-header = Muturi di risciduta pridifinutu
@@ -629,7 +629,7 @@ sync-verification-not-sent-body = P'accamora nun putemu mannari na virìfica, to
 
 ## Privacy Section
 
-privacy-header = Privatizza navigaturi
+privacy-header = Privatizza navicaturi
 
 ## Privacy Section - Logins and Passwords
 
@@ -694,13 +694,13 @@ history-remember-option-never =
     .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
-history-remember-description = { -brand-short-name } s'arricorda dâ to navigazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
-history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navigazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
+history-remember-description = { -brand-short-name } s'arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
+history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navicazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
-    .label = Usa sempri a mudalità di navigazzioni privata
+    .label = Usa sempri a mudalità di navicazzioni privata
     .accesskey = p
 history-remember-browser-option =
-    .label = Ricorda a crunuluggìa di navigazzioni e dî scarricamenti
+    .label = Ricorda a crunuluggìa di navicazzioni e dî scarricamenti
     .accesskey = c
 history-remember-search-option =
     .label = Ricorda a crunuluggìa di risciduta e dî mòduli
@@ -727,7 +727,7 @@ sitedata-learn-more = Cchiù nfurmazzioni
 sitedata-delete-on-close =
     .label = Cancella viscotta e dati dî siti quannu { -brand-short-name } veni chiujutu
     .accesskey = k
-sitedata-delete-on-close-private-browsing = Câ navigazzioni privata pirmanenti, i viscotta e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiujutu.
+sitedata-delete-on-close-private-browsing = Câ navicazzioni privata pirmanenti, i viscotta e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiujutu.
 sitedata-allow-cookies-option =
     .label = Accetta viscotta e dati dî siti
     .accesskey = A
@@ -764,7 +764,7 @@ sitedata-settings =
 addressbar-header = Barra dû nnirizzu
 addressbar-suggest = Quannu si usa a barra dû nnirizzu, duna suggirimenti
 addressbar-locbar-history-option =
-    .label = Crunuluggìa di navigazzioni
+    .label = Crunuluggìa di navicazzioni
     .accesskey = C
 addressbar-locbar-bookmarks-option =
     .label = Nzingalibbra

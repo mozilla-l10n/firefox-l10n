@@ -25,7 +25,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Grapi u minù
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Mporta di n'autru navigaturi…
+about-logins-menu-menuitem-import-from-another-browser = Mporta di n'autru navicaturi…
 about-logins-menu-menuitem-import-from-a-file = Mporta d'un pricu…
 about-logins-menu-menuitem-export-logins = Esporta cridinziali…
 about-logins-menu-menuitem-remove-all-logins = Leva tutti i cridinziali…
@@ -112,9 +112,9 @@ login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } 
 login-intro-instructions-fxa2 = Cria o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
 login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
 login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p'aviri ajutu.
-about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
-about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navigaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
-about-logins-intro-import3 = Ammacca u sìmmulu cchiù pi jùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navigaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
+about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navicaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
+about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navicaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
+about-logins-intro-import3 = Ammacca u sìmmulu cchiù pi jùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navicaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
 
 ## Login
 

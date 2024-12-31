@@ -43,7 +43,7 @@ import-migrating-description = Staju mpurtannu sti cosi…
 import-select-profile-page-title = Scarta u profilu
 import-select-profile-description = Chisti sunu i profila ca poi scègghiri:
 import-done-description = Chisti sunnu i cosi ca potti pigghiari:
-import-close-source-browser = Pi favuri vidi si u navigaturi ca scigghisti fu chiusu prima di cuntinuari.
+import-close-source-browser = Pi favuri vidi si u navicaturi ca scigghisti fu chiusu prima di cuntinuari.
 imported-safari-reading-list = Lista di littura (di Safari)
 
 ## Browser data types
@@ -67,14 +67,14 @@ browser-data-cookies-label =
 browser-data-history-checkbox =
     .label =
         { $browser ->
-            [firefox] Crunuluggìa di navigazzioni e nzingalibbra
-           *[other] Crunuluggìa di navigazzioni
+            [firefox] Crunuluggìa di navicazzioni e nzingalibbra
+           *[other] Crunuluggìa di navicazzioni
         }
 browser-data-history-label =
     .value =
         { $browser ->
-            [firefox] Crunuluggìa di navigazzioni e nzingalibbra
-           *[other] Crunuluggìa di navigazzioni
+            [firefox] Crunuluggìa di navicazzioni e nzingalibbra
+           *[other] Crunuluggìa di navicazzioni
         }
 browser-data-bookmarks-checkbox =
     .label =

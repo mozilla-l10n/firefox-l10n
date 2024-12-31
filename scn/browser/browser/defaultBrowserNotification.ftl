@@ -12,4 +12,4 @@
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = Cumpleta a cunfijurazzioni di { -brand-short-name } comu navigaturi pridifinutu
+default-browser-guidance-notification-title = Cumpleta a cunfijurazzioni di { -brand-short-name } comu navicaturi pridifinutu

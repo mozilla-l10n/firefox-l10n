@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Staju sincrunizzannu…
-sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizza cchiù cû to cuntu, ma nun cancella nuḍḍu dî to dati di navigazzioni nna stu dispusitivu.
+sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizza cchiù cû to cuntu, ma nun cancella nuḍḍu dî to dati di navicazzioni nna stu dispusitivu.
 sync-disconnect-dialog-button = Scullèjati
 fxa-menu-connect-another-device =
     .label = Culleja n'autru dispusitivu…
@@ -22,3 +22,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Manna sùbbitu na scheda a tutti i dispusitivi unni trasisti.
 fxa-menu-sign-out =
     .label = Nesci…
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

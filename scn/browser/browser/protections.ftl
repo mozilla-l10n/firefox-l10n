@@ -32,7 +32,7 @@ cookie-tab-content = Sti viscotta ti sicùtanu d'un situ a n'autru pi cògghiri 
 tracker-tab-title = Cuntinutu trazzanti
 tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri cuntinuti cu còdici trazzanti. Bluccari sti cuntinuti po fari carricari sti siti cchiù lesti, ma certi buttuna, mòduli e panneḍḍi d'accessu putìssiru nun funziunari cchiù. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 fingerprinter-tab-title = Giniratura d'urmi diggitali
-fingerprinter-tab-content = I giniratura d'urmi diggitali cògghinu mpustazzioni dû to navigaturi o computer pi criari un prufilu di tia. Usannu st'urma diggitali, ti ponnu assicutari supra a siti diversi. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+fingerprinter-tab-content = I giniratura d'urmi diggitali cògghinu mpustazzioni dû to navicaturi o computer pi criari un prufilu di tia. Usannu st'urma diggitali, ti ponnu assicutari supra a siti diversi. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 cryptominer-tab-title = Minatura di crittumunita
 cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi

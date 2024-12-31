@@ -70,7 +70,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Nàviga senza èssiri sicutatu
+cfr-protections-panel-header = Nàvica senza èssiri sicutatu
 cfr-protections-panel-body = Pruteggi i to dati. { -brand-short-name } ti pruteggi d'assai dî trazzatura cchiù cumuni chi ti sicùtanu quannu nàvighi.
 cfr-protections-panel-link-text = Cchiù nfurmazzioni
 
@@ -143,7 +143,7 @@ cookie-banner-blocker-onboarding-body = Cchiù picca distrazzioni, cchiù picca 
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-sync-header = Nàviga senza chi ti perdi nenti
+device-migration-fxa-spotlight-sync-header = Nàvica senza chi ti perdi nenti
 device-migration-fxa-spotlight-sync-body = Sincrunizza 'n manera cifrata tutti i to nfurmazzioni mpurtanti — a tipu i nzingalibbra e i chiavi. Doppu i poi pigghiari unn'è-è ca usi { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Accumincia
 

@@ -19,21 +19,21 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Riscedi cu { $engine } o metti nu nnirizzu
 about-private-browsing-handoff-text-no-engine = Riscedi o metti nu nnirizzu
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
-about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
-about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navigazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
+about-private-browsing-info-description-private-window = Finestra privata: { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navicazzioni quannu chiuji tutti i finestri privati. Chistu nun veni a diri èssiri anònimu.
+about-private-browsing-info-description-simplified = { -brand-short-name } pulizzìa a to crunuluggìa di risciduta e di navicazzioni quannu chiuji tutti i finestri privati, ma chistu nun veni a diri chi sì anònimu.
 about-private-browsing-learn-more-link = Cchiù nfurmazzioni
 about-private-browsing-hide-activity = Ammuccia a to attività e unni ti trovi, unni vai-vai.
 about-private-browsing-get-privacy = Pigghia prutizzioni di sicurizza unni vai-vai
 about-private-browsing-hide-activity-1 = Ammuccia a to attività e unni ti trovi cu { -mozilla-vpn-brand-name }. Cria fàcili na cunnissiuni sicura, macari nta na riti Wi-Fi pùbblica.
 about-private-browsing-prominent-cta = Arresta ô sicuru cu { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Scàrrica { -focus-brand-name }
-about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazzioni privata unni sì-sì
-about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navigazzioni mòbbili pulizzìa a to crunuluggìa e i to viscotta ogni vota chi l'usi.
+about-private-browsing-focus-promo-header = { -focus-brand-name }: navicazzioni privata unni sì-sì
+about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navicazzioni mòbbili pulizzìa a to crunuluggìa e i to viscotta ogni vota chi l'usi.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
-about-private-browsing-focus-promo-header-b = Usa a navigazzioni privata macari nnô tilèfunu
-about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pi ḍḍi ricerchi privati senza chi affàccianu nnô to navigaturi principali.
+about-private-browsing-focus-promo-header-b = Usa a navicazzioni privata macari nnô tilèfunu
+about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pi ḍḍi ricerchi privati senza chi affàccianu nnô to navicaturi principali.
 about-private-browsing-focus-promo-header-c = Privatizza supiriuri nnô tilèfunu
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } pulizzìa a to crunuluggìa ogni vota chi l'usi e blocca i pubblicità e i trazzatura.
 # This string is the title for the banner for search engine selection
@@ -53,13 +53,13 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
-about-private-browsing-pin-promo-header = A libbirtà dâ navigazzioni privata, 'n manera lesta
+about-private-browsing-pin-promo-header = A libbirtà dâ navicazzioni privata, 'n manera lesta
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] Teni nnâ barra
        *[other] Teni nnâ barra
     }
-about-private-browsing-pin-promo-title = Nuḍḍu viscottu, nuḍḍa crunuluggìa, direttu dû to scagnu. Nàviga comu si nuḍḍu ti taliassi.
+about-private-browsing-pin-promo-title = Nuḍḍu viscottu, nuḍḍa crunuluggìa, direttu dû to scagnu. Nàvica comu si nuḍḍu ti taliassi.
 
 ## Strings used in a promotion message for cookie banner reduction
 
