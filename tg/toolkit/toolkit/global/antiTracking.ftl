@@ -11,3 +11,9 @@ btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
        *[other] «{ $siteHost }» ҳамчун пайгирикунандаи инкор тасниф карда шудааст. Агар он дар муддати { $gracePeriodSeconds } сонияи оянда фаъолсозии корбарро қабул накунад, вазъияти он тоза карда мешавад.
     }
+# Message which is shown when visiting a site which Bounce Tracking Protection
+# has purged state of recently. Purging means clearing a sites data such as
+# cookies, storage and caches. Do not translate "bounce tracker".
+# Variables:
+#   $siteHost (string): The host portion of the site which has been purged.
+btp-warning-tracker-purged = Вазъияти «{ $siteHost }» дар қарибӣ тоза карда шуд, зеро ки он ҳамчун пайгирикунандаи инкор муайян карда шуд.
