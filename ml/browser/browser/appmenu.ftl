@@ -101,10 +101,16 @@ appmenu-fxa-setup-sync-new = തുടങ്ങി വയ്ക്കുക
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 appmenuitem-fxa-sync-off-title = സമന്വയം അണച്ചിരിക്കുന്നു
+appmenuitem-fxa-sync-off-description = താങ്കളുടെ അടയാളക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും തുടങ്ങിയവ എല്ലായിടത്തും നിന്നു് ലഭ്യമാക്കുന്നു
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = പുതിയതെന്താണ്
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = പുതിയ സവിഷേതളെ കുറിച്ചു് അറിയിക്കുക
+    .accesskey = അ
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
