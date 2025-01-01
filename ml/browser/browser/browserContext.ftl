@@ -269,15 +269,37 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…
     .accesskey = ഈ
+main-context-menu-save-to-pocket =
+    .label = { -pocket-brand-name }-ലേക്കു് ഈ താളിനെ കരുതിവയ്ക്കുക
+    .accesskey = ക
 main-context-menu-send-to-device =
     .label = ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക
     .accesskey = എൻ
 
 ##
 
+main-context-menu-use-saved-login =
+    .label = കരുതിവച്ച പ്രവേശിക്കൽ ഉപയോഗിക്കുക
+    .accesskey = ഉ
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = കരുതിവച്ച രഹസ്യവാക്കിനെ ഉപയോഗിക്കുക
+    .accesskey = ഉ
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
+    .accesskey = ഉ
+main-context-menu-suggest-strong-password =
+    .label = ഒരു കഠിനമായ രഹസ്യവാക്കു് പറഞ്ഞു തരുക
+    .accesskey = പ
+main-context-menu-manage-logins2 =
+    .label = പ്രവേശനങ്ങളെ കൈകാര്യം ചെയ്യുക
+    .accesskey = ക
+main-context-menu-manage-passwords =
+    .label = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+    .accesskey = ക
 main-context-menu-keyword =
     .label = ഈ തിരച്ചിലിനു വേണ്ടി ഒരു കീവേര്‍ഡ്‌ ചേര്‍ക്കുക…
     .accesskey = K
@@ -311,6 +333,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ഫ്രെയിം വിവരം കാണുക
     .accesskey = I
+main-context-menu-print-selection-2 =
+    .label = അച്ചടിക്കാനുള്ള ഭാഗം
+    .accesskey = ഭ
 main-context-menu-view-selection-source =
     .label = തെരഞ്ഞെടുത്തതിന്റെ സ്രോതസ്സ്‌ കാണുക
     .accesskey = e
@@ -335,3 +360,6 @@ main-context-menu-inspect =
 main-context-menu-eme-learn-more =
     .label = ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…
     .accesskey = D
+main-context-menu-reveal-password =
+    .label = രഹസ്യവാക്കു് വെളിപ്പെടുത്തുക
+    .accesskey = വ
