@@ -42,5 +42,20 @@ sync-setup-verify-description = Ada pengguna lain yang telah masuk untuk menyink
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Akun sudah digunakan
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } sudah masuk ke profil “{ $otherProfile }”
+sync-account-in-use-description = Anda hanya dapat mengaitkan akun ini dengan satu profil di komputer ini.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Akun ini masuk ke profil lain. Sinkronkan kedua profil?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Beralih ke “{ $profileName }”
 sync-button-create-profile = Buat profil baru
 sync-button-sync-and-merge = Sinkronkan dan gabungkan data
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sinkronkan “{ $profileName }”

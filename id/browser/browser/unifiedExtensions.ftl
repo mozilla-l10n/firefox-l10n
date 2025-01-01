@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Buka menu untuk { $extensionName }
 unified-extensions-item-message-manage = Kelola ekstensi
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } melanggar kebijakan Mozilla. Menggunakannya mungkin berisiko.
 
 ## Extension's context menu
 
