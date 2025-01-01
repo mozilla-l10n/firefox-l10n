@@ -39,3 +39,6 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = എല്ലാ ടാഗുകളും കാണിക്കുക
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = അദൃശ്യമാക്കുക
+bookmark-overlay-keyword-2 =
+    .value = മുഖ്യപദം
+    .accesskey = മ

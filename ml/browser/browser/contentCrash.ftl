@@ -5,6 +5,11 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = കൂടുതല്‍ അറിയുക
+crashed-subframe-submit =
+    .label = റിപ്പോർട്ട് സമർപ്പിക്കുക
+    .accesskey = സ
 
 ## Pending crash reports
 

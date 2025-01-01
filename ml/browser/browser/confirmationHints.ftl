@@ -13,4 +13,13 @@ confirmation-hint-credit-card-updated = ചീട്ടു് പുതുച്
 confirmation-hint-pin-tab = കുത്തിസുചികയിട്ടു!
 confirmation-hint-pin-tab-description = കുത്തിസൂചിക മാറ്റാൻ ടാബിൽ വലം അമർത്തൽ ചെയ്യുക.
 confirmation-hint-send-to-device = അയച്ചു!
+confirmation-hint-firefox-relay-mask-created = പുതിയ പൊയ്മുഖം ഉണ്ടാക്കി
+confirmation-hint-firefox-relay-mask-reused = ഉള്ള പൊയ്മുഖം വീണ്ടും ഉപയോഗിച്ചു!
 confirmation-hint-screenshot-copied = പ്രതലപ്പിളർപ്പു് പകർത്തി
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } ടാബു അടച്ചു
+       *[other] { $tabCount } ടാബുകൾ അടച്ചു
+    }

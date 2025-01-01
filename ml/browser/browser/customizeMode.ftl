@@ -27,5 +27,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = സാധാരണ
 customize-mode-undo-cmd =
     .label = പൂര്‍വ്വാവസ്ഥയിലാക്കുക
+customize-mode-lwthemes-link = അലങ്കാരങ്ങളെ കൈകാര്യം ചെയ്യുക
 customize-mode-touchbar-cmd =
     .label = ടച്ച് ബാർ ഇഷ്‌ടാനുസൃതമാക്കുക...

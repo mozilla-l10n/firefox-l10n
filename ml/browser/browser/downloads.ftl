@@ -71,6 +71,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
     .accesskey = ക
+downloads-cmd-delete-file =
+    .label = മായ്ക്കുക
+    .accesskey = മ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ഡൌണ്‍ലോഡ് അനുവദിക്കുക
