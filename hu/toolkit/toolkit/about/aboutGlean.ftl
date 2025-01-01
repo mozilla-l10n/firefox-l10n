@@ -112,6 +112,10 @@ about-glean-profiler-explanation =
     Az összes rögzített metrika teljes nézetéhez használja a { -profiler-brand-name }t.
     Először egy <a data-l10n-name="firefox-profiler-link">teljesítményprofilt kell rögzítenie</a>.
     A profil rögzítése után válassza a <q>Marker Chart</q> lehetőséget, és nézze meg a jelölőket a <q>Telemetry</q> szakasz alatt.
+about-glean-profiler-explanation-profiler =
+    A teljesítményprofilban látható az összes begyűjtött mérőszám, illetve hogy mikor
+    és pontosan milyen értékek lettek begyűjtve. Az egyes jelölőkre mutatva ellenőrizheti,
+    hogy a megfelelő érték lett-e begyűjtve, és hogy a gyűjtés a megfelelő időben történt-e.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
 about-glean-feedback-settings-only =
     .message = Beállítások alkalmazva.
@@ -124,9 +128,15 @@ about-glean-about-data-description =
 about-glean-about-data-description-list-intro =
     Tekintse meg az alábbi listát az egyes eszközök
     konkrét felhasználásairól:
+about-glean-about-data-list-item-dictionary =
+    A { -glean-brand-name } által alkalmazásonként gyűjtött adatok listájának böngészéséhez tekintse
+    meg a <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } szótárat</a>.
 about-glean-about-data-list-item-about-telemetry =
     A hagyományos telemetria által gyűjtött adatok közti tallózáshoz forduljon a következőhöz:
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    A hibakeresési címkék böngészéséhez tekintse meg a teljes pingeket, tekintse meg az élő eseményfolyamot vagy tekintse meg a mutatók
+    vizualizációit, tekintse meg a<a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }t</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Teljesítményprofil rögzítéséhez és az összes rögzített metrika megtekintéséhez használja a
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }t</a>.
