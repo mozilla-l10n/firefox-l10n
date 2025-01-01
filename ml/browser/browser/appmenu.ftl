@@ -134,6 +134,16 @@ profiler-popup-discard-button =
     .label = കളയുക
 profiler-popup-capture-button =
     .label = പിടിക്കുക
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -226,6 +236,9 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = അക്കൗണ്ടിലേക്കു് പ്രവേശിക്കുക
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = ദത്ത ലംഘന അറിയിപ്പുകൾ നേടുക
+appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = താങ്ങളുടെ യഥാർത്ഥ ഇ-തപാലും ഫോണും മറയ്ക്കുക
 
 ## Profiles panel
