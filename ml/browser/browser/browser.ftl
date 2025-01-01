@@ -496,6 +496,8 @@ urlbar-placeholder-search-mode-other-actions =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
+urlbar-permissions-granted =
+    .tooltiptext = നിങ്ങൾ ഈ വെബ്‌സൈറ്റിന് കൂടുതലായി അനുമതികൾ നൽകിയിട്ടുണ്ട്.
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -505,10 +507,18 @@ urlbar-go-button =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
 urlbar-page-action-button =
     .tooltiptext = പേജ് പ്രവർത്തനങ്ങൾ
+urlbar-revert-button =
+    .tooltiptext = വിലാസം സ്ഥാനപ്പട്ടയിൽ കാണിക്കുക
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = { $engine } കൂടെ സ്വകാര്യജന്നലിൽ തിരയുക
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -531,6 +541,7 @@ urlbar-searchmode-actions =
     .label = പ്രവര്‍ത്തികൾ
 urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
+urlbar-searchmode-popup-search-settings = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -553,6 +564,9 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-panel-header = ചിത്രത്തിൽ ചിത്രം
+picture-in-picture-enable-toggle =
+    .label = എന്തായാലും പ്രവർത്തനക്ഷമമാക്കുക
 
 ## Full Screen and Pointer Lock UI
 
@@ -572,6 +586,9 @@ pointerlock-warning-no-domain = ഈ രേഖ നിങ്ങളുടെ പോ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
+bookmarks-recent-bookmarks-panel-subheader = അടുത്തിടെയുള്ള അടയാളക്കുറിപ്പുകള്‍
 bookmarks-toolbar-chevron =
     .tooltiptext = കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക
 bookmarks-sidebar-content =
@@ -599,6 +616,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ബുക്ക്മാർക്ക് ടൂൾ ബാർ മറയ്ക്കുക
            *[other] അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] അടയാളക്കുറിപ്പുക്കരുപ്പട്ടയെ ഒളിപ്പിക്കുക
+           *[other] അടയാളക്കുറിപ്പുക്കരുപ്പട്ടയെ കാണിക്കുക
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -612,6 +635,8 @@ bookmarks-search =
     .label = ബുക്ക്മാർക്ക് തിരയുക
 bookmarks-tools =
     .label = ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ
+bookmarks-subview-edit-bookmark =
+    .label = ഈ അടയാളക്കുറിപ്പിനെ തിരുത്തുക
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
