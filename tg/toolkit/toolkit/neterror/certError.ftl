@@ -89,6 +89,14 @@ fp-certerror-self-signed-why-dangerous-body = Зеро ки гувоҳинома
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = На он қадар зиёд. Чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
 fp-certerror-self-signed-important-note = ТАВЗЕҲИ МУҲИМ: Агар шумо кӯшиш кунед, ки ба ин сомона ба воситаи шабакаи дохилии корхона (интранет) ворид шавед, мутахасисони шуъбаи технологияҳои иттилоотии шумо метавонанд аз гувоҳиномаҳои мустақилона имзошуда истифода баранд. Онҳо метавонанд барои тасдиқи эътибории чунин гувоҳиномаҳоро кумак кунанд.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки муҳлати эътибори гувоҳиномаи он дар санаи { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ба анҷом расид.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки гувоҳиномаи он то санаи { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } эътибор дониста намешавад.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
