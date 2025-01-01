@@ -131,11 +131,20 @@ profiler-popup-capture-button =
 
 profiler-popup-presets-web-developer-label =
     .label = വെബ് വികസിതാവ്
+profiler-popup-presets-graphics-label =
+    .label = ദൃശ്യസങ്കേതം
 profiler-popup-presets-media-label =
     .label = മാദ്ധ്യമങ്ങൾ
+profiler-popup-presets-networking-label =
+    .label = ശ്യംഖലണം
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = വൈദ്യുതിശക്തി
 
 ## History panel
 
+appmenu-manage-history =
+    .label = നാൾവഴിയെ കൈകാര്യം ചെയ്യുക
 appmenu-restore-session =
     .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
 appmenu-clear-history =
@@ -145,21 +154,35 @@ appmenu-recently-closed-tabs =
     .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
 appmenu-recently-closed-windows =
     .label = അടുത്തിടെ അടച്ച ജാലകങ്ങള്‍
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = നാൾവഴി പരതുക
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } പിന്തുണ
 appmenu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
 appmenu-get-help =
     .label = സഹായം തേടുക
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = കൂടുതൽ പ്രശ്നനിവാരണവിവരങ്ങൾ
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = പ്രശ്നനിവാരണ രീതി
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = പ്രശ്നനിവാരണ രീതി അണക്കുക
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -173,6 +196,9 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ഉപകരണപ്പട്ട ഇഷ്ടാനുസൃതമാക്കുക …
+appmenu-developer-tools-subheader = അന്വേഷിയന്ത്രം ഉപകരണങ്ങൾ
 appmenu-developer-tools-extensions =
     .label = വികസിതാക്കൾക്കുള്ള വിപുലീകരണങ്ങൾ
 appmenuitem-report-broken-site =

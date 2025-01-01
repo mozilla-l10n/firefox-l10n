@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = ടാബ് തിരയുതിർക്കൽ
 about-unloads-column-priority = മുന്‍ഗണന
 about-unloads-column-memory = ഓർമ്മ
     .title = ടാബിന്റെ അളവെടുത്ത ഓർമ്മ ഉപയോഗം
