@@ -247,6 +247,7 @@ about-logins-breach-alert-link = { $hostname } എന്നതിലേക്ക
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ദുർബലമായ രഹസ്യവാക്കു്
+about-logins-vulnerable-alert-text2 = ദത്ത ലംഘനത്തിനു് സാധ്യതയുള്ള മറ്റൊരു അക്കൗണ്ടിൽ ഈ രഹസ്യവാക്കു് ഉപയോഗിച്ചു. ക്രെഡൻഷ്യലുകൾ വീണ്ടും ഉപയോഗിക്കുന്നതു് നിങ്ങളുടെ എല്ലാ അക്കൗണ്ടുകളെയും അപകടത്തിലാക്കുന്നു. ഈ രഹസ്യവാക്കു് മാറ്റുക.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname }ലേക്ക് പോവുക
@@ -389,6 +390,31 @@ about-logins-import-report-added =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തിരിക്കുന്നു</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തിരിക്കുന്നു</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള പ്രവേശണങ്ങളെ പുതുച്ചു</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള പ്രവേശണങ്ങളെ പുതുച്ചു</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ പ്രവേശിക്കലുകൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ പ്രവേശിക്കലുകൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ രഹസ്യവാക്കുകൾ ചേൎത്തു</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ രഹസ്യവാക്കുകൾ ചേൎത്തു</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള ഇനങ്ങളെ പുതുച്ചു</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള ഇനങ്ങളെ പുതുച്ചു</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
     }
 about-logins-import-report-error =
     { $count ->
