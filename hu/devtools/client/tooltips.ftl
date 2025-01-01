@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $pro
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
 inactive-css-only-replaced-elements = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel csak lecserélt elemekre alkalmazható.
 inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem megadva az <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nincs méretkorlátja.
 inactive-css-not-for-internal-table-elements = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre.
 inactive-css-not-for-internal-table-elements-except-table-cells = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre, kivéve a táblázatcellákat.
 inactive-css-not-table = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem táblázat.
@@ -58,8 +59,13 @@ inactive-css-resize = A(z) <strong>{ $property }</strong> nincs hatással erre a
 inactive-css-ruby-element = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert ez egy rubi elem. A méretét a rubi szöveg mérete határozza meg.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a kiemelt pszeudoelemeken.
 inactive-css-cue-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::cue pszeudoelemeken.
