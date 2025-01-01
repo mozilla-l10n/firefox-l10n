@@ -15,6 +15,8 @@ pocket-panel-saved-error-generic = 'പോക്കറ്റ്' ലേക്ക
 pocket-panel-saved-error-tag-length = ടാഗുകള്‍ 25 അക്ഷരങ്ങളിലേക്ക് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു
 pocket-panel-saved-error-only-links = കണ്ണികള്‍ മാത്രമേ സൂക്ഷിക്കാന്‍ പറ്റു
 pocket-panel-saved-error-not-saved = പേജ് സംരക്ഷിച്ചില്ല
+pocket-panel-saved-error-no-internet = { -pocket-brand-name } എന്നതിലേക്ക് കരുതിവയ്ക്കാൻ താങ്ങൾ ഗോളാന്തരവലയായി ബന്ധിപ്പിച്ചിരിക്കണം. ദയവായി ഗോളാന്തരവലയിലേക്കു് ബന്ധപ്പെട്ടു് കഴിഞ്ഞു് വീണ്ടും ശ്രമിക്കുക.
+pocket-panel-saved-error-remove = ഈ താൾ മാറ്റുമ്പോഴു് ഒരു കുഴപ്പമുണ്ടായി.
 pocket-panel-saved-page-removed = താള്‍ നീക്കം ചെയ്തു
 pocket-panel-saved-page-saved = { -pocket-brand-name }ലേക്കു് കരുതിവച്ചു
 pocket-panel-saved-page-saved-b = { -pocket-brand-name }ലേക്കു് കരുതിവച്ചു
@@ -26,6 +28,8 @@ pocket-panel-saved-save-tags = സംരക്ഷിക്കുക
 pocket-panel-saved-saving-tags = സംരക്ഷിക്കുന്നു…
 pocket-panel-saved-suggested-tags = നിര്‍ദ്ദേശിച്ച ടാഗുകള്‍
 pocket-panel-saved-tags-saved = ടാഗുകൾ ചേർത്തു
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ടാഗ് ചേർക്കുക:
 
 ## about:pocket-signup panel
 
@@ -38,6 +42,7 @@ pocket-panel-signup-signup-firefox = ഫയർഫോക്സിൽ പങ്
 pocket-panel-signup-tagline = ഫയർഫോക്സിൽ നിന്ന് പോക്കറ്റിൽ ഏത് ഉപായത്തിലും, ഏത് സമയത്തും ലേഖനങ്ങളും വീഡിയോകളും സംരക്ഷിച്ച് കാണാം.
 pocket-panel-signup-tagline-story-one = ഫയർഫോക്സിൽ നിന്ന് ഏതെങ്കിലും ലേഖനം, വീഡിയോ അല്ലെങ്കിൽ താള് പോക്കറ്റ് ബട്ടൺ അടിച്ച് സംരക്ഷിക്കാം.
 pocket-panel-signup-tagline-story-two = പോക്കറ്റിൽ ഏത് ഉപായത്തിലും, ഏത് സമയത്തും കാണുക.
+pocket-panel-signup-cta-a-fix = ഗോളാന്തരവലയിനുള്ള താങ്ങളുടെ കരുതിവയ്ക്കൽക്കരു
 
 ## about:pocket-home panel
 
