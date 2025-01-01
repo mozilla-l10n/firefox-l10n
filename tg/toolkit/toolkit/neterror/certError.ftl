@@ -166,3 +166,5 @@ fp-certerror-hide-advanced-button = Пинҳон кардани тафсилот
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Гузариш ба сомонаи { $hostname } (Хатарнок)
+fp-certerror-intro = «{ -brand-short-name }» мушкилии эҳтимолан хеле ҷиддиро нисбат ба <strong>{ $hostname }</strong> муайян кард. Касе, ки худро дар ин сомона вонамуд мекунад, метавонад кӯшиш кунад, ки маълумоти шахсиро ба монанди маълумоти корти бонкӣ, ниҳонвожаҳо ё нишонии почтаи электронӣ дуздӣ кунад.
+fp-certerror-expired-into = «{ -brand-short-name }» мушкилии амниятро нисбат ба <strong>{ $hostname }</strong> муайян кард. Эҳтимол аст, ки сомона ба таври дуруст насб нашудааст ё соати дастгоҳи шумо ба сана/вақти нодуруст гузошта шудааст.

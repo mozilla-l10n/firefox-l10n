@@ -41,6 +41,8 @@ neterror-generic-error = Ба сабаби номаълум, «{ -brand-short-na
 neterror-load-error-try-again = Эҳтимол аст, ки сомона муваққатан дастнорас аст ё хеле машғул мебошад. Пас аз чанд лаҳза аз нав кӯшиш кунед.
 neterror-load-error-connection = Агар шумо ягон саҳифаро бор карда натавонед, пайвастшавии шабакаи компютери худро санҷед.
 neterror-load-error-firewall = Агар компютер ё шабакаи шумо тавассути девори оташ (firewall) ё прокси муҳофизат шуда бошад, мутмаин шавед, ки ба «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба Интернет иҷозат дода шудааст.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Агар шумо кӯшиш кунед, ки саҳифаи шабакаи маҳаллиро бор кунед, лутфан, тафтиш кунед, ки ба «{ -brand-short-name }» дар танзимоти махфият ва амнияти «macOS» иҷозатҳои шабакаи маҳаллӣ ба таври мувофиқ таъмин шудаанд.
 neterror-captive-portal = Пеш аз пайдо кардани дастрасӣ ба Интернет, шумо бояд ба ин шабака ворид шавед.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
