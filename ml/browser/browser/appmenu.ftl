@@ -37,6 +37,12 @@ appmenuitem-exit2 =
             [linux] പുറത്തു കടകക്കുക
            *[other] പുറത്തു്
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = പ്രയോഗ കുറിപ്പടികട്ട തുറക്കുക
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = പ്രയോഗ കുറിപ്പടികട്ട അടയ്ക്കുക
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -81,6 +87,12 @@ appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ�
 appmenuitem-fxa-toolbar-sync-now2 = ഉടന്‍ സമന്വയിപ്പിക്കുക
 appmenuitem-fxa-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
 appmenu-account-header = അക്കൗണ്ട്
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = അവസാനം സമന്വയിപ്പിച്ചത് { $time }
+    .label = അവസാനം സമന്വയിപ്പിച്ചത് { $time }
+appmenu-fxa-sync-and-save-data2 = ദത്ത സമന്വയിപ്പിച്ച് കരുതിവയ്ക്കുക
 appmenu-fxa-signed-in-label = പ്രവേശിക്കുക
 appmenu-fxa-setup-sync =
     .label = സമന്വയം തുടങ്ങി വയ്ക്കുക…

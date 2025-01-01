@@ -10,3 +10,5 @@ about-unloads-page-title = ടാബ് തിരയുതിർക്കൽ
 about-unloads-column-priority = മുന്‍ഗണന
 about-unloads-column-memory = ഓർമ്മ
     .title = ടാബിന്റെ അളവെടുത്ത ഓർമ്മ ഉപയോഗം
+about-unloads-column-processes = നടപടി തിരിച്ചറിയൽസഹായികൾ
+    .title = ടാബുള്ളടക്കം ചിട്ടിപ്പിക്കുന്ന നടപടികളുടെ തിരിച്ചറിയൽസഹായികൾ
