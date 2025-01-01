@@ -108,12 +108,22 @@ about-glean-adhoc-note =
     Vegye figyelembe, hogy a fejlesztői eszközök konzolban a Glean JS API-t használja.
     Ez azt jelenti, hogy a metrikák kategóriája és neve <code>camelCase</code>
     formázást használ, ellentétben a Rust és C++ API-kkal.
+about-glean-profiler-explanation =
+    Az összes rögzített metrika teljes nézetéhez használja a { -profiler-brand-name }t.
+    Először egy <a data-l10n-name="firefox-profiler-link">teljesítményprofilt kell rögzítenie</a>.
+    A profil rögzítése után válassza a <q>Marker Chart</q> lehetőséget, és nézze meg a jelölőket a <q>Telemetry</q> szakasz alatt.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
 about-glean-feedback-settings-only =
     .message = Beállítások alkalmazva.
 about-glean-feedback-settings-and-ping =
     .message = Beállítások alkalmazva, és a ping elküldve.
 about-glean-about-data-header = Információk az adatokról
+about-glean-about-data-description =
+    Különböző eszközök segítségével jelenítheti meg az adatokat,
+    attól függően, hogy mire kíváncsi.
+about-glean-about-data-description-list-intro =
+    Tekintse meg az alábbi listát az egyes eszközök
+    konkrét felhasználásairól:
 about-glean-about-data-list-item-about-telemetry =
     A hagyományos telemetria által gyűjtött adatok közti tallózáshoz forduljon a következőhöz:
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
