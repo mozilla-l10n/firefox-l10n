@@ -150,9 +150,23 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = ഫോണ്‍ അക്കം പകര്‍ത്തുക
+    .accesskey = ഫ
 main-context-menu-copy-link-simple =
     .label = കണ്ണി പകര്‍ത്തുക
     .accesskey = L
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = വൃത്തിയാക്കിയ കണ്ണി പകർത്തുക
+    .accesskey = വ
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = സൈറ്റു് പിന്തുടർച്ചയില്ലാതെ പകർത്തുക
+    .accesskey = സ
 
 ## Media (video/audio) controls
 ##
@@ -321,6 +335,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ഫ്രെയിം വീണ്ടും തുറക്കുക
     .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = അടയാളക്കുറിപ്പുച്ചട്ടം
+    .accesskey = അ
 main-context-menu-frame-save-as =
     .label = ഫ്രെയിം ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = F

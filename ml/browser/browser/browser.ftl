@@ -341,6 +341,9 @@ bookmark-panel-remove =
            *[other] { $count } അടയാളക്കുറിപ്പുകൾ നീക്കം ചെയ്യുക
         }
     .accesskey = R
+bookmark-panel-show-editor-checkbox =
+    .label = കരുതിവയ്ക്കുമ്പോഴു് സംശോധകനെ കാണിക്കുക
+    .accesskey = ക
 bookmark-panel-save-button =
     .label = കരുതിവയ്ക്കുക
 
@@ -398,12 +401,22 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = മൂക്കമായിവച്ചിരിക്കുന്നു
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = തനുപ്ലേ തടഞ്ഞിരിക്കുന്നു
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ചിത്രത്തിൽ ചിത്രം
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ടാബു് മൂക്കമാക്കുക
+        [one] { $count } ടാബുകളെ മൂക്കമാക്കുക
+       *[other] { $count } ടാബുകളെ മൂക്കമാക്കുക
+    }
 
 ## Bookmarks toolbar items
 
@@ -447,6 +460,42 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ഗോളാന്തരവല തിരയുക
+    .aria-label = { $name } കൂടെ തിരയുക
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
+    .aria-label = { $name } തിരയുക
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
+    .aria-label = അടയാളക്കുറിപ്പുകളിൽ തിരയുക
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
+    .aria-label = നാൾവഴി തിരയുക
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
+    .aria-label = ടാബുകൾ തിരയുക
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
+    .aria-label = നടപടികളെ തിരയുക
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
