@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-in = സമന്വയിപ്പി�
 login-intro-description = നിങ്ങളുടെ പ്രവേശണങ്ങൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
 login-intro-instructions-fxa = താങ്ങളുടെ പ്രവേശണം കരുതിവച്ചിരിക്കുന്ന ഉപകരണത്തിൽ താങ്ങളുടെ { -fxaccount-brand-name(capitalization: "sentence") } സൃഷ്ടിക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കൽ ചെയ്യുക.
 about-logins-login-intro-heading-message = താങ്ങളുടെ രഹസ്യവാക്കുകളെ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
+login-intro-instructions-fxa-passwords-help = കൂടുതൽ സഹായത്തിന് <a data-l10n-name="passwords-help-link">രഹസ്യവാക്കു് പിന്തുണയിലേക്കു്</a> സന്ദർശിക്കുക.
 
 ## Login
 
@@ -117,6 +118,7 @@ about-logins-login-item-new-login-title = രഹസ്യവാക്കു് �
 login-item-edit-button = തിരുത്തുക
 about-logins-login-item-remove-button = നീക്കുക
 login-item-origin-label = വെബ്സൈറ്റ് വിലാസം
+login-item-tooltip-message = താങ്ങൾ പ്രവേശിക്കുന്ന വെബ്‌സൈറ്റിന്റെ കൃത്യമായ വിലാസവുമായി ഇത് ഒത്തുചേരുന്നു ഉറപ്പിക്കുക.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ഉപയോക്തൃനാമം
@@ -266,6 +268,8 @@ about-logins-export-file-picker-title = പ്രവേശിക്കൽ ഫയ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } നിന്നു് രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുക
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = രഹസ്യവാക്കുകൾ.csv
@@ -282,6 +286,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = പ്രവേശിക്കൽ ഫയൽ ഇറക്കുമതിക്കുക
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name }-ലേക്കു് രഹസ്യവാക്കുകൾ ഇറക്കുമതി ചെയ്യുക
 about-logins-import-file-picker-import-button = ഇറക്കുമതി
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -303,8 +309,45 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ഇറക്കുമതി പൂർത്തിയായി
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തതു്:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തതു്:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>നിലവിലുള്ള പ്രവേശിക്കലുകൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>നിലവിലുള്ള പ്രവേശിക്കലുകൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>ഇരട്ടിയായ രഹസ്യവാക്കുകൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+       *[other] <span>ഇരട്ടിയായ രഹസ്യവാക്കുകൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>ചേർത്ത പുതിയ രഹസ്യവാക്കുകൾ:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ചേർത്ത പുതിയ രഹസ്യവാക്കുകൾ:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>നിലനിൽക്കുന്ന ഇനങ്ങൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>നിലനിൽക്കുന്ന ഇനങ്ങൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>ഇരട്ടിയായ ഇനങ്ങൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+       *[other] <span>ഇരട്ടിയായ ഇനങ്ങൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>പിശകുകൾ:</span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+       *[other] <span>പിശകുകൾ:</span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
+    }
 about-logins-import-dialog-done = ചെയ്തു
 about-logins-import-dialog-error-title = ഇറക്കുമതി പിശക്
+about-logins-import-dialog-error-conflicting-values-title = ഒരു പ്രവേശിക്കൽ വേണ്ടി ഒന്നിലധികം വൈരുദ്ധ്യമുള്ള മൂല്യങ്ങൾ
+about-logins-import-dialog-error-conflicting-values-description = ഉദാഹരണത്തിന്: ഒന്നിലധികം ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും URL-കളും മുതലായവ.
 about-logins-import-dialog-error-file-format-title = ഫയൽ ഘടനപ്രശ്നം
 about-logins-import-dialog-error-file-permission-title = ഫയൽ വായിക്കാൻ കഴിയുന്നില്ല
 about-logins-import-dialog-error-unable-to-read-title = ഫയൽ വ്യാകരിക്കാൻ ആയില്ല

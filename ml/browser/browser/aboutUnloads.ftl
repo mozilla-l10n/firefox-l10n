@@ -7,3 +7,5 @@
 ### feature.
 
 about-unloads-column-priority = മുന്‍ഗണന
+about-unloads-column-memory = ഓർമ്മ
+    .title = ടാബിന്റെ അളവെടുത്ത ഓർമ്മ ഉപയോഗം
