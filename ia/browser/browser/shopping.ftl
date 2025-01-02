@@ -190,7 +190,13 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Per favor face nos saper perque tu disactivava le Verificator de recension. Selige plure si necessari.
 shopping-survey-thanks-title = Gratias pro tu commentario!
+shopping-survey-opted-out-hard-to-understand = Il es difficile a comprender
+shopping-survey-opted-out-too-slow = Il es troppo lente
+shopping-survey-opted-out-not-accurate = Il non es correcte
+shopping-survey-opted-out-not-helpful = Il non es utile pro me
+shopping-survey-opted-out-check-myself = Io prefererea verificar le recensiones io mesme
 shopping-survey-opted-out-other = Altero
 
 ## Shopping Feature Callout strings.

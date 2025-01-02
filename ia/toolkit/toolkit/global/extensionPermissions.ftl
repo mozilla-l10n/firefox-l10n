@@ -33,3 +33,10 @@ webext-perms-description-topSites = Acceder al chronologia de navigation
 webext-perms-description-trialML = Discargar e exequer modellos de IA sur tu apparato
 webext-perms-description-userScripts = Permitter a scripts de tertie-parte non verificate de acceder a tu datos
 webext-perms-description-webNavigation = Acceder al activitate del navigator durante le navigation
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Le scripts non verificate pote poner riscos de securitate e confidentialitate, tal como exequer codice malefic o activitate de sito web de traciamento. Solo exeque scripts de extensiones o fontes de que tu te fide.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Le scripts non verificate pote poner riscos de securitate e confidentialitate. Solo exeque scripts de extensiones o fontes de que tu te fide.
