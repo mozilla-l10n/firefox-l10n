@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Peruuta
     .accesskey = P
+tab-group-menu-header = Välilehtiryhmät
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
+tab-group-name-default = Nimetön ryhmä
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

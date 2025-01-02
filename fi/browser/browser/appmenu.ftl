@@ -280,6 +280,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Vastaanota tietovuotovaroituksia
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
+appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa
 appmenu-services-header = Omat palvelut
