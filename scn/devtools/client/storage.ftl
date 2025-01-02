@@ -9,20 +9,20 @@
 storage-filter-key = CmdOrCtrl+F
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
-    .label = Cancella tuttu
+    .label = Scancella tuttu
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
-    .label = Cancella tutti i viscotta dâ sissiuni
+    .label = Scancella tutti i viscotta dâ sissiuni
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
-    .label = Cancella “{ $itemName }”
+    .label = Scancella “{ $itemName }”
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
 storage-context-menu-delete-all-from =
-    .label = Cancella tuttu di “{ $host }”
+    .label = Scancella tuttu di “{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.

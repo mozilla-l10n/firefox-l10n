@@ -248,53 +248,53 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu cancella i cridinziali sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella i cridinziali sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Voi cancillari { $count } cridinziali di tutti i dispusitivi?
-       *[other] Voi cancillari tutti i { $count } cridinziali di tutti i dispusitivi?
+        [one] Voi scancillari { $count } cridinziali di tutti i dispusitivi?
+       *[other] Voi scancillari tutti i { $count } cridinziali di tutti i dispusitivi?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu cancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu cancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
-        [1] Se, cancella a chiavi
-        [one] Se, cancella a chiavi
-       *[other] Se, cancella i chiavi
+        [1] Se, scancella a chiavi
+        [one] Se, scancella a chiavi
+       *[other] Se, scancella i chiavi
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
-        [one] Voi cancillari { $count } chiavi?
-       *[other] Voi cancillari tutti i { $count } chiavi?
+        [one] Voi scancillari { $count } chiavi?
+       *[other] Voi scancillari tutti i { $count } chiavi?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
-        [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
-       *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
-        [one] Voi cancillari { $count } chiavi di tutti i dispusitivi?
-       *[other] Voi cancillari tutti i { $count } chiavi di tutti i dispusitivi?
+        [one] Voi scancillari { $count } chiavi di tutti i dispusitivi?
+       *[other] Voi scancillari tutti i { $count } chiavi di tutti i dispusitivi?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu cancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu cancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu cancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 
 ##
@@ -305,7 +305,7 @@ about-logins-confirm-export-dialog-confirm-button = Esporta…
 about-logins-confirm-export-dialog-title2 = Abbisu supra a l'espurtazzioni dî chiavi
 about-logins-confirm-export-dialog-message2 =
     Quannu fai n'espurtazzioni, i to chiavi vennu sarbati nnôn pricu comu testu liggìbbili.
-    Quannu finisti di usari u pricu, ti raccumannamu di cancillàrilu accussì nuḍḍu autru po' vìdiri i to chiavi.
+    Quannu finisti di usari u pricu, ti raccumannamu di scancillàrilu accussì nuḍḍu autru po' vìdiri i to chiavi.
 about-logins-confirm-export-dialog-confirm-button2 = Cuntinua cu l'espurtazzioni
 about-logins-alert-import-title = Mpurtazzioni finuta
 about-logins-alert-import-message = Vidi un riportu chî minutagghi dâ mpurtazzioni

@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Comu si voli prucèdiri:
-panic-button-delete-cookies = Cancella <strong>cookie</strong> ricenti
-panic-button-delete-history = Cancella <strong>crunuluggìa</strong> ricenti
+panic-button-delete-cookies = Scancella <strong>cookie</strong> ricenti
+panic-button-delete-history = Scancella <strong>crunuluggìa</strong> ricenti
 panic-button-delete-tabs-and-windows = Chiuji tutti i <strong>schedi</strong> e i <strong>finestri</strong>

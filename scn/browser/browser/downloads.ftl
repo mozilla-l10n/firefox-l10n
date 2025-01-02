@@ -26,23 +26,23 @@ downloads-cmd-show-downloads =
     .label = Mustra a carpetta di scarricamenti
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = Cancella pricu
+    .tooltiptext = Scancella pricu
 downloads-cmd-remove-file-panel =
-    .aria-label = Cancella pricu
+    .aria-label = Scancella pricu
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Cancella pricu o pirmetti scarricamentu
+    .tooltiptext = Scancella pricu o pirmetti scarricamentu
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Cancella pricu o pirmetti scarricamentu
+    .aria-label = Scancella pricu o pirmetti scarricamentu
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Grapi o cancella pricu
+    .tooltiptext = Grapi o scancella pricu
 downloads-cmd-choose-open-panel =
-    .aria-label = Grapi o cancella pricu
+    .aria-label = Grapi o scancella pricu
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =

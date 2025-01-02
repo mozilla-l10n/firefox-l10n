@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Manija viscotta e dati dî siti
-site-data-settings-description = Sti siti sàrbanu cookie e dati nnô to computer. { -brand-short-name } sarba i dati di l'archiviu pirmanenti finu a quannu tu dicidi di cancillàrili, mentri i dati dî siti nni l'archiviu timpuraniu vennu cancillati quannu abbisogna spazziu.
+site-data-settings-description = Sti siti sàrbanu cookie e dati nnô to computer. { -brand-short-name } sarba i dati di l'archiviu pirmanenti finu a quannu tu dicidi di scancillàrili, mentri i dati dî siti nni l'archiviu timpuraniu vennu scancillati quannu abbisogna spazziu.
 site-data-search-textbox =
     .placeholder = Riscedi siti
     .accesskey = R
@@ -22,7 +22,7 @@ site-data-column-last-used =
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (pricu lucali)
 site-data-remove-selected =
-    .label = Cancella silizziunatu
+    .label = Scancella silizziunatu
     .accesskey = s
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
@@ -32,17 +32,17 @@ site-storage-usage =
 site-storage-persistent =
     .value = { site-storage-usage.value } (pirmanenti)
 site-data-remove-all =
-    .label = Cancella tuttu
+    .label = Scancella tuttu
     .accesskey = t
 site-data-remove-shown =
-    .label = Cancella tutti chiḍḍi mustrati
+    .label = Scancella tutti chiḍḍi mustrati
     .accesskey = m
 
 ## Removing
 
 site-data-removing-dialog =
     .title = { site-data-removing-header }
-    .buttonlabelaccept = Cancella
-site-data-removing-header = Staju cancillannu i viscotta e i dati dî siti
+    .buttonlabelaccept = Scancella
+site-data-removing-header = Staju scancillannu i viscotta e i dati dî siti
 site-data-removing-desc = Cancillari i viscotta e i dati dî siti ti putissi fari nèsciri di certi siti. Cuntinuari?
-site-data-removing-table = Staju cancillannu i viscotta e i dati di sti siti
+site-data-removing-table = Staju scancillannu i viscotta e i dati di sti siti

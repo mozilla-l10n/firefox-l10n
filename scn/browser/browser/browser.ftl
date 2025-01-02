@@ -171,9 +171,9 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [1] Cancella nzingalibbru
-            [one] Cancella nzingalibbru
-           *[other] Cancella { $count } nzingalibbra
+            [1] Scancella nzingalibbru
+            [one] Scancella nzingalibbru
+           *[other] Scancella { $count } nzingalibbra
         }
     .accesskey = C
 bookmark-panel-show-editor-checkbox =

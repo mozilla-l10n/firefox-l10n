@@ -29,7 +29,7 @@ about-config-pref-save-button =
 about-config-pref-reset-button =
     .title = Rimposta
 about-config-pref-delete-button =
-    .title = Cancella
+    .title = Scancella
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 

@@ -43,14 +43,14 @@ newtab-topsites-image-validation = Mpussìbbili carricari a mmàggini. Prova nu 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Sfai
-newtab-topsites-delete-history-button = Cancella dâ crunuluggìa
+newtab-topsites-delete-history-button = Scancella dâ crunuluggìa
 newtab-topsites-save-button = Sarba
 newtab-topsites-preview-button = Antiprima
 newtab-topsites-add-button = Junci
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Sì sicuru chi voi cancillari tutti i voti chi visitasti sta pàggina dâ crunuluggìa?
+newtab-confirm-delete-history-p1 = Sì sicuru chi voi scancillari tutti i voti chi visitasti sta pàggina dâ crunuluggìa?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = St'azziuni nun si po sfari.
 
@@ -82,9 +82,9 @@ newtab-menu-open-new-private-window = Grapi nta na finestra privata nova
 newtab-menu-dismiss = Leva
 newtab-menu-pin = Appuntiḍḍa
 newtab-menu-unpin = Spuntiḍḍa
-newtab-menu-delete-history = Cancella dâ crunuluggìa
+newtab-menu-delete-history = Scancella dâ crunuluggìa
 newtab-menu-save-to-pocket = Sarba nne { -pocket-brand-name }
-newtab-menu-delete-pocket = Cancella di { -pocket-brand-name }
+newtab-menu-delete-pocket = Scancella di { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivia nne { -pocket-brand-name }
 newtab-menu-show-privacy-info = I nostri patrucinatura e a to privatizza
 
@@ -97,7 +97,7 @@ newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nov
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = Cancella nzingalibbru
+newtab-menu-remove-bookmark = Scancella nzingalibbru
 # Bookmark is a verb here.
 newtab-menu-bookmark = Junci ê nzingalibbra
 
@@ -106,7 +106,7 @@ newtab-menu-bookmark = Junci ê nzingalibbra
 
 newtab-menu-copy-download-link = Copia a lijami di scarricamentu
 newtab-menu-go-to-download-page = Vai â pàggina di scarricamentu
-newtab-menu-remove-download = Cancella dâ crunuluggìa
+newtab-menu-remove-download = Scancella dâ crunuluggìa
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -125,7 +125,7 @@ newtab-menu-open-file = Grapi pricu
 
 newtab-label-visited = Visitatu
 newtab-label-bookmarked = Nnê nzingalibbra
-newtab-label-removed-bookmark = Nzingalibbru cancillatu
+newtab-label-removed-bookmark = Nzingalibbru scancillatu
 newtab-label-recommended = Di tinnenza
 newtab-label-saved = Sarbatu nne { -pocket-brand-name }
 newtab-label-download = Scarricatu
@@ -133,7 +133,7 @@ newtab-label-download = Scarricatu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Cancella sizziuni
+newtab-section-menu-remove-section = Scancella sizziuni
 newtab-section-menu-collapse-section = Riduci sizziuni
 newtab-section-menu-expand-section = Spanni sizziuni
 newtab-section-menu-manage-section = Manija sizzioni
@@ -217,4 +217,12 @@ newtab-error-fallback-refresh-link = Attualizza sta pàggina pi pruvari arrè.
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

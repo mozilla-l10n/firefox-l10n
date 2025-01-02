@@ -7,7 +7,7 @@ safeb-blocked-malware-page-title = Visitari stu situ putissi criari dannu ô to 
 safeb-blocked-unwanted-page-title = Stu situ putissi cuntèniri prugrammi dannusi
 safeb-blocked-harmful-page-title = Stu situ putissi cuntènir prugrammi malèvuli
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì putissi pruvari a fàriti fari quarchi cosa di piriculusu, a tipu nzitari prugrammi o rivilari nfurmazzioni pirsunali comu chiavi o carti di crèditu.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } bluccau stu situ picchì putissi pruvari a nzitàriti prugrammi malèvuli chi putìssiru arrubbari o cancillari nfurmazzioni pirsunali dû to computer.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } bluccau stu situ picchì putissi pruvari a nzitàriti prugrammi malèvuli chi putìssiru arrubbari o scancillari nfurmazzioni pirsunali dû to computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì ti putissi fari nzitari prugrammi chi ponnu canciari a to spirienza di navicazzioni (pi scempru, canciannu a to pàggina mastra o mustrànnuti pubblicità nnê siti chi vìsiti).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } bluccau sta pàggina picchì putissi pruvari a nzitàriti app dannusi chi arrùbbanu o cancèllanu i to nfurmazzioni (pi scempru fotu, chiavi, missaggi e carti di crèditu).
 # Variables:

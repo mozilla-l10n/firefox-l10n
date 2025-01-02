@@ -8,14 +8,14 @@ sanitize-prefs2 =
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Cancella crunuluggìa ricenti
+    .title = Scancella crunuluggìa ricenti
     .style = min-width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Cancella tutta a crunuluggìa
+    .title = Scancella tutta a crunuluggìa
     .style = min-width: 34em
-clear-data-settings-label = Cancella tuttu quannu chiuji { -brand-short-name }
+clear-data-settings-label = Scancella tuttu quannu chiuji { -brand-short-name }
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -26,7 +26,7 @@ clear-data-settings-label = Cancella tuttu quannu chiuji { -brand-short-name }
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Pirìudu di cancillari: { " " }
+    .value = Pirìudu di scancillari: { " " }
     .accesskey = P
 clear-time-duration-value-last-hour =
     .label = ùrtima ura
@@ -68,16 +68,16 @@ sanitize-everything-undo-warning = St'azziuni nun si po sfari.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Cancella ora
+    .label = Scancella ora
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = Staju cancillannu
+    .label = Staju scancillannu
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Tutta a crunuluggìa sarà cancillata.
+sanitize-everything-warning = Tutta a crunuluggìa sarà scancillata.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Tutti l'elementi scartati sarannu cancillati.
+sanitize-selected-warning = Tutti l'elementi scartati sarannu scancillati.

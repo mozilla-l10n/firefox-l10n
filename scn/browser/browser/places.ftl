@@ -26,9 +26,9 @@ other-bookmarks-folder =
 places-delete-bookmark =
     .label =
         { $count ->
-            [1] Cancella nzingalibbru
-            [one] Cancella nzingalibbru
-           *[other] Cancella nzingalibbra
+            [1] Scancella nzingalibbru
+            [one] Scancella nzingalibbru
+           *[other] Scancella nzingalibbra
         }
     .accesskey = C
 places-manage-bookmarks =

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window2 =
-    .title = Cancella dati
+    .title = Scancella dati
     .style = min-width: 35em
-clear-site-data-description = Cancillari tutti i viscotta e i dati dî siti sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi cancillari cuntinuti fora linia. Cancillari a mimoria cauda nun nfruinzarà i to accessi.
+clear-site-data-description = Cancillari tutti i viscotta e i dati dî siti sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi scancillari cuntinuti fora linia. Cancillari a mimoria cauda nun nfruinzarà i to accessi.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Viscotta e dati dî siti
     .accesskey = S
-clear-site-data-cookies-info = Putissi èssiri scullijatu dî siti si veni cancillatu
+clear-site-data-cookies-info = Putissi èssiri scullijatu dî siti si veni scancillatu
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
