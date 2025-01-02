@@ -33,3 +33,10 @@ webext-perms-description-topSites = Pristupovať k histórii prehliadania
 webext-perms-description-trialML = Sťahovať a spúšťať modely AI na zariadení
 webext-perms-description-userScripts = Povoliť neovereným skriptom tretích strán prístup k vašim údajom
 webext-perms-description-webNavigation = Pristupovať k aktivitám prehliadača v priebehu prehliadania
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Neoverené skripty môžu predstavovať bezpečnostné riziká a riziká z pohľadu ochrany súkromia, ako je napríklad spúšťanie škodlivého kódu alebo sledovanie aktivity na webových stránkach. Spúšťajte skripty iba z rozšírení alebo zdrojov, ktorým dôverujete.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Neoverené skripty môžu predstavovať riziká pre bezpečnosť a súkromie. Spúšťajte skripty iba z rozšírení alebo zdrojov, ktorým dôverujete.

@@ -151,3 +151,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ak <b>{ $mitm }</b> nepozn�
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b> má bezpečnostnú politiku HTTP Strict Transport Security (HSTS), čo znamená, že { -brand-short-name } sa k nemu môže pripojiť iba pomocou zabezpečeného spojenia. Na návštevu tohto webu nemôžete pridať výnimku.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Pravdepodobne nič, pretože je pravdepodobné, že je problém so samotnou stránkou.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatustext }
