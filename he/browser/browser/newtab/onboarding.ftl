@@ -345,6 +345,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = השתמשתי בו בע
 onboarding-new-tabs-title = איפה בא לך שנשים את הלשוניות?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = ניתן להחליף בינהם בכל עת בהגדרות סרגל הצד.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = הלשוניות שלך, בדרך שלך
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = יש אצלך הרבה לשוניות פתוחות? ניתן לנסות את הלשוניות שלך בצד לקבלת תצוגה יעילה יותר. או לשמור על המצב הנוכחי עם כרטיסיות בחלק העליון. אפשר להחליף בין המצבים בכל עת.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = בחירת פריסת הלשוניות שלך
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = לקבלת תצוגה יעילה יותר שתוכל לסייע לך להישאר בפוקוס, ניתן לנסות את להעביר הלשוניות שלך לצד. או לשמור על המצב הנוכחי עם כרטיסיות בחלק העליון. אפשר להחליף בין המצבים בכל עת.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = לשוניות בצד
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -396,4 +404,8 @@ tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בב
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = תגידו שלום לפרופילים של { -brand-product-name }
+multi-profile-spotlight-body = מעבר קל בין גלישה לעבודה לבין גלישה בשביל הכיף. פרופילים שומרים על נתוני הגלישה שלך, לרבות היסטורית חיפוש וססמאות, מופרדים לחלוטין אחד מהשני כדי שניתן להישאר מסודר ומאורגן.
+multi-profile-spotlight-cta = יצירת פרופיל
+multi-profile-callout-title = יצירת פרופילים שונים לעבודה ולהנאה
 multi-profile-callout-cta = יצירת פרופיל
