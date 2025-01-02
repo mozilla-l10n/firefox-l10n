@@ -510,6 +510,12 @@ urlbar-searchmode-tabs =
     .label = ແທັບ
 urlbar-searchmode-history =
     .label = ປະຫວັດການໃຊ້ງານ
+urlbar-searchmode-actions =
+    .label = ການກະທຳ
+urlbar-searchmode-exit-button =
+    .tooltiptext = ປິດ
+urlbar-searchmode-popup-description = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
+urlbar-searchmode-popup-search-settings = ການຕັ້ງຄ່າການຄົ້ນຫາ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -806,6 +812,10 @@ unified-extensions-button-permissions-needed =
     .tooltiptext = ສ່ວນຂະຫຍາຍ
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
