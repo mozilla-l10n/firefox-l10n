@@ -192,10 +192,10 @@ shopping-survey-thanks =
 
 shopping-survey-opted-out-multiselect-label = Berätta för oss varför du stängde av recensionsgranskaren. Välj flera om det behövs.
 shopping-survey-thanks-title = Tack för din feedback!
-shopping-survey-opted-out-hard-to-understand = Det är svårt att förstå
+shopping-survey-opted-out-hard-to-understand = Den är svår att förstå
 shopping-survey-opted-out-too-slow = Den är för långsam
-shopping-survey-opted-out-not-accurate = Den är inte korrekt
-shopping-survey-opted-out-not-helpful = Det är inte till hjälp för mig
+shopping-survey-opted-out-not-accurate = Den stämmer inte
+shopping-survey-opted-out-not-helpful = Den hjälper mig inte
 shopping-survey-opted-out-check-myself = Jag kontrollerar hellre recensioner själv
 shopping-survey-opted-out-other = Annat
 

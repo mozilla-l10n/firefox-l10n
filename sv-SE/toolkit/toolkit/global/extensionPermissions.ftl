@@ -37,6 +37,6 @@ webext-perms-description-webNavigation = Åtkomst till webbläsarens aktivitet u
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
-webext-perms-extra-warning-userScripts-long = Overifierade skript kan utgöra säkerhets- och integritetsrisker, till exempel att köra skadlig kod eller spåra webbplatsaktivitet. Kör endast skript från tillägg eller källor som du litar på.
+webext-perms-extra-warning-userScripts-long = Overifierade skript kan utgöra säkerhets- och integritetsrisker, som att köra skadlig kod eller spåra webbplatsaktivitet. Kör bara skript från tillägg eller källor som du litar på.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
-webext-perms-extra-warning-userScripts-short = Overifierade skript kan utgöra säkerhets- och integritetsrisker. Kör endast skript från tillägg eller källor som du litar på.
+webext-perms-extra-warning-userScripts-short = Overifierade skript kan utgöra säkerhets- och integritetsrisker. Kör bara skript från tillägg eller källor som du litar på.
