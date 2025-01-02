@@ -187,6 +187,18 @@ shopping-survey-terms-link = Điều khoản sử dụng
 shopping-survey-thanks =
     .heading = Cảm ơn phản hồi của bạn!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Vui lòng cho chúng tôi biết lý do bạn tắt Trình kiểm tra đánh giá. Có thể chọn nhiều mục.
+shopping-survey-thanks-title = Cảm ơn phản hồi của bạn!
+shopping-survey-opted-out-hard-to-understand = Nó quá khó để hiểu
+shopping-survey-opted-out-too-slow = Nó quá chậm
+shopping-survey-opted-out-not-accurate = Nó không chính xác
+shopping-survey-opted-out-not-helpful = Nó không giúp ích cho tôi
+shopping-survey-opted-out-check-myself = Tự tôi kiểm tra đánh giá
+shopping-survey-opted-out-other = Lý do khác
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
