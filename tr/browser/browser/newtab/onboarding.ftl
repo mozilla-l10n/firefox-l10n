@@ -440,6 +440,7 @@ onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
 
 ## Multi Profiles feature onboarding messages
