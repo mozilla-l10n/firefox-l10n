@@ -189,6 +189,11 @@ shopping-survey-terms-link = 이용 약관
 shopping-survey-thanks =
     .heading = 의견을 보내 주셔서 감사합니다!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = 리뷰 검사기를 끄신 이유를 알려주세요. 필요한 경우 여러 개를 선택하세요.
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
