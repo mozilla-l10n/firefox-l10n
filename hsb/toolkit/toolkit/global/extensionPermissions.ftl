@@ -33,3 +33,10 @@ webext-perms-description-topSites = Mějće přistup k přehladowanskej historij
 webext-perms-description-trialML = Sćehńće a wuwjedźće Modele KI na swojim graće
 webext-perms-description-userScripts = Njepřepruwowanym skriptam třećich poskićowarjow přistup k wašim datam dowolić
 webext-perms-description-webNavigation = Mějće přistup k aktiwiće wobhladowaka za nawigaciju
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Njepřepruwowane skripty móža rizika za wěstotu a priwatnosć być, hdyž na přikład škódny kode wuwjedu abo aktiwiće websydłow slěduja. Wuwjedźće jenož skripty z rozšěrjenjow abo žórłow, kotrymž dowěrjeće.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Njepřepruwowane skripty móža rizika za wěstotu a priwatnosć być. Wuwjedźće jenož skripty z rozšěrjenjow abo žórłow, kotrymž dowěrjeće.
