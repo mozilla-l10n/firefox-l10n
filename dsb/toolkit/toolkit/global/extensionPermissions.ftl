@@ -38,3 +38,5 @@ webext-perms-description-webNavigation = Mějśo pśistup k aktiwiśe wobglědow
 ## displayed prominently near the usual permission description.
 
 webext-perms-extra-warning-userScripts-long = Njepśeglědane skripty mógu rizika za wěstotu a priwatnosć byś, gaž na pśikład škódny kode wuwjedu abo aktiwiśe websedłow slěduju. Wuwjeźćo jano skripty z rozšyrjenjow abo žrědłow, kótarymž dowěriśo.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Njepśeglědane skripty mógu rizika za wěstotu a priwatnosć byś. Wuwjeźćo jano skripty z rozšyrjenjow abo žrědłow, kótarymž dowěriśo.
