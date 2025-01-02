@@ -33,3 +33,8 @@ webext-perms-description-topSites = Mějśo pśistup k pśeglědowańskej histor
 webext-perms-description-trialML = Ześěgniśo a wuwjeźćo Modele KI na swójom rěźe
 webext-perms-description-userScripts = Njepśeglědanym skriptam tśeśich póbitowarjow pśistup k wašym datam dowóliś
 webext-perms-description-webNavigation = Mějśo pśistup k aktiwiśe wobglědowaka za nawigaciju
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Njepśeglědane skripty mógu rizika za wěstotu a priwatnosć byś, gaž na pśikład škódny kode wuwjedu abo aktiwiśe websedłow slěduju. Wuwjeźćo jano skripty z rozšyrjenjow abo žrědłow, kótarymž dowěriśo.

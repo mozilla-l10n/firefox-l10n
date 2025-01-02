@@ -189,6 +189,18 @@ shopping-survey-terms-link = Wužywańske wuměnjenja
 shopping-survey-thanks =
     .heading = Źěkujomy se za waš komentar!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Pšosym dajśo nam k wěsći, cogodla sćo znjemóžnił kontrolu pógódnośenjow. Móžośo někotare móžnosći wubraś, jolic trjeba.
+shopping-survey-thanks-title = Źěkujomy se za waš komentar!
+shopping-survey-opted-out-hard-to-understand = Jo śěžko rozměś
+shopping-survey-opted-out-too-slow = Jo pśepómały
+shopping-survey-opted-out-not-accurate = Njejo dokradny
+shopping-survey-opted-out-not-helpful = Njejo wužytny za mnjo
+shopping-survey-opted-out-check-myself = Pśeglědujom lubjej pógódnośenja sam
+shopping-survey-opted-out-other = Druge
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
