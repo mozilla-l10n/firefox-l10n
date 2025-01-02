@@ -33,3 +33,10 @@ webext-perms-description-topSites = 방문 기록에 접근
 webext-perms-description-trialML = 기기에 AI 모델을 다운로드 및 실행
 webext-perms-description-userScripts = 검증되지 않은 제3자 스크립트가 데이터에 접근하도록 허용
 webext-perms-description-webNavigation = 탐색 중 브라우저 활동에 접근
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = 확인되지 않은 스크립트는 유해한 코드를 실행하거나 웹 사이트 활동을 추적하는 등의 보안 및 개인 정보 위험을 야기할 수 있습니다. 신뢰할 수 있는 확장 기능이나 출처의 스크립트만 실행하세요.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = 확인되지 않은 스크립트는 보안 및 개인 정보 보호에 위험이 될 수 있습니다. 신뢰할 수 있는 확장 기능이나 출처의 스크립트만 실행하세요.

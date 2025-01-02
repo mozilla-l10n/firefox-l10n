@@ -193,6 +193,13 @@ shopping-survey-thanks =
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
 shopping-survey-opted-out-multiselect-label = 리뷰 검사기를 끄신 이유를 알려주세요. 필요한 경우 여러 개를 선택하세요.
+shopping-survey-thanks-title = 의견을 보내 주셔서 감사합니다!
+shopping-survey-opted-out-hard-to-understand = 이해하기 어려움
+shopping-survey-opted-out-too-slow = 너무 느림
+shopping-survey-opted-out-not-accurate = 정확하지 않음
+shopping-survey-opted-out-not-helpful = 도움이 되지 않음
+shopping-survey-opted-out-check-myself = 리뷰를 직접 확인
+shopping-survey-opted-out-other = 기타
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
