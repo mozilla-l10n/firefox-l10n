@@ -185,6 +185,18 @@ shopping-survey-terms-link = תנאי שימוש
 shopping-survey-thanks =
     .heading = תודה על המשוב שלך!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = נשמע לשמוע מדוע כיבית את בודק הסקירות. ניתן לסמן מספר אפשרויות אם יש בכך צורך.
+shopping-survey-thanks-title = תודה על המשוב שלך!
+shopping-survey-opted-out-hard-to-understand = זה קשה להבנה
+shopping-survey-opted-out-too-slow = זה איטי מידי
+shopping-survey-opted-out-not-accurate = זה לא מדויק
+shopping-survey-opted-out-not-helpful = זה לא מועיל לי
+shopping-survey-opted-out-check-myself = אעדיף לבדוק סקירות בעצמי
+shopping-survey-opted-out-other = אחר
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.

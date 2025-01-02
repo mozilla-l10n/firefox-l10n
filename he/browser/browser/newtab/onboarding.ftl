@@ -405,7 +405,8 @@ tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בב
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = תגידו שלום לפרופילים של { -brand-product-name }
-multi-profile-spotlight-body = מעבר קל בין גלישה לעבודה לבין גלישה בשביל הכיף. פרופילים שומרים על נתוני הגלישה שלך, לרבות היסטורית חיפוש וססמאות, מופרדים לחלוטין אחד מהשני כדי שניתן להישאר מסודר ומאורגן.
+multi-profile-spotlight-body = מעבר קל בין גלישה לעבודה לבין גלישה בשביל הכיף. פרופילים שומרים על נתוני הגלישה שלך, לרבות היסטוריית חיפוש וססמאות, מופרדים לחלוטין אחד מהשני כדי שניתן להישאר מסודר ומאורגן.
 multi-profile-spotlight-cta = יצירת פרופיל
 multi-profile-callout-title = יצירת פרופילים שונים לעבודה ולהנאה
+multi-profile-callout-subtitle = פרופילים מאפשרים לך לשמור על נתוני הגלישה שלך, לרבות היסטוריית חיפוש וססמאות, מופרדים לחלוטין אחד מהשני.
 multi-profile-callout-cta = יצירת פרופיל
