@@ -199,6 +199,15 @@ shopping-survey-terms-link = Zásady používání
 shopping-survey-thanks =
     .heading = Děkujeme za vaši zpětnou vazbu!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Dejte nám prosím vědět, proč jste vypnuli Kontrolu recenzí. Můžete vybrat více možností, pokud je to potřeba.
+shopping-survey-thanks-title = Děkujeme za vaši zpětnou vazbu!
+shopping-survey-opted-out-hard-to-understand = Je těžké tomu porozumět
+shopping-survey-opted-out-too-slow = Je příliš pomalá
+shopping-survey-opted-out-not-accurate = Není to přesné
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
