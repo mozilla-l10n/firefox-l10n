@@ -294,6 +294,9 @@ find-more-themes = Daha fazla tema bul
 # used for screen readers.
 addon-options-button =
     .aria-label = Diğer seçenekler
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = Uzantılar ve temalar { -brand-product-name } tarayıcınızı özelleştirmenizi sağlar. Gizliliğinizi artırabilir, veriminizi yükseltebilir, multimedya oynatmayı iyileştirebilir, { -brand-product-name } tarayıcısının görünümünü değiştirebilir ve çok daha fazlasını yapabilirler. Bu küçük yazılım programları genellikle üçüncü şahıslar tarafından geliştirilir. Mükemmel güvenlik, performans ve işlevsellik için { -brand-product-name } ekibinin <a data-l10n-name="learn-more-trigger">önerdiği</a> bazı uzantı ve temaları keşfedin.
 
 ## Add-on actions
 

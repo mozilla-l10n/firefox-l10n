@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Açıkla
     .value = Seçtiğim metindeki temel kavramları basit cümlelerle açıkla ve örnekler ver.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Yazım denetimi yap
+    .value = Seçtiğim metindeki yazım ve dilbilgisi hatalarını denetle. Hataları tespit et ve metnin düzeltilmiş halini benimle paylaş. Anlam bütünlüğünü ve bilgilerin doğruluğunu koru. Önce önerilen düzeltmelerin listesini, ardından metnin düzeltilmiş halini göster.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -60,6 +64,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } sohbet botuna sor…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = YZ sohbet botu seçiminizin tamamını göremeyecek
+    .message =
+        { $selectionLength ->
+            [one] Yaklaşık { $selectionLength } karakter seçtiniz. YZ sohbet botuna en fazla { $maxLength } karakter gönderebiliyoruz.
+           *[other] Yaklaşık { $selectionLength } karakter seçtiniz. YZ sohbet botuna en fazla { $maxLength } karakter gönderebiliyoruz.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } seçiminizin tamamını göremeyecek
+    .message =
+        { $selectionLength ->
+            [one] Yaklaşık { $selectionLength } karakter seçtiniz. { $provider } servisine en fazla { $maxLength } karakter gönderebiliyoruz.
+           *[other] Yaklaşık { $selectionLength } karakter seçtiniz. { $provider } servisine en fazla { $maxLength } karakter gönderebiliyoruz.
+        }
 genai-shortcuts-hide =
     .label = Sohbet botu kısayolunu gizle
 
@@ -135,6 +158,5 @@ genai-onboarding-gemini-price = Ücretsiz ve ücretli seçenekler: Hesap açman�
 genai-onboarding-huggingchat-generate = Metin ve kod oluşturma
 genai-onboarding-huggingchat-switch = Farklı açık modeller arasında geçiş yapma
 genai-onboarding-huggingchat-price-2 = Ücretsiz: Belirli sayıda istekten sonra hesap açmanız gerekir
-genai-onboarding-huggingchat-price = Ücretsiz: Bazı görevler için hesap açmanız gerekir
 genai-onboarding-lechat-generate = Metin ve kod oluşturma
 genai-onboarding-lechat-price = Ücretsiz: Hesap açmanız gerekir
