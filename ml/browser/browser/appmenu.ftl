@@ -5,6 +5,14 @@
 
 ## App Menu
 
+appmenuitem-banner-update-available =
+    .label = പുതുപ്പതിപ്പു് ലഭ്യം — ഇറക്കിവയ്ക്കുക
+appmenuitem-banner-update-manual =
+    .label = പുതുപ്പതിപ്പു് ലഭ്യം — ഇറക്കിവയ്ക്കുക
+appmenuitem-banner-update-unsupported =
+    .label = പുതുക്കാൻ പറ്റുന്നില്ല — വ്യവസ്ഥ പൊരുത്തമല്ല
+appmenuitem-banner-update-restart =
+    .label = പുതുപ്പതിപ്പു് ലഭ്യം — ഉടനെ പുനരാരംഭിക്കുക
 appmenuitem-new-tab =
     .label = പുതിയ റ്റാബ്‌
 appmenuitem-new-window =
@@ -85,6 +93,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = താങ്ങളുടെ മറ്റ് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകളുടെ ഒരു പട്ടിക കാണുക.
 appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ്ട് സ്ഥിരീകരിക്കേണ്ടതുണ്ട്.
 appmenuitem-fxa-toolbar-sync-now2 = ഉടന്‍ സമന്വയിപ്പിക്കുക
+appmenuitem-fxa-sign-in = { -brand-product-name }-ലേക്കു് പ്രവേശിക്കുക
 appmenuitem-fxa-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "വാക്യം") }
 appmenu-account-header = അക്കൗണ്ട്
@@ -116,6 +125,7 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = കൂടുതൽ വിവരങ്ങൾ വെളിപ്പെടുത്തുക
 profiler-popup-description-title =
@@ -160,6 +170,8 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = വെബ് വികസിതാവ്
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = ദൃശ്യസങ്കേതം
 profiler-popup-presets-media-label =
@@ -169,6 +181,10 @@ profiler-popup-presets-networking-label =
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = വൈദ്യുതിശക്തി
+profiler-popup-presets-debug-label =
+    .label = തെറ്റുതിരുത്തൽ
+profiler-popup-presets-custom-label =
+    .label = യഥേഷ്ടം
 
 ## History panel
 
