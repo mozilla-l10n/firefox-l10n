@@ -16,9 +16,9 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> pratitelj blokiran od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [few] <b>{ $count }</b> pratitelja blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> pratitelja blokirano od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> program za praćenje blokiran od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> programa za praćenje blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> programa za praćenje blokirano od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } nastavlja blokirati programe za praćenje u privatnim prozorima, ali ne vodi evidenciju o tome što je blokirano.
@@ -58,9 +58,9 @@ mobile-app-title = Blokiraj oglase koji te prate na više uređaja
 mobile-app-card-content = Koristi mobilni preglednik s ugrađenom zaštitom od praćenja.
 mobile-app-links = { -brand-product-name } preglednik za <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nikada više nemoj zaboraviti lozinku
-passwords-title-logged-in = Upravljajte svojim lozinkama
+passwords-title-logged-in = Upravljaj lozinkama
 passwords-header-content = { -brand-product-name } sigurno pohranjuje vaše lozinke u vašem pregledniku.
-lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svojim uređajima na siguran način.
+lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim tvojim uređajima na siguran način.
 protection-report-passwords-save-passwords-button = Spremi lozinke
     .title = Spremi lozinke
 protection-report-passwords-manage-passwords-button = Upravljaj lozinkama
