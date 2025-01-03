@@ -11,7 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ടാഗുകള്‍ ചേര്‍ക്കുക
-pocket-panel-saved-error-generic = 'പോക്കറ്റ്' ലേക്ക് സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
+pocket-panel-saved-error-generic = { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
 pocket-panel-saved-error-tag-length = ടാഗുകള്‍ 25 അക്ഷരങ്ങളിലേക്ക് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു
 pocket-panel-saved-error-only-links = കണ്ണികള്‍ മാത്രമേ സൂക്ഷിക്കാന്‍ പറ്റു
 pocket-panel-saved-error-not-saved = പേജ് സംരക്ഷിച്ചില്ല
@@ -33,15 +33,15 @@ pocket-panel-signup-add-tags = ടാഗ് ചേർക്കുക:
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-already-have = നിലവില്‍ പോക്കറ്റ് ഉപയോക്താവാണോ?
+pocket-panel-signup-already-have = നിലവില്‍ { -pocket-brand-name } ഉപയോക്താവാണോ?
 pocket-panel-signup-learn-more = കൂടുതലറിയാം
 pocket-panel-signup-login = പ്രവേശിക്കുക
 pocket-panel-signup-signup-email = ഇമെയിൽ കൊണ്ട് പങ്ക് ചേരുക
-pocket-panel-signup-signup-cta = പോക്കറ്റിൽ പങ്കുചേരുക. തികച്ചും സൗജന്യമായി.
-pocket-panel-signup-signup-firefox = ഫയർഫോക്സിൽ പങ്ക് ചേരുക
-pocket-panel-signup-tagline = ഫയർഫോക്സിൽ നിന്ന് പോക്കറ്റിൽ ഏത് ഉപായത്തിലും, ഏത് സമയത്തും ലേഖനങ്ങളും വീഡിയോകളും സംരക്ഷിച്ച് കാണാം.
-pocket-panel-signup-tagline-story-one = ഫയർഫോക്സിൽ നിന്ന് ഏതെങ്കിലും ലേഖനം, വീഡിയോ അല്ലെങ്കിൽ താള് പോക്കറ്റ് ബട്ടൺ അടിച്ച് സംരക്ഷിക്കാം.
-pocket-panel-signup-tagline-story-two = പോക്കറ്റിൽ ഏത് ഉപായത്തിലും, ഏത് സമയത്തും കാണുക.
+pocket-panel-signup-signup-cta = { -pocket-brand-name }-ൽ പങ്കുചേരുക. തികച്ചും സൗജന്യമായി.
+pocket-panel-signup-signup-firefox = { -brand-product-name } പങ്ക് ചേരുക
+pocket-panel-signup-tagline = { -brand-product-name } നിന്ന് { -pocket-brand-name }-ൽ ഏത് ഉപായത്തിലും, ഏത് സമയത്തും ലേഖനങ്ങളും ദൃശ്യങ്ങളും കരുതിവച്ചിട്ടു് കാണാം.
+pocket-panel-signup-tagline-story-one = { -brand-product-name } നിന്ന് ഏതെങ്കിലും ലേഖനം, ദൃശ്യവും അല്ലെങ്കിൽ താള് { -pocket-brand-name } ബട്ടൺ അമ‌ൎത്തി കരുതിവയ്ക്കാം.
+pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ൽ ഏത് ഉപകരണത്തിലും, ഏത് സമയത്തും കാണുക.
 pocket-panel-signup-cta-a-fix = ഗോളാന്തരവലയിനുള്ള താങ്ങളുടെ കരുതിവയ്ക്കൽക്കരു
 pocket-panel-signup-cta-b-updated = ലേഖനങ്ങളും ദൃശ്യങ്ങളും കണ്ണികളും കരുതിവയ്ക്കാൻ { -pocket-brand-name } ബട്ടണിൽ അമർത്തുക. കരുതിവച്ച സാധനങ്ങൾ ഏതെങ്കിലും ഉപകരണത്തിൽ എപ്പോഴും നോക്കുക.
 pocket-panel-signup-cta-b-short = ലേഖനങ്ങളും ദൃശ്യങ്ങളും കണ്ണികളും കരുതിവയ്ക്കാൻ { -pocket-brand-name } ബട്ടണിൽ അമർത്തുക.
