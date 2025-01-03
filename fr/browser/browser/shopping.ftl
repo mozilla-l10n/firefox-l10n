@@ -187,6 +187,12 @@ shopping-survey-terms-link = Conditions d’utilisation
 shopping-survey-thanks =
     .heading = Merci de votre retour !
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-thanks-title = Merci de votre retour !
+shopping-survey-opted-out-other = Autre
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
