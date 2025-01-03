@@ -187,6 +187,18 @@ shopping-survey-terms-link = 使用條款
 shopping-survey-thanks =
     .heading = 感謝您的意見回饋！
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = 請告訴我們為什麼您關閉了商品評論檢查器，選項可多選。
+shopping-survey-thanks-title = 感謝您的意見回饋！
+shopping-survey-opted-out-hard-to-understand = 很難懂
+shopping-survey-opted-out-too-slow = 運作太慢了
+shopping-survey-opted-out-not-accurate = 資訊不精準
+shopping-survey-opted-out-not-helpful = 對我沒有幫助
+shopping-survey-opted-out-check-myself = 我想要自己檢查商品評論
+shopping-survey-opted-out-other = 其他
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
