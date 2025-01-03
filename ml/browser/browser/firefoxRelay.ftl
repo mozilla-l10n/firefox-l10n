@@ -11,6 +11,17 @@
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-get-unlimited-masks =
+    .label = പൊയ്മുഖങ്ങളെ കൈകാര്യം ചെയ്യുക
+    .accesskey = ക
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = താങ്ങളുടെ ഇ-തപാൽ വിലാസം പരിരക്ഷിക്കുക:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
+firefox-relay-use-mask-title = { -relay-brand-name }ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = സൗജന്യമുള്ള ഇ-തപാൽ പൊയ്മുഖത്തിന്റെ കൂടെ പാഴ്തപാലിനെ മുടക്കുക.
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ

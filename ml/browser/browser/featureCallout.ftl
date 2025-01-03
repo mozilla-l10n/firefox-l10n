@@ -39,5 +39,6 @@ sidebar-callout-survey-neutral = അത്രതൊന്നും പറയാ�
 sidebar-callout-survey-dissatisfied-2 = സന്തുഷ്ടമായില്ല
 sidebar-callout-survey-very-dissatisfied-2 = തീരെ സന്തുഷ്ടമായില്ല
 sidebar-callout-survey-dont-use-it = ഞാൻ ഉപയോഗിക്കാരില്ല
+sidebar-callout-survey-none-of-above = മുകളിലുള്ള ഏതെങ്കിലുമല്ല
 sidebar-callout-survey-submit = സമർപ്പിക്കുക
 sidebar-callout-survey-thank-you = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി

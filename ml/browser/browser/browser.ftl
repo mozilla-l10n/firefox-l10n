@@ -567,14 +567,37 @@ urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
 urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
 urlbar-searchmode-popup-search-settings = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
+    .tooltiptext = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
+urlbar-searchmode-button-no-engine =
+    .label = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
+    .tooltiptext = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = അടയാളക്കുറിപ്പുകള്‍ തിരയുക
+urlbar-result-action-search-history = നാൾവഴിയിൽ തിരയുക
+urlbar-result-action-search-tabs = ടാബുകൾ തിരയുക
+urlbar-result-action-search-actions = തിരയൽ പ്രവർത്തനങ്ങൾ
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = { $group }-ലേക്കു് മാറുക
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = { $group } തുറക്കുക
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Reader View toolbar buttons
 
@@ -673,6 +696,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = അടയാളക്കുറിപ്പുകൾ
+library-recent-activity-title =
+    .value = ഒടുവിലുള്ള പ്രവർത്തനം
 
 ## Pocket toolbar button
 
@@ -682,6 +707,15 @@ library-bookmarks-menu =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = ക്രമീകരണങ്ങൾ
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ക്രമീകരണങ്ങൾ തുറക്കുക ({ $shortcut })
+           *[other] ക്രമീകരണങ്ങൾ തുറക്കുക
+        }
 toolbar-overflow-customize-button =
     .label = ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…
     .accesskey = C
@@ -793,6 +827,12 @@ data-reporting-notification-message = { -brand-short-name } സ്വയമാ�
 data-reporting-notification-button =
     .label = പങ്കിടുന്നതു് തെരഞ്ഞെടുക്കുക
     .accesskey = ര
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = സ്വകാര്യ തിരച്ചിൽ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = സ്വകാര്യ തിരച്ചിൽ
+content-analysis-panel-title = ദത്ത സംരക്ഷണം
 
 ## Unified extensions (toolbar) button
 
