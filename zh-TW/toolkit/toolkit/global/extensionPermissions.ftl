@@ -33,3 +33,10 @@ webext-perms-description-topSites = 取得瀏覽紀錄
 webext-perms-description-trialML = 下載 AI 模型，並在您的裝置上執行
 webext-perms-description-userScripts = 允許未驗證的第三方指令碼存取您的資料
 webext-perms-description-webNavigation = 在上網時了解瀏覽器行為狀態
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = 未經驗證的指令碼，可能會執行有害程式或追蹤您的上網行為，造成安全性與隱私風險。請只執行來自可信的擴充套件或來源的指令碼。
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = 未經驗證的指令碼，可能會造成安全性與隱私風險。請只執行來自可信的擴充套件或來源的指令碼。
