@@ -136,7 +136,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Opne { -brand-short-name } automatisk når datamaskina di startar opp
     .accesskey = O
-windows-launch-on-login-disabled = Denne innstillinga er deaktivert i Windows. For å endre, gå til <a data-l10n-name="startup-link">Oppstartsapper</a> i Systeminnstillingar.
+windows-launch-on-login-disabled = Denne innstillinga er deaktivert i Windows. For å endre, gå til <a data-l10n-name="startup-link">Appar > Oppstart</a> i Systeminnstillingar.
 windows-launch-on-login-profile-disabled = Aktiver denne innstillinga ved å merke av for «{ profile-manager-use-selected.label }» i «Vel brukarprofil»-vindauget.
 startup-restore-warn-on-quit =
     .label = Åtvar meg når eg avsluttar nettlesaren
@@ -569,8 +569,7 @@ home-prefs-shortcuts-description = Nettstadar du lagrar eller besøkjer
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsa snarvegar
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Tilrådd av { $provider }
