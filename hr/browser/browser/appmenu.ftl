@@ -282,6 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
+appmenu-services-header = Moje usluge
 
 ## Profiles panel
 

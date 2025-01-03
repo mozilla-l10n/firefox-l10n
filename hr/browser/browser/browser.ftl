@@ -51,6 +51,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pregledavanje
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -657,6 +662,12 @@ urlbar-result-action-search-bookmarks = Pretraži zabilješke
 urlbar-result-action-search-history = Pretraži povijest
 urlbar-result-action-search-tabs = Pretraži kartice
 urlbar-result-action-search-actions = Traži radnje
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Prijeđi na { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Otvori { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -1010,6 +1021,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Proširenja
+    .tooltiptext =
+        Proširenja
+        Neka proširenja su deaktivirana
 
 ## Private browsing reset button
 

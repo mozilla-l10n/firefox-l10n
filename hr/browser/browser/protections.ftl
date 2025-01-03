@@ -79,9 +79,9 @@ lockwise-scanned-text-breached-logins =
 # $count (Number) - Number of passwords stored in Lockwise.
 lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] Jedna lozinka sigurno je pohranjena.
-        [few] Tvoje lozinke sigurno su pohranjene.
-       *[other] Tvoje lozinke sigurno su pohranjene.
+        [one] Jedna lozinka je sigurno spremljena.
+        [few] Tvoje su lozinke sigurno spremljene.
+       *[other] Tvoje su lozinke sigurno spremljene.
     }
 lockwise-how-it-works-link = Kako ovo funkcionira
 monitor-title = Pazi na curenje podataka

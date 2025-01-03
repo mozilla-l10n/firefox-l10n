@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nije mogao generirati novu masku. HTTP kod greške: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nije mogao pronaći maske za višekratnu upotrebu. HTTP kod greške: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Moraš se prijaviti na { -fxaccount-brand-name } kako bi koristio/la { -relay-brand-name }.
 firefox-relay-must-login-to-account = Prijavi se na svoj račun da bi koristio/la svoje { -relay-brand-name } maske za e-mail adrese.
@@ -33,3 +33,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ne sada
+    .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Dalje
+    .accesskey = D

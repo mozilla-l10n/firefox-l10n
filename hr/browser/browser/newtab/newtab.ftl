@@ -447,3 +447,12 @@ newtab-topic-selection-button-maybe-later = Možda kasnije
 newtab-topic-selection-privacy-link = Saznaj kako štitimo i upravljamo podacima
 newtab-topic-selection-button-update-interests = Aktualiziraj tvoje interese
 newtab-topic-selection-button-pick-interests = Odaberi tvoje interese
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Ne sada

@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Koristite preglednik koji podržava nep
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovija verzija je izgrađena oko tebe, što više nego ikad olakšava kretanje po webu. Prepun je funkcija za koje mislimo da ćeš ih obožavati.
 mr2022-onboarding-get-started-primary-button-label = Postavi u tren oka
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Super brzo postavljanje
 mr2022-onboarding-import-subtitle = Postavi { -brand-short-name } kako ti se sviđa. Dodaj zabilješke, lozinke i još mnogo toga iz svog starog preglednika.
@@ -388,6 +390,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Koristio/la sam ga u pro
 onboarding-new-tabs-title = Reci nam gdje želiš prikazati kartice
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Promijeni položaj kad god želiš u postavkama bočne trake.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tvoje kartice na tvoj način
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Odaberi raspored kartica
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Kartice na strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -417,3 +423,9 @@ onboarding-checklist-pin = Prikvači { -brand-short-name } na programsku traku
 onboarding-checklist-import = Uvezi iz prethodnog preglednika
 onboarding-checklist-extension = Dodaj proširenje
 onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
