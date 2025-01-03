@@ -192,7 +192,14 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
-shopping-survey-opted-out-multiselect-label = Láttu okkur vita hvers vegna þú slökktir á Review Checker. Veldu margar ef þörf krefur.
+shopping-survey-opted-out-multiselect-label = Láttu okkur vita hvers vegna þú slökktir á umsagnaskoðuninni. Veldu margar ef þörf krefur.
+shopping-survey-thanks-title = Takk fyrir álit þitt!
+shopping-survey-opted-out-hard-to-understand = Það er erfitt að skilja þetta
+shopping-survey-opted-out-too-slow = Það er of hægvirkt
+shopping-survey-opted-out-not-accurate = Það er ekki nákvæmt
+shopping-survey-opted-out-not-helpful = Það er ekki gagnlegt fyrir mig
+shopping-survey-opted-out-check-myself = Ég vil frekar skoða umsagnir sjálf/ur
+shopping-survey-opted-out-other = Annað
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to

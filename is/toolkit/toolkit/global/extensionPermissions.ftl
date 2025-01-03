@@ -33,3 +33,10 @@ webext-perms-description-topSites = Fá aðgang að vafraferli
 webext-perms-description-trialML = Sæktu og keyrðu gervigreindarlíkön á tækinu þínu
 webext-perms-description-userScripts = Leyfa óstaðfestum skriftum frá utanaðkomandi aðilum að fá aðgang að gögnunum þínum
 webext-perms-description-webNavigation = Skoða vafranotkun við að fara um
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu, svo sem það að keyra skaðlegan kóða eða rekja virkni vefsvæðis. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
