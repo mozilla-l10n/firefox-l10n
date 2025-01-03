@@ -52,15 +52,46 @@ firefoxview-history-context-delete = നാള്‍വഴിയിൽ നിന
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = തുറന്ന ടാബുകള്‍
+    .title = തുറന്ന ടാബുകള്‍
+firefoxview-opentabs-header = തുറന്ന ടാബുകള്‍
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = അടുത്തിടെ അടച്ച ടാബുകള്‍
+    .title = അടുത്തിടെ അടച്ച ടാബുകള്‍
+firefoxview-recently-closed-header = അടുത്തിടെ അടച്ച ടാബുകള്‍
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
 
 ##
 
+firefoxview-show-all = എല്ലാം കാണിക്കുക
+firefoxview-search-text-box-clear-button =
+    .title = മായ്ക്കുക
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = തിരയുക
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = നാൾവഴിയിൽ തിരയുക
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = അടുത്തിടെ അടച്ച ടാബുകളിൽ തിരയുക
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ടാബുകൾ തിരയുക
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = തുറന്ന ടാബുകൾ തിരയുക
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = { $query } എന്നതിനായുള്ള തിരയൽഫലങ്ങൾ
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

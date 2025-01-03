@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -34,11 +40,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ല്‍ നിന്നും പുറത്ത് കടക്കുക
-
 menu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
@@ -77,12 +81,18 @@ menu-file-save-page =
 menu-file-email-link =
     .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…
     .accesskey = E
+menu-file-share-url =
+    .label = പങ്കിടുക
+    .accesskey = പ
 menu-file-print-setup =
     .label = താള്‍ സജ്ജീകരണം...
     .accesskey = u
 menu-file-print =
     .label = പ്രിന്റ് ചെയ്യുക...
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്നു് ഇറക്കുമതിക്കുക.
+    .accesskey = ഇ
 menu-file-go-offline =
     .label = ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക
     .accesskey = k
@@ -92,6 +102,9 @@ menu-file-go-offline =
 menu-edit =
     .label = ചിട്ടപ്പെടുത്തുക
     .accesskey = E
+menu-edit-find-in-page =
+    .label = താളില്‍ കണ്ടെത്തുക…
+    .accesskey = ക
 menu-edit-find-again =
     .label = വീണ്ടും കണ്ടെത്തുക
     .accesskey = g
@@ -107,6 +120,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ടൂള്‍ബാറുകള്‍
     .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = ഉപകരണപട്ട ഇഷ്ടാനുസൃതമാക്കുക
+    .accesskey = ഇ
 menu-view-sidebar =
     .label = സൈഡ് ബാര്‍
     .accesskey = e
@@ -116,6 +132,8 @@ menu-view-history-button =
     .label = നാള്‍വഴി
 menu-view-synced-tabs-sidebar =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
+menu-view-megalist-sidebar =
+    .label = രഹസ്യവാക്കുകൾ
 menu-view-full-zoom =
     .label = വലിപ്പം മാറ്റുക
     .accesskey = Z
@@ -193,12 +211,24 @@ menu-history-undo-menu =
     .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
 menu-history-undo-window-menu =
     .label = അടുത്തിടെ അടച്ച ജാലകങ്ങള്‍
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = നാൾവഴിയിൽ തിരയുക
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = B
+menu-bookmarks-manage =
+    .label = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
+menu-bookmark-tab =
+    .label = നിലവിലുള്ള ടാബിനെ കുറിച്ചിടുക
+menu-edit-bookmark =
+    .label = ഈ അടയാളക്കുറിപ്പിനെ തിരുത്തുക
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = അടയാളക്കുറിപ്പുകള്‍ തിരയുക
 menu-bookmarks-all-tabs =
     .label = എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...
 menu-bookmarks-toolbar =
@@ -208,6 +238,15 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = മൊബൈൽ ബുക്ക്മാർക്ക്
 
+## Profiles Menu
+
+menu-profiles =
+    .label = രൂപരേഖകൾ
+menu-profiles-manage-profiles =
+    .label = രൂപരേഖകളെ കൈകാര്യം ചെയ്യുക
+menu-profiles-new-profile =
+    .label = പുതിയ രൂപരേഖ
+
 ## Tools Menu
 
 menu-tools =
@@ -216,6 +255,12 @@ menu-tools =
 menu-tools-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
     .accesskey = D
+menu-tools-fxa-sign-in2 =
+    .label = പ്രവേശിക്കുക
+    .accesskey = പ
+menu-tools-turn-on-sync2 =
+    .label = സമന്വയം തുടങ്ങിവയ്ക്കുക…
+    .accesskey = സ
 menu-tools-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
     .accesskey = S
@@ -225,6 +270,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = താള്‍ വിവരങ്ങള്‍
     .accesskey = I
+menu-settings =
+    .label = ക്രമീകരണങ്ങള്‍
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ക
+           *[other] ക
+        }
 
 ## Window Menu
 
