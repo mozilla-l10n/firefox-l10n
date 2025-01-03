@@ -572,8 +572,7 @@ home-prefs-shortcuts-description = Stranice koje spremiš ili posjetiš
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorirani prečaci
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
@@ -1445,7 +1444,7 @@ preferences-doh-setting-off =
     .accesskey = I
 preferences-doh-off-desc = Koristi svoj standarni DNS server
 preferences-doh-checkbox-warn =
-    .label = Upozori ukoliko treća strana aktivno sprječava sigurni DNS
+    .label = Upozori ukoliko treća strana aktivno sprečava sigurni DNS
     .accesskey = U
 preferences-doh-select-resolver = Odaberi pružatelja usluge:
 preferences-doh-exceptions-description = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama

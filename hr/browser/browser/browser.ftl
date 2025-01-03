@@ -977,7 +977,7 @@ private-browsing-indicator-tooltip =
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
-    .tooltiptext = Sprječavanje gubitka podataka od { $agentName }. Kliknite za više informacija.
+    .tooltiptext = Sprečavanje gubitka podataka (DLP) od { $agentName }. Klikni za više informacija.
 content-analysis-panel-title = Zaštita podataka
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1006,6 +1006,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Proširenja
         Neka proširenja nisu dozvoljena
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
