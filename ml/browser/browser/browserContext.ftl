@@ -377,6 +377,11 @@ main-context-menu-inspect =
 main-context-menu-eme-learn-more =
     .label = ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = { $containerName } ടാബിൽ കണ്ണി തുറക്കുക
+    .accesskey = ത
 main-context-menu-reveal-password =
     .label = രഹസ്യവാക്കു് വെളിപ്പെടുത്തുക
     .accesskey = വ

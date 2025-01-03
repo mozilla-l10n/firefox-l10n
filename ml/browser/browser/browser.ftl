@@ -181,6 +181,9 @@ urlbar-result-menu-tip-get-help =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = താങ്ങൾക്കു് ആവശ്യമുള്ളതു് പെട്ടന്നു് കണ്ടെത്താൻ ഈ കുറുക്കുവഴി തിരഞ്ഞെടുക്കുക.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -526,11 +529,32 @@ urlbar-result-action-search-in-private-w-engine = { $engine } കൂടെ സ�
 urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച് തെരയുക
 urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = പകർത്തൽപെട്ടിയിൽ അവസാന പക‌‍ർത്തിയ കണ്ണിയിലേക്കു് ചെല്ലുക
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = { $engine }-ന്റെ കൂടെ പരതുക
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode } തിരയുക
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } കൂടെ പരതുക
+urlbar-searchmode-dropmarker =
+    .tooltiptext = തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
 urlbar-searchmode-bookmarks =
     .label = അടയാളക്കുറിപ്പുകള്‍
 urlbar-searchmode-tabs =
@@ -541,6 +565,7 @@ urlbar-searchmode-actions =
     .label = പ്രവര്‍ത്തികൾ
 urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
+urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
 urlbar-searchmode-popup-search-settings = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
 
 ## Action text shown in urlbar results, usually appended after the search

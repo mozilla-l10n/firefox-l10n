@@ -218,6 +218,11 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
+appmenu-help-share-ideas =
+    .label = ഊഹങ്ങളും പ്രതികരണവും കൊടുക്കുക
+    .accesskey = ക
+appmenu-help-switch-device =
+    .label = പുതിയ ഉപകരണത്തിലേക്കു് മാറുന്നു
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -256,6 +261,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ദത്ത ലംഘന അറിയിപ്പുകൾ നേടുക
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = താങ്ങളുടെ യഥാർത്ഥ ഇ-തപാലും ഫോണും മറയ്ക്കുക
+appmenu-services-header = ഞാൻ ഉപയോഗിക്കുന്ന സേവണങ്ങൾ
 
 ## Profiles panel
 
