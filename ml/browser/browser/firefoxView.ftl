@@ -20,6 +20,8 @@ firefoxview-empty-state-icon =
     .alt = ശ്രദ്ധിക്കുക:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ഇപ്പോഴ്
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = സമന്വയിപ്പുതോടു് എടുത്തതു്
 firefoxview-tabpickup-description = മറ്റ് ഉപകരണങ്ങളിൽ നിന്ന് താളുകൾ തുറക്കുക.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -27,9 +29,26 @@ firefoxview-tabpickup-progress-label = % കഴിഞ്ഞു
 firefoxview-tabpickup-step-signin-header = ഉപകരണങ്ങൾക്കിടയിൽ തടസ്സമില്ലാതെ മാറുക
 firefoxview-tabpickup-step-signin-description = നിങ്ങളുടെ ഫോൺ ടാബുകൾ ഇവിടെ നേടുന്നതിന്, ആദ്യം പ്രവേശിക്കൽ ചെയ്യുക അല്ലെങ്കിൽ ഒരു അക്കൗണ്ട് ഉണ്ടാക്കുക
 firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
+firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
+firefoxview-syncedtabs-signin-header = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
+firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
+firefoxview-syncedtabs-adddevice-header-2 = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
+firefoxview-tabpickup-network-offline-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
+firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
+firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക
+firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
+firefoxview-collapse-button-show =
+    .title = പട്ടിക കാണിക്കുക
+firefoxview-collapse-button-hide =
+    .title = പട്ടിക മരയ്ക്കുക
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = നാള്‍വഴി
+    .title = നാള്‍വഴി
+firefoxview-history-header = നാള്‍വഴി
+firefoxview-history-context-delete = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
+    .accesskey = ഒ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
