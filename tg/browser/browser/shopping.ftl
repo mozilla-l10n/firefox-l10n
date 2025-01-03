@@ -187,6 +187,18 @@ shopping-survey-terms-link = Шартҳои истифода
 shopping-survey-thanks =
     .heading = Ташаккур барои изҳори назари шумо!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Лутфан, ба мо маълумот диҳед, ки чаро шумо «Абзори тафтиши тақризҳо»-ро хомӯш кардед. Агар лозим бошад, якҷанд ҷавобро интихоб намоед.
+shopping-survey-thanks-title = Ташаккур барои изҳори назари шумо!
+shopping-survey-opted-out-hard-to-understand = Ин душворфаҳм аст
+shopping-survey-opted-out-too-slow = Ин хеле суст аст
+shopping-survey-opted-out-not-accurate = Ин дақиқ нест
+shopping-survey-opted-out-not-helpful = Ин ба ман муфид нест
+shopping-survey-opted-out-check-myself = Беҳтар, агар ман тақризҳоро худам тафтиш кунам
+shopping-survey-opted-out-other = Дигар
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
