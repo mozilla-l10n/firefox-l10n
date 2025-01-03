@@ -189,6 +189,11 @@ shopping-survey-terms-link = Notkunarskilmálar
 shopping-survey-thanks =
     .heading = Takk fyrir álit þitt!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Láttu okkur vita hvers vegna þú slökktir á Review Checker. Veldu margar ef þörf krefur.
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
