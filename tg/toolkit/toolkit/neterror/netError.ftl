@@ -154,4 +154,4 @@ cert-error-trust-certificate-transparency-what-can-you-do-about-it = Эҳтим�
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
-neterror-response-status-code = Рамзи хато: { $responsestatus } { $responsestatusext }
+neterror-response-status-code = Рамзи хато: { $responsestatus } { $responsestatustext }
