@@ -292,6 +292,7 @@ amo-picker-collection-link = Открийте още добавки
 onboarding-easy-setup-security-and-privacy-title = Обичаме да ви пазим в безопасност
 # Sign up or Sign in screen
 onboarding-sign-up-title = Синхронизирайте данните си между устройства
+onboarding-sign-up-button = Регистрирайте се или се впишете
 onboarding-sign-up-secondary-button = Започнете да сърфирате
 
 ## New user time and familiarity survey strings
@@ -307,6 +308,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ползвал съм г
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Кажете ни къде искате да са разделите
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Вашите раздели, по ваш начин
 # Additional setup card for setting up aichatbot in the sidebar
@@ -320,3 +323,4 @@ onboarding-genai-sidebar-title = Опитайте чатбот с AI в стра
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Създаване на профил
