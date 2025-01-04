@@ -200,8 +200,10 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Ακύρωση
     .accesskey = Α
+tab-group-menu-header = Ομάδες καρτελών
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
+tab-group-name-default = Ανώνυμη ομάδα
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
