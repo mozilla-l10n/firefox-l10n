@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Generacion de l’àlias { -relay-brand-name } novèl impossibla. Còdi d’error HTTP : { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } a pas pogut trobar cap d’àlias reütilizable. Còdi d’error HTTP : { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Devètz vos connectar a { -fxaccount-brand-name } per poder utilizar { -relay-brand-name }.
 firefox-relay-must-login-to-account = Connectatz-vos a vòstre compte per utilizar vòstres àlias de messatjariá { -relay-brand-name }.
@@ -33,3 +33,21 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Pas ara
     .accesskey = P
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Crear un compte
+    .accesskey = C
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Me mostrar pas mai aquò
+    .accesskey = M
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

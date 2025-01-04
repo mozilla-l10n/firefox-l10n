@@ -51,6 +51,64 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Navegacion privada de { -brand-shortcut-name }
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .*-with-profile are for use when there a SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } navegacion privada
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Navegacion privada { -brand-full-name }
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegacion privada { -brand-full-name }
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .*-with-profile are for use when there a SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegacion privada
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navegacion privada
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegacion privada
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -650,6 +708,9 @@ urlbar-result-action-search-bookmarks = Cercar dins los marcapaginas
 urlbar-result-action-search-history = Cercar dins l’istoric
 urlbar-result-action-search-tabs = Cercar pels onglets
 urlbar-result-action-search-actions = Accions de recèrca
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Dobrir { $group }
 
 ## Labels shown above groups of urlbar results
 

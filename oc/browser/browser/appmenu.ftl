@@ -278,6 +278,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recebètz d’alèrtas de divulgacions de donadas
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenu-services-header = Mos servicis
 
 ## Profiles panel
 
